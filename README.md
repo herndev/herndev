@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)
- - ⏩ [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - 👉 [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)<!-- MEMES:END -->
+ - 💣 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - ⏩ [NieR:Automata Ver1.1a](http://9gag.com/gag/aZDyRnp)
+ - 👉 [*screeching intensifies*](http://9gag.com/gag/aqenDGZ)<!-- MEMES:END -->
 
 ---
 
