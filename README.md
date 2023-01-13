@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mac Pro in testing, Apple VR headset in sight, MacBook Pro with touchscreen](https://appleinsider.com/articles/23/01/13/new-mac-pro-in-testing-apple-vr-headset-in-sight-macbook-pro-with-touchscreen?utm_medium=rss)
- - [Spark Mail 2.11 Review: e-mail organizer with Gatekeeper &amp; Smart Inbox](https://appleinsider.com/articles/23/01/13/spark-mail-211-review-e-mail-organizer-with-gatekeeper-smart-inbox?utm_medium=rss)
- - [A bankruptcy judge lets FTX sell its derivatives exchange LedgerX, clearing company Embed, and European and Japanese operations to raise money for creditors &lpar;Benjamin Robertson/The Block&rpar;](http://www.techmeme.com/230113/p8#a230113p8)<!-- TECH:END -->
+ - [MGG Wireless Charging Station review: You get what you pay for](https://appleinsider.com/articles/23/01/13/mgg-wireless-charging-station-review-you-get-what-you-pay-for?utm_medium=rss)
+ - [House GOP plans a subcommittee dedicated to crypto oversight, to be chaired by Rep. French Hill, who led GOP efforts to explore a central bank digital currency &lpar;Politico&rpar;](http://www.techmeme.com/230113/p9#a230113p9)
+ - [Daily Deals Jan. 13: $410 off MacBook Pro, 44% off Apple Smart Keyboard, 20% off Xbox Series S &amp; more](https://appleinsider.com/articles/23/01/13/daily-deals-jan-13-410-off-macbook-pro-44-off-apple-smart-keyboard-20-off-xbox-series-s-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
