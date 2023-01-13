@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banning ChatGPT in schools will be hard, so teachers should treat ChatGPT like a calculator: assume students are using it unless they are physically supervised &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230113/p2#a230113p2)
- - [You told us: Many of you have multiple power banks](https://www.androidauthority.com/power-bank-for-phone-poll-results-3266284/)
- - [Crypto.com lays off about 20% of its global workforce citing the crypto downturn and the FTX implosion as reasons &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230113/p1#a230113p1)<!-- TECH:END -->
+ - [Daily Authority: 📺 New Chromecast with Google TV incoming](https://www.androidauthority.com/daily-authority-january-13-2023-3266324/)
+ - [Twitter users say Tweetbot, Twitterrific, and other third-party apps are broken, possibly due to Twitter&#39;s API being down; Twitter has offered no explanation &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230113/p5#a230113p5)
+ - [Sources: Chinese authorities plan to allow Didi&#39;s ride-hailing and other apps back on app stores as soon as next week, another sign of the loosening crackdown &lpar;Reuters&rpar;](http://www.techmeme.com/230113/p4#a230113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
