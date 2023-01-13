@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your LG TV, as it may have just been recalled for a safety risk](https://www.androidauthority.com/lg-tv-recall-3266506/)
- - [After criticism, YouTube plans to change a policy announced in November that limits ads or demonetizes a creator&#39;s video if they swear in the first 15 seconds &lpar;The Verge&rpar;](http://www.techmeme.com/230113/p13#a230113p13)
- - [Groggy After Taking Melatonin? Try These 7 Natural Sleep Aids     - CNET](https://www.cnet.com/health/sleep/groggy-after-taking-melatonin-try-these-7-natural-sleep-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)
+ - [Sources: Goldman Sachs&#39; Platform Solutions lost ~$2B in 2022, mostly due to the Apple Card and Goldman&#39;s installment-lending platform GreenSky &lpar;Sridhar Natarajan/Bloomberg&rpar;](http://www.techmeme.com/230113/p14#a230113p14)
+ - [Check your LG TV, as it may have just been recalled for a safety risk](https://www.androidauthority.com/lg-tv-recall-3266506/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
