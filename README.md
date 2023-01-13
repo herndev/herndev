@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a report, CNET says it is testing AI to help editors write some articles, has changed bylines on AI-assisted posts, and made disclosures more prominent &lpar;Connie Guglielmo/CNET&rpar;](http://www.techmeme.com/230112/p37#a230112p37)
- - [TikTok is testing, with a few select agencies, a Talent Manager Portal which makes it easier for creators&#39; agents and representatives to negotiate brand deals &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230112/p36#a230112p36)
- - [Lisa Marie Presley, Singer&#39;s Daughter, Dies at 54     - CNET](https://www.cnet.com/culture/entertainment/lisa-marie-presley-singers-daughter-dies-at-54/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Tokyo-headquartered aggregator SmartNews, valued at $2B as of 2021, lays off ~120 people, or 40% of US and China staff, with more cuts to come in Japan &lpar;TechCrunch&rpar;](http://www.techmeme.com/230112/p39#a230112p39)
+ - [Sources: the UK&#39;s Royal Mail postal service was hit by a Russia-linked LockBit ransomware gang causing severe disruption to overseas deliveries since January 11 &lpar;Gareth Corfield/Telegraph&rpar;](http://www.techmeme.com/230112/p38#a230112p38)
+ - [After a report, CNET says it is testing AI to help editors write some articles, has changed bylines on AI-assisted posts, and made disclosures more prominent &lpar;Connie Guglielmo/CNET&rpar;](http://www.techmeme.com/230112/p37#a230112p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
