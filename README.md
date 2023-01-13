@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not this again....](http://9gag.com/gag/abvGEME)
- - ⏩ [Never thought I&#39;d buy a game side by side with a pirate. How about side by side with a friend?](http://9gag.com/gag/adPVdQd)
- - 👉 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)<!-- MEMES:END -->
+ - 💣 [Hmmmm](http://9gag.com/gag/armVqed)
+ - ⏩ [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 👉 [The future of television is here](http://9gag.com/gag/a1PWVGb)<!-- MEMES:END -->
 
 ---
 
