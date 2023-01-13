@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might use LG to produce micro LED Apple Watch displays](https://appleinsider.com/articles/23/01/13/apple-might-use-lg-to-produce-micro-led-apple-watch-displays?utm_medium=rss)
- - [A US district court orders the distribution of $17M+ in restitution to ~800 victims of the BitConnect Ponzi scheme from 40+ countries; BitConnect folded in 2018 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/230113/p10#a230113p10)
- - [Exclusive Marvel Show Coming to a Disney Park, Uses 500 Drones     - CNET](https://www.cnet.com/culture/entertainment/exclusive-marvel-show-coming-to-a-disney-park-uses-500-drones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam&#39;s Club membership deal: get 1 year of access to the warehouse club for $24.99](https://appleinsider.com/articles/23/01/13/sams-club-membership-deal-get-1-year-of-access-to-the-warehouse-club-for-2499?utm_medium=rss)
+ - [Samsung Galaxy S22 Ultra vs S23 Ultra: Will the new handset be worth the wait?](https://www.androidauthority.com/galaxy-s22-ultra-vs-s23-ultra-3266173/)
+ - [A look at China&#39;s global satellite internet ambitions in competition with Starlink, including homegrown startups that experts say will ultimately be state-owned &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/230113/p11#a230113p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
