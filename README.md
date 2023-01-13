@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 573 answer and hint for Friday, January 13](https://www.pcgamer.com/wordle-573-answer-january-13)
  - [So far, HBO&#39;s The Last of Us is a surprisingly simple adaptation](https://www.pcgamer.com/so-far-hbos-the-last-of-us-is-a-surprisingly-simple-adaptation)
- - [Pokémon Scarlet and Violet Cinderace 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23539007/cinderace-7-star-tera-raid-counters-builds-slowbro-espathra)
- - [GTA Online has a Gun Van now, and the Gun Van is selling a railgun](https://www.pcgamer.com/gta-online-has-a-gun-van-now-and-the-gun-van-is-selling-a-railgun)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet Cinderace 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23539007/cinderace-7-star-tera-raid-counters-builds-slowbro-espathra)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
