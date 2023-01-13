@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
- - ⏩ [50 year old Eminem nailing his Rap god live performance effortlessly](http://9gag.com/gag/a1PWEN2)
- - 👉 [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)<!-- MEMES:END -->
+ - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - ⏩ [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
+ - 👉 [When hospitality goes too far](http://9gag.com/gag/armV2rB)<!-- MEMES:END -->
 
 ---
 
