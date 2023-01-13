@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: in 2022, illicit crypto transaction volume rose to an all-time high of $20.1B, of which 44% came from activity associated with sanctioned entities &lpar;Chainalysis&rpar;](http://www.techmeme.com/230112/p35#a230112p35)
- - [Apple CEO Tim Cook Could Take 40% Pay Cut in 2023     - CNET](https://www.cnet.com/tech/apple-ceo-tim-cook-could-take-40-pay-cut-in-2023/#ftag=CAD590a51e)
- - [Google argues that gutting Section 230 would &quot;upend the internet&quot; in a brief filed with the US Supreme Court ahead of a YouTube case involving terrorist content &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p34#a230112p34)<!-- TECH:END -->
+ - [After a report, CNET says it is testing AI to help editors write some articles, has changed bylines on AI-assisted posts, and made disclosures more prominent &lpar;Connie Guglielmo/CNET&rpar;](http://www.techmeme.com/230112/p37#a230112p37)
+ - [TikTok is testing, with a few select agencies, a Talent Manager Portal which makes it easier for creators&#39; agents and representatives to negotiate brand deals &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230112/p36#a230112p36)
+ - [Lisa Marie Presley, Singer&#39;s Daughter, Dies at 54     - CNET](https://www.cnet.com/culture/entertainment/lisa-marie-presley-singers-daughter-dies-at-54/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
