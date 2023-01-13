@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📺 New Chromecast with Google TV incoming](https://www.androidauthority.com/daily-authority-january-13-2023-3266324/)
- - [Twitter users say Tweetbot, Twitterrific, and other third-party apps are broken, possibly due to Twitter&#39;s API being down; Twitter has offered no explanation &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230113/p5#a230113p5)
- - [Sources: Chinese authorities plan to allow Didi&#39;s ride-hailing and other apps back on app stores as soon as next week, another sign of the loosening crackdown &lpar;Reuters&rpar;](http://www.techmeme.com/230113/p4#a230113p4)<!-- TECH:END -->
+ - [Spark Mail 2.11 Review: e-mail organizer with Gatekeeper &amp; Smart Inbox](https://appleinsider.com/articles/23/01/13/spark-mail-211-review-e-mail-organizer-with-gatekeeper-smart-inbox?utm_medium=rss)
+ - [A look at Tencent&#39;s short-video service WeChat Channels, called &quot;the hope of the company&quot; by founder Pony Ma, as the tech giant tries to build its own TikTok &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230113/p6#a230113p6)
+ - [Apple plans fix for iPhone 14 Pro horizontal lines bug](https://appleinsider.com/articles/23/01/13/apple-plans-fix-for-iphone-14-pro-horizontal-lines-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
