@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - ⏩ [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)
- - 👉 [Work hard, paid hard](http://9gag.com/gag/aVbwReK)<!-- MEMES:END -->
+ - 💣 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)
+ - ⏩ [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - 👉 [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)<!-- MEMES:END -->
 
 ---
 
