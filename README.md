@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New League of Legends action game leaks from Riot Forge](https://www.polygon.com/23553927/league-of-legends-mageseeker-sylas-demacia-riot-forge-game-leak)
- - [Vinland Saga Season 2’s Farming Arc Is Planting Seeds For A Phenomenal Payoff](https://kotaku.com/vinland-saga-season-2-anime-mappa-netflix-crunchyroll-1849985803)
- - [NetEase Dissolves Team That Maintained Blizzard Games In China](https://kotaku.com/netease-blizzard-shanghai-eastnet-network-technology-1849986596)<!-- GAME:END -->
+ - [Fortnite’s new skin has JoJo’s Bizarre Adventure fans feeling so much](https://www.polygon.com/23553901/fornite-new-skin-jojos-bizarre-adventure-jolyne)
+ - [Halo Infinite Devs Use Fan&#39;s Pokémon Map To Help With Game&#39;s Aiming Issues](https://kotaku.com/halo-infinite-xbox-pokemon-forge-diglett-343-industries-1849986942)
+ - [The 12 Best Games For Android](https://kotaku.com/the-12-best-games-for-android-5878879)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
