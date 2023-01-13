@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe I am.](http://9gag.com/gag/a7qWAKm)
- - ⏩ [Izzit..?](http://9gag.com/gag/amAvngj)
- - 👉 [Sleepy catto vs Spidey](http://9gag.com/gag/a5XWD0E)<!-- MEMES:END -->
+ - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - ⏩ [Completely normal reaction](http://9gag.com/gag/a6qK83N)
+ - 👉 [Antivax logic](http://9gag.com/gag/aVbwdzw)<!-- MEMES:END -->
 
 ---
 
