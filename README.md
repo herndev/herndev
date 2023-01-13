@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
- - ⏩ [NieR:Automata Ver1.1a](http://9gag.com/gag/aZDyRnp)
- - 👉 [*screeching intensifies*](http://9gag.com/gag/aqenDGZ)<!-- MEMES:END -->
+ - 💣 [Why is 9gag getting worse by the day?](http://9gag.com/gag/aOx74wv)
+ - ⏩ [Name an animal with 3 letters in its name](http://9gag.com/gag/a3Zw0y1)
+ - 👉 [Hmmmm](http://9gag.com/gag/armVqed)<!-- MEMES:END -->
 
 ---
 
