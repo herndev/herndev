@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam&#39;s Club membership deal: get 1 year of access to the warehouse club for $24.99](https://appleinsider.com/articles/23/01/13/sams-club-membership-deal-get-1-year-of-access-to-the-warehouse-club-for-2499?utm_medium=rss)
- - [Samsung Galaxy S22 Ultra vs S23 Ultra: Will the new handset be worth the wait?](https://www.androidauthority.com/galaxy-s22-ultra-vs-s23-ultra-3266173/)
- - [A look at China&#39;s global satellite internet ambitions in competition with Starlink, including homegrown startups that experts say will ultimately be state-owned &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/230113/p11#a230113p11)<!-- TECH:END -->
+ - [Check your LG TV, as it may have just been recalled for a safety risk](https://www.androidauthority.com/lg-tv-recall-3266506/)
+ - [After criticism, YouTube plans to change a policy announced in November that limits ads or demonetizes a creator&#39;s video if they swear in the first 15 seconds &lpar;The Verge&rpar;](http://www.techmeme.com/230113/p13#a230113p13)
+ - [Groggy After Taking Melatonin? Try These 7 Natural Sleep Aids     - CNET](https://www.cnet.com/health/sleep/groggy-after-taking-melatonin-try-these-7-natural-sleep-aids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
