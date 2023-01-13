@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
- - ⏩ [Ba dum tsss](http://9gag.com/gag/aKE7pB6)
- - 👉 [Maybe I am.](http://9gag.com/gag/a7qWAKm)<!-- MEMES:END -->
+ - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - ⏩ [Most Honest Shark Tank Pitch Ever](http://9gag.com/gag/aZDyvPn)
+ - 👉 [What&#39;s a CD Drive](http://9gag.com/gag/aRE7DPA)<!-- MEMES:END -->
 
 ---
 
