@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/armVqed)
- - ⏩ [Tricked the trickster](http://9gag.com/gag/aDY4Q1w)
- - 👉 [Jennifer Connelly aged like fine wine](http://9gag.com/gag/aVbwRWM)<!-- MEMES:END -->
+ - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - ⏩ [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)
+ - 👉 [Work hard, paid hard](http://9gag.com/gag/aVbwReK)<!-- MEMES:END -->
 
 ---
 
