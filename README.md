@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - ⏩ [Billy, bring forth the holy hand grenade](http://9gag.com/gag/avQz9dn)
- - 👉 [Ba dum tsss](http://9gag.com/gag/aKE7pB6)<!-- MEMES:END -->
+ - 💣 [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
+ - ⏩ [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)
+ - 👉 [Top gear memes are the best](http://9gag.com/gag/aEqPZmN)<!-- MEMES:END -->
 
 ---
 
