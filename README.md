@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
- - ⏩ [Satan is calling God so that he can send him somewhere worse than hell](http://9gag.com/gag/aBdmOqP)
- - 👉 [Top gear memes are the best](http://9gag.com/gag/aEqPZmN)<!-- MEMES:END -->
+ - ⏩ [Ba dum tsss](http://9gag.com/gag/aKE7pB6)
+ - 👉 [Maybe I am.](http://9gag.com/gag/a7qWAKm)<!-- MEMES:END -->
 
 ---
 
