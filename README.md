@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoviePass returns, backed by cryptocurrency firm](https://appleinsider.com/articles/23/01/13/moviepass-returns-backed-by-cryptocurrency-firm?utm_medium=rss)
- - [Apple Music chief Oliver Schusser will help lead Apple TV+](https://appleinsider.com/articles/23/01/13/apple-music-chief-oliver-schusser-will-help-lead-apple-tv?utm_medium=rss)
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
+ - [Apple might use LG to produce micro LED Apple Watch displays](https://appleinsider.com/articles/23/01/13/apple-might-use-lg-to-produce-micro-led-apple-watch-displays?utm_medium=rss)
+ - [A US district court orders the distribution of $17M+ in restitution to ~800 victims of the BitConnect Ponzi scheme from 40+ countries; BitConnect folded in 2018 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/230113/p10#a230113p10)
+ - [Exclusive Marvel Show Coming to a Disney Park, Uses 500 Drones     - CNET](https://www.cnet.com/culture/entertainment/exclusive-marvel-show-coming-to-a-disney-park-uses-500-drones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
