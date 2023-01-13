@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Official Pokémon TikTok Accidentally Makes Pikachu A Potty Mouth](https://kotaku.com/pokemon-tiktok-pikachu-clap-your-motherfucking-hands-1849987598)
- - [GTA 6’s Leak Showed Us The Future, Now It’s Hard To Care About GTA Online](https://kotaku.com/gta-6-leak-gameplay-gta-online-old-rockstar-new-update-1849987014)
- - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
+ - [An Enclave-themed group in Fallout 76 roleplayed the villains so hard it turned everyone against them](https://www.pcgamer.com/an-enclave-themed-group-in-fallout-76-roleplayed-the-villains-so-hard-it-turned-everyone-against-them)
+ - [Released Today, The Last Google Stadia Game Is A Piece Of History](https://kotaku.com/google-stadia-play-final-last-game-worm-snake-weird-1849987880)
+ - [Here&#39;s why a bunch of games, including Starfield, just changed release dates on Steam](https://www.pcgamer.com/heres-why-a-bunch-of-games-including-starfield-just-changed-release-dates-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
