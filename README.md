@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
- - ⏩ [Adios](http://9gag.com/gag/aRE7Mjq)
- - 👉 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
+ - 💣 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - ⏩ [50 year old Eminem nailing his Rap god live performance effortlessly](http://9gag.com/gag/a1PWEN2)
+ - 👉 [Computer Skills - Level: Hollywood](http://9gag.com/gag/axo9Y5L)<!-- MEMES:END -->
 
 ---
 
