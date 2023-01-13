@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta sues to ban Voyager Labs from using Facebook and Instagram, alleging the investigative software firm created 38K+ fake accounts to scrape 600K+ users&#39; data &lpar;The Guardian&rpar;](http://www.techmeme.com/230112/p32#a230112p32)
- - [Nvidia Broadcast can now deepfake your eyes to make you look at the camera](https://www.theverge.com/2023/1/12/23552606/nvidia-broadcast-1-4-eye-contact-ai-generation-webcam)
- - [The best AT&amp;T deals: 16GB of data for just $25 per month](https://www.androidauthority.com/best-att-deals-2-836102/)<!-- TECH:END -->
+ - [Apple CEO Tim Cook Could Take 40% Pay Cut in 2023     - CNET](https://www.cnet.com/tech/apple-ceo-tim-cook-could-take-40-pay-cut-in-2023/#ftag=CAD590a51e)
+ - [Google argues that gutting Section 230 would &quot;upend the internet&quot; in a brief filed with the US Supreme Court ahead of a YouTube case involving terrorist content &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p34#a230112p34)
+ - [Everything I Learned Taking Only Cold Showers for the Whole of 2022     - CNET](https://www.cnet.com/culture/internet/features/what-i-learned-taking-only-cold-showers-for-the-whole-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
