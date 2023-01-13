@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new skin has JoJo’s Bizarre Adventure fans feeling so much](https://www.polygon.com/23553901/fornite-new-skin-jojos-bizarre-adventure-jolyne)
- - [Halo Infinite Devs Use Fan&#39;s Pokémon Map To Help With Game&#39;s Aiming Issues](https://kotaku.com/halo-infinite-xbox-pokemon-forge-diglett-343-industries-1849986942)
- - [The 12 Best Games For Android](https://kotaku.com/the-12-best-games-for-android-5878879)<!-- GAME:END -->
+ - [The Official Pokémon TikTok Accidentally Makes Pikachu A Potty Mouth](https://kotaku.com/pokemon-tiktok-pikachu-clap-your-motherfucking-hands-1849987598)
+ - [GTA 6’s Leak Showed Us The Future, Now It’s Hard To Care About GTA Online](https://kotaku.com/gta-6-leak-gameplay-gta-online-old-rockstar-new-update-1849987014)
+ - [When does Hogwarts Legacy come out? That depends](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
