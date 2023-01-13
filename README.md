@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NSA Director Paul Nakasone urges Congress to renew the FISA&#39;s Section 702, set to expire in 2023, saying the surveillance law protects the US from cyberattacks &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230112/p41#a230112p41)
- - [Sources: the Cyberspace Administration of China acquired a 1% stake, or &quot;golden shares&quot;, in an Alibaba subsidiary, and plans to do the same for a Tencent unit &lpar;Financial Times&rpar;](http://www.techmeme.com/230112/p40#a230112p40)
- - [Sources: Tokyo-based aggregator website and app SmartNews, valued at $2B in 2021, laid off ~120 people, or 40% of US and China staff, with more coming in Japan &lpar;TechCrunch&rpar;](http://www.techmeme.com/230112/p39#a230112p39)<!-- TECH:END -->
+ - [Some third-party Twitter apps appear to be broken](https://www.theverge.com/2023/1/13/23553161/third-party-twitter-clients-apps-outage-twitterific-tweetbot)
+ - [iPhone Stuck on the Apple Logo? 5 Effective Methods Are Here](https://appleinsider.com/articles/23/01/13/iphone-stuck-on-the-apple-logo-5-effective-methods-are-here?utm_medium=rss)
+ - [NSA Director Paul Nakasone urges Congress to renew the FISA&#39;s Section 702, set to expire in 2023, saying the surveillance law protects the US from cyberattacks &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230112/p41#a230112p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
