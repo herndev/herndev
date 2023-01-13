@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)
- - ⏩ [Well it&#39;s true so...](http://9gag.com/gag/aVbw1XO)
- - 👉 [She has such nice buns](http://9gag.com/gag/aGEdNM0)<!-- MEMES:END -->
+ - 💣 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
+ - ⏩ [Erdogan-puppet hanged in Sweden, Turks are in outrage but swedes are lowkey satisfied.](http://9gag.com/gag/a3ZwpQ5)
+ - 👉 [A little brush with death.](http://9gag.com/gag/aeQDPNv)<!-- MEMES:END -->
 
 ---
 
