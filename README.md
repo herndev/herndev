@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spark Mail 2.11 Review: e-mail organizer with Gatekeeper &amp; Smart Inbox](https://appleinsider.com/articles/23/01/13/spark-mail-211-review-e-mail-organizer-with-gatekeeper-smart-inbox?utm_medium=rss)
- - [A look at Tencent&#39;s short-video service WeChat Channels, called &quot;the hope of the company&quot; by founder Pony Ma, as the tech giant tries to build its own TikTok &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230113/p6#a230113p6)
- - [Apple plans fix for iPhone 14 Pro horizontal lines bug](https://appleinsider.com/articles/23/01/13/apple-plans-fix-for-iphone-14-pro-horizontal-lines-bug?utm_medium=rss)<!-- TECH:END -->
+ - [How to Buy Used on eBay &lpar;2023&rpar;: A Beginner&#39;s Guide](https://www.wired.com/story/how-to-buy-used-on-ebay/)
+ - [Why the Search for Life in Space Starts With Ancient Earth](https://www.wired.com/story/why-the-search-for-life-in-space-starts-with-ancient-earth/)
+ - [Apple says it is committed to book narrators, expands AI reading anyway](https://appleinsider.com/articles/23/01/13/apple-says-it-is-committed-to-book-narrators-expands-ai-reading-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
