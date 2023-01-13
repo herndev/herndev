@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: Many of you have multiple power banks](https://www.androidauthority.com/power-bank-for-phone-poll-results-3266284/)
  - [Crypto.com lays off about 20% of its global workforce citing the crypto downturn and the FTX implosion as reasons &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230113/p1#a230113p1)
- - [A new Chromecast with Google TV is in the pipeline](https://www.androidauthority.com/new-chromecast-with-google-tv-2023-3266266/)
- - [Top Signs You Might Have Depression, and How to Get Help     - CNET](https://www.cnet.com/health/mental/top-signs-you-might-have-depression-and-how-to-get-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new Chromecast with Google TV is in the pipeline](https://www.androidauthority.com/new-chromecast-with-google-tv-2023-3266266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
