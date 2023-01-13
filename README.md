@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - ⏩ [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
- - 👉 [When hospitality goes too far](http://9gag.com/gag/armV2rB)<!-- MEMES:END -->
+ - 💣 [Hmmmm](http://9gag.com/gag/armVqed)
+ - ⏩ [Tricked the trickster](http://9gag.com/gag/aDY4Q1w)
+ - 👉 [Jennifer Connelly aged like fine wine](http://9gag.com/gag/aVbwRWM)<!-- MEMES:END -->
 
 ---
 
