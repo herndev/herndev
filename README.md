@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally, equality](http://9gag.com/gag/aA0emBp)
- - ⏩ [Sleepy catto vs Spidey](http://9gag.com/gag/a5XWD0E)
- - 👉 [....](http://9gag.com/gag/aVbwdwn)<!-- MEMES:END -->
+ - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - ⏩ [The future of television is here](http://9gag.com/gag/a1PWVGb)
+ - 👉 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
 
 ---
 
