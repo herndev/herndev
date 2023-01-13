@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
- - ⏩ [7 minutes](http://9gag.com/gag/aGEdoAZ)
- - 👉 [Civil disobedience](http://9gag.com/gag/aQEdN82)<!-- MEMES:END -->
+ - 💣 [Your best friend card has been declined](http://9gag.com/gag/a4o3xqA)
+ - ⏩ [Well it&#39;s true so...](http://9gag.com/gag/aVbw1XO)
+ - 👉 [She has such nice buns](http://9gag.com/gag/aGEdNM0)<!-- MEMES:END -->
 
 ---
 
