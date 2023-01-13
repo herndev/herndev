@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 Plus and Ultra official press renders leak ahead of Unpacked event](https://www.androidauthority.com/galaxy-s23-plus-ultra-3266548/)
- - [Apple Music releases Rihanna trailer for Super Bowl LVII Halftime Show](https://appleinsider.com/articles/23/01/13/apple-music-releases-rihanna-trailer-for-super-bowl-lvii-halftime-show?utm_medium=rss)
- - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)
+ - [Strava users say the rollout of its first price hike in over a decade has been unnecessarily convoluted and confusing &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230113/p16#a230113p16)
+ - [With the value of next-gen Bitcoin mining rigs down an estimated 85%, some crypto lenders flooded with repossessed rigs are keeping them running for the income &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230113/p15#a230113p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
