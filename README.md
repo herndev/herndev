@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)
- - [Strava users say the rollout of its first price hike in over a decade has been unnecessarily convoluted and confusing &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230113/p16#a230113p16)
- - [With the value of next-gen Bitcoin mining rigs down an estimated 85%, some crypto lenders flooded with repossessed rigs are keeping them running for the income &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230113/p15#a230113p15)<!-- TECH:END -->
+ - [Motorola Moto G Play &lpar;2023&rpar; review: Limited reach](https://www.androidauthority.com/motorola-moto-g-play-2023-review-3265042/)
+ - [Sources: DOJ cleared its antitrust chief Jonathan Kanter to oversee probes involving Google; Google had sought his recusal, citing his work with Yelp and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230113/p17#a230113p17)
+ - [Stadia’s final act will be to unlock Bluetooth support on its controllers](https://www.androidauthority.com/stadia-controller-bluetooth-3266613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
