@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - ⏩ [Completely normal reaction](http://9gag.com/gag/a6qK83N)
- - 👉 [Antivax logic](http://9gag.com/gag/aVbwdzw)<!-- MEMES:END -->
+ - 💣 [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - ⏩ [They are building a house as fast as they are assembling toys. like a Lego Build](http://9gag.com/gag/axo9YnK)
+ - 👉 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
 
 ---
 
