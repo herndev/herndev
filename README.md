@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Planet&#39;s Dyin&#39; And So Am I After Listening To This Incredible FFVII Voice Mod](https://kotaku.com/final-fantasy-7-ff7-voice-mod-cloud-barret-swear-tifa-1849985720)
- - [This Animal Crossing creepypasta game is perfect for Friday the 13th](https://www.pcgamer.com/this-animal-crossing-creepypasta-game-is-perfect-for-friday-the-13th)
- - [D&amp;D maker backs off new licensing rules that led to fan revolt](https://www.polygon.com/23553669/dungeons-dragons-dnd-ogl-wizards-of-the-coast-licensing)<!-- GAME:END -->
+ - [When M3GAN will be streaming, based on what we know](https://www.polygon.com/23553823/m3gan-streaming-date-when-vod-peacock-prime-video)
+ - [Naughty Dog Exec Kind Of Regrets Announcing Uncharted 4, TLOU2 So Early](https://kotaku.com/naughty-dog-last-of-us-2-crunch-druckmann-uncharted-ps5-1849986241)
+ - [Phineas and Ferb is coming back with new episodes, baby](https://www.polygon.com/23553880/phineas-and-ferb-revival-disney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
