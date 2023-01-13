@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MGG Wireless Charging Station review: You get what you pay for](https://appleinsider.com/articles/23/01/13/mgg-wireless-charging-station-review-you-get-what-you-pay-for?utm_medium=rss)
- - [House GOP plans a subcommittee dedicated to crypto oversight, to be chaired by Rep. French Hill, who led GOP efforts to explore a central bank digital currency &lpar;Politico&rpar;](http://www.techmeme.com/230113/p9#a230113p9)
- - [Daily Deals Jan. 13: $410 off MacBook Pro, 44% off Apple Smart Keyboard, 20% off Xbox Series S &amp; more](https://appleinsider.com/articles/23/01/13/daily-deals-jan-13-410-off-macbook-pro-44-off-apple-smart-keyboard-20-off-xbox-series-s-more?utm_medium=rss)<!-- TECH:END -->
+ - [MoviePass returns, backed by cryptocurrency firm](https://appleinsider.com/articles/23/01/13/moviepass-returns-backed-by-cryptocurrency-firm?utm_medium=rss)
+ - [Apple Music chief Oliver Schusser will help lead Apple TV+](https://appleinsider.com/articles/23/01/13/apple-music-chief-oliver-schusser-will-help-lead-apple-tv?utm_medium=rss)
+ - [Get Apple&#39;s M1 MacBook Air with 16GB RAM for $1,099 for a limited time](https://appleinsider.com/articles/23/01/13/get-apples-m1-macbook-air-with-16gb-ram-for-1099-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
