@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a dad joke dump](http://9gag.com/gag/amAvdg9)
- - ⏩ [Erdogan-puppet hanged in Sweden, Turks are in outrage but swedes are lowkey satisfied.](http://9gag.com/gag/a3ZwpQ5)
- - 👉 [A little brush with death.](http://9gag.com/gag/aeQDPNv)<!-- MEMES:END -->
+ - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - ⏩ [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 👉 [The future of television is here](http://9gag.com/gag/a1PWVGb)<!-- MEMES:END -->
 
 ---
 
