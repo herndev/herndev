@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is 9gag getting worse by the day?](http://9gag.com/gag/aOx74wv)
- - ⏩ [Name an animal with 3 letters in its name](http://9gag.com/gag/a3Zw0y1)
- - 👉 [Hmmmm](http://9gag.com/gag/armVqed)<!-- MEMES:END -->
+ - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - ⏩ [Billy, bring forth the holy hand grenade](http://9gag.com/gag/avQz9dn)
+ - 👉 [Ba dum tsss](http://9gag.com/gag/aKE7pB6)<!-- MEMES:END -->
 
 ---
 
