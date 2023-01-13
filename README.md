@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tokyo-headquartered aggregator SmartNews, valued at $2B as of 2021, lays off ~120 people, or 40% of US and China staff, with more cuts to come in Japan &lpar;TechCrunch&rpar;](http://www.techmeme.com/230112/p39#a230112p39)
- - [Sources: the UK&#39;s Royal Mail postal service was hit by a Russia-linked LockBit ransomware gang causing severe disruption to overseas deliveries since January 11 &lpar;Gareth Corfield/Telegraph&rpar;](http://www.techmeme.com/230112/p38#a230112p38)
- - [After a report, CNET says it is testing AI to help editors write some articles, has changed bylines on AI-assisted posts, and made disclosures more prominent &lpar;Connie Guglielmo/CNET&rpar;](http://www.techmeme.com/230112/p37#a230112p37)<!-- TECH:END -->
+ - [NSA Director Paul Nakasone urges Congress to renew the FISA&#39;s Section 702, set to expire in 2023, saying the surveillance law protects the US from cyberattacks &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230112/p41#a230112p41)
+ - [Sources: the Cyberspace Administration of China acquired a 1% stake, or &quot;golden shares&quot;, in an Alibaba subsidiary, and plans to do the same for a Tencent unit &lpar;Financial Times&rpar;](http://www.techmeme.com/230112/p40#a230112p40)
+ - [Sources: Tokyo-based aggregator website and app SmartNews, valued at $2B in 2021, laid off ~120 people, or 40% of US and China staff, with more coming in Japan &lpar;TechCrunch&rpar;](http://www.techmeme.com/230112/p39#a230112p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
