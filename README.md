@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Buy Used on eBay &lpar;2023&rpar;: A Beginner&#39;s Guide](https://www.wired.com/story/how-to-buy-used-on-ebay/)
- - [Why the Search for Life in Space Starts With Ancient Earth](https://www.wired.com/story/why-the-search-for-life-in-space-starts-with-ancient-earth/)
- - [Apple says it is committed to book narrators, expands AI reading anyway](https://appleinsider.com/articles/23/01/13/apple-says-it-is-committed-to-book-narrators-expands-ai-reading-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [New Mac Pro in testing, Apple VR headset in sight, MacBook Pro with touchscreen](https://appleinsider.com/articles/23/01/13/new-mac-pro-in-testing-apple-vr-headset-in-sight-macbook-pro-with-touchscreen?utm_medium=rss)
+ - [Spark Mail 2.11 Review: e-mail organizer with Gatekeeper &amp; Smart Inbox](https://appleinsider.com/articles/23/01/13/spark-mail-211-review-e-mail-organizer-with-gatekeeper-smart-inbox?utm_medium=rss)
+ - [A bankruptcy judge lets FTX sell its derivatives exchange LedgerX, clearing company Embed, and European and Japanese operations to raise money for creditors &lpar;Benjamin Robertson/The Block&rpar;](http://www.techmeme.com/230113/p8#a230113p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
