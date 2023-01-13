@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When M3GAN will be streaming, based on what we know](https://www.polygon.com/23553823/m3gan-streaming-date-when-vod-peacock-prime-video)
- - [Naughty Dog Exec Kind Of Regrets Announcing Uncharted 4, TLOU2 So Early](https://kotaku.com/naughty-dog-last-of-us-2-crunch-druckmann-uncharted-ps5-1849986241)
- - [Phineas and Ferb is coming back with new episodes, baby](https://www.polygon.com/23553880/phineas-and-ferb-revival-disney)<!-- GAME:END -->
+ - [New League of Legends action game leaks from Riot Forge](https://www.polygon.com/23553927/league-of-legends-mageseeker-sylas-demacia-riot-forge-game-leak)
+ - [Vinland Saga Season 2’s Farming Arc Is Planting Seeds For A Phenomenal Payoff](https://kotaku.com/vinland-saga-season-2-anime-mappa-netflix-crunchyroll-1849985803)
+ - [NetEase Dissolves Team That Maintained Blizzard Games In China](https://kotaku.com/netease-blizzard-shanghai-eastnet-network-technology-1849986596)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
