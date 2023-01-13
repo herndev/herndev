@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/armVqed)
- - ⏩ [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 👉 [The future of television is here](http://9gag.com/gag/a1PWVGb)<!-- MEMES:END -->
+ - 💣 [There&#39;s another](http://9gag.com/gag/aeQDW5W)
+ - ⏩ [7 minutes](http://9gag.com/gag/aGEdoAZ)
+ - 👉 [Civil disobedience](http://9gag.com/gag/aQEdN82)<!-- MEMES:END -->
 
 ---
 
