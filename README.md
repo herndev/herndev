@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today I finished my debt, and now I own a piece of Mexico. It ain&#39;t much but it&#39;s honest work!](http://9gag.com/gag/a4o3g9Q)
- - ⏩ [Pepsi](http://9gag.com/gag/aDY4LpZ)
- - 👉 [Intrusive thoughts won...](http://9gag.com/gag/a3Zwg58)<!-- MEMES:END -->
+ - 💣 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
+ - ⏩ [The better](http://9gag.com/gag/aqenqWP)
+ - 👉 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
 
 ---
 
