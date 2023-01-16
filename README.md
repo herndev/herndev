@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent says it fired 100+ employees in 2022 for suspected bribery and embezzlement; CEO Pony Ma reportedly called out staff corruption in a December meeting &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230116/p3#a230116p3)
- - [Indian social media startup ShareChat lays off 400+ people, or ~20% of staff, a month after cutting 100+ roles; ShareChat raised $1B+ from Google and others &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230116/p2#a230116p2)
- - [Upcoming Moto G phones leak: In for a downgrade?](https://www.androidauthority.com/motorola-moto-g53-g73-3266884/)<!-- TECH:END -->
+ - [Here are the best classic movies on HBO Max](https://www.androidauthority.com/best-classic-movies-on-hbo-max-3259493/)
+ - [Sony’s new tech could block sideloading piracy apps on Android TV](https://www.androidauthority.com/sony-patent-piracy-app-android-tv-3266895/)
+ - [Tencent says it fired 100+ employees in 2022 for suspected bribery and embezzlement; CEO Pony Ma reportedly called out staff corruption in a December meeting &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230116/p3#a230116p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
