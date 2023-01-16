@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim&#39;s next biome is the land of the dead](https://www.pcgamer.com/valheims-next-biome-is-the-land-of-the-dead)
- - [Greninja Is Coming To Pokémon Scarlet And Violet In 7-Star Raids](https://kotaku.com/pokemon-scarlet-violet-greninja-nintendo-switch-raid-1849992111)
- - [You have a higher chance of winning the silicon lottery with a Core i9 13900KF than the 13900K](https://www.pcgamer.com/you-have-a-higher-chance-of-winning-the-silicon-lottery-with-a-core-i9-13900kf-than-the-13900k)<!-- GAME:END -->
+ - [Stray&#39;s raising money for real stray cats](https://www.pcgamer.com/strays-raising-money-for-real-strays)
+ - [How to find the Gun Van in GTA Online](https://www.pcgamer.com/gta-online-gun-van-location)
+ - [A messy era of gay comedies is finally paying off](https://www.polygon.com/23552517/good-gay-comedies-then-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
