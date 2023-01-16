@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nadine hurrying over for her milk!](http://9gag.com/gag/a04NGGL)
- - ⏩ [Freedom](http://9gag.com/gag/aBdmME1)
- - 👉 [I cant stop laughing at the guy to the right. Just waiting for cues lol](http://9gag.com/gag/a9qneq1)<!-- MEMES:END -->
+ - 💣 [Today I finished my debt, and now I own a piece of Mexico. It ain&#39;t much but it&#39;s honest work!](http://9gag.com/gag/a4o3g9Q)
+ - ⏩ [Pepsi](http://9gag.com/gag/aDY4LpZ)
+ - 👉 [Intrusive thoughts won...](http://9gag.com/gag/a3Zwg58)<!-- MEMES:END -->
 
 ---
 
