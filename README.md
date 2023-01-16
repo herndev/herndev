@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant Group partners with BNPL service Splitit to let Alipay users on AliExpress in Europe pay for items in installments, starting in Germany, Spain, and France &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p12#a230116p12)
- - [Beyond Good and Evil 2 development continues amidst Ubisoft cancellations](https://www.theverge.com/2023/1/16/23557146/beyond-good-and-evil-2-not-canceled-development-hell)
- - [The Overwatch League&#39;s path to profitability remains unclear given dwindling viewership, recent upheavals inside Activision Blizzard, and dampening esports hype &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230116/p11#a230116p11)<!-- TECH:END -->
+ - [The second-gen AirPods Pro are $50 off at Verizon](https://www.theverge.com/2023/1/16/23557180/apple-airpods-pro-second-gen-noise-canceling-wireless-earbuds-deal-sale)
+ - [Apple&#39;s India iPhone plan will hit China manufacturers hard](https://appleinsider.com/articles/23/01/16/apples-india-iphone-plan-will-hit-china-manufacturers-hard?utm_medium=rss)
+ - [Sources: the European Commission is preparing a statement of objections to Microsoft&#39;s $69B Activision Blizzard deal, set to be released in the coming weeks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230116/p14#a230116p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
