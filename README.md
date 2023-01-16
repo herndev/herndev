@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your &lpar;sorting&rpar;algorithm is not efficient but, gets your work done.](http://9gag.com/gag/aoKPvN3)
- - ⏩ [Girl: `he&#39;s probably cheating on me.` The boys.....](http://9gag.com/gag/a4o3XYy)
- - 👉 [Stunning](http://9gag.com/gag/aGEd4P6)<!-- MEMES:END -->
+ - 💣 [When you&#39;re best friends with bad luck.](http://9gag.com/gag/aDY4qYw)
+ - ⏩ [When you adopt a police dog &lpar;credit unknown TikTok user&rpar;](http://9gag.com/gag/aXngmXg)
+ - 👉 [In Red Dead Redemption 2, you can follow along the camp cook Mr. Pearson and observe him preparing the whole meal](http://9gag.com/gag/abvGLY9)<!-- MEMES:END -->
 
 ---
 
