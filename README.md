@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray&#39;s raising money for real stray cats](https://www.pcgamer.com/strays-raising-money-for-real-strays)
- - [How to find the Gun Van in GTA Online](https://www.pcgamer.com/gta-online-gun-van-location)
- - [A messy era of gay comedies is finally paying off](https://www.polygon.com/23552517/good-gay-comedies-then-now)<!-- GAME:END -->
+ - [This dog is my new favourite Elden Ring streamer](https://www.pcgamer.com/this-dog-is-my-new-favourite-elden-ring-streamer)
+ - [Google Stadia&#39;s last game is its first](https://www.pcgamer.com/google-stadias-last-game-is-its-first)
+ - [F1 22 update hands me a cheeky 11% performance uplift thanks to FSR 2.2](https://www.pcgamer.com/f1-22-update-hands-me-a-cheeky-11-performance-uplift-thanks-to-fsr-22)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
