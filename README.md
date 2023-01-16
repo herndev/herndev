@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the ways you can charge your AirPods Pro](https://www.androidauthority.com/how-to-charge-airpods-pro-3267091/)
- - [&#39;The Last of Us&#39; HBO Adaptation Pushes Its Universe Far Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-pushes-its-universe-far-beyond-the-playstation-game/#ftag=CAD590a51e)
- - [There&#39;s a Sriracha Shortage. Here Are 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)
+ - [No, you can’t get a 16TB SSD for a hundred bucks](https://www.theverge.com/2023/1/16/23557569/amazon-scam-review-merging-16tb-external-ssds)
+ - [This 5TB Western Digital hard drive drops to an all-time low](https://www.theverge.com/2023/1/16/23557767/western-digital-hard-drive-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
