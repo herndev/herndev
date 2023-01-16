@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [South Korea&#39;s game rating agency leaks a new League of Legends game](https://www.pcgamer.com/south-koreas-game-rating-agency-leaks-a-new-league-of-legends-game)
  - [Why you can’t trade cards in Marvel Snap](https://www.polygon.com/23552618/marvel-snap-trade-cards-second-dinner-ben-brode)
- - [16 Of The Best Adventure Games Of The Last Decade Are Just $10](https://kotaku.com/unavowed-humble-bundle-wadjet-eye-games-shardlight-1849992868)
- - [As D&amp;D struggles with licensing chaos, the publisher of the Alien and Blade Runner RPGs takes its shot](https://www.pcgamer.com/as-dandd-struggles-with-licensing-chaos-the-publisher-of-the-alien-and-blade-runner-rpgs-takes-its-shot)<!-- GAME:END -->
+ - [16 Of The Best Adventure Games Of The Last Decade Are Just $10](https://kotaku.com/unavowed-humble-bundle-wadjet-eye-games-shardlight-1849992868)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
