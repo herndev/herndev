@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the CEO of Clearco, which offers capital to e-commerce firms for a cut of future revenue, resigns as growth at the well-funded startup grinds to a halt &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230115/p8#a230115p8)
- - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)
- - [Here&#39;s the New Most Expensive Fast Food Chain     - CNET](https://www.cnet.com/news/heres-the-new-most-expensive-fast-food-chain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI tech like ChatGPT can be used by bad actors to lobby within democracies at incredible speed and scope, costing far less than troll farms like Russia&#39;s IRA &lpar;New York Times&rpar;](http://www.techmeme.com/230115/p9#a230115p9)
+ - [Museum Asks Public to Reinvent a Classic Painting, With Wild Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-public-to-reinvent-a-classic-painting-with-wild-results/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; HBO Adaptation Pushes Its Universe Far Beyond the PlayStation Games     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-pushes-its-universe-far-beyond-the-playstation-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
