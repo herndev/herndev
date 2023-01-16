@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And done](http://9gag.com/gag/amAveL2)
- - ⏩ [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)
- - 👉 [Divorcustyryops](http://9gag.com/gag/avQzM2b)<!-- MEMES:END -->
+ - 💣 [Otatop](http://9gag.com/gag/aKE7MK6)
+ - ⏩ [Gender activists offended and tried to attack by man with sign saying sexualizing children is child abuse](http://9gag.com/gag/aDY4vYw)
+ - 👉 [Muhahahah](http://9gag.com/gag/abvGDAb)<!-- MEMES:END -->
 
 ---
 
