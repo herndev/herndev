@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just going to the toilet](http://9gag.com/gag/aDY492N)
- - ⏩ [Something positive for a change here](http://9gag.com/gag/aVbwr7v)
- - 👉 [OK boomer](http://9gag.com/gag/amAvQzy)<!-- MEMES:END -->
+ - 💣 [A rare melanistic Fallow Deer sighted in a polish forest](http://9gag.com/gag/aqenMQv)
+ - ⏩ [Little girl helps to clear the rubble after an air strike in Dnipro, Ukraine.](http://9gag.com/gag/amAvQmo)
+ - 👉 [Pondering pup](http://9gag.com/gag/awZBj3D)<!-- MEMES:END -->
 
 ---
 
