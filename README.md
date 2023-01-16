@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh that perfect jiggly jiggly](http://9gag.com/gag/aqenPbj)
- - ⏩ [And done](http://9gag.com/gag/amAveL2)
- - 👉 [Comments](http://9gag.com/gag/armV755)<!-- MEMES:END -->
+ - 💣 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
+ - ⏩ [A solid answer](http://9gag.com/gag/aDY45XB)
+ - 👉 [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)<!-- MEMES:END -->
 
 ---
 
