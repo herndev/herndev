@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And done](http://9gag.com/gag/amAveL2)
+ - 💣 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
  - ⏩ [Divorcustyryops](http://9gag.com/gag/avQzM2b)
- - 👉 [Woke Velma](http://9gag.com/gag/aeQDL3Q)<!-- MEMES:END -->
+ - 👉 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)<!-- MEMES:END -->
 
 ---
 
