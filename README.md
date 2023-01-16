@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Apple announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
- - [Verizon slashes AirPods Pro 2 to $199.99, save an extra $40 vs. Amazon](https://appleinsider.com/articles/23/01/16/verizon-slashes-airpods-pro-2-to-19999-save-an-extra-40-vs-amazon?utm_medium=rss)
- - [PSA: Stadia goes down this week, get your affairs in order](https://www.androidauthority.com/psa-stadia-game-save-bluetooth-controller-3266829/)<!-- TECH:END -->
+ - [Save up to 43% on memory cards &amp; portable drives from SanDisk, Samsung &amp; more](https://appleinsider.com/articles/23/01/16/save-up-to-43-on-memory-cards-portable-drives-from-sandisk-samsung-more?utm_medium=rss)
+ - [Some US universities, including Alabama&#39;s Auburn and the University of Oklahoma, are banning TikTok on their Wi-Fi networks, causing annoyance among students &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230116/p19#a230116p19)
+ - [Best Amazon Alexa Devices of 2023     - CNET](https://www.cnet.com/news/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
