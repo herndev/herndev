@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe&#39;s rapid delivery market has consolidated down to three companies: Getir, the largest player that operates in seven European countries, Flink, and Gopuff &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230115/p7#a230115p7)
- - [How to add a security key to an Apple ID in iOS 16.3](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)
- - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: the CEO of Clearco, which offers capital to e-commerce firms for a cut of future revenue, resigns as growth at the well-funded startup grinds to a halt &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230115/p8#a230115p8)
+ - [Museum Asks Art Lovers to Reinvent a Classic Painting, With Wild Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-art-lovers-to-reinvent-a-classic-painting-with-wild-results/#ftag=CAD590a51e)
+ - [Europe&#39;s rapid delivery market has consolidated down to three companies: Getir, the largest player that operates in seven European countries, Flink, and Gopuff &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230115/p7#a230115p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
