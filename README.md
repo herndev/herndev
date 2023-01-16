@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 5 design change might finally take care of that crease](https://www.androidauthority.com/samsung-galaxy-z-fold-5-design-crease-3266882/)
- - [How Apple&#39;s supply chain is leaving China: moving some iPad and MacBook production to Foxconn&#39;s Vietnam plants in May, more iPhone production in India, and more &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230116/p1#a230116p1)
- - [Apple confirms iPhone 14 Pro display bug, is working on a fix](https://www.androidauthority.com/apple-iphone-14-pro-display-bug-3266872/)<!-- TECH:END -->
+ - [Tencent says it fired 100+ employees in 2022 for suspected bribery and embezzlement; CEO Pony Ma reportedly called out staff corruption in a December meeting &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230116/p3#a230116p3)
+ - [Indian social media startup ShareChat lays off 400+ people, or ~20% of staff, a month after cutting 100+ roles; ShareChat raised $1B+ from Google and others &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230116/p2#a230116p2)
+ - [Upcoming Moto G phones leak: In for a downgrade?](https://www.androidauthority.com/motorola-moto-g53-g73-3266884/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
