@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian attacks on Ukraine&#39;s electrical grid are straining its mobile network, leading to a global hunt for equipment like batteries to keep the system online &lpar;William Mauldin/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p20#a230116p20)
- - [Report: Google working on an AirTag competitor, codenamed “grogu”](https://www.androidauthority.com/google-tracker-grogu-3267081/)
- - [How to get started coding for Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-started-coding-for-arduino-on-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Here are all the ways you can charge your AirPods Pro](https://www.androidauthority.com/how-to-charge-airpods-pro-3267091/)
+ - [&#39;The Last of Us&#39; HBO Adaptation Pushes Its Universe Far Beyond the PlayStation Game     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-hbo-adaptation-pushes-its-universe-far-beyond-the-playstation-game/#ftag=CAD590a51e)
+ - [There&#39;s a Sriracha Shortage. Here Are 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
