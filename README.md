@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke Velma](http://9gag.com/gag/aeQDL3Q)
- - ⏩ [Divorcustyryops](http://9gag.com/gag/avQzM2b)
- - 👉 [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)<!-- MEMES:END -->
+ - 💣 [Nadine hurrying over for her milk!](http://9gag.com/gag/a04NGGL)
+ - ⏩ [Freedom](http://9gag.com/gag/aBdmME1)
+ - 👉 [I cant stop laughing at the guy to the right. Just waiting for cues lol](http://9gag.com/gag/a9qneq1)<!-- MEMES:END -->
 
 ---
 
