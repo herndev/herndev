@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
- - ⏩ [The returns are fairly decent](http://9gag.com/gag/aoKPGNw)
- - 👉 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)<!-- MEMES:END -->
+ - 💣 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)
+ - ⏩ [Hmm wait a minute](http://9gag.com/gag/a7qWmEb)
+ - 👉 [Woke Velma has an 8% audience score](http://9gag.com/gag/aMEx0wx)<!-- MEMES:END -->
 
 ---
 
