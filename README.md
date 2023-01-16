@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube could soon become your free cable operator](https://www.androidauthority.com/youtube-free-tv-channels-3266873/)
  - [Twitterrific&#39;s Craig Hockenberry calls Twitter&#39;s decision to ax the API for third-party apps with no advance notice a &quot;shit show&quot; leaving customers in the lurch &lpar;Craig Hockenberry/furbo.org&rpar;](http://www.techmeme.com/230115/p10#a230115p10)
- - [More People Need to Watch Apple&#39;s Genius Black Comedy Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-apples-genius-black-comedy-thriller/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 1 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-1-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need to Watch Apple&#39;s Genius Black Comedy Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-apples-genius-black-comedy-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
