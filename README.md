@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There’s already a perfect sequel to Prey right under Disney’s nose](https://www.polygon.com/23553785/predator-comic-prey-sequel-marvel)
- - [South Korea&#39;s game rating agency leaks a new League of Legends game](https://www.pcgamer.com/south-koreas-game-rating-agency-leaks-a-new-league-of-legends-game)
- - [Why you can’t trade cards in Marvel Snap](https://www.polygon.com/23552618/marvel-snap-trade-cards-second-dinner-ben-brode)<!-- GAME:END -->
+ - [F1 champ Max Verstappen ragequits virtual Le Mans race, calls it a &#39;clown show&#39;](https://www.pcgamer.com/f1-champ-max-verstappen-ragequits-virtual-le-mans-race-calls-it-a-clown-show)
+ - [Amazon Bans Lost Ark Bots, Humans Caught In Crossfire](https://kotaku.com/lost-ark-bans-bots-steam-ban-amazon-valve-pc-1849993799)
+ - [There’s already a perfect sequel to Prey right under Disney’s nose](https://www.polygon.com/23553785/predator-comic-prey-sequel-marvel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
