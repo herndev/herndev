@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Source: the CEO of Clearco, which offers capital to e-commerce firms for a cut of future revenue, resigns as growth at the well-funded startup grinds to a halt &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230115/p8#a230115p8)
- - [Museum Asks Art Lovers to Reinvent a Classic Painting, With Wild Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-art-lovers-to-reinvent-a-classic-painting-with-wild-results/#ftag=CAD590a51e)
- - [Europe&#39;s rapid delivery market has consolidated down to three companies: Getir, the largest player that operates in seven European countries, Flink, and Gopuff &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230115/p7#a230115p7)<!-- TECH:END -->
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)
+ - [Here&#39;s the New Most Expensive Fast Food Chain     - CNET](https://www.cnet.com/news/heres-the-new-most-expensive-fast-food-chain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
