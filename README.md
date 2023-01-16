@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A rare melanistic Fallow Deer sighted in a polish forest](http://9gag.com/gag/aqenMQv)
- - ⏩ [Little girl helps to clear the rubble after an air strike in Dnipro, Ukraine.](http://9gag.com/gag/amAvQmo)
- - 👉 [Pondering pup](http://9gag.com/gag/awZBj3D)<!-- MEMES:END -->
+ - 💣 [Why?](http://9gag.com/gag/a9qnxpK)
+ - ⏩ [The C\u00e4t](http://9gag.com/gag/adPVZvd)
+ - 👉 [Divorce](http://9gag.com/gag/aEqPr1o)<!-- MEMES:END -->
 
 ---
 
