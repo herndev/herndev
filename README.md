@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This dog is my new favourite Elden Ring streamer](https://www.pcgamer.com/this-dog-is-my-new-favourite-elden-ring-streamer)
- - [Google Stadia&#39;s last game is its first](https://www.pcgamer.com/google-stadias-last-game-is-its-first)
- - [F1 22 update hands me a cheeky 11% performance uplift thanks to FSR 2.2](https://www.pcgamer.com/f1-22-update-hands-me-a-cheeky-11-performance-uplift-thanks-to-fsr-22)<!-- GAME:END -->
+ - [As D&amp;D struggles with licensing chaos, the publisher of the Alien and Blade Runner RPGs takes its shot](https://www.pcgamer.com/as-dandd-struggles-with-licensing-chaos-the-publisher-of-the-alien-and-blade-runner-rpgs-takes-its-shot)
+ - [Lemmings-like puzzler Tin Hearts marches towards full release](https://www.pcgamer.com/lemmings-like-puzzler-tin-hearts-marches-towards-full-release)
+ - [The best Genshin Impact Alhaitham build](https://www.pcgamer.com/genshin-impact-alhaitham-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
