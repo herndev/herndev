@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The second-gen AirPods Pro are $50 off at Verizon](https://www.theverge.com/2023/1/16/23557180/apple-airpods-pro-second-gen-noise-canceling-wireless-earbuds-deal-sale)
- - [Apple&#39;s India iPhone plan will hit China manufacturers hard](https://appleinsider.com/articles/23/01/16/apples-india-iphone-plan-will-hit-china-manufacturers-hard?utm_medium=rss)
- - [Sources: the European Commission is preparing a statement of objections to Microsoft&#39;s $69B Activision Blizzard deal, set to be released in the coming weeks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230116/p14#a230116p14)<!-- TECH:END -->
+ - [Undiagnosed heart blockage detected thanks to Apple Watch](https://appleinsider.com/articles/23/01/16/undiagnosed-heart-blockage-detected-thanks-to-apple-watch?utm_medium=rss)
+ - [Roborock S8 Pro Ultra, CES wrap-up, HomeKit buttons, Hunter Douglas shades](https://appleinsider.com/articles/23/01/16/roborock-s8-pro-ultra-ces-wrap-up-homekit-buttons-hunter-douglas-shades?utm_medium=rss)
+ - [Study: China led the US in AI research output and quality in 2021, producing ~43,000 papers, about twice as many as the US, with 7,401 of the most-cited papers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230116/p16#a230116p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
