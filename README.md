@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Games Done Quick charity speedrun event raises $2.6 million](https://www.theverge.com/2023/1/16/23557081/games-done-quick-2023-speedrunning-stream-record-charity-donation)
- - [Daily Authority: 📽️ The big streaming platform problem, solved?](https://www.androidauthority.com/daily-authority-january-16-2023-3266868/)
- - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Now Xiaomi is taking away home security camera features you paid for](https://www.androidauthority.com/xiaomi-home-security-cameras-cloud-storage-3266925/)
+ - [&#39;Pachinko,&#39; &#39;Black Bird&#39; win at Critics&#39; Choice Awards](https://appleinsider.com/articles/23/01/16/pachinko-black-bird-win-at-critics-choice-awards?utm_medium=rss)
+ - [Investigation: Alibaba paid Chinese scholars to lobby authorities to relax regulations and rehabilitate its reputation, hoping to navigate China&#39;s clampdown &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230116/p6#a230116p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
