@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Xiaomi is taking away home security camera features you paid for](https://www.androidauthority.com/xiaomi-home-security-cameras-cloud-storage-3266925/)
- - [&#39;Pachinko,&#39; &#39;Black Bird&#39; win at Critics&#39; Choice Awards](https://appleinsider.com/articles/23/01/16/pachinko-black-bird-win-at-critics-choice-awards?utm_medium=rss)
- - [Investigation: Alibaba paid Chinese scholars to lobby authorities to relax regulations and rehabilitate its reputation, hoping to navigate China&#39;s clampdown &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230116/p6#a230116p6)<!-- TECH:END -->
+ - [After North Korea&#39;s Lazarus Group moved ~41K ETH, worth ~$63.5M, stolen from the Harmony bridge hack, Binance and Huobi freeze 124 BTC linked to the hackers &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/230116/p9#a230116p9)
+ - [You told us: Here’s what Samsung should do with the S24 Plus](https://www.androidauthority.com/samsung-galaxy-s24-plus-variants-poll-results-3266933/)
+ - [Taiwanese government data: integrated circuit chip exports rose 18.4% YoY in 2022, down from 27.1% YoY growth in 2021 and 22% YoY growth in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p8#a230116p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
