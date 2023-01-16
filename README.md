@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There’s already a perfect sequel to Prey right under Disney’s nose](https://www.polygon.com/23553785/predator-comic-prey-sequel-marvel)
  - [South Korea&#39;s game rating agency leaks a new League of Legends game](https://www.pcgamer.com/south-koreas-game-rating-agency-leaks-a-new-league-of-legends-game)
- - [Why you can’t trade cards in Marvel Snap](https://www.polygon.com/23552618/marvel-snap-trade-cards-second-dinner-ben-brode)
- - [16 Of The Best Adventure Games Of The Last Decade Are Just $10](https://kotaku.com/unavowed-humble-bundle-wadjet-eye-games-shardlight-1849992868)<!-- GAME:END -->
+ - [Why you can’t trade cards in Marvel Snap](https://www.polygon.com/23552618/marvel-snap-trade-cards-second-dinner-ben-brode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
