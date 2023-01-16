@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 576 answer and hint for Monday, January 16](https://www.pcgamer.com/wordle-576-answer-january-16)
  - [Sovereign Syndicate is shaping up to be steampunk Disco Elysium](https://www.pcgamer.com/sovereign-syndicate-is-shaping-up-to-be-steampunk-disco-elysium)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [Should you look up the ending of The Last of Us just because you can?](https://www.polygon.com/23550263/last-us-game-ending-explained)<!-- GAME:END -->
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
