@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best classic movies on HBO Max](https://www.androidauthority.com/best-classic-movies-on-hbo-max-3259493/)
- - [Sony’s new tech could block sideloading piracy apps on Android TV](https://www.androidauthority.com/sony-patent-piracy-app-android-tv-3266895/)
- - [Tencent says it fired 100+ employees in 2022 for suspected bribery and embezzlement; CEO Pony Ma reportedly called out staff corruption in a December meeting &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230116/p3#a230116p3)<!-- TECH:END -->
+ - [Games Done Quick charity speedrun event raises $2.6 million](https://www.theverge.com/2023/1/16/23557081/games-done-quick-2023-speedrunning-stream-record-charity-donation)
+ - [Daily Authority: 📽️ The big streaming platform problem, solved?](https://www.androidauthority.com/daily-authority-january-16-2023-3266868/)
+ - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
