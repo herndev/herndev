@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - ⏩ [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
- - 👉 [The future of television is here](http://9gag.com/gag/a1PWVGb)<!-- MEMES:END -->
+ - 💣 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
+ - ⏩ [Call an ambulance..](http://9gag.com/gag/aeQDyRQ)
+ - 👉 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)<!-- MEMES:END -->
 
 ---
 
