@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Tobey knew what&#39;s up](http://9gag.com/gag/a1PWB3b)
- - ⏩ [Sensitive liberals.](http://9gag.com/gag/aVbw488)
+ - ⏩ [The returns are fairly decent](http://9gag.com/gag/aoKPGNw)
  - 👉 [An then everything change when the Master Race attack](http://9gag.com/gag/a5XW9Eq)<!-- MEMES:END -->
 
 ---
