@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maegan hall sex scandal looks like Officer Jeanne in Hot Fuzz...](http://9gag.com/gag/aL1wOAg)
- - ⏩ [Is it possible?](http://9gag.com/gag/aMEx0VW)
- - 👉 [N\u00a0\u00a0](http://9gag.com/gag/aQEdDg2)<!-- MEMES:END -->
+ - 💣 [What?!](http://9gag.com/gag/ajV9e51)
+ - ⏩ [German riot police defeated and humiliated by some kind of mud wizard](http://9gag.com/gag/a5XWY2L)
+ - 👉 [Why?](http://9gag.com/gag/a9qnxpK)<!-- MEMES:END -->
 
 ---
 
