@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
- - ⏩ [Divorcustyryops](http://9gag.com/gag/avQzM2b)
- - 👉 [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)<!-- MEMES:END -->
+ - 💣 [And done](http://9gag.com/gag/amAveL2)
+ - ⏩ [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)
+ - 👉 [Divorcustyryops](http://9gag.com/gag/avQzM2b)<!-- MEMES:END -->
 
 ---
 
