@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Awesome Games Done Quick 2023 raises over $2.6M for cancer charity](https://www.pcgamer.com/awesome-games-done-quick-2023-raises-over-dollar26m-for-cancer-charity)
  - [Today&#39;s Wordle 576 answer and hint for Monday, January 16](https://www.pcgamer.com/wordle-576-answer-january-16)
- - [Sovereign Syndicate is shaping up to be steampunk Disco Elysium](https://www.pcgamer.com/sovereign-syndicate-is-shaping-up-to-be-steampunk-disco-elysium)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [Sovereign Syndicate is shaping up to be steampunk Disco Elysium](https://www.pcgamer.com/sovereign-syndicate-is-shaping-up-to-be-steampunk-disco-elysium)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
