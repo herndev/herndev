@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After North Korea&#39;s Lazarus Group moved ~41K ETH, worth ~$63.5M, stolen from the Harmony bridge hack, Binance and Huobi freeze 124 BTC linked to the hackers &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/230116/p9#a230116p9)
- - [You told us: Here’s what Samsung should do with the S24 Plus](https://www.androidauthority.com/samsung-galaxy-s24-plus-variants-poll-results-3266933/)
- - [Taiwanese government data: integrated circuit chip exports rose 18.4% YoY in 2022, down from 27.1% YoY growth in 2021 and 22% YoY growth in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p8#a230116p8)<!-- TECH:END -->
+ - [Ant Group partners with BNPL service Splitit to let Alipay users on AliExpress in Europe pay for items in installments, starting in Germany, Spain, and France &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230116/p12#a230116p12)
+ - [Beyond Good and Evil 2 development continues amidst Ubisoft cancellations](https://www.theverge.com/2023/1/16/23557146/beyond-good-and-evil-2-not-canceled-development-hell)
+ - [The Overwatch League&#39;s path to profitability remains unclear given dwindling viewership, recent upheavals inside Activision Blizzard, and dampening esports hype &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230116/p11#a230116p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
