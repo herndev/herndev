@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re best friends with bad luck.](http://9gag.com/gag/aDY4qYw)
- - ⏩ [When you adopt a police dog &lpar;credit unknown TikTok user&rpar;](http://9gag.com/gag/aXngmXg)
- - 👉 [In Red Dead Redemption 2, you can follow along the camp cook Mr. Pearson and observe him preparing the whole meal](http://9gag.com/gag/abvGLY9)<!-- MEMES:END -->
+ - 💣 [What a surprise](http://9gag.com/gag/aXng6qb)
+ - ⏩ [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
+ - 👉 [Why have you betrayed me hooman](http://9gag.com/gag/aKE7Rjj)<!-- MEMES:END -->
 
 ---
 
