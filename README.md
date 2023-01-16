@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/a9qnxpK)
- - ⏩ [The C\u00e4t](http://9gag.com/gag/adPVZvd)
- - 👉 [Divorce](http://9gag.com/gag/aEqPr1o)<!-- MEMES:END -->
+ - 💣 [Comments](http://9gag.com/gag/armV755)
+ - ⏩ [And done](http://9gag.com/gag/amAveL2)
+ - 👉 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)<!-- MEMES:END -->
 
 ---
 
