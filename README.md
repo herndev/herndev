@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What?!](http://9gag.com/gag/ajV9e51)
- - ⏩ [German riot police defeated and humiliated by some kind of mud wizard](http://9gag.com/gag/a5XWY2L)
- - 👉 [Why?](http://9gag.com/gag/a9qnxpK)<!-- MEMES:END -->
+ - 💣 [Fingers crossed](http://9gag.com/gag/aDY4ebd)
+ - ⏩ [Divorcustyryops](http://9gag.com/gag/avQzM2b)
+ - 👉 [Let&#39;s confuse the young ones](http://9gag.com/gag/aDY4ve9)<!-- MEMES:END -->
 
 ---
 
