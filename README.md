@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Play &lpar;2023&rpar; review: Limited reach](https://www.androidauthority.com/motorola-moto-g-play-2023-review-3265042/)
- - [Sources: DOJ cleared its antitrust chief Jonathan Kanter to oversee probes involving Google; Google had sought his recusal, citing his work with Yelp and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230113/p17#a230113p17)
- - [Stadia’s final act will be to unlock Bluetooth support on its controllers](https://www.androidauthority.com/stadia-controller-bluetooth-3266613/)<!-- TECH:END -->
+ - [Europe&#39;s rapid delivery market has consolidated down to three companies: Getir, the largest player that operates in seven European countries, Flink, and Gopuff &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230115/p7#a230115p7)
+ - [How to add a security key to an Apple ID in iOS 16.3](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)
+ - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
