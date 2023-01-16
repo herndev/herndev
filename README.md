@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Undiagnosed heart blockage detected thanks to Apple Watch](https://appleinsider.com/articles/23/01/16/undiagnosed-heart-blockage-detected-thanks-to-apple-watch?utm_medium=rss)
- - [A look at Deltec, an obscure Bahamian bank that got a $50M loan from an FTX-tied entity in October 2021, and chairman Jean Chalopin, who has ties to FTX leaders &lpar;Forbes&rpar;](http://www.techmeme.com/230116/p18#a230116p18)
- - [Experts raise concerns about Germany&#39;s plan to heat homes with heat expelled by data centers as the warm air isn&#39;t hot enough for most district heating networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p17#a230116p17)<!-- TECH:END -->
+ - [Big Apple announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
+ - [Verizon slashes AirPods Pro 2 to $199.99, save an extra $40 vs. Amazon](https://appleinsider.com/articles/23/01/16/verizon-slashes-airpods-pro-2-to-19999-save-an-extra-40-vs-amazon?utm_medium=rss)
+ - [PSA: Stadia goes down this week, get your affairs in order](https://www.androidauthority.com/psa-stadia-game-save-bluetooth-controller-3266829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
