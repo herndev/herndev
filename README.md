@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Communication is key!](http://9gag.com/gag/aDY49WO)
- - ⏩ [My neighbor is vocal training every day too, love listening to her vocals.](http://9gag.com/gag/aEqPKpK)
- - 👉 [Tequila](http://9gag.com/gag/aKE7yb1)<!-- MEMES:END -->
+ - 💣 [Just going to the toilet](http://9gag.com/gag/aDY492N)
+ - ⏩ [Something positive for a change here](http://9gag.com/gag/aVbwr7v)
+ - 👉 [OK boomer](http://9gag.com/gag/amAvQzy)<!-- MEMES:END -->
 
 ---
 
