@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big MacBook Pro announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
- - [Get up to $300 off iPhones, Apple Watches &amp; MacBooks at Amazon this week](https://appleinsider.com/articles/23/01/16/get-up-to-300-off-iphones-apple-watches-macbooks-at-amazon-this-week?utm_medium=rss)
- - [New M2 MacBook Pro with Wi-Fi 6e pops up in regulatory docs](https://appleinsider.com/articles/23/01/16/new-m2-macbook-pro-with-wi-fi-6e-pops-up-in-regulatory-docs?utm_medium=rss)<!-- TECH:END -->
+ - [Russian attacks on Ukraine&#39;s electrical grid are straining its mobile network, leading to a global hunt for equipment like batteries to keep the system online &lpar;William Mauldin/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p20#a230116p20)
+ - [Report: Google working on an AirTag competitor, codenamed “grogu”](https://www.androidauthority.com/google-tracker-grogu-3267081/)
+ - [How to get started coding for Arduino on macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-started-coding-for-arduino-on-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
