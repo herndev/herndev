@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
- - ⏩ [The better](http://9gag.com/gag/aqenqWP)
- - 👉 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
+ - 💣 [Communication is key!](http://9gag.com/gag/aDY49WO)
+ - ⏩ [My neighbor is vocal training every day too, love listening to her vocals.](http://9gag.com/gag/aEqPKpK)
+ - 👉 [Tequila](http://9gag.com/gag/aKE7yb1)<!-- MEMES:END -->
 
 ---
 
