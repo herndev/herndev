@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing few hundreds](http://9gag.com/gag/aBdmb4P)
- - ⏩ [Hmm wait a minute](http://9gag.com/gag/a7qWmEb)
- - 👉 [Woke Velma has an 8% audience score](http://9gag.com/gag/aMEx0wx)<!-- MEMES:END -->
+ - 💣 [When your &lpar;sorting&rpar;algorithm is not efficient but, gets your work done.](http://9gag.com/gag/aoKPvN3)
+ - ⏩ [Girl: `he&#39;s probably cheating on me.` The boys.....](http://9gag.com/gag/a4o3XYy)
+ - 👉 [Stunning](http://9gag.com/gag/aGEd4P6)<!-- MEMES:END -->
 
 ---
 
