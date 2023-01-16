@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comments](http://9gag.com/gag/armV755)
+ - 💣 [Oh that perfect jiggly jiggly](http://9gag.com/gag/aqenPbj)
  - ⏩ [And done](http://9gag.com/gag/amAveL2)
- - 👉 [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)<!-- MEMES:END -->
+ - 👉 [Comments](http://9gag.com/gag/armV755)<!-- MEMES:END -->
 
 ---
 
