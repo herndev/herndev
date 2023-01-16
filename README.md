@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube could soon become your free cable operator](https://www.androidauthority.com/youtube-free-tv-channels-3266873/)
- - [Twitterrific&#39;s Craig Hockenberry calls Twitter&#39;s decision to ax the API for third-party apps with no advance notice a &quot;shit show&quot; leaving customers in the lurch &lpar;Craig Hockenberry/furbo.org&rpar;](http://www.techmeme.com/230115/p10#a230115p10)
- - [More People Need to Watch Apple&#39;s Genius Black Comedy Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-apples-genius-black-comedy-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 design change might finally take care of that crease](https://www.androidauthority.com/samsung-galaxy-z-fold-5-design-crease-3266882/)
+ - [How Apple&#39;s supply chain is leaving China: moving some iPad and MacBook production to Foxconn&#39;s Vietnam plants in May, more iPhone production in India, and more &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230116/p1#a230116p1)
+ - [Apple confirms iPhone 14 Pro display bug, is working on a fix](https://www.androidauthority.com/apple-iphone-14-pro-display-bug-3266872/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
