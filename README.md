@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;January 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-16-2023)
- - [Well, here&#39;s Shrek in Fallout 4](https://www.pcgamer.com/well-heres-shrek-in-fallout-4)
- - [The Last of Us premieres today on HBO](https://blog.playstation.com/2023/01/15/the-last-of-us-premieres-today-on-hbo/)<!-- GAME:END -->
+ - [Should you look up the ending of The Last of Us just because you can?](https://www.polygon.com/23550263/last-us-game-ending-explained)
+ - [Nobody Wants To Buy The Ugly Crypto House](https://kotaku.com/crypto-house-nft-dogecoin-bitcoin-collapse-real-estate-1849991498)
+ - [Five new Steam games you probably missed &lpar;January 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-16-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
