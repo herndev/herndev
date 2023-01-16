@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As D&amp;D struggles with licensing chaos, the publisher of the Alien and Blade Runner RPGs takes its shot](https://www.pcgamer.com/as-dandd-struggles-with-licensing-chaos-the-publisher-of-the-alien-and-blade-runner-rpgs-takes-its-shot)
- - [Lemmings-like puzzler Tin Hearts marches towards full release](https://www.pcgamer.com/lemmings-like-puzzler-tin-hearts-marches-towards-full-release)
- - [The best Genshin Impact Alhaitham build](https://www.pcgamer.com/genshin-impact-alhaitham-build)<!-- GAME:END -->
+ - [Why you can’t trade cards in Marvel Snap](https://www.polygon.com/23552618/marvel-snap-trade-cards-second-dinner-ben-brode)
+ - [16 Of The Best Adventure Games Of The Last Decade Are Just $10](https://kotaku.com/unavowed-humble-bundle-wadjet-eye-games-shardlight-1849992868)
+ - [As D&amp;D struggles with licensing chaos, the publisher of the Alien and Blade Runner RPGs takes its shot](https://www.pcgamer.com/as-dandd-struggles-with-licensing-chaos-the-publisher-of-the-alien-and-blade-runner-rpgs-takes-its-shot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
