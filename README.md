@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 43% on memory cards &amp; portable drives from SanDisk, Samsung &amp; more](https://appleinsider.com/articles/23/01/16/save-up-to-43-on-memory-cards-portable-drives-from-sandisk-samsung-more?utm_medium=rss)
- - [Some US universities, including Alabama&#39;s Auburn and the University of Oklahoma, are banning TikTok on their Wi-Fi networks, causing annoyance among students &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230116/p19#a230116p19)
- - [Best Amazon Alexa Devices of 2023     - CNET](https://www.cnet.com/news/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big MacBook Pro announcement rumored for January 17](https://appleinsider.com/articles/23/01/16/big-apple-announcement-rumored-for-january-17?utm_medium=rss)
+ - [Get up to $300 off iPhones, Apple Watches &amp; MacBooks at Amazon this week](https://appleinsider.com/articles/23/01/16/get-up-to-300-off-iphones-apple-watches-macbooks-at-amazon-this-week?utm_medium=rss)
+ - [New M2 MacBook Pro with Wi-Fi 6e pops up in regulatory docs](https://appleinsider.com/articles/23/01/16/new-m2-macbook-pro-with-wi-fi-6e-pops-up-in-regulatory-docs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
