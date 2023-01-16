@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a surprise](http://9gag.com/gag/aXng6qb)
- - ⏩ [The fence of transformation!](http://9gag.com/gag/a4o3XPZ)
- - 👉 [Why have you betrayed me hooman](http://9gag.com/gag/aKE7Rjj)<!-- MEMES:END -->
+ - 💣 [Maegan hall sex scandal looks like Officer Jeanne in Hot Fuzz...](http://9gag.com/gag/aL1wOAg)
+ - ⏩ [Is it possible?](http://9gag.com/gag/aMEx0VW)
+ - 👉 [N\u00a0\u00a0](http://9gag.com/gag/aQEdDg2)<!-- MEMES:END -->
 
 ---
 
