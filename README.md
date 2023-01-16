@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)
- - [No, you can’t get a 16TB SSD for a hundred bucks](https://www.theverge.com/2023/1/16/23557569/amazon-scam-review-merging-16tb-external-ssds)
- - [This 5TB Western Digital hard drive drops to an all-time low](https://www.theverge.com/2023/1/16/23557767/western-digital-hard-drive-deal-sale)<!-- TECH:END -->
+ - [Toxic Toilet Paper Chemical Found in Endangered Killer Whales     - CNET](https://www.cnet.com/science/biology/toxic-toilet-paper-chemical-found-in-endangered-killer-whales/#ftag=CAD590a51e)
+ - [Scientists Divert Lightning Strikes Using a Powerful, Car-Sized Laser     - CNET](https://www.cnet.com/science/scientists-divert-lightning-strikes-using-a-powerful-car-sized-laser/#ftag=CAD590a51e)
+ - [An overview of the ML software development industry over the past decade: a decline of Nvidia&#39;s CUDA monopoly, PyTorch overtaking Google&#39;s TensorFlow, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/230116/p21#a230116p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
