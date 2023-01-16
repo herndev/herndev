@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Enclave-themed group in Fallout 76 roleplayed the villains so hard it turned everyone against them](https://www.pcgamer.com/an-enclave-themed-group-in-fallout-76-roleplayed-the-villains-so-hard-it-turned-everyone-against-them)
- - [Released Today, The Last Google Stadia Game Is A Piece Of History](https://kotaku.com/google-stadia-play-final-last-game-worm-snake-weird-1849987880)
- - [Here&#39;s why a bunch of games, including Starfield, just changed release dates on Steam](https://www.pcgamer.com/heres-why-a-bunch-of-games-including-starfield-just-changed-release-dates-on-steam)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 16, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-16-2023)
+ - [Well, here&#39;s Shrek in Fallout 4](https://www.pcgamer.com/well-heres-shrek-in-fallout-4)
+ - [The Last of Us premieres today on HBO](https://blog.playstation.com/2023/01/15/the-last-of-us-premieres-today-on-hbo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
