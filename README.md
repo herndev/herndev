@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sovereign Syndicate is shaping up to be steampunk Disco Elysium](https://www.pcgamer.com/sovereign-syndicate-is-shaping-up-to-be-steampunk-disco-elysium)
  - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [Should you look up the ending of The Last of Us just because you can?](https://www.polygon.com/23550263/last-us-game-ending-explained)
- - [Nobody Wants To Buy The Ugly Crypto House](https://kotaku.com/crypto-house-nft-dogecoin-bitcoin-collapse-real-estate-1849991498)<!-- GAME:END -->
+ - [Should you look up the ending of The Last of Us just because you can?](https://www.polygon.com/23550263/last-us-game-ending-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
