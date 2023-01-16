@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Undiagnosed heart blockage detected thanks to Apple Watch](https://appleinsider.com/articles/23/01/16/undiagnosed-heart-blockage-detected-thanks-to-apple-watch?utm_medium=rss)
- - [Roborock S8 Pro Ultra, CES wrap-up, HomeKit buttons, Hunter Douglas shades](https://appleinsider.com/articles/23/01/16/roborock-s8-pro-ultra-ces-wrap-up-homekit-buttons-hunter-douglas-shades?utm_medium=rss)
- - [Study: China led the US in AI research output and quality in 2021, producing ~43,000 papers, about twice as many as the US, with 7,401 of the most-cited papers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230116/p16#a230116p16)<!-- TECH:END -->
+ - [A look at Deltec, an obscure Bahamian bank that got a $50M loan from an FTX-tied entity in October 2021, and chairman Jean Chalopin, who has ties to FTX leaders &lpar;Forbes&rpar;](http://www.techmeme.com/230116/p18#a230116p18)
+ - [Experts raise concerns about Germany&#39;s plan to heat homes with heat expelled by data centers as the warm air isn&#39;t hot enough for most district heating networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230116/p17#a230116p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
