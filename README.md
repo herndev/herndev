@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Win £700 Worth Of Gaming Accessories With ROCCAT](https://www.pcgamer.com/win-pound700-worth-of-gaming-accessories-with-roccat)
- - [Awesome Games Done Quick 2023 raises over $2.6M for cancer charity](https://www.pcgamer.com/awesome-games-done-quick-2023-raises-over-dollar26m-for-cancer-charity)
- - [Today&#39;s Wordle 576 answer and hint for Monday, January 16](https://www.pcgamer.com/wordle-576-answer-january-16)<!-- GAME:END -->
+ - [Greninja Is Coming To Pokémon Scarlet And Violet In 7-Star Raids](https://kotaku.com/pokemon-scarlet-violet-greninja-nintendo-switch-raid-1849992111)
+ - [You have a higher chance of winning the silicon lottery with a Core i9 13900KF than the 13900K](https://www.pcgamer.com/you-have-a-higher-chance-of-winning-the-silicon-lottery-with-a-core-i9-13900kf-than-the-13900k)
+ - [Nvidia said to be shipping newer, cheaper GPUs to partners for the RTX 40-series](https://www.pcgamer.com/nvidia-said-to-be-shipping-newer-cheaper-gpus-to-partners-for-the-rtx-40-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
