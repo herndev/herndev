@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
- - ⏩ [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
- - 👉 [Sadness](http://9gag.com/gag/aWGjZnA)<!-- MEMES:END -->
+ - 💣 [A man of culture](http://9gag.com/gag/a9qEbVL)
+ - ⏩ [A beverage worthy of a road trip with kids](http://9gag.com/gag/aOx3q9r)
+ - 👉 [Whats yours?](http://9gag.com/gag/a5XEe5G)<!-- MEMES:END -->
 
 ---
 
