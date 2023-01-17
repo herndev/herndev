@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft is contemplating cutting roughly 5% of its workforce, or ~11,000 jobs, and could announce the layoffs in the coming days &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/230117/p31#a230117p31)
- - [Discord acquires Gas, a poll-based app with 1M+ DAUs that&#39;s popular among teens for helping them share compliments with each other &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230117/p30#a230117p30)
- - [You can now switch your Stadia controller to Bluetooth, but only until December](https://www.androidauthority.com/stadia-controller-bluetooth-2-3267607/)<!-- TECH:END -->
+ - [Apple agrees to audit labor practices ahead of shareholders meeting](https://appleinsider.com/articles/23/01/17/apple-agrees-to-audit-labor-practices-ahead-of-shareholders-meeting?utm_medium=rss)
+ - [Meta&#39;s Oversight Board urges the company to change its nudity policy after overturning its removal of two posts showing topless transgender and nonbinary people &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230117/p32#a230117p32)
+ - [Smartphone Market Expected to See Little Growth in 2023     - CNET](https://www.cnet.com/tech/smartphone-market-expected-to-see-little-growth-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
