@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Way of Water’s box office approaches $2 billion](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [Disney’s Magic-style card game has a release date — and there’ll be early access](https://www.polygon.com/23558790/disney-lorcana-release-date-early-launch-details-announcement)
- - [PlayStation Store’s top downloads of 2022](https://blog.playstation.com/2023/01/17/playstation-stores-top-downloads-of-2022/)<!-- GAME:END -->
+ - [How to find Rare Island Sanctuary Animals in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23328804/rare-animals-island-sanctuary-location-time-weather-size)
+ - [HBO&#39;s The Last of Us premiere takes disappointingly few creative risks](https://www.pcgamer.com/hbos-the-last-of-us-premiere-takes-disappointingly-few-creative-risks)
+ - [How to defeat Seekers in Valheim](https://www.pcgamer.com/valheim-seeker-weakness)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
