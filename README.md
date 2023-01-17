@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)
- - [2024 Mac mini will keep same design, says Ming-Chi Kuo](https://appleinsider.com/articles/23/01/17/2024-mac-mini-will-keep-same-design-says-ming-chi-kuo?utm_medium=rss)
- - [How to connect two AirPods to one Mac](https://www.androidauthority.com/how-to-connect-two-airpods-to-mac-3267163/)<!-- TECH:END -->
+ - [Apple reclaims smartphone market lead despite 17% contraction](https://appleinsider.com/articles/23/01/17/apple-reclaims-smartphone-market-lead-despite-17-contraction?utm_medium=rss)
+ - [The Collapse of the UK’s Electric Vehicle Champion](https://www.wired.com/story/63c694e6df04e676837db05c/)
+ - [M2 Pro Mac mini versus Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
