@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
- - ⏩ [Casual track drive with a former F1 driver..](http://9gag.com/gag/aWGxreZ)
- - 👉 [Woke Velma](http://9gag.com/gag/aeQDL3Q)<!-- MEMES:END -->
+ - 💣 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)
+ - ⏩ [America has lost it&#39;s mind](http://9gag.com/gag/a04N2yX)
+ - 👉 [Fingers crossed](http://9gag.com/gag/aDY4ebd)<!-- MEMES:END -->
 
 ---
 
