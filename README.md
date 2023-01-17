@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Does your charger have a USB-C port?](https://www.androidauthority.com/charger-usb-c-port-poll-3265272/)
- - [Scammers are selling fake 16TB portable SSDs for ~$100 on Amazon by hijacking listings like pillow covers, keeping the reviews, and listing new products &lpar;Josh Hendrickson/Review Geek&rpar;](http://www.techmeme.com/230117/p2#a230117p2)
- - [Pixel Fold dummy reveals ‘accurate’ dimensions, hinge-design, and more](https://www.androidauthority.com/google-pixel-fold-case-model-3267322/)<!-- TECH:END -->
+ - [A look at Elon Musk&#39;s options to meet financial obligations from a $13B Twitter buyout debt; sources: the first interest installment could be due by January-end &lpar;Financial Times&rpar;](http://www.techmeme.com/230117/p4#a230117p4)
+ - [Sources: Foxconn appoints Michael Chiang as the head of its iPhone assembly business, replacing longtime leader Wang Charng-yang, after a tough year in China &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230117/p3#a230117p3)
+ - [Poll: Does your charger have a USB-C port?](https://www.androidauthority.com/charger-usb-c-port-poll-3265272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
