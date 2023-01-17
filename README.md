@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;&lpar;:](http://9gag.com/gag/a8qGrj1)
- - ⏩ [Cops](http://9gag.com/gag/aA0bBeo)
- - 👉 [Horrible show](http://9gag.com/gag/aDYdRZB)<!-- MEMES:END -->
+ - 💣 [Women be like](http://9gag.com/gag/amAvE89)
+ - ⏩ [Whoa big lady!](http://9gag.com/gag/anz4pWz)
+ - 👉 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)<!-- MEMES:END -->
 
 ---
 
