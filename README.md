@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man of culture](http://9gag.com/gag/a9qEbVL)
- - ⏩ [A beverage worthy of a road trip with kids](http://9gag.com/gag/aOx3q9r)
- - 👉 [Whats yours?](http://9gag.com/gag/a5XEe5G)<!-- MEMES:END -->
+ - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - ⏩ [Yeah, right](http://9gag.com/gag/ajVmrjq)
+ - 👉 [Just saying!](http://9gag.com/gag/aDYd0yZ)<!-- MEMES:END -->
 
 ---
 
