@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti new year sale brings up to $1,400 in savings for whole-home backup solutions](https://appleinsider.com/articles/23/01/17/bluetti-new-year-sale-brings-up-to-1400-in-savings-for-whole-home-backup-solutions?utm_medium=rss)
- - [Russia fines Apple $17.4 million for alleged antitrust issues](https://appleinsider.com/articles/23/01/17/russia-fines-apple-174-million-for-alleged-antitrust-issues?utm_medium=rss)
- - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S10 series gets its January 2023 update, which could be its last](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
+ - [Mac Pro is Apple&#39;s last Intel computer standing](https://appleinsider.com/articles/23/01/17/mac-pro-is-apples-last-intel-computer-standing?utm_medium=rss)
+ - [Cape Town-based game studio startup Carry1st raised a $27M pre-Series B led by Bitkraft Ventures with Konvoy Ventures, a16z, and TTV Capital among investors &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230117/p24#a230117p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
