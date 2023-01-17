@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Classic Retro Games You Can Play For Free](https://kotaku.com/free-retro-arcade-games-download-ps5-xbox-switch-pc-ios-1849997851)
- - [The Best Way To Get Pokémon Scarlet And Violet’s Only Greninja](https://kotaku.com/pokemon-scarlet-violet-greninja-tera-raid-best-moves-1849997732)
- - [Suicide Squad&#39;s leaked battle pass and in-game store triggers anger among fans](https://www.pcgamer.com/suicide-squads-leaked-battle-pass-and-in-game-store-triggers-anger-among-fans)<!-- GAME:END -->
+ - [More restricted military intel ends up on the War Thunder forums](https://www.pcgamer.com/more-restricted-military-intel-ends-up-on-the-war-thunder-forums)
+ - [Netflix’s Power Rangers reunion tease is nostalgia at its most bittersweet](https://www.polygon.com/2023/1/17/23559452/power-rangers-reunion-once)
+ - [5 Classic Retro Games You Can Play For Free](https://kotaku.com/free-retro-arcade-games-download-ps5-xbox-switch-pc-ios-1849997851)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
