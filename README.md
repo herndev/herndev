@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Film In Works From John Wick Director And Michael B. Jordan](https://kotaku.com/rainbow-six-siege-film-john-wick-director-stahelski-1849997381)
  - [Artists sue AI art generators over copyright infringement](https://www.polygon.com/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney)
- - [John Wick director signs on for Rainbow Six movie](https://www.polygon.com/23559279/rainbow-six-movie-michael-b-jordan-chad-stahelski)
- - [Switch Dominated 2022 Sales, And Modern Warfare 2 Beat Elden Ring](https://kotaku.com/2022-video-game-sales-data-switch-call-of-duty-elden-1849996534)<!-- GAME:END -->
+ - [John Wick director signs on for Rainbow Six movie](https://www.polygon.com/23559279/rainbow-six-movie-michael-b-jordan-chad-stahelski)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
