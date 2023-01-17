@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comments](http://9gag.com/gag/armV755)
- - ⏩ [A wholesome prank](http://9gag.com/gag/aRE7YDB)
- - 👉 [Whoa big lady!](http://9gag.com/gag/anz4pWz)<!-- MEMES:END -->
+ - 💣 [And done](http://9gag.com/gag/amAveL2)
+ - ⏩ [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)
+ - 👉 [Never fall asleep near friends.](http://9gag.com/gag/aA0e8jL)<!-- MEMES:END -->
 
 ---
 
