@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto prices are recovering in January so far: bitcoin is up 26%, including 22% in the past week, to over $20,000, ether is up 29%, and meme coins are rising &lpar;Reuters&rpar;](http://www.techmeme.com/230117/p10#a230117p10)
- - [How Apple built a supply chain in China over two decades, spending billions and embedding staff in factories, creating a dependence before US tensions escalated &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230117/p9#a230117p9)
- - [CryptoSlam and Forkast.News plan to merge and become Forkast Labs, offering news and data for crypto investors; both are portfolio companies of Animoca Brands &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230117/p8#a230117p8)<!-- TECH:END -->
+ - [Uber drivers in Europe can now rent Tesla and Polestar vehicles through Hertz partnership](https://www.theverge.com/2023/1/17/23554241/uber-ev-hertz-europe-expand-london-tesla-polestar)
+ - [iPhone 15 Pro Max will get periscope folding zoom camera, rumor claims](https://appleinsider.com/articles/23/01/17/iphone-15-pro-max-will-get-periscope-folding-zoom-camera-rumor-claims?utm_medium=rss)
+ - [Q&amp;A with ex-Facebook CSO and Stanford Internet Observatory professor Alex Stamos on overestimating mis- and disinformation&#39;s impact, Brazil, Gamergate, and more &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230117/p11#a230117p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
