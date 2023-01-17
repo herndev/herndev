@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
- - ⏩ [Whoa big lady!](http://9gag.com/gag/anz4pWz)
- - 👉 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
+ - 💣 [Beep.](http://9gag.com/gag/aoKPbWX)
+ - ⏩ [Cops](http://9gag.com/gag/aA0bBeo)
+ - 👉 [Horrible show](http://9gag.com/gag/aDYdRZB)<!-- MEMES:END -->
 
 ---
 
