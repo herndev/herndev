@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: activist investor Ryan Cohen has built a stake worth hundreds of millions of dollars in Alibaba and is pushing the company to accelerate stock buybacks &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p24#a230116p24)
  - [Samsung debuts what could be the Galaxy S23 Ultra’s main camera sensor](https://www.androidauthority.com/samsung-isocell-hp2-camera-sensor-3267301/)
- - [Wikimedia says the UK&#39;s Online Safety Bill was designed for social media and a proposed change, expected Tuesday, would limit Wikipedia&#39;s freedom of expression &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230116/p23#a230116p23)
- - [&#39;The Mandalorian&#39; Season 3 Trailer Reveals Baby Yoda&#39;s Growing Powers     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-trailer-reveals-baby-yodas-growing-powers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Mandalorian&#39; Season 3: New Trailer, March Release Date and Baby Yoda&#39;s Future     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-new-trailer-march-release-date-and-baby-yoda-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
