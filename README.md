@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toxic Toilet Paper Chemical Found in Endangered Killer Whales     - CNET](https://www.cnet.com/science/biology/toxic-toilet-paper-chemical-found-in-endangered-killer-whales/#ftag=CAD590a51e)
- - [Scientists Divert Lightning Strikes Using a Powerful, Car-Sized Laser     - CNET](https://www.cnet.com/science/scientists-divert-lightning-strikes-using-a-powerful-car-sized-laser/#ftag=CAD590a51e)
- - [An overview of the ML software development industry over the past decade: a decline of Nvidia&#39;s CUDA monopoly, PyTorch overtaking Google&#39;s TensorFlow, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/230116/p21#a230116p21)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 2 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-2-hit-hbo-max/#ftag=CAD590a51e)
+ - [More People Need to Watch This Moving Netflix Mystery Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-moving-netflix-mystery-thriller/#ftag=CAD590a51e)
+ - [Toxic Toilet Paper Chemical Found in Endangered Killer Whales     - CNET](https://www.cnet.com/science/biology/toxic-toilet-paper-chemical-found-in-endangered-killer-whales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
