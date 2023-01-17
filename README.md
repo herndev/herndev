@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Ryan Cohen has built a stake worth hundreds of millions of dollars in Alibaba and is pushing the company to accelerate stock buybacks &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230116/p24#a230116p24)
- - [Samsung debuts what could be the Galaxy S23 Ultra’s main camera sensor](https://www.androidauthority.com/samsung-isocell-hp2-camera-sensor-3267301/)
- - [&#39;The Mandalorian&#39; Season 3: New Trailer, March Release Date and Baby Yoda&#39;s Future     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-new-trailer-march-release-date-and-baby-yoda-future/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung announces the ISOCELL HP2, a 200-megapixel, 1/1.3-inch smartphone camera sensor with pixel binning, that could debut in the upcoming Galaxy S23 Ultra &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230117/p1#a230117p1)
+ - [Here’s your first look at official Galaxy S23 cases](https://www.androidauthority.com/samsung-galaxy-s23-cases-3267311/)
+ - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
