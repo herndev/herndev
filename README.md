@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reportedly working on AirTag-like location trackers](https://www.theverge.com/2023/1/17/23558531/google-location-trackers-leak-airtag-uwb-bluetooth-finder)
- - [Microsoft CEO Satya Nadella says the company plans to integrate OpenAI&#39;s tools into all of its products and make them available for other businesses to build on &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230117/p6#a230117p6)
- - [Daily Authority: 👀 Google’s “Grogu” tracker](https://www.androidauthority.com/daily-authority-january-17-2023-3267010/)<!-- TECH:END -->
+ - [Crypto prices are recovering in January so far: bitcoin is up 26%, including 22% in the past week, to over $20,000, ether is up 29%, and meme coins are rising &lpar;Reuters&rpar;](http://www.techmeme.com/230117/p10#a230117p10)
+ - [How Apple built a supply chain in China over two decades, spending billions and embedding staff in factories, creating a dependence before US tensions escalated &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230117/p9#a230117p9)
+ - [CryptoSlam and Forkast.News plan to merge and become Forkast Labs, offering news and data for crypto investors; both are portfolio companies of Animoca Brands &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230117/p8#a230117p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
