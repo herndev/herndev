@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Fire HD 8 and 8 Plus Review &lpar;2022&rpar;: Unrivaled Value](https://www.wired.com/review/amazon-fire-hd-8-2022/)
- - [Mental Health Apps Won’t Get You Off the Couch](https://www.wired.com/story/are-mental-health-apps-worth-trying/)
- - [A draft House memo detailed failures by Twitter, YouTube, and other platforms to address extremism before January 6, much of which were not in the final report &lpar;Washington Post&rpar;](http://www.techmeme.com/230117/p13#a230117p13)<!-- TECH:END -->
+ - [Getty Images plans to sue Stable Diffusion creator Stability AI in the UK over alleged copyright violation; unlike OpenAI, SD&#39;s training dataset is open source &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230117/p15#a230117p15)
+ - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)
+ - [Apple&#39;s business store goes down ahead of rumored launches](https://appleinsider.com/articles/23/01/17/apples-business-store-goes-down-ahead-of-rumored-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
