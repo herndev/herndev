@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple agrees to audit labor practices ahead of shareholders meeting](https://appleinsider.com/articles/23/01/17/apple-agrees-to-audit-labor-practices-ahead-of-shareholders-meeting?utm_medium=rss)
- - [Meta&#39;s Oversight Board urges the company to change its nudity policy after overturning its removal of two posts showing topless transgender and nonbinary people &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230117/p32#a230117p32)
- - [Smartphone Market Expected to See Little Growth in 2023     - CNET](https://www.cnet.com/tech/smartphone-market-expected-to-see-little-growth-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S23 series could see big price hike, but don’t jump to conclusions yet](https://www.androidauthority.com/samsung-galaxy-s23-prices-3267702/)
+ - [Researchers demonstrate how threat actors can abuse GitHub Codespaces&#39; port forwarding feature to host and distribute malware and malicious scripts &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230117/p34#a230117p34)
+ - [Amid a wave of lawsuits claiming Tesla dangerously overhyped its self-driving software, an overview of Tesla from its erratic CEO to its erratic Autopilot AI &lpar;Christopher Cox/New York Times&rpar;](http://www.techmeme.com/230117/p33#a230117p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
