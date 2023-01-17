@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Pro is Apple&#39;s last Intel computer standing](https://appleinsider.com/articles/23/01/17/mac-pro-is-apples-last-intel-computer-standing?utm_medium=rss)
- - [Google says the FEC dismissed GOP claims that Gmail was filtering campaign ad emails, after the company showed the spam filter was for &quot;commercial reasons&quot; &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230117/p21#a230117p21)
+ - [Bluetti new year sale brings up to $1,400 in savings for whole-home backup solutions](https://appleinsider.com/articles/23/01/17/bluetti-new-year-sale-brings-up-to-1400-in-savings-for-whole-home-backup-solutions?utm_medium=rss)
+ - [Russia fines Apple $17.4 million for alleged antitrust issues](https://appleinsider.com/articles/23/01/17/russia-fines-apple-174-million-for-alleged-antitrust-issues?utm_medium=rss)
  - [Apple upgrades 14-inch and 16-inch MacBook Pro with M2 Pro, M2 Max](https://appleinsider.com/articles/23/01/17/apple-upgrades-14-inch-and-16-inch-macbook-pro-with-m2-pro-m2-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
