@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supreme Court asks feds to weigh in on Apple patent dispute](https://appleinsider.com/articles/23/01/17/supreme-court-asks-feds-to-weigh-in-on-apple-patent-dispute?utm_medium=rss)
- - [Apple 14- and 16-Inch MacBook Pro and Mac Mini &lpar;2023&rpar;: Specs, Release Date, Price](https://www.wired.com/story/apple-macbook-pro-14-16-inch-2023-mac-mini-m2/)
- - [See Rihanna Strut Her Stuff in Teaser for Super Bowl Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/see-rihanna-strut-her-stuff-in-teaser-for-super-bowl-halftime-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Microsoft is contemplating cutting roughly 5% of its workforce, or ~11,000 jobs, and could announce the layoffs in the coming days &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/230117/p31#a230117p31)
+ - [Discord acquires Gas, a poll-based app with 1M+ DAUs that&#39;s popular among teens for helping them share compliments with each other &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230117/p30#a230117p30)
+ - [You can now switch your Stadia controller to Bluetooth, but only until December](https://www.androidauthority.com/stadia-controller-bluetooth-2-3267607/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
