@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/16/this-weeks-deals-with-gold-and-spotlight-sale-258/)
  - [The Mandalorian season 3 trailer preps us for the long road to Mandalore](https://www.polygon.com/star-wars/23557249/mandalorian-season-3-trailer-march-release-disney-plus-star-wars)
- - [Our Favorite Cosplay From Los Angeles Comic Con 2022](https://kotaku.com/lacc-los-angeles-comic-con-cosplay-gallery-photos-video-1849991850)
- - [F1 champ Max Verstappen ragequits virtual Le Mans race, calls it a &#39;clown show&#39;](https://www.pcgamer.com/f1-champ-max-verstappen-ragequits-virtual-le-mans-race-calls-it-a-clown-show)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Los Angeles Comic Con 2022](https://kotaku.com/lacc-los-angeles-comic-con-cosplay-gallery-photos-video-1849991850)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
