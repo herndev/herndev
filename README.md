@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)
- - ⏩ [That execution tho!](http://9gag.com/gag/aMExgwV)
- - 👉 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)<!-- MEMES:END -->
+ - 💣 [&lpar;&lpar;:](http://9gag.com/gag/a8qGrj1)
+ - ⏩ [Cops](http://9gag.com/gag/aA0bBeo)
+ - 👉 [Horrible show](http://9gag.com/gag/aDYdRZB)<!-- MEMES:END -->
 
 ---
 
