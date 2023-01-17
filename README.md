@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women be like](http://9gag.com/gag/amAvE89)
+ - 💣 [A wholesome prank](http://9gag.com/gag/aRE7YDB)
  - ⏩ [Whoa big lady!](http://9gag.com/gag/anz4pWz)
- - 👉 [\u200eHold on my friend](http://9gag.com/gag/anz4LDz)<!-- MEMES:END -->
+ - 👉 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
 
 ---
 
