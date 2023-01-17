@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces the ISOCELL HP2, a 200-megapixel, 1/1.3-inch smartphone camera sensor with pixel binning, that could debut in the upcoming Galaxy S23 Ultra &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230117/p1#a230117p1)
- - [Here’s your first look at official Galaxy S23 cases](https://www.androidauthority.com/samsung-galaxy-s23-cases-3267311/)
- - [Monday’s top tech news: Twitter’s third-party client ban seems like no accident](https://www.theverge.com/2023/1/16/23557076/january-16-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Poll: Does your charger have a USB-C port?](https://www.androidauthority.com/charger-usb-c-port-poll-3265272/)
+ - [Scammers are selling fake 16TB portable SSDs for ~$100 on Amazon by hijacking listings like pillow covers, keeping the reviews, and listing new products &lpar;Josh Hendrickson/Review Geek&rpar;](http://www.techmeme.com/230117/p2#a230117p2)
+ - [Pixel Fold dummy reveals ‘accurate’ dimensions, hinge-design, and more](https://www.androidauthority.com/google-pixel-fold-case-model-3267322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
