@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blizzard is blaming NetEase for its games going offline in China next week](https://www.pcgamer.com/blizzard-is-blaming-netease-for-its-games-going-offline-in-china-next-week)
  - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
- - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)
- - [How Titan Rune dungeons work in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-titan-rune-dungeons-wotlk)<!-- GAME:END -->
+ - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
