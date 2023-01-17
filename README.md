@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 577 answer and hint for Tuesday, January 17](https://www.pcgamer.com/wordle-577-answer-january-17)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/16/this-weeks-deals-with-gold-and-spotlight-sale-258/)
- - [The Mandalorian season 3 trailer preps us for the long road to Mandalore](https://www.polygon.com/star-wars/23557249/mandalorian-season-3-trailer-march-release-disney-plus-star-wars)
- - [Our Favorite Cosplay From Los Angeles Comic Con 2022](https://kotaku.com/lacc-los-angeles-comic-con-cosplay-gallery-photos-video-1849991850)<!-- GAME:END -->
+ - [The Mandalorian season 3 trailer preps us for the long road to Mandalore](https://www.polygon.com/star-wars/23557249/mandalorian-season-3-trailer-march-release-disney-plus-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
