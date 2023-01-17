@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
- - ⏩ [Yeah, right](http://9gag.com/gag/ajVmrjq)
- - 👉 [Just saying!](http://9gag.com/gag/aDYd0yZ)<!-- MEMES:END -->
+ - 💣 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)
+ - ⏩ [GO WOKE... GO BROKE.](http://9gag.com/gag/aBd2K5Q)
+ - 👉 [Yeah, right](http://9gag.com/gag/ajVmrjq)<!-- MEMES:END -->
 
 ---
 
