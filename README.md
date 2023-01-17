@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getty Images files suit against one of the biggest AI art tools](https://www.pcgamer.com/getty-images-files-suit-against-one-of-the-biggest-ai-art-tools)
- - [Attack on Titan’s final season roars to life this March](https://www.polygon.com/23558561/attack-on-titan-final-season-part-3-premiere-release-date)
- - [Intel Arc graphics gets enthusiast-style overclocking tool](https://www.pcgamer.com/intel-arc-graphics-gets-enthusiast-style-overclocking-tool)<!-- GAME:END -->
+ - [Avatar: The Way of Water’s box office approaches $2 billion](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [Disney’s Magic-style card game has a release date — and there’ll be early access](https://www.polygon.com/23558790/disney-lorcana-release-date-early-launch-details-announcement)
+ - [PlayStation Store’s top downloads of 2022](https://blog.playstation.com/2023/01/17/playstation-stores-top-downloads-of-2022/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
