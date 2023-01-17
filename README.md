@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring scholar pits 50 bad dogs against the game’s roster of bosses](https://www.polygon.com/23558978/elden-ring-bjornthebear-youtube-caelid-dog-boss-fight-challenge)
- - [The dopest rap videos directed by big-name movie directors](https://www.polygon.com/23546180/best-rap-hip-hop-music-videos-by-movie-directors)
- - [The Sims 4 is getting new micro-content for skivvies and your privy](https://www.polygon.com/23559145/sims-4-simtimates-bathroom-clutter-kit-announcements)<!-- GAME:END -->
+ - [Artists sue AI art generators over copyright infringement](https://www.polygon.com/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney)
+ - [John Wick director signs on for Rainbow Six movie](https://www.polygon.com/23559279/rainbow-six-movie-michael-b-jordan-chad-stahelski)
+ - [Switch Dominated 2022 Sales, And Modern Warfare 2 Beat Elden Ring](https://kotaku.com/2022-video-game-sales-data-switch-call-of-duty-elden-1849996534)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
