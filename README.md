@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 2 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-2-hit-hbo-max/#ftag=CAD590a51e)
- - [More People Need to Watch This Moving Netflix Mystery Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-moving-netflix-mystery-thriller/#ftag=CAD590a51e)
- - [Toxic Toilet Paper Chemical Found in Endangered Killer Whales     - CNET](https://www.cnet.com/science/biology/toxic-toilet-paper-chemical-found-in-endangered-killer-whales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Duolingo Turned Me Into A Monster     - CNET](https://www.cnet.com/culture/internet/features/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
+ - [Dave2D posts hands-on with](https://www.theverge.com/2023/1/16/23557951/pixel-fold-dummy-mockup-dave2d-hands-on-leak)
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 2 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-2-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
