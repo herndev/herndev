@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)
- - ⏩ [GO WOKE... GO BROKE.](http://9gag.com/gag/aBd2K5Q)
- - 👉 [Yeah, right](http://9gag.com/gag/ajVmrjq)<!-- MEMES:END -->
+ - 💣 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
+ - ⏩ [His expression says it all](http://9gag.com/gag/aeQDvZj)
+ - 👉 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)<!-- MEMES:END -->
 
 ---
 
