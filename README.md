@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
- - ⏩ [Women be like](http://9gag.com/gag/amAvE89)
- - 👉 [That execution tho!](http://9gag.com/gag/aMExgwV)<!-- MEMES:END -->
+ - 💣 [America has lost it&#39;s mind](http://9gag.com/gag/a04N2yX)
+ - ⏩ [Jesus knows best](http://9gag.com/gag/a04NmZZ)
+ - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/a04Nm0d)<!-- MEMES:END -->
 
 ---
 
