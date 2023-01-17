@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [America has lost it&#39;s mind](http://9gag.com/gag/a04N2yX)
- - ⏩ [Jesus knows best](http://9gag.com/gag/a04NmZZ)
- - 👉 [\u200e\u200e\u200e](http://9gag.com/gag/a04Nm0d)<!-- MEMES:END -->
+ - 💣 [That execution tho!](http://9gag.com/gag/aMExgwV)
+ - ⏩ [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)
+ - 👉 [Women be like](http://9gag.com/gag/amAvE89)<!-- MEMES:END -->
 
 ---
 
