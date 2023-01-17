@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard is blaming NetEase for its games going offline in China next week](https://www.pcgamer.com/blizzard-is-blaming-netease-for-its-games-going-offline-in-china-next-week)
- - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
- - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)<!-- GAME:END -->
+ - [Getty Images files suit against one of the biggest AI art tools](https://www.pcgamer.com/getty-images-files-suit-against-one-of-the-biggest-ai-art-tools)
+ - [Attack on Titan’s final season roars to life this March](https://www.polygon.com/23558561/attack-on-titan-final-season-part-3-premiere-release-date)
+ - [Intel Arc graphics gets enthusiast-style overclocking tool](https://www.pcgamer.com/intel-arc-graphics-gets-enthusiast-style-overclocking-tool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
