@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Rare Island Sanctuary Animals in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23328804/rare-animals-island-sanctuary-location-time-weather-size)
- - [HBO&#39;s The Last of Us premiere takes disappointingly few creative risks](https://www.pcgamer.com/hbos-the-last-of-us-premiere-takes-disappointingly-few-creative-risks)
- - [How to defeat Seekers in Valheim](https://www.pcgamer.com/valheim-seeker-weakness)<!-- GAME:END -->
+ - [Forspoken&#39;s PC requirements are out and actually kinda weird](https://www.pcgamer.com/forspokens-pc-requirements-are-out-and-actually-kinda-weird)
+ - [Twitch Star’s Black Lives Matter Post Gets Him TikTok Permaban On MLK Day](https://kotaku.com/twitch-hasan-piker-tiktok-permaban-black-lives-matter-1849995907)
+ - [Bored Ape Flexes That $450M It Raised For Its Metaverse Empire With Poop Game](https://kotaku.com/bored-ape-yacht-club-nft-dookey-dash-temple-run-1849995557)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
