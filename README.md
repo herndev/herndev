@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This scene still haunts me](http://9gag.com/gag/aEqPe3G)
- - ⏩ [Never fall asleep near friends.](http://9gag.com/gag/aA0e8jL)
- - 👉 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)<!-- MEMES:END -->
+ - 💣 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)
+ - ⏩ [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)
+ - 👉 [His expression says it all](http://9gag.com/gag/aeQDvZj)<!-- MEMES:END -->
 
 ---
 
