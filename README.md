@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 577 answer and hint for Tuesday, January 17](https://www.pcgamer.com/wordle-577-answer-january-17)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/16/this-weeks-deals-with-gold-and-spotlight-sale-258/)
- - [The Mandalorian season 3 trailer preps us for the long road to Mandalore](https://www.polygon.com/star-wars/23557249/mandalorian-season-3-trailer-march-release-disney-plus-star-wars)<!-- GAME:END -->
+ - [Atomic Heart has a great aesthetic in search of a more interesting game](https://www.pcgamer.com/atomic-heart-preview)
+ - [Atomic Heart is a very Russian kind of throwback](https://www.polygon.com/23553661/atomic-heart-preview-russia-mundfish-soviet-fps)
+ - [Today&#39;s Wordle 577 answer and hint for Tuesday, January 17](https://www.pcgamer.com/wordle-577-answer-january-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
