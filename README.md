@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forspoken&#39;s PC requirements are out and actually kinda weird](https://www.pcgamer.com/forspokens-pc-requirements-are-out-and-actually-kinda-weird)
- - [Twitch Star’s Black Lives Matter Post Gets Him TikTok Permaban On MLK Day](https://kotaku.com/twitch-hasan-piker-tiktok-permaban-black-lives-matter-1849995907)
- - [Bored Ape Flexes That $450M It Raised For Its Metaverse Empire With Poop Game](https://kotaku.com/bored-ape-yacht-club-nft-dookey-dash-temple-run-1849995557)<!-- GAME:END -->
+ - [Elden Ring scholar pits 50 bad dogs against the game’s roster of bosses](https://www.polygon.com/23558978/elden-ring-bjornthebear-youtube-caelid-dog-boss-fight-challenge)
+ - [The dopest rap videos directed by big-name movie directors](https://www.polygon.com/23546180/best-rap-hip-hop-music-videos-by-movie-directors)
+ - [The Sims 4 is getting new micro-content for skivvies and your privy](https://www.polygon.com/23559145/sims-4-simtimates-bathroom-clutter-kit-announcements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
