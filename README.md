@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Duolingo Turned Me Into A Monster     - CNET](https://www.cnet.com/culture/internet/features/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
- - [Dave2D posts hands-on with](https://www.theverge.com/2023/1/16/23557951/pixel-fold-dummy-mockup-dave2d-hands-on-leak)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 2 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-2-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft makes Azure OpenAI Service, debuted in 2021, broadly available, giving customers access to the GPT-3.5 language model, DALL-E 2, and &quot;soon&quot; ChatGPT &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230116/p22#a230116p22)
+ - [WWE Royal Rumble 2023: How to Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
+ - [How Duolingo Turned Me Into A Monster     - CNET](https://www.cnet.com/culture/internet/features/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
