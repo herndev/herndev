@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You maybe cool but are you this cool?](http://9gag.com/gag/aRE7bzj)
- - ⏩ [My son is with a golddigger. He\u2019s a loser. Gotta be honest. I worked super hard for a good life and I just willed all my assets to be liquidated and the money will go to my nephew in Mexico. He has no idea he\u2019s my beneficiary. Leaving my sons gf a shovel with a golddigger sign](http://9gag.com/gag/aL1w7O5)
- - 👉 [A solid answer](http://9gag.com/gag/aDY45XB)<!-- MEMES:END -->
+ - ⏩ [Women be like](http://9gag.com/gag/amAvE89)
+ - 👉 [That execution tho!](http://9gag.com/gag/aMExgwV)<!-- MEMES:END -->
 
 ---
 
