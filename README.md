@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomic Heart has a great aesthetic in search of a more interesting game](https://www.pcgamer.com/atomic-heart-preview)
- - [Atomic Heart is a very Russian kind of throwback](https://www.polygon.com/23553661/atomic-heart-preview-russia-mundfish-soviet-fps)
- - [Today&#39;s Wordle 577 answer and hint for Tuesday, January 17](https://www.pcgamer.com/wordle-577-answer-january-17)<!-- GAME:END -->
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
+ - [Your laptop will be faster and thinner in 2024 thanks to CAMM memory](https://www.pcgamer.com/your-laptop-will-be-faster-and-thinner-in-2024-thanks-to-camm-memory)
+ - [How Titan Rune dungeons work in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-titan-rune-dungeons-wotlk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
