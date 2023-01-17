@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber drivers in Europe can now rent Tesla and Polestar vehicles through Hertz partnership](https://www.theverge.com/2023/1/17/23554241/uber-ev-hertz-europe-expand-london-tesla-polestar)
- - [iPhone 15 Pro Max will get periscope folding zoom camera, rumor claims](https://appleinsider.com/articles/23/01/17/iphone-15-pro-max-will-get-periscope-folding-zoom-camera-rumor-claims?utm_medium=rss)
- - [Q&amp;A with ex-Facebook CSO and Stanford Internet Observatory professor Alex Stamos on overestimating mis- and disinformation&#39;s impact, Brazil, Gamergate, and more &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230117/p11#a230117p11)<!-- TECH:END -->
+ - [Amazon Fire HD 8 and 8 Plus Review &lpar;2022&rpar;: Unrivaled Value](https://www.wired.com/review/amazon-fire-hd-8-2022/)
+ - [Mental Health Apps Won’t Get You Off the Couch](https://www.wired.com/story/are-mental-health-apps-worth-trying/)
+ - [A draft House memo detailed failures by Twitter, YouTube, and other platforms to address extremism before January 6, much of which were not in the final report &lpar;Washington Post&rpar;](http://www.techmeme.com/230117/p13#a230117p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
