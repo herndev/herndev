@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Here’s how you keep your phone in your pocket](https://www.androidauthority.com/how-keep-phone-in-pocket-poll-results-3267339/)
  - [A look at Elon Musk&#39;s options to meet financial obligations from a $13B Twitter buyout debt; sources: the first interest installment could be due by January-end &lpar;Financial Times&rpar;](http://www.techmeme.com/230117/p4#a230117p4)
- - [Sources: Foxconn appoints Michael Chiang as the head of its iPhone assembly business, replacing longtime leader Wang Charng-yang, after a tough year in China &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230117/p3#a230117p3)
- - [Poll: Does your charger have a USB-C port?](https://www.androidauthority.com/charger-usb-c-port-poll-3265272/)<!-- TECH:END -->
+ - [Sources: Foxconn appoints Michael Chiang as the head of its iPhone assembly business, replacing longtime leader Wang Charng-yang, after a tough year in China &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230117/p3#a230117p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
