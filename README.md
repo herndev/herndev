@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well... that was expected by everyone involved...](http://9gag.com/gag/aEqP9QN)
- - ⏩ [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)
- - 👉 [His expression says it all](http://9gag.com/gag/aeQDvZj)<!-- MEMES:END -->
+ - 💣 [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
+ - ⏩ [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
+ - 👉 [Sadness](http://9gag.com/gag/aWGjZnA)<!-- MEMES:END -->
 
 ---
 
