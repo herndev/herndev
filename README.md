@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)
- - ⏩ [Men and women are different](http://9gag.com/gag/aDY4E3B)
- - 👉 [This scene still haunts me](http://9gag.com/gag/aEqPe3G)<!-- MEMES:END -->
+ - 💣 [This scene still haunts me](http://9gag.com/gag/aEqPe3G)
+ - ⏩ [Never fall asleep near friends.](http://9gag.com/gag/aA0e8jL)
+ - 👉 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)<!-- MEMES:END -->
 
 ---
 
