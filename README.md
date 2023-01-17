@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Azure OpenAI Service, debuted in 2021, broadly available, giving customers access to the GPT-3.5 language model, DALL-E 2, and &quot;soon&quot; ChatGPT &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230116/p22#a230116p22)
- - [WWE Royal Rumble 2023: How to Watch, Start Times, Match Card and Peacock     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-how-to-watch-start-times-match-card-and-peacock/#ftag=CAD590a51e)
- - [How Duolingo Turned Me Into A Monster     - CNET](https://www.cnet.com/culture/internet/features/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung debuts what could be the Galaxy S23 Ultra’s main camera sensor](https://www.androidauthority.com/samsung-isocell-hp2-camera-sensor-3267301/)
+ - [Wikimedia says the UK&#39;s Online Safety Bill was designed for social media and a proposed change, expected Tuesday, would limit Wikipedia&#39;s freedom of expression &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230116/p23#a230116p23)
+ - [&#39;The Mandalorian&#39; Season 3 Trailer Reveals Baby Yoda&#39;s Growing Powers     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-trailer-reveals-baby-yodas-growing-powers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
