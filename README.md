@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Best safety apps for college students for iPhone](https://appleinsider.com/inside/iphone/best/best-safety-apps-for-college-students-for-iphone?utm_medium=rss)
- - [Apple planned M2 Mac mini, MacBook Pro launch for 2022](https://appleinsider.com/articles/23/01/18/apple-planned-m2-mac-mini-macbook-pro-launch-for-2022?utm_medium=rss)
- - [Source: Twitter manager Siddharth Rao told employees that daily revenue was 40% lower than a year earlier and more than 500 top advertisers have paused spending &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230118/p10#a230118p10)<!-- TECH:END -->
+ - [Mac mini, Mac Studio, iMac - Best desktop Mac to buy at any pricepoint](https://appleinsider.com/inside/mac/best/mac-mini-mac-studio-imac---best-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
+ - [Yeti Yonder Review: The Water Bottle I&#39;ve Been Waiting For](https://www.wired.com/review/yeti-yonder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
