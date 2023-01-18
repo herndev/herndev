@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of DCG CEO Barry Silbert, a finance veteran who built a crypto conglomerate and is now fighting to keep DCG&#39;s brokerage firm Genesis out of bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230118/p2#a230118p2)
  - [Sources: about 14 Chinese suppliers receive initial clearance to expand in India, after Apple said it needed their services to grow its presence in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/230118/p1#a230118p1)
- - [Best Smartwatch for 2023     - CNET](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
- - [Best Collagen Powders for 2023     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smartwatch for 2023     - CNET](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
