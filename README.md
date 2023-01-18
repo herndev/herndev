@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
- - ⏩ [It&#39;s not everyday you get to see stuff like this](http://9gag.com/gag/aeQA3Pq)
- - 👉 [I wonder how common that is in companies \ud83c\udff4\u2620\ufe0f](http://9gag.com/gag/abvVqRL)<!-- MEMES:END -->
+ - 💣 [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
+ - ⏩ [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
+ - 👉 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)<!-- MEMES:END -->
 
 ---
 
