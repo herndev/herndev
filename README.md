@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may never be able to quit manufacturing in China](https://appleinsider.com/articles/23/01/18/apple-may-never-be-able-to-quit-manufacturing-in-china?utm_medium=rss)
- - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
- - [The UK&#39;s Online Safety Bill has become complex and confusing, things it sought to avoid, leaving social media companies grappling with implementing the rules &lpar;Helen Thomas/Financial Times&rpar;](http://www.techmeme.com/230118/p14#a230118p14)<!-- TECH:END -->
+ - [WaterField&#39;s Magnetic Laptop Sleeve now fits MacBook Pro](https://appleinsider.com/articles/23/01/18/waterfields-magnetic-laptop-sleeve-now-fits-macbook-pro?utm_medium=rss)
+ - [iOS 16.3 and other updates expected week of Jan. 23.](https://appleinsider.com/articles/23/01/18/ios-163-and-other-updates-expected-week-of-jan-23?utm_medium=rss)
+ - [Chord, which offers e-commerce tools to track metrics, raised a $15M Series A extension, taking the round to $33M, co-led by Bright Pixel and Eclipse &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230118/p17#a230118p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
