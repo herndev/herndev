@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His expression says it all](http://9gag.com/gag/aeQDvZj)
- - ⏩ [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)
- - 👉 [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)<!-- MEMES:END -->
+ - 💣 [Guys literally only want one thing and it&#39;s f**king disgusting](http://9gag.com/gag/aVb7Q3v)
+ - ⏩ [It&#39;s not everyday you get to see stuff like this](http://9gag.com/gag/aeQA3Pq)
+ - 👉 [I wonder how common that is in companies \ud83c\udff4\u2620\ufe0f](http://9gag.com/gag/abvVqRL)<!-- MEMES:END -->
 
 ---
 
