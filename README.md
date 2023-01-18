@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From The Last Jedi to Glass Onion, Rian Johnson keeps murdering the past](https://www.polygon.com/23559579/rian-johnson-theme-glass-onion-star-wars-kill-the-past)
- - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)
- - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)<!-- GAME:END -->
+ - [HBO’s Last of Us opening twist improves on the game, but only a little bit](https://www.polygon.com/23553817/last-us-episode-1-prologue-sarah-death)
+ - [How to win Marvel Snap’s Rickety Bridge featured location](https://www.polygon.com/guides/23560529/marvel-snap-featured-location-rickety-bridge-destroy-deck)
+ - [It’s Taken 16 Years For Us To Realize Mass Effect’s Intro Is Literally Top Gun](https://kotaku.com/mass-effect-top-gun-text-intro-bioware-casey-hudson-1850000760)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
