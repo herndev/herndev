@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best safety apps for college students for iPhone](https://appleinsider.com/inside/iphone/best/best-safety-apps-for-college-students-for-iphone?utm_medium=rss)
- - [Mac mini, Mac Studio, iMac - Best desktop Mac to buy at any pricepoint](https://appleinsider.com/inside/mac/best/mac-mini-mac-studio-imac---best-desktop-mac-to-buy-at-any-pricepoint?utm_medium=rss)
- - [Yeti Yonder Review: The Water Bottle I&#39;ve Been Waiting For](https://www.wired.com/review/yeti-yonder/)<!-- TECH:END -->
+ - [Apple may never be able to quit manufacturing in China](https://appleinsider.com/articles/23/01/18/apple-may-never-be-able-to-quit-manufacturing-in-china?utm_medium=rss)
+ - [M2 Pro Mac mini vs Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/m2-pro-mac-mini-versus-mac-studio---compared?utm_medium=rss)
+ - [The UK&#39;s Online Safety Bill has become complex and confusing, things it sought to avoid, leaving social media companies grappling with implementing the rules &lpar;Helen Thomas/Financial Times&rpar;](http://www.techmeme.com/230118/p14#a230118p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
