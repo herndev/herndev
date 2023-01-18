@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
- - ⏩ [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
- - 👉 [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)<!-- MEMES:END -->
+ - 💣 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
+ - ⏩ [Whats yours?](http://9gag.com/gag/a5XEe5G)
+ - 👉 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)<!-- MEMES:END -->
 
 ---
 
