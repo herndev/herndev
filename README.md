@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔥 Galaxy Unpacked news, new MacBooks, and more!](https://www.androidauthority.com/daily-authority-january-18-2023-3267790/)
- - [Analysis: 196 members of the new Congress accepted donations from Sam Bankman-Fried or other FTX senior executives, including Kevin McCarthy and Chuck Schumer &lpar;CoinDesk&rpar;](http://www.techmeme.com/230118/p5#a230118p5)
- - [A look at LockBit, a Russia-linked hacking group that claimed responsibility for compromising 40 organizations in the past month, including the UK&#39;s Royal Mail &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230118/p4#a230118p4)<!-- TECH:END -->
+ - [As Apple shifts from China, experts worry India will struggle with iPhone production due to supply chain issues, labor woes, a lack of automation, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230118/p8#a230118p8)
+ - [We asked, you told us: A ton of you have a Chromecast with Google TV](https://www.androidauthority.com/own-chromecast-google-tv-poll-results-3267887/)
+ - [Samsung Galaxy S23, S23 Plus, and S23 Ultra specs allegedly leak, showing 6.1, 6.6, and 6.8-inch screens, Snapdragon 8 Gen 2, the Ultra&#39;s 200MP sensor, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230118/p7#a230118p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
