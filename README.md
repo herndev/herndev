@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Azoth](https://www.pcgamer.com/asus-rog-azoth-gaming-keyboard-review)
- - [Today&#39;s Wordle 578 answer and hint for Wednesday, January 18](https://www.pcgamer.com/wordle-578-answer-january-18)
- - [Dead Stadia Game Lives On Through Sneaky Steam Update](https://kotaku.com/google-stadia-dead-game-preservation-gunsport-pc-steam-1849999089)<!-- GAME:END -->
+ - [Guilty Gear Xrd Rev 2 is finally getting rollback netcode after six years](https://www.pcgamer.com/guilty-gear-xrd-rev-2-is-finally-getting-rollback-netcode-after-six-years)
+ - [Publisher slashes Callisto Protocol sales hopes by over half after it fails to meet absurd expectations](https://www.pcgamer.com/publisher-slashes-callisto-protocol-sales-hopes-by-over-half-after-it-fails-to-meet-absurd-expectations)
+ - [Micron outs 24GB and 48GB DDR5 modules but your games don&#39;t care](https://www.pcgamer.com/micron-outs-24gb-and-48gb-ddr5-modules-but-your-games-dont-care)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
