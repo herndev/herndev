@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Devs Grill Boss On Shifting Blame And Chasing Trends](https://kotaku.com/ubisoft-assassin-s-creed-mirage-far-cry-delay-canceled-1850001343)
- - [Coffee Talk Episode 2 has immaculate vibes, coffee, talk, and releases 4/20 if you know what I mean](https://www.pcgamer.com/coffee-talk-episode-2-has-immaculate-vibes-coffee-talk-and-releases-420-if-you-know-what-i-mean)
- - [PowerWash Simulator splash lands on PS4 &amp; PS5 January 31](https://blog.playstation.com/2023/01/18/powerwash-simulator-splash-lands-on-ps4-ps5-january-31/)<!-- GAME:END -->
+ - [D&amp;D leadership issues a fresh apology, details next steps to update the OGL](https://www.polygon.com/23560935/dnd-dungeons-dragons-ogl-update-apology-explained)
+ - [16 Of The Best Action Games You Can Play In 2023](https://kotaku.com/best-action-games-ps4-ps5-xbox-pc-switch-1850001678)
+ - [Diablo Immortal’s ‘misleading’ Blessing of the Worthy gem under legal scrutiny](https://www.polygon.com/23560629/diablo-immortal-lawsuit-class-action-blessing-of-the-worthy-gem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
