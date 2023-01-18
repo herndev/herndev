@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
- - ⏩ [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
+ - ⏩ [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
+ - 👉 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)<!-- MEMES:END -->
 
 ---
 
