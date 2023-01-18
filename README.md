@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - ⏩ [Greatest fall over I ever seen](http://9gag.com/gag/aGEpwV6)
- - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
+ - 💣 [Why it always be like that?](http://9gag.com/gag/aA0brO2)
+ - ⏩ [I have to watch this on a daily basis.](http://9gag.com/gag/aDYdmR7)
+ - 👉 [Bulgaria did it right](http://9gag.com/gag/a8qEjmp)<!-- MEMES:END -->
 
 ---
 
