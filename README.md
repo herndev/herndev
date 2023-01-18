@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the purpose of the internet](http://9gag.com/gag/aYVoNNw)
- - ⏩ [We only desires for things that we do not have](http://9gag.com/gag/a6qEyY9)
- - 👉 [She gets the hypocrisy.](http://9gag.com/gag/aoKM0X3)<!-- MEMES:END -->
+ - 💣 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - ⏩ [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)
+ - 👉 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)<!-- MEMES:END -->
 
 ---
 
