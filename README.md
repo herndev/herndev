@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
- - ⏩ [That voice. That chilling voice..](http://9gag.com/gag/anzQB8n)
- - 👉 [I&#39;m funna go to the store](http://9gag.com/gag/avQ5PoW)<!-- MEMES:END -->
+ - 💣 [Like pottery!](http://9gag.com/gag/a5XEedG)
+ - ⏩ [Money is money right](http://9gag.com/gag/a8qEMY6)
+ - 👉 [Twinkle Toes!](http://9gag.com/gag/aEqp7oe)<!-- MEMES:END -->
 
 ---
 
