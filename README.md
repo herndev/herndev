@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - ⏩ [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
- - 👉 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)<!-- MEMES:END -->
+ - 💣 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)
+ - ⏩ [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
+ - 👉 [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)<!-- MEMES:END -->
 
 ---
 
