@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [By suing Genesis and Gemini over Gemini Earn in 2023, the SEC is years late to addressing the crypto lending product, which was marketed like a security &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230117/p39#a230117p39)
- - [Bored Ape Yacht Club Is Trying to Revive NFTs With Atomic Poop     - CNET](https://www.cnet.com/culture/bored-ape-yacht-club-is-trying-to-revive-nfts-with-atomic-poop/#ftag=CAD590a51e)
- - [&#39;Jung_E&#39; on Netflix: A Beautifully Heartrending Sci-Fi Thriller     - CNET](https://www.cnet.com/culture/entertainment/jung-e-on-netflix-a-beautifully-heartrending-sci-fi-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple indefinitely postpones its plans for lightweight AR glasses due to technical difficulties, plans to launch a lower-cost MR headset in 2024/2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230117/p40#a230117p40)
+ - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)
+ - [Now Twitter is selling one year of blue check privileges at a discounted rate of $84](https://www.theverge.com/2023/1/17/23559959/twitter-blue-annual-subscription-discount-offer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
