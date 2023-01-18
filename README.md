@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tried to pull over the wrong one this time](http://9gag.com/gag/aA0enE2)
- - ⏩ [His expression says it all](http://9gag.com/gag/aeQDvZj)
- - 👉 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)<!-- MEMES:END -->
+ - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - ⏩ [The Real Jaws-25 footer](http://9gag.com/gag/a4oE9dy)
+ - 👉 [Strange but true](http://9gag.com/gag/aWGj0bn)<!-- MEMES:END -->
 
 ---
 
