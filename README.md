@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Museum Asks Public to Reinvent a Classic Painting, With Incredible Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-public-to-reinvent-a-classic-painting-with-incredible-results/#ftag=CAD590a51e)
- - [Why You Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-you-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
- - [A Vet&#39;s Top 5 Dog Breeds: Is Your Dog Is on the List?     - CNET](https://www.cnet.com/culture/a-vets-top-5-dog-breeds-is-your-dog-is-on-the-list/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dune Analytics: the number of smart contracts deployed on the Ethereum mainnet grew 293% YoY in 2022 and 453% QoQ to 4.6M in Q4 2022, just as FTX collapsed &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230117/p41#a230117p41)
+ - [Apple focuses on mixed-reality headset as &#39;Apple Glass&#39; stays shelved](https://appleinsider.com/articles/23/01/18/apple-focuses-on-mixed-reality-headset-as-apple-glass-stays-shelved?utm_medium=rss)
+ - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
