@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WaterField&#39;s Magnetic Laptop Sleeve now fits MacBook Pro](https://appleinsider.com/articles/23/01/18/waterfields-magnetic-laptop-sleeve-now-fits-macbook-pro?utm_medium=rss)
- - [iOS 16.3 and other updates expected week of Jan. 23.](https://appleinsider.com/articles/23/01/18/ios-163-and-other-updates-expected-week-of-jan-23?utm_medium=rss)
- - [Chord, which offers e-commerce tools to track metrics, raised a $15M Series A extension, taking the round to $33M, co-led by Bright Pixel and Eclipse &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230118/p17#a230118p17)<!-- TECH:END -->
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)
+ - [Apple enables a temperature and humidity sensor on the HomePod mini and reintroduced HomePod, helping users create automations to do household tasks &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230118/p21#a230118p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
