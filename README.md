@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why it always be like that?](http://9gag.com/gag/aA0brO2)
- - ⏩ [I have to watch this on a daily basis.](http://9gag.com/gag/aDYdmR7)
- - 👉 [Bulgaria did it right](http://9gag.com/gag/a8qEjmp)<!-- MEMES:END -->
+ - 💣 [Like pottery!](http://9gag.com/gag/a5XEedG)
+ - ⏩ [You know these Huawei mobiles!](http://9gag.com/gag/aBd2r5A)
+ - 👉 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
 
 ---
 
