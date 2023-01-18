@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jim Carey from Wish](http://9gag.com/gag/aeQA0xQ)
- - ⏩ [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 👉 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
+ - 💣 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
+ - ⏩ [Zero brain cell move](http://9gag.com/gag/a047pWL)
+ - 👉 [What ever happened to those awesome movies?](http://9gag.com/gag/aZD0pbz)<!-- MEMES:END -->
 
 ---
 
