@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
  - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)
- - [Apple enables a temperature and humidity sensor on the HomePod mini and reintroduced HomePod, helping users create automations to do household tasks &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230118/p21#a230118p21)<!-- TECH:END -->
+ - [Sources: online fast fashion retailer Shein is in talks to raise up to $3B from Abu Dhabi&#39;s Mubadala and others at a $64B valuation, down from its $100B peak &lpar;Financial Times&rpar;](http://www.techmeme.com/230118/p24#a230118p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
