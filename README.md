@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know who&#39;s targeted... \ud83d\udc40](http://9gag.com/gag/aBd2R4z)
- - ⏩ [Whats yours?](http://9gag.com/gag/a5XEe5G)
- - 👉 [Daily reminder to disable shit you don&#39;t want from starting up with your system](http://9gag.com/gag/aL1pKeV)<!-- MEMES:END -->
+ - 💣 [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
+ - ⏩ [His expression says it all](http://9gag.com/gag/aeQDvZj)
+ - 👉 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)<!-- MEMES:END -->
 
 ---
 
