@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now DoorDash will deliver Starbucks across the US, too](https://www.theverge.com/2023/1/17/23559108/doordash-starbucks-delivery-us-expansion)
- - [Canalys: global smartphone shipments fell 17% YoY in Q4 2022, while FY 2022 shipments fell 11% YoY to fewer than 1.2B units, the lowest they&#39;ve been since 2013 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230117/p36#a230117p36)
- - [Now there are even fewer reasons to get a Fitbit smartwatch](https://www.theverge.com/2023/1/17/23559601/fitbit-sense-versa-pandora-deezer-smartwatch)<!-- TECH:END -->
+ - [By suing Genesis and Gemini over Gemini Earn in 2023, the SEC is years late to addressing the crypto lending product, which was marketed like a security &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230117/p39#a230117p39)
+ - [Bored Ape Yacht Club Is Trying to Revive NFTs With Atomic Poop     - CNET](https://www.cnet.com/culture/bored-ape-yacht-club-is-trying-to-revive-nfts-with-atomic-poop/#ftag=CAD590a51e)
+ - [&#39;Jung_E&#39; on Netflix: A Beautifully Heartrending Sci-Fi Thriller     - CNET](https://www.cnet.com/culture/entertainment/jung-e-on-netflix-a-beautifully-heartrending-sci-fi-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
