@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO’s Last of Us opening twist improves on the game, but only a little bit](https://www.polygon.com/23553817/last-us-episode-1-prologue-sarah-death)
- - [How to win Marvel Snap’s Rickety Bridge featured location](https://www.polygon.com/guides/23560529/marvel-snap-featured-location-rickety-bridge-destroy-deck)
- - [It’s Taken 16 Years For Us To Realize Mass Effect’s Intro Is Literally Top Gun](https://kotaku.com/mass-effect-top-gun-text-intro-bioware-casey-hudson-1850000760)<!-- GAME:END -->
+ - [Overwatch 2’s Year Of The Rabbit Event Is Already Disappointing Fans](https://kotaku.com/overwatch-2-ow-ramattra-biohazard-year-of-the-rabbit-1850001153)
+ - [The original Remnant: From the Ashes is headed to Switch](https://www.polygon.com/23560496/remnant-from-the-ashes-switch-nintendo-release-date-trailer)
+ - [How to get the Witcher Mokoko skins in Lost Ark](https://www.pcgamer.com/lost-ark-witcher-mokoko-skins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
