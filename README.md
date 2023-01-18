@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Year Of The Rabbit Event Is Already Disappointing Fans](https://kotaku.com/overwatch-2-ow-ramattra-biohazard-year-of-the-rabbit-1850001153)
- - [The original Remnant: From the Ashes is headed to Switch](https://www.polygon.com/23560496/remnant-from-the-ashes-switch-nintendo-release-date-trailer)
- - [How to get the Witcher Mokoko skins in Lost Ark](https://www.pcgamer.com/lost-ark-witcher-mokoko-skins)<!-- GAME:END -->
+ - [Ubisoft Devs Grill Boss On Shifting Blame And Chasing Trends](https://kotaku.com/ubisoft-assassin-s-creed-mirage-far-cry-delay-canceled-1850001343)
+ - [Coffee Talk Episode 2 has immaculate vibes, coffee, talk, and releases 4/20 if you know what I mean](https://www.pcgamer.com/coffee-talk-episode-2-has-immaculate-vibes-coffee-talk-and-releases-420-if-you-know-what-i-mean)
+ - [PowerWash Simulator splash lands on PS4 &amp; PS5 January 31](https://blog.playstation.com/2023/01/18/powerwash-simulator-splash-lands-on-ps4-ps5-january-31/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
