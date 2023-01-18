@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [From The Last Jedi to Glass Onion, Rian Johnson keeps murdering the past](https://www.polygon.com/23559579/rian-johnson-theme-glass-onion-star-wars-kill-the-past)
  - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)
- - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)
- - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)<!-- GAME:END -->
+ - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
