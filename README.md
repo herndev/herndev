@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Podcasts has stopped appearing in Search results](https://www.androidauthority.com/google-podcasts-search-2-3268992/)
- - [Apple Card is a drag on Goldman Sachs, says CEO](https://appleinsider.com/articles/23/01/18/apple-card-is-a-drag-on-goldman-sachs-says-ceo?utm_medium=rss)
- - [The US Treasury&#39;s FinCEN unit identifies crypto exchange Bitzlato as a &quot;money laundering concern&quot; related to Russia; Bitzlato has been seized by French police &lpar;Reuters&rpar;](http://www.techmeme.com/230118/p26#a230118p26)<!-- TECH:END -->
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Apple seeds Release Candidate betas for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/18/apple-seeds-release-candidate-betas-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)
+ - [New HomePod vs 2018 HomePod - compared](https://appleinsider.com/inside/homepod/vs/new-homepod-vs-2018-homepod---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
