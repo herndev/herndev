@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
- - ⏩ [The Real Jaws-25 footer](http://9gag.com/gag/a4oE9dy)
- - 👉 [Strange but true](http://9gag.com/gag/aWGj0bn)<!-- MEMES:END -->
+ - 💣 [His expression says it all](http://9gag.com/gag/aeQDvZj)
+ - ⏩ [Slowly deletes paragraph...](http://9gag.com/gag/aDY4pXK)
+ - 👉 [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)<!-- MEMES:END -->
 
 ---
 
