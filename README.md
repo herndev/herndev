@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like pottery!](http://9gag.com/gag/a5XEedG)
- - ⏩ [You know these Huawei mobiles!](http://9gag.com/gag/aBd2r5A)
- - 👉 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
+ - 💣 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - ⏩ [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
+ - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
 
 ---
 
