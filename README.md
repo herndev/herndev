@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft mass layoffs reportedly impact Bethesda, Halo Infinite teams](https://www.polygon.com/23561210/microsoft-layoffs-xbox-bethesda-halo-infinite-343-industries)
- - [Funko Pop is getting a Dungeons and Dragons line](https://www.polygon.com/23547209/dnd-dungeons-dragons-movie-funko-pop-honor-among-thieves)
- - [The Last Of Us Makes For Good TV, But It’s A Tough Watch After A Real Pandemic](https://kotaku.com/the-last-of-us-hbo-covid-19-pedro-pascal-craig-mazin-lo-1850002516)<!-- GAME:END -->
+ - [Hello Tomorrow! has a big-time ‘Elon Musk in Fallout’ vibe](https://www.polygon.com/23561299/hello-tomorrow-trailer-apple-release-february-2023)
+ - [Rolling Genshin Impact&#39;s Infamous &#39;Scam&#39; Weapons Banner After Two Years](https://kotaku.com/genshin-impact-weapons-banner-scam-alhaitham-1850003328)
+ - [Real Soldiers Use Metal Gear Solid Tactic To Defeat Military Robot](https://kotaku.com/real-soldiers-cardboard-box-mgs-metal-gear-solid-robot-1850003072)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
