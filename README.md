@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
- - ⏩ [Ladies and gentlemen, we got him.](http://9gag.com/gag/aoKM9jA)
- - 👉 [A freaking Sideways flip,atlas fetch a beer.](http://9gag.com/gag/a047pGO)<!-- MEMES:END -->
+ - 💣 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
+ - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
+ - 👉 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
 
 ---
 
