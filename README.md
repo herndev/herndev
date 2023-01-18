@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh jeez louiz](http://9gag.com/gag/amAPLX6)
- - ⏩ [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
- - 👉 [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)<!-- MEMES:END -->
+ - 💣 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)
+ - ⏩ [Yeaaah so hot man](http://9gag.com/gag/agoBvmq)
+ - 👉 [I&#39;m addicted to skooma now](http://9gag.com/gag/a9qELzm)<!-- MEMES:END -->
 
 ---
 
