@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudian, a hybrid cloud data management and storage tech vendor, raised $60M from Digital Alpha, Intel Capital, and others, bringing its total funding to $233M &lpar;Joseph F. Kovar/CRN&rpar;](http://www.techmeme.com/230118/p31#a230118p31)
- - [Here’s how to preorder Apple’s new HomePod](https://www.theverge.com/23560885/apple-homepod-second-gen-preorder-buy-price-release-date)
- - [Five Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple is working on a low-end iPad for smart home control and on a new Apple TV coming in 2024 with a faster processor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230118/p33#a230118p33)
+ - [5 Best Sex Tech Deals From Lelo&#39;s Anniversary Sale: Vibrators, Lube, Condoms](https://www.wired.com/story/lelo-anniversary-sale-january-2023/)
+ - [AirPods, AirPods Pro, AirPods Max get new firmware update](https://appleinsider.com/articles/23/01/18/airpods-airpods-pro-airpods-max-get-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
