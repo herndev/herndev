@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Might Finally Be Ready To Focus On PS5 Games &lpar;And Ditch PS4&rpar;](https://kotaku.com/ps5-ps4-sony-spider-man-2-cross-gen-2023-new-trailer-1849998378)
- - [You can now convert your Stadia controller to a standard Bluetooth device, here&#39;s how](https://www.pcgamer.com/you-can-now-convert-your-stadia-controller-to-a-standard-bluetooth-device-heres-how)
- - [All the times Ubisoft has said that Beyond Good &amp; Evil 2 is still in development](https://www.pcgamer.com/all-the-times-ubisoft-has-said-that-beyond-good-and-evil-2-is-still-in-development)<!-- GAME:END -->
+ - [MSI MAG Z790 Tomahawk WiFi](https://www.pcgamer.com/msi-mag-z790-tomahawk-wifi)
+ - [Games Under 20 promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/17/games-under-20-promotion-comes-to-playstation-store/)
+ - [The Specs For Some PC Games Are Getting Out Of Control](https://kotaku.com/pc-specs-ps5-sony-returnal-forspoken-ram-recommended-1849998571)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
