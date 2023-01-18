@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guilty Gear Xrd Rev 2 is finally getting rollback netcode after six years](https://www.pcgamer.com/guilty-gear-xrd-rev-2-is-finally-getting-rollback-netcode-after-six-years)
- - [Publisher slashes Callisto Protocol sales hopes by over half after it fails to meet absurd expectations](https://www.pcgamer.com/publisher-slashes-callisto-protocol-sales-hopes-by-over-half-after-it-fails-to-meet-absurd-expectations)
- - [Micron outs 24GB and 48GB DDR5 modules but your games don&#39;t care](https://www.pcgamer.com/micron-outs-24gb-and-48gb-ddr5-modules-but-your-games-dont-care)<!-- GAME:END -->
+ - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)
+ - [You can pick up the Command &amp; Conquer Remaster for a ridiculously low price right now](https://www.pcgamer.com/you-can-pick-up-the-command-and-conquer-remaster-for-a-ridiculously-low-price-right-now)
+ - [Gigabyte breaks DDR5 memory overclock world record with 11GB/s transfer speeds](https://www.pcgamer.com/gigabyte-breaks-ddr5-memory-overclock-world-record-with-11gbs-transfer-speeds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
