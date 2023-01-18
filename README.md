@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hello Tomorrow! has a big-time ‘Elon Musk in Fallout’ vibe](https://www.polygon.com/23561299/hello-tomorrow-trailer-apple-release-february-2023)
- - [Rolling Genshin Impact&#39;s Infamous &#39;Scam&#39; Weapons Banner After Two Years](https://kotaku.com/genshin-impact-weapons-banner-scam-alhaitham-1850003328)
- - [Real Soldiers Use Metal Gear Solid Tactic To Defeat Military Robot](https://kotaku.com/real-soldiers-cardboard-box-mgs-metal-gear-solid-robot-1850003072)<!-- GAME:END -->
+ - [6 Years Later, Popular Guilty Gear Game Finally Gets Smooth Online Gameplay](https://kotaku.com/guilty-gear-xrd-rev-2-rollback-online-netcode-steam-pc-1850003545)
+ - [M3GAN is officially getting a sequel, and maybe a gory unrated cut](https://www.polygon.com/23546390/megan-sequel-release-date-unrated-r-rated-version)
+ - [Xbox Exec Praises Devs For Releasing Games Amid Culture of ‘Cancellation&#39;](https://kotaku.com/phil-spencer-hogwarts-legacy-high-on-life-game-pass-1850003635)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
