@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)
- - [You can pick up the Command &amp; Conquer Remaster for a ridiculously low price right now](https://www.pcgamer.com/you-can-pick-up-the-command-and-conquer-remaster-for-a-ridiculously-low-price-right-now)
- - [Gigabyte breaks DDR5 memory overclock world record with 11GB/s transfer speeds](https://www.pcgamer.com/gigabyte-breaks-ddr5-memory-overclock-world-record-with-11gbs-transfer-speeds)<!-- GAME:END -->
+ - [Noblechairs Legend](https://www.pcgamer.com/noblechairs-legend-white-gaming-chair-review)
+ - [Where to find Wurmling Bones in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-wurmling-bones)
+ - [Netflix announces every new movie coming to the service in 2023](https://www.polygon.com/23559113/new-netflix-movies-2023-releases)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
