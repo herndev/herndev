@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple indefinitely postpones its plans for lightweight AR glasses due to technical difficulties, plans to launch a lower-cost MR headset in 2024/2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230117/p40#a230117p40)
- - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)
- - [Now Twitter is selling one year of blue check privileges at a discounted rate of $84](https://www.theverge.com/2023/1/17/23559959/twitter-blue-annual-subscription-discount-offer)<!-- TECH:END -->
+ - [Museum Asks Public to Reinvent a Classic Painting, With Incredible Results     - CNET](https://www.cnet.com/culture/internet/museum-asks-public-to-reinvent-a-classic-painting-with-incredible-results/#ftag=CAD590a51e)
+ - [Why You Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-you-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [A Vet&#39;s Top 5 Dog Breeds: Is Your Dog Is on the List?     - CNET](https://www.cnet.com/culture/a-vets-top-5-dog-breeds-is-your-dog-is-on-the-list/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
