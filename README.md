@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2 is getting its most-requested feature in Season 2, but we&#39;ll have to wait a bit longer](https://www.pcgamer.com/warzone-2-is-getting-its-most-requested-feature-in-season-2-but-well-have-to-wait-a-bit-longer)
- - [Fortnite’s New Weekly Quest System Sucks, Even With Changes](https://kotaku.com/fortnite-weekly-quests-old-epic-patch-update-chapter-4-1850002299)
- - [PowerWash Simulator lets you clean Lara Croft’s house in 2023’s best crossover](https://www.polygon.com/23560949/powerwash-simulator-ps4-ps5-release-tomb-raider-lara-croft-2023-crossover)<!-- GAME:END -->
+ - [Microsoft mass layoffs reportedly impact Bethesda, Halo Infinite teams](https://www.polygon.com/23561210/microsoft-layoffs-xbox-bethesda-halo-infinite-343-industries)
+ - [Funko Pop is getting a Dungeons and Dragons line](https://www.polygon.com/23547209/dnd-dungeons-dragons-movie-funko-pop-honor-among-thieves)
+ - [The Last Of Us Makes For Good TV, But It’s A Tough Watch After A Real Pandemic](https://kotaku.com/the-last-of-us-hbo-covid-19-pedro-pascal-craig-mazin-lo-1850002516)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
