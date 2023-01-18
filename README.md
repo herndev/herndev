@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Apple resurrects full-size HomePod with updated acoustics](https://appleinsider.com/articles/23/01/18/apple-resurrects-full-size-homepod-with-updated-acoustics?utm_medium=rss)
- - [Sources: online fast fashion retailer Shein is in talks to raise up to $3B from Abu Dhabi&#39;s Mubadala and others at a $64B valuation, down from its $100B peak &lpar;Financial Times&rpar;](http://www.techmeme.com/230118/p24#a230118p24)<!-- TECH:END -->
+ - [Google Podcasts has stopped appearing in Search results](https://www.androidauthority.com/google-podcasts-search-2-3268992/)
+ - [Apple Card is a drag on Goldman Sachs, says CEO](https://appleinsider.com/articles/23/01/18/apple-card-is-a-drag-on-goldman-sachs-says-ceo?utm_medium=rss)
+ - [The US Treasury&#39;s FinCEN unit identifies crypto exchange Bitzlato as a &quot;money laundering concern&quot; related to Russia; Bitzlato has been seized by French police &lpar;Reuters&rpar;](http://www.techmeme.com/230118/p26#a230118p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
