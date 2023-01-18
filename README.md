@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
- - ⏩ [Barber shaves head in solidarity with cancer patient](http://9gag.com/gag/aGEdPA6)
- - 👉 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)<!-- MEMES:END -->
+ - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - ⏩ [That voice. That chilling voice..](http://9gag.com/gag/anzQB8n)
+ - 👉 [I&#39;m funna go to the store](http://9gag.com/gag/avQ5PoW)<!-- MEMES:END -->
 
 ---
 
