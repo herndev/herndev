@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More restricted military intel ends up on the War Thunder forums](https://www.pcgamer.com/more-restricted-military-intel-ends-up-on-the-war-thunder-forums)
- - [Netflix’s Power Rangers reunion tease is nostalgia at its most bittersweet](https://www.polygon.com/2023/1/17/23559452/power-rangers-reunion-once)
- - [5 Classic Retro Games You Can Play For Free](https://kotaku.com/free-retro-arcade-games-download-ps5-xbox-switch-pc-ios-1849997851)<!-- GAME:END -->
+ - [Sony Might Finally Be Ready To Focus On PS5 Games &lpar;And Ditch PS4&rpar;](https://kotaku.com/ps5-ps4-sony-spider-man-2-cross-gen-2023-new-trailer-1849998378)
+ - [You can now convert your Stadia controller to a standard Bluetooth device, here&#39;s how](https://www.pcgamer.com/you-can-now-convert-your-stadia-controller-to-a-standard-bluetooth-device-heres-how)
+ - [All the times Ubisoft has said that Beyond Good &amp; Evil 2 is still in development](https://www.pcgamer.com/all-the-times-ubisoft-has-said-that-beyond-good-and-evil-2-is-still-in-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
