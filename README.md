@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Apple shifts from China, experts worry India will struggle with iPhone production due to supply chain issues, labor woes, a lack of automation, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230118/p8#a230118p8)
- - [We asked, you told us: A ton of you have a Chromecast with Google TV](https://www.androidauthority.com/own-chromecast-google-tv-poll-results-3267887/)
- - [Samsung Galaxy S23, S23 Plus, and S23 Ultra specs allegedly leak, showing 6.1, 6.6, and 6.8-inch screens, Snapdragon 8 Gen 2, the Ultra&#39;s 200MP sensor, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230118/p7#a230118p7)<!-- TECH:END -->
+ - [Best safety apps for college students for iPhone](https://appleinsider.com/inside/iphone/best/best-safety-apps-for-college-students-for-iphone?utm_medium=rss)
+ - [Apple planned M2 Mac mini, MacBook Pro launch for 2022](https://appleinsider.com/articles/23/01/18/apple-planned-m2-mac-mini-macbook-pro-launch-for-2022?utm_medium=rss)
+ - [Source: Twitter manager Siddharth Rao told employees that daily revenue was 40% lower than a year earlier and more than 500 top advertisers have paused spending &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230118/p10#a230118p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
