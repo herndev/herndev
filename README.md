@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES Hands On: The best smart home gear coming in 2023](https://appleinsider.com/articles/23/01/18/ces-hands-on-the-best-smart-home-gear-coming-in-2023?utm_medium=rss)
- - [Brazil&#39;s antitrust watchdog starts a probe into Apple for alleged abuse of a dominant position, following a complaint filed by e-commerce company MercadoLibre &lpar;Bloomberg&rpar;](http://www.techmeme.com/230118/p29#a230118p29)
- - [HomePod software updates brings new features to every model](https://appleinsider.com/articles/23/01/18/homepod-software-updates-brings-new-features-to-every-model?utm_medium=rss)<!-- TECH:END -->
+ - [Cloudian, a hybrid cloud data management and storage tech vendor, raised $60M from Digital Alpha, Intel Capital, and others, bringing its total funding to $233M &lpar;Joseph F. Kovar/CRN&rpar;](http://www.techmeme.com/230118/p31#a230118p31)
+ - [Here’s how to preorder Apple’s new HomePod](https://www.theverge.com/23560885/apple-homepod-second-gen-preorder-buy-price-release-date)
+ - [Five Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
