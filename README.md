@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Apple seeds Release Candidate betas for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/18/apple-seeds-release-candidate-betas-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)
- - [New HomePod vs 2018 HomePod - compared](https://appleinsider.com/inside/homepod/vs/new-homepod-vs-2018-homepod---compared?utm_medium=rss)<!-- TECH:END -->
+ - [CES Hands On: The best smart home gear coming in 2023](https://appleinsider.com/articles/23/01/18/ces-hands-on-the-best-smart-home-gear-coming-in-2023?utm_medium=rss)
+ - [Brazil&#39;s antitrust watchdog starts a probe into Apple for alleged abuse of a dominant position, following a complaint filed by e-commerce company MercadoLibre &lpar;Bloomberg&rpar;](http://www.techmeme.com/230118/p29#a230118p29)
+ - [HomePod software updates brings new features to every model](https://appleinsider.com/articles/23/01/18/homepod-software-updates-brings-new-features-to-every-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
