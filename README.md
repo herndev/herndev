@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead Stadia Game Lives On Through Sneaky Steam Update](https://kotaku.com/google-stadia-dead-game-preservation-gunsport-pc-steam-1849999089)
  - [MSI MAG Z790 Tomahawk WiFi](https://www.pcgamer.com/msi-mag-z790-tomahawk-wifi)
- - [Games Under 20 promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/17/games-under-20-promotion-comes-to-playstation-store/)
- - [The Specs For Some PC Games Are Getting Out Of Control](https://kotaku.com/pc-specs-ps5-sony-returnal-forspoken-ram-recommended-1849998571)<!-- GAME:END -->
+ - [Games Under 20 promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/17/games-under-20-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
