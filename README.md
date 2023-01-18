@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)
- - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - 👉 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 💣 [Jim Carey from Wish](http://9gag.com/gag/aeQA0xQ)
+ - ⏩ [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 👉 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
 
 ---
 
