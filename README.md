@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lions are jus jerk sometimes](http://9gag.com/gag/aRE7Y5Q)
- - ⏩ [His expression says it all](http://9gag.com/gag/aeQDvZj)
- - 👉 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)<!-- MEMES:END -->
+ - 💣 [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - ⏩ [The husband of this woman is sticking with her even after she made a mockery of his existence. Lmfao](http://9gag.com/gag/axo9Xo2)
+ - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
 
 ---
 
