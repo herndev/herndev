@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy S23, S23 Plus leak gives us all the specs worth knowing](https://www.androidauthority.com/samsung-galaxy-s23-s23-plus-specs-leak-3267874/)
- - [Proxy vs VPN: What’s the difference? Which one should I use?](https://www.androidauthority.com/proxy-vs-vpn-3267821/)
- - [How to update your Stadia controller and connect it to a PC, Mac, and more](https://www.androidauthority.com/update-stadia-controller-use-pc-mac-3267807/)<!-- TECH:END -->
+ - [Daily Authority: 🔥 Galaxy Unpacked news, new MacBooks, and more!](https://www.androidauthority.com/daily-authority-january-18-2023-3267790/)
+ - [Analysis: 196 members of the new Congress accepted donations from Sam Bankman-Fried or other FTX senior executives, including Kevin McCarthy and Chuck Schumer &lpar;CoinDesk&rpar;](http://www.techmeme.com/230118/p5#a230118p5)
+ - [A look at LockBit, a Russia-linked hacking group that claimed responsibility for compromising 40 organizations in the past month, including the UK&#39;s Royal Mail &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230118/p4#a230118p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
