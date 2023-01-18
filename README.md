@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a low-end iPad for smart home control and on a new Apple TV coming in 2024 with a faster processor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230118/p33#a230118p33)
- - [5 Best Sex Tech Deals From Lelo&#39;s Anniversary Sale: Vibrators, Lube, Condoms](https://www.wired.com/story/lelo-anniversary-sale-january-2023/)
- - [AirPods, AirPods Pro, AirPods Max get new firmware update](https://appleinsider.com/articles/23/01/18/airpods-airpods-pro-airpods-max-get-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Ted Lasso’s third season kicks off this spring](https://www.theverge.com/2023/1/18/23561483/ted-lasso-season-3-apple-tv-plus)
+ - [Elon Musk’s tweets take center stage in opening day of his securities fraud trial](https://www.theverge.com/2023/1/18/23561443/elon-musk-securities-fraud-trial-tweet-funding-secured)
+ - [Testing HomePod mini&#39;s new 16.3 smart home features](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
