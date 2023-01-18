@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune Analytics: the number of smart contracts deployed on the Ethereum mainnet grew 293% YoY in 2022 and 453% QoQ to 4.6M in Q4 2022, just as FTX collapsed &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230117/p41#a230117p41)
- - [Apple focuses on mixed-reality headset as &#39;Apple Glass&#39; stays shelved](https://appleinsider.com/articles/23/01/18/apple-focuses-on-mixed-reality-headset-as-apple-glass-stays-shelved?utm_medium=rss)
- - [Tuesday’s top tech news: An Apple &lpar;a&rpar; day](https://www.theverge.com/2023/1/17/23558537/january-17-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Sources: about 14 Chinese suppliers receive initial clearance to expand in India, after Apple said it needed their services to grow its presence in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/230118/p1#a230118p1)
+ - [Best Smartwatch for 2023     - CNET](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
+ - [Best Collagen Powders for 2023     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
