@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D leadership issues a fresh apology, details next steps to update the OGL](https://www.polygon.com/23560935/dnd-dungeons-dragons-ogl-update-apology-explained)
- - [16 Of The Best Action Games You Can Play In 2023](https://kotaku.com/best-action-games-ps4-ps5-xbox-pc-switch-1850001678)
- - [Diablo Immortal’s ‘misleading’ Blessing of the Worthy gem under legal scrutiny](https://www.polygon.com/23560629/diablo-immortal-lawsuit-class-action-blessing-of-the-worthy-gem)<!-- GAME:END -->
+ - [Warzone 2 is getting its most-requested feature in Season 2, but we&#39;ll have to wait a bit longer](https://www.pcgamer.com/warzone-2-is-getting-its-most-requested-feature-in-season-2-but-well-have-to-wait-a-bit-longer)
+ - [Fortnite’s New Weekly Quest System Sucks, Even With Changes](https://kotaku.com/fortnite-weekly-quests-old-epic-patch-update-chapter-4-1850002299)
+ - [PowerWash Simulator lets you clean Lara Croft’s house in 2023’s best crossover](https://www.polygon.com/23560949/powerwash-simulator-ps4-ps5-release-tomb-raider-lara-croft-2023-crossover)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
