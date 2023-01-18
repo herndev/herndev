@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, i bet their ancestors felt it too](http://9gag.com/gag/aeQANKq)
- - ⏩ [Oh jeez louiz](http://9gag.com/gag/amAPLX6)
- - 👉 [The man, the myth, the legend](http://9gag.com/gag/aRE7xVQ)<!-- MEMES:END -->
+ - 💣 [This is the purpose of the internet](http://9gag.com/gag/aYVoNNw)
+ - ⏩ [We only desires for things that we do not have](http://9gag.com/gag/a6qEyY9)
+ - 👉 [She gets the hypocrisy.](http://9gag.com/gag/aoKM0X3)<!-- MEMES:END -->
 
 ---
 
