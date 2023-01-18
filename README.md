@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like pottery!](http://9gag.com/gag/a5XEedG)
- - ⏩ [Money is money right](http://9gag.com/gag/a8qEMY6)
- - 👉 [Twinkle Toes!](http://9gag.com/gag/aEqp7oe)<!-- MEMES:END -->
+ - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - ⏩ [Ladies and gentlemen, we got him.](http://9gag.com/gag/aoKM9jA)
+ - 👉 [A freaking Sideways flip,atlas fetch a beer.](http://9gag.com/gag/a047pGO)<!-- MEMES:END -->
 
 ---
 
