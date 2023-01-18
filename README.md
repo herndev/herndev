@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 578 answer and hint for Wednesday, January 18](https://www.pcgamer.com/wordle-578-answer-january-18)
  - [Dead Stadia Game Lives On Through Sneaky Steam Update](https://kotaku.com/google-stadia-dead-game-preservation-gunsport-pc-steam-1849999089)
- - [MSI MAG Z790 Tomahawk WiFi](https://www.pcgamer.com/msi-mag-z790-tomahawk-wifi)
- - [Games Under 20 promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/17/games-under-20-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [MSI MAG Z790 Tomahawk WiFi](https://www.pcgamer.com/msi-mag-z790-tomahawk-wifi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
