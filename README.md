@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
- - ⏩ [Tremors](http://9gag.com/gag/avQ5nNn)
- - 👉 [A matter of debate in a 9gag way would be appreciated..](http://9gag.com/gag/ay2M8mV)<!-- MEMES:END -->
+ - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - ⏩ [Check your white privilege](http://9gag.com/gag/ay2M8yr)
+ - 👉 [Pretty good advice from Mr Horror](http://9gag.com/gag/aMEKwAR)<!-- MEMES:END -->
 
 ---
 
