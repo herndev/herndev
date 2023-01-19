@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - ⏩ [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - 💣 [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - ⏩ [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
  - 👉 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)<!-- MEMES:END -->
 
 ---
