@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Impel, an AI-powered customer engagement service for the auto industry, raised $104M led by Silversmith, bringing its total funding to $130M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/230118/p37#a230118p37)
- - [Amazon plans to close AmazonSmile, a program launched in 2013 to let customers donate 0.5% of eligible items&#39; purchase prices to a charity, on February 20, 2023 &lpar;Addy Bink/The Hill&rpar;](http://www.techmeme.com/230118/p36#a230118p36)
- - [Apple Is Reportedly Developing More Smart Home Products     - CNET](https://www.cnet.com/tech/apple-is-reportedly-developing-more-smart-home-products/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Andrew Bosworth talks about Meta&#39;s decision to discontinue the Portal and how it nearly made a deal to license Portal&#39;s tech and platform to Amazon in 2020 &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/230118/p39#a230118p39)
+ - [Sources: Founders Fund sold off most of its cryptocurrency portfolio by the end of March 2022, before the crypto market crash, generating ~$1.8B in returns &lpar;Financial Times&rpar;](http://www.techmeme.com/230118/p38#a230118p38)
+ - [Amazon To Shut Down Charity Donation Program AmazonSmile     - CNET](https://www.cnet.com/tech/amazon-to-shut-down-charity-donation-program-amazonsmile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
