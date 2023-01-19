@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA’s golf game returns with more courses, more customization, and more shots](https://www.polygon.com/23560258/ea-sports-pga-tour-preview-release-date-ps5-xbox-series-x-pc)
- - [I will never click another sponsored link on Google again](https://www.pcgamer.com/i-will-never-click-another-sponsored-link-on-google-again)
- - [Former Halo Infinite Dev Blasts Management Over Layoffs](https://kotaku.com/halo-infinite-forge-343-industries-microsoft-layoffs-1850006216)<!-- GAME:END -->
+ - [Persona 3 Portable and Persona 4 Golden Are Out Now Xbox and Windows PC](https://news.xbox.com/en-us/2023/01/19/persona-3-portable-and-persona-4-golden-out-now/)
+ - [The Last Clockwinder brings clever automation puzzles to PS VR 2](https://blog.playstation.com/2023/01/19/the-last-clockwinder-brings-clever-automation-puzzles-to-ps-vr-2/)
+ - [Kayak VR: Mirage joins the PS VR2 launch line-up](https://blog.playstation.com/2023/01/19/kayak-vr-mirage-joins-the-ps-vr2-launch-line-up/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
