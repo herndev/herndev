@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UnderDungeon, the First Dungeon Crawler Starring Cats, is Out Now on Xbox](https://news.xbox.com/en-us/2023/01/19/underdungeon-the-first-dungeon-crawler-starring-cats-is-out-now-on-xbox-consoles/)
- - [This top-down shooter is like Stalker as a roguelike](https://www.pcgamer.com/this-top-down-shooter-is-like-stalker-as-a-roguelike)
- - [Rockstar’s Grand Theft Auto trilogy is back on Steam — and now on Steam Deck](https://www.polygon.com/23561208/gta-trilogy-steam-deck-pc-gta3-vice-city-san-andreas)<!-- GAME:END -->
+ - [I&#39;m Begging Marvel Snap To Stop With All The Annoying Featured Zones](https://kotaku.com/marvel-snap-rickety-bridge-best-decks-card-zone-update-1850008057)
+ - [Minecraft&#39;s most annoying feature is finally turned off in the latest update](https://www.pcgamer.com/minecrafts-most-annoying-feature-is-finally-turned-off-in-the-latest-update)
+ - [Jared Leto’s Tron 3 willed into existence by Disney theme park](https://www.polygon.com/23562712/tron-3-ares-jared-leto-ride-disneyworld-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
