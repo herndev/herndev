@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They were made for each other](http://9gag.com/gag/a1PrdoD)
- - ⏩ [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
- - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
+ - 💣 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
+ - ⏩ [I know it&#39;s not a meme sry](http://9gag.com/gag/avQ5rVE)
+ - 👉 [Can&#39;t park here mate](http://9gag.com/gag/anzQyV0)<!-- MEMES:END -->
 
 ---
 
