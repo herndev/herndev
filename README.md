@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deep Rock Galactic &lpar;The Board Game&rpar;: The Kotaku Review](https://kotaku.com/deep-rock-galactic-board-game-review-kickstarter-1849991704)
  - [Drake Now Owns Pharrell&#39;s $20,000 Golden PSP](https://kotaku.com/drake-pharrell-psp-playstation-nerd-auction-psp-1850004044)
- - [Hogwarts Legacy actor responds to backlash: &#39;Trans women are women and trans men are men&#39;](https://www.pcgamer.com/hogwarts-legacy-actor-responds-to-backlash-trans-women-are-women-and-trans-men-are-men)
- - [Dungeons &amp; Dragons Owners &#39;Sorry&#39; After Week Of Very Bad Press](https://kotaku.com/d-d-ogl-dungeons-dragons-wizards-coast-wotc-apology-1850003674)<!-- GAME:END -->
+ - [Hogwarts Legacy actor responds to backlash: &#39;Trans women are women and trans men are men&#39;](https://www.pcgamer.com/hogwarts-legacy-actor-responds-to-backlash-trans-women-are-women-and-trans-men-are-men)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
