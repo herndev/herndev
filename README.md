@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [M2 Mac mini vs M1 Mac mini - compared](https://appleinsider.com/inside/mac-mini/vs/m2-mac-mini-vs-m1-mac-mini---compared?utm_medium=rss)
- - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon already dropped the price on Apple&#39;s 2023 MacBook Pro 14-inch](https://appleinsider.com/articles/23/01/19/amazon-already-dropped-the-price-on-apples-2023-macbook-pro-14-inch?utm_medium=rss)
+ - [Nvidia GeForce Now Ultimate with RTX 4080 hands-on: impressive input latency, but some visuals are still hazy and only six games support 240fps right now &lpar;The Verge&rpar;](http://www.techmeme.com/230119/p18#a230119p18)
+ - [Apple shipped seven million Macs despite market drop in 2022](https://appleinsider.com/articles/23/01/19/apple-shipped-seven-million-macs-despite-market-drop-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
