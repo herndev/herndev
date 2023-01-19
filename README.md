@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to close AmazonSmile, its program launched in 2013 that let customers donate 0.5% of eligible items&#39; purchase prices to a charity, on February 20 &lpar;Addy Bink/The Hill&rpar;](http://www.techmeme.com/230118/p36#a230118p36)
- - [Apple Is Reportedly Developing More Smart Home Products     - CNET](https://www.cnet.com/tech/apple-is-reportedly-developing-more-smart-home-products/#ftag=CAD590a51e)
- - [Mailchimp says a hacker accessed the data of 133 accounts via employee social engineering, first detected on January 11 and its second breach in six months &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230118/p35#a230118p35)<!-- TECH:END -->
+ - [New York-based Impel, an AI-powered customer engagement service for the auto industry, raised $104M led by Silversmith, bringing its total funding to $130M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/230118/p37#a230118p37)
+ - [Amazon plans to close AmazonSmile, a program launched in 2013 to let customers donate 0.5% of eligible items&#39; purchase prices to a charity, on February 20, 2023 &lpar;Addy Bink/The Hill&rpar;](http://www.techmeme.com/230118/p36#a230118p36)
+ - [Apple Is Reportedly Developing More Smart Home Products     - CNET](https://www.cnet.com/tech/apple-is-reportedly-developing-more-smart-home-products/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
