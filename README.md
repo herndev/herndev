@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - ⏩ [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
+ - 💣 [Never heard more kids creamimg and crying in cinema...great job ny animators](http://9gag.com/gag/aNwpWyr)
+ - ⏩ [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
  - 👉 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
 
 ---
