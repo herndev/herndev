@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First M2 Pro benchmarks show dramatic improvement over even M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)
- - [Hands on with HomePod mini&#39;s temperature and humidity sensors](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)
- - [Twitter launches Blue on Android for $11 per month, the same as iOS and $3 more than the web, after launching an annual subscription &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230119/p11#a230119p11)<!-- TECH:END -->
+ - [First M2 Pro benchmarks prove big improvement over M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)
+ - [How to store extended file attributes in iCloud](https://appleinsider.com/inside/icloud/tips/how-to-store-extended-file-attributes-in-icloud?utm_medium=rss)
+ - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
