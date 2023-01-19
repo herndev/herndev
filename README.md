@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Series B valuations fell 50% from a $250M median in Q1 2022 to a $125M median in Q4 2022; Q4 2022&#39;s VC activity by volume resembled that of Q2 2020 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230119/p4#a230119p4)
- - [Apple is working on an iPad-based stay-at-home Pixel Tablet rival: Report](https://www.androidauthority.com/apple-ipad-smart-display-3269353/)
- - [Daily Authority: 📱 Galaxy S23 series info blowout](https://www.androidauthority.com/daily-authority-january-19-2023-3269338/)<!-- TECH:END -->
+ - [Amazon is closing its AmazonSmile charity platform](https://www.theverge.com/2023/1/19/23562036/amazon-closing-amazonsmile-charity-platform-announcement)
+ - [CoinDesk retains investment bankers at Lazard to help the outlet explore options including a partial or full sale after &quot;numerous&quot; indications of interest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p5#a230119p5)
+ - [Thursday’s top tech news: what does ‘funding secured’ mean anyway?](https://www.theverge.com/2023/1/19/23562022/january-19-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
