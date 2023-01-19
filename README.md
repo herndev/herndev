@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Mega Lopunny weakness, counters, and best moveset](https://www.polygon.com/pokemon-go-guide/23562081/pokemon-go-mega-lopunny-weakness-counters-best-moveset)
- - [One Piece deserves better than One Piece Odyssey](https://www.polygon.com/reviews/23560983/one-piece-odyssey-review-manga-anime-jrpg-ps4-ps5-xbox-series-x-pc)
- - [Rare Neopets Item Worth Millions Gets Saved By Players After Accident](https://kotaku.com/neopets-wand-of-the-darkest-faerie-jhudora-s-quest-1850006745)<!-- GAME:END -->
+ - [UnderDungeon, the First Dungeon Crawler Starring Cats, is Out Now on Xbox](https://news.xbox.com/en-us/2023/01/19/underdungeon-the-first-dungeon-crawler-starring-cats-is-out-now-on-xbox-consoles/)
+ - [This top-down shooter is like Stalker as a roguelike](https://www.pcgamer.com/this-top-down-shooter-is-like-stalker-as-a-roguelike)
+ - [Rockstar’s Grand Theft Auto trilogy is back on Steam — and now on Steam Deck](https://www.polygon.com/23561208/gta-trilogy-steam-deck-pc-gta3-vice-city-san-andreas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
