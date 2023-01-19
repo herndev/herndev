@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you actually have to do work at the job you applied for](http://9gag.com/gag/ajVmqYQ)
- - ⏩ [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
- - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
+ - 💣 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
+ - ⏩ [Tremors](http://9gag.com/gag/avQ5nNn)
+ - 👉 [A matter of debate in a 9gag way would be appreciated..](http://9gag.com/gag/ay2M8mV)<!-- MEMES:END -->
 
 ---
 
