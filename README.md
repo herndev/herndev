@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First M2 Pro benchmarks prove big improvement over M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)
- - [How to store extended file attributes in iCloud](https://appleinsider.com/inside/icloud/tips/how-to-store-extended-file-attributes-in-icloud?utm_medium=rss)
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [M2 Mac mini vs M1 Mac mini - compared](https://appleinsider.com/inside/mac-mini/vs/m2-mac-mini-vs-m1-mac-mini---compared?utm_medium=rss)
  - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
