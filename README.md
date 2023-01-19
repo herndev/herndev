@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
- - ⏩ [Check your white privilege](http://9gag.com/gag/ay2M8yr)
- - 👉 [Pretty good advice from Mr Horror](http://9gag.com/gag/aMEKwAR)<!-- MEMES:END -->
+ - 💣 [Jinkies](http://9gag.com/gag/aBd2Yx2)
+ - ⏩ [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
+ - 👉 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)<!-- MEMES:END -->
 
 ---
 
