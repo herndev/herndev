@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming Moto G phones leak: In for a downgrade? &lpar;Updated: Price&rpar;](https://www.androidauthority.com/motorola-moto-g53-g73-3266884/)
- - [FTX posed as a haven from tumbling currencies and inflation in Africa, where the company recruited users via glitzy events, $5 sign-up bonuses, and giveaways &lpar;Alexandra Wexler/Wall Street Journal&rpar;](http://www.techmeme.com/230119/p3#a230119p3)
- - [Samsung Galaxy S23 series US pricing leaks and it’s good news!](https://www.androidauthority.com/samsung-galaxy-s23-us-price-3269337/)<!-- TECH:END -->
+ - [Analysis: Series B valuations fell 50% from a $250M median in Q1 2022 to a $125M median in Q4 2022; Q4 2022&#39;s VC activity by volume resembled that of Q2 2020 &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230119/p4#a230119p4)
+ - [Apple is working on an iPad-based stay-at-home Pixel Tablet rival: Report](https://www.androidauthority.com/apple-ipad-smart-display-3269353/)
+ - [Daily Authority: 📱 Galaxy S23 series info blowout](https://www.androidauthority.com/daily-authority-january-19-2023-3269338/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
