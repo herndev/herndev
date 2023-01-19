@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon already dropped the price on Apple&#39;s 2023 MacBook Pro 14-inch](https://appleinsider.com/articles/23/01/19/amazon-already-dropped-the-price-on-apples-2023-macbook-pro-14-inch?utm_medium=rss)
- - [Nvidia GeForce Now Ultimate with RTX 4080 hands-on: impressive input latency, but some visuals are still hazy and only six games support 240fps right now &lpar;The Verge&rpar;](http://www.techmeme.com/230119/p18#a230119p18)
- - [Apple shipped seven million Macs despite market drop in 2022](https://appleinsider.com/articles/23/01/19/apple-shipped-seven-million-macs-despite-market-drop-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [A foldable and rollable phone? Here’s one company imagining how it would look.](https://www.androidauthority.com/foldable-rollable-phone-3269527/)
+ - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)
+ - [China&#39;s Population Is Falling. It Can Still Decline and Prosper](https://www.wired.com/story/china-fertility-population-decline-demography-economics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
