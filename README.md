@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 Years Later, Popular Guilty Gear Game Finally Gets Smooth Online Gameplay](https://kotaku.com/guilty-gear-xrd-rev-2-rollback-online-netcode-steam-pc-1850003545)
- - [M3GAN is officially getting a sequel, and maybe a gory unrated cut](https://www.polygon.com/23546390/megan-sequel-release-date-unrated-r-rated-version)
- - [Xbox Exec Praises Devs For Releasing Games Amid Culture of ‘Cancellation&#39;](https://kotaku.com/phil-spencer-hogwarts-legacy-high-on-life-game-pass-1850003635)<!-- GAME:END -->
+ - [Drake Now Owns Pharrell&#39;s $20,000 Golden PSP](https://kotaku.com/drake-pharrell-psp-playstation-nerd-auction-psp-1850004044)
+ - [Hogwarts Legacy actor responds to backlash: &#39;Trans women are women and trans men are men&#39;](https://www.pcgamer.com/hogwarts-legacy-actor-responds-to-backlash-trans-women-are-women-and-trans-men-are-men)
+ - [Dungeons &amp; Dragons Owners &#39;Sorry&#39; After Week Of Very Bad Press](https://kotaku.com/d-d-ogl-dungeons-dragons-wizards-coast-wotc-apology-1850003674)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
