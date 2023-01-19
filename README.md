@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I must say I am impressed](http://9gag.com/gag/armMO5K)
- - ⏩ [Jim Carey from Wish](http://9gag.com/gag/aeQA0xQ)
- - 👉 [You and Me baby ain\u2019t nothing but mammals](http://9gag.com/gag/aZD0NgW)<!-- MEMES:END -->
+ - 💣 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
+ - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
+ - 👉 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
 
 ---
 
