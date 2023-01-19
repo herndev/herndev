@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of 11 online pharmacies selling abortion pills: at least nine use third-party trackers such as Google Analytics to collect and share sensitive data &lpar;Jennifer Gollan/ProPublica&rpar;](http://www.techmeme.com/230119/p1#a230119p1)
  - [Andrew Bosworth talks about Meta&#39;s decision to discontinue the Portal and how it nearly made a deal to license Portal&#39;s tech and platform to Amazon in 2020 &lpar;Katie Notopoulos/BuzzFeed News&rpar;](http://www.techmeme.com/230118/p39#a230118p39)
- - [Sources: Founders Fund sold off most of its cryptocurrency portfolio by the end of March 2022, before the crypto market crash, generating ~$1.8B in returns &lpar;Financial Times&rpar;](http://www.techmeme.com/230118/p38#a230118p38)
- - [Amazon To Shut Down Charity Donation Program AmazonSmile     - CNET](https://www.cnet.com/tech/amazon-to-shut-down-charity-donation-program-amazonsmile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Founders Fund sold off most of its cryptocurrency portfolio by the end of March 2022, before the crypto market crash, generating ~$1.8B in returns &lpar;Financial Times&rpar;](http://www.techmeme.com/230118/p38#a230118p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
