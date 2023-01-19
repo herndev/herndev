@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five Apple TV+ shows premiering Jan. 27 get new trailers](https://appleinsider.com/articles/23/01/18/three-apple-tv-shows-premiering-jan-27-get-new-trailers?utm_medium=rss)
- - [Similarweb: Twitter referral traffic to 12 major news outlets fell 12% on average from November 2022 to December 2022; only traffic to NY Post and Fox News grew &lpar;Digiday&rpar;](http://www.techmeme.com/230118/p34#a230118p34)
- - [Testing HomePod mini&#39;s new 16.3 smart home features](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S23 could be using slightly tweaked version of Snapdragon 8 Gen 2](https://www.androidauthority.com/snapdragon-8-gen-2-galaxy-s23-3269288/)
+ - [A Damning US Report Lays Bare Amazon’s Worker Injury Crisis](https://www.wired.com/story/a-damning-us-report-lays-bare-amazons-worker-injury-crisis/)
+ - [Apple announces premiere dates for more Apple TV+ shows](https://appleinsider.com/articles/23/01/19/apple-announces-premiere-dates-for-more-apple-tv-shows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
