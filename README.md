@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator is getting a Tomb Raider expansion for reasons I don&#39;t fully understand](https://www.pcgamer.com/powerwash-simulator-is-getting-a-tomb-raider-expansion-for-reasons-i-dont-fully-understand)
- - [Apple claims &#39;console quality&#39; gaming from its new chips and it&#39;s sort of true, sort of not](https://www.pcgamer.com/apple-claims-console-quality-gaming-from-its-new-chips-and-its-sort-of-true-sort-of-not)
- - [There&#39;s nothing wrong with copying your decks off the internet](https://www.pcgamer.com/theres-nothing-wrong-with-copying-your-decks-off-the-internet)<!-- GAME:END -->
+ - [The most important tabletop games of 2023](https://www.polygon.com/tabletop-games/23561230/best-new-board-games-ttrpg-2023-preview-dnd)
+ - [After D&amp;D’s missteps, Paizo’s Pathfinder and Starfinder enter 2023 stronger than ever](https://www.polygon.com/tabletop-games/23560520/pathfinder-starfinder-2023-preview-how-to-get-started)
+ - [D&amp;D 5th edition comes to a close in 2023 against a backdrop of fan anger](https://www.polygon.com/23558767/dnd-dungeons-dragons-2023-release-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
