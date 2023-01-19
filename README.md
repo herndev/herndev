@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vannevar Labs, which makes software for security agencies to process information, raised a $75M Series B led by Felicis, bringing its total funding to $90M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230119/p28#a230119p28)
- - [PayPal says hackers accessed sensitive data of ~35K users, including addresses and social security numbers, in a credential stuffing attack in December 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230119/p27#a230119p27)
- - [Best E Ink Tablets for 2023: Amazon&#39;s Kindle Scribe Is Here     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside CNET’s AI-powered SEO money machine](https://www.theverge.com/2023/1/19/23562966/cnet-ai-written-stories-red-ventures-seo-marketing)
+ - [Netflix’s paid password sharing to roll out ‘more broadly’ in the coming months](https://www.theverge.com/2023/1/19/23559483/netflix-password-sharing-crackdown-earnings-q4-2022)
+ - [Netflix reports Q4 revenue up 1.9% YoY to $7.85B, $55M net income, down from $607M YoY, 231M paid memberships, adding 7.66M subscribers vs. 4.57M expected &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/230119/p30#a230119p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
