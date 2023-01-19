@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is closing its AmazonSmile charity platform](https://www.theverge.com/2023/1/19/23562036/amazon-closing-amazonsmile-charity-platform-announcement)
- - [CoinDesk retains investment bankers at Lazard to help the outlet explore options including a partial or full sale after &quot;numerous&quot; indications of interest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p5#a230119p5)
- - [Thursday’s top tech news: what does ‘funding secured’ mean anyway?](https://www.theverge.com/2023/1/19/23562022/january-19-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Wikimedia launches an updated Wikipedia design, including improved search and accessibility, a refreshed table of contents, and easier language switching &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230119/p9#a230119p9)
+ - [Crypto exchange OKX reports $7.5B in reserves excluding its token; CryptoQuant rates OKX as 100% &quot;clean&quot;, not relying on its native token, while Binance is 87% &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230119/p8#a230119p8)
+ - [National Australia Bank creates the AUDN stablecoin, the second major Australian bank after ANZ&#39;s A$DC, letting customers settle transactions on the blockchain &lpar;James Eyers/Australian Financial Review&rpar;](http://www.techmeme.com/230119/p7#a230119p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
