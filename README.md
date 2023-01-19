@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m Begging Marvel Snap To Stop With All The Annoying Featured Zones](https://kotaku.com/marvel-snap-rickety-bridge-best-decks-card-zone-update-1850008057)
- - [Minecraft&#39;s most annoying feature is finally turned off in the latest update](https://www.pcgamer.com/minecrafts-most-annoying-feature-is-finally-turned-off-in-the-latest-update)
- - [Jared Leto’s Tron 3 willed into existence by Disney theme park](https://www.polygon.com/23562712/tron-3-ares-jared-leto-ride-disneyworld-release)<!-- GAME:END -->
+ - [D&amp;D will move to a Creative Commons license, requests feedback on a new OGL](https://www.polygon.com/23562874/dnd-dungeons-dragons-ogl-1-2-release-download-feedback-survey)
+ - [The Last Of Us’ Original Co-Director Unhappy Over HBO Show Credits Snub](https://kotaku.com/last-of-us-bruce-straley-hbo-credits-union-naughty-dog-1850008504)
+ - [The studio behind Total War is making an FPS, and you can sign up to play it this weekend](https://www.pcgamer.com/the-studio-behind-total-war-is-making-an-fps-and-you-can-sign-up-to-play-it-this-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
