@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best free streaming services: FreeVee, PlutoTV, Peacock, and more](https://www.androidauthority.com/free-streaming-services-3269175/)
- - [Thursday’s top tech news: what does ‘funding secured’ mean anyway?](https://www.theverge.com/2023/1/19/23562022/january-19-2023-tech-news-liveblog)
- - [On Friday, SCOTUS may discuss whether to hear two cases challenging social media laws in Texas and Florida and plans to hear two Section 230 cases in February &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230119/p25#a230119p25)<!-- TECH:END -->
+ - [Brazil watchdog investigates Apple over App Store payment rules](https://appleinsider.com/articles/23/01/19/brazil-watchdog-investigates-apple-over-app-store-payment-rules?utm_medium=rss)
+ - [CB Insights: global fintech funding amounted to $75.2B in 2022, down 46% YoY, but up 52% compared to 2020; US fintech funding was down 50% YoY to $32.8B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230119/p26#a230119p26)
+ - [Light Pollution Is Making Stars Disappear at an Alarming Rate     - CNET](https://www.cnet.com/science/space/light-pollution-is-making-stars-disappear-at-an-alarming-rate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
