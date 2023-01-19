@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - 👉 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)<!-- MEMES:END -->
+ - 💣 [When the answer is infront of you and you still got it wrong....](http://9gag.com/gag/aNwpAKr)
+ - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
+ - 👉 [Sorry WHAT](http://9gag.com/gag/armMbbV)<!-- MEMES:END -->
 
 ---
 
