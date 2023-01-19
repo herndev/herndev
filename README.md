@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [What you need to know about virtual reality in 2023](https://appleinsider.com/inside/apple-vr/tips/what-you-need-to-know-about-virtual-reality-in-2023?utm_medium=rss)
- - [While Stadia struggled due to missteps, Google did right by users when closing the service, like by offering full refunds, and other companies should take note &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230119/p23#a230119p23)<!-- TECH:END -->
+ - [Best free streaming services: FreeVee, PlutoTV, Peacock, and more](https://www.androidauthority.com/free-streaming-services-3269175/)
+ - [Thursday’s top tech news: what does ‘funding secured’ mean anyway?](https://www.theverge.com/2023/1/19/23562022/january-19-2023-tech-news-liveblog)
+ - [On Friday, SCOTUS may discuss whether to hear two cases challenging social media laws in Texas and Florida and plans to hear two Section 230 cases in February &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230119/p25#a230119p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
