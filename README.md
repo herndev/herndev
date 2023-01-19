@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mailchimp says a hacker accessed the data of 133 accounts via employee social engineering, first detected on January 11 and its second breach in six months &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230118/p35#a230118p35)
- - [Galaxy S23 could be using slightly tweaked version of Snapdragon 8 Gen 2](https://www.androidauthority.com/snapdragon-8-gen-2-galaxy-s23-3269288/)
- - [&#39;Ted Lasso&#39; Season 3 Will Premiere This Spring. Here&#39;s a First Look     - CNET](https://www.cnet.com/culture/entertainment/ted-lasso-season-3-will-premiere-this-spring-get-a-first-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to close AmazonSmile, its program launched in 2013 that let customers donate 0.5% of eligible items&#39; purchase prices to a charity, on February 20 &lpar;Addy Bink/The Hill&rpar;](http://www.techmeme.com/230118/p36#a230118p36)
+ - [Apple Is Reportedly Developing More Smart Home Products     - CNET](https://www.cnet.com/tech/apple-is-reportedly-developing-more-smart-home-products/#ftag=CAD590a51e)
+ - [Mailchimp says a hacker accessed the data of 133 accounts via employee social engineering, first detected on January 11 and its second breach in six months &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230118/p35#a230118p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
