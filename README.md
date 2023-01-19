@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accountability is cryptonite](http://9gag.com/gag/aNwpZ1w)
- - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - 👉 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
+ - 💣 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
+ - ⏩ [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - 👉 [Take note Hollywood, this is how it&#39;s done](http://9gag.com/gag/aNwpZZ4)<!-- MEMES:END -->
 
 ---
 
