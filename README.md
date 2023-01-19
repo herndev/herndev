@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we be loyal, n****s?](http://9gag.com/gag/a5XEKPg)
- - ⏩ [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - 👉 [A father with 84 kids laugh hysterically at interviewer for only having one wife](http://9gag.com/gag/a8qE4eY)<!-- MEMES:END -->
+ - 💣 [They were made for each other](http://9gag.com/gag/a1PrdoD)
+ - ⏩ [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
+ - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
 
 ---
 
