@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jinkies](http://9gag.com/gag/aBd2Yx2)
- - ⏩ [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
- - 👉 [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)<!-- MEMES:END -->
+ - 💣 [Good job! it&#39;s not me! flies away...](http://9gag.com/gag/ap9NvdW)
+ - ⏩ [Best praise for a chef I&#39;ve EVER seen](http://9gag.com/gag/aQEox4W)
+ - 👉 [The little things](http://9gag.com/gag/abvVZ6B)<!-- MEMES:END -->
 
 ---
 
