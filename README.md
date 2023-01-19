@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Past and Present Collide in ‘The Secret Wilds’, Sea of Thieves’ 11th Adventure, Live Until February 2!](https://news.xbox.com/en-us/2023/01/19/sea-of-thieves-adventure-11-the-secret-wilds/)
- - [&#39;We&#39;re going to do this a better way&#39;— Dungeons &amp; Dragons maker changes plans after outrage over leaked licence draft](https://www.pcgamer.com/were-going-to-do-this-a-better-waywizards-of-the-coast-makes-new-plans-in-response-to-furore-over-leaked-dandd-licence-change)
- - [I can&#39;t wait to pummel people as a musical onion in this rhythm game](https://www.pcgamer.com/i-cant-wait-to-pummel-people-as-a-musical-onion-in-this-rhythm-game)<!-- GAME:END -->
+ - [Free Play Days – Tiny Tina’s Wonderlands and Space Crew Legendary Edition](https://news.xbox.com/en-us/2023/01/19/free-play-days-tiny-tinas-wonderlands-and-space-crew-legendary-edition/)
+ - [Velma puts the girls &lpar;and their queerness&rpar; front and center](https://www.polygon.com/23560823/velma-gay-queer-love-daphne-episode)
+ - [CPUs and GPUs are the new oil and gas says Intel CEO](https://www.pcgamer.com/cpus-and-gpus-are-the-new-oil-and-gas-says-intel-ceo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
