@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
- - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - 👉 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
+ - 💣 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - ⏩ [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
+ - 👉 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
 
 ---
 
