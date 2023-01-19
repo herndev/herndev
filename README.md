@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
- - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - 👉 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
+ - 💣 [When you actually have to do work at the job you applied for](http://9gag.com/gag/ajVmqYQ)
+ - ⏩ [Apparently he is not that good at driving.](http://9gag.com/gag/aGEpwK0)
+ - 👉 [Sorry for the lame music..... Story - single Mom kills her daughter killer](http://9gag.com/gag/aQEoqVz)<!-- MEMES:END -->
 
 ---
 
