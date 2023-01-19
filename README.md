@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
- - [Daily Deals Jan. 19: $50 off 2023 14-inch MacBook Pro, Google Nest Doorbell for $80, Apple Watch Series 8 for $88 &amp; more](https://appleinsider.com/articles/23/01/19/daily-deals-jan-19-50-off-2023-14-inch-macbook-pro-google-nest-doorbell-for-80-apple-watch-series-8-for-88-more?utm_medium=rss)
- - [Save 50% on the Asus Flip C434, and more great Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [What you need to know about virtual reality in 2023](https://appleinsider.com/inside/apple-vr/tips/what-you-need-to-know-about-virtual-reality-in-2023?utm_medium=rss)
+ - [While Stadia struggled due to missteps, Google did right by users when closing the service, like by offering full refunds, and other companies should take note &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230119/p23#a230119p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
