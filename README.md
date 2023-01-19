@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 579 answer and hint for Thursday, January 19](https://www.pcgamer.com/wordle-579-answer-january-19)
  - [Deep Rock Galactic &lpar;The Board Game&rpar;: The Kotaku Review](https://kotaku.com/deep-rock-galactic-board-game-review-kickstarter-1849991704)
- - [Drake Now Owns Pharrell&#39;s $20,000 Golden PSP](https://kotaku.com/drake-pharrell-psp-playstation-nerd-auction-psp-1850004044)
- - [Hogwarts Legacy actor responds to backlash: &#39;Trans women are women and trans men are men&#39;](https://www.pcgamer.com/hogwarts-legacy-actor-responds-to-backlash-trans-women-are-women-and-trans-men-are-men)<!-- GAME:END -->
+ - [Drake Now Owns Pharrell&#39;s $20,000 Golden PSP](https://kotaku.com/drake-pharrell-psp-playstation-nerd-auction-psp-1850004044)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
