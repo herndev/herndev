@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia launches an updated Wikipedia design, including improved search and accessibility, a refreshed table of contents, and easier language switching &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230119/p9#a230119p9)
- - [Crypto exchange OKX reports $7.5B in reserves excluding its token; CryptoQuant rates OKX as 100% &quot;clean&quot;, not relying on its native token, while Binance is 87% &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230119/p8#a230119p8)
- - [National Australia Bank creates the AUDN stablecoin, the second major Australian bank after ANZ&#39;s A$DC, letting customers settle transactions on the blockchain &lpar;James Eyers/Australian Financial Review&rpar;](http://www.techmeme.com/230119/p7#a230119p7)<!-- TECH:END -->
+ - [First M2 Pro benchmarks show dramatic improvement over even M1 Max](https://appleinsider.com/articles/23/01/19/first-m2-pro-benchmarks-show-dramatic-improvement-over-even-m1-max?utm_medium=rss)
+ - [Hands on with HomePod mini&#39;s temperature and humidity sensors](https://appleinsider.com/articles/23/01/18/testing-homepod-minis-new-163-smart-home-features?utm_medium=rss)
+ - [Twitter launches Blue on Android for $11 per month, the same as iOS and $3 more than the web, after launching an annual subscription &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230119/p11#a230119p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
