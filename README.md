@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
- - ⏩ [Zero brain cell move](http://9gag.com/gag/a047pWL)
- - 👉 [What ever happened to those awesome movies?](http://9gag.com/gag/aZD0pbz)<!-- MEMES:END -->
+ - 💣 [He can be sweet sometimes](http://9gag.com/gag/aL1pPwg)
+ - ⏩ [Oh God ! WTF](http://9gag.com/gag/aDYdReO)
+ - 👉 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)<!-- MEMES:END -->
 
 ---
 
