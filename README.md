@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most important tabletop games of 2023](https://www.polygon.com/tabletop-games/23561230/best-new-board-games-ttrpg-2023-preview-dnd)
- - [After D&amp;D’s missteps, Paizo’s Pathfinder and Starfinder enter 2023 stronger than ever](https://www.polygon.com/tabletop-games/23560520/pathfinder-starfinder-2023-preview-how-to-get-started)
- - [D&amp;D 5th edition comes to a close in 2023 against a backdrop of fan anger](https://www.polygon.com/23558767/dnd-dungeons-dragons-2023-release-schedule)<!-- GAME:END -->
+ - [Past and Present Collide in ‘The Secret Wilds’, Sea of Thieves’ 11th Adventure, Live Until February 2!](https://news.xbox.com/en-us/2023/01/19/sea-of-thieves-adventure-11-the-secret-wilds/)
+ - [&#39;We&#39;re going to do this a better way&#39;— Dungeons &amp; Dragons maker changes plans after outrage over leaked licence draft](https://www.pcgamer.com/were-going-to-do-this-a-better-waywizards-of-the-coast-makes-new-plans-in-response-to-furore-over-leaked-dandd-licence-change)
+ - [I can&#39;t wait to pummel people as a musical onion in this rhythm game](https://www.pcgamer.com/i-cant-wait-to-pummel-people-as-a-musical-onion-in-this-rhythm-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
