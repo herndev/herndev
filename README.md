@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
- - ⏩ [I know it&#39;s not a meme sry](http://9gag.com/gag/avQ5rVE)
- - 👉 [Can&#39;t park here mate](http://9gag.com/gag/anzQyV0)<!-- MEMES:END -->
+ - 💣 [I must say I am impressed](http://9gag.com/gag/armMO5K)
+ - ⏩ [Jim Carey from Wish](http://9gag.com/gag/aeQA0xQ)
+ - 👉 [You and Me baby ain\u2019t nothing but mammals](http://9gag.com/gag/aZD0NgW)<!-- MEMES:END -->
 
 ---
 
