@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside CNET’s AI-powered SEO money machine](https://www.theverge.com/2023/1/19/23562966/cnet-ai-written-stories-red-ventures-seo-marketing)
- - [Netflix’s paid password sharing to roll out ‘more broadly’ in the coming months](https://www.theverge.com/2023/1/19/23559483/netflix-password-sharing-crackdown-earnings-q4-2022)
- - [Netflix reports Q4 revenue up 1.9% YoY to $7.85B, $55M net income, down from $607M YoY, 231M paid memberships, adding 7.66M subscribers vs. 4.57M expected &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/230119/p30#a230119p30)<!-- TECH:END -->
+ - [SEC filing: T-Mobile says a hacker stole data for ~37M customer accounts, including names and addresses, but no passwords, SSNs, or financial information &lpar;Catherine Larkin/Bloomberg&rpar;](http://www.techmeme.com/230119/p33#a230119p33)
+ - [T-Mobile informs customers of yet another data breach](https://appleinsider.com/articles/23/01/19/t-mobile-informs-customers-of-yet-another-data-breach?utm_medium=rss)
+ - [Smart Reply disappears from Google Voice nearly a year after it was introduced](https://www.androidauthority.com/smart-reply-google-voice-3269726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
