@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Tiny Tina’s Wonderlands and Space Crew Legendary Edition](https://news.xbox.com/en-us/2023/01/19/free-play-days-tiny-tinas-wonderlands-and-space-crew-legendary-edition/)
- - [Velma puts the girls &lpar;and their queerness&rpar; front and center](https://www.polygon.com/23560823/velma-gay-queer-love-daphne-episode)
- - [CPUs and GPUs are the new oil and gas says Intel CEO](https://www.pcgamer.com/cpus-and-gpus-are-the-new-oil-and-gas-says-intel-ceo)<!-- GAME:END -->
+ - [EA’s golf game returns with more courses, more customization, and more shots](https://www.polygon.com/23560258/ea-sports-pga-tour-preview-release-date-ps5-xbox-series-x-pc)
+ - [I will never click another sponsored link on Google again](https://www.pcgamer.com/i-will-never-click-another-sponsored-link-on-google-again)
+ - [Former Halo Infinite Dev Blasts Management Over Layoffs](https://kotaku.com/halo-infinite-forge-343-industries-microsoft-layoffs-1850006216)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
