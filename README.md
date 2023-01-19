@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A foldable and rollable phone? Here’s one company imagining how it would look.](https://www.androidauthority.com/foldable-rollable-phone-3269527/)
- - [Apple Lisa changed computing 40 years ago, but the world didn&#39;t notice](https://appleinsider.com/articles/23/01/19/apple-lisa-changed-computing-40-years-ago-but-the-world-didnt-notice?utm_medium=rss)
- - [China&#39;s Population Is Falling. It Can Still Decline and Prosper](https://www.wired.com/story/china-fertility-population-decline-demography-economics/)<!-- TECH:END -->
+ - [2023 16-inch MacBook Pro vs 2021 MacBook Pro - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/2023-16-inch-macbook-pro-vs-2021-macbook-pro---compared?utm_medium=rss)
+ - [Daily Deals Jan. 19: $50 off 2023 14-inch MacBook Pro, Google Nest Doorbell for $80, Apple Watch Series 8 for $88 &amp; more](https://appleinsider.com/articles/23/01/19/daily-deals-jan-19-50-off-2023-14-inch-macbook-pro-google-nest-doorbell-for-80-apple-watch-series-8-for-88-more?utm_medium=rss)
+ - [Save 50% on the Asus Flip C434, and more great Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
