@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry WHAT](http://9gag.com/gag/armMbbV)
+ - 💣 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
  - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - 👉 [The American dream](http://9gag.com/gag/a0475YL)<!-- MEMES:END -->
+ - 👉 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
 
 ---
 
