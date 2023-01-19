@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 579 answer and hint for Thursday, January 19](https://www.pcgamer.com/wordle-579-answer-january-19)
- - [Deep Rock Galactic &lpar;The Board Game&rpar;: The Kotaku Review](https://kotaku.com/deep-rock-galactic-board-game-review-kickstarter-1849991704)
- - [Drake Now Owns Pharrell&#39;s $20,000 Golden PSP](https://kotaku.com/drake-pharrell-psp-playstation-nerd-auction-psp-1850004044)<!-- GAME:END -->
+ - [PowerWash Simulator is getting a Tomb Raider expansion for reasons I don&#39;t fully understand](https://www.pcgamer.com/powerwash-simulator-is-getting-a-tomb-raider-expansion-for-reasons-i-dont-fully-understand)
+ - [Apple claims &#39;console quality&#39; gaming from its new chips and it&#39;s sort of true, sort of not](https://www.pcgamer.com/apple-claims-console-quality-gaming-from-its-new-chips-and-its-sort-of-true-sort-of-not)
+ - [There&#39;s nothing wrong with copying your decks off the internet](https://www.pcgamer.com/theres-nothing-wrong-with-copying-your-decks-off-the-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
