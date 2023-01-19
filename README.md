@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leonardo DiCaprio and Monica Bellucci at Versace&#39;s dinner during Paris Couture Week, 1995](http://9gag.com/gag/aVb7zQd)
+ - 💣 [Something Escaped A Black Hole at almost the Speed of Light and NASA Recorded It. Flies away!](http://9gag.com/gag/aL1pQN6)
  - ⏩ [1969 Helen Mirren &lpar;&#39;Age of Consent&#39;&rpar;](http://9gag.com/gag/aA0bV49)
- - 👉 [Well unless you are all cops.](http://9gag.com/gag/aREXAmy)<!-- MEMES:END -->
+ - 👉 [Like pottery!](http://9gag.com/gag/a5XEedG)<!-- MEMES:END -->
 
 ---
 
