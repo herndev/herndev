@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D will move to a Creative Commons license, requests feedback on a new OGL](https://www.polygon.com/23562874/dnd-dungeons-dragons-ogl-1-2-release-download-feedback-survey)
- - [The Last Of Us’ Original Co-Director Unhappy Over HBO Show Credits Snub](https://kotaku.com/last-of-us-bruce-straley-hbo-credits-union-naughty-dog-1850008504)
- - [The studio behind Total War is making an FPS, and you can sign up to play it this weekend](https://www.pcgamer.com/the-studio-behind-total-war-is-making-an-fps-and-you-can-sign-up-to-play-it-this-weekend)<!-- GAME:END -->
+ - [Fans Of Hades Should Check Out This Dark, Electrifying Roguelike](https://kotaku.com/lone-ruin-cuddle-monster-games-hades-1850008124)
+ - [Grand Theft Auto Trilogy, Rockstar&#39;s most infamously broken game launch, finally comes to Steam at a 50% discount](https://www.pcgamer.com/grand-theft-auto-trilogy-rockstars-most-infamously-broken-game-launch-finally-comes-to-steam-at-a-50-discount)
+ - [D&amp;D will move to a Creative Commons license, requests feedback on a new OGL](https://www.polygon.com/23562874/dnd-dungeons-dragons-ogl-1-2-release-download-feedback-survey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
