@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FAA says a contractor unintentionally deleted files used in a pilot-alert system while trying to sync a database and its backup, causing last week&#39;s outage &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p37#a230119p37)
- - [The Best Order to Watch Netflix&#39;s &#39;Kaleidoscope&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-netflixs-kaleidoscope/#ftag=CAD590a51e)
- - [The Absolute Best Documentaries to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to hike Music Unlimited&#39;s monthly prices by $1 and &amp;pound;1 to $10.99 and &amp;pound;10.99 in the US and UK on February 21, matching Apple Music&#39;s October increase &lpar;Billboard&rpar;](http://www.techmeme.com/230119/p38#a230119p38)
+ - [Google&#39;s 2023 Doodle Contest Asks Schoolkids What They Are Grateful For     - CNET](https://www.cnet.com/culture/internet/googles-2023-doodle-contest-asks-schoolkids-what-they-are-grateful-for/#ftag=CAD590a51e)
+ - [The FAA says a contractor unintentionally deleted files used in a pilot-alert system while trying to sync a database and its backup, causing last week&#39;s outage &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p37#a230119p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
