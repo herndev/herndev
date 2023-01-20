@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us co-creator &#39;isn’t getting a credit or a nickel&#39; from the HBO show](https://www.pcgamer.com/the-last-of-us-co-creator-isnt-getting-a-credit-or-a-nickel-from-the-hbo-show)
- - [Alhaitham and Kaveh prove Genshin Impact characters come best in pairs](https://www.polygon.com/23563865/genshin-impact-update-alhaitham-kaveh)
- - [5 reasons my hopes are high for Amazon&#39;s Fallout TV series](https://www.pcgamer.com/5-reasons-my-hopes-are-high-for-amazons-fallout-tv-series)<!-- GAME:END -->
+ - [Invincible is finally coming back for season 2 later this year](https://www.polygon.com/23564634/invincible-season-2-release-date-cast-amazon-prime)
+ - [GOG is giving away this lovely little island adventure game for free](https://www.pcgamer.com/gog-is-giving-away-this-lovely-little-island-adventure-game-for-free)
+ - [How to change classes in Fire Emblem Engage](https://www.polygon.com/guides/23562780/fire-emblem-engage-change-class-weapon-proficiency-master-second-seals-level-base-advanced-special)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
