@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 580 answer and hint for Friday, January 20](https://www.pcgamer.com/wordle-580-answer-january-20)
  - [Battlefield&#39;s Classes Are Finally Coming Back To 2042](https://kotaku.com/battlefield-2042-class-classes-recon-assault-engineer-1850009801)
- - [War Thunder Players Are, Once Again, Posting Military Documents On Forums](https://kotaku.com/war-thunder-military-documents-classified-leak-forum-1850009524)
- - [Game that promised no paid DLC ever is getting paid DLC: &#39;We need a way to continue to fund the development&#39;](https://www.pcgamer.com/game-that-promised-no-paid-dlc-ever-is-getting-paid-dlc-we-need-a-way-to-continue-to-fund-the-development)<!-- GAME:END -->
+ - [War Thunder Players Are, Once Again, Posting Military Documents On Forums](https://kotaku.com/war-thunder-military-documents-classified-leak-forum-1850009524)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
