@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is pushing advertisers to work with third-party resellers directly as it seeks to reduce its overheads related to advertising services &lpar;Ronan Shields/Digiday&rpar;](http://www.techmeme.com/230120/p20#a230120p20)
- - [New images show off Samsung’s 360 degree hinge that could come to the Fold 5](https://www.androidauthority.com/samsung-display-hinge-3270159/)
- - [Bright Green Comet ZTF Headed Our Way Will Be Visible to the Naked Eye     - CNET](https://www.cnet.com/science/space/bright-green-comet-ztf-headed-our-way-and-nearly-visible-to-the-naked-eye/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
+ - [Feds looking at Goldman Sachs&#39; Apple Card business unit](https://appleinsider.com/articles/23/01/20/feds-looking-at-goldman-sachs-apple-card-business-unit?utm_medium=rss)
+ - [Timothee Chalamet feels left out of Apple TV+ in new ad](https://appleinsider.com/articles/23/01/20/timothee-chalamet-feels-left-out-of-apple-tv-in-new-ad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
