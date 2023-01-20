@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slovakia-based Photoneo, the parent company of robotic warehouse automation startup Brightpick, raised an additional $19M, bringing its total Series B to $40M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230120/p3#a230120p3)
- - [Israel-based aiOla, which uses voice and image recognition to digitize, automate, and streamline manufacturing inspection processes, raised $25M led by New Era &lpar;CTech&rpar;](http://www.techmeme.com/230120/p2#a230120p2)
- - [Samsung shows off foldable phone display that can bend inwards and outwards](https://www.androidauthority.com/samsung-360-degree-display-galaxy-z-fold-5-3269905/)<!-- TECH:END -->
+ - [Indian food delivery service Swiggy plans to cut 360 jobs; the company raised $700M in January 2022 at a $10.7B valuation and employs about 6,000 people &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230120/p5#a230120p5)
+ - [The OnePlus 11 might get a downgrade in the US](https://www.androidauthority.com/oneplus-11-charging-3269910/)
+ - [Sources: Nintendo plans to increase production of its six-year-old Switch console in the coming fiscal year, starting in April 2023, as demand remains strong &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p4#a230120p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
