@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 💣 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
  - ⏩ [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
- - 👉 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
+ - 👉 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)<!-- MEMES:END -->
 
 ---
 
