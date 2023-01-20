@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 💣 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
  - ⏩ [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
- - 👉 [My life is a lie.](http://9gag.com/gag/aWGj1A3)<!-- MEMES:END -->
+ - 👉 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
 
 ---
 
