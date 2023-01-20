@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
- - ⏩ [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
- - 👉 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)<!-- MEMES:END -->
+ - 💣 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - ⏩ [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
+ - 👉 [It&#39;s not just a kangaroo.](http://9gag.com/gag/anzQNxo)<!-- MEMES:END -->
 
 ---
 
