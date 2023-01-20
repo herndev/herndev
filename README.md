@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warning Label](http://9gag.com/gag/aeQAMXQ)
- - ⏩ [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - ⏩ [Warning Label](http://9gag.com/gag/aeQAMXQ)
  - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
 
 ---
