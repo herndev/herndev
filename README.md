@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)
- - [Here&#39;s How to Lose Body Fat and Keep It Off This Time     - CNET](https://www.cnet.com/health/fitness/heres-how-to-lose-body-fat-and-keep-it-off-this-time/#ftag=CAD590a51e)
- - [Crypto lender Nexo agrees to pay $45M in penalties to settle US SEC and state charges for failing to register the offer and sale of its Earn Interest Product &lpar;The Block&rpar;](http://www.techmeme.com/230119/p35#a230119p35)<!-- TECH:END -->
+ - [Apple TV+ content currently unavailable due to outage](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
+ - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)
+ - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
