@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Popular Steam Game Raises Price After Seven Years Without A Sale](https://kotaku.com/factorio-price-increase-steam-sale-squad-paid-emotes-1850012919)
- - [Psyonix unleashes &#39;banwave&#39; against the Rocket League bot menace](https://www.pcgamer.com/psyonix-unleashes-banwave-against-the-rocket-league-bot-menace)<!-- GAME:END -->
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
+ - [Official PlayStation Podcast Episode 447: Endured and Survived the Holidays](https://blog.playstation.com/2023/01/20/official-playstation-podcast-episode-447-endured-and-survived-the-holidays/)
+ - [This Akira-Like Bosh Rush Game Has Me Hooked](https://kotaku.com/gripper-akira-heart-core-boss-rush-doom-pc-switch-1850012768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
