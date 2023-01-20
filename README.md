@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous vehicles in China face legal and financial issues, including different rules set by local governments, less funding, and uncertain profit prospects &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230120/p6#a230120p6)
- - [We asked, you told us: Most of you have a charger with a USB-C port](https://www.androidauthority.com/usb-c-smartphone-charger-poll-results-3269965/)
- - [Another year, another T-Mobile data breach](https://www.androidauthority.com/t-mobile-data-breach-37-million-accounts-3269945/)<!-- TECH:END -->
+ - [Apple TV+ content currently unavailable due to outage [u]](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
+ - [India releases rules on social media influencers and virtual avatars promoting content without disclosing payment, adding an up to ~$12.3K fine for violations &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230120/p9#a230120p9)
+ - [Memo: Alphabet plans to cut around 12,000 jobs, more than 6% of its global workforce; Sundar Pichai says he takes &quot;full responsibility&quot; for the need to cut jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p8#a230120p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
