@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2.0 Is Ditching 2v2 Gulags For Boring 1v1 Showdowns](https://kotaku.com/warzone-2-gulag-2v2-1v1-cod-changes-season-mw2-wz2-1850012590)
- - [Fish Play Pokémon Scarlet And Violet, Accidentally Commit Credit Card Fraud](https://kotaku.com/pokemon-scarlet-violet-fish-youtube-credit-card-1850012376)
- - [If you ever want to read The Winds of Winter, pray for the New York Giants](https://www.polygon.com/entertainment/23560856/winds-of-winter-release-date-george-r-r-martin-new-york-giants-football)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Popular Steam Game Raises Price After Seven Years Without A Sale](https://kotaku.com/factorio-price-increase-steam-sale-squad-paid-emotes-1850012919)
+ - [Psyonix unleashes &#39;banwave&#39; against the Rocket League bot menace](https://www.pcgamer.com/psyonix-unleashes-banwave-against-the-rocket-league-bot-menace)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
