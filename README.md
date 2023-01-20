@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to hike Music Unlimited&#39;s monthly prices by $1 and &amp;pound;1 to $10.99 and &amp;pound;10.99 in the US and UK on February 21, matching Apple Music&#39;s October increase &lpar;Billboard&rpar;](http://www.techmeme.com/230119/p38#a230119p38)
- - [Google&#39;s 2023 Doodle Contest Asks Schoolkids What They Are Grateful For     - CNET](https://www.cnet.com/culture/internet/googles-2023-doodle-contest-asks-schoolkids-what-they-are-grateful-for/#ftag=CAD590a51e)
- - [The FAA says a contractor unintentionally deleted files used in a pilot-alert system while trying to sync a database and its backup, causing last week&#39;s outage &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p37#a230119p37)<!-- TECH:END -->
+ - [Slovakia-based Photoneo, the parent company of robotic warehouse automation startup Brightpick, raised an additional $19M, bringing its total Series B to $40M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230120/p3#a230120p3)
+ - [Israel-based aiOla, which uses voice and image recognition to digitize, automate, and streamline manufacturing inspection processes, raised $25M led by New Era &lpar;CTech&rpar;](http://www.techmeme.com/230120/p2#a230120p2)
+ - [Samsung shows off foldable phone display that can bend inwards and outwards](https://www.androidauthority.com/samsung-360-degree-display-galaxy-z-fold-5-3269905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
