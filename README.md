@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
- - [Official PlayStation Podcast Episode 447: Endured and Survived the Holidays](https://blog.playstation.com/2023/01/20/official-playstation-podcast-episode-447-endured-and-survived-the-holidays/)
- - [This Akira-Like Bosh Rush Game Has Me Hooked](https://kotaku.com/gripper-akira-heart-core-boss-rush-doom-pc-switch-1850012768)<!-- GAME:END -->
+ - [The Last of Us co-creator &#39;isn’t getting a credit or a nickel&#39; from the HBO show](https://www.pcgamer.com/the-last-of-us-co-creator-isnt-getting-a-credit-or-a-nickel-from-the-hbo-show)
+ - [Alhaitham and Kaveh prove Genshin Impact characters come best in pairs](https://www.polygon.com/23563865/genshin-impact-update-alhaitham-kaveh)
+ - [5 reasons my hopes are high for Amazon&#39;s Fallout TV series](https://www.pcgamer.com/5-reasons-my-hopes-are-high-for-amazons-fallout-tv-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
