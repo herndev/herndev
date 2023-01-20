@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Year Rings in New EA Play Rewards!](https://news.xbox.com/en-us/2023/01/20/a-new-year-rings-in-new-ea-play-rewards/)
- - [I lost my head and lubed a mechanical keyboard switch. Help](https://www.pcgamer.com/i-lost-my-head-and-lubed-a-mechanical-keyboard-switch-help)
- - [Midnight Suns&#39; Deadpool trailer has vampires, wizardly cosmetics, and an imminent release date](https://www.pcgamer.com/midnight-suns-deadpool-trailer-has-vampires-wizardly-cosmetics-and-an-imminent-release-date)<!-- GAME:END -->
+ - [Welcome to the Hunt! An Intro to Monster Hunter Rise on Xbox and PC](https://news.xbox.com/en-us/2023/01/20/monster-hunter-rise-out-on-xbox-and-pc/)
+ - [League of Legends’ stinker cinematic belies a bigger trend](https://www.polygon.com/23562774/league-of-legends-brink-of-infinity-cinematic-controversy-explained)
+ - [You can now download the source code for Apple&#39;s most influential failure](https://www.pcgamer.com/you-can-now-download-the-source-code-for-apples-most-influential-failure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
