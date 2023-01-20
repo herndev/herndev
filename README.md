@@ -1,4 +1,4 @@
-![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif) -->
 
 |   HI THERE, I'M HERNIE <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
 | ----------- |
