@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter officially kills off all third-party client apps](https://appleinsider.com/articles/23/01/19/twitter-officially-kills-off-all-third-party-client-apps?utm_medium=rss)
  - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)
- - [Texas Instruments names COO Haviv Ilan as its next CEO starting on April 1, replacing Rich Templeton, who has been CEO for 19 years and will remain its chairman &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230119/p34#a230119p34)<!-- TECH:END -->
+ - [Here&#39;s How to Lose Body Fat and Keep It Off This Time     - CNET](https://www.cnet.com/health/fitness/heres-how-to-lose-body-fat-and-keep-it-off-this-time/#ftag=CAD590a51e)
+ - [Crypto lender Nexo agrees to pay $45M in penalties to settle US SEC and state charges for failing to register the offer and sale of its Earn Interest Product &lpar;The Block&rpar;](http://www.techmeme.com/230119/p35#a230119p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
