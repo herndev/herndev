@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never heard more kids creamimg and crying in cinema...great job ny animators](http://9gag.com/gag/aNwpWyr)
- - ⏩ [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)
- - 👉 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)<!-- MEMES:END -->
+ - 💣 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
+ - ⏩ [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
+ - 👉 [The American dream](http://9gag.com/gag/a0475YL)<!-- MEMES:END -->
 
 ---
 
