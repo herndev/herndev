@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Micr\u00f6wave hac](http://9gag.com/gag/a0475rd)
- - ⏩ [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
- - 👉 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)<!-- MEMES:END -->
+ - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - ⏩ [First round](http://9gag.com/gag/aYVoxW2)
+ - 👉 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
 
 ---
 
