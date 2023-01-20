@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for January 23 to 27](https://news.xbox.com/en-us/2023/01/20/next-week-on-xbox-new-games-for-january-23-to-27/)
- - [Spectacular Destiny 2 Fit Is Right Out Of The Mummy](https://kotaku.com/destiny-2-brendan-fraser-the-mummy-transmog-outfit-1850009255)
- - [Ten tips for Slugcat survival in Rain World: Downpour](https://www.pcgamer.com/rain-world-downpour-survival-tips)<!-- GAME:END -->
+ - [A New Year Rings in New EA Play Rewards!](https://news.xbox.com/en-us/2023/01/20/a-new-year-rings-in-new-ea-play-rewards/)
+ - [I lost my head and lubed a mechanical keyboard switch. Help](https://www.pcgamer.com/i-lost-my-head-and-lubed-a-mechanical-keyboard-switch-help)
+ - [Midnight Suns&#39; Deadpool trailer has vampires, wizardly cosmetics, and an imminent release date](https://www.pcgamer.com/midnight-suns-deadpool-trailer-has-vampires-wizardly-cosmetics-and-an-imminent-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
