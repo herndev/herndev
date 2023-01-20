@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never heard more kids creamimg and crying in cinema...great job ny animators](http://9gag.com/gag/aNwpWyr)
- - ⏩ [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
+ - 💣 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)
+ - ⏩ [Mr mime knows something we don&#39;t](http://9gag.com/gag/aOx3YeR)
+ - 👉 [It&#39;s not just a kangaroo.](http://9gag.com/gag/anzQNxo)<!-- MEMES:END -->
 
 ---
 
