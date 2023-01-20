@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
- - ⏩ [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
- - 👉 [Police Sniper shoots hostage taker with knife from between the colleague&#39;s legs](http://9gag.com/gag/a1PrQwG)<!-- MEMES:END -->
+ - 💣 [Never heard more kids creamimg and crying in cinema...great job ny animators](http://9gag.com/gag/aNwpWyr)
+ - ⏩ [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
 
 ---
 
