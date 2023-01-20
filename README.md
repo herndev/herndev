@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
- - [Feds looking at Goldman Sachs&#39; Apple Card business unit](https://appleinsider.com/articles/23/01/20/feds-looking-at-goldman-sachs-apple-card-business-unit?utm_medium=rss)
- - [Timothee Chalamet feels left out of Apple TV+ in new ad](https://appleinsider.com/articles/23/01/20/timothee-chalamet-feels-left-out-of-apple-tv-in-new-ad?utm_medium=rss)<!-- TECH:END -->
+ - [The best Microsoft 365 package for your budget in 2023](https://appleinsider.com/inside/mac/best/the-best-microsoft-365-package-for-your-budget-in-2023?utm_medium=rss)
+ - [Belkin Wireless Magnetic Charging Stand review: Minimalistic, gets the job done](https://appleinsider.com/articles/23/01/20/belkin-wireless-magnetic-charging-stand-review-minimalistic-gets-the-job-done?utm_medium=rss)
+ - [Save $100 on Apple&#39;s 2023 MacBook Pro &amp; Mac mini, prices as low as $499](https://appleinsider.com/articles/23/01/20/save-100-on-apples-2023-macbook-pro-mac-mini-prices-as-low-as-499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
