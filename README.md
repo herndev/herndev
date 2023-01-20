@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Myspace co-founders Chris DeWolfe and Aber Whitcomb&#39;s PLAI Labs raised a $32M seed led by a16z to build social platforms leveraging generative AI and Web3 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230119/p36#a230119p36)
- - [Apple TV+ content currently unavailable due to outage](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
- - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)<!-- TECH:END -->
+ - [The FAA says a contractor unintentionally deleted files used in a pilot-alert system while trying to sync a database and its backup, causing last week&#39;s outage &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230119/p37#a230119p37)
+ - [The Best Order to Watch Netflix&#39;s &#39;Kaleidoscope&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-netflixs-kaleidoscope/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
