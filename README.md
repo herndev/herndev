@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Effects of a Komodo Dragon bite](http://9gag.com/gag/a5XEoVE)
- - ⏩ [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
- - 👉 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
+ - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
+ - ⏩ [First round](http://9gag.com/gag/aYVoxW2)
+ - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
 
 ---
 
