@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche brings CarPlay to older models with new upgrades](https://appleinsider.com/articles/23/01/20/porsche-brings-carplay-to-older-models-with-new-upgrades?utm_medium=rss)
- - [Best accessories for M2 Mac mini in 2023](https://appleinsider.com/inside/mac-mini/best/best-accessories-for-m2-mac-mini-in-2023?utm_medium=rss)
- - [New Movies Coming Out in 2023: Biggest Film Release Dates Including Marvel, DC, Netflix     - CNET](https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2023-release-dates-netflix-marvel-dc-disney-pixar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best price ever on the Razer Thresher, and more great Xbox deals](https://www.androidauthority.com/best-xbox-deals-1118171/)
+ - [Alec Baldwin Faces Involuntary Manslaughter Charge in Fatal &#39;Rust&#39; Shooting     - CNET](https://www.cnet.com/culture/entertainment/alec-baldwin-faces-involuntary-manslaughter-charge-in-fatal-rust-shooting/#ftag=CAD590a51e)
+ - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-you-can-catch-on-apple-tv-plus-over-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
