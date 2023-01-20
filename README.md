@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
- - 👉 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)<!-- MEMES:END -->
+ - 💣 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - ⏩ [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 👉 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)<!-- MEMES:END -->
 
 ---
 
