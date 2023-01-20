@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts argue the TikTok ban by over two dozen US states is a reflection of government groupthink and an overreaction to an app officials don&#39;t fully understand &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230120/p13#a230120p13)
- - [How Apple&#39;s sleep tracker can help you lose weight](https://appleinsider.com/articles/23/01/20/how-apples-sleep-tracker-can-help-you-lose-weight?utm_medium=rss)
- - [AirTag helps rescue dog swept away in California floodwaters](https://appleinsider.com/articles/23/01/20/airtag-helps-rescue-dog-swept-away-in-california-floodwaters?utm_medium=rss)<!-- TECH:END -->
+ - [Google &amp; Microsoft each laying off over 10,000 employees](https://appleinsider.com/articles/23/01/20/google-microsoft-each-laying-off-over-10000-employees?utm_medium=rss)
+ - [Ex-FTX US President Brett Harrison raised $5M for Architect, a new firm which will build crypto trading software for large investors, from Coinbase and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/230120/p14#a230120p14)
+ - [HomePod is back, M2 Pro and M2 Max MacBook Pro, and M2 Mac mini](https://appleinsider.com/articles/23/01/20/homepod-is-back-m2-pro-and-m2-max-macbook-pro-and-m2-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
