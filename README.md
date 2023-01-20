@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - ⏩ [First round](http://9gag.com/gag/aYVoxW2)
- - 👉 [Just learned about the pilots from WWII that circled around 3x while flying over the Congo to take a picture of what is estimated to be a 50ft snake of an unknown species.](http://9gag.com/gag/aGEpwvG)<!-- MEMES:END -->
+ - ⏩ [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)
+ - 👉 [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)<!-- MEMES:END -->
 
 ---
 
