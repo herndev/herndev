@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Watch sleep tracking can help you lose weight](https://appleinsider.com/articles/23/01/20/how-apples-sleep-tracker-can-help-you-lose-weight?utm_medium=rss)
- - [Daily Deals Jan. 20: $500 off 2021 MacBook Pro, $50 off 2023 MacBook Pro, Samsung 65&quot; 4K TV $499 &amp; more](https://appleinsider.com/articles/23/01/20/daily-deals-jan-20-500-off-2021-macbook-pro-50-off-2023-macbook-pro-samsung-65-4k-tv-499-more?utm_medium=rss)
- - [Apple Watch ECG app helps save pregnant woman&#39;s life](https://appleinsider.com/articles/23/01/20/apple-watch-ecg-app-helps-save-pregnant-womans-life?utm_medium=rss)<!-- TECH:END -->
+ - [Porsche brings CarPlay to older models with new upgrades](https://appleinsider.com/articles/23/01/20/porsche-brings-carplay-to-older-models-with-new-upgrades?utm_medium=rss)
+ - [Best accessories for M2 Mac mini in 2023](https://appleinsider.com/inside/mac-mini/best/best-accessories-for-m2-mac-mini-in-2023?utm_medium=rss)
+ - [New Movies Coming Out in 2023: Biggest Film Release Dates Including Marvel, DC, Netflix     - CNET](https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2023-release-dates-netflix-marvel-dc-disney-pixar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
