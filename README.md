@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal records: Twitter lost about 80% of staff since Elon Musk took over and now has around 1,300 employees, including fewer than 550 full-time engineers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230120/p24#a230120p24)
- - [All the Obnoxious Ways People Are Leaving Twitter](https://www.wired.com/story/obnoxious-twitter-sign-offs/)
- - [In a staff call, CNET and Red Ventures execs said they were pausing AI-generated content on CNET and other sites and offered details on their proprietary tool &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230120/p23#a230120p23)<!-- TECH:END -->
+ - [The US State Department Ditches Times New Roman for Calibri](https://www.wired.com/story/us-state-department-calibri-times-new-roman-fonts/)
+ - [A Promising HIV Vaccine Just Failed an Important Clinical Trial     - CNET](https://www.cnet.com/health/medical/a-promising-hiv-vaccine-just-failed-an-important-clinical-trial/#ftag=CAD590a51e)
+ - [Microsoft Is Shutting Down Its Social VR Platform AltspaceVR     - CNET](https://www.cnet.com/tech/computing/microsoft-is-shutting-down-its-social-vr-platform-altspacevr/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
