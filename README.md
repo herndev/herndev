@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He challenged the last boss unprepared](http://9gag.com/gag/a047YeQ)
+ - 💣 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)
  - ⏩ [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
- - 👉 [Sleep tight all, nn.](http://9gag.com/gag/ay2M8P8)<!-- MEMES:END -->
+ - 👉 [First round](http://9gag.com/gag/aYVoxW2)<!-- MEMES:END -->
 
 ---
 
