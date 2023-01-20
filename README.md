@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Myspace co-founders Chris DeWolfe and Aber Whitcomb&#39;s PLAI Labs raised a $32M seed led by a16z to build social platforms leveraging generative AI and Web3 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230119/p36#a230119p36)
  - [Apple TV+ content currently unavailable due to outage](https://appleinsider.com/articles/23/01/20/apple-tv-content-currently-unavailable-due-to-outage?utm_medium=rss)
- - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)
- - [Logitech Pop Keys keyboard review: Colorful, customizable and a dream to type with](https://appleinsider.com/articles/23/01/19/logitech-pop-keys-keyboard-colorful-customizable-and-a-dream-to-type-with?utm_medium=rss)<!-- TECH:END -->
+ - [Element Case Special Ops Apple Watch band review: For those who like to play rough](https://appleinsider.com/articles/23/01/19/element-case-special-ops-apple-watch-band-review-for-those-who-like-to-play-rough?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
