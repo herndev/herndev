@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Of Hades Should Check Out This Dark, Electrifying Roguelike](https://kotaku.com/lone-ruin-cuddle-monster-games-hades-1850008124)
- - [Grand Theft Auto Trilogy, Rockstar&#39;s most infamously broken game launch, finally comes to Steam at a 50% discount](https://www.pcgamer.com/grand-theft-auto-trilogy-rockstars-most-infamously-broken-game-launch-finally-comes-to-steam-at-a-50-discount)
- - [D&amp;D will move to a Creative Commons license, requests feedback on a new OGL](https://www.polygon.com/23562874/dnd-dungeons-dragons-ogl-1-2-release-download-feedback-survey)<!-- GAME:END -->
+ - [It&#39;s Always A Good Time To Play Persona 3](https://kotaku.com/its-always-a-good-time-to-play-persona-3-1846768802)
+ - [GTA Trilogy Arrives On Steam, Still Broken &lpar;But On Sale&rpar;](https://kotaku.com/gta-trilogy-remaster-steam-pc-broken-vice-city-sale-1850009168)
+ - [New Soulslike Game Is A Solid Marriage Between Nioh And Sekiro](https://kotaku.com/wo-long-fallen-dynasty-demo-preview-team-ninja-nioh-1850008864)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
