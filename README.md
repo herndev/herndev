@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Wonders: Edifice expands the hit board game with... FOMO](https://www.polygon.com/23562853/7-wonders-game-edifice-expansion-asmodee)
- - [How the Trading Post works in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-trading-post)
- - [Ubisoft CEO apologises for placing his foot so deeply into his mouth](https://www.pcgamer.com/ubisoft-ceo-apologises-for-placing-his-foot-so-deeply-into-his-mouth)<!-- GAME:END -->
+ - [Google lays off 12,000 blaming &#39;different economic reality&#39; as mass tech layoffs continue](https://www.pcgamer.com/google-lays-off-12000-blaming-different-economic-reality-as-mass-tech-layoffs-continue)
+ - [The Callisto Protocol adds NG+ and makes you immune while vaulting](https://www.pcgamer.com/the-callisto-protocol-adds-ng-and-makes-you-immune-while-vaulting)
+ - [The Last of Us co-creator says lack of credit for HBO show ‘an argument for unionization’](https://www.polygon.com/23563751/the-last-of-us-hbo-bruce-straley-neil-druckmann-credit-unionization)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
