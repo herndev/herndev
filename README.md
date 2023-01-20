@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man charged with murder looks on while his Google searches from the day his wife disappeared are read in court](http://9gag.com/gag/a5XErVN)
- - ⏩ [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)
+ - 💣 [First round](http://9gag.com/gag/aYVoxW2)
+ - ⏩ [Mr mime knows something we don&#39;t](http://9gag.com/gag/aOx3YeR)
  - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
 
 ---
