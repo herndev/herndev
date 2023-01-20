@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Autonomous vehicles in China face legal and financial issues, including different rules set by local governments, less funding, and uncertain profit prospects &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230120/p6#a230120p6)
  - [We asked, you told us: Most of you have a charger with a USB-C port](https://www.androidauthority.com/usb-c-smartphone-charger-poll-results-3269965/)
- - [Another year, another T-Mobile data breach](https://www.androidauthority.com/t-mobile-data-breach-37-million-accounts-3269945/)
- - [Indian food delivery service Swiggy plans to cut 360 jobs; the company raised $700M in January 2022 at a $10.7B valuation and employs about 6,000 people &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230120/p5#a230120p5)<!-- TECH:END -->
+ - [Another year, another T-Mobile data breach](https://www.androidauthority.com/t-mobile-data-breach-37-million-accounts-3269945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
