@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts argue the TikTok ban by over two dozen US states is a reflection of government groupthink and an overreaction to an app officials don&#39;t fully understand &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230120/p13#a230120p13)
  - [How Apple&#39;s sleep tracker can help you lose weight](https://appleinsider.com/articles/23/01/20/how-apples-sleep-tracker-can-help-you-lose-weight?utm_medium=rss)
- - [MacBook Pro &amp; iPad Pro OLED screen orders may already be in](https://appleinsider.com/articles/23/01/20/apple-orders-oled-screens-for-both-macbook-pro-and-ipad-pro?utm_medium=rss)
- - [Daily Authority: 😱 Another massive T-Mobile data breach](https://www.androidauthority.com/daily-authority-january-20-2023-3269972/)<!-- TECH:END -->
+ - [AirTag helps rescue dog swept away in California floodwaters](https://appleinsider.com/articles/23/01/20/airtag-helps-rescue-dog-swept-away-in-california-floodwaters?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
