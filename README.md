@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the Hunt! An Intro to Monster Hunter Rise on Xbox and PC](https://news.xbox.com/en-us/2023/01/20/monster-hunter-rise-out-on-xbox-and-pc/)
- - [League of Legends’ stinker cinematic belies a bigger trend](https://www.polygon.com/23562774/league-of-legends-brink-of-infinity-cinematic-controversy-explained)
- - [You can now download the source code for Apple&#39;s most influential failure](https://www.pcgamer.com/you-can-now-download-the-source-code-for-apples-most-influential-failure)<!-- GAME:END -->
+ - [After 14 years, Risen is back—I decided to find out why](https://www.pcgamer.com/after-14-years-risen-is-backi-decided-to-find-out-why)
+ - [The Bored Apes NFT game is literally about chasing shit](https://www.pcgamer.com/the-bored-apes-nft-game-is-literally-about-chasing-shit)
+ - [Disney is bringing Tron back from the dead, with Jared Leto starring](https://www.pcgamer.com/disney-is-bringing-tron-back-from-the-dead-with-jared-leto-starring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
