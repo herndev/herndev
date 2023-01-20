@@ -8,7 +8,7 @@
 [![Views](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-00aa71?style=for-the-badge)](https://me.herndevs.com)
 
-|   SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>    |
+|   SOFTWARE ENGINEER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>    |
 | ----------- | ----------- |
 | <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 <!-- 
