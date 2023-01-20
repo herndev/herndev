@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best price ever on the Razer Thresher, and more great Xbox deals](https://www.androidauthority.com/best-xbox-deals-1118171/)
- - [Alec Baldwin Faces Involuntary Manslaughter Charge in Fatal &#39;Rust&#39; Shooting     - CNET](https://www.cnet.com/culture/entertainment/alec-baldwin-faces-involuntary-manslaughter-charge-in-fatal-rust-shooting/#ftag=CAD590a51e)
- - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-you-can-catch-on-apple-tv-plus-over-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Layoffs in some of Apple&#39;s retail channels have begun](https://appleinsider.com/articles/23/01/20/layoffs-in-some-of-apples-retail-channels-have-begun?utm_medium=rss)
+ - [Retailers are slashing last-gen MacBook Pros by up to $600 to make way for 2023 models](https://appleinsider.com/articles/23/01/20/retailers-are-slashing-last-gen-macbook-pros-by-up-to-600-to-make-way-for-2023-models?utm_medium=rss)
+ - [Panicked Google to unveil over 20 AI products, including a Pixel wallpaper maker](https://www.androidauthority.com/google-ai-products-3270065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
