@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to play the Persona games](https://www.pcgamer.com/best-persona-games)
- - [Today&#39;s Wordle 580 answer and hint for Friday, January 20](https://www.pcgamer.com/wordle-580-answer-january-20)
- - [Battlefield&#39;s Classes Are Finally Coming Back To 2042](https://kotaku.com/battlefield-2042-class-classes-recon-assault-engineer-1850009801)<!-- GAME:END -->
+ - [All Paper Theater solutions in the Genshin Impact Lantern Rite event](https://www.pcgamer.com/genshin-impact-paper-theater-solutions)
+ - [The reality of gaming in Iran: &quot;We are fighting against censorship to be able to play&quot;](https://www.pcgamer.com/the-reality-of-gaming-in-iran-we-are-fighting-against-censorship-to-be-able-to-play)
+ - [ASRock heard you like AMD X670 mobos, so it turned a B650 into an X670 with an add-in card](https://www.pcgamer.com/asrock-heard-you-like-amd-x670-mobos-so-it-turned-a-b650-into-an-x670-with-an-add-in-card)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
