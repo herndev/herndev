@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Most of you have a charger with a USB-C port](https://www.androidauthority.com/usb-c-smartphone-charger-poll-results-3269965/)
  - [Another year, another T-Mobile data breach](https://www.androidauthority.com/t-mobile-data-breach-37-million-accounts-3269945/)
- - [Indian food delivery service Swiggy plans to cut 360 jobs; the company raised $700M in January 2022 at a $10.7B valuation and employs about 6,000 people &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230120/p5#a230120p5)
- - [The OnePlus 11 might get a downgrade in the US](https://www.androidauthority.com/oneplus-11-charging-3269910/)<!-- TECH:END -->
+ - [Indian food delivery service Swiggy plans to cut 360 jobs; the company raised $700M in January 2022 at a $10.7B valuation and employs about 6,000 people &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230120/p5#a230120p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
