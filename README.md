@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First round](http://9gag.com/gag/aYVoxW2)
- - ⏩ [Mr mime knows something we don&#39;t](http://9gag.com/gag/aOx3YeR)
- - 👉 [Climate change is to blame](http://9gag.com/gag/aQEoMdz)<!-- MEMES:END -->
+ - 💣 [A puffer fish washed up ashore](http://9gag.com/gag/aA0bwY9)
+ - ⏩ [Climate change is to blame](http://9gag.com/gag/aQEoMdz)
+ - 👉 [Police Sniper shoots hostage taker with knife from between the colleague&#39;s legs](http://9gag.com/gag/a1PrQwG)<!-- MEMES:END -->
 
 ---
 
