@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aside from this lovely site. Where else can I go? New to this.](http://9gag.com/gag/aVb7WW8)
- - ⏩ [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
- - 👉 [The American dream](http://9gag.com/gag/a0475YL)<!-- MEMES:END -->
+ - 💣 [Micr\u00f6wave hac](http://9gag.com/gag/a0475rd)
+ - ⏩ [This is how it&#39;s done](http://9gag.com/gag/aGEpeo7)
+ - 👉 [Off-duty cop pulls gun on man who didn\u2019t shoplift](http://9gag.com/gag/ap9NLZp)<!-- MEMES:END -->
 
 ---
 
