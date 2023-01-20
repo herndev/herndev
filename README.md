@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google lays off 12,000 blaming &#39;different economic reality&#39; as mass tech layoffs continue](https://www.pcgamer.com/google-lays-off-12000-blaming-different-economic-reality-as-mass-tech-layoffs-continue)
- - [The Callisto Protocol adds NG+ and makes you immune while vaulting](https://www.pcgamer.com/the-callisto-protocol-adds-ng-and-makes-you-immune-while-vaulting)
- - [The Last of Us co-creator says lack of credit for HBO show ‘an argument for unionization’](https://www.polygon.com/23563751/the-last-of-us-hbo-bruce-straley-neil-druckmann-credit-unionization)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for January 23 to 27](https://news.xbox.com/en-us/2023/01/20/next-week-on-xbox-new-games-for-january-23-to-27/)
+ - [Spectacular Destiny 2 Fit Is Right Out Of The Mummy](https://kotaku.com/destiny-2-brendan-fraser-the-mummy-transmog-outfit-1850009255)
+ - [Ten tips for Slugcat survival in Rain World: Downpour](https://www.pcgamer.com/rain-world-downpour-survival-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
