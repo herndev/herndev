@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp reportedly plans to let users send photos in original quality](https://www.theverge.com/2023/1/23/23567326/whatsapp-android-beta-original-quality-images-feature)
- - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
- - [Wells Fargo, BofA, JPMorgan, and four other banks are working on a digital wallet, managed by Zelle owner Early Warning Services, rolling out in H2 2023 &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/230123/p11#a230123p11)<!-- TECH:END -->
+ - [M2 Pro &amp; Max MacBook Pro review roundup: Impressive spec bump](https://appleinsider.com/articles/23/01/23/m2-pro-max-macbook-pro-review-roundup-impressive-spec-bump?utm_medium=rss)
+ - [Save up to $100 on Apple&#39;s MacBook Pro 2023 &amp; new Mac mini, prices as low as $549](https://appleinsider.com/articles/23/01/20/save-100-on-apples-2023-macbook-pro-mac-mini-prices-as-low-as-499?utm_medium=rss)
+ - [New HomePod and HomePod mini features set to arrive](https://appleinsider.com/articles/23/01/23/new-homepod-and-homepod-mini-features-set-to-arrive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
