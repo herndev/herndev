@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm a ton of bond fragments in Fire Emblem Engage](https://www.polygon.com/guides/23564368/fire-emblem-engage-bond-fragments-achievements-donations-training-yard-fishing)
- - [Steam sale on base-building games includes new releases and old favorites](https://www.pcgamer.com/steam-sale-on-base-building-games-includes-new-releases-and-old-favorites)
- - [The Last of Us’ Tess has a very different story in the video game](https://www.polygon.com/23567526/the-last-of-us-tess-death-game-difference-kiss-hbo)<!-- GAME:END -->
+ - [It’s The Best Time Of Year For This Cozy, Slow Burn Game](https://kotaku.com/a-space-for-the-unbound-review-indie-game-steam-pc-1850020374)
+ - [10 Manga You Should Read If You Loved Chainsaw Man](https://kotaku.com/chainsaw-man-manga-dandadan-kaiju-no-8-hells-paradise-1850020318)
+ - [Disney Fans Are Selling Splash Mountain Water After Ride Closes](https://kotaku.com/disney-world-splash-mountain-closing-selling-water-ebay-1850020287)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
