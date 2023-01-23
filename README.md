@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ready your cyberbike and tear out a robot&#39;s guts with a grappling hook in Gripper](https://www.pcgamer.com/ready-your-cyberbike-and-tear-out-a-robots-guts-with-a-grappling-hook-in-gripper)
  - [The No-Fly List Has Been Leaked, TSA Investigating &#39;Cybersecurity Incident&#39;](https://kotaku.com/tsa-no-fly-list-leak-hack-hacked-pokemon-terrorist-1850017149)
- - [Lost Ark&#39;s Witcher crossover is a disappointment](https://www.pcgamer.com/lost-arks-witcher-crossover-is-a-disappointment)
- - [Marvel&#39;s Avengers Is Ending Development, Giving Away Cosmetics](https://kotaku.com/marvels-avengers-shutting-down-end-development-license-1850017092)<!-- GAME:END -->
+ - [Lost Ark&#39;s Witcher crossover is a disappointment](https://www.pcgamer.com/lost-arks-witcher-crossover-is-a-disappointment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
