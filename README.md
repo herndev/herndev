@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awe that&#39;s sweet...](http://9gag.com/gag/amAPYw2)
- - ⏩ [Wayyy better than a refund.](http://9gag.com/gag/aGEp1XZ)
- - 👉 [Warning Label](http://9gag.com/gag/aeQAMXQ)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aOx3e12)
+ - ⏩ [Most important award](http://9gag.com/gag/a047V1O)
+ - 👉 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)<!-- MEMES:END -->
 
 ---
 
