@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D movie villain revealed and, no, it’s not Vecna](https://www.polygon.com/23567509/dungeons-dragons-dnd-movie-villain-vecna-szass-tam)
- - [HBO’s The Last Of Us Does Tess Dirty](https://kotaku.com/hbo-last-of-us-tess-anna-torv-episode-two-death-kiss-1850018175)
- - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)<!-- GAME:END -->
+ - [The PS5’s Luxe New Controller Might Be A Game Changer &lpar;If You Can Afford It&rpar;](https://kotaku.com/dualsense-edge-controller-playstation-5-review-kotaku-1850018508)
+ - [Pokémon Fan Says US Customs Destroyed $4,000 Classic Game](https://kotaku.com/rare-pokemon-game-worth-yellow-wata-games-us-customs-1850018581)
+ - [343 Industries denies reports it’s not making Halo games anymore](https://www.polygon.com/23567502/343-industries-still-making-halo-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
