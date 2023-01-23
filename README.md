@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - ⏩ [Serenade Sad](http://9gag.com/gag/abvVebB)
- - 👉 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
+ - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
 
 ---
 
