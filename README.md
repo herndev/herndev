@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retail store leaks Samsung Galaxy S23 Ultra hands-on video, camera test, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-hands-on-video-3270498/)
- - [Amazon partners with Bengaluru-based cargo airline QuikJet to launch Amazon Air in India, initially to deliver goods in Delhi, Mumbai, Hyderabad, and Bengaluru &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230123/p1#a230123p1)
- - [This is the other ‘Ultra’ device launching alongside the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-book-3-ultra-3270492/)<!-- TECH:END -->
+ - [Daily Authority: 📸 Testing time with Sony’s best pocket camera](https://www.androidauthority.com/daily-authority-january-23-2023-3270487/)
+ - [Best Gaming TV: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
+ - [Best Men&#39;s Walking Shoes in 2023     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
