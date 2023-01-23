@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [+30% recoil stabilization -40% mobility](http://9gag.com/gag/avQ5yqW)
- - ⏩ [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
- - 👉 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
+ - 💣 [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - ⏩ [.](http://9gag.com/gag/aeQAOZB)
+ - 👉 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
 
 ---
 
