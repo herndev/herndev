@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shooting for 25% production in India, says trade minister](https://appleinsider.com/articles/23/01/23/apple-shooting-for-25-production-in-india-says-trade-minister?utm_medium=rss)
- - [The recent tech layoffs highlight a generational divide between younger workers, experiencing their first downturn, and older workers, who have been here before &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230123/p7#a230123p7)
- - [How to add student ID to Wallet in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-student-id-to-wallet-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [How to Use Stage Manager With Your iPad and Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-stage-manager-with-ipad-and-mac/)
+ - [Apple Original film &#39;Still: A Michael J. Fox Movie&#39; premieres at Sundance](https://appleinsider.com/articles/23/01/23/apple-original-film-still-a-michael-j-fox-movie-premieres-at-sundance?utm_medium=rss)
+ - [Banks teaming up to fight Apple Wallet &amp; PayPal](https://appleinsider.com/articles/23/01/23/banks-teaming-up-to-fight-apple-wallet-paypal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
