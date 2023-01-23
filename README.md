@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 with FIDO key support for Apple ID, Advanced Data Protection, security fixes, and more &lpar;Mahmoud Itani/XDA Developers&rpar;](http://www.techmeme.com/230123/p28#a230123p28)
- - [After OpenAI opened a waitlist for a faster paid version of ChatGPT, some users report seeing a &quot;pro&quot; plan for $42/month; no official announcement has been made &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230123/p27#a230123p27)
- - [Investigation finds extensive evidence that AI used by CNET appears to have plagiarized the work of competitors and human writers at Bankrate and even CNET &lpar;Jon Christian/Futurism&rpar;](http://www.techmeme.com/230123/p26#a230123p26)<!-- TECH:END -->
+ - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)
+ - [Today I learned the Xbox can run Nintendo GameCube and Wii games](https://www.theverge.com/2023/1/23/23568163/xbox-series-x-s-dolphin-nintendo-gamecube-wii-emulator)
+ - [No Straight Lines celebrates the radical queer artists who dared to change the face of comics](https://www.theverge.com/23564624/no-straight-lines-vivian-kleiman-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
