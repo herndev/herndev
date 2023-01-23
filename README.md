@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia signs a multiyear cross-license patent agreement with Samsung, covering fundamental 5G and other tech, after the previous deal expired at the end of 2022 &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/230123/p6#a230123p6)
- - [Genesis Global Capital&#39;s bankruptcy marks the end of an era of crypto lenders trying to bring the centuries-old banking model to digital currencies &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230123/p5#a230123p5)
- - [Binance says Signature Bank will only handle transactions of over $100,000, starting on February 1, as the US bank decreases its exposure to crypto markets &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230123/p4#a230123p4)<!-- TECH:END -->
+ - [Apple shooting for 25% production in India, says trade minister](https://appleinsider.com/articles/23/01/23/apple-shooting-for-25-production-in-india-says-trade-minister?utm_medium=rss)
+ - [The recent tech layoffs highlight a generational divide between younger workers, experiencing their first downturn, and older workers, who have been here before &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230123/p7#a230123p7)
+ - [How to add student ID to Wallet in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-student-id-to-wallet-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
