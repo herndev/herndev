@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Microsoft Office for Mac Home &amp; Business 2021 for $29.99 - limited time offer](https://appleinsider.com/articles/23/01/23/get-microsoft-office-for-mac-home-business-2021-for-2999---limited-time-offer?utm_medium=rss)
- - [Today I learned the Xbox can run Nintendo GameCube and Wii games](https://www.theverge.com/2023/1/23/23568163/xbox-series-x-s-dolphin-nintendo-gamecube-wii-emulator)
- - [No Straight Lines celebrates the radical queer artists who dared to change the face of comics](https://www.theverge.com/23564624/no-straight-lines-vivian-kleiman-review)<!-- TECH:END -->
+ - [How a system for &quot;stealth addresses&quot;, using zero-knowledge proofs, may offer an easier, better way to improve privacy on Ethereum vs. hiding or mixing transfers &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230123/p29#a230123p29)
+ - [Mac mini M2 packs a performance punch for under $600](https://appleinsider.com/articles/23/01/23/mac-mini-m2-packs-a-performance-punch-for-under-600?utm_medium=rss)
+ - [Monday’s top tech news: the beginning of the end for Windows 10](https://www.theverge.com/2023/1/23/23567280/january-23-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
