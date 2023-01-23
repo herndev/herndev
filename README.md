@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
- - ⏩ [American police simulator](http://9gag.com/gag/a9qEyA1)
- - 👉 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
+ - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - ⏩ [Been dreaming of this for 6 years](http://9gag.com/gag/aXnoMWP)
+ - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
 
 ---
 
