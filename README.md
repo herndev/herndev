@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Sources: Donald Trump does not want to renew his Truth Social exclusivity contract, expiring in June 2023, and is asking for suggestions for his first tweet &lpar;Rolling Stone&rpar;](http://www.techmeme.com/230122/p8#a230122p8)
- - [Sources: activist investor Elliott Management has made a multibillion-dollar investment in Salesforce &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230122/p7#a230122p7)
- - [More People Need to Watch This Dark Netflix Time Travel Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-dark-netflix-time-travel-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Our View of the Universe Could Slowly Fade Away     - CNET](https://www.cnet.com/science/climate/features/how-our-view-of-the-universe-could-slowly-fade-away/#ftag=CAD590a51e)
+ - [Best Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
