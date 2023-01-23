@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Donald Trump does not want to renew his Truth Social exclusivity contract, expiring in June 2023, and is asking for suggestions for his first tweet &lpar;Rolling Stone&rpar;](http://www.techmeme.com/230122/p8#a230122p8)
- - [How Our View of the Universe Could Slowly Fade Away     - CNET](https://www.cnet.com/science/climate/features/how-our-view-of-the-universe-could-slowly-fade-away/#ftag=CAD590a51e)
- - [Best Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google faces a Jan. 26 deadline to meet India&#39;s antitrust regulator demands, like allowing 3rd-party app stores on the Play Store and unrestricted sideloading &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230122/p9#a230122p9)
+ - [Sources: Donald Trump does not want to renew his Truth Social exclusivity contract, expiring in June 2023, and is asking associates for first tweet suggestions &lpar;Rolling Stone&rpar;](http://www.techmeme.com/230122/p8#a230122p8)
+ - [How Our View of the Universe Could Slowly Fade Away     - CNET](https://www.cnet.com/science/climate/features/how-our-view-of-the-universe-could-slowly-fade-away/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
