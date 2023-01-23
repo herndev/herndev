@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5’s Luxe New Controller Might Be A Game Changer &lpar;If You Can Afford It&rpar;](https://kotaku.com/dualsense-edge-controller-playstation-5-review-kotaku-1850018508)
- - [Pokémon Fan Says US Customs Destroyed $4,000 Classic Game](https://kotaku.com/rare-pokemon-game-worth-yellow-wata-games-us-customs-1850018581)
- - [343 Industries denies reports it’s not making Halo games anymore](https://www.polygon.com/23567502/343-industries-still-making-halo-games)<!-- GAME:END -->
+ - [Marvel’s Avengers Is Dying, But Spider-Man Remains Trapped On PlayStation](https://kotaku.com/marvels-avengers-spiderman-playstation-xbox-pc-dlc-1850019046)
+ - [Luz’s palisman finally hatched in The Owl House](https://www.polygon.com/23567563/owl-house-season-3-stringbean-luz-palisman-form)
+ - [Modern Warfare 2&#39;s hardcore mode finally returns next month, but fans are upset it took this long](https://www.pcgamer.com/modern-warfare-2s-hardcore-mode-finally-returns-next-month-but-fans-are-upset-it-took-this-long)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
