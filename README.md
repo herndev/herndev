@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 💣 [Yeah\u2026](http://9gag.com/gag/aeQA4VO)
  - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
+ - 👉 [Moral Codes first](http://9gag.com/gag/aYVoMoV)<!-- MEMES:END -->
 
 ---
 
