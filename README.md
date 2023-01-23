@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s MR headset is set to be released in 2023 for ~$3K, with hand and eye tracking, Mac external display feature, advanced FaceTime features, more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230123/p22#a230123p22)
- - [Apple hit new record high for lobbying in 2022, but still behind peers](https://appleinsider.com/articles/23/01/23/apple-hit-new-record-high-for-lobbying-in-2022-but-still-behind-peers?utm_medium=rss)
- - [Meta brings more features to Messenger end-to-end encrypted chats, such as themes, link previews, and custom emojis, and expands default E2EE test to more users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230123/p21#a230123p21)<!-- TECH:END -->
+ - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)
+ - [Under a new agreement with Amazon, Stripe will expand its use of AWS and become a &quot;strategic payments partner&quot; for Amazon in the US, Europe, and Canada &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230123/p24#a230123p24)
+ - [Meta Eyes a Moderation Partner With ‘Traumatizing’ Working Conditions](https://www.wired.com/story/metas-new-moderation-contractor-may-be-worse-than-its-last-one/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
