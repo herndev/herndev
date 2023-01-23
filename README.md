@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forspoken reviews roundup: &#39;remarkably generic&#39;](https://www.pcgamer.com/forspoken-review-roundup)
- - [Three years after its original release, the latest Trackmania is finally coming to Steam](https://www.pcgamer.com/three-years-after-its-original-release-the-latest-trackmania-is-finally-coming-to-steam)
- - [The next SteamWorld game is a city builder, and there&#39;s a free demo out now](https://www.pcgamer.com/the-next-steamworld-game-is-a-city-builder-and-theres-a-free-demo-out-now)<!-- GAME:END -->
+ - [How to farm a ton of bond fragments in Fire Emblem Engage](https://www.polygon.com/guides/23564368/fire-emblem-engage-bond-fragments-achievements-donations-training-yard-fishing)
+ - [Steam sale on base-building games includes new releases and old favorites](https://www.pcgamer.com/steam-sale-on-base-building-games-includes-new-releases-and-old-favorites)
+ - [The Last of Us’ Tess has a very different story in the video game](https://www.polygon.com/23567526/the-last-of-us-tess-death-game-difference-kiss-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
