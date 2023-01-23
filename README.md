@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
- - ⏩ [Wall-E](http://9gag.com/gag/a047X2Z)
- - 👉 [That is not a good sound.](http://9gag.com/gag/amAPx2X)<!-- MEMES:END -->
+ - 💣 [War Thunder](http://9gag.com/gag/a8qEenV)
+ - ⏩ [.](http://9gag.com/gag/aeQAOZB)
+ - 👉 [He takes his job seriously](http://9gag.com/gag/aoKMxye)<!-- MEMES:END -->
 
 ---
 
