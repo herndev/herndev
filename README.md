@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the other ‘Ultra’ device launching alongside the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-book-3-ultra-3270492/)
- - [Google Search has a creepy easter egg for HBO’s The Last of Us](https://www.androidauthority.com/google-search-the-last-of-us-easter-egg-3270489/)
- - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Retail store leaks Samsung Galaxy S23 Ultra hands-on video, camera test, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-hands-on-video-3270498/)
+ - [Amazon partners with Bengaluru-based cargo airline QuikJet to launch Amazon Air in India, initially to deliver goods in Delhi, Mumbai, Hyderabad, and Bengaluru &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230123/p1#a230123p1)
+ - [This is the other ‘Ultra’ device launching alongside the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-book-3-ultra-3270492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
