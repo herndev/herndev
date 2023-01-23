@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
- - ⏩ [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - 💣 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
+ - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
  - 👉 [He takes his job seriously](http://9gag.com/gag/aoKMxye)<!-- MEMES:END -->
 
 ---
