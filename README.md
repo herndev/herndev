@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [How artists Kelly McKernan, Karla Ortiz, and Sarah Andersen found each other due to their AI concerns and sued Stable Diffusion, Midjourney, and DeviantArt &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/230122/p11#a230122p11)
  - [Sources: Samsung is aiming to bring its free TV Plus streaming service to third-party TVs and is approaching rival manufacturers about the idea &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230122/p10#a230122p10)
- - [India gave Google until January 26 to meet its antitrust regulator&#39;s demands, like hosting third-party app stores on the Play Store and unrestricted sideloading &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230122/p9#a230122p9)<!-- TECH:END -->
+ - [HBO&#39;s &#39;The Last of Us&#39; Episode 2 Makes Major Changes to the Game&#39;s Story     - CNET](https://www.cnet.com/culture/entertainment/hbos-the-last-of-us-episode-2-makes-major-changes-to-the-games-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
