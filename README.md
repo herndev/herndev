@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google faces a Jan. 26 deadline to meet India&#39;s antitrust regulator demands, like allowing 3rd-party app stores on the Play Store and unrestricted sideloading &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230122/p9#a230122p9)
- - [Sources: Donald Trump does not want to renew his Truth Social exclusivity contract, expiring in June 2023, and is asking associates for first tweet suggestions &lpar;Rolling Stone&rpar;](http://www.techmeme.com/230122/p8#a230122p8)
- - [How Our View of the Universe Could Slowly Fade Away     - CNET](https://www.cnet.com/science/climate/features/how-our-view-of-the-universe-could-slowly-fade-away/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How artists Kelly McKernan, Karla Ortiz, and Sarah Andersen found each other due to their AI concerns and sued Stable Diffusion, Midjourney, and DeviantArt &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/230122/p11#a230122p11)
+ - [Sources: Samsung is aiming to bring its free TV Plus streaming service to third-party TVs and is approaching rival manufacturers about the idea &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230122/p10#a230122p10)
+ - [India gave Google until January 26 to meet its antitrust regulator&#39;s demands, like hosting third-party app stores on the Play Store and unrestricted sideloading &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230122/p9#a230122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
