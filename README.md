@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ready your cyberbike and tear out a robot&#39;s guts with a grappling hook in Gripper](https://www.pcgamer.com/ready-your-cyberbike-and-tear-out-a-robots-guts-with-a-grappling-hook-in-gripper)
- - [The No-Fly List Has Been Leaked, TSA Investigating &#39;Cybersecurity Incident&#39;](https://kotaku.com/tsa-no-fly-list-leak-hack-hacked-pokemon-terrorist-1850017149)
- - [Lost Ark&#39;s Witcher crossover is a disappointment](https://www.pcgamer.com/lost-arks-witcher-crossover-is-a-disappointment)<!-- GAME:END -->
+ - [TV’s most comforting show confronts despair like only it can](https://www.polygon.com/entertainment/23563024/all-creatures-great-and-small-season-3-analysis)
+ - [Why The Last of Us creators swapped spores for Cordyceps networks](https://www.polygon.com/entertainment/23562421/last-of-us-cordyceps-spores-tv-show-hbo)
+ - [Ready your cyberbike and tear out a robot&#39;s guts with a grappling hook in Gripper](https://www.pcgamer.com/ready-your-cyberbike-and-tear-out-a-robots-guts-with-a-grappling-hook-in-gripper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
