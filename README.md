@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US State Department Ditches Times New Roman for Calibri](https://www.wired.com/story/us-state-department-calibri-times-new-roman-fonts/)
- - [A Promising HIV Vaccine Just Failed an Important Clinical Trial     - CNET](https://www.cnet.com/health/medical/a-promising-hiv-vaccine-just-failed-an-important-clinical-trial/#ftag=CAD590a51e)
- - [Microsoft Is Shutting Down Its Social VR Platform AltspaceVR     - CNET](https://www.cnet.com/tech/computing/microsoft-is-shutting-down-its-social-vr-platform-altspacevr/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s slower hiring allows it to avoid wave of big tech layoffs](https://appleinsider.com/articles/23/01/22/apples-slower-hiring-allows-it-to-avoid-wave-of-big-tech-layoffs?utm_medium=rss)
+ - [Samsung may put its free TV Plus streaming app into other manufacturers’ TVs](https://www.theverge.com/2023/1/22/23566741/samsung-free-tv-plus-streaming-tcl)
+ - [Researchers and ex-Twitter staff: physical attacks in the US have tracked with spikes in some hate speech on Twitter, notably anti-Semitic and anti-gay rhetoric &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230122/p6#a230122p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
