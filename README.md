@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TV’s most comforting show confronts despair like only it can](https://www.polygon.com/entertainment/23563024/all-creatures-great-and-small-season-3-analysis)
- - [Why The Last of Us creators swapped spores for Cordyceps networks](https://www.polygon.com/entertainment/23562421/last-of-us-cordyceps-spores-tv-show-hbo)
- - [Ready your cyberbike and tear out a robot&#39;s guts with a grappling hook in Gripper](https://www.pcgamer.com/ready-your-cyberbike-and-tear-out-a-robots-guts-with-a-grappling-hook-in-gripper)<!-- GAME:END -->
+ - [Tape storage was up in 2022 while HDD sales fell](https://www.pcgamer.com/in-2022-tape-storage-was-up-while-hdd-sales-fell)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [TV’s most comforting show confronts despair like only it can](https://www.polygon.com/entertainment/23563024/all-creatures-great-and-small-season-3-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
