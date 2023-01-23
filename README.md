@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American police simulator](http://9gag.com/gag/a9qEyA1)
- - ⏩ [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 👉 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)<!-- MEMES:END -->
+ - 💣 [.](http://9gag.com/gag/aeQAOZB)
+ - ⏩ [Lord of balls](http://9gag.com/gag/aqej8nZ)
+ - 👉 [Ir\u00f6n Mike](http://9gag.com/gag/a7qE0oz)<!-- MEMES:END -->
 
 ---
 
