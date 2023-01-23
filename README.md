@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)
- - ⏩ [.](http://9gag.com/gag/aeQAOZB)
- - 👉 [American police simulator](http://9gag.com/gag/a9qEyA1)<!-- MEMES:END -->
+ - 💣 [You cant catch us uwu!](http://9gag.com/gag/avQ5WZZ)
+ - ⏩ [Oh, No Anyway.](http://9gag.com/gag/a4oEnE6)
+ - 👉 [It is always morally correct to post this again and again...](http://9gag.com/gag/a9qEznL)<!-- MEMES:END -->
 
 ---
 
