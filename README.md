@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Pro &amp; Max MacBook Pro review roundup: Impressive spec bump](https://appleinsider.com/articles/23/01/23/m2-pro-max-macbook-pro-review-roundup-impressive-spec-bump?utm_medium=rss)
- - [Save up to $100 on Apple&#39;s MacBook Pro 2023 &amp; new Mac mini, prices as low as $549](https://appleinsider.com/articles/23/01/20/save-100-on-apples-2023-macbook-pro-mac-mini-prices-as-low-as-499?utm_medium=rss)
- - [New HomePod and HomePod mini features set to arrive](https://appleinsider.com/articles/23/01/23/new-homepod-and-homepod-mini-features-set-to-arrive?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s new Mac Mini is up to $100 off at Adorama](https://www.theverge.com/2023/1/23/23567359/apple-m2-mac-mini-preorder-xbox-elite-controller-blue-yeti-deal-sale)
+ - [Spotify lays off 6% of workforce, loses content chief](https://appleinsider.com/articles/23/01/23/spotify-lays-off-6-of-workforce-loses-content-chief?utm_medium=rss)
+ - [Apple&#39;s M2 chips appear to have two subtle upgrades, making performance cores more efficient and efficiency cores more performant, helping improve battery life &lpar;Ben Bajarin/Creative Strategies&rpar;](http://www.techmeme.com/230123/p17#a230123p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
