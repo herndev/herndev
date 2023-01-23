@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible is finally coming back for season 2 later this year](https://www.polygon.com/23564634/invincible-season-2-release-date-cast-amazon-prime)
- - [GOG is giving away this lovely little island adventure game for free](https://www.pcgamer.com/gog-is-giving-away-this-lovely-little-island-adventure-game-for-free)
- - [How to change classes in Fire Emblem Engage](https://www.polygon.com/guides/23562780/fire-emblem-engage-change-class-weapon-proficiency-master-second-seals-level-base-advanced-special)<!-- GAME:END -->
+ - [343, Hit By Layoffs And Key Departures, Says It Will Keep Making Halo Games](https://kotaku.com/343-studios-halo-infinite-layoffs-microsoft-bungie-1850016947)
+ - [GTA Online has its own Dark Souls-style critical security vulnerability on PC](https://www.pcgamer.com/grand-theft-auto-online-has-its-own-dark-souls-style-critical-security-vulnerability-on-pc)
+ - [After a wave of layoffs, 343 studio head declares &#39;Halo and the Master Chief are here to stay&#39;](https://www.pcgamer.com/after-a-wave-of-layoffs-343-studio-head-declares-halo-and-the-master-chief-are-here-to-stay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
