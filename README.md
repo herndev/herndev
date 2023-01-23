@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sport has become a embarrassment. A salute to you and those like you Mr. Pierluigi.](http://9gag.com/gag/a2K7w2O)
- - ⏩ [Robin Williams was one of the most heartfelt humans on this planet](http://9gag.com/gag/anzQvyV)
- - 👉 [.](http://9gag.com/gag/aeQAOZB)<!-- MEMES:END -->
+ - 💣 [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - ⏩ [.](http://9gag.com/gag/aeQAOZB)
+ - 👉 [Serenade Sad](http://9gag.com/gag/abvVebB)<!-- MEMES:END -->
 
 ---
 
