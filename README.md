@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #583, January 23](https://www.pcgamer.com/wordle-hint-answer-today-583-january-23)
- - [The Dead Space remake is too scary for its own technical director](https://www.pcgamer.com/the-dead-space-remake-is-too-scary-for-its-own-technical-director)
- - [Tape storage was up in 2022 while HDD sales fell](https://www.pcgamer.com/in-2022-tape-storage-was-up-while-hdd-sales-fell)<!-- GAME:END -->
+ - [How WWE’s ‘WarGames’ finally made it into a video game after 35 years](https://www.polygon.com/23564646/wwe-2k23-release-date-preview-wargames)
+ - [Merriam-Webster now has its own, appropriately impossible Wordle clone](https://www.pcgamer.com/merriam-webster-now-has-its-own-appropriately-impossible-wordle-clone)
+ - [Three episodes in, the Nier: Automata anime has been blindsided by delays](https://www.pcgamer.com/three-episodes-in-the-nier-automata-anime-has-been-blindsided-by-delays)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
