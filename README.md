@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Stage Manager With Your iPad and Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-stage-manager-with-ipad-and-mac/)
- - [Apple Original film &#39;Still: A Michael J. Fox Movie&#39; premieres at Sundance](https://appleinsider.com/articles/23/01/23/apple-original-film-still-a-michael-j-fox-movie-premieres-at-sundance?utm_medium=rss)
- - [Banks teaming up to fight Apple Wallet &amp; PayPal](https://appleinsider.com/articles/23/01/23/banks-teaming-up-to-fight-apple-wallet-paypal?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp reportedly plans to let users send photos in original quality](https://www.theverge.com/2023/1/23/23567326/whatsapp-android-beta-original-quality-images-feature)
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
+ - [Wells Fargo, BofA, JPMorgan, and four other banks are working on a digital wallet, managed by Zelle owner Early Warning Services, rolling out in H2 2023 &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/230123/p11#a230123p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
