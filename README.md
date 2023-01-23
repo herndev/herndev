@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How WWE’s ‘WarGames’ finally made it into a video game after 35 years](https://www.polygon.com/23564646/wwe-2k23-release-date-preview-wargames)
- - [Merriam-Webster now has its own, appropriately impossible Wordle clone](https://www.pcgamer.com/merriam-webster-now-has-its-own-appropriately-impossible-wordle-clone)
- - [Three episodes in, the Nier: Automata anime has been blindsided by delays](https://www.pcgamer.com/three-episodes-in-the-nier-automata-anime-has-been-blindsided-by-delays)<!-- GAME:END -->
+ - [How to Watch the Xbox &amp; Bethesda Developer_Direct on Wednesday](https://news.xbox.com/en-us/2023/01/23/xbox-bethesda-developer-direct-how-to-watch/)
+ - [Dragon Age 4 just lost its veteran production director](https://www.pcgamer.com/dragon-age-4-just-lost-its-veteran-production-director)
+ - [Dungeons &amp; Dragons movie trailer has yet more jokes, very fat dragon](https://www.polygon.com/23567423/dungeons-and-dragons-trailer-the-fat-dragon-one)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
