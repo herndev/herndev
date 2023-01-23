@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the other ‘Ultra’ device launching alongside the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-book-3-ultra-3270492/)
  - [Google Search has a creepy easter egg for HBO’s The Last of Us](https://www.androidauthority.com/google-search-the-last-of-us-easter-egg-3270489/)
- - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop-for-2023/#ftag=CAD590a51e)
- - [Best Identity Theft Protection and Monitoring Services for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-identity-theft-protection/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
