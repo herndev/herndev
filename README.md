@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max back-ordered, but don&#39;t expect new model](https://appleinsider.com/articles/23/01/23/airpods-max-back-ordered-but-dont-expect-new-model?utm_medium=rss)
- - [Deel, which offers HR software for hiring a remote global workforce, says it hit $295M ARR this month and confirms it raised $50M in Q2 2022 at a $12B valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230123/p18#a230123p18)
- - [Meross Smart LED Lightbulb review: Modernize any light socket in your home](https://appleinsider.com/articles/23/01/23/meross-smart-led-lightbulb-review-modernize-any-light-socket-in-your-home?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite on iOS is about to become even more limited](https://www.theverge.com/2023/1/23/23567661/fortnite-ios-mac-google-play-v-bucks-parental-controls)
+ - [Dbrand Nintendoes what Valve Nintenwon’t](https://www.theverge.com/23567250/dbrand-switchdeck-steam-deck-nintendo-switch-skin)
+ - [The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
