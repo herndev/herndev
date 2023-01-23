@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Avengers Is Dying, But Spider-Man Remains Trapped On PlayStation](https://kotaku.com/marvels-avengers-spiderman-playstation-xbox-pc-dlc-1850019046)
- - [Luz’s palisman finally hatched in The Owl House](https://www.polygon.com/23567563/owl-house-season-3-stringbean-luz-palisman-form)
- - [Modern Warfare 2&#39;s hardcore mode finally returns next month, but fans are upset it took this long](https://www.pcgamer.com/modern-warfare-2s-hardcore-mode-finally-returns-next-month-but-fans-are-upset-it-took-this-long)<!-- GAME:END -->
+ - [Forspoken reviews roundup: &#39;remarkably generic&#39;](https://www.pcgamer.com/forspoken-review-roundup)
+ - [Three years after its original release, the latest Trackmania is finally coming to Steam](https://www.pcgamer.com/three-years-after-its-original-release-the-latest-trackmania-is-finally-coming-to-steam)
+ - [The next SteamWorld game is a city builder, and there&#39;s a free demo out now](https://www.pcgamer.com/the-next-steamworld-game-is-a-city-builder-and-theres-a-free-demo-out-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
