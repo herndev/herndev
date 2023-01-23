@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
- - ⏩ [Come back king](http://9gag.com/gag/amAPGZy)
- - 👉 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
+ - 💣 [Pspspspspssssss](http://9gag.com/gag/aeQA1zj)
+ - ⏩ [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)
+ - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
 
 ---
 
