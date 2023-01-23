@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s slower hiring allows it to avoid wave of big tech layoffs](https://appleinsider.com/articles/23/01/22/apples-slower-hiring-allows-it-to-avoid-wave-of-big-tech-layoffs?utm_medium=rss)
- - [Samsung may put its free TV Plus streaming app into other manufacturers’ TVs](https://www.theverge.com/2023/1/22/23566741/samsung-free-tv-plus-streaming-tcl)
- - [Researchers and ex-Twitter staff: physical attacks in the US have tracked with spikes in some hate speech on Twitter, notably anti-Semitic and anti-gay rhetoric &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230122/p6#a230122p6)<!-- TECH:END -->
+ - [Sources: Donald Trump does not want to renew his Truth Social exclusivity contract, expiring in June 2023, and is asking for suggestions for his first tweet &lpar;Rolling Stone&rpar;](http://www.techmeme.com/230122/p8#a230122p8)
+ - [Sources: activist investor Elliott Management has made a multibillion-dollar investment in Salesforce &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230122/p7#a230122p7)
+ - [More People Need to Watch This Dark Netflix Time Travel Thriller     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-dark-netflix-time-travel-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
