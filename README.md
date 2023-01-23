@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #583, January 23](https://www.pcgamer.com/wordle-hint-answer-today-583-january-23)
  - [The Dead Space remake is too scary for its own technical director](https://www.pcgamer.com/the-dead-space-remake-is-too-scary-for-its-own-technical-director)
- - [Tape storage was up in 2022 while HDD sales fell](https://www.pcgamer.com/in-2022-tape-storage-was-up-while-hdd-sales-fell)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [Tape storage was up in 2022 while HDD sales fell](https://www.pcgamer.com/in-2022-tape-storage-was-up-while-hdd-sales-fell)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
