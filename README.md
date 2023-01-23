@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📸 Testing time with Sony’s best pocket camera](https://www.androidauthority.com/daily-authority-january-23-2023-3270487/)
- - [Best Gaming TV: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
- - [Best Men&#39;s Walking Shoes in 2023     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nier Automata anime hit by delays after first three episodes already released](https://www.theverge.com/2023/1/23/23567272/nier-automata-anime-delayed-episode-4-covid-19)
+ - [A look at the challenge of moderating livestreams for children and vulnerable users, even if age verification can be improved and privacy concerns addressed &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230123/p2#a230123p2)
+ - [Daily Authority: 📸 Testing time with Sony’s best pocket camera](https://www.androidauthority.com/daily-authority-january-23-2023-3270487/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
