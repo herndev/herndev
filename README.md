@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another relationshit post](http://9gag.com/gag/a047nRL)
- - ⏩ [Issued a base](http://9gag.com/gag/a9qEmzL)
- - 👉 [Selfless act by Maria Magdalena Andrejczyk](http://9gag.com/gag/abvVxPv)<!-- MEMES:END -->
+ - 💣 [That&#39;s n\u00f6t how you play the game](http://9gag.com/gag/aGEp8MX)
+ - ⏩ [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
+ - 👉 [Hungry magician](http://9gag.com/gag/amAP1o9)<!-- MEMES:END -->
 
 ---
 
