@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s headset to use 3D operating system that looks like iOS](https://appleinsider.com/articles/23/01/23/apples-headset-to-use-3d-operating-system-that-looks-like-ios?utm_medium=rss)
- - [Under a new agreement with Amazon, Stripe will expand its use of AWS and become a &quot;strategic payments partner&quot; for Amazon in the US, Europe, and Canada &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230123/p24#a230123p24)
- - [Meta Eyes a Moderation Partner With ‘Traumatizing’ Working Conditions](https://www.wired.com/story/metas-new-moderation-contractor-may-be-worse-than-its-last-one/)<!-- TECH:END -->
+ - [Apple releases iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 with FIDO key support for Apple ID, Advanced Data Protection, security fixes, and more &lpar;Mahmoud Itani/XDA Developers&rpar;](http://www.techmeme.com/230123/p28#a230123p28)
+ - [After OpenAI opened a waitlist for a faster paid version of ChatGPT, some users report seeing a &quot;pro&quot; plan for $42/month; no official announcement has been made &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230123/p27#a230123p27)
+ - [Investigation finds extensive evidence that AI used by CNET appears to have plagiarized the work of competitors and human writers at Bankrate and even CNET &lpar;Jon Christian/Futurism&rpar;](http://www.techmeme.com/230123/p26#a230123p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
