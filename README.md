@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [War Thunder](http://9gag.com/gag/a8qEenV)
- - ⏩ [.](http://9gag.com/gag/aeQAOZB)
- - 👉 [He takes his job seriously](http://9gag.com/gag/aoKMxye)<!-- MEMES:END -->
+ - 💣 [Just another relationshit post](http://9gag.com/gag/a047nRL)
+ - ⏩ [Issued a base](http://9gag.com/gag/a9qEmzL)
+ - 👉 [Selfless act by Maria Magdalena Andrejczyk](http://9gag.com/gag/abvVxPv)<!-- MEMES:END -->
 
 ---
 
