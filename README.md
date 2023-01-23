@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You cant catch us uwu!](http://9gag.com/gag/avQ5WZZ)
- - ⏩ [Oh, No Anyway.](http://9gag.com/gag/a4oEnE6)
- - 👉 [It is always morally correct to post this again and again...](http://9gag.com/gag/a9qEznL)<!-- MEMES:END -->
+ - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - ⏩ [Come back king](http://9gag.com/gag/amAPGZy)
+ - 👉 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
 
 ---
 
