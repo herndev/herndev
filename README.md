@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [343, Hit By Layoffs And Key Departures, Says It Will Keep Making Halo Games](https://kotaku.com/343-studios-halo-infinite-layoffs-microsoft-bungie-1850016947)
- - [GTA Online has its own Dark Souls-style critical security vulnerability on PC](https://www.pcgamer.com/grand-theft-auto-online-has-its-own-dark-souls-style-critical-security-vulnerability-on-pc)
- - [After a wave of layoffs, 343 studio head declares &#39;Halo and the Master Chief are here to stay&#39;](https://www.pcgamer.com/after-a-wave-of-layoffs-343-studio-head-declares-halo-and-the-master-chief-are-here-to-stay)<!-- GAME:END -->
+ - [The No-Fly List Has Been Leaked, TSA Investigating &#39;Cybersecurity Incident&#39;](https://kotaku.com/tsa-no-fly-list-leak-hack-hacked-pokemon-terrorist-1850017149)
+ - [Lost Ark&#39;s Witcher crossover is a disappointment](https://www.pcgamer.com/lost-arks-witcher-crossover-is-a-disappointment)
+ - [Marvel&#39;s Avengers Is Ending Development, Giving Away Cosmetics](https://kotaku.com/marvels-avengers-shutting-down-end-development-license-1850017092)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
