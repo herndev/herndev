@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
- - ⏩ [Been dreaming of this for 6 years](http://9gag.com/gag/aXnoMWP)
- - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
+ - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - ⏩ [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - 👉 [He takes his job seriously](http://9gag.com/gag/aoKMxye)<!-- MEMES:END -->
 
 ---
 
