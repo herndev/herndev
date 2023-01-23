@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweating is OP.](http://9gag.com/gag/amAPmEd)
- - ⏩ [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
- - 👉 [Been dreaming of this for 6 years](http://9gag.com/gag/aXnoMWP)<!-- MEMES:END -->
+ - 💣 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
+ - ⏩ [American police simulator](http://9gag.com/gag/a9qEyA1)
+ - 👉 [Marianne Bachmeier Shooting the Rapist and Murderer of her 7y/o Daughter in Court](http://9gag.com/gag/aDYd28K)<!-- MEMES:END -->
 
 ---
 
