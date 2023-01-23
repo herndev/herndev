@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch the Xbox &amp; Bethesda Developer_Direct on Wednesday](https://news.xbox.com/en-us/2023/01/23/xbox-bethesda-developer-direct-how-to-watch/)
- - [Dragon Age 4 just lost its veteran production director](https://www.pcgamer.com/dragon-age-4-just-lost-its-veteran-production-director)
- - [Dungeons &amp; Dragons movie trailer has yet more jokes, very fat dragon](https://www.polygon.com/23567423/dungeons-and-dragons-trailer-the-fat-dragon-one)<!-- GAME:END -->
+ - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [The Last Of Us&#39; Second Episode Ends In Tragedy](https://kotaku.com/last-of-us-tlou-hbo-tess-kiss-death-s1e2-recap-joel-1850017283)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
