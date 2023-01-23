@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
- - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - 👉 [He takes his job seriously](http://9gag.com/gag/aoKMxye)<!-- MEMES:END -->
+ - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - ⏩ [Wall-E](http://9gag.com/gag/a047X2Z)
+ - 👉 [That is not a good sound.](http://9gag.com/gag/amAPx2X)<!-- MEMES:END -->
 
 ---
 
