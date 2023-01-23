@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s The Best Time Of Year For This Cozy, Slow Burn Game](https://kotaku.com/a-space-for-the-unbound-review-indie-game-steam-pc-1850020374)
- - [10 Manga You Should Read If You Loved Chainsaw Man](https://kotaku.com/chainsaw-man-manga-dandadan-kaiju-no-8-hells-paradise-1850020318)
- - [Disney Fans Are Selling Splash Mountain Water After Ride Closes](https://kotaku.com/disney-world-splash-mountain-closing-selling-water-ebay-1850020287)<!-- GAME:END -->
+ - [Blizzard games go dark in China, with no return in sight: &#39;This is so tragic,&#39; says former Hearthstone director](https://www.pcgamer.com/blizzard-games-go-dark-in-china-with-no-return-in-sight-this-is-so-tragic-says-former-hearthstone-director)
+ - [Top Smash Ultimate Player Throws Controller At Tournament, Sparks &#39;Privilege&#39; Discourse](https://kotaku.com/super-smash-bros-ultimate-kazuya-chrom-riddles-genesis-1850020737)
+ - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
