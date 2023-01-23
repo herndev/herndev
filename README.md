@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pspspspspssssss](http://9gag.com/gag/aeQA1zj)
- - ⏩ [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)
- - 👉 [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)<!-- MEMES:END -->
+ - 💣 [+30% recoil stabilization -40% mobility](http://9gag.com/gag/avQ5yqW)
+ - ⏩ [Idiot getting bamboozled after trying to bypass highway toll](http://9gag.com/gag/a7qEqZb)
+ - 👉 [Cock magic killed this rat](http://9gag.com/gag/agoBoBg)<!-- MEMES:END -->
 
 ---
 
