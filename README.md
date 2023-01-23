@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
- - ⏩ [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
- - 👉 [American police simulator](http://9gag.com/gag/a9qEyA1)<!-- MEMES:END -->
+ - 💣 [Sweating is OP.](http://9gag.com/gag/amAPmEd)
+ - ⏩ [8 x Mr Olympia Ronnie Coleman today](http://9gag.com/gag/a047oLn)
+ - 👉 [Been dreaming of this for 6 years](http://9gag.com/gag/aXnoMWP)<!-- MEMES:END -->
 
 ---
 
