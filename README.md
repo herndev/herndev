@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.](http://9gag.com/gag/aeQAOZB)
- - ⏩ [Lord of balls](http://9gag.com/gag/aqej8nZ)
- - 👉 [Ir\u00f6n Mike](http://9gag.com/gag/a7qE0oz)<!-- MEMES:END -->
+ - 💣 [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - ⏩ [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)
+ - 👉 [American police simulator](http://9gag.com/gag/a9qEyA1)<!-- MEMES:END -->
 
 ---
 
