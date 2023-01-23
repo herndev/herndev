@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [The Last Of Us&#39; Second Episode Ends In Tragedy](https://kotaku.com/last-of-us-tlou-hbo-tess-kiss-death-s1e2-recap-joel-1850017283)<!-- GAME:END -->
+ - [D&amp;D movie villain revealed and, no, it’s not Vecna](https://www.polygon.com/23567509/dungeons-dragons-dnd-movie-villain-vecna-szass-tam)
+ - [HBO’s The Last Of Us Does Tess Dirty](https://kotaku.com/hbo-last-of-us-tess-anna-torv-episode-two-death-kiss-1850018175)
+ - [This rhythm game just became one of Steam&#39;s worst games of all time](https://www.pcgamer.com/this-rhythm-game-just-became-one-of-steams-worst-games-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
