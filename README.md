@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s n\u00f6t how you play the game](http://9gag.com/gag/aGEp8MX)
- - ⏩ [Careful what you ask for. Seems like a real nice boss, loyal to his staff too](http://9gag.com/gag/a8qE6KY)
- - 👉 [Hungry magician](http://9gag.com/gag/amAP1o9)<!-- MEMES:END -->
+ - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - ⏩ [Serenade Sad](http://9gag.com/gag/abvVebB)
+ - 👉 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 ---
 
