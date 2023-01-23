@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aOx3e12)
- - ⏩ [Most important award](http://9gag.com/gag/a047V1O)
- - 👉 [Michelle Pfeiffer whipped the heads off those four mannequins on her first try, applause from the Batman Return&#39;s crew!](http://9gag.com/gag/a7qEOYm)<!-- MEMES:END -->
+ - 💣 [Not gonna lie, there was a 50% chance she wasn&#39;t gonna come back alive, or at all!](http://9gag.com/gag/awZM3D8)
+ - ⏩ [.](http://9gag.com/gag/aeQAOZB)
+ - 👉 [American police simulator](http://9gag.com/gag/a9qEyA1)<!-- MEMES:END -->
 
 ---
 
