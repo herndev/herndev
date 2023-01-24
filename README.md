@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When japanese tv thought Cristiano was brazilian...](http://9gag.com/gag/adP8RV2)
- - ⏩ [Unintentional](http://9gag.com/gag/anzQGY5)
- - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
+ - 💣 [Welcome to Ace Magashules&#39; paradise!!](http://9gag.com/gag/aDYdZ9B)
+ - ⏩ [God&#39;s developer console](http://9gag.com/gag/adP8erZ)
+ - 👉 [Greta lying to the world.](http://9gag.com/gag/aPg3obw)<!-- MEMES:END -->
 
 ---
 
