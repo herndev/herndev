@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are the 2023 Oscar nominations](https://www.polygon.com/23568882/oscar-nominations-2023-list)
  - [Here are the Forspoken release times for each region](https://www.pcgamer.com/forspoken-release-times)
- - [OpenAI&#39;s ChatGPT Pro ain&#39;t gonna be cheap](https://www.pcgamer.com/openais-chatgpt-pro-aint-gonna-be-cheap)
- - [I think AMD needs to stop letting interns update its upcoming CPU info pages](https://www.pcgamer.com/i-think-amd-needs-to-stop-letting-interns-update-its-upcoming-cpu-info-pages)<!-- GAME:END -->
+ - [OpenAI&#39;s ChatGPT Pro ain&#39;t gonna be cheap](https://www.pcgamer.com/openais-chatgpt-pro-aint-gonna-be-cheap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
