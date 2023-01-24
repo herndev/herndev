@@ -117,11 +117,11 @@ Linux                    13 hrs 10 mins      ██████████░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2551](https://github.com/marcizhu/marcizhu/issues/2551) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗️ Opened issue [#2466](https://github.com/marcizhu/marcizhu/issues/2466) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Opened issue [#2464](https://github.com/marcizhu/marcizhu/issues/2464) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 🎉 Merged PR [#19](https://github.com/herndev/ReactJS-Portfolio/pull/19) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. ❗️ Opened issue [#2444](https://github.com/marcizhu/marcizhu/issues/2444) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+1. ❗️ Opened issue [#2577](https://github.com/marcizhu/marcizhu/issues/2577) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. ❗️ Opened issue [#2551](https://github.com/marcizhu/marcizhu/issues/2551) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. ❗️ Opened issue [#2466](https://github.com/marcizhu/marcizhu/issues/2466) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ❗️ Opened issue [#2464](https://github.com/marcizhu/marcizhu/issues/2464) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. 🎉 Merged PR [#19](https://github.com/herndev/ReactJS-Portfolio/pull/19) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
 <!--END_SECTION:activity-->
 
 ---
