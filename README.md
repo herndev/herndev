@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ending](http://9gag.com/gag/aNwp4Gb)
- - ⏩ [These new restaurants and their stupid concepts to charge you triple the price](http://9gag.com/gag/axoMPo2)
- - 👉 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
+ - 💣 [God&#39;s developer console](http://9gag.com/gag/adP8erZ)
+ - ⏩ [.](http://9gag.com/gag/aeQAOZB)
+ - 👉 [Wall-E](http://9gag.com/gag/a047X2Z)<!-- MEMES:END -->
 
 ---
 
