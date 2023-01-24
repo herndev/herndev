@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Clear Calling on the Pixel 7 and 7 Pro](https://www.theverge.com/23568039/google-pixel-7-pro-clear-calling-how-to)
- - [Tuesday’s top tech news: Lightyear’s buzz fizzles](https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog)
- - [Daily Deals Jan. 24: $550 off 14-inch MacBook Pro, 20% off Bose Smart Soundbar 900, $100 off M2 iPad Pro 12.9-inch with AppleCare &amp; more](https://appleinsider.com/articles/23/01/24/daily-deals-jan-24-550-off-14-inch-macbook-pro-20-off-bose-smart-soundbar-900-100-off-m2-ipad-pro-129-inch-with-applecare-more?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung may bump up the brightness to 1750 nits on all Galaxy S23 models](https://www.androidauthority.com/samsung-s23-brightness-3271168/)
+ - [Right-to-repair advocate urges Apple to let resellers bypass security protocols](https://appleinsider.com/articles/23/01/24/right-to-repair-advocate-urges-apple-to-let-resellers-bypass-security-protocols?utm_medium=rss)
+ - [Google plans to end a pilot program to let political campaigns evade its email spam filters and says in a filing the RNC did not join the pilot before midterms &lpar;Isaac Stanley-Becker/Washington Post&rpar;](http://www.techmeme.com/230124/p20#a230124p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
