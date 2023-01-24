@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gager getting married](http://9gag.com/gag/aNwpR14)
- - ⏩ [Wall-E](http://9gag.com/gag/a047X2Z)
- - 👉 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)<!-- MEMES:END -->
+ - 💣 [The ending](http://9gag.com/gag/aNwp4Gb)
+ - ⏩ [These new restaurants and their stupid concepts to charge you triple the price](http://9gag.com/gag/axoMPo2)
+ - 👉 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 ---
 
