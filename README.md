@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;ll be right back.](http://9gag.com/gag/aEqpD3x)
- - ⏩ [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 👉 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
+ - 💣 [VSCode users be like :](http://9gag.com/gag/aL1pGN5)
+ - ⏩ [Side effects of Pfizer\u2019s vaccine on an healthy young man!Stay safe](http://9gag.com/gag/agoB84g)
+ - 👉 [So wholesome! Man tells his wife she\u2019s going to complete a lifetime dream of riding the Zamboni at the NHL game the next day &lpar;u/jizzlefizzle55&rpar;](http://9gag.com/gag/anzQ20b)<!-- MEMES:END -->
 
 ---
 
