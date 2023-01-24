@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Magical Parkour And Spooky Spaceships](https://kotaku.com/january-game-releases-this-week-forspoken-dead-space-1850019859)
- - [Warhammer 40K’s new status quo is absolutely wild](https://www.polygon.com/23567890/warhammer-40k-dark-imperium-explained-chaos-gate-roboute-guilliman-return-godblight)
- - [Microsoft subpoenas Sony, and all the latest on the Activision Blizzard acquisition](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [Tabletop funding was down on Kickstarter in 2022, but more campaigns succeeded overall](https://www.polygon.com/tabletop-games/23552590/kickstarter-top-10-largest-most-backed-board-games-campaigns-2022)
+ - [Cranium party game has a bold new developer — Funko Games](https://www.polygon.com/23569111/cranium-reboot-rerelease-25th-anniversary-funko-prospero-hall)
+ - [Vox Machina’s Chroma Conclave dragons go harder than Matt Mercer even imagined](https://www.polygon.com/23568085/legend-of-vox-machina-chroma-conclave-critical-role-cast-matt-mercer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
