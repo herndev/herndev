@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #584, January 24](https://www.pcgamer.com/wordle-hint-answer-today-584-january-24)
  - [How long does it take to finish Forspoken?](https://www.polygon.com/guides/23567800/forspoken-length-chapter-list-how-long-to-beat-frey-story)
- - [The Forspoken settings you should try from the start](https://www.polygon.com/guides/23564438/forspoken-accessibility-settings-visual-modes-cuff-dialogue-frequency-ps5-pc)
- - [9 things to know before starting Forspoken](https://www.polygon.com/guides/23563910/forspoken-beginners-guide-tips-tricks-spellcraft-fast-travel-pc-ps5)<!-- GAME:END -->
+ - [The Forspoken settings you should try from the start](https://www.polygon.com/guides/23564438/forspoken-accessibility-settings-visual-modes-cuff-dialogue-frequency-ps5-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
