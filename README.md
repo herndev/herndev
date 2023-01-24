@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends Source Code Hacked, Riot Refuses To Pay Blackmail](https://kotaku.com/league-legends-team-fight-riot-games-hack-source-code-1850024256)
- - [Hackers holding League of Legends, Teamfight Tactics source code for ransom](https://www.polygon.com/23569171/league-of-legends-teamfight-tactics-riot-games-source-code-hack)
- - [How long is Fire Emblem Engage?](https://www.polygon.com/guides/23569108/fire-emblem-engage-how-long-playtime-length-progress-chapter-list-nintendo-switch)<!-- GAME:END -->
+ - [Twitter Keeps Sharing &#39;Useless&#39; Video Game Knowledge That&#39;s Actually Amazing](https://kotaku.com/twitter-useless-video-game-knowledge-super-mario-halo-2-1850024695)
+ - [Dungeons &amp; Dragons&#39; OGL isn&#39;t worth fighting for](https://www.pcgamer.com/dungeons-and-dragons-ogl-isnt-worth-fighting-for)
+ - [Metro Exodus&#39; Ukrainian devs release full modding toolkit in first update since war began](https://www.pcgamer.com/metro-exodus-ukrainian-devs-release-full-modding-toolkit-in-first-update-since-war-began)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
