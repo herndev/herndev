@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God&#39;s developer console](http://9gag.com/gag/adP8erZ)
- - ⏩ [.](http://9gag.com/gag/aeQAOZB)
- - 👉 [Wall-E](http://9gag.com/gag/a047X2Z)<!-- MEMES:END -->
+ - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - ⏩ [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 👉 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
 
 ---
 
