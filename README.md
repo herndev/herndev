@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Holiday Matsuri](https://kotaku.com/holiday-matsuri-2022-cosplay-photos-gallery-video-1850021628)
- - [Blizzard once again bans Overwatch 2 &#39;sexual harassment simulator,&#39; but not before it reappeared in the popular list](https://www.pcgamer.com/blizzard-once-again-bans-overwatch-2-sexual-harassment-simulator-but-not-before-it-reappeared-in-the-popular-list)
- - [Steam&#39;s second most-wishlisted game is a huge mystery—here&#39;s what we know about it](https://www.pcgamer.com/steams-second-most-wishlisted-game-is-a-huge-mysteryheres-what-we-know-about-it)<!-- GAME:END -->
+ - [How long does it take to finish Forspoken?](https://www.polygon.com/guides/23567800/forspoken-length-chapter-list-how-long-to-beat-frey-story)
+ - [The Forspoken settings you should try from the start](https://www.polygon.com/guides/23564438/forspoken-accessibility-settings-visual-modes-cuff-dialogue-frequency-ps5-pc)
+ - [9 things to know before starting Forspoken](https://www.polygon.com/guides/23563910/forspoken-beginners-guide-tips-tricks-spellcraft-fast-travel-pc-ps5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
