@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the DOJ is poised to sue Google over its dominance in the $278.6B US digital advertising market before the end of the week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)
+ - [Sources: the DOJ is poised to sue Google this week for dominating the $278.6B US digital ad market, the fifth major US case challenging its business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)
  - [Apple still on track for iPad Pro revamp with OLED display in 2024](https://appleinsider.com/articles/23/01/24/apple-still-on-track-for-ipad-pro-revamp-with-oled-display-in-2024?utm_medium=rss)
  - [&#39;The Last of Us&#39; Episode 2 Makes Major Changes to Game&#39;s Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-2-makes-major-changes-to-the-games-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
