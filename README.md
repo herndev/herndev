@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - ⏩ [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 💣 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
+ - ⏩ [He takes his job seriously](http://9gag.com/gag/aoKMxye)
  - 👉 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
 
 ---
