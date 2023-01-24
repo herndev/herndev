@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - ⏩ [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - 👉 [Wall-E](http://9gag.com/gag/a047X2Z)<!-- MEMES:END -->
+ - 💣 [Dont forget about the $2500 euros per night prostitutes](http://9gag.com/gag/aeQAmeO)
+ - ⏩ [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 👉 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 ---
 
