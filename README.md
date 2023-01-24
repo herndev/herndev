@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan&#39;s Foxconn and Apple suppliers Pegatron, Quanta, and Compal plan to grow their manufacturing presence in Mexico in 2023 to diversify from China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230124/p16#a230124p16)
- - [Future HomePod could detect dancing &amp; change the music automatically](https://appleinsider.com/articles/23/01/24/future-homepod-could-detect-dancing-change-the-music-automatically?utm_medium=rss)
- - [Save $280 on This Arlo Pro 4 Security Camera Bundle Today     - CNET](https://www.cnet.com/deals/secure-your-space-and-save-280-on-this-arlo-pro-4-security-camera-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Clear Calling on the Pixel 7 and 7 Pro](https://www.theverge.com/23568039/google-pixel-7-pro-clear-calling-how-to)
+ - [Tuesday’s top tech news: Lightyear’s buzz fizzles](https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog)
+ - [Daily Deals Jan. 24: $550 off 14-inch MacBook Pro, 20% off Bose Smart Soundbar 900, $100 off M2 iPad Pro 12.9-inch with AppleCare &amp; more](https://appleinsider.com/articles/23/01/24/daily-deals-jan-24-550-off-14-inch-macbook-pro-20-off-bose-smart-soundbar-900-100-off-m2-ipad-pro-129-inch-with-applecare-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
