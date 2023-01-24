@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a system for &quot;stealth addresses&quot;, using zero-knowledge proofs, may offer an easier, better way to improve privacy on Ethereum vs. hiding or mixing transfers &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230123/p29#a230123p29)
- - [Mac mini M2 packs a performance punch for under $600](https://appleinsider.com/articles/23/01/23/mac-mini-m2-packs-a-performance-punch-for-under-600?utm_medium=rss)
- - [Monday’s top tech news: the beginning of the end for Windows 10](https://www.theverge.com/2023/1/23/23567280/january-23-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Source: Satya Nadella voiced concerns Microsoft was slow to commercialize its AI research advances; in 2022, its researchers said Apple and Google seemed ahead &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230123/p30#a230123p30)
+ - [Deal: Get the whole Microsoft Office suite for just $29.99 &lpar;all-time low!&rpar;](https://www.androidauthority.com/microsoft-office-deal-3270908/)
+ - [Harley Quinn wants you to get yours this Valentine’s Day](https://www.theverge.com/2023/1/23/23568227/harley-quinn-probemlatic-valentines-day-hbo-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
