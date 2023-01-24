@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entry level M2 Mac mini, 2023 MacBook Pro have slower SSD than predecessors](https://appleinsider.com/articles/23/01/24/entry-level-m2-mac-mini-2023-macbook-pro-have-slower-ssd-than-predecessors?utm_medium=rss)
- - [Microsoft Cloud revenue grew 22% YoY to $27.1B, including $21.5B from Intelligent Cloud, up 18% YoY, driven by Azure and other cloud services growth of 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230124/p32#a230124p32)
- - [Microsoft reports Q2 devices revenue down 39% YoY, Xbox hardware revenue down 13%, Xbox content and services revenue down 12%, and Windows OEM revenue down 39% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230124/p31#a230124p31)<!-- TECH:END -->
+ - [Galaxy S23 pricing likely won’t change in the US, but may go up everywhere else](https://www.androidauthority.com/galaxy-s23-pricing-3271432/)
+ - [Twitter updates its web version to default to the timeline a user had open last, rather than reverting to the algorithmic feed; coming to iOS and Android &quot;soon&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230124/p33#a230124p33)
+ - [How the Spotify layoffs impact its podcasting business](https://www.theverge.com/2023/1/24/23569956/spotify-layoff-podcast-ostroff-rogan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
