@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Washington Post Shutting Down Gaming Section Amid Wider Layoffs](https://kotaku.com/washington-post-launcher-layoffs-giant-bomb-games-media-1850025471)
- - [Whoops! The latest Destiny 2 hotfix deleted a bunch of incredibly hard-to-earn achievements](https://www.pcgamer.com/whoops-the-latest-destiny-2-hotfix-deleted-a-bunch-of-incredibly-hard-to-earn-achievements)
- - [16 games we think could be surprise hits in 2023](https://www.pcgamer.com/2023-surprise-pc-games)<!-- GAME:END -->
+ - [Fatshark pauses Darktide content updates as it apologizes botched launch](https://www.pcgamer.com/fatshark-pauses-darktide-content-updates-as-it-apologizes-botched-launch)
+ - [Stranger Things’ Finn Wolfhard has somehow become a TikTok transition](https://www.polygon.com/23569348/finn-wolfhard-snapping-video-tiktok-trend-stranger-things-meme)
+ - [Joker and Penguin score Oscar noms, Riddler snubbed](https://www.polygon.com/23569649/oscar-nominations-batman-colin-farrell-barry-keoghan-paul-dano-snubs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
