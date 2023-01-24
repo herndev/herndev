@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - ⏩ [Wtf is it??!! And what the f**k is it made off!!??](http://9gag.com/gag/aVb7KBd)
- - 👉 [Moral Codes first](http://9gag.com/gag/aYVoMoV)<!-- MEMES:END -->
+ - 💣 [We&#39;ll be right back.](http://9gag.com/gag/aEqpD3x)
+ - ⏩ [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 👉 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)<!-- MEMES:END -->
 
 ---
 
