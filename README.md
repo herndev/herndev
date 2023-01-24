@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp releases a beta version of its native macOS app, built using Mac Catalyst, to all users via its website, following a limited TestFlight app beta &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230124/p22#a230124p22)
- - [Pick up Apple&#39;s M2 Mac mini 2023 for just $549](https://appleinsider.com/articles/23/01/21/pick-up-apples-m2-mac-mini-2023-for-just-499?utm_medium=rss)
- - [New &#39;Today at Apple&#39; and video launch for Data Privacy Day](https://appleinsider.com/articles/23/01/24/new-today-at-apple-and-video-launch-for-data-privacy-day?utm_medium=rss)<!-- TECH:END -->
+ - [Riot Games says it will not pay a ransom after hackers exfiltrated source code for League of Legends, Teamfight Tactics, and a &quot;legacy anticheat platform&quot; &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230124/p25#a230124p25)
+ - [Riot Games warns of new game cheats following security breach](https://www.theverge.com/2023/1/24/23569386/riot-games-cyberattack-breach-cheats-code-exposed)
+ - [The DOJ sues Google, joined by California and seven other US states, calling to break up its adtech business over alleged monopolization of the US ad market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230124/p24#a230124p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
