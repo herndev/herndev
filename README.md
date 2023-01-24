@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dbrand releases Switch-themed Steam Deck skin: &#39;Lawyers we paid to say &#39;it&#39;s legal&#39; said it&#39;s legal&#39;](https://www.pcgamer.com/dbrand-releases-switch-themed-steam-deck-skin-lawyers-we-paid-to-say-its-legal-said-its-legal)
  - [Wordle hint and answer today: Let&#39;s solve #584, January 24](https://www.pcgamer.com/wordle-hint-answer-today-584-january-24)
- - [How long does it take to finish Forspoken?](https://www.polygon.com/guides/23567800/forspoken-length-chapter-list-how-long-to-beat-frey-story)
- - [The Forspoken settings you should try from the start](https://www.polygon.com/guides/23564438/forspoken-accessibility-settings-visual-modes-cuff-dialogue-frequency-ps5-pc)<!-- GAME:END -->
+ - [How long does it take to finish Forspoken?](https://www.polygon.com/guides/23567800/forspoken-length-chapter-list-how-long-to-beat-frey-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
