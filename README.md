@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forspoken demo is now on PC](https://www.pcgamer.com/forspoken-demo-is-now-on-pc)
- - [Why Tiger Woods&#39; golf ball is a grenade, and other amazing videogame trivia](https://www.pcgamer.com/why-tiger-woods-golf-ball-is-a-grenade-and-other-amazing-videogame-trivia)
- - [Blizzard Boston Devs Blame Boss For Torpedoing Union](https://kotaku.com/blizzard-proletariat-world-warcraft-dragonflight-union-1850024926)<!-- GAME:END -->
+ - [Washington Post Shutting Down Gaming Section Amid Wider Layoffs](https://kotaku.com/washington-post-launcher-layoffs-giant-bomb-games-media-1850025471)
+ - [Whoops! The latest Destiny 2 hotfix deleted a bunch of incredibly hard-to-earn achievements](https://www.pcgamer.com/whoops-the-latest-destiny-2-hotfix-deleted-a-bunch-of-incredibly-hard-to-earn-achievements)
+ - [16 games we think could be surprise hits in 2023](https://www.pcgamer.com/2023-surprise-pc-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
