@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 could block app sideloading to some extent](https://www.androidauthority.com/android-14-app-downloads-3270993/)
- - [Paris-based PASQAL, which builds quantum computers using neutral atoms, raised a &amp;euro;100M Series B led by Temasek, bringing its total funding to &amp;euro;125M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230124/p4#a230124p4)
- - [Google plans to sunset Optimize and Optimize 360, which let marketers conduct A/B testing to improve their website or app user experience, on September 30, 2023 &lpar;Nicole Farley/Search Engine Land&rpar;](http://www.techmeme.com/230124/p3#a230124p3)<!-- TECH:END -->
+ - [Someone fitted a Pixel 5a battery into a Pixel 4a for 17% extra battery life](https://www.androidauthority.com/google-pixel-5a-battery-in-pixel-4a-3271005/)
+ - [How Esther Crawford, Twitter&#39;s director of product management, became one of the most influential leaders from the old guard in Elon Musk&#39;s &quot;hardcore&quot; Twitter &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230124/p5#a230124p5)
+ - [Google Messages could finally get this staple messaging feature](https://www.androidauthority.com/google-messages-user-profiles-3270992/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
