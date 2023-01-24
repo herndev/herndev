@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah\u2026](http://9gag.com/gag/aeQA4VO)
+ - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
  - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - 👉 [Moral Codes first](http://9gag.com/gag/aYVoMoV)<!-- MEMES:END -->
+ - 👉 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
 
 ---
 
