@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At 64 years old Kelly McGillis didn\u2019t receive a Top Gun 2 role because she said the production wanted her to have plastic surgery or dye her now-grey hair back to blonde.](http://9gag.com/gag/aVb7Rwd)
- - ⏩ [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
- - 👉 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
+ - 💣 [When japanese tv thought Cristiano was brazilian...](http://9gag.com/gag/adP8RV2)
+ - ⏩ [Unintentional](http://9gag.com/gag/anzQGY5)
+ - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
 
 ---
 
