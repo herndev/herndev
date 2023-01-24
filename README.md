@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - ⏩ [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
- - 👉 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
+ - 💣 [Wall-E](http://9gag.com/gag/a047X2Z)
+ - ⏩ [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
+ - 👉 [War Thunder](http://9gag.com/gag/a8qEenV)<!-- MEMES:END -->
 
 ---
 
