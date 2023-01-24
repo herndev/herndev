@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to shut down spam backdoor for political campaigns](https://www.theverge.com/2023/1/24/23569761/google-gmail-spam-backdoor-republicans-gop-rnc-nrsc)
- - [Research: African tech startups raised $1.55B in 71 debt deals in 2022, up from $767M in 2021, and startup funding rose 8% YoY, compared to a 35% drop globally &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/230124/p29#a230124p29)
- - [Google is being sued by the US government and eight states over online advertising](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)<!-- TECH:END -->
+ - [Entry level M2 Mac mini, 2023 MacBook Pro have slower SSD than predecessors](https://appleinsider.com/articles/23/01/24/entry-level-m2-mac-mini-2023-macbook-pro-have-slower-ssd-than-predecessors?utm_medium=rss)
+ - [Microsoft Cloud revenue grew 22% YoY to $27.1B, including $21.5B from Intelligent Cloud, up 18% YoY, driven by Azure and other cloud services growth of 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230124/p32#a230124p32)
+ - [Microsoft reports Q2 devices revenue down 39% YoY, Xbox hardware revenue down 13%, Xbox content and services revenue down 12%, and Windows OEM revenue down 39% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230124/p31#a230124p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
