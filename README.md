@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wall-E](http://9gag.com/gag/a047X2Z)
- - ⏩ [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - 👉 [War Thunder](http://9gag.com/gag/a8qEenV)<!-- MEMES:END -->
+ - 💣 [Don&#39;t miss the adult one](http://9gag.com/gag/aDYdVgO)
+ - ⏩ [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - 👉 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
 
 ---
 
