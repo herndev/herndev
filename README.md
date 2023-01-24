@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Satya Nadella voiced concerns Microsoft was slow to commercialize its AI research advances; in 2022, its researchers said Apple and Google seemed ahead &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230123/p30#a230123p30)
- - [Deal: Get the whole Microsoft Office suite for just $29.99 &lpar;all-time low!&rpar;](https://www.androidauthority.com/microsoft-office-deal-3270908/)
- - [Harley Quinn wants you to get yours this Valentine’s Day](https://www.theverge.com/2023/1/23/23568227/harley-quinn-probemlatic-valentines-day-hbo-max)<!-- TECH:END -->
+ - [The Meta Quest’s improved hand tracking is now the default](https://www.theverge.com/2023/1/23/23568391/meta-quest-hand-tracking-2-0-default)
+ - [Samsung Galaxy A13 5G review: functional, no-frills 5G](https://www.theverge.com/22907086/samsung-galaxy-a13-5g-review-price-screen-specs)
+ - [WWE Royal Rumble 2023: Predictions, How to Watch, Start Times and Match Card     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-predictions-how-to-watch-start-times-and-match-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
