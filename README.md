@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the 2023 Oscar nominations](https://www.polygon.com/23568882/oscar-nominations-2023-list)
- - [Here are the Forspoken release times for each region](https://www.pcgamer.com/forspoken-release-times)
- - [OpenAI&#39;s ChatGPT Pro ain&#39;t gonna be cheap](https://www.pcgamer.com/openais-chatgpt-pro-aint-gonna-be-cheap)<!-- GAME:END -->
+ - [The Week In Games: Magical Parkour And Spooky Spaceships](https://kotaku.com/january-game-releases-this-week-forspoken-dead-space-1850019859)
+ - [Warhammer 40K’s new status quo is absolutely wild](https://www.polygon.com/23567890/warhammer-40k-dark-imperium-explained-chaos-gate-roboute-guilliman-return-godblight)
+ - [Microsoft subpoenas Sony, and all the latest on the Activision Blizzard acquisition](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
