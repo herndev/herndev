@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Mac mini 512GB is on sale for $699 thanks to a $100 discount](https://appleinsider.com/articles/23/01/24/apples-m2-mac-mini-512gb-is-on-sale-for-699-thanks-to-a-100-discount?utm_medium=rss)
- - [Netflix, Apple and Amazon accounted for 19 Oscars nominations, down from 37 in 2022, and only one streaming title garnered more than one nomination &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230124/p28#a230124p28)
- - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [US sues Google over digital ad market monopoly](https://appleinsider.com/articles/23/01/24/us-sues-google-over-digital-ad-market-monopoly?utm_medium=rss)
+ - [Google is being sued by the US government and eight states over online advertising](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
+ - [DOJ files lawsuit against Google for having a digital ad monopoly](https://www.androidauthority.com/doj-google-lawsuit-3271329/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
