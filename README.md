@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar 2 gets a facelift, goes both faster and farther for 2024](https://www.theverge.com/2023/1/24/23568155/polestar-2-model-2024-facelift-redesign-smartzone-rear-wheel-drive)
- - [Garmin adds FDA-cleared EKGs to its Venu 2 Plus smartwatch](https://www.theverge.com/2023/1/24/23567610/garmin-venu-2-plus-ekg-fda)
- - [NYPD finds AirTag tracking its patrol car](https://appleinsider.com/articles/23/01/24/nypd-finds-airtag-tracking-its-patrol-car?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: increased SEC scrutiny of Circle, eToro, Galaxy Digital, and other crypto companies have blocked them from going public in the US over the past year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230124/p15#a230124p15)
+ - [A look at Sam Bankman-Fried&#39;s $400M investment in obscure hedge fund Modulo, shortly before FTX collapsed; Modulo&#39;s executives had close ties to SBF and FTX &lpar;New York Times&rpar;](http://www.techmeme.com/230124/p14#a230124p14)
+ - [M2 Pro &amp; Max MacBook Pro SSD write speeds faster than M1](https://appleinsider.com/articles/23/01/24/m2-pro-max-macbook-pro-ssd-write-speeds-faster-than-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
