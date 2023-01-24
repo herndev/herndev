@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I think AMD needs to stop letting interns update its upcoming CPU info pages](https://www.pcgamer.com/i-think-amd-needs-to-stop-letting-interns-update-its-upcoming-cpu-info-pages)
- - [Swearing rats mod for Oblivion puts its vermin in permanent meltdown mode](https://www.pcgamer.com/swearing-rats-mod-for-oblivion-puts-its-vermin-in-permanent-meltdown-mode)
- - [Dbrand releases Switch-themed Steam Deck skin: &#39;Lawyers we paid to say &#39;it&#39;s legal&#39; said it&#39;s legal&#39;](https://www.pcgamer.com/dbrand-releases-switch-themed-steam-deck-skin-lawyers-we-paid-to-say-its-legal-said-its-legal)<!-- GAME:END -->
+ - [Here are the Forspoken release times for each region](https://www.pcgamer.com/forspoken-release-times)
+ - [OpenAI&#39;s ChatGPT Pro ain&#39;t gonna be cheap](https://www.pcgamer.com/openais-chatgpt-pro-aint-gonna-be-cheap)
+ - [I think AMD needs to stop letting interns update its upcoming CPU info pages](https://www.pcgamer.com/i-think-amd-needs-to-stop-letting-interns-update-its-upcoming-cpu-info-pages)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
