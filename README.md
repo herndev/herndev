@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [VSCode users be like :](http://9gag.com/gag/aL1pGN5)
- - ⏩ [Side effects of Pfizer\u2019s vaccine on an healthy young man!Stay safe](http://9gag.com/gag/agoB84g)
- - 👉 [So wholesome! Man tells his wife she\u2019s going to complete a lifetime dream of riding the Zamboni at the NHL game the next day &lpar;u/jizzlefizzle55&rpar;](http://9gag.com/gag/anzQ20b)<!-- MEMES:END -->
+ - 💣 [9gager getting married](http://9gag.com/gag/aNwpR14)
+ - ⏩ [Wall-E](http://9gag.com/gag/a047X2Z)
+ - 👉 [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)<!-- MEMES:END -->
 
 ---
 
