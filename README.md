@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard&#39;s &#39;Workplace Ranking&#39; For Employees Sounds Like Hell](https://kotaku.com/blizzard-manager-fired-policy-wow-classic-terminated-1850021036)
- - [Persona 3 &amp; 4 Translators Left Out Of Game&#39;s Credits](https://kotaku.com/persona-localisation-translation-credits-sega-3-4-1850017066)
- - [Microsoft confirms &#39;multiyear, multibillion dollar investment&#39; in the maker of ChatGPT and DALL-E](https://www.pcgamer.com/microsoft-confirms-multiyear-multibillion-dollar-investment-in-the-maker-of-chatgpt-and-dall-e)<!-- GAME:END -->
+ - [Blizzard once again bans Overwatch 2 &#39;sexual harassment simulator,&#39; but not before it reappeared in the popular list](https://www.pcgamer.com/blizzard-once-again-bans-overwatch-2-sexual-harassment-simulator-but-not-before-it-reappeared-in-the-popular-list)
+ - [Steam&#39;s second most-wishlisted game is a huge mystery—here&#39;s what we know about it](https://www.pcgamer.com/steams-second-most-wishlisted-game-is-a-huge-mysteryheres-what-we-know-about-it)
+ - [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
