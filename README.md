@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riot Games says it will not pay a ransom after hackers exfiltrated source code for League of Legends, Teamfight Tactics, and a &quot;legacy anticheat platform&quot; &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230124/p25#a230124p25)
- - [Riot Games warns of new game cheats following security breach](https://www.theverge.com/2023/1/24/23569386/riot-games-cyberattack-breach-cheats-code-exposed)
- - [The DOJ sues Google, joined by California and seven other US states, calling to break up its adtech business over alleged monopolization of the US ad market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230124/p24#a230124p24)<!-- TECH:END -->
+ - [Apple&#39;s M2 Mac mini 512GB is on sale for $699 thanks to a $100 discount](https://appleinsider.com/articles/23/01/24/apples-m2-mac-mini-512gb-is-on-sale-for-699-thanks-to-a-100-discount?utm_medium=rss)
+ - [Netflix, Apple and Amazon accounted for 19 Oscars nominations, down from 37 in 2022, and only one streaming title garnered more than one nomination &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230124/p28#a230124p28)
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
