@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - ⏩ [Greta lying to the world.](http://9gag.com/gag/aPg3obw)
- - 👉 [When japanese tv thought Cristiano was brazilian...](http://9gag.com/gag/adP8RV2)<!-- MEMES:END -->
+ - 💣 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
+ - ⏩ [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - 👉 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
 
 ---
 
