@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tabletop funding was down on Kickstarter in 2022, but more campaigns succeeded overall](https://www.polygon.com/tabletop-games/23552590/kickstarter-top-10-largest-most-backed-board-games-campaigns-2022)
- - [Cranium party game has a bold new developer — Funko Games](https://www.polygon.com/23569111/cranium-reboot-rerelease-25th-anniversary-funko-prospero-hall)
- - [Vox Machina’s Chroma Conclave dragons go harder than Matt Mercer even imagined](https://www.polygon.com/23568085/legend-of-vox-machina-chroma-conclave-critical-role-cast-matt-mercer)<!-- GAME:END -->
+ - [League of Legends Source Code Hacked, Riot Refuses To Pay Blackmail](https://kotaku.com/league-legends-team-fight-riot-games-hack-source-code-1850024256)
+ - [Hackers holding League of Legends, Teamfight Tactics source code for ransom](https://www.polygon.com/23569171/league-of-legends-teamfight-tactics-riot-games-source-code-hack)
+ - [How long is Fire Emblem Engage?](https://www.polygon.com/guides/23569108/fire-emblem-engage-how-long-playtime-length-progress-chapter-list-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
