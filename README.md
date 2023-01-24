@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard games go dark in China, with no return in sight: &#39;This is so tragic,&#39; says former Hearthstone director](https://www.pcgamer.com/blizzard-games-go-dark-in-china-with-no-return-in-sight-this-is-so-tragic-says-former-hearthstone-director)
- - [Top Smash Ultimate Player Throws Controller At Tournament, Sparks &#39;Privilege&#39; Discourse](https://kotaku.com/super-smash-bros-ultimate-kazuya-chrom-riddles-genesis-1850020737)
- - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)<!-- GAME:END -->
+ - [Blizzard&#39;s &#39;Workplace Ranking&#39; For Employees Sounds Like Hell](https://kotaku.com/blizzard-manager-fired-policy-wow-classic-terminated-1850021036)
+ - [Persona 3 &amp; 4 Translators Left Out Of Game&#39;s Credits](https://kotaku.com/persona-localisation-translation-credits-sega-3-4-1850017066)
+ - [Microsoft confirms &#39;multiyear, multibillion dollar investment&#39; in the maker of ChatGPT and DALL-E](https://www.pcgamer.com/microsoft-confirms-multiyear-multibillion-dollar-investment-in-the-maker-of-chatgpt-and-dall-e)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
