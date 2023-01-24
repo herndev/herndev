@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Ace Magashules&#39; paradise!!](http://9gag.com/gag/aDYdZ9B)
- - ⏩ [God&#39;s developer console](http://9gag.com/gag/adP8erZ)
- - 👉 [Greta lying to the world.](http://9gag.com/gag/aPg3obw)<!-- MEMES:END -->
+ - 💣 [Middle of the night doubt strikes again](http://9gag.com/gag/ap9NAWM)
+ - ⏩ [Calling Thanos to save us](http://9gag.com/gag/amAPm5o)
+ - 👉 [Cute hippo wants to play with tourists](http://9gag.com/gag/amAPM7y)<!-- MEMES:END -->
 
 ---
 
