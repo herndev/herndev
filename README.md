@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmfao this is great](http://9gag.com/gag/axoMbQD)
- - ⏩ [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - 👉 [Marketing 101](http://9gag.com/gag/axoMO0L)<!-- MEMES:END -->
+ - 💣 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
+ - ⏩ [War Thunder](http://9gag.com/gag/a8qEenV)
+ - 👉 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)<!-- MEMES:END -->
 
 ---
 
