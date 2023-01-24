@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 India price leaks: A better deal than OnePlus 10T?](https://www.androidauthority.com/oneplus-11-india-price-3267330/)
- - [Sundar Pichai asked staff to stay motivated as Google faced competition in areas like AI and indicated there would be executive bonus cuts, during a town hall &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230124/p1#a230124p1)
- - [2,300-Year-Old &#39;Golden Boy&#39; Mummy Digitally Unwrapped After a Century     - CNET](https://www.cnet.com/science/biology/2300-year-old-golden-boy-mummy-digitally-unwrapped-after-a-century/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 14 could block app sideloading to some extent](https://www.androidauthority.com/android-14-app-downloads-3270993/)
+ - [Paris-based PASQAL, which builds quantum computers using neutral atoms, raised a &amp;euro;100M Series B led by Temasek, bringing its total funding to &amp;euro;125M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230124/p4#a230124p4)
+ - [Google plans to sunset Optimize and Optimize 360, which let marketers conduct A/B testing to improve their website or app user experience, on September 30, 2023 &lpar;Nicole Farley/Search Engine Land&rpar;](http://www.techmeme.com/230124/p3#a230124p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
