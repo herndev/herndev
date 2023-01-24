@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter Keeps Sharing &#39;Useless&#39; Video Game Knowledge That&#39;s Actually Amazing](https://kotaku.com/twitter-useless-video-game-knowledge-super-mario-halo-2-1850024695)
- - [Dungeons &amp; Dragons&#39; OGL isn&#39;t worth fighting for](https://www.pcgamer.com/dungeons-and-dragons-ogl-isnt-worth-fighting-for)
- - [Metro Exodus&#39; Ukrainian devs release full modding toolkit in first update since war began](https://www.pcgamer.com/metro-exodus-ukrainian-devs-release-full-modding-toolkit-in-first-update-since-war-began)<!-- GAME:END -->
+ - [Forspoken demo is now on PC](https://www.pcgamer.com/forspoken-demo-is-now-on-pc)
+ - [Why Tiger Woods&#39; golf ball is a grenade, and other amazing videogame trivia](https://www.pcgamer.com/why-tiger-woods-golf-ball-is-a-grenade-and-other-amazing-videogame-trivia)
+ - [Blizzard Boston Devs Blame Boss For Torpedoing Union](https://kotaku.com/blizzard-proletariat-world-warcraft-dragonflight-union-1850024926)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
