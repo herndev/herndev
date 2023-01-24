@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It took me a second... Bless my friend, he didn&#39;t waste a second to warn me. Turns out, he was right](http://9gag.com/gag/aGEpAqK)
- - ⏩ [War Thunder](http://9gag.com/gag/a8qEenV)
- - 👉 [Dug up a battery rock.](http://9gag.com/gag/aA0b6bL)<!-- MEMES:END -->
+ - 💣 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)
+ - ⏩ [Wtf is it??!! And what the f**k is it made off!!??](http://9gag.com/gag/aVb7KBd)
+ - 👉 [Moral Codes first](http://9gag.com/gag/aYVoMoV)<!-- MEMES:END -->
 
 ---
 
