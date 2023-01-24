@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spotted one in the wild today...](http://9gag.com/gag/aNwpBd3)
- - ⏩ [Downtown Circle: The Conceptual Massive Vertical City To Encircle Burj Khalifa](http://9gag.com/gag/aNwpQv3)
- - 👉 [Where&#39;s the sauce?](http://9gag.com/gag/aVb7EEv)<!-- MEMES:END -->
+ - 💣 [New year, same me](http://9gag.com/gag/a4oEWgZ)
+ - ⏩ [Illuminati](http://9gag.com/gag/aeQA7bB)
+ - 👉 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
 
 ---
 
