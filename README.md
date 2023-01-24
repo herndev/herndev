@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
- - ⏩ [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
- - 👉 [Photoshop](http://9gag.com/gag/aA0bOqE)<!-- MEMES:END -->
+ - 💣 [At 64 years old Kelly McGillis didn\u2019t receive a Top Gun 2 role because she said the production wanted her to have plastic surgery or dye her now-grey hair back to blonde.](http://9gag.com/gag/aVb7Rwd)
+ - ⏩ [Not a lot up for debate there really](http://9gag.com/gag/aoKMLq0)
+ - 👉 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 ---
 
