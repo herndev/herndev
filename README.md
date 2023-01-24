@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the DOJ is poised to sue Google this week for dominating the $278.6B US digital ad market, the fifth major US case challenging its business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)
- - [Apple still on track for iPad Pro revamp with OLED display in 2024](https://appleinsider.com/articles/23/01/24/apple-still-on-track-for-ipad-pro-revamp-with-oled-display-in-2024?utm_medium=rss)
- - [&#39;The Last of Us&#39; Episode 2 Makes Major Changes to Game&#39;s Story     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-2-makes-major-changes-to-the-games-story/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese gamers lose access to Blizzard&#39;s games after its 14-year partnership with NetEase ended; servers hosting the games shut down in China on January 23 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230123/p35#a230123p35)
+ - [The FBI says North Korea-backed hacking groups Lazarus and APT38 are behind the June 2022 theft of ~$100M in ETH, USDT, and wBTC from Harmony&#39;s Horizon bridge &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230123/p34#a230123p34)
+ - [Sources: the DOJ is poised to sue Google this week for dominating the $278.6B US digital ad market, the fifth major US case challenging its business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
