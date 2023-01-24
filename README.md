@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Battle Over Bike Lanes Needs a Mindset Shift](https://www.wired.com/story/the-battle-over-bike-lanes-needs-a-mindset-shift/)
- - [This Startup Is Using AI to Unearth New Smells](https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/)
- - [Sources: bankrupt crypto lender BlockFi plans to sell $160M of loans backed by ~68K bitcoin mining rigs; some have already defaulted or seem undercollateralized &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230124/p9#a230124p9)<!-- TECH:END -->
+ - [Polestar 2 gets a facelift, goes both faster and farther for 2024](https://www.theverge.com/2023/1/24/23568155/polestar-2-model-2024-facelift-redesign-smartzone-rear-wheel-drive)
+ - [Garmin adds FDA-cleared EKGs to its Venu 2 Plus smartwatch](https://www.theverge.com/2023/1/24/23567610/garmin-venu-2-plus-ekg-fda)
+ - [NYPD finds AirTag tracking its patrol car](https://appleinsider.com/articles/23/01/24/nypd-finds-airtag-tracking-its-patrol-car?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
