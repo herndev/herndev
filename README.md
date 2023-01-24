@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Meta Quest’s improved hand tracking is now the default](https://www.theverge.com/2023/1/23/23568391/meta-quest-hand-tracking-2-0-default)
- - [Samsung Galaxy A13 5G review: functional, no-frills 5G](https://www.theverge.com/22907086/samsung-galaxy-a13-5g-review-price-screen-specs)
- - [WWE Royal Rumble 2023: Predictions, How to Watch, Start Times and Match Card     - CNET](https://www.cnet.com/culture/entertainment/wwe-royal-rumble-2023-predictions-how-to-watch-start-times-and-match-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filings: Apple&#39;s US lobbying spend grew 44% YoY to $9.4M in 2022; Amazon&#39;s grew 2% to $19.7M, Meta&#39;s fell 4.6% to $19.2M; Google spent $10.9M, Microsoft $9.8M &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230123/p32#a230123p32)
+ - [Watch 28 Scientists Rescue a Dolphin by Forming a Human Chain     - CNET](https://www.cnet.com/science/biology/watch-28-scientists-rescue-a-dolphin-by-forming-a-human-chain/#ftag=CAD590a51e)
+ - [Best Sports Streaming Service for 2023: ESPN Plus, DirecTV Stream, FuboTV and More     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
