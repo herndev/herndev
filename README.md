@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese gamers lose access to Blizzard&#39;s games after its 14-year partnership with NetEase ended; servers hosting the games shut down in China on January 23 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230123/p35#a230123p35)
- - [The FBI says North Korea-backed hacking groups Lazarus and APT38 are behind the June 2022 theft of ~$100M in ETH, USDT, and wBTC from Harmony&#39;s Horizon bridge &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230123/p34#a230123p34)
- - [Sources: the DOJ is poised to sue Google this week for dominating the $278.6B US digital ad market, the fifth major US case challenging its business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230123/p33#a230123p33)<!-- TECH:END -->
+ - [OnePlus 11 India price leaks: A better deal than OnePlus 10T?](https://www.androidauthority.com/oneplus-11-india-price-3267330/)
+ - [Sundar Pichai asked staff to stay motivated as Google faced competition in areas like AI and indicated there would be executive bonus cuts, during a town hall &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230124/p1#a230124p1)
+ - [2,300-Year-Old &#39;Golden Boy&#39; Mummy Digitally Unwrapped After a Century     - CNET](https://www.cnet.com/science/biology/2300-year-old-golden-boy-mummy-digitally-unwrapped-after-a-century/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
