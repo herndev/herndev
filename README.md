@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous construction equipment maker Built Robotics acquihires Y Combinator-backed Roin Technologies, known for its concrete finishing robots &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/230124/p36#a230124p36)
- - [Apple gearing up to re-release revamped HomeKit architecture](https://appleinsider.com/articles/23/01/25/apple-gearing-up-to-re-release-revamped-homekit-architecture?utm_medium=rss)
- - [2,300-Year-Old &#39;Golden&#39; Egyptian Mummy Unwrapped After Century in Museum Basement     - CNET](https://www.cnet.com/science/biology/2300-year-old-golden-egyptian-mummy-unwrapped-after-century-in-museum-basement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DOJ&#39;s case against Google could succeed as it is rooted in real harms and is a fairly simple case of market consolidation hurting people by overcharging &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230124/p37#a230124p37)
+ - [Rick and Morty will continue, but without Justin Roiland](https://www.theverge.com/2023/1/24/23570101/justin-roiland-rick-and-morty-allegations-domestic-battery-grooming)
+ - [Tesla’s new $3.6 billion Nevada investment includes a ‘high-volume’ Semi factory](https://www.theverge.com/2023/1/24/23570240/tesla-3-6-billion-nevada-gigafactory-investment-high-volume-semi-factory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
