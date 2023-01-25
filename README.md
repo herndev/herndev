@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find and unlock the Revival Catalyst in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-revival-catalyst-quest-charges)
- - [One of Steam&#39;s most-anticipated games hit by 8-month delay over bizarre trademark dispute](https://www.pcgamer.com/one-of-steams-most-anticipated-games-hit-by-8-month-delay-over-bizarre-trademark-dispute)
- - [Wordle hint and answer today: Let&#39;s solve #585, January 25](https://www.pcgamer.com/wordle-hint-answer-today-585-january-25)<!-- GAME:END -->
+ - [Obsidian once had plans for a Rick &amp; Morty game](https://www.pcgamer.com/obsidian-once-had-plans-for-a-rick-and-morty-game)
+ - [Inkulinati turns farting animals into a cunning little strategy game](https://www.pcgamer.com/inkulinati-turns-farting-animals-into-a-cunning-little-strategy-game)
+ - [Machine translation startup predicts humanity&#39;s impending obsolescence](https://www.pcgamer.com/machine-translation-startup-predicts-humanitys-impending-obsolescence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
