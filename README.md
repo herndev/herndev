@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K’s latest variant has an even higher barrier to entry](https://www.polygon.com/tabletop-games/23570836/warhammer-40k-boarding-actions-price-what-books-do-you-need)
- - [4 ways Deadpool brings his fourth-wall breaking antics to Marvel’s Midnight Suns](https://blog.playstation.com/2023/01/25/4-ways-deadpool-brings-his-fourth-wall-breaking-antics-to-marvels-midnight-suns/)
- - [5 anime to watch to fill the Chainsaw Man-sized hole in your heart](https://www.polygon.com/23554477/chainsaw-man-anime-to-watch-dorohedoro)<!-- GAME:END -->
+ - [What Is Hi-Fi Rush, the Surprise Game Out of Developer_Direct?](https://news.xbox.com/en-us/2023/01/25/hi-fi-rush-preview-out-now-hands-on/)
+ - [This Racing Game Promises The Best Dirty Video Game Cars You&#39;ve Ever Seen](https://kotaku.com/forza-motorsport-physics-engine-game-pass-release-date-1850031664)
+ - [Horror Devs Surprise World With Bright Action Game, On Game Pass Tonight](https://kotaku.com/evil-within-tango-gameworks-game-pass-xbox-pc-hifi-rush-1850031592)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
