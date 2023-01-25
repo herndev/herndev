@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen against a performer](http://9gag.com/gag/armM8mX)
- - ⏩ [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - 👉 [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)<!-- MEMES:END -->
+ - 💣 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
+ - ⏩ [Karen against a performer](http://9gag.com/gag/armM8mX)
+ - 👉 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
 
 ---
 
