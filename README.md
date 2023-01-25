@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calling Thanos to save us](http://9gag.com/gag/amAPm5o)
- - ⏩ [Simple truth they are starting to learn - nobody is irreplacable](http://9gag.com/gag/ay2MPEr)
- - 👉 [Keeping you updated!](http://9gag.com/gag/aBd243Z)<!-- MEMES:END -->
+ - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
+ - ⏩ [Photoshop](http://9gag.com/gag/aA0bOqE)
+ - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
 
 ---
 
