@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge made a beautiful magazine, and you can preorder it now](https://www.theverge.com/2023/1/25/23571101/homeland-anthology-magazine-preorder-buy)
- - [Save 36% on the Skagen Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [CNET found errors in more than half of its AI-written stories](https://www.theverge.com/2023/1/25/23571082/cnet-ai-written-stories-errors-corrections-red-ventures)<!-- TECH:END -->
+ - [Generative AI Won’t Revolutionize Game Development Just Yet](https://www.wired.com/story/generative-ai-video-game-development/)
+ - [Apple engaged in “silent war” against Google fueled by grudge over Android](https://www.androidauthority.com/apple-google-war-3271777/)
+ - [Sources: Elon Musk&#39;s team has been exploring selling up to $3B in new Twitter shares to help repay some of the $13B in debt that backed his takeover &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230125/p28#a230125p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
