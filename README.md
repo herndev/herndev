@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot Pod Summit is back at On Air Fest 2023](https://www.theverge.com/2023/1/25/23570039/hot-pod-summit-brooklyn-2023-on-air-fest-work-x-work)
- - [A look at Google Research spinout Osmo, which has raised $60M led by Lux Capital and GV to use AI to create aroma molecules for perfumes, shampoos, and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/230125/p19#a230125p19)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Jan. 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-25-2023-3270700/)<!-- TECH:END -->
+ - [Poker Face is Peacock’s first truly great original series](https://www.theverge.com/23558961/poker-face-peacock-review)
+ - [Google previews features for open-source multiplatform UI framework Flutter, like RISC-V support and making it easier for developers to embed Flutter content &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230125/p23#a230125p23)
+ - [Wednesday’s top tech news: GoldenEye 007 is back](https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
