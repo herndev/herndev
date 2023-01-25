@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Resisting the Storm quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-resisting-the-storm)
- - [Dragonflight’s first patch introduces the World of Warcraft trading post](https://www.polygon.com/23569962/dragonflights-first-patch-introduces-the-world-of-warcraft-trading-post)
- - [Build and manage your dream city in Cities: VR – Enhanced Edition, out Feb 22 for PS VR2](https://blog.playstation.com/2023/01/25/build-and-manage-your-dream-city-in-cities-vr-enhanced-edition-out-feb-22-for-ps-vr2/)<!-- GAME:END -->
+ - [Witch From Mercury&#39;s Suletta Joins The List of Anime Protags Who&#39;ve Committed War Crimes](https://kotaku.com/gundam-witch-from-mercury-death-note-code-geass-anime-1850029871)
+ - [You Can Tell Forspoken To Shut Up &lpar;And Other Important Settings&rpar;](https://kotaku.com/forspoken-chatter-cuff-best-settings-parkour-1850029744)
+ - [Mushrooms aren’t a threat, they’re our future](https://www.polygon.com/entertainment/23562954/mushrooms-are-the-future-and-they-taste-good-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
