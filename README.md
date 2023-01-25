@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft starts charging wait-time fees to customers after two minutes, except for Shared, Access, Assisted, and Car Seat rides; Uber has had such fees since 2016 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230124/p39#a230124p39)
- - [More People Need to Watch One of the Best Sci-Fi Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-one-of-the-best-sci-fi-movies-of-2022/#ftag=CAD590a51e)
- - [US&#39; First Nuclear-Powered Bitcoin Mine Opening in 2023     - CNET](https://www.cnet.com/science/us-first-nuclear-powered-bitcoin-mine-opening-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple releases iOS 12.5.7 and macOS 11.7.3 to patch security issues on older devices including the iPhone 5S and the 2013 MacBook Air, Mac Pro, and MacBook Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230124/p40#a230124p40)
+ - [Oscars Best Picture Nominees 2023: How to Stream the Awards Contenders     - CNET](https://www.cnet.com/culture/entertainment/oscars-best-picture-nominees-2023-how-to-stream-the-awards-contenders/#ftag=CAD590a51e)
+ - [Lyft starts charging wait-time fees to customers after two minutes, except for Shared, Access, Assisted, and Car Seat rides; Uber has had such fees since 2016 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230124/p39#a230124p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
