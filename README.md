@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Middle of the night doubt strikes again](http://9gag.com/gag/ap9NAWM)
- - ⏩ [Calling Thanos to save us](http://9gag.com/gag/amAPm5o)
- - 👉 [Cute hippo wants to play with tourists](http://9gag.com/gag/amAPM7y)<!-- MEMES:END -->
+ - 💣 [Calling Thanos to save us](http://9gag.com/gag/amAPm5o)
+ - ⏩ [Simple truth they are starting to learn - nobody is irreplacable](http://9gag.com/gag/ay2MPEr)
+ - 👉 [Keeping you updated!](http://9gag.com/gag/aBd243Z)<!-- MEMES:END -->
 
 ---
 
