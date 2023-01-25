@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
+ - 💣 [Weird laws are the best laws](http://9gag.com/gag/aKE6pNb)
  - ⏩ [Photoshop](http://9gag.com/gag/aA0bOqE)
- - 👉 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)<!-- MEMES:END -->
+ - 👉 [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)<!-- MEMES:END -->
 
 ---
 
