@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how Flip to Shhh could work on the Pixel Fold](https://www.androidauthority.com/flip-to-shhh-pixel-fold-3271533/)
  - [Sources: Apple is quietly enhancing maps, search, and online advertising on iOS to further separate its services from those offered on rival Android &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230125/p3#a230125p3)
- - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)
- - [More than half of Whirlpool&#39;s and less than half of LG&#39;s smart appliances remain connected to the internet, via which they sell parts and subscription services &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p2#a230125p2)<!-- TECH:END -->
+ - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
