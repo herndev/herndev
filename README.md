@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter reinstates Holocaust-denying white supremacist Nick Fuentes, who says Hitler is &quot;really fucking cool&quot;, tried skirting the ban, and is banned elsewhere &lpar;Prem Thakker/New Republic&rpar;](http://www.techmeme.com/230124/p38#a230124p38)
- - [LastPass Owner GoTo Says Hackers Stole Customer Backups     - CNET](https://www.cnet.com/tech/services-and-software/lastpass-owner-goto-says-hackers-stole-customer-backups/#ftag=CAD590a51e)
- - [The DOJ&#39;s case against Google could succeed as it is rooted in real harms and is a fairly simple case of market consolidation hurting people by overcharging &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230124/p37#a230124p37)<!-- TECH:END -->
+ - [Lyft starts charging wait-time fees to customers after two minutes, except for Shared, Access, Assisted, and Car Seat rides; Uber has had such fees since 2016 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230124/p39#a230124p39)
+ - [More People Need to Watch One of the Best Sci-Fi Movies of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-one-of-the-best-sci-fi-movies-of-2022/#ftag=CAD590a51e)
+ - [US&#39; First Nuclear-Powered Bitcoin Mine Opening in 2023     - CNET](https://www.cnet.com/science/us-first-nuclear-powered-bitcoin-mine-opening-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
