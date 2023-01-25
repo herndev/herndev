@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unintentional](http://9gag.com/gag/anzQGY5)
- - ⏩ [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
- - 👉 [That&#39;s some big crackers](http://9gag.com/gag/ap9NdXE)<!-- MEMES:END -->
+ - 💣 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
+ - ⏩ [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)
+ - 👉 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)<!-- MEMES:END -->
 
 ---
 
