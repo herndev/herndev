@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Brookings Institution: from 2008 to 2021, Chinese companies accounted for 201 facial recognition tech export deals, followed by US companies with 128 deals &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230125/p1#a230125p1)
- - [Best Headphone and Earbuds Deals     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Apple releases iOS 12.5.7 and macOS 11.7.3 to patch security issues on older devices including the iPhone 5S and the 2013 MacBook Air, Mac Pro, and MacBook Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230124/p40#a230124p40)<!-- TECH:END -->
+ - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)
+ - [More than half of Whirlpool&#39;s and less than half of LG&#39;s smart appliances remain connected to the internet, via which they sell parts and subscription services &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p2#a230125p2)
+ - [OnePlus 11R will launch alongside OnePlus 11, Amazon reveals](https://www.androidauthority.com/oneplus-11r-india-3270989/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
