@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Because equality](http://9gag.com/gag/aYVomM2)
- - ⏩ [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - 💣 [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - ⏩ [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
  - 👉 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
 
 ---
