@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poker Face is Peacock’s first truly great original series](https://www.theverge.com/23558961/poker-face-peacock-review)
- - [Google previews features for open-source multiplatform UI framework Flutter, like RISC-V support and making it easier for developers to embed Flutter content &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230125/p23#a230125p23)
- - [Wednesday’s top tech news: GoldenEye 007 is back](https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Apple TV+ announces raft of new children&#39;s shows](https://appleinsider.com/articles/23/01/25/apple-tv-announces-raft-of-new-childrens-shows?utm_medium=rss)
+ - [Big changes in store for Android in India, may affect it globally in the future](https://www.androidauthority.com/android-india-changes-3271735/)
+ - [After uproar, Twitter suspends the verified account of US white nationalist Nick Fuentes, one day after lifting his ban from July 2021 &lpar;Dan Ladden-Hall/The Daily Beast&rpar;](http://www.techmeme.com/230125/p27#a230125p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
