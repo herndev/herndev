@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [120Hz is the way](http://9gag.com/gag/a7qE6zb)
- - ⏩ [Imagine your woman walking away when you needed her the most. Sad](http://9gag.com/gag/aYVonBm)
- - 👉 [`The only acceptable way to pronounce tequila`](http://9gag.com/gag/aoKMAA2)<!-- MEMES:END -->
+ - 💣 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
+ - ⏩ [He should go buy a lottery ticket](http://9gag.com/gag/aA0bmd2)
+ - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
 
 ---
 
