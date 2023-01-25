@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is quietly enhancing maps, search, and online advertising on iOS to further separate its services from those offered on rival Android &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230125/p3#a230125p3)
  - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)
- - [More than half of Whirlpool&#39;s and less than half of LG&#39;s smart appliances remain connected to the internet, via which they sell parts and subscription services &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p2#a230125p2)
- - [OnePlus 11R will launch alongside OnePlus 11, Amazon reveals](https://www.androidauthority.com/oneplus-11r-india-3270989/)<!-- TECH:END -->
+ - [More than half of Whirlpool&#39;s and less than half of LG&#39;s smart appliances remain connected to the internet, via which they sell parts and subscription services &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p2#a230125p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
