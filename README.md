@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox App January 2023 Update](https://news.xbox.com/en-us/2023/01/25/xbox-app-january-2023-update/)
- - [GoldenEye finally comes to Xbox and Switch &lpar;you’ll probably want it on Switch&rpar;](https://www.polygon.com/2023/1/25/23570861/goldeneye-007-nintendo-switch-xbox-release-date)
- - [The 8 best video games to get you into Warhammer 40K](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)<!-- GAME:END -->
+ - [How to complete the Resisting the Storm quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-resisting-the-storm)
+ - [Dragonflight’s first patch introduces the World of Warcraft trading post](https://www.polygon.com/23569962/dragonflights-first-patch-introduces-the-world-of-warcraft-trading-post)
+ - [Build and manage your dream city in Cities: VR – Enhanced Edition, out Feb 22 for PS VR2](https://blog.playstation.com/2023/01/25/build-and-manage-your-dream-city-in-cities-vr-enhanced-edition-out-feb-22-for-ps-vr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
