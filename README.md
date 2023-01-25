@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moral Codes first](http://9gag.com/gag/aYVoMoV)
- - ⏩ [Photoshop](http://9gag.com/gag/aA0bOqE)
- - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
+ - 💣 [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - ⏩ [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
+ - 👉 [Best selling car in the US vs in the EU in 2022](http://9gag.com/gag/aVb7m22)<!-- MEMES:END -->
 
 ---
 
