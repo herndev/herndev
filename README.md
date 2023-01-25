@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Veterinarian expertly removes a kong toy stuck in a German Shepherd&#39;s esophagus.](http://9gag.com/gag/aGEpb9n)
- - ⏩ [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
- - 👉 [For real?](http://9gag.com/gag/axoM482)<!-- MEMES:END -->
+ - 💣 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - ⏩ [Photoshop](http://9gag.com/gag/aA0bOqE)
+ - 👉 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
 
 ---
 
