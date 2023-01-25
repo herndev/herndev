@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This groundbreaking shmup was pushing PC hardware to the limit back in 1989](https://www.pcgamer.com/this-groundbreaking-shmup-was-pushing-pc-hardware-to-the-limit-back-in-1989)
- - [Destiny 2 Is Starting To Feel Like It’s Held Together With Duct Tape](https://kotaku.com/destiny-2-season-20-old-buggy-offline-new-engine-sequel-1850026970)
- - [Adult Swim drops Justin Roiland from Rick &amp; Morty after domestic violence charges](https://www.pcgamer.com/adult-swim-drops-justin-roiland-from-rick-and-morty-after-domestic-violence-charges)<!-- GAME:END -->
+ - [Justin Roiland out at High on Life studio Squanch Games after felony charges](https://www.polygon.com/23570027/justin-roiland-rick-and-morty-squanch-games-outed)
+ - [New Fallout TV series set photos show iconic Red Rocket gas station](https://www.pcgamer.com/new-fallout-tv-series-set-photos-show-iconic-red-rocket-gas-station)
+ - [The Masters Of Stealth Tactics Are Back With A New Pirate Game](https://kotaku.com/shadow-gambit-desperadoes-tactics-stealth-tactics-pc-1850027223)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
