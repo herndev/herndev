@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Flip to Shhh could work on the Pixel Fold](https://www.androidauthority.com/flip-to-shhh-pixel-fold-3271533/)
- - [Sources: Apple is quietly enhancing maps, search, and online advertising on iOS to further separate its services from those offered on rival Android &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230125/p3#a230125p3)
- - [Whoever designed this soda-themed phone was on coke](https://www.androidauthority.com/coca-cola-phone-3271516/)<!-- TECH:END -->
+ - [Microsoft is investigating a &quot;potential networking issue&quot; impacting Teams, Outlook, and more, taking the services down in India, Japan, the UK, and elsewhere &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230125/p5#a230125p5)
+ - [Sources: Marc Benioff&#39;s controversial acquisitions, focus on growth over profits, celebrity relationships, and philanthropic pursuits have vexed shareholders &lpar;Financial Times&rpar;](http://www.techmeme.com/230125/p4#a230125p4)
+ - [Microsoft Teams and Outlook down due to ‘networking issue’](https://www.theverge.com/2023/1/25/23570598/microsoft-teams-outlook-down-outage-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
