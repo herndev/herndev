@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is engaged in a &#39;silent war&#39; against Google, claim engineers](https://appleinsider.com/articles/23/01/25/apple-is-engaged-in-a-silent-war-against-google-claim-engineers?utm_medium=rss)
- - [UK-based enterprise VR training startup Gemba, used by Coca-Cola, Pfizer, and more, raised an $18M Series A led by Parkway; courses can cost ~$7,250 per person &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230125/p9#a230125p9)
- - [Dutch chip equipment maker ASML reports Q4 sales up 29% YoY to &amp;euro;6.4B, 2022 net sales up 13% YoY to &amp;euro;21.1B, and forecasts 25% revenue growth in 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230125/p8#a230125p8)<!-- TECH:END -->
+ - [Sources: EU antitrust regulators plan an investigation into Microsoft over Teams, focusing on tying the service to Office, after a complaint by Slack in 2020 &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/230125/p12#a230125p12)
+ - [Cherry KW 9100 Slim review: Too-generic wireless keyboard](https://appleinsider.com/articles/23/01/25/cherry-kw-9100-slim-review-too-generic-wireless-keyboard?utm_medium=rss)
+ - [Wharton School Professor Christian Terwiesch found OpenAI&#39;s ChatGPT was able to pass a final exam for the school&#39;s MBA program, scoring between B- and B &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/230125/p11#a230125p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
