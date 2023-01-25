@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ announces raft of new children&#39;s shows](https://appleinsider.com/articles/23/01/25/apple-tv-announces-raft-of-new-childrens-shows?utm_medium=rss)
- - [Big changes in store for Android in India, may affect it globally in the future](https://www.androidauthority.com/android-india-changes-3271735/)
- - [After uproar, Twitter suspends the verified account of US white nationalist Nick Fuentes, one day after lifting his ban from July 2021 &lpar;Dan Ladden-Hall/The Daily Beast&rpar;](http://www.techmeme.com/230125/p27#a230125p27)<!-- TECH:END -->
+ - [The Verge made a beautiful magazine, and you can preorder it now](https://www.theverge.com/2023/1/25/23571101/homeland-anthology-magazine-preorder-buy)
+ - [Save 36% on the Skagen Gen 6, and more fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [CNET found errors in more than half of its AI-written stories](https://www.theverge.com/2023/1/25/23571082/cnet-ai-written-stories-errors-corrections-red-ventures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
