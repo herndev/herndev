@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #585, January 25](https://www.pcgamer.com/wordle-hint-answer-today-585-january-25)
- - [How to watch the Xbox and Bethesda livestream today](https://www.pcgamer.com/xbox-bethesda-developer-direct-how-to-watch-january-2023)
- - [Updated: Destiny 2 will remain offline until tomorrow as Bungie works to restore deleted achievements](https://www.pcgamer.com/whoops-the-latest-destiny-2-hotfix-deleted-a-bunch-of-incredibly-hard-to-earn-achievements)<!-- GAME:END -->
+ - [How to find and unlock the Revival Catalyst in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-revival-catalyst-quest-charges)
+ - [One of Steam&#39;s most-anticipated games hit by 8-month delay over bizarre trademark dispute](https://www.pcgamer.com/one-of-steams-most-anticipated-games-hit-by-8-month-delay-over-bizarre-trademark-dispute)
+ - [Wordle hint and answer today: Let&#39;s solve #585, January 25](https://www.pcgamer.com/wordle-hint-answer-today-585-january-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
