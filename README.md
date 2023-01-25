@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clark Kent got nothing on him](http://9gag.com/gag/aWGjR0A)
- - ⏩ [Imagine your woman walking away when you needed her the most. Sad](http://9gag.com/gag/aYVonBm)
- - 👉 [120Hz is the way](http://9gag.com/gag/a7qE6zb)<!-- MEMES:END -->
+ - 💣 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)
+ - ⏩ [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
+ - 👉 [The ending](http://9gag.com/gag/aNwp4Gb)<!-- MEMES:END -->
 
 ---
 
