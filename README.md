@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick And Morty Ditches Roiland, Recasting Voices Following Domestic Abuse Allegations](https://kotaku.com/rick-morty-season-7-voice-justin-roiland-domestic-abuse-1850026753)
- - [Forspoken Fails To Credit Localizers, Quality Assurance Testers](https://kotaku.com/forspoken-ps5-credits-localization-quality-assurance-qa-1850026704)
- - [Adult Swim cuts ties with Rick &amp; Morty creator Justin Roiland](https://www.polygon.com/23570022/rick-morty-justin-roiland-adult-swim-cuts-ties)<!-- GAME:END -->
+ - [This groundbreaking shmup was pushing PC hardware to the limit back in 1989](https://www.pcgamer.com/this-groundbreaking-shmup-was-pushing-pc-hardware-to-the-limit-back-in-1989)
+ - [Destiny 2 Is Starting To Feel Like It’s Held Together With Duct Tape](https://kotaku.com/destiny-2-season-20-old-buggy-offline-new-engine-sequel-1850026970)
+ - [Adult Swim drops Justin Roiland from Rick &amp; Morty after domestic violence charges](https://www.pcgamer.com/adult-swim-drops-justin-roiland-from-rick-and-morty-after-domestic-violence-charges)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
