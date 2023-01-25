@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Updated: Destiny 2 will remain offline until tomorrow as Bungie works to restore deleted achievements](https://www.pcgamer.com/whoops-the-latest-destiny-2-hotfix-deleted-a-bunch-of-incredibly-hard-to-earn-achievements)
- - [MIT grows 2D crystals on existing silicon to make new semiconductors and catch up to Moore&#39;s law](https://www.pcgamer.com/mit-grows-2d-crystals-on-existing-silicon-to-make-new-semiconductors-and-catch-up-to-moores-law)
- - [40K: Darktide&#39;s Xbox Release Delayed So PC Version Can Be Fixed](https://kotaku.com/warhammer-40k-darktide-pc-xbox-series-x-s-delay-content-1850026660)<!-- GAME:END -->
+ - [Wordle hint and answer today: Let&#39;s solve #585, January 25](https://www.pcgamer.com/wordle-hint-answer-today-585-january-25)
+ - [How to watch the Xbox and Bethesda livestream today](https://www.pcgamer.com/xbox-bethesda-developer-direct-how-to-watch-january-2023)
+ - [Updated: Destiny 2 will remain offline until tomorrow as Bungie works to restore deleted achievements](https://www.pcgamer.com/whoops-the-latest-destiny-2-hotfix-deleted-a-bunch-of-incredibly-hard-to-earn-achievements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
