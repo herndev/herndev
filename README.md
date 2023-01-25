@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)
- - ⏩ [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - 👉 [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)<!-- MEMES:END -->
+ - 💣 [Because equality](http://9gag.com/gag/aYVomM2)
+ - ⏩ [It was her intention!](http://9gag.com/gag/abvVE4v)
+ - 👉 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
 
 ---
 
