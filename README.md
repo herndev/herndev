@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian once had plans for a Rick &amp; Morty game](https://www.pcgamer.com/obsidian-once-had-plans-for-a-rick-and-morty-game)
- - [Inkulinati turns farting animals into a cunning little strategy game](https://www.pcgamer.com/inkulinati-turns-farting-animals-into-a-cunning-little-strategy-game)
- - [Machine translation startup predicts humanity&#39;s impending obsolescence](https://www.pcgamer.com/machine-translation-startup-predicts-humanitys-impending-obsolescence)<!-- GAME:END -->
+ - [How Dead Space taps into PS5 haptics and adaptive triggers for immersive horror](https://blog.playstation.com/2023/01/25/how-dead-space-taps-into-ps5-haptics-and-adaptive-triggers-for-immersive-horror/)
+ - [Forspoken&#39;s PC port is another fine Square Enix mess](https://www.pcgamer.com/forspokens-pc-port-is-another-fine-square-enix-mess)
+ - [Rick And Morty Creator Leaves Studio Behind 2022’s Biggest Game Pass Launch After Allegations](https://kotaku.com/squanch-games-justin-roiland-high-on-life-game-pass-1850028971)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
