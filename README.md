@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
- - ⏩ [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)
- - 👉 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)<!-- MEMES:END -->
+ - 💣 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
+ - ⏩ [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)
+ - 👉 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
 
 ---
 
