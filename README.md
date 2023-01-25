@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)
- - ⏩ [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)
- - 👉 [If I Don&#39;t See It ! It Doesn&#39;t Exist](http://9gag.com/gag/aMEKOmW)<!-- MEMES:END -->
+ - 💣 [Veterinarian expertly removes a kong toy stuck in a German Shepherd&#39;s esophagus.](http://9gag.com/gag/aGEpb9n)
+ - ⏩ [`We don&#39;t care that you were saving a child from being kidnapped. You&#39;re fired!`](http://9gag.com/gag/a8qEn6Z)
+ - 👉 [For real?](http://9gag.com/gag/axoM482)<!-- MEMES:END -->
 
 ---
 
