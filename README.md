@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dead Space taps into PS5 haptics and adaptive triggers for immersive horror](https://blog.playstation.com/2023/01/25/how-dead-space-taps-into-ps5-haptics-and-adaptive-triggers-for-immersive-horror/)
- - [Forspoken&#39;s PC port is another fine Square Enix mess](https://www.pcgamer.com/forspokens-pc-port-is-another-fine-square-enix-mess)
- - [Rick And Morty Creator Leaves Studio Behind 2022’s Biggest Game Pass Launch After Allegations](https://kotaku.com/squanch-games-justin-roiland-high-on-life-game-pass-1850028971)<!-- GAME:END -->
+ - [Xbox App January 2023 Update](https://news.xbox.com/en-us/2023/01/25/xbox-app-january-2023-update/)
+ - [GoldenEye finally comes to Xbox and Switch &lpar;you’ll probably want it on Switch&rpar;](https://www.polygon.com/2023/1/25/23570861/goldeneye-007-nintendo-switch-xbox-release-date)
+ - [The 8 best video games to get you into Warhammer 40K](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
