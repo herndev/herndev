@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ&#39;s case against Google could succeed as it is rooted in real harms and is a fairly simple case of market consolidation hurting people by overcharging &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230124/p37#a230124p37)
- - [Rick and Morty will continue, but without Justin Roiland](https://www.theverge.com/2023/1/24/23570101/justin-roiland-rick-and-morty-allegations-domestic-battery-grooming)
- - [Tesla’s new $3.6 billion Nevada investment includes a ‘high-volume’ Semi factory](https://www.theverge.com/2023/1/24/23570240/tesla-3-6-billion-nevada-gigafactory-investment-high-volume-semi-factory)<!-- TECH:END -->
+ - [Twitter reinstates Holocaust-denying white supremacist Nick Fuentes, who says Hitler is &quot;really fucking cool&quot;, tried skirting the ban, and is banned elsewhere &lpar;Prem Thakker/New Republic&rpar;](http://www.techmeme.com/230124/p38#a230124p38)
+ - [LastPass Owner GoTo Says Hackers Stole Customer Backups     - CNET](https://www.cnet.com/tech/services-and-software/lastpass-owner-goto-says-hackers-stole-customer-backups/#ftag=CAD590a51e)
+ - [The DOJ&#39;s case against Google could succeed as it is rooted in real harms and is a fairly simple case of market consolidation hurting people by overcharging &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230124/p37#a230124p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
