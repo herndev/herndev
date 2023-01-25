@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI Won’t Revolutionize Game Development Just Yet](https://www.wired.com/story/generative-ai-video-game-development/)
- - [Apple engaged in “silent war” against Google fueled by grudge over Android](https://www.androidauthority.com/apple-google-war-3271777/)
- - [Sources: Elon Musk&#39;s team has been exploring selling up to $3B in new Twitter shares to help repay some of the $13B in debt that backed his takeover &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230125/p28#a230125p28)<!-- TECH:END -->
+ - [Tesla&#39;s Hurting From Elon Musk&#39;s Twitter Meltdowns. The Question Is: How Much?     - CNET](https://www.cnet.com/tech/teslas-hurting-from-elon-musks-twitter-meltdowns-the-question-is-how-much/#ftag=CAD590a51e)
+ - [Maxed out MacBook Air &amp; MacBook Pro - what you get for the money](https://appleinsider.com/articles/23/01/25/maxed-out-macbook-air-macbook-pro---what-you-get-for-the-money?utm_medium=rss)
+ - [Tech Titan vs. Government Goliath: What Google&#39;s New Antitrust Suit Means     - CNET](https://www.cnet.com/tech/tech-titan-vs-government-goliath-what-googles-new-antitrust-suit-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
