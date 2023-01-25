@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla made more money in 2022 than ever before, but its future still looks rocky](https://www.theverge.com/2023/1/25/23571618/tesla-q4-2022-earnings-revenue-profit-prices-demand)
- - [IBM plans to lay off about 1.5% of its global workforce, or around 3,900 jobs, focusing on workers who remained after spinning off Kyndryl and Watson Health &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230125/p32#a230125p32)
- - [IBM reports Q4 revenue of $16.69B, flat YoY, vs. $16.4B est., net income up 16% YoY to $2.71B, and software revenue up 2.8% YoY to $7.29B, vs. $7.12B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230125/p31#a230125p31)<!-- TECH:END -->
+ - [Wednesday’s top tech news: Meta unbans Trump](https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog)
+ - [Joe Manchin is trying to derail the EV tax credit he helped craft](https://www.theverge.com/2023/1/25/23571567/manchin-ev-tax-credit-bill-battery-ira-irs)
+ - [Meta allows Trump back on Facebook and Instagram](https://www.theverge.com/2023/1/25/23540807/donald-trump-meta-facebook-instagram-ban-election-january-6th-twitter-truth-social)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
