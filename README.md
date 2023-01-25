@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based DevZero, which offers tools to help developers build and test code in the cloud, raised a $5M seed and $21M Series A and launches its platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230125/p16#a230125p16)
- - [Elon Musk&#39;s Twitter has reinstated several Hindu nationalist accounts that were popular in India; upon returning, some have tweeted material denigrating Muslims &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p15#a230125p15)
- - [How to watch today’s Xbox Developer Direct showcase](https://www.theverge.com/2023/1/25/23569732/xbox-developer-direct-january-2023-how-to-watch)<!-- TECH:END -->
+ - [Hot Pod Summit is back at On Air Fest 2023](https://www.theverge.com/2023/1/25/23570039/hot-pod-summit-brooklyn-2023-on-air-fest-work-x-work)
+ - [A look at Google Research spinout Osmo, which has raised $60M led by Lux Capital and GV to use AI to create aroma molecules for perfumes, shampoos, and more &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/230125/p19#a230125p19)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Jan. 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-25-2023-3270700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
