@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 pricing likely won’t change in the US, but may go up everywhere else](https://www.androidauthority.com/galaxy-s23-pricing-3271432/)
- - [Twitter updates its web version to default to the timeline a user had open last, rather than reverting to the algorithmic feed; coming to iOS and Android &quot;soon&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230124/p33#a230124p33)
- - [How the Spotify layoffs impact its podcasting business](https://www.theverge.com/2023/1/24/23569956/spotify-layoff-podcast-ostroff-rogan)<!-- TECH:END -->
+ - [SoundHound raised $25M after reportedly laying off half of its staff and says it will pay former staff severance, which was allegedly contingent on the funding &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230124/p35#a230124p35)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
+ - [Now Lyft will charge extra if you make drivers wait](https://www.theverge.com/2023/1/24/23569922/lyft-wait-time-fees-rideshare)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
