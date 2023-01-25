@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For real?](http://9gag.com/gag/axoM482)
- - ⏩ [Teacher forbid bring laptops in class](http://9gag.com/gag/ap9NYKB)
- - 👉 [When your friend is a dick but supportive](http://9gag.com/gag/aKE6OeW)<!-- MEMES:END -->
+ - 💣 [Spider veins &lpar;telangiectasias&rpar; disappearing almost immediately](http://9gag.com/gag/aOx3PdN)
+ - ⏩ [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)
+ - 👉 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)<!-- MEMES:END -->
 
 ---
 
