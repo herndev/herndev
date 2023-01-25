@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoundHound raised $25M after reportedly laying off half of its staff and says it will pay former staff severance, which was allegedly contingent on the funding &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230124/p35#a230124p35)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [Now Lyft will charge extra if you make drivers wait](https://www.theverge.com/2023/1/24/23569922/lyft-wait-time-fees-rideshare)<!-- TECH:END -->
+ - [Autonomous construction equipment maker Built Robotics acquihires Y Combinator-backed Roin Technologies, known for its concrete finishing robots &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/230124/p36#a230124p36)
+ - [Apple gearing up to re-release revamped HomeKit architecture](https://appleinsider.com/articles/23/01/25/apple-gearing-up-to-re-release-revamped-homekit-architecture?utm_medium=rss)
+ - [2,300-Year-Old &#39;Golden&#39; Egyptian Mummy Unwrapped After Century in Museum Basement     - CNET](https://www.cnet.com/science/biology/2300-year-old-golden-egyptian-mummy-unwrapped-after-century-in-museum-basement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
