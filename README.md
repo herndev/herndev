@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird laws are the best laws](http://9gag.com/gag/aKE6pNb)
- - ⏩ [Photoshop](http://9gag.com/gag/aA0bOqE)
- - 👉 [Grandmadonna, please STAHP.](http://9gag.com/gag/a4oExZm)<!-- MEMES:END -->
+ - 💣 [Unintentional](http://9gag.com/gag/anzQGY5)
+ - ⏩ [Japan had fewer than 800,000 births in 2022... This is bad.](http://9gag.com/gag/aZD0z53)
+ - 👉 [That&#39;s some big crackers](http://9gag.com/gag/ap9NdXE)<!-- MEMES:END -->
 
 ---
 
