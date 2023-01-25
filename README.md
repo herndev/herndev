@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After unofficial walkouts in 2022, hundreds of Amazon workers in a UK warehouse are striking, an unprecedented step by UK workers, after 98% voted in favor &lpar;Nate Lanxon/Bloomberg&rpar;](http://www.techmeme.com/230125/p7#a230125p7)
- - [The Rebellion Amazon Can No Longer Ignore](https://www.wired.com/story/amazon-strike-uk-pay/)
- - [Daily Authority: ❌ Pixel’s photography weakness](https://www.androidauthority.com/daily-authority-january-25-2023-3271508/)<!-- TECH:END -->
+ - [Apple is engaged in a &#39;silent war&#39; against Google, claim engineers](https://appleinsider.com/articles/23/01/25/apple-is-engaged-in-a-silent-war-against-google-claim-engineers?utm_medium=rss)
+ - [UK-based enterprise VR training startup Gemba, used by Coca-Cola, Pfizer, and more, raised an $18M Series A led by Parkway; courses can cost ~$7,250 per person &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230125/p9#a230125p9)
+ - [Dutch chip equipment maker ASML reports Q4 sales up 29% YoY to &amp;euro;6.4B, 2022 net sales up 13% YoY to &amp;euro;21.1B, and forecasts 25% revenue growth in 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230125/p8#a230125p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
