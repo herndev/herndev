@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Is Hi-Fi Rush, the Surprise Game Out of Developer_Direct?](https://news.xbox.com/en-us/2023/01/25/hi-fi-rush-preview-out-now-hands-on/)
- - [This Racing Game Promises The Best Dirty Video Game Cars You&#39;ve Ever Seen](https://kotaku.com/forza-motorsport-physics-engine-game-pass-release-date-1850031664)
- - [Horror Devs Surprise World With Bright Action Game, On Game Pass Tonight](https://kotaku.com/evil-within-tango-gameworks-game-pass-xbox-pc-hifi-rush-1850031592)<!-- GAME:END -->
+ - [How Minecraft Legends Twists Classic Minecraft Ideas Into All-New Shapes](https://news.xbox.com/en-us/2023/01/25/how-minecraft-legends-twists-classic-ideas-into-all-new-shapes/)
+ - [The Elder Scrolls Online is returning to Vvardenfall in Shadow Over Morrowind](https://www.pcgamer.com/the-elder-scrolls-online-is-returning-to-vvardenfall-in-shadow-over-morrowind)
+ - [Forza Motorsport promises ray traced reflections, &#39;fully procedural&#39; clouds, and loads of other technical doodads](https://www.pcgamer.com/forza-motorsport-promises-ray-traced-reflections-fully-procedural-clouds-and-loads-of-other-technical-doodads)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
