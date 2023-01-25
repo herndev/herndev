@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witch From Mercury&#39;s Suletta Joins The List of Anime Protags Who&#39;ve Committed War Crimes](https://kotaku.com/gundam-witch-from-mercury-death-note-code-geass-anime-1850029871)
- - [You Can Tell Forspoken To Shut Up &lpar;And Other Important Settings&rpar;](https://kotaku.com/forspoken-chatter-cuff-best-settings-parkour-1850029744)
- - [Mushrooms aren’t a threat, they’re our future](https://www.polygon.com/entertainment/23562954/mushrooms-are-the-future-and-they-taste-good-too)<!-- GAME:END -->
+ - [With Roiland Out, Rick And Morty Fans Are ‘Auditioning’ For Season 7](https://kotaku.com/justin-roiland-rick-and-morty-season-7-s7-fan-audition-1850030797)
+ - [Daisy Jones &amp; the Six debut trailer showcases Riley Keough’s rock star vocals](https://www.polygon.com/23571129/daisy-jones-and-the-six-trailer-riley-keough-phoebe-bridgers)
+ - [Fortnite guide: How to eliminate a player without using ranged weapons](https://www.polygon.com/fortnite-guide/23571176/ranged-weapons-eliminate-a-player-week-8-quests-chapter-4-season-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
