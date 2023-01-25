@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix announces its LPDDR5T chip for mobile devices, with a 9.6Gbps data transfer speed, 13% faster than the previous LPDDR5X &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230125/p30#a230125p30)
- - [Apple eases COVID-19 policies to encourage returning to the office](https://appleinsider.com/articles/23/01/25/apple-eases-covid-19-policies-to-encourage-returning-to-the-office?utm_medium=rss)
- - [Right-to-repair advocate urges Apple to let resellers bypass security protocols](https://appleinsider.com/articles/23/01/24/right-to-repair-advocate-urges-apple-to-let-resellers-bypass-security-protocols?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla made more money in 2022 than ever before, but its future still looks rocky](https://www.theverge.com/2023/1/25/23571618/tesla-q4-2022-earnings-revenue-profit-prices-demand)
+ - [IBM plans to lay off about 1.5% of its global workforce, or around 3,900 jobs, focusing on workers who remained after spinning off Kyndryl and Watson Health &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230125/p32#a230125p32)
+ - [IBM reports Q4 revenue of $16.69B, flat YoY, vs. $16.4B est., net income up 16% YoY to $2.71B, and software revenue up 2.8% YoY to $7.29B, vs. $7.12B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230125/p31#a230125p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
