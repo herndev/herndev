@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of the 69 things they tested me for, I&#39;m allergic to 60 of them.](http://9gag.com/gag/a6qE8Lq)
- - ⏩ [He should go buy a lottery ticket](http://9gag.com/gag/aA0bmd2)
- - 👉 [Buy a phone, get a knife](http://9gag.com/gag/aVb7VL2)<!-- MEMES:END -->
+ - 💣 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)
+ - ⏩ [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
+ - 👉 [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)<!-- MEMES:END -->
 
 ---
 
