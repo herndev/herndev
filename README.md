@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 12.5.7 and macOS 11.7.3 to patch security issues on older devices including the iPhone 5S and the 2013 MacBook Air, Mac Pro, and MacBook Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230124/p40#a230124p40)
- - [Oscars Best Picture Nominees 2023: How to Stream the Awards Contenders     - CNET](https://www.cnet.com/culture/entertainment/oscars-best-picture-nominees-2023-how-to-stream-the-awards-contenders/#ftag=CAD590a51e)
- - [Lyft starts charging wait-time fees to customers after two minutes, except for Shared, Access, Assisted, and Car Seat rides; Uber has had such fees since 2016 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230124/p39#a230124p39)<!-- TECH:END -->
+ - [The Brookings Institution: from 2008 to 2021, Chinese companies accounted for 201 facial recognition tech export deals, followed by US companies with 128 deals &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230125/p1#a230125p1)
+ - [Best Headphone and Earbuds Deals     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Apple releases iOS 12.5.7 and macOS 11.7.3 to patch security issues on older devices including the iPhone 5S and the 2013 MacBook Air, Mac Pro, and MacBook Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230124/p40#a230124p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
