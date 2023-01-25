@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MIT grows 2D crystals on existing silicon to make new semiconductors and catch up to Moore&#39;s law](https://www.pcgamer.com/mit-grows-2d-crystals-on-existing-silicon-to-make-new-semiconductors-and-catch-up-to-moores-law)
  - [40K: Darktide&#39;s Xbox Release Delayed So PC Version Can Be Fixed](https://kotaku.com/warhammer-40k-darktide-pc-xbox-series-x-s-delay-content-1850026660)
- - [Almost 35,000 PayPal accounts breached using known credentials](https://www.pcgamer.com/almost-35000-paypal-accounts-breached-using-known-credentials)
- - [Justin Roiland out at High on Life studio Squanch Games after felony charges](https://www.polygon.com/23570027/justin-roiland-rick-and-morty-squanch-games-outed)<!-- GAME:END -->
+ - [Almost 35,000 PayPal accounts breached using known credentials](https://www.pcgamer.com/almost-35000-paypal-accounts-breached-using-known-credentials)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
