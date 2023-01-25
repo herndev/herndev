@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia’s eye-contact AI is its creepiest update yet](https://www.polygon.com/23571376/nvidia-broadcast-eye-contact-ai)
  - [How Minecraft Legends Twists Classic Minecraft Ideas Into All-New Shapes](https://news.xbox.com/en-us/2023/01/25/how-minecraft-legends-twists-classic-ideas-into-all-new-shapes/)
- - [The Elder Scrolls Online is returning to Vvardenfall in Shadow Over Morrowind](https://www.pcgamer.com/the-elder-scrolls-online-is-returning-to-vvardenfall-in-shadow-over-morrowind)
- - [Forza Motorsport promises ray traced reflections, &#39;fully procedural&#39; clouds, and loads of other technical doodads](https://www.pcgamer.com/forza-motorsport-promises-ray-traced-reflections-fully-procedural-clouds-and-loads-of-other-technical-doodads)<!-- GAME:END -->
+ - [Everything We Saw At Today&#39;s Xbox Developer Direct](https://kotaku.com/xbox-developer-direct-forza-minecraft-legends-eso-hi-fi-1850031995)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
