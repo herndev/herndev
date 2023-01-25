@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU antitrust regulators plan an investigation into Microsoft over Teams, focusing on tying the service to Office, after a complaint by Slack in 2020 &lpar;Samuel Stolton/Politico&rpar;](http://www.techmeme.com/230125/p12#a230125p12)
- - [Cherry KW 9100 Slim review: Too-generic wireless keyboard](https://appleinsider.com/articles/23/01/25/cherry-kw-9100-slim-review-too-generic-wireless-keyboard?utm_medium=rss)
- - [Wharton School Professor Christian Terwiesch found OpenAI&#39;s ChatGPT was able to pass a final exam for the school&#39;s MBA program, scoring between B- and B &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/230125/p11#a230125p11)<!-- TECH:END -->
+ - [Seattle-based DevZero, which offers tools to help developers build and test code in the cloud, raised a $5M seed and $21M Series A and launches its platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230125/p16#a230125p16)
+ - [Elon Musk&#39;s Twitter has reinstated several Hindu nationalist accounts that were popular in India; upon returning, some have tweeted material denigrating Muslims &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230125/p15#a230125p15)
+ - [How to watch today’s Xbox Developer Direct showcase](https://www.theverge.com/2023/1/25/23569732/xbox-developer-direct-january-2023-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
