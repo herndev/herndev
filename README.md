@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: South Korean prosecutors are seeking the arrest of Bithumb owner Kang Jong-Hyun, as part of a wider probe into the crypto exchange and its affiliates &lpar;CoinDesk&rpar;](http://www.techmeme.com/230125/p38#a230125p38)
- - [Surfshark Passes First Independent No-Logs Audit     - CNET](https://www.cnet.com/tech/services-and-software/surfshark-passes-first-independent-no-logs-audit/#ftag=CAD590a51e)
- - [iPhone 15 could be the first iPhone to feature Wi-Fi 6E](https://appleinsider.com/articles/23/01/26/iphone-15-could-be-the-first-iphone-to-feature-wi-fi-6e?utm_medium=rss)<!-- TECH:END -->
+ - [Using automation, Trellix patches nearly 62K open-source projects susceptible to a Python path traversal flaw first disclosed in 2007, affecting ~350K projects &lpar;Menghan Xiao/SC Media&rpar;](http://www.techmeme.com/230125/p40#a230125p40)
+ - [New Jersey-based AtomicJar, which is building a cloud version of its co-founders&#39; open-source microservices testing tool Testcontainers, raised a $25M Series A &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230125/p39#a230125p39)
+ - [Report: South Korean prosecutors are seeking the arrest of Bithumb owner Kang Jong-Hyun, as part of a wider probe into the crypto exchange and its affiliates &lpar;CoinDesk&rpar;](http://www.techmeme.com/230125/p38#a230125p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
