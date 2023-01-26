@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really?](http://9gag.com/gag/a2K7ADY)
- - ⏩ [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
- - 👉 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)<!-- MEMES:END -->
+ - 💣 [`The only acceptable way to pronounce tequila`](http://9gag.com/gag/aoKMAA2)
+ - ⏩ [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
+ - 👉 [I posted this 6 months ago, time for another PSA reminder](http://9gag.com/gag/a4oEgoQ)<!-- MEMES:END -->
 
 ---
 
