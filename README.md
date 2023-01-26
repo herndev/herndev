@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
- - [Daily Deals Jan. 26: $310 off 14-inch MacBook Pro, Apple Studio Display $1,299, 24-inch iMac $1,099 &amp; more](https://appleinsider.com/articles/23/01/26/daily-deals-jan-26-310-off-14-inch-macbook-pro-apple-studio-display-1299-24-inch-imac-1099-more?utm_medium=rss)
- - [The best use for AI eye contact tech is making movie stars look straight at the camera](https://www.theverge.com/2023/1/26/23572459/ai-eye-contact-tech-nvidia-movie-edit-clips)<!-- TECH:END -->
+ - [The FBI, DOJ, Secret Service, and European agencies seize ransomware gang Hive&#39;s website and decryption keys; FBI had access to Hive&#39;s network since July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230126/p22#a230126p22)
+ - [Maxed out Mac mini, Mac Studio, iMac, Mac Pro - what you get for the money](https://appleinsider.com/articles/23/01/26/maxed-out-mac-mini-mac-studio-imac-mac-pro---what-you-get-for-the-money?utm_medium=rss)
+ - [Sources: Stripe co-founders Patrick and John Collison told staff their goal is to go public or let employees sell shares in private markets in the next year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230126/p21#a230126p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
