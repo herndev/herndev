@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is amazing \u2764\ufe0f](http://9gag.com/gag/aOx35K6)
- - ⏩ [Amazing skills!](http://9gag.com/gag/aXno1vb)
- - 👉 [Never go full retard &lpar;selfburn&rpar;](http://9gag.com/gag/a4oEgq1)<!-- MEMES:END -->
+ - 💣 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)
+ - ⏩ [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - 👉 [Have you?](http://9gag.com/gag/aREXNZQ)<!-- MEMES:END -->
 
 ---
 
