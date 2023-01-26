@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
- - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 👉 [You have my curiousity, now you have my attention](http://9gag.com/gag/ay2MAjb)<!-- MEMES:END -->
+ - 💣 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - 👉 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)<!-- MEMES:END -->
 
 ---
 
