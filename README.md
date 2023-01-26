@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #586, January 26](https://www.pcgamer.com/wordle-hint-answer-today-586-january-26)
  - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)
- - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)
- - [Oh great, crypto miners are selling repainted GPUs and passing them off as new](https://www.pcgamer.com/oh-great-crypto-miners-are-selling-repainted-gpus-and-passing-them-off-as-new)<!-- GAME:END -->
+ - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
