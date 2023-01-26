@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: besides FTX, US bank Silvergate has been used by 12+ crypto companies that were fined, closed, bankrupt, or under investigation, including Binance &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/230126/p16#a230126p16)
- - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)
- - [Filing: crypto exchange Mango Markets sues alleged exploiter Avraham Eisenberg for $47M in damages, saying he returned only $67M of the roughly $114M he netted &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230126/p14#a230126p14)<!-- TECH:END -->
+ - [Austrian police say a hacker, arrested in November, tried to sell the name, gender, address, and DOB of &quot;presumably every citizen&quot; in Austria, or 9.1M people &lpar;Francois Murphy/Reuters&rpar;](http://www.techmeme.com/230126/p20#a230126p20)
+ - [Here are the best free movies and TV shows on Tubi](https://www.androidauthority.com/best-movies-and-tv-shows-on-tubi-3271595/)
+ - [Apple extends Chinese censorship to Hong Kong users](https://appleinsider.com/articles/23/01/26/apple-extends-chinese-censorship-to-hong-kong-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
