@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)
- - ⏩ [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
- - 👉 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
+ - 💣 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
+ - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 👉 [You have my curiousity, now you have my attention](http://9gag.com/gag/ay2MAjb)<!-- MEMES:END -->
 
 ---
 
