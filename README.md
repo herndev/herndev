@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Assetto Corsa Competizione, Lawn Mowing Simulator, and Train Sim World 3: Deluxe Edition](https://news.xbox.com/en-us/2023/01/26/free-play-days-assetto-corsa-competizione-lawn-mowing-simulator-and-train-sim-world-3-deluxe-edition/)
- - [The Dead Space remake changes all the right things](https://www.polygon.com/reviews/23571676/dead-space-remake-review-release-date-ps5-xbox-series-x-pc)
- - [This Whole Plane Started Playing IRL Battleship To Figure Out Who Farted](https://kotaku.com/airplane-battleship-board-game-viral-tiktok-fart-1850034616)<!-- GAME:END -->
+ - [Magic: The Gathering and Smite Collide in New Season of Monsters](https://news.xbox.com/en-us/2023/01/26/magic-the-gathering-and-smite-collide/)
+ - [Succession season 4 trailer promises at least one rich person will throw something](https://www.polygon.com/2023/1/26/23572706/succession-season-4-trailer-promises-at-least-one-rich-person-will-throw-something)
+ - [Hitman 3&#39;s new name, new mode, and new graphics tech are here](https://www.pcgamer.com/hitman-3s-new-name-new-mode-and-new-graphics-tech-are-here)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
