@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - 👉 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)<!-- MEMES:END -->
+ - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - ⏩ [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - 👉 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)<!-- MEMES:END -->
 
 ---
 
