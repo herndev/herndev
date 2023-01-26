@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck mass production won’t start until 2024](https://www.theverge.com/2023/1/25/23571806/tesla-cybertruck-volume-production-delay-2024-q4-2022)
- - [Save up to 48% on Samsung storage drives in this flash sale](https://www.androidauthority.com/samsung-storage-sale-3271953/)
- - [Elon Musk thinks Twitter is real life](https://www.theverge.com/2023/1/25/23571793/elon-musk-twitter-tesla-brand-image-damage-earnings)<!-- TECH:END -->
+ - [Sources: Meta is paying BuzzFeed to help generate creator content for Facebook and Instagram and to train creators as part of a ~$10M deal reached in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230125/p36#a230125p36)
+ - [Best Low-Interest Personal Loans for January 2023     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)
+ - [6 Best Places to Buy Contact Lenses Online &lpar;and Save Money&rpar;     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
