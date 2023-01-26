@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [North Carolina-based Zift Solutions, whose ZiftOne tool helps companies manage channel marketing, sales, and operations, raised $70M led by Investcorp &lpar;Edward Gately/Channel Futures&rpar;](http://www.techmeme.com/230125/p34#a230125p34)
- - [Wednesday’s top tech news: Meta unbans Trump](https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog)
- - [Joe Manchin is trying to derail the EV tax credit he helped craft](https://www.theverge.com/2023/1/25/23571567/manchin-ev-tax-credit-bill-battery-ira-irs)<!-- TECH:END -->
+ - [Tesla Cybertruck mass production won’t start until 2024](https://www.theverge.com/2023/1/25/23571806/tesla-cybertruck-volume-production-delay-2024-q4-2022)
+ - [Save up to 48% on Samsung storage drives in this flash sale](https://www.androidauthority.com/samsung-storage-sale-3271953/)
+ - [Elon Musk thinks Twitter is real life](https://www.theverge.com/2023/1/25/23571793/elon-musk-twitter-tesla-brand-image-damage-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
