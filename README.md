@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sierra&#39;s classic city builder returns next month with Pharaoh: A New Era](https://www.pcgamer.com/sierras-classic-city-builder-returns-next-month-with-pharaoh-a-new-era)
  - [Wordle hint and answer today: Let&#39;s solve #586, January 26](https://www.pcgamer.com/wordle-hint-answer-today-586-january-26)
- - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)
- - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)<!-- GAME:END -->
+ - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
