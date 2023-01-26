@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Fitness+ review: Two years later, barely treads water](https://appleinsider.com/articles/23/01/26/apple-fitness-review-two-years-later-barely-treads-water?utm_medium=rss)
- - [Apple MacBook Pro &lpar;16-Inch, 2023&rpar; Review: Great Gets Greater](https://www.wired.com/review/apple-macbook-pro-16-inch-2023/)
- - [Yandex says a former employee is responsible for the leak of a 44.7GB source code repository on a hacking forum and that the company&#39;s systems were not hacked &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230126/p26#a230126p26)<!-- TECH:END -->
+ - [Substack introduces private accounts, search and chat improvements, easy template creation, toggling between publications, inline footnotes, and LaTeX support &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230126/p27#a230126p27)
+ - [Microsoft strikes ‘strategic alliance’ with solar manufacturer](https://www.theverge.com/2023/1/26/23572495/microsoft-qcells-strategic-alliance-renewable-energy-solar-panels)
+ - [Audi Activesphere Is a Mighty Morphin&#39; EV Coupe That&#39;s Also a Pickup     - CNET](https://www.cnet.com/roadshow/news/audi-activesphere-is-a-mighty-morphin-ev-coupe-thats-also-a-pickup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
