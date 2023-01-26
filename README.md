@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Season: A Letter to the Future is one of the best games I’ve played in years](https://www.polygon.com/reviews/23569855/season-a-letter-to-the-future-review-ps5-ps4-pc-release-date-genre)
- - [The Disney empire was built on 100 years of near implosions](https://www.polygon.com/century-of-disney/23559556/disney-100-year-history)
- - [Puzzle-strategy mashup Backbeat is coming to PS5 and PS4, demo available now](https://blog.playstation.com/2023/01/26/puzzle-strategy-mashup-backbeat-is-coming-to-ps5-and-ps4-demo-available-now/)<!-- GAME:END -->
+ - [Free Play Days – Assetto Corsa Competizione, Lawn Mowing Simulator, and Train Sim World 3: Deluxe Edition](https://news.xbox.com/en-us/2023/01/26/free-play-days-assetto-corsa-competizione-lawn-mowing-simulator-and-train-sim-world-3-deluxe-edition/)
+ - [The Dead Space remake changes all the right things](https://www.polygon.com/reviews/23571676/dead-space-remake-review-release-date-ps5-xbox-series-x-pc)
+ - [This Whole Plane Started Playing IRL Battleship To Figure Out Who Farted](https://kotaku.com/airplane-battleship-board-game-viral-tiktok-fart-1850034616)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
