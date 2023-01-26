@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Major US defence corp says no, playing War Thunder doesn&#39;t make you a threat to national security](https://www.pcgamer.com/major-us-defence-corp-says-no-playing-war-thunder-doesnt-make-you-a-threat-to-national-security)
- - [US trying to head off EU approval of Microsoft-Activision merger — plus all the latest on the deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [DualSense Edge wireless controller launches globally today](https://blog.playstation.com/2023/01/26/dualsense-edge-wireless-controller-launches-globally-today/)<!-- GAME:END -->
+ - [Season: A Letter to the Future is one of the best games I’ve played in years](https://www.polygon.com/reviews/23569855/season-a-letter-to-the-future-review-ps5-ps4-pc-release-date-genre)
+ - [The Disney empire was built on 100 years of near implosions](https://www.polygon.com/century-of-disney/23559556/disney-100-year-history)
+ - [Puzzle-strategy mashup Backbeat is coming to PS5 and PS4, demo available now](https://blog.playstation.com/2023/01/26/puzzle-strategy-mashup-backbeat-is-coming-to-ps5-and-ps4-demo-available-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
