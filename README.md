@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 could be the first iPhone to feature Wi-Fi 6E](https://appleinsider.com/articles/23/01/26/iphone-15-could-be-the-first-iphone-to-feature-wi-fi-6e?utm_medium=rss)
- - [Lam Research, one of the three biggest providers of chip manufacturing equipment in the US, plans to cut ~7% of its workforce, or about 1,300 jobs worldwide &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230125/p37#a230125p37)
- - [Bitcoin Proposed to Become Legal Tender in Arizona     - CNET](https://www.cnet.com/culture/bitcoin-proposed-to-become-legal-tender-in-arizona/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: South Korean prosecutors are seeking the arrest of Bithumb owner Kang Jong-Hyun, as part of a wider probe into the crypto exchange and its affiliates &lpar;CoinDesk&rpar;](http://www.techmeme.com/230125/p38#a230125p38)
+ - [Surfshark Passes First Independent No-Logs Audit     - CNET](https://www.cnet.com/tech/services-and-software/surfshark-passes-first-independent-no-logs-audit/#ftag=CAD590a51e)
+ - [iPhone 15 could be the first iPhone to feature Wi-Fi 6E](https://appleinsider.com/articles/23/01/26/iphone-15-could-be-the-first-iphone-to-feature-wi-fi-6e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
