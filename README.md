@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Spit-bull, can release a powerful ranged attack that immobilizes enemies with slobber.](http://9gag.com/gag/aREX9Gq)
- - ⏩ [500.000 is what I would have guessed...](http://9gag.com/gag/abvVmZb)
- - 👉 [He got annoyed.](http://9gag.com/gag/a8qEXKp)<!-- MEMES:END -->
+ - 💣 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - ⏩ [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)
+ - 👉 [The floor is lava](http://9gag.com/gag/a9qEZjW)<!-- MEMES:END -->
 
 ---
 
