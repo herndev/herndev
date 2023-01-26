@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Big changes coming for Android in India](https://www.androidauthority.com/daily-authority-january-26-2023-3272034/)
- - [Welcome to the Jungle, which helps recruitment through feature-rich profiles, a job board, and more, raised a &amp;euro;50M Series C, bringing its total funding to &amp;euro;79M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230126/p5#a230126p5)
- - [The long-awaited OnePlus Pad could debut alongside OnePlus 11](https://www.androidauthority.com/oneplus-pad-oneplus-11-3271510/)<!-- TECH:END -->
+ - [Apple Studio Display Hits New All-Time Low With $299 Off at Amazon     - CNET](https://www.cnet.com/deals/snag-the-apple-studio-display-all-time-low-299-off/#ftag=CAD590a51e)
+ - [Miss a removable battery, microSD slot, and 3.5mm port? This phone is for you.](https://www.androidauthority.com/tcl-ion-x-3272056/)
+ - [Daily Authority: 📱 Big changes coming for Android in India](https://www.androidauthority.com/daily-authority-january-26-2023-3272034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
