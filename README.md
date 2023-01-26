@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Better performance or battery life? This wasn’t close at all.](https://www.androidauthority.com/better-performance-battery-life-smartphones-poll-results-3272086/)
- - [iPhone Christmas sales hit 15% over production problems &amp; weak demand](https://appleinsider.com/articles/23/01/26/iphone-christmas-sales-hit-15-over-production-problems-weak-demand?utm_medium=rss)
- - [New Mac Pro may not support PCI-E GPUs](https://appleinsider.com/articles/23/01/26/new-mac-pro-may-not-support-external-gpus?utm_medium=rss)<!-- TECH:END -->
+ - [Five best security keys for iOS 16.3](https://appleinsider.com/inside/ios-16/best/five-best-security-keys-for-ios-163?utm_medium=rss)
+ - [Q&amp;A with DoNotPay&#39;s Joshua Browder on pivoting from legal issues to refocus on consumer support after getting &quot;distracted&quot;, ChatGPT, future plans, and more &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230126/p13#a230126p13)
+ - [Facebook and Donald Trump have experienced a mutual decay since his ban, both losing their shine, meaning his reinstatement may not be as impactful as feared &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/230126/p12#a230126p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
