@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five best security keys for iOS 16.3](https://appleinsider.com/inside/ios-16/best/five-best-security-keys-for-ios-163?utm_medium=rss)
- - [Q&amp;A with DoNotPay&#39;s Joshua Browder on pivoting from legal issues to refocus on consumer support after getting &quot;distracted&quot;, ChatGPT, future plans, and more &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230126/p13#a230126p13)
- - [Facebook and Donald Trump have experienced a mutual decay since his ban, both losing their shine, meaning his reinstatement may not be as impactful as feared &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/230126/p12#a230126p12)<!-- TECH:END -->
+ - [Documents: besides FTX, US bank Silvergate has been used by 12+ crypto companies that were fined, closed, bankrupt, or under investigation, including Binance &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/230126/p16#a230126p16)
+ - [The University of Texas at Austin plans to launch a large-scale, low-cost online MSc program in AI, the first of its kind among elite computing schools &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230126/p15#a230126p15)
+ - [Filing: crypto exchange Mango Markets sues alleged exploiter Avraham Eisenberg for $47M in damages, saying he returned only $67M of the roughly $114M he netted &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230126/p14#a230126p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
