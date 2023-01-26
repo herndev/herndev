@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)
- - [Shazam! Fury of the Gods’ trailer feels like the end of an era for DC movies](https://www.polygon.com/23573025/shazam-fury-gods-2-trailer-dceu-new-movies-black-adam)
- - [5 Games To Expect From Ubisoft In 2023 &lpar;And Some To Be Skeptical Of&rpar;](https://kotaku.com/ubisoft-release-assassins-creed-mirage-the-division-1850035378)<!-- GAME:END -->
+ - [Does Grand Theft Auto: The Trilogy work yet?](https://www.polygon.com/23573243/grand-theft-auto-gta-trilogy-definitive-edition-work-yet)
+ - [Racing games and an N64 classic join Xbox Game Pass for February](https://www.polygon.com/23573364/xbox-game-pass-pc-february-2023-games-release-date)
+ - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
