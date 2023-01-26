@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - ⏩ [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)
- - 👉 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)<!-- MEMES:END -->
+ - 💣 [You know what to do](http://9gag.com/gag/a4oEmo6)
+ - ⏩ [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)
+ - 👉 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
 
 ---
 
