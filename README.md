@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austrian police say a hacker, arrested in November, tried to sell the name, gender, address, and DOB of &quot;presumably every citizen&quot; in Austria, or 9.1M people &lpar;Francois Murphy/Reuters&rpar;](http://www.techmeme.com/230126/p20#a230126p20)
- - [Here are the best free movies and TV shows on Tubi](https://www.androidauthority.com/best-movies-and-tv-shows-on-tubi-3271595/)
- - [Apple extends Chinese censorship to Hong Kong users](https://appleinsider.com/articles/23/01/26/apple-extends-chinese-censorship-to-hong-kong-users?utm_medium=rss)<!-- TECH:END -->
+ - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
+ - [Daily Deals Jan. 26: $310 off 14-inch MacBook Pro, Apple Studio Display $1,299, 24-inch iMac $1,099 &amp; more](https://appleinsider.com/articles/23/01/26/daily-deals-jan-26-310-off-14-inch-macbook-pro-apple-studio-display-1299-24-inch-imac-1099-more?utm_medium=rss)
+ - [The best use for AI eye contact tech is making movie stars look straight at the camera](https://www.theverge.com/2023/1/26/23572459/ai-eye-contact-tech-nvidia-movie-edit-clips)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
