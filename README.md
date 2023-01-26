@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is paying BuzzFeed to help generate creator content for Facebook and Instagram and to train creators as part of a ~$10M deal reached in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230125/p36#a230125p36)
- - [Best Low-Interest Personal Loans for January 2023     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)
- - [6 Best Places to Buy Contact Lenses Online &lpar;and Save Money&rpar;     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 could be the first iPhone to feature Wi-Fi 6E](https://appleinsider.com/articles/23/01/26/iphone-15-could-be-the-first-iphone-to-feature-wi-fi-6e?utm_medium=rss)
+ - [Lam Research, one of the three biggest providers of chip manufacturing equipment in the US, plans to cut ~7% of its workforce, or about 1,300 jobs worldwide &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230125/p37#a230125p37)
+ - [Bitcoin Proposed to Become Legal Tender in Arizona     - CNET](https://www.cnet.com/culture/bitcoin-proposed-to-become-legal-tender-in-arizona/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
