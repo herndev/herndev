@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - ⏩ [The floor is lava](http://9gag.com/gag/a9qEZjW)
- - 👉 [Karen against a performer](http://9gag.com/gag/armM8mX)<!-- MEMES:END -->
+ - 💣 [Really?](http://9gag.com/gag/a2K7ADY)
+ - ⏩ [Interesting sites to cure your boredom](http://9gag.com/gag/aNwpjLr)
+ - 👉 [Tanks for tankers](http://9gag.com/gag/a6qE4yb)<!-- MEMES:END -->
 
 ---
 
