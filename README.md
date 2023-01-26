@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Teen Wolf died so Wolf Pack could live](https://www.polygon.com/23571587/teen-wolf-movie-review-wolf-pack-season-1)
- - [The Samurai Yakuza Game Will Guest-Star A World-Famous Wrestler And An Internet Hottie](https://kotaku.com/yakuza-like-a-dragon-ishin-kenny-omega-rahul-kohli-gues-1850035711)
- - [From Concept Art to Cosplay: Creating iconic characters for God of War Ragnarök](https://blog.playstation.com/2023/01/26/from-concept-art-to-cosplay-creating-iconic-characters-for-god-of-war-ragnarok/)<!-- GAME:END -->
+ - [GoldenEye 007’s incredible pause music was written in just 20 minutes](https://www.polygon.com/23572694/goldeneye-007-nintendo-switch-xbox-pause-music-tiktok-n64)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [Critics Love The New Dead Space Remake](https://kotaku.com/dead-space-2023-remake-reviews-metacritic-graphics-ps5-1850036135)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
