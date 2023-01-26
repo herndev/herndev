@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)
  - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)
- - [Oh great, crypto miners are selling repainted GPUs and passing them off as new](https://www.pcgamer.com/oh-great-crypto-miners-are-selling-repainted-gpus-and-passing-them-off-as-new)
- - [I played that $2,000 Steam game, and its ridiculous price is probably for the best](https://www.pcgamer.com/i-played-that-dollar2000-steam-game-and-its-ridiculous-price-is-probably-for-the-best)<!-- GAME:END -->
+ - [Oh great, crypto miners are selling repainted GPUs and passing them off as new](https://www.pcgamer.com/oh-great-crypto-miners-are-selling-repainted-gpus-and-passing-them-off-as-new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
