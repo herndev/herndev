@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - ⏩ [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)
- - 👉 [The floor is lava](http://9gag.com/gag/a9qEZjW)<!-- MEMES:END -->
+ - ⏩ [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)
+ - 👉 [A tarantula infected with Ophiocordyceps](http://9gag.com/gag/aL1pWnW)<!-- MEMES:END -->
 
 ---
 
