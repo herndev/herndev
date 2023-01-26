@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - ⏩ [Only 4?](http://9gag.com/gag/abvVm9p)
- - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
+ - 💣 [She is amazing \u2764\ufe0f](http://9gag.com/gag/aOx35K6)
+ - ⏩ [Amazing skills!](http://9gag.com/gag/aXno1vb)
+ - 👉 [Never go full retard &lpar;selfburn&rpar;](http://9gag.com/gag/a4oEgq1)<!-- MEMES:END -->
 
 ---
 
