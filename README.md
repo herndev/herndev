@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 👉 [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)<!-- MEMES:END -->
+ - 💣 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - ⏩ [Only 4?](http://9gag.com/gag/abvVm9p)
+ - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
 
 ---
 
