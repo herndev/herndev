@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack introduces private accounts, search and chat improvements, easy template creation, toggling between publications, inline footnotes, and LaTeX support &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230126/p27#a230126p27)
- - [Microsoft strikes ‘strategic alliance’ with solar manufacturer](https://www.theverge.com/2023/1/26/23572495/microsoft-qcells-strategic-alliance-renewable-energy-solar-panels)
- - [Audi Activesphere Is a Mighty Morphin&#39; EV Coupe That&#39;s Also a Pickup     - CNET](https://www.cnet.com/roadshow/news/audi-activesphere-is-a-mighty-morphin-ev-coupe-thats-also-a-pickup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google adds new Chrome for Android feature to lock your Incognito tabs](https://www.androidauthority.com/chrome-android-incognito-3272389/)
+ - [What is Material You? Google’s design language explained](https://www.androidauthority.com/what-is-google-material-you-3272386/)
+ - [New York City Mayor Eric Adams plans to require that Uber and Lyft have zero-emission fleets by 2030, potentially affecting an estimated 100K+ for-hire vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230126/p28#a230126p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
