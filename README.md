@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/amAPKp6)
- - ⏩ [You know what to do](http://9gag.com/gag/a4oEmo6)
- - 👉 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
+ - 💣 [You know what to do](http://9gag.com/gag/a4oEmo6)
+ - ⏩ [Damn](http://9gag.com/gag/amAPKp6)
+ - 👉 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)<!-- MEMES:END -->
 
 ---
 
