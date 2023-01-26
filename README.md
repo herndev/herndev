@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pauses in-house Wi-Fi chip development](https://appleinsider.com/articles/23/01/26/apple-pauses-in-house-wi-fi-chip-development?utm_medium=rss)
- - [NEA raised $3.05B for a fund focused on early-stage deals and $3.18B for a debut growth equity fund and says it filed to become a registered investment advisor &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230126/p25#a230126p25)
- - [Don’t pay! Free streaming content is everywhere: Best free shows on YouTube](https://www.androidauthority.com/free-youtube-tv-shows-3270576/)<!-- TECH:END -->
+ - [Apple Fitness+ review: Two years later, barely treads water](https://appleinsider.com/articles/23/01/26/apple-fitness-review-two-years-later-barely-treads-water?utm_medium=rss)
+ - [Apple MacBook Pro &lpar;16-Inch, 2023&rpar; Review: Great Gets Greater](https://www.wired.com/review/apple-macbook-pro-16-inch-2023/)
+ - [Yandex says a former employee is responsible for the leak of a 44.7GB source code repository on a hacking forum and that the company&#39;s systems were not hacked &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230126/p26#a230126p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
