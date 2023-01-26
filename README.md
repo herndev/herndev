@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI, DOJ, Secret Service, and European agencies seize ransomware gang Hive&#39;s website and decryption keys; FBI had access to Hive&#39;s network since July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230126/p22#a230126p22)
- - [Maxed out Mac mini, Mac Studio, iMac, Mac Pro - what you get for the money](https://appleinsider.com/articles/23/01/26/maxed-out-mac-mini-mac-studio-imac-mac-pro---what-you-get-for-the-money?utm_medium=rss)
- - [Sources: Stripe co-founders Patrick and John Collison told staff their goal is to go public or let employees sell shares in private markets in the next year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230126/p21#a230126p21)<!-- TECH:END -->
+ - [Apple pauses in-house Wi-Fi chip development](https://appleinsider.com/articles/23/01/26/apple-pauses-in-house-wi-fi-chip-development?utm_medium=rss)
+ - [NEA raised $3.05B for a fund focused on early-stage deals and $3.18B for a debut growth equity fund and says it filed to become a registered investment advisor &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230126/p25#a230126p25)
+ - [Don’t pay! Free streaming content is everywhere: Best free shows on YouTube](https://www.androidauthority.com/free-youtube-tv-shows-3270576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
