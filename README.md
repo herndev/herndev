@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Treating bloat in Cows.\ud83d\udc04\ud83d\udca8 Bloat is a digestive disorder that results from the build up of excessive gas,which can can ultimately lead to death. This method of treatment helps the cow by releasing methane &amp; the flames help the vet gauge the remaining gas left in the cow. \ud83d\udc04](http://9gag.com/gag/aL1pVKV)
- - ⏩ [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)
- - 👉 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
+ - 💣 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
+ - ⏩ [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
+ - 👉 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
 
 ---
 
