@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Major US defence corp says no, playing War Thunder doesn&#39;t make you a threat to national security](https://www.pcgamer.com/major-us-defence-corp-says-no-playing-war-thunder-doesnt-make-you-a-threat-to-national-security)
  - [US trying to head off EU approval of Microsoft-Activision merger — plus all the latest on the deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [DualSense Edge wireless controller launches globally today](https://blog.playstation.com/2023/01/26/dualsense-edge-wireless-controller-launches-globally-today/)
- - [Improve your RTX 4090&#39;s thermals by playing in a -53°C snowdrift](https://www.pcgamer.com/improve-your-rtx-4090s-thermals-by-playing-in-a-53c-snowdrift)<!-- GAME:END -->
+ - [DualSense Edge wireless controller launches globally today](https://blog.playstation.com/2023/01/26/dualsense-edge-wireless-controller-launches-globally-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
