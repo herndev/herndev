@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers at World of Warcraft studio Proletariat withdraw union petition](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote-withdrawn)
- - [Genshin Impact studio announces final beta for its new game, you can sign up now](https://www.pcgamer.com/genshin-impact-studio-announces-final-beta-for-its-new-game-you-can-sign-up-now)
- - [Why does Ted Cruz think your Xbox is woke?](https://www.polygon.com/23571706/xbox-ted-cruz-woke-power-saving)<!-- GAME:END -->
+ - [Oh great, crypto miners are selling repainted GPUs and passing them off as new](https://www.pcgamer.com/oh-great-crypto-miners-are-selling-repainted-gpus-and-passing-them-off-as-new)
+ - [I played that $2,000 Steam game, and its ridiculous price is probably for the best](https://www.pcgamer.com/i-played-that-dollar2000-steam-game-and-its-ridiculous-price-is-probably-for-the-best)
+ - [Twitch finally plans to make pre-roll ads tolerable this year](https://www.pcgamer.com/twitch-finally-plans-to-make-pre-roll-ads-tolerable-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
