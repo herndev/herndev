@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds new Chrome for Android feature to lock your Incognito tabs](https://www.androidauthority.com/chrome-android-incognito-3272389/)
- - [What is Material You? Google’s design language explained](https://www.androidauthority.com/what-is-google-material-you-3272386/)
- - [New York City Mayor Eric Adams plans to require that Uber and Lyft have zero-emission fleets by 2030, potentially affecting an estimated 100K+ for-hire vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230126/p28#a230126p28)<!-- TECH:END -->
+ - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
+ - [Intel reports Q4 revenue down 32% YoY to $14B, vs. $14.46B est., Data Center and AI down 33% YoY, and Q1 2023 revenue guidance below estimates; stock drops 7%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230126/p30#a230126p30)
+ - [Record Scratch: Spotify Recovering After Outage     - CNET](https://www.cnet.com/tech/services-and-software/record-scratch-spotify-was-down-for-many-users-thursday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
