@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what to do](http://9gag.com/gag/a4oEmo6)
- - ⏩ [Damn](http://9gag.com/gag/amAPKp6)
- - 👉 [Undercover Police catches pickpocket](http://9gag.com/gag/aREXN62)<!-- MEMES:END -->
+ - 💣 [The Spit-bull, can release a powerful ranged attack that immobilizes enemies with slobber.](http://9gag.com/gag/aREX9Gq)
+ - ⏩ [500.000 is what I would have guessed...](http://9gag.com/gag/abvVmZb)
+ - 👉 [He got annoyed.](http://9gag.com/gag/a8qEXKp)<!-- MEMES:END -->
 
 ---
 
