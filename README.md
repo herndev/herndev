@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sierra&#39;s classic city builder returns next month with Pharaoh: A New Era](https://www.pcgamer.com/sierras-classic-city-builder-returns-next-month-with-pharaoh-a-new-era)
- - [Wordle hint and answer today: Let&#39;s solve #586, January 26](https://www.pcgamer.com/wordle-hint-answer-today-586-january-26)
- - [Justice for Miranda finally achieved, thanks to Mass Effect mod](https://www.pcgamer.com/justice-for-miranda-finally-achieved-thanks-to-mass-effect-mod)<!-- GAME:END -->
+ - [US trying to head off EU approval of Microsoft-Activision merger — plus all the latest on the deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [DualSense Edge wireless controller launches globally today](https://blog.playstation.com/2023/01/26/dualsense-edge-wireless-controller-launches-globally-today/)
+ - [Improve your RTX 4090&#39;s thermals by playing in a -53°C snowdrift](https://www.pcgamer.com/improve-your-rtx-4090s-thermals-by-playing-in-a-53c-snowdrift)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
