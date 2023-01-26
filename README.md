@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft is shutting down its metaverse](https://www.pcgamer.com/microsoft-is-shutting-down-its-metaverse)
  - [Oh great, crypto miners are selling repainted GPUs and passing them off as new](https://www.pcgamer.com/oh-great-crypto-miners-are-selling-repainted-gpus-and-passing-them-off-as-new)
- - [I played that $2,000 Steam game, and its ridiculous price is probably for the best](https://www.pcgamer.com/i-played-that-dollar2000-steam-game-and-its-ridiculous-price-is-probably-for-the-best)
- - [Twitch finally plans to make pre-roll ads tolerable this year](https://www.pcgamer.com/twitch-finally-plans-to-make-pre-roll-ads-tolerable-this-year)<!-- GAME:END -->
+ - [I played that $2,000 Steam game, and its ridiculous price is probably for the best](https://www.pcgamer.com/i-played-that-dollar2000-steam-game-and-its-ridiculous-price-is-probably-for-the-best)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
