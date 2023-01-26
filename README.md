@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie&#39;s narrative team reveals why SIVA never came back in Destiny 2](https://www.pcgamer.com/bungies-narrative-team-reveals-why-siva-never-came-back-in-destiny-2)
- - [PlayStation 5: What To Expect From Sony&#39;s Console In 2023](https://kotaku.com/playstation-5-games-2023-vr2-spider-man-2-last-of-us-1850036923)
- - [Call Of Duty Warzone Players Caught Off Guard By DMZ Progress Wipe](https://kotaku.com/call-duty-warzone-season-2-dmz-wipe-reset-faction-rank-1850036904)<!-- GAME:END -->
+ - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)
+ - [Shazam! Fury of the Gods’ trailer feels like the end of an era for DC movies](https://www.polygon.com/23573025/shazam-fury-gods-2-trailer-dceu-new-movies-black-adam)
+ - [5 Games To Expect From Ubisoft In 2023 &lpar;And Some To Be Skeptical Of&rpar;](https://kotaku.com/ubisoft-release-assassins-creed-mirage-the-division-1850035378)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
