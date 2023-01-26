@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering and Smite Collide in New Season of Monsters](https://news.xbox.com/en-us/2023/01/26/magic-the-gathering-and-smite-collide/)
- - [Succession season 4 trailer promises at least one rich person will throw something](https://www.polygon.com/2023/1/26/23572706/succession-season-4-trailer-promises-at-least-one-rich-person-will-throw-something)
- - [Hitman 3&#39;s new name, new mode, and new graphics tech are here](https://www.pcgamer.com/hitman-3s-new-name-new-mode-and-new-graphics-tech-are-here)<!-- GAME:END -->
+ - [The six biggest differences in the Dead Space remake](https://www.polygon.com/guides/23571515/dead-space-remake-biggest-differences-graphics-update-isaac-voice-story-maps-ending)
+ - [Someone On Tinder Made A Game About What It’s Like To Date Them](https://kotaku.com/tinder-dating-app-video-game-character-creator-twitter-1850035402)
+ - [No lie, Rian Johnson’s Poker Face just owns](https://www.polygon.com/reviews/23569789/poker-face-review-natasha-lyonne)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
