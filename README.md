@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia’s eye-contact AI is its creepiest update yet](https://www.polygon.com/23571376/nvidia-broadcast-eye-contact-ai)
- - [How Minecraft Legends Twists Classic Minecraft Ideas Into All-New Shapes](https://news.xbox.com/en-us/2023/01/25/how-minecraft-legends-twists-classic-ideas-into-all-new-shapes/)
- - [Everything We Saw At Today&#39;s Xbox Developer Direct](https://kotaku.com/xbox-developer-direct-forza-minecraft-legends-eso-hi-fi-1850031995)<!-- GAME:END -->
+ - [Workers at World of Warcraft studio Proletariat withdraw union petition](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote-withdrawn)
+ - [Genshin Impact studio announces final beta for its new game, you can sign up now](https://www.pcgamer.com/genshin-impact-studio-announces-final-beta-for-its-new-game-you-can-sign-up-now)
+ - [Why does Ted Cruz think your Xbox is woke?](https://www.polygon.com/23571706/xbox-ted-cruz-woke-power-saving)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
