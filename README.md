@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is your moment! Have it](http://9gag.com/gag/a4oEwZd)
- - ⏩ [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
- - 👉 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
+ - 💣 [He should go buy a lottery ticket](http://9gag.com/gag/aA0bmd2)
+ - ⏩ [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)
+ - 👉 [Karen against a performer](http://9gag.com/gag/armM8mX)<!-- MEMES:END -->
 
 ---
 
