@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone sales are so bad even the holidays couldn’t help, says IDC](https://www.theverge.com/2023/1/26/23572369/smartphone-shipments-2022-down-idc-holiday-inflation)
- - [Worldwide smartphone shipments declined 18.3% YoY to 300.3M in Q4 2022, the largest ever drop in a quarter; Apple dropped 14.9%, Samsung 15.6%, and Xiaomi 26.3% &lpar;IDC&rpar;](http://www.techmeme.com/230126/p8#a230126p8)
- - [German software maker SAP plans to cut ~3,000 jobs in 2023, or 2.5% of its staff, and explore selling its remaining Qualtrics stake; SAP stock is down 12% YTD &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230126/p7#a230126p7)<!-- TECH:END -->
+ - [You told us: Better performance or battery life? This wasn’t close at all.](https://www.androidauthority.com/better-performance-battery-life-smartphones-poll-results-3272086/)
+ - [iPhone Christmas sales hit 15% over production problems &amp; weak demand](https://appleinsider.com/articles/23/01/26/iphone-christmas-sales-hit-15-over-production-problems-weak-demand?utm_medium=rss)
+ - [New Mac Pro may not support PCI-E GPUs](https://appleinsider.com/articles/23/01/26/new-mac-pro-may-not-support-external-gpus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
