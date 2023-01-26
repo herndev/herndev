@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [North Carolina-based Zift Solutions, whose ZiftOne tool helps companies manage channel marketing, sales, and operations, raised $70M led by Investcorp &lpar;Edward Gately/Channel Futures&rpar;](http://www.techmeme.com/230125/p34#a230125p34)
  - [Wednesday’s top tech news: Meta unbans Trump](https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog)
- - [Joe Manchin is trying to derail the EV tax credit he helped craft](https://www.theverge.com/2023/1/25/23571567/manchin-ev-tax-credit-bill-battery-ira-irs)
- - [Meta allows Trump back on Facebook and Instagram](https://www.theverge.com/2023/1/25/23540807/donald-trump-meta-facebook-instagram-ban-election-january-6th-twitter-truth-social)<!-- TECH:END -->
+ - [Joe Manchin is trying to derail the EV tax credit he helped craft](https://www.theverge.com/2023/1/25/23571567/manchin-ev-tax-credit-bill-battery-ira-irs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
