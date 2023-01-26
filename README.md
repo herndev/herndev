@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GoldenEye 007’s incredible pause music was written in just 20 minutes](https://www.polygon.com/23572694/goldeneye-007-nintendo-switch-xbox-pause-music-tiktok-n64)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Critics Love The New Dead Space Remake](https://kotaku.com/dead-space-2023-remake-reviews-metacritic-graphics-ps5-1850036135)<!-- GAME:END -->
+ - [Bungie&#39;s narrative team reveals why SIVA never came back in Destiny 2](https://www.pcgamer.com/bungies-narrative-team-reveals-why-siva-never-came-back-in-destiny-2)
+ - [PlayStation 5: What To Expect From Sony&#39;s Console In 2023](https://kotaku.com/playstation-5-games-2023-vr2-spider-man-2-last-of-us-1850036923)
+ - [Call Of Duty Warzone Players Caught Off Guard By DMZ Progress Wipe](https://kotaku.com/call-duty-warzone-season-2-dmz-wipe-reset-faction-rank-1850036904)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
