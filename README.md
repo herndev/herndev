@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was her intention!](http://9gag.com/gag/abvVE4v)
- - ⏩ [Unintentional](http://9gag.com/gag/anzQGY5)
- - 👉 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/amAPKp6)
+ - ⏩ [You know what to do](http://9gag.com/gag/a4oEmo6)
+ - 👉 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)<!-- MEMES:END -->
 
 ---
 
