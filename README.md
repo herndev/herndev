@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He should go buy a lottery ticket](http://9gag.com/gag/aA0bmd2)
+ - 💣 [Karen against a performer](http://9gag.com/gag/armM8mX)
  - ⏩ [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)
- - 👉 [Karen against a performer](http://9gag.com/gag/armM8mX)<!-- MEMES:END -->
+ - 👉 [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)<!-- MEMES:END -->
 
 ---
 
