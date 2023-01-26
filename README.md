@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You have my curiousity, now you have my attention](http://9gag.com/gag/ay2MAjb)
- - ⏩ [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
+ - 💣 [Bro really did a Street Fighter winning pose](http://9gag.com/gag/aQEoNLK)
+ - ⏩ [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
+ - 👉 [Dedication and preservation](http://9gag.com/gag/aVb74MP)<!-- MEMES:END -->
 
 ---
 
