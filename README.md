@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The six biggest differences in the Dead Space remake](https://www.polygon.com/guides/23571515/dead-space-remake-biggest-differences-graphics-update-isaac-voice-story-maps-ending)
- - [Someone On Tinder Made A Game About What It’s Like To Date Them](https://kotaku.com/tinder-dating-app-video-game-character-creator-twitter-1850035402)
- - [No lie, Rian Johnson’s Poker Face just owns](https://www.polygon.com/reviews/23569789/poker-face-review-natasha-lyonne)<!-- GAME:END -->
+ - [Teen Wolf died so Wolf Pack could live](https://www.polygon.com/23571587/teen-wolf-movie-review-wolf-pack-season-1)
+ - [The Samurai Yakuza Game Will Guest-Star A World-Famous Wrestler And An Internet Hottie](https://kotaku.com/yakuza-like-a-dragon-ishin-kenny-omega-rahul-kohli-gues-1850035711)
+ - [From Concept Art to Cosplay: Creating iconic characters for God of War Ragnarök](https://blog.playstation.com/2023/01/26/from-concept-art-to-cosplay-creating-iconic-characters-for-god-of-war-ragnarok/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
