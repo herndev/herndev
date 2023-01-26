@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - ⏩ [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - 👉 [8 Rugby players beaten a young man to death in Argentina in 2020. On January 31, they are expected to be sentenced to life imprisonment](http://9gag.com/gag/aL1prdx)<!-- MEMES:END -->
+ - 💣 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 👉 [Muntjac, also known as Old World Deer, looks like a Forest Spirit from Ghibli&#39;s movies...](http://9gag.com/gag/a8qEn11)<!-- MEMES:END -->
 
 ---
 
