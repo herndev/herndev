@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display Hits New All-Time Low With $299 Off at Amazon     - CNET](https://www.cnet.com/deals/snag-the-apple-studio-display-all-time-low-299-off/#ftag=CAD590a51e)
- - [Miss a removable battery, microSD slot, and 3.5mm port? This phone is for you.](https://www.androidauthority.com/tcl-ion-x-3272056/)
- - [Daily Authority: 📱 Big changes coming for Android in India](https://www.androidauthority.com/daily-authority-january-26-2023-3272034/)<!-- TECH:END -->
+ - [Smartphone sales are so bad even the holidays couldn’t help, says IDC](https://www.theverge.com/2023/1/26/23572369/smartphone-shipments-2022-down-idc-holiday-inflation)
+ - [Worldwide smartphone shipments declined 18.3% YoY to 300.3M in Q4 2022, the largest ever drop in a quarter; Apple dropped 14.9%, Samsung 15.6%, and Xiaomi 26.3% &lpar;IDC&rpar;](http://www.techmeme.com/230126/p8#a230126p8)
+ - [German software maker SAP plans to cut ~3,000 jobs in 2023, or 2.5% of its staff, and explore selling its remaining Qualtrics stake; SAP stock is down 12% YTD &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230126/p7#a230126p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
