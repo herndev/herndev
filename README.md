@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man caught trying to meet up with a 13 year old boy and....](http://9gag.com/gag/a8qEX33)
- - ⏩ [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 👉 [Have you?](http://9gag.com/gag/aREXNZQ)<!-- MEMES:END -->
+ - 💣 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - ⏩ [Amazing skills!](http://9gag.com/gag/aXno1vb)
+ - 👉 [Better hold grudges](http://9gag.com/gag/aL1pooW)<!-- MEMES:END -->
 
 ---
 
