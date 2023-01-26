@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The only acceptable way to pronounce tequila`](http://9gag.com/gag/aoKMAA2)
- - ⏩ [Guess which one has both parents](http://9gag.com/gag/aOx3OeE)
- - 👉 [I posted this 6 months ago, time for another PSA reminder](http://9gag.com/gag/a4oEgoQ)<!-- MEMES:END -->
+ - 💣 [You have my curiousity, now you have my attention](http://9gag.com/gag/ay2MAjb)
+ - ⏩ [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
+ - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
 
 ---
 
