@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A double header](http://9gag.com/gag/a9qE9y0)
- - ⏩ [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
- - 👉 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
+ - 💣 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
+ - ⏩ [To lane split](http://9gag.com/gag/aNwpXX4)
+ - 👉 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)<!-- MEMES:END -->
 
 ---
 
