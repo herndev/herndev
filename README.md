@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - ⏩ [Amazing skills!](http://9gag.com/gag/aXno1vb)
- - 👉 [Better hold grudges](http://9gag.com/gag/aL1pooW)<!-- MEMES:END -->
+ - 💣 [Equality](http://9gag.com/gag/a04739X)
+ - ⏩ [Karma got this little monster](http://9gag.com/gag/aKE6MzN)
+ - 👉 [Gangsta Paradise](http://9gag.com/gag/aqejE2Q)<!-- MEMES:END -->
 
 ---
 
