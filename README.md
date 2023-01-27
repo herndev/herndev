@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)
- - [Assassin’s Creed Comic May Have Hidden Message From Frustrated Artist](https://kotaku.com/assassins-creed-comic-converts-hidden-message-isu-1850042556)
- - [Is Starfield delayed or not?](https://www.polygon.com/23571596/starfield-release-date-delayed-xbox-developer-direct)<!-- GAME:END -->
+ - [Wizards of the Coast fully retreats from D&amp;D license changes after community outrage](https://www.pcgamer.com/wizards-of-the-coast-fully-retreats-from-dandd-license-changes-after-community-outrage)
+ - [Paizo commits to legal battle against Wizards over the future of Pathfinder and D&amp;D](https://www.polygon.com/23553389/dnd-ogl-paizo-orc-open-rpg-creative-license-announcement)
+ - [The Dead Space remake will blur out &#39;disturbing scenes&#39; if you want it to](https://www.pcgamer.com/the-dead-space-remake-will-blur-out-disturbing-scenes-if-you-want-it-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
