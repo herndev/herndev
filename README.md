@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GoldenEye 007 Hits Nintendo Switch, Xbox     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-hits-nintendo-switch-xbox/#ftag=CAD590a51e)
  - [Munich-based smart thermostat startup tado raised &amp;euro;43M led by Trill Impact Ventures, after its plans to go public via a SPAC merger fell apart in September 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230126/p36#a230126p36)
- - [Crowdbotics, a software development platform with a library of prebuilt app architectures, raised a $40M Series B led by NEA, bringing its total funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230126/p35#a230126p35)
- - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Crowdbotics, a software development platform with a library of prebuilt app architectures, raised a $40M Series B led by NEA, bringing its total funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230126/p35#a230126p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
