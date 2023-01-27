@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve&#39;s unusual corporate structure causes its problems, report suggests](https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests)
  - [Bond is Back! GoldenEye 007 Arrives on Xbox Game Pass](https://news.xbox.com/en-us/2023/01/26/goldeneye-007-xbox-game-pass-out-now/)
- - [I&#39;m instantly hooked on this colony sim where you build a town on the ocean](https://www.pcgamer.com/im-instantly-hooked-on-this-colony-sim-where-you-build-a-town-on-the-ocean)
- - [This dreamlike indie RPG is a dense, perfectly refined bite of Elder Scrolls](https://www.pcgamer.com/this-dreamlike-indie-rpg-is-a-dense-perfectly-refined-bite-of-elder-scrolls)<!-- GAME:END -->
+ - [I&#39;m instantly hooked on this colony sim where you build a town on the ocean](https://www.pcgamer.com/im-instantly-hooked-on-this-colony-sim-where-you-build-a-town-on-the-ocean)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
