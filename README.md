@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When frequency matches](http://9gag.com/gag/a2K73Md)
- - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - 👉 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
+ - 💣 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)
+ - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 👉 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 ---
 
