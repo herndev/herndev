@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)
- - [Indian gig economy workers for Uber, Ola, Zomato, Swiggy, and others deal with blocked accounts for up to weeks, after speaking out on poor working conditions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230126/p34#a230126p34)
- - [Blake Lively To Star in Colleen Hoover &#39;It Ends With Us&#39; Book Adaptation     - CNET](https://www.cnet.com/culture/entertainment/blake-lively-to-star-in-colleen-hoover-it-ends-with-us-book-adaptation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Munich-based smart thermostats company tado raised $46.9M led by Trill Impact Ventures, after its plans to go public via a SPAC merger failed to materialize &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230126/p36#a230126p36)
+ - [Crowdbotics, a software development platform with a library of prebuilt app architectures, raised a $40M Series B led by NEA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230126/p35#a230126p35)
+ - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
