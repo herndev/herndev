@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Galactic Conquest to Racing Rivalries to Spongetastic Antics, the THQ Nordic and Handy Games Publisher Sale Has Something for Everyone](https://news.xbox.com/en-us/2023/01/27/from-galactic-conquest-to-racing-rivalries-to-spongetastic-antics-the-thq-nordic-and-handy-games-publisher-sale-has-something-for-everyone/)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Smash Bros. Pro Got Hurt Jumping Out Of Illegal Taxi On Way To Tourney](https://kotaku.com/super-smash-bros-melee-frenzy-genesis-9-illegal-taxi-1850040729)<!-- GAME:END -->
+ - [A Ness main may win the Super Bowl](https://www.polygon.com/23574520/bengals-joe-burrow-smash-bros)
+ - [GoldenEye 007&#39;s Finally On Switch And Xbox, But It Needs Some Work](https://kotaku.com/goldeneye-007-n64-xbox-switch-port-bugs-60-fps-patch-1850041167)
+ - [Nintendo brings back rare Pokémon card 23 years later after famous magician drops lawsuit: &#39;I was a fool&#39;](https://www.pcgamer.com/nintendo-brings-back-rare-pokemon-card-23-years-later-after-famous-magician-drops-lawsuit-i-was-a-fool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
