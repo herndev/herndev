@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google researchers detail MusicLM, an AI model that generates high-fidelity music from text descriptions trained on a dataset of 280K hours of music &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230127/p11#a230127p11)
- - [HBO Max: The 31 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-31-absolute-best-tv-shows-to-watch-jan-2023/#ftag=CAD590a51e)
- - [Best Gifts for Tweens &lpar;Tween Approved&rpar;     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nomad High Volta accessories review: Help your iPhone &amp; Apple Watch stand out](https://appleinsider.com/articles/23/01/27/nomad-high-volta-accessories-review-help-your-iphone-apple-watch-stand-out?utm_medium=rss)
+ - [Amazon Fresh Grocery Delivery Is Going to Cost More Starting Next Month     - CNET](https://www.cnet.com/news/amazon-fresh-grocery-delivery-is-going-to-cost-more-starting-next-month/#ftag=CAD590a51e)
+ - [Source: the SEC is investigating Elon Musk&#39;s role in shaping Tesla&#39;s self-driving car claims, as part of a probe into the company&#39;s statements about Autopilot &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230127/p13#a230127p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
