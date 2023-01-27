@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vivo X90 series is launching globally next week](https://www.androidauthority.com/vivo-x90-series-global-launch-3272749/)
- - [Daily Authority: ✨ New tablets from Google and OnePlus](https://www.androidauthority.com/daily-authority-january-27-2023-3272642/)
- - [Best file compression apps for macOS and iOS](https://appleinsider.com/inside/macos/best/best-file-compression-apps-for-macos-and-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
+ - [Twitter co-founder Biz Stone says Elon Musk &quot;doesn&#39;t seem like&quot; the right owner for Twitter and claims morale and content improvements have been lost under Musk &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230127/p5#a230127p5)
+ - [After losing billions on mobile bets, Japanese e-commerce giant Rakuten raised ~$1.9B for its mobile business and plans to sell its banking and securities units &lpar;Finbarr Flynn/Bloomberg&rpar;](http://www.techmeme.com/230127/p4#a230127p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
