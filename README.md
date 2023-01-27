@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody should. It&#39;s like a car lot that won&#39;t put the asking price on a car, I immediately know they want too much and want the chance to lie to me to try and get it.](http://9gag.com/gag/aREXqdG)
- - ⏩ [This is both scary and amazing at the same time.](http://9gag.com/gag/aeQAB7v)
- - 👉 [Wtf. Italy this time... They&#39;re attacking all over Europe](http://9gag.com/gag/aVb7pXd)<!-- MEMES:END -->
+ - 💣 [Only 4?](http://9gag.com/gag/abvVm9p)
+ - ⏩ [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
+ - 👉 [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)<!-- MEMES:END -->
 
 ---
 
