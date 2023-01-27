@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
- - [Why More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
- - [YouTube says it’s fixing the bug that let someone fake a new oldest video](https://www.theverge.com/2023/1/26/23573475/youtube-fixing-bug-someone-fake-oldest-video)<!-- TECH:END -->
+ - [Now Google Search results for cars include what’s on the lot at nearby dealerships](https://www.theverge.com/2023/1/26/23573365/google-search-car-dealers-business-inventory-listing-for-sale)
+ - [Sources describe how Twitter&#39;s Trust and Safety VP Ella Irwin is helping carry out Elon Musk&#39;s whims, even when they break Twitter&#39;s established protocols &lpar;Bloomberg&rpar;](http://www.techmeme.com/230126/p33#a230126p33)
+ - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
