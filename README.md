@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
- - [Get Apple&#39;s M1 Pro MacBook Pro 14&quot; with 32GB memory for $2,099 today only](https://appleinsider.com/articles/23/01/27/get-apples-m1-pro-macbook-pro-14-with-32gb-memory-for-2099-today-only?utm_medium=rss)
- - [New Galaxy S23 leak appears to further confirm custom Snapdragon 8 Gen 2 chip](https://www.androidauthority.com/galaxy-s23-snapdragon-3272958/)<!-- TECH:END -->
+ - [Google researchers detail MusicLM, an AI model that generates high-fidelity music from text descriptions trained on a dataset of 280K hours of music &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230127/p11#a230127p11)
+ - [HBO Max: The 31 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-31-absolute-best-tv-shows-to-watch-jan-2023/#ftag=CAD590a51e)
+ - [Best Gifts for Tweens &lpar;Tween Approved&rpar;     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
