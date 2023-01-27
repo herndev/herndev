@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality](http://9gag.com/gag/a04739X)
- - ⏩ [Karma got this little monster](http://9gag.com/gag/aKE6MzN)
- - 👉 [Gangsta Paradise](http://9gag.com/gag/aqejE2Q)<!-- MEMES:END -->
+ - 💣 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
+ - ⏩ [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
+ - 👉 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
 
 ---
 
