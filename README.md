@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for January 30 to February 3](https://news.xbox.com/en-us/2023/01/27/next-week-on-xbox-new-games-for-january-30-to-february-3/)
- - [Last year&#39;s most ridiculous FMV game is getting a VR version](https://www.pcgamer.com/last-years-most-ridiculous-fmv-game-is-getting-a-vr-version)
- - [Intel maintains next-gen Meteor Lake CPUs still &#39;on track&#39; for this year despite $700M losses](https://www.pcgamer.com/intel-maintains-next-gen-meteor-lake-cpus-still-on-track-for-this-year-despite-dollar700m-losses)<!-- GAME:END -->
+ - [Kadabra Will Finally Return To Pokémon Card Game After 18-Year Ban](https://kotaku.com/pokemon-tcg-kadabra-card-ban-151-set-uri-geller-1850040173)
+ - [Forspoken DirectStorage on test: Contrary to reports, there&#39;s no GPU performance hit on an RTX 4090](https://www.pcgamer.com/forspoken-directstorage-on-test-contrary-to-reports-theres-no-gpu-performance-hit-on-an-rtx-4090)
+ - [Twitter’s ‘Useless’ Animation Facts Will Change How You See Your Favorite Show](https://kotaku.com/twitter-animation-fun-facts-shrek-anime-toy-story-1850040054)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
