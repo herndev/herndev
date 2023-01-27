@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Ness main may win the Super Bowl](https://www.polygon.com/23574520/bengals-joe-burrow-smash-bros)
- - [GoldenEye 007&#39;s Finally On Switch And Xbox, But It Needs Some Work](https://kotaku.com/goldeneye-007-n64-xbox-switch-port-bugs-60-fps-patch-1850041167)
- - [Nintendo brings back rare Pokémon card 23 years later after famous magician drops lawsuit: &#39;I was a fool&#39;](https://www.pcgamer.com/nintendo-brings-back-rare-pokemon-card-23-years-later-after-famous-magician-drops-lawsuit-i-was-a-fool)<!-- GAME:END -->
+ - [Behind the Cartoon Sci-fi Artwork of Roguelike Shoulders of Giants – Out Now](https://news.xbox.com/en-us/2023/01/27/behind-the-cartoon-sci-fi-artwork-of-roguelike-shoulders-of-giants-out-now/)
+ - [Sherlock Holmes: The Awakened invites you to cross-examine the creepiest evil doll I&#39;ve ever seen](https://www.pcgamer.com/sherlock-holmes-the-awakened-invites-you-to-cross-examine-the-creepiest-evil-doll-ive-ever-seen)
+ - [GoldenEye 007 ‘Facility’ mission walkthrough](https://www.polygon.com/guides/23572826/facility-door-decoder-006-dr-doak-double-agent-remote-mine-keycard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
