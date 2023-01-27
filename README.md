@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TV app on Apple TV hardware frustrating users with large libraries](https://appleinsider.com/articles/23/01/27/tv-app-on-apple-tv-hardware-frustrating-users-with-large-libraries?utm_medium=rss)
- - [Climate Reparations Won’t Work](https://www.wired.com/story/tonga-climate-reparations-environment/)
- - [M&amp;M’s Are the Best Trolls on the Internet](https://www.wired.com/story/m-and-m-s-tucker-carlson-trolling-controversy/)<!-- TECH:END -->
+ - [Sources: Apple is developing tools to let non-coders use Siri to build AR apps for its MR headset and working on AR content emphasizing health and wellness &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230127/p8#a230127p8)
+ - [Intel just took the worst beating in earnings in over a decade](https://appleinsider.com/articles/23/01/27/intel-just-took-the-worst-beating-in-earnings-in-over-a-decade?utm_medium=rss)
+ - [Daily Deals Jan. 27: $200 off 2023 MacBook Pro, Apple Watch Series 6 from $190-$200, up to 36% off Sony TVs &amp; more](https://appleinsider.com/articles/23/01/27/daily-deals-jan-27-200-off-2023-macbook-pro-apple-watch-series-6-from-190-200-up-to-36-off-sony-tvs-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
