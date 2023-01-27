@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans health and wellness experiences for Apple AR headset](https://appleinsider.com/articles/23/01/27/apple-plans-health-and-wellness-experiences-for-apple-ar-headset?utm_medium=rss)
- - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
- - [Springer Nature, the world&#39;s largest academic publisher, doesn&#39;t let LLMs like ChatGPT be credited as an author but allows AI to help write papers, if disclosed &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230127/p9#a230127p9)<!-- TECH:END -->
+ - [Mac mini with M2 review: More power for less money](https://appleinsider.com/articles/23/01/27/mac-mini-with-m2-review-more-power-for-less-money?utm_medium=rss)
+ - [Two women saved in Canada thanks to Apple&#39;s Emergency SOS via Satellite](https://appleinsider.com/articles/23/01/27/two-women-saved-in-canada-thanks-to-apples-emergency-sos-via-satellite?utm_medium=rss)
+ - [The 20 best TV shows on Freevee to binge watch](https://www.androidauthority.com/best-tv-shows-on-freevee-3270204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
