@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - ⏩ [15-year old Fahim, from Bangladesh, was playing hide and seek with his friends. He chose a shipping container as a hiding spot, then fell asleep. The boy was found 6 days later in a Malaysian port.](http://9gag.com/gag/amAPZO6)
- - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
+ - 💣 [The floor is lava](http://9gag.com/gag/a9qEZjW)
+ - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
 
 ---
 
