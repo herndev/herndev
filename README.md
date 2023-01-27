@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
- - ⏩ [To lane split](http://9gag.com/gag/aNwpXX4)
- - 👉 [Karma got this little monster](http://9gag.com/gag/aKE6MzN)<!-- MEMES:END -->
+ - ⏩ [I want to go back](http://9gag.com/gag/aZD0OQ9)
+ - 👉 [An inspiring story...](http://9gag.com/gag/amAPexX)<!-- MEMES:END -->
 
 ---
 
