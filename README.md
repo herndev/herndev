@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)
- - ⏩ [500.000 is what I would have guessed...](http://9gag.com/gag/abvVmZb)
- - 👉 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
+ - 💣 [Explain](http://9gag.com/gag/az2Mpbb)
+ - ⏩ [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
+ - 👉 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
 
 ---
 
