@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
- - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
+ - ⏩ [Google vs Chatgpt](http://9gag.com/gag/aXno1mz)
+ - 👉 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)<!-- MEMES:END -->
 
 ---
 
