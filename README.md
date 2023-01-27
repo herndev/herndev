@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space’s secret ‘alternative ending’ is a better setup for Dead Space 2](https://www.polygon.com/23574108/dead-space-remake-secret-ending-alternate-sequel)
- - [AMD Ryzen 9 7900](https://www.pcgamer.com/amd-ryzen-7-7900-cpu-review-benchmarks)
- - [You Can Watch The First Episode Of The Last Of Us Show For Free Now](https://kotaku.com/last-us-hbo-max-free-episode-naughty-dog-tlou-part-iii-1850040309)<!-- GAME:END -->
+ - [From Galactic Conquest to Racing Rivalries to Spongetastic Antics, the THQ Nordic and Handy Games Publisher Sale Has Something for Everyone](https://news.xbox.com/en-us/2023/01/27/from-galactic-conquest-to-racing-rivalries-to-spongetastic-antics-the-thq-nordic-and-handy-games-publisher-sale-has-something-for-everyone/)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Smash Bros. Pro Got Hurt Jumping Out Of Illegal Taxi On Way To Tourney](https://kotaku.com/super-smash-bros-melee-frenzy-genesis-9-illegal-taxi-1850040729)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
