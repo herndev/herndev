@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to go back](http://9gag.com/gag/aZD0OQ9)
- - ⏩ [Theyre literally getting packed up by russia and they STILL worried about us.](http://9gag.com/gag/a9qExBm)
- - 👉 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
+ - 💣 [Vulture bees feed on rotting meat instead of nectar and their honey is called meat honey. This is their hive](http://9gag.com/gag/az2Mw7j)
+ - ⏩ [To lane split](http://9gag.com/gag/aNwpXX4)
+ - 👉 [Karma got this little monster](http://9gag.com/gag/aKE6MzN)<!-- MEMES:END -->
 
 ---
 
