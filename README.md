@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - ⏩ [To lane split](http://9gag.com/gag/aNwpXX4)
- - 👉 [Wtf. Italy this time... They&#39;re attacking all over Europe](http://9gag.com/gag/aVb7pXd)<!-- MEMES:END -->
+ - 💣 [To lane split](http://9gag.com/gag/aNwpXX4)
+ - ⏩ [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
+ - 👉 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
 
 ---
 
