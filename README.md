@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Google Search results for cars include what’s on the lot at nearby dealerships](https://www.theverge.com/2023/1/26/23573365/google-search-car-dealers-business-inventory-listing-for-sale)
- - [Sources describe how Twitter&#39;s Trust and Safety VP Ella Irwin is helping carry out Elon Musk&#39;s whims, even when they break Twitter&#39;s established protocols &lpar;Bloomberg&rpar;](http://www.techmeme.com/230126/p33#a230126p33)
- - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)
+ - [Indian gig economy workers for Uber, Ola, Zomato, Swiggy, and others deal with blocked accounts for up to weeks, after speaking out on poor working conditions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230126/p34#a230126p34)
+ - [Blake Lively To Star in Colleen Hoover &#39;It Ends With Us&#39; Book Adaptation     - CNET](https://www.cnet.com/culture/entertainment/blake-lively-to-star-in-colleen-hoover-it-ends-with-us-book-adaptation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
