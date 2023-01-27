@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - ⏩ [Google vs Chatgpt](http://9gag.com/gag/aXno1mz)
- - 👉 [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)<!-- MEMES:END -->
+ - 💣 [Nobody should. It&#39;s like a car lot that won&#39;t put the asking price on a car, I immediately know they want too much and want the chance to lie to me to try and get it.](http://9gag.com/gag/aREXqdG)
+ - ⏩ [This is both scary and amazing at the same time.](http://9gag.com/gag/aeQAB7v)
+ - 👉 [Wtf. Italy this time... They&#39;re attacking all over Europe](http://9gag.com/gag/aVb7pXd)<!-- MEMES:END -->
 
 ---
 
