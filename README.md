@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kadabra Will Finally Return To Pokémon Card Game After 18-Year Ban](https://kotaku.com/pokemon-tcg-kadabra-card-ban-151-set-uri-geller-1850040173)
- - [Forspoken DirectStorage on test: Contrary to reports, there&#39;s no GPU performance hit on an RTX 4090](https://www.pcgamer.com/forspoken-directstorage-on-test-contrary-to-reports-theres-no-gpu-performance-hit-on-an-rtx-4090)
- - [Twitter’s ‘Useless’ Animation Facts Will Change How You See Your Favorite Show](https://kotaku.com/twitter-animation-fun-facts-shrek-anime-toy-story-1850040054)<!-- GAME:END -->
+ - [Dead Space’s secret ‘alternative ending’ is a better setup for Dead Space 2](https://www.polygon.com/23574108/dead-space-remake-secret-ending-alternate-sequel)
+ - [AMD Ryzen 9 7900](https://www.pcgamer.com/amd-ryzen-7-7900-cpu-review-benchmarks)
+ - [You Can Watch The First Episode Of The Last Of Us Show For Free Now](https://kotaku.com/last-us-hbo-max-free-episode-naughty-dog-tlou-part-iii-1850040309)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
