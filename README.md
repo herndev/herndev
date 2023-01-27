@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to fix the Comms Array in Dead Space](https://www.pcgamer.com/dead-space-comms-array-puzzle-solution)
  - [Wordle hint and answer today: Let&#39;s solve #587, January 27](https://www.pcgamer.com/wordle-hint-answer-today-587-january-27)
- - [Valve&#39;s unusual corporate structure causes its problems, report suggests](https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests)
- - [Bond is Back! GoldenEye 007 Arrives on Xbox Game Pass](https://news.xbox.com/en-us/2023/01/26/goldeneye-007-xbox-game-pass-out-now/)<!-- GAME:END -->
+ - [Valve&#39;s unusual corporate structure causes its problems, report suggests](https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
