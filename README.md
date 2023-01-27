@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darktide studio admits the state of the game means promised features are being &#39;pushed back&#39;](https://www.pcgamer.com/darktide-studio-admits-the-state-of-the-game-means-promised-features-are-being-pushed-back)
- - [GoldenEye 007 cheat unlock times for Xbox, Switch and N64](https://www.polygon.com/guides/23572410/goldeneye-007-cheat-codes-xbox-switch-n64-unlock-times)
- - [GoldenEye controls better on Xbox than on Switch](https://www.polygon.com/23573980/goldeneye-controls-switch-xbox)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for January 30 to February 3](https://news.xbox.com/en-us/2023/01/27/next-week-on-xbox-new-games-for-january-30-to-february-3/)
+ - [Last year&#39;s most ridiculous FMV game is getting a VR version](https://www.pcgamer.com/last-years-most-ridiculous-fmv-game-is-getting-a-vr-version)
+ - [Intel maintains next-gen Meteor Lake CPUs still &#39;on track&#39; for this year despite $700M losses](https://www.pcgamer.com/intel-maintains-next-gen-meteor-lake-cpus-still-on-track-for-this-year-despite-dollar700m-losses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
