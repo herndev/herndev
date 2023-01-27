@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Grand Theft Auto: The Trilogy work yet?](https://www.polygon.com/23573243/grand-theft-auto-gta-trilogy-definitive-edition-work-yet)
- - [Racing games and an N64 classic join Xbox Game Pass for February](https://www.polygon.com/23573364/xbox-game-pass-pc-february-2023-games-release-date)
- - [Introducing Strayed Lights](https://news.xbox.com/en-us/2023/01/26/introducing-strayed-lights/)<!-- GAME:END -->
+ - [New Far Cry Multiplayer And Far Cry 7 Both In Works At Ubisoft](https://kotaku.com/far-cry-7-multiplayer-ubisoft-star-wars-snowdrop-1850038103)
+ - [I was not prepared for Microsoft to surprise launch an action game that goes this hard](https://www.pcgamer.com/hi-fi-rush-gameplay-impressions)
+ - [Ted Cruz Isn’t Really Mad About Your Xbox &lpar;He&#39;s Full Of Crap&rpar;](https://kotaku.com/ted-cruz-xbox-series-x-s-climate-change-republicans-ms-1850038008)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
