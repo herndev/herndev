@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak once again points to higher Galaxy S23 pricing for Europe](https://www.androidauthority.com/samsung-galaxy-s23-pricing-germany-3272661/)
- - [CASETiFY launches two protective cases and a sleeve for MacBook Pro](https://appleinsider.com/articles/23/01/27/casetify-launches-two-protective-cases-and-a-sleeve-for-macbook-pro?utm_medium=rss)
- - [A look at crypto money laundering in 2022: illicit addresses sent nearly $23.8B, up 68% YoY, four addresses got $1B+ combined, DeFi got record funds, and more &lpar;Chainalysis&rpar;](http://www.techmeme.com/230127/p1#a230127p1)<!-- TECH:END -->
+ - [The Vivo X90 series is launching globally next week](https://www.androidauthority.com/vivo-x90-series-global-launch-3272749/)
+ - [Daily Authority: ✨ New tablets from Google and OnePlus](https://www.androidauthority.com/daily-authority-january-27-2023-3272642/)
+ - [Best file compression apps for macOS and iOS](https://appleinsider.com/inside/macos/best/best-file-compression-apps-for-macos-and-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
