@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medium updates its standards to welcome &quot;responsible use&quot; of AI-assistive technology and to require labels for any story created with AI assistance &lpar;Scott Lamb/3 Min Read&rpar;](http://www.techmeme.com/230126/p32#a230126p32)
- - [Feds vs. Google: What DOJ&#39;s Antitrust Lawsuit Means for Online Ads     - CNET](https://www.cnet.com/tech/feds-vs-google-what-dojs-antitrust-lawsuit-means-for-online-ads/#ftag=CAD590a51e)
- - [This Bear Really Knows How to Take a Selfie     - CNET](https://www.cnet.com/science/biology/this-bear-really-knows-how-to-take-a-selfie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 hours with Apple&#39;s new 2023 MacBook Pros](https://appleinsider.com/articles/23/01/26/24-hours-with-apples-new-2023-macbook-pros?utm_medium=rss)
+ - [Why More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [YouTube says it’s fixing the bug that let someone fake a new oldest video](https://www.theverge.com/2023/1/26/23573475/youtube-fixing-bug-someone-fake-oldest-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
