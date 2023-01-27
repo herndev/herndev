@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
- - [Twitter co-founder Biz Stone says Elon Musk &quot;doesn&#39;t seem like&quot; the right owner for Twitter and claims morale and content improvements have been lost under Musk &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230127/p5#a230127p5)
- - [After losing billions on mobile bets, Japanese e-commerce giant Rakuten raised ~$1.9B for its mobile business and plans to sell its banking and securities units &lpar;Finbarr Flynn/Bloomberg&rpar;](http://www.techmeme.com/230127/p4#a230127p4)<!-- TECH:END -->
+ - [Best wireless keyboards for Mac in 2023](https://appleinsider.com/inside/accessories-and-io/best/best-wireless-keyboards-for-mac-in-2023?utm_medium=rss)
+ - [New Mac mini &amp; MacBook Pro, new HomePod features, iOS 17 Wishlist](https://appleinsider.com/articles/23/01/27/new-mac-mini-macbook-pro-new-homepod-features-ios-17-wishlist?utm_medium=rss)
+ - [Analysis of hundreds of ads on Truth Social: major brands are non-existent, replaced by diet pills, miracle cures, gun accessories, and Trump-themed trinkets &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230127/p6#a230127p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
