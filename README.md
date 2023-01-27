@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friday’s top tech news: a remake and a remaster](https://www.theverge.com/2023/1/27/23573946/january-27-2023-tech-news-liveblog)
- - [Apple vs Samsung: The ultimate head-to-head](https://www.androidauthority.com/iphone-vs-samsung-3266172/)
- - [You told us: Most of you think the Pixel needs more camera accessories](https://www.androidauthority.com/google-pixel-camera-accessories-poll-results-3272630/)<!-- TECH:END -->
+ - [New leak once again points to higher Galaxy S23 pricing for Europe](https://www.androidauthority.com/samsung-galaxy-s23-pricing-germany-3272661/)
+ - [CASETiFY launches two protective cases and a sleeve for MacBook Pro](https://appleinsider.com/articles/23/01/27/casetify-launches-two-protective-cases-and-a-sleeve-for-macbook-pro?utm_medium=rss)
+ - [A look at crypto money laundering in 2022: illicit addresses sent nearly $23.8B, up 68% YoY, four addresses got $1B+ combined, DeFi got record funds, and more &lpar;Chainalysis&rpar;](http://www.techmeme.com/230127/p1#a230127p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
