@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain](http://9gag.com/gag/az2Mpbb)
- - ⏩ [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
- - 👉 [To lane split](http://9gag.com/gag/aNwpXX4)<!-- MEMES:END -->
+ - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - ⏩ [15-year old Fahim, from Bangladesh, was playing hide and seek with his friends. He chose a shipping container as a hiding spot, then fell asleep. The boy was found 6 days later in a Malaysian port.](http://9gag.com/gag/amAPZO6)
+ - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
 
 ---
 
