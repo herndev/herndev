@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Hit &#39;The Last of Us&#39; Renewed for Season 2     - CNET](https://www.cnet.com/culture/entertainment/hbo-hit-the-last-of-us-renewed-for-season-2/#ftag=CAD590a51e)
- - [Best Video Doorbell Cameras of 2023     - CNET](https://www.cnet.com/news/best-video-doorbell-cameras/#ftag=CAD590a51e)
- - [The Weird Side of Google Street View: How to Find It     - CNET](https://www.cnet.com/science/the-weird-side-of-google-street-view-how-to-find-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [App Store prices set to increase in United Kingdom, others](https://appleinsider.com/articles/23/01/27/app-store-prices-set-to-increase-in-united-kingdom-others?utm_medium=rss)
+ - [Jonathan Majors is a bodybuilder yearning to be truly seen in Magazine Dreams](https://www.theverge.com/23574457/magazine-dreams-jonathan-majors-sundance-review)
+ - [Best Banks for Joint Accounts for January 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-banks-for-joint-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
