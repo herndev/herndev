@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Galaxy S23 Phones May Receive A Price Increase     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-s23-phones-may-receive-a-price-increase/#ftag=CAD590a51e)
- - [Whoever designed this soda-themed phone was on coke &lpar;Update: Realme&rpar;](https://www.androidauthority.com/coca-cola-phone-3271516/)
- - [Best At-Home Cooking Kits and Classes to Gift This Year     - CNET](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple vs Samsung: The ultimate head-to-head](https://www.androidauthority.com/iphone-vs-samsung-3266172/)
+ - [You told us: Most of you think the Pixel needs more camera accessories](https://www.androidauthority.com/google-pixel-camera-accessories-poll-results-3272630/)
+ - [Samsung&#39;s Galaxy S23 Phones May Receive A Price Increase     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-s23-phones-may-receive-a-price-increase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
