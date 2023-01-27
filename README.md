@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the Cartoon Sci-fi Artwork of Roguelike Shoulders of Giants – Out Now](https://news.xbox.com/en-us/2023/01/27/behind-the-cartoon-sci-fi-artwork-of-roguelike-shoulders-of-giants-out-now/)
- - [Sherlock Holmes: The Awakened invites you to cross-examine the creepiest evil doll I&#39;ve ever seen](https://www.pcgamer.com/sherlock-holmes-the-awakened-invites-you-to-cross-examine-the-creepiest-evil-doll-ive-ever-seen)
- - [GoldenEye 007 ‘Facility’ mission walkthrough](https://www.polygon.com/guides/23572826/facility-door-decoder-006-dr-doak-double-agent-remote-mine-keycard)<!-- GAME:END -->
+ - [Cowboy Bebop creator made it through one scene of the Netflix version](https://www.polygon.com/2023/1/27/23574886/cowboy-bebop-creator-made-it-through-one-scene-of-the-netflix-version)
+ - [Official PlayStation Podcast Episode 448: Lost in Dead Space](https://blog.playstation.com/2023/01/27/official-playstation-podcast-episode-448-lost-in-dead-space/)
+ - [Official PlayStation Podcast Episode 448: Lost in Dead Space](https://blog.playstation.com/2023/01/27/official-playstation-podcast-episode-448-lost-in-dead-space/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
