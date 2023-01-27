@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only 4?](http://9gag.com/gag/abvVm9p)
- - ⏩ [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
- - 👉 [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)<!-- MEMES:END -->
+ - 💣 [When frequency matches](http://9gag.com/gag/a2K73Md)
+ - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
+ - 👉 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
 
 ---
 
