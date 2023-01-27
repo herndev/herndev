@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GoldenEye controls better on Xbox than on Switch](https://www.polygon.com/23573980/goldeneye-controls-switch-xbox)
- - [Vampire survival game passes three million sold, is adding castles with multiple floors](https://www.pcgamer.com/vampire-survival-game-passes-three-million-sold-is-adding-castles-with-multiple-floors)
- - [Russia says popular games have &#39;hidden inserts&#39; targeting its youth, and it wants to whip up a ban list](https://www.pcgamer.com/russia-says-popular-games-have-hidden-inserts-targeting-its-youth-and-it-wants-to-whip-up-a-ban-list)<!-- GAME:END -->
+ - [Darktide studio admits the state of the game means promised features are being &#39;pushed back&#39;](https://www.pcgamer.com/darktide-studio-admits-the-state-of-the-game-means-promised-features-are-being-pushed-back)
+ - [GoldenEye 007 cheat unlock times for Xbox, Switch and N64](https://www.polygon.com/guides/23572410/goldeneye-007-cheat-codes-xbox-switch-n64-unlock-times)
+ - [GoldenEye controls better on Xbox than on Switch](https://www.polygon.com/23573980/goldeneye-controls-switch-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
