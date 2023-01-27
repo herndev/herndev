@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is developing tools to let non-coders use Siri to build AR apps for its MR headset and working on AR content emphasizing health and wellness &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230127/p8#a230127p8)
- - [Intel just took the worst beating in earnings in over a decade](https://appleinsider.com/articles/23/01/27/intel-just-took-the-worst-beating-in-earnings-in-over-a-decade?utm_medium=rss)
- - [Daily Deals Jan. 27: $200 off 2023 MacBook Pro, Apple Watch Series 6 from $190-$200, up to 36% off Sony TVs &amp; more](https://appleinsider.com/articles/23/01/27/daily-deals-jan-27-200-off-2023-macbook-pro-apple-watch-series-6-from-190-200-up-to-36-off-sony-tvs-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple plans health and wellness experiences for Apple AR headset](https://appleinsider.com/articles/23/01/27/apple-plans-health-and-wellness-experiences-for-apple-ar-headset?utm_medium=rss)
+ - [Most of this week&#39;s iPhone 15 Pro &amp; iOS 17 rumors are lies &amp; fabrications](https://appleinsider.com/articles/23/01/27/most-of-this-weeks-iphone-15-pro-ios-17-rumors-are-lies-fabrications?utm_medium=rss)
+ - [Springer Nature, the world&#39;s largest academic publisher, doesn&#39;t let LLMs like ChatGPT be credited as an author but allows AI to help write papers, if disclosed &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230127/p9#a230127p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
