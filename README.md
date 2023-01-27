@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To lane split](http://9gag.com/gag/aNwpXX4)
- - ⏩ [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
- - 👉 [Companies care about profit more than anything else.](http://9gag.com/gag/ay2MrZX)<!-- MEMES:END -->
+ - 💣 [I want to go back](http://9gag.com/gag/aZD0OQ9)
+ - ⏩ [Theyre literally getting packed up by russia and they STILL worried about us.](http://9gag.com/gag/a9qExBm)
+ - 👉 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
 
 ---
 
