@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowboy Bebop creator made it through one scene of the Netflix version](https://www.polygon.com/2023/1/27/23574886/cowboy-bebop-creator-made-it-through-one-scene-of-the-netflix-version)
- - [Official PlayStation Podcast Episode 448: Lost in Dead Space](https://blog.playstation.com/2023/01/27/official-playstation-podcast-episode-448-lost-in-dead-space/)
- - [Official PlayStation Podcast Episode 448: Lost in Dead Space](https://blog.playstation.com/2023/01/27/official-playstation-podcast-episode-448-lost-in-dead-space/)<!-- GAME:END -->
+ - [M&amp;M’s ‘spokescandies’ controversy, explained](https://www.polygon.com/23567793/m-and-m-spokescandies-controversy-explained-shoe-change-green-tucker-carlson)
+ - [Assassin’s Creed Comic May Have Hidden Message From Frustrated Artist](https://kotaku.com/assassins-creed-comic-converts-hidden-message-isu-1850042556)
+ - [Is Starfield delayed or not?](https://www.polygon.com/23571596/starfield-release-date-delayed-xbox-developer-direct)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
