@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The floor is lava](http://9gag.com/gag/a9qEZjW)
- - ⏩ [Dedication and preservation](http://9gag.com/gag/aVb74MP)
- - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
+ - 💣 [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
+ - ⏩ [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
+ - 👉 [Really?](http://9gag.com/gag/a2K7ADY)<!-- MEMES:END -->
 
 ---
 
