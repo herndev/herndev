@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
+ - 💣 [26-year-old Brandon Tsay wrestling a gun away from the Monterey Park shooter at a second dance studio minutes after the gunman killed at least 11 people and injured 9 more](http://9gag.com/gag/aYVoBPw)
  - ⏩ [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
- - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
+ - 👉 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)<!-- MEMES:END -->
 
 ---
 
