@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best wireless keyboards for Mac in 2023](https://appleinsider.com/inside/accessories-and-io/best/best-wireless-keyboards-for-mac-in-2023?utm_medium=rss)
- - [New Mac mini &amp; MacBook Pro, new HomePod features, iOS 17 Wishlist](https://appleinsider.com/articles/23/01/27/new-mac-mini-macbook-pro-new-homepod-features-ios-17-wishlist?utm_medium=rss)
- - [Analysis of hundreds of ads on Truth Social: major brands are non-existent, replaced by diet pills, miracle cures, gun accessories, and Trump-themed trinkets &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230127/p6#a230127p6)<!-- TECH:END -->
+ - [TV app on Apple TV hardware frustrating users with large libraries](https://appleinsider.com/articles/23/01/27/tv-app-on-apple-tv-hardware-frustrating-users-with-large-libraries?utm_medium=rss)
+ - [Climate Reparations Won’t Work](https://www.wired.com/story/tonga-climate-reparations-environment/)
+ - [M&amp;M’s Are the Best Trolls on the Internet](https://www.wired.com/story/m-and-m-s-tucker-carlson-trolling-controversy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
