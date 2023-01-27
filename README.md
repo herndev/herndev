@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Friday’s top tech news: a remake and a remaster](https://www.theverge.com/2023/1/27/23573946/january-27-2023-tech-news-liveblog)
  - [Apple vs Samsung: The ultimate head-to-head](https://www.androidauthority.com/iphone-vs-samsung-3266172/)
- - [You told us: Most of you think the Pixel needs more camera accessories](https://www.androidauthority.com/google-pixel-camera-accessories-poll-results-3272630/)
- - [Samsung&#39;s Galaxy S23 Phones May Receive A Price Increase     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-s23-phones-may-receive-a-price-increase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You told us: Most of you think the Pixel needs more camera accessories](https://www.androidauthority.com/google-pixel-camera-accessories-poll-results-3272630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
