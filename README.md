@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [To lane split](http://9gag.com/gag/aNwpXX4)
- - ⏩ [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
- - 👉 [...](http://9gag.com/gag/a047ryd)<!-- MEMES:END -->
+ - ⏩ [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - 👉 [Companies care about profit more than anything else.](http://9gag.com/gag/ay2MrZX)<!-- MEMES:END -->
 
 ---
 
