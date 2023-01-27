@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals new details about the Pro version of the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-pro-3272485/)
- - [The best Samsung Galaxy deals ahead of the S23 launch](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Robot Cars Are Causing 911 False Alarms in San Francisco](https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/)<!-- TECH:END -->
+ - [Medium updates its standards to welcome &quot;responsible use&quot; of AI-assistive technology and to require labels for any story created with AI assistance &lpar;Scott Lamb/3 Min Read&rpar;](http://www.techmeme.com/230126/p32#a230126p32)
+ - [Feds vs. Google: What DOJ&#39;s Antitrust Lawsuit Means for Online Ads     - CNET](https://www.cnet.com/tech/feds-vs-google-what-dojs-antitrust-lawsuit-means-for-online-ads/#ftag=CAD590a51e)
+ - [This Bear Really Knows How to Take a Selfie     - CNET](https://www.cnet.com/science/biology/this-bear-really-knows-how-to-take-a-selfie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
