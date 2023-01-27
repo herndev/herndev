@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Far Cry Multiplayer And Far Cry 7 Both In Works At Ubisoft](https://kotaku.com/far-cry-7-multiplayer-ubisoft-star-wars-snowdrop-1850038103)
- - [I was not prepared for Microsoft to surprise launch an action game that goes this hard](https://www.pcgamer.com/hi-fi-rush-gameplay-impressions)
- - [Ted Cruz Isn’t Really Mad About Your Xbox &lpar;He&#39;s Full Of Crap&rpar;](https://kotaku.com/ted-cruz-xbox-series-x-s-climate-change-republicans-ms-1850038008)<!-- GAME:END -->
+ - [Bond is Back! GoldenEye 007 Arrives on Xbox Game Pass](https://news.xbox.com/en-us/2023/01/26/goldeneye-007-xbox-game-pass-out-now/)
+ - [This dreamlike indie RPG is a dense, perfectly refined bite of Elder Scrolls](https://www.pcgamer.com/this-dreamlike-indie-rpg-is-a-dense-perfectly-refined-bite-of-elder-scrolls)
+ - [Bungie Explains Destiny 2&#39;s Recent 20-Hour Outage](https://kotaku.com/bungie-destiny-2-outage-servers-offline-why-jan-24-1850038131)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
