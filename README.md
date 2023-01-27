@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why the Simpsons are finished since season 10](http://9gag.com/gag/a2K76zp)
- - ⏩ [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
- - 👉 [Really?](http://9gag.com/gag/a2K7ADY)<!-- MEMES:END -->
+ - 💣 [What is she saying? my guess: `so insane dawg`](http://9gag.com/gag/amAPOpj)
+ - ⏩ [Better hold grudges](http://9gag.com/gag/aL1pooW)
+ - 👉 [In 2016, Daniel Shaver was fatally shot while begging for his life and complying with police officer Philip Brailsford. The cop was acquitted, rehired, claimed PTSD and receiving tax-free pension worth $31,000 a year for life .](http://9gag.com/gag/aMEKDNA)<!-- MEMES:END -->
 
 ---
 
