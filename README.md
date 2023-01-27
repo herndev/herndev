@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t dunk on them too quick for asking height](http://9gag.com/gag/a4oExAw)
- - ⏩ [Tanks for tankers](http://9gag.com/gag/a6qE4yb)
- - 👉 [Equality](http://9gag.com/gag/a04739X)<!-- MEMES:END -->
+ - 💣 [Sometimes Kids Don&#39;t Realise How Much Strength An Adult Has !](http://9gag.com/gag/axoMw31)
+ - ⏩ [Damn nature, you scary](http://9gag.com/gag/aL1pO9V)
+ - 👉 [Only 4?](http://9gag.com/gag/abvVm9p)<!-- MEMES:END -->
 
 ---
 
