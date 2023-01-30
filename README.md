@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - ⏩ [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
- - 👉 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
+ - 💣 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
+ - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
 
 ---
 
