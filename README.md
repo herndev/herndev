@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth class-action lawsuit filed against Apple for alleged privacy violations](https://appleinsider.com/articles/23/01/30/fourth-class-action-lawsuit-filed-against-apple-for-alleged-privacy-violations?utm_medium=rss)
- - [Meta’s Account Center came with a 2FA-defeating bug](https://www.theverge.com/2023/1/30/23578033/meta-account-center-bug-2-factor-authentication-sms-email)
- - [Frontier’s expanding its 5-gig fiber network across the country](https://www.theverge.com/2023/1/30/23578020/frontier-5-gig-fiber-internet-att-network-isp-google)<!-- TECH:END -->
+ - [ElevenLabs found an uptick in &quot;voice cloning misuse cases&quot; during its recent beta; Motherboard finds deepfake voices of Emma Watson, Joe Rogan, others on 4chan &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230130/p18#a230130p18)
+ - [How to get your 2023 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
+ - [Scientists Find 17-Pound Meteorite in Antarctica: One Hefty Space Rock     - CNET](https://www.cnet.com/science/space/scientists-find-rare-17-pound-meteorite-an-unusually-heavy-space-rock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
