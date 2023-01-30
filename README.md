@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - ⏩ [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
- - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
+ - 💣 [The dentist can tell](http://9gag.com/gag/amAPD2d)
+ - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 👉 [Criminal minds](http://9gag.com/gag/a9q1MzZ)<!-- MEMES:END -->
 
 ---
 
