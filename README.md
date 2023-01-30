@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 💣 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - ⏩ [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - 👉 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
 
 ---
 
