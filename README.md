@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)
- - [Competing rumor says no folding iPad in 2024](https://appleinsider.com/articles/23/01/30/competing-rumor-says-no-folding-ipad-in-2024?utm_medium=rss)
- - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)<!-- TECH:END -->
+ - [The US NLRB says comments by Apple executives and policies imposed on employees violate workers&#39; rights, after a complaint by a former Apple employee in 2021 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230130/p20#a230130p20)
+ - [MacBooks dominate this week&#39;s list of top Amazon deals, with Pro models up to $500 off](https://appleinsider.com/articles/23/01/30/macbooks-dominate-this-weeks-list-of-top-amazon-deals-with-pro-models-up-to-500-off?utm_medium=rss)
+ - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
