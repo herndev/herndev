@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🍿 Ad-supported streaming demystified](https://www.androidauthority.com/daily-authority-january-30-2023-3273317/)
- - [New folding iPad and refreshed iPad mini 7 now in 2024, says Kuo](https://appleinsider.com/articles/23/01/30/new-folding-ipad-and-refreshed-ipad-mini-7-now-in-2024-says-kuo?utm_medium=rss)
- - [OnePlus Pad will launch on February 7, design details announced.](https://www.androidauthority.com/oneplus-pad-launch-design-3273332/)<!-- TECH:END -->
+ - [Kuo: Apple plans to release a foldable iPad in 2024, featuring a carbon fiber kickstand, as well as an updated iPad mini, after a quiet 2023 for the iPad &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p2#a230130p2)
+ - [Apple to launch a foldable iPad next year: Analyst](https://www.androidauthority.com/apple-foldable-ipad-3273349/)
+ - [Daily Authority: 🍿 Ad-supported streaming demystified](https://www.androidauthority.com/daily-authority-january-30-2023-3273317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
