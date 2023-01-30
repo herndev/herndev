@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Baidu is planning to launch an AI chatbot similar to OpenAI&#39;s ChatGPT in March 2023, initially embedding it into its main search services &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230129/p9#a230129p9)
  - [How to Watch Love Island 2023: Stream Winter Season 9 Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-winter-love-island-2023-from-anywhere/#ftag=CAD590a51e)
- - [iPhone 14 Crash Detection false positives are now a problem in Japan](https://appleinsider.com/articles/23/01/30/iphone-14-crash-detection-false-positives-are-now-a-problem-in-japan?utm_medium=rss)
- - [More People Need to Watch This Unnerving Netflix True Crime Documentary     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-unnerving-netflix-true-crime-documentary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Crash Detection false positives are now a problem in Japan](https://appleinsider.com/articles/23/01/30/iphone-14-crash-detection-false-positives-are-now-a-problem-in-japan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
