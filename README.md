@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevenLabs found an uptick in &quot;voice cloning misuse cases&quot; during its recent beta; Motherboard finds deepfake voices of Emma Watson, Joe Rogan, others on 4chan &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230130/p18#a230130p18)
- - [How to get your 2023 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
- - [Scientists Find 17-Pound Meteorite in Antarctica: One Hefty Space Rock     - CNET](https://www.cnet.com/science/space/scientists-find-rare-17-pound-meteorite-an-unusually-heavy-space-rock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)
+ - [Competing rumor says no folding iPad in 2024](https://appleinsider.com/articles/23/01/30/competing-rumor-says-no-folding-ipad-in-2024?utm_medium=rss)
+ - [Sources: the US Department of Commerce told some companies it would no longer grant licenses to export US technology to Huawei, as it moves toward a total ban &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230130/p19#a230130p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
