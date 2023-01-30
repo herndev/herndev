@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 👉 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)<!-- MEMES:END -->
+ - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 ---
 
