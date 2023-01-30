@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix teases One Piece’s live-action crew in first poster](https://www.polygon.com/23577694/one-piece-netflix-release-date-monkey-d-luffy-teaser)
- - [Krafton belatedly realises making every game PUBG-related may not be a great strategy](https://www.pcgamer.com/krafton-belatedly-realises-making-every-game-pubg-related-may-not-be-a-great-strategy)
- - [Microsoft says Sony isn&#39;t telling the truth to EU regulators about Call of Duty](https://www.pcgamer.com/microsoft-says-sony-isnt-telling-the-truth-to-eu-regulators-about-call-of-duty)<!-- GAME:END -->
+ - [Dive into the System in Backfirewall_ on Xbox Now](https://news.xbox.com/en-us/2023/01/30/dive-into-the-system-in-backfirewall_-on-xbox-now/)
+ - [Roboquest Hits Xbox Game Preview &lpar;and Game Pass&rpar;](https://news.xbox.com/en-us/2023/01/30/roboquest-hits-xbox-game-preview-and-game-pass/)
+ - [Belarusian KGB adds World of Tanks studio boss to terrorist list](https://www.pcgamer.com/belarusian-kgb-adds-world-of-tanks-studio-boss-to-terrorist-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
