@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
- - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 👉 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
+ - 💣 [And the Game of the Year goes to...](http://9gag.com/gag/aQEX80z)
+ - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
+ - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 ---
 
