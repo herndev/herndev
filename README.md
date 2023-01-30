@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #590, January 30](https://www.pcgamer.com/wordle-hint-answer-today-590-january-30)
  - [The cyberpunk future looks upsettingly meaty](https://www.pcgamer.com/the-cyberpunk-future-looks-upsettingly-meaty)
- - [Looks like Amazon&#39;s making a Tomb Raider movie and series to go with its game](https://www.pcgamer.com/looks-like-amazons-making-a-tomb-raider-movie-and-series-to-go-with-its-game)
- - [HyperX&#39;s January keycap was a cute winter kitty and I missed it](https://www.pcgamer.com/hyperxs-january-keycap-was-a-cute-winter-kitty-and-i-missed-it)<!-- GAME:END -->
+ - [Looks like Amazon&#39;s making a Tomb Raider movie and series to go with its game](https://www.pcgamer.com/looks-like-amazons-making-a-tomb-raider-movie-and-series-to-go-with-its-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
