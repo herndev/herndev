@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Innovating the Engine quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-innovating-the-engine)
- - [Warzone 2&#39;s wiping DMZ progress and players don&#39;t quite know how to feel about it](https://www.pcgamer.com/warzone-2s-wiping-dmz-progress-and-players-dont-quite-know-how-to-feel-about-it)
- - [This Lego Intel Arc A750 GPU has a working fan made of meat cleavers](https://www.pcgamer.com/this-lego-intel-arc-a750-gpu-has-a-working-fan-made-out-of-meat-cleavers)<!-- GAME:END -->
+ - [Where to find the Dead Space Peng statue](https://www.pcgamer.com/dead-space-peng-location)
+ - [Tiny spots on AMD&#39;s RDNA 3 GPU hint at massive cache potential](https://www.pcgamer.com/tiny-spots-on-amds-rdna-3-gpu-hint-at-massive-cache-potential)
+ - [Seeing the world of Horizon Call of the Mountain through new eyes](https://blog.playstation.com/2023/01/30/seeing-the-world-of-horizon-call-of-the-mountain-through-new-eyes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
