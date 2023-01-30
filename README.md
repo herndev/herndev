@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple starts making AirPods components in India](https://appleinsider.com/articles/23/01/30/apple-starts-making-airpods-components-in-india?utm_medium=rss)
- - [The US&#39; Berman amendments, passed during the Cold War to protect the free flow of content between the US and hostile countries, may complicate a TikTok ban &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p5#a230130p5)
- - [Documents 8.3.3 review: File manager best for PDF and MP3](https://appleinsider.com/articles/23/01/30/documents-833-review-file-manager-best-for-pdf-and-mp3?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Apple Third Street Promenade: a luxe temple in SoCal](https://appleinsider.com/articles/23/01/30/inside-apple-third-street-promenade-a-luxe-temple-in-socal?utm_medium=rss)
+ - [A profile of Jonathan Kanter, the DOJ&#39;s assistant AG for antitrust, a longtime Google foe who filed the US anti-monopoly lawsuit to break up its ad business &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p8#a230130p8)
+ - [OnePlus all but launches the OnePlus 11R ahead of February 7 event](https://www.androidauthority.com/oneplus-11r-specs-3273401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
