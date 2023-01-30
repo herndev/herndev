@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first AR headset could have pretty awful battery life for $3,000](https://www.androidauthority.com/apple-reality-pro-ar-headset-battery-life-3273321/)
- - [The memory-chip sector, known for boom-and-bust cycles, is facing one if its worst-ever routs, as inventory glut and a fight for marketshare has cratered prices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230130/p1#a230130p1)
- - [The Pixel Tablet could come with two dock options](https://www.androidauthority.com/google-pixel-tablet-docks-3273318/)<!-- TECH:END -->
+ - [Daily Authority: 🍿 Ad-supported streaming demystified](https://www.androidauthority.com/daily-authority-january-30-2023-3273317/)
+ - [New folding iPad and refreshed iPad mini 7 now in 2024, says Kuo](https://appleinsider.com/articles/23/01/30/new-folding-ipad-and-refreshed-ipad-mini-7-now-in-2024-says-kuo?utm_medium=rss)
+ - [OnePlus Pad will launch on February 7, design details announced.](https://www.androidauthority.com/oneplus-pad-launch-design-3273332/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
