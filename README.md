@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Deliver Us To The Future](https://kotaku.com/january-game-releases-out-this-week-deliver-us-mars-1850050417)
- - [The Last of Us actor Annie Wersching has died](https://www.pcgamer.com/the-last-of-us-actor-annie-wersching-has-died)
- - [MLB The Show 23 launches in March with Jazz Chisholm as the cover star](https://www.polygon.com/23578469/mlb-the-show-23-release-date-jazz-chisholm-cover)<!-- GAME:END -->
+ - [Activision Blizzard exec says The Last of Us&#39; success on HBO proves the Microsoft buyout should go through](https://www.pcgamer.com/activision-blizzard-exec-says-the-last-of-us-success-on-hbo-proves-the-microsoft-buyout-should-go-through)
+ - [The Crew 3 is real and an announcement is coming tomorrow](https://www.pcgamer.com/the-crew-3-is-real-and-an-announcement-is-coming-tomorrow)
+ - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
