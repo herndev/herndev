@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - 💣 [Tall or short](http://9gag.com/gag/aDYDwWx)
  - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 👉 [Tall or short](http://9gag.com/gag/aDYDwWx)<!-- MEMES:END -->
+ - 👉 [When the pizza was delivered, but not received as expected.](http://9gag.com/gag/aQEXn2d)<!-- MEMES:END -->
 
 ---
 
