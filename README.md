@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 💣 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
  - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 👉 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 ---
 
