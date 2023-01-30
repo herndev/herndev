@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok CEO Shou Zi Chew plans to testify before the House Energy and Commerce Committee on March 23, the first appearance by a TikTok CEO before Congress &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p3#a230130p3)
- - [OnePlus V Fold and OnePlus V Flip could be the next Samsung rivals](https://www.androidauthority.com/oneplus-v-fold-oneplus-v-flip-3273360/)
- - [Kuo: Apple plans to release a foldable iPad in 2024, featuring a carbon fiber kickstand, as well as an updated iPad mini, after a quiet 2023 for the iPad &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p2#a230130p2)<!-- TECH:END -->
+ - [Apple starts making AirPods components in India](https://appleinsider.com/articles/23/01/30/apple-starts-making-airpods-components-in-india?utm_medium=rss)
+ - [The US&#39; Berman amendments, passed during the Cold War to protect the free flow of content between the US and hostile countries, may complicate a TikTok ban &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p5#a230130p5)
+ - [Documents 8.3.3 review: File manager best for PDF and MP3](https://appleinsider.com/articles/23/01/30/documents-833-review-file-manager-best-for-pdf-and-mp3?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
