@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s not addiction\u2026](http://9gag.com/gag/a8q1j36)
- - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 💣 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 👉 [Tall or short](http://9gag.com/gag/aDYDwWx)<!-- MEMES:END -->
 
 ---
 
