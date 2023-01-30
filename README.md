@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie&#39;s name is Top Secret](http://9gag.com/gag/a8q1jKY)
- - ⏩ [In Japan, they put a barcode in the meat package that darkens when the meat spoils, reacting to ammonia. When it darkens, the barcode is unreadable.](http://9gag.com/gag/ajVg6vQ)
- - 👉 [Meanwhile in the Nordics](http://9gag.com/gag/aGEzVOz)<!-- MEMES:END -->
+ - 💣 [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
+ - ⏩ [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
+ - 👉 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)<!-- MEMES:END -->
 
 ---
 
