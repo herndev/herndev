@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok CEO to Testify Before House Panel in March     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-ceo-to-testify-before-house-panel-in-march/#ftag=CAD590a51e)
- - [Mastercard and Binance launch the prepaid Binance Card in Brazil, seeking to &quot;broaden the connection between traditional finance and crypto&quot;, after Argentina &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/230130/p11#a230130p11)
- - [An interview with Harvard Business School professor Shoshana Zuboff on her frustrations with fragmented efforts to restrain tech companies, privacy, and more &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/230130/p10#a230130p10)<!-- TECH:END -->
+ - [What to expect from Samsung&#39;s Unpacked event on February 1: Galaxy S23, S23 Plus, S23 Ultra, and Galaxy Book 3, but likely no tablets, earbuds, or smartwatches &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p13#a230130p13)
+ - [10 best Android lock screen apps and lock screen replacement apps](https://www.androidauthority.com/best-android-lock-screen-apps-lock-screen-replacement-apps-565514/)
+ - [The Absolute Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-catch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
