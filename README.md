@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards of the Coast fully retreats from D&amp;D license changes after community outrage](https://www.pcgamer.com/wizards-of-the-coast-fully-retreats-from-dandd-license-changes-after-community-outrage)
- - [Paizo commits to legal battle against Wizards over the future of Pathfinder and D&amp;D](https://www.polygon.com/23553389/dnd-ogl-paizo-orc-open-rpg-creative-license-announcement)
- - [The Dead Space remake will blur out &#39;disturbing scenes&#39; if you want it to](https://www.pcgamer.com/the-dead-space-remake-will-blur-out-disturbing-scenes-if-you-want-it-to)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-30-2023)
+ - [A free Per Aspera expansion lets you urbanize a green, verdant Mars](https://www.pcgamer.com/a-free-per-aspera-expansion-lets-you-urbanize-a-green-verdant-mars)
+ - [Mario Movie&#39;s Donkey Kong Voice Is Just Seth Rogen](https://kotaku.com/super-mario-bros-movie-trailer-seth-rogen-donkey-kong-1850046619)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
