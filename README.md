@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the Game of the Year goes to...](http://9gag.com/gag/aQEX80z)
- - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 💣 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 👉 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)<!-- MEMES:END -->
 
 ---
 
