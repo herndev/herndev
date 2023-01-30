@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone will attempt to crack US market in 2023](https://appleinsider.com/articles/23/01/30/nothing-phone-will-attempt-to-crack-us-market-in-2023?utm_medium=rss)
- - [Mercedes-Benz details Drive Pilot, a Level 3 hands-free driving system approved in Nevada for speeds up to 40 mph; it requires the driver&#39;s face to stay visible &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230130/p17#a230130p17)
- - [Every 2023 MacBook Pro 14-inch, 16-inch &amp; Mac mini M2 is up to $300 off](https://appleinsider.com/articles/23/01/27/every-2023-macbook-pro-14-inch-16-inch-mac-mini-m2-is-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Fourth class-action lawsuit filed against Apple for alleged privacy violations](https://appleinsider.com/articles/23/01/30/fourth-class-action-lawsuit-filed-against-apple-for-alleged-privacy-violations?utm_medium=rss)
+ - [Meta’s Account Center came with a 2FA-defeating bug](https://www.theverge.com/2023/1/30/23578033/meta-account-center-bug-2-factor-authentication-sms-email)
+ - [Frontier’s expanding its 5-gig fiber network across the country](https://www.theverge.com/2023/1/30/23578020/frontier-5-gig-fiber-internet-att-network-isp-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
