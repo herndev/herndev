@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump Says He Could Solve Ukraine War &#39;in 24 Hours. `Even now, I could solve that in 24 hours.` &lpar;from Newsweek&rpar;](http://9gag.com/gag/aRErwAQ)
- - ⏩ [First portrait of one of the characters. What will be her name? Latilia is the game in development](http://9gag.com/gag/aA0GRDo)
- - 👉 [What kind mental disorder they have, in german government ?](http://9gag.com/gag/ajVgY5p)<!-- MEMES:END -->
+ - 💣 [You really don&#39;t](http://9gag.com/gag/amAPD32)
+ - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
+ - 👉 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)<!-- MEMES:END -->
 
 ---
 
