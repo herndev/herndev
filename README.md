@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You really don&#39;t](http://9gag.com/gag/amAPD32)
- - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
+ - 💣 [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - ⏩ [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 ---
 
