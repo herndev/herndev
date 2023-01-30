@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Picard season 3 trailer gets the whole Next Gen gang back together](https://www.polygon.com/23574891/star-trek-picard-season-3-trailer-release-date-paramount-plus)
- - [Dead Island 2 will have cards instead of a skill tree](https://www.pcgamer.com/dead-island-2-will-have-cards-instead-of-a-skill-tree)
- - [A surreal first person adventure based on a cult animated series just dropped its first gameplay trailer](https://www.pcgamer.com/a-surreal-first-person-adventure-based-on-a-cult-animated-series-just-dropped-its-first-gameplay-trailer)<!-- GAME:END -->
+ - [Annie Wersching, Who Played Tess In The Last Of Us, Has Died](https://kotaku.com/annie-wersching-last-of-us-rip-died-24-picard-actor-1850047050)
+ - [Fight through the Greek afterlife with blade and shot in this grimy, gilded FPS](https://www.pcgamer.com/fight-through-the-greek-afterlife-with-blade-and-shot-in-this-grimy-gilded-fps)
+ - [Star Trek: Picard season 3 trailer gets the whole Next Gen gang back together](https://www.polygon.com/23574891/star-trek-picard-season-3-trailer-release-date-paramount-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
