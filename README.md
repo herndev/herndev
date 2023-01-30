@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Poker Face creators desperately wanted a hero to call bullshit, so they invented one](https://www.polygon.com/23573399/poker-face-nora-lilla-zuckerman-interview)
- - [Disgaea 7: Vows of the Virtueless and Rhapsody: Marl Kingdom Chronicles coming to PS5](https://blog.playstation.com/2023/01/30/disgaea-7-vows-of-the-virtueless-and-rhapsody-marl-kingdom-chronicles-coming-to-ps5/)
- - [The Dragon Strikes Back with the World of Warships: Legends Lunar New Year Update](https://news.xbox.com/en-us/2023/01/30/world-of-warships-legends-lunar-new-year-update/)<!-- GAME:END -->
+ - [You can finally battle your friends in Marvel Snap this week](https://www.polygon.com/23578288/marvel-snap-battle-mode-friends-multiplayer)
+ - [Spongebob’s New Game Isn’t Quite The Sequel To Battle For Bikini Bottom I Wanted](https://kotaku.com/spongebob-squarepants-cosmic-shake-review-xbox-ps5-1850049425)
+ - [There’s a Smash Bros. fight in the Mario movie](https://www.polygon.com/23578167/mario-bros-movie-trailer-smash-bros-donkey-kong-seth-rogen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
