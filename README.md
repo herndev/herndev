@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loupedeck Live and Loupedeck CT review: Customizable controls for creative pros](https://appleinsider.com/articles/23/01/30/loupedeck-live-and-loupedeck-ct-review-customizable-controls-for-creative-pros?utm_medium=rss)
- - [&#39;Carnival Row&#39; Season 2 Is Almost Here: Let&#39;s Refresh Our Memories     - CNET](https://www.cnet.com/culture/entertainment/carnival-row-season-2-is-almost-here-lets-jog-our-memories/#ftag=CAD590a51e)
- - [Apple Music launches Rihanna&#39;s Road to Halftime show in Spatial Audio](https://appleinsider.com/articles/23/01/30/apple-music-launches-rihannas-road-to-halftime-show-in-spatial-audio?utm_medium=rss)<!-- TECH:END -->
+ - [Another ultra-premium phone could be getting a one-inch camera sensor](https://www.androidauthority.com/oppo-find-x6-3273576/)
+ - [Apple TV+ Timothee Chalamet ad campaign continues with &#39;A Taste&#39;](https://appleinsider.com/articles/23/01/30/apple-tv-timothee-chalamet-ad-campaign-continues-with-a-taste?utm_medium=rss)
+ - [Samsung Galaxy S23 Specs, Features and Colors Leaked in AT&amp;T Listing     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-specs-features-colors-leak-at-t-listing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
