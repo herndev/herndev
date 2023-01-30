@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Extend Your Eero Mesh With Amazon Echo Speakers &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-amazon-echo-speakers-as-eero-wi-fi-extenders/)
- - [Sources: key Apple supplier Jabil begins making AirPods enclosures, or plastic bodies, in India before shipping them to China and Vietnam for assembly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230130/p9#a230130p9)
- - [Inside Apple Third Street Promenade: a luxe temple in SoCal](https://appleinsider.com/articles/23/01/30/inside-apple-third-street-promenade-a-luxe-temple-in-socal?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok CEO to Testify Before House Panel in March     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-ceo-to-testify-before-house-panel-in-march/#ftag=CAD590a51e)
+ - [Mastercard and Binance launch the prepaid Binance Card in Brazil, seeking to &quot;broaden the connection between traditional finance and crypto&quot;, after Argentina &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/230130/p11#a230130p11)
+ - [An interview with Harvard Business School professor Shoshana Zuboff on her frustrations with fragmented efforts to restrain tech companies, privacy, and more &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/230130/p10#a230130p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
