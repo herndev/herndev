@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 👉 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)<!-- MEMES:END -->
+ - 💣 [Movie&#39;s name is Top Secret](http://9gag.com/gag/a8q1jKY)
+ - ⏩ [In Japan, they put a barcode in the meat package that darkens when the meat spoils, reacting to ammonia. When it darkens, the barcode is unreadable.](http://9gag.com/gag/ajVg6vQ)
+ - 👉 [Meanwhile in the Nordics](http://9gag.com/gag/aGEzVOz)<!-- MEMES:END -->
 
 ---
 
