@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the System in Backfirewall_ on Xbox Now](https://news.xbox.com/en-us/2023/01/30/dive-into-the-system-in-backfirewall_-on-xbox-now/)
- - [Roboquest Hits Xbox Game Preview &lpar;and Game Pass&rpar;](https://news.xbox.com/en-us/2023/01/30/roboquest-hits-xbox-game-preview-and-game-pass/)
- - [Belarusian KGB adds World of Tanks studio boss to terrorist list](https://www.pcgamer.com/belarusian-kgb-adds-world-of-tanks-studio-boss-to-terrorist-list)<!-- GAME:END -->
+ - [The Dragon Strikes Back with the World of Warships: Legends Lunar New Year Update](https://news.xbox.com/en-us/2023/01/30/world-of-warships-legends-lunar-new-year-update/)
+ - [Fans Think Sony Is Teasing A New Uncharted Starring Nathan Drake’s Kid](https://kotaku.com/uncharted-5-cassie-drake-naughty-dog-ps5-release-date-1850049001)
+ - [Xbox Games With Gold taps another two for February](https://www.polygon.com/23577900/xbox-free-games-with-gold-february-2023-xbox-one-xbox-series-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
