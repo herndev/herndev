@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Documents: China&#39;s top nuclear weapons research lab, on the US export entity list since 1997, bought 7nm to 14nm Intel and Nvidia chips several times since 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230129/p10#a230129p10)
- - [Source: Baidu is planning to launch an AI chatbot similar to OpenAI&#39;s ChatGPT in March 2023, initially embedded into its main search services &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230129/p9#a230129p9)
- - [How to Watch Love Island 2023: Stream Winter Season 9 Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-winter-love-island-2023-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 3 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-3-hit-hbo-max/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Episode 3 Brings Bill on an Emotional Odyssey     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-3-brings-bill-on-an-emotional-odyssey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
