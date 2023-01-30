@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch Love Island 2023: Stream Winter Season 9 Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-winter-love-island-2023-from-anywhere/#ftag=CAD590a51e)
  - [iPhone 14 Crash Detection false positives are now a problem in Japan](https://appleinsider.com/articles/23/01/30/iphone-14-crash-detection-false-positives-are-now-a-problem-in-japan?utm_medium=rss)
- - [Netflix: The 53 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-53-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
- - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need to Watch This Unnerving Netflix True Crime Documentary     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-unnerving-netflix-true-crime-documentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
