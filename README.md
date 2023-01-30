@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
- - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
+ - ⏩ [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
 
 ---
 
