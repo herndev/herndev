@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store prices set to increase in United Kingdom, others](https://appleinsider.com/articles/23/01/27/app-store-prices-set-to-increase-in-united-kingdom-others?utm_medium=rss)
- - [Jonathan Majors is a bodybuilder yearning to be truly seen in Magazine Dreams](https://www.theverge.com/23574457/magazine-dreams-jonathan-majors-sundance-review)
- - [Best Banks for Joint Accounts for January 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-banks-for-joint-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)
+ - [How Duolingo Made Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-made-me-into-a-monster/#ftag=CAD590a51e)
+ - [Check out these emulated calculators at the Internet Archive](https://www.theverge.com/2023/1/29/23576677/emulated-calculators-internet-archive-mame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
