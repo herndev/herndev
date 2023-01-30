@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)
- - [How Duolingo Made Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-made-me-into-a-monster/#ftag=CAD590a51e)
- - [Check out these emulated calculators at the Internet Archive](https://www.theverge.com/2023/1/29/23576677/emulated-calculators-internet-archive-mame)<!-- TECH:END -->
+ - [iPhone 14 Crash Detection false positives are now a problem in Japan](https://appleinsider.com/articles/23/01/30/iphone-14-crash-detection-false-positives-are-now-a-problem-in-japan?utm_medium=rss)
+ - [Netflix: The 53 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-53-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
+ - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
