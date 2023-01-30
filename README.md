@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top tech tips to fool your boss into thinking you&#39;re working hard](https://www.pcgamer.com/top-tech-tips-to-fool-your-boss-into-thinking-youre-working-hard)
- - [PlayStation kicks off new year with increased supply of PS5 consoles, new spot](https://blog.playstation.com/2023/01/30/playstation-kicks-off-new-year-with-increased-supply-of-ps5-consoles-new-spot/)
- - [PlayStation kicks off new year with increased supply of PS5 consoles, new spot](https://blog.playstation.com/2023/01/30/playstation-kicks-off-new-year-with-increased-supply-of-ps5-consoles-new-spot/)<!-- GAME:END -->
+ - [Annie Wersching, who played Tess in The Last of Us game, has died at 45](https://www.polygon.com/23577445/annie-wersching-tess-last-of-us)
+ - [F1 champ Max Verstappen&#39;s private jet has a sim racing rig in it](https://www.pcgamer.com/f1-champ-max-verstappens-private-jet-has-a-sim-racing-rig-in-it)
+ - [Asus TUF Gaming B650 Plus WiFi](https://www.pcgamer.com/asus-tuf-gaming-b650-plus-wifi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
