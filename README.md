@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Tablet could come with two dock options](https://www.androidauthority.com/google-pixel-tablet-docks-3273318/)
- - [OnePlus 11R renders leak: Basically a cheaper OnePlus 11?](https://www.androidauthority.com/oneplus-11r-design-3272038/)
- - [One UI 5.1 changes leaked, including exclusive Galaxy S23 features.](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)<!-- TECH:END -->
+ - [Apple’s first AR headset could have pretty awful battery life for $3,000](https://www.androidauthority.com/apple-reality-pro-ar-headset-battery-life-3273321/)
+ - [The memory-chip sector, known for boom-and-bust cycles, is facing one if its worst-ever routs, as inventory glut and a fight for marketshare has cratered prices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230130/p1#a230130p1)
+ - [The Pixel Tablet could come with two dock options](https://www.androidauthority.com/google-pixel-tablet-docks-3273318/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
