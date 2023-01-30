@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 👉 [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)<!-- MEMES:END -->
+ - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
+ - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 👉 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)<!-- MEMES:END -->
 
 ---
 
