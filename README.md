@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Dead Space Peng statue](https://www.pcgamer.com/dead-space-peng-location)
- - [Tiny spots on AMD&#39;s RDNA 3 GPU hint at massive cache potential](https://www.pcgamer.com/tiny-spots-on-amds-rdna-3-gpu-hint-at-massive-cache-potential)
- - [Seeing the world of Horizon Call of the Mountain through new eyes](https://blog.playstation.com/2023/01/30/seeing-the-world-of-horizon-call-of-the-mountain-through-new-eyes/)<!-- GAME:END -->
+ - [Netflix teases One Piece’s live-action crew in first poster](https://www.polygon.com/23577694/one-piece-netflix-release-date-monkey-d-luffy-teaser)
+ - [Krafton belatedly realises making every game PUBG-related may not be a great strategy](https://www.pcgamer.com/krafton-belatedly-realises-making-every-game-pubg-related-may-not-be-a-great-strategy)
+ - [Microsoft says Sony isn&#39;t telling the truth to EU regulators about Call of Duty](https://www.pcgamer.com/microsoft-says-sony-isnt-telling-the-truth-to-eu-regulators-about-call-of-duty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
