@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Annie Wersching, Who Played Tess In The Last Of Us, Has Died](https://kotaku.com/annie-wersching-last-of-us-rip-died-24-picard-actor-1850047050)
- - [Fight through the Greek afterlife with blade and shot in this grimy, gilded FPS](https://www.pcgamer.com/fight-through-the-greek-afterlife-with-blade-and-shot-in-this-grimy-gilded-fps)
- - [Star Trek: Picard season 3 trailer gets the whole Next Gen gang back together](https://www.polygon.com/23574891/star-trek-picard-season-3-trailer-release-date-paramount-plus)<!-- GAME:END -->
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us episode 3 is the ‘San Junipero’ of zombie stories](https://www.polygon.com/23571500/last-of-us-drop-episode-3-review-nick-offerman-murray-bartlett)
+ - [HBO’s The Last of Us improves on the game’s implied gay romance](https://www.polygon.com/23574585/last-of-us-bill-frank-gay-game-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
