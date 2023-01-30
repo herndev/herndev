@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel Tablet could come with two dock options](https://www.androidauthority.com/google-pixel-tablet-docks-3273318/)
  - [OnePlus 11R renders leak: Basically a cheaper OnePlus 11?](https://www.androidauthority.com/oneplus-11r-design-3272038/)
- - [One UI 5.1 changes leaked, including exclusive Galaxy S23 features.](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)
- - [Documents: China&#39;s top nuclear weapons research lab, on the US export entity list since 1997, bought 7nm to 14nm Intel and Nvidia chips several times since 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230129/p10#a230129p10)<!-- TECH:END -->
+ - [One UI 5.1 changes leaked, including exclusive Galaxy S23 features.](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
