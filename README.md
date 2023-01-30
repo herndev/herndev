@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - ⏩ [Local crackhead trying to steal stuffs inside bomb bag.](http://9gag.com/gag/a7q1L8w)
- - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
+ - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
+ - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
 
 ---
 
