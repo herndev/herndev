@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
- - 👉 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)<!-- MEMES:END -->
+ - 💣 [Junior position, as a trainee at the mission control GUIDO console, but still... Absolute f**king madlad](http://9gag.com/gag/anzgKyV)
+ - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
+ - 👉 [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)<!-- MEMES:END -->
 
 ---
 
