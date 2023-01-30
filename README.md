@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Miami Marlins Star Outfielder, Jazz Chisholm Jr., Will Grace the Cover of MLB The Show 23](https://news.xbox.com/en-us/2023/01/30/mlb-the-show-23-cover-athlete-announce/)
- - [Marie Kondo exiting her Marie Kondo phase is totally OK](https://www.polygon.com/23578292/marie-kondo-given-up-tidying-sparks-joy)
- - [Dead Space Remake: The Kotaku Review](https://kotaku.com/dead-space-2023-remake-review-kotaku-pc-ps5-1850050062)<!-- GAME:END -->
+ - [The Week In Games: Deliver Us To The Future](https://kotaku.com/january-game-releases-out-this-week-deliver-us-mars-1850050417)
+ - [The Last of Us actor Annie Wersching has died](https://www.pcgamer.com/the-last-of-us-actor-annie-wersching-has-died)
+ - [MLB The Show 23 launches in March with Jazz Chisholm as the cover star](https://www.polygon.com/23578469/mlb-the-show-23-release-date-jazz-chisholm-cover)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
