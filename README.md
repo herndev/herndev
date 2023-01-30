@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can finally battle your friends in Marvel Snap this week](https://www.polygon.com/23578288/marvel-snap-battle-mode-friends-multiplayer)
- - [Spongebob’s New Game Isn’t Quite The Sequel To Battle For Bikini Bottom I Wanted](https://kotaku.com/spongebob-squarepants-cosmic-shake-review-xbox-ps5-1850049425)
- - [There’s a Smash Bros. fight in the Mario movie](https://www.polygon.com/23578167/mario-bros-movie-trailer-smash-bros-donkey-kong-seth-rogen)<!-- GAME:END -->
+ - [Miami Marlins Star Outfielder, Jazz Chisholm Jr., Will Grace the Cover of MLB The Show 23](https://news.xbox.com/en-us/2023/01/30/mlb-the-show-23-cover-athlete-announce/)
+ - [Marie Kondo exiting her Marie Kondo phase is totally OK](https://www.polygon.com/23578292/marie-kondo-given-up-tidying-sparks-joy)
+ - [Dead Space Remake: The Kotaku Review](https://kotaku.com/dead-space-2023-remake-review-kotaku-pc-ps5-1850050062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
