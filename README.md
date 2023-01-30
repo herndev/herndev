@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The dentist can tell](http://9gag.com/gag/amAPD2d)
+ - 💣 [It\u2019s not addiction\u2026](http://9gag.com/gag/a8q1j36)
  - ⏩ [Thats my Ride!](http://9gag.com/gag/aBdnR41)
- - 👉 [Criminal minds](http://9gag.com/gag/a9q1MzZ)<!-- MEMES:END -->
+ - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 ---
 
