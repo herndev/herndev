@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;January 30, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-january-30-2023)
- - [A free Per Aspera expansion lets you urbanize a green, verdant Mars](https://www.pcgamer.com/a-free-per-aspera-expansion-lets-you-urbanize-a-green-verdant-mars)
- - [Mario Movie&#39;s Donkey Kong Voice Is Just Seth Rogen](https://kotaku.com/super-mario-bros-movie-trailer-seth-rogen-donkey-kong-1850046619)<!-- GAME:END -->
+ - [Star Trek: Picard season 3 trailer gets the whole Next Gen gang back together](https://www.polygon.com/23574891/star-trek-picard-season-3-trailer-release-date-paramount-plus)
+ - [Dead Island 2 will have cards instead of a skill tree](https://www.pcgamer.com/dead-island-2-will-have-cards-instead-of-a-skill-tree)
+ - [A surreal first person adventure based on a cult animated series just dropped its first gameplay trailer](https://www.pcgamer.com/a-surreal-first-person-adventure-based-on-a-cult-animated-series-just-dropped-its-first-gameplay-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
