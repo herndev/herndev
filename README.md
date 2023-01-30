@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: China&#39;s top nuclear weapons research lab, on the US export entity list since 1997, bought 7nm to 14nm Intel and Nvidia chips several times since 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230129/p10#a230129p10)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 3 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-3-hit-hbo-max/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Episode 3 Brings Bill on an Emotional Odyssey     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-3-brings-bill-on-an-emotional-odyssey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 11R renders leak: Basically a cheaper OnePlus 11?](https://www.androidauthority.com/oneplus-11r-design-3272038/)
+ - [One UI 5.1 changes leaked, including exclusive Galaxy S23 features.](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)
+ - [Documents: China&#39;s top nuclear weapons research lab, on the US export entity list since 1997, bought 7nm to 14nm Intel and Nvidia chips several times since 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230129/p10#a230129p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
