@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Samsung&#39;s Unpacked event on February 1: Galaxy S23, S23 Plus, S23 Ultra, and Galaxy Book 3, but likely no tablets, earbuds, or smartwatches &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230130/p13#a230130p13)
- - [10 best Android lock screen apps and lock screen replacement apps](https://www.androidauthority.com/best-android-lock-screen-apps-lock-screen-replacement-apps-565514/)
- - [The Absolute Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-catch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Loupedeck Live and Loupedeck CT review: Customizable controls for creative pros](https://appleinsider.com/articles/23/01/30/loupedeck-live-and-loupedeck-ct-review-customizable-controls-for-creative-pros?utm_medium=rss)
+ - [&#39;Carnival Row&#39; Season 2 Is Almost Here: Let&#39;s Refresh Our Memories     - CNET](https://www.cnet.com/culture/entertainment/carnival-row-season-2-is-almost-here-lets-jog-our-memories/#ftag=CAD590a51e)
+ - [Apple Music launches Rihanna&#39;s Road to Halftime show in Spatial Audio](https://appleinsider.com/articles/23/01/30/apple-music-launches-rihannas-road-to-halftime-show-in-spatial-audio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
