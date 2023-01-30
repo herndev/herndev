@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The winner of miss universe vs a random McDonald&#39;s worker.](http://9gag.com/gag/ap9NZQb)
- - ⏩ [To lane split](http://9gag.com/gag/aNwpXX4)
- - 👉 [Sometimes a repost is essential to preserve gems](http://9gag.com/gag/adP8A6N)<!-- MEMES:END -->
+ - 💣 [Trump Says He Could Solve Ukraine War &#39;in 24 Hours. `Even now, I could solve that in 24 hours.` &lpar;from Newsweek&rpar;](http://9gag.com/gag/aRErwAQ)
+ - ⏩ [First portrait of one of the characters. What will be her name? Latilia is the game in development](http://9gag.com/gag/aA0GRDo)
+ - 👉 [What kind mental disorder they have, in german government ?](http://9gag.com/gag/ajVgY5p)<!-- MEMES:END -->
 
 ---
 
