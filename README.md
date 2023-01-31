@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #591, January 31](https://www.pcgamer.com/wordle-hint-answer-today-591-january-31)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/30/this-weeks-deals-with-gold-and-spotlight-sale-260/)
- - [This LOL Verifier checks to make sure you actually laughed](https://www.pcgamer.com/this-lol-verifier-checks-to-make-sure-you-actually-laughed)
- - [New 16 Core Intel Arc desktop GPU may be on the cards](https://www.pcgamer.com/new-16-core-intel-arc-desktop-gpu-may-be-on-the-cards)<!-- GAME:END -->
+ - [This LOL Verifier checks to make sure you actually laughed](https://www.pcgamer.com/this-lol-verifier-checks-to-make-sure-you-actually-laughed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
