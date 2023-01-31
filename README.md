@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starting Tomorrow, Marvel Snap Will Let You Battle Your Friends](https://kotaku.com/marvel-snap-battle-vs-mode-friends-update-series-drop-1850051047)
- - [Activision Blizzard Exec Has The Most Unhinged Last Of Us TV Show Take Yet](https://kotaku.com/last-us-tv-xbox-activision-blizzard-acquisition-sony-1850051036)
- - [Horror maestro John Carpenter weighs in on &#39;refurbished&#39; Dead Space: &#39;Great game!&#39;](https://www.pcgamer.com/horror-maestro-john-carpenter-weighs-in-on-refurbished-dead-space-great-game)<!-- GAME:END -->
+ - [Huge Dong Makes Appearance During Streaming Awards Show](https://kotaku.com/thegrefg-premios-esland-streamer-twitch-dong-wang-dick-1850051103)
+ - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)
+ - [This hilarious game is made of 56 frantic minigames that you only need a single button to play](https://www.pcgamer.com/this-hilarious-game-is-made-of-56-frantic-minigames-that-you-only-need-a-single-button-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
