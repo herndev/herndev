@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - ⏩ [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
+ - 💣 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 👉 [Lucky for the gentleman that his domestic violence `incident` was caught on camera.](http://9gag.com/gag/agogGXx)<!-- MEMES:END -->
 
 ---
 
