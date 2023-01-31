@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Bowl Ads So Far: See Spots Starring Dave Grohl, Meghan Trainor, Anna Faris     - CNET](https://www.cnet.com/culture/sports/super-bowl-2023-ads-so-far-see-spots-starring-dave-grohl-meghan-trainor-anna-faris/#ftag=CAD590a51e)
- - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [Most Oreo Oreo: What to Know About the Mammoth New Cookie     - CNET](https://www.cnet.com/culture/most-oreo-oreo-what-to-know-about-the-mammoth-new-cookie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just ahead of Galaxy S23 launch, Samsung expects dip in smartphone demand](https://www.androidauthority.com/samsung-fourth-quarter-profit-decline-3273935/)
+ - [Kaspersky: from January 2020 to June 2022, hacker groups offered salaries from six figures to $1.2M, bonuses, and paid leave to attract talent on the dark web &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/230130/p28#a230130p28)
+ - [The Best iPhone 14 Camera Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-accessories-for-better-mobile-videos-and-photos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
