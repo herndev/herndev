@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Nation, the UK government-sanctioned tech ecosystem builder, plans to cease operations on March 31 after losing its grant funding to a Barclays-run program &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230131/p22#a230131p22)
- - [The next Sims will have both solo play and multiplayer](https://www.theverge.com/2023/1/31/23579786/the-sims-project-rene-multiplayer-solo-cross-platform)
- - [A National Labor Relations Board judge rules Amazon violated US federal labor laws as part of its efforts to resist unionization at two New York City facilities &lpar;Robert Iafolla/Bloomberg&rpar;](http://www.techmeme.com/230131/p21#a230131p21)<!-- TECH:END -->
+ - [20.5-inch MacBook Pro with foldable display rumored for 2025, no folding iPad in 2024](https://appleinsider.com/articles/23/01/31/205-inch-macbook-pro-with-foldable-display-rumored-for-2025-no-folding-ipad-in-2024?utm_medium=rss)
+ - [A look at US cases that may define the bounds of free speech online, including Gonzalez v. Google, Twitter v. Taamneh, and a fight over CA&#39;s kid safety law &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230131/p27#a230131p27)
+ - [Twitter shuts down CoTweets, an experimental feature allowing two users to author a tweet in tandem; in a month, CoTweets will show as authored from one user &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230131/p26#a230131p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
