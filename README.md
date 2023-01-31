@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why am I not surprised..](http://9gag.com/gag/armn4BK)
- - ⏩ [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
- - 👉 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/aPgZyGB)
+ - ⏩ [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 👉 [Romantic vibes](http://9gag.com/gag/aqeGrAY)<!-- MEMES:END -->
 
 ---
 
