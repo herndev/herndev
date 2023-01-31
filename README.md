@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US NLRB says comments by Apple executives and policies imposed on employees violate workers&#39; rights, after a complaint by a former Apple employee in 2021 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230130/p20#a230130p20)
- - [MacBooks dominate this week&#39;s list of top Amazon deals, with Pro models up to $500 off](https://appleinsider.com/articles/23/01/30/macbooks-dominate-this-weeks-list-of-top-amazon-deals-with-pro-models-up-to-500-off?utm_medium=rss)
- - [Apple renews comedy &#39;Acapulco&#39; for third season](https://appleinsider.com/articles/23/01/30/apple-renews-comedy-acapulco-for-third-season?utm_medium=rss)<!-- TECH:END -->
+ - [Payment card services company Marqeta agrees to acquire New York-based fintech infrastructure startup Power Finance for $223M, plus $52M subject to a milestone &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230130/p21#a230130p21)
+ - [Apple execs face allegations of union-busting by NLRB](https://appleinsider.com/articles/23/01/30/apple-execs-face-allegations-of-union-busting-by-nlrb?utm_medium=rss)
+ - [The US NLRB says comments by Apple executives and policies imposed on employees violate workers&#39; rights, after a 2021 complaint by former employee Ashley Gj&amp;oslash;vik &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230130/p20#a230130p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
