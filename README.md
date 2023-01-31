@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s co-founders are back with Artifact, a kind of TikTok for text](https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app)
- - [The Dead Space remake works on Steam Deck now](https://www.theverge.com/2023/1/31/23579574/dead-space-remake-steam-deck-support-hotfix)
- - [Marshall&#39;s Middleton Bluetooth speaker is water-resistant &amp; app-controlled](https://appleinsider.com/articles/23/01/31/marshalls-middleton-bluetooth-speaker-is-water-resistant-app-controlled?utm_medium=rss)<!-- TECH:END -->
+ - [What is Disney Plus with ads?](https://www.androidauthority.com/what-is-disney-plus-with-ads-3273776/)
+ - [Apple &amp; Google will have to tighten health app requirements, say researchers](https://appleinsider.com/articles/23/01/31/apple-google-will-have-to-tighten-health-app-requirements-say-researchers?utm_medium=rss)
+ - [Instagram co-founders Kevin Systrom and Mike Krieger announce a venture to explore social apps, the first being Artifact, a TikTok-like app for news articles &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230131/p19#a230131p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
