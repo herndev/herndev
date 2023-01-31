@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suicide by cop........ Nah. Suicide by Hunter](http://9gag.com/gag/a3Z1dp8)
- - ⏩ [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - 👉 [Romantic vibes](http://9gag.com/gag/aqeGrAY)<!-- MEMES:END -->
+ - 💣 [The ancient library of Tibet. Only 5% has been translated](http://9gag.com/gag/aqeGbmM)
+ - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
+ - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
 
 ---
 
