@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
- - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
- - 👉 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/aPgZyGB)
+ - ⏩ [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
+ - 👉 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
 
 ---
 
