@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raycon Everyday Earbuds &lpar;E25&rpar; Review: Not Just for YouTubers](https://www.wired.com/review/raycon-everyday-earbuds/)
- - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
- - [EU Commission changes, triggered by human rights group ICCL, mean regulators in Ireland and elsewhere will report six times a year on GDPR, violations, and more &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230131/p14#a230131p14)<!-- TECH:END -->
+ - [An AI Filter Revealed My Secret Self](https://www.wired.com/story/ai-filter-beauty-tiktok/)
+ - [A roundup of potential rivals to OpenAI&#39;s ChatGPT service: DeepMind&#39;s Sparrow, Google&#39;s LaMDA, Anthropic&#39;s Claude, and Character AI &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/230131/p16#a230131p16)
+ - [Nothing Ear 2 leaks again: More like Nothing Ear 1 2023 Edition?](https://www.androidauthority.com/nothing-ear-2-design-features-3274104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
