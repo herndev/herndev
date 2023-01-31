@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 HomePod review roundup: similar sound, same price](https://appleinsider.com/articles/23/01/31/2023-homepod-review-roundup-similar-sound-same-price?utm_medium=rss)
- - [After the market crashed, Madonna, Kim Kardashian, Tom Brady, and other celebrities have been embroiled in legal difficulties over promoting crypto projects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230131/p18#a230131p18)
- - [Daily Deals Jan. 31: 40% off an iPad Pro, free Apple Arcade promo, $150 off M2 MacBook Air &amp; more](https://appleinsider.com/articles/23/01/31/daily-deals-jan-31-40-off-an-ipad-pro-free-apple-arcade-promo-150-off-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram’s co-founders are back with Artifact, a kind of TikTok for text](https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app)
+ - [The Dead Space remake works on Steam Deck now](https://www.theverge.com/2023/1/31/23579574/dead-space-remake-steam-deck-support-hotfix)
+ - [Marshall&#39;s Middleton Bluetooth speaker is water-resistant &amp; app-controlled](https://appleinsider.com/articles/23/01/31/marshalls-middleton-bluetooth-speaker-is-water-resistant-app-controlled?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
