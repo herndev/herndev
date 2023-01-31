@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Terraria devs want 2023 to be &#39;the year of Terraria crossplay&#39;](https://www.pcgamer.com/terraria-devs-want-2023-to-be-the-year-of-terraria-crossplay)
- - [Your questions about Marvel Snap’s battle mode, answered](https://www.polygon.com/guides/23568522/marvel-snap-friendly-battle-update)
- - [Everything Square Enix Announced For Final Fantasy VII’s Anniversary](https://kotaku.com/final-fantasy-7-ff7-sephiroth-anniversary-square-enix-1850055398)<!-- GAME:END -->
+ - [The Most Anticipated Games of 2023 &lpar;According to the Xbox Wire Team&rpar;](https://news.xbox.com/en-us/2023/01/31/most-anticipated-games-2023/)
+ - [This Fallout 4 synth power armor mod looks so sick it makes me want to join the Institute](https://www.pcgamer.com/this-fallout-4-synth-power-armor-mod-looks-so-sick-it-makes-me-want-to-join-the-institute)
+ - [Rumbleverse, the battle royale brawler, is shutting down](https://www.polygon.com/23577658/rumbleverse-shutdown-battle-royale-epic-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
