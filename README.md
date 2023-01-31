@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Spaceport at the Edge of the World](https://www.wired.com/story/scotland-village-spaceport-peatland/)
- - [Instagram launches Notes, its AIM-like text status feature, in Europe and Japan, delayed to comply with local laws, expanding on Asia, North America, and LatAm &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230131/p10#a230131p10)
- - [A draft EU proposal details plans to ask Netflix, Alphabet, and other &quot;large traffic generators&quot; to help pay for next-generation internet infrastructure &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230131/p9#a230131p9)<!-- TECH:END -->
+ - [Samsung&#39;s terrible quarter delivered lowest profit in 8 years](https://appleinsider.com/articles/23/01/31/samsungs-terrible-quarter-delivered-lowest-profit-in-8-years?utm_medium=rss)
+ - [&#39;Severance&#39; nominated for Producers&#39; Guild award](https://appleinsider.com/articles/23/01/31/severance-nominated-for-producers-guild-award?utm_medium=rss)
+ - [How to use classic Mac, Lisa, NeXT, Apple II software on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-classic-mac-lisa-next-apple-ii-software-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
