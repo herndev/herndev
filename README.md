@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge leak reveals the full list of One UI 5.1 features &lpar;Updated&rpar;](https://www.androidauthority.com/one-ui-5-1-features-changes-availability-3273308/)
- - [Amazon&#39;s third-party &quot;seller services&quot;, a large and growing part of the company&#39;s revenue that is also profitable, has filled its Marketplace with junk products &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/230131/p6#a230131p6)
- - [Poll: Do you use your phone in the shower or bath?](https://www.androidauthority.com/use-phone-shower-bath-poll-3273964/)<!-- TECH:END -->
+ - [The US has dealt the final blow to Huawei’s phone business](https://www.androidauthority.com/us-kill-huawei-phone-business-new-sanctions-3274003/)
+ - [Manu Jain, who led Xiaomi&#39;s India business for seven years, leaves, joining a long list of key departures; sources say he pitched investors on EV startup ideas &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230131/p7#a230131p7)
+ - [Here’s a last unofficial look at the Galaxy S23 series before the event, as a treat](https://www.theverge.com/2023/1/31/23579269/galaxy-s23-plus-ultra-real-world-photos-video-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
