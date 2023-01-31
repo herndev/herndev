@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Love this serie](http://9gag.com/gag/anzgjxb)
- - ⏩ [Dead man walking.](http://9gag.com/gag/a6q1VK9)
- - 👉 [How many hours flying experience do you have? Pilot: `Yes.`](http://9gag.com/gag/a2K14ow)<!-- MEMES:END -->
+ - ⏩ [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 ---
 
