@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GoldenEye 007 ‘Bunker 1’ mission walkthrough](https://www.polygon.com/guides/23577923/goldeneye-007-bunker-1-walkthrough-goldeneye-key-surveillance-datathief-boris)
  - [Wordle hint and answer today: Let&#39;s solve #591, January 31](https://www.pcgamer.com/wordle-hint-answer-today-591-january-31)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/30/this-weeks-deals-with-gold-and-spotlight-sale-260/)
- - [This LOL Verifier checks to make sure you actually laughed](https://www.pcgamer.com/this-lol-verifier-checks-to-make-sure-you-actually-laughed)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/30/this-weeks-deals-with-gold-and-spotlight-sale-260/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
