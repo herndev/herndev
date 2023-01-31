@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 💣 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - ⏩ [Romantic vibes](http://9gag.com/gag/aqeGrAY)
  - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 ---
