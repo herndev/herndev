@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest T-Mobile breach affected Google Fi customers too](https://www.androidauthority.com/t-mobile-breach-google-fi-user-data-3273310/)
- - [JD.com joint ventures in Thailand and Indonesia will cease operations in March amid fierce competition, as the company refocuses on logistics and China growth &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230131/p1#a230131p1)
- - [Just ahead of Galaxy S23 launch, Samsung expects dip in smartphone demand](https://www.androidauthority.com/samsung-fourth-quarter-profit-decline-3273935/)<!-- TECH:END -->
+ - [A US judge allows the names of the two people who posted SBF&#39;s $250M bail to be made public, but stays the ruling until at least February 7 expecting an appeal &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230131/p3#a230131p3)
+ - [Meta, Google, and Amazon leadership are conjuring their companies&#39; &quot;scrappy&quot; startup roots in internal messaging, asking staff to work harder or face layoffs &lpar;Vox&rpar;](http://www.techmeme.com/230131/p2#a230131p2)
+ - [The latest T-Mobile breach affected Google Fi customers too](https://www.androidauthority.com/t-mobile-breach-google-fi-user-data-3273310/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
