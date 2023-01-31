@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Nintendo, and Sony reportedly skipping E3 2023](https://www.polygon.com/23579327/xbox-nintendo-sony-skipping-e3-2023)
- - [Japan officially designates today Final Fantasy 7 Day](https://www.pcgamer.com/japan-officially-designates-today-final-fantasy-7-day)
- - [Sony&#39;s expecting a severe drop in PSVR 2 sales from a projected 2 million](https://www.pcgamer.com/sonys-expecting-a-severe-drop-in-psvr-2-sales-from-a-projected-2-million)<!-- GAME:END -->
+ - [Every Upcoming Hollywood Anime Live-Action Adaptation That&#39;s Got Fans Stressed](https://kotaku.com/netflix-one-piece-yu-yu-hakusho-anime-live-action-netfl-1850050620)
+ - [Dead Space now works great on Steam Deck after a post-launch patch](https://www.polygon.com/23578703/dead-space-remake-steam-deck-verified-gameplay)
+ - [How to open Hitman Freelancer safes](https://www.pcgamer.com/hitman-freelancer-safe-clues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
