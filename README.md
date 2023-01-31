@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q4 operating profit of ~$3.5B, down 69% YoY, its lowest since Q3 2014, and revenue of ~$57.3B, down 8% YoY, citing weak consumer demand &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/230130/p24#a230130p24)
- - [A look at MetaBirkins, 100 NFTs created by a self-described entrepreneur and artist in 2021, as Herm&amp;egrave;s goes to court in NYC seeking to stop the use of its brand &lpar;Erin Mulvaney/Wall Street Journal&rpar;](http://www.techmeme.com/230130/p23#a230130p23)
- - [More People Need to Watch the Best True Crime Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-true-crime-documentary-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alameda Research sues Voyager Digital for more than $445.8M, seeking to recover loan repayments that it made after Voyager filed for bankruptcy in July 2022 &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/230130/p27#a230130p27)
+ - [Paramount Global plans to merge its Showtime streaming service with the ad-free tier of Paramount+ and rebrand it as &quot;Paramount+ with SHOWTIME&quot;, later in 2023 &lpar;Matt Tamanini/The Streamable&rpar;](http://www.techmeme.com/230130/p26#a230130p26)
+ - [Sources: Stripe is aiming to raise ~$2.5B at a $55B to $60B valuation, led by Thrive Capital which is committing $1B; Stripe was valued at ~$95B in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/230130/p25#a230130p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
