@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young Greek Australian Tennis star Tsitsipas makes pitch to favorite actress.](http://9gag.com/gag/aME4rMX)
- - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
+ - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - ⏩ [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - 👉 [Love this serie](http://9gag.com/gag/anzgjxb)<!-- MEMES:END -->
 
 ---
 
