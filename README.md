@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
- - ⏩ [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
- - 👉 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)<!-- MEMES:END -->
+ - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - ⏩ [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
 
 ---
 
