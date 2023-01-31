@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clean Croft Manor: PowerWash Simulator Gets Free Tomb Raider DLC](https://news.xbox.com/en-us/2023/01/31/clean-croft-manor-powerwash-simulator-gets-free-tomb-raider-dlc/)
- - [What we know about Superman: Legacy](https://www.polygon.com/23579720/superman-legacy-cast-release-date-director-james-gunn)
- - [Dragon Ball Super’s Iconic Father-And-Son Team Is Coming To Fortnite](https://kotaku.com/fortnite-dragon-ball-super-gohan-piccolo-skins-anime-1850053732)<!-- GAME:END -->
+ - [Treachery in Beatdown City: Ultra Remix is Coming to Xbox on April 27th](https://news.xbox.com/en-us/2023/01/31/treachery-in-beatdown-city-ultra-remix-is-coming-to-xbox-on-april-27th/)
+ - [Releasing Batgirl would have hurt DC universe, says new DC Studios head](https://www.polygon.com/23579868/batgirl-canceled-release-dcu-movies-hbo)
+ - [Report: Halo Infinite Won&#39;t Get Story DLC, Series Switching To Unreal](https://kotaku.com/halo-infinite-dlc-343-xbox-canceled-unreal-layoffs-1850054347)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
