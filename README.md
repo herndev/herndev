@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20.5-inch MacBook Pro with foldable display rumored for 2025, no folding iPad in 2024](https://appleinsider.com/articles/23/01/31/205-inch-macbook-pro-with-foldable-display-rumored-for-2025-no-folding-ipad-in-2024?utm_medium=rss)
- - [A look at US cases that may define the bounds of free speech online, including Gonzalez v. Google, Twitter v. Taamneh, and a fight over CA&#39;s kid safety law &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230131/p27#a230131p27)
- - [Twitter shuts down CoTweets, an experimental feature allowing two users to author a tweet in tandem; in a month, CoTweets will show as authored from one user &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230131/p26#a230131p26)<!-- TECH:END -->
+ - [PayPal says it will lay off around 2,000 employees, about 7% of its workforce, &quot;over the coming weeks&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230131/p28#a230131p28)
+ - [Google Fi Customer Data Accessed After &#39;Suspicious Activity&#39;     - CNET](https://www.cnet.com/tech/services-and-software/google-fi-customer-data-accessed-after-suspicious-activity/#ftag=CAD590a51e)
+ - [E3 May Not Include Sony, Microsoft or Nintendo This Year     - CNET](https://www.cnet.com/tech/gaming/e3-may-not-include-sony-microsoft-or-nintendo-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
