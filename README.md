@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - ⏩ [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
+ - ⏩ [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - 👉 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)<!-- MEMES:END -->
 
 ---
 
