@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI Filter Revealed My Secret Self](https://www.wired.com/story/ai-filter-beauty-tiktok/)
- - [A roundup of potential rivals to OpenAI&#39;s ChatGPT service: DeepMind&#39;s Sparrow, Google&#39;s LaMDA, Anthropic&#39;s Claude, and Character AI &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/230131/p16#a230131p16)
- - [Nothing Ear 2 leaks again: More like Nothing Ear 1 2023 Edition?](https://www.androidauthority.com/nothing-ear-2-design-features-3274104/)<!-- TECH:END -->
+ - [2023 HomePod review roundup: similar sound, same price](https://appleinsider.com/articles/23/01/31/2023-homepod-review-roundup-similar-sound-same-price?utm_medium=rss)
+ - [After the market crashed, Madonna, Kim Kardashian, Tom Brady, and other celebrities have been embroiled in legal difficulties over promoting crypto projects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230131/p18#a230131p18)
+ - [Daily Deals Jan. 31: 40% off an iPad Pro, free Apple Arcade promo, $150 off M2 MacBook Air &amp; more](https://appleinsider.com/articles/23/01/31/daily-deals-jan-31-40-off-an-ipad-pro-free-apple-arcade-promo-150-off-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
