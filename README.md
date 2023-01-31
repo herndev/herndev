@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t guarantee advertising viewer counts for MLS Season Pass](https://appleinsider.com/articles/23/01/31/apple-wont-guarantee-advertising-viewer-counts-for-mls-season-pass?utm_medium=rss)
- - [The real aim of the Big Tech layoffs is to bring workers to heel and cultivate an insecure workforce, as an actual recession has yet to hit the tech sector &lpar;Brian Merchant/Los Angeles Times&rpar;](http://www.techmeme.com/230131/p30#a230131p30)
- - [Apple M1 vs M2 chips: How do they compare?](https://www.androidauthority.com/apple-m1-vs-m2-3274309/)<!-- TECH:END -->
+ - [EA is shutting down Apex Legends Mobile and not giving refunds](https://www.theverge.com/2023/1/31/23580285/ea-apex-legends-mobile-shutting-down-refunds-battlefield)
+ - [EA Q3: revenue up 5% YoY to $1.88B, vs. $2.5B est., net income up 209% YoY to $204M, net bookings down 9% YoY to $2.34B, and lowers FY guidance; stock drops 5%+ &lpar;TJ Denzer/Shacknews&rpar;](http://www.techmeme.com/230131/p34#a230131p34)
+ - [Anker admits its Eufy security cameras are not natively E2E encrypted and produced unencrypted video streams for Eufy&#39;s web portal, but says the flaws are fixed &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230131/p33#a230131p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
