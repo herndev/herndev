@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Treachery in Beatdown City: Ultra Remix is Coming to Xbox on April 27th](https://news.xbox.com/en-us/2023/01/31/treachery-in-beatdown-city-ultra-remix-is-coming-to-xbox-on-april-27th/)
- - [Releasing Batgirl would have hurt DC universe, says new DC Studios head](https://www.polygon.com/23579868/batgirl-canceled-release-dcu-movies-hbo)
- - [Report: Halo Infinite Won&#39;t Get Story DLC, Series Switching To Unreal](https://kotaku.com/halo-infinite-dlc-343-xbox-canceled-unreal-layoffs-1850054347)<!-- GAME:END -->
+ - [Marvel Snap&#39;s Most Hated Card Gets Another Huge Change](https://kotaku.com/marvel-snap-leader-nerf-update-wolverine-battle-mode-1850054974)
+ - [The Sims 4’s new patch adds hearing aids, binders, and more inclusive options](https://www.polygon.com/23579998/the-sims-4-patch-medical-wearables-shapewear-binders-trans-affirming)
+ - [Sony, Microsoft and Nintendo give E3 the brush off](https://www.pcgamer.com/sony-microsoft-and-nintendo-give-e3-the-brush-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
