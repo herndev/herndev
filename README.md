@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Disney Plus with ads?](https://www.androidauthority.com/what-is-disney-plus-with-ads-3273776/)
- - [Apple &amp; Google will have to tighten health app requirements, say researchers](https://appleinsider.com/articles/23/01/31/apple-google-will-have-to-tighten-health-app-requirements-say-researchers?utm_medium=rss)
- - [Instagram co-founders Kevin Systrom and Mike Krieger announce a venture to explore social apps, the first being Artifact, a TikTok-like app for news articles &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230131/p19#a230131p19)<!-- TECH:END -->
+ - [Tech Nation, the UK government-sanctioned tech ecosystem builder, plans to cease operations on March 31 after losing its grant funding to a Barclays-run program &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230131/p22#a230131p22)
+ - [The next Sims will have both solo play and multiplayer](https://www.theverge.com/2023/1/31/23579786/the-sims-project-rene-multiplayer-solo-cross-platform)
+ - [A National Labor Relations Board judge rules Amazon violated US federal labor laws as part of its efforts to resist unionization at two New York City facilities &lpar;Robert Iafolla/Bloomberg&rpar;](http://www.techmeme.com/230131/p21#a230131p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
