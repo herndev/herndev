@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
- - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
+ - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 👉 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
 
 ---
 
