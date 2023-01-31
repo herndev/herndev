@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just ahead of Galaxy S23 launch, Samsung expects dip in smartphone demand](https://www.androidauthority.com/samsung-fourth-quarter-profit-decline-3273935/)
- - [Kaspersky: from January 2020 to June 2022, hacker groups offered salaries from six figures to $1.2M, bonuses, and paid leave to attract talent on the dark web &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/230130/p28#a230130p28)
- - [The Best iPhone 14 Camera Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-accessories-for-better-mobile-videos-and-photos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The latest T-Mobile breach affected Google Fi customers too](https://www.androidauthority.com/t-mobile-breach-google-fi-user-data-3273310/)
+ - [JD.com joint ventures in Thailand and Indonesia will cease operations in March amid fierce competition, as the company refocuses on logistics and China growth &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230131/p1#a230131p1)
+ - [Just ahead of Galaxy S23 launch, Samsung expects dip in smartphone demand](https://www.androidauthority.com/samsung-fourth-quarter-profit-decline-3273935/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
