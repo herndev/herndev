@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - ⏩ [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
- - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
+ - 💣 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)
+ - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 👉 [Mark Lutchman](http://9gag.com/gag/anzgX6q)<!-- MEMES:END -->
 
 ---
 
