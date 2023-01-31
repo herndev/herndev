@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Most Anticipated Games of 2023 &lpar;According to the Xbox Wire Team&rpar;](https://news.xbox.com/en-us/2023/01/31/most-anticipated-games-2023/)
- - [This Fallout 4 synth power armor mod looks so sick it makes me want to join the Institute](https://www.pcgamer.com/this-fallout-4-synth-power-armor-mod-looks-so-sick-it-makes-me-want-to-join-the-institute)
- - [Rumbleverse, the battle royale brawler, is shutting down](https://www.polygon.com/23577658/rumbleverse-shutdown-battle-royale-epic-games)<!-- GAME:END -->
+ - [Dead Space patch fixes annoying fuzzy textures one day after Digital Foundry callout](https://www.pcgamer.com/dead-space-patch-fixes-annoying-fuzzy-textures-one-day-after-digital-foundry-callout)
+ - [The Sims 4 Update Adds Trans-Inclusive Top Surgery Body Scar Options](https://kotaku.com/sims-4-update-console-pc-trans-inclusive-top-surgery-1850056313)
+ - [Rumbleverse, the wrestling battle royale, is shutting down only six months after launch](https://www.pcgamer.com/rumbleverse-the-wrestling-battle-royale-is-shutting-down-only-six-months-after-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
