@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 patch delivers DLSS 3 ahead of painstakingly extreme ray tracing mode](https://www.pcgamer.com/cyberpunk-2077-patch-delivers-dlss-3-ahead-of-painstakingly-extreme-ray-tracing-mode)
- - [Fortnite’s next Dragon Ball Super collab introduces Gohan and Piccolo](https://www.polygon.com/fortnite/23579538/fortnite-x-dragon-ball-super-2023-event-trailer-gameplay-details)
- - [Every Upcoming Hollywood Anime Live-Action Adaptation That&#39;s Got Fans Stressed](https://kotaku.com/netflix-one-piece-yu-yu-hakusho-anime-live-action-netfl-1850050620)<!-- GAME:END -->
+ - [7 New Destiny 2 Exotics Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-exotics-strand-stasis-winterbite-1850053531)
+ - [The 20-inch Pokémon Squishmallows are absolutely massive](https://www.polygon.com/23579586/pokemon-squishmallow-pikachu-gengar-20-inch-jazwares)
+ - [Where to find the Tissue Sample in the Dead Space remake](https://www.polygon.com/guides/23579507/dead-space-remake-tissue-sample-premeditated-malpractice-side-mission-walkthrough-dna-scanner-hunter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
