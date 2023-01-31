@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - ⏩ [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
- - 👉 [Love this serie](http://9gag.com/gag/anzgjxb)<!-- MEMES:END -->
+ - 💣 [Throwing some piranhas we fished earlier in amazonas river, into a side river of the Amazonas. Pirarucus ate them quite fast... The sound it makes was actually a lot louder in reality than it seems in the video. Was pretty shocking..](http://9gag.com/gag/a04ZYZZ)
+ - ⏩ [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - 👉 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)<!-- MEMES:END -->
 
 ---
 
