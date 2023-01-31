@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Case You Missed It: The Spawnies, Presented by Spawn On Me](https://news.xbox.com/en-us/2023/01/30/in-case-you-missed-it-the-spawnies-presented-by-spawn-on-me/)
  - [Huge Dong Makes Appearance During Streaming Awards Show](https://kotaku.com/thegrefg-premios-esland-streamer-twitch-dong-wang-dick-1850051103)
- - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)
- - [This hilarious game is made of 56 frantic minigames that you only need a single button to play](https://www.pcgamer.com/this-hilarious-game-is-made-of-56-frantic-minigames-that-you-only-need-a-single-button-to-play)<!-- GAME:END -->
+ - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
