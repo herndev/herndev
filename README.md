@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)
- - ⏩ [The Best Jacket In 2023!](http://9gag.com/gag/a2K1mRw)
- - 👉 [Right in the feels .](http://9gag.com/gag/aeQgGxp)<!-- MEMES:END -->
+ - 💣 [Suicide by cop........ Nah. Suicide by Hunter](http://9gag.com/gag/a3Z1dp8)
+ - ⏩ [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - 👉 [Romantic vibes](http://9gag.com/gag/aqeGrAY)<!-- MEMES:END -->
 
 ---
 
