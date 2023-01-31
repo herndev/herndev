@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal says it will lay off around 2,000 employees, about 7% of its workforce, &quot;over the coming weeks&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230131/p28#a230131p28)
- - [Google Fi Customer Data Accessed After &#39;Suspicious Activity&#39;     - CNET](https://www.cnet.com/tech/services-and-software/google-fi-customer-data-accessed-after-suspicious-activity/#ftag=CAD590a51e)
- - [E3 May Not Include Sony, Microsoft or Nintendo This Year     - CNET](https://www.cnet.com/tech/gaming/e3-may-not-include-sony-microsoft-or-nintendo-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple won&#39;t guarantee advertising viewer counts for MLS Season Pass](https://appleinsider.com/articles/23/01/31/apple-wont-guarantee-advertising-viewer-counts-for-mls-season-pass?utm_medium=rss)
+ - [The real aim of the Big Tech layoffs is to bring workers to heel and cultivate an insecure workforce, as an actual recession has yet to hit the tech sector &lpar;Brian Merchant/Los Angeles Times&rpar;](http://www.techmeme.com/230131/p30#a230131p30)
+ - [Apple M1 vs M2 chips: How do they compare?](https://www.androidauthority.com/apple-m1-vs-m2-3274309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
