@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/aPgZyGB)
- - ⏩ [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - 👉 [Romantic vibes](http://9gag.com/gag/aqeGrAY)<!-- MEMES:END -->
+ - 💣 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)
+ - ⏩ [The Best Jacket In 2023!](http://9gag.com/gag/a2K1mRw)
+ - 👉 [Right in the feels .](http://9gag.com/gag/aeQgGxp)<!-- MEMES:END -->
 
 ---
 
