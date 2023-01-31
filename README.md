@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s expecting a severe drop in PSVR 2 sales from a projected 2 million](https://www.pcgamer.com/sonys-expecting-a-severe-drop-in-psvr-2-sales-from-a-projected-2-million)
- - [American Truck Simulator is going where the buffalo roam in its upcoming expansion](https://www.pcgamer.com/american-truck-simulator-is-going-where-the-buffalo-roam-in-its-upcoming-expansion)
- - [GoldenEye 007 ‘Bunker 1’ mission walkthrough](https://www.polygon.com/guides/23577923/goldeneye-007-bunker-1-walkthrough-goldeneye-key-surveillance-datathief-boris)<!-- GAME:END -->
+ - [Xbox, Nintendo, and Sony reportedly skipping E3 2023](https://www.polygon.com/23579327/xbox-nintendo-sony-skipping-e3-2023)
+ - [Japan officially designates today Final Fantasy 7 Day](https://www.pcgamer.com/japan-officially-designates-today-final-fantasy-7-day)
+ - [Sony&#39;s expecting a severe drop in PSVR 2 sales from a projected 2 million](https://www.pcgamer.com/sonys-expecting-a-severe-drop-in-psvr-2-sales-from-a-projected-2-million)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
