@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard exec says The Last of Us&#39; success on HBO proves the Microsoft buyout should go through](https://www.pcgamer.com/activision-blizzard-exec-says-the-last-of-us-success-on-hbo-proves-the-microsoft-buyout-should-go-through)
- - [The Crew 3 is real and an announcement is coming tomorrow](https://www.pcgamer.com/the-crew-3-is-real-and-an-announcement-is-coming-tomorrow)
- - [Meet The Man Who Got Kadabra Banned From Pokémon For 20 Years](https://kotaku.com/pokemon-tcg-uri-geller-kadabra-card-ban-nintendo-1850050358)<!-- GAME:END -->
+ - [Starting Tomorrow, Marvel Snap Will Let You Battle Your Friends](https://kotaku.com/marvel-snap-battle-vs-mode-friends-update-series-drop-1850051047)
+ - [Activision Blizzard Exec Has The Most Unhinged Last Of Us TV Show Take Yet](https://kotaku.com/last-us-tv-xbox-activision-blizzard-acquisition-sony-1850051036)
+ - [Horror maestro John Carpenter weighs in on &#39;refurbished&#39; Dead Space: &#39;Great game!&#39;](https://www.pcgamer.com/horror-maestro-john-carpenter-weighs-in-on-refurbished-dead-space-great-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
