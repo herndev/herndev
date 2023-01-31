@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
- - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 👉 [This guy really is a BEAST! He allegedly spent roughly 10 million dollars to make this video, but to change the life of a 1000 people from around the world is truly amazing. Bravo!](http://9gag.com/gag/a2K15V1)<!-- MEMES:END -->
+ - 💣 [Criminal minds](http://9gag.com/gag/a9q1MzZ)
+ - ⏩ [British forces on Normandy, 1944. Note the number of parachutes that won&#39;t open or collide with each other!](http://9gag.com/gag/aEq8GQp)
+ - 👉 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
 
 ---
 
