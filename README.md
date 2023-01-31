@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/aPgZyGB)
- - ⏩ [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - 👉 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
+ - 💣 [Why am I not surprised..](http://9gag.com/gag/armn4BK)
+ - ⏩ [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
+ - 👉 [Modern architecture is trash](http://9gag.com/gag/aL1v2oV)<!-- MEMES:END -->
 
 ---
 
