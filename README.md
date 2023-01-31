@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA is shutting down Apex Legends Mobile and not giving refunds](https://www.theverge.com/2023/1/31/23580285/ea-apex-legends-mobile-shutting-down-refunds-battlefield)
- - [EA Q3: revenue up 5% YoY to $1.88B, vs. $2.5B est., net income up 209% YoY to $204M, net bookings down 9% YoY to $2.34B, and lowers FY guidance; stock drops 5%+ &lpar;TJ Denzer/Shacknews&rpar;](http://www.techmeme.com/230131/p34#a230131p34)
- - [Anker admits its Eufy security cameras are not natively E2E encrypted and produced unencrypted video streams for Eufy&#39;s web portal, but says the flaws are fixed &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230131/p33#a230131p33)<!-- TECH:END -->
+ - [The best iPhone deals: Save as much as $1,000 on Apple flagships](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [Is Tubi Safe? How does it work?](https://www.androidauthority.com/is-tubi-safe-how-does-tubi-work-3274327/)
+ - [&#39;The Banshees of Inisherin&#39; Streaming: Where to Watch the Oscar Nominee     - CNET](https://www.cnet.com/culture/entertainment/the-banshees-of-inisherin-streaming-where-to-watch-the-oscar-nominee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
