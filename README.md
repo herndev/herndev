@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 New Destiny 2 Exotics Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-exotics-strand-stasis-winterbite-1850053531)
- - [The 20-inch Pokémon Squishmallows are absolutely massive](https://www.polygon.com/23579586/pokemon-squishmallow-pikachu-gengar-20-inch-jazwares)
- - [Where to find the Tissue Sample in the Dead Space remake](https://www.polygon.com/guides/23579507/dead-space-remake-tissue-sample-premeditated-malpractice-side-mission-walkthrough-dna-scanner-hunter)<!-- GAME:END -->
+ - [Clean Croft Manor: PowerWash Simulator Gets Free Tomb Raider DLC](https://news.xbox.com/en-us/2023/01/31/clean-croft-manor-powerwash-simulator-gets-free-tomb-raider-dlc/)
+ - [What we know about Superman: Legacy](https://www.polygon.com/23579720/superman-legacy-cast-release-date-director-james-gunn)
+ - [Dragon Ball Super’s Iconic Father-And-Son Team Is Coming To Fortnite](https://kotaku.com/fortnite-dragon-ball-super-gohan-piccolo-skins-anime-1850053732)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
