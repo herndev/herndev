@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
- - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
- - 👉 [Strong independent women move Appliances with the best techniques,](http://9gag.com/gag/amAgY6j)<!-- MEMES:END -->
+ - 💣 [Romantic vibes](http://9gag.com/gag/aqeGrAY)
+ - ⏩ [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)
+ - 👉 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)<!-- MEMES:END -->
 
 ---
 
