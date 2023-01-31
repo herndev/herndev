@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US has dealt the final blow to Huawei’s phone business](https://www.androidauthority.com/us-kill-huawei-phone-business-new-sanctions-3274003/)
- - [Manu Jain, who led Xiaomi&#39;s India business for seven years, leaves, joining a long list of key departures; sources say he pitched investors on EV startup ideas &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230131/p7#a230131p7)
- - [Here’s a last unofficial look at the Galaxy S23 series before the event, as a treat](https://www.theverge.com/2023/1/31/23579269/galaxy-s23-plus-ultra-real-world-photos-video-leaks)<!-- TECH:END -->
+ - [The Spaceport at the Edge of the World](https://www.wired.com/story/scotland-village-spaceport-peatland/)
+ - [Instagram launches Notes, its AIM-like text status feature, in Europe and Japan, delayed to comply with local laws, expanding on Asia, North America, and LatAm &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230131/p10#a230131p10)
+ - [A draft EU proposal details plans to ask Netflix, Alphabet, and other &quot;large traffic generators&quot; to help pay for next-generation internet infrastructure &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230131/p9#a230131p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
