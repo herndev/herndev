@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Upcoming Hollywood Anime Live-Action Adaptation That&#39;s Got Fans Stressed](https://kotaku.com/netflix-one-piece-yu-yu-hakusho-anime-live-action-netfl-1850050620)
- - [Dead Space now works great on Steam Deck after a post-launch patch](https://www.polygon.com/23578703/dead-space-remake-steam-deck-verified-gameplay)
- - [How to open Hitman Freelancer safes](https://www.pcgamer.com/hitman-freelancer-safe-clues)<!-- GAME:END -->
+ - [Cyberpunk 2077 patch delivers DLSS 3 ahead of painstakingly extreme ray tracing mode](https://www.pcgamer.com/cyberpunk-2077-patch-delivers-dlss-3-ahead-of-painstakingly-extreme-ray-tracing-mode)
+ - [Fortnite’s next Dragon Ball Super collab introduces Gohan and Piccolo](https://www.polygon.com/fortnite/23579538/fortnite-x-dragon-ball-super-2023-event-trailer-gameplay-details)
+ - [Every Upcoming Hollywood Anime Live-Action Adaptation That&#39;s Got Fans Stressed](https://kotaku.com/netflix-one-piece-yu-yu-hakusho-anime-live-action-netfl-1850050620)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
