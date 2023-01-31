@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You guys tryna go on an adventure?](http://9gag.com/gag/a2K1qbe)
- - ⏩ [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
- - 👉 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)<!-- MEMES:END -->
+ - ⏩ [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)
+ - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 ---
 
