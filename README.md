@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ancient library of Tibet. Only 5% has been translated](http://9gag.com/gag/aqeGbmM)
- - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 👉 [Milehigh he\u00e4rtbreak](http://9gag.com/gag/aOxQy4D)<!-- MEMES:END -->
+ - 💣 [When she&#39;s still angry](http://9gag.com/gag/aL1vPX6)
+ - ⏩ [At the annual awards for the best Hispanic streamer they put the chat for a second and this is what was seen:](http://9gag.com/gag/aRErPq5)
+ - 👉 [Great first date](http://9gag.com/gag/aQEX4Nr)<!-- MEMES:END -->
 
 ---
 
