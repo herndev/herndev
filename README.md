@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love this serie](http://9gag.com/gag/anzgjxb)
- - ⏩ [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
+ - 💣 [Young Greek Australian Tennis star Tsitsipas makes pitch to favorite actress.](http://9gag.com/gag/aME4rMX)
+ - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - 👉 [What orthognathic surgery can do](http://9gag.com/gag/aWGgWP3)<!-- MEMES:END -->
 
 ---
 
