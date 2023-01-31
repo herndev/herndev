@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s terrible quarter delivered lowest profit in 8 years](https://appleinsider.com/articles/23/01/31/samsungs-terrible-quarter-delivered-lowest-profit-in-8-years?utm_medium=rss)
- - [&#39;Severance&#39; nominated for Producers&#39; Guild award](https://appleinsider.com/articles/23/01/31/severance-nominated-for-producers-guild-award?utm_medium=rss)
- - [How to use classic Mac, Lisa, NeXT, Apple II software on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-classic-mac-lisa-next-apple-ii-software-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Raycon Everyday Earbuds &lpar;E25&rpar; Review: Not Just for YouTubers](https://www.wired.com/review/raycon-everyday-earbuds/)
+ - [What to expect from Apple&#39;s 2022 holiday quarter earnings report](https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report?utm_medium=rss)
+ - [EU Commission changes, triggered by human rights group ICCL, mean regulators in Ireland and elsewhere will report six times a year on GDPR, violations, and more &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230131/p14#a230131p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
