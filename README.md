@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Case You Missed It: The Spawnies, Presented by Spawn On Me](https://news.xbox.com/en-us/2023/01/30/in-case-you-missed-it-the-spawnies-presented-by-spawn-on-me/)
- - [Huge Dong Makes Appearance During Streaming Awards Show](https://kotaku.com/thegrefg-premios-esland-streamer-twitch-dong-wang-dick-1850051103)
- - [Dead Space fans think &#39;indecipherable&#39; New Game+ log points to more remakes in the future](https://www.pcgamer.com/dead-space-fans-think-indecipherable-new-game-log-points-to-more-remakes-in-the-future)<!-- GAME:END -->
+ - [This LOL Verifier checks to make sure you actually laughed](https://www.pcgamer.com/this-lol-verifier-checks-to-make-sure-you-actually-laughed)
+ - [New 16 Core Intel Arc desktop GPU may be on the cards](https://www.pcgamer.com/new-16-core-intel-arc-desktop-gpu-may-be-on-the-cards)
+ - [In Case You Missed It: The Spawnies, Presented by Spawn On Me](https://news.xbox.com/en-us/2023/01/30/in-case-you-missed-it-the-spawnies-presented-by-spawn-on-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
