@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - ⏩ [Great first date](http://9gag.com/gag/aQEX4Nr)
- - 👉 [Lucky for the gentleman that his domestic violence `incident` was caught on camera.](http://9gag.com/gag/agogGXx)<!-- MEMES:END -->
+ - 💣 [Love this serie](http://9gag.com/gag/anzgjxb)
+ - ⏩ [Dead man walking.](http://9gag.com/gag/a6q1VK9)
+ - 👉 [How many hours flying experience do you have? Pilot: `Yes.`](http://9gag.com/gag/a2K14ow)<!-- MEMES:END -->
 
 ---
 
