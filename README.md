@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap&#39;s Most Hated Card Gets Another Huge Change](https://kotaku.com/marvel-snap-leader-nerf-update-wolverine-battle-mode-1850054974)
- - [The Sims 4’s new patch adds hearing aids, binders, and more inclusive options](https://www.polygon.com/23579998/the-sims-4-patch-medical-wearables-shapewear-binders-trans-affirming)
- - [Sony, Microsoft and Nintendo give E3 the brush off](https://www.pcgamer.com/sony-microsoft-and-nintendo-give-e3-the-brush-off)<!-- GAME:END -->
+ - [Terraria devs want 2023 to be &#39;the year of Terraria crossplay&#39;](https://www.pcgamer.com/terraria-devs-want-2023-to-be-the-year-of-terraria-crossplay)
+ - [Your questions about Marvel Snap’s battle mode, answered](https://www.polygon.com/guides/23568522/marvel-snap-friendly-battle-update)
+ - [Everything Square Enix Announced For Final Fantasy VII’s Anniversary](https://kotaku.com/final-fantasy-7-ff7-sephiroth-anniversary-square-enix-1850055398)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
