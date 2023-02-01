@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space Remake Exploit Earns You Infinite Money, Ammo](https://kotaku.com/dead-space-infinite-money-exploit-pulse-rifle-ammo-1850060247)
- - [Westworld and other axed HBO Max shows will return on free streaming services](https://www.polygon.com/23513277/westworld-hbo-where-to-stream-max-shows-removed)
- - [GTA Online patch aims to fix exploit that let hackers steal money and corrupt accounts](https://www.pcgamer.com/gta-online-patch-aims-to-fix-exploit-that-let-hackers-steal-money-and-corrupt-accounts)<!-- GAME:END -->
+ - [How Sea of Thieves pirates teamed up with the Parkinson’s Foundation](https://www.polygon.com/23580232/sea-of-thieves-parkinsons-foundation-charity-streaming)
+ - [Hitman’s new mode transforms it into one of the best roguelikes ever](https://www.polygon.com/reviews/23581384/hitman-3-freelancer-mode-roguelike-world-of-assassination)
+ - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
