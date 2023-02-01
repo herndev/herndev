@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Epic Kills Battle Royale Game Less Than Six Months After Release](https://kotaku.com/rumbleverse-epic-battle-royale-shut-down-shutdown-kill-1850056026)
  - [Dead Space patch fixes annoying fuzzy textures one day after Digital Foundry callout](https://www.pcgamer.com/dead-space-patch-fixes-annoying-fuzzy-textures-one-day-after-digital-foundry-callout)
- - [The Sims 4 Update Adds Trans-Inclusive Top Surgery Body Scar Options](https://kotaku.com/sims-4-update-console-pc-trans-inclusive-top-surgery-1850056313)
- - [Rumbleverse, the wrestling battle royale, is shutting down only six months after launch](https://www.pcgamer.com/rumbleverse-the-wrestling-battle-royale-is-shutting-down-only-six-months-after-launch)<!-- GAME:END -->
+ - [The Sims 4 Update Adds Trans-Inclusive Top Surgery Body Scar Options](https://kotaku.com/sims-4-update-console-pc-trans-inclusive-top-surgery-1850056313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
