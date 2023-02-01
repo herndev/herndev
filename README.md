@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 players love the game&#39;s new trans and disability-inclusive cosmetics update](https://www.pcgamer.com/sims-4-players-love-the-games-new-trans-and-disability-inclusive-cosmetics-update)
- - [AMD clings onto profitability as Intel burns cash](https://www.pcgamer.com/amd-clings-onto-profitability-as-intel-burns-cash)
- - [Pokémon Go ‘Shadowy Skirmishes’ Special Research guide](https://www.polygon.com/pokemon-go-guide/23580945/pokemon-go-shadowy-skirmishes-rewards-research)<!-- GAME:END -->
+ - [EA&#39;s final FIFA game is on-track to be the best-selling in series history](https://www.pcgamer.com/eas-final-fifa-game-is-the-best-selling-in-series-history-so-far)
+ - [Bean obsessed crypto-weeb community harvested for $2.74m in cryptocurrency &amp; NFTs](https://www.pcgamer.com/bean-obsessed-crypto-weebs-robbed-of-dollar274m-of-cryptocurrency-and-nfts)
+ - [Sims 4 players love the game&#39;s new trans and disability-inclusive cosmetics update](https://www.pcgamer.com/sims-4-players-love-the-games-new-trans-and-disability-inclusive-cosmetics-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
