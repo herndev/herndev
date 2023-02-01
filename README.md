@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone deals: Save as much as $1,000 on Apple flagships](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Is Tubi Safe? How does it work?](https://www.androidauthority.com/is-tubi-safe-how-does-tubi-work-3274327/)
- - [&#39;The Banshees of Inisherin&#39; Streaming: Where to Watch the Oscar Nominee     - CNET](https://www.cnet.com/culture/entertainment/the-banshees-of-inisherin-streaming-where-to-watch-the-oscar-nominee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Join CNET&#39;s Samsung Unpacked Watch Party as We Await the Galaxy S23     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-watch-party-as-we-await-the-galaxy-s23/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23: The Features We Need to See     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-the-features-we-need-to-see/#ftag=CAD590a51e)
+ - [AMD thinks the PC sales slump will end after one more rough quarter](https://www.theverge.com/2023/1/31/23580241/amd-pc-demand-q4-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
