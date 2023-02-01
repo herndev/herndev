@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FS-ISAC report: DDoS attacks targeting banks and other financial firms had increased 22% YoY by November 2022, particularly in Europe, where they rose 73% YoY &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/230201/p3#a230201p3)
- - [Apex Legends Mobile is shutting down after less than a year](https://www.androidauthority.com/apex-legends-mobile-shutting-down-3273938/)
- - [Sentra, which classifies cloud data according to sensitivity and tracks cloud data security, raised a $30M Series A led by Standard Investments &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p2#a230201p2)<!-- TECH:END -->
+ - [The UK lays out plans to regulate crypto, including measures to strengthen rules for lending, disclosures, financial intermediaries, and crypto custodians &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230201/p5#a230201p5)
+ - [Filing: Tesla lost ~$140M on its bitcoin holdings in 2022, with a $204M impairment loss, nearly doubling since 2021, offset by $64M in profits &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/230201/p4#a230201p4)
+ - [Peacock no longer offers free tier to new users: A sign of things to come?](https://www.androidauthority.com/peacock-no-free-tier-3274537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
