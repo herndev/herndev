@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🥀 The end for this smartphone giant?](https://www.androidauthority.com/daily-authority-february-1-2023-3274456/)
- - [The UK lays out plans to regulate crypto, including measures to strengthen rules for lending, disclosures, financial intermediaries, and crypto custodians &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230201/p5#a230201p5)
- - [Filing: Tesla lost ~$140M on its bitcoin holdings in 2022, with a $204M impairment loss, nearly doubling since 2021, offset by $64M in profits &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/230201/p4#a230201p4)<!-- TECH:END -->
+ - [There’s a major Pixel Buds A-Series pairing bug, but a fix is on the way](https://www.androidauthority.com/google-pixel-buds-a-series-pairing-bug-fix-3274607/)
+ - [Egyptian microfinance lending and payments service MNT-Halan raised $260M in equity and $140M in debt via bond issuances at a ~$1B post-money valuation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230201/p8#a230201p8)
+ - [Western Digital raised $900M from Apollo Global and Elliott, sources say as a precursor to a merger with Japan&#39;s Kioxia, as the memory chip industry struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/230201/p7#a230201p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
