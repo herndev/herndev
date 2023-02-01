@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Sea of Thieves pirates teamed up with the Parkinson’s Foundation](https://www.polygon.com/23580232/sea-of-thieves-parkinsons-foundation-charity-streaming)
- - [Hitman’s new mode transforms it into one of the best roguelikes ever](https://www.polygon.com/reviews/23581384/hitman-3-freelancer-mode-roguelike-world-of-assassination)
- - [Everyone’s got a Triforce tattoo](https://www.polygon.com/zelda/23580122/legend-of-zelda-triforce-tattoo)<!-- GAME:END -->
+ - [Report: EA Cancels Joint Apex Legends And Titanfall Game](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-cancelled-layoffs-1850061241)
+ - [AI-Generated Seinfeld-Like Twitch ‘TV Show’ Is Peak Absurdity](https://kotaku.com/twitch-nothing-forever-ai-generated-seinfeld-dalle-show-1850061075)
+ - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood-tamil-telugu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
