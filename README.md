@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join CNET&#39;s Samsung Unpacked Watch Party as We Await the Galaxy S23     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-watch-party-as-we-await-the-galaxy-s23/#ftag=CAD590a51e)
- - [Samsung Galaxy S23: The Features We Need to See     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-the-features-we-need-to-see/#ftag=CAD590a51e)
- - [AMD thinks the PC sales slump will end after one more rough quarter](https://www.theverge.com/2023/1/31/23580241/amd-pc-demand-q4-2023)<!-- TECH:END -->
+ - [Passenger uses AirTag to track wallet after airline couldn&#39;t find it](https://appleinsider.com/articles/23/02/01/passenger-uses-airtag-to-track-wallet-after-airline-couldnt-find-it?utm_medium=rss)
+ - [As memory prices plunge, SK hynix reports its biggest quarterly operating loss on record in Q4, ~$1.4B vs. estimates of ~$900M, on a 38% YoY drop in revenue &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230131/p37#a230131p37)
+ - [Join CNET&#39;s Samsung Unpacked Watch Party as We Await the Galaxy S23     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-watch-party-as-we-await-the-galaxy-s23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
