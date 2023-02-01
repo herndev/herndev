@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate All Things Anime on Xbox and Xbox Game Pass this February](https://news.xbox.com/en-us/2023/02/01/xbox-anime-month-2023-deals-sale/)
- - [Dungeons &amp; Dragons has walked back its huge OGL mistake, but the damage is already done](https://www.pcgamer.com/dungeons-and-dragons-has-walked-back-its-huge-ogl-mistake-but-the-damage-is-already-done)
- - [Doughnut-shaped laser beam used to create fibre optics from thin air](https://www.pcgamer.com/doughnut-shaped-laser-beam-used-to-create-fibre-optics-from-thin-air)<!-- GAME:END -->
+ - [Amazon has some good microSD card deals for Switch and Steam Deck today](https://www.polygon.com/2023/2/1/23581172/samsung-sandisk-microsd-card-steam-deck-nintendo-switch-deal-1tb-512gb)
+ - [PlayStation Plus gives you Mafia: Definitive Edition and a Destiny 2 expansion in February](https://www.polygon.com/23577654/playstation-plus-february-2023-games-essentials-ps4-ps5)
+ - [The Last Of Us Fans Are Creating Amazing Bill And Frank Fan Art](https://kotaku.com/last-of-us-bill-frank-fanart-gay-art-hbo-twitter-tumblr-1850059104)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
