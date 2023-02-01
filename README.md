@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art Of Ghost Of Tsushima](https://kotaku.com/ghost-of-tsushima-concept-art-illustrations-ps4-ps5-1850051610)
+ - [Halo switching to Unreal Engine as studio weathers major layoffs, report says](https://www.pcgamer.com/halo-switching-to-unreal-engine-as-studio-weathers-major-layoffs-report-says)
  - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/31/critics-choice-promotion-comes-to-playstation-store-3/)
- - [Final Fantasy 14 team sets a raid world first, then gets busted for cheating](https://www.pcgamer.com/final-fantasy-14-team-sets-a-raid-world-first-then-gets-busted-for-cheating)<!-- GAME:END -->
+ - [The Art Of Ghost Of Tsushima](https://kotaku.com/ghost-of-tsushima-concept-art-illustrations-ps4-ps5-1850051610)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
