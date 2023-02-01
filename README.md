@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [It&#39;s Time For This Great, Forgotten Dead Space Game To Return](https://kotaku.com/dead-space-remake-phone-mobile-android-ios-rerelease-1850061662)
- - [NASCAR bans real-life wall-riding: &#39;We will penalize for that act going forward&#39;](https://www.pcgamer.com/nascar-bans-real-life-wall-riding-we-will-penalize-for-that-act-going-forward)<!-- GAME:END -->
+ - [Resident Evil 4 Remake Removes Ashley’s Health Bar, Adds Side-Quests](https://kotaku.com/resident-evil-4-remake-re4-ashley-qte-knife-durability-1850062148)
+ - [Netflix’s AI Anime Gets Roasted For Crediting Artist As ‘Human’](https://kotaku.com/netflix-ai-anime-wit-studio-dog-and-boy-spy-family-1850062043)
+ - [MrBeast&#39;s &#39;charity porn&#39; shows the morally complicated reality of YouTube philanthropy](https://www.pcgamer.com/mrbeasts-charity-porn-shows-the-morally-complicated-reality-of-youtube-philanthropy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
