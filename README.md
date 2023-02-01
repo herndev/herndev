@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Samsung Galaxy S23 Best Buy deals take some beating](https://www.androidauthority.com/samsung-galaxy-s23-best-buy-deals-3273078/)
- - [Samsung reveals its plans to start working on extended reality devices](https://www.androidauthority.com/samsung-extended-reality-3274896/)
- - [The best Samsung Galaxy S23 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-samsung-galaxy-s23-alternatives-3272078/)<!-- TECH:END -->
+ - [Decentralized social network app Damus debuts on the App Store with E2EE for DMs; the app uses the Nostr protocol, which Jack Dorsey backed in 2022 with ~14 BTC &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230201/p37#a230201p37)
+ - [Samsung partners with Google &amp; Qualcomm for mixed reality](https://appleinsider.com/articles/23/02/01/samsung-partners-with-google-qualcomm-for-mixed-reality?utm_medium=rss)
+ - [Samsung says the Galaxy S23, S23 Plus, and S23 Ultra will ask users to install Adobe Lightroom when handling DNGs and make the app the default raw photo editor &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230201/p36#a230201p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
