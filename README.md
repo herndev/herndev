@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - ⏩ [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
- - 👉 [The ancient library of Tibet. Only 5% has been translated](http://9gag.com/gag/aqeGbmM)<!-- MEMES:END -->
+ - 💣 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - ⏩ [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
 
 ---
 
