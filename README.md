@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 1: $500 off MacBook Pro 13&quot;, $400 off LG UltraWide Monitor, 47% off Apple Watch Series 7 &amp; more](https://appleinsider.com/articles/23/02/01/daily-deals-feb-1-500-off-macbook-pro-13-400-off-lg-ultrawide-monitor-47-off-apple-watch-series-7-more?utm_medium=rss)
- - [Sources: a US judge rejects the FTC&#39;s bid for a preliminary injunction to block Meta&#39;s Within acquisition, giving the FTC one week to decide whether to appeal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230201/p22#a230201p22)
- - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)
+ - [The EV price war hasn’t really started yet](https://www.theverge.com/2023/2/1/23581210/tesla-ford-ev-price-cuts-gm-bmw-vw-hyundai)
+ - [Meta reportedly wins fight to buy VR startup Within](https://www.theverge.com/2023/2/1/23575041/meta-within-vr-acquisition-ftc-antitrust-lawsuit-injunction-denied)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
