@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s final FIFA game is on-track to be the best-selling in series history](https://www.pcgamer.com/eas-final-fifa-game-is-the-best-selling-in-series-history-so-far)
- - [Bean obsessed crypto-weeb community harvested for $2.74m in cryptocurrency &amp; NFTs](https://www.pcgamer.com/bean-obsessed-crypto-weebs-robbed-of-dollar274m-of-cryptocurrency-and-nfts)
- - [Sims 4 players love the game&#39;s new trans and disability-inclusive cosmetics update](https://www.pcgamer.com/sims-4-players-love-the-games-new-trans-and-disability-inclusive-cosmetics-update)<!-- GAME:END -->
+ - [Resident Evil 4 Remake is ditching QTEs and I couldn&#39;t be more upset](https://www.pcgamer.com/resident-evil-4-remake-is-ditching-qtes-and-i-couldnt-be-more-upset)
+ - [Watch AI generate weird Seinfeld episodes about nothing, forever](https://www.pcgamer.com/watch-ai-generate-weird-seinfeld-episodes-about-nothing-forever)
+ - [Every movie and show coming to Netflix in February](https://www.polygon.com/entertainment/2023/2/1/23578014/new-netflix-movies-tv-shows-watch-february-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
