@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - ⏩ [Best sound eva](http://9gag.com/gag/axoB1WY)
+ - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - ⏩ [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
  - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 ---
