@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing some piranhas we fished earlier in amazonas river, into a side river of the Amazonas. Pirarucus ate them quite fast... The sound it makes was actually a lot louder in reality than it seems in the video. Was pretty shocking..](http://9gag.com/gag/a04ZYZZ)
- - ⏩ [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - 👉 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)<!-- MEMES:END -->
+ - 💣 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
+ - ⏩ [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)
+ - 👉 [Wait ...what?](http://9gag.com/gag/aA0GdNo)<!-- MEMES:END -->
 
 ---
 
