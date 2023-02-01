@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wanna get VR just for this game, just wow.](http://9gag.com/gag/a04ZQ8n)
- - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - 👉 [Hey boyys!! Where u at??!!](http://9gag.com/gag/agogL9W)<!-- MEMES:END -->
+ - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - ⏩ [Translation is not needed](http://9gag.com/gag/a9q1Rwm)
+ - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 ---
 
