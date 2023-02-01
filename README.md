@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Passenger uses AirTag to track wallet after airline couldn&#39;t find it](https://appleinsider.com/articles/23/02/01/passenger-uses-airtag-to-track-wallet-after-airline-couldnt-find-it?utm_medium=rss)
- - [As memory prices plunge, SK hynix reports its biggest quarterly operating loss on record in Q4, ~$1.4B vs. estimates of ~$900M, on a 38% YoY drop in revenue &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230131/p37#a230131p37)
- - [Join CNET&#39;s Samsung Unpacked Watch Party as We Await the Galaxy S23     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-watch-party-as-we-await-the-galaxy-s23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google is asking employees to test potential ChatGPT competing products, including a chatbot called Apprentice Bard built on its LaMDA language model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230131/p38#a230131p38)
+ - [Best Online Glasses and Contacts Deals: Savings You&#39;ll Have to See to Believe     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
+ - [What is HelloFresh and how does it work?](https://www.androidauthority.com/what-is-hellofresh-3274399/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
