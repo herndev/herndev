@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - ⏩ [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
- - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
+ - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - ⏩ [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)
+ - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 ---
 
