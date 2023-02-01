@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - ⏩ [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
- - 👉 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
+ - 💣 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)
+ - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 👉 [For whom isn\u2018t this too gay?](http://9gag.com/gag/ajVg5eq)<!-- MEMES:END -->
 
 ---
 
