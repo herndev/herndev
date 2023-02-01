@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Link To The Past Has Been Reverse-Engineered, Fully Ported To The PC](https://kotaku.com/zelda-link-past-pc-port-emulator-reverse-engineered-1850057475)
  - [Halo switching to Unreal Engine as studio weathers major layoffs, report says](https://www.pcgamer.com/halo-switching-to-unreal-engine-as-studio-weathers-major-layoffs-report-says)
- - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/31/critics-choice-promotion-comes-to-playstation-store-3/)
- - [The Art Of Ghost Of Tsushima](https://kotaku.com/ghost-of-tsushima-concept-art-illustrations-ps4-ps5-1850051610)<!-- GAME:END -->
+ - [Critics’ Choice promotion comes to PlayStation Store](https://blog.playstation.com/2023/01/31/critics-choice-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
