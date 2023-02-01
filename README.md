@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #592, February 1](https://www.pcgamer.com/wordle-hint-answer-today-592-february-1)
  - [Biohybrid robot made with mouse muscles successfully walks, might think and boink later](https://www.pcgamer.com/biohybrid-robot-made-with-mouse-muscles-successfully-walks-might-think-and-boink-later)
- - [Link To The Past Has Been Reverse-Engineered, Fully Ported To The PC](https://kotaku.com/zelda-link-past-pc-port-emulator-reverse-engineered-1850057475)
- - [Halo switching to Unreal Engine as studio weathers major layoffs, report says](https://www.pcgamer.com/halo-switching-to-unreal-engine-as-studio-weathers-major-layoffs-report-says)<!-- GAME:END -->
+ - [Link To The Past Has Been Reverse-Engineered, Fully Ported To The PC](https://kotaku.com/zelda-link-past-pc-port-emulator-reverse-engineered-1850057475)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
