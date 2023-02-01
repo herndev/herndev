@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a major Pixel Buds A-Series pairing bug, but a fix is on the way](https://www.androidauthority.com/google-pixel-buds-a-series-pairing-bug-fix-3274607/)
- - [Egyptian microfinance lending and payments service MNT-Halan raised $260M in equity and $140M in debt via bond issuances at a ~$1B post-money valuation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230201/p8#a230201p8)
- - [Western Digital raised $900M from Apollo Global and Elliott, sources say as a precursor to a merger with Japan&#39;s Kioxia, as the memory chip industry struggles &lpar;Bloomberg&rpar;](http://www.techmeme.com/230201/p7#a230201p7)<!-- TECH:END -->
+ - [A report by the White House&#39;s NTIA describes Apple and Google as &quot;gatekeepers&quot; of mobile app stores and suggests legislation to improve competition and choice &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/230201/p11#a230201p11)
+ - [Meta&#39;s Ready at Dawn studio plans to shutter Echo VR, one of the best-rated and most popular free Quest games, after layoffs, to focus on &quot;our next project&quot; &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/230201/p10#a230201p10)
+ - [Sources: the UK&#39;s semiconductor plan, which missed a publication deadline last fall, has suffered from government disarray, as the US and EU move forward &lpar;Politico&rpar;](http://www.techmeme.com/230201/p9#a230201p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
