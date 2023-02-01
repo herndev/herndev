@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)
- - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 👉 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
+ - 💣 [Respect.](http://9gag.com/gag/aeQgMPQ)
+ - ⏩ [Straight down....](http://9gag.com/gag/aPgZYNw)
+ - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 ---
 
