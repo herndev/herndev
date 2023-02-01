@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: EA Cancels Joint Apex Legends And Titanfall Game](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-cancelled-layoffs-1850061241)
- - [AI-Generated Seinfeld-Like Twitch ‘TV Show’ Is Peak Absurdity](https://kotaku.com/twitch-nothing-forever-ai-generated-seinfeld-dalle-show-1850061075)
- - [A closer look at the great Hindi movies on Netflix](https://www.polygon.com/what-to-watch/22979071/best-hindi-movies-netflix-indian-bollywood-tamil-telugu)<!-- GAME:END -->
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [It&#39;s Time For This Great, Forgotten Dead Space Game To Return](https://kotaku.com/dead-space-remake-phone-mobile-android-ios-rerelease-1850061662)
+ - [NASCAR bans real-life wall-riding: &#39;We will penalize for that act going forward&#39;](https://www.pcgamer.com/nascar-bans-real-life-wall-riding-we-will-penalize-for-that-act-going-forward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
