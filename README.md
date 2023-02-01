@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer today: Let&#39;s solve #592, February 1](https://www.pcgamer.com/wordle-hint-answer-today-592-february-1)
- - [Biohybrid robot made with mouse muscles successfully walks, might think and boink later](https://www.pcgamer.com/biohybrid-robot-made-with-mouse-muscles-successfully-walks-might-think-and-boink-later)
- - [Link To The Past Has Been Reverse-Engineered, Fully Ported To The PC](https://kotaku.com/zelda-link-past-pc-port-emulator-reverse-engineered-1850057475)<!-- GAME:END -->
+ - [Sims 4 players love the game&#39;s new trans and disability-inclusive cosmetics update](https://www.pcgamer.com/sims-4-players-love-the-games-new-trans-and-disability-inclusive-cosmetics-update)
+ - [AMD clings onto profitability as Intel burns cash](https://www.pcgamer.com/amd-clings-onto-profitability-as-intel-burns-cash)
+ - [Pokémon Go ‘Shadowy Skirmishes’ Special Research guide](https://www.polygon.com/pokemon-go-guide/23580945/pokemon-go-shadowy-skirmishes-rewards-research)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
