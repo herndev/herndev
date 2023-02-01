@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best sound eva](http://9gag.com/gag/axoB1WY)
- - ⏩ [Damn](http://9gag.com/gag/aOxQr76)
- - 👉 [Middle class wife ftw](http://9gag.com/gag/a7q1dMb)<!-- MEMES:END -->
+ - 💣 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - ⏩ [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - 👉 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)<!-- MEMES:END -->
 
 ---
 
