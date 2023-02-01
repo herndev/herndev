@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
- - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - ⏩ [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
+ - 👉 [MAD WORLD](http://9gag.com/gag/adPgKKd)<!-- MEMES:END -->
 
 ---
 
