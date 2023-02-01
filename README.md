@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
- - ⏩ [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - 👉 [Hidden messages](http://9gag.com/gag/a4o17Dy)<!-- MEMES:END -->
+ - 💣 [Monkey sees action - Neuron activation](http://9gag.com/gag/a4o1RAQ)
+ - ⏩ [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 ---
 
