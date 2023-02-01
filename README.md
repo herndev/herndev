@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait ...what?](http://9gag.com/gag/aA0GdNo)
- - ⏩ [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
- - 👉 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
+ - 💣 [Interracial banging](http://9gag.com/gag/aWGgjgZ)
+ - ⏩ [Neat](http://9gag.com/gag/aoKgPOX)
+ - 👉 [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)<!-- MEMES:END -->
 
 ---
 
