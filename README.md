@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
- - ⏩ [Well that\u2019s\u2026comprehensive](http://9gag.com/gag/aDYDmMd)
- - 👉 [Wait ...what?](http://9gag.com/gag/aA0GdNo)<!-- MEMES:END -->
+ - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - ⏩ [Best sound eva](http://9gag.com/gag/axoB1WY)
+ - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
 
 ---
 
