@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - ⏩ [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)
- - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 💣 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)
+ - ⏩ [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - 👉 [Respect.](http://9gag.com/gag/aeQgMPQ)<!-- MEMES:END -->
 
 ---
 
