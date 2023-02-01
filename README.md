@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Remake is ditching QTEs and I couldn&#39;t be more upset](https://www.pcgamer.com/resident-evil-4-remake-is-ditching-qtes-and-i-couldnt-be-more-upset)
- - [Watch AI generate weird Seinfeld episodes about nothing, forever](https://www.pcgamer.com/watch-ai-generate-weird-seinfeld-episodes-about-nothing-forever)
- - [Every movie and show coming to Netflix in February](https://www.polygon.com/entertainment/2023/2/1/23578014/new-netflix-movies-tv-shows-watch-february-2023)<!-- GAME:END -->
+ - [Pokémon Squishmallows officially out at Walmart stores](https://www.polygon.com/pokemon/23543043/pokemon-squishmallow-walmart-target-rerelease)
+ - [AMD &#39;undershipping&#39; chips to help prop prices up](https://www.pcgamer.com/amd-undershipping-chips-to-help-prop-prices-up)
+ - [Gamefound fell short of its goals in 2022, but still ate into Kickstarter’s lead in tabletop](https://www.polygon.com/tabletop-games/23579623/top-10-board-games-on-gamefound-2022-crowdfunding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
