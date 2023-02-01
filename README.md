@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)
- - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
- - 👉 [For whom isn\u2018t this too gay?](http://9gag.com/gag/ajVg5eq)<!-- MEMES:END -->
+ - 💣 [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
+ - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
+ - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 ---
 
