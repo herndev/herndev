@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tomb Raider’s new mobile roguelike launches on February 14th](https://www.theverge.com/2023/2/1/23581328/tomb-raider-reloaded-ios-android-netflix-roguelike-release-date)
- - [Sony’s PlayStation Plus greatest hits bundle for PS5 owners goes away in May](https://www.theverge.com/2023/2/1/23581459/ps5-playstation-plus-collection-sony-greatest-hits-stop)
- - [Wednesday’s top tech news: happy Samsung Unpacked day to all who observe](https://www.theverge.com/2023/2/1/23580957/february-1-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Samsung reveals Galaxy Book3 series at Unpacked](https://appleinsider.com/articles/23/02/01/samsung-reveals-galaxy-book3-series-at-unpacked?utm_medium=rss)
+ - [Samsung Galaxy S23 price and pre-orders: All the info you need before you buy](https://www.androidauthority.com/pre-order-samsung-galaxy-s23-3273658/)
+ - [OpenAI launches ChatGPT Plus, a pilot plan with access during peak times, faster response times, and priority access to new features, in the US for $20/month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p33#a230201p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
