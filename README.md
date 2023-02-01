@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
- - ⏩ [Translation is not needed](http://9gag.com/gag/a9q1Rwm)
- - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 💣 [Love this serie](http://9gag.com/gag/anzgjxb)
+ - ⏩ [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
+ - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
 
 ---
 
