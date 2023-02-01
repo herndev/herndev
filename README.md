@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pakistan &quot;degrades&quot; Wikipedia in the country for 48 hours for not removing &quot;sacrilegious contents&quot; and warns of a full block if it fails to remove such content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230201/p27#a230201p27)
- - [A US judge amends Sam Bankman-Fried&#39;s bail terms, prohibiting him from contacting any current or former FTX or Alameda employees and bans Signal and other apps &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230201/p26#a230201p26)
- - [Cars &amp; Bids, a car auction site founded by Doug DeMuro, an automotive YouTuber who has amassed 4.5M+ subscribers since 2013, raised $37M from The Chernin Group &lpar;Karl Brauer/Forbes&rpar;](http://www.techmeme.com/230201/p25#a230201p25)<!-- TECH:END -->
+ - [Tomb Raider’s new mobile roguelike launches on February 14th](https://www.theverge.com/2023/2/1/23581328/tomb-raider-reloaded-ios-android-netflix-roguelike-release-date)
+ - [Sony’s PlayStation Plus greatest hits bundle for PS5 owners goes away in May](https://www.theverge.com/2023/2/1/23581459/ps5-playstation-plus-collection-sony-greatest-hits-stop)
+ - [Wednesday’s top tech news: happy Samsung Unpacked day to all who observe](https://www.theverge.com/2023/2/1/23580957/february-1-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
