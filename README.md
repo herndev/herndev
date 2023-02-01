@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect.](http://9gag.com/gag/aeQgMPQ)
- - ⏩ [Straight down....](http://9gag.com/gag/aPgZYNw)
- - 👉 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)<!-- MEMES:END -->
+ - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - ⏩ [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
+ - 👉 [The ancient library of Tibet. Only 5% has been translated](http://9gag.com/gag/aqeGbmM)<!-- MEMES:END -->
 
 ---
 
