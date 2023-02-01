@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock has stopped offering its free tier to new subscribers; existing users will continue to have access &lpar;David Satin/The Streamable&rpar;](http://www.techmeme.com/230131/p39#a230131p39)
- - [Sources and docs: Google is asking employees to test potential ChatGPT competitors, including Apprentice Bard, a chatbot that uses its LaMDA conversational tech &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230131/p38#a230131p38)
- - [Best Online Glasses and Contacts Deals: Savings You&#39;ll Have to See to Believe     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel is cutting 2023 employee compensation to preserve cash for investment, ranging from 5% of the base pay for mid-level managers to 25% for CEO Pat Gelsinger &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230131/p40#a230131p40)
+ - [More People Should Watch This Incredibly Eerie Horror on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-incredibly-eerie-horror-on-prime-video/#ftag=CAD590a51e)
+ - [Peacock has stopped offering its free tier to new subscribers; existing users will continue to have access &lpar;David Satin/The Streamable&rpar;](http://www.techmeme.com/230131/p39#a230131p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
