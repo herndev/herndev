@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta takes a $4.2B restructuring charge in Q4, which includes costs for early office space termination, data center redesign, and severance for laid-off staff &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/230201/p41#a230201p41)
- - [Meta reports $727M Reality Labs revenue in Q4, vs. $715.1M est., a $4.28B operating loss, vs. $4.36B est., a $13.72B loss in 2022, and expects a wider 2023 loss &lpar;CNBC&rpar;](http://www.techmeme.com/230201/p40#a230201p40)
- - [Now at $699, has there ever been been a better time to buy a Galaxy S22?](https://www.androidauthority.com/samsung-galaxy-s22-discount-3274933/)<!-- TECH:END -->
+ - [More People Need to Watch This Highly Unnerving Netflix True Crime Movie     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-highly-unnerving-netflix-true-crime-movie/#ftag=CAD590a51e)
+ - [This Mars Rock Looks Like a Funky Chicken, and I Love It     - CNET](https://www.cnet.com/science/space/this-mars-rock-looks-like-a-funky-chicken-and-i-love-it/#ftag=CAD590a51e)
+ - [Facebook Parent Meta&#39;s Revenue Beats Expectations Amid Cost Cuts     - CNET](https://www.cnet.com/news/social-media/facebook-parent-metas-revenue-beats-expectations-amid-cost-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
