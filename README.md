@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report by the White House&#39;s NTIA describes Apple and Google as &quot;gatekeepers&quot; of mobile app stores and suggests legislation to improve competition and choice &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/230201/p11#a230201p11)
- - [Meta&#39;s Ready at Dawn studio plans to shutter Echo VR, one of the best-rated and most popular free Quest games, after layoffs, to focus on &quot;our next project&quot; &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/230201/p10#a230201p10)
- - [Sources: the UK&#39;s semiconductor plan, which missed a publication deadline last fall, has suffered from government disarray, as the US and EU move forward &lpar;Politico&rpar;](http://www.techmeme.com/230201/p9#a230201p9)<!-- TECH:END -->
+ - [An interview with Chris Miller, a Tufts professor and author of the book Chip War, on EUV lithography, ASML&#39;s role in global chip manufacturing, TSMC, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230201/p13#a230201p13)
+ - [White House calls Apple and Google &#39;harmful&#39; in bid to cut app store fees](https://appleinsider.com/articles/23/02/01/white-house-aims-to-cut-app-fees-calls-apple-and-google-harmful?utm_medium=rss)
+ - [How to get started with Wine 8.0 on your Mac](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-wine-80-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
