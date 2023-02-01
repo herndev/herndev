@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Squishmallows officially out at Walmart stores](https://www.polygon.com/pokemon/23543043/pokemon-squishmallow-walmart-target-rerelease)
- - [AMD &#39;undershipping&#39; chips to help prop prices up](https://www.pcgamer.com/amd-undershipping-chips-to-help-prop-prices-up)
- - [Gamefound fell short of its goals in 2022, but still ate into Kickstarter’s lead in tabletop](https://www.polygon.com/tabletop-games/23579623/top-10-board-games-on-gamefound-2022-crowdfunding)<!-- GAME:END -->
+ - [Celebrate All Things Anime on Xbox and Xbox Game Pass this February](https://news.xbox.com/en-us/2023/02/01/xbox-anime-month-2023-deals-sale/)
+ - [Dungeons &amp; Dragons has walked back its huge OGL mistake, but the damage is already done](https://www.pcgamer.com/dungeons-and-dragons-has-walked-back-its-huge-ogl-mistake-but-the-damage-is-already-done)
+ - [Doughnut-shaped laser beam used to create fibre optics from thin air](https://www.pcgamer.com/doughnut-shaped-laser-beam-used-to-create-fibre-optics-from-thin-air)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
