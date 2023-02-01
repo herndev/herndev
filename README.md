@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cape Town-based Lulalend, which uses its proprietary credit scoring algorithm to offer short-term loans to SMBs, raised a $35M Series B and launches a neobank &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230201/p19#a230201p19)
- - [Apple&#39;s iOS 16.3 update may fix unannounced location privacy bug](https://appleinsider.com/articles/23/02/01/apples-ios-163-update-may-fix-unannounced-location-privacy-bug?utm_medium=rss)
- - [Analysis: 2022 was the biggest year ever for crypto hacking, with $3.8B stolen, primarily from DeFi protocols and by the North Korea-linked Lazarus Group &lpar;Chainalysis&rpar;](http://www.techmeme.com/230201/p18#a230201p18)<!-- TECH:END -->
+ - [Daily Deals Feb. 1: $500 off MacBook Pro 13&quot;, $400 off LG UltraWide Monitor, 47% off Apple Watch Series 7 &amp; more](https://appleinsider.com/articles/23/02/01/daily-deals-feb-1-500-off-macbook-pro-13-400-off-lg-ultrawide-monitor-47-off-apple-watch-series-7-more?utm_medium=rss)
+ - [Sources: a US judge rejects the FTC&#39;s bid for a preliminary injunction to block Meta&#39;s Within acquisition, giving the FTC one week to decide whether to appeal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230201/p22#a230201p22)
+ - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
