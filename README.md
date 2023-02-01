@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals Galaxy Book3 series at Unpacked](https://appleinsider.com/articles/23/02/01/samsung-reveals-galaxy-book3-series-at-unpacked?utm_medium=rss)
- - [Samsung Galaxy S23 price and pre-orders: All the info you need before you buy](https://www.androidauthority.com/pre-order-samsung-galaxy-s23-3273658/)
- - [OpenAI launches ChatGPT Plus, a pilot plan with access during peak times, faster response times, and priority access to new features, in the US for $20/month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p33#a230201p33)<!-- TECH:END -->
+ - [These Samsung Galaxy S23 Best Buy deals take some beating](https://www.androidauthority.com/samsung-galaxy-s23-best-buy-deals-3273078/)
+ - [Samsung reveals its plans to start working on extended reality devices](https://www.androidauthority.com/samsung-extended-reality-3274896/)
+ - [The best Samsung Galaxy S23 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-samsung-galaxy-s23-alternatives-3272078/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
