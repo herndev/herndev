@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indiana-based blockchain startup SIMBA Chain, which has worked on various US military projects, raised $30M from the US Air Force, after raising $1.5M in 2020 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230201/p16#a230201p16)
- - [Fact-Checkers Are Scrambling to Fight Disinformation With AI](https://www.wired.com/story/fact-checkers-ai-chatgpt-misinformation/)
- - [Nvidia is working to fix a Discord bug that slows the memory clocks on some of its GPUs by up to 200MHz, including the RTX 3080 and RTX 3060 Ti &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230201/p15#a230201p15)<!-- TECH:END -->
+ - [Cape Town-based Lulalend, which uses its proprietary credit scoring algorithm to offer short-term loans to SMBs, raised a $35M Series B and launches a neobank &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230201/p19#a230201p19)
+ - [Apple&#39;s iOS 16.3 update may fix unannounced location privacy bug](https://appleinsider.com/articles/23/02/01/apples-ios-163-update-may-fix-unannounced-location-privacy-bug?utm_medium=rss)
+ - [Analysis: 2022 was the biggest year ever for crypto hacking, with $3.8B stolen, primarily from DeFi protocols and by the North Korea-linked Lazarus Group &lpar;Chainalysis&rpar;](http://www.techmeme.com/230201/p18#a230201p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
