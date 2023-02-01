@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Chris Miller, a Tufts professor and author of the book Chip War, on EUV lithography, ASML&#39;s role in global chip manufacturing, TSMC, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230201/p13#a230201p13)
- - [White House calls Apple and Google &#39;harmful&#39; in bid to cut app store fees](https://appleinsider.com/articles/23/02/01/white-house-aims-to-cut-app-fees-calls-apple-and-google-harmful?utm_medium=rss)
- - [How to get started with Wine 8.0 on your Mac](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-wine-80-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Indiana-based blockchain startup SIMBA Chain, which has worked on various US military projects, raised $30M from the US Air Force, after raising $1.5M in 2020 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230201/p16#a230201p16)
+ - [Fact-Checkers Are Scrambling to Fight Disinformation With AI](https://www.wired.com/story/fact-checkers-ai-chatgpt-misinformation/)
+ - [Nvidia is working to fix a Discord bug that slows the memory clocks on some of its GPUs by up to 200MHz, including the RTX 3080 and RTX 3060 Ti &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230201/p15#a230201p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
