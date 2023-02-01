@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 🥀 The end for this smartphone giant?](https://www.androidauthority.com/daily-authority-february-1-2023-3274456/)
  - [The UK lays out plans to regulate crypto, including measures to strengthen rules for lending, disclosures, financial intermediaries, and crypto custodians &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230201/p5#a230201p5)
- - [Filing: Tesla lost ~$140M on its bitcoin holdings in 2022, with a $204M impairment loss, nearly doubling since 2021, offset by $64M in profits &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/230201/p4#a230201p4)
- - [Peacock no longer offers free tier to new users: A sign of things to come?](https://www.androidauthority.com/peacock-no-free-tier-3274537/)<!-- TECH:END -->
+ - [Filing: Tesla lost ~$140M on its bitcoin holdings in 2022, with a $204M impairment loss, nearly doubling since 2021, offset by $64M in profits &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/230201/p4#a230201p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
