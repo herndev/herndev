@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is asking employees to test potential ChatGPT competing products, including a chatbot called Apprentice Bard built on its LaMDA language model &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230131/p38#a230131p38)
- - [Best Online Glasses and Contacts Deals: Savings You&#39;ll Have to See to Believe     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
- - [What is HelloFresh and how does it work?](https://www.androidauthority.com/what-is-hellofresh-3274399/)<!-- TECH:END -->
+ - [Peacock has stopped offering its free tier to new subscribers; existing users will continue to have access &lpar;David Satin/The Streamable&rpar;](http://www.techmeme.com/230131/p39#a230131p39)
+ - [Sources and docs: Google is asking employees to test potential ChatGPT competitors, including Apprentice Bard, a chatbot that uses its LaMDA conversational tech &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230131/p38#a230131p38)
+ - [Best Online Glasses and Contacts Deals: Savings You&#39;ll Have to See to Believe     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
