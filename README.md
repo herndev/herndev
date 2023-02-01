@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love this serie](http://9gag.com/gag/anzgjxb)
- - ⏩ [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
+ - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - ⏩ [The detectable field of electricity around this house](http://9gag.com/gag/aA0Gwo2)
+ - 👉 [\u2615 vs \ud83d\uddff](http://9gag.com/gag/aeQgbOW)<!-- MEMES:END -->
 
 ---
 
