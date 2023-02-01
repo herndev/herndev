@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monkey sees action - Neuron activation](http://9gag.com/gag/a4o1RAQ)
- - ⏩ [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 💣 [I wanna get VR just for this game, just wow.](http://9gag.com/gag/a04ZQ8n)
+ - ⏩ [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)
+ - 👉 [Hey boyys!! Where u at??!!](http://9gag.com/gag/agogL9W)<!-- MEMES:END -->
 
 ---
 
