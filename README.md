@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - ⏩ [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - 💣 [Hidden messages](http://9gag.com/gag/a4o17Dy)
+ - ⏩ [Genius, or dick move? Feyenoord goalkeeper makes a tackle. His goal is unprotected, so to stop the other team restarting play he makes sure there is already a ball on the pitch &lpar;2 balls on the pitch isn&#39;t allowed&rpar;](http://9gag.com/gag/aWGg6zx)
  - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
 
 ---
