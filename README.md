@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon has some good microSD card deals for Switch and Steam Deck today](https://www.polygon.com/2023/2/1/23581172/samsung-sandisk-microsd-card-steam-deck-nintendo-switch-deal-1tb-512gb)
- - [PlayStation Plus gives you Mafia: Definitive Edition and a Destiny 2 expansion in February](https://www.polygon.com/23577654/playstation-plus-february-2023-games-essentials-ps4-ps5)
- - [The Last Of Us Fans Are Creating Amazing Bill And Frank Fan Art](https://kotaku.com/last-of-us-bill-frank-fanart-gay-art-hbo-twitter-tumblr-1850059104)<!-- GAME:END -->
+ - [Hold the Line in Gundam Evolution Season 3 – Defencer](https://news.xbox.com/en-us/2023/02/01/gundam-evolution-season-3-defencer/)
+ - [PS5 PS Plus PSA: You have 3 months to grab 20 of the best PS4 games](https://www.polygon.com/playstation/23581400/playstation-plus-collection-ending-date-games-list)
+ - [Power Chord review](https://www.pcgamer.com/power-chord-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
