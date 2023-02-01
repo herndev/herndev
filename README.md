@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone is boiling oil resistant -- briefly](https://appleinsider.com/articles/23/02/01/apples-iphone-is-boiling-oil-resistant----briefly?utm_medium=rss)
- - [The EV price war hasn’t really started yet](https://www.theverge.com/2023/2/1/23581210/tesla-ford-ev-price-cuts-gm-bmw-vw-hyundai)
- - [Meta reportedly wins fight to buy VR startup Within](https://www.theverge.com/2023/2/1/23575041/meta-within-vr-acquisition-ftc-antitrust-lawsuit-injunction-denied)<!-- TECH:END -->
+ - [Pakistan &quot;degrades&quot; Wikipedia in the country for 48 hours for not removing &quot;sacrilegious contents&quot; and warns of a full block if it fails to remove such content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230201/p27#a230201p27)
+ - [A US judge amends Sam Bankman-Fried&#39;s bail terms, prohibiting him from contacting any current or former FTX or Alameda employees and bans Signal and other apps &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230201/p26#a230201p26)
+ - [Cars &amp; Bids, a car auction site founded by Doug DeMuro, an automotive YouTuber who has amassed 4.5M+ subscribers since 2013, raised $37M from The Chernin Group &lpar;Karl Brauer/Forbes&rpar;](http://www.techmeme.com/230201/p25#a230201p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
