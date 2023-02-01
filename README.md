@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MAD WORLD](http://9gag.com/gag/adPgKKd)
- - ⏩ [I&#39;d take a deep breath right after that](http://9gag.com/gag/a1P1KKb)
- - 👉 [Damn](http://9gag.com/gag/aOxQr76)<!-- MEMES:END -->
+ - 💣 [Wait ...what?](http://9gag.com/gag/aA0GdNo)
+ - ⏩ [Always trust your instinct !](http://9gag.com/gag/aEq8xZp)
+ - 👉 [Back when 9gag was funny and this meme was gold. Bonus in the comments](http://9gag.com/gag/aRErKGB)<!-- MEMES:END -->
 
 ---
 
