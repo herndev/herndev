@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentralized social network app Damus debuts on the App Store with E2EE for DMs; the app uses the Nostr protocol, which Jack Dorsey backed in 2022 with ~14 BTC &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230201/p37#a230201p37)
- - [Samsung partners with Google &amp; Qualcomm for mixed reality](https://appleinsider.com/articles/23/02/01/samsung-partners-with-google-qualcomm-for-mixed-reality?utm_medium=rss)
- - [Samsung says the Galaxy S23, S23 Plus, and S23 Ultra will ask users to install Adobe Lightroom when handling DNGs and make the app the default raw photo editor &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230201/p36#a230201p36)<!-- TECH:END -->
+ - [Meta takes a $4.2B restructuring charge in Q4, which includes costs for early office space termination, data center redesign, and severance for laid-off staff &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/230201/p41#a230201p41)
+ - [Meta reports $727M Reality Labs revenue in Q4, vs. $715.1M est., a $4.28B operating loss, vs. $4.36B est., a $13.72B loss in 2022, and expects a wider 2023 loss &lpar;CNBC&rpar;](http://www.techmeme.com/230201/p40#a230201p40)
+ - [Now at $699, has there ever been been a better time to buy a Galaxy S22?](https://www.androidauthority.com/samsung-galaxy-s22-discount-3274933/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
