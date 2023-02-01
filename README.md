@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FS-ISAC report: DDoS attacks targeting banks and other financial firms had increased 22% YoY by November 2022, particularly in Europe, where they rose 73% YoY &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/230201/p3#a230201p3)
  - [Apex Legends Mobile is shutting down after less than a year](https://www.androidauthority.com/apex-legends-mobile-shutting-down-3273938/)
- - [Sentra, which classifies cloud data according to sensitivity and tracks cloud data security, raised a $30M Series A led by Standard Investments &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p2#a230201p2)
- - [The US and India launch an initiative to cooperate on critical and emerging technologies, including quantum computing, AI, and semiconductors, to counter China &lpar;Financial Times&rpar;](http://www.techmeme.com/230201/p1#a230201p1)<!-- TECH:END -->
+ - [Sentra, which classifies cloud data according to sensitivity and tracks cloud data security, raised a $30M Series A led by Standard Investments &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230201/p2#a230201p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
