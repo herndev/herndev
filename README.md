@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I got you](http://9gag.com/gag/awZzZqr)
- - ⏩ [What would you do?](http://9gag.com/gag/ap9gm95)
- - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 💣 [Best speech ever](http://9gag.com/gag/aWGg4vd)
+ - ⏩ [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - 👉 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 ---
 
