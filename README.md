@@ -29,10 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [T-Pain Changed Music Forever, Now He&#39;s Coming For Twitch](https://kotaku.com/tpain-y2k-rapper-twitch-nappy-boy-gaming-stream-team-1850067397)
- - [The Sims 4’s latest expansion gives you even more family options to play God with](https://www.polygon.com/23583427/sims-4-growing-together-expansion-pack-trailer-release-date)
- - [The Day Before gameplay reveal actually happened, and it was as bizarre as you&#39;d 
-expect](https://www.pcgamer.com/the-day-before-gameplay-reveal-actually-happened-and-it-was-as-bizarre-as-youd-expect)<!-- GAME:END -->
+ - [The World&#39;s Biggest Airplane, Destroyed In Ukraine, Is Coming To Flight Simulator](https://kotaku.com/antonov-an-225-mriya-flight-simulator-ukraine-war-1850067770)
+ - [Sims 4 trans-inclusive update faces culture war backlash in record time](https://www.pcgamer.com/sims-4-trans-inclusive-update-faces-culture-war-backlash-in-record-time)
+ - [Back 4 Blood won&#39;t get any more new content as Turtle Rock pivots to an all-new game](https://www.pcgamer.com/back-4-blood-wont-get-any-more-new-content-as-turtle-rock-pivots-to-an-all-new-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
