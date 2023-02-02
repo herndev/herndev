@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wireless Earbuds for 2023: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Google may turn your Android phone into a plug-and-play USB webcam](https://www.androidauthority.com/android-phone-webcam-3275484/)
- - [iPhone 14 Plus component orders near zero, amid low demand](https://appleinsider.com/articles/23/02/02/iphone-14-plus-component-orders-near-zero-amid-low-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Two billion Apple devices are in active use](https://appleinsider.com/articles/23/02/02/two-billion-apple-devices-are-in-active-use?utm_medium=rss)
+ - [Apple reports Q1 Services revenue up 6% YoY to $20.7B and says its installed base crossed 2B active devices, up from the 1.8B devices it reported last year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230202/p37#a230202p37)
+ - [Apple posts $117.15B in revenue, first miss in five years](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
