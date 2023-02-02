@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portside, which provides business management software to aircraft operators, raised a $50M Series B led by Insight Partners, bringing its total funding to $70M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230202/p27#a230202p27)
- - [What is Chegg and how much does it cost?](https://www.androidauthority.com/what-is-chegg-3273806/)
- - [Oppo Find X6 series: What we know so far and what we want to see &lpar;Update Feb 2&rpar;](https://www.androidauthority.com/oppo-find-x6-series-3232606/)<!-- TECH:END -->
+ - [Best Wireless Earbuds for 2023: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [Google may turn your Android phone into a plug-and-play USB webcam](https://www.androidauthority.com/android-phone-webcam-3275484/)
+ - [iPhone 14 Plus component orders near zero, amid low demand](https://appleinsider.com/articles/23/02/02/iphone-14-plus-component-orders-near-zero-amid-low-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
