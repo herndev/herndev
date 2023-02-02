@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
- - ⏩ [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - 👉 [What would you do?](http://9gag.com/gag/ap9gm95)<!-- MEMES:END -->
+ - 💣 [Where Do I Find This Form ?](http://9gag.com/gag/aBdn2wO)
+ - ⏩ [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
+ - 👉 [Neat](http://9gag.com/gag/aoKgPOX)<!-- MEMES:END -->
 
 ---
 
