@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)
- - [Jars of Rao&#39;s Soup Have Been Recalled and the Reason Is Quite Funny     - CNET](https://www.cnet.com/news/roas-soup-recalled-and-the-reason-is-quite-funny/#ftag=CAD590a51e)
- - [CISA Director Jen Easterly and Executive Assistant Director Eric Goldstein say incentives for developing and selling tech should not eclipse customer safety &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/230202/p18#a230202p18)<!-- TECH:END -->
+ - [How to recover Apple ID accounts with Advanced Data Protection on](https://appleinsider.com/inside/ios-16/tips/how-to-recover-apple-id-accounts-with-advanced-data-protection-on?utm_medium=rss)
+ - [TikTok&#39;s recent charm offensive, including the tour of its LA-based Transparency and Accountability Center, echoes Huawei&#39;s unsuccessful strategy in Europe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230202/p20#a230202p20)
+ - [Yo Samsung, if 200MP is better than 108MP, then 40MP is surely better than 12MP?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-selfie-camera-3274220/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
