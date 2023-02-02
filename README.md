@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 👉 [I got you](http://9gag.com/gag/awZzZqr)<!-- MEMES:END -->
+ - 💣 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - ⏩ [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 👉 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
 
 ---
 
