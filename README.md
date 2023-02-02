@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Star Was Afraid This N64 Classic Would Ruin His Life](https://kotaku.com/last-of-us-hbo-nick-offerman-bill-banjo-kazooie-n64-1850065488)
- - [Where did Pokémon: Detective Pikachu 2 go?](https://www.polygon.com/entertainment/23560467/pokemon-detective-pikachu-2-release-update)
- - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)<!-- GAME:END -->
+ - [This &#39;professional&#39; end-of-the-world simulator is now available on Steam](https://www.pcgamer.com/this-professional-end-of-the-world-simulator-is-now-available-on-steam)
+ - [How to play Fortnite Battle Royale in ‘first-person’](https://www.polygon.com/fortnite-guide/23582992/how-to-play-fortnite-battle-royale-in-first-person)
+ - [GameStop Manager Fired After $5,000 PS5 Robbery](https://kotaku.com/gamestop-meme-stock-crypto-scam-ps5-robbery-layoffs-1850065931)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
