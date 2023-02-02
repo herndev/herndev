@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This &#39;professional&#39; end-of-the-world simulator is now available on Steam](https://www.pcgamer.com/this-professional-end-of-the-world-simulator-is-now-available-on-steam)
- - [How to play Fortnite Battle Royale in ‘first-person’](https://www.polygon.com/fortnite-guide/23582992/how-to-play-fortnite-battle-royale-in-first-person)
- - [GameStop Manager Fired After $5,000 PS5 Robbery](https://kotaku.com/gamestop-meme-stock-crypto-scam-ps5-robbery-layoffs-1850065931)<!-- GAME:END -->
+ - [The Last of Us’ Nick Offerman’s video game obsession ended with Banjo-Kazooie](https://www.polygon.com/23583217/the-last-of-us-nick-offerman-video-games-banjo-kazooie)
+ - [Overwatch 2&#39;s new Antarctic map has ice drills, fishing, and immortal penguins](https://www.pcgamer.com/overwatch-2s-new-antarctic-map-has-ice-drills-fishing-and-immortal-penguins)
+ - [6 games that had a huge impact on PC gaming, but are rarely celebrated today](https://www.pcgamer.com/6-games-that-had-a-huge-impact-on-pc-gaming-but-are-rarely-celebrated-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
