@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Good Lock just got a much-needed quality of life update](https://www.androidauthority.com/samsung-good-lock-2-3275443/)
- - [What Is Blockchain? The Complete WIRED Guide](https://www.wired.com/story/guide-blockchain/)
- - [Brookfield&#39;s $15B commitment to help finance Intel&#39;s Arizona complex may spur PE firms and their infrastructure funds to help reassert US chip competitiveness &lpar;Bloomberg&rpar;](http://www.techmeme.com/230202/p26#a230202p26)<!-- TECH:END -->
+ - [Portside, which provides business management software to aircraft operators, raised a $50M Series B led by Insight Partners, bringing its total funding to $70M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230202/p27#a230202p27)
+ - [What is Chegg and how much does it cost?](https://www.androidauthority.com/what-is-chegg-3273806/)
+ - [Oppo Find X6 series: What we know so far and what we want to see &lpar;Update Feb 2&rpar;](https://www.androidauthority.com/oppo-find-x6-series-3232606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
