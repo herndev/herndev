@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK March issue on sale now: System Shock reborn!](https://www.pcgamer.com/pc-gamer-uk-march-issue-on-sale-now-system-shock-reborn)
- - [Wordle hint and answer today: Let&#39;s solve #593, February 2](https://www.pcgamer.com/wordle-hint-answer-today-593-february-2)
- - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)<!-- GAME:END -->
+ - [At long last, the Steam Deck UI has replaced Steam&#39;s Big Picture mode](https://www.pcgamer.com/at-long-last-the-steam-deck-ui-has-replaced-steams-big-picture-mode)
+ - [New on Apple Arcade in February: cozy farming sim Farmside](https://www.polygon.com/23549897/apple-arcade-new-releases-best-games)
+ - [PC Gamer UK March issue on sale now: System Shock reborn!](https://www.pcgamer.com/pc-gamer-uk-march-issue-on-sale-now-system-shock-reborn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
