@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest’s new round of layoffs comes weeks after its last cuts](https://www.theverge.com/2023/2/1/23582250/pinterest-layoffs-second-round-december)
- - [Take an extra 15% off a Rosetta Stone lifetime subscription with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)
- - [Nissan shows off a real version of its rad-looking Max-Out electric convertible concept](https://www.theverge.com/2023/2/1/23581841/nissan-max-out-electric-convertible-ev-concept)<!-- TECH:END -->
+ - [Sources: Tiger Global aims to raise $5B for its latest fund, down from the $6B target it set in October 2022; Tiger raised $12.7B for its last fund in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230201/p47#a230201p47)
+ - [Sources: Netflix told advertisers that sign-ups for its ad tier doubled in January 2023 over December 2022; Netflix predicted 1.75M ad tier subscribers in Q1 &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230201/p46#a230201p46)
+ - [Pinterest’s new round of layoffs comes weeks after its last cuts](https://www.theverge.com/2023/2/1/23582250/pinterest-layoffs-second-round-december)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
