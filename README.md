@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [At long last, the Steam Deck UI has replaced Steam&#39;s Big Picture mode](https://www.pcgamer.com/at-long-last-the-steam-deck-ui-has-replaced-steams-big-picture-mode)
- - [New on Apple Arcade in February: cozy farming sim Farmside](https://www.polygon.com/23549897/apple-arcade-new-releases-best-games)
- - [PC Gamer UK March issue on sale now: System Shock reborn!](https://www.pcgamer.com/pc-gamer-uk-march-issue-on-sale-now-system-shock-reborn)<!-- GAME:END -->
+ - [February’s best Blu-ray and 4K UHD releases for the modern media doomsday prepper](https://www.polygon.com/deals/2023/2/2/23573155/bluray-4k-uhd-disc-review-february-2023)
+ - [Where to get Happy Pet Snacks in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-happy-pet-snacks)
+ - [At long last, the Steam Deck UI has replaced Steam&#39;s Big Picture mode](https://www.pcgamer.com/at-long-last-the-steam-deck-ui-has-replaced-steams-big-picture-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
