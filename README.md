@@ -37,9 +37,9 @@ expect](https://www.pcgamer.com/the-day-before-gameplay-reveal-actually-happened
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two billion Apple devices are in active use](https://appleinsider.com/articles/23/02/02/two-billion-apple-devices-are-in-active-use?utm_medium=rss)
- - [Apple reports Q1 Services revenue up 6% YoY to $20.7B and says its installed base crossed 2B active devices, up from the 1.8B devices it reported last year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230202/p37#a230202p37)
- - [Apple posts $117.15B in revenue, first miss in five years](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook: iPhone manufacturing shortfall main reason for earnings miss](https://appleinsider.com/articles/23/02/02/tim-cook-iphone-manufacturing-is-the-main-reason-for-earnings-miss?utm_medium=rss)
+ - [Apple earnings hit hard by iPhone production problems in China](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
+ - [Unopened first-gen iPhone expected to fetch $50,000 at auction](https://appleinsider.com/articles/23/02/02/unopened-first-gen-iphone-expected-to-fetch-50000-at-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
