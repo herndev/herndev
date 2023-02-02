@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)
- - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)
- - [Ubisoft&#39;s launcher broke Steam games on Linux and Steam Deck](https://www.pcgamer.com/ubisofts-launcher-broke-steam-games-on-linux-and-steam-deck)<!-- GAME:END -->
+ - [PC Gamer UK March issue on sale now: System Shock reborn!](https://www.pcgamer.com/pc-gamer-uk-march-issue-on-sale-now-system-shock-reborn)
+ - [Wordle hint and answer today: Let&#39;s solve #593, February 2](https://www.pcgamer.com/wordle-hint-answer-today-593-february-2)
+ - [PS5 Beta Introduces Discord Voice Chat, VRR support for 1440p, and more](https://blog.playstation.com/2023/02/02/ps5-beta-introduces-discord-voice-chat-vrr-support-for-1440p-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
