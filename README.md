@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok revamps its account enforcement system, including a new strike system meant to address repeat offenders, bringing the service in line with its peers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230202/p24#a230202p24)
- - [Apple says popular demand brought back the HomePod](https://appleinsider.com/articles/23/02/02/apple-says-popular-demand-brought-back-the-homepod?utm_medium=rss)
- - [Docs: Verily revenue grew to $470M in the first nine months of 2022, up from $228M YoY, making it Alphabet&#39;s biggest subsidiary by revenue after Google &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230202/p23#a230202p23)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [The star of Forspoken isn’t bothered by all the memes](https://www.theverge.com/2023/2/2/23582914/forspoken-dialogue-memes-ella-balinska-ps5)
+ - [The best Verizon deals: Get the Galaxy S23 Plus for free](https://www.androidauthority.com/best-verizon-deals-835801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
