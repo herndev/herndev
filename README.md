@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Air stewardess doesn\u2019t speak English](http://9gag.com/gag/aNwPpgK)
- - ⏩ [What Men dream of when they go out...](http://9gag.com/gag/avQAzN5)
- - 👉 [It&#39;s amazing that Rowling was once the icon of the left but politics has moved so far that she&#39;s a pariah to those who once worshipped the ground she walked on.](http://9gag.com/gag/a8q1EZ1)<!-- MEMES:END -->
+ - 💣 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
+ - ⏩ [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
 
