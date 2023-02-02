@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
- - ⏩ [MAD WORLD](http://9gag.com/gag/adPgKKd)
- - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 ---
 
