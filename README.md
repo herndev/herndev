@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Remake Removes Ashley’s Health Bar, Adds Side-Quests](https://kotaku.com/resident-evil-4-remake-re4-ashley-qte-knife-durability-1850062148)
- - [Netflix’s AI Anime Gets Roasted For Crediting Artist As ‘Human’](https://kotaku.com/netflix-ai-anime-wit-studio-dog-and-boy-spy-family-1850062043)
- - [MrBeast&#39;s &#39;charity porn&#39; shows the morally complicated reality of YouTube philanthropy](https://www.pcgamer.com/mrbeasts-charity-porn-shows-the-morally-complicated-reality-of-youtube-philanthropy)<!-- GAME:END -->
+ - [The February PC game releases and events you should know about](https://www.pcgamer.com/the-february-pc-game-releases-and-events-you-should-know-about)
+ - [The Day Before devs reverse course again, announce a 10 minute &#39;gameplay extravaganza&#39; for Thursday](https://www.pcgamer.com/the-day-before-devs-reverse-course-again-announce-a-10-minute-gameplay-extravaganza-for-thursday)
+ - [Tom Brady&#39;s Video Game Career Dates Back To The 20th Century](https://kotaku.com/tom-brady-retire-retirement-madden-2k-video-game-screen-1850062346)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
