@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I got you](http://9gag.com/gag/awZzZqr)
- - ⏩ [Damn](http://9gag.com/gag/aOxQr76)
- - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 💣 [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - 👉 [I got you](http://9gag.com/gag/awZzZqr)<!-- MEMES:END -->
 
 ---
 
