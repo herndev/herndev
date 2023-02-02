@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us’ Nick Offerman’s video game obsession ended with Banjo-Kazooie](https://www.polygon.com/23583217/the-last-of-us-nick-offerman-video-games-banjo-kazooie)
- - [Overwatch 2&#39;s new Antarctic map has ice drills, fishing, and immortal penguins](https://www.pcgamer.com/overwatch-2s-new-antarctic-map-has-ice-drills-fishing-and-immortal-penguins)
- - [6 games that had a huge impact on PC gaming, but are rarely celebrated today](https://www.pcgamer.com/6-games-that-had-a-huge-impact-on-pc-gaming-but-are-rarely-celebrated-today)<!-- GAME:END -->
+ - [How to unlock Anden’s custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546954/anden-custom-delivery-weekly-unlock-location-pixie)
+ - [Resident Evil 4 Remake’s Rain Is Setting People Off](https://kotaku.com/resident-evil-4-remake-rain-raindrops-re4-gta-trilogy-1850066682)
+ - [Play Counter-Strike 1.6 in your browser](https://www.pcgamer.com/play-counter-strike-16-in-your-browser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
