@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 🌌 The Galaxy S23 series is finally here](https://www.androidauthority.com/daily-authority-february-2-2023-3275110/)
  - [UBS study: ChatGPT reached ~100M MAUs with ~13M daily unique visitors in January, two months after launch, becoming the fastest-growing consumer app ever &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230202/p5#a230202p5)
- - [Twitter will end free access to the Twitter API starting February 9, ending support for both v1.1 and v2, and make a paid version available &lpar;TechCrunch&rpar;](http://www.techmeme.com/230202/p4#a230202p4)
- - [The best Samsung Galaxy S23 chargers](https://www.androidauthority.com/best-samsung-galaxy-s23-chargers-3273952/)<!-- TECH:END -->
+ - [Twitter will end free access to the Twitter API starting February 9, ending support for both v1.1 and v2, and make a paid version available &lpar;TechCrunch&rpar;](http://www.techmeme.com/230202/p4#a230202p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
