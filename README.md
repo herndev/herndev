@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [The star of Forspoken isn’t bothered by all the memes](https://www.theverge.com/2023/2/2/23582914/forspoken-dialogue-memes-ella-balinska-ps5)
- - [The best Verizon deals: Get the Galaxy S23 Plus for free](https://www.androidauthority.com/best-verizon-deals-835801/)<!-- TECH:END -->
+ - [Samsung’s Good Lock just got a much-needed quality of life update](https://www.androidauthority.com/samsung-good-lock-2-3275443/)
+ - [What Is Blockchain? The Complete WIRED Guide](https://www.wired.com/story/guide-blockchain/)
+ - [Brookfield&#39;s $15B commitment to help finance Intel&#39;s Arizona complex may spur PE firms and their infrastructure funds to help reassert US chip competitiveness &lpar;Bloomberg&rpar;](http://www.techmeme.com/230202/p26#a230202p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
