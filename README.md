@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Strange and Unique Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-strange-and-unique-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)
- - [Craft, whose data platform helps supply chain, procurement, and risk managers monitor their networks of suppliers, raised a $32M Series B led by BAM Elevate &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230201/p49#a230201p49)
- - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix: A Full Guide     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix-a-full-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s why Samsung skipped satellite connectivity on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-missing-3275109/)
+ - [EA pulls the plug on Apex Legends Mobile and the planned mobile version of its Battlefield franchise, as mobile remains a hard market to crack for the company &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p1#a230202p1)
+ - [The Strange and Unique Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-strange-and-unique-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
