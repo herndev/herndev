@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars: Visions season 2 drops on May 4th, because of course it does](https://www.theverge.com/2023/2/2/23582747/star-wars-visions-season-2-premiere-date)
- - [Amazon&#39;s latest Kindle Paperwhite is already on sale in its new colorways](https://www.theverge.com/2023/2/2/23581179/amazon-kindle-paperwhite-nvidia-shield-tv-samsung-galaxy-s23-plus-ultra-phone-deal-sale)
- - [Daily Deals Feb. 2: AirPods for $99, $200 off MacBook Air, iPad Air 5 $499 &amp; more](https://appleinsider.com/articles/23/02/02/daily-deals-feb-2-airpods-for-99-200-off-macbook-air-ipad-air-5-499-more?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok revamps its account enforcement system, including a new strike system meant to address repeat offenders, bringing the service in line with its peers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230202/p24#a230202p24)
+ - [Apple says popular demand brought back the HomePod](https://appleinsider.com/articles/23/02/02/apple-says-popular-demand-brought-back-the-homepod?utm_medium=rss)
+ - [Docs: Verily revenue grew to $470M in the first nine months of 2022, up from $228M YoY, making it Alphabet&#39;s biggest subsidiary by revenue after Google &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230202/p23#a230202p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
