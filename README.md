@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to confess](http://9gag.com/gag/aXnrrwg)
- - ⏩ [Air stewardess doesn\u2019t speak English](http://9gag.com/gag/aNwPpgK)
- - 👉 [What Men dream of when they go out...](http://9gag.com/gag/avQAzN5)<!-- MEMES:END -->
+ - 💣 [Air stewardess doesn\u2019t speak English](http://9gag.com/gag/aNwPpgK)
+ - ⏩ [What Men dream of when they go out...](http://9gag.com/gag/avQAzN5)
+ - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
 
