@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Need to Watch This Highly Unnerving Netflix True Crime Movie     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-highly-unnerving-netflix-true-crime-movie/#ftag=CAD590a51e)
- - [This Mars Rock Looks Like a Funky Chicken, and I Love It     - CNET](https://www.cnet.com/science/space/this-mars-rock-looks-like-a-funky-chicken-and-i-love-it/#ftag=CAD590a51e)
- - [Facebook Parent Meta&#39;s Revenue Beats Expectations Amid Cost Cuts     - CNET](https://www.cnet.com/news/social-media/facebook-parent-metas-revenue-beats-expectations-amid-cost-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Original film &#39;Tetris&#39; set to premeire at SXSW](https://appleinsider.com/articles/23/02/01/apple-original-film-tetris-set-to-premeire-at-sxsw?utm_medium=rss)
+ - [Mark Zuckerberg says Meta&#39;s management theme in 2023 is the &quot;Year of Efficiency&quot; and emphasizes the role of AI in driving forward the company &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230201/p44#a230201p44)
+ - [Netflix says password sharing rules for the US are not set yet and removes from its US help page rules saying users must connect to primary Wi-Fi every 31 days &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230201/p43#a230201p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
