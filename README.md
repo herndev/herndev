@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trigun Stampede had to completely transform Trigun to be faithful to Trigun](https://www.polygon.com/23578531/trigun-stampede-anime-review-analysis-controversy)
- - [Meta lost more than 4 billion dollars on the metaverse in the last financial quarter](https://www.pcgamer.com/meta-lost-more-than-4-billion-dollars-on-the-metaverse-in-the-last-financial-quarter)
- - [The Pokémon Spin-off Games Ranked From Worst To Best](https://kotaku.com/best-pokemon-spin-off-game-nintendo-switch-go-mystery-1850062178)<!-- GAME:END -->
+ - [Fans huff the copium as Platinum Games teases MGR:Revengeance&#39;s 10th anniversary](https://www.pcgamer.com/fans-huff-the-copium-as-platinum-games-teases-mgrrevengeances-10th-anniversary)
+ - [The studio that made Wallace and Gromit is coming for Star Wars](https://www.polygon.com/star-wars/23582777/star-wars-visions-volume-2-release-date-aardman-cartoon-saloon)
+ - [Nintendo finally lets Switch Online members save on new games](https://www.polygon.com/deals/2023/2/2/23582037/nintendo-switch-online-game-digital-vouchers-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
