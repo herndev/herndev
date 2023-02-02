@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craft, whose data platform enables supply chain, procurement, and risk managers to monitor their supplier networks, raised a $32M Series B led by BAM Elevate &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230201/p49#a230201p49)
- - [Meta says Facebook now has 2B daily active users, after adding 16M users in Q4; WhatsApp reached 2B+ daily active users in October 2022 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230201/p48#a230201p48)
- - [Sources: Tiger Global aims to raise $5B for its latest fund, down from the $6B target it set in October 2022; Tiger raised $12.7B for its last fund in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230201/p47#a230201p47)<!-- TECH:END -->
+ - [The Strange and Unique Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-strange-and-unique-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)
+ - [Craft, whose data platform helps supply chain, procurement, and risk managers monitor their networks of suppliers, raised a $32M Series B led by BAM Elevate &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230201/p49#a230201p49)
+ - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix: A Full Guide     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix-a-full-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
