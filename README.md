@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - ⏩ [MAD WORLD](http://9gag.com/gag/adPgKKd)
+ - 💣 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
+ - ⏩ [Damn](http://9gag.com/gag/aOxQr76)
  - 👉 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)<!-- MEMES:END -->
 
 ---
