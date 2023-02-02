@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [February’s best Blu-ray and 4K UHD releases for the modern media doomsday prepper](https://www.polygon.com/deals/2023/2/2/23573155/bluray-4k-uhd-disc-review-february-2023)
- - [Where to get Happy Pet Snacks in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-happy-pet-snacks)
- - [At long last, the Steam Deck UI has replaced Steam&#39;s Big Picture mode](https://www.pcgamer.com/at-long-last-the-steam-deck-ui-has-replaced-steams-big-picture-mode)<!-- GAME:END -->
+ - [Join the Party in Sea of Thieves’ Next Community Day on February 11!](https://news.xbox.com/en-us/2023/02/02/sea-of-thieves-community-day-rewards/)
+ - [Video games are becoming more accessible — and games are better for it](https://www.polygon.com/gaming/23581909/video-game-disability-accessibility-xbox-god-of-war)
+ - [Dwarf Fortress releases sales figures since Steam release showing 46,000% increase in earnings](https://www.pcgamer.com/dwarf-fortress-releases-sales-figures-since-steam-release-showing-46000-increase-in-earnings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
