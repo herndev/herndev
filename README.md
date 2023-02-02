@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Amnesia: The Bunker delayed into May after a &#39;tough winter&#39;](https://www.pcgamer.com/amnesia-the-bunker-delayed-into-may-after-a-tough-winter)
  - [Facebook&#39;s VR Division Lost $13.72 Billion In 2022](https://kotaku.com/facebook-metaverse-vr-2022-billions-13-billion-quest-2-1850062517)
- - [EA has reportedly canceled a singleplayer Apex Legends game](https://www.pcgamer.com/ea-has-reportedly-canceled-a-singleplayer-apex-legends-game)
- - [The February PC game releases and events you should know about](https://www.pcgamer.com/the-february-pc-game-releases-and-events-you-should-know-about)<!-- GAME:END -->
+ - [EA has reportedly canceled a singleplayer Apex Legends game](https://www.pcgamer.com/ea-has-reportedly-canceled-a-singleplayer-apex-legends-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
