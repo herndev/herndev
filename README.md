@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The February PC game releases and events you should know about](https://www.pcgamer.com/the-february-pc-game-releases-and-events-you-should-know-about)
- - [The Day Before devs reverse course again, announce a 10 minute &#39;gameplay extravaganza&#39; for Thursday](https://www.pcgamer.com/the-day-before-devs-reverse-course-again-announce-a-10-minute-gameplay-extravaganza-for-thursday)
- - [Tom Brady&#39;s Video Game Career Dates Back To The 20th Century](https://kotaku.com/tom-brady-retire-retirement-madden-2k-video-game-screen-1850062346)<!-- GAME:END -->
+ - [Facebook&#39;s VR Division Lost $13.72 Billion In 2022](https://kotaku.com/facebook-metaverse-vr-2022-billions-13-billion-quest-2-1850062517)
+ - [EA has reportedly canceled a singleplayer Apex Legends game](https://www.pcgamer.com/ea-has-reportedly-canceled-a-singleplayer-apex-legends-game)
+ - [The February PC game releases and events you should know about](https://www.pcgamer.com/the-february-pc-game-releases-and-events-you-should-know-about)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
