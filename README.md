@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weapon art is too OP](http://9gag.com/gag/aPgZgXQ)
- - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 👉 [What would you do?](http://9gag.com/gag/ap9gm95)<!-- MEMES:END -->
+ - 💣 [I got you](http://9gag.com/gag/awZzZqr)
+ - ⏩ [Damn](http://9gag.com/gag/aOxQr76)
+ - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
 
