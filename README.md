@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
- - ⏩ [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)
- - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
+ - 💣 [Keep movin fellas.](http://9gag.com/gag/ajVgNZG)
+ - ⏩ [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
+ - 👉 [What would you do?](http://9gag.com/gag/ap9gm95)<!-- MEMES:END -->
 
 ---
 
