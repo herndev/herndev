@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best speech ever](http://9gag.com/gag/aWGg4vd)
- - ⏩ [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
- - 👉 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
+ - 💣 [Pouring molten metal on wood](http://9gag.com/gag/a2K1v5d)
+ - ⏩ [Capital of Canada](http://9gag.com/gag/ay29MAM)
+ - 👉 [It worked for me and it will work for you too](http://9gag.com/gag/aBdn0x2)<!-- MEMES:END -->
 
 ---
 
