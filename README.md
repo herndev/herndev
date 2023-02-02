@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro-3272214/)
- - [Scientists Grew Mini Human Guts Inside Mice](https://www.wired.com/story/scientists-grew-mini-human-guts-inside-mice/)
- - [Have We Reached Peak Smartphone?](https://www.wired.com/story/gadget-lab-podcast-584/)<!-- TECH:END -->
+ - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)
+ - [Jars of Rao&#39;s Soup Have Been Recalled and the Reason Is Quite Funny     - CNET](https://www.cnet.com/news/roas-soup-recalled-and-the-reason-is-quite-funny/#ftag=CAD590a51e)
+ - [CISA Director Jen Easterly and Executive Assistant Director Eric Goldstein say incentives for developing and selling tech should not eclipse customer safety &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/230202/p18#a230202p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
