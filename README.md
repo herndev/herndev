@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to recover Apple ID accounts with Advanced Data Protection on](https://appleinsider.com/inside/ios-16/tips/how-to-recover-apple-id-accounts-with-advanced-data-protection-on?utm_medium=rss)
- - [TikTok&#39;s recent charm offensive, including the tour of its LA-based Transparency and Accountability Center, echoes Huawei&#39;s unsuccessful strategy in Europe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230202/p20#a230202p20)
- - [Yo Samsung, if 200MP is better than 108MP, then 40MP is surely better than 12MP?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-selfie-camera-3274220/)<!-- TECH:END -->
+ - [Star Wars: Visions season 2 drops on May 4th, because of course it does](https://www.theverge.com/2023/2/2/23582747/star-wars-visions-season-2-premiere-date)
+ - [Amazon&#39;s latest Kindle Paperwhite is already on sale in its new colorways](https://www.theverge.com/2023/2/2/23581179/amazon-kindle-paperwhite-nvidia-shield-tv-samsung-galaxy-s23-plus-ultra-phone-deal-sale)
+ - [Daily Deals Feb. 2: AirPods for $99, $200 off MacBook Air, iPad Air 5 $499 &amp; more](https://appleinsider.com/articles/23/02/02/daily-deals-feb-2-airpods-for-99-200-off-macbook-air-ipad-air-5-499-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
