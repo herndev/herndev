@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Air stewardess doesn\u2019t speak English](http://9gag.com/gag/aNwPpgK)
- - ⏩ [What Men dream of when they go out...](http://9gag.com/gag/avQAzN5)
- - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 💣 [Neat](http://9gag.com/gag/aoKgPOX)
+ - ⏩ [So that&#39;s how they do it!](http://9gag.com/gag/aA0Gbpg)
+ - 👉 [Tough times or Recession ?](http://9gag.com/gag/aqeG1N7)<!-- MEMES:END -->
 
 ---
 
