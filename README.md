@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)
- - [Sony Is Adding Discord Voice Integration To The PlayStation 5](https://kotaku.com/playstation-5-sony-beta-discord-data-transfer-ps4-1850065160)
- - [That time Among Us accidentally violated the Geneva Conventions](https://www.pcgamer.com/that-time-among-us-accidentally-violated-the-geneva-conventions)<!-- GAME:END -->
+ - [The Last Of Us Star Was Afraid This N64 Classic Would Ruin His Life](https://kotaku.com/last-of-us-hbo-nick-offerman-bill-banjo-kazooie-n64-1850065488)
+ - [Where did Pokémon: Detective Pikachu 2 go?](https://www.polygon.com/entertainment/23560467/pokemon-detective-pikachu-2-release-update)
+ - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
