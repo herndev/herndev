@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans huff the copium as Platinum Games teases MGR:Revengeance&#39;s 10th anniversary](https://www.pcgamer.com/fans-huff-the-copium-as-platinum-games-teases-mgrrevengeances-10th-anniversary)
- - [The studio that made Wallace and Gromit is coming for Star Wars](https://www.polygon.com/star-wars/23582777/star-wars-visions-volume-2-release-date-aardman-cartoon-saloon)
- - [Nintendo finally lets Switch Online members save on new games](https://www.polygon.com/deals/2023/2/2/23582037/nintendo-switch-online-game-digital-vouchers-discount)<!-- GAME:END -->
+ - [How two D&amp;D adventures connect to the Dungeons &amp; Dragons movie](https://www.polygon.com/23581742/dungeons-dragons-dnd-adventures-to-play-before-honor-among-thieves-movie)
+ - [Sony Is Adding Discord Voice Integration To The PlayStation 5](https://kotaku.com/playstation-5-sony-beta-discord-data-transfer-ps4-1850065160)
+ - [That time Among Us accidentally violated the Geneva Conventions](https://www.pcgamer.com/that-time-among-us-accidentally-violated-the-geneva-conventions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
