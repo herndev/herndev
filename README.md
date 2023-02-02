@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pouring molten metal on wood](http://9gag.com/gag/a2K1v5d)
- - ⏩ [Capital of Canada](http://9gag.com/gag/ay29MAM)
- - 👉 [It worked for me and it will work for you too](http://9gag.com/gag/aBdn0x2)<!-- MEMES:END -->
+ - 💣 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - ⏩ [I got you](http://9gag.com/gag/awZzZqr)
+ - 👉 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)<!-- MEMES:END -->
 
 ---
 
