@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Original film &#39;Tetris&#39; set to premeire at SXSW](https://appleinsider.com/articles/23/02/01/apple-original-film-tetris-set-to-premeire-at-sxsw?utm_medium=rss)
- - [Mark Zuckerberg says Meta&#39;s management theme in 2023 is the &quot;Year of Efficiency&quot; and emphasizes the role of AI in driving forward the company &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230201/p44#a230201p44)
- - [Netflix says password sharing rules for the US are not set yet and removes from its US help page rules saying users must connect to primary Wi-Fi every 31 days &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230201/p43#a230201p43)<!-- TECH:END -->
+ - [Pinterest’s new round of layoffs comes weeks after its last cuts](https://www.theverge.com/2023/2/1/23582250/pinterest-layoffs-second-round-december)
+ - [Take an extra 15% off a Rosetta Stone lifetime subscription with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)
+ - [Nissan shows off a real version of its rad-looking Max-Out electric convertible concept](https://www.theverge.com/2023/2/1/23581841/nissan-max-out-electric-convertible-ev-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
