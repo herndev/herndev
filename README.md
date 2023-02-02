@@ -44,9 +44,9 @@ expect](https://www.pcgamer.com/the-day-before-gameplay-reveal-actually-happened
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - ⏩ [I got you](http://9gag.com/gag/awZzZqr)
- - 👉 [What the actual f**k???](http://9gag.com/gag/az2e1Zj)<!-- MEMES:END -->
+ - 💣 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
+ - ⏩ [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 👉 [The actor who played Gomez&lpar;father&rpar; is the last living out of the original cast.](http://9gag.com/gag/az2e9pZ)<!-- MEMES:END -->
 
 ---
 
