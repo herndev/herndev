@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)
- - ⏩ [Damn](http://9gag.com/gag/aOxQr76)
- - 👉 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)<!-- MEMES:END -->
+ - 💣 [I dont know if its true](http://9gag.com/gag/aZDrDBn)
+ - ⏩ [What would you do?](http://9gag.com/gag/ap9gm95)
+ - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 ---
 
