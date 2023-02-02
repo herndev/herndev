@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🌌 The Galaxy S23 series is finally here](https://www.androidauthority.com/daily-authority-february-2-2023-3275110/)
- - [UBS study: ChatGPT reached ~100M MAUs with ~13M daily unique visitors in January, two months after launch, becoming the fastest-growing consumer app ever &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230202/p5#a230202p5)
- - [Twitter will end free access to the Twitter API starting February 9, ending support for both v1.1 and v2, and make a paid version available &lpar;TechCrunch&rpar;](http://www.techmeme.com/230202/p4#a230202p4)<!-- TECH:END -->
+ - [Korea rejects $1.64 million battery throttling lawsuit](https://appleinsider.com/articles/23/02/02/korea-rejects-164-million-battery-throttling-lawsuit?utm_medium=rss)
+ - [Sony reports Q3 sales rose 13% YoY to ~$26.4B as operating profit drops 8% YoY to ~$3.3B, beating analyst estimates; PS5 sales were 7.1M, up from 4M YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/230202/p6#a230202p6)
+ - [How to make a playlist on Pandora](https://www.androidauthority.com/make-playlist-pandora-3275144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
