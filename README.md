@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s open-source speech recognition software Whisper, which can transcribe speech in more than 90 languages, outperforming humans in some of them &lpar;James Somers/New Yorker&rpar;](http://www.techmeme.com/230202/p12#a230202p12)
- - [How Delta, JetBlue, Swiss, Lufthansa, and other airlines are using and investing in AI to boost flight operations, plane maintenance, fuel management, and more &lpar;John Kell/Fortune&rpar;](http://www.techmeme.com/230202/p11#a230202p11)
- - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro-3272214/)
+ - [Scientists Grew Mini Human Guts Inside Mice](https://www.wired.com/story/scientists-grew-mini-human-guts-inside-mice/)
+ - [Have We Reached Peak Smartphone?](https://www.wired.com/story/gadget-lab-podcast-584/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
