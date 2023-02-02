@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Party in Sea of Thieves’ Next Community Day on February 11!](https://news.xbox.com/en-us/2023/02/02/sea-of-thieves-community-day-rewards/)
- - [Video games are becoming more accessible — and games are better for it](https://www.polygon.com/gaming/23581909/video-game-disability-accessibility-xbox-god-of-war)
- - [Dwarf Fortress releases sales figures since Steam release showing 46,000% increase in earnings](https://www.pcgamer.com/dwarf-fortress-releases-sales-figures-since-steam-release-showing-46000-increase-in-earnings)<!-- GAME:END -->
+ - [Trigun Stampede had to completely transform Trigun to be faithful to Trigun](https://www.polygon.com/23578531/trigun-stampede-anime-review-analysis-controversy)
+ - [Meta lost more than 4 billion dollars on the metaverse in the last financial quarter](https://www.pcgamer.com/meta-lost-more-than-4-billion-dollars-on-the-metaverse-in-the-last-financial-quarter)
+ - [The Pokémon Spin-off Games Ranked From Worst To Best](https://kotaku.com/best-pokemon-spin-off-game-nintendo-switch-go-mystery-1850062178)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
