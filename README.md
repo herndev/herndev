@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
- - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 💣 [Weapon art is too OP](http://9gag.com/gag/aPgZgXQ)
+ - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - 👉 [What would you do?](http://9gag.com/gag/ap9gm95)<!-- MEMES:END -->
 
 ---
 
