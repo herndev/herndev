@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interracial banging](http://9gag.com/gag/aWGgjgZ)
- - ⏩ [Neat](http://9gag.com/gag/aoKgPOX)
- - 👉 [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)<!-- MEMES:END -->
+ - 💣 [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - ⏩ [Is it me or google search has gotten worse. can&#39;t find shit anymore](http://9gag.com/gag/aZDrLn0)
+ - 👉 [This was not the brightest idea...](http://9gag.com/gag/aBdn80D)<!-- MEMES:END -->
 
 ---
 
