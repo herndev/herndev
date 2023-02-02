@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she ready to settle with you](http://9gag.com/gag/abvgMbE)
- - ⏩ [Kid vs Royal guard](http://9gag.com/gag/aWGg11q)
+ - 💣 [Neat](http://9gag.com/gag/aoKgPOX)
+ - ⏩ [She connected with one but thought she could do better...this one has a happy ending....](http://9gag.com/gag/az2eeDz)
  - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
