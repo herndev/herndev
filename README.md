@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why Samsung skipped satellite connectivity on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-missing-3275109/)
- - [EA pulls the plug on Apex Legends Mobile and the planned mobile version of its Battlefield franchise, as mobile remains a hard market to crack for the company &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/230202/p1#a230202p1)
- - [The Strange and Unique Way I Cured My Screen Addiction     - CNET](https://www.cnet.com/health/mental/the-strange-and-unique-way-i-cured-my-screen-addiction/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing’s Carl Pei pokes fun at the Galaxy S23 series with same shirt guy meme](https://www.androidauthority.com/samsung-galaxy-s23-carl-pei-nothing-3275122/)
+ - [How to delete stations on Pandora](https://www.androidauthority.com/delete-stations-pandora-3275106/)
+ - [Kiwi Farms, a forum for online harassment campaigns, has managed to stay online after being dropped by Cloudflare, as posters congregate on Telegram and Discord &lpar;Ali Breland/Mother Jones&rpar;](http://www.techmeme.com/230202/p2#a230202p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
