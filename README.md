@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)
- - [Court document: a Colombia judge says he used ChatGPT to pose legal questions about a case and included its responses in his decision &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/230203/p23#a230203p23)
- - [TikTok adds a strikes policy for bans](https://www.theverge.com/2023/2/3/23583329/tiktok-strike-policy-bans-moderation)<!-- TECH:END -->
+ - [Emergency services continue to slam Apple&#39;s Crash Detection](https://appleinsider.com/articles/23/02/03/emergency-services-continue-to-slam-apples-crash-detection?utm_medium=rss)
+ - [Italy&#39;s privacy watchdog orders San Francisco-based AI chatbot maker Replika to stop processing local users&#39; data over concerns its tech poses risks to minors &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230203/p24#a230203p24)
+ - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
