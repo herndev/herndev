@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kingman church scene remake](http://9gag.com/gag/aL1vnZA)
+ - 💣 [Planned food shortage](http://9gag.com/gag/a6q1Xpe)
  - ⏩ [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
  - 👉 [Talk about falling for someone](http://9gag.com/gag/agogQVn)<!-- MEMES:END -->
 
