@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A former employee of IoT manufacturer Ubiquiti pleaded guilty to stealing gigabytes of confidential data in December 2020 and extorting the company for ransom &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230202/p44#a230202p44)
- - [The Xbox 360 store won’t be closing down, despite what an Xbox support page says](https://www.theverge.com/2023/2/2/23583699/xbox-360-marketplace-microsoft-not-shutting-closing-down)
- - [Sundar Pichai says Google will make LLMs like LaMDA available &quot;in the coming weeks and months&quot;, and users will be able to use them &quot;as a companion to search&quot; &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230202/p43#a230202p43)<!-- TECH:END -->
+ - [Apple Pay Later being tested by employees, coming soon](https://appleinsider.com/articles/23/02/02/apple-pay-later-is-being-tested-by-employees-and-will-arrive-soon?utm_medium=rss)
+ - [Apple&#39;s Q1 earnings hit hard by iPhone production problems](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
+ - [A former employee of IoT manufacturer Ubiquiti pleaded guilty to stealing gigabytes of confidential data in December 2020 and extorting the company for ransom &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230202/p44#a230202p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
