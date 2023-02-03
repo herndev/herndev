@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - 💣 [Best speech ever](http://9gag.com/gag/aWGg4vd)
  - ⏩ [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 👉 [Dog Jesus](http://9gag.com/gag/agogQGn)<!-- MEMES:END -->
+ - 👉 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
 
 ---
 
