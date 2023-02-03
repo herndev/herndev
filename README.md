@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pedro Pascal Barely Remembers Getting Last Of Us Role Thanks To Ambien](https://kotaku.com/last-of-us-hbo-pedro-pascal-joel-ambien-sleeping-pill-1850071288)
- - [Activision Blizzard to pay $35M fine in SEC settlement](https://www.polygon.com/23584578/activision-blizzard-sec-settlement)
- - [Add CrossfireX to the long list of games shutting down](https://www.polygon.com/23584708/crossfirex-shutting-down-xbox-smilegate-remedy)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Genshin Impact’s Queer Backlash, Explained](https://kotaku.com/genshin-impact-gay-hoyoverse-fujoshi-candace-1850071724)
+ - [Dead Space developer also made the worst/best Xbox 360 game](https://www.polygon.com/sub-gems/23584659/visceral-games-dantes-inferno-psp-playstation-xbox-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
