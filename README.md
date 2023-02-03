@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Vox Machina made one of Critical Role’s biggest moments even better](https://www.polygon.com/23583361/legend-vox-machina-critical-role-episode-8-vex)
- - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
- - [Elgato’s Stream Deck Mk.2 is 20% off through Feb. 6](https://www.polygon.com/deals/2023/2/3/23583256/elgato-stream-deck-mk2-streaming-creators-discount)<!-- GAME:END -->
+ - [Season: A Letter To The Future - The Kotaku Review](https://kotaku.com/season-a-letter-to-the-future-ps5-steam-pc-game-review-1850069978)
+ - [Nier: Automata’s Yoko Taro made a new 15-minute music video based on the game](https://www.polygon.com/2023/2/3/23584391/nier-automata-yoko-taro-anime-puppet-show-music-video)
+ - [Next Week on Xbox: New Games for February 6 to 10](https://news.xbox.com/en-us/2023/02/03/next-week-on-xbox-new-games-for-february-6-to-10/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
