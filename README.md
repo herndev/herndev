@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X90, X90 Pro go global: Where’s the X90 Pro Plus?](https://www.androidauthority.com/vivo-x90-x90-pro-global-launch-3275266/)
- - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)
- - [Samsung has some lofty Galaxy S23 series sales goals](https://www.androidauthority.com/samsung-galaxy-s23-series-sales-goals-3275869/)<!-- TECH:END -->
+ - [Apple still dominates tablet sales in contracting market](https://appleinsider.com/articles/23/02/03/apple-still-dominates-tablet-sales-in-contracting-market?utm_medium=rss)
+ - [Logitech Mevo Go review: Promising, but needs ironing out](https://appleinsider.com/articles/23/02/03/logitech-mevo-go-review-promising-but-needs-ironing-out?utm_medium=rss)
+ - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
