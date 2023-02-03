@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Myst&#39; is coming back to iPhone &amp; iPad for 30th anniversary](https://appleinsider.com/articles/23/02/03/myst-is-coming-back-to-iphone-ipad-for-30th-anniversary?utm_medium=rss)
  - [Internal messages: Twitter wants to charge brands $1,000 per month to keep their gold verification badges, plus $50 per month for each affiliated account &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230203/p25#a230203p25)
- - [Apple’s Crash Detection is flooding 911 dispatchers with false alarms](https://www.androidauthority.com/apple-crash-detection-2-3276203/)
- - [A remastered version of Myst is coming to iOS](https://www.theverge.com/2023/2/3/23583414/myst-mobile-ios-ipad-remastered-3d-cyan)<!-- TECH:END -->
+ - [Apple’s Crash Detection is flooding 911 dispatchers with false alarms](https://www.androidauthority.com/apple-crash-detection-2-3276203/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
