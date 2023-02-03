@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)
  - [Razer&#39;s new gaming mouse is its lightest ever](https://www.pcgamer.com/razers-new-gaming-mouse-is-its-lightest-ever)
- - [I kinda miss how much of a pain in the ass it used to be to play games online](https://www.pcgamer.com/i-kinda-miss-how-much-of-a-pain-in-the-ass-it-used-to-be-to-play-games-online)
- - [Yet Another Online Game Is Shutting Down, Devs Promise &#39;Private Server&#39; PC Version](https://kotaku.com/knockout-city-private-servers-shut-down-online-game-pc-1850068534)<!-- GAME:END -->
+ - [I kinda miss how much of a pain in the ass it used to be to play games online](https://www.pcgamer.com/i-kinda-miss-how-much-of-a-pain-in-the-ass-it-used-to-be-to-play-games-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
