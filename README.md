@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best speech ever](http://9gag.com/gag/aWGg4vd)
- - ⏩ [There we go again back to the classics](http://9gag.com/gag/az2ePem)
- - 👉 [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)<!-- MEMES:END -->
+ - 💣 [Weapon art is too OP](http://9gag.com/gag/aPgZgXQ)
+ - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
+ - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 ---
 
