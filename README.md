@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Core i5 13400F](https://www.pcgamer.com/intel-core-i5-13400f-review-benchmarks)
- - [HHKB Professional Hybrid Type S](https://www.pcgamer.com/hhkb-professional-hybrid-type-s-review)
- - [AMD&#39;s new laptop APU nearly twice as fast as Steam Deck in leaked graphics benchmark](https://www.pcgamer.com/amds-new-laptop-apu-nearly-twice-as-fast-as-steam-deck-in-leaked-graphics-benchmark)<!-- GAME:END -->
+ - [Can Command &amp; Conquer devs make a great World War I strategy game?](https://www.polygon.com/23583606/the-great-war-western-front-release-date-preview-pc-world-war-1-video-games-rts)
+ - [DC’s plans for canon games would be ‘a nightmare,’ Marvel game director says](https://www.polygon.com/23584240/dc-universe-dcu-games-canon-continuity-nightmare)
+ - [Intel Core i5 13400F](https://www.pcgamer.com/intel-core-i5-13400f-review-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
