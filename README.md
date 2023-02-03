@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Command &amp; Conquer devs make a great World War I strategy game?](https://www.polygon.com/23583606/the-great-war-western-front-release-date-preview-pc-world-war-1-video-games-rts)
- - [DC’s plans for canon games would be ‘a nightmare,’ Marvel game director says](https://www.polygon.com/23584240/dc-universe-dcu-games-canon-continuity-nightmare)
- - [Intel Core i5 13400F](https://www.pcgamer.com/intel-core-i5-13400f-review-benchmarks)<!-- GAME:END -->
+ - [The Legend of Vox Machina made one of Critical Role’s biggest moments even better](https://www.polygon.com/23583361/legend-vox-machina-critical-role-episode-8-vex)
+ - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
+ - [Elgato’s Stream Deck Mk.2 is 20% off through Feb. 6](https://www.polygon.com/deals/2023/2/3/23583256/elgato-stream-deck-mk2-streaming-creators-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
