@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FTC is preparing an antitrust lawsuit against Amazon, though the timing remains in flux, and is scrutinizing Amazon Prime&#39;s bundling practices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230203/p12#a230203p12)
- - [Even your antique Mac can use Mastodon](https://appleinsider.com/articles/23/02/03/even-your-antique-mac-can-use-mastodon?utm_medium=rss)
- - [Activision Blizzard to pay $35M to the SEC to settle claims it violated federal whistleblower protections and failed to maintain adequate disclosure standards &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230203/p11#a230203p11)<!-- TECH:END -->
+ - [The best Samsung Galaxy S23 Plus cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-plus-cases-3273405/)
+ - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)
+ - [Neko Health, founded by Daniel Ek and Watty founder Hjalmar Nilsonne, comes out of stealth, and says it is developing an AI-powered full body scanner &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230203/p15#a230203p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
