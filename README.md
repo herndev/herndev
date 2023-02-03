@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog Jesus](http://9gag.com/gag/agogQGn)
- - ⏩ [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
- - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 💣 [Kingman church scene remake](http://9gag.com/gag/aL1vnZA)
+ - ⏩ [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
+ - 👉 [Talk about falling for someone](http://9gag.com/gag/agogQVn)<!-- MEMES:END -->
 
 ---
 
