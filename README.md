@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer today: Let&#39;s solve #594, February 3](https://www.pcgamer.com/wordle-hint-answer-today-594-february-3)
  - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)
- - [Razer&#39;s new gaming mouse is its lightest ever](https://www.pcgamer.com/razers-new-gaming-mouse-is-its-lightest-ever)
- - [I kinda miss how much of a pain in the ass it used to be to play games online](https://www.pcgamer.com/i-kinda-miss-how-much-of-a-pain-in-the-ass-it-used-to-be-to-play-games-online)<!-- GAME:END -->
+ - [Razer&#39;s new gaming mouse is its lightest ever](https://www.pcgamer.com/razers-new-gaming-mouse-is-its-lightest-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
