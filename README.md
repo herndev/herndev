@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Startup T2 Wants to Terminate Twitter](https://www.wired.com/story/plaintext-startup-t2-wants-to-terminate-twitter/)
- - [What Would Earth’s Temperature Be Like Without an Atmosphere?](https://www.wired.com/story/what-would-earths-temperature-be-like-without-an-atmosphere/)
- - [A New Drug Switched Off My Appetite. What’s Left?](https://www.wired.com/story/new-drug-switched-off-appetite-mounjaro/)<!-- TECH:END -->
+ - [Daily Deals Feb. 3: M2 Mac mini $549, $230 off Roborock S7 Plus, 44% off Apple Smart Keyboard &amp; more](https://appleinsider.com/articles/23/02/03/daily-deals-feb-3-m2-mac-mini-549-230-off-roborock-s7-plus-44-off-apple-smart-keyboard-more?utm_medium=rss)
+ - [Ex-staffers say Google&#39;s Jigsaw saw its workforce of 50 cut by at least 20 and fear Google is phasing out the altruistic division as it isn&#39;t profit oriented &lpar;Forbes&rpar;](http://www.techmeme.com/230203/p8#a230203p8)
+ - [Apple barely missed earnings targets, so analysts are still bullish](https://appleinsider.com/articles/23/02/03/apple-barely-missed-earnings-targets-so-analysts-are-still-bullish?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
