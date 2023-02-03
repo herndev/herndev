@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra vs iPhone 14 Pro and Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-iphone-14-pro-max-vs-iphone-14-pro-3272202/)
- - [As the spat between Binance and WazirX escalates, Binance invites the Indian exchange to withdraw its assets held in Binance wallets after February 3 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230203/p4#a230203p4)
- - [Congress Has a Lo-Fi Plan to Fix the Classified Documents Mess](https://www.wired.com/story/congress-classified-documents-scandal-fix/)<!-- TECH:END -->
+ - [Startup T2 Wants to Terminate Twitter](https://www.wired.com/story/plaintext-startup-t2-wants-to-terminate-twitter/)
+ - [What Would Earth’s Temperature Be Like Without an Atmosphere?](https://www.wired.com/story/what-would-earths-temperature-be-like-without-an-atmosphere/)
+ - [A New Drug Switched Off My Appetite. What’s Left?](https://www.wired.com/story/new-drug-switched-off-appetite-mounjaro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
