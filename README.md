@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Story Of Nintendo&#39;s Favorite Football Team](https://kotaku.com/the-story-of-nintendos-favorite-football-team-1850057687)
- - [Hi-Fi Rush review](https://www.pcgamer.com/hi-fi-rush-review)
- - [The Last of Us star Nick Offerman swore off videogames forever after becoming obsessed with this Nintendo 64 game](https://www.pcgamer.com/the-last-of-us-star-nick-offerman-swore-off-videogames-forever-after-becoming-obsessed-with-this-nintendo-64-game)<!-- GAME:END -->
+ - [It’s OK If A Game Wraps Up, They Don’t All Have To Be Fortnite](https://kotaku.com/back-4-blood-left-4-dead-turtle-rock-live-service-dead-1850068212)
+ - [Bandai Namco announces Elden Ring anniversary event, but I&#39;d put those piping hot DLC expectations on ice, champ](https://www.pcgamer.com/bandai-namco-announces-elden-ring-anniversary-event-but-id-put-those-piping-hot-dlc-expectations-on-ice-champ)
+ - [The Story Of Nintendo&#39;s Favorite Football Team](https://kotaku.com/the-story-of-nintendos-favorite-football-team-1850057687)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
