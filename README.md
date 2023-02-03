@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook: iPhone manufacturing shortfall main reason for earnings miss](https://appleinsider.com/articles/23/02/02/tim-cook-iphone-manufacturing-is-the-main-reason-for-earnings-miss?utm_medium=rss)
- - [Apple earnings hit hard by iPhone production problems in China](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
- - [Unopened first-gen iPhone expected to fetch $50,000 at auction](https://appleinsider.com/articles/23/02/02/unopened-first-gen-iphone-expected-to-fetch-50000-at-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Apple stock on wild ride after earnings](https://appleinsider.com/articles/23/02/02/aapl-hammered-during-earnings-but-recovered-weirdly-after?utm_medium=rss)
+ - [Apple reports Q1 revenue in Greater China fell 7.3% YoY to $23.9B, revenue in Japan fell 5% to $6.8B, and revenue in the rest of Asia-Pacific fell 2.8% to $9.5B &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230202/p41#a230202p41)
+ - [Leaked Xperia 1 V image may give us our first look at Sony’s next flagship](https://www.androidauthority.com/sony-xperia-1-v-3275625/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
