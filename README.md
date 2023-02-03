@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So that&#39;s how they do it!](http://9gag.com/gag/aA0Gbpg)
- - ⏩ [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
- - 👉 [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)<!-- MEMES:END -->
+ - 💣 [Dog Jesus](http://9gag.com/gag/agogQGn)
+ - ⏩ [Send n\u00fcdes](http://9gag.com/gag/aYVryDm)
+ - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
 
 ---
 
