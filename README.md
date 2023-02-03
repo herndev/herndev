@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s OK If A Game Wraps Up, They Don’t All Have To Be Fortnite](https://kotaku.com/back-4-blood-left-4-dead-turtle-rock-live-service-dead-1850068212)
- - [Bandai Namco announces Elden Ring anniversary event, but I&#39;d put those piping hot DLC expectations on ice, champ](https://www.pcgamer.com/bandai-namco-announces-elden-ring-anniversary-event-but-id-put-those-piping-hot-dlc-expectations-on-ice-champ)
- - [The Story Of Nintendo&#39;s Favorite Football Team](https://kotaku.com/the-story-of-nintendos-favorite-football-team-1850057687)<!-- GAME:END -->
+ - [I kinda miss how much of a pain in the ass it used to be to play games online](https://www.pcgamer.com/i-kinda-miss-how-much-of-a-pain-in-the-ass-it-used-to-be-to-play-games-online)
+ - [Yet Another Online Game Is Shutting Down, Devs Promise &#39;Private Server&#39; PC Version](https://kotaku.com/knockout-city-private-servers-shut-down-online-game-pc-1850068534)
+ - [It’s OK If A Game Wraps Up, They Don’t All Have To Be Fortnite](https://kotaku.com/back-4-blood-left-4-dead-turtle-rock-live-service-dead-1850068212)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
