@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock on wild ride after earnings](https://appleinsider.com/articles/23/02/02/aapl-hammered-during-earnings-but-recovered-weirdly-after?utm_medium=rss)
- - [Apple reports Q1 revenue in Greater China fell 7.3% YoY to $23.9B, revenue in Japan fell 5% to $6.8B, and revenue in the rest of Asia-Pacific fell 2.8% to $9.5B &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230202/p41#a230202p41)
- - [Leaked Xperia 1 V image may give us our first look at Sony’s next flagship](https://www.androidauthority.com/sony-xperia-1-v-3275625/)<!-- TECH:END -->
+ - [A former employee of IoT manufacturer Ubiquiti pleaded guilty to stealing gigabytes of confidential data in December 2020 and extorting the company for ransom &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230202/p44#a230202p44)
+ - [The Xbox 360 store won’t be closing down, despite what an Xbox support page says](https://www.theverge.com/2023/2/2/23583699/xbox-360-marketplace-microsoft-not-shutting-closing-down)
+ - [Sundar Pichai says Google will make LLMs like LaMDA available &quot;in the coming weeks and months&quot;, and users will be able to use them &quot;as a companion to search&quot; &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230202/p43#a230202p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
