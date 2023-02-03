@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destroyed Ukrainian airplane, the world’s largest, to live on in Microsoft Flight Simulator](https://www.polygon.com/23585039/msfs-antonov-225-worlds-largest-airplane-ukraine-microsoft-flight-simulator)
- - [Forspoken Actress Says She’s Isn’t Bothered By The Online Discourse, And More Power To Her](https://kotaku.com/forspoken-ella-balinska-dialogue-discourse-square-enix-1850072395)
- - [Undertale’s creator conducted an interview with a cult-hit RPG dev, and it’s bizarre](https://www.polygon.com/23585012/toby-fox-yume-nikki-undertale-kikiyama-famintsu-interview)<!-- GAME:END -->
+ - [YouTuber Logan Paul Slapped With Class-Action Lawsuit Over NFT &#39;Game&#39;](https://kotaku.com/youtube-logan-paul-cryptozoo-nft-lawsuit-scam-fraud-1850072693)
+ - [How to make the Dead Space remake less scary](https://www.polygon.com/guides/23585108/is-dead-space-scary-remake-jump-scares)
+ - [The world&#39;s biggest plane, destroyed in Ukraine, will fly again in Microsoft Flight Simulator](https://www.pcgamer.com/the-worlds-biggest-plane-destroyed-in-ukraine-will-fly-again-in-microsoft-flight-simulator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
