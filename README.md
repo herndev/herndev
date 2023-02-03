@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elgato Stream Deck + or Loupedeck Live S? Here&#39;s our streaming gadget pick](https://www.pcgamer.com/elgato-stream-deck-versus-loupedeck-live-s)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Dwarf Fortress&#39; next update grants even more ways to torment your minions](https://www.pcgamer.com/dwarf-fortress-next-update-grants-even-more-ways-to-torment-your-minions)<!-- GAME:END -->
+ - [All of my internet converges with TikTok’s ‘Harder, Better, Faster, Whopper’](https://www.polygon.com/23582814/harder-better-faster-whopper-tiktok-undertale)
+ - [This New Wholesome Anime Is Basically Gay Spy x Family](https://kotaku.com/buddy-daddies-spy-x-family-anime-yaoi-1850057304)
+ - [Activision Did Nothing Wrong, Will Pay $35 Million Settlement](https://kotaku.com/activision-blizzard-sexual-misconduct-sec-whistleblower-1850070728)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
