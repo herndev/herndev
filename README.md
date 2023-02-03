@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
- - ⏩ [Best speech ever](http://9gag.com/gag/aWGg4vd)
- - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 💣 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
+ - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 👉 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)<!-- MEMES:END -->
 
 ---
 
