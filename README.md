@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eagle-eyed gamer spots Starfield feature hiding in plain sight](https://www.pcgamer.com/eagle-eyed-gamer-spots-starfield-feature-hiding-in-plain-sight)
- - [Wordle hint and answer today: Let&#39;s solve #594, February 3](https://www.pcgamer.com/wordle-hint-answer-today-594-february-3)
- - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)<!-- GAME:END -->
+ - [Intel Core i5 13400F](https://www.pcgamer.com/intel-core-i5-13400f-review-benchmarks)
+ - [HHKB Professional Hybrid Type S](https://www.pcgamer.com/hhkb-professional-hybrid-type-s-review)
+ - [AMD&#39;s new laptop APU nearly twice as fast as Steam Deck in leaked graphics benchmark](https://www.pcgamer.com/amds-new-laptop-apu-nearly-twice-as-fast-as-steam-deck-in-leaked-graphics-benchmark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
