@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter cuts off API access to Movetodon, one of the best tools for finding and following one&#39;s own Twitter followers on Mastodon &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230203/p21#a230203p21)
- - [Q&amp;A with Sam Altman about AI systems replacing search engines, OpenAI&#39;s Microsoft investment, how artificial general intelligence could &quot;break capitalism&quot;, more &lpar;Forbes&rpar;](http://www.techmeme.com/230203/p20#a230203p20)
- - [Best AirPods Pro Accessories for 2023: Cases, Eartips, Wireless In-Flight Transmitters and Chargers     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)
+ - [Court document: a Colombia judge says he used ChatGPT to pose legal questions about a case and included its responses in his decision &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/230203/p23#a230203p23)
+ - [TikTok adds a strikes policy for bans](https://www.theverge.com/2023/2/3/23583329/tiktok-strike-policy-bans-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
