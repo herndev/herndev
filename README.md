@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 👉 [Best speech ever](http://9gag.com/gag/aWGg4vd)<!-- MEMES:END -->
+ - 💣 [When even AI knows you&#39;re full of it](http://9gag.com/gag/a04Z43Z)
+ - ⏩ [Capital of Canada](http://9gag.com/gag/ay29MAM)
+ - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
 
