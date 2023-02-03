@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch’s Mega Popular AI Streamer Now Pulling In Thousands Of Viewers With Reaction Content](https://kotaku.com/ai-twitch-streamer-neuro-sama-react-seinfeld-elden-ring-1850071918)
- - [This genius student uses the power of AI and a 3D printer to &#39;handwrite&#39; their homework](https://www.pcgamer.com/this-genius-student-uses-the-power-of-ai-and-a-3d-printer-to-handwrite-their-homework)
- - [This military base-building sim has all of the soldiers and none of the violence](https://www.pcgamer.com/this-military-base-building-sim-has-all-of-the-soldiers-and-none-of-the-violence)<!-- GAME:END -->
+ - [Destroyed Ukrainian airplane, the world’s largest, to live on in Microsoft Flight Simulator](https://www.polygon.com/23585039/msfs-antonov-225-worlds-largest-airplane-ukraine-microsoft-flight-simulator)
+ - [Forspoken Actress Says She’s Isn’t Bothered By The Online Discourse, And More Power To Her](https://kotaku.com/forspoken-ella-balinska-dialogue-discourse-square-enix-1850072395)
+ - [Undertale’s creator conducted an interview with a cult-hit RPG dev, and it’s bizarre](https://www.polygon.com/23585012/toby-fox-yume-nikki-undertale-kikiyama-famintsu-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
