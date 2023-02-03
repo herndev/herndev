@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter will start sharing revenue from reply-thread ads with creators who are subscribed to Twitter Blue Verified, but doesn&#39;t share any details &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230203/p18#a230203p18)
- - [Google invested $300 million in AI firm founded by former OpenAI researchers](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)
- - [Who predicted Apple&#39;s Christmas quarter right &amp; who was wrong?](https://appleinsider.com/articles/23/02/03/who-predicted-apples-christmas-quarter-right-who-was-wrong?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter cuts off API access to Movetodon, one of the best tools for finding and following one&#39;s own Twitter followers on Mastodon &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230203/p21#a230203p21)
+ - [Q&amp;A with Sam Altman about AI systems replacing search engines, OpenAI&#39;s Microsoft investment, how artificial general intelligence could &quot;break capitalism&quot;, more &lpar;Forbes&rpar;](http://www.techmeme.com/230203/p20#a230203p20)
+ - [Best AirPods Pro Accessories for 2023: Cases, Eartips, Wireless In-Flight Transmitters and Chargers     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
