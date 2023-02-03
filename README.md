@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Genshin Impact’s Queer Backlash, Explained](https://kotaku.com/genshin-impact-gay-hoyoverse-fujoshi-candace-1850071724)
- - [Dead Space developer also made the worst/best Xbox 360 game](https://www.polygon.com/sub-gems/23584659/visceral-games-dantes-inferno-psp-playstation-xbox-game-pass)<!-- GAME:END -->
+ - [Twitch’s Mega Popular AI Streamer Now Pulling In Thousands Of Viewers With Reaction Content](https://kotaku.com/ai-twitch-streamer-neuro-sama-react-seinfeld-elden-ring-1850071918)
+ - [This genius student uses the power of AI and a 3D printer to &#39;handwrite&#39; their homework](https://www.pcgamer.com/this-genius-student-uses-the-power-of-ai-and-a-3d-printer-to-handwrite-their-homework)
+ - [This military base-building sim has all of the soldiers and none of the violence](https://www.pcgamer.com/this-military-base-building-sim-has-all-of-the-soldiers-and-none-of-the-violence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
