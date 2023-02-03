@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When even AI knows you&#39;re full of it](http://9gag.com/gag/a04Z43Z)
- - ⏩ [Capital of Canada](http://9gag.com/gag/ay29MAM)
- - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
+ - 💣 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
+ - ⏩ [Dog Jesus](http://9gag.com/gag/agogQGn)
+ - 👉 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)<!-- MEMES:END -->
 
 ---
 
