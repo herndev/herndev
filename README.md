@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The US is currently tracking a massive Chinese spy balloon flying in the stratosphere above US mainland &lpar;pictured below&rpar; and waiting for the right moment to shoot it down. It&#39;s so big that the public can see it from the ground. I kid you not, check any US media.](http://9gag.com/gag/aKEmAg6)
- - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 👉 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)<!-- MEMES:END -->
+ - 💣 [Dog Jesus](http://9gag.com/gag/agogQGn)
+ - ⏩ [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
+ - 👉 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)<!-- MEMES:END -->
 
 ---
 
