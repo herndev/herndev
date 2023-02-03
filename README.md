@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite power upgrade, the Galaxy S23 series still has a GOS toggle](https://www.androidauthority.com/samsung-galaxy-s23-performance-3273777/)
- - [Poll: Are you planning to buy a new phone this year?](https://www.androidauthority.com/buy-new-phone-2023-poll-3275783/)
- - [Twitter expands Blue to Saudi Arabia, France, Germany, Italy, Portugal, and Spain, and plans to launch a new Spaces tab with curated spaces and podcasts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230203/p2#a230203p2)<!-- TECH:END -->
+ - [Daily Authority: 😲 Google takes on ChatGPT](https://www.androidauthority.com/daily-authority-february-3-2023-3275389/)
+ - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)
+ - [Despite power upgrade, the Galaxy S23 series still has a GOS toggle](https://www.androidauthority.com/samsung-galaxy-s23-performance-3273777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
