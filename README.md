@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to not simp 101](http://9gag.com/gag/aXnrnZD)
- - ⏩ [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - 👉 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
+ - 💣 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
+ - ⏩ [Best speech ever](http://9gag.com/gag/aWGg4vd)
+ - 👉 [Time to confess](http://9gag.com/gag/aXnrrwg)<!-- MEMES:END -->
 
 ---
 
