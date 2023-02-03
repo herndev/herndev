@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog Jesus](http://9gag.com/gag/agogQGn)
- - ⏩ [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
- - 👉 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)<!-- MEMES:END -->
+ - 💣 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
+ - ⏩ [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
+ - 👉 [Gigachad](http://9gag.com/gag/aOxQZK2)<!-- MEMES:END -->
 
 ---
 
