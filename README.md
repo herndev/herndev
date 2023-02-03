@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter ending free API access could have the unfortunate side effect of effectively killing off many useful bots like @MakeItAQuote, @BigTechAlert, and more &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/230202/p45#a230202p45)
  - [Apple Pay Later being tested by employees, coming soon](https://appleinsider.com/articles/23/02/02/apple-pay-later-is-being-tested-by-employees-and-will-arrive-soon?utm_medium=rss)
- - [Apple&#39;s Q1 earnings hit hard by iPhone production problems](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)
- - [A former employee of IoT manufacturer Ubiquiti pleaded guilty to stealing gigabytes of confidential data in December 2020 and extorting the company for ransom &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230202/p44#a230202p44)<!-- TECH:END -->
+ - [Apple&#39;s Q1 earnings hit hard by iPhone production problems](https://appleinsider.com/articles/23/02/02/apple-posts-11715b-in-revenue-first-miss-in-five-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
