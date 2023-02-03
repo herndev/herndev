@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still dominates tablet sales in contracting market](https://appleinsider.com/articles/23/02/03/apple-still-dominates-tablet-sales-in-contracting-market?utm_medium=rss)
- - [Logitech Mevo Go review: Promising, but needs ironing out](https://appleinsider.com/articles/23/02/03/logitech-mevo-go-review-promising-but-needs-ironing-out?utm_medium=rss)
- - [Apple will update HomePod mini, AirPods Max in 2024, says Kuo](https://appleinsider.com/articles/23/02/03/apple-will-update-homepod-mini-airpods-max-in-2024-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra vs iPhone 14 Pro and Pro Max: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-iphone-14-pro-max-vs-iphone-14-pro-3272202/)
+ - [As the spat between Binance and WazirX escalates, Binance invites the Indian exchange to withdraw its assets held in Binance wallets after February 3 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230203/p4#a230203p4)
+ - [Congress Has a Lo-Fi Plan to Fix the Classified Documents Mess](https://www.wired.com/story/congress-classified-documents-scandal-fix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
