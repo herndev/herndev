@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
- - ⏩ [How to not simp 101](http://9gag.com/gag/aXnrnZD)
- - 👉 [Oh no, oh no, oh no no no](http://9gag.com/gag/a8q16XQ)<!-- MEMES:END -->
+ - ⏩ [There we go again back to the classics](http://9gag.com/gag/az2ePem)
+ - 👉 [Dog Jesus](http://9gag.com/gag/agogQGn)<!-- MEMES:END -->
 
 ---
 
