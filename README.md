@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Adele at the end of her show.](http://9gag.com/gag/aoKge3n)
- - ⏩ [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 👉 [The actor who played Gomez&lpar;father&rpar; is the last living out of the original cast.](http://9gag.com/gag/az2e9pZ)<!-- MEMES:END -->
+ - 💣 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 👉 [Best speech ever](http://9gag.com/gag/aWGg4vd)<!-- MEMES:END -->
 
 ---
 
