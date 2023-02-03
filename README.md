@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Planned food shortage](http://9gag.com/gag/a6q1Xpe)
- - ⏩ [Compounding Is The 8th Wonder...!](http://9gag.com/gag/awZzyZQ)
- - 👉 [Talk about falling for someone](http://9gag.com/gag/agogQVn)<!-- MEMES:END -->
+ - 💣 [Talk about falling for someone](http://9gag.com/gag/agogQVn)
+ - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
+ - 👉 [Terrible idea all around](http://9gag.com/gag/aYVrEvm)<!-- MEMES:END -->
 
 ---
 
