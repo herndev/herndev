@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emergency services continue to slam Apple&#39;s Crash Detection](https://appleinsider.com/articles/23/02/03/emergency-services-continue-to-slam-apples-crash-detection?utm_medium=rss)
- - [Italy&#39;s privacy watchdog orders San Francisco-based AI chatbot maker Replika to stop processing local users&#39; data over concerns its tech poses risks to minors &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230203/p24#a230203p24)
- - [Apple collects nearly all of the profit in the worldwide smartphone market](https://appleinsider.com/articles/23/02/03/apple-collects-nearly-all-of-the-profit-in-the-worldwide-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Internal messages: Twitter wants to charge brands $1,000 per month to keep their gold verification badges, plus $50 per month for each affiliated account &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230203/p25#a230203p25)
+ - [Apple’s Crash Detection is flooding 911 dispatchers with false alarms](https://www.androidauthority.com/apple-crash-detection-2-3276203/)
+ - [A remastered version of Myst is coming to iOS](https://www.theverge.com/2023/2/3/23583414/myst-mobile-ios-ipad-remastered-3d-cyan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
