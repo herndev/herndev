@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Talk about falling for someone](http://9gag.com/gag/agogQVn)
- - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 👉 [Terrible idea all around](http://9gag.com/gag/aYVrEvm)<!-- MEMES:END -->
+ - 💣 [How to not simp 101](http://9gag.com/gag/aXnrnZD)
+ - ⏩ [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - 👉 [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)<!-- MEMES:END -->
 
 ---
 
