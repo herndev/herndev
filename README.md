@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All of my internet converges with TikTok’s ‘Harder, Better, Faster, Whopper’](https://www.polygon.com/23582814/harder-better-faster-whopper-tiktok-undertale)
- - [This New Wholesome Anime Is Basically Gay Spy x Family](https://kotaku.com/buddy-daddies-spy-x-family-anime-yaoi-1850057304)
- - [Activision Did Nothing Wrong, Will Pay $35 Million Settlement](https://kotaku.com/activision-blizzard-sexual-misconduct-sec-whistleblower-1850070728)<!-- GAME:END -->
+ - [Pedro Pascal Barely Remembers Getting Last Of Us Role Thanks To Ambien](https://kotaku.com/last-of-us-hbo-pedro-pascal-joel-ambien-sleeping-pill-1850071288)
+ - [Activision Blizzard to pay $35M fine in SEC settlement](https://www.polygon.com/23584578/activision-blizzard-sec-settlement)
+ - [Add CrossfireX to the long list of games shutting down](https://www.polygon.com/23584708/crossfirex-shutting-down-xbox-smilegate-remedy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
