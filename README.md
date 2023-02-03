@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
- - ⏩ [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
- - 👉 [Gigachad](http://9gag.com/gag/aOxQZK2)<!-- MEMES:END -->
+ - ⏩ [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
+ - 👉 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)<!-- MEMES:END -->
 
 ---
 
