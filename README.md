@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy S23 Plus cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-plus-cases-3273405/)
- - [14-inch MacBook Pro review: A true spec bump to an existing powerhouse](https://appleinsider.com/articles/23/02/03/14-inch-macbook-pro-review-a-true-spec-bump-to-an-existing-powerhouse?utm_medium=rss)
- - [Neko Health, founded by Daniel Ek and Watty founder Hjalmar Nilsonne, comes out of stealth, and says it is developing an AI-powered full body scanner &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230203/p15#a230203p15)<!-- TECH:END -->
+ - [Elon Musk says Twitter will start sharing revenue from reply-thread ads with creators who are subscribed to Twitter Blue Verified, but doesn&#39;t share any details &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230203/p18#a230203p18)
+ - [Google invested $300 million in AI firm founded by former OpenAI researchers](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)
+ - [Who predicted Apple&#39;s Christmas quarter right &amp; who was wrong?](https://appleinsider.com/articles/23/02/03/who-predicted-apples-christmas-quarter-right-who-was-wrong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
