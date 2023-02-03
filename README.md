@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The World&#39;s Biggest Airplane, Destroyed In Ukraine, Is Coming To Flight Simulator](https://kotaku.com/antonov-an-225-mriya-flight-simulator-ukraine-war-1850067770)
- - [Sims 4 trans-inclusive update faces culture war backlash in record time](https://www.pcgamer.com/sims-4-trans-inclusive-update-faces-culture-war-backlash-in-record-time)
- - [Back 4 Blood won&#39;t get any more new content as Turtle Rock pivots to an all-new game](https://www.pcgamer.com/back-4-blood-wont-get-any-more-new-content-as-turtle-rock-pivots-to-an-all-new-game)<!-- GAME:END -->
+ - [The Story Of Nintendo&#39;s Favorite Football Team](https://kotaku.com/the-story-of-nintendos-favorite-football-team-1850057687)
+ - [Hi-Fi Rush review](https://www.pcgamer.com/hi-fi-rush-review)
+ - [The Last of Us star Nick Offerman swore off videogames forever after becoming obsessed with this Nintendo 64 game](https://www.pcgamer.com/the-last-of-us-star-nick-offerman-swore-off-videogames-forever-after-becoming-obsessed-with-this-nintendo-64-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
