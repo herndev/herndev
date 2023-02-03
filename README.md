@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Eagle-eyed gamer spots Starfield feature hiding in plain sight](https://www.pcgamer.com/eagle-eyed-gamer-spots-starfield-feature-hiding-in-plain-sight)
  - [Wordle hint and answer today: Let&#39;s solve #594, February 3](https://www.pcgamer.com/wordle-hint-answer-today-594-february-3)
- - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)
- - [Razer&#39;s new gaming mouse is its lightest ever](https://www.pcgamer.com/razers-new-gaming-mouse-is-its-lightest-ever)<!-- GAME:END -->
+ - [Two years after launch, live-service dodgeball game Knockout City is shutting down](https://www.pcgamer.com/two-years-after-launch-live-service-dodgeball-game-knockout-city-is-shutting-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
