@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Season: A Letter To The Future - The Kotaku Review](https://kotaku.com/season-a-letter-to-the-future-ps5-steam-pc-game-review-1850069978)
- - [Nier: Automata’s Yoko Taro made a new 15-minute music video based on the game](https://www.polygon.com/2023/2/3/23584391/nier-automata-yoko-taro-anime-puppet-show-music-video)
- - [Next Week on Xbox: New Games for February 6 to 10](https://news.xbox.com/en-us/2023/02/03/next-week-on-xbox-new-games-for-february-6-to-10/)<!-- GAME:END -->
+ - [Elgato Stream Deck + or Loupedeck Live S? Here&#39;s our streaming gadget pick](https://www.pcgamer.com/elgato-stream-deck-versus-loupedeck-live-s)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [Dwarf Fortress&#39; next update grants even more ways to torment your minions](https://www.pcgamer.com/dwarf-fortress-next-update-grants-even-more-ways-to-torment-your-minions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
