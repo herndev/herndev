@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weapon art is too OP](http://9gag.com/gag/aPgZgXQ)
- - ⏩ [Anyone knows what the 2 is supposed to represent?](http://9gag.com/gag/aME44D1)
- - 👉 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)<!-- MEMES:END -->
+ - 💣 [Thievery will not be tolerated](http://9gag.com/gag/aME4BDx)
+ - ⏩ [Terrible idea all around](http://9gag.com/gag/aYVrEvm)
+ - 👉 [The Kiffness made it again](http://9gag.com/gag/a04ZVxn)<!-- MEMES:END -->
 
 ---
 
