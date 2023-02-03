@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget Sarah Wilson](http://9gag.com/gag/aBdnd4N)
- - ⏩ [Time to confess](http://9gag.com/gag/aXnrrwg)
- - 👉 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)<!-- MEMES:END -->
+ - 💣 [OMG!!! Thank God for that man warning everyone!](http://9gag.com/gag/aWGgpWd)
+ - ⏩ [How to not simp 101](http://9gag.com/gag/aXnrnZD)
+ - 👉 [Oh no, oh no, oh no no no](http://9gag.com/gag/a8q16XQ)<!-- MEMES:END -->
 
 ---
 
