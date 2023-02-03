@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d start b*tchslapping](http://9gag.com/gag/avQA5jO)
- - ⏩ [Father, Punisher of the Disobedient](http://9gag.com/gag/a7q1O5m)
- - 👉 [The US is currently tracking a massive Chinese spy balloon flying in the stratosphere above US mainland &lpar;pictured below&rpar; and waiting for the right moment to shoot it down. It&#39;s so big that the public can see it from the ground. I kid you not, check any US media.](http://9gag.com/gag/aKEmAg6)<!-- MEMES:END -->
+ - 💣 [Nightmare fuel](http://9gag.com/gag/anzgnZV)
+ - ⏩ [The US is currently tracking a massive Chinese spy balloon flying in the stratosphere above US mainland &lpar;pictured below&rpar; and waiting for the right moment to shoot it down. It&#39;s so big that the public can see it from the ground. I kid you not, check any US media.](http://9gag.com/gag/aKEmAg6)
+ - 👉 [What could go wrong?](http://9gag.com/gag/a9q11qW)<!-- MEMES:END -->
 
 ---
 
