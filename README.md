@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is getting ready to take on ChatGPT, announces Feb. 8 Search event](https://www.androidauthority.com/google-search-ai-event-3275765/)
- - [Apple removes decentralized social networking app Damus from China App Store, two days after debut, per CAC&#39;s demand as it includes content &quot;illegal in China&quot; &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230202/p47#a230202p47)
- - [YouTube Shorts has surpassed 50B daily views, up from 30B in April 2022; YouTube began sharing ad revenue with Shorts creators starting February 1 &lpar;Thomas Maxwell/Insider&rpar;](http://www.techmeme.com/230202/p46#a230202p46)<!-- TECH:END -->
+ - [Bitcoin miner Marathon Digital sold 1,500 BTC in January, amid a rallying crypto market, to cover some of its expenses; Marathon still holds 11,418 BTC &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230203/p1#a230203p1)
+ - [Google has rolled out a fix for the Pixel Buds A-Series pairing bug](https://www.androidauthority.com/google-pixel-buds-a-series-pairing-bug-fix-3274607/)
+ - [Best Samsung Galaxy Z Flip 4 Cases in 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
