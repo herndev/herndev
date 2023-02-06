@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India announces that it &quot;has started the process to ban&quot; 138 betting and 94 loan lending apps, &quot;which reportedly have Chinese links&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230205/p8#a230205p8)
- - [The 2023 Grammy Awards Just Finished: Here&#39;s the Full List of Winners     - CNET](https://www.cnet.com/culture/entertainment/the-2023-grammy-awards-just-finished-heres-the-full-list-of-winners/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 4 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-4-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say AI could help improve relatively simple and targeted tech in mental health care, including telemedicine, telephone hotlines, and clinician training &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/230206/p1#a230206p1)
+ - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)
+ - [India&#39;s Ministry of Electronics and Information Technology starts &quot;the process to ban&quot; 138 betting and 94 loan lending apps that &quot;reportedly have Chinese links&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230205/p8#a230205p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
