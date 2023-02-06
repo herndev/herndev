@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say AI could help improve relatively simple and targeted tech in mental health care, including telemedicine, telephone hotlines, and clinician training &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/230206/p1#a230206p1)
- - [The Best Order to Watch &#39;Kaleidoscope&#39; on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-order-to-watch-kaleidoscope-on-netflix/#ftag=CAD590a51e)
- - [India&#39;s Ministry of Electronics and Information Technology starts &quot;the process to ban&quot; 138 betting and 94 loan lending apps that &quot;reportedly have Chinese links&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230205/p8#a230205p8)<!-- TECH:END -->
+ - [The Samsung Galaxy S23 series doesn’t support Seamless Updates](https://www.androidauthority.com/samsung-galaxy-s23-series-seamless-updates-3276559/)
+ - [Apple could soon challenge Samsung with its own ‘Ultra’ iPhone](https://www.androidauthority.com/apple-iphone-ultra-3276557/)
+ - [Experts say AI could help improve relatively simple and targeted tech in mental health care, including telemedicine, telephone hotlines, and clinician training &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/230206/p1#a230206p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
