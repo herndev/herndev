@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Myst&#39; is coming back to iPhone &amp; iPad for 30th anniversary](https://appleinsider.com/articles/23/02/03/myst-is-coming-back-to-iphone-ipad-for-30th-anniversary?utm_medium=rss)
- - [Internal messages: Twitter wants to charge brands $1,000 per month to keep their gold verification badges, plus $50 per month for each affiliated account &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230203/p25#a230203p25)
- - [Apple’s Crash Detection is flooding 911 dispatchers with false alarms](https://www.androidauthority.com/apple-crash-detection-2-3276203/)<!-- TECH:END -->
+ - [How to watch 2023 Grammys on iPhone, iPad, or Apple TV](https://appleinsider.com/articles/23/02/05/how-to-watch-the-2023-grammys-on-your-apple-devices?utm_medium=rss)
+ - [Elon Musk says Twitter &quot;will enable a light, write-only API for bots providing good content that is free&quot;, days after Twitter said free API access would end &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230205/p6#a230205p6)
+ - [A look at the Guillemot family&#39;s attempts to retain control of Ubisoft, which has hit setbacks that led to a stock plunge and made the company a takeover target &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/230205/p5#a230205p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
