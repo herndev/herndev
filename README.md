@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - ⏩ [Dune landscape](http://9gag.com/gag/avQAB2q)
+ - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
  - 👉 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 ---
