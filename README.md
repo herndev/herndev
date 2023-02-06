@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
- - ⏩ [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 👉 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)<!-- MEMES:END -->
+ - 💣 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)
+ - ⏩ [Kids are cruel](http://9gag.com/gag/aOxQGXv)
+ - 👉 [Huehuehue](http://9gag.com/gag/aBdn44z)<!-- MEMES:END -->
 
 ---
 
