@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [The Last of Us brought a fan-favorite game character to the show in a different way](https://www.polygon.com/23583008/last-us-who-sam-henry-hbo-episode)<!-- GAME:END -->
+ - [Who Are Kathleen And Perry In HBO’s The Last Of Us?](https://kotaku.com/the-last-of-us-kathleen-perry-hbo-kansas-city-episode-4-1850065319)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
