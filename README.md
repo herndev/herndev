@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Car Crashes Through Front Of Games Store, Trashes The Place](https://kotaku.com/game-store-ps1-car-crash-accident-3d0-missouri-joplin-1850076341)
- - [Five new Steam games you probably missed &lpar;February 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-6-2023)
- - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)<!-- GAME:END -->
+ - [Here&#39;s a detailed look at Tekken 8&#39;s new battle system](https://www.pcgamer.com/heres-a-detailed-look-at-tekken-8s-new-battle-system)
+ - [These GameCube keycaps are adorable and on sale](https://www.pcgamer.com/these-gamecube-keycaps-are-adorable-and-on-sale)
+ - [First ever Grammy award for videogame score goes to AC Valhalla: Dawn of Ragnarok composer](https://www.pcgamer.com/first-ever-grammy-award-for-videogame-score-goes-to-ac-valhalla-dawn-of-ragnarok-composer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
