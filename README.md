@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Scientific Investigation of &#39;The Last of Us&#39; Fungal Pandemic     - CNET](https://www.cnet.com/science/biology/features/a-scientific-investigation-of-the-last-of-us-fungal-pandemic/#ftag=CAD590a51e)
  - [How to watch 2023 Grammys on iPhone, iPad, or Apple TV](https://appleinsider.com/articles/23/02/05/how-to-watch-the-2023-grammys-on-your-apple-devices?utm_medium=rss)
- - [Netflix: The 50 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-movies-to-watch-this-evening/#ftag=CAD590a51e)
- - [More People Should Watch This Twisted Horror-Thriller on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-twisted-horror-thriller-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-movies-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
