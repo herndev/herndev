@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Since buying Twitter, Elon Musk says his workload has reached 120+ hours per week, leading to little sleep and growing back pain, as he runs multiple companies &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230206/p6#a230206p6)
- - [A profile of blockchain gaming pioneer Yat Siu, who founded Animoca Brands, valued at $5.9B in September 2022, as he copes with the crypto winter and regulators &lpar;Financial Times&rpar;](http://www.techmeme.com/230206/p5#a230206p5)
- - [Binance launches a free tool to help users calculate their tax obligations, supporting up to 100,000 transactions, available initially in Canada and France &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230206/p4#a230206p4)<!-- TECH:END -->
+ - [Google, Microsoft, and Amazon pursuing investments and deals with generative AI startups, incentivizing use of their cloud services, raises regulatory concerns &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230206/p8#a230206p8)
+ - [JD.com, China Mobile, and other Chinese retailers are discounting iPhone 14 models by over $100, an unusually steep price cut that suggests dwindling demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/230206/p7#a230206p7)
+ - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
