@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
- - ⏩ [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)
+ - 💣 [In the 1970s, archaeologists in Bulgaria unearthed a vast Copper Age necropolis from the 5th millennium BCE. Inside burial 43 they found the remains of a high status male with more gold than it was found in the entire rest of the world in that period.](http://9gag.com/gag/a5X12XE)
+ - ⏩ [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
  - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 ---
