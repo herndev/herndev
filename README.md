@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)
- - [Who Are Kathleen And Perry In HBO’s The Last Of Us?](https://kotaku.com/the-last-of-us-kathleen-perry-hbo-kansas-city-episode-4-1850065319)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [Fully voiced DLC-sized Fallout 4 mod adds 50 quests and a new ending](https://www.pcgamer.com/fully-voiced-dlc-sized-fallout-4-mod-adds-50-quests-and-a-new-ending)
+ - [FromSoftware drops a lengthy new interview about Armored Core 6](https://www.pcgamer.com/fromsoftware-drops-a-lengthy-new-interview-about-armored-core-6)
+ - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
