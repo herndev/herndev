@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hogwart Legacy so far been looking quite good](http://9gag.com/gag/aDYDq3G)
- - ⏩ [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - 👉 [How unfortunate](http://9gag.com/gag/aVbx4Qd)<!-- MEMES:END -->
+ - 💣 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - ⏩ [Dune landscape](http://9gag.com/gag/avQAB2q)
+ - 👉 [The horror of the builder, the horror even of the layman...](http://9gag.com/gag/az2evNp)<!-- MEMES:END -->
 
 ---
 
