@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
- - ⏩ [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - 💣 [Well well well..](http://9gag.com/gag/aBdnjY2)
+ - ⏩ [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
  - 👉 [What about leap years!?](http://9gag.com/gag/az2eBdm)<!-- MEMES:END -->
 
 ---
