@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney cuts an October 2022 episode of The Simpsons that referred to &quot;forced labor camps&quot; in China from Disney+ in Hong Kong, after a similar removal in 2021 &lpar;Chan Ho-him/Financial Times&rpar;](http://www.techmeme.com/230206/p12#a230206p12)
- - [Poco X5 Pro review: Upping the budget ante](https://www.androidauthority.com/poco-x5-pro-review-3266402/)
- - [a16z used all 15M of its UNI tokens to vote against a proposal to deploy Uniswap V3 on the BNB Chain using the Wormhole bridge; voting concludes on February 10 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230206/p11#a230206p11)<!-- TECH:END -->
+ - [A look at the Four Horsemen of the Tech Recession: a hangover from pandemic-era growth, hardware lifecycles, the end of zero interest rates, and Apple&#39;s ATT &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230206/p14#a230206p14)
+ - [Daily Deals Feb. 6: 30% off Apple Pencil 2, $600 off 16-inch MacBook Pro, AirPods Pro 2 for $199 &amp; more](https://appleinsider.com/articles/23/02/06/daily-deals-feb-6-30-off-apple-pencil-2-600-off-16-inch-macbook-pro-airpods-pro-2-for-200-more?utm_medium=rss)
+ - [Samsung executive Raju Pullan says the company has started making its Galaxy Fold, Flip, and S23 smartphones in India, seeking to surpass Xiaomi in the market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230206/p13#a230206p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
