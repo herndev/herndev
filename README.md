@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save big money right now on a Google Pixel 7 or Pixel 7 Pro, no strings attached](https://www.androidauthority.com/google-pixel-7-deal-feb-2023-3276754/)
- - [The best Android emulators for PC and Mac of 2023](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
- - [My Cats Love These Tricky Sliding Puzzle Boxes](https://www.wired.com/story/cat-amazing-treat-puzzle-rave/)<!-- TECH:END -->
+ - [Apple reportedly still working on iPhone reverse charge feature](https://appleinsider.com/articles/23/02/06/apple-reportedly-still-working-on-iphone-reverse-charge-feature?utm_medium=rss)
+ - [OLED allegedly coming to iPad in 2024, MacBook Pro in 2026](https://appleinsider.com/articles/23/02/06/oled-allegedly-coming-to-ipad-in-2024-macbook-pro-in-2026?utm_medium=rss)
+ - [How to stream the Super Bowl in 2023](https://www.androidauthority.com/how-to-stream-the-super-bowl-3276712/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
