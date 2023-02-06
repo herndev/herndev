@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Logan Paul Slapped With Class-Action Lawsuit Over NFT &#39;Game&#39;](https://kotaku.com/youtube-logan-paul-cryptozoo-nft-lawsuit-scam-fraud-1850072693)
- - [How to make the Dead Space remake less scary](https://www.polygon.com/guides/23585108/is-dead-space-scary-remake-jump-scares)
- - [The world&#39;s biggest plane, destroyed in Ukraine, will fly again in Microsoft Flight Simulator](https://www.pcgamer.com/the-worlds-biggest-plane-destroyed-in-ukraine-will-fly-again-in-microsoft-flight-simulator)<!-- GAME:END -->
+ - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)
+ - [As More Games Disappear Forever, John Carmack Has Some Great Advice About Preservation](https://kotaku.com/vr-meta-facebook-carmack-shutdown-failure-close-echo-1850076140)
+ - [Activision Blizzard will pay a $35M fine to the SEC](https://www.pcgamer.com/activision-blizzard-will-pay-a-dollar35m-fine-to-the-sec)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
