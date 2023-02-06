@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okay, this is funny lol](http://9gag.com/gag/aL1vWGA)
- - ⏩ [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)
- - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 💣 [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
+ - ⏩ [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - 👉 [What about leap years!?](http://9gag.com/gag/az2eBdm)<!-- MEMES:END -->
 
 ---
 
