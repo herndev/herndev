@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the 1970s, archaeologists in Bulgaria unearthed a vast Copper Age necropolis from the 5th millennium BCE. Inside burial 43 they found the remains of a high status male with more gold than it was found in the entire rest of the world in that period.](http://9gag.com/gag/a5X12XE)
- - ⏩ [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
- - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/aDYDXpN)
+ - ⏩ [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 👉 [Journalism](http://9gag.com/gag/a2K1Oee)<!-- MEMES:END -->
 
 ---
 
