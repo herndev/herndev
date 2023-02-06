@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feels great, thanks doc\u2026wait!](http://9gag.com/gag/a7q1Opm)
- - ⏩ [Made in abyss is a must watch](http://9gag.com/gag/aXnrP9D)
- - 👉 [Pro strong man grip vs. Pro rock climber grip](http://9gag.com/gag/a6q153A)<!-- MEMES:END -->
+ - 💣 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
+ - ⏩ [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
+ - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 ---
 
