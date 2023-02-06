@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)
- - [As More Games Disappear Forever, John Carmack Has Some Great Advice About Preservation](https://kotaku.com/vr-meta-facebook-carmack-shutdown-failure-close-echo-1850076140)
- - [Activision Blizzard will pay a $35M fine to the SEC](https://www.pcgamer.com/activision-blizzard-will-pay-a-dollar35m-fine-to-the-sec)<!-- GAME:END -->
+ - [Car Crashes Through Front Of Games Store, Trashes The Place](https://kotaku.com/game-store-ps1-car-crash-accident-3d0-missouri-joplin-1850076341)
+ - [Five new Steam games you probably missed &lpar;February 6, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-6-2023)
+ - [This adorable, Wind Waker-inspired platformer casts you as a friendly delivery witch](https://www.pcgamer.com/this-adorable-wind-waker-inspired-platformer-casts-you-as-a-friendly-delivery-witch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
