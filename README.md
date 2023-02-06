@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z used all 15M of its UNI tokens to vote against a proposal to deploy Uniswap V3 on the BNB Chain using the Wormhole bridge; voting concludes on February 10 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230206/p11#a230206p11)
- - [Analysis: despite Elon Musk&#39;s pledge in late November, CSAM still spreads on Twitter, sometimes recommended by its algorithm; one video drew over 120,000 views &lpar;New York Times&rpar;](http://www.techmeme.com/230206/p10#a230206p10)
- - [A profile of Sam Bankman-Fried&#39;s psychiatrist Dr. George Lerner, hired as a coach at FTX in early 2022, as prosecutors seek his communications with executives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230206/p9#a230206p9)<!-- TECH:END -->
+ - [Disney cuts an October 2022 episode of The Simpsons that referred to &quot;forced labor camps&quot; in China from Disney+ in Hong Kong, after a similar removal in 2021 &lpar;Chan Ho-him/Financial Times&rpar;](http://www.techmeme.com/230206/p12#a230206p12)
+ - [Poco X5 Pro review: Upping the budget ante](https://www.androidauthority.com/poco-x5-pro-review-3266402/)
+ - [a16z used all 15M of its UNI tokens to vote against a proposal to deploy Uniswap V3 on the BNB Chain using the Wormhole bridge; voting concludes on February 10 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230206/p11#a230206p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
