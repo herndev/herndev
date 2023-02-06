@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jupiter Leapfrogs Saturn to Take Crown for Most Moons in Solar System     - CNET](https://www.cnet.com/science/space/jupiter-leapfrogs-saturn-to-take-crown-for-most-moons-in-solar-system/#ftag=CAD590a51e)
- - [Wordle Tips: More People Need to Try This Winning Starter Word     - CNET](https://www.cnet.com/culture/internet/wordle-tips-more-people-need-to-try-this-winning-starter-word/#ftag=CAD590a51e)
- - [Virginia-based ShiftMed, a labor marketplace for flexible nursing jobs, raised $200M led by Panoramic Ventures and says 350K+ nurses and aides use its app &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230206/p18#a230206p18)<!-- TECH:END -->
+ - [Microsoft announces an in-person press event at its Redmond HQ on February 7 at 10am PT, expected to focus mainly on its OpenAI partnership and ChatGPT for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230206/p20#a230206p20)
+ - [Audio-Technica ATR2100X-USB review: first class economy microphone](https://appleinsider.com/articles/23/02/06/audio-technica-atr2100x-usb-review-first-class-economy-microphone?utm_medium=rss)
+ - [Google will fight ChatGPT with ‘Bard,’ a similar AI-powered bot](https://www.androidauthority.com/google-bard-3276866/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
