@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to import your Hogwarts house and wand into Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-import-house-wand)
- - [How to change your character&#39;s look in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-how-to-change-appearance)
- - [The Day Before trainwreck continues with accusations it&#39;s copied other game trailers](https://www.pcgamer.com/the-day-before-trainwreck-continues-with-accusations-its-copied-other-game-trailers)<!-- GAME:END -->
+ - [How PC Game Pass Is Empowering 4 New ID@Xbox Games](https://news.xbox.com/en-us/2023/02/06/id-xbox-pc-game-pass-empowering/)
+ - [Saturday Night Live imagines a grimdark HBO Mario Kart with Pedro Pascal](https://www.polygon.com/23587474/saturday-night-live-snl-mario-kart-the-last-of-us-pedro-pascal)
+ - [Hogwarts Legacy review roundup: &#39;the Harry Potter RPG I’ve always wanted to play&#39;](https://www.pcgamer.com/hogwarts-legacy-review-roundup-the-harry-potter-rpg-ive-always-wanted-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
