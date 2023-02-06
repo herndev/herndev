@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was fast](http://9gag.com/gag/ap9gV8p)
- - ⏩ [Kids are cruel](http://9gag.com/gag/aOxQGXv)
- - 👉 [Huehuehue](http://9gag.com/gag/aBdn44z)<!-- MEMES:END -->
+ - 💣 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)
+ - ⏩ [Leo spotted with new 19 year old girlfriend. He&#39;s good for another six years!](http://9gag.com/gag/az2eY8j)
+ - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 ---
 
