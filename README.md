@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How PC Game Pass Is Empowering 4 New ID@Xbox Games](https://news.xbox.com/en-us/2023/02/06/id-xbox-pc-game-pass-empowering/)
- - [Saturday Night Live imagines a grimdark HBO Mario Kart with Pedro Pascal](https://www.polygon.com/23587474/saturday-night-live-snl-mario-kart-the-last-of-us-pedro-pascal)
- - [Hogwarts Legacy review roundup: &#39;the Harry Potter RPG I’ve always wanted to play&#39;](https://www.pcgamer.com/hogwarts-legacy-review-roundup-the-harry-potter-rpg-ive-always-wanted-to-play)<!-- GAME:END -->
+ - [GoldenEye 007 marked a massive change in the course of game design](https://www.polygon.com/23585033/goldeneye-007-xbox-series-x-nintendo-switch-online-best-fps)
+ - [How to open locked doors in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-locked-doors-alohomora)
+ - [Put a name to the real artwork behind AI art with this algorithmically smart tool](https://www.pcgamer.com/put-a-name-to-the-real-artwork-behind-ai-art-with-this-algorithmically-smart-tool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
