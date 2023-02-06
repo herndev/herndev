@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fully voiced DLC-sized Fallout 4 mod adds 50 quests and a new ending](https://www.pcgamer.com/fully-voiced-dlc-sized-fallout-4-mod-adds-50-quests-and-a-new-ending)
- - [FromSoftware drops a lengthy new interview about Armored Core 6](https://www.pcgamer.com/fromsoftware-drops-a-lengthy-new-interview-about-armored-core-6)
- - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Wins Grammy, Presenter Absolutely Butchers The Pronunciation](https://kotaku.com/grammy-grammys-video-game-score-soundtrack-valhalla-1850076648)
+ - [This turn-based deconstruction of the fighting game is blowing minds](https://www.pcgamer.com/this-turn-based-deconstruction-of-the-fighting-game-is-blowing-minds)
+ - [Fully voiced DLC-sized Fallout 4 mod adds 50 quests and a new ending](https://www.pcgamer.com/fully-voiced-dlc-sized-fallout-4-mod-adds-50-quests-and-a-new-ending)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
