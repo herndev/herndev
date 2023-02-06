@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next generation of Blade comics has big Buffy vibes](https://www.polygon.com/2023/2/6/23583460/marvel-blade-daughter)
- - [Humble Bundle is offering a literal dragon’s hoard of Pathfinder books for just $5](https://www.polygon.com/tabletop-games/2023/2/6/23587631/humble-bundle-pathfinder-ttrpg-tabletop-dnd-deal-sale)
- - [You&#39;ve got 7 days to get through 900 game demos in the latest Steam Next Fest](https://www.pcgamer.com/youve-got-7-days-to-get-through-900-game-demos-in-the-latest-steam-next-fest)<!-- GAME:END -->
+ - [Dr Disrespect&#39;s Deadrop is moving to &#39;less frequent but much larger&#39; updates](https://www.pcgamer.com/dr-disrespects-deadrop-is-moving-to-less-frequent-but-much-larger-updates)
+ - [What To Expect From Xbox In 2023](https://kotaku.com/xbox-games-2023-starfield-minecraft-legends-redfall-1850079587)
+ - [The next generation of Blade comics has big Buffy vibes](https://www.polygon.com/2023/2/6/23583460/marvel-blade-daughter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
