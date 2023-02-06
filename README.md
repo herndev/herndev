@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aDYDXpN)
- - ⏩ [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - 👉 [Journalism](http://9gag.com/gag/a2K1Oee)<!-- MEMES:END -->
+ - 💣 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - ⏩ [Adult male zebra tries to drown a young foal who is not his offspring](http://9gag.com/gag/anzgEqE)
+ - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 ---
 
