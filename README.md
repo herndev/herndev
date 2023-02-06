@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - ⏩ [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)
- - 👉 [Well well well..](http://9gag.com/gag/aBdnjY2)<!-- MEMES:END -->
+ - 💣 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - ⏩ [Extwa kwispy](http://9gag.com/gag/amAgnr4)
+ - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 ---
 
