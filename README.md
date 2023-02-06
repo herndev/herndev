@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sound check](http://9gag.com/gag/anzg0jL)
- - ⏩ [Well well well..](http://9gag.com/gag/aBdnjY2)
- - 👉 [Michael Scott in Mass Effect](http://9gag.com/gag/a8q1v7O)<!-- MEMES:END -->
+ - 💣 [Dune landscape](http://9gag.com/gag/avQAB2q)
+ - ⏩ [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 ---
 
