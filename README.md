@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Microsoft, and Amazon pursuing investments and deals with generative AI startups, incentivizing use of their cloud services, raises regulatory concerns &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230206/p8#a230206p8)
- - [JD.com, China Mobile, and other Chinese retailers are discounting iPhone 14 models by over $100, an unusually steep price cut that suggests dwindling demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/230206/p7#a230206p7)
- - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)<!-- TECH:END -->
+ - [a16z used all 15M of its UNI tokens to vote against a proposal to deploy Uniswap V3 on the BNB Chain using the Wormhole bridge; voting concludes on February 10 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230206/p11#a230206p11)
+ - [Analysis: despite Elon Musk&#39;s pledge in late November, CSAM still spreads on Twitter, sometimes recommended by its algorithm; one video drew over 120,000 views &lpar;New York Times&rpar;](http://www.techmeme.com/230206/p10#a230206p10)
+ - [A profile of Sam Bankman-Fried&#39;s psychiatrist Dr. George Lerner, hired as a coach at FTX in early 2022, as prosecutors seek his communications with executives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230206/p9#a230206p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
