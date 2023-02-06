@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GoldenEye 007 marked a massive change in the course of game design](https://www.polygon.com/23585033/goldeneye-007-xbox-series-x-nintendo-switch-online-best-fps)
- - [How to open locked doors in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-locked-doors-alohomora)
- - [Put a name to the real artwork behind AI art with this algorithmically smart tool](https://www.pcgamer.com/put-a-name-to-the-real-artwork-behind-ai-art-with-this-algorithmically-smart-tool)<!-- GAME:END -->
+ - [EU officially opposes Microsoft-Activision deal, with UK expected to follow](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [John Carmack goes off about online-only games being abandoned: &#39;I believe in saving everything&#39;](https://www.pcgamer.com/john-carmack-goes-off-about-online-only-games-being-abandoned-i-believe-in-saving-everything)
+ - [We Played The Award-Winning Game Boy Game About Sex Work And Shame](https://kotaku.com/game-boy-color-hooker-queer-sex-work-1850077467)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
