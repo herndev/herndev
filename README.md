@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A 90-minute demo for immersive detective sim Shadows of Doubt has just landed](https://www.pcgamer.com/a-90-minute-demo-for-immersive-detective-sim-shadows-of-doubt-has-just-landed)
- - [Wordle hint and answer today: Let&#39;s solve #597, February 6](https://www.pcgamer.com/wordle-hint-answer-today-597-february-6)
- - [Assassin&#39;s Creed Wins Grammy, Presenter Absolutely Butchers The Pronunciation](https://kotaku.com/grammy-grammys-video-game-score-soundtrack-valhalla-1850076648)<!-- GAME:END -->
+ - [What time does Marvel Snap’s February 2023 season start?](https://www.polygon.com/guides/2023/2/6/23432806/marvel-snap-february-new-season-release-time)
+ - [Hogwarts Legacy review-in-progress: It&#39;d be a lot easier to dismiss Hogwarts Legacy if it weren&#39;t so good](https://www.pcgamer.com/hogwarts-legacy-review)
+ - [Boy, there sure is a lot of murderin&#39; in Hogwarts Legacy](https://www.pcgamer.com/boy-there-sure-is-a-lot-of-murderin-in-hogwarts-legacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
