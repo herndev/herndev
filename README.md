@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Four Horsemen of the Tech Recession: a hangover from pandemic-era growth, hardware lifecycles, the end of zero interest rates, and Apple&#39;s ATT &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230206/p14#a230206p14)
- - [Daily Deals Feb. 6: 30% off Apple Pencil 2, $600 off 16-inch MacBook Pro, AirPods Pro 2 for $199 &amp; more](https://appleinsider.com/articles/23/02/06/daily-deals-feb-6-30-off-apple-pencil-2-600-off-16-inch-macbook-pro-airpods-pro-2-for-200-more?utm_medium=rss)
- - [Samsung executive Raju Pullan says the company has started making its Galaxy Fold, Flip, and S23 smartphones in India, seeking to surpass Xiaomi in the market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230206/p13#a230206p13)<!-- TECH:END -->
+ - [Maximize your savings with the best tax software for 2023](https://appleinsider.com/inside/app-store/best/best-tax-software?utm_medium=rss)
+ - [Meta’s Gruesome Content Broke Him. Now He Wants It to Pay](https://www.wired.com/story/meta-kenya-lawsuit-outsourcing-content-moderation/)
+ - [4 Best Methods on how to reset your iPhone when you forgot your password](https://appleinsider.com/articles/23/02/06/4-best-methods-on-how-to-reset-your-iphone-when-you-forgot-your-password?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
