@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google &amp; Microsoft gearing up for AI chatbot market battle](https://appleinsider.com/articles/23/02/06/google-microsoft-gearing-up-for-ai-chatbot-market-battle?utm_medium=rss)
- - [Pakistan unblocks Wikipedia after three days; Prime Minister Shehbaz Sharif: the ban&#39;s unintended consequences over objectionable content outweigh its benefits &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230206/p22#a230206p22)
- - [How to mark all emails as read in Gmail](https://www.androidauthority.com/how-to-mark-all-as-read-gmail-3276831/)<!-- TECH:END -->
+ - [Pinterest reports Q4 revenue up 4% YoY to $877M, vs. $886.3M est., $17M net income, and global MAUs up 4% YoY to 450M; stock drops 10%+ on a weak Q1 forecast &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230206/p25#a230206p25)
+ - [Internal doc: ~180K US users were paying for Twitter subscriptions, including Blue, as of mid-January; the US number accounts for ~62% of subscribers globally &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230206/p24#a230206p24)
+ - [Beats Fit Pro getting three new colors soon](https://appleinsider.com/articles/23/02/06/beats-fit-pro-getting-three-new-colors-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
