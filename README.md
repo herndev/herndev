@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Laurent Richard and Sandrine Rigaud on their book Pegasus, how state actors misuse surveillance tech, spyware demand, what&#39;s next for NSO, and more &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230206/p3#a230206p3)
- - [Rivian is working on an e-bike](https://www.theverge.com/2023/2/6/23587382/rivian-electric-bike-confirmed)
- - [Daily Authority: 🧹 Spring clean that smart home](https://www.androidauthority.com/daily-authority-february-6-2023-3276560/)<!-- TECH:END -->
+ - [Since buying Twitter, Elon Musk says his workload has reached 120+ hours per week, leading to little sleep and growing back pain, as he runs multiple companies &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230206/p6#a230206p6)
+ - [A profile of blockchain gaming pioneer Yat Siu, who founded Animoca Brands, valued at $5.9B in September 2022, as he copes with the crypto winter and regulators &lpar;Financial Times&rpar;](http://www.techmeme.com/230206/p5#a230206p5)
+ - [Binance launches a free tool to help users calculate their tax obligations, supporting up to 100,000 transactions, available initially in Canada and France &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230206/p4#a230206p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
