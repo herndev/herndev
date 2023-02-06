@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a detailed look at Tekken 8&#39;s new battle system](https://www.pcgamer.com/heres-a-detailed-look-at-tekken-8s-new-battle-system)
- - [These GameCube keycaps are adorable and on sale](https://www.pcgamer.com/these-gamecube-keycaps-are-adorable-and-on-sale)
- - [First ever Grammy award for videogame score goes to AC Valhalla: Dawn of Ragnarok composer](https://www.pcgamer.com/first-ever-grammy-award-for-videogame-score-goes-to-ac-valhalla-dawn-of-ragnarok-composer)<!-- GAME:END -->
+ - [The Last of Us episode 5 will air early, out of the way of the Super Bowl](https://www.polygon.com/23585101/last-us-episode-5-release-super-bowl)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us brought a fan-favorite game character to the show in a different way](https://www.polygon.com/23583008/last-us-who-sam-henry-hbo-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
