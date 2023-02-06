@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)
+ - 💣 [That was fast](http://9gag.com/gag/ap9gV8p)
  - ⏩ [Kids are cruel](http://9gag.com/gag/aOxQGXv)
  - 👉 [Huehuehue](http://9gag.com/gag/aBdn44z)<!-- MEMES:END -->
 
