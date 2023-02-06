@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell plans to eliminate roughly 6,500+ jobs, or about 5% of its workforce, amid plunging PC sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230206/p2#a230206p2)
- - [The Samsung Galaxy S23 series doesn’t support Seamless Updates](https://www.androidauthority.com/samsung-galaxy-s23-series-seamless-updates-3276559/)
- - [Apple could soon challenge Samsung with its own ‘Ultra’ iPhone](https://www.androidauthority.com/apple-iphone-ultra-3276557/)<!-- TECH:END -->
+ - [Poll: Are you happy with your phone’s speakers?](https://www.androidauthority.com/phone-speakers-happy-poll-3276585/)
+ - [Dell plans to eliminate 6,500+ jobs, or about 5% of its workforce, amid plunging PC sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230206/p2#a230206p2)
+ - [The Samsung Galaxy S23 series doesn’t support Seamless Updates](https://www.androidauthority.com/samsung-galaxy-s23-series-seamless-updates-3276559/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
