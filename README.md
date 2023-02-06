@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
+ - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
  - ⏩ [Dune landscape](http://9gag.com/gag/avQAB2q)
- - 👉 [The horror of the builder, the horror even of the layman...](http://9gag.com/gag/az2evNp)<!-- MEMES:END -->
+ - 👉 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 ---
 
