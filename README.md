@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SBF Donated Millions to Politicians. Now FTX Wants That Money Back     - CNET](https://www.cnet.com/culture/sbf-donated-millions-to-politicians-now-ftx-wants-that-money-back/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 4 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-4-hit-hbo-max/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Episode 4 Recap: A Terrifying New Villain Takes the Stage     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-4-recap-a-terrifying-new-villain-takes-the-stage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India announces that it &quot;has started the process to ban&quot; 138 betting and 94 loan lending apps, &quot;which reportedly have Chinese links&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230205/p8#a230205p8)
+ - [The 2023 Grammy Awards Just Finished: Here&#39;s the Full List of Winners     - CNET](https://www.cnet.com/culture/entertainment/the-2023-grammy-awards-just-finished-heres-the-full-list-of-winners/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 4 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-4-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
