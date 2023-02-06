@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell plans to eliminate roughly 6,500+ jobs, or about 5% of its workforce, amid plunging PC sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230206/p2#a230206p2)
  - [The Samsung Galaxy S23 series doesn’t support Seamless Updates](https://www.androidauthority.com/samsung-galaxy-s23-series-seamless-updates-3276559/)
- - [Apple could soon challenge Samsung with its own ‘Ultra’ iPhone](https://www.androidauthority.com/apple-iphone-ultra-3276557/)
- - [Experts say AI could help improve relatively simple and targeted tech in mental health care, including telemedicine, telephone hotlines, and clinician training &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/230206/p1#a230206p1)<!-- TECH:END -->
+ - [Apple could soon challenge Samsung with its own ‘Ultra’ iPhone](https://www.androidauthority.com/apple-iphone-ultra-3276557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
