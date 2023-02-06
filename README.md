@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces an in-person press event at its Redmond HQ on February 7 at 10am PT, expected to focus mainly on its OpenAI partnership and ChatGPT for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230206/p20#a230206p20)
- - [Audio-Technica ATR2100X-USB review: first class economy microphone](https://appleinsider.com/articles/23/02/06/audio-technica-atr2100x-usb-review-first-class-economy-microphone?utm_medium=rss)
- - [Google will fight ChatGPT with ‘Bard,’ a similar AI-powered bot](https://www.androidauthority.com/google-bard-3276866/)<!-- TECH:END -->
+ - [Google &amp; Microsoft gearing up for AI chatbot market battle](https://appleinsider.com/articles/23/02/06/google-microsoft-gearing-up-for-ai-chatbot-market-battle?utm_medium=rss)
+ - [Pakistan unblocks Wikipedia after three days; Prime Minister Shehbaz Sharif: the ban&#39;s unintended consequences over objectionable content outweigh its benefits &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230206/p22#a230206p22)
+ - [How to mark all emails as read in Gmail](https://www.androidauthority.com/how-to-mark-all-as-read-gmail-3276831/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
