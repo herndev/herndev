@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One second before rescue.](http://9gag.com/gag/aA0GMBd)
- - ⏩ [The amount of hate the mainstream media gets\u2026 is NOT enough.](http://9gag.com/gag/az2e4wZ)
- - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
+ - 💣 [Kids are cruel](http://9gag.com/gag/aOxQGXv)
+ - ⏩ [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 👉 [They went home afterwords and ate their feelings.](http://9gag.com/gag/ap9gdgp)<!-- MEMES:END -->
 
 ---
 
