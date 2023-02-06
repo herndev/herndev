@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Safer Internet Day with Minecraft’s New Privacy-Themed Learning World and Safety Tips for Parents](https://news.xbox.com/en-us/2023/02/06/xbox-safer-internet-day-2023/)
- - [Twitch&#39;s Popular AI-Powered Seinfeld Show Gets Banned For Transphobia](https://kotaku.com/ai-seinfeld-twitch-ban-transphobia-chatgpt-dalle-jerry-1850077836)
- - [DC’s Injustice universe is back and colliding with the main DCU](https://www.polygon.com/23587679/dc-comics-superman-injustice-gods-among-us-comics)<!-- GAME:END -->
+ - [Overwatch 2 – Season 3 Lands February 7 with a New Control Map, Battle Pass, and More](https://news.xbox.com/en-us/2023/02/06/overwatch-2-season-3-lands-february-7-with-a-new-control-map-battle-pass-and-more/)
+ - [Overwatch 2’s New Season Event Transforms Doomfist Into One Punch Man](https://kotaku.com/one-punch-man-doomfist-skin-season-3-event-saitama-1850078252)
+ - [More people saw the secret Elden Ring ending where you have to do loads of weird stuff than the &#39;normal&#39; ending](https://www.pcgamer.com/more-people-saw-the-secret-elden-ring-ending-where-you-have-to-do-loads-of-weird-stuff-than-the-normal-ending)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
