@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 is about to make playing support easier, except for Mercy](https://www.pcgamer.com/overwatch-2-season-3-mercy-support-balance-patch)
- - [Overwatch 2 balance patch includes big changes for tanks, nerfs for Mercy](https://www.polygon.com/23588040/overwatch-2-season-3-balance-patch-tank-changes-mercy)
- - [Apex Legends is finally getting team deathmatch](https://www.pcgamer.com/apex-legends-is-finally-getting-team-deathmatch)<!-- GAME:END -->
+ - [The next generation of Blade comics has big Buffy vibes](https://www.polygon.com/2023/2/6/23583460/marvel-blade-daughter)
+ - [Humble Bundle is offering a literal dragon’s hoard of Pathfinder books for just $5](https://www.polygon.com/tabletop-games/2023/2/6/23587631/humble-bundle-pathfinder-ttrpg-tabletop-dnd-deal-sale)
+ - [You&#39;ve got 7 days to get through 900 game demos in the latest Steam Next Fest](https://www.pcgamer.com/youve-got-7-days-to-get-through-900-game-demos-in-the-latest-steam-next-fest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
