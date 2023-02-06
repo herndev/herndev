@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
- - ⏩ [What about leap years!?](http://9gag.com/gag/az2eBdm)
- - 👉 [Standing proud.. must be cold draft. ...](http://9gag.com/gag/aEq8XKx)<!-- MEMES:END -->
+ - 💣 [Michael Scott in Mass Effect](http://9gag.com/gag/a8q1v7O)
+ - ⏩ [His reform was successful.](http://9gag.com/gag/agog6E1)
+ - 👉 [Well well well..](http://9gag.com/gag/aBdnjY2)<!-- MEMES:END -->
 
 ---
 
