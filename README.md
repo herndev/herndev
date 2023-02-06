@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hawkeye Never Misses His Shot](http://9gag.com/gag/aVbxBDd)
- - ⏩ [Extwa kwispy](http://9gag.com/gag/amAgnr4)
- - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - ⏩ [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - 👉 [Just a man and his Capybara hanging out...](http://9gag.com/gag/ajVgM40)<!-- MEMES:END -->
 
 ---
 
