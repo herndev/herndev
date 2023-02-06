@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EU officially opposes Microsoft-Activision deal, with UK expected to follow](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [John Carmack goes off about online-only games being abandoned: &#39;I believe in saving everything&#39;](https://www.pcgamer.com/john-carmack-goes-off-about-online-only-games-being-abandoned-i-believe-in-saving-everything)
- - [We Played The Award-Winning Game Boy Game About Sex Work And Shame](https://kotaku.com/game-boy-color-hooker-queer-sex-work-1850077467)<!-- GAME:END -->
+ - [Xbox Celebrates Safer Internet Day with Minecraft’s New Privacy-Themed Learning World and Safety Tips for Parents](https://news.xbox.com/en-us/2023/02/06/xbox-safer-internet-day-2023/)
+ - [Twitch&#39;s Popular AI-Powered Seinfeld Show Gets Banned For Transphobia](https://kotaku.com/ai-seinfeld-twitch-ban-transphobia-chatgpt-dalle-jerry-1850077836)
+ - [DC’s Injustice universe is back and colliding with the main DCU](https://www.polygon.com/23587679/dc-comics-superman-injustice-gods-among-us-comics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
