@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A 90-minute demo for immersive detective sim Shadows of Doubt has just landed](https://www.pcgamer.com/a-90-minute-demo-for-immersive-detective-sim-shadows-of-doubt-has-just-landed)
  - [Wordle hint and answer today: Let&#39;s solve #597, February 6](https://www.pcgamer.com/wordle-hint-answer-today-597-february-6)
- - [Assassin&#39;s Creed Wins Grammy, Presenter Absolutely Butchers The Pronunciation](https://kotaku.com/grammy-grammys-video-game-score-soundtrack-valhalla-1850076648)
- - [This turn-based deconstruction of the fighting game is blowing minds](https://www.pcgamer.com/this-turn-based-deconstruction-of-the-fighting-game-is-blowing-minds)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Wins Grammy, Presenter Absolutely Butchers The Pronunciation](https://kotaku.com/grammy-grammys-video-game-score-soundtrack-valhalla-1850076648)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
