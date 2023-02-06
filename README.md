@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dune landscape](http://9gag.com/gag/avQAB2q)
- - ⏩ [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 💣 [Hogwart Legacy so far been looking quite good](http://9gag.com/gag/aDYDq3G)
+ - ⏩ [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - 👉 [How unfortunate](http://9gag.com/gag/aVbx4Qd)<!-- MEMES:END -->
 
 ---
 
