@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly still working on iPhone reverse charge feature](https://appleinsider.com/articles/23/02/06/apple-reportedly-still-working-on-iphone-reverse-charge-feature?utm_medium=rss)
- - [OLED allegedly coming to iPad in 2024, MacBook Pro in 2026](https://appleinsider.com/articles/23/02/06/oled-allegedly-coming-to-ipad-in-2024-macbook-pro-in-2026?utm_medium=rss)
- - [How to stream the Super Bowl in 2023](https://www.androidauthority.com/how-to-stream-the-super-bowl-3276712/)<!-- TECH:END -->
+ - [Jupiter Leapfrogs Saturn to Take Crown for Most Moons in Solar System     - CNET](https://www.cnet.com/science/space/jupiter-leapfrogs-saturn-to-take-crown-for-most-moons-in-solar-system/#ftag=CAD590a51e)
+ - [Wordle Tips: More People Need to Try This Winning Starter Word     - CNET](https://www.cnet.com/culture/internet/wordle-tips-more-people-need-to-try-this-winning-starter-word/#ftag=CAD590a51e)
+ - [Virginia-based ShiftMed, a labor marketplace for flexible nursing jobs, raised $200M led by Panoramic Ventures and says 350K+ nurses and aides use its app &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230206/p18#a230206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
