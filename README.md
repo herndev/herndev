@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you happy with your phone’s speakers?](https://www.androidauthority.com/phone-speakers-happy-poll-3276585/)
- - [Dell plans to eliminate 6,500+ jobs, or about 5% of its workforce, amid plunging PC sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230206/p2#a230206p2)
- - [The Samsung Galaxy S23 series doesn’t support Seamless Updates](https://www.androidauthority.com/samsung-galaxy-s23-series-seamless-updates-3276559/)<!-- TECH:END -->
+ - [Q&amp;A with Laurent Richard and Sandrine Rigaud on their book Pegasus, how state actors misuse surveillance tech, spyware demand, what&#39;s next for NSO, and more &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230206/p3#a230206p3)
+ - [Rivian is working on an e-bike](https://www.theverge.com/2023/2/6/23587382/rivian-electric-bike-confirmed)
+ - [Daily Authority: 🧹 Spring clean that smart home](https://www.androidauthority.com/daily-authority-february-6-2023-3276560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
