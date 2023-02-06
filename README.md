@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Michael Scott in Mass Effect](http://9gag.com/gag/a8q1v7O)
- - ⏩ [His reform was successful.](http://9gag.com/gag/agog6E1)
- - 👉 [Well well well..](http://9gag.com/gag/aBdnjY2)<!-- MEMES:END -->
+ - 💣 [Sound check](http://9gag.com/gag/anzg0jL)
+ - ⏩ [Well well well..](http://9gag.com/gag/aBdnjY2)
+ - 👉 [Michael Scott in Mass Effect](http://9gag.com/gag/a8q1v7O)<!-- MEMES:END -->
 
 ---
 
