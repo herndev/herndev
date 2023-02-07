@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #598: Tuesday, February 7](https://www.pcgamer.com/wordle-hint-answer-today-598-february-7)
  - [Tiny 11 lets you run Windows 11 on underpowered machines](https://www.pcgamer.com/tiny-11-lets-you-run-windows-11-on-underpowered-machines)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/06/this-weeks-deals-with-gold-and-spotlight-sale-261/)
- - [How to link your Harry Potter Fan Club and WB Games accounts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23587634/account-link-rewards-harry-potter-fan-club-wb-games-wizarding-world)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/06/this-weeks-deals-with-gold-and-spotlight-sale-261/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
