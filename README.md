@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - ⏩ [Extwa kwispy](http://9gag.com/gag/amAgnr4)
- - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
+ - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - ⏩ [Brazilians need to teach Los Angeles PD how to deal with a guy with a knife](http://9gag.com/gag/a9q1wym)
+ - 👉 [I am batman](http://9gag.com/gag/a2K1pND)<!-- MEMES:END -->
 
 ---
 
