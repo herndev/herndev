@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasia nearly sunk Disney animation, but Dumbo helped rescue it](https://www.polygon.com/23578363/disney-animated-classics-fantasia-dumbo)
- - [This choice-heavy Chinese FMV game about teens electrocuted for tech addiction feels like a cult classic](https://www.pcgamer.com/this-choice-heavy-chinese-fmv-game-about-teens-electrocuted-for-tech-addiction-feels-like-a-cult-classic)
- - [How to open the eye chests in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-how-to-open-eye-chests)<!-- GAME:END -->
+ - [Journey to Deep Space with the Stellar Shift Special Edition Wireless Controller](https://news.xbox.com/en-us/2023/02/07/stellar-shift-special-edition-wireless-controller-xbox/)
+ - [Bayonetta Origins trades bullets for spell books and puzzles in charming fashion](https://www.polygon.com/23588351/bayonetta-origins-cereza-lost-demon-nintendo-switch-release-date)
+ - [Finally, the mainstream managed a good videogame parody](https://www.pcgamer.com/finally-the-mainstream-managed-a-good-videogame-parody)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
