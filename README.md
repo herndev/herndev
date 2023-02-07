@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 7: 2 $100 Restaurant.com eGift cards for $20, 50% off Bose Frames sunglasses &amp; more](https://appleinsider.com/articles/23/02/07/daily-deals-feb-7-2-100-restaurantcom-egift-cards-for-20-50-off-bose-frames-sunglasses-more?utm_medium=rss)
- - [Google Unveils Bard, Its ChatGPT Rival for AI-Powered Conversation     - CNET](https://www.cnet.com/tech/computing/google-unveils-bard-its-chatgpt-rival-for-ai-powered-conversation/#ftag=CAD590a51e)
- - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 11 vs OnePlus 10T: Should you upgrade?](https://www.androidauthority.com/oneplus-11-vs-oneplus-10t-3276568/)
+ - [Apple highlights child protection for Safer Internet Day](https://appleinsider.com/articles/23/02/07/apple-highlights-child-protection-for-safer-internet-day?utm_medium=rss)
+ - [VW recalls nearly 21,000 ID.4s over faulty battery software](https://www.theverge.com/2023/2/7/23589260/vw-id4-recall-battery-software-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
