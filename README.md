@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For a small fortune you can buy a piece of PC graphics history](https://www.pcgamer.com/for-a-small-fortune-you-too-can-buy-a-piece-of-pc-gaming-graphics-history)
- - [Astronimo crash-lands into Steam Early Access soon](https://www.pcgamer.com/astronimo-crash-lands-into-steam-early-access-soon)
- - [Wordle hint and answer #598: Tuesday, February 7](https://www.pcgamer.com/wordle-hint-answer-today-598-february-7)<!-- GAME:END -->
+ - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)
+ - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)
+ - [Where to watch the Scream movies](https://www.polygon.com/23584953/watch-scream-movies-streaming-netflix-paramount-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
