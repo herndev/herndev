@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
- - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 👉 [Jonah Hill was offered the lowest amount possible &lpar;$60,000&rpar; for his role in The Wolf of Wall Street which he eagerly accepted just for the opportunity to work with legendary director Martin Scorsese. Leonardo Di Caprio pocketed $10,000,000.](http://9gag.com/gag/aqeGdRp)<!-- MEMES:END -->
+ - 💣 [Checked and true](http://9gag.com/gag/aRErdoA)
+ - ⏩ [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 👉 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
 
 ---
 
