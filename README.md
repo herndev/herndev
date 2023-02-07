@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Researchers discover way of layering graphene to mimic brain synapses](https://www.pcgamer.com/researchers-discover-way-of-layering-graphene-to-mimic-brain-synapses)
  - [Juggle enemies to hell with a grappling hook and mighty kick in this stylish FPS](https://www.pcgamer.com/juggle-enemies-to-hell-with-a-grappling-hook-and-mighty-kick-in-this-stylish-fps)
- - [One of the industry&#39;s more skeptical CEOs thinks AI tools will &#39;raise the bar&#39; for videogames](https://www.pcgamer.com/strauss-zelnick-ai-tools)
- - [The Art Of God of War Ragnarök](https://kotaku.com/god-of-war-ragnarok-concept-art-illustrations-making-of-1850068713)<!-- GAME:END -->
+ - [One of the industry&#39;s more skeptical CEOs thinks AI tools will &#39;raise the bar&#39; for videogames](https://www.pcgamer.com/strauss-zelnick-ai-tools)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
