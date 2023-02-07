@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - ⏩ [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
- - 👉 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
+ - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - ⏩ [Sound check](http://9gag.com/gag/anzg0jL)
+ - 👉 [Legend](http://9gag.com/gag/aBdnMVO)<!-- MEMES:END -->
 
 ---
 
