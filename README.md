@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - ⏩ [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
- - 👉 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)<!-- MEMES:END -->
+ - 💣 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - ⏩ [Gold medals](http://9gag.com/gag/agogd3w)
+ - 👉 [Damn grandpa](http://9gag.com/gag/a5X1gyO)<!-- MEMES:END -->
 
 ---
 
