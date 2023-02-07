@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MIcrosoft Outlook users suffered overnight outage, fixes rolling out](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)
- - [Future Apple Watch could have more uses both on and off wrist](https://appleinsider.com/articles/23/02/07/apple-working-on-how-to-make-apple-watch-have-more-uses-on-off-wrist?utm_medium=rss)
- - [Canada&#39;s Hut 8 Mining plans to merge with rival US Bitcoin Corp, creating a crypto mining giant in North America called Hut 8 Corp with a ~$990M market cap &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/230207/p15#a230207p15)<!-- TECH:END -->
+ - [If you need an instant vintage Apple collection, here&#39;s where to get it](https://appleinsider.com/articles/23/02/07/if-you-need-an-instant-vintage-apple-collection-heres-where-to-get-it?utm_medium=rss)
+ - [Mastodon reports having ~1.4M MAUs, down from over 2.5M in November 2022, as some newcomers complain the service is hard to use and others return to Twitter &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230207/p17#a230207p17)
+ - [Ignite a romantic Valentine&#39;s Day with big sales on Bluetti power stations &amp; solar panels](https://appleinsider.com/articles/23/02/07/ignite-a-romantic-valentines-day-with-big-sales-on-bluetti-power-stations-solar-panels?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
