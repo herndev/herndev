@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New HomePod parts are &#39;decently replaceable&#39; says YouTuber](https://appleinsider.com/articles/23/02/06/youtuber-says-homepod-2-parts-are-decently-replaceable?utm_medium=rss)
- - [Climate Crisis Greatly Impacts Mental Health in Hard-Hit Bangladesh     - CNET](https://www.cnet.com/science/climate/climate-crisis-greatly-impacts-mental-health-in-hard-hit-bangladesh/#ftag=CAD590a51e)
- - [Gemini will contribute up to $100M to Genesis&#39; bankruptcy recovery, mainly for its Earn users, who had ~$900M of assets frozen when Genesis paused withdrawals &lpar;CNBC&rpar;](http://www.techmeme.com/230206/p26#a230206p26)<!-- TECH:END -->
+ - [Earthquake Aftershocks May Rock Turkey and Syria for Months, Even Years](https://www.wired.com/story/aftershocks-may-rock-turkey-and-syria-for-months-even-years/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [New HomePod parts are &#39;decently replaceable&#39; says YouTuber](https://appleinsider.com/articles/23/02/06/youtuber-says-homepod-2-parts-are-decently-replaceable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
