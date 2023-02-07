@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro rumored to get 2,500-nit display panels from Samsung](https://appleinsider.com/articles/23/02/07/iphone-15-pro-rumored-to-get-2500-nit-display-panels-from-samsung?utm_medium=rss)
- - [Super Bowl LVII: how to watch the Kansas City Chiefs play the Philadelphia Eagles](https://www.theverge.com/23588292/super-bowl-lvii-how-to-watch-kansas-city-chiefs-philadelphia-eagles)
- - [Tuesday’s top tech news: a new AI-powered era for Microsoft Bing](https://www.theverge.com/2023/2/7/23589003/february-7-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Google bizarrely believes that iPhone photos can be fixed on a Pixel](https://appleinsider.com/articles/23/02/07/google-bizarrely-believes-that-iphone-photos-can-be-fixed-on-a-pixel?utm_medium=rss)
+ - [How to pin a comment on Instagram](https://www.androidauthority.com/how-to-pin-comment-ig-3280463/)
+ - [7 Best Valentine’s Day Sex Toy Deals &lpar;2023&rpar;: Vibrators and Suction Toys](https://www.wired.com/story/valentines-day-sex-toy-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
