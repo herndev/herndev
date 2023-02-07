@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Checked and true](http://9gag.com/gag/aRErdoA)
- - ⏩ [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - 👉 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
+ - 💣 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
+ - ⏩ [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
+ - 👉 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)<!-- MEMES:END -->
 
 ---
 
