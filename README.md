@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder rolls out incognito mode, a step up from fully hiding profiles, for Tinder+, Gold, and Premium users, profile blocking, and other safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230207/p3#a230207p3)
- - [The Snapdragon naming scheme could get complicated &lpar;again&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-naming-scheme-3277099/)
- - [Document: prosecutors and SBF&#39;s lawyers agree to let SBF use Zoom, email, WhatsApp with restrictions, and more, but not Signal and other ephemeral apps &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/230207/p2#a230207p2)<!-- TECH:END -->
+ - [A PlayStation Vita emulator for Android is launching in just a few days](https://www.androidauthority.com/vita3k-playstation-vita-emulator-android-3277131/)
+ - [Tuesday’s top tech news: a new era for Microsoft’s Bing](https://www.theverge.com/2023/2/7/23589003/february-7-2023-tech-news-liveblog)
+ - [SoftBank reports a Q3 loss of ~$5B for its Vision Fund, its fourth straight quarterly loss, and investments of less than $350M in only a few startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p4#a230207p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
