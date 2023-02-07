@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
- - ⏩ [Gold medals](http://9gag.com/gag/agogd3w)
- - 👉 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 💣 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)
+ - ⏩ [Journalism](http://9gag.com/gag/a2K1Oee)
+ - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 ---
 
