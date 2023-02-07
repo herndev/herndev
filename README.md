@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - ⏩ [What the f lady](http://9gag.com/gag/abvgLwv)
- - 👉 [Dune landscape](http://9gag.com/gag/avQAB2q)<!-- MEMES:END -->
+ - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - ⏩ [Gold medals](http://9gag.com/gag/agogd3w)
+ - 👉 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 ---
 
