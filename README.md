@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta plans to revamp Horizon Worlds, including opening the app to users aged 13-17, seeking to improve user retention as competition intensifies &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230207/p10#a230207p10)
- - [Nintendo cuts its full-year earnings and revenue outlook, including operating income from ~$3.8B to ~$3.6B, and revises Switch sales forecasts from ~19M to ~18M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p9#a230207p9)
- - [Daily Authority: 👀 OnePlus Pad Peek](https://www.androidauthority.com/daily-authority-february-7-2023-3276741/)<!-- TECH:END -->
+ - [A Bold Plan to Beam Solar Energy Down From Space](https://www.wired.com/story/a-bold-plan-to-beam-solar-energy-down-from-space/)
+ - [The Mastodon Bump Is Now a Slump](https://www.wired.com/story/the-mastodon-bump-is-now-a-slump/)
+ - [Outlook users can&#39;t send emails as Microsoft suffers overnight outage](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
