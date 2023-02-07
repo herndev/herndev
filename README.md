@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the f lady](http://9gag.com/gag/abvgLwv)
- - ⏩ [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 💣 [F**k around and find out](http://9gag.com/gag/anzg025)
+ - ⏩ [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
  - 👉 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)<!-- MEMES:END -->
 
 ---
