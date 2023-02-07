@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - ⏩ [In Antep, as rescue workers search for survivors in one building, another collapses.](http://9gag.com/gag/aNwPGAv)
- - 👉 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)<!-- MEMES:END -->
+ - 💣 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
+ - ⏩ [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
+ - 👉 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
 
 ---
 
