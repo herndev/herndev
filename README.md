@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - ⏩ [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
- - 👉 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)<!-- MEMES:END -->
+ - 💣 [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
+ - 👉 [Jonah Hill was offered the lowest amount possible &lpar;$60,000&rpar; for his role in The Wolf of Wall Street which he eagerly accepted just for the opportunity to work with legendary director Martin Scorsese. Leonardo Di Caprio pocketed $10,000,000.](http://9gag.com/gag/aqeGdRp)<!-- MEMES:END -->
 
 ---
 
