@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Bold Plan to Beam Solar Energy Down From Space](https://www.wired.com/story/a-bold-plan-to-beam-solar-energy-down-from-space/)
- - [The Mastodon Bump Is Now a Slump](https://www.wired.com/story/the-mastodon-bump-is-now-a-slump/)
- - [Outlook users can&#39;t send emails as Microsoft suffers overnight outage](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)<!-- TECH:END -->
+ - [MIcrosoft Outlook users suffered overnight outage, fixes rolling out](https://appleinsider.com/articles/23/02/07/outlook-users-cant-send-emails-as-microsoft-suffers-overnight-outage?utm_medium=rss)
+ - [Future Apple Watch could have more uses both on and off wrist](https://appleinsider.com/articles/23/02/07/apple-working-on-how-to-make-apple-watch-have-more-uses-on-off-wrist?utm_medium=rss)
+ - [Canada&#39;s Hut 8 Mining plans to merge with rival US Bitcoin Corp, creating a crypto mining giant in North America called Hut 8 Corp with a ~$990M market cap &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/230207/p15#a230207p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
