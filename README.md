@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)
- - ⏩ [D\u00f6g buries cat that got hit by a car](http://9gag.com/gag/aXnrG26)
+ - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - ⏩ [Monkey strike back at a tourist, who threw a bottle into his crib](http://9gag.com/gag/armn0Q5)
  - 👉 [Don&#39;t mess with the CEO of Road Rage.](http://9gag.com/gag/aEq8ZrN)<!-- MEMES:END -->
 
 ---
