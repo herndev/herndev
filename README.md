@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $150 on Apple&#39;s 2023 MacBook Pro 14-inch with upgraded M2 Pro chip, 1TB SSD](https://appleinsider.com/articles/23/02/07/save-150-on-apples-2023-macbook-pro-14-inch-with-upgraded-m2-pro-chip-1tb-ssd?utm_medium=rss)
- - [A live blog of Microsoft&#39;s press event, where more details on its OpenAI partnership and ChatGPT for Bing are expected &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230207/p23#a230207p23)
- - [How to Watch Google’s AI Search Event Live](https://www.wired.com/story/how-to-watch-google-ai-search-event-live-free/)<!-- TECH:END -->
+ - [iPhone 15 Pro rumored to get 2,500-nit display panels from Samsung](https://appleinsider.com/articles/23/02/07/iphone-15-pro-rumored-to-get-2500-nit-display-panels-from-samsung?utm_medium=rss)
+ - [Super Bowl LVII: how to watch the Kansas City Chiefs play the Philadelphia Eagles](https://www.theverge.com/23588292/super-bowl-lvii-how-to-watch-kansas-city-chiefs-philadelphia-eagles)
+ - [Tuesday’s top tech news: a new AI-powered era for Microsoft Bing](https://www.theverge.com/2023/2/7/23589003/february-7-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
