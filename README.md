@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - ⏩ [Brazilians need to teach Los Angeles PD how to deal with a guy with a knife](http://9gag.com/gag/a9q1wym)
- - 👉 [I am batman](http://9gag.com/gag/a2K1pND)<!-- MEMES:END -->
+ - 💣 [What the f lady](http://9gag.com/gag/abvgLwv)
+ - ⏩ [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 👉 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)<!-- MEMES:END -->
 
 ---
 
