@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will remove a feature that allowed users to play podcasts directly from the Google Search results on February 13, after launching it in 2019 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230207/p32#a230207p32)
- - [&#39;Grease: Rise of the Pink Ladies&#39; Trailer Introduces the Original Girl Gang     - CNET](https://www.cnet.com/culture/entertainment/grease-rise-of-the-pink-ladies-trailer-introduces-the-original-girl-gang/#ftag=CAD590a51e)
- - [Scientists Hunt Down Mysterious &#39;Invisible Galaxy&#39; From Early Universe     - CNET](https://www.cnet.com/science/space/scientists-hunt-down-mysterious-invisible-galaxy-from-early-universe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 tips for taking the best selfie: follow these steps for stunning results](https://www.androidauthority.com/tips-take-good-selfie-3277021/)
+ - [Source: Microsoft plans to release software to help large companies create and customize their own chatbots using ChatGPT technology later this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230207/p34#a230207p34)
+ - [The Samsung Galaxy S23 series has a Game Booster setting that lets a plugged-in phone bypass the battery to use power directly from the charger, reducing heat &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230207/p33#a230207p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
