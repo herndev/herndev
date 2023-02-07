@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
- - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
- - 👉 [Smart flotation device](http://9gag.com/gag/aDYDvo7)<!-- MEMES:END -->
+ - 💣 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
+ - ⏩ [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
+ - 👉 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
 
 ---
 
