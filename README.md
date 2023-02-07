@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Researchers discover way of layering graphene to mimic brain synapses](https://www.pcgamer.com/researchers-discover-way-of-layering-graphene-to-mimic-brain-synapses)
- - [Juggle enemies to hell with a grappling hook and mighty kick in this stylish FPS](https://www.pcgamer.com/juggle-enemies-to-hell-with-a-grappling-hook-and-mighty-kick-in-this-stylish-fps)
- - [One of the industry&#39;s more skeptical CEOs thinks AI tools will &#39;raise the bar&#39; for videogames](https://www.pcgamer.com/strauss-zelnick-ai-tools)<!-- GAME:END -->
+ - [How to link your Harry Potter Fan Club and WB Games accounts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23587634/account-link-rewards-harry-potter-fan-club-wb-games-wizarding-world)
+ - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)
+ - [NBA Star Is Releasing A Naruto-Themed Pair Of Jordans](https://kotaku.com/naruto-air-jordan-zion-williamson-nike-sneakers-kicks-1850081303)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
