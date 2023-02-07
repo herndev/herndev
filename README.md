@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
- - ⏩ [Sound check](http://9gag.com/gag/anzg0jL)
- - 👉 [Legend](http://9gag.com/gag/aBdnMVO)<!-- MEMES:END -->
+ - 💣 [Journalism](http://9gag.com/gag/a2K1Oee)
+ - ⏩ [Gold medals](http://9gag.com/gag/agogd3w)
+ - 👉 [15 mins of fame](http://9gag.com/gag/aNwPqQ0)<!-- MEMES:END -->
 
 ---
 
