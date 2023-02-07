@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search will start blurring explicit imagery by default soon](https://www.androidauthority.com/google-search-blur-3280353/)
- - [OnePlus just officially teased its first foldable phone &lpar;we think&rpar;](https://www.androidauthority.com/oneplus-foldable-teaser-3280364/)
- - [Mozilla is also developing a non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/07/mozilla-is-also-developing-a-non-webkit-browser-for-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Save $150 on Apple&#39;s 2023 MacBook Pro 14-inch with upgraded M2 Pro chip, 1TB SSD](https://appleinsider.com/articles/23/02/07/save-150-on-apples-2023-macbook-pro-14-inch-with-upgraded-m2-pro-chip-1tb-ssd?utm_medium=rss)
+ - [A live blog of Microsoft&#39;s press event, where more details on its OpenAI partnership and ChatGPT for Bing are expected &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230207/p23#a230207p23)
+ - [How to Watch Google’s AI Search Event Live](https://www.wired.com/story/how-to-watch-google-ai-search-event-live-free/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
