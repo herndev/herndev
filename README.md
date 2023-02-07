@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deliver Us Mars review](https://www.pcgamer.com/deliver-us-mars-review)
- - [YouTuber Puts The Office’s Michael Scott Into Mass Effect](https://kotaku.com/mass-effect-the-office-michael-scott-youtube-edit-funny-1850082689)
- - [Lord of the Rings comes to Lego with this massively detailed Rivendell set](https://www.polygon.com/23589343/lego-rivendell-lord-of-the-rings-release-date-price)<!-- GAME:END -->
+ - [How to unlock every spell in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-spells-guide)
+ - [Encanto is finally getting its moment in Disney Dreamlight Valley](https://www.pcgamer.com/encanto-is-finally-getting-its-moment-in-disney-dreamlight-valley)
+ - [Hogwarts Legacy Daedalian Key locations: Where to find each one](https://www.pcgamer.com/hogwarts-legacy-daedalian-keys-cabinets-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
