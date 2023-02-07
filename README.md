@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 vs OnePlus 10T: Should you upgrade?](https://www.androidauthority.com/oneplus-11-vs-oneplus-10t-3276568/)
- - [Apple highlights child protection for Safer Internet Day](https://appleinsider.com/articles/23/02/07/apple-highlights-child-protection-for-safer-internet-day?utm_medium=rss)
- - [VW recalls nearly 21,000 ID.4s over faulty battery software](https://www.theverge.com/2023/2/7/23589260/vw-id4-recall-battery-software-problems)<!-- TECH:END -->
+ - [Google Search will start blurring explicit imagery by default soon](https://www.androidauthority.com/google-search-blur-3280353/)
+ - [OnePlus just officially teased its first foldable phone &lpar;we think&rpar;](https://www.androidauthority.com/oneplus-foldable-teaser-3280364/)
+ - [Mozilla is also developing a non-WebKit browser for iOS](https://appleinsider.com/articles/23/02/07/mozilla-is-also-developing-a-non-webkit-browser-for-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
