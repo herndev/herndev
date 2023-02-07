@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet Bard, Google&#39;s Answer to ChatGPT](https://www.wired.com/story/meet-bard-googles-answer-to-chatgpt/)
- - [Sonos Era 100 &amp; Era 300 speakers coming soon](https://appleinsider.com/articles/23/02/06/sonos-era-100-era-300-speakers-coming-soon?utm_medium=rss)
- - [The Absolute Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-prime-video-to-see-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New HomePod parts are &#39;decently replaceable&#39; says YouTuber](https://appleinsider.com/articles/23/02/06/youtuber-says-homepod-2-parts-are-decently-replaceable?utm_medium=rss)
+ - [Climate Crisis Greatly Impacts Mental Health in Hard-Hit Bangladesh     - CNET](https://www.cnet.com/science/climate/climate-crisis-greatly-impacts-mental-health-in-hard-hit-bangladesh/#ftag=CAD590a51e)
+ - [Gemini will contribute up to $100M to Genesis&#39; bankruptcy recovery, mainly for its Earn users, who had ~$900M of assets frozen when Genesis paused withdrawals &lpar;CNBC&rpar;](http://www.techmeme.com/230206/p26#a230206p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
