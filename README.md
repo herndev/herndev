@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)
- - ⏩ [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
- - 👉 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)<!-- MEMES:END -->
+ - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - ⏩ [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - 👉 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)<!-- MEMES:END -->
 
 ---
 
