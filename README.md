@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - ⏩ [I am batman](http://9gag.com/gag/a2K1pND)
- - 👉 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
+ - 💣 [Megan is a keeper](http://9gag.com/gag/aME4DBA)
+ - ⏩ [Vacuum has laser to reveal floor particles](http://9gag.com/gag/aBdnz7x)
+ - 👉 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)<!-- MEMES:END -->
 
 ---
 
