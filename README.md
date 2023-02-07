@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you need an instant vintage Apple collection, here&#39;s where to get it](https://appleinsider.com/articles/23/02/07/if-you-need-an-instant-vintage-apple-collection-heres-where-to-get-it?utm_medium=rss)
- - [Mastodon reports having ~1.4M MAUs, down from over 2.5M in November 2022, as some newcomers complain the service is hard to use and others return to Twitter &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230207/p17#a230207p17)
- - [Ignite a romantic Valentine&#39;s Day with big sales on Bluetti power stations &amp; solar panels](https://appleinsider.com/articles/23/02/07/ignite-a-romantic-valentines-day-with-big-sales-on-bluetti-power-stations-solar-panels?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals Feb. 7: 2 $100 Restaurant.com eGift cards for $20, 50% off Bose Frames sunglasses &amp; more](https://appleinsider.com/articles/23/02/07/daily-deals-feb-7-2-100-restaurantcom-egift-cards-for-20-50-off-bose-frames-sunglasses-more?utm_medium=rss)
+ - [Google Unveils Bard, Its ChatGPT Rival for AI-Powered Conversation     - CNET](https://www.cnet.com/tech/computing/google-unveils-bard-its-chatgpt-rival-for-ai-powered-conversation/#ftag=CAD590a51e)
+ - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
