@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
- - ⏩ [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
- - 👉 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
+ - 💣 [Ha! Eat a Dick, Hollywood media](http://9gag.com/gag/aeQg8Yj)
+ - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 👉 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
 
 ---
 
