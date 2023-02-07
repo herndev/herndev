@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Super Bowl won&#39;t have any crypto ads this year as FTX and others back out after buying early; crypto companies bought around five spots for last year&#39;s game &lpar;John Ourand/Sports Business Journal&rpar;](http://www.techmeme.com/230206/p28#a230206p28)
  - [Twitter&#39;s iOS and Android apps now default to the timeline the user had open last, instead of the algorithmic feed, after a similar web update in January &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230206/p27#a230206p27)
- - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)
- - [Best Home Exercise Equipment for 2023     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
