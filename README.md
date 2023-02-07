@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If You Like HBO’s The Last Of Us, Here’s How To Catch Up On The Series](https://kotaku.com/the-last-of-us-tlou-ps4-ps5-how-to-play-games-comics-1850082367)
- - [Nintendo Announces 10 Percent Pay Raise For Devs Despite Lower Profits](https://kotaku.com/nintendo-switch-union-pay-raise-layoffs-pokemon-scarlet-1850082365)
- - [Get Ready For A Surprise 40 Minute Nintendo Direct](https://kotaku.com/nintendo-direct-livestream-date-how-to-stream-tears-1850082369)<!-- GAME:END -->
+ - [Deliver Us Mars review](https://www.pcgamer.com/deliver-us-mars-review)
+ - [YouTuber Puts The Office’s Michael Scott Into Mass Effect](https://kotaku.com/mass-effect-the-office-michael-scott-youtube-edit-funny-1850082689)
+ - [Lord of the Rings comes to Lego with this massively detailed Rivendell set](https://www.polygon.com/23589343/lego-rivendell-lord-of-the-rings-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
