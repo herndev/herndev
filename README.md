@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
- - 👉 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
+ - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - ⏩ [In Antep, as rescue workers search for survivors in one building, another collapses.](http://9gag.com/gag/aNwPGAv)
+ - 👉 [The building collapsed during the 7.8M earthquake in Malatya, Turkey.](http://9gag.com/gag/a5X1AWG)<!-- MEMES:END -->
 
 ---
 
