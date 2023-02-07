@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Journey to Deep Space with the Stellar Shift Special Edition Wireless Controller](https://news.xbox.com/en-us/2023/02/07/stellar-shift-special-edition-wireless-controller-xbox/)
- - [Bayonetta Origins trades bullets for spell books and puzzles in charming fashion](https://www.polygon.com/23588351/bayonetta-origins-cereza-lost-demon-nintendo-switch-release-date)
- - [Finally, the mainstream managed a good videogame parody](https://www.pcgamer.com/finally-the-mainstream-managed-a-good-videogame-parody)<!-- GAME:END -->
+ - [If You Like HBO’s The Last Of Us, Here’s How To Catch Up On The Series](https://kotaku.com/the-last-of-us-tlou-ps4-ps5-how-to-play-games-comics-1850082367)
+ - [Nintendo Announces 10 Percent Pay Raise For Devs Despite Lower Profits](https://kotaku.com/nintendo-switch-union-pay-raise-layoffs-pokemon-scarlet-1850082365)
+ - [Get Ready For A Surprise 40 Minute Nintendo Direct](https://kotaku.com/nintendo-direct-livestream-date-how-to-stream-tears-1850082369)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
