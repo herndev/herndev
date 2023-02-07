@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 users say the smartphone uses ~60GB of its storage for Android and pre-installed apps, four times more than the Google Pixel 7 Pro&#39;s ~15GB &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230206/p31#a230206p31)
- - [Hogwarts Legacy Rekindles That Harry Potter Magic     - CNET](https://www.cnet.com/tech/gaming/hogwarts-legacy-rekindles-that-harry-potter-magic/#ftag=CAD590a51e)
- - [Apple to hold first in-person AI summit in years](https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years?utm_medium=rss)<!-- TECH:END -->
+ - [The February 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
+ - [A look at Moscow&#39;s Safe City, an AI surveillance system with 217K connected cameras designed to catch criminals that is now seen as a tool of digital repression &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/230207/p1#a230207p1)
+ - [Samsung Galaxy S23 users say the smartphone uses ~60GB of its storage for Android and pre-installed apps, four times more than the Google Pixel 7 Pro&#39;s ~15GB &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230206/p31#a230206p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
