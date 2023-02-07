@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around and find out](http://9gag.com/gag/anzg025)
- - ⏩ [Dura lex sed lex](http://9gag.com/gag/ap9gz1B)
- - 👉 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)<!-- MEMES:END -->
+ - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - ⏩ [I am batman](http://9gag.com/gag/a2K1pND)
+ - 👉 [What the f lady](http://9gag.com/gag/abvgLwv)<!-- MEMES:END -->
 
 ---
 
