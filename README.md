@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pour One Out For Mercy Because Overwatch Just Nerfed Her Into The Ground](https://kotaku.com/mercy-overwatch-2-nerf-guardian-angel-movement-support-1850080024)
- - [This DIY kit gave my Steam Deck the early 2000s clear plastic aesthetic I crave](https://www.pcgamer.com/this-diy-kit-gave-my-steam-deck-the-early-2000s-clear-plastic-aesthetic-i-crave)
- - [Dr Disrespect&#39;s Deadrop is moving to &#39;less frequent but much larger&#39; updates](https://www.pcgamer.com/dr-disrespects-deadrop-is-moving-to-less-frequent-but-much-larger-updates)<!-- GAME:END -->
+ - [Using a hot-swappable keyboard cherry-pilled me into a custom keyboard obsession](https://www.pcgamer.com/using-a-hot-swappable-keyboard-cherry-pilled-me-into-a-custom-keyboard-obsession)
+ - [Madden Has Gotten Very Bad At &#39;Predicting&#39; The Super Bowl](https://kotaku.com/madden-super-bowl-prediction-ea-sports-lvii-57-eagles-1850080472)
+ - [Diablo Immortal Is Getting More Expensive For Hoarders](https://kotaku.com/diablo-immortal-stash-inventory-increase-paywall-cost-1850080418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
