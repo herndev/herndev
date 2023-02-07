@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ed Solomon is the person who wrote Men in Black](http://9gag.com/gag/aME46XV)
- - ⏩ [Journalism](http://9gag.com/gag/a2K1Oee)
+ - 💣 [I posted it once, and i heard you need it again &lpar;with update&rpar;](http://9gag.com/gag/aNwP2K4)
+ - ⏩ [Extwa kwispy](http://9gag.com/gag/amAgnr4)
  - 👉 [Gold medals](http://9gag.com/gag/agogd3w)<!-- MEMES:END -->
 
 ---
