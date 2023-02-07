@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earthquake Aftershocks May Rock Turkey and Syria for Months, Even Years](https://www.wired.com/story/aftershocks-may-rock-turkey-and-syria-for-months-even-years/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [New HomePod parts are &#39;decently replaceable&#39; says YouTuber](https://appleinsider.com/articles/23/02/06/youtuber-says-homepod-2-parts-are-decently-replaceable?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter&#39;s iOS and Android apps now default to the timeline the user had open last, instead of the algorithmic feed, after a similar web update in January &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230206/p27#a230206p27)
+ - [Native Union Belt Cable Duo: An &#39;impossible&#39; Lightning and USB-C cable](https://appleinsider.com/articles/23/02/06/native-union-belt-cable-duo-an-impossible-lightning-and-usb-c-cable?utm_medium=rss)
+ - [Best Home Exercise Equipment for 2023     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
