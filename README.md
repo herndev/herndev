@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Using a hot-swappable keyboard cherry-pilled me into a custom keyboard obsession](https://www.pcgamer.com/using-a-hot-swappable-keyboard-cherry-pilled-me-into-a-custom-keyboard-obsession)
- - [Madden Has Gotten Very Bad At &#39;Predicting&#39; The Super Bowl](https://kotaku.com/madden-super-bowl-prediction-ea-sports-lvii-57-eagles-1850080472)
- - [Diablo Immortal Is Getting More Expensive For Hoarders](https://kotaku.com/diablo-immortal-stash-inventory-increase-paywall-cost-1850080418)<!-- GAME:END -->
+ - [Juggle enemies to hell with a grappling hook and mighty kick in this stylish FPS](https://www.pcgamer.com/juggle-enemies-to-hell-with-a-grappling-hook-and-mighty-kick-in-this-stylish-fps)
+ - [One of the industry&#39;s more skeptical CEOs thinks AI tools will &#39;raise the bar&#39; for videogames](https://www.pcgamer.com/strauss-zelnick-ai-tools)
+ - [The Art Of God of War Ragnarök](https://kotaku.com/god-of-war-ragnarok-concept-art-illustrations-making-of-1850068713)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
