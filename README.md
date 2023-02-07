@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)
- - [Garden of the Sea joins PS VR2 launch line-up!](https://blog.playstation.com/2023/02/07/garden-of-the-sea-joins-ps-vr2-launch-line-up/)
- - [Where to watch the Scream movies](https://www.polygon.com/23584953/watch-scream-movies-streaming-netflix-paramount-plus)<!-- GAME:END -->
+ - [Fantasia nearly sunk Disney animation, but Dumbo helped rescue it](https://www.polygon.com/23578363/disney-animated-classics-fantasia-dumbo)
+ - [This choice-heavy Chinese FMV game about teens electrocuted for tech addiction feels like a cult classic](https://www.pcgamer.com/this-choice-heavy-chinese-fmv-game-about-teens-electrocuted-for-tech-addiction-feels-like-a-cult-classic)
+ - [How to open the eye chests in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-how-to-open-eye-chests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
