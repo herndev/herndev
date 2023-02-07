@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A PlayStation Vita emulator for Android is launching in just a few days](https://www.androidauthority.com/vita3k-playstation-vita-emulator-android-3277131/)
- - [Tuesday’s top tech news: a new era for Microsoft’s Bing](https://www.theverge.com/2023/2/7/23589003/february-7-2023-tech-news-liveblog)
- - [SoftBank reports a Q3 loss of ~$5B for its Vision Fund, its fourth straight quarterly loss, and investments of less than $350M in only a few startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/230207/p4#a230207p4)<!-- TECH:END -->
+ - [An FTC official says the agency does not plan to appeal its US federal court loss over Meta&#39;s Within acquisition, but could still appeal to an internal judge &lpar;Reuters&rpar;](http://www.techmeme.com/230207/p6#a230207p6)
+ - [An interview with Apple executives Tim Millet and Bob Borchers on M2, building on M1, transitioning from Intel, the future of Mac gaming, Metal APIs, and more &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/230207/p5#a230207p5)
+ - [A PlayStation Vita emulator for Android is launching in just a few days](https://www.androidauthority.com/vita3k-playstation-vita-emulator-android-3277131/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
