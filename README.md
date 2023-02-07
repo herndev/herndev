@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft one ups Google with surprise AI event later today!](https://www.androidauthority.com/microsoft-ai-chatgpt-event-3277091/)
- - [The February 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [A look at Moscow&#39;s Safe City, an AI surveillance system with 217K connected cameras designed to catch criminals that is now seen as a tool of digital repression &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/230207/p1#a230207p1)<!-- TECH:END -->
+ - [Tinder rolls out incognito mode, a step up from fully hiding profiles, for Tinder+, Gold, and Premium users, profile blocking, and other safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230207/p3#a230207p3)
+ - [The Snapdragon naming scheme could get complicated &lpar;again&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-naming-scheme-3277099/)
+ - [Document: prosecutors and SBF&#39;s lawyers agree to let SBF use Zoom, email, WhatsApp with restrictions, and more, but not Signal and other ephemeral apps &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/230207/p2#a230207p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
