@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch, YouTube Streamers Raise Big Funds For Syria-Turkey Earthquake Relief](https://kotaku.com/twitch-streamers-youtube-syria-turkey-earthquake-hasan-1850084424)
- - [The Best And Worst Parts Of Each Pokémon Game](https://kotaku.com/pokemon-games-best-worst-part-scarlet-violet-red-blue-1850084491)
- - [This indie colony sim&#39;s secret weapon: one-on-one interviews with players about what they like](https://www.pcgamer.com/this-indie-colony-sims-secret-weapon-one-on-one-interviews-with-players-about-what-they-like)<!-- GAME:END -->
+ - [D&amp;D exec: OGL fiasco worsened by lack of respect for Wizards of the Coast](https://www.polygon.com/23589767/dnd-dungeons-dragons-ogl-controversy-executive-producer-interview)
+ - [It’s 2023 and we’re all rereading Animorphs](https://www.polygon.com/23588490/animorphs-book-pdf-audiobook-graphic-novel-movie-k-a-applegate)
+ - [Hi-Fi Rush is proof that Unreal Engine games can be gloriously stutter-free](https://www.pcgamer.com/hi-fi-rush-is-proof-that-unreal-engine-games-can-be-gloriously-stutter-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
