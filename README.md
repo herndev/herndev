@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D exec: OGL fiasco worsened by lack of respect for Wizards of the Coast](https://www.polygon.com/23589767/dnd-dungeons-dragons-ogl-controversy-executive-producer-interview)
- - [It’s 2023 and we’re all rereading Animorphs](https://www.polygon.com/23588490/animorphs-book-pdf-audiobook-graphic-novel-movie-k-a-applegate)
- - [Hi-Fi Rush is proof that Unreal Engine games can be gloriously stutter-free](https://www.pcgamer.com/hi-fi-rush-is-proof-that-unreal-engine-games-can-be-gloriously-stutter-free)<!-- GAME:END -->
+ - [Genshin Impact Characters As Valentine Dates, Ranked](https://kotaku.com/genshin-impact-valentine-s-day-hoyoverse-1850085317)
+ - [The Best Steam Next Fest Demos To Check Out Right Now](https://kotaku.com/steam-next-fest-pc-games-best-demos-dust-neon-1850085262)
+ - [No, Avalanche Studios did not develop Hogwarts Legacy, you&#39;re thinking of the other Avalanche](https://www.pcgamer.com/no-avalanche-studios-did-not-develop-hogwarts-legacy-youre-thinking-of-the-other-avalanche)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
