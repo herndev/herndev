@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google bizarrely believes that iPhone photos can be fixed on a Pixel](https://appleinsider.com/articles/23/02/07/google-bizarrely-believes-that-iphone-photos-can-be-fixed-on-a-pixel?utm_medium=rss)
- - [How to pin a comment on Instagram](https://www.androidauthority.com/how-to-pin-comment-ig-3280463/)
- - [7 Best Valentine’s Day Sex Toy Deals &lpar;2023&rpar;: Vibrators and Suction Toys](https://www.wired.com/story/valentines-day-sex-toy-deals/)<!-- TECH:END -->
+ - [Qustodio: kids aged 4 to 18 used TikTok for 107 minutes per day on average in 2022, up from 82 minutes in 2020, and 60% longer than YouTube&#39;s 67 minutes per day &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230207/p30#a230207p30)
+ - [How to stream FOX whether you have cable or not](https://www.androidauthority.com/how-to-stream-fox-3280352/)
+ - [Hands-on with AI-powered Bing, which, when asked for 2023 Grammys winners, made a list with citations in a sidebar after a minute; search will never be the same &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230207/p29#a230207p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
