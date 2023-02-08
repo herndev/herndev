@@ -29,7 +29,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Forces II: Jedi Knight&#39;s Opening Remade In Unreal, Actually Playable](https://kotaku.com/star-wars-dark-forces-jedi-knight-unreal-engine-pc-mod-1850085680)
+ - [Dark Forces II: Jedi Knight Levels Remade In Unreal, Actually Playable](https://kotaku.com/star-wars-dark-forces-jedi-knight-unreal-engine-pc-mod-1850085680)
  - [Bobby Kotick Says UK Will Become &#39;Death Valley&#39; If Microsoft Purchase Isn&#39;t Approved](https://kotaku.com/activision-bobby-kotick-uk-cma-microsoft-xbox-deal-69-1850085219)
  - [Where to find Slurp barrels in Fortnite](https://www.pcgamer.com/fortnite-slurp-barrel-locations-weekly-challenge)<!-- GAME:END -->
 
