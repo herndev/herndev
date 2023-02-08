@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 reveals bold plan to stop slamming you into walls and insta-killing you for literally no good reason](https://www.pcgamer.com/destiny-2-reveals-plan-to-stop-slamming-you-into-a-wall-and-insta-killing-you-for-literally-no-good-reason)
- - [Pokémon Go Valentine’s Day 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/2/8/23591068/valentines-day-2023-timed-research-event-lovely-wishes-shiny-frillish-jellicent-tapu-lele)
- - [Bobby Kotick Is Stoking Chinese Fear To Champion The Microsoft Acquisition](https://kotaku.com/bobby-kotick-activision-blizzard-microsoft-china-1850089106)<!-- GAME:END -->
+ - [What to watch before Ant-Man and the Wasp: Quantumania](https://www.polygon.com/23589408/movies-watch-before-ant-man-wasp-quantumania-mcu-marvel)
+ - [Valorant Pro Dies In Turkey-Syria Earthquake](https://kotaku.com/turkey-syria-earthquake-valorant-gizem-luie-death-1850090214)
+ - [8 Comedies To Watch If You Liked Rick and Morty](https://kotaku.com/rick-and-morty-streaming-recs-netflix-hulu-futurama-1850089773)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
