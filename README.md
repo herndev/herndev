@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #599: Wednesday, February 8](https://www.pcgamer.com/wordle-hint-answer-today-599-february-8)
- - [&#39;Shift Happens&#39; is a gorgeous book about the story of keyboards](https://www.pcgamer.com/shift-happens-is-a-gorgeous-book-about-the-story-of-keyboards)
- - [Make the great Lord Sauron himself jealous with this LOTR keyboard](https://www.pcgamer.com/drop-lord-of-the-rings-black-speech-keyboard)<!-- GAME:END -->
+ - [Hogwarts Legacy Merlin Trials: How to solve every challenge](https://www.pcgamer.com/hogwarts-legacy-merlin-trials-solutions)
+ - [Gigabyte B650E Aorus Master](https://www.pcgamer.com/gigabyte-b650e-aorus-master)
+ - [Wordle hint and answer #599: Wednesday, February 8](https://www.pcgamer.com/wordle-hint-answer-today-599-february-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
