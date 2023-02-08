@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)
- - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - 👉 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
+ - 💣 [Come on yall, time to cancel Amy Adam&#39;s for this Me too scandal](http://9gag.com/gag/abvgNwX)
+ - ⏩ [Ronald weasley..](http://9gag.com/gag/az2eWBj)
+ - 👉 [Everyone is in trouble when he is around, but this time..](http://9gag.com/gag/aME4gQX)<!-- MEMES:END -->
 
 ---
 
