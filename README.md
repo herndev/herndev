@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden&#39;s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic](https://www.wired.com/story/biden-2023-sotu-data-privacy/)
- - [Apple retail employees testing &#39;Buy Now, Pay Later&#39; service](https://appleinsider.com/articles/23/02/08/apple-retail-employees-testing-buy-now-pay-later-service?utm_medium=rss)
- - [Why More People Should Watch the Most Underrated Sci-Fi Show on Television     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-the-most-underrated-sci-fi-show-on-television/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At the State of the Union, Biden called for Congress to strengthen data privacy protections and antitrust enforcement to stop Big Tech from self-preferencing &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230207/p38#a230207p38)
+ - [Biden’s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic](https://www.wired.com/story/biden-2023-sotu-data-privacy/)
+ - [Biden rallies against Big Tech in State of the Union address](https://www.theverge.com/2023/2/7/23590396/state-of-the-union-sotu-biden-tech-tiktok-privacy-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
