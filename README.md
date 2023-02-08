@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 💥 Is the old OnePlus back?](https://www.androidauthority.com/daily-authority-february-8-2023-3280680/)
- - [Google Chrome on desktop is getting a biometric boost](https://www.androidauthority.com/google-chrome-desktop-biometric-authentication-passwords-3280710/)
- - [Masayoshi Son owes SoftBank ~$5.1B on side deals he set up to boost his compensation, as his unrealized losses grew ~$400M from three months before &lpar;Bloomberg&rpar;](http://www.techmeme.com/230208/p5#a230208p5)<!-- TECH:END -->
+ - [Corporate expense management tool TripActions rebrands as Navan, consolidates its services into one app, and plans to integrate OpenAI&#39;s ChatGPT &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p9#a230208p9)
+ - [Activision CEO Bobby Kotick says the UK could lose out on thousands of jobs by blocking Microsoft&#39;s acquisition and accuses Sony of &quot;trying to sabotage&quot; the bid &lpar;Financial Times&rpar;](http://www.techmeme.com/230208/p8#a230208p8)
+ - [Mozilla says the company is doing &quot;exploratory work&quot; for a Gecko-based browser on iOS in case Apple drops its WebKit requirement, after a similar move by Google &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230208/p7#a230208p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
