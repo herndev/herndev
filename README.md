@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)
- - ⏩ [She thought she was getting away from paying child support](http://9gag.com/gag/a04ZgZq)
- - 👉 [Hmmm](http://9gag.com/gag/aoKg7pm)<!-- MEMES:END -->
+ - 💣 [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
+ - ⏩ [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
+ - 👉 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
 
 ---
 
