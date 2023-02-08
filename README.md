@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Show off your thoughts with Twitter Blue&#39;s new 4000 character limit](https://appleinsider.com/articles/23/02/08/show-off-your-thoughts-with-twitter-blues-new-4000-character-limit?utm_medium=rss)
- - [Instagram expands Gifts, a monetization feature that lets fans tip Reels creators using its virtual currency Stars, to more US creators, after a test in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230208/p35#a230208p35)
- - [The End of the Zoom Boom](https://www.wired.com/story/zoom-layoffs-future/)<!-- TECH:END -->
+ - [Affirm misses with Q2 revenue up 11% YoY to $400M, vs. $416M est., and plans to lay off 19% of its workforce; shares drop 16%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230208/p40#a230208p40)
+ - [Robinhood reports Q4 revenue up 5% YoY to $380M, net loss down 61% YoY to $166M, and MAUs down 0.8M QoQ to 11.4M &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230208/p39#a230208p39)
+ - [Google confirms that AI-generated content isn&#39;t against its Search guidelines, but using AI content to manipulate search results ranking violates its policies &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230208/p38#a230208p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
