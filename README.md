@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden&#39;s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic](https://www.wired.com/story/biden-2023-sotu-data-privacy/)
  - [Apple retail employees testing &#39;Buy Now, Pay Later&#39; service](https://appleinsider.com/articles/23/02/08/apple-retail-employees-testing-buy-now-pay-later-service?utm_medium=rss)
- - [Synergy Research: enterprise cloud spending in Q4 grew 21% YoY to $61.6B, but that growth was hampered by the strong US dollar and a restricted Chinese market &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/230207/p37#a230207p37)
- - [Best Headset for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why More People Should Watch the Most Underrated Sci-Fi Show on Television     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-the-most-underrated-sci-fi-show-on-television/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
