@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why gamers are fighting over whether or not it&#39;s OK to play Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-jk-rowling-trans-rights)
- - [Twitter’s API changes could spell harassment for fan accounts](https://www.polygon.com/23591537/twitter-api-change-tweetbot-fandom-harassment-elon-musk)
- - [Here&#39;s A Soulslike That Anyone Could Play, Probably](https://kotaku.com/wo-long-fallen-dynasty-morale-soulslike-team-ninja-1850090466)<!-- GAME:END -->
+ - [Twitter Breaks Right Before Nintendo Direct, Chaos Ensues](https://kotaku.com/twitter-down-nintendo-direct-schedule-tweets-1850090972)
+ - [Splatoon 3 Gets Surprise Expansion With New DLC Out Soon](https://kotaku.com/splatoon-3-expansion-pass-dlc-wave-inkopolis-direct-1850091117)
+ - [The Legend of Zelda: Tears of the Kingdom’s new trailer shows us a Hyrule in chaos](https://www.polygon.com/23591339/zelda-tears-of-the-kingdom-new-trailer-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
