@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple retail employees testing &#39;Buy Now, Pay Later&#39; service](https://appleinsider.com/articles/23/02/08/apple-retail-employees-testing-buy-now-pay-later-service?utm_medium=rss)
  - [Synergy Research: enterprise cloud spending in Q4 grew 21% YoY to $61.6B, but that growth was hampered by the strong US dollar and a restricted Chinese market &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/230207/p37#a230207p37)
- - [Best Headset for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [Microsoft thinks AI can beat Google at search — CEO Satya Nadella explains why](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai)<!-- TECH:END -->
+ - [Best Headset for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
