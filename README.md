@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - ⏩ [When Harry Potter makes you think](http://9gag.com/gag/aVbxpod)
+ - 💣 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
  - 👉 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
 
 ---
