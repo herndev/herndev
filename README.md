@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US Can Stop Data Brokers&#39; Worst Practices—Right Now](https://www.wired.com/story/fcra-letter-data-brokers-privacy-regulation/)
- - [A Crucial Group of Covid Drugs Has Stopped Working](https://www.wired.com/story/a-crucial-group-of-covid-drugs-has-stopped-working/)
- - [What Defines Artificial Intelligence? The Complete WIRED Guide](https://www.wired.com/story/guide-artificial-intelligence/)<!-- TECH:END -->
+ - [How the Artists of &#39;Destiny 2&#39; Gave Life to Its Big, Bad Enemy](https://www.wired.com/story/destiny-2-art-witch-queen-lightwall-the-darkness/)
+ - [US officials and researchers say TikTok&#39;s proposed algorithm oversight faces practical difficulties and may not offer answers on possible Chinese influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230208/p18#a230208p18)
+ - [Apple signs union agreement for Glasgow Apple Store staff](https://appleinsider.com/articles/23/02/08/apple-signs-union-agreement-for-glasgow-apple-store-staff?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
