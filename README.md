@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a parallel universe](http://9gag.com/gag/a2K167p)
- - ⏩ [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
- - 👉 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
+ - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - ⏩ [She thought she was getting away from paying child support](http://9gag.com/gag/a04ZgZq)
+ - 👉 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)<!-- MEMES:END -->
 
 ---
 
