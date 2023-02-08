@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK regulator provisionally opposes Microsoft-Activision  deal, but leaves door open](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Bobby Kotick blasts UK over Microsoft deal, says regulators lack &#39;independent thought&#39; and Britain risks becoming tech &#39;Death Valley&#39;](https://www.pcgamer.com/bobby-kotick-blasts-uk-over-microsoft-deal-says-regulators-lack-independent-thought-and-britain-risks-becoming-tech-death-valley)
- - [How to solve the Ghost of Our Love treasure map in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-ghost-of-our-love-treasure-map)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Madden NFL 23, Atomic Heart, Mount &amp; Blade II: Bannerlord, and More](https://news.xbox.com/en-us/2023/02/08/game-pass-february-2023-wave-1-announce/)
+ - [Nintendo responds to falling profits with 10% raise for Japanese staff](https://www.polygon.com/23590709/nintendo-japan-pay-raise)
+ - [Whisker Squadron: Survivor is a neon Star Fox roguelite that you can play on PC right now](https://www.pcgamer.com/whisker-squadron-survivor-is-a-neon-star-fox-roguelite-that-you-can-play-on-pc-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
