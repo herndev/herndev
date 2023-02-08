@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“It’s Hard as Hell, But It’s Fair”: The Callisto Protocol Gets a Free Hardcore Mode](https://news.xbox.com/en-us/2023/02/08/the-callisto-protocol-hardcore-mode/)
- - [6 Ways To Improve Your PS5 Controller’s Poor Battery Life](https://kotaku.com/ps5-dualsense-controller-poor-battery-tips-gamepad-sony-1850085285)
- - [Star Wars Jedi Survivor shows off slick prequel-style combat and a weird walk](https://www.pcgamer.com/star-wars-jedi-survivor-shows-off-slick-prequel-style-combat-and-a-weird-walk)<!-- GAME:END -->
+ - [Game Pass’ February lineup brings Madden 23 to Xbox and PC](https://www.polygon.com/23590799/xbox-game-pass-pc-february-2023-games-release-date)
+ - [Razer Leviathan V2 Pro](https://www.pcgamer.com/razer-leviathan-v2-pro-review)
+ - [Dead Space’s changes open possibilities for the series’ future](https://www.polygon.com/23588478/dead-space-2023-remake-steam-platforms-sequels-isaac-clarke)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
