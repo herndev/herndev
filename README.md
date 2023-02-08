@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Come on yall, time to cancel Amy Adam&#39;s for this Me too scandal](http://9gag.com/gag/abvgNwX)
- - ⏩ [Ronald weasley..](http://9gag.com/gag/az2eWBj)
- - 👉 [Everyone is in trouble when he is around, but this time..](http://9gag.com/gag/aME4gQX)<!-- MEMES:END -->
+ - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
+ - 👉 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 ---
 
