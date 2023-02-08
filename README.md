@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bing&#39;s cool new AI chat feature still doesn&#39;t solve the biggest problem with AI-generated content](https://www.pcgamer.com/bings-cool-new-ai-chat-feature-still-doesnt-solve-the-biggest-problem-with-ai-generated-content)
- - [Hogwarts Legacy Is Dominating Twitch Right Now](https://kotaku.com/hogwarts-legacy-harry-potter-game-twitch-release-1850089148)
- - [Forspoken studio promises PC performance improvements are on the way](https://www.pcgamer.com/forspoken-studio-promises-pc-performance-improvements-are-on-the-way)<!-- GAME:END -->
+ - [Destiny 2 reveals bold plan to stop slamming you into walls and insta-killing you for literally no good reason](https://www.pcgamer.com/destiny-2-reveals-plan-to-stop-slamming-you-into-a-wall-and-insta-killing-you-for-literally-no-good-reason)
+ - [Pokémon Go Valentine’s Day 2023 event guide](https://www.polygon.com/pokemon-go-guide/2023/2/8/23591068/valentines-day-2023-timed-research-event-lovely-wishes-shiny-frillish-jellicent-tapu-lele)
+ - [Bobby Kotick Is Stoking Chinese Fear To Champion The Microsoft Acquisition](https://kotaku.com/bobby-kotick-activision-blizzard-microsoft-china-1850089106)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
