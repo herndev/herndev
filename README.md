@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corporate expense management tool TripActions rebrands as Navan, consolidates its services into one app, and plans to integrate OpenAI&#39;s ChatGPT &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p9#a230208p9)
- - [Activision CEO Bobby Kotick says the UK could lose out on thousands of jobs by blocking Microsoft&#39;s acquisition and accuses Sony of &quot;trying to sabotage&quot; the bid &lpar;Financial Times&rpar;](http://www.techmeme.com/230208/p8#a230208p8)
- - [Mozilla says the company is doing &quot;exploratory work&quot; for a Gecko-based browser on iOS in case Apple drops its WebKit requirement, after a similar move by Google &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230208/p7#a230208p7)<!-- TECH:END -->
+ - [Science researchers are excited about AI chatbots like ChatGPT but apprehensive about their propensity to produce errors and misleading info on technical topics &lpar;Nature&rpar;](http://www.techmeme.com/230208/p13#a230208p13)
+ - [Twitter reinstates Republican Senator Steve Daines, banned for a hunting photo flagged for &quot;graphic violence&quot;, after Elon Musk stepped in and amended the rule &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p12#a230208p12)
+ - [Binance executive Leon Foong says a full audit will take &quot;a longer time&quot;, arguing accountants are still learning about crypto, after Mazars retracted its report &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230208/p11#a230208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
