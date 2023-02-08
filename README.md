@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magic, which is developing an AI-powered code-generating tool similar to GitHub&#39;s Copilot, raised a $23M Series A led by Alphabet&#39;s CapitalG &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230207/p36#a230207p36)
- - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)
- - [ChatGPT Has Been Sucked Into India&#39;s Culture Wars](https://www.wired.com/story/chatgpt-has-been-sucked-into-indias-culture-wars/)<!-- TECH:END -->
+ - [Synergy Research: enterprise cloud spending in Q4 grew 21% YoY to $61.6B, but that growth was hampered by the strong US dollar and a restricted Chinese market &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/230207/p37#a230207p37)
+ - [Microsoft thinks AI can beat Google at search — CEO Satya Nadella explains why](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai)
+ - [State of the Union 2023: Where to Watch It Tonight     - CNET](https://www.cnet.com/news/politics/how-to-watch-the-state-of-the-union-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
