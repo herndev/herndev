@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
- - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
+ - ⏩ [Smart flotation device](http://9gag.com/gag/aDYDvo7)
  - 👉 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
 
 ---
