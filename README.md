@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy Merlin Trials: How to solve every challenge](https://www.pcgamer.com/hogwarts-legacy-merlin-trials-solutions)
- - [Gigabyte B650E Aorus Master](https://www.pcgamer.com/gigabyte-b650e-aorus-master)
- - [Wordle hint and answer #599: Wednesday, February 8](https://www.pcgamer.com/wordle-hint-answer-today-599-february-8)<!-- GAME:END -->
+ - [UK regulator provisionally opposes Microsoft-Activision  deal, but leaves door open](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [Bobby Kotick blasts UK over Microsoft deal, says regulators lack &#39;independent thought&#39; and Britain risks becoming tech &#39;Death Valley&#39;](https://www.pcgamer.com/bobby-kotick-blasts-uk-over-microsoft-deal-says-regulators-lack-independent-thought-and-britain-risks-becoming-tech-death-valley)
+ - [How to solve the Ghost of Our Love treasure map in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-ghost-of-our-love-treasure-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
