@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple-led ARM computer sales resilient, as PC industry declines](https://appleinsider.com/articles/23/02/08/apple-led-arm-computer-sales-resilient-as-pc-industry-declines?utm_medium=rss)
- - [Oukitel Abearl P5000 &amp; P5000 Pro home backup power generators offer power in a light package](https://appleinsider.com/articles/23/02/08/oukitel-abearl-p5000-p5000-pro-home-backup-power-generators-offer-power-in-a-light-package?utm_medium=rss)
- - [A live stream of Google&#39;s AI search event in Paris, where the company is expected to add longer text responses powered by generative AI to Search &lpar;Google on YouTube&rpar;](http://www.techmeme.com/230208/p21#a230208p21)<!-- TECH:END -->
+ - [A live blog of the House Oversight Committee hearing with ex-Twitter executives Vijaya Gadde, James Baker, and Yoel Roth on Hunter Biden laptop &quot;censorship&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/230208/p26#a230208p26)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Feb. 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-08-2023-3276778/)
+ - [Alibaba says it is developing a ChatGPT-style AI tool, currently in internal testing, confirming a news report; Baidu announced its Ernie chatbot on February 6 &lpar;Reuters&rpar;](http://www.techmeme.com/230208/p25#a230208p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
