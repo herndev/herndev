@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Zombie` beetle controlled by parasites after death](http://9gag.com/gag/a8q1ROV)
- - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 👉 [Damn grandpa](http://9gag.com/gag/a5X1gyO)<!-- MEMES:END -->
+ - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - ⏩ [When Harry Potter makes you think](http://9gag.com/gag/aVbxpod)
+ - 👉 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
 
 ---
 
