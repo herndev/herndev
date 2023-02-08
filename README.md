@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)
- - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - 👉 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
+ - ⏩ [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)
+ - 👉 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
 
 ---
 
