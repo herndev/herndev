@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 8: Apple Watch Series 7 $299, iMac $789, Shark AI Robot Vacuum $199 &amp; more](https://appleinsider.com/articles/23/02/08/daily-deals-feb-8-apple-watch-series-7-299-imac-789-shark-ai-robot-vacuum-199-more?utm_medium=rss)
- - [Google and Microsoft&#39;s race to add AI chatbots to search results comes loaded with risk; Bing shows results in a sidebar with citations, something Google lacks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230208/p28#a230208p28)
- - [Chaos reigns in Discovery+ &amp; HBO Max streaming service merger](https://appleinsider.com/articles/23/02/08/chaos-reigns-in-discovery-hbo-max-streaming-service-merger?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air gets a $200 price drop at B&amp;H Photo](https://appleinsider.com/articles/23/02/08/apples-m2-macbook-air-gets-a-200-price-drop-at-bh-photo?utm_medium=rss)
+ - [Google Maps adds AR views &amp; more Live Activities](https://appleinsider.com/articles/23/02/08/google-maps-adds-ar-views-more-live-activities?utm_medium=rss)
+ - [Baffling Apple Watch rumor expects expensive new lineup in 2024](https://appleinsider.com/articles/23/02/08/baffling-apple-watch-rumor-expects-expensive-new-lineup-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
