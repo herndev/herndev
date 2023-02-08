@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of the House Oversight Committee hearing with ex-Twitter executives Vijaya Gadde, James Baker, and Yoel Roth on Hunter Biden laptop &quot;censorship&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/230208/p26#a230208p26)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Feb. 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-08-2023-3276778/)
- - [Alibaba says it is developing a ChatGPT-style AI tool, currently in internal testing, confirming a news report; Baidu announced its Ernie chatbot on February 6 &lpar;Reuters&rpar;](http://www.techmeme.com/230208/p25#a230208p25)<!-- TECH:END -->
+ - [Daily Deals Feb. 8: Apple Watch Series 7 $299, iMac $789, Shark AI Robot Vacuum $199 &amp; more](https://appleinsider.com/articles/23/02/08/daily-deals-feb-8-apple-watch-series-7-299-imac-789-shark-ai-robot-vacuum-199-more?utm_medium=rss)
+ - [Google and Microsoft&#39;s race to add AI chatbots to search results comes loaded with risk; Bing shows results in a sidebar with citations, something Google lacks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230208/p28#a230208p28)
+ - [Chaos reigns in Discovery+ &amp; HBO Max streaming service merger](https://appleinsider.com/articles/23/02/08/chaos-reigns-in-discovery-hbo-max-streaming-service-merger?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
