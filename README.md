@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 tips for taking the best selfie: follow these steps for stunning results](https://www.androidauthority.com/tips-take-good-selfie-3277021/)
- - [Source: Microsoft plans to release software to help large companies create and customize their own chatbots using ChatGPT technology later this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230207/p34#a230207p34)
- - [The Samsung Galaxy S23 series has a Game Booster setting that lets a plugged-in phone bypass the battery to use power directly from the charger, reducing heat &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230207/p33#a230207p33)<!-- TECH:END -->
+ - [Magic, which is developing an AI-powered code-generating tool similar to GitHub&#39;s Copilot, raised a $23M Series A led by Alphabet&#39;s CapitalG &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230207/p36#a230207p36)
+ - [7 Hand Soaps That Fight Germs, From Cheap to Luxury     - CNET](https://www.cnet.com/health/personal-care/best-hand-soap/#ftag=CAD590a51e)
+ - [ChatGPT Has Been Sucked Into India&#39;s Culture Wars](https://www.wired.com/story/chatgpt-has-been-sucked-into-indias-culture-wars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
