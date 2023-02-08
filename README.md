@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Shift Happens&#39; is a gorgeous book about the story of keyboards](https://www.pcgamer.com/shift-happens-is-a-gorgeous-book-about-the-story-of-keyboards)
  - [Make the great Lord Sauron himself jealous with this LOTR keyboard](https://www.pcgamer.com/drop-lord-of-the-rings-black-speech-keyboard)
- - [Dark Forces II: Jedi Knight Levels Remade In Unreal, Actually Playable](https://kotaku.com/star-wars-dark-forces-jedi-knight-unreal-engine-pc-mod-1850085680)
- - [Bobby Kotick Says UK Will Become &#39;Death Valley&#39; If Microsoft Purchase Isn&#39;t Approved](https://kotaku.com/activision-bobby-kotick-uk-cma-microsoft-xbox-deal-69-1850085219)<!-- GAME:END -->
+ - [Dark Forces II: Jedi Knight Levels Remade In Unreal, Actually Playable](https://kotaku.com/star-wars-dark-forces-jedi-knight-unreal-engine-pc-mod-1850085680)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
