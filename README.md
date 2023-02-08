@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Train Ride In Myanmar &lpar;This video clip is 5+ years old&rpar;](http://9gag.com/gag/awZz948)
- - ⏩ [Smart flotation device](http://9gag.com/gag/aDYDvo7)
- - 👉 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
+ - 💣 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - ⏩ [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)
+ - 👉 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)<!-- MEMES:END -->
 
 ---
 
