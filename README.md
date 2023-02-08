@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around and find out](http://9gag.com/gag/anzg025)
- - ⏩ [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)
- - 👉 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
+ - 💣 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
+ - ⏩ [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
+ - 👉 [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)<!-- MEMES:END -->
 
 ---
 
