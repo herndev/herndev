@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - 💣 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
  - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
- - 👉 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
+ - 👉 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
 
 ---
 
