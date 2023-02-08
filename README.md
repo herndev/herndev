@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - 💣 [What the f lady](http://9gag.com/gag/abvgLwv)
  - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
  - 👉 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
