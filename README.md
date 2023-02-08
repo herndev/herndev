@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy Clock Tower puzzle: How to open the doors](https://www.pcgamer.com/hogwarts-legacy-clock-tower-puzzle)
- - [As Bobby Kotick tries to scare them off, UK regulators say let&#39;s take a closer look at the Activision Blizzard deal](https://www.pcgamer.com/as-bobby-kotick-tries-to-scare-them-off-uk-regulators-say-lets-take-a-closer-look-at-microsofts-acquisition-of-activision-blizzard)
- - [Your biggest Hogwarts Legacy questions, answered](https://www.polygon.com/hogwarts-legacy-guide/23587918/how-long-playtime-curses-quidditch-deathly-hallows-beasts-unforgiveable-curses-spells-canon)<!-- GAME:END -->
+ - [The transcendent Spirited Away stage play is coming to theaters soon](https://www.polygon.com/23591143/spirited-away-stage-play-movie-release-date)
+ - [24 years ago, Microsoft released the silliest PC controller ever](https://www.pcgamer.com/24-years-ago-microsoft-released-the-silliest-pc-controller-ever)
+ - [Be right back, just downloading some headphones](https://www.pcgamer.com/be-right-back-just-downloading-some-headphones)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
