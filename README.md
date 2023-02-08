@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Madden NFL 23, Atomic Heart, Mount &amp; Blade II: Bannerlord, and More](https://news.xbox.com/en-us/2023/02/08/game-pass-february-2023-wave-1-announce/)
- - [Nintendo responds to falling profits with 10% raise for Japanese staff](https://www.polygon.com/23590709/nintendo-japan-pay-raise)
- - [Whisker Squadron: Survivor is a neon Star Fox roguelite that you can play on PC right now](https://www.pcgamer.com/whisker-squadron-survivor-is-a-neon-star-fox-roguelite-that-you-can-play-on-pc-right-now)<!-- GAME:END -->
+ - [“It’s Hard as Hell, But It’s Fair”: The Callisto Protocol Gets a Free Hardcore Mode](https://news.xbox.com/en-us/2023/02/08/the-callisto-protocol-hardcore-mode/)
+ - [6 Ways To Improve Your PS5 Controller’s Poor Battery Life](https://kotaku.com/ps5-dualsense-controller-poor-battery-tips-gamepad-sony-1850085285)
+ - [Star Wars Jedi Survivor shows off slick prequel-style combat and a weird walk](https://www.pcgamer.com/star-wars-jedi-survivor-shows-off-slick-prequel-style-combat-and-a-weird-walk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
