@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass’ February lineup brings Madden 23 to Xbox and PC](https://www.polygon.com/23590799/xbox-game-pass-pc-february-2023-games-release-date)
- - [Razer Leviathan V2 Pro](https://www.pcgamer.com/razer-leviathan-v2-pro-review)
- - [Dead Space’s changes open possibilities for the series’ future](https://www.polygon.com/23588478/dead-space-2023-remake-steam-platforms-sequels-isaac-clarke)<!-- GAME:END -->
+ - [Hogwarts Legacy Clock Tower puzzle: How to open the doors](https://www.pcgamer.com/hogwarts-legacy-clock-tower-puzzle)
+ - [As Bobby Kotick tries to scare them off, UK regulators say let&#39;s take a closer look at the Activision Blizzard deal](https://www.pcgamer.com/as-bobby-kotick-tries-to-scare-them-off-uk-regulators-say-lets-take-a-closer-look-at-microsofts-acquisition-of-activision-blizzard)
+ - [Your biggest Hogwarts Legacy questions, answered](https://www.polygon.com/hogwarts-legacy-guide/23587918/how-long-playtime-curses-quidditch-deathly-hallows-beasts-unforgiveable-curses-spells-canon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
