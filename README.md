@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
- - ⏩ [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)
- - 👉 [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)<!-- MEMES:END -->
+ - 💣 [Nice\u2026.oh wait](http://9gag.com/gag/avQAj6q)
+ - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - 👉 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
 
 ---
 
