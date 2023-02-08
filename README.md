@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitedHealthcare offers cash for your Apple Watch health data](https://appleinsider.com/articles/23/02/08/unitedhealthcare-offers-cash-for-your-apple-watch-health-data?utm_medium=rss)
- - [Microsoft plans to embed Adobe&#39;s Acrobat PDF engine in Edge for Windows 10 and 11 starting in March 2023; Edge&#39;s legacy PDF engine will be removed in March 2024 &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/230208/p29#a230208p29)
- - [Tech Volunteers Rush to Save Turkey’s Earthquake Survivors](https://www.wired.com/story/tech-volunteers-rush-to-save-turkeys-earthquake-survivors/)<!-- TECH:END -->
+ - [HomePod 2 review: A great smart speaker that struggles to stand out](https://appleinsider.com/articles/23/02/08/homepod-2-review-a-great-smart-speaker-that-struggles-to-stand-out?utm_medium=rss)
+ - [Mac is less popular among Apple customers than iPhone, iPad, Apple Watch](https://appleinsider.com/articles/23/02/08/mac-is-less-popular-among-apple-customers-than-iphone-ipad-apple-watch?utm_medium=rss)
+ - [Twitter launches its Blue service in India, Indonesia, and Brazil; in India, the subscription costs ~$10.9/month on iOS and Android and ~$7.8/month on the web &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230208/p30#a230208p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
