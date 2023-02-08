@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [In a parallel universe](http://9gag.com/gag/a2K167p)
- - ⏩ [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
- - 👉 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
+ - ⏩ [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
+ - 👉 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
 
 ---
 
