@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the State of the Union, Biden called for Congress to strengthen data privacy protections and antitrust enforcement to stop Big Tech from self-preferencing &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230207/p38#a230207p38)
- - [Biden’s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic](https://www.wired.com/story/biden-2023-sotu-data-privacy/)
- - [Biden rallies against Big Tech in State of the Union address](https://www.theverge.com/2023/2/7/23590396/state-of-the-union-sotu-biden-tech-tiktok-privacy-antitrust)<!-- TECH:END -->
+ - [Zeitview, formerly DroneBase, which offers drone imagery, software, and analytics for the energy and infrastructure sectors, raised a $55M Series E led by Valor &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230208/p2#a230208p2)
+ - [Meituan plans to hire as many as 10K people this quarter as the company tries to fend off ByteDance&#39;s expanding delivery efforts in China; the stock drops 6%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230208/p1#a230208p1)
+ - [At the State of the Union, Biden called for Congress to strengthen data privacy protections and antitrust enforcement to stop Big Tech from self-preferencing &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230207/p38#a230207p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
