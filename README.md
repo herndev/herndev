@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Science researchers are excited about AI chatbots like ChatGPT but apprehensive about their propensity to produce errors and misleading info on technical topics &lpar;Nature&rpar;](http://www.techmeme.com/230208/p13#a230208p13)
- - [Twitter reinstates Republican Senator Steve Daines, banned for a hunting photo flagged for &quot;graphic violence&quot;, after Elon Musk stepped in and amended the rule &lpar;Joseph De Avila/Wall Street Journal&rpar;](http://www.techmeme.com/230208/p12#a230208p12)
- - [Binance executive Leon Foong says a full audit will take &quot;a longer time&quot;, arguing accountants are still learning about crypto, after Mazars retracted its report &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230208/p11#a230208p11)<!-- TECH:END -->
+ - [How the US Can Stop Data Brokers&#39; Worst Practices—Right Now](https://www.wired.com/story/fcra-letter-data-brokers-privacy-regulation/)
+ - [A Crucial Group of Covid Drugs Has Stopped Working](https://www.wired.com/story/a-crucial-group-of-covid-drugs-has-stopped-working/)
+ - [What Defines Artificial Intelligence? The Complete WIRED Guide](https://www.wired.com/story/guide-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
