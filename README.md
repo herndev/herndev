@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm misses with Q2 revenue up 11% YoY to $400M, vs. $416M est., and plans to lay off 19% of its workforce; shares drop 16%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230208/p40#a230208p40)
- - [Robinhood reports Q4 revenue up 5% YoY to $380M, net loss down 61% YoY to $166M, and MAUs down 0.8M QoQ to 11.4M &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230208/p39#a230208p39)
- - [Google confirms that AI-generated content isn&#39;t against its Search guidelines, but using AI content to manipulate search results ranking violates its policies &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230208/p38#a230208p38)<!-- TECH:END -->
+ - [Many Twitter users worldwide are reporting issues with the site and say they are not able to tweet, except via an API or by scheduling tweets &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230208/p44#a230208p44)
+ - [The Political Theater Behind the State of the Union Data Privacy Push](https://www.wired.com/story/sotu-privacy-congress-biden/)
+ - [Google releases the first Android 14 developer preview, for Pixel phones, offering multi-device experiences, customization features, security changes, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230208/p43#a230208p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
