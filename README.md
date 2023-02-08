@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ha! Eat a Dick, Hollywood media](http://9gag.com/gag/aeQg8Yj)
- - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
- - 👉 [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)<!-- MEMES:END -->
+ - 💣 [In a parallel universe](http://9gag.com/gag/a2K167p)
+ - ⏩ [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
+ - 👉 [F**k around and find out](http://9gag.com/gag/anzg025)<!-- MEMES:END -->
 
 ---
 
