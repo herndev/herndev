@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
- - ⏩ [That was a quick tour](http://9gag.com/gag/awZzw7r)
- - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
+ - 💣 [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)
+ - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - 👉 [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)<!-- MEMES:END -->
 
 ---
 
