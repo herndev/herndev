@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Characters As Valentine Dates, Ranked](https://kotaku.com/genshin-impact-valentine-s-day-hoyoverse-1850085317)
- - [The Best Steam Next Fest Demos To Check Out Right Now](https://kotaku.com/steam-next-fest-pc-games-best-demos-dust-neon-1850085262)
- - [No, Avalanche Studios did not develop Hogwarts Legacy, you&#39;re thinking of the other Avalanche](https://www.pcgamer.com/no-avalanche-studios-did-not-develop-hogwarts-legacy-youre-thinking-of-the-other-avalanche)<!-- GAME:END -->
+ - [Halo Infinite Adds Fan-Made Map Playlist, Fixing Huge Problem](https://kotaku.com/halo-infinite-community-collection-forge-maps-playlist-1850085463)
+ - [Here&#39;s when to earn Hogwarts Legacy Twitch drops for special cosmetics](https://www.pcgamer.com/hogwarts-legacy-twitch-drops)
+ - [Final Fantasy 14 dispute ends in the death of its most popular mod](https://www.pcgamer.com/final-fantasy-14-dispute-ends-in-the-death-of-its-most-popular-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
