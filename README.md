@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on yall, time to cancel Amy Adam&#39;s for this Me too scandal](http://9gag.com/gag/abvgNwX)
+ - 💣 [`Zombie` beetle controlled by parasites after death](http://9gag.com/gag/a8q1ROV)
  - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 👉 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
+ - 👉 [Damn grandpa](http://9gag.com/gag/a5X1gyO)<!-- MEMES:END -->
 
 ---
 
