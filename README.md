@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to watch before Ant-Man and the Wasp: Quantumania](https://www.polygon.com/23589408/movies-watch-before-ant-man-wasp-quantumania-mcu-marvel)
- - [Valorant Pro Dies In Turkey-Syria Earthquake](https://kotaku.com/turkey-syria-earthquake-valorant-gizem-luie-death-1850090214)
- - [8 Comedies To Watch If You Liked Rick and Morty](https://kotaku.com/rick-and-morty-streaming-recs-netflix-hulu-futurama-1850089773)<!-- GAME:END -->
+ - [Why gamers are fighting over whether or not it&#39;s OK to play Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-jk-rowling-trans-rights)
+ - [Twitter’s API changes could spell harassment for fan accounts](https://www.polygon.com/23591537/twitter-api-change-tweetbot-fandom-harassment-elon-musk)
+ - [Here&#39;s A Soulslike That Anyone Could Play, Probably](https://kotaku.com/wo-long-fallen-dynasty-morale-soulslike-team-ninja-1850090466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
