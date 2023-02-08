@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masayoshi Son owes SoftBank ~$5.1B on side deals he set up to boost his compensation, as his unrealized losses grew ~$400M from three months before &lpar;Bloomberg&rpar;](http://www.techmeme.com/230208/p5#a230208p5)
- - [Atmosphere TV, which streams ad-supported video channels often without audio, raised a $65M Series D at a $1B valuation and names Blake Sabatinelli as its CEO &lpar;Megan Morrone/Fast Company&rpar;](http://www.techmeme.com/230208/p4#a230208p4)
- - [The Pixel 7 Pro launched at $899, but here’s how much it costs to make](https://www.androidauthority.com/google-pixel-7-pro-cost-make-3277087/)<!-- TECH:END -->
+ - [Daily Authority: 💥 Is the old OnePlus back?](https://www.androidauthority.com/daily-authority-february-8-2023-3280680/)
+ - [Google Chrome on desktop is getting a biometric boost](https://www.androidauthority.com/google-chrome-desktop-biometric-authentication-passwords-3280710/)
+ - [Masayoshi Son owes SoftBank ~$5.1B on side deals he set up to boost his compensation, as his unrealized losses grew ~$400M from three months before &lpar;Bloomberg&rpar;](http://www.techmeme.com/230208/p5#a230208p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
