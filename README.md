@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Synergy Research: enterprise cloud spending in Q4 grew 21% YoY to $61.6B, but that growth was hampered by the strong US dollar and a restricted Chinese market &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/230207/p37#a230207p37)
- - [Microsoft thinks AI can beat Google at search — CEO Satya Nadella explains why](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai)
- - [State of the Union 2023: Where to Watch It Tonight     - CNET](https://www.cnet.com/news/politics/how-to-watch-the-state-of-the-union-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Headset for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
+ - [Microsoft thinks AI can beat Google at search — CEO Satya Nadella explains why](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
