@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The transcendent Spirited Away stage play is coming to theaters soon](https://www.polygon.com/23591143/spirited-away-stage-play-movie-release-date)
- - [24 years ago, Microsoft released the silliest PC controller ever](https://www.pcgamer.com/24-years-ago-microsoft-released-the-silliest-pc-controller-ever)
- - [Be right back, just downloading some headphones](https://www.pcgamer.com/be-right-back-just-downloading-some-headphones)<!-- GAME:END -->
+ - [Bing&#39;s cool new AI chat feature still doesn&#39;t solve the biggest problem with AI-generated content](https://www.pcgamer.com/bings-cool-new-ai-chat-feature-still-doesnt-solve-the-biggest-problem-with-ai-generated-content)
+ - [Hogwarts Legacy Is Dominating Twitch Right Now](https://kotaku.com/hogwarts-legacy-harry-potter-game-twitch-release-1850089148)
+ - [Forspoken studio promises PC performance improvements are on the way](https://www.pcgamer.com/forspoken-studio-promises-pc-performance-improvements-are-on-the-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
