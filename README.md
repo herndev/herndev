@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air gets a $200 price drop at B&amp;H Photo](https://appleinsider.com/articles/23/02/08/apples-m2-macbook-air-gets-a-200-price-drop-at-bh-photo?utm_medium=rss)
- - [Google Maps adds AR views &amp; more Live Activities](https://appleinsider.com/articles/23/02/08/google-maps-adds-ar-views-more-live-activities?utm_medium=rss)
- - [Baffling Apple Watch rumor expects expensive new lineup in 2024](https://appleinsider.com/articles/23/02/08/baffling-apple-watch-rumor-expects-expensive-new-lineup-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [UnitedHealthcare offers cash for your Apple Watch health data](https://appleinsider.com/articles/23/02/08/unitedhealthcare-offers-cash-for-your-apple-watch-health-data?utm_medium=rss)
+ - [Microsoft plans to embed Adobe&#39;s Acrobat PDF engine in Edge for Windows 10 and 11 starting in March 2023; Edge&#39;s legacy PDF engine will be removed in March 2024 &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/230208/p29#a230208p29)
+ - [Tech Volunteers Rush to Save Turkey’s Earthquake Survivors](https://www.wired.com/story/tech-volunteers-rush-to-save-turkeys-earthquake-survivors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
