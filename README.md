@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Artists of &#39;Destiny 2&#39; Gave Life to Its Big, Bad Enemy](https://www.wired.com/story/destiny-2-art-witch-queen-lightwall-the-darkness/)
- - [US officials and researchers say TikTok&#39;s proposed algorithm oversight faces practical difficulties and may not offer answers on possible Chinese influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230208/p18#a230208p18)
- - [Apple signs union agreement for Glasgow Apple Store staff](https://appleinsider.com/articles/23/02/08/apple-signs-union-agreement-for-glasgow-apple-store-staff?utm_medium=rss)<!-- TECH:END -->
+ - [Apple-led ARM computer sales resilient, as PC industry declines](https://appleinsider.com/articles/23/02/08/apple-led-arm-computer-sales-resilient-as-pc-industry-declines?utm_medium=rss)
+ - [Oukitel Abearl P5000 &amp; P5000 Pro home backup power generators offer power in a light package](https://appleinsider.com/articles/23/02/08/oukitel-abearl-p5000-p5000-pro-home-backup-power-generators-offer-power-in-a-light-package?utm_medium=rss)
+ - [A live stream of Google&#39;s AI search event in Paris, where the company is expected to add longer text responses powered by generative AI to Search &lpar;Google on YouTube&rpar;](http://www.techmeme.com/230208/p21#a230208p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
