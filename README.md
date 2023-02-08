@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Mike... chill dude!!](http://9gag.com/gag/adPgDgD)
- - ⏩ [A Keyboard that is only P&#39;s](http://9gag.com/gag/az2e37N)
- - 👉 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)<!-- MEMES:END -->
+ - 💣 [Yeah\u2026 shit](http://9gag.com/gag/aA0G5oZ)
+ - ⏩ [F**k around and find out](http://9gag.com/gag/anzg025)
+ - 👉 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)<!-- MEMES:END -->
 
 ---
 
