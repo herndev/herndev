@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scene at a Lo to show](http://9gag.com/gag/a2K1Ab9)
+ - 💣 [And i have seen idiots keep them in hot weather](http://9gag.com/gag/aVbx50O)
  - ⏩ [She thought she was getting away from paying child support](http://9gag.com/gag/a04ZgZq)
- - 👉 [The prize car at this dying mall is an 18 year old Corvette.](http://9gag.com/gag/avQA45E)<!-- MEMES:END -->
+ - 👉 [Hmmm](http://9gag.com/gag/aoKg7pm)<!-- MEMES:END -->
 
 ---
 
