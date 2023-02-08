@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - ⏩ [In some bars in Spain they are beginning to put parts of a ham to avoid certain types of conflictives customers. Guess Who.](http://9gag.com/gag/ay29AAV)
- - 👉 [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)<!-- MEMES:END -->
+ - 💣 [Electrician fails successfully...somehow](http://9gag.com/gag/a9q1wQK)
+ - ⏩ [That was a quick tour](http://9gag.com/gag/awZzw7r)
+ - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
 
 ---
 
