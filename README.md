@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
- - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 👉 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
+ - 💣 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - ⏩ [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 👉 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
 
 ---
 
