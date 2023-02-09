@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
- - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 👉 [Nightmare fuel](http://9gag.com/gag/ajVg24g)<!-- MEMES:END -->
+ - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - ⏩ [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)
+ - 👉 [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)<!-- MEMES:END -->
 
 ---
 
