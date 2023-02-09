@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Twitter users worldwide are reporting issues with the site and say they are not able to tweet, except via an API or by scheduling tweets &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230208/p44#a230208p44)
- - [The Political Theater Behind the State of the Union Data Privacy Push](https://www.wired.com/story/sotu-privacy-congress-biden/)
- - [Google releases the first Android 14 developer preview, for Pixel phones, offering multi-device experiences, customization features, security changes, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230208/p43#a230208p43)<!-- TECH:END -->
+ - [Disney reports 161.8M Disney+ global subscribers in Q1, down 1% QoQ, its first drop since launching in 2020; Hulu had 48M and ESPN+ had 24.9M, both up 2% QoQ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230208/p46#a230208p46)
+ - [Meta says it has completed its acquisition of Within, originally announced in October 2021, after a judge denied the FTC&#39;s request to stop the deal &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/230208/p45#a230208p45)
+ - [Android 14 has a hidden feature that can help you find and delete bloatware](https://www.androidauthority.com/android-14-uninstall-bloatware-3281078/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
