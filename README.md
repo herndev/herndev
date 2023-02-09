@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
  - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 👉 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
+ - 👉 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
 
 ---
 
