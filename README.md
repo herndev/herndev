@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch Online members can save on new games, even Zelda: Tears of the Kingdom](https://www.polygon.com/deals/2023/2/2/23582037/nintendo-switch-online-game-digital-vouchers-discount)
- - [A bunch of classic Nintendo DS JRPGs are headed for PC, but it&#39;ll cost ya](https://www.pcgamer.com/a-bunch-of-classic-nintendo-ds-jrpgs-are-headed-for-pc-but-itll-cost-ya)
- - [PS5 Creators: How Hogwarts Legacy harnesses PS5’s power](https://blog.playstation.com/2023/02/09/ps5-creators-how-hogwarts-legacy-harnesses-ps5s-power/)<!-- GAME:END -->
+ - [Free Play Days – Scarlet Nexus, TT Isle of Man Ride on the Edge 2, and The Ascent](https://news.xbox.com/en-us/2023/02/09/free-play-days-scarlet-nexus-tt-isle-of-man-ride-on-the-edge-2-and-the-ascent/)
+ - [Indies take the spotlight with new reveals and updates](https://blog.playstation.com/2023/02/09/indies-take-the-spotlight-with-new-reveals-and-updates/)
+ - [Where to get Mandrakes in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-mandrakes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
