@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Scarlet Nexus, TT Isle of Man Ride on the Edge 2, and The Ascent](https://news.xbox.com/en-us/2023/02/09/free-play-days-scarlet-nexus-tt-isle-of-man-ride-on-the-edge-2-and-the-ascent/)
- - [Indies take the spotlight with new reveals and updates](https://blog.playstation.com/2023/02/09/indies-take-the-spotlight-with-new-reveals-and-updates/)
- - [Where to get Mandrakes in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-mandrakes)<!-- GAME:END -->
+ - [Mini Metroidvania Ascent captures the joy of the genre in 30 minutes](https://www.polygon.com/23587848/ascent-metroidvania-freeware-pico-8-indie)
+ - [Ironwood Studios returns with a first look at the gameplay of Pacific Drive](https://blog.playstation.com/2023/02/09/ironwood-studios-returns-with-a-first-look-at-the-gameplay-of-pacific-drive/)
+ - [Ironwood Studios returns with a first look at the gameplay of Pacific Drive](https://blog.playstation.com/2023/02/09/ironwood-studios-returns-with-a-first-look-at-the-gameplay-of-pacific-drive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
