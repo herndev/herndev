@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
- - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 💣 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
+ - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
+ - 👉 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 ---
 
