@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Fake Skin Fools Mosquitoes—to Fight the Diseases They Spread](https://www.wired.com/story/this-fake-skin-fools-mosquitoes-to-fight-the-diseases-they-spread/)
- - [New DJI Mini 2 SE can fly up to 31 minutes while shooting video](https://appleinsider.com/articles/23/02/09/new-dji-mini-2-se-can-fly-up-to-31-minutes-while-shooting-video?utm_medium=rss)
- - [Yahoo plans to lay off 20%+ of its workforce and restructure its ad tech unit, impacting 50%+ of the unit, or 1,600+ people; CEO says the cuts are &quot;strategic&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230209/p20#a230209p20)<!-- TECH:END -->
+ - [Apple executives explain Apple Silicon &amp; Neural Engine in new interview](https://appleinsider.com/articles/23/02/09/apple-executives-explain-apple-silicon-neural-engine-in-new-interview?utm_medium=rss)
+ - [The FCC approves Amazon&#39;s plan to mitigate its Kuiper satellite internet system&#39;s orbital debris; SpaceX asked for stricter conditions on Kuiper&#39;s deployment &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230209/p22#a230209p22)
+ - [Microsoft&#39;s GitHub cuts 10% of its staff, or an estimated 300+; GitLab cuts 7%, or an estimated 114; report: GitHub will close offices and shift to remote work &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230209/p21#a230209p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
