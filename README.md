@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 is a bigger upgrade over iPhone 13 than most would expect](https://appleinsider.com/articles/23/02/09/iphone-14-is-a-bigger-upgrade-over-iphone-13-than-most-would-expect?utm_medium=rss)
- - [The US and the UK sanction seven people, all based in Russia, connected to the Conti and Ryuk ransomware gangs and the Trickbot banking trojan &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230209/p14#a230209p14)
- - [Apple Services revenue exceeds Nike &amp; McDonalds combined](https://appleinsider.com/articles/23/02/09/apple-services-revenue-exceeds-nike-mcdonalds-combined?utm_medium=rss)<!-- TECH:END -->
+ - [FPW OWC Thunderbolt Go Dock review: Ditch the big power brick](https://appleinsider.com/articles/23/02/09/fpw-owc-thunderbolt-go-dock-review-ditch-the-big-power-brick?utm_medium=rss)
+ - [Best Sonos Deals: Save $40 on Sonos One, $100 on Sonos Arc and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
+ - [Nintendo Is Charging $70 for Legend of Zelda: Tears of the Kingdom     - CNET](https://www.cnet.com/tech/gaming/nintendo-is-charging-70-for-legend-of-zelda-tears-of-the-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
