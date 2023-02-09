@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This new Android 14 feature may be meant for the Pixel 8](https://www.androidauthority.com/android-14-advanced-memory-protection-3281197/)
  - [Can you cancel a Venmo payment? Here’s what you need to know](https://www.androidauthority.com/cancel-venmo-payment-3280498/)
- - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)
- - [An interview with Satya Nadella on Microsoft&#39;s partnership with OpenAI, using AI in a search engine, the competition with Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230208/p49#a230208p49)<!-- TECH:END -->
+ - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
