@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can you cancel a Venmo payment? Here’s what you need to know](https://www.androidauthority.com/cancel-venmo-payment-3280498/)
  - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)
- - [An interview with Satya Nadella on Microsoft&#39;s partnership with OpenAI, using AI in a search engine, the competition with Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230208/p49#a230208p49)
- - [Twitter&#39;s Upcoming Change Could Impact Your Favorite Bot     - CNET](https://www.cnet.com/news/social-media/twitters-upcoming-change-could-impact-your-favorite-bot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Satya Nadella on Microsoft&#39;s partnership with OpenAI, using AI in a search engine, the competition with Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230208/p49#a230208p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
