@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy Spoilers Are All Over The Internet, As Is Harry Potter Tradition](https://kotaku.com/hogwarts-legacy-ending-spoilers-twitter-death-potter-1850096246)
- - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)
- - [Hogwarts Legacy PC players are cursed with stuttering and other performance issues](https://www.pcgamer.com/hogwarts-legacy-pc-players-are-cursed-with-stuttering-and-other-performance-issues)<!-- GAME:END -->
+ - [World of Warcraft is ditching Twitter integration](https://www.pcgamer.com/world-of-warcraft-is-ditching-twitter-integration)
+ - [9 Things In The Tears Of The Kingdom Trailer Keeping Zelda Fans Up At Night](https://kotaku.com/zelda-tears-of-the-kingdom-botw-2-legend-trailer-theory-1850096171)
+ - [Magic&#39;s new set has the only interesting poison mechanic I&#39;ve seen in a game](https://www.pcgamer.com/magics-new-set-has-the-only-interesting-poison-mechanic-ive-seen-in-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
