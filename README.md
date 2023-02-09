@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CISA publishes a recovery script for the ESXiArgs ransomware, which affected more than 3,800 organizations in the US, France, Italy, and other countries &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230208/p48#a230208p48)
- - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
- - [How to block emails in Outlook](https://www.androidauthority.com/how-to-block-emails-outlook-3281131/)<!-- TECH:END -->
+ - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)
+ - [An interview with Satya Nadella on Microsoft&#39;s partnership with OpenAI, using AI in a search engine, the competition with Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230208/p49#a230208p49)
+ - [Twitter&#39;s Upcoming Change Could Impact Your Favorite Bot     - CNET](https://www.cnet.com/news/social-media/twitters-upcoming-change-could-impact-your-favorite-bot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
