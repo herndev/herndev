@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro thought about it](http://9gag.com/gag/aVbbjN2)
- - ⏩ [Literally in a couple of days they were asking the man for help, even the producers had to help them](http://9gag.com/gag/a5XXp1V)
- - 👉 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
+ - 💣 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
 
 ---
 
