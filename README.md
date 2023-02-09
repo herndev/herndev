@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trully uncanny](http://9gag.com/gag/aME4gWX)
- - ⏩ [LIES, DECEPTION!](http://9gag.com/gag/aYVVjNm)
- - 👉 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
+ - 💣 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
+ - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - 👉 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 ---
 
