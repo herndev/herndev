@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executives explain Apple Silicon &amp; Neural Engine in new interview](https://appleinsider.com/articles/23/02/09/apple-executives-explain-apple-silicon-neural-engine-in-new-interview?utm_medium=rss)
- - [The FCC approves Amazon&#39;s plan to mitigate its Kuiper satellite internet system&#39;s orbital debris; SpaceX asked for stricter conditions on Kuiper&#39;s deployment &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230209/p22#a230209p22)
- - [Microsoft&#39;s GitHub cuts 10% of its staff, or an estimated 300+; GitLab cuts 7%, or an estimated 114; report: GitHub will close offices and shift to remote work &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230209/p21#a230209p21)<!-- TECH:END -->
+ - [Russia’s Ransomware Gangs Are Being Named and Shamed](https://www.wired.com/story/conti-trickbot-ransomware-sanctions-uk-us/)
+ - [Kraken agrees to pay $30M and discontinue its crypto-asset staking products to settle SEC allegations that its staking services broke US securities rules &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230209/p24#a230209p24)
+ - [New HomePod &#39;surprisingly easy&#39; to disassemble and repair](https://appleinsider.com/articles/23/02/09/new-homepod-surprisingly-easy-to-disassemble-and-repair?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
