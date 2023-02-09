@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Trailer, Plot, Cast, First Reactions, Release Date     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-trailer-plot-cast-release-date/#ftag=CAD590a51e)
- - [Apple and Google abuse market dominance, says Japan antitrust regulator](https://appleinsider.com/articles/23/02/09/apple-and-google-abuse-market-dominance-says-japan-antitrust-regulator?utm_medium=rss)
- - [Coincover, which offers tools to 300+ companies to protect digital assets from hacks or human error, raised $30M led by Foundation, taking its funding to $41.6M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230209/p11#a230209p11)<!-- TECH:END -->
+ - [iPhone 14 is a bigger upgrade over iPhone 13 than most would expect](https://appleinsider.com/articles/23/02/09/iphone-14-is-a-bigger-upgrade-over-iphone-13-than-most-would-expect?utm_medium=rss)
+ - [The US and the UK sanction seven people, all based in Russia, connected to the Conti and Ryuk ransomware gangs and the Trickbot banking trojan &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230209/p14#a230209p14)
+ - [Apple Services revenue exceeds Nike &amp; McDonalds combined](https://appleinsider.com/articles/23/02/09/apple-services-revenue-exceeds-nike-mcdonalds-combined?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
