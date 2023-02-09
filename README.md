@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - ⏩ [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)
- - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
+ - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
+ - ⏩ [Guy with the vape understood the assignment](http://9gag.com/gag/aREr5Xy)
+ - 👉 [ChadGirl](http://9gag.com/gag/aRErYmy)<!-- MEMES:END -->
 
 ---
 
