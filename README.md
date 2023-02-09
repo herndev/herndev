@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney reports 161.8M Disney+ global subscribers in Q1, down 1% QoQ, its first drop since launching in 2020; Hulu had 48M and ESPN+ had 24.9M, both up 2% QoQ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230208/p46#a230208p46)
- - [Meta says it has completed its acquisition of Within, originally announced in October 2021, after a judge denied the FTC&#39;s request to stop the deal &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/230208/p45#a230208p45)
- - [Android 14 has a hidden feature that can help you find and delete bloatware](https://www.androidauthority.com/android-14-uninstall-bloatware-3281078/)<!-- TECH:END -->
+ - [The CISA publishes a recovery script for the ESXiArgs ransomware, which affected more than 3,800 organizations in the US, France, Italy, and other countries &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230208/p48#a230208p48)
+ - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
+ - [How to block emails in Outlook](https://www.androidauthority.com/how-to-block-emails-outlook-3281131/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
