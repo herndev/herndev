@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Android 14 feature may be meant for the Pixel 8](https://www.androidauthority.com/android-14-advanced-memory-protection-3281197/)
- - [Can you cancel a Venmo payment? Here’s what you need to know](https://www.androidauthority.com/cancel-venmo-payment-3280498/)
- - [How to unfreeze your Venmo account](https://www.androidauthority.com/unfreeze-venmo-account-3280440/)<!-- TECH:END -->
+ - [Netflix begins password sharing crackdown in Canada. US next on the list?](https://www.androidauthority.com/netflix-password-sharing-plans-canada-3281214/)
+ - [Shanghai-based lidar maker Hesai raised $190M in its Nasdaq IPO, becoming the first Chinese company to raise $100M+ in the US since October 2021, per Dealogic &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230208/p52#a230208p52)
+ - [Brian Armstrong says Coinbase has heard &quot;rumors&quot; the SEC wants to &quot;get rid of&quot; crypto staking for retail investors, which &quot;would be a terrible path for the US&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230208/p51#a230208p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
