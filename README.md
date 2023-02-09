@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meross Smart Plug Mini review: A good addition to your smart home](https://appleinsider.com/articles/23/02/09/meross-smart-plug-mini-review-a-good-addition-to-your-smart-home?utm_medium=rss)
- - [Hugh Laurie joins Apple TV+ hit &#39;Tehran&#39; for its third season](https://appleinsider.com/articles/23/02/09/hugh-laurie-joins-apple-tv-hit-tehran-for-its-third-season?utm_medium=rss)
- - [The Out-of-Control Spread of Crowd-Control Tech](https://www.wired.com/story/out-of-control-spread-of-crowd-control-tech/)<!-- TECH:END -->
+ - [You literally can’t get a faster charging phone than this one](https://www.androidauthority.com/realme-gt-neo-5-3281278/)
+ - [Tether claims $700M in Q4 profit, in addition to its reserves, and $67.04B in total assets and $66.08B in liabilities; Tether-secured loans were down by $300M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230209/p10#a230209p10)
+ - [Fire TV Alexa Voice Remote Pro Review: An Unnecessary Upgrade     - CNET](https://www.cnet.com/tech/home-entertainment/fire-tv-alexa-voice-remote-pro-review-an-unnecessary-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
