@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get rewards in Fortnite’s School of Llama website event](https://www.polygon.com/fortnite-guide/2023/2/9/23589403/school-of-llama-website-event-rewards-not-working-quests)
- - [Well, now we know why Google closed Stadia](https://www.pcgamer.com/well-now-we-know-why-google-closed-stadia)
- - [Get behind the wheel of the world’s baddest station wagon in Pacific Drive](https://www.polygon.com/23592903/pacific-drive-ps5-pc-preview-trailer-gameplay)<!-- GAME:END -->
+ - [Engage creative mode with these new Minecraft Crocs](https://www.polygon.com/23592908/minecraft-crocs-classic-clog-jibbitz-game-unlock)
+ - [February&#39;s Game Pass Additions Have Something For Everyone](https://kotaku.com/game-pass-xbox-madden-super-bowl-mount-blade-1850095338)
+ - [In Metroid Dread, Samus is an action hero — in Metroid Prime, she’s a scientist](https://www.polygon.com/reviews/23592880/metroid-prime-remastered-review-nintendo-switch-remake-eshop-dread)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
