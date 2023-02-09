@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Video Game Kisses We Can’t Forget](https://kotaku.com/best-video-game-kisses-witcher-sonic-kirby-1850095732)
- - [7 Ways To Save Space On Your PS5’s SSD](https://kotaku.com/ps5-ssd-hard-drive-storage-save-space-upgrade-expand-1850095909)
- - [Disney Plus made a cute Star Wars show about Jedi younglings, but not the murdered ones](https://www.polygon.com/23593168/disney-plus-star-wars-young-jedi-adventures-release)<!-- GAME:END -->
+ - [Hogwarts Legacy Spoilers Are All Over The Internet, As Is Harry Potter Tradition](https://kotaku.com/hogwarts-legacy-ending-spoilers-twitter-death-potter-1850096246)
+ - [How to choose houses in the Hogwarts Legacy sorting quiz](https://www.polygon.com/hogwarts-legacy-guide/23581208/house-sorting-quiz-test-gryffindor-slytherin-ravenclaw-hufflepuff-daring-curiosity-ambition-loyalty)
+ - [Hogwarts Legacy PC players are cursed with stuttering and other performance issues](https://www.pcgamer.com/hogwarts-legacy-pc-players-are-cursed-with-stuttering-and-other-performance-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
