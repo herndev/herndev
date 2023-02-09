@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Writing about themselves...](http://9gag.com/gag/avQA3Z5)
- - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
- - 👉 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
+ - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
+ - ⏩ [Equality gap debate](http://9gag.com/gag/ap9g4Bb)
+ - 👉 [ChadGirl](http://9gag.com/gag/aRErYmy)<!-- MEMES:END -->
 
 ---
 
