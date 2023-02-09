@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
- - ⏩ [Guy with the vape understood the assignment](http://9gag.com/gag/aREr5Xy)
- - 👉 [ChadGirl](http://9gag.com/gag/aRErYmy)<!-- MEMES:END -->
+ - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
+ - ⏩ [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
+ - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
 
 ---
 
