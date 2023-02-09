@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
- - ⏩ [Equality gap debate](http://9gag.com/gag/ap9g4Bb)
- - 👉 [Guy with the vape understood the assignment](http://9gag.com/gag/aREr5Xy)<!-- MEMES:END -->
+ - 💣 [It&#39;s so risky, but they were just saving their....](http://9gag.com/gag/aoKg7Pw)
+ - ⏩ [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)
+ - 👉 [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)<!-- MEMES:END -->
 
 ---
 
