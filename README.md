@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Calling all Pilots: SD Gundam Battle Alliance comes to Xbox Game Pass!](https://news.xbox.com/en-us/2023/02/09/sd-gundam-battle-alliance-comes-to-xbox-game-pass/)
- - [The best Warhammer 40K novels are on Audible](https://www.polygon.com/23592490/best-warhammer-40k-novels-in-order-black-library-audible-horus-heresy-eisenhorn-gaunts-ghosts)
- - [Metroid Prime Remastered pre-order guide](https://www.polygon.com/deals/23592511/metroid-prime-remastered-pre-order-nintendo-switch-physical-version-edition)<!-- GAME:END -->
+ - [How to get rewards in Fortnite’s School of Llama website event](https://www.polygon.com/fortnite-guide/2023/2/9/23589403/school-of-llama-website-event-rewards-not-working-quests)
+ - [Well, now we know why Google closed Stadia](https://www.pcgamer.com/well-now-we-know-why-google-closed-stadia)
+ - [Get behind the wheel of the world’s baddest station wagon in Pacific Drive](https://www.polygon.com/23592903/pacific-drive-ps5-pc-preview-trailer-gameplay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
