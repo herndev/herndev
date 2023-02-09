@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say ChatGPT can produce clean, convincing text that repeats conspiracy theories and misleading narratives but can sometimes debunk falsehoods too &lpar;New York Times&rpar;](http://www.techmeme.com/230209/p1#a230209p1)
- - [Netflix begins password sharing crackdown in Canada. US next on the list?](https://www.androidauthority.com/netflix-password-sharing-plans-canada-3281214/)
- - [Shanghai-based lidar maker Hesai raised $190M in its Nasdaq IPO, becoming the first Chinese company to raise $100M+ in the US since October 2021, per Dealogic &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230208/p52#a230208p52)<!-- TECH:END -->
+ - [23 great cases for your new Samsung Galaxy S23 Ultra](https://www.androidauthority.com/best-samsung-galaxy-s23-ultra-cases-3273407/)
+ - [Twitter&#39;s voluntary report to EU regulators on how it was tackling disinformation lacked data and didn&#39;t include commitments on empowering fact-checkers &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230209/p2#a230209p2)
+ - [We asked, you told us: Here’s how you feel about buying a new phone in 2023](https://www.androidauthority.com/buy-new-phone-2023-poll-results-3281222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
