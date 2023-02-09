@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn grandpa](http://9gag.com/gag/a5X1gyO)
- - ⏩ [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)
- - 👉 [After work I went to sleep to be ready to play at 0 in the night. Played now 4 hours. Didn&#39;t made really any quests yet but I explored around 3 hours hogwarts. Damn it&#39;s so beautiful and detailed. All rooms look so crazy good. Atm on my way to work. Can&#39;t wait to play more.](http://9gag.com/gag/aPgZLNn)<!-- MEMES:END -->
+ - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
+ - ⏩ [Equality gap debate](http://9gag.com/gag/ap9g4Bb)
+ - 👉 [Guy with the vape understood the assignment](http://9gag.com/gag/aREr5Xy)<!-- MEMES:END -->
 
 ---
 
