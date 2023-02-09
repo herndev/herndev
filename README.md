@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A child almost hit by a car](http://9gag.com/gag/aA0GWY0)
+ - 💣 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
  - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
  - 👉 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
