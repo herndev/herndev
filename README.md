@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 👉 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 💣 [Bro thought about it](http://9gag.com/gag/aVbbjN2)
+ - ⏩ [Literally in a couple of days they were asking the man for help, even the producers had to help them](http://9gag.com/gag/a5XXp1V)
+ - 👉 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
 
 ---
 
