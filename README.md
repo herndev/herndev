@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a nice way to introduce yourself](http://9gag.com/gag/a5XXpwo)
- - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 👉 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
+ - 💣 [Those bastards lied to me](http://9gag.com/gag/aXnn0dg)
+ - ⏩ [Regret asking.](http://9gag.com/gag/a4ooKoQ)
+ - 👉 [Find the red light before it finds you](http://9gag.com/gag/a6q1WVb)<!-- MEMES:END -->
 
 ---
 
