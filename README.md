@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FPW OWC Thunderbolt Go Dock review: Ditch the big power brick](https://appleinsider.com/articles/23/02/09/fpw-owc-thunderbolt-go-dock-review-ditch-the-big-power-brick?utm_medium=rss)
- - [Best Sonos Deals: Save $40 on Sonos One, $100 on Sonos Arc and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Nintendo Is Charging $70 for Legend of Zelda: Tears of the Kingdom     - CNET](https://www.cnet.com/tech/gaming/nintendo-is-charging-70-for-legend-of-zelda-tears-of-the-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best AT&amp;T deals: $1,000 off the Galaxy S23 series with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [1Password Passkey Support Will Let You Dump Your 1 Password     - CNET](https://www.cnet.com/tech/services-and-software/1password-passkey-support-will-let-you-dump-your-1-password/#ftag=CAD590a51e)
+ - [Apple&#39;s Services revenue hit $79.4B in 2022, more than Intel&#39;s $63.1B in revenue and the combined revenues of McDonald&#39;s and Nike &lpar;Justinas Baltrusaitis/Finbold&rpar;](http://www.techmeme.com/230209/p17#a230209p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
