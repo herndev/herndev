@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - ⏩ [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
- - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
+ - 💣 [Applying for any High-Tech firm jobs in California is like this, can confirm](http://9gag.com/gag/a6q1vee)
+ - ⏩ [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
+ - 👉 [The seething does not stop](http://9gag.com/gag/aYVr8p7)<!-- MEMES:END -->
 
 ---
 
