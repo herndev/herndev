@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a quick tour](http://9gag.com/gag/awZzw7r)
- - ⏩ [Equality gap debate](http://9gag.com/gag/ap9g4Bb)
- - 👉 [ChadGirl](http://9gag.com/gag/aRErYmy)<!-- MEMES:END -->
+ - 💣 [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - ⏩ [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)
+ - 👉 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)<!-- MEMES:END -->
 
 ---
 
