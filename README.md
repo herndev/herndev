@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #600: Thursday, February 9](https://www.pcgamer.com/wordle-hint-answer-today-600-february-9)
  - [Japan&#39;s Nintendo Direct Had A Very Nice Surprise](https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855)
- - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)
- - [Nintendo confirms Zelda: Tears of the Kingdom will cost $69.99](https://www.polygon.com/23591112/nintendo-zelda-tears-of-kingdom-price-hike-cost)<!-- GAME:END -->
+ - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
