@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Android 14’s first preview has landed](https://www.androidauthority.com/daily-authority-february-9-2023-3280682/)
- - [How to add money to your Venmo account](https://www.androidauthority.com/add-money-venmo-3280589/)
- - [Your Tech Stuff Is Getting Slightly More Repairable](https://www.wired.com/story/us-pirg-repairability-scorecard-2023/)<!-- TECH:END -->
+ - [Inside FTX&#39;s final hours, described by employees, chat logs, and Sam Bankman-Fried: panic selling assets, trying to raise funds, SBF&#39;s silence, and bankruptcy &lpar;Financial Times&rpar;](http://www.techmeme.com/230209/p5#a230209p5)
+ - [The Federation data: active users on decentralized social networks are up from ~600K to ~2.6M in a few months, challenging claims about a failing &quot;fediverse&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230209/p4#a230209p4)
+ - [Daily Authority: 📱 Android 14’s first preview has landed](https://www.androidauthority.com/daily-authority-february-9-2023-3280682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
