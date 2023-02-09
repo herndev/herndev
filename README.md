@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s so risky, but they were just saving their....](http://9gag.com/gag/aoKg7Pw)
- - ⏩ [She kept protecting her sister head for 17 hours until help was arrived](http://9gag.com/gag/aQEXGqe)
- - 👉 [In USA no justice for white victims](http://9gag.com/gag/axoBXGD)<!-- MEMES:END -->
+ - 💣 [Writing about themselves...](http://9gag.com/gag/avQA3Z5)
+ - ⏩ [The speed of light!!!](http://9gag.com/gag/avQAMEn)
+ - 👉 [A man being told it&#39;s not his baby ....](http://9gag.com/gag/abvg8WX)<!-- MEMES:END -->
 
 ---
 
