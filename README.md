@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia’s Ransomware Gangs Are Being Named and Shamed](https://www.wired.com/story/conti-trickbot-ransomware-sanctions-uk-us/)
- - [Kraken agrees to pay $30M and discontinue its crypto-asset staking products to settle SEC allegations that its staking services broke US securities rules &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230209/p24#a230209p24)
- - [New HomePod &#39;surprisingly easy&#39; to disassemble and repair](https://appleinsider.com/articles/23/02/09/new-homepod-surprisingly-easy-to-disassemble-and-repair?utm_medium=rss)<!-- TECH:END -->
+ - [PayPal reports Q4 revenue up 7% YoY to $7.38B, vs. $7.39B est., payments volume up 5% YoY to $357.4B, vs. $360.3B est., and net income of $921M &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230209/p27#a230209p27)
+ - [PayPal says its CEO and president Dan Schulman will retire and leave the company at the end 2023; he will remain a member of PayPal&#39;s board of directors &lpar;CNBC&rpar;](http://www.techmeme.com/230209/p26#a230209p26)
+ - [Lyft reports Q4 revenue up 21% YoY to $1.2B, a net loss of $588.1M vs. $283.2M YoY, and active riders up 8.7% YoY to 20.4M; stock is down 20%+ on weak guidance &lpar;Kathryn Hardison/Wall Street Journal&rpar;](http://www.techmeme.com/230209/p25#a230209p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
