@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter Breaks Right Before Nintendo Direct, Chaos Ensues](https://kotaku.com/twitter-down-nintendo-direct-schedule-tweets-1850090972)
- - [Splatoon 3 Gets Surprise Expansion With New DLC Out Soon](https://kotaku.com/splatoon-3-expansion-pass-dlc-wave-inkopolis-direct-1850091117)
- - [The Legend of Zelda: Tears of the Kingdom’s new trailer shows us a Hyrule in chaos](https://www.polygon.com/23591339/zelda-tears-of-the-kingdom-new-trailer-pre-order)<!-- GAME:END -->
+ - [Nintendo Switch Deal Will Let You Grab $70 Zelda For A Lot Cheaper](https://kotaku.com/legend-zelda-tears-kingdom-discount-switch-voucher-1850091365)
+ - [UK regulators say Activision Blizzard should be broken up](https://www.pcgamer.com/uk-regulators-say-activision-blizzard-should-be-broken-up)
+ - [Everything We Saw During The Surprise Nintendo Direct](https://kotaku.com/nintendo-direct-metroid-prime-pikmin-zelda-totk-trailer-1850090239)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
