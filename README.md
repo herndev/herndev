@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside FTX&#39;s final hours, described by employees, chat logs, and Sam Bankman-Fried: panic selling assets, trying to raise funds, SBF&#39;s silence, and bankruptcy &lpar;Financial Times&rpar;](http://www.techmeme.com/230209/p5#a230209p5)
- - [The Federation data: active users on decentralized social networks are up from ~600K to ~2.6M in a few months, challenging claims about a failing &quot;fediverse&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230209/p4#a230209p4)
- - [Daily Authority: 📱 Android 14’s first preview has landed](https://www.androidauthority.com/daily-authority-february-9-2023-3280682/)<!-- TECH:END -->
+ - [Investigation: AI tools rate photos of women as more sexually suggestive than photos of men, especially if nipples, pregnant bellies, or exercise are involved &lpar;The Guardian&rpar;](http://www.techmeme.com/230209/p9#a230209p9)
+ - [A judge grants FTX approval to subpoena Sam Bankman-Fried, his parents, brother, former FTX CTO Garry Wang, COO Constance Wang, and Alameda CEO Caroline Ellison &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/230209/p8#a230209p8)
+ - [Nintendo&#39;s upcoming Zelda sequel will cost $70, up $10 over previous new titles, matching Sony and Microsoft and opening the door for more expensive video games &lpar;Bloomberg&rpar;](http://www.techmeme.com/230209/p7#a230209p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
