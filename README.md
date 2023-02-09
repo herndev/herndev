@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You literally can’t get a faster charging phone than this one](https://www.androidauthority.com/realme-gt-neo-5-3281278/)
- - [Tether claims $700M in Q4 profit, in addition to its reserves, and $67.04B in total assets and $66.08B in liabilities; Tether-secured loans were down by $300M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230209/p10#a230209p10)
- - [Fire TV Alexa Voice Remote Pro Review: An Unnecessary Upgrade     - CNET](https://www.cnet.com/tech/home-entertainment/fire-tv-alexa-voice-remote-pro-review-an-unnecessary-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Trailer, Plot, Cast, First Reactions, Release Date     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-trailer-plot-cast-release-date/#ftag=CAD590a51e)
+ - [Apple and Google abuse market dominance, says Japan antitrust regulator](https://appleinsider.com/articles/23/02/09/apple-and-google-abuse-market-dominance-says-japan-antitrust-regulator?utm_medium=rss)
+ - [Coincover, which offers tools to 300+ companies to protect digital assets from hacks or human error, raised $30M led by Foundation, taking its funding to $41.6M &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230209/p11#a230209p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
