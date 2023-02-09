@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AT&amp;T deals: $1,000 off the Galaxy S23 series with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [1Password Passkey Support Will Let You Dump Your 1 Password     - CNET](https://www.cnet.com/tech/services-and-software/1password-passkey-support-will-let-you-dump-your-1-password/#ftag=CAD590a51e)
- - [Apple&#39;s Services revenue hit $79.4B in 2022, more than Intel&#39;s $63.1B in revenue and the combined revenues of McDonald&#39;s and Nike &lpar;Justinas Baltrusaitis/Finbold&rpar;](http://www.techmeme.com/230209/p17#a230209p17)<!-- TECH:END -->
+ - [Apple Music interviews halftime star Rihanna ahead of Super Bowl LVII](https://appleinsider.com/articles/23/02/09/apple-music-interviews-halftime-star-rihanna-ahead-of-super-bowl-lvii?utm_medium=rss)
+ - [Rejecting a deal on Sam Bankman-Fried using encrypted messaging apps, a judge orders his lawyers to make a plan to tighten his bail to ensure messages are saved &lpar;New York Times&rpar;](http://www.techmeme.com/230209/p19#a230209p19)
+ - [7 problems facing Bing, Bard, and the future of AI search](https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
