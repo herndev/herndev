@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music interviews halftime star Rihanna ahead of Super Bowl LVII](https://appleinsider.com/articles/23/02/09/apple-music-interviews-halftime-star-rihanna-ahead-of-super-bowl-lvii?utm_medium=rss)
- - [Rejecting a deal on Sam Bankman-Fried using encrypted messaging apps, a judge orders his lawyers to make a plan to tighten his bail to ensure messages are saved &lpar;New York Times&rpar;](http://www.techmeme.com/230209/p19#a230209p19)
- - [7 problems facing Bing, Bard, and the future of AI search](https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges)<!-- TECH:END -->
+ - [This Fake Skin Fools Mosquitoes—to Fight the Diseases They Spread](https://www.wired.com/story/this-fake-skin-fools-mosquitoes-to-fight-the-diseases-they-spread/)
+ - [New DJI Mini 2 SE can fly up to 31 minutes while shooting video](https://appleinsider.com/articles/23/02/09/new-dji-mini-2-se-can-fly-up-to-31-minutes-while-shooting-video?utm_medium=rss)
+ - [Yahoo plans to lay off 20%+ of its workforce and restructure its ad tech unit, impacting 50%+ of the unit, or 1,600+ people; CEO says the cuts are &quot;strategic&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230209/p20#a230209p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
