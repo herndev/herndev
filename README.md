@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #600: Thursday, February 9](https://www.pcgamer.com/wordle-hint-answer-today-600-february-9)
- - [Japan&#39;s Nintendo Direct Had A Very Nice Surprise](https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855)
- - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)<!-- GAME:END -->
+ - [Tech companies say the metaverse is coming, but PC gamers know it’s already been here for years](https://www.pcgamer.com/tech-companies-say-the-metaverse-is-coming-but-pc-gamers-know-its-already-been-here-for-years)
+ - [That Tron visual novel has a release window, a new trailer, and lots of choices to make](https://www.pcgamer.com/that-tron-visual-novel-has-a-release-window-a-new-trailer-and-lots-of-choices-to-make)
+ - [Intel calls time on Rocket Lake, the CPU generation that should never have happened](https://www.pcgamer.com/intel-calls-time-on-rocket-lake-the-cpu-generation-that-should-never-have-happened)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
