@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch Deal Will Let You Grab $70 Zelda For A Lot Cheaper](https://kotaku.com/legend-zelda-tears-kingdom-discount-switch-voucher-1850091365)
- - [UK regulators say Activision Blizzard should be broken up](https://www.pcgamer.com/uk-regulators-say-activision-blizzard-should-be-broken-up)
- - [Everything We Saw During The Surprise Nintendo Direct](https://kotaku.com/nintendo-direct-metroid-prime-pikmin-zelda-totk-trailer-1850090239)<!-- GAME:END -->
+ - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)
+ - [Nintendo confirms Zelda: Tears of the Kingdom will cost $69.99](https://www.polygon.com/23591112/nintendo-zelda-tears-of-kingdom-price-hike-cost)
+ - [Samba de Amigo Is Coming Back On The Nintendo Switch](https://kotaku.com/samba-de-amigo-nintendo-switch-sega-dreamcast-new-drop-1850091541)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
