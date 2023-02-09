@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japan&#39;s Nintendo Direct Had A Very Nice Surprise](https://kotaku.com/nintendo-direct-japan-natsu-mon-boku-no-natsuyasumi-1850091855)
  - [Audio-Technica&#39;s StreamSet promises a streaming mic in a gaming headset](https://www.pcgamer.com/audio-technicas-streamset-promises-a-streaming-mic-in-a-gaming-headset)
- - [Nintendo confirms Zelda: Tears of the Kingdom will cost $69.99](https://www.polygon.com/23591112/nintendo-zelda-tears-of-kingdom-price-hike-cost)
- - [Samba de Amigo Is Coming Back On The Nintendo Switch](https://kotaku.com/samba-de-amigo-nintendo-switch-sega-dreamcast-new-drop-1850091541)<!-- GAME:END -->
+ - [Nintendo confirms Zelda: Tears of the Kingdom will cost $69.99](https://www.polygon.com/23591112/nintendo-zelda-tears-of-kingdom-price-hike-cost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
