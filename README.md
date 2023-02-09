@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, she almost did it](http://9gag.com/gag/a1P1j0v)
- - ⏩ [GWGB.](http://9gag.com/gag/a9q1QxL)
- - 👉 [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)<!-- MEMES:END -->
+ - 💣 [Smart flotation device](http://9gag.com/gag/aDYDvo7)
+ - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
+ - 👉 [Reason why turkish buildings are collapsing.](http://9gag.com/gag/anzgww0)<!-- MEMES:END -->
 
 ---
 
