@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You’s secret to rooting for a bad guy: Surround him with worse people](https://www.polygon.com/reviews/23591818/you-season-4-part-1-netflix-review)
- - [The original Life Is Strange devs are making a beautifully animated, choice-driven narrative game next](https://www.pcgamer.com/the-original-life-is-strange-devs-are-making-a-beautifully-animated-choice-driven-narrative-game-next)
- - [Here&#39;s when Hogwarts Legacy releases in your time zone](https://www.pcgamer.com/hogwarts-legacy-release-times-unlock)<!-- GAME:END -->
+ - [Metroid Prime Remastered also has Wii-style pointer controls — and they feel great](https://www.polygon.com/gaming/23592370/metroid-prime-remastered-controls-wii-pointer-dual-stick-classic-gamecube)
+ - [Silicon wafers are getting cheaper but CPUs and GPUs may not follow](https://www.pcgamer.com/silicon-wafers-are-getting-cheaper-but-cpus-and-gpus-may-not-follow)
+ - [You’s secret to rooting for a bad guy: Surround him with worse people](https://www.polygon.com/reviews/23591818/you-season-4-part-1-netflix-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
