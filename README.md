@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m Batman...](http://9gag.com/gag/aPgZqRV)
- - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
- - 👉 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 💣 [Trully uncanny](http://9gag.com/gag/aME4gWX)
+ - ⏩ [LIES, DECEPTION!](http://9gag.com/gag/aYVVjNm)
+ - 👉 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)<!-- MEMES:END -->
 
 ---
 
