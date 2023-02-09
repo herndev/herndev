@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tech companies say the metaverse is coming, but PC gamers know it’s already been here for years](https://www.pcgamer.com/tech-companies-say-the-metaverse-is-coming-but-pc-gamers-know-its-already-been-here-for-years)
- - [That Tron visual novel has a release window, a new trailer, and lots of choices to make](https://www.pcgamer.com/that-tron-visual-novel-has-a-release-window-a-new-trailer-and-lots-of-choices-to-make)
- - [Intel calls time on Rocket Lake, the CPU generation that should never have happened](https://www.pcgamer.com/intel-calls-time-on-rocket-lake-the-cpu-generation-that-should-never-have-happened)<!-- GAME:END -->
+ - [You’s secret to rooting for a bad guy: Surround him with worse people](https://www.polygon.com/reviews/23591818/you-season-4-part-1-netflix-review)
+ - [The original Life Is Strange devs are making a beautifully animated, choice-driven narrative game next](https://www.pcgamer.com/the-original-life-is-strange-devs-are-making-a-beautifully-animated-choice-driven-narrative-game-next)
+ - [Here&#39;s when Hogwarts Legacy releases in your time zone](https://www.pcgamer.com/hogwarts-legacy-release-times-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
