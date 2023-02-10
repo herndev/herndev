@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - ⏩ [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)
- - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
+ - 💣 [What are you eating?](http://9gag.com/gag/aME4RRX)
+ - ⏩ [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
+ - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 ---
 
