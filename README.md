@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #601: Friday, February 10](https://www.pcgamer.com/wordle-hint-answer-today-601-february-10)
- - [16 Years After Release, Team Fortress 2 Is Getting A Major Update](https://kotaku.com/tf2-team-fortress-2-update-new-content-summer-pc-valve-1850096628)
- - [TF2 is getting an &#39;update-sized update&#39; this summer, but the community has to make it themselves](https://www.pcgamer.com/tf2-is-getting-an-update-sized-update-this-summer-but-the-community-has-to-make-it-themselves)<!-- GAME:END -->
+ - [Sony accuses Microsoft of &#39;obvious harassment&#39; in latest FTC court filing](https://www.pcgamer.com/sony-accuses-microsoft-of-obvious-harassment-in-latest-ftc-court-filing)
+ - [Asus TUF Gaming Radeon RX 7900 XTX OC Edition](https://www.pcgamer.com/asus-tuf-gaming-radeon-rx-7900-xtx-oc-edition)
+ - [You can grab a 2TB Steam Deck SSD from the makers of the most modular laptop](https://www.pcgamer.com/you-can-grab-a-2tb-steam-deck-ssd-from-the-makers-of-the-most-modular-laptop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
