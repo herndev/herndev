@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - ⏩ [An Mi-8 Helicopter crashing over the core of the Chernobyl reactor on October, 1986](http://9gag.com/gag/amAg3yj)
- - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 💣 [Growing up with this guy makes it even harder to watch](http://9gag.com/gag/anzzq3b)
+ - ⏩ [Regret asking.](http://9gag.com/gag/a4ooKoQ)
+ - 👉 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
 
 ---
 
