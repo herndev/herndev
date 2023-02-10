@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 💣 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
+ - ⏩ [Post the most punchable face that comes to your mind.](http://9gag.com/gag/aZDrGgQ)
  - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 ---
