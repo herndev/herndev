@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Super Bowl for free](https://www.polygon.com/deals/2023/2/10/23594155/super-bowl-stream-free-trial-subscriptions-how-to)
- - [Remedy plans to release a new game each year from now on](https://www.pcgamer.com/remedy-plans-to-release-a-new-game-each-year-from-now-on)
- - [Reddit gets hacked after employee falls victim to phishing attack](https://www.pcgamer.com/reddit-gets-hacked-after-employee-falls-victim-to-phishing-attack)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Star Wars Jedi: Survivor Brings Back The Best Clone Wars Droids](https://kotaku.com/star-wars-jedi-survivor-fallen-order-droids-clone-wars-1850100692)
+ - [Yoko Taro&#39;s New Game Turns Sega Classics Into Women](https://kotaku.com/yoko-taro-mobile-game-sega-waifu-404-game-reset-new-1850100784)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
