@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft is ditching Twitter integration](https://www.pcgamer.com/world-of-warcraft-is-ditching-twitter-integration)
- - [9 Things In The Tears Of The Kingdom Trailer Keeping Zelda Fans Up At Night](https://kotaku.com/zelda-tears-of-the-kingdom-botw-2-legend-trailer-theory-1850096171)
- - [Magic&#39;s new set has the only interesting poison mechanic I&#39;ve seen in a game](https://www.pcgamer.com/magics-new-set-has-the-only-interesting-poison-mechanic-ive-seen-in-a-game)<!-- GAME:END -->
+ - [Kirby’s new Switch remaster has the chaos of a Smash Bros. match with 4 players](https://www.polygon.com/23593171/kirby-return-to-dream-land-deluxe-nintendo-switch)
+ - [This eerie RPG looks like Baldur&#39;s Gate on Game Boy, and it&#39;s out soon](https://www.pcgamer.com/this-eerie-rpg-looks-like-baldurs-gate-on-game-boy-and-its-out-soon)
+ - [Every item you can buy in Hogwarts Legacy &lpar;and where to buy them&rpar;](https://www.polygon.com/hogwarts-legacy-guide/23592174/items-mandrakes-fluxweed-shrivelfig-venomous-tentaculua-dogweed-deathcap-potions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
