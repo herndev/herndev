@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
- - ⏩ [Bro gambled his life](http://9gag.com/gag/ajVV62q)
- - 👉 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)<!-- MEMES:END -->
+ - 💣 [Such determination](http://9gag.com/gag/anzzYdo)
+ - ⏩ [Three glasses](http://9gag.com/gag/amAAqN9)
+ - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
 
 ---
 
