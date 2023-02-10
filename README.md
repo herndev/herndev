@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit suffered a cyberattack on February 5, allowing hackers to access some documents, code, and business systems; the company says user passwords are safe &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230209/p31#a230209p31)
- - [&#39;You&#39; Season 4 Review: Netflix Thriller Is a Mixed Bag     - CNET](https://www.cnet.com/culture/entertainment/you-season-4-review-netflix-thriller-is-a-mixed-bag/#ftag=CAD590a51e)
- - [Google wants to help developers make experiences like Maps’ new ‘immersive’ view](https://www.theverge.com/2023/2/9/23593342/google-maps-immersive-stream-xr-experiences-immersive-view-cloud)<!-- TECH:END -->
+ - [A US SDNY jury finds a digital artist violated Herm&amp;egrave;s&#39; rights to the Birkin trademark by creating and selling MetaBirkin NFTs depicting versions of the handbags &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230209/p33#a230209p33)
+ - [As ChatGPT and other LLMs repackage info into superficial approximations, like lossy compression for images, the web will become a blurrier version of itself &lpar;Ted Chiang/New Yorker&rpar;](http://www.techmeme.com/230209/p32#a230209p32)
+ - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
