@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM signs a long-term deal with GlobalFoundries to establish exclusive production capacity at the chip maker&#39;s New York facility for GM&#39;s key auto suppliers &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/230210/p4#a230210p4)
- - [Sources: Microsoft cuts jobs in its Surface, HoloLens, and Xbox units; heavy cuts to the HoloLens hardware team raise questions about the goggles&#39; third version &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230210/p3#a230210p3)
- - [Samsung Galaxy A34, A54 prices leak: Expect a price hike](https://www.androidauthority.com/samsung-galaxy-a34-a54-prices-3281785/)<!-- TECH:END -->
+ - [You can now buy a Coca-Cola phone for the price of 525 Coke cans](https://www.androidauthority.com/realme-10-pro-5g-coca-cola-edition-phone-3281806/)
+ - [OnePlus 11 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/oneplus-11-vs-samsung-galaxy-s23-3276762/)
+ - [Best Smart TV for 2023: Top Picks With Roku, Google and More for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
