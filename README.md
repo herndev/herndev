@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #601: Friday, February 10](https://www.pcgamer.com/wordle-hint-answer-today-601-february-10)
  - [16 Years After Release, Team Fortress 2 Is Getting A Major Update](https://kotaku.com/tf2-team-fortress-2-update-new-content-summer-pc-valve-1850096628)
- - [TF2 is getting an &#39;update-sized update&#39; this summer, but the community has to make it themselves](https://www.pcgamer.com/tf2-is-getting-an-update-sized-update-this-summer-but-the-community-has-to-make-it-themselves)
- - [Sony Accuses Microsoft Of &#39;Harassment&#39; In Court Battle](https://kotaku.com/microsoft-sony-ftc-activision-court-battle-legal-xbox-1850096915)<!-- GAME:END -->
+ - [TF2 is getting an &#39;update-sized update&#39; this summer, but the community has to make it themselves](https://www.pcgamer.com/tf2-is-getting-an-update-sized-update-this-summer-but-the-community-has-to-make-it-themselves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
