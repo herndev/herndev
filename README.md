@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the economics of Microsoft and Google inserting LLMs into search, crushing profitability and requiring massive capex, and the impact on the companies &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230209/p35#a230209p35)
- - [How to completely delete your Venmo account](https://www.androidauthority.com/delete-venmo-account-3281762/)
- - [Valentine&#39;s Day gift idea: get $200 in Restaurant.com gift cards for $20](https://appleinsider.com/articles/23/02/10/valentines-day-gift-idea-get-200-in-restaurantcom-gift-cards-for-20?utm_medium=rss)<!-- TECH:END -->
+ - [SEC commissioner Hester Peirce rebukes her agency&#39;s action against Kraken, calling it &quot;paternalistic and lazy&quot; and questioning if it was a win for investors &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230210/p1#a230210p1)
+ - [One UI 5.1 bloatware does NOT take up 60GB storage on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-storage-bloatware-3281775/)
+ - [A look at the economics of Microsoft and Google inserting LLMs into search, crushing profitability and requiring massive capex, and the impact on the companies &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230209/p35#a230209p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
