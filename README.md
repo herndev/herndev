@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those bastards lied to me](http://9gag.com/gag/aXnn0dg)
- - ⏩ [Regret asking.](http://9gag.com/gag/a4ooKoQ)
- - 👉 [Find the red light before it finds you](http://9gag.com/gag/a6q1WVb)<!-- MEMES:END -->
+ - 💣 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 👉 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
 
 ---
 
