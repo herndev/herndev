@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Did a pre-order/trade-in deal change your mind about buying a phone?](https://www.androidauthority.com/preorder-trade-in-deal-change-mind-phone-poll-3281798/)
- - [OPPO Find N2 Flip is coming next week, and it’s a global launch](https://www.androidauthority.com/oppo-find-n2-flip-launch-3281460/)
- - [Cloudflare wants to help you set up your own Mastodon server in ‘minutes’](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)<!-- TECH:END -->
+ - [Uber plans CarPlay app for its drivers](https://appleinsider.com/articles/23/02/10/uber-plans-carplay-app-for-its-drivers?utm_medium=rss)
+ - [Sources: Amazon is in talks with Times Internet to buy MX Player, one of India&#39;s top VOD streaming services; Times Internet bought MX Player for $140M in 2018 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230210/p6#a230210p6)
+ - [Friday’s top tech news: a pair of DIY projects for the weekend](https://www.theverge.com/2023/2/10/23593976/february-10-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
