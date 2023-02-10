@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Sony, Microsoft, and Activision accuse each other of ‘sabotage’ and ‘harassment’](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [How long is Hogwarts Legacy?](https://www.pcgamer.com/how-long-is-hogwarts-legacy-length)<!-- GAME:END -->
+ - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)
+ - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)
+ - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
