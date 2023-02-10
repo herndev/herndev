@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 13 to 17](https://news.xbox.com/en-us/2023/02/10/next-week-on-xbox-new-games-for-february-13-to-17/)
- - [Vampire survival game getting major free update that overhauls combat, castles, necromancers, and more](https://www.pcgamer.com/vampire-survival-game-getting-major-free-update-that-overhauls-combat-castles-necromancers-and-more)
- - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)<!-- GAME:END -->
+ - [Magic set includes combo so powerful English language has no words to describe it](https://www.polygon.com/23589224/magic-phyrexia-all-will-be-one-best-combo-attacks-tokens-vindicator-mondrak)
+ - [Hogwarts Legacy Treasure Vaults: How to open each one](https://www.pcgamer.com/hogwarts-legacy-treasure-vault-solutions)
+ - [You can try out all of Octopath Traveler 2&#39;s protagonists in its demo right now](https://www.pcgamer.com/you-can-try-out-all-of-octopath-traveler-2s-protagonists-in-its-demo-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
