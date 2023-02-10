@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive designed the royal emblem for King Charles&#39; coronation](https://appleinsider.com/articles/23/02/10/jony-ive-designed-the-royal-emblem-for-king-charles-coronation?utm_medium=rss)
  - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)
- - [Apple: No apps circumvented user privacy controls](https://appleinsider.com/articles/23/02/10/apple-no-apps-circumvented-user-privacy-controls?utm_medium=rss)
- - [Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/230210/p17#a230210p17)<!-- TECH:END -->
+ - [Marvel&#39;s Moon Girl and Devil Dinosaur: Disney&#39;s New Hero Thrives With Her Mind     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-girl-and-devil-dinosaur-disneys-new-hero-thrives-with-her-mind/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
