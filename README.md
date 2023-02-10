@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such determination](http://9gag.com/gag/anzzYdo)
- - ⏩ [Three glasses](http://9gag.com/gag/amAAqN9)
- - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - ⏩ [Deserved it](http://9gag.com/gag/awZZbY4)
+ - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 ---
 
