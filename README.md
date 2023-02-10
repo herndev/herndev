@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
- - [How to delete your Uber account](https://www.androidauthority.com/how-to-delete-your-uber-account-3282018/)
- - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)<!-- TECH:END -->
+ - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)
+ - [Apple: No apps circumvented user privacy controls](https://appleinsider.com/articles/23/02/10/apple-no-apps-circumvented-user-privacy-controls?utm_medium=rss)
+ - [Source: PayPal is pausing work on its stablecoin as regulators increase their scrutiny of cryptocurrencies and its key partner Paxos faces a probe in New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/230210/p17#a230210p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
