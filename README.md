@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
- - ⏩ [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)
- - 👉 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
+ - 💣 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
+ - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 👉 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
 
 ---
 
