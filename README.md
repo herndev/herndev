@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
- - ⏩ [Did he break his legs?](http://9gag.com/gag/avQQZ2X)
- - 👉 [Pepsi](http://9gag.com/gag/aDYYRG9)<!-- MEMES:END -->
+ - 💣 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
+ - ⏩ [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - 👉 [K.O !](http://9gag.com/gag/aDYY0vN)<!-- MEMES:END -->
 
 ---
 
