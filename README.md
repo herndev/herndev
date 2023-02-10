@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Star Wars Jedi: Survivor Brings Back The Best Clone Wars Droids](https://kotaku.com/star-wars-jedi-survivor-fallen-order-droids-clone-wars-1850100692)
- - [Yoko Taro&#39;s New Game Turns Sega Classics Into Women](https://kotaku.com/yoko-taro-mobile-game-sega-waifu-404-game-reset-new-1850100784)<!-- GAME:END -->
+ - [Warren Beatty’s Dick Tracy returns in a sequel to one of the weirdest things I’ve ever seen](https://www.polygon.com/23594837/dick-tracy-warren-beatty-zoom-tcm-special-2023)
+ - [Hollow Knight: Silksong playtester encourages patience, says it&#39;s a &#39;glorious game worth the wait&#39;](https://www.pcgamer.com/hollow-knight-silksong-playtester-encourages-patience-says-its-a-glorious-game-worth-the-wait)
+ - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
