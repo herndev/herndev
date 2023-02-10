@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are you eating?](http://9gag.com/gag/aME4RRX)
- - ⏩ [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
- - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 💣 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)
+ - ⏩ [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - 👉 [Introverts trying to look comfortable in a social setting](http://9gag.com/gag/aqeeZbZ)<!-- MEMES:END -->
 
 ---
 
