@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team&#39;s 100 employees &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230210/p16#a230210p16)
- - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)
- - [The FBI’s Most Controversial Surveillance Tool Is Under Threat](https://www.wired.com/story/fbi-section-702/)<!-- TECH:END -->
+ - [Peacock Premium vs Premium Plus: What are ads worth to you?](https://www.androidauthority.com/peacock-premium-vs-premium-plus-3281966/)
+ - [How to delete your Uber account](https://www.androidauthority.com/how-to-delete-your-uber-account-3282018/)
+ - [4 Best Online Flower Delivery Services &lpar;2023&rpar;: Sustainable and Dried Flowers](https://www.wired.com/story/best-flower-delivery-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
