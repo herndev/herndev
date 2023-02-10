@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USB-C on iPhone 15 might still require MFi certified cables](https://appleinsider.com/articles/23/02/10/usb-c-on-iphone-15-might-still-require-mfi-certified-cables?utm_medium=rss)
- - [Wiz’s SpaceSense Smart Lights Aren’t Worth Making the Switch](https://www.wired.com/story/wiz-spacesense-smart-lights/)
- - [GMC Hummer EV review: bummer EV](https://www.theverge.com/23591501/gmc-hummer-ev-review-photos-specs-price)<!-- TECH:END -->
+ - [iPhone 15 Ultra rumors, our in-depth HomePod review, and favorite Apple devices](https://appleinsider.com/articles/23/02/10/iphone-15-ultra-rumors-our-in-depth-homepod-review-and-favorite-apple-devices?utm_medium=rss)
+ - [Notorious Russian cybercrime network unmasked and sanctioned by US and UK](https://www.theverge.com/2023/2/10/23594002/trickbot-russian-cybercrime-network-ransomware-us-uk-coti)
+ - [Sources: Microsoft is preparing to share its plans for integrating OpenAI&#39;s language tech and the Prometheus model in Word, Outlook, other Office apps, in March &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230210/p8#a230210p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
