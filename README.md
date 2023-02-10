@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wizarding World Awaits: Hogwarts Legacy is Available Now](https://news.xbox.com/en-us/2023/02/10/hogwarts-legacy-out-now/)
- - [Demon Slayer season 3 premieres early — but only in theaters](https://www.polygon.com/23594385/demon-slayer-season-3-early-theatrical-release-date-premiere)
- - [When does Hogwarts Legacy come out on Switch, PS4, and Xbox One?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
+ - [Dead Space&#39;s ‘Stomp Stuff’ Button Is Top Tier](https://kotaku.com/dead-space-1-remake-remaster-stomp-button-ea-1850099539)
+ - [Buy Your Valentine These $1,500 Sailor Moon Boots Or You Don&#39;t Love Them](https://kotaku.com/jimmy-choo-sailor-moon-collab-valentines-day-release-1850099690)
+ - [Attack on Titan Final Season Part 3 being split into 2 extra-long episodes](https://www.polygon.com/23594132/attack-on-titan-final-season-part-3-release-date-hour-long-special)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
