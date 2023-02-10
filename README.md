@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony accuses Microsoft of &#39;obvious harassment&#39; in latest FTC court filing](https://www.pcgamer.com/sony-accuses-microsoft-of-obvious-harassment-in-latest-ftc-court-filing)
- - [Asus TUF Gaming Radeon RX 7900 XTX OC Edition](https://www.pcgamer.com/asus-tuf-gaming-radeon-rx-7900-xtx-oc-edition)
- - [You can grab a 2TB Steam Deck SSD from the makers of the most modular laptop](https://www.pcgamer.com/you-can-grab-a-2tb-steam-deck-ssd-from-the-makers-of-the-most-modular-laptop)<!-- GAME:END -->
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Sony, Microsoft, and Activision accuse each other of ‘sabotage’ and ‘harassment’](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [How long is Hogwarts Legacy?](https://www.pcgamer.com/how-long-is-hogwarts-legacy-length)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
