@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now buy a Coca-Cola phone for the price of 525 Coke cans](https://www.androidauthority.com/realme-10-pro-5g-coca-cola-edition-phone-3281806/)
- - [OnePlus 11 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/oneplus-11-vs-samsung-galaxy-s23-3276762/)
- - [Best Smart TV for 2023: Top Picks With Roku, Google and More for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare wants to help you set up your own Mastodon server in ‘minutes’](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)
+ - [Former staff say Twitter needs to update its systems to enact changes sought by Elon Musk, but mass layoffs have forced frequent code freezes &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230210/p5#a230210p5)
+ - [You can now buy a Coca-Cola phone for the price of 525 Coke cans](https://www.androidauthority.com/realme-10-pro-5g-coca-cola-edition-phone-3281806/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
