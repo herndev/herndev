@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
- - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
- - 👉 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
+ - 💣 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
+ - ⏩ [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
+ - 👉 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
 
 ---
 
