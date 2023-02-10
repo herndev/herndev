@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And we almost die, if we swallow a sip of water the wrong way. &lpar;Yes, this was a whole turtle&rpar;](http://9gag.com/gag/aPgg4YQ)
- - ⏩ [Deserved it](http://9gag.com/gag/awZZbY4)
- - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
+ - 💣 [Madonna and Suzanna Hoff &lpar;from The Bangles&rpar; are the same age](http://9gag.com/gag/aNwwZVv)
+ - ⏩ [Bro gambled his life](http://9gag.com/gag/ajVV62q)
+ - 👉 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)<!-- MEMES:END -->
 
 ---
 
