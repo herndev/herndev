@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic set includes combo so powerful English language has no words to describe it](https://www.polygon.com/23589224/magic-phyrexia-all-will-be-one-best-combo-attacks-tokens-vindicator-mondrak)
- - [Hogwarts Legacy Treasure Vaults: How to open each one](https://www.pcgamer.com/hogwarts-legacy-treasure-vault-solutions)
- - [You can try out all of Octopath Traveler 2&#39;s protagonists in its demo right now](https://www.pcgamer.com/you-can-try-out-all-of-octopath-traveler-2s-protagonists-in-its-demo-right-now)<!-- GAME:END -->
+ - [The Wizarding World Awaits: Hogwarts Legacy is Available Now](https://news.xbox.com/en-us/2023/02/10/hogwarts-legacy-out-now/)
+ - [Demon Slayer season 3 premieres early — but only in theaters](https://www.polygon.com/23594385/demon-slayer-season-3-early-theatrical-release-date-premiere)
+ - [When does Hogwarts Legacy come out on Switch, PS4, and Xbox One?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
