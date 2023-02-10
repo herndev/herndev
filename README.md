@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haha. Wtf dude](http://9gag.com/gag/az2e0qb)
+ - 💣 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
  - ⏩ [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 👉 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
+ - 👉 [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)<!-- MEMES:END -->
 
 ---
 
