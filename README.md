@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: some Reddit usernames and other keywords cause ChatGPT to give bizarre responses, likely due to the web data OpenAI scraped to train its model &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230210/p10#a230210p10)
- - [Daily Deals Feb. 10: Up to 53% off Echo Show devices, $510 off a MacBook Pro, PlayStation 5 for $399 &amp; more](https://appleinsider.com/articles/23/02/10/daily-deals-feb-10-up-to-53-off-echo-show-devices-510-off-a-macbook-pro-playstation-5-for-399-more?utm_medium=rss)
- - [JD.com plans to launch an &quot;industrial version&quot; of a ChatGPT-like tool called ChatJD focused on retail and finance, following similar moves by Alibaba and Baidu &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230210/p9#a230210p9)<!-- TECH:END -->
+ - [Filing: bankrupt crypto lender Celsius wants to raise $14.4M by selling coupons and credits it got from mining company Bitmain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230210/p12#a230210p12)
+ - [Helix Presidents Day Mattress Sale Offers 25% Off Sitewide Plus Two Free Pillows     - CNET](https://www.cnet.com/deals/helix-25-off-presidents-day-mattress-sale/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/these-are-the-absolute-best-netflix-fantasy-movies-to-check-out-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
