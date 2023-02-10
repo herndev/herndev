@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
- - ⏩ [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
- - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
+ - 💣 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)
+ - ⏩ [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/a044vrv)
+ - 👉 [Deserved it](http://9gag.com/gag/awZZbY4)<!-- MEMES:END -->
 
 ---
 
