@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s what the Apple Glasgow retail store union negotiated for itself](https://appleinsider.com/articles/23/02/10/heres-what-the-apple-glasgow-retail-store-union-negotiated-for-itself?utm_medium=rss)
- - [Boulies Master Series chair review: Built for gaming, ideal for productivity](https://appleinsider.com/articles/23/02/10/boulies-master-series-chair-review-built-for-gaming-ideal-for-productivity?utm_medium=rss)
- - [Some under-resourced academic and civil-society researchers say Twitter&#39;s API paywall will jeopardize the study of influence campaigns and platform manipulation &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230210/p15#a230210p15)<!-- TECH:END -->
+ - [Source: Microsoft shut its Industrial Metaverse Core team, formed four months ago to build tools for industrial settings, and laid off the team&#39;s 100 employees &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230210/p16#a230210p16)
+ - [Oxygen OS vs One UI: A thorough comparison of the two popular Android skins](https://www.androidauthority.com/oxygen-os-vs-one-ui-1090176/)
+ - [The FBI’s Most Controversial Surveillance Tool Is Under Threat](https://www.wired.com/story/fbi-section-702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
