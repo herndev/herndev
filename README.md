@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC commissioner Hester Peirce rebukes her agency&#39;s action against Kraken, calling it &quot;paternalistic and lazy&quot; and questioning if it was a win for investors &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230210/p1#a230210p1)
- - [One UI 5.1 bloatware does NOT take up 60GB storage on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-storage-bloatware-3281775/)
- - [A look at the economics of Microsoft and Google inserting LLMs into search, crushing profitability and requiring massive capex, and the impact on the companies &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230209/p35#a230209p35)<!-- TECH:END -->
+ - [Samsung Galaxy A34, A54 prices leak: Expect a price hike](https://www.androidauthority.com/samsung-galaxy-a34-a54-prices-3281785/)
+ - [San Diego-based Faro Health, whose cloud computing software provides real-time insights for clinical trials, raised a $20M Series A led by General Catalyst &lpar;Fred Pennic/HIT Consultant&rpar;](http://www.techmeme.com/230210/p2#a230210p2)
+ - [SEC commissioner Hester Peirce rebukes her agency&#39;s action against Kraken, calling it &quot;paternalistic and lazy&quot; and questioning if it was a win for investors &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230210/p1#a230210p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
