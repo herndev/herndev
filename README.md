@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom amiibo support guide, confirmed rewards &lpar;so far&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/nintendo-switch-amiibo-support-rewards-gliders-totk-botw-2)
- - [Hogwarts Legacy’s Steam Forums Are A Mess Right Now](https://kotaku.com/hogwarts-legacy-pc-valve-steam-jk-rowling-transphobia-1850100096)
- - [Yu Yu Hakusho&#39;s Justin Cook On Why The Anime Series Still Resonates 30 Years Later](https://kotaku.com/justin-cook-anime-yu-yu-hakusho-30th-anniversary-1850096416)<!-- GAME:END -->
+ - [How to watch the Super Bowl for free](https://www.polygon.com/deals/2023/2/10/23594155/super-bowl-stream-free-trial-subscriptions-how-to)
+ - [Remedy plans to release a new game each year from now on](https://www.pcgamer.com/remedy-plans-to-release-a-new-game-each-year-from-now-on)
+ - [Reddit gets hacked after employee falls victim to phishing attack](https://www.pcgamer.com/reddit-gets-hacked-after-employee-falls-victim-to-phishing-attack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
