@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)
- - ⏩ [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - 👉 [Introverts trying to look comfortable in a social setting](http://9gag.com/gag/aqeeZbZ)<!-- MEMES:END -->
+ - 💣 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
+ - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 ---
 
