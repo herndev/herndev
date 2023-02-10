@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants to help developers make experiences like Maps’ new ‘immersive’ view](https://www.theverge.com/2023/2/9/23593342/google-maps-immersive-stream-xr-experiences-immersive-view-cloud)
- - [The US DOT says it is investigating Neuralink over the potentially illegal movement of hazardous pathogens, after an alert from an animal welfare advocacy group &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/230209/p30#a230209p30)
- - [The Absolute Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hbo-max-february-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit suffered a cyberattack on February 5, allowing hackers to access some documents, code, and business systems; the company says user passwords are safe &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230209/p31#a230209p31)
+ - [&#39;You&#39; Season 4 Review: Netflix Thriller Is a Mixed Bag     - CNET](https://www.cnet.com/culture/entertainment/you-season-4-review-netflix-thriller-is-a-mixed-bag/#ftag=CAD590a51e)
+ - [Google wants to help developers make experiences like Maps’ new ‘immersive’ view](https://www.theverge.com/2023/2/9/23593342/google-maps-immersive-stream-xr-experiences-immersive-view-cloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
