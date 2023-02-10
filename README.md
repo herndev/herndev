@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepsi](http://9gag.com/gag/aDYYRG9)
- - ⏩ [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
- - 👉 [5 Black cops. No riots??](http://9gag.com/gag/aMEEbqV)<!-- MEMES:END -->
+ - 💣 [Nightmare fuel](http://9gag.com/gag/ajVg24g)
+ - ⏩ [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
+ - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
 
 ---
 
