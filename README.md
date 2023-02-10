@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Growing up with this guy makes it even harder to watch](http://9gag.com/gag/anzzq3b)
- - ⏩ [Regret asking.](http://9gag.com/gag/a4ooKoQ)
- - 👉 [I&#39;m the hottest man alive, please don&#39;t be a bigot...](http://9gag.com/gag/aVbxGr2)<!-- MEMES:END -->
+ - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
+ - ⏩ [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)
+ - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 ---
 
