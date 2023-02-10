@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warren Beatty’s Dick Tracy returns in a sequel to one of the weirdest things I’ve ever seen](https://www.polygon.com/23594837/dick-tracy-warren-beatty-zoom-tcm-special-2023)
- - [Hollow Knight: Silksong playtester encourages patience, says it&#39;s a &#39;glorious game worth the wait&#39;](https://www.pcgamer.com/hollow-knight-silksong-playtester-encourages-patience-says-its-a-glorious-game-worth-the-wait)
- - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)<!-- GAME:END -->
+ - [Trans Witch Games Bundle Is A Cool Alternative To Hogwarts Legacy](https://kotaku.com/trans-witch-bundle-hogwarts-legacy-jk-rowling-1850101608)
+ - [Someone Please Help This Witcher 3 Fan Who&#39;s Being Haunted By A Hammer](https://kotaku.com/witcher-3-wild-hunt-hammer-glitch-cd-projekt-red-fix-1850101307)
+ - [Hogwarts Legacy ‘Ghost of Our Love’ side quest walkthrough](https://www.polygon.com/23594873/ghost-our-love-side-quest-walkthrough-floating-candles-location-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
