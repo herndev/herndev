@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)
- - ⏩ [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - 💣 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
+ - ⏩ [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
  - 👉 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
 
 ---
