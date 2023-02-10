@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: bankrupt crypto lender Celsius wants to raise $14.4M by selling coupons and credits it got from mining company Bitmain &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/230210/p12#a230210p12)
- - [Helix Presidents Day Mattress Sale Offers 25% Off Sitewide Plus Two Free Pillows     - CNET](https://www.cnet.com/deals/helix-25-off-presidents-day-mattress-sale/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/these-are-the-absolute-best-netflix-fantasy-movies-to-check-out-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Shrinking&#39; comedy breaks top ten, says streaming aggregator](https://appleinsider.com/articles/23/02/10/shrinking-comedy-breaks-top-ten-says-streaming-aggregator?utm_medium=rss)
+ - [A look at Otonomo and Wejo, two struggling startups working to monetize connected car data; Otonomo to merge with roadside assistance tech provider Urgently &lpar;Gabrielle Coppola/Bloomberg&rpar;](http://www.techmeme.com/230210/p13#a230210p13)
+ - [We asked, you told us: On Seamless Updates, you’re split right down the middle](https://www.androidauthority.com/seamless-updates-2023-poll-results-3281974/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
