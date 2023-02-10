@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare wants to help you set up your own Mastodon server in ‘minutes’](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)
- - [Former staff say Twitter needs to update its systems to enact changes sought by Elon Musk, but mass layoffs have forced frequent code freezes &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/230210/p5#a230210p5)
- - [You can now buy a Coca-Cola phone for the price of 525 Coke cans](https://www.androidauthority.com/realme-10-pro-5g-coca-cola-edition-phone-3281806/)<!-- TECH:END -->
+ - [Poll: Did a pre-order/trade-in deal change your mind about buying a phone?](https://www.androidauthority.com/preorder-trade-in-deal-change-mind-phone-poll-3281798/)
+ - [OPPO Find N2 Flip is coming next week, and it’s a global launch](https://www.androidauthority.com/oppo-find-n2-flip-launch-3281460/)
+ - [Cloudflare wants to help you set up your own Mastodon server in ‘minutes’](https://www.theverge.com/2023/2/10/23593966/cloudflare-mastodon-server-wildebeest-instance-fediverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
