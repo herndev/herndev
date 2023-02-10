@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
- - ⏩ [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 👉 [I seriously hope she is f**ked beyond imagination](http://9gag.com/gag/a6q1W69)<!-- MEMES:END -->
+ - 💣 [And we almost die, if we swallow a sip of water the wrong way. &lpar;Yes, this was a whole turtle&rpar;](http://9gag.com/gag/aPgg4YQ)
+ - ⏩ [Deserved it](http://9gag.com/gag/awZZbY4)
+ - 👉 [Hungarian PM Viktor Orban the only EU leader that refused to clap for Zelensky](http://9gag.com/gag/a2KKzdp)<!-- MEMES:END -->
 
 ---
 
