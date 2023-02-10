@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GWGB.](http://9gag.com/gag/a9q1QxL)
- - ⏩ [Deserved it](http://9gag.com/gag/awZZbY4)
- - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 💣 [Pepsi](http://9gag.com/gag/aDYYRG9)
+ - ⏩ [Such determination](http://9gag.com/gag/anzzYdo)
+ - 👉 [These high rises are modern pig farms in China. &lpar;Source in comments&rpar;](http://9gag.com/gag/a4ooddm)<!-- MEMES:END -->
 
 ---
 
