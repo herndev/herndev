@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans CarPlay app for its drivers](https://appleinsider.com/articles/23/02/10/uber-plans-carplay-app-for-its-drivers?utm_medium=rss)
- - [Sources: Amazon is in talks with Times Internet to buy MX Player, one of India&#39;s top VOD streaming services; Times Internet bought MX Player for $140M in 2018 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230210/p6#a230210p6)
- - [Friday’s top tech news: a pair of DIY projects for the weekend](https://www.theverge.com/2023/2/10/23593976/february-10-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [USB-C on iPhone 15 might still require MFi certified cables](https://appleinsider.com/articles/23/02/10/usb-c-on-iphone-15-might-still-require-mfi-certified-cables?utm_medium=rss)
+ - [Wiz’s SpaceSense Smart Lights Aren’t Worth Making the Switch](https://www.wired.com/story/wiz-spacesense-smart-lights/)
+ - [GMC Hummer EV review: bummer EV](https://www.theverge.com/23591501/gmc-hummer-ev-review-photos-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
