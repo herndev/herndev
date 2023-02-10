@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV owners can accept iCloud terms without an iPhone or iPad](https://appleinsider.com/articles/23/02/10/apple-tv-owners-can-accept-icloud-terms-without-an-iphone-or-ipad?utm_medium=rss)
  - [A US SDNY jury finds a digital artist violated Herm&amp;egrave;s&#39; rights to the Birkin trademark by creating and selling MetaBirkin NFTs depicting versions of the handbags &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230209/p33#a230209p33)
- - [As ChatGPT and other LLMs repackage info into superficial approximations, like lossy compression for images, the web will become a blurrier version of itself &lpar;Ted Chiang/New Yorker&rpar;](http://www.techmeme.com/230209/p32#a230209p32)
- - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As ChatGPT and other LLMs repackage info into superficial approximations, like lossy compression for images, the web will become a blurrier version of itself &lpar;Ted Chiang/New Yorker&rpar;](http://www.techmeme.com/230209/p32#a230209p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
