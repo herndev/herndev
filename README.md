@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)
- - [Razer Blade 16](https://www.pcgamer.com/razer-blade-16-review-rtx-4090-mobile-performance)
- - [PlayStation VR2 unboxing](https://blog.playstation.com/2023/02/10/playstation-vr2-unboxing/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 13 to 17](https://news.xbox.com/en-us/2023/02/10/next-week-on-xbox-new-games-for-february-13-to-17/)
+ - [Vampire survival game getting major free update that overhauls combat, castles, necromancers, and more](https://www.pcgamer.com/vampire-survival-game-getting-major-free-update-that-overhauls-combat-castles-necromancers-and-more)
+ - [Players’ Choice: Best of PS5](https://blog.playstation.com/2023/02/10/players-choice-best-of-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
