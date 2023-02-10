@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
+ - 💣 [Haha. Wtf dude](http://9gag.com/gag/az2e0qb)
  - ⏩ [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - 👉 [GWGB.](http://9gag.com/gag/a9q1QxL)<!-- MEMES:END -->
+ - 👉 [Sometimes the jokes write themselves](http://9gag.com/gag/aoKKEdm)<!-- MEMES:END -->
 
 ---
 
