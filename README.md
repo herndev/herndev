@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nightmare fuel](http://9gag.com/gag/ajVg24g)
- - ⏩ [What do we say to the God of death?](http://9gag.com/gag/axoBXRY)
- - 👉 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)<!-- MEMES:END -->
+ - 💣 [Relationships look the same across the world](http://9gag.com/gag/aDYYw8x)
+ - ⏩ [Aaaaaaand its gone](http://9gag.com/gag/a7q14Ww)
+ - 👉 [What are you eating?](http://9gag.com/gag/aME4RRX)<!-- MEMES:END -->
 
 ---
 
