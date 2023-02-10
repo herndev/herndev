@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Apple&#39;s 2020-2022 revenue per new hire was $2.51M, up from $1.17M during 2017-2019, and higher than Meta&#39;s $0.79M, Microsoft&#39;s $1.06M, and other peers &lpar;Saksha Menezes/Bloomberg&rpar;](http://www.techmeme.com/230210/p14#a230210p14)
- - [Jason Momoa has family feelings in the trailer for Fast X](https://www.theverge.com/23594357/fast-x-trailer-jason-momoa-rita-moreno)
- - [Arcane Is a Work of Art](https://www.wired.com/2023/02/geeks-guide-netflix-arcane/)<!-- TECH:END -->
+ - [Here&#39;s what the Apple Glasgow retail store union negotiated for itself](https://appleinsider.com/articles/23/02/10/heres-what-the-apple-glasgow-retail-store-union-negotiated-for-itself?utm_medium=rss)
+ - [Boulies Master Series chair review: Built for gaming, ideal for productivity](https://appleinsider.com/articles/23/02/10/boulies-master-series-chair-review-built-for-gaming-ideal-for-productivity?utm_medium=rss)
+ - [Some under-resourced academic and civil-society researchers say Twitter&#39;s API paywall will jeopardize the study of influence campaigns and platform manipulation &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230210/p15#a230210p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
