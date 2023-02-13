@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s next flagship ups camera resolution, keeps headphone jack even in 2023](https://www.androidauthority.com/sony-xperia-1-v-renders-specs-3282458/)
- - [How to Rewatch Rihanna&#39;s Spectacular Super Bowl Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/how-to-rewatch-rihannas-spectacular-super-bowl-halftime-show/#ftag=CAD590a51e)
- - [Watch This Masterpiece on Netflix Before It&#39;s Too Late     - CNET](https://www.cnet.com/culture/entertainment/watch-this-masterpiece-on-netflix-before-its-too-late/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vita3K PS Vita emulator is now available for Android](https://www.androidauthority.com/vita3k-ps-vita-emulator-android-3281218/)
+ - [Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
+ - [Sony’s next flagship ups camera resolution, keeps headphone jack even in 2023](https://www.androidauthority.com/sony-xperia-1-v-renders-specs-3282458/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
