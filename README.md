@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to get the Galaxy S23’s bypass charging feature on your phone](https://www.androidauthority.com/galaxy-s23-bypass-charging-feature-more-phones-3282489/)
- - [Daily Authority: 👏 Flagship foldable revisited](https://www.androidauthority.com/daily-authority-february-13-2023-3282462/)
- - [The OnePlus 11 won’t be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)<!-- TECH:END -->
+ - [Mark your calendars: Galaxy S23 software is coming older flagships &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
+ - [Sex educators, adult stars, and sex workers complain about Instagram, saying Meta&#39;s moderation has gotten more punitive and less predictable since SESTA-FOSTA &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/230213/p2#a230213p2)
+ - [Xiaomi’s first phone with a ‘Dynamic Island’ could launch globally soon](https://www.androidauthority.com/xiaomi-13-lite-global-launch-3282494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
