@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 big things we learned from the Destiny 2 &#39;state of the game&#39; address](https://www.pcgamer.com/7-big-things-we-learned-from-the-destiny-2-state-of-the-game-address)
- - [Your Favorite Voice Actors Call Out AI Sites Copying Voices Without Consent](https://kotaku.com/ai-voice-actors-steve-blum-elevenlabs-contracts-sell-1850108292)
- - [Zelda: Tears Of The Kingdom Shot Has Fans Gushing About Graphics](https://kotaku.com/zelda-tears-kingdom-botw-2-graphics-improvements-1850108255)<!-- GAME:END -->
+ - [Extinct No More: Sniffer Coming to Minecraft Update 1.20](https://news.xbox.com/en-us/2023/02/13/extinct-no-more-sniffer-coming-to-minecraft-update-1-20/)
+ - [The Legend of Zelda: Breath of the Wild is down to $40 ahead of sequel’s release](https://www.polygon.com/deals/2023/2/13/23597593/legend-zelda-breath-of-the-wild-botw-expansion-pass-deal-sale)
+ - [Tears of the Kingdom trailer is hiding a monster from the original Zelda](https://www.polygon.com/nintendo/23597751/zelda-tears-of-kingdom-trailer-analysis-gleeok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
