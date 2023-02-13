@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Transformers: Rise of Beasts trailer shows off Mirage and a few other Autobots](https://www.polygon.com/23597014/transformers-rise-of-beasts-trailer-beast-wars-release-date)
- - [Five new Steam games you probably missed &lpar;February 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-13-2023)
- - [Report: EA Paying $588 Million For The Rights To The English Premier League](https://kotaku.com/ea-sports-fc-fifa-premier-league-rights-deal-money-1850105985)<!-- GAME:END -->
+ - [Here’s the M&amp;Ms Super Bowl commercial that caused an internet meltdown](https://www.polygon.com/23597087/m-and-ms-super-bowl-commercial-maya-rudolph-spokescandies)
+ - [Michael Keaton is back as Batman in The Flash, but wait, is that Christian Bale?](https://www.polygon.com/23597010/batman-michael-keaton-flash-movie-christian-bale)
+ - [Guardians of the Galaxy Vol. 3 trailer sets up a bittersweet goodbye](https://www.polygon.com/23597017/guardians-of-the-galaxy-vol-3-trailer-super-bowl-gotg3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
