@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cult PC gaming icon &#39;Super Mario&#39; resurrects his &#39;80s rap classic in nostalgic Super Bowl ad](https://www.pcgamer.com/cult-pc-gaming-icon-super-mario-resurrects-his-80s-rap-classic-in-nostalgic-super-bowl-ad)
  - [Wordle hint and answer #604: Monday, February 13](https://www.pcgamer.com/wordle-hint-answer-today-604-february-13)
- - [Here&#39;s when Wild Hearts releases in your timezone and when you can start the EA Play First trial](https://www.pcgamer.com/wild-hearts-release-time)
- - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)<!-- GAME:END -->
+ - [Here&#39;s when Wild Hearts releases in your timezone and when you can start the EA Play First trial](https://www.pcgamer.com/wild-hearts-release-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
