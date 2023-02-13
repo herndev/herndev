@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient animals](http://9gag.com/gag/aOxxB82)
- - ⏩ [Mike Tyson doing side quests](http://9gag.com/gag/ajVV9jq)
- - 👉 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
+ - 💣 [What does an okidoki look like then?](http://9gag.com/gag/a9qqrq6)
+ - ⏩ [Really?](http://9gag.com/gag/aDYYd2x)
+ - 👉 [Nostalgic song](http://9gag.com/gag/aWGGx4q)<!-- MEMES:END -->
 
 ---
 
