@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rihanna Saved the Super Bowl—Literally](https://www.wired.com/story/super-bowl-rihanna-halftime-tech-flying/)
  - [Watch 2023 Super Bowl Ads: All the Best Commercials So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)
- - [&#39;Indiana Jones and the Dial of Destiny&#39; Reveals Nostalgic Trailer at Super Bowl     - CNET](https://www.cnet.com/culture/entertainment/indiana-jones-and-the-dial-of-destiny-reveals-nostalgic-trailer-at-super-bowl/#ftag=CAD590a51e)
- - [Super Bowl 2023 Movie Trailers: Watch Them All Here     - CNET](https://www.cnet.com/culture/entertainment/super-bowl-2023-movie-trailers-watch-them-all-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chiefs&#39; Travis Kelce Scores With &#39;Stanky Leg&#39; Super Bowl Dance     - CNET](https://www.cnet.com/culture/entertainment/chiefs-travis-kelce-scores-with-stanky-leg-super-bowl-dance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
