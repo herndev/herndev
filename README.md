@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Face Masks We Actually Like to Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-face-masks/)
- - [Daily Deals Feb. 13: 14&quot; MacBook Pro $1,689, $200 off M2 MacBook Air, $500 off 27&quot; iMac  &amp; more](https://appleinsider.com/articles/23/02/13/daily-deals-feb-13-14-macbook-pro-1689-200-off-m2-macbook-air-500-off-27-imac-more?utm_medium=rss)
- - [Analysis: the blended bill of materials for the iPhone 14 Pro Max &lpar;128GB&rpar; is $464 total, up 3.7% on the 13 Pro Max, with 22% down to Apple&#39;s A16 and other chips &lpar;Shenghao Bai/Counterpoint Research&rpar;](http://www.techmeme.com/230213/p10#a230213p10)<!-- TECH:END -->
+ - [A study finds 11 data brokers selling data on Americans&#39; mental health information, including on antidepressants and insomnia, likely acquired from app makers &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230213/p13#a230213p13)
+ - [Arlo’s security cameras will keep free cloud storage for existing customers after all](https://www.theverge.com/2023/2/13/23597509/arlo-reverse-eol-policy-free-cloud-storage)
+ - [The iPhone 14 Pro Max costs $1,099 to buy, but here’s how much it costs to make](https://www.androidauthority.com/iphone-14-pro-max-bom-3282634/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
