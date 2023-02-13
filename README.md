@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trans Witch Games Bundle Is A Cool Alternative To Hogwarts Legacy](https://kotaku.com/trans-witch-bundle-hogwarts-legacy-jk-rowling-1850101608)
- - [Someone Please Help This Witcher 3 Fan Who&#39;s Being Haunted By A Hammer](https://kotaku.com/witcher-3-wild-hunt-hammer-glitch-cd-projekt-red-fix-1850101307)
- - [Hogwarts Legacy ‘Ghost of Our Love’ side quest walkthrough](https://www.polygon.com/23594873/ghost-our-love-side-quest-walkthrough-floating-candles-location-map)<!-- GAME:END -->
+ - [Transformers: Rise of Beasts trailer shows off Mirage and a few other Autobots](https://www.polygon.com/23597014/transformers-rise-of-beasts-trailer-beast-wars-release-date)
+ - [Five new Steam games you probably missed &lpar;February 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-13-2023)
+ - [Report: EA Paying $588 Million For The Rights To The English Premier League](https://kotaku.com/ea-sports-fc-fifa-premier-league-rights-deal-money-1850105985)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
