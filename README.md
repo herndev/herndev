@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Need to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
- - [A Stanford student used a prompt injection attack to reveal Bing Chat&#39;s codename Sydney and its initial prompt that governs how the service interacts with users &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230212/p9#a230212p9)
- - [Look What ChatGPT Did to My Online Dating Profile     - CNET](https://www.cnet.com/culture/internet/look-what-chatgpt-did-to-my-online-dating-profile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s next flagship ups camera resolution, keeps headphone jack even in 2023](https://www.androidauthority.com/sony-xperia-1-v-renders-specs-3282458/)
+ - [How to Rewatch Rihanna&#39;s Spectacular Super Bowl Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/how-to-rewatch-rihannas-spectacular-super-bowl-halftime-show/#ftag=CAD590a51e)
+ - [Watch This Masterpiece on Netflix Before It&#39;s Too Late     - CNET](https://www.cnet.com/culture/entertainment/watch-this-masterpiece-on-netflix-before-its-too-late/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
