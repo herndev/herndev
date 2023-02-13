@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nurse \u015eeyma Alaku\u015f ran to evacuate her patients instead of fleeing during the earthquake.](http://9gag.com/gag/axoo7NW)
- - ⏩ [They always have a brother.](http://9gag.com/gag/aZDD3N6)
- - 👉 [`..why can&#39;t I get an erection?!? Motherf](http://9gag.com/gag/a6qqOVA)<!-- MEMES:END -->
+ - 💣 [My name is bigus_dickus69](http://9gag.com/gag/ap99my8)
+ - ⏩ [Best commander all time](http://9gag.com/gag/ap99rO9)
+ - 👉 [Sam smith outfit at the Brit awards.](http://9gag.com/gag/a3ZZM3e)<!-- MEMES:END -->
 
 ---
 
