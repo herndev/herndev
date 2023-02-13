@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/awZZn0Q)
- - ⏩ [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - 👉 [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)<!-- MEMES:END -->
+ - 💣 [Outstanding moves](http://9gag.com/gag/aWGGxLA)
+ - ⏩ [Disappointed](http://9gag.com/gag/aWGG133)
+ - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
 
