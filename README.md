@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batgirl cast is making Batgirl sound like a huge loss](https://www.polygon.com/23597690/batgirl-release-cast-brendan-fraser-leslie-grace-why-canceled)
- - [Witcher 3 Vagina Modder Claims CDPR Used Mod Without Permission](https://kotaku.com/witcher-3-update-vagina-nexus-mods-permission-cdpr-1850109216)
- - [Everything That’s Happened In The Microsoft-Activision Merger Saga](https://kotaku.com/microsoft-activision-xbox-merger-timeline-call-of-duty-1850108022)<!-- GAME:END -->
+ - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)
+ - [Arrested Development is leaving Netflix soon](https://www.polygon.com/23598338/arrested-development-netflix-leaving-streaming-where)
+ - [You&#39;ve got three extra days to play in the Dark and Darker alpha](https://www.pcgamer.com/youve-got-three-extra-days-to-play-in-the-dark-and-darker-alpha)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
