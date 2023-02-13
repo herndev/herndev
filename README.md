@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You have one wish](http://9gag.com/gag/ay22BEr)
- - ⏩ [Helicopter](http://9gag.com/gag/aXnnjxP)
- - 👉 [`..why can&#39;t I get an erection?!? Motherf](http://9gag.com/gag/a6qqOVA)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/awZZn0Q)
+ - ⏩ [PC with perfect water cooling](http://9gag.com/gag/abvvYNr)
+ - 👉 [Please](http://9gag.com/gag/aoKK55g)<!-- MEMES:END -->
 
 ---
 
