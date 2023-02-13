@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve been going through the classic Tomb Raiders this year. Each have some flaws but they&#39;re well worth a visit.](http://9gag.com/gag/aoKK2A0)
- - ⏩ [In all the land.](http://9gag.com/gag/ap992p9)
- - 👉 [But Hunter. But Hillary&#39;s emails](http://9gag.com/gag/armmgG6)<!-- MEMES:END -->
+ - 💣 [Best version](http://9gag.com/gag/aZDDyX3)
+ - ⏩ [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
+ - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
 
