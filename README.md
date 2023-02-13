@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15.5-inch MacBook Air rumored to arrive in early April 2023](https://appleinsider.com/articles/23/02/13/155-inch-macbook-air-rumored-to-arrive-in-early-april-2023?utm_medium=rss)
- - [Updated 24-inch iMac may not arrive until late 2023](https://appleinsider.com/articles/23/02/12/updated-24-inch-imac-may-not-arrive-until-late-2023?utm_medium=rss)
- - [Big Safari &amp; Kernel issues fixed in iOS 16.3.1, macOS 13.2.1 updates](https://appleinsider.com/articles/23/02/13/big-safari-kernel-issues-fixed-in-ios-1631-macos-1321-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will try to talk its way out of a $40 billion fine on Tuesday](https://appleinsider.com/articles/23/02/13/apple-will-try-to-talk-its-way-out-of-a-40-billion-fine-on-tuesday?utm_medium=rss)
+ - [&#39;Loverwatch&#39; Left Me Wishing for a Third First Date](https://www.wired.com/story/loverwatch-let-me-date-moira/)
+ - [An old Sega sports and puzzle game is coming to PlayStation VR2](https://www.theverge.com/2023/2/13/23597857/sega-cosmic-smash-c-vrs-playstation-vr2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
