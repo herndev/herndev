@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive designed the royal emblem for King Charles&#39; coronation](https://appleinsider.com/articles/23/02/10/jony-ive-designed-the-royal-emblem-for-king-charles-coronation?utm_medium=rss)
- - [How to delete your Microsoft account](https://www.androidauthority.com/how-to-delete-microsoft-account-3282197/)
- - [Marvel&#39;s Moon Girl and Devil Dinosaur: Disney&#39;s New Hero Thrives With Her Mind     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-girl-and-devil-dinosaur-disneys-new-hero-thrives-with-her-mind/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the SEC has told crypto firm Paxos it plans to sue the company, alleging the Binance USD token, which it issues and lists, is an unregistered security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p8#a230212p8)
+ - [IDC: Pico, owned by ByteDance, gained ~15% of the global VR market share by Q3 2022, a 3x gain YoY; Meta&#39;s market share fell from 90% to ~75% in the same period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p7#a230212p7)
+ - [Xfinity customers will have to pay to stream Peacock soon](https://www.theverge.com/2023/2/12/23596786/xfinity-subscribers-peacock-nbcuniversal-comcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
