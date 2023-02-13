@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Splash 1](http://9gag.com/gag/aKEE7vj)
- - ⏩ [Ancient animals](http://9gag.com/gag/aOxxB82)
- - 👉 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
+ - 💣 [Cat doing CPR to his human and brought him back to life](http://9gag.com/gag/aREE7p5)
+ - ⏩ [When you design something for a 2-year mission and that turns into 10.5 years. Kudos to the engineers!](http://9gag.com/gag/adPPVAD)
+ - 👉 [Perfect](http://9gag.com/gag/aeQQDnQ)<!-- MEMES:END -->
 
 ---
 
