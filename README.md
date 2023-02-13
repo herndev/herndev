@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study finds 11 data brokers selling data on Americans&#39; mental health information, including on antidepressants and insomnia, likely acquired from app makers &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230213/p13#a230213p13)
- - [Arlo’s security cameras will keep free cloud storage for existing customers after all](https://www.theverge.com/2023/2/13/23597509/arlo-reverse-eol-policy-free-cloud-storage)
- - [The iPhone 14 Pro Max costs $1,099 to buy, but here’s how much it costs to make](https://www.androidauthority.com/iphone-14-pro-max-bom-3282634/)<!-- TECH:END -->
+ - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Bakkt will shut down its consumer-facing crypto app on March 16, two years after debuting with launch partners including Starbucks, Best Buy, and Choice Hotels &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230213/p14#a230213p14)
+ - [Apple supplier Salcomp has big plans for India](https://appleinsider.com/articles/23/02/13/apple-supplier-salcomp-has-big-plans-for-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
