@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s the M&amp;Ms Super Bowl commercial that caused an internet meltdown](https://www.polygon.com/23597087/m-and-ms-super-bowl-commercial-maya-rudolph-spokescandies)
- - [Michael Keaton is back as Batman in The Flash, but wait, is that Christian Bale?](https://www.polygon.com/23597010/batman-michael-keaton-flash-movie-christian-bale)
- - [Guardians of the Galaxy Vol. 3 trailer sets up a bittersweet goodbye](https://www.polygon.com/23597017/guardians-of-the-galaxy-vol-3-trailer-super-bowl-gotg3)<!-- GAME:END -->
+ - [How to plan your entire weekend around Rihanna’s Super Bowl halftime show](https://www.polygon.com/23592813/super-bowl-halftime-show-rihanna-how-watch-full-video)
+ - [&#39;Trans Witches Are Witches&#39; game bundles raise over $79,000 in protest of Hogwarts Legacy](https://www.pcgamer.com/trans-witches-are-witches-game-bundles-raise-over-dollar79000-in-protest-of-hogwarts-legacy)
+ - [The best Super Bowl commercials of 2023](https://www.polygon.com/23587790/best-super-bowl-commercials-2023-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
