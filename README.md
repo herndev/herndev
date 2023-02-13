@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)
+ - 💣 [Splash 1](http://9gag.com/gag/aKEE7vj)
  - ⏩ [Ancient animals](http://9gag.com/gag/aOxxB82)
- - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
+ - 👉 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
 
 ---
 
