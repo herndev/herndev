@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will try to talk its way out of a $40 billion fine on Tuesday](https://appleinsider.com/articles/23/02/13/apple-will-try-to-talk-its-way-out-of-a-40-billion-fine-on-tuesday?utm_medium=rss)
- - [&#39;Loverwatch&#39; Left Me Wishing for a Third First Date](https://www.wired.com/story/loverwatch-let-me-date-moira/)
- - [An old Sega sports and puzzle game is coming to PlayStation VR2](https://www.theverge.com/2023/2/13/23597857/sega-cosmic-smash-c-vrs-playstation-vr2)<!-- TECH:END -->
+ - [Rewatch Rihanna&#39;s Super Bowl Halftime Show Right Here     - CNET](https://www.cnet.com/culture/entertainment/rewatch-rihannas-super-bowl-halftime-show-right-here/#ftag=CAD590a51e)
+ - [Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230213/p23#a230213p23)
+ - [Clio Award for Best Super Bowl Ad Goes to Tubi&#39;s Bizarre Bunnies     - CNET](https://www.cnet.com/culture/sports/clio-award-for-best-super-bowl-ad-goes-to-tubis-bizarre-bunnies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
