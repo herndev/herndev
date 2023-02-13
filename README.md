@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone run away](http://9gag.com/gag/a3ZZPxQ)
- - ⏩ [Guys only want one thing](http://9gag.com/gag/aeQgXZQ)
- - 👉 [K.O !](http://9gag.com/gag/aDYY0vN)<!-- MEMES:END -->
+ - 💣 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - ⏩ [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
+ - 👉 [Oops](http://9gag.com/gag/awZZn0Q)<!-- MEMES:END -->
 
 ---
 
