@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rihanna Saved the Super Bowl—Literally](https://www.wired.com/story/super-bowl-rihanna-halftime-tech-flying/)
- - [Watch 2023 Super Bowl Ads: All the Best Commercials So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)
- - [Chiefs&#39; Travis Kelce Scores With &#39;Stanky Leg&#39; Super Bowl Dance     - CNET](https://www.cnet.com/culture/entertainment/chiefs-travis-kelce-scores-with-stanky-leg-super-bowl-dance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Stanford student used a prompt injection attack to reveal Bing Chat&#39;s codename Sydney and its initial prompt that governs how the service interacts with users &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230212/p9#a230212p9)
+ - [The Wild Logistics of Rihanna&#39;s Super Bowl Halftime Show](https://www.wired.com/story/super-bowl-rihanna-halftime-tech-flying/)
+ - [How to Rewatch Rihanna&#39;s Stunning Super Bowl 2023 Halftime Show     - CNET](https://www.cnet.com/culture/entertainment/how-to-rewatch-rihannas-stunning-super-bowl-2023-halftime-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
