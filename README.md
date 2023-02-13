@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple &amp; Big Tech gutted New York&#39;s right to repair bill](https://appleinsider.com/articles/23/02/13/how-apple-big-tech-gutted-new-yorks-right-to-repair-bill?utm_medium=rss)
- - [Samsung Camera Assistant gets more features, coming to more phones](https://www.androidauthority.com/samsung-camera-assistant-app-update-3282517/)
- - [How to stop mediaanalysisd from hogging your CPU in macOS](https://appleinsider.com/inside/macos-ventura/tips/how-to-stop-mediaanalysisd-from-hogging-your-cpu-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Doggy Bathroom Review: An Expensive Bin for Your Pup&#39;s Business](https://www.wired.com/review/doggy-bathroom/)
+ - [I Found My Chosen Family on Social Media](https://www.wired.com/story/instagram-chosen-family-social-media/)
+ - [A look at Eindhoven, a small, low-rise Dutch city home to ASML, chipmaker NXP, and other tech companies, which was a focus as the US prepared to restrict China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/230213/p8#a230213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
