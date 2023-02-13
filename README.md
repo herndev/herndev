@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - ⏩ [So much for unbiased reporting...](http://9gag.com/gag/aEqq7KG)
- - 👉 [Oops](http://9gag.com/gag/awZZn0Q)<!-- MEMES:END -->
+ - 💣 [You have one wish](http://9gag.com/gag/ay22BEr)
+ - ⏩ [Helicopter](http://9gag.com/gag/aXnnjxP)
+ - 👉 [`..why can&#39;t I get an erection?!? Motherf](http://9gag.com/gag/a6qqOVA)<!-- MEMES:END -->
 
 ---
 
