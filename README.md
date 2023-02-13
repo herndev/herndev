@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber strikes two seven-year deals with Google Cloud and Oracle to host its IT infrastructure; an Uber executive says 95% of its IT is hosted on its own servers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230213/p9#a230213p9)
- - [Doggy Bathroom Review: An Expensive Bin for Your Pup&#39;s Business](https://www.wired.com/review/doggy-bathroom/)
- - [I Found My Chosen Family on Social Media](https://www.wired.com/story/instagram-chosen-family-social-media/)<!-- TECH:END -->
+ - [13 Best Face Masks We Actually Like to Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-face-masks/)
+ - [Daily Deals Feb. 13: 14&quot; MacBook Pro $1,689, $200 off M2 MacBook Air, $500 off 27&quot; iMac  &amp; more](https://appleinsider.com/articles/23/02/13/daily-deals-feb-13-14-macbook-pro-1689-200-off-m2-macbook-air-500-off-27-imac-more?utm_medium=rss)
+ - [Analysis: the blended bill of materials for the iPhone 14 Pro Max &lpar;128GB&rpar; is $464 total, up 3.7% on the 13 Pro Max, with 22% down to Apple&#39;s A16 and other chips &lpar;Shenghao Bai/Counterpoint Research&rpar;](http://www.techmeme.com/230213/p10#a230213p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
