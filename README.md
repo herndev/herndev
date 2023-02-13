@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
- - ⏩ [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 👉 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
+ - 💣 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)
+ - ⏩ [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
 
