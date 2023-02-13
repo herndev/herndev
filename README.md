@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This polar survival management sim is based on real historical horrors](https://www.pcgamer.com/this-polar-survival-management-sim-is-based-on-real-historical-horrors)
  - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)
- - [Rihanna&#39;s Halftime Show Looked Like A Smash Bros. Stage](https://kotaku.com/rihanna-super-bowl-halftime-smash-bros-nintendo-nfl-1850106370)
- - [The Super Mario Bros. Movie revives the Super Mario Bros. Super Show rap](https://www.polygon.com/23597125/super-mario-bros-movie-rap-commercial-easter-eggs)<!-- GAME:END -->
+ - [Rihanna&#39;s Halftime Show Looked Like A Smash Bros. Stage](https://kotaku.com/rihanna-super-bowl-halftime-smash-bros-nintendo-nfl-1850106370)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
