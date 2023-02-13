@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My name is bigus_dickus69](http://9gag.com/gag/ap99my8)
- - ⏩ [Best commander all time](http://9gag.com/gag/ap99rO9)
- - 👉 [Sam smith outfit at the Brit awards.](http://9gag.com/gag/a3ZZM3e)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/awZZn0Q)
+ - ⏩ [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - 👉 [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)<!-- MEMES:END -->
 
 ---
 
