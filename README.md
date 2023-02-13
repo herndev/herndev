@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does an okidoki look like then?](http://9gag.com/gag/a9qqrq6)
- - ⏩ [Really?](http://9gag.com/gag/aDYYd2x)
- - 👉 [Nostalgic song](http://9gag.com/gag/aWGGx4q)<!-- MEMES:END -->
+ - 💣 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)
+ - ⏩ [Ancient animals](http://9gag.com/gag/aOxxB82)
+ - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
 
