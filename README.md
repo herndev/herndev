@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Outstanding moves](http://9gag.com/gag/aWGGxLA)
- - ⏩ [Disappointed](http://9gag.com/gag/aWGG133)
- - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
+ - 💣 [I&#39;ve been going through the classic Tomb Raiders this year. Each have some flaws but they&#39;re well worth a visit.](http://9gag.com/gag/aoKK2A0)
+ - ⏩ [In all the land.](http://9gag.com/gag/ap992p9)
+ - 👉 [But Hunter. But Hillary&#39;s emails](http://9gag.com/gag/armmgG6)<!-- MEMES:END -->
 
 ---
 
