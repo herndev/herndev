@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)
  - [This polar survival management sim is based on real historical horrors](https://www.pcgamer.com/this-polar-survival-management-sim-is-based-on-real-historical-horrors)
- - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)
- - [Rihanna&#39;s Halftime Show Looked Like A Smash Bros. Stage](https://kotaku.com/rihanna-super-bowl-halftime-smash-bros-nintendo-nfl-1850106370)<!-- GAME:END -->
+ - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
