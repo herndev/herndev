@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3&#39;s next-gen vaginas are going away](https://www.pcgamer.com/the-witcher-3s-next-gen-vaginas-are-going-away)
- - [The 23 Best PS2 Games](https://kotaku.com/best-ps2-games-rare-playstation-console-sony-retro-1790020087)
- - [This $800 mechanical keyboard had better let me actually hack into the Matrix](https://www.pcgamer.com/this-dollar800-mechanical-keyboard-had-better-let-me-actually-hack-into-the-matrix)<!-- GAME:END -->
+ - [The Batgirl cast is making Batgirl sound like a huge loss](https://www.polygon.com/23597690/batgirl-release-cast-brendan-fraser-leslie-grace-why-canceled)
+ - [Witcher 3 Vagina Modder Claims CDPR Used Mod Without Permission](https://kotaku.com/witcher-3-update-vagina-nexus-mods-permission-cdpr-1850109216)
+ - [Everything That’s Happened In The Microsoft-Activision Merger Saga](https://kotaku.com/microsoft-activision-xbox-merger-timeline-call-of-duty-1850108022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
