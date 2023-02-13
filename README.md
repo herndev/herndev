@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie to make Destiny 2 more challenging and overhaul its Power leveling system](https://www.theverge.com/2023/2/13/23597557/bungie-destiny-2-season-of-defiance-changes-power-system-challenges)
- - [The Verge’s 2023 Valentine’s Day gift guide](https://www.theverge.com/23561280/valentines-day-2023-gift-ideas-him-her-couples-husband-wife-partner-friend)
- - [M2 Pro Mac mini review: Best price to performance Apple Silicon yet](https://appleinsider.com/articles/23/02/13/m2-pro-mac-mini-review-best-price-to-performance-apple-silicon-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Apple fixes Siri bug in tvOS 16.3.2 &amp; HomePod update](https://appleinsider.com/articles/23/02/13/apple-fixes-siri-bug-in-tvos-1632-homepod-update?utm_medium=rss)
+ - [macOS Ventura 13.2.1 is here with bug fixes and improvements](https://appleinsider.com/articles/23/02/13/macos-ventura-1321-is-here-with-bug-fixes-and-improvements?utm_medium=rss)
+ - [Carl Pei reviews the OnePlus 11, calls it ‘beautiful’ but has ‘no real identity’](https://www.androidauthority.com/oneplus-11-review-carl-pei-3282732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
