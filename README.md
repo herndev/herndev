@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rewatch Rihanna&#39;s Super Bowl Halftime Show Right Here     - CNET](https://www.cnet.com/culture/entertainment/rewatch-rihannas-super-bowl-halftime-show-right-here/#ftag=CAD590a51e)
- - [Cloudflare says it mitigated dozens of hyper-volumetric DDoS attacks hitting customers last weekend; one exceeded 71M rps, 35%+ higher than the previous record &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230213/p23#a230213p23)
- - [Clio Award for Best Super Bowl Ad Goes to Tubi&#39;s Bizarre Bunnies     - CNET](https://www.cnet.com/culture/sports/clio-award-for-best-super-bowl-ad-goes-to-tubis-bizarre-bunnies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe     - CNET](https://www.cnet.com/science/space/astronomers-spot-asteroid-hours-before-it-turns-into-fireball-over-earth/#ftag=CAD590a51e)
+ - [Ahead of Valentine&#39;s Day, These Are The Top Searched Date Night Ideas on Google     - CNET](https://www.cnet.com/culture/ahead-of-valentines-day-these-are-the-top-searched-date-night-ideas-on-google/#ftag=CAD590a51e)
+ - [NASA Spots Mysterious Spokes Moving Along Saturn&#39;s Rings     - CNET](https://www.cnet.com/science/space/nasa-spots-mysterious-spokes-moving-along-saturns-rings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
