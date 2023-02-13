@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Extinct No More: Sniffer Coming to Minecraft Update 1.20](https://news.xbox.com/en-us/2023/02/13/extinct-no-more-sniffer-coming-to-minecraft-update-1-20/)
- - [The Legend of Zelda: Breath of the Wild is down to $40 ahead of sequel’s release](https://www.polygon.com/deals/2023/2/13/23597593/legend-zelda-breath-of-the-wild-botw-expansion-pass-deal-sale)
- - [Tears of the Kingdom trailer is hiding a monster from the original Zelda](https://www.polygon.com/nintendo/23597751/zelda-tears-of-kingdom-trailer-analysis-gleeok)<!-- GAME:END -->
+ - [The Witcher 3&#39;s next-gen vaginas are going away](https://www.pcgamer.com/the-witcher-3s-next-gen-vaginas-are-going-away)
+ - [The 23 Best PS2 Games](https://kotaku.com/best-ps2-games-rare-playstation-console-sony-retro-1790020087)
+ - [This $800 mechanical keyboard had better let me actually hack into the Matrix](https://www.pcgamer.com/this-dollar800-mechanical-keyboard-had-better-let-me-actually-hack-into-the-matrix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
