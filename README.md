@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)
- - [Arrested Development is leaving Netflix soon](https://www.polygon.com/23598338/arrested-development-netflix-leaving-streaming-where)
- - [You&#39;ve got three extra days to play in the Dark and Darker alpha](https://www.pcgamer.com/youve-got-three-extra-days-to-play-in-the-dark-and-darker-alpha)<!-- GAME:END -->
+ - [Big Changes Are Coming To Destiny 2 In Lightfall And Beyond](https://kotaku.com/destiny-2-lightfall-final-shape-exotics-power-crafting-1850110225)
+ - [The Transformers movies are one long Optimus Prime villain origin story](https://www.polygon.com/23574801/transformers-movies-evil-optimus-prime-villain)
+ - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
