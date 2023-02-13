@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Nurse \u015eeyma Alaku\u015f ran to evacuate her patients instead of fleeing during the earthquake.](http://9gag.com/gag/axoo7NW)
  - ⏩ [They always have a brother.](http://9gag.com/gag/aZDD3N6)
- - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
+ - 👉 [`..why can&#39;t I get an erection?!? Motherf](http://9gag.com/gag/a6qqOVA)<!-- MEMES:END -->
 
 ---
 
