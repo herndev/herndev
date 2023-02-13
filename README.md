@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why four of Steam&#39;s top five sellers are Hogwarts Legacy](https://www.pcgamer.com/why-four-of-steams-top-five-sellers-are-hogwarts-legacy)
- - [EA on verge of $600 million deal to be the Premier League&#39;s &#39;lead partner&#39;](https://www.pcgamer.com/ea-on-verge-of-dollar600-million-deal-to-be-the-premier-leagues-lead-partner)
- - [Warhammer 40K Kill Team set includes miniature miniatures for your miniatures](https://www.polygon.com/23593341/warhammer-40k-kill-team-soulshackle-easter-egg-miniature-game-table)<!-- GAME:END -->
+ - [Why is every character suddenly an ‘antihero’ now?](https://www.polygon.com/23589217/antiheroes-the-boys-batman-superman-buffy-spike-defined)
+ - [The Day Before devs say a calendar app stole their trademark, YouTube is delisting their videos, and no doubt the dog&#39;s eyeing up their homework](https://www.pcgamer.com/the-day-before-devs-say-a-calendar-app-stole-their-trademark-youtube-is-delisting-their-videos-and-no-doubt-the-dogs-eyeing-up-their-homework)
+ - [Wild Hearts review-in-progress: Stuck in a monstrous shadow](https://www.pcgamer.com/wild-hearts-review-in-progress-stuck-in-a-monstrous-shadow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
