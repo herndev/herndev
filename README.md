@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie revives the Super Mario Bros. Super Show rap](https://www.polygon.com/23597125/super-mario-bros-movie-rap-commercial-easter-eggs)
- - [Rihanna’s Super Bowl halftime show would make a great Super Smash Bros. stage](https://www.polygon.com/23597129/rihanna-super-bowl-halftime-show-super-smash-stage)
- - [How to plan your entire weekend around Rihanna’s Super Bowl halftime show](https://www.polygon.com/23592813/super-bowl-halftime-show-rihanna-how-watch-full-video)<!-- GAME:END -->
+ - [Madden 23 says the Eagles win the Super Bowl](https://www.polygon.com/23587882/madden-23-super-bowl-prediction-eagles-chiefs-philadelphia-kansas-city)
+ - [Rihanna&#39;s Halftime Show Looked Like A Smash Bros. Stage](https://kotaku.com/rihanna-super-bowl-halftime-smash-bros-nintendo-nfl-1850106370)
+ - [The Super Mario Bros. Movie revives the Super Mario Bros. Super Show rap](https://www.polygon.com/23597125/super-mario-bros-movie-rap-commercial-easter-eggs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
