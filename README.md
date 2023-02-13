@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Sony Xperia 1 V renders have us xperiencing déjà vu](https://www.theverge.com/2023/2/13/23597385/sony-xperia-1-v-leaked-renders-features-cameras-design-screen)
- - [Publishers worry that Microsoft&#39;s and Google&#39;s search chatbots, which summarize key info from articles, may undermine their businesses and spread misinformation &lpar;Wired&rpar;](http://www.techmeme.com/230213/p4#a230213p4)
- - [Tracxn: foreign VC funding in Indian tech startups fell nearly 40% YoY to $25.7B in 2022; Tiger Global, SoftBank, and Sequoia more than halved their investments &lpar;Financial Times&rpar;](http://www.techmeme.com/230213/p3#a230213p3)<!-- TECH:END -->
+ - [How Apple &amp; Big Tech gutted New York&#39;s right to repair bill](https://appleinsider.com/articles/23/02/13/how-apple-big-tech-gutted-new-yorks-right-to-repair-bill?utm_medium=rss)
+ - [Samsung Camera Assistant gets more features, coming to more phones](https://www.androidauthority.com/samsung-camera-assistant-app-update-3282517/)
+ - [How to stop mediaanalysisd from hogging your CPU in macOS](https://appleinsider.com/inside/macos-ventura/tips/how-to-stop-mediaanalysisd-from-hogging-your-cpu-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
