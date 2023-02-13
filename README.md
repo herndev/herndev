@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the SEC has told crypto firm Paxos it plans to sue the company, alleging the Binance USD token, which it issues and lists, is an unregistered security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p8#a230212p8)
- - [IDC: Pico, owned by ByteDance, gained ~15% of the global VR market share by Q3 2022, a 3x gain YoY; Meta&#39;s market share fell from 90% to ~75% in the same period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p7#a230212p7)
- - [Xfinity customers will have to pay to stream Peacock soon](https://www.theverge.com/2023/2/12/23596786/xfinity-subscribers-peacock-nbcuniversal-comcast)<!-- TECH:END -->
+ - [&#39;The Flash&#39; Super Bowl Trailer Reveals Both Keaton and Affleck as Batman     - CNET](https://www.cnet.com/culture/entertainment/the-flash-super-bowl-trailer-reveals-both-keaton-and-affleck-as-batman/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)
+ - [Sources: the SEC has told Paxos it plans to sue the crypto firm, alleging the Binance USD stablecoin, which it issues and lists, is an unregistered security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p8#a230212p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
