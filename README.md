@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Double Fine just dropped a 22-hour documentary series on the making of Psychonauts 2](https://www.pcgamer.com/double-fine-just-dropped-a-22-hour-documentary-series-on-the-making-of-psychonauts-2)
- - [Warthog fistfights, barrel goblins, and wooden ghosts: This action-RPG is 10 times weirder than Elden Ring](https://www.pcgamer.com/warthog-fistfights-barrel-goblins-and-wooden-ghosts-this-action-rpg-is-10-times-weirder-than-elden-ring)
- - [Who needs FIFA? EA ‘closing in’ on deal with Premier League](https://www.polygon.com/23597413/fifa-ea-sports-fc-premier-league-deal)<!-- GAME:END -->
+ - [Why four of Steam&#39;s top five sellers are Hogwarts Legacy](https://www.pcgamer.com/why-four-of-steams-top-five-sellers-are-hogwarts-legacy)
+ - [EA on verge of $600 million deal to be the Premier League&#39;s &#39;lead partner&#39;](https://www.pcgamer.com/ea-on-verge-of-dollar600-million-deal-to-be-the-premier-leagues-lead-partner)
+ - [Warhammer 40K Kill Team set includes miniature miniatures for your miniatures](https://www.polygon.com/23593341/warhammer-40k-kill-team-soulshackle-easter-egg-miniature-game-table)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
