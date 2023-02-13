@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/awZZn0Q)
- - ⏩ [PC with perfect water cooling](http://9gag.com/gag/abvvYNr)
- - 👉 [Please](http://9gag.com/gag/aoKK55g)<!-- MEMES:END -->
+ - 💣 [Nurse \u015eeyma Alaku\u015f ran to evacuate her patients instead of fleeing during the earthquake.](http://9gag.com/gag/axoo7NW)
+ - ⏩ [They always have a brother.](http://9gag.com/gag/aZDD3N6)
+ - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
 
