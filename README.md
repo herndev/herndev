@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #604: Monday, February 13](https://www.pcgamer.com/wordle-hint-answer-today-604-february-13)
  - [Here&#39;s when Wild Hearts releases in your timezone and when you can start the EA Play First trial](https://www.pcgamer.com/wild-hearts-release-time)
- - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)
- - [This polar survival management sim is based on real historical horrors](https://www.pcgamer.com/this-polar-survival-management-sim-is-based-on-real-historical-horrors)<!-- GAME:END -->
+ - [Intel reportedly seeking even more government funding for new German fab](https://www.pcgamer.com/intel-reportedly-seeking-even-more-government-funding-for-new-german-fab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
