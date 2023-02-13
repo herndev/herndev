@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t mess with Stacy](http://9gag.com/gag/a4oo7KQ)
- - ⏩ [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)
- - 👉 [That movie white noise just played out in Ohio with an airborne toxic event. Media black out, with distracting stories of ufos.](http://9gag.com/gag/aYVV4d0)<!-- MEMES:END -->
+ - 💣 [Ancient animals](http://9gag.com/gag/aOxxB82)
+ - ⏩ [Mike Tyson doing side quests](http://9gag.com/gag/ajVV9jq)
+ - 👉 [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)<!-- MEMES:END -->
 
 ---
 
