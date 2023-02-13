@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Flash&#39; Super Bowl Trailer Reveals Both Keaton and Affleck as Batman     - CNET](https://www.cnet.com/culture/entertainment/the-flash-super-bowl-trailer-reveals-both-keaton-and-affleck-as-batman/#ftag=CAD590a51e)
- - [The Absolute Best Documentaries to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-to-watch-on-netflix-in-2023/#ftag=CAD590a51e)
- - [Sources: the SEC has told Paxos it plans to sue the crypto firm, alleging the Binance USD stablecoin, which it issues and lists, is an unregistered security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230212/p8#a230212p8)<!-- TECH:END -->
+ - [Watch 2023 Super Bowl Ads: All the Best Commercials So Far     - CNET](https://www.cnet.com/culture/sports/watch-2023-super-bowl-commercials-before-the-big-game-best-ads-so-far/#ftag=CAD590a51e)
+ - [&#39;Indiana Jones and the Dial of Destiny&#39; Reveals Nostalgic Trailer at Super Bowl     - CNET](https://www.cnet.com/culture/entertainment/indiana-jones-and-the-dial-of-destiny-reveals-nostalgic-trailer-at-super-bowl/#ftag=CAD590a51e)
+ - [Super Bowl 2023 Movie Trailers: Watch Them All Here     - CNET](https://www.cnet.com/culture/entertainment/super-bowl-2023-movie-trailers-watch-them-all-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
