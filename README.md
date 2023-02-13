@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark your calendars: Galaxy S23 software is coming older flagships &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
- - [Sex educators, adult stars, and sex workers complain about Instagram, saying Meta&#39;s moderation has gotten more punitive and less predictable since SESTA-FOSTA &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/230213/p2#a230213p2)
- - [Xiaomi’s first phone with a ‘Dynamic Island’ could launch globally soon](https://www.androidauthority.com/xiaomi-13-lite-global-launch-3282494/)<!-- TECH:END -->
+ - [Leaked Sony Xperia 1 V renders have us xperiencing déjà vu](https://www.theverge.com/2023/2/13/23597385/sony-xperia-1-v-leaked-renders-features-cameras-design-screen)
+ - [Publishers worry that Microsoft&#39;s and Google&#39;s search chatbots, which summarize key info from articles, may undermine their businesses and spread misinformation &lpar;Wired&rpar;](http://www.techmeme.com/230213/p4#a230213p4)
+ - [Tracxn: foreign VC funding in Indian tech startups fell nearly 40% YoY to $25.7B in 2022; Tiger Global, SoftBank, and Sequoia more than halved their investments &lpar;Financial Times&rpar;](http://www.techmeme.com/230213/p3#a230213p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
