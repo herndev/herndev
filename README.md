@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 11 won’t be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
- - [Vita3K PS Vita emulator is now available for Android](https://www.androidauthority.com/vita3k-ps-vita-emulator-android-3281218/)
- - [Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)<!-- TECH:END -->
+ - [Here’s how to get the Galaxy S23’s bypass charging feature on your phone](https://www.androidauthority.com/galaxy-s23-bypass-charging-feature-more-phones-3282489/)
+ - [Daily Authority: 👏 Flagship foldable revisited](https://www.androidauthority.com/daily-authority-february-13-2023-3282462/)
+ - [The OnePlus 11 won’t be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
