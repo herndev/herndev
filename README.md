@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
- - ⏩ [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - 👉 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
+ - 💣 [XD\u200e\u200e](http://9gag.com/gag/a5XXERo)
+ - ⏩ [I can almost hear it](http://9gag.com/gag/a5XX1nr)
+ - 👉 [No money no honey](http://9gag.com/gag/aNwwwnr)<!-- MEMES:END -->
 
 ---
 
