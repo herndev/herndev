@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 11 won’t be the only OnePlus phone to get 4 years of Android updates](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
  - [Vita3K PS Vita emulator is now available for Android](https://www.androidauthority.com/vita3k-ps-vita-emulator-android-3281218/)
- - [Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)
- - [Sony’s next flagship ups camera resolution, keeps headphone jack even in 2023](https://www.androidauthority.com/sony-xperia-1-v-renders-specs-3282458/)<!-- TECH:END -->
+ - [Mark your calendars: Galaxy S23 software is coming older flagships on this date](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-5-1-update-3282469/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
