@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bella Ramsey Responds To The Last Of Us Gay Backlash: &#39;Get Used To It&#39;](https://kotaku.com/last-of-us-tlou-part-ii-abby-lev-bella-ramsey-hbo-show-1850112455)
- - [Trans witches game bundle raises $100K, offering an alternative to Hogwarts Legacy](https://www.polygon.com/23599186/trans-witches-are-witches-itchio-bundle-fundraiser)
- - [These anime about grown-up love get under your skin](https://www.polygon.com/23598350/romance-anime-adults-ghibli)<!-- GAME:END -->
+ - [Where to get Fluxweed Stem in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-fluxweed-stem)
+ - [Halo dropped the ball on Cortana’s villainous turn](https://www.polygon.com/23561086/cortana-halo-villain-twist)
+ - [Call of Duty: Modern Warfare 2&#39;s going to give the best player in the world a one-of-a-kind prize](https://www.pcgamer.com/call-of-duty-modern-warfare-2s-going-to-give-the-best-player-in-the-world-a-one-of-a-kind-prize)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
