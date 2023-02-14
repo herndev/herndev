@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Just Had Its Best Season Finale Ever](https://kotaku.com/destiny-2-lightfall-rasputin-traveler-witness-pyramid-1850115067)
- - [Hogwarts Legacy&#39;s first patch hasn&#39;t fixed performance issues for everyone](https://www.pcgamer.com/hogwarts-legacy-february-patch-notes)
- - [Early Plans For God of War Ragnarök Involved A Big Death And A Wild Twist](https://kotaku.com/god-of-war-ragnarok-kratos-atreus-death-cut-story-ps5-1850114816)<!-- GAME:END -->
+ - [Does Xbox Game Pass really cannibalize a publisher’s sales?](https://www.polygon.com/23600042/xbox-game-pass-lower-sales-cannibalize-uk-regulators-cma-activision)
+ - [Top Five Anime Couples Who Never Got Together](https://kotaku.com/nana-avatar-the-last-airbender-valentines-day-anime-1850115005)
+ - [Players are replacing their Hogwarts wands with with guns, Luigi Wiimotes, and asparagus](https://www.pcgamer.com/players-are-replacing-their-hogwarts-wands-with-with-guns-luigi-wiimotes-and-asparagus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
