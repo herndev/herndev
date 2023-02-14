@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to get Fluxweed Stem in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-fluxweed-stem)
- - [Halo dropped the ball on Cortana’s villainous turn](https://www.polygon.com/23561086/cortana-halo-villain-twist)
- - [Call of Duty: Modern Warfare 2&#39;s going to give the best player in the world a one-of-a-kind prize](https://www.pcgamer.com/call-of-duty-modern-warfare-2s-going-to-give-the-best-player-in-the-world-a-one-of-a-kind-prize)<!-- GAME:END -->
+ - [Valiant: A New World of Tanks Season Arrives with Bold Rewards](https://news.xbox.com/en-us/2023/02/14/valiant-a-new-world-of-tanks-season-arrives-with-bold-rewards/)
+ - [Mick Gordon is donating his fee for Atomic Heart to humanitarian aid for Ukraine](https://www.pcgamer.com/mick-gordon-is-donating-his-fee-for-atomic-heart-to-humanitarian-aid-for-ukraine)
+ - [How to learn Avada Kedavra in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599230/avada-kedavra-killing-unforgivable-curse-quest-sebastian-sallow-consequences-shadow-relic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
