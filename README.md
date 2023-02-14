@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Changes Are Coming To Destiny 2 In Lightfall And Beyond](https://kotaku.com/destiny-2-lightfall-final-shape-exotics-power-crafting-1850110225)
- - [The Transformers movies are one long Optimus Prime villain origin story](https://www.polygon.com/23574801/transformers-movies-evil-optimus-prime-villain)
- - [Xbox Confirms That Game Pass Leads To ‘Decline’ In Sales](https://kotaku.com/xbox-game-pass-sales-decline-cma-report-activision-deal-1850109961)<!-- GAME:END -->
+ - [Dead Island 2, Due In 2015, Now &#39;Coming Out A Week Early&#39;](https://kotaku.com/dead-island-2-release-date-early-delay-april-2023-2015-1850110471)
+ - [Call Of Duty Is So Old It&#39;s Bridging Generations Of NBA Players](https://kotaku.com/call-of-duty-nba-basketball-timberwolves-conley-edwards-1850110390)
+ - [The Skyrim Together team is working on a multiplayer mod for Hogwarts Legacy, and there&#39;s already a prototype](https://www.pcgamer.com/the-skyrim-together-team-is-working-on-a-multiplayer-mod-for-hogwarts-legacy-and-theres-already-a-prototype)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
