@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/230213/p24#a230213p24)
- - [Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe     - CNET](https://www.cnet.com/science/space/astronomers-spot-asteroid-hours-before-it-turns-into-fireball-over-earth/#ftag=CAD590a51e)
- - [Ahead of Valentine&#39;s Day, These Are The Top Searched Date Night Ideas on Google     - CNET](https://www.cnet.com/culture/ahead-of-valentines-day-these-are-the-top-searched-date-night-ideas-on-google/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Palantir reports Q4 revenue rose 18% YoY to $509M vs. $502M estimated, and its first ever quarter of positive net income on a GAAP basis at $31M; stock up 16%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230213/p27#a230213p27)
+ - [How to delete your Outlook email account](https://www.androidauthority.com/how-to-delete-outlook-email-account-3282907/)
+ - [Apple wants to expand its sports streaming with NBA games](https://appleinsider.com/articles/23/02/14/apple-wants-to-expand-its-sports-streaming-with-nba-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
