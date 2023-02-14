@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Modi administration&#39;s attempts to strengthen government control over the internet in India and its battle with Big Tech, which keeps giving in &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230214/p5#a230214p5)
- - [It’s not just you: Google Photos is broken on the latest iOS update](https://www.androidauthority.com/google-photos-broken-ios-update-3283062/)
- - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy says the company plans to &quot;go big&quot; on physical retail stores in 2023, blaming a lack of &quot;normalcy&quot; during the pandemic for its stumbles &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230214/p7#a230214p7)
+ - [Daily Authority: 😊 Android 14 plays nice](https://www.androidauthority.com/daily-authority-february-14-2023-3283066/)
+ - [CryptoSlam: Ethereum NFT sales jumped from $546.9M in December 2022 to $780.2M in January 2023, well down from ~$5B in January 2022; average prices were ~$372 &lpar;Medha Singh/Reuters&rpar;](http://www.techmeme.com/230214/p6#a230214p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
