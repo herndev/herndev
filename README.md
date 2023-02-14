@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Splash 1](http://9gag.com/gag/aKEE7vj)
- - ⏩ [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - 👉 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
+ - 💣 [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - ⏩ [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)
+ - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 ---
 
