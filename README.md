@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Eric Schmidt-backed startup Ishtari, which uses machine learning to virtually assemble and test war machines from computer models of each component &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230214/p11#a230214p11)
- - [Beijing&#39;s IT bureau plans to support AI startups building ChatGPT-like models and says 1,048 core AI companies, or 29% of China&#39;s total, are located in Beijing &lpar;Reuters&rpar;](http://www.techmeme.com/230214/p10#a230214p10)
- - [US prosecutors say Sam Bankman-Fried used a VPN on two recent occasions, raising concerns over his internet usage after a judge rejected an encrypted chat deal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/230214/p9#a230214p9)<!-- TECH:END -->
+ - [Apple&#39;s 15-inch MacBook Air: Rumors, and what to expect](https://appleinsider.com/articles/22/06/30/apples-15-inch-macbook-air-rumors-and-what-we-know?utm_medium=rss)
+ - [Enguie EP-2 Pro review: Taking mountain biking to the next level](https://appleinsider.com/articles/23/02/14/enguie-ep-2-pro-review-taking-mountain-biking-to-the-next-level?utm_medium=rss)
+ - [Apple TV+ launches &#39;Liaison&#39; with first Paris premiere](https://appleinsider.com/articles/23/02/14/apple-tv-launches-liaison-with-first-paris-premiere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
