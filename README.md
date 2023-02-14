@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wanted: Dead review](https://www.pcgamer.com/wanted-dead-review)
  - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)
- - [Hogwarts Legacy best talents: How to build your wizard](https://www.pcgamer.com/hogwarts-legacy-best-talents)
- - [This desolate action-RPG about a city at the end of time is 11 years in the making](https://www.pcgamer.com/this-desolate-action-rpg-11-years-in-the-making-about-a-city-at-the-end-of-time-is-doing-incredible-things-with-pixel-art)<!-- GAME:END -->
+ - [Hogwarts Legacy best talents: How to build your wizard](https://www.pcgamer.com/hogwarts-legacy-best-talents)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
