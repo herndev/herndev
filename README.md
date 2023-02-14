@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valiant: A New World of Tanks Season Arrives with Bold Rewards](https://news.xbox.com/en-us/2023/02/14/valiant-a-new-world-of-tanks-season-arrives-with-bold-rewards/)
- - [Mick Gordon is donating his fee for Atomic Heart to humanitarian aid for Ukraine](https://www.pcgamer.com/mick-gordon-is-donating-his-fee-for-atomic-heart-to-humanitarian-aid-for-ukraine)
- - [How to learn Avada Kedavra in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23599230/avada-kedavra-killing-unforgivable-curse-quest-sebastian-sallow-consequences-shadow-relic)<!-- GAME:END -->
+ - [New Tomb Raider Is Sorta Like Vampire Survivors With Bad Microtransactions](https://kotaku.com/tomb-raider-reloaded-vampire-survivors-ios-android-1850113591)
+ - [Pokémon Go Spotlight Hour: Can Woobat be shiny?](https://www.polygon.com/pokemon-go-guide/23599653/can-woobat-be-shiny-spotlight-hour-february-valentines-day)
+ - [Call of Duty Sexists Tell Twitch Streamer To Make Sandwiches, And She Does](https://kotaku.com/call-of-duty-cod-modern-warfare-mw2-twitch-steffy-evans-1850112871)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
