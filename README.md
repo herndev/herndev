@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Highly confused](http://9gag.com/gag/a7qqwrx)
- - ⏩ [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
+ - 💣 [Splash 1](http://9gag.com/gag/aKEE7vj)
+ - ⏩ [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - 👉 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
 
 ---
 
