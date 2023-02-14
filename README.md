@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230214/p4#a230214p4)
- - [You told us: You’d only consider switching to Bing for these reasons](https://www.androidauthority.com/switch-bing-poll-results-3283031/)
- - [Sources: Apple&#39;s India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a &quot;sense of urgency&quot;, and other issues &lpar;Financial Times&rpar;](http://www.techmeme.com/230214/p3#a230214p3)<!-- TECH:END -->
+ - [A look at the Modi administration&#39;s attempts to strengthen government control over the internet in India and its battle with Big Tech, which keeps giving in &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230214/p5#a230214p5)
+ - [It’s not just you: Google Photos is broken on the latest iOS update](https://www.androidauthority.com/google-photos-broken-ios-update-3283062/)
+ - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
