@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Primate Labs releases Geekbench 6 with new and updated tests for hardware and apps using datasets that are more representative of real world workloads &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230214/p20#a230214p20)
- - [Monad Labs, founded by former Jump Trading developers to build an Ethereum virtual machine-compatible Layer 1 blockchain, raised a $19M seed led by Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230214/p19#a230214p19)
- - [DARPA says its Air Combat Evolution developers used AI to successfully fly a modified F-16 test aircraft multiple times in December 2022 &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230214/p18#a230214p18)<!-- TECH:END -->
+ - [Ikea has a new Matter-enabled indoor air quality monitor](https://appleinsider.com/articles/23/02/14/ikea-has-a-new-matter-enabled-indoor-air-quality-monitor?utm_medium=rss)
+ - [Bing&#39;s ChatGPT experiment is deeply flawed, and is the future of search](https://appleinsider.com/articles/23/02/14/bings-chatgpt-experiment-is-deeply-flawed-and-is-the-future-of-search?utm_medium=rss)
+ - [Instagram plans to shutter live shopping on March 16, 2023, following Facebook, and will focus on ads to help users discover businesses and shops on Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230214/p24#a230214p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
