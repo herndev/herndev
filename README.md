@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - ⏩ [For the gentleman on the go](http://9gag.com/gag/a5XXX0O)
- - 👉 [I can imagine the pain](http://9gag.com/gag/aEqq04O)<!-- MEMES:END -->
+ - 💣 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 ---
 
