@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male athletic form](http://9gag.com/gag/aDYY7Bx)
- - ⏩ [No money no honey](http://9gag.com/gag/aNwwwnr)
- - 👉 [American thing](http://9gag.com/gag/aoKKyQw)<!-- MEMES:END -->
+ - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - ⏩ [Nostalgic song](http://9gag.com/gag/aWGGx4q)
+ - 👉 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)<!-- MEMES:END -->
 
 ---
 
