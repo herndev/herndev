@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
+ - 💣 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
+ - ⏩ [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)
+ - 👉 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
 
 ---
 
