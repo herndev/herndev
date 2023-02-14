@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2, Due In 2015, Now &#39;Coming Out A Week Early&#39;](https://kotaku.com/dead-island-2-release-date-early-delay-april-2023-2015-1850110471)
- - [Call Of Duty Is So Old It&#39;s Bridging Generations Of NBA Players](https://kotaku.com/call-of-duty-nba-basketball-timberwolves-conley-edwards-1850110390)
- - [The Skyrim Together team is working on a multiplayer mod for Hogwarts Legacy, and there&#39;s already a prototype](https://www.pcgamer.com/the-skyrim-together-team-is-working-on-a-multiplayer-mod-for-hogwarts-legacy-and-theres-already-a-prototype)<!-- GAME:END -->
+ - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)
+ - [Hogwarts Legacy best talents: How to build your wizard](https://www.pcgamer.com/hogwarts-legacy-best-talents)
+ - [This desolate action-RPG about a city at the end of time is 11 years in the making](https://www.pcgamer.com/this-desolate-action-rpg-11-years-in-the-making-about-a-city-at-the-end-of-time-is-doing-incredible-things-with-pixel-art)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
