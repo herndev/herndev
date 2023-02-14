@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
+ - 💣 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)
  - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 👉 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
+ - 👉 [Ohio](http://9gag.com/gag/amAAoLv)<!-- MEMES:END -->
 
 ---
 
