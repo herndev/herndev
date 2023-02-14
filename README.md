@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)
- - [Samsung Galaxy S23 Ultra review: The boss of Android](https://www.androidauthority.com/samsung-galaxy-s23-ultra-review-3280337/)
- - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)<!-- TECH:END -->
+ - [Valentine&#39;s Day deals: $70 off Apple Watch Ultra, $100 off iPad mini, 29% off Beats earbuds &amp; more](https://appleinsider.com/articles/23/02/14/valentines-day-deals-70-off-apple-watch-ultra-100-off-ipad-mini-29-off-beats-earbuds-more?utm_medium=rss)
+ - [SiriusXM review: Great, except for a terrible CarPlay execution](https://appleinsider.com/articles/23/02/14/siriusxm-review-great-except-for-a-terrible-carplay-execution?utm_medium=rss)
+ - [Otter.ai announces OtterPilot, an AI assistant that summarizes meetings, captures images of slides, and more, rolling out to all users in the coming days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230214/p16#a230214p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
