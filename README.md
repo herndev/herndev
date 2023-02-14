@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
+ - 💣 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
  - ⏩ [It all goes back to culture](http://9gag.com/gag/armmmLB)
- - 👉 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
+ - 👉 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 ---
 
