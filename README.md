@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)
- - [Which Disney couples would survive their happily ever afters, ranked](https://www.polygon.com/23594979/best-disney-couples-princess-valentines-day)<!-- GAME:END -->
+ - [Magic Mirror is the first item card for Disney’s Magic: The Gathering competitor](https://www.polygon.com/23598452/lorcana-disney-tcg-ccg-mtg-new-card-reveal-february-2023)
+ - [Experts Taught Me How To Score A Boyfriend In World of Warcraft](https://kotaku.com/couples-advice-how-to-get-boyfriend-wow-fortnite-1850114588)
+ - [How to tame, breed, and find all Beasts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23597706/beasts-all-locations-shiny-breed-tame-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
