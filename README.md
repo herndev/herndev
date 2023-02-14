@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Jigsaw plans to test video ads in Germany to &quot;prebunk&quot; misinformation, after promising results with a pilot project in Poland, Czechia, and Slovakia &lpar;David Klepper/Associated Press&rpar;](http://www.techmeme.com/230213/p35#a230213p35)
- - [E-book pirate site Z-Library relaunches with unique domain names for each user, after the US DOJ seized 200+ domain names connected to the site in November 2022 &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230213/p34#a230213p34)
- - [Amazon&#39;s Zoox says its fully autonomous vehicle carried staff between its two main buildings in Foster City, California on public roads for the first time &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/230213/p33#a230213p33)<!-- TECH:END -->
+ - [If Google Photos is broken for you on iOS, you’re not alone](https://www.theverge.com/2023/2/13/23598709/google-photos-ios-16-3-1-crash-broken)
+ - [Samsung Galaxy S20 series grabs the One UI 5.1 update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [T-Mobile suffers major network outage across US](https://www.theverge.com/2023/2/14/23598880/tmobile-outage-down-no-service-iphone-sos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
