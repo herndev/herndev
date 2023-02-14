@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir reports Q4 revenue rose 18% YoY to $509M vs. $502M estimated, and its first ever quarter of positive net income on a GAAP basis at $31M; stock up 16%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230213/p27#a230213p27)
- - [How to delete your Outlook email account](https://www.androidauthority.com/how-to-delete-outlook-email-account-3282907/)
- - [Apple wants to expand its sports streaming with NBA games](https://appleinsider.com/articles/23/02/14/apple-wants-to-expand-its-sports-streaming-with-nba-games?utm_medium=rss)<!-- TECH:END -->
+ - [Neeva debuts AI search tool NeevaAI, which provides real-time info with citations and works &quot;pretty impressively&quot;, in Europe and Canada, following a US launch &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230213/p30#a230213p30)
+ - [Bigscreen unveils Bigscreen Beyond, a $999 PC-powered wired VR headset with two OLED 2560&amp;times;2560 displays, a 127g visor, and SteamVR tracking, shipping in Q3 2023 &lpar;Ian Hamilton/UploadVR&rpar;](http://www.techmeme.com/230213/p29#a230213p29)
+ - [If Google Photos is broken for you on iOS, you’re not alone](https://www.theverge.com/2023/2/13/23598709/google-photos-ios-16-3-1-crash-broken)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
