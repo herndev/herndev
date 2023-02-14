@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet Irony](http://9gag.com/gag/a3ZZEwQ)
- - ⏩ [Nobody died and no building was collapsed in city of turkish city of Erzin despite being in the epicenter of earthquake. Why? Because the mayor \u00d6kke\u015f Elmaso\u011flu didn&#39;t allow illegal construction.](http://9gag.com/gag/avQQz5X)
- - 👉 [I&#39;m just going to leave this here . . .](http://9gag.com/gag/aoKKMo3)<!-- MEMES:END -->
+ - 💣 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
+ - ⏩ [It all goes back to culture](http://9gag.com/gag/armmmLB)
+ - 👉 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
 
 ---
 
