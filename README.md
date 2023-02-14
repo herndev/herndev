@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail tensions during the US-TikTok negotiations over the Chinese government&#39;s role and influence, including a possible veto over a future deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230214/p15#a230214p15)
  - [Samsung Galaxy S23 Ultra review: The boss of Android](https://www.androidauthority.com/samsung-galaxy-s23-ultra-review-3280337/)
- - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)
- - [During Nancy Pelosi&#39;s controversial Taiwan trip, TSMC founder Morris Chang criticized the $52B CHIPS Act, saying more will be needed for chip self-sufficiency &lpar;Alexander Burns/Politico&rpar;](http://www.techmeme.com/230214/p14#a230214p14)<!-- TECH:END -->
+ - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
