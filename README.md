@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
+ - 💣 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)
+ - ⏩ [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
+ - 👉 [Splash 1](http://9gag.com/gag/aKEE7vj)<!-- MEMES:END -->
 
 ---
 
