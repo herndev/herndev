@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - ⏩ [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - 👉 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)<!-- MEMES:END -->
+ - 💣 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
+ - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 👉 [No better way to start the day](http://9gag.com/gag/aGEEpB6)<!-- MEMES:END -->
 
 ---
 
