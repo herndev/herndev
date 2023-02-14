@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The femme fatale is never more fatal than in sci-fi](https://www.polygon.com/23584915/sci-fi-neo-noir-movies-femme-fatales)
  - [Wordle hint and answer #605: Tuesday, February 14](https://www.pcgamer.com/wordle-hint-answer-today-605-february-14)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/13/this-weeks-deals-with-gold-and-spotlight-sale-262/)
- - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/13/this-weeks-deals-with-gold-and-spotlight-sale-262/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
