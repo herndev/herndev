@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)
- - [MindNode 2023.0.2 review: Modern &amp; marvelous mind mapping](https://appleinsider.com/articles/23/02/14/mindnode-202302-review-modern-marvelous-mind-mapping?utm_medium=rss)
- - [Meta updates Facebook&#39;s &quot;Why am I seeing this ad?&quot; tool to include information about how users&#39; on- and off-platform activity informs its ML models for ads &lpar;Nicole Farley/Search Engine Land&rpar;](http://www.techmeme.com/230214/p27#a230214p27)<!-- TECH:END -->
+ - [Apple issues firmware update for MagSafe 3 charging cable](https://appleinsider.com/articles/23/02/14/apple-issues-firmware-update-for-magsafe-3-charging-cable?utm_medium=rss)
+ - [Q&amp;A with Mozilla CEO Mitchell Baker on the company&#39;s history, battling Microsoft, working with rivals, generative AI, WebKit, iOS, Chrome, Mastodon, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230214/p28#a230214p28)
+ - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
