@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 👉 [Lol](http://9gag.com/gag/amAAAV4)<!-- MEMES:END -->
+ - 💣 [Peak male athletic form](http://9gag.com/gag/aDYY7Bx)
+ - ⏩ [No money no honey](http://9gag.com/gag/aNwwwnr)
+ - 👉 [American thing](http://9gag.com/gag/aoKKyQw)<!-- MEMES:END -->
 
 ---
 
