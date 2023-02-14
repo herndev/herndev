@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
- - ⏩ [It all goes back to culture](http://9gag.com/gag/armmmLB)
- - 👉 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 💣 [Valentine Special.....](http://9gag.com/gag/aPggA2P)
+ - ⏩ [Imagine Graphic Artist 2024. We wouldn&#39;t be surprised if that happened.](http://9gag.com/gag/aL1119x)
+ - 👉 [For the gentleman on the go](http://9gag.com/gag/a5XXX0O)<!-- MEMES:END -->
 
 ---
 
