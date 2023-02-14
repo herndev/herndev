@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Troll Bogeys in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-troll-bogeys)
- - [The best romances in PC gaming](https://www.pcgamer.com/the-best-romances-in-pc-gaming)
- - [Nvidia RTX 4060 GPU rumours suggest it&#39;s worse than the laptop variant of the same chip](https://www.pcgamer.com/nvidia-rtx-4060-gpu-rumours-suggest-its-worse-than-the-laptop-variant-of-the-same-chip)<!-- GAME:END -->
+ - [Frictional has a new &#39;SOMA-style&#39; game quietly in the works](https://www.pcgamer.com/frictional-has-a-new-soma-style-game-quietly-in-the-works)
+ - [Kevin Conroy found recording the Arkham games frustrating: &#39;‘What the f**k do they want me to say?’](https://www.pcgamer.com/kevin-conroy-found-recording-the-arkham-games-frustrating-what-the-fk-do-they-want-me-to-say)
+ - [Where to find Troll Bogeys in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-troll-bogeys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
