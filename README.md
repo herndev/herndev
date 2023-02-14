@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Walmart plans to close its tech hubs in Austin, Portland, and Carlsbad, CA, and require staff to relocate and be in office twice a week to keep their jobs &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/230213/p24#a230213p24)
  - [Astronomers Spot Asteroid Hours Before It Turns Into Fireball Over Europe     - CNET](https://www.cnet.com/science/space/astronomers-spot-asteroid-hours-before-it-turns-into-fireball-over-earth/#ftag=CAD590a51e)
- - [Ahead of Valentine&#39;s Day, These Are The Top Searched Date Night Ideas on Google     - CNET](https://www.cnet.com/culture/ahead-of-valentines-day-these-are-the-top-searched-date-night-ideas-on-google/#ftag=CAD590a51e)
- - [NASA Spots Mysterious Spokes Moving Along Saturn&#39;s Rings     - CNET](https://www.cnet.com/science/space/nasa-spots-mysterious-spokes-moving-along-saturns-rings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of Valentine&#39;s Day, These Are The Top Searched Date Night Ideas on Google     - CNET](https://www.cnet.com/culture/ahead-of-valentines-day-these-are-the-top-searched-date-night-ideas-on-google/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
