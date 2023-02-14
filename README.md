@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Researchers have discovered a crater 1.5 kilometres beneath the Antarctic ice crust, 482 kilometres in diameter](http://9gag.com/gag/aOxx8e6)
- - ⏩ [Rose Leslie, Natalie Dormer, &amp; Sophie Turner](http://9gag.com/gag/aPgg7WK)
- - 👉 [Dude... What did she expect?](http://9gag.com/gag/a3ZZRg3)<!-- MEMES:END -->
+ - 💣 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 👉 [Lol](http://9gag.com/gag/amAAAV4)<!-- MEMES:END -->
 
 ---
 
