@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The femme fatale is never more fatal than in sci-fi](https://www.polygon.com/23584915/sci-fi-neo-noir-movies-femme-fatales)
- - [Wordle hint and answer #605: Tuesday, February 14](https://www.pcgamer.com/wordle-hint-answer-today-605-february-14)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/13/this-weeks-deals-with-gold-and-spotlight-sale-262/)<!-- GAME:END -->
+ - [Where to find Troll Bogeys in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-troll-bogeys)
+ - [The best romances in PC gaming](https://www.pcgamer.com/the-best-romances-in-pc-gaming)
+ - [Nvidia RTX 4060 GPU rumours suggest it&#39;s worse than the laptop variant of the same chip](https://www.pcgamer.com/nvidia-rtx-4060-gpu-rumours-suggest-its-worse-than-the-laptop-variant-of-the-same-chip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
