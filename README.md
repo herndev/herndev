@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Tomb Raider Is Sorta Like Vampire Survivors With Bad Microtransactions](https://kotaku.com/tomb-raider-reloaded-vampire-survivors-ios-android-1850113591)
- - [Pokémon Go Spotlight Hour: Can Woobat be shiny?](https://www.polygon.com/pokemon-go-guide/23599653/can-woobat-be-shiny-spotlight-hour-february-valentines-day)
- - [Call of Duty Sexists Tell Twitch Streamer To Make Sandwiches, And She Does](https://kotaku.com/call-of-duty-cod-modern-warfare-mw2-twitch-steffy-evans-1850112871)<!-- GAME:END -->
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [Marvel’s actively working on the next Tom Holland Spider-Man movie](https://www.polygon.com/23599714/marvel-new-tom-holland-spider-man-movie)
+ - [Which Disney couples would survive their happily ever afters, ranked](https://www.polygon.com/23594979/best-disney-couples-princess-valentines-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
