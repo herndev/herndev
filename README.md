@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues firmware update for MagSafe 3 charging cable](https://appleinsider.com/articles/23/02/14/apple-issues-firmware-update-for-magsafe-3-charging-cable?utm_medium=rss)
- - [Q&amp;A with Mozilla CEO Mitchell Baker on the company&#39;s history, battling Microsoft, working with rivals, generative AI, WebKit, iOS, Chrome, Mastodon, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230214/p28#a230214p28)
- - [Dating Apps Crack Down on Romance Scammers](https://www.wired.com/story/dating-apps-tools-to-thwart-scams/)<!-- TECH:END -->
+ - [NASA Finds Mysterious Spokes Moving Along Saturn&#39;s Rings     - CNET](https://www.cnet.com/science/space/nasa-finds-mysterious-spokes-moving-along-saturns-rings/#ftag=CAD590a51e)
+ - [NASA Captures 10 Mars Rover Sample Tubes in 1 Glorious Image     - CNET](https://www.cnet.com/science/space/nasa-captures-10-mars-rover-sample-tubes-in-1-glorious-image/#ftag=CAD590a51e)
+ - [NASA Parts Designed By AI Look Like &#39;Bones Left by Some Alien Species&#39;     - CNET](https://www.cnet.com/science/space/nasa-parts-designed-by-ai-look-like-bones-left-by-some-alien-species/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
