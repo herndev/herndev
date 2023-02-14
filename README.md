@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [XD\u200e\u200e](http://9gag.com/gag/a5XXERo)
- - ⏩ [I can almost hear it](http://9gag.com/gag/a5XX1nr)
- - 👉 [No money no honey](http://9gag.com/gag/aNwwwnr)<!-- MEMES:END -->
+ - 💣 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 ---
 
