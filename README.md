@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valentine&#39;s Day deals: $70 off Apple Watch Ultra, $100 off iPad mini, 29% off Beats earbuds &amp; more](https://appleinsider.com/articles/23/02/14/valentines-day-deals-70-off-apple-watch-ultra-100-off-ipad-mini-29-off-beats-earbuds-more?utm_medium=rss)
- - [SiriusXM review: Great, except for a terrible CarPlay execution](https://appleinsider.com/articles/23/02/14/siriusxm-review-great-except-for-a-terrible-carplay-execution?utm_medium=rss)
- - [Otter.ai announces OtterPilot, an AI assistant that summarizes meetings, captures images of slides, and more, rolling out to all users in the coming days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230214/p16#a230214p16)<!-- TECH:END -->
+ - [Cisco brings 0% financing for iPad bundles to enterprise partners](https://appleinsider.com/articles/23/02/14/cisco-brings-0-financing-for-ipad-bundles-to-enterprise-partners?utm_medium=rss)
+ - [Geekbench 6 released to better benchmark modern hardware](https://appleinsider.com/articles/23/02/14/geekbench-6-released-to-better-benchmark-modern-hardware?utm_medium=rss)
+ - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
