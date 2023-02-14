@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Zoox says its fully autonomous vehicle carried staff between its two main buildings in Foster City, California on public roads for the first time &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/230213/p33#a230213p33)
- - [India-based insurance marketplace InsuranceDekho raised a $150M Series A led by Goldman and TVS, including ~$40M debt, a source says at a $475M-$500M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230213/p32#a230213p32)
- - [Toyota’s first next-gen EV will be a Lexus](https://www.theverge.com/2023/2/13/23598385/toyota-lexus-electric-car-strategy-2026)<!-- TECH:END -->
+ - [Google&#39;s Jigsaw plans to test video ads in Germany to &quot;prebunk&quot; misinformation, after promising results with a pilot project in Poland, Czechia, and Slovakia &lpar;David Klepper/Associated Press&rpar;](http://www.techmeme.com/230213/p35#a230213p35)
+ - [E-book pirate site Z-Library relaunches with unique domain names for each user, after the US DOJ seized 200+ domain names connected to the site in November 2022 &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230213/p34#a230213p34)
+ - [Amazon&#39;s Zoox says its fully autonomous vehicle carried staff between its two main buildings in Foster City, California on public roads for the first time &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/230213/p33#a230213p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
