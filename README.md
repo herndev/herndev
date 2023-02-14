@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - ⏩ [Hunt saboteurs refuse to move off private property, huntsman jumps gate anyways](http://9gag.com/gag/aMEEEmP)
- - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
+ - 💣 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
+ - ⏩ [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
+ - 👉 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
 
 ---
 
