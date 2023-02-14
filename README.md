@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Google Photos is broken for you on iOS, you’re not alone](https://www.theverge.com/2023/2/13/23598709/google-photos-ios-16-3-1-crash-broken)
- - [Samsung Galaxy S20 series grabs the One UI 5.1 update](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [T-Mobile suffers major network outage across US](https://www.theverge.com/2023/2/14/23598880/tmobile-outage-down-no-service-iphone-sos)<!-- TECH:END -->
+ - [Here’s how Android 14 will play nicely with third-party app stores](https://www.androidauthority.com/android-14-third-party-app-stores-3283004/)
+ - [Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230214/p2#a230214p2)
+ - [Samsung rolls out One UI 5.1 for Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
