@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking Dragon Age Boyfriends By Whether They’d Actually Be Good Partners](https://kotaku.com/dragon-age-romance-rank-boyfriend-dorian-solas-alistair-1850109891)
- - [Boyfriend Dungeon out today, learn Do’s and Don’ts of dating your weapon](https://blog.playstation.com/2023/02/14/boyfriend-dungeon-out-today-learn-dos-and-donts-of-dating-your-weapon/)
- - [Wanted: Dead review](https://www.pcgamer.com/wanted-dead-review)<!-- GAME:END -->
+ - [Bella Ramsey Responds To The Last Of Us Gay Backlash: &#39;Get Used To It&#39;](https://kotaku.com/last-of-us-tlou-part-ii-abby-lev-bella-ramsey-hbo-show-1850112455)
+ - [Trans witches game bundle raises $100K, offering an alternative to Hogwarts Legacy](https://www.polygon.com/23599186/trans-witches-are-witches-itchio-bundle-fundraiser)
+ - [These anime about grown-up love get under your skin](https://www.polygon.com/23598350/romance-anime-adults-ghibli)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
