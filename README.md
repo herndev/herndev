@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea has a new Matter-enabled indoor air quality monitor](https://appleinsider.com/articles/23/02/14/ikea-has-a-new-matter-enabled-indoor-air-quality-monitor?utm_medium=rss)
- - [Bing&#39;s ChatGPT experiment is deeply flawed, and is the future of search](https://appleinsider.com/articles/23/02/14/bings-chatgpt-experiment-is-deeply-flawed-and-is-the-future-of-search?utm_medium=rss)
- - [Instagram plans to shutter live shopping on March 16, 2023, following Facebook, and will focus on ads to help users discover businesses and shops on Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230214/p24#a230214p24)<!-- TECH:END -->
+ - [Audiobook narrators complain Apple may have used them to train AI voices](https://appleinsider.com/articles/23/02/14/audiobook-narrators-complain-apple-may-have-used-them-to-train-ai-voices?utm_medium=rss)
+ - [GitHub announces that Copilot for Business, the company&#39;s $19/month enterprise version of its AI-powered code completion tool, is now generally available &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230214/p26#a230214p26)
+ - [Hyundai and Kia are offering free anti-theft software updates for 8M+ vehicles, after hundreds of car thefts inspired by the viral &quot;Kia Challenge&quot; on TikTok &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230214/p25#a230214p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
