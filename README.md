@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
- - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - 👉 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
+ - 💣 [Highly confused](http://9gag.com/gag/a7qqwrx)
+ - ⏩ [Best version](http://9gag.com/gag/aZDDyX3)
+ - 👉 [Jackpot!](http://9gag.com/gag/aZDDDyz)<!-- MEMES:END -->
 
 ---
 
