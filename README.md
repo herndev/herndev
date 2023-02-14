@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)
- - ⏩ [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
- - 👉 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
+ - 💣 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 👉 [Today in St. Petersburg they raised the Russian national flag upside down. What this means?](http://9gag.com/gag/a6qqN7R)<!-- MEMES:END -->
 
 ---
 
