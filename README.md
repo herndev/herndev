@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nostalgic song](http://9gag.com/gag/aWGGx4q)
- - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 💣 [I confirm it made me read the text twice...](http://9gag.com/gag/a2KKoeD)
+ - ⏩ [Dear Captains, asking for your expertise on the nuke codes.](http://9gag.com/gag/a4oo78d)
  - 👉 [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)<!-- MEMES:END -->
 
 ---
