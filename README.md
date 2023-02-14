@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic Mirror is the first item card for Disney’s Magic: The Gathering competitor](https://www.polygon.com/23598452/lorcana-disney-tcg-ccg-mtg-new-card-reveal-february-2023)
- - [Experts Taught Me How To Score A Boyfriend In World of Warcraft](https://kotaku.com/couples-advice-how-to-get-boyfriend-wow-fortnite-1850114588)
- - [How to tame, breed, and find all Beasts in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23597706/beasts-all-locations-shiny-breed-tame-more)<!-- GAME:END -->
+ - [Destiny 2 Just Had Its Best Season Finale Ever](https://kotaku.com/destiny-2-lightfall-rasputin-traveler-witness-pyramid-1850115067)
+ - [Hogwarts Legacy&#39;s first patch hasn&#39;t fixed performance issues for everyone](https://www.pcgamer.com/hogwarts-legacy-february-patch-notes)
+ - [Early Plans For God of War Ragnarök Involved A Big Death And A Wild Twist](https://kotaku.com/god-of-war-ragnarok-kratos-atreus-death-cut-story-ps5-1850114816)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
