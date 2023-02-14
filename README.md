@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/13/this-weeks-deals-with-gold-and-spotlight-sale-262/)
  - [Wanted: Dead review](https://www.pcgamer.com/wanted-dead-review)
- - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)
- - [Hogwarts Legacy best talents: How to build your wizard](https://www.pcgamer.com/hogwarts-legacy-best-talents)<!-- GAME:END -->
+ - [Bungie Accidentally Showcases AI-Generated Destiny Image, Asks For Help Spotting Them](https://kotaku.com/bungie-destiny-ai-art-generated-image-midjourney-1850110190)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
