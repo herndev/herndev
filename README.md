@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 15-inch MacBook Air: Rumors, and what to expect](https://appleinsider.com/articles/22/06/30/apples-15-inch-macbook-air-rumors-and-what-we-know?utm_medium=rss)
- - [Enguie EP-2 Pro review: Taking mountain biking to the next level](https://appleinsider.com/articles/23/02/14/enguie-ep-2-pro-review-taking-mountain-biking-to-the-next-level?utm_medium=rss)
- - [Apple TV+ launches &#39;Liaison&#39; with first Paris premiere](https://appleinsider.com/articles/23/02/14/apple-tv-launches-liaison-with-first-paris-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra review: The boss of Android](https://www.androidauthority.com/samsung-galaxy-s23-ultra-review-3280337/)
+ - [The More You Look for Spy Balloons, the More UFOs You’ll Find](https://www.wired.com/story/spy-balloons-ufo-shot-down-us/)
+ - [During Nancy Pelosi&#39;s controversial Taiwan trip, TSMC founder Morris Chang criticized the $52B CHIPS Act, saying more will be needed for chip self-sufficiency &lpar;Alexander Burns/Politico&rpar;](http://www.techmeme.com/230214/p14#a230214p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
