@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco brings 0% financing for iPad bundles to enterprise partners](https://appleinsider.com/articles/23/02/14/cisco-brings-0-financing-for-ipad-bundles-to-enterprise-partners?utm_medium=rss)
- - [Geekbench 6 released to better benchmark modern hardware](https://appleinsider.com/articles/23/02/14/geekbench-6-released-to-better-benchmark-modern-hardware?utm_medium=rss)
- - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)<!-- TECH:END -->
+ - [Primate Labs releases Geekbench 6 with new and updated tests for hardware and apps using datasets that are more representative of real world workloads &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230214/p20#a230214p20)
+ - [Monad Labs, founded by former Jump Trading developers to build an Ethereum virtual machine-compatible Layer 1 blockchain, raised a $19M seed led by Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230214/p19#a230214p19)
+ - [DARPA says its Air Combat Evolution developers used AI to successfully fly a modified F-16 test aircraft multiple times in December 2022 &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230214/p18#a230214p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
