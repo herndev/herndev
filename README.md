@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valentine Special.....](http://9gag.com/gag/aPggA2P)
- - ⏩ [Imagine Graphic Artist 2024. We wouldn&#39;t be surprised if that happened.](http://9gag.com/gag/aL1119x)
- - 👉 [For the gentleman on the go](http://9gag.com/gag/a5XXX0O)<!-- MEMES:END -->
+ - 💣 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - ⏩ [Penalty must be paid even by the dead](http://9gag.com/gag/aqeegnQ)
+ - 👉 [A not-for-everybody-job](http://9gag.com/gag/aL1102W)<!-- MEMES:END -->
 
 ---
 
