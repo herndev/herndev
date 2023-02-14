@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Android 14 will play nicely with third-party app stores](https://www.androidauthority.com/android-14-third-party-app-stores-3283004/)
- - [Aspire, which provides Southeast Asian SMBs with international payments and other financial services, raised a $100M Series C led by Lightspeed and Sequoia &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230214/p2#a230214p2)
- - [Samsung rolls out One UI 5.1 for Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
+ - [Geneva-based Taurus, which offers digital asset infrastructure to European financial institutions, raised a $65M Series B led by Credit Suisse &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230214/p4#a230214p4)
+ - [You told us: You’d only consider switching to Bing for these reasons](https://www.androidauthority.com/switch-bing-poll-results-3283031/)
+ - [Sources: Apple&#39;s India expansion has been slow due to logistics, tariffs, infrastructure, suppliers and officials lacking a &quot;sense of urgency&quot;, and other issues &lpar;Financial Times&rpar;](http://www.techmeme.com/230214/p3#a230214p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
