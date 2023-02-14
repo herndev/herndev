@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon CEO Andy Jassy says the company plans to &quot;go big&quot; on physical retail stores in 2023, blaming a lack of &quot;normalcy&quot; during the pandemic for its stumbles &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230214/p7#a230214p7)
- - [Daily Authority: 😊 Android 14 plays nice](https://www.androidauthority.com/daily-authority-february-14-2023-3283066/)
- - [CryptoSlam: Ethereum NFT sales jumped from $546.9M in December 2022 to $780.2M in January 2023, well down from ~$5B in January 2022; average prices were ~$372 &lpar;Medha Singh/Reuters&rpar;](http://www.techmeme.com/230214/p6#a230214p6)<!-- TECH:END -->
+ - [A look at Eric Schmidt-backed startup Ishtari, which uses machine learning to virtually assemble and test war machines from computer models of each component &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230214/p11#a230214p11)
+ - [Beijing&#39;s IT bureau plans to support AI startups building ChatGPT-like models and says 1,048 core AI companies, or 29% of China&#39;s total, are located in Beijing &lpar;Reuters&rpar;](http://www.techmeme.com/230214/p10#a230214p10)
+ - [US prosecutors say Sam Bankman-Fried used a VPN on two recent occasions, raising concerns over his internet usage after a judge rejected an encrypted chat deal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/230214/p9#a230214p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
