@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox February Update Rolls Out Today!](https://news.xbox.com/en-us/2023/02/15/xbox-february-update-out-now/)
- - [Demon Slayer’s cute shorts are a must-watch ahead of season 3](https://www.polygon.com/23600923/demon-slayer-shorts-academy-crunchyroll-season-3)
- - [How God of War Ragnarök’s side quests humanize Kratos and the cast](https://blog.playstation.com/2023/02/15/how-god-of-war-ragnaroks-side-quests-humanize-kratos-and-the-cast/)<!-- GAME:END -->
+ - [Doom Composer Donates His Atomic Heart Fee To Ukraine After Russia Controversy](https://kotaku.com/atomic-heart-doom-ukraine-red-cross-mundfish-1850118104)
+ - [Horizon Forbidden West comes to PS Plus Extra in February](https://www.polygon.com/23599546/playstation-plus-games-for-february-2023-extra-premium)
+ - [The Top 30 Best Anime Of The Decade, Ranked](https://kotaku.com/best-anime-ranked-decade-attack-on-titan-demon-slayer-1850117910)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
