@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s explosive tease for its Pluto anime updates Astro Boy for a whole new era](https://www.polygon.com/23600197/pluto-anime-adaptation-netflix-preview-trailer)
- - [Hear AI Todd Howard declare The Elder Scrolls 6 will let players have sex with NPCs](https://www.pcgamer.com/hear-ai-todd-howard-declare-the-elder-scrolls-6-will-let-players-have-sex-with-npcs)
- - [Overwatch dating sim: How to play Loverwatch and unlock rewards](https://www.pcgamer.com/overwatch-dating-sim-loverwatch-guide)<!-- GAME:END -->
+ - [Activision Blizzard Is Forcing Workers Back To The Office](https://kotaku.com/activision-blizzard-office-wfh-work-home-covid-pandemic-1850115879)
+ - [How to find Wild Hearts&#39; tsukumo quickly and easily](https://www.pcgamer.com/wild-hearts-tsukumo-find-locations-guide)
+ - [Look inside PlayStation VR2 with new teardown videos: First look at internal components with engineers](https://blog.playstation.com/2023/02/14/look-inside-playstation-vr2-with-new-teardown-videos-first-look-at-internal-components-with-engineers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
