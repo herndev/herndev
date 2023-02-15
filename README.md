@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Xbox Game Pass really cannibalize a publisher’s sales?](https://www.polygon.com/23600042/xbox-game-pass-lower-sales-cannibalize-uk-regulators-cma-activision)
- - [Top Five Anime Couples Who Never Got Together](https://kotaku.com/nana-avatar-the-last-airbender-valentines-day-anime-1850115005)
- - [Players are replacing their Hogwarts wands with with guns, Luigi Wiimotes, and asparagus](https://www.pcgamer.com/players-are-replacing-their-hogwarts-wands-with-with-guns-luigi-wiimotes-and-asparagus)<!-- GAME:END -->
+ - [Netflix’s explosive tease for its Pluto anime updates Astro Boy for a whole new era](https://www.polygon.com/23600197/pluto-anime-adaptation-netflix-preview-trailer)
+ - [Hear AI Todd Howard declare The Elder Scrolls 6 will let players have sex with NPCs](https://www.pcgamer.com/hear-ai-todd-howard-declare-the-elder-scrolls-6-will-let-players-have-sex-with-npcs)
+ - [Overwatch dating sim: How to play Loverwatch and unlock rewards](https://www.pcgamer.com/overwatch-dating-sim-loverwatch-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
