@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple taps Swedish politician to advise on &#39;global trends&#39;](https://appleinsider.com/articles/23/02/15/apple-taps-swedish-politician-to-advise-on-global-trends?utm_medium=rss)
- - [Roblox reports Q4 net bookings up 17% YoY to $899.4M, beating estimates, a record 65M DAUs in January, and estimated bookings rose 19% to 21%; RBLX jumps 25%+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230215/p24#a230215p24)
- - [Bing with ChatGPT could be coming to Chrome and other browsers](https://www.androidauthority.com/bing-with-chatgpt-chrome-3285691/)<!-- TECH:END -->
+ - [Sources: US DOJ has ramped up work in recent months on a potential antitrust complaint into whether Apple has monopoly power through the App Store and iOS &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230215/p27#a230215p27)
+ - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
+ - [Arsenal vs. Man City Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
