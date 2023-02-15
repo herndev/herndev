@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Score The Clutch Touchdowns in Madden NFL 23 – Now Available on The Play List](https://news.xbox.com/en-us/2023/02/15/score-the-clutch-touchdowns-in-madden-nfl-23-now-available-on-the-play-list/)
- - [Dead by Daylight’s next Killer is an evil tech CEO, the Skull Merchant](https://www.polygon.com/23599440/dead-by-daylight-skull-merchant-tools-of-torment-chapter-details)
- - [Little Mermaid teaser gives us first glimpse of Eric, Ursula’s cackling](https://www.polygon.com/23601198/little-mermaid-live-action-halle-bailey-teaser-release-date)<!-- GAME:END -->
+ - [How I Successfully Combined Two Opposite Genres with Brok the InvestiGator, Out March First](https://news.xbox.com/en-us/2023/02/15/how-i-successfully-combined-two-opposite-genres-with-brok-the-investigator-out-march-first/)
+ - [Minecraft 1.2 – Cherry Blossom Trees Take the Overworld by Storm](https://news.xbox.com/en-us/2023/02/15/minecraft-1-2-cherry-blossom-trees-take-the-overworld-by-storm/)
+ - [League of Legends Is Getting A Pixel Art Action-RPG](https://kotaku.com/league-of-legends-mageseeker-revealed-riot-forge-1850118660)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
