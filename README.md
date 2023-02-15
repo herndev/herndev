@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [Something i just learned](http://9gag.com/gag/a8qq64Y)
- - 👉 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)<!-- MEMES:END -->
+ - ⏩ [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
+ - 👉 [Sad console beep](http://9gag.com/gag/anzzR35)<!-- MEMES:END -->
 
 ---
 
