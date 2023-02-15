@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
- - [The US SEC proposes a rule that could bar investment advisers from storing assets at crypto platforms and lenders that are not registered as exchanges or banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230215/p28#a230215p28)
- - [DOJ escalates antitrust probe into Apple&#39;s alleged anticompetitive practices](https://appleinsider.com/articles/23/02/15/doj-escalates-antitrust-probe-into-apples-alleged-anticompetitive-practices?utm_medium=rss)<!-- TECH:END -->
+ - [The US House Judiciary Panel subpoenas the CEOs of Alphabet, Amazon, Apple, Meta, and Microsoft for documents and communications over content moderation issues &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/230215/p29#a230215p29)
+ - [Oppo Find N2 Flip: We Go Hands-on with the New Foldable&#39;s Huge Cover Screen     - CNET](https://www.cnet.com/tech/mobile/oppo-find-n2-flip-we-go-hands-on-with-the-new-foldables-huge-cover-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
