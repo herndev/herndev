@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at how OpenAI&#39;s ChatGPT decodes input queries to produce a &quot;reasonable continuation&quot; of the text, the underlying dataset, neural nets, and more &lpar;Stephen Wolfram Writings&rpar;](http://www.techmeme.com/230215/p12#a230215p12)
- - [After a series of disastrous bets and a market downturn, SoftBank&#39;s future rests on a successful Arm IPO and turnaround at the mostly dormant Vision Funds &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230215/p11#a230215p11)
- - [Wednesday’s top tech news: Another year of the Chief Twit](https://www.theverge.com/2023/2/15/23600703/february-15-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Tozo NC9 review: Reasonable quality wireless earbuds at a bargain](https://appleinsider.com/articles/23/02/15/tozo-nc9-review-reasonable-quality-wireless-earbuds-at-a-bargain?utm_medium=rss)
+ - [M2 15-inch MacBook Air in mass production, says supply chain](https://appleinsider.com/articles/23/02/15/m2-15-inch-macbook-air-in-mass-production-says-supply-chain?utm_medium=rss)
+ - [Best Amazon Deals: Apple Watch Ultra, Fire 7 Kids Tablet and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
