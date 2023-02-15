@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait for the second guys answer. That&#39;s the right one.](http://9gag.com/gag/a9qqz31)
- - ⏩ [That&#39;s another way to look at it.](http://9gag.com/gag/aDYY6OZ)
- - 👉 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)<!-- MEMES:END -->
+ - 💣 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
+ - ⏩ [That&#39;ll Be 500$ Please](http://9gag.com/gag/aKEE921)
+ - 👉 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 ---
 
