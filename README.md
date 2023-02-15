@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based MDI Health, whose AI-powered service helps clinicians customize and manage medication for patients, raised a $20M Series A led by Intel Capital &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230214/p40#a230214p40)
- - [Brazilian neobank Nubank reports Q4 revenue up 128% YoY to $1.45B, $58M net income, up from $66.1M net loss YoY, and says it ended 2022 with 74.6M customers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230214/p39#a230214p39)
- - [Filing: Berkshire Hathaway cut its holdings of TSMC&#39;s American depositary shares by 86% last quarter to 8.29M, valued at $617.7M; TSMC&#39;s stock drops 3.8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230214/p38#a230214p38)<!-- TECH:END -->
+ - [At a recent event, senior executives at gaming firms like Tencent and NetEase said they are looking to better promote China&#39;s culture, as regulations ease up &lpar;South China Morning Post&rpar;](http://www.techmeme.com/230215/p2#a230215p2)
+ - [Google Photos is broken on the latest iOS update &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-photos-broken-ios-update-3283062/)
+ - [Microsoft releases 77 security fixes, patching three actively exploited zero-day flaws in Windows and Office, and nine critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230215/p1#a230215p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
