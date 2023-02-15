@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
- - [The US House Judiciary Panel subpoenas the CEOs of Alphabet, Amazon, Apple, Meta, and Microsoft for documents and communications over content moderation issues &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/230215/p29#a230215p29)
- - [Oppo Find N2 Flip: We Go Hands-on with the New Foldable&#39;s Huge Cover Screen     - CNET](https://www.cnet.com/tech/mobile/oppo-find-n2-flip-we-go-hands-on-with-the-new-foldables-huge-cover-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Community Health Systems, which owns ~80 hospitals in 16 US states, says hackers stole data on up to 1M patients; Russia-linked malware gang Clop takes credit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230215/p31#a230215p31)
+ - [How to fix Siri Suggestions launching the wrong iOS 16 features](https://appleinsider.com/inside/siri/tips/how-to-fix-siri-suggestions-launching-the-wrong-ios-16-features?utm_medium=rss)
+ - [What Layoffs? Data Shows Silicon Valley Is More Boom Than Bust     - CNET](https://www.cnet.com/culture/what-layoffs-data-shows-silicon-valley-is-more-boom-than-bust/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
