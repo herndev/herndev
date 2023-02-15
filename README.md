@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - ⏩ [In 1860](http://9gag.com/gag/aDYYY4d)
- - 👉 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)<!-- MEMES:END -->
+ - 💣 [Ups](http://9gag.com/gag/aMEEPvA)
+ - ⏩ [Olesya Krivcova, 20yo was arrested and sentenced 10 years of house arrest w/o using internet or mobile phone for anti-war post on Internet. `at certain point, they will run out of prison cells and can&#39;t force everyone to be silent` she says. Brave Girl](http://9gag.com/gag/aDYY8P7)
+ - 👉 [Cat is rescued by a firefighter Ali Cakas and he says cat is not leaving him since he was rescued. He is going to adopt him if the owner is not found. He named him `Enkaz` meaning `Wreckage`.](http://9gag.com/gag/ay226Py)<!-- MEMES:END -->
 
 ---
 
