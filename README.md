@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [Lol](http://9gag.com/gag/amAAAV4)
- - 👉 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)<!-- MEMES:END -->
+ - 💣 [Stupid as they come](http://9gag.com/gag/a7qqV3L)
+ - ⏩ [Go find him](http://9gag.com/gag/aBddLpZ)
+ - 👉 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
 
 ---
 
