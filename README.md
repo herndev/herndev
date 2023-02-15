@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
- - 👉 [Ohio](http://9gag.com/gag/amAAoLv)<!-- MEMES:END -->
+ - 💣 [Using led backlights to watch LTR](http://9gag.com/gag/aL11zxA)
+ - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
+ - 👉 [Michigan school shooting, a black man killed 3 students randomly, Alexandria Verner, Brian Fraser and a unidentified third student](http://9gag.com/gag/aQEEvZK)<!-- MEMES:END -->
 
 ---
 
