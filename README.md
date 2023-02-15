@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/amAAAV4)
- - ⏩ [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
- - 👉 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
+ - 💣 [Surprise](http://9gag.com/gag/armmMG6)
+ - ⏩ [Professionals and experts](http://9gag.com/gag/aDYY2bO)
+ - 👉 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
 
 ---
 
