@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using led backlights to watch LTR](http://9gag.com/gag/aL11zxA)
- - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
- - 👉 [Michigan school shooting, a black man killed 3 students randomly, Alexandria Verner, Brian Fraser and a unidentified third student](http://9gag.com/gag/aQEEvZK)<!-- MEMES:END -->
+ - 💣 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)
+ - ⏩ [This character was hilarious](http://9gag.com/gag/aKEE1nZ)
+ - 👉 [Men are simple](http://9gag.com/gag/avQQ1MZ)<!-- MEMES:END -->
 
 ---
 
