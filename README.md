@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to check Uber prices](https://www.androidauthority.com/check-uber-prices-3285499/)
- - [Verizon Mobile Protect gets open enrollment period for any undamaged device](https://appleinsider.com/articles/23/02/15/verizon-mobile-protect-gets-open-enrollment-period-for-any-undamaged-device?utm_medium=rss)
- - [SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230214/p36#a230214p36)<!-- TECH:END -->
+ - [Filing: Berkshire Hathaway cut its holdings of TSMC&#39;s American depositary shares by 86% last quarter to 8.29M, valued at $617.7M; TSMC&#39;s stock drops 3.8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230214/p38#a230214p38)
+ - [Dropbox losing external drive functionality due to Apple API change](https://appleinsider.com/articles/23/02/15/dropbox-losing-external-drive-functionality-due-to-apple-api-change?utm_medium=rss)
+ - [Some users report that &quot;new Bing&quot; is questioning its existence, outright lying, and responding with &quot;unhinged&quot;, aggressive, and nearly incomprehensible messages &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/230214/p37#a230214p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
