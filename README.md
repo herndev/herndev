@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom Composer Donates His Atomic Heart Fee To Ukraine After Russia Controversy](https://kotaku.com/atomic-heart-doom-ukraine-red-cross-mundfish-1850118104)
- - [Horizon Forbidden West comes to PS Plus Extra in February](https://www.polygon.com/23599546/playstation-plus-games-for-february-2023-extra-premium)
- - [The Top 30 Best Anime Of The Decade, Ranked](https://kotaku.com/best-anime-ranked-decade-attack-on-titan-demon-slayer-1850117910)<!-- GAME:END -->
+ - [Score The Clutch Touchdowns in Madden NFL 23 – Now Available on The Play List](https://news.xbox.com/en-us/2023/02/15/score-the-clutch-touchdowns-in-madden-nfl-23-now-available-on-the-play-list/)
+ - [Dead by Daylight’s next Killer is an evil tech CEO, the Skull Merchant](https://www.polygon.com/23599440/dead-by-daylight-skull-merchant-tools-of-torment-chapter-details)
+ - [Little Mermaid teaser gives us first glimpse of Eric, Ursula’s cackling](https://www.polygon.com/23601198/little-mermaid-live-action-halle-bailey-teaser-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
