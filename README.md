@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stupid as they come](http://9gag.com/gag/a7qqV3L)
- - ⏩ [Go find him](http://9gag.com/gag/aBddLpZ)
- - 👉 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
+ - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
+ - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
 
