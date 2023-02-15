@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires 4 is getting a dash of Age of Mythology-style magic in tomorrow&#39;s big update](https://www.pcgamer.com/age-of-empires-4-is-getting-a-dash-of-age-of-mythology-style-magic-in-tomorrows-big-update)
- - [Here are those AMD RX 6000-series and older GPU drivers you&#39;ve been waiting on](https://www.pcgamer.com/here-are-those-amd-rx-6000-series-and-older-gpu-drivers-youve-been-waiting-on)
- - [How to unlock new weapons in Wild Hearts](https://www.pcgamer.com/wild-hearts-how-to-unlock-new-weapons)<!-- GAME:END -->
+ - [5 ways Horizon Call of the Mountain adapts the world of Horizon to PS VR2](https://blog.playstation.com/2023/02/15/5-ways-horizon-call-of-the-mountain-adapts-the-world-of-horizon-to-ps-vr2/)
+ - [Here’s your first look at Lady Gaga in Joker 2](https://www.polygon.com/23600737/joker-2-folie-a-deux-lady-gaga-first-look-release-date)
+ - [Age of Empires 4 is getting a dash of Age of Mythology-style magic in tomorrow&#39;s big update](https://www.pcgamer.com/age-of-empires-4-is-getting-a-dash-of-age-of-mythology-style-magic-in-tomorrows-big-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
