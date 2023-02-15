@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify reports Q4 revenue up 26% YoY to $1.73B, vs. $1.65B est., and GMV up 13% YoY to $61B, and forecasts a Q1 2023 revenue growth below expectations &lpar;Lucy Papachristou/Bloomberg&rpar;](http://www.techmeme.com/230215/p35#a230215p35)
- - [The East Palestine, Ohio Train Derailment Created a Perfect TikTok Storm](https://www.wired.com/story/east-palestine-ohio-train-derailment-tiktok/)
- - [Roku reports Q4 revenue of $867.1M, flat YoY, vs. $801.7M est., streaming hours up 23% YoY, and Q1 2023 revenue guidance above estimates; ROKU jumps 10%+ &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230215/p34#a230215p34)<!-- TECH:END -->
+ - [Twitter updates its policies to allow cannabis ads targeting US states where cannabis is legal, promoting brands or providing info but not offering direct sales &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230215/p37#a230215p37)
+ - [Apple Delays AR/VR Headset Reveal to WWDC, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-delays-arvr-headset-reveal-to-wwdc-report-says/#ftag=CAD590a51e)
+ - [Galaxy S23 and S23 Plus First Look: Larger Battery and More Power     - CNET](https://www.cnet.com/tech/mobile/galaxy-s23-and-s23-plus-first-look-larger-battery-and-more-power/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
