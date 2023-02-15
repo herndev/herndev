@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)
- - ⏩ [This character was hilarious](http://9gag.com/gag/aKEE1nZ)
- - 👉 [Men are simple](http://9gag.com/gag/avQQ1MZ)<!-- MEMES:END -->
+ - 💣 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
+ - ⏩ [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - 👉 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
 
 ---
 
