@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Community Health Systems, which owns ~80 hospitals in 16 US states, says hackers stole data on up to 1M patients; Russia-linked malware gang Clop takes credit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230215/p31#a230215p31)
- - [How to fix Siri Suggestions launching the wrong iOS 16 features](https://appleinsider.com/inside/siri/tips/how-to-fix-siri-suggestions-launching-the-wrong-ios-16-features?utm_medium=rss)
- - [What Layoffs? Data Shows Silicon Valley Is More Boom Than Bust     - CNET](https://www.cnet.com/culture/what-layoffs-data-shows-silicon-valley-is-more-boom-than-bust/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shopify reports Q4 revenue up 26% YoY to $1.73B, vs. $1.65B est., and GMV up 13% YoY to $61B, and forecasts a Q1 2023 revenue growth below expectations &lpar;Lucy Papachristou/Bloomberg&rpar;](http://www.techmeme.com/230215/p35#a230215p35)
+ - [The East Palestine, Ohio Train Derailment Created a Perfect TikTok Storm](https://www.wired.com/story/east-palestine-ohio-train-derailment-tiktok/)
+ - [Roku reports Q4 revenue of $867.1M, flat YoY, vs. $801.7M est., streaming hours up 23% YoY, and Q1 2023 revenue guidance above estimates; ROKU jumps 10%+ &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230215/p34#a230215p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
