@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 ways Horizon Call of the Mountain adapts the world of Horizon to PS VR2](https://blog.playstation.com/2023/02/15/5-ways-horizon-call-of-the-mountain-adapts-the-world-of-horizon-to-ps-vr2/)
- - [Here’s your first look at Lady Gaga in Joker 2](https://www.polygon.com/23600737/joker-2-folie-a-deux-lady-gaga-first-look-release-date)
- - [Age of Empires 4 is getting a dash of Age of Mythology-style magic in tomorrow&#39;s big update](https://www.pcgamer.com/age-of-empires-4-is-getting-a-dash-of-age-of-mythology-style-magic-in-tomorrows-big-update)<!-- GAME:END -->
+ - [Multiverse stories produce the most nihilistic villains](https://www.polygon.com/23589732/multiverse-movie-villain-kang-everything-everywhere-batman-rick-morty)
+ - [Watching this artist drag an easel into Half-Life: Alyx makes me want to be a VR painter too](https://www.pcgamer.com/watching-this-artist-drag-an-easel-into-half-life-alyx-makes-me-want-to-be-a-vr-painter-too)
+ - [The Witcher 3 unwittingly added a mod called &#39;Vaginas for Everyone&#39; after another chaotic modder snuck it in](https://www.pcgamer.com/the-witcher-3-unwittingly-added-a-mod-called-vaginas-for-everyone-after-a-chaotic-modder-snuck-it-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
