@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new smartwatch pops open to reveal tiny wireless earbuds](https://www.androidauthority.com/huawei-watch-buds-global-launch-3282460/)
- - [Uniswap token holders vote to deploy to Binance&#39;s BNB blockchain using the Wormhole bridge, with 66% in favor, a move a16z voted to oppose with its 15M UNI &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230215/p9#a230215p9)
- - [Apptopia: consumer interest in Lensa AI and other top AI-powered photo apps fell quickly after hitting peak downloads and in-app purchases in mid-December 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p8#a230215p8)<!-- TECH:END -->
+ - [An in-depth look at how OpenAI&#39;s ChatGPT decodes input queries to produce a &quot;reasonable continuation&quot; of the text, the underlying dataset, neural nets, and more &lpar;Stephen Wolfram Writings&rpar;](http://www.techmeme.com/230215/p12#a230215p12)
+ - [After a series of disastrous bets and a market downturn, SoftBank&#39;s future rests on a successful Arm IPO and turnaround at the mostly dormant Vision Funds &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230215/p11#a230215p11)
+ - [Wednesday’s top tech news: Another year of the Chief Twit](https://www.theverge.com/2023/2/15/23600703/february-15-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
