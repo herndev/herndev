@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise](http://9gag.com/gag/armmMG6)
- - ⏩ [Professionals and experts](http://9gag.com/gag/aDYY2bO)
- - 👉 [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)<!-- MEMES:END -->
+ - 💣 [Wait for the second guys answer. That&#39;s the right one.](http://9gag.com/gag/a9qqz31)
+ - ⏩ [Men are simple](http://9gag.com/gag/avQQ1MZ)
+ - 👉 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)<!-- MEMES:END -->
 
 ---
 
