@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
  - ⏩ [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - 👉 [Sad console beep](http://9gag.com/gag/anzzR35)<!-- MEMES:END -->
+ - 👉 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)<!-- MEMES:END -->
 
 ---
 
