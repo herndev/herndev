@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk Reportedly Pushed Algorithm Change to Boost His Tweets     - CNET](https://www.cnet.com/news/social-media/musk-reportedly-pushed-algorithm-change-to-boost-his-tweets/#ftag=CAD590a51e)
- - [Xiaomi&#39;s earlier mover advantages are eroding in India, where it is facing declining shipments, a tax investigation, and key top-level management departures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230215/p4#a230215p4)
- - [An investigation exposes &quot;Team Jorge&quot;, an Israeli hacking and social media disinformation unit for hire claiming covert involvement in 33 presidential elections &lpar;The Guardian&rpar;](http://www.techmeme.com/230215/p3#a230215p3)<!-- TECH:END -->
+ - [ASML says it reported a breach to authorities after an ex-employee in China misappropriated proprietary data resulting in possible export controls violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p6#a230215p6)
+ - [Paris-based Brigad, which connects self-employed hospitality professionals with short-term assignments, raised a &amp;euro;33 Series B led by Balderton Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230215/p5#a230215p5)
+ - [Musk Reportedly Pushed Algorithm Change to Boost His Tweets     - CNET](https://www.cnet.com/news/social-media/musk-reportedly-pushed-algorithm-change-to-boost-his-tweets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
