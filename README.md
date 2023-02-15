@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines Remastered Edition Is Now Available &lpar;Yes, With 25 Buildable Tiles&rpar;](https://news.xbox.com/en-us/2023/02/15/cities-skylines-remastered-now-available/)
- - [Wordle hint and answer #606: Wednesday, February 15](https://www.pcgamer.com/wordle-hint-answer-today-606-february-15)
- - [Give your Steam Deck some old school chic with a transparent, coloured backplate](https://www.pcgamer.com/give-your-steam-deck-some-old-school-chic-with-a-transparent-coloured-backplate)<!-- GAME:END -->
+ - [Age of Empires 4 is getting a dash of Age of Mythology-style magic in tomorrow&#39;s big update](https://www.pcgamer.com/age-of-empires-4-is-getting-a-dash-of-age-of-mythology-style-magic-in-tomorrows-big-update)
+ - [Here are those AMD RX 6000-series and older GPU drivers you&#39;ve been waiting on](https://www.pcgamer.com/here-are-those-amd-rx-6000-series-and-older-gpu-drivers-youve-been-waiting-on)
+ - [How to unlock new weapons in Wild Hearts](https://www.pcgamer.com/wild-hearts-how-to-unlock-new-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
