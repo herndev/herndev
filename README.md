@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
- - ⏩ [Lol](http://9gag.com/gag/amAAAV4)
- - 👉 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
+ - 💣 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
+ - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 👉 [Still he looks kinda surprised](http://9gag.com/gag/amAA6G6)<!-- MEMES:END -->
 
 ---
 
