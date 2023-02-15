@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says it reported a breach to authorities after an ex-employee in China misappropriated proprietary data resulting in possible export controls violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230215/p6#a230215p6)
- - [Paris-based Brigad, which connects self-employed hospitality professionals with short-term assignments, raised a &amp;euro;33 Series B led by Balderton Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230215/p5#a230215p5)
- - [Musk Reportedly Pushed Algorithm Change to Boost His Tweets     - CNET](https://www.cnet.com/news/social-media/musk-reportedly-pushed-algorithm-change-to-boost-his-tweets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This new smartwatch pops open to reveal tiny wireless earbuds](https://www.androidauthority.com/huawei-watch-buds-global-launch-3282460/)
+ - [Uniswap token holders vote to deploy to Binance&#39;s BNB blockchain using the Wormhole bridge, with 66% in favor, a move a16z voted to oppose with its 15M UNI &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230215/p9#a230215p9)
+ - [Apptopia: consumer interest in Lensa AI and other top AI-powered photo apps fell quickly after hitting peak downloads and in-app purchases in mid-December 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p8#a230215p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
