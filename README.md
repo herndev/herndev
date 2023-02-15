@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How I Successfully Combined Two Opposite Genres with Brok the InvestiGator, Out March First](https://news.xbox.com/en-us/2023/02/15/how-i-successfully-combined-two-opposite-genres-with-brok-the-investigator-out-march-first/)
- - [Minecraft 1.2 – Cherry Blossom Trees Take the Overworld by Storm](https://news.xbox.com/en-us/2023/02/15/minecraft-1-2-cherry-blossom-trees-take-the-overworld-by-storm/)
- - [League of Legends Is Getting A Pixel Art Action-RPG](https://kotaku.com/league-of-legends-mageseeker-revealed-riot-forge-1850118660)<!-- GAME:END -->
+ - [Apex Legends Hits New Peak Player Count Thanks To Team Deathmatch](https://kotaku.com/apex-legends-player-count-team-deathmatch-tdm-season-16-1850119310)
+ - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)
+ - [Rejoice: Warzone 2 Resurgence is back with a new small map](https://www.pcgamer.com/rejoice-warzone-2-resurgence-is-back-with-a-new-small-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
