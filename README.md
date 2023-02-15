@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencer Is a Real Job. It&#39;s Time to Act Like It](https://www.wired.com/story/emily-hund-influencer-industry/)
- - [Descope raised a $53M seed from Lightspeed, GGV, and others to build a &quot;developer-first&quot; authentication and user management service &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230215/p21#a230215p21)
- - [Meta is slowly recovering, but still &#39;at the whim of Apple&#39; says exec](https://appleinsider.com/articles/23/02/15/meta-is-slowly-recovering-but-still-at-the-whim-of-apple-says-exec?utm_medium=rss)<!-- TECH:END -->
+ - [Norwegian banks ally to say that Apple Pay should be opened up](https://appleinsider.com/articles/23/02/15/norwegian-banks-ally-to-say-that-apple-pay-should-be-opened-up?utm_medium=rss)
+ - [Adobe&#39;s Figma buy blocked, until EU decides if it can proceed](https://appleinsider.com/articles/23/02/15/adobes-figma-buy-blocked-until-eu-decides-if-it-can-proceed?utm_medium=rss)
+ - [Engwe EP-2 Pro review: Taking mountain biking to the next level](https://appleinsider.com/articles/23/02/14/enguie-ep-2-pro-review-taking-mountain-biking-to-the-next-level?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
