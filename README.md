@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - 👉 [That escalated quickly from a local accident to doomsday scenes.](http://9gag.com/gag/a4oo5Np)<!-- MEMES:END -->
+ - ⏩ [Always check the source](http://9gag.com/gag/awZZO7W)
+ - 👉 [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)<!-- MEMES:END -->
 
 ---
 
