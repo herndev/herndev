@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US jury convicts Russian businessman Vladislav Klyushin for his role in a $90M insider trading scheme that hacked companies to get non-public financial data &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230214/p31#a230214p31)
- - [NASA Finds Mysterious Spokes Moving Along Saturn&#39;s Rings     - CNET](https://www.cnet.com/science/space/nasa-finds-mysterious-spokes-moving-along-saturns-rings/#ftag=CAD590a51e)
- - [NASA Captures 10 Mars Rover Sample Tubes in 1 Glorious Image     - CNET](https://www.cnet.com/science/space/nasa-captures-10-mars-rover-sample-tubes-in-1-glorious-image/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230214/p32#a230214p32)
+ - [Rumor reaffirms iPhone 15 Pro to get thinner bezels](https://appleinsider.com/articles/23/02/14/rumor-reaffirms-iphone-15-pro-to-get-thinner-bezels?utm_medium=rss)
+ - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
