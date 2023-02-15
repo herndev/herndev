@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)
- - ⏩ [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
+ - ⏩ [It takes 1 sting to get Steve Erwined](http://9gag.com/gag/a9qq1w6)
  - 👉 [Ohio](http://9gag.com/gag/amAAoLv)<!-- MEMES:END -->
 
 ---
