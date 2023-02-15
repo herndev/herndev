@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US DOJ has ramped up work in recent months on a potential antitrust complaint into whether Apple has monopoly power through the App Store and iOS &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230215/p27#a230215p27)
  - [SanDisk Professional Pro-Blade system: Fast, but an answer to a question nobody is asking](https://appleinsider.com/articles/23/02/15/sandisk-professional-pro-blade-system-fast-but-an-answer-to-a-question-nobody-is-asking?utm_medium=rss)
- - [Arsenal vs. Man City Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC proposes a rule that could bar investment advisers from storing assets at crypto platforms and lenders that are not registered as exchanges or banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230215/p28#a230215p28)
+ - [DOJ escalates antitrust probe into Apple&#39;s alleged anticompetitive practices](https://appleinsider.com/articles/23/02/15/doj-escalates-antitrust-probe-into-apples-alleged-anticompetitive-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
