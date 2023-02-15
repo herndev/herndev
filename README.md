@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nextorage NEM-PA 2TB](https://www.pcgamer.com/nextorage-nem-pa-2tb-review-performance-benchmarks)
- - [How to complete the Depth Charge world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-depth-charge)
- - [League of Legends is getting a &#39;2D hi-bit pixel action RPG&#39; where you lead a magic revolution](https://www.pcgamer.com/league-of-legends-is-getting-a-2d-hi-bit-pixel-action-rpg-where-you-lead-a-magic-revolution)<!-- GAME:END -->
+ - [The Xbox February Update Rolls Out Today!](https://news.xbox.com/en-us/2023/02/15/xbox-february-update-out-now/)
+ - [Demon Slayer’s cute shorts are a must-watch ahead of season 3](https://www.polygon.com/23600923/demon-slayer-shorts-academy-crunchyroll-season-3)
+ - [How God of War Ragnarök’s side quests humanize Kratos and the cast](https://blog.playstation.com/2023/02/15/how-god-of-war-ragnaroks-side-quests-humanize-kratos-and-the-cast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
