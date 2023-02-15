@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ups](http://9gag.com/gag/aMEEPvA)
- - ⏩ [Olesya Krivcova, 20yo was arrested and sentenced 10 years of house arrest w/o using internet or mobile phone for anti-war post on Internet. `at certain point, they will run out of prison cells and can&#39;t force everyone to be silent` she says. Brave Girl](http://9gag.com/gag/aDYY8P7)
- - 👉 [Cat is rescued by a firefighter Ali Cakas and he says cat is not leaving him since he was rescued. He is going to adopt him if the owner is not found. He named him `Enkaz` meaning `Wreckage`.](http://9gag.com/gag/ay226Py)<!-- MEMES:END -->
+ - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - ⏩ [Lol](http://9gag.com/gag/amAAAV4)
+ - 👉 [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)<!-- MEMES:END -->
 
 ---
 
