@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tozo NC9 review: Reasonable quality wireless earbuds at a bargain](https://appleinsider.com/articles/23/02/15/tozo-nc9-review-reasonable-quality-wireless-earbuds-at-a-bargain?utm_medium=rss)
- - [M2 15-inch MacBook Air in mass production, says supply chain](https://appleinsider.com/articles/23/02/15/m2-15-inch-macbook-air-in-mass-production-says-supply-chain?utm_medium=rss)
- - [Best Amazon Deals: Apple Watch Ultra, Fire 7 Kids Tablet and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tel Aviv-based Oligo Security, which offers security and observability tools to find and prevent open-source vulnerabilities, raised $28M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230215/p18#a230215p18)
+ - [Supersize Electric Cars Are Pushing Road Safety to the Limit](https://www.wired.com/story/supersize-evs-are-pushing-road-safety-to-the-limit/)
+ - [The Future of Weight Loss Looks a Lot Like Its Past](https://www.wired.com/story/fda-weight-loss-drugs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
