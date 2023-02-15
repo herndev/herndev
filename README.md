@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackpot!](http://9gag.com/gag/aZDDDyz)
- - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
- - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
+ - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - ⏩ [Something i just learned](http://9gag.com/gag/a8qq64Y)
+ - 👉 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)<!-- MEMES:END -->
 
 ---
 
