@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P official gameplay trailer is a steampunk Bloodbourne](https://www.pcgamer.com/lies-of-p-official-gameplay-trailer-is-a-steampunk-bloodbourne)
- - [John Wick Chapter 4 puts one of our greatest action heroes in a giant prosthetic suit](https://www.polygon.com/23601256/john-wick-chapter-4-scott-adkins-killa-big-boy)
- - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)<!-- GAME:END -->
+ - [MultiVersus’ Daily Player Count Plunges By 99 Percent, But Maybe Pickle Rick Can Save It](https://kotaku.com/multiversus-steam-pc-pickle-rick-morty-player-count-1850120234)
+ - [Behold the incredibly blursed Dagoth Ur pie](https://www.polygon.com/23601393/dagoth-ur-morrowind-pie-ai)
+ - [‘All Your Base Are Belong To Us’ Game Out On Steam, But Without Famous Meme](https://kotaku.com/all-your-base-meme-zero-wing-out-on-steam-pc-mega-drive-1850120124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
