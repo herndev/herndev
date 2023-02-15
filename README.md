@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a Sam&#39;s Club membership &amp; $20 travel &amp; entertainment promo code for $24.99](https://appleinsider.com/articles/23/02/15/get-a-sams-club-membership-20-travel-entertainment-promo-code-for-2499?utm_medium=rss)
- - [PlayStation VR 2 Teardown Reveals Complex Design Ahead of Launch     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-teardown-reveals-complex-design-ahead-of-launch/#ftag=CAD590a51e)
- - [Superplastic, which creates &quot;synthetic&quot; influencers and other virtual characters, raised $20M led by Amazon&#39;s Alexa Fund and plans to work with Amazon Studios &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230215/p23#a230215p23)<!-- TECH:END -->
+ - [Apple taps Swedish politician to advise on &#39;global trends&#39;](https://appleinsider.com/articles/23/02/15/apple-taps-swedish-politician-to-advise-on-global-trends?utm_medium=rss)
+ - [Roblox reports Q4 net bookings up 17% YoY to $899.4M, beating estimates, a record 65M DAUs in January, and estimated bookings rose 19% to 21%; RBLX jumps 25%+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230215/p24#a230215p24)
+ - [Bing with ChatGPT could be coming to Chrome and other browsers](https://www.androidauthority.com/bing-with-chatgpt-chrome-3285691/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
