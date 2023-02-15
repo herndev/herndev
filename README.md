@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
- - ⏩ [That&#39;ll Be 500$ Please](http://9gag.com/gag/aKEE921)
- - 👉 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/amAAAV4)
+ - ⏩ [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)
+ - 👉 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)<!-- MEMES:END -->
 
 ---
 
