@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [Always check the source](http://9gag.com/gag/awZZO7W)
- - 👉 [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)<!-- MEMES:END -->
+ - 💣 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
+ - ⏩ [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - 👉 [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)<!-- MEMES:END -->
 
 ---
 
