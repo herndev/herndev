@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Descartes Systems Group, a Canada-based logistics and supply chain software provider, acquires US-based logistics automation provider GroundCloud for ~$138M &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230214/p32#a230214p32)
- - [Rumor reaffirms iPhone 15 Pro to get thinner bezels](https://appleinsider.com/articles/23/02/14/rumor-reaffirms-iphone-15-pro-to-get-thinner-bezels?utm_medium=rss)
- - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Pay Later to use customer history to determine creditworthiness](https://appleinsider.com/articles/23/02/15/apple-pay-later-to-use-customer-history-to-determine-creditworthiness?utm_medium=rss)
+ - [Sources: Apple Pay Later will evaluate borrowers based on their spending history, which Apple devices they own, whether they applied for an Apple Card, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230214/p34#a230214p34)
+ - [A look at Vietnam&#39;s plans to make Ho Chi Minh City a startup hub; report: Vietnam drew a record $2.6B in VC funding across 233 deals in 2021, up from $700M YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/230214/p33#a230214p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
