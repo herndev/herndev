@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to check Uber prices](https://www.androidauthority.com/check-uber-prices-3285499/)
  - [Verizon Mobile Protect gets open enrollment period for any undamaged device](https://appleinsider.com/articles/23/02/15/verizon-mobile-protect-gets-open-enrollment-period-for-any-undamaged-device?utm_medium=rss)
- - [SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230214/p36#a230214p36)
- - [Sources: Twitter&#39;s engineers built a system to boost Elon Musk&#39;s tweets over everyone else&#39;s after Musk complained Biden&#39;s Super Bowl tweet outperformed his &lpar;Platformer&rpar;](http://www.techmeme.com/230214/p35#a230214p35)<!-- TECH:END -->
+ - [SandboxAQ, a startup spun out of Alphabet that is developing post-quantum cryptography and simulation software for drug and material development, raised $500M &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230214/p36#a230214p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
