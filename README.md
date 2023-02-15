@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)
- - [Apex Legends Hits New Peak Player Count Thanks To Team Deathmatch](https://kotaku.com/apex-legends-player-count-team-deathmatch-tdm-season-16-1850119310)
- - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)<!-- GAME:END -->
+ - [Lies of P official gameplay trailer is a steampunk Bloodbourne](https://www.pcgamer.com/lies-of-p-official-gameplay-trailer-is-a-steampunk-bloodbourne)
+ - [John Wick Chapter 4 puts one of our greatest action heroes in a giant prosthetic suit](https://www.polygon.com/23601256/john-wick-chapter-4-scott-adkins-killa-big-boy)
+ - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
