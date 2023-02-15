@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Multiverse stories produce the most nihilistic villains](https://www.polygon.com/23589732/multiverse-movie-villain-kang-everything-everywhere-batman-rick-morty)
- - [Watching this artist drag an easel into Half-Life: Alyx makes me want to be a VR painter too](https://www.pcgamer.com/watching-this-artist-drag-an-easel-into-half-life-alyx-makes-me-want-to-be-a-vr-painter-too)
- - [The Witcher 3 unwittingly added a mod called &#39;Vaginas for Everyone&#39; after another chaotic modder snuck it in](https://www.pcgamer.com/the-witcher-3-unwittingly-added-a-mod-called-vaginas-for-everyone-after-a-chaotic-modder-snuck-it-in)<!-- GAME:END -->
+ - [Nextorage NEM-PA 2TB](https://www.pcgamer.com/nextorage-nem-pa-2tb-review-performance-benchmarks)
+ - [How to complete the Depth Charge world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-depth-charge)
+ - [League of Legends is getting a &#39;2D hi-bit pixel action RPG&#39; where you lead a magic revolution](https://www.pcgamer.com/league-of-legends-is-getting-a-2d-hi-bit-pixel-action-rpg-where-you-lead-a-magic-revolution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
