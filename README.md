@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock Cold Blooded Vaults in Fortnite](https://www.pcgamer.com/fortnite-cold-blooded-vault-unlock-exotic-weapon)
  - [Apex Legends Hits New Peak Player Count Thanks To Team Deathmatch](https://kotaku.com/apex-legends-player-count-team-deathmatch-tdm-season-16-1850119310)
- - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)
- - [Rejoice: Warzone 2 Resurgence is back with a new small map](https://www.pcgamer.com/rejoice-warzone-2-resurgence-is-back-with-a-new-small-map)<!-- GAME:END -->
+ - [VRChat Sex Worker Denied Entry To US Over ‘Prostitution’](https://kotaku.com/vrchat-vr-digital-sex-worker-prostitution-denied-visa-1850119196)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
