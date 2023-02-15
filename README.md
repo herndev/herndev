@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Oligo Security, which offers security and observability tools to find and prevent open-source vulnerabilities, raised $28M in seed and Series A &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230215/p18#a230215p18)
- - [Supersize Electric Cars Are Pushing Road Safety to the Limit](https://www.wired.com/story/supersize-evs-are-pushing-road-safety-to-the-limit/)
- - [The Future of Weight Loss Looks a Lot Like Its Past](https://www.wired.com/story/fda-weight-loss-drugs/)<!-- TECH:END -->
+ - [Influencer Is a Real Job. It&#39;s Time to Act Like It](https://www.wired.com/story/emily-hund-influencer-industry/)
+ - [Descope raised a $53M seed from Lightspeed, GGV, and others to build a &quot;developer-first&quot; authentication and user management service &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230215/p21#a230215p21)
+ - [Meta is slowly recovering, but still &#39;at the whim of Apple&#39; says exec](https://appleinsider.com/articles/23/02/15/meta-is-slowly-recovering-but-still-at-the-whim-of-apple-says-exec?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
