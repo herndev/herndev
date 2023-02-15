@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/amAAAV4)
- - ⏩ [I need a break from this clown world.](http://9gag.com/gag/avQQAvX)
- - 👉 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)<!-- MEMES:END -->
+ - 💣 [No better way to start the day](http://9gag.com/gag/aGEEpB6)
+ - ⏩ [Lol](http://9gag.com/gag/amAAAV4)
+ - 👉 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
 
 ---
 
