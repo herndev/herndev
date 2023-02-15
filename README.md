@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - ⏩ [If it were a turtle with a straw up it&#39;s knose everyone would lose their minds. But an entire city being infected with this shit? Where are the environmentalists?](http://9gag.com/gag/a7qqq1z)
- - 👉 [It all goes back to culture](http://9gag.com/gag/armmmLB)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/amAAAV4)
+ - ⏩ [So it begins, a balloon has appeared over Romania sky at 11000m altitude. News-feed in the comments](http://9gag.com/gag/aA00QWg)
+ - 👉 [Something i just learned](http://9gag.com/gag/a8qq64Y)<!-- MEMES:END -->
 
 ---
 
