@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Wait for the second guys answer. That&#39;s the right one.](http://9gag.com/gag/a9qqz31)
- - ⏩ [Men are simple](http://9gag.com/gag/avQQ1MZ)
+ - ⏩ [That&#39;s another way to look at it.](http://9gag.com/gag/aDYY6OZ)
  - 👉 [Wife material &lpar;no, not that one&rpar;](http://9gag.com/gag/aQEEv0r)<!-- MEMES:END -->
 
 ---
