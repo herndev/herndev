@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Norwegian banks ally to say that Apple Pay should be opened up](https://appleinsider.com/articles/23/02/15/norwegian-banks-ally-to-say-that-apple-pay-should-be-opened-up?utm_medium=rss)
- - [Adobe&#39;s Figma buy blocked, until EU decides if it can proceed](https://appleinsider.com/articles/23/02/15/adobes-figma-buy-blocked-until-eu-decides-if-it-can-proceed?utm_medium=rss)
- - [Engwe EP-2 Pro review: Taking mountain biking to the next level](https://appleinsider.com/articles/23/02/14/enguie-ep-2-pro-review-taking-mountain-biking-to-the-next-level?utm_medium=rss)<!-- TECH:END -->
+ - [Get a Sam&#39;s Club membership &amp; $20 travel &amp; entertainment promo code for $24.99](https://appleinsider.com/articles/23/02/15/get-a-sams-club-membership-20-travel-entertainment-promo-code-for-2499?utm_medium=rss)
+ - [PlayStation VR 2 Teardown Reveals Complex Design Ahead of Launch     - CNET](https://www.cnet.com/tech/gaming/playstation-vr-2-teardown-reveals-complex-design-ahead-of-launch/#ftag=CAD590a51e)
+ - [Superplastic, which creates &quot;synthetic&quot; influencers and other virtual characters, raised $20M led by Amazon&#39;s Alexa Fund and plans to work with Amazon Studios &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230215/p23#a230215p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
