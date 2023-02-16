@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And suddenly, a car](http://9gag.com/gag/aA00XYE)
- - ⏩ [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
- - 👉 [Valentine&#39;s day in Berlin](http://9gag.com/gag/axooPBK)<!-- MEMES:END -->
+ - 💣 [Spider](http://9gag.com/gag/axooPPL)
+ - ⏩ [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - 👉 [Joining the pipes](http://9gag.com/gag/aREE2LQ)<!-- MEMES:END -->
 
 ---
 
