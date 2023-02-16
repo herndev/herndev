@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags](https://appleinsider.com/articles/23/02/16/ios-16-adoption-rate-higher-than-ios-15-but-ipados-16-lags-behind-ipados-15?utm_medium=rss)
- - [Microsoft authorizes Parallels Desktop 18 to support Windows 11 on Apple&#39;s M1 and M2 Macs, after previously only licensing ARM versions of Windows to OEMs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230216/p27#a230216p27)
- - [Microsoft gives official blessing to Windows 11 for ARM on Parallels](https://appleinsider.com/articles/23/02/16/microsoft-gives-official-blessing-to-windows-11-for-arm-on-parallels?utm_medium=rss)<!-- TECH:END -->
+ - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)
+ - [Docs: Binance had secret access to a Binance.US bank account at Silvergate, from which it moved $400M+ in Q1 2021 to a trading firm managed by Changpeng Zhao &lpar;Reuters&rpar;](http://www.techmeme.com/230216/p29#a230216p29)
+ - [Apple starts killing off developer beta profiles in iOS 16.4](https://appleinsider.com/articles/23/02/16/apple-starts-killing-off-developer-beta-profiles-in-ios-164?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
