@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - ⏩ [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
- - 👉 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)<!-- MEMES:END -->
+ - 💣 [They&#39;re many and among us...](http://9gag.com/gag/aeQQ7jq)
+ - ⏩ [Buying online](http://9gag.com/gag/aZDDzZX)
+ - 👉 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)<!-- MEMES:END -->
 
 ---
 
