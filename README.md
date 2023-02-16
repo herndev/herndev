@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doja Cat Streams ‘Satanic’ PowerWash Simulator On Twitch](https://kotaku.com/doja-cat-powerwash-simulator-twitch-streaming-satanic-1850123175)
- - [First Trailer For The Tetris Movie Shows Off The Wild Story Behind The Hit Game](https://kotaku.com/tetris-movie-trailer-apple-release-date-taron-egerton-1850123044)
- - [Huesera takes pregnancy body horror up to 11](https://www.polygon.com/reviews/23601603/huesera-the-bone-woman-movie-review)<!-- GAME:END -->
+ - [Olivia Colman makes the perfect Miss Havisham in the new Great Expectations trailer](https://www.polygon.com/23603027/great-expectations-olivia-colman-fx-hulu-trailer-release-date)
+ - [Shield your eyes from Steelseries’ new Destiny 2: Lightfall accessories](https://www.polygon.com/deals/2023/2/16/23602933/steelseries-destiny-2-lightfall-accessories-headset-mouse)
+ - [Alien’s Xenomorph is the ‘perfect organism,’ fit for any sci-fi story](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
