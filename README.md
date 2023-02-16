@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - ⏩ [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)
- - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
+ - 💣 [Enjoy your dreams tonight....](http://9gag.com/gag/a2KKyvY)
+ - ⏩ [Date Night](http://9gag.com/gag/aPggAwG)
+ - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
 
