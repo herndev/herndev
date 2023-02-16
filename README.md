@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with TikTok CEO Shou Zi Chew as he works to persuade US lawmakers that the app is not a national security threat, calling suspicions &quot;misinformed&quot; &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230215/p44#a230215p44)
- - [Twitter&#39;s AI ethics researchers rushed to publish a moderation bias study on arXiv in October 2022, deciding their prospects under Elon Musk would be too murky &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230215/p43#a230215p43)
- - [Data.ai: Twitter app installs grew 24.8% in January 2023 after a drop in December 2022; a set of Twitter alternatives grew 8.1% in January vs. 35.6% in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p42#a230215p42)<!-- TECH:END -->
+ - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)
+ - [House Committee Subpoenas Big Tech CEOs Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/house-committee-subpoenas-big-tech-ceos-over-censorship-claims/#ftag=CAD590a51e)
+ - [BTS now have their very own Lego set — with figures of all seven bandmembers](https://www.theverge.com/23601599/lego-bts-dynamite-music-video-set-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
