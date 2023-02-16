@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard plans to require employees to come to the office three days a week starting on April 10 for Activision Publishing and July 10 for Blizzard &lpar;Game Developer&rpar;](http://www.techmeme.com/230215/p40#a230215p40)
- - [Binance Chief Strategy Officer Patrick Hillmann says the company expects to pay monetary penalties to settle US regulatory and law enforcement investigations &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230215/p39#a230215p39)
- - [FCC Targets Repeat Robocall Offender With New Cease-and-Desist     - CNET](https://www.cnet.com/news/fcc-targets-repeat-robocall-offender-with-new-cease-and-desist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data.ai: Twitter app installs grew 24.8% in January 2023 after a drop in December 2022; a set of Twitter alternatives grew 8.1% in January vs. 35.6% in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p42#a230215p42)
+ - [Tampa, Florida-based managed detection and response cybersecurity service Deepwatch raised $180M from Springcoast Capital, Splunk Ventures, and Vista Credit &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230215/p41#a230215p41)
+ - [Activision Blizzard plans to require employees to come to the office three days a week starting on April 10 for Activision Publishing and July 10 for Blizzard &lpar;Game Developer&rpar;](http://www.techmeme.com/230215/p40#a230215p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
