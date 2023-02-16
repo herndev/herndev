@@ -37,7 +37,7 @@
 
 <!-- TECH:START -->
  - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)
- - [House Committee Subpoenas Big Tech CEOs Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/house-committee-subpoenas-big-tech-ceos-over-censorship-claims/#ftag=CAD590a51e)
+ - [Big Tech CEOs Hit With House Subpoenas Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/#ftag=CAD590a51e)
  - [BTS now have their very own Lego set — with figures of all seven bandmembers](https://www.theverge.com/23601599/lego-bts-dynamite-music-video-set-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
