@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie is going to sell a &#39;booster&#39; that unlocks the new Destiny 2: Lightfall subclass on your alt](https://www.pcgamer.com/bungie-is-going-to-sell-a-booster-that-unlocks-the-new-destiny-2-lightfall-subclass-on-your-alt)
- - [Legendary Calvin And Hobbes Creator Is Back With Story Book For Adults After 28 Years Away](https://kotaku.com/calvin-and-hobbes-comic-creator-bill-waterson-new-book-1850124744)
- - [Resident Evil 4 Remake system requirements are pleasantly mild](https://www.pcgamer.com/resident-evil-4-remake-system-requirements)<!-- GAME:END -->
+ - [Player count plummets for Warner Bros.’ Smash-like MultiVersus](https://www.polygon.com/23603292/multiversus-player-count-base-free-play-wb-games)
+ - [Breath of the Wild Fans Are Still Finding New Tricks Nearly Six Years Later](https://kotaku.com/legend-of-zelda-breath-of-the-wild-botw-tricks-shrines-1850124895)
+ - [Ubisoft has an &#39;improved version&#39; of Skull and Bones that it hasn&#39;t shown anyone yet](https://www.pcgamer.com/ubisoft-has-an-improved-version-of-skull-and-bones-that-it-hasnt-shown-anyone-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
