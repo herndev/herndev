@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)
- - [Docs: Binance had secret access to a Binance.US bank account at Silvergate, from which it moved $400M+ in Q1 2021 to a trading firm managed by Changpeng Zhao &lpar;Reuters&rpar;](http://www.techmeme.com/230216/p29#a230216p29)
- - [Apple starts killing off developer beta profiles in iOS 16.4](https://appleinsider.com/articles/23/02/16/apple-starts-killing-off-developer-beta-profiles-in-ios-164?utm_medium=rss)<!-- TECH:END -->
+ - [Cancelled HomeKit architecture upgrade will return in iOS 16.4](https://appleinsider.com/articles/23/02/16/cancelled-homekit-architecture-upgrade-will-return-in-ios-164?utm_medium=rss)
+ - [Apple&#39;s iOS 16.4 and iPadOS 16.4 betas add support for Safari web apps on the homescreen to send push notifications and show notification badges &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230216/p31#a230216p31)
+ - [In an email, Google&#39;s Search SVP tells staff to rewrite Bard&#39;s bad responses in a &quot;neutral tone&quot; and to &quot;not imply emotion&quot; as the tool &quot;learns best by example&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230216/p30#a230216p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
