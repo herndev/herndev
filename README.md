@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - 👉 [Sad console beep](http://9gag.com/gag/anzzR35)<!-- MEMES:END -->
+ - 💣 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
+ - ⏩ [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - 👉 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)<!-- MEMES:END -->
 
 ---
 
