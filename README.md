@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019d hate to see what her personal vehicle looks like.](http://9gag.com/gag/aGEE2nG)
- - ⏩ [A+ Parenting](http://9gag.com/gag/aMEEXVW)
- - 👉 [Great, now let do a price comparison](http://9gag.com/gag/a1PPLOR)<!-- MEMES:END -->
+ - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - ⏩ [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
+ - 👉 [Sad console beep](http://9gag.com/gag/anzzR35)<!-- MEMES:END -->
 
 ---
 
