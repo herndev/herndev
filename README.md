@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [And the best background actress award goes to the lady with the sandwich. The boys S2 Ep4 At 59:12](http://9gag.com/gag/avQQE2O)
- - ⏩ [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
- - 👉 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
+ - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
+ - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
 
