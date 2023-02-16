@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - ⏩ [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)
- - 👉 [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)<!-- MEMES:END -->
+ - 💣 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
+ - ⏩ [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)
+ - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
 
 ---
 
