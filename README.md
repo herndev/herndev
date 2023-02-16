@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Quantum computing just got another step closer](https://www.pcgamer.com/quantum-computing-just-got-closer-with-scalable-chaplets)
  - [Experts say the AI singularity could be here in the next two decades](https://www.pcgamer.com/experts-say-the-ai-singularity-could-be-here-in-the-next-two-decades)
- - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)
- - [Two More Online Shooters Are Winding Up, But In The Best Ways Possible](https://kotaku.com/natural-selection-spellbreak-steam-shooter-online-pc-1850120304)<!-- GAME:END -->
+ - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
