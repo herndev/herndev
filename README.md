@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be cutting contractors in an effort to cut costs](https://appleinsider.com/articles/23/02/16/apple-may-be-cutting-contractors-in-an-effort-to-cut-costs?utm_medium=rss)
- - [How will Netflix stop password sharing? What you need to know](https://www.androidauthority.com/how-will-netflix-stop-password-sharing-3286170/)
- - [DoorDash announces a $750M stock buyback program and says Chief Financial Officer Prabir Adarkar will replace President Christopher Payne on March 1 &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/230216/p33#a230216p33)<!-- TECH:END -->
+ - [Goldman Sachs move casts shadow over Apple Savings accounts](https://appleinsider.com/articles/23/02/15/goldman-sachs-drops-consumer-credit-expansion-casting-shadow-over-apple-savings-accounts?utm_medium=rss)
+ - [Galaxy Book 3 Series Proves Samsung&#39;s Pro Laptops Are Leveling Up     - CNET](https://www.cnet.com/tech/computing/galaxy-book-3-proves-samsungs-pro-laptops-are-leveling-up/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 vs. Google Pixel 7: Compare the Specs of Both Android Phones     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-vs-google-pixel-7-compare-the-specs-of-both-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
