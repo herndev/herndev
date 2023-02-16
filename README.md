@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Graphorn mount in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-graphorn-mount-unlock)
- - [Up to 40% ray tracing boost for last-gen cards in AMD&#39;s new driver](https://www.pcgamer.com/up-to-40-ray-tracing-boost-for-last-gen-cards-in-amds-new-driver)
- - [What People Get Wrong When They Think About Video Game AI](https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151)<!-- GAME:END -->
+ - [Free Play Days – Far Cry 6 and NBA 2K23](https://news.xbox.com/en-us/2023/02/16/free-play-days-far-cry-6-and-nba-2k23/)
+ - [BTS gets an official Lego set for K-pop smash ‘Dynamite’](https://www.polygon.com/23602562/bts-lego-set-official-dynamite-price-release-date)
+ - [John Wick 4 trailer introduces Keanu Reeves to a world of new assassins](https://www.polygon.com/23601760/john-wick-4-trailer-cast-release-date-keanu-reeves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
