@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Reserve Bank of India publishes a list of 32 entities, including Google Pay and Amazon Pay, that can act as online payment aggregators in the country &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/230216/p2#a230216p2)
- - [A brief history of Rust, a programming language that emerged from a side project and has been instrumental in driving the shift toward memory safe programming &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230216/p1#a230216p1)
- - [OnePlus made a mistake, will NOT update the OnePlus 11R for 4 years](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)<!-- TECH:END -->
+ - [Casetify launches collaboration with &#39;The Office&#39;-branded accessories](https://appleinsider.com/articles/23/02/16/casetify-launches-collaboration-with-the-office-branded-accessories?utm_medium=rss)
+ - [The US CBP confirms implementing software to verify e-passports in June 2022, nearly 16 years after the US started issuing passports with RFID chips &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230216/p5#a230216p5)
+ - [Sources: a China-based former ASML employee stole data from Teamcenter, a Siemens-made internal tool used to store technical info, in the past couple of months &lpar;Bloomberg&rpar;](http://www.techmeme.com/230216/p4#a230216p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
