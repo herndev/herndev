@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hogwarts Legacy Discord is an unreadable battleground](https://www.polygon.com/23598433/hogwarts-legacy-harry-potter-discord-toxic)
- - [Crypto Bro From Big Crash May Lose Access To League Of Legends](https://kotaku.com/ftx-crypto-crash-sbf-league-legends-securities-fraud-1850122547)
- - [Netflix&#39;s Junji Ito Anime Fails To Break The Terrible Horror Adaptation Curse](https://kotaku.com/netflixs-junji-ito-anime-fails-to-break-the-terrible-ho-1850122538)<!-- GAME:END -->
+ - [Sword and Fairy: Together Forever Coming to Game Pass on July 6](https://news.xbox.com/en-us/2023/02/16/sword-and-fairy-together-forever-game-pass-july-6/)
+ - [Where to find Lightstone and Mirrorstone in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602758/lightstone-mirrorstone-weapon-upgrade-ore-tsukumo-shrine)
+ - [Twitch Star xQc Horrifies World With Messy, Smelly Room &lpar;Again&rpar;](https://kotaku.com/twitch-xqc-streamer-messy-room-trash-garbage-1850122945)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
