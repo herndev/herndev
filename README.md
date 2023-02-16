@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based Unisers, which is developing a way to detect extraneous extremely small particles during chip production, raised $14M led by Intel Capital &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230216/p20#a230216p20)
- - [Adobe rolls out updates to Premiere Pro, expands speech-to-text language support](https://appleinsider.com/articles/23/02/16/adobe-rolls-out-updates-to-premiere-pro-expands-speech-to-text-language-support?utm_medium=rss)
- - [Future Mac Pro may use Apple Silicon &amp; PCI-E GPUs in parallel](https://appleinsider.com/articles/23/02/16/future-mac-pro-may-use-apple-silicon-pci-e-gpus-in-parallel?utm_medium=rss)<!-- TECH:END -->
+ - [Apkudo, which offers a service for managing connected devices, raised a $37.5M Series C, sources say at a $300M valuation, bringing its total funding to $75M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230216/p24#a230216p24)
+ - [Susan Wojcicki stepping down as YouTube CEO, but not leaving Google](https://appleinsider.com/articles/23/02/16/susan-wojcicki-stepping-down-as-youtube-ceo-but-not-leaving-google?utm_medium=rss)
+ - [Filing: China Renaissance says chairman Bao Fan, a high-profile tech investor, dealmaker, and banker in China, has been unreachable for over two days &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230216/p23#a230216p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
