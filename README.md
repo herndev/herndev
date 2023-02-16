@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based esports tournament company VSPO raised a $265M Series C from Saudi Arabia&#39;s Savvy Games Group, seeking to reboot pro gaming in China after a lull &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230216/p15#a230216p15)
- - [Q&amp;A with IBM CEO Arvind Krishna on OpenAI&#39;s ChatGPT, research into LLMs, companies using AI, Deep Blue and chess, practical uses for generative AI, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230216/p14#a230216p14)
- - [Last chance to pre-order the Galaxy 23 and get $150 Samsung Credit](https://www.androidauthority.com/pre-order-galaxy-23-3285952/)<!-- TECH:END -->
+ - [Anker recalls 535 Power Bank over fire hazard](https://appleinsider.com/articles/23/02/16/anker-recalls-535-power-bank-over-fire-hazard?utm_medium=rss)
+ - [Ring Video Doorbell 2020 Is $40 Off Right Now at B&amp;H     - CNET](https://www.cnet.com/deals/ring-video-doorbell-2020-is-40-off-right-now-at-b-h/#ftag=CAD590a51e)
+ - [CoinMarketCap data shows the crypto market is struggling with an &quot;Alameda gap&quot; after new coin applications fell from 10,264 in Q1 2022 to 6,350 in Q4 2022 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230216/p17#a230216p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
