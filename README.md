@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apkudo, which offers a service for managing connected devices, raised a $37.5M Series C, sources say at a $300M valuation, bringing its total funding to $75M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230216/p24#a230216p24)
- - [Susan Wojcicki stepping down as YouTube CEO, but not leaving Google](https://appleinsider.com/articles/23/02/16/susan-wojcicki-stepping-down-as-youtube-ceo-but-not-leaving-google?utm_medium=rss)
- - [Filing: China Renaissance says chairman Bao Fan, a high-profile tech investor, dealmaker, and banker in China, has been unreachable for over two days &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230216/p23#a230216p23)<!-- TECH:END -->
+ - [iOS 16 adoption rate higher than iOS 15, but iPadOS 16 lags](https://appleinsider.com/articles/23/02/16/ios-16-adoption-rate-higher-than-ios-15-but-ipados-16-lags-behind-ipados-15?utm_medium=rss)
+ - [Microsoft authorizes Parallels Desktop 18 to support Windows 11 on Apple&#39;s M1 and M2 Macs, after previously only licensing ARM versions of Windows to OEMs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230216/p27#a230216p27)
+ - [Microsoft gives official blessing to Windows 11 for ARM on Parallels](https://appleinsider.com/articles/23/02/16/microsoft-gives-official-blessing-to-windows-11-for-arm-on-parallels?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
