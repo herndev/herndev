@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enjoy your dreams tonight....](http://9gag.com/gag/a2KKyvY)
- - ⏩ [Date Night](http://9gag.com/gag/aPggAwG)
- - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
+ - 💣 [Was worried for a minute](http://9gag.com/gag/adPPxdZ)
+ - ⏩ [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
+ - 👉 [Isn&#39;t that obvious?](http://9gag.com/gag/aeQQVem)<!-- MEMES:END -->
 
 ---
 
