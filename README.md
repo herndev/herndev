@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - ⏩ [Ups](http://9gag.com/gag/aMEEPvA)
- - 👉 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
+ - 💣 [And suddenly, a car](http://9gag.com/gag/aA00XYE)
+ - ⏩ [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
+ - 👉 [Valentine&#39;s day in Berlin](http://9gag.com/gag/axooPBK)<!-- MEMES:END -->
 
 ---
 
