@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re many and among us...](http://9gag.com/gag/aeQQ7jq)
- - ⏩ [Buying online](http://9gag.com/gag/aZDDzZX)
- - 👉 [Me after a second after into Hogwarts Legacy.](http://9gag.com/gag/aQEE2b7)<!-- MEMES:END -->
+ - 💣 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
+ - ⏩ [I am the English language your honour](http://9gag.com/gag/aVbbKgO)
+ - 👉 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
 
 ---
 
