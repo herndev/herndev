@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
- - ⏩ [Cheerleader claims basketball player made accidental contact with her so she decides to walk onto the court and start a physical fight with him to the point where they have to call security.](http://9gag.com/gag/aVbbgZO)
- - 👉 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
+ - 💣 [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - ⏩ [Ups](http://9gag.com/gag/aMEEPvA)
+ - 👉 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
 
 ---
 
