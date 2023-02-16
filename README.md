@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Experts say the AI singularity could be here in the next two decades](https://www.pcgamer.com/experts-say-the-ai-singularity-could-be-here-in-the-next-two-decades)
  - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)
- - [Two More Online Shooters Are Winding Up, But In The Best Ways Possible](https://kotaku.com/natural-selection-spellbreak-steam-shooter-online-pc-1850120304)
- - [How to Train Your Dragon gets the live-action-remake treatment in 2025](https://www.polygon.com/23601846/how-to-train-your-dragon-live-action-release-date)<!-- GAME:END -->
+ - [Two More Online Shooters Are Winding Up, But In The Best Ways Possible](https://kotaku.com/natural-selection-spellbreak-steam-shooter-online-pc-1850120304)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
