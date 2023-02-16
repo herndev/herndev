@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casetify launches collaboration with &#39;The Office&#39;-branded accessories](https://appleinsider.com/articles/23/02/16/casetify-launches-collaboration-with-the-office-branded-accessories?utm_medium=rss)
- - [The US CBP confirms implementing software to verify e-passports in June 2022, nearly 16 years after the US started issuing passports with RFID chips &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230216/p5#a230216p5)
- - [Sources: a China-based former ASML employee stole data from Teamcenter, a Siemens-made internal tool used to store technical info, in the past couple of months &lpar;Bloomberg&rpar;](http://www.techmeme.com/230216/p4#a230216p4)<!-- TECH:END -->
+ - [Sources: spooked by a growing regulatory crackdown, US banks are backing away from crypto companies and re-evaluating their exposure, no matter how small &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230216/p8#a230216p8)
+ - [IFTTT 4.54 review: Innovative but not reliable](https://appleinsider.com/articles/23/02/16/ifttt-454-review-innovative-but-not-reliable?utm_medium=rss)
+ - [A year on from Meta hyping the metaverse in a dystopian Super Bowl ad, enthusiasm for a virtual future has evaporated and Meta is now more focused on efficiency &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/230216/p7#a230216p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
