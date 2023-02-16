@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the best background actress award goes to the lady with the sandwich. The boys S2 Ep4 At 59:12](http://9gag.com/gag/avQQE2O)
- - ⏩ [Sad console beep](http://9gag.com/gag/anzzR35)
+ - 💣 [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
+ - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
  - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
