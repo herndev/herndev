@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a &#39;Retina&#39; display is, and why it matters](https://appleinsider.com/articles/23/02/16/what-a-retina-display-is-and-why-it-matters?utm_medium=rss)
- - [Crypto Buyers Beware: 1 in 4 New Tokens of Any Value Is a Scam](https://www.wired.com/story/new-crypto-token-scams-2022/)
- - [Real Humans Chat About ChatGPT, Jasper AI, Bing, and Bard](https://www.wired.com/story/gadget-lab-podcast-586/)<!-- TECH:END -->
+ - [Shanghai-based esports tournament company VSPO raised a $265M Series C from Saudi Arabia&#39;s Savvy Games Group, seeking to reboot pro gaming in China after a lull &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230216/p15#a230216p15)
+ - [Q&amp;A with IBM CEO Arvind Krishna on OpenAI&#39;s ChatGPT, research into LLMs, companies using AI, Deep Blue and chess, practical uses for generative AI, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230216/p14#a230216p14)
+ - [Last chance to pre-order the Galaxy 23 and get $150 Samsung Credit](https://www.androidauthority.com/pre-order-galaxy-23-3285952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
