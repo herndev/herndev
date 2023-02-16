@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activision Blizzard plans to require employees to come to the office three days a week starting on April 10 for Activision Publishing and July 10 for Blizzard &lpar;Game Developer&rpar;](http://www.techmeme.com/230215/p40#a230215p40)
  - [Binance Chief Strategy Officer Patrick Hillmann says the company expects to pay monetary penalties to settle US regulatory and law enforcement investigations &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230215/p39#a230215p39)
- - [Tom Holland Will Return as Spider-Man, Kevin Feige Says     - CNET](https://www.cnet.com/culture/entertainment/tom-holland-will-return-as-spider-man-kevin-feige-says/#ftag=CAD590a51e)
- - [MediaTek announces first chip in Dimensity 7000 series](https://www.androidauthority.com/mediatek-dimensity-7200-3285227/)<!-- TECH:END -->
+ - [FCC Targets Repeat Robocall Offender With New Cease-and-Desist     - CNET](https://www.cnet.com/news/fcc-targets-repeat-robocall-offender-with-new-cease-and-desist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
