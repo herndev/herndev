@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - ⏩ [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - ⏩ [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
+ - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
 
 ---
 
