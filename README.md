@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: spooked by a growing regulatory crackdown, US banks are backing away from crypto companies and re-evaluating their exposure, no matter how small &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230216/p8#a230216p8)
- - [IFTTT 4.54 review: Innovative but not reliable](https://appleinsider.com/articles/23/02/16/ifttt-454-review-innovative-but-not-reliable?utm_medium=rss)
- - [A year on from Meta hyping the metaverse in a dystopian Super Bowl ad, enthusiasm for a virtual future has evaporated and Meta is now more focused on efficiency &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/230216/p7#a230216p7)<!-- TECH:END -->
+ - [What a &#39;Retina&#39; display is, and why it matters](https://appleinsider.com/articles/23/02/16/what-a-retina-display-is-and-why-it-matters?utm_medium=rss)
+ - [Crypto Buyers Beware: 1 in 4 New Tokens of Any Value Is a Scam](https://www.wired.com/story/new-crypto-token-scams-2022/)
+ - [Real Humans Chat About ChatGPT, Jasper AI, Bing, and Bard](https://www.wired.com/story/gadget-lab-podcast-586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
