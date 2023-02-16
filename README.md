@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sword and Fairy: Together Forever Coming to Game Pass on July 6](https://news.xbox.com/en-us/2023/02/16/sword-and-fairy-together-forever-game-pass-july-6/)
- - [Where to find Lightstone and Mirrorstone in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602758/lightstone-mirrorstone-weapon-upgrade-ore-tsukumo-shrine)
- - [Twitch Star xQc Horrifies World With Messy, Smelly Room &lpar;Again&rpar;](https://kotaku.com/twitch-xqc-streamer-messy-room-trash-garbage-1850122945)<!-- GAME:END -->
+ - [Doja Cat Streams ‘Satanic’ PowerWash Simulator On Twitch](https://kotaku.com/doja-cat-powerwash-simulator-twitch-streaming-satanic-1850123175)
+ - [First Trailer For The Tetris Movie Shows Off The Wild Story Behind The Hit Game](https://kotaku.com/tetris-movie-trailer-apple-release-date-taron-egerton-1850123044)
+ - [Huesera takes pregnancy body horror up to 11](https://www.polygon.com/reviews/23601603/huesera-the-bone-woman-movie-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
