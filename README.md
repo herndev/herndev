@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker recalls 535 Power Bank over fire hazard](https://appleinsider.com/articles/23/02/16/anker-recalls-535-power-bank-over-fire-hazard?utm_medium=rss)
- - [Ring Video Doorbell 2020 Is $40 Off Right Now at B&amp;H     - CNET](https://www.cnet.com/deals/ring-video-doorbell-2020-is-40-off-right-now-at-b-h/#ftag=CAD590a51e)
- - [CoinMarketCap data shows the crypto market is struggling with an &quot;Alameda gap&quot; after new coin applications fell from 10,264 in Q1 2022 to 6,350 in Q4 2022 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230216/p17#a230216p17)<!-- TECH:END -->
+ - [Apple working on how to read back iMessages in the sender&#39;s voice](https://appleinsider.com/articles/23/02/16/apple-working-on-how-to-read-back-imessages-in-the-senders-voice?utm_medium=rss)
+ - [The Secret to Cleaning a Cast-Iron Skillet Is Already In Your Pantry     - CNET](https://www.cnet.com/news/how-to-clean-cast-iron-skillet/#ftag=CAD590a51e)
+ - [Save $300 on a Pixel 7 and Get 6 Free Months of Service When You Prepay at Mint Mobile     - CNET](https://www.cnet.com/deals/mint-mobile-pixel-7-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
