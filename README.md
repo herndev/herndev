@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looks like Samsung might revive the Fan Edition with the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-3285992/)
  - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)
- - [Big Tech CEOs Hit With House Subpoenas Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/#ftag=CAD590a51e)
- - [BTS now have their very own Lego set — with figures of all seven bandmembers](https://www.theverge.com/23601599/lego-bts-dynamite-music-video-set-release-date-price)<!-- TECH:END -->
+ - [Big Tech CEOs Hit With House Subpoenas Over Censorship Claims     - CNET](https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
