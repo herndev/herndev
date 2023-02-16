@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 💣 [Not today](http://9gag.com/gag/a8qqmEV)
+ - ⏩ [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
 
