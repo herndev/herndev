@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on how to read back iMessages in the sender&#39;s voice](https://appleinsider.com/articles/23/02/16/apple-working-on-how-to-read-back-imessages-in-the-senders-voice?utm_medium=rss)
- - [The Secret to Cleaning a Cast-Iron Skillet Is Already In Your Pantry     - CNET](https://www.cnet.com/news/how-to-clean-cast-iron-skillet/#ftag=CAD590a51e)
- - [Save $300 on a Pixel 7 and Get 6 Free Months of Service When You Prepay at Mint Mobile     - CNET](https://www.cnet.com/deals/mint-mobile-pixel-7-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Switzerland-based Unisers, which is developing a way to detect extraneous extremely small particles during chip production, raised $14M led by Intel Capital &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230216/p20#a230216p20)
+ - [Adobe rolls out updates to Premiere Pro, expands speech-to-text language support](https://appleinsider.com/articles/23/02/16/adobe-rolls-out-updates-to-premiere-pro-expands-speech-to-text-language-support?utm_medium=rss)
+ - [Future Mac Pro may use Apple Silicon &amp; PCI-E GPUs in parallel](https://appleinsider.com/articles/23/02/16/future-mac-pro-may-use-apple-silicon-pci-e-gpus-in-parallel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
