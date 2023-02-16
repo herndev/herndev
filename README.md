@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine thinking your fart is going to be silent but then it comes out sounding like you just got taken out by a turret lol.](http://9gag.com/gag/a3ZZWve)
- - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 👉 [Post your most ridiculous stock photo](http://9gag.com/gag/a2KKDxe)<!-- MEMES:END -->
+ - 💣 [I\u2019d hate to see what her personal vehicle looks like.](http://9gag.com/gag/aGEE2nG)
+ - ⏩ [A+ Parenting](http://9gag.com/gag/aMEEXVW)
+ - 👉 [Great, now let do a price comparison](http://9gag.com/gag/a1PPLOR)<!-- MEMES:END -->
 
 ---
 
