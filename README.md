@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data.ai: Twitter app installs grew 24.8% in January 2023 after a drop in December 2022; a set of Twitter alternatives grew 8.1% in January vs. 35.6% in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p42#a230215p42)
- - [Tampa, Florida-based managed detection and response cybersecurity service Deepwatch raised $180M from Springcoast Capital, Splunk Ventures, and Vista Credit &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230215/p41#a230215p41)
- - [Activision Blizzard plans to require employees to come to the office three days a week starting on April 10 for Activision Publishing and July 10 for Blizzard &lpar;Game Developer&rpar;](http://www.techmeme.com/230215/p40#a230215p40)<!-- TECH:END -->
+ - [An interview with TikTok CEO Shou Zi Chew as he works to persuade US lawmakers that the app is not a national security threat, calling suspicions &quot;misinformed&quot; &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230215/p44#a230215p44)
+ - [Twitter&#39;s AI ethics researchers rushed to publish a moderation bias study on arXiv in October 2022, deciding their prospects under Elon Musk would be too murky &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230215/p43#a230215p43)
+ - [Data.ai: Twitter app installs grew 24.8% in January 2023 after a drop in December 2022; a set of Twitter alternatives grew 8.1% in January vs. 35.6% in November &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230215/p42#a230215p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
