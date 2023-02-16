@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23’s gameplay features detailed](https://blog.playstation.com/2023/02/16/mlb-the-show-23s-gameplay-features-detailed/)
- - [Borderlands wishes it had this roguelike’s near-permadeath experience](https://www.polygon.com/23601975/dust-and-neon-steam-nintendo-switch-release-date-review-impressions-borderlands)
- - [Total War: Warhammer 3 is making one of the series&#39; greatest ever campaigns free for all owners](https://www.pcgamer.com/total-war-warhammer-3-is-making-one-of-the-series-greatest-ever-campaigns-free-for-all-owners)<!-- GAME:END -->
+ - [How to get the Graphorn mount in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-graphorn-mount-unlock)
+ - [Up to 40% ray tracing boost for last-gen cards in AMD&#39;s new driver](https://www.pcgamer.com/up-to-40-ray-tracing-boost-for-last-gen-cards-in-amds-new-driver)
+ - [What People Get Wrong When They Think About Video Game AI](https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
