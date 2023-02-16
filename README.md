@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - ⏩ [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)
- - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
+ - ⏩ [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)
+ - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
 
 ---
 
