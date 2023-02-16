@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
- - ⏩ [The Epstein court documents have just been released, over 2000 pages with list of people on that island](http://9gag.com/gag/aREELN2)
- - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
+ - 💣 [Police seems to be having fun.](http://9gag.com/gag/a6qq9bq)
+ - ⏩ [Cheerleader claims basketball player made accidental contact with her so she decides to walk onto the court and start a physical fight with him to the point where they have to call security.](http://9gag.com/gag/aVbbgZO)
+ - 👉 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
 
 ---
 
