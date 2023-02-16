@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mint deal: Just $389 for the Pixel 7 &amp; 12-month service](https://www.androidauthority.com/mint-pixel-7-deal-3285879/)
- - [19 Great Gifts for Teens in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-teenagers/#ftag=CAD590a51e)
- - [Anker Recalls 535 Power Bank Over Fire Risk     - CNET](https://www.cnet.com/tech/computing/anker-recalls-535-power-bank-over-fire-risk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MediaTek announces first chip in Dimensity 7000 series](https://www.androidauthority.com/mediatek-dimensity-7200-3285227/)
+ - [Audio Technica ATH-M50x Review: Still great in 2023](https://appleinsider.com/articles/23/02/16/audio-technica-ath-m50x-review-still-great-in-2023?utm_medium=rss)
+ - [Xbox February update includes Google Home app support and ‘carbon aware’ downloads](https://www.theverge.com/2023/2/15/23601105/microsoft-xbox-february-dashboard-update-power-modes-google-home-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
