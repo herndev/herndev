@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus made a mistake, will NOT update the OnePlus 11R for 4 years](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)
- - [Looks like Samsung might revive the Fan Edition with the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-3285992/)
- - [You can now control your Xbox with the Google Home app](https://www.androidauthority.com/control-xbox-google-home-app-3285971/)<!-- TECH:END -->
+ - [The Reserve Bank of India publishes a list of 32 entities, including Google Pay and Amazon Pay, that can act as online payment aggregators in the country &lpar;Anup Roy/Bloomberg&rpar;](http://www.techmeme.com/230216/p2#a230216p2)
+ - [A brief history of Rust, a programming language that emerged from a side project and has been instrumental in driving the shift toward memory safe programming &lpar;Clive Thompson/MIT Technology Review&rpar;](http://www.techmeme.com/230216/p1#a230216p1)
+ - [OnePlus made a mistake, will NOT update the OnePlus 11R for 4 years](https://www.androidauthority.com/oneplus-11r-four-years-updates-3282478/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
