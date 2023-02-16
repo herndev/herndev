@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - ⏩ [I am the English language your honour](http://9gag.com/gag/aVbbKgO)
- - 👉 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
+ - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
 
