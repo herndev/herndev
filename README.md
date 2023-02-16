@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not today](http://9gag.com/gag/a8qqmEV)
- - ⏩ [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - ⏩ [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
  - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
