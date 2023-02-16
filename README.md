@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Olivia Colman makes the perfect Miss Havisham in the new Great Expectations trailer](https://www.polygon.com/23603027/great-expectations-olivia-colman-fx-hulu-trailer-release-date)
- - [Shield your eyes from Steelseries’ new Destiny 2: Lightfall accessories](https://www.polygon.com/deals/2023/2/16/23602933/steelseries-destiny-2-lightfall-accessories-headset-mouse)
- - [Alien’s Xenomorph is the ‘perfect organism,’ fit for any sci-fi story](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott)<!-- GAME:END -->
+ - [Disney cracking down on Marvel’s Phase 5 output and beyond](https://www.polygon.com/23603081/disney-marvel-release-schedule-2023-phase-5)
+ - [Wait, there are 5 Lord of the Rings games due in the next 2 years?](https://www.pcgamer.com/wait-there-are-5-lord-of-the-rings-games-due-in-the-next-2-years)
+ - [The best superhero game in recent memory is free on Steam this weekend](https://www.pcgamer.com/midnight-suns-steam-free-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
