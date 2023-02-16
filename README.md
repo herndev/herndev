@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [1,2,3.. wait what?](http://9gag.com/gag/aNwwv5b)
- - ⏩ [You can trick ChatGPT to answer to even restricted questions](http://9gag.com/gag/ap99Reb)
- - 👉 [So i saw this movie for the first time today and this was the scariest shit i have ever seen. Really good movie.](http://9gag.com/gag/aKEE96j)<!-- MEMES:END -->
+ - ⏩ [Buy your man some flowers girls.](http://9gag.com/gag/aKEEWA1)
+ - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
 
