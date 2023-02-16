@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider](http://9gag.com/gag/axooPPL)
- - ⏩ [The ultimate simp lord &lpar;info in comments&rpar;](http://9gag.com/gag/aREEon7)
- - 👉 [Joining the pipes](http://9gag.com/gag/aREE2LQ)<!-- MEMES:END -->
+ - 💣 [Imagine thinking your fart is going to be silent but then it comes out sounding like you just got taken out by a turret lol.](http://9gag.com/gag/a3ZZWve)
+ - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 👉 [Post your most ridiculous stock photo](http://9gag.com/gag/a2KKDxe)<!-- MEMES:END -->
 
 ---
 
