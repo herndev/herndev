@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Angry Modern Warfare 2 players moderately soothed by new map reveal, remain mad](https://www.pcgamer.com/angry-modern-warfare-2-players-soothed-by-new-map-reveal-still-mad)
- - [MultiVersus’ Daily Player Count Plunges By 99 Percent, But Maybe Pickle Rick Can Save It](https://kotaku.com/multiversus-steam-pc-pickle-rick-morty-player-count-1850120234)
- - [Behold the incredibly blursed Dagoth Ur pie](https://www.polygon.com/23601393/dagoth-ur-morrowind-pie-ai)<!-- GAME:END -->
+ - [Genshin Impact developer&#39;s next game draws 2M sign-ups as its launch nears](https://www.pcgamer.com/genshin-impact-developers-next-game-draws-2m-sign-ups-as-its-launch-nears)
+ - [Two More Online Shooters Are Winding Up, But In The Best Ways Possible](https://kotaku.com/natural-selection-spellbreak-steam-shooter-online-pc-1850120304)
+ - [How to Train Your Dragon gets the live-action-remake treatment in 2025](https://www.polygon.com/23601846/how-to-train-your-dragon-live-action-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
