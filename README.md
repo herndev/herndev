@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Far Cry 6 and NBA 2K23](https://news.xbox.com/en-us/2023/02/16/free-play-days-far-cry-6-and-nba-2k23/)
- - [BTS gets an official Lego set for K-pop smash ‘Dynamite’](https://www.polygon.com/23602562/bts-lego-set-official-dynamite-price-release-date)
- - [John Wick 4 trailer introduces Keanu Reeves to a world of new assassins](https://www.polygon.com/23601760/john-wick-4-trailer-cast-release-date-keanu-reeves)<!-- GAME:END -->
+ - [The Hogwarts Legacy Discord is an unreadable battleground](https://www.polygon.com/23598433/hogwarts-legacy-harry-potter-discord-toxic)
+ - [Crypto Bro From Big Crash May Lose Access To League Of Legends](https://kotaku.com/ftx-crypto-crash-sbf-league-legends-securities-fraud-1850122547)
+ - [Netflix&#39;s Junji Ito Anime Fails To Break The Terrible Horror Adaptation Curse](https://kotaku.com/netflixs-junji-ito-anime-fails-to-break-the-terrible-ho-1850122538)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
