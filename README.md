@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - ⏩ [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
- - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
+ - 💣 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
+ - ⏩ [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
 
 ---
 
