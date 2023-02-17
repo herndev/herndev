@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - ⏩ [Tuna to go](http://9gag.com/gag/avQQxRX)
- - 👉 [Is he right or wrong?](http://9gag.com/gag/aOxxZBM)<!-- MEMES:END -->
+ - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - ⏩ [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)
+ - 👉 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
 
 ---
 
