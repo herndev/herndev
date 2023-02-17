@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [4K TV Deals: Great Prices on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Tesla’s Recall of Full Self-Driving Targets a &#39;Fundamental&#39; Flaw](https://www.wired.com/story/teslas-full-self-driving-recall-targets-a-fundamental-flaw/)<!-- TECH:END -->
+ - [This refurbished MacBook Air just dipped to $355 in near mint condition](https://appleinsider.com/articles/23/02/17/this-refurbished-macbook-air-just-dipped-to-355-in-near-mint-condition?utm_medium=rss)
+ - [Everything new in the iOS 16.4 beta](https://appleinsider.com/articles/23/02/17/ios-164-beta-brings-multitude-of-user-facing-changes?utm_medium=rss)
+ - [NASA&#39;s Webb Space Telescope Reveals Never-Before-Seen Details of Pandora&#39;s Cluster     - CNET](https://www.cnet.com/science/space/nasas-webb-space-telescope-reveals-new-details-of-pandoras-cluster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
