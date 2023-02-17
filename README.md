@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile tracker adds new indetectable mode, claims it helps victims of stalking](https://appleinsider.com/articles/23/02/16/tile-tracker-adds-new-anti-theft-measure-claims-it-helps-victims-of-stalking?utm_medium=rss)
- - [Want to run Windows on your Apple Silicon Mac? Microsoft says OK](https://www.androidauthority.com/microsoft-allow-authorized-windows-11-apple-silicon-macs-3286514/)
- - [The Mate SUV electric cargo bike is coming to replace your expensive car](https://www.theverge.com/2023/2/17/23603896/mate-suv-electric-cargo-bike-price-date-specs)<!-- TECH:END -->
+ - [Bellroy All-Conditions Phone Pocket review: Premium protection](https://appleinsider.com/articles/23/02/17/bellroy-all-conditions-phone-pocket-review-premium-protection?utm_medium=rss)
+ - [Apple will surrender info on how many users it has to the EU](https://appleinsider.com/articles/23/02/17/apple-will-surrender-info-on-how-many-users-it-has-to-the-eu?utm_medium=rss)
+ - [Daily Authority: 📷 Galaxy S23 feature tackles image malware](https://www.androidauthority.com/daily-authority-february-17-2023-3286519/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
