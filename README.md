@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The good news is that you can grab an RTX 4090 laptop for $2,851](https://www.pcgamer.com/the-good-news-is-that-you-can-grab-an-rtx-4090-laptop-for-dollar2851)
- - [Civilization 7 is already in development, Firaxis says](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
- - [Returnal beginners guide: Starter tips to get the most out of each life](https://www.pcgamer.com/returnal-beginners-tips)<!-- GAME:END -->
+ - [How I became the real monster in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602634/wild-hearts-pet-monsters-gladefruit-hare-small-kemono-whos-the-real-monster-here)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Giant Pokemon Scarlet And Violet Patch Tries Fixing Jank By…Spawning Fewer Monsters](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-bug-patch-1850127808)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
