@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #608: Friday, February 17](https://www.pcgamer.com/wordle-hint-answer-today-608-february-17)
  - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)
- - [Cyberpunk 2077 Gets One Thig Right: Cars Need Buttons](https://kotaku.com/cyberpunk-2077-car-touchscreen-tesla-model-3-volvo-1850125350)
- - [Report: City-Builder Taken Off Steam After Fan Goes Rogue](https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125)<!-- GAME:END -->
+ - [Cyberpunk 2077 Gets One Thig Right: Cars Need Buttons](https://kotaku.com/cyberpunk-2077-car-touchscreen-tesla-model-3-volvo-1850125350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
