@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - ⏩ [Post your most ridiculous stock photo](http://9gag.com/gag/a2KKDxe)
- - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 💣 [Tuna to go](http://9gag.com/gag/avQQxRX)
+ - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
 
