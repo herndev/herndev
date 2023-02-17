@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iranian woman throws hijab as response for being dismissed from board of engineers for not wearing hijab](http://9gag.com/gag/awZZ8yx)
- - ⏩ [Giga Chad AI](http://9gag.com/gag/aL11bvz)
- - 👉 [This should be the norms in the real world](http://9gag.com/gag/aREED77)<!-- MEMES:END -->
+ - 💣 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 👉 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
 
 ---
 
