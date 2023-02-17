@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Octopath Traveler 2 is eight good stories in search of a great one](https://www.polygon.com/reviews/23602774/octopath-traveler-2-review-switch-ps5-pc-release-date-characters-jrpg)
  - [Wordle hint and answer #608: Friday, February 17](https://www.pcgamer.com/wordle-hint-answer-today-608-february-17)
- - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)
- - [Cyberpunk 2077 Gets One Thig Right: Cars Need Buttons](https://kotaku.com/cyberpunk-2077-car-touchscreen-tesla-model-3-volvo-1850125350)<!-- GAME:END -->
+ - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
