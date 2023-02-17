@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe&#39;s pitch deck to investors says it needs $4B by the end of 2024 to cover a tax withholding bill when it modifies employee stock grants before an IPO &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230217/p17#a230217p17)
- - [Creality Ender-3 Max Neo 3D printer review: For bigger printing projects](https://appleinsider.com/articles/23/02/17/creality-ender-3-max-neo-3d-printer-review-for-bigger-printing-projects?utm_medium=rss)
- - [Roblox Is Bringing Generative AI to Its Gaming Universe](https://www.wired.com/story/roblox-generative-ai-gaming-universe/)<!-- TECH:END -->
+ - [Get Ready For New Emoji on Your iPhone With iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/get-ready-for-new-emoji-on-your-iphone-with-ios-16-4/#ftag=CAD590a51e)
+ - [This Neutron Star Explosion Was Perfect. Too Perfect     - CNET](https://www.cnet.com/science/space/this-neutron-star-explosion-was-perfect-too-perfect/#ftag=CAD590a51e)
+ - [Snag Steep Discounts on Refurbished Laptops and Tablets     - CNET](https://www.cnet.com/deals/snag-steep-discounts-on-refurbished-laptops-and-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
