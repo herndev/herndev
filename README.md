@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 20 to 24](https://news.xbox.com/en-us/2023/02/17/next-week-on-xbox-new-games-for-february-20-to-24/)
- - [XCOM and Midnight Suns designer Jake Solomon leaves Firaxis](https://www.polygon.com/23604027/xcom-midnight-suns-director-jake-solomon-firaxis)
- - [Devs and modders can now freely add AMD&#39;s best upscaling algorithm into games](https://www.pcgamer.com/devs-and-modders-can-now-freely-add-amds-best-upscaling-algorithm-into-games)<!-- GAME:END -->
+ - [The good news is that you can grab an RTX 4090 laptop for $2,851](https://www.pcgamer.com/the-good-news-is-that-you-can-grab-an-rtx-4090-laptop-for-dollar2851)
+ - [Civilization 7 is already in development, Firaxis says](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
+ - [Returnal beginners guide: Starter tips to get the most out of each life](https://www.pcgamer.com/returnal-beginners-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
