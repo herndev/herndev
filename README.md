@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)
- - [GameStop Employee Explains What Made Her Close A Store And Never Come Back](https://kotaku.com/gamestop-meme-stock-nft-pre-orders-hogwarts-legacy-1850128791)
- - [Pokémon Go ‘Primal Rumblings’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/2023/2/17/23604296/primal-rumblings-special-research-ruby-sapphire-latios-latias-which-to-choose)<!-- GAME:END -->
+ - [Dead By Daylight’s New Character Ends Game&#39;s Apparent Foot Fetish Trend](https://kotaku.com/dead-by-daylight-skull-merchant-foot-fetish-torment-1850129211)
+ - [Super Nintendo World delivers on the ultimate Mario Kart fantasy](https://www.polygon.com/23604424/super-nintendo-world-mario-kart-bowsers-challenge-universal-studios-hollywood)
+ - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
