@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How I became the real monster in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23602634/wild-hearts-pet-monsters-gladefruit-hare-small-kemono-whos-the-real-monster-here)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Giant Pokemon Scarlet And Violet Patch Tries Fixing Jank By…Spawning Fewer Monsters](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-bug-patch-1850127808)<!-- GAME:END -->
+ - [Share of the Week: Romance](https://blog.playstation.com/2023/02/17/share-of-the-week-romance/)
+ - [Hogwarts Legacy: Support Animal Conservation with the Magical Beasts Quiz](https://news.xbox.com/en-us/2023/02/17/hogwarts-legacy-animal-conservation-quiz/)
+ - [AI Enters Chess Battle, Cheats, Still Loses Badly](https://kotaku.com/ai-chatgpt-chess-stockfish-cheat-reddit-twitter-1850128273)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
