@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - ⏩ [We need more men like this](http://9gag.com/gag/a9qqX4L)
- - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - ⏩ [Fastest hand in the east.](http://9gag.com/gag/aBddG01)
+ - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
 
