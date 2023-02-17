@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Display Scaling on Mac, and why you &lpar;probably&rpar; shouldn&#39;t worry about it](https://appleinsider.com/inside/macos/tips/what-is-display-scaling-on-mac-and-why-you-probably-shouldnt-worry-about-it?utm_medium=rss)
- - [Under the Digital Services Act, online platforms disclose their MAUs in the EU: YouTube has 401M, Facebook 255M, Instagram 250M, TikTok 125M, Twitter 101M &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230217/p11#a230217p11)
- - [Apple may be getting a slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Microsoft is demoing Bing chatbot to ad agencies, saying it plans paid links within the chatbox responses and industry-specific ads &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230217/p15#a230217p15)
+ - [Microsoft says it is looking at limiting Bing chatbot conversation length and adding tools to let users restart conversations or get more control over tone &lpar;New York Times&rpar;](http://www.techmeme.com/230217/p14#a230217p14)
+ - [The US launches an initiative promoting international cooperation on the responsible use of AI and autonomous weapons by militaries &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/230217/p13#a230217p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
