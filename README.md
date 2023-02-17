@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 👉 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
+ - 💣 [When you&#39;re playing a racing game and you set the difficulty to easy](http://9gag.com/gag/a2KKGew)
+ - ⏩ [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - 👉 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
 
 ---
 
