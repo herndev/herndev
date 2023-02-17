@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Blockchain.com, which lent $270M to 3AC, is attempting to sell off assets, as it seeks to raise capital even at a severely lowered valuation &lpar;Decrypt&rpar;](http://www.techmeme.com/230217/p24#a230217p24)
- - [Apple seeds public beta for macOS Ventura 13.3](https://appleinsider.com/articles/23/02/17/apple-seeds-public-beta-for-macos-ventura-133?utm_medium=rss)
- - [&#39;Star Trek: Picard&#39; Season 3 Review: The &#39;Next Generation&#39; Reunion We&#39;ve Been Waiting For     - CNET](https://www.cnet.com/culture/entertainment/star-trek-picard-season-3-review-engaging-action-is-more-than-a-next-generation-reunion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The NBA app is going to let you digitally possess a live player](https://www.theverge.com/2023/2/17/23604719/nba-app-possess-overlay-yourself-live-game)
+ - [Amazon’s Alexa app gets more Sonos-y with new multiroom audio controls](https://www.theverge.com/2023/2/17/23604605/amazon-alexa-app-multiroom-audio-active-media-list)
+ - [Higround, Crunchyroll Collab on Jujutsu Kaisen Gaming Keyboards     - CNET](https://www.cnet.com/tech/gaming/higround-crunchyroll-collab-on-jujutsu-kaisen-gaming-keyboards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
