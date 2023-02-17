@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)
- - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 👉 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)<!-- MEMES:END -->
+ - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - ⏩ [We need more men like this](http://9gag.com/gag/a9qqX4L)
+ - 👉 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
 
 ---
 
