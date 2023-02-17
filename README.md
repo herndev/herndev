@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - ⏩ [We need more men like this](http://9gag.com/gag/a9qqX4L)
  - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
