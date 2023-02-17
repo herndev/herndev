@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: 24% of the tokens launched in 2022 that &quot;got traction&quot; saw a price drop of 90% or more in the first week of trading, suggesting pump-and-dump activity &lpar;Chainalysis&rpar;](http://www.techmeme.com/230216/p39#a230216p39)
  - [A patent and job listing hint at Meta working on an advanced smart glasses assistant; docs show staff have been testing a proactive assistant on Ray-Ban Stories &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230216/p38#a230216p38)
- - [OpenAI plans to improve ChatGPT&#39;s behavior to reduce biases, allow more user customization, and get more public input into decision-making about system defaults &lpar;OpenAI&rpar;](http://www.techmeme.com/230216/p37#a230216p37)
- - [Best Portable Power Stations of 2023     - CNET](https://www.cnet.com/news/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI plans to improve ChatGPT&#39;s behavior to reduce biases, allow more user customization, and get more public input into decision-making about system defaults &lpar;OpenAI&rpar;](http://www.techmeme.com/230216/p37#a230216p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
