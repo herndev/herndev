@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bellroy All-Conditions Phone Pocket review: Premium protection](https://appleinsider.com/articles/23/02/17/bellroy-all-conditions-phone-pocket-review-premium-protection?utm_medium=rss)
- - [Apple will surrender info on how many users it has to the EU](https://appleinsider.com/articles/23/02/17/apple-will-surrender-info-on-how-many-users-it-has-to-the-eu?utm_medium=rss)
- - [Daily Authority: 📷 Galaxy S23 feature tackles image malware](https://www.androidauthority.com/daily-authority-february-17-2023-3286519/)<!-- TECH:END -->
+ - [Bulgaria and London-based Dronamics, which says it has a license to operate autonomous, long-range, cargo drones in Europe, raised a $40M pre-Series A &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230217/p3#a230217p3)
+ - [One Startup’s Plan to Help Africa Lure Back Its AI Talent](https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/)
+ - [The Best TV Shows on Disney Plus to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-tv-shows-on-disney-plus-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
