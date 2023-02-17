@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - ⏩ [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
- - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
 
