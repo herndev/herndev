@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Player count plummets for Warner Bros.’ Smash-like MultiVersus](https://www.polygon.com/23603292/multiversus-player-count-base-free-play-wb-games)
- - [Breath of the Wild Fans Are Still Finding New Tricks Nearly Six Years Later](https://kotaku.com/legend-of-zelda-breath-of-the-wild-botw-tricks-shrines-1850124895)
- - [Ubisoft has an &#39;improved version&#39; of Skull and Bones that it hasn&#39;t shown anyone yet](https://www.pcgamer.com/ubisoft-has-an-improved-version-of-skull-and-bones-that-it-hasnt-shown-anyone-yet)<!-- GAME:END -->
+ - [Here&#39;s a thoroughly Slavic cyberpunk stealth-action game](https://www.pcgamer.com/heres-a-thoroughly-slavic-cyberpunk-stealth-action-game)
+ - [This solo-developed &#39;cross between Dark Alliance and Dark Souls&#39; is shaping up to be my next RPG obsession](https://www.pcgamer.com/this-solo-developed-cross-between-dark-alliance-and-dark-souls-is-shaping-up-to-be-my-next-rpg-obsession)
+ - [The trailer for the upcoming Tetris movie is way hotter than it should be](https://www.pcgamer.com/the-trailer-for-the-upcoming-tetris-movie-is-way-hotter-than-it-should-be)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
