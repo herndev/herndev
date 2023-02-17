@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: former FTX Director of Engineering Nishad Singh plans to plead guilty to US criminal charges over his role in an alleged multiyear fraud at the company &lpar;BNN&rpar;](http://www.techmeme.com/230217/p22#a230217p22)
- - [A touchscreen that erases fingerprints for you? It could become a reality](https://www.androidauthority.com/touchscreen-fingerprints-3286701/)
- - [First public betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, watchOS 9.4 arrive](https://appleinsider.com/articles/23/02/17/first-public-betas-for-ios-164-ipados-164-tvos-164-watchos-94-arrive?utm_medium=rss)<!-- TECH:END -->
+ - [Apple making the case that Apple Silicon Mac &amp; iPhone are great gaming machines](https://appleinsider.com/articles/23/02/17/apple-making-the-case-that-apple-silicon-mac-iphone-are-great-gaming-machines?utm_medium=rss)
+ - [Sources: Jump is the unidentified &quot;US trading firm&quot; that the SEC has said helped support the TerraUSD stablecoin in May 2021; Jump was not accused of wrongdoing &lpar;The Block&rpar;](http://www.techmeme.com/230217/p23#a230217p23)
+ - [How to Watch the Unrated Version of &#39;Megan&#39;: Release Date and More     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-unrated-version-of-megan-release-date-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
