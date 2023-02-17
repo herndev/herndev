@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A+ Parenting](http://9gag.com/gag/aMEEXVW)
+ - 💣 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
  - ⏩ [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - 👉 [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)<!-- MEMES:END -->
+ - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
 
