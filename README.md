@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - ⏩ [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
+ - 💣 [Iranian woman throws hijab as response for being dismissed from board of engineers for not wearing hijab](http://9gag.com/gag/awZZ8yx)
+ - ⏩ [Giga Chad AI](http://9gag.com/gag/aL11bvz)
+ - 👉 [This should be the norms in the real world](http://9gag.com/gag/aREED77)<!-- MEMES:END -->
 
 ---
 
