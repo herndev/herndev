@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Home Internet Users Reportedly Hit With Modem-Crippling Update     - CNET](https://www.cnet.com/news/t-mobile-home-internet-users-reportedly-hit-with-modem-crippling-update/#ftag=CAD590a51e)
- - [Best 4K TVs for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [OpenAI, Stanford, and Georgetown researchers warn disinformation campaigns could use LLMs and propose governments could restrict training data and AI hardware &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230216/p36#a230216p36)<!-- TECH:END -->
+ - [A patent and job listing hint at Meta working on an advanced smart glasses assistant; docs show staff have been testing a proactive assistant on Ray-Ban Stories &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230216/p38#a230216p38)
+ - [OpenAI plans to improve ChatGPT&#39;s behavior to reduce biases, allow more user customization, and get more public input into decision-making about system defaults &lpar;OpenAI&rpar;](http://www.techmeme.com/230216/p37#a230216p37)
+ - [Best Portable Power Stations of 2023     - CNET](https://www.cnet.com/news/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
