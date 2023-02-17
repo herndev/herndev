@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Romance](https://blog.playstation.com/2023/02/17/share-of-the-week-romance/)
- - [Hogwarts Legacy: Support Animal Conservation with the Magical Beasts Quiz](https://news.xbox.com/en-us/2023/02/17/hogwarts-legacy-animal-conservation-quiz/)
- - [AI Enters Chess Battle, Cheats, Still Loses Badly](https://kotaku.com/ai-chatgpt-chess-stockfish-cheat-reddit-twitter-1850128273)<!-- GAME:END -->
+ - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)
+ - [GameStop Employee Explains What Made Her Close A Store And Never Come Back](https://kotaku.com/gamestop-meme-stock-nft-pre-orders-hogwarts-legacy-1850128791)
+ - [Pokémon Go ‘Primal Rumblings’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/2023/2/17/23604296/primal-rumblings-special-research-ruby-sapphire-latios-latias-which-to-choose)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
