@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
  - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 👉 [Tuna to go](http://9gag.com/gag/avQQxRX)<!-- MEMES:END -->
 
 ---
 
