@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Has your Galaxy S23 order arrived early?](https://www.androidauthority.com/samsung-galaxy-s23-order-early-poll-3286493/)
  - [New Galaxy S23 feature promises protection against nasty images](https://www.androidauthority.com/samsung-message-guard-3286488/)
- - [Best PS5 Headsets for 2023: Top Headsets Ranked     - CNET](https://www.cnet.com/tech/gaming/best-ps5-gaming-headsets-for-2022/#ftag=CAD590a51e)
- - [Samsung is thinking about a Galaxy Watch with a projector](https://www.androidauthority.com/samsung-galaxy-watch-projector-patent-3286480/)<!-- TECH:END -->
+ - [Best PS5 Headsets for 2023: Top Headsets Ranked     - CNET](https://www.cnet.com/tech/gaming/best-ps5-gaming-headsets-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
