@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
- - ⏩ [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 💣 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
+ - ⏩ [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)
  - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
