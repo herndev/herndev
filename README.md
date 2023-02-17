@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why are people arguing about Atomic Heart?](https://www.pcgamer.com/why-are-people-arguing-about-atomic-heart)
  - [Octopath Traveler 2 is eight good stories in search of a great one](https://www.polygon.com/reviews/23602774/octopath-traveler-2-review-switch-ps5-pc-release-date-characters-jrpg)
- - [Wordle hint and answer #608: Friday, February 17](https://www.pcgamer.com/wordle-hint-answer-today-608-february-17)
- - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)<!-- GAME:END -->
+ - [Wordle hint and answer #608: Friday, February 17](https://www.pcgamer.com/wordle-hint-answer-today-608-february-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
