@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tuna to go](http://9gag.com/gag/avQQxRX)
- - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - ⏩ [Rolling boulder coming your way](http://9gag.com/gag/armm8Y6)
+ - 👉 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)<!-- MEMES:END -->
 
 ---
 
