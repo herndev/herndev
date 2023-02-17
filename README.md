@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight’s New Character Ends Game&#39;s Apparent Foot Fetish Trend](https://kotaku.com/dead-by-daylight-skull-merchant-foot-fetish-torment-1850129211)
- - [Super Nintendo World delivers on the ultimate Mario Kart fantasy](https://www.polygon.com/23604424/super-nintendo-world-mario-kart-bowsers-challenge-universal-studios-hollywood)
- - [Get Immersed in the World of Dragon Ball Z: Kakarot and Season Pass 2, Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/02/17/get-immersed-in-the-world-of-dragon-ball-z-kakarot-and-season-pass-2-now-on-xbox-series-xs/)<!-- GAME:END -->
+ - [Genshin Impact Devs Are Making A Space Fantasy RPG With Persona 5-Like Combat](https://kotaku.com/honkai-star-rail-genshin-impact-hoyoverse-persona-rpg-1850129636)
+ - [How to get the Wild Hearts Roller motorcycle](https://www.polygon.com/wild-hearts-guides/23604480/roller-motorcycle-mono-wheel-unlock)
+ - [PC gamers are getting fed up with one shitty port after another](https://www.pcgamer.com/pc-gamers-are-getting-fed-up-with-one-shitty-port-after-another)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
