@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft is demoing Bing chatbot to ad agencies, saying it plans paid links within the chatbox responses and industry-specific ads &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230217/p15#a230217p15)
- - [Microsoft says it is looking at limiting Bing chatbot conversation length and adding tools to let users restart conversations or get more control over tone &lpar;New York Times&rpar;](http://www.techmeme.com/230217/p14#a230217p14)
- - [The US launches an initiative promoting international cooperation on the responsible use of AI and autonomous weapons by militaries &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/230217/p13#a230217p13)<!-- TECH:END -->
+ - [Stripe&#39;s pitch deck to investors says it needs $4B by the end of 2024 to cover a tax withholding bill when it modifies employee stock grants before an IPO &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230217/p17#a230217p17)
+ - [Creality Ender-3 Max Neo 3D printer review: For bigger printing projects](https://appleinsider.com/articles/23/02/17/creality-ender-3-max-neo-3d-printer-review-for-bigger-printing-projects?utm_medium=rss)
+ - [Roblox Is Bringing Generative AI to Its Gaming Universe](https://www.wired.com/story/roblox-generative-ai-gaming-universe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
