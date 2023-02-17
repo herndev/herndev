@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - 👉 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
+ - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - ⏩ [Post your most ridiculous stock photo](http://9gag.com/gag/a2KKDxe)
+ - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
 
