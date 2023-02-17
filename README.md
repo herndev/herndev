@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A thank you from Guerrilla: Horizon Forbidden West’s one-year anniversary](https://blog.playstation.com/2023/02/17/a-thank-you-from-guerrilla-horizon-forbidden-wests-one-year-anniversary/)
- - [Hogwarts Legacy wants to make everyone happy, but Harry Potter gets in the way](https://www.polygon.com/reviews/23603142/hogwarts-legacy-review-harry-potter-jk-rowling-transphobic-ps5-pc-xbox)
- - [Sherlock Holmes: The Awakened delay announcement doubles as a short war documentary](https://www.pcgamer.com/sherlock-holmes-the-awakened-delay-announcement-doubles-as-a-short-war-documentary)<!-- GAME:END -->
+ - [Deeply weird Alice video basically begs EA to fund the game](https://www.pcgamer.com/deeply-weird-alice-video-basically-begs-ea-to-fund-the-game)
+ - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)
+ - [Wild Hearts devs acknowledge the PC port runs terribly and promise fix next week](https://www.pcgamer.com/wild-hearts-devs-acknowledge-the-pc-port-runs-terribly-and-promise-fix-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
