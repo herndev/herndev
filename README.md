@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ needs more content and they will train directors to get it](https://appleinsider.com/articles/23/02/17/apple-tv-needs-more-content-and-they-will-train-directors-to-get-it?utm_medium=rss)
- - [Fitbit plans to remove adventures, challenges, and open groups from its app and replace Studio with an SDK; Google says the features were of &quot;limited use&quot; &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230217/p9#a230217p9)
- - [Daily Deals: M2 MacBook Air $1,095, Apple Watch Nike Series 7 sale, MacBook Pro 14&quot; $1,799 &amp; more](https://appleinsider.com/articles/23/02/17/daily-deals-m2-macbook-air-1095-apple-watch-nike-series-7-sale-macbook-pro-14-1799-more?utm_medium=rss)<!-- TECH:END -->
+ - [What is Display Scaling on Mac, and why you &lpar;probably&rpar; shouldn&#39;t worry about it](https://appleinsider.com/inside/macos/tips/what-is-display-scaling-on-mac-and-why-you-probably-shouldnt-worry-about-it?utm_medium=rss)
+ - [Under the Digital Services Act, online platforms disclose their MAUs in the EU: YouTube has 401M, Facebook 255M, Instagram 250M, TikTok 125M, Twitter 101M &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230217/p11#a230217p11)
+ - [Apple may be getting a slice of Google Chrome search earnings](https://appleinsider.com/articles/23/02/17/apple-may-be-getting-a-slice-of-google-chrome-search-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
