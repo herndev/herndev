@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Ready For New Emoji on Your iPhone With iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/get-ready-for-new-emoji-on-your-iphone-with-ios-16-4/#ftag=CAD590a51e)
- - [This Neutron Star Explosion Was Perfect. Too Perfect     - CNET](https://www.cnet.com/science/space/this-neutron-star-explosion-was-perfect-too-perfect/#ftag=CAD590a51e)
- - [Snag Steep Discounts on Refurbished Laptops and Tablets     - CNET](https://www.cnet.com/deals/snag-steep-discounts-on-refurbished-laptops-and-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: former FTX Director of Engineering Nishad Singh plans to plead guilty to US criminal charges over his role in an alleged multiyear fraud at the company &lpar;BNN&rpar;](http://www.techmeme.com/230217/p22#a230217p22)
+ - [A touchscreen that erases fingerprints for you? It could become a reality](https://www.androidauthority.com/touchscreen-fingerprints-3286701/)
+ - [First public betas for iOS 16.4, iPadOS 16.4, tvOS 16.4, watchOS 9.4 arrive](https://appleinsider.com/articles/23/02/17/first-public-betas-for-ios-164-ipados-164-tvos-164-watchos-94-arrive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
