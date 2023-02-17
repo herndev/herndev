@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a thoroughly Slavic cyberpunk stealth-action game](https://www.pcgamer.com/heres-a-thoroughly-slavic-cyberpunk-stealth-action-game)
- - [This solo-developed &#39;cross between Dark Alliance and Dark Souls&#39; is shaping up to be my next RPG obsession](https://www.pcgamer.com/this-solo-developed-cross-between-dark-alliance-and-dark-souls-is-shaping-up-to-be-my-next-rpg-obsession)
- - [The trailer for the upcoming Tetris movie is way hotter than it should be](https://www.pcgamer.com/the-trailer-for-the-upcoming-tetris-movie-is-way-hotter-than-it-should-be)<!-- GAME:END -->
+ - [Cyberpunk 2077 Gets One Thig Right: Cars Need Buttons](https://kotaku.com/cyberpunk-2077-car-touchscreen-tesla-model-3-volvo-1850125350)
+ - [Report: City-Builder Taken Off Steam After Fan Goes Rogue](https://kotaku.com/workers-resources-steam-pc-dmca-takedown-communism-1850125125)
+ - [Here&#39;s a thoroughly Slavic cyberpunk stealth-action game](https://www.pcgamer.com/heres-a-thoroughly-slavic-cyberpunk-stealth-action-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
