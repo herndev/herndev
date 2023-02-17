@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deeply weird Alice video basically begs EA to fund the game](https://www.pcgamer.com/deeply-weird-alice-video-basically-begs-ea-to-fund-the-game)
- - [It&#39;s a great weekend for trying big games for free](https://www.pcgamer.com/its-a-great-weekend-for-trying-big-games-for-free)
- - [Wild Hearts devs acknowledge the PC port runs terribly and promise fix next week](https://www.pcgamer.com/wild-hearts-devs-acknowledge-the-pc-port-runs-terribly-and-promise-fix-next-week)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 20 to 24](https://news.xbox.com/en-us/2023/02/17/next-week-on-xbox-new-games-for-february-20-to-24/)
+ - [XCOM and Midnight Suns designer Jake Solomon leaves Firaxis](https://www.polygon.com/23604027/xcom-midnight-suns-director-jake-solomon-firaxis)
+ - [Devs and modders can now freely add AMD&#39;s best upscaling algorithm into games](https://www.pcgamer.com/devs-and-modders-can-now-freely-add-amds-best-upscaling-algorithm-into-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
