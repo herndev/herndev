@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
- - ⏩ [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)
- - 👉 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
+ - 💣 [A+ Parenting](http://9gag.com/gag/aMEEXVW)
+ - ⏩ [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
+ - 👉 [Kim Jong Un named his daughter \u201cJu-ae\u201d and made it illegal for anyone in North Korea to have that name. People who already have that name are required to change it.](http://9gag.com/gag/aEqqOdN)<!-- MEMES:END -->
 
 ---
 
