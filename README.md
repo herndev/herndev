@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs move casts shadow over Apple Savings accounts](https://appleinsider.com/articles/23/02/15/goldman-sachs-drops-consumer-credit-expansion-casting-shadow-over-apple-savings-accounts?utm_medium=rss)
- - [Galaxy Book 3 Series Proves Samsung&#39;s Pro Laptops Are Leveling Up     - CNET](https://www.cnet.com/tech/computing/galaxy-book-3-proves-samsungs-pro-laptops-are-leveling-up/#ftag=CAD590a51e)
- - [Samsung Galaxy S23 vs. Google Pixel 7: Compare the Specs of Both Android Phones     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-vs-google-pixel-7-compare-the-specs-of-both-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [4K TV Deals: Great Prices on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Tesla’s Recall of Full Self-Driving Targets a &#39;Fundamental&#39; Flaw](https://www.wired.com/story/teslas-full-self-driving-recall-targets-a-fundamental-flaw/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
