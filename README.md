@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to beat a lvl too hard](http://9gag.com/gag/aDYYbbZ)
- - ⏩ [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
- - 👉 [Not the best valentines day](http://9gag.com/gag/adPPegQ)<!-- MEMES:END -->
+ - 💣 [Go Sports! Go Italia!](http://9gag.com/gag/ay221db)
+ - ⏩ [Not the best valentines day](http://9gag.com/gag/adPPegQ)
+ - 👉 [Ohio. The government says everything is under control](http://9gag.com/gag/a2KKy8O)<!-- MEMES:END -->
 
 ---
 
