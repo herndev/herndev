@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re playing a racing game and you set the difficulty to easy](http://9gag.com/gag/a2KKGew)
- - ⏩ [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)
- - 👉 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)<!-- MEMES:END -->
+ - 💣 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - ⏩ [A+ Parenting](http://9gag.com/gag/aMEEXVW)
+ - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
 
 ---
 
