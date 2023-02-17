@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the best valentines day](http://9gag.com/gag/adPPegQ)
- - ⏩ [We need more men like this](http://9gag.com/gag/a9qqX4L)
- - 👉 [The waterways in Ohio are now severely contaminated.](http://9gag.com/gag/aVbbRL8)<!-- MEMES:END -->
+ - 💣 [Monaco&#39;s actual sea wall](http://9gag.com/gag/aL11XZM)
+ - ⏩ [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
+ - 👉 [Our time has finally come boys](http://9gag.com/gag/ajVVW18)<!-- MEMES:END -->
 
 ---
 
