@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece’s long lost Dragon Ball Z crossover episode is finally coming to America](https://www.polygon.com/23604689/one-pieces-dragon-ball-z-crossover-toonami-release-date-episode-590)
- - [Where to find Pointed Scales and Crustaceous Moss in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23604213/pointed-scales-crustaceous-moss-small-kemono-slay-kill-hunt-pet)
- - [Game Freak will fix one of Pokémon Scarlet and Violet’s overpowered Pokémon](https://www.polygon.com/23604643/pokemon-scarlet-violet-february-2023-patch-notes)<!-- GAME:END -->
+ - [All Merlin Trial locations in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23601511/merlin-trial-location-mallowsweet-solution-inventory-storage-space-expansion)
+ - [New Steam feature lets you copy games to the Steam Deck &lpar;or between PCs&rpar; without redownloading](https://www.pcgamer.com/new-steam-feature-will-let-you-copy-game-installs-to-the-steam-deck-or-between-pcs-without-redownloading)
+ - [Apex Legends hits all-time player count peak on PC following team deathmatch update, free hero giveaway](https://www.pcgamer.com/apex-legends-hits-all-time-player-count-peak-on-pc-following-team-deathmatch-update-free-hero-giveaway)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
