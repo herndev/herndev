@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Devs Are Making A Space Fantasy RPG With Persona 5-Like Combat](https://kotaku.com/honkai-star-rail-genshin-impact-hoyoverse-persona-rpg-1850129636)
- - [How to get the Wild Hearts Roller motorcycle](https://www.polygon.com/wild-hearts-guides/23604480/roller-motorcycle-mono-wheel-unlock)
- - [PC gamers are getting fed up with one shitty port after another](https://www.pcgamer.com/pc-gamers-are-getting-fed-up-with-one-shitty-port-after-another)<!-- GAME:END -->
+ - [One Piece’s long lost Dragon Ball Z crossover episode is finally coming to America](https://www.polygon.com/23604689/one-pieces-dragon-ball-z-crossover-toonami-release-date-episode-590)
+ - [Where to find Pointed Scales and Crustaceous Moss in Wild Hearts](https://www.polygon.com/wild-hearts-guides/23604213/pointed-scales-crustaceous-moss-small-kemono-slay-kill-hunt-pet)
+ - [Game Freak will fix one of Pokémon Scarlet and Violet’s overpowered Pokémon](https://www.polygon.com/23604643/pokemon-scarlet-violet-february-2023-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
