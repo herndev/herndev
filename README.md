@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why are people arguing about Atomic Heart?](https://www.pcgamer.com/why-are-people-arguing-about-atomic-heart)
- - [Octopath Traveler 2 is eight good stories in search of a great one](https://www.polygon.com/reviews/23602774/octopath-traveler-2-review-switch-ps5-pc-release-date-characters-jrpg)
- - [Wordle hint and answer #608: Friday, February 17](https://www.pcgamer.com/wordle-hint-answer-today-608-february-17)<!-- GAME:END -->
+ - [A thank you from Guerrilla: Horizon Forbidden West’s one-year anniversary](https://blog.playstation.com/2023/02/17/a-thank-you-from-guerrilla-horizon-forbidden-wests-one-year-anniversary/)
+ - [Hogwarts Legacy wants to make everyone happy, but Harry Potter gets in the way](https://www.polygon.com/reviews/23603142/hogwarts-legacy-review-harry-potter-jk-rowling-transphobic-ps5-pc-xbox)
+ - [Sherlock Holmes: The Awakened delay announcement doubles as a short war documentary](https://www.pcgamer.com/sherlock-holmes-the-awakened-delay-announcement-doubles-as-a-short-war-documentary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
