@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this normal?](http://9gag.com/gag/a9qq0M6)
- - ⏩ [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 👉 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
+ - 💣 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
+ - ⏩ [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
+ - 👉 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
 
 ---
 
