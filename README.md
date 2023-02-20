@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NBA app is going to let you digitally possess a live player](https://www.theverge.com/2023/2/17/23604719/nba-app-possess-overlay-yourself-live-game)
- - [Amazon’s Alexa app gets more Sonos-y with new multiroom audio controls](https://www.theverge.com/2023/2/17/23604605/amazon-alexa-app-multiroom-audio-active-media-list)
- - [Higround, Crunchyroll Collab on Jujutsu Kaisen Gaming Keyboards     - CNET](https://www.cnet.com/tech/gaming/higround-crunchyroll-collab-on-jujutsu-kaisen-gaming-keyboards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M2 Max vs Intel i9-13980HX: what price pure performance?](https://appleinsider.com/articles/23/02/19/m2-max-vs-intel-i9-13980hx-what-price-pure-performance?utm_medium=rss)
+ - [A look at the use of conversational AI in US call centers, which some agents find helpful and others say leaves the humans with more complex, intense workloads &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/230219/p6#a230219p6)
+ - [Dear Netflix, Here&#39;s a Simple Fix for Your Password-Sharing Mess     - CNET](https://www.cnet.com/tech/services-and-software/dear-netflix-heres-a-simple-fix-for-the-password-sharing-mess/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
