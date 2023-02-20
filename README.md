@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those damn right-wingers. #TruthGPT](http://9gag.com/gag/aXnn1Bg)
- - ⏩ [Seems to be the theme for this weekend](http://9gag.com/gag/aeQQw4Q)
- - 👉 [Jimmy Carter &amp; his wife Rosalynn - 1947](http://9gag.com/gag/amAAwZv)<!-- MEMES:END -->
+ - 💣 [Yall are cruel](http://9gag.com/gag/aEqq92O)
+ - ⏩ [The great garbage patch.](http://9gag.com/gag/amAAZ76)
+ - 👉 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
 
 ---
 
