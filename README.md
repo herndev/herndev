@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If I had to pick it would be obvious](http://9gag.com/gag/az22n0b)
- - ⏩ [Biden in Kiev, lets wait for the bots](http://9gag.com/gag/aNwwNEA)
- - 👉 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)<!-- MEMES:END -->
+ - 💣 [Is this normal?](http://9gag.com/gag/a9qq0M6)
+ - ⏩ [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - 👉 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)<!-- MEMES:END -->
 
 ---
 
