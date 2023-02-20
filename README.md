@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your desktop reveals your D&amp;D alignment, like it or not](https://www.pcgamer.com/pcg-staff-desktop-dnd-alignment-chart)
- - [The world’s best Street Fighter 6 player will win $1M in its first year](https://www.polygon.com/23607334/street-fighter-6-capcom-pro-tour-capcom-cup-prize-money)
- - [Spiderweb Software is remastering another classic RPG](https://www.pcgamer.com/spiderweb-software-is-remastering-another-classic-rpg)<!-- GAME:END -->
+ - [Thanos has nothing on The Fifth Element’s Zorg](https://www.polygon.com/23589322/fifth-element-zorg)
+ - [Company of Heroes 3 review](https://www.pcgamer.com/company-of-heroes-3-review)
+ - [Company of Heroes 3 propels real-time strategy past the real-time part](https://www.polygon.com/reviews/23607125/company-of-heroes-3-review-factions-release-date-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
