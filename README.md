@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
- - 👉 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
+ - 💣 [IUTR](http://9gag.com/gag/aDYYLON)
+ - ⏩ [Man with rifle](http://9gag.com/gag/aREEpX2)
+ - 👉 [If you like horror movies.., don&#39;t watch this one](http://9gag.com/gag/amAAyGX)<!-- MEMES:END -->
 
 ---
 
