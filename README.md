@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Display Scaling on Mac, and why you &lpar;probably&rpar; shouldn&#39;t worry about it](https://appleinsider.com/inside/macos/tips/what-is-display-scaling-on-mac-and-why-you-probably-shouldnt-worry-about-it?utm_medium=rss)
- - [WhatsApp rolls out picture-in-picture support during video calls for iOS, first announced in December 2022, alongside captions for documents and more &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230220/p10#a230220p10)
- - [US Apple Watch ban unlikely as Apple fights patent claim](https://appleinsider.com/articles/23/02/20/us-apple-watch-ban-unlikely-as-apple-fights-patent-claim?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy XCover 6 Pro review: Rugged refined](https://www.androidauthority.com/samsung-galaxy-xcover6-pro-review-3270687/)
+ - [How the US Supreme Court could drastically change the Internet](https://appleinsider.com/articles/23/02/20/how-the-us-supreme-court-could-drastically-change-the-internet?utm_medium=rss)
+ - [Long criticized for a soft touch, Ireland&#39;s Data Protection Commission is yet to advertise for two senior posts ahead of key privacy investigations &lpar;Peter O&#39;Dwyer/Bloomberg&rpar;](http://www.techmeme.com/230220/p13#a230220p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
