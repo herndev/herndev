@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This on is made when i was 13](http://9gag.com/gag/a4ooyxy)
- - ⏩ [Somebody that you used to rick roll](http://9gag.com/gag/a8qqN7O)
- - 👉 [Now you did too](http://9gag.com/gag/a9qqGb1)<!-- MEMES:END -->
+ - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - ⏩ [Waaagh](http://9gag.com/gag/a4ooXNA)
+ - 👉 [Guess alcohol is the safest choice...](http://9gag.com/gag/aYVV38O)<!-- MEMES:END -->
 
 ---
 
