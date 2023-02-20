@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro, wtf](http://9gag.com/gag/avQQjdX)
- - ⏩ [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
- - 👉 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
+ - 💣 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
+ - ⏩ [Bro, wtf](http://9gag.com/gag/avQQjdX)
+ - 👉 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)<!-- MEMES:END -->
 
 ---
 
