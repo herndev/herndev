@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #611: Monday, February 20](https://www.pcgamer.com/wordle-hint-answer-today-611-february-20)
  - [The Last Of Us Episode 6 Recap: Ellie The Goodbye Girl](https://kotaku.com/last-of-us-tlou-hbo-s1e6-joel-ellie-tommy-maria-jackson-1850135520)
- - [Razer&#39;s new BlackWidow V4 Pro wireless gaming keyboard is a beast with a price to match](https://www.pcgamer.com/razers-new-blackwidow-v4-pro-wireless-gaming-keyboard-is-a-beast-with-a-price-to-match)
- - [This Lemmings-like platformer drove me to the brink &lpar;in a good way&rpar; trying to rescue its hapless astronauts](https://www.pcgamer.com/this-lemmings-like-platformer-drove-me-to-the-brink-in-a-good-way-trying-to-rescue-its-hapless-astronauts)<!-- GAME:END -->
+ - [Razer&#39;s new BlackWidow V4 Pro wireless gaming keyboard is a beast with a price to match](https://www.pcgamer.com/razers-new-blackwidow-v4-pro-wireless-gaming-keyboard-is-a-beast-with-a-price-to-match)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
