@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus foldable might not be a rebranded Oppo Find N2](https://www.androidauthority.com/oneplus-foldable-oppo-find-n2-3287058/)
- - [Twitter has faced at least nine lawsuits in recent months from landlords, consultants, and vendors demanding payments totaling $14M+ for unpaid bills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p1#a230220p1)
- - [One UI 5.1 update off to a rough start as users report severe battery drain](https://www.androidauthority.com/one-ui-5-1-battery-drain-bugs-3287045/)<!-- TECH:END -->
+ - [Daily Authority: 🎸 Google’s smash hit concert phone](https://www.androidauthority.com/daily-authority-february-20-2023-3287028/)
+ - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)
+ - [The OnePlus foldable might not be a rebranded Oppo Find N2](https://www.androidauthority.com/oneplus-foldable-oppo-find-n2-3287058/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
