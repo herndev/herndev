@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)
+ - 💣 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
  - ⏩ [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 👉 [Not all Priests are bad... some are bro&#39;s](http://9gag.com/gag/aREEnV7)<!-- MEMES:END -->
+ - 👉 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
 
 ---
 
