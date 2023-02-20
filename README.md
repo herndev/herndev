@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Geekbench creator John Poole on making the tool cross-platform from the start, what&#39;s new in Geekbench 6, why benchmarking matters, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230220/p2#a230220p2)
- - [Daily Authority: 🎸 Google’s smash hit concert phone](https://www.androidauthority.com/daily-authority-february-20-2023-3287028/)
- - [You told us: You’re happy to give up wireless charging on one condition](https://www.androidauthority.com/wireless-charging-poll-results-3287060/)<!-- TECH:END -->
+ - [Apple scores Bafta win for best British short animation](https://appleinsider.com/articles/23/02/20/apple-scores-bafta-win-for-best-british-short-animation?utm_medium=rss)
+ - [A look at Meta&#39;s &quot;The Cube&quot;, a cubicle made of felt-like recycled PET plastic that absorbs sound and blocks distractions, rolling out to Meta&#39;s offices globally &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p6#a230220p6)
+ - [SpaceX&#39;s Starlink invites select customers to test its Global Roaming Service, a $200 per month option offering internet &quot;almost anywhere on land in the world&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230220/p5#a230220p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
