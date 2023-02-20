@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy XCover 6 Pro review: Rugged refined](https://www.androidauthority.com/samsung-galaxy-xcover6-pro-review-3270687/)
- - [How the US Supreme Court could drastically change the Internet](https://appleinsider.com/articles/23/02/20/how-the-us-supreme-court-could-drastically-change-the-internet?utm_medium=rss)
- - [Long criticized for a soft touch, Ireland&#39;s Data Protection Commission is yet to advertise for two senior posts ahead of key privacy investigations &lpar;Peter O&#39;Dwyer/Bloomberg&rpar;](http://www.techmeme.com/230220/p13#a230220p13)<!-- TECH:END -->
+ - [Sealed, original iPhone is now worth more than a Tesla Model Y](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
+ - [A profile of Synchron, a startup set to trial inserting brain implants via blood vessels, helping those with limited physical mobility use cursors and devices &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230220/p15#a230220p15)
+ - [You don’t want to know how much someone paid for this unopened OG iPhone](https://www.androidauthority.com/original-iphone-auction-3287238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
