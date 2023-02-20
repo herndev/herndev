@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
- - ⏩ [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - 👉 [Yall are cruel](http://9gag.com/gag/aEqq92O)<!-- MEMES:END -->
+ - 💣 [Those damn right-wingers. #TruthGPT](http://9gag.com/gag/aXnn1Bg)
+ - ⏩ [Seems to be the theme for this weekend](http://9gag.com/gag/aeQQw4Q)
+ - 👉 [Jimmy Carter &amp; his wife Rosalynn - 1947](http://9gag.com/gag/amAAwZv)<!-- MEMES:END -->
 
 ---
 
