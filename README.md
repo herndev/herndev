@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX is offering a ‘Global Roaming Service’ for internet anywhere on land](https://www.androidauthority.com/starlink-global-roaming-3287029/)
  - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-hit-hbo-max/#ftag=CAD590a51e)
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Dow Jones&#39; general counsel says OpenAI lacks a deal to use WSJ reporters&#39; work to train its AI; source: CNN plans to ask OpenAI to pay to license its content &lpar;Gerry Smith/Bloomberg&rpar;](http://www.techmeme.com/230219/p8#a230219p8)<!-- TECH:END -->
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
