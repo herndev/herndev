@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomic Heart starts with a bang — but can it land its Soviet story?](https://www.polygon.com/23604720/atomic-heart-impressions-bioshock-fps-mundfish-ussr-xbox-game-pass-release-date)
- - [AMD won&#39;t have users &#39;paying for features they never use&#39; when it comes to AI in GPUs](https://www.pcgamer.com/amd-ai-gpu-acceleration)
- - [The world&#39;s biggest charity speedrunning event just banned Hogwarts Legacy](https://www.pcgamer.com/the-worlds-biggest-charity-speedrunning-event-just-banned-hogwarts-legacy)<!-- GAME:END -->
+ - [Persona 5 Can’t Handle Queer Relationships](https://kotaku.com/persona-5-royal-confidant-ryuji-joker-romance-gay-1850129012)
+ - [How to find the Cursed Tomb Treasure in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-cursed-tomb-treasure-mysterious-map-fragment)
+ - [Kerbal Space Program 2&#39;s new blueprint mode makes rocket building more accessible, even if you&#39;re just as likely to crash](https://www.pcgamer.com/kerbal-space-program-2s-new-blueprint-mode-makes-rocket-building-more-accessible-even-if-youre-just-as-likely-to-crash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
