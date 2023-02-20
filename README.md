@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play a radio host guiding callers to safety in horror adventure Killer Frequency](https://www.pcgamer.com/play-a-radio-host-guiding-callers-to-safety-in-horror-adventure-killer-frequency)
- - [Where to find every substory in Like a Dragon: Ishin!](https://www.polygon.com/guides/23607213/like-a-dragon-ishin-substory-locations-objectives-answers-rewards-list)
- - [Beast became the X-Men’s Henry Kissinger, so Wolverine put a stop to him](https://www.polygon.com/23604587/wolverine-kills-beast-x-men)<!-- GAME:END -->
+ - [How to use the scanner in Atomic Heart](https://www.polygon.com/guides/23606334/atomic-heart-scanner-tutorial-how-to-bug-r1-rb)
+ - [Here&#39;s a demo for a collectathon platformer that fell right out of 1999](https://www.pcgamer.com/heres-a-demo-for-a-collectathon-platformer-that-fell-right-out-of-1999)
+ - [Layers of Fears studio decides the extra &#39;s&#39; is too scary, so now it&#39;s called Layers of Fear again](https://www.pcgamer.com/layers-of-fears-studio-decides-the-extra-s-is-too-scary-so-now-its-called-layers-of-fear-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
