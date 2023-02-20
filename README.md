@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little girl on the 1 Train, NYC 1981](http://9gag.com/gag/aA005Xp)
- - ⏩ [Fun fun fun](http://9gag.com/gag/aKEEyX3)
- - 👉 [Applewood Smoked turkey. Yes! Turkey in February](http://9gag.com/gag/aREEdPQ)<!-- MEMES:END -->
+ - 💣 [Yall are cruel](http://9gag.com/gag/aEqq92O)
+ - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
+ - 👉 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
 
 ---
 
