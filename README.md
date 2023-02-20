@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IUTR](http://9gag.com/gag/aDYYLON)
- - ⏩ [Man with rifle](http://9gag.com/gag/aREEpX2)
- - 👉 [If you like horror movies.., don&#39;t watch this one](http://9gag.com/gag/amAAyGX)<!-- MEMES:END -->
+ - 💣 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)
+ - ⏩ [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
+ - 👉 [Not all Priests are bad... some are bro&#39;s](http://9gag.com/gag/aREEnV7)<!-- MEMES:END -->
 
 ---
 
