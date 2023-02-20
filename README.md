@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life Hack](http://9gag.com/gag/az22nbx)
- - ⏩ [If I had to pick it would be obvious](http://9gag.com/gag/az22n0b)
+ - 💣 [If I had to pick it would be obvious](http://9gag.com/gag/az22n0b)
+ - ⏩ [Biden in Kiev, lets wait for the bots](http://9gag.com/gag/aNwwNEA)
  - 👉 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)<!-- MEMES:END -->
 
 ---
