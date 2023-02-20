@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Brandon Cronenberg’s Infinity Pool, the sex and satire drip off the screen](https://www.polygon.com/23569515/infinity-pool-review)
  - [Thanos has nothing on The Fifth Element’s Zorg](https://www.polygon.com/23589322/fifth-element-zorg)
- - [Company of Heroes 3 review](https://www.pcgamer.com/company-of-heroes-3-review)
- - [Company of Heroes 3 propels real-time strategy past the real-time part](https://www.polygon.com/reviews/23607125/company-of-heroes-3-review-factions-release-date-pc)<!-- GAME:END -->
+ - [Company of Heroes 3 review](https://www.pcgamer.com/company-of-heroes-3-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
