@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Expanse extended gameplay trailer showcases zero-G exploration and tough decisions](https://www.pcgamer.com/the-expanse-extended-gameplay-trailer-showcases-zero-g-exploration-and-tough-decisions)
- - [Get Your Sherlock Holmes On With Steam&#39;s Mystery Fest Sale](https://kotaku.com/steam-mystery-fest-pc-sale-adventure-norco-cheap-games-1850136940)
- - [In Brandon Cronenberg’s Infinity Pool, the sex and satire drip off the screen](https://www.polygon.com/23569515/infinity-pool-review)<!-- GAME:END -->
+ - [Play a radio host guiding callers to safety in horror adventure Killer Frequency](https://www.pcgamer.com/play-a-radio-host-guiding-callers-to-safety-in-horror-adventure-killer-frequency)
+ - [Where to find every substory in Like a Dragon: Ishin!](https://www.polygon.com/guides/23607213/like-a-dragon-ishin-substory-locations-objectives-answers-rewards-list)
+ - [Beast became the X-Men’s Henry Kissinger, so Wolverine put a stop to him](https://www.polygon.com/23604587/wolverine-kills-beast-x-men)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
