@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kayla Lemieux](http://9gag.com/gag/az22W7N)
- - ⏩ [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)
- - 👉 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
+ - 💣 [Little girl on the 1 Train, NYC 1981](http://9gag.com/gag/aA005Xp)
+ - ⏩ [Fun fun fun](http://9gag.com/gag/aKEEyX3)
+ - 👉 [Applewood Smoked turkey. Yes! Turkey in February](http://9gag.com/gag/aREEdPQ)<!-- MEMES:END -->
 
 ---
 
