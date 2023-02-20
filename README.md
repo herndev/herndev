@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
- - 👉 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
+ - 💣 [Life Hack](http://9gag.com/gag/az22nbx)
+ - ⏩ [If I had to pick it would be obvious](http://9gag.com/gag/az22n0b)
+ - 👉 [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)<!-- MEMES:END -->
 
 ---
 
