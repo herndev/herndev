@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-Level VR Gaming: Zenith’s New Trailer and PS VR2 Features](https://blog.playstation.com/2023/02/20/next-level-vr-gaming-zeniths-new-trailer-and-ps-vr2-features/)
- - [Sega arrives late to Japan&#39;s pay-hike party, bumping employee salaries by 30%](https://www.pcgamer.com/sega-arrives-late-to-japans-pay-hike-party-bumping-employee-salaries-by-30)
- - [Wordle hint and answer #611: Monday, February 20](https://www.pcgamer.com/wordle-hint-answer-today-611-february-20)<!-- GAME:END -->
+ - [Atomic Heart starts with a bang — but can it land its Soviet story?](https://www.polygon.com/23604720/atomic-heart-impressions-bioshock-fps-mundfish-ussr-xbox-game-pass-release-date)
+ - [AMD won&#39;t have users &#39;paying for features they never use&#39; when it comes to AI in GPUs](https://www.pcgamer.com/amd-ai-gpu-acceleration)
+ - [The world&#39;s biggest charity speedrunning event just banned Hogwarts Legacy](https://www.pcgamer.com/the-worlds-biggest-charity-speedrunning-event-just-banned-hogwarts-legacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
