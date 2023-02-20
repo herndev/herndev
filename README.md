@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sealed, original iPhone is now worth more than a Tesla Model Y](https://appleinsider.com/articles/23/02/20/seller-of-original-sealed-iphone-can-buy-a-nice-suv-with-the-proceeds?utm_medium=rss)
- - [A profile of Synchron, a startup set to trial inserting brain implants via blood vessels, helping those with limited physical mobility use cursors and devices &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230220/p15#a230220p15)
- - [You don’t want to know how much someone paid for this unopened OG iPhone](https://www.androidauthority.com/original-iphone-auction-3287238/)<!-- TECH:END -->
+ - [Huge cover display could appear on Galaxy Z Flip 5, larger than Find N2 Flip’s](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-display-3287252/)
+ - [As ChatGPT and generative AI explode in popularity, CEOs, engineers, executives, and other employees at myriad companies begin experimenting with the tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p16#a230220p16)
+ - [A Stroke Paralyzed Her Arm. This Implant Let Her Use It Again](https://www.wired.com/story/spinal-implant-stroke-recovery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
