@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Merlin Trial locations in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23601511/merlin-trial-location-mallowsweet-solution-inventory-storage-space-expansion)
- - [New Steam feature lets you copy games to the Steam Deck &lpar;or between PCs&rpar; without redownloading](https://www.pcgamer.com/new-steam-feature-will-let-you-copy-game-installs-to-the-steam-deck-or-between-pcs-without-redownloading)
- - [Apex Legends hits all-time player count peak on PC following team deathmatch update, free hero giveaway](https://www.pcgamer.com/apex-legends-hits-all-time-player-count-peak-on-pc-following-team-deathmatch-update-free-hero-giveaway)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 20, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-20-2023)
+ - [Legend Of Zelda: Tears Of The Kingdom Art Book Leaks Months Ahead Of Release](https://kotaku.com/legend-zelda-tears-kingdom-spoilers-art-book-leak-1850134905)
+ - [Redfall production designer: &#39;Making a large, open world game, that was breaking the mold for us&#39;](https://www.pcgamer.com/redfall-production-designer-making-a-large-open-world-game-that-was-breaking-the-mold-for-us)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
