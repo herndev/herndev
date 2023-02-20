@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Support users hit by &#39;Invalid URL&#39; issue when seeking help](https://appleinsider.com/articles/23/02/20/apple-support-users-hit-by-invalid-url-issue-when-seeking-help?utm_medium=rss)
- - [Many Microsoft Outlook users say inboxes have been flooded with spam emails for many hours, as filters appear broken; others have reported the issue for months &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230220/p18#a230220p18)
- - [T-Mobile&#39;s AutoPay Credit Card Discount Is Ending in May     - CNET](https://www.cnet.com/tech/mobile/t-mobile-is-dropping-its-autopay-credit-card-discount-in-may/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Preqin data: in Q4 2022, VC firms raised $20.6B in new funds, down 65% YoY, the lowest Q4 amount since 2013; LPs backed 226 funds, the fewest in Q4 since 2012 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230220/p20#a230220p20)
+ - [Pro photographer shot the Super Bowl on an iPhone 14 Pro Max](https://appleinsider.com/articles/23/02/20/pro-photographer-shot-the-super-bowl-on-an-iphone-14-pro-max?utm_medium=rss)
+ - [Razer Blade 16 vs Apple MacBook Pro 16-inch - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/razer-blade-16-vs-macbook-pro-16-inch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
