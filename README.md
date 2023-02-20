@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook has decided that paid user validation is also the way to go](https://appleinsider.com/articles/23/02/19/meta-verified-is-mark-zuckerbergs-1199-competitor-to-twitter-blue?utm_medium=rss)
- - [Prequel AI Editor 2.36 review: Fantastic for social media](https://appleinsider.com/articles/23/02/20/prequel-ai-editor-236-review-fantastic-for-social-media?utm_medium=rss)
- - [Your new Galaxy S23 is already getting its first update](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
+ - [Is OnePlus pulling a Nothing with its next concept phone?](https://www.androidauthority.com/oneplus-11-concept-images-3287189/)
+ - [A social media post by two academics at the Chinese Academy of Sciences outlines plans to circumvent US chip sanctions, including patents on next-gen chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/230220/p9#a230220p9)
+ - [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
