@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
- - ⏩ [Bro, wtf](http://9gag.com/gag/avQQjdX)
- - 👉 [It&#39;s got such an ominous feel to it](http://9gag.com/gag/aOxxLDE)<!-- MEMES:END -->
+ - 💣 [The Good Ending](http://9gag.com/gag/aKEEM0g)
+ - ⏩ [We want privacy! Stop looking at us!](http://9gag.com/gag/abvvnjX)
+ - 👉 [Dude got cremated](http://9gag.com/gag/awZZp4r)<!-- MEMES:END -->
 
 ---
 
