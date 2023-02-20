@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yall are cruel](http://9gag.com/gag/aEqq92O)
- - ⏩ [The great garbage patch.](http://9gag.com/gag/amAAZ76)
- - 👉 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
+ - 💣 [This on is made when i was 13](http://9gag.com/gag/a4ooyxy)
+ - ⏩ [Somebody that you used to rick roll](http://9gag.com/gag/a8qqN7O)
+ - 👉 [Now you did too](http://9gag.com/gag/a9qqGb1)<!-- MEMES:END -->
 
 ---
 
