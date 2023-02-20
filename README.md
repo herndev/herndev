@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Brandon Cronenberg’s Infinity Pool, the sex and satire drip off the screen](https://www.polygon.com/23569515/infinity-pool-review)
- - [Thanos has nothing on The Fifth Element’s Zorg](https://www.polygon.com/23589322/fifth-element-zorg)
- - [Company of Heroes 3 review](https://www.pcgamer.com/company-of-heroes-3-review)<!-- GAME:END -->
+ - [The Expanse extended gameplay trailer showcases zero-G exploration and tough decisions](https://www.pcgamer.com/the-expanse-extended-gameplay-trailer-showcases-zero-g-exploration-and-tough-decisions)
+ - [Get Your Sherlock Holmes On With Steam&#39;s Mystery Fest Sale](https://kotaku.com/steam-mystery-fest-pc-sale-adventure-norco-cheap-games-1850136940)
+ - [In Brandon Cronenberg’s Infinity Pool, the sex and satire drip off the screen](https://www.polygon.com/23569515/infinity-pool-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
