@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
- - ⏩ [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
- - 👉 [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)<!-- MEMES:END -->
+ - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
+ - 👉 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)<!-- MEMES:END -->
 
 ---
 
