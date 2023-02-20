@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [D\u00f6uble entendre](http://9gag.com/gag/ay22w9X)
- - ⏩ [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
- - 👉 [Russia&#39;s new Marker 2 anti-tank robot](http://9gag.com/gag/aNwwN3K)<!-- MEMES:END -->
+ - 💣 [Average number of children per woman, 1970 vs 2022](http://9gag.com/gag/aPggq0Q)
+ - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
+ - 👉 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
 
 ---
 
