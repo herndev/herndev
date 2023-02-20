@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Next-Level VR Gaming: Zenith’s New Trailer and PS VR2 Features](https://blog.playstation.com/2023/02/20/next-level-vr-gaming-zeniths-new-trailer-and-ps-vr2-features/)
  - [Sega arrives late to Japan&#39;s pay-hike party, bumping employee salaries by 30%](https://www.pcgamer.com/sega-arrives-late-to-japans-pay-hike-party-bumping-employee-salaries-by-30)
- - [Wordle hint and answer #611: Monday, February 20](https://www.pcgamer.com/wordle-hint-answer-today-611-february-20)
- - [The Last Of Us Episode 6 Recap: Ellie The Goodbye Girl](https://kotaku.com/last-of-us-tlou-hbo-s1e6-joel-ellie-tommy-maria-jackson-1850135520)<!-- GAME:END -->
+ - [Wordle hint and answer #611: Monday, February 20](https://www.pcgamer.com/wordle-hint-answer-today-611-february-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
