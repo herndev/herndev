@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Balsy and big boy, bangers of doom](http://9gag.com/gag/az22QMN)
- - ⏩ [A+ Parenting](http://9gag.com/gag/aMEEXVW)
- - 👉 [We need more men like this](http://9gag.com/gag/a9qqX4L)<!-- MEMES:END -->
+ - 💣 [There is fruit inside the edge of cactus \ud83c\udf35](http://9gag.com/gag/aDYYLBO)
+ - ⏩ [What Do You Mean ?](http://9gag.com/gag/amAAKE4)
+ - 👉 [Bro, wtf](http://9gag.com/gag/avQQjdX)<!-- MEMES:END -->
 
 ---
 
