@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Become a cyber security developer for just $69.99](https://www.androidauthority.com/cyber-security-developer-bundle-3287343/)
- - [Can you share HBO Max with your friends and family?](https://www.androidauthority.com/share-hbo-max-account-sharing-3286831/)
- - [Snapdragon 8 Gen 3: Qualcomm’s next flagship chip could launch early](https://www.androidauthority.com/snapdragon-8-gen-3-3287339/)<!-- TECH:END -->
+ - [TrendForce: DRAM&#39;s average price dropped 34.4% in Q4&#39;22 and 31.4% in Q3, among the worst drops since 2006; Samsung still plans to spend $30B+ to expand capacity &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230220/p21#a230220p21)
+ - [Google’s Pixel Fold could be surprisingly heavy compared to other foldables](https://www.androidauthority.com/google-pixel-fold-weight-3287368/)
+ - [Deal: Become a cyber security developer for just $69.99](https://www.androidauthority.com/cyber-security-developer-bundle-3287343/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
