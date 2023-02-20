@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Bing offers some marvelous responses alongside dangerously convincing falsehoods, direct quotes that appear to be made up, and shocking claims about itself &lpar;James West/Mother Jones&rpar;](http://www.techmeme.com/230219/p7#a230219p7)
- - [Intel has a faster processor than M2 Max, but at what cost?](https://appleinsider.com/articles/23/02/19/m2-max-vs-intel-i9-13980hx-what-price-pure-performance?utm_medium=rss)
- - [&#39;The Last of Us&#39; Release Schedule: When Does Episode 6 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-6-hit-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dow Jones&#39; general counsel says OpenAI lacks a deal to use WSJ reporters&#39; work to train its AI; source: CNN plans to ask OpenAI to pay to license its content &lpar;Gerry Smith/Bloomberg&rpar;](http://www.techmeme.com/230219/p8#a230219p8)
+ - [&#39;The Last of Us&#39; Episode 6 Recap: An Awkward Reunion     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-6-recap-an-awkward-reunion/#ftag=CAD590a51e)
+ - [New Bing offers marvelous responses, dangerously convincing falsehoods, direct quotes that appear to be made up, and shocking claims about its own capabilities &lpar;James West/Mother Jones&rpar;](http://www.techmeme.com/230219/p7#a230219p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
