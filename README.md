@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is fruit inside the edge of cactus \ud83c\udf35](http://9gag.com/gag/aDYYLBO)
- - ⏩ [What Do You Mean ?](http://9gag.com/gag/amAAKE4)
- - 👉 [Bro, wtf](http://9gag.com/gag/avQQjdX)<!-- MEMES:END -->
+ - 💣 [Bro, wtf](http://9gag.com/gag/avQQjdX)
+ - ⏩ [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
+ - 👉 [What Do You Mean ?](http://9gag.com/gag/amAAKE4)<!-- MEMES:END -->
 
 ---
 
