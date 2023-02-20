@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple scores Bafta win for best British short animation](https://appleinsider.com/articles/23/02/20/apple-scores-bafta-win-for-best-british-short-animation?utm_medium=rss)
- - [A look at Meta&#39;s &quot;The Cube&quot;, a cubicle made of felt-like recycled PET plastic that absorbs sound and blocks distractions, rolling out to Meta&#39;s offices globally &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p6#a230220p6)
- - [SpaceX&#39;s Starlink invites select customers to test its Global Roaming Service, a $200 per month option offering internet &quot;almost anywhere on land in the world&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230220/p5#a230220p5)<!-- TECH:END -->
+ - [Facebook has decided that paid user validation is also the way to go](https://appleinsider.com/articles/23/02/19/meta-verified-is-mark-zuckerbergs-1199-competitor-to-twitter-blue?utm_medium=rss)
+ - [Prequel AI Editor 2.36 review: Fantastic for social media](https://appleinsider.com/articles/23/02/20/prequel-ai-editor-236-review-fantastic-for-social-media?utm_medium=rss)
+ - [Your new Galaxy S23 is already getting its first update](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
