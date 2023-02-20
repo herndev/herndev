@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A demon rat and a duck star in this buddy cop RPG](https://www.pcgamer.com/a-demon-rat-and-a-duck-star-in-this-buddy-cop-rpg)
  - [This randomizer mod reshuffles classic shooters like Duke 3D, Blood, and Shadow Warrior](https://www.pcgamer.com/this-randomizer-mod-reshuffles-classic-shooters-like-duke-3d-blood-and-shadow-warrior)
- - [It&#39;s better to reign in hell, so check the trailer for a strategy game about conquering it](https://www.pcgamer.com/its-better-to-reign-in-hell-so-check-the-trailer-for-a-strategy-game-about-conquering-it)
- - [Five new Steam games you probably missed &lpar;February 20, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-20-2023)<!-- GAME:END -->
+ - [It&#39;s better to reign in hell, so check the trailer for a strategy game about conquering it](https://www.pcgamer.com/its-better-to-reign-in-hell-so-check-the-trailer-for-a-strategy-game-about-conquering-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
