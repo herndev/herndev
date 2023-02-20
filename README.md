@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TrendForce: DRAM&#39;s average price dropped 34.4% in Q4&#39;22 and 31.4% in Q3, among the worst drops since 2006; Samsung still plans to spend $30B+ to expand capacity &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230220/p21#a230220p21)
- - [Google’s Pixel Fold could be surprisingly heavy compared to other foldables](https://www.androidauthority.com/google-pixel-fold-weight-3287368/)
- - [Deal: Become a cyber security developer for just $69.99](https://www.androidauthority.com/cyber-security-developer-bundle-3287343/)<!-- TECH:END -->
+ - [iOS 16.3 no longer signed by Apple just as new security patch notes are revealed](https://appleinsider.com/articles/23/02/20/ios-163-no-longer-signed-by-apple-just-as-new-security-patch-notes-are-revealed?utm_medium=rss)
+ - [Diablo 4 Open Beta Starts in March     - CNET](https://www.cnet.com/tech/gaming/diablo-4-open-beta-starts-in-march/#ftag=CAD590a51e)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2023     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
