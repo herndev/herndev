@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [29 Best Presidents’ Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-presidents-day-deals-sales-2023/)
- - [Apple rolling out nudity-blurring child safety feature to more countries](https://appleinsider.com/articles/23/02/20/apple-rolling-out-nudity-blurring-child-safety-feature-to-more-countries?utm_medium=rss)
- - [This Raspberry Pi device could let you create a private 5G network on the go](https://www.androidauthority.com/raspberry-pi-5g-network-3287249/)<!-- TECH:END -->
+ - [Apple Support users hit by &#39;Invalid URL&#39; issue when seeking help](https://appleinsider.com/articles/23/02/20/apple-support-users-hit-by-invalid-url-issue-when-seeking-help?utm_medium=rss)
+ - [Many Microsoft Outlook users say inboxes have been flooded with spam emails for many hours, as filters appear broken; others have reported the issue for months &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230220/p18#a230220p18)
+ - [T-Mobile&#39;s AutoPay Credit Card Discount Is Ending in May     - CNET](https://www.cnet.com/tech/mobile/t-mobile-is-dropping-its-autopay-credit-card-discount-in-may/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
