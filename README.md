@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Can’t Handle Queer Relationships](https://kotaku.com/persona-5-royal-confidant-ryuji-joker-romance-gay-1850129012)
- - [How to find the Cursed Tomb Treasure in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-cursed-tomb-treasure-mysterious-map-fragment)
- - [Kerbal Space Program 2&#39;s new blueprint mode makes rocket building more accessible, even if you&#39;re just as likely to crash](https://www.pcgamer.com/kerbal-space-program-2s-new-blueprint-mode-makes-rocket-building-more-accessible-even-if-youre-just-as-likely-to-crash)<!-- GAME:END -->
+ - [Making a videogame and running a circus have more in common than you think](https://www.pcgamer.com/making-a-videogame-and-running-a-circus-have-more-in-common-than-you-think)
+ - [All hail Garlic Jr., the only Dragon Ball villain who actually won &lpar;kinda&rpar;](https://www.polygon.com/23592933/dragon-ball-z-garlic-jr-saga-winner-dbz-fights)
+ - [Crypto Shilling Costs Yet Another Celebrity A Million Dollars](https://kotaku.com/crypto-ethereum-paul-pierce-sec-fine-million-dollars-1850136219)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
