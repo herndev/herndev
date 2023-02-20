@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last Of Us Episode 6 Recap: Ellie The Goodbye Girl](https://kotaku.com/last-of-us-tlou-hbo-s1e6-joel-ellie-tommy-maria-jackson-1850135520)
  - [Razer&#39;s new BlackWidow V4 Pro wireless gaming keyboard is a beast with a price to match](https://www.pcgamer.com/razers-new-blackwidow-v4-pro-wireless-gaming-keyboard-is-a-beast-with-a-price-to-match)
- - [This Lemmings-like platformer drove me to the brink &lpar;in a good way&rpar; trying to rescue its hapless astronauts](https://www.pcgamer.com/this-lemmings-like-platformer-drove-me-to-the-brink-in-a-good-way-trying-to-rescue-its-hapless-astronauts)
- - [I would watch an entire show about The Last of Us’ grumpy old couple](https://www.polygon.com/23602639/last-us-episode-6-old-couple-actors-cast)<!-- GAME:END -->
+ - [This Lemmings-like platformer drove me to the brink &lpar;in a good way&rpar; trying to rescue its hapless astronauts](https://www.pcgamer.com/this-lemmings-like-platformer-drove-me-to-the-brink-in-a-good-way-trying-to-rescue-its-hapless-astronauts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
