@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
- - ⏩ [Easiest way to understand it](http://9gag.com/gag/a3ZZgO8)
- - 👉 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)<!-- MEMES:END -->
+ - 💣 [B. Metal](http://9gag.com/gag/a9qqQN1)
+ - ⏩ [These rhinoplasty &amp; jaw reduction surgeries &lpar;when done right&rpar; makes them a whole new person](http://9gag.com/gag/aQEEjMd)
+ - 👉 [What happened? Wrong answers only.](http://9gag.com/gag/aNwwN0A)<!-- MEMES:END -->
 
 ---
 
