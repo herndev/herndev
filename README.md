@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - ⏩ [Waaagh](http://9gag.com/gag/a4ooXNA)
- - 👉 [Guess alcohol is the safest choice...](http://9gag.com/gag/aYVV38O)<!-- MEMES:END -->
+ - 💣 [D\u00f6uble entendre](http://9gag.com/gag/ay22w9X)
+ - ⏩ [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
+ - 👉 [Russia&#39;s new Marker 2 anti-tank robot](http://9gag.com/gag/aNwwN3K)<!-- MEMES:END -->
 
 ---
 
