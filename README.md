@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A demon rat and a duck star in this buddy cop RPG](https://www.pcgamer.com/a-demon-rat-and-a-duck-star-in-this-buddy-cop-rpg)
- - [This randomizer mod reshuffles classic shooters like Duke 3D, Blood, and Shadow Warrior](https://www.pcgamer.com/this-randomizer-mod-reshuffles-classic-shooters-like-duke-3d-blood-and-shadow-warrior)
- - [It&#39;s better to reign in hell, so check the trailer for a strategy game about conquering it](https://www.pcgamer.com/its-better-to-reign-in-hell-so-check-the-trailer-for-a-strategy-game-about-conquering-it)<!-- GAME:END -->
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
+ - [Does Joel die in the Last of Us games?](https://www.polygon.com/23604366/last-us-joel-death-games-pedro-pascal-episode-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
