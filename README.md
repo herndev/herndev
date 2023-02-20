@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is OnePlus pulling a Nothing with its next concept phone?](https://www.androidauthority.com/oneplus-11-concept-images-3287189/)
- - [A social media post by two academics at the Chinese Academy of Sciences outlines plans to circumvent US chip sanctions, including patents on next-gen chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/230220/p9#a230220p9)
- - [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)<!-- TECH:END -->
+ - [What is Display Scaling on Mac, and why you &lpar;probably&rpar; shouldn&#39;t worry about it](https://appleinsider.com/inside/macos/tips/what-is-display-scaling-on-mac-and-why-you-probably-shouldnt-worry-about-it?utm_medium=rss)
+ - [WhatsApp rolls out picture-in-picture support during video calls for iOS, first announced in December 2022, alongside captions for documents and more &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230220/p10#a230220p10)
+ - [US Apple Watch ban unlikely as Apple fights patent claim](https://appleinsider.com/articles/23/02/20/us-apple-watch-ban-unlikely-as-apple-fights-patent-claim?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
