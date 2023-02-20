@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Zelda All But Confirmed After Copyright Strikes](https://kotaku.com/lego-zelda-tears-of-the-kingdom-deku-youtube-copyright-1850136690)
- - [Where to find the Phoenix in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-phoenix-location)
- - [A human has beat an AI in possibly the most complex board game ever](https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever)<!-- GAME:END -->
+ - [Your desktop reveals your D&amp;D alignment, like it or not](https://www.pcgamer.com/pcg-staff-desktop-dnd-alignment-chart)
+ - [The world’s best Street Fighter 6 player will win $1M in its first year](https://www.polygon.com/23607334/street-fighter-6-capcom-pro-tour-capcom-cup-prize-money)
+ - [Spiderweb Software is remastering another classic RPG](https://www.pcgamer.com/spiderweb-software-is-remastering-another-classic-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
