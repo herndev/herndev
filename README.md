@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Max vs Intel i9-13980HX: what price pure performance?](https://appleinsider.com/articles/23/02/19/m2-max-vs-intel-i9-13980hx-what-price-pure-performance?utm_medium=rss)
- - [A look at the use of conversational AI in US call centers, which some agents find helpful and others say leaves the humans with more complex, intense workloads &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/230219/p6#a230219p6)
- - [Dear Netflix, Here&#39;s a Simple Fix for Your Password-Sharing Mess     - CNET](https://www.cnet.com/tech/services-and-software/dear-netflix-heres-a-simple-fix-for-the-password-sharing-mess/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Bing offers some marvelous responses alongside dangerously convincing falsehoods, direct quotes that appear to be made up, and shocking claims about itself &lpar;James West/Mother Jones&rpar;](http://www.techmeme.com/230219/p7#a230219p7)
+ - [Intel has a faster processor than M2 Max, but at what cost?](https://appleinsider.com/articles/23/02/19/m2-max-vs-intel-i9-13980hx-what-price-pure-performance?utm_medium=rss)
+ - [I&#39;m the Last Person on Earth Still Buying CDs. Here&#39;s Why...     - CNET](https://www.cnet.com/culture/entertainment/im-the-last-person-on-earth-still-buying-cds-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
