@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge cover display could appear on Galaxy Z Flip 5, larger than Find N2 Flip’s](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-display-3287252/)
- - [As ChatGPT and generative AI explode in popularity, CEOs, engineers, executives, and other employees at myriad companies begin experimenting with the tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230220/p16#a230220p16)
- - [A Stroke Paralyzed Her Arm. This Implant Let Her Use It Again](https://www.wired.com/story/spinal-implant-stroke-recovery/)<!-- TECH:END -->
+ - [29 Best Presidents’ Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-presidents-day-deals-sales-2023/)
+ - [Apple rolling out nudity-blurring child safety feature to more countries](https://appleinsider.com/articles/23/02/20/apple-rolling-out-nudity-blurring-child-safety-feature-to-more-countries?utm_medium=rss)
+ - [This Raspberry Pi device could let you create a private 5G network on the go](https://www.androidauthority.com/raspberry-pi-5g-network-3287249/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
