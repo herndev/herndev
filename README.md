@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Wo Long: Fallen Dynasty, Soul Hackers 2, F1 22, and Merge &amp; Blade](https://news.xbox.com/en-us/2023/02/21/game-pass-february-2023-wave-2-announce/)
- - [The union organising Activision told the EU that life would be much better under Microsoft](https://www.pcgamer.com/the-union-organising-activision-told-the-eu-that-life-would-be-much-better-under-microsoft)
- - [Corsair HS55 Wireless](https://www.pcgamer.com/corsair-hs55-wireless-review)<!-- GAME:END -->
+ - [Creed: Rise to Glory – Championship Edition steps into the ring on PS VR2 April 4](https://blog.playstation.com/2023/02/21/creed-rise-to-glory-championship-edition-steps-into-the-ring-on-ps-vr2-april-4/)
+ - [Pokémon Presents livestream event announced for Pokémon Day](https://www.polygon.com/pokemon/23608436/pokemon-day-2023-pokemon-presents-mystery-dungeon)
+ - [Shocking but not surprising: The average price of a GPU at retail has doubled since 2020](https://www.pcgamer.com/shocking-but-not-surprising-the-average-price-of-a-gpu-at-retail-has-doubled-since-2020)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
