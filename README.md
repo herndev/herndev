@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - ⏩ [Yall are cruel](http://9gag.com/gag/aEqq92O)
- - 👉 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
+ - 💣 [Wise words....](http://9gag.com/gag/aA00oA0)
+ - ⏩ [It\u2019s okay, I will breathe through my ears.](http://9gag.com/gag/a9qqg3Z)
+ - 👉 [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)<!-- MEMES:END -->
 
 ---
 
