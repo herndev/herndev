@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Snapdragon 8 Gen 2 foldable might not come from Samsung](https://www.androidauthority.com/snapdragon-8-gen-2-foldable-phone-3287508/)
- - [Poll: Do you use an authenticator app?](https://www.androidauthority.com/authenticator-apps-poll-3287494/)
- - [Daily Authority: 🍎 Where have we seen One UI 5.1 before?](https://www.androidauthority.com/daily-authority-february-21-2023-3287476/)<!-- TECH:END -->
+ - [Microsoft President Brad Smith says the company signed a binding, 10-year contract to bring Call of Duty games to Nintendo consoles on the same day as Xbox &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230221/p4#a230221p4)
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
+ - [The first Snapdragon 8 Gen 2 foldable might not come from Samsung](https://www.androidauthority.com/snapdragon-8-gen-2-foldable-phone-3287508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
