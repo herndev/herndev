@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft President Brad Smith says the company signed a binding, 10-year contract to bring Call of Duty games to Nintendo consoles on the same day as Xbox &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230221/p4#a230221p4)
- - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
- - [The first Snapdragon 8 Gen 2 foldable might not come from Samsung](https://www.androidauthority.com/snapdragon-8-gen-2-foldable-phone-3287508/)<!-- TECH:END -->
+ - [Meta plans to update its TOS for Facebook, Instagram, and WhatsApp users in the UK and will begin moving those users from its Irish subsidiary to US agreements &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230221/p8#a230221p8)
+ - [Apple TV+ hosts stars at first annual Bafta bunch in London](https://appleinsider.com/articles/23/02/21/apple-tv-hosts-stars-at-first-annual-bafta-bunch-in-london?utm_medium=rss)
+ - [The Galaxy Z Fold 5 might skip its most anticipated feature](https://www.androidauthority.com/no-s-pen-slot-galaxy-z-fold-5-3287553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
