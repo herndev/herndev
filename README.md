@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
- - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
- - 👉 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
+ - 💣 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
+ - ⏩ [It/it](http://9gag.com/gag/aoKKb1n)
+ - 👉 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
 
 ---
 
