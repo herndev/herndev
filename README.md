@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.3 no longer signed by Apple just as new security patch notes are revealed](https://appleinsider.com/articles/23/02/20/ios-163-no-longer-signed-by-apple-just-as-new-security-patch-notes-are-revealed?utm_medium=rss)
- - [Diablo 4 Open Beta Starts in March     - CNET](https://www.cnet.com/tech/gaming/diablo-4-open-beta-starts-in-march/#ftag=CAD590a51e)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2023     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based quantum computing startup Quantum Motion has raised &amp;pound;42M led by Bosch Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230220/p22#a230220p22)
+ - [&#39;The Last of Us&#39;: When Does Episode 7 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-when-does-episode-7-hit-hbo-max/#ftag=CAD590a51e)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
