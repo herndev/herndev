@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based quantum computing startup Quantum Motion has raised &amp;pound;42M led by Bosch Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230220/p22#a230220p22)
- - [&#39;The Last of Us&#39;: When Does Episode 7 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-when-does-episode-7-hit-hbo-max/#ftag=CAD590a51e)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Car Keys Tests&#39; app surfaces on App Store](https://appleinsider.com/articles/23/02/21/car-keys-tests-app-surfaces-on-app-store?utm_medium=rss)
+ - [Ride-hailing service inDrive, whose gross revenue increased 88% in 2022, raised $150M in debt that links repayment to its performance, from General Catalyst &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230220/p23#a230220p23)
+ - [Newly Detected Auroras on Jupiter&#39;s Moons Put on Stunning Show     - CNET](https://www.cnet.com/science/space/newly-detected-auroras-on-jupiters-biggest-moons-put-on-stunning-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
