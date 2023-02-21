@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🍎 Where have we seen One UI 5.1 before?](https://www.androidauthority.com/daily-authority-february-21-2023-3287476/)
- - [A January 2023 survey of 300 HR leaders at US companies revealed that 98% of them say software and algorithms will help them make layoff decisions this year &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230221/p3#a230221p3)
- - [India and Singapore link their digital payment systems, UPI and PayNow, to enable instant payments between the two countries with an initial cap of S$1K per day &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230221/p2#a230221p2)<!-- TECH:END -->
+ - [The first Snapdragon 8 Gen 2 foldable might not come from Samsung](https://www.androidauthority.com/snapdragon-8-gen-2-foldable-phone-3287508/)
+ - [Poll: Do you use an authenticator app?](https://www.androidauthority.com/authenticator-apps-poll-3287494/)
+ - [Daily Authority: 🍎 Where have we seen One UI 5.1 before?](https://www.androidauthority.com/daily-authority-february-21-2023-3287476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
