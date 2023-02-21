@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Fans Better Brace Themselves For The Left Behind Episode](https://kotaku.com/last-of-us-episode-7-left-behind-ellie-riley-storm-reid-1850140845)
- - [Translator Steps Down From Shonen Jump Manga After Declaring It Untranslatable](https://kotaku.com/shonen-jump-manga-untranslatable-cipher-academy-isin-1850140630)
- - [Ubisoft Punishes 19,000 Accounts That Used Mysterious Exploit](https://kotaku.com/ubisoft-account-bans-rainbow-six-skin-dupe-input-spoof-1850140467)<!-- GAME:END -->
+ - [Destiny 2 cheat maker owes Bungie $4.4M after judge rules it violated the DMCA](https://www.pcgamer.com/destiny-2-cheat-maker-owes-bungie-dollar44m-after-judge-rules-it-violated-the-dmca)
+ - [This implant lets those with severe paralysis send texts and use the internet with just their minds](https://www.pcgamer.com/this-implant-lets-those-with-severe-paralysis-send-texts-and-use-the-internet-with-just-their-minds)
+ - [Mega Man X DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2023/02/21/mega-man-x-dlc-available-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
