@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creed: Rise to Glory – Championship Edition steps into the ring on PS VR2 April 4](https://blog.playstation.com/2023/02/21/creed-rise-to-glory-championship-edition-steps-into-the-ring-on-ps-vr2-april-4/)
- - [Pokémon Presents livestream event announced for Pokémon Day](https://www.polygon.com/pokemon/23608436/pokemon-day-2023-pokemon-presents-mystery-dungeon)
- - [Shocking but not surprising: The average price of a GPU at retail has doubled since 2020](https://www.pcgamer.com/shocking-but-not-surprising-the-average-price-of-a-gpu-at-retail-has-doubled-since-2020)<!-- GAME:END -->
+ - [Where to use Sea Treasures Tokens in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-sea-treasures-tokens)
+ - [New Pokémon Presents Livestream Coming Next Week](https://kotaku.com/how-to-stream-pokemon-presents-time-nintendo-switch-1850139751)
+ - [Two more Pokémon Squishmallows announced: Snorlax and Togepi](https://www.polygon.com/pokemon/23608545/pokemon-squishmallows-snorlax-togepi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
