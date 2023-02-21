@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens to the best of us.](http://9gag.com/gag/aBddp0P)
- - ⏩ [Flying into Las Vegas at Night](http://9gag.com/gag/aQEEGB8)
- - 👉 [Many Social Credit points have been lost and won in this interview - but by God it is good! The reporter did not rise to the level of this Chinese ex-military man. I have a hope for mankind after watching this. Watch! &lpar;link in comments - 20 min vid!&rpar;](http://9gag.com/gag/aYVV3M7)<!-- MEMES:END -->
+ - 💣 [Honestly, where did this guy go?](http://9gag.com/gag/aA0087L)
+ - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
+ - 👉 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
 
 ---
 
