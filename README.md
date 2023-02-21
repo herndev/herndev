@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX Japan will resume crypto and fiat withdrawals from February 21, 2023 through its crypto exchange Liquid Japan; FTX acquired Liquid in 2022 &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/230221/p1#a230221p1)
  - [Mumbai-based Mintoak, which lets banks deploy and scale services like payments and lending to their SMB customers, raised a $20M Series A led by PayPal Ventures &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/230220/p25#a230220p25)
- - [Linus Torvalds releases Linux 6.2, the first mainstream Linux kernel to support Apple&#39;s M1 chips, which is expected to become Ubuntu 23.04&#39;s default kernel &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/230220/p24#a230220p24)
- - [After global big tech tax fails, France looks to EU for help](https://appleinsider.com/articles/23/02/21/after-global-big-tech-tax-fails-france-looks-to-eu-for-help?utm_medium=rss)<!-- TECH:END -->
+ - [Linus Torvalds releases Linux 6.2, the first mainstream Linux kernel to support Apple&#39;s M1 chips, which is expected to become Ubuntu 23.04&#39;s default kernel &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/230220/p24#a230220p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
