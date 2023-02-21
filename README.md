@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
- - ⏩ [It/it](http://9gag.com/gag/aoKKb1n)
- - 👉 [Death Penalty - N1260C](http://9gag.com/gag/aL11qb5)<!-- MEMES:END -->
+ - 💣 [It&#39;s hard for me to hold back tears of emotion at the thought that they can hug each other again!](http://9gag.com/gag/aGEEWV6)
+ - ⏩ [Has there been a better console bundle than PS4 with TLOU, GOW, and HZD?](http://9gag.com/gag/adPPGdN)
+ - 👉 [Have a Beautiful Day!](http://9gag.com/gag/a4ooDbA)<!-- MEMES:END -->
 
 ---
 
