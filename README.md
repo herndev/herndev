@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trigger warning: r*pe. Just why?](http://9gag.com/gag/ay22O4X)
- - ⏩ [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)
- - 👉 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
+ - 💣 [Mojo is the neighbour yelling too loudly on a Sunday morning while you&#39;re just trying to have a nice sleep in](http://9gag.com/gag/aXnnBmV)
+ - ⏩ [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)
+ - 👉 [The Right Wing &lpar;worldwide&rpar; knows only one direction.. backwards, but Murica is a little bit .. special](http://9gag.com/gag/abvv91b)<!-- MEMES:END -->
 
 ---
 
