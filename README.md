@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this even legal?](http://9gag.com/gag/aREBwAG)
- - ⏩ [Appetizer](http://9gag.com/gag/a9qq3Qo)
+ - 💣 [Best Private detective](http://9gag.com/gag/aNwDrE3)
+ - ⏩ [It/it](http://9gag.com/gag/aoKKb1n)
  - 👉 [Shut the f**k up Jennifer.](http://9gag.com/gag/aOx8K6y)<!-- MEMES:END -->
 
 ---
