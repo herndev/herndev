@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - ⏩ [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
- - 👉 [Sumerian tablet that&#39;s around 3k years old being destroyed by ISIS as it doesn&#39;t confirm to their beliefs](http://9gag.com/gag/anzz6oz)<!-- MEMES:END -->
+ - ⏩ [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)<!-- MEMES:END -->
 
 ---
 
