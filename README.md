@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
- - ⏩ [New side hustle \ud83d\udcb0](http://9gag.com/gag/aZDD9bp)
+ - 💣 [RIP](http://9gag.com/gag/a6qq0j9)
+ - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
  - 👉 [It/it](http://9gag.com/gag/aoKKb1n)<!-- MEMES:END -->
 
 ---
