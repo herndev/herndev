@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #612: Tuesday, February 21](https://www.pcgamer.com/wordle-hint-answer-today-612-february-21)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/20/this-weeks-deals-with-gold-and-spotlight-sale-263/)
- - [This VR mod uses LEDs to increase your field of view](https://www.pcgamer.com/this-vr-mod-uses-leds-to-increase-your-field-of-view)
- - [Tabletop-ish RPG For the King 2 is looking good in a new trailer](https://www.pcgamer.com/tabletop-ish-rpg-for-the-king-2-is-looking-good-in-a-new-trailer)<!-- GAME:END -->
+ - [This VR mod uses LEDs to increase your field of view](https://www.pcgamer.com/this-vr-mod-uses-leds-to-increase-your-field-of-view)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
