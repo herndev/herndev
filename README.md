@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calm before storm](http://9gag.com/gag/aBdyRY1)
- - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 👉 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
+ - 💣 [Trigger warning: r*pe. Just why?](http://9gag.com/gag/ay22O4X)
+ - ⏩ [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)
+ - 👉 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
 
 ---
 
