@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mojo is the neighbour yelling too loudly on a Sunday morning while you&#39;re just trying to have a nice sleep in](http://9gag.com/gag/aXnnBmV)
- - ⏩ [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)
- - 👉 [The Right Wing &lpar;worldwide&rpar; knows only one direction.. backwards, but Murica is a little bit .. special](http://9gag.com/gag/abvv91b)<!-- MEMES:END -->
+ - 💣 [Not nice](http://9gag.com/gag/aNwDr2b)
+ - ⏩ [Parenting](http://9gag.com/gag/aPgA6xV)
+ - 👉 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)<!-- MEMES:END -->
 
 ---
 
