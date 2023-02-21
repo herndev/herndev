@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 cheat maker owes Bungie $4.4M after judge rules it violated the DMCA](https://www.pcgamer.com/destiny-2-cheat-maker-owes-bungie-dollar44m-after-judge-rules-it-violated-the-dmca)
- - [This implant lets those with severe paralysis send texts and use the internet with just their minds](https://www.pcgamer.com/this-implant-lets-those-with-severe-paralysis-send-texts-and-use-the-internet-with-just-their-minds)
- - [Mega Man X DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2023/02/21/mega-man-x-dlc-available-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
+ - [Atomic Heart is twice as fun on easy mode](https://www.polygon.com/guides/23606367/atomic-heart-difficulty-level-easy-medium-hard-peaceful-atom)
+ - [Let&#39;s Rank The Call of Duty Games, From Worst To Best](https://kotaku.com/lets-rank-the-call-of-duty-games-from-worst-to-best-1844765026)
+ - [The Week In Games: Octopath Dreamland Deluxe](https://kotaku.com/february-game-releases-this-week-octopath-traveler-ii-1850136693)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
