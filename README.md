@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to update its TOS for Facebook, Instagram, and WhatsApp users in the UK and will begin moving those users from its Irish subsidiary to US agreements &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230221/p8#a230221p8)
- - [Apple TV+ hosts stars at first annual Bafta bunch in London](https://appleinsider.com/articles/23/02/21/apple-tv-hosts-stars-at-first-annual-bafta-bunch-in-london?utm_medium=rss)
- - [The Galaxy Z Fold 5 might skip its most anticipated feature](https://www.androidauthority.com/no-s-pen-slot-galaxy-z-fold-5-3287553/)<!-- TECH:END -->
+ - [&#39;Call of Duty: Warzone Mobile&#39; preorders start for iPhone &amp; iPad](https://appleinsider.com/articles/23/02/21/call-of-duty-warzone-mobile-preorders-start-for-iphone-ipad?utm_medium=rss)
+ - [Ridley Scott rented out a whole town to film an Apple TV+ show](https://appleinsider.com/articles/23/02/21/ridley-scott-rented-out-a-whole-town-to-film-an-apple-tv-show?utm_medium=rss)
+ - [Nothing Phone 1 finally gets stable Android 13 &lpar;Update: It’s official&rpar;](https://www.androidauthority.com/nothing-phone-1-android-13-update-3286477/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
