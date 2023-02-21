@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Ultimate Friends &amp; Family Plan Expands to Six New Countries](https://news.xbox.com/en-us/2023/02/21/xbox-game-pass-ultimate-friends-family-plan-expands-to-six-new-countries/)
- - [Microsoft announces 10-year deal with Nvidia to bring Xbox PC games to GeForce Now](https://www.pcgamer.com/microsoft-announces-10-year-deal-with-nvidia-to-bring-xbox-pc-games-to-geforce-now)
- - [Gran Turismo 7 adds VR, ‘superhuman’ AI, and the coolest car of all time](https://www.polygon.com/23608793/gran-turismo-7-patch-1-29-vr-but-more-importantly-citroen-ds)<!-- GAME:END -->
+ - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)
+ - [The best weapons and armor in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608535/like-a-dragon-ishin-best-weapons-armor-locations-perks-crafting)
+ - [Xbox Game Pass Ultimate Friends &amp; Family Plan Expands to Six New Countries](https://news.xbox.com/en-us/2023/02/21/xbox-game-pass-ultimate-friends-family-plan-expands-to-six-new-countries/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
