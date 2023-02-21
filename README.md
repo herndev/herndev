@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reports Q4 revenue down 75% YoY to $629M, vs. $590M est., a $557M net loss, and 8.3M monthly transacting users, vs. 8.22M est. and down from 8.5M in Q3 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230221/p29#a230221p29)
- - [Sources: the FTC won&#39;t challenge Amazon&#39;s $3.49B acquisition of One Medical parent company 1Life Healthcare, which will allow the deal to close later this week &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230221/p28#a230221p28)
- - [The Supreme Court Could Radically Reshape Online Speech     - CNET](https://www.cnet.com/news/politics/the-supreme-court-could-radically-reshape-online-speech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US DOJ&#39;s Public Integrity Section is looking into possible campaign-finance violations by Sam Bankman-Fried or his associates &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/230221/p31#a230221p31)
+ - [This Galaxy Z Flip rival could have a display that covers the entire front panel](https://www.androidauthority.com/motorola-razr-cover-display-3287891/)
+ - [YouTube Music rolls out a redesigned radio feature, allowing users to pick up to 30 artists when creating a station, apply filters to change the mood, and more &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230221/p30#a230221p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
