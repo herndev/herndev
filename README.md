@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomic Heart is twice as fun on easy mode](https://www.polygon.com/guides/23606367/atomic-heart-difficulty-level-easy-medium-hard-peaceful-atom)
- - [Let&#39;s Rank The Call of Duty Games, From Worst To Best](https://kotaku.com/lets-rank-the-call-of-duty-games-from-worst-to-best-1844765026)
- - [The Week In Games: Octopath Dreamland Deluxe](https://kotaku.com/february-game-releases-this-week-octopath-traveler-ii-1850136693)<!-- GAME:END -->
+ - [Xbox Game Pass Ultimate Friends &amp; Family Plan Expands to Six New Countries](https://news.xbox.com/en-us/2023/02/21/xbox-game-pass-ultimate-friends-family-plan-expands-to-six-new-countries/)
+ - [Microsoft announces 10-year deal with Nvidia to bring Xbox PC games to GeForce Now](https://www.pcgamer.com/microsoft-announces-10-year-deal-with-nvidia-to-bring-xbox-pc-games-to-geforce-now)
+ - [Gran Turismo 7 adds VR, ‘superhuman’ AI, and the coolest car of all time](https://www.polygon.com/23608793/gran-turismo-7-patch-1-29-vr-but-more-importantly-citroen-ds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
