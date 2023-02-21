@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - ⏩ [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)<!-- MEMES:END -->
+ - 💣 [Science, b*tch!](http://9gag.com/gag/aBdd7eD)
+ - ⏩ [Dog doesn&#39;t like the store keeper](http://9gag.com/gag/aBddqMA)
+ - 👉 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)<!-- MEMES:END -->
 
 ---
 
