@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Quest&#39;s New Hand Tracking Update Adds Button Tapping And Maybe Better Typing     - CNET](https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CAD590a51e)
- - [Takeaways from Gonzalez v. Google oral arguments: the justices did not engage much with Gonzalez&#39;s weak core arguments after an initial dismantling &lpar;Eric Goldman/Technology &amp; ...&rpar;](http://www.techmeme.com/230221/p26#a230221p26)
- - [This Mini-Bluetooth Device Could Help Save Your Vocal Cords     - CNET](https://www.cnet.com/science/biology/this-mini-bluetooth-device-could-help-save-your-vocal-cords/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase reports Q4 revenue down 75% YoY to $629M, vs. $590M est., a $557M net loss, and 8.3M monthly transacting users, vs. 8.22M est. and down from 8.5M in Q3 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230221/p29#a230221p29)
+ - [Sources: the FTC won&#39;t challenge Amazon&#39;s $3.49B acquisition of One Medical parent company 1Life Healthcare, which will allow the deal to close later this week &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230221/p28#a230221p28)
+ - [The Supreme Court Could Radically Reshape Online Speech     - CNET](https://www.cnet.com/news/politics/the-supreme-court-could-radically-reshape-online-speech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
