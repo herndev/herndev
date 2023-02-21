@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still the brightest point in gloomy global PC market](https://appleinsider.com/articles/23/02/21/apple-still-the-brightest-point-in-gloomy-global-pc-market?utm_medium=rss)
- - [Save almost $300 on the Tab S7 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [The European Commission plans to propose a law in Q2 2023 to improve cooperation by national regulators on cross-border investigations into GDPR violations &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230221/p17#a230221p17)<!-- TECH:END -->
+ - [iPhone 15 could finally have more than a measly 6GB of RAM](https://www.androidauthority.com/iphone-15-ram-3287743/)
+ - [Android is in big trouble as Gen Z increasingly prefer iPhones](https://www.androidauthority.com/gen-z-android-3287750/)
+ - [Florida wants Apple &amp; Google to label apps made outside US](https://appleinsider.com/articles/23/02/21/florida-wants-apple-google-to-label-apps-made-outside-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
