@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Sony square off in EU showdown over Activision and Call of Duty](https://www.theverge.com/2023/2/21/23608283/microsoft-activision-eu-meeting-regulators-sony-call-of-duty)
- - [Hackers stole data center logins for Apple, Microsoft, and many more](https://appleinsider.com/articles/23/02/21/hackers-stole-data-center-logins-for-apple-microsoft-and-many-more?utm_medium=rss)
- - [Future Apple Watch band could change color based on what you wear](https://appleinsider.com/articles/23/02/21/future-apple-watch-band-could-change-color-based-on-what-you-wear?utm_medium=rss)<!-- TECH:END -->
+ - [Wild Hearts Seems All Too Familiar     - CNET](https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CAD590a51e)
+ - [Movement Snacks: Why Taking Breaks to Flail About Is Good for Your Health     - CNET](https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CAD590a51e)
+ - [Wilfa Uniform Grinder Review: Sleek and Capable     - CNET](https://www.cnet.com/news/wilfa-uniform-grinder-review-sleek-and-capable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
