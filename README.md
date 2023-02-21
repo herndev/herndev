@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the film Saving Private Ryan, Steven Spielberg made actor Tom Sizemore an offer: he\u2019d cast him in the film if the actor agreed to daily drug tests. Spielberg said he\u2019d recast and reshoot the entire film if Tom failed even one drug test.](http://9gag.com/gag/aGEEmDz)
- - ⏩ [RIP](http://9gag.com/gag/a6qq0j9)
- - 👉 [I have a question for god... WHY](http://9gag.com/gag/a2KKX6w)<!-- MEMES:END -->
+ - 💣 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
+ - ⏩ [We all knew exactly where this was going](http://9gag.com/gag/a2KKe2e)
+ - 👉 [Sumerian tablet that&#39;s around 3k years old being destroyed by ISIS as it doesn&#39;t confirm to their beliefs](http://9gag.com/gag/anzz6oz)<!-- MEMES:END -->
 
 ---
 
