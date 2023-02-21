@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sci-fi outlet Clarkesworld suspends short story submissions, citing a surge in AI-generated stories, saying those who submit as looking to make &quot;a quick buck&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230221/p20#a230221p20)
- - [A researcher found a now-secure US DOD Azure database that wasn&#39;t password protected and had years worth of military emails with sensitive personnel info &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230221/p19#a230221p19)
- - [Best Credit Cards for Large Purchases for February 2023     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-large-purchases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon expands its partnership with Open AI-rival Hugging Face, which will use AWS to build its next gen LLM and will have its tools offered to AWS customers &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230221/p24#a230221p24)
+ - [A roundup of notable recent interactions with the new Bing and AI-related developments, from lengthy discussions with Sydney to Microsoft adding restrictions &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/230221/p23#a230221p23)
+ - [Max Cutler, Spotify&#39;s head of audio talk shows and partnerships who oversaw deals with creators like Joe Rogan, is leaving, according to a source and a memo &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230221/p22#a230221p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
