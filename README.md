@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icelandic women can be very direct.](http://9gag.com/gag/aqeeqGY)
- - ⏩ [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)
- - 👉 [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)<!-- MEMES:END -->
+ - 💣 [Calm before storm](http://9gag.com/gag/aBdyRY1)
+ - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
+ - 👉 [Parenting](http://9gag.com/gag/aPgA6xV)<!-- MEMES:END -->
 
 ---
 
