@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to use Sea Treasures Tokens in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-sea-treasures-tokens)
- - [New Pokémon Presents Livestream Coming Next Week](https://kotaku.com/how-to-stream-pokemon-presents-time-nintendo-switch-1850139751)
- - [Two more Pokémon Squishmallows announced: Snorlax and Togepi](https://www.polygon.com/pokemon/23608545/pokemon-squishmallows-snorlax-togepi)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)
+ - [Animal Crossing: New Horizons’ hardcover guide is already 41% off](https://www.polygon.com/deals/2023/2/21/23608654/animal-crossing-new-horizons-complete-official-guide-preorder-deal)
+ - [What To Expect From Valve &lpar;And Steam&rpar; In 2023](https://kotaku.com/valve-steam-deck-index-vr-half-life-csgo-sale-pc-gaming-1850139980)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
