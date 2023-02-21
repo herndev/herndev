@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Call of Duty: Warzone Mobile&#39; preorders start for iPhone &amp; iPad](https://appleinsider.com/articles/23/02/21/call-of-duty-warzone-mobile-preorders-start-for-iphone-ipad?utm_medium=rss)
- - [Ridley Scott rented out a whole town to film an Apple TV+ show](https://appleinsider.com/articles/23/02/21/ridley-scott-rented-out-a-whole-town-to-film-an-apple-tv-show?utm_medium=rss)
- - [Nothing Phone 1 finally gets stable Android 13 &lpar;Update: It’s official&rpar;](https://www.androidauthority.com/nothing-phone-1-android-13-update-3286477/)<!-- TECH:END -->
+ - [Microsoft and Sony square off in EU showdown over Activision and Call of Duty](https://www.theverge.com/2023/2/21/23608283/microsoft-activision-eu-meeting-regulators-sony-call-of-duty)
+ - [Hackers stole data center logins for Apple, Microsoft, and many more](https://appleinsider.com/articles/23/02/21/hackers-stole-data-center-logins-for-apple-microsoft-and-many-more?utm_medium=rss)
+ - [Future Apple Watch band could change color based on what you wear](https://appleinsider.com/articles/23/02/21/future-apple-watch-band-could-change-color-based-on-what-you-wear?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
