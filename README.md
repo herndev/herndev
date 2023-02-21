@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - ⏩ [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 👉 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
+ - 💣 [Is this even legal?](http://9gag.com/gag/aREBwAG)
+ - ⏩ [Appetizer](http://9gag.com/gag/a9qq3Qo)
+ - 👉 [Shut the f**k up Jennifer.](http://9gag.com/gag/aOx8K6y)<!-- MEMES:END -->
 
 ---
 
