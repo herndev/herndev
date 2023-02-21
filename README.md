@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linux 6.2 includes M1 Mac support, but it&#39;s not fully ready to use](https://appleinsider.com/articles/23/02/21/linux-62-includes-m1-mac-support-but-its-not-fully-ready-to-use?utm_medium=rss)
  - [&#39;Car Keys Tests&#39; app surfaces on App Store](https://appleinsider.com/articles/23/02/21/car-keys-tests-app-surfaces-on-app-store?utm_medium=rss)
- - [Ride-hailing service inDrive, whose gross revenue increased 88% in 2022, raised $150M in debt that links repayment to its performance, from General Catalyst &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230220/p23#a230220p23)
- - [Newly Detected Auroras on Jupiter&#39;s Moons Put on Stunning Show     - CNET](https://www.cnet.com/science/space/newly-detected-auroras-on-jupiters-biggest-moons-put-on-stunning-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything You Can Find at Super Nintendo World in Universal Studios     - CNET](https://www.cnet.com/culture/entertainment/everything-you-can-find-at-super-nintendo-world-in-universal-studios/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
