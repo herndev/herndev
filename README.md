@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)
- - [Animal Crossing: New Horizons’ hardcover guide is already 41% off](https://www.polygon.com/deals/2023/2/21/23608654/animal-crossing-new-horizons-complete-official-guide-preorder-deal)
- - [What To Expect From Valve &lpar;And Steam&rpar; In 2023](https://kotaku.com/valve-steam-deck-index-vr-half-life-csgo-sale-pc-gaming-1850139980)<!-- GAME:END -->
+ - [The New JoJo Manga Proves Hirohiko Araki Still Has The Midas Touch](https://kotaku.com/jojos-bizarre-adventure-jjba-jojolands-jodio-dragona-1850130485)
+ - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)
+ - [22 Things I Wish I Knew Before Starting Wild Hearts](https://kotaku.com/wild-hearts-ragetail-fumebeak-lavaback-kingtusk-guide-1850140337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
