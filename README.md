@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands its partnership with Open AI-rival Hugging Face, which will use AWS to build its next gen LLM and will have its tools offered to AWS customers &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230221/p24#a230221p24)
- - [A roundup of notable recent interactions with the new Bing and AI-related developments, from lengthy discussions with Sydney to Microsoft adding restrictions &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/230221/p23#a230221p23)
- - [Max Cutler, Spotify&#39;s head of audio talk shows and partnerships who oversaw deals with creators like Joe Rogan, is leaving, according to a source and a memo &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230221/p22#a230221p22)<!-- TECH:END -->
+ - [President Biden upholds potential Apple Watch ban](https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban?utm_medium=rss)
+ - [Save $200 on Apple&#39;s M2 Max MacBook Pro 16-inch with 64GB RAM, in stock now](https://appleinsider.com/articles/23/02/21/save-200-on-apples-m2-max-macbook-pro-16-inch-with-64gb-ram-in-stock-now?utm_medium=rss)
+ - [New sessions of &#39;Meet with App Store experts&#39; start Feb. 28](https://appleinsider.com/articles/23/02/21/new-sessions-of-meet-with-app-store-experts-start-feb-28?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
