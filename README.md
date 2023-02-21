@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP](http://9gag.com/gag/a6qq0j9)
- - ⏩ [Mouse will always be the best aiming device](http://9gag.com/gag/a9qqgKo)
- - 👉 [It/it](http://9gag.com/gag/aoKKb1n)<!-- MEMES:END -->
+ - 💣 [Why is this mf so hard to pull out](http://9gag.com/gag/aqeePmj)
+ - ⏩ [\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ay22GeX)
+ - 👉 [Thanks ChatGPT very cool - Genesis 6:6 `The LORD REGRETTED that he had made human beings on the earth, and He was grieved in His heart`](http://9gag.com/gag/axoo57D)<!-- MEMES:END -->
 
 ---
 
