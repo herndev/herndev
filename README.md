@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s every landing platform in Hogwarts Legacy](https://www.pcgamer.com/hogwarts-legacy-landing-platforms)
- - [Hogwarts Legacy butterflies: Where to find all the chests](https://www.pcgamer.com/hogwarts-legacy-butterfly-locations)
- - [After more than 2 years of updates, Assassin&#39;s Creed Valhalla&#39;s final patch is out today](https://www.pcgamer.com/after-more-than-2-years-of-updates-assassins-creed-valhallas-final-patch-is-out-today)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Wo Long: Fallen Dynasty, Soul Hackers 2, F1 22, and Merge &amp; Blade](https://news.xbox.com/en-us/2023/02/21/game-pass-february-2023-wave-2-announce/)
+ - [The union organising Activision told the EU that life would be much better under Microsoft](https://www.pcgamer.com/the-union-organising-activision-told-the-eu-that-life-would-be-much-better-under-microsoft)
+ - [Corsair HS55 Wireless](https://www.pcgamer.com/corsair-hs55-wireless-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
