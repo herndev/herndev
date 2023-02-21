@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linux 6.2 includes M1 Mac support, but it&#39;s not fully ready to use](https://appleinsider.com/articles/23/02/21/linux-62-includes-m1-mac-support-but-its-not-fully-ready-to-use?utm_medium=rss)
- - [&#39;Car Keys Tests&#39; app surfaces on App Store](https://appleinsider.com/articles/23/02/21/car-keys-tests-app-surfaces-on-app-store?utm_medium=rss)
- - [Everything You Can Find at Super Nintendo World in Universal Studios     - CNET](https://www.cnet.com/culture/entertainment/everything-you-can-find-at-super-nintendo-world-in-universal-studios/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After global big tech tax fails, France looks to EU for help](https://appleinsider.com/articles/23/02/21/after-global-big-tech-tax-fails-france-looks-to-eu-for-help?utm_medium=rss)
+ - [Samsung says that weird thing on the Galaxy S23 Ultra’s display is not a defect](https://www.androidauthority.com/samsung-galaxy-s23-ultra-display-defect-3287461/)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
