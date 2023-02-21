@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild Hearts Seems All Too Familiar     - CNET](https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CAD590a51e)
- - [Movement Snacks: Why Taking Breaks to Flail About Is Good for Your Health     - CNET](https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CAD590a51e)
- - [Wilfa Uniform Grinder Review: Sleek and Capable     - CNET](https://www.cnet.com/news/wilfa-uniform-grinder-review-sleek-and-capable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [macOS &amp; iOS bug could start a new wave of exploits](https://appleinsider.com/articles/23/02/21/macos-ios-bug-could-start-a-new-wave-of-exploits?utm_medium=rss)
+ - [iOS 16.3 no longer signed by Apple just as new security patch notes are revealed](https://appleinsider.com/articles/23/02/21/ios-163-no-longer-signed-by-apple-just-as-new-security-patch-notes-are-revealed?utm_medium=rss)
+ - [How Apple captured Generation Z, and how it will hang on to them](https://appleinsider.com/articles/23/02/21/how-apple-captured-generation-z-and-how-it-will-hang-on-to-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
