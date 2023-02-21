@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 could finally have more than a measly 6GB of RAM](https://www.androidauthority.com/iphone-15-ram-3287743/)
- - [Android is in big trouble as Gen Z increasingly prefer iPhones](https://www.androidauthority.com/gen-z-android-3287750/)
- - [Florida wants Apple &amp; Google to label apps made outside US](https://appleinsider.com/articles/23/02/21/florida-wants-apple-google-to-label-apps-made-outside-us?utm_medium=rss)<!-- TECH:END -->
+ - [Sci-fi outlet Clarkesworld suspends short story submissions, citing a surge in AI-generated stories, saying those who submit as looking to make &quot;a quick buck&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230221/p20#a230221p20)
+ - [A researcher found a now-secure US DOD Azure database that wasn&#39;t password protected and had years worth of military emails with sensitive personnel info &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230221/p19#a230221p19)
+ - [Best Credit Cards for Large Purchases for February 2023     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-large-purchases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
