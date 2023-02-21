@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [How to use the scanner in Atomic Heart](https://www.polygon.com/guides/23606334/atomic-heart-scanner-tutorial-how-to-bug-r1-rb)
- - [Here&#39;s a demo for a collectathon platformer that fell right out of 1999](https://www.pcgamer.com/heres-a-demo-for-a-collectathon-platformer-that-fell-right-out-of-1999)
- - [Layers of Fears studio decides the extra &#39;s&#39; is too scary, so now it&#39;s called Layers of Fear again](https://www.pcgamer.com/layers-of-fears-studio-decides-the-extra-s-is-too-scary-so-now-its-called-layers-of-fear-again)<!-- GAME:END -->
+ - [Facebook and Instagram are getting paid verification badges, just like Twitter](https://www.pcgamer.com/facebook-and-instagram-are-getting-paid-verification-badges-just-like-twitter)
+ - [Here&#39;s a demo for a collectathon platformer that fell right out of 1999](https://www.pcgamer.com/heres-a-demo-for-a-collectathon-platformer-that-fell-right-out-of-1999)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
