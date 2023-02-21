@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can relate since I spent 11 months in Japan.](http://9gag.com/gag/aQEEGg7)
- - ⏩ [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)<!-- MEMES:END -->
+ - 💣 [This is so wild and sad, just over a parking lot dispute.](http://9gag.com/gag/axooqAn)
+ - ⏩ [New side hustle \ud83d\udcb0](http://9gag.com/gag/aZDD9bp)
+ - 👉 [It/it](http://9gag.com/gag/aoKKb1n)<!-- MEMES:END -->
 
 ---
 
