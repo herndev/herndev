@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden upholds potential Apple Watch ban](https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban?utm_medium=rss)
- - [Save $200 on Apple&#39;s M2 Max MacBook Pro 16-inch with 64GB RAM, in stock now](https://appleinsider.com/articles/23/02/21/save-200-on-apples-m2-max-macbook-pro-16-inch-with-64gb-ram-in-stock-now?utm_medium=rss)
- - [New sessions of &#39;Meet with App Store experts&#39; start Feb. 28](https://appleinsider.com/articles/23/02/21/new-sessions-of-meet-with-app-store-experts-start-feb-28?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Quest&#39;s New Hand Tracking Update Adds Button Tapping And Maybe Better Typing     - CNET](https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CAD590a51e)
+ - [Takeaways from Gonzalez v. Google oral arguments: the justices did not engage much with Gonzalez&#39;s weak core arguments after an initial dismantling &lpar;Eric Goldman/Technology &amp; ...&rpar;](http://www.techmeme.com/230221/p26#a230221p26)
+ - [This Mini-Bluetooth Device Could Help Save Your Vocal Cords     - CNET](https://www.cnet.com/science/biology/this-mini-bluetooth-device-could-help-save-your-vocal-cords/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
