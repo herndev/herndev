@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New JoJo Manga Proves Hirohiko Araki Still Has The Midas Touch](https://kotaku.com/jojos-bizarre-adventure-jjba-jojolands-jodio-dragona-1850130485)
- - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)
- - [22 Things I Wish I Knew Before Starting Wild Hearts](https://kotaku.com/wild-hearts-ragetail-fumebeak-lavaback-kingtusk-guide-1850140337)<!-- GAME:END -->
+ - [The Last Of Us Fans Better Brace Themselves For The Left Behind Episode](https://kotaku.com/last-of-us-episode-7-left-behind-ellie-riley-storm-reid-1850140845)
+ - [Translator Steps Down From Shonen Jump Manga After Declaring It Untranslatable](https://kotaku.com/shonen-jump-manga-untranslatable-cipher-academy-isin-1850140630)
+ - [Ubisoft Punishes 19,000 Accounts That Used Mysterious Exploit](https://kotaku.com/ubisoft-account-bans-rainbow-six-skin-dupe-input-spoof-1850140467)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
