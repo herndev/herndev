@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not nice](http://9gag.com/gag/aNwDr2b)
- - ⏩ [Parenting](http://9gag.com/gag/aPgA6xV)
- - 👉 [Not my problem, bye bye](http://9gag.com/gag/aBddpjD)<!-- MEMES:END -->
+ - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - ⏩ [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
+ - 👉 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)<!-- MEMES:END -->
 
 ---
 
