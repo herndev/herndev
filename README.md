@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS &amp; iOS bug could start a new wave of exploits](https://appleinsider.com/articles/23/02/21/macos-ios-bug-could-start-a-new-wave-of-exploits?utm_medium=rss)
- - [iOS 16.3 no longer signed by Apple just as new security patch notes are revealed](https://appleinsider.com/articles/23/02/21/ios-163-no-longer-signed-by-apple-just-as-new-security-patch-notes-are-revealed?utm_medium=rss)
- - [How Apple captured Generation Z, and how it will hang on to them](https://appleinsider.com/articles/23/02/21/how-apple-captured-generation-z-and-how-it-will-hang-on-to-them?utm_medium=rss)<!-- TECH:END -->
+ - [Apple still the brightest point in gloomy global PC market](https://appleinsider.com/articles/23/02/21/apple-still-the-brightest-point-in-gloomy-global-pc-market?utm_medium=rss)
+ - [Save almost $300 on the Tab S7 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [The European Commission plans to propose a law in Q2 2023 to improve cooperation by national regulators on cross-border investigations into GDPR violations &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230221/p17#a230221p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
