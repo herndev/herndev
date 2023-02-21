@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s hard for me to hold back tears of emotion at the thought that they can hug each other again!](http://9gag.com/gag/aGEEWV6)
- - ⏩ [Has there been a better console bundle than PS4 with TLOU, GOW, and HZD?](http://9gag.com/gag/adPPGdN)
- - 👉 [Have a Beautiful Day!](http://9gag.com/gag/a4ooDbA)<!-- MEMES:END -->
+ - 💣 [Icelandic women can be very direct.](http://9gag.com/gag/aqeeqGY)
+ - ⏩ [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/adPPEeZ)
+ - 👉 [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)<!-- MEMES:END -->
 
 ---
 
