@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX Japan will resume crypto and fiat withdrawals from February 21, 2023 through its crypto exchange Liquid Japan; FTX acquired Liquid in 2022 &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/230221/p1#a230221p1)
- - [Mumbai-based Mintoak, which lets banks deploy and scale services like payments and lending to their SMB customers, raised a $20M Series A led by PayPal Ventures &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/230220/p25#a230220p25)
- - [Linus Torvalds releases Linux 6.2, the first mainstream Linux kernel to support Apple&#39;s M1 chips, which is expected to become Ubuntu 23.04&#39;s default kernel &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/230220/p24#a230220p24)<!-- TECH:END -->
+ - [Daily Authority: 🍎 Where have we seen One UI 5.1 before?](https://www.androidauthority.com/daily-authority-february-21-2023-3287476/)
+ - [A January 2023 survey of 300 HR leaders at US companies revealed that 98% of them say software and algorithms will help them make layoff decisions this year &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230221/p3#a230221p3)
+ - [India and Singapore link their digital payment systems, UPI and PayNow, to enable instant payments between the two countries with an initial cap of S$1K per day &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230221/p2#a230221p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
