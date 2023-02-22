@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Feb. 22: 13-inch MacBook Pro for $475, $190 off iPhone 13 Pro Max, Apple TV for $79 &amp; more](https://appleinsider.com/articles/23/02/22/daily-deals-feb-22-13-inch-macbook-pro-for-475-190-off-iphone-13-pro-max-apple-tv-for-79-more?utm_medium=rss)
- - [Bing mobile app brings ChatGPT searches to iPhone app](https://appleinsider.com/articles/23/02/22/bing-mobile-app-brings-chatgpt-searches-to-ios?utm_medium=rss)
- - [Two years after announcing its HiFi lossless music service, Spotify has yet to launch the new tier, offering no new information and falling behind rivals &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230222/p21#a230222p21)<!-- TECH:END -->
+ - [Samsung Galaxy Note 20 variants starting to get One UI 5.1](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [Microsoft Previews New Bing and Edge Mobile Apps, Bing for Skype     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-previews-new-bing-and-edge-mobile-apps-bing-for-skype/#ftag=CAD590a51e)
+ - [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
