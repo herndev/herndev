@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is DoorDash, and how does it work?](https://www.androidauthority.com/how-doordash-works-use-3287445/)
- - [Berlin-based Pliant, which offers a B2B corporate credit card service that integrates with accounting software, raised a $28M Series A led by SBI Investment &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/230221/p36#a230221p36)
- - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sydney-based DataMesh, which offers a payments processing system that it claims adapts to existing systems used by banks and merchants, raised a $30M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230221/p38#a230221p38)
+ - [Chaos Labs, which offers an automated, on-chain risk management platform for DeFi protocols, raised a $20M seed led by Galaxy Digital and PayPal Ventures &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230221/p37#a230221p37)
+ - [What is DoorDash, and how does it work?](https://www.androidauthority.com/how-doordash-works-use-3287445/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
