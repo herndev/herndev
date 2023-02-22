@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Just Made a &#39;Game of Thrones&#39;-esque Mistake     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-just-made-a-game-of-thrones-esque-mistake/#ftag=CAD590a51e)
  - [&#39;Mighty DOOM&#39; top-down shooter coming to iPhone March 21](https://appleinsider.com/articles/23/02/22/mighty-doom-top-down-shooter-coming-to-iphone-march-21?utm_medium=rss)
- - [Sources: Twitter laid off dozens of sales and engineering staff last week, as Musk gave a one-week deadline to make its ad targeting work like Google search ads &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230221/p35#a230221p35)
- - [SCOTUS declines to hear Wikimedia&#39;s challenge to the NSA&#39;s warrantless online surveillance program, leaving in place a lower court&#39;s 2015 dismissal &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/230221/p34#a230221p34)<!-- TECH:END -->
+ - [Sources: Twitter laid off dozens of sales and engineering staff last week, as Musk gave a one-week deadline to make its ad targeting work like Google search ads &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230221/p35#a230221p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
