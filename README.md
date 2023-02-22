@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got my toes on fire once. Just never pass out first, never!](http://9gag.com/gag/a4oP4RA)
- - ⏩ [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - 👉 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
+ - 💣 [Best Private detective](http://9gag.com/gag/aNwDrE3)
+ - ⏩ [These AI voices are f**king gold, I cant get enough](http://9gag.com/gag/a1PmAm8)
+ - 👉 [Nah am not gonna do that](http://9gag.com/gag/aNwDev6)<!-- MEMES:END -->
 
 ---
 
