@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Great Blizzard gem puzzle in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-olaf-gem-portal-great-blizzard)
- - [Microsoft President Is Carrying That Giant Sony Call of Duty Deal In Pocket, Weirdly](https://kotaku.com/microsoft-xbox-cod-call-of-duty-sony-game-pass-contract-1850142802)
- - [How to unlock Mirabel in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-mirabel-unlock-quest)<!-- GAME:END -->
+ - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)
+ - [After Five Years, Gloomhaven Loses Top Spot On BoardGameGeek&#39;s Charts](https://kotaku.com/gloomhaven-brass-birmingham-bgg-rating-review-charts-1850142919)
+ - [Teen Detained After Playing On ISIS-Themed Roblox Servers](https://kotaku.com/roblox-isis-islamic-state-terrorist-terrorism-arrested-1850142729)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
