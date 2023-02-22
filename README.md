@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Ultimate revival picks up where Secret Wars left off](https://www.polygon.com/23610725/marvel-comics-secret-wars-ultimate-invasion-2023-miles-morales-spider-man)
- - [Dark and Darker dev denies theft accusation: &#39;As far as we know you cannot copyright a game genre&#39;](https://www.pcgamer.com/dark-and-darker-dev-denies-theft-accusation-as-far-as-we-know-you-cannot-copyright-a-game-genre)
- - [PlayStation VR 2’s game library is already getting stronger, and I’m excited](https://www.polygon.com/reviews/23601086/playstation-vr-2-review-ps5-release-date-price-horizon-vr-call-of-the-mountain)<!-- GAME:END -->
+ - [TikTok videos are using AI tools to turn Biden, Trump, and Obama into Discord goblins](https://www.polygon.com/23610381/presidents-play-minecraft-ai-voice-meme-joe-biden-trump)
+ - [The Best And Worst Part Of Every Grand Theft Auto](https://kotaku.com/gta-v-online-rockstar-ranking-open-world-vice-city-1850147274)
+ - [Marvel Snap Is Going Full Furry With Its New Variant Cards](https://kotaku.com/marvel-snap-card-variants-furry-update-captain-america-1850147371)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
