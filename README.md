@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky: Fractal Update is available today](https://news.xbox.com/en-us/2023/02/22/no-mans-sky-fractal/)
- - [EVO 2023 lineup features Street Fighter 6, and the surprise announcement of a fighting game classic](https://www.pcgamer.com/evo-2023-lineup-features-street-fighter-6-and-the-surprise-announcement-of-a-fighting-game-classic)
- - [Wild Hearts devs fix the hellish RX 7900 XTX &#39;disco lights&#39; headache](https://www.pcgamer.com/wild-hearts-devs-fix-the-hellish-rx-7900-xtx-disco-lights-headache)<!-- GAME:END -->
+ - [Aggretsuko’s lead finally got her shit together — now it’s her loser boyfriend’s turn](https://www.polygon.com/23609184/aggretsuko-season-5-review-haida-netflix)
+ - [Atomic Heart criticised for racist caricature in one of its Soviet-era cartoons](https://www.pcgamer.com/atomic-heart-criticised-for-racist-caricature-in-one-of-its-soviet-era-cartoons)
+ - [Horizon Call of the Mountain launches today on PS VR2](https://blog.playstation.com/2023/02/22/horizon-call-of-the-mountain-launches-today-on-ps-vr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
