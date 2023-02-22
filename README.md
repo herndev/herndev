@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Smith takes to TikTok to keep the Oscar Slap Saga going](https://www.polygon.com/23610117/will-smith-oscar-tiktok-slap)
- - [PlayStation VR 2 games list, from launch day to upcoming titles in 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)
- - [How Demeo is a PS VR2 tabletop RPG for people intimidated of tabletop RPGs](https://blog.playstation.com/2023/02/22/how-demeo-is-a-ps-vr2-tabletop-rpg-for-people-intimidated-of-tabletop-rpgs/)<!-- GAME:END -->
+ - [Why Blood Bowl 3 Is the Best Place to Jump Into the Series](https://news.xbox.com/en-us/2023/02/22/blood-bowl-3-launch/)
+ - [12 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)
+ - [Hogwarts Legacy: How to complete The Hippogriff Marks the Spot quest](https://www.pcgamer.com/hogwarts-legacy-the-hippogriff-marks-the-spot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
