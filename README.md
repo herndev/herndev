@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 7T on T-Mobile is finally getting Android 12](https://www.androidauthority.com/oneplus-7t-t-mobile-android-12-update-3288069/)
  - [Daily Authority: 😟 Android in trouble, smart hydration, and more](https://www.androidauthority.com/daily-authority-february-22-2023-3288039/)
- - [AirDrop message containing bomb threat delays American Airlines flight](https://www.androidauthority.com/airdrop-bomb-threat-american-airlines-3288055/)
- - [US and EU officials accuse China of using its legal system to subvert foreign IP rights and help domestic firms in industries it deems important, including tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230222/p1#a230222p1)<!-- TECH:END -->
+ - [AirDrop message containing bomb threat delays American Airlines flight](https://www.androidauthority.com/airdrop-bomb-threat-american-airlines-3288055/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
