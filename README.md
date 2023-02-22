@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)
- - ⏩ [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 👉 [When you act like a man and turn into Gollum](http://9gag.com/gag/avQyL0b)<!-- MEMES:END -->
+ - 💣 [C\u00f6parenting](http://9gag.com/gag/ay2N7Zb)
+ - ⏩ [Superhero movies then and now](http://9gag.com/gag/a1PmAA6)
+ - 👉 [This snake found coiled inside a toilet](http://9gag.com/gag/a2Kvzqe)<!-- MEMES:END -->
 
 ---
 
