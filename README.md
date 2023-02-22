@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Private detective](http://9gag.com/gag/aNwDrE3)
- - ⏩ [It/it](http://9gag.com/gag/aoKKb1n)
- - 👉 [Shut the f**k up Jennifer.](http://9gag.com/gag/aOx8K6y)<!-- MEMES:END -->
+ - 💣 [1992 Brad Pitt &lpar;&#39;A River runs through it&#39;&rpar;](http://9gag.com/gag/aWGGK3n)
+ - ⏩ [Im surprised that isnt MERICA](http://9gag.com/gag/anzzAqo)
+ - 👉 [True](http://9gag.com/gag/armmYW0)<!-- MEMES:END -->
 
 ---
 
