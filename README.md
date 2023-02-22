@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says users will be able to clone their voice to respond to calls](https://www.theverge.com/2023/2/22/23609915/samsung-ai-voice-clone-bixby-text-call-service-korean)
- - [Leaked documents detail how shadowy cybersecurity firm S2T is selling surveillance tools to clients with a track record of spying on journalists and dissidents &lpar;Phineas Rueckert/Forbidden Stories&rpar;](http://www.techmeme.com/230222/p3#a230222p3)
- - [Wednesday’s top tech news: Section 230 on trial](https://www.theverge.com/2023/2/22/23609923/february-22-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Microsoft appears to be injecting ads for Edge on a Google.com website when users download Chrome using the latest Edge Canary preview on Windows &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230222/p7#a230222p7)
+ - [Google Cloud partners with the Tezos Foundation to become a validator on the proof-of-stake Tezos blockchain, seeking to help clients develop and deploy apps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230222/p6#a230222p6)
+ - [Baidu reports Q4 revenue down 1% YoY to ~$4.8B, beating estimates, net income up 189% YoY to ~$718M, iQiyi revenue up 3% YoY to ~$1.1B, and a $5B share buyback &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230222/p5#a230222p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
