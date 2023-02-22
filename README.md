@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, im just cool like that](http://9gag.com/gag/aBddpgz)
- - ⏩ [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
- - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 💣 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
+ - ⏩ [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 ---
 
