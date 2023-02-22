@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete every bond in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608883/like-a-dragon-ishin-bonds-guide-locations-rewards-tasks)
- - [The best weapons and armor in Like a Dragon: Ishin!](https://www.polygon.com/guides/23608535/like-a-dragon-ishin-best-weapons-armor-locations-perks-crafting)
- - [Xbox Game Pass Ultimate Friends &amp; Family Plan Expands to Six New Countries](https://news.xbox.com/en-us/2023/02/21/xbox-game-pass-ultimate-friends-family-plan-expands-to-six-new-countries/)<!-- GAME:END -->
+ - [How to solve the Great Blizzard gem puzzle in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-olaf-gem-portal-great-blizzard)
+ - [Microsoft President Is Carrying That Giant Sony Call of Duty Deal In Pocket, Weirdly](https://kotaku.com/microsoft-xbox-cod-call-of-duty-sony-game-pass-contract-1850142802)
+ - [How to unlock Mirabel in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-mirabel-unlock-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
