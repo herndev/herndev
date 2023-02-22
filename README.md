@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft appears to be injecting ads for Edge on a Google.com website when users download Chrome using the latest Edge Canary preview on Windows &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230222/p7#a230222p7)
- - [Google Cloud partners with the Tezos Foundation to become a validator on the proof-of-stake Tezos blockchain, seeking to help clients develop and deploy apps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230222/p6#a230222p6)
- - [Baidu reports Q4 revenue down 1% YoY to ~$4.8B, beating estimates, net income up 189% YoY to ~$718M, iQiyi revenue up 3% YoY to ~$1.1B, and a $5B share buyback &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230222/p5#a230222p5)<!-- TECH:END -->
+ - [Replace the Leather in Your Wallet With Seafood Waste](https://www.wired.com/story/tomtex-chitosan-leather-alternative/)
+ - [I wouldn’t trade my $400 Steam Deck for this $1,300 Ayaneo 2](https://www.theverge.com/23604799/ayaneo-2-review-handheld-gaming-pc)
+ - [Finch, which helps companies connect to HR apps, services, and systems, raised a $40M Series B co-led by General Catalyst and Menlo, taking its funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230222/p11#a230222p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
