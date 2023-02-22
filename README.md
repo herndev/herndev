@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It/it](http://9gag.com/gag/aoKKb1n)
- - ⏩ [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
- - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - ⏩ [Scientific Science](http://9gag.com/gag/aOxxgNM)
+ - 👉 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
 
 ---
 
