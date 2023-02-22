@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - ⏩ [How it started...](http://9gag.com/gag/aXnPbqP)
- - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 💣 [It/it](http://9gag.com/gag/aoKKb1n)
+ - ⏩ [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
+ - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 ---
 
