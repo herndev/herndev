@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are \u201cMan\u2019s best friend\u201d for a reason](http://9gag.com/gag/axoydZb)
- - ⏩ [Parenting](http://9gag.com/gag/aPgA6xV)
- - 👉 [A glimmer of hope](http://9gag.com/gag/ay2NpRq)<!-- MEMES:END -->
+ - 💣 [How it started...](http://9gag.com/gag/aXnPbqP)
+ - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
+ - 👉 [No mobile phone in sight kids living the day, 1970](http://9gag.com/gag/a04eL5L)<!-- MEMES:END -->
 
 ---
 
