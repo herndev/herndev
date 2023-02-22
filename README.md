@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1992 Brad Pitt &lpar;&#39;A River runs through it&#39;&rpar;](http://9gag.com/gag/aWGGK3n)
- - ⏩ [Im surprised that isnt MERICA](http://9gag.com/gag/anzzAqo)
- - 👉 [True](http://9gag.com/gag/armmYW0)<!-- MEMES:END -->
+ - 💣 [Yeah, im just cool like that](http://9gag.com/gag/aBddpgz)
+ - ⏩ [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)
+ - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 ---
 
