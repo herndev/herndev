@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After Elden Ring released, The Lords of the Fallen devs realized one of their bosses was &#39;nearly identical to Malenia&#39;](https://www.pcgamer.com/after-elden-ring-released-the-lords-of-the-fallen-devs-realized-one-of-their-bosses-was-nearly-identical-to-malenia)
  - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)
- - [After Five Years, Gloomhaven Loses Top Spot On BoardGameGeek&#39;s Charts](https://kotaku.com/gloomhaven-brass-birmingham-bgg-rating-review-charts-1850142919)
- - [Teen Detained After Playing On ISIS-Themed Roblox Servers](https://kotaku.com/roblox-isis-islamic-state-terrorist-terrorism-arrested-1850142729)<!-- GAME:END -->
+ - [After Five Years, Gloomhaven Loses Top Spot On BoardGameGeek&#39;s Charts](https://kotaku.com/gloomhaven-brass-birmingham-bgg-rating-review-charts-1850142919)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
