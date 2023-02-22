@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s reported 3nm chip deferment hints at a delay to Arrow Lake CPUs](https://www.pcgamer.com/intels-reported-3nm-chip-deferment-hints-at-a-delay-to-arrow-lake-cpus)
- - [Task Manager&#39;s most useful function could soon be a right click away](https://www.pcgamer.com/task-managers-most-useful-function-could-soon-be-a-right-click-away)
- - [Wordle hint and answer #613: Wednesday, February 22](https://www.pcgamer.com/wordle-hint-answer-today-613-february-22)<!-- GAME:END -->
+ - [Where to pre-order The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)
+ - [Where to find Evantkis in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-evantkis-location)
+ - [Microsoft pushes hard, converts Nvidia to Activision deal, but Sony still won’t budge](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
