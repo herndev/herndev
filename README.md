@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe expands Tap to Pay to Android in six countries, supporting payment methods via Google Pay, Mastercard, Visa, and American Express debit and credit cards &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230222/p28#a230222p28)
- - [Spotify&#39;s AI DJ Wants to Be Your Favorite Radio Station     - CNET](https://www.cnet.com/tech/services-and-software/spotifys-dj-brings-you-radio-mixes-with-ai-announcer/#ftag=CAD590a51e)
- - [Starlink Ups and Downs: Monthly Price Increases for Some, Decreases for Others     - CNET](https://www.cnet.com/news/starlink-ups-and-downs-monthly-price-increases-for-some-decreases-for-others/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Letter: the US Copyright Office says AI-generated images in a graphic novel, created using Midjourney, should not have been granted copyright protection &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230222/p31#a230222p31)
+ - [Sources: AT&amp;T is working with Barclays to solicit bids for its cybersecurity business, called AlienVault when AT&amp;T acquired the company for ~$600M in 2018 &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230222/p30#a230222p30)
+ - [Can you share Peacock with others?](https://www.androidauthority.com/can-you-share-peacock-with-others-3287900/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
