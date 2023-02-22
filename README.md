@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How it started...](http://9gag.com/gag/aXnPbqP)
- - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 👉 [No mobile phone in sight kids living the day, 1970](http://9gag.com/gag/a04eL5L)<!-- MEMES:END -->
+ - ⏩ [Roast detectors.](http://9gag.com/gag/aPggOqP)
+ - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 ---
 
