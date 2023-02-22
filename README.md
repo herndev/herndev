@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Note 20 variants starting to get One UI 5.1](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [Microsoft Previews New Bing and Edge Mobile Apps, Bing for Skype     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-previews-new-bing-and-edge-mobile-apps-bing-for-skype/#ftag=CAD590a51e)
- - [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/)<!-- TECH:END -->
+ - [Sources: Apple is working on a Jobs-era moonshot project to develop noninvasive blood glucose monitoring, using chip technology known as silicon photonics &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230222/p24#a230222p24)
+ - [Amazon Closes $3.9B Deal for Health Company Medical One     - CNET](https://www.cnet.com/tech/services-and-software/amazon-closes-3-9b-deal-for-health-company-medical-one/#ftag=CAD590a51e)
+ - [Your Heart Might Be Older Than You Are?     - CNET](https://www.cnet.com/health/medical/how-old-is-your-heart/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
