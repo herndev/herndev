@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - ⏩ [Yeah, im just cool like that](http://9gag.com/gag/aBddpgz)
- - 👉 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
+ - 💣 [Got my toes on fire once. Just never pass out first, never!](http://9gag.com/gag/a4oP4RA)
+ - ⏩ [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
+ - 👉 [How do figure skaters maintain such balance?](http://9gag.com/gag/a5XX42O)<!-- MEMES:END -->
 
 ---
 
