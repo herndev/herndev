@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A24 is auctioning an actual butt-plug trophy from Everything Everywhere All At Once](https://www.polygon.com/23610605/a24-auction-everything-everywhere-all-at-once-butt-plug-trophy-raccacoonie)
- - [15 Big Destiny 2 Changes Coming In Lightfall](https://kotaku.com/destiny-2-lightfall-campaign-difficulty-strand-exotics-1850145813)
- - [Darktide’s first major patch fixes everything wrong with its loot](https://www.polygon.com/23610437/warhammer-40k-darktide-patch-4-blessings-omnissiah-crafting-loot)<!-- GAME:END -->
+ - [The ultimate Adventure Time Bubbline watchlist, for all the gay romance](https://www.polygon.com/23608762/adventure-time-episodes-bubbline-marceline-bubblegum)
+ - [The Creator Of PlayStation&#39;s Iconic Logo Sound Has Passed Away](https://kotaku.com/playstation-logo-sound-tohru-okada-the-moonriders-ps5-1850146426)
+ - [Joel’s brother Tommy in The Last of Us was a kickass Terminator and Ghost Rider](https://www.polygon.com/23610667/last-of-us-joel-brother-tommy-actor-gabriel-luna-terminator-ghost-rider)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
