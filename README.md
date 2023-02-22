@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon just issued a $200 price cut on Apple&#39;s iPad Pro, plus up to 43% off Macs &amp; Beats](https://appleinsider.com/articles/23/02/20/amazon-just-issued-a-200-price-cut-on-apples-ipad-pro-plus-up-to-43-off-macs-beats?utm_medium=rss)
- - [TSMC managers think Americans don&#39;t work hard enough](https://appleinsider.com/articles/23/02/22/tsmc-managers-think-americans-dont-work-hard-enough?utm_medium=rss)
- - [A live blog of oral arguments before SCOTUS in Twitter v. Taamneh, brought by the family of a victim of an ISIS attack in Istanbul in 2017 &lpar;CNN&rpar;](http://www.techmeme.com/230222/p18#a230222p18)<!-- TECH:END -->
+ - [Daily Deals Feb. 22: 13-inch MacBook Pro for $475, $190 off iPhone 13 Pro Max, Apple TV for $79 &amp; more](https://appleinsider.com/articles/23/02/22/daily-deals-feb-22-13-inch-macbook-pro-for-475-190-off-iphone-13-pro-max-apple-tv-for-79-more?utm_medium=rss)
+ - [Bing mobile app brings ChatGPT searches to iPhone app](https://appleinsider.com/articles/23/02/22/bing-mobile-app-brings-chatgpt-searches-to-ios?utm_medium=rss)
+ - [Two years after announcing its HiFi lossless music service, Spotify has yet to launch the new tier, offering no new information and falling behind rivals &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230222/p21#a230222p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
