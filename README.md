@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
- - ⏩ [Ok so lets go LSD](http://9gag.com/gag/a4oPd7v)
- - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 💣 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)
+ - ⏩ [No mobile phone in sight kids living the day, 1970](http://9gag.com/gag/a04eL5L)
+ - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 ---
 
