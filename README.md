@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #613: Wednesday, February 22](https://www.pcgamer.com/wordle-hint-answer-today-613-february-22)
- - [After Elden Ring released, The Lords of the Fallen devs realized one of their bosses was &#39;nearly identical to Malenia&#39;](https://www.pcgamer.com/after-elden-ring-released-the-lords-of-the-fallen-devs-realized-one-of-their-bosses-was-nearly-identical-to-malenia)
- - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)<!-- GAME:END -->
+ - [Intel&#39;s reported 3nm chip deferment hints at a delay to Arrow Lake CPUs](https://www.pcgamer.com/intels-reported-3nm-chip-deferment-hints-at-a-delay-to-arrow-lake-cpus)
+ - [Task Manager&#39;s most useful function could soon be a right click away](https://www.pcgamer.com/task-managers-most-useful-function-could-soon-be-a-right-click-away)
+ - [Wordle hint and answer #613: Wednesday, February 22](https://www.pcgamer.com/wordle-hint-answer-today-613-february-22)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
