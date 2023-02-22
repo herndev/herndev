@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replace the Leather in Your Wallet With Seafood Waste](https://www.wired.com/story/tomtex-chitosan-leather-alternative/)
- - [I wouldn’t trade my $400 Steam Deck for this $1,300 Ayaneo 2](https://www.theverge.com/23604799/ayaneo-2-review-handheld-gaming-pc)
- - [Finch, which helps companies connect to HR apps, services, and systems, raised a $40M Series B co-led by General Catalyst and Menlo, taking its funding to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230222/p11#a230222p11)<!-- TECH:END -->
+ - [A profile of Alexis Ohanian, a Reddit co-founder, Serena Williams&#39; husband, and early investor in Coinbase and ETH, who owns 700+ NFTs and raised $500M in 2022 &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/230222/p14#a230222p14)
+ - [Apple reduces TSMC orders, still takes all next-gen chip capacity](https://appleinsider.com/articles/23/02/22/apple-reduces-tsmc-orders-still-takes-all-next-gen-chip-capacity?utm_medium=rss)
+ - [Securities lawyers say the SEC may struggle to win a lawsuit over stablecoins, such as Paxos&#39; BUSD, because owners do not expect profits, part of the Howey test &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230222/p13#a230222p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
