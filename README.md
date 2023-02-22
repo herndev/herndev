@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artifact, the personalized news reader created by Instagram&#39;s co-founders, opens to the public, with new features and no sign-up required, on Android and iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230222/p25#a230222p25)
- - [Pick up a MacBook Pro for just $899 &amp; Mac mini for $499 with these blowout deals](https://appleinsider.com/articles/23/02/22/pick-up-a-macbook-pro-for-just-899-mac-mini-for-499-with-these-blowout-deals?utm_medium=rss)
- - [Here are Galaxy A54 and Galaxy A34 press renders and leaked spec sheets](https://www.androidauthority.com/samsung-galaxy-a54-images-3288233/)<!-- TECH:END -->
+ - [Mercedes-Benz partners with Google to bring navigation software and YouTube to its next-gen auto OS and strikes a multibillion dollar lidar deal with Luminar &lpar;Reuters&rpar;](http://www.techmeme.com/230222/p27#a230222p27)
+ - [See the Moon, Venus and Jupiter Cozy Up in Tonight&#39;s Sky     - CNET](https://www.cnet.com/science/space/see-the-moon-venus-and-jupiter-cozy-up-in-sky-tonight/#ftag=CAD590a51e)
+ - [OmniFocus 3 review: Exceptionally powerful To Do app](https://appleinsider.com/articles/23/02/22/omnifocus-3-review-exceptionally-powerful-to-do-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
