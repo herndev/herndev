@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: the US Copyright Office says AI-generated images in a graphic novel, created using Midjourney, should not have been granted copyright protection &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230222/p31#a230222p31)
- - [Sources: AT&amp;T is working with Barclays to solicit bids for its cybersecurity business, called AlienVault when AT&amp;T acquired the company for ~$600M in 2018 &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230222/p30#a230222p30)
- - [Can you share Peacock with others?](https://www.androidauthority.com/can-you-share-peacock-with-others-3287900/)<!-- TECH:END -->
+ - [iPhone 15 display &amp; USB-C port shown off in leaked photos](https://appleinsider.com/articles/23/02/22/iphone-15-display-usb-c-port-shown-off-in-leaked-photos?utm_medium=rss)
+ - [Nvidia reports Q4 revenue down 21% YoY to $6.05B vs. $6B est., Data Center revenue up 11% YoY to $3.62B, and Q1 revenue guidance above estimates; NVDA is up 7%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230222/p32#a230222p32)
+ - [Possible Mac Pro &#39;compute module&#39; discovered in iOS 16.4 code](https://appleinsider.com/articles/23/02/22/possible-mac-pro-compute-module-discovered-in-ios-164-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
