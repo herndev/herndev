@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - ⏩ [Scientific Science](http://9gag.com/gag/aOxxgNM)
- - 👉 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
+ - 💣 [They are \u201cMan\u2019s best friend\u201d for a reason](http://9gag.com/gag/axoydZb)
+ - ⏩ [Parenting](http://9gag.com/gag/aPgA6xV)
+ - 👉 [A glimmer of hope](http://9gag.com/gag/ay2NpRq)<!-- MEMES:END -->
 
 ---
 
