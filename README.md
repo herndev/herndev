@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*Pokes with pin*](http://9gag.com/gag/awZZqjD)
- - ⏩ [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 💣 [It/it](http://9gag.com/gag/aoKKb1n)
+ - ⏩ [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)
+ - 👉 [Scientific Science](http://9gag.com/gag/aOxxgNM)<!-- MEMES:END -->
 
 ---
 
