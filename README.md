@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Private detective](http://9gag.com/gag/aNwDrE3)
- - ⏩ [These AI voices are f**king gold, I cant get enough](http://9gag.com/gag/a1PmAm8)
- - 👉 [Nah am not gonna do that](http://9gag.com/gag/aNwDev6)<!-- MEMES:END -->
+ - 💣 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
+ - ⏩ [When you try to show off for internet clout and....](http://9gag.com/gag/adPB6X2)
+ - 👉 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)<!-- MEMES:END -->
 
 ---
 
