@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)
- - ⏩ [No mobile phone in sight kids living the day, 1970](http://9gag.com/gag/a04eL5L)
- - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
+ - ⏩ [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - 👉 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)<!-- MEMES:END -->
 
 ---
 
