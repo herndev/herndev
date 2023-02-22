@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It/it](http://9gag.com/gag/aoKKb1n)
- - ⏩ [RIP, Tori banks, 24 randomly executed by this filth](http://9gag.com/gag/aEqq3xK)
- - 👉 [Scientific Science](http://9gag.com/gag/aOxxgNM)<!-- MEMES:END -->
+ - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - ⏩ [Yeah, im just cool like that](http://9gag.com/gag/aBddpgz)
+ - 👉 [Roast detectors.](http://9gag.com/gag/aPggOqP)<!-- MEMES:END -->
 
 ---
 
