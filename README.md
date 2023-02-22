@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India is a beautiful place &lpar;last week in Ahmedabad&rpar;](http://9gag.com/gag/az2xg8B)
- - ⏩ [In Other News](http://9gag.com/gag/a2KvEQY)
- - 👉 [2ManyIdiots](http://9gag.com/gag/a5XQePq)<!-- MEMES:END -->
+ - 💣 [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
+ - ⏩ [Ok so lets go LSD](http://9gag.com/gag/a4oPd7v)
+ - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
 
 ---
 
