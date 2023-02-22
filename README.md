@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aggretsuko’s lead finally got her shit together — now it’s her loser boyfriend’s turn](https://www.polygon.com/23609184/aggretsuko-season-5-review-haida-netflix)
- - [Atomic Heart criticised for racist caricature in one of its Soviet-era cartoons](https://www.pcgamer.com/atomic-heart-criticised-for-racist-caricature-in-one-of-its-soviet-era-cartoons)
- - [Horizon Call of the Mountain launches today on PS VR2](https://blog.playstation.com/2023/02/22/horizon-call-of-the-mountain-launches-today-on-ps-vr2/)<!-- GAME:END -->
+ - [Will Smith takes to TikTok to keep the Oscar Slap Saga going](https://www.polygon.com/23610117/will-smith-oscar-tiktok-slap)
+ - [PlayStation VR 2 games list, from launch day to upcoming titles in 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)
+ - [How Demeo is a PS VR2 tabletop RPG for people intimidated of tabletop RPGs](https://blog.playstation.com/2023/02/22/how-demeo-is-a-ps-vr2-tabletop-rpg-for-people-intimidated-of-tabletop-rpgs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
