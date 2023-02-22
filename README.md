@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ&#39;s Public Integrity Section is looking into possible campaign-finance violations by Sam Bankman-Fried or his associates &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/230221/p31#a230221p31)
- - [This Galaxy Z Flip rival could have a display that covers the entire front panel](https://www.androidauthority.com/motorola-razr-cover-display-3287891/)
- - [YouTube Music rolls out a redesigned radio feature, allowing users to pick up to 30 artists when creating a station, apply filters to change the mood, and more &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230221/p30#a230221p30)<!-- TECH:END -->
+ - [&#39;The Problem With Jon Stewart&#39; hosting YouTube livestream Thursday](https://appleinsider.com/articles/23/02/21/the-problem-with-jon-stewart-hosting-youtube-livestream-thursday?utm_medium=rss)
+ - [The Absolute Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-films-on-prime-video-to-watch/#ftag=CAD590a51e)
+ - [Pac-12 football allegedly eyeballing Apple TV+ bailout](https://appleinsider.com/articles/23/02/21/pac-12-football-allegedly-eyeballing-apple-tv-bailout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
