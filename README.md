@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wanted: Dead Is 2023&#39;s Jankiest Game, And I Love It](https://kotaku.com/wanted-dead-review-ps5-game-ninja-gaiden-devils-third-1850146518)
- - [These are the 11 seasonal weapons you need to get before Lightfall launches](https://www.pcgamer.com/destiny-2-best-seasonal-weapons-prepare-for-lightfall)
- - [How to unlock every mount in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23610289/mounts-list-flying-land-caligo-graphorn-hippogriff)<!-- GAME:END -->
+ - [Marvel’s Ultimate revival picks up where Secret Wars left off](https://www.polygon.com/23610725/marvel-comics-secret-wars-ultimate-invasion-2023-miles-morales-spider-man)
+ - [Dark and Darker dev denies theft accusation: &#39;As far as we know you cannot copyright a game genre&#39;](https://www.pcgamer.com/dark-and-darker-dev-denies-theft-accusation-as-far-as-we-know-you-cannot-copyright-a-game-genre)
+ - [PlayStation VR 2’s game library is already getting stronger, and I’m excited](https://www.polygon.com/reviews/23601086/playstation-vr-2-review-ps5-release-date-price-horizon-vr-call-of-the-mountain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
