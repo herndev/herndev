@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #613: Wednesday, February 22](https://www.pcgamer.com/wordle-hint-answer-today-613-february-22)
  - [After Elden Ring released, The Lords of the Fallen devs realized one of their bosses was &#39;nearly identical to Malenia&#39;](https://www.pcgamer.com/after-elden-ring-released-the-lords-of-the-fallen-devs-realized-one-of-their-bosses-was-nearly-identical-to-malenia)
- - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)
- - [After Five Years, Gloomhaven Loses Top Spot On BoardGameGeek&#39;s Charts](https://kotaku.com/gloomhaven-brass-birmingham-bgg-rating-review-charts-1850142919)<!-- GAME:END -->
+ - [Minecraft sniffer: what we know about the new forager friends](https://www.pcgamer.com/minecraft-sniffer-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
