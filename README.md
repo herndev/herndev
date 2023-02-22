@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - ⏩ [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
- - 👉 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
+ - 💣 [Morgue zone](http://9gag.com/gag/aNwDZzA)
+ - ⏩ [You guys are getting 4/5 hours???](http://9gag.com/gag/axoyZDL)
+ - 👉 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)<!-- MEMES:END -->
 
 ---
 
