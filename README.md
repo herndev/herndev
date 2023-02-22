@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate Adventure Time Bubbline watchlist, for all the gay romance](https://www.polygon.com/23608762/adventure-time-episodes-bubbline-marceline-bubblegum)
- - [The Creator Of PlayStation&#39;s Iconic Logo Sound Has Passed Away](https://kotaku.com/playstation-logo-sound-tohru-okada-the-moonriders-ps5-1850146426)
- - [Joel’s brother Tommy in The Last of Us was a kickass Terminator and Ghost Rider](https://www.polygon.com/23610667/last-of-us-joel-brother-tommy-actor-gabriel-luna-terminator-ghost-rider)<!-- GAME:END -->
+ - [Wanted: Dead Is 2023&#39;s Jankiest Game, And I Love It](https://kotaku.com/wanted-dead-review-ps5-game-ninja-gaiden-devils-third-1850146518)
+ - [These are the 11 seasonal weapons you need to get before Lightfall launches](https://www.pcgamer.com/destiny-2-best-seasonal-weapons-prepare-for-lightfall)
+ - [How to unlock every mount in Hogwarts Legacy](https://www.polygon.com/hogwarts-legacy-guide/23610289/mounts-list-flying-land-caligo-graphorn-hippogriff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
