@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it started...](http://9gag.com/gag/aXnPbqP)
- - ⏩ [Roast detectors.](http://9gag.com/gag/aPggOqP)
- - 👉 [Pick One And Tell Why](http://9gag.com/gag/aPggORV)<!-- MEMES:END -->
+ - 💣 [India is a beautiful place &lpar;last week in Ahmedabad&rpar;](http://9gag.com/gag/az2xg8B)
+ - ⏩ [In Other News](http://9gag.com/gag/a2KvEQY)
+ - 👉 [2ManyIdiots](http://9gag.com/gag/a5XQePq)<!-- MEMES:END -->
 
 ---
 
