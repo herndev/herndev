@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
+ - 💣 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)
  - ⏩ [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
- - 👉 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)<!-- MEMES:END -->
+ - 👉 [When you act like a man and turn into Gollum](http://9gag.com/gag/avQyL0b)<!-- MEMES:END -->
 
 ---
 
