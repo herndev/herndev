@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a Jobs-era moonshot project to develop noninvasive blood glucose monitoring, using chip technology known as silicon photonics &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230222/p24#a230222p24)
- - [Amazon Closes $3.9B Deal for Health Company Medical One     - CNET](https://www.cnet.com/tech/services-and-software/amazon-closes-3-9b-deal-for-health-company-medical-one/#ftag=CAD590a51e)
- - [Your Heart Might Be Older Than You Are?     - CNET](https://www.cnet.com/health/medical/how-old-is-your-heart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Artifact, the personalized news reader created by Instagram&#39;s co-founders, opens to the public, with new features and no sign-up required, on Android and iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230222/p25#a230222p25)
+ - [Pick up a MacBook Pro for just $899 &amp; Mac mini for $499 with these blowout deals](https://appleinsider.com/articles/23/02/22/pick-up-a-macbook-pro-for-just-899-mac-mini-for-499-with-these-blowout-deals?utm_medium=rss)
+ - [Here are Galaxy A54 and Galaxy A34 press renders and leaked spec sheets](https://www.androidauthority.com/samsung-galaxy-a54-images-3288233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
