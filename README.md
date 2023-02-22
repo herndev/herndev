@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 FE may not get Qualcomm’s latest and greatest chip](https://www.androidauthority.com/samsung-galaxy-s23-fe-chip-3288086/)
- - [The best ChatGPT alternatives you can try right now](https://www.androidauthority.com/best-chatgpt-alternatives-3288073/)
- - [OnePlus 7T on T-Mobile is finally getting Android 12](https://www.androidauthority.com/oneplus-7t-t-mobile-android-12-update-3288069/)<!-- TECH:END -->
+ - [Samsung says users will be able to clone their voice to respond to calls](https://www.theverge.com/2023/2/22/23609915/samsung-ai-voice-clone-bixby-text-call-service-korean)
+ - [Leaked documents detail how shadowy cybersecurity firm S2T is selling surveillance tools to clients with a track record of spying on journalists and dissidents &lpar;Phineas Rueckert/Forbidden Stories&rpar;](http://www.techmeme.com/230222/p3#a230222p3)
+ - [Wednesday’s top tech news: Section 230 on trial](https://www.theverge.com/2023/2/22/23609923/february-22-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
