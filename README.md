@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)
- - [Where to find Evantkis in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-evantkis-location)
- - [Microsoft pushes hard, converts Nvidia to Activision deal, but Sony still won’t budge](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [No Man’s Sky: Fractal Update is available today](https://news.xbox.com/en-us/2023/02/22/no-mans-sky-fractal/)
+ - [EVO 2023 lineup features Street Fighter 6, and the surprise announcement of a fighting game classic](https://www.pcgamer.com/evo-2023-lineup-features-street-fighter-6-and-the-surprise-announcement-of-a-fighting-game-classic)
+ - [Wild Hearts devs fix the hellish RX 7900 XTX &#39;disco lights&#39; headache](https://www.pcgamer.com/wild-hearts-devs-fix-the-hellish-rx-7900-xtx-disco-lights-headache)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
