@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Pliant, which offers digital corporate credit card management and accounting software, raised a $28M Series A led by SBI Investment &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/230221/p36#a230221p36)
- - [&#39;The Last of Us&#39; Just Made a &#39;Game of Thrones&#39;-esque Mistake     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-just-made-a-game-of-thrones-esque-mistake/#ftag=CAD590a51e)
- - [&#39;Mighty DOOM&#39; top-down shooter coming to iPhone March 21](https://appleinsider.com/articles/23/02/22/mighty-doom-top-down-shooter-coming-to-iphone-march-21?utm_medium=rss)<!-- TECH:END -->
+ - [What is DoorDash, and how does it work?](https://www.androidauthority.com/how-doordash-works-use-3287445/)
+ - [Berlin-based Pliant, which offers a B2B corporate credit card service that integrates with accounting software, raised a $28M Series A led by SBI Investment &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/230221/p36#a230221p36)
+ - [&#39;Ant-Man and the Wasp: Quantumania&#39;: Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
