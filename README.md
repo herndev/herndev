@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Alexis Ohanian, a Reddit co-founder, Serena Williams&#39; husband, and early investor in Coinbase and ETH, who owns 700+ NFTs and raised $500M in 2022 &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/230222/p14#a230222p14)
- - [Apple reduces TSMC orders, still takes all next-gen chip capacity](https://appleinsider.com/articles/23/02/22/apple-reduces-tsmc-orders-still-takes-all-next-gen-chip-capacity?utm_medium=rss)
- - [Securities lawyers say the SEC may struggle to win a lawsuit over stablecoins, such as Paxos&#39; BUSD, because owners do not expect profits, part of the Howey test &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230222/p13#a230222p13)<!-- TECH:END -->
+ - [Amazon just issued a $200 price cut on Apple&#39;s iPad Pro, plus up to 43% off Macs &amp; Beats](https://appleinsider.com/articles/23/02/20/amazon-just-issued-a-200-price-cut-on-apples-ipad-pro-plus-up-to-43-off-macs-beats?utm_medium=rss)
+ - [TSMC managers think Americans don&#39;t work hard enough](https://appleinsider.com/articles/23/02/22/tsmc-managers-think-americans-dont-work-hard-enough?utm_medium=rss)
+ - [A live blog of oral arguments before SCOTUS in Twitter v. Taamneh, brought by the family of a victim of an ISIS attack in Istanbul in 2017 &lpar;CNN&rpar;](http://www.techmeme.com/230222/p18#a230222p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
