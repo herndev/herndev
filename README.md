@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 7T on T-Mobile is finally getting Android 12](https://www.androidauthority.com/oneplus-7t-t-mobile-android-12-update-3288069/)
- - [Daily Authority: 😟 Android in trouble, smart hydration, and more](https://www.androidauthority.com/daily-authority-february-22-2023-3288039/)
- - [AirDrop message containing bomb threat delays American Airlines flight](https://www.androidauthority.com/airdrop-bomb-threat-american-airlines-3288055/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE may not get Qualcomm’s latest and greatest chip](https://www.androidauthority.com/samsung-galaxy-s23-fe-chip-3288086/)
+ - [The best ChatGPT alternatives you can try right now](https://www.androidauthority.com/best-chatgpt-alternatives-3288073/)
+ - [OnePlus 7T on T-Mobile is finally getting Android 12](https://www.androidauthority.com/oneplus-7t-t-mobile-android-12-update-3288069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
