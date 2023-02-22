@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C\u00f6parenting](http://9gag.com/gag/ay2N7Zb)
- - ⏩ [Superhero movies then and now](http://9gag.com/gag/a1PmAA6)
- - 👉 [This snake found coiled inside a toilet](http://9gag.com/gag/a2Kvzqe)<!-- MEMES:END -->
+ - 💣 [Darwin award nominee...](http://9gag.com/gag/aoKKB1e)
+ - ⏩ [Shake it like a Polaroid picture](http://9gag.com/gag/abvAye9)
+ - 👉 [This news is causing silly panic in Japan: Mystetious metal ball on the beach](http://9gag.com/gag/aoKyZm2)<!-- MEMES:END -->
 
 ---
 
