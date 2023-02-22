@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Blood Bowl 3 Is the Best Place to Jump Into the Series](https://news.xbox.com/en-us/2023/02/22/blood-bowl-3-launch/)
- - [12 anime to catch up on for 2023’s biggest releases](https://www.polygon.com/23560479/2023-best-anime-to-catch-up-on-demon-slayer-jujutsu-kaisen)
- - [Hogwarts Legacy: How to complete The Hippogriff Marks the Spot quest](https://www.pcgamer.com/hogwarts-legacy-the-hippogriff-marks-the-spot)<!-- GAME:END -->
+ - [A Fox, a Sword and a Shield: the Only Ingredients you Need to Become a Hero](https://news.xbox.com/en-us/2023/02/22/the-only-ingredients-you-need-to-become-a-hero/)
+ - [Pokémon Go ‘Primal Rumblings’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2023/2/22/23610324/primal-rumblings-event-collection-challenge-rayquaza-spawns)
+ - [If you have a problem with Russell Crowe, talk to his boss… the pope](https://www.polygon.com/23610473/the-popes-exorcist-movie-trailer-date-release-russell-crowe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
