@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icelandic women can be very direct.](http://9gag.com/gag/aqeeqGY)
+ - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
  - ⏩ [How it started...](http://9gag.com/gag/aXnPbqP)
- - 👉 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)<!-- MEMES:END -->
+ - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 ---
 
