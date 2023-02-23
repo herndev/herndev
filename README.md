@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League is definitely not an Arkham Asylum sequel](https://www.polygon.com/23612420/suicide-squad-kill-the-justice-league-release-date-co-op-gameplay-trailer)
- - [Everything announced at Sony’s February State of Play](https://www.polygon.com/23612341/sony-state-of-play-february-2023-everything-announced-trailers)
- - [Resident Evil 4 trailer debuts new action gameplay, announces Mercenaries mode, demo](https://blog.playstation.com/2023/02/23/resident-evil-4-trailer-debuts-new-action-gameplay-announces-mercenaries-mode-demo/)<!-- GAME:END -->
+ - [Microsoft Flight Simulator: World Update XII Takes Us To New Zealand with Captivating Fidelity](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-new-zealand-update/)
+ - [The 5 best horror movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/23/23610626/best-horror-movies-netflix-watch-february-2023)
+ - [Mortal Kombat 12 is coming this year, Warner Bros. boss says](https://www.polygon.com/23612615/mortal-kombat-12-announced-2023-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
