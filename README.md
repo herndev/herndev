@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2: The Witch Queen, and Dragon Ball: The Breakers](https://news.xbox.com/en-us/2023/02/23/free-play-days-bloodstained-ritual-of-the-night-destiny-2-the-witch-queen-and-dragon-ball-the-breakers/)
- - [The Wreck is an Upcoming “Reality-Inspired Game”… What Does That Mean?](https://news.xbox.com/en-us/2023/02/23/the-wreck-launching-march-14-on-xbox/)
- - [Every Steam sale and event coming in 2023 has been revealed](https://www.pcgamer.com/every-steam-sale-and-event-coming-in-2023-has-been-revealed)<!-- GAME:END -->
+ - [Watch Mark Hamill and Bert Kreischer do drugs and kill people in The Machine](https://www.polygon.com/23612370/machine-mark-hamill-bert-kreischer-trailer-release-date)
+ - [Like A Dragon: Ishin!: The Kotaku Review](https://kotaku.com/like-a-dragon-ishin-review-yakuza-samurai-xbox-pc-ps5-1850151595)
+ - [Amazon Prime’s free games for March include Mega Man 11](https://www.polygon.com/23542119/amazon-prime-gaming-free-games-march-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
