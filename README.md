@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
- - ⏩ [No, no, he&#39;s got a point](http://9gag.com/gag/armyemB)
- - 👉 [Did the Ring inventors every imagine it would be used this way?](http://9gag.com/gag/axoyZN2)<!-- MEMES:END -->
+ - 💣 [I&#39;m so happy that the small studio is still untouched by SJW, so we can still get a cute and beautiful game character nowadays! Game name: Asterigos](http://9gag.com/gag/awZybLy)
+ - ⏩ [La Liga table after Gameweek 22](http://9gag.com/gag/az2x7eb)
+ - 👉 [UE &lpar;Translations im comm&rpar;](http://9gag.com/gag/az2xbOz)<!-- MEMES:END -->
 
 ---
 
