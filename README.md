@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Magic Eraser photo tool is coming to iPhone](https://appleinsider.com/articles/23/02/23/googles-magic-eraser-photo-tool-is-coming-to-iphone?utm_medium=rss)
- - [An interview with SEC chair Gary Gensler on meeting with Sam Bankman-Fried and FTX executives in March 2022 and late 2021, how tokens are securities, and more &lpar;Ankush Khardori/New York Magazine&rpar;](http://www.techmeme.com/230223/p35#a230223p35)
- - [You Can&#39;t Trust App Developers&#39; Privacy Claims on Google Play](https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/)<!-- TECH:END -->
+ - [Jamf says it found Mac cryptomining malware in pirate copies of Final Cut Pro, warns Apple Silicon Macs&#39; power makes them popular targets for cryptojacking &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230223/p37#a230223p37)
+ - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)
+ - [Mophie&#39;s new powerstation chargers can power a MacBook](https://appleinsider.com/articles/23/02/23/mophies-new-powerstation-chargers-can-power-a-macbook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
