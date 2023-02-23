@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bridge would slow the river so much, it would freeze over in winter](http://9gag.com/gag/armyRX0)
- - ⏩ [Parenting](http://9gag.com/gag/aPgA6xV)
- - 👉 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
+ - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
+ - ⏩ [No, no, he&#39;s got a point](http://9gag.com/gag/armyemB)
+ - 👉 [Did the Ring inventors every imagine it would be used this way?](http://9gag.com/gag/axoyZN2)<!-- MEMES:END -->
 
 ---
 
