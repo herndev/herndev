@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky Update Boosts Graphics, Adds Cool Stuff](https://kotaku.com/no-man-s-sky-psvr2-fractal-update-hdr-lighting-nexus-1850149675)
- - [Valve Traps And Bans 40,000 Cheaters In Ingenious Way](https://kotaku.com/valve-steam-dota-2-cheating-honeypot-ban-client-patch-1850149606)
- - [Baldur&#39;s Gate, one of my favourite CRPGs of all time, will be free-to-keep for Prime subs next month](https://www.pcgamer.com/baldurs-gate-one-of-my-favourite-crpgs-of-all-time-will-be-free-to-keep-for-prime-subs-next-month)<!-- GAME:END -->
+ - [Dive into the Sad Story of Iris and the Giant on March 2](https://news.xbox.com/en-us/2023/02/23/dive-into-the-sad-story-of-iris-and-the-giant-on-march-2/)
+ - [Arctic survival sim The Pale Beyond is as messy as it is compelling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)
+ - [Shinji Mikami, Resident Evil Mastermind, Leaving Studio He Founded](https://kotaku.com/shinji-mikami-tango-gameworks-evil-within-ghostwire-1850150056)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
