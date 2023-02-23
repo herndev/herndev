@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [Google is still trying to fix Gmail’s Outlook syncing issues](https://www.theverge.com/2023/2/22/23611175/gmail-app-outlook-hotmail-not-syncing-issues)
- - [Alphabet Reportedly Lays Off Robots That Cleaned Cafeterias     - CNET](https://www.cnet.com/news/alphabet-reportedly-lays-off-robots-that-cleaned-cafeterias/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google tests blocking news content in Search for less than 4% of Canadian users for about five weeks, a potential response to Canada&#39;s proposed Online News Act &lpar;Mickey Djuric/The Canadian Press News&rpar;](http://www.techmeme.com/230222/p35#a230222p35)
+ - [ChatGPT Reworked My Dating Profile. Look What Happened     - CNET](https://www.cnet.com/culture/internet/chatgpt-rewrote-my-dating-profile-look-what-happened/#ftag=CAD590a51e)
+ - [Best YouTube Channels for Free Workouts to Get Fit in 2023     - CNET](https://www.cnet.com/health/fitness/best-youtube-channels-for-free-workouts-to-get-fit-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
