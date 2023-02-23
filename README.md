@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Batteries Are Ukraine’s Secret Weapon Against Russia](https://www.wired.com/story/ukraine-russia-power-grid-batteries/)
- - [YouTube Expands Feature That Lets You Watch Videos in Multiple Languages     - CNET](https://www.cnet.com/tech/services-and-software/youtube-expands-feature-that-lets-you-watch-videos-in-multiple-languages/#ftag=CAD590a51e)
- - [Save 50% on a Year of Peacock Premium, Making It Just $2.50 Per Month     - CNET](https://www.cnet.com/deals/save-50-on-a-year-of-peacock-premium-making-it-just-2-50-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel’s Magic Eraser is now coming to all Android phones &lpar;and iPhones&rpar;](https://www.androidauthority.com/magic-eraser-android-phones-iphones-3288373/)
+ - [Android Auto may have fixed one of its most annoying quirks](https://www.androidauthority.com/android-auto-maps-3288675/)
+ - [13 Best Recycled Backpacks and Bags &lpar;2023&rpar;: Totes, Purses, Shopping Bags](https://www.wired.com/gallery/best-recycled-bags/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
