@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mobile wallpaper. The Darkest Knight](http://9gag.com/gag/a4oPKow)
- - ⏩ [\u201cDo you know what this is?\u201d](http://9gag.com/gag/a9qyM9o)
- - 👉 [Biden won&#39;t go there...](http://9gag.com/gag/aOx8q06)<!-- MEMES:END -->
+ - 💣 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
+ - ⏩ [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
+ - 👉 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)<!-- MEMES:END -->
 
 ---
 
