@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: the SEC and NYDFS oppose Voyager&#39;s plan to sell assets to Binance.US for $1.02B, alleging the sale of unregistered securities, like Voyager&#39;s VGX token &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230223/p6#a230223p6)
- - [A profile of Ivan Sutherland, who created Sketchpad, a breakthrough in interactive computer graphics for which he earned his PhD from MIT in 1963 &lpar;David C. Brock/CHM&rpar;](http://www.techmeme.com/230223/p5#a230223p5)
- - [Google Play Store is failing to protect your data privacy, new study says](https://www.androidauthority.com/google-play-store-privacy-3288278/)<!-- TECH:END -->
+ - [Spotify tests &quot;token-enabled playlists&quot;, letting some NFT holders connect their wallets and listen to curated music, starting on Android in select countries &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230223/p11#a230223p11)
+ - [Analysis of the 40 most popular Android apps on the Google Play Store finds nearly 80% had discrepancies between their privacy policies and Data Safety labels &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/230223/p10#a230223p10)
+ - [Memo: the European Commission bans TikTok on corporate devices and personal devices using corporate apps, and asks staff to uninstall the app by March 15 &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/230223/p9#a230223p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
