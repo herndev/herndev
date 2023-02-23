@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the Sad Story of Iris and the Giant on March 2](https://news.xbox.com/en-us/2023/02/23/dive-into-the-sad-story-of-iris-and-the-giant-on-march-2/)
- - [Arctic survival sim The Pale Beyond is as messy as it is compelling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)
- - [Shinji Mikami, Resident Evil Mastermind, Leaving Studio He Founded](https://kotaku.com/shinji-mikami-tango-gameworks-evil-within-ghostwire-1850150056)<!-- GAME:END -->
+ - [Hogwarts Legacy ‘Solved by the Bell’ side quest walkthrough](https://www.polygon.com/hogwarts-legacy-guide/23611859/solved-by-bell-side-quest-walkthrough-musical-map-location-puzzle)
+ - [A gruelling, globetrotting challenge pushed me out of my League of Legends comfort zone](https://www.pcgamer.com/a-gruelling-globetrotting-challenge-pushed-me-out-of-my-league-of-legends-comfort-zone)
+ - [Like a Dragon: Ishin!’s ridiculously deep farming sim, explained](https://www.polygon.com/guides/23610930/like-a-dragon-ishin-another-life-farming-sim-haruka-debt-trust)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
