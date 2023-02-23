@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the 10 best Apple Watch bands for working out in 2023](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)
- - [iPhone 15 display &amp; USB-C port shown off in leaked photos](https://appleinsider.com/articles/23/02/22/iphone-15-display-usb-c-port-shown-off-in-leaked-photos?utm_medium=rss)
- - [Nvidia is still making billions in Q4 2023 despite a giant drop in PC demand](https://www.theverge.com/23608886/nvidia-q4-2023-earnings)<!-- TECH:END -->
+ - [Google is still trying to fix Gmail’s Outlook syncing issues](https://www.theverge.com/2023/2/22/23611175/gmail-app-outlook-hotmail-not-syncing-issues)
+ - [Leaked iPhone 15 CAD files reveal larger 6.2-inch display, Dynamic Island, USB-C charging port, and more, after iPhone 15 Pro CAD files leaked last week &lpar;Max Weinbach/9to5Mac&rpar;](http://www.techmeme.com/230222/p34#a230222p34)
+ - [Razer&#39;s Blade Laptops Arrive With Latest, Lower-End Nvidia GPUs     - CNET](https://www.cnet.com/tech/computing/razers-blade-laptops-arrive-with-latest-lower-end-nvidia-gpus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
