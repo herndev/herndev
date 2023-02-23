@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - ⏩ [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
- - 👉 [So when was the real Putin, yesterday or today?](http://9gag.com/gag/ay2N0gr)<!-- MEMES:END -->
+ - 💣 [Where it go?](http://9gag.com/gag/aXnP0V2)
+ - ⏩ [When you try to show off for internet clout and....](http://9gag.com/gag/adPB6X2)
+ - 👉 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
 
 ---
 
