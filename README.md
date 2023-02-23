@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung expands Bixby Text Call, which answers calls via text-to-speech, to English and unveils Custom Voice Creator, which clones the user&#39;s voice, in Korean &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230222/p36#a230222p36)
- - [Google tests blocking news content in Search for fewer than 4% of Canadian users for about five weeks, a potential response to Canada&#39;s proposed Online News Act &lpar;Mickey Djuric/The Canadian Press News&rpar;](http://www.techmeme.com/230222/p35#a230222p35)
- - [ChatGPT Reworked My Dating Profile. Look What Happened     - CNET](https://www.cnet.com/culture/internet/chatgpt-rewrote-my-dating-profile-look-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Chinese Luxshare took over AR development team for Apple&#39;s headset in Shanghai from Taiwan&#39;s Pegatron; Foxconn to make second gen, mass market version &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230222/p38#a230222p38)
+ - [Everyday Robots will no longer be a separate project within Alphabet and some of its tech and staff will be consolidated into Google Research robotics efforts &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230222/p37#a230222p37)
+ - [The Oscars Has a &#39;Crisis Team&#39; After Will Smith&#39;s Slap     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-has-a-crisis-team-after-will-smiths-slap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
