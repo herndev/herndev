@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, art](http://9gag.com/gag/avQyn6q)
- - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
- - 👉 [Come on man tf!](http://9gag.com/gag/aZDZp3X)<!-- MEMES:END -->
+ - 💣 [How to read brail](http://9gag.com/gag/a6qZdpe)
+ - ⏩ [Come on man tf!](http://9gag.com/gag/aZDZp3X)
+ - 👉 [Is this true about asian women?](http://9gag.com/gag/a3Z4B0v)<!-- MEMES:END -->
 
 ---
 
