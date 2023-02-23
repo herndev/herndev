@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ray traced Half-Life mod is finally here and looks incredible](https://www.pcgamer.com/ray-traced-half-life-mod-is-finally-here-and-looks-incredible)
- - [Nvidia predicts explosive future for AI even as gaming graphics revenues plummet by 46%](https://www.pcgamer.com/nvidia-predicts-explosive-future-for-ai-even-as-gaming-graphics-revenues-plummet-by-46)
- - [Glass Onion gets a director’s commentary on Netflix](https://www.polygon.com/23611631/glass-onion-directors-commentary)<!-- GAME:END -->
+ - [I make no apologies for the geeky pleasure I get watching a 56-core CPU just monster this benchmark](https://www.pcgamer.com/i-make-no-apologies-for-the-geeky-pleasure-i-get-watching-a-56-core-cpu-monster-this-benchmark)
+ - [Where to find Golden Hematite in Wild Hearts](https://www.pcgamer.com/wild-hearts-golden-hematite-location)
+ - [Here&#39;s when Company of Heroes 3 unlocks in your time zone](https://www.pcgamer.com/company-of-heroes-3-unlock-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
