@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy ‘Solved by the Bell’ side quest walkthrough](https://www.polygon.com/hogwarts-legacy-guide/23611859/solved-by-bell-side-quest-walkthrough-musical-map-location-puzzle)
- - [A gruelling, globetrotting challenge pushed me out of my League of Legends comfort zone](https://www.pcgamer.com/a-gruelling-globetrotting-challenge-pushed-me-out-of-my-league-of-legends-comfort-zone)
- - [Like a Dragon: Ishin!’s ridiculously deep farming sim, explained](https://www.polygon.com/guides/23610930/like-a-dragon-ishin-another-life-farming-sim-haruka-debt-trust)<!-- GAME:END -->
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
+ - [The Big Ways The Last Of Us Show Changes The Game’s Lore](https://kotaku.com/the-last-of-us-hbo-lore-changes-tendrils-mycology-tess-1850019712)
+ - [AI Comic Art Gets Copyright Revoked After Office Learns How AI Works](https://kotaku.com/ai-comic-art-copyright-midjourney-revoked-1850150702)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
