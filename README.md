@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I make no apologies for the geeky pleasure I get watching a 56-core CPU just monster this benchmark](https://www.pcgamer.com/i-make-no-apologies-for-the-geeky-pleasure-i-get-watching-a-56-core-cpu-monster-this-benchmark)
- - [Where to find Golden Hematite in Wild Hearts](https://www.pcgamer.com/wild-hearts-golden-hematite-location)
- - [Here&#39;s when Company of Heroes 3 unlocks in your time zone](https://www.pcgamer.com/company-of-heroes-3-unlock-times)<!-- GAME:END -->
+ - [You already speak fluent computer code according to Nvidia&#39;s CEO](https://www.pcgamer.com/you-already-speak-fluent-computer-code-according-to-nvidias-ceo)
+ - [I&#39;ve been playing tabletop RPGs for 20 years, and these are the D&amp;D alternatives I recommend](https://www.pcgamer.com/the-best-DnD-alternatives)
+ - [No Man&#39;s Sky&#39;s 163rd update brings a VR overhaul, new quests, and your own personal Guinness World Records book](https://www.pcgamer.com/no-mans-skys-163rd-update-brings-a-vr-overhaul-new-quests-and-your-own-personal-guinness-world-records-book)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
