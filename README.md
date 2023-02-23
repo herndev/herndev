@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to read brail](http://9gag.com/gag/a6qZdpe)
- - ⏩ [Come on man tf!](http://9gag.com/gag/aZDZp3X)
- - 👉 [Is this true about asian women?](http://9gag.com/gag/a3Z4B0v)<!-- MEMES:END -->
+ - 💣 [Taste like the nastiest toilet water 🤢](https://www.reddit.com/r/memes/comments/119yn4f/taste_like_the_nastiest_toilet_water/)
+ - ⏩ [How to read brail](http://9gag.com/gag/a6qZdpe)
+ - 👉 [Come on man tf!](http://9gag.com/gag/aZDZp3X)<!-- MEMES:END -->
 
 ---
 
