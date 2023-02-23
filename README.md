@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese Luxshare took over AR development team for Apple&#39;s headset in Shanghai from Taiwan&#39;s Pegatron; Foxconn to make second gen, mass market version &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230222/p38#a230222p38)
- - [Everyday Robots will no longer be a separate project within Alphabet and some of its tech and staff will be consolidated into Google Research robotics efforts &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230222/p37#a230222p37)
- - [The Oscars Has a &#39;Crisis Team&#39; After Will Smith&#39;s Slap     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-has-a-crisis-team-after-will-smiths-slap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 OLED display chips might get an upgrade](https://appleinsider.com/articles/23/02/23/iphone-15-oled-display-chips-might-get-an-upgrade?utm_medium=rss)
+ - [US-based DNA Diagnostics Center settled a pair of AG lawsuits after hackers stole data on 2.1M people in 2021 from a &quot;legacy&quot; database the company forgot it had &lpar;Jude Karabus/The Register&rpar;](http://www.techmeme.com/230223/p1#a230223p1)
+ - [Microsoft’s ChatGPT-powered Bing and Edge come to mobile](https://www.androidauthority.com/microsoft-chatgpt-bing-edge-on-mobile-3288537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
