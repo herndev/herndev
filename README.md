@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jamf says it found Mac cryptomining malware in pirate copies of Final Cut Pro, warns Apple Silicon Macs&#39; power makes them popular targets for cryptojacking &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230223/p37#a230223p37)
- - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)
- - [Mophie&#39;s new powerstation chargers can power a MacBook](https://appleinsider.com/articles/23/02/23/mophies-new-powerstation-chargers-can-power-a-macbook?utm_medium=rss)<!-- TECH:END -->
+ - [Google TV Update Adds New Navigation Features     - CNET](https://www.cnet.com/tech/services-and-software/google-tv-update-adds-new-navigation-features/#ftag=CAD590a51e)
+ - [Google expands Magic Eraser, which lets users remove parts of a picture, from Pixel devices to Google One subscribers using Google Photos on Android or iOS &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230223/p38#a230223p38)
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
