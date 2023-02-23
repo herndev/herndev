@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quest v50 update adds poking and prodding](https://www.pcgamer.com/quest-v50-update-adds-poking-and-prodding)
- - [Assassin&#39;s Creed Bug From 2020 Is Finally Getting Fixed](https://kotaku.com/assassins-creed-syndicate-ubisoft-ps4-ps5-bug-glitch-1850148135)
- - [How to solve the Hogwarts Legacy chess puzzles](https://www.pcgamer.com/hogwarts-legacy-chess-puzzle)<!-- GAME:END -->
+ - [Wordle hint and answer #614: Thursday, February 23](https://www.pcgamer.com/wordle-hint-answer-today-614-february-23)
+ - [I&#39;m so into this chef sim I&#39;ve got mushrooms tattooed on my arm](https://www.pcgamer.com/im-so-into-this-chef-sim-ive-got-mushrooms-tattooed-on-my-arm)
+ - [Quest v50 update adds poking and prodding](https://www.pcgamer.com/quest-v50-update-adds-poking-and-prodding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
