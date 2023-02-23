@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 OLED display chips might get an upgrade](https://appleinsider.com/articles/23/02/23/iphone-15-oled-display-chips-might-get-an-upgrade?utm_medium=rss)
- - [US-based DNA Diagnostics Center settled a pair of AG lawsuits after hackers stole data on 2.1M people in 2021 from a &quot;legacy&quot; database the company forgot it had &lpar;Jude Karabus/The Register&rpar;](http://www.techmeme.com/230223/p1#a230223p1)
- - [Microsoft’s ChatGPT-powered Bing and Edge come to mobile](https://www.androidauthority.com/microsoft-chatgpt-bing-edge-on-mobile-3288537/)<!-- TECH:END -->
+ - [Social media&#39;s new era of a &quot;pay-to-play&quot; model turns features such as security, visibility, and technical support that users expect for free into premium items &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230223/p2#a230223p2)
+ - [Samsung announces two-way satellite communication tech for smartphones](https://www.androidauthority.com/samsung-smartphone-satellite-connectivity-3288560/)
+ - [iPhone 15 OLED display chips might get an upgrade](https://appleinsider.com/articles/23/02/23/iphone-15-oled-display-chips-might-get-an-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
