@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No words](http://9gag.com/gag/amAoLNX)
- - ⏩ [This is a troll...right? Please?](http://9gag.com/gag/aqey4vp)
- - 👉 [I&#39;ll pass](http://9gag.com/gag/aGEy9q6)<!-- MEMES:END -->
+ - 💣 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
+ - ⏩ [Anyone with finger pains?](http://9gag.com/gag/avQy2V5)
+ - 👉 [So when was the real Putin, yesterday or today?](http://9gag.com/gag/ay2N0gr)<!-- MEMES:END -->
 
 ---
 
