@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media&#39;s new era of a &quot;pay-to-play&quot; model turns features such as security, visibility, and technical support that users expect for free into premium items &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230223/p2#a230223p2)
- - [Samsung announces two-way satellite communication tech for smartphones](https://www.androidauthority.com/samsung-smartphone-satellite-connectivity-3288560/)
- - [iPhone 15 OLED display chips might get an upgrade](https://appleinsider.com/articles/23/02/23/iphone-15-oled-display-chips-might-get-an-upgrade?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Bixby can now clone your voice to answer your calls](https://www.androidauthority.com/samsung-bixby-text-calling-3288581/)
+ - [Internal FAQ: Google asks cloud employees and partners in its five largest US locations to share desks starting in Q2 and work from office on alternate days &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230223/p4#a230223p4)
+ - [Samsung’s bypass charging feature: What is it and which phones have it?](https://www.androidauthority.com/galaxy-s23-bypass-charging-feature-more-phones-3282489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
