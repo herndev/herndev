@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
- - ⏩ [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)
- - 👉 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)<!-- MEMES:END -->
+ - 💣 [So, art](http://9gag.com/gag/avQyn6q)
+ - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aEq0nx9)
+ - 👉 [Come on man tf!](http://9gag.com/gag/aZDZp3X)<!-- MEMES:END -->
 
 ---
 
