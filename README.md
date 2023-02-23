@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My Dad&#39;s Garage Organization](https://www.reddit.com/r/funny/comments/11a87nn/my_dads_garage_organization/)
- - ⏩ [Part 13 of our ongoing series Knoxville Gas Station Enhancement Pills: The Beast](https://www.reddit.com/r/funny/comments/11a7t0b/part_13_of_our_ongoing_series_knoxville_gas/)
- - 👉 [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)<!-- MEMES:END -->
+ - 💣 [I’m not sure if this is meant to be enticing or deterring 🤔 🤦🏽‍♂️](https://www.reddit.com/r/funny/comments/11aaeov/im_not_sure_if_this_is_meant_to_be_enticing_or/)
+ - ⏩ [Parked at the Airport right next to my house!](https://www.reddit.com/r/funny/comments/11a9q0v/parked_at_the_airport_right_next_to_my_house/)
+ - 👉 [Me: Black and green](https://www.reddit.com/r/memes/comments/11a9ibr/me_black_and_green/)<!-- MEMES:END -->
 
 ---
 
