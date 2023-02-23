@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve recently patched a Dota 2 exploit used by third-party cheating clients, created a honeypot to catch them, and banned over 40,000 accounts &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230223/p28#a230223p28)
- - [A US court unseals a superseding indictment against Sam Bankman-Fried containing 12 charges, up from the initial eight, including alleged bank fraud &lpar;CoinDesk&rpar;](http://www.techmeme.com/230223/p27#a230223p27)
- - [After testing, YouTube rolls out access to multi-language audio tracks to more creators worldwide, helping them add dubbing to new and existing videos &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230223/p26#a230223p26)<!-- TECH:END -->
+ - [Batteries Are Ukraine’s Secret Weapon Against Russia](https://www.wired.com/story/ukraine-russia-power-grid-batteries/)
+ - [YouTube Expands Feature That Lets You Watch Videos in Multiple Languages     - CNET](https://www.cnet.com/tech/services-and-software/youtube-expands-feature-that-lets-you-watch-videos-in-multiple-languages/#ftag=CAD590a51e)
+ - [Save 50% on a Year of Peacock Premium, Making It Just $2.50 Per Month     - CNET](https://www.cnet.com/deals/save-50-on-a-year-of-peacock-premium-making-it-just-2-50-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
