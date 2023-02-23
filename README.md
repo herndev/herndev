@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thermaltake Ceres 500 TG](https://www.pcgamer.com/thermaltake-ceres-500-tg)
  - [Wordle hint and answer #614: Thursday, February 23](https://www.pcgamer.com/wordle-hint-answer-today-614-february-23)
- - [I&#39;m so into this chef sim I&#39;ve got mushrooms tattooed on my arm](https://www.pcgamer.com/im-so-into-this-chef-sim-ive-got-mushrooms-tattooed-on-my-arm)
- - [Quest v50 update adds poking and prodding](https://www.pcgamer.com/quest-v50-update-adds-poking-and-prodding)<!-- GAME:END -->
+ - [I&#39;m so into this chef sim I&#39;ve got mushrooms tattooed on my arm](https://www.pcgamer.com/im-so-into-this-chef-sim-ive-got-mushrooms-tattooed-on-my-arm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
