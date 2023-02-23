@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
  - [Google is still trying to fix Gmail’s Outlook syncing issues](https://www.theverge.com/2023/2/22/23611175/gmail-app-outlook-hotmail-not-syncing-issues)
- - [Leaked iPhone 15 CAD files reveal larger 6.2-inch display, Dynamic Island, USB-C charging port, and more, after iPhone 15 Pro CAD files leaked last week &lpar;Max Weinbach/9to5Mac&rpar;](http://www.techmeme.com/230222/p34#a230222p34)
- - [Razer&#39;s Blade Laptops Arrive With Latest, Lower-End Nvidia GPUs     - CNET](https://www.cnet.com/tech/computing/razers-blade-laptops-arrive-with-latest-lower-end-nvidia-gpus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alphabet Reportedly Lays Off Robots That Cleaned Cafeterias     - CNET](https://www.cnet.com/news/alphabet-reportedly-lays-off-robots-that-cleaned-cafeterias/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
