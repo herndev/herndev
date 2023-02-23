@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You already speak fluent computer code according to Nvidia&#39;s CEO](https://www.pcgamer.com/you-already-speak-fluent-computer-code-according-to-nvidias-ceo)
- - [I&#39;ve been playing tabletop RPGs for 20 years, and these are the D&amp;D alternatives I recommend](https://www.pcgamer.com/the-best-DnD-alternatives)
- - [No Man&#39;s Sky&#39;s 163rd update brings a VR overhaul, new quests, and your own personal Guinness World Records book](https://www.pcgamer.com/no-mans-skys-163rd-update-brings-a-vr-overhaul-new-quests-and-your-own-personal-guinness-world-records-book)<!-- GAME:END -->
+ - [The PS5’s top first-party games are cheaper than ever right now](https://www.polygon.com/deals/2023/2/23/23610532/ps5-games-sale-demons-souls-the-last-of-us-horizon)
+ - [Legendary designer Shinji Mikami to leave Tango Gameworks and Xbox](https://www.pcgamer.com/legendary-designer-shinji-mikami-to-leave-tango-gameworks-and-xbox)
+ - [The Last of Us is finding apocalyptic meaning where The Walking Dead couldn’t](https://www.polygon.com/23610810/last-us-joel-walking-dead-rick-differences)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
