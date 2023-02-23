@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the top 300 contributors to Amazon&#39;s IMDb globally, including one who wrote over 35K plot summaries, and the history of the crowdsourced service &lpar;Stephen Lurie/Wired&rpar;](http://www.techmeme.com/230223/p22#a230223p22)
- - [After the US passed the industry-supported $52B CHIPS Act, chipmakers have turned cutthroat to secure federal cash, setting off a lobbying frenzy &lpar;New York Times&rpar;](http://www.techmeme.com/230223/p21#a230223p21)
- - [Netflix cut subscriptions prices on certain tiers in more than 36 countries globally, in some cases halving the cost; Netflix operates in 190+ countries &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230223/p20#a230223p20)<!-- TECH:END -->
+ - [Valve recently patched a Dota 2 exploit used by third-party cheating clients, created a honeypot to catch them, and banned over 40,000 accounts &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230223/p28#a230223p28)
+ - [A US court unseals a superseding indictment against Sam Bankman-Fried containing 12 charges, up from the initial eight, including alleged bank fraud &lpar;CoinDesk&rpar;](http://www.techmeme.com/230223/p27#a230223p27)
+ - [After testing, YouTube rolls out access to multi-language audio tracks to more creators worldwide, helping them add dubbing to new and existing videos &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230223/p26#a230223p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
