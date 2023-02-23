@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)
- - ⏩ [Work smarter not harder](https://www.reddit.com/r/memes/comments/11a0ui4/work_smarter_not_harder/)
- - 👉 [Become ungovernable.](https://www.reddit.com/r/funny/comments/119zt9w/become_ungovernable/)<!-- MEMES:END -->
+ - 💣 [Bad dawg](https://www.reddit.com/r/funny/comments/11a21rh/bad_dawg/)
+ - ⏩ [Sort by controversial](https://www.reddit.com/r/memes/comments/11a1cy6/sort_by_controversial/)
+ - 👉 [As an adult, I will go to great lengths to recreate a feeling as good as this.](https://www.reddit.com/r/funny/comments/11a1b78/as_an_adult_i_will_go_to_great_lengths_to/)<!-- MEMES:END -->
 
 ---
 
