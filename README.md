@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel’s Magic Eraser is now coming to all Android phones &lpar;and iPhones&rpar;](https://www.androidauthority.com/magic-eraser-android-phones-iphones-3288373/)
- - [Android Auto may have fixed one of its most annoying quirks](https://www.androidauthority.com/android-auto-maps-3288675/)
- - [13 Best Recycled Backpacks and Bags &lpar;2023&rpar;: Totes, Purses, Shopping Bags](https://www.wired.com/gallery/best-recycled-bags/)<!-- TECH:END -->
+ - [Google&#39;s Magic Eraser photo tool is coming to iPhone](https://appleinsider.com/articles/23/02/23/googles-magic-eraser-photo-tool-is-coming-to-iphone?utm_medium=rss)
+ - [An interview with SEC chair Gary Gensler on meeting with Sam Bankman-Fried and FTX executives in March 2022 and late 2021, how tokens are securities, and more &lpar;Ankush Khardori/New York Magazine&rpar;](http://www.techmeme.com/230223/p35#a230223p35)
+ - [You Can&#39;t Trust App Developers&#39; Privacy Claims on Google Play](https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
