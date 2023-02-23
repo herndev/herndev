@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify tests &quot;token-enabled playlists&quot;, letting some NFT holders connect their wallets and listen to curated music, starting on Android in select countries &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230223/p11#a230223p11)
- - [Analysis of the 40 most popular Android apps on the Google Play Store finds nearly 80% had discrepancies between their privacy policies and Data Safety labels &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/230223/p10#a230223p10)
- - [Memo: the European Commission bans TikTok on corporate devices and personal devices using corporate apps, and asks staff to uninstall the app by March 15 &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/230223/p9#a230223p9)<!-- TECH:END -->
+ - [Tweek 2.1 review: Relive the paper planner experience](https://appleinsider.com/articles/23/02/23/tweek-21-review-relive-the-paper-planner-experience?utm_medium=rss)
+ - [An analysis of 100+ studies finds that social media is a major cause of mental illness in teen girls, not just a tiny correlate, especially after 2012 &lpar;Jon Haidt/After Babel&rpar;](http://www.techmeme.com/230223/p14#a230223p14)
+ - [A survey of 2,199 US adults: 14% of Gen Z adults reported using TikTok to start researching a major news event, compared to 2% of all adults &lpar;Kevin Tran/Morning Consult&rpar;](http://www.techmeme.com/230223/p13#a230223p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
