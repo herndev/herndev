@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tested: Is the Snapdragon Gen 2 for Galaxy better than other Gen 2s?](https://www.androidauthority.com/snapdragon-gen-2-for-galaxy-tested-3287151/)
- - [The European Commission opens a consultation on Europe&#39;s telecoms sector, a process that could see Google, Apple, Meta, and others contribute to network costs &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230223/p19#a230223p19)
- - [In 2022, the European smartphone market hit its lowest point in a decade](https://appleinsider.com/articles/23/02/23/in-2022-the-european-smartphone-market-hit-its-lowest-point-in-a-decade?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the top 300 contributors to Amazon&#39;s IMDb globally, including one who wrote over 35K plot summaries, and the history of the crowdsourced service &lpar;Stephen Lurie/Wired&rpar;](http://www.techmeme.com/230223/p22#a230223p22)
+ - [After the US passed the industry-supported $52B CHIPS Act, chipmakers have turned cutthroat to secure federal cash, setting off a lobbying frenzy &lpar;New York Times&rpar;](http://www.techmeme.com/230223/p21#a230223p21)
+ - [Netflix cut subscriptions prices on certain tiers in more than 36 countries globally, in some cases halving the cost; Netflix operates in 190+ countries &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230223/p20#a230223p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
