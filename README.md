@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🤝 The Galaxy S23’s best new feature?](https://www.androidauthority.com/daily-authority-february-23-2023-3288564/)
- - [Vivaldi on Android will now let users play YouTube videos in the background](https://www.androidauthority.com/vivaldi-browser-android-3287804/)
- - [Samsung’s Bixby can now clone your voice to answer your calls](https://www.androidauthority.com/samsung-bixby-text-calling-3288581/)<!-- TECH:END -->
+ - [Filings: the SEC and NYDFS oppose Voyager&#39;s plan to sell assets to Binance.US for $1.02B, alleging the sale of unregistered securities, like Voyager&#39;s VGX token &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230223/p6#a230223p6)
+ - [A profile of Ivan Sutherland, who created Sketchpad, a breakthrough in interactive computer graphics for which he earned his PhD from MIT in 1963 &lpar;David C. Brock/CHM&rpar;](http://www.techmeme.com/230223/p5#a230223p5)
+ - [Google Play Store is failing to protect your data privacy, new study says](https://www.androidauthority.com/google-play-store-privacy-3288278/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
