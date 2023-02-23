@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where it go?](http://9gag.com/gag/aXnP0V2)
- - ⏩ [When you try to show off for internet clout and....](http://9gag.com/gag/adPB6X2)
- - 👉 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
+ - 💣 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
+ - ⏩ [His prey got tickled&lpar;?&rpar; &amp; turned around](http://9gag.com/gag/aeQ93BQ)
+ - 👉 [Medical Malpractice?](http://9gag.com/gag/aREBPzG)<!-- MEMES:END -->
 
 ---
 
