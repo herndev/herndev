@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [PAIGE NO](https://www.reddit.com/r/funny/comments/11a7gdz/paige_no/)
- - ⏩ [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)
- - 👉 [You are addicted](https://www.reddit.com/r/memes/comments/11a6a89/you_are_addicted/)<!-- MEMES:END -->
+ - 💣 [My Dad&#39;s Garage Organization](https://www.reddit.com/r/funny/comments/11a87nn/my_dads_garage_organization/)
+ - ⏩ [Part 13 of our ongoing series Knoxville Gas Station Enhancement Pills: The Beast](https://www.reddit.com/r/funny/comments/11a7t0b/part_13_of_our_ongoing_series_knoxville_gas/)
+ - 👉 [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)<!-- MEMES:END -->
 
 ---
 
