@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Morgue zone](http://9gag.com/gag/aNwDZzA)
- - ⏩ [You guys are getting 4/5 hours???](http://9gag.com/gag/axoyZDL)
- - 👉 [I&#39;d rage tbh](http://9gag.com/gag/a7qoyBm)<!-- MEMES:END -->
+ - 💣 [Anyone else? Bugs life , syphon filter, sheep dog n wolf, akuja , toy soldiers, apocalypse...](http://9gag.com/gag/anzzAjL)
+ - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
+ - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
 
 ---
 
