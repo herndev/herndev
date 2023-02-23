@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Mark Hamill and Bert Kreischer do drugs and kill people in The Machine](https://www.polygon.com/23612370/machine-mark-hamill-bert-kreischer-trailer-release-date)
- - [Like A Dragon: Ishin!: The Kotaku Review](https://kotaku.com/like-a-dragon-ishin-review-yakuza-samurai-xbox-pc-ps5-1850151595)
- - [Amazon Prime’s free games for March include Mega Man 11](https://www.polygon.com/23542119/amazon-prime-gaming-free-games-march-2023)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League is definitely not an Arkham Asylum sequel](https://www.polygon.com/23612420/suicide-squad-kill-the-justice-league-release-date-co-op-gameplay-trailer)
+ - [Everything announced at Sony’s February State of Play](https://www.polygon.com/23612341/sony-state-of-play-february-2023-everything-announced-trailers)
+ - [Resident Evil 4 trailer debuts new action gameplay, announces Mercenaries mode, demo](https://blog.playstation.com/2023/02/23/resident-evil-4-trailer-debuts-new-action-gameplay-announces-mercenaries-mode-demo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
