@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5’s top first-party games are cheaper than ever right now](https://www.polygon.com/deals/2023/2/23/23610532/ps5-games-sale-demons-souls-the-last-of-us-horizon)
- - [Legendary designer Shinji Mikami to leave Tango Gameworks and Xbox](https://www.pcgamer.com/legendary-designer-shinji-mikami-to-leave-tango-gameworks-and-xbox)
- - [The Last of Us is finding apocalyptic meaning where The Walking Dead couldn’t](https://www.polygon.com/23610810/last-us-joel-walking-dead-rick-differences)<!-- GAME:END -->
+ - [No Man&#39;s Sky Update Boosts Graphics, Adds Cool Stuff](https://kotaku.com/no-man-s-sky-psvr2-fractal-update-hdr-lighting-nexus-1850149675)
+ - [Valve Traps And Bans 40,000 Cheaters In Ingenious Way](https://kotaku.com/valve-steam-dota-2-cheating-honeypot-ban-client-patch-1850149606)
+ - [Baldur&#39;s Gate, one of my favourite CRPGs of all time, will be free-to-keep for Prime subs next month](https://www.pcgamer.com/baldurs-gate-one-of-my-favourite-crpgs-of-all-time-will-be-free-to-keep-for-prime-subs-next-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
