@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We adopted puppies and our 13 year old dog’s face says it all 😂](https://www.reddit.com/r/funny/comments/11a4txs/we_adopted_puppies_and_our_13_year_old_dogs_face/)
- - ⏩ [i don&#39;t think the cat understands the litter box](https://www.reddit.com/r/funny/comments/11a46uq/i_dont_think_the_cat_understands_the_litter_box/)
- - 👉 [Brendan Fraser at the BAFTA Awards](https://www.reddit.com/r/funny/comments/11a3jo5/brendan_fraser_at_the_bafta_awards/)<!-- MEMES:END -->
+ - 💣 [PAIGE NO](https://www.reddit.com/r/funny/comments/11a7gdz/paige_no/)
+ - ⏩ [Separate art from the artist](https://www.reddit.com/r/memes/comments/11a6wfd/separate_art_from_the_artist/)
+ - 👉 [You are addicted](https://www.reddit.com/r/memes/comments/11a6a89/you_are_addicted/)<!-- MEMES:END -->
 
 ---
 
