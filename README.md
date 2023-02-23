@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tests blocking news content in Search for less than 4% of Canadian users for about five weeks, a potential response to Canada&#39;s proposed Online News Act &lpar;Mickey Djuric/The Canadian Press News&rpar;](http://www.techmeme.com/230222/p35#a230222p35)
- - [ChatGPT Reworked My Dating Profile. Look What Happened     - CNET](https://www.cnet.com/culture/internet/chatgpt-rewrote-my-dating-profile-look-what-happened/#ftag=CAD590a51e)
- - [Best YouTube Channels for Free Workouts to Get Fit in 2023     - CNET](https://www.cnet.com/health/fitness/best-youtube-channels-for-free-workouts-to-get-fit-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung expands Bixby Text Call, which answers calls via text-to-speech, to English and unveils Custom Voice Creator, which clones the user&#39;s voice, in Korean &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230222/p36#a230222p36)
+ - [Google tests blocking news content in Search for fewer than 4% of Canadian users for about five weeks, a potential response to Canada&#39;s proposed Online News Act &lpar;Mickey Djuric/The Canadian Press News&rpar;](http://www.techmeme.com/230222/p35#a230222p35)
+ - [ChatGPT Reworked My Dating Profile. Look What Happened     - CNET](https://www.cnet.com/culture/internet/chatgpt-rewrote-my-dating-profile-look-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
