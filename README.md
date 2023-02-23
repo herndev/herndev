@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Hogwarts Legacy chess puzzles](https://www.pcgamer.com/hogwarts-legacy-chess-puzzle)
- - [Elden Ring Sells 20 Million Copies, Makes Excellent Point](https://kotaku.com/elden-ring-sales-figures-20-million-god-of-war-jedi-1850147702)
- - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)<!-- GAME:END -->
+ - [Quest v50 update adds poking and prodding](https://www.pcgamer.com/quest-v50-update-adds-poking-and-prodding)
+ - [Assassin&#39;s Creed Bug From 2020 Is Finally Getting Fixed](https://kotaku.com/assassins-creed-syndicate-ubisoft-ps4-ps5-bug-glitch-1850148135)
+ - [How to solve the Hogwarts Legacy chess puzzles](https://www.pcgamer.com/hogwarts-legacy-chess-puzzle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
