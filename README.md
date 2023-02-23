@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tweek 2.1 review: Relive the paper planner experience](https://appleinsider.com/articles/23/02/23/tweek-21-review-relive-the-paper-planner-experience?utm_medium=rss)
- - [An analysis of 100+ studies finds that social media is a major cause of mental illness in teen girls, not just a tiny correlate, especially after 2012 &lpar;Jon Haidt/After Babel&rpar;](http://www.techmeme.com/230223/p14#a230223p14)
- - [A survey of 2,199 US adults: 14% of Gen Z adults reported using TikTok to start researching a major news event, compared to 2% of all adults &lpar;Kevin Tran/Morning Consult&rpar;](http://www.techmeme.com/230223/p13#a230223p13)<!-- TECH:END -->
+ - [Tested: Is the Snapdragon Gen 2 for Galaxy better than other Gen 2s?](https://www.androidauthority.com/snapdragon-gen-2-for-galaxy-tested-3287151/)
+ - [The European Commission opens a consultation on Europe&#39;s telecoms sector, a process that could see Google, Apple, Meta, and others contribute to network costs &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230223/p19#a230223p19)
+ - [In 2022, the European smartphone market hit its lowest point in a decade](https://appleinsider.com/articles/23/02/23/in-2022-the-european-smartphone-market-hit-its-lowest-point-in-a-decade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
