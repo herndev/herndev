@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Bixby can now clone your voice to answer your calls](https://www.androidauthority.com/samsung-bixby-text-calling-3288581/)
- - [Internal FAQ: Google asks cloud employees and partners in its five largest US locations to share desks starting in Q2 and work from office on alternate days &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230223/p4#a230223p4)
- - [Samsung’s bypass charging feature: What is it and which phones have it?](https://www.androidauthority.com/galaxy-s23-bypass-charging-feature-more-phones-3282489/)<!-- TECH:END -->
+ - [Daily Authority: 🤝 The Galaxy S23’s best new feature?](https://www.androidauthority.com/daily-authority-february-23-2023-3288564/)
+ - [Vivaldi on Android will now let users play YouTube videos in the background](https://www.androidauthority.com/vivaldi-browser-android-3287804/)
+ - [Samsung’s Bixby can now clone your voice to answer your calls](https://www.androidauthority.com/samsung-bixby-text-calling-3288581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
