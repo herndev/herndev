@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
- - ⏩ [His prey got tickled&lpar;?&rpar; &amp; turned around](http://9gag.com/gag/aeQ93BQ)
- - 👉 [Medical Malpractice?](http://9gag.com/gag/aREBPzG)<!-- MEMES:END -->
+ - 💣 [So when was the real Putin, yesterday or today?](http://9gag.com/gag/ay2N0gr)
+ - ⏩ [Pikachu doesn&#39;t back down. F**k around. Find out](http://9gag.com/gag/aoKyEEw)
+ - 👉 [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)<!-- MEMES:END -->
 
 ---
 
