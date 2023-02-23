@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taste like the nastiest toilet water 🤢](https://www.reddit.com/r/memes/comments/119yn4f/taste_like_the_nastiest_toilet_water/)
- - ⏩ [How to read brail](http://9gag.com/gag/a6qZdpe)
- - 👉 [Come on man tf!](http://9gag.com/gag/aZDZp3X)<!-- MEMES:END -->
+ - 💣 [I would be hesitant to tell people where I worked if I worked for this company](https://www.reddit.com/r/funny/comments/11a055d/i_would_be_hesitant_to_tell_people_where_i_worked/)
+ - ⏩ [Become ungovernable.](https://www.reddit.com/r/funny/comments/119zt9w/become_ungovernable/)
+ - 👉 [My 3 year old drew me, and her mom won&#39;t stop laughing at me.](https://www.reddit.com/r/funny/comments/119z0jt/my_3_year_old_drew_me_and_her_mom_wont_stop/)<!-- MEMES:END -->
 
 ---
 
