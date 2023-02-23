@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
- - [The Big Ways The Last Of Us Show Changes The Game’s Lore](https://kotaku.com/the-last-of-us-hbo-lore-changes-tendrils-mycology-tess-1850019712)
- - [AI Comic Art Gets Copyright Revoked After Office Learns How AI Works](https://kotaku.com/ai-comic-art-copyright-midjourney-revoked-1850150702)<!-- GAME:END -->
+ - [Free Play Days – Bloodstained: Ritual of the Night, Destiny 2: The Witch Queen, and Dragon Ball: The Breakers](https://news.xbox.com/en-us/2023/02/23/free-play-days-bloodstained-ritual-of-the-night-destiny-2-the-witch-queen-and-dragon-ball-the-breakers/)
+ - [The Wreck is an Upcoming “Reality-Inspired Game”… What Does That Mean?](https://news.xbox.com/en-us/2023/02/23/the-wreck-launching-march-14-on-xbox/)
+ - [Every Steam sale and event coming in 2023 has been revealed](https://www.pcgamer.com/every-steam-sale-and-event-coming-in-2023-has-been-revealed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
