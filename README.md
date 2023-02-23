@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m so happy that the small studio is still untouched by SJW, so we can still get a cute and beautiful game character nowadays! Game name: Asterigos](http://9gag.com/gag/awZybLy)
- - ⏩ [La Liga table after Gameweek 22](http://9gag.com/gag/az2x7eb)
- - 👉 [UE &lpar;Translations im comm&rpar;](http://9gag.com/gag/az2xbOz)<!-- MEMES:END -->
+ - 💣 [Mobile wallpaper. The Darkest Knight](http://9gag.com/gag/a4oPKow)
+ - ⏩ [\u201cDo you know what this is?\u201d](http://9gag.com/gag/a9qyM9o)
+ - 👉 [Biden won&#39;t go there...](http://9gag.com/gag/aOx8q06)<!-- MEMES:END -->
 
 ---
 
