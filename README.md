@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone else? Bugs life , syphon filter, sheep dog n wolf, akuja , toy soldiers, apocalypse...](http://9gag.com/gag/anzzAjL)
- - ⏩ [Pick One And Tell Why](http://9gag.com/gag/aPggORV)
- - 👉 [Mugshot of every mass shooter of 2021.](http://9gag.com/gag/aoKym92)<!-- MEMES:END -->
+ - 💣 [Roast detectors.](http://9gag.com/gag/aPggOqP)
+ - ⏩ [Boy, that escalated quickly &lpar;0:11&rpar;](http://9gag.com/gag/aL1nPEP)
+ - 👉 [She Fell In Love Again](http://9gag.com/gag/aGEyYG0)<!-- MEMES:END -->
 
 ---
 
