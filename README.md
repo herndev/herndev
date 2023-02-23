@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok videos are using AI tools to turn Biden, Trump, and Obama into Discord goblins](https://www.polygon.com/23610381/presidents-play-minecraft-ai-voice-meme-joe-biden-trump)
- - [The Best And Worst Part Of Every Grand Theft Auto](https://kotaku.com/gta-v-online-rockstar-ranking-open-world-vice-city-1850147274)
- - [Marvel Snap Is Going Full Furry With Its New Variant Cards](https://kotaku.com/marvel-snap-card-variants-furry-update-captain-america-1850147371)<!-- GAME:END -->
+ - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)
+ - [Warhammer 40,000: Battlesector shows how a Warhammer game should be done](https://www.pcgamer.com/warhammer-40000-battlesector-shows-how-a-warhammer-game-should-be-done)
+ - [How to watch Party Down’s season 3 revival](https://www.polygon.com/23610906/party-down-revival-season-3-how-to-watch-starz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
