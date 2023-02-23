@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)
- - [Warhammer 40,000: Battlesector shows how a Warhammer game should be done](https://www.pcgamer.com/warhammer-40000-battlesector-shows-how-a-warhammer-game-should-be-done)
- - [How to watch Party Down’s season 3 revival](https://www.polygon.com/23610906/party-down-revival-season-3-how-to-watch-starz)<!-- GAME:END -->
+ - [How to solve the Hogwarts Legacy chess puzzles](https://www.pcgamer.com/hogwarts-legacy-chess-puzzle)
+ - [Elden Ring Sells 20 Million Copies, Makes Excellent Point](https://kotaku.com/elden-ring-sales-figures-20-million-god-of-war-jedi-1850147702)
+ - [Sega&#39;s Iconic Akihabara Arcade is Being Taken Over By A Rival](https://kotaku.com/sega-arcade-bandai-namco-akihabara-tokyo-tekken-pacman-1850147396)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
