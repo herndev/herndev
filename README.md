@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the 10 best Apple Watch bands for working out in 2023](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)
  - [iPhone 15 display &amp; USB-C port shown off in leaked photos](https://appleinsider.com/articles/23/02/22/iphone-15-display-usb-c-port-shown-off-in-leaked-photos?utm_medium=rss)
- - [Nvidia reports Q4 revenue down 21% YoY to $6.05B vs. $6B est., Data Center revenue up 11% YoY to $3.62B, and Q1 revenue guidance above estimates; NVDA is up 7%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230222/p32#a230222p32)
- - [Possible Mac Pro &#39;compute module&#39; discovered in iOS 16.4 code](https://appleinsider.com/articles/23/02/22/possible-mac-pro-compute-module-discovered-in-ios-164-code?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia is still making billions in Q4 2023 despite a giant drop in PC demand](https://www.theverge.com/23608886/nvidia-q4-2023-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
