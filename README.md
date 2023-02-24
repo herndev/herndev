@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I’m not normally one for conspiracy theories, but this is pretty compelling](https://www.reddit.com/r/funny/comments/11atnkt/im_not_normally_one_for_conspiracy_theories_but/)
- - ⏩ [Exits? Saw this while working at a site, made me chuckle.](https://www.reddit.com/r/funny/comments/11at9la/exits_saw_this_while_working_at_a_site_made_me/)
- - 👉 [You are going to be in so much trouble when we get home](https://www.reddit.com/r/memes/comments/11at3lt/you_are_going_to_be_in_so_much_trouble_when_we/)<!-- MEMES:END -->
+ - 💣 [Is this true about asian women?](http://9gag.com/gag/a3Z4B0v)
+ - ⏩ [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
+ - 👉 [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/a3Z4Kp8)<!-- MEMES:END -->
 
 ---
 
