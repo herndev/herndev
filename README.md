@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Ericsson plans to lay off 8,500 of its 105K+ employees, or 8% of its staff; in December, the company said it would cut costs by ~$880M by the end of 2023 &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230224/p5#a230224p5)
- - [Any iPhone can get satellite communications with this gadget](https://appleinsider.com/articles/23/02/24/any-iphone-can-get-satellite-communications-with-this-gadget?utm_medium=rss)
- - [Score Samsung&#39;s Budget-Friendly A7 Lite Tablet for Just $110 Today Only     - CNET](https://www.cnet.com/deals/score-samsungs-budget-friendly-a7-lite-tablet-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese military researchers say they are planning a network of 12,992 low Earth orbit satellites, likely to be deployed before Starlink&#39;s completion in 2027 &lpar;Stephen Chen/South China Morning Post&rpar;](http://www.techmeme.com/230224/p6#a230224p6)
+ - [Geekbench 6 benchmark results: Apple extends its performance lead](https://www.androidauthority.com/geekbench-6-benchmark-3287728/)
+ - [The Beats Fit Pro earbuds in their new bright yellow color are already $30 off](https://www.theverge.com/2023/2/24/23612159/beats-fit-pro-apple-ipad-yeedi-vac-sony-srsxb33-bluetooth-speaker-ebikes-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
