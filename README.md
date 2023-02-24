@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Warner Bros. is making ‘multiple Lord of the Rings movies’](https://www.theverge.com/2023/2/23/23612590/lord-of-the-rings-movies-warner-bros-new-line-cinema-announcement)
- - [Source: the DOJ is preparing to file an antitrust suit to block Adobe&#39;s Figma acquisition as soon as next month; Adobe says it expects to close the deal in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230223/p43#a230223p43)<!-- TECH:END -->
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Every James Bond Movie, Ranked     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked/#ftag=CAD590a51e)
+ - [A reporter says he used an AI-generated replica of a voice to get past the voice verification system of UK&#39;s Lloyds bank and accessed an account&#39;s information &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230223/p44#a230223p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
