@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)
- - [London-based Metomic, which uses AI to detect data leaks in SaaS apps like Slack and Jira, raised a $20M Series A led by Evolution Equity Partners &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230223/p47#a230223p47)
- - [The best iPhone deals: Get a free iPhone 14 Pro with trade-in](https://www.androidauthority.com/best-iphone-deals-1117011/)<!-- TECH:END -->
+ - [Motorola Razr 2023 launch date leaks, will beat Galaxy Z Flip 5 to the punch](https://www.androidauthority.com/motorola-razr-2023-launch-date-3288989/)
+ - [Experts say combining deepfake audio and video, virtual avatars, and large language models like GPT could turbocharge the work of scammers and propagandists &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230224/p1#a230224p1)
+ - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
