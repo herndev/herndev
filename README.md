@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If every franchise needs a kid, at least Star Trek: Picard does it well](https://www.polygon.com/23612257/star-trek-picard-son-spoiler)
- - [Captain Pikachu’s reporting for duty in the new Pokémon anime](https://www.polygon.com/pokemon/23613332/pokemon-anime-new-pikachu-professor-friede)
- - [Here&#39;s The New Call Of Duty Gun That Should Have Your Attention](https://kotaku.com/call-of-duty-mw2-wz2-assault-rifle-best-mods-hemlock-1850152408)<!-- GAME:END -->
+ - [The Abyss Queen Emerges in the Paladins Season 6 Update](https://news.xbox.com/en-us/2023/02/24/the-abyss-queen-emerges-in-the-paladins-season-6-update/)
+ - [Mini LED gaming monitors are a bad idea in theory and in practice they&#39;re even worse](https://www.pcgamer.com/mini-led-gaming-monitors-are-a-bad-idea-in-theory-and-in-practice-theyre-even-worse)
+ - [Ash Might Be Gone, But The New Pokémon Anime Will Still Star A New Pikachu](https://kotaku.com/pokemon-anime-captain-pikachu-ash-friede-new-series-1850154844)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
