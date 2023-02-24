@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What’s your ideal combination?](https://www.reddit.com/r/memes/comments/11aixe0/whats_your_ideal_combination/)
- - ⏩ [My friend and I spoke about his lights. He said he liked the blue color. I don&#39;t think he knows. 😏](https://www.reddit.com/r/funny/comments/11aijf3/my_friend_and_i_spoke_about_his_lights_he_said_he/)
- - 👉 [I can&#39;t believe this license plate is real](https://www.reddit.com/r/funny/comments/11ahpyi/i_cant_believe_this_license_plate_is_real/)<!-- MEMES:END -->
+ - 💣 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)
+ - ⏩ [Everywhere I look](https://www.reddit.com/r/memes/comments/11ajfzr/everywhere_i_look/)
+ - 👉 [I&#39;ve cracked the code boys](https://www.reddit.com/r/memes/comments/11ajaz6/ive_cracked_the_code_boys/)<!-- MEMES:END -->
 
 ---
 
