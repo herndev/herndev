@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ukraine’s Trains Kept Running Despite Bombs, Blackouts, and Biden](https://www.wired.com/story/how-ukraines-trains-kept-running-despite-bombs-blackouts-and-biden/)
- - [Ampler Axel e-bike review: this is the way](https://www.theverge.com/23611678/ampler-electric-bike-review-sporty-commuter-europe)
- - [Should you wait for the Google Pixel 8 or buy the Samsung Galaxy S23?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-3285685/)<!-- TECH:END -->
+ - [Your Android phone might soon be able to generate AI images in seconds](https://www.androidauthority.com/qualcomm-android-ai-image-generation-3289045/)
+ - [First Android phone with built-in two-way satellite texting is here](https://www.androidauthority.com/motorola-defy-2-cat-s-75-3289000/)
+ - [MediaTek announces satellite chip that can be used with any 4G/5G smartphone](https://www.androidauthority.com/mediatek-satellite-chip-3288741/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
