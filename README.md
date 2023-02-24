@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampler Axel e-bike review: this is the way](https://www.theverge.com/23611678/ampler-electric-bike-review-sporty-commuter-europe)
  - [Should you wait for the Google Pixel 8 or buy the Samsung Galaxy S23?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-3285685/)
- - [Motorola Razr 2023 launch date leaks, will beat Galaxy Z Flip 5 to the punch](https://www.androidauthority.com/motorola-razr-2023-launch-date-3288989/)
- - [Experts say combining deepfake audio and video, virtual avatars, and large language models like GPT could turbocharge the work of scammers and propagandists &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230224/p1#a230224p1)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Episode 6 Editing Error Spotted By Viewers     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-6-editing-error-spotted-by-viewers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
