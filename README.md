@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kentucky](https://www.reddit.com/r/funny/comments/11abwi7/kentucky/)
- - ⏩ [I’m not sure if this is meant to be enticing or deterring 🤔 🤦🏽‍♂️](https://www.reddit.com/r/funny/comments/11aaeov/im_not_sure_if_this_is_meant_to_be_enticing_or/)
- - 👉 [Suspect description not necessary](https://www.reddit.com/r/funny/comments/11aa3g0/suspect_description_not_necessary/)<!-- MEMES:END -->
+ - 💣 [Kids will be kids](https://www.reddit.com/r/funny/comments/11adh8p/kids_will_be_kids/)
+ - ⏩ [Ducttape can fix it](https://www.reddit.com/r/funny/comments/11acftf/ducttape_can_fix_it/)
+ - 👉 [Kentucky](https://www.reddit.com/r/funny/comments/11abwi7/kentucky/)<!-- MEMES:END -->
 
 ---
 
