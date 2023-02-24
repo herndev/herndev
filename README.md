@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 450: Squad Up](https://blog.playstation.com/2023/02/24/official-playstation-podcast-episode-450-squad-up/)
- - [Switch Appears To Add ‘Groomer,’ Mass Shooters To Banned Word List](https://kotaku.com/nintendo-switch-banned-word-uvalde-sandy-hook-nazi-1850157108)
- - [The secret to Elden Ring&#39;s open world success is uncopyable](https://www.pcgamer.com/the-secret-to-elden-rings-open-world-success-is-uncopyable)<!-- GAME:END -->
+ - [Overwatch 2 Hero Pick Rates Show Most Players Don’t Care About The Meta](https://kotaku.com/overwatch-2-pick-win-rates-season-3-kiriko-cassidy-tank-1850157475)
+ - [Dark and Darker will hold one more playtest in April](https://www.pcgamer.com/dark-and-darker-will-hold-one-more-playtest-in-april)
+ - [This Week on Xbox: New Game Releases, Microsoft Flight Sim Goes to Hobbiton, and More](https://news.xbox.com/en-us/2023/02/24/this-week-on-xbox-new-game-releases-microsoft-flight-sim-goes-to-hobbiton-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
