@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)
- - ⏩ [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)
- - 👉 [Guy catches Rooster sleeping and wakes him instead](https://www.reddit.com/r/funny/comments/11app4g/guy_catches_rooster_sleeping_and_wakes_him_instead/)<!-- MEMES:END -->
+ - 💣 [absolute sensory overload](https://www.reddit.com/r/memes/comments/11arhhm/absolute_sensory_overload/)
+ - ⏩ [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)
+ - 👉 [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)<!-- MEMES:END -->
 
 ---
 
