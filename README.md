@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DSLR-like Razer Kiyo Pro Ultra is the overkill king of 4K webcams](https://www.androidauthority.com/razer-kiyo-pro-ultra-review-3275721/)
- - [If both your iPhone and passcode get stolen, you&#39;re in deep trouble](https://appleinsider.com/articles/23/02/24/if-both-your-iphone-and-passcode-get-stolen-youre-in-deep-trouble?utm_medium=rss)
- - [Canada&#39;s second-largest telecom TELUS is investigating a potential data breach after a hacker puts up private GitHub repositories and employee data for sale &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230224/p9#a230224p9)<!-- TECH:END -->
+ - [Apple&#39;s new hire will help build video ad business for Apple TV+](https://appleinsider.com/articles/23/02/24/apples-new-hire-will-help-build-video-ad-business-for-apple-tv?utm_medium=rss)
+ - [Source: Apple has hired a TV and digital video advertising executive, Lauren Fry, to help build a video ad business for Apple TV+ &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230224/p11#a230224p11)
+ - [Pick up Apple&#39;s M2 Mac mini 512GB for just $699 &lpar;$100 off&rpar;](https://appleinsider.com/articles/23/02/24/pick-up-apples-m2-mac-mini-512gb-for-just-699-100-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
