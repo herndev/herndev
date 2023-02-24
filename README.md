@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Few Hours With Steam Hit Sons Of The Forest, A Terrifying Survival Horror](https://kotaku.com/sons-of-the-forest-steam-pc-survival-horror-crafting-1850156293)
- - [Overwatch Players Want The Mei Murder Grenade To Be Real](https://kotaku.com/overwatch-2-cassidy-changes-mei-skins-disabled-grenade-1850156206)
- - [Superheroes and live service is a dreadful combination](https://www.pcgamer.com/superheroes-and-live-service-is-a-dreadful-combination)<!-- GAME:END -->
+ - [Sons of the Forest starts off with a disaster — but not always the same kind](https://www.polygon.com/gaming/23613772/sons-of-the-forest-multiple-intro-helicopter-crash)
+ - [Getting The Gravity Suit In Metroid Prime Remastered Isn’t As Hard As It Seems](https://kotaku.com/how-to-get-gravity-suit-metroid-prime-remastered-switch-1850156730)
+ - [Pokémon Scarlet and Violet Pikachu 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23612895/pikachu-7-star-tera-raid-arbolivia-clodsire-lurantis-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
