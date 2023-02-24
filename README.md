@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Has a Donkey Meat Problem](https://www.wired.com/story/amazon-donkey-meat-california/)
- - [Apple MR headset may be delayed by software problems](https://appleinsider.com/articles/23/02/24/apple-mr-headset-may-be-delayed-by-software-problems?utm_medium=rss)
- - [Suppliers are backing away from Apple AR, says Kuo](https://appleinsider.com/articles/23/02/24/suppliers-are-backing-away-from-apple-ar-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [How the founders of the Buy Nothing Project, which grew via Facebook Groups of neighbors exchanging free stuff, built their own app amid member resentment &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230224/p3#a230224p3)
+ - [Tennessee man charged with using AirTag to stalk ex-wife](https://appleinsider.com/articles/23/02/24/tennessee-man-charged-with-using-airtag-to-stalk-ex-wife?utm_medium=rss)
+ - [Apple MR headset may be delayed by software problems](https://appleinsider.com/articles/23/02/24/apple-mr-headset-may-be-delayed-by-software-problems?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
