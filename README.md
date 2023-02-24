@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [John Romero honoured alongside the teacher who made world&#39;s first edutainment game](https://www.pcgamer.com/john-romero-honoured-alongside-the-teacher-who-made-worlds-first-edutainment-game)
- - [The best Alien game that isn&#39;t an Alien game is free for a week](https://www.pcgamer.com/the-best-alien-game-that-isnt-an-alien-game-is-free-for-a-week)
- - [ASRock B650E PG-ITX WiFi](https://www.pcgamer.com/asrock-b650e-pg-itx-motherboard-review)<!-- GAME:END -->
+ - [Where to find the shovel in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-shovel-location)
+ - [I&#39;m excited that BioWare is &#39;trying something new&#39; with Dragon Age: Dreadwolf, but for the love of god actually tell us something](https://www.pcgamer.com/im-excited-that-bioware-is-trying-something-new-with-dragon-age-dreadwolf-but-for-the-love-of-god-actually-tell-us-something)
+ - [That postmodern Lemmings-like where a Shiba Inu saves humanity is getting a PC version and a limited-time demo](https://www.pcgamer.com/that-postmodern-lemmings-like-where-a-shiba-inu-saves-humanity-is-getting-a-pc-version-and-a-limited-time-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
