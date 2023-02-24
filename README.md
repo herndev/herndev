@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)
- - ⏩ [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/a3Z4Kp8)
- - 👉 [US B-52 Bombers over Estonia 200km from St. Petersburg](http://9gag.com/gag/a1PmQ1Y)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
+ - ⏩ [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
+ - 👉 [Seattle I5 Union Street Exit](http://9gag.com/gag/a4oP7vQ)<!-- MEMES:END -->
 
 ---
 
