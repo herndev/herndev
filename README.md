@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #615: Friday, February 24](https://www.pcgamer.com/wordle-hint-answer-today-615-february-24)
- - [Octopath Traveler 2 complete map](https://www.polygon.com/octopath-traveler-2-guides/23612145/complete-map-areas-dungeons-guilds-locations)
- - [How to farm EXP in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23610896/farm-exp-grind-octopuff-traveler-cait-bewildering-grace-dancer)<!-- GAME:END -->
+ - [The best Alien game that isn&#39;t an Alien game is free for a week](https://www.pcgamer.com/the-best-alien-game-that-isnt-an-alien-game-is-free-for-a-week)
+ - [ASRock B650E PG-ITX WiFi](https://www.pcgamer.com/asrock-b650e-pg-itx-motherboard-review)
+ - [Intel CEO slams Arrow Lake CPU delay rumours](https://www.pcgamer.com/intel-ceo-slams-arrow-lake-cpu-delay-rumours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
