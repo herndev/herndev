@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)
- - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)
- - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Has a Donkey Meat Problem](https://www.wired.com/story/amazon-donkey-meat-california/)
+ - [Apple MR headset may be delayed by software problems](https://appleinsider.com/articles/23/02/24/apple-mr-headset-may-be-delayed-by-software-problems?utm_medium=rss)
+ - [Suppliers are backing away from Apple AR, says Kuo](https://appleinsider.com/articles/23/02/24/suppliers-are-backing-away-from-apple-ar-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
