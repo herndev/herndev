@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Hero Pick Rates Show Most Players Don’t Care About The Meta](https://kotaku.com/overwatch-2-pick-win-rates-season-3-kiriko-cassidy-tank-1850157475)
- - [Dark and Darker will hold one more playtest in April](https://www.pcgamer.com/dark-and-darker-will-hold-one-more-playtest-in-april)
- - [This Week on Xbox: New Game Releases, Microsoft Flight Sim Goes to Hobbiton, and More](https://news.xbox.com/en-us/2023/02/24/this-week-on-xbox-new-game-releases-microsoft-flight-sim-goes-to-hobbiton-and-more/)<!-- GAME:END -->
+ - [Baldur’s Gate 3 hits PS5 and PC this summer, but not Xbox](https://www.polygon.com/23613558/baldurs-gate-3-release-date-ps5-pc-xbox)
+ - [I tried the &#39;world&#39;s first crypto-backed energy drink,&#39; and it tastes like it was secreted from the blockchain](https://www.pcgamer.com/i-tried-the-worlds-first-crypto-backed-energy-drink-and-it-tastes-like-it-was-secreted-from-the-blockchain)
+ - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
