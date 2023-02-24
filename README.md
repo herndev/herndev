@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #615: Friday, February 24](https://www.pcgamer.com/wordle-hint-answer-today-615-february-24)
  - [Octopath Traveler 2 complete map](https://www.polygon.com/octopath-traveler-2-guides/23612145/complete-map-areas-dungeons-guilds-locations)
- - [How to farm EXP in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23610896/farm-exp-grind-octopuff-traveler-cait-bewildering-grace-dancer)
- - [Where to unlock secret jobs in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23608696/secret-advanced-job-locations-unlock-inventor-arcanist-armsmaster-conjurer-guild)<!-- GAME:END -->
+ - [How to farm EXP in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23610896/farm-exp-grind-octopuff-traveler-cait-bewildering-grace-dancer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
