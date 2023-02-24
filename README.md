@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calm Down](https://www.reddit.com/r/funny/comments/11ao7g3/calm_down/)
- - ⏩ [Improvise, adapt and overcome.](https://www.reddit.com/r/funny/comments/11anakm/improvise_adapt_and_overcome/)
- - 👉 [Local Council posted these around the local sports hub. Guess it is only allowed in dirty areas?](https://www.reddit.com/r/funny/comments/11am3nt/local_council_posted_these_around_the_local/)<!-- MEMES:END -->
+ - 💣 [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)
+ - ⏩ [Guy catches Rooster sleeping and wakes him instead](https://www.reddit.com/r/funny/comments/11app4g/guy_catches_rooster_sleeping_and_wakes_him_instead/)
+ - 👉 [I had no idea what the song was about, but it had monkeys, so it gotta be good.](https://www.reddit.com/r/memes/comments/11aphb2/i_had_no_idea_what_the_song_was_about_but_it_had/)<!-- MEMES:END -->
 
 ---
 
