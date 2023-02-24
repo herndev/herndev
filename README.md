@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doesn&#39;t look promissing](http://9gag.com/gag/aMEVj6X)
- - ⏩ [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
- - 👉 [Seattle I5 Union Street Exit](http://9gag.com/gag/a4oP7vQ)<!-- MEMES:END -->
+ - 💣 [Another angle.](http://9gag.com/gag/aGEy0yn)
+ - ⏩ [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
+ - 👉 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)<!-- MEMES:END -->
 
 ---
 
