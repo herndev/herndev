@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator: World Update XII Takes Us To New Zealand with Captivating Fidelity](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-new-zealand-update/)
- - [The 5 best horror movies to watch on Netflix this February](https://www.polygon.com/what-to-watch/2023/2/23/23610626/best-horror-movies-netflix-watch-february-2023)
- - [Mortal Kombat 12 is coming this year, Warner Bros. boss says](https://www.polygon.com/23612615/mortal-kombat-12-announced-2023-release-date)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Adds New Plane To Local Legend Series](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-caribou-update/)
+ - [This YouTuber is crafting an alternate Command &amp; Conquer mythos populated entirely by the weirdest guys on the internet](https://www.pcgamer.com/this-youtuber-is-crafting-an-alternate-command-and-conquer-mythos-populated-entirely-by-the-weirdest-guys-on-the-internet)
+ - [Street Fighter 6 welcomes Zangief, Cammy, and newcomer Lily to the roster](https://www.polygon.com/23273270/street-fighter-6-capcom-launch-roster-cammy-zangief-lily)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
