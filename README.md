@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [Every James Bond Movie, Ranked     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked/#ftag=CAD590a51e)
- - [A reporter says he used an AI-generated replica of a voice to get past the voice verification system of UK&#39;s Lloyds bank and accessed an account&#39;s information &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230223/p44#a230223p44)<!-- TECH:END -->
+ - [The US says the focus of its $39B chip making fund, a part of the $52B CHIPS Act, is on strengthening national security, not subsidizing struggling companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230223/p45#a230223p45)
+ - [Netflix: More People Should Watch This Mind-blowing Dystopian Sci-Fi Show     - CNET](https://www.cnet.com/culture/entertainment/netflix-more-people-should-watch-this-mind-blowing-dystopian-sci-fi-show/#ftag=CAD590a51e)
+ - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
