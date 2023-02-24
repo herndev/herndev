@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order the Resident Evil 4 remake](https://www.polygon.com/deals/23612096/resident-evil-4-remake-pc-xbox-series-x-ps5-ps4-pre-order-deluxe-collectors-edition)
- - [Genshin Impact finally gets its snake daddy, Baizhu](https://www.polygon.com/23613420/genshin-impact-baizhu-kaveh-playable-characters-hoyoverse)
- - [Elden Ring and God of War: Ragnarok win big at the DICE Awards](https://www.pcgamer.com/dice-award-winners-2022)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The Fierce Microsoft Battle That Led To One Of The Biggest Video Games Of All Time](https://kotaku.com/microsoft-games-xbox-minesweeper-tetris-bill-gates-book-1850154914)
+ - [I accidentally turned on big head mode in Sons of the Forest and now I&#39;m scarred for life](https://www.pcgamer.com/i-accidentally-turned-on-big-head-mode-in-sons-of-the-forest-and-now-im-scarred-for-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
