@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids will be kids](https://www.reddit.com/r/funny/comments/11adh8p/kids_will_be_kids/)
- - ⏩ [Ducttape can fix it](https://www.reddit.com/r/funny/comments/11acftf/ducttape_can_fix_it/)
- - 👉 [Kentucky](https://www.reddit.com/r/funny/comments/11abwi7/kentucky/)<!-- MEMES:END -->
+ - 💣 [We&#39;ve come full circle](https://www.reddit.com/r/funny/comments/11af8hl/weve_come_full_circle/)
+ - ⏩ [Out with the Monkey&#39;s Paw, in with the Clown&#39;s Nose](https://www.reddit.com/r/memes/comments/11aemy6/out_with_the_monkeys_paw_in_with_the_clowns_nose/)
+ - 👉 [Kids will be kids](https://www.reddit.com/r/funny/comments/11adh8p/kids_will_be_kids/)<!-- MEMES:END -->
 
 ---
 
