@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should you wait for the Google Pixel 8 or buy the Samsung Galaxy S23?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-3285685/)
  - [Motorola Razr 2023 launch date leaks, will beat Galaxy Z Flip 5 to the punch](https://www.androidauthority.com/motorola-razr-2023-launch-date-3288989/)
- - [Experts say combining deepfake audio and video, virtual avatars, and large language models like GPT could turbocharge the work of scammers and propagandists &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230224/p1#a230224p1)
- - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)<!-- TECH:END -->
+ - [Experts say combining deepfake audio and video, virtual avatars, and large language models like GPT could turbocharge the work of scammers and propagandists &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230224/p1#a230224p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
