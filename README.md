@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Adds New Plane To Local Legend Series](https://news.xbox.com/en-us/2023/02/23/microsoft-flight-simulator-caribou-update/)
- - [This YouTuber is crafting an alternate Command &amp; Conquer mythos populated entirely by the weirdest guys on the internet](https://www.pcgamer.com/this-youtuber-is-crafting-an-alternate-command-and-conquer-mythos-populated-entirely-by-the-weirdest-guys-on-the-internet)
- - [Street Fighter 6 welcomes Zangief, Cammy, and newcomer Lily to the roster](https://www.polygon.com/23273270/street-fighter-6-capcom-launch-roster-cammy-zangief-lily)<!-- GAME:END -->
+ - [RIP John Motson, 1945-2023](https://kotaku.com/john-motson-rip-fifa-ea-sports-commentator-bbc-football-1850152454)
+ - [Sons of the Forest: How to save your game](https://www.pcgamer.com/sons-of-the-forest-how-to-save-your-game)
+ - [The Resident Evil 4 Remake messes with the timeline and teases Mercenaries return in its latest trailer](https://www.pcgamer.com/the-resident-evil-4-remake-messes-with-the-timeline-and-teases-mercenaries-return-in-its-latest-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
