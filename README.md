@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;ve come full circle](https://www.reddit.com/r/funny/comments/11af8hl/weve_come_full_circle/)
- - ⏩ [Wait a minute…](https://www.reddit.com/r/memes/comments/11aevmf/wait_a_minute/)
- - 👉 [This has to be the worst take I&#39;ve ever seen.](https://www.reddit.com/r/memes/comments/11adnk1/this_has_to_be_the_worst_take_ive_ever_seen/)<!-- MEMES:END -->
+ - 💣 [Someone drew a penis on my car.. well kinda](https://www.reddit.com/r/funny/comments/11ahctv/someone_drew_a_penis_on_my_car_well_kinda/)
+ - ⏩ [Just in case you forgot…](https://www.reddit.com/r/memes/comments/11ag914/just_in_case_you_forgot/)
+ - 👉 [We&#39;ve come full circle](https://www.reddit.com/r/funny/comments/11af8hl/weve_come_full_circle/)<!-- MEMES:END -->
 
 ---
 
