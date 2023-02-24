@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)
- - ⏩ [Everywhere I look](https://www.reddit.com/r/memes/comments/11ajfzr/everywhere_i_look/)
- - 👉 [I&#39;ve cracked the code boys](https://www.reddit.com/r/memes/comments/11ajaz6/ive_cracked_the_code_boys/)<!-- MEMES:END -->
+ - 💣 [To whoever owns this car:](https://www.reddit.com/r/funny/comments/11akw9v/to_whoever_owns_this_car/)
+ - ⏩ [I hate the school system](https://www.reddit.com/r/memes/comments/11ajni2/i_hate_the_school_system/)
+ - 👉 [I see it.](https://www.reddit.com/r/funny/comments/11ajh0z/i_see_it/)<!-- MEMES:END -->
 
 ---
 
