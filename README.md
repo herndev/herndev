@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embracer and WB agreement means multiple new Lord of the Rings movies](https://www.pcgamer.com/embracer-and-wb-agreement-means-multiple-new-lord-of-the-rings-movies)
  - [RIP John Motson, 1945-2023](https://kotaku.com/john-motson-rip-fifa-ea-sports-commentator-bbc-football-1850152454)
- - [Sons of the Forest: How to save your game](https://www.pcgamer.com/sons-of-the-forest-how-to-save-your-game)
- - [The Resident Evil 4 Remake messes with the timeline and teases Mercenaries return in its latest trailer](https://www.pcgamer.com/the-resident-evil-4-remake-messes-with-the-timeline-and-teases-mercenaries-return-in-its-latest-trailer)<!-- GAME:END -->
+ - [Sons of the Forest: How to save your game](https://www.pcgamer.com/sons-of-the-forest-how-to-save-your-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
