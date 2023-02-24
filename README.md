@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the shovel in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-shovel-location)
- - [I&#39;m excited that BioWare is &#39;trying something new&#39; with Dragon Age: Dreadwolf, but for the love of god actually tell us something](https://www.pcgamer.com/im-excited-that-bioware-is-trying-something-new-with-dragon-age-dreadwolf-but-for-the-love-of-god-actually-tell-us-something)
- - [That postmodern Lemmings-like where a Shiba Inu saves humanity is getting a PC version and a limited-time demo](https://www.pcgamer.com/that-postmodern-lemmings-like-where-a-shiba-inu-saves-humanity-is-getting-a-pc-version-and-a-limited-time-demo)<!-- GAME:END -->
+ - [If every franchise needs a kid, at least Star Trek: Picard does it well](https://www.polygon.com/23612257/star-trek-picard-son-spoiler)
+ - [Captain Pikachu’s reporting for duty in the new Pokémon anime](https://www.polygon.com/pokemon/23613332/pokemon-anime-new-pikachu-professor-friede)
+ - [Here&#39;s The New Call Of Duty Gun That Should Have Your Attention](https://kotaku.com/call-of-duty-mw2-wz2-assault-rifle-best-mods-hemlock-1850152408)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
