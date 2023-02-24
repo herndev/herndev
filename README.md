@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new hire will help build video ad business for Apple TV+](https://appleinsider.com/articles/23/02/24/apples-new-hire-will-help-build-video-ad-business-for-apple-tv?utm_medium=rss)
- - [Source: Apple has hired a TV and digital video advertising executive, Lauren Fry, to help build a video ad business for Apple TV+ &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230224/p11#a230224p11)
- - [Pick up Apple&#39;s M2 Mac mini 512GB for just $699 &lpar;$100 off&rpar;](https://appleinsider.com/articles/23/02/24/pick-up-apples-m2-mac-mini-512gb-for-just-699-100-off?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra didn&#39;t beat the iPhone 13 Pro in camera test](https://appleinsider.com/articles/23/02/24/samsung-galaxy-s23-ultra-didnt-beat-the-iphone-13-pro-in-camera-test?utm_medium=rss)
+ - [Nimble Champ portable charger review: Small and mighty](https://appleinsider.com/articles/23/02/24/nimble-champ-portable-charger-review-small-and-mighty?utm_medium=rss)
+ - [A year after Russia&#39;s invasion, a look at the unprecedented cyberdefence effort by Ukraine and its allies against Russian wiper malware and other attacks &lpar;CyberScoop&rpar;](http://www.techmeme.com/230224/p12#a230224p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
