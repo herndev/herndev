@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I’m not sure if this is meant to be enticing or deterring 🤔 🤦🏽‍♂️](https://www.reddit.com/r/funny/comments/11aaeov/im_not_sure_if_this_is_meant_to_be_enticing_or/)
- - ⏩ [Parked at the Airport right next to my house!](https://www.reddit.com/r/funny/comments/11a9q0v/parked_at_the_airport_right_next_to_my_house/)
- - 👉 [Me: Black and green](https://www.reddit.com/r/memes/comments/11a9ibr/me_black_and_green/)<!-- MEMES:END -->
+ - 💣 [Kentucky](https://www.reddit.com/r/funny/comments/11abwi7/kentucky/)
+ - ⏩ [I’m not sure if this is meant to be enticing or deterring 🤔 🤦🏽‍♂️](https://www.reddit.com/r/funny/comments/11aaeov/im_not_sure_if_this_is_meant_to_be_enticing_or/)
+ - 👉 [Suspect description not necessary](https://www.reddit.com/r/funny/comments/11aa3g0/suspect_description_not_necessary/)<!-- MEMES:END -->
 
 ---
 
