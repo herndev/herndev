@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another angle.](http://9gag.com/gag/aGEy0yn)
- - ⏩ [It&#39;s weird](http://9gag.com/gag/aGEy0ZX)
- - 👉 [Thats why I love PC Gaming](http://9gag.com/gag/a9qyKVK)<!-- MEMES:END -->
+ - 💣 [Is that good?](http://9gag.com/gag/aDY2xnO)
+ - ⏩ [Nature can be scary](http://9gag.com/gag/aMEVjoG)
+ - 👉 [Are you not?](http://9gag.com/gag/a3Z4QBe)<!-- MEMES:END -->
 
 ---
 
