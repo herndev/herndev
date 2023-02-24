@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Abyss Queen Emerges in the Paladins Season 6 Update](https://news.xbox.com/en-us/2023/02/24/the-abyss-queen-emerges-in-the-paladins-season-6-update/)
- - [Mini LED gaming monitors are a bad idea in theory and in practice they&#39;re even worse](https://www.pcgamer.com/mini-led-gaming-monitors-are-a-bad-idea-in-theory-and-in-practice-theyre-even-worse)
- - [Ash Might Be Gone, But The New Pokémon Anime Will Still Star A New Pikachu](https://kotaku.com/pokemon-anime-captain-pikachu-ash-friede-new-series-1850154844)<!-- GAME:END -->
+ - [Where to pre-order the Resident Evil 4 remake](https://www.polygon.com/deals/23612096/resident-evil-4-remake-pc-xbox-series-x-ps5-ps4-pre-order-deluxe-collectors-edition)
+ - [Genshin Impact finally gets its snake daddy, Baizhu](https://www.polygon.com/23613420/genshin-impact-baizhu-kaveh-playable-characters-hoyoverse)
+ - [Elden Ring and God of War: Ragnarok win big at the DICE Awards](https://www.pcgamer.com/dice-award-winners-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
