@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Nintendo confirms it won’t be part of E3 2023](https://www.theverge.com/2023/2/24/23613605/nintendo-e3-not-attending-show-2023)
- - [Meta releases a new foundational LLM called Large Language Model Meta AI, or LLaMA, available in sizes ranging from 7B to 65B parameters, to help AI researchers &lpar;Meta AI&rpar;](http://www.techmeme.com/230224/p7#a230224p7)<!-- TECH:END -->
+ - [The DSLR-like Razer Kiyo Pro Ultra is the overkill king of 4K webcams](https://www.androidauthority.com/razer-kiyo-pro-ultra-review-3275721/)
+ - [If both your iPhone and passcode get stolen, you&#39;re in deep trouble](https://appleinsider.com/articles/23/02/24/if-both-your-iphone-and-passcode-get-stolen-youre-in-deep-trouble?utm_medium=rss)
+ - [Canada&#39;s second-largest telecom TELUS is investigating a potential data breach after a hacker puts up private GitHub repositories and employee data for sale &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230224/p9#a230224p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
