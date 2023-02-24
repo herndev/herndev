@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [We&#39;ve come full circle](https://www.reddit.com/r/funny/comments/11af8hl/weve_come_full_circle/)
- - ⏩ [Correcting for the “HISTROY” thing, WTF is “BLACK HISTORY ATTIRE”?! I almost wanna show up just to see this Texas &lpar;where I took this&rpar; sized disaster.](https://www.reddit.com/r/funny/comments/11af3sa/correcting_for_the_histroy_thing_wtf_is_black/)
+ - ⏩ [Wait a minute…](https://www.reddit.com/r/memes/comments/11aevmf/wait_a_minute/)
  - 👉 [This has to be the worst take I&#39;ve ever seen.](https://www.reddit.com/r/memes/comments/11adnk1/this_has_to_be_the_worst_take_ive_ever_seen/)<!-- MEMES:END -->
 
 ---
