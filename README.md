@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creed III is an anime-inspired knockout](https://www.polygon.com/reviews/23611236/creed-3-review-michael-b-jordan-jonathan-majors)
- - [Embracer and WB agreement means multiple new Lord of the Rings movies](https://www.pcgamer.com/embracer-and-wb-agreement-means-multiple-new-lord-of-the-rings-movies)
- - [RIP John Motson, 1945-2023](https://kotaku.com/john-motson-rip-fifa-ea-sports-commentator-bbc-football-1850152454)<!-- GAME:END -->
+ - [Octopath Traveler 2 complete map](https://www.polygon.com/octopath-traveler-2-guides/23612145/complete-map-areas-dungeons-guilds-locations)
+ - [How to farm EXP in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23610896/farm-exp-grind-octopuff-traveler-cait-bewildering-grace-dancer)
+ - [Where to unlock secret jobs in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23608696/secret-advanced-job-locations-unlock-inventor-arcanist-armsmaster-conjurer-guild)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
