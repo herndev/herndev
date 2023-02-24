@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The Fierce Microsoft Battle That Led To One Of The Biggest Video Games Of All Time](https://kotaku.com/microsoft-games-xbox-minesweeper-tetris-bill-gates-book-1850154914)
- - [I accidentally turned on big head mode in Sons of the Forest and now I&#39;m scarred for life](https://www.pcgamer.com/i-accidentally-turned-on-big-head-mode-in-sons-of-the-forest-and-now-im-scarred-for-life)<!-- GAME:END -->
+ - [The First Few Hours With Steam Hit Sons Of The Forest, A Terrifying Survival Horror](https://kotaku.com/sons-of-the-forest-steam-pc-survival-horror-crafting-1850156293)
+ - [Overwatch Players Want The Mei Murder Grenade To Be Real](https://kotaku.com/overwatch-2-cassidy-changes-mei-skins-disabled-grenade-1850156206)
+ - [Superheroes and live service is a dreadful combination](https://www.pcgamer.com/superheroes-and-live-service-is-a-dreadful-combination)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
