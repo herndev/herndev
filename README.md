@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Bluetooth fob turns iPhones or Android devices into two-way satellite messengers](https://www.theverge.com/2023/2/24/23613446/motorola-defy-satellite-link-bullitt-mwc-2023)
- - [OpenAI details its preparations for &quot;if AGI is successfully created&quot;, including being cautious with its models and operating as if the risks are existential &lpar;Sam Altman/OpenAI&rpar;](http://www.techmeme.com/230224/p13#a230224p13)
- - [Amazon slashes the price of Beats Fit Pro in brand-new colors](https://appleinsider.com/articles/23/02/24/amazon-slashes-the-price-of-beats-fit-pro-in-brand-new-colors?utm_medium=rss)<!-- TECH:END -->
+ - [Cocaine Bear doesn’t have a problem — it just doesn’t know when to stop](https://www.theverge.com/23612160/cocaine-bear-review-elizabeth-banks)
+ - [Out in Space Lies a Mysterious, Massive Planet That Shouldn&#39;t Exist     - CNET](https://www.cnet.com/science/space/out-in-space-lies-a-mysterious-massive-planet-that-shouldnt-exist/#ftag=CAD590a51e)
+ - [Jump Crypto recovers 120,000 ether, worth $140M, stolen during the 2022 Wormhole exploit after Oasis upgraded a DeFi contract following a UK high court order &lpar;Jon Rice/Blockworks&rpar;](http://www.techmeme.com/230224/p15#a230224p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
