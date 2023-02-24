@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese military researchers say they are planning a network of 12,992 low Earth orbit satellites, likely to be deployed before Starlink&#39;s completion in 2027 &lpar;Stephen Chen/South China Morning Post&rpar;](http://www.techmeme.com/230224/p6#a230224p6)
- - [Geekbench 6 benchmark results: Apple extends its performance lead](https://www.androidauthority.com/geekbench-6-benchmark-3287728/)
- - [The Beats Fit Pro earbuds in their new bright yellow color are already $30 off](https://www.theverge.com/2023/2/24/23612159/beats-fit-pro-apple-ipad-yeedi-vac-sony-srsxb33-bluetooth-speaker-ebikes-deal-sale)<!-- TECH:END -->
+ - [Apple shifting suppliers for Face ID component on iPhone 15 Pro](https://appleinsider.com/articles/23/02/24/apple-shifting-suppliers-for-face-id-component-on-iphone-15-pro?utm_medium=rss)
+ - [Apple may have delayed its mixed reality headset again](https://www.androidauthority.com/apple-mixed-reality-headset-3289199/)
+ - [Apple May Launch a Low-End VR Headset in 2025, Analyst Says     - CNET](https://www.cnet.com/tech/computing/apple-may-launch-a-low-end-vr-headset-in-2025-analyst-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
