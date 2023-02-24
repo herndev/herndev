@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
- - ⏩ [Another angle.](http://9gag.com/gag/aGEy0yn)
- - 👉 [Lolololol](http://9gag.com/gag/aKEG2Yj)<!-- MEMES:END -->
+ - 💣 [This wisdom tooth&#39;s root.](http://9gag.com/gag/aVbvYLw)
+ - ⏩ [Landslide in China...huge trucks look like ants](http://9gag.com/gag/a6qZNyA)
+ - 👉 [I was today years old when I found out this is not normal vision](http://9gag.com/gag/aQEzM07)<!-- MEMES:END -->
 
 ---
 
