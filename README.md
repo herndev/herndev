@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the founders of the Buy Nothing Project, which grew via Facebook Groups of neighbors exchanging free stuff, built their own app amid member resentment &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230224/p3#a230224p3)
- - [Tennessee man charged with using AirTag to stalk ex-wife](https://appleinsider.com/articles/23/02/24/tennessee-man-charged-with-using-airtag-to-stalk-ex-wife?utm_medium=rss)
- - [Apple MR headset may be delayed by software problems](https://appleinsider.com/articles/23/02/24/apple-mr-headset-may-be-delayed-by-software-problems?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 with USB-C, iOS 16.4 Features, noninvasive testing for diabetics, more](https://appleinsider.com/articles/23/02/24/iphone-15-with-usb-c-ios-164-features-noninvasive-testing-for-diabetics-more?utm_medium=rss)
+ - [How to watch Major League Soccer opening weekend for free](https://appleinsider.com/inside/iphone/tips/how-to-watch-major-league-soccer-opening-weekend-for-free?utm_medium=rss)
+ - [How the founders of the Buy Nothing Project, which grew via Facebook Groups of neighbors exchanging free stuff, built their own app amid member resentment &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230224/p3#a230224p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
