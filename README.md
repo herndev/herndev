@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sons of the Forest starts off with a disaster — but not always the same kind](https://www.polygon.com/gaming/23613772/sons-of-the-forest-multiple-intro-helicopter-crash)
- - [Getting The Gravity Suit In Metroid Prime Remastered Isn’t As Hard As It Seems](https://kotaku.com/how-to-get-gravity-suit-metroid-prime-remastered-switch-1850156730)
- - [Pokémon Scarlet and Violet Pikachu 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23612895/pikachu-7-star-tera-raid-arbolivia-clodsire-lurantis-build)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 450: Squad Up](https://blog.playstation.com/2023/02/24/official-playstation-podcast-episode-450-squad-up/)
+ - [Switch Appears To Add ‘Groomer,’ Mass Shooters To Banned Word List](https://kotaku.com/nintendo-switch-banned-word-uvalde-sandy-hook-nazi-1850157108)
+ - [The secret to Elden Ring&#39;s open world success is uncopyable](https://www.pcgamer.com/the-secret-to-elden-rings-open-world-success-is-uncopyable)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
