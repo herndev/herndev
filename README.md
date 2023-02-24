@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android phone might soon be able to generate AI images in seconds](https://www.androidauthority.com/qualcomm-android-ai-image-generation-3289045/)
- - [First Android phone with built-in two-way satellite texting is here](https://www.androidauthority.com/motorola-defy-2-cat-s-75-3289000/)
- - [MediaTek announces satellite chip that can be used with any 4G/5G smartphone](https://www.androidauthority.com/mediatek-satellite-chip-3288741/)<!-- TECH:END -->
+ - [&#39;The Problem with Jon Stewart&#39; returns for six more episodes](https://appleinsider.com/articles/23/02/23/the-problem-with-jon-stewart-returns-for-six-more-episodes?utm_medium=rss)
+ - [Many Apple online services experienced extended outage [u]](https://appleinsider.com/articles/23/02/23/nearly-every-apple-online-service-is-down-in-ongoing-global-outage?utm_medium=rss)
+ - [NLPC seeks to kick Tim Cook, Al Gore from Apple board of directors](https://appleinsider.com/articles/23/02/24/nlpc-seeks-to-kick-tim-cook-al-gore-from-apple-board-of-directors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
