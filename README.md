@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)
- - ⏩ [Guy catches Rooster sleeping and wakes him instead](https://www.reddit.com/r/funny/comments/11app4g/guy_catches_rooster_sleeping_and_wakes_him_instead/)
- - 👉 [I had no idea what the song was about, but it had monkeys, so it gotta be good.](https://www.reddit.com/r/memes/comments/11aphb2/i_had_no_idea_what_the_song_was_about_but_it_had/)<!-- MEMES:END -->
+ - 💣 [The bathroom poet strikes again](https://www.reddit.com/r/funny/comments/11aqs2l/the_bathroom_poet_strikes_again/)
+ - ⏩ [Who though this was good branding?](https://www.reddit.com/r/funny/comments/11apwk5/who_though_this_was_good_branding/)
+ - 👉 [Guy catches Rooster sleeping and wakes him instead](https://www.reddit.com/r/funny/comments/11app4g/guy_catches_rooster_sleeping_and_wakes_him_instead/)<!-- MEMES:END -->
 
 ---
 
