@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shifting suppliers for Face ID component on iPhone 15 Pro](https://appleinsider.com/articles/23/02/24/apple-shifting-suppliers-for-face-id-component-on-iphone-15-pro?utm_medium=rss)
- - [Apple may have delayed its mixed reality headset again](https://www.androidauthority.com/apple-mixed-reality-headset-3289199/)
- - [Apple May Launch a Low-End VR Headset in 2025, Analyst Says     - CNET](https://www.cnet.com/tech/computing/apple-may-launch-a-low-end-vr-headset-in-2025-analyst-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 33% on the Pixel 6a, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Nintendo confirms it won’t be part of E3 2023](https://www.theverge.com/2023/2/24/23613605/nintendo-e3-not-attending-show-2023)
+ - [Meta releases a new foundational LLM called Large Language Model Meta AI, or LLaMA, available in sizes ranging from 7B to 65B parameters, to help AI researchers &lpar;Meta AI&rpar;](http://www.techmeme.com/230224/p7#a230224p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
