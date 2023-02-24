@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that good?](http://9gag.com/gag/aDY2xnO)
- - ⏩ [Nature can be scary](http://9gag.com/gag/aMEVjoG)
- - 👉 [Are you not?](http://9gag.com/gag/a3Z4QBe)<!-- MEMES:END -->
+ - 💣 [Day 364 of the three day special military operation. The sanctions are still not working, Russian groceries still have original Coca Cola... wait a minute!](http://9gag.com/gag/avQyPDX)
+ - ⏩ [Another angle.](http://9gag.com/gag/aGEy0yn)
+ - 👉 [Lolololol](http://9gag.com/gag/aKEG2Yj)<!-- MEMES:END -->
 
 ---
 
