@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 5G modem is going to debut sooner than expected, says Qualcomm CEO](https://appleinsider.com/articles/23/02/27/apples-5g-modem-is-going-to-debut-sooner-than-expected-says-qualcomm-ceo?utm_medium=rss)
- - [Gmail 2023 review: Free features still come at a cost](https://appleinsider.com/articles/23/02/27/gmail-2023-review-free-features-still-come-at-a-cost?utm_medium=rss)
- - [Thieves are ripping AirPods Max off heads in NYC](https://appleinsider.com/articles/23/02/27/thieves-are-ripping-airpods-max-off-heads-in-nyc?utm_medium=rss)<!-- TECH:END -->
+ - [You Can Turn Your Backyard Into a Biodiversity Hotspot](https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/)
+ - [The Dream of Mini Nuclear Plants Hangs in the Balance](https://www.wired.com/story/the-dream-of-mini-nuclear-plants-hangs-in-the-balance/)
+ - [PlayStation VR 2 Review: As Impressive As It Is Expensive](https://www.wired.com/review/playstation-vr-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
