@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces new features for Android, ChromeOS, and Wear OS, including Fast Pair support for Chromebooks, Keep shortcuts, and Wear OS accessibility modes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230227/p6#a230227p6)
- - [Sources: Tencent established a team to work on &quot;HunyuanAide&quot;, a ChatGPT-style chatbot using Tencent&#39;s Hunyuan training model, following Alibaba and Baidu &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230227/p5#a230227p5)
- - [GSMA unveils Open Gateway, an initiative with 21 carriers offering open-source APIs using AWS and Azure to provide carrier billing, location, and other services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230227/p4#a230227p4)<!-- TECH:END -->
+ - [Apple&#39;s 5G modem is going to debut sooner than expected, says Qualcomm CEO](https://appleinsider.com/articles/23/02/27/apples-5g-modem-is-going-to-debut-sooner-than-expected-says-qualcomm-ceo?utm_medium=rss)
+ - [Gmail 2023 review: Free features still come at a cost](https://appleinsider.com/articles/23/02/27/gmail-2023-review-free-features-still-come-at-a-cost?utm_medium=rss)
+ - [Thieves are ripping AirPods Max off heads in NYC](https://appleinsider.com/articles/23/02/27/thieves-are-ripping-airpods-max-off-heads-in-nyc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
