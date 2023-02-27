@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arnold finally comes to TV in Netflix’s FUBAR](https://www.polygon.com/23613970/arnold-schwarzenegger-netflix-fubar)
- - [Watch the new Pokémon Presents for Pokémon Day 2023 here](https://www.polygon.com/pokemon/23608436/pokemon-day-2023-pokemon-presents-time-when-it-starts)
- - [That time Bill Gates got so obsessed with Minesweeper high scores that Microsoft staff had to conjure up one he couldn&#39;t beat](https://www.pcgamer.com/that-time-bill-gates-got-so-obsessed-with-minesweeper-high-scores-that-microsoft-staff-had-to-conjure-up-one-he-couldnt-beat)<!-- GAME:END -->
+ - [Pokémon Sleep wakes up, will be released this summer](https://www.polygon.com/pokemon/21058244/pokemon-sleep-release-date-trailer)
+ - [Everything announced at February’s Pokémon Presents](https://www.polygon.com/pokemon/23616619/pokemon-presents-day-2023-direct-announcements-all-trailers)
+ - [How to make a sled in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-sled-3d-printer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
