@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive auction has nearly every vintage Apple product up for sale](https://appleinsider.com/articles/23/02/27/massive-auction-has-nearly-every-vintage-apple-product-up-for-sale?utm_medium=rss)
- - [AMD Ryzen 9 7950X3D review: AMD&#39;s fastest gaming processor and overall excellent offering, but $110 more expensive than the impressive last-generation 7950X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230227/p15#a230227p15)
- - [Autonomous drone manufacturer Skydio, used by the Ukrainian military, raised $230M at a $2.2B valuation and plans to expand its manufacturing facility 10-fold &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230227/p14#a230227p14)<!-- TECH:END -->
+ - [Win a mystery bag from The Verge brimming with free tech](https://www.theverge.com/23601055/sweepstakes-giveaway-gear-tech-lifestyle-gadgets-mystery-bag)
+ - [Daily Deals Feb. 27: iPad mini for $299, Samsung Galaxy Tab 23% off &amp; more](https://appleinsider.com/articles/23/02/27/daily-deals-feb-27-ipad-mini-for-299-samsung-galaxy-tab-23-off-more?utm_medium=rss)
+ - [iOS 16.4 features, Sonos Era rumors, and more](https://appleinsider.com/articles/23/02/27/ios-164-features-sonos-era-rumors-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
