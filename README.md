@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla stops FSD beta installations in the US and Canada until a future OTA update addresses an NHTSA recall; owners with FSD installed may keep using it, as is &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230227/p18#a230227p18)
- - [HUAWEI’s new watch looks like a G-Shock and Pop Swatch mashup](https://www.androidauthority.com/huawei-watch-gt-cyber-3290257/)
- - [Galaxy S23 Ultra may be having problems connecting to Wi-Fi](https://www.androidauthority.com/galaxy-s23-ultra-wi-fi-3290269/)<!-- TECH:END -->
+ - [Coinbase will suspend trading for Binance USD Stablecoin on March 13, as it doesn&#39;t meet its listing standards; users will still be able to access their BUSD &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/230227/p20#a230227p20)
+ - [Samsung could be working on a Galaxy smart ring and AR glasses](https://www.androidauthority.com/samsung-smart-ring-3290342/)
+ - [No, Apple didn&#39;t pay for the iPhone to benchmark better](https://appleinsider.com/articles/23/02/27/no-apple-didnt-pay-for-the-iphone-to-benchmark-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
