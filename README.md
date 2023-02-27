@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 development lurches back to life with new tech](https://appleinsider.com/articles/23/02/27/iphone-se-4-development-lurches-back-to-life-with-new-tech?utm_medium=rss)
- - [The best Cricket Wireless deals: Get a free Samsung Galaxy A14](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Apple drops full trailer for &#39;Ted Lasso&#39; season 3](https://appleinsider.com/articles/23/02/27/apple-drops-full-trailer-for-ted-lasso-season-3?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla stops FSD beta installations in the US and Canada until a future OTA update addresses an NHTSA recall; owners with FSD installed may keep using it, as is &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230227/p18#a230227p18)
+ - [HUAWEI’s new watch looks like a G-Shock and Pop Swatch mashup](https://www.androidauthority.com/huawei-watch-gt-cyber-3290257/)
+ - [Galaxy S23 Ultra may be having problems connecting to Wi-Fi](https://www.androidauthority.com/galaxy-s23-ultra-wi-fi-3290269/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
