@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi reveals MIUI 14 global release schedule and eligible devices](https://www.androidauthority.com/miui-14-global-release-schedule-eligible-devices-3290067/)
- - [Poll: Nokia has a new logo. Do you like it?](https://www.androidauthority.com/nokia-new-logo-poll-3290058/)
- - [Weird! A YouTube video is forcing the Pixel 7/7 Pro to reboot spontaneously](https://www.androidauthority.com/pixel-7-youtube-video-reboot-bug-3290054/)<!-- TECH:END -->
+ - [OnePlus 11 Concept hands-on: Liquid cooling is neat, but does it work?](https://www.androidauthority.com/oneplus-11-concept-hands-on-3289677/)
+ - [Some crypto projects are abandoning terms like NFTs, which became associated with unsavory get-rich-quick scams, in favor of terms like &quot;digital collectibles&quot; &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/230227/p1#a230227p1)
+ - [Satellite connectivity on Android phones is about to go far and wide](https://www.androidauthority.com/qualcomm-snapdragon-satellite-android-phones-3290051/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
