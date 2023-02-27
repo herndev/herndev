@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This fluorescent gaming PC has 69 water blocks to keep it frosty](https://www.pcgamer.com/this-fluorescent-gaming-pc-has-69-water-blocks-to-keep-it-frosty)
- - [Classic Charizard, Venusaur, and Blastoise Pokémon cards return in fancy new TCG package](https://www.polygon.com/tabletop-games/23616825/pokemon-trading-card-game-classic-tcg-base-set-venusaur-charizard-blastoise)
- - [Existing owners won&#39;t get The Outer Worlds&#39; new fancypants edition for free, but there&#39;s a hefty discount](https://www.pcgamer.com/existing-owners-wont-get-the-outer-worlds-new-fancypants-edition-for-free-but-theres-a-hefty-discount)<!-- GAME:END -->
+ - [Oops, Windows 11 upgrades were offered to ineligible PCs](https://www.pcgamer.com/oops-windows-11-upgrades-were-offered-to-ineligible-pcs)
+ - [Ant-Man and the Wasp’s second-weekend box office drop continues MCU slump](https://www.polygon.com/23608645/ant-man-wasp-quantumania-3-box-office-total)
+ - [The Week In Games: Lightfall Dynasty](https://kotaku.com/february-game-releases-this-week-destiny-2-lightfall-1850163490)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
