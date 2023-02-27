@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spice, worms, and water: First details on the upcoming Dune MMO&#39;s survival systems](https://www.pcgamer.com/spice-worms-and-water-first-details-on-the-upcoming-dune-mmos-survival-systems)
- - [What a Trip: EA and 3DO founder&#39;s on the Web3 Kool-Aid](https://www.pcgamer.com/what-a-trip-ea-and-3do-founders-on-the-web3-kool-aid)
- - [Horizon Forbidden West: A Year Later, The PS5 Gem Feels Forgotten](https://kotaku.com/horizon-forbidden-west-dlc-burning-shores-one-year-ps5-1850163641)<!-- GAME:END -->
+ - [Beyond Good And Evil 2 Studio Head No Longer At Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-montpellier-assassins-creed-1850164420)
+ - [You can clone Kelvin and other NPCs in Sons of the Forest with this simple command](https://www.pcgamer.com/you-can-clone-kelvin-and-other-npcs-in-sons-of-the-forest-with-this-simple-command)
+ - [Mystery Mortal Kombat 11 Turbo Teabagging Troll Wows At Pro Tourney](https://kotaku.com/mortal-kombat-11-tournament-rips-arena-is-free-teabag-1850164387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
