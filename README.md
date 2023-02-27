@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Special trivia for today](http://9gag.com/gag/amAoor2)
+ - 💣 [Mother of all fluffiness-](http://9gag.com/gag/aDY26gx)
  - ⏩ [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)
- - 👉 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 👉 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)<!-- MEMES:END -->
 
 ---
 
