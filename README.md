@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cocaine Bear doesn’t have a problem — it just doesn’t know when to stop](https://www.theverge.com/23612160/cocaine-bear-review-elizabeth-banks)
- - [Out in Space Lies a Mysterious, Massive Planet That Shouldn&#39;t Exist     - CNET](https://www.cnet.com/science/space/out-in-space-lies-a-mysterious-massive-planet-that-shouldnt-exist/#ftag=CAD590a51e)
- - [Jump Crypto recovers 120,000 ether, worth $140M, stolen during the 2022 Wormhole exploit after Oasis upgraded a DeFi contract following a UK high court order &lpar;Jon Rice/Blockworks&rpar;](http://www.techmeme.com/230224/p15#a230224p15)<!-- TECH:END -->
+ - [How to find AirPods that have been lost or stolen](https://appleinsider.com/inside/airpods/tips/how-to-find-airpods-that-have-been-lost-or-stolen?utm_medium=rss)
+ - [Video: This Lenovo laptop doubles its screen size at the touch of a button](https://www.androidauthority.com/lenovo-rollable-screen-laptop-concept-3289909/)
+ - [Lenovo launches a slew of laptops, including one made out of food](https://www.androidauthority.com/lenovo-mwc-2023-3289847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
