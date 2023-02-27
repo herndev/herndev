@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good And Evil 2 Studio Head No Longer At Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-montpellier-assassins-creed-1850164420)
- - [You can clone Kelvin and other NPCs in Sons of the Forest with this simple command](https://www.pcgamer.com/you-can-clone-kelvin-and-other-npcs-in-sons-of-the-forest-with-this-simple-command)
- - [Mystery Mortal Kombat 11 Turbo Teabagging Troll Wows At Pro Tourney](https://kotaku.com/mortal-kombat-11-tournament-rips-arena-is-free-teabag-1850164387)<!-- GAME:END -->
+ - [Everything You Need To Know About Pokémon Scarlet’s Exclusive Paradox Suicune Raid](https://kotaku.com/pokemon-scarlet-suicune-walking-wake-best-counter-raid-1850164771)
+ - [Shooting The Pope: The Near Ruin Of A Country&#39;s Gaming Industry](https://kotaku.com/georgia-meloni-italian-pm-fps-shooter-game-pope-unreal-1850163072)
+ - [Beyond Good And Evil 2 Studio Head No Longer At Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-montpellier-assassins-creed-1850164420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
