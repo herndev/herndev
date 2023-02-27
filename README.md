@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sir, your new audi is arriving... cool i film it...](http://9gag.com/gag/aGEyzxz)
- - ⏩ [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)
- - 👉 [The opposite](http://9gag.com/gag/abvAvjv)<!-- MEMES:END -->
+ - 💣 [Jack black is funny](http://9gag.com/gag/aeQ9QnB)
+ - ⏩ [Ines Sainz](http://9gag.com/gag/agomozq)
+ - 👉 [Meanwhile in M\u00e9xico! Gave me that look because my skin tone!](http://9gag.com/gag/aYVQVVm)<!-- MEMES:END -->
 
 ---
 
