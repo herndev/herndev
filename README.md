@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
- - ⏩ [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
- - 👉 [The opposite](http://9gag.com/gag/abvAvjv)<!-- MEMES:END -->
+ - 💣 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - ⏩ [The opposite](http://9gag.com/gag/abvAvjv)
+ - 👉 [How inspirational!](http://9gag.com/gag/aBdy6eQ)<!-- MEMES:END -->
 
 ---
 
