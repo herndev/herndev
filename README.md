@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Introduces the World’s Heaviest Aircraft, the Antonov AN-225 Mriya](https://news.xbox.com/en-us/2023/02/27/microsoft-flight-simulator-antonov-an-225-mriya/)
- - [The Mandalorian season 3 trailer brings the fight to the surface of Mandalore](https://www.polygon.com/star-wars/23616840/the-mandalorian-season-3-trailer-mandalore)
- - [Pokémon Trading Card Game Classic Lets You Have A Holo Charizard Again](https://kotaku.com/pokemon-trading-card-game-classic-charizard-venasaur-1850162948)<!-- GAME:END -->
+ - [This fluorescent gaming PC has 69 water blocks to keep it frosty](https://www.pcgamer.com/this-fluorescent-gaming-pc-has-69-water-blocks-to-keep-it-frosty)
+ - [Classic Charizard, Venusaur, and Blastoise Pokémon cards return in fancy new TCG package](https://www.polygon.com/tabletop-games/23616825/pokemon-trading-card-game-classic-tcg-base-set-venusaur-charizard-blastoise)
+ - [Existing owners won&#39;t get The Outer Worlds&#39; new fancypants edition for free, but there&#39;s a hefty discount](https://www.pcgamer.com/existing-owners-wont-get-the-outer-worlds-new-fancypants-edition-for-free-but-theres-a-hefty-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
