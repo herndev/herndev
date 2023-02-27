@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Pokémon Scarlet’s Exclusive Paradox Suicune Raid](https://kotaku.com/pokemon-scarlet-suicune-walking-wake-best-counter-raid-1850164771)
- - [Shooting The Pope: The Near Ruin Of A Country&#39;s Gaming Industry](https://kotaku.com/georgia-meloni-italian-pm-fps-shooter-game-pope-unreal-1850163072)
- - [Beyond Good And Evil 2 Studio Head No Longer At Ubisoft](https://kotaku.com/beyond-good-evil-2-ubisoft-montpellier-assassins-creed-1850164420)<!-- GAME:END -->
+ - [The 9 best 4K releases in March](https://www.polygon.com/entertainment/23601562/best-bluray-4k-uhd-disc-review-march-2023)
+ - [Sons of the Forest fish traps sure seem to be broken right now](https://www.pcgamer.com/sons-of-the-forest-how-to-fish-trap)
+ - [Kirby’s Return To Dream Land Deluxe Is Great On Switch](https://kotaku.com/kirbys-return-to-dream-land-deluxe-nintendo-switch-wii-1850165274)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
