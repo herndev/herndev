@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tutorial](http://9gag.com/gag/aeQ9Dgj)
- - ⏩ [He&#39;s UwU](http://9gag.com/gag/amAovM9)
- - 👉 [She&#39;s uwu!](http://9gag.com/gag/aA0yep9)<!-- MEMES:END -->
+ - 💣 [NATO is anti Russia. Everything they say is a fabrication, a lie, or an allegation. That&#39;s what they&#39;re made for. &lpar;to promote anti-Russian alliance&rpar; When it comes to geopolitical interests, never believe the US. There is no true loyalty or friendship, only American interest first](http://9gag.com/gag/a7qoELm)
+ - ⏩ [Thought this might be a nice share](http://9gag.com/gag/a9qy1Lj)
+ - 👉 [`Hey, are you sleeping?`](http://9gag.com/gag/abvAvO9)<!-- MEMES:END -->
 
 ---
 
