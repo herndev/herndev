@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Sleep wakes up, will be released this summer](https://www.polygon.com/pokemon/21058244/pokemon-sleep-release-date-trailer)
- - [Everything announced at February’s Pokémon Presents](https://www.polygon.com/pokemon/23616619/pokemon-presents-day-2023-direct-announcements-all-trailers)
- - [How to make a sled in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-sled-3d-printer)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Introduces the World’s Heaviest Aircraft, the Antonov AN-225 Mriya](https://news.xbox.com/en-us/2023/02/27/microsoft-flight-simulator-antonov-an-225-mriya/)
+ - [The Mandalorian season 3 trailer brings the fight to the surface of Mandalore](https://www.polygon.com/star-wars/23616840/the-mandalorian-season-3-trailer-mandalore)
+ - [Pokémon Trading Card Game Classic Lets You Have A Holo Charizard Again](https://kotaku.com/pokemon-trading-card-game-classic-charizard-venasaur-1850162948)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
