@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Episode 7 Recap: Riley, &#39;80s Tunes and Mortal Kombat     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-80s-tunes-and-mortal-kombat/#ftag=CAD590a51e)
  - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 7 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-7-hit-hbo-max/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Episode 7 Recap: Riley, &#39;80s Tunes and Mortal Kombat     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-80s-tunes-and-mortal-kombat/#ftag=CAD590a51e)
  - [More People Should Watch the Very Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-very-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
