@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oops, Windows 11 upgrades were offered to ineligible PCs](https://www.pcgamer.com/oops-windows-11-upgrades-were-offered-to-ineligible-pcs)
- - [Ant-Man and the Wasp’s second-weekend box office drop continues MCU slump](https://www.polygon.com/23608645/ant-man-wasp-quantumania-3-box-office-total)
- - [The Week In Games: Lightfall Dynasty](https://kotaku.com/february-game-releases-this-week-destiny-2-lightfall-1850163490)<!-- GAME:END -->
+ - [Spice, worms, and water: First details on the upcoming Dune MMO&#39;s survival systems](https://www.pcgamer.com/spice-worms-and-water-first-details-on-the-upcoming-dune-mmos-survival-systems)
+ - [What a Trip: EA and 3DO founder&#39;s on the Web3 Kool-Aid](https://www.pcgamer.com/what-a-trip-ea-and-3do-founders-on-the-web3-kool-aid)
+ - [Horizon Forbidden West: A Year Later, The PS5 Gem Feels Forgotten](https://kotaku.com/horizon-forbidden-west-dlc-burning-shores-one-year-ps5-1850163641)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
