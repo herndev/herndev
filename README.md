@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Destiny 2 Lightfall releases in your timezone](https://www.pcgamer.com/destiny-2-lightfall-release-times-unlock)
- - [Atomic Heart devs apologise for racist cartoon clip and promise edits](https://www.pcgamer.com/atomic-heart-devs-apologise-for-racist-cartoon-clip-and-promise-edits)
- - [Wordle hint and answer #618: Monday, February 27](https://www.pcgamer.com/wordle-hint-answer-today-618-february-27)<!-- GAME:END -->
+ - [Arnold finally comes to TV in Netflix’s FUBAR](https://www.polygon.com/23613970/arnold-schwarzenegger-netflix-fubar)
+ - [Watch the new Pokémon Presents for Pokémon Day 2023 here](https://www.polygon.com/pokemon/23608436/pokemon-day-2023-pokemon-presents-time-when-it-starts)
+ - [That time Bill Gates got so obsessed with Minesweeper high scores that Microsoft staff had to conjure up one he couldn&#39;t beat](https://www.pcgamer.com/that-time-bill-gates-got-so-obsessed-with-minesweeper-high-scores-that-microsoft-staff-had-to-conjure-up-one-he-couldnt-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
