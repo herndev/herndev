@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Release Schedule: When Will Episode 7 Hit HBO Max?     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-7-hit-hbo-max/#ftag=CAD590a51e)
  - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)
- - [Netflix: The Very Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)
- - [Netflix: The Very Best Documentaries to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-documentaries-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The Very Best Fantasy Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-fantasy-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
