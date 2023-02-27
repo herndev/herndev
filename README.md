@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
- - ⏩ [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
- - 👉 [Surgically Rejected](http://9gag.com/gag/az2xx6q)<!-- MEMES:END -->
+ - 💣 [Sir, your new audi is arriving... cool i film it...](http://9gag.com/gag/aGEyzxz)
+ - ⏩ [A study on ADHD by University of Central Florida](http://9gag.com/gag/amAoPz9)
+ - 👉 [The opposite](http://9gag.com/gag/abvAvjv)<!-- MEMES:END -->
 
 ---
 
