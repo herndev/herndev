@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find AirPods that have been lost or stolen](https://appleinsider.com/inside/airpods/tips/how-to-find-airpods-that-have-been-lost-or-stolen?utm_medium=rss)
- - [Video: This Lenovo laptop doubles its screen size at the touch of a button](https://www.androidauthority.com/lenovo-rollable-screen-laptop-concept-3289909/)
- - [Lenovo launches a slew of laptops, including one made out of food](https://www.androidauthority.com/lenovo-mwc-2023-3289847/)<!-- TECH:END -->
+ - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)
+ - [Some experts, particularly those advocating for &quot;ethical AI&quot; or &quot;responsible AI&quot;, say Microsoft and OpenAI&#39;s new Bing experiment is dangerous to the public &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230226/p8#a230226p8)
+ - [How to find AirPods that have been lost or stolen](https://appleinsider.com/inside/airpods/tips/how-to-find-airpods-that-have-been-lost-or-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
