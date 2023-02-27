@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blaze cripples Apple India&#39;s Lightning cable production factory](https://appleinsider.com/articles/23/02/27/blaze-cripples-apple-indias-lightning-cable-production-factory?utm_medium=rss)
- - [Delaware-based Pagos, a payments startup with clients like Adobe, Eventbrite, GoFundMe, and Warner Bros. Discovery, raised a $34M Series A led by Arbor Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230227/p22#a230227p22)
- - [Ming-Chi Kuo: Apple has restarted work on an iPhone SE 4 with a 6.1&quot; OLED screen and an Apple-designed 5G modem; Ross Young: China&#39;s BOE will supply the display &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230227/p21#a230227p21)<!-- TECH:END -->
+ - [iPhone SE 4 Reportedly Back in Development With Apple-Built 5G Modem     - CNET](https://www.cnet.com/tech/mobile/iphone-se-4-reportedly-back-in-development-with-apple-built-5g-modem/#ftag=CAD590a51e)
+ - [Save big on Apple at Amazon: up to $500 off with these top deals](https://appleinsider.com/articles/23/02/27/save-big-on-apple-at-amazon-up-to-500-off-with-these-top-deals?utm_medium=rss)
+ - [Can you share Amazon Prime Video with others?](https://www.androidauthority.com/can-you-share-amazon-prime-video-with-others-3289447/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
