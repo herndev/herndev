@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
- - ⏩ [How inspirational!](http://9gag.com/gag/aBdy6eQ)
- - 👉 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
+ - 💣 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
+ - ⏩ [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
+ - 👉 [Sir, your new audi is arriving... cool i film it...](http://9gag.com/gag/aGEyzxz)<!-- MEMES:END -->
 
 ---
 
