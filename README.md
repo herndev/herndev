@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
- - ⏩ [The opposite](http://9gag.com/gag/abvAvjv)
- - 👉 [How inspirational!](http://9gag.com/gag/aBdy6eQ)<!-- MEMES:END -->
+ - 💣 [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
+ - ⏩ [How inspirational!](http://9gag.com/gag/aBdy6eQ)
+ - 👉 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
 
 ---
 
