@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)
- - [This hack lets you use YouTube as infinite cloud storage](https://www.pcgamer.com/this-hack-lets-you-use-youtube-as-infinite-cloud-storage)
- - [Five new Steam games you probably missed &lpar;February 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-27-2023)<!-- GAME:END -->
+ - [Microsoft&#39;s shoddy Bing AI chatbot has been in the making for at least 6 years](https://www.pcgamer.com/microsofts-shoddy-bing-ai-chatbot-has-been-in-the-making-for-at-least-6-years)
+ - [It&#39;s a platformer about a cute turtle and duck, what more do you want?](https://www.pcgamer.com/its-a-platformer-about-a-cute-turtle-and-duck-what-more-do-you-want)
+ - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
