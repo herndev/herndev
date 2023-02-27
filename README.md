@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - ⏩ [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
- - 👉 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
+ - 💣 [Home run](http://9gag.com/gag/aDY28Xx)
+ - ⏩ [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - 👉 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
 
 ---
 
