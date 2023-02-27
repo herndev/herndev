@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you use this solution for two-factor authentication](https://www.androidauthority.com/two-factor-authentication-apps-poll-results-3290090/)
- - [OnePlus has a 45W liquid cooling system accessory for smartphones](https://www.androidauthority.com/oneplus-45w-liquid-cooler-3290092/)
- - [Daily Authority: 😲 Brand new Motorola-ble](https://www.androidauthority.com/daily-authority-february-27-2023-3290065/)<!-- TECH:END -->
+ - [Google announces new features for Android, ChromeOS, and Wear OS, including Fast Pair support for Chromebooks, Keep shortcuts, and Wear OS accessibility modes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230227/p6#a230227p6)
+ - [Sources: Tencent established a team to work on &quot;HunyuanAide&quot;, a ChatGPT-style chatbot using Tencent&#39;s Hunyuan training model, following Alibaba and Baidu &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230227/p5#a230227p5)
+ - [GSMA unveils Open Gateway, an initiative with 21 carriers offering open-source APIs using AWS and Azure to provide carrier billing, location, and other services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230227/p4#a230227p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
