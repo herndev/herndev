@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack black is funny](http://9gag.com/gag/aeQ9QnB)
- - ⏩ [Ines Sainz](http://9gag.com/gag/agomozq)
- - 👉 [Meanwhile in M\u00e9xico! Gave me that look because my skin tone!](http://9gag.com/gag/aYVQVVm)<!-- MEMES:END -->
+ - 💣 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - ⏩ [16 years old Wehrmacht soldier captured by US troops, 03.04.1945](http://9gag.com/gag/a2KvvAe)
+ - 👉 [The opposite](http://9gag.com/gag/abvAvjv)<!-- MEMES:END -->
 
 ---
 
