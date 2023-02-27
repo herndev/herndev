@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
- - ⏩ [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
+ - 💣 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
+ - ⏩ [Smells like savings](http://9gag.com/gag/a2Kv899)
+ - 👉 [After the successful elimination of over 200 HIMARS, Wagner made its next daring move.](http://9gag.com/gag/aWG4v8K)<!-- MEMES:END -->
 
 ---
 
