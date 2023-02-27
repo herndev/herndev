@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the world’s largest Apple hardware collections goes up for sale](https://www.theverge.com/2023/2/27/23616536/apple-computer-gadget-retro-tech-auction)
- - [Honor’s Magic VS foldable will get a global release starting at €1599](https://www.theverge.com/2023/2/27/23616496/honor-magic-vs-foldable-international-price-release-date-specs-features-magic5-pro)
- - [The McRib Locator continues to live on after the sandwich’s farewell tour](https://www.theverge.com/23614069/mcdonalds-mcrib-locator-interview-vergecast-podcast)<!-- TECH:END -->
+ - [Massive auction has nearly every vintage Apple product up for sale](https://appleinsider.com/articles/23/02/27/massive-auction-has-nearly-every-vintage-apple-product-up-for-sale?utm_medium=rss)
+ - [AMD Ryzen 9 7950X3D review: AMD&#39;s fastest gaming processor and overall excellent offering, but $110 more expensive than the impressive last-generation 7950X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230227/p15#a230227p15)
+ - [Autonomous drone manufacturer Skydio, used by the Ukrainian military, raised $230M at a $2.2B valuation and plans to expand its manufacturing facility 10-fold &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230227/p14#a230227p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
