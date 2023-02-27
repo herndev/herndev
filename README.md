@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Home run](http://9gag.com/gag/aDY28Xx)
+ - 💣 [Well, there goes the liquor license](http://9gag.com/gag/aYVQQN2)
  - ⏩ [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - 👉 [Smells like savings](http://9gag.com/gag/a2Kv899)<!-- MEMES:END -->
+ - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 ---
 
