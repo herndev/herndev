@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Massdrop x Sennheiser HD 58X Jubilee review: Headphones for serious listening](https://appleinsider.com/articles/23/02/26/massdrop-x-sennheiser-hd-58x-jubilee-review-headphones-for-serious-listening?utm_medium=rss)
- - [Some experts, particularly those advocating for &quot;ethical AI&quot; or &quot;responsible AI&quot;, say Microsoft and OpenAI&#39;s new Bing experiment is dangerous to the public &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230226/p8#a230226p8)
- - [How to find AirPods that have been lost or stolen](https://appleinsider.com/inside/airpods/tips/how-to-find-airpods-that-have-been-lost-or-stolen?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix: The Very Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-sci-fi-movies-to-watch/#ftag=CAD590a51e)
+ - [Netflix: The Very Best Documentaries to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-documentaries-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
