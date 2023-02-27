@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
- - ⏩ [What an inconsiderate person.](http://9gag.com/gag/a7qoevq)
- - 👉 [Sir, your new audi is arriving... cool i film it...](http://9gag.com/gag/aGEyzxz)<!-- MEMES:END -->
+ - 💣 [I understand the teacher was trying to say it just in case there are students who feel they aren&#39;t the gender they are but they are freaking 4th graders and don&#39;t need to be fed that crap. My husband is furious and we are going to have a talk with the school](http://9gag.com/gag/az2xxDp)
+ - ⏩ [I&#39;m wondering something, why are all the people that complain and sh*t about &#39;cultural appropriation&#39; from Amerika?](http://9gag.com/gag/aOx842M)
+ - 👉 [Bla bla bla](http://9gag.com/gag/ap9RDWD)<!-- MEMES:END -->
 
 ---
 
