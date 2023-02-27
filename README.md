@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s shoddy Bing AI chatbot has been in the making for at least 6 years](https://www.pcgamer.com/microsofts-shoddy-bing-ai-chatbot-has-been-in-the-making-for-at-least-6-years)
- - [It&#39;s a platformer about a cute turtle and duck, what more do you want?](https://www.pcgamer.com/its-a-platformer-about-a-cute-turtle-and-duck-what-more-do-you-want)
- - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)<!-- GAME:END -->
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
+ - [The Last of Us’ Riley actor also starred in one of the year’s most fun mystery movies](https://www.polygon.com/23613884/last-us-riley-actor-storm-reid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
