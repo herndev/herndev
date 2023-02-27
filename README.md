@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
- - ⏩ [Smells like savings](http://9gag.com/gag/a2Kv899)
- - 👉 [After the successful elimination of over 200 HIMARS, Wagner made its next daring move.](http://9gag.com/gag/aWG4v8K)<!-- MEMES:END -->
+ - 💣 [Thank you some random person](http://9gag.com/gag/adPBnjj)
+ - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 👉 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)<!-- MEMES:END -->
 
 ---
 
