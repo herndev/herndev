@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches nine new Android features at Mobile World Congress](https://www.androidauthority.com/new-android-features-mwc-2023-3289623/)
- - [Google Chrome’s improved page zoom should help make the mobile web more accessible](https://www.theverge.com/2023/2/27/23615602/google-chrome-page-zoom-android-accessibility)
- - [Google Keep is getting a much more capable Android widget](https://www.theverge.com/2023/2/27/23614281/google-keep-single-note-widget-checklist-interactive)<!-- TECH:END -->
+ - [You told us: Most of you use this solution for two-factor authentication](https://www.androidauthority.com/two-factor-authentication-apps-poll-results-3290090/)
+ - [OnePlus has a 45W liquid cooling system accessory for smartphones](https://www.androidauthority.com/oneplus-45w-liquid-cooler-3290092/)
+ - [Daily Authority: 😲 Brand new Motorola-ble](https://www.androidauthority.com/daily-authority-february-27-2023-3290065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
