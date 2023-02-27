@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NATO is anti Russia. Everything they say is a fabrication, a lie, or an allegation. That&#39;s what they&#39;re made for. &lpar;to promote anti-Russian alliance&rpar; When it comes to geopolitical interests, never believe the US. There is no true loyalty or friendship, only American interest first](http://9gag.com/gag/a7qoELm)
- - ⏩ [Thought this might be a nice share](http://9gag.com/gag/a9qy1Lj)
- - 👉 [`Hey, are you sleeping?`](http://9gag.com/gag/abvAvO9)<!-- MEMES:END -->
+ - 💣 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
+ - ⏩ [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
+ - 👉 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
 
 ---
 
