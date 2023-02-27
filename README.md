@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you some random person](http://9gag.com/gag/adPBnjj)
+ - 💣 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
  - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 👉 [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)<!-- MEMES:END -->
+ - 👉 [Zelenskyy puts on an earpiece when told the question will be in Russian. The woman reporter thensays that the next question will be in Ukrainian and he removes the translator earpiece and says, `wonderful.` Trolling at the highest level. fyi-he is native Russian speaker or was.](http://9gag.com/gag/aWG4LVd)<!-- MEMES:END -->
 
 ---
 
