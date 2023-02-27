@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White House gives federal agencies 30 days to ensure they do not have TikTok installed on government devices and adjust IT contracts with vendors accordingly &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230227/p25#a230227p25)
  - [The best Visible deals: Get a $200 gift card with the Galaxy S23](https://www.androidauthority.com/best-visible-deals-1096134/)
- - [Mark Zuckerberg says Meta now has a team building AI tools and ‘personas’](https://www.theverge.com/2023/2/27/23617477/mark-zuckerberg-meta-ai-tools-personas)
  - [Zoom reports Q4 revenue up 4% YoY to $1.12B, vs. $1.1B est., Enterprise revenue up 18% YoY to $636.1M, Enterprise customers up 12% YoY to ~213K; ZM jumps 6%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230227/p24#a230227p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
