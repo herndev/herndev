@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #618: Monday, February 27](https://www.pcgamer.com/wordle-hint-answer-today-618-february-27)
  - [Atomic Heart mods are here](https://www.pcgamer.com/atomic-heart-mods-are-here)
- - [The Last of Us’ biggest Easter egg is its smallest shot](https://www.polygon.com/23613832/last-us-episode-7-easter-egg-dawn-wolf-part-2-twilight)
- - [The Last Of Us Episode 7 Recap: Just Like Heaven](https://kotaku.com/last-of-us-tlou-s1e7-left-behind-ellie-riley-hbo-mall-1850161819)<!-- GAME:END -->
+ - [The Last of Us’ biggest Easter egg is its smallest shot](https://www.polygon.com/23613832/last-us-episode-7-easter-egg-dawn-wolf-part-2-twilight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
