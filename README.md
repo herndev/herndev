@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Win a mystery bag from The Verge brimming with free tech](https://www.theverge.com/23601055/sweepstakes-giveaway-gear-tech-lifestyle-gadgets-mystery-bag)
- - [Daily Deals Feb. 27: iPad mini for $299, Samsung Galaxy Tab 23% off &amp; more](https://appleinsider.com/articles/23/02/27/daily-deals-feb-27-ipad-mini-for-299-samsung-galaxy-tab-23-off-more?utm_medium=rss)
- - [iOS 16.4 features, Sonos Era rumors, and more](https://appleinsider.com/articles/23/02/27/ios-164-features-sonos-era-rumors-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone SE 4 development lurches back to life with new tech](https://appleinsider.com/articles/23/02/27/iphone-se-4-development-lurches-back-to-life-with-new-tech?utm_medium=rss)
+ - [The best Cricket Wireless deals: Get a free Samsung Galaxy A14](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [Apple drops full trailer for &#39;Ted Lasso&#39; season 3](https://appleinsider.com/articles/23/02/27/apple-drops-full-trailer-for-ted-lasso-season-3?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
