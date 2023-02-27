@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase will suspend trading for Binance USD Stablecoin on March 13, as it doesn&#39;t meet its listing standards; users will still be able to access their BUSD &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/230227/p20#a230227p20)
- - [Samsung could be working on a Galaxy smart ring and AR glasses](https://www.androidauthority.com/samsung-smart-ring-3290342/)
- - [No, Apple didn&#39;t pay for the iPhone to benchmark better](https://appleinsider.com/articles/23/02/27/no-apple-didnt-pay-for-the-iphone-to-benchmark-better?utm_medium=rss)<!-- TECH:END -->
+ - [Blaze cripples Apple India&#39;s Lightning cable production factory](https://appleinsider.com/articles/23/02/27/blaze-cripples-apple-indias-lightning-cable-production-factory?utm_medium=rss)
+ - [Delaware-based Pagos, a payments startup with clients like Adobe, Eventbrite, GoFundMe, and Warner Bros. Discovery, raised a $34M Series A led by Arbor Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230227/p22#a230227p22)
+ - [Ming-Chi Kuo: Apple has restarted work on an iPhone SE 4 with a 6.1&quot; OLED screen and an Apple-designed 5G modem; Ross Young: China&#39;s BOE will supply the display &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230227/p21#a230227p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
