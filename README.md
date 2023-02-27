@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Only FromSoftware could&#39;ve spun Elden Ring&#39;s broken quests into a post-launch treasure hunt](https://www.pcgamer.com/only-fromsoftware-couldve-spun-elden-rings-broken-quests-into-a-post-launch-treasure-hunt)
- - [Steam&#39;s &lpar;Formerly&rpar; &#39;Most Hyped&#39; Zombie Game Is In The Weirdest Legal Battle](https://kotaku.com/the-day-before-steam-zombie-vaporware-trademark-name-pc-1850161449)
- - [Rough PC performance can&#39;t keep me from loving Wo Long&#39;s Wuxia action](https://www.pcgamer.com/rough-pc-performance-cant-keep-me-from-loving-wo-longs-wuxia-action)<!-- GAME:END -->
+ - [Get stuck in the ice and struggle to survive in this story-rich management game](https://www.pcgamer.com/get-stuck-in-the-ice-and-struggle-to-survive-in-this-story-rich-management-game)
+ - [This hack lets you use YouTube as infinite cloud storage](https://www.pcgamer.com/this-hack-lets-you-use-youtube-as-infinite-cloud-storage)
+ - [Five new Steam games you probably missed &lpar;February 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-february-27-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
