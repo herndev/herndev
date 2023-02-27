@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 hits PS5 and PC this summer, but not Xbox](https://www.polygon.com/23613558/baldurs-gate-3-release-date-ps5-pc-xbox)
- - [I tried the &#39;world&#39;s first crypto-backed energy drink,&#39; and it tastes like it was secreted from the blockchain](https://www.pcgamer.com/i-tried-the-worlds-first-crypto-backed-energy-drink-and-it-tastes-like-it-was-secreted-from-the-blockchain)
- - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)<!-- GAME:END -->
+ - [Only FromSoftware could&#39;ve spun Elden Ring&#39;s broken quests into a post-launch treasure hunt](https://www.pcgamer.com/only-fromsoftware-couldve-spun-elden-rings-broken-quests-into-a-post-launch-treasure-hunt)
+ - [Steam&#39;s &lpar;Formerly&rpar; &#39;Most Hyped&#39; Zombie Game Is In The Weirdest Legal Battle](https://kotaku.com/the-day-before-steam-zombie-vaporware-trademark-name-pc-1850161449)
+ - [Rough PC performance can&#39;t keep me from loving Wo Long&#39;s Wuxia action](https://www.pcgamer.com/rough-pc-performance-cant-keep-me-from-loving-wo-longs-wuxia-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
