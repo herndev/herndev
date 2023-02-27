@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
- - ⏩ [And society be like: be a man](http://9gag.com/gag/a2KvMYp)
- - 👉 [If you know you know](http://9gag.com/gag/a9qy6K1)<!-- MEMES:END -->
+ - 💣 [Special trivia for today](http://9gag.com/gag/amAoor2)
+ - ⏩ [This is as close to a miracle as I&#39;ll ever see.](http://9gag.com/gag/aKEG7Mj)
+ - 👉 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
 
 ---
 
