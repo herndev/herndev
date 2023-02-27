@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This wisdom tooth&#39;s root.](http://9gag.com/gag/aVbvYLw)
- - ⏩ [Landslide in China...huge trucks look like ants](http://9gag.com/gag/a6qZNyA)
- - 👉 [I was today years old when I found out this is not normal vision](http://9gag.com/gag/aQEzM07)<!-- MEMES:END -->
+ - 💣 [Tutorial](http://9gag.com/gag/aeQ9Dgj)
+ - ⏩ [He&#39;s UwU](http://9gag.com/gag/amAovM9)
+ - 👉 [She&#39;s uwu!](http://9gag.com/gag/aA0yep9)<!-- MEMES:END -->
 
 ---
 
