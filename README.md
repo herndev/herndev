@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 Concept hands-on: Liquid cooling is neat, but does it work?](https://www.androidauthority.com/oneplus-11-concept-hands-on-3289677/)
- - [Some crypto projects are abandoning terms like NFTs, which became associated with unsavory get-rich-quick scams, in favor of terms like &quot;digital collectibles&quot; &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/230227/p1#a230227p1)
- - [Satellite connectivity on Android phones is about to go far and wide](https://www.androidauthority.com/qualcomm-snapdragon-satellite-android-phones-3290051/)<!-- TECH:END -->
+ - [Google launches nine new Android features at Mobile World Congress](https://www.androidauthority.com/new-android-features-mwc-2023-3289623/)
+ - [Google Chrome’s improved page zoom should help make the mobile web more accessible](https://www.theverge.com/2023/2/27/23615602/google-chrome-page-zoom-android-accessibility)
+ - [Google Keep is getting a much more capable Android widget](https://www.theverge.com/2023/2/27/23614281/google-keep-single-note-widget-checklist-interactive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
