@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smells like savings](http://9gag.com/gag/a2Kv899)
- - ⏩ [Thank you some random person](http://9gag.com/gag/adPBnjj)
- - 👉 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 💣 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
+ - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
 
