@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 💣 [Beer is a sin](http://9gag.com/gag/aPgAeoq)
+ - ⏩ [Take your time](http://9gag.com/gag/az2xRXK)
+ - 👉 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
 
 ---
 
