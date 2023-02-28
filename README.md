@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)
  - [Honor is the next brand to offer a longer software update policy](https://www.androidauthority.com/honor-update-policy-2023-3289986/)
- - [AI pioneer and UCSD professor Terry Sejnowski argues that AI chatbots are often prodded into producing strange results by the people who are using them &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230228/p2#a230228p2)
- - [You can now talk to ChatGPT on Snapchat, but don’t reveal any secrets](https://www.androidauthority.com/snapchat-chatgpt-my-ai-3290653/)<!-- TECH:END -->
+ - [AI pioneer and UCSD professor Terry Sejnowski argues that AI chatbots are often prodded into producing strange results by the people who are using them &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230228/p2#a230228p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
