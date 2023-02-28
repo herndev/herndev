@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)
- - [Elden Ring Is Getting An Expansion That Might Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
- - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)<!-- GAME:END -->
+ - [New Games with Gold for March 2023](https://news.xbox.com/en-us/2023/02/28/new-games-with-gold-for-march-2023/)
+ - [Elden Ring&#39;s creator says he&#39;s been checking out Escape from Tarkov for a little multiplayer inspiration](https://www.pcgamer.com/elden-rings-creator-says-hes-been-checking-out-escape-from-tarkov-for-a-little-multiplayer-inspiration)
+ - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
