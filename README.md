@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)
- - ⏩ [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
- - 👉 [Chat bot](http://9gag.com/gag/a9qy896)<!-- MEMES:END -->
+ - 💣 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
+ - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - 👉 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
 
 ---
 
