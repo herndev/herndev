@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is Final Fantasy 16 an action game? Its creators explain](https://www.polygon.com/23618355/final-fantasy-16-action-game-rpg-naoki-yoshida)
- - [Six Anime Characters With Permanent Invitations To &#39;The Cookout&#39;](https://kotaku.com/black-history-month-anime-piccolo-dbz-naruto-bleach-1850164884)
- - [Arctic management sim The Pale Beyond is as messy as it is thrilling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)<!-- GAME:END -->
+ - [Worlds Beyond Number is the next big breakout actual play podcast](https://www.polygon.com/23613815/worlds-beyond-number-dnd-podcast-actual-play-interview-iyengar-brennan-lee-mulligan-ishii-wilson)
+ - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)
+ - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
