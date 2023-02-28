@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worlds Beyond Number is the next big breakout actual play podcast](https://www.polygon.com/23613815/worlds-beyond-number-dnd-podcast-actual-play-interview-iyengar-brennan-lee-mulligan-ishii-wilson)
- - [Where to find Atomic Heart’s testing grounds](https://www.polygon.com/guides/23614054/atomic-heart-testing-grounds-polygons-terminals-weapon-blueprints-facility-3826)
- - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)<!-- GAME:END -->
+ - [Great New Games Spotlight: Jump into Spring with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/02/28/great-new-games-spotlight-2023/)
+ - [Pokémon Go ‘Chasing Legends’ Special Research Tasks, choose a path Cacnea, Gulpin or Surskit rewards](https://www.polygon.com/pokemon-go-guide/23613860/chasing-legends-research-choose-a-path-cacnea-gulpin-surskit)
+ - [Hitman Devs Announce An Online Fantasy RPG](https://kotaku.com/hitman-studio-ioi-next-game-online-fantasy-rpg-007-1850168214)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
