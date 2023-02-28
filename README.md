@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [You have arrived at your destination](http://9gag.com/gag/aBdyP1O)
  - ⏩ [Smells like savings](http://9gag.com/gag/a2Kv899)
- - 👉 [Chad J.K](http://9gag.com/gag/aNwDDMK)<!-- MEMES:END -->
+ - 👉 [And they do](http://9gag.com/gag/adPBQbd)<!-- MEMES:END -->
 
 ---
 
