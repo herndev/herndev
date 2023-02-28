@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [STALKER board game announced, from the team behind Nemesis, ISS Vanguard](https://www.polygon.com/23616977/stalker-board-game-announcement-awaken-realms-first-details)
- - [You Need To See This Haunting Ring Cosplay In Seven Days Or Else](https://kotaku.com/the-ring-atl-comic-con-best-cosplay-scary-crt-1850168420)
- - [Destiny 2: Lightfall and Season of Defiance are here](https://news.xbox.com/en-us/2023/02/28/destiny-2-lightfall/)<!-- GAME:END -->
+ - [The Peter Pan &amp; Wendy trailer doesn’t have music but might have magic](https://www.polygon.com/23618842/peter-pan-wendy-release-date-trailer-is-pretty)
+ - [Destiny 2 Lightfall release time, and when Destiny 2 servers will be back online](https://www.polygon.com/destiny-2-guide-walkthrough/2023/2/27/23616487/lightfall-release-time-pt-et-gmt-cet-servers-back-online-preload)
+ - [Breadwinner is kind of like a Tamagotchi, but for sourdough starter](https://www.polygon.com/23613338/breadwinner-bread-sourdough-starter-tracker-gadget)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
