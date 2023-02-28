@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Netflix Must-Watch Reality Show Is Now Steeped In Assault Allegations](https://kotaku.com/netflix-physical-100-show-allegation-assault-squid-game-1850164031)
- - [Where to find the armsmaster rusty weapons in Octopath Traveler 2](https://www.polygon.com/octopath-traveler-2-guides/23617445/rusty-weapons-location-armsmaster-skills-unlock-staff-bow-dagger-polearm-sword-axe)
- - [How to get the rope gun in Sons of the Forest](https://www.polygon.com/guides/23616848/sons-of-the-forest-where-to-find-rope-gun-location-zipline)<!-- GAME:END -->
+ - [A chatbot with roots in a dead artist&#39;s memorial became an erotic roleplay phenomenon, now the sex is gone and users are rioting](https://www.pcgamer.com/a-chatbot-with-roots-in-a-dead-artists-memorial-became-an-erotic-roleplay-phenomenon-now-the-sex-is-gone-and-users-are-rioting)
+ - [&#39;Too early access for early access&#39;—players react to Kerbal Space Program 2 launch](https://www.pcgamer.com/too-early-access-for-early-accessplayers-react-to-kerbal-space-program-2-launch)
+ - [Survival MMO Dune: Awakening takes place in an &#39;alternate&#39; timeline](https://www.pcgamer.com/survival-mmo-dune-awakening-takes-place-in-an-alternate-timeline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
