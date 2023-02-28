@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)
- - [Honor is the next brand to offer a longer software update policy](https://www.androidauthority.com/honor-update-policy-2023-3289986/)
- - [AI pioneer and UCSD professor Terry Sejnowski argues that AI chatbots are often prodded into producing strange results by the people who are using them &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230228/p2#a230228p2)<!-- TECH:END -->
+ - [Sources: the EU narrows its long-running Apple antitrust investigation, focusing on preventing apps from telling customers about other subscription options &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230228/p4#a230228p4)
+ - [Research: PC-based GPU shipments fell 38% YoY to 64.2M in Q4 2022, with a 24% fall in desktops and 43% in notebooks, the biggest drop since a 2011 peak &lpar;Jon Peddie Research&rpar;](http://www.techmeme.com/230228/p3#a230228p3)
+ - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
