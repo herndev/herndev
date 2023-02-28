@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s new e-scooter promises an Ultra comfortable ride](https://www.androidauthority.com/xiaomi-electric-scooter-4-pro-3290243/)
- - [Pixelmator Pro improves video features, adds green screen removal](https://appleinsider.com/articles/23/02/28/pixelmator-pro-improves-video-features-adds-green-screen-removal?utm_medium=rss)
- - [Ahead of the Oscars, AMC Promises Movie Theater Popcorn at Home     - CNET](https://www.cnet.com/culture/entertainment/ahead-of-the-oscars-amc-promises-movie-theater-popcorn-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chrome tweaked to improve memory use &amp; battery life on MacBook](https://appleinsider.com/articles/23/02/28/chrome-tweaked-to-improve-memory-use-battery-life-on-macbook?utm_medium=rss)
+ - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)
+ - [Chinese media warned Elon Musk, effectively saying don&#39;t bite the hand that feeds you, after he replied to a tweet implying COVID-19 spread via a Wuhan lab leak &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230228/p17#a230228p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
