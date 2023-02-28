@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is nothing...](http://9gag.com/gag/axoyO1p)
- - ⏩ [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
+ - 💣 [And they do](http://9gag.com/gag/adPBQbd)
+ - ⏩ [Amsterdam](http://9gag.com/gag/aVbvmM8)
  - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 ---
