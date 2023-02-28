@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights At Freddy’s Movie Set Spotted In The Wild](https://kotaku.com/five-nights-at-freddys-fnaf-movie-set-blumhouse-m3gan-1850169388)
- - [How to get water and a water flask in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-water-collector-flask)
- - [Elden Ring Is Getting An Expansion That May Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)<!-- GAME:END -->
+ - [Dead Ringers on Amazon looks even more horrifying than the 1988 original](https://www.polygon.com/23619211/dead-ringers-rachel-weisz-teaser-trailer-release-date)
+ - [Where to find the flashlight in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-flashlight)
+ - [Heck yeah, Sons of the Forest update adds weapon hotkeys](https://www.pcgamer.com/heck-yeah-sons-of-the-forest-update-adds-weapon-hotkeys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
