@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
- - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - 👉 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)<!-- MEMES:END -->
+ - 💣 [It should\u2026](http://9gag.com/gag/avQyxRZ)
+ - ⏩ [Hopefully in 18 years OnlyFans won&#39;t be a thing anymore](http://9gag.com/gag/aA0yMW9)
+ - 👉 [Oblivious ,both of them.](http://9gag.com/gag/aYVQqrm)<!-- MEMES:END -->
 
 ---
 
