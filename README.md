@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
- - ⏩ [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)
- - 👉 [Chyna.](http://9gag.com/gag/amAoVo4)<!-- MEMES:END -->
+ - 💣 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
+ - ⏩ [Chyna.](http://9gag.com/gag/amAoVo4)
+ - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
 
