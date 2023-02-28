@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temporal, which offers an open-source microservices orchestration service, raised a $75M &quot;Series B-Prime&quot; at a $1.5B+ valuation, following a $103M Series B &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230228/p22#a230228p22)
- - [Memo: Dish CEO Erik Carlson tells staff that data was stolen in a cyberattack that has kept its systems down for days; DISH falls over 7% in intraday trading &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230228/p21#a230228p21)
- - [Tel Aviv-based Entitle, which helps businesses automate permissions for cloud resources for developers, raised a $15M seed led by Glilot Capital Partners &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230228/p20#a230228p20)<!-- TECH:END -->
+ - [US-based MKS Instruments, a little-known but key chip equipment supplier, says a &quot;ransomware event&quot; on &quot;production-related systems&quot; will cause delays into March &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p23#a230228p23)
+ - [How to play &#39;Destiny 2 - Lightfall&#39; on your iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/tips/how-to-play-destiny-2---lightfall-on-your-iphone-ipad-or-mac?utm_medium=rss)
+ - [Apple seeds second developer beta of macOS Ventura 13.3](https://appleinsider.com/articles/23/02/28/apple-seeds-second-developer-beta-of-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
