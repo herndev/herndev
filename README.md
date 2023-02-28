@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
- - ⏩ [Beer is a sin](http://9gag.com/gag/aPgAeoq)
- - 👉 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
+ - 💣 [Legitimate criticism](http://9gag.com/gag/aNwDByb)
+ - ⏩ [Hmm](http://9gag.com/gag/a8q72eY)
+ - 👉 [Let me fix this old post](http://9gag.com/gag/a4oP20v)<!-- MEMES:END -->
 
 ---
 
