@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome tweaked to improve memory use &amp; battery life on MacBook](https://appleinsider.com/articles/23/02/28/chrome-tweaked-to-improve-memory-use-battery-life-on-macbook?utm_medium=rss)
- - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)
- - [Chinese media warned Elon Musk, effectively saying don&#39;t bite the hand that feeds you, after he replied to a tweet implying COVID-19 spread via a Wuhan lab leak &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230228/p17#a230228p17)<!-- TECH:END -->
+ - [Temporal, which offers an open-source microservices orchestration service, raised a $75M &quot;Series B-Prime&quot; at a $1.5B+ valuation, following a $103M Series B &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230228/p22#a230228p22)
+ - [Memo: Dish CEO Erik Carlson tells staff that data was stolen in a cyberattack that has kept its systems down for days; DISH falls over 7% in intraday trading &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230228/p21#a230228p21)
+ - [Tel Aviv-based Entitle, which helps businesses automate permissions for cloud resources for developers, raised a $15M seed led by Glilot Capital Partners &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230228/p20#a230228p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
