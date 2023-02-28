@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These new wooden panels give Corsair&#39;s PC cases a retro makeover](https://www.pcgamer.com/these-new-wooden-panels-give-corsairs-pc-cases-a-retro-makeover)
  - [One of Korea&#39;s best indie studios released a free-to-play game about a bus ride to hell](https://www.pcgamer.com/one-of-koreas-best-indie-studios-released-a-free-to-play-game-about-a-bus-ride-to-hell)
- - [Diablo Was On The Catwalk At Milan Fashion Week](https://kotaku.com/diablo-blizzard-milan-fashion-week-runway-catwalk-pc-1850166228)
- - [Oldest Known Miyamoto Interview Reveals Nintendo Staff Loved…Donkey Kong Jr. Math](https://kotaku.com/miyamoto-interview-mario-zelda-endo-namco-xevious-1850166035)<!-- GAME:END -->
+ - [Diablo Was On The Catwalk At Milan Fashion Week](https://kotaku.com/diablo-blizzard-milan-fashion-week-runway-catwalk-pc-1850166228)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
