@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - ⏩ [And they do](http://9gag.com/gag/adPBQbd)
+ - 💣 [This is nothing...](http://9gag.com/gag/axoyO1p)
+ - ⏩ [We no longer need those buildings..](http://9gag.com/gag/amAo1qy)
  - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 ---
