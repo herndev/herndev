@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These new wooden panels give Corsair&#39;s PC cases a retro makeover](https://www.pcgamer.com/these-new-wooden-panels-give-corsairs-pc-cases-a-retro-makeover)
- - [One of Korea&#39;s best indie studios released a free-to-play game about a bus ride to hell](https://www.pcgamer.com/one-of-koreas-best-indie-studios-released-a-free-to-play-game-about-a-bus-ride-to-hell)
- - [Diablo Was On The Catwalk At Milan Fashion Week](https://kotaku.com/diablo-blizzard-milan-fashion-week-runway-catwalk-pc-1850166228)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/27/this-weeks-deals-with-gold-and-spotlight-sale-264/)
+ - [Gen5 SSDs listings finally show up on Amazon and Newegg](https://www.pcgamer.com/gen5-ssds-listings-finally-show-up-on-amazon-and-newegg)
+ - [These new wooden panels give Corsair&#39;s PC cases a retro makeover](https://www.pcgamer.com/these-new-wooden-panels-give-corsairs-pc-cases-a-retro-makeover)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
