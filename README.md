@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slowly to the bush he goes](http://9gag.com/gag/az2xx7m)
- - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 💣 [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - ⏩ [Speechless #15](http://9gag.com/gag/ajVPBqQ)
+ - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
 
 ---
 
