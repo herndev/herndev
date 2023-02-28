@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
- - ⏩ [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
+ - 💣 [Chad J.K](http://9gag.com/gag/aNwDDMK)
+ - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
  - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
