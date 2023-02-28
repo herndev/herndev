@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beer is a sin](http://9gag.com/gag/aPgAeoq)
- - ⏩ [Take your time](http://9gag.com/gag/az2xRXK)
- - 👉 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
+ - 💣 [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
+ - ⏩ [Beer is a sin](http://9gag.com/gag/aPgAeoq)
+ - 👉 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
 
 ---
 
