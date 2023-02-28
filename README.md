@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Peter Pan &amp; Wendy trailer doesn’t have music but might have magic](https://www.polygon.com/23618842/peter-pan-wendy-release-date-trailer-is-pretty)
- - [Destiny 2 Lightfall release time, and when Destiny 2 servers will be back online](https://www.polygon.com/destiny-2-guide-walkthrough/2023/2/27/23616487/lightfall-release-time-pt-et-gmt-cet-servers-back-online-preload)
- - [Breadwinner is kind of like a Tamagotchi, but for sourdough starter](https://www.polygon.com/23613338/breadwinner-bread-sourdough-starter-tracker-gadget)<!-- GAME:END -->
+ - [Five Nights At Freddy’s Movie Set Spotted In The Wild](https://kotaku.com/five-nights-at-freddys-fnaf-movie-set-blumhouse-m3gan-1850169388)
+ - [How to get water and a water flask in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-water-collector-flask)
+ - [Elden Ring Is Getting An Expansion That May Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
