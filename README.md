@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/27/this-weeks-deals-with-gold-and-spotlight-sale-264/)
- - [Gen5 SSDs listings finally show up on Amazon and Newegg](https://www.pcgamer.com/gen5-ssds-listings-finally-show-up-on-amazon-and-newegg)
- - [These new wooden panels give Corsair&#39;s PC cases a retro makeover](https://www.pcgamer.com/these-new-wooden-panels-give-corsairs-pc-cases-a-retro-makeover)<!-- GAME:END -->
+ - [PC Game Pass Preview is Available for Insiders in 40 New Countries](https://news.xbox.com/en-us/2023/02/28/pc-game-pass-preview-40-new-countries/)
+ - [Wordle hint and answer #619: Tuesday, February 28](https://www.pcgamer.com/wordle-hint-answer-today-619-february-28)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/02/27/this-weeks-deals-with-gold-and-spotlight-sale-264/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
