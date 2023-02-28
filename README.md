@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP reports Q1 revenue down 18.8% YoY to $13.8B, vs. $14.12B est., Personal Systems revenue down 24% YoY to $9.2B, and Printing revenue down 5% YoY to $4.6B &lpar;Reuters&rpar;](http://www.techmeme.com/230228/p28#a230228p28)
- - [Google Wallet on Wear OS is rolling out support to more countries](https://www.androidauthority.com/google-wallet-countries-3291116/)
- - [Sources: Instacart has told employees that revenue increased 50%+ YoY in Q4 and gross profit rose 80%+, while its full year 2022 revenue grew 39% YoY to ~$2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230228/p27#a230228p27)<!-- TECH:END -->
+ - [iPhone 14 Pro vs Samsung Galaxy S23 Ultra - compared](https://appleinsider.com/articles/23/02/28/iphone-14-pro-vs-samsung-galaxy-s23-ultra---compared?utm_medium=rss)
+ - [Twitter changes its violent speech policy to ban users from voicing &quot;wishes of harm&quot; on people, a policy reversal, as well as homes and essential infrastructure &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230228/p29#a230228p29)
+ - [Everything new in iOS 16.4 beta 2](https://appleinsider.com/articles/23/02/28/everything-new-in-ios-164-beta-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
