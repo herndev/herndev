@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legitimate criticism](http://9gag.com/gag/aNwDByb)
- - ⏩ [Hmm](http://9gag.com/gag/a8q72eY)
- - 👉 [Let me fix this old post](http://9gag.com/gag/a4oP20v)<!-- MEMES:END -->
+ - 💣 [Police traffic stop went correctly. very rare.](http://9gag.com/gag/aL1nmMA)
+ - ⏩ [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
+ - 👉 [Chat bot](http://9gag.com/gag/a9qy896)<!-- MEMES:END -->
 
 ---
 
