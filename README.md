@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU narrows its long-running Apple antitrust investigation, focusing on preventing apps from telling customers about other subscription options &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230228/p4#a230228p4)
- - [Research: PC-based GPU shipments fell 38% YoY to 64.2M in Q4 2022, with a 24% fall in desktops and 43% in notebooks, the biggest drop since a 2011 peak &lpar;Jon Peddie Research&rpar;](http://www.techmeme.com/230228/p3#a230228p3)
- - [Thought 240W was fast? Redmi now has 300W charging tech!](https://www.androidauthority.com/redmi-300w-fast-charging-3290710/)<!-- TECH:END -->
+ - [OnePlus confirms launch details for upcoming foldable phone](https://www.androidauthority.com/oneplus-foldable-launch-3290622/)
+ - [Access Now: in 2022, 35 countries instituted internet shutdowns at least 187 times, led by India with 84 disruptions, Russia causing 22 in Ukraine, and more &lpar;Niha Masih/Washington Post&rpar;](http://www.techmeme.com/230228/p9#a230228p9)
+ - [Reddit adds the ability to search comments on posts from the search bar, available on desktop, iOS, and Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230228/p8#a230228p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
