@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No words v2\ud83d\udc80](http://9gag.com/gag/awZymxy)
- - ⏩ [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)
- - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
+ - 💣 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
+ - ⏩ [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
+ - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
 
