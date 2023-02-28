@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms launch details for upcoming foldable phone](https://www.androidauthority.com/oneplus-foldable-launch-3290622/)
- - [Access Now: in 2022, 35 countries instituted internet shutdowns at least 187 times, led by India with 84 disruptions, Russia causing 22 in Ukraine, and more &lpar;Niha Masih/Washington Post&rpar;](http://www.techmeme.com/230228/p9#a230228p9)
- - [Reddit adds the ability to search comments on posts from the search bar, available on desktop, iOS, and Android &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230228/p8#a230228p8)<!-- TECH:END -->
+ - [Panzer Glass has 100% recycled plastic screen protectors that feel like glass](https://www.androidauthority.com/panzer-glass-matrix-3290742/)
+ - [tinyRigs Leather oriGrid review: Organize while mobile](https://appleinsider.com/articles/23/02/28/tinyrigs-leather-origrid-review-organize-while-mobile?utm_medium=rss)
+ - [Some marketers worry that Meta&#39;s AI-based Advantage+ ad tool, added after Apple&#39;s ATT to automatically generate multiple ads, forces them to relinquish control &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p10#a230228p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
