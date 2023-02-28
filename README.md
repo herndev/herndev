@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And they do](http://9gag.com/gag/adPBQbd)
- - ⏩ [Amsterdam](http://9gag.com/gag/aVbvmM8)
- - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
+ - 💣 [Children seeing a camera for the first time in 1901.](http://9gag.com/gag/a8q7D5Y)
+ - ⏩ [C. Can&#39;t tell!](http://9gag.com/gag/abvA4KO)
+ - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
 
 ---
 
