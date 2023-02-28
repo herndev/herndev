@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chat bot](http://9gag.com/gag/a9qy896)
- - ⏩ [Good question.](http://9gag.com/gag/aDY2VEB)
- - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 💣 [No words v2\ud83d\udc80](http://9gag.com/gag/awZymxy)
+ - ⏩ [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)
+ - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
 
 ---
 
