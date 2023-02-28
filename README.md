@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Marshals Service suffered &quot;a ransomware and data exfiltration event&quot; on a standalone system; a source says the witness protection database was not hit &lpar;NBC News&rpar;](http://www.techmeme.com/230227/p29#a230227p29)
  - [Apple allegedly testing Siri in Hebrew on HomePod for possible Israel launch](https://appleinsider.com/articles/23/02/28/apple-allegedly-testing-siri-in-hebrew-on-homepod-for-possible-israel-launch?utm_medium=rss)
- - [OnePlus Nord 3 will be a rebranded phone, claims new leak &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-specs-launch-date-3288699/)
- - [There’s a Nothing Phone 1 clone at MWC and Carl Pei just posed with it](https://www.androidauthority.com/unihertz-luna-3290604/)<!-- TECH:END -->
+ - [OnePlus Nord 3 will be a rebranded phone, claims new leak &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-specs-launch-date-3288699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
