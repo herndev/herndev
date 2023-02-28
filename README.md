@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Great New Games Spotlight: Jump into Spring with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/02/28/great-new-games-spotlight-2023/)
- - [Pokémon Go ‘Chasing Legends’ Special Research Tasks, choose a path Cacnea, Gulpin or Surskit rewards](https://www.polygon.com/pokemon-go-guide/23613860/chasing-legends-research-choose-a-path-cacnea-gulpin-surskit)
- - [Hitman Devs Announce An Online Fantasy RPG](https://kotaku.com/hitman-studio-ioi-next-game-online-fantasy-rpg-007-1850168214)<!-- GAME:END -->
+ - [STALKER board game announced, from the team behind Nemesis, ISS Vanguard](https://www.polygon.com/23616977/stalker-board-game-announcement-awaken-realms-first-details)
+ - [You Need To See This Haunting Ring Cosplay In Seven Days Or Else](https://kotaku.com/the-ring-atl-comic-con-best-cosplay-scary-crt-1850168420)
+ - [Destiny 2: Lightfall and Season of Defiance are here](https://news.xbox.com/en-us/2023/02/28/destiny-2-lightfall/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
