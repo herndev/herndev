@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-based MKS Instruments, a little-known but key chip equipment supplier, says a &quot;ransomware event&quot; on &quot;production-related systems&quot; will cause delays into March &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p23#a230228p23)
- - [How to play &#39;Destiny 2 - Lightfall&#39; on your iPhone, iPad, or Mac](https://appleinsider.com/inside/ios/tips/how-to-play-destiny-2---lightfall-on-your-iphone-ipad-or-mac?utm_medium=rss)
- - [Apple seeds second developer beta of macOS Ventura 13.3](https://appleinsider.com/articles/23/02/28/apple-seeds-second-developer-beta-of-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
+ - [Typeface, which offers generative AI tools for marketing, emerges from stealth with $65M from Lightspeed Venture Partners, GV, M12, and Menlo Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230228/p24#a230228p24)
+ - [NASA Astronaut Shares &#39;Absolutely Unreal&#39; View of Earth From ISS     - CNET](https://www.cnet.com/science/space/nasa-astronaut-shares-absolutely-unreal-view-of-earth-from-iss/#ftag=CAD590a51e)
+ - [Dish Outage Due To &#39;Cybersecurity Incident&#39;     - CNET](https://www.cnet.com/news/dish-outage-due-to-cybersecurity-incident/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
