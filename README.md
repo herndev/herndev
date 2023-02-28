@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Defiant Keys in Destiny 2&#39;s Season of Defiance](https://www.pcgamer.com/destiny-2-defiant-keys)
- - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
- - [How to get the shotgun in Sons of the Forest](https://www.polygon.com/guides/23619151/sons-of-the-forest-shotgun-ammo-location-where-to-find)<!-- GAME:END -->
+ - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)
+ - [Fortnite Is Adding Cyborgs To The Rocky Universe](https://kotaku.com/rocky-creed-iii-fortnite-skin-michael-b-jordan-anime-1850170535)
+ - [Call of Duty’s fox boy is packing some real heat](https://www.polygon.com/23619121/call-of-duty-modern-warfare-warzone-2-hutch-skin-penis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
