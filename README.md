@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration will require firms seeking CHIPS Act subsidies to limit stock buybacks and share a portion of unanticipated profits with the government &lpar;New York Times&rpar;](http://www.techmeme.com/230227/p31#a230227p31)
- - [The Oscars 2023: Nominations, When the Show Takes Place, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-2023-nominations-when-the-show-takes-place-how-to-watch/#ftag=CAD590a51e)
- - [LastPass: hackers stole password vault data in 2022 by exploiting an RCE flaw in third-party software to install a keylogger on a DevOps engineer&#39;s computer &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230227/p30#a230227p30)<!-- TECH:END -->
+ - [iPhone 15 to require certified accessories for full access to USB-C](https://appleinsider.com/articles/23/02/28/iphone-15-to-require-certified-accessories-for-full-access-to-usb-c?utm_medium=rss)
+ - [Yuga Labs announces its first Bitcoin NFT project TwelveFold, which contains 300 limited-edition generative art pieces inscribed to the Bitcoin blockchain &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/230228/p1#a230228p1)
+ - [Mystery Google phone shows up on FCC: Pixel 7a or Pixel foldable?](https://www.androidauthority.com/google-pixel-7a-fcc-3290637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
