@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad J.K](http://9gag.com/gag/aNwDDMK)
- - ⏩ [Speechless #15](http://9gag.com/gag/ajVPBqQ)
- - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
+ - 💣 [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - ⏩ [And they do](http://9gag.com/gag/adPBQbd)
+ - 👉 [Speechless #15](http://9gag.com/gag/ajVPBqQ)<!-- MEMES:END -->
 
 ---
 
