@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)
- - ⏩ [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
- - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 💣 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)
+ - ⏩ [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)
+ - 👉 [Chyna.](http://9gag.com/gag/amAoVo4)<!-- MEMES:END -->
 
 ---
 
