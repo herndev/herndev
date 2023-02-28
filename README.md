@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring expansion Shadow of the Erdtree announced](https://www.polygon.com/23618241/elden-ring-expansion-shadow-of-the-erdtree-release-date)
- - [Elden Ring&#39;s first expansion announced, looks like it takes place before the events of the game](https://www.pcgamer.com/elden-ring-announces-first-expansion)
- - [Elden Ring Expansion Announced, Called Shadow Of The Erdtree](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)<!-- GAME:END -->
+ - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)
+ - [Elden Ring Is Getting An Expansion That Might Go Into Its Biggest Mystery: Miquella](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
+ - [Staff at Ubisoft&#39;s Beyond Good and Evil 2 studio are reportedly at breaking point](https://www.pcgamer.com/staff-at-ubisofts-beyond-good-and-evil-2-studio-are-reportedly-at-breaking-point)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
