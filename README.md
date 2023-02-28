@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac package installer Homebrew updated with speed enhancements &amp; more](https://appleinsider.com/articles/23/02/28/mac-package-installer-homebrew-updated-with-speed-enhancements-more?utm_medium=rss)
- - [Take a selfie instead of going to the doctor? This tech might make it possible.](https://www.androidauthority.com/nuralogix-3290857/)
- - [Foxconn expanding its iPhone manufacturing footprint in China](https://appleinsider.com/articles/23/02/28/foxconn-expanding-its-iphone-manufacturing-footprint-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [No cell coverage? No problem. Any phone can text over satellite with this gadget](https://www.androidauthority.com/motorola-defy-satellite-link-3290893/)
+ - [Qualcomm&#39;s M2-beating chip probably won&#39;t arrive until after M3 drops](https://appleinsider.com/articles/23/02/28/qualcomms-m2-beating-chip-probably-wont-arrive-until-after-m3-drops?utm_medium=rss)
+ - [Microsoft is bringing iMessage to Windows with the Phone Link app](https://appleinsider.com/articles/23/02/28/microsoft-is-bringing-imessage-to-windows-with-the-phone-link-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
