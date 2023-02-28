@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Ringers on Amazon looks even more horrifying than the 1988 original](https://www.polygon.com/23619211/dead-ringers-rachel-weisz-teaser-trailer-release-date)
- - [Where to find the flashlight in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-flashlight)
- - [Heck yeah, Sons of the Forest update adds weapon hotkeys](https://www.pcgamer.com/heck-yeah-sons-of-the-forest-update-adds-weapon-hotkeys)<!-- GAME:END -->
+ - [How to get Defiant Keys in Destiny 2&#39;s Season of Defiance](https://www.pcgamer.com/destiny-2-defiant-keys)
+ - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
+ - [How to get the shotgun in Sons of the Forest](https://www.polygon.com/guides/23619151/sons-of-the-forest-shotgun-ammo-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
