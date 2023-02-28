@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should\u2026](http://9gag.com/gag/avQyxRZ)
- - ⏩ [Hopefully in 18 years OnlyFans won&#39;t be a thing anymore](http://9gag.com/gag/aA0yMW9)
- - 👉 [Oblivious ,both of them.](http://9gag.com/gag/aYVQqrm)<!-- MEMES:END -->
+ - 💣 [Chat bot](http://9gag.com/gag/a9qy896)
+ - ⏩ [Good question.](http://9gag.com/gag/aDY2VEB)
+ - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
 
