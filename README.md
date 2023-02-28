@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honor is the next brand to offer a longer software update policy](https://www.androidauthority.com/honor-update-policy-2023-3289986/)
  - [AI pioneer and UCSD professor Terry Sejnowski argues that AI chatbots are often prodded into producing strange results by the people who are using them &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230228/p2#a230228p2)
- - [You can now talk to ChatGPT on Snapchat, but don’t reveal any secrets](https://www.androidauthority.com/snapchat-chatgpt-my-ai-3290653/)
- - [AI Could Be Made Obsolete by &#39;OI&#39; -- Biocomputers Running on Human Brain Cells     - CNET](https://www.cnet.com/science/ai-could-be-made-obsolete-by-oi-biocomputers-running-on-human-brain-cells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now talk to ChatGPT on Snapchat, but don’t reveal any secrets](https://www.androidauthority.com/snapchat-chatgpt-my-ai-3290653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
