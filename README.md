@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
- - 👉 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
+ - 💣 [How inspirational!](http://9gag.com/gag/aBdy6eQ)
+ - ⏩ [Psychopathic TV preacher Kenneth Copeland &lpar;wealth of $760 million&rpar; loses it when confronted about his use of private jets](http://9gag.com/gag/az2x5vZ)
+ - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
 
 ---
 
