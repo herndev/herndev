@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
- - ⏩ [Chyna.](http://9gag.com/gag/amAoVo4)
- - 👉 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)<!-- MEMES:END -->
+ - 💣 [To not lose the head in fight](http://9gag.com/gag/a04eMYB)
+ - ⏩ [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
+ - 👉 [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)<!-- MEMES:END -->
 
 ---
 
