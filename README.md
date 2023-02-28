@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Expansion Announced, Called Shadow of the Erdtree](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)
- - [PC Game Pass Preview is Available for Insiders in 40 New Countries](https://news.xbox.com/en-us/2023/02/28/pc-game-pass-preview-40-new-countries/)
- - [Wordle hint and answer #619: Tuesday, February 28](https://www.pcgamer.com/wordle-hint-answer-today-619-february-28)<!-- GAME:END -->
+ - [Elden Ring expansion Shadow of the Erdtree announced](https://www.polygon.com/23618241/elden-ring-expansion-shadow-of-the-erdtree-release-date)
+ - [Elden Ring&#39;s first expansion announced, looks like it takes place before the events of the game](https://www.pcgamer.com/elden-ring-announces-first-expansion)
+ - [Elden Ring Expansion Announced, Called Shadow Of The Erdtree](https://kotaku.com/elden-ring-expansion-dlc-announced-shadow-of-erdtree-1850167004)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
