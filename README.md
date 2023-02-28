@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music violates EU antitrust laws, $39 billion fine possible](https://appleinsider.com/articles/23/02/28/apple-music-violates-eu-antitrust-laws-39-billion-fine-possible?utm_medium=rss)
- - [iPhone 16 Pro stilll rumored to gain under-display Face ID](https://appleinsider.com/articles/23/02/28/under-display-face-id-still-in-the-cards-for-the-iphone-16-pro?utm_medium=rss)
- - [Sources: Visa and Mastercard pause plans for partnerships with crypto companies and some product launches until markets and the regulatory environment improve &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230228/p12#a230228p12)<!-- TECH:END -->
+ - [Mac package installer Homebrew updated with speed enhancements &amp; more](https://appleinsider.com/articles/23/02/28/mac-package-installer-homebrew-updated-with-speed-enhancements-more?utm_medium=rss)
+ - [Take a selfie instead of going to the doctor? This tech might make it possible.](https://www.androidauthority.com/nuralogix-3290857/)
+ - [Foxconn expanding its iPhone manufacturing footprint in China](https://appleinsider.com/articles/23/02/28/foxconn-expanding-its-iphone-manufacturing-footprint-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
