@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Children seeing a camera for the first time in 1901.](http://9gag.com/gag/a8q7D5Y)
- - ⏩ [C. Can&#39;t tell!](http://9gag.com/gag/abvA4KO)
- - 👉 [Thieves ravage Amazon delivery van in California](http://9gag.com/gag/a3Z4AXv)<!-- MEMES:END -->
+ - 💣 [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - ⏩ [Save and Forget.](http://9gag.com/gag/aKEG1Ej)
+ - 👉 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)<!-- MEMES:END -->
 
 ---
 
