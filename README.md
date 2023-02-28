@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Episode 7 Recap: Absolutely Heartbreaking     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-absolutely-heartbreaking/#ftag=CAD590a51e)
- - [Milky Way&#39;s Supermassive Black Hole Caught Dragging an Enormous Cloud     - CNET](https://www.cnet.com/science/space/milky-ways-supermassive-black-hole-caught-dragging-an-enormous-cloud/#ftag=CAD590a51e)
- - [The Next Big Must-Have Phone Feature? DIY Repairability     - CNET](https://www.cnet.com/tech/mobile/the-next-big-must-have-phone-feature-diy-repairability/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230227/p27#a230227p27)
+ - [DCG reports 2022 revenue of $719M and a loss of $1.1B as the firm struggled with plunging crypto prices and the restructuring of its lending platform, Genesis &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/230227/p26#a230227p26)
+ - [&#39;The Last of Us&#39; Episode 7 Recap: Absolutely Heartbreaking     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-absolutely-heartbreaking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
