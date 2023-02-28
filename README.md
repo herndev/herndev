@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230227/p27#a230227p27)
- - [DCG reports 2022 revenue of $719M and a loss of $1.1B as the firm struggled with plunging crypto prices and the restructuring of its lending platform, Genesis &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/230227/p26#a230227p26)
- - [&#39;The Last of Us&#39; Episode 7 Recap: Absolutely Heartbreaking     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-7-recap-absolutely-heartbreaking/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s a Nothing Phone 1 clone at MWC and Carl Pei just posed with it](https://www.androidauthority.com/unihertz-luna-3290604/)
+ - [Sources: The Boring Company CEO Steve Davis has been in charge of Twitter&#39;s cost-cutting, including recent layoffs, amid talk that he will be Twitter&#39;s next CEO &lpar;Platformer&rpar;](http://www.techmeme.com/230227/p28#a230227p28)
+ - [Keke Palmer Is OK With Being Left Out of the Group Chat](https://www.wired.com/story/keke-palmer-interview-baby-keytv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
