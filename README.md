@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Marshals Service suffered &quot;a ransomware and data exfiltration event&quot; on a standalone system; a source says the witness protection database was not hit &lpar;NBC News&rpar;](http://www.techmeme.com/230227/p29#a230227p29)
- - [Apple allegedly testing Siri in Hebrew on HomePod for possible Israel launch](https://appleinsider.com/articles/23/02/28/apple-allegedly-testing-siri-in-hebrew-on-homepod-for-possible-israel-launch?utm_medium=rss)
- - [OnePlus Nord 3 will be a rebranded phone, claims new leak &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-specs-launch-date-3288699/)<!-- TECH:END -->
+ - [The Biden administration will require firms seeking CHIPS Act subsidies to limit stock buybacks and share a portion of unanticipated profits with the government &lpar;New York Times&rpar;](http://www.techmeme.com/230227/p31#a230227p31)
+ - [The Oscars 2023: Nominations, When the Show Takes Place, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-oscars-2023-nominations-when-the-show-takes-place-how-to-watch/#ftag=CAD590a51e)
+ - [LastPass: hackers stole password vault data in 2022 by exploiting an RCE flaw in third-party software to install a keylogger on a DevOps engineer&#39;s computer &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230227/p30#a230227p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
