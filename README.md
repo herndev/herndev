@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A chatbot with roots in a dead artist&#39;s memorial became an erotic roleplay phenomenon, now the sex is gone and users are rioting](https://www.pcgamer.com/a-chatbot-with-roots-in-a-dead-artists-memorial-became-an-erotic-roleplay-phenomenon-now-the-sex-is-gone-and-users-are-rioting)
- - [&#39;Too early access for early access&#39;—players react to Kerbal Space Program 2 launch](https://www.pcgamer.com/too-early-access-for-early-accessplayers-react-to-kerbal-space-program-2-launch)
- - [Survival MMO Dune: Awakening takes place in an &#39;alternate&#39; timeline](https://www.pcgamer.com/survival-mmo-dune-awakening-takes-place-in-an-alternate-timeline)<!-- GAME:END -->
+ - [Diablo Was On The Catwalk At Milan Fashion Week](https://kotaku.com/diablo-blizzard-milan-fashion-week-runway-catwalk-pc-1850166228)
+ - [Oldest Known Miyamoto Interview Reveals Nintendo Staff Loved…Donkey Kong Jr. Math](https://kotaku.com/miyamoto-interview-mario-zelda-endo-namco-xevious-1850166035)
+ - [At Least $100,000 Worth Of Magic Cards Dumped In Landfill](https://kotaku.com/magic-the-gathering-cards-landfill-dump-destroyed-texas-1850165964)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
