@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for March 2023](https://news.xbox.com/en-us/2023/02/28/new-games-with-gold-for-march-2023/)
- - [Elden Ring&#39;s creator says he&#39;s been checking out Escape from Tarkov for a little multiplayer inspiration](https://www.pcgamer.com/elden-rings-creator-says-hes-been-checking-out-escape-from-tarkov-for-a-little-multiplayer-inspiration)
- - [The Dwarf Fortress devs once made a comedy revolution simulator, and it&#39;s time for heads to roll once more](https://www.pcgamer.com/the-dwarf-fortress-devs-first-game-was-a-comedy-revolution-simulator-and-its-time-for-heads-to-roll-once-more)<!-- GAME:END -->
+ - [Why is Final Fantasy 16 an action game? Its creators explain](https://www.polygon.com/23618355/final-fantasy-16-action-game-rpg-naoki-yoshida)
+ - [Six Anime Characters With Permanent Invitations To &#39;The Cookout&#39;](https://kotaku.com/black-history-month-anime-piccolo-dbz-naruto-bleach-1850164884)
+ - [Arctic management sim The Pale Beyond is as messy as it is thrilling](https://www.polygon.com/reviews/23607299/the-pale-beyond-review-survival-management-sim-rpg-release-date-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
