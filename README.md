@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No cell coverage? No problem. Any phone can text over satellite with this gadget](https://www.androidauthority.com/motorola-defy-satellite-link-3290893/)
- - [Qualcomm&#39;s M2-beating chip probably won&#39;t arrive until after M3 drops](https://appleinsider.com/articles/23/02/28/qualcomms-m2-beating-chip-probably-wont-arrive-until-after-m3-drops?utm_medium=rss)
- - [Microsoft is bringing iMessage to Windows with the Phone Link app](https://appleinsider.com/articles/23/02/28/microsoft-is-bringing-imessage-to-windows-with-the-phone-link-app?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi’s new e-scooter promises an Ultra comfortable ride](https://www.androidauthority.com/xiaomi-electric-scooter-4-pro-3290243/)
+ - [Pixelmator Pro improves video features, adds green screen removal](https://appleinsider.com/articles/23/02/28/pixelmator-pro-improves-video-features-adds-green-screen-removal?utm_medium=rss)
+ - [Ahead of the Oscars, AMC Promises Movie Theater Popcorn at Home     - CNET](https://www.cnet.com/culture/entertainment/ahead-of-the-oscars-amc-promises-movie-theater-popcorn-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
