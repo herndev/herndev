@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panzer Glass has 100% recycled plastic screen protectors that feel like glass](https://www.androidauthority.com/panzer-glass-matrix-3290742/)
- - [tinyRigs Leather oriGrid review: Organize while mobile](https://appleinsider.com/articles/23/02/28/tinyrigs-leather-origrid-review-organize-while-mobile?utm_medium=rss)
- - [Some marketers worry that Meta&#39;s AI-based Advantage+ ad tool, added after Apple&#39;s ATT to automatically generate multiple ads, forces them to relinquish control &lpar;Financial Times&rpar;](http://www.techmeme.com/230228/p10#a230228p10)<!-- TECH:END -->
+ - [Apple Music violates EU antitrust laws, $39 billion fine possible](https://appleinsider.com/articles/23/02/28/apple-music-violates-eu-antitrust-laws-39-billion-fine-possible?utm_medium=rss)
+ - [iPhone 16 Pro stilll rumored to gain under-display Face ID](https://appleinsider.com/articles/23/02/28/under-display-face-id-still-in-the-cards-for-the-iphone-16-pro?utm_medium=rss)
+ - [Sources: Visa and Mastercard pause plans for partnerships with crypto companies and some product launches until markets and the regulatory environment improve &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230228/p12#a230228p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
