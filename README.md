@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a Nothing Phone 1 clone at MWC and Carl Pei just posed with it](https://www.androidauthority.com/unihertz-luna-3290604/)
- - [Sources: The Boring Company CEO Steve Davis has been in charge of Twitter&#39;s cost-cutting, including recent layoffs, amid talk that he will be Twitter&#39;s next CEO &lpar;Platformer&rpar;](http://www.techmeme.com/230227/p28#a230227p28)
- - [Keke Palmer Is OK With Being Left Out of the Group Chat](https://www.wired.com/story/keke-palmer-interview-baby-keytv/)<!-- TECH:END -->
+ - [Apple allegedly testing Siri in Hebrew on HomePod for possible Israel launch](https://appleinsider.com/articles/23/02/28/apple-allegedly-testing-siri-in-hebrew-on-homepod-for-possible-israel-launch?utm_medium=rss)
+ - [OnePlus Nord 3 will be a rebranded phone, claims new leak &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-specs-launch-date-3288699/)
+ - [There’s a Nothing Phone 1 clone at MWC and Carl Pei just posed with it](https://www.androidauthority.com/unihertz-luna-3290604/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
