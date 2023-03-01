@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub&#39;s free secret scanning alerts service, which notifies users of potential repository leaks, hits general availability, after a December 2022 beta release &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230301/p27#a230301p27)
- - [How T-Mobile, Verizon and Others Are Fighting the Climate Crisis     - CNET](https://www.cnet.com/tech/mobile/what-is-your-phone-carrier-doing-about-the-climate-crisis/#ftag=CAD590a51e)
- - [Nothing Phone 2 Is Coming to the US With a Big Boost     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2-is-coming-to-the-us-with-a-big-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iOS Rapid Security Response update sent to iOS 16.4 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
+ - [Snowflake reports Q4 revenue up 53% YoY to $589M, vs. $576M est., and FY 2024 guidance below est., and authorizes a $2B share buyback program; SNOW drops 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230301/p29#a230301p29)
+ - [Salesforce reports Q4 revenue up 14% YoY to $8.38B vs. $7.99B est., Q1 revenue guidance above est., and a share buyback program increase to $20B; CRM jumps 13%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230301/p28#a230301p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
