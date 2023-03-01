@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)
- - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 👉 [Equality?](http://9gag.com/gag/aOx8DNM)<!-- MEMES:END -->
+ - 💣 [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - ⏩ [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 👉 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)<!-- MEMES:END -->
 
 ---
 
