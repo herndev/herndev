@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)
+ - 💣 [Trump cuts deep](http://9gag.com/gag/a5XQ5qL)
  - ⏩ [F**king LOL. Harry really gonna `Waghhhh` now](http://9gag.com/gag/aGEy77z)
- - 👉 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)<!-- MEMES:END -->
+ - 👉 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
 
 ---
 
