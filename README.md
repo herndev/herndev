@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/legend-of-zelda-chronological-timeline-tears-of-the-kingdom-totk-breath-of-the-wild-botw-sequel)
- - [Xbox at GDC 2023: Powering Games, Empowering Creators](https://news.xbox.com/en-us/2023/03/01/xbox-at-gdc-2023-powering-games-empowering-creators/)
- - [Tekken 8 continues to go incredibly hard with new Jin Kazama trailer](https://www.pcgamer.com/tekken-8-continues-to-go-incredibly-hard-with-new-jin-kazama-trailer)<!-- GAME:END -->
+ - [MLB The Show 23 is Bringing the Heat with Tons of New Updates and Features](https://news.xbox.com/en-us/2023/03/01/mlb-the-show-23-is-bringing-the-heat-with-tons-of-new-updates-and-features/)
+ - [Inquisition’s Most Disappointing Character Shows The Limitations Of Dragon Age](https://kotaku.com/dragon-age-inquisition-iron-bull-dreadwolf-bioware-rpg-1850173274)
+ - [The Mandalorian season 3 poochied Gina Carano](https://www.polygon.com/23620272/mandalorian-season-3-marshal-dune-gina-carano)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
