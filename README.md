@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New App Store benchmarks let devs compare app performance to peers](https://appleinsider.com/articles/23/03/01/new-app-store-benchmarks-let-devs-compare-app-performance-to-peers?utm_medium=rss)
- - [Robinhood launches a standalone Robinhood Wallet app globally on iOS, with Polygon and Ethereum network support, and says an Android app is coming later in 2023 &lpar;Zeynep Geylan/CryptoSlate&rpar;](http://www.techmeme.com/230301/p25#a230301p25)
- - [A GOP plan to ban TikTok nationwide advances out of committee](https://www.theverge.com/2023/3/1/23620736/tiktok-ban-china-app-biden-foreign-affairs-bytedance)<!-- TECH:END -->
+ - [GitHub&#39;s free secret scanning alerts service, which notifies users of potential repository leaks, hits general availability, after a December 2022 beta release &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230301/p27#a230301p27)
+ - [How T-Mobile, Verizon and Others Are Fighting the Climate Crisis     - CNET](https://www.cnet.com/tech/mobile/what-is-your-phone-carrier-doing-about-the-climate-crisis/#ftag=CAD590a51e)
+ - [Nothing Phone 2 Is Coming to the US With a Big Boost     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2-is-coming-to-the-us-with-a-big-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
