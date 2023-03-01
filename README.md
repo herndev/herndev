@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card promotion promises $150 cash back for select new applicants](https://appleinsider.com/articles/23/03/01/apple-card-promotion-promises-150-cash-back-for-select-new-applicants?utm_medium=rss)
- - [Mid-to-late stage tech startups will likely face a reckoning in late 2023 to 2024, as companies run out of cash from &quot;free rounds&quot; fueled by low interest rates &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230228/p31#a230228p31)
- - [Look Out, eSIMs -- Future Phones Could Use More Efficient &#39;iSIMs&#39;     - CNET](https://www.cnet.com/tech/mobile/look-out-esims-future-phones-could-use-more-efficient-isims/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robotics startup Fulfil, which offers automated micro-fulfillment centers for online grocers, emerges from stealth with a $60M Series B led by Eclipse &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230228/p32#a230228p32)
+ - [HBO Max’s Dune series has lost a lead actress and a director](https://www.theverge.com/2023/2/28/23619635/dune-the-sisterhood-hbo-max-shirley-henderson)
+ - [Google Fi Reportedly Drops US Cellular, Leaving T-Mobile As Last Network     - CNET](https://www.cnet.com/tech/mobile/google-fi-reportedly-drops-us-cellular-leaving-t-mobile-as-last-network/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
