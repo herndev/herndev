@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the UK&#39;s Online Safety Bill became an overwrought law that may not achieve its aims due to repeated policy changes by four prime ministers since 2019 &lpar;Politico&rpar;](http://www.techmeme.com/230301/p3#a230301p3)
- - [Microsoft brings ChatGPT-powered Bing and iMessage support to Windows](https://www.androidauthority.com/microsoft-bing-ai-imessage-windows-11-3291322/)
- - [The next big Olympics esports competition will feature chess and Just Dance](https://www.theverge.com/2023/3/1/23615822/olympics-esports-week-chess-just-dance)<!-- TECH:END -->
+ - [Twitter’s timeline just isn’t loading right now](https://www.theverge.com/2023/3/1/23620044/twitter-outage-down-timeline-feed-not-loading)
+ - [How the proliferation of shock sites like Goatse, which can be traced back to Rotten.com, defined the modern internet era and informed how we use the web today &lpar;Blake Hester/VICE&rpar;](http://www.techmeme.com/230301/p7#a230301p7)
+ - [After a lengthy, unexplained outage over the weekend due to an update, Solana Labs plans to improve its upgrade process to ensure reliability and uptime &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230301/p6#a230301p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
