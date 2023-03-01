@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 👉 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)<!-- MEMES:END -->
+ - 💣 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)
+ - ⏩ [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)
+ - 👉 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
 
 ---
 
