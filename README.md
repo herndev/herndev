@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - ⏩ [Equality?](http://9gag.com/gag/aOx8DNM)
- - 👉 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
+ - 💣 [B\u00f6nnie &amp; Clyde](http://9gag.com/gag/aMEVqpV)
+ - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 👉 [Equality?](http://9gag.com/gag/aOx8DNM)<!-- MEMES:END -->
 
 ---
 
