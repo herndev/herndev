@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Mandalorian&#39; Season 3 Schedule: Episode 1 Lands on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-schedule-episode-1-lands-on-disney-plus/#ftag=CAD590a51e)
- - [A look at Russia&#39;s cyberattack on Viasat&#39;s KA-SAT network in February 2022, leading some countries and the satellite industry to rethink satellite cybersecurity &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230301/p18#a230301p18)
- - [Daily Deals March 1: 41% off Apple Watch Series 5, $200 off M2 MacBook Air, up to 60% off Shark vacuums &amp; more](https://appleinsider.com/articles/23/03/01/daily-deals-march-1-41-off-apple-watch-series-5-200-off-m2-macbook-air-up-to-60-off-shark-vacuums-more?utm_medium=rss)<!-- TECH:END -->
+ - [A new Mac Pro is coming, confirms Apple exec](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
+ - [OpenAI, founded as a nonprofit to focus on creating a &quot;positive human impact&quot;, now operates as a closed-source and for-profit entity as ChatGPT explodes &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230301/p20#a230301p20)
+ - [Which iPhone colors are the most popular in 2023](https://appleinsider.com/articles/23/03/01/which-iphone-colors-are-the-most-popular-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
