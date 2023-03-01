@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To show off a gun](http://9gag.com/gag/awZyvyr)
- - ⏩ [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)
- - 👉 [Gorilla sees a child and shows her child](http://9gag.com/gag/ajVPWPg)<!-- MEMES:END -->
+ - 💣 [Drunken yahoo&#39;s in the lift](http://9gag.com/gag/ap9RVA8)
+ - ⏩ [To show off a gun](http://9gag.com/gag/awZyvyr)
+ - 👉 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
 
 ---
 
