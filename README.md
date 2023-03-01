@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the golden armor and katana in Sons of the Forest](https://www.polygon.com/guides/23619451/sons-of-the-forest-golden-armor-katana-location-where-to-find)
- - [After Four Years, The Pokémon Sleep App Is Finally Real](https://kotaku.com/what-is-pokemon-sleep-release-date-app-ios-android-1850162624)
- - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)<!-- GAME:END -->
+ - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)
+ - [Dune spinoff series shuts down, loses its director and star](https://www.polygon.com/23621097/dune-the-sisterhood-hiatus-hbo-max-denis-villeneuve)
+ - [That was quick: Speedrunner beats Sons of the Forest in under 9 minutes](https://www.pcgamer.com/that-was-quick-speedrunner-beats-sons-of-the-forest-in-under-9-minutes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
