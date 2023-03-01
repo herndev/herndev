@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch out eSIM, iSIM is coming for your lunch](https://www.androidauthority.com/qualcomm-isim-snapdragon-8-gen-2-3291316/)
- - [Profile of BitMEX co-founder Arthur Hayes, who served six months of house arrest for US Bank Secrecy Act violations; sources say he&#39;s still in control of BitMEX &lpar;Jen Wieczner/New York Magazine&rpar;](http://www.techmeme.com/230301/p1#a230301p1)
- - [Google Welcomes March Madness With Slam Dunk Yoodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePus 11 cracks under pressure in durability test](https://www.androidauthority.com/oneplus-11-durability-test-3291319/)
+ - [Email: FTX&#39;s derivatives exchange LedgerX tells clients to send domestic wire transfers to Signature Bank instead of Silvergate Bank going forward &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p2#a230301p2)
+ - [Watch out eSIM, iSIM is coming for your lunch](https://www.androidauthority.com/qualcomm-isim-snapdragon-8-gen-2-3291316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
