@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you realize how close it was- Made in Argentina.](http://9gag.com/gag/aQEzOGW)
- - ⏩ [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)
- - 👉 [Chyna.](http://9gag.com/gag/amAoVo4)<!-- MEMES:END -->
+ - 💣 [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
+ - ⏩ [Damn...](http://9gag.com/gag/aGEyOBz)
+ - 👉 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)<!-- MEMES:END -->
 
 ---
 
