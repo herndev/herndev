@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accurate](http://9gag.com/gag/aWG4b53)
- - ⏩ [Blimey](http://9gag.com/gag/a04eOAz)
- - 👉 [Trust the science.](http://9gag.com/gag/adPBRzj)<!-- MEMES:END -->
+ - 💣 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
+ - ⏩ [Some people are nuts](http://9gag.com/gag/aqeyARv)
+ - 👉 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
 
 ---
 
