@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s new leader teases AI tools that can virtually swap creators’ outfits and locations](https://www.theverge.com/2023/3/1/23620143/youtube-ai-tool-features-ceo-neal-mohan-google-alphabet)
- - [Rad Power Bikes’ RadRunner e-bike gets a major facelift — and a trailer for furry friends](https://www.theverge.com/2023/3/1/23620081/radrunner-3-plus-rad-power-bikes-ebike-pet-trailer-specs-price)
- - [iPhone 14 Plus is still a bust but Pro demand remains very strong](https://appleinsider.com/articles/23/03/01/iphone-14-plus-is-still-a-bust-but-pro-demand-still-very-strong?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft&#39;s Windows 11 announcement, adding the new Bing &quot;directly into the taskbar&quot;, was wildly misleading as using Bing Chat still requires opening Edge &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230301/p14#a230301p14)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 01&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-01-2023-3288150/)
+ - [In a letter, YouTube head Neal Mohan outlined his key priorities and teases upcoming features, including generative AI tools for creators and Shorts updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230301/p13#a230301p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
