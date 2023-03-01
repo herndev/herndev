@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS Rapid Security Response update sent to iOS 16.4 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
- - [Snowflake reports Q4 revenue up 53% YoY to $589M, vs. $576M est., and FY 2024 guidance below est., and authorizes a $2B share buyback program; SNOW drops 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230301/p29#a230301p29)
- - [Salesforce reports Q4 revenue up 14% YoY to $8.38B vs. $7.99B est., Q1 revenue guidance above est., and a share buyback program increase to $20B; CRM jumps 13%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230301/p28#a230301p28)<!-- TECH:END -->
+ - [Leak reveals Intel’s next chips reportedly support Windows 12](https://www.androidauthority.com/intel-windows-12-leak-3291645/)
+ - [Paris-based Sesamm, which uses NLP to generate insights helping companies adhere to their ESG goals, raised a &amp;euro;35M Series B2, taking its total funding to &amp;euro;50.5M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230301/p30#a230301p30)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
