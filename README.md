@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cap?](http://9gag.com/gag/amAonE9)
- - ⏩ [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)
- - 👉 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
+ - 💣 [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - ⏩ [Equality?](http://9gag.com/gag/aOx8DNM)
+ - 👉 [Beer is a sin](http://9gag.com/gag/aPgAeoq)<!-- MEMES:END -->
 
 ---
 
