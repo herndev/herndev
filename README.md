@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines and BattleTech developers will announce new games next week](https://www.pcgamer.com/cities-skylines-and-battletech-developers-will-announce-new-games-next-week)
- - [Naoki Yoshida says Final Fantasy 16 won&#39;t be on PC 6 months after release](https://www.pcgamer.com/naoki-yoshida-says-final-fantasy-16-wont-be-on-pc-6-months-after-release)
- - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)<!-- GAME:END -->
+ - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)
+ - [Gorgeous Pokémon, Anime Sneakers Are Too Good For Nike](https://kotaku.com/nike-dunk-jordan-pokemon-dragon-ball-sailor-moon-anime-1850170814)
+ - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2023/02/28/mega-march-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
