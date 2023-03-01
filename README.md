@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CodaMetrix, which uses AI to automate the process of translating patient records into codes for health care providers, raised a $55M Series A led by SignalFire &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/230228/p36#a230228p36)
  - [Sources: Salesforce is still paying Matthew McConaughey $10M a year to act as a &quot;creative adviser&quot; despite thousands of layoffs and multiple activist investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230228/p35#a230228p35)
- - [Dell updates the XPS 15 and 17 laptops with Intel&#39;s 13th-Gen H-series CPUs and Nvidia&#39;s RTX 40-series GPUs, starting at $2,949 and $3,399, available on March 2 &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230228/p34#a230228p34)
- - [Internal roadmap: Meta to release three new Quest headsets, smart glasses with a display in 2025 alongside a neural interface smartwatch, and AR glasses in 2027 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230228/p33#a230228p33)<!-- TECH:END -->
+ - [Dell updates the XPS 15 and 17 laptops with Intel&#39;s 13th-Gen H-series CPUs and Nvidia&#39;s RTX 40-series GPUs, starting at $2,949 and $3,399, available on March 2 &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230228/p34#a230228p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
