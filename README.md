@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro vs Samsung Galaxy S23 Ultra - compared](https://appleinsider.com/articles/23/02/28/iphone-14-pro-vs-samsung-galaxy-s23-ultra---compared?utm_medium=rss)
- - [Twitter changes its violent speech policy to ban users from voicing &quot;wishes of harm&quot; on people, a policy reversal, as well as homes and essential infrastructure &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230228/p29#a230228p29)
- - [Everything new in iOS 16.4 beta 2](https://appleinsider.com/articles/23/02/28/everything-new-in-ios-164-beta-2?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with iHeartMedia&#39;s Conal Byrne on overseeing podcasting at the company, the industry maturing, RSS, radio and podcast ads, subscriptions, and exclusivity &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230228/p30#a230228p30)
+ - [New Childhood Obesity Guidelines Say It&#39;s a Disease That Needs Treatment     - CNET](https://www.cnet.com/health/medical/new-childhood-obesity-guidelines-say-its-a-disease-that-needs-treatment/#ftag=CAD590a51e)
+ - [Twitter’s decentralized alternative Bluesky arrives as an invite-only iOS app](https://www.theverge.com/2023/2/28/23619270/decentralized-twitter-alternative-bluesky-ios-invite-only)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
