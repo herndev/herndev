@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Windows 11 announcement, adding the new Bing &quot;directly into the taskbar&quot;, was wildly misleading as using Bing Chat still requires opening Edge &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230301/p14#a230301p14)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 01&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-01-2023-3288150/)
- - [In a letter, YouTube head Neal Mohan outlined his key priorities and teases upcoming features, including generative AI tools for creators and Shorts updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230301/p13#a230301p13)<!-- TECH:END -->
+ - [&#39;The Mandalorian&#39; Season 3 Schedule: Episode 1 Lands on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-schedule-episode-1-lands-on-disney-plus/#ftag=CAD590a51e)
+ - [A look at Russia&#39;s cyberattack on Viasat&#39;s KA-SAT network in February 2022, leading some countries and the satellite industry to rethink satellite cybersecurity &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230301/p18#a230301p18)
+ - [Daily Deals March 1: 41% off Apple Watch Series 5, $200 off M2 MacBook Air, up to 60% off Shark vacuums &amp; more](https://appleinsider.com/articles/23/03/01/daily-deals-march-1-41-off-apple-watch-series-5-200-off-m2-macbook-air-up-to-60-off-shark-vacuums-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
