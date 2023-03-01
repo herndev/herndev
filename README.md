@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The official BTS Lego set is now available](https://www.polygon.com/deals/23617667/order-lego-bts-k-pop-set)
  - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)
- - [Gorgeous Pokémon, Anime Sneakers Are Too Good For Nike](https://kotaku.com/nike-dunk-jordan-pokemon-dragon-ball-sailor-moon-anime-1850170814)
- - [Mega March promotion comes to PlayStation Store](https://blog.playstation.com/2023/02/28/mega-march-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
+ - [Gorgeous Pokémon, Anime Sneakers Are Too Good For Nike](https://kotaku.com/nike-dunk-jordan-pokemon-dragon-ball-sailor-moon-anime-1850170814)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
