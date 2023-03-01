@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft brings ChatGPT-powered Bing and iMessage support to Windows](https://www.androidauthority.com/microsoft-bing-ai-imessage-windows-11-3291322/)
  - [OnePus 11 cracks under pressure in durability test](https://www.androidauthority.com/oneplus-11-durability-test-3291319/)
- - [Email: FTX&#39;s derivatives exchange LedgerX tells clients to send domestic wire transfers to Signature Bank instead of Silvergate Bank going forward &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p2#a230301p2)
- - [Watch out eSIM, iSIM is coming for your lunch](https://www.androidauthority.com/qualcomm-isim-snapdragon-8-gen-2-3291316/)<!-- TECH:END -->
+ - [Email: FTX&#39;s derivatives exchange LedgerX tells clients to send domestic wire transfers to Signature Bank instead of Silvergate Bank going forward &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p2#a230301p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
