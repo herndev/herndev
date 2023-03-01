@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal roadmap: Meta to release three new Quest headsets, smart glasses with a display in 2025 alongside a neural interface smartwatch, and AR glasses in 2027 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230228/p33#a230228p33)
  - [Robotics startup Fulfil, which offers automated micro-fulfillment centers for online grocers, emerges from stealth with a $60M Series B led by Eclipse &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230228/p32#a230228p32)
- - [HBO Max’s Dune series has lost a lead actress and a director](https://www.theverge.com/2023/2/28/23619635/dune-the-sisterhood-hbo-max-shirley-henderson)
  - [Google Fi Reportedly Drops US Cellular, Leaving T-Mobile As Last Network     - CNET](https://www.cnet.com/tech/mobile/google-fi-reportedly-drops-us-cellular-leaving-t-mobile-as-last-network/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
