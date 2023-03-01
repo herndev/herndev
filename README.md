@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Mac Pro is coming, confirms Apple exec](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
- - [OpenAI, founded as a nonprofit to focus on creating a &quot;positive human impact&quot;, now operates as a closed-source and for-profit entity as ChatGPT explodes &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230301/p20#a230301p20)
- - [Which iPhone colors are the most popular in 2023](https://appleinsider.com/articles/23/03/01/which-iphone-colors-are-the-most-popular-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [New Sony Bravia TVs have Apple TV, AirPlay 2, HomeKit &amp; more](https://appleinsider.com/articles/23/03/01/new-sony-bravia-tvs-have-apple-tv-airplay-2-homekit-more?utm_medium=rss)
+ - [Amazon&#39;s Ring names Elizabeth Hamren as CEO, replacing Ring founder Jamie Siminoff, who remains as chief inventor; Hamren is a former Meta and Microsoft exec &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230301/p22#a230301p22)
+ - [Get Up to 47% off Denali Tools and Accessories at Amazon     - CNET](https://www.cnet.com/deals/get-up-to-47-off-denali-tools-and-accessories-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
