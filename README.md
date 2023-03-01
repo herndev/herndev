@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big new games coming out in March](https://www.polygon.com/23618922/new-video-games-march-2023-release-dates)
- - [You wish your relationship was as intimate as me and my low profile keyboard](https://www.pcgamer.com/you-wish-your-relationship-was-as-intimate-as-mine-and-my-low-profile-keyboards)
- - [Lenovo Legion Pro 7i &lpar;Gen8&rpar;](https://www.pcgamer.com/lenovo-legion-pro-7i-gaming-laptop-review)<!-- GAME:END -->
+ - [Xbox and Lucasfilm launch ‘The Mandalorian’-themed gaming gear for Season 3](https://news.xbox.com/en-us/2023/03/01/xbox-mandalorian-star-wars-gaming-gear-collaboration/)
+ - [Every new movie and show coming to Disney Plus in March](https://www.polygon.com/2023/3/1/23610215/disney-plus-new-movies-tv-watch-march-2023)
+ - [Every movie and show coming to Netflix in March](https://www.polygon.com/2023/3/1/23610210/new-netflix-movies-tv-shows-watch-march-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
