@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 👉 [To show off a gun](http://9gag.com/gag/awZyvyr)<!-- MEMES:END -->
+ - 💣 [Cap?](http://9gag.com/gag/amAonE9)
+ - ⏩ [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)
+ - 👉 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
 
 ---
 
