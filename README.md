@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
- - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - 👉 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
+ - ⏩ [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
+ - 👉 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)<!-- MEMES:END -->
 
 ---
 
