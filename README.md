@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality?](http://9gag.com/gag/aOx8DNM)
- - ⏩ [And with all that wokeness, anti-woke people still bought the game to spite the lgbt.](http://9gag.com/gag/aqeyDwp)
- - 👉 [When you realize how close it was- Made in Argentina.](http://9gag.com/gag/aQEzOGW)<!-- MEMES:END -->
+ - 💣 [Accurate](http://9gag.com/gag/aWG4b53)
+ - ⏩ [Blimey](http://9gag.com/gag/a04eOAz)
+ - 👉 [Trust the science.](http://9gag.com/gag/adPBRzj)<!-- MEMES:END -->
 
 ---
 
