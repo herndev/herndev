@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #620: Wednesday, March 1](https://www.pcgamer.com/wordle-hint-answer-today-620-march-1)
  - [The official BTS Lego set is now available](https://www.polygon.com/deals/23617667/order-lego-bts-k-pop-set)
- - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)
- - [Gorgeous Pokémon, Anime Sneakers Are Too Good For Nike](https://kotaku.com/nike-dunk-jordan-pokemon-dragon-ball-sailor-moon-anime-1850170814)<!-- GAME:END -->
+ - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
