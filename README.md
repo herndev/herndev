@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the UK&#39;s Online Safety Bill became an overwrought law that may not achieve its aims due to repeated policy changes by four prime ministers since 2019 &lpar;Politico&rpar;](http://www.techmeme.com/230301/p3#a230301p3)
  - [Microsoft brings ChatGPT-powered Bing and iMessage support to Windows](https://www.androidauthority.com/microsoft-bing-ai-imessage-windows-11-3291322/)
- - [OnePus 11 cracks under pressure in durability test](https://www.androidauthority.com/oneplus-11-durability-test-3291319/)
- - [Email: FTX&#39;s derivatives exchange LedgerX tells clients to send domestic wire transfers to Signature Bank instead of Silvergate Bank going forward &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p2#a230301p2)<!-- TECH:END -->
+ - [The next big Olympics esports competition will feature chess and Just Dance](https://www.theverge.com/2023/3/1/23615822/olympics-esports-week-chess-just-dance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
