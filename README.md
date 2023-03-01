@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Pro is coming confirms Apple exec, but when is the question](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
- - [How AI Could Transform Email](https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/)
- - [Zwift Hub Smart Cycling Trainer Review: An Affordable Way to Ride Indoors](https://www.wired.com/review/zwift-hub-smart-trainer/)<!-- TECH:END -->
+ - [YouTube’s new leader teases AI tools that can virtually swap creators’ outfits and locations](https://www.theverge.com/2023/3/1/23620143/youtube-ai-tool-features-ceo-neal-mohan-google-alphabet)
+ - [Rad Power Bikes’ RadRunner e-bike gets a major facelift — and a trailer for furry friends](https://www.theverge.com/2023/3/1/23620081/radrunner-3-plus-rad-power-bikes-ebike-pet-trailer-specs-price)
+ - [iPhone 14 Plus is still a bust but Pro demand remains very strong](https://appleinsider.com/articles/23/03/01/iphone-14-plus-is-still-a-bust-but-pro-demand-still-very-strong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
