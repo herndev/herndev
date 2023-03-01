@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
- - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
- - 👉 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)<!-- MEMES:END -->
+ - 💣 [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
+ - ⏩ [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)
+ - 👉 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)<!-- MEMES:END -->
 
 ---
 
