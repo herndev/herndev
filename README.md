@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece Creator Asked AI To Write A New Manga Chapter](https://kotaku.com/one-piece-eiichiro-oda-chatgpt-ai-chopper-manga-1850172765)
- - [How to find Cloud Accretions in Destiny 2: Lightfall](https://www.pcgamer.com/destiny-2-cloud-accretions-unfinished-business)
- - [The Last of Us’ best story got a lot more tragic on TV](https://www.polygon.com/23619294/last-us-episode-7-ellie-gay-storm-reid)<!-- GAME:END -->
+ - [The Legend of Zelda timeline, explained](https://www.polygon.com/zelda/23618362/legend-of-zelda-chronological-timeline-tears-of-the-kingdom-totk-breath-of-the-wild-botw-sequel)
+ - [Xbox at GDC 2023: Powering Games, Empowering Creators](https://news.xbox.com/en-us/2023/03/01/xbox-at-gdc-2023-powering-games-empowering-creators/)
+ - [Tekken 8 continues to go incredibly hard with new Jin Kazama trailer](https://www.pcgamer.com/tekken-8-continues-to-go-incredibly-hard-with-new-jin-kazama-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
