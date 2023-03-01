@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
- - ⏩ [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
- - 👉 [Equality?](http://9gag.com/gag/aOx8DNM)<!-- MEMES:END -->
+ - 💣 [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
+ - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - 👉 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)<!-- MEMES:END -->
 
 ---
 
