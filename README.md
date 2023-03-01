@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burned.](http://9gag.com/gag/anz721q)
- - ⏩ [Chyna.](http://9gag.com/gag/amAoVo4)
- - 👉 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
+ - 💣 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)
+ - ⏩ [F**king LOL. Harry really gonna `Waghhhh` now](http://9gag.com/gag/aGEy77z)
+ - 👉 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)<!-- MEMES:END -->
 
 ---
 
