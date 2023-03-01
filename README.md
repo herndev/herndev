@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #620: Wednesday, March 1](https://www.pcgamer.com/wordle-hint-answer-today-620-march-1)
- - [The official BTS Lego set is now available](https://www.polygon.com/deals/23617667/order-lego-bts-k-pop-set)
- - [Sons of the Forest is the funniest videogame on the internet right now](https://www.pcgamer.com/sons-of-the-forest-is-the-funniest-videogame-on-the-internet-right-now)<!-- GAME:END -->
+ - [Pokemon Go leader counters for Sierra, Arlo, and Cliff in March 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Pokémon Go Rocket Giovanni counters, team in March 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [PlayStation VR 2 games releasing in March, all upcoming titles for 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
