@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23 is Bringing the Heat with Tons of New Updates and Features](https://news.xbox.com/en-us/2023/03/01/mlb-the-show-23-is-bringing-the-heat-with-tons-of-new-updates-and-features/)
- - [Inquisition’s Most Disappointing Character Shows The Limitations Of Dragon Age](https://kotaku.com/dragon-age-inquisition-iron-bull-dreadwolf-bioware-rpg-1850173274)
- - [The Mandalorian season 3 poochied Gina Carano](https://www.polygon.com/23620272/mandalorian-season-3-marshal-dune-gina-carano)<!-- GAME:END -->
+ - [Oda’s AI-‘written’ One Piece chapter weirdly makes sense](https://www.polygon.com/23620489/ai-written-one-piece-chapter-eiichiro-oda-chatgpt)
+ - [Free Horror Game Is A Corrupted, Nightmare Version Of N64&#39;s Goldeneye](https://kotaku.com/free-horror-game-fps-shooter-goldeneye-n64-007-glitch-1850173904)
+ - [8 Things I Wish I Knew Before Starting Octopath Traveler II](https://kotaku.com/octopath-traveler-ii-tips-guide-character-to-start-with-1850173910)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
