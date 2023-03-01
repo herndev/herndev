@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are All The Metroid Prime Remastered Morph Ball Tips You Need](https://kotaku.com/metroid-prime-remastered-switch-boost-ball-tips-upgrade-1850174287)
- - [New Deep Rock Galactic spinoff is a Vampire Survivors-style auto-shooter &lpar;with mining&rpar;](https://www.pcgamer.com/new-deep-rock-galactic-spinoff-is-a-vampire-survivors-style-auto-shooter-with-mining)
- - [Creed III Director Michael B. Jordan Wanted It To Be Anime AF](https://kotaku.com/michael-b-jordan-creed-3-jonathan-majors-anime-naruto-d-1850174139)<!-- GAME:END -->
+ - [After Four Years, The Pokémon Sleep App Is Finally Real](https://kotaku.com/what-is-pokemon-sleep-release-date-app-ios-android-1850162624)
+ - [The best microSD cards for the Nintendo Switch](https://www.polygon.com/deals/23620667/best-micro-sd-cards-nintendo-switch-lite-oled)
+ - [Your dog will steal even more hearts in these Persona 5 Royal pet accessories](https://www.polygon.com/deals/23618987/persona-5-royal-pet-accessories-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
