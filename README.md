@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with iHeartMedia&#39;s Conal Byrne on overseeing podcasting at the company, the industry maturing, RSS, radio and podcast ads, subscriptions, and exclusivity &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230228/p30#a230228p30)
- - [New Childhood Obesity Guidelines Say It&#39;s a Disease That Needs Treatment     - CNET](https://www.cnet.com/health/medical/new-childhood-obesity-guidelines-say-its-a-disease-that-needs-treatment/#ftag=CAD590a51e)
- - [Twitter’s decentralized alternative Bluesky arrives as an invite-only iOS app](https://www.theverge.com/2023/2/28/23619270/decentralized-twitter-alternative-bluesky-ios-invite-only)<!-- TECH:END -->
+ - [Apple Card promotion promises $150 cash back for select new applicants](https://appleinsider.com/articles/23/03/01/apple-card-promotion-promises-150-cash-back-for-select-new-applicants?utm_medium=rss)
+ - [Mid-to-late stage tech startups will likely face a reckoning in late 2023 to 2024, as companies run out of cash from &quot;free rounds&quot; fueled by low interest rates &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230228/p31#a230228p31)
+ - [Look Out, eSIMs -- Future Phones Could Use More Efficient &#39;iSIMs&#39;     - CNET](https://www.cnet.com/tech/mobile/look-out-esims-future-phones-could-use-more-efficient-isims/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
