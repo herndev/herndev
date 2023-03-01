@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
- - ⏩ [Some people are nuts](http://9gag.com/gag/aqeyARv)
- - 👉 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
+ - 💣 [To show off a gun](http://9gag.com/gag/awZyvyr)
+ - ⏩ [Collector item&#39;s](http://9gag.com/gag/aVbvBgK)
+ - 👉 [Gorilla sees a child and shows her child](http://9gag.com/gag/ajVPWPg)<!-- MEMES:END -->
 
 ---
 
