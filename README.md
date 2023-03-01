@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To not lose the head in fight](http://9gag.com/gag/a04eMYB)
- - ⏩ [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
- - 👉 [This is how body positivity looks like](http://9gag.com/gag/aL1nd6P)<!-- MEMES:END -->
+ - 💣 [6 months after using this air filter and I wanted to change the filter, then found out that I didn\u2019t unwrap the package since the beginning](http://9gag.com/gag/a6qZ26m)
+ - ⏩ [Cops Pepper Sprayed THEIR OWN Senator Without Realizing he&#39;s an Authority Figure](http://9gag.com/gag/aVbvEpd)
+ - 👉 [Equality?](http://9gag.com/gag/aOx8DNM)<!-- MEMES:END -->
 
 ---
 
