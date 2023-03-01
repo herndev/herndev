@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)
- - [Fortnite Is Adding Cyborgs To The Rocky Universe](https://kotaku.com/rocky-creed-iii-fortnite-skin-michael-b-jordan-anime-1850170535)
- - [Call of Duty’s fox boy is packing some real heat](https://www.polygon.com/23619121/call-of-duty-modern-warfare-warzone-2-hutch-skin-penis)<!-- GAME:END -->
+ - [Cities: Skylines and BattleTech developers will announce new games next week](https://www.pcgamer.com/cities-skylines-and-battletech-developers-will-announce-new-games-next-week)
+ - [Naoki Yoshida says Final Fantasy 16 won&#39;t be on PC 6 months after release](https://www.pcgamer.com/naoki-yoshida-says-final-fantasy-16-wont-be-on-pc-6-months-after-release)
+ - [How to play Diablo 4’s Open Beta](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-early-access-preorder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
