@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Clean Energy Charging - everything you need to know](https://appleinsider.com/articles/23/03/01/iphone-clean-energy-charging---everything-you-need-to-know?utm_medium=rss)
- - [The Mountain Village in the Path of India’s Electric Dreams](https://www.wired.com/story/lithium-village-in-the-path-of-indias-electric-dreams/)
- - [It’s Time to Fall in Love with Nuclear Fusion—Again](https://www.wired.com/story/livermore-nuclear-fusion-homemade-suns/)<!-- TECH:END -->
+ - [Mac Pro is coming confirms Apple exec, but when is the question](https://appleinsider.com/articles/23/03/01/mac-pro-is-coming-confirms-apple-exec-but-when-is-the-question?utm_medium=rss)
+ - [How AI Could Transform Email](https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/)
+ - [Zwift Hub Smart Cycling Trainer Review: An Affordable Way to Ride Indoors](https://www.wired.com/review/zwift-hub-smart-trainer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
