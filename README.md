@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Lucasfilm launch ‘The Mandalorian’-themed gaming gear for Season 3](https://news.xbox.com/en-us/2023/03/01/xbox-mandalorian-star-wars-gaming-gear-collaboration/)
- - [Every new movie and show coming to Disney Plus in March](https://www.polygon.com/2023/3/1/23610215/disney-plus-new-movies-tv-watch-march-2023)
- - [Every movie and show coming to Netflix in March](https://www.polygon.com/2023/3/1/23610210/new-netflix-movies-tv-shows-watch-march-2023)<!-- GAME:END -->
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [Phantom Brigade can’t convey the nuances of its own subversive mech combat](https://www.polygon.com/reviews/23619369/phantom-brigade-review-turn-based-tactics-mech-combat-pc)
+ - [Netflix is turning Stranger Things into a stage play](https://www.polygon.com/23620164/stranger-things-play-the-first-shadow-netflix-london-tickets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
