@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An epic moment from X-Men: The Last Stand](http://9gag.com/gag/aPgAQ2n)
- - ⏩ [Damn...](http://9gag.com/gag/aGEyOBz)
- - 👉 [If it is brown, lay down](http://9gag.com/gag/aPgAeqP)<!-- MEMES:END -->
+ - 💣 [Babe are you okay?](http://9gag.com/gag/aDY2XNw)
+ - ⏩ [Old man and Jesus](http://9gag.com/gag/a4oPzVy)
+ - 👉 [\u201cCalcium Oxalate\u201d stone removed from the bladder](http://9gag.com/gag/amAoMyv)<!-- MEMES:END -->
 
 ---
 
