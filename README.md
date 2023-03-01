@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oda’s AI-‘written’ One Piece chapter weirdly makes sense](https://www.polygon.com/23620489/ai-written-one-piece-chapter-eiichiro-oda-chatgpt)
- - [Free Horror Game Is A Corrupted, Nightmare Version Of N64&#39;s Goldeneye](https://kotaku.com/free-horror-game-fps-shooter-goldeneye-n64-007-glitch-1850173904)
- - [8 Things I Wish I Knew Before Starting Octopath Traveler II](https://kotaku.com/octopath-traveler-ii-tips-guide-character-to-start-with-1850173910)<!-- GAME:END -->
+ - [Here Are All The Metroid Prime Remastered Morph Ball Tips You Need](https://kotaku.com/metroid-prime-remastered-switch-boost-ball-tips-upgrade-1850174287)
+ - [New Deep Rock Galactic spinoff is a Vampire Survivors-style auto-shooter &lpar;with mining&rpar;](https://www.pcgamer.com/new-deep-rock-galactic-spinoff-is-a-vampire-survivors-style-auto-shooter-with-mining)
+ - [Creed III Director Michael B. Jordan Wanted It To Be Anime AF](https://kotaku.com/michael-b-jordan-creed-3-jonathan-majors-anime-naruto-d-1850174139)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
