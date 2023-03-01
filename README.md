@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Buds Pro and Pixel Buds A-Series could be get a ‘Sky Blue’ version](https://www.androidauthority.com/sky-blue-pixel-buds-3291567/)
- - [Following criticism, OpenAI says it won&#39;t use data submitted through its API for &quot;service improvements&quot;, including AI model training, unless a customer opts in &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230301/p24#a230301p24)
- - [OpenAI launches ChatGPT API for businesses, with dedicated capacity plans and priced at $0.002/~750 words, and says Snap and Shopify are among early adopters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230301/p23#a230301p23)<!-- TECH:END -->
+ - [New App Store benchmarks let devs compare app performance to peers](https://appleinsider.com/articles/23/03/01/new-app-store-benchmarks-let-devs-compare-app-performance-to-peers?utm_medium=rss)
+ - [Robinhood launches a standalone Robinhood Wallet app globally on iOS, with Polygon and Ethereum network support, and says an Android app is coming later in 2023 &lpar;Zeynep Geylan/CryptoSlate&rpar;](http://www.techmeme.com/230301/p25#a230301p25)
+ - [A GOP plan to ban TikTok nationwide advances out of committee](https://www.theverge.com/2023/3/1/23620736/tiktok-ban-china-app-biden-foreign-affairs-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
