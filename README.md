@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drunken yahoo&#39;s in the lift](http://9gag.com/gag/ap9RVA8)
- - ⏩ [To show off a gun](http://9gag.com/gag/awZyvyr)
- - 👉 [Journalist from Kosovo reporting from Brussels about meeting from Prime minister of Kosovo and the President of Serbia and this happened. N](http://9gag.com/gag/a4oPAGZ)<!-- MEMES:END -->
+ - 💣 [Any experience here?](http://9gag.com/gag/aBdyP7Z)
+ - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 👉 [To show off a gun](http://9gag.com/gag/awZyvyr)<!-- MEMES:END -->
 
 ---
 
