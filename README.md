@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
- - [Phantom Brigade can’t convey the nuances of its own subversive mech combat](https://www.polygon.com/reviews/23619369/phantom-brigade-review-turn-based-tactics-mech-combat-pc)
- - [Netflix is turning Stranger Things into a stage play](https://www.polygon.com/23620164/stranger-things-play-the-first-shadow-netflix-london-tickets)<!-- GAME:END -->
+ - [One Piece Creator Asked AI To Write A New Manga Chapter](https://kotaku.com/one-piece-eiichiro-oda-chatgpt-ai-chopper-manga-1850172765)
+ - [How to find Cloud Accretions in Destiny 2: Lightfall](https://www.pcgamer.com/destiny-2-cloud-accretions-unfinished-business)
+ - [The Last of Us’ best story got a lot more tragic on TV](https://www.polygon.com/23619294/last-us-episode-7-ellie-gay-storm-reid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
