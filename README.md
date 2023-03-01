@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - ⏩ [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 💣 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
  - 👉 [How To Recognize the Artists of Paintings](http://9gag.com/gag/aBdy4jz)<!-- MEMES:END -->
 
 ---
