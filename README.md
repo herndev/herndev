@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump cuts deep](http://9gag.com/gag/a5XQ5qL)
- - ⏩ [F**king LOL. Harry really gonna `Waghhhh` now](http://9gag.com/gag/aGEy77z)
- - 👉 [Burned.](http://9gag.com/gag/anz721q)<!-- MEMES:END -->
+ - 💣 [Equality?](http://9gag.com/gag/aOx8DNM)
+ - ⏩ [And with all that wokeness, anti-woke people still bought the game to spite the lgbt.](http://9gag.com/gag/aqeyDwp)
+ - 👉 [When you realize how close it was- Made in Argentina.](http://9gag.com/gag/aQEzOGW)<!-- MEMES:END -->
 
 ---
 
