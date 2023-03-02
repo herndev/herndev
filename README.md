@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Diablo III: Eternal Collection, Train Life: A Railway Simulator, and Human Fall Flat](https://news.xbox.com/en-us/2023/03/02/free-play-days-diablo-iii-eternal-collection-train-life-a-railway-simulator-and-human-fall-flat/)
- - [&#39;There is no doubt that I knew the facts&#39;—Sonic creator admits insider trading guilt on first day of trial](https://www.pcgamer.com/there-is-no-doubt-that-i-knew-the-factssonic-creator-admits-insider-trading-guilt-on-first-day-of-trial)
- - [Over $30 Million Worth Of Funkos Are Headed To The Landfill](https://kotaku.com/funko-pop-spider-man-harry-potter-post-malone-pokemon-1850178280)<!-- GAME:END -->
+ - [PowerWash Simulator: Fight Grime in the World of Final Fantasy with the Free Midgar Special Pack](https://news.xbox.com/en-us/2023/03/02/powerwash-simulator-fight-grime-in-the-world-of-final-fantasy-with-the-free-midgar-special-pack/)
+ - [Popular Vtuber Pikamee Retires Following Hogwarts Legacy Controversy](https://kotaku.com/pikamee-vtuber-hogwarts-legacy-stream-twitch-youtube-1850178628)
+ - [Sailor Moon is now streaming 24/7 for free](https://www.polygon.com/23621976/pluto-tv-sailor-moon-streaming-free-channel-hulu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
