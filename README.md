@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Staff and analysts: the ~$43B FIS-Worldpay deal suffered from incompatibility, Worldpay&#39;s slow response to changing user needs, and more, resulting in the split &lpar;Financial Times&rpar;](http://www.techmeme.com/230302/p6#a230302p6)
- - [Daily Authority: 🎨 Fresh Galaxy A34 and A54 leak shows off colorways](https://www.androidauthority.com/daily-authority-march-2-2023-3291944/)
- - [China&#39;s Big Fund pledged to invest ~$1.9B in memory chipmaker YMTC, suggesting Beijing is again increasing spending on its beleaguered industry after US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230302/p5#a230302p5)<!-- TECH:END -->
+ - [After Twitter cut off API access, Tapbots and The Iconfactory update Tweetbot and Twitterrific, asking subscribers to consider declining prorated refunds &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230302/p8#a230302p8)
+ - [Apple doubles its $1 billion investment in German R&amp;D](https://appleinsider.com/articles/23/03/02/apple-doubles-its-1-billion-investment-in-german-rd?utm_medium=rss)
+ - [China stalls Softbank deal to hang on to Arm](https://appleinsider.com/articles/23/03/02/china-stalls-softbank-deal-to-hang-on-to-arm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
