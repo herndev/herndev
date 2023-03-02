@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A history of Xerox Alto, a computer that debuted in the early spring of 1973 at PARC and presaged personal, interactive, networked, and graphical computing &lpar;David C. Brock/IEEE Spectrum&rpar;](http://www.techmeme.com/230302/p3#a230302p3)
  - [Sources: Chinese officials have declined to process Arm China&#39;s transfer to a new Vision Fund entity, holding up Arm&#39;s plan to exit the joint venture &lpar;Financial Times&rpar;](http://www.techmeme.com/230302/p2#a230302p2)
- - [Samsung Galaxy Watch 6: Everything we know &lpar;Updated: March 2&rpar;](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)
- - [Xiaomi could soon launch a Wear OS 3 smartwatch](https://www.androidauthority.com/xiaomi-wear-os-3-smartwatch-3291873/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 6: Everything we know &lpar;Updated: March 2&rpar;](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
