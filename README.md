@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: at least eight companies that went public via SPACs filed for bankruptcy since June 2022, almost 100 are spending unsustainably, and 73 trade below $1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230301/p35#a230301p35)
  - [Apptopia: so far in 2023, TikTok has generated $205M more in IAP revenue than Facebook, Instagram, Snapchat, and Twitter combined &lpar;John Koetsier/Forbes&rpar;](http://www.techmeme.com/230301/p34#a230301p34)
- - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass visual IQ tests, and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)
- - [Multiple mall shootings prompt Apple Store closure in North Carolina](https://appleinsider.com/articles/23/03/02/multiple-mall-shootings-prompt-apple-store-closure-in-north-carolina?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass visual IQ tests, and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
