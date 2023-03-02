@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recording for social media](http://9gag.com/gag/anz7Gn5)
- - ⏩ [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 👉 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
+ - 💣 [Get woke go broke](http://9gag.com/gag/aBdyjWQ)
+ - ⏩ [Shock](http://9gag.com/gag/adPBd2B)
+ - 👉 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)<!-- MEMES:END -->
 
 ---
 
