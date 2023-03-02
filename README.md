@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect woman](http://9gag.com/gag/aMEVyNA)
- - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
- - 👉 [Title](http://9gag.com/gag/a3Z4n9r)<!-- MEMES:END -->
+ - 💣 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
+ - ⏩ [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - 👉 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
 
 ---
 
