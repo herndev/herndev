@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teladoc Health, which runs BetterHelp, settles with the FTC for $7.8M and agrees to stop sharing data with Meta, Snap, and other companies for ad purposes &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/230302/p20#a230302p20)
- - [Dead by Daylight’s getting a movie](https://www.theverge.com/2023/3/2/23622118/dead-by-daylight-movie-blumhouse-behaviour-interactive)
- - [If you&#39;re a developer, Setapp wants to hear from you about Mac apps](https://appleinsider.com/articles/23/03/02/if-youre-a-developer-setapp-wants-to-hear-from-you-about-mac-apps?utm_medium=rss)<!-- TECH:END -->
+ - [Why hasn’t OnePlus delivered Android 13 to all OnePlus 10 Pro users yet?](https://www.androidauthority.com/oneplus-10-pro-android-13-3292105/)
+ - [Coinbase, Circle, Paxos, Crypto.com, Bitstamp, Cboe, and Gemini suspend business operations with Silvergate, which reported being &quot;less than well-capitalized&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230302/p21#a230302p21)
+ - [New EU rules would force Apple to open up iMessage](https://appleinsider.com/articles/23/03/02/new-eu-rules-would-force-apple-to-open-up-imessage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
