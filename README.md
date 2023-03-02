@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casetify celebrates &#39;The Mandalorian&#39; with iPhone cases and more](https://appleinsider.com/articles/23/03/02/casetify-celebrates-the-mandalorian-with-iphone-cases-and-more?utm_medium=rss)
- - [Eli Lilly Cuts Price for Its Most-Commonly Prescribed Insulin     - CNET](https://www.cnet.com/health/medical/eli-lilly-cuts-price-for-its-most-commonly-prescribed-insulin/#ftag=CAD590a51e)
- - [Wunderkind, which lets brands target web visitors through emails, texts, and more, raised a $76M Series C, bringing its total funding to $150M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230302/p17#a230302p17)<!-- TECH:END -->
+ - [iPhone 15 Pro Max: What it looks like and when it&#39;s coming](https://appleinsider.com/articles/23/03/02/iphone-15-pro-max-what-it-looks-like-and-when-its-coming?utm_medium=rss)
+ - [Wrestling series &#39;Monster Factory&#39; bodyslams Apple TV+ in March](https://appleinsider.com/articles/23/03/02/wrestling-series-monster-factory-bodyslams-apple-tv-in-march?utm_medium=rss)
+ - [Pixel Watch BoM report reveals the actual cost of Google’s smartwatch](https://www.androidauthority.com/google-pixel-watch-cost-3292056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
