@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - 💣 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
  - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 👉 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
+ - 👉 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
 
 ---
 
