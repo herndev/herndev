@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Telltale delays the Wolf Among Us 2 till at least next year, because if it&#39;s half-baked &#39;we&#39;re going to get torn to shreds&#39;](https://www.pcgamer.com/telltale-delays-the-wolf-among-us-2-till-at-least-next-year-because-if-its-half-baked-were-going-to-get-torn-to-shreds)
- - [These gloriously atrocious volume control designs are sending me](https://www.pcgamer.com/these-gloriously-atrocious-volume-control-designs-are-sending-me)
- - [How to build a defensive wall in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-defensive-wall)<!-- GAME:END -->
+ - [Mario Kart 8’s new Birdo and Yoshi’s Island DLC arrive next week](https://www.polygon.com/23621879/mario-kart-8-deluxe-switch-booster-course-dlc-4-release-date)
+ - [What Worf really meant to Star Trek legend Michael Dorn](https://www.polygon.com/23620555/worf-star-trek-picard-season-3-michael-dorn-interview)
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
