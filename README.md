@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First person shooters have been getting perspective wrong all along](https://www.pcgamer.com/first-person-shooters-have-been-getting-perspective-wrong-all-along)
- - [Wordle hint and answer #621: Thursday, March 2](https://www.pcgamer.com/wordle-hint-answer-today-621-march-2)
- - [Meta&#39;s hardware roadmap includes multiple new Quest headsets, and more emphasis on AR](https://www.pcgamer.com/metas-hardware-roadmap-includes-multiple-new-quest-headsets-and-more-emphasis-on-ar)<!-- GAME:END -->
+ - [&#39;I was deranged&#39;—Half-Life writer&#39;s regret at publishing episode 3 story](https://www.pcgamer.com/i-was-derangedhalf-life-writers-regret-at-publishing-episode-3-story)
+ - [Games consoles now deliver fully one quarter of AMD&#39;s revenues](https://www.pcgamer.com/games-consoles-now-deliver-fully-one-quarter-of-amds-revenues)
+ - [Wo Long: Fallen Dynasty review](https://www.pcgamer.com/wo-long-fallen-dynasty-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
