@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator: Fight Grime in the World of Final Fantasy with the Free Midgar Special Pack](https://news.xbox.com/en-us/2023/03/02/powerwash-simulator-fight-grime-in-the-world-of-final-fantasy-with-the-free-midgar-special-pack/)
- - [Popular Vtuber Pikamee Retires Following Hogwarts Legacy Controversy](https://kotaku.com/pikamee-vtuber-hogwarts-legacy-stream-twitch-youtube-1850178628)
- - [Sailor Moon is now streaming 24/7 for free](https://www.polygon.com/23621976/pluto-tv-sailor-moon-streaming-free-channel-hulu)<!-- GAME:END -->
+ - [Overwatch 2: Check Out the Kiriko One-Punch Man Collaboration Skin &lpar;and How It Was Made&rpar;](https://news.xbox.com/en-us/2023/03/02/overwatch-2-kiriko-one-punch-man-skin/)
+ - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
