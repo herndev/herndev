@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Disney World Debut Of The Mandalorian &amp; Baby Yoda Was Chaos](https://kotaku.com/mandalorian-grogu-baby-yoda-season-3-walt-disney-world-1850180862)
- - [Pathfinder’s Tian Xia setting is back with a horror-themed campaign](https://www.polygon.com/tabletop-games/23622697/pathfinder-tian-xia-adventure-path-announcement)
- - [Genshin Impact’s Most Controversial New Character Is Nearly Unplayable](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-dehya-leaks-nerf-1850180828)<!-- GAME:END -->
+ - [Co-op fantasy tavern sim Innchanted is coming out this month](https://www.pcgamer.com/co-op-fantasy-tavern-sim-innchanted-is-coming-out-this-month)
+ - [A brief history of Mandalore, The Mandalorian’s most important planet](https://www.polygon.com/23622461/mandalorian-mandalore-civil-war-mythosaur)
+ - [This is not a place of honor: up to $36 million worth of Funko Pops to be entombed in landfills](https://www.pcgamer.com/this-is-not-a-place-of-honor-up-to-dollar36-million-worth-of-funko-pops-to-be-entombed-in-landfills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
