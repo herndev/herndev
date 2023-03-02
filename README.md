@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: crypto-friendly bank Silvergate delays its annual report and cites investigations from regulators, Congress, and the US DOJ; its stock plunges 30%+ &lpar;CoinDesk&rpar;](http://www.techmeme.com/230301/p31#a230301p31)
- - [New iOS Rapid Security Response update sent to iOS 16.4 &amp; macOS 13.3 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
- - [Rare, Jurassic-Era Giant Insect Discovered at Arkansas Walmart     - CNET](https://www.cnet.com/science/biology/rare-jurassic-era-giant-insect-discovered-at-arkansas-walmart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail UEFI bootkit BlackLotus, capable of bypassing UEFI Secure Boot even on up-to-date Windows 11 systems and selling for $5K since October 2022 &lpar;Martin Smol&amp;aacute;r/WeLiveSecurity&rpar;](http://www.techmeme.com/230301/p32#a230301p32)
+ - [Apple high-yield Savings account one step closer to launch](https://appleinsider.com/articles/23/03/02/apple-high-yield-savings-account-one-step-closer-to-launch?utm_medium=rss)
+ - [Save 40% on the Acer Chromebook 317, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
