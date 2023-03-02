@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of former FTX engineering chief Nishad Singh; filings show Singh owned 7.8% of FTX US, 10% of FTX Ventures, and 44M shares in the main exchange &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p4#a230302p4)
- - [Google Assistant forgot how to control smart home devices &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/google-assistant-smart-home-3290958/)
- - [Fujifilm announces the new Instax Mini 12 instant camera](https://www.theverge.com/2023/3/2/23616759/fujifilm-instax-mini-12-instax-mini-11-instant-camera)<!-- TECH:END -->
+ - [Staff and analysts: the ~$43B FIS-Worldpay deal suffered from incompatibility, Worldpay&#39;s slow response to changing user needs, and more, resulting in the split &lpar;Financial Times&rpar;](http://www.techmeme.com/230302/p6#a230302p6)
+ - [Daily Authority: 🎨 Fresh Galaxy A34 and A54 leak shows off colorways](https://www.androidauthority.com/daily-authority-march-2-2023-3291944/)
+ - [China&#39;s Big Fund pledged to invest ~$1.9B in memory chipmaker YMTC, suggesting Beijing is again increasing spending on its beleaguered industry after US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230302/p5#a230302p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
