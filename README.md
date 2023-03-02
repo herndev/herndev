@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cap?](http://9gag.com/gag/amAonE9)
- - ⏩ [Don&#39;t reid too much into the title](http://9gag.com/gag/armyDyp)
- - 👉 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
+ - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
+ - ⏩ [Congratulations World...we are near our doomsday](http://9gag.com/gag/ajVP38q)
+ - 👉 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)<!-- MEMES:END -->
 
 ---
 
