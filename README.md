@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get woke go broke](http://9gag.com/gag/aBdyjWQ)
- - ⏩ [Shock](http://9gag.com/gag/adPBd2B)
- - 👉 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)<!-- MEMES:END -->
+ - 💣 [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)
+ - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
+ - 👉 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
 
 ---
 
