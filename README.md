@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals Intel’s next chips reportedly support Windows 12](https://www.androidauthority.com/intel-windows-12-leak-3291645/)
- - [Paris-based Sesamm, which uses NLP to generate insights helping companies adhere to their ESG goals, raised a &amp;euro;35M Series B2, taking its total funding to &amp;euro;50.5M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230301/p30#a230301p30)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [Filing: crypto-friendly bank Silvergate delays its annual report and cites investigations from regulators, Congress, and the US DOJ; its stock plunges 30%+ &lpar;CoinDesk&rpar;](http://www.techmeme.com/230301/p31#a230301p31)
+ - [New iOS Rapid Security Response update sent to iOS 16.4 &amp; macOS 13.3 beta testers](https://appleinsider.com/articles/23/03/01/new-ios-rapid-security-response-update-sent-to-ios-164-beta-testers?utm_medium=rss)
+ - [Rare, Jurassic-Era Giant Insect Discovered at Arkansas Walmart     - CNET](https://www.cnet.com/science/biology/rare-jurassic-era-giant-insect-discovered-at-arkansas-walmart/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
