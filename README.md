@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - ⏩ [Recording for social media](http://9gag.com/gag/anz7Gn5)
- - 👉 [Perfect woman](http://9gag.com/gag/aMEVyNA)<!-- MEMES:END -->
+ - 💣 [What can you do...](http://9gag.com/gag/agomdoq)
+ - ⏩ [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 👉 [Title](http://9gag.com/gag/a3Z4n9r)<!-- MEMES:END -->
 
 ---
 
