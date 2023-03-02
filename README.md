@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redditors Find Popular YouTuber Ludwig&#39;s Stolen Rare Truck In 24 Hours](https://kotaku.com/youtube-streamer-ludwig-stolen-subaru-truck-reddit-1850180401)
- - [Overwatch 2 One-Punch Man collab continues with Kiriko as Terrible Tornado](https://www.polygon.com/23622474/overwatch-2-one-punch-man-release-date-kiriko-terrible-tornado)
- - [5 Huge Games Releasing This Spring &lpar;And Music You Should Jam While Playing&rpar;](https://kotaku.com/2023-video-game-releases-re4-last-jedi-indie-music-recs-1850180431)<!-- GAME:END -->
+ - [The Disney World Debut Of The Mandalorian &amp; Baby Yoda Was Chaos](https://kotaku.com/mandalorian-grogu-baby-yoda-season-3-walt-disney-world-1850180862)
+ - [Pathfinder’s Tian Xia setting is back with a horror-themed campaign](https://www.polygon.com/tabletop-games/23622697/pathfinder-tian-xia-adventure-path-announcement)
+ - [Genshin Impact’s Most Controversial New Character Is Nearly Unplayable](https://kotaku.com/genshin-impact-mihoyo-hoyoverse-dehya-leaks-nerf-1850180828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
