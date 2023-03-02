@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max: What it looks like and when it&#39;s coming](https://appleinsider.com/articles/23/03/02/iphone-15-pro-max-what-it-looks-like-and-when-its-coming?utm_medium=rss)
- - [Wrestling series &#39;Monster Factory&#39; bodyslams Apple TV+ in March](https://appleinsider.com/articles/23/03/02/wrestling-series-monster-factory-bodyslams-apple-tv-in-march?utm_medium=rss)
- - [Pixel Watch BoM report reveals the actual cost of Google’s smartwatch](https://www.androidauthority.com/google-pixel-watch-cost-3292056/)<!-- TECH:END -->
+ - [Teladoc Health, which runs BetterHelp, settles with the FTC for $7.8M and agrees to stop sharing data with Meta, Snap, and other companies for ad purposes &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/230302/p20#a230302p20)
+ - [Dead by Daylight’s getting a movie](https://www.theverge.com/2023/3/2/23622118/dead-by-daylight-movie-blumhouse-behaviour-interactive)
+ - [If you&#39;re a developer, Setapp wants to hear from you about Mac apps](https://appleinsider.com/articles/23/03/02/if-youre-a-developer-setapp-wants-to-hear-from-you-about-mac-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
