@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
+ - 💣 [Don&#39;t reid too much into the title](http://9gag.com/gag/armyDyp)
  - ⏩ [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - 👉 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
+ - 👉 [Cap?](http://9gag.com/gag/amAonE9)<!-- MEMES:END -->
 
 ---
 
