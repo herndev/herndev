@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: Check Out the Kiriko One-Punch Man Collaboration Skin &lpar;and How It Was Made&rpar;](https://news.xbox.com/en-us/2023/03/02/overwatch-2-kiriko-one-punch-man-skin/)
- - [Spotted in the wild: an actually good video game shirt](https://www.polygon.com/deals/23616658/uniqlo-katamari-damacy-video-game-shirts-moma)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
+ - [Halo Infinite: Forge Beta Passes 1 Million Creations](https://news.xbox.com/en-us/2023/03/02/halo-infinite-forge-beta-1-million-creations/)
+ - [Grey’s Anatomy can and should get messier without Meredith](https://www.polygon.com/23620537/greys-anatomy-season-19-cast-meredith-ellen-pompeo)
+ - [9 Kerbal Space Program 2 tips for beginner rocket scientists](https://www.pcgamer.com/kerbal-space-program-2-tips-beginners-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
