@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cap?](http://9gag.com/gag/amAonE9)
- - ⏩ [Saved by the bell](http://9gag.com/gag/aGEy69z)
- - 👉 [Who was in the wrong?](http://9gag.com/gag/aBdyvZz)<!-- MEMES:END -->
+ - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
+ - ⏩ [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 👉 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
 
 ---
 
