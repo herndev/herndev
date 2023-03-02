@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I was deranged&#39;—Half-Life writer&#39;s regret at publishing episode 3 story](https://www.pcgamer.com/i-was-derangedhalf-life-writers-regret-at-publishing-episode-3-story)
- - [Games consoles now deliver fully one quarter of AMD&#39;s revenues](https://www.pcgamer.com/games-consoles-now-deliver-fully-one-quarter-of-amds-revenues)
- - [Wo Long: Fallen Dynasty review](https://www.pcgamer.com/wo-long-fallen-dynasty-review)<!-- GAME:END -->
+ - [How to build a defensive wall in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-defensive-wall)
+ - [PC Gamer UK April issue on sale now: Warframe: The Duviri Paradox](https://www.pcgamer.com/pc-gamer-uk-april-issue-on-sale-now-warframe-the-duviri-paradox)
+ - [You&#39;ve got one week to nab 69 games for $30, and for a good cause too](https://www.pcgamer.com/youve-got-one-week-to-nab-69-games-for-dollar30-and-for-a-good-cause-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
