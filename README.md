@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)
- - [Dune spinoff series shuts down, loses its director and star](https://www.polygon.com/23621097/dune-the-sisterhood-hiatus-hbo-max-denis-villeneuve)
- - [That was quick: Speedrunner beats Sons of the Forest in under 9 minutes](https://www.pcgamer.com/that-was-quick-speedrunner-beats-sons-of-the-forest-in-under-9-minutes)<!-- GAME:END -->
+ - [Kerbal Space Program 2&#39;s unfinished features may have been unearthed by dataminers](https://www.pcgamer.com/kerbal-space-program-2s-unfinished-features-may-have-been-unearthed-by-dataminers)
+ - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
+ - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
