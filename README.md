@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why hasn’t OnePlus delivered Android 13 to all OnePlus 10 Pro users yet?](https://www.androidauthority.com/oneplus-10-pro-android-13-3292105/)
- - [Coinbase, Circle, Paxos, Crypto.com, Bitstamp, Cboe, and Gemini suspend business operations with Silvergate, which reported being &quot;less than well-capitalized&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230302/p21#a230302p21)
- - [New EU rules would force Apple to open up iMessage](https://appleinsider.com/articles/23/03/02/new-eu-rules-would-force-apple-to-open-up-imessage?utm_medium=rss)<!-- TECH:END -->
+ - [Buy Pizza Hut today with Apple Pay to get $5 off your next order](https://appleinsider.com/articles/23/03/02/buy-pizza-hut-today-with-apple-pay-to-get-5-off-your-next-order?utm_medium=rss)
+ - [How to Stream Audio Direct to Hearing Aids and Cochlear Implants on Google Pixel](https://www.wired.com/gallery/how-to-stream-audio-direct-to-hearing-aids-and-cochlear-implants-on-google-pixel/)
+ - [How to Stream Audio Direct to Hearing Aids and Cochlear Implants on iPhone](https://www.wired.com/gallery/how-to-stream-audio-direct-to-hearing-aids-and-cochlear-implants-on-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
