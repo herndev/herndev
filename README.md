@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your Galaxy S23 protection with UAG’s Magnet Module cases](https://www.androidauthority.com/galaxy-s23-uag-magnet-module-cases-3288979/)
- - [Daily Deals: iPad Air 5 $499, $400 off 1TB MacBook Air, $300 off iPad Pro &amp; more](https://appleinsider.com/articles/23/03/02/daily-deals-ipad-air-5-499-400-off-1tb-macbook-air-300-off-ipad-pro-more?utm_medium=rss)
- - [Apple looks like it&#39;s going to age-restrict AI chat agents](https://appleinsider.com/articles/23/03/02/apple-looks-like-its-going-to-age-restrict-ai-chat-agents?utm_medium=rss)<!-- TECH:END -->
+ - [Casetify celebrates &#39;The Mandalorian&#39; with iPhone cases and more](https://appleinsider.com/articles/23/03/02/casetify-celebrates-the-mandalorian-with-iphone-cases-and-more?utm_medium=rss)
+ - [Eli Lilly Cuts Price for Its Most-Commonly Prescribed Insulin     - CNET](https://www.cnet.com/health/medical/eli-lilly-cuts-price-for-its-most-commonly-prescribed-insulin/#ftag=CAD590a51e)
+ - [Wunderkind, which lets brands target web visitors through emails, texts, and more, raised a $76M Series C, bringing its total funding to $150M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230302/p17#a230302p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
