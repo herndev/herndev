@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kerbal Space Program 2&#39;s unfinished features may have been unearthed by dataminers](https://www.pcgamer.com/kerbal-space-program-2s-unfinished-features-may-have-been-unearthed-by-dataminers)
- - [Sons of the Forest cheats: How to spawn every item, including extra Kelvins](https://www.pcgamer.com/sons-of-the-forest-cheats-console-commands)
- - [The &#39;Lebron James&#39; PlayStation 5 Looks Bad!](https://kotaku.com/lebron-james-playstation-5-ps5-sony-console-controller-1850175507)<!-- GAME:END -->
+ - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)
+ - [The PC games, betas, and events we&#39;re most excited about in March](https://www.pcgamer.com/march-2023-game-release-calendar)
+ - [Rainbow Six Siege player hacks drone that hacks drones to somehow kill player with their own claymore](https://www.pcgamer.com/rainbow-six-siege-player-hacks-drone-that-hacks-drones-to-somehow-kill-player-with-their-own-claymore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
