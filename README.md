@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Twitter cut off API access, Tapbots and The Iconfactory update Tweetbot and Twitterrific, asking subscribers to consider declining prorated refunds &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230302/p8#a230302p8)
- - [Apple doubles its $1 billion investment in German R&amp;D](https://appleinsider.com/articles/23/03/02/apple-doubles-its-1-billion-investment-in-german-rd?utm_medium=rss)
- - [China stalls Softbank deal to hang on to Arm](https://appleinsider.com/articles/23/03/02/china-stalls-softbank-deal-to-hang-on-to-arm?utm_medium=rss)<!-- TECH:END -->
+ - [Platforms Can Optimize for Metrics Beyond Engagement](https://www.wired.com/story/platforms-engagement-research-meta/)
+ - [How Old Are You, Really? New Tests Want to Tell You](https://www.wired.com/story/how-old-are-you-really-new-tests-want-to-tell-you/)
+ - [We Really Recommend This Podcast Episode](https://www.wired.com/story/gadget-lab-podcast-588/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
