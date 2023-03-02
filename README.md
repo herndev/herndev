@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
- - ⏩ [Congratulations World...we are near our doomsday](http://9gag.com/gag/ajVP38q)
- - 👉 [Wife pranks her husband in the most wholesome way](http://9gag.com/gag/amAoK94)<!-- MEMES:END -->
+ - 💣 [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 👉 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
 
 ---
 
