@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to build a defensive wall in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-defensive-wall)
- - [PC Gamer UK April issue on sale now: Warframe: The Duviri Paradox](https://www.pcgamer.com/pc-gamer-uk-april-issue-on-sale-now-warframe-the-duviri-paradox)
- - [You&#39;ve got one week to nab 69 games for $30, and for a good cause too](https://www.pcgamer.com/youve-got-one-week-to-nab-69-games-for-dollar30-and-for-a-good-cause-too)<!-- GAME:END -->
+ - [Telltale delays the Wolf Among Us 2 till at least next year, because if it&#39;s half-baked &#39;we&#39;re going to get torn to shreds&#39;](https://www.pcgamer.com/telltale-delays-the-wolf-among-us-2-till-at-least-next-year-because-if-its-half-baked-were-going-to-get-torn-to-shreds)
+ - [These gloriously atrocious volume control designs are sending me](https://www.pcgamer.com/these-gloriously-atrocious-volume-control-designs-are-sending-me)
+ - [How to build a defensive wall in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-defensive-wall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
