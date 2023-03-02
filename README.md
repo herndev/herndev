@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 👉 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
+ - 💣 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
+ - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 👉 [Kowalski?](http://9gag.com/gag/aKEGLQg)<!-- MEMES:END -->
 
 ---
 
