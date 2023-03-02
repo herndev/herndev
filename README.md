@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creepy-Cute Indie Adventure Meg’s Monster Now Available on Xbox Series X and Xbox One](https://news.xbox.com/en-us/2023/03/02/megs-monster-now-available-on-xbox-series-x-and-xbox-one/)
- - [Resident Evil 4 remake makes Leon’s knife and attaché case a much bigger deal](https://www.polygon.com/23621963/resident-evil-4-preview-gameplay-knife-briefcase)
- - [15 Hours With Octopath Traveler II: Good But Disjointed Stories &lpar;So Far&rpar;](https://kotaku.com/octopath-traveler-ii-impressions-rpg-partitio-osvald-1850179725)<!-- GAME:END -->
+ - [Redditors Find Popular YouTuber Ludwig&#39;s Stolen Rare Truck In 24 Hours](https://kotaku.com/youtube-streamer-ludwig-stolen-subaru-truck-reddit-1850180401)
+ - [Overwatch 2 One-Punch Man collab continues with Kiriko as Terrible Tornado](https://www.polygon.com/23622474/overwatch-2-one-punch-man-release-date-kiriko-terrible-tornado)
+ - [5 Huge Games Releasing This Spring &lpar;And Music You Should Jam While Playing&rpar;](https://kotaku.com/2023-video-game-releases-re4-last-jedi-indie-music-recs-1850180431)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
