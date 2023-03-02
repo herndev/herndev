@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep’s new Android widget makes it easier to check off items on your to-do list](https://www.theverge.com/2023/2/27/23614281/google-keep-single-note-widget-checklist-interactive)
- - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)
- - [BetterHelp sold customer data while promising it was private, says FTC](https://www.theverge.com/2023/3/2/23622227/betterhelp-customer-data-advertising-privacy-facebook-snapchat)<!-- TECH:END -->
+ - [HPE reports Q1 revenue up 12% YoY to $7.8B, vs. $7.45B est., HPC &amp; AI revenue up 34% YoY to $1.1B, and Q2 revenue guidance above estimates &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230302/p24#a230302p24)
+ - [16 Best Deals on Home Office Gear: Portable Monitors, Desks, Power Strips](https://www.wired.com/story/midweek-deals-030223/)
+ - [How to Charge Your Non-Tesla EV at a Tesla Supercharger     - CNET](https://www.cnet.com/roadshow/news/how-to-charge-your-non-tesla-ev-at-a-tesla-supercharger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
