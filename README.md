@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recording for social media](http://9gag.com/gag/anz7Gn5)
- - ⏩ [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - 👉 [Brown](http://9gag.com/gag/aeQ97Np)<!-- MEMES:END -->
+ - 💣 [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
+ - ⏩ [The Decline of the Simpsons](http://9gag.com/gag/a3Z4NMr)
+ - 👉 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
 
 ---
 
