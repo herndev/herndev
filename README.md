@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FDA rejected Neuralink&#39;s trial application, citing dozens of issues to resolve before human testing, including the device&#39;s battery and removal &lpar;Reuters&rpar;](http://www.techmeme.com/230302/p15#a230302p15)
- - [Coinbase switches banking partners for Prime accounts from Silvergate to Signature, after Silvergate reported being &quot;less than well-capitalized&quot; &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/230302/p14#a230302p14)
- - [Email app BlueMail&#39;s co-founder says Apple blocked an update that added ChatGPT-powered features over inappropriate content concerns, requiring a 17+ age limit &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p13#a230302p13)<!-- TECH:END -->
+ - [Upgrade your Galaxy S23 protection with UAG’s Magnet Module cases](https://www.androidauthority.com/galaxy-s23-uag-magnet-module-cases-3288979/)
+ - [Daily Deals: iPad Air 5 $499, $400 off 1TB MacBook Air, $300 off iPad Pro &amp; more](https://appleinsider.com/articles/23/03/02/daily-deals-ipad-air-5-499-400-off-1tb-macbook-air-300-off-ipad-pro-more?utm_medium=rss)
+ - [Apple looks like it&#39;s going to age-restrict AI chat agents](https://appleinsider.com/articles/23/03/02/apple-looks-like-its-going-to-age-restrict-ai-chat-agents?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
