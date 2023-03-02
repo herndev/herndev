@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)
- - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
- - 👉 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
+ - 💣 [Special forces](http://9gag.com/gag/aGEy62w)
+ - ⏩ [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)
+ - 👉 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
 
 ---
 
