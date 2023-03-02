@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart 8’s new Birdo and Yoshi’s Island DLC arrive next week](https://www.polygon.com/23621879/mario-kart-8-deluxe-switch-booster-course-dlc-4-release-date)
- - [What Worf really meant to Star Trek legend Michael Dorn](https://www.polygon.com/23620555/worf-star-trek-picard-season-3-michael-dorn-interview)
- - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
+ - [Free Play Days – Diablo III: Eternal Collection, Train Life: A Railway Simulator, and Human Fall Flat](https://news.xbox.com/en-us/2023/03/02/free-play-days-diablo-iii-eternal-collection-train-life-a-railway-simulator-and-human-fall-flat/)
+ - [&#39;There is no doubt that I knew the facts&#39;—Sonic creator admits insider trading guilt on first day of trial](https://www.pcgamer.com/there-is-no-doubt-that-i-knew-the-factssonic-creator-admits-insider-trading-guilt-on-first-day-of-trial)
+ - [Over $30 Million Worth Of Funkos Are Headed To The Landfill](https://kotaku.com/funko-pop-spider-man-harry-potter-post-malone-pokemon-1850178280)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
