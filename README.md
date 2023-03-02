@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail UEFI bootkit BlackLotus, capable of bypassing UEFI Secure Boot even on up-to-date Windows 11 systems and selling for $5K since October 2022 &lpar;Martin Smol&amp;aacute;r/WeLiveSecurity&rpar;](http://www.techmeme.com/230301/p32#a230301p32)
- - [Apple high-yield Savings account one step closer to launch](https://appleinsider.com/articles/23/03/02/apple-high-yield-savings-account-one-step-closer-to-launch?utm_medium=rss)
- - [Save 40% on the Acer Chromebook 317, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass IQ tests, and more and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)
+ - [Multiple mall shootings prompt Apple Store closure in North Carolina](https://appleinsider.com/articles/23/03/02/multiple-mall-shootings-prompt-apple-store-closure-in-north-carolina?utm_medium=rss)
+ - [&#39;The Mandalorian&#39; Season 3 Episode 1 Recap: Baby Yoda Meets &#39;Pirates of the Caribbean&#39;     - CNET](https://www.cnet.com/culture/the-mandalorian-season-3-recap-baby-yoda-meets-pirates-of-the-caribbean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
