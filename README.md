@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite: Forge Beta Passes 1 Million Creations](https://news.xbox.com/en-us/2023/03/02/halo-infinite-forge-beta-1-million-creations/)
- - [Grey’s Anatomy can and should get messier without Meredith](https://www.polygon.com/23620537/greys-anatomy-season-19-cast-meredith-ellen-pompeo)
- - [9 Kerbal Space Program 2 tips for beginner rocket scientists](https://www.pcgamer.com/kerbal-space-program-2-tips-beginners-guide)<!-- GAME:END -->
+ - [Creepy-Cute Indie Adventure Meg’s Monster Now Available on Xbox Series X and Xbox One](https://news.xbox.com/en-us/2023/03/02/megs-monster-now-available-on-xbox-series-x-and-xbox-one/)
+ - [Resident Evil 4 remake makes Leon’s knife and attaché case a much bigger deal](https://www.polygon.com/23621963/resident-evil-4-preview-gameplay-knife-briefcase)
+ - [15 Hours With Octopath Traveler II: Good But Disjointed Stories &lpar;So Far&rpar;](https://kotaku.com/octopath-traveler-ii-impressions-rpg-partitio-osvald-1850179725)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
