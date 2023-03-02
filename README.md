@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi could soon launch a Wear OS 3 smartwatch](https://www.androidauthority.com/xiaomi-wear-os-3-smartwatch-3291873/)
- - [A profile of OpenAI CTO Mira Murati, who previously led Model X development at Tesla and has been at the helm of OpenAI&#39;s strategy to test its tools in public &lpar;Ainsley Harris/Fast Company&rpar;](http://www.techmeme.com/230302/p1#a230302p1)
- - [A look at India&#39;s homegrown digital payments system UPI, which is run by a nonprofit organization NPCI and is now used by ~300M individuals and 50M merchants &lpar;New York Times&rpar;](http://www.techmeme.com/230301/p36#a230301p36)<!-- TECH:END -->
+ - [Sources: Chinese officials have declined to process Arm China&#39;s transfer to a new Vision Fund entity, holding up Arm&#39;s plan to exit the joint venture &lpar;Financial Times&rpar;](http://www.techmeme.com/230302/p2#a230302p2)
+ - [Samsung Galaxy Watch 6: Everything we know &lpar;Updated: March 2&rpar;](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)
+ - [Xiaomi could soon launch a Wear OS 3 smartwatch](https://www.androidauthority.com/xiaomi-wear-os-3-smartwatch-3291873/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
