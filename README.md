@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Platforms Can Optimize for Metrics Beyond Engagement](https://www.wired.com/story/platforms-engagement-research-meta/)
- - [How Old Are You, Really? New Tests Want to Tell You](https://www.wired.com/story/how-old-are-you-really-new-tests-want-to-tell-you/)
- - [We Really Recommend This Podcast Episode](https://www.wired.com/story/gadget-lab-podcast-588/)<!-- TECH:END -->
+ - [Sources: the FDA rejected Neuralink&#39;s trial application, citing dozens of issues to resolve before human testing, including the device&#39;s battery and removal &lpar;Reuters&rpar;](http://www.techmeme.com/230302/p15#a230302p15)
+ - [Coinbase switches banking partners for Prime accounts from Silvergate to Signature, after Silvergate reported being &quot;less than well-capitalized&quot; &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/230302/p14#a230302p14)
+ - [Email app BlueMail&#39;s co-founder says Apple blocked an update that added ChatGPT-powered features over inappropriate content concerns, requiring a 17+ age limit &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230302/p13#a230302p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
