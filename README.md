@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #621: Thursday, March 2](https://www.pcgamer.com/wordle-hint-answer-today-621-march-2)
  - [Meta&#39;s hardware roadmap includes multiple new Quest headsets, and more emphasis on AR](https://www.pcgamer.com/metas-hardware-roadmap-includes-multiple-new-quest-headsets-and-more-emphasis-on-ar)
- - [The Mandalorian’s Gorian Shard is a great Christmas tree-shaped character and a terrible pirate](https://www.polygon.com/23620615/mandalorian-gorian-shard-season-3-pirate-race-idiot)
- - [And the award for the saddest patch notes ever goes to Babylon&#39;s Fall](https://www.pcgamer.com/and-the-award-for-the-saddest-patch-notes-ever-goes-to-babylons-fall)<!-- GAME:END -->
+ - [The Mandalorian’s Gorian Shard is a great Christmas tree-shaped character and a terrible pirate](https://www.polygon.com/23620615/mandalorian-gorian-shard-season-3-pirate-race-idiot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
