@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass IQ tests, and more and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)
- - [Multiple mall shootings prompt Apple Store closure in North Carolina](https://appleinsider.com/articles/23/03/02/multiple-mall-shootings-prompt-apple-store-closure-in-north-carolina?utm_medium=rss)
- - [&#39;The Mandalorian&#39; Season 3 Episode 1 Recap: Baby Yoda Meets &#39;Pirates of the Caribbean&#39;     - CNET](https://www.cnet.com/culture/the-mandalorian-season-3-recap-baby-yoda-meets-pirates-of-the-caribbean/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apptopia: so far in 2023, TikTok has generated $205M more in IAP revenue than Facebook, Instagram, Snapchat, and Twitter combined &lpar;John Koetsier/Forbes&rpar;](http://www.techmeme.com/230301/p34#a230301p34)
+ - [Microsoft researchers unveil Kosmos-1, a multimodal LLM they claim can understand image content, pass visual IQ tests, and accepts a variety of input formats &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230301/p33#a230301p33)
+ - [Multiple mall shootings prompt Apple Store closure in North Carolina](https://appleinsider.com/articles/23/03/02/multiple-mall-shootings-prompt-apple-store-closure-in-north-carolina?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
