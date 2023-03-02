@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy Pizza Hut today with Apple Pay to get $5 off your next order](https://appleinsider.com/articles/23/03/02/buy-pizza-hut-today-with-apple-pay-to-get-5-off-your-next-order?utm_medium=rss)
- - [How to Stream Audio Direct to Hearing Aids and Cochlear Implants on Google Pixel](https://www.wired.com/gallery/how-to-stream-audio-direct-to-hearing-aids-and-cochlear-implants-on-google-pixel/)
- - [How to Stream Audio Direct to Hearing Aids and Cochlear Implants on iPhone](https://www.wired.com/gallery/how-to-stream-audio-direct-to-hearing-aids-and-cochlear-implants-on-iphone/)<!-- TECH:END -->
+ - [Apple issues second 16.4 firmware beta for Studio Display](https://appleinsider.com/articles/23/03/02/apple-issues-second-164-firmware-beta-for-studio-display?utm_medium=rss)
+ - [A look at TikTok&#39;s viral Bold Glamour filter, which an expert says likely uses generative adversarial networks, amid fears the tool may hurt users&#39; self-esteem &lpar;The Verge&rpar;](http://www.techmeme.com/230302/p23#a230302p23)
+ - [Buy Pizza Hut today with Apple Pay to get $5 off your next order](https://appleinsider.com/articles/23/03/02/buy-pizza-hut-today-with-apple-pay-to-get-5-off-your-next-order?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
