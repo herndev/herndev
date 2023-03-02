@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
- - ⏩ [Stopping because you didn&#39;t want to see him hurt : Mistakes were made](http://9gag.com/gag/az2xBGm)
- - 👉 [Me neither. .](http://9gag.com/gag/az2xQ9z)<!-- MEMES:END -->
+ - 💣 [Is this Avocado or cocain?](http://9gag.com/gag/aGEyNz5)
+ - ⏩ [Perfect woman](http://9gag.com/gag/aMEVyNA)
+ - 👉 [Recording for social media](http://9gag.com/gag/anz7Gn5)<!-- MEMES:END -->
 
 ---
 
