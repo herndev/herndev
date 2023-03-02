@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me neither. .](http://9gag.com/gag/az2xQ9z)
+ - 💣 [Brown](http://9gag.com/gag/aeQ97Np)
  - ⏩ [Perfect woman](http://9gag.com/gag/aMEVyNA)
- - 👉 [Cannot find real pirate.... in the bay? Urls suck.](http://9gag.com/gag/aREBNzA)<!-- MEMES:END -->
+ - 👉 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
 
 ---
 
