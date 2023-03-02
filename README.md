@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brown](http://9gag.com/gag/aeQ97Np)
- - ⏩ [Perfect woman](http://9gag.com/gag/aMEVyNA)
- - 👉 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)<!-- MEMES:END -->
+ - 💣 [Cannot find real pirate.... in the bay? Urls suck.](http://9gag.com/gag/aREBNzA)
+ - ⏩ [Recording for social media](http://9gag.com/gag/anz7Gn5)
+ - 👉 [Saved by the bell](http://9gag.com/gag/aGEy69z)<!-- MEMES:END -->
 
 ---
 
