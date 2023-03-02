@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t reid too much into the title](http://9gag.com/gag/armyDyp)
- - ⏩ [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - 💣 [This guy thought will do some adventure with his new SUV and...](http://9gag.com/gag/ajVPReQ)
+ - ⏩ [Saved by the bell](http://9gag.com/gag/aGEy69z)
  - 👉 [Cap?](http://9gag.com/gag/amAonE9)<!-- MEMES:END -->
 
 ---
