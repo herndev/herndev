@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/chatgpt-vs-bing-chat-3292126/)
- - [Daily Authority: 🤯 Pixel Watch components cost what now?](https://www.androidauthority.com/daily-authority-march-3-2023-3292411/)
- - [Foxconn to build $700 million iPhone plant in India](https://appleinsider.com/articles/23/03/03/foxconn-to-build-700-million-iphone-plant-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with former NYT photo editor Fred Ritchin on AI destroying the credibility of the photo, ensuring readers understand if an image is manipulated, and more &lpar;Amanda Darrach/Columbia Journalism Review&rpar;](http://www.techmeme.com/230303/p1#a230303p1)
+ - [How to add your COVID vaccination card to Apple Wallet](https://appleinsider.com/inside/apple-wallet/tips/how-to-add-your-covid-vaccination-card-to-apple-wallet?utm_medium=rss)
+ - [Apple Watch Ultra can get its waterproofing checked - with a catch](https://appleinsider.com/articles/23/03/03/apple-watch-ultra-can-get-its-waterproofing-checked---with-a-catch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
