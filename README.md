@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the great RPG battle systems returns in Octopath Traveler 2](https://www.polygon.com/23622020/octopath-traveler-2-rpg-battle-system-break-boost-characters-skills)
- - [Pokémon: Detective Pikachu 2 happening, with a new team on the case](https://www.polygon.com/pokemon/23623837/pokemon-detective-pikachu-2-director-writer-release)
- - [Destiny 2 Xur location, inventory for March 3-7](https://www.polygon.com/destiny-2-guide-walkthrough/2023/3/3/23616680/xur-location-inventory-march-3-7-what-is-he-selling)<!-- GAME:END -->
+ - [The Sims 4: Growing Together fleshes out every stage of a Sim’s life](https://www.polygon.com/23622665/the-sims-4-growing-together-first-look-release-date-infant-toddler)
+ - [The Sims 4 makes family planning easier with Science Babies](https://www.polygon.com/23621676/the-sims-4-growing-together-expansion-pack-science-babies)
+ - [The fix is in for the Intel ethernet chip that keeps dropping out](https://www.pcgamer.com/the-fix-is-in-for-the-intel-ethernet-chip-that-keeps-dropping-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
