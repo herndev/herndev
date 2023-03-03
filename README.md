@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to close eight Go convenience stores in Seattle, New York City, and San Francisco, as it reevaluates its brick-and-mortar strategy and cuts costs &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230303/p12#a230303p12)
- - [In the Shadow of Chernobyl, a Pack of Dogs Unlike Any Other Roams the Wasteland     - CNET](https://www.cnet.com/science/biology/in-the-shadow-of-chernobyl-a-pack-of-dogs-unlike-any-other-roams-the-wasteland/#ftag=CAD590a51e)
- - [Kimono Cats Frolic Onto Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/kimono-cats-frolic-onto-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google hired a law firm to conduct a civil rights audit into its services and policies, following years of pressure from activists and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
+ - [Ford’s self-repossessing car patent is a nightmare of the connected-car future](https://www.theverge.com/2023/3/3/23624328/ford-self-repossessing-car-patent-connected-car-nightmare)
+ - [Sources: Character.AI, which uses LLMs to let users chat with famous people like Shakespeare, raised between $200M and $250M led by a16z at a ~$1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230303/p14#a230303p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
