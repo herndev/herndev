@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell reports Q4 revenue down 11% YoY to $25B, commercial PC revenue down 17% YoY to $10.7B, and names Yvonne McGill to replace CFO Tom Sweet, effective August 5 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230302/p28#a230302p28)
  - [Metroid Fusion is coming to Nintendo Switch Online next week](https://www.theverge.com/2023/3/2/23623015/metroid-fusion-nintendo-switch-online)
- - [Memo: CNET EIC Connie Guglielmo, who defended CNET&#39;s use of AI tools, plans to step down to become Red Ventures&#39; SVP of AI content strategy and editor-at-large &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230302/p27#a230302p27)
- - [iPhone 11 survives 7 meters deep in lake for a week](https://appleinsider.com/articles/23/03/03/iphone-11-survives-7-meters-deep-in-lake-for-a-week?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: CNET EIC Connie Guglielmo, who defended CNET&#39;s use of AI tools, plans to step down to become Red Ventures&#39; SVP of AI content strategy and editor-at-large &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230302/p27#a230302p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
