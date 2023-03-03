@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE reports Q1 revenue up 12% YoY to $7.8B, vs. $7.45B est., HPC &amp; AI revenue up 34% YoY to $1.1B, and Q2 revenue guidance above estimates &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230302/p24#a230302p24)
- - [16 Best Deals on Home Office Gear: Portable Monitors, Desks, Power Strips](https://www.wired.com/story/midweek-deals-030223/)
- - [How to Charge Your Non-Tesla EV at a Tesla Supercharger     - CNET](https://www.cnet.com/roadshow/news/how-to-charge-your-non-tesla-ev-at-a-tesla-supercharger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Metroid Fusion is coming to Nintendo Switch Online next week](https://www.theverge.com/2023/3/2/23623015/metroid-fusion-nintendo-switch-online)
+ - [Memo: CNET EIC Connie Guglielmo, who defended CNET&#39;s use of AI tools, plans to step down to become Red Ventures&#39; SVP of AI content strategy and editor-at-large &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230302/p27#a230302p27)
+ - [iPhone 11 survives 7 meters deep in lake for a week](https://appleinsider.com/articles/23/03/03/iphone-11-survives-7-meters-deep-in-lake-for-a-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
