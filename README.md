@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
- - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 👉 [Kowalski?](http://9gag.com/gag/aKEGLQg)<!-- MEMES:END -->
+ - 💣 [Kowalski?](http://9gag.com/gag/aKEGLQg)
+ - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
+ - 👉 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
 
 ---
 
