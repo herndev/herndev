@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro may ditch two buttons for volume control](https://appleinsider.com/articles/23/03/03/iphone-15-pro-may-ditch-two-buttons-for-volume-control?utm_medium=rss)
- - [Meta plans to fully or partly implement 26 of 32 Oversight Board recommendations on the cross-check system, including producing regular transparency reports &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/230303/p3#a230303p3)
- - [iOS 16.4 will support faster 5G on T-Mobile](https://appleinsider.com/articles/23/03/03/ios-164-will-support-faster-5g-on-t-mobile?utm_medium=rss)<!-- TECH:END -->
+ - [Morgan Stanley raises Apple target price to $180](https://appleinsider.com/articles/23/03/03/morgan-stanley-raises-apple-target-price-to-180?utm_medium=rss)
+ - [NASA’s DART mission proves it can save the planet from killer asteroids](https://www.theverge.com/2023/3/3/23622808/nasa-dart-mission-kinetic-impactor-success)
+ - [Lionel Messi treats team to gold iPhone 14 Pro after victory](https://appleinsider.com/articles/23/03/03/lionel-messi-treats-team-to-gold-iphone-14-pro-after-victory?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
