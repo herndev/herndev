@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/chatgpt-vs-bing-chat-3292126/)
  - [Daily Authority: 🤯 Pixel Watch components cost what now?](https://www.androidauthority.com/daily-authority-march-3-2023-3292411/)
- - [Foxconn to build $700 million iPhone plant in India](https://appleinsider.com/articles/23/03/03/foxconn-to-build-700-million-iphone-plant-in-india?utm_medium=rss)
- - [Nothing Ear 2 launch could be near as company posts cryptic bug teaser](https://www.androidauthority.com/nothing-ear-2-launch-3292385/)<!-- TECH:END -->
+ - [Foxconn to build $700 million iPhone plant in India](https://appleinsider.com/articles/23/03/03/foxconn-to-build-700-million-iphone-plant-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
