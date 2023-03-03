@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Will Ethical Space Exploration Look Like?](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
- - [What to Do When Netflix Won’t Let You Share Your Password](https://www.wired.com/story/netflix-password-crackdown-what-do/)
- - [Few US lawmakers are taking action to regulate AI, as many struggle to understand the technology and its dangers, unlike the EU which proposed AI rules in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/230303/p2#a230303p2)<!-- TECH:END -->
+ - [iPhone 15 Pro may ditch two buttons for volume control](https://appleinsider.com/articles/23/03/03/iphone-15-pro-may-ditch-two-buttons-for-volume-control?utm_medium=rss)
+ - [Meta plans to fully or partly implement 26 of 32 Oversight Board recommendations on the cross-check system, including producing regular transparency reports &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/230303/p3#a230303p3)
+ - [iOS 16.4 will support faster 5G on T-Mobile](https://appleinsider.com/articles/23/03/03/ios-164-will-support-faster-5g-on-t-mobile?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
