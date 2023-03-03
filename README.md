@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 🤯 Pixel Watch components cost what now?](https://www.androidauthority.com/daily-authority-march-3-2023-3292411/)
  - [Foxconn to build $700 million iPhone plant in India](https://appleinsider.com/articles/23/03/03/foxconn-to-build-700-million-iphone-plant-in-india?utm_medium=rss)
- - [Nothing Ear 2 launch could be near as company posts cryptic bug teaser](https://www.androidauthority.com/nothing-ear-2-launch-3292385/)
- - [Sources: Foxconn plans to invest ~$700M on a new plant to make iPhone parts on a 300-acre site in Bengaluru, India; the plant is expected to create 100K jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230302/p33#a230302p33)<!-- TECH:END -->
+ - [Nothing Ear 2 launch could be near as company posts cryptic bug teaser](https://www.androidauthority.com/nothing-ear-2-launch-3292385/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
