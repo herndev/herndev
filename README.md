@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley raises Apple target price to $180](https://appleinsider.com/articles/23/03/03/morgan-stanley-raises-apple-target-price-to-180?utm_medium=rss)
- - [NASA’s DART mission proves it can save the planet from killer asteroids](https://www.theverge.com/2023/3/3/23622808/nasa-dart-mission-kinetic-impactor-success)
- - [Lionel Messi treats team to gold iPhone 14 Pro after victory](https://appleinsider.com/articles/23/03/03/lionel-messi-treats-team-to-gold-iphone-14-pro-after-victory?utm_medium=rss)<!-- TECH:END -->
+ - [Two of Apple’s best laptops for creators and power users are up to $500 off](https://www.theverge.com/2023/3/3/23622446/apple-macbook-pro-m1-ipad-sony-inzone-h9-logitech-g435-headset-deal-sale)
+ - [After Dobbs, Democrats roll out health and location data protections](https://www.theverge.com/2023/3/3/23623539/roe-v-wade-dobbs-privacy-location-data-protection-ftc)
+ - [Apple working to make India&#39;s water systems better](https://appleinsider.com/articles/23/03/03/apple-working-to-make-indias-water-systems-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
