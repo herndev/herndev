@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
- - ⏩ [She: `I bet he&#39;s out there cheating on me!` Meanwhile boys!!](http://9gag.com/gag/aYVQBeN)
- - 👉 [Family nap](http://9gag.com/gag/aeQ9qpj)<!-- MEMES:END -->
+ - 💣 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
+ - ⏩ [Kowalski?](http://9gag.com/gag/aKEGLQg)
+ - 👉 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
 
 ---
 
