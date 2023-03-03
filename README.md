@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with former NYT photo editor Fred Ritchin on AI destroying the credibility of the photo, ensuring readers understand if an image is manipulated, and more &lpar;Amanda Darrach/Columbia Journalism Review&rpar;](http://www.techmeme.com/230303/p1#a230303p1)
- - [How to add your COVID vaccination card to Apple Wallet](https://appleinsider.com/inside/apple-wallet/tips/how-to-add-your-covid-vaccination-card-to-apple-wallet?utm_medium=rss)
- - [Apple Watch Ultra can get its waterproofing checked - with a catch](https://appleinsider.com/articles/23/03/03/apple-watch-ultra-can-get-its-waterproofing-checked---with-a-catch?utm_medium=rss)<!-- TECH:END -->
+ - [What Will Ethical Space Exploration Look Like?](https://www.wired.com/story/erika-nesvold-what-will-ethical-space-exploration-look-like/)
+ - [What to Do When Netflix Won’t Let You Share Your Password](https://www.wired.com/story/netflix-password-crackdown-what-do/)
+ - [Few US lawmakers are taking action to regulate AI, as many struggle to understand the technology and its dangers, unlike the EU which proposed AI rules in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/230303/p2#a230303p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
