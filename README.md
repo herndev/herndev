@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents detail efforts by Tether Holdings and Bitfinex to maintain access to the banking system by using shadowy intermediaries and shell companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230303/p9#a230303p9)
- - [Mint deal: Just $289 for the Pixel 7 &amp; 12-month service](https://www.androidauthority.com/mint-pixel-7-deal-3285879/)
- - [WhatsApp improves Android tablet experience with new split-view feature](https://www.androidauthority.com/whatsapp-android-tablets-3292613/)<!-- TECH:END -->
+ - [The 36 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Samsung Galaxy Book 3 Ultra vs MacBook Pro 16-inch - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/samsung-galaxy-book-3-ultra-vs-macbook-pro-16-inch---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
