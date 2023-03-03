@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wo Long&#39;s technical issues are driving players up the wall, but its controls could be a bigger problem](https://www.pcgamer.com/wo-longs-technical-issues-are-driving-players-up-the-wall-but-its-controls-could-be-a-bigger-problem)
  - [The Outer Worlds: Spacer’s Choice Edition Is Much More Than Just a Visual Upgrade](https://news.xbox.com/en-us/2023/03/03/outer-worlds-spacers-choice-edition/)
- - [PC memory market went down the pan in 2022 like everything else](https://www.pcgamer.com/pc-memory-market-went-down-the-pan-in-2022-like-everything-else)
- - [Rode NTH-100M](https://www.pcgamer.com/rode-nth-100m-gaming-headset-review)<!-- GAME:END -->
+ - [PC memory market went down the pan in 2022 like everything else](https://www.pcgamer.com/pc-memory-market-went-down-the-pan-in-2022-like-everything-else)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
