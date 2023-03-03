@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kowalski?](http://9gag.com/gag/aKEGLQg)
- - ⏩ [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
- - 👉 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)<!-- MEMES:END -->
+ - 💣 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - ⏩ [Wait for it](http://9gag.com/gag/abvALOp)
+ - 👉 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
 
 ---
 
