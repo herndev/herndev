@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix CEO Who Constantly Pushed NFT Games To Be Replaced](https://kotaku.com/final-fantasy-square-enix-ceo-nft-crypto-blockchain-1850184312)
- - [Meta’s Quest 2 is getting a $70 price cut — but it’s probably not the model you want](https://www.polygon.com/2023/3/3/23623683/meta-quest-2-pro-256-gb-price-lower)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [One of the great RPG battle systems returns in Octopath Traveler 2](https://www.polygon.com/23622020/octopath-traveler-2-rpg-battle-system-break-boost-characters-skills)
+ - [Pokémon: Detective Pikachu 2 happening, with a new team on the case](https://www.polygon.com/pokemon/23623837/pokemon-detective-pikachu-2-director-writer-release)
+ - [Destiny 2 Xur location, inventory for March 3-7](https://www.polygon.com/destiny-2-guide-walkthrough/2023/3/3/23616680/xur-location-inventory-march-3-7-what-is-he-selling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
