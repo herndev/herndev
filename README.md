@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I dug and I hit g&lpar;old&rpar;](http://9gag.com/gag/avQyVVq)
- - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
- - 👉 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
+ - 💣 [Never smell your own farts to much.](http://9gag.com/gag/aOx8A32)
+ - ⏩ [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
+ - 👉 [Ukrainian drone enters ruusian airspace and lands on a plane](http://9gag.com/gag/aBdybbx)<!-- MEMES:END -->
 
 ---
 
