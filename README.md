@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Irvine Spectrum Center retail store: The new Silicon Valley](https://appleinsider.com/articles/23/03/03/inside-apple-irvine-spectrum-center-retail-store-the-new-silicon-valley?utm_medium=rss)
- - [Sources: Founders Fund cut the size of its Fund VIII, which hasn&#39;t begun deploying capital, from ~$1.8B to ~$900M; the money will be pushed to its ninth fund &lpar;Axios&rpar;](http://www.techmeme.com/230303/p7#a230303p7)
- - [Deal: First price drop on the Samsung Galaxy 23](https://www.androidauthority.com/samsung-galaxy-23-deal-3292595/)<!-- TECH:END -->
+ - [Sources: Inflection AI, founded by LinkedIn&#39;s Reid Hoffman and DeepMind&#39;s Mustafa Suleyman, is in talks to raise up to $675M, after raising $225M in 2022 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230303/p8#a230303p8)
+ - [Samsung Galaxy S23 review: A giant among smaller phones](https://www.androidauthority.com/samsung-galaxy-s23-review-3290215/)
+ - [Mario Kart 8 and Splatoon on the Wii U go offline due to vulnerability](https://www.theverge.com/2023/3/3/23623618/nintendo-wii-u-mario-kart-8-splatoon-offline-vulnerability-exploit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
