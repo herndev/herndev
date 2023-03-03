@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor doge](http://9gag.com/gag/a04eqov)
- - ⏩ [Not having a problem is a problem](http://9gag.com/gag/aA0yAbo)
- - 👉 [Calling a spade a spade](http://9gag.com/gag/aQEz5A8)<!-- MEMES:END -->
+ - 💣 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
+ - ⏩ [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)
+ - 👉 [That bug just got into a another dimension](http://9gag.com/gag/aMEVLWP)<!-- MEMES:END -->
 
 ---
 
