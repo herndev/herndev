@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #622: Friday, March 3](https://www.pcgamer.com/wordle-hint-answer-today-622-march-3)
  - [How to beat Zhang Liang, Wo Long: Fallen Dynasty’s infuriating jerk of a first boss](https://www.polygon.com/guides/23622612/wo-long-zhang-liang-first-boss-fight-strategy-guide)
- - [Let’s dissect Wo Long: Fallen Dynasty’s baffling gear system](https://www.polygon.com/guides/23622454/wo-long-fallen-dynasty-gear-equipment-stats-stars-rarity-upgrades)
- - [Wo Long: Fallen Dynasty elemental strengths and weaknesses chart](https://www.polygon.com/guides/23622170/wo-long-five-phases-element-strengths-weaknesses-chart)<!-- GAME:END -->
+ - [Let’s dissect Wo Long: Fallen Dynasty’s baffling gear system](https://www.polygon.com/guides/23622454/wo-long-fallen-dynasty-gear-equipment-stats-stars-rarity-upgrades)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
