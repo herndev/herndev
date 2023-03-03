@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 👉 [Why? Why? Why? Oh that&#39;s why?](http://9gag.com/gag/aPgApgK)<!-- MEMES:END -->
+ - 💣 [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
+ - ⏩ [She: `I bet he&#39;s out there cheating on me!` Meanwhile boys!!](http://9gag.com/gag/aYVQBeN)
+ - 👉 [Family nap](http://9gag.com/gag/aeQ9qpj)<!-- MEMES:END -->
 
 ---
 
