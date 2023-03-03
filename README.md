@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Inflection AI, founded by LinkedIn&#39;s Reid Hoffman and DeepMind&#39;s Mustafa Suleyman, is in talks to raise up to $675M, after raising $225M in 2022 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230303/p8#a230303p8)
- - [Samsung Galaxy S23 review: A giant among smaller phones](https://www.androidauthority.com/samsung-galaxy-s23-review-3290215/)
- - [Mario Kart 8 and Splatoon on the Wii U go offline due to vulnerability](https://www.theverge.com/2023/3/3/23623618/nintendo-wii-u-mario-kart-8-splatoon-offline-vulnerability-exploit)<!-- TECH:END -->
+ - [Internal documents detail efforts by Tether Holdings and Bitfinex to maintain access to the banking system by using shadowy intermediaries and shell companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230303/p9#a230303p9)
+ - [Mint deal: Just $289 for the Pixel 7 &amp; 12-month service](https://www.androidauthority.com/mint-pixel-7-deal-3285879/)
+ - [WhatsApp improves Android tablet experience with new split-view feature](https://www.androidauthority.com/whatsapp-android-tablets-3292613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
