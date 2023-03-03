@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - ⏩ [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)
- - 👉 [That bug just got into a another dimension](http://9gag.com/gag/aMEVLWP)<!-- MEMES:END -->
+ - 💣 [Wait for it](http://9gag.com/gag/abvALOp)
+ - ⏩ [People...](http://9gag.com/gag/a9qyGvW)
+ - 👉 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)<!-- MEMES:END -->
 
 ---
 
