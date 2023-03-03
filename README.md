@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yooo! Avocado prices just went through the f**king roof, y\u2019all.](http://9gag.com/gag/aMEVDnA)
- - ⏩ [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)
- - 👉 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
+ - 💣 [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)
+ - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - 👉 [I should get myself a country girl](http://9gag.com/gag/anz7oDE)<!-- MEMES:END -->
 
 ---
 
