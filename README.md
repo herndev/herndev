@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [People just won&#39;t stop buying RTX 3060 graphics cards](https://www.pcgamer.com/people-just-wont-stop-buying-rtx-3060-graphics-cards)
  - [Why Are Video Games So Afraid Of Everyday Life?](https://kotaku.com/video-games-real-world-gta-yakuza-animal-crossing-sims-1850176394)
- - [Nvidia driver&#39;s &#39;csgos2.exe&#39; reference reinvigorates CS:GO update speculation](https://www.pcgamer.com/nvidia-drivers-csgos2exe-reference-reinvigorates-csgo-update-speculation)
- - [Sony Might Have To Reveal What It Pays For Exclusives, Court Says](https://kotaku.com/playstation-xbox-exclusive-exclusivity-reveal-cost-pay-1850181632)<!-- GAME:END -->
+ - [Nvidia driver&#39;s &#39;csgos2.exe&#39; reference reinvigorates CS:GO update speculation](https://www.pcgamer.com/nvidia-drivers-csgos2exe-reference-reinvigorates-csgo-update-speculation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
