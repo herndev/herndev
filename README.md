@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just one, that&#39;ll be all..](http://9gag.com/gag/aQEz5od)
- - ⏩ [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - 👉 [I should get myself a country girl](http://9gag.com/gag/anz7oDE)<!-- MEMES:END -->
+ - 💣 [Poor doge](http://9gag.com/gag/a04eqov)
+ - ⏩ [Not having a problem is a problem](http://9gag.com/gag/aA0yAbo)
+ - 👉 [Calling a spade a spade](http://9gag.com/gag/aQEz5A8)<!-- MEMES:END -->
 
 ---
 
