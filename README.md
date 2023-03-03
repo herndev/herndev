@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Pokémon Season Without Ash Gets First Real Trailer](https://kotaku.com/pokemon-anime-trailer-liko-roy-ash-pikachu-sprigatito-1850184012)
- - [Asus ROG Strix B760-F Gaming WiFi](https://www.pcgamer.com/asus-rog-strix-b760-f-gaming-wifi-motherboard-review)
- - [Amazon has discounted several Mandalorian Funko Pops](https://www.polygon.com/deals/2023/3/3/23623590/mandalorian-star-wars-funko-pops-grogu-bob)<!-- GAME:END -->
+ - [Square Enix CEO Who Constantly Pushed NFT Games To Be Replaced](https://kotaku.com/final-fantasy-square-enix-ceo-nft-crypto-blockchain-1850184312)
+ - [Meta’s Quest 2 is getting a $70 price cut — but it’s probably not the model you want](https://www.polygon.com/2023/3/3/23623683/meta-quest-2-pro-256-gb-price-lower)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
