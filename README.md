@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)
- - ⏩ [Kowalski?](http://9gag.com/gag/aKEGLQg)
- - 👉 [Wait for it](http://9gag.com/gag/abvALOp)<!-- MEMES:END -->
+ - 💣 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
+ - ⏩ [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
+ - 👉 [I can guarantee the person melting the ice has a bicycle mustache.](http://9gag.com/gag/aNwDX9G)<!-- MEMES:END -->
 
 ---
 
