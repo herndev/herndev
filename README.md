@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op fantasy tavern sim Innchanted is coming out this month](https://www.pcgamer.com/co-op-fantasy-tavern-sim-innchanted-is-coming-out-this-month)
- - [A brief history of Mandalore, The Mandalorian’s most important planet](https://www.polygon.com/23622461/mandalorian-mandalore-civil-war-mythosaur)
- - [This is not a place of honor: up to $36 million worth of Funko Pops to be entombed in landfills](https://www.pcgamer.com/this-is-not-a-place-of-honor-up-to-dollar36-million-worth-of-funko-pops-to-be-entombed-in-landfills)<!-- GAME:END -->
+ - [Why Are Video Games So Afraid Of Everyday Life?](https://kotaku.com/video-games-real-world-gta-yakuza-animal-crossing-sims-1850176394)
+ - [Nvidia driver&#39;s &#39;csgos2.exe&#39; reference reinvigorates CS:GO update speculation](https://www.pcgamer.com/nvidia-drivers-csgos2exe-reference-reinvigorates-csgo-update-speculation)
+ - [Sony Might Have To Reveal What It Pays For Exclusives, Court Says](https://kotaku.com/playstation-xbox-exclusive-exclusivity-reveal-cost-pay-1850181632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
