@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Foxconn plans to invest ~$700M on a new plant to make iPhone parts on a 300-acre site in Bengaluru, India; the plant is expected to create 100K jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/230302/p33#a230302p33)
  - [Shef, a chef-to-consumer marketplace, raised a $73.5M Series B in June 2022, including $7M in debt, led by CRV with participation from a16z and Amex Ventures &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230302/p32#a230302p32)
- - [HPE acquires cloud security startup Axis Security, reportedly for $500M, via HPE&#39;s subsidiary Aruba; Axis has raised $100M in funding to date &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/230302/p31#a230302p31)
- - [Ericsson pleads guilty to US bribery violations and agrees to pay $206M+ in penalties; the company paid $1B+ in fines to the US DOJ and SEC in 2019 for bribery &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230302/p30#a230302p30)<!-- TECH:END -->
+ - [HPE acquires cloud security startup Axis Security, reportedly for $500M, via HPE&#39;s subsidiary Aruba; Axis has raised $100M in funding to date &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/230302/p31#a230302p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
