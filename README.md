@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [People just won&#39;t stop buying RTX 3060 graphics cards](https://www.pcgamer.com/people-just-wont-stop-buying-rtx-3060-graphics-cards)
- - [Why Are Video Games So Afraid Of Everyday Life?](https://kotaku.com/video-games-real-world-gta-yakuza-animal-crossing-sims-1850176394)
- - [Nvidia driver&#39;s &#39;csgos2.exe&#39; reference reinvigorates CS:GO update speculation](https://www.pcgamer.com/nvidia-drivers-csgos2exe-reference-reinvigorates-csgo-update-speculation)<!-- GAME:END -->
+ - [How to beat Zhang Liang, Wo Long: Fallen Dynasty’s infuriating jerk of a first boss](https://www.polygon.com/guides/23622612/wo-long-zhang-liang-first-boss-fight-strategy-guide)
+ - [Let’s dissect Wo Long: Fallen Dynasty’s baffling gear system](https://www.polygon.com/guides/23622454/wo-long-fallen-dynasty-gear-equipment-stats-stars-rarity-upgrades)
+ - [Wo Long: Fallen Dynasty elemental strengths and weaknesses chart](https://www.polygon.com/guides/23622170/wo-long-five-phases-element-strengths-weaknesses-chart)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
