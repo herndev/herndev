@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
- - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - 👉 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)<!-- MEMES:END -->
+ - 💣 [Kowalski?](http://9gag.com/gag/aKEGLQg)
+ - ⏩ [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)
+ - 👉 [He looks so happy at the end](http://9gag.com/gag/aA0ymw0)<!-- MEMES:END -->
 
 ---
 
