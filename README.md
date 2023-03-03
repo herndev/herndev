@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wo Long&#39;s technical issues are driving players up the wall, but its controls could be a bigger problem](https://www.pcgamer.com/wo-longs-technical-issues-are-driving-players-up-the-wall-but-its-controls-could-be-a-bigger-problem)
- - [The Outer Worlds: Spacer’s Choice Edition Is Much More Than Just a Visual Upgrade](https://news.xbox.com/en-us/2023/03/03/outer-worlds-spacers-choice-edition/)
- - [PC memory market went down the pan in 2022 like everything else](https://www.pcgamer.com/pc-memory-market-went-down-the-pan-in-2022-like-everything-else)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 6 to 10](https://news.xbox.com/en-us/2023/03/03/next-week-on-xbox-new-games-for-march-6-to-10/)
+ - [Apparently no one can get Stephen King’s Children of the Corn right](https://www.polygon.com/reviews/23622456/children-of-the-corn-2023-review-stephen-king)
+ - [Wo Long&#39;s technical issues are driving players up the wall, but its controls could be a bigger problem](https://www.pcgamer.com/wo-longs-technical-issues-are-driving-players-up-the-wall-but-its-controls-could-be-a-bigger-problem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
