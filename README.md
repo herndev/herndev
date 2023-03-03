@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4: Growing Together fleshes out every stage of a Sim’s life](https://www.polygon.com/23622665/the-sims-4-growing-together-first-look-release-date-infant-toddler)
- - [The Sims 4 makes family planning easier with Science Babies](https://www.polygon.com/23621676/the-sims-4-growing-together-expansion-pack-science-babies)
- - [The fix is in for the Intel ethernet chip that keeps dropping out](https://www.pcgamer.com/the-fix-is-in-for-the-intel-ethernet-chip-that-keeps-dropping-out)<!-- GAME:END -->
+ - [Bad news! Warhammer 40K’s grimdark setting is now even worse!](https://www.polygon.com/23622007/warhammer-40k-arks-of-omen-angron-lore-choral-engine)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [Octopath Traveler 2 makes the case for more ‘short story’ games](https://www.polygon.com/23623609/octopath-traveler-2-dark-souls-heist-movies-jrpg-characters-chapters-square-enix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
