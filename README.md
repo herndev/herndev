@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
- - ⏩ [Jim Carrey gives a back-handed compliment to Margot Robbie](http://9gag.com/gag/a8q793p)
- - 👉 [I can guarantee the person melting the ice has a bicycle mustache.](http://9gag.com/gag/aNwDX9G)<!-- MEMES:END -->
+ - 💣 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)
+ - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
+ - 👉 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)<!-- MEMES:END -->
 
 ---
 
