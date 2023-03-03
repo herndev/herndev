@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
- - ⏩ [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
- - 👉 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)<!-- MEMES:END -->
+ - 💣 [My pleasure, WAIT A SECOND!](http://9gag.com/gag/a4oPrWZ)
+ - ⏩ [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)
+ - 👉 [Special forces](http://9gag.com/gag/aGEy62w)<!-- MEMES:END -->
 
 ---
 
