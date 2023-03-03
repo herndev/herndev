@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
- - ⏩ [Congratulations World...we are near our doomsday](http://9gag.com/gag/ajVP38q)
- - 👉 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
+ - 💣 [I dug and I hit g&lpar;old&rpar;](http://9gag.com/gag/avQyVVq)
+ - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
+ - 👉 [Testing a Balcony Child Safety Net](http://9gag.com/gag/anz70vq)<!-- MEMES:END -->
 
 ---
 
