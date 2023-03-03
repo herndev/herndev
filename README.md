@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Vampire Survivors sequel for us unless its creator comes up with something &#39;radically new&#39;](https://www.pcgamer.com/no-vampire-survivors-sequel-for-us-unless-its-creator-comes-up-with-something-radically-new)
- - [Valve just enabled native ray tracing on the Steam Deck and it actually looks pretty wild](https://www.pcgamer.com/valve-just-enabled-native-ray-tracing-on-the-steam-deck-and-it-actually-looks-pretty-wild)
- - [Metroid Fusion will be the next GBA game on Switch Online](https://www.polygon.com/23623371/metroid-fusion-gba-switch-online-expansion-pack-release-date)<!-- GAME:END -->
+ - [The Outer Worlds: Spacer’s Choice Edition Is Much More Than Just a Visual Upgrade](https://news.xbox.com/en-us/2023/03/03/outer-worlds-spacers-choice-edition/)
+ - [PC memory market went down the pan in 2022 like everything else](https://www.pcgamer.com/pc-memory-market-went-down-the-pan-in-2022-like-everything-else)
+ - [Rode NTH-100M](https://www.pcgamer.com/rode-nth-100m-gaming-headset-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
