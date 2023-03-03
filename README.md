@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kowalski?](http://9gag.com/gag/aKEGLQg)
- - ⏩ [Cap?](http://9gag.com/gag/amAonE9)
+ - 💣 [....yeah....uh.... NOPE!](http://9gag.com/gag/a6qZxzb)
+ - ⏩ [Congratulations World...we are near our doomsday](http://9gag.com/gag/ajVP38q)
  - 👉 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)<!-- MEMES:END -->
 
 ---
