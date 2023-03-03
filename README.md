@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch game turns a roll of toilet paper into your controller](https://www.polygon.com/23624233/nintendo-switch-toilet-paper-game-controller-japan-trailer)
- - [The Most Stunning Pokémon TCG Scarlet &amp; Violet Cards](https://kotaku.com/pokemon-tcg-cards-value-scarlet-violet-nintendo-rated-1850185642)
- - [6 things to know before starting Wo Long: Fallen Dynasty](https://www.polygon.com/guides/23623858/wo-long-fallen-dynasty-beginners-guide-tips-tricks-strategy-explained)<!-- GAME:END -->
+ - [Demi Lovato takes on Ghostface in music video for Scream 6](https://www.polygon.com/23624314/demi-lovato-scream-6-song-music-video)
+ - [Overwatch 2 characters are canonically One Punch Man fans, because why not?](https://www.pcgamer.com/overwatch-2-characters-are-canonically-one-punch-man-fans-because-why-not)
+ - [This Week on Xbox: New Releases Galore! Destiny 2: Lightfall, Wo Long: Fallen Dynasty, and More](https://news.xbox.com/en-us/2023/03/03/this-week-on-xbox-new-releases-galore-destiny-2-lightfall-wo-long-fallen-dynasty-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
