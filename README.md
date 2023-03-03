@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 36 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Samsung Galaxy Book 3 Ultra vs MacBook Pro 16-inch - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/samsung-galaxy-book-3-ultra-vs-macbook-pro-16-inch---compared?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon plans to close eight Go convenience stores in Seattle, New York City, and San Francisco, as it reevaluates its brick-and-mortar strategy and cuts costs &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230303/p12#a230303p12)
+ - [In the Shadow of Chernobyl, a Pack of Dogs Unlike Any Other Roams the Wasteland     - CNET](https://www.cnet.com/science/biology/in-the-shadow-of-chernobyl-a-pack-of-dogs-unlike-any-other-roams-the-wasteland/#ftag=CAD590a51e)
+ - [Kimono Cats Frolic Onto Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/kimono-cats-frolic-onto-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
