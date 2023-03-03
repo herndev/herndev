@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG trash talks Samsung for OLED burn-in issues](https://www.pcgamer.com/lg-trash-talks-samsung-for-oled-burn-in-issues)
  - [Wordle hint and answer #622: Friday, March 3](https://www.pcgamer.com/wordle-hint-answer-today-622-march-3)
- - [How to beat Zhang Liang, Wo Long: Fallen Dynasty’s infuriating jerk of a first boss](https://www.polygon.com/guides/23622612/wo-long-zhang-liang-first-boss-fight-strategy-guide)
- - [Let’s dissect Wo Long: Fallen Dynasty’s baffling gear system](https://www.polygon.com/guides/23622454/wo-long-fallen-dynasty-gear-equipment-stats-stars-rarity-upgrades)<!-- GAME:END -->
+ - [How to beat Zhang Liang, Wo Long: Fallen Dynasty’s infuriating jerk of a first boss](https://www.polygon.com/guides/23622612/wo-long-zhang-liang-first-boss-fight-strategy-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
