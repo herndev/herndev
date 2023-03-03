@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)
- - ⏩ [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
- - 👉 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)<!-- MEMES:END -->
+ - 💣 [Saved by the bell](http://9gag.com/gag/aGEy69z)
+ - ⏩ [The other 2 should be sheaper to balance it out.](http://9gag.com/gag/aVbvry2)
+ - 👉 [All of her body needs to be blessed obviously](http://9gag.com/gag/aA0y7ed)<!-- MEMES:END -->
 
 ---
 
