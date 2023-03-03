@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 6 to 10](https://news.xbox.com/en-us/2023/03/03/next-week-on-xbox-new-games-for-march-6-to-10/)
- - [Apparently no one can get Stephen King’s Children of the Corn right](https://www.polygon.com/reviews/23622456/children-of-the-corn-2023-review-stephen-king)
- - [Wo Long&#39;s technical issues are driving players up the wall, but its controls could be a bigger problem](https://www.pcgamer.com/wo-longs-technical-issues-are-driving-players-up-the-wall-but-its-controls-could-be-a-bigger-problem)<!-- GAME:END -->
+ - [The First Pokémon Season Without Ash Gets First Real Trailer](https://kotaku.com/pokemon-anime-trailer-liko-roy-ash-pikachu-sprigatito-1850184012)
+ - [Asus ROG Strix B760-F Gaming WiFi](https://www.pcgamer.com/asus-rog-strix-b760-f-gaming-wifi-motherboard-review)
+ - [Amazon has discounted several Mandalorian Funko Pops](https://www.polygon.com/deals/2023/3/3/23623590/mandalorian-star-wars-funko-pops-grogu-bob)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
