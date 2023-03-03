@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bad news! Warhammer 40K’s grimdark setting is now even worse!](https://www.polygon.com/23622007/warhammer-40k-arks-of-omen-angron-lore-choral-engine)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [Octopath Traveler 2 makes the case for more ‘short story’ games](https://www.polygon.com/23623609/octopath-traveler-2-dark-souls-heist-movies-jrpg-characters-chapters-square-enix)<!-- GAME:END -->
+ - [Nintendo Switch game turns a roll of toilet paper into your controller](https://www.polygon.com/23624233/nintendo-switch-toilet-paper-game-controller-japan-trailer)
+ - [The Most Stunning Pokémon TCG Scarlet &amp; Violet Cards](https://kotaku.com/pokemon-tcg-cards-value-scarlet-violet-nintendo-rated-1850185642)
+ - [6 things to know before starting Wo Long: Fallen Dynasty](https://www.polygon.com/guides/23623858/wo-long-fallen-dynasty-beginners-guide-tips-tricks-strategy-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
