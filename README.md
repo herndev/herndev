@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google hired a law firm to conduct a civil rights audit into its services and policies, following years of pressure from activists and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
- - [Ford’s self-repossessing car patent is a nightmare of the connected-car future](https://www.theverge.com/2023/3/3/23624328/ford-self-repossessing-car-patent-connected-car-nightmare)
- - [Sources: Character.AI, which uses LLMs to let users chat with famous people like Shakespeare, raised between $200M and $250M led by a16z at a ~$1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230303/p14#a230303p14)<!-- TECH:END -->
+ - [Intel moves to a two-year cadence for data center GPU releases, canceling the Rialto Bridge series and delaying its next release, Falcon Shores, to 2025 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230303/p16#a230303p16)
+ - [Sources: Google hired a law firm for a civil rights and racial equity audit into its services and policies, after years of pressure from advocates and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
+ - [Best BNPL Apps     - CNET](https://www.cnet.com/personal-finance/loans/best-buy-now-pay-later-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
