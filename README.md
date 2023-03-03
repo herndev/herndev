@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demi Lovato takes on Ghostface in music video for Scream 6](https://www.polygon.com/23624314/demi-lovato-scream-6-song-music-video)
- - [Overwatch 2 characters are canonically One Punch Man fans, because why not?](https://www.pcgamer.com/overwatch-2-characters-are-canonically-one-punch-man-fans-because-why-not)
- - [This Week on Xbox: New Releases Galore! Destiny 2: Lightfall, Wo Long: Fallen Dynasty, and More](https://news.xbox.com/en-us/2023/03/03/this-week-on-xbox-new-releases-galore-destiny-2-lightfall-wo-long-fallen-dynasty-and-more/)<!-- GAME:END -->
+ - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)
+ - [Pathfinder Developer Bans AI Art, Takes A Hard Stance](https://kotaku.com/paizo-pathfinder-artificial-intelligence-art-ban-rule-1850186576)
+ - [Detective Pikachu Sequel Inches Closer To Being Real](https://kotaku.com/detective-pikachu-pokemon-2-sequel-director-production-1850186475)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
