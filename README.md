@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [25 years in prison for a crime he did not commit](http://9gag.com/gag/a9qy426)
- - ⏩ [Wait for it](http://9gag.com/gag/abvALOp)
- - 👉 [Yeah what is it for?](http://9gag.com/gag/aOx8jWD)<!-- MEMES:END -->
+ - 💣 [Girl + Sword = wariores](http://9gag.com/gag/aXnPmB6)
+ - ⏩ [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)
+ - 👉 [During a successful defense that earns her freedom after being in jail for two years, this former beauty queen she drops a bombshell. Lady in red pops up like `You seeing this shit?`](http://9gag.com/gag/aeQ9ywW)<!-- MEMES:END -->
 
 ---
 
