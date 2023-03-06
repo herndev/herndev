@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
- - ⏩ [Malcom X peering out of his window after receiving several death threats by the Nation Of Islam after he exposed his former mentor Elijah Muhammad for having children with underage girls. His house was later firebombed and he was later killed on the orders of Muhammad.](http://9gag.com/gag/aeQ4NDB)
- - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
+ - 💣 [My mother died today after hell of a fight against cancer. I am in pieces, but you all keep me up for now. F**k you, and I will see you tomorrow.](http://9gag.com/gag/ay2q5xV)
+ - ⏩ [English hard](http://9gag.com/gag/aQEgqEe)
+ - 👉 [Russian propaganda has outdone itself again. A Dombas woman complains that they have been shelled for nine years. As evidence from the last shelling, she shows a spare part for a Mercedes car. It turns out that for nine years Dombas was bombarded with spare parts for Mercedes.](http://9gag.com/gag/a04oLZv)<!-- MEMES:END -->
 
 ---
 
