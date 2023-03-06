@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is our first &lpar;unofficial&rpar; look at the Xiaomi Mi Band 8](https://www.androidauthority.com/xiaomi-mi-band-8-leak-3293026/)
- - [Users report Pixel Watch is not on time sometimes](https://www.androidauthority.com/pixel-watch-alarm-late-3293027/)
- - [A study of 13M+ Facebook posts in the run-up to the 2020 US elections found that 23% of the sampled posts with political images contained misinformation &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230306/p1#a230306p1)<!-- TECH:END -->
+ - [Samsung could be working on a custom CPU for its phones](https://www.androidauthority.com/samsung-custom-cpu-smartphones-3293040/)
+ - [Sources: SoftBank&#39;s Arm hopes to raise $8B+ at a $50B+ valuation in its US IPO, which is expected later in 2023 after a confidential filing in late April &lpar;Reuters&rpar;](http://www.techmeme.com/230306/p2#a230306p2)
+ - [This is our first &lpar;unofficial&rpar; look at the Xiaomi Mi Band 8](https://www.androidauthority.com/xiaomi-mi-band-8-leak-3293026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
