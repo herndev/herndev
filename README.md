@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this deckbuilder that uses poker hands for combat resolution](https://www.pcgamer.com/check-out-this-deckbuilder-that-uses-poker-hands-for-combat-resolution)
- - [The Lucky Seven Strips Tactics Gaming To Its Bones](https://kotaku.com/zachtronics-card-game-solitaire-tactical-lucky-seven-1850182537)
- - [The Elden Ring player who fought its hardest boss over and over until an expansion announcement is hanging up his sword: &quot;I had been doing it so long&quot;](https://www.pcgamer.com/the-elden-ring-player-who-fought-its-hardest-boss-over-and-over-until-an-expansion-announcement-is-hanging-up-his-sword-i-had-been-doing-it-so-long)<!-- GAME:END -->
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us’ Troy Baker tells us all about his highly dramatic appearance on the HBO show](https://www.polygon.com/23622714/last-of-us-troy-baker-interview-episode-8-cameo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
