@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some tests](http://9gag.com/gag/anz7Amo)
- - ⏩ [Bumps into bed](http://9gag.com/gag/aNwDyZ0)
- - 👉 [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)<!-- MEMES:END -->
+ - 💣 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)
+ - ⏩ [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)
+ - 👉 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
 
 ---
 
