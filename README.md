@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the machete in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-machete-location)
- - [The best stunts of the year, according to me](https://www.polygon.com/23627292/stunt-awards-movie-action-2022-ballot-best)
- - [Researchers translate brain waves into scarily accurate images using Stable Diffusion AI](https://www.pcgamer.com/researchers-translate-brain-waves-into-scarily-accurate-images-using-stable-diffusion-ai)<!-- GAME:END -->
+ - [Paradox Announcement Show 2023 – New Games, Expansions, Gameplay Reveals, and More](https://news.xbox.com/en-us/2023/03/06/paradox-announcement-show-2023-new-games-expansions-gameplay-reveals-and-more/)
+ - [Halo Infinite Season 3: Echoes Within – Discussing Every Detail With 343 Industries](https://news.xbox.com/en-us/2023/03/06/halo-infinite-season-3-echoes-within-every-detail-interview/)
+ - [Rare Magic: The Gathering Black Lotus up for auction, the last sold for more than $500,000](https://www.polygon.com/2023/3/6/23627470/magic-the-gathering-black-lotus-auction-price-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
