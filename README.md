@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #625: Monday, March 6](https://www.pcgamer.com/wordle-hint-answer-today-625-march-6)
- - [The Last Of Us Episode 8 Recap: Joel And Ellie&#39;s Most Desperate Hour](https://kotaku.com/last-of-us-tlou-recap-s1e8-david-james-troy-baker-ellie-1850191358)
- - [Larian confirms Baldur&#39;s Gate 3 early access owners get Digital Deluxe Edition upgrade free](https://www.pcgamer.com/larian-confirms-baldurs-gate-3-early-access-owners-get-digital-deluxe-edition-upgrade-free)<!-- GAME:END -->
+ - [16 years later, a new Dragon Ball Budokai Tenkaichi game is happening](https://www.pcgamer.com/16-years-later-a-new-dragon-ball-budokai-tenkaichi-game-is-happening)
+ - [The Olympics is putting on an esports event without any actual esports games](https://www.pcgamer.com/the-olympics-is-putting-on-an-esports-event-without-any-actual-esports-games)
+ - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
