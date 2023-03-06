@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out this deckbuilder that uses poker hands for combat resolution](https://www.pcgamer.com/check-out-this-deckbuilder-that-uses-poker-hands-for-combat-resolution)
  - [The Lucky Seven Strips Tactics Gaming To Its Bones](https://kotaku.com/zachtronics-card-game-solitaire-tactical-lucky-seven-1850182537)
- - [The Elden Ring player who fought its hardest boss over and over until an expansion announcement is hanging up his sword: &quot;I had been doing it so long&quot;](https://www.pcgamer.com/the-elden-ring-player-who-fought-its-hardest-boss-over-and-over-until-an-expansion-announcement-is-hanging-up-his-sword-i-had-been-doing-it-so-long)
- - [Cross Pokemon with The Binding of Isaac and you get this cheerily violent roguelike](https://www.pcgamer.com/cross-pokemon-with-the-binding-of-isaac-and-you-get-this-cheerily-violent-roguelike)<!-- GAME:END -->
+ - [The Elden Ring player who fought its hardest boss over and over until an expansion announcement is hanging up his sword: &quot;I had been doing it so long&quot;](https://www.pcgamer.com/the-elden-ring-player-who-fought-its-hardest-boss-over-and-over-until-an-expansion-announcement-is-hanging-up-his-sword-i-had-been-doing-it-so-long)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
