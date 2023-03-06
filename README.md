@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing speaker leak shows off a peculiar design](https://www.androidauthority.com/nothing-speaker-3293017/)
- - [Apple’s big Mac plans revealed: From iMac to touchscreen MacBook](https://www.androidauthority.com/apple-imac-macbook-3290989/)
- - [Internal docs appear to show executives at Eco, a personal finance app offering 2.5% to 5% in &quot;APY rewards&quot;, misrepresented Eco&#39;s lending practices to users &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/230305/p10#a230305p10)<!-- TECH:END -->
+ - [This is our first &lpar;unofficial&rpar; look at the Xiaomi Mi Band 8](https://www.androidauthority.com/xiaomi-mi-band-8-leak-3293026/)
+ - [Users report Pixel Watch is not on time sometimes](https://www.androidauthority.com/pixel-watch-alarm-late-3293027/)
+ - [A study of 13M+ Facebook posts in the run-up to the 2020 US elections found that 23% of the sampled posts with political images contained misinformation &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230306/p1#a230306p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
