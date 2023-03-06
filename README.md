@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall will get full cross-play on Xbox, Steam, and Epic Games Store](https://www.polygon.com/23627953/redfall-cross-play-xbox-steam-pc-epic-games-store-game-pass-bethesda-arkane)
- - [Blizzard filled a deconsecrated French church with Diablo 4 murals](https://www.pcgamer.com/blizzard-filled-a-deconsecrated-french-church-with-diablo-4-murals)
- - [Cities: Skylines 2 will have hailstorms, rat infestations, and 150 map tiles in a single city](https://www.pcgamer.com/cities-skylines-2-will-have-hailstorms-rat-infestations-and-150-map-tiles-in-a-single-city)<!-- GAME:END -->
+ - [Why a Vanderpump Rules breakup is the Red Wedding of reality TV](https://www.polygon.com/23627721/vanderpump-rules-tom-sandoval-ariana-madix-breakup-explained)
+ - [Kai Cenat crushes Ludwig&#39;s subscriber record to become the new King of Twitch](https://www.pcgamer.com/kai-cenat-crushes-ludwigs-subscriber-record-to-become-the-new-king-of-twitch)
+ - [Anime Voice Actor Asks Fans To Please Bathe Before Her Concert](https://kotaku.com/smelly-anime-fans-rie-takahashi-genshin-impact-concert-1850194677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
