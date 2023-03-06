@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here in UK we like to be unique.](http://9gag.com/gag/aNwDxX3)
- - ⏩ [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)
- - 👉 [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)<!-- MEMES:END -->
+ - 💣 [Some tests](http://9gag.com/gag/anz7Amo)
+ - ⏩ [Bumps into bed](http://9gag.com/gag/aNwDyZ0)
+ - 👉 [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)<!-- MEMES:END -->
 
 ---
 
