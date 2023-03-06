@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how to deal with shoplifters](http://9gag.com/gag/axoW2Op)
- - ⏩ [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
- - 👉 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)<!-- MEMES:END -->
+ - 💣 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
+ - ⏩ [Malcom X peering out of his window after receiving several death threats by the Nation Of Islam after he exposed his former mentor Elijah Muhammad for having children with underage girls. His house was later firebombed and he was later killed on the orders of Muhammad.](http://9gag.com/gag/aeQ4NDB)
+ - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
 
 ---
 
