@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - ⏩ [I woodn\u2018t do that\u2026](http://9gag.com/gag/anzOqNz)
+ - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
  - 👉 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
 
 ---
