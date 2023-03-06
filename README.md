@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri co-creator Adam Cheyer says generative AI will spur an assistant voice renaissance; Satya Nadella says Cortana, Alexa, Siri, Google Assistant &quot;don&#39;t work&quot; &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230305/p9#a230305p9)
  - [iPhone 14 Leather Case range to add two colors this spring](https://appleinsider.com/articles/23/03/05/iphone-14-leather-case-range-to-add-two-colors-this-spring?utm_medium=rss)
- - [Scammers are using voice-cloning AI to impersonate family members in distress, sometimes spoofing specific numbers to further the ruse, and victims fall for it &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230305/p8#a230305p8)
- - [Counter-Strike: Global Offensive is reportedly getting a major update soon](https://www.theverge.com/2023/3/5/23626439/valve-counter-strike-global-offensive-source-2-update)<!-- TECH:END -->
+ - [Scammers are using voice-cloning AI to impersonate family members in distress, sometimes spoofing specific numbers to further the ruse, and victims fall for it &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230305/p8#a230305p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
