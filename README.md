@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox Announcement Show 2023 – New Games, Expansions, Gameplay Reveals, and More](https://news.xbox.com/en-us/2023/03/06/paradox-announcement-show-2023-new-games-expansions-gameplay-reveals-and-more/)
- - [Halo Infinite Season 3: Echoes Within – Discussing Every Detail With 343 Industries](https://news.xbox.com/en-us/2023/03/06/halo-infinite-season-3-echoes-within-every-detail-interview/)
- - [Rare Magic: The Gathering Black Lotus up for auction, the last sold for more than $500,000](https://www.polygon.com/2023/3/6/23627470/magic-the-gathering-black-lotus-auction-price-2023)<!-- GAME:END -->
+ - [A Pokémon Scarlet And Violet Bug Is Deleting Players’ Save Files](https://kotaku.com/pokemon-scarlet-violet-save-wipe-go-dlc-1850193690)
+ - [Crusader Kings 3: Tours and Tournaments is coming this spring](https://www.pcgamer.com/crusader-kings-3-tours-and-tournaments-is-coming-this-spring)
+ - [Figment is free on Steam, but only until Figment 2 comes out](https://www.pcgamer.com/figment-is-free-on-steam-but-only-until-figment-2-comes-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
