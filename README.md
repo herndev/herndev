@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs appear to show executives at Eco, a personal finance app offering 2.5% to 5% in &quot;APY rewards&quot;, misrepresented Eco&#39;s lending practices to users &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/230305/p10#a230305p10)
- - [Siri co-creator Adam Cheyer says generative AI will spur an assistant voice renaissance; Satya Nadella says Cortana, Alexa, Siri, Google Assistant &quot;don&#39;t work&quot; &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/230305/p9#a230305p9)
- - [iPhone 14 Leather Case range to add two colors this spring](https://appleinsider.com/articles/23/03/05/iphone-14-leather-case-range-to-add-two-colors-this-spring?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing speaker leak shows off a peculiar design](https://www.androidauthority.com/nothing-speaker-3293017/)
+ - [Apple’s big Mac plans revealed: From iMac to touchscreen MacBook](https://www.androidauthority.com/apple-imac-macbook-3290989/)
+ - [Internal docs appear to show executives at Eco, a personal finance app offering 2.5% to 5% in &quot;APY rewards&quot;, misrepresented Eco&#39;s lending practices to users &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/230305/p10#a230305p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
