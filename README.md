@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
- - ⏩ [HANS!!!](http://9gag.com/gag/a3Z46m5)
- - 👉 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)<!-- MEMES:END -->
+ - 💣 [This anime more than a creepy gif in comment section. Suggest me more like this one](http://9gag.com/gag/aqeR4dR)
+ - ⏩ [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)
+ - 👉 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
 
 ---
 
