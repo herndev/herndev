@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
- - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 👉 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)<!-- MEMES:END -->
+ - 💣 [This is how to deal with shoplifters](http://9gag.com/gag/axoW2Op)
+ - ⏩ [Arresting this protestor](http://9gag.com/gag/a6qDdZm)
+ - 👉 [Protecting his best friend](http://9gag.com/gag/aDY7wZB)<!-- MEMES:END -->
 
 ---
 
