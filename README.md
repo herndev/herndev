@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases tvOS 16.3.3 to fix Siri Remote issue](https://appleinsider.com/articles/23/03/06/apple-releases-tvos-1633-to-fix-siri-remote-issue?utm_medium=rss)
- - [Best 3D Printing Filament in 2023: PLA, ABS, PETG and more     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
- - [Twitter Link, Image Errors Due to &#39;Internal Change&#39;     - CNET](https://www.cnet.com/news/social-media/twitter-link-image-errors-due-to-internal-change/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every New Emoji Coming to Your iPhone With iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/every-new-emoji-coming-to-your-iphone-with-ios-16-4/#ftag=CAD590a51e)
+ - [Why do indie game developers go it alone?](https://www.theverge.com/2023/3/6/23627609/solo-acts-vergecast-episode-3-madison-karrh-birth)
+ - [Amazon drops prices on Apple - save up to $500 on Macs, Beats, iPad accessories](https://appleinsider.com/articles/23/03/06/amazon-drops-prices-on-apple---save-up-to-500-on-macs-beats-ipad-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
