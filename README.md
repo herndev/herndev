@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)
- - ⏩ [Keep it up Ukraine!!](http://9gag.com/gag/a04o9pQ)
- - 👉 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
+ - 💣 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - ⏩ [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
+ - 👉 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)<!-- MEMES:END -->
 
 ---
 
