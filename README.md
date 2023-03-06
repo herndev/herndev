@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - 💣 [Anyone surprised?](http://9gag.com/gag/aXnPDyb)
  - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 👉 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
+ - 👉 [Arresting this protestor](http://9gag.com/gag/a6qDdZm)<!-- MEMES:END -->
 
 ---
 
