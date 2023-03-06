@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X90 Pro review: Creature of the night](https://www.androidauthority.com/vivo-x90-pro-review-3282483/)
- - [New Sony smart TVs, Roborock&#39;s latest vacuum, &amp; a unique humidifier](https://appleinsider.com/articles/23/03/06/new-sony-smart-tvs-roborocks-latest-vacuum-a-unique-humidifier?utm_medium=rss)
- - [An analysis and reconstruction of Rotterdam&#39;s Accenture-made welfare fraud algorithm and its training data finds discrimination based on ethnicity and gender &lpar;Wired&rpar;](http://www.techmeme.com/230306/p12#a230306p12)<!-- TECH:END -->
+ - [US private equity firm Silver Lake and a Canadian pension fund offer to acquire Qualtrics for $12.4B as majority owner SAP looks to divest its 71% stake &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230306/p14#a230306p14)
+ - [Post-apocalyptic drama &#39;Silo&#39; to debut May 5 on Apple TV+](https://appleinsider.com/articles/23/03/06/post-apocalyptic-drama-silo-to-debut-may-5-on-apple-tv?utm_medium=rss)
+ - [Daily Deals: 62% off Microsoft Surface Pro X, AirPods $99, $510 off MacBook Pro 16 &amp; more](https://appleinsider.com/articles/23/03/06/daily-deals-62-off-microsoft-surface-pro-x-airpods-99-510-off-macbook-pro-16-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
