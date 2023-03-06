@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)
- - ⏩ [Some tests](http://9gag.com/gag/anz7Amo)
- - 👉 [That&#39;s a good policy](http://9gag.com/gag/axoWEB2)<!-- MEMES:END -->
+ - ⏩ [That&#39;s a good policy](http://9gag.com/gag/axoWEB2)
+ - 👉 [Some tests](http://9gag.com/gag/anz7Amo)<!-- MEMES:END -->
 
 ---
 
