@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 years later, a new Dragon Ball Budokai Tenkaichi game is happening](https://www.pcgamer.com/16-years-later-a-new-dragon-ball-budokai-tenkaichi-game-is-happening)
- - [The Olympics is putting on an esports event without any actual esports games](https://www.pcgamer.com/the-olympics-is-putting-on-an-esports-event-without-any-actual-esports-games)
- - [How Intel caught up to AMD&#39;s graphics card sales: Bad maths](https://www.pcgamer.com/how-intel-caught-up-to-amds-graphics-card-sales-bad-maths)<!-- GAME:END -->
+ - [Dead Cells’ Return to Castlevania DLC is joyous roguelike fan service](https://www.polygon.com/reviews/23624279/dead-cells-return-to-castlevania-dlc-review-roguelike-release-date-switch-ps5-pc-xbox)
+ - [You can now get $20 off some of the best Switch games](https://www.polygon.com/23620837/mario-day-game-sale-nintendo-switch-deals)
+ - [SimCity launched a decade ago, and it was so disastrous it killed the series](https://www.pcgamer.com/simcity-launched-a-decade-ago-and-it-was-so-disastrous-it-killed-the-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
