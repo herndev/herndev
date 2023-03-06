@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agoQ3zr)
- - ⏩ [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - 💣 [Totally happened](http://9gag.com/gag/aBdZ34Q)
+ - ⏩ [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
  - 👉 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
 
 ---
