@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why refurbished iPhones are the smart choice for budget-conscious buyers](https://appleinsider.com/articles/23/03/06/why-refurbished-iphones-are-the-smart-choice-for-budget-conscious-buyers?utm_medium=rss)
- - [iPhone SE 4 may get screens from Apple&#39;s newest OLED supplier](https://appleinsider.com/articles/23/03/06/iphone-se-4-may-get-screens-from-apples-newest-oled-supplier?utm_medium=rss)
- - [German police, Europol, FBI, and Ukrainian authorities disrupt a ransomware gang that deployed DoppelPaymer; Europol says US victims paid out &amp;euro;40M+ in 2019-2021 &lpar;Associated Press&rpar;](http://www.techmeme.com/230306/p10#a230306p10)<!-- TECH:END -->
+ - [Vivo X90 Pro review: Creature of the night](https://www.androidauthority.com/vivo-x90-pro-review-3282483/)
+ - [New Sony smart TVs, Roborock&#39;s latest vacuum, &amp; a unique humidifier](https://appleinsider.com/articles/23/03/06/new-sony-smart-tvs-roborocks-latest-vacuum-a-unique-humidifier?utm_medium=rss)
+ - [An analysis and reconstruction of Rotterdam&#39;s Accenture-made welfare fraud algorithm and its training data finds discrimination based on ethnicity and gender &lpar;Wired&rpar;](http://www.techmeme.com/230306/p12#a230306p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
