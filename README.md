@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Totally happened](http://9gag.com/gag/aBdZ34Q)
- - ⏩ [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
- - 👉 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
+ - 💣 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agoQ3zr)
+ - ⏩ [New section idea: `Old cars that dont look old and aged very well.` I think the lotus Elise S2 is a very good example for a timeless design. 23 years old, but doesnt look like that. What other cars can you think of?](http://9gag.com/gag/a1P7epR)
+ - 👉 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)<!-- MEMES:END -->
 
 ---
 
