@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP Tom Sizemore, 1961-2023](https://kotaku.com/rip-tom-sizemore-died-grand-theft-auto-vice-city-gta-1850190893)
- - [This offbeat FPS traps you in an arena shooter-themed afterlife where something is going horribly wrong](https://www.pcgamer.com/this-offbeat-fps-traps-you-in-an-arena-shooter-themed-afterlife-where-something-is-going-horribly-wrong)
- - [When does Halo Infinite season 3 launch?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/3/5/23618680/season-3-launch-date-time-echoes-within)<!-- GAME:END -->
+ - [The Lucky Seven Strips Tactics Gaming To Its Bones](https://kotaku.com/zachtronics-card-game-solitaire-tactical-lucky-seven-1850182537)
+ - [The Elden Ring player who fought its hardest boss over and over until an expansion announcement is hanging up his sword: &quot;I had been doing it so long&quot;](https://www.pcgamer.com/the-elden-ring-player-who-fought-its-hardest-boss-over-and-over-until-an-expansion-announcement-is-hanging-up-his-sword-i-had-been-doing-it-so-long)
+ - [Cross Pokemon with The Binding of Isaac and you get this cheerily violent roguelike](https://www.pcgamer.com/cross-pokemon-with-the-binding-of-isaac-and-you-get-this-cheerily-violent-roguelike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
