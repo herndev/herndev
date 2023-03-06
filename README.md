@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel moves to a two-year cadence for data center GPU releases, canceling the Rialto Bridge series and delaying its next release, Falcon Shores, to 2025 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230303/p16#a230303p16)
- - [Sources: Google hired a law firm for a civil rights and racial equity audit into its services and policies, after years of pressure from advocates and Democrats &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230303/p15#a230303p15)
- - [Best BNPL Apps     - CNET](https://www.cnet.com/personal-finance/loans/best-buy-now-pay-later-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Leather Case range to add two colors this spring](https://appleinsider.com/articles/23/03/05/iphone-14-leather-case-range-to-add-two-colors-this-spring?utm_medium=rss)
+ - [Scammers are using voice-cloning AI to impersonate family members in distress, sometimes spoofing specific numbers to further the ruse, and victims fall for it &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230305/p8#a230305p8)
+ - [Counter-Strike: Global Offensive is reportedly getting a major update soon](https://www.theverge.com/2023/3/5/23626439/valve-counter-strike-global-offensive-source-2-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
