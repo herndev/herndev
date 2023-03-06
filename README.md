@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Pokémon Scarlet And Violet Bug Is Deleting Players’ Save Files](https://kotaku.com/pokemon-scarlet-violet-save-wipe-go-dlc-1850193690)
- - [Crusader Kings 3: Tours and Tournaments is coming this spring](https://www.pcgamer.com/crusader-kings-3-tours-and-tournaments-is-coming-this-spring)
- - [Figment is free on Steam, but only until Figment 2 comes out](https://www.pcgamer.com/figment-is-free-on-steam-but-only-until-figment-2-comes-out)<!-- GAME:END -->
+ - [Wo Long: Fallen Dynasty’s Most Frustrating Enemy Can Go To Hell](https://kotaku.com/wo-long-fallen-dynasty-hard-dual-sword-assassin-1850194022)
+ - [These 4 Horror Titles Are The Ultimate Anti-Cozy Games](https://kotaku.com/best-horror-video-games-steam-amnesia-outlast-pc-1850194078)
+ - [Pokémon Fans Love This Gym Leader Because He&#39;s Just Like You, FR](https://kotaku.com/pokemon-scarlet-violet-larry-gym-leader-elite-four-1850194159)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
