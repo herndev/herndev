@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That ‘AI-Generated’ Anime Is A Slap In The Face To Pro Animators](https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624)
- - [Pathfinder Developer Bans AI Art, Takes A Hard Stance](https://kotaku.com/paizo-pathfinder-artificial-intelligence-art-ban-rule-1850186576)
- - [Detective Pikachu Sequel Inches Closer To Being Real](https://kotaku.com/detective-pikachu-pokemon-2-sequel-director-production-1850186475)<!-- GAME:END -->
+ - [RIP Tom Sizemore, 1961-2023](https://kotaku.com/rip-tom-sizemore-died-grand-theft-auto-vice-city-gta-1850190893)
+ - [This offbeat FPS traps you in an arena shooter-themed afterlife where something is going horribly wrong](https://www.pcgamer.com/this-offbeat-fps-traps-you-in-an-arena-shooter-themed-afterlife-where-something-is-going-horribly-wrong)
+ - [When does Halo Infinite season 3 launch?](https://www.polygon.com/halo-infinite-guide-walkthrough/2023/3/5/23618680/season-3-launch-date-time-echoes-within)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
