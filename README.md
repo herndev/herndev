@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US private equity firm Silver Lake and a Canadian pension fund offer to acquire Qualtrics for $12.4B as majority owner SAP looks to divest its 71% stake &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230306/p14#a230306p14)
- - [Post-apocalyptic drama &#39;Silo&#39; to debut May 5 on Apple TV+](https://appleinsider.com/articles/23/03/06/post-apocalyptic-drama-silo-to-debut-may-5-on-apple-tv?utm_medium=rss)
- - [Daily Deals: 62% off Microsoft Surface Pro X, AirPods $99, $510 off MacBook Pro 16 &amp; more](https://appleinsider.com/articles/23/03/06/daily-deals-62-off-microsoft-surface-pro-x-airpods-99-510-off-macbook-pro-16-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best productivity apps for iPhone &amp; iPad to crush your goals in 2023](https://appleinsider.com/inside/iphone/best/best-productivity-apps-for-iphone-ipad?utm_medium=rss)
+ - [Huawei allegedly caught tracking MWC 2023 visitors at its exhibit](https://www.androidauthority.com/mwc-huawei-tracking-3293197/)
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
