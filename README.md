@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Atari CEO Wade Rosen on the company&#39;s 50th anniversary, making use of its traditional IP, plans to focus on retro gaming hardware, licensing, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230306/p7#a230306p7)
- - [Timeshifter 2.1 review: If you cooperate, helps with jet lag](https://appleinsider.com/articles/23/03/06/timeshifter-21-review-if-you-cooperate-helps-with-jet-lag?utm_medium=rss)
- - [Sources: around 20 leaders at Clubhouse have left over the past year, including hires from Meta, Google, and others; Clubhouse continues to add &quot;top talent&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230306/p6#a230306p6)<!-- TECH:END -->
+ - [iPhone SE 4 may get screens from Apple&#39;s newest OLED supplier](https://appleinsider.com/articles/23/03/06/iphone-se-4-may-get-screens-from-apples-newest-oled-supplier?utm_medium=rss)
+ - [German police, Europol, FBI, and Ukrainian authorities disrupt a ransomware gang that deployed DoppelPaymer; Europol says US victims paid out &amp;euro;40M+ in 2019-2021 &lpar;Associated Press&rpar;](http://www.techmeme.com/230306/p10#a230306p10)
+ - [Startups Want to Cash In on the US Student Debt Crisis](https://www.wired.com/story/startups-want-to-cash-in-on-the-us-student-debt-crisis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
