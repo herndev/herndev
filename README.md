@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This anime more than a creepy gif in comment section. Suggest me more like this one](http://9gag.com/gag/aqeR4dR)
- - ⏩ [Africans why are you like this? &lpar;Johannesburg yesterday&rpar;](http://9gag.com/gag/aA0yoeg)
- - 👉 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
+ - 💣 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - ⏩ [To love another person is to see the face of God](http://9gag.com/gag/aZDZ9NW)
+ - 👉 [HANS!!!](http://9gag.com/gag/a3Z46m5)<!-- MEMES:END -->
 
 ---
 
