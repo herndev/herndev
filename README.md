@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)
- - ⏩ [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)
- - 👉 [And that kids is how rich people stay rich](http://9gag.com/gag/avQW2MO)<!-- MEMES:END -->
+ - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - ⏩ [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
+ - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
 
 ---
 
