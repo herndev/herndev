@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - ⏩ [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
- - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
+ - 💣 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)
+ - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - 👉 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)<!-- MEMES:END -->
 
 ---
 
