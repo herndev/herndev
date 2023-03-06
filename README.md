@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells’ Return to Castlevania DLC is joyous roguelike fan service](https://www.polygon.com/reviews/23624279/dead-cells-return-to-castlevania-dlc-review-roguelike-release-date-switch-ps5-pc-xbox)
- - [You can now get $20 off some of the best Switch games](https://www.polygon.com/23620837/mario-day-game-sale-nintendo-switch-deals)
- - [SimCity launched a decade ago, and it was so disastrous it killed the series](https://www.pcgamer.com/simcity-launched-a-decade-ago-and-it-was-so-disastrous-it-killed-the-series)<!-- GAME:END -->
+ - [All Destiny 2 action figure locations in Neomuna](https://www.pcgamer.com/destiny-2-action-figures-locations)
+ - [Steam&#39;s most hardcore city builder overcomes Trotskyite sabotage to return to the platform](https://www.pcgamer.com/steams-most-hardcore-city-builder-overcomes-trotskyite-sabotage-to-return-to-the-platform)
+ - [Dominate the battlefield from the sea and the sky in Company of Heroes 3](https://www.pcgamer.com/dominate-the-battlefield-from-the-sea-and-the-sky-in-company-of-heroes-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
