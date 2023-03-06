@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean she kinda has a point...](http://9gag.com/gag/adPvyZ9)
- - ⏩ [That&#39;s a good policy](http://9gag.com/gag/axoWEB2)
- - 👉 [Some tests](http://9gag.com/gag/anz7Amo)<!-- MEMES:END -->
+ - 💣 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
+ - ⏩ [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 👉 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)<!-- MEMES:END -->
 
 ---
 
