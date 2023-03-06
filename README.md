@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scammers are using AI voices to steal millions by impersonating loved ones](https://www.androidauthority.com/ai-voice-scams-3293324/)
- - [Source: Twitter broke on Monday after the only site reliability engineer assigned to the project for migrating to a paid API made a &quot;bad configuration change&quot; &lpar;Platformer&rpar;](http://www.techmeme.com/230306/p19#a230306p19)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [At an all-hands last week, Sundar Pichai defended Google Cloud&#39;s new desk-sharing policy; an exec says ~35% of staff are in the office at least four days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230306/p20#a230306p20)
+ - [New iPhone 14 color &#39;imminent&#39; says leaker](https://appleinsider.com/articles/23/03/06/new-iphone-14-color-imminent-says-leaker?utm_medium=rss)
+ - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
