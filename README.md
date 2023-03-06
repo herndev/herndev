@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait for it](http://9gag.com/gag/abvALOp)
- - ⏩ [People...](http://9gag.com/gag/a9qyGvW)
- - 👉 [And that&#39;s ANOTHER one of THEM exposed. Disgusting](http://9gag.com/gag/aZDZo9z)<!-- MEMES:END -->
+ - 💣 [All this is because of a tiktok trend that taught kids how to hot wire KIAs](http://9gag.com/gag/ap91Eq9)
+ - ⏩ [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
+ - 👉 [Stuart Townsend &lpar;27&rpar; was in his second day of filming The Lord of the Rings when director Peter Jackson replaced him with Viggo Mortensen &lpar;41&rpar;.](http://9gag.com/gag/army7PX)<!-- MEMES:END -->
 
 ---
 
