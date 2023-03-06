@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Outlook for Mac free](https://appleinsider.com/articles/23/03/06/microsoft-makes-outlook-for-mac-free?utm_medium=rss)
- - [Some Twitter services were down, like loading images and TweetDeck; clicking a link in a tweet gave the error &quot;your current API plan does not include access&quot; &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230306/p16#a230306p16)
- - [Twitter’s busted again](https://www.theverge.com/2023/3/6/23627444/twitter-down-outage-images-links-error-message-api)<!-- TECH:END -->
+ - [Apple releases tvOS 16.3.3 to fix Siri Remote issue](https://appleinsider.com/articles/23/03/06/apple-releases-tvos-1633-to-fix-siri-remote-issue?utm_medium=rss)
+ - [Best 3D Printing Filament in 2023: PLA, ABS, PETG and more     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
+ - [Twitter Link, Image Errors Due to &#39;Internal Change&#39;     - CNET](https://www.cnet.com/news/social-media/twitter-link-image-errors-due-to-internal-change/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
