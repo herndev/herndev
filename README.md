@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beloved Dragon Ball Z Game Gets Sequel After 15 Years And Fans Are Losing It](https://kotaku.com/dragon-ball-z-super-budokai-tenkaichi-4-xenoverse-1850192200)
- - [Citadel trailer reveals the Russo Bros.’ grand, globe-trotting spy show plans](https://www.polygon.com/23618979/citadel-trailer-amazon-prime-video-priyanka-chopra-jonas-russo-bros)
- - [Apple’s next epic sci-fi show is Silo, starring Dune’s Rebecca Ferguson](https://www.polygon.com/23627178/silo-trailer-apple-cast-release-date)<!-- GAME:END -->
+ - [Where to find the machete in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-machete-location)
+ - [The best stunts of the year, according to me](https://www.polygon.com/23627292/stunt-awards-movie-action-2022-ballot-best)
+ - [Researchers translate brain waves into scarily accurate images using Stable Diffusion AI](https://www.pcgamer.com/researchers-translate-brain-waves-into-scarily-accurate-images-using-stable-diffusion-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
