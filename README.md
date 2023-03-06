@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
- - ⏩ [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 💣 [Didn\u2019t see that coming](http://9gag.com/gag/a4oPDNA)
+ - ⏩ [HANS!!!](http://9gag.com/gag/a3Z46m5)
  - 👉 [Didn\u2019t hold back](http://9gag.com/gag/aXnL0Rz)<!-- MEMES:END -->
 
 ---
