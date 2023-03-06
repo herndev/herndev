@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to create an agency to manage the country&#39;s data stores, shifting from multiple ministries, seeking to streamline its regulatory structure &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/230306/p5#a230306p5)
- - [Daily Authority: 👊 Galaxy S23 packs a punch](https://www.androidauthority.com/daily-authority-march-6-2023-3293057/)
- - [At the National People&#39;s Congress in Beijing, Tencent CEO Pony Ma and other executives were absent, as China boosts representation for its tech hardware sector &lpar;Laurie Chen/Reuters&rpar;](http://www.techmeme.com/230306/p4#a230306p4)<!-- TECH:END -->
+ - [Q&amp;A with Atari CEO Wade Rosen on the company&#39;s 50th anniversary, making use of its traditional IP, plans to focus on retro gaming hardware, licensing, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230306/p7#a230306p7)
+ - [Timeshifter 2.1 review: If you cooperate, helps with jet lag](https://appleinsider.com/articles/23/03/06/timeshifter-21-review-if-you-cooperate-helps-with-jet-lag?utm_medium=rss)
+ - [Sources: around 20 leaders at Clubhouse have left over the past year, including hires from Meta, Google, and others; Clubhouse continues to add &quot;top talent&quot; &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230306/p6#a230306p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
