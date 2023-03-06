@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [How to Watch &#39;Survivor&#39;: Stream Season 44 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-44-from-anywhere/#ftag=CAD590a51e)
- - [The new Google Docs and Drive UI starts rolling out today](https://www.theverge.com/2023/3/6/23627809/google-docs-drive-ui-update-material)<!-- TECH:END -->
+ - [Scammers are using AI voices to steal millions by impersonating loved ones](https://www.androidauthority.com/ai-voice-scams-3293324/)
+ - [Source: Twitter broke on Monday after the only site reliability engineer assigned to the project for migrating to a paid API made a &quot;bad configuration change&quot; &lpar;Platformer&rpar;](http://www.techmeme.com/230306/p19#a230306p19)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
