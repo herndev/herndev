@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You have to see this amazing fan-made Star Trek Shuttle PC](https://www.pcgamer.com/you-have-to-see-this-amazing-fan-made-star-trek-shuttle-pc)
- - [The SteelSeries Destiny 2: Lightfall themed peripherals are gorgeous](https://www.pcgamer.com/the-steelseries-destiny-2-lightfall-themed-peripherals-are-gorgeous)
- - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)<!-- GAME:END -->
+ - [The Last Of Us Episode 8 Recap: Joel And Ellie&#39;s Most Desperate Hour](https://kotaku.com/last-of-us-tlou-recap-s1e8-david-james-troy-baker-ellie-1850191358)
+ - [Larian confirms Baldur&#39;s Gate 3 early access owners get Digital Deluxe Edition upgrade free](https://www.pcgamer.com/larian-confirms-baldurs-gate-3-early-access-owners-get-digital-deluxe-edition-upgrade-free)
+ - [You have to see this amazing fan-made Star Trek Shuttle PC](https://www.pcgamer.com/you-have-to-see-this-amazing-fan-made-star-trek-shuttle-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
