@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Destiny 2 action figure locations in Neomuna](https://www.pcgamer.com/destiny-2-action-figures-locations)
- - [Steam&#39;s most hardcore city builder overcomes Trotskyite sabotage to return to the platform](https://www.pcgamer.com/steams-most-hardcore-city-builder-overcomes-trotskyite-sabotage-to-return-to-the-platform)
- - [Dominate the battlefield from the sea and the sky in Company of Heroes 3](https://www.pcgamer.com/dominate-the-battlefield-from-the-sea-and-the-sky-in-company-of-heroes-3)<!-- GAME:END -->
+ - [Beloved Dragon Ball Z Game Gets Sequel After 15 Years And Fans Are Losing It](https://kotaku.com/dragon-ball-z-super-budokai-tenkaichi-4-xenoverse-1850192200)
+ - [Citadel trailer reveals the Russo Bros.’ grand, globe-trotting spy show plans](https://www.polygon.com/23618979/citadel-trailer-amazon-prime-video-priyanka-chopra-jonas-russo-bros)
+ - [Apple’s next epic sci-fi show is Silo, starring Dune’s Rebecca Ferguson](https://www.polygon.com/23627178/silo-trailer-apple-cast-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
