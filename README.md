@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - ⏩ [Teachers dont get paid enough to deal with this](http://9gag.com/gag/az2xnpp)
- - 👉 [Fixing a dirt road with concrete. Only in Africa](http://9gag.com/gag/a8qAWme)<!-- MEMES:END -->
+ - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - ⏩ [I woodn\u2018t do that\u2026](http://9gag.com/gag/anzOqNz)
+ - 👉 [Before and After Limb Lengthening.](http://9gag.com/gag/aNwLorr)<!-- MEMES:END -->
 
 ---
 
