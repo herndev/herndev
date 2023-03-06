@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best productivity apps for iPhone &amp; iPad to crush your goals in 2023](https://appleinsider.com/inside/iphone/best/best-productivity-apps-for-iphone-ipad?utm_medium=rss)
- - [Huawei allegedly caught tracking MWC 2023 visitors at its exhibit](https://www.androidauthority.com/mwc-huawei-tracking-3293197/)
- - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
+ - [Microsoft makes Outlook for Mac free](https://appleinsider.com/articles/23/03/06/microsoft-makes-outlook-for-mac-free?utm_medium=rss)
+ - [Some Twitter services were down, like loading images and TweetDeck; clicking a link in a tweet gave the error &quot;your current API plan does not include access&quot; &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230306/p16#a230306p16)
+ - [Twitter’s busted again](https://www.theverge.com/2023/3/6/23627444/twitter-down-outage-images-links-error-message-api)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
