@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every New Emoji Coming to Your iPhone With iOS 16.4     - CNET](https://www.cnet.com/tech/services-and-software/every-new-emoji-coming-to-your-iphone-with-ios-16-4/#ftag=CAD590a51e)
- - [Why do indie game developers go it alone?](https://www.theverge.com/2023/3/6/23627609/solo-acts-vergecast-episode-3-madison-karrh-birth)
- - [Amazon drops prices on Apple - save up to $500 on Macs, Beats, iPad accessories](https://appleinsider.com/articles/23/03/06/amazon-drops-prices-on-apple---save-up-to-500-on-macs-beats-ipad-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [How to Watch &#39;Survivor&#39;: Stream Season 44 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-44-from-anywhere/#ftag=CAD590a51e)
+ - [The new Google Docs and Drive UI starts rolling out today](https://www.theverge.com/2023/3/6/23627809/google-docs-drive-ui-update-material)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
