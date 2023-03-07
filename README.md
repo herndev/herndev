@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two confirms layoffs following &#39;exponential growth in recent years&#39;](https://www.pcgamer.com/take-two-confirms-layoffs-following-exponential-growth-in-recent-years)
- - [Genshin Impact’s Female Characters Deserve Better Storylines](https://kotaku.com/genshin-impact-hoyoverse-female-characters-dehya-1850199595)
- - [Michael B. Jordan’s Top 5 Anime Recs Will Consume All Your Free Time](https://kotaku.com/creed-3-michael-b-jordan-anime-one-piece-naruto-bleach-1850199511)<!-- GAME:END -->
+ - [YouTube’s New Profanity Policy Will Let You Cuss A Bit More](https://kotaku.com/youtube-profanity-policy-guideline-changes-1850200165)
+ - [Taika Waititi is still making a Star Wars movie, unlike Kevin Feige](https://www.polygon.com/star-wars/23629578/star-wars-movies-kevin-feige-taika-waititi-rian-johnson-release-date)
+ - [Incredibly Rare Pokémon Card Auctioned For $480,000, Nobody Bids](https://kotaku.com/pokemon-card-illustrator-pikachu-charizard-ebay-auction-1850200024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
