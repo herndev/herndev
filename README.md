@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confirmation on the name of the hero. RIP](http://9gag.com/gag/ap91ven)
- - ⏩ [Totally happened](http://9gag.com/gag/aBdZ34Q)
- - 👉 [Pronouns are Bro/Bruh. Sexual Preference is your Mom](http://9gag.com/gag/avQWPnZ)<!-- MEMES:END -->
+ - 💣 [Boy, what a time to be alive](http://9gag.com/gag/a1P7MYD)
+ - ⏩ [We are not equal](http://9gag.com/gag/aWGp69Z)
+ - 👉 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)<!-- MEMES:END -->
 
 ---
 
