@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 are on sale for $199 at Verizon, beating Amazon by $35](https://appleinsider.com/articles/23/03/07/airpods-pro-2-are-on-sale-for-199-at-verizon-beating-amazon-by-35?utm_medium=rss)
- - [Cheeky! This phone has a ‘plump butt’ beauty filter.](https://www.androidauthority.com/plump-butt-beauty-filter-smartphones-3293627/)
- - [The 20 best Samsung Galaxy Tab deals right now](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
+ - [Galaxy A54 and A34 price leak shows big increase, but maybe not in US](https://www.androidauthority.com/galaxy-a54-a34-leak-2-3293771/)
+ - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Jason Sudeikis thinks &#39;Ted Lasso&#39; spin-offs are a possibility](https://appleinsider.com/articles/23/03/07/jason-sudeikis-thinks-ted-lasso-spin-offs-are-a-possibility?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
