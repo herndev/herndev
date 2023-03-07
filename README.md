@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube, Facebook, and Instagram helped Monu Manesar, an Indian cow vigilante wanted in connection to two murders, thrive despite violent and Islamophobic posts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230307/p7#a230307p7)
- - [After Instagram added a prompt to cross-post on Facebook, sources say at Meta&#39;s request, some young adults express surprise that their posts are on Facebook &lpar;New York Times&rpar;](http://www.techmeme.com/230307/p6#a230307p6)
- - [Investor document: Stripe seeks to raise ~$2.3B to cover Q1 tax withholdings and plans to withhold an additional $500M in 2022 and $700M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p5#a230307p5)<!-- TECH:END -->
+ - [Apple&#39;s iPhone dominated 2022 smartphone sales](https://appleinsider.com/articles/23/03/07/apples-iphone-dominated-2022-smartphone-sales?utm_medium=rss)
+ - [There may be a problem with Apple&#39;s Digital Legacy feature](https://appleinsider.com/articles/23/03/07/there-may-be-a-problem-with-apples-digital-legacy-feature?utm_medium=rss)
+ - [Many VCs question whether generative AI startups, currently attracting huge valuations, will make enough money, fearing a repeat of the crypto investment hype &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230307/p8#a230307p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
