@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Zhang Liang, Wo Long: Fallen Dynasty&#39;s first boss](https://www.pcgamer.com/wo-long-fallen-dynasty-first-boss-zhang-liang)
- - [Microsoft and Intel follow Nvidia with their own streaming video upscaling tools](https://www.pcgamer.com/microsoft-and-intel-follow-nvidia-with-their-own-streaming-video-upscaling-tools)
- - [Tarkov publicly shames 6,700 &#39;scum of the earth&#39; cheaters by publishing their nicknames after banning them](https://www.pcgamer.com/tarkov-publicly-shames-6700-scum-of-the-earth-cheaters-by-publishing-their-nicknames-after-banning-them)<!-- GAME:END -->
+ - [Stun the Competition with the New Xbox Wireless Controller – Velocity Green](https://news.xbox.com/en-us/2023/03/07/stun-the-competition-with-the-new-xbox-wireless-controller-velocity-green/)
+ - [Avatar: The Way of Water will soon be available to watch at home](https://www.polygon.com/23628788/avatar-the-way-of-water-digital-version-vod-streaming-release-date)
+ - [Valheim, Civ 6, and Guilty Gear Strive lead Game Pass March lineup](https://www.polygon.com/23628780/xbox-game-pass-pc-march-2023-guilty-gear-strive-valheim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
