@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy A54 and A34 price leak shows big increase, but maybe not in US](https://www.androidauthority.com/galaxy-a54-a34-leak-2-3293771/)
- - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Jason Sudeikis thinks &#39;Ted Lasso&#39; spin-offs are a possibility](https://appleinsider.com/articles/23/03/07/jason-sudeikis-thinks-ted-lasso-spin-offs-are-a-possibility?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel Buds Pro now have spatial audio with head-tracking support](https://www.androidauthority.com/pixel-buds-spatial-audio-3293820/)
+ - [Biden FCC nominee Gigi Sohn tells the White House she is dropping out, after her nomination stalled for 16 months amid industry opposition and personal attacks &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230307/p22#a230307p22)
+ - [This phone received 7 straight years of software updates, besting even Samsung](https://www.androidauthority.com/fairphone-2-software-3293819/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
