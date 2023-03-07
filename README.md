@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
- - ⏩ [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - 👉 [New section idea: `Old cars that dont look old and aged very well.` I think the lotus Elise S2 is a very good example for a timeless design. 23 years old, but doesnt look like that. What other cars can you think of?](http://9gag.com/gag/a1P7epR)<!-- MEMES:END -->
+ - 💣 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
+ - ⏩ [Rent?](http://9gag.com/gag/aYVGwg2)
+ - 👉 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
 
 ---
 
