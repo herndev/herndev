@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Up to $116 off Fossil wearables, and more smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
  - [Sources: Meta plans to cut thousands of jobs as soon as this week, after it eliminated 13%, or 11,000 jobs in November 2023 in its first major layoff &lpar;Bloomberg&rpar;](http://www.techmeme.com/230306/p24#a230306p24)
- - [New rumors clash over 15-inch MacBook Air release date](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)
- - [Alex Gibney is making a documentary about Elon Musk](https://www.theverge.com/2023/3/6/23628238/elon-musk-alex-gibney-documentary-announced)<!-- TECH:END -->
+ - [New rumors clash over 15-inch MacBook Air release date](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
