@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why a Vanderpump Rules breakup is the Red Wedding of reality TV](https://www.polygon.com/23627721/vanderpump-rules-tom-sandoval-ariana-madix-breakup-explained)
- - [Kai Cenat crushes Ludwig&#39;s subscriber record to become the new King of Twitch](https://www.pcgamer.com/kai-cenat-crushes-ludwigs-subscriber-record-to-become-the-new-king-of-twitch)
- - [Anime Voice Actor Asks Fans To Please Bathe Before Her Concert](https://kotaku.com/smelly-anime-fans-rie-takahashi-genshin-impact-concert-1850194677)<!-- GAME:END -->
+ - [Paradox Announces Cities: Skylines 2, Plus Loads Of Other Stuff](https://kotaku.com/cities-skylines-2-paradox-lamplighters-xcom-ck3-pc-new-1850194992)
+ - [Overwatch 2 scientist confirms it&#39;s not just you, Cassidy&#39;s ultimate sucks](https://www.pcgamer.com/overwatch-2-scientist-confirms-its-not-just-you-cassidys-ultimate-sucks)
+ - [Creed 3’s box office returns are already breaking records](https://www.polygon.com/23627357/creed-3-box-office-total-rocky-sports-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
