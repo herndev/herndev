@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agoQ3zr)
- - ⏩ [New section idea: `Old cars that dont look old and aged very well.` I think the lotus Elise S2 is a very good example for a timeless design. 23 years old, but doesnt look like that. What other cars can you think of?](http://9gag.com/gag/a1P7epR)
- - 👉 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)<!-- MEMES:END -->
+ - 💣 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - ⏩ [This is how to deal with shoplifters](http://9gag.com/gag/axoW2Op)
+ - 👉 [Could be.](http://9gag.com/gag/a04oYYL)<!-- MEMES:END -->
 
 ---
 
