@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta plans to cut thousands of jobs as soon as this week, after it eliminated 13%, or 11,000 jobs in November 2023 in its first major layoff &lpar;Bloomberg&rpar;](http://www.techmeme.com/230306/p24#a230306p24)
  - [New rumors clash over 15-inch MacBook Air release date](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)
- - [Yuga Labs says the auction of its Bitcoin NFT project TwelveFold generated 735.7 BTC, about $16.5M; 288 out of 3,246 total bidders were awarded NFTs &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230306/p23#a230306p23)
- - [Apple’s iPhone SE 4 may use OLED screens from a Chinese supplier, not Samsung or LG](https://www.theverge.com/2023/3/6/23628019/apple-iphone-se-2024-display-oled-6-1-inch-boe)<!-- TECH:END -->
+ - [Alex Gibney is making a documentary about Elon Musk](https://www.theverge.com/2023/3/6/23628238/elon-musk-alex-gibney-documentary-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
