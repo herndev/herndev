@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atomi Alpha Review: Pretty but Flawed](https://www.wired.com/review/atomi-alpha/)
- - [TikTok’s Screen-Time Limits Are the Real Distraction](https://www.wired.com/story/tiktok-screen-time-limits-distraction-anxiety/)
- - [Meta&#39;s &#39;year of efficiency&#39; continues, thousands more expected to be laid off](https://appleinsider.com/articles/23/03/07/metas-year-of-efficiency-continues-thousands-more-expected-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces a yellow finish for the iPhone 14 and 14 Plus, the latest new spring color after &quot;alpine green&quot; in 2022, shipping on March 14 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230307/p12#a230307p12)
+ - [Apple TV+ &#39;Bad Sisters&#39; leads Irish awards with 12 nominations](https://appleinsider.com/articles/23/03/07/apple-tv-bad-sisters-leads-irish-awards-with-12-nominations?utm_medium=rss)
+ - [iPhone 14 and iPhone 14 Plus now available in yellow](https://appleinsider.com/articles/23/03/07/iphone-14-and-iphone-14-plus-now-available-in-yellow?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
