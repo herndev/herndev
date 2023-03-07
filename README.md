@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
- - ⏩ [Rent?](http://9gag.com/gag/aYVGwg2)
- - 👉 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
+ - 💣 [Indo Whip](http://9gag.com/gag/aoKWmje)
+ - ⏩ [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
+ - 👉 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)<!-- MEMES:END -->
 
 ---
 
