@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A January 2022 patch fixed flaws used by Windows UEFI bootkit BlackLotus, but PCs are at risk as Microsoft hasn&#39;t put vulnerable binaries on a revocation list &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230307/p1#a230307p1)
- - [WeightWatchers is acquiring Sequence, a digital health company offering $99/month telehealth visits with doctors who can prescribe weight loss drugs, for $106M &lpar;Andrea Petersen/Wall Street Journal&rpar;](http://www.techmeme.com/230306/p26#a230306p26)
- - [Autonomous trucking company Embark lays off about 70% of its employees and says remaining staff will focus on winding down day-to-day operations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230306/p25#a230306p25)<!-- TECH:END -->
+ - [South Korea&#39;s trade minister says the US CHIPS Act has many preconditions for companies to receive incentive funds and compliance will take much time and effort &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p2#a230307p2)
+ - [Daily Authority: 🔎 Nothing’s secret revealed](https://www.androidauthority.com/daily-authority-march-7-2023-3293539/)
+ - [The March 2023 Pixel feature drop isn’t here yet, but here’s what to expect](https://www.androidauthority.com/google-pixel-march-2023-feature-drop-leak-3293551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
