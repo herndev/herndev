@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite 5 – Season Two Available Today and Includes New Campaign Mission, Free Content, and More](https://news.xbox.com/en-us/2023/03/07/sniper-elite-5-season-two-available-today-and-includes-new-campaign-mission-free-content-and-more/)
- - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
- - [Sons of the Forest item IDs and how to use them](https://www.pcgamer.com/sons-of-the-forest-item-ids)<!-- GAME:END -->
+ - [Guilty Gear Strive Offers a New Fighting Game Experience for Xbox Fans](https://news.xbox.com/en-us/2023/03/07/guilty-gear-strive-xbox-gamepass/)
+ - [Hogwarts Legacy Takes No Moral Stance](https://kotaku.com/hogwarts-legacy-evil-morality-unforgivable-dark-arts-1850197268)
+ - [Hugh Grant’s charisma is appropriately high in official stats for D&amp;D movie](https://www.polygon.com/23628904/dungeons-and-dragons-honor-among-thieves-character-sheets-stats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
