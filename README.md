@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - ⏩ [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 👉 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
+ - 💣 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
+ - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
+ - 👉 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 ---
 
