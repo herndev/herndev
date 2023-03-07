@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - ⏩ [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
+ - 💣 [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - ⏩ [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
+ - 👉 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
 
 ---
 
