@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indo Whip](http://9gag.com/gag/aoKWmje)
- - ⏩ [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
- - 👉 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)<!-- MEMES:END -->
+ - 💣 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
+ - ⏩ [This anime more than a creepy gif in comment section. Suggest me more like this one](http://9gag.com/gag/aqeR4dR)
+ - 👉 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
 
 ---
 
