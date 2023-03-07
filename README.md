@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a yellow finish for the iPhone 14 and 14 Plus, the latest new spring color after &quot;alpine green&quot; in 2022, shipping on March 14 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230307/p12#a230307p12)
- - [Apple TV+ &#39;Bad Sisters&#39; leads Irish awards with 12 nominations](https://appleinsider.com/articles/23/03/07/apple-tv-bad-sisters-leads-irish-awards-with-12-nominations?utm_medium=rss)
- - [iPhone 14 and iPhone 14 Plus now available in yellow](https://appleinsider.com/articles/23/03/07/iphone-14-and-iphone-14-plus-now-available-in-yellow?utm_medium=rss)<!-- TECH:END -->
+ - [Overhaul, which uses AI to help secure physical supply chains for freight companies, raised a $38M Series A led by Edison Partners and $35M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p16#a230307p16)
+ - [Purported iPhone 15 Pro photos show indent for rumored new volume control [u]](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
+ - [Sonos to support spatial audio with Apple Music on March 28](https://appleinsider.com/articles/23/03/07/sonos-to-support-spatial-audio-with-apple-music-on-march-28?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
