@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Ireland&#39;s DPC concluded 17 large inquiries in 2022 resulting in &amp;euro;1B+ fines; 10K+ cases were concluded last year, including 246 cross-border complaints &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/230307/p3#a230307p3)
- - [The 13 Best Weed Accessories and Gadgets     - CNET](https://www.cnet.com/culture/best-weed-accessories/#ftag=CAD590a51e)
- - [We asked, you told us: You’d ditch Google Assistant for Bing Chat](https://www.androidauthority.com/ditch-google-assistant-bing-chat-poll-results-3293550/)<!-- TECH:END -->
+ - [YouTube, Facebook, and Instagram helped Monu Manesar, an Indian cow vigilante wanted in connection to two murders, thrive despite violent and Islamophobic posts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230307/p7#a230307p7)
+ - [After Instagram added a prompt to cross-post on Facebook, sources say at Meta&#39;s request, some young adults express surprise that their posts are on Facebook &lpar;New York Times&rpar;](http://www.techmeme.com/230307/p6#a230307p6)
+ - [Investor document: Stripe seeks to raise ~$2.3B to cover Q1 tax withholdings and plans to withhold an additional $500M in 2022 and $700M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230307/p5#a230307p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
