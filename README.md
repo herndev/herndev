@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overhaul, which uses AI to help secure physical supply chains for freight companies, raised a $38M Series A led by Edison Partners and $35M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p16#a230307p16)
- - [Purported iPhone 15 Pro photos show indent for rumored new volume control [u]](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
- - [Sonos to support spatial audio with Apple Music on March 28](https://appleinsider.com/articles/23/03/07/sonos-to-support-spatial-audio-with-apple-music-on-march-28?utm_medium=rss)<!-- TECH:END -->
+ - [Purported iPhone 15 Pro photos show indent for rumored new volume control](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
+ - [The iPhone alarm tone is also a gorgeous classical piano piece](https://appleinsider.com/articles/23/03/07/musician-plays-iphone-alarm-sound-as-gorgeous-piano-piece?utm_medium=rss)
+ - [Daily Deals: $70 off AirPods Max, $100 off Nike Apple Watch, eufy Clean RoboVac Pro $98, more](https://appleinsider.com/articles/23/03/07/daily-deals-70-off-airpods-max-100-off-nike-apple-watch-eufy-clean-robovac-pro-98-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
