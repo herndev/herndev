@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guilty Gear Strive Offers a New Fighting Game Experience for Xbox Fans](https://news.xbox.com/en-us/2023/03/07/guilty-gear-strive-xbox-gamepass/)
- - [Hogwarts Legacy Takes No Moral Stance](https://kotaku.com/hogwarts-legacy-evil-morality-unforgivable-dark-arts-1850197268)
- - [Hugh Grant’s charisma is appropriately high in official stats for D&amp;D movie](https://www.polygon.com/23628904/dungeons-and-dragons-honor-among-thieves-character-sheets-stats)<!-- GAME:END -->
+ - [The Last of Us Show Destroyed Everyone With Two Words: Baby Girl](https://kotaku.com/the-last-of-us-hbo-pedro-pascal-joel-baby-girl-ellie-1850198125)
+ - [Pokémon Go maker’s new virtual pet game Peridot launches in May](https://www.polygon.com/23628959/niantic-peridot-game-release-date-android-ios)
+ - [Elden Ring Mod Turns The RPG Into A Pokémon-Style Free-For-All](https://kotaku.com/elden-ring-mod-malenia-dlc-pokemon-battler-ps5-pc-1850197933)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
