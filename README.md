@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Realistic Lofi Girl](http://9gag.com/gag/avQWnoZ)
- - ⏩ [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
- - 👉 [Old but Gold](http://9gag.com/gag/aBdZw32)<!-- MEMES:END -->
+ - 💣 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
 
 ---
 
