@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
- - ⏩ [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
- - 👉 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)<!-- MEMES:END -->
+ - 💣 [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - ⏩ [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - 👉 [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)<!-- MEMES:END -->
 
 ---
 
