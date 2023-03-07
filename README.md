@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scientists are getting closer to cyberpunk robotic human augments](https://www.pcgamer.com/scientists-are-getting-closer-to-cyberpunk-robotic-human-augments)
- - [Wait, The GameCube Nearly Had An Official LCD Monitor?](https://kotaku.com/nintendo-gamecube-official-screen-e3-lcd-2002-iwata-1850195524)
- - [Chill Japanese Classic Is Finally Getting An English Translation](https://kotaku.com/boku-no-natsuyasumi-2-english-translation-patch-ps1-1850194847)<!-- GAME:END -->
+ - [SSDs shot into space to help with ISS computing](https://www.pcgamer.com/ssds-shot-into-space-to-help-with-iss-computing)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/06/this-weeks-deals-with-gold-and-spotlight-sale-265/)
+ - [Scientists are getting closer to cyberpunk robotic human augments](https://www.pcgamer.com/scientists-are-getting-closer-to-cyberpunk-robotic-human-augments)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
