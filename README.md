@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us Show Destroyed Everyone With Two Words: Baby Girl](https://kotaku.com/the-last-of-us-hbo-pedro-pascal-joel-baby-girl-ellie-1850198125)
- - [Pokémon Go maker’s new virtual pet game Peridot launches in May](https://www.polygon.com/23628959/niantic-peridot-game-release-date-android-ios)
- - [Elden Ring Mod Turns The RPG Into A Pokémon-Style Free-For-All](https://kotaku.com/elden-ring-mod-malenia-dlc-pokemon-battler-ps5-pc-1850197933)<!-- GAME:END -->
+ - [Overwatch 2’s One-Punch Man collab goes live, here’s what’s included](https://www.polygon.com/23629250/overwatch-2-one-punch-man-skins-collab-blizzard)
+ - [Disney’s largely forgotten wartime shorts, ranked](https://www.polygon.com/century-of-disney/23622082/disney-package-films-wartime-shorts-ranked-make-mine-music)
+ - [Finally, a 3D printer that prints chocolate](https://www.pcgamer.com/finally-a-3d-printer-that-prints-chocolate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
