@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s One-Punch Man collab goes live, here’s what’s included](https://www.polygon.com/23629250/overwatch-2-one-punch-man-skins-collab-blizzard)
- - [Disney’s largely forgotten wartime shorts, ranked](https://www.polygon.com/century-of-disney/23622082/disney-package-films-wartime-shorts-ranked-make-mine-music)
- - [Finally, a 3D printer that prints chocolate](https://www.pcgamer.com/finally-a-3d-printer-that-prints-chocolate)<!-- GAME:END -->
+ - [Master Chief is here to teach you how to file your taxes](https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes)
+ - [Rainbow Six Siege mouse spoofers scramble to support forums after new anticheat &#39;Mousetrap&#39; unexpectedly kicks in](https://www.pcgamer.com/rainbow-six-siege-mouse-spoofers-scramble-to-support-forums-after-new-anticheat-mousetrap-unexpectedly-kicks-in)
+ - [Romania&#39;s got a new government AI advisor: &#39;My role is to represent you, like a mirror.&#39;](https://www.pcgamer.com/romanias-got-a-new-government-ai-advisor-my-role-is-to-represent-you-like-a-mirror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
