@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Buds Pro now have spatial audio with head-tracking support](https://www.androidauthority.com/pixel-buds-spatial-audio-3293820/)
- - [Biden FCC nominee Gigi Sohn tells the White House she is dropping out, after her nomination stalled for 16 months amid industry opposition and personal attacks &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230307/p22#a230307p22)
- - [This phone received 7 straight years of software updates, besting even Samsung](https://www.androidauthority.com/fairphone-2-software-3293819/)<!-- TECH:END -->
+ - [New GarageBand 10.4.8 update fixes unknown security flaws](https://appleinsider.com/articles/23/03/07/new-garageband-1048-update-fixes-unknown-security-flaws?utm_medium=rss)
+ - [Google plans to retire overlay ads on YouTube videos starting on April 6 to &quot;improve the viewer experience and shift engagement to higher performing ad formats&quot; &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/230307/p23#a230307p23)
+ - [YouTubers can swear at the start of videos again without getting demonetized](https://www.theverge.com/2023/3/7/23629345/youtube-swearing-profanity-guidelines-advertising-creators-outrage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
