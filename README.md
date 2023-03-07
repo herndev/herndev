@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
- - ⏩ [Great Britain](http://9gag.com/gag/aRELVrM)
- - 👉 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
+ - 💣 [Please bring back real girls](http://9gag.com/gag/az25V5j)
+ - ⏩ [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
+ - 👉 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)<!-- MEMES:END -->
 
 ---
 
