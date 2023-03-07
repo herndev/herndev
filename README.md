@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Master Chief is here to teach you how to file your taxes](https://www.polygon.com/23629002/master-chief-artificial-intelligence-voice-over-taxes)
- - [Rainbow Six Siege mouse spoofers scramble to support forums after new anticheat &#39;Mousetrap&#39; unexpectedly kicks in](https://www.pcgamer.com/rainbow-six-siege-mouse-spoofers-scramble-to-support-forums-after-new-anticheat-mousetrap-unexpectedly-kicks-in)
- - [Romania&#39;s got a new government AI advisor: &#39;My role is to represent you, like a mirror.&#39;](https://www.pcgamer.com/romanias-got-a-new-government-ai-advisor-my-role-is-to-represent-you-like-a-mirror)<!-- GAME:END -->
+ - [Take-Two confirms layoffs following &#39;exponential growth in recent years&#39;](https://www.pcgamer.com/take-two-confirms-layoffs-following-exponential-growth-in-recent-years)
+ - [Genshin Impact’s Female Characters Deserve Better Storylines](https://kotaku.com/genshin-impact-hoyoverse-female-characters-dehya-1850199595)
+ - [Michael B. Jordan’s Top 5 Anime Recs Will Consume All Your Free Time](https://kotaku.com/creed-3-michael-b-jordan-anime-one-piece-naruto-bleach-1850199511)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
