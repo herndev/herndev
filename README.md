@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Totally happened](http://9gag.com/gag/aBdZ34Q)
- - ⏩ [Wild Rattata appeared!](http://9gag.com/gag/awZgrE1)
+ - ⏩ [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
  - 👉 [What now?](http://9gag.com/gag/a1P7ZPv)<!-- MEMES:END -->
 
 ---
