@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - ⏩ [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - 👉 [Rent?](http://9gag.com/gag/aYVGwg2)<!-- MEMES:END -->
+ - 💣 [Totally happened](http://9gag.com/gag/aBdZ34Q)
+ - ⏩ [Wild Rattata appeared!](http://9gag.com/gag/awZgrE1)
+ - 👉 [What now?](http://9gag.com/gag/a1P7ZPv)<!-- MEMES:END -->
 
 ---
 
