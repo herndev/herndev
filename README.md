@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A January 2022 patch fixed flaws used by Windows UEFI bootkit BlackLotus, but PCs are at risk as Microsoft hasn&#39;t put vulnerable binaries on a revocation list &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230307/p1#a230307p1)
  - [WeightWatchers is acquiring Sequence, a digital health company offering $99/month telehealth visits with doctors who can prescribe weight loss drugs, for $106M &lpar;Andrea Petersen/Wall Street Journal&rpar;](http://www.techmeme.com/230306/p26#a230306p26)
- - [Autonomous trucking company Embark lays off about 70% of its employees and says remaining staff will focus on winding down day-to-day operations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230306/p25#a230306p25)
- - [Up to $116 off Fossil wearables, and more smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [Autonomous trucking company Embark lays off about 70% of its employees and says remaining staff will focus on winding down day-to-day operations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230306/p25#a230306p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
