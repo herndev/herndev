@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please bring back real girls](http://9gag.com/gag/az25V5j)
+ - 💣 [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
  - ⏩ [Is this the Future?](http://9gag.com/gag/ap91E3b)
- - 👉 [Great Britain](http://9gag.com/gag/aRELVrM)<!-- MEMES:END -->
+ - 👉 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
 
 ---
 
