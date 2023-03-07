@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything new in iOS 16.4 beta 3](https://appleinsider.com/articles/23/03/07/everything-new-in-ios-164-beta-3?utm_medium=rss)
- - [Docs: the FTC demanded Twitter turn over internal messages related to Musk, information about layoffs and journalists with access to company records, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230307/p26#a230307p26)
- - [San Antonio-based Plus One Robotics, a parcel handling robotics platform for warehouses, raised a $50M Series C led by Scale Venture Partners &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230307/p25#a230307p25)<!-- TECH:END -->
+ - [CrowdStrike reports Q4 revenue up 48% YoY to $637M, vs. $625M est., record $222M net new ARR, and a record 1,873 net new subscription customers; CRWD jumps 5%+ &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230307/p29#a230307p29)
+ - [Here’s when Google I/O 2023 happens with the likely launch of Pixel hardware](https://www.androidauthority.com/google-io-2023-3293985/)
+ - [Google schedules I/O 2023 with a &quot;limited live audience&quot; for May 10, when Android 14 details, Pixel 7a&#39;s debut, and a Pixel Tablet launch date are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230307/p28#a230307p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
