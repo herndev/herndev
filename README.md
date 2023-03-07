@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Outlook for Mac free](https://appleinsider.com/articles/23/03/06/microsoft-makes-outlook-for-mac-free?utm_medium=rss)
- - [At an all-hands last week, Sundar Pichai defended Google Cloud&#39;s new desk-sharing policy; an exec says ~35% of staff are in the office at least four days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230306/p20#a230306p20)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Conflicting rumors battle over 15-inch MacBook Air timing](https://appleinsider.com/articles/23/03/07/conflicting-rumors-battle-over-15-inch-macbook-air-timing?utm_medium=rss)
+ - [Yuga Labs says the auction of its Bitcoin NFT project TwelveFold generated 735.7 BTC, about $16.5M; 288 out of 3,246 total bidders were awarded NFTs &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230306/p23#a230306p23)
+ - [Best Home COVID Tests     - CNET](https://www.cnet.com/health/medical/best-home-covid-19-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
