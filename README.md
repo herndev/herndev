@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - ⏩ [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)
- - 👉 [New section idea: `Old cars that dont look old and aged very well.` I think the lotus Elise S2 is a very good example for a timeless design. 23 years old, but doesnt look like that. What other cars can you think of?](http://9gag.com/gag/a1P7epR)<!-- MEMES:END -->
+ - 💣 [Realistic Lofi Girl](http://9gag.com/gag/avQWnoZ)
+ - ⏩ [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
+ - 👉 [Old but Gold](http://9gag.com/gag/aBdZw32)<!-- MEMES:END -->
 
 ---
 
