@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone dominated 2022 smartphone sales](https://appleinsider.com/articles/23/03/07/apples-iphone-dominated-2022-smartphone-sales?utm_medium=rss)
- - [There may be a problem with Apple&#39;s Digital Legacy feature](https://appleinsider.com/articles/23/03/07/there-may-be-a-problem-with-apples-digital-legacy-feature?utm_medium=rss)
- - [Many VCs question whether generative AI startups, currently attracting huge valuations, will make enough money, fearing a repeat of the crypto investment hype &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230307/p8#a230307p8)<!-- TECH:END -->
+ - [Atomi Alpha Review: Pretty but Flawed](https://www.wired.com/review/atomi-alpha/)
+ - [TikTok’s Screen-Time Limits Are the Real Distraction](https://www.wired.com/story/tiktok-screen-time-limits-distraction-anxiety/)
+ - [Meta&#39;s &#39;year of efficiency&#39; continues, thousands more expected to be laid off](https://appleinsider.com/articles/23/03/07/metas-year-of-efficiency-continues-thousands-more-expected-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
