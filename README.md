@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please bring back real girls](http://9gag.com/gag/az25V5j)
- - ⏩ [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
- - 👉 [She now has catastrophic and permanent injuries.](http://9gag.com/gag/abve3bv)<!-- MEMES:END -->
+ - 💣 [Mathematician](http://9gag.com/gag/axoWZg1)
+ - ⏩ [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
+ - 👉 [Toothpaste](http://9gag.com/gag/aGELReX)<!-- MEMES:END -->
 
 ---
 
