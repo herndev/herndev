@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New GarageBand 10.4.8 update fixes unknown security flaws](https://appleinsider.com/articles/23/03/07/new-garageband-1048-update-fixes-unknown-security-flaws?utm_medium=rss)
- - [Google plans to retire overlay ads on YouTube videos starting on April 6 to &quot;improve the viewer experience and shift engagement to higher performing ad formats&quot; &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/230307/p23#a230307p23)
- - [YouTubers can swear at the start of videos again without getting demonetized](https://www.theverge.com/2023/3/7/23629345/youtube-swearing-profanity-guidelines-advertising-creators-outrage)<!-- TECH:END -->
+ - [Everything new in iOS 16.4 beta 3](https://appleinsider.com/articles/23/03/07/everything-new-in-ios-164-beta-3?utm_medium=rss)
+ - [Docs: the FTC demanded Twitter turn over internal messages related to Musk, information about layoffs and journalists with access to company records, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230307/p26#a230307p26)
+ - [San Antonio-based Plus One Robotics, a parcel handling robotics platform for warehouses, raised a $50M Series C led by Scale Venture Partners &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230307/p25#a230307p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
