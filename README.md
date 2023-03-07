@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wait, The GameCube Nearly Had An Official LCD Monitor?](https://kotaku.com/nintendo-gamecube-official-screen-e3-lcd-2002-iwata-1850195524)
  - [Chill Japanese Classic Is Finally Getting An English Translation](https://kotaku.com/boku-no-natsuyasumi-2-english-translation-patch-ps1-1850194847)
- - [Evidence is mounting for an upcoming Minecraft Bedrock world editor mode](https://www.pcgamer.com/evidence-is-mounting-for-an-upcoming-minecraft-bedrock-world-editor-mode)
- - [Paradox Announces Cities: Skylines 2, Plus Loads Of Other Stuff](https://kotaku.com/cities-skylines-2-paradox-lamplighters-xcom-ck3-pc-new-1850194992)<!-- GAME:END -->
+ - [Evidence is mounting for an upcoming Minecraft Bedrock world editor mode](https://www.pcgamer.com/evidence-is-mounting-for-an-upcoming-minecraft-bedrock-world-editor-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
