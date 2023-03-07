@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stun the Competition with the New Xbox Wireless Controller – Velocity Green](https://news.xbox.com/en-us/2023/03/07/stun-the-competition-with-the-new-xbox-wireless-controller-velocity-green/)
- - [Avatar: The Way of Water will soon be available to watch at home](https://www.polygon.com/23628788/avatar-the-way-of-water-digital-version-vod-streaming-release-date)
- - [Valheim, Civ 6, and Guilty Gear Strive lead Game Pass March lineup](https://www.polygon.com/23628780/xbox-game-pass-pc-march-2023-guilty-gear-strive-valheim)<!-- GAME:END -->
+ - [Sniper Elite 5 – Season Two Available Today and Includes New Campaign Mission, Free Content, and More](https://news.xbox.com/en-us/2023/03/07/sniper-elite-5-season-two-available-today-and-includes-new-campaign-mission-free-content-and-more/)
+ - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
+ - [Sons of the Forest item IDs and how to use them](https://www.pcgamer.com/sons-of-the-forest-item-ids)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
