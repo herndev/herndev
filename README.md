@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Purported iPhone 15 Pro photos show indent for rumored new volume control](https://appleinsider.com/articles/23/03/07/leaked-iphone-15-pro-images-show-indent-for-new-volume-control?utm_medium=rss)
- - [The iPhone alarm tone is also a gorgeous classical piano piece](https://appleinsider.com/articles/23/03/07/musician-plays-iphone-alarm-sound-as-gorgeous-piano-piece?utm_medium=rss)
- - [Daily Deals: $70 off AirPods Max, $100 off Nike Apple Watch, eufy Clean RoboVac Pro $98, more](https://appleinsider.com/articles/23/03/07/daily-deals-70-off-airpods-max-100-off-nike-apple-watch-eufy-clean-robovac-pro-98-more?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Pro 2 are on sale for $199 at Verizon, beating Amazon by $35](https://appleinsider.com/articles/23/03/07/airpods-pro-2-are-on-sale-for-199-at-verizon-beating-amazon-by-35?utm_medium=rss)
+ - [Cheeky! This phone has a ‘plump butt’ beauty filter.](https://www.androidauthority.com/plump-butt-beauty-filter-smartphones-3293627/)
+ - [The 20 best Samsung Galaxy Tab deals right now](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
