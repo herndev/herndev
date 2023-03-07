@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mathematician](http://9gag.com/gag/axoWZg1)
- - ⏩ [The amount of misconception or arrogance some people have !](http://9gag.com/gag/a7q8yXb)
- - 👉 [Toothpaste](http://9gag.com/gag/aGELReX)<!-- MEMES:END -->
+ - 💣 [Please bring back real girls](http://9gag.com/gag/az25V5j)
+ - ⏩ [Is this the Future?](http://9gag.com/gag/ap91E3b)
+ - 👉 [Great Britain](http://9gag.com/gag/aRELVrM)<!-- MEMES:END -->
 
 ---
 
