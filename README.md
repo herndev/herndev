@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
- - ⏩ [This is how to deal with shoplifters](http://9gag.com/gag/axoW2Op)
- - 👉 [Could be.](http://9gag.com/gag/a04oYYL)<!-- MEMES:END -->
+ - 💣 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - ⏩ [Man loses court case in 26 seconds](http://9gag.com/gag/amAWqMV)
+ - 👉 [Rent?](http://9gag.com/gag/aYVGwg2)<!-- MEMES:END -->
 
 ---
 
