@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
- - ⏩ [Proper way to use a chainsaw](http://9gag.com/gag/awZg0Wr)
- - 👉 [Hard to look away](http://9gag.com/gag/aoKW08m)<!-- MEMES:END -->
+ - 💣 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - ⏩ [He said \u201cidk let\u2019s try\u201d](http://9gag.com/gag/a8qAMeY)
+ - 👉 [New section idea: `Old cars that dont look old and aged very well.` I think the lotus Elise S2 is a very good example for a timeless design. 23 years old, but doesnt look like that. What other cars can you think of?](http://9gag.com/gag/a1P7epR)<!-- MEMES:END -->
 
 ---
 
