@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell is even that](http://9gag.com/gag/aPgx6PG)
- - ⏩ [This anime more than a creepy gif in comment section. Suggest me more like this one](http://9gag.com/gag/aqeR4dR)
+ - 💣 [Fingers aren\u2019t the only things you can massage](http://9gag.com/gag/aVbgzpK)
+ - ⏩ [Great Britain](http://9gag.com/gag/aRELVrM)
  - 👉 [New gen home owners](http://9gag.com/gag/aWGpO2x)<!-- MEMES:END -->
 
 ---
