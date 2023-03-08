@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Women in Gaming this International Women’s Day](https://news.xbox.com/en-us/2023/03/08/xbox-celebrates-women-in-gaming-this-international-womens-day/)
- - [Where to find Oathbound chests in Fortnite](https://www.pcgamer.com/fortnite-oathbound-chests-locations)
- - [In the year of our lord 2023, Chuck E. Cheese still uses floppy disks to make the animatronic mouse dance](https://www.pcgamer.com/in-the-year-of-our-lord-2023-chuck-e-cheese-still-uses-floppy-disks-to-make-the-animatronic-mouse-dance)<!-- GAME:END -->
+ - [&#39;Manufacturers will put a screen on anything&#39; I say staring at a distro plate with a 7-inch monitor built in](https://www.pcgamer.com/manufacturers-will-put-a-screen-on-anything-i-say-staring-at-a-distro-plate-with-a-7-inch-monitor-built-in)
+ - [Destiny 2: How to get Vexcalibur and beat the Avalon mission](https://www.pcgamer.com/destiny-2-vexcalibur-avalon-catalyst)
+ - [The Best Pokémon Card Art Sets That Tell Amazing Stories](https://kotaku.com/pokemon-card-art-tcg-scarlet-violet-story-sword-shield-1850201705)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
