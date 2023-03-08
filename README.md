@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best transformation](http://9gag.com/gag/aMEdwgR)
- - ⏩ [Every father immediately understood the dark place Joe went to\u2026](http://9gag.com/gag/a9qzWg6)
- - 👉 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)<!-- MEMES:END -->
+ - 💣 [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
+ - ⏩ [I used to be so innocent](http://9gag.com/gag/aBdZwr2)
+ - 👉 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)<!-- MEMES:END -->
 
 ---
 
