@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mathematician](http://9gag.com/gag/axoWZg1)
- - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
+ - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - ⏩ [We are not equal](http://9gag.com/gag/aWGp69Z)
+ - 👉 [Best transformation](http://9gag.com/gag/aMEdwgR)<!-- MEMES:END -->
 
 ---
 
