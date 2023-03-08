@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Space camp for adults exists and it&#39;s open to anyone](https://www.pcgamer.com/space-camp-for-adults-exists-and-its-open-to-anyone)
  - [This software lets you dip your toes into Quantum computing for free](https://www.pcgamer.com/this-software-lets-you-dip-your-toes-into-quantum-computing-for-free)
- - [Crash Landing](https://kotaku.com/anshuman-kashyap-rockstar-art-concept-illustration-1850200880)
- - [Phantom Brigade, A New Turn-Based Tactics Game, Rules](https://kotaku.com/phantom-brigade-a-new-turn-based-tactics-game-rules-1845710612)<!-- GAME:END -->
+ - [Crash Landing](https://kotaku.com/anshuman-kashyap-rockstar-art-concept-illustration-1850200880)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
