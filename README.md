@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube’s New Profanity Policy Will Let You Cuss A Bit More](https://kotaku.com/youtube-profanity-policy-guideline-changes-1850200165)
- - [Taika Waititi is still making a Star Wars movie, unlike Kevin Feige](https://www.polygon.com/star-wars/23629578/star-wars-movies-kevin-feige-taika-waititi-rian-johnson-release-date)
- - [Incredibly Rare Pokémon Card Auctioned For $480,000, Nobody Bids](https://kotaku.com/pokemon-card-illustrator-pikachu-charizard-ebay-auction-1850200024)<!-- GAME:END -->
+ - [A beginner&#39;s guide to Path of Exile, a dense, complicated, but rewarding ARPG](https://www.pcgamer.com/path-of-exile-beginners-guide)
+ - [The Big Ways The Last Of Us Show Changes The Game’s Lore](https://kotaku.com/the-last-of-us-hbo-lore-changes-tendrils-mycology-tess-1850019712)
+ - [Dota 2&#39;s new ghostly gunslinger hero is live](https://www.pcgamer.com/dota-2s-new-ghostly-gunslinger-hero-is-live)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
