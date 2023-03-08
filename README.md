@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 5 years of nothing, Humane &#39;startup&#39; is now shifting to AI](https://appleinsider.com/articles/23/03/08/after-5-years-of-nothing-humane-startup-is-now-shifting-to-ai?utm_medium=rss)
- - [Get the Official Galaxy A54 and A34 on your Android phone right now](https://www.androidauthority.com/a54-a34-wallpapers-3294323/)
- - [YouTuber Bill Omar Carrasquillo was sentenced to 5.5 years and ordered to forfeit $30M for selling pirated streaming TV to subscribers for over $15 per month &lpar;Jeremy Roebuck/The Philadelphia Inquirer&rpar;](http://www.techmeme.com/230308/p22#a230308p22)<!-- TECH:END -->
+ - [Spotify redesigns the core homescreen of its app with a TikTok-like vertical scroll of albums, video podcasts, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230308/p24#a230308p24)
+ - [New comedy &#39;The Big Door Prize&#39; premieres on Apple TV+ March 29](https://appleinsider.com/articles/23/03/08/new-comedy-the-big-door-prize-premieres-on-apple-tv-march-29?utm_medium=rss)
+ - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
