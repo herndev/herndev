@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
- - ⏩ [Hard to look away](http://9gag.com/gag/aoKW08m)
- - 👉 [The worse he can said is no](http://9gag.com/gag/aGEL0Bz)<!-- MEMES:END -->
+ - 💣 [Mathematician](http://9gag.com/gag/axoWZg1)
+ - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
 
 ---
 
