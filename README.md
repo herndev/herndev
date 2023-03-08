@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold allegedly spotted in the wild for the first time](https://www.androidauthority.com/google-pixel-fold-3294462/)
- - [Sources: Stripe is raising $6B at a $50B valuation from Thrive Capital, General Catalyst, a16z, and Founders Fund, plus Goldman Sachs&#39; private wealth clients &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230308/p27#a230308p27)
- - [Amazon slashes Apple&#39;s MacBook Air to $799, but the deal is likely to sell out soon](https://appleinsider.com/articles/23/03/08/amazon-slashes-apples-macbook-air-to-799-but-the-deal-is-likely-to-sell-out-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Apple executive shuffle to emphasize India as a sales region](https://appleinsider.com/articles/23/03/08/apple-executive-shuffle-to-emphasize-india-as-a-sales-region?utm_medium=rss)
+ - [Sources: Uber is exploring whether to spin off its Uber Freight logistics arm to focus on its growing ride hailing and food delivery units &lpar;Bloomberg&rpar;](http://www.techmeme.com/230308/p30#a230308p30)
+ - [Silvergate Capital plans to wind down operations and voluntarily liquidate Silvergate Bank, with full repayment of all deposits &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/230308/p29#a230308p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
