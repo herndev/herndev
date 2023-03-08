@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q4 revenue up 48% YoY to $637M, vs. $625M est., record $222M net new ARR, and a record 1,873 net new subscription customers; CRWD jumps 5%+ &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230307/p29#a230307p29)
- - [Here’s when Google I/O 2023 happens with the likely launch of Pixel hardware](https://www.androidauthority.com/google-io-2023-3293985/)
- - [Google schedules I/O 2023 with a &quot;limited live audience&quot; for May 10, when Android 14 details, Pixel 7a&#39;s debut, and a Pixel Tablet launch date are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230307/p28#a230307p28)<!-- TECH:END -->
+ - [Sources: EU regulators asked Twitter to hire more moderators and fact-checkers over concerns that Twitter aims to use more volunteers and AI to monitor content &lpar;Financial Times&rpar;](http://www.techmeme.com/230307/p32#a230307p32)
+ - [Weatherman&#39;s Umbrellas Are on Sale Right Now](https://www.wired.com/story/weatherman-umbrella-deals-march-2023/)
+ - [TikTok ban edges closer with bipartisan RESTRICT bill](https://appleinsider.com/articles/23/03/07/tiktok-ban-edges-closer-with-bipartisan-restrict-bill?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
