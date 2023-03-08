@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
- - ⏩ [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
- - 👉 [I mean...](http://9gag.com/gag/az25jZj)<!-- MEMES:END -->
+ - 💣 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
+ - ⏩ [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
+ - 👉 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)<!-- MEMES:END -->
 
 ---
 
