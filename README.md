@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
- - ⏩ [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
- - 👉 [Six inches](http://9gag.com/gag/aWGp8EA)<!-- MEMES:END -->
+ - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 ---
 
