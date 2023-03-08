@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - 💣 [Hard to look away](http://9gag.com/gag/aoKW08m)
  - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
+ - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 ---
 
