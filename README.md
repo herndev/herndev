@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
- - ⏩ [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
- - 👉 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)<!-- MEMES:END -->
+ - 💣 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
+ - ⏩ [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
+ - 👉 [Whale sounds](http://9gag.com/gag/abveZ39)<!-- MEMES:END -->
 
 ---
 
