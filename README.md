@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the 16 companies behind 562 brands dominating Google Search results, their take on AI and SEO, their niches and the ones they&#39;re taking over, and more &lpar;Glen Allsopp/Detailed&rpar;](http://www.techmeme.com/230307/p41#a230307p41)
- - [Kresus, which is developing a Web3 app to let users buy NFTs, access financial services, and more, raised a $25M Series A led by Liberty City Ventures &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/230307/p40#a230307p40)
- - [San Diego-based marketing automation service Soci, used by Ace Hardware, Ford and others, raised $120M in equity and debt, bringing its total funding to ~$238M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p39#a230307p39)<!-- TECH:END -->
+ - [Facebook will finally let you access your inbox without the Messenger app](https://www.androidauthority.com/facebook-messenger-app-inbox-3293019/)
+ - [Google and the Technical University of Berlin unveil PaLM-E, a visual language model with 562B parameters, integrating vision and language for robotic control &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230308/p1#a230308p1)
+ - [A look at the 16 companies behind 562 brands dominating Google Search results, their take on AI and SEO, their niches and the ones they&#39;re taking over, and more &lpar;Glen Allsopp/Detailed&rpar;](http://www.techmeme.com/230307/p41#a230307p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
