@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego-based marketing automation service Soci, used by Ace Hardware, Ford and others, raised $120M in equity and debt, bringing its total funding to ~$238M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p39#a230307p39)
- - [Elon Musk apologizes after mocking a laid-off Twitter employee Haraldur Thorleifsson, who joined Twitter in 2021 after the company acquired his startup Ueno &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/230307/p38#a230307p38)
- - [Global spending on AI, including software, hardware, and services for AI-centric systems, is forecast to reach $154B in 2023, up 26.9% compared to 2022 &lpar;IDC&rpar;](http://www.techmeme.com/230307/p37#a230307p37)<!-- TECH:END -->
+ - [A look at the 16 companies behind 562 brands dominating Google Search results, their take on AI and SEO, their niches and the ones they&#39;re taking over, and more &lpar;Glen Allsopp/Detailed&rpar;](http://www.techmeme.com/230307/p41#a230307p41)
+ - [Kresus, which is developing a Web3 app to let users buy NFTs, access financial services, and more, raised a $25M Series A led by Liberty City Ventures &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/230307/p40#a230307p40)
+ - [San Diego-based marketing automation service Soci, used by Ace Hardware, Ford and others, raised $120M in equity and debt, bringing its total funding to ~$238M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p39#a230307p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
