@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Valve designer Lawrence Yang and engineer Pierre-Loup Griffais on the Steam Deck after one year, community-driven improvements, and more &lpar;James Archer/Rock, Paper, Shotgun&rpar;](http://www.techmeme.com/230308/p12#a230308p12)
- - [Doctor Unions Are Good for Your Health](https://www.wired.com/story/health-doctor-unions/)
- - [Wedbush raises Apple stock target to $190 on rising demand](https://appleinsider.com/articles/23/03/08/wedbush-raises-apple-price-target-to-190-on-rising-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Across the US, towns and cities are feeling the impact of Amazon&#39;s belt-tightening, often having welcomed the company with incentives, as pandemic growth fades &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/230308/p15#a230308p15)
+ - [Spring into savings: Get up to 40% off Bluetti portable power stations](https://appleinsider.com/articles/23/03/08/spring-into-savings-get-up-to-40-off-bluetti-portable-power-stations?utm_medium=rss)
+ - [An interview with Instagram co-founder Kevin Systrom on his social news app Artifact, curating sources, editorial judgment, avoiding filter bubbles, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230308/p14#a230308p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
