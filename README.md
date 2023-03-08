@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur’s Gate 3’s free upgrade didn&#39;t make me buy the RPG, but this sure as hell did](https://www.pcgamer.com/baldurs-gate-3s-free-upgrade-is-great-but-its-not-why-i-just-bought-early-access)
  - [That 2D League of Legends RPG from the Moonlighter devs just got an imminent release date and a gameplay trailer](https://www.pcgamer.com/that-2d-league-of-legends-rpg-from-the-moonlighter-devs-just-got-an-imminent-release-date-and-a-gameplay-trailer)
- - [AMD could offer &#39;an exciting sneak peek&#39; of FSR 3 at GDC event on March 23](https://www.pcgamer.com/amd-could-offer-an-exciting-sneak-peek-of-fsr-3-at-gdc-event-on-march-23)
- - [Grab Nvidia and AMD&#39;s new GPU drivers here to save your CPU and maybe even your Windows install](https://www.pcgamer.com/grab-nvidia-and-amds-new-gpu-drivers-here-to-save-your-cpu-and-maybe-even-your-windows-install)<!-- GAME:END -->
+ - [AMD could offer &#39;an exciting sneak peek&#39; of FSR 3 at GDC event on March 23](https://www.pcgamer.com/amd-could-offer-an-exciting-sneak-peek-of-fsr-3-at-gdc-event-on-march-23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
