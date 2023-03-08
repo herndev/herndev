@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roguelike Have a Nice Death starts strong — but does it have a long game?](https://www.polygon.com/23629569/have-a-nice-death-roguelike-release-date-impressions-preview)
- - [Wayfinder is a modern MMO made up of the genre’s best bits](https://www.polygon.com/23629180/wayfinder-mmo-rpg-closed-beta-preview)
- - [Sea of Thieves is coming to tabletops this summer](https://www.polygon.com/tabletop-games/23628044/sea-of-thieves-tabletop-board-game-release-date-price-steamforged)<!-- GAME:END -->
+ - [I do not know why the Mandalorian wants his weird baptism](https://www.polygon.com/23629737/mandalorian-living-waters-explainer-bath-no)
+ - [The Mandalorian’s Bo-Katan is key to understanding Mandalore’s complicated history](https://www.polygon.com/star-wars/23629533/mandalorian-bo-katan-kryze-satine-mandalore)
+ - [Storing trillions of your Discord messages is waaaaay harder than you thought](https://www.pcgamer.com/storing-trillions-of-your-discord-messages-is-waaaaay-harder-than-you-thought)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
