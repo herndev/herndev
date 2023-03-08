@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An oral history of LinkedIn, which turns 20 in May, as told by Reid Hoffman and its co-founders, current executives, Satya Nadella, Richard Branson, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230308/p3#a230308p3)
  - [LA-based Believer, a studio founded by ex-Riot executives, which plans to build open world games using generative AI, raised a $55M Series A led by Lightspeed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230308/p2#a230308p2)
- - [Facebook will finally let you access your inbox without the Messenger app](https://www.androidauthority.com/facebook-messenger-app-inbox-3293019/)
- - [Google and the Technical University of Berlin unveil PaLM-E, a visual language model with 562B parameters, integrating vision and language for robotic control &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230308/p1#a230308p1)<!-- TECH:END -->
+ - [Facebook will finally let you access your inbox without the Messenger app](https://www.androidauthority.com/facebook-messenger-app-inbox-3293019/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
