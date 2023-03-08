@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Air Force Is Moving Fast on AI-Piloted Fighter Jets](https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/)
- - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)
- - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)<!-- TECH:END -->
+ - [Turn your computer into a book-writing machine with Scrivener 3, now just $27](https://appleinsider.com/articles/23/03/08/turn-your-computer-into-a-book-writing-machine-with-scrivener-3-now-just-27?utm_medium=rss)
+ - [$800 off the Microsoft Surface Pro 8, and many more tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Apple&#39;s plan to saturate all ages with iPhone, iPad and Mac is working](https://appleinsider.com/articles/23/03/08/apples-plan-to-saturate-all-ages-with-iphone-ipad-and-mac-is-working?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
