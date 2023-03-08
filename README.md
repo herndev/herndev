@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #627: Wednesday, March 8](https://www.pcgamer.com/wordle-hint-answer-today-627-march-8)
- - [Space camp for adults exists and it&#39;s open to anyone](https://www.pcgamer.com/space-camp-for-adults-exists-and-its-open-to-anyone)
- - [This software lets you dip your toes into Quantum computing for free](https://www.pcgamer.com/this-software-lets-you-dip-your-toes-into-quantum-computing-for-free)<!-- GAME:END -->
+ - [AMD could offer &#39;an exciting sneak peek&#39; of FSR 3 at GDC event on March 23](https://www.pcgamer.com/amd-could-offer-an-exciting-sneak-peek-of-fsr-3-at-gdc-event-on-march-23)
+ - [Grab Nvidia and AMD&#39;s new GPU drivers here to save your CPU and maybe even your Windows install](https://www.pcgamer.com/grab-nvidia-and-amds-new-gpu-drivers-here-to-save-your-cpu-and-maybe-even-your-windows-install)
+ - [Wordle hint and answer #627: Wednesday, March 8](https://www.pcgamer.com/wordle-hint-answer-today-627-march-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
