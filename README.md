@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #627: Wednesday, March 8](https://www.pcgamer.com/wordle-hint-answer-today-627-march-8)
  - [Space camp for adults exists and it&#39;s open to anyone](https://www.pcgamer.com/space-camp-for-adults-exists-and-its-open-to-anyone)
- - [This software lets you dip your toes into Quantum computing for free](https://www.pcgamer.com/this-software-lets-you-dip-your-toes-into-quantum-computing-for-free)
- - [Crash Landing](https://kotaku.com/anshuman-kashyap-rockstar-art-concept-illustration-1850200880)<!-- GAME:END -->
+ - [This software lets you dip your toes into Quantum computing for free](https://www.pcgamer.com/this-software-lets-you-dip-your-toes-into-quantum-computing-for-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
