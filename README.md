@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Translate on the web can now translate text within images](https://www.androidauthority.com/google-translate-web-3294410/)
- - [Spotify&#39;s new design looks like TikTok](https://appleinsider.com/articles/23/03/08/spotifys-new-design-looks-like-tiktok?utm_medium=rss)
- - [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)<!-- TECH:END -->
+ - [Google Pixel Fold allegedly spotted in the wild for the first time](https://www.androidauthority.com/google-pixel-fold-3294462/)
+ - [Sources: Stripe is raising $6B at a $50B valuation from Thrive Capital, General Catalyst, a16z, and Founders Fund, plus Goldman Sachs&#39; private wealth clients &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230308/p27#a230308p27)
+ - [Amazon slashes Apple&#39;s MacBook Air to $799, but the deal is likely to sell out soon](https://appleinsider.com/articles/23/03/08/amazon-slashes-apples-macbook-air-to-799-but-the-deal-is-likely-to-sell-out-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
