@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - ⏩ [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 💣 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - ⏩ [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - 👉 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)<!-- MEMES:END -->
 
 ---
 
