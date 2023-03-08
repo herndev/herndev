@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Air Force Is Moving Fast on AI-Piloted Fighter Jets](https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/)
  - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)
- - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 08&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-08-2023-3293255/)<!-- TECH:END -->
+ - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
