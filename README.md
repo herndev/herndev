@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Across the US, towns and cities are feeling the impact of Amazon&#39;s belt-tightening, often having welcomed the company with incentives, as pandemic growth fades &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/230308/p15#a230308p15)
- - [Spring into savings: Get up to 40% off Bluetti portable power stations](https://appleinsider.com/articles/23/03/08/spring-into-savings-get-up-to-40-off-bluetti-portable-power-stations?utm_medium=rss)
- - [An interview with Instagram co-founder Kevin Systrom on his social news app Artifact, curating sources, editorial judgment, avoiding filter bubbles, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230308/p14#a230308p14)<!-- TECH:END -->
+ - [Daily Deals: $250 off M2 Max MacBook Pro, $269 iPad, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/03/08/daily-deals-250-off-m2-max-macbook-pro-269-ipad-70-off-apple-watch-series-8-more?utm_medium=rss)
+ - [A look at the AI Education Project, a nonprofit backed by Microsoft, Google, OpenAI, and others that offers resources to boost AI literacy in low-income schools &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230308/p17#a230308p17)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 08&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-08-2023-3293255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
