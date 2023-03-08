@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Manufacturers will put a screen on anything&#39; I say staring at a distro plate with a 7-inch monitor built in](https://www.pcgamer.com/manufacturers-will-put-a-screen-on-anything-i-say-staring-at-a-distro-plate-with-a-7-inch-monitor-built-in)
- - [Destiny 2: How to get Vexcalibur and beat the Avalon mission](https://www.pcgamer.com/destiny-2-vexcalibur-avalon-catalyst)
- - [The Best Pokémon Card Art Sets That Tell Amazing Stories](https://kotaku.com/pokemon-card-art-tcg-scarlet-violet-story-sword-shield-1850201705)<!-- GAME:END -->
+ - [Wargroove 2 is mixing up Advance Wars tactics with pirates and giant squids](https://www.polygon.com/23630774/wargroove-2-nintendo-switch-pc-steam-announcement)
+ - [Here’s where you can pre-order Star Wars Jedi: Survivor](https://www.polygon.com/deals/23629409/star-wars-jedi-survivor-pre-order-buy-guide-ea-play)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
