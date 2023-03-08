@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - ⏩ [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
- - 👉 [Whale sounds](http://9gag.com/gag/abveZ39)<!-- MEMES:END -->
+ - 💣 [Bro emoted](http://9gag.com/gag/aoKWprA)
+ - ⏩ [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
 
 ---
 
