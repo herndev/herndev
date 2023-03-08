@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crash Landing](https://kotaku.com/anshuman-kashyap-rockstar-art-concept-illustration-1850200880)
  - [Phantom Brigade, A New Turn-Based Tactics Game, Rules](https://kotaku.com/phantom-brigade-a-new-turn-based-tactics-game-rules-1845710612)
- - [Destiny 2: Lightfall’s First Secret Exotic Mission Is A Great One](https://kotaku.com/destiny-2-lightfall-exotic-quest-vexcalibur-guide-1850200643)
- - [An Exploration Of The Ways Our Cities Hate The Young &amp; The Homeless](https://kotaku.com/exclusionary-design-hostile-architecture-video-game-pc-1850200584)<!-- GAME:END -->
+ - [Destiny 2: Lightfall’s First Secret Exotic Mission Is A Great One](https://kotaku.com/destiny-2-lightfall-exotic-quest-vexcalibur-guide-1850200643)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
