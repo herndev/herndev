@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn your computer into a book-writing machine with Scrivener 3, now just $27](https://appleinsider.com/articles/23/03/08/turn-your-computer-into-a-book-writing-machine-with-scrivener-3-now-just-27?utm_medium=rss)
- - [$800 off the Microsoft Surface Pro 8, and many more tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Apple&#39;s plan to saturate all ages with iPhone, iPad and Mac is working](https://appleinsider.com/articles/23/03/08/apples-plan-to-saturate-all-ages-with-iphone-ipad-and-mac-is-working?utm_medium=rss)<!-- TECH:END -->
+ - [After 5 years of nothing, Humane &#39;startup&#39; is now shifting to AI](https://appleinsider.com/articles/23/03/08/after-5-years-of-nothing-humane-startup-is-now-shifting-to-ai?utm_medium=rss)
+ - [Get the Official Galaxy A54 and A34 on your Android phone right now](https://www.androidauthority.com/a54-a34-wallpapers-3294323/)
+ - [YouTuber Bill Omar Carrasquillo was sentenced to 5.5 years and ordered to forfeit $30M for selling pirated streaming TV to subscribers for over $15 per month &lpar;Jeremy Roebuck/The Philadelphia Inquirer&rpar;](http://www.techmeme.com/230308/p22#a230308p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
