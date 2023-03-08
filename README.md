@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s free upgrade didn&#39;t make me buy the RPG, but this sure as hell did](https://www.pcgamer.com/baldurs-gate-3s-free-upgrade-is-great-but-its-not-why-i-just-bought-early-access)
- - [That 2D League of Legends RPG from the Moonlighter devs just got an imminent release date and a gameplay trailer](https://www.pcgamer.com/that-2d-league-of-legends-rpg-from-the-moonlighter-devs-just-got-an-imminent-release-date-and-a-gameplay-trailer)
- - [AMD could offer &#39;an exciting sneak peek&#39; of FSR 3 at GDC event on March 23](https://www.pcgamer.com/amd-could-offer-an-exciting-sneak-peek-of-fsr-3-at-gdc-event-on-march-23)<!-- GAME:END -->
+ - [Roguelike Have a Nice Death starts strong — but does it have a long game?](https://www.polygon.com/23629569/have-a-nice-death-roguelike-release-date-impressions-preview)
+ - [Wayfinder is a modern MMO made up of the genre’s best bits](https://www.polygon.com/23629180/wayfinder-mmo-rpg-closed-beta-preview)
+ - [Sea of Thieves is coming to tabletops this summer](https://www.polygon.com/tabletop-games/23628044/sea-of-thieves-tabletop-board-game-release-date-price-steamforged)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
