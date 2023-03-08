@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executive shuffle to emphasize India as a sales region](https://appleinsider.com/articles/23/03/08/apple-executive-shuffle-to-emphasize-india-as-a-sales-region?utm_medium=rss)
- - [Sources: Uber is exploring whether to spin off its Uber Freight logistics arm to focus on its growing ride hailing and food delivery units &lpar;Bloomberg&rpar;](http://www.techmeme.com/230308/p30#a230308p30)
- - [Silvergate Capital plans to wind down operations and voluntarily liquidate Silvergate Bank, with full repayment of all deposits &lpar;Christiana Loureiro/The Block&rpar;](http://www.techmeme.com/230308/p29#a230308p29)<!-- TECH:END -->
+ - [UK police shocked to discover taser disguised as iPhone](https://appleinsider.com/articles/23/03/08/uk-police-shocked-to-discover-taser-disguised-as-iphone?utm_medium=rss)
+ - [Sources: Anthropic, which focuses on AI safety, raised $300M led by Spark Capital at a $4.1B pre-money valuation, following a $400M investment by Google &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230308/p31#a230308p31)
+ - [Android 14 is hiding an emoji wallpaper maker for the Pixel](https://www.androidauthority.com/android-14-wallpaper-maker-3294502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
