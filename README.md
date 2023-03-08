@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best transformation](http://9gag.com/gag/aMEdwgR)
- - ⏩ [Google today](http://9gag.com/gag/a4onb8Z)
- - 👉 [Least we got one to speak against it.](http://9gag.com/gag/a8qAyDV)<!-- MEMES:END -->
+ - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - ⏩ [Please bring back real girls](http://9gag.com/gag/az25V5j)
+ - 👉 [Angle drill for hard-to-reach places](http://9gag.com/gag/a8qAp7Z)<!-- MEMES:END -->
 
 ---
 
