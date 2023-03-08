@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I do not know why the Mandalorian wants his weird baptism](https://www.polygon.com/23629737/mandalorian-living-waters-explainer-bath-no)
- - [The Mandalorian’s Bo-Katan is key to understanding Mandalore’s complicated history](https://www.polygon.com/star-wars/23629533/mandalorian-bo-katan-kryze-satine-mandalore)
- - [Storing trillions of your Discord messages is waaaaay harder than you thought](https://www.pcgamer.com/storing-trillions-of-your-discord-messages-is-waaaaay-harder-than-you-thought)<!-- GAME:END -->
+ - [PS5 system update with Discord support is available now](https://www.polygon.com/23630518/ps5-system-software-update-discord-1440p-vrr-dualsense-update)
+ - [GameStop Employees Freak Out As All Resident Evil 4 CE Store Pre-Orders Get Canceled](https://kotaku.com/gamestop-pre-order-resident-evil-4-collector-edition-1850202529)
+ - [Rep your nation in MLB The Show 23 with World Baseball Classic star players](https://blog.playstation.com/2023/03/08/rep-your-nation-in-mlb-the-show-23-with-world-baseball-classic-star-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
