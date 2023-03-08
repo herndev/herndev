@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - ⏩ [Please bring back real girls](http://9gag.com/gag/az25V5j)
- - 👉 [Angle drill for hard-to-reach places](http://9gag.com/gag/a8qAp7Z)<!-- MEMES:END -->
+ - 💣 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - ⏩ [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
+ - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 ---
 
