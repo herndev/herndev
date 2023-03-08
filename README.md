@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - ⏩ [We are not equal](http://9gag.com/gag/aWGp69Z)
- - 👉 [Best transformation](http://9gag.com/gag/aMEdwgR)<!-- MEMES:END -->
+ - 💣 [Best transformation](http://9gag.com/gag/aMEdwgR)
+ - ⏩ [Every father immediately understood the dark place Joe went to\u2026](http://9gag.com/gag/a9qzWg6)
+ - 👉 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)<!-- MEMES:END -->
 
 ---
 
