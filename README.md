@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
+ - 💣 [Chris rock is not holding back about Will Smith and Jada](http://9gag.com/gag/aBdZQAD)
+ - ⏩ [Protecting his best friend](http://9gag.com/gag/aDY7wZB)
+ - 👉 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)<!-- MEMES:END -->
 
 ---
 
