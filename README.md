@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to look away](http://9gag.com/gag/aoKW08m)
- - ⏩ [Nosey neighb\u00f6urs](http://9gag.com/gag/aBdZYKZ)
- - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
+ - 💣 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)
+ - ⏩ [Hard to look away](http://9gag.com/gag/aoKW08m)
+ - 👉 [The worse he can said is no](http://9gag.com/gag/aGEL0Bz)<!-- MEMES:END -->
 
 ---
 
