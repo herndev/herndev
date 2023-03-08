@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As governments adopt third-party automated fraud-detection algorithms, researchers say the companies running the systems are overpaid and lack accountability &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230308/p4#a230308p4)
- - [Daily Authority: 🍿 What to expect from Google I/O 2023](https://www.androidauthority.com/daily-authority-march-8-2023-3294091/)
- - [An oral history of LinkedIn, which turns 20 in May, as told by Reid Hoffman and its co-founders, current executives, Satya Nadella, Richard Branson, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230308/p3#a230308p3)<!-- TECH:END -->
+ - [Samsung Galaxy M14 5G launched: This is a budget battery beast](https://www.androidauthority.com/samsung-galaxy-m14-5g-3294171/)
+ - [Sources: after postponing construction at the end of 2022, Intel seeks an extra &amp;euro;4B-&amp;euro;5B from Germany to build its chip plant, taking the expected cost to ~&amp;euro;30B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230308/p6#a230308p6)
+ - [Panic launches Catalog, a curated game store for its handheld Playdate console with 16 titles, and raises the device&#39;s price by $20 to $199 starting in April &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/230308/p5#a230308p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
