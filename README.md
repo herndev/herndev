@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty is getting a Ninja Turtles crossover](https://www.polygon.com/23631148/call-of-duty-warzone-modern-warfare-2-tmnt-shredder-operator)
- - [Hands On With The Japanese Horror Game Fans Waited 15 Years For](https://kotaku.com/fatal-frame-mask-of-the-lunar-eclipse-switch-review-1850204725)
- - [The Outer Worlds, 2019&#39;s Great RPG, Has A Busted New-Gen Update](https://kotaku.com/outer-worlds-next-gen-upgrade-ps5-framerate-game-pass-1850204648)<!-- GAME:END -->
+ - [House of the Dragon’s five new dragons could hint at season 2’s storyline](https://www.polygon.com/23631284/house-dragon-season-2-plot-game-of-thrones-teaser-winds-of-winter)
+ - [New Lego Jurassic Park Set Contains Giant Pile Of Poop](https://kotaku.com/lego-jurassic-park-poop-pile-30th-anniversary-new-sets-1850205208)
+ - [Nintendo Switch Clock Game Has Now Released 20 Times Since 2021](https://kotaku.com/nintendo-switch-eshop-aaa-digital-clock-release-1850205218)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
