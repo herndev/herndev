@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy M14 5G launched: This is a budget battery beast](https://www.androidauthority.com/samsung-galaxy-m14-5g-3294171/)
- - [Sources: after postponing construction at the end of 2022, Intel seeks an extra &amp;euro;4B-&amp;euro;5B from Germany to build its chip plant, taking the expected cost to ~&amp;euro;30B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230308/p6#a230308p6)
- - [Panic launches Catalog, a curated game store for its handheld Playdate console with 16 titles, and raises the device&#39;s price by $20 to $199 starting in April &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/230308/p5#a230308p5)<!-- TECH:END -->
+ - [Musk thankful for Apple&#39;s support in Twitter turnaround](https://appleinsider.com/articles/23/03/08/elon-musk-thanks-apple-for-continuing-to-advertise-on-twitter?utm_medium=rss)
+ - [If you&#39;re quick, you can stay overnight at the &#39;Ted Lasso&#39; pub](https://appleinsider.com/articles/23/03/08/if-youre-quick-you-can-stay-overnight-at-the-ted-lasso-pub?utm_medium=rss)
+ - [A profile of former IBM CEO Ginni Rometty, who was criticized for the company&#39;s slow move into AI, cloud, and data analytics, as she releases a book on her life &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/230308/p7#a230308p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
