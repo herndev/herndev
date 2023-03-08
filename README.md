@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro emoted](http://9gag.com/gag/aoKWprA)
- - ⏩ [Dad saving his son&#39;s friend](http://9gag.com/gag/aWGpOe6)
- - 👉 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)<!-- MEMES:END -->
+ - 💣 [Best transformation](http://9gag.com/gag/aMEdwgR)
+ - ⏩ [Google today](http://9gag.com/gag/a4onb8Z)
+ - 👉 [Least we got one to speak against it.](http://9gag.com/gag/a8qAyDV)<!-- MEMES:END -->
 
 ---
 
