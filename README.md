@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
- - ⏩ [While dad was asleep](http://9gag.com/gag/a6qDbEq)
- - 👉 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)<!-- MEMES:END -->
+ - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - ⏩ [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
+ - 👉 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
 
 ---
 
