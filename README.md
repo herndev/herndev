@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 system update with Discord support is available now](https://www.polygon.com/23630518/ps5-system-software-update-discord-1440p-vrr-dualsense-update)
- - [GameStop Employees Freak Out As All Resident Evil 4 CE Store Pre-Orders Get Canceled](https://kotaku.com/gamestop-pre-order-resident-evil-4-collector-edition-1850202529)
- - [Rep your nation in MLB The Show 23 with World Baseball Classic star players](https://blog.playstation.com/2023/03/08/rep-your-nation-in-mlb-the-show-23-with-world-baseball-classic-star-players/)<!-- GAME:END -->
+ - [Xbox Celebrates Women in Gaming this International Women’s Day](https://news.xbox.com/en-us/2023/03/08/xbox-celebrates-women-in-gaming-this-international-womens-day/)
+ - [Where to find Oathbound chests in Fortnite](https://www.pcgamer.com/fortnite-oathbound-chests-locations)
+ - [In the year of our lord 2023, Chuck E. Cheese still uses floppy disks to make the animatronic mouse dance](https://www.pcgamer.com/in-the-year-of-our-lord-2023-chuck-e-cheese-still-uses-floppy-disks-to-make-the-animatronic-mouse-dance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
