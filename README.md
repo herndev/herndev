@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - ⏩ [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
+ - 💣 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
+ - ⏩ [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
  - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 ---
