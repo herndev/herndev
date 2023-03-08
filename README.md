@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [While dad was asleep](http://9gag.com/gag/a6qDbEq)
- - ⏩ [Guess I&#39;m the bad guy now](http://9gag.com/gag/aZDnBoX)
- - 👉 [Would](http://9gag.com/gag/aoKW9nX)<!-- MEMES:END -->
+ - 💣 [Nice doing business with you](http://9gag.com/gag/aKE1D03)
+ - ⏩ [It&#39;s science, Scott!](http://9gag.com/gag/aRELjMM)
+ - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 ---
 
