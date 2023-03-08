@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How effective altruism, championed by SBF before he dismissed it as a dodge, and doomsday scenarios, like killer rogue AI, became Silicon Valley obsessions &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230307/p36#a230307p36)
  - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)
- - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)
- - [Google I/O 2023 is Happening May 10 At Shoreline Amphitheatre     - CNET](https://www.cnet.com/tech/mobile/google-io-2023-is-happening-may-10-at-shoreline-amphitheatre/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
