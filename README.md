@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
- - ⏩ [Keanu\u2019s genuine reaction to the success of his AMA](http://9gag.com/gag/a8qAM5Q)
- - 👉 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)<!-- MEMES:END -->
+ - 💣 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
+ - ⏩ [10yo Dutch girl stabbed in Gothenburg while visiting relatives by a 35yo man shouting `Allah Akbar `. Claiming mental illness. She survived](http://9gag.com/gag/abveqj8)
+ - 👉 [Six inches](http://9gag.com/gag/aWGp8EA)<!-- MEMES:END -->
 
 ---
 
