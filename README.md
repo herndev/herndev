@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk thankful for Apple&#39;s support in Twitter turnaround](https://appleinsider.com/articles/23/03/08/elon-musk-thanks-apple-for-continuing-to-advertise-on-twitter?utm_medium=rss)
- - [If you&#39;re quick, you can stay overnight at the &#39;Ted Lasso&#39; pub](https://appleinsider.com/articles/23/03/08/if-youre-quick-you-can-stay-overnight-at-the-ted-lasso-pub?utm_medium=rss)
- - [A profile of former IBM CEO Ginni Rometty, who was criticized for the company&#39;s slow move into AI, cloud, and data analytics, as she releases a book on her life &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/230308/p7#a230308p7)<!-- TECH:END -->
+ - [An interview with Valve designer Lawrence Yang and engineer Pierre-Loup Griffais on the Steam Deck after one year, community-driven improvements, and more &lpar;James Archer/Rock, Paper, Shotgun&rpar;](http://www.techmeme.com/230308/p12#a230308p12)
+ - [Doctor Unions Are Good for Your Health](https://www.wired.com/story/health-doctor-unions/)
+ - [Wedbush raises Apple stock target to $190 on rising demand](https://appleinsider.com/articles/23/03/08/wedbush-raises-apple-price-target-to-190-on-rising-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
