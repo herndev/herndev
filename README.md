@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As governments adopt third-party automated fraud-detection algorithms, researchers say the companies running the systems are overpaid and lack accountability &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230308/p4#a230308p4)
  - [Daily Authority: 🍿 What to expect from Google I/O 2023](https://www.androidauthority.com/daily-authority-march-8-2023-3294091/)
- - [An oral history of LinkedIn, which turns 20 in May, as told by Reid Hoffman and its co-founders, current executives, Satya Nadella, Richard Branson, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230308/p3#a230308p3)
- - [LA-based Believer, a studio founded by ex-Riot executives, which plans to build open world games using generative AI, raised a $55M Series A led by Lightspeed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230308/p2#a230308p2)<!-- TECH:END -->
+ - [An oral history of LinkedIn, which turns 20 in May, as told by Reid Hoffman and its co-founders, current executives, Satya Nadella, Richard Branson, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230308/p3#a230308p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
