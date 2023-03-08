@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU regulators asked Twitter to hire more moderators and fact-checkers over concerns that Twitter aims to use more volunteers and AI to monitor content &lpar;Financial Times&rpar;](http://www.techmeme.com/230307/p32#a230307p32)
- - [Weatherman&#39;s Umbrellas Are on Sale Right Now](https://www.wired.com/story/weatherman-umbrella-deals-march-2023/)
- - [TikTok ban edges closer with bipartisan RESTRICT bill](https://appleinsider.com/articles/23/03/07/tiktok-ban-edges-closer-with-bipartisan-restrict-bill?utm_medium=rss)<!-- TECH:END -->
+ - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)
+ - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)
+ - [Google I/O 2023 is Happening May 10 At Shoreline Amphitheatre     - CNET](https://www.cnet.com/tech/mobile/google-io-2023-is-happening-may-10-at-shoreline-amphitheatre/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
