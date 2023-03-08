@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All very admirable careers... wait a second.](http://9gag.com/gag/agoQvwx)
- - ⏩ [Rent?](http://9gag.com/gag/aYVGwg2)
- - 👉 [The insane cost of a pizza plus salad when fees are included](http://9gag.com/gag/anzOBwb)<!-- MEMES:END -->
+ - 💣 [Look how they massacred my girl](http://9gag.com/gag/axoWGKn)
+ - ⏩ [Tony Hawk &amp; Avril is forever Teenager](http://9gag.com/gag/aPgx48n)
+ - 👉 [I mean...](http://9gag.com/gag/az25jZj)<!-- MEMES:END -->
 
 ---
 
