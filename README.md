@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How effective altruism, championed by SBF before he dismissed it as a dodge, and doomsday scenarios, like killer rogue AI, became Silicon Valley obsessions &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230307/p36#a230307p36)
- - [Acer confirms that one of its document servers was breached, after a hacker listed 160GB of data for sale allegedly containing confidential documents and files &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/230307/p35#a230307p35)
- - [Twitter lets the certificate for its Tor onion site expire, effectively killing off the privacy- and speech-protecting service a year after it launched &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230307/p34#a230307p34)<!-- TECH:END -->
+ - [San Diego-based marketing automation service Soci, used by Ace Hardware, Ford and others, raised $120M in equity and debt, bringing its total funding to ~$238M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230307/p39#a230307p39)
+ - [Elon Musk apologizes after mocking a laid-off Twitter employee Haraldur Thorleifsson, who joined Twitter in 2021 after the company acquired his startup Ueno &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/230307/p38#a230307p38)
+ - [Global spending on AI, including software, hardware, and services for AI-centric systems, is forecast to reach $154B in 2023, up 26.9% compared to 2022 &lpar;IDC&rpar;](http://www.techmeme.com/230307/p37#a230307p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
