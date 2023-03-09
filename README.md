@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - ⏩ [What in the actual f**k is that reasoning](http://9gag.com/gag/ap91G89)
- - 👉 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
+ - 💣 [All of them doing self-insert character, but who is the fail here, i wonder](http://9gag.com/gag/aPgx7nG)
+ - ⏩ [Trippy](http://9gag.com/gag/aNwLpZb)
+ - 👉 [During his inauguration speech, the new President of the Czech Republic recalled the injustice of World War II on Czechoslovakia and called for continued support for Ukraine until its victory](http://9gag.com/gag/a8qAGzZ)<!-- MEMES:END -->
 
 ---
 
