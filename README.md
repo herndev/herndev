@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Tom Clancy’s Rainbow Six Siege, WRC Generations, Dead by Daylight, and Cities: Skylines – Xbox One Edition](https://news.xbox.com/en-us/2023/03/09/free-play-days-tom-clancys-rainbow-six-siege-wrc-generations-dead-by-daylight-and-cities-skylines-xbox-one-edition/)
- - [Report: Suicide Squad Game Delayed Again After Negative Fan Reaction](https://kotaku.com/dc-suicide-squad-delay-kill-the-justice-league-batman-1850208924)
- - [Lord of the Rings: Gollum trailer shows the torment before the trilogy](https://www.polygon.com/23632613/lord-of-the-rings-gollum-video-game-trailer-story)<!-- GAME:END -->
+ - [Michael B. Jordan is working on a Creed anime, Rocky spinoffs](https://www.polygon.com/23632803/creed-3-anime-rocky-spinoff-drago-movie)
+ - [Discord says it&#39;s still not recording your voice chats or livestreams](https://www.pcgamer.com/discord-says-its-still-not-recording-your-voice-chats-or-livestreams)
+ - [J.J. Abrams Batman series has been saved by Amazon](https://www.polygon.com/23632724/batman-caped-crusader-animated-series-j-j-abrams-matt-reeves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
