@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a free iPhone 14, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Ring turned over cam footage of inside a user&#39;s home and business after a judge&#39;s warrant gave police access to investigate a neighbor, raising privacy concerns &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/230308/p35#a230308p35)
- - [Third Studio Display 16.4 firmware beta now available](https://appleinsider.com/articles/23/03/09/third-studio-display-164-firmware-beta-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram outage affecting users globally](https://appleinsider.com/articles/23/03/09/instagram-outage-affecting-users-globally?utm_medium=rss)
+ - [The US bans import of Peloton and iFit&#39;s video-streaming fitness devices after an ITC judge found they infringed on Dish Network&#39;s streaming technology patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230308/p36#a230308p36)
+ - [Instagram Down for Thousands Around the World     - CNET](https://www.cnet.com/news/social-media/instagram-down-for-thousands-around-the-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
