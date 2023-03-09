@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)
- - ⏩ [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
- - 👉 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)<!-- MEMES:END -->
+ - 💣 [This stressball stresses me out](http://9gag.com/gag/ap91mon)
+ - ⏩ [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
+ - 👉 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)<!-- MEMES:END -->
 
 ---
 
