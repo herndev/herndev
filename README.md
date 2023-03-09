@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it crossed 100M DAUs for Bing and the new Bing preview has millions of active users, of which roughly a third are new to the search engine &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230308/p38#a230308p38)
- - [Global VC funding fell to $18B in February 2023, dipping below $20B in a single month for the first time since February 2020; late stage fell the most, by 73% &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/230308/p37#a230308p37)
- - [Instagram outage affected users globally [u]](https://appleinsider.com/articles/23/03/09/instagram-outage-affecting-users-globally?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: How do you primarily use Spotify?](https://www.androidauthority.com/how-use-spotify-poll-3294648/)
+ - [Experts criticize Koko, a mental health nonprofit, for directing some at-risk users on Facebook, Tumblr, Discord, and other platforms to a chatbot for a study &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230309/p1#a230309p1)
+ - [Microsoft says it crossed 100M DAUs for Bing and the new Bing preview has millions of active users, of which roughly a third are new to the search engine &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230308/p38#a230308p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
