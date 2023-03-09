@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #628: Thursday, March 9](https://www.pcgamer.com/wordle-hint-answer-today-628-march-9)
- - [Call of Duty is getting Shredder](https://www.pcgamer.com/call-of-duty-is-getting-shredder)
- - [Bing&#39;s secret mode lets you talk to AI Keanu Reeves and other celebrities](https://www.pcgamer.com/bings-secret-mode-lets-you-talk-to-ai-keanu-reeves-and-other-celebrities)<!-- GAME:END -->
+ - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
+ - [Suck it up, Valve&#39;s going to make us wait years for Steam Deck 2](https://www.pcgamer.com/suck-it-up-valves-going-to-make-us-wait-years-for-steam-deck-2)
+ - [Wordle hint and answer #628: Thursday, March 9](https://www.pcgamer.com/wordle-hint-answer-today-628-march-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
