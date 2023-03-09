@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Advance Wars-like tactics game Wargroove is getting a sequel and yes, the armoured pups are back](https://www.pcgamer.com/advance-wars-like-tactics-game-wargroove-is-getting-a-sequel-and-yes-the-armoured-pups-are-back)
- - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
- - [Suck it up, Valve&#39;s going to make us wait years for Steam Deck 2](https://www.pcgamer.com/suck-it-up-valves-going-to-make-us-wait-years-for-steam-deck-2)<!-- GAME:END -->
+ - [The horror game Do You See Sparky? blends Phasmophobia with one creepy-looking doll](https://www.polygon.com/23631385/do-you-see-sparky-horror-video-game-announcement-trailer)
+ - [For the first time in World of Warcraft&#39;s history, Horde and Alliance players will be able to join the same guild](https://www.pcgamer.com/for-the-first-time-in-world-of-warcrafts-history-horde-and-alliance-players-will-be-able-to-join-the-same-guild)
+ - [Advance Wars-like tactics game Wargroove is getting a sequel and yes, the armoured pups are back](https://www.pcgamer.com/advance-wars-like-tactics-game-wargroove-is-getting-a-sequel-and-yes-the-armoured-pups-are-back)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
