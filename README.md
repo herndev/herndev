@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third Studio Display 16.4 firmware beta now available](https://appleinsider.com/articles/23/03/09/third-studio-display-164-firmware-beta-now-available?utm_medium=rss)
- - [The FBI is probing a data breach of DC Health Link servers impacting thousands, including US House members and staff; some data is already up for sale online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230308/p34#a230308p34)
- - [Best Noise-Canceling Headphones Under $100 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a free iPhone 14, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [Ring turned over cam footage of inside a user&#39;s home and business after a judge&#39;s warrant gave police access to investigate a neighbor, raising privacy concerns &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/230308/p35#a230308p35)
+ - [Third Studio Display 16.4 firmware beta now available](https://appleinsider.com/articles/23/03/09/third-studio-display-164-firmware-beta-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
