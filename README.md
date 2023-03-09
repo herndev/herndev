@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
- - ⏩ [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)
- - 👉 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
+ - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - ⏩ [What in the actual f**k is that reasoning](http://9gag.com/gag/ap91G89)
+ - 👉 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
 
 ---
 
