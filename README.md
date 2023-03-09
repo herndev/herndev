@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle reports Q3 revenue up 18% YoY to $12.39B, vs. $12.42B est., and cloud services and license support revenue up 17% YoY to $8.9B &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p29#a230309p29)
- - [New York AG files suit against KuCoin, alleging the crypto exchange offers tokens, including ETH, that meet the definition of a security, without registering &lpar;CoinDesk&rpar;](http://www.techmeme.com/230309/p28#a230309p28)
- - [Some VC firms are encouraging their portfolio companies to pull funds out of Silicon Valley Bank while others are advising startups to keep no more than $250K &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230309/p27#a230309p27)<!-- TECH:END -->
+ - [A demo for the Resident Evil 4 remake will be available Thursday](https://www.theverge.com/2023/3/9/23632349/resident-evil-4-remake-chainsaw-demo-capcom-spotlight)
+ - [The Xbox Series X is on sale at Verizon for $50 off](https://www.theverge.com/2023/3/9/23632906/microsoft-xbox-series-x-s-deal-verizon-sale)
+ - [Amazon’s plans for a Creed cinematic universe might lead to an anime series](https://www.theverge.com/2023/3/9/23632919/amazon-creed-cinematic-universe-michael-b-jordan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
