@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edifier R1280DB review: Versatile bookshelf speakers for a modern turntable](https://appleinsider.com/articles/23/03/09/edifier-r1280db-review-versatile-bookshelf-speakers-for-a-turntable?utm_medium=rss)
- - [Apple Confluence store in Lyon will reopen March 17](https://appleinsider.com/articles/23/03/09/apple-confluence-store-in-lyon-will-reopen-march-17?utm_medium=rss)
- - [A look at Worldcoin, which reorganized under parent company Tools for Humanity and lets users sign up via iris scans for a global ID and financial services &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230309/p10#a230309p10)<!-- TECH:END -->
+ - [The Good and Bad of ChatGPT in Schools](https://www.wired.com/story/gadget-lab-podcast-589/)
+ - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)
+ - [Apple wants you to wave at your devices to shut them all up](https://appleinsider.com/articles/23/03/09/apple-wants-you-to-wave-at-your-devices-to-shut-them-all-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
