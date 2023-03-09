@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - 💣 [Resist if you can](http://9gag.com/gag/a4on3AA)
  - ⏩ [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
  - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
 
