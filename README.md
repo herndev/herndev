@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play the Roguelike Board Game, Repel the Enemy and Defend the Rook on March 16th](https://news.xbox.com/en-us/2023/03/09/repel-the-enemy-and-defend-the-rook-on-march-16th/)
- - [Oscar nominees drew their characters winning, and it’s the absolute best](https://www.polygon.com/23632317/oscars-2023-best-animation-nominees-interviews)
- - [27 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)<!-- GAME:END -->
+ - [Free Play Days – Tom Clancy’s Rainbow Six Siege, WRC Generations, Dead by Daylight, and Cities: Skylines – Xbox One Edition](https://news.xbox.com/en-us/2023/03/09/free-play-days-tom-clancys-rainbow-six-siege-wrc-generations-dead-by-daylight-and-cities-skylines-xbox-one-edition/)
+ - [Report: Suicide Squad Game Delayed Again After Negative Fan Reaction](https://kotaku.com/dc-suicide-squad-delay-kill-the-justice-league-batman-1850208924)
+ - [Lord of the Rings: Gollum trailer shows the torment before the trilogy](https://www.polygon.com/23632613/lord-of-the-rings-gollum-video-game-trailer-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
