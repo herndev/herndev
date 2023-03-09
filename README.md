@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Woman&#39;s Day.](http://9gag.com/gag/aDY7x9K)
- - ⏩ [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
- - 👉 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
+ - 💣 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - ⏩ [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
+ - 👉 [Super Mario wears a hat because his creator, Shigeru Miyamoto, couldn&#39;t draw hair](http://9gag.com/gag/aOx2rPv)<!-- MEMES:END -->
 
 ---
 
