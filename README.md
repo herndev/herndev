@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
- - 👉 [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)<!-- MEMES:END -->
+ - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - ⏩ [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)
+ - 👉 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)<!-- MEMES:END -->
 
 ---
 
