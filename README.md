@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic launches self-publishing tools, calls out Valve again: &#39;Steam has created a real problem for the industry&#39;](https://www.pcgamer.com/epic-games-store-self-publishing)
- - [Epic gave away &#39;nearly 700 million&#39; free games last year, will keep it going this year](https://www.pcgamer.com/epic-games-store-2023-free-program)
- - [Nothing has changed since Party Down went off the air](https://www.polygon.com/23630985/party-down-season-3-review)<!-- GAME:END -->
+ - [Fortnite’s new season, MEGA, adds Attack on Titan and the coolest lizardmen](https://www.polygon.com/23632201/fortnite-mega-chapter-4-season-2-attack-on-titan-cyberpunk)
+ - [Epic isn&#39;t done with Epic Games Store exclusives, it&#39;s just focused on big ones](https://www.pcgamer.com/epic-isnt-done-with-epic-games-store-exclusives-its-just-focused-on-big-ones)
+ - [I built a PC for the first time in over ten years, and it was a rollercoaster of emotions](https://www.pcgamer.com/i-built-a-pc-for-the-first-time-in-over-ten-years-and-it-was-a-rollercoaster-of-emotions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
