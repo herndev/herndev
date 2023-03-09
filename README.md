@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram outage affecting users globally](https://appleinsider.com/articles/23/03/09/instagram-outage-affecting-users-globally?utm_medium=rss)
- - [The US bans import of Peloton and iFit&#39;s video-streaming fitness devices after an ITC judge found they infringed on Dish Network&#39;s streaming technology patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230308/p36#a230308p36)
- - [Instagram Down for Thousands Around the World     - CNET](https://www.cnet.com/news/social-media/instagram-down-for-thousands-around-the-world/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says it crossed 100M DAUs for Bing and the new Bing preview has millions of active users, of which roughly a third are new to the search engine &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230308/p38#a230308p38)
+ - [Global VC funding fell to $18B in February 2023, dipping below $20B in a single month for the first time since February 2020; late stage fell the most, by 73% &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/230308/p37#a230308p37)
+ - [Instagram outage affected users globally [u]](https://appleinsider.com/articles/23/03/09/instagram-outage-affecting-users-globally?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
