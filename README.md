@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
- - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
- - 👉 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
+ - 💣 [What a beautiful day outside](http://9gag.com/gag/amAW2x2)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
+ - 👉 [Ferrari spent millions developing a Mazda MX-30](http://9gag.com/gag/armWVeK)<!-- MEMES:END -->
 
 ---
 
