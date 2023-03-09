@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This stressball stresses me out](http://9gag.com/gag/ap91mon)
- - ⏩ [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
- - 👉 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)<!-- MEMES:END -->
+ - 💣 [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
+ - ⏩ [Happy Woman&#39;s Day.](http://9gag.com/gag/aDY7x9K)
+ - 👉 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
 
 ---
 
