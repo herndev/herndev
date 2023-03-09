@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
- - ⏩ [Happy Woman&#39;s Day.](http://9gag.com/gag/aDY7x9K)
+ - 💣 [Happy Woman&#39;s Day.](http://9gag.com/gag/aDY7x9K)
+ - ⏩ [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
  - 👉 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
 
 ---
