@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yellowjackets season 2 trailer shows us cult leader Lottie](https://www.polygon.com/2023/3/9/23632271/yellowjackets-season-2-trailer-florence-welch-no-doubt-adult-lottie)
- - [Studio makes its beloved destructible FPS free in bid to keep it alive](https://www.pcgamer.com/studio-makes-its-beloved-destructible-fps-free-in-bid-to-keep-it-alive)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)<!-- GAME:END -->
+ - [Tiny Troopers: Global Ops Deploys Today on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2023/03/09/tiny-troopers-global-ops-deploys-today-on-xbox-one/)
+ - [John Madden has never been playable in a Madden NFL game, until now](https://www.polygon.com/23632451/john-madden-nfl-23-ultimate-team-playable-character)
+ - [Try this story-driven fantasy card-battler for free before it launches in April](https://www.pcgamer.com/try-this-story-driven-fantasy-card-battler-for-free-before-it-launches-in-april)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
