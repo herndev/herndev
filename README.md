@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - ⏩ [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
- - 👉 [Super Mario wears a hat because his creator, Shigeru Miyamoto, couldn&#39;t draw hair](http://9gag.com/gag/aOx2rPv)<!-- MEMES:END -->
+ - 💣 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
+ - ⏩ [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)
+ - 👉 [Because it\u2019s too f*kin expensive](http://9gag.com/gag/a2KMZpe)<!-- MEMES:END -->
 
 ---
 
