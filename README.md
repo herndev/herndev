@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
- - ⏩ [Because it\u2019s too f*kin expensive](http://9gag.com/gag/a2KMZpe)
- - 👉 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
+ - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
+ - 👉 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)<!-- MEMES:END -->
 
 ---
 
