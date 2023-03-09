@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM will give the majority of its US team cash if they quit in the next two weeks](https://www.theverge.com/2023/3/9/23632493/gm-buyouts-ev-transition-layoffs-cost-cutting)
- - [Over 30 of the best Chromebook deals available right now](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [This M2 Max MacBook Pro with 64GB RAM is $200 off &amp; in stock](https://appleinsider.com/articles/23/03/09/this-m2-max-macbook-pro-with-64gb-ram-is-200-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [Oracle reports Q3 revenue up 18% YoY to $12.39B, vs. $12.42B est., and cloud services and license support revenue up 17% YoY to $8.9B &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p29#a230309p29)
+ - [New York AG files suit against KuCoin, alleging the crypto exchange offers tokens, including ETH, that meet the definition of a security, without registering &lpar;CoinDesk&rpar;](http://www.techmeme.com/230309/p28#a230309p28)
+ - [Some VC firms are encouraging their portfolio companies to pull funds out of Silicon Valley Bank while others are advising startups to keep no more than $250K &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230309/p27#a230309p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
