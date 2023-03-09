@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new season, MEGA, adds Attack on Titan and the coolest lizardmen](https://www.polygon.com/23632201/fortnite-mega-chapter-4-season-2-attack-on-titan-cyberpunk)
- - [Epic isn&#39;t done with Epic Games Store exclusives, it&#39;s just focused on big ones](https://www.pcgamer.com/epic-isnt-done-with-epic-games-store-exclusives-its-just-focused-on-big-ones)
- - [I built a PC for the first time in over ten years, and it was a rollercoaster of emotions](https://www.pcgamer.com/i-built-a-pc-for-the-first-time-in-over-ten-years-and-it-was-a-rollercoaster-of-emotions)<!-- GAME:END -->
+ - [Yellowjackets season 2 trailer shows us cult leader Lottie](https://www.polygon.com/2023/3/9/23632271/yellowjackets-season-2-trailer-florence-welch-no-doubt-adult-lottie)
+ - [Studio makes its beloved destructible FPS free in bid to keep it alive](https://www.pcgamer.com/studio-makes-its-beloved-destructible-fps-free-in-bid-to-keep-it-alive)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
