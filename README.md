@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to build your own RAID for macOS on a budget](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-raid-for-macos-on-a-budget?utm_medium=rss)
- - [The Good and Bad of ChatGPT in Schools](https://www.wired.com/story/gadget-lab-podcast-589/)
- - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)<!-- TECH:END -->
+ - [Streaming accounted for 84% of the music industry&#39;s revenue in 2022](https://appleinsider.com/articles/23/03/09/streaming-accounted-for-84-of-the-music-industrys-revenue-in-2022?utm_medium=rss)
+ - [Roku announces OS 12, adding local news channels with AI-powered recommendations, more live sports, an updated mobile app with a new home screen, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/230309/p14#a230309p14)
+ - [Epic will now let developers self-publish to the Epic Games Store](https://www.theverge.com/2023/3/9/23630864/epic-games-store-self-publish-tools-ratings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
