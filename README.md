@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Looks Like Mario Kart 8 Is Getting Five New Characters](https://kotaku.com/mario-kart-five-new-characters-drivers-switch-nintendo-1850205794)
  - [Inkulinati Is A Beautiful Tactics Game](https://kotaku.com/inkulinati-pc-xbox-medieval-art-manuscript-impressions-1850205499)
- - [New Genshin Impact character is so bad that players around the world are begging for fixes](https://www.pcgamer.com/new-genshin-impact-character-is-so-bad-that-players-around-the-world-are-begging-for-fixes)
- - [Police Raid Studio Accused Of Stealing &#39;Assets &amp; Personnel&#39; From Rival](https://kotaku.com/dark-and-darker-mmo-steam-nexon-police-raid-crime-leak-1850205223)<!-- GAME:END -->
+ - [New Genshin Impact character is so bad that players around the world are begging for fixes](https://www.pcgamer.com/new-genshin-impact-character-is-so-bad-that-players-around-the-world-are-begging-for-fixes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
