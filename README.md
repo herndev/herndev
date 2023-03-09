@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Michael B. Jordan is working on a Creed anime, Rocky spinoffs](https://www.polygon.com/23632803/creed-3-anime-rocky-spinoff-drago-movie)
- - [Discord says it&#39;s still not recording your voice chats or livestreams](https://www.pcgamer.com/discord-says-its-still-not-recording-your-voice-chats-or-livestreams)
- - [J.J. Abrams Batman series has been saved by Amazon](https://www.polygon.com/23632724/batman-caped-crusader-animated-series-j-j-abrams-matt-reeves)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League is reportedly delayed](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-reportedly-delayed)
+ - [The Last of Us Part 1’s PC requirements might leave some gamers feeling Left Behind](https://www.polygon.com/deals/23632783/last-us-part-one-pc-features-specs-system-requirements)
+ - [Capcom showcases RE4 Remake, Monster Hunter, and Mega Man in a new livestream](https://www.polygon.com/23632861/when-is-capcom-showcase-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
