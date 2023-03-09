@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #628: Thursday, March 9](https://www.pcgamer.com/wordle-hint-answer-today-628-march-9)
  - [Call of Duty is getting Shredder](https://www.pcgamer.com/call-of-duty-is-getting-shredder)
- - [Bing&#39;s secret mode lets you talk to AI Keanu Reeves and other celebrities](https://www.pcgamer.com/bings-secret-mode-lets-you-talk-to-ai-keanu-reeves-and-other-celebrities)
- - [Looks Like Mario Kart 8 Is Getting Five New Characters](https://kotaku.com/mario-kart-five-new-characters-drivers-switch-nintendo-1850205794)<!-- GAME:END -->
+ - [Bing&#39;s secret mode lets you talk to AI Keanu Reeves and other celebrities](https://www.pcgamer.com/bings-secret-mode-lets-you-talk-to-ai-keanu-reeves-and-other-celebrities)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
