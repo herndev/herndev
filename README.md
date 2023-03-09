@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI acknowledges for the first time it bought US location data, director Christopher Wray says for a national security pilot project that&#39;s no longer active &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230308/p32#a230308p32)
- - [UK police shocked to discover taser disguised as iPhone](https://appleinsider.com/articles/23/03/08/uk-police-shocked-to-discover-taser-disguised-as-iphone?utm_medium=rss)
- - [Sources: Anthropic, which focuses on researching AI safety, raised $300M led by Spark Capital at a $4.1B pre-money valuation, after Google invested $400M &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230308/p31#a230308p31)<!-- TECH:END -->
+ - [Apple tops Japan&#39;s smartphone shipment charts again in 2022](https://appleinsider.com/articles/23/03/09/apple-tops-japans-smartphone-shipment-charts-again-in-2022?utm_medium=rss)
+ - [Utah-based Consensus, which helps companies make personalized customer demos, raised $110M from Sumeru Equity Partners, bringing its total funding to $139M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230308/p33#a230308p33)
+ - [The best Roku deals: Save $200 on a Roku smart TV](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
