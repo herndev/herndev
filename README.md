@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [All of them doing self-insert character, but who is the fail here, i wonder](http://9gag.com/gag/aPgx7nG)
- - ⏩ [Trippy](http://9gag.com/gag/aNwLpZb)
- - 👉 [During his inauguration speech, the new President of the Czech Republic recalled the injustice of World War II on Czechoslovakia and called for continued support for Ukraine until its victory](http://9gag.com/gag/a8qAGzZ)<!-- MEMES:END -->
+ - ⏩ [During his inauguration speech, the new President of the Czech Republic recalled the injustice of World War II on Czechoslovakia and called for continued support for Ukraine until its victory](http://9gag.com/gag/a8qAGzZ)
+ - 👉 [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)<!-- MEMES:END -->
 
 ---
 
