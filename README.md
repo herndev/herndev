@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Specialized’s quest to build the friendliest, most capable e-bike ever made](https://www.theverge.com/23631257/specialized-globe-haul-st-specs-pics-design-ebike-interview)
- - [The best Mario Day deals on Nintendo Switch games and accessories](https://www.theverge.com/23627426/mario-day-deals-mar10-nintendo-switch-games-microsd-cards-cases-accessories-sale)
- - [An investigation details how a group of conservative Colorado Catholics spent millions to acquire mobile app tracking data to find priests using gay dating apps &lpar;Washington Post&rpar;](http://www.techmeme.com/230309/p19#a230309p19)<!-- TECH:END -->
+ - [Reddit will shutter Reddit Talk, its Clubhouse-style live audio product, on March 21, two years after its launch, and says adding audio needs &quot;significant work&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230309/p22#a230309p22)
+ - [&#39;The Last of Us&#39; Is a Parable for Pandemic Parents](https://www.wired.com/story/last-of-uscovid-19-pandemic-parenting/)
+ - [Android 14 takes idea from One UI, but makes it better](https://www.androidauthority.com/android-14-one-ui-3294822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
