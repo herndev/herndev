@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Railsr, the UK-based embedded finance tech startup formerly called Railsbank, goes into bankruptcy under new consortium owner; it was valued at ~$1B in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230309/p23#a230309p23)
- - [You may never notice, but Peloton and iFit equipment just got hit with an import ban](https://www.theverge.com/2023/3/9/23632158/peloton-ifit-dish-itc-import-ban-streaming-fitness)
- - [Galaxy S23 Ultra S Pen randomly disconnects for some &lpar;Update: Fix released&rpar;](https://www.androidauthority.com/galaxy-s23-ultra-s-pen-3292582/)<!-- TECH:END -->
+ - [8 shows like The Last of Us to check out while we wait for season 2](https://www.androidauthority.com/shows-like-the-last-of-us-hbo-max-3293779/)
+ - [Silicon Valley Bank has launched a $2.25B share sale after a ~$1.8B loss on its ~$21B portfolio of Treasuries and mortgage-backed securities; SIVB is down 50%+ &lpar;Financial Times&rpar;](http://www.techmeme.com/230309/p25#a230309p25)
+ - [Keychron M3 Wireless Mouse review: Customization at a budget-friendly price](https://appleinsider.com/articles/23/03/09/keychron-m3-wireless-mouse-review-customization-at-a-budget-friendly-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
