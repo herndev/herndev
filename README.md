@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
- - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
- - 👉 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)<!-- MEMES:END -->
+ - 💣 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
+ - 👉 [Comedy Central fears them more than Xi Jinping.](http://9gag.com/gag/aA0QxDZ)<!-- MEMES:END -->
 
 ---
 
