@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: How do you primarily use Spotify?](https://www.androidauthority.com/how-use-spotify-poll-3294648/)
- - [Experts criticize Koko, a mental health nonprofit, for directing some at-risk users on Facebook, Tumblr, Discord, and other platforms to a chatbot for a study &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230309/p1#a230309p1)
- - [Microsoft says it crossed 100M DAUs for Bing and the new Bing preview has millions of active users, of which roughly a third are new to the search engine &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230308/p38#a230308p38)<!-- TECH:END -->
+ - [Samsung rolls out March security update for Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
+ - [Radisys Corp., a unit of Jio Platforms, will buy US-based communications equipment maker Mimosa Networks for $60M, with the deal expected to close in Q3 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230309/p4#a230309p4)
+ - [The White House&#39;s proposed budget will include a provision to close tax loss harvesting on crypto transactions, with the change expected to raise up to $24B &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230309/p3#a230309p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
