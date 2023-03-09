@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)
- - ⏩ [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
- - 👉 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
+ - ⏩ [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
+ - 👉 [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)<!-- MEMES:END -->
 
 ---
 
