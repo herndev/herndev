@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to build your own RAID for macOS on a budget](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-raid-for-macos-on-a-budget?utm_medium=rss)
  - [The Good and Bad of ChatGPT in Schools](https://www.wired.com/story/gadget-lab-podcast-589/)
- - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)
- - [Apple wants you to wave at your devices to shut them all up](https://appleinsider.com/articles/23/03/09/apple-wants-you-to-wave-at-your-devices-to-shut-them-all-up?utm_medium=rss)<!-- TECH:END -->
+ - [An Apple manufacturer&#39;s VP has quit after talking about China exodus](https://appleinsider.com/articles/23/03/09/goertek-vp-resigns-after-saying-suppliers-are-leaving-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
