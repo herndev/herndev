@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Troopers: Global Ops Deploys Today on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2023/03/09/tiny-troopers-global-ops-deploys-today-on-xbox-one/)
- - [John Madden has never been playable in a Madden NFL game, until now](https://www.polygon.com/23632451/john-madden-nfl-23-ultimate-team-playable-character)
- - [Try this story-driven fantasy card-battler for free before it launches in April](https://www.pcgamer.com/try-this-story-driven-fantasy-card-battler-for-free-before-it-launches-in-april)<!-- GAME:END -->
+ - [Play the Roguelike Board Game, Repel the Enemy and Defend the Rook on March 16th](https://news.xbox.com/en-us/2023/03/09/repel-the-enemy-and-defend-the-rook-on-march-16th/)
+ - [Oscar nominees drew their characters winning, and it’s the absolute best](https://www.polygon.com/23632317/oscars-2023-best-animation-nominees-interviews)
+ - [27 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
