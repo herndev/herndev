@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened again in Russia. The mayor asked the citizens to remain calm.](http://9gag.com/gag/aDY7oKB)
- - ⏩ [Order food is dangerous in New York City](http://9gag.com/gag/aEqMRKn)
- - 👉 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
+ - 💣 [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
+ - ⏩ [Guess I&#39;m the bad guy now](http://9gag.com/gag/aZDnBoX)
+ - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
 
 ---
 
