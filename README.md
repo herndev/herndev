@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro emoted](http://9gag.com/gag/aoKWprA)
- - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
- - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
+ - 💣 [Imagine people are annoyed with you because you are passionate](http://9gag.com/gag/axoWgRW)
+ - ⏩ [Because it\u2019s too f*kin expensive](http://9gag.com/gag/a2KMZpe)
+ - 👉 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
 
 ---
 
