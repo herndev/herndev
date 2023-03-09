@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will shutter Reddit Talk, its Clubhouse-style live audio product, on March 21, two years after its launch, and says adding audio needs &quot;significant work&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230309/p22#a230309p22)
- - [&#39;The Last of Us&#39; Is a Parable for Pandemic Parents](https://www.wired.com/story/last-of-uscovid-19-pandemic-parenting/)
- - [Android 14 takes idea from One UI, but makes it better](https://www.androidauthority.com/android-14-one-ui-3294822/)<!-- TECH:END -->
+ - [Railsr, the UK-based embedded finance tech startup formerly called Railsbank, goes into bankruptcy under new consortium owner; it was valued at ~$1B in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230309/p23#a230309p23)
+ - [You may never notice, but Peloton and iFit equipment just got hit with an import ban](https://www.theverge.com/2023/3/9/23632158/peloton-ifit-dish-itc-import-ban-streaming-fitness)
+ - [Galaxy S23 Ultra S Pen randomly disconnects for some &lpar;Update: Fix released&rpar;](https://www.androidauthority.com/galaxy-s23-ultra-s-pen-3292582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
