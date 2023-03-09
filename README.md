@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
- - ⏩ [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
- - 👉 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)<!-- MEMES:END -->
+ - 💣 [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - ⏩ [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
+ - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
 
 ---
 
