@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teacher helping students with choreography.](http://9gag.com/gag/az25q0m)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
- - 👉 [Comedy Central fears them more than Xi Jinping.](http://9gag.com/gag/aA0QxDZ)<!-- MEMES:END -->
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
+ - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
+ - 👉 [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)<!-- MEMES:END -->
 
 ---
 
