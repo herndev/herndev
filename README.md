@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)
- - [SmartMi Rainforest Humidifier review: The Cadillac of Apple Home humidifiers](https://appleinsider.com/articles/23/03/09/smartmi-rainforest-humidifier-review-the-cadillac-of-apple-home-humidifiers?utm_medium=rss)
- - [Daily Deals: iPad Pro $599, Apple Pencil 2 $89, Bose TV Speaker $179 &amp; more](https://appleinsider.com/articles/23/03/09/daily-deals-ipad-pro-599-apple-pencil-2-89-bose-tv-speaker-179-more?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Specialized’s quest to build the friendliest, most capable e-bike ever made](https://www.theverge.com/23631257/specialized-globe-haul-st-specs-pics-design-ebike-interview)
+ - [The best Mario Day deals on Nintendo Switch games and accessories](https://www.theverge.com/23627426/mario-day-deals-mar10-nintendo-switch-games-microsd-cards-cases-accessories-sale)
+ - [An investigation details how a group of conservative Colorado Catholics spent millions to acquire mobile app tracking data to find priests using gay dating apps &lpar;Washington Post&rpar;](http://www.techmeme.com/230309/p19#a230309p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
