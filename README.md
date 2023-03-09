@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sylvester Stallone’s radical re-cut of Rocky IV shows his deep passion for the franchise](https://www.polygon.com/reviews/22777136/rocky-iv-directors-cut-review-sylvester-stallone-rocky-vs-drago)
- - [27 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)
- - [The Best Advance Wars Clone Is Getting A Sequel](https://kotaku.com/wargroove-2-advance-wars-strategy-tactics-rpg-switch-1850205350)<!-- GAME:END -->
+ - [Inkulinati Is A Beautiful Tactics Game](https://kotaku.com/inkulinati-pc-xbox-medieval-art-manuscript-impressions-1850205499)
+ - [New Genshin Impact character is so bad that players around the world are begging for fixes](https://www.pcgamer.com/new-genshin-impact-character-is-so-bad-that-players-around-the-world-are-begging-for-fixes)
+ - [Police Raid Studio Accused Of Stealing &#39;Assets &amp; Personnel&#39; From Rival](https://kotaku.com/dark-and-darker-mmo-steam-nexon-police-raid-crime-leak-1850205223)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
