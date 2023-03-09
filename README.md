@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League is reportedly delayed](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-reportedly-delayed)
- - [The Last of Us Part 1’s PC requirements might leave some gamers feeling Left Behind](https://www.polygon.com/deals/23632783/last-us-part-one-pc-features-specs-system-requirements)
- - [Capcom showcases RE4 Remake, Monster Hunter, and Mega Man in a new livestream](https://www.polygon.com/23632861/when-is-capcom-showcase-livestream)<!-- GAME:END -->
+ - [The Xbox Series X is $50 off at Verizon](https://www.polygon.com/deals/2023/3/9/23632971/xbox-series-x-discount-deal-verizon)
+ - [Final Super Mario Bros. Movie Trailer Debuts At Nintendo Direct](https://kotaku.com/super-mario-bros-movie-final-trailer-jack-black-pratt-1850090442)
+ - [Where to find the Hidden Village keys in Wo Long](https://www.polygon.com/guides/23632848/wo-long-hidden-village-key-backyard-key-taoist-house-keys-location-where)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
