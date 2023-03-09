@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s five new dragons could hint at season 2’s storyline](https://www.polygon.com/23631284/house-dragon-season-2-plot-game-of-thrones-teaser-winds-of-winter)
- - [New Lego Jurassic Park Set Contains Giant Pile Of Poop](https://kotaku.com/lego-jurassic-park-poop-pile-30th-anniversary-new-sets-1850205208)
- - [Nintendo Switch Clock Game Has Now Released 20 Times Since 2021](https://kotaku.com/nintendo-switch-eshop-aaa-digital-clock-release-1850205218)<!-- GAME:END -->
+ - [Sylvester Stallone’s radical re-cut of Rocky IV shows his deep passion for the franchise](https://www.polygon.com/reviews/22777136/rocky-iv-directors-cut-review-sylvester-stallone-rocky-vs-drago)
+ - [27 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)
+ - [The Best Advance Wars Clone Is Getting A Sequel](https://kotaku.com/wargroove-2-advance-wars-strategy-tactics-rpg-switch-1850205350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
