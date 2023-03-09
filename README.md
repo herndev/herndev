@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 shows like The Last of Us to check out while we wait for season 2](https://www.androidauthority.com/shows-like-the-last-of-us-hbo-max-3293779/)
- - [Silicon Valley Bank has launched a $2.25B share sale after a ~$1.8B loss on its ~$21B portfolio of Treasuries and mortgage-backed securities; SIVB is down 50%+ &lpar;Financial Times&rpar;](http://www.techmeme.com/230309/p25#a230309p25)
- - [Keychron M3 Wireless Mouse review: Customization at a budget-friendly price](https://appleinsider.com/articles/23/03/09/keychron-m3-wireless-mouse-review-customization-at-a-budget-friendly-price?utm_medium=rss)<!-- TECH:END -->
+ - [GM will give the majority of its US team cash if they quit in the next two weeks](https://www.theverge.com/2023/3/9/23632493/gm-buyouts-ev-transition-layoffs-cost-cutting)
+ - [Over 30 of the best Chromebook deals available right now](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [This M2 Max MacBook Pro with 64GB RAM is $200 off &amp; in stock](https://appleinsider.com/articles/23/03/09/this-m2-max-macbook-pro-with-64gb-ram-is-200-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
