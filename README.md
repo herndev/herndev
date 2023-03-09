@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI acknowledges for the first time it bought US location data, director Christopher Wray says for a national security pilot project that&#39;s no longer active &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230308/p32#a230308p32)
  - [UK police shocked to discover taser disguised as iPhone](https://appleinsider.com/articles/23/03/08/uk-police-shocked-to-discover-taser-disguised-as-iphone?utm_medium=rss)
- - [Sources: Anthropic, which focuses on AI safety, raised $300M led by Spark Capital at a $4.1B pre-money valuation, following a $400M investment by Google &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230308/p31#a230308p31)
- - [Android 14 is hiding an emoji wallpaper maker for the Pixel](https://www.androidauthority.com/android-14-wallpaper-maker-3294502/)<!-- TECH:END -->
+ - [Sources: Anthropic, which focuses on researching AI safety, raised $300M led by Spark Capital at a $4.1B pre-money valuation, after Google invested $400M &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230308/p31#a230308p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
