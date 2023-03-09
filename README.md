@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Resist if you can](http://9gag.com/gag/a4on3AA)
- - ⏩ [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
+ - 💣 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
+ - ⏩ [Hackfresse](http://9gag.com/gag/amAWPK6)
  - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
 
 ---
