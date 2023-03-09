@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
- - ⏩ [Guess I&#39;m the bad guy now](http://9gag.com/gag/aZDnBoX)
- - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 💣 [Bro emoted](http://9gag.com/gag/aoKWprA)
+ - ⏩ [Thieves stole 6 Dodge hellcats in under 45 seconds from Kentucky dealership](http://9gag.com/gag/a7q83xA)
+ - 👉 [A teacher got stabbed by her student, she later died of her wounds. This is the ultimate gesture that her husband and her friends desired to gave to her.](http://9gag.com/gag/aoKWpWm)<!-- MEMES:END -->
 
 ---
 
