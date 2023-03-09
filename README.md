@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cWow look at this boss car\u2026 wait\u2026\u201d](http://9gag.com/gag/aWGp682)
- - ⏩ [Another pedo caught red-handed yet again](http://9gag.com/gag/anzOyLE)
- - 👉 [While dad was asleep](http://9gag.com/gag/a6qDbEq)<!-- MEMES:END -->
+ - 💣 [Security doesn&#39;t recognize singer, he&#39;s thanks her.](http://9gag.com/gag/aeQ4rDq)
+ - ⏩ [They wont make&#39;em like this anymore sadly](http://9gag.com/gag/axoWVxK)
+ - 👉 [This cool workout video game machine](http://9gag.com/gag/a8qAoAQ)<!-- MEMES:END -->
 
 ---
 
