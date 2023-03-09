@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty is getting Shredder](https://www.pcgamer.com/call-of-duty-is-getting-shredder)
  - [Bing&#39;s secret mode lets you talk to AI Keanu Reeves and other celebrities](https://www.pcgamer.com/bings-secret-mode-lets-you-talk-to-ai-keanu-reeves-and-other-celebrities)
- - [Looks Like Mario Kart 8 Is Getting Five New Characters](https://kotaku.com/mario-kart-five-new-characters-drivers-switch-nintendo-1850205794)
- - [Inkulinati Is A Beautiful Tactics Game](https://kotaku.com/inkulinati-pc-xbox-medieval-art-manuscript-impressions-1850205499)<!-- GAME:END -->
+ - [Looks Like Mario Kart 8 Is Getting Five New Characters](https://kotaku.com/mario-kart-five-new-characters-drivers-switch-nintendo-1850205794)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
