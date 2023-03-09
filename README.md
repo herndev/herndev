@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming accounted for 84% of the music industry&#39;s revenue in 2022](https://appleinsider.com/articles/23/03/09/streaming-accounted-for-84-of-the-music-industrys-revenue-in-2022?utm_medium=rss)
- - [Roku announces OS 12, adding local news channels with AI-powered recommendations, more live sports, an updated mobile app with a new home screen, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/230309/p14#a230309p14)
- - [Epic will now let developers self-publish to the Epic Games Store](https://www.theverge.com/2023/3/9/23630864/epic-games-store-self-publish-tools-ratings)<!-- TECH:END -->
+ - [Apple launches Apple Music Classical app](https://appleinsider.com/articles/23/03/09/apple-launches-apple-music-classical-app?utm_medium=rss)
+ - [SmartMi Rainforest Humidifier review: The Cadillac of Apple Home humidifiers](https://appleinsider.com/articles/23/03/09/smartmi-rainforest-humidifier-review-the-cadillac-of-apple-home-humidifiers?utm_medium=rss)
+ - [Daily Deals: iPad Pro $599, Apple Pencil 2 $89, Bose TV Speaker $179 &amp; more](https://appleinsider.com/articles/23/03/09/daily-deals-ipad-pro-599-apple-pencil-2-89-bose-tv-speaker-179-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
