@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Advance Wars-like tactics game Wargroove is getting a sequel and yes, the armoured pups are back](https://www.pcgamer.com/advance-wars-like-tactics-game-wargroove-is-getting-a-sequel-and-yes-the-armoured-pups-are-back)
  - [When does Fortnite Chapter 4 Season 2 launch?](https://www.polygon.com/fortnite-guide/23627801/chapter-4-season-2-update-release-date-time)
- - [Suck it up, Valve&#39;s going to make us wait years for Steam Deck 2](https://www.pcgamer.com/suck-it-up-valves-going-to-make-us-wait-years-for-steam-deck-2)
- - [Wordle hint and answer #628: Thursday, March 9](https://www.pcgamer.com/wordle-hint-answer-today-628-march-9)<!-- GAME:END -->
+ - [Suck it up, Valve&#39;s going to make us wait years for Steam Deck 2](https://www.pcgamer.com/suck-it-up-valves-going-to-make-us-wait-years-for-steam-deck-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
