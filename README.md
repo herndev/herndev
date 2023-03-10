@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things Actor Says She&#39;s Streaming On Twitch More Due To Industry Sexual Harassment](https://kotaku.com/stranger-things-twitch-streaming-sexual-harassment-1850213893)
- - [New Resident Evil Movie Explains Why Jill Valentine Hasn&#39;t Aged](https://kotaku.com/resident-evil-jill-valentine-death-island-movie-capcom-1850213858)
- - [This OnlyFans Creator Has Devs Begging Her To Make A Horror Game](https://kotaku.com/onlyfans-pornhub-horror-game-tiktok-molly-moon-airdorf-1850213718)<!-- GAME:END -->
+ - [I Won&#39;t Be Silenced: Colin Farrell&#39;s New Penguin Look Gives Sexy Italian Man](https://kotaku.com/colin-farrell-penguin-show-hbox-max-set-pics-1850213829)
+ - [I Played The Next Promising Soulslike So You Don’t Have To](https://kotaku.com/clash-artifacts-chaos-review-buggy-soulslike-zeno-ace-1850213994)
+ - [I thought I was a Resident Evil pro until I tried the max-difficulty hell mode hidden in RE4&#39;s demo](https://www.pcgamer.com/i-thought-i-was-a-resident-evil-pro-until-i-tried-the-max-difficulty-hell-mode-hidden-in-re4s-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
