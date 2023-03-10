@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Natural antidepressant](http://9gag.com/gag/anzOgBn)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
- - 👉 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)<!-- MEMES:END -->
+ - 💣 [We live in a society](http://9gag.com/gag/avQWOBE)
+ - ⏩ [Guy robs AutoZone in Detroit. Store employees say this isn&#39;t the first time he did this. He&#39;s a repeat offender who has done this several times already.](http://9gag.com/gag/anzOg2z)
+ - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 ---
 
