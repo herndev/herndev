@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We live in a society](http://9gag.com/gag/avQWOBE)
- - ⏩ [Guy robs AutoZone in Detroit. Store employees say this isn&#39;t the first time he did this. He&#39;s a repeat offender who has done this several times already.](http://9gag.com/gag/anzOg2z)
+ - 💣 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
+ - ⏩ [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
  - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 ---
