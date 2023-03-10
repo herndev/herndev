@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Knives Out: Talking Resident Evil 4’s Updated Combat with the Game’s Producer](https://news.xbox.com/en-us/2023/03/10/talking-resident-evil-4-updated-combat/)
- - [Square Enix says Forspoken reception was &#39;challenging&#39;, sales &#39;lacklustre&#39;](https://www.pcgamer.com/square-enix-says-forspoken-reception-was-challenging-sales-lacklustre)
- - [The new game from Tripwire Interactive is having an open beta this weekend](https://www.pcgamer.com/the-new-game-from-tripwire-interactive-is-having-an-open-beta-this-weekend)<!-- GAME:END -->
+ - [The Gamer’s Guide to the New AI-Powered Bing](https://news.xbox.com/en-us/2023/03/10/the-gamers-guide-to-the-new-ai-powered-bing/)
+ - [How to knock back players with the Kinetic Blade in Fortnite](https://www.polygon.com/fortnite-guide/23633976/kinetic-blade-location-knock-back-master-the-blade)
+ - [Destiny 2 error codes and what they mean](https://www.pcgamer.com/destiny-2-error-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
