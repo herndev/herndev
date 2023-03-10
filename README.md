@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Discord Introducing &#39;AI&#39; Stuff Nobody Asked For, Or Needs](https://kotaku.com/discord-ai-machine-learning-support-chat-art-privacy-1850210638)
  - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)
- - [The same devs who ported A Link to the Past to PC are reverse-engineering another SNES classic](https://www.pcgamer.com/the-same-devs-who-ported-a-link-to-the-past-to-pc-are-reverse-engineering-another-snes-classic)
- - [Here&#39;s the thing: Battlefield 2042 is really good now](https://www.pcgamer.com/heres-the-thing-battlefield-2042-is-really-good-now)<!-- GAME:END -->
+ - [The same devs who ported A Link to the Past to PC are reverse-engineering another SNES classic](https://www.pcgamer.com/the-same-devs-who-ported-a-link-to-the-past-to-pc-are-reverse-engineering-another-snes-classic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
