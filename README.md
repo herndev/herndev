@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
- - ⏩ [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
- - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 💣 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - ⏩ [Lmao](http://9gag.com/gag/aYVGoX0)
+ - 👉 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)<!-- MEMES:END -->
 
 ---
 
