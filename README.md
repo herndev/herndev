@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We live in a society](http://9gag.com/gag/avQWOBE)
- - ⏩ [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
- - 👉 [Dutch Milkmaid](http://9gag.com/gag/aMEdEwX)<!-- MEMES:END -->
+ - 💣 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
+ - ⏩ [Yeah.](http://9gag.com/gag/aGELzO0)
+ - 👉 [Posting Mainly to save but might be useful for some](http://9gag.com/gag/a1P7r3v)<!-- MEMES:END -->
 
 ---
 
