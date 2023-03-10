@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
- - ⏩ [Lmao](http://9gag.com/gag/aYVGoX0)
- - 👉 [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)<!-- MEMES:END -->
+ - 💣 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
+ - ⏩ [Is this what happiness looks like?](http://9gag.com/gag/a3ZGwje)
+ - 👉 [That&#39;s cooking oil!](http://9gag.com/gag/anzOQmz)<!-- MEMES:END -->
 
 ---
 
