@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Gamer’s Guide to the New AI-Powered Bing](https://news.xbox.com/en-us/2023/03/10/the-gamers-guide-to-the-new-ai-powered-bing/)
- - [How to knock back players with the Kinetic Blade in Fortnite](https://www.polygon.com/fortnite-guide/23633976/kinetic-blade-location-knock-back-master-the-blade)
- - [Destiny 2 error codes and what they mean](https://www.pcgamer.com/destiny-2-error-codes)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie’s final trailer is full of great little details](https://www.polygon.com/23634018/super-mario-bros-movie-trailer-easter-eggs-breakdown-references)
+ - [Pedro Pascal’s next live-action game adaptation is weird as hell](https://www.polygon.com/23634094/pedro-pascal-video-game-adaptation-merge-mansion-ad)
+ - [Where to find a rogue bike in Fortnite](https://www.polygon.com/fortnite-guide/23634022/where-to-find-rogue-bike-locations-chapter-4-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
