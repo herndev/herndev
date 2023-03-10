@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A demo for the Resident Evil 4 remake will be available Thursday](https://www.theverge.com/2023/3/9/23632349/resident-evil-4-remake-chainsaw-demo-capcom-spotlight)
- - [The Xbox Series X is on sale at Verizon for $50 off](https://www.theverge.com/2023/3/9/23632906/microsoft-xbox-series-x-s-deal-verizon-sale)
- - [Amazon’s plans for a Creed cinematic universe might lead to an anime series](https://www.theverge.com/2023/3/9/23632919/amazon-creed-cinematic-universe-michael-b-jordan)<!-- TECH:END -->
+ - [Apple&#39;s App Store pricing gets a major overhaul](https://appleinsider.com/articles/23/03/09/apples-app-store-pricing-gets-a-major-overhaul?utm_medium=rss)
+ - [Spotify Has Your Ears. It’s Coming for Your Eyes](https://www.wired.com/story/spotify-new-features-what-listeners-want/)
+ - [Capcom’s dinosaur shooter is coming to Game Pass this summer](https://www.theverge.com/2023/3/9/23633025/capcom-exoprimal-open-beta-xbox-game-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
