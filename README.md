@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making his dads day](http://9gag.com/gag/a1P71rD)
- - ⏩ [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
+ - 💣 [Natural antidepressant](http://9gag.com/gag/anzOgBn)
+ - ⏩ [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)<!-- MEMES:END -->
 
 ---
 
