@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can&#39;t even sleep anymore](http://9gag.com/gag/a4onEnZ)
- - ⏩ [Is this what happiness looks like?](http://9gag.com/gag/a3ZGwje)
- - 👉 [That&#39;s cooking oil!](http://9gag.com/gag/anzOQmz)<!-- MEMES:END -->
+ - 💣 [The future of farming.](http://9gag.com/gag/a2KM1ME)
+ - ⏩ [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 👉 [Resist if you can](http://9gag.com/gag/a4on3AA)<!-- MEMES:END -->
 
 ---
 
