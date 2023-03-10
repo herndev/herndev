@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Android phone now officially offers Apple’s Dynamic Island clone](https://www.androidauthority.com/realme-c55-dynamic-island-3295049/)
  - [Meta is exploring a decentralized social network for sharing text updates; the app will reportedly let users log in with Instagram and is codenamed P92 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230309/p33#a230309p33)
- - [Meta is cutting its Reels Play bonus program on Instagram and Facebook](https://www.theverge.com/2023/3/9/23633249/meta-ends-reels-play-bonus-instagram-facebook)
- - [Report: Meta pauses Reels Play bonuses in the US; launched in 2021, the program promised Facebook and Instagram creators up to $35K a month based on view counts &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230309/p32#a230309p32)<!-- TECH:END -->
+ - [Meta is cutting its Reels Play bonus program on Instagram and Facebook](https://www.theverge.com/2023/3/9/23633249/meta-ends-reels-play-bonus-instagram-facebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
