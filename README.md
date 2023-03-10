@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [The odds aren’t looking good for a Samsung Galaxy S23 FE release this year](https://www.androidauthority.com/samsung-galaxy-s23-fe-2-3295242/)
- - [17 Best Mario Day Deals on Nintendo Games and Consoles &lpar;2023&rpar;](https://www.wired.com/story/mario-day-deals-2023/)<!-- TECH:END -->
+ - [A closer look at the rapid collapse of Silicon Valley Bank, the 16th largest bank in the US &lpar;Marc Rubinstein/Net Interest&rpar;](http://www.techmeme.com/230310/p15#a230310p15)
+ - [Aventon Aventure.2 e-bike review: power and suspension for the trail](https://appleinsider.com/articles/23/03/10/aventon-aventure2-e-bike-review-power-and-suspension-for-the-trail?utm_medium=rss)
+ - [FDIC says SVB customers with deposits above $250K will get &quot;an advance dividend within the next week&quot;; many SVB clients need to meet their payroll on March 15 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230310/p14#a230310p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
