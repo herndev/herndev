@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter&#39;s Enterprise Packages for API access start at $42K/month for 50M tweets, or ~0.3% of its monthly output, 25K filters, and 50K archive queries &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230310/p16#a230310p16)
- - [Apple&#39;s new yellow iPhone 14 is up to $1,000 off with preorder deals](https://appleinsider.com/articles/23/03/10/apples-new-yellow-iphone-14-is-up-to-1000-off-with-preorder-deals?utm_medium=rss)
- - [How to watch the Oscars on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/inside/iphone/tips/how-to-watch-the-oscars-on-iphone-ipad-mac-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Check out the best Hulu movies: Top titles to add to your watchlist](https://www.androidauthority.com/best-hulu-movies-3294269/)
+ - [Leaked docs: Twitter&#39;s API access Enterprise Packages start at $42K/month for 50M tweets, or ~0.3% of its monthly output, 25K filters, and 50K archive queries &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230310/p16#a230310p16)
+ - [Fortnite Goes Mega in Chapter 4, Season 2     - CNET](https://www.cnet.com/tech/gaming/fortnite-goes-mega-in-chapter-4-season-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
