@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A big surge in VR and AR headsets came to an end last year](https://www.pcgamer.com/a-big-surge-in-vr-and-ar-headsets-came-to-an-end-last-year)
- - [AM5 motherboards for Ryzen 7000 CPUs finally hit $125](https://www.pcgamer.com/am5-motherboards-for-ryzen-7000-cpus-finally-hit-dollar125)
- - [Wordle hint and answer #629: Friday, March 10](https://www.pcgamer.com/wordle-hint-answer-today-629-march-10)<!-- GAME:END -->
+ - [The best Mario Day deals on toys and Legos](https://www.polygon.com/deals/2023/3/10/23631200/best-mario-day-deals-toys-legos-amiibo-plushies)
+ - [Fortnite Chapter 4 Season 2 battle pass skins list, including Thunder, Imani and Mizuki](https://www.polygon.com/fortnite-guide/23633615/chapter-4-season-2-battle-pass-skins-thunder-imani-mizuki-stray)
+ - [Nintendo’s ‘Choose One’ Switch bundle that comes with a free game is now available](https://www.polygon.com/23621906/nintendo-switch-bundle-mario-day-choose-one-free-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
