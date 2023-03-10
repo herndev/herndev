@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will launch HomePod with screen in 2024, says Kuo](https://appleinsider.com/articles/23/03/10/apple-will-launch-homepod-with-screen-in-2024-says-kuo?utm_medium=rss)
- - [Someone leaked the Motorola Razr 2023 and it’s giving us OG Razr V3 vibes](https://www.androidauthority.com/motorola-razr-2023-live-image-3295119/)
- - [Kuo: Apple will unveil a redesigned HomePod with a built-in 7-inch display in H1 2024, enabling tighter integration with Apple&#39;s other hardware products &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230310/p2#a230310p2)<!-- TECH:END -->
+ - [Daily Authority: ⌚ The Pixel Watch is a hit](https://www.androidauthority.com/daily-authority-march-10-2023-3295111/)
+ - [UAG Standard Issue Backpack review: Rugged, roomy, bad zippers](https://appleinsider.com/articles/23/03/10/uag-standard-issue-backpack-review-rugged-and-roomy?utm_medium=rss)
+ - [Vinyl overtakes CD sales for the first time since 1987](https://www.theverge.com/2023/3/10/23633605/vinyl-records-surpasses-cd-music-sales-us-riaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
