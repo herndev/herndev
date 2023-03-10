@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [United 1944 is a WW2 shooter where you make your own guns](https://www.pcgamer.com/united-1944-is-a-ww2-shooter-where-you-make-your-own-guns)
- - [Pokémon Go Elite Raids, explained](https://www.polygon.com/pokemon-go-guide/23634108/elite-raids-hoopa-regidrago-regieleki-pass-egg-timer)
- - [The 22 Best Games For The Nintendo Switch](https://kotaku.com/the-21-best-games-for-the-nintendo-switch-1794881447)<!-- GAME:END -->
+ - [Stranger Things Actor Says She&#39;s Streaming On Twitch More Due To Industry Sexual Harassment](https://kotaku.com/stranger-things-twitch-streaming-sexual-harassment-1850213893)
+ - [New Resident Evil Movie Explains Why Jill Valentine Hasn&#39;t Aged](https://kotaku.com/resident-evil-jill-valentine-death-island-movie-capcom-1850213858)
+ - [This OnlyFans Creator Has Devs Begging Her To Make A Horror Game](https://kotaku.com/onlyfans-pornhub-horror-game-tiktok-molly-moon-airdorf-1850213718)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
