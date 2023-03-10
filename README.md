@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey you ! Yeah you ! Tell me !!!](http://9gag.com/gag/abvez9E)
- - ⏩ [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)
- - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 💣 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
+ - ⏩ [Natural antidepressant](http://9gag.com/gag/anzOgBn)
+ - 👉 [Trippy](http://9gag.com/gag/aNwLpZb)<!-- MEMES:END -->
 
 ---
 
