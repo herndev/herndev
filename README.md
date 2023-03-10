@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple will unveil a redesigned HomePod with a built-in 7-inch display in H1 2024, enabling tighter integration with Apple&#39;s other hardware products &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230310/p2#a230310p2)
- - [Report: Here’s how many Pixel Watches Google shipped in 2022](https://www.androidauthority.com/pixel-watch-shipments-2022-3295088/)
- - [A major budget brand has hinted at its first foldable phones](https://www.androidauthority.com/realme-foldable-phones-madhav-sheth-3294697/)<!-- TECH:END -->
+ - [Apple will launch HomePod with screen in 2024, says Kuo](https://appleinsider.com/articles/23/03/10/apple-will-launch-homepod-with-screen-in-2024-says-kuo?utm_medium=rss)
+ - [Someone leaked the Motorola Razr 2023 and it’s giving us OG Razr V3 vibes](https://www.androidauthority.com/motorola-razr-2023-live-image-3295119/)
+ - [Kuo: Apple will unveil a redesigned HomePod with a built-in 7-inch display in H1 2024, enabling tighter integration with Apple&#39;s other hardware products &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230310/p2#a230310p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
