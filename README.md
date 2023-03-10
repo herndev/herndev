@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Report: Meta pauses Reels Play bonuses in the US; launched in 2021, the program promised Facebook and Instagram creators up to $35K a month based on view counts &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230309/p32#a230309p32)
- - [Can You Write Off Crypto Losses on Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/crypto-loss-tax-tips/#ftag=CAD590a51e)
- - [‘Pig Butchering’ Scams Are Now a $3 Billion Threat](https://www.wired.com/story/pig-butchering-fbi-ic3-2022-report/)<!-- TECH:END -->
+ - [Reddit is sunsetting its Clubhouse clone](https://www.theverge.com/2023/3/9/23633172/reddit-talk-sunset-audio-clubhouse)
+ - [Can You Write Off Crypto Losses on Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/crypto-loss-tax-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
