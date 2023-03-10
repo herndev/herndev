@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Big Game: UK Game Studios Tackle 24-Hour Football Match for SpecialEffect](https://news.xbox.com/en-us/2023/03/10/one-big-game-rare-playground-soccer-football-charity-specialeffect/)
- - [This free-to-play RPG is a gory road-trip through one of indie gaming&#39;s darkest worlds](https://www.pcgamer.com/this-free-to-play-rpg-is-a-gory-road-trip-through-one-of-indie-gamings-darkest-worlds)
- - [The best Mario Day deals on toys and Legos](https://www.polygon.com/deals/2023/3/10/23631200/best-mario-day-deals-toys-legos-amiibo-plushies)<!-- GAME:END -->
+ - [Sons of the Forest&#39;s first big update makes enemies more threatening, adds a hang glider, and quells Kelvin&#39;s tree-chopping bloodlust](https://www.pcgamer.com/sons-of-the-forests-first-big-update-makes-enemies-more-threatening-adds-a-hang-glider-and-quells-kelvins-tree-chopping-bloodlust)
+ - [Become Mega in Fortnite Battle Royale Chapter 4 Season 2](https://blog.playstation.com/2023/03/10/become-mega-in-fortnite-battle-royale-chapter-4-season-2/)
+ - [One Big Game: UK Game Studios Tackle 24-Hour Football Match for SpecialEffect](https://news.xbox.com/en-us/2023/03/10/one-big-game-rare-playground-soccer-football-charity-specialeffect/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
