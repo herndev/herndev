@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future of farming.](http://9gag.com/gag/a2KM1ME)
- - ⏩ [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - 👉 [Resist if you can](http://9gag.com/gag/a4on3AA)<!-- MEMES:END -->
+ - 💣 [Making his dads day](http://9gag.com/gag/a1P71rD)
+ - ⏩ [Trippy](http://9gag.com/gag/aNwLpZb)
+ - 👉 [Sauce in comments, not sure if I should start to like this woke culture](http://9gag.com/gag/a5XVEjq)<!-- MEMES:END -->
 
 ---
 
