@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Android phone now officially offers Apple’s Dynamic Island clone](https://www.androidauthority.com/realme-c55-dynamic-island-3295049/)
- - [Meta is exploring a decentralized social network for sharing text updates; the app will reportedly let users log in with Instagram and is codenamed P92 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230309/p33#a230309p33)
- - [Meta is cutting its Reels Play bonus program on Instagram and Facebook](https://www.theverge.com/2023/3/9/23633249/meta-ends-reels-play-bonus-instagram-facebook)<!-- TECH:END -->
+ - [A major budget brand has hinted at its first foldable phones](https://www.androidauthority.com/realme-foldable-phones-madhav-sheth-3294697/)
+ - [A look at China&#39;s &quot;golden shares&quot;, initially meant to reduce the state&#39;s role in the economy and now being used to quietly control its biggest tech companies &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/230310/p1#a230310p1)
+ - [An Android phone now officially offers Apple’s Dynamic Island clone](https://www.androidauthority.com/realme-c55-dynamic-island-3295049/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
