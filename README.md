@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labodet MagSafe Ring review: The strongest magnetic grip around](https://appleinsider.com/articles/23/03/10/labodet-magsafe-ring-review-the-strongest-magnetic-grip-around?utm_medium=rss)
- - [Deals: up to $500 off MacBook Pros, $130 off iPhone 13 Pro Max, 35% off Apple Watch, more](https://appleinsider.com/articles/23/03/10/deals-up-to-500-off-macbook-pros-130-off-iphone-13-pro-max-35-off-apple-watch-more?utm_medium=rss)
- - [UK regulator extends App Store investigation deadline to May](https://appleinsider.com/articles/23/03/10/uk-regulator-extends-app-store-investigation-deadline-to-may?utm_medium=rss)<!-- TECH:END -->
+ - [California regulators close Silicon Valley Bank and appoint the FDIC as receiver to protect insured deposits &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p11#a230310p11)
+ - [AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal](https://www.androidauthority.com/microsoft-gpt4-update-3295203/)
+ - [How to unpair Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-unpair-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
