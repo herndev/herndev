@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making his dads day](http://9gag.com/gag/a1P71rD)
- - ⏩ [Gotta go fast](http://9gag.com/gag/aQEgXPe)
- - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
+ - 💣 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - ⏩ [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
+ - 👉 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)<!-- MEMES:END -->
 
 ---
 
