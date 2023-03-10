@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Corporate Zoo](http://9gag.com/gag/anzOzWL)
- - ⏩ [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
- - 👉 [That&#39;s crab.](http://9gag.com/gag/ap91Rv8)<!-- MEMES:END -->
+ - ⏩ [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - 👉 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)<!-- MEMES:END -->
 
 ---
 
