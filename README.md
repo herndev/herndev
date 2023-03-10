@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #629: Friday, March 10](https://www.pcgamer.com/wordle-hint-answer-today-629-march-10)
  - [Everything We Saw At Today’s Capcom Spotlight Event](https://kotaku.com/resident-evil-4-demo-capcom-spotlight-march-2023-cammy-1850210304)
- - [Discord Introducing &#39;AI&#39; Stuff Nobody Asked For, Or Needs](https://kotaku.com/discord-ai-machine-learning-support-chat-art-privacy-1850210638)
- - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)<!-- GAME:END -->
+ - [Discord Introducing &#39;AI&#39; Stuff Nobody Asked For, Or Needs](https://kotaku.com/discord-ai-machine-learning-support-chat-art-privacy-1850210638)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
