@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the best Hulu movies: Top titles to add to your watchlist](https://www.androidauthority.com/best-hulu-movies-3294269/)
- - [Leaked docs: Twitter&#39;s API access Enterprise Packages start at $42K/month for 50M tweets, or ~0.3% of its monthly output, 25K filters, and 50K archive queries &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230310/p16#a230310p16)
- - [Fortnite Goes Mega in Chapter 4, Season 2     - CNET](https://www.cnet.com/tech/gaming/fortnite-goes-mega-in-chapter-4-season-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta plans multiple rounds of layoffs over the coming months that in total would be roughly of the same magnitude as the ~13% cut of November 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230310/p19#a230310p19)
+ - [Android 13 QPR3 Beta 1 arrives next week, Google changes its release process](https://www.androidauthority.com/android-13-qpr3-beta-1-3295329/)
+ - [How startup founders are reacting to Silicon Valley Bank&#39;s collapse, as some worry about frozen funds, operating expenses, and paying employees full salaries &lpar;TechCrunch&rpar;](http://www.techmeme.com/230310/p18#a230310p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
