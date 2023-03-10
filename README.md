@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
- - ⏩ [The future of farming.](http://9gag.com/gag/a2KM1ME)
- - 👉 [Gotta go fast](http://9gag.com/gag/aQEgXPe)<!-- MEMES:END -->
+ - 💣 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
+ - ⏩ [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
+ - 👉 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
 
 ---
 
