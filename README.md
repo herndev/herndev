@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Here’s how many Pixel Watches Google shipped in 2022](https://www.androidauthority.com/pixel-watch-shipments-2022-3295088/)
  - [A major budget brand has hinted at its first foldable phones](https://www.androidauthority.com/realme-foldable-phones-madhav-sheth-3294697/)
- - [A look at China&#39;s &quot;golden shares&quot;, initially meant to reduce the state&#39;s role in the economy and now being used to quietly control its biggest tech companies &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/230310/p1#a230310p1)
- - [An Android phone now officially offers Apple’s Dynamic Island clone](https://www.androidauthority.com/realme-c55-dynamic-island-3295049/)<!-- TECH:END -->
+ - [A look at China&#39;s &quot;golden shares&quot;, initially meant to reduce the state&#39;s role in the economy and now being used to quietly control its biggest tech companies &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/230310/p1#a230310p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
