@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA RP: How to play on GTA 5 roleplaying servers](https://www.pcgamer.com/gta-rp-roleplay-how-to)
- - [This &#39;laptop&#39; has two years of battery life but we&#39;re not sure how well it runs Cyberpunk](https://www.pcgamer.com/this-laptop-has-two-years-of-battery-life-but-were-not-sure-how-well-it-runs-cyberpunk)
- - [LG UltraGear 27GR95QE-B](https://www.pcgamer.com/lg-ultragear-27gr95qe-b-review)<!-- GAME:END -->
+ - [Knives Out: Talking Resident Evil 4’s Updated Combat with the Game’s Producer](https://news.xbox.com/en-us/2023/03/10/talking-resident-evil-4-updated-combat/)
+ - [Square Enix says Forspoken reception was &#39;challenging&#39;, sales &#39;lacklustre&#39;](https://www.pcgamer.com/square-enix-says-forspoken-reception-was-challenging-sales-lacklustre)
+ - [The new game from Tripwire Interactive is having an open beta this weekend](https://www.pcgamer.com/the-new-game-from-tripwire-interactive-is-having-an-open-beta-this-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
