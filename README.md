@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: ⌚ The Pixel Watch is a hit](https://www.androidauthority.com/daily-authority-march-10-2023-3295111/)
- - [UAG Standard Issue Backpack review: Rugged, roomy, bad zippers](https://appleinsider.com/articles/23/03/10/uag-standard-issue-backpack-review-rugged-and-roomy?utm_medium=rss)
- - [Vinyl overtakes CD sales for the first time since 1987](https://www.theverge.com/2023/3/10/23633605/vinyl-records-surpasses-cd-music-sales-us-riaa)<!-- TECH:END -->
+ - [Preorders start for iPhone 14 &amp; iPhone 14 Pro in yellow](https://appleinsider.com/articles/23/03/10/preorders-start-for-iphone-14-iphone-14-pro-in-yellow?utm_medium=rss)
+ - [Sources: after lobbying by Apple, Foxconn, and others, India&#39;s Karnataka state will allow two-shift production and 12-hour shifts, similar to practices in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p5#a230310p5)
+ - [On Asphyxiation From Trains and Other Inaccurate Predictions](https://www.wired.com/story/technology-predictions-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
