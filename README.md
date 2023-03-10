@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Mario Day deals on toys and Legos](https://www.polygon.com/deals/2023/3/10/23631200/best-mario-day-deals-toys-legos-amiibo-plushies)
- - [Fortnite Chapter 4 Season 2 battle pass skins list, including Thunder, Imani and Mizuki](https://www.polygon.com/fortnite-guide/23633615/chapter-4-season-2-battle-pass-skins-thunder-imani-mizuki-stray)
- - [Nintendo’s ‘Choose One’ Switch bundle that comes with a free game is now available](https://www.polygon.com/23621906/nintendo-switch-bundle-mario-day-choose-one-free-game)<!-- GAME:END -->
+ - [One Big Game: UK Game Studios Tackle 24-Hour Football Match for SpecialEffect](https://news.xbox.com/en-us/2023/03/10/one-big-game-rare-playground-soccer-football-charity-specialeffect/)
+ - [This free-to-play RPG is a gory road-trip through one of indie gaming&#39;s darkest worlds](https://www.pcgamer.com/this-free-to-play-rpg-is-a-gory-road-trip-through-one-of-indie-gamings-darkest-worlds)
+ - [The best Mario Day deals on toys and Legos](https://www.polygon.com/deals/2023/3/10/23631200/best-mario-day-deals-toys-legos-amiibo-plushies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
