@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything We Saw At Today’s Capcom Spotlight Event](https://kotaku.com/resident-evil-4-demo-capcom-spotlight-march-2023-cammy-1850210304)
  - [Discord Introducing &#39;AI&#39; Stuff Nobody Asked For, Or Needs](https://kotaku.com/discord-ai-machine-learning-support-chat-art-privacy-1850210638)
- - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)
- - [The same devs who ported A Link to the Past to PC are reverse-engineering another SNES classic](https://www.pcgamer.com/the-same-devs-who-ported-a-link-to-the-past-to-pc-are-reverse-engineering-another-snes-classic)<!-- GAME:END -->
+ - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
