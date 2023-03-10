@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California regulators close Silicon Valley Bank and appoint the FDIC as receiver to protect insured deposits &lpar;CNBC&rpar;](http://www.techmeme.com/230310/p11#a230310p11)
- - [AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal](https://www.androidauthority.com/microsoft-gpt4-update-3295203/)
- - [How to unpair Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-unpair-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple got everything it wanted at the annual shareholder meeting](https://appleinsider.com/articles/23/03/10/apple-got-everything-it-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
+ - [Twitter’s $42,000-per-Month API Prices Out Nearly Everyone](https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/)
+ - [Roku’s new super cheap TVs will be Best Buy exclusives, which explains the price](https://www.theverge.com/2023/3/10/23633754/roku-best-buy-select-plus-tv-ads-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
