@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
- - ⏩ [Natural antidepressant](http://9gag.com/gag/anzOgBn)
- - 👉 [Trippy](http://9gag.com/gag/aNwLpZb)<!-- MEMES:END -->
+ - 💣 [Making his dads day](http://9gag.com/gag/a1P71rD)
+ - ⏩ [Gotta go fast](http://9gag.com/gag/aQEgXPe)
+ - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 ---
 
