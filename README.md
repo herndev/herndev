@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could go wrong if you let your kids do whatever they want](http://9gag.com/gag/ap919b8)
- - ⏩ [Yeah.](http://9gag.com/gag/aGELzO0)
- - 👉 [Posting Mainly to save but might be useful for some](http://9gag.com/gag/a1P7r3v)<!-- MEMES:END -->
+ - 💣 [Today in Russia started normally, like yesterday - with a signal of a nu\u0441l\u0435\u0430r \u0430tta\u0441k.](http://9gag.com/gag/aeQ4QdB)
+ - ⏩ [Finish your drink, bany](http://9gag.com/gag/a1P71P8)
+ - 👉 [Dutch Milkmaid](http://9gag.com/gag/aMEdEwX)<!-- MEMES:END -->
 
 ---
 
