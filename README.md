@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie’s final trailer is full of great little details](https://www.polygon.com/23634018/super-mario-bros-movie-trailer-easter-eggs-breakdown-references)
- - [Pedro Pascal’s next live-action game adaptation is weird as hell](https://www.polygon.com/23634094/pedro-pascal-video-game-adaptation-merge-mansion-ad)
- - [Where to find a rogue bike in Fortnite](https://www.polygon.com/fortnite-guide/23634022/where-to-find-rogue-bike-locations-chapter-4-season-2)<!-- GAME:END -->
+ - [United 1944 is a WW2 shooter where you make your own guns](https://www.pcgamer.com/united-1944-is-a-ww2-shooter-where-you-make-your-own-guns)
+ - [Pokémon Go Elite Raids, explained](https://www.polygon.com/pokemon-go-guide/23634108/elite-raids-hoopa-regidrago-regieleki-pass-egg-timer)
+ - [The 22 Best Games For The Nintendo Switch](https://kotaku.com/the-21-best-games-for-the-nintendo-switch-1794881447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
