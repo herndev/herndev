@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox Series X is $50 off at Verizon](https://www.polygon.com/deals/2023/3/9/23632971/xbox-series-x-discount-deal-verizon)
- - [Final Super Mario Bros. Movie Trailer Debuts At Nintendo Direct](https://kotaku.com/super-mario-bros-movie-final-trailer-jack-black-pratt-1850090442)
- - [Where to find the Hidden Village keys in Wo Long](https://www.polygon.com/guides/23632848/wo-long-hidden-village-key-backyard-key-taoist-house-keys-location-where)<!-- GAME:END -->
+ - [Everything We Saw At Today’s Capcom Spotlight Event](https://kotaku.com/resident-evil-4-demo-capcom-spotlight-march-2023-cammy-1850210304)
+ - [Epic Games CEO says AI companies shouldn&#39;t be &#39;hoovering up everybody&#39;s art data&#39;](https://www.pcgamer.com/epic-games-ceo-says-ai-companies-shouldnt-be-hoovering-up-everybodys-art-data)
+ - [Robocop: Rogue City is delayed, but at least we&#39;ve got a new gameplay trailer](https://www.pcgamer.com/robocop-rogue-city-is-delayed-but-at-least-weve-got-a-new-gameplay-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
