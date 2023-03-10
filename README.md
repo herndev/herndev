@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preorders start for iPhone 14 &amp; iPhone 14 Plus in yellow](https://appleinsider.com/articles/23/03/10/preorders-start-for-iphone-14-iphone-14-pro-in-yellow?utm_medium=rss)
- - [Apple&#39;s India labor reform will allow factories to operate 24 hours](https://appleinsider.com/articles/23/03/10/apples-india-labor-reform-will-allow-factories-to-operate-24-hours?utm_medium=rss)
- - [First new iPhone 14 reviews try to benchmark yellow](https://appleinsider.com/articles/23/03/10/first-new-iphone-14-reviews-try-to-benchmark-yellow?utm_medium=rss)<!-- TECH:END -->
+ - [Labodet MagSafe Ring review: The strongest magnetic grip around](https://appleinsider.com/articles/23/03/10/labodet-magsafe-ring-review-the-strongest-magnetic-grip-around?utm_medium=rss)
+ - [Deals: up to $500 off MacBook Pros, $130 off iPhone 13 Pro Max, 35% off Apple Watch, more](https://appleinsider.com/articles/23/03/10/deals-up-to-500-off-macbook-pros-130-off-iphone-13-pro-max-35-off-apple-watch-more?utm_medium=rss)
+ - [UK regulator extends App Store investigation deadline to May](https://appleinsider.com/articles/23/03/10/uk-regulator-extends-app-store-investigation-deadline-to-may?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
