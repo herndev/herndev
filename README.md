@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Real Life Popeye](http://9gag.com/gag/axoW9YM)
- - ⏩ [Hackfresse](http://9gag.com/gag/amAWPK6)
- - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
+ - ⏩ [Makes \u2018plastic bag\u2019 noise\u2026..](http://9gag.com/gag/abveGj9)
+ - 👉 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)<!-- MEMES:END -->
 
 ---
 
