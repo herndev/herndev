@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Natural antidepressant](http://9gag.com/gag/anzOgBn)
- - ⏩ [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)<!-- MEMES:END -->
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/a4on3Y1)
+ - 👉 [I refuse to accept that people can&#39;t understand it.](http://9gag.com/gag/az25Mpq)<!-- MEMES:END -->
 
 ---
 
