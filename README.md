@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yellow iPhone, Apple Music Classical at last, 15-inch MacBook Air, more](https://appleinsider.com/articles/23/03/10/yellow-iphone-apple-music-classical-at-last-15-inch-macbook-air-more?utm_medium=rss)
  - [Preorders start for iPhone 14 &amp; iPhone 14 Pro in yellow](https://appleinsider.com/articles/23/03/10/preorders-start-for-iphone-14-iphone-14-pro-in-yellow?utm_medium=rss)
- - [Sources: after lobbying by Apple, Foxconn, and others, India&#39;s Karnataka state will allow two-shift production and 12-hour shifts, similar to practices in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p5#a230310p5)
- - [On Asphyxiation From Trains and Other Inaccurate Predictions](https://www.wired.com/story/technology-predictions-history/)<!-- TECH:END -->
+ - [Sources: after lobbying by Apple, Foxconn, and others, India&#39;s Karnataka state will allow two-shift production and 12-hour shifts, similar to practices in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230310/p5#a230310p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
