@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harold, The Haver of Seggs](http://9gag.com/gag/a9qzROm)
- - ⏩ [She&#39;s a winner](http://9gag.com/gag/amAW7qd)
- - 👉 [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)<!-- MEMES:END -->
+ - 💣 [Making his dads day](http://9gag.com/gag/a1P71rD)
+ - ⏩ [Farmer saves bloated cow by stabbing it](http://9gag.com/gag/aoKWOZX)
+ - 👉 [How are your female co-workers? :&rpar; Dear 9gag](http://9gag.com/gag/aZDny39)<!-- MEMES:END -->
 
 ---
 
