@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Won&#39;t Be Silenced: Colin Farrell&#39;s New Penguin Look Gives Sexy Italian Man](https://kotaku.com/colin-farrell-penguin-show-hbox-max-set-pics-1850213829)
- - [I Played The Next Promising Soulslike So You Don’t Have To](https://kotaku.com/clash-artifacts-chaos-review-buggy-soulslike-zeno-ace-1850213994)
- - [I thought I was a Resident Evil pro until I tried the max-difficulty hell mode hidden in RE4&#39;s demo](https://www.pcgamer.com/i-thought-i-was-a-resident-evil-pro-until-i-tried-the-max-difficulty-hell-mode-hidden-in-re4s-demo)<!-- GAME:END -->
+ - [How to get the hang glider in Sons of the Forest](https://www.polygon.com/guides/23632728/sons-of-the-forest-hang-glider-location-where-to-find)
+ - [I&#39;m convinced World of Warcraft is about to surprise us with its first ranged support class](https://www.pcgamer.com/im-convinced-world-of-warcraft-is-about-to-surprise-us-with-its-first-ranged-support-class)
+ - [The Super Mario Bros. Movie cast sang the theme song together, somehow](https://www.polygon.com/23634118/super-mario-bros-movie-jimmy-fallon-tonight-show-sing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
