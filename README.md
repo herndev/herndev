@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sons of the Forest&#39;s first big update makes enemies more threatening, adds a hang glider, and quells Kelvin&#39;s tree-chopping bloodlust](https://www.pcgamer.com/sons-of-the-forests-first-big-update-makes-enemies-more-threatening-adds-a-hang-glider-and-quells-kelvins-tree-chopping-bloodlust)
- - [Become Mega in Fortnite Battle Royale Chapter 4 Season 2](https://blog.playstation.com/2023/03/10/become-mega-in-fortnite-battle-royale-chapter-4-season-2/)
- - [One Big Game: UK Game Studios Tackle 24-Hour Football Match for SpecialEffect](https://news.xbox.com/en-us/2023/03/10/one-big-game-rare-playground-soccer-football-charity-specialeffect/)<!-- GAME:END -->
+ - [GTA RP: How to play on GTA 5 roleplaying servers](https://www.pcgamer.com/gta-rp-roleplay-how-to)
+ - [This &#39;laptop&#39; has two years of battery life but we&#39;re not sure how well it runs Cyberpunk](https://www.pcgamer.com/this-laptop-has-two-years-of-battery-life-but-were-not-sure-how-well-it-runs-cyberpunk)
+ - [LG UltraGear 27GR95QE-B](https://www.pcgamer.com/lg-ultragear-27gr95qe-b-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
