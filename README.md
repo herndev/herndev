@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple will unveil a redesigned HomePod with a built-in 7-inch display in H1 2024, enabling tighter integration with Apple&#39;s other hardware products &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230310/p2#a230310p2)
  - [Report: Here’s how many Pixel Watches Google shipped in 2022](https://www.androidauthority.com/pixel-watch-shipments-2022-3295088/)
- - [A major budget brand has hinted at its first foldable phones](https://www.androidauthority.com/realme-foldable-phones-madhav-sheth-3294697/)
- - [A look at China&#39;s &quot;golden shares&quot;, initially meant to reduce the state&#39;s role in the economy and now being used to quietly control its biggest tech companies &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/230310/p1#a230310p1)<!-- TECH:END -->
+ - [A major budget brand has hinted at its first foldable phones](https://www.androidauthority.com/realme-foldable-phones-madhav-sheth-3294697/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
