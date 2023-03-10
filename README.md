@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Saw At Today’s Capcom Spotlight Event](https://kotaku.com/resident-evil-4-demo-capcom-spotlight-march-2023-cammy-1850210304)
- - [Epic Games CEO says AI companies shouldn&#39;t be &#39;hoovering up everybody&#39;s art data&#39;](https://www.pcgamer.com/epic-games-ceo-says-ai-companies-shouldnt-be-hoovering-up-everybodys-art-data)
- - [Robocop: Rogue City is delayed, but at least we&#39;ve got a new gameplay trailer](https://www.pcgamer.com/robocop-rogue-city-is-delayed-but-at-least-weve-got-a-new-gameplay-trailer)<!-- GAME:END -->
+ - [Resident Evil 4 remake just got its aptly titled Chainsaw demo](https://www.pcgamer.com/resident-evil-4-remake-just-got-its-aptly-titled-chainsaw-demo)
+ - [The same devs who ported A Link to the Past to PC are reverse-engineering another SNES classic](https://www.pcgamer.com/the-same-devs-who-ported-a-link-to-the-past-to-pc-are-reverse-engineering-another-snes-classic)
+ - [Here&#39;s the thing: Battlefield 2042 is really good now](https://www.pcgamer.com/heres-the-thing-battlefield-2042-is-really-good-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
