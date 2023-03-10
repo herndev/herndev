@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s App Store pricing gets a major overhaul](https://appleinsider.com/articles/23/03/09/apples-app-store-pricing-gets-a-major-overhaul?utm_medium=rss)
- - [Spotify Has Your Ears. It’s Coming for Your Eyes](https://www.wired.com/story/spotify-new-features-what-listeners-want/)
- - [Capcom’s dinosaur shooter is coming to Game Pass this summer](https://www.theverge.com/2023/3/9/23633025/capcom-exoprimal-open-beta-xbox-game-pass)<!-- TECH:END -->
+ - [Matchday, a Web3 and mobile gaming startup developing casual soccer games licensed by FIFA, raised a $21M seed from Lionel Messi&#39;s Play Time and others &lpar;Chris Morris/Fast Company&rpar;](http://www.techmeme.com/230309/p31#a230309p31)
+ - [Apple TV+ comedy &#39;Shrinking&#39; gets season two renewal](https://appleinsider.com/articles/23/03/10/apple-tv-comedy-shrinking-gets-season-two-renewal?utm_medium=rss)
+ - [Best TV Deals of 2023: Take Up to $1,700 Off TVs from LG, Samsung and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
