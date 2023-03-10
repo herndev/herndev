@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple got everything it wanted at the annual shareholder meeting](https://appleinsider.com/articles/23/03/10/apple-got-everything-it-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
- - [Twitter’s $42,000-per-Month API Prices Out Nearly Everyone](https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/)
- - [Roku’s new super cheap TVs will be Best Buy exclusives, which explains the price](https://www.theverge.com/2023/3/10/23633754/roku-best-buy-select-plus-tv-ads-partnership)<!-- TECH:END -->
+ - [Google Pixel 8: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [The odds aren’t looking good for a Samsung Galaxy S23 FE release this year](https://www.androidauthority.com/samsung-galaxy-s23-fe-2-3295242/)
+ - [17 Best Mario Day Deals on Nintendo Games and Consoles &lpar;2023&rpar;](https://www.wired.com/story/mario-day-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
