@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last of Us future seasons might be swarming with even more infected monsters](https://www.theverge.com/2023/3/13/23638100/the-last-of-us-zombies-season-2-craig-mazin-bloater)
- - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)
- - [How insurers are using unregulated predictive algorithms to pinpoint the precise moment when they can plausibly cut off payment for older patients&#39; treatment &lpar;STAT&rpar;](http://www.techmeme.com/230313/p20#a230313p20)<!-- TECH:END -->
+ - [A Utah jury finds that Dish Network must pay $469M for infringing two patents held by parental-control technology maker ClearPlay &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230313/p23#a230313p23)
+ - [GitLab reports Q4 revenue of $122.9M, up 58% YoY, a loss of $46.3M, up from $40.6M a year ago, and a weak revenue forecast for fiscal 2024; stock drops ~37% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230313/p22#a230313p22)
+ - [Is the Hulu Disney Plus Bundle worth subscribing to?](https://www.androidauthority.com/is-the-hulu-disney-plus-bundle-worth-it-3297653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
