@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)
- - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
- - 👉 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
+ - 💣 [For the boys](http://9gag.com/gag/aZDnjoQ)
+ - ⏩ [Your ladder has arrived](http://9gag.com/gag/aeQ4m2B)
+ - 👉 [Pretty Accurate](http://9gag.com/gag/a1P72XY)<!-- MEMES:END -->
 
 ---
 
