@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch study says you need to get more sleep](https://appleinsider.com/articles/23/03/13/apple-watch-study-says-you-need-to-get-more-sleep?utm_medium=rss)
- - [Sources: long before its collapse, SVB remained technologically stagnant, including failing to integrate Stripe&#39;s tech and biometric authentication on mobile &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230313/p10#a230313p10)
- - [Apple Watch spots undiagnosed heart problem in author](https://appleinsider.com/articles/23/03/13/apple-watch-spots-undiagnosed-heart-problem-in-author?utm_medium=rss)<!-- TECH:END -->
+ - [Lending protocol Euler Finance lost $197M in a flash-loan attack, including $136M in stETH and $34M in USDC; Euler raised $32M in June 2022; EUL drops 45%+ &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230313/p11#a230313p11)
+ - [ChatGPT could power voice assistants in General Motors vehicles](https://www.theverge.com/2023/3/13/23637345/chatgpt-general-motors-gm-vehicle-voice-assistant-openai)
+ - [A Face Recognition Site Crawled the Web for Dead People’s Photos](https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
