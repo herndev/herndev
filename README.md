@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Utah jury finds that Dish Network must pay $469M for infringing two patents held by parental-control technology maker ClearPlay &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230313/p23#a230313p23)
- - [GitLab reports Q4 revenue of $122.9M, up 58% YoY, a loss of $46.3M, up from $40.6M a year ago, and a weak revenue forecast for fiscal 2024; stock drops ~37% &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230313/p22#a230313p22)
- - [Is the Hulu Disney Plus Bundle worth subscribing to?](https://www.androidauthority.com/is-the-hulu-disney-plus-bundle-worth-it-3297653/)<!-- TECH:END -->
+ - [Sources: the US DOJ is investigating the May 2022 collapse of the TerraUSD stablecoin; the SEC filed a suit against Terraform Labs and Do Kwon last month &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p26#a230313p26)
+ - [Meta says it is winding down its work on NFTs &quot;for now&quot; to focus on other ways of supporting creators, people, and businesses &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230313/p27#a230313p27)
+ - [Sony wants to help low-vision users enjoy photography by shining lasers in their eyes](https://www.theverge.com/2023/3/13/23638249/sony-qd-laser-dschx99-camera-retissa-neoviewer-retinal-low-vision-accessbility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
