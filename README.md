@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pivot your D&amp;D group to a different system built with role-play — not combat — in mind](https://www.polygon.com/what-to-play/23632869/dnd-dungeons-dragons-alternatives-role-play-storytelling)
- - [PSU manufacturers warned against using 600W GPU power plug design due to temperature rise risk](https://www.pcgamer.com/psu-manufacturers-warned-against-using-600w-gpu-power-plug-design-due-to-temperature-rise-risk)
- - [Let’s talk about just how gloriously ridiculous Scream VI gets](https://www.polygon.com/23634690/end-of-scream-vi-explained-who-dies-who-is-ghostface)<!-- GAME:END -->
+ - [Of course the first thing modders did for the Resident Evil 4 demo was put Leon in a thong](https://www.pcgamer.com/of-course-the-first-thing-modders-did-for-the-resident-evil-4-demo-was-put-leon-in-a-thong)
+ - [We&#39;re Losing More Than We Realize When These Classic Pokémon Games Get Pulled](https://kotaku.com/pokemon-3ds-eshop-shutdown-red-blue-yellow-gold-silver-1850213102)
+ - [Counter-Strike: Global Offensive beats its all-time player record for the second time in a month](https://www.pcgamer.com/counter-strike-global-offensive-beats-its-all-time-player-record-for-the-second-time-in-a-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
