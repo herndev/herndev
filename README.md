@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord walks back some privacy policy changes it made when announcing new AI features, like revoked promises on using data from screen recordings and chats &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230313/p19#a230313p19)
  - [Zens 4-in-1 iPad + MagSafe wireless charger review: Great design, slow Apple Watch charging](https://appleinsider.com/articles/23/03/13/zens-4-in-1-ipad-magsafe-wireless-charger-review-great-design-slow-apple-watch-charging?utm_medium=rss)
- - [Pixel March feature drop brings Health Connect, faster Night Sight and more](https://www.androidauthority.com/pixel-feature-drop-march-2023-3295518/)
- - [Night Sight on the Pixel 6 and 6 Pro is about to get a speed boost](https://www.theverge.com/2023/3/13/23634709/google-pixel-6-pro-night-mode-feature-drop)<!-- TECH:END -->
+ - [Best Multivitamins for Women in 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-women-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
