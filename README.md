@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Custom AI chatbots are quietly becoming the next big thing in fandom](https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing)
- - [How to use Smart Annotation on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
- - [Daily Deals: $200 off 2023 16-inch MacBook Pro, $50 off Xbox Series X, Apple Watch Series 8 $329 &amp; more](https://appleinsider.com/articles/23/03/13/daily-deals-200-off-2023-16-inch-macbook-pro-50-off-xbox-series-x-apple-watch-series-8-329-more?utm_medium=rss)<!-- TECH:END -->
+ - [A Reddit user shows how Samsung&#39;s &quot;Space Zoom&quot; feature produces fake, generated images of the moon, highlighting how photography and &quot;real photos&quot; are changing &lpar;The Verge&rpar;](http://www.techmeme.com/230313/p15#a230313p15)
+ - [Samsung caught faking zoom photos of the Moon](https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra)
+ - [Fresh out of the box: 11 ways to make your Galaxy S23 experience better](https://www.androidauthority.com/samsung-galaxy-s23-tips-3292014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
