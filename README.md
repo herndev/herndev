@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - ⏩ [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)
- - 👉 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)<!-- MEMES:END -->
+ - 💣 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)
+ - ⏩ [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 👉 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
 
 ---
 
