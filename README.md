@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your ladder has arrived](http://9gag.com/gag/aeQ4m2B)
- - ⏩ [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
- - 👉 [For the boys](http://9gag.com/gag/aZDnjoQ)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/aDY7V0N)
+ - ⏩ [This is spar... south africa!](http://9gag.com/gag/aqeRze7)
+ - 👉 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 ---
 
