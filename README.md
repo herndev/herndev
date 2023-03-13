@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7a hands-on images and specs appear ahead of possible Google I/O launch](https://www.androidauthority.com/google-pixel-7a-specs-3295495/)
- - [Signature&#39;s closure means real-time payment platform Signet is no longer serving crypto clients, following Silvergate&#39;s SEN; BTC is up ~7% and USDC regains peg &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230312/p14#a230312p14)
- - [The idea for The Last of Us’ big season one finale cameo almost led to another game](https://www.theverge.com/2023/3/12/23634562/the-last-of-us-hbo-finale-ellie-immunity)<!-- TECH:END -->
+ - [Pixel 7a specs appear ahead of possible Google I/O launch](https://www.androidauthority.com/google-pixel-7a-specs-3295495/)
+ - [Oscars 2023: Everything Everywhere All at Once did the thing many times over](https://www.theverge.com/2023/3/13/23634260/oscars-2023-winners-list-everything-everywhere-all-at-once)
+ - [Signature&#39;s closure means real-time payment platform Signet is no longer serving crypto clients, following Silvergate&#39;s SEN; BTC is up ~7% and USDC regains peg &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230312/p14#a230312p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
