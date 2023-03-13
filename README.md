@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)
- - ⏩ [Produced much pepsi](http://9gag.com/gag/aWGpDZA)
- - 👉 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
+ - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - ⏩ [American woman](http://9gag.com/gag/anzOxxL)
+ - 👉 [Backtake from half guard bottom](http://9gag.com/gag/aGELBEn)<!-- MEMES:END -->
 
 ---
 
