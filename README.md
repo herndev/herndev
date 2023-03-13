@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Meredith Broussard, a leading researcher of algorithmic bias, on her book More than a Glitch, which looks at the harms of applying AI to social issues &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230313/p1#a230313p1)
- - [Samsung wrapped in controversy over ‘fake’ Space Zoom moon shots](https://www.androidauthority.com/samsung-fake-space-zoom-moon-images-3295501/)
- - [Pixel 7a specs appear ahead of possible Google I/O launch](https://www.androidauthority.com/google-pixel-7a-specs-3295495/)<!-- TECH:END -->
+ - [Poco F5 Pro specs leak: Will it have wireless charging, though?](https://www.androidauthority.com/poco-f5-pro-specs-leak-will-it-have-wireless-charging-though-3295527/)
+ - [HSBC plans to acquire Silicon Valley Bank UK for &amp;pound;1, citing &quot;strategic sense for our business&quot;; as of March 10, SVB UK had ~&amp;pound;5.5B loans and ~&amp;pound;6.7B deposits &lpar;Iain Withers/Reuters&rpar;](http://www.techmeme.com/230313/p2#a230313p2)
+ - [Galaxy S23, S23 Plus owners report a frustrating camera blur issue](https://www.androidauthority.com/samsung-galaxy-s23-plus-camera-blur-issue-3295508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
