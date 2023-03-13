@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the hang glider in Sons of the Forest](https://www.polygon.com/guides/23632728/sons-of-the-forest-hang-glider-location-where-to-find)
- - [I&#39;m convinced World of Warcraft is about to surprise us with its first ranged support class](https://www.pcgamer.com/im-convinced-world-of-warcraft-is-about-to-surprise-us-with-its-first-ranged-support-class)
- - [The Super Mario Bros. Movie cast sang the theme song together, somehow](https://www.polygon.com/23634118/super-mario-bros-movie-jimmy-fallon-tonight-show-sing)<!-- GAME:END -->
+ - [Disney’s American Born Chinese trailer is a fantastical Everything Everywhere All at Once reunion](https://www.polygon.com/23636797/american-born-chinese-trailer-disney-plus-michelle-yeoh)
+ - [Here are the 2023 Oscar nominations — and the winners are incoming](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
+ - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
