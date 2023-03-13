@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #632: Monday, March 13](https://www.pcgamer.com/wordle-hint-answer-today-632-march-13)
- - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)
- - [RollerCoaster Tycoon 2 track takes longer to complete than the universe will exist](https://www.pcgamer.com/rollercoaster-tycoon-2-track-takes-longer-to-complete-than-the-universe-will-exist)<!-- GAME:END -->
+ - [Pivot your D&amp;D group to a different system built with role-play — not combat — in mind](https://www.polygon.com/what-to-play/23632869/dnd-dungeons-dragons-alternatives-role-play-storytelling)
+ - [PSU manufacturers warned against using 600W GPU power plug design due to temperature rise risk](https://www.pcgamer.com/psu-manufacturers-warned-against-using-600w-gpu-power-plug-design-due-to-temperature-rise-risk)
+ - [Let’s talk about just how gloriously ridiculous Scream VI gets](https://www.polygon.com/23634690/end-of-scream-vi-explained-who-dies-who-is-ghostface)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
