@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - ⏩ [American woman](http://9gag.com/gag/anzOxxL)
- - 👉 [Backtake from half guard bottom](http://9gag.com/gag/aGELBEn)<!-- MEMES:END -->
+ - 💣 [Pro war people, before and during the war](http://9gag.com/gag/ap91VG9)
+ - ⏩ [What an incredible night for Ke Huy Quan! He looks so genuinely happy! Cool that Harrison Ford was there.](http://9gag.com/gag/aPgxrzR)
+ - 👉 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)<!-- MEMES:END -->
 
 ---
 
