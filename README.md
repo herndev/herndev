@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us finally paid off its giraffe tease](https://www.polygon.com/23632961/last-us-giraffe-finale-episode-joel-ellie)
- - [The Oscar-winning drama All Quiet on the Western Front is actually a horror movie](https://www.polygon.com/23627947/all-quiet-on-the-western-front-oscars-2023-best-picture-nominee)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)<!-- GAME:END -->
+ - [The Last Of Us Episode 9 Recap: A Powerful, Haunting Finale](https://kotaku.com/tlou-last-of-us-recap-s1e9-finale-joel-ellie-giraffe-1850217781)
+ - [Kill monstrous hordes until you can delete magic forever in tactics RPG The Last Spell](https://www.pcgamer.com/kill-monstrous-hordes-until-you-can-delete-magic-forever-in-tactics-rpg-the-last-spell)
+ - [The Last of Us finally paid off its giraffe tease](https://www.polygon.com/23632961/last-us-giraffe-finale-episode-joel-ellie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
