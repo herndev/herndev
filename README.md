@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian boyfriend challenged not to gesture while speaking](http://9gag.com/gag/aDY78bO)
- - ⏩ [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
- - 👉 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
+ - 💣 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)
+ - ⏩ [What an incredible night for Ke Huy Quan! He looks so genuinely happy! Cool that Harrison Ford was there.](http://9gag.com/gag/aPgxrzR)
+ - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 ---
 
