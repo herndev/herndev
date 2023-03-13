@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
- - 👉 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)<!-- MEMES:END -->
+ - 💣 [Your ladder has arrived](http://9gag.com/gag/aeQ4m2B)
+ - ⏩ [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
+ - 👉 [For the boys](http://9gag.com/gag/aZDnjoQ)<!-- MEMES:END -->
 
 ---
 
