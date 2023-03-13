@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Bungie Created Strand, Destiny 2’s First New Subclass in 3 Years](https://news.xbox.com/en-us/2023/03/13/destiny-2-lightfall-strand-subclass/)
- - [STALKER 2 team says it was hacked by pro-Russian group, is being blackmailed](https://www.polygon.com/23637543/stalker-2-hack-russian-war-in-ukraine-threats)
- - [GameStop Meme Stock Movie Dumb Money Out Later This Year](https://kotaku.com/gamestop-meme-stock-movie-seth-rogen-pete-davidson-1850219421)<!-- GAME:END -->
+ - [Indiana Jones returns to Lego in a brand new Raiders of the Lost Ark set](https://www.polygon.com/23637986/indiana-jones-lego-set-2023)
+ - [Pokémon Fans Crushed That Team Rocket Disbands At End Of Anime](https://kotaku.com/pokemon-anime-team-rocket-disbanding-final-episodes-1850219962)
+ - [A century later, baseball’s Negro Leagues are getting their due in a video game](https://www.polygon.com/23636607/mlb-the-show-23-negro-leagues-storylines-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
