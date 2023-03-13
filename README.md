@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)
- - ⏩ [What an incredible night for Ke Huy Quan! He looks so genuinely happy! Cool that Harrison Ford was there.](http://9gag.com/gag/aPgxrzR)
- - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 💣 [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
+ - ⏩ [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 👉 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
 
 ---
 
