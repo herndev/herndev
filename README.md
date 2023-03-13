@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current Refinance Rates on March 13, 2023: Rates Dip     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-march-13-2023-rates-dip/#ftag=CAD590a51e)
- - [Here Are Mortgage Rates for March 13, 2023: Rates Ease     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-march-13-2023-rates-ease/#ftag=CAD590a51e)
- - [Leaked iPhone 15 board with A17 is a Photoshop fake](https://appleinsider.com/articles/23/03/13/leaked-iphone-15-board-with-a17-is-a-photoshop-fake?utm_medium=rss)<!-- TECH:END -->
+ - [Custom AI chatbots are quietly becoming the next big thing in fandom](https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing)
+ - [How to use Smart Annotation on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
+ - [Daily Deals: $200 off 2023 16-inch MacBook Pro, $50 off Xbox Series X, Apple Watch Series 8 $329 &amp; more](https://appleinsider.com/articles/23/03/13/daily-deals-200-off-2023-16-inch-macbook-pro-50-off-xbox-series-x-apple-watch-series-8-329-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
