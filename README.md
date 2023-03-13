@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US private equity firm Silver Lake and Canada&#39;s largest pension fund plan to acquire Qualtrics for $12.5B, or $18.15 per share, as SAP divests its 71% stake &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230313/p4#a230313p4)
- - [A YouTuber who went viral as a toddler says she resents her family for monetizing her childhood, as some influencer parents take their children off social media &lpar;Fortesa Latifi/Teen Vogue&rpar;](http://www.techmeme.com/230313/p3#a230313p3)
- - [Daily Authority: 🔮 The future of small phones](https://www.androidauthority.com/daily-authority-march-13-2023-3295510/)<!-- TECH:END -->
+ - [Having perfected the art of using hype to move markets, VCs managed to hype their own rumors to collapse SVB, accidentally slaying a much loved accomplice &lpar;Sinead O&#39;Sullivan/Financial Times&rpar;](http://www.techmeme.com/230313/p8#a230313p8)
+ - [The closure of SVB, Silvergate, Silvergate Exchange Network, and Signature adds stress to a troubled crypto industry; fiat conversion costs may rise by 20%-40% &lpar;Bloomberg&rpar;](http://www.techmeme.com/230313/p7#a230313p7)
+ - [Samsung’s mid-range heroes are landing on March 16](https://www.androidauthority.com/samsung-galaxy-a54-galaxy-a34-launch-date-3295542/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
