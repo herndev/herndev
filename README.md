@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened ?](http://9gag.com/gag/a2KMDXw)
- - ⏩ [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)
- - 👉 [I need buckets of this](http://9gag.com/gag/ap91xzb)<!-- MEMES:END -->
+ - 💣 [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
+ - 👉 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)<!-- MEMES:END -->
 
 ---
 
