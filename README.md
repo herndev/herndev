@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s just my Tuesday](http://9gag.com/gag/adPvxVM)
- - ⏩ [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)
- - 👉 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
+ - 💣 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)
+ - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
+ - 👉 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
 
 ---
 
