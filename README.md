@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canadian history in 25 seconds](http://9gag.com/gag/aYVG172)
- - ⏩ [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
- - 👉 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
+ - 💣 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - ⏩ [Poor woman](http://9gag.com/gag/a4onqPp)
+ - 👉 [I need buckets of this](http://9gag.com/gag/ap91xzb)<!-- MEMES:END -->
 
 ---
 
