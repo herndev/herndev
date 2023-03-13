@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Having perfected the art of using hype to move markets, VCs managed to hype their own rumors to collapse SVB, accidentally slaying a much loved accomplice &lpar;Sinead O&#39;Sullivan/Financial Times&rpar;](http://www.techmeme.com/230313/p8#a230313p8)
- - [The closure of SVB, Silvergate, Silvergate Exchange Network, and Signature adds stress to a troubled crypto industry; fiat conversion costs may rise by 20%-40% &lpar;Bloomberg&rpar;](http://www.techmeme.com/230313/p7#a230313p7)
- - [Samsung’s mid-range heroes are landing on March 16](https://www.androidauthority.com/samsung-galaxy-a54-galaxy-a34-launch-date-3295542/)<!-- TECH:END -->
+ - [Apple Watch study says you need to get more sleep](https://appleinsider.com/articles/23/03/13/apple-watch-study-says-you-need-to-get-more-sleep?utm_medium=rss)
+ - [Sources: long before its collapse, SVB remained technologically stagnant, including failing to integrate Stripe&#39;s tech and biometric authentication on mobile &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230313/p10#a230313p10)
+ - [Apple Watch spots undiagnosed heart problem in author](https://appleinsider.com/articles/23/03/13/apple-watch-spots-undiagnosed-heart-problem-in-author?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
