@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always thought how the CRT TV did this, lol childhood](http://9gag.com/gag/aKE1d7N)
- - ⏩ [Energy shield master&#39; dares martial arts expert to hit him in the face](http://9gag.com/gag/armWVM0)
- - 👉 [Finish your drink, bany](http://9gag.com/gag/a1P71P8)<!-- MEMES:END -->
+ - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
+ - 👉 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)<!-- MEMES:END -->
 
 ---
 
