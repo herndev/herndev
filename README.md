@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t get over this dungeon crawler&#39;s incredible melee combat and gorgeous graphic novel looks](https://www.pcgamer.com/mortal-sin-early-access-impressions)
- - [The Glory part 2’s brutal ending takes no prisoners](https://www.polygon.com/23638017/glory-ending-explained-season-finale)
- - [Kerbal Space Program 2&#39;s negative reception could start to turn around this week, if the first big patch isn&#39;t delayed](https://www.pcgamer.com/kerbal-space-program-2s-negative-reception-could-start-to-turn-around-this-week-if-the-first-big-patch-isnt-delayed)<!-- GAME:END -->
+ - [The Last Of Us&#39; Merle Dandridge On How She’s Like Marlene](https://kotaku.com/the-last-of-us-tlou-merle-dandridge-marlene-hbo-show-1850220607)
+ - [TotalBiscuit&#39;s Widow Weighs Deleting His YouTube Videos To Save Them From AI](https://kotaku.com/totalbiscuit-john-bain-youtube-delete-videos-ai-voices-1850220650)
+ - [Dead Island 2 Devs Think &#39;Development Hell&#39; Wasn&#39;t So Bad Actually](https://kotaku.com/dead-island-2-development-hell-release-date-dambuster-1850220494)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
