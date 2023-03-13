@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
- - [WordPress.com owner Automattic acquires the ActivityPub for WordPress plugin and hires its dev, so blogs can integrate with the Fediverse, including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230313/p18#a230313p18)
- - [This could be the first real leak of Apple VR headset components](https://appleinsider.com/articles/23/03/13/this-could-be-the-first-real-leak-of-apple-vr-headset-components?utm_medium=rss)<!-- TECH:END -->
+ - [Zens 4-in-1 iPad + MagSafe wireless charger review: Great design, slow Apple Watch charging](https://appleinsider.com/articles/23/03/13/zens-4-in-1-ipad-magsafe-wireless-charger-review-great-design-slow-apple-watch-charging?utm_medium=rss)
+ - [Pixel March feature drop brings Health Connect, faster Night Sight and more](https://www.androidauthority.com/pixel-feature-drop-march-2023-3295518/)
+ - [Night Sight on the Pixel 6 and 6 Pro is about to get a speed boost](https://www.theverge.com/2023/3/13/23634709/google-pixel-6-pro-night-mode-feature-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
