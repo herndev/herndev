@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - ⏩ [Welcome to the club](http://9gag.com/gag/aDY7OdB)
- - 👉 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)<!-- MEMES:END -->
+ - 💣 [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - ⏩ [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)
+ - 👉 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)<!-- MEMES:END -->
 
 ---
 
