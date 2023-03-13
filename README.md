@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Republic Bank says it has shored up its finances with additional funding from the US Fed and JPMorgan Chase, giving the bank $70B in unused liquidity &lpar;Rachel Louise Ensign/Wall Street Journal&rpar;](http://www.techmeme.com/230312/p13#a230312p13)
  - [Crypto collapse: FTX’s fall is one piece of a long, cold, contagious crypto winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Oscars 2023: all the latest from film’s biggest awards show](https://www.theverge.com/2023/3/12/23633820/oscars-2023-news-winners)
- - [Uh-oh! The crypto collapse has reached the real financial system](https://www.theverge.com/2023/3/4/23623964/crypto-silvergate-bank-run-stablecoins-dollars)<!-- TECH:END -->
+ - [Oscars 2023: all the latest from film’s biggest awards show](https://www.theverge.com/2023/3/12/23633820/oscars-2023-news-winners)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
