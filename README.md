@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s American Born Chinese trailer is a fantastical Everything Everywhere All at Once reunion](https://www.polygon.com/23636797/american-born-chinese-trailer-disney-plus-michelle-yeoh)
- - [Here are the 2023 Oscar nominations — and the winners are incoming](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
- - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)<!-- GAME:END -->
+ - [The Little Mermaid trailer reveals what’s under the surface of Halle Bailey’s remake](https://www.polygon.com/23631323/little-mermaid-trailer-halle-bailey-release)
+ - [A massive Darkest Dungeon overhaul mod adds an entirely new campaign](https://www.pcgamer.com/a-massive-darkest-dungeon-overhaul-mod-adds-an-entirely-new-campaign)
+ - [Five new Steam games you probably missed &lpar;March 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-13-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
