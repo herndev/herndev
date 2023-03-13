@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW &#39;hardcore&#39; players currently use an addon to prove their runs are legit, but may be getting official servers soon](https://www.pcgamer.com/wow-hardcore-players-currently-use-an-addon-to-prove-their-runs-are-legit-but-may-be-getting-official-servers-soon)
- - [This game fixes Myst by adding guns, demons, and a sick metal soundtrack](https://www.polygon.com/23638533/myst-fps-mod-woe-industries-point-and-kill-adventure)
- - [16+ Stellar Games To Play Before Starfield](https://kotaku.com/starfield-games-like-fallout-mass-effect-space-sci-fi-1850221369)<!-- GAME:END -->
+ - [That co-op farming game with mechs has been delayed](https://www.pcgamer.com/that-co-op-farming-game-with-mechs-has-been-delayed)
+ - [Russian Hackers Threaten Ukrainian Stalker 2 Devs, Things Go Badly](https://kotaku.com/stalker-2-gsc-game-world-ukraine-russia-hackers-pc-1850221715)
+ - [I can finally enjoy The Witcher 3 again now that they&#39;ve fixed the grass shadows](https://www.pcgamer.com/i-can-finally-enjoy-the-witcher-3-again-now-that-theyve-fixed-the-grass-shadows)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
