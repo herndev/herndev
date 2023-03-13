@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Produced much pepsi](http://9gag.com/gag/aWGpDZA)
- - ⏩ [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)
- - 👉 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
+ - 💣 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)
+ - ⏩ [Produced much pepsi](http://9gag.com/gag/aWGpDZA)
+ - 👉 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
 
 ---
 
