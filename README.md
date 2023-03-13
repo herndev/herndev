@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Reddit user shows how Samsung&#39;s &quot;Space Zoom&quot; feature produces fake, generated images of the moon, highlighting how photography and &quot;real photos&quot; are changing &lpar;The Verge&rpar;](http://www.techmeme.com/230313/p15#a230313p15)
- - [Samsung caught faking zoom photos of the Moon](https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra)
- - [Fresh out of the box: 11 ways to make your Galaxy S23 experience better](https://www.androidauthority.com/samsung-galaxy-s23-tips-3292014/)<!-- TECH:END -->
+ - [First Republic Bank&#39;s stock drops 60%+, after declining 33% last week, despite the Fed&#39;s new lending facility and saying Sunday it had $70B+ in unused liquidity &lpar;CNBC&rpar;](http://www.techmeme.com/230313/p16#a230313p16)
+ - [Samsung could bring back your favorite feature to the Galaxy Watch 6 Pro](https://www.androidauthority.com/samsung-galaxy-watch-6-pro-3297694/)
+ - [ASUS Zenfone 10 may lose the flagship’s best feature according to new leak](https://www.androidauthority.com/asus-zenfone-10-3297646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
