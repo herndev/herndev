@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Republic Bank&#39;s stock drops 60%+, after declining 33% last week, despite the Fed&#39;s new lending facility and saying Sunday it had $70B+ in unused liquidity &lpar;CNBC&rpar;](http://www.techmeme.com/230313/p16#a230313p16)
- - [Samsung could bring back your favorite feature to the Galaxy Watch 6 Pro](https://www.androidauthority.com/samsung-galaxy-watch-6-pro-3297694/)
- - [ASUS Zenfone 10 may lose the flagship’s best feature according to new leak](https://www.androidauthority.com/asus-zenfone-10-3297646/)<!-- TECH:END -->
+ - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
+ - [WordPress.com owner Automattic acquires the ActivityPub for WordPress plugin and hires its dev, so blogs can integrate with the Fediverse, including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230313/p18#a230313p18)
+ - [This could be the first real leak of Apple VR headset components](https://appleinsider.com/articles/23/03/13/this-could-be-the-first-real-leak-of-apple-vr-headset-components?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
