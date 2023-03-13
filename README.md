@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones returns to Lego in a brand new Raiders of the Lost Ark set](https://www.polygon.com/23637986/indiana-jones-lego-set-2023)
- - [Pokémon Fans Crushed That Team Rocket Disbands At End Of Anime](https://kotaku.com/pokemon-anime-team-rocket-disbanding-final-episodes-1850219962)
- - [A century later, baseball’s Negro Leagues are getting their due in a video game](https://www.polygon.com/23636607/mlb-the-show-23-negro-leagues-storylines-preview)<!-- GAME:END -->
+ - [I can&#39;t get over this dungeon crawler&#39;s incredible melee combat and gorgeous graphic novel looks](https://www.pcgamer.com/mortal-sin-early-access-impressions)
+ - [The Glory part 2’s brutal ending takes no prisoners](https://www.polygon.com/23638017/glory-ending-explained-season-finale)
+ - [Kerbal Space Program 2&#39;s negative reception could start to turn around this week, if the first big patch isn&#39;t delayed](https://www.pcgamer.com/kerbal-space-program-2s-negative-reception-could-start-to-turn-around-this-week-if-the-first-big-patch-isnt-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
