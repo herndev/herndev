@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
- - ⏩ [Poor woman](http://9gag.com/gag/a4onqPp)
- - 👉 [I need buckets of this](http://9gag.com/gag/ap91xzb)<!-- MEMES:END -->
+ - 💣 [That&#39;s just my Tuesday](http://9gag.com/gag/adPvxVM)
+ - ⏩ [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)
+ - 👉 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 ---
 
