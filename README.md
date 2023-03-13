@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ is investigating the May 2022 collapse of the TerraUSD stablecoin; the SEC filed a suit against Terraform Labs and Do Kwon last month &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p26#a230313p26)
- - [Meta says it is winding down its work on NFTs &quot;for now&quot; to focus on other ways of supporting creators, people, and businesses &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230313/p27#a230313p27)
- - [Sony wants to help low-vision users enjoy photography by shining lasers in their eyes](https://www.theverge.com/2023/3/13/23638249/sony-qd-laser-dschx99-camera-retissa-neoviewer-retinal-low-vision-accessbility)<!-- TECH:END -->
+ - [Pixel 7a leaker beats Google to the punch, delivers high-quality photos](https://www.androidauthority.com/pixel-7a-leak-2-3297878/)
+ - [Silicon Valley Bank’s Failure Deals a Blow to Europe’s Startups](https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/)
+ - [Sources: the US DOJ is investigating the May 2022 collapse of the TerraUSD stablecoin; the SEC filed a suit against Terraform Labs and Do Kwon last month &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p26#a230313p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
