@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Of course the first thing modders did for the Resident Evil 4 demo was put Leon in a thong](https://www.pcgamer.com/of-course-the-first-thing-modders-did-for-the-resident-evil-4-demo-was-put-leon-in-a-thong)
- - [We&#39;re Losing More Than We Realize When These Classic Pokémon Games Get Pulled](https://kotaku.com/pokemon-3ds-eshop-shutdown-red-blue-yellow-gold-silver-1850213102)
- - [Counter-Strike: Global Offensive beats its all-time player record for the second time in a month](https://www.pcgamer.com/counter-strike-global-offensive-beats-its-all-time-player-record-for-the-second-time-in-a-month)<!-- GAME:END -->
+ - [Vote in our second annual Who Would Win Week tournament](https://www.polygon.com/2023/3/13/23632405/who-would-win-week-bracket-2023)
+ - [Roblox Is Being Handed $150 Million By Government After Bank Collapse, Money Isn&#39;t Real](https://kotaku.com/roblox-silicon-valley-bail-out-metaverse-crypto-svb-1850218806)
+ - [Why video game protagonists have become so chatty](https://www.polygon.com/23631177/chatty-video-game-characters-god-of-war-horizon-forbidden-west-high-on-life-forspoken)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
