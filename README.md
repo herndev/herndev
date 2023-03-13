@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - ⏩ [Rest in peace, Julia](http://9gag.com/gag/armWqyK)
- - 👉 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)<!-- MEMES:END -->
+ - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - ⏩ [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - 👉 [Welcome to the club](http://9gag.com/gag/aDY7OdB)<!-- MEMES:END -->
 
 ---
 
