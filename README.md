@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote in our second annual Who Would Win Week tournament](https://www.polygon.com/2023/3/13/23632405/who-would-win-week-bracket-2023)
- - [Roblox Is Being Handed $150 Million By Government After Bank Collapse, Money Isn&#39;t Real](https://kotaku.com/roblox-silicon-valley-bail-out-metaverse-crypto-svb-1850218806)
- - [Why video game protagonists have become so chatty](https://www.polygon.com/23631177/chatty-video-game-characters-god-of-war-horizon-forbidden-west-high-on-life-forspoken)<!-- GAME:END -->
+ - [Barotrauma, the sci-fi submarine sim inspired by Dwarf Fortress and fever dreams, gets a full release](https://www.pcgamer.com/barotrauma-the-sci-fi-submarine-sim-inspired-by-dwarf-fortress-and-fever-dreams-gets-a-full-release)
+ - [Scream 6’s box office scared up a series high fit for its meta twist](https://www.polygon.com/23637505/scream-6-box-office-record-series-jenna-ortega)
+ - [The Week In Games: Umbran Witch Suplex](https://kotaku.com/march-game-releases-out-this-week-bayonetta-wwe-2k23-1850219001)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
