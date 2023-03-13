@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 7a hands-on images and specs appear ahead of possible Google I/O launch](https://www.androidauthority.com/google-pixel-7a-specs-3295495/)
  - [Signature&#39;s closure means real-time payment platform Signet is no longer serving crypto clients, following Silvergate&#39;s SEN; BTC is up ~7% and USDC regains peg &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230312/p14#a230312p14)
- - [The idea for The Last of Us’ big season one finale cameo almost led to another game](https://www.theverge.com/2023/3/12/23634562/the-last-of-us-hbo-finale-ellie-immunity)
- - [First Republic Bank says it has shored up its finances with additional funding from the US Fed and JPMorgan Chase, giving the bank $70B in unused liquidity &lpar;Rachel Louise Ensign/Wall Street Journal&rpar;](http://www.techmeme.com/230312/p13#a230312p13)<!-- TECH:END -->
+ - [The idea for The Last of Us’ big season one finale cameo almost led to another game](https://www.theverge.com/2023/3/12/23634562/the-last-of-us-hbo-finale-ellie-immunity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
