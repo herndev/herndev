@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lending protocol Euler Finance lost $197M in a flash-loan attack, including $136M in stETH and $34M in USDC; Euler raised $32M in June 2022; EUL drops 45%+ &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230313/p11#a230313p11)
- - [ChatGPT could power voice assistants in General Motors vehicles](https://www.theverge.com/2023/3/13/23637345/chatgpt-general-motors-gm-vehicle-voice-assistant-openai)
- - [A Face Recognition Site Crawled the Web for Dead People’s Photos](https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/)<!-- TECH:END -->
+ - [Current Refinance Rates on March 13, 2023: Rates Dip     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-march-13-2023-rates-dip/#ftag=CAD590a51e)
+ - [Here Are Mortgage Rates for March 13, 2023: Rates Ease     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-march-13-2023-rates-ease/#ftag=CAD590a51e)
+ - [Leaked iPhone 15 board with A17 is a Photoshop fake](https://appleinsider.com/articles/23/03/13/leaked-iphone-15-board-with-a17-is-a-photoshop-fake?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
