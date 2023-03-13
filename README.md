@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)
+ - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
  - ⏩ [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
  - 👉 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
 
