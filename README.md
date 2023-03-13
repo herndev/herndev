@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poco F5 Pro specs leak: Will it have wireless charging, though?](https://www.androidauthority.com/poco-f5-pro-specs-leak-will-it-have-wireless-charging-though-3295527/)
- - [HSBC plans to acquire Silicon Valley Bank UK for &amp;pound;1, citing &quot;strategic sense for our business&quot;; as of March 10, SVB UK had ~&amp;pound;5.5B loans and ~&amp;pound;6.7B deposits &lpar;Iain Withers/Reuters&rpar;](http://www.techmeme.com/230313/p2#a230313p2)
- - [Galaxy S23, S23 Plus owners report a frustrating camera blur issue](https://www.androidauthority.com/samsung-galaxy-s23-plus-camera-blur-issue-3295508/)<!-- TECH:END -->
+ - [US private equity firm Silver Lake and Canada&#39;s largest pension fund plan to acquire Qualtrics for $12.5B, or $18.15 per share, as SAP divests its 71% stake &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230313/p4#a230313p4)
+ - [A YouTuber who went viral as a toddler says she resents her family for monetizing her childhood, as some influencer parents take their children off social media &lpar;Fortesa Latifi/Teen Vogue&rpar;](http://www.techmeme.com/230313/p3#a230313p3)
+ - [Daily Authority: 🔮 The future of small phones](https://www.androidauthority.com/daily-authority-march-13-2023-3295510/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
