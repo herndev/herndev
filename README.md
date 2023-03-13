@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barotrauma, the sci-fi submarine sim inspired by Dwarf Fortress and fever dreams, gets a full release](https://www.pcgamer.com/barotrauma-the-sci-fi-submarine-sim-inspired-by-dwarf-fortress-and-fever-dreams-gets-a-full-release)
- - [Scream 6’s box office scared up a series high fit for its meta twist](https://www.polygon.com/23637505/scream-6-box-office-record-series-jenna-ortega)
- - [The Week In Games: Umbran Witch Suplex](https://kotaku.com/march-game-releases-out-this-week-bayonetta-wwe-2k23-1850219001)<!-- GAME:END -->
+ - [How Bungie Created Strand, Destiny 2’s First New Subclass in 3 Years](https://news.xbox.com/en-us/2023/03/13/destiny-2-lightfall-strand-subclass/)
+ - [STALKER 2 team says it was hacked by pro-Russian group, is being blackmailed](https://www.polygon.com/23637543/stalker-2-hack-russian-war-in-ukraine-threats)
+ - [GameStop Meme Stock Movie Dumb Money Out Later This Year](https://kotaku.com/gamestop-meme-stock-movie-seth-rogen-pete-davidson-1850219421)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
