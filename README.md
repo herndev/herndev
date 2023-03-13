@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - ⏩ [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 👉 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
+ - 💣 [Produced much pepsi](http://9gag.com/gag/aWGpDZA)
+ - ⏩ [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)
+ - 👉 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
 
 ---
 
