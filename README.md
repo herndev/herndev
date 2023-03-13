@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the 2023 Oscar winners](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
- - [Hear Michelle Yeoh’s speech for her historic Everything Everywhere All at Once Best Actress win](https://www.polygon.com/23636975/oscars-2023-michelle-yeoh-best-actress-speech)
- - [Everything Everywhere All At Once’s Best Picture win is a triumph for weird cinema](https://www.polygon.com/23636755/oscars-2023-best-picture-everything-everywhere-all-at-once-awards)<!-- GAME:END -->
+ - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)
+ - [RollerCoaster Tycoon 2 track takes longer to complete than the universe will exist](https://www.pcgamer.com/rollercoaster-tycoon-2-track-takes-longer-to-complete-than-the-universe-will-exist)
+ - [The biggest moments from the 2023 Oscars](https://www.polygon.com/23636775/oscar-2023-watch-best-moments-speeches-songs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
