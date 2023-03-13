@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord walks back some privacy policy changes it made when announcing new AI features, like revoked promises on using data from screen recordings and chats &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230313/p19#a230313p19)
- - [Zens 4-in-1 iPad + MagSafe wireless charger review: Great design, slow Apple Watch charging](https://appleinsider.com/articles/23/03/13/zens-4-in-1-ipad-magsafe-wireless-charger-review-great-design-slow-apple-watch-charging?utm_medium=rss)
- - [Best Multivitamins for Women in 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-women-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Last of Us future seasons might be swarming with even more infected monsters](https://www.theverge.com/2023/3/13/23638100/the-last-of-us-zombies-season-2-craig-mazin-bloater)
+ - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)
+ - [How insurers are using unregulated predictive algorithms to pinpoint the precise moment when they can plausibly cut off payment for older patients&#39; treatment &lpar;STAT&rpar;](http://www.techmeme.com/230313/p20#a230313p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
