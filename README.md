@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us&#39; Merle Dandridge On How She’s Like Marlene](https://kotaku.com/the-last-of-us-tlou-merle-dandridge-marlene-hbo-show-1850220607)
- - [TotalBiscuit&#39;s Widow Weighs Deleting His YouTube Videos To Save Them From AI](https://kotaku.com/totalbiscuit-john-bain-youtube-delete-videos-ai-voices-1850220650)
- - [Dead Island 2 Devs Think &#39;Development Hell&#39; Wasn&#39;t So Bad Actually](https://kotaku.com/dead-island-2-development-hell-release-date-dambuster-1850220494)<!-- GAME:END -->
+ - [New York Times Joins Last Of Us Ending Discourse 10 Years Later](https://kotaku.com/the-last-of-us-finale-episode-9-season-2-joel-ellie-1850220882)
+ - [Pokémon Go Spotlight Hour: Can Rowlet be shiny?](https://www.polygon.com/pokemon-go-guide/23637931/can-rowlet-be-shiny-spotlight-hour-march)
+ - [New Zombie RPG Combines A Ton Of Great Games Into One I Can’t Stop Playing](https://kotaku.com/final-fantasy-tactics-zombie-roguelite-strategy-rpg-ps5-1850220974)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
