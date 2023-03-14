@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us season 2 on HBO could get &#39;radically&#39; different from the game](https://www.pcgamer.com/the-last-of-us-season-2-on-hbo-could-get-radically-different-from-the-game)
- - [Microsoft Signs Another 10-Year Call Of Duty Deal](https://kotaku.com/microsoft-call-of-duty-deal-activision-xbox-boosteroid-1850223974)
- - [The 3D roguelike sequel to Hyper Light Drifter looks gorgeous](https://www.polygon.com/23639539/hyper-light-breaker-gameplay-trailer-release-date-fall-2023-early-access)<!-- GAME:END -->
+ - [Episode 3: Purge Brings Citizen Sleeper’s DLC Arc To A Close, But The Story Is Far From Over](https://news.xbox.com/en-us/2023/03/14/citizen-sleeper-episode-3-purge/)
+ - [My Hunger Games poster reminds me you can’t judge a book by the movie](https://www.polygon.com/23632809/hunger-games-books-movies-tesserae-reaping-explained)
+ - [Manga and anime are buy one, get one 50% off at Barnes &amp; Noble](https://www.polygon.com/deals/23639556/barnes-noble-manga-anime-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
