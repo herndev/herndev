@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - ⏩ [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - 👉 [American woman](http://9gag.com/gag/anzOxxL)<!-- MEMES:END -->
+ - 💣 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)
+ - ⏩ [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)
+ - 👉 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)<!-- MEMES:END -->
 
 ---
 
