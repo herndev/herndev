@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Resident Evil 4 Remake Demo Has Some Cool Secrets](https://kotaku.com/re4-capcom-demo-secrets-hidden-gun-mode-cheat-code-ps5-1850221969)
  - [That co-op farming game with mechs has been delayed](https://www.pcgamer.com/that-co-op-farming-game-with-mechs-has-been-delayed)
- - [Russian Hackers Threaten Ukrainian Stalker 2 Devs, Things Go Badly](https://kotaku.com/stalker-2-gsc-game-world-ukraine-russia-hackers-pc-1850221715)
- - [I can finally enjoy The Witcher 3 again now that they&#39;ve fixed the grass shadows](https://www.pcgamer.com/i-can-finally-enjoy-the-witcher-3-again-now-that-theyve-fixed-the-grass-shadows)<!-- GAME:END -->
+ - [Russian Hackers Threaten Ukrainian Stalker 2 Devs, Things Go Badly](https://kotaku.com/stalker-2-gsc-game-world-ukraine-russia-hackers-pc-1850221715)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
