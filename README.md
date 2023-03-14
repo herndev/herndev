@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK plans to launch a 10-year program to invest &amp;pound;2.5B in quantum computing, more than doubling the funding available to researchers &lpar;Financial Times&rpar;](http://www.techmeme.com/230314/p1#a230314p1)
- - [Sources: the FDIC is planning another SVB auction, after it failed to find suitor on Sunday; at least one offer had been made, but it was rejected by the FDIC &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p33#a230313p33)
- - [Experts say that in the short term, the promise and perils of generative AI may be more modest than the fervor surrounding tools like ChatGPT make them seem &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230313/p32#a230313p32)<!-- TECH:END -->
+ - [New OnePlus Nord could launch next month, but it’s not what you think.](https://www.androidauthority.com/oneplus-nord-ce-3-lite-3297998/)
+ - [Trend Micro: the Emotet botnet, which has returned after a months-long hiatus, is using binary padding and other new tricks to get users to download malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230314/p2#a230314p2)
+ - [Sony InZone M3 Review: A Speedy Gaming Monitor for PS5 Plus PC Play     - CNET](https://www.cnet.com/tech/computing/sony-inzone-m3-review-a-speedy-gaming-monitor-for-ps5-plus-pc-play/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
