@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - ⏩ [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 💣 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
+ - ⏩ [Lazy cat does purrfect landing](http://9gag.com/gag/adPv4ED)
+ - 👉 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)<!-- MEMES:END -->
 
 ---
 
