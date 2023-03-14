@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces AI-powered features for Docs, Gmail, Sheets, Slides, and other Workspace apps, helping users generate text, summarize topics, and create images &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p16#a230314p16)
- - [Here Are Today&#39;s Refinance Rates, March 14, 2023: Rates Retreat     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-march-14-2023-rates-retreat/#ftag=CAD590a51e)
- - [Best Business Checking Accounts for March 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-business-checking-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK bank NatWest places a &amp;pound;1,000 daily and &amp;pound;5,000 monthly limit on transfers to crypto exchanges, citing scams, after similar moves by Lloyds and HSBC &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/230314/p20#a230314p20)
+ - [Daily Deals: $200 off 16-inch MacBook Pro with M2 Pro Chip, 28% off Beats Fit Pro, $120 off Dell Curved Gaming Monitor, more](https://appleinsider.com/articles/23/03/14/daily-deals-200-off-16-inch-macbook-pro-with-m2-pro-chip-28-off-beats-fit-pro-120-off-dell-curved-gaming-monitor-more?utm_medium=rss)
+ - [Google launches an API for its PaLM language model, a new app called MakerSuite to help developers train PaLM, expands support for AI in Vertex AI, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p19#a230314p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
