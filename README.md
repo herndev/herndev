@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI is heading to Google Workspace &amp; Google Cloud](https://appleinsider.com/articles/23/03/14/generative-ai-is-heading-to-google-workspace-google-cloud?utm_medium=rss)
- - [Google announces Open Health Stack, open-source components, centered on the Fast Healthcare Interoperability Standards, for developers making health apps &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230314/p28#a230314p28)
- - [GPT-4 has learned to be more precise and accurate than its predecessor, gained the ability to respond to images as well as text, but is still hallucinating &lpar;New York Times&rpar;](http://www.techmeme.com/230314/p27#a230314p27)<!-- TECH:END -->
+ - [OpenAI just upgraded ChatGPT with the new GPT-4 model](https://appleinsider.com/articles/23/03/14/openai-just-upgraded-chatgpt-with-the-new-gpt-4-model?utm_medium=rss)
+ - [A look at the rapid surge of investor interest in AI startups, like Mobius, Dust, and Perplexity AI, drawing in VC firms like Sequoia, a16z, and Index Ventures &lpar;New York Times&rpar;](http://www.techmeme.com/230314/p32#a230314p32)
+ - [Apple cutting costs with bonus payment changes, hiring freeze](https://appleinsider.com/articles/23/03/14/apple-cutting-costs-with-bonus-payment-changes-hiring-freeze?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
