@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - ⏩ [Have a nice day](http://9gag.com/gag/axoWnXn)
- - 👉 [Me paul](http://9gag.com/gag/avQW4nE)<!-- MEMES:END -->
+ - 💣 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
+ - ⏩ [&lpar;\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b](http://9gag.com/gag/a8qAVe3)
+ - 👉 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
 
 ---
 
