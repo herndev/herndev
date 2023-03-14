@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK plans to launch a 10-year program to invest &amp;pound;2.5B in quantum computing, more than doubling the funding available to researchers &lpar;Financial Times&rpar;](http://www.techmeme.com/230314/p1#a230314p1)
  - [Sources: the FDIC is planning another SVB auction, after it failed to find suitor on Sunday; at least one offer had been made, but it was rejected by the FDIC &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p33#a230313p33)
- - [Experts say that in the short term, the promise and perils of generative AI may be more modest than the fervor surrounding tools like ChatGPT make them seem &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230313/p32#a230313p32)
- - [Sources: China has begun to impede subsea internet cable projects in South China Sea over spying fears, imposing strict permit requirements and approval delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230313/p31#a230313p31)<!-- TECH:END -->
+ - [Experts say that in the short term, the promise and perils of generative AI may be more modest than the fervor surrounding tools like ChatGPT make them seem &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230313/p32#a230313p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
