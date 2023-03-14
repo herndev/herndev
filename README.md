@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
- - ⏩ [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 👉 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
+ - ⏩ [The safest ducks in town](http://9gag.com/gag/a5XV5NE)
+ - 👉 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
 
 ---
 
