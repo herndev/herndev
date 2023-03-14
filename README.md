@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams will let you transform into a 3D avatar in May](https://www.theverge.com/2023/3/14/23639259/microsoft-teams-avatars-release-date-availability)
- - [This could be the first real leak of Apple VR headset components](https://appleinsider.com/articles/23/03/13/this-could-be-the-first-real-leak-of-apple-vr-headset-components?utm_medium=rss)
- - [How to use the Activity Monitor in macOS Ventura](https://appleinsider.com/inside/macos/tips/how-to-use-the-activity-monitor-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Can’t remove your pre-installed apps? One country is taking action](https://www.androidauthority.com/country-uninstall-bloatware-india-3298083/)
+ - [Source: US prosecutors are looking at Telegram group chats between employees at Jump, Jane Street, and Alameda in May 2023 over the collapse of TerraUSD &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p12#a230314p12)
+ - [How to use Activity Monitor in macOS Ventura](https://appleinsider.com/inside/macos/tips/how-to-use-the-activity-monitor-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
