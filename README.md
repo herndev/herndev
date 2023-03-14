@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces &quot;Shop With a Specialist Over Video&quot;, a live shopping experience on apple.com for US customers looking to buy an iPhone &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230314/p21#a230314p21)
- - [You can buy your next iPhone from Apple over a video call](https://appleinsider.com/articles/23/03/14/you-can-buy-your-next-iphone-from-apple-over-a-video-call?utm_medium=rss)
- - [Meta cuts another 10,000 jobs in &#39;year of efficiency&#39;](https://appleinsider.com/articles/23/03/14/meta-cuts-another-10000-jobs-in-year-of-efficiency?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing confirms Ear 2 details, including new IP rating and codec support](https://www.androidauthority.com/nothing-ear-2-codec-3298203/)
+ - [Gmail and Docs are getting AI tools to help you write that job description](https://www.androidauthority.com/gmail-docs-ai-3297822/)
+ - [Apple pushes tech careers for women in developer interview feature](https://appleinsider.com/articles/23/03/14/apple-pushes-tech-careers-for-women-in-developer-interview-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
