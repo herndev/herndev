@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t remove your pre-installed apps? One country is taking action](https://www.androidauthority.com/country-uninstall-bloatware-india-3298083/)
- - [Source: US prosecutors are looking at Telegram group chats between employees at Jump, Jane Street, and Alameda in May 2023 over the collapse of TerraUSD &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p12#a230314p12)
- - [How to use Activity Monitor in macOS Ventura](https://appleinsider.com/inside/macos/tips/how-to-use-the-activity-monitor-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Google announces AI-powered features for Docs, Gmail, Sheets, Slides, and other Workspace apps, helping users generate text, summarize topics, and create images &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p16#a230314p16)
+ - [Here Are Today&#39;s Refinance Rates, March 14, 2023: Rates Retreat     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-march-14-2023-rates-retreat/#ftag=CAD590a51e)
+ - [Best Business Checking Accounts for March 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-business-checking-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
