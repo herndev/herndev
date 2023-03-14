@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI just upgraded ChatGPT with the new GPT-4 model](https://appleinsider.com/articles/23/03/14/openai-just-upgraded-chatgpt-with-the-new-gpt-4-model?utm_medium=rss)
- - [A look at the rapid surge of investor interest in AI startups, like Mobius, Dust, and Perplexity AI, drawing in VC firms like Sequoia, a16z, and Index Ventures &lpar;New York Times&rpar;](http://www.techmeme.com/230314/p32#a230314p32)
- - [Apple cutting costs with bonus payment changes, hiring freeze](https://appleinsider.com/articles/23/03/14/apple-cutting-costs-with-bonus-payment-changes-hiring-freeze?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta&#39;s data analysis suggests that engineers who joined the company in-person performed better on average than those who joined remotely &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230314/p33#a230314p33)
+ - [Hyper Light Breaker’s first gameplay trailer teases a beautiful, action-packed roguelike](https://www.theverge.com/2023/3/14/23640021/hyper-light-breaker-first-gameplay-trailer-steam-early-access)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
