@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing confirms Ear 2 details, including new IP rating and codec support](https://www.androidauthority.com/nothing-ear-2-codec-3298203/)
- - [Gmail and Docs are getting AI tools to help you write that job description](https://www.androidauthority.com/gmail-docs-ai-3297822/)
- - [Apple pushes tech careers for women in developer interview feature](https://appleinsider.com/articles/23/03/14/apple-pushes-tech-careers-for-women-in-developer-interview-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Two new companies want a piece of Apple&#39;s 5G modem business](https://appleinsider.com/articles/23/03/14/two-new-companies-want-a-piece-of-apples-5g-modem-business?utm_medium=rss)
+ - [Q&amp;A with Spotify co-president and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on the app&#39;s redesign and improved discovery, layoffs, monetization, rivals, podcasting, HiFi, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230314/p24#a230314p24)
+ - [TikTok adds a STEM content feed alongside the Following and For You feeds, rolling out to US users in the coming weeks, as part of an ongoing topic feeds test &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p23#a230314p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
