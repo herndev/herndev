@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rally drivers use disposable screens, also called `tear-offs,` for when splashing mud blocks visibility](http://9gag.com/gag/adPvr0B)
- - ⏩ [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
- - 👉 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
+ - 💣 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
+ - ⏩ [Do it](http://9gag.com/gag/a04oO2q)
+ - 👉 [Just a sand with a bit of tit.](http://9gag.com/gag/a5XVv3V)<!-- MEMES:END -->
 
 ---
 
