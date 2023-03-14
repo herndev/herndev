@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing and sources: TuSimple co-founder Xiaodi Hou left the company&#39;s board last week after a &quot;whistleblower&quot; reported him asking staff to join his new venture &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230314/p7#a230314p7)
- - [Sources and documents: India plans to force smartphone makers to let users remove pre-loaded apps and will mandate screening OS updates via new security rules &lpar;Reuters&rpar;](http://www.techmeme.com/230314/p6#a230314p6)
- - [Sources: multiple women accuse London-based TikTok executive Steve Ware of sexual harassment and say TikTok mishandled the allegations, a pattern at the company &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230314/p5#a230314p5)<!-- TECH:END -->
+ - [Microsoft Teams will let you transform into a 3D avatar in May](https://www.theverge.com/2023/3/14/23639259/microsoft-teams-avatars-release-date-availability)
+ - [This could be the first real leak of Apple VR headset components](https://appleinsider.com/articles/23/03/13/this-could-be-the-first-real-leak-of-apple-vr-headset-components?utm_medium=rss)
+ - [How to use the Activity Monitor in macOS Ventura](https://appleinsider.com/inside/macos/tips/how-to-use-the-activity-monitor-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
