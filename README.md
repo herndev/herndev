@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK bank NatWest places a &amp;pound;1,000 daily and &amp;pound;5,000 monthly limit on transfers to crypto exchanges, citing scams, after similar moves by Lloyds and HSBC &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/230314/p20#a230314p20)
- - [Daily Deals: $200 off 16-inch MacBook Pro with M2 Pro Chip, 28% off Beats Fit Pro, $120 off Dell Curved Gaming Monitor, more](https://appleinsider.com/articles/23/03/14/daily-deals-200-off-16-inch-macbook-pro-with-m2-pro-chip-28-off-beats-fit-pro-120-off-dell-curved-gaming-monitor-more?utm_medium=rss)
- - [Google launches an API for its PaLM language model, a new app called MakerSuite to help developers train PaLM, expands support for AI in Vertex AI, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p19#a230314p19)<!-- TECH:END -->
+ - [Apple announces &quot;Shop With a Specialist Over Video&quot;, a live shopping experience on apple.com for US customers looking to buy an iPhone &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230314/p21#a230314p21)
+ - [You can buy your next iPhone from Apple over a video call](https://appleinsider.com/articles/23/03/14/you-can-buy-your-next-iphone-from-apple-over-a-video-call?utm_medium=rss)
+ - [Meta cuts another 10,000 jobs in &#39;year of efficiency&#39;](https://appleinsider.com/articles/23/03/14/meta-cuts-another-10000-jobs-in-year-of-efficiency?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
