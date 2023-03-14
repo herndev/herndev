@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California appeals court reverses a lower court ruling that found Prop 22 illegal, preserving the independent contractor model of companies like Uber and Lyft &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p29#a230313p29)
- - [Apple offering refurbished iPhone 13 models in U.S. store](https://appleinsider.com/articles/23/03/13/apple-offering-refurbished-iphone-13-models-in-us-store?utm_medium=rss)
- - [Sources: Chinese autonomous driving startup WeRide has filed confidentially for a US IPO and aims to raise $500M; WeRide was valued at ~$4.4B in March 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230313/p28#a230313p28)<!-- TECH:END -->
+ - [California’s gig worker-focused Prop 22 isn’t overturned after all](https://www.theverge.com/2023/3/13/23638811/california-prop-22-appeals-uber-lyft-instacart-doordash)
+ - [Sources: Microsoft laid off one of its responsible AI teams that was tasked with assessing the risks associated with integrating OpenAI&#39;s tech into its products &lpar;Platformer&rpar;](http://www.techmeme.com/230313/p30#a230313p30)
+ - [Microsoft lays off team that taught employees how to make AI tools responsibly](https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
