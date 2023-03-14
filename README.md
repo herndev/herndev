@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New OnePlus Nord could launch next month, but it’s not what you think.](https://www.androidauthority.com/oneplus-nord-ce-3-lite-3297998/)
- - [Trend Micro: the Emotet botnet, which has returned after a months-long hiatus, is using binary padding and other new tricks to get users to download malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230314/p2#a230314p2)
- - [Sony InZone M3 Review: A Speedy Gaming Monitor for PS5 Plus PC Play     - CNET](https://www.cnet.com/tech/computing/sony-inzone-m3-review-a-speedy-gaming-monitor-for-ps5-plus-pc-play/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Email: SVB&#39;s new CEO Tim Mayopoulos says SVB NA, a new FDIC-run &quot;bridge-bank&quot;, with deposits protected by the FDIC, is &quot;open and conducting business as usual&quot; &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/230314/p3#a230314p3)
+ - [Pixel phones and Pixel Watch get March 2023 security update](https://www.androidauthority.com/google-pixel-march-2023-security-update-3298002/)
+ - [OnePlus 11R review: The flagship killer you probably can’t buy](https://www.androidauthority.com/oneplus-11r-review-3290817/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
