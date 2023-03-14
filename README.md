@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA launches a ransomware warning pilot program to notify critical infrastructure operators of vulnerabilities associated with their systems &lpar;Edward Graham/Nextgov&rpar;](http://www.techmeme.com/230314/p39#a230314p39)
- - [Reddit experiencing a widespread outage](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)
- - [Hands on with Apple&#39;s yellow iPhone 14](https://appleinsider.com/articles/23/03/14/hands-on-with-apples-yellow-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: get Apple&#39;s M2 Mac mini for just $549](https://appleinsider.com/articles/23/03/14/deals-get-apples-m2-mac-mini-for-just-549?utm_medium=rss)
+ - [Sources: TikTok&#39;s leadership is considering the option of divesting itself from ByteDance as a last resort if its existing proposal with CFIUS is rejected &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p41#a230314p41)
+ - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
