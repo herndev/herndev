@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft finally adding missing taskbar functionality to Windows 11](https://www.pcgamer.com/microsoft-finally-adding-missing-taskbar-functionality-to-windows-11)
- - [Cities: Skylines YouTuber managed to 3D print their incredible city square](https://www.pcgamer.com/cities-skylines-youtuber-managed-to-3d-print-their-incredible-city-square)
- - [This 21 SSD add-in card should sort you out for game storage for at least a decade](https://www.pcgamer.com/this-21-ssd-add-in-card-should-sort-you-out-for-game-storage-for-at-least-a-decade)<!-- GAME:END -->
+ - [Sons of the Forest: How to reinforce your fire](https://www.pcgamer.com/sons-of-the-forest-how-to-reinforce-fire)
+ - [PS5 Creators: How Horizon Forbidden West: Burning Shores will harness the power of PS5](https://blog.playstation.com/2023/03/14/ps5-creators-how-horizon-forbidden-west-burning-shores-will-harness-the-power-of-ps5/)
+ - [Spring Forward with the Square Enix Publisher Sale](https://news.xbox.com/en-us/2023/03/14/spring-forward-with-the-square-enix-publisher-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
