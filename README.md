@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China has begun to impede subsea internet cable projects in South China Sea over spying fears, imposing strict permit requirements and approval delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230313/p31#a230313p31)
- - [New South Korean Apple Store opening March 31](https://appleinsider.com/articles/23/03/14/new-south-korean-apple-store-opening-march-31?utm_medium=rss)
- - [California’s gig worker-focused Prop 22 isn’t overturned after all](https://www.theverge.com/2023/3/13/23638811/california-prop-22-appeals-uber-lyft-instacart-doordash)<!-- TECH:END -->
+ - [Sources: the FDIC is planning another SVB auction, after it failed to find suitor on Sunday; at least one offer had been made, but it was rejected by the FDIC &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p33#a230313p33)
+ - [Experts say that in the short term, the promise and perils of generative AI may be more modest than the fervor surrounding tools like ChatGPT make them seem &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230313/p32#a230313p32)
+ - [Sources: China has begun to impede subsea internet cable projects in South China Sea over spying fears, imposing strict permit requirements and approval delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230313/p31#a230313p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
