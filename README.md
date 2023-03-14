@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
- - ⏩ [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 👉 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
+ - 💣 [SISU 2023 I want to see this](http://9gag.com/gag/ap91VW8)
+ - ⏩ [Instant karma](http://9gag.com/gag/aDY7Mvw)
+ - 👉 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
 
 ---
 
