@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Episode 3: Purge Brings Citizen Sleeper’s DLC Arc To A Close, But The Story Is Far From Over](https://news.xbox.com/en-us/2023/03/14/citizen-sleeper-episode-3-purge/)
- - [My Hunger Games poster reminds me you can’t judge a book by the movie](https://www.polygon.com/23632809/hunger-games-books-movies-tesserae-reaping-explained)
- - [Manga and anime are buy one, get one 50% off at Barnes &amp; Noble](https://www.polygon.com/deals/23639556/barnes-noble-manga-anime-sale)<!-- GAME:END -->
+ - [Uncover an Insidious Plot in Environmental Thriller The Forest Cathedral, Out Now on Xbox](https://news.xbox.com/en-us/2023/03/14/the-forest-cathedral-out-now-on-xbox/)
+ - [Was the giraffe CGI in The Last of Us? Yes and no...](https://www.polygon.com/23639876/last-of-us-giraffe-real-cgi)
+ - [Meta is laying off another 10,000 employees](https://www.pcgamer.com/meta-is-laying-off-another-10000-employees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
