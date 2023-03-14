@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncover an Insidious Plot in Environmental Thriller The Forest Cathedral, Out Now on Xbox](https://news.xbox.com/en-us/2023/03/14/the-forest-cathedral-out-now-on-xbox/)
- - [Was the giraffe CGI in The Last of Us? Yes and no...](https://www.polygon.com/23639876/last-of-us-giraffe-real-cgi)
- - [Meta is laying off another 10,000 employees](https://www.pcgamer.com/meta-is-laying-off-another-10000-employees)<!-- GAME:END -->
+ - [The videogame to TV boom hasn&#39;t even truly started yet: here are 30 more series and movies on the way](https://www.pcgamer.com/upcoming-videogame-tv-shows-movies)
+ - [Hearthstone rocks out with next expansion Festival of Legends](https://www.polygon.com/23639967/hearthstone-festival-of-legends-expansion-announcement-keyword-finale)
+ - [The Last of Us Show Changed Ellie In Ways That Make Season Two Worrying](https://kotaku.com/last-of-us-hbo-show-ellie-bella-ramsey-violent-heart-1850224988)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
