@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Please Stop Taking Lewd Photos At Studio Ghibli&#39;s Theme Park, Authorities Ask](https://kotaku.com/studio-ghibli-park-japan-lewd-photos-nsfw-stop-legal-1850221873)
  - [The Resident Evil 4 Remake Demo Has Some Cool Secrets](https://kotaku.com/re4-capcom-demo-secrets-hidden-gun-mode-cheat-code-ps5-1850221969)
- - [That co-op farming game with mechs has been delayed](https://www.pcgamer.com/that-co-op-farming-game-with-mechs-has-been-delayed)
- - [Russian Hackers Threaten Ukrainian Stalker 2 Devs, Things Go Badly](https://kotaku.com/stalker-2-gsc-game-world-ukraine-russia-hackers-pc-1850221715)<!-- GAME:END -->
+ - [That co-op farming game with mechs has been delayed](https://www.pcgamer.com/that-co-op-farming-game-with-mechs-has-been-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
