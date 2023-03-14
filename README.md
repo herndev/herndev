@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sons of the Forest: How to reinforce your fire](https://www.pcgamer.com/sons-of-the-forest-how-to-reinforce-fire)
- - [PS5 Creators: How Horizon Forbidden West: Burning Shores will harness the power of PS5](https://blog.playstation.com/2023/03/14/ps5-creators-how-horizon-forbidden-west-burning-shores-will-harness-the-power-of-ps5/)
- - [Spring Forward with the Square Enix Publisher Sale](https://news.xbox.com/en-us/2023/03/14/spring-forward-with-the-square-enix-publisher-sale/)<!-- GAME:END -->
+ - [WWE 2K23: How Showcase Mode Is an Unexpected Trip Down John Cena’s Memory Lane](https://news.xbox.com/en-us/2023/03/14/wwe-2k23-showcase-mode-john-cena/)
+ - [The launch of Star Citizen&#39;s biggest update has been a shambles, and players are frustrated: &#39;This is embarrassingly bad&#39;](https://www.pcgamer.com/the-launch-of-star-citizens-biggest-update-has-been-a-shambles-and-players-are-frustrated-this-is-embarrassingly-bad)
+ - [System Shock has had a last-minute delay until May: &#39;We are after all merely human&#39;](https://www.pcgamer.com/system-shock-has-had-a-last-minute-delay-until-may-we-are-after-all-merely-human)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
