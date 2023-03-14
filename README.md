@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TCGplayer joins the game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
- - [The Last Of Us Show Used A Real Giraffe To Recreate Its Iconic Game Scene](https://kotaku.com/last-of-us-hbo-show-finale-giraffe-scene-nabo-cgi-1850223785)
- - [Hyper Light Breaker Looks Like A Haunting Mashup Of Some Of The Best Games Around](https://kotaku.com/hyper-light-breaker-borderlands-botw-early-access-steam-1850223718)<!-- GAME:END -->
+ - [The Last of Us season 2 on HBO could get &#39;radically&#39; different from the game](https://www.pcgamer.com/the-last-of-us-season-2-on-hbo-could-get-radically-different-from-the-game)
+ - [Microsoft Signs Another 10-Year Call Of Duty Deal](https://kotaku.com/microsoft-call-of-duty-deal-activision-xbox-boosteroid-1850223974)
+ - [The 3D roguelike sequel to Hyper Light Drifter looks gorgeous](https://www.polygon.com/23639539/hyper-light-breaker-gameplay-trailer-release-date-fall-2023-early-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
