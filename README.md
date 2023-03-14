@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TV turned itself on at 3am to \u2018update\u2019. This was the loading screen.](http://9gag.com/gag/awZgOKB)
- - ⏩ [American politician rediscovers capitalism --- No bailouts. If an investor takes a risk and it doesn&#39;t pan out, investor loses his money. Welcome to capitalism.](http://9gag.com/gag/aMEdWw1)
- - 👉 [What happened ?](http://9gag.com/gag/a2KMDXw)<!-- MEMES:END -->
+ - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
+ - ⏩ [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - 👉 [American woman](http://9gag.com/gag/anzOxxL)<!-- MEMES:END -->
 
 ---
 
