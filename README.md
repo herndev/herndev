@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TV turned itself on at 3am to \u2018update\u2019. This was the loading screen.](http://9gag.com/gag/awZgOKB)
- - ⏩ [Hans?!](http://9gag.com/gag/aRELD8j)
- - 👉 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
+ - 💣 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
+ - ⏩ [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)
+ - 👉 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
 
 ---
 
