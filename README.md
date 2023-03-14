@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
- - ⏩ [Lazy cat does purrfect landing](http://9gag.com/gag/adPv4ED)
- - 👉 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)<!-- MEMES:END -->
+ - 💣 [Bulgarian football &lpar;soccer&rpar;](http://9gag.com/gag/amAWbLy)
+ - ⏩ [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
+ - 👉 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
 
 ---
 
