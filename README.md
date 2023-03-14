@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chicken is life](http://9gag.com/gag/a6qD82m)
- - ⏩ [Lewis Hamilton, PhD - showing the Mercedes engineers how to make a faster car](http://9gag.com/gag/armWB05)
- - 👉 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)<!-- MEMES:END -->
+ - 💣 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
+ - ⏩ [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
+ - 👉 [I got u bro](http://9gag.com/gag/aQEgyM2)<!-- MEMES:END -->
 
 ---
 
