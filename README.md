@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bulgarian football &lpar;soccer&rpar;](http://9gag.com/gag/amAWbLy)
- - ⏩ [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
- - 👉 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
+ - 💣 [Do it](http://9gag.com/gag/a04oO2q)
+ - ⏩ [Have a nice day](http://9gag.com/gag/axoWnXn)
+ - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 ---
 
