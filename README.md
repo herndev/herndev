@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WWE 2K23: How Showcase Mode Is an Unexpected Trip Down John Cena’s Memory Lane](https://news.xbox.com/en-us/2023/03/14/wwe-2k23-showcase-mode-john-cena/)
- - [The launch of Star Citizen&#39;s biggest update has been a shambles, and players are frustrated: &#39;This is embarrassingly bad&#39;](https://www.pcgamer.com/the-launch-of-star-citizens-biggest-update-has-been-a-shambles-and-players-are-frustrated-this-is-embarrassingly-bad)
- - [System Shock has had a last-minute delay until May: &#39;We are after all merely human&#39;](https://www.pcgamer.com/system-shock-has-had-a-last-minute-delay-until-may-we-are-after-all-merely-human)<!-- GAME:END -->
+ - [TCGplayer joins the game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
+ - [The Last Of Us Show Used A Real Giraffe To Recreate Its Iconic Game Scene](https://kotaku.com/last-of-us-hbo-show-finale-giraffe-scene-nabo-cgi-1850223785)
+ - [Hyper Light Breaker Looks Like A Haunting Mashup Of Some Of The Best Games Around](https://kotaku.com/hyper-light-breaker-borderlands-botw-early-access-steam-1850223718)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
