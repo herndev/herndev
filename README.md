@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👀 Pixel 7a hands-on photos leak](https://www.androidauthority.com/daily-authority-march-14-2023-3297644/)
- - [A look at Eightfold AI, which uses AI to help companies find, recruit, and retain workers, and the challenges it faces, like a slowing economy and new rules &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230314/p4#a230314p4)
- - [5 Healthy Snacks Worth Picking Up At Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing and sources: TuSimple co-founder Xiaodi Hou left the company&#39;s board last week after a &quot;whistleblower&quot; reported him asking staff to join his new venture &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230314/p7#a230314p7)
+ - [Sources and documents: India plans to force smartphone makers to let users remove pre-loaded apps and will mandate screening OS updates via new security rules &lpar;Reuters&rpar;](http://www.techmeme.com/230314/p6#a230314p6)
+ - [Sources: multiple women accuse London-based TikTok executive Steve Ware of sexual harassment and say TikTok mishandled the allegations, a pattern at the company &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230314/p5#a230314p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
