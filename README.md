@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
- - ⏩ [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
- - 👉 [I got u bro](http://9gag.com/gag/aQEgyM2)<!-- MEMES:END -->
+ - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
+ - ⏩ [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 ---
 
