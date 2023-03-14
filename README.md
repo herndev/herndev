@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two new companies want a piece of Apple&#39;s 5G modem business](https://appleinsider.com/articles/23/03/14/two-new-companies-want-a-piece-of-apples-5g-modem-business?utm_medium=rss)
- - [Q&amp;A with Spotify co-president and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on the app&#39;s redesign and improved discovery, layoffs, monetization, rivals, podcasting, HiFi, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230314/p24#a230314p24)
- - [TikTok adds a STEM content feed alongside the Following and For You feeds, rolling out to US users in the coming weeks, as part of an ongoing topic feeds test &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p23#a230314p23)<!-- TECH:END -->
+ - [Generative AI is heading to Google Workspace &amp; Google Cloud](https://appleinsider.com/articles/23/03/14/generative-ai-is-heading-to-google-workspace-google-cloud?utm_medium=rss)
+ - [Google announces Open Health Stack, open-source components, centered on the Fast Healthcare Interoperability Standards, for developers making health apps &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230314/p28#a230314p28)
+ - [GPT-4 has learned to be more precise and accurate than its predecessor, gained the ability to respond to images as well as text, but is still hallucinating &lpar;New York Times&rpar;](http://www.techmeme.com/230314/p27#a230314p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
