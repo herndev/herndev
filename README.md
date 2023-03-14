@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
- - ⏩ [&lpar;\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b](http://9gag.com/gag/a8qAVe3)
- - 👉 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
+ - 💣 [Rally drivers use disposable screens, also called `tear-offs,` for when splashing mud blocks visibility](http://9gag.com/gag/adPvr0B)
+ - ⏩ [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
+ - 👉 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
 
 ---
 
