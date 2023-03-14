@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
- - ⏩ [The safest ducks in town](http://9gag.com/gag/a5XV5NE)
- - 👉 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
+ - 💣 [Is this true ?](http://9gag.com/gag/ajV7RoR)
+ - ⏩ [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - 👉 [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)<!-- MEMES:END -->
 
 ---
 
