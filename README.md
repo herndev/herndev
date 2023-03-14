@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California’s gig worker-focused Prop 22 isn’t overturned after all](https://www.theverge.com/2023/3/13/23638811/california-prop-22-appeals-uber-lyft-instacart-doordash)
- - [Sources: Microsoft laid off one of its responsible AI teams that was tasked with assessing the risks associated with integrating OpenAI&#39;s tech into its products &lpar;Platformer&rpar;](http://www.techmeme.com/230313/p30#a230313p30)
- - [Microsoft lays off team that taught employees how to make AI tools responsibly](https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs)<!-- TECH:END -->
+ - [Sources: China has begun to impede subsea internet cable projects in South China Sea over spying fears, imposing strict permit requirements and approval delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230313/p31#a230313p31)
+ - [New South Korean Apple Store opening March 31](https://appleinsider.com/articles/23/03/14/new-south-korean-apple-store-opening-march-31?utm_medium=rss)
+ - [California’s gig worker-focused Prop 22 isn’t overturned after all](https://www.theverge.com/2023/3/13/23638811/california-prop-22-appeals-uber-lyft-instacart-doordash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
