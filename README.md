@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 reasons why strategy fans should play SpellForce: Conquest of Eo](https://www.pcgamer.com/5-reasons-why-strategy-fans-should-play-spellforce-conquest-of-eo)
- - [Wordle hint and answer #633: Tuesday, March 14](https://www.pcgamer.com/wordle-hint-answer-today-633-march-14)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/13/this-weeks-deals-with-gold-and-spotlight-sale-266/)<!-- GAME:END -->
+ - [Microsoft finally adding missing taskbar functionality to Windows 11](https://www.pcgamer.com/microsoft-finally-adding-missing-taskbar-functionality-to-windows-11)
+ - [Cities: Skylines YouTuber managed to 3D print their incredible city square](https://www.pcgamer.com/cities-skylines-youtuber-managed-to-3d-print-their-incredible-city-square)
+ - [This 21 SSD add-in card should sort you out for game storage for at least a decade](https://www.pcgamer.com/this-21-ssd-add-in-card-should-sort-you-out-for-game-storage-for-at-least-a-decade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
