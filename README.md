@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The videogame to TV boom hasn&#39;t even truly started yet: here are 30 more series and movies on the way](https://www.pcgamer.com/upcoming-videogame-tv-shows-movies)
- - [Hearthstone rocks out with next expansion Festival of Legends](https://www.polygon.com/23639967/hearthstone-festival-of-legends-expansion-announcement-keyword-finale)
- - [The Last of Us Show Changed Ellie In Ways That Make Season Two Worrying](https://kotaku.com/last-of-us-hbo-show-ellie-bella-ramsey-violent-heart-1850224988)<!-- GAME:END -->
+ - [Fortnite chapter 4 season 2: the Mega season details](https://www.pcgamer.com/fortnite-chapter-4-season-2-map-changes-new-weapons)
+ - [Was anyone else obsessed with Terminal Velocity in the &#39;90s? It just got an update](https://www.pcgamer.com/was-anyone-else-obsessed-with-terminal-velocity-in-the-90s-it-just-got-an-update)
+ - [Indie dev accused of using stolen FromSoftware animations removes them, warns others against trusting marketplace assets](https://www.pcgamer.com/indie-dev-accused-of-using-stolen-fromsoftware-animations-removes-them-warns-others-against-trusting-marketplace-assets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
