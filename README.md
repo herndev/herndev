@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged renders of the Pixel 8 Pro appear to show a flat ~6.52&quot; display and the addition of a new sensor on the camera bar &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230314/p37#a230314p37)
- - [YouTube launches early multiview access for YouTube TV, letting US viewers watch up to four, pre-selected streams simultaneously, initially for sports content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230314/p36#a230314p36)
- - [Adept, which is building an AI model that can turn text commands into computer actions, raised $350M as part of a Series B, sources say at a $1B+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230314/p35#a230314p35)<!-- TECH:END -->
+ - [CISA launches a ransomware warning pilot program to notify critical infrastructure operators of vulnerabilities associated with their systems &lpar;Edward Graham/Nextgov&rpar;](http://www.techmeme.com/230314/p39#a230314p39)
+ - [Reddit experiencing a widespread outage](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)
+ - [Hands on with Apple&#39;s yellow iPhone 14](https://appleinsider.com/articles/23/03/14/hands-on-with-apples-yellow-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
