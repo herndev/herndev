@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta&#39;s data analysis suggests that engineers who joined the company in-person performed better on average than those who joined remotely &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230314/p33#a230314p33)
- - [Hyper Light Breaker’s first gameplay trailer teases a beautiful, action-packed roguelike](https://www.theverge.com/2023/3/14/23640021/hyper-light-breaker-first-gameplay-trailer-steam-early-access)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-deal-sale)<!-- TECH:END -->
+ - [Alleged renders of the Pixel 8 Pro appear to show a flat ~6.52&quot; display and the addition of a new sensor on the camera bar &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230314/p37#a230314p37)
+ - [YouTube launches early multiview access for YouTube TV, letting US viewers watch up to four, pre-selected streams simultaneously, initially for sports content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230314/p36#a230314p36)
+ - [Adept, which is building an AI model that can turn text commands into computer actions, raised $350M as part of a Series B, sources say at a $1B+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230314/p35#a230314p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
