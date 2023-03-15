@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s Siri, Amazon&#39;s Alexa, and Google&#39;s Assistant fell behind in the AI race despite a decade headstart, hampered by clunky design and miscalculations &lpar;New York Times&rpar;](http://www.techmeme.com/230315/p17#a230315p17)
- - [The Pixel Fold could be much cheaper than the Galaxy Z Fold 4](https://www.androidauthority.com/google-pixel-fold-pricing-3298579/)
- - [PwC partners with AI startup Harvey to launch a chatbot for its 4,000 lawyers, built using OpenAI&#39;s GPT-4, as law firms rush to find ways to integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/230315/p16#a230315p16)<!-- TECH:END -->
+ - [Hands on: Camo 2 turns your DSLR into a webcam](https://appleinsider.com/articles/23/03/15/hands-on-camo-2-turns-your-dslr-into-a-webcam?utm_medium=rss)
+ - [FLIR One Edge Pro Review: Thermal Images and Videos From Any Phone](https://www.wired.com/review/flir-one-edge-pro-thermal-camera/)
+ - [Cars That Watch Their Drivers Could Reteach the World to Drive](https://www.wired.com/story/cars-that-watch-their-drivers-could-re-teach-the-world-to-drive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
