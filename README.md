@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it](http://9gag.com/gag/a04oO2q)
- - ⏩ [Me paul](http://9gag.com/gag/avQW4nE)
- - 👉 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)<!-- MEMES:END -->
+ - 💣 [Black Stories](http://9gag.com/gag/adPvr9Q)
+ - ⏩ [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 ---
 
