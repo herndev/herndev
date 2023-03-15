@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Buy These Excellent 3DS Games Before The eShop Explodes In 12 Days](https://kotaku.com/nintendo-3ds-shutdown-march-27-sales-how-to-buy-zelda-1850229912)
- - [In Call of Duty&#39;s latest update, Modern Warfare 2 got all the love](https://www.pcgamer.com/in-call-of-dutys-latest-update-modern-warfare-2-got-all-the-love)
- - [Sims 4 &#39;infant stretching&#39; bug terrorizes players with unusually long babies](https://www.pcgamer.com/sims-4-infant-stretching-bug-terrorizes-players-with-unusually-long-babies)<!-- GAME:END -->
+ - [SteamOS 3.5 is almost here, includes a fix for the Steam Deck&#39;s sneakiest performance bug](https://www.pcgamer.com/steamos-35-is-almost-here-includes-a-fix-for-the-steam-decks-sneakiest-performance-bug)
+ - [7 things to know before starting Sun Haven](https://www.polygon.com/guides/23639780/sun-haven-beginners-guide-tips-tricks-crops-stamina-crafting)
+ - [Comparing Resident Evil 4’s Chainsaw Demo To The Original Game](https://kotaku.com/resident-evil-4-remake-re4-demo-comparison-side-by-side-1850229146)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
