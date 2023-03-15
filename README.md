@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports 10% drop in profits, says demand is declining](https://appleinsider.com/articles/23/03/15/foxconn-reports-10-drop-in-profits-says-demand-is-declining?utm_medium=rss)
- - [Pixel 8 leak reveals Google is shrinking the display](https://www.androidauthority.com/google-pixel-8-design-3298524/)
- - [Watch this short action film shot on a Galaxy S23 Ultra](https://www.androidauthority.com/short-action-film-faith-samsung-galaxy-s23-ultra-3298502/)<!-- TECH:END -->
+ - [A look at the history of Signature Bank, a lender once tied to Jared Kushner and founded in 2001 that leaped into crypto, ultimately leading to its downfall &lpar;Max Abelson/Bloomberg&rpar;](http://www.techmeme.com/230315/p7#a230315p7)
+ - [The Be My Eyes app for the visually impaired integrates GPT-4, which can inspect and describe images, through a Virtual Volunteer feature in closed beta &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230315/p6#a230315p6)
+ - [Microsoft says the new Bing is &quot;running on GPT-4, which we&#39;ve customized for search&quot; and was using an early version of the model over the past five weeks &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230315/p5#a230315p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
