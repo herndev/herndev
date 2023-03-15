@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [View](http://9gag.com/gag/az25DYx)
- - ⏩ [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
- - 👉 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
+ - 💣 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)
+ - ⏩ [Black Stories](http://9gag.com/gag/adPvr9Q)
+ - 👉 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)<!-- MEMES:END -->
 
 ---
 
