@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the ALPHV ransomware group claimed to have hit Amazon&#39;s Ring, the company says it was not breached but a third-party vendor has been hit with ransomware &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230314/p49#a230314p49)
- - [Z&amp;uuml;rich-based Verity, which offers autonomous inventory management drones to logistics providers, retailers, and manufacturers, has raised a $32M Series B &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230314/p48#a230314p48)
- - [Google raises Workspace monthly pricing by 20% to $7.20 for Starter, $14.40 for Standard, and $21.60 for Plus business plans for new users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230314/p47#a230314p47)<!-- TECH:END -->
+ - [Two US members of the ViLE cybercriminal group have been charged for a May 2022 hack into a DEA portal that taps into 16 federal law enforcement databases &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230314/p51#a230314p51)
+ - [Bengaluru-based HealthPlix, which offers health records software for doctors, raised a $22M Series A, $20M in equity and $2M in debt, co-led by Avataar and SIG &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230314/p50#a230314p50)
+ - [After the ALPHV ransomware group claimed to have hit Amazon&#39;s Ring, the company says it was not breached but a third-party vendor has been hit with ransomware &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230314/p49#a230314p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
