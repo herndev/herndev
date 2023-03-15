@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
  - ⏩ [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
- - 👉 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)<!-- MEMES:END -->
+ - 👉 [Just in case: Chinese state TV channel CCTV showed a map explaining which countries will receive the territories of the Russian Federation after its collapse.](http://9gag.com/gag/a5XVy7y)<!-- MEMES:END -->
 
 ---
 
