@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Caught With Deepfake Porn Of Friends Returns, Wants To Help](https://kotaku.com/atrioc-twitch-deepfake-porn-apology-dmca-ai-takedown-1850229681)
- - [12 Uses For The New AI Program That Fans Claim Will Change The World Forever](https://kotaku.com/chatgpt-4-ai-text-generator-make-games-1850229286)
- - [The Mandalorian brings Dr. Pershing and Elia Kane back for Star Wars’ strangest hour](https://www.polygon.com/23641607/mandalorian-elia-kane-pershing-clones-first-order-star-wars)<!-- GAME:END -->
+ - [Buy These Excellent 3DS Games Before The eShop Explodes In 12 Days](https://kotaku.com/nintendo-3ds-shutdown-march-27-sales-how-to-buy-zelda-1850229912)
+ - [In Call of Duty&#39;s latest update, Modern Warfare 2 got all the love](https://www.pcgamer.com/in-call-of-dutys-latest-update-modern-warfare-2-got-all-the-love)
+ - [Sims 4 &#39;infant stretching&#39; bug terrorizes players with unusually long babies](https://www.pcgamer.com/sims-4-infant-stretching-bug-terrorizes-players-with-unusually-long-babies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
