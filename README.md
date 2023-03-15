@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A list of over a dozen US stadiums using facial recognition for testing, security, entry, analyzing fans&#39; feelings, ticketing, concessions, or other use cases &lpar;Georgia Gee/Slate&rpar;](http://www.techmeme.com/230314/p42#a230314p42)
  - [Deals: get Apple&#39;s M2 Mac mini for just $549](https://appleinsider.com/articles/23/03/14/deals-get-apples-m2-mac-mini-for-just-549?utm_medium=rss)
- - [Sources: TikTok&#39;s leadership is considering the option of divesting itself from ByteDance as a last resort if its existing proposal with CFIUS is rejected &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p41#a230314p41)
- - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)<!-- TECH:END -->
+ - [AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says     - CNET](https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
