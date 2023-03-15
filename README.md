@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
- - ⏩ [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)
+ - 💣 [View](http://9gag.com/gag/az25DYx)
+ - ⏩ [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
  - 👉 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
 
 ---
