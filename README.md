@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian Mythosaur is going to be a big part of season 3 and Mandalore](https://www.polygon.com/star-wars/23640202/mandalorian-mythosaur-season-3-monster-episode)
- - [Company of Heroes 3&#39;s multiplayer lets you fight with or against your friends in dramatic, emergent battles](https://www.pcgamer.com/company-of-heroes-3s-multiplayer-lets-you-fight-with-or-against-your-friends-in-dramatic-emergent-battles)
- - [‘Silly’ The Last of Us Tribute Snuck Its Way Into The HBO Show](https://kotaku.com/tlou-last-of-us-bethany-clare-field-salt-lake-city-hbo-1850225202)<!-- GAME:END -->
+ - [Ellie and Joel – Building The Last of Us Episode 1](https://blog.playstation.com/2023/03/15/ellie-and-joel-building-the-last-of-us-episode-1/)
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [Where to find the food bunker in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-food-bunker-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
