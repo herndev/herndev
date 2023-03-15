@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it patched an Outlook zero-day, exploitable without user interaction, used by Russian hackers to target European organizations in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230315/p32#a230315p32)
- - [iPhone 15 Pro price could increase this year: What that means for Android](https://www.androidauthority.com/iphone-15-pro-price-3298757/)
- - [How to choose between the AirPods Pro and Beats Fit Pro](https://www.theverge.com/23637802/airpods-pro-2-beats-fit-pro-how-to-choose)<!-- TECH:END -->
+ - [Germany and US authorities seize ~&amp;euro;44M from crypto mixer ChipMixer and shut down its service, alleging it facilitated the laundering of 152K BTC since 2017 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230315/p34#a230315p34)
+ - [Google discontinues its Glass Enterprise Edition 2 headset and plans to support it until September 15, 2023; existing devices and software will continue to work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230315/p33#a230315p33)
+ - [It’s on sight between Ali Wong and Steven Yeun in Beef’s first trailer](https://www.theverge.com/2023/3/15/23641644/ali-wong-steven-yeun-in-beefs-first-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
