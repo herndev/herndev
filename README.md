@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 11 best Zelda-likes to play while you wait for Tears of the Kingdom](https://www.polygon.com/zelda/23634048/best-games-like-zelda-on-nintendo-switch-pc-ps5-xbox)
- - [Modders use AI to give Skyrim&#39;s Dragonborn the voice of Master Chief, and I am once again asking if this is actually legal](https://www.pcgamer.com/modders-use-ai-to-give-skyrims-dragonborn-the-voice-of-master-chief-and-i-am-once-again-asking-if-this-is-actually-legal)
- - [How Atlas Fallen elevates sand play with superpowered combat and exploration](https://blog.playstation.com/2023/03/15/how-atlas-fallen-elevates-sand-play-with-superpowered-combat-and-exploration/)<!-- GAME:END -->
+ - [What you need to remember from Shadow and Bone season 1](https://www.polygon.com/23638754/shadow-bone-season-1-ending-explained)
+ - [The Last Of Us Season Two: Everything We Know](https://kotaku.com/the-last-of-us-season-two-everything-we-know-1850225281)
+ - [Nvidia&#39;s CPU hogging bug finally and fully nixed with official driver release](https://www.pcgamer.com/nvidias-cpu-hogging-bug-finally-and-fully-nixed-with-official-driver-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
