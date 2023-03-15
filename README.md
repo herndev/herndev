@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
- - ⏩ [Me paul](http://9gag.com/gag/avQW4nE)
- - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
+ - 💣 [One of this is not like the others](http://9gag.com/gag/aOx2O1E)
+ - ⏩ [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)
+ - 👉 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
 
 ---
 
