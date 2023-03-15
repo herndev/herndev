@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostwire: Tokyo Is Coming to Xbox – Play the All-New Spider’s Thread Update April 12](https://news.xbox.com/en-us/2023/03/15/ghostwire-tokyo-xbox-release-date-spiders-thread-update/)
- - [The Legend of Zelda: Ocarina of Time’s creepiest boss has returned to haunt me](https://www.polygon.com/zelda/23641353/ocarina-time-dead-hand-boss-shadow-temple-bottom-of-the-well)
- - [But seriously: How long has Ted Lasso been in London?](https://www.polygon.com/23640175/ted-lasso-season-3-how-many-years-time)<!-- GAME:END -->
+ - [Major Super Smash Bros. Tournament Leaves Attendees Ill](https://kotaku.com/super-smash-bros-melee-ultimate-tournament-sick-virus-1850228945)
+ - [The only Resident Evil 4 remake I need is this incredible Lego version](https://www.pcgamer.com/the-only-resident-evil-4-remake-i-need-is-this-incredible-lego-version)
+ - [The Last Of Us Co-Creator On Studio’s Next Game After The Show](https://kotaku.com/the-last-of-us-part-2-3-season-naughty-dog-tlou-ps5-1850228889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
