@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - ⏩ [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
- - 👉 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)<!-- MEMES:END -->
+ - 💣 [In China, if you cross the street in the wrong place, the facial recognition system will immediately display your image on a public shame board and automatically deduct a fine from your bank account without your knowledge or participation.](http://9gag.com/gag/a5XVA3N)
+ - ⏩ [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
+ - 👉 [Pizza!](http://9gag.com/gag/aDY791N)<!-- MEMES:END -->
 
 ---
 
