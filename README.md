@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snag almost any AMD graphics card plus The Last of Us for hella cheap](https://www.pcgamer.com/snag-almost-any-amd-graphics-card-plus-the-last-of-us-for-hella-cheap)
- - [Wordle hint and answer #634: Wednesday, March 15](https://www.pcgamer.com/wordle-hint-answer-today-634-march-15)
- - [Bring back wireless mouse charging mats](https://www.pcgamer.com/bring-back-wireless-mouse-charging-mats)<!-- GAME:END -->
+ - [The 11 best Zelda-likes to play while you wait for Tears of the Kingdom](https://www.polygon.com/zelda/23634048/best-games-like-zelda-on-nintendo-switch-pc-ps5-xbox)
+ - [Modders use AI to give Skyrim&#39;s Dragonborn the voice of Master Chief, and I am once again asking if this is actually legal](https://www.pcgamer.com/modders-use-ai-to-give-skyrims-dragonborn-the-voice-of-master-chief-and-i-am-once-again-asking-if-this-is-actually-legal)
+ - [How Atlas Fallen elevates sand play with superpowered combat and exploration](https://blog.playstation.com/2023/03/15/how-atlas-fallen-elevates-sand-play-with-superpowered-combat-and-exploration/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
