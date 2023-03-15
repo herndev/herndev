@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two US members of the ViLE cybercriminal group have been charged for a May 2022 hack into a DEA portal that taps into 16 federal law enforcement databases &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230314/p51#a230314p51)
- - [Bengaluru-based HealthPlix, which offers health records software for doctors, raised a $22M Series A, $20M in equity and $2M in debt, co-led by Avataar and SIG &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230314/p50#a230314p50)
- - [After the ALPHV ransomware group claimed to have hit Amazon&#39;s Ring, the company says it was not breached but a third-party vendor has been hit with ransomware &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230314/p49#a230314p49)<!-- TECH:END -->
+ - [Nothing Phone 1 gets fresh wallpapers, Glyph fixes, and more in new update](https://www.androidauthority.com/nothing-phone-1-nothing-os-1-5-3-update-3298480/)
+ - [Interviews with 20 people detail the Biden administration&#39;s response to SVB&#39;s collapse, amid lobbying from tech execs and investors to protect all depositors &lpar;Washington Post&rpar;](http://www.techmeme.com/230315/p1#a230315p1)
+ - [Two US members of the ViLE cybercriminal group have been charged for a May 2022 hack into a DEA portal that taps into 16 federal law enforcement databases &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230314/p51#a230314p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
