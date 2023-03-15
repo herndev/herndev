@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch this short action film shot on a Galaxy S23 Ultra](https://www.androidauthority.com/short-action-film-faith-samsung-galaxy-s23-ultra-3298502/)
- - [Samsung Electronics plans to invest ~$230B through 2042 in South Korea to build one of the world&#39;s largest chipmaking bases, including five chip factories &lpar;Reuters&rpar;](http://www.techmeme.com/230315/p3#a230315p3)
- - [Sources: Abu Dhabi-based G42 acquired a $100M+ stake in ByteDance at a ~$220B valuation, down from $300B set in a recent buyback, as the US weighs a TikTok ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p2#a230315p2)<!-- TECH:END -->
+ - [Foxconn reports 10% drop in profits, says demand is declining](https://appleinsider.com/articles/23/03/15/foxconn-reports-10-drop-in-profits-says-demand-is-declining?utm_medium=rss)
+ - [Pixel 8 leak reveals Google is shrinking the display](https://www.androidauthority.com/google-pixel-8-design-3298524/)
+ - [Watch this short action film shot on a Galaxy S23 Ultra](https://www.androidauthority.com/short-action-film-faith-samsung-galaxy-s23-ultra-3298502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
