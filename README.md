@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atlas Fallen: Brand New Details Emerge After the Action-RPG’s Gameplay Reveal](https://news.xbox.com/en-us/2023/03/15/atlas-fallen-gameplay-reveal/)
- - [March’s PS Plus Update Is Big, Adding Games Like Ghostwire, Uncharted, and Street Fighter V](https://kotaku.com/ps-plus-free-games-catalog-march-2023-classics-ps5-ps4-1850229268)
- - [OpenAI co-founder to angry Game of Thrones fans: Let ChatGPT write your self-insert fanfic](https://www.polygon.com/23641552/chatgpt-fix-game-of-thrones-ending)<!-- GAME:END -->
+ - [Twitch Streamer Caught With Deepfake Porn Of Friends Returns, Wants To Help](https://kotaku.com/atrioc-twitch-deepfake-porn-apology-dmca-ai-takedown-1850229681)
+ - [12 Uses For The New AI Program That Fans Claim Will Change The World Forever](https://kotaku.com/chatgpt-4-ai-text-generator-make-games-1850229286)
+ - [The Mandalorian brings Dr. Pershing and Elia Kane back for Star Wars’ strangest hour](https://www.polygon.com/23641607/mandalorian-elia-kane-pershing-clones-first-order-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
