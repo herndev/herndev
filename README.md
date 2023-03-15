@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)
- - ⏩ [Black Stories](http://9gag.com/gag/adPvr9Q)
- - 👉 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)<!-- MEMES:END -->
+ - 💣 [Do it](http://9gag.com/gag/a04oO2q)
+ - ⏩ [Me paul](http://9gag.com/gag/avQW4nE)
+ - 👉 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)<!-- MEMES:END -->
 
 ---
 
