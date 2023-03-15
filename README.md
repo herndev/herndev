@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
- - ⏩ [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - 💣 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
+ - ⏩ [Me paul](http://9gag.com/gag/avQW4nE)
  - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 ---
