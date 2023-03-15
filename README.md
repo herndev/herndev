@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day](http://9gag.com/gag/axoWnXn)
- - ⏩ [Just a sand with a bit of tit.](http://9gag.com/gag/a5XVv3V)
- - 👉 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)<!-- MEMES:END -->
+ - 💣 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - ⏩ [Asians are a strange species](http://9gag.com/gag/aDY7Mox)
+ - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 ---
 
