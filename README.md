@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of this is not like the others](http://9gag.com/gag/aOx2O1E)
- - ⏩ [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)
- - 👉 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
+ - 💣 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - ⏩ [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
+ - 👉 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)<!-- MEMES:END -->
 
 ---
 
