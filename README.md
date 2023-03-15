@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite chapter 4 season 2: the Mega season details](https://www.pcgamer.com/fortnite-chapter-4-season-2-map-changes-new-weapons)
- - [Was anyone else obsessed with Terminal Velocity in the &#39;90s? It just got an update](https://www.pcgamer.com/was-anyone-else-obsessed-with-terminal-velocity-in-the-90s-it-just-got-an-update)
- - [Indie dev accused of using stolen FromSoftware animations removes them, warns others against trusting marketplace assets](https://www.pcgamer.com/indie-dev-accused-of-using-stolen-fromsoftware-animations-removes-them-warns-others-against-trusting-marketplace-assets)<!-- GAME:END -->
+ - [Valve teases CS:GO players with another &#39;Counter-Strike 2&#39; reference, this time in the Steam backend](https://www.pcgamer.com/valve-teases-csgo-players-with-another-counter-strike-2-reference-this-time-in-the-steam-backend)
+ - [How to get the Overclocked Pulse Rifle in Fortnite](https://www.pcgamer.com/fortnite-overclocked-pulse-rifle)
+ - [Fortnite chapter 4 season 2: the Mega season details](https://www.pcgamer.com/fortnite-chapter-4-season-2-map-changes-new-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
