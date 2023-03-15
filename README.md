@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bus driver is accused of racism, his response tho](http://9gag.com/gag/aDY7qoZ)
- - ⏩ [A Japanese artisan crafting a suitcase from a single bamboo culm, cloth and pieces of leather](http://9gag.com/gag/a6qDzZ8)
- - 👉 [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)<!-- MEMES:END -->
+ - 💣 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
+ - ⏩ [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 ---
 
