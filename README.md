@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What you need to remember from Shadow and Bone season 1](https://www.polygon.com/23638754/shadow-bone-season-1-ending-explained)
- - [The Last Of Us Season Two: Everything We Know](https://kotaku.com/the-last-of-us-season-two-everything-we-know-1850225281)
- - [Nvidia&#39;s CPU hogging bug finally and fully nixed with official driver release](https://www.pcgamer.com/nvidias-cpu-hogging-bug-finally-and-fully-nixed-with-official-driver-release)<!-- GAME:END -->
+ - [The Mandalorian Mythosaur is going to be a big part of season 3 and Mandalore](https://www.polygon.com/star-wars/23640202/mandalorian-mythosaur-season-3-monster-episode)
+ - [Company of Heroes 3&#39;s multiplayer lets you fight with or against your friends in dramatic, emergent battles](https://www.pcgamer.com/company-of-heroes-3s-multiplayer-lets-you-fight-with-or-against-your-friends-in-dramatic-emergent-battles)
+ - [‘Silly’ The Last of Us Tribute Snuck Its Way Into The HBO Show](https://kotaku.com/tlou-last-of-us-bethany-clare-field-salt-lake-city-hbo-1850225202)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
