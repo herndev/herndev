@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it](http://9gag.com/gag/a04oO2q)
+ - 💣 [Me paul](http://9gag.com/gag/avQW4nE)
  - ⏩ [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
+ - 👉 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
 
 ---
 
