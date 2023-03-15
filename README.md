@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve teases CS:GO players with another &#39;Counter-Strike 2&#39; reference, this time in the Steam backend](https://www.pcgamer.com/valve-teases-csgo-players-with-another-counter-strike-2-reference-this-time-in-the-steam-backend)
- - [How to get the Overclocked Pulse Rifle in Fortnite](https://www.pcgamer.com/fortnite-overclocked-pulse-rifle)
- - [Fortnite chapter 4 season 2: the Mega season details](https://www.pcgamer.com/fortnite-chapter-4-season-2-map-changes-new-weapons)<!-- GAME:END -->
+ - [Square Enix Is Still Making That NFT Game, In 2023](https://kotaku.com/symbiogenesis-square-enix-nft-game-rpg-crypto-sucks-1850226742)
+ - [Yes, the giraffe in HBO&#39;s The Last of Us finale was real, his name is Nabo and he lives in Calgary](https://www.pcgamer.com/yes-the-giraffe-in-hbos-the-last-of-us-finale-was-real-his-name-is-nabo-and-he-lives-in-calgary)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/03/14/essential-picks-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
