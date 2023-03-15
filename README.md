@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Snag almost any AMD graphics card plus The Last of Us for hella cheap](https://www.pcgamer.com/snag-almost-any-amd-graphics-card-plus-the-last-of-us-for-hella-cheap)
  - [Wordle hint and answer #634: Wednesday, March 15](https://www.pcgamer.com/wordle-hint-answer-today-634-march-15)
- - [Bring back wireless mouse charging mats](https://www.pcgamer.com/bring-back-wireless-mouse-charging-mats)
- - [Get the worst value gaming PC ever with this F1 sim rig](https://www.pcgamer.com/get-the-worst-value-gaming-pc-ever-with-this-f1-sim-rig)<!-- GAME:END -->
+ - [Bring back wireless mouse charging mats](https://www.pcgamer.com/bring-back-wireless-mouse-charging-mats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
