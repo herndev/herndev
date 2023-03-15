@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google raises Workspace monthly pricing by 20% to $7.20 for Starter, $14.40 for Standard, and $21.60 for Plus business plans for new users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230314/p47#a230314p47)
- - [Spotify&#39;s HiFi tier is coming -- but not soon](https://appleinsider.com/articles/23/03/15/spotifys-hifi-tier-is-coming----but-not-soon?utm_medium=rss)
- - [Tilia, a payment platform for game publishers and metaverse projects, has raised $22M since spinning off from Linden Lab, the creator of Second Life, in 2022 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230314/p46#a230314p46)<!-- TECH:END -->
+ - [After the ALPHV ransomware group claimed to have hit Amazon&#39;s Ring, the company says it was not breached but a third-party vendor has been hit with ransomware &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230314/p49#a230314p49)
+ - [Z&amp;uuml;rich-based Verity, which offers autonomous inventory management drones to logistics providers, retailers, and manufacturers, has raised a $32M Series B &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230314/p48#a230314p48)
+ - [Google raises Workspace monthly pricing by 20% to $7.20 for Starter, $14.40 for Standard, and $21.60 for Plus business plans for new users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230314/p47#a230314p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
