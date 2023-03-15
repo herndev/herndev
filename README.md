@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Abu Dhabi-based G42 acquired a $100M+ stake in ByteDance at a ~$220B valuation, down from $300B set in a recent buyback, as the US weighs a TikTok ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p2#a230315p2)
- - [Nothing Phone 1 gets fresh wallpapers, Glyph fixes, and more in new update](https://www.androidauthority.com/nothing-phone-1-nothing-os-1-5-3-update-3298480/)
- - [Interviews with 20 people detail the Biden administration&#39;s response to SVB&#39;s collapse, amid lobbying from tech execs and investors to protect all depositors &lpar;Washington Post&rpar;](http://www.techmeme.com/230315/p1#a230315p1)<!-- TECH:END -->
+ - [Watch this short action film shot on a Galaxy S23 Ultra](https://www.androidauthority.com/short-action-film-faith-samsung-galaxy-s23-ultra-3298502/)
+ - [Samsung Electronics plans to invest ~$230B through 2042 in South Korea to build one of the world&#39;s largest chipmaking bases, including five chip factories &lpar;Reuters&rpar;](http://www.techmeme.com/230315/p3#a230315p3)
+ - [Sources: Abu Dhabi-based G42 acquired a $100M+ stake in ByteDance at a ~$220B valuation, down from $300B set in a recent buyback, as the US weighs a TikTok ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p2#a230315p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
