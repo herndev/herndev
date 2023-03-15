@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe reports Q1 revenue up 9% YoY to $4.66B, vs. $4.62B est., Digital Media revenue up 9% YoY to $3.4B, and Digital Experience revenue up 11% YoY to $1.18B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230315/p35#a230315p35)
- - [This Is the New Leader of Russia&#39;s Infamous Sandworm Hacking Unit](https://www.wired.com/story/russia-gru-sandworm-serebriakov/)
- - [The 11 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Android 13 QPR3 Beta 1 is rolling out today](https://www.androidauthority.com/android-13-qpr3-beta-3298832/)
+ - [Studio Display 16.4 beta 4 firmware now available](https://appleinsider.com/articles/23/03/15/studio-display-164-beta-4-firmware-now-available?utm_medium=rss)
+ - [Sources: Microsoft has been rationing GPU access for teams building AI tools since late 2022; the company plans to announce Office 365 GPT-4 tools on March 16 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230315/p37#a230315p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
