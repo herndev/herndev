@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
- - [OneDrive 14.2 review: Professional cloud storage for large files](https://appleinsider.com/articles/23/03/15/onedrive-142-review-professional-cloud-storage-for-large-files?utm_medium=rss)
- - [Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD returns to $1,199 &lpar;$450 off&rpar; today only](https://appleinsider.com/articles/23/03/15/apples-m1-macbook-air-with-16gb-ram-1tb-ssd-returns-to-1199-450-off-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals: 51% off Meta Portal, $90 off iPhone 14, $300 off M2 Max MacBook Pro, more](https://appleinsider.com/articles/23/03/15/daily-deals-51-off-meta-portal-90-off-iphone-14-300-off-m2-max-macbook-pro-more?utm_medium=rss)
+ - [Kia EV9 2023: Radical Design, Autonomous Tech](https://www.wired.com/story/the-kia-ev9-is-a-new-kind-of-ev-inside-and-out/)
+ - [A journey into the metaverse to find friends and true believers on Meta&#39;s Horizon Worlds, raising questions over what promise Mark Zuckerberg saw in VR &lpar;Paul Murray/New York Magazine&rpar;](http://www.techmeme.com/230315/p24#a230315p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
