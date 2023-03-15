@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamOS 3.5 is almost here, includes a fix for the Steam Deck&#39;s sneakiest performance bug](https://www.pcgamer.com/steamos-35-is-almost-here-includes-a-fix-for-the-steam-decks-sneakiest-performance-bug)
- - [7 things to know before starting Sun Haven](https://www.polygon.com/guides/23639780/sun-haven-beginners-guide-tips-tricks-crops-stamina-crafting)
- - [Comparing Resident Evil 4’s Chainsaw Demo To The Original Game](https://kotaku.com/resident-evil-4-remake-re4-demo-comparison-side-by-side-1850229146)<!-- GAME:END -->
+ - [8 D&amp;D classics including Spelljammer and a Silver Box bundle are headed to Steam and GOG](https://www.pcgamer.com/8-dandd-classics-including-spelljammer-and-a-silver-box-bundle-are-headed-to-steam-and-gog)
+ - [Veteran Games, Anime Composer Arrested For Sexually Assaulting Teenage Girl](https://kotaku.com/hidekazu-tanaka-anime-composer-assault-charge-pokemon-1850230490)
+ - [It’s Time to Party with Modern Warfare II](https://news.xbox.com/en-us/2023/03/15/party-with-modern-warfare-2-season-2-reloaded/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
