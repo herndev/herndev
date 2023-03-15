@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A list of over a dozen US stadiums using facial recognition for testing, security, entry, analyzing fans&#39; feelings, ticketing, concessions, or other use cases &lpar;Georgia Gee/Slate&rpar;](http://www.techmeme.com/230314/p42#a230314p42)
- - [Deals: get Apple&#39;s M2 Mac mini for just $549](https://appleinsider.com/articles/23/03/14/deals-get-apples-m2-mac-mini-for-just-549?utm_medium=rss)
- - [AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says     - CNET](https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tilia, a payment platform for game publishers and metaverse projects, has raised $22M since spinning off from Linden Lab, the creator of Second Life, in 2022 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230314/p46#a230314p46)
+ - [Just Eat Takeaway plans to file for deregistration of its securities from the US SEC due to low trading volume and high costs, as the CEO of Grubhub exits &lpar;Silicon Canals&rpar;](http://www.techmeme.com/230314/p45#a230314p45)
+ - [Sources: Spotify HiFi as a premium tier was ready to launch over a year ago, but Apple&#39;s decision to offer lossless audio at no extra charge spoiled its plans &lpar;The Verge&rpar;](http://www.techmeme.com/230314/p44#a230314p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
