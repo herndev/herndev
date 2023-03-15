@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - ⏩ [Asians are a strange species](http://9gag.com/gag/aDY7Mox)
- - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 💣 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
+ - ⏩ [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)
+ - 👉 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
 
 ---
 
