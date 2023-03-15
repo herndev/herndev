@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [LinkedIn announces AI-powered writing suggestions, initially for writing profiles, using OpenAI&#39;s GTP-4, and for recruiters writing job ads, using GPT-3.5 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230315/p31#a230315p31)
- - [PSA: Beware of these AI-generated YouTube videos that spread malware](https://www.androidauthority.com/youtube-video-malware-3298682/)<!-- TECH:END -->
+ - [Apple issues fourth developer betas for iOS 16.4, iPadOS 16.4, and watchOS 9.4](https://appleinsider.com/articles/23/03/15/apple-issues-fourth-developer-betas-for-ios-164-and-ipados-164?utm_medium=rss)
+ - [Apple seeds fourth macOS Ventura 13.3 developer beta](https://appleinsider.com/articles/23/03/15/apple-seeds-fourth-macos-ventura-133-developer-beta?utm_medium=rss)
+ - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
