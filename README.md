@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - ⏩ [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)
- - 👉 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 💣 [Do it](http://9gag.com/gag/a04oO2q)
+ - ⏩ [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - 👉 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 ---
 
