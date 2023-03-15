@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the iPhone refurbishment process at New Jersey-based US Mobile Phones, from the trade-in to refurbish to resale; iPhones dominate consumer trade-ins &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p29#a230315p29)
- - [Tragedy plus time equals a BlackBerry comedy](https://appleinsider.com/articles/23/03/15/tragedy-plus-time-equals-a-blackberry-comedy?utm_medium=rss)
- - [First ‘BlackBerry’ film trailer looks like ‘The Big Short’ but for smartphones](https://www.androidauthority.com/blackberry-film-3298664/)<!-- TECH:END -->
+ - [The best Samsung Galaxy deals: Save up to $800 on the Galaxy S23](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [LinkedIn announces AI-powered writing suggestions, initially for writing profiles, using OpenAI&#39;s GTP-4, and for recruiters writing job ads, using GPT-3.5 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230315/p31#a230315p31)
+ - [PSA: Beware of these AI-generated YouTube videos that spread malware](https://www.androidauthority.com/youtube-video-malware-3298682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
