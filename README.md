@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)
- - ⏩ [Have a nice day](http://9gag.com/gag/axoWnXn)
+ - 💣 [Have a nice day](http://9gag.com/gag/axoWnXn)
+ - ⏩ [Just a sand with a bit of tit.](http://9gag.com/gag/a5XVv3V)
  - 👉 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)<!-- MEMES:END -->
 
 ---
