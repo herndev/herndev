@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Ted Lasso season 3](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-ted-lasso-season-3?utm_medium=rss)
- - [Daily Authority: 👋 Meet the Pixel 8/8 Pro](https://www.androidauthority.com/daily-authority-march-15-2023-3298557/)
- - [A profile of Russian national Artem Uss, arrested in Milan under US indictment over a secret supply chain to provide US tech to support Putin&#39;s war in Ukraine &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p14#a230315p14)<!-- TECH:END -->
+ - [How Apple&#39;s Siri, Amazon&#39;s Alexa, and Google&#39;s Assistant fell behind in the AI race despite a decade headstart, hampered by clunky design and miscalculations &lpar;New York Times&rpar;](http://www.techmeme.com/230315/p17#a230315p17)
+ - [The Pixel Fold could be much cheaper than the Galaxy Z Fold 4](https://www.androidauthority.com/google-pixel-fold-pricing-3298579/)
+ - [PwC partners with AI startup Harvey to launch a chatbot for its 4,000 lawyers, built using OpenAI&#39;s GPT-4, as law firms rush to find ways to integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/230315/p16#a230315p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
