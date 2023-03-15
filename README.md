@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports Q4 revenue down 10% YoY to ~$64.5B and $1.3B net income, slightly below estimates, and forecasts slumping consumer electronics demand in 2023 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230315/p11#a230315p11)
- - [Arkham: net redemptions of Circle&#39;s USDC reached $4.5B since March 10, including a single $723M redemption that was later burnt, after Signature and SVB fell &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230315/p10#a230315p10)
- - [Sources: US prosecutors were investigating Signature&#39;s work with crypto clients before regulators seized the bank, including over detecting money laundering &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p9#a230315p9)<!-- TECH:END -->
+ - [How to watch Ted Lasso season 3](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-ted-lasso-season-3?utm_medium=rss)
+ - [Daily Authority: 👋 Meet the Pixel 8/8 Pro](https://www.androidauthority.com/daily-authority-march-15-2023-3298557/)
+ - [A profile of Russian national Artem Uss, arrested in Milan under US indictment over a secret supply chain to provide US tech to support Putin&#39;s war in Ukraine &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p14#a230315p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
