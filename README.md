@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ellie and Joel – Building The Last of Us Episode 1](https://blog.playstation.com/2023/03/15/ellie-and-joel-building-the-last-of-us-episode-1/)
- - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [Where to find the food bunker in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-food-bunker-location)<!-- GAME:END -->
+ - [Ghostwire: Tokyo Is Coming to Xbox – Play the All-New Spider’s Thread Update April 12](https://news.xbox.com/en-us/2023/03/15/ghostwire-tokyo-xbox-release-date-spiders-thread-update/)
+ - [The Legend of Zelda: Ocarina of Time’s creepiest boss has returned to haunt me](https://www.polygon.com/zelda/23641353/ocarina-time-dead-hand-boss-shadow-temple-bottom-of-the-well)
+ - [But seriously: How long has Ted Lasso been in London?](https://www.polygon.com/23640175/ted-lasso-season-3-how-many-years-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
