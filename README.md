@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Down with the goog](http://9gag.com/gag/aoKWwmw)
- - ⏩ [You do look cute my man](http://9gag.com/gag/aA0QA4p)
- - 👉 [Oh lawd he sittin](http://9gag.com/gag/ay2qwnY)<!-- MEMES:END -->
+ - 💣 [Killer r\u00fcns outta court](http://9gag.com/gag/aqeROxj)
+ - ⏩ [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - 👉 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
 
 ---
 
