@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Major Super Smash Bros. Tournament Leaves Attendees Ill](https://kotaku.com/super-smash-bros-melee-ultimate-tournament-sick-virus-1850228945)
- - [The only Resident Evil 4 remake I need is this incredible Lego version](https://www.pcgamer.com/the-only-resident-evil-4-remake-i-need-is-this-incredible-lego-version)
- - [The Last Of Us Co-Creator On Studio’s Next Game After The Show](https://kotaku.com/the-last-of-us-part-2-3-season-naughty-dog-tlou-ps5-1850228889)<!-- GAME:END -->
+ - [Atlas Fallen: Brand New Details Emerge After the Action-RPG’s Gameplay Reveal](https://news.xbox.com/en-us/2023/03/15/atlas-fallen-gameplay-reveal/)
+ - [March’s PS Plus Update Is Big, Adding Games Like Ghostwire, Uncharted, and Street Fighter V](https://kotaku.com/ps-plus-free-games-catalog-march-2023-classics-ps5-ps4-1850229268)
+ - [OpenAI co-founder to angry Game of Thrones fans: Let ChatGPT write your self-insert fanfic](https://www.polygon.com/23641552/chatgpt-fix-game-of-thrones-ending)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
