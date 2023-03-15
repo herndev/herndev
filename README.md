@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: 51% off Meta Portal, $90 off iPhone 14, $300 off M2 Max MacBook Pro, more](https://appleinsider.com/articles/23/03/15/daily-deals-51-off-meta-portal-90-off-iphone-14-300-off-m2-max-macbook-pro-more?utm_medium=rss)
- - [Kia EV9 2023: Radical Design, Autonomous Tech](https://www.wired.com/story/the-kia-ev9-is-a-new-kind-of-ev-inside-and-out/)
- - [A journey into the metaverse to find friends and true believers on Meta&#39;s Horizon Worlds, raising questions over what promise Mark Zuckerberg saw in VR &lpar;Paul Murray/New York Magazine&rpar;](http://www.techmeme.com/230315/p24#a230315p24)<!-- TECH:END -->
+ - [Inside the iPhone refurbishment process at New Jersey-based US Mobile Phones, from the trade-in to refurbish to resale; iPhones dominate consumer trade-ins &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p29#a230315p29)
+ - [Tragedy plus time equals a BlackBerry comedy](https://appleinsider.com/articles/23/03/15/tragedy-plus-time-equals-a-blackberry-comedy?utm_medium=rss)
+ - [First ‘BlackBerry’ film trailer looks like ‘The Big Short’ but for smartphones](https://www.androidauthority.com/blackberry-film-3298664/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
