@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: Camo 2 turns your DSLR into a webcam](https://appleinsider.com/articles/23/03/15/hands-on-camo-2-turns-your-dslr-into-a-webcam?utm_medium=rss)
- - [FLIR One Edge Pro Review: Thermal Images and Videos From Any Phone](https://www.wired.com/review/flir-one-edge-pro-thermal-camera/)
- - [Cars That Watch Their Drivers Could Reteach the World to Drive](https://www.wired.com/story/cars-that-watch-their-drivers-could-re-teach-the-world-to-drive/)<!-- TECH:END -->
+ - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
+ - [OneDrive 14.2 review: Professional cloud storage for large files](https://appleinsider.com/articles/23/03/15/onedrive-142-review-professional-cloud-storage-for-large-files?utm_medium=rss)
+ - [Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD returns to $1,199 &lpar;$450 off&rpar; today only](https://appleinsider.com/articles/23/03/15/apples-m1-macbook-air-with-16gb-ram-1tb-ssd-returns-to-1199-450-off-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
