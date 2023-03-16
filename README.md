@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shroud and Sacriel are making a new survival game with Splash Damage](https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage)
- - [Twitch’s CEO is stepping down to spend time with his IRL family](https://www.polygon.com/23643511/twitch-ceo-stepping-down-emmett-shear-16-years)
- - [These 5 Retro Games Hold Up Even Without The Nostalgia](https://kotaku.com/best-retro-video-games-n64-zelda-resident-evil-xbox-1850234276)<!-- GAME:END -->
+ - [Steam Decks are on sale for 10% off right now](https://www.pcgamer.com/steam-decks-are-on-sale-for-10-off-right-now)
+ - [The Future Games Show Spring Showcase airs next week with over 45 games](https://www.pcgamer.com/the-future-games-show-spring-showcase-airs-next-week-with-over-45-games)
+ - [All Fire Emblem Games Ranked From Worst To Best](https://kotaku.com/fire-emblem-games-ranked-three-houses-engage-awakening-1850234583)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
