@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This way to start a fire](http://9gag.com/gag/aMEd7OR)
- - ⏩ [Scary isn&#39;t it?](http://9gag.com/gag/a5XV0nN)
- - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
+ - ⏩ [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - 👉 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)<!-- MEMES:END -->
 
 ---
 
