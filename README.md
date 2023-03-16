@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)
+ - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
  - ⏩ [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 👉 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
+ - 👉 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)<!-- MEMES:END -->
 
 ---
 
