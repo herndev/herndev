@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin pauses Matter support in smart home devices](https://appleinsider.com/articles/23/03/16/belkin-pauses-matter-support-in-smart-home-devices?utm_medium=rss)
- - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)
- - [Parker, which offers a corporate credit card for e-commerce brands doing $3M to $100M in annual sales, emerges from stealth with $37M in equity and $120M debt &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230316/p21#a230316p21)<!-- TECH:END -->
+ - [Microsoft Office for Mac is on sale for $49.99, a discount of 80% off retail](https://appleinsider.com/articles/23/03/16/microsoft-office-for-mac-is-on-sale-for-4999-a-discount-of-80-off-retail?utm_medium=rss)
+ - [Twitch CEO Emmett Shear plans to step down after 16 years at the company, replaced by president Dan Clancy; Shear is one of the original founders of Justin.tv &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p25#a230316p25)
+ - [The 7 Best Mirrorless Cameras &lpar;2023&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
