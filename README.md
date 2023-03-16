@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung&#39;s planned chip plant in Taylor, Texas, will now cost over $25B, up from its $8B initial forecasts, due to inflation and rising material costs &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p16#a230316p16)
- - [BenQ PD2725U review: Not even close to a Studio Display substitute](https://appleinsider.com/articles/23/03/16/benq-pd2725u-review-not-even-close-to-a-studio-display-substitute?utm_medium=rss)
- - [TikTok CEO Shou Zi Chew says divesting from ByteDance won&#39;t fix US concerns, rules out an IPO, and claims the app is unprofitable due to data security spending &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/230316/p15#a230316p15)<!-- TECH:END -->
+ - [Apple TV+ baseball fans will get live looks into bad call appeals](https://appleinsider.com/articles/23/03/16/apple-tv-baseball-fans-will-get-live-looks-into-bad-call-appeals?utm_medium=rss)
+ - [NYC-based Via plans to acquire London-based Citymapper, which has ~50M users and raised ~$60M; sources say investors are mostly not making their money back &lpar;TechCrunch&rpar;](http://www.techmeme.com/230316/p19#a230316p19)
+ - [Deals: $250 off M2 Max MacBook Pro, 75% off iPhone Leather Case, up to $1,500 off Samsung Bespoke refrigerators &amp; more](https://appleinsider.com/articles/23/03/16/deals-250-off-m2-max-macbook-pro-75-off-iphone-leather-case-up-to-1500-off-samsung-bespoke-refrigerators-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
