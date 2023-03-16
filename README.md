@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
- - [Samsung Galaxy A14 5G vs Galaxy A12: Which is the better buy?](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/)
- - [7 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Copyright Office says protections for AI-assisted artistic works depend on whether AI&#39;s contributions reflect the author&#39;s &quot;own mental conception&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230315/p40#a230315p40)
+ - [Match Group’s CEO says he spent $50K in three months on Clash of Clans](https://www.theverge.com/2023/3/15/23642400/match-ceo-50000-clash-of-clans-tinder)
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
