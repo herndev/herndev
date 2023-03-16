@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Permanently Bans Judge For Transphobic Harassment](https://kotaku.com/pokemon-tcg-judge-ban-transphobia-vancouver-1850232959)
- - [Fans Dunk On FIFA Promising New Soccer &#39;egame&#39;](https://kotaku.com/fifa-24-ea-sports-fc-gianni-infantino-world-cup-2026-1850232908)
- - [Making like a tree is expensive with this all-wood wireless keyboard from Japan](https://www.pcgamer.com/making-like-a-tree-is-expensive-with-this-all-wood-wireless-keyboard-from-japan)<!-- GAME:END -->
+ - [Despite Scandals, Vince McMahon Will Be Playable In WWE 2K23](https://kotaku.com/wwe-2k23-vince-mcmahon-playable-scandal-allegations-1850233314)
+ - [Evil Dead Rise is a movie for sickos by sickos](https://www.polygon.com/reviews/23643237/evil-dead-rise-review-sxsw-deadites)
+ - [Logitech G FITS](https://www.pcgamer.com/logitech-g-fits-gaming-earbuds-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
