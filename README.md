@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh lawd he sittin](http://9gag.com/gag/ay2qwnY)
- - ⏩ [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
- - 👉 [Those blackies](http://9gag.com/gag/a1P7jWv)<!-- MEMES:END -->
+ - 💣 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - ⏩ [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
+ - 👉 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
 
 ---
 
