@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Me paul](http://9gag.com/gag/avQW4nE)
- - ⏩ [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
- - 👉 [Trust the process guys](http://9gag.com/gag/a1P7nWP)<!-- MEMES:END -->
+ - ⏩ [It will be nice they said](http://9gag.com/gag/aWGp34A)
+ - 👉 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
 
 ---
 
