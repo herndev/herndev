@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might give the Pixel 8 a Video Unblur tool](https://www.androidauthority.com/pixel-video-unblur-3299191/)
- - [Pornhub owner MindGeek is acquired by PE firm Ethical Capital Partners; MindGeek had $460M in 2018 revenue, and sources say it had ~50% profit margins at times &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230316/p33#a230316p33)
- - [The next Motorola Razr might have a laughably small battery](https://www.androidauthority.com/motorola-razr-plus-3299200/)<!-- TECH:END -->
+ - [Twitter starts showing the number of times a tweet has been bookmarked, initially for iOS users, with plans to expand &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230316/p34#a230316p34)
+ - [How to Watch &#39;Everything Everywhere All at Once&#39; and More 2023 Oscar Winners     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-everything-everywhere-and-more-2023-oscar-winners/#ftag=CAD590a51e)
+ - [The Best Printers, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/tech/computing/the-best-printers-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
