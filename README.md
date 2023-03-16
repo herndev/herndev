@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Biden administration is demanding that TikTok&#39;s Chinese owners sell their stakes in the company or face a possible US ban of the app &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p38#a230315p38)
- - [Android 13 QPR3 Beta 1 is rolling out today](https://www.androidauthority.com/android-13-qpr3-beta-3298832/)
- - [Studio Display 16.4 beta 4 firmware now available](https://appleinsider.com/articles/23/03/15/studio-display-164-beta-4-firmware-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX launches Starlink Roam, a rebranding of Starlink RV, offering global satellite internet service for $200/month and a regional option for $150/month &lpar;The Verge&rpar;](http://www.techmeme.com/230315/p39#a230315p39)
+ - [Police take down ChipMixer service tied to stolen crypto from FTX, Axie Infinity hacks](https://www.theverge.com/2023/3/15/23641758/fbi-chipmixer-crypto-tumbler-takedown-money-laundering)
+ - [The Silicon Valley Bank fallout is just beginning](https://www.theverge.com/2023/3/15/23642246/silicon-valley-bank-fallout-thiel-capital-uncertainty-vc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
