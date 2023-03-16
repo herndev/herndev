@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI allowed the Alignment Research Center, a nonprofit founded by its ex-employee, to assess the potential risks of GPT-4 including power-seeking behavior &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230315/p43#a230315p43)
- - [Experts criticize OpenAI for not disclosing GPT-4&#39;s training data or methods used; OpenAI co-founder says its past approach to openly sharing research was wrong &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230315/p42#a230315p42)
- - [Sources: Russia&#39;s hacking unit Sandworm is led by Evgenii Serebriakov, who was convicted for a close-range cyberespionage operation in the Netherlands in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230315/p41#a230315p41)<!-- TECH:END -->
+ - [Sources: Foxconn will make AirPods for the first time and plans to invest $200M+ in a plant in Telangana, India; a source says Apple wanted production in India &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/230316/p2#a230316p2)
+ - [An FTX filing in its Chapter 11 case describes $3.2B+ in payments and loans to founders, chiefly from Alameda Research, including ~$2.2B to Sam Bankman-Fried &lpar;FTX&rpar;](http://www.techmeme.com/230316/p1#a230316p1)
+ - [Samsung in hot soup over ‘fake’ moon shots &lpar;Updated: Samsung response&rpar;](https://www.androidauthority.com/samsung-fake-space-zoom-moon-images-3295501/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
