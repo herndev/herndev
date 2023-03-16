@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to reset HomePod and HomePod mini](https://appleinsider.com/inside/homepod/tips/how-to-reset-homepod-and-homepod-mini?utm_medium=rss)
- - [Snapchat’s new parental controls aim to protect minors from sensitive content](https://www.theverge.com/2023/3/16/23642797/snapchat-family-center-parental-control-content-filter)
- - [Q&amp;A with Signature Bank board member Barney Frank on the bank&#39;s downfall, the impact on crypto, weakening Dodd-Frank in 2018, tougher regulation, and more &lpar;Jen Wieczner/New York Magazine&rpar;](http://www.techmeme.com/230316/p13#a230316p13)<!-- TECH:END -->
+ - [Sources: Samsung&#39;s planned chip plant in Taylor, Texas, will now cost over $25B, up from its $8B initial forecasts, due to inflation and rising material costs &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p16#a230316p16)
+ - [BenQ PD2725U review: Not even close to a Studio Display substitute](https://appleinsider.com/articles/23/03/16/benq-pd2725u-review-not-even-close-to-a-studio-display-substitute?utm_medium=rss)
+ - [TikTok CEO Shou Zi Chew says divesting from ByteDance won&#39;t fix US concerns, rules out an IPO, and claims the app is unprofitable due to data security spending &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/230316/p15#a230316p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
