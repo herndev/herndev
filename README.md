@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is real masculinity yall.](http://9gag.com/gag/aEqM5MG)
- - ⏩ [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - 👉 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)<!-- MEMES:END -->
+ - 💣 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - ⏩ [There are three dogs!!!](http://9gag.com/gag/a7q8xbx)
+ - 👉 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
 
 ---
 
