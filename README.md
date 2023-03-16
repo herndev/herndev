@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [32 years later, Toxic Crusaders is getting a new beat &#39;em up](https://www.pcgamer.com/32-years-later-toxic-crusaders-is-getting-a-new-beat-em-up)
  - [Cyberpunk 2077 Mod Gives Night City An Even More HD Makeover](https://kotaku.com/cyberpunk-2077-pc-mod-hd-halkhogan-cdpr-texture-1850230975)
- - [Board Games Aren&#39;t Great For The Environment](https://kotaku.com/board-games-environment-climate-change-ethical-sourcing-1850227150)
- - [Halo Infinite&#39;s new update is good &lpar;now do it again&rpar;](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)<!-- GAME:END -->
+ - [Board Games Aren&#39;t Great For The Environment](https://kotaku.com/board-games-environment-climate-change-ethical-sourcing-1850227150)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
