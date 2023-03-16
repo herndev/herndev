@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Foxconn will make AirPods for the first time and plans to invest $200M+ in a plant in Telangana, India; a source says Apple wanted production in India &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/230316/p2#a230316p2)
- - [An FTX filing in its Chapter 11 case describes $3.2B+ in payments and loans to founders, chiefly from Alameda Research, including ~$2.2B to Sam Bankman-Fried &lpar;FTX&rpar;](http://www.techmeme.com/230316/p1#a230316p1)
- - [Samsung in hot soup over ‘fake’ moon shots &lpar;Updated: Samsung response&rpar;](https://www.androidauthority.com/samsung-fake-space-zoom-moon-images-3295501/)<!-- TECH:END -->
+ - [Oppo gives Find X6 series an official launch date](https://www.androidauthority.com/oppo-find-x6-launch-3298888/)
+ - [The US DOJ is probing whether the use of a predictive child welfare algorithm in Pennsylvania&#39;s Allegheny County discriminates against parents with disabilities &lpar;Associated Press&rpar;](http://www.techmeme.com/230316/p3#a230316p3)
+ - [Huawei’s Galaxy Z Fold rival with satellite connectivity is coming this month](https://www.androidauthority.com/huawei-mate-x3-3298874/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
