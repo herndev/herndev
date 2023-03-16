@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Federal Reserve plans to activate its real-time FedNow Service payments system in July, seeking to improve clearing transactions between institutions &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230316/p11#a230316p11)
- - [TSMC founder Morris Chang says chip industry globalization &quot;is dead&quot; and he &quot;agrees&quot; with US embargoes on China&#39;s chip sector, which is five years behind Taiwan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230316/p10#a230316p10)
- - [Apple&#39;s AR headset operating system referenced in code](https://appleinsider.com/articles/23/03/15/apple-open-source-code-on-github-references-realityos?utm_medium=rss)<!-- TECH:END -->
+ - [How to reset HomePod and HomePod mini](https://appleinsider.com/inside/homepod/tips/how-to-reset-homepod-and-homepod-mini?utm_medium=rss)
+ - [Snapchat’s new parental controls aim to protect minors from sensitive content](https://www.theverge.com/2023/3/16/23642797/snapchat-family-center-parental-control-content-filter)
+ - [Q&amp;A with Signature Bank board member Barney Frank on the bank&#39;s downfall, the impact on crypto, weakening Dodd-Frank in 2018, tougher regulation, and more &lpar;Jen Wieczner/New York Magazine&rpar;](http://www.techmeme.com/230316/p13#a230316p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
