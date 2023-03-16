@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - 💣 [&#39;Pretends to be shocked&#39;](http://9gag.com/gag/aqeRwoY)
  - ⏩ [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
- - 👉 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
+ - 👉 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)<!-- MEMES:END -->
 
 ---
 
