@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - ⏩ [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
- - 👉 [Series ratings through time](http://9gag.com/gag/aoKWwAn)<!-- MEMES:END -->
+ - 💣 [Me paul](http://9gag.com/gag/avQW4nE)
+ - ⏩ [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 👉 [Trust the process guys](http://9gag.com/gag/a1P7nWP)<!-- MEMES:END -->
 
 ---
 
