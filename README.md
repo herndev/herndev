@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
  - [Samsung Galaxy A14 5G vs Galaxy A12: Which is the better buy?](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/)
- - [7 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)
- - [How AI Will Change Big Tech&#39;s Relationship with Journalism     - CNET](https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
