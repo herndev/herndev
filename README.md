@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This way to start a fire](http://9gag.com/gag/aMEd7OR)
- - ⏩ [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - 👉 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)<!-- MEMES:END -->
+ - 💣 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - ⏩ [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
+ - 👉 [Series ratings through time](http://9gag.com/gag/aoKWwAn)<!-- MEMES:END -->
 
 ---
 
