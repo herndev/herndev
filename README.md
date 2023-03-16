@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Copyright Office says protections for AI-assisted artistic works depend on whether AI&#39;s contributions reflect the author&#39;s &quot;own mental conception&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230315/p40#a230315p40)
- - [Match Group’s CEO says he spent $50K in three months on Clash of Clans](https://www.theverge.com/2023/3/15/23642400/match-ceo-50000-clash-of-clans-tinder)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI allowed the Alignment Research Center, a nonprofit founded by its ex-employee, to assess the potential risks of GPT-4 including power-seeking behavior &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230315/p43#a230315p43)
+ - [Experts criticize OpenAI for not disclosing GPT-4&#39;s training data or methods used; OpenAI co-founder says its past approach to openly sharing research was wrong &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230315/p42#a230315p42)
+ - [Sources: Russia&#39;s hacking unit Sandworm is led by Evgenii Serebriakov, who was convicted for a close-range cyberespionage operation in the Netherlands in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230315/p41#a230315p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
