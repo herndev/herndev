@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)
- - ⏩ [The new type of SQL injection](http://9gag.com/gag/amAWZLo)
- - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
+ - 💣 [Have a nice day](http://9gag.com/gag/axoWnXn)
+ - ⏩ [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - 👉 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)<!-- MEMES:END -->
 
 ---
 
