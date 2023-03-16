@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ baseball fans will get live looks into bad call appeals](https://appleinsider.com/articles/23/03/16/apple-tv-baseball-fans-will-get-live-looks-into-bad-call-appeals?utm_medium=rss)
- - [NYC-based Via plans to acquire London-based Citymapper, which has ~50M users and raised ~$60M; sources say investors are mostly not making their money back &lpar;TechCrunch&rpar;](http://www.techmeme.com/230316/p19#a230316p19)
- - [Deals: $250 off M2 Max MacBook Pro, 75% off iPhone Leather Case, up to $1,500 off Samsung Bespoke refrigerators &amp; more](https://appleinsider.com/articles/23/03/16/deals-250-off-m2-max-macbook-pro-75-off-iphone-leather-case-up-to-1500-off-samsung-bespoke-refrigerators-more?utm_medium=rss)<!-- TECH:END -->
+ - [Belkin pauses Matter support in smart home devices](https://appleinsider.com/articles/23/03/16/belkin-pauses-matter-support-in-smart-home-devices?utm_medium=rss)
+ - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)
+ - [Parker, which offers a corporate credit card for e-commerce brands doing $3M to $100M in annual sales, emerges from stealth with $37M in equity and $120M debt &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230316/p21#a230316p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
