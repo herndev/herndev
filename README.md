@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: five days after seizing SVB, the FDIC has conducted a stop-and-start auction process, failing so far to find a willing buyer for all of SVB&#39;s assets &lpar;New York Times&rpar;](http://www.techmeme.com/230316/p8#a230316p8)
- - [Apple holds premiere for climate change drama &#39;Extrapolations&#39;](https://appleinsider.com/articles/23/03/16/apple-holds-premiere-for-climate-change-drama-extrapolations?utm_medium=rss)
- - [An interview with Dave Winer, who was instrumental in the creation and evolution of RSS, on Google Reader&#39;s demise, support for RSS feeds on Mastodon, and more &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230316/p7#a230316p7)<!-- TECH:END -->
+ - [The US Federal Reserve plans to activate its real-time FedNow Service payments system in July, seeking to improve clearing transactions between institutions &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230316/p11#a230316p11)
+ - [TSMC founder Morris Chang says chip industry globalization &quot;is dead&quot; and he &quot;agrees&quot; with US embargoes on China&#39;s chip sector, which is five years behind Taiwan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230316/p10#a230316p10)
+ - [Apple&#39;s AR headset operating system referenced in code](https://appleinsider.com/articles/23/03/15/apple-open-source-code-on-github-references-realityos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
