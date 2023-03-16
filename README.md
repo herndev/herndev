@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Killer r\u00fcns outta court](http://9gag.com/gag/aqeROxj)
- - ⏩ [Trust the process guys](http://9gag.com/gag/a1P7nWP)
- - 👉 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
+ - 💣 [Oh lawd he sittin](http://9gag.com/gag/ay2qwnY)
+ - ⏩ [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
+ - 👉 [Those blackies](http://9gag.com/gag/a1P7jWv)<!-- MEMES:END -->
 
 ---
 
