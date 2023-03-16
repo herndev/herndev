@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer who got busted with deepfake porn of other streamers is now crusading against deepfake porn](https://www.pcgamer.com/streamer-who-got-busted-with-deepfake-porn-of-other-streamers-is-now-crusading-against-deepfake-porn)
- - [Razer would very much like you to not set fires or bash anyone over the head with its &#39;first-ever glass gaming mouse mat&#39;](https://www.pcgamer.com/razer-would-very-much-like-you-to-not-set-fires-or-bash-anyone-over-the-head-with-its-first-ever-glass-gaming-mouse-mat)
- - [Inspired By Modders, Valve Releases Offical Steam Deck Start-Up Movies](https://kotaku.com/valve-steam-deck-update-custom-boot-start-up-movies-pc-1850234940)<!-- GAME:END -->
+ - [Hyper Light Breaker trailer shows off first gameplay in &#39;infinite open worlds&#39;](https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds)
+ - [Film Critic Who Loves Tetris Movie Had Never Heard Of Tetris](https://kotaku.com/never-heard-tetris-game-film-critic-review-pete-hammond-1850235190)
+ - [Quest for Glory&#39;s creators are about to release their first visual novel](https://www.pcgamer.com/quest-for-glorys-creators-are-about-to-release-their-first-visual-novel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
