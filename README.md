@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 D&amp;D classics including Spelljammer and a Silver Box bundle are headed to Steam and GOG](https://www.pcgamer.com/8-dandd-classics-including-spelljammer-and-a-silver-box-bundle-are-headed-to-steam-and-gog)
- - [Veteran Games, Anime Composer Arrested For Sexually Assaulting Teenage Girl](https://kotaku.com/hidekazu-tanaka-anime-composer-assault-charge-pokemon-1850230490)
- - [It’s Time to Party with Modern Warfare II](https://news.xbox.com/en-us/2023/03/15/party-with-modern-warfare-2-season-2-reloaded/)<!-- GAME:END -->
+ - [Star Citizen Has Had A Week To Forget](https://kotaku.com/star-citizen-update-crash-error-down-bugs-3-18-rsi-pc-1850230452)
+ - [Upcoming Lego Star Wars Set Finally Gives Mando A Good Darksaber](https://kotaku.com/lego-star-wars-mando-mandalorian-new-darksaber-disney-1850230456)
+ - [Ghostwire: Tokyo is getting an expanded campaign, a roguelite mode, and a dodge button](https://www.pcgamer.com/ghostwire-tokyo-is-getting-an-expanded-campaign-a-roguelite-mode-and-a-dodge-button)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
