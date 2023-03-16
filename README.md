@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Across the Spider-Verse composer aims to ‘outdo’ original with opera, punk rock, and ‘crazy sound design’](https://www.polygon.com/23641466/spider-man-into-across-spider-verse-music-concert-sequel)
  - [Season Nine Arrives as Sea of Thieves Celebrates Five Years at Sea](https://news.xbox.com/en-us/2023/03/16/sea-of-thieves-season-9/)
- - [John Cena’s Action Figure Skin In WWE 2K23 Is Some Truly Cursed Stuff](https://kotaku.com/john-cena-wwe-2k23-action-figure-card-toy-skin-cursed-1850233520)
- - [Stranger of Paradise: Final Fantasy Origin comes to Steam with a discount next month](https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-comes-to-steam-with-a-discount-next-month)<!-- GAME:END -->
+ - [Shadow and Bone season 2 makes some wild changes to the books](https://www.polygon.com/23641787/shadow-bone-season-2-alina-mal-shipping-darkling-ending-book-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
