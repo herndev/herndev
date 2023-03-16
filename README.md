@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - ⏩ [Series ratings through time](http://9gag.com/gag/aoKWwAn)
- - 👉 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
+ - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - ⏩ [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
+ - 👉 [Goodbye TikTok! &lpar;U.K.&rpar;](http://9gag.com/gag/aZDnORV)<!-- MEMES:END -->
 
 ---
 
