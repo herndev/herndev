@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us is not a love story](https://www.polygon.com/23638404/last-us-finale-review-love-season)
- - [Nintendo expands Switch Online library with more Game Boy classics and Kirby](https://www.polygon.com/2023/3/16/23642900/nintendo-switch-online-march-2023-games)
- - [The Tetris movie doesn’t do its story justice](https://www.polygon.com/reviews/23642325/tetris-movie-review-apple-tv-plus)<!-- GAME:END -->
+ - [The Sims 4 Glitch Turns Infants Into Horrifying, Long-Legged Monsters](https://kotaku.com/the-sims-4-infant-glitch-bug-long-legs-growing-together-1850232465)
+ - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)
+ - [Of course The Sims 4’s baby update has a deeply cursed glitch](https://www.polygon.com/23642963/the-sims-4-growing-together-babies-update-bug)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
