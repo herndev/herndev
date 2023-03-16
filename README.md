@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The deeper I dig into roguelike Have a Nice Death, the less value I find](https://www.polygon.com/reviews/23641847/have-a-nice-death-review-roguelike-release-date-steam-nintendo-switch-windows-pc)
- - [The Redfall story trailer shows us what’s at stake](https://www.polygon.com/23641749/redfall-story-trailer-release-vampires)
- - [Yippee, a motherboard that&#39;ll fit Corsair&#39;s ridiculous 192GB DDR5 RAM kit](https://www.pcgamer.com/yippee-a-motherboard-thatll-fit-corsairs-ridiculous-192gb-ddr5-ram-kit)<!-- GAME:END -->
+ - [The Last of Us is not a love story](https://www.polygon.com/23638404/last-us-finale-review-love-season)
+ - [Nintendo expands Switch Online library with more Game Boy classics and Kirby](https://www.polygon.com/2023/3/16/23642900/nintendo-switch-online-march-2023-games)
+ - [The Tetris movie doesn’t do its story justice](https://www.polygon.com/reviews/23642325/tetris-movie-review-apple-tv-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
