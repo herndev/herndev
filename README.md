@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Glitch Turns Infants Into Horrifying, Long-Legged Monsters](https://kotaku.com/the-sims-4-infant-glitch-bug-long-legs-growing-together-1850232465)
- - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)
- - [Of course The Sims 4’s baby update has a deeply cursed glitch](https://www.polygon.com/23642963/the-sims-4-growing-together-babies-update-bug)<!-- GAME:END -->
+ - [Pokémon TCG Permanently Bans Judge For Transphobic Harassment](https://kotaku.com/pokemon-tcg-judge-ban-transphobia-vancouver-1850232959)
+ - [Fans Dunk On FIFA Promising New Soccer &#39;egame&#39;](https://kotaku.com/fifa-24-ea-sports-fc-gianni-infantino-world-cup-2026-1850232908)
+ - [Making like a tree is expensive with this all-wood wireless keyboard from Japan](https://www.pcgamer.com/making-like-a-tree-is-expensive-with-this-all-wood-wireless-keyboard-from-japan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
