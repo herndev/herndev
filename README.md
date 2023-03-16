@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Fitness Apps for 2023     - CNET](https://www.cnet.com/health/fitness/best-fitness-workout-apps/#ftag=CAD590a51e)
  - [CISA and FBI: hackers used vulnerabilities in Progress Telerik products to gain access to an unnamed US federal agency&#39;s server from August 2022 to January 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230316/p4#a230316p4)
- - [Oppo gives Find X6 series an official launch date](https://www.androidauthority.com/oppo-find-x6-launch-3298888/)
- - [The US DOJ is probing whether the use of a predictive child welfare algorithm in Pennsylvania&#39;s Allegheny County discriminates against parents with disabilities &lpar;Associated Press&rpar;](http://www.techmeme.com/230316/p3#a230316p3)<!-- TECH:END -->
+ - [Oppo gives Find X6 series an official launch date](https://www.androidauthority.com/oppo-find-x6-launch-3298888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
