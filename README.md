@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite Scandals, Vince McMahon Will Be Playable In WWE 2K23](https://kotaku.com/wwe-2k23-vince-mcmahon-playable-scandal-allegations-1850233314)
- - [Evil Dead Rise is a movie for sickos by sickos](https://www.polygon.com/reviews/23643237/evil-dead-rise-review-sxsw-deadites)
- - [Logitech G FITS](https://www.pcgamer.com/logitech-g-fits-gaming-earbuds-review)<!-- GAME:END -->
+ - [Season Nine Arrives as Sea of Thieves Celebrates Five Years at Sea](https://news.xbox.com/en-us/2023/03/16/sea-of-thieves-season-9/)
+ - [John Cena’s Action Figure Skin In WWE 2K23 Is Some Truly Cursed Stuff](https://kotaku.com/john-cena-wwe-2k23-action-figure-card-toy-skin-cursed-1850233520)
+ - [Stranger of Paradise: Final Fantasy Origin comes to Steam with a discount next month](https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-comes-to-steam-with-a-discount-next-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
