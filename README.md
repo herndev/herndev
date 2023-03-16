@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #635: Thursday, March 16](https://www.pcgamer.com/wordle-hint-answer-today-635-march-16)
- - [Asus&#39;s new motherboard hides ports on the back for cable management](https://www.pcgamer.com/asuss-new-motherboard-hides-ports-on-the-back-for-cable-management)
- - [32 years later, Toxic Crusaders is getting a new beat &#39;em up](https://www.pcgamer.com/32-years-later-toxic-crusaders-is-getting-a-new-beat-em-up)<!-- GAME:END -->
+ - [The deeper I dig into roguelike Have a Nice Death, the less value I find](https://www.polygon.com/reviews/23641847/have-a-nice-death-review-roguelike-release-date-steam-nintendo-switch-windows-pc)
+ - [The Redfall story trailer shows us what’s at stake](https://www.polygon.com/23641749/redfall-story-trailer-release-vampires)
+ - [Yippee, a motherboard that&#39;ll fit Corsair&#39;s ridiculous 192GB DDR5 RAM kit](https://www.pcgamer.com/yippee-a-motherboard-thatll-fit-corsairs-ridiculous-192gb-ddr5-ram-kit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
