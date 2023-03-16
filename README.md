@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me paul](http://9gag.com/gag/avQW4nE)
- - ⏩ [It will be nice they said](http://9gag.com/gag/aWGp34A)
- - 👉 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
+ - 💣 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)
+ - ⏩ [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
+ - 👉 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
 
 ---
 
