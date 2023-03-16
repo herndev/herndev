@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day](http://9gag.com/gag/axoWnXn)
- - ⏩ [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
- - 👉 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)<!-- MEMES:END -->
+ - 💣 [This way to start a fire](http://9gag.com/gag/aMEd7OR)
+ - ⏩ [Scary isn&#39;t it?](http://9gag.com/gag/a5XV0nN)
+ - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 ---
 
