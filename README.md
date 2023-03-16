@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Across the Spider-Verse composer aims to ‘outdo’ original with opera, punk rock, and ‘crazy sound design’](https://www.polygon.com/23641466/spider-man-into-across-spider-verse-music-concert-sequel)
- - [Season Nine Arrives as Sea of Thieves Celebrates Five Years at Sea](https://news.xbox.com/en-us/2023/03/16/sea-of-thieves-season-9/)
- - [Shadow and Bone season 2 makes some wild changes to the books](https://www.polygon.com/23641787/shadow-bone-season-2-alina-mal-shipping-darkling-ending-book-changes)<!-- GAME:END -->
+ - [Shroud and Sacriel are making a new survival game with Splash Damage](https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage)
+ - [Twitch’s CEO is stepping down to spend time with his IRL family](https://www.polygon.com/23643511/twitch-ceo-stepping-down-emmett-shear-16-years)
+ - [These 5 Retro Games Hold Up Even Without The Nostalgia](https://kotaku.com/best-retro-video-games-n64-zelda-resident-evil-xbox-1850234276)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
