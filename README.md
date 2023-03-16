@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clippy evolved: New &#39;Microsoft 365 Copilot&#39; uses AI for text creation](https://appleinsider.com/articles/23/03/16/clippy-evolved-new-microsoft-365-copilot-uses-ai-for-text-creation?utm_medium=rss)
- - [Microsoft details Business Chat, part of 365 Copilot, which can summarize meetings, recent customer contacts, calendar entries, and more, similar to Bing&#39;s AI &lpar;The Verge&rpar;](http://www.techmeme.com/230316/p27#a230316p27)
- - [You can own a Google Pixel 7a prototype for just $2,550 &lpar;as of now, anyway&rpar;](https://www.androidauthority.com/google-pixel-7a-prototype-3299092/)<!-- TECH:END -->
+ - [iPhone vs Android: Two different photography and machine learning approaches](https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches?utm_medium=rss)
+ - [TikTok claims US is threatening a ban if it doesn’t divest from ByteDance](https://www.androidauthority.com/tiktok-us-ban-2-3299082/)
+ - [The Steam Deck is on sale for the first time ever](https://www.theverge.com/2023/3/16/23643413/valve-steam-deck-first-sale-ten-percent-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
