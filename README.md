@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)
+ - 💣 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)
  - ⏩ [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
- - 👉 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
+ - 👉 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
 
 ---
 
