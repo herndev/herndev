@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX launches Starlink Roam, a rebranding of Starlink RV, offering global satellite internet service for $200/month and a regional option for $150/month &lpar;The Verge&rpar;](http://www.techmeme.com/230315/p39#a230315p39)
- - [Police take down ChipMixer service tied to stolen crypto from FTX, Axie Infinity hacks](https://www.theverge.com/2023/3/15/23641758/fbi-chipmixer-crypto-tumbler-takedown-money-laundering)
- - [The Silicon Valley Bank fallout is just beginning](https://www.theverge.com/2023/3/15/23642246/silicon-valley-bank-fallout-thiel-capital-uncertainty-vc)<!-- TECH:END -->
+ - [Samsung Galaxy A14 5G vs Galaxy A12: Which is the better buy?](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/)
+ - [7 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)
+ - [How AI Will Change Big Tech&#39;s Relationship with Journalism     - CNET](https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
