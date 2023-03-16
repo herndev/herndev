@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are three dogs!!!](http://9gag.com/gag/a7q8xbx)
- - ⏩ [Series ratings through time](http://9gag.com/gag/aoKWwAn)
- - 👉 [The new type of SQL injection](http://9gag.com/gag/amAWZLo)<!-- MEMES:END -->
+ - 💣 [This is real masculinity yall.](http://9gag.com/gag/aEqM5MG)
+ - ⏩ [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - 👉 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)<!-- MEMES:END -->
 
 ---
 
