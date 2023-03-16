@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - ⏩ [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
- - 👉 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)<!-- MEMES:END -->
+ - 💣 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)
+ - ⏩ [The new type of SQL injection](http://9gag.com/gag/amAWZLo)
+ - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 ---
 
