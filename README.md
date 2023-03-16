@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu announces its Ernie Bot in a pre-recorded video, with founder Robin Li talking over a scripted video of interactions with the AI; BIDU drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230316/p6#a230316p6)
- - [Counterpoint: Xiaomi&#39;s focus on sub-$120 phones in India helped Samsung take the top spot; market share for sub-$120 phones fell to 26% in 2022 from 41% in 2020 &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p5#a230316p5)
- - [Daily Authority: 🌕 Samsung’s response to moon shenanigans](https://www.androidauthority.com/daily-authority-march-16-2023-3294661/)<!-- TECH:END -->
+ - [Sources: five days after seizing SVB, the FDIC has conducted a stop-and-start auction process, failing so far to find a willing buyer for all of SVB&#39;s assets &lpar;New York Times&rpar;](http://www.techmeme.com/230316/p8#a230316p8)
+ - [Apple holds premiere for climate change drama &#39;Extrapolations&#39;](https://appleinsider.com/articles/23/03/16/apple-holds-premiere-for-climate-change-drama-extrapolations?utm_medium=rss)
+ - [An interview with Dave Winer, who was instrumental in the creation and evolution of RSS, on Google Reader&#39;s demise, support for RSS feeds on Mastodon, and more &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230316/p7#a230316p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
