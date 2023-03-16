@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;Pretends to be shocked&#39;](http://9gag.com/gag/aqeRwoY)
- - ⏩ [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
- - 👉 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)<!-- MEMES:END -->
+ - 💣 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
+ - ⏩ [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
+ - 👉 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)<!-- MEMES:END -->
 
 ---
 
