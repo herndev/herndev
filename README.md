@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office for Mac is on sale for $49.99, a discount of 80% off retail](https://appleinsider.com/articles/23/03/16/microsoft-office-for-mac-is-on-sale-for-4999-a-discount-of-80-off-retail?utm_medium=rss)
- - [Twitch CEO Emmett Shear plans to step down after 16 years at the company, replaced by president Dan Clancy; Shear is one of the original founders of Justin.tv &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p25#a230316p25)
- - [The 7 Best Mirrorless Cameras &lpar;2023&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
+ - [Clippy evolved: New &#39;Microsoft 365 Copilot&#39; uses AI for text creation](https://appleinsider.com/articles/23/03/16/clippy-evolved-new-microsoft-365-copilot-uses-ai-for-text-creation?utm_medium=rss)
+ - [Microsoft details Business Chat, part of 365 Copilot, which can summarize meetings, recent customer contacts, calendar entries, and more, similar to Bing&#39;s AI &lpar;The Verge&rpar;](http://www.techmeme.com/230316/p27#a230316p27)
+ - [You can own a Google Pixel 7a prototype for just $2,550 &lpar;as of now, anyway&rpar;](https://www.androidauthority.com/google-pixel-7a-prototype-3299092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
