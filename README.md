@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Citizen Has Had A Week To Forget](https://kotaku.com/star-citizen-update-crash-error-down-bugs-3-18-rsi-pc-1850230452)
- - [Upcoming Lego Star Wars Set Finally Gives Mando A Good Darksaber](https://kotaku.com/lego-star-wars-mando-mandalorian-new-darksaber-disney-1850230456)
- - [Ghostwire: Tokyo is getting an expanded campaign, a roguelite mode, and a dodge button](https://www.pcgamer.com/ghostwire-tokyo-is-getting-an-expanded-campaign-a-roguelite-mode-and-a-dodge-button)<!-- GAME:END -->
+ - [Cyberpunk 2077 Mod Gives Night City An Even More HD Makeover](https://kotaku.com/cyberpunk-2077-pc-mod-hd-halkhogan-cdpr-texture-1850230975)
+ - [Board Games Aren&#39;t Great For The Environment](https://kotaku.com/board-games-environment-climate-change-ethical-sourcing-1850227150)
+ - [Halo Infinite&#39;s new update is good &lpar;now do it again&rpar;](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
