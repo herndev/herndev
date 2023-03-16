@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its presentation of the new Copilot features, Microsoft acknowledges their tendency to produce inaccurate responses but says the tech can be &quot;usefully wrong&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230316/p32#a230316p32)
- - [Quick fix: get rid of Android’s Discover page](https://www.theverge.com/23643205/google-discover-android-how-to-delete)
- - [Great, tweets are showing another metric now](https://www.theverge.com/2023/3/16/23643591/twitter-bookmark-counter-silent-likes-elon)<!-- TECH:END -->
+ - [Google might give the Pixel 8 a Video Unblur tool](https://www.androidauthority.com/pixel-video-unblur-3299191/)
+ - [Pornhub owner MindGeek is acquired by PE firm Ethical Capital Partners; MindGeek had $460M in 2018 revenue, and sources say it had ~50% profit margins at times &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230316/p33#a230316p33)
+ - [The next Motorola Razr might have a laughably small battery](https://www.androidauthority.com/motorola-razr-plus-3299200/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
