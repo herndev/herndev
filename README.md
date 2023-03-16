@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CISA and FBI: hackers used vulnerabilities in Progress Telerik products to gain access to an unnamed US federal agency&#39;s server from August 2022 to January 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230316/p4#a230316p4)
  - [Oppo gives Find X6 series an official launch date](https://www.androidauthority.com/oppo-find-x6-launch-3298888/)
- - [The US DOJ is probing whether the use of a predictive child welfare algorithm in Pennsylvania&#39;s Allegheny County discriminates against parents with disabilities &lpar;Associated Press&rpar;](http://www.techmeme.com/230316/p3#a230316p3)
- - [Huawei’s Galaxy Z Fold rival with satellite connectivity is coming this month](https://www.androidauthority.com/huawei-mate-x3-3298874/)<!-- TECH:END -->
+ - [The US DOJ is probing whether the use of a predictive child welfare algorithm in Pennsylvania&#39;s Allegheny County discriminates against parents with disabilities &lpar;Associated Press&rpar;](http://www.techmeme.com/230316/p3#a230316p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
