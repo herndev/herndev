@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi has a serious problem on its hands, according to this data](https://www.androidauthority.com/xiaomi-market-share-india-2023-3299591/)
- - [YouTube lifts restrictions, imposed after the January 6 insurrection, on Trump&#39;s channel after evaluating the &quot;continued risk of real-world violence&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230317/p8#a230317p8)
- - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)<!-- TECH:END -->
+ - [Apple Confluence store in Lyon reopens after refit](https://appleinsider.com/articles/23/03/17/apple-confluence-store-in-lyon-reopens-after-refit?utm_medium=rss)
+ - [You Don’t Have to Be a Jerk to Resist the Bots](https://www.wired.com/story/chatgpt-bots-empathy-psychology/)
+ - [11 ways to power up your gaming on the Xbox Series X / S](https://www.theverge.com/23644702/xbox-gaming-feature-options-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
