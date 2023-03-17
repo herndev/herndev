@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old lady on Americans got talent](http://9gag.com/gag/aXnL15b)
- - ⏩ [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
- - 👉 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
+ - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - ⏩ [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
+ - 👉 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)<!-- MEMES:END -->
 
 ---
 
