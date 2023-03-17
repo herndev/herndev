@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How tech from Synthesia, an AI startup backed by Kleiner Perkins and GV, is being used to make deepfake news videos promoted by Venezuela&#39;s government &lpar;Financial Times&rpar;](http://www.techmeme.com/230317/p17#a230317p17)
- - [Samsung Galaxy A14 5G vs Galaxy A53 5G](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a53-5g-3298326/)
- - [Hidden Systems is the book I’ll use to teach my kids how the internet works](https://www.theverge.com/2023/3/17/23645204/hidden-systems-book-internet-water-power)<!-- TECH:END -->
+ - [Save $100 on the 2022 iPad Air, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Best Home Office Essentials for 2023     - CNET](https://www.cnet.com/tech/computing/home-office-essentials/#ftag=CAD590a51e)
+ - [Diablo 4 Takes Bleakness to a New Level, Which Is Just Fine With Me     - CNET](https://www.cnet.com/tech/gaming/diablo-4-takes-bleakness-to-a-new-level-which-is-just-fine-with-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
