@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyper Light Breaker trailer shows off first gameplay in &#39;infinite open worlds&#39;](https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds)
- - [Film Critic Who Loves Tetris Movie Had Never Heard Of Tetris](https://kotaku.com/never-heard-tetris-game-film-critic-review-pete-hammond-1850235190)
- - [Quest for Glory&#39;s creators are about to release their first visual novel](https://www.pcgamer.com/quest-for-glorys-creators-are-about-to-release-their-first-visual-novel)<!-- GAME:END -->
+ - [Artists Finally Have A Tool To Help Fight Back Against &#39;AI&#39; Platforms](https://kotaku.com/ai-art-images-theft-midjourney-stable-diffusion-glaze-1850235184)
+ - [Rust developer cancels community event due to death threats](https://www.pcgamer.com/rust-event-cancelled)
+ - [After 15 years of development, the &#39;reactive puzzle game&#39; Storyteller is out next week, so here&#39;s a launch trailer](https://www.pcgamer.com/after-15-years-of-development-the-reactive-puzzle-game-storyteller-is-out-next-week-so-heres-a-launch-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
