@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Series ratings through time](http://9gag.com/gag/aoKWwAn)
- - ⏩ [Old lady on Americans got talent](http://9gag.com/gag/aXnL15b)
- - 👉 [Woman tries running out of the store without paying after getting her phone fixes](http://9gag.com/gag/aBdZD8z)<!-- MEMES:END -->
+ - 💣 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
+ - ⏩ [Slap the horse, get the hooves](http://9gag.com/gag/aL1LY1V)
+ - 👉 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
 
 ---
 
