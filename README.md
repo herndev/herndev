@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 20 to 24](https://news.xbox.com/en-us/2023/03/17/next-week-on-xbox-new-games-for-march-20-to-24/)
- - [Resident Evil 4 remake review](https://www.pcgamer.com/resident-evil-4-remake-review)
- - [Shazam! Fury of the Gods’ promises Shazam will return... somehow](https://www.polygon.com/23643092/shazam-2-post-credits-after-scenes-fury-gods)<!-- GAME:END -->
+ - [Stray Souls: The Psychological Horror Game You Didn’t See Coming](https://news.xbox.com/en-us/2023/03/17/stray-souls-the-psychological-horror-game-you-didnt-see-coming/)
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [Today’s Darth Vader would absolutely mulch 1977 Darth Vader in a fight](https://www.polygon.com/star-wars/23643731/darth-vader-a-new-hope-vs-obi-wan-kenobi-who-would-win)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
