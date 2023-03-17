@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
- - ⏩ [Slap the horse, get the hooves](http://9gag.com/gag/aL1LY1V)
- - 👉 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
+ - 💣 [Rare women w](http://9gag.com/gag/aZDnO9z)
+ - ⏩ [Muslims girls outside of the muslim world](http://9gag.com/gag/aXnLDm6)
+ - 👉 [Hurt, daddy&#39;s princess! you be dead!](http://9gag.com/gag/aeQ4X9v)<!-- MEMES:END -->
 
 ---
 
