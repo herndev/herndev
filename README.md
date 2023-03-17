@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon stops selling newspaper and magazine subscriptions for Kindle and print, and plans to shut down Kindle Newsstand in September 2023 &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/230316/p35#a230316p35)
- - [What is GPT-4 and how does it work? ChatGPT’s new model explained](https://www.androidauthority.com/what-is-gpt-4-chatgpt-3299254/)
- - [Get the Pixel 7 with 12-month plan for $289, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Google&#39;s Project Zero finds 18 zero-day vulnerabilities, including four top-severity flaws, affecting some Samsung phones and other devices with Exynos chipsets &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p36#a230316p36)
+ - [Hyperkin’s Xbox 360 controller reissue now has a price and release date](https://www.theverge.com/2023/3/16/23643890/hyperkin-xenon-xbox-360-controller-reissue-remake-price-preorder)
+ - [The FCC wants to get satellite-to-smartphone service rolling](https://www.theverge.com/2023/3/16/23643215/fcc-satellite-to-smartphone-regulation-proposal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
