@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Is About To Blow Wide Open Thanks To The Unreal Editor](https://kotaku.com/fortnite-unreal-editor-release-date-creator-mode-verse-1850237743)
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [The Yakuza Devs Should Cast These Celebs In Their Next Hostess Club Minigame](https://kotaku.com/yakuza-like-a-dragon-gaiden-cabaret-maki-itoh-babybeard-1850237335)<!-- GAME:END -->
+ - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/17/how-life-choices-work-in-the-wreck/)
+ - [Japan&#39;s Zelda: Tears Of The Kingdom Pre-Order Comes With...A Fancy Spoon And Fork?](https://kotaku.com/zelda-botw-2-tears-of-the-kingdom-spoon-japan-amazon-1850237998)
+ - [What a surprise—the Diablo 4 beta test servers are being crushed and people can&#39;t get in](https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
