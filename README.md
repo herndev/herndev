@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says hackers could silently own your phone until Samsung fixes its modems](https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero)
- - [Google Warns Samsung and Pixel Phone Owners About 18 Dire Exploits     - CNET](https://www.cnet.com/tech/mobile/google-warns-samsung-and-pixel-phone-owners-about-18-dire-exploits/#ftag=CAD590a51e)
- - [Google&#39;s Project Zero finds 18 zero-day vulnerabilities, including four top-severity flaws, affecting some Samsung phones and other devices with Exynos chipsets &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p36#a230316p36)<!-- TECH:END -->
+ - [SpectrumAi, which offers tools like EHR for applied behavior analysis therapy for autism patients, raised up to a $20M Series A led by CVS Health Ventures &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230316/p37#a230316p37)
+ - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
+ - [Google Warns Samsung and Pixel Phone Owners About 18 Dire Exploits     - CNET](https://www.cnet.com/tech/mobile/google-warns-samsung-and-pixel-phone-owners-about-18-dire-exploits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
