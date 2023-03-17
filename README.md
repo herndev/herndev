@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
- - ⏩ [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
+ - 💣 [Only creepy if you are unattractive](http://9gag.com/gag/a8qABQO)
+ - ⏩ [Well, his right, you know?...](http://9gag.com/gag/abvePLE)
  - 👉 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)<!-- MEMES:END -->
 
 ---
