@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original iPhone sells for over $50,000 in recent auction](https://appleinsider.com/articles/23/03/17/original-iphone-sells-for-over-50000-in-recent-auction?utm_medium=rss)
- - [HR software startup Rippling raised a $500M Series E at an $11.25B valuation, like its Series D, when SVB froze its deposits, taking its total funding to $1.2B &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230317/p16#a230317p16)
- - [Osmos Plus Expands Into Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/osmos-plus-expands-into-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy A14 5G vs Galaxy A53 5G](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a53-5g-3298326/)
+ - [How to Join the Diablo 4 Beta     - CNET](https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/#ftag=CAD590a51e)
+ - [How to use ChatGPT on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-use-chatgpt-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
