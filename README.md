@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Remake Sounds Like A Repeat Of An All-Time Classic](https://kotaku.com/resident-evil-4-remake-reviews-leon-changes-capcom-1850237544)
- - [Two of the best adventure games of the &#39;90s that you never played are getting remasters](https://www.pcgamer.com/two-of-the-best-adventure-games-of-the-90s-that-you-never-played-are-getting-remasters)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Fortnite Is About To Blow Wide Open Thanks To The Unreal Editor](https://kotaku.com/fortnite-unreal-editor-release-date-creator-mode-verse-1850237743)
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [The Yakuza Devs Should Cast These Celebs In Their Next Hostess Club Minigame](https://kotaku.com/yakuza-like-a-dragon-gaiden-cabaret-maki-itoh-babybeard-1850237335)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
