@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Project Zero finds 18 zero-day vulnerabilities, including four top-severity flaws, affecting some Samsung phones and other devices with Exynos chipsets &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p36#a230316p36)
- - [Hyperkin’s Xbox 360 controller reissue now has a price and release date](https://www.theverge.com/2023/3/16/23643890/hyperkin-xenon-xbox-360-controller-reissue-remake-price-preorder)
- - [The FCC wants to get satellite-to-smartphone service rolling](https://www.theverge.com/2023/3/16/23643215/fcc-satellite-to-smartphone-regulation-proposal)<!-- TECH:END -->
+ - [Google says hackers could silently own your phone until Samsung fixes its modems](https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero)
+ - [Google Warns Samsung and Pixel Phone Owners About 18 Dire Exploits     - CNET](https://www.cnet.com/tech/mobile/google-warns-samsung-and-pixel-phone-owners-about-18-dire-exploits/#ftag=CAD590a51e)
+ - [Google&#39;s Project Zero finds 18 zero-day vulnerabilities, including four top-severity flaws, affecting some Samsung phones and other devices with Exynos chipsets &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p36#a230316p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
