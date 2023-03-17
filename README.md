@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just let your past go](http://9gag.com/gag/aXnLBjz)
+ - 💣 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
  - ⏩ [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
  - 👉 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
