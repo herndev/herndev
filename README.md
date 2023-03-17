@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Threats Lead To Cancellation Of Rust Fan Meeting](https://kotaku.com/rust-pc-survival-game-gdc-death-threats-meeting-cancel-1850235674)
- - [Two Classic 90s Adventure Games Are Getting Unexpected Remakes](https://kotaku.com/twinsen-little-big-adventure-remake-reboot-pc-1850235393)
- - [Artists Finally Have A Tool To Help Fight Back Against &#39;AI&#39; Platforms](https://kotaku.com/ai-art-images-theft-midjourney-stable-diffusion-glaze-1850235184)<!-- GAME:END -->
+ - [New Persona 5 Spinoff Game Announced](https://kotaku.com/persona-5-new-announced-phantom-of-night-p5-p5x-mobile-1850235928)
+ - [Tiny Tina&#39;s Assault on Dragon Keep is free to keep on Steam](https://www.pcgamer.com/tiny-tinas-assault-on-dragon-keep-is-free-to-keep-on-steam)
+ - [Death Threats Lead To Cancellation Of Rust Fan Meeting](https://kotaku.com/rust-pc-survival-game-gdc-death-threats-meeting-cancel-1850235674)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
