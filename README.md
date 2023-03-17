@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - ⏩ [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
- - 👉 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
+ - 💣 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
+ - ⏩ [A sawstop in action](http://9gag.com/gag/a7q8xK2)
+ - 👉 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)<!-- MEMES:END -->
 
 ---
 
