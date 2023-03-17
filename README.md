@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Classic 90s Adventure Games Are Getting Unexpected Remakes](https://kotaku.com/twinsen-little-big-adventure-remake-reboot-pc-1850235393)
  - [Artists Finally Have A Tool To Help Fight Back Against &#39;AI&#39; Platforms](https://kotaku.com/ai-art-images-theft-midjourney-stable-diffusion-glaze-1850235184)
- - [Rust developer cancels community event due to death threats](https://www.pcgamer.com/rust-event-cancelled)
- - [After 15 years of development, the &#39;reactive puzzle game&#39; Storyteller is out next week, so here&#39;s a launch trailer](https://www.pcgamer.com/after-15-years-of-development-the-reactive-puzzle-game-storyteller-is-out-next-week-so-heres-a-launch-trailer)<!-- GAME:END -->
+ - [Rust developer cancels community event due to death threats](https://www.pcgamer.com/rust-event-cancelled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
