@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max may get the world&#39;s thinnest screen bezels](https://appleinsider.com/articles/23/03/17/iphone-15-pro-max-may-get-the-worlds-thinnest-screen-bezels?utm_medium=rss)
- - [Even Foxconn says it&#39;s looking to move away from China](https://appleinsider.com/articles/23/03/15/even-foxconn-says-its-looking-to-move-away-from-china?utm_medium=rss)
- - [Q&amp;A with two of Meta&#39;s leading security experts about its Online Operations Kill Chain, a framework for responding to threat activity like influence operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230317/p4#a230317p4)<!-- TECH:END -->
+ - [Flexispot Sit2Go chair review: A must-have for the office](https://appleinsider.com/articles/23/03/17/flexispot-sit2go-chair-review-a-must-have-for-the-office?utm_medium=rss)
+ - [In Bulgaria, Russian Trolls Are Winning the Information War](https://www.wired.com/story/in-bulgaria-russian-trolls-are-winning-the-information-war/)
+ - [A shortage of skilled workers is impeding Micron&#39;s goal of a chip manufacturing campus in Syracuse, NY, where it plans to invest $100B and hire 9K employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230317/p5#a230317p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
