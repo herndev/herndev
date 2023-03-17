@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rare women w](http://9gag.com/gag/aZDnO9z)
- - ⏩ [Muslims girls outside of the muslim world](http://9gag.com/gag/aXnLDm6)
- - 👉 [Hurt, daddy&#39;s princess! you be dead!](http://9gag.com/gag/aeQ4X9v)<!-- MEMES:END -->
+ - 💣 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
+ - ⏩ [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 👉 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
 ---
 
