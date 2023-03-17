@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Resident Evil 4 remake pulls off the same great trick](https://www.polygon.com/reviews/23643823/resident-evil-4-remake-review-capcom-ps5)
  - [Wordle hint and answer #636: Friday, March 17](https://www.pcgamer.com/wordle-hint-answer-today-636-march-17)
- - [New Persona 5 Spinoff Game Announced](https://kotaku.com/persona-5-new-announced-phantom-of-night-p5-p5x-mobile-1850235928)
- - [Tiny Tina&#39;s Assault on Dragon Keep is free to keep on Steam](https://www.pcgamer.com/tiny-tinas-assault-on-dragon-keep-is-free-to-keep-on-steam)<!-- GAME:END -->
+ - [New Persona 5 Spinoff Game Announced](https://kotaku.com/persona-5-new-announced-phantom-of-night-p5-p5x-mobile-1850235928)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
