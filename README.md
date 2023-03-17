@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - ⏩ [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - 👉 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)<!-- MEMES:END -->
+ - 💣 [Series ratings through time](http://9gag.com/gag/aoKWwAn)
+ - ⏩ [Old lady on Americans got talent](http://9gag.com/gag/aXnL15b)
+ - 👉 [Woman tries running out of the store without paying after getting her phone fixes](http://9gag.com/gag/aBdZD8z)<!-- MEMES:END -->
 
 ---
 
