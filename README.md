@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Here’s what you think of AI-generated moon photos](https://www.androidauthority.com/ai-details-moon-photos-poll-results-3299387/)
  - [Samsung’s new detachable camera accessories for the Galaxy S23 series look hot!](https://www.androidauthority.com/samsung-galaxy-s23-series-camera-accessories-3299388/)
- - [Resident Evil 4 Remake: Small Changes Make a Huge Improvement     - CNET](https://www.cnet.com/tech/gaming/resident-evil-4-remake-small-changes-make-a-huge-improvement/#ftag=CAD590a51e)
- - [Resident Evil 4 remake is a modern blockbuster with an old-school heart](https://www.theverge.com/23642938/resident-evil-4-remake-review-xbox-ps5-steam)<!-- TECH:END -->
+ - [Resident Evil 4 Remake: Small Changes Make a Huge Improvement     - CNET](https://www.cnet.com/tech/gaming/resident-evil-4-remake-small-changes-make-a-huge-improvement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
