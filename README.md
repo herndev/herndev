@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/17/how-life-choices-work-in-the-wreck/)
- - [Japan&#39;s Zelda: Tears Of The Kingdom Pre-Order Comes With...A Fancy Spoon And Fork?](https://kotaku.com/zelda-botw-2-tears-of-the-kingdom-spoon-japan-amazon-1850237998)
- - [What a surprise—the Diablo 4 beta test servers are being crushed and people can&#39;t get in](https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in)<!-- GAME:END -->
+ - [This Week on Xbox: Diablo IV Beta, Valheim, and 100 New Games this Spring](https://news.xbox.com/en-us/2023/03/17/this-week-on-xbox-diablo-iv-beta-valheim-and-100-new-games-this-spring/)
+ - [Take a tour of the Diablo 4 beta character creation options](https://www.pcgamer.com/diablo-4-character-creation)
+ - [Blizzard Bans 120,000 World Of Warcraft Classic Death Knights](https://kotaku.com/wow-classic-world-of-warcraft-death-knight-botting-ban-1850238211)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
