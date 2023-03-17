@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Souls: The Psychological Horror Game You Didn’t See Coming](https://news.xbox.com/en-us/2023/03/17/stray-souls-the-psychological-horror-game-you-didnt-see-coming/)
- - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [Today’s Darth Vader would absolutely mulch 1977 Darth Vader in a fight](https://www.polygon.com/star-wars/23643731/darth-vader-a-new-hope-vs-obi-wan-kenobi-who-would-win)<!-- GAME:END -->
+ - [New McPixel 3 Levels Announced](https://news.xbox.com/en-us/2023/03/17/new-mcpixel-3-levels-announced/)
+ - [11 minutes of the new Layers of Fear shows off all its glitzy, spooky UE5 graphics tech](https://www.pcgamer.com/11-minutes-of-the-new-layers-of-fear-shows-off-all-its-glitzy-spooky-ue5-graphics-tech)
+ - [The Last Of Us Season 2 Better Make Abby Ripped, God Dammit](https://kotaku.com/last-of-us-season-2-abby-casting-shannon-berry-muscles-1850237103)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
