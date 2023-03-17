@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
- - [The Ugly Lessons of Silicon Valley Bank’s Collapse](https://www.wired.com/story/the-ugly-lessons-of-silicon-valley-banks-collapse/)
- - [&#39;The Last of Us&#39; Is Bleak, but It’s the Bleak You Need](https://www.wired.com/story/the-last-of-us-too-bleak/)<!-- TECH:END -->
+ - [Apple&#39;s AI future, Spotify vs. Apple Music, Samsung&#39;s moon controversy](https://appleinsider.com/articles/23/03/17/apples-ai-future-spotify-vs-apple-music-samsungs-moon-controversy?utm_medium=rss)
+ - [Apple Watch capable of pain prediction in sickle cell patients, says study](https://appleinsider.com/articles/23/03/17/apple-watch-capable-of-pain-prediction-in-sickle-cell-patients-says-study?utm_medium=rss)
+ - [Cable vs streaming: Does traditional TV still have something fresh to offer?](https://www.androidauthority.com/cable-vs-streaming-3299040/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
