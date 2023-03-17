@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 beta rewards and how to earn them all](https://www.pcgamer.com/diablo-4-beta-rewards-unlock)
- - [Pedro Pascal&#39;s Most Unhinged Role Might Be For This Game Ad](https://kotaku.com/slug-pedro-pascal-merge-mansion-mobile-game-tiktok-ad-1850238577)
- - [This Week on Xbox: Diablo IV Beta, Valheim, and 100 New Games this Spring](https://news.xbox.com/en-us/2023/03/17/this-week-on-xbox-diablo-iv-beta-valheim-and-100-new-games-this-spring/)<!-- GAME:END -->
+ - [If you’re planning on reading the Grishaverse books, don’t start with Shadow and Bone](https://www.polygon.com/22406182/shadow-and-bone-grishaverse-book-order)
+ - [The Last of Us’ best alternate ending is its musical ending](https://www.polygon.com/2013/8/30/4677466/the-last-of-us-best-alternate-ending-was-its-musical-ending)
+ - [Destiny Players Pay Tribute To Lance Reddick, Their Fallen Commander](https://kotaku.com/destiny-lance-reddick-titan-commander-zavala-guardian-1850238899)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
