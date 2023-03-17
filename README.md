@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tech from Synthesia, an AI startup backed by Kleiner Perkins and GV, is being used to make deepfake news videos promoted by Venezuela&#39;s government &lpar;Financial Times&rpar;](http://www.techmeme.com/230317/p17#a230317p17)
  - [Samsung Galaxy A14 5G vs Galaxy A53 5G](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a53-5g-3298326/)
- - [How to Join the Diablo 4 Beta     - CNET](https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/#ftag=CAD590a51e)
- - [How to use ChatGPT on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-use-chatgpt-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Hidden Systems is the book I’ll use to teach my kids how the internet works](https://www.theverge.com/2023/3/17/23645204/hidden-systems-book-internet-water-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
