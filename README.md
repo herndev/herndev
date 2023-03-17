@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps Detailed City Experience now in Boston](https://appleinsider.com/articles/23/03/17/apple-maps-detailed-city-experience-now-in-boston?utm_medium=rss)
- - [The FCC is requiring carriers to block SMS messages from &quot;invalid, unallocated, or unused numbers&quot;, targeting the increase in scam robotexts sent to consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230316/p39#a230316p39)
- - [New Zealand plans to ban TikTok on all devices with access to the parliamentary network by the end of March 2023 because of cybersecurity concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p38#a230316p38)<!-- TECH:END -->
+ - [How the vague and varied US legal definitions of &quot;cybercrime&quot; causes issues, as the UN negotiates an international cybersecurity treaty with similar broad terms &lpar;Wired&rpar;](http://www.techmeme.com/230317/p3#a230317p3)
+ - [Google says Galaxy S22, Pixel 6, and more at risk due to unsafe Exynos chips](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)
+ - [Karat, which helps companies conduct technical interviews, plans to acquire its competitor Triplebyte for an undisclosed amount; Triplebyte raised ~$50M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230317/p2#a230317p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
