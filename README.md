@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now instantly try Google Fi with this eSIM trial](https://www.androidauthority.com/google-fi-esim-trial-3299381/)
- - [Snapdragon 7 Plus Gen 2 announced: Flagship power for the mid-range](https://www.androidauthority.com/snapdragon-7-plus-gen-2-launch-3293022/)
- - [YouTube TV cost doubles since launch after latest price hike](https://www.androidauthority.com/youtube-tv-price-hike-3299375/)<!-- TECH:END -->
+ - [Samsung’s new detachable camera accessories for the Galaxy S23 series look hot!](https://www.androidauthority.com/samsung-galaxy-s23-series-camera-accessories-3299388/)
+ - [Resident Evil 4 Remake: Small Changes Make a Huge Improvement     - CNET](https://www.cnet.com/tech/gaming/resident-evil-4-remake-small-changes-make-a-huge-improvement/#ftag=CAD590a51e)
+ - [Resident Evil 4 remake is a modern blockbuster with an old-school heart](https://www.theverge.com/23642938/resident-evil-4-remake-review-xbox-ps5-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
