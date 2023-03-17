@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s Mac Studio for just $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/23/03/17/get-apples-mac-studio-for-just-1845-plus-30-off-applecare?utm_medium=rss)
- - [BougeRV Yuma 200W CIGS solar panel review: lightweight, rollable, durable](https://appleinsider.com/articles/23/03/17/bougerv-yuma-200w-cigs-solar-panel-review-lightweight-rollable-durable?utm_medium=rss)
- - [Around 20 investors and founders say some individual investors and small firms actively helped startups during the SVB crisis while many big firms disappointed &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230317/p12#a230317p12)<!-- TECH:END -->
+ - [Source: TikTok is paying for influencers to visit DC next week, where dozens are expected to lobby lawmakers, ahead of its CEO&#39;s March 23 House testimony &lpar;Hailey Fuchs/Politico&rpar;](http://www.techmeme.com/230317/p15#a230317p15)
+ - [Sources: some lawmakers and tech execs, including Peter Thiel, are mobilizing against China&#39;s involvement in US tech, ahead of TikTok CEO&#39;s House testimony &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/230317/p14#a230317p14)
+ - [FTC finalized a $245M fine for Epic Games on Tuesday over tricking users into making unintended purchases in Fortnite and banned Epic from using dark patterns &lpar;Andy Brown/NME&rpar;](http://www.techmeme.com/230317/p13#a230317p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
