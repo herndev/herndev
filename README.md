@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting rid of rapists sounds like a step in the right direction.](http://9gag.com/gag/a8qAZDe)
- - ⏩ [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
- - 👉 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
+ - 💣 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - ⏩ [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
+ - 👉 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)<!-- MEMES:END -->
 
 ---
 
