@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Coinbase is exploring setting up a new crypto-trading platform overseas for global clients, amid increased US scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p11#a230317p11)
- - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Facebook also launches blue-check Verified program](https://appleinsider.com/articles/23/03/17/facebook-also-launches-blue-check-verified-program?utm_medium=rss)<!-- TECH:END -->
+ - [Get Apple&#39;s Mac Studio for just $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/23/03/17/get-apples-mac-studio-for-just-1845-plus-30-off-applecare?utm_medium=rss)
+ - [BougeRV Yuma 200W CIGS solar panel review: lightweight, rollable, durable](https://appleinsider.com/articles/23/03/17/bougerv-yuma-200w-cigs-solar-panel-review-lightweight-rollable-durable?utm_medium=rss)
+ - [Around 20 investors and founders say some individual investors and small firms actively helped startups during the SVB crisis while many big firms disappointed &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230317/p12#a230317p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
