@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpectrumAi, which offers tools like EHR for applied behavior analysis therapy for autism patients, raised up to a $20M Series A led by CVS Health Ventures &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230316/p37#a230316p37)
- - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)
- - [Google Warns Samsung and Pixel Phone Owners About 18 Dire Exploits     - CNET](https://www.cnet.com/tech/mobile/google-warns-samsung-and-pixel-phone-owners-about-18-dire-exploits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FCC is requiring carriers to block SMS messages from &quot;invalid, unallocated, or unused numbers&quot;, targeting the increase in scam robotexts sent to consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230316/p39#a230316p39)
+ - [New Zealand plans to ban TikTok on all devices with access to the parliamentary network by the end of March 2023 because of cybersecurity concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p38#a230316p38)
+ - [SpectrumAi, which offers tools like EHR for applied behavior analysis therapy for autism patients, raised up to a $20M Series A led by CVS Health Ventures &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230316/p37#a230316p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
