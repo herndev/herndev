@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
- - ⏩ [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
- - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
+ - 💣 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
+ - ⏩ [A sawstop in action](http://9gag.com/gag/a7q8xK2)
+ - 👉 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 ---
 
