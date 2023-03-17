@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
- - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
- - 👉 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)<!-- MEMES:END -->
+ - 💣 [Getting rid of rapists sounds like a step in the right direction.](http://9gag.com/gag/a8qAZDe)
+ - ⏩ [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
+ - 👉 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
 
 ---
 
