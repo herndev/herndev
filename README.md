@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AI future, Spotify vs. Apple Music, Samsung&#39;s moon controversy](https://appleinsider.com/articles/23/03/17/apples-ai-future-spotify-vs-apple-music-samsungs-moon-controversy?utm_medium=rss)
- - [Apple Watch capable of pain prediction in sickle cell patients, says study](https://appleinsider.com/articles/23/03/17/apple-watch-capable-of-pain-prediction-in-sickle-cell-patients-says-study?utm_medium=rss)
- - [Cable vs streaming: Does traditional TV still have something fresh to offer?](https://www.androidauthority.com/cable-vs-streaming-3299040/)<!-- TECH:END -->
+ - [Xiaomi has a serious problem on its hands, according to this data](https://www.androidauthority.com/xiaomi-market-share-india-2023-3299591/)
+ - [YouTube lifts restrictions, imposed after the January 6 insurrection, on Trump&#39;s channel after evaluating the &quot;continued risk of real-world violence&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230317/p8#a230317p8)
+ - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
