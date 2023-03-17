@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
- - ⏩ [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - 👉 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
+ - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - ⏩ [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
+ - 👉 [Distress](http://9gag.com/gag/a7q8Qnq)<!-- MEMES:END -->
 
 ---
 
