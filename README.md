@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you’re planning on reading the Grishaverse books, don’t start with Shadow and Bone](https://www.polygon.com/22406182/shadow-and-bone-grishaverse-book-order)
- - [The Last of Us’ best alternate ending is its musical ending](https://www.polygon.com/2013/8/30/4677466/the-last-of-us-best-alternate-ending-was-its-musical-ending)
- - [Destiny Players Pay Tribute To Lance Reddick, Their Fallen Commander](https://kotaku.com/destiny-lance-reddick-titan-commander-zavala-guardian-1850238899)<!-- GAME:END -->
+ - [Destiny players are gathering in the Tower to pay last respects to Lance Reddick](https://www.pcgamer.com/destiny-players-are-gathering-in-the-tower-to-pay-last-respects-to-lance-reddick)
+ - [Cocaine Bear, Netflix’s Pornhub doc, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/17/23636245/new-movies-watch-cocaine-bear-netflix-pornhub-documentary-the-whale)
+ - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
