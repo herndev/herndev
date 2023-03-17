@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Confluence store in Lyon reopens after refit](https://appleinsider.com/articles/23/03/17/apple-confluence-store-in-lyon-reopens-after-refit?utm_medium=rss)
- - [You Don’t Have to Be a Jerk to Resist the Bots](https://www.wired.com/story/chatgpt-bots-empathy-psychology/)
- - [11 ways to power up your gaming on the Xbox Series X / S](https://www.theverge.com/23644702/xbox-gaming-feature-options-how-to)<!-- TECH:END -->
+ - [Sources: Coinbase is exploring setting up a new crypto-trading platform overseas for global clients, amid increased US scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p11#a230317p11)
+ - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Facebook also launches blue-check Verified program](https://appleinsider.com/articles/23/03/17/facebook-also-launches-blue-check-verified-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
