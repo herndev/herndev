@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - 💣 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
  - ⏩ [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
- - 👉 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)<!-- MEMES:END -->
+ - 👉 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 ---
 
