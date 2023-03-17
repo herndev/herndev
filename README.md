@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max may get the world&#39;s thinnest screen bezels](https://appleinsider.com/articles/23/03/17/iphone-15-pro-max-may-get-the-worlds-thinnest-screen-bezels?utm_medium=rss)
  - [Even Foxconn says it&#39;s looking to move away from China](https://appleinsider.com/articles/23/03/15/even-foxconn-says-its-looking-to-move-away-from-china?utm_medium=rss)
- - [Q&amp;A with two of Meta&#39;s leading security experts about its Online Operations Kill Chain, a framework for responding to threat activity like influence operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230317/p4#a230317p4)
- - [We asked, you told us: Here’s what you think of AI-generated moon photos](https://www.androidauthority.com/ai-details-moon-photos-poll-results-3299387/)<!-- TECH:END -->
+ - [Q&amp;A with two of Meta&#39;s leading security experts about its Online Operations Kill Chain, a framework for responding to threat activity like influence operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230317/p4#a230317p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
