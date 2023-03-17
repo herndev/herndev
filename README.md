@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
- - ⏩ [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
+ - 💣 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
  - 👉 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)<!-- MEMES:END -->
 
 ---
