@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
  - ⏩ [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 👉 [Goodbye TikTok! &lpar;U.K.&rpar;](http://9gag.com/gag/aZDnORV)<!-- MEMES:END -->
+ - 👉 [Life advice, my c*nts](http://9gag.com/gag/a4onvWp)<!-- MEMES:END -->
 
 ---
 
