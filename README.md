@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
- - ⏩ [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
- - 👉 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
+ - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - ⏩ [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
+ - 👉 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 ---
 
