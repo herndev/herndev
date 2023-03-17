@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV cost doubles since launch after latest price hike](https://www.androidauthority.com/youtube-tv-price-hike-3299375/)
  - [How the vague and varied US legal definitions of &quot;cybercrime&quot; causes issues, as the UN negotiates an international cybersecurity treaty with similar broad terms &lpar;Wired&rpar;](http://www.techmeme.com/230317/p3#a230317p3)
- - [Google says Galaxy S22, Pixel 6, and more at risk due to unsafe Exynos chips](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)
- - [Karat, which helps companies conduct technical interviews, plans to acquire its competitor Triplebyte for an undisclosed amount; Triplebyte raised ~$50M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230317/p2#a230317p2)<!-- TECH:END -->
+ - [Google says Galaxy S22, Pixel 6, and more at risk due to unsafe Exynos chips](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
