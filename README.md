@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexispot Sit2Go chair review: A must-have for the office](https://appleinsider.com/articles/23/03/17/flexispot-sit2go-chair-review-a-must-have-for-the-office?utm_medium=rss)
- - [In Bulgaria, Russian Trolls Are Winning the Information War](https://www.wired.com/story/in-bulgaria-russian-trolls-are-winning-the-information-war/)
- - [A shortage of skilled workers is impeding Micron&#39;s goal of a chip manufacturing campus in Syracuse, NY, where it plans to invest $100B and hire 9K employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230317/p5#a230317p5)<!-- TECH:END -->
+ - [16 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
+ - [The Ugly Lessons of Silicon Valley Bank’s Collapse](https://www.wired.com/story/the-ugly-lessons-of-silicon-valley-banks-collapse/)
+ - [&#39;The Last of Us&#39; Is Bleak, but It’s the Bleak You Need](https://www.wired.com/story/the-last-of-us-too-bleak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
