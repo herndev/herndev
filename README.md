@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a smelter in Valheim](https://www.pcgamer.com/valheim-how-to-get-a-smelter)
- - [The team behind the great Half-Life 2 VR mod releases an Episode 1 version today](https://www.pcgamer.com/the-team-behind-the-great-half-life-2-vr-mod-releases-an-episode-1-version-today)
- - [Diablo 4: Everything we know](https://www.pcgamer.com/diablo-4-everything-we-know)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 20 to 24](https://news.xbox.com/en-us/2023/03/17/next-week-on-xbox-new-games-for-march-20-to-24/)
+ - [Resident Evil 4 remake review](https://www.pcgamer.com/resident-evil-4-remake-review)
+ - [Shazam! Fury of the Gods’ promises Shazam will return... somehow](https://www.polygon.com/23643092/shazam-2-post-credits-after-scenes-fury-gods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
