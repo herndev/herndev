@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Where Sauce](http://9gag.com/gag/az25WyK)
- - ⏩ [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 👉 [Life advice, my c*nts](http://9gag.com/gag/a4onvWp)<!-- MEMES:END -->
+ - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 👉 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)<!-- MEMES:END -->
 
 ---
 
