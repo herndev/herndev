@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: TikTok is paying for influencers to visit DC next week, where dozens are expected to lobby lawmakers, ahead of its CEO&#39;s March 23 House testimony &lpar;Hailey Fuchs/Politico&rpar;](http://www.techmeme.com/230317/p15#a230317p15)
- - [Sources: some lawmakers and tech execs, including Peter Thiel, are mobilizing against China&#39;s involvement in US tech, ahead of TikTok CEO&#39;s House testimony &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/230317/p14#a230317p14)
- - [FTC finalized a $245M fine for Epic Games on Tuesday over tricking users into making unintended purchases in Fortnite and banned Epic from using dark patterns &lpar;Andy Brown/NME&rpar;](http://www.techmeme.com/230317/p13#a230317p13)<!-- TECH:END -->
+ - [Original iPhone sells for over $50,000 in recent auction](https://appleinsider.com/articles/23/03/17/original-iphone-sells-for-over-50000-in-recent-auction?utm_medium=rss)
+ - [HR software startup Rippling raised a $500M Series E at an $11.25B valuation, like its Series D, when SVB froze its deposits, taking its total funding to $1.2B &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230317/p16#a230317p16)
+ - [Osmos Plus Expands Into Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/osmos-plus-expands-into-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
