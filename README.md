@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring review: love the feature changes, hate the new subscription](https://appleinsider.com/articles/23/03/19/oura-ring-review-love-the-features-changes-hate-the-new-subscription?utm_medium=rss)
- - [Sources: Netflix&#39;s ad-supported tier reached about 1M MAUs in the US after its second month, and the company has hit its forecasted deliveries to advertisers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230319/p5#a230319p5)
- - [Duolingo Transformed Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-transformed-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: in an upcoming testimony to Congress this Thursday, TikTok CEO Shou Zi Chew plans to say TikTok has 150M MAUs in the US, up from 100M in August 2020 &lpar;Carol E. Lee/NBC News&rpar;](http://www.techmeme.com/230319/p7#a230319p7)
+ - [The FDIC announces an agreement to sell Signature Bank&#39;s assets to Flagstar Bank, a subsidiary of New York Community Bancorp &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/230319/p6#a230319p6)
+ - [Strawberry Recall Hits Costco, Aldi, Trader Joe&#39;s, Others     - CNET](https://www.cnet.com/health/frozen-strawberries-recalled-due-to-hepatitis-a-risk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
