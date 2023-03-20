@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;March 20, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-20-2023)
  - [This fixed-camera survival horror mod is like a Half-Life and Resident Evil teleporter accident](https://www.pcgamer.com/this-fixed-camera-survival-horror-mod-is-like-a-half-life-and-resident-evil-teleporter-accident)
- - [Banjo-Kazooie creators must lick 25 year old chocolate BAFTA due to a poll](https://www.pcgamer.com/banjo-kazooie-creators-must-lick-25-year-old-chocolate-bafta-due-to-a-poll)
- - [YouTuber Buys Every Single Video Game On The Wii U and 3DS eShops Before They Close](https://kotaku.com/wii-u-3ds-nintendo-eshop-closing-closure-buy-all-vghf-1850242052)<!-- GAME:END -->
+ - [Banjo-Kazooie creators must lick 25 year old chocolate BAFTA due to a poll](https://www.pcgamer.com/banjo-kazooie-creators-must-lick-25-year-old-chocolate-bafta-due-to-a-poll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
