@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s color-changing Style laptop is a less boring-looking Gram](https://www.theverge.com/2023/3/20/23648592/lg-gram-style-2023-price-release-date-announcement)
- - [YouTube TV Prices Are Going Up. Here&#39;s What You&#39;ll Pay Now     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-prices-are-going-up-heres-what-youll-pay-now/#ftag=CAD590a51e)
- - [Some of 8BitDo’s best controllers now work with Apple devices](https://www.theverge.com/2023/3/20/23648568/8bitdo-game-controllers-apple-iphone-ipad-mac-tv-compatibility)<!-- TECH:END -->
+ - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
+ - [Microsoft speech recognition subsidiary Nuance debuts DAX Express, which can generate drafts of clinical notes after patient visits and is partly built on GPT-4 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230320/p18#a230320p18)
+ - [Character.AI, recently valued at $1B, will likely face legal battles for brazenly letting users make and share chatbots of famous people or fictional characters &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230320/p17#a230320p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
