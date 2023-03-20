@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
- - ⏩ [Where Sauce](http://9gag.com/gag/az25WyK)
- - 👉 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
+ - 💣 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
+ - ⏩ [I love her sense of humour](http://9gag.com/gag/a7qOymr)
+ - 👉 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
 
 ---
 
