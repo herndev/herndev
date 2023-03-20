@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung expands OLED 4K TV lineup with two new series](https://appleinsider.com/articles/23/03/20/samsung-expands-oled-4k-tv-lineup-with-two-new-series?utm_medium=rss)
- - [Sources: in 2021 the phone of a US and Greek national who worked on Meta&#39;s security and trust team was infected with Predator spyware, from an Athens-based firm &lpar;Matina Stevis-Gridneff/New York Times&rpar;](http://www.techmeme.com/230320/p13#a230320p13)
- - [OnePlus 11 gets 100-day return period to let users see if they like it](https://www.androidauthority.com/oneplus-11-trial-3300127/)<!-- TECH:END -->
+ - [Microsoft plans to launch a game app store on Android and iOS](https://www.androidauthority.com/microsoft-app-store-3300161/)
+ - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
+ - [More data suggests smartphones are going to get way more expensive soon](https://www.androidauthority.com/premium-smartphone-market-2023-3300194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
