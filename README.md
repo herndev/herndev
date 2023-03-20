@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As First Anime Ends, Ash Ketchum’s Pokémon Voice Actor Takes Her Victory Lap](https://kotaku.com/pokemon-ash-ketchum-voice-actor-sarah-natochenny-anime-1850234947)
- - [Unicorn Wars’ Alberto Vázquez explains his deeply upsetting take on Care Bears](https://www.polygon.com/23645416/unicorn-wars-ending-explained-alberto-vazquez)
- - [Smuggler tries to scoot 84 SSDs into China, gets busted](https://www.pcgamer.com/smuggler-tries-to-scoot-84-ssds-into-china-gets-busted)<!-- GAME:END -->
+ - [Miracle on the Sea of Thieves: How a Single Idea Powered a 10-Year Journey](https://news.xbox.com/en-us/2023/03/20/miracle-on-the-sea-of-thieves/)
+ - [The next Meat Boy game parodies a &#39;90s Sonic spinoff](https://www.pcgamer.com/the-next-meat-boy-game-parodies-a-90s-sonic-spinoff)
+ - [With Team Rocket retired, are these the Pokémon anime’s new villains?](https://www.polygon.com/23648219/pokemon-anime-new-villain-team-rocket-retired)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
