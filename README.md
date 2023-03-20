@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: ByteDance&#39;s video editing app CapCut, launched in 2020, has 200M+ MAUs and 400M+ downloads in 2022, up 43% YoY, surpassing TikTok in recent weeks &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230320/p2#a230320p2)
- - [Online Sleuths Untangle the Mystery of the Nord Stream Sabotage](https://www.wired.com/story/nord-steam-explosions-mystery-osint/)
- - [Russia’s Space Program Is in Big Trouble](https://www.wired.com/story/russias-space-program-is-in-big-trouble/)<!-- TECH:END -->
+ - [Daily Authority: 🔐 Pixel’s ‘Acropalypse’ security flaw](https://www.androidauthority.com/daily-authority-march-20-2023-3300003/)
+ - [China&#39;s anti-graft watchdog begins to investigate ex-Tsinghua Unigroup Chairman Zhao Weiguo, the latest executive to be ensnared in its chip corruption dragnet &lpar;Bloomberg&rpar;](http://www.techmeme.com/230320/p3#a230320p3)
+ - [Netflix’s ad-supported tier is reportedly gathering momentum in the US](https://www.theverge.com/2023/3/20/23648081/netflix-ad-supported-tier-growth-usa-momentum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
