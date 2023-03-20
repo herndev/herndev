@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Miracle on the Sea of Thieves: How a Single Idea Powered a 10-Year Journey](https://news.xbox.com/en-us/2023/03/20/miracle-on-the-sea-of-thieves/)
- - [The next Meat Boy game parodies a &#39;90s Sonic spinoff](https://www.pcgamer.com/the-next-meat-boy-game-parodies-a-90s-sonic-spinoff)
- - [With Team Rocket retired, are these the Pokémon anime’s new villains?](https://www.polygon.com/23648219/pokemon-anime-new-villain-team-rocket-retired)<!-- GAME:END -->
+ - [The Last of Us Season 2 Promo Starts Hype Train On Buff Abby](https://kotaku.com/the-last-of-us-tlou-season-2-who-will-play-abby-release-1850243353)
+ - [Pro overclocker bricks AMD&#39;s best gaming chip without really trying](https://www.pcgamer.com/pro-overclocker-bricks-amds-best-gaming-chip-without-really-trying)
+ - [Tips on surviving The Walking Dead: Saints &amp; Sinners – Chapter 2: Retribution on PS VR2](https://blog.playstation.com/2023/03/20/tips-on-surviving-the-walking-dead-saints-sinners-chapter-2-retribution-on-ps-vr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
