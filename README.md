@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops new deals: AirTags, Apple Watch, iPads, Macs up to 31% off](https://appleinsider.com/articles/23/03/20/amazon-drops-new-deals-airtags-apple-watch-ipads-macs-up-to-31-off?utm_medium=rss)
- - [UN Report: Half of World&#39;s Population &#39;Highly Vulnerable to Climate Change&#39;     - CNET](https://www.cnet.com/science/climate/un-report-half-of-worlds-population-highly-vulnerable-to-climate-change/#ftag=CAD590a51e)
- - [Senators Warn the Next US Bank Run Could Be Rigged](https://www.wired.com/story/senators-warn-the-next-us-bank-run-could-be-rigged-russia-china/)<!-- TECH:END -->
+ - [Report from the Institute for Strategic Dialogue and CASM Technology: the average weekly number of antisemitic tweets more than doubled after Musk took over &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p16#a230320p16)
+ - [Update adds 8BitDo controller support for Apple devices](https://appleinsider.com/articles/23/03/20/update-adds-8bitdo-controller-support-for-apple-devices?utm_medium=rss)
+ - [TrendForce: NAND flash revenue dropped 45% YoY and 25% QoQ in Q4 2022 and is expected to drop 8.1% QoQ in Q1 2023; NAND&#39;s per-bit costs may reach all-time lows &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230320/p15#a230320p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
