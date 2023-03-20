@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says it has 150M MAUs in the US, up from 100M in August 2020 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230320/p19#a230320p19)
- - [Apple Pay now available in South Korea](https://appleinsider.com/articles/23/03/20/apple-pay-now-available-in-south-korea?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)
+ - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
+ - [Marvel Studios VFX head Victoria Alonso is out](https://www.theverge.com/2023/3/20/23649154/marvel-studios-victoria-alonso-vfx-mcu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
