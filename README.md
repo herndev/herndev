@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flaw in Pixel’s Markup tool allows hackers to un-redact edited screenshots](https://www.androidauthority.com/pixel-markup-screenshots-vulnerability-3299986/)
  - [Snapdragon 7 Plus Gen 2 benchmarked: Taking the fight to the flagships](https://www.androidauthority.com/snapdragon-7-plus-gen-2-benchmarked-3298030/)
- - [Source: in his upcoming March 23 testimony to Congress, TikTok CEO Shou Zi Chew plans to unveil that TikTok has 150M MAUs in the US, up from 100M in August 2020 &lpar;Carol E. Lee/NBC News&rpar;](http://www.techmeme.com/230319/p7#a230319p7)
- - [The FDIC announces a deal to sell Signature Bank&#39;s deposits, excluding those in its digital banking business, some loans, and its 40 branches to Flagstar Bank &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/230319/p6#a230319p6)<!-- TECH:END -->
+ - [Source: in his upcoming March 23 testimony to Congress, TikTok CEO Shou Zi Chew plans to unveil that TikTok has 150M MAUs in the US, up from 100M in August 2020 &lpar;Carol E. Lee/NBC News&rpar;](http://www.techmeme.com/230319/p7#a230319p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
