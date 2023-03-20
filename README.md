@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India cuts mobile internet access for a second day across Punjab, a state of ~27M people, as it tries to catch a Sikh separatist and curb &quot;fake news&quot; and unrest &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p1#a230320p1)
- - [Google says Exynos chip flaw puts Galaxy S22, Pixel 6, and more at risk &lpar;Update&rpar;](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)
- - [Severe security flaw found in the Markup tool on Pixel phones](https://www.androidauthority.com/pixel-markup-screenshots-vulnerability-3299986/)<!-- TECH:END -->
+ - [Online Sleuths Untangle the Mystery of the Nord Stream Sabotage](https://www.wired.com/story/nord-steam-explosions-mystery-osint/)
+ - [Russia’s Space Program Is in Big Trouble](https://www.wired.com/story/russias-space-program-is-in-big-trouble/)
+ - [India cuts mobile internet access for a second day across Punjab, a state of ~27M people, as it tries to catch a Sikh separatist and curb &quot;fake news&quot; and unrest &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p1#a230320p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
