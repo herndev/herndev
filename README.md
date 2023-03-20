@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG&#39;s Spring Sale kicks off with a free game for everyone](https://www.pcgamer.com/gogs-spring-sale-kicks-off-with-a-free-game-for-everyone)
- - [Watch the trailer for Game Changer’s surprise four-episode season finale](https://www.polygon.com/23648422/game-changer-season-finale-trailer-dropout-survivor)
- - [We&#39;re one step closer to a meaty cyberpunk future as scientists create a &#39;living computer&#39; using 80,000 mouse brain cells](https://www.pcgamer.com/were-one-step-closer-to-a-meaty-cyberpunk-future-as-scientists-create-a-living-computer-using-80000-mouse-brain-cells)<!-- GAME:END -->
+ - [ID@XboxGDC 2023 Online Demos Now Live on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/03/20/idxboxgdc-2023-online-demos-now-live-on-xbox-one-and-xbox-series-xs/)
+ - [Life By You asks: What if The Sims spoke real words?](https://www.polygon.com/23648790/life-by-you-the-sims-competitor-paradox-gameplay-reveal)
+ - [Diablo IV Is The Perfect Head Empty, Kill Stuff Game](https://kotaku.com/diablo-4-open-beta-review-rpg-rogue-build-barbarian-1850244422)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
