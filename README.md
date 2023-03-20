@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Stats Reveal What Bosses Killed Players The Most](https://kotaku.com/elden-ring-malenia-rock-sling-shadow-erdtree-dlc-1850243803)
- - [Xbox hoping to launch mobile game store as early as next year](https://www.polygon.com/23648499/xbox-mobile-games-app-store-activision-blizzard)
- - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)<!-- GAME:END -->
+ - [GOG&#39;s Spring Sale kicks off with a free game for everyone](https://www.pcgamer.com/gogs-spring-sale-kicks-off-with-a-free-game-for-everyone)
+ - [Watch the trailer for Game Changer’s surprise four-episode season finale](https://www.polygon.com/23648422/game-changer-season-finale-trailer-dropout-survivor)
+ - [We&#39;re one step closer to a meaty cyberpunk future as scientists create a &#39;living computer&#39; using 80,000 mouse brain cells](https://www.pcgamer.com/were-one-step-closer-to-a-meaty-cyberpunk-future-as-scientists-create-a-living-computer-using-80000-mouse-brain-cells)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
