@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)
- - ⏩ [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
- - 👉 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)<!-- MEMES:END -->
+ - 💣 [Easy life](http://9gag.com/gag/aqeXLzj)
+ - ⏩ [0:19 some woman shouts in Russian \u201cit\u2019s all a lie, it\u2019s a show\u201d during Putain\u2019s visit to occupied Mariupol. Russian state tv fails to cut it out.](http://9gag.com/gag/aDY6jdN)
+ - 👉 [When they will stop?](http://9gag.com/gag/aVboXod)<!-- MEMES:END -->
 
 ---
 
