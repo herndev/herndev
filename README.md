@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy life](http://9gag.com/gag/aqeXLzj)
- - ⏩ [0:19 some woman shouts in Russian \u201cit\u2019s all a lie, it\u2019s a show\u201d during Putain\u2019s visit to occupied Mariupol. Russian state tv fails to cut it out.](http://9gag.com/gag/aDY6jdN)
- - 👉 [When they will stop?](http://9gag.com/gag/aVboXod)<!-- MEMES:END -->
+ - 💣 [Bruh](http://9gag.com/gag/awZ3Kn8)
+ - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 👉 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
 
 ---
 
