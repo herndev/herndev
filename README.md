@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@XboxGDC 2023 Online Demos Now Live on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/03/20/idxboxgdc-2023-online-demos-now-live-on-xbox-one-and-xbox-series-xs/)
- - [Life By You asks: What if The Sims spoke real words?](https://www.polygon.com/23648790/life-by-you-the-sims-competitor-paradox-gameplay-reveal)
- - [Diablo IV Is The Perfect Head Empty, Kill Stuff Game](https://kotaku.com/diablo-4-open-beta-review-rpg-rogue-build-barbarian-1850244422)<!-- GAME:END -->
+ - [The New Bayonetta Prequel Makes Up For 3&#39;s Bad Ending](https://kotaku.com/cereza-lost-demon-bayonetta-3-review-impressions-switch-1850244891)
+ - [Twitch lays off more than 400 employees as Amazon cuts another 9,000 jobs](https://www.pcgamer.com/twitch-lays-off-more-than-400-employees-as-amazon-cuts-another-9000-jobs)
+ - [GDC 2023: ID@Xbox Online Demos Now Live on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/03/20/idxboxgdc-2023-online-demos-now-live-on-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
