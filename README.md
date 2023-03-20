@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - ⏩ [Diversity](http://9gag.com/gag/abv1y88)
- - 👉 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 💣 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
+ - ⏩ [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
+ - 👉 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
 
 ---
 
