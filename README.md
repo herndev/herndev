@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Ted Lasso&#39; cast to visit White House to promote mental health](https://appleinsider.com/articles/23/03/20/apple-tv-ted-lasso-cast-to-visit-white-house-to-promote-mental-health?utm_medium=rss)
- - [How open source intelligence, or OSINT, researchers are using public data to untangle the mystery of the Nord Stream pipeline sabotage, helping debunk claims &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230320/p4#a230320p4)
- - [When Colleges Offer Coding Boot Camp, Students Can Get a Raw Deal](https://www.wired.com/story/when-colleges-offer-coding-boot-camp-students-can-get-a-raw-deal/)<!-- TECH:END -->
+ - [How to get Apple&#39;s 30-inch Cinema Display to work on a modern Mac](https://appleinsider.com/inside/mac/tips/how-to-get-apples-30-inch-cinema-display-to-work-on-a-modern-mac?utm_medium=rss)
+ - [Kremlin says nyet to iPhone ahead of presidential election](https://appleinsider.com/articles/23/03/20/kremlin-says-nyet-to-iphone-ahead-of-presidential-election?utm_medium=rss)
+ - [OpenAI&#39;s GPT-4 failed a CFA Institute exam, the finance world&#39;s self-styled toughest test, scoring eight out of 24, despite the answers being available online &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230320/p6#a230320p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
