@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [As First Anime Ends, Ash Ketchum’s Pokémon Voice Actor Takes Her Victory Lap](https://kotaku.com/pokemon-ash-ketchum-voice-actor-sarah-natochenny-anime-1850234947)
  - [Unicorn Wars’ Alberto Vázquez explains his deeply upsetting take on Care Bears](https://www.polygon.com/23645416/unicorn-wars-ending-explained-alberto-vazquez)
- - [Smuggler tries to scoot 84 SSDs into China, gets busted](https://www.pcgamer.com/smuggler-tries-to-scoot-84-ssds-into-china-gets-busted)
- - [Disco Elysium fans blast &#39;absolutely demonic&#39; ZA/UM execs for new photo mode: &#39;it wasn&#39;t enough to rob the creators of their own work, you had to turn it into this meme ridden sludge, too&#39;](https://www.pcgamer.com/disco-elysium-fans-blast-absolutely-demonic-zaum-execs-for-new-photo-mode-it-wasnt-enough-to-rob-the-creators-of-their-own-work-you-had-to-turn-it-into-this-meme-ridden-sludge-too)<!-- GAME:END -->
+ - [Smuggler tries to scoot 84 SSDs into China, gets busted](https://www.pcgamer.com/smuggler-tries-to-scoot-84-ssds-into-china-gets-busted)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
