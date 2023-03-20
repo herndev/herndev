@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruh](http://9gag.com/gag/awZ3Kn8)
- - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
- - 👉 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
+ - 💣 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
+ - ⏩ [Excited group digging up a crystal](http://9gag.com/gag/az2djZz)
+ - 👉 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 ---
 
