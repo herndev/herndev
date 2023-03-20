@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
- - [Microsoft speech recognition subsidiary Nuance debuts DAX Express, which can generate drafts of clinical notes after patient visits and is partly built on GPT-4 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230320/p18#a230320p18)
- - [Character.AI, recently valued at $1B, will likely face legal battles for brazenly letting users make and share chatbots of famous people or fictional characters &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230320/p17#a230320p17)<!-- TECH:END -->
+ - [TikTok says it has 150M MAUs in the US, up from 100M in August 2020 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230320/p19#a230320p19)
+ - [Apple Pay now available in South Korea](https://appleinsider.com/articles/23/03/20/apple-pay-now-available-in-south-korea?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
