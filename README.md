@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Park creators clarifying stuff](http://9gag.com/gag/axo3jwb)
- - ⏩ [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
+ - 💣 [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
+ - ⏩ [I love her sense of humour](http://9gag.com/gag/a7qOymr)
  - 👉 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 ---
