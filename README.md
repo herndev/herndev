@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flaw in Pixel’s Markup tool allows hackers to un-redact edited screenshots](https://www.androidauthority.com/pixel-markup-screenshots-vulnerability-3299986/)
- - [Snapdragon 7 Plus Gen 2 benchmarked: Taking the fight to the flagships](https://www.androidauthority.com/snapdragon-7-plus-gen-2-benchmarked-3298030/)
- - [Source: in his upcoming March 23 testimony to Congress, TikTok CEO Shou Zi Chew plans to unveil that TikTok has 150M MAUs in the US, up from 100M in August 2020 &lpar;Carol E. Lee/NBC News&rpar;](http://www.techmeme.com/230319/p7#a230319p7)<!-- TECH:END -->
+ - [India cuts mobile internet access for a second day across Punjab, a state of ~27M people, as it tries to catch a Sikh separatist and curb &quot;fake news&quot; and unrest &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p1#a230320p1)
+ - [Google says Exynos chip flaw puts Galaxy S22, Pixel 6, and more at risk &lpar;Update&rpar;](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)
+ - [Severe security flaw found in the Markup tool on Pixel phones](https://www.androidauthority.com/pixel-markup-screenshots-vulnerability-3299986/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
