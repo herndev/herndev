@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
- - ⏩ [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
- - 👉 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
+ - 💣 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)
+ - ⏩ [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
+ - 👉 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)<!-- MEMES:END -->
 
 ---
 
