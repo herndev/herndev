@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny players are gathering in the Tower to pay last respects to Lance Reddick](https://www.pcgamer.com/destiny-players-are-gathering-in-the-tower-to-pay-last-respects-to-lance-reddick)
- - [Cocaine Bear, Netflix’s Pornhub doc, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/17/23636245/new-movies-watch-cocaine-bear-netflix-pornhub-documentary-the-whale)
- - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)<!-- GAME:END -->
+ - [YouTuber Buys Every Single Video Game On The Wii U and 3DS eShops Before They Close](https://kotaku.com/wii-u-3ds-nintendo-eshop-closing-closure-buy-all-vghf-1850242052)
+ - [Total War makers open a third development studio](https://www.pcgamer.com/total-war-makers-open-a-third-development-studio)
+ - [Steam may get a system to let players take &#39;game notes&#39;](https://www.pcgamer.com/steam-may-get-a-system-to-let-players-take-game-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
