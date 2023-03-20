@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally](http://9gag.com/gag/aGEnxn5)
- - ⏩ [Wait... What?](http://9gag.com/gag/amA1r5V)
- - 👉 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
+ - 💣 [Wait... What?](http://9gag.com/gag/amA1r5V)
+ - ⏩ [Who is the last one](http://9gag.com/gag/arm3R8p)
+ - 👉 [Looks important...](http://9gag.com/gag/aVboWEK)<!-- MEMES:END -->
 
 ---
 
