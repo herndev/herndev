@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get Apple&#39;s 30-inch Cinema Display to work on a modern Mac](https://appleinsider.com/inside/mac/tips/how-to-get-apples-30-inch-cinema-display-to-work-on-a-modern-mac?utm_medium=rss)
- - [Kremlin says nyet to iPhone ahead of presidential election](https://appleinsider.com/articles/23/03/20/kremlin-says-nyet-to-iphone-ahead-of-presidential-election?utm_medium=rss)
- - [OpenAI&#39;s GPT-4 failed a CFA Institute exam, the finance world&#39;s self-styled toughest test, scoring eight out of 24, despite the answers being available online &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230320/p6#a230320p6)<!-- TECH:END -->
+ - [I really want a ChatGPT-like voice assistant in my Google Nest speakers](https://www.androidauthority.com/chatgpt-voice-assistant-nest-smart-speakers-3298982/)
+ - [Mumbai Apple Store will finally open in April, Delhi to follow](https://appleinsider.com/articles/23/03/20/mumbai-apple-store-will-finally-open-in-april-delhi-to-follow?utm_medium=rss)
+ - [Microsoft’s new Xbox mobile gaming store may launch in 2024](https://www.theverge.com/2023/3/20/23648112/microsoft-xbox-mobile-store-2024-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
