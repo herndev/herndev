@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I really want a ChatGPT-like voice assistant in my Google Nest speakers](https://www.androidauthority.com/chatgpt-voice-assistant-nest-smart-speakers-3298982/)
- - [Mumbai Apple Store will finally open in April, Delhi to follow](https://appleinsider.com/articles/23/03/20/mumbai-apple-store-will-finally-open-in-april-delhi-to-follow?utm_medium=rss)
- - [Microsoft’s new Xbox mobile gaming store may launch in 2024](https://www.theverge.com/2023/3/20/23648112/microsoft-xbox-mobile-store-2024-launch)<!-- TECH:END -->
+ - [Netflix Games Is Still Happening. Just Don’t Hold Your Breath](https://www.wired.com/story/netflix-gaming-monument-valley/)
+ - [The Untold Tale of Why &#39;Cart Life&#39; Disappeared—and Its Resurrection](https://www.wired.com/story/mystery-of-cart-life-death-rebirth/)
+ - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
