@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
- - ⏩ [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 👉 [JPMorgan CEO Vs Katie Porter - Please 9gag stop with the race and gender war bullshit, we need more posts about this stuff.](http://9gag.com/gag/a6qXL48)<!-- MEMES:END -->
+ - ⏩ [JPMorgan CEO Vs Katie Porter - Please 9gag stop with the race and gender war bullshit, we need more posts about this stuff.](http://9gag.com/gag/a6qXL48)
+ - 👉 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
 
 ---
 
