@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - ⏩ [Excited group digging up a crystal](http://9gag.com/gag/az2djZz)
- - 👉 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
+ - 💣 [Not my f*cking job!](http://9gag.com/gag/aKEA2wb)
+ - ⏩ [This is my guy](http://9gag.com/gag/awZ3VVQ)
+ - 👉 [Its cool and legal](http://9gag.com/gag/aDY6jMO)<!-- MEMES:END -->
 
 ---
 
