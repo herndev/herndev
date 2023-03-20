@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔐 Pixel’s ‘Acropalypse’ security flaw](https://www.androidauthority.com/daily-authority-march-20-2023-3300003/)
- - [China&#39;s anti-graft watchdog begins to investigate ex-Tsinghua Unigroup Chairman Zhao Weiguo, the latest executive to be ensnared in its chip corruption dragnet &lpar;Bloomberg&rpar;](http://www.techmeme.com/230320/p3#a230320p3)
- - [Netflix’s ad-supported tier is reportedly gathering momentum in the US](https://www.theverge.com/2023/3/20/23648081/netflix-ad-supported-tier-growth-usa-momentum)<!-- TECH:END -->
+ - [Apple TV+ &#39;Ted Lasso&#39; cast to visit White House to promote mental health](https://appleinsider.com/articles/23/03/20/apple-tv-ted-lasso-cast-to-visit-white-house-to-promote-mental-health?utm_medium=rss)
+ - [How open source intelligence, or OSINT, researchers are using public data to untangle the mystery of the Nord Stream pipeline sabotage, helping debunk claims &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230320/p4#a230320p4)
+ - [When Colleges Offer Coding Boot Camp, Students Can Get a Raw Deal](https://www.wired.com/story/when-colleges-offer-coding-boot-camp-students-can-get-a-raw-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
