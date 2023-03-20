@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who is the last one](http://9gag.com/gag/arm3R8p)
- - ⏩ [This is my guy](http://9gag.com/gag/awZ3VVQ)
- - 👉 [Please business daddy save me!](http://9gag.com/gag/aVboqY2)<!-- MEMES:END -->
+ - 💣 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - ⏩ [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
+ - 👉 [Who is the last one](http://9gag.com/gag/arm3R8p)<!-- MEMES:END -->
 
 ---
 
