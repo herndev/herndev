@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
- - ⏩ [JPMorgan CEO Vs Katie Porter - Please 9gag stop with the race and gender war bullshit, we need more posts about this stuff.](http://9gag.com/gag/a6qXL48)
- - 👉 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
+ - 💣 [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
+ - ⏩ [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 👉 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
 
 ---
 
