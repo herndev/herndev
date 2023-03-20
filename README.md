@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock literally everything in WWE 2K23](https://www.polygon.com/guides/23648763/wwe-2k23-how-to-unlock-superstars-legends-arenas-championships)
- - [I didn&#39;t expect Diablo 4 to be my next MMO](https://www.pcgamer.com/i-didnt-expect-diablo-4-to-be-my-next-mmo)
- - [Let&#39;s Talk About Diablo IV&#39;s Most Controversial Change](https://kotaku.com/diablo-4-iv-beta-dodge-roll-controversy-world-boss-1850245274)<!-- GAME:END -->
+ - [Diablo 4 players react to the beta test: &#39;Seems to be Blizzard back in their old form&#39;](https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form)
+ - [The Resident Evil 4 Remake Changing Ashley’s Skirt Gives Me Hope](https://kotaku.com/video-game-fashion-ashley-graham-re4-remake-skirt-1850245569)
+ - [All the Last of Us season 2 news we’ve heard so far](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
