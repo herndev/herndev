@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BBC is advising staff to remove TikTok from work phones](https://appleinsider.com/articles/23/03/20/the-bbc-is-advising-staff-to-remove-tiktok-from-work-phones?utm_medium=rss)
- - [Andy Jassy says Amazon plans to lay off an additional 9,000 employees, mostly in AWS, PXT, Advertising, and Twitch, after cutting 18,000 jobs in January &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230320/p11#a230320p11)
- - [The Internet Archive is defending its digital library in court today](https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use)<!-- TECH:END -->
+ - [Samsung expands OLED 4K TV lineup with two new series](https://appleinsider.com/articles/23/03/20/samsung-expands-oled-4k-tv-lineup-with-two-new-series?utm_medium=rss)
+ - [Sources: in 2021 the phone of a US and Greek national who worked on Meta&#39;s security and trust team was infected with Predator spyware, from an Athens-based firm &lpar;Matina Stevis-Gridneff/New York Times&rpar;](http://www.techmeme.com/230320/p13#a230320p13)
+ - [OnePlus 11 gets 100-day return period to let users see if they like it](https://www.androidauthority.com/oneplus-11-trial-3300127/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
