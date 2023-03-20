@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Games Is Still Happening. Just Don’t Hold Your Breath](https://www.wired.com/story/netflix-gaming-monument-valley/)
- - [The Untold Tale of Why &#39;Cart Life&#39; Disappeared—and Its Resurrection](https://www.wired.com/story/mystery-of-cart-life-death-rebirth/)
- - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)<!-- TECH:END -->
+ - [The BBC is advising staff to remove TikTok from work phones](https://appleinsider.com/articles/23/03/20/the-bbc-is-advising-staff-to-remove-tiktok-from-work-phones?utm_medium=rss)
+ - [Andy Jassy says Amazon plans to lay off an additional 9,000 employees, mostly in AWS, PXT, Advertising, and Twitch, after cutting 18,000 jobs in January &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230320/p11#a230320p11)
+ - [The Internet Archive is defending its digital library in court today](https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
