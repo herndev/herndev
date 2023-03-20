@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report from the Institute for Strategic Dialogue and CASM Technology: the average weekly number of antisemitic tweets more than doubled after Musk took over &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p16#a230320p16)
- - [Update adds 8BitDo controller support for Apple devices](https://appleinsider.com/articles/23/03/20/update-adds-8bitdo-controller-support-for-apple-devices?utm_medium=rss)
- - [TrendForce: NAND flash revenue dropped 45% YoY and 25% QoQ in Q4 2022 and is expected to drop 8.1% QoQ in Q1 2023; NAND&#39;s per-bit costs may reach all-time lows &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230320/p15#a230320p15)<!-- TECH:END -->
+ - [LG’s color-changing Style laptop is a less boring-looking Gram](https://www.theverge.com/2023/3/20/23648592/lg-gram-style-2023-price-release-date-announcement)
+ - [YouTube TV Prices Are Going Up. Here&#39;s What You&#39;ll Pay Now     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-prices-are-going-up-heres-what-youll-pay-now/#ftag=CAD590a51e)
+ - [Some of 8BitDo’s best controllers now work with Apple devices](https://www.theverge.com/2023/3/20/23648568/8bitdo-game-controllers-apple-iphone-ipad-mac-tv-compatibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
