@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait... What?](http://9gag.com/gag/amA1r5V)
- - ⏩ [Who is the last one](http://9gag.com/gag/arm3R8p)
- - 👉 [Looks important...](http://9gag.com/gag/aVboWEK)<!-- MEMES:END -->
+ - 💣 [You signed a waiver](http://9gag.com/gag/ap93QpE)
+ - ⏩ [Looks important...](http://9gag.com/gag/aVboWEK)
+ - 👉 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
 
 ---
 
