@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4&#39;s Official Little Anime Rules](https://kotaku.com/resident-evil-4-biohazard-anime-episode-capcom-nippon-1850242340)
- - [Five new Steam games you probably missed &lpar;March 20, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-20-2023)
- - [This fixed-camera survival horror mod is like a Half-Life and Resident Evil teleporter accident](https://www.pcgamer.com/this-fixed-camera-survival-horror-mod-is-like-a-half-life-and-resident-evil-teleporter-accident)<!-- GAME:END -->
+ - [Return to Silent Hill movie casts its stars, promises &#39;iconic monsters&#39; and &#39;new designs&#39;](https://www.pcgamer.com/return-to-silent-hill-movie-casts-its-stars-promises-iconic-monsters-and-new-designs)
+ - [256GB Quest 2 VR headsets are $70 off](https://www.pcgamer.com/256gb-quest-2-vr-headsets-are-dollar70-off)
+ - [Resident Evil 4&#39;s Official Little Anime Rules](https://kotaku.com/resident-evil-4-biohazard-anime-episode-capcom-nippon-1850242340)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
