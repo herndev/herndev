@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: ByteDance&#39;s video editing app CapCut, launched in 2020, has 200M+ MAUs and 400M+ downloads in 2022, up 43% YoY, surpassing TikTok in recent weeks &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230320/p2#a230320p2)
  - [Online Sleuths Untangle the Mystery of the Nord Stream Sabotage](https://www.wired.com/story/nord-steam-explosions-mystery-osint/)
- - [Russia’s Space Program Is in Big Trouble](https://www.wired.com/story/russias-space-program-is-in-big-trouble/)
- - [India cuts mobile internet access for a second day across Punjab, a state of ~27M people, as it tries to catch a Sikh separatist and curb &quot;fake news&quot; and unrest &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p1#a230320p1)<!-- TECH:END -->
+ - [Russia’s Space Program Is in Big Trouble](https://www.wired.com/story/russias-space-program-is-in-big-trouble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
