@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
+ - 💣 [Excited group digging up a crystal](http://9gag.com/gag/az2djZz)
  - ⏩ [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 👉 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
+ - 👉 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)<!-- MEMES:END -->
 
 ---
 
