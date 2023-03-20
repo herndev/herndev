@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
- - ⏩ [When they will stop?](http://9gag.com/gag/aVboXod)
- - 👉 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)<!-- MEMES:END -->
+ - 💣 [South Park creators clarifying stuff](http://9gag.com/gag/axo3jwb)
+ - ⏩ [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
+ - 👉 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 ---
 
