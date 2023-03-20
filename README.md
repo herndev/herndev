@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to launch a game app store on Android and iOS](https://www.androidauthority.com/microsoft-app-store-3300161/)
- - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
- - [More data suggests smartphones are going to get way more expensive soon](https://www.androidauthority.com/premium-smartphone-market-2023-3300194/)<!-- TECH:END -->
+ - [Amazon drops new deals: AirTags, Apple Watch, iPads, Macs up to 31% off](https://appleinsider.com/articles/23/03/20/amazon-drops-new-deals-airtags-apple-watch-ipads-macs-up-to-31-off?utm_medium=rss)
+ - [UN Report: Half of World&#39;s Population &#39;Highly Vulnerable to Climate Change&#39;     - CNET](https://www.cnet.com/science/climate/un-report-half-of-worlds-population-highly-vulnerable-to-climate-change/#ftag=CAD590a51e)
+ - [Senators Warn the Next US Bank Run Could Be Rigged](https://www.wired.com/story/senators-warn-the-next-us-bank-run-could-be-rigged-russia-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
