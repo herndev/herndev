@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
- - ⏩ [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)
- - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
+ - 💣 [Finally](http://9gag.com/gag/aGEnxn5)
+ - ⏩ [Wait... What?](http://9gag.com/gag/amA1r5V)
+ - 👉 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
 
 ---
 
