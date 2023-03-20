@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
- - ⏩ [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 👉 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
+ - 💣 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
+ - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 ---
 
