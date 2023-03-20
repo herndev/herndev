@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excited group digging up a crystal](http://9gag.com/gag/az2djZz)
- - ⏩ [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 👉 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)<!-- MEMES:END -->
+ - 💣 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - ⏩ [When they will stop?](http://9gag.com/gag/aVboXod)
+ - 👉 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)<!-- MEMES:END -->
 
 ---
 
