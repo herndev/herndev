@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us Season 2 Promo Starts Hype Train On Buff Abby](https://kotaku.com/the-last-of-us-tlou-season-2-who-will-play-abby-release-1850243353)
- - [Pro overclocker bricks AMD&#39;s best gaming chip without really trying](https://www.pcgamer.com/pro-overclocker-bricks-amds-best-gaming-chip-without-really-trying)
- - [Tips on surviving The Walking Dead: Saints &amp; Sinners – Chapter 2: Retribution on PS VR2](https://blog.playstation.com/2023/03/20/tips-on-surviving-the-walking-dead-saints-sinners-chapter-2-retribution-on-ps-vr2/)<!-- GAME:END -->
+ - [Elden Ring Stats Reveal What Bosses Killed Players The Most](https://kotaku.com/elden-ring-malenia-rock-sling-shadow-erdtree-dlc-1850243803)
+ - [Xbox hoping to launch mobile game store as early as next year](https://www.polygon.com/23648499/xbox-mobile-games-app-store-activision-blizzard)
+ - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
