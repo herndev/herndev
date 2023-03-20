@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You signed a waiver](http://9gag.com/gag/ap93QpE)
- - ⏩ [Looks important...](http://9gag.com/gag/aVboWEK)
- - 👉 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
+ - 💣 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - ⏩ [Is this true guys](http://9gag.com/gag/aRE4g8A)
+ - 👉 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
 
 ---
 
