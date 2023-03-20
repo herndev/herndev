@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks important...](http://9gag.com/gag/aVboWEK)
- - ⏩ [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
- - 👉 [Who is the last one](http://9gag.com/gag/arm3R8p)<!-- MEMES:END -->
+ - 💣 [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
+ - ⏩ [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)
+ - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 ---
 
