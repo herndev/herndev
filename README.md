@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
- - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
- - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
+ - 💣 [When they will stop?](http://9gag.com/gag/aVboXod)
+ - ⏩ [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 👉 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 ---
 
