@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the 2022 iPad Air, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Best Home Office Essentials for 2023     - CNET](https://www.cnet.com/tech/computing/home-office-essentials/#ftag=CAD590a51e)
- - [Diablo 4 Takes Bleakness to a New Level, Which Is Just Fine With Me     - CNET](https://www.cnet.com/tech/gaming/diablo-4-takes-bleakness-to-a-new-level-which-is-just-fine-with-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oura Ring review: love the feature changes, hate the new subscription](https://appleinsider.com/articles/23/03/19/oura-ring-review-love-the-features-changes-hate-the-new-subscription?utm_medium=rss)
+ - [Sources: Netflix&#39;s ad-supported tier reached about 1M MAUs in the US after its second month, and the company has hit its forecasted deliveries to advertisers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230319/p5#a230319p5)
+ - [Duolingo Transformed Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-transformed-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
