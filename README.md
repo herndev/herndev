@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not my f*cking job!](http://9gag.com/gag/aKEA2wb)
+ - 💣 [Who is the last one](http://9gag.com/gag/arm3R8p)
  - ⏩ [This is my guy](http://9gag.com/gag/awZ3VVQ)
- - 👉 [Its cool and legal](http://9gag.com/gag/aDY6jMO)<!-- MEMES:END -->
+ - 👉 [Please business daddy save me!](http://9gag.com/gag/aVboqY2)<!-- MEMES:END -->
 
 ---
 
