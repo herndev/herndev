@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When they will stop?](http://9gag.com/gag/aVboXod)
- - ⏩ [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 👉 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
+ - 💣 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - ⏩ [Diversity](http://9gag.com/gag/abv1y88)
+ - 👉 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 ---
 
