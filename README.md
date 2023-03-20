@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #639: Monday, March 20](https://www.pcgamer.com/wordle-hint-answer-today-639-march-20)
- - [Return to Silent Hill movie casts its stars, promises &#39;iconic monsters&#39; and &#39;new designs&#39;](https://www.pcgamer.com/return-to-silent-hill-movie-casts-its-stars-promises-iconic-monsters-and-new-designs)
- - [256GB Quest 2 VR headsets are $70 off](https://www.pcgamer.com/256gb-quest-2-vr-headsets-are-dollar70-off)<!-- GAME:END -->
+ - [Unicorn Wars’ Alberto Vázquez explains his deeply upsetting take on Care Bears](https://www.polygon.com/23645416/unicorn-wars-ending-explained-alberto-vazquez)
+ - [Smuggler tries to scoot 84 SSDs into China, gets busted](https://www.pcgamer.com/smuggler-tries-to-scoot-84-ssds-into-china-gets-busted)
+ - [Disco Elysium fans blast &#39;absolutely demonic&#39; ZA/UM execs for new photo mode: &#39;it wasn&#39;t enough to rob the creators of their own work, you had to turn it into this meme ridden sludge, too&#39;](https://www.pcgamer.com/disco-elysium-fans-blast-absolutely-demonic-zaum-execs-for-new-photo-mode-it-wasnt-enough-to-rob-the-creators-of-their-own-work-you-had-to-turn-it-into-this-meme-ridden-sludge-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
