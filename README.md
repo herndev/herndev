@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Bayonetta Prequel Makes Up For 3&#39;s Bad Ending](https://kotaku.com/cereza-lost-demon-bayonetta-3-review-impressions-switch-1850244891)
- - [Twitch lays off more than 400 employees as Amazon cuts another 9,000 jobs](https://www.pcgamer.com/twitch-lays-off-more-than-400-employees-as-amazon-cuts-another-9000-jobs)
- - [GDC 2023: ID@Xbox Online Demos Now Live on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/03/20/idxboxgdc-2023-online-demos-now-live-on-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
+ - [How to unlock literally everything in WWE 2K23](https://www.polygon.com/guides/23648763/wwe-2k23-how-to-unlock-superstars-legends-arenas-championships)
+ - [I didn&#39;t expect Diablo 4 to be my next MMO](https://www.pcgamer.com/i-didnt-expect-diablo-4-to-be-my-next-mmo)
+ - [Let&#39;s Talk About Diablo IV&#39;s Most Controversial Change](https://kotaku.com/diablo-4-iv-beta-dodge-roll-controversy-world-boss-1850245274)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
