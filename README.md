@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #639: Monday, March 20](https://www.pcgamer.com/wordle-hint-answer-today-639-march-20)
  - [Return to Silent Hill movie casts its stars, promises &#39;iconic monsters&#39; and &#39;new designs&#39;](https://www.pcgamer.com/return-to-silent-hill-movie-casts-its-stars-promises-iconic-monsters-and-new-designs)
- - [256GB Quest 2 VR headsets are $70 off](https://www.pcgamer.com/256gb-quest-2-vr-headsets-are-dollar70-off)
- - [Resident Evil 4&#39;s Official Little Anime Rules](https://kotaku.com/resident-evil-4-biohazard-anime-episode-capcom-nippon-1850242340)<!-- GAME:END -->
+ - [256GB Quest 2 VR headsets are $70 off](https://www.pcgamer.com/256gb-quest-2-vr-headsets-are-dollar70-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
