@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)
- - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
- - [Marvel Studios VFX head Victoria Alonso is out](https://www.theverge.com/2023/3/20/23649154/marvel-studios-victoria-alonso-vfx-mcu)<!-- TECH:END -->
+ - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)
+ - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
