@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor brings back the best thing about Rise of Skywalker](https://www.polygon.com/23648813/star-wars-jedi-survivor-klaud-rise-of-skywalker)
- - [Diablo 4 players react to the beta test: &#39;Seems to be Blizzard back in their old form&#39;](https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form)
- - [The Resident Evil 4 Remake Changing Ashley’s Skirt Gives Me Hope](https://kotaku.com/video-game-fashion-ashley-graham-re4-remake-skirt-1850245569)<!-- GAME:END -->
+ - [Diablo 4 convinced me that skill trees rule, actually](https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually)
+ - [Six Cool Details In The New Star Wars Jedi: Survivor Trailer](https://kotaku.com/star-wars-jedi-survivor-release-date-trailer-breakdown-1850245937)
+ - [Star Wars Jedi: Survivor brings back the best thing about Rise of Skywalker](https://www.polygon.com/23648813/star-wars-jedi-survivor-klaud-rise-of-skywalker)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
