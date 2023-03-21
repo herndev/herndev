@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is giving its most successful chipmakers, including SMIC, Huawei, and Hua Hong, easier subsidy access and more control over state-backed research &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230321/p2#a230321p2)
- - [Pixel 8 Pro could borrow a Pixel 7 Pro camera trick to improve low-light shots](https://www.androidauthority.com/pixel-8-pro-night-sight-camera-feature-3300468/)
- - [The big March 2023 update is finally here for the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
+ - [New leak shows Apple’s removing an iconic feature from the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-mute-button-3300470/)
+ - [The Scorched-Earth Tactics of Iran’s Cyber Army](https://www.wired.com/story/iran-cyber-army-protests-disinformation/)
+ - [Sources: China is giving its most successful chipmakers, including SMIC, Huawei, and Hua Hong, easier subsidy access and more control over state-backed research &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230321/p2#a230321p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
