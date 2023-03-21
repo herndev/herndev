@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X6 Pro hands-on impressions: The best 2023 phone you can’t buy?](https://www.androidauthority.com/oppo-find-x6-pro-review-hands-on-impressions-3298577/)
- - [Oppo Find X6 Pro announced: A phone that bets everything on its main cameras](https://www.androidauthority.com/oppo-find-x6-pro-3300311/)
- - [New leak shows Apple’s removing an iconic feature from the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-mute-button-3300470/)<!-- TECH:END -->
+ - [A case for slowing down AI due to existential and bias risks, despite objections like its alleged inevitability and the AI arms race with China &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/230321/p3#a230321p3)
+ - [Oppo’s Find X6 Pro is the latest smartphone to get a massive 1-inch camera sensor](https://www.theverge.com/2023/3/21/23648689/oppo-find-x6-pro-1-inch-type-camera-sensor-price-release-date-specs-features)
+ - [OPPO Find X6 Pro hands-on impressions: The best 2023 phone you can’t buy?](https://www.androidauthority.com/oppo-find-x6-pro-review-hands-on-impressions-3298577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
