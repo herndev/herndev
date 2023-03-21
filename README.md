@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlearn.AI, which creates &quot;digital twin&quot; profiles of patients in clinical trials, raised $15M at a $265M valuation and adds OpenAI CTO Mira Murati to its board &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230321/p16#a230321p16)
- - [Samsung&#39;s Spring Sale slashes up to $1,600 off TVs, monitors &amp; appliances](https://appleinsider.com/articles/23/03/20/samsungs-spring-sale-slashes-up-to-1600-off-tvs-monitors-appliances?utm_medium=rss)
- - [Samsung Galaxy A54 5G vs Galaxy A53 5G: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-a54-5g-vs-a53-5g-3299114/)<!-- TECH:END -->
+ - [eToro secures $250M at a $3.5B valuation via an Advanced Investment Agreement signed in 2021, after scrapping its SPAC plans in 2022 amid slowing growth &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230321/p18#a230321p18)
+ - [New Adobe Firefly will use AI to generate art, but protect artists](https://appleinsider.com/articles/23/03/21/new-adobe-firefly-will-use-ai-to-generate-art-but-protect-artists?utm_medium=rss)
+ - [Ecovacs new vacuum &amp; mopping robots feature better navigation](https://appleinsider.com/articles/23/03/21/ecovacs-new-vacuum-mopping-robots-feature-better-navigation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
