@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ferrari held to ransom as client database hacked](https://www.pcgamer.com/ferrari-held-to-ransom-as-client-database-hacked)
- - [Over a million Diablo 4 players picked up a puppy last weekend, and you&#39;ve still got one more shot](https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot)
- - [Pokémon Go Ditto disguises list for March 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: MLB The Show 23 and Infinite Guitars](https://news.xbox.com/en-us/2023/03/21/game-pass-march-2023-wave-2-announce/)
+ - [How Grand Theft Auto, Zelda, and a Southwest Pacific nation inspired Tchia](https://www.polygon.com/zelda/23649250/tchia-zelda-grand-theft-auto-gta-inspiration)
+ - [The final issue with Intel&#39;s best budget gaming chip has now been laid to rest](https://www.pcgamer.com/the-final-issue-with-intels-best-budget-gaming-chip-has-now-been-laid-to-rest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
