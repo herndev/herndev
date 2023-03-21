@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT watch out: You can now chat to Google Bard](https://appleinsider.com/articles/23/03/21/chatgpt-watch-out-you-can-now-chat-to-google-bard?utm_medium=rss)
- - [Microsoft &amp; OpenAI add AI image creation tool to Bing](https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing?utm_medium=rss)
- - [Nvidia announces DGX Cloud, aiming to offer a flexible way for companies to scale up their AI needs, starting at $36,999 per month for a single node &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/230321/p21#a230321p21)<!-- TECH:END -->
+ - [Apple&#39;s M2 Max MacBook Pro 16-inch with 96GB RAM is $250 off, in stock](https://appleinsider.com/articles/23/03/21/apples-m2-max-macbook-pro-16-inch-with-96gb-ram-is-250-off-in-stock?utm_medium=rss)
+ - [An internal Microsoft document tells Azure salespeople to say that OpenAI&#39;s licenses offer &quot;limited enterprise-grade capabilities&quot; and weaker privacy features &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230321/p24#a230321p24)
+ - [Jabra’s $99 Elite 4 earbuds come with active noise cancellation](https://www.theverge.com/2023/3/21/23650072/jabra-elite-4-earbuds-active-noise-cancellation-multipoint)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
