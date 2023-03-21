@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia introduces six new Ada Lovelace RTX GPUs: five for laptops and one for desktops, the RTX 4000 Small Form Factor, available later in March 2023 for $1,250 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230321/p34#a230321p34)
- - [Google Calendar on Android may finally let you set up custom birthday reminders](https://www.androidauthority.com/google-calendar-android-3300705/)
- - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, which ended with 589M paid subscribers; total streaming grew 11.5% YoY to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)<!-- TECH:END -->
+ - [Instagram is testing ads in search results, with plans for a global rollout in the coming months, and launches Reminder Ads, for opt-in reminders about events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230321/p36#a230321p36)
+ - [OpenAI may have tested GPT-4 on its training data, violating the cardinal rule of ML, and GPT-4&#39;s exam performance says little about its real-world usefulness &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230321/p35#a230321p35)
+ - [China’s Answer to ChatGPT Flubs Its First Lines](https://www.wired.com/story/chinas-answer-to-chatgpt-flubs-its-first-lines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
