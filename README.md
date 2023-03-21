@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The development of AI is as fundamental as the creation of the PC, the Internet, and the mobile phone and can reduce global inequities if risks are mitigated &lpar;Bill Gates/GatesNotes&rpar;](http://www.techmeme.com/230321/p30#a230321p30)
- - [Report: TikTok tracking pixels were found on 30 state government websites in the US; such trackers are ubiquitous and offered by Meta, Google, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230321/p29#a230321p29)
- - [Intel says Raja Koduri, who joined as Chief Architect in 2017, is leaving to found a startup focused on generative AI for gaming, media, and entertainment &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p28#a230321p28)<!-- TECH:END -->
+ - [Windows 11 Snipping Tool appears to have a vulnerability similar to Pixel phones&#39; &quot;aCropalypse&quot;, which can reveal sensitive info in some edited screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)
+ - [Get up to $900 off computers &amp; electronics at B&amp;H Photo this week](https://appleinsider.com/articles/23/03/21/get-up-to-900-off-computers-electronics-at-bh-photo-this-week?utm_medium=rss)
+ - [Judge approves settlement in Celsius bankruptcy case whereby the company&#39;s custody account holders can opt in to receiving 72.5% of the crypto in their accounts &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/230321/p31#a230321p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
