@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women are out of control](http://9gag.com/gag/awZ3QY1)
- - ⏩ [Looks important...](http://9gag.com/gag/aVboWEK)
- - 👉 [On this day 20 years ago, U.S. and Coalition Forces launched an all out bombing on Baghdad, Iraq in the middle of the night.](http://9gag.com/gag/aeQ1p7W)<!-- MEMES:END -->
+ - 💣 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)
+ - ⏩ [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)
+ - 👉 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)<!-- MEMES:END -->
 
 ---
 
