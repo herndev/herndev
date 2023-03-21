@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, with 589M subs at the end of the year; total streaming grew 11.5% to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [Windows 11&#39;s Snipping Tool appears to have a bug similar to Pixel&#39;s Markup tool &quot;aCropalypse&quot; bug, which lets anyone reveal info edited out in some screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)<!-- TECH:END -->
+ - [Nvidia introduces six new Ada Lovelace RTX GPUs: five for laptops and one for desktops, the RTX 4000 Small Form Factor, available later in March 2023 for $1,250 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230321/p34#a230321p34)
+ - [Google Calendar on Android may finally let you set up custom birthday reminders](https://www.androidauthority.com/google-calendar-android-3300705/)
+ - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, which ended with 589M paid subscribers; total streaming grew 11.5% YoY to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
