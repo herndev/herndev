@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico 2.5-inch hard drive enclosure review: affordable and cool storage](https://appleinsider.com/articles/23/03/21/orico-25-inch-hard-drive-enclosure-review-affordable-and-cool-storage?utm_medium=rss)
- - [iPhone 15 certified cable requirement expected to create high USB-C charger demand](https://appleinsider.com/articles/23/03/21/iphone-15-mfi-requirements-to-drive-usb-c-charger-demand?utm_medium=rss)
- - [Research: 14% of new Fortune 500 board members in 2022 had cybersecurity experience, down from 17% in 2021; the SEC is finalizing new cyber risk reporting rules &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/230321/p7#a230321p7)<!-- TECH:END -->
+ - [A year after its Staten Island win, the Amazon Labor Union has endured setbacks and conflicts, including between president Chris Smalls and longtime organizers &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230321/p10#a230321p10)
+ - [The Quest for Injectable Brain Implants Has Begun](https://www.wired.com/story/injectable-brain-electrodes-bci-parkinsons/)
+ - [TikTok refreshes its Community Guidelines, expanding a section to cover &quot;synthetic and manipulated media&quot;, or deepfakes, as pressure from the US increases &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230321/p9#a230321p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
