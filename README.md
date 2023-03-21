@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - ⏩ [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
- - 👉 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
+ - 💣 [Relatable](http://9gag.com/gag/aMEBABA)
+ - ⏩ [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
+ - 👉 [Save the killer whale](http://9gag.com/gag/aRE4K0A)<!-- MEMES:END -->
 
 ---
 
