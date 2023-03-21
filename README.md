@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - 💣 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
  - ⏩ [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
- - 👉 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)<!-- MEMES:END -->
+ - 👉 [Relatable](http://9gag.com/gag/aMEBABA)<!-- MEMES:END -->
 
 ---
 
