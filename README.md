@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)
- - [Respawn reckons Apex Legends will be around for &#39;10, 15 years or more&#39; and it&#39;s opened a new studio to make it happen](https://www.pcgamer.com/respawn-reckons-apex-legends-will-be-around-for-10-15-years-or-more-and-its-opened-a-new-studio-to-make-it-happen)
- - [10 Badass Action Games That Will Make You Feel Like John Wick](https://kotaku.com/john-wick-chapter-4-movie-cyberpunk-2077-keanu-reeves-1850247338)<!-- GAME:END -->
+ - [When will Shazam! Fury of the Gods come to HBO Max?](https://www.polygon.com/2023/3/21/23650157/shazam-fury-of-the-gods-streaming-hbo-max-date)
+ - [Destiny 2: Lightfall&#39;s Best Secret: An Exotic World Boss Almost No One Has Seen](https://kotaku.com/destiny-2-lightfall-vex-incursion-event-exotic-loot-1850247838)
+ - [Yup, PC monitor sales have cratered too and are getting worse](https://www.pcgamer.com/yup-pc-monitor-sales-have-cratered-too-and-are-getting-worse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
