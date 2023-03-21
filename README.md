@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks important...](http://9gag.com/gag/aVboWEK)
- - ⏩ [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 👉 [Wauw. Hopefully he gets prison for life if convicted again](http://9gag.com/gag/amA1Y2y)<!-- MEMES:END -->
+ - 💣 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
+ - ⏩ [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - 👉 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
 
 ---
 
