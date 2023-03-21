@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Max MacBook Pro 16-inch with 96GB RAM is $250 off, in stock](https://appleinsider.com/articles/23/03/21/apples-m2-max-macbook-pro-16-inch-with-96gb-ram-is-250-off-in-stock?utm_medium=rss)
- - [An internal Microsoft document tells Azure salespeople to say that OpenAI&#39;s licenses offer &quot;limited enterprise-grade capabilities&quot; and weaker privacy features &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230321/p24#a230321p24)
- - [Jabra’s $99 Elite 4 earbuds come with active noise cancellation](https://www.theverge.com/2023/3/21/23650072/jabra-elite-4-earbuds-active-noise-cancellation-multipoint)<!-- TECH:END -->
+ - [Apple seeds developer release candidate for iOS and iPadOS 16.4](https://appleinsider.com/articles/23/03/21/apple-seeds-fifth-developer-beta-for-ios-and-ipados-164?utm_medium=rss)
+ - [Apple issues release candidate developer beta for macOS Ventura 13.3](https://appleinsider.com/articles/23/03/21/apple-issues-release-candidate-developer-beta-for-macos-ventura-133?utm_medium=rss)
+ - [Developer release candidates for tvOS 16.4 &amp; watchOS 9.4 are out](https://appleinsider.com/articles/23/03/21/fifth-developer-betas-for-tvos-164-watchos-94-are-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
