@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
- - ⏩ [Is this true guys](http://9gag.com/gag/aRE4g8A)
- - 👉 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
+ - 💣 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - ⏩ [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 👉 [Wauw. Hopefully he gets prison for life if convicted again](http://9gag.com/gag/amA1Y2y)<!-- MEMES:END -->
 
 ---
 
