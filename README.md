@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 Snipping Tool appears to have a vulnerability similar to Pixel phones&#39; &quot;aCropalypse&quot;, which can reveal sensitive info in some edited screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)
- - [Get up to $900 off computers &amp; electronics at B&amp;H Photo this week](https://appleinsider.com/articles/23/03/21/get-up-to-900-off-computers-electronics-at-bh-photo-this-week?utm_medium=rss)
- - [Judge approves settlement in Celsius bankruptcy case whereby the company&#39;s custody account holders can opt in to receiving 72.5% of the crypto in their accounts &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/230321/p31#a230321p31)<!-- TECH:END -->
+ - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, with 589M subs at the end of the year; total streaming grew 11.5% to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Windows 11&#39;s Snipping Tool appears to have a bug similar to Pixel&#39;s Markup tool &quot;aCropalypse&quot; bug, which lets anyone reveal info edited out in some screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
