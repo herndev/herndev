@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #640: Tuesday, March 21](https://www.pcgamer.com/wordle-hint-answer-today-640-march-21)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/20/this-weeks-deals-with-gold-and-spotlight-sale-267/)
- - [Anime take on Resident Evil 4 is creepier than non-anime Resident Evil 4](https://www.pcgamer.com/anime-take-on-resident-evil-4-is-scarier-than-non-anime-resident-evil-4)<!-- GAME:END -->
+ - [Ferrari held to ransom as client database hacked](https://www.pcgamer.com/ferrari-held-to-ransom-as-client-database-hacked)
+ - [Over a million Diablo 4 players picked up a puppy last weekend, and you&#39;ve still got one more shot](https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot)
+ - [Pokémon Go Ditto disguises list for March 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
