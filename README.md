@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak shows Apple’s removing an iconic feature from the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-mute-button-3300470/)
- - [The Scorched-Earth Tactics of Iran’s Cyber Army](https://www.wired.com/story/iran-cyber-army-protests-disinformation/)
- - [Sources: China is giving its most successful chipmakers, including SMIC, Huawei, and Hua Hong, easier subsidy access and more control over state-backed research &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230321/p2#a230321p2)<!-- TECH:END -->
+ - [OPPO Find X6 Pro hands-on impressions: The best 2023 phone you can’t buy?](https://www.androidauthority.com/oppo-find-x6-pro-review-hands-on-impressions-3298577/)
+ - [Oppo Find X6 Pro announced: A phone that bets everything on its main cameras](https://www.androidauthority.com/oppo-find-x6-pro-3300311/)
+ - [New leak shows Apple’s removing an iconic feature from the iPhone 15 Pro](https://www.androidauthority.com/apple-iphone-15-pro-mute-button-3300470/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
