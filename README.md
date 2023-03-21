@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - ⏩ [Why not](http://9gag.com/gag/adP1j7B)
- - 👉 [Pool of cave water completely isolated for hundreds of thousands of years](http://9gag.com/gag/aBd6WzZ)<!-- MEMES:END -->
+ - 💣 [Pool of cave water completely isolated for hundreds of thousands of years](http://9gag.com/gag/aBd6WzZ)
+ - ⏩ [When you have the mental capacity of a 3 year old](http://9gag.com/gag/a8q68B1)
+ - 👉 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)<!-- MEMES:END -->
 
 ---
 
