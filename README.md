@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relatable](http://9gag.com/gag/aMEBABA)
- - ⏩ [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
- - 👉 [Save the killer whale](http://9gag.com/gag/aRE4K0A)<!-- MEMES:END -->
+ - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
+ - ⏩ [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)
+ - 👉 [Father reflex or the year](http://9gag.com/gag/aVboDK8)<!-- MEMES:END -->
 
 ---
 
