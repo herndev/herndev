@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh ok](http://9gag.com/gag/aMEBwzG)
- - ⏩ [My gf is my left Hand](http://9gag.com/gag/aL1zB9z)
- - 👉 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)<!-- MEMES:END -->
+ - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
+ - ⏩ [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
+ - 👉 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
 
 ---
 
