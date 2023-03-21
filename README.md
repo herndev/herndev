@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)
- - ⏩ [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)
- - 👉 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)<!-- MEMES:END -->
+ - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - ⏩ [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 👉 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)<!-- MEMES:END -->
 
 ---
 
