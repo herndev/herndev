@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds developer release candidate for iOS and iPadOS 16.4](https://appleinsider.com/articles/23/03/21/apple-seeds-fifth-developer-beta-for-ios-and-ipados-164?utm_medium=rss)
- - [Apple issues release candidate developer beta for macOS Ventura 13.3](https://appleinsider.com/articles/23/03/21/apple-issues-release-candidate-developer-beta-for-macos-ventura-133?utm_medium=rss)
- - [Developer release candidates for tvOS 16.4 &amp; watchOS 9.4 are out](https://appleinsider.com/articles/23/03/21/fifth-developer-betas-for-tvos-164-watchos-94-are-out?utm_medium=rss)<!-- TECH:END -->
+ - [The development of AI is as fundamental as the creation of the PC, the Internet, and the mobile phone and can reduce global inequities if risks are mitigated &lpar;Bill Gates/GatesNotes&rpar;](http://www.techmeme.com/230321/p30#a230321p30)
+ - [Report: TikTok tracking pixels were found on 30 state government websites in the US; such trackers are ubiquitous and offered by Meta, Google, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230321/p29#a230321p29)
+ - [Intel says Raja Koduri, who joined as Chief Architect in 2017, is leaving to found a startup focused on generative AI for gaming, media, and entertainment &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p28#a230321p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
