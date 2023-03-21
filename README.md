@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Reebelo, a marketplace for pre-owned smartphones, tablets, and more, raised a $29M Series A extension, bringing its Series A total to ~$50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230320/p23#a230320p23)
  - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)
- - [An overview of 55 zero-day vulnerabilities exploited in 2022, mostly in products from Apple, Microsoft, and Google; Chinese groups exploited more than others &lpar;Mandiant&rpar;](http://www.techmeme.com/230320/p22#a230320p22)
- - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)<!-- TECH:END -->
+ - [Stuck on Your Taxes? Here&#39;s How to Get Free Help     - CNET](https://www.cnet.com/personal-finance/taxes/stuck-on-your-taxes-heres-how-to-get-free-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
