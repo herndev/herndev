@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
- - ⏩ [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
+ - 💣 [She wants \ud83e\udd6a](http://9gag.com/gag/aPgmDen)
+ - ⏩ [No more](http://9gag.com/gag/aL1zDKx)
+ - 👉 [Save it to never use it](http://9gag.com/gag/a4o6Gey)<!-- MEMES:END -->
 
 ---
 
