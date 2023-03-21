@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A year after its Staten Island win, the Amazon Labor Union has endured setbacks and conflicts, including between president Chris Smalls and longtime organizers &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230321/p10#a230321p10)
- - [The Quest for Injectable Brain Implants Has Begun](https://www.wired.com/story/injectable-brain-electrodes-bci-parkinsons/)
- - [TikTok refreshes its Community Guidelines, expanding a section to cover &quot;synthetic and manipulated media&quot;, or deepfakes, as pressure from the US increases &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230321/p9#a230321p9)<!-- TECH:END -->
+ - [Jabra&#39;s new Elite 4 earbuds offer clarity in noisy environments](https://appleinsider.com/articles/23/03/21/jabras-new-elite-4-earbuds-offer-clarity-in-noisy-environments?utm_medium=rss)
+ - [Jabra Elite 4 review: Budget buds that are best for Android users](https://www.androidauthority.com/jabra-elite-4-review-3299602/)
+ - [Apple TV+ beats rivals to &#39;Maybe Next Time&#39; movie](https://appleinsider.com/articles/23/03/21/apple-tv-beats-rivals-to-maybe-next-time-movie?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
