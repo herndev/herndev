@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Microsoft Flight Simulator is Keeping a Ukrainian Dream Alive](https://news.xbox.com/en-us/2023/03/21/microsoft-flight-simulator-keeping-ukrainian-dream-alive/)
- - [Criterion is having a 50% off sale on DVDs, 4K Blu-rays, and collections](https://www.polygon.com/deals/2023/3/21/23650524/criterion-collection-sale-dvd-blu-ray-4k-films)
- - [Good news, edgelords! Destiny just dropped an &lpar;almost&rpar; all-black shader for everyone](https://www.pcgamer.com/good-news-edgelords-destiny-just-dropped-an-almost-all-black-shader-for-everyone)<!-- GAME:END -->
+ - [Start Your Kingdom Today in Ni no Kuni II: Revenant Kingdom – The Prince’s Edition on Xbox Game Pass](https://news.xbox.com/en-us/2023/03/21/ni-no-kuni-ii-revenant-kingdom-xbox-game-pass/)
+ - [Butters from South Park is getting the hero edit on TikTok](https://www.polygon.com/23650283/south-park-butters-tiktok-edits-trend)
+ - [Final Fantasy 16&#39;s Party Is Looking Top Tier With This New Wolf Buddy](https://kotaku.com/final-fantasy-16-dog-wolf-torgal-party-ff16-ps5-1850249553)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
