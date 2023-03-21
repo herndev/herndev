@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro secures $250M at a $3.5B valuation via an Advanced Investment Agreement signed in 2021, after scrapping its SPAC plans in 2022 amid slowing growth &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230321/p18#a230321p18)
- - [New Adobe Firefly will use AI to generate art, but protect artists](https://appleinsider.com/articles/23/03/21/new-adobe-firefly-will-use-ai-to-generate-art-but-protect-artists?utm_medium=rss)
- - [Ecovacs new vacuum &amp; mopping robots feature better navigation](https://appleinsider.com/articles/23/03/21/ecovacs-new-vacuum-mopping-robots-feature-better-navigation?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT watch out: You can now chat to Google Bard](https://appleinsider.com/articles/23/03/21/chatgpt-watch-out-you-can-now-chat-to-google-bard?utm_medium=rss)
+ - [Microsoft &amp; OpenAI add AI image creation tool to Bing](https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing?utm_medium=rss)
+ - [Nvidia announces DGX Cloud, aiming to offer a flexible way for companies to scale up their AI needs, starting at $36,999 per month for a single node &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/230321/p21#a230321p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
