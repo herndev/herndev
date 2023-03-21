@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
- - ⏩ [Father reflex or the year](http://9gag.com/gag/aVboDK8)
- - 👉 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
+ - 💣 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)
+ - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 👉 [On this day 20 years ago, U.S. and Coalition Forces launched an all out bombing on Baghdad, Iraq in the middle of the night.](http://9gag.com/gag/aeQ1p7W)<!-- MEMES:END -->
 
 ---
 
