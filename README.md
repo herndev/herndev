@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gain Outstanding Rewards in Hit Games this March Through EA Play](https://news.xbox.com/en-us/2023/03/21/gain-outstanding-rewards-in-hit-games-this-march-through-ea-play/)
- - [EA pulling Battlefield: Bad Company games, Mirror’s Edge from stores](https://www.polygon.com/23650306/battlefield-bad-company-1943-servers-mirrors-edge-offline)
- - [Pokémon Go ‘Let’s Go’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23650249/lets-go-special-research-tasks-rewards-steps)<!-- GAME:END -->
+ - [Crash Bandicoot Heads in a New and Unexpected Direction with Crash Team Rumble, Available for Pre-Order Today](https://news.xbox.com/en-us/2023/03/21/crash-team-rumble-available-for-pre-order-today/)
+ - [Bayonetta Creator Says Prequel Will Solve Japan&#39;s Low Birthrate](https://kotaku.com/bayonetta-3-cereza-lost-demon-hideki-kamiya-japan-birth-1850248581)
+ - [Aliens: Dark Descent isn’t just another squad shooter, actually](https://www.polygon.com/23650444/aliens-dark-descent-release-date-gameplay-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
