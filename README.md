@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
- - [How did Shadow and Bone season 2 mess up its ships so badly?](https://www.polygon.com/23649067/shadow-bone-season-2-jesper-wylan-mal-alina-romance)
- - [Meet your new favourite shotgun in this Warhammer boomer shooter](https://www.pcgamer.com/meet-your-new-favourite-shotgun-in-this-warhammer-boomer-shooter)<!-- GAME:END -->
+ - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)
+ - [Respawn reckons Apex Legends will be around for &#39;10, 15 years or more&#39; and it&#39;s opened a new studio to make it happen](https://www.pcgamer.com/respawn-reckons-apex-legends-will-be-around-for-10-15-years-or-more-and-its-opened-a-new-studio-to-make-it-happen)
+ - [10 Badass Action Games That Will Make You Feel Like John Wick](https://kotaku.com/john-wick-chapter-4-movie-cyberpunk-2077-keanu-reeves-1850247338)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
