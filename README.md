@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crash Bandicoot Heads in a New and Unexpected Direction with Crash Team Rumble, Available for Pre-Order Today](https://news.xbox.com/en-us/2023/03/21/crash-team-rumble-available-for-pre-order-today/)
- - [Bayonetta Creator Says Prequel Will Solve Japan&#39;s Low Birthrate](https://kotaku.com/bayonetta-3-cereza-lost-demon-hideki-kamiya-japan-birth-1850248581)
- - [Aliens: Dark Descent isn’t just another squad shooter, actually](https://www.polygon.com/23650444/aliens-dark-descent-release-date-gameplay-trailer)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases the Highly Versatile Antonov An-2 Aircraft](https://news.xbox.com/en-us/2023/03/21/microsoft-flight-simulator-antonov-an-2-aircraft/)
+ - [Mirror&#39;s Edge and Bad Company 2 are being removed from sale forever](https://www.pcgamer.com/mirrors-edge-and-bad-company-2-are-being-removed-from-sale-forever)
+ - [Diablo IV Classes Won&#39;t Always Feel Balanced, Blizzard Says](https://kotaku.com/diablo-4-beta-rogue-barbarian-sorcerer-class-balance-1850248865)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
