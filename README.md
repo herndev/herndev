@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pool of cave water completely isolated for hundreds of thousands of years](http://9gag.com/gag/aBd6WzZ)
- - ⏩ [When you have the mental capacity of a 3 year old](http://9gag.com/gag/a8q68B1)
- - 👉 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)<!-- MEMES:END -->
+ - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
+ - ⏩ [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 👉 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 ---
 
