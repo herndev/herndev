@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)
- - ⏩ [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 💣 [Women are out of control](http://9gag.com/gag/awZ3QY1)
+ - ⏩ [Looks important...](http://9gag.com/gag/aVboWEK)
  - 👉 [On this day 20 years ago, U.S. and Coalition Forces launched an all out bombing on Baghdad, Iraq in the middle of the night.](http://9gag.com/gag/aeQ1p7W)<!-- MEMES:END -->
 
 ---
