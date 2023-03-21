@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s Morbin&#39; Time again, thanks to the new Marvel&#39;s Midnight Suns DLC](https://www.pcgamer.com/its-morbin-time-again-thanks-to-the-new-marvels-midnight-suns-dlc)
  - [Deceive Inc. – A Guide to All Four Sprawling Maps](https://news.xbox.com/en-us/2023/03/21/deceive-inc-a-guide/)
- - [Trump Hasn&#39;t Been Arrested But But AI Images Keep Fooling People](https://kotaku.com/did-donald-trump-arrested-today-yet-news-ai-midjourney-1850249881)
- - [Aliens: Dark Descent looks surprisingly decent in this first gameplay footage](https://www.pcgamer.com/aliens-dark-descent-looks-surprisingly-decent-in-this-first-gameplay-footage)<!-- GAME:END -->
+ - [Shazam Star Begs To Be In The Last Of Us After Shazam 2 Bombs](https://kotaku.com/shazam-2-dc-star-zachary-levi-last-of-us-hbo-tweet-flop-1850249863)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
