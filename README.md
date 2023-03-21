@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
- - ⏩ [Lmao.](http://9gag.com/gag/aGEnD7w)
- - 👉 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
+ - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
+ - ⏩ [Why not](http://9gag.com/gag/adP1j7B)
+ - 👉 [Pool of cave water completely isolated for hundreds of thousands of years](http://9gag.com/gag/aBd6WzZ)<!-- MEMES:END -->
 
 ---
 
