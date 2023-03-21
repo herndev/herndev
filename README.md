@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more](http://9gag.com/gag/aL1zDKx)
- - ⏩ [Poland](http://9gag.com/gag/aGEng96)
- - 👉 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
+ - 💣 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
+ - ⏩ [Save it to never use it](http://9gag.com/gag/a4o6Gey)
+ - 👉 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)<!-- MEMES:END -->
 
 ---
 
