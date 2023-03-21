@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)
- - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)<!-- TECH:END -->
+ - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)
+ - [An overview of 55 zero-day vulnerabilities exploited in 2022, mostly in products from Apple, Microsoft, and Google; Chinese groups exploited more than others &lpar;Mandiant&rpar;](http://www.techmeme.com/230320/p22#a230320p22)
+ - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
