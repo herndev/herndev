@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She wants \ud83e\udd6a](http://9gag.com/gag/aPgmDen)
- - ⏩ [No more](http://9gag.com/gag/aL1zDKx)
- - 👉 [Save it to never use it](http://9gag.com/gag/a4o6Gey)<!-- MEMES:END -->
+ - 💣 [Save it to never use it](http://9gag.com/gag/a4o6Gey)
+ - ⏩ [Wait... What?](http://9gag.com/gag/amA1r5V)
+ - 👉 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)<!-- MEMES:END -->
 
 ---
 
