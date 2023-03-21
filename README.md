@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra&#39;s new Elite 4 earbuds offer clarity in noisy environments](https://appleinsider.com/articles/23/03/21/jabras-new-elite-4-earbuds-offer-clarity-in-noisy-environments?utm_medium=rss)
- - [Jabra Elite 4 review: Budget buds that are best for Android users](https://www.androidauthority.com/jabra-elite-4-review-3299602/)
- - [Apple TV+ beats rivals to &#39;Maybe Next Time&#39; movie](https://appleinsider.com/articles/23/03/21/apple-tv-beats-rivals-to-maybe-next-time-movie?utm_medium=rss)<!-- TECH:END -->
+ - [Unlearn.AI, which creates &quot;digital twin&quot; profiles of patients in clinical trials, raised $15M at a $265M valuation and adds OpenAI CTO Mira Murati to its board &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230321/p16#a230321p16)
+ - [Samsung&#39;s Spring Sale slashes up to $1,600 off TVs, monitors &amp; appliances](https://appleinsider.com/articles/23/03/20/samsungs-spring-sale-slashes-up-to-1600-off-tvs-monitors-appliances?utm_medium=rss)
+ - [Samsung Galaxy A54 5G vs Galaxy A53 5G: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-a54-5g-vs-a53-5g-3299114/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
