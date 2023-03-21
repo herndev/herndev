@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Shazam! Fury of the Gods come to HBO Max?](https://www.polygon.com/2023/3/21/23650157/shazam-fury-of-the-gods-streaming-hbo-max-date)
- - [Destiny 2: Lightfall&#39;s Best Secret: An Exotic World Boss Almost No One Has Seen](https://kotaku.com/destiny-2-lightfall-vex-incursion-event-exotic-loot-1850247838)
- - [Yup, PC monitor sales have cratered too and are getting worse](https://www.pcgamer.com/yup-pc-monitor-sales-have-cratered-too-and-are-getting-worse)<!-- GAME:END -->
+ - [Gain Outstanding Rewards in Hit Games this March Through EA Play](https://news.xbox.com/en-us/2023/03/21/gain-outstanding-rewards-in-hit-games-this-march-through-ea-play/)
+ - [EA pulling Battlefield: Bad Company games, Mirror’s Edge from stores](https://www.polygon.com/23650306/battlefield-bad-company-1943-servers-mirrors-edge-offline)
+ - [Pokémon Go ‘Let’s Go’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23650249/lets-go-special-research-tasks-rewards-steps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
