@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A case for slowing down AI due to existential and bias risks, despite objections like its alleged inevitability and the AI arms race with China &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/230321/p3#a230321p3)
- - [Oppo’s Find X6 Pro is the latest smartphone to get a massive 1-inch camera sensor](https://www.theverge.com/2023/3/21/23648689/oppo-find-x6-pro-1-inch-type-camera-sensor-price-release-date-specs-features)
- - [OPPO Find X6 Pro hands-on impressions: The best 2023 phone you can’t buy?](https://www.androidauthority.com/oppo-find-x6-pro-review-hands-on-impressions-3298577/)<!-- TECH:END -->
+ - [Google rolls out a Pixel Watch update, two weeks later than expected, including fixing a Clock app bug that delayed alarms and adding Fall Detection &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230321/p6#a230321p6)
+ - [Daily Authority: 📷 Pixel 8 Pro’s new&lpar;ish&rpar; night sight tricks](https://www.androidauthority.com/daily-authority-march-21-2023-3300481/)
+ - [London-based tech investors and founders say the government must back its pledges with policies and incentives or risk rival cities overtaking its startup scene &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230321/p5#a230321p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
