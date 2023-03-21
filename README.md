@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - ⏩ [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)
- - 👉 [Father reflex or the year](http://9gag.com/gag/aVboDK8)<!-- MEMES:END -->
+ - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - ⏩ [Lmao.](http://9gag.com/gag/aGEnD7w)
+ - 👉 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
 
 ---
 
