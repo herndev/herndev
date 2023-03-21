@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: MLB The Show 23 and Infinite Guitars](https://news.xbox.com/en-us/2023/03/21/game-pass-march-2023-wave-2-announce/)
- - [How Grand Theft Auto, Zelda, and a Southwest Pacific nation inspired Tchia](https://www.polygon.com/zelda/23649250/tchia-zelda-grand-theft-auto-gta-inspiration)
- - [The final issue with Intel&#39;s best budget gaming chip has now been laid to rest](https://www.pcgamer.com/the-final-issue-with-intels-best-budget-gaming-chip-has-now-been-laid-to-rest)<!-- GAME:END -->
+ - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
+ - [How did Shadow and Bone season 2 mess up its ships so badly?](https://www.polygon.com/23649067/shadow-bone-season-2-jesper-wylan-mal-alina-romance)
+ - [Meet your new favourite shotgun in this Warhammer boomer shooter](https://www.pcgamer.com/meet-your-new-favourite-shotgun-in-this-warhammer-boomer-shooter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
