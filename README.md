@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 convinced me that skill trees rule, actually](https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually)
- - [Six Cool Details In The New Star Wars Jedi: Survivor Trailer](https://kotaku.com/star-wars-jedi-survivor-release-date-trailer-breakdown-1850245937)
- - [Star Wars Jedi: Survivor brings back the best thing about Rise of Skywalker](https://www.polygon.com/23648813/star-wars-jedi-survivor-klaud-rise-of-skywalker)<!-- GAME:END -->
+ - [The Sims Is Getting Some Competition From Paradox](https://kotaku.com/the-sims-life-by-you-paradox-life-pc-steam-epic-reveal-1850246298)
+ - [Pokémon Go Spotlight Hour: Can Litten be shiny?](https://www.polygon.com/pokemon-go-guide/23648403/can-litten-be-shiny-spotlight-hour-march)
+ - [How deep was Deus Ex&#39;s simulation? A literal piece of paper could set off a laser trap](https://www.pcgamer.com/how-deep-was-deus-exs-simulation-a-literal-piece-of-paper-could-set-off-a-laser-trap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
