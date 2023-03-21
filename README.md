@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Anime take on Resident Evil 4 is creepier than non-anime Resident Evil 4](https://www.pcgamer.com/anime-take-on-resident-evil-4-is-scarier-than-non-anime-resident-evil-4)
  - [The Sims Is Getting Some Competition From Paradox](https://kotaku.com/the-sims-life-by-you-paradox-life-pc-steam-epic-reveal-1850246298)
- - [Pokémon Go Spotlight Hour: Can Litten be shiny?](https://www.polygon.com/pokemon-go-guide/23648403/can-litten-be-shiny-spotlight-hour-march)
- - [How deep was Deus Ex&#39;s simulation? A literal piece of paper could set off a laser trap](https://www.pcgamer.com/how-deep-was-deus-exs-simulation-a-literal-piece-of-paper-could-set-off-a-laser-trap)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour: Can Litten be shiny?](https://www.polygon.com/pokemon-go-guide/23648403/can-litten-be-shiny-spotlight-hour-march)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
