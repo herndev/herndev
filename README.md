@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 MFi requirements to drive USB-C charger demand](https://appleinsider.com/articles/23/03/21/iphone-15-mfi-requirements-to-drive-usb-c-charger-demand?utm_medium=rss)
  - [Singapore-based Reebelo, a marketplace for pre-owned smartphones, tablets, and more, raised a $29M Series A extension, bringing its Series A total to ~$50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230320/p23#a230320p23)
- - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)
- - [Stuck on Your Taxes? Here&#39;s How to Get Free Help     - CNET](https://www.cnet.com/personal-finance/taxes/stuck-on-your-taxes-heres-how-to-get-free-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
