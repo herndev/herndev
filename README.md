@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a Pixel Watch update, two weeks later than expected, including fixing a Clock app bug that delayed alarms and adding Fall Detection &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230321/p6#a230321p6)
- - [Daily Authority: 📷 Pixel 8 Pro’s new&lpar;ish&rpar; night sight tricks](https://www.androidauthority.com/daily-authority-march-21-2023-3300481/)
- - [London-based tech investors and founders say the government must back its pledges with policies and incentives or risk rival cities overtaking its startup scene &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230321/p5#a230321p5)<!-- TECH:END -->
+ - [Orico 2.5-inch hard drive enclosure review: affordable and cool storage](https://appleinsider.com/articles/23/03/21/orico-25-inch-hard-drive-enclosure-review-affordable-and-cool-storage?utm_medium=rss)
+ - [iPhone 15 certified cable requirement expected to create high USB-C charger demand](https://appleinsider.com/articles/23/03/21/iphone-15-mfi-requirements-to-drive-usb-c-charger-demand?utm_medium=rss)
+ - [Research: 14% of new Fortune 500 board members in 2022 had cybersecurity experience, down from 17% in 2021; the SEC is finalizing new cyber risk reporting rules &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/230321/p7#a230321p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
