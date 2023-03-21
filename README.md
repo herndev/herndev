@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google suspends Pinduoduo&#39;s app on the Play Store &quot;for security concerns&quot; and flags several Pinduoduo apps as malware, alerting users who had them installed &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230320/p25#a230320p25)
- - [Global premium smartphone sales rose 1% YoY in 2022, taking 50%+ of the smartphone market&#39;s revenue for the first time; Apple took 75% of the premium market &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/230320/p24#a230320p24)
- - [Google says Exynos chip flaw puts several phones at security risk &lpar;Updated&rpar;](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)<!-- TECH:END -->
+ - [The big March 2023 update is finally here for the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
+ - [Google is finally fixing the pesky Pixel Watch alarm problem](https://www.androidauthority.com/pixel-watch-alarm-issue-fixed-3293027/)
+ - [Filing: Google denies intentionally destroying evidence in the US antitrust lawsuit over its search business, in a response to the DOJ&#39;s bid for court sanctions &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230321/p1#a230321p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
