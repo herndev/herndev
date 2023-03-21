@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/20/this-weeks-deals-with-gold-and-spotlight-sale-267/)
  - [Anime take on Resident Evil 4 is creepier than non-anime Resident Evil 4](https://www.pcgamer.com/anime-take-on-resident-evil-4-is-scarier-than-non-anime-resident-evil-4)
- - [The Sims Is Getting Some Competition From Paradox](https://kotaku.com/the-sims-life-by-you-paradox-life-pc-steam-epic-reveal-1850246298)
- - [Pokémon Go Spotlight Hour: Can Litten be shiny?](https://www.polygon.com/pokemon-go-guide/23648403/can-litten-be-shiny-spotlight-hour-march)<!-- GAME:END -->
+ - [The Sims Is Getting Some Competition From Paradox](https://kotaku.com/the-sims-life-by-you-paradox-life-pc-steam-epic-reveal-1850246298)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
