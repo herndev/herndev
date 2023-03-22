@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC sues Tron founder Justin Sun for the alleged &quot;unregistered offer and sale of crypto asset securities&quot; TRX and BTT, market manipulation, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230322/p30#a230322p30)
- - [FlexiSpot E7 Pro Plus Standing Desk review: Simple design with smooth height transitions](https://appleinsider.com/articles/23/03/22/flexispot-e7-pro-plus-standing-desk-review-simple-design-with-smooth-height-transitions?utm_medium=rss)
- - [The 8 Best Herbal Teas for Anxiety and Stress Relief     - CNET](https://www.cnet.com/health/mental/8-best-teas-to-manage-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC sues Justin Sun for his crypto schemes, along with Lindsay Lohan, Jake Paul, and Soulja Boy](https://www.theverge.com/2023/3/22/23652268/justin-sun-tron-crypto-sec-lawsuit-securities-fraud-jake-paul)
+ - [The US SEC charges Lindsay Lohan, Jake Paul, Akon, and other celebrities for promoting crypto tokens TRX and BTT without disclosing their compensation &lpar;CNBC&rpar;](http://www.techmeme.com/230322/p31#a230322p31)
+ - [Pebble may be reborn as a small Android phone](https://www.androidauthority.com/pebble-android-phone-3301092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
