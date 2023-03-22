@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Loves—and Loathes—Language](https://www.wired.com/story/language-is-one-of-ais-main-sources-of-data-and-greatest-foils/)
- - [Travelrest Nest Ultimate Travel Pillow: Neck Support for Great Sleep](https://www.wired.com/review/travelrest-nest-ultimate-travel-pillow/)
- - [TikTok has a plan to avoid getting banned in the US](https://appleinsider.com/articles/23/03/22/tiktok-has-a-plan-to-avoid-getting-banned-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Limited time offer: Get Microsoft Office for Mac Home &amp; Business 2021 for only $39.99](https://appleinsider.com/articles/23/03/22/limited-time-offer-get-microsoft-office-for-mac-home-business-2021-for-only-3999?utm_medium=rss)
+ - [Casetify laptop sleeve review: Fun designs that absorb shock](https://appleinsider.com/articles/23/03/22/casetify-laptop-sleeve-review-fun-designs-that-absorb-shock?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-22-2023-3300222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
