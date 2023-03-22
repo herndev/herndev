@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen&#39;s new docking station can extend M1 Mac displays](https://appleinsider.com/articles/23/03/22/ugreens-new-docking-station-can-extend-m1-mac-displays?utm_medium=rss)
- - [Nothing Ear &lpar;2&rpar; Review: Vibrant Sound, Control Issues](https://www.wired.com/review/review-nothing-ear-2/)
- - [After Russia-linked Clop ransomware gang claimed to hit 130 companies, victims are slowly coming forward, many of which used the GoAnywhere file transfer tool &lpar;TechCrunch&rpar;](http://www.techmeme.com/230322/p27#a230322p27)<!-- TECH:END -->
+ - [Nothing launches Ear &lpar;2&rpar; with Hi-Res Audio certification](https://appleinsider.com/articles/23/03/22/nothing-launches-ear-2-with-hi-res-audio-certification?utm_medium=rss)
+ - [Google Messages may soon let you use AI to respond to text messages](https://www.androidauthority.com/google-messages-ai-3301044/)
+ - [Source: job listings site Indeed is laying off 2,200 people, or 15% of its headcount; Indeed was acquired in 2012 by Japan&#39;s Recruit, which also owns Glassdoor &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230322/p28#a230322p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
