@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 is real, free, and everything carries over](https://www.pcgamer.com/counter-strike-2-is-real-free-and-everything-carries-over)
- - [Valve announces Counter-Strike 2 for summer launch](https://www.polygon.com/23651917/counter-strike-2-release-date-cs2-beta-test-valve-steam)
- - [How to earn renown in Diablo 4](https://www.pcgamer.com/diablo-4-renown-how-to-earn)<!-- GAME:END -->
+ - [After Backlash, Xbox&#39;s Next Big Game Wants To Ditch &#39;Always Online&#39;](https://kotaku.com/redfall-always-online-xbox-fps-loot-shooter-vampire-1850252884)
+ - [Hellblade 2’s Senua looks pretty unreal in new Unreal Engine tech demo](https://www.polygon.com/23652014/hellblade-2-unreal-engine-tech-demo-ninja-theory)
+ - [We Never See The Last Of Us Show’s Most Heartfelt Game Nod](https://kotaku.com/last-of-us-tlou-ashley-johnson-bella-ramsey-ellie-mom-1850252933)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
