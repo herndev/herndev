@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - ⏩ [Save it to never use it](http://9gag.com/gag/a4o6Gey)
- - 👉 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)<!-- MEMES:END -->
+ - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - ⏩ [Social experiment](http://9gag.com/gag/a1PNQYD)
+ - 👉 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
 
 ---
 
