@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Loop, its Notion and Asana competitor, in preview, allowing users to collaborate in shared workspaces on the web, Android, and iOS &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/230322/p29#a230322p29)
- - [Apple, Alphabet, Meta push back against US spy law](https://appleinsider.com/articles/23/03/22/apple-alphabet-meta-push-back-against-us-spy-law?utm_medium=rss)
- - [Google Fi vs Mint Mobile: Which is a better deal?](https://www.androidauthority.com/google-fi-vs-mint-mobile-3300653/)<!-- TECH:END -->
+ - [The US SEC sues Tron founder Justin Sun for the alleged &quot;unregistered offer and sale of crypto asset securities&quot; TRX and BTT, market manipulation, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230322/p30#a230322p30)
+ - [FlexiSpot E7 Pro Plus Standing Desk review: Simple design with smooth height transitions](https://appleinsider.com/articles/23/03/22/flexispot-e7-pro-plus-standing-desk-review-simple-design-with-smooth-height-transitions?utm_medium=rss)
+ - [The 8 Best Herbal Teas for Anxiety and Stress Relief     - CNET](https://www.cnet.com/health/mental/8-best-teas-to-manage-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
