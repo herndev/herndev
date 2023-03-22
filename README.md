@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
- - ⏩ [What if ... ?](http://9gag.com/gag/aeQ1eNB)
- - 👉 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
+ - 💣 [All the race baiting posters here are no different to the BLM advocates you all just like to divide and spread hate because you have miserable and pathetic lives](http://9gag.com/gag/aDY6d8O)
+ - ⏩ [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
+ - 👉 [Frame TV installation](http://9gag.com/gag/aNw9P0v)<!-- MEMES:END -->
 
 ---
 
