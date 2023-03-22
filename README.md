@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase says it received an SEC notice warning the company of potential US securities law violations and recommending that the SEC take an enforcement action &lpar;CNBC&rpar;](http://www.techmeme.com/230322/p33#a230322p33)
- - [Mint Mobile vs Straight Talk: Get the best bang for your buck!](https://www.androidauthority.com/mint-mobile-vs-straight-talk-3300743/)
- - [Today only: Save $750 on the Galaxy Z Fold 4 with trade-in](https://www.androidauthority.com/samsung-galaxy-z-fold-4-deal-3301176/)<!-- TECH:END -->
+ - [The SEC has put Coinbase on notice for allegedly breaking securities laws](https://www.theverge.com/2023/3/22/23652482/coinbase-crypto-securities-law-sec-wells-notice)
+ - [Apple self-driving test program grows to over 200 drivers](https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers?utm_medium=rss)
+ - [Bug in Google Markup, Windows Photo-Cropping Tools Exposes Removed Image Data](https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
