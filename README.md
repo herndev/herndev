@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limited time offer: Get Microsoft Office for Mac Home &amp; Business 2021 for only $39.99](https://appleinsider.com/articles/23/03/22/limited-time-offer-get-microsoft-office-for-mac-home-business-2021-for-only-3999?utm_medium=rss)
- - [Casetify laptop sleeve review: Fun designs that absorb shock](https://appleinsider.com/articles/23/03/22/casetify-laptop-sleeve-review-fun-designs-that-absorb-shock?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-22-2023-3300222/)<!-- TECH:END -->
+ - [Sources: Meta rehires veteran manager Nick Grudin, who left to join NFT startup Dapper Labs in August 2022, to oversee media and creator relationships &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230322/p22#a230322p22)
+ - [Deals: $200 off M2 Pro MacBook Pro, 17% off Apple Watch Series 8, 44% off LG Soundbar &amp; more](https://appleinsider.com/articles/23/03/22/deals-200-off-m2-pro-macbook-pro-17-off-apple-watch-series-8-44-off-lg-soundbar-more?utm_medium=rss)
+ - [iPhones and Android devices get treated differently when retired](https://appleinsider.com/articles/23/03/22/iphones-and-android-devices-get-treated-differently-when-retired?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
