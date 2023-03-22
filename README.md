@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta &amp; Google shouldn&#39;t be allowed to bully their way out of paying for news](https://appleinsider.com/articles/23/03/22/meta-google-shouldnt-be-allowed-to-bully-their-way-out-of-paying-for-news?utm_medium=rss)
- - [New OnePlus 11 variant coming, could be made from industry-first material](https://www.androidauthority.com/oneplus-11-variant-material-3300952/)
- - [A look at Balaji Srinivasan&#39;s proposed $1M bitcoin bet, predicting one BTC will be worth $1M+ in 90 days, which makes little sense besides attracting attention &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230322/p15#a230322p15)<!-- TECH:END -->
+ - [AI Loves—and Loathes—Language](https://www.wired.com/story/language-is-one-of-ais-main-sources-of-data-and-greatest-foils/)
+ - [Travelrest Nest Ultimate Travel Pillow: Neck Support for Great Sleep](https://www.wired.com/review/travelrest-nest-ultimate-travel-pillow/)
+ - [TikTok has a plan to avoid getting banned in the US](https://appleinsider.com/articles/23/03/22/tiktok-has-a-plan-to-avoid-getting-banned-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
