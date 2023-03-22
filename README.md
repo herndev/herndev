@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ gains 15 nominations at UK&#39;s Bafta Television Awards](https://appleinsider.com/articles/23/03/22/apple-tv-gains-15-nominations-at-uks-bafta-television-awards?utm_medium=rss)
- - [Magic Eden launches a Bitcoin NFT marketplace, supporting Hiro and Xverse wallets to let users trade Ordinal NFTs, expanding on SOL, ETH, and MATIC marketplaces &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230322/p10#a230322p10)
- - [Tencent reports 2022 revenue down 1% YoY to ~$81B, the first-ever annual drop and below estimates, and Q4 revenue up 1% YoY to ~$21B, as China&#39;s economy slows &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230322/p9#a230322p9)<!-- TECH:END -->
+ - [The US will find banning TikTok difficult due to its massive userbase, political ramifications, possible alienation of young voters, legal challenges, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230322/p13#a230322p13)
+ - [Keyport Pivot 2.0 &amp; Popl Review: Streamlining everyday carry](https://appleinsider.com/articles/23/03/22/keyport-pivot-20-popl-review-streamlining-everyday-carry?utm_medium=rss)
+ - [Okcoin suspended trading of NYCCoin and MiamiCoin, developed by CityCoins on the Stacks protocol, citing low liquidity; both coins received mayoral endorsements &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/230322/p12#a230322p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
