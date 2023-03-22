@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US will find banning TikTok difficult due to its massive userbase, political ramifications, possible alienation of young voters, legal challenges, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230322/p13#a230322p13)
- - [Keyport Pivot 2.0 &amp; Popl Review: Streamlining everyday carry](https://appleinsider.com/articles/23/03/22/keyport-pivot-20-popl-review-streamlining-everyday-carry?utm_medium=rss)
- - [Okcoin suspended trading of NYCCoin and MiamiCoin, developed by CityCoins on the Stacks protocol, citing low liquidity; both coins received mayoral endorsements &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/230322/p12#a230322p12)<!-- TECH:END -->
+ - [Meta &amp; Google shouldn&#39;t be allowed to bully their way out of paying for news](https://appleinsider.com/articles/23/03/22/meta-google-shouldnt-be-allowed-to-bully-their-way-out-of-paying-for-news?utm_medium=rss)
+ - [New OnePlus 11 variant coming, could be made from industry-first material](https://www.androidauthority.com/oneplus-11-variant-material-3300952/)
+ - [A look at Balaji Srinivasan&#39;s proposed $1M bitcoin bet, predicting one BTC will be worth $1M+ in 90 days, which makes little sense besides attracting attention &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230322/p15#a230322p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
