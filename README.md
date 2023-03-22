@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: Burning Shores is available to pre-order today, pre-order bonuses detailed](https://blog.playstation.com/2023/03/22/horizon-forbidden-west-burning-shores-is-available-to-pre-order-today-pre-order-bonuses-detailed/)
- - [Don&#39;t rely on Bing, ChatGPT, or Bard for vital PC building questions](https://www.pcgamer.com/dont-rely-on-bing-chatgpt-or-bard-for-vital-pc-building-questions)
- - [Nvidia is selling its GPUs to help speed up the process of... making GPUs](https://www.pcgamer.com/nvidia-is-selling-its-gpus-to-help-speed-up-the-process-of-making-gpus)<!-- GAME:END -->
+ - [Shazam! 2 blame game heats up as star tags The Rock, Zack Snyder fans](https://www.polygon.com/23651473/shazam-2-zachary-levi-rock-black-adam-zack-snyder-dcu)
+ - [Scream VI directors say the series can’t just focus on horror anymore](https://www.polygon.com/23648804/scream-vi-6-directors-horror-movies-slashers-blockbusters)
+ - [Autonomous SmartDesk Core](https://www.pcgamer.com/autonomous-smartdesk-core-standing-desk-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
