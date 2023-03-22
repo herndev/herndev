@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta rehires veteran manager Nick Grudin, who left to join NFT startup Dapper Labs in August 2022, to oversee media and creator relationships &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230322/p22#a230322p22)
- - [Deals: $200 off M2 Pro MacBook Pro, 17% off Apple Watch Series 8, 44% off LG Soundbar &amp; more](https://appleinsider.com/articles/23/03/22/deals-200-off-m2-pro-macbook-pro-17-off-apple-watch-series-8-44-off-lg-soundbar-more?utm_medium=rss)
- - [iPhones and Android devices get treated differently when retired](https://appleinsider.com/articles/23/03/22/iphones-and-android-devices-get-treated-differently-when-retired?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing Ear 2 announced: Everything you loved about Ear 1, but better](https://www.androidauthority.com/nothing-ear-2-announcement-3300613/)
+ - [Nothing Ear 2 review: Elevating a winning formula](https://www.androidauthority.com/nothing-ear-2-review-3298715/)
+ - [Bellingcat founder Eliot Higgins says Midjourney seems to have banned him after he made images of Trump&#39;s arrest; the word &quot;arrested&quot; is now banned on the tool &lpar;Chris Stokel-Walker/BuzzFeed News&rpar;](http://www.techmeme.com/230322/p24#a230322p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
