@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solid advice](http://9gag.com/gag/a04XRgQ)
- - ⏩ [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
- - 👉 [Reality](http://9gag.com/gag/a7qO3Az)<!-- MEMES:END -->
+ - 💣 [Even if you place a 1000\u00b0C iron ball on a bamboo hollow stem, this will hardly burn.](http://9gag.com/gag/a9q6nYD)
+ - ⏩ [Well done guys, keep posting, this battle has to be legendary](http://9gag.com/gag/aXnMj46)
+ - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 ---
 
