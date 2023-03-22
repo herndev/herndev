@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House Committee on Energy and Commerce posts TikTok CEO Shou Chew&#39;s prepared testimony, where he outlines a ~$1.5B plan to protect US users and more &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230322/p1#a230322p1)
  - [Microsoft tells the UK CMA that 10 years is long enough for Sony to develop Call of Duty alternatives and &quot;there is no basis&quot; to offer Sony a longer agreement &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230321/p42#a230321p42)
- - [Artera, formerly Well Health, which uses AI for cancer testing and personalized care, raised $90M from Coatue, J&amp;J Innovation, Marc Benioff, and others &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230321/p41#a230321p41)
- - [The US proposes barring CHIPS Act beneficiaries from expanding manufacturing output, 5% for advanced chips and 10% for legacy chips, in &quot;countries of concern&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230321/p40#a230321p40)<!-- TECH:END -->
+ - [Artera, formerly Well Health, which uses AI for cancer testing and personalized care, raised $90M from Coatue, J&amp;J Innovation, Marc Benioff, and others &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230321/p41#a230321p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
