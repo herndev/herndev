@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shazam! 2 blame game heats up as star tags The Rock, Zack Snyder fans](https://www.polygon.com/23651473/shazam-2-zachary-levi-rock-black-adam-zack-snyder-dcu)
- - [Scream VI directors say the series can’t just focus on horror anymore](https://www.polygon.com/23648804/scream-vi-6-directors-horror-movies-slashers-blockbusters)
- - [Autonomous SmartDesk Core](https://www.pcgamer.com/autonomous-smartdesk-core-standing-desk-review)<!-- GAME:END -->
+ - [Pleased To Eat You! Discover All You Need To Know About Dead Island 2’s Zombies](https://news.xbox.com/en-us/2023/03/22/dead-island-2-zombies-types/)
+ - [Diablo IV: Blizz Explains Lack Of Couch Co-Op On PC](https://kotaku.com/diablo-4-iv-couch-co-op-pc-console-release-date-1850251897)
+ - [GameStop Profitable For First Time In Years Even As Everything Seems On Fire](https://kotaku.com/gamestop-meme-stock-pre-order-resident-evil-4-funko-1850251852)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
