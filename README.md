@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
- - ⏩ [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
+ - 💣 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - ⏩ [Save it to never use it](http://9gag.com/gag/a4o6Gey)
  - 👉 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)<!-- MEMES:END -->
 
 ---
