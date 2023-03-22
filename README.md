@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps vs Apple Maps: Which navigation app is right for you?](https://www.androidauthority.com/google-maps-vs-apple-maps-which-navigation-app-is-right-for-you-3300337/)
- - [Switching between Xiaomi, Vivo, and Oppo phones just got easier](https://www.androidauthority.com/switching-between-xiaomi-vivo-and-oppo-phones-just-got-easier-3300917/)
- - [Miniot Wheel 2 review: a unique vertical turntable worth waiting for](https://www.theverge.com/2023/3/22/23639244/wheel-upright-record-player-review)<!-- TECH:END -->
+ - [Researchers: Iran&#39;s cyber army, or Cyberi, ramped up spear-phishing and adopted new tactics aiming to sow distrust among citizens as political unrest continues &lpar;Arian Khameneh/Wired&rpar;](http://www.techmeme.com/230322/p6#a230322p6)
+ - [Digital photography site DPReview, owned by Amazon, is closing April 10; people can request downloads of photos or texts they uploaded to the site until April 6 &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/230322/p5#a230322p5)
+ - [Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker](https://www.androidauthority.com/daily-authority-march-22-2023-3300899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
