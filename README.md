@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Backlash, Xbox&#39;s Next Big Game Wants To Ditch &#39;Always Online&#39;](https://kotaku.com/redfall-always-online-xbox-fps-loot-shooter-vampire-1850252884)
- - [Hellblade 2’s Senua looks pretty unreal in new Unreal Engine tech demo](https://www.polygon.com/23652014/hellblade-2-unreal-engine-tech-demo-ninja-theory)
- - [We Never See The Last Of Us Show’s Most Heartfelt Game Nod](https://kotaku.com/last-of-us-tlou-ashley-johnson-bella-ramsey-ellie-mom-1850252933)<!-- GAME:END -->
+ - [Fortnite’s Unreal Engine editor lets it compete with Roblox](https://www.polygon.com/fortnite/23652011/fortnite-unreal-editor-creative-2-0-modding-tools-release-date)
+ - [In Counter-Strike 2, Valve may have just created my dream game](https://www.pcgamer.com/in-counter-strike-2-valve-may-have-just-created-my-dream-game)
+ - [Brandy’s Cinderella will reunite with her prince for new Descendants movie](https://www.polygon.com/23471319/cinderella-1997-brandy-descendants)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
