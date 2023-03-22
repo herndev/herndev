@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
- - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
- - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - ⏩ [What if ... ?](http://9gag.com/gag/aeQ1eNB)
+ - 👉 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
 
 ---
 
