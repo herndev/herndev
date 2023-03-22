@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Racially motivated](http://9gag.com/gag/aoK3OMn)
- - ⏩ [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 👉 [Emotional damage](http://9gag.com/gag/aQEvRz7)<!-- MEMES:END -->
+ - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
+ - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
+ - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 ---
 
