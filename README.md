@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Proudly Announces &#39;AI&#39; Is Helping Write Dialogue](https://kotaku.com/ubisoft-ai-writing-scriptwriting-ghostwriter-machine-1850250316)
- - [It&#39;s Morbin&#39; Time again, thanks to the new Marvel&#39;s Midnight Suns DLC](https://www.pcgamer.com/its-morbin-time-again-thanks-to-the-new-marvels-midnight-suns-dlc)
- - [Deceive Inc. – A Guide to All Four Sprawling Maps](https://news.xbox.com/en-us/2023/03/21/deceive-inc-a-guide/)<!-- GAME:END -->
+ - [From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all)
+ - [Our Favorite Cosplay From Katsucon 2023](https://kotaku.com/cosplay-gallery-katsucon-elden-ring-zelda-dc-photos-vid-1850246673)
+ - [Ubisoft Proudly Announces &#39;AI&#39; Is Helping Write Dialogue](https://kotaku.com/ubisoft-ai-writing-scriptwriting-ghostwriter-machine-1850250316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
