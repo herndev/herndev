@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Unreal Engine editor lets it compete with Roblox](https://www.polygon.com/fortnite/23652011/fortnite-unreal-editor-creative-2-0-modding-tools-release-date)
- - [In Counter-Strike 2, Valve may have just created my dream game](https://www.pcgamer.com/in-counter-strike-2-valve-may-have-just-created-my-dream-game)
- - [Brandy’s Cinderella will reunite with her prince for new Descendants movie](https://www.polygon.com/23471319/cinderella-1997-brandy-descendants)<!-- GAME:END -->
+ - [This Dating Sim Will Help You File Your Taxes](https://kotaku.com/tax-season-deadline-dating-sim-video-game-1850253777)
+ - [The Best And Worst Parts Of Every Far Cry Game](https://kotaku.com/far-cry-best-ranking-open-world-ubisoft-fps-shooter-1850253655)
+ - [How to find the Nitro Drifter in Fortnite and use its drift ability](https://www.pcgamer.com/fortnite-nitro-drifter-how-to-drift)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
