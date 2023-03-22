@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looking for a modern update on the classic gaming chair design? GT Omega’s Zephyr would like a word](https://www.pcgamer.com/looking-for-a-modern-update-on-the-classic-gaming-chair-design-gt-omegas-zephyr-would-like-a-word)
- - [GT Omega’s Xayo office chair is a huge leap forward for ergonomics, and you can tailor it to your measurements](https://www.pcgamer.com/gt-omegas-xayo-office-chair-is-a-huge-leap-forward-for-ergonomics-and-you-can-tailor-it-to-your-measurements)
- - [Dwarf Fortress&#39;s Tarn Adams needs your help finding a very special guitar](https://www.pcgamer.com/dwarf-fortresss-tarn-adams-needs-your-help-finding-a-very-special-guitar)<!-- GAME:END -->
+ - [Horizon Forbidden West: Burning Shores is available to pre-order today, pre-order bonuses detailed](https://blog.playstation.com/2023/03/22/horizon-forbidden-west-burning-shores-is-available-to-pre-order-today-pre-order-bonuses-detailed/)
+ - [Don&#39;t rely on Bing, ChatGPT, or Bard for vital PC building questions](https://www.pcgamer.com/dont-rely-on-bing-chatgpt-or-bard-for-vital-pc-building-questions)
+ - [Nvidia is selling its GPUs to help speed up the process of... making GPUs](https://www.pcgamer.com/nvidia-is-selling-its-gpus-to-help-speed-up-the-process-of-making-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
