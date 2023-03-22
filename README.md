@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aMEBKLM)
+ - ⏩ [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)
+ - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 ---
 
