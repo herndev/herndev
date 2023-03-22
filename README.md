@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [MVP](http://9gag.com/gag/abv1rKL)
- - ⏩ [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
- - 👉 [Pool of cave water completely isolated for hundreds of thousands of years](http://9gag.com/gag/aBd6WzZ)<!-- MEMES:END -->
+ - ⏩ [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 👉 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
 
 ---
 
