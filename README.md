@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take the train they said, it would be fun they said...](http://9gag.com/gag/aOxe7Xr)
- - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
- - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - 💣 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - ⏩ [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
+ - 👉 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)<!-- MEMES:END -->
 
 ---
 
