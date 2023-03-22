@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is testing ads in search results, with plans for a global rollout in the coming months, and launches Reminder Ads, for opt-in reminders about events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230321/p36#a230321p36)
- - [OpenAI may have tested GPT-4 on its training data, violating the cardinal rule of ML, and GPT-4&#39;s exam performance says little about its real-world usefulness &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230321/p35#a230321p35)
- - [China’s Answer to ChatGPT Flubs Its First Lines](https://www.wired.com/story/chinas-answer-to-chatgpt-flubs-its-first-lines/)<!-- TECH:END -->
+ - [Data leak site BreachForums says it plans to shut down following the arrest of alleged operator &quot;Pompompurin&quot; due to fear law enforcement has backdoor access &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230321/p38#a230321p38)
+ - [How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes](https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/)
+ - [No, Google Bard is not trained on Gmail data](https://appleinsider.com/articles/23/03/21/no-google-bard-is-not-trained-on-gmail-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
