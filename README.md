@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear 2 announced: Everything you loved about Ear 1, but better](https://www.androidauthority.com/nothing-ear-2-announcement-3300613/)
- - [Nothing Ear 2 review: Elevating a winning formula](https://www.androidauthority.com/nothing-ear-2-review-3298715/)
- - [Bellingcat founder Eliot Higgins says Midjourney seems to have banned him after he made images of Trump&#39;s arrest; the word &quot;arrested&quot; is now banned on the tool &lpar;Chris Stokel-Walker/BuzzFeed News&rpar;](http://www.techmeme.com/230322/p24#a230322p24)<!-- TECH:END -->
+ - [Ugreen&#39;s new docking station can extend M1 Mac displays](https://appleinsider.com/articles/23/03/22/ugreens-new-docking-station-can-extend-m1-mac-displays?utm_medium=rss)
+ - [Nothing Ear &lpar;2&rpar; Review: Vibrant Sound, Control Issues](https://www.wired.com/review/review-nothing-ear-2/)
+ - [After Russia-linked Clop ransomware gang claimed to hit 130 companies, victims are slowly coming forward, many of which used the GoAnywhere file transfer tool &lpar;TechCrunch&rpar;](http://www.techmeme.com/230322/p27#a230322p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
