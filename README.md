@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House Committee on Energy and Commerce posts TikTok CEO Shou Chew&#39;s prepared testimony, where he outlines a ~$1.5B plan to protect US users and more &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230322/p1#a230322p1)
- - [Microsoft tells the UK CMA that 10 years is long enough for Sony to develop Call of Duty alternatives and &quot;there is no basis&quot; to offer Sony a longer agreement &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230321/p42#a230321p42)
- - [Artera, formerly Well Health, which uses AI for cancer testing and personalized care, raised $90M from Coatue, J&amp;J Innovation, Marc Benioff, and others &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230321/p41#a230321p41)<!-- TECH:END -->
+ - [Microsoft debuts Bing Image Creator: Now convert your words into pictures](https://www.androidauthority.com/bing-image-creator-3300886/)
+ - [Paris-based XXII, an AI-powered computer vision SaaS provider for the deployment and configuration of video stream analysis algorithms, raised a &amp;euro;22M Series A &lpar;Silicon Canals&rpar;](http://www.techmeme.com/230322/p2#a230322p2)
+ - [The US House Committee on Energy and Commerce posts TikTok CEO Shou Chew&#39;s prepared testimony, where he outlines a ~$1.5B plan to protect US users and more &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230322/p1#a230322p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
