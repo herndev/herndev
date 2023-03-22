@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: Iran&#39;s cyber army, or Cyberi, ramped up spear-phishing and adopted new tactics aiming to sow distrust among citizens as political unrest continues &lpar;Arian Khameneh/Wired&rpar;](http://www.techmeme.com/230322/p6#a230322p6)
- - [Digital photography site DPReview, owned by Amazon, is closing April 10; people can request downloads of photos or texts they uploaded to the site until April 6 &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/230322/p5#a230322p5)
- - [Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker](https://www.androidauthority.com/daily-authority-march-22-2023-3300899/)<!-- TECH:END -->
+ - [Apple TV+ gains 15 nominations at UK&#39;s Bafta Television Awards](https://appleinsider.com/articles/23/03/22/apple-tv-gains-15-nominations-at-uks-bafta-television-awards?utm_medium=rss)
+ - [Magic Eden launches a Bitcoin NFT marketplace, supporting Hiro and Xverse wallets to let users trade Ordinal NFTs, expanding on SOL, ETH, and MATIC marketplaces &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230322/p10#a230322p10)
+ - [Tencent reports 2022 revenue down 1% YoY to ~$81B, the first-ever annual drop and below estimates, and Q4 revenue up 1% YoY to ~$21B, as China&#39;s economy slows &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230322/p9#a230322p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
