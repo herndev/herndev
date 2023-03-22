@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC sues Justin Sun for his crypto schemes, along with Lindsay Lohan, Jake Paul, and Soulja Boy](https://www.theverge.com/2023/3/22/23652268/justin-sun-tron-crypto-sec-lawsuit-securities-fraud-jake-paul)
- - [The US SEC charges Lindsay Lohan, Jake Paul, Akon, and other celebrities for promoting crypto tokens TRX and BTT without disclosing their compensation &lpar;CNBC&rpar;](http://www.techmeme.com/230322/p31#a230322p31)
- - [Pebble may be reborn as a small Android phone](https://www.androidauthority.com/pebble-android-phone-3301092/)<!-- TECH:END -->
+ - [Coinbase says it received an SEC notice warning the company of potential US securities law violations and recommending that the SEC take an enforcement action &lpar;CNBC&rpar;](http://www.techmeme.com/230322/p33#a230322p33)
+ - [Mint Mobile vs Straight Talk: Get the best bang for your buck!](https://www.androidauthority.com/mint-mobile-vs-straight-talk-3300743/)
+ - [Today only: Save $750 on the Galaxy Z Fold 4 with trade-in](https://www.androidauthority.com/samsung-galaxy-z-fold-4-deal-3301176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
