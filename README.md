@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus Bowie M2 Plus review: Small wireless earbuds, mighty sounds](https://appleinsider.com/articles/23/03/22/baseus-bowie-m2-plus-review-small-wireless-earbuds-mighty-sounds?utm_medium=rss)
- - [tomi, a DAO aiming to build an &quot;alternative internet&quot; to promote free speech and access to uncensored information, raised $40M led by DWF Labs &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230321/p39#a230321p39)
- - [4K TV Deals: Save Big on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft tells the UK CMA that 10 years is long enough for Sony to develop Call of Duty alternatives and &quot;there is no basis&quot; to offer Sony a longer agreement &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230321/p42#a230321p42)
+ - [Artera, formerly Well Health, which uses AI for cancer testing and personalized care, raised $90M from Coatue, J&amp;J Innovation, Marc Benioff, and others &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230321/p41#a230321p41)
+ - [The US proposes barring CHIPS Act beneficiaries from expanding manufacturing output, 5% for advanced chips and 10% for legacy chips, in &quot;countries of concern&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230321/p40#a230321p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
