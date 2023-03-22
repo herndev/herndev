@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
- - ⏩ [Don\u2019t let others tell you what to do.](http://9gag.com/gag/adP15oB)
+ - 💣 [Solid advice](http://9gag.com/gag/a04XRgQ)
+ - ⏩ [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
  - 👉 [Reality](http://9gag.com/gag/a7qO3Az)<!-- MEMES:END -->
 
 ---
