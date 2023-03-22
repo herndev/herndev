@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Giving Away Zelda Book That Used To Be In Special Edition](https://kotaku.com/zelda-breath-wild-nintendo-book-free-pdf-guide-switch-1850250206)
  - [From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all)
- - [Our Favorite Cosplay From Katsucon 2023](https://kotaku.com/cosplay-gallery-katsucon-elden-ring-zelda-dc-photos-vid-1850246673)
- - [Ubisoft Proudly Announces &#39;AI&#39; Is Helping Write Dialogue](https://kotaku.com/ubisoft-ai-writing-scriptwriting-ghostwriter-machine-1850250316)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Katsucon 2023](https://kotaku.com/cosplay-gallery-katsucon-elden-ring-zelda-dc-photos-vid-1850246673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
