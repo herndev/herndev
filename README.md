@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MVP](http://9gag.com/gag/abv1rKL)
- - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
- - 👉 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
+ - 💣 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - ⏩ [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
+ - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 ---
 
