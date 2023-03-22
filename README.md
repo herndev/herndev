@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
- - ⏩ [Well done guys, keep posting, this battle has to be legendary](http://9gag.com/gag/aXnMj46)
- - 👉 [Save it to never use it](http://9gag.com/gag/a4o6Gey)<!-- MEMES:END -->
+ - 💣 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
+ - ⏩ [Don\u2019t let others tell you what to do.](http://9gag.com/gag/adP15oB)
+ - 👉 [Reality](http://9gag.com/gag/a7qO3Az)<!-- MEMES:END -->
 
 ---
 
