@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aMEBKLM)
- - ⏩ [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)
- - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
+ - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 ---
 
