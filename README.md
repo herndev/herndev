@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even if you place a 1000\u00b0C iron ball on a bamboo hollow stem, this will hardly burn.](http://9gag.com/gag/a9q6nYD)
- - ⏩ [Well done guys, keep posting, this battle has to be legendary](http://9gag.com/gag/aXnMj46)
- - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - 💣 [Social experiment](http://9gag.com/gag/a1PNQYD)
+ - ⏩ [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 👉 [Father reflex or the year](http://9gag.com/gag/aVboDK8)<!-- MEMES:END -->
 
 ---
 
