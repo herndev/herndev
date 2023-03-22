@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - ⏩ [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [Racially motivated](http://9gag.com/gag/aoK3OMn)
+ - ⏩ [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - 👉 [Emotional damage](http://9gag.com/gag/aQEvRz7)<!-- MEMES:END -->
 
 ---
 
