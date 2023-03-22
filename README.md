@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress&#39;s Tarn Adams needs your help finding a very special guitar](https://www.pcgamer.com/dwarf-fortresss-tarn-adams-needs-your-help-finding-a-very-special-guitar)
- - [Wordle hint and answer #641: Wednesday, March 22](https://www.pcgamer.com/wordle-hint-answer-today-641-march-22)
- - [Nintendo Giving Away Zelda Book That Used To Be In Special Edition](https://kotaku.com/zelda-breath-wild-nintendo-book-free-pdf-guide-switch-1850250206)<!-- GAME:END -->
+ - [Looking for a modern update on the classic gaming chair design? GT Omega’s Zephyr would like a word](https://www.pcgamer.com/looking-for-a-modern-update-on-the-classic-gaming-chair-design-gt-omegas-zephyr-would-like-a-word)
+ - [GT Omega’s Xayo office chair is a huge leap forward for ergonomics, and you can tailor it to your measurements](https://www.pcgamer.com/gt-omegas-xayo-office-chair-is-a-huge-leap-forward-for-ergonomics-and-you-can-tailor-it-to-your-measurements)
+ - [Dwarf Fortress&#39;s Tarn Adams needs your help finding a very special guitar](https://www.pcgamer.com/dwarf-fortresss-tarn-adams-needs-your-help-finding-a-very-special-guitar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
