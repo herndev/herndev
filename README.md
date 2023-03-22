@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [tomi, a DAO aiming to build an &quot;alternative internet&quot; to promote free speech and access to uncensored information, raised $40M led by DWF Labs &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230321/p39#a230321p39)
  - [Data leak site BreachForums says it plans to shut down following the arrest of alleged operator &quot;Pompompurin&quot; due to fear law enforcement has backdoor access &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230321/p38#a230321p38)
- - [How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes](https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/)
- - [No, Google Bard is not trained on Gmail data](https://appleinsider.com/articles/23/03/21/no-google-bard-is-not-trained-on-gmail-data?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s new quests could give you something to do in its VR social network](https://www.theverge.com/2023/3/21/23650916/meta-horizon-worlds-in-game-quests-rewards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
