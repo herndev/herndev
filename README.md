@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft debuts Bing Image Creator: Now convert your words into pictures](https://www.androidauthority.com/bing-image-creator-3300886/)
- - [Paris-based XXII, an AI-powered computer vision SaaS provider for the deployment and configuration of video stream analysis algorithms, raised a &amp;euro;22M Series A &lpar;Silicon Canals&rpar;](http://www.techmeme.com/230322/p2#a230322p2)
- - [The US House Committee on Energy and Commerce posts TikTok CEO Shou Chew&#39;s prepared testimony, where he outlines a ~$1.5B plan to protect US users and more &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230322/p1#a230322p1)<!-- TECH:END -->
+ - [First Pixels, now the Windows snipping tool has a major privacy flaw](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)
+ - [Just Eat Takeaway lays off 1,700 UK couriers and returns to a gig economy model, which CEO Jitse Groen had said &quot;comes at the expense of society and workers&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230322/p4#a230322p4)
+ - [Nvidia has developed the H800 chip, a version of the H100, for export to China; Alibaba, Baidu, Tencent, and other Chinese companies are already using the chip &lpar;Reuters&rpar;](http://www.techmeme.com/230322/p3#a230322p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
