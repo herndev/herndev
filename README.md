@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft is testing an AI tool that writes NPC dialogue](https://www.polygon.com/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter)
- - [Rick and Morty Co-Creator Claims Lawsuit Is Dismissed, Lashes Back At &#39;Canceling&#39;](https://kotaku.com/rick-and-morty-high-on-life-justin-roiland-adult-swim-1850254194)
- - [Community and esports reaction to Counter-Strike 2: &#39;Quit Valorant, it&#39;s done, it&#39;s f***ing over&#39;](https://www.pcgamer.com/community-and-esports-reaction-to-counter-strike-2-quit-valorant-its-done-its-fing-over)<!-- GAME:END -->
+ - [Call of Duty police killing settled for $5 million](https://www.polygon.com/23652429/call-of-duty-wwii-swatting-police-killing-settled)
+ - [Xbox Cans PS5 Version Of Big Game Despite All The Talk About Player Choice](https://kotaku.com/redfall-xbox-ps5-port-canceled-arkane-bethesda-1850254271)
+ - [Sofia Coppola’s daughter is accidentally incredible at TikTok](https://www.polygon.com/23652241/sofia-coppola-daughter-romy-mars-tiktok-grammy-nepo-baby-charter-helicopter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
