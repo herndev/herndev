@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All the race baiting posters here are no different to the BLM advocates you all just like to divide and spread hate because you have miserable and pathetic lives](http://9gag.com/gag/aDY6d8O)
- - ⏩ [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
- - 👉 [Frame TV installation](http://9gag.com/gag/aNw9P0v)<!-- MEMES:END -->
+ - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
+ - ⏩ [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
+ - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 ---
 
