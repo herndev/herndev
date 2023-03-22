@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pleased To Eat You! Discover All You Need To Know About Dead Island 2’s Zombies](https://news.xbox.com/en-us/2023/03/22/dead-island-2-zombies-types/)
- - [Diablo IV: Blizz Explains Lack Of Couch Co-Op On PC](https://kotaku.com/diablo-4-iv-couch-co-op-pc-console-release-date-1850251897)
- - [GameStop Profitable For First Time In Years Even As Everything Seems On Fire](https://kotaku.com/gamestop-meme-stock-pre-order-resident-evil-4-funko-1850251852)<!-- GAME:END -->
+ - [Find Your Elite: How There’s an Xbox Elite Controller for Everyone](https://news.xbox.com/en-us/2023/03/22/xbox-elite-cereal-controller/)
+ - [Parasite becomes Letterboxd’s first film to hit 1 million 5-star ratings as a new canon takes shape](https://www.polygon.com/23651581/letterboxd-top-rated-films-parasite)
+ - [Uh oh! Final Fantasy 16&#39;s squeeze holes have gamers in a flap](https://www.pcgamer.com/uh-oh-final-fantasy-16s-squeeze-holes-have-gamers-in-a-flap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
