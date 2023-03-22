@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - ⏩ [Social experiment](http://9gag.com/gag/a1PNQYD)
- - 👉 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
+ - 💣 [MVP](http://9gag.com/gag/abv1rKL)
+ - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - 👉 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
 
 ---
 
