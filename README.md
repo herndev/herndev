@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Pixels, now the Windows snipping tool has a major privacy flaw](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)
- - [Just Eat Takeaway lays off 1,700 UK couriers and returns to a gig economy model, which CEO Jitse Groen had said &quot;comes at the expense of society and workers&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230322/p4#a230322p4)
- - [Nvidia has developed the H800 chip, a version of the H100, for export to China; Alibaba, Baidu, Tencent, and other Chinese companies are already using the chip &lpar;Reuters&rpar;](http://www.techmeme.com/230322/p3#a230322p3)<!-- TECH:END -->
+ - [Google Maps vs Apple Maps: Which navigation app is right for you?](https://www.androidauthority.com/google-maps-vs-apple-maps-which-navigation-app-is-right-for-you-3300337/)
+ - [Switching between Xiaomi, Vivo, and Oppo phones just got easier](https://www.androidauthority.com/switching-between-xiaomi-vivo-and-oppo-phones-just-got-easier-3300917/)
+ - [Miniot Wheel 2 review: a unique vertical turntable worth waiting for](https://www.theverge.com/2023/3/22/23639244/wheel-upright-record-player-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
