@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - ⏩ [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
- - 👉 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
+ - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
 
 ---
 
