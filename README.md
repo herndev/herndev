@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing launches Ear &lpar;2&rpar; with Hi-Res Audio certification](https://appleinsider.com/articles/23/03/22/nothing-launches-ear-2-with-hi-res-audio-certification?utm_medium=rss)
- - [Google Messages may soon let you use AI to respond to text messages](https://www.androidauthority.com/google-messages-ai-3301044/)
- - [Source: job listings site Indeed is laying off 2,200 people, or 15% of its headcount; Indeed was acquired in 2012 by Japan&#39;s Recruit, which also owns Glassdoor &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230322/p28#a230322p28)<!-- TECH:END -->
+ - [Microsoft launches Loop, its Notion and Asana competitor, in preview, allowing users to collaborate in shared workspaces on the web, Android, and iOS &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/230322/p29#a230322p29)
+ - [Apple, Alphabet, Meta push back against US spy law](https://appleinsider.com/articles/23/03/22/apple-alphabet-meta-push-back-against-us-spy-law?utm_medium=rss)
+ - [Google Fi vs Mint Mobile: Which is a better deal?](https://www.androidauthority.com/google-fi-vs-mint-mobile-3300653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
