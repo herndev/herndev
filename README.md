@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Dating Sim Will Help You File Your Taxes](https://kotaku.com/tax-season-deadline-dating-sim-video-game-1850253777)
- - [The Best And Worst Parts Of Every Far Cry Game](https://kotaku.com/far-cry-best-ranking-open-world-ubisoft-fps-shooter-1850253655)
- - [How to find the Nitro Drifter in Fortnite and use its drift ability](https://www.pcgamer.com/fortnite-nitro-drifter-how-to-drift)<!-- GAME:END -->
+ - [Ubisoft is testing an AI tool that writes NPC dialogue](https://www.polygon.com/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter)
+ - [Rick and Morty Co-Creator Claims Lawsuit Is Dismissed, Lashes Back At &#39;Canceling&#39;](https://kotaku.com/rick-and-morty-high-on-life-justin-roiland-adult-swim-1850254194)
+ - [Community and esports reaction to Counter-Strike 2: &#39;Quit Valorant, it&#39;s done, it&#39;s f***ing over&#39;](https://www.pcgamer.com/community-and-esports-reaction-to-counter-strike-2-quit-valorant-its-done-its-fing-over)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
