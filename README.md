@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MVP](http://9gag.com/gag/abv1rKL)
- - ⏩ [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [Take the train they said, it would be fun they said...](http://9gag.com/gag/aOxe7Xr)
+ - ⏩ [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 ---
 
