@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Find Your Elite: How There’s an Xbox Elite Controller for Everyone](https://news.xbox.com/en-us/2023/03/22/xbox-elite-cereal-controller/)
- - [Parasite becomes Letterboxd’s first film to hit 1 million 5-star ratings as a new canon takes shape](https://www.polygon.com/23651581/letterboxd-top-rated-films-parasite)
- - [Uh oh! Final Fantasy 16&#39;s squeeze holes have gamers in a flap](https://www.pcgamer.com/uh-oh-final-fantasy-16s-squeeze-holes-have-gamers-in-a-flap)<!-- GAME:END -->
+ - [Counter-Strike 2 is real, free, and everything carries over](https://www.pcgamer.com/counter-strike-2-is-real-free-and-everything-carries-over)
+ - [Valve announces Counter-Strike 2 for summer launch](https://www.polygon.com/23651917/counter-strike-2-release-date-cs2-beta-test-valve-steam)
+ - [How to earn renown in Diablo 4](https://www.pcgamer.com/diablo-4-renown-how-to-earn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
