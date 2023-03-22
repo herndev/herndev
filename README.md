@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
- - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
+ - 💣 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
+ - ⏩ [Save it to never use it](http://9gag.com/gag/a4o6Gey)
+ - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 ---
 
