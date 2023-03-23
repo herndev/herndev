@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another classic.](http://9gag.com/gag/aEq6p5O)
- - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 👉 [Traffic laws don&#39;t apply to me](http://9gag.com/gag/a9q6REK)<!-- MEMES:END -->
+ - 💣 [At the welfare office](http://9gag.com/gag/ago1o6v)
+ - ⏩ [Typical abortion in Thailand](http://9gag.com/gag/amA1PW6)
+ - 👉 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
 
 ---
 
