@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Atari is buying System Shock remake studio Nightdive for $10M](https://www.pcgamer.com/atari-is-buying-system-shock-remake-studio-nightdive-for-dollar10m)
  - [Lords of the Fallen drops the &#39;The&#39; and its former engine](https://www.pcgamer.com/lords-of-the-fallen-drops-the-the-and-its-former-engine)
- - [Unreal Engine Videos Give Us A Glimpse At The Graphics Of The Future](https://kotaku.com/unreal-engine-showcase-new-graphics-visuals-gdc-2023-1850255025)
- - [“When Everyone Reduces Emissions, Everyone on the Planet Wins” – Explaining Xbox’s New Game Development Sustainability Tools](https://news.xbox.com/en-us/2023/03/22/xbox-developer-sustainability-toolkit/)<!-- GAME:END -->
+ - [Unreal Engine Videos Give Us A Glimpse At The Graphics Of The Future](https://kotaku.com/unreal-engine-showcase-new-graphics-visuals-gdc-2023-1850255025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
