@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube channel Linus Tech Tips was hacked on Thursday and started posting videos for crypto scams, the latest in a series of crypto scam breaches on YouTube &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230323/p21#a230323p21)
- - [Cyberpunk 2077 is getting film-like path tracing with new Overdrive Mode in April](https://www.theverge.com/2023/3/23/23653237/cyberpunk-2077-overdrive-mode-full-ray-tracing-path-tracing)
- - [Apple’s Tetris movie has no idea what it wants to be](https://www.theverge.com/23650577/apple-tetris-movie-taron-egerton-review)<!-- TECH:END -->
+ - [Dell’s new Latitude 9440 is one of the smallest 14-inch business laptops you can buy](https://www.theverge.com/2023/3/23/23650835/dell-latitude-9440-7340-7440-ultralight-business-laptop)
+ - [Elden Ring gets ray tracing in new update](https://www.theverge.com/2023/3/23/23653344/elden-ring-ray-tracing-update-1-0-9)
+ - [China &quot;firmly opposes&quot; a forced sale of TikTok, warning the move would involve &quot;technology export&quot; and would &quot;seriously damage&quot; investor confidence in the US &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230323/p22#a230323p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
