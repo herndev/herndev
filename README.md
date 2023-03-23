@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got to be kidding me](http://9gag.com/gag/aGEnE96)
- - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 👉 [Oof](http://9gag.com/gag/a4o6oPv)<!-- MEMES:END -->
+ - 💣 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
+ - ⏩ [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 ---
 
