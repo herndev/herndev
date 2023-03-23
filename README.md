@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HUAWEI Mate X3 announced: Everything but the kitchen sink &lpar;and Google support&rpar;](https://www.androidauthority.com/huawei-mate-x3-2-3301339/)
- - [Chatbot startup Character.AI raised $150M led by a16z at a $1B valuation, after a $43M seed in December 2021, and plans to raise more from &quot;strategic partners&quot; &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230323/p9#a230323p9)
- - [Munich-based IntegrityNext, a service that helps companies audit supply chains for ESG compliance, raised &amp;euro;100M from EQT Growth, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p8#a230323p8)<!-- TECH:END -->
+ - [Sources: Apple considers bidding for the streaming rights to a range of English soccer games, including showing Premier League games in the UK, following Amazon &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/230323/p11#a230323p11)
+ - [Intel, IBM, Nvidia, and other chip companies have joined industrial materials businesses to fight proposed clampdowns on &quot;forever chemicals&quot; across the US &lpar;Patrick Temple-West/Financial Times&rpar;](http://www.techmeme.com/230323/p10#a230323p10)
+ - [Brandon Sanderson Is Your God](https://www.wired.com/story/brandon-sanderson-is-your-god/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
