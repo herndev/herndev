@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shoeshiner working on a pair of boots](http://9gag.com/gag/a8q61YZ)
- - ⏩ [Hard day at work](http://9gag.com/gag/a1PNrn6)
- - 👉 [Edoocashun](http://9gag.com/gag/aMEBxjV)<!-- MEMES:END -->
+ - 💣 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
 
 ---
 
