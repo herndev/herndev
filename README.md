@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [As EVO Japan fast approaches, Tekken 8 is almost done with its first batch of character reveals](https://www.pcgamer.com/as-evo-japan-fast-approaches-tekken-8-is-almost-done-with-its-first-batch-of-character-reveals)
  - [Wordle hint and answer #642: Thursday, March 23](https://www.pcgamer.com/wordle-hint-answer-today-642-march-23)
- - [Atari is buying System Shock remake studio Nightdive for $10M](https://www.pcgamer.com/atari-is-buying-system-shock-remake-studio-nightdive-for-dollar10m)
- - [Lords of the Fallen drops the &#39;The&#39; and its former engine](https://www.pcgamer.com/lords-of-the-fallen-drops-the-the-and-its-former-engine)<!-- GAME:END -->
+ - [Atari is buying System Shock remake studio Nightdive for $10M](https://www.pcgamer.com/atari-is-buying-system-shock-remake-studio-nightdive-for-dollar10m)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
