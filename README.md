@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - ⏩ [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
- - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
+ - 💣 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - ⏩ [Lol. We want meme material back.](http://9gag.com/gag/az2d2vx)
+ - 👉 [Another classic.](http://9gag.com/gag/aEq6p5O)<!-- MEMES:END -->
 
 ---
 
