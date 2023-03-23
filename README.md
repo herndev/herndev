@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But did it work?](http://9gag.com/gag/a04XZqL)
- - ⏩ [Another classic.](http://9gag.com/gag/aEq6p5O)
- - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - 💣 [Nvidia Culitho, LOL](http://9gag.com/gag/aDY621d)
+ - ⏩ [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 ---
 
