@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - ⏩ [Lol. We want meme material back.](http://9gag.com/gag/az2d2vx)
- - 👉 [Another classic.](http://9gag.com/gag/aEq6p5O)<!-- MEMES:END -->
+ - 💣 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - ⏩ [Social experiment](http://9gag.com/gag/a1PNQYD)
+ - 👉 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
 
 ---
 
