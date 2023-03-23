@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy M54 launched: A longer-lasting Galaxy A54 with 108MP camera](https://www.androidauthority.com/samsung-galaxy-m54-3301304/)
- - [A look at RightWingGPT, an experimental AI model fine-tuned to manifest conservative viewpoints, made by a researcher who claims ChatGPT has a left-leaning bias &lpar;New York Times&rpar;](http://www.techmeme.com/230323/p2#a230323p2)
- - [Canva’s got a massive update that should have Adobe worried](https://www.theverge.com/2023/3/23/23652131/canva-ai-update-visual-worksuite-brand-tools-features)<!-- TECH:END -->
+ - [Canva debuts AI-based tools, including Magic Design which makes personalized templates from images and Magic Presentation which creates slideshows from prompts &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230323/p4#a230323p4)
+ - [A profile of TikTok CEO Shou Zi Chew, a Singaporean army reservist and an ex-Goldman Sachs banker, as he prepares to defend TikTok before a skeptical Congress &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/230323/p3#a230323p3)
+ - [Climate Freeloaders Are Destroying the Planet](https://www.wired.com/story/ipcc-synthesis-report-australia-us-fossil-fuel-expansion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
