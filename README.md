@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nvidia Culitho, LOL](http://9gag.com/gag/aDY621d)
- - ⏩ [But did it work?](http://9gag.com/gag/a04XZqL)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
+ - ⏩ [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)
+ - 👉 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)<!-- MEMES:END -->
 
 ---
 
