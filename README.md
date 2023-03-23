@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blockbuster might be staging a comeback — and it should](https://www.polygon.com/23654120/blockbuster-video-comeback-news-website-update)
- - [Thirsty Apex Legends Players Pissed Swimsuit Skins Aren’t Hot Enough](https://kotaku.com/apex-legends-sun-squad-loba-swimsuit-skin-bathing-suit-1850259307)
- - [Chainsaw Man Creator Asks Fans To Read Gay Porn, Fans Go Hell Yeah](https://kotaku.com/chainsaw-man-gay-porn-fujimoto-boys-love-1850259238)<!-- GAME:END -->
+ - [“Impossify” Your Park Beyond with Xbox Series X|S on June 16](https://news.xbox.com/en-us/2023/03/23/park-beyond-pre-order-available-now-on-xbox-series-xs/)
+ - [After Us: Crafting an organic platformer, out May 23](https://blog.playstation.com/2023/03/23/after-us-crafting-an-organic-platformer/)
+ - [Creative Assembly&#39;s extraction shooter Hyenas gets a playable alpha tomorrow](https://www.pcgamer.com/creative-assemblys-extraction-shooter-hyenas-gets-a-playable-alpha-tomorrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
