@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At the welfare office](http://9gag.com/gag/ago1o6v)
- - ⏩ [Typical abortion in Thailand](http://9gag.com/gag/amA1PW6)
- - 👉 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
+ - 💣 [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - ⏩ [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - 👉 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
 
 ---
 
