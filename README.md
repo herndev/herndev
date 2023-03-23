@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings: FTX will recover assets worth $460M, including $404M in cash, of the $475M seed capital transferred by Alameda to hedge fund Modulo in 2022 &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230323/p1#a230323p1)
  - [WhatsApp unveils an updated app for Windows that it says loads faster and enables group video calls with up to eight people and audio calls with up to 32 people &lpar;Meta&rpar;](http://www.techmeme.com/230322/p37#a230322p37)
- - [Sam Altman says OpenAI has fixed a &quot;significant issue&quot; in ChatGPT after a bug in an open-source library let some users see titles of other users&#39; chat history &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230322/p36#a230322p36)
- - [Singapore-based Kredivo Holdings, formerly FinAccel, whose services include BNPL, loans, neobanking, and more, has raised a $270M Series D led by Mizuho Bank &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230322/p35#a230322p35)<!-- TECH:END -->
+ - [Sam Altman says OpenAI has fixed a &quot;significant issue&quot; in ChatGPT after a bug in an open-source library let some users see titles of other users&#39; chat history &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230322/p36#a230322p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
