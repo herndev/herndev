@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Players Are Already Making Incredible Things With Unreal](https://kotaku.com/fortnite-2-0-creative-map-unreal-epic-minecraft-mario-1850259046)
- - [What happens if the US government bans TikTok](https://www.polygon.com/23653413/tiktok-ban-why-ceo-shou-zi-chew-explained)
- - [If you thought your neighbors were noisy, imagine living next to an engine-powered crypto-mining plant](https://www.pcgamer.com/if-you-thought-your-neighbors-were-noisy-imagine-living-next-to-an-engine-powered-crypto-mining-plant)<!-- GAME:END -->
+ - [Blockbuster might be staging a comeback — and it should](https://www.polygon.com/23654120/blockbuster-video-comeback-news-website-update)
+ - [Thirsty Apex Legends Players Pissed Swimsuit Skins Aren’t Hot Enough](https://kotaku.com/apex-legends-sun-squad-loba-swimsuit-skin-bathing-suit-1850259307)
+ - [Chainsaw Man Creator Asks Fans To Read Gay Porn, Fans Go Hell Yeah](https://kotaku.com/chainsaw-man-gay-porn-fujimoto-boys-love-1850259238)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
