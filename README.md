@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva debuts AI-based tools, including Magic Design which makes personalized templates from images and Magic Presentation which creates slideshows from prompts &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230323/p4#a230323p4)
- - [A profile of TikTok CEO Shou Zi Chew, a Singaporean army reservist and an ex-Goldman Sachs banker, as he prepares to defend TikTok before a skeptical Congress &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/230323/p3#a230323p3)
- - [Climate Freeloaders Are Destroying the Planet](https://www.wired.com/story/ipcc-synthesis-report-australia-us-fossil-fuel-expansion/)<!-- TECH:END -->
+ - [Sources: Toshiba plans to accept a ~$15.3B takeover offer from a coalition including Japan Industrial Partners; JIP is expected to take Toshiba private &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230323/p6#a230323p6)
+ - [Sources: Arm seeks to raise prices for its chip designs by charging device makers based on the value of a device instead of chipmakers based on a chip&#39;s value &lpar;Financial Times&rpar;](http://www.techmeme.com/230323/p5#a230323p5)
+ - [Canva debuts AI-based tools, including Magic Design which makes personalized templates from images and Magic Presentation which creates slideshows from prompts &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230323/p4#a230323p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
