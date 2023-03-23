@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Munich-based IntegrityNext, a service that helps companies audit supply chains for ESG compliance, raised &amp;euro;100M from EQT Growth, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p8#a230323p8)
- - [Daily Authority: 📱 Pebble Phone to make a splash?](https://www.androidauthority.com/daily-authority-march-23-2023-3301314/)
- - [A look at Replika&#39;s decision to block adult content in its AI companion chatbot; 60% of paying customers had a romantic element in their Replika relationship &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230323/p7#a230323p7)<!-- TECH:END -->
+ - [HUAWEI Mate X3 announced: Everything but the kitchen sink &lpar;and Google support&rpar;](https://www.androidauthority.com/huawei-mate-x3-2-3301339/)
+ - [Chatbot startup Character.AI raised $150M led by a16z at a $1B valuation, after a $43M seed in December 2021, and plans to raise more from &quot;strategic partners&quot; &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230323/p9#a230323p9)
+ - [Munich-based IntegrityNext, a service that helps companies audit supply chains for ESG compliance, raised &amp;euro;100M from EQT Growth, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p8#a230323p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
