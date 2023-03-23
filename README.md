@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
- - ⏩ [You get it](http://9gag.com/gag/aDY62j9)
- - 👉 [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)<!-- MEMES:END -->
+ - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
+ - 👉 [Bum goes brrrrr](http://9gag.com/gag/aDY67Wx)<!-- MEMES:END -->
 
 ---
 
