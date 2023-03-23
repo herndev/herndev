@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: FTX will recover assets worth $460M, including $404M in cash, of the $475M seed capital transferred by Alameda to hedge fund Modulo in 2022 &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230323/p1#a230323p1)
- - [WhatsApp unveils an updated app for Windows that it says loads faster and enables group video calls with up to eight people and audio calls with up to 32 people &lpar;Meta&rpar;](http://www.techmeme.com/230322/p37#a230322p37)
- - [Sam Altman says OpenAI has fixed a &quot;significant issue&quot; in ChatGPT after a bug in an open-source library let some users see titles of other users&#39; chat history &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230322/p36#a230322p36)<!-- TECH:END -->
+ - [Samsung Galaxy M54 launched: A longer-lasting Galaxy A54 with 108MP camera](https://www.androidauthority.com/samsung-galaxy-m54-3301304/)
+ - [A look at RightWingGPT, an experimental AI model fine-tuned to manifest conservative viewpoints, made by a researcher who claims ChatGPT has a left-leaning bias &lpar;New York Times&rpar;](http://www.techmeme.com/230323/p2#a230323p2)
+ - [Canva’s got a massive update that should have Adobe worried](https://www.theverge.com/2023/3/23/23652131/canva-ai-update-visual-worksuite-brand-tools-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
