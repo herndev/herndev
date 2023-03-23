@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
+ - 💣 [Burn in hell with me](http://9gag.com/gag/a5X6VjL)
+ - ⏩ [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - 👉 [`Yeh baby, we dangerous`](http://9gag.com/gag/ay2333M)<!-- MEMES:END -->
 
 ---
 
