@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 &amp; Ultra propelled growth in China](https://appleinsider.com/articles/23/03/23/apple-watch-series-8-ultra-propelled-growth-in-china?utm_medium=rss)
- - [OpenAI rolls out ChatGPT plugins, starting with a web browser and a code interpreter, and open sources the code for a knowledgebase retrieval plugin &lpar;OpenAI&rpar;](http://www.techmeme.com/230323/p25#a230323p25)
- - [Garmin&#39;s Feature-Packed Enduro Fitness Watch Drops to Historic Low at Amazon     - CNET](https://www.cnet.com/deals/garmins-feature-packed-enduro-fitness-watch-drops-to-historic-low-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wolfram, Slack, Expedia, Instacart, Kayak, Klarna, OpenTable, Shopify, and others release the first third-party plugins for ChatGPT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230323/p26#a230323p26)
+ - [Epic CEO fears Apple&#39;s influence over the metaverse](https://appleinsider.com/articles/23/03/23/epic-ceo-fears-apples-influence-over-the-metaverse?utm_medium=rss)
+ - [WhatsApp just got a lot faster on desktop, adds support for 8 person video calls](https://www.androidauthority.com/whatsapp-desktop-app-3301548/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
