@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
- - 👉 [Bum goes brrrrr](http://9gag.com/gag/aDY67Wx)<!-- MEMES:END -->
+ - 💣 [Another classic.](http://9gag.com/gag/aEq6p5O)
+ - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 👉 [Traffic laws don&#39;t apply to me](http://9gag.com/gag/a9q6REK)<!-- MEMES:END -->
 
 ---
 
