@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring just got ray tracing, but you might not want to use it](https://www.pcgamer.com/elden-ring-just-got-ray-tracing-but-you-might-not-want-to-use-it)
- - [As EVO Japan fast approaches, Tekken 8 is almost done with its first batch of character reveals](https://www.pcgamer.com/as-evo-japan-fast-approaches-tekken-8-is-almost-done-with-its-first-batch-of-character-reveals)
- - [Wordle hint and answer #642: Thursday, March 23](https://www.pcgamer.com/wordle-hint-answer-today-642-march-23)<!-- GAME:END -->
+ - [Lego 2K Drive builds on the tracks laid by Mario Kart and Forza Horizon](https://www.polygon.com/23652179/lego-2k-drive-release-date-trailer-preview)
+ - [Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards](https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue)
+ - [Does The Mandalorian just want us to forget Bo-Katan has the Darksaber now?](https://www.polygon.com/23652162/mandalorian-season-3-bo-katan-darksaber)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
