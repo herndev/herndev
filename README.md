@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [29-year-old scientist enrolled in high school and pretended to be a teenager because she was lonely and \u201cwanted to return to a place of safety\u201d](http://9gag.com/gag/amA1o6V)
- - ⏩ [Bum goes brrrrr](http://9gag.com/gag/aDY67Wx)
- - 👉 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 💣 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - ⏩ [You get it](http://9gag.com/gag/aDY62j9)
+ - 👉 [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)<!-- MEMES:END -->
 
 ---
 
