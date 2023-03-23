@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Toshiba plans to accept a ~$15.3B takeover offer from a coalition including Japan Industrial Partners; JIP is expected to take Toshiba private &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230323/p6#a230323p6)
- - [Sources: Arm seeks to raise prices for its chip designs by charging device makers based on the value of a device instead of chipmakers based on a chip&#39;s value &lpar;Financial Times&rpar;](http://www.techmeme.com/230323/p5#a230323p5)
- - [Canva debuts AI-based tools, including Magic Design which makes personalized templates from images and Magic Presentation which creates slideshows from prompts &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230323/p4#a230323p4)<!-- TECH:END -->
+ - [Munich-based IntegrityNext, a service that helps companies audit supply chains for ESG compliance, raised &amp;euro;100M from EQT Growth, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p8#a230323p8)
+ - [Daily Authority: 📱 Pebble Phone to make a splash?](https://www.androidauthority.com/daily-authority-march-23-2023-3301314/)
+ - [A look at Replika&#39;s decision to block adult content in its AI companion chatbot; 60% of paying customers had a romantic element in their Replika relationship &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230323/p7#a230323p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
