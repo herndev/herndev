@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What The Hell Is Everywhere, That New Creator Game From Ex-GTA Devs?](https://kotaku.com/everywhere-mindseye-ex-gta-devs-fortnite-dreams-roblox-1850258651)
- - [Are we finally going to get a modular gaming laptop that sticks?](https://www.pcgamer.com/are-we-finally-going-to-get-a-modular-gaming-laptop-that-sticks)
- - [Reduce Your Screen Time With These Video Game-Inspired Board Games](https://kotaku.com/best-board-games-video-games-screen-time-bloodborne-1850258632)<!-- GAME:END -->
+ - [Fortnite Players Are Already Making Incredible Things With Unreal](https://kotaku.com/fortnite-2-0-creative-map-unreal-epic-minecraft-mario-1850259046)
+ - [What happens if the US government bans TikTok](https://www.polygon.com/23653413/tiktok-ban-why-ceo-shou-zi-chew-explained)
+ - [If you thought your neighbors were noisy, imagine living next to an engine-powered crypto-mining plant](https://www.pcgamer.com/if-you-thought-your-neighbors-were-noisy-imagine-living-next-to-an-engine-powered-crypto-mining-plant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
