@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
- - ⏩ [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)
- - 👉 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)<!-- MEMES:END -->
+ - 💣 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)
+ - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 👉 [Childhood memories](http://9gag.com/gag/a3Z5Em1)<!-- MEMES:END -->
 
 ---
 
