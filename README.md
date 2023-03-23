@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Gets Ray Tracing One Year Later, With Some Big Buffs And Nerfs](https://kotaku.com/elden-ring-update-ray-tracing-colosseum-dlc-pvp-nerf-1850256813)
- - [Experience Driving Made Awesome With The Open-World Adventure of LEGO 2K Drive](https://news.xbox.com/en-us/2023/03/23/lego-2k-drive-announcement/)
- - [Alienware AW2723DF](https://www.pcgamer.com/alienware-aw2723df-gaming-monitor-review)<!-- GAME:END -->
+ - [The best video games of 2023 so far](https://www.polygon.com/23648669/best-video-games-2023)
+ - [Warhammer 40K’s grimdark setting besieged by terrifying bugs](https://www.polygon.com/tabletop-games/23653485/warhammer-40k-tenth-edition-cinematic-lore-explainer-tyranids-guilliman)
+ - [Where to find a Speck of Bronze Dust in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-bronze-dust)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
