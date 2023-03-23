@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
- - ⏩ [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
- - 👉 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - 💣 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - ⏩ [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - 👉 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
 
 ---
 
