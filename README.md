@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“When Everyone Reduces Emissions, Everyone on the Planet Wins” – Explaining Xbox’s New Game Development Sustainability Tools](https://news.xbox.com/en-us/2023/03/22/xbox-developer-sustainability-toolkit/)
- - [Jake Paul, Lindsay Lohan &amp; More Charged With &#39;Illegally&#39; Shilling Crypto](https://kotaku.com/jake-paul-crypto-scam-sec-charged-lohan-yachty-akon-1850254606)
- - [Lawsuit over police killing in 2017 Call of Duty swatting is finally settled for $5 million](https://www.pcgamer.com/lawsuit-over-police-killing-in-2017-call-of-duty-swatting-is-finally-settled-for-dollar5-million)<!-- GAME:END -->
+ - [Lords of the Fallen drops the &#39;The&#39; and its former engine](https://www.pcgamer.com/lords-of-the-fallen-drops-the-the-and-its-former-engine)
+ - [Unreal Engine Videos Give Us A Glimpse At The Graphics Of The Future](https://kotaku.com/unreal-engine-showcase-new-graphics-visuals-gdc-2023-1850255025)
+ - [“When Everyone Reduces Emissions, Everyone on the Planet Wins” – Explaining Xbox’s New Game Development Sustainability Tools](https://news.xbox.com/en-us/2023/03/22/xbox-developer-sustainability-toolkit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
