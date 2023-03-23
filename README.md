@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - ⏩ [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - ⏩ [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)
+ - 👉 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)<!-- MEMES:END -->
 
 ---
 
