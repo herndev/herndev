@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4’s Growing Together expansion grants me the drama I crave](https://www.polygon.com/23653459/the-sims-4-growing-together-expansion-conflict-storytelling)
- - [Warhammer 40,000 brings back the Lion, Primarch of the Dark Angels](https://www.polygon.com/tabletop-games/23653650/warhammer-40k-lion-eljonson-dark-angels-primarch-returns-announcement)
- - [Women’s Pro Soccer Players React To Their Terrible FIFA 23 Characters](https://kotaku.com/fifa-23-nwsl-update-women-players-character-scans-1850257937)<!-- GAME:END -->
+ - [What The Hell Is Everywhere, That New Creator Game From Ex-GTA Devs?](https://kotaku.com/everywhere-mindseye-ex-gta-devs-fortnite-dreams-roblox-1850258651)
+ - [Are we finally going to get a modular gaming laptop that sticks?](https://www.pcgamer.com/are-we-finally-going-to-get-a-modular-gaming-laptop-that-sticks)
+ - [Reduce Your Screen Time With These Video Game-Inspired Board Games](https://kotaku.com/best-board-games-video-games-screen-time-bloodborne-1850258632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
