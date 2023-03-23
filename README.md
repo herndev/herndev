@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Paid for Influencers to Attend the Pro-TikTok Rally in DC](https://www.wired.com/story/tiktok-rally-washington-chew-testimony/)
- - [US prosecutors in New York charge Terraform Labs co-founder Do Kwon with eight counts, including securities fraud, commodities fraud, and wire fraud &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/230323/p31#a230323p31)
- - [Switching Phone Carriers in 2023: What to Know Before Changing Providers     - CNET](https://www.cnet.com/tech/mobile/switching-cellphone-carriers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Utah Gov. Spencer Cox signs two bills regulating social media apps, including requiring age verification for all users and permission from parents for minors &lpar;Bryan Schott/Salt Lake Tribune&rpar;](http://www.techmeme.com/230323/p32#a230323p32)
+ - [Congress seems more determined to ban TikTok than ever](https://www.theverge.com/2023/3/23/23653950/congress-tiktok-ban-hearing-aftermath-china-influence-privacy)
+ - [Over 40 of the best smartwatch deals you can get](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
