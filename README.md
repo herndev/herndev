@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Criminal Accomplice Prank](http://9gag.com/gag/avQ1AB5)
- - ⏩ [Level up](http://9gag.com/gag/ajV1gL8)
- - 👉 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)<!-- MEMES:END -->
+ - 💣 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - ⏩ [Longer version?](http://9gag.com/gag/a2Kw7ve)
+ - 👉 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
 
 ---
 
