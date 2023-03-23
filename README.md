@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of 2023 so far](https://www.polygon.com/23648669/best-video-games-2023)
- - [Warhammer 40K’s grimdark setting besieged by terrifying bugs](https://www.polygon.com/tabletop-games/23653485/warhammer-40k-tenth-edition-cinematic-lore-explainer-tyranids-guilliman)
- - [Where to find a Speck of Bronze Dust in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-bronze-dust)<!-- GAME:END -->
+ - [Fraud Alert: Goku Has Never Actually Beaten Vegeta](https://kotaku.com/dragon-ball-super-dbz-vegeta-goku-battle-anime-1850257752)
+ - [The Mandalorian Finally Honors Star Wars&#39; Most Unfairly Abused Actor](https://kotaku.com/mandalorian-star-wars-jedi-beq-jarjar-actor-ahmed-best-1850257681)
+ - [Popular YouTube Channel Linus Tech Tips Pulled After Scammer Hack](https://kotaku.com/linus-tech-tips-elon-musk-hardware-youtube-crypto-scam-1850257599)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
