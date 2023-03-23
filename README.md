@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Kredivo Holdings, formerly FinAccel, whose services include BNPL, loans, neobanking, and more, has raised a $270M Series D led by Mizuho Bank &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230322/p35#a230322p35)
  - [Unlock up to $700 off MacBook Pro laptops, plus $70 off AppleCare](https://appleinsider.com/articles/23/03/23/unlock-up-to-700-off-macbook-pro-laptops-plus-70-off-applecare?utm_medium=rss)
- - [Samsung’s photo “remaster” knows what this baby pic is missing: teeth](https://www.theverge.com/2023/3/22/23652488/samsung-gallery-remaster-feature-teeth-baby-photos-moon)
- - [Crypto exchange Bitget acquires a controlling stake in crypto wallet company BitKeep with a $30M investment at a $300M valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230322/p34#a230322p34)<!-- TECH:END -->
+ - [Samsung’s photo “remaster” knows what this baby pic is missing: teeth](https://www.theverge.com/2023/3/22/23652488/samsung-gallery-remaster-feature-teeth-baby-photos-moon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
