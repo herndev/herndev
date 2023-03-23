@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)
- - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 👉 [Childhood memories](http://9gag.com/gag/a3Z5Em1)<!-- MEMES:END -->
+ - 💣 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - ⏩ [MVP](http://9gag.com/gag/abv1rKL)
+ - 👉 [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)<!-- MEMES:END -->
 
 ---
 
