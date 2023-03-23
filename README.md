@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple considers bidding for the streaming rights to a range of English soccer games, including showing Premier League games in the UK, following Amazon &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/230323/p11#a230323p11)
- - [Intel, IBM, Nvidia, and other chip companies have joined industrial materials businesses to fight proposed clampdowns on &quot;forever chemicals&quot; across the US &lpar;Patrick Temple-West/Financial Times&rpar;](http://www.techmeme.com/230323/p10#a230323p10)
- - [Brandon Sanderson Is Your God](https://www.wired.com/story/brandon-sanderson-is-your-god/)<!-- TECH:END -->
+ - [HUAWEI P60 series announced: One for the photography enthusiasts](https://www.androidauthority.com/huawei-p60-series-3301356/)
+ - [Accenture plans to lay off 19,000 employees, or 2.5% of its workforce, and lowers its annual forecasts, as the global economic slowdown weighs on IT services &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230323/p13#a230323p13)
+ - [Apple TV+ considering bid to stream UK soccer](https://appleinsider.com/articles/23/03/23/apple-tv-considering-bid-to-stream-uk-soccer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
