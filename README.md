@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
- - ⏩ [Save it to never use it](http://9gag.com/gag/a4o6Gey)
- - 👉 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 💣 [You got to be kidding me](http://9gag.com/gag/aGEnE96)
+ - ⏩ [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 👉 [Oof](http://9gag.com/gag/a4o6oPv)<!-- MEMES:END -->
 
 ---
 
