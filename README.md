@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell’s new Latitude 9440 is one of the smallest 14-inch business laptops you can buy](https://www.theverge.com/2023/3/23/23650835/dell-latitude-9440-7340-7440-ultralight-business-laptop)
- - [Elden Ring gets ray tracing in new update](https://www.theverge.com/2023/3/23/23653344/elden-ring-ray-tracing-update-1-0-9)
- - [China &quot;firmly opposes&quot; a forced sale of TikTok, warning the move would involve &quot;technology export&quot; and would &quot;seriously damage&quot; investor confidence in the US &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230323/p22#a230323p22)<!-- TECH:END -->
+ - [Finally, you can put an AMD processor in the Framework Laptop](https://www.theverge.com/2023/3/23/23653230/framework-laptop-13-inch-intel-amd-release-date-news-features-price)
+ - [Framework announces Laptop 16 — and promises ‘holy grail’ of upgradable graphics](https://www.theverge.com/2023/3/23/23652967/framework-laptop-16-modular-upgradable-graphics)
+ - [This $39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
