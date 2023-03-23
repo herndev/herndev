@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fraud Alert: Goku Has Never Actually Beaten Vegeta](https://kotaku.com/dragon-ball-super-dbz-vegeta-goku-battle-anime-1850257752)
- - [The Mandalorian Finally Honors Star Wars&#39; Most Unfairly Abused Actor](https://kotaku.com/mandalorian-star-wars-jedi-beq-jarjar-actor-ahmed-best-1850257681)
- - [Popular YouTube Channel Linus Tech Tips Pulled After Scammer Hack](https://kotaku.com/linus-tech-tips-elon-musk-hardware-youtube-crypto-scam-1850257599)<!-- GAME:END -->
+ - [The Sims 4’s Growing Together expansion grants me the drama I crave](https://www.polygon.com/23653459/the-sims-4-growing-together-expansion-conflict-storytelling)
+ - [Warhammer 40,000 brings back the Lion, Primarch of the Dark Angels](https://www.polygon.com/tabletop-games/23653650/warhammer-40k-lion-eljonson-dark-angels-primarch-returns-announcement)
+ - [Women’s Pro Soccer Players React To Their Terrible FIFA 23 Characters](https://kotaku.com/fifa-23-nwsl-update-women-players-character-scans-1850257937)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
