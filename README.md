@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
- - ⏩ [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - 👉 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
+ - 💣 [Shoeshiner working on a pair of boots](http://9gag.com/gag/a8q61YZ)
+ - ⏩ [Hard day at work](http://9gag.com/gag/a1PNrn6)
+ - 👉 [Edoocashun](http://9gag.com/gag/aMEBxjV)<!-- MEMES:END -->
 
 ---
 
