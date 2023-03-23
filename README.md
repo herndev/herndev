@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Far Cry 5, Bassmaster Fishing 2022: Classic Edition, and Marvel’s Midnight Suns Enhanced Edition](https://news.xbox.com/en-us/2023/03/23/free-play-days-far-cry-5-bassmaster-fishing-2022-and-marvels-midnight-suns/)
- - [Beloved TMNT graphic novel The Last Ronin is becoming a video game](https://www.polygon.com/23645176/tmnt-last-ronin-video-game-graphic-novel-ninja-turtles)
- - [The funniest thing about Counter-Strike 2 is that Valve won&#39;t let cheaters and douchebags in](https://www.pcgamer.com/the-funniest-thing-about-counter-strike-2-is-that-valve-wont-let-cheaters-and-douchebags-in)<!-- GAME:END -->
+ - [Elden Ring Gets Ray Tracing One Year Later, With Some Big Buffs And Nerfs](https://kotaku.com/elden-ring-update-ray-tracing-colosseum-dlc-pvp-nerf-1850256813)
+ - [Experience Driving Made Awesome With The Open-World Adventure of LEGO 2K Drive](https://news.xbox.com/en-us/2023/03/23/lego-2k-drive-announcement/)
+ - [Alienware AW2723DF](https://www.pcgamer.com/alienware-aw2723df-gaming-monitor-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
