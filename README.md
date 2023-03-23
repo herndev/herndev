@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC has put Coinbase on notice for allegedly breaking securities laws](https://www.theverge.com/2023/3/22/23652482/coinbase-crypto-securities-law-sec-wells-notice)
- - [Apple self-driving test program grows to over 200 drivers](https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers?utm_medium=rss)
- - [Bug in Google Markup, Windows Photo-Cropping Tools Exposes Removed Image Data](https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/)<!-- TECH:END -->
+ - [Samsung’s photo “remaster” knows what this baby pic is missing: teeth](https://www.theverge.com/2023/3/22/23652488/samsung-gallery-remaster-feature-teeth-baby-photos-moon)
+ - [Crypto exchange Bitget acquires a controlling stake in crypto wallet company BitKeep with a $30M investment at a $300M valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230322/p34#a230322p34)
+ - [Mint Mobile vs Cricket Wireless: Which is better for you?](https://www.androidauthority.com/mint-mobile-vs-cricket-wireless-3300868/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
