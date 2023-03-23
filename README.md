@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4’s Growing Together Expansion Pack Is An Instant Must-Have](https://kotaku.com/the-sims-4-growing-together-expansion-dlc-infant-family-1850256120)
- - [Link is a gay icon, and Zelda fans know it](https://www.polygon.com/zelda/23643830/legend-of-zelda-link-gay-icon-breath-of-the-wild-botw-sidon-gerudo)
- - [Genshin Impact Fans Say They’ll Quit Spending Money Over Underwhelming Character](https://kotaku.com/genshin-impact-dehya-fixdehya-bug-banner-wishes-1850253913)<!-- GAME:END -->
+ - [Free Play Days – Far Cry 5, Bassmaster Fishing 2022: Classic Edition, and Marvel’s Midnight Suns Enhanced Edition](https://news.xbox.com/en-us/2023/03/23/free-play-days-far-cry-5-bassmaster-fishing-2022-and-marvels-midnight-suns/)
+ - [Beloved TMNT graphic novel The Last Ronin is becoming a video game](https://www.polygon.com/23645176/tmnt-last-ronin-video-game-graphic-novel-ninja-turtles)
+ - [The funniest thing about Counter-Strike 2 is that Valve won&#39;t let cheaters and douchebags in](https://www.pcgamer.com/the-funniest-thing-about-counter-strike-2-is-that-valve-wont-let-cheaters-and-douchebags-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
