@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego 2K Drive builds on the tracks laid by Mario Kart and Forza Horizon](https://www.polygon.com/23652179/lego-2k-drive-release-date-trailer-preview)
- - [Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards](https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue)
- - [Does The Mandalorian just want us to forget Bo-Katan has the Darksaber now?](https://www.polygon.com/23652162/mandalorian-season-3-bo-katan-darksaber)<!-- GAME:END -->
+ - [The Sims 4’s Growing Together Expansion Pack Is An Instant Must-Have](https://kotaku.com/the-sims-4-growing-together-expansion-dlc-infant-family-1850256120)
+ - [Link is a gay icon, and Zelda fans know it](https://www.polygon.com/zelda/23643830/legend-of-zelda-link-gay-icon-breath-of-the-wild-botw-sidon-gerudo)
+ - [Genshin Impact Fans Say They’ll Quit Spending Money Over Underwhelming Character](https://kotaku.com/genshin-impact-dehya-fixdehya-bug-banner-wishes-1850253913)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
