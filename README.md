@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wolfram, Slack, Expedia, Instacart, Kayak, Klarna, OpenTable, Shopify, and others release the first third-party plugins for ChatGPT &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230323/p26#a230323p26)
- - [Epic CEO fears Apple&#39;s influence over the metaverse](https://appleinsider.com/articles/23/03/23/epic-ceo-fears-apples-influence-over-the-metaverse?utm_medium=rss)
- - [WhatsApp just got a lot faster on desktop, adds support for 8 person video calls](https://www.androidauthority.com/whatsapp-desktop-app-3301548/)<!-- TECH:END -->
+ - [An AirTag helped the DEA in a narcotics investigation](https://appleinsider.com/articles/23/03/23/an-airtag-helped-the-dea-in-a-narcotics-investigation?utm_medium=rss)
+ - [57% off the Google Nest Wi-Fi, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [Why LLMs aren&#39;t a dumb fad like crypto, but the biggest thing since the World Wide Web, and on the coding front, the biggest thing since IDEs and Stack Overflow &lpar;Steve Yegge/Sourcegraph Blog&rpar;](http://www.techmeme.com/230323/p27#a230323p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
