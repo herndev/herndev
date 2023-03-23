@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finally, you can put an AMD processor in the Framework Laptop](https://www.theverge.com/2023/3/23/23653230/framework-laptop-13-inch-intel-amd-release-date-news-features-price)
- - [Framework announces Laptop 16 — and promises ‘holy grail’ of upgradable graphics](https://www.theverge.com/2023/3/23/23652967/framework-laptop-16-modular-upgradable-graphics)
- - [This $39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)<!-- TECH:END -->
+ - [Apple Watch Series 8 &amp; Ultra propelled growth in China](https://appleinsider.com/articles/23/03/23/apple-watch-series-8-ultra-propelled-growth-in-china?utm_medium=rss)
+ - [OpenAI rolls out ChatGPT plugins, starting with a web browser and a code interpreter, and open sources the code for a knowledgebase retrieval plugin &lpar;OpenAI&rpar;](http://www.techmeme.com/230323/p25#a230323p25)
+ - [Garmin&#39;s Feature-Packed Enduro Fitness Watch Drops to Historic Low at Amazon     - CNET](https://www.cnet.com/deals/garmins-feature-packed-enduro-fitness-watch-drops-to-historic-low-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
