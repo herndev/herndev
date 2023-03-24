@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 27 to 31](https://news.xbox.com/en-us/2023/03/24/next-week-on-xbox-new-games-for-march-27-to-31/)
- - [Captain Pikachu steals the show in new Pokémon Horizons: The Series trailer](https://www.polygon.com/pokemon/23654802/new-pokemon-anime-horizons-liko-roy-captain-pikachu-trailer)
- - [8 Minutes Of Diablo IV&#39;s Character Creator](https://kotaku.com/diablo-iv-character-creator-rogue-sorcerer-barbarian-1850261151)<!-- GAME:END -->
+ - [Where to get and how to use Whispering Keys in Diablo 4](https://www.pcgamer.com/diablo-4-whispering-key-silent-chest)
+ - [Ash and Pikachu’s last episode in the Pokémon series brings up all the feels](https://www.polygon.com/pokemon/23654829/pokemon-anime-ending-ash-pikachu-last-episode)
+ - [Fugitive &#39;cryptocurrency king&#39; behind 2022&#39;s $40B crash arrested fleeing Montenegro with fake documents](https://www.pcgamer.com/fugitive-cryptocurrency-king-behind-2022s-dollar40b-crash-arrested-fleeing-montenegro-with-fake-documents)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
