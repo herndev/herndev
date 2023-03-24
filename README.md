@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - ⏩ [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
+ - 💣 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - ⏩ [Hmm](http://9gag.com/gag/aoK3yG0)
  - 👉 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 ---
