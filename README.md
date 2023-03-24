@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is it??](http://9gag.com/gag/aQEvXw7)
- - ⏩ [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 👉 [Police join force with their people](http://9gag.com/gag/aMEBnGx)<!-- MEMES:END -->
+ - 💣 [Breaking Stereotypes....](http://9gag.com/gag/aNw9Vb0)
+ - ⏩ [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - 👉 [The cheapest woman is the one you pay for](http://9gag.com/gag/aRE4z6q)<!-- MEMES:END -->
 
 ---
 
