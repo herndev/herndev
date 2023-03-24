@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Bundle Finally Goes On Sale For The First Time Ever, But It Won&#39;t Last](https://kotaku.com/ps5-god-war-ragnarok-bundle-cheap-sale-discount-1850262049)
- - [Yes, MLB The Show 23’s Negro League greats are in Diamond Dynasty](https://www.polygon.com/guides/23653985/mlb-show-23-diamond-dynasty-unlock-negro-league-players-storylines)
- - [Elden Ring Ray Tracing Is Busted After Year Of Waiting](https://kotaku.com/elden-ring-ray-tracing-rtx-busted-game-pc-ps5-xbox-1850261901)<!-- GAME:END -->
+ - [Season 4 is the wildest Love Is Blind season since the first. Let’s discuss](https://www.polygon.com/23653734/love-blind-season-4-new-episodes)
+ - [We haven&#39;t heard the last of Lance Reddick in Destiny 2: Bungie says there are &#39;performances yet to come in the game&#39;](https://www.pcgamer.com/we-havent-heard-the-last-of-lance-reddick-in-destiny-2-bungie-says-there-are-performances-yet-to-come-in-the-game)
+ - [Epic decides to allow fan recreations of old Fortnite maps in Creative 2.0](https://www.polygon.com/23655144/fortinte-creative-2-0-chapter-1-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
