@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 rumored to get Apple&#39;s first USB-C charging case](https://appleinsider.com/articles/23/03/24/airpods-pro-2-rumored-to-get-apples-first-usb-c-charging-case?utm_medium=rss)
- - [How TikTok failed to make the case for itself](https://www.theverge.com/2023/3/24/23654732/tiktok-hearing-shou-zi-chew-failed-defense-congress-ban)
- - [CMA narrows probe of Microsoft&#39;s $69B Activision Blizzard acquisition, saying new evidence &quot;provisionally alleviates&quot; concerns about UK game console supply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230324/p7#a230324p7)<!-- TECH:END -->
+ - [Nomad Stand One review: A luxe MagSafe charging stand](https://appleinsider.com/articles/23/03/24/nomad-stand-one-review-a-luxe-magsafe-charging-stand?utm_medium=rss)
+ - [AliExpress’ new CHOICE offering makes shopping easier than ever](https://www.androidauthority.com/aliexpress-new-choice-offering-makes-shopping-easier-than-ever-3301737/)
+ - [Deals: $250 off M2 Max MacBook Pro, $220 off M2 Apple iPad Pro, $67 HomePod mini &amp; more](https://appleinsider.com/articles/23/03/24/deals-250-off-m2-max-macbook-pro-220-off-m2-apple-ipad-pro-67-homepod-mini-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
