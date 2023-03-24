@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking Stereotypes....](http://9gag.com/gag/aNw9Vb0)
- - ⏩ [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - 👉 [The cheapest woman is the one you pay for](http://9gag.com/gag/aRE4z6q)<!-- MEMES:END -->
+ - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - ⏩ [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
+ - 👉 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
 
 ---
 
