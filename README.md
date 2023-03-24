@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - ⏩ [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
- - 👉 [Typical abortion in Thailand](http://9gag.com/gag/amA1PW6)<!-- MEMES:END -->
+ - 💣 [Another classic.](http://9gag.com/gag/aEq6p5O)
+ - ⏩ [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 👉 [This isn\u2019t what I expected](http://9gag.com/gag/aYVEOD2)<!-- MEMES:END -->
 
 ---
 
