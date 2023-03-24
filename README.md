@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn in hell with me](http://9gag.com/gag/a5X6VjL)
- - ⏩ [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - 👉 [`Yeh baby, we dangerous`](http://9gag.com/gag/ay2333M)<!-- MEMES:END -->
+ - 💣 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - ⏩ [You get it](http://9gag.com/gag/aDY62j9)
+ - 👉 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)<!-- MEMES:END -->
 
 ---
 
