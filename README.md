@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter plans to wind down its legacy verified program and remove legacy verified checkmarks starting on April 1, 2023 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230323/p33#a230323p33)
- - [Wireless Apple CarPlay now available in Lucid Air](https://appleinsider.com/articles/23/03/23/wireless-apple-carplay-now-available-in-lucid-air?utm_medium=rss)
- - [Google Doodle Spotlights Kitty O&#39;Neil, Deaf Daredevil and Stuntwoman     - CNET](https://www.cnet.com/culture/internet/google-doodle-spotlights-kitty-oneil-deaf-daredevil-and-stuntwoman/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An unprecedented look into TSMC gives insight into iPhone chip production](https://appleinsider.com/articles/23/03/24/an-unprecedented-look-into-tsmc-gives-insight-into-iphone-chip-production?utm_medium=rss)
+ - [PayPal’s bringing its passkey logins to Android](https://www.theverge.com/2023/3/23/23653501/paypal-passkey-login-android-chrome)
+ - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
