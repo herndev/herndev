@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - ⏩ [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
- - 👉 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
+ - 💣 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
+ - ⏩ [Savage....](http://9gag.com/gag/adP1QOV)
+ - 👉 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
 
 ---
 
