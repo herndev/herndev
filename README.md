@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another classic.](http://9gag.com/gag/aEq6p5O)
- - ⏩ [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 👉 [This isn\u2019t what I expected](http://9gag.com/gag/aYVEOD2)<!-- MEMES:END -->
+ - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - ⏩ [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 👉 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
 
 ---
 
