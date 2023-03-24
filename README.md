@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mission to find missing AirPods leads to airport worker](https://appleinsider.com/articles/23/03/24/mission-to-find-missing-airpods-leads-to-airport-worker?utm_medium=rss)
- - [Xencelabs’ new display drawing tablet gives Wacom a run for its money](https://www.theverge.com/2023/3/24/23655214/xencelabs-pen-display-24-drawing-graphics-tablet-price-release-wacom)
- - [Sensor Tower: Twitter Blue had 385K+ subscribers on iOS and Android and made $11M on mobile in its first three months, including ~$8M from 246K US subscribers &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p14#a230324p14)<!-- TECH:END -->
+ - [TikTok says Enes Freedom, a former NBA player critical of China, was banned for 12 days due to an error by US moderators before being reinstated on March 23 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230324/p16#a230324p16)
+ - [Google exec “feels bad for iPhone users” not being able to use RCS](https://www.androidauthority.com/google-apple-rcs-3301972/)
+ - [OpenAI blames a bug in a Redis client open-source library for the March 20 ChatGPT history issue and exposure of 1.2% of ChatGPT Plus subscribers&#39; personal info &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230324/p15#a230324p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
