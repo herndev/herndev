@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quantum computing startup Strangeworks raised a $24M Series A led by Hitachi Ventures with participation from IBM and Raytheon Technologies &lpar;SiliconHills&rpar;](http://www.techmeme.com/230323/p36#a230323p36)
  - [An unprecedented look into TSMC gives insight into iPhone chip production](https://appleinsider.com/articles/23/03/24/an-unprecedented-look-into-tsmc-gives-insight-into-iphone-chip-production?utm_medium=rss)
- - [PayPal’s bringing its passkey logins to Android](https://www.theverge.com/2023/3/23/23653501/paypal-passkey-login-android-chrome)
- - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Women Over 50 of 2023     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
