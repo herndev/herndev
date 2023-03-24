@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says Enes Freedom, a former NBA player critical of China, was banned for 12 days due to an error by US moderators before being reinstated on March 23 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230324/p16#a230324p16)
- - [Google exec “feels bad for iPhone users” not being able to use RCS](https://www.androidauthority.com/google-apple-rcs-3301972/)
- - [OpenAI blames a bug in a Redis client open-source library for the March 20 ChatGPT history issue and exposure of 1.2% of ChatGPT Plus subscribers&#39; personal info &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230324/p15#a230324p15)<!-- TECH:END -->
+ - [Best Strategy Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
+ - [That TikTok hearing was pretty messed up, right?](https://www.theverge.com/2023/3/24/23654831/tiktok-congressional-hearing-xenophobia-china)
+ - [Some questions for the employees behind Google Docs](https://www.theverge.com/2023/3/24/23655476/google-docs-update-redesign-ugly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
