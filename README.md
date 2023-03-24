@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)
- - [Hey Capcom, you forgot your best multiplayer game](https://www.pcgamer.com/hey-capcom-you-forgot-your-best-multiplayer-game)
- - [Resident Evil 4 remake Chapter 8: Bindery to the Castle Battlements](https://www.polygon.com/resident-evil-4-remake-guides/23651997/chapter-8-bindery-castle-battlements)<!-- GAME:END -->
+ - [Genshin Impact developer&#39;s turn-based RPG will launch next month](https://www.pcgamer.com/genshin-impact-developers-turn-based-rpg-will-launch-next-month)
+ - [Bringing Authenticity And Humor To Like A Dragon&#39;s &#39;Western Renaissance&#39;](https://kotaku.com/yakuza-like-a-dragon-ishin-majima-kiryu-localization-1850263200)
+ - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
