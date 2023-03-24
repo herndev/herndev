@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - ⏩ [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
- - 👉 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
+ - 💣 [Bro showed no mercy](http://9gag.com/gag/aoK33rw)
+ - ⏩ [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
+ - 👉 [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)<!-- MEMES:END -->
 
 ---
 
