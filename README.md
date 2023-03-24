@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China released top chip investor Chen Datong, detained in 2022 as part of a chip industry crackdown, as it seeks experts to navigate western sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/230324/p10#a230324p10)
- - [New Nothing earbuds spotted in listing and they look a little nutty](https://www.androidauthority.com/nothing-earbuds-image-3301868/)
- - [Bluetti AC300: The ultimate portable power station for home, work, and play](https://appleinsider.com/articles/23/03/24/bluetti-ac300-the-ultimate-portable-power-station-for-home-work-and-play?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT set off a VC rush to invest in generative AI startups; PitchBook says AI startup investments grew from $1.5B in 2020 to $5.9B+ since the start of 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230324/p11#a230324p11)
+ - [Very rare price drop on the PlayStation 5 in this bundle deal](https://www.androidauthority.com/playstation-5-bundle-deal-3301896/)
+ - [Best Camera Bag and Backpack for 2023     - CNET](https://www.cnet.com/tech/computing/best-camera-bag-and-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
