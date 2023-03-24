@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But did it work?](http://9gag.com/gag/a04XZqL)
- - ⏩ [You get it](http://9gag.com/gag/aDY62j9)
- - 👉 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)<!-- MEMES:END -->
+ - 💣 [You&#39;ll get there too](http://9gag.com/gag/aXnMM56)
+ - ⏩ [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)
+ - 👉 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
 
 ---
 
