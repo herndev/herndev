@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - ⏩ [Hmm](http://9gag.com/gag/aoK3yG0)
- - 👉 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
+ - 💣 [What is it??](http://9gag.com/gag/aQEvXw7)
+ - ⏩ [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 👉 [Police join force with their people](http://9gag.com/gag/aMEBnGx)<!-- MEMES:END -->
 
 ---
 
