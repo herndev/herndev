@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Strategy Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
- - [That TikTok hearing was pretty messed up, right?](https://www.theverge.com/2023/3/24/23654831/tiktok-congressional-hearing-xenophobia-china)
- - [Some questions for the employees behind Google Docs](https://www.theverge.com/2023/3/24/23655476/google-docs-update-redesign-ugly)<!-- TECH:END -->
+ - [Sources: Fortra told GoAnywhere customers that their data was safe after a ransomware attack by the Clop gang, but two said they later received ransom demands &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p17#a230324p17)
+ - [Get Apple&#39;s 2023 MacBook Pro 14-inch for $1,849, plus $60 off AppleCare](https://appleinsider.com/articles/23/03/24/get-apples-2023-macbook-pro-14-inch-for-1849-plus-60-off-applecare?utm_medium=rss)
+ - [11 New Features That Will Change the Way You Use Your iPhone     - CNET](https://www.cnet.com/tech/mobile/11-new-features-that-will-change-the-way-you-use-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
