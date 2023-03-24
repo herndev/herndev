@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy the Resident Evil 4 remake](https://www.polygon.com/deals/23612096/resident-evil-4-remake-pc-xbox-series-x-ps5-ps4-pre-order-deluxe-collectors-edition)
- - [UK regulator U-turns on Activision acquisition, takes Microsoft&#39;s side on Call of Duty](https://www.pcgamer.com/uk-regulator-u-turns-on-activision-acquisition-takes-microsofts-side-on-call-of-duty)
- - [Resident Evil 4 remake: Church puzzle solution](https://www.polygon.com/resident-evil-4-remake-guides/23654922/church-pulpit-puzzle-solution)<!-- GAME:END -->
+ - [PS5 Bundle Finally Goes On Sale For The First Time Ever, But It Won&#39;t Last](https://kotaku.com/ps5-god-war-ragnarok-bundle-cheap-sale-discount-1850262049)
+ - [Yes, MLB The Show 23’s Negro League greats are in Diamond Dynasty](https://www.polygon.com/guides/23653985/mlb-show-23-diamond-dynasty-unlock-negro-league-players-storylines)
+ - [Elden Ring Ray Tracing Is Busted After Year Of Waiting](https://kotaku.com/elden-ring-ray-tracing-rtx-busted-game-pc-ps5-xbox-1850261901)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
