@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)
- - ⏩ [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 👉 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)<!-- MEMES:END -->
+ - 💣 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
+ - ⏩ [This isn\u2019t what I expected](http://9gag.com/gag/aYVEOD2)
+ - 👉 [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)<!-- MEMES:END -->
 
 ---
 
