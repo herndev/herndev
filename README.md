@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get $50 off the PS5 God of War Ragnarök bundle](https://www.polygon.com/deals/23645353/ps5-god-of-war-ragnarok-bundle-discount-deal)
  - [Resident Evil 4 remake walkthrough and guides](https://www.polygon.com/resident-evil-4-remake-guides/23650401/walkthrough-collectibles-tips)
- - [When does the Diablo 4 open beta start and end?](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access)
- - [Wordle hint and answer #643: Friday, March 24](https://www.pcgamer.com/wordle-hint-answer-today-643-march-24)<!-- GAME:END -->
+ - [When does the Diablo 4 open beta start and end?](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
