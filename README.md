@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Season 4 is the wildest Love Is Blind season since the first. Let’s discuss](https://www.polygon.com/23653734/love-blind-season-4-new-episodes)
- - [We haven&#39;t heard the last of Lance Reddick in Destiny 2: Bungie says there are &#39;performances yet to come in the game&#39;](https://www.pcgamer.com/we-havent-heard-the-last-of-lance-reddick-in-destiny-2-bungie-says-there-are-performances-yet-to-come-in-the-game)
- - [Epic decides to allow fan recreations of old Fortnite maps in Creative 2.0](https://www.polygon.com/23655144/fortinte-creative-2-0-chapter-1-map)<!-- GAME:END -->
+ - [Last long enough in this sci-fi survival colony builder, and you can buy the whole planet](https://www.pcgamer.com/last-long-enough-in-this-sci-fi-survival-colony-builder-and-you-can-buy-the-whole-planet)
+ - [Which class should you choose in Diablo 4?](https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer)
+ - [Fantasy Author Brandon Sanderson Asks Fans To Calm Down After Getting Slammed](https://kotaku.com/brandon-sanderson-wired-wheel-of-time-mistborn-1850262249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
