@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [John Wick: Chapter 4’s tiny post-credits scene keeps the franchise’s action rolling](https://www.polygon.com/23650910/john-wick-4-post-credits-scene-explained-rina-sawayama-donnie-yen)
  - [Horrific Mario Manga Shows 1-UP Mushroom Growing Out Of Dead Plumber](https://kotaku.com/super-mario-last-of-us-nintendo-manga-comic-mushroom-1850259726)
- - [U.S. Senator Blasts Sony&#39;s Monopoly On Cool Japanese Games](https://kotaku.com/sony-microsoft-playstation-xbox-japan-exclusive-deal-1850259923)
- - [Where to find the Gold Egg in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-gold-egg-location)<!-- GAME:END -->
+ - [U.S. Senator Blasts Sony&#39;s Monopoly On Cool Japanese Games](https://kotaku.com/sony-microsoft-playstation-xbox-japan-exclusive-deal-1850259923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
