@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
- - ⏩ [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 👉 [Pretty accurate](http://9gag.com/gag/a1PNDdD)<!-- MEMES:END -->
+ - 💣 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
+ - ⏩ [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)
+ - 👉 [29-year-old scientist enrolled in high school and pretended to be a teenager because she was lonely and \u201cwanted to return to a place of safety\u201d](http://9gag.com/gag/amA1o6V)<!-- MEMES:END -->
 
 ---
 
