@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former Twitch staff describe how the service lost its way: out-of-touch leaders, losing big creators, cost cutting, many irrelevant ads, and more &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/230324/p1#a230324p1)
- - [One component under the iPhone 15 Dynamic Island is getting a redesign](https://appleinsider.com/articles/23/03/24/one-component-under-the-iphone-15-dynamic-island-is-getting-a-redesign?utm_medium=rss)
- - [Uze Bold Power Bank review: A full portable charging experience](https://appleinsider.com/articles/23/03/24/uze-bold-power-bank-review-a-full-portable-charging-experience?utm_medium=rss)<!-- TECH:END -->
+ - [Publishers demand to be paid for AI using their work](https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work?utm_medium=rss)
+ - [Tim Cook among few US CEOs attending China business summit](https://appleinsider.com/articles/23/03/24/tim-cook-among-few-us-ceos-attending-china-business-summit?utm_medium=rss)
+ - [Daily Authority: 🔥 New foldable in town plus some Friday fun!](https://www.androidauthority.com/daily-authority-march-24-2023-3301718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
