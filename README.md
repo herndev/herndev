@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
- - ⏩ [Savage....](http://9gag.com/gag/adP1QOV)
- - 👉 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
+ - 💣 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - ⏩ [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 👉 [Hmm](http://9gag.com/gag/aoK3yG0)<!-- MEMES:END -->
 
 ---
 
