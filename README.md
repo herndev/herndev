@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - ⏩ [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 👉 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)<!-- MEMES:END -->
+ - 💣 [Japan&#39;s Most Terrifying Bridge: Eshima Ohashi. Seeing video like this, travelers expect that the Eshima Ohashi Bridge in Japan to be 45\u00b0 inclined, while it has a less pronounced, 6.1% gradient. What we\u2019re seeing is perspective distortion](http://9gag.com/gag/aKEAWwg)
+ - ⏩ [Hmm](http://9gag.com/gag/aoK3yG0)
+ - 👉 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 ---
 
