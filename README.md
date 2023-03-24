@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Fortress 2 players forlornly gaze at Counter-Strike 2 reveal: &#39;Maybe our day will come in another decade&#39;](https://www.pcgamer.com/team-fortress-2-players-forlornly-gaze-at-counter-strike-2-reveal-maybe-our-day-will-come-in-another-decade)
- - [Space-fantasy RPG Honkai: Star Rail comes to PlayStation soon](https://blog.playstation.com/2023/03/24/space-fantasy-rpg-honkai-star-rail-comes-to-playstation-soon/)
- - [Robert Downey Jr. might lead a Vertigo remake, for some reason](https://www.polygon.com/23654678/robert-downey-jr-vertigo-remake)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 27 to 31](https://news.xbox.com/en-us/2023/03/24/next-week-on-xbox-new-games-for-march-27-to-31/)
+ - [Captain Pikachu steals the show in new Pokémon Horizons: The Series trailer](https://www.polygon.com/pokemon/23654802/new-pokemon-anime-horizons-liko-roy-captain-pikachu-trailer)
+ - [8 Minutes Of Diablo IV&#39;s Character Creator](https://kotaku.com/diablo-iv-character-creator-rogue-sorcerer-barbarian-1850261151)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
