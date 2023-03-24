@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last long enough in this sci-fi survival colony builder, and you can buy the whole planet](https://www.pcgamer.com/last-long-enough-in-this-sci-fi-survival-colony-builder-and-you-can-buy-the-whole-planet)
- - [Which class should you choose in Diablo 4?](https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer)
- - [Fantasy Author Brandon Sanderson Asks Fans To Calm Down After Getting Slammed](https://kotaku.com/brandon-sanderson-wired-wheel-of-time-mistborn-1850262249)<!-- GAME:END -->
+ - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)
+ - [Hey Capcom, you forgot your best multiplayer game](https://www.pcgamer.com/hey-capcom-you-forgot-your-best-multiplayer-game)
+ - [Resident Evil 4 remake Chapter 8: Bindery to the Castle Battlements](https://www.polygon.com/resident-evil-4-remake-guides/23651997/chapter-8-bindery-castle-battlements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
