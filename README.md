@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“Impossify” Your Park Beyond with Xbox Series X|S on June 16](https://news.xbox.com/en-us/2023/03/23/park-beyond-pre-order-available-now-on-xbox-series-xs/)
- - [After Us: Crafting an organic platformer, out May 23](https://blog.playstation.com/2023/03/23/after-us-crafting-an-organic-platformer/)
- - [Creative Assembly&#39;s extraction shooter Hyenas gets a playable alpha tomorrow](https://www.pcgamer.com/creative-assemblys-extraction-shooter-hyenas-gets-a-playable-alpha-tomorrow)<!-- GAME:END -->
+ - [Go-Go Town is a cozy mix of life and management sim: &#39;Instead of conveyor belts like Factorio, we&#39;ve got people belts&#39;](https://www.pcgamer.com/go-go-town-is-a-cozy-mix-of-life-and-management-sim-instead-of-conveyor-belts-like-factorio-weve-got-people-belts)
+ - [The Room director Tommy Wiseau made a new shark movie, or maybe… underwear ad?](https://www.polygon.com/23654119/tommy-wiseau-big-shark-trailer-underwear-ad)
+ - [All the John Wick: Chapter 5 news so far](https://www.polygon.com/23652236/john-wick-5-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
