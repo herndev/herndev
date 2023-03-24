@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - ⏩ [But did it work?](http://9gag.com/gag/a04XZqL)
- - 👉 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 💣 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)
+ - ⏩ [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 👉 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)<!-- MEMES:END -->
 
 ---
 
