@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go-Go Town is a cozy mix of life and management sim: &#39;Instead of conveyor belts like Factorio, we&#39;ve got people belts&#39;](https://www.pcgamer.com/go-go-town-is-a-cozy-mix-of-life-and-management-sim-instead-of-conveyor-belts-like-factorio-weve-got-people-belts)
- - [The Room director Tommy Wiseau made a new shark movie, or maybe… underwear ad?](https://www.polygon.com/23654119/tommy-wiseau-big-shark-trailer-underwear-ad)
- - [All the John Wick: Chapter 5 news so far](https://www.polygon.com/23652236/john-wick-5-release-date-cast-news)<!-- GAME:END -->
+ - [U.S. Senator Blasts Sony&#39;s Monopoly On Cool Japanese Games](https://kotaku.com/sony-microsoft-playstation-xbox-japan-exclusive-deal-1850259923)
+ - [Where to find the Gold Egg in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-gold-egg-location)
+ - [How to get the wrench in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-wrench-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
