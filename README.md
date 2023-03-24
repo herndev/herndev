@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Stand One review: A luxe MagSafe charging stand](https://appleinsider.com/articles/23/03/24/nomad-stand-one-review-a-luxe-magsafe-charging-stand?utm_medium=rss)
- - [AliExpress’ new CHOICE offering makes shopping easier than ever](https://www.androidauthority.com/aliexpress-new-choice-offering-makes-shopping-easier-than-ever-3301737/)
- - [Deals: $250 off M2 Max MacBook Pro, $220 off M2 Apple iPad Pro, $67 HomePod mini &amp; more](https://appleinsider.com/articles/23/03/24/deals-250-off-m2-max-macbook-pro-220-off-m2-apple-ipad-pro-67-homepod-mini-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: China released top chip investor Chen Datong, detained in 2022 as part of a chip industry crackdown, as it seeks experts to navigate western sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/230324/p10#a230324p10)
+ - [New Nothing earbuds spotted in listing and they look a little nutty](https://www.androidauthority.com/nothing-earbuds-image-3301868/)
+ - [Bluetti AC300: The ultimate portable power station for home, work, and play](https://appleinsider.com/articles/23/03/24/bluetti-ac300-the-ultimate-portable-power-station-for-home-work-and-play?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
