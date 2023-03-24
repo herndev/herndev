@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bob Metcalfe, The Man Who Discovered Network Effects, Isn&#39;t Sorry](https://www.wired.com/story/plaintext-the-man-who-discovered-network-effects-isnt-sorry/)
- - [5 Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2023&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)
- - [Can You Really Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- TECH:END -->
+ - [AirPods Pro 2 rumored to get Apple&#39;s first USB-C charging case](https://appleinsider.com/articles/23/03/24/airpods-pro-2-rumored-to-get-apples-first-usb-c-charging-case?utm_medium=rss)
+ - [How TikTok failed to make the case for itself](https://www.theverge.com/2023/3/24/23654732/tiktok-hearing-shou-zi-chew-failed-defense-congress-ban)
+ - [CMA narrows probe of Microsoft&#39;s $69B Activision Blizzard acquisition, saying new evidence &quot;provisionally alleviates&quot; concerns about UK game console supply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230324/p7#a230324p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
