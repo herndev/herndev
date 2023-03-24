@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get $50 off the PS5 God of War Ragnarök bundle](https://www.polygon.com/deals/23645353/ps5-god-of-war-ragnarok-bundle-discount-deal)
- - [Resident Evil 4 remake walkthrough and guides](https://www.polygon.com/resident-evil-4-remake-guides/23650401/walkthrough-collectibles-tips)
- - [When does the Diablo 4 open beta start and end?](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access)<!-- GAME:END -->
+ - [Team Fortress 2 players forlornly gaze at Counter-Strike 2 reveal: &#39;Maybe our day will come in another decade&#39;](https://www.pcgamer.com/team-fortress-2-players-forlornly-gaze-at-counter-strike-2-reveal-maybe-our-day-will-come-in-another-decade)
+ - [Space-fantasy RPG Honkai: Star Rail comes to PlayStation soon](https://blog.playstation.com/2023/03/24/space-fantasy-rpg-honkai-star-rail-comes-to-playstation-soon/)
+ - [Robert Downey Jr. might lead a Vertigo remake, for some reason](https://www.polygon.com/23654678/robert-downey-jr-vertigo-remake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
