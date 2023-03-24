@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher finds Verification settings in Twitter&#39;s app showing it might be working on letting Blue subscribers hide the blue checkmark &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230324/p13#a230324p13)
- - [How Apple&#39;s worst value in a product will be a bestseller in 2023](https://appleinsider.com/articles/23/03/24/how-apples-worst-value-in-a-product-will-be-a-bestseller-in-2023?utm_medium=rss)
- - [Tether estimates it will make $700M profit in Q1 and will have ~$1.6B in excess reserves to back its USDT stablecoin, the first time it crosses the $1B mark &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230324/p12#a230324p12)<!-- TECH:END -->
+ - [Mission to find missing AirPods leads to airport worker](https://appleinsider.com/articles/23/03/24/mission-to-find-missing-airpods-leads-to-airport-worker?utm_medium=rss)
+ - [Xencelabs’ new display drawing tablet gives Wacom a run for its money](https://www.theverge.com/2023/3/24/23655214/xencelabs-pen-display-24-drawing-graphics-tablet-price-release-wacom)
+ - [Sensor Tower: Twitter Blue had 385K+ subscribers on iOS and Android and made $11M on mobile in its first three months, including ~$8M from 246K US subscribers &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p14#a230324p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
