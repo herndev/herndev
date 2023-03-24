@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #643: Friday, March 24](https://www.pcgamer.com/wordle-hint-answer-today-643-march-24)
  - [Resident Evil 4’s best attache case, and where to unlock them all](https://www.polygon.com/resident-evil-4-remake-guides/23653242/best-attache-case-how-to-unlock)
- - [Does the dog die in Resident Evil 4?](https://www.polygon.com/23650850/does-the-dog-die)
- - [Where to find all Small Keys in Resident Evil 4 remake](https://www.polygon.com/resident-evil-4-remake-guides/23650269/small-keys-locations-locked-drawers-rewards)<!-- GAME:END -->
+ - [Does the dog die in Resident Evil 4?](https://www.polygon.com/23650850/does-the-dog-die)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
