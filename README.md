@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pegatron plans second iPhone plant in India](https://appleinsider.com/articles/23/03/24/pegatron-plans-second-iphone-plant-in-india?utm_medium=rss)
- - [March Madness 2023: How to Watch the Women&#39;s Sweet 16 Games Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-how-to-watch-the-womens-sweet-16-games-today/#ftag=CAD590a51e)
- - [First Fold, then Flip, now Samsung could launch a Tri-Fold in 2023](https://www.androidauthority.com/samsung-tri-fold-foldable-2023-leak-3301762/)<!-- TECH:END -->
+ - [Current and former Twitch staff describe how the service lost its way: out-of-touch leaders, losing big creators, cost cutting, many irrelevant ads, and more &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/230324/p1#a230324p1)
+ - [One component under the iPhone 15 Dynamic Island is getting a redesign](https://appleinsider.com/articles/23/03/24/one-component-under-the-iphone-15-dynamic-island-is-getting-a-redesign?utm_medium=rss)
+ - [Uze Bold Power Bank review: A full portable charging experience](https://appleinsider.com/articles/23/03/24/uze-bold-power-bank-review-a-full-portable-charging-experience?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
