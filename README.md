@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Publishers demand to be paid for AI using their work](https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work?utm_medium=rss)
- - [Tim Cook among few US CEOs attending China business summit](https://appleinsider.com/articles/23/03/24/tim-cook-among-few-us-ceos-attending-china-business-summit?utm_medium=rss)
- - [Daily Authority: 🔥 New foldable in town plus some Friday fun!](https://www.androidauthority.com/daily-authority-march-24-2023-3301718/)<!-- TECH:END -->
+ - [Bob Metcalfe, The Man Who Discovered Network Effects, Isn&#39;t Sorry](https://www.wired.com/story/plaintext-the-man-who-discovered-network-effects-isnt-sorry/)
+ - [5 Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2023&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)
+ - [Can You Really Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
