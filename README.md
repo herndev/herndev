@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan&#39;s Most Terrifying Bridge: Eshima Ohashi. Seeing video like this, travelers expect that the Eshima Ohashi Bridge in Japan to be 45\u00b0 inclined, while it has a less pronounced, 6.1% gradient. What we\u2019re seeing is perspective distortion](http://9gag.com/gag/aKEAWwg)
- - ⏩ [Hmm](http://9gag.com/gag/aoK3yG0)
- - 👉 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
+ - 💣 [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
+ - ⏩ [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)
+ - 👉 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
 
 ---
 
