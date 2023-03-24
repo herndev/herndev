@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
- - ⏩ [Nailed it](http://9gag.com/gag/awZ33PR)
- - 👉 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)<!-- MEMES:END -->
+ - 💣 [Cat companion](http://9gag.com/gag/a4o6zN6)
+ - ⏩ [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
+ - 👉 [Typical abortion in Thailand](http://9gag.com/gag/amA1PW6)<!-- MEMES:END -->
 
 ---
 
