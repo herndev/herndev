@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ll get there too](http://9gag.com/gag/aXnMM56)
- - ⏩ [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)
- - 👉 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 💣 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - ⏩ [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 👉 [Pretty accurate](http://9gag.com/gag/a1PNDdD)<!-- MEMES:END -->
 
 ---
 
