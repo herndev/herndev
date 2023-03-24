@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - ⏩ [Post the best you got](http://9gag.com/gag/aRE4MMA)
- - 👉 [Hmm](http://9gag.com/gag/aoK3yG0)<!-- MEMES:END -->
+ - ⏩ [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 👉 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)<!-- MEMES:END -->
 
 ---
 
