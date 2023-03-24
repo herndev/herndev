@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to get and how to use Whispering Keys in Diablo 4](https://www.pcgamer.com/diablo-4-whispering-key-silent-chest)
- - [Ash and Pikachu’s last episode in the Pokémon series brings up all the feels](https://www.polygon.com/pokemon/23654829/pokemon-anime-ending-ash-pikachu-last-episode)
- - [Fugitive &#39;cryptocurrency king&#39; behind 2022&#39;s $40B crash arrested fleeing Montenegro with fake documents](https://www.pcgamer.com/fugitive-cryptocurrency-king-behind-2022s-dollar40b-crash-arrested-fleeing-montenegro-with-fake-documents)<!-- GAME:END -->
+ - [Where to buy the Resident Evil 4 remake](https://www.polygon.com/deals/23612096/resident-evil-4-remake-pc-xbox-series-x-ps5-ps4-pre-order-deluxe-collectors-edition)
+ - [UK regulator U-turns on Activision acquisition, takes Microsoft&#39;s side on Call of Duty](https://www.pcgamer.com/uk-regulator-u-turns-on-activision-acquisition-takes-microsofts-side-on-call-of-duty)
+ - [Resident Evil 4 remake: Church puzzle solution](https://www.polygon.com/resident-evil-4-remake-guides/23654922/church-pulpit-puzzle-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
