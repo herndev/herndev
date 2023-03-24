@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
- - ⏩ [This isn\u2019t what I expected](http://9gag.com/gag/aYVEOD2)
- - 👉 [Never can be too sure, right?](http://9gag.com/gag/a2Kwvoe)<!-- MEMES:END -->
+ - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - ⏩ [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
+ - 👉 [Cat companion](http://9gag.com/gag/a4o6zN6)<!-- MEMES:END -->
 
 ---
 
