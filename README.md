@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - ⏩ [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
- - 👉 [Cat companion](http://9gag.com/gag/a4o6zN6)<!-- MEMES:END -->
+ - 💣 [Cat companion](http://9gag.com/gag/a4o6zN6)
+ - ⏩ [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
+ - 👉 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
 
 ---
 
