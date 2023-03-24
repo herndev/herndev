@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researcher finds Verification settings in Twitter&#39;s app showing it might be working on letting Blue subscribers hide the blue checkmark &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230324/p13#a230324p13)
  - [How Apple&#39;s worst value in a product will be a bestseller in 2023](https://appleinsider.com/articles/23/03/24/how-apples-worst-value-in-a-product-will-be-a-bestseller-in-2023?utm_medium=rss)
- - [Tether estimates it will make $700M profit in Q1 and will have ~$1.6B in excess reserves to back its USDT stablecoin, the first time it crosses the $1B mark &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230324/p12#a230324p12)
- - [18 Best Spring Sales: Google Pixel Phones, Samsung Galaxy S23, and More](https://www.wired.com/story/spring-sales-2023/)<!-- TECH:END -->
+ - [Tether estimates it will make $700M profit in Q1 and will have ~$1.6B in excess reserves to back its USDT stablecoin, the first time it crosses the $1B mark &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230324/p12#a230324p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
