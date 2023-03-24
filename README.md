@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah Gov. Spencer Cox signs two bills regulating social media apps, including requiring age verification for all users and permission from parents for minors &lpar;Bryan Schott/Salt Lake Tribune&rpar;](http://www.techmeme.com/230323/p32#a230323p32)
- - [Congress seems more determined to ban TikTok than ever](https://www.theverge.com/2023/3/23/23653950/congress-tiktok-ban-hearing-aftermath-china-influence-privacy)
- - [Over 40 of the best smartwatch deals you can get](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [Twitter plans to wind down its legacy verified program and remove legacy verified checkmarks starting on April 1, 2023 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230323/p33#a230323p33)
+ - [Wireless Apple CarPlay now available in Lucid Air](https://appleinsider.com/articles/23/03/23/wireless-apple-carplay-now-available-in-lucid-air?utm_medium=rss)
+ - [Google Doodle Spotlights Kitty O&#39;Neil, Deaf Daredevil and Stuntwoman     - CNET](https://www.cnet.com/culture/internet/google-doodle-spotlights-kitty-oneil-deaf-daredevil-and-stuntwoman/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
