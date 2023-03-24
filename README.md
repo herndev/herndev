@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Fold, then Flip, now Samsung could launch a Tri-Fold in 2023](https://www.androidauthority.com/samsung-tri-fold-foldable-2023-leak-3301762/)
  - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)
- - [Snapdragon 8 Gen 3 processor leaks: A 64-bit-only powerhouse?](https://www.androidauthority.com/snapdragon-8-gen-3-leak-3300907/)
- - [CISA releases an open-source Python-based utility to detect signs of malicious activity in Microsoft cloud environments &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230323/p37#a230323p37)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 processor leaks: A 64-bit-only powerhouse?](https://www.androidauthority.com/snapdragon-8-gen-3-leak-3300907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
