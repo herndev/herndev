@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
- - ⏩ [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)
- - 👉 [29-year-old scientist enrolled in high school and pretended to be a teenager because she was lonely and \u201cwanted to return to a place of safety\u201d](http://9gag.com/gag/amA1o6V)<!-- MEMES:END -->
+ - 💣 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
+ - ⏩ [Nailed it](http://9gag.com/gag/awZ33PR)
+ - 👉 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)<!-- MEMES:END -->
 
 ---
 
