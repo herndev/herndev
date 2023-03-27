@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Audio-Technica ATH-M50xSTS StreamSet](https://www.pcgamer.com/audio-technica-ath-m50-sts-streamset-review)
- - [Uh-Oh, The Super Mario Bros. x Lush Bath Bombs Look Like Pee](https://kotaku.com/super-mario-bros-lush-bath-bombs-coin-block-1850268812)
- - [You can get $40 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)<!-- GAME:END -->
+ - [Tetris creator on turning his life into a spy movie: ‘exaggeration is kind of natural’](https://www.polygon.com/23654998/tetris-movie-alexey-pajitnov-henk-rogers-reality-vs-fiction)
+ - [After Three Months Of Struggles, Ashika Island Saved Warzone 2.0](https://kotaku.com/cod-warzone-2-ashika-dead-drops-resurgence-loadout-1850268948)
+ - [Netflix Star Wants To Name Kids After Elden Ring Bosses, And The Internet Approves](https://kotaku.com/elden-ring-bosses-netflix-love-is-blind-godfrey-godrick-1850269074)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
