@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s New Unreal Editor Has Limits On What Fans Can Make, Monetize](https://kotaku.com/fortnite-epic-games-uefn-creator-economy-maps-1850269891)
- - [Puffer coat pope is fake, but the AI art’s impact is real](https://www.polygon.com/ai-artificial-intelligence/23658270/puffer-coat-pope-ai-art-fake-midjourney)
- - [This Horror Time Loop Game Stole PAX &lpar;And You Can Play It Right Now&rpar;](https://kotaku.com/slay-the-princess-demo-pax-east-steam-black-tabby-games-1850269750)<!-- GAME:END -->
+ - [Fallout Writer Chris Avellone’s Accusers Settle Libel Case For Seven Figures](https://kotaku.com/fallout-new-vegas-avellone-sexual-misconduct-libel-1850270184)
+ - [Resident Evil 4 remake hints that Separate Ways DLC may be next](https://www.polygon.com/23654190/resident-evil-4-remake-separate-ways-dlc-ada-wong)
+ - [Surprise! The hit fighting game Multiversus was only in &#39;open beta&#39; and now it&#39;s shutting down until sometime next year](https://www.pcgamer.com/surprise-the-hit-fighting-game-multiversus-was-only-in-open-beta-and-now-its-shutting-down-until-sometime-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
