@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia kicks crypto to the curb: &#39;doesn’t bring anything useful for society. AI does&#39;](https://www.pcgamer.com/nvidia-kicks-crypto-to-the-curb-doesnt-bring-anything-useful-for-society-ai-does)
- - [How to summon a golem as a necromancer in Diablo 4](https://www.pcgamer.com/diablo-4-how-to-summon-golem)
- - [Say goodbye to absurdly cheap Game Pass: Microsoft is killing the $1 trial](https://www.pcgamer.com/say-goodbye-to-absurdly-cheap-game-pass-microsoft-is-killing-the-dollar1-trial)<!-- GAME:END -->
+ - [Xbox Game Pass’ $1 deals come to an end](https://www.polygon.com/23658040/xbox-game-pass-one-dollar-trial-ends)
+ - [Chris Avellone accepts &#39;seven-figure payment&#39; to settle libel suit with those who accused him of sexual misconduct](https://www.pcgamer.com/chris-avellone-accepts-seven-figure-payment-to-settle-libel-suit-with-those-who-accused-him-of-sexual-misconduct)
+ - [Vince McMahon controls wrestling history in order to control all of wrestling](https://www.polygon.com/23654827/vince-mcmahon-wwe-control-wrestlemania)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
