@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sauce in the comment.](http://9gag.com/gag/aMEBWZR)
- - ⏩ [...](http://9gag.com/gag/aRE4RvQ)
- - 👉 [Truely a national.. nay, global hero.](http://9gag.com/gag/amA1VjX)<!-- MEMES:END -->
+ - 💣 [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - ⏩ [Honestly surprised this isn&#39;t happening more often](http://9gag.com/gag/a9q6N5K)
+ - 👉 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)<!-- MEMES:END -->
 
 ---
 
