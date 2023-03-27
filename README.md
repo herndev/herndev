@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is Jack Krauser, and what is Operation Javier, in Resident Evil 4?](https://www.polygon.com/23654795/resident-evil-4-remake-operation-javier-jack-krauser)
- - [Knock at the Cabin, Nope, Netflix’s Furies, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/24/23644814/new-movies-watch-pathaan-netflix-furies-knock-at-the-cabin)
- - [Bungie Quietly Patches Destiny 2&#39;s Vagina Armband](https://kotaku.com/destiny-2-lightfall-root-nightmares-raid-armor-vagina-1850263928)<!-- GAME:END -->
+ - [Fight rat hordes with steam guns in this tactical, squad-based survival RPG](https://www.pcgamer.com/fight-rat-hordes-with-steam-guns-in-this-tactical-squad-based-survival-game)
+ - [PC Game Accused Of &#39;Asset Theft&#39; Removed From Steam](https://kotaku.com/dark-and-darker-nexon-ironmace-pc-korea-police-legal-1850267232)
+ - [When does Apex Legends’ Sun Squad Collection Event start?](https://www.polygon.com/guides/23655254/apex-legends-sun-squad-collection-event-swimsuit-skins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
