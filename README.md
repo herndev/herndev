@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs an EO banning US agencies&#39; use of hacking tools from companies that are linked to human rights abuses or are deemed a threat to national security &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/230327/p17#a230327p17)
- - [Feds sue crypto giant Binance and founder Changpeng Zhao](https://www.theverge.com/2023/3/27/23658314/binance-changpeng-zhao-crypto-trading-lawsuit-cftc)
- - [Zoom partners with OpenAI to expand its Zoom IQ assistant, adding the ability to generate whiteboards using text prompts, provide recaps of meetings, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230327/p16#a230327p16)<!-- TECH:END -->
+ - [Apple expands Emergency SOS via satellite to six more countries](https://appleinsider.com/articles/23/03/27/apple-expands-emergency-sos-via-satellite-to-six-more-countries?utm_medium=rss)
+ - [Apple releases Studio Display 16.4 firmware update](https://appleinsider.com/articles/23/03/27/apple-releases-studio-display-164-firmware-update?utm_medium=rss)
+ - [iOS 16.4 is now available, with a lot of user-facing updates](https://appleinsider.com/articles/23/03/27/ios-164-is-now-out-with-a-lot-of-user-facing-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
