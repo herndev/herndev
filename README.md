@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
- - ⏩ [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)
- - 👉 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
+ - 💣 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
+ - ⏩ [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)
+ - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
 
 ---
 
