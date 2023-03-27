@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG V60 users get surprise Android 13 update in the US](https://www.androidauthority.com/lg-v60-android-13-update-3302273/)
  - [HUAWEI’s bringing its latest Google-free waterproof foldable flagship to Europe](https://www.androidauthority.com/huawei-mate-x3-p60-europe-launch-3302266/)
- - [A look at Modulate&#39;s ToxMod and other AI-based tools that help gaming companies moderate voice chats in online games, amid concerns of accuracy and user privacy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230326/p16#a230326p16)
- - [Sources: the Hong Kong arms of three Chinese state banks have reached out to offer services to crypto businesses in recent months, despite a mainland crypto ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/230326/p15#a230326p15)<!-- TECH:END -->
+ - [A look at Modulate&#39;s ToxMod and other AI-based tools that help gaming companies moderate voice chats in online games, amid concerns of accuracy and user privacy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230326/p16#a230326p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
