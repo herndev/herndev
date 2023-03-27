@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)
- - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)
- - [You can get $30 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)<!-- GAME:END -->
+ - [Nvidia kicks crypto to the curb: &#39;doesn’t bring anything useful for society. AI does&#39;](https://www.pcgamer.com/nvidia-kicks-crypto-to-the-curb-doesnt-bring-anything-useful-for-society-ai-does)
+ - [How to summon a golem as a necromancer in Diablo 4](https://www.pcgamer.com/diablo-4-how-to-summon-golem)
+ - [Say goodbye to absurdly cheap Game Pass: Microsoft is killing the $1 trial](https://www.pcgamer.com/say-goodbye-to-absurdly-cheap-game-pass-microsoft-is-killing-the-dollar1-trial)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
