@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4 quest designer explains how they put the RP in RPG with one simple choice](https://www.pcgamer.com/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice)
  - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)
- - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)
- - [Diablo IV’s Beta Has Us Kinda Obsessed With Hell](https://kotaku.com/diablo-4-open-beta-impressions-rogue-necromancer-barb-1850270634)<!-- GAME:END -->
+ - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
