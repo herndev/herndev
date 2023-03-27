@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Electric Toothbrushes &lpar;2023&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [The best Samsung tablets of 2023](https://www.androidauthority.com/best-samsung-tablets-3302307/)
- - [SIM card trays may disappear from iPhone 15 in Europe](https://appleinsider.com/articles/23/03/27/sim-card-trays-may-disappear-from-iphone-15-in-europe?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: MicroStrategy bought 6,455 BTC for ~$150M from February 16 to March 23 at an average price of $23,238; the company now holds ~$4.14B worth of BTC &lpar;Larry DiTore/The Block&rpar;](http://www.techmeme.com/230327/p12#a230327p12)
+ - [Lucid Motors recalls Lucid Air sedan for a defect that could cause a loss of power](https://www.theverge.com/2023/3/27/23658043/lucid-air-recall-contactor-motor-power-loss-ev)
+ - [Zoom’s new AI features help you catch up on meetings you’re late to](https://www.theverge.com/2023/3/27/23658047/zoom-ai-features-meeting-summaries-mail-calendar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
