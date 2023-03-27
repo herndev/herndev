@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can get $30 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
- - [Watch this person recycle a bottle by 3D printing a Raspberry Pi case](https://www.pcgamer.com/watch-this-person-recycle-a-bottle-by-3d-printing-a-raspberry-pi-case)
- - [Wordle hint and answer #646: Monday, March 27](https://www.pcgamer.com/wordle-hint-answer-today-646-march-27)<!-- GAME:END -->
+ - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)
+ - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)
+ - [You can get $30 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
