@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass’ $1 deals come to an end](https://www.polygon.com/23658040/xbox-game-pass-one-dollar-trial-ends)
- - [Chris Avellone accepts &#39;seven-figure payment&#39; to settle libel suit with those who accused him of sexual misconduct](https://www.pcgamer.com/chris-avellone-accepts-seven-figure-payment-to-settle-libel-suit-with-those-who-accused-him-of-sexual-misconduct)
- - [Vince McMahon controls wrestling history in order to control all of wrestling](https://www.polygon.com/23654827/vince-mcmahon-wwe-control-wrestlemania)<!-- GAME:END -->
+ - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)
+ - [How to unlock Morbius in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-unlock-morbius)
+ - [How will Life By You compete with The Sims? Deeper role-play](https://www.polygon.com/23657952/life-by-you-paradox-sim-game-rod-humble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
