@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/aRE4RvQ)
- - ⏩ [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - 👉 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
+ - 💣 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
+ - ⏩ [...](http://9gag.com/gag/aRE4RvQ)
+ - 👉 [Random text generator](http://9gag.com/gag/aQEvryK)<!-- MEMES:END -->
 
 ---
 
