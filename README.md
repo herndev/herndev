@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - ⏩ [Honestly surprised this isn&#39;t happening more often](http://9gag.com/gag/a9q6N5K)
- - 👉 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/aRE4RvQ)
+ - ⏩ [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
 
 ---
 
