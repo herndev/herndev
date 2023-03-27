@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You shouldn&#39;t get turned on by beautiful women](http://9gag.com/gag/aVbo1nw)
- - ⏩ [...](http://9gag.com/gag/aRE4RvQ)
- - 👉 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)<!-- MEMES:END -->
+ - 💣 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
+ - ⏩ [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - 👉 [You shouldn&#39;t get turned on by beautiful women](http://9gag.com/gag/aVbo1nw)<!-- MEMES:END -->
 
 ---
 
