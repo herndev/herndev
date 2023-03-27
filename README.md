@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s coveted Black Lotus breaks another record](https://www.polygon.com/23658890/mtg-black-lotus-auction-record-magic-the-gathering)
- - [Surprising Fans, WB&#39;s Smash Bros.-Like Shutters Until 2024 With No Refunds](https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501)
- - [GDC Organizers Respond To Reports Women Were Drugged, Assaulted At Off-Site Events](https://kotaku.com/gdc-2023-game-developer-women-assault-drink-1850270538)<!-- GAME:END -->
+ - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)
+ - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)
+ - [Diablo IV’s Beta Has Us Kinda Obsessed With Hell](https://kotaku.com/diablo-4-open-beta-impressions-rogue-necromancer-barb-1850270634)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
