@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/aRE4RvQ)
- - ⏩ [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - 👉 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)<!-- MEMES:END -->
+ - 💣 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - ⏩ [Sax](http://9gag.com/gag/aYVEA3v)
+ - 👉 [It\u2019s \u201cCOCKnac\u201d](http://9gag.com/gag/aNw9q66)<!-- MEMES:END -->
 
 ---
 
