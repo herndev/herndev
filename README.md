@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom partners with OpenAI to expand its Zoom IQ assistant, adding the ability to generate whiteboards using text prompts, provide recaps of meetings, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230327/p16#a230327p16)
- - [Lifetime Babbel language learning subscription plummets to $149.97 &lpar;$450 off&rpar;](https://appleinsider.com/articles/23/03/27/lifetime-babbel-language-learning-subscription-plummets-to-14997-450-off?utm_medium=rss)
- - [The CFTC sues Binance, CEO CZ, and an ex-chief compliance officer, calling Binance&#39;s compliance efforts &quot;a sham&quot; and corporate structure &quot;intentionally opaque&quot; &lpar;CFTC&rpar;](http://www.techmeme.com/230327/p15#a230327p15)<!-- TECH:END -->
+ - [Biden signs an EO banning US agencies&#39; use of hacking tools from companies that are linked to human rights abuses or are deemed a threat to national security &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/230327/p17#a230327p17)
+ - [Feds sue crypto giant Binance and founder Changpeng Zhao](https://www.theverge.com/2023/3/27/23658314/binance-changpeng-zhao-crypto-trading-lawsuit-cftc)
+ - [Zoom partners with OpenAI to expand its Zoom IQ assistant, adding the ability to generate whiteboards using text prompts, provide recaps of meetings, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230327/p16#a230327p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
