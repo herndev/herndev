@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [...](http://9gag.com/gag/aRE4RvQ)
- - ⏩ [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
+ - ⏩ [Look at me !!](http://9gag.com/gag/aPgmdpB)
  - 👉 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
 
 ---
