@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 11 Jupiter Rock Limited Edition incoming: So what’s it made of?](https://www.androidauthority.com/oneplus-11-jupiter-rock-limited-edition-3302286/)
  - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)
- - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)
- - [First Citizens agrees to buy the commercial banking business of Silicon Valley Bank from the FDIC including all deposits and loans &lpar;Daniel Taub/Bloomberg&rpar;](http://www.techmeme.com/230327/p1#a230327p1)<!-- TECH:END -->
+ - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
