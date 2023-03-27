@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After India&#39;s legal requests this week, Twitter blocked tweets from 122 users, including reporters and politicians, from Indian users; it used to push back more &lpar;Samriddhi Sakunia/Rest of World&rpar;](http://www.techmeme.com/230326/p13#a230326p13)
- - [A look at OBNbrandon, a prolific scammer in a booming community focused on banning influencers&#39; Instagram accounts and demanding payment for reactivation &lpar;ProPublica&rpar;](http://www.techmeme.com/230326/p12#a230326p12)
- - [How Taking an Ice Bath Brought Me Closer to My Son     - CNET](https://www.cnet.com/health/features/how-taking-an-ice-bath-brought-me-closer-to-my-son/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After India&#39;s legal orders this week, Twitter blocked the tweets of 122 users, including reporters and politicians, from Indian users; it used to push back more &lpar;Samriddhi Sakunia/Rest of World&rpar;](http://www.techmeme.com/230326/p13#a230326p13)
+ - [Microsoft says it has stopped its Xbox Game Pass $1 trial offer](https://www.theverge.com/2023/3/26/23657627/microsoft-xbox-game-pass-trial-offer-stopped)
+ - [A look at OBNBrandon, a prolific scammer in a booming community focused on banning influencers&#39; accounts, mainly on Instagram, and extorting for &quot;reactivation&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/230326/p12#a230326p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
