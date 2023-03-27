@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases security notes for iOS 16.4, watchOS 9.4, macOS Ventura 13.3](https://appleinsider.com/articles/23/03/27/apple-releases-security-notes-for-ios-164-watchos-94-macos-ventura-133?utm_medium=rss)
- - [Polygon launches the mainnet beta of its zkEVM layer 2 scaling solution for Ethereum, just days after rival Matter Labs released its own zkEVM, zkSync Era &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/230327/p22#a230327p22)
- - [Best Car Rental Companies in 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-rental-company-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is shutting down Fitbit Challenges and Adventures today](https://www.androidauthority.com/fitbit-challenges-adventures-3302535/)
+ - [Lyft cofounders Logan Green and John Zimmer will step down from day-to-day roles as CEO and president in April; former Amazon exec David Risher will become CEO &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230327/p24#a230327p24)
+ - [iOS 16.4 Brings These New Emoji to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-brings-these-new-emoji-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
