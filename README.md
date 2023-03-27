@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tetris creator on turning his life into a spy movie: ‘exaggeration is kind of natural’](https://www.polygon.com/23654998/tetris-movie-alexey-pajitnov-henk-rogers-reality-vs-fiction)
- - [After Three Months Of Struggles, Ashika Island Saved Warzone 2.0](https://kotaku.com/cod-warzone-2-ashika-dead-drops-resurgence-loadout-1850268948)
- - [Netflix Star Wants To Name Kids After Elden Ring Bosses, And The Internet Approves](https://kotaku.com/elden-ring-bosses-netflix-love-is-blind-godfrey-godrick-1850269074)<!-- GAME:END -->
+ - [Fortnite’s New Unreal Editor Has Limits On What Fans Can Make, Monetize](https://kotaku.com/fortnite-epic-games-uefn-creator-economy-maps-1850269891)
+ - [Puffer coat pope is fake, but the AI art’s impact is real](https://www.polygon.com/ai-artificial-intelligence/23658270/puffer-coat-pope-ai-art-fake-midjourney)
+ - [This Horror Time Loop Game Stole PAX &lpar;And You Can Play It Right Now&rpar;](https://kotaku.com/slay-the-princess-demo-pax-east-steam-black-tabby-games-1850269750)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
