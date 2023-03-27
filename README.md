@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fight rat hordes with steam guns in this tactical, squad-based survival RPG](https://www.pcgamer.com/fight-rat-hordes-with-steam-guns-in-this-tactical-squad-based-survival-game)
- - [PC Game Accused Of &#39;Asset Theft&#39; Removed From Steam](https://kotaku.com/dark-and-darker-nexon-ironmace-pc-korea-police-legal-1850267232)
- - [When does Apex Legends’ Sun Squad Collection Event start?](https://www.polygon.com/guides/23655254/apex-legends-sun-squad-collection-event-swimsuit-skins)<!-- GAME:END -->
+ - [Microsoft Ends $1 Xbox Game Pass Offer](https://kotaku.com/xbox-game-pass-1-one-dollar-subscription-offer-deal-1850267438)
+ - [Give it up for Jeff, the true doofus warrior on Yellowjackets](https://www.polygon.com/23651630/yellowjackets-jeff-actor-shauna-husband-papa-roach)
+ - [Five new Steam games you probably missed &lpar;March 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-27-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
