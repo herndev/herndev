@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/aRE4RvQ)
- - ⏩ [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
- - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
+ - 💣 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)
+ - ⏩ [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
+ - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 ---
 
