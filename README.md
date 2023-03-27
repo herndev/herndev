@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is shutting down Fitbit Challenges and Adventures today](https://www.androidauthority.com/fitbit-challenges-adventures-3302535/)
- - [Lyft cofounders Logan Green and John Zimmer will step down from day-to-day roles as CEO and president in April; former Amazon exec David Risher will become CEO &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230327/p24#a230327p24)
- - [iOS 16.4 Brings These New Emoji to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-brings-these-new-emoji-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple executives detail Apple Pencil hover update](https://appleinsider.com/articles/23/03/27/apple-executives-detail-apple-pencil-hover-update?utm_medium=rss)
+ - [In the US, regulators are choking the crypto industry, but major policy decisions should be made by Congress and state legislatures, not by unelected officials &lpar;Katie Haun/Wall Street Journal&rpar;](http://www.techmeme.com/230327/p28#a230327p28)
+ - [Many of the top VPN services and mobile apps, some with 100M+ downloads, have misled users about their practices or disguised their origins, like ties to China &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230327/p27#a230327p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
