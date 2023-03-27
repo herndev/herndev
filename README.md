@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
- - ⏩ [...](http://9gag.com/gag/aRE4RvQ)
- - 👉 [Random text generator](http://9gag.com/gag/aQEvryK)<!-- MEMES:END -->
+ - 💣 [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
+ - ⏩ [Balenciaga](http://9gag.com/gag/a04Xwbn)
+ - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 ---
 
