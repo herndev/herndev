@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
- - ⏩ [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - 👉 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
+ - 💣 [Can anyone ? What is this?](http://9gag.com/gag/a8q6KWQ)
+ - ⏩ [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
+ - 👉 [Lefty school board BTFO by city mayor](http://9gag.com/gag/a5X6v9G)<!-- MEMES:END -->
 
 ---
 
