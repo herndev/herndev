@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 Jupiter Rock Limited Edition incoming: So what’s it made of?](https://www.androidauthority.com/oneplus-11-jupiter-rock-limited-edition-3302286/)
- - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)
- - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)<!-- TECH:END -->
+ - [Nvidia CTO Michael Kagan says crypto does not &quot;bring anything useful for society&quot; and other processing power uses like AI are more worthwhile than crypto mining &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/230327/p4#a230327p4)
+ - [You told us: Most of you have bought cheap wireless earbuds before](https://www.androidauthority.com/cheap-wireless-earbuds-poll-results-3302300/)
+ - [The French government bans TikTok and all other recreational apps from staff phones, claiming none have sufficiently robust security for government devices &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230327/p3#a230327p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
