@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car may get parts made by iPhone 3D sensor supplier](https://appleinsider.com/articles/23/03/27/apple-car-may-get-parts-made-by-iphone-3d-sensor-supplier?utm_medium=rss)
- - [Sonos Era 100 Review: The New Smart Speaker Standard](https://www.wired.com/review/sonos-era-100/)
- - [I Could Play &#39;Disney Dreamlight Valley&#39; Until the End of Time](https://www.wired.com/story/disney-dreamlight-valley-binge-play/)<!-- TECH:END -->
+ - [7 Best Electric Toothbrushes &lpar;2023&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
+ - [The best Samsung tablets of 2023](https://www.androidauthority.com/best-samsung-tablets-3302307/)
+ - [SIM card trays may disappear from iPhone 15 in Europe](https://appleinsider.com/articles/23/03/27/sim-card-trays-may-disappear-from-iphone-15-in-europe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
