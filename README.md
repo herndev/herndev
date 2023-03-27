@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands Emergency SOS via satellite to six more countries](https://appleinsider.com/articles/23/03/27/apple-expands-emergency-sos-via-satellite-to-six-more-countries?utm_medium=rss)
- - [Apple releases Studio Display 16.4 firmware update](https://appleinsider.com/articles/23/03/27/apple-releases-studio-display-164-firmware-update?utm_medium=rss)
- - [iOS 16.4 is now available, with a lot of user-facing updates](https://appleinsider.com/articles/23/03/27/ios-164-is-now-out-with-a-lot-of-user-facing-updates?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 15.7.4, macOS Monterey 12.6.4, macOS Big Sur 11.7.5 all get security updates](https://appleinsider.com/articles/23/03/27/ios-1574-macos-monterey-1264-macos-big-sur-1175-all-get-security-updates?utm_medium=rss)
+ - [Similarweb: Chinese-owned OPay and PalmPay became the Play Store&#39;s top finance apps in Nigeria on March 24, after a central bank edict caused a cash shortage &lpar;Alexander Onukwue/Semafor&rpar;](http://www.techmeme.com/230327/p20#a230327p20)
+ - [Apple releases iOS 16.4 with new emoji, Safari web push notifications for sites added to the Home Screen, Voice Isolation for calls, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230327/p19#a230327p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
