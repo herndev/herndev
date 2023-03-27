@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - ⏩ [Glad they both &#39;finished&#39; at the same time](http://9gag.com/gag/ago1Zzw)
- - 👉 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)<!-- MEMES:END -->
+ - 💣 [Good times](http://9gag.com/gag/amA1RAd)
+ - ⏩ [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
+ - 👉 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)<!-- MEMES:END -->
 
 ---
 
