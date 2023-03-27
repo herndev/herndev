@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Citizens agrees to buy the commercial banking business of Silicon Valley Bank from the FDIC including all deposits and loans &lpar;Daniel Taub/Bloomberg&rpar;](http://www.techmeme.com/230327/p1#a230327p1)
- - [Now the Windows snipping tool has a major privacy flaw &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)
- - [Poll: Would you ditch Google and consider switching to GrapheneOS?](https://www.androidauthority.com/google-vs-graphene-os-poll-3302277/)<!-- TECH:END -->
+ - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)
+ - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)
+ - [First Citizens agrees to buy the commercial banking business of Silicon Valley Bank from the FDIC including all deposits and loans &lpar;Daniel Taub/Bloomberg&rpar;](http://www.techmeme.com/230327/p1#a230327p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
