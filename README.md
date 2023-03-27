@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.7.4, macOS Monterey 12.6.4, macOS Big Sur 11.7.5 all get security updates](https://appleinsider.com/articles/23/03/27/ios-1574-macos-monterey-1264-macos-big-sur-1175-all-get-security-updates?utm_medium=rss)
- - [Similarweb: Chinese-owned OPay and PalmPay became the Play Store&#39;s top finance apps in Nigeria on March 24, after a central bank edict caused a cash shortage &lpar;Alexander Onukwue/Semafor&rpar;](http://www.techmeme.com/230327/p20#a230327p20)
- - [Apple releases iOS 16.4 with new emoji, Safari web push notifications for sites added to the Home Screen, Voice Isolation for calls, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230327/p19#a230327p19)<!-- TECH:END -->
+ - [Apple releases security notes for iOS 16.4, watchOS 9.4, macOS Ventura 13.3](https://appleinsider.com/articles/23/03/27/apple-releases-security-notes-for-ios-164-watchos-94-macos-ventura-133?utm_medium=rss)
+ - [Polygon launches the mainnet beta of its zkEVM layer 2 scaling solution for Ethereum, just days after rival Matter Labs released its own zkEVM, zkSync Era &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/230327/p22#a230327p22)
+ - [Best Car Rental Companies in 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-rental-company-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
