@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Writer Chris Avellone’s Accusers Settle Libel Case For Seven Figures](https://kotaku.com/fallout-new-vegas-avellone-sexual-misconduct-libel-1850270184)
- - [Resident Evil 4 remake hints that Separate Ways DLC may be next](https://www.polygon.com/23654190/resident-evil-4-remake-separate-ways-dlc-ada-wong)
- - [Surprise! The hit fighting game Multiversus was only in &#39;open beta&#39; and now it&#39;s shutting down until sometime next year](https://www.pcgamer.com/surprise-the-hit-fighting-game-multiversus-was-only-in-open-beta-and-now-its-shutting-down-until-sometime-next-year)<!-- GAME:END -->
+ - [Magic: The Gathering’s coveted Black Lotus breaks another record](https://www.polygon.com/23658890/mtg-black-lotus-auction-record-magic-the-gathering)
+ - [Surprising Fans, WB&#39;s Smash Bros.-Like Shutters Until 2024 With No Refunds](https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501)
+ - [GDC Organizers Respond To Reports Women Were Drugged, Assaulted At Off-Site Events](https://kotaku.com/gdc-2023-game-developer-women-assault-drink-1850270538)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
