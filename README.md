@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
- - ⏩ [Balenciaga](http://9gag.com/gag/a04Xwbn)
- - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 💣 [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - ⏩ [Glad they both &#39;finished&#39; at the same time](http://9gag.com/gag/ago1Zzw)
+ - 👉 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)<!-- MEMES:END -->
 
 ---
 
