@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executives detail Apple Pencil hover update](https://appleinsider.com/articles/23/03/27/apple-executives-detail-apple-pencil-hover-update?utm_medium=rss)
- - [In the US, regulators are choking the crypto industry, but major policy decisions should be made by Congress and state legislatures, not by unelected officials &lpar;Katie Haun/Wall Street Journal&rpar;](http://www.techmeme.com/230327/p28#a230327p28)
- - [Many of the top VPN services and mobile apps, some with 100M+ downloads, have misled users about their practices or disguised their origins, like ties to China &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230327/p27#a230327p27)<!-- TECH:END -->
+ - [Binance CEO CZ says CFTC&#39;s complaint contains &quot;incomplete recitation of facts&quot; and Binance does not agree with &quot;characterization of many of the issues alleged&quot; &lpar;Binance Blog&rpar;](http://www.techmeme.com/230327/p30#a230327p30)
+ - [Germany-based OQmented, which is developing laser beam scanning tech for displays in AR/MR glasses, raised a $20M Series A from Sharp Devices Europe and others &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/230327/p29#a230327p29)
+ - [Apple executives detail Apple Pencil hover update](https://appleinsider.com/articles/23/03/27/apple-executives-detail-apple-pencil-hover-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
