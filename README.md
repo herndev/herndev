@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lefty school board BTFO by city mayor](http://9gag.com/gag/a5X6v9G)
- - ⏩ [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
- - 👉 [Cop has no chill](http://9gag.com/gag/a4o6B1Z)<!-- MEMES:END -->
+ - 💣 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)
+ - ⏩ [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
+ - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 ---
 
