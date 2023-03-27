@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)
- - [How to unlock Morbius in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-unlock-morbius)
- - [How will Life By You compete with The Sims? Deeper role-play](https://www.polygon.com/23657952/life-by-you-paradox-sim-game-rod-humble)<!-- GAME:END -->
+ - [Sim game Terra Nil accepts the apocalypse — then moves past it](https://www.polygon.com/reviews/23652587/terra-nil-review-sim-game-city-builder-climate-change)
+ - [All-Women Pro Apex Legends Squad Won&#39;t Listen To Haters, Lets Gameplay Do The Talking](https://kotaku.com/tsm-apex-legends-team-women-janey-sabz-avuhlie-guhrl-1850268288)
+ - [Diablo 4 rogue almost solos world boss designed for 12 players, and would have if a necromancer didn&#39;t nick in and steal the kill at 1% HP](https://www.pcgamer.com/diablo-4-rogue-almost-solos-world-boss-designed-for-12-players-and-would-have-if-a-necromancer-didnt-nick-in-and-steal-the-kill-at-1-hp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
