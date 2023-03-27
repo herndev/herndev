@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unboxing Is So 2012. The Internet Wants Packing Videos](https://www.wired.com/story/packing-videos-tiktok-unboxing/)
- - [ChatGPT Opened a New Era in Search. Microsoft Could Ruin It](https://www.wired.com/story/chatgpt-opened-a-new-era-in-search-microsoft-could-ruin-it/)
- - [Ammo maker Nammo says its growth is hit by a TikTok data center using all spare electricity, as energy demand from data centers and others grows in the Nordics &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230327/p7#a230327p7)<!-- TECH:END -->
+ - [Huawei says it has built tools to design chips as advanced as 14nm, about four generations behind the latest available, to help Chinese firms replace US tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/230327/p9#a230327p9)
+ - [OPPO and OnePlus reportedly exiting UK and Europe &lpar;Update: OnePlus responds&rpar;](https://www.androidauthority.com/oppo-oneplus-europe-uk-exit-3302326/)
+ - [Inside Apple Grand Central retail: The Apple Store on a balcony](https://appleinsider.com/articles/23/03/27/inside-apple-grand-central-retail-the-apple-store-on-a-balcony?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
