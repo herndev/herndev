@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sim game Terra Nil accepts the apocalypse — then moves past it](https://www.polygon.com/reviews/23652587/terra-nil-review-sim-game-city-builder-climate-change)
- - [All-Women Pro Apex Legends Squad Won&#39;t Listen To Haters, Lets Gameplay Do The Talking](https://kotaku.com/tsm-apex-legends-team-women-janey-sabz-avuhlie-guhrl-1850268288)
- - [Diablo 4 rogue almost solos world boss designed for 12 players, and would have if a necromancer didn&#39;t nick in and steal the kill at 1% HP](https://www.pcgamer.com/diablo-4-rogue-almost-solos-world-boss-designed-for-12-players-and-would-have-if-a-necromancer-didnt-nick-in-and-steal-the-kill-at-1-hp)<!-- GAME:END -->
+ - [Zelda Fans Can Finally Chill: Tears Of The Kingdom Deep Dive Is On The Way](https://kotaku.com/legend-zelda-tears-kingdom-gameplay-nintendo-direct-1850268681)
+ - [Terra Nil review](https://www.pcgamer.com/terra-nil-review)
+ - [Resident Evil 4 Remake’s First Fight Can Be Skipped In Cool Way](https://kotaku.com/resident-evil-4-leon-kennedy-tutorial-guide-village-bel-1850268652)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
