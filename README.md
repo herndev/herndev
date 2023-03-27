@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
- - ⏩ [One ticket, please!](http://9gag.com/gag/arm39D5)
- - 👉 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
+ - 💣 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
+ - ⏩ [Poor guy](http://9gag.com/gag/aOxejN2)
+ - 👉 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)<!-- MEMES:END -->
 
 ---
 
