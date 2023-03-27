@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)
- - ⏩ [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
- - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 💣 [Savage lol .](http://9gag.com/gag/a5X6q9N)
+ - ⏩ [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 👉 [Sorry, no potato.](http://9gag.com/gag/a6qX2g9)<!-- MEMES:END -->
 
 ---
 
