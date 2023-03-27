@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaspersky: some versions of Pinduoduo, suspended by Google from its app store, exploited Android vulnerabilities to install backdoors and gain user data access &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230327/p5#a230327p5)
- - [Daily Authority: 🤔 Google or GrapheneOS?](https://www.androidauthority.com/daily-authority-march-27-2023-3302282/)
- - [Nvidia CTO Michael Kagan says crypto does not &quot;bring anything useful for society&quot; and other processing power uses like AI are more worthwhile than crypto mining &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/230327/p4#a230327p4)<!-- TECH:END -->
+ - [Unboxing Is So 2012. The Internet Wants Packing Videos](https://www.wired.com/story/packing-videos-tiktok-unboxing/)
+ - [ChatGPT Opened a New Era in Search. Microsoft Could Ruin It](https://www.wired.com/story/chatgpt-opened-a-new-era-in-search-microsoft-could-ruin-it/)
+ - [Ammo maker Nammo says its growth is hit by a TikTok data center using all spare electricity, as energy demand from data centers and others grows in the Nordics &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230327/p7#a230327p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
