@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)
- - ⏩ [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
- - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 💣 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
+ - ⏩ [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 👉 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
 
 ---
 
