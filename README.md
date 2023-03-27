@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
- - ⏩ [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)
- - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
+ - 💣 [Sauce in the comment.](http://9gag.com/gag/aMEBWZR)
+ - ⏩ [...](http://9gag.com/gag/aRE4RvQ)
+ - 👉 [Truely a national.. nay, global hero.](http://9gag.com/gag/amA1VjX)<!-- MEMES:END -->
 
 ---
 
