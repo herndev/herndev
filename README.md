@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fortra told GoAnywhere customers that their data was safe after a ransomware attack by the Clop gang, but two said they later received ransom demands &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p17#a230324p17)
- - [Get Apple&#39;s 2023 MacBook Pro 14-inch for $1,849, plus $60 off AppleCare](https://appleinsider.com/articles/23/03/24/get-apples-2023-macbook-pro-14-inch-for-1849-plus-60-off-applecare?utm_medium=rss)
- - [11 New Features That Will Change the Way You Use Your iPhone     - CNET](https://www.cnet.com/tech/mobile/11-new-features-that-will-change-the-way-you-use-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Taking an Ice Bath Brought Me Closer to My Son     - CNET](https://www.cnet.com/health/features/how-taking-an-ice-bath-brought-me-closer-to-my-son/#ftag=CAD590a51e)
+ - [Filing: some Twitter source code was leaked by a user called &quot;FreeSpeechEnthusiast&quot; on GitHub, which took it down to comply with a DMCA notice sent on Friday &lpar;New York Times&rpar;](http://www.techmeme.com/230326/p11#a230326p11)
+ - [Apple staff reportedly express doubts about mixed-reality headset months ahead of launch](https://www.theverge.com/2023/3/26/23657317/apple-headset-launch-employee-concerns)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
