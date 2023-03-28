@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam will ditch Windows 7 and 8 support next year](https://www.pcgamer.com/steam-will-ditch-windows-7-and-8-support-next-year)
- - [GameCube and Wii emulator Dolphin is coming to Steam this year](https://www.pcgamer.com/gamecube-and-wii-emulator-dolphin-is-coming-to-steam-this-year)
- - [Ubisoft joins Sony, Nintendo and Microsoft in skipping E3 2023](https://www.pcgamer.com/ubisoft-joins-sony-nintendo-and-microsoft-in-skipping-e3-2023)<!-- GAME:END -->
+ - [You probably didn&#39;t realise FIFA 23 is actually one of the most classically PC games around](https://www.pcgamer.com/fifa-23-pc-classic)
+ - [The White Lotus has set its destination for season 3](https://www.polygon.com/23659722/the-white-lotus-season-3-location)
+ - [Workers allege crunch and intimidation at Ubisoft&#39;s Just Dance studio](https://www.pcgamer.com/workers-allege-crunch-and-intimidation-at-ubisofts-just-dance-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
