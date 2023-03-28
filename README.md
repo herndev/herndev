@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents and sources: Belgian intelligence puts Huawei&#39;s Brussels lobbying office on its watchlist to determine if it has direct ties to China&#39;s government &lpar;Politico&rpar;](http://www.techmeme.com/230328/p18#a230328p18)
- - [India smartphone market contracting, but increasing in value because of iPhone](https://appleinsider.com/articles/23/03/28/india-smartphone-market-contracting-but-increasing-in-value-because-of-iphone?utm_medium=rss)
- - [US prosecutors file a new indictment against SBF, accusing him of directing the transfer of $40M+ of cryptocurrency in bribes to Chinese government officials &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p17#a230328p17)<!-- TECH:END -->
+ - [Apple launches Apple Pay Later, but only for selected users](https://appleinsider.com/articles/23/03/28/apple-launches-apple-pay-later-but-only-for-selected-users?utm_medium=rss)
+ - [With the launch of plugins, ChatGPT has become an aggregator that puts OpenAI on a path to becoming the next major consumer tech platform &lpar;Stratechery&rpar;](http://www.techmeme.com/230328/p25#a230328p25)
+ - [Microsoft launches Security Copilot, a GPT-4-powered assistant to help security professionals with incident investigations, event summaries, reporting, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230328/p24#a230328p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
