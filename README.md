@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Quest Designer Shows How The Narrative Sausage Gets Made](https://kotaku.com/diablo-iv-4-beta-story-lore-lorath-lilith-1850275804)
- - [As A Resident Evil 4 Newcomer, Remake&#39;s Village Fight Is Shockingly Brutal](https://kotaku.com/resident-evil-4-remake-village-chainsaw-steam-tips-1850275707)
- - [Nintendo’s classic Ultra Hand toy lives on in Tears of the Kingdom](https://www.polygon.com/23660508/zelda-tears-of-the-kingdom-ultrahand-nintendo-toy)<!-- GAME:END -->
+ - [Black Panther director Ryan Coogler may be rebooting The X-Files](https://www.polygon.com/23660796/x-files-ryan-coogler-reboot-chris-carter)
+ - [Bobby Kotick Calls Out PlayStation In Email To Whole World](https://kotaku.com/playstation-microsoft-activision-sony-kotick-deal-buy-1850276115)
+ - [Attention PC survival games: please steal all the cool ideas from the new Zelda](https://www.pcgamer.com/attention-pc-survival-games-please-steal-all-the-cool-ideas-from-the-new-zelda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
