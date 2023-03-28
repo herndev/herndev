@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
- - ⏩ [The way this was handled](http://9gag.com/gag/aXnMdvD)
- - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 💣 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)
+ - ⏩ [Does this still bug anyone else as much?](http://9gag.com/gag/a4o68nv)
+ - 👉 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)<!-- MEMES:END -->
 
 ---
 
