@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 quest designer explains how they put the RP in RPG with one simple choice](https://www.pcgamer.com/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice)
- - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)
- - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)<!-- GAME:END -->
+ - [Lewd Ghibli Posters Now Very Sorry For Causing &#39;Distress&#39;](https://kotaku.com/studio-ghibli-lewd-nsfw-photos-theme-park-apology-japan-1850271240)
+ - [Don&#39;t bother playings loads of CS:GO now if you want in on the Counter-Strike 2 test, Valve doesn&#39;t care](https://www.pcgamer.com/dont-bother-playings-loads-of-csgo-now-if-you-want-in-on-the-counter-strike-2-test-valve-doesnt-care)
+ - [Former Dragon Age boss Mark Darrah returns to work on Dreadwolf](https://www.pcgamer.com/former-dragon-age-boss-mark-darrah-returns-to-work-on-dreadwolf)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
