@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 Cameras and a Doorbell cam and these Amazon drivers still think they slick. Glad we have the cameras otherwise Amazon would be like.. Too bad.](http://9gag.com/gag/aOxe5YM)
- - ⏩ [Tell me why!](http://9gag.com/gag/a7qOm9b)
- - 👉 [It&#39;s just a prank bro](http://9gag.com/gag/aGEnvj6)<!-- MEMES:END -->
+ - 💣 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
+ - ⏩ [2 Cameras and a Doorbell cam and these Amazon drivers still think they slick. Glad we have the cameras otherwise Amazon would be like.. Too bad.](http://9gag.com/gag/aOxe5YM)
+ - 👉 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)<!-- MEMES:END -->
 
 ---
 
