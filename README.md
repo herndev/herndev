@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
- - ⏩ [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
- - 👉 [Poor guy](http://9gag.com/gag/aOxejN2)<!-- MEMES:END -->
+ - 💣 [Morena Baccarin](http://9gag.com/gag/aRE4dQq)
+ - ⏩ [Take your time.](http://9gag.com/gag/a8q6QR3)
+ - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 ---
 
