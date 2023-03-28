@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Sidewalk Releases a Hardware Developer Kit](https://www.wired.com/story/amazon-sidewalk-developer-kit/)
- - [Technology Addiction Has Created a Self-Help Trap](https://www.wired.com/story/gaia-bernstein-technology-tobacco/)
- - [CryptoQuant: BUSD saw $500M+ in outflows in the 24 hours since CFTC filed a lawsuit against Binance vs. $2B in outflows after SEC&#39;s Paxos crackdown in February &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230328/p14#a230328p14)<!-- TECH:END -->
+ - [Eve starts shipping Matter-enabled smart home devices](https://appleinsider.com/articles/23/03/28/eve-starts-shipping-matter-enabled-smart-home-devices?utm_medium=rss)
+ - [Apple still hasn&#39;t fixed macOS Ventura&#39;s network bug](https://appleinsider.com/articles/23/03/28/apple-still-hasnt-fixed-macos-venturas-network-bug?utm_medium=rss)
+ - [Build more secure mobile apps leveraging Guardsquare’s AppSweep](https://www.androidauthority.com/build-more-secure-mobile-apps-leveraging-guardsquares-appsweep-3302333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
