@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)
- - ⏩ [Does this still bug anyone else as much?](http://9gag.com/gag/a4o68nv)
- - 👉 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)<!-- MEMES:END -->
+ - 💣 [How to vaporise crack and angeldust with only one little Gadget](http://9gag.com/gag/aDY6P3Z)
+ - ⏩ [Random text generator](http://9gag.com/gag/aQEvryK)
+ - 👉 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
 
 ---
 
