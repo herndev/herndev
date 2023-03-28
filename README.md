@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - ⏩ [Poor guy](http://9gag.com/gag/aOxejN2)
- - 👉 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)<!-- MEMES:END -->
+ - 💣 [Real man doesn&#39;t care for check engine-nonsenses](http://9gag.com/gag/aVbo4pM)
+ - ⏩ [There&#39;s something there](http://9gag.com/gag/aWG7AZK)
+ - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
 
 ---
 
