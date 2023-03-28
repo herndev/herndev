@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You probably didn&#39;t realise FIFA 23 is actually one of the most classically PC games around](https://www.pcgamer.com/fifa-23-pc-classic)
- - [The White Lotus has set its destination for season 3](https://www.polygon.com/23659722/the-white-lotus-season-3-location)
- - [Workers allege crunch and intimidation at Ubisoft&#39;s Just Dance studio](https://www.pcgamer.com/workers-allege-crunch-and-intimidation-at-ubisofts-just-dance-studio)<!-- GAME:END -->
+ - [Kerbal&#39;s creator is back with a new model vehicle sim, says &#39;early access is not what it used to be&#39;](https://www.pcgamer.com/kerbals-creator-is-back-with-a-new-model-vehicle-sim-says-early-access-is-not-what-it-used-to-be)
+ - [Remember the time when Link turned into Ganon in The Legend of Zelda?](https://www.polygon.com/zelda/23645381/legend-of-zelda-comic-book-valiant-ridiculous-moments)
+ - [This tactics game is going all-in on pulp classics, mashing up Indiana Jones, The Mummy, and XCOM to make something surprisingly original](https://www.pcgamer.com/this-tactics-game-is-going-all-in-on-pulps-mashing-up-indiana-jones-the-mummy-and-xcom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
