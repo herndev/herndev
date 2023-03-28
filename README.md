@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft joins Sony, Nintendo and Microsoft in skipping E3 2023](https://www.pcgamer.com/ubisoft-joins-sony-nintendo-and-microsoft-in-skipping-e3-2023)
- - [Wordle hint and answer #647: Tuesday, March 28](https://www.pcgamer.com/wordle-hint-answer-today-647-march-28)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/27/this-weeks-deals-with-gold-and-spotlight-sale-268/)<!-- GAME:END -->
+ - [Steam will ditch Windows 7 and 8 support next year](https://www.pcgamer.com/steam-will-ditch-windows-7-and-8-support-next-year)
+ - [GameCube and Wii emulator Dolphin is coming to Steam this year](https://www.pcgamer.com/gamecube-and-wii-emulator-dolphin-is-coming-to-steam-this-year)
+ - [Ubisoft joins Sony, Nintendo and Microsoft in skipping E3 2023](https://www.pcgamer.com/ubisoft-joins-sony-nintendo-and-microsoft-in-skipping-e3-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
