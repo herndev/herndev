@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xcode 14.1 required for App Store submissions from April 25](https://appleinsider.com/articles/23/03/28/xcode-141-required-for-app-store-submissions-from-april-25?utm_medium=rss)
- - [On TikTok, the hashtag #TikTokBan had 1.7B views on March 27 compared with 983M views on March 18, as users post hundreds of videos objecting to a potential ban &lpar;New York Times&rpar;](http://www.techmeme.com/230328/p32#a230328p32)
- - [How to add and transfer eSIMs to iPhone](https://appleinsider.com/inside/iphone/tips/how-to-add-and-transfer-esims-to-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: a California court granted Twitter&#39;s request to subpoena GitHub for information on FreeSpeechEnthusiast, the alleged leaker of some Twitter source code &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p34#a230328p34)
+ - [Microsoft announces a second-generation Surface Hub 2S is coming later in 2023 and will become the first &quot;touch-enabled board&quot; to run Teams Rooms on Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230328/p33#a230328p33)
+ - [Titmouse’s 5 Second Night animation showcase is back with a vengeance](https://www.theverge.com/2023/3/28/23659883/titmouse-5-second-night-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
