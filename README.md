@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Meh Games That Became Killer With Updates](https://kotaku.com/cyberpunk-destiny-no-mans-sky-patch-updates-1850274212)
- - [One Of Call of Duty: Warzone 2.0’s Biggest Streamer Is Taking A Break](https://kotaku.com/call-of-duty-warzone-2-aydan-conrad-twitch-youtube-1850274346)
- - [Imperium Maledictum is a Warhammer 40K TTRPG that’s all about the little guys](https://www.polygon.com/tabletop-games/23658946/imperium-maledictum-warhammer-40k-tabletop-rpg-cubicle-7-setting)<!-- GAME:END -->
+ - [You can still get $40 off a Nintendo Switch OLED](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
+ - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
+ - [PUBG&#39;s Creative Director On The Success Of Battle Royales](https://kotaku.com/pubg-battle-royale-popular-fortnite-apex-warzone-1850274251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
