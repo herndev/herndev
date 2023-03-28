@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real man doesn&#39;t care for check engine-nonsenses](http://9gag.com/gag/aVbo4pM)
- - ⏩ [There&#39;s something there](http://9gag.com/gag/aWG7AZK)
- - 👉 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
+ - ⏩ [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
+ - 👉 [Take your time.](http://9gag.com/gag/a8q6QR3)<!-- MEMES:END -->
 
 ---
 
