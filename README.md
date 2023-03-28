@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to vaporise crack and angeldust with only one little Gadget](http://9gag.com/gag/aDY6P3Z)
- - ⏩ [Random text generator](http://9gag.com/gag/aQEvryK)
- - 👉 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
+ - 💣 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
+ - ⏩ [The way this was handled](http://9gag.com/gag/aXnMdvD)
+ - 👉 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
 
 ---
 
