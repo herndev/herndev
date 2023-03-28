@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft-owned GitHub lays off its entire engineering team in India, eliminating 100+ jobs, as part of a ~10% cut announced in February &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230328/p6#a230328p6)
- - [This Anker Portable Power Station Is Back Down to Its Best Price of 2023     - CNET](https://www.cnet.com/deals/this-anker-portable-power-station-back-down-best-price-187/#ftag=CAD590a51e)
- - [Europol details how LLMs can be exploited to fuel fraud, cybercrime, and terrorism, and claims people are already using ChatGPT to carry out illegal activities &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/230328/p5#a230328p5)<!-- TECH:END -->
+ - [Daily Authority: 👀 Could Nothing Phone 2 launch soon?](https://www.androidauthority.com/daily-authority-march-28-2023-3302372/)
+ - [The UK cancels plans to launch an NFT, proposed in 2022 by Rishi Sunak in a bid to make the UK a crypto hub, and says it will keep the proposal &quot;under review&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230328/p8#a230328p8)
+ - [Sam Bankman-Fried&#39;s lawyers and prosecutors agree on new bail terms, including giving SBF a phone without internet and a monitored laptop with limited functions &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p7#a230328p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
