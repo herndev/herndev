@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not ready yet, and where&#39;s the dog?](http://9gag.com/gag/a8q6vMV)
- - ⏩ [Zero f**ks given](http://9gag.com/gag/arm3066)
- - 👉 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
+ - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - ⏩ [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
+ - 👉 [Take your time.](http://9gag.com/gag/a8q6QR3)<!-- MEMES:END -->
 
 ---
 
