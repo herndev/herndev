@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: a federal judge grants the US government&#39;s request to temporarily halt Voyager&#39;s bankruptcy plan, putting its proposed ~$1B sale to Binance.US on hold &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230327/p31#a230327p31)
  - [Binance CEO CZ says CFTC&#39;s complaint contains &quot;incomplete recitation of facts&quot; and Binance does not agree with &quot;characterization of many of the issues alleged&quot; &lpar;Binance Blog&rpar;](http://www.techmeme.com/230327/p30#a230327p30)
- - [Germany-based OQmented, which is developing laser beam scanning tech for displays in AR/MR glasses, raised a $20M Series A from Sharp Devices Europe and others &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/230327/p29#a230327p29)
- - [Apple executives detail Apple Pencil hover update](https://appleinsider.com/articles/23/03/27/apple-executives-detail-apple-pencil-hover-update?utm_medium=rss)<!-- TECH:END -->
+ - [Germany-based OQmented, which is developing laser beam scanning tech for displays in AR/MR glasses, raised a $20M Series A from Sharp Devices Europe and others &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/230327/p29#a230327p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
