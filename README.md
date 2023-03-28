@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical waltzes onto iPhone](https://appleinsider.com/articles/23/03/28/apple-music-classical-waltzes-onto-iphone?utm_medium=rss)
- - [Apple Music Classical is now available from the App Store](https://www.theverge.com/2023/3/27/23659326/apple-music-classical-available-download-app-store-ios)
- - [Sources: Disney eliminates its metaverse unit, cutting ~50 jobs, and ceases work on an Amazon Prime-like program integrating Disney+ and other Disney platforms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230327/p37#a230327p37)<!-- TECH:END -->
+ - [Google asks a US judge to dismiss a DOJ suit alleging it illegally abused its ad dominance, arguing the government had excluded rivals while defining the market &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230328/p2#a230328p2)
+ - [A look at Meta&#39;s &quot;spirit of the policy&quot; exception that lets the company break its moderation rules in conflict zones and crises; critics want more transparency &lpar;Rest of World&rpar;](http://www.techmeme.com/230328/p1#a230328p1)
+ - [Apple Music Classical waltzes onto iPhone](https://appleinsider.com/articles/23/03/28/apple-music-classical-waltzes-onto-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
