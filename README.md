@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why Russia should get Chinese soldier accoring to CCP](http://9gag.com/gag/a3Z5ze5)
- - ⏩ [One ticket, please!](http://9gag.com/gag/arm39D5)
- - 👉 [Look at me !!](http://9gag.com/gag/aPgmdpB)<!-- MEMES:END -->
+ - 💣 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
+ - ⏩ [OMG, a Meme in it&#39;s Natural Habitat.](http://9gag.com/gag/aKEAZPQ)
+ - 👉 [Tell me why!](http://9gag.com/gag/a7qOm9b)<!-- MEMES:END -->
 
 ---
 
