@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.5 beta adds Sports tab in Apple News, little else](https://appleinsider.com/articles/23/03/28/ios-165-beta-adds-sports-tab-in-apple-news-little-else?utm_medium=rss)
- - [Google plans to add a &quot;Perspectives&quot; carousel, showcasing experts and others under Top Stories, and an &quot;About this author&quot; feature for US English searches &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230328/p36#a230328p36)
- - [Apple&#39;s M2 Max MacBook Pro 16-inch drops to $3,199 &lpar;$300 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/23/03/28/apples-m2-max-macbook-pro-16-inch-drops-to-3199-300-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [A US federal judge finds Google flouted a court order requiring it to save records of employee chats in antitrust litigation over its Play Store policies &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p38#a230328p38)
+ - [Deal: Save 88% on Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)
+ - [Google Drive Has a 5 Million Item Cap, Even If You Have Storage Space Left     - CNET](https://www.cnet.com/tech/services-and-software/google-drive-has-a-5-million-item-cap-even-if-you-have-storage-space-left/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
