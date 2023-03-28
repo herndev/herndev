@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can still get $40 off a Nintendo Switch OLED](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
- - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
- - [PUBG&#39;s Creative Director On The Success Of Battle Royales](https://kotaku.com/pubg-battle-royale-popular-fortnite-apex-warzone-1850274251)<!-- GAME:END -->
+ - [Unreal: Diablo IV Streamer Beats World Boss Almost Entirely Solo](https://kotaku.com/diablo-4-twitch-youtube-streamer-wudijo-ashava-rogue-1850274905)
+ - [Star Trek: Legacy deserves a chance to exist](https://www.polygon.com/23658535/star-trek-legacy-paramount-plus-picard-season-4-plan)
+ - [Steam Is Getting A GameCube And Nintendo Wii Emulator](https://kotaku.com/nintendo-gamecube-wii-dolphin-emulator-steam-deck-1850274803)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
