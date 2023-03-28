@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
- - ⏩ [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
+ - 💣 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
+ - ⏩ [The way this was handled](http://9gag.com/gag/aXnMdvD)
  - 👉 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 ---
