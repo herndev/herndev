@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Pay Later, but only for selected users](https://appleinsider.com/articles/23/03/28/apple-launches-apple-pay-later-but-only-for-selected-users?utm_medium=rss)
- - [With the launch of plugins, ChatGPT has become an aggregator that puts OpenAI on a path to becoming the next major consumer tech platform &lpar;Stratechery&rpar;](http://www.techmeme.com/230328/p25#a230328p25)
- - [Microsoft launches Security Copilot, a GPT-4-powered assistant to help security professionals with incident investigations, event summaries, reporting, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230328/p24#a230328p24)<!-- TECH:END -->
+ - [EigenLabs, working on an ETH &quot;restaking&quot; protocol, raised a $50M Series A led by Blockchain Capital, with Coinbase Ventures, Polychain Capital among investors &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230328/p28#a230328p28)
+ - [Save $430 on the Pixel 6 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [The US government is gearing up for an AI antitrust fight](https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
