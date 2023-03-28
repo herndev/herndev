@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG, a Meme in it&#39;s Natural Habitat.](http://9gag.com/gag/aKEAZPQ)
- - ⏩ [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
- - 👉 [Poor guy](http://9gag.com/gag/aOxejN2)<!-- MEMES:END -->
+ - 💣 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
+ - ⏩ [Poor guy](http://9gag.com/gag/aOxejN2)
+ - 👉 [Why Russia should get Chinese soldier accoring to CCP](http://9gag.com/gag/a3Z5ze5)<!-- MEMES:END -->
 
 ---
 
