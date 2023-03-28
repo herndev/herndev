@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Someone Just Found Cheat Codes For 2004&#39;s Gran Turismo 4](https://kotaku.com/gran-turismo-4-ps2-cheat-codes-discovered-polyphony-1850271607)
  - [Lewd Ghibli Posters Now Very Sorry For Causing &#39;Distress&#39;](https://kotaku.com/studio-ghibli-lewd-nsfw-photos-theme-park-apology-japan-1850271240)
- - [Don&#39;t bother playings loads of CS:GO now if you want in on the Counter-Strike 2 test, Valve doesn&#39;t care](https://www.pcgamer.com/dont-bother-playings-loads-of-csgo-now-if-you-want-in-on-the-counter-strike-2-test-valve-doesnt-care)
- - [Former Dragon Age boss Mark Darrah returns to work on Dreadwolf](https://www.pcgamer.com/former-dragon-age-boss-mark-darrah-returns-to-work-on-dreadwolf)<!-- GAME:END -->
+ - [Don&#39;t bother playings loads of CS:GO now if you want in on the Counter-Strike 2 test, Valve doesn&#39;t care](https://www.pcgamer.com/dont-bother-playings-loads-of-csgo-now-if-you-want-in-on-the-counter-strike-2-test-valve-doesnt-care)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
