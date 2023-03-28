@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EigenLabs, working on an ETH &quot;restaking&quot; protocol, raised a $50M Series A led by Blockchain Capital, with Coinbase Ventures, Polychain Capital among investors &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230328/p28#a230328p28)
- - [Save $430 on the Pixel 6 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [The US government is gearing up for an AI antitrust fight](https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit)<!-- TECH:END -->
+ - [Clearview AI&#39;s founder says the company has run nearly 1M searches for US police and now uses 30B images scraped without users consent from sites like Facebook &lpar;BBC&rpar;](http://www.techmeme.com/230328/p30#a230328p30)
+ - [Apple seeds the first developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/03/28/apple-seeds-the-first-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
+ - [Apple seeds first developer beta for macOS Ventura 13.4](https://appleinsider.com/articles/23/03/28/apple-seeds-first-developer-beta-for-macos-ventura-134?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
