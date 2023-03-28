@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber Eats is removing 5K virtual brands to declutter the app and introducing new guidelines to stop restaurants from listing multiple brands with the same menu &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230327/p35#a230327p35)
  - [Snap&#39;s head of growth and previously longtime product head Jacob Andreou is leaving the company in May after eight years to join Greylock as a general partner &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230327/p34#a230327p34)
- - [M2 Macs keep Apple near-flat as PC market declines in 2022](https://appleinsider.com/articles/23/03/28/m2-macs-keep-apple-near-flat-as-pc-market-declines-in-2022?utm_medium=rss)
- - [Elon Musk says only verified accounts will be recommended in Twitter&#39;s For You tab and be able to vote in polls to address &quot;AI bot swarms&quot;, starting April 15 &lpar;The Verge&rpar;](http://www.techmeme.com/230327/p33#a230327p33)<!-- TECH:END -->
+ - [M2 Macs keep Apple near-flat as PC market declines in 2022](https://appleinsider.com/articles/23/03/28/m2-macs-keep-apple-near-flat-as-pc-market-declines-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
