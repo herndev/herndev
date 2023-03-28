@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: a California court granted Twitter&#39;s request to subpoena GitHub for information on FreeSpeechEnthusiast, the alleged leaker of some Twitter source code &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p34#a230328p34)
- - [Microsoft announces a second-generation Surface Hub 2S is coming later in 2023 and will become the first &quot;touch-enabled board&quot; to run Teams Rooms on Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230328/p33#a230328p33)
- - [Titmouse’s 5 Second Night animation showcase is back with a vengeance](https://www.theverge.com/2023/3/28/23659883/titmouse-5-second-night-2023)<!-- TECH:END -->
+ - [iOS 16.5 beta adds Sports tab in Apple News, little else](https://appleinsider.com/articles/23/03/28/ios-165-beta-adds-sports-tab-in-apple-news-little-else?utm_medium=rss)
+ - [Google plans to add a &quot;Perspectives&quot; carousel, showcasing experts and others under Top Stories, and an &quot;About this author&quot; feature for US English searches &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230328/p36#a230328p36)
+ - [Apple&#39;s M2 Max MacBook Pro 16-inch drops to $3,199 &lpar;$300 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/23/03/28/apples-m2-max-macbook-pro-16-inch-drops-to-3199-300-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
