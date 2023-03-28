@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kerbal&#39;s creator is back with a new model vehicle sim, says &#39;early access is not what it used to be&#39;](https://www.pcgamer.com/kerbals-creator-is-back-with-a-new-model-vehicle-sim-says-early-access-is-not-what-it-used-to-be)
- - [Remember the time when Link turned into Ganon in The Legend of Zelda?](https://www.polygon.com/zelda/23645381/legend-of-zelda-comic-book-valiant-ridiculous-moments)
- - [This tactics game is going all-in on pulp classics, mashing up Indiana Jones, The Mummy, and XCOM to make something surprisingly original](https://www.pcgamer.com/this-tactics-game-is-going-all-in-on-pulps-mashing-up-indiana-jones-the-mummy-and-xcom)<!-- GAME:END -->
+ - [Gear Up Like the Pros and Play in Style – Xbox Elite Wireless Controller Series 2 Now Available in Vibrant Red or Blue](https://news.xbox.com/en-us/2023/03/28/xbox-elite-wireless-controller-series-2-core-red-blue/)
+ - [&quot;Of course, you can start at the beginning or end of a paradox&quot;: Warframe&#39;s most ambitious new expansion yet aims to please veterans and newcomers alike](https://www.pcgamer.com/of-course-you-can-start-at-the-beginning-or-end-of-a-paradox-warframes-most-ambitious-new-expansion-yet-aims-to-please-veterans-and-newcomers-alike)
+ - [AMD details its Nvidia DLSS 3 Frame Generation-fighting tech](https://www.pcgamer.com/amd-details-its-nvidia-dlss-3-frame-generation-fighting-tech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
