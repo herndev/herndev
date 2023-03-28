@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: a federal judge grants the US government&#39;s request to temporarily halt Voyager&#39;s bankruptcy plan, putting its proposed ~$1B sale to Binance.US on hold &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230327/p31#a230327p31)
- - [Binance CEO CZ says CFTC&#39;s complaint contains &quot;incomplete recitation of facts&quot; and Binance does not agree with &quot;characterization of many of the issues alleged&quot; &lpar;Binance Blog&rpar;](http://www.techmeme.com/230327/p30#a230327p30)
- - [Germany-based OQmented, which is developing laser beam scanning tech for displays in AR/MR glasses, raised a $20M Series A from Sharp Devices Europe and others &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/230327/p29#a230327p29)<!-- TECH:END -->
+ - [Snap&#39;s head of growth and previously longtime product head Jacob Andreou is leaving the company in May after eight years to join Greylock as a general partner &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230327/p34#a230327p34)
+ - [M2 Macs keep Apple near-flat as PC market declines in 2022](https://appleinsider.com/articles/23/03/28/m2-macs-keep-apple-near-flat-as-pc-market-declines-in-2022?utm_medium=rss)
+ - [Elon Musk says only verified accounts will appear in Twitter&#39;s For You tab and be able to vote in polls as a way to address &quot;AI bot swarms&quot;, starting April 15 &lpar;The Verge&rpar;](http://www.techmeme.com/230327/p33#a230327p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
