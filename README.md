@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical&#39;s best feature is lost on Apple&#39;s headphones](https://appleinsider.com/articles/23/03/28/apple-classicals-best-feature-is-lost-on-apples-headphones?utm_medium=rss)
- - [Vivo could soon launch a Samsung Galaxy Z Flip 4-style foldable](https://www.androidauthority.com/vivo-x-flip-3303605/)
- - [Jessica Chastain to star as &#39;The Savant&#39; in Apple TV+ thriller](https://appleinsider.com/articles/23/03/28/jessica-chastain-to-star-as-the-savant-in-apple-tv-thriller?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Sidewalk Releases a Hardware Developer Kit](https://www.wired.com/story/amazon-sidewalk-developer-kit/)
+ - [Technology Addiction Has Created a Self-Help Trap](https://www.wired.com/story/gaia-bernstein-technology-tobacco/)
+ - [CryptoQuant: BUSD saw $500M+ in outflows in the 24 hours since CFTC filed a lawsuit against Binance vs. $2B in outflows after SEC&#39;s Paxos crackdown in February &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230328/p14#a230328p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
