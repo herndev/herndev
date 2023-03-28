@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom’s immersive elements could revolutionize Zelda as we know it](https://www.polygon.com/23659972/legend-of-zelda-tears-of-the-kingdom-new-gameplay-analysis-immersive-sim)
- - [Where to buy The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)
- - [Zelda: Tears of the Kingdom is embracing Skyward Sword’s best mechanic](https://www.polygon.com/23659998/tears-of-the-kingdom-gameplay-skyward-sword)<!-- GAME:END -->
+ - [Link’s new abilities in Legend of Zelda: Tears of the Kingdom, explained](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-fuse-ascend-recall-ultrahand)
+ - [5 lessons from John Wick’s mega success I assume Hollywood won’t take](https://www.polygon.com/23658403/john-wick-box-office-success-future-movies)
+ - [Resident Evil 4 Remake As Told By Steam Reviews](https://kotaku.com/resident-evil-4-remake-re4-2023-steam-pc-user-reviews-1850273649)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
