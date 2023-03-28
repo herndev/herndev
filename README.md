@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
- - ⏩ [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - 👉 [Take your time.](http://9gag.com/gag/a8q6QR3)<!-- MEMES:END -->
+ - 💣 [OMG, a Meme in it&#39;s Natural Habitat.](http://9gag.com/gag/aKEAZPQ)
+ - ⏩ [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
+ - 👉 [Poor guy](http://9gag.com/gag/aOxejN2)<!-- MEMES:END -->
 
 ---
 
