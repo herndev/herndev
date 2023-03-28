@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda Producer Plays Tears Of The Kingdom For 10 Mins, And The New Stuff Looks Wild](https://kotaku.com/zelda-tears-kingdom-totk-10-min-gameplay-trailer-switch-1850273019)
- - [Yes, weapons will break in Zelda: Tears of the Kingdom](https://www.polygon.com/23659936/zelda-tears-of-the-kingdom-weapons-durability)
- - [Elemental trailer reveals a full-blown Pixar rom-com](https://www.polygon.com/23659948/elemental-trailer-pixar-release-date)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom’s immersive elements could revolutionize Zelda as we know it](https://www.polygon.com/23659972/legend-of-zelda-tears-of-the-kingdom-new-gameplay-analysis-immersive-sim)
+ - [Where to buy The Last of Us Part 1 on PC](https://www.polygon.com/deals/23608963/last-of-us-part-1-pc-pre-order-steam-epic-collectors-edition)
+ - [Zelda: Tears of the Kingdom is embracing Skyward Sword’s best mechanic](https://www.polygon.com/23659998/tears-of-the-kingdom-gameplay-skyward-sword)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
