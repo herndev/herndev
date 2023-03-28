@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Link’s new abilities in Legend of Zelda: Tears of the Kingdom, explained](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-fuse-ascend-recall-ultrahand)
- - [5 lessons from John Wick’s mega success I assume Hollywood won’t take](https://www.polygon.com/23658403/john-wick-box-office-success-future-movies)
- - [Resident Evil 4 Remake As Told By Steam Reviews](https://kotaku.com/resident-evil-4-remake-re4-2023-steam-pc-user-reviews-1850273649)<!-- GAME:END -->
+ - [10 Meh Games That Became Killer With Updates](https://kotaku.com/cyberpunk-destiny-no-mans-sky-patch-updates-1850274212)
+ - [One Of Call of Duty: Warzone 2.0’s Biggest Streamer Is Taking A Break](https://kotaku.com/call-of-duty-warzone-2-aydan-conrad-twitch-youtube-1850274346)
+ - [Imperium Maledictum is a Warhammer 40K TTRPG that’s all about the little guys](https://www.polygon.com/tabletop-games/23658946/imperium-maledictum-warhammer-40k-tabletop-rpg-cubicle-7-setting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
