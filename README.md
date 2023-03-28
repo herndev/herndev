@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Popplio be shiny?](https://www.polygon.com/pokemon-go-guide/23658843/can-popplio-be-shiny-spotlight-hour-march)
- - [Someone Just Found Cheat Codes For 2004&#39;s Gran Turismo 4](https://kotaku.com/gran-turismo-4-ps2-cheat-codes-discovered-polyphony-1850271607)
- - [Lewd Ghibli Posters Now Very Sorry For Causing &#39;Distress&#39;](https://kotaku.com/studio-ghibli-lewd-nsfw-photos-theme-park-apology-japan-1850271240)<!-- GAME:END -->
+ - [Ubisoft joins Sony, Nintendo and Microsoft in skipping E3 2023](https://www.pcgamer.com/ubisoft-joins-sony-nintendo-and-microsoft-in-skipping-e3-2023)
+ - [Wordle hint and answer #647: Tuesday, March 28](https://www.pcgamer.com/wordle-hint-answer-today-647-march-28)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/03/27/this-weeks-deals-with-gold-and-spotlight-sale-268/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
