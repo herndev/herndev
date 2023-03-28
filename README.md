@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
- - [Fans Are Hungry For Link’s &#39;Meat Arrows&#39; In Tears Of The Kingdom](https://kotaku.com/legend-zelda-botw-tears-kingdom-crafting-meat-arrows-1850275329)
- - [Unreal: Diablo IV Streamer Beats World Boss Almost Entirely Solo](https://kotaku.com/diablo-4-twitch-youtube-streamer-wudijo-ashava-rogue-1850274905)<!-- GAME:END -->
+ - [Diablo IV Quest Designer Shows How The Narrative Sausage Gets Made](https://kotaku.com/diablo-iv-4-beta-story-lore-lorath-lilith-1850275804)
+ - [As A Resident Evil 4 Newcomer, Remake&#39;s Village Fight Is Shockingly Brutal](https://kotaku.com/resident-evil-4-remake-village-chainsaw-steam-tips-1850275707)
+ - [Nintendo’s classic Ultra Hand toy lives on in Tears of the Kingdom](https://www.polygon.com/23660508/zelda-tears-of-the-kingdom-ultrahand-nintendo-toy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
