@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gear Up Like the Pros and Play in Style – Xbox Elite Wireless Controller Series 2 Now Available in Vibrant Red or Blue](https://news.xbox.com/en-us/2023/03/28/xbox-elite-wireless-controller-series-2-core-red-blue/)
- - [&quot;Of course, you can start at the beginning or end of a paradox&quot;: Warframe&#39;s most ambitious new expansion yet aims to please veterans and newcomers alike](https://www.pcgamer.com/of-course-you-can-start-at-the-beginning-or-end-of-a-paradox-warframes-most-ambitious-new-expansion-yet-aims-to-please-veterans-and-newcomers-alike)
- - [AMD details its Nvidia DLSS 3 Frame Generation-fighting tech](https://www.pcgamer.com/amd-details-its-nvidia-dlss-3-frame-generation-fighting-tech)<!-- GAME:END -->
+ - [Zelda Producer Plays Tears Of The Kingdom For 10 Mins, And The New Stuff Looks Wild](https://kotaku.com/zelda-tears-kingdom-totk-10-min-gameplay-trailer-switch-1850273019)
+ - [Yes, weapons will break in Zelda: Tears of the Kingdom](https://www.polygon.com/23659936/zelda-tears-of-the-kingdom-weapons-durability)
+ - [Elemental trailer reveals a full-blown Pixar rom-com](https://www.polygon.com/23659948/elemental-trailer-pixar-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
