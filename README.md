@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eve starts shipping Matter-enabled smart home devices](https://appleinsider.com/articles/23/03/28/eve-starts-shipping-matter-enabled-smart-home-devices?utm_medium=rss)
- - [Apple still hasn&#39;t fixed macOS Ventura&#39;s network bug](https://appleinsider.com/articles/23/03/28/apple-still-hasnt-fixed-macos-venturas-network-bug?utm_medium=rss)
- - [Build more secure mobile apps leveraging Guardsquare’s AppSweep](https://www.androidauthority.com/build-more-secure-mobile-apps-leveraging-guardsquares-appsweep-3302333/)<!-- TECH:END -->
+ - [Documents and sources: Belgian intelligence puts Huawei&#39;s Brussels lobbying office on its watchlist to determine if it has direct ties to China&#39;s government &lpar;Politico&rpar;](http://www.techmeme.com/230328/p18#a230328p18)
+ - [India smartphone market contracting, but increasing in value because of iPhone](https://appleinsider.com/articles/23/03/28/india-smartphone-market-contracting-but-increasing-in-value-because-of-iphone?utm_medium=rss)
+ - [US prosecutors file a new indictment against SBF, accusing him of directing the transfer of $40M+ of cryptocurrency in bribes to Chinese government officials &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p17#a230328p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
