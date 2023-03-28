@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - ⏩ [OMG, a Meme in it&#39;s Natural Habitat.](http://9gag.com/gag/aKEAZPQ)
- - 👉 [Tell me why!](http://9gag.com/gag/a7qOm9b)<!-- MEMES:END -->
+ - 💣 [2 Cameras and a Doorbell cam and these Amazon drivers still think they slick. Glad we have the cameras otherwise Amazon would be like.. Too bad.](http://9gag.com/gag/aOxe5YM)
+ - ⏩ [Tell me why!](http://9gag.com/gag/a7qOm9b)
+ - 👉 [It&#39;s just a prank bro](http://9gag.com/gag/aGEnvj6)<!-- MEMES:END -->
 
 ---
 
