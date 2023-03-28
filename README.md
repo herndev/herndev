@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
- - ⏩ [2 Cameras and a Doorbell cam and these Amazon drivers still think they slick. Glad we have the cameras otherwise Amazon would be like.. Too bad.](http://9gag.com/gag/aOxe5YM)
- - 👉 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)<!-- MEMES:END -->
+ - 💣 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
+ - ⏩ [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
+ - 👉 [Poor guy](http://9gag.com/gag/aOxejN2)<!-- MEMES:END -->
 
 ---
 
