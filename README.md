@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 👀 Could Nothing Phone 2 launch soon?](https://www.androidauthority.com/daily-authority-march-28-2023-3302372/)
- - [The UK cancels plans to launch an NFT, proposed in 2022 by Rishi Sunak in a bid to make the UK a crypto hub, and says it will keep the proposal &quot;under review&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230328/p8#a230328p8)
- - [Sam Bankman-Fried&#39;s lawyers and prosecutors agree on new bail terms, including giving SBF a phone without internet and a monitored laptop with limited functions &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p7#a230328p7)<!-- TECH:END -->
+ - [Twitter wants you to pay if you want to be seen and heard on the platform](https://www.androidauthority.com/twitter-blue-polls-for-you-paid-3302680/)
+ - [Maono WM821 review: Affordable wireless mic system with accessories](https://appleinsider.com/articles/23/03/28/maono-wm821-review-affordable-wireless-mic-system-with-accessories?utm_medium=rss)
+ - [Alibaba plans to reorganize its businesses into six independent entities and devolve operational decisions to each unit&#39;s CEO, in its biggest restructuring ever &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/230328/p11#a230328p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
