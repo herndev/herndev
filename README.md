@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - ⏩ [Poor guy](http://9gag.com/gag/aOxejN2)
- - 👉 [Why Russia should get Chinese soldier accoring to CCP](http://9gag.com/gag/a3Z5ze5)<!-- MEMES:END -->
+ - ⏩ [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 👉 [Take your time.](http://9gag.com/gag/a8q6QR3)<!-- MEMES:END -->
 
 ---
 
