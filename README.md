@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter wants you to pay if you want to be seen and heard on the platform](https://www.androidauthority.com/twitter-blue-polls-for-you-paid-3302680/)
- - [Maono WM821 review: Affordable wireless mic system with accessories](https://appleinsider.com/articles/23/03/28/maono-wm821-review-affordable-wireless-mic-system-with-accessories?utm_medium=rss)
- - [Alibaba plans to reorganize its businesses into six independent entities and devolve operational decisions to each unit&#39;s CEO, in its biggest restructuring ever &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/230328/p11#a230328p11)<!-- TECH:END -->
+ - [Apple Music Classical&#39;s best feature is lost on Apple&#39;s headphones](https://appleinsider.com/articles/23/03/28/apple-classicals-best-feature-is-lost-on-apples-headphones?utm_medium=rss)
+ - [Vivo could soon launch a Samsung Galaxy Z Flip 4-style foldable](https://www.androidauthority.com/vivo-x-flip-3303605/)
+ - [Jessica Chastain to star as &#39;The Savant&#39; in Apple TV+ thriller](https://appleinsider.com/articles/23/03/28/jessica-chastain-to-star-as-the-savant-in-apple-tv-thriller?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
