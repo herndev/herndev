@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - ⏩ [The way this was handled](http://9gag.com/gag/aXnMdvD)
- - 👉 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
+ - 💣 [Why Russia should get Chinese soldier accoring to CCP](http://9gag.com/gag/a3Z5ze5)
+ - ⏩ [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 👉 [Look at me !!](http://9gag.com/gag/aPgmdpB)<!-- MEMES:END -->
 
 ---
 
