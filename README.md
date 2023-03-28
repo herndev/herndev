@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Meta plans to reduce the bonus multiplier from 85% to 65% and restricted stock awards for staff who &quot;met most expectations&quot; in the 2023 year-end review &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230328/p4#a230328p4)
- - [Sources: Huobi prompts new Chinese users to apply for a Dominican digital citizenship, under a partnership with Dominica, to evade China&#39;s crypto restrictions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230328/p3#a230328p3)
- - [The April 2023 security patch might be coming early to some Pixel users](https://www.androidauthority.com/google-pixel-5-april-2023-security-patch-3302652/)<!-- TECH:END -->
+ - [Source: Microsoft-owned GitHub lays off its entire engineering team in India, eliminating 100+ jobs, as part of a ~10% cut announced in February &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230328/p6#a230328p6)
+ - [This Anker Portable Power Station Is Back Down to Its Best Price of 2023     - CNET](https://www.cnet.com/deals/this-anker-portable-power-station-back-down-best-price-187/#ftag=CAD590a51e)
+ - [Europol details how LLMs can be exploited to fuel fraud, cybercrime, and terrorism, and claims people are already using ChatGPT to carry out illegal activities &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/230328/p5#a230328p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
