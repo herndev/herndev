@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)
- - ⏩ [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - 👉 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)<!-- MEMES:END -->
+ - 💣 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - ⏩ [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
+ - 👉 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
 
 ---
 
