@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 👉 [Read it carefully](http://9gag.com/gag/aqeXO4p)<!-- MEMES:END -->
+ - 💣 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)
+ - ⏩ [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - 👉 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)<!-- MEMES:END -->
 
 ---
 
