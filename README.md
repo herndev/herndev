@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Swedish gaming company Embracer, whose growth via frantic dealmaking has raised questions of financial performance, accounting practices, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p1#a230329p1)
  - [Pennsylvania-based NCB Management Services, which purchases debt, says sensitive financial info of 494,969 people was leaked during a cyberattack on the company &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230328/p44#a230328p44)
- - [The UK releases its draft Media Bill that could see Netflix, Disney+, and other US streamers fined up to &amp;pound;250K for breaking harmful material rules under Ofcom &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/230328/p43#a230328p43)
- - [1,000+ people, including CEOs and researchers, sign open letter urging all AI labs to pause training AI systems more powerful than GPT-4 for at least six months &lpar;Future of Life Institute&rpar;](http://www.techmeme.com/230328/p42#a230328p42)<!-- TECH:END -->
+ - [The UK releases its draft Media Bill that could see Netflix, Disney+, and other US streamers fined up to &amp;pound;250K for breaking harmful material rules under Ofcom &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/230328/p43#a230328p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
