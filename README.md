@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2023/03/29/the-spring-sale-comes-to-playstation-store-2/)
- - [Man caught obviously smuggling CPUs under his clothes](https://www.pcgamer.com/man-caught-obviously-smuggling-cpus-under-his-clothes)
- - [Wordle hint and answer #648: Wednesday, March 29](https://www.pcgamer.com/wordle-hint-answer-today-648-march-29)<!-- GAME:END -->
+ - [How to find Blue Medallions in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-blue-medallions)
+ - [Nvidia&#39;s RTX 4060 and 4060 Ti rumoured to launch in May and could struggle even at 1080p](https://www.pcgamer.com/nvidias-rtx-4060-and-4060-ti-rumoured-to-launch-in-may-and-could-struggle-even-at-1080p)
+ - [The Last of Us&#39; PC port is bad, but the bugs are great](https://www.pcgamer.com/the-last-of-us-pc-port-is-bad-but-the-bugs-are-great)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
