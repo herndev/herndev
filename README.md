@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Read it carefully](http://9gag.com/gag/aqeXO4p)
- - ⏩ [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 👉 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
+ - 💣 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
+ - ⏩ [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)
+ - 👉 [Read it carefully](http://9gag.com/gag/aqeXO4p)<!-- MEMES:END -->
 
 ---
 
