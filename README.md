@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - ⏩ [Pokemon TCG in Guangzhou. Every thing is permitted](http://9gag.com/gag/ay23wQq)
- - 👉 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
+ - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - ⏩ [Forget you Morgan](http://9gag.com/gag/aDY6L9d)
+ - 👉 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
 
 ---
 
