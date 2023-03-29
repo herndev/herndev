@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Blue Medallions in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-blue-medallions)
- - [Nvidia&#39;s RTX 4060 and 4060 Ti rumoured to launch in May and could struggle even at 1080p](https://www.pcgamer.com/nvidias-rtx-4060-and-4060-ti-rumoured-to-launch-in-may-and-could-struggle-even-at-1080p)
- - [The Last of Us&#39; PC port is bad, but the bugs are great](https://www.pcgamer.com/the-last-of-us-pc-port-is-bad-but-the-bugs-are-great)<!-- GAME:END -->
+ - [Pushing the envelope: Achieving next-level clouds in Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/03/29/pushing-the-envelope-achieving-next-level-clouds-in-horizon-forbidden-west-burning-shores/)
+ - [John Wick movies are full of action legends — here’s where to watch them next](https://www.polygon.com/what-to-watch/23653675/john-wick-actors-best-movies-donnie-yen-scott-adkins)
+ - [It took the original Resident Evil 4 a year to hit 3 million sales, but the remake has done it in 2 days](https://www.pcgamer.com/it-took-the-original-resident-evil-4-a-year-to-hit-3-million-sales-but-the-remake-has-done-it-in-2-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
