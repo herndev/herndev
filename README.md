@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Rally Adventure is Now Available](https://news.xbox.com/en-us/2023/03/29/forza-horizon-5-rally-adventure-out-now/)
- - [The 9 best Blu-rays of April 2023](https://www.polygon.com/entertainment/23658683/best-bluray-4k-uhd-disc-review-april-2023)
- - [Tony Hawk almost put his name on a &#39;more technically difficult&#39; skating sim before Activision called](https://www.pcgamer.com/tony-hawk-almost-put-his-name-on-a-more-technically-difficult-skating-sim-before-activision-called)<!-- GAME:END -->
+ - [You can try Nexon&#39;s new tactical shooter for free this week](https://www.pcgamer.com/you-can-try-nexons-new-tactical-shooter-for-free-this-week)
+ - [Finally, a game that lets us fight the human menace as goblins](https://www.pcgamer.com/finally-a-game-that-lets-us-fight-the-human-menace-as-goblins)
+ - [Forza Horizon 5 Rally Adventure is Now Available](https://news.xbox.com/en-us/2023/03/29/forza-horizon-5-rally-adventure-out-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
