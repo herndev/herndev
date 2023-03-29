@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Chapter 10: Ballroom to the Depths](https://www.polygon.com/resident-evil-4-remake-guides/23660080/chapter-10-ballroom-depths)
- - [Genndy Tartakovsky’s new steampunk fantasy show has a slick trailer](https://www.polygon.com/2023/3/29/23661872/unicorn-warriors-eternal-trailer-adult-swim-cartoon-network)
- - [The Last Of Us PC Port Has Us In Tears…Over Its Amazing Glitches](https://kotaku.com/last-of-us-pc-port-glitch-iron-galaxy-building-shaders-1850278718)<!-- GAME:END -->
+ - [Forza Horizon 5 Rally Adventure is Now Available](https://news.xbox.com/en-us/2023/03/29/forza-horizon-5-rally-adventure-out-now/)
+ - [The 9 best Blu-rays of April 2023](https://www.polygon.com/entertainment/23658683/best-bluray-4k-uhd-disc-review-april-2023)
+ - [Tony Hawk almost put his name on a &#39;more technically difficult&#39; skating sim before Activision called](https://www.pcgamer.com/tony-hawk-almost-put-his-name-on-a-more-technically-difficult-skating-sim-before-activision-called)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
