@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pokemon TCG in Guangzhou. Every thing is permitted](http://9gag.com/gag/ay23wQq)
- - ⏩ [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
- - 👉 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)<!-- MEMES:END -->
+ - 💣 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - ⏩ [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 👉 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
 
 ---
 
