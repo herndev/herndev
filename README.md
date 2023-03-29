@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 15 Pro chip will keep solid-state buttons alive when power is very low](https://appleinsider.com/articles/23/03/29/iphone-15-pros-solid-state-buttons-may-still-work-when-battery-is-depleted?utm_medium=rss)
- - [Driver that plowed through Hingham Apple Store indicted for murder](https://appleinsider.com/articles/23/03/29/driver-that-plowed-through-hingham-apple-store-indicted-for-murder?utm_medium=rss)
- - [Goldman Sachs research: generative AI could increase annual global GDP by 7% over a 10-year period and expose 300M full-time jobs to automation globally &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/230329/p8#a230329p8)<!-- TECH:END -->
+ - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
+ - [How to Stop Robocalls on an iPhone](https://appleinsider.com/articles/23/03/29/how-to-stop-robocalls-on-an-iphone?utm_medium=rss)
+ - [Wozniak, Musk &amp; more call for &#39;out-of-control&#39; AI development pause](https://appleinsider.com/articles/23/03/29/experts-call-for-pause-on-out-of-control-ai-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
