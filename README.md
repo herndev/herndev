@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pushing the envelope: Achieving next-level clouds in Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/03/29/pushing-the-envelope-achieving-next-level-clouds-in-horizon-forbidden-west-burning-shores/)
- - [John Wick movies are full of action legends — here’s where to watch them next](https://www.polygon.com/what-to-watch/23653675/john-wick-actors-best-movies-donnie-yen-scott-adkins)
- - [It took the original Resident Evil 4 a year to hit 3 million sales, but the remake has done it in 2 days](https://www.pcgamer.com/it-took-the-original-resident-evil-4-a-year-to-hit-3-million-sales-but-the-remake-has-done-it-in-2-days)<!-- GAME:END -->
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [Dead Space&#39;s &#39;New Game Plus&#39; Is A Good Reminder That Being OP Can Be Awesome](https://kotaku.com/dead-space-remake-new-game-plus-difficulty-horror-1850274386)
+ - [GDC Organizers Respond To Reports Women Were Drugged, Assaulted At Off-Site Events](https://kotaku.com/gdc-2023-game-developer-women-assault-drink-1850270538)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
