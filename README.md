@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok, Amazon, and others struggle to adopt China&#39;s livestream ecommerce model in the US, as experts blame differences between US and Chinese consumer behavior &lpar;Tracy Wen Liu/Wired&rpar;](http://www.techmeme.com/230329/p5#a230329p5)
- - [Daily Authority: 🎮 Game over for gaming phones?](https://www.androidauthority.com/daily-authority-march-29-2023-3307114/)
- - [The UK government publishes recommendations for AI and urges regulators to issue practical guidance to organizations on implementing them in their sectors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230329/p4#a230329p4)<!-- TECH:END -->
+ - [Berlin-based Hygraph, which offers a federated digital content management service, raised a $30M Series B led by One Peak, bringing its total funding to $43.7M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230329/p7#a230329p7)
+ - [Poll: Do you care about uniform bezels around the display?](https://www.androidauthority.com/smartphone-display-uniform-bezels-poll-3307159/)
+ - [An Indian appellate tribunal upholds the ~$160M fine imposed on Google by the Competition Commission of India in the Android antitrust case &lpar;Indu Bhan/The Economic Times&rpar;](http://www.techmeme.com/230329/p6#a230329p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
