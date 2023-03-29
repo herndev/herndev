@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
- - [How to Stop Robocalls on an iPhone](https://appleinsider.com/articles/23/03/29/how-to-stop-robocalls-on-an-iphone?utm_medium=rss)
- - [Wozniak, Musk &amp; more call for &#39;out-of-control&#39; AI development pause](https://appleinsider.com/articles/23/03/29/experts-call-for-pause-on-out-of-control-ai-development?utm_medium=rss)<!-- TECH:END -->
+ - [The Best iPad &lpar;2023&rpar;: Which Apple Tablets to Buy or Avoid](https://www.wired.com/gallery/the-best-ipad/)
+ - [Ride Everywhere This Spring With 60% off New E-Bikes and Scooters at Woot     - CNET](https://www.cnet.com/roadshow/news/ride-everywhere-this-spring-with-60-off-new-e-bikes-and-scooters-at-woot/#ftag=CAD590a51e)
+ - [Google plans to roll out extreme heat alerts in Search, including informing users about when to expect a heat wave, being safe, and tips to stay cool &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230329/p11#a230329p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
