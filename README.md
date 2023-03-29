@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Fetch.ai, which uses blockchain technology and is building tools for communication and actions between AI applications, raised $40M from DWF Labs &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230329/p19#a230329p19)
- - [Court records and messages from purported hackers reveal a massive hacking campaign targeting thousands of environmental activists, dating back at least to 2017 &lpar;Christopher M. Matthews/Wall Street ...&rpar;](http://www.techmeme.com/230329/p18#a230329p18)
- - [Watches &amp; Wonders 2023: Rolex Has an Emoji Watch](https://www.wired.com/story/rolex-has-an-emoji-watch-yes-really/)<!-- TECH:END -->
+ - [Paris-based Glopal, which helps e-commerce merchants sell to global customers through localization, logistics, and payments services, raised a &amp;euro;20M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230329/p21#a230329p21)
+ - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)
+ - [Apple&#39;s WWDC Set for June 5     - CNET](https://www.cnet.com/tech/computing/apples-wwdc-set-for-june-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
