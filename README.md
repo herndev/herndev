@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mastodon CEO Eugen Rochko on open-source governance, business models, rejecting VC firms, running an instance, ActivityPub, content moderation, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230329/p15#a230329p15)
- - [Beats by Dre is launching a &#39;Girls Don&#39;t Cry&#39; edition of Beats Flex](https://appleinsider.com/articles/23/03/29/beats-by-dre-is-launching-a-girls-dont-cry-edition-of-beats-flex?utm_medium=rss)
- - [Sources: Sam Bankman-Fried is paying his legal fees from a $10M+ gift he gave his father with money borrowed from Alameda &lpar;Forbes&rpar;](http://www.techmeme.com/230329/p14#a230329p14)<!-- TECH:END -->
+ - [UK-based Fetch.ai, which uses blockchain technology and is building tools for communication and actions between AI applications, raised $40M from DWF Labs &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230329/p19#a230329p19)
+ - [Court records and messages from purported hackers reveal a massive hacking campaign targeting thousands of environmental activists, dating back at least to 2017 &lpar;Christopher M. Matthews/Wall Street ...&rpar;](http://www.techmeme.com/230329/p18#a230329p18)
+ - [Watches &amp; Wonders 2023: Rolex Has an Emoji Watch](https://www.wired.com/story/rolex-has-an-emoji-watch-yes-really/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
