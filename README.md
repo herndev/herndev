@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I miss these 3 infantile pillocks](http://9gag.com/gag/a8q6R6p)
- - ⏩ [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 👉 [Zero f**ks given](http://9gag.com/gag/arm3066)<!-- MEMES:END -->
+ - 💣 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
+ - ⏩ [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
+ - 👉 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)<!-- MEMES:END -->
 
 ---
 
