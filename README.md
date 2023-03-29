@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - ⏩ [Keanu Reeves gave each member of his stunt team customized Rolexes to celebrate the completion of &#39;John Wick 4&#39;](http://9gag.com/gag/ago1DE6)
- - 👉 [No regret](http://9gag.com/gag/ago1W5n)<!-- MEMES:END -->
+ - 💣 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
+ - ⏩ [What](http://9gag.com/gag/aYVE502)
+ - 👉 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
 
 ---
 
