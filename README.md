@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: iPads from $125, $900 off MacBook Pro, $400 off Studio Display, AirTag sale &amp; more](https://appleinsider.com/articles/23/03/29/deals-ipads-from-125-900-off-macbook-pro-400-off-studio-display-airtag-sale-more?utm_medium=rss)
- - [High durability lets iPhones &amp; Androids maintain their value](https://appleinsider.com/articles/23/03/29/high-durability-lets-iphones-androids-maintain-their-value?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-29-2023-3301567/)<!-- TECH:END -->
+ - [Q&amp;A with Mastodon CEO Eugen Rochko on open-source governance, business models, rejecting VC firms, running an instance, ActivityPub, content moderation, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230329/p15#a230329p15)
+ - [Beats by Dre is launching a &#39;Girls Don&#39;t Cry&#39; edition of Beats Flex](https://appleinsider.com/articles/23/03/29/beats-by-dre-is-launching-a-girls-dont-cry-edition-of-beats-flex?utm_medium=rss)
+ - [Sources: Sam Bankman-Fried is paying his legal fees from a $10M+ gift he gave his father with money borrowed from Alameda &lpar;Forbes&rpar;](http://www.techmeme.com/230329/p14#a230329p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
