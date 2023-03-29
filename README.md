@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Spring Sale comes to PlayStation Store](https://blog.playstation.com/2023/03/29/the-spring-sale-comes-to-playstation-store-2/)
  - [Man caught obviously smuggling CPUs under his clothes](https://www.pcgamer.com/man-caught-obviously-smuggling-cpus-under-his-clothes)
- - [Wordle hint and answer #648: Wednesday, March 29](https://www.pcgamer.com/wordle-hint-answer-today-648-march-29)
- - [The Last Of Us Part 1&#39;s PC Port Isn&#39;t In Great Shape](https://kotaku.com/the-last-of-us-pc-port-steam-performance-reviews-ps5-1850276276)<!-- GAME:END -->
+ - [Wordle hint and answer #648: Wednesday, March 29](https://www.pcgamer.com/wordle-hint-answer-today-648-march-29)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
