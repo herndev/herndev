@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Hygraph, which offers a federated digital content management service, raised a $30M Series B led by One Peak, bringing its total funding to $43.7M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230329/p7#a230329p7)
- - [Poll: Do you care about uniform bezels around the display?](https://www.androidauthority.com/smartphone-display-uniform-bezels-poll-3307159/)
- - [An Indian appellate tribunal upholds the ~$160M fine imposed on Google by the Competition Commission of India in the Android antitrust case &lpar;Indu Bhan/The Economic Times&rpar;](http://www.techmeme.com/230329/p6#a230329p6)<!-- TECH:END -->
+ - [New iPhone 15 Pro chip will keep solid-state buttons alive when power is very low](https://appleinsider.com/articles/23/03/29/iphone-15-pros-solid-state-buttons-may-still-work-when-battery-is-depleted?utm_medium=rss)
+ - [Driver that plowed through Hingham Apple Store indicted for murder](https://appleinsider.com/articles/23/03/29/driver-that-plowed-through-hingham-apple-store-indicted-for-murder?utm_medium=rss)
+ - [Goldman Sachs research: generative AI could increase annual global GDP by 7% over a 10-year period and expose 300M full-time jobs to automation globally &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/230329/p8#a230329p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
