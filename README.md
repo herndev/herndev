@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Man caught obviously smuggling CPUs under his clothes](https://www.pcgamer.com/man-caught-obviously-smuggling-cpus-under-his-clothes)
  - [Wordle hint and answer #648: Wednesday, March 29](https://www.pcgamer.com/wordle-hint-answer-today-648-march-29)
- - [The Last Of Us Part 1&#39;s PC Port Isn&#39;t In Great Shape](https://kotaku.com/the-last-of-us-pc-port-steam-performance-reviews-ps5-1850276276)
- - [Add The Last of Us Part 1 to the list of bad PC ports](https://www.pcgamer.com/add-the-last-of-us-part-1-to-the-list-of-bad-pc-ports)<!-- GAME:END -->
+ - [The Last Of Us Part 1&#39;s PC Port Isn&#39;t In Great Shape](https://kotaku.com/the-last-of-us-pc-port-steam-performance-reviews-ps5-1850276276)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
