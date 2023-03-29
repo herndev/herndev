@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FDIC tells Signature&#39;s crypto clients that they have until April 5 to close their accounts, as Flagstar&#39;s bid excluded ~$4B in Signature&#39;s crypto deposits &lpar;Bloomberg&rpar;](http://www.techmeme.com/230328/p41#a230328p41)
- - [How two former hosts on Russian state TV became key advisers to the Salvadoran government&#39;s adoption of bitcoin while having crypto investments in the country &lpar;Santiago P&amp;eacute;rez/Wall Street Journal&rpar;](http://www.techmeme.com/230328/p40#a230328p40)
- - [Union accuses Apple of firing workers in retaliation for organizing](https://www.theverge.com/2023/3/28/23660480/apple-cwa-fired-workers-allegations-unionization)<!-- TECH:END -->
+ - [The UK releases its draft Media Bill that could see Netflix, Disney+, and other US streamers fined up to &amp;pound;250K for breaking harmful material rules under Ofcom &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/230328/p43#a230328p43)
+ - [1,000+ people, including CEOs and researchers, sign open letter urging all AI labs to pause training AI systems more powerful than GPT-4 for at least six months &lpar;Future of Life Institute&rpar;](http://www.techmeme.com/230328/p42#a230328p42)
+ - [The FDIC tells Signature&#39;s crypto clients that they have until April 5 to close their accounts, as Flagstar&#39;s bid excluded ~$4B in Signature&#39;s crypto deposits &lpar;Bloomberg&rpar;](http://www.techmeme.com/230328/p41#a230328p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
