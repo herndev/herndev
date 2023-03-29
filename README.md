@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - ⏩ [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
- - 👉 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
+ - 💣 [I miss these 3 infantile pillocks](http://9gag.com/gag/a8q6R6p)
+ - ⏩ [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - 👉 [Zero f**ks given](http://9gag.com/gag/arm3066)<!-- MEMES:END -->
 
 ---
 
