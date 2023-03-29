@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
- - ⏩ [What](http://9gag.com/gag/aYVE502)
- - 👉 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
+ - 💣 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)
+ - ⏩ [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
+ - 👉 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
 
 ---
 
