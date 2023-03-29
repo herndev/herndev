@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - ⏩ [Forget you Morgan](http://9gag.com/gag/aDY6L9d)
- - 👉 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
+ - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 👉 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
 
 ---
 
