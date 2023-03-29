@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPad &lpar;2023&rpar;: Which Apple Tablets to Buy or Avoid](https://www.wired.com/gallery/the-best-ipad/)
- - [Ride Everywhere This Spring With 60% off New E-Bikes and Scooters at Woot     - CNET](https://www.cnet.com/roadshow/news/ride-everywhere-this-spring-with-60-off-new-e-bikes-and-scooters-at-woot/#ftag=CAD590a51e)
- - [Google plans to roll out extreme heat alerts in Search, including informing users about when to expect a heat wave, being safe, and tips to stay cool &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230329/p11#a230329p11)<!-- TECH:END -->
+ - [Deals: iPads from $125, $900 off MacBook Pro, $400 off Studio Display, AirTag sale &amp; more](https://appleinsider.com/articles/23/03/29/deals-ipads-from-125-900-off-macbook-pro-400-off-studio-display-airtag-sale-more?utm_medium=rss)
+ - [High durability lets iPhones &amp; Androids maintain their value](https://appleinsider.com/articles/23/03/29/high-durability-lets-iphones-androids-maintain-their-value?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Mar. 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-29-2023-3301567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
