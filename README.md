@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Glopal, which helps e-commerce merchants sell to global customers through localization, logistics, and payments services, raised a &amp;euro;20M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230329/p21#a230329p21)
- - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)
- - [Apple&#39;s WWDC Set for June 5     - CNET](https://www.cnet.com/tech/computing/apples-wwdc-set-for-june-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile customers can now use Alexa to make hands-free calls](https://www.androidauthority.com/alexa-hands-free-calling-3307338/)
+ - [11 Foods That Are negatively Hurting Your Health     - CNET](https://www.cnet.com/health/nutrition/11-foods-that-are-negatively-hurting-your-health/#ftag=CAD590a51e)
+ - [Prusa MK4 3D Printer, Out Now, Follows Up Best in the Business     - CNET](https://www.cnet.com/tech/computing/prusa-mk4-3d-printer-out-now-follows-up-best-in-the-business/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
