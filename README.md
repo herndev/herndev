@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Science](http://9gag.com/gag/aOxe5jy)
- - ⏩ [Science fiction](http://9gag.com/gag/aL1z5YM)
- - 👉 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)<!-- MEMES:END -->
+ - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - ⏩ [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)
+ - 👉 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)<!-- MEMES:END -->
 
 ---
 
