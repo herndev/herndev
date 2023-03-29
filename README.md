@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Congress Finds Time To Yell At Sony On Microsoft&#39;s Behalf](https://kotaku.com/congress-sony-playstation-microsoft-xbox-acquisition-1850280353)
- - [A Letter To The Fortnite Weirdos Who Play Past Midnight](https://kotaku.com/fortnite-dance-emotes-rare-battle-royale-friends-1850280172)
- - [Resident Evil 4 Vets Are Trolling Rookies, Telling Them To &#39;Shoot The Lake&#39;](https://kotaku.com/re4-resident-evil-4-remake-tiktok-shoot-the-lake-puzzle-1850280117)<!-- GAME:END -->
+ - [Tekken 8 Has Special Character Intros For Lore Nerds](https://kotaku.com/tekken-8-special-character-intros-jin-kazama-kazuya-1850280673)
+ - [Electronic Arts lays off hundreds of workers despite strong profits](https://www.polygon.com/23662246/electronic-arts-layoffs-800-workers-quarterly-earnings)
+ - [Electronic Arts is laying off 6% of its workforce](https://www.pcgamer.com/electronic-arts-is-laying-off-6-of-its-workforce)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
