@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [Dead Space&#39;s &#39;New Game Plus&#39; Is A Good Reminder That Being OP Can Be Awesome](https://kotaku.com/dead-space-remake-new-game-plus-difficulty-horror-1850274386)
- - [GDC Organizers Respond To Reports Women Were Drugged, Assaulted At Off-Site Events](https://kotaku.com/gdc-2023-game-developer-women-assault-drink-1850270538)<!-- GAME:END -->
+ - [Expanding Metal: Hellsinger’s Legendary Lineup in the Dream of the Beast DLC!](https://news.xbox.com/en-us/2023/03/29/metal-hellsingers-dream-of-the-beast-dlc/)
+ - [The writer that revolutionized the X-Men is tackling Marvel’s gods next](https://www.polygon.com/23661676/marvel-comics-gods-hickman-x-men)
+ - [Here’s What $30M Of Funko Pops Going To The Landfill Actually Looks Like](https://kotaku.com/funko-pop-harry-potter-disney-mandalorian-landfill-1850278083)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
