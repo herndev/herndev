@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Has A Couple Of Hidden Gems For April](https://kotaku.com/playstation-ps-plus-april-sackboy-ps5-free-games-1850279806)
- - [10 movies that prove WWE stars can be movie stars too](https://www.polygon.com/what-to-watch/23270454/best-wwe-actors-wrestlers-movies-dwayne-the-rock-johnson-dave-bautista-hulk-hogan)
- - [11 Battle Royale Players You&#39;ll Always Match With &lpar;Or Die To&rpar;](https://kotaku.com/battle-royale-fortnite-player-stereotype-loot-goblin-1850279382)<!-- GAME:END -->
+ - [Congress Finds Time To Yell At Sony On Microsoft&#39;s Behalf](https://kotaku.com/congress-sony-playstation-microsoft-xbox-acquisition-1850280353)
+ - [A Letter To The Fortnite Weirdos Who Play Past Midnight](https://kotaku.com/fortnite-dance-emotes-rare-battle-royale-friends-1850280172)
+ - [Resident Evil 4 Vets Are Trolling Rookies, Telling Them To &#39;Shoot The Lake&#39;](https://kotaku.com/re4-resident-evil-4-remake-tiktok-shoot-the-lake-puzzle-1850280117)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
