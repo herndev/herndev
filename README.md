@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based LeapXpert, which monitors staff business chats via apps like WhatsApp, WeChat, and iMessage for compliance, raised a $22M Series A+ led by Rockefeller &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230329/p26#a230329p26)
- - [EA plans to lay off ~6% of its workforce and cut its office space, incurring $170M to $200M in restructuring charges; EA had nearly 13,000 employees in mid-2022 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p25#a230329p25)
- - [Best Google Pixel Deals: Up to $1,000 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google launches an Ads Transparency Center, showing all the ads from verified advertisers on its platforms, in the formats, the regions, and the dates they ran &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230329/p28#a230329p28)
+ - [Apple Pay network experiencing intermittent outage](https://appleinsider.com/articles/23/03/29/apple-pay-network-experiencing-intermittent-outage?utm_medium=rss)
+ - [How NetEase and Activision&#39;s 14-year partnership fell apart, in part due to China&#39;s tech crackdown, as filings show the deal was worth ~$750M in annual revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230329/p27#a230329p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
