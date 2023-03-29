@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I had a stronk](http://9gag.com/gag/a2KwnRD)
- - ⏩ [No regret](http://9gag.com/gag/ago1W5n)
- - 👉 [Keanu Reeves gave each member of his stunt team customized Rolexes to celebrate the completion of &#39;John Wick 4&#39;](http://9gag.com/gag/ago1DE6)<!-- MEMES:END -->
+ - 💣 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - ⏩ [Keanu Reeves gave each member of his stunt team customized Rolexes to celebrate the completion of &#39;John Wick 4&#39;](http://9gag.com/gag/ago1DE6)
+ - 👉 [No regret](http://9gag.com/gag/ago1W5n)<!-- MEMES:END -->
 
 ---
 
