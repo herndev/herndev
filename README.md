@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q2 revenue of $3.69B, vs. $3.71B est., down from $7.79B YoY, and a record net loss of $2.31B due to an inventory write-down of $1.43B &lpar;Jeremy C. Owens/MarketWatch&rpar;](http://www.techmeme.com/230328/p39#a230328p39)
- - [Apple Gangnam launching with K-pop Pop-Up Studio experience](https://appleinsider.com/articles/23/03/28/apple-gangnam-launching-with-k-pop-pop-up-studio-experience?utm_medium=rss)
- - [Generative AI Could Impact 300M Jobs, Goldman Sachs Predicts     - CNET](https://www.cnet.com/tech/generative-ai-could-impact-300m-jobs-goldman-sachs-predicts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How two former hosts on Russian state TV became key advisers to the Salvadoran government&#39;s adoption of bitcoin while having crypto investments in the country &lpar;Santiago P&amp;eacute;rez/Wall Street Journal&rpar;](http://www.techmeme.com/230328/p40#a230328p40)
+ - [Union accuses Apple of firing workers in retaliation for organizing](https://www.theverge.com/2023/3/28/23660480/apple-cwa-fired-workers-allegations-unionization)
+ - [The ugly economics behind Apple’s new Pay Later system](https://www.theverge.com/2022/6/8/23157184/ugly-economics-behind-apple-buy-now-pay-later-system-bnpl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
