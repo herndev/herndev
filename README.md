@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Gemini is preparing to launch an international crypto derivatives exchange to offer perpetual futures, which have been off-limits to US retail traders &lpar;The Information&rpar;](http://www.techmeme.com/230329/p24#a230329p24)
- - [As Microsoft, Meta, Google, Amazon, Twitter, and others cut their responsible AI teams, experts worry about issues like potential abuses and hallucination &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p23#a230329p23)
- - [March Madness 2023: How to Watch and Stream the Women&#39;s Final Four     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-how-to-watch-and-stream-the-womens-final-four/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based LeapXpert, which monitors staff business chats via apps like WhatsApp, WeChat, and iMessage for compliance, raised a $22M Series A+ led by Rockefeller &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230329/p26#a230329p26)
+ - [EA plans to lay off ~6% of its workforce and cut its office space, incurring $170M to $200M in restructuring charges; EA had nearly 13,000 employees in mid-2022 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p25#a230329p25)
+ - [Best Google Pixel Deals: Up to $1,000 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
