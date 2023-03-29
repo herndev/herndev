@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
- - ⏩ [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
- - 👉 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)<!-- MEMES:END -->
+ - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 👉 [Read it carefully](http://9gag.com/gag/aqeXO4p)<!-- MEMES:END -->
 
 ---
 
