@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile customers can now use Alexa to make hands-free calls](https://www.androidauthority.com/alexa-hands-free-calling-3307338/)
- - [11 Foods That Are negatively Hurting Your Health     - CNET](https://www.cnet.com/health/nutrition/11-foods-that-are-negatively-hurting-your-health/#ftag=CAD590a51e)
- - [Prusa MK4 3D Printer, Out Now, Follows Up Best in the Business     - CNET](https://www.cnet.com/tech/computing/prusa-mk4-3d-printer-out-now-follows-up-best-in-the-business/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Gemini is preparing to launch an international crypto derivatives exchange to offer perpetual futures, which have been off-limits to US retail traders &lpar;The Information&rpar;](http://www.techmeme.com/230329/p24#a230329p24)
+ - [As Microsoft, Meta, Google, Amazon, Twitter, and others cut their responsible AI teams, experts worry about issues like potential abuses and hallucination &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p23#a230329p23)
+ - [March Madness 2023: How to Watch and Stream the Women&#39;s Final Four     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-how-to-watch-and-stream-the-womens-final-four/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
