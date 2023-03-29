@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expanding Metal: Hellsinger’s Legendary Lineup in the Dream of the Beast DLC!](https://news.xbox.com/en-us/2023/03/29/metal-hellsingers-dream-of-the-beast-dlc/)
- - [The writer that revolutionized the X-Men is tackling Marvel’s gods next](https://www.polygon.com/23661676/marvel-comics-gods-hickman-x-men)
- - [Here’s What $30M Of Funko Pops Going To The Landfill Actually Looks Like](https://kotaku.com/funko-pop-harry-potter-disney-mandalorian-landfill-1850278083)<!-- GAME:END -->
+ - [Resident Evil 4 Chapter 10: Ballroom to the Depths](https://www.polygon.com/resident-evil-4-remake-guides/23660080/chapter-10-ballroom-depths)
+ - [Genndy Tartakovsky’s new steampunk fantasy show has a slick trailer](https://www.polygon.com/2023/3/29/23661872/unicorn-warriors-eternal-trailer-adult-swim-cartoon-network)
+ - [The Last Of Us PC Port Has Us In Tears…Over Its Amazing Glitches](https://kotaku.com/last-of-us-pc-port-glitch-iron-galaxy-building-shaders-1850278718)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
