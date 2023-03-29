@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - ⏩ [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
- - 👉 [Read it carefully](http://9gag.com/gag/aqeXO4p)<!-- MEMES:END -->
+ - 💣 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - ⏩ [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
+ - 👉 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
 
 ---
 
