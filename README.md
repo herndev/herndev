@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
- - ⏩ [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)
- - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/a6qXR28)
+ - ⏩ [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 👉 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 ---
 
