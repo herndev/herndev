@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Threat Analysis Group details two limited but highly targeted spyware campaigns using several zero-day exploits against Android, iOS, and Chrome &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230330/p3#a230330p3)
- - [Nokia plans to launch 4G services on the moon this year](https://www.androidauthority.com/nokia-4g-on-the-moon-3307546/)
- - [Google accused of ripping off OpenAI’s ChatGPT](https://www.androidauthority.com/google-bard-chatgpt-sharegpt-training-3307537/)<!-- TECH:END -->
+ - [Crypto exchange OKX says its has identified $157M in digital assets belonging to FTX and Alameda Research, and is turning them over to the bankruptcy estate &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230330/p5#a230330p5)
+ - [Alibaba says it may cede control of some businesses if they opt to list after its overhaul and plans to monetize non-core assets to improve capital structure &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p4#a230330p4)
+ - [Porn ID Laws: Your State or Country May Soon Require Age Verification](https://www.wired.com/story/porn-age-checks-id-laws/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
