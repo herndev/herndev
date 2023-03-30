@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: PhonePe, one of India&#39;s largest fintech services, has called off plans to acquire BNPL service ZestMoney for $200M to $300M, over due diligence concerns &lpar;Livemint&rpar;](http://www.techmeme.com/230330/p11#a230330p11)
- - [MacBook Air refresh in 2024 or 2025 rumored to get OLED screen](https://appleinsider.com/articles/23/03/30/macbook-air-refresh-in-2024-or-2025-rumored-to-get-oled-screen?utm_medium=rss)
- - [Clearer pictures of rumored Apple AR headet cable emerge](https://appleinsider.com/articles/23/03/30/clearer-pictures-of-rumored-apple-ar-headet-cable-emerge?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Vinod Khosla on how AI will &quot;free humanity from the need to work&quot;, seeing the AI future early, OpenAI investment, AI and geopolitics, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230330/p14#a230330p14)
+ - [Apple wants to track every user movement for health, AR, and more](https://appleinsider.com/articles/23/03/30/apple-wants-to-track-every-user-movement-for-health-ar-and-more?utm_medium=rss)
+ - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
