@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&#39;s cheapest plan is now available on Apple TV](https://appleinsider.com/articles/23/03/30/netflixs-cheapest-plan-is-now-available-on-apple-tv?utm_medium=rss)
- - [Deals: AirPods Max $479, iMacs from $899, $150 off M2 MacBook Pro &amp; more](https://appleinsider.com/articles/23/03/30/deals-airpods-max-479-imacs-from-899-150-off-m2-macbook-pro-more?utm_medium=rss)
- - [TSMC may not expand in US if double taxation rule continues](https://appleinsider.com/articles/23/03/30/tsmc-may-not-expand-in-us-if-double-taxation-rule-continues?utm_medium=rss)<!-- TECH:END -->
+ - [iPad is a beacon of light in India&#39;s contracting PC market](https://appleinsider.com/articles/23/03/30/ipad-is-a-beacon-of-light-in-indias-contracting-pc-market?utm_medium=rss)
+ - [Midjourney halts free trials, citing &quot;extraordinary demand&quot; and &quot;abuse&quot;, after fake images of Trump getting arrested and Pope Francis wearing a coat went viral &lpar;Washington Post&rpar;](http://www.techmeme.com/230330/p18#a230330p18)
+ - [DataDome, which provides bot protection services for apps, websites, and APIs, raised a $42M Series C led by InfraVia Growth, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230330/p17#a230330p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
