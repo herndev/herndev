@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just leave me one !!!](http://9gag.com/gag/ajV1obG)
- - ⏩ [Whoah why is me?](http://9gag.com/gag/amA1ee6)
- - 👉 [Didn&#39;t knew that she voiced th\u0435 droids](http://9gag.com/gag/aXnMDXd)<!-- MEMES:END -->
+ - 💣 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)
+ - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 👉 [Morena Baccarin](http://9gag.com/gag/aRE4dQq)<!-- MEMES:END -->
 
 ---
 
