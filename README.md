@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 will make PIN peeping difficult with this simple change](https://www.androidauthority.com/android-14-hide-pin-animation-3307608/)
- - [SEC Chair Gary Gensler says existing securities law covers most of what is happening in the crypto markets and any additional legislation is unnecessary &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230330/p6#a230330p6)
- - [Apple sends out WWDC invites, hints at Mixed Reality headset launch](https://www.androidauthority.com/apple-wwdc-2023-mixed-reality-headset-launch-3307576/)<!-- TECH:END -->
+ - [Berlin-based Parloa, which uses AI and low-code tools to automate call center operations, raised a &amp;euro;20M Series A led by EQT Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230330/p7#a230330p7)
+ - [Daily Authority: 💻 Microsoft’s modular Windows](https://www.androidauthority.com/daily-authority-march-30-2023-3307545/)
+ - [Android 14 will make PIN peeping difficult with this simple change](https://www.androidauthority.com/android-14-hide-pin-animation-3307608/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
