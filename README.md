@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)
- - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 👉 [Morena Baccarin](http://9gag.com/gag/aRE4dQq)<!-- MEMES:END -->
+ - 💣 [No regret](http://9gag.com/gag/ago1W5n)
+ - ⏩ [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
+ - 👉 [Exposed](http://9gag.com/gag/aEq6Lzx)<!-- MEMES:END -->
 
 ---
 
