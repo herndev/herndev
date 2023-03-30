@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [E3 2023 is cancelled](https://www.pcgamer.com/e3-2023-is-cancelled)
- - [E3 2023 has been canceled, report says](https://www.polygon.com/23661641/e3-2023-canceled)
- - [Report: E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)<!-- GAME:END -->
+ - [E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)
+ - [Cyberpunk 2077 devs announce that they&#39;ll announce something about Phantom Liberty in June](https://www.pcgamer.com/cyberpunk-2077-devs-announce-that-theyll-announce-something-about-phantom-liberty-in-june)
+ - [Watch this absolute maniac solo Destiny 2&#39;s latest raid boss and then lose his mind](https://www.pcgamer.com/watch-this-absolute-maniac-solo-destiny-2s-latest-raid-boss-and-then-lose-his-mind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
