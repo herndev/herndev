@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LOL! The reviews are day and night.](http://9gag.com/gag/a7qOY5w)
- - ⏩ [Soda cans sold in supermarkets in Saudi Arabia come wrapped with aluminum foil on top to keep the sipping area clean.](http://9gag.com/gag/amA1jpj)
- - 👉 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
+ - 💣 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
+ - ⏩ [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)
+ - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
 
 ---
 
