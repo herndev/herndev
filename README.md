@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: ESA cancels E3 2023, after Microsoft, Nintendo, Sony, and Ubisoft announced they would not be attending the event originally scheduled for June &lpar;The Verge&rpar;](http://www.techmeme.com/230330/p31#a230330p31)
- - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [12 Best Deals: Phones, Headphones, and Video Games](https://www.wired.com/story/midweek-deals-phones-headphones-games-march-2023/)<!-- TECH:END -->
+ - [Trump’s Indictment Marks a Historic Reckoning](https://www.wired.com/story/trump-indictment-historical-reckoning/)
+ - [Microsoft fixed an Azure vulnerability after researchers found it could have let anyone alter Bing search results and breach Office 365 accounts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230330/p33#a230330p33)
+ - [ESA cancels E3 2023, after Microsoft, Nintendo, Sony, and Ubisoft announced they would not attend the event originally scheduled for June 13 to June 16 &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/230330/p32#a230330p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
