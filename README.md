@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synopsys says it is launching the first full-stack AI-powered EDA suite covering all stages of chip design, including architecture, design, and manufacturing &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230330/p27#a230330p27)
- - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)
- - [Audible is &quot;conducting limited testing&quot; of ads in audiobooks with non-members getting &quot;ad-supported access to a limited set of Audible titles&quot; &lpar;Alyssa Meyers/Marketing Brew&rpar;](http://www.techmeme.com/230330/p26#a230330p26)<!-- TECH:END -->
+ - [Apple wins a US appeal to uphold a patent tribunal&#39;s ruling over two of VirnetX&#39;s VPN patents, invalidating a $502.8M patent infringement verdict from 2020 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230330/p29#a230330p29)
+ - [Some signatories of the open letter to pause AI training walk back their positions, others turned out to be fake, and many experts disagree with its proposal &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230330/p28#a230330p28)
+ - [Apple wins VirnetX patent appeal -- but one verdict awaits](https://appleinsider.com/articles/23/03/30/apple-wins-virnetx-patent-appeal----but-one-verdict-awaits?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
