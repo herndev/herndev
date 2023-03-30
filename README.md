@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sends out WWDC invites, hints at Mixed Reality headset launch](https://www.androidauthority.com/apple-wwdc-2023-mixed-reality-headset-launch-3307576/)
- - [Windows 12 might take a page out of Android’s update playbook](https://www.androidauthority.com/windows-12-android-updates-3307569/)
- - [Samsung Galaxy S23 series gets massive camera update](https://www.androidauthority.com/samsung-galaxy-s23-march-2023-camera-update-3307571/)<!-- TECH:END -->
+ - [Android 14 will make PIN peeping difficult with this simple change](https://www.androidauthority.com/android-14-hide-pin-animation-3307608/)
+ - [SEC Chair Gary Gensler says existing securities law covers most of what is happening in the crypto markets and any additional legislation is unnecessary &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230330/p6#a230330p6)
+ - [Apple sends out WWDC invites, hints at Mixed Reality headset launch](https://www.androidauthority.com/apple-wwdc-2023-mixed-reality-headset-launch-3307576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
