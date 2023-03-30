@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WeMeta: the median price per square meter of land in Decentraland has dropped from ~$45 in 2022 to $5 in 2023, as the hype around the metaverse has receded &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p29#a230329p29)
- - [Apple Pay network experienced intermittent outage](https://appleinsider.com/articles/23/03/29/apple-pay-network-experiencing-intermittent-outage?utm_medium=rss)
- - [Google launches an Ads Transparency Center, showing all the ads from verified advertisers on its platforms, in the formats, the regions, and the dates they ran &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230329/p28#a230329p28)<!-- TECH:END -->
+ - [Lost Apple Watch spends a night in the ocean, found in working condition](https://appleinsider.com/articles/23/03/29/lost-apple-watch-spends-a-night-in-the-ocean-found-in-working-condition?utm_medium=rss)
+ - [ChatGPT vs Google Bard: What’s the difference and which one to use?](https://www.androidauthority.com/chatgpt-vs-google-bard-3307464/)
+ - [A Manhunt in India Left 27 Million People Without Mobile Internet](https://www.wired.com/story/sandhu-manhunt-india-twitter-internet-blackout/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
