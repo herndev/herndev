@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange OKX says its has identified $157M in digital assets belonging to FTX and Alameda Research, and is turning them over to the bankruptcy estate &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230330/p5#a230330p5)
- - [Alibaba says it may cede control of some businesses if they opt to list after its overhaul and plans to monetize non-core assets to improve capital structure &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p4#a230330p4)
- - [Porn ID Laws: Your State or Country May Soon Require Age Verification](https://www.wired.com/story/porn-age-checks-id-laws/)<!-- TECH:END -->
+ - [Apple sends out WWDC invites, hints at Mixed Reality headset launch](https://www.androidauthority.com/apple-wwdc-2023-mixed-reality-headset-launch-3307576/)
+ - [Windows 12 might take a page out of Android’s update playbook](https://www.androidauthority.com/windows-12-android-updates-3307569/)
+ - [Samsung Galaxy S23 series gets massive camera update](https://www.androidauthority.com/samsung-galaxy-s23-march-2023-camera-update-3307571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
