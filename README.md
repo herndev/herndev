@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Parloa, which uses AI and low-code tools to automate call center operations, raised a &amp;euro;20M Series A led by EQT Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230330/p7#a230330p7)
- - [Daily Authority: 💻 Microsoft’s modular Windows](https://www.androidauthority.com/daily-authority-march-30-2023-3307545/)
- - [Android 14 will make PIN peeping difficult with this simple change](https://www.androidauthority.com/android-14-hide-pin-animation-3307608/)<!-- TECH:END -->
+ - [Sources: Meta plans to let Facebook and Instagram users in Europe opt out of certain highly personalized ads to limit the impact of an EU privacy order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230330/p9#a230330p9)
+ - [FreedomGPT, a chatbot from Austin VC firm Age of AI, is free of ChatGPT&#39;s safety filters and ethical guardrails, and praises Hitler, uses the N-word, and more &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/230330/p8#a230330p8)
+ - [The Unbelievable Zombie Comeback of Analog Computing](https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
