@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked documents from Moscow-based company NTC Vulkan show how it helps GRU, FSB, and SVR with hacking operations, attacks on national infrastructure, and more &lpar;The Guardian&rpar;](http://www.techmeme.com/230330/p21#a230330p21)
- - [Apple delays mixed-reality headset, worried it can’t recreate “iPhone moment”](https://www.androidauthority.com/apple-mixed-reality-2-3307717/)
- - [Seattle-based Fixie, which aims to help developers integrate LLMs into their own applications, raised a $17M seed led by Redpoint Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230330/p20#a230330p20)<!-- TECH:END -->
+ - [Facebook is finally letting users opt out of tracking, but there’s a catch](https://www.androidauthority.com/facebook-tracking-opt-out-3307739/)
+ - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)
+ - [BuzzFeed has quietly started publishing AI-generated travel posts produced by non-editorial staff this month; a spokesperson calls the posts an experiment &lpar;Futurism&rpar;](http://www.techmeme.com/230330/p25#a230330p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
