@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not today the goldfinch...](http://9gag.com/gag/aMEBpOx)
- - ⏩ [It&#39;s going to get worse](http://9gag.com/gag/aYVOjj0)
- - 👉 [Hehe](http://9gag.com/gag/axo3xYb)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/axo3xYb)
+ - ⏩ [Nothing like a 2 note version of crazy frog playing through a plastic phone](http://9gag.com/gag/aoKVmVX)
+ - 👉 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
 
 ---
 
