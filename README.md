@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad is a beacon of light in India&#39;s contracting PC market](https://appleinsider.com/articles/23/03/30/ipad-is-a-beacon-of-light-in-indias-contracting-pc-market?utm_medium=rss)
- - [Midjourney halts free trials, citing &quot;extraordinary demand&quot; and &quot;abuse&quot;, after fake images of Trump getting arrested and Pope Francis wearing a coat went viral &lpar;Washington Post&rpar;](http://www.techmeme.com/230330/p18#a230330p18)
- - [DataDome, which provides bot protection services for apps, websites, and APIs, raised a $42M Series C led by InfraVia Growth, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230330/p17#a230330p17)<!-- TECH:END -->
+ - [Leaked documents from Moscow-based company NTC Vulkan show how it helps GRU, FSB, and SVR with hacking operations, attacks on national infrastructure, and more &lpar;The Guardian&rpar;](http://www.techmeme.com/230330/p21#a230330p21)
+ - [Apple delays mixed-reality headset, worried it can’t recreate “iPhone moment”](https://www.androidauthority.com/apple-mixed-reality-2-3307717/)
+ - [Seattle-based Fixie, which aims to help developers integrate LLMs into their own applications, raised a $17M seed led by Redpoint Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/230330/p20#a230330p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
