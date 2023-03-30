@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte B760 Aorus Elite AX](https://www.pcgamer.com/gigabyte-b760-aorus-elite-ax-motherboard-review)
  - [Forspoken will get its DLC 25 days after Square Enix eats its developer](https://www.pcgamer.com/forspoken-will-get-its-dlc-25-days-after-square-enix-eats-its-developer)
- - [PC Gamer UK May issue on sale now: Star Trek: Resurgence](https://www.pcgamer.com/pc-gamer-uk-may-issue-on-sale-now-star-trek-resurgence)
- - [Latest Windows 11 test build crams ads into your start menu](https://www.pcgamer.com/latest-windows-11-test-build-crams-ads-into-your-start-menu)<!-- GAME:END -->
+ - [PC Gamer UK May issue on sale now: Star Trek: Resurgence](https://www.pcgamer.com/pc-gamer-uk-may-issue-on-sale-now-star-trek-resurgence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
