@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte B760 Aorus Elite AX](https://www.pcgamer.com/gigabyte-b760-aorus-elite-ax-motherboard-review)
- - [Forspoken will get its DLC 25 days after Square Enix eats its developer](https://www.pcgamer.com/forspoken-will-get-its-dlc-25-days-after-square-enix-eats-its-developer)
- - [PC Gamer UK May issue on sale now: Star Trek: Resurgence](https://www.pcgamer.com/pc-gamer-uk-may-issue-on-sale-now-star-trek-resurgence)<!-- GAME:END -->
+ - [Help, I can&#39;t stop exploding corpses in Diablo 4](https://www.pcgamer.com/i-cant-stop-exploding-corpses-in-diablo-4)
+ - [Bobby Kotick says Sony&#39;s being a baby about Microsoft deal: &#39;They would just like to prevent our merger from happening&#39;](https://www.pcgamer.com/bobby-kotick-says-sonys-being-a-baby-about-microsoft-deal-they-would-just-like-to-prevent-our-merger-from-happening)
+ - [Square Enix goes full Shinra with Final Fantasy 7 NFTs](https://www.pcgamer.com/square-enix-goes-full-shinra-with-final-fantasy-7-nfts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
