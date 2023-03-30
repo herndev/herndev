@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Courtney Love risking her career to expose Harvey Weinstein back in 2005](http://9gag.com/gag/aVbEzeP)
- - ⏩ [Nothing like a 2 note version of crazy frog playing through a plastic phone](http://9gag.com/gag/aoKVmVX)
+ - 💣 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
+ - ⏩ [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
  - 👉 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 ---
