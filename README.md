@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Evolution 2: Feathered Species Pack Available Today](https://news.xbox.com/en-us/2023/03/30/jurassic-world-evolution-2-feathered-species-pack-available-today/)
- - [New Doom Game Is Cute And Fun Until You Run Out Of Energy](https://kotaku.com/mighty-doom-come-out-ios-android-redeem-code-archero-1850283779)
- - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked-we-lost-our-human)<!-- GAME:END -->
+ - [The book industry&#39;s got a lot to learn from Elden Ring, says one of the world&#39;s top fantasy authors &lpar;no, not George R.R. Martin&rpar;](https://www.pcgamer.com/the-book-industrys-got-a-lot-to-learn-from-elden-ring-says-one-of-the-worlds-top-fantasy-authors-no-not-george-rr-martin)
+ - [Apple&#39;s mixed-reality headset should appear at WWDC in June, and you know it&#39;s gonna cost a lot](https://www.pcgamer.com/apples-mixed-reality-headset-should-appear-at-wwdc-in-june-and-you-know-its-gonna-cost-a-lot)
+ - [Resident Evil 4 Chapter 11: Mines to the Hive](https://www.polygon.com/resident-evil-4-remake-guides/23661896/chapter-11-mines-blast-furnace-hive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
