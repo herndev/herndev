@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1986 Ohio, 1.5 million balloons were released during a festival but ended up being a disaster.](http://9gag.com/gag/a9q6xro)
- - ⏩ [There\u2019s still faith in humanity](http://9gag.com/gag/avQ1N95)
- - 👉 [No regret](http://9gag.com/gag/ago1W5n)<!-- MEMES:END -->
+ - 💣 [Not today the goldfinch...](http://9gag.com/gag/aMEBpOx)
+ - ⏩ [It&#39;s going to get worse](http://9gag.com/gag/aYVOjj0)
+ - 👉 [Hehe](http://9gag.com/gag/axo3xYb)<!-- MEMES:END -->
 
 ---
 
