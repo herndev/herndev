@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil 4 Makes EXCELLENT Use Of The PS5&#39;s Adaptive Triggers](https://kotaku.com/resident-evil-4-remake-adaptive-triggers-ps5-dualsense-1850281414)
  - [Australian Government Wants To Give 18+ Ratings To Any Game With Gambling](https://kotaku.com/gambling-video-games-loot-box-lootbox-australia-laws-1850280837)
- - [EA Lays Off Almost 800 People Weeks After Posting Huge Profits](https://kotaku.com/ea-layoffs-jobs-andrew-wilson-profits-electronic-arts-1850281078)
- - [The Chinese versions of Blizzard&#39;s games may have been shut down over a big misunderstanding](https://www.pcgamer.com/the-chinese-versions-of-blizzards-games-may-have-been-shut-down-over-a-big-misunderstanding)<!-- GAME:END -->
+ - [EA Lays Off Almost 800 People Weeks After Posting Huge Profits](https://kotaku.com/ea-layoffs-jobs-andrew-wilson-profits-electronic-arts-1850281078)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
