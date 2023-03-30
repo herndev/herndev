@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games With Gold’s April games are Peaky Blinders and a weird apartment-life sim](https://www.polygon.com/23663342/xbox-free-games-with-gold-april-2023-xbox-one-xbox-360)
- - [The 8 Most Controversial Rides In Disney Theme Park History](https://kotaku.com/disney-world-land-tickets-johnny-depp-orlando-florida-1850283148)
- - [The Foxhole devs are making a medieval warfare MMO that supports 1000s of players at once](https://www.pcgamer.com/the-foxhole-devs-are-making-a-medieval-warfare-mmo-that-supports-1000s-of-players-at-once)<!-- GAME:END -->
+ - [Jurassic World Evolution 2: Feathered Species Pack Available Today](https://news.xbox.com/en-us/2023/03/30/jurassic-world-evolution-2-feathered-species-pack-available-today/)
+ - [New Doom Game Is Cute And Fun Until You Run Out Of Energy](https://kotaku.com/mighty-doom-come-out-ios-android-redeem-code-archero-1850283779)
+ - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked-we-lost-our-human)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
