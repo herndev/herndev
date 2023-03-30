@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 👉 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)<!-- MEMES:END -->
+ - 💣 [No regret](http://9gag.com/gag/ago1W5n)
+ - ⏩ [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - 👉 [Sometimes...](http://9gag.com/gag/amA1Zyv)<!-- MEMES:END -->
 
 ---
 
