@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FDA says approval for medical devices now requires meeting certain cybersecurity standards issued in the omnibus spending bill signed in December 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230329/p33#a230329p33)
- - [Netflix Games may come to TVs, use iPhone as a controller](https://appleinsider.com/articles/23/03/30/netflix-games-may-come-to-tvs-use-iphone-as-a-controller?utm_medium=rss)
- - [Twitter details new API access tiers: Free with 1.5K tweets/month at app level, Basic for $100/month, and Enterprise; old APIs will stop working in 30 days &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230329/p32#a230329p32)<!-- TECH:END -->
+ - [Reddit says, in 2022, it removed 473% more subreddits and permanently suspended 244% more users accounts violating its policy on non-consensual intimate imagery &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230329/p35#a230329p35)
+ - [Paris-based Inato, which offers a marketplace to connect pharmaceutical companies with clinical trial sites, raised a $20M Series A2 led by Cathay Innovation &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/230329/p34#a230329p34)
+ - [The FDA says approval for medical devices now requires meeting certain cybersecurity standards issued in the omnibus spending bill signed in December 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230329/p33#a230329p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
