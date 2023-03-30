@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - ⏩ [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
+ - 💣 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
+ - ⏩ [Chicks with dicks](http://9gag.com/gag/ay23Ozq)
  - 👉 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
 
 ---
