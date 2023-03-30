@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit says, in 2022, it removed 473% more subreddits and permanently suspended 244% more users accounts violating its policy on non-consensual intimate imagery &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230329/p35#a230329p35)
- - [Paris-based Inato, which offers a marketplace to connect pharmaceutical companies with clinical trial sites, raised a $20M Series A2 led by Cathay Innovation &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/230329/p34#a230329p34)
- - [The FDA says approval for medical devices now requires meeting certain cybersecurity standards issued in the omnibus spending bill signed in December 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230329/p33#a230329p33)<!-- TECH:END -->
+ - [Microsoft says it is exploring placing ads in Bing Chat and share the ad revenue with partners whose content contributed to the chat response &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230329/p37#a230329p37)
+ - [The US sends $25M to Costa Rica for Conti ransomware recovery and gave $25M last month to help Albania recover from a ransomware attack allegedly caused by Iran &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230329/p36#a230329p36)
+ - [Reddit says, in 2022, it removed 473% more subreddits and permanently suspended 244% more users accounts violating its policy on non-consensual intimate imagery &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230329/p35#a230329p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
