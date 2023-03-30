@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Is The Future Of Music Streaming](https://kotaku.com/fortnite-radio-stations-ariana-grande-skin-travis-scott-1850284448)
- - [This Horror Game Turns Fishing Into Psychological Warfare](https://kotaku.com/dredge-fishing-game-review-life-sim-nintendo-switch-1850284719)
- - [The next Magic: The Gathering set features a monkey so strong, they told him he couldn&#39;t play](https://www.pcgamer.com/new-magic-the-gathering-set-features-a-monkey-so-strong-they-told-him-he-couldnt-play)<!-- GAME:END -->
+ - [E3 2023 is cancelled](https://www.pcgamer.com/e3-2023-is-cancelled)
+ - [E3 2023 has been canceled, report says](https://www.polygon.com/23661641/e3-2023-canceled)
+ - [Report: E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
