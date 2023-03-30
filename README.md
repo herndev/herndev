@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No regret](http://9gag.com/gag/ago1W5n)
- - ⏩ [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - 👉 [Sometimes...](http://9gag.com/gag/amA1Zyv)<!-- MEMES:END -->
+ - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - ⏩ [Very underrated film](http://9gag.com/gag/aKEA07g)
+ - 👉 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
 
 ---
 
