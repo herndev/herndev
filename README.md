@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - ⏩ [Hehe](http://9gag.com/gag/axo3xYb)
- - 👉 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
+ - 💣 [In 1986 Ohio, 1.5 million balloons were released during a festival but ended up being a disaster.](http://9gag.com/gag/a9q6xro)
+ - ⏩ [There\u2019s still faith in humanity](http://9gag.com/gag/avQ1N95)
+ - 👉 [No regret](http://9gag.com/gag/ago1W5n)<!-- MEMES:END -->
 
 ---
 
