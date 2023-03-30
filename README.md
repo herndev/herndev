@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lost Apple Watch spends a night in the ocean, found in working condition](https://appleinsider.com/articles/23/03/29/lost-apple-watch-spends-a-night-in-the-ocean-found-in-working-condition?utm_medium=rss)
- - [ChatGPT vs Google Bard: What’s the difference and which one to use?](https://www.androidauthority.com/chatgpt-vs-google-bard-3307464/)
- - [A Manhunt in India Left 27 Million People Without Mobile Internet](https://www.wired.com/story/sandhu-manhunt-india-twitter-internet-blackout/)<!-- TECH:END -->
+ - [Netflix might let you use an iPhone to control games on your TV](https://www.theverge.com/2023/3/29/23662548/netflix-iphone-controller-games-code-test)
+ - [Netflix&#39;s iOS app code suggests the company may expand its video game service to TV sets for the first time, using phones as controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230329/p31#a230329p31)
+ - [The US Is Sending Money to Countries Devastated by Cyberattacks](https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
