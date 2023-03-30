@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just leave me one !!!](http://9gag.com/gag/ajV1obG)
- - ⏩ [There\u2019s still faith in humanity](http://9gag.com/gag/avQ1N95)
- - 👉 [I&#39;m going to change my name to `No`](http://9gag.com/gag/aOxeX7R)<!-- MEMES:END -->
+ - 💣 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - ⏩ [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 👉 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)<!-- MEMES:END -->
 
 ---
 
