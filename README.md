@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes...](http://9gag.com/gag/amA1Zyv)
- - ⏩ [Chad Canadian](http://9gag.com/gag/a8q6Z3e)
- - 👉 [LOL! The reviews are day and night.](http://9gag.com/gag/a7qOY5w)<!-- MEMES:END -->
+ - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - ⏩ [Why?](http://9gag.com/gag/aL1zx9P)
+ - 👉 [Hehe](http://9gag.com/gag/a6qXR28)<!-- MEMES:END -->
 
 ---
 
