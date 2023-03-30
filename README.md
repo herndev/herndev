@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The book industry&#39;s got a lot to learn from Elden Ring, says one of the world&#39;s top fantasy authors &lpar;no, not George R.R. Martin&rpar;](https://www.pcgamer.com/the-book-industrys-got-a-lot-to-learn-from-elden-ring-says-one-of-the-worlds-top-fantasy-authors-no-not-george-rr-martin)
- - [Apple&#39;s mixed-reality headset should appear at WWDC in June, and you know it&#39;s gonna cost a lot](https://www.pcgamer.com/apples-mixed-reality-headset-should-appear-at-wwdc-in-june-and-you-know-its-gonna-cost-a-lot)
- - [Resident Evil 4 Chapter 11: Mines to the Hive](https://www.polygon.com/resident-evil-4-remake-guides/23661896/chapter-11-mines-blast-furnace-hive)<!-- GAME:END -->
+ - [Fortnite Is The Future Of Music Streaming](https://kotaku.com/fortnite-radio-stations-ariana-grande-skin-travis-scott-1850284448)
+ - [This Horror Game Turns Fishing Into Psychological Warfare](https://kotaku.com/dredge-fishing-game-review-life-sim-nintendo-switch-1850284719)
+ - [The next Magic: The Gathering set features a monkey so strong, they told him he couldn&#39;t play](https://www.pcgamer.com/new-magic-the-gathering-set-features-a-monkey-so-strong-they-told-him-he-couldnt-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
