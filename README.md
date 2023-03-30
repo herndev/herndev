@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help, I can&#39;t stop exploding corpses in Diablo 4](https://www.pcgamer.com/i-cant-stop-exploding-corpses-in-diablo-4)
- - [Bobby Kotick says Sony&#39;s being a baby about Microsoft deal: &#39;They would just like to prevent our merger from happening&#39;](https://www.pcgamer.com/bobby-kotick-says-sonys-being-a-baby-about-microsoft-deal-they-would-just-like-to-prevent-our-merger-from-happening)
- - [Square Enix goes full Shinra with Final Fantasy 7 NFTs](https://www.pcgamer.com/square-enix-goes-full-shinra-with-final-fantasy-7-nfts)<!-- GAME:END -->
+ - [Your Racing Journey is About to Start with MotoGP 23, Available June 8](https://news.xbox.com/en-us/2023/03/30/your-racing-journey-is-about-to-start-with-motogp-23-available-june-8/)
+ - [D&amp;D: Honor Among Thieves has delivered a wave of new toys and game deals](https://www.polygon.com/deals/23660084/dungeons-dragons-honor-among-thieves-hasbro-funko-pop-toys-games)
+ - [How to find flint in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-flint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
