@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Embr, Journey to the Savage Planet, Indivisible, and Age of Empires II: Definitive Edition](https://news.xbox.com/en-us/2023/03/30/free-play-days-embr-journey-to-the-savage-planet-indivisible-and-age-of-empires-ii-definitive-edition/)
- - [The Sickest Battle Royale You Probably Aren’t Playing Is All About Martial Arts](https://kotaku.com/naraka-bladepoint-battle-royale-xbox-pc-martial-arts-1850283128)
- - [Where to get chitin in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-chitin)<!-- GAME:END -->
+ - [Xbox Games With Gold’s April games are Peaky Blinders and a weird apartment-life sim](https://www.polygon.com/23663342/xbox-free-games-with-gold-april-2023-xbox-one-xbox-360)
+ - [The 8 Most Controversial Rides In Disney Theme Park History](https://kotaku.com/disney-world-land-tickets-johnny-depp-orlando-florida-1850283148)
+ - [The Foxhole devs are making a medieval warfare MMO that supports 1000s of players at once](https://www.pcgamer.com/the-foxhole-devs-are-making-a-medieval-warfare-mmo-that-supports-1000s-of-players-at-once)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
