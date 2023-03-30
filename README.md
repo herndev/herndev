@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google accused of ripping off OpenAI’s ChatGPT](https://www.androidauthority.com/google-bard-chatgpt-sharegpt-training-3307537/)
- - [Sources: Meta is considering a company-wide political ads ban in Europe, concerned its platforms will be unable to comply with forthcoming online campaign laws &lpar;Financial Times&rpar;](http://www.techmeme.com/230330/p2#a230330p2)
- - [Researchers say hackers have compromised the 3CX VoIP IPBX desktop app, used by 600K+ companies and 12M+ daily users, in an ongoing supply chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230330/p1#a230330p1)<!-- TECH:END -->
+ - [Google&#39;s Threat Analysis Group details two limited but highly targeted spyware campaigns using several zero-day exploits against Android, iOS, and Chrome &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230330/p3#a230330p3)
+ - [Nokia plans to launch 4G services on the moon this year](https://www.androidauthority.com/nokia-4g-on-the-moon-3307546/)
+ - [Google accused of ripping off OpenAI’s ChatGPT](https://www.androidauthority.com/google-bard-chatgpt-sharegpt-training-3307537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
