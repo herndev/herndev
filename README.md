@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to let Facebook and Instagram users in Europe opt out of certain highly personalized ads to limit the impact of an EU privacy order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230330/p9#a230330p9)
- - [FreedomGPT, a chatbot from Austin VC firm Age of AI, is free of ChatGPT&#39;s safety filters and ethical guardrails, and praises Hitler, uses the N-word, and more &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/230330/p8#a230330p8)
- - [The Unbelievable Zombie Comeback of Analog Computing](https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/)<!-- TECH:END -->
+ - [Report: PhonePe, one of India&#39;s largest fintech services, has called off plans to acquire BNPL service ZestMoney for $200M to $300M, over due diligence concerns &lpar;Livemint&rpar;](http://www.techmeme.com/230330/p11#a230330p11)
+ - [MacBook Air refresh in 2024 or 2025 rumored to get OLED screen](https://appleinsider.com/articles/23/03/30/macbook-air-refresh-in-2024-or-2025-rumored-to-get-oled-screen?utm_medium=rss)
+ - [Clearer pictures of rumored Apple AR headet cable emerge](https://appleinsider.com/articles/23/03/30/clearer-pictures-of-rumored-apple-ar-headet-cable-emerge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
