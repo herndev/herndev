@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The official D&amp;D Virtual Tabletop is looking pretty slick](https://www.pcgamer.com/the-official-dandd-virtual-tabletop-is-looking-pretty-slick)
  - [E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)
- - [Cyberpunk 2077 devs announce that they&#39;ll announce something about Phantom Liberty in June](https://www.pcgamer.com/cyberpunk-2077-devs-announce-that-theyll-announce-something-about-phantom-liberty-in-june)
- - [Watch this absolute maniac solo Destiny 2&#39;s latest raid boss and then lose his mind](https://www.pcgamer.com/watch-this-absolute-maniac-solo-destiny-2s-latest-raid-boss-and-then-lose-his-mind)<!-- GAME:END -->
+ - [Dark and Darker studio fires back over DMCA takedown fiasco: &#39;We hope that Nexon will stop making baseless claims&#39;](https://www.pcgamer.com/dark-and-darker-studio-fires-back-over-dmca-takedown-fiasco-we-hope-that-nexon-will-stop-making-baseless-claims)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
