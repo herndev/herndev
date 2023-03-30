@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it is exploring placing ads in Bing Chat and share the ad revenue with partners whose content contributed to the chat response &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230329/p37#a230329p37)
- - [The US sends $25M to Costa Rica for Conti ransomware recovery and gave $25M last month to help Albania recover from a ransomware attack allegedly caused by Iran &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230329/p36#a230329p36)
- - [Reddit says, in 2022, it removed 473% more subreddits and permanently suspended 244% more users accounts violating its policy on non-consensual intimate imagery &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230329/p35#a230329p35)<!-- TECH:END -->
+ - [Google accused of ripping off OpenAI’s ChatGPT](https://www.androidauthority.com/google-bard-chatgpt-sharegpt-training-3307537/)
+ - [Sources: Meta is considering a company-wide political ads ban in Europe, concerned its platforms will be unable to comply with forthcoming online campaign laws &lpar;Financial Times&rpar;](http://www.techmeme.com/230330/p2#a230330p2)
+ - [Researchers say hackers have compromised the 3CX VoIP IPBX desktop app, used by 600K+ companies and 12M+ daily users, in an ongoing supply chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230330/p1#a230330p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
