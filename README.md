@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: Twitter plans to exempt its top 500 advertisers and 10K most-followed orgs that have been previously verified from paying $1K/month for verification &lpar;New York Times&rpar;](http://www.techmeme.com/230330/p30#a230330p30)
- - [Amazon sues sellers for issuing bogus takedown requests on competitors](https://www.theverge.com/2023/3/30/23663339/amazon-sues-sellers-copyright-takedown-competitors)
- - [Star Trek: Starfleet Academy will follow the most ambitious students in the galaxy](https://www.theverge.com/2023/3/30/23663457/star-trek-starfleet-academy-paramount-plus-streaming-tv-2024)<!-- TECH:END -->
+ - [Report: ESA cancels E3 2023, after Microsoft, Nintendo, Sony, and Ubisoft announced they would not be attending the event originally scheduled for June &lpar;The Verge&rpar;](http://www.techmeme.com/230330/p31#a230330p31)
+ - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [12 Best Deals: Phones, Headphones, and Video Games](https://www.wired.com/story/midweek-deals-phones-headphones-games-march-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
