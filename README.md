@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Has Special Character Intros For Lore Nerds](https://kotaku.com/tekken-8-special-character-intros-jin-kazama-kazuya-1850280673)
- - [Electronic Arts lays off hundreds of workers despite strong profits](https://www.polygon.com/23662246/electronic-arts-layoffs-800-workers-quarterly-earnings)
- - [Electronic Arts is laying off 6% of its workforce](https://www.pcgamer.com/electronic-arts-is-laying-off-6-of-its-workforce)<!-- GAME:END -->
+ - [EA Lays Off Almost 800 People Weeks After Posting Huge Profits](https://kotaku.com/ea-layoffs-jobs-andrew-wilson-profits-electronic-arts-1850281078)
+ - [The Chinese versions of Blizzard&#39;s games may have been shut down over a big misunderstanding](https://www.pcgamer.com/the-chinese-versions-of-blizzards-games-may-have-been-shut-down-over-a-big-misunderstanding)
+ - [Chris Pratt Says Angry Super Mario Fans Are Just ‘Passionate’](https://kotaku.com/super-mario-bros-movie-chris-pratt-jack-black-bowser-1850280964)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
