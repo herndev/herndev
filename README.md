@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Racing Journey is About to Start with MotoGP 23, Available June 8](https://news.xbox.com/en-us/2023/03/30/your-racing-journey-is-about-to-start-with-motogp-23-available-june-8/)
- - [D&amp;D: Honor Among Thieves has delivered a wave of new toys and game deals](https://www.polygon.com/deals/23660084/dungeons-dragons-honor-among-thieves-hasbro-funko-pop-toys-games)
- - [How to find flint in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-flint)<!-- GAME:END -->
+ - [New Games with Gold for April 2023](https://news.xbox.com/en-us/2023/03/30/new-games-with-gold-for-april-2023/)
+ - [Blade is back in new Marvel Comics series from Killmonger, Black Widow vets](https://www.polygon.com/23660504/marvel-blade-1-2023-comic-release)
+ - [15 Things We Wish We Knew Before Playing The Resident Evil 4 Remake](https://kotaku.com/resident-evil-4-re4-remake-guide-weapon-tips-treasure-1850280200)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
