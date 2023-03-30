@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - ⏩ [Very underrated film](http://9gag.com/gag/aKEA07g)
+ - 💣 [LOL! The reviews are day and night.](http://9gag.com/gag/a7qOY5w)
+ - ⏩ [Soda cans sold in supermarkets in Saudi Arabia come wrapped with aluminum foil on top to keep the sipping area clean.](http://9gag.com/gag/amA1jpj)
  - 👉 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
 
 ---
