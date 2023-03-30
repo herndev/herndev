@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix might let you use an iPhone to control games on your TV](https://www.theverge.com/2023/3/29/23662548/netflix-iphone-controller-games-code-test)
- - [Netflix&#39;s iOS app code suggests the company may expand its video game service to TV sets for the first time, using phones as controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230329/p31#a230329p31)
- - [The US Is Sending Money to Countries Devastated by Cyberattacks](https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/)<!-- TECH:END -->
+ - [The FDA says approval for medical devices now requires meeting certain cybersecurity standards issued in the omnibus spending bill signed in December 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230329/p33#a230329p33)
+ - [Netflix Games may come to TVs, use iPhone as a controller](https://appleinsider.com/articles/23/03/30/netflix-games-may-come-to-tvs-use-iphone-as-a-controller?utm_medium=rss)
+ - [Twitter details new API access tiers: Free with 1.5K tweets/month at app level, Basic for $100/month, and Enterprise; old APIs will stop working in 30 days &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230329/p32#a230329p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
