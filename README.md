@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
- - ⏩ [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
+ - 💣 [Hehe](http://9gag.com/gag/axo3xYb)
+ - ⏩ [Me: *gualquackquackgulrrrraaaww Doc: Oh that&#39;s nice..](http://9gag.com/gag/aqe846Z)
  - 👉 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 ---
