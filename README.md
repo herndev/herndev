@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/axo3xYb)
- - ⏩ [Nothing like a 2 note version of crazy frog playing through a plastic phone](http://9gag.com/gag/aoKVmVX)
- - 👉 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
+ - 💣 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - ⏩ [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)
+ - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
 
 ---
 
