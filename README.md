@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Makes EXCELLENT Use Of The PS5&#39;s Adaptive Triggers](https://kotaku.com/resident-evil-4-remake-adaptive-triggers-ps5-dualsense-1850281414)
- - [Australian Government Wants To Give 18+ Ratings To Any Game With Gambling](https://kotaku.com/gambling-video-games-loot-box-lootbox-australia-laws-1850280837)
- - [EA Lays Off Almost 800 People Weeks After Posting Huge Profits](https://kotaku.com/ea-layoffs-jobs-andrew-wilson-profits-electronic-arts-1850281078)<!-- GAME:END -->
+ - [Magic&#39;s big event set includes unlikely team-ups and the return of planechase](https://www.pcgamer.com/magics-big-event-set-includes-unlikely-team-ups-and-the-return-of-planechase)
+ - [Park Beyond, the gravity-defying park sim, gets beta ahead of June release](https://www.pcgamer.com/park-beyond-the-gravity-defying-park-sim-gets-beta-ahead-of-june-release)
+ - [Resident Evil 4 Makes EXCELLENT Use Of The PS5&#39;s Adaptive Triggers](https://kotaku.com/resident-evil-4-remake-adaptive-triggers-ps5-dualsense-1850281414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
