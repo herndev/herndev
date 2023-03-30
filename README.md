@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Vinod Khosla on how AI will &quot;free humanity from the need to work&quot;, seeing the AI future early, OpenAI investment, AI and geopolitics, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230330/p14#a230330p14)
- - [Apple wants to track every user movement for health, AR, and more](https://appleinsider.com/articles/23/03/30/apple-wants-to-track-every-user-movement-for-health-ar-and-more?utm_medium=rss)
- - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix&#39;s cheapest plan is now available on Apple TV](https://appleinsider.com/articles/23/03/30/netflixs-cheapest-plan-is-now-available-on-apple-tv?utm_medium=rss)
+ - [Deals: AirPods Max $479, iMacs from $899, $150 off M2 MacBook Pro &amp; more](https://appleinsider.com/articles/23/03/30/deals-airpods-max-479-imacs-from-899-150-off-m2-macbook-pro-more?utm_medium=rss)
+ - [TSMC may not expand in US if double taxation rule continues](https://appleinsider.com/articles/23/03/30/tsmc-may-not-expand-in-us-if-double-taxation-rule-continues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
