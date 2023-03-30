@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Battle for Sanctuary with the Xbox Series X – Diablo IV Bundle](https://news.xbox.com/en-us/2023/03/30/xbox-series-x-diablo-iv-bundle/)
- - [Netflix Scott Pilgrim Anime Will Reunite Entire Movie Cast](https://kotaku.com/scott-pilgrim-anime-netflix-edgar-wright-chris-evans-1850282784)
- - [Scott Pilgrim anime will bring back the movie’s entire cast](https://www.polygon.com/23663051/scott-pilgrim-anime-cast-netflix-release-date)<!-- GAME:END -->
+ - [Free Play Days – Embr, Journey to the Savage Planet, Indivisible, and Age of Empires II: Definitive Edition](https://news.xbox.com/en-us/2023/03/30/free-play-days-embr-journey-to-the-savage-planet-indivisible-and-age-of-empires-ii-definitive-edition/)
+ - [The Sickest Battle Royale You Probably Aren’t Playing Is All About Martial Arts](https://kotaku.com/naraka-bladepoint-battle-royale-xbox-pc-martial-arts-1850283128)
+ - [Where to get chitin in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-chitin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
