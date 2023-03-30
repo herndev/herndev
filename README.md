@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Indictment Marks a Historic Reckoning](https://www.wired.com/story/trump-indictment-historical-reckoning/)
- - [Microsoft fixed an Azure vulnerability after researchers found it could have let anyone alter Bing search results and breach Office 365 accounts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230330/p33#a230330p33)
- - [ESA cancels E3 2023, after Microsoft, Nintendo, Sony, and Ubisoft announced they would not attend the event originally scheduled for June 13 to June 16 &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/230330/p32#a230330p32)<!-- TECH:END -->
+ - [Memo: Block says 44M of its 51M+ Cash App MAUs were verified via its IDV program as of December 2022, after Hindenburg claimed Block overstated user numbers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230330/p34#a230330p34)
+ - [Google Photos update brings new movie editor feature to Chromebooks](https://www.androidauthority.com/google-photos-chromebook-3307860/)
+ - [E3 might be gone, but this summer still has some big gaming events to watch](https://www.theverge.com/23663889/e3-summer-gaming-events-2023-game-fest-xbox-starfield-ubisoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
