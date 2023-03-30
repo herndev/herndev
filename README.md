@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for April 2023](https://news.xbox.com/en-us/2023/03/30/new-games-with-gold-for-april-2023/)
- - [Blade is back in new Marvel Comics series from Killmonger, Black Widow vets](https://www.polygon.com/23660504/marvel-blade-1-2023-comic-release)
- - [15 Things We Wish We Knew Before Playing The Resident Evil 4 Remake](https://kotaku.com/resident-evil-4-re4-remake-guide-weapon-tips-treasure-1850280200)<!-- GAME:END -->
+ - [Join the Battle for Sanctuary with the Xbox Series X – Diablo IV Bundle](https://news.xbox.com/en-us/2023/03/30/xbox-series-x-diablo-iv-bundle/)
+ - [Netflix Scott Pilgrim Anime Will Reunite Entire Movie Cast](https://kotaku.com/scott-pilgrim-anime-netflix-edgar-wright-chris-evans-1850282784)
+ - [Scott Pilgrim anime will bring back the movie’s entire cast](https://www.polygon.com/23663051/scott-pilgrim-anime-cast-netflix-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
