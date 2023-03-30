@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - ⏩ [Glascow scotland](http://9gag.com/gag/ago1R8q)
- - 👉 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
+ - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - ⏩ [Hehe](http://9gag.com/gag/axo3xYb)
+ - 👉 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
 
 ---
 
