@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - ⏩ [Why?](http://9gag.com/gag/aL1zx9P)
- - 👉 [Hehe](http://9gag.com/gag/a6qXR28)<!-- MEMES:END -->
+ - ⏩ [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
+ - 👉 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
 
 ---
 
