@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s CMA drops a probe into Apple&#39;s dominance in mobile browsers and cloud gaming after Apple successfully argued the CMA waited too long to launch the probe &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p19#a230331p19)
- - [Seattle-based crypto exchange Bittrex shuts down its US operations, saying funds should be withdrawn by April 30, but will continue to operate Bittrex Global &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230331/p18#a230331p18)
- - [A profile of Sam Altman, whose social-minded capitalism may make him the ideal CEO for OpenAI as some say he&#39;s too commercially minded to lead a tech revolution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p17#a230331p17)<!-- TECH:END -->
+ - [LeBron James, William Shatner, Seinfeld actor Jason Alexander, and some other celebrities with millions of followers say they won&#39;t pay for Twitter Blue &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230331/p20#a230331p20)
+ - [Marvel’s Secret Invasion series actually sounds kind of fascinating](https://www.theverge.com/2023/3/31/23665128/marvel-secret-invasion-disney-plus-skrulls)
+ - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
