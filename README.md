@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - ⏩ [No regret](http://9gag.com/gag/ago1W5n)
- - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
+ - 💣 [Doggo got scammed](http://9gag.com/gag/aGEnPQK)
+ - ⏩ [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
+ - 👉 [Nope](http://9gag.com/gag/aPgmO1B)<!-- MEMES:END -->
 
 ---
 
