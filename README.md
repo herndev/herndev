@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s a man in the mirror](http://9gag.com/gag/adPONB2)
- - ⏩ [Now she can practice riding all she wants](http://9gag.com/gag/a7qeKoe)
- - 👉 [Manager helps his employee get a raise](http://9gag.com/gag/a7qeKXA)<!-- MEMES:END -->
+ - 💣 [She had 16:9 eyes](http://9gag.com/gag/a7qeL4x)
+ - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 👉 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
 
 ---
 
