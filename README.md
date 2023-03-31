@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Official Sonic Game Straight Up Kills The Bastard](https://kotaku.com/sonic-death-dies-april-fools-sega-steam-pc-gaming-valve-1850289287)
- - [Every FromSoftware Soulslike Ranked From Worst To Best](https://kotaku.com/fromsoftware-soulslike-ranked-elden-ring-dark-souls-ps5-1850289282)
- - [Sonic’s dead in Sega’s new game The Murder of Sonic the Hedgehog](https://www.polygon.com/23665188/sonic-the-hedgehog-dead)<!-- GAME:END -->
+ - [These developers want you to steal The Great Gatsby](https://www.polygon.com/videos/23665239/the-great-gatsby-copyright-games)
+ - [These Great Fortnite Creative Maps Show Us What&#39;s Possible](https://kotaku.com/unreal-editor-fortnite-creative-epic-uefn-space-inside-1850289176)
+ - [Dying Marvel&#39;s Avengers Game Unlocks Nearly Everything For Free](https://kotaku.com/marvels-avengers-final-update-free-cosmetics-dead-game-1850289415)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
