@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Dev Is Out Here Promising Next-Gen PS5 Wind You Can Feel](https://kotaku.com/final-fantasy-xvi-ps5-dualsense-rpg-next-gen-exclusive-1850287639)
- - [AMD&#39;s affordable $85 A620 motherboards should fix Ryzen&#39;s price premium](https://www.pcgamer.com/amds-affordable-dollar85-a620-motherboards-should-fix-ryzens-price-premium)
- - [Pikachu rips on guitar during Pokémon Music Festival](https://www.polygon.com/pokemon/23664596/pokemon-music-fest-pikachu-guitar-solo-meowth-performance)<!-- GAME:END -->
+ - [Most PC hardware pricing is back to normal so why not GPUs?](https://www.pcgamer.com/most-pc-hardware-pricing-is-back-to-normal-so-why-not-gpus)
+ - [How to solve the cave puzzles in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-cave-puzzle)
+ - [This flying car from Blade Runner feels right at home modded into Cyberpunk 2077](https://www.pcgamer.com/this-flying-car-from-blade-runner-feels-right-at-home-modded-into-cyberpunk-2077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
