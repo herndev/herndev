@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
+ - 💣 [Happened to me too](http://9gag.com/gag/aBdLKEO)
  - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)<!-- MEMES:END -->
+ - 👉 [Don&#39;t Judge a Book by it&#39;s Cover ... Even Your Own](http://9gag.com/gag/anzRp05)<!-- MEMES:END -->
 
 ---
 
