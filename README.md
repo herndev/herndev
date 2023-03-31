@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sh\u00e4rk attac](http://9gag.com/gag/a5X6m8o)
- - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [Will Smith has lost it. Now he&#39;s just Will smh](http://9gag.com/gag/aBd67P1)<!-- MEMES:END -->
+ - 💣 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - ⏩ [No regret](http://9gag.com/gag/ago1W5n)
+ - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
 
 ---
 
