@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - ⏩ [Wait\u2026](http://9gag.com/gag/a6qXv2L)
- - 👉 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
+ - 💣 [Italy just banned chatGTP for privacy concerns](http://9gag.com/gag/a9qvM50)
+ - ⏩ [And when everyone is a female athlete...nobody will be.](http://9gag.com/gag/aNwvoD6)
+ - 👉 [There&#39;s a man in the mirror](http://9gag.com/gag/adPONB2)<!-- MEMES:END -->
 
 ---
 
