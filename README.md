@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - ⏩ [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 👉 [Wait\u2026](http://9gag.com/gag/a6qXv2L)<!-- MEMES:END -->
+ - 💣 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
+ - ⏩ [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 👉 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
 
 ---
 
