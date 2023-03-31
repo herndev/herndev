@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea passes the K-Chips Act to boost the country&#39;s semiconductor industry by increasing tax credits for companies investing in manufacturing facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p35#a230330p35)
- - [Summer gaming events 2023: with E3 canceled, here’s what’s next](https://www.theverge.com/2023/3/30/23663989/summer-gaming-events-2023-e3-canceled-news-announcements)
- - [Memo: Block says 44M of its 51M+ Cash App MAUs were verified via its IDV program as of December 2022, after Hindenburg claimed Block overstated user numbers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230330/p34#a230330p34)<!-- TECH:END -->
+ - [env0, which develops Infrastructure as Code workflow automation and management software, raised $18.1M led by Venture Guides, bringing Series A total to $35.1M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230330/p36#a230330p36)
+ - [Y’all, this laptop is too much](https://www.theverge.com/2023/3/30/23660652/asus-rog-flow-z13-acronym-gaming-laptop-tablet-review)
+ - [Block knows you have questions, and it doesn’t have good answers](https://www.theverge.com/2023/3/30/23663997/block-hindenburg-fraud-statement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
