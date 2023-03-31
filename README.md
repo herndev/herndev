@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it has updated Bard by incorporating some of its PaLm models to better answer math and logic questions, with coding capabilities coming soon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230331/p11#a230331p11)
- - [Apple Gangnam store opens in South Korea with K-pop band](https://appleinsider.com/articles/23/03/31/apple-gangnam-store-opens-in-south-korea-with-k-pop-band?utm_medium=rss)
- - [Human: Fall Flat Plus Plunges Into Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/human-fall-flat-plus-plunges-into-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM is cutting off access to Apple CarPlay and Android Auto for its future EVs](https://www.theverge.com/2023/3/31/23664814/gm-ev-restrict-apple-carplay-android-auto-google)
+ - [TikTok Troubles Continue as Half of Americans Support a Ban of the App     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-troubles-continue-as-half-of-americans-support-a-ban-of-the-app/#ftag=CAD590a51e)
+ - [Apple Arcade: Every New Game That Arrived in March     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
