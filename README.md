@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggo got scammed](http://9gag.com/gag/aGEnPQK)
- - ⏩ [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
- - 👉 [Nope](http://9gag.com/gag/aPgmO1B)<!-- MEMES:END -->
+ - 💣 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
+ - ⏩ [No regret](http://9gag.com/gag/ago1W5n)
+ - 👉 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
 
 ---
 
