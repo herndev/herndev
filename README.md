@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insiders say crypto firms are struggling to access banking services and facing lengthy application procedures amid bank collapses and regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p37#a230330p37)
- - [E3 isn’t coming back](https://www.theverge.com/2023/3/30/23664044/e3-cancelled-isnt-coming-back)
- - [env0, which develops Infrastructure as Code workflow automation and management software, raised $18.1M led by Venture Guides, bringing Series A total to $35.1M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230330/p36#a230330p36)<!-- TECH:END -->
+ - [Japan plans to restrict exports of 23 types of chip manufacturing equipment starting July 2023, amid the US push to curb China&#39;s ability to make advanced chips &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p39#a230330p39)
+ - [Twitter launches its Verified Organizations program, which allows companies to get a verified checkmark for $1,000/month and their affiliates for $50/month each &lpar;Twitter&rpar;](http://www.techmeme.com/230330/p38#a230330p38)
+ - [Insiders say crypto firms are struggling to access banking services and facing lengthy application procedures amid bank collapses and regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p37#a230330p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
