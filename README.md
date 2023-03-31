@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Defense Minister of Finland, Post from this morning &lpar;really&rpar;](http://9gag.com/gag/a7qeK4r)
+ - 💣 [Don&#39;t Judge a Book by it&#39;s Cover ... Even Your Own](http://9gag.com/gag/anzRp05)
  - ⏩ [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 👉 [My Honda is also a mercedes](http://9gag.com/gag/a5XBdLG)<!-- MEMES:END -->
+ - 👉 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
 
 ---
 
