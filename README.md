@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Insiders say crypto firms are struggling to access banking services and facing lengthy application procedures amid bank collapses and regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p37#a230330p37)
- - [env0, which develops Infrastructure as Code workflow automation and management software, raised $18.1M led by Venture Guides, bringing Series A total to $35.1M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230330/p36#a230330p36)
- - [Best Dolby Atmos Soundbar for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-dolby-atmos-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [E3 isn’t coming back](https://www.theverge.com/2023/3/30/23664044/e3-cancelled-isnt-coming-back)
+ - [env0, which develops Infrastructure as Code workflow automation and management software, raised $18.1M led by Venture Guides, bringing Series A total to $35.1M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230330/p36#a230330p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
