@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan plans to restrict exports of 23 types of chip manufacturing equipment starting July 2023, amid the US push to curb China&#39;s ability to make advanced chips &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p39#a230330p39)
- - [Twitter launches its Verified Organizations program, which allows companies to get a verified checkmark for $1,000/month and their affiliates for $50/month each &lpar;Twitter&rpar;](http://www.techmeme.com/230330/p38#a230330p38)
- - [Insiders say crypto firms are struggling to access banking services and facing lengthy application procedures amid bank collapses and regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p37#a230330p37)<!-- TECH:END -->
+ - [Sources: India is looking for alternatives to Pegasus to avoid the &quot;PR problem&quot; associated with the NSO Group, and is seeking to spend between $16M and $120M &lpar;Financial Times&rpar;](http://www.techmeme.com/230331/p2#a230331p2)
+ - [How Apple&#39;s standalone classical music app fixes the genre&#39;s biggest problem of search and discovery with better metadata created by Dutch company Primephonic &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230331/p1#a230331p1)
+ - [Japan plans to restrict exports of 23 types of chip manufacturing equipment starting July 2023, amid the US push to curb China&#39;s ability to make advanced chips &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p39#a230330p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
