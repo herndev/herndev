@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM is cutting off access to Apple CarPlay and Android Auto for its future EVs](https://www.theverge.com/2023/3/31/23664814/gm-ev-restrict-apple-carplay-android-auto-google)
- - [TikTok Troubles Continue as Half of Americans Support a Ban of the App     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-troubles-continue-as-half-of-americans-support-a-ban-of-the-app/#ftag=CAD590a51e)
- - [Apple Arcade: Every New Game That Arrived in March     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple suffers setback as GM plans to phase out Apple CarPlay with Google’s help](https://www.androidauthority.com/apple-carplay-phase-out-3308334/)
+ - [GM&#39;s upcoming EVs won&#39;t support Apple CarPlay and Android Auto in favor of a system developed with Google, to help capture more data and subscription launches &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230331/p14#a230331p14)
+ - [UK antitrust case versus Apple&#39;s browser dominance dies on a technicality](https://appleinsider.com/articles/23/03/31/uk-antitrust-case-versus-apples-browser-dominance-dies-on-a-technicality?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
