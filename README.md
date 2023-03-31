@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Farewell to E3 as we knew it, the Super Bowl of our video game fandom](https://www.polygon.com/23664991/e3-2023-canceled-tribute)
- - [Overwatch 2&#39;s Unhinged April Fools Patch Notes Will Activate Your Fight Or Flight Response](https://kotaku.com/overwatch-2-april-fools-patch-notes-season-4-update-1850288970)
- - [Resident Evil 4 Ramon Salazar boss fight](https://www.polygon.com/resident-evil-4-remake-guides/23664580/ramon-salazar-boss-fight-ancient-chantry-chapter-12)<!-- GAME:END -->
+ - [New Official Sonic Game Straight Up Kills The Bastard](https://kotaku.com/sonic-death-dies-april-fools-sega-steam-pc-gaming-valve-1850289287)
+ - [Every FromSoftware Soulslike Ranked From Worst To Best](https://kotaku.com/fromsoftware-soulslike-ranked-elden-ring-dark-souls-ps5-1850289282)
+ - [Sonic’s dead in Sega’s new game The Murder of Sonic the Hedgehog](https://www.polygon.com/23665188/sonic-the-hedgehog-dead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
