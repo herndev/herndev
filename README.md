@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
- - ⏩ [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - 👉 [No wonder he has perfect teeth](http://9gag.com/gag/a9q6o8Z)<!-- MEMES:END -->
+ - 💣 [The star wars curse strikes again. She should do voice acting, she did a good job in that &#39;12 minutes&#39; game.](http://9gag.com/gag/aBd6DpN)
+ - ⏩ [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
+ - 👉 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)<!-- MEMES:END -->
 
 ---
 
