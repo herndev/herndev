@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China launches a cybersecurity review of products sold in the country by US memory chip manufacturer Micron, citing national security risks &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p9#a230331p9)
- - [Unique &#39;Lucky you&#39; sealed original iPhone is up for auction](https://appleinsider.com/articles/23/03/30/unique-lucky-you-sealed-original-iphone-is-up-for-auction?utm_medium=rss)
- - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)<!-- TECH:END -->
+ - [Google restructures virtual assistant team to focus more on Bard](https://www.androidauthority.com/google-virtual-assistant-3308250/)
+ - [Amazon to adapt Aaron Foley’s Boys Come First as a new series](https://www.theverge.com/2023/3/31/23664595/amazon-boys-come-first-aaron-foley-chuck-hayward)
+ - [Agreena, which uses AI-based monitoring by satellite imagery to let farmers earn carbon credits, raised a &amp;euro;46M Series B, after a &amp;euro;20M Series A in 2022 &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/230331/p10#a230331p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
