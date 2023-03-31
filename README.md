@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie and show coming to Disney Plus in April](https://www.polygon.com/23653356/disney-plus-new-movies-tv-watch-april-2023)
- - [Windy Meadow will take players back to the world of one of 2022&#39;s best narrative adventures](https://www.pcgamer.com/windy-meadow-will-take-players-back-to-the-world-of-one-of-2022s-best-narrative-adventures)
- - [Togepi and Snorlax Pokémon Squishmallows hit stores this weekend](https://www.polygon.com/23648410/togepi-snorlax-squishmallow-release-date-target-walmart-amazon)<!-- GAME:END -->
+ - [Farewell to E3 as we knew it, the Super Bowl of our video game fandom](https://www.polygon.com/23664991/e3-2023-canceled-tribute)
+ - [Overwatch 2&#39;s Unhinged April Fools Patch Notes Will Activate Your Fight Or Flight Response](https://kotaku.com/overwatch-2-april-fools-patch-notes-season-4-update-1850288970)
+ - [Resident Evil 4 Ramon Salazar boss fight](https://www.polygon.com/resident-evil-4-remake-guides/23664580/ramon-salazar-boss-fight-ancient-chantry-chapter-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
