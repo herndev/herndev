@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/axo3xYb)
- - ⏩ [Me: *gualquackquackgulrrrraaaww Doc: Oh that&#39;s nice..](http://9gag.com/gag/aqe846Z)
- - 👉 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
+ - 💣 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
+ - ⏩ [Sh\u00e4rk attac](http://9gag.com/gag/a5X6m8o)
+ - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
 
 ---
 
