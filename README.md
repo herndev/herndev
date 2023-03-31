@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
- - ⏩ [Emotional damage](http://9gag.com/gag/aBdLQ6P)
- - 👉 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
+ - 💣 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - ⏩ [Wait\u2026](http://9gag.com/gag/a6qXv2L)
+ - 👉 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
 
 ---
 
