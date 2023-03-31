@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the church puzzle in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-church-puzzle)
- - [Vampire Survivors beats out Elden Ring and God of War to score Best Game win at BAFTAs](https://www.pcgamer.com/vampire-survivors-beats-out-elden-ring-and-god-of-war-to-score-best-game-win-at-baftas)
- - [Samsung teases petabyte SSDs as today&#39;s drives just keep getting cheaper and cheaper](https://www.pcgamer.com/samsung-teases-petabyte-ssds-as-todays-drives-just-keep-getting-cheaper-and-cheaper)<!-- GAME:END -->
+ - [Vampire Survivors’ Second DLC Weaves an Enchanted Fairy Tale On April 13](https://news.xbox.com/en-us/2023/03/31/vampire-survivors-second-dlc-april-13/)
+ - [A PS VR2 price cut &#39;will be needed to avoid a complete disaster&#39; after reportedly slow launch](https://www.pcgamer.com/a-ps-vr2-price-cut-will-be-needed-to-avoid-a-complete-disaster-after-reportedly-slow-launch)
+ - [How to get refined wood in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-refined-wood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
