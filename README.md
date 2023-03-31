@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - ⏩ [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - 👉 [LOL! The reviews are day and night.](http://9gag.com/gag/a7qOY5w)<!-- MEMES:END -->
+ - ⏩ [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q6PAQ)
+ - 👉 [Iraq war veteran confronts George W. Bush](http://9gag.com/gag/aBd6q31)<!-- MEMES:END -->
 
 ---
 
