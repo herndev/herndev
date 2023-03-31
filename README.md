@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC and car modding scenes have a lot in common and I&#39;ve found just the PCs to prove it](https://www.pcgamer.com/the-pc-and-car-modding-scenes-have-a-lot-in-common-and-ive-found-just-the-pcs-to-prove-it)
- - [Get up to $150 off in Vertagear&#39;s gaming chair sale](https://www.pcgamer.com/get-up-to-dollar150-off-in-vertagears-gaming-chair-sale)
- - [Wordle hint and answer #650: Friday, March 31](https://www.pcgamer.com/wordle-hint-answer-today-650-march-31)<!-- GAME:END -->
+ - [How to solve the church puzzle in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-church-puzzle)
+ - [Vampire Survivors beats out Elden Ring and God of War to score Best Game win at BAFTAs](https://www.pcgamer.com/vampire-survivors-beats-out-elden-ring-and-god-of-war-to-score-best-game-win-at-baftas)
+ - [Samsung teases petabyte SSDs as today&#39;s drives just keep getting cheaper and cheaper](https://www.pcgamer.com/samsung-teases-petabyte-ssds-as-todays-drives-just-keep-getting-cheaper-and-cheaper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
