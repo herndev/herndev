@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Married Life](http://9gag.com/gag/aeQ1vNq)
- - ⏩ [............Post...........](http://9gag.com/gag/aQEQ6A8)
- - 👉 [Ladies and Gentlemen, it&#39;s a great honour to introduce our 31st member and the newest ally Finland.](http://9gag.com/gag/ay247zq)<!-- MEMES:END -->
+ - 💣 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
+ - ⏩ [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - 👉 [No wonder he has perfect teeth](http://9gag.com/gag/a9q6o8Z)<!-- MEMES:END -->
 
 ---
 
