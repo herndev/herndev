@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Chromebooks as low as $50, Dell USB-C monitor for $299, Apple Watch Ultra $659, more](https://appleinsider.com/articles/23/03/31/deals-chromebooks-as-low-as-50-dell-usb-c-monitor-for-299-apple-watch-ultra-659-more?utm_medium=rss)
- - [Apple Fifth Avenue celebrates Apple Music Classical with special Today at Apple performance](https://appleinsider.com/articles/23/03/31/apple-fifth-avenue-celebrates-apple-music-classical-with-special-today-at-apple-performance?utm_medium=rss)
- - [Apple providing iPads &amp; more to &#39;Exceptional Minds&#39; artistic program](https://appleinsider.com/articles/23/03/31/apple-providing-ipads-more-to-exceptional-minds-artistic-program?utm_medium=rss)<!-- TECH:END -->
+ - [China launches a cybersecurity review of products sold in the country by US memory chip manufacturer Micron, citing national security risks &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p9#a230331p9)
+ - [Unique &#39;Lucky you&#39; sealed original iPhone is up for auction](https://appleinsider.com/articles/23/03/30/unique-lucky-you-sealed-original-iphone-is-up-for-auction?utm_medium=rss)
+ - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
