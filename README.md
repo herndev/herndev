@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [She had 16:9 eyes](http://9gag.com/gag/a7qeL4x)<!-- MEMES:END -->
+ - ⏩ [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 👉 [Wait\u2026](http://9gag.com/gag/a6qXv2L)<!-- MEMES:END -->
 
 ---
 
