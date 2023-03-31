@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #650: Friday, March 31](https://www.pcgamer.com/wordle-hint-answer-today-650-march-31)
- - [The Great War Tries Once Again To Bring WW1 To Video Games](https://kotaku.com/the-great-war-western-front-impressions-strategy-pc-1850286102)
- - [Slightly Hotter Wizard makes Stardew Valley&#39;s wizard hotter, slightly](https://www.pcgamer.com/slightly-hotter-wizard-makes-stardew-valleys-wizard-hotter-slightly)<!-- GAME:END -->
+ - [The PC and car modding scenes have a lot in common and I&#39;ve found just the PCs to prove it](https://www.pcgamer.com/the-pc-and-car-modding-scenes-have-a-lot-in-common-and-ive-found-just-the-pcs-to-prove-it)
+ - [Get up to $150 off in Vertagear&#39;s gaming chair sale](https://www.pcgamer.com/get-up-to-dollar150-off-in-vertagears-gaming-chair-sale)
+ - [Wordle hint and answer #650: Friday, March 31](https://www.pcgamer.com/wordle-hint-answer-today-650-march-31)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
