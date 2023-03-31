@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 💣 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
  - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [Exposed](http://9gag.com/gag/aEq6Lzx)<!-- MEMES:END -->
+ - 👉 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)<!-- MEMES:END -->
 
 ---
 
