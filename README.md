@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact patch 3.6 livestream codes](https://www.polygon.com/genshin-impact-guides/23663280/patch-3-6-livestream-primogem-codes)
- - [Every Super Mario Game Ranked From Worst To Best](https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446)
- - [Breath of the Wild’s Eventide Island is one of Nintendo’s best pranks](https://www.polygon.com/zelda/23662928/legend-zelda-breath-wild-botw-eventide-island-revisiting)<!-- GAME:END -->
+ - [Final Fantasy XVI Dev Is Out Here Promising Next-Gen PS5 Wind You Can Feel](https://kotaku.com/final-fantasy-xvi-ps5-dualsense-rpg-next-gen-exclusive-1850287639)
+ - [AMD&#39;s affordable $85 A620 motherboards should fix Ryzen&#39;s price premium](https://www.pcgamer.com/amds-affordable-dollar85-a620-motherboards-should-fix-ryzens-price-premium)
+ - [Pikachu rips on guitar during Pokémon Music Festival](https://www.polygon.com/pokemon/23664596/pokemon-music-fest-pikachu-guitar-solo-meowth-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
