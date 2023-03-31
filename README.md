@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
- - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)<!-- MEMES:END -->
+ - 💣 [Married Life](http://9gag.com/gag/aeQ1vNq)
+ - ⏩ [............Post...........](http://9gag.com/gag/aQEQ6A8)
+ - 👉 [Ladies and Gentlemen, it&#39;s a great honour to introduce our 31st member and the newest ally Finland.](http://9gag.com/gag/ay247zq)<!-- MEMES:END -->
 
 ---
 
