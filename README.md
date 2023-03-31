@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The official D&amp;D Virtual Tabletop is looking pretty slick](https://www.pcgamer.com/the-official-dandd-virtual-tabletop-is-looking-pretty-slick)
- - [E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)
- - [Dark and Darker studio fires back over DMCA takedown fiasco: &#39;We hope that Nexon will stop making baseless claims&#39;](https://www.pcgamer.com/dark-and-darker-studio-fires-back-over-dmca-takedown-fiasco-we-hope-that-nexon-will-stop-making-baseless-claims)<!-- GAME:END -->
+ - [Slightly Hotter Wizard makes Stardew Valley&#39;s wizard hotter, slightly](https://www.pcgamer.com/slightly-hotter-wizard-makes-stardew-valleys-wizard-hotter-slightly)
+ - [The Australian government wants to slap games with loot boxes—like FIFA—with a mature rating](https://www.pcgamer.com/the-australian-government-wants-to-slap-games-with-loot-boxeslike-fifawith-a-mature-rating)
+ - [E3 Wasn&#39;t Canceled, It Was Killed](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
