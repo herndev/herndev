@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vivo X Fold 2 looks slim in unboxing video: But will it get a global launch?](https://www.androidauthority.com/vivo-x-fold-2-unboxing-video-3308036/)
  - [Apple&#39;s iOS 16.4: Security Updates Are Better Than a Goose Emoji](https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/)
- - [Paris Fell in Love With Escooters. Now It Might Ban Them](https://www.wired.com/story/paris-escooter-ban/)
- - [How Do People Live in Orbit? Ask the Space Archeologists](https://www.wired.com/story/space-archeology-international-space-station/)<!-- TECH:END -->
+ - [Paris Fell in Love With Escooters. Now It Might Ban Them](https://www.wired.com/story/paris-escooter-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
