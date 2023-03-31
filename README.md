@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - ⏩ [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q6PAQ)
- - 👉 [Iraq war veteran confronts George W. Bush](http://9gag.com/gag/aBd6q31)<!-- MEMES:END -->
+ - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 👉 [Exposed](http://9gag.com/gag/aEq6Lzx)<!-- MEMES:END -->
 
 ---
 
