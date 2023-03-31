@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Dungeons &amp; Dragons: Honor Among Thieves’ Plays Like Your Best D&amp;D Game](https://www.wired.com/story/dungeons-and-dragons-honor-amongst-thieves-review/)
- - [Smart AirTags lead cops to dumb thief wearing victim&#39;s socks](https://appleinsider.com/articles/23/03/31/smart-airtags-lead-cops-to-dumb-thief-wearing-victims-socks?utm_medium=rss)
- - [Solid-state iPhone 15 Pro buttons will work with gloves and cases](https://appleinsider.com/articles/23/03/31/solid-state-iphone-15-pro-buttons-will-work-with-gloves-and-cases?utm_medium=rss)<!-- TECH:END -->
+ - [Google hit by $4 billion lawsuit from UK publishers](https://appleinsider.com/articles/23/03/31/google-hit-by-4-billion-lawsuit-from-uk-publishers?utm_medium=rss)
+ - [Huawei reports 2022 revenue up 0.9% YoY to ~$93.4B and net profit down 69% YoY to ~$5.18B, its biggest drop since 2011, amid pandemic controls and US sanctions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230331/p4#a230331p4)
+ - [Italian regulators order ChatGPT ban over alleged violation of data privacy laws](https://www.theverge.com/2023/3/31/23664451/italy-bans-chatgpt-over-data-privacy-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
