@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
- - ⏩ [No regret](http://9gag.com/gag/ago1W5n)
- - 👉 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
+ - 💣 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
+ - ⏩ [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
+ - 👉 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
 
 ---
 
