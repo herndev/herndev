@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These developers want you to steal The Great Gatsby](https://www.polygon.com/videos/23665239/the-great-gatsby-copyright-games)
- - [These Great Fortnite Creative Maps Show Us What&#39;s Possible](https://kotaku.com/unreal-editor-fortnite-creative-epic-uefn-space-inside-1850289176)
- - [Dying Marvel&#39;s Avengers Game Unlocks Nearly Everything For Free](https://kotaku.com/marvels-avengers-final-update-free-cosmetics-dead-game-1850289415)<!-- GAME:END -->
+ - [Marvel’s Undergoing A Big Shake-Up Right Now](https://kotaku.com/marvel-victoria-alonso-ike-perlmutter-jonathan-majors-1850289779)
+ - [Resident Evil 4 Chapter 13: Wharf to Incubation Lab](https://www.polygon.com/resident-evil-4-remake-guides/23663896/resident-evil-4-chapter-13-wharf-to-incubation-lab)
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
