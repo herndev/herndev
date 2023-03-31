@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India is looking for alternatives to Pegasus to avoid the &quot;PR problem&quot; associated with the NSO Group, and is seeking to spend between $16M and $120M &lpar;Financial Times&rpar;](http://www.techmeme.com/230331/p2#a230331p2)
- - [How Apple&#39;s standalone classical music app fixes the genre&#39;s biggest problem of search and discovery with better metadata created by Dutch company Primephonic &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230331/p1#a230331p1)
- - [Japan plans to restrict exports of 23 types of chip manufacturing equipment starting July 2023, amid the US push to curb China&#39;s ability to make advanced chips &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p39#a230330p39)<!-- TECH:END -->
+ - [Apple&#39;s iOS 16.4: Security Updates Are Better Than a Goose Emoji](https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/)
+ - [Paris Fell in Love With Escooters. Now It Might Ban Them](https://www.wired.com/story/paris-escooter-ban/)
+ - [How Do People Live in Orbit? Ask the Space Archeologists](https://www.wired.com/story/space-archeology-international-space-station/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
