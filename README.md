@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Block says 44M of its 51M+ Cash App MAUs were verified via its IDV program as of December 2022, after Hindenburg claimed Block overstated user numbers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230330/p34#a230330p34)
- - [Google Photos update brings new movie editor feature to Chromebooks](https://www.androidauthority.com/google-photos-chromebook-3307860/)
- - [E3 might be gone, but this summer still has some big gaming events to watch](https://www.theverge.com/23663889/e3-summer-gaming-events-2023-game-fest-xbox-starfield-ubisoft)<!-- TECH:END -->
+ - [South Korea passes the K-Chips Act to boost the country&#39;s semiconductor industry by increasing tax credits for companies investing in manufacturing facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p35#a230330p35)
+ - [Summer gaming events 2023: with E3 canceled, here’s what’s next](https://www.theverge.com/2023/3/30/23663989/summer-gaming-events-2023-e3-canceled-news-announcements)
+ - [Memo: Block says 44M of its 51M+ Cash App MAUs were verified via its IDV program as of December 2022, after Hindenburg claimed Block overstated user numbers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230330/p34#a230330p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
