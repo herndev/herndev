@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2023, Apple Music Classical review, AR Headset in doubt](https://appleinsider.com/articles/23/03/31/wwdc-2023-apple-music-classical-review-ar-headset-in-doubt?utm_medium=rss)
- - [Sources: YMTC expects to begin production at a new chip plant in H2 2024 by relying more on domestic suppliers, boosting China&#39;s self-sufficiency efforts &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230331/p6#a230331p6)
- - [The Best Fantasy Shows to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-fantasy-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Chromebooks as low as $50, Dell USB-C monitor for $299, Apple Watch Ultra $659, more](https://appleinsider.com/articles/23/03/31/deals-chromebooks-as-low-as-50-dell-usb-c-monitor-for-299-apple-watch-ultra-659-more?utm_medium=rss)
+ - [Apple Fifth Avenue celebrates Apple Music Classical with special Today at Apple performance](https://appleinsider.com/articles/23/03/31/apple-fifth-avenue-celebrates-apple-music-classical-with-special-today-at-apple-performance?utm_medium=rss)
+ - [Apple providing iPads &amp; more to &#39;Exceptional Minds&#39; artistic program](https://appleinsider.com/articles/23/03/31/apple-providing-ipads-more-to-exceptional-minds-artistic-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
