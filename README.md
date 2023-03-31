@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google hit by $4 billion lawsuit from UK publishers](https://appleinsider.com/articles/23/03/31/google-hit-by-4-billion-lawsuit-from-uk-publishers?utm_medium=rss)
- - [Huawei reports 2022 revenue up 0.9% YoY to ~$93.4B and net profit down 69% YoY to ~$5.18B, its biggest drop since 2011, amid pandemic controls and US sanctions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230331/p4#a230331p4)
- - [Italian regulators order ChatGPT ban over alleged violation of data privacy laws](https://www.theverge.com/2023/3/31/23664451/italy-bans-chatgpt-over-data-privacy-laws)<!-- TECH:END -->
+ - [WWDC 2023, Apple Music Classical review, AR Headset in doubt](https://appleinsider.com/articles/23/03/31/wwdc-2023-apple-music-classical-review-ar-headset-in-doubt?utm_medium=rss)
+ - [Sources: YMTC expects to begin production at a new chip plant in H2 2024 by relying more on domestic suppliers, boosting China&#39;s self-sufficiency efforts &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230331/p6#a230331p6)
+ - [The Best Fantasy Shows to Watch on Netflix in 2023     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-very-best-fantasy-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
