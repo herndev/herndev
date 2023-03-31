@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She had 16:9 eyes](http://9gag.com/gag/a7qeL4x)
+ - 💣 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
  - ⏩ [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 👉 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
+ - 👉 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)<!-- MEMES:END -->
 
 ---
 
