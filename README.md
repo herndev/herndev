@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #650: Friday, March 31](https://www.pcgamer.com/wordle-hint-answer-today-650-march-31)
  - [The Great War Tries Once Again To Bring WW1 To Video Games](https://kotaku.com/the-great-war-western-front-impressions-strategy-pc-1850286102)
- - [Slightly Hotter Wizard makes Stardew Valley&#39;s wizard hotter, slightly](https://www.pcgamer.com/slightly-hotter-wizard-makes-stardew-valleys-wizard-hotter-slightly)
- - [The Australian government wants to slap games with loot boxes—like FIFA—with a mature rating](https://www.pcgamer.com/the-australian-government-wants-to-slap-games-with-loot-boxeslike-fifawith-a-mature-rating)<!-- GAME:END -->
+ - [Slightly Hotter Wizard makes Stardew Valley&#39;s wizard hotter, slightly](https://www.pcgamer.com/slightly-hotter-wizard-makes-stardew-valleys-wizard-hotter-slightly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
