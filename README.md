@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
- - ⏩ [Sh\u00e4rk attac](http://9gag.com/gag/a5X6m8o)
- - 👉 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
+ - 💣 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - ⏩ [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - 👉 [LOL! The reviews are day and night.](http://9gag.com/gag/a7qOY5w)<!-- MEMES:END -->
 
 ---
 
