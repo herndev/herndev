@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple suffers setback as GM plans to phase out Apple CarPlay with Google’s help](https://www.androidauthority.com/apple-carplay-phase-out-3308334/)
- - [GM&#39;s upcoming EVs won&#39;t support Apple CarPlay and Android Auto in favor of a system developed with Google, to help capture more data and subscription launches &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230331/p14#a230331p14)
- - [UK antitrust case versus Apple&#39;s browser dominance dies on a technicality](https://appleinsider.com/articles/23/03/31/uk-antitrust-case-versus-apples-browser-dominance-dies-on-a-technicality?utm_medium=rss)<!-- TECH:END -->
+ - [The ‘Truckla’ DIY Tesla pickup truck is still trucking](https://www.theverge.com/2023/3/31/23664748/truckla-tesla-model-3-pickup-truck-update-simone-giertz-video)
+ - [Filings: BlackRock cut the valuation of India&#39;s most valuable startup Byju&#39;s from $22B to $11.5B and Invesco cut Swiggy&#39;s valuation from $10.7B to ~$8B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230331/p16#a230331p16)
+ - [Apple&#39;s Mac mini M2 512GB drops to $699 &lpar;$100 off&rpar;, plus bonus AppleCare savings](https://appleinsider.com/articles/23/03/31/apples-mac-mini-m2-512gb-drops-to-699-100-off-plus-bonus-applecare-savings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
