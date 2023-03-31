@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy just banned chatGTP for privacy concerns](http://9gag.com/gag/a9qvM50)
- - ⏩ [And when everyone is a female athlete...nobody will be.](http://9gag.com/gag/aNwvoD6)
- - 👉 [There&#39;s a man in the mirror](http://9gag.com/gag/adPONB2)<!-- MEMES:END -->
+ - 💣 [There&#39;s a man in the mirror](http://9gag.com/gag/adPONB2)
+ - ⏩ [Now she can practice riding all she wants](http://9gag.com/gag/a7qeKoe)
+ - 👉 [Manager helps his employee get a raise](http://9gag.com/gag/a7qeKXA)<!-- MEMES:END -->
 
 ---
 
