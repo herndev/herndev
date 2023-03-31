@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt boss confirms it&#39;s starting over with multiplayer Witcher game: &#39;We don&#39;t want to carry on with projects that we are not aligned with&#39;](https://www.pcgamer.com/cd-projekt-boss-confirms-its-starting-over-with-multiplayer-witcher-game-we-dont-want-to-carry-on-with-projects-that-we-are-not-aligned-with)
- - [Honor Among Thieves’ directors explain where and why they broke the D&amp;D rules](https://www.polygon.com/23664760/honor-among-thieves-directors-interview-dungeons-and-dragons-dnd-rules)
- - [Hollowbody is a Silent Hill-inspired cyberpunk game set in a post-Brexit dystopia](https://www.polygon.com/23664846/hollowbody-gameplay-release-date)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in April](https://www.polygon.com/23653356/disney-plus-new-movies-tv-watch-april-2023)
+ - [Windy Meadow will take players back to the world of one of 2022&#39;s best narrative adventures](https://www.pcgamer.com/windy-meadow-will-take-players-back-to-the-world-of-one-of-2022s-best-narrative-adventures)
+ - [Togepi and Snorlax Pokémon Squishmallows hit stores this weekend](https://www.polygon.com/23648410/togepi-snorlax-squishmallow-release-date-target-walmart-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
