@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Great War Tries Once Again To Bring WW1 To Video Games](https://kotaku.com/the-great-war-western-front-impressions-strategy-pc-1850286102)
  - [Slightly Hotter Wizard makes Stardew Valley&#39;s wizard hotter, slightly](https://www.pcgamer.com/slightly-hotter-wizard-makes-stardew-valleys-wizard-hotter-slightly)
- - [The Australian government wants to slap games with loot boxes—like FIFA—with a mature rating](https://www.pcgamer.com/the-australian-government-wants-to-slap-games-with-loot-boxeslike-fifawith-a-mature-rating)
- - [E3 Wasn&#39;t Canceled, It Was Killed](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780)<!-- GAME:END -->
+ - [The Australian government wants to slap games with loot boxes—like FIFA—with a mature rating](https://www.pcgamer.com/the-australian-government-wants-to-slap-games-with-loot-boxeslike-fifawith-a-mature-rating)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
