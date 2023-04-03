@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Hot New Support Hero Lifeweaver Leaks, Fans Already Obsessed](https://kotaku.com/overwatch-2-lifeweaver-pansexual-support-hero-patch-1850295449)
- - [I don&#39;t care if a videogame remake is good or bad as long as I can still get the original](https://www.pcgamer.com/i-dont-care-if-a-videogame-remake-is-good-or-bad-as-long-as-i-can-still-get-the-original)
- - [Resident Evil 4 Remake Is Getting Review Bombed For The Worst Reasons](https://kotaku.com/re4-remake-woke-ada-wong-actress-lily-gao-reddit-1850295337)<!-- GAME:END -->
+ - [Ben Affleck’s new heist movie looks like an even trippier Tenet](https://www.polygon.com/23668671/robert-rodriguez-ben-affleck-hypnotic-trailer-release-date)
+ - [Twitch Star Hasan Thinks One Piece Is Socialist &lpar;And He’s Right&rpar;](https://kotaku.com/hasan-piker-one-piece-socialist-twitch-youtube-politics-1850295738)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
