@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/axov1QK)
- - ⏩ [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
- - 👉 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
+ - 💣 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - ⏩ [Lol](http://9gag.com/gag/axov1QK)
+ - 👉 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)<!-- MEMES:END -->
 
 ---
 
