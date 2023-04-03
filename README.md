@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to tame creatures in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-how-to-tame)
- - [I&#39;m completely hooked on this open world business sandbox sim, and I&#39;m not alone](https://www.pcgamer.com/im-completely-hooked-on-this-open-world-business-sandbox-sim-and-im-not-alone)
- - [Super Mario Bros. Movie Fans Knock Seth Rogen For Barely Trying](https://kotaku.com/super-mario-bros-movie-seth-rogen-donkey-kong-voice-1850293751)<!-- GAME:END -->
+ - [Super Mario Bros. Movie Cast Wear Their Characters To Opening Night](https://kotaku.com/super-mario-bros-movie-chris-pratt-jack-black-seth-roge-1850294257)
+ - [Popular YouTuber KSI And The Sidemen Apologize For Racial Slur Joke](https://kotaku.com/ksi-sidemen-countdown-youtube-slur-apologize-break-1850294235)
+ - [Resident Evil 4 fans just want Ashley to be a little mouse](https://www.polygon.com/23668156/resident-evil-4-ashley-mouse-fan-art-moushley)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
