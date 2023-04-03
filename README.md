@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secret Invasion’s latest trailer is a prelude to Marvel’s next big war](https://www.theverge.com/2023/4/2/23667453/secret-invasion-mcu-disney-plus-trailer-premiere-date)
  - [Twitter updates the description of all blue checkmarks to say &quot;This account is verified because it&#39;s subscribed to Twitter Blue or is a legacy verified account&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230402/p7#a230402p7)
- - [Sources: in November 2021, five days after Biden put NSO on a Commerce Department blocklist, a front company for the US government bought NSO&#39;s geolocation tool &lpar;New York Times&rpar;](http://www.techmeme.com/230402/p6#a230402p6)
- - [FlexiSpot Odin E7Q review: A heavy-duty standing desk](https://appleinsider.com/articles/23/04/02/flexispot-odin-e7q-review-a-heavy-duty-standing-desk?utm_medium=rss)<!-- TECH:END -->
+ - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
