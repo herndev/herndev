@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT is already banned in one country](https://www.androidauthority.com/chatgpt-ban-italy-3308581/)
  - [Nearby Share is now available for sharing files between Android and Windows](https://www.androidauthority.com/nearby-share-for-windows-pc-android-3308575/)
- - [New York-based grocery e-commerce company Boxed files for Chapter 11 bankruptcy protection; Boxed had said it held most of its cash and liquid assets at SVB &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p1#a230403p1)
- - [Samsung Galaxy S23 series is getting the April security patch](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
+ - [New York-based grocery e-commerce company Boxed files for Chapter 11 bankruptcy protection; Boxed had said it held most of its cash and liquid assets at SVB &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p1#a230403p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
