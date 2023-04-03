@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most powerful weapon in Resident Evil 4 remake is an egg](https://www.polygon.com/resident-evil-4-remake-guides/23668081/resident-evil-4-remake-most-powerful-weapon-chicken-golden-egg)
- - [Help, everyone&#39;s turning Resident Evil 4&#39;s Ashley into a mouse and now Capcom is in on it too](https://www.pcgamer.com/help-everyones-turning-resident-evil-4s-ashley-into-a-mouse-and-now-capcom-is-in-on-it-too)
- - [22 New Minutes Of Gameplay From Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-gameplay-respawn-entertainment-1850294506)<!-- GAME:END -->
+ - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)
+ - [Elden Ring First-Person Mod Offers A New Way To Get Your Ass Kicked](https://kotaku.com/elden-ring-first-person-pc-mod-fromsoftware-skyrim-rpg-1850294963)
+ - [The new League of Legends comic Katarina is packed with lore revelations](https://www.polygon.com/23668479/league-of-legends-katarina-comic-webtoon-riot-forge-mageseeker)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
