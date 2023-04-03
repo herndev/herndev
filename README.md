@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Secret Invasion’s latest trailer is a prelude to Marvel’s next big war](https://www.theverge.com/2023/4/2/23667453/secret-invasion-mcu-disney-plus-trailer-premiere-date)
- - [Twitter updates the description of all blue checkmarks to say &quot;This account is verified because it&#39;s subscribed to Twitter Blue or is a legacy verified account&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230402/p7#a230402p7)
- - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: soon after Pinduoduo&#39;s app updated to remove backdoor exploits, most of the team working on them was moved to work on Temu, which is a top app in the US &lpar;CNN&rpar;](http://www.techmeme.com/230402/p9#a230402p9)
+ - [In a referendum 89% of Parisians voted against keeping shared e-scooters in the city; Lime, Dott, and Tier will have to pull their fleets out by September 1 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230402/p8#a230402p8)
+ - [Secret Invasion’s latest trailer is a prelude to Marvel’s next big war](https://www.theverge.com/2023/4/2/23667453/secret-invasion-mcu-disney-plus-trailer-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
