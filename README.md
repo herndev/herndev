@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - ⏩ [Lol](http://9gag.com/gag/axov1QK)
- - 👉 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)<!-- MEMES:END -->
+ - 💣 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
+ - ⏩ [True villain of the show](http://9gag.com/gag/a4oz70y)
+ - 👉 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
 
 ---
 
