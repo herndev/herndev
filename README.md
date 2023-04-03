@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every iPhone 17 model expected to get always-on display tech](https://appleinsider.com/articles/23/04/03/every-iphone-17-model-expected-to-get-always-on-display-tech?utm_medium=rss)
- - [The &#39;Lucky You&#39; iPhone sold for more than a college tuition](https://appleinsider.com/articles/23/04/03/the-lucky-you-iphone-sold-for-more-than-a-college-tuition?utm_medium=rss)
- - [The Tor Project partners with VPN maker Mullvad to launch the Mullvad browser, available on Windows, macOS, and Linux, seeking to reduce a user&#39;s &quot;fingerprint&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230403/p12#a230403p12)<!-- TECH:END -->
+ - [Google Search adds new travel features to save on flights and hotels](https://www.androidauthority.com/google-search-travel-3308769/)
+ - [Deals: $100 off iPad Air 5, 38% off iPhone 11 Pro Max, iPhone SE 2 for $100, more](https://appleinsider.com/articles/23/04/03/deals-100-off-ipad-air-5-38-off-iphone-11-pro-max-iphone-se-2-for-100-more?utm_medium=rss)
+ - [Apple TV+ &#39;Jane&#39; trailer hints at action-filled conservation from April 14](https://appleinsider.com/articles/23/04/03/apple-tv-jane-trailer-hints-at-action-filled-conservation-from-april-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
