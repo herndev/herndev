@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is he even trying to achieve](http://9gag.com/gag/axovg6Y)
- - ⏩ [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
- - 👉 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
+ - 💣 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
+ - ⏩ [We forgot this](http://9gag.com/gag/aYVOg07)
+ - 👉 [Probably had the worst trip of his life.](http://9gag.com/gag/adPO91j)<!-- MEMES:END -->
 
 ---
 
