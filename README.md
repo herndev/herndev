@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Original iPad vs 2021 &amp; 2022 iPad -- what 13 years of development can do](https://appleinsider.com/inside/ipad/vs/original-ipad-vs-2021-2022-ipad----what-13-years-of-development-can-do?utm_medium=rss)
- - [Apple&#39;s iPad is still showing the world how to do tablets, 13 years later](https://appleinsider.com/articles/23/04/03/apples-ipad-is-still-showing-the-world-how-to-do-tablets-13-years-later?utm_medium=rss)
- - [Unlike most boring modern laptops, Framework&#39;s repairable, sustainable, and upgradeable models are exciting, harking back to the early 2000s era of computing &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230403/p9#a230403p9)<!-- TECH:END -->
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [Artificial Wombs Will Change Abortion Rights Forever](https://www.wired.com/story/ectogenesis-reproductive-health-abortion/)
+ - [An interview and profile of Tim Cook on running Apple, succeeding Steve Jobs, being an outsider, creativity, avoiding smartphone addiction, rivals, and more &lpar;Zach Baron/GQ&rpar;](http://www.techmeme.com/230403/p11#a230403p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
