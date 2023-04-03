@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tom Holland&#39;s thriller &#39;The Crowded Room&#39; premieres June 9 on Apple TV+](https://appleinsider.com/articles/23/04/03/tom-hollands-thriller-the-crowded-room-premieres-june-9-on-apple-tv?utm_medium=rss)
- - [How iPhone 14 sales compare to iPhone 12 &amp; iPhone 13](https://appleinsider.com/articles/23/04/03/how-iphone-14-sales-compare-to-iphone-12-iphone-13?utm_medium=rss)
- - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)<!-- TECH:END -->
+ - [One in three moms track their partner&#39;s every move with Apple tech](https://appleinsider.com/articles/23/04/03/one-in-three-moms-track-their-partners-every-move-with-apple-tech?utm_medium=rss)
+ - [Documents: Google is reducing fitness classes, tape, staplers, and the frequency of laptop replacements, with non-engineers getting Chromebooks by default &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230403/p15#a230403p15)
+ - [Galaxy Tab S9 Plus leak gives us our first look at Samsung’s next tablet](https://www.androidauthority.com/galaxy-tab-s9-plus-3308822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
