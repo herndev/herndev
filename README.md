@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series is getting the April security patch](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Latest Samsung Galaxy S23 FE leak reads like a cruel April Fools’ Day joke](https://www.androidauthority.com/samsung-galaxy-s23-fe-exynos-2200-3308573/)
- - [Mint Mobile Is Upping Its Data Plans On April 14     - CNET](https://www.cnet.com/tech/mobile/mint-mobile-is-upping-its-data-plans-on-april-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nearby Share is now available for sharing files between Android and Windows](https://www.androidauthority.com/nearby-share-for-windows-pc-android-3308575/)
+ - [New York-based grocery e-commerce company Boxed files for Chapter 11 bankruptcy protection; Boxed had said it held most of its cash and liquid assets at SVB &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p1#a230403p1)
+ - [Samsung Galaxy S23 series is getting the April security patch](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
