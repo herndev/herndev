@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
- - ⏩ [We forgot this](http://9gag.com/gag/aYVOg07)
- - 👉 [Probably had the worst trip of his life.](http://9gag.com/gag/adPO91j)<!-- MEMES:END -->
+ - 💣 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - ⏩ [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
+ - 👉 [True villain of the show](http://9gag.com/gag/a4oz70y)<!-- MEMES:END -->
 
 ---
 
