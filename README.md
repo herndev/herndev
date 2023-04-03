@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Source: soon after Pinduoduo&#39;s app updated to remove backdoor exploits, most of the team working on them was moved to work on Temu, which is a top app in the US &lpar;CNN&rpar;](http://www.techmeme.com/230402/p9#a230402p9)
  - [In a referendum 89% of Parisians voted against keeping shared e-scooters in the city; Lime, Dott, and Tier will have to pull their fleets out by September 1 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230402/p8#a230402p8)
- - [Secret Invasion’s latest trailer is a prelude to Marvel’s next big war](https://www.theverge.com/2023/4/2/23667453/secret-invasion-mcu-disney-plus-trailer-premiere-date)<!-- TECH:END -->
+ - [The Absolute Best Nintendo Switch Games to Play in 2023     - CNET](https://www.cnet.com/pictures/the-absolute-best-nintendo-switch-games-to-play-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
