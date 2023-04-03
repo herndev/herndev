@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/axov1QK)
- - ⏩ [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)
- - 👉 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)<!-- MEMES:END -->
+ - 💣 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
+ - ⏩ [Cate Blanchett](http://9gag.com/gag/a2K841D)
+ - 👉 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
 
 ---
 
