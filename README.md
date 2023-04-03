@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Start the rapture](http://9gag.com/gag/a2K8REw)
- - ⏩ [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 👉 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)<!-- MEMES:END -->
+ - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 👉 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
 
 ---
 
