@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is already banned in one country](https://www.androidauthority.com/chatgpt-ban-italy-3308581/)
- - [Nearby Share is now available for sharing files between Android and Windows](https://www.androidauthority.com/nearby-share-for-windows-pc-android-3308575/)
- - [New York-based grocery e-commerce company Boxed files for Chapter 11 bankruptcy protection; Boxed had said it held most of its cash and liquid assets at SVB &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p1#a230403p1)<!-- TECH:END -->
+ - [After an uproar, the Arbitrum Foundation plans to break up a controversial governance package into separate votes, including a 750M ARB token allocation &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230403/p3#a230403p3)
+ - [Daily Authority: 🌟 The old OnePlus returns &lpar;but not for all&rpar;](https://www.androidauthority.com/daily-authority-april-3-2023-3308574/)
+ - [Vivo X Flip real-world image appears online: A Galaxy-beating cover display?](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
