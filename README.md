@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This upcoming FPS is a love letter to soul patches, JNCOs, nu metal, and everything else 1999](https://www.pcgamer.com/this-upcoming-boomer-shooter-is-a-love-letter-to-soul-patches-jncos-nu-metal-and-everything-else-1999)
- - [Composer &amp; Pop Star Ryuichi Sakamoto Has Died](https://kotaku.com/ryuichi-sakamoto-composer-death-rip-revenant-oscar-ymo-1850292708)
- - [I had my weekend turned on its head by this stop motion-animated pagan fever dream of a game](https://www.pcgamer.com/i-had-my-weekend-turned-on-its-head-by-this-stop-motion-animated-pagan-fever-dream-of-a-game)<!-- GAME:END -->
+ - [Everything&#39;s underwater but you and your friends in survival game Sunkenland](https://www.pcgamer.com/everythings-underwater-but-you-and-your-friends-in-survival-game-sunkenland)
+ - [Final Fantasy XIV Expansion Now Free To Download](https://kotaku.com/ffxiv-final-fantasy-xiv-stormblood-free-download-pc-1850292776)
+ - [Cyberpunk life-sim RPG Citizen Sleeper&#39;s third, final free DLC is live](https://www.pcgamer.com/cyberpunk-life-sim-rpg-citizen-sleepers-third-final-free-dlc-is-live)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
