@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why did the Black guy cross the road](http://9gag.com/gag/a3ZAK7N)
- - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 👉 [He just blew up the show](http://9gag.com/gag/aeQO5xq)<!-- MEMES:END -->
+ - 💣 [The Only brother unmarried](http://9gag.com/gag/a04VbVz)
+ - ⏩ [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
+ - 👉 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)<!-- MEMES:END -->
 
 ---
 
