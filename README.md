@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)
+ - 💣 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)
  - ⏩ [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 👉 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
+ - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
 
 ---
 
