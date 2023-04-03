@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Saudi Public Investment Fund lists ~35 of its partnerships with US VC firms, like a16z, Coatue, Craft Ventures, Iconiq, Insight Partners, and Human Capital &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230403/p20#a230403p20)
- - [New Privacy-Focused Browser Aims to Fight Data Tracking     - CNET](https://www.cnet.com/tech/services-and-software/new-privacy-focused-browser-aims-to-fight-data-tracking/#ftag=CAD590a51e)
- - [Asus Unveils Steam Deck Competitor     - CNET](https://www.cnet.com/tech/gaming/asus-unveils-steam-deck-competitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and leaked images: the next Microsoft Surface Dock will debut in coming weeks with Thunderbolt 4 support, a slimmer design, and no proprietary connector &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230403/p21#a230403p21)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [The Saudi Public Investment Fund lists ~35 of its partnerships with US VC firms, like a16z, Coatue, Craft Ventures, Iconiq, Insight Partners, and Human Capital &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230403/p20#a230403p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
