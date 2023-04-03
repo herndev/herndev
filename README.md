@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - ⏩ [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
- - 👉 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
+ - 💣 [Why did the Black guy cross the road](http://9gag.com/gag/a3ZAK7N)
+ - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 👉 [He just blew up the show](http://9gag.com/gag/aeQO5xq)<!-- MEMES:END -->
 
 ---
 
