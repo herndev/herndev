@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Flip: When will Apple get into the foldable iPhone game?](https://www.androidauthority.com/iphone-flip-ipad-foldable-3307783/)
- - [Apple Original &#39;Napoleon&#39; will see theatrical release in November](https://appleinsider.com/articles/23/04/03/apple-original-napoleon-will-see-theatrical-release-in-november?utm_medium=rss)
- - [VOCOlinc Smart Plug review: Powerful HomeKit control at a fair price](https://appleinsider.com/articles/23/04/01/vocolinc-smart-plug-review-powerful-control-at-a-fair-price?utm_medium=rss)<!-- TECH:END -->
+ - [The Saudi Public Investment Fund lists ~35 of its partnerships with US VC firms, like a16z, Coatue, Craft Ventures, Iconiq, Insight Partners, and Human Capital &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230403/p20#a230403p20)
+ - [New Privacy-Focused Browser Aims to Fight Data Tracking     - CNET](https://www.cnet.com/tech/services-and-software/new-privacy-focused-browser-aims-to-fight-data-tracking/#ftag=CAD590a51e)
+ - [Asus Unveils Steam Deck Competitor     - CNET](https://www.cnet.com/tech/gaming/asus-unveils-steam-deck-competitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
