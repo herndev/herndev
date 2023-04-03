@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Power really reminds us how much society sucks for women](https://www.polygon.com/23665085/the-power-prime-video-review-episode)
- - [Can you tell Hag&#39;s End from Hag Rock? Prove it with this Skyrim Geoguessr-style game](https://www.pcgamer.com/can-you-tell-hags-end-from-hag-rock-prove-it-with-this-skyrim-geoguessr-style-game)
- - [Sonic the Hedgehog was murdered](https://www.pcgamer.com/sonic-the-hedgehog-was-murdered)<!-- GAME:END -->
+ - [This upcoming FPS is a love letter to soul patches, JNCOs, nu metal, and everything else 1999](https://www.pcgamer.com/this-upcoming-boomer-shooter-is-a-love-letter-to-soul-patches-jncos-nu-metal-and-everything-else-1999)
+ - [Composer &amp; Pop Star Ryuichi Sakamoto Has Died](https://kotaku.com/ryuichi-sakamoto-composer-death-rip-revenant-oscar-ymo-1850292708)
+ - [I had my weekend turned on its head by this stop motion-animated pagan fever dream of a game](https://www.pcgamer.com/i-had-my-weekend-turned-on-its-head-by-this-stop-motion-animated-pagan-fever-dream-of-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
