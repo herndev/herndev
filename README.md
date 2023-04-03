@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search adds new travel features to save on flights and hotels](https://www.androidauthority.com/google-search-travel-3308769/)
- - [Deals: $100 off iPad Air 5, 38% off iPhone 11 Pro Max, iPhone SE 2 for $100, more](https://appleinsider.com/articles/23/04/03/deals-100-off-ipad-air-5-38-off-iphone-11-pro-max-iphone-se-2-for-100-more?utm_medium=rss)
- - [Apple TV+ &#39;Jane&#39; trailer hints at action-filled conservation from April 14](https://appleinsider.com/articles/23/04/03/apple-tv-jane-trailer-hints-at-action-filled-conservation-from-april-14?utm_medium=rss)<!-- TECH:END -->
+ - [Tom Holland&#39;s thriller &#39;The Crowded Room&#39; premieres June 9 on Apple TV+](https://appleinsider.com/articles/23/04/03/tom-hollands-thriller-the-crowded-room-premieres-june-9-on-apple-tv?utm_medium=rss)
+ - [How iPhone 14 sales compare to iPhone 12 &amp; iPhone 13](https://appleinsider.com/articles/23/04/03/how-iphone-14-sales-compare-to-iphone-12-iphone-13?utm_medium=rss)
+ - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
