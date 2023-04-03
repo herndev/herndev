@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obviously, this is a fast-paced roguelike where you are a crab with a gun](https://www.pcgamer.com/obviously-this-is-a-fast-paced-roguelike-where-you-are-a-crab-with-a-gun)
- - [Everything&#39;s underwater but you and your friends in survival game Sunkenland](https://www.pcgamer.com/everythings-underwater-but-you-and-your-friends-in-survival-game-sunkenland)
- - [Final Fantasy XIV Expansion Now Free To Download](https://kotaku.com/ffxiv-final-fantasy-xiv-stormblood-free-download-pc-1850292776)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 3, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-3-2023)
+ - [Here&#39;s 23 free game prototypes from the creators of Totally Accurate Battle Simulator](https://www.pcgamer.com/heres-23-free-game-prototypes-from-the-creators-of-totally-accurate-battle-simulator)
+ - [Obviously, this is a fast-paced roguelike where you are a crab with a gun](https://www.pcgamer.com/obviously-this-is-a-fast-paced-roguelike-where-you-are-a-crab-with-a-gun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
