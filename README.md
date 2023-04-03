@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
- - ⏩ [This separates a boy from a man](http://9gag.com/gag/agoOL6q)
- - 👉 [Starring Anakin Skywalker](http://9gag.com/gag/aQEQ3RW)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/axov1QK)
+ - ⏩ [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
+ - 👉 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
 
 ---
 
