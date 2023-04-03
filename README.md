@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 💣 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)
+ - ⏩ [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
  - 👉 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
 
 ---
