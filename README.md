@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Obviously, this is a fast-paced roguelike where you are a crab with a gun](https://www.pcgamer.com/obviously-this-is-a-fast-paced-roguelike-where-you-are-a-crab-with-a-gun)
  - [Everything&#39;s underwater but you and your friends in survival game Sunkenland](https://www.pcgamer.com/everythings-underwater-but-you-and-your-friends-in-survival-game-sunkenland)
- - [Final Fantasy XIV Expansion Now Free To Download](https://kotaku.com/ffxiv-final-fantasy-xiv-stormblood-free-download-pc-1850292776)
- - [Cyberpunk life-sim RPG Citizen Sleeper&#39;s third, final free DLC is live](https://www.pcgamer.com/cyberpunk-life-sim-rpg-citizen-sleepers-third-final-free-dlc-is-live)<!-- GAME:END -->
+ - [Final Fantasy XIV Expansion Now Free To Download](https://kotaku.com/ffxiv-final-fantasy-xiv-stormblood-free-download-pc-1850292776)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
