@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If this ROG handheld PC is real then Asus announced it in the worst way](https://www.pcgamer.com/asus-rog-ally-gaming-handheld-real-or-stunt)
- - [The RTX 4070 just leaked, looks like a match for an RTX 3080 without frame gen](https://www.pcgamer.com/the-rtx-4070-just-leaked-looks-like-a-match-for-an-rtx-3080-without-frame-gen)
- - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)<!-- GAME:END -->
+ - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/let-s-rank-the-pokemon-starters-worst-to-best-1850287696)
+ - [Dying Marvel&#39;s Avengers Game Unlocks Nearly Everything For Free](https://kotaku.com/marvels-avengers-final-update-free-cosmetics-dead-game-1850289415)
+ - [Lego’s new Indiana Jones sets are available now](https://www.polygon.com/23637986/indiana-jones-lego-set-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
