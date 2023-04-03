@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)
- - [Elden Ring First-Person Mod Offers A New Way To Get Your Ass Kicked](https://kotaku.com/elden-ring-first-person-pc-mod-fromsoftware-skyrim-rpg-1850294963)
- - [The new League of Legends comic Katarina is packed with lore revelations](https://www.polygon.com/23668479/league-of-legends-katarina-comic-webtoon-riot-forge-mageseeker)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Hot New Support Hero Lifeweaver Leaks, Fans Already Obsessed](https://kotaku.com/overwatch-2-lifeweaver-pansexual-support-hero-patch-1850295449)
+ - [I don&#39;t care if a videogame remake is good or bad as long as I can still get the original](https://www.pcgamer.com/i-dont-care-if-a-videogame-remake-is-good-or-bad-as-long-as-i-can-still-get-the-original)
+ - [Resident Evil 4 Remake Is Getting Review Bombed For The Worst Reasons](https://kotaku.com/re4-remake-woke-ada-wong-actress-lily-gao-reddit-1850295337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
