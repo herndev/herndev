@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of Thrones’ next spinoff really shouldn’t be an Aegon the Conqueror series](https://www.polygon.com/23668840/game-thrones-hbo-spinoff-house-dragon-aegon-conqueror)
- - [Ben Affleck’s new heist movie looks like an even trippier Tenet](https://www.polygon.com/23668671/robert-rodriguez-ben-affleck-hypnotic-trailer-release-date)
- - [Twitch Star Hasan Thinks One Piece Is Socialist &lpar;And He’s Right&rpar;](https://kotaku.com/hasan-piker-one-piece-socialist-twitch-youtube-politics-1850295738)<!-- GAME:END -->
+ - [I knew Capcom was doing pretty well, but its stock is skyrocketing](https://www.pcgamer.com/i-knew-capcom-was-doing-pretty-well-but-its-stock-is-skyrocketing)
+ - [Activision settles esports salary cap lawsuit with Department of Justice](https://www.pcgamer.com/activision-settles-esports-salary-cap-lawsuit-with-department-of-justice)
+ - [Pro Street Fighter V Player Calls Out Major Tourney’s Crappy Setup](https://kotaku.com/evo-japan-punk-monitor-lag-setup-street-fighter-5-sf5-1850295771)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
