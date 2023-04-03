@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - ⏩ [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 💣 [Equality](http://9gag.com/gag/aYVOg20)
+ - ⏩ [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
  - 👉 [Ben Stiller&#39;s Perfect Tom Cruise Impression](http://9gag.com/gag/aVbEYeM)<!-- MEMES:END -->
 
 ---
