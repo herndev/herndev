@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 5 is getting a huge cover screen, and here’s what it looks like](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-screen-upgrade-3308630/)
- - [One year after Rishi Sunak pledged to make the UK a crypto-friendly hub, UK crypto executives say banks are increasingly unwilling to support crypto companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p4#a230403p4)
- - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-35-absolute-best-tv-shows-to-watch-april/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research: Israeli tech startups raised $1.7B in Q1 2023, the lowest since 2018, weighed down by a global slowdown and protests over a proposed judicial overhaul &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230403/p7#a230403p7)
+ - [Amsterdam-based Fourthline, which offers AI tools for ID checks and compliance to finance companies, raised &amp;euro;50M led by Finch, taking its total funding to &amp;euro;70M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230403/p6#a230403p6)
+ - [A look at problems at Digital World Acquisition Corp, which plans to take Truth Social public by September 8, after CEO Patrick Orlando was ousted &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230403/p5#a230403p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
