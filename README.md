@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
- - ⏩ [True villain of the show](http://9gag.com/gag/a4oz70y)
- - 👉 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
+ - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - ⏩ [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 👉 [Ben Stiller&#39;s Perfect Tom Cruise Impression](http://9gag.com/gag/aVbEYeM)<!-- MEMES:END -->
 
 ---
 
