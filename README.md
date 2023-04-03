@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There is a big interest in an iPhone Fold, well ahead of any launch](https://appleinsider.com/articles/23/04/03/there-is-a-big-interest-in-an-iphone-fold-well-ahead-of-any-launch?utm_medium=rss)
- - [Turns out ASUS’s Steam Deck competitor is real and preorders are going live soon](https://www.androidauthority.com/asus-rog-ally-3308874/)
- - [Spotify shuts down its Clubhouse-style audio app Spotify Live, previously called Locker Room, acquired as part of &amp;euro;57M acquisition of Betty Labs in March 2021 &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/230403/p18#a230403p18)<!-- TECH:END -->
+ - [iPhone Flip: When will Apple get into the foldable iPhone game?](https://www.androidauthority.com/iphone-flip-ipad-foldable-3307783/)
+ - [Apple Original &#39;Napoleon&#39; will see theatrical release in November](https://appleinsider.com/articles/23/04/03/apple-original-napoleon-will-see-theatrical-release-in-november?utm_medium=rss)
+ - [VOCOlinc Smart Plug review: Powerful HomeKit control at a fair price](https://appleinsider.com/articles/23/04/01/vocolinc-smart-plug-review-powerful-control-at-a-fair-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
