@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Artificial Wombs Will Change Abortion Rights Forever](https://www.wired.com/story/ectogenesis-reproductive-health-abortion/)
- - [An interview and profile of Tim Cook on running Apple, succeeding Steve Jobs, being an outsider, creativity, avoiding smartphone addiction, rivals, and more &lpar;Zach Baron/GQ&rpar;](http://www.techmeme.com/230403/p11#a230403p11)<!-- TECH:END -->
+ - [Tim Cook enthuses on AR and VR in GQ profile](https://appleinsider.com/articles/23/04/03/tim-cook-an-approachable-but-not-normal-ceo-says-profile?utm_medium=rss)
+ - [WWDC HomeKit predictions, Hue Matter update delays &amp; more smart home news](https://appleinsider.com/articles/23/04/03/wwdc-homekit-predictions-hue-matter-update-delays-more-smart-home-news?utm_medium=rss)
+ - [Last Chance Alert: Microsoft Office 2021 Is Just $40 as 1-Time Purchase for Limited Time     - CNET](https://www.cnet.com/deals/last-call-microsoft-office-2021-for-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
