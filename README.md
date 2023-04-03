@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/let-s-rank-the-pokemon-starters-worst-to-best-1850287696)
- - [Dying Marvel&#39;s Avengers Game Unlocks Nearly Everything For Free](https://kotaku.com/marvels-avengers-final-update-free-cosmetics-dead-game-1850289415)
- - [Lego’s new Indiana Jones sets are available now](https://www.polygon.com/23637986/indiana-jones-lego-set-2023)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons had a true neutral opening box office weekend](https://www.polygon.com/23667949/dungeons-dragons-opening-weekend-box-office-honor-among-thieves)
+ - [Blue Beetle trailer gives the DC superhero a buster sword](https://www.polygon.com/23667967/blue-beetle-trailer-dc-warner-bros)
+ - [Chris Hemsworth’s flaming fist fight is already the best part of Extraction 2](https://www.polygon.com/23667950/extraction-2-trailer-netflix-chris-hemsworth-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
