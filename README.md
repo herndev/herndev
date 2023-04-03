@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality](http://9gag.com/gag/aYVOg20)
- - ⏩ [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - 👉 [Ben Stiller&#39;s Perfect Tom Cruise Impression](http://9gag.com/gag/aVbEYeM)<!-- MEMES:END -->
+ - 💣 [Ben Stiller&#39;s Perfect Tom Cruise Impression](http://9gag.com/gag/aVbEYeM)
+ - ⏩ [Horse kept harrasing the owner. The owner was prepared](http://9gag.com/gag/aVbEMRw)
+ - 👉 [We forgot this](http://9gag.com/gag/aYVOg07)<!-- MEMES:END -->
 
 ---
 
