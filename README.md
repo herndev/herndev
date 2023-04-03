@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Only brother unmarried](http://9gag.com/gag/a04VbVz)
- - ⏩ [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
- - 👉 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)<!-- MEMES:END -->
+ - 💣 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
+ - ⏩ [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
+ - 👉 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
 
 ---
 
