@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game of Thrones’ next spinoff really shouldn’t be an Aegon the Conqueror series](https://www.polygon.com/23668840/game-thrones-hbo-spinoff-house-dragon-aegon-conqueror)
  - [Ben Affleck’s new heist movie looks like an even trippier Tenet](https://www.polygon.com/23668671/robert-rodriguez-ben-affleck-hypnotic-trailer-release-date)
- - [Twitch Star Hasan Thinks One Piece Is Socialist &lpar;And He’s Right&rpar;](https://kotaku.com/hasan-piker-one-piece-socialist-twitch-youtube-politics-1850295738)
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
+ - [Twitch Star Hasan Thinks One Piece Is Socialist &lpar;And He’s Right&rpar;](https://kotaku.com/hasan-piker-one-piece-socialist-twitch-youtube-politics-1850295738)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
