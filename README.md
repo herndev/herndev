@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
- - ⏩ [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
- - 👉 [True villain of the show](http://9gag.com/gag/a4oz70y)<!-- MEMES:END -->
+ - 💣 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - ⏩ [Lol](http://9gag.com/gag/axov1QK)
+ - 👉 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)<!-- MEMES:END -->
 
 ---
 
