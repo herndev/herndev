@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and leaked images: the next Microsoft Surface Dock will debut in coming weeks with Thunderbolt 4 support, a slimmer design, and no proprietary connector &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230403/p21#a230403p21)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [The Saudi Public Investment Fund lists ~35 of its partnerships with US VC firms, like a16z, Coatue, Craft Ventures, Iconiq, Insight Partners, and Human Capital &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230403/p20#a230403p20)<!-- TECH:END -->
+ - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-april-2023/#ftag=CAD590a51e)
+ - [Best Wireless Headphones for 2023: Bluetooth and More     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
+ - [Apple cuts select corporate retail jobs in streamlining effort](https://appleinsider.com/articles/23/04/03/apple-cuts-select-retail-jobs-in-streamlining-effort?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
