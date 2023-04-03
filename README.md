@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Movie Cast Wear Their Characters To Opening Night](https://kotaku.com/super-mario-bros-movie-chris-pratt-jack-black-seth-roge-1850294257)
- - [Popular YouTuber KSI And The Sidemen Apologize For Racial Slur Joke](https://kotaku.com/ksi-sidemen-countdown-youtube-slur-apologize-break-1850294235)
- - [Resident Evil 4 fans just want Ashley to be a little mouse](https://www.polygon.com/23668156/resident-evil-4-ashley-mouse-fan-art-moushley)<!-- GAME:END -->
+ - [The most powerful weapon in Resident Evil 4 remake is an egg](https://www.polygon.com/resident-evil-4-remake-guides/23668081/resident-evil-4-remake-most-powerful-weapon-chicken-golden-egg)
+ - [Help, everyone&#39;s turning Resident Evil 4&#39;s Ashley into a mouse and now Capcom is in on it too](https://www.pcgamer.com/help-everyones-turning-resident-evil-4s-ashley-into-a-mouse-and-now-capcom-is-in-on-it-too)
+ - [22 New Minutes Of Gameplay From Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-gameplay-respawn-entertainment-1850294506)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
