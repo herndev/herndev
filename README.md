@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I found a Skyrim mod that adds skooma hallucinations, now I&#39;m a drug addict with an imaginary goat](https://www.pcgamer.com/i-found-a-skyrim-mod-that-adds-skooma-hallucinations-now-im-a-drug-addict-with-an-imaginary-goat)
- - [Wordle hint and answer #653: Monday, April 3](https://www.pcgamer.com/wordle-hint-answer-today-653-april-3)
- - [Voice actor who played Ada Wong in the Resident Evil 4 remake wipes her Instagram after harassment](https://www.pcgamer.com/resident-evil-4-remake-ada-wong-voice-actor-wipes-instagram-after-harassment)<!-- GAME:END -->
+ - [The Great War: Western Front review](https://www.pcgamer.com/the-great-war-western-front-review)
+ - [Dungeons &amp; Dragons: Honor Among Thieves directors are considering leaving Faerûn for another setting in a sequel](https://www.pcgamer.com/dungeons-and-dragons-honor-among-thieves-directors-are-considering-leaving-faerun-for-another-setting-in-a-sequel)
+ - [I found a Skyrim mod that adds skooma hallucinations, now I&#39;m a drug addict with an imaginary goat](https://www.pcgamer.com/i-found-a-skyrim-mod-that-adds-skooma-hallucinations-now-im-a-drug-addict-with-an-imaginary-goat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
