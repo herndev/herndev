@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive implements new file limit that’s locking some users out](https://www.androidauthority.com/google-drive-file-limit-3308402/)
- - [LeBron James, William Shatner, Seinfeld actor Jason Alexander, and some other celebrities with millions of followers say they won&#39;t pay for Twitter Blue &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230331/p20#a230331p20)
- - [Marvel’s Secret Invasion series actually sounds kind of fascinating](https://www.theverge.com/2023/3/31/23665128/marvel-secret-invasion-disney-plus-skrulls)<!-- TECH:END -->
+ - [Sources: in November 2021, five days after Biden put NSO on a Commerce Dept. blacklist, a shell company acting as a front for the US gov&#39;t licensed NSO software &lpar;New York Times&rpar;](http://www.techmeme.com/230402/p6#a230402p6)
+ - [FlexiSpot Odin E7Q review: A heavy-duty standing desk](https://appleinsider.com/articles/23/04/02/flexispot-odin-e7q-review-a-heavy-duty-standing-desk?utm_medium=rss)
+ - [How to make archive copies of your iCloud content](https://appleinsider.com/inside/icloud/tips/how-to-make-archive-copies-of-your-icloud-content?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
