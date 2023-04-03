@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ben Stiller&#39;s Perfect Tom Cruise Impression](http://9gag.com/gag/aVbEYeM)
- - ⏩ [Horse kept harrasing the owner. The owner was prepared](http://9gag.com/gag/aVbEMRw)
- - 👉 [We forgot this](http://9gag.com/gag/aYVOg07)<!-- MEMES:END -->
+ - 💣 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
+ - ⏩ [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)
+ - 👉 [That is crazy](http://9gag.com/gag/abvOYEv)<!-- MEMES:END -->
 
 ---
 
