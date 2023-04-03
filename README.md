@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
- - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 💣 [What is he even trying to achieve](http://9gag.com/gag/axovg6Y)
+ - ⏩ [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
  - 👉 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 ---
