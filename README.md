@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
- - ⏩ [Lol](http://9gag.com/gag/axov1QK)
- - 👉 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)<!-- MEMES:END -->
+ - 💣 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
+ - ⏩ [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 👉 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 ---
 
