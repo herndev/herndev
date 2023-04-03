@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
- - ⏩ [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
- - 👉 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/axov1QK)
+ - ⏩ [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)
+ - 👉 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)<!-- MEMES:END -->
 
 ---
 
