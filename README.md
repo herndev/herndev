@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons had a true neutral opening box office weekend](https://www.polygon.com/23667949/dungeons-dragons-opening-weekend-box-office-honor-among-thieves)
- - [Blue Beetle trailer gives the DC superhero a buster sword](https://www.polygon.com/23667967/blue-beetle-trailer-dc-warner-bros)
- - [Chris Hemsworth’s flaming fist fight is already the best part of Extraction 2](https://www.polygon.com/23667950/extraction-2-trailer-netflix-chris-hemsworth-release-date)<!-- GAME:END -->
+ - [How to tame creatures in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-how-to-tame)
+ - [I&#39;m completely hooked on this open world business sandbox sim, and I&#39;m not alone](https://www.pcgamer.com/im-completely-hooked-on-this-open-world-business-sandbox-sim-and-im-not-alone)
+ - [Super Mario Bros. Movie Fans Knock Seth Rogen For Barely Trying](https://kotaku.com/super-mario-bros-movie-seth-rogen-donkey-kong-voice-1850293751)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
