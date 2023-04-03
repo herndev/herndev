@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Great War: Western Front review](https://www.pcgamer.com/the-great-war-western-front-review)
- - [Dungeons &amp; Dragons: Honor Among Thieves directors are considering leaving Faerûn for another setting in a sequel](https://www.pcgamer.com/dungeons-and-dragons-honor-among-thieves-directors-are-considering-leaving-faerun-for-another-setting-in-a-sequel)
- - [I found a Skyrim mod that adds skooma hallucinations, now I&#39;m a drug addict with an imaginary goat](https://www.pcgamer.com/i-found-a-skyrim-mod-that-adds-skooma-hallucinations-now-im-a-drug-addict-with-an-imaginary-goat)<!-- GAME:END -->
+ - [If this ROG handheld PC is real then Asus announced it in the worst way](https://www.pcgamer.com/asus-rog-ally-gaming-handheld-real-or-stunt)
+ - [The RTX 4070 just leaked, looks like a match for an RTX 3080 without frame gen](https://www.pcgamer.com/the-rtx-4070-just-leaked-looks-like-a-match-for-an-rtx-3080-without-frame-gen)
+ - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
