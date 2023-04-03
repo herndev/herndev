@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook enthuses on AR and VR in GQ profile](https://appleinsider.com/articles/23/04/03/tim-cook-an-approachable-but-not-normal-ceo-says-profile?utm_medium=rss)
- - [WWDC HomeKit predictions, Hue Matter update delays &amp; more smart home news](https://appleinsider.com/articles/23/04/03/wwdc-homekit-predictions-hue-matter-update-delays-more-smart-home-news?utm_medium=rss)
- - [Last Chance Alert: Microsoft Office 2021 Is Just $40 as 1-Time Purchase for Limited Time     - CNET](https://www.cnet.com/deals/last-call-microsoft-office-2021-for-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every iPhone 17 model expected to get always-on display tech](https://appleinsider.com/articles/23/04/03/every-iphone-17-model-expected-to-get-always-on-display-tech?utm_medium=rss)
+ - [The &#39;Lucky You&#39; iPhone sold for more than a college tuition](https://appleinsider.com/articles/23/04/03/the-lucky-you-iphone-sold-for-more-than-a-college-tuition?utm_medium=rss)
+ - [The Tor Project partners with VPN maker Mullvad to launch the Mullvad browser, available on Windows, macOS, and Linux, seeking to reduce a user&#39;s &quot;fingerprint&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230403/p12#a230403p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
