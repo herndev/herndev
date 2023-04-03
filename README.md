@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: Israeli tech startups raised $1.7B in Q1 2023, the lowest since 2018, weighed down by a global slowdown and protests over a proposed judicial overhaul &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230403/p7#a230403p7)
- - [Amsterdam-based Fourthline, which offers AI tools for ID checks and compliance to finance companies, raised &amp;euro;50M led by Finch, taking its total funding to &amp;euro;70M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230403/p6#a230403p6)
- - [A look at problems at Digital World Acquisition Corp, which plans to take Truth Social public by September 8, after CEO Patrick Orlando was ousted &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230403/p5#a230403p5)<!-- TECH:END -->
+ - [Original iPad vs 2021 &amp; 2022 iPad -- what 13 years of development can do](https://appleinsider.com/inside/ipad/vs/original-ipad-vs-2021-2022-ipad----what-13-years-of-development-can-do?utm_medium=rss)
+ - [Apple&#39;s iPad is still showing the world how to do tablets, 13 years later](https://appleinsider.com/articles/23/04/03/apples-ipad-is-still-showing-the-world-how-to-do-tablets-13-years-later?utm_medium=rss)
+ - [Unlike most boring modern laptops, Framework&#39;s repairable, sustainable, and upgradeable models are exciting, harking back to the early 2000s era of computing &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230403/p9#a230403p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
