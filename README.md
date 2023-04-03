@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One in three moms track their partner&#39;s every move with Apple tech](https://appleinsider.com/articles/23/04/03/one-in-three-moms-track-their-partners-every-move-with-apple-tech?utm_medium=rss)
- - [Documents: Google is reducing fitness classes, tape, staplers, and the frequency of laptop replacements, with non-engineers getting Chromebooks by default &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230403/p15#a230403p15)
- - [Galaxy Tab S9 Plus leak gives us our first look at Samsung’s next tablet](https://www.androidauthority.com/galaxy-tab-s9-plus-3308822/)<!-- TECH:END -->
+ - [There is a big interest in an iPhone Fold, well ahead of any launch](https://appleinsider.com/articles/23/04/03/there-is-a-big-interest-in-an-iphone-fold-well-ahead-of-any-launch?utm_medium=rss)
+ - [Turns out ASUS’s Steam Deck competitor is real and preorders are going live soon](https://www.androidauthority.com/asus-rog-ally-3308874/)
+ - [Spotify shuts down its Clubhouse-style audio app Spotify Live, previously called Locker Room, acquired as part of &amp;euro;57M acquisition of Betty Labs in March 2021 &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/230403/p18#a230403p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
