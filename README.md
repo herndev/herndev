@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After an uproar, the Arbitrum Foundation plans to break up a controversial governance package into separate votes, including a 750M ARB token allocation &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230403/p3#a230403p3)
- - [Daily Authority: 🌟 The old OnePlus returns &lpar;but not for all&rpar;](https://www.androidauthority.com/daily-authority-april-3-2023-3308574/)
- - [Vivo X Flip real-world image appears online: A Galaxy-beating cover display?](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)<!-- TECH:END -->
+ - [The Galaxy Z Flip 5 is getting a huge cover screen, and here’s what it looks like](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-screen-upgrade-3308630/)
+ - [One year after Rishi Sunak pledged to make the UK a crypto-friendly hub, UK crypto executives say banks are increasingly unwilling to support crypto companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p4#a230403p4)
+ - [Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-35-absolute-best-tv-shows-to-watch-april/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
