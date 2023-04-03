@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: soon after Pinduoduo&#39;s app updated to remove backdoor exploits, most of the team working on them was moved to work on Temu, which is a top app in the US &lpar;CNN&rpar;](http://www.techmeme.com/230402/p9#a230402p9)
- - [In a referendum 89% of Parisians voted against keeping shared e-scooters in the city; Lime, Dott, and Tier will have to pull their fleets out by September 1 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230402/p8#a230402p8)
- - [The Absolute Best Nintendo Switch Games to Play in 2023     - CNET](https://www.cnet.com/pictures/the-absolute-best-nintendo-switch-games-to-play-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series is getting the April security patch](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
+ - [Latest Samsung Galaxy S23 FE leak reads like a cruel April Fools’ Day joke](https://www.androidauthority.com/samsung-galaxy-s23-fe-exynos-2200-3308573/)
+ - [Mint Mobile Is Upping Its Data Plans On April 14     - CNET](https://www.cnet.com/tech/mobile/mint-mobile-is-upping-its-data-plans-on-april-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
