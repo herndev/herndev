@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anti-plagiarism software maker Turnitin launches a service to detect AI-generated text in academia, claiming 98% confidence compared to OpenAI&#39;s 26% &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/230404/p5#a230404p5)
- - [Everybody wants a piece of Miles in Spider-Man: Across the Spider-Verse’s latest trailer](https://www.theverge.com/2023/4/4/23668235/spider-man-across-the-spider-verse-trailer-2-new-suit)
- - [Your cheap Android phone might be better than the iPhone 16 in this area](https://www.androidauthority.com/apple-iphone-17-120hz-android-3309115/)<!-- TECH:END -->
+ - [Poll: Would you buy a phone without a high refresh rate screen?](https://www.androidauthority.com/buy-phone-no-high-refresh-rate-poll-3309137/)
+ - [China&#39;s Micron investigation marks the most significant retaliation against US chip sanctions so far, contradicting Beijing&#39;s recent business-friendly messaging &lpar;New York Times&rpar;](http://www.techmeme.com/230404/p8#a230404p8)
+ - [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
