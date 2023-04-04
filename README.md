@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get up to 60% SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)
- - [Wordle hint and answer #654: Tuesday, April 4](https://www.pcgamer.com/wordle-hint-answer-today-654-april-4)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/03/this-weeks-deals-with-gold-and-spotlight-sale-269/)<!-- GAME:END -->
+ - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)
+ - [Get up to 60% off SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)
+ - [Wordle hint and answer #654: Tuesday, April 4](https://www.pcgamer.com/wordle-hint-answer-today-654-april-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
