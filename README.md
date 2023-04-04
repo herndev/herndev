@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone is still the top smartphone choice for teenagers](https://appleinsider.com/articles/23/04/04/iphone-is-still-the-top-smartphone-choice-for-teenagers?utm_medium=rss)
- - [The UK ICO fines TikTok &amp;pound;12.7M for failing to protect kids&#39; data, saying the app &quot;should have done better&quot;, down from a &amp;pound;27M fine proposed in September 2022 &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/230404/p11#a230404p11)
- - [Apple reports an issue with its Weather app on iOS, iPadOS, watchOS, and macOS, ongoing for over five hours; some users have had issues for over a week &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230404/p10#a230404p10)<!-- TECH:END -->
+ - [Apple’s Weather app on iPhone is down for many](https://www.theverge.com/2023/4/4/23669405/apple-weather-app-down-iphone-issues-problems)
+ - [The revenge of the pop-up](https://www.theverge.com/tech/23653544/pop-up-website-ad-ui-design)
+ - [A poker website that is actually good](https://www.theverge.com/games/23653542/poker-now-website-design-ui-gambling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
