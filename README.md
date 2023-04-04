@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to tell who&#39;s paying for a blue check mark on Twitter, and who isn&#39;t](https://appleinsider.com/inside/ios-16/tips/how-to-tell-whos-paying-for-a-blue-check-mark-on-twitter-and-who-isnt?utm_medium=rss)
- - [Genesis Market, a stolen credentials marketplace and one of the top cyber fraud platforms, was seized in an FBI-led operation with over a dozen global partners &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230404/p22#a230404p22)
- - [Instead of halting AI research, an unfeasible task, the industry must improve transparency and accountability by being open to external audits and to regulation &lpar;Sasha Luccioni/Wired&rpar;](http://www.techmeme.com/230404/p21#a230404p21)<!-- TECH:END -->
+ - [Canada&#39;s privacy commissioner launches an investigation into OpenAI in response to a complaint alleging non-consensual collection and use of personal data &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230404/p23#a230404p23)
+ - [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage?utm_medium=rss)
+ - [Apple’s Weather app on iPhone was down this morning](https://www.theverge.com/2023/4/4/23669405/apple-weather-app-down-iphone-issues-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
