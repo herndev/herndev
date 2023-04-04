@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany says Twitter has repeatedly failed to remove reported illegal content and starts a proceeding under its Network Enforcement Act that may lead to fines &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230404/p20#a230404p20)
- - [Samsung ends update support for the Galaxy S10 series and more](https://www.androidauthority.com/galaxy-s10-series-3309260/)
- - [Google backtracks on its decision to cap all Google Drive users to 5 million files, saying it will &quot;explore alternate approaches&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230404/p19#a230404p19)<!-- TECH:END -->
+ - [Apple Music trademark blocked over branding conflict with musician](https://appleinsider.com/articles/23/04/04/apple-music-trademark-blocked-over-branding-conflict-with-musician?utm_medium=rss)
+ - [Streaming Killed E3](https://www.wired.com/story/e3-2023-canceled-streaming-e3-dead/)
+ - [Germany says Twitter has repeatedly failed to remove user-reported illegal content and starts a Network Enforcement Act proceeding that may lead to fines &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230404/p20#a230404p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
