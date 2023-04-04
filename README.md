@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I knew Capcom was doing pretty well, but its stock is skyrocketing](https://www.pcgamer.com/i-knew-capcom-was-doing-pretty-well-but-its-stock-is-skyrocketing)
- - [Activision settles esports salary cap lawsuit with Department of Justice](https://www.pcgamer.com/activision-settles-esports-salary-cap-lawsuit-with-department-of-justice)
- - [Pro Street Fighter V Player Calls Out Major Tourney’s Crappy Setup](https://kotaku.com/evo-japan-punk-monitor-lag-setup-street-fighter-5-sf5-1850295771)<!-- GAME:END -->
+ - [Harry Potter reboot reportedly coming to HBO as a TV series](https://www.polygon.com/23668971/harry-potter-reboot-hbo-series-tv)
+ - [Diablo 4 boss has reassuring words for buildcrafters: Respeccing won&#39;t be &#39;prohibitively expensive&#39;](https://www.pcgamer.com/diablo-4-boss-has-reassuring-words-for-buildcrafters-respeccing-wont-be-prohibitively-expensive)
+ - [Report: Only 37% Of Viewers Finished Amazon’s Lord Of The Rings TV Show, The Most Expensive In History](https://kotaku.com/amazon-lord-of-the-rings-of-power-series-flop-expensive-1850296353)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
