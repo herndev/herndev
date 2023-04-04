@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)
- - ⏩ [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
+ - 💣 [Legend](http://9gag.com/gag/aQEQooz)
+ - ⏩ [Start the rapture](http://9gag.com/gag/a2K8REw)
+ - 👉 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)<!-- MEMES:END -->
 
 ---
 
