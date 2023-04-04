@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations Mr Pootin! You played yourself!](http://9gag.com/gag/a8qmqm1)
- - ⏩ [I&#39;m sure you did](http://9gag.com/gag/az2P2qb)
- - 👉 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
+ - 💣 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
+ - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 👉 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
 
 ---
 
