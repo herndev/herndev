@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/03/this-weeks-deals-with-gold-and-spotlight-sale-269/)
- - [MMO Introduces New Loot Boxes, Pulls Them Immediately After Fans Revolt](https://kotaku.com/everquest-ii-mmo-loot-box-fan-protest-pay-to-win-pc-1850296876)
- - [US Government Went After Activision Over Stingy Esports Salaries](https://kotaku.com/activision-blizzard-case-legal-esports-overwatch-league-1850296586)<!-- GAME:END -->
+ - [Get up to 60% SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)
+ - [Wordle hint and answer #654: Tuesday, April 4](https://www.pcgamer.com/wordle-hint-answer-today-654-april-4)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/03/this-weeks-deals-with-gold-and-spotlight-sale-269/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
