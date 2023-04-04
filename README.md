@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
- - ⏩ [Kitty headbutts for pets](http://9gag.com/gag/aXnNgmV)
- - 👉 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)<!-- MEMES:END -->
+ - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
 
 ---
 
