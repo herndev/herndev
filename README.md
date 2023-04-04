@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Spider-Man: Across the Spider-Verse’s villain is pissed at the MCU](https://www.polygon.com/23669522/spiderman-across-spider-verse-earth-19999-mcu-trailer)
- - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
- - [Florida Gov. Ron DeSantis Is Now Big Mad About Disney Outsmarting Him](https://kotaku.com/desantis-disney-florida-special-district-angry-bob-iger-1850299693)<!-- GAME:END -->
+ - [The Last of Us gets another hotfix, but the &#39;camera jitters&#39; fix has been delayed](https://www.pcgamer.com/the-last-of-us-gets-another-hotfix-but-the-camera-jitters-fix-has-been-delayed)
+ - [AI turns Furby into an object of &lpar;even more&rpar; eldritch horror](https://www.polygon.com/23668486/ai-furby-chatgpt-eldritch-horror)
+ - [HyperX&#39;s new adorable gamer gear-themed pet toys are kind of paw-some](https://www.pcgamer.com/hyperxs-new-adorable-gamer-gear-themed-pet-toys-are-kind-of-paw-some)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
