@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola is getting serious with the Edge 40 Pro](https://www.theverge.com/2023/4/4/23668770/motorola-edge-40-pro-specs-screen-battery-camera-price)
- - [Lock Socket Review: Effective charger loss prevention](https://appleinsider.com/articles/23/04/04/lock-socket-review-effective-charger-loss-prevention?utm_medium=rss)
- - [Best Sony Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone is still the top smartphone choice for teenagers](https://appleinsider.com/articles/23/04/04/iphone-is-still-the-top-smartphone-choice-for-teenagers?utm_medium=rss)
+ - [The UK ICO fines TikTok &amp;pound;12.7M for failing to protect kids&#39; data, saying the app &quot;should have done better&quot;, down from a &amp;pound;27M fine proposed in September 2022 &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/230404/p11#a230404p11)
+ - [Apple reports an issue with its Weather app on iOS, iPadOS, watchOS, and macOS, ongoing for over five hours; some users have had issues for over a week &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230404/p10#a230404p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
