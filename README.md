@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heal](http://9gag.com/gag/anznQ7z)
- - ⏩ [Lol](http://9gag.com/gag/axov1QK)
- - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
+ - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - ⏩ [Pickaxe of power](http://9gag.com/gag/aL1ep2z)
+ - 👉 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
 
 ---
 
