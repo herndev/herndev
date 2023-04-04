@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus’ new Muppets Mayhem show will go behind the Muppet music](https://www.polygon.com/23669633/muppets-mayhem-trailer-release-date)
- - [Monster Energy Keeps Pushing Devs To Change Their Game Titles](https://kotaku.com/monster-energy-trademark-video-games-lawsuit-twitter-1850298269)
- - [The Dungeons &amp; Dragons movie gave life to an undead villain with secret backstories and dark powers](https://www.polygon.com/23665226/dungeons-dragons-movie-daisy-head-sofina-villain)<!-- GAME:END -->
+ - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
+ - [Pokémon Go ‘Spring into Spring’ 2023 event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2023/4/4/23669634/spring-into-spring-collection-challenge-field-research-cherry-blossoms-flower-crown-costume-cutiefly)
+ - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
