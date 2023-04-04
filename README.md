@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Minecraft Legends, Loop Hero, Ghostwire: Tokyo, and More](https://news.xbox.com/en-us/2023/04/04/game-pass-april-2023-wave-1-announce/)
- - [What Diablo 4 classes did we love the most during the beta?](https://www.pcgamer.com/what-diablo-4-classes-did-we-love-the-most-during-the-beta)
- - [Across the Spider-Verse trailer sees Miles Morales at odds with an army of Spider-Men](https://www.polygon.com/23667945/spider-man-across-spider-verse-trailer-oscar-isaac-spider-man-2099)<!-- GAME:END -->
+ - [Here’s every Barbie and Ken in the Barbie movie](https://www.polygon.com/23669471/barbie-movie-cast-characters-ken-posters)
+ - [Minecraft Legends and Ghostwire: Tokyo join Game Pass in April](https://www.polygon.com/23669466/xbox-game-pass-pc-april-2023-minecraft-legends)
+ - [Upcoming 32-inch 4K OLED gaming monitors from Samsung and LG look pretty much perfect](https://www.pcgamer.com/upcoming-32-inch-4k-oled-gaming-monitors-from-samsung-and-lg-look-pretty-much-perfect)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
