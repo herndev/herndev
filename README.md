@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s every Barbie and Ken in the Barbie movie](https://www.polygon.com/23669471/barbie-movie-cast-characters-ken-posters)
- - [Minecraft Legends and Ghostwire: Tokyo join Game Pass in April](https://www.polygon.com/23669466/xbox-game-pass-pc-april-2023-minecraft-legends)
- - [Upcoming 32-inch 4K OLED gaming monitors from Samsung and LG look pretty much perfect](https://www.pcgamer.com/upcoming-32-inch-4k-oled-gaming-monitors-from-samsung-and-lg-look-pretty-much-perfect)<!-- GAME:END -->
+ - [The Best-Looking Video Game Consoles Of All Time](https://kotaku.com/best-design-game-consoles-nintendo-sony-sega-ps4-snes-1701411760)
+ - [Catan creator, board game pioneer Klaus Teuber dead at 70](https://www.polygon.com/23669496/settlers-of-catan-creator-klaus-teuber-dead-70-obituary)
+ - [The Zelda-themed Game &amp; Watch handheld is nearly half off today](https://www.polygon.com/deals/2023/4/4/23669472/game-watch-legend-of-zelda-handheld-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
