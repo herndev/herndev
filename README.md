@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us gets another hotfix, but the &#39;camera jitters&#39; fix has been delayed](https://www.pcgamer.com/the-last-of-us-gets-another-hotfix-but-the-camera-jitters-fix-has-been-delayed)
- - [AI turns Furby into an object of &lpar;even more&rpar; eldritch horror](https://www.polygon.com/23668486/ai-furby-chatgpt-eldritch-horror)
- - [HyperX&#39;s new adorable gamer gear-themed pet toys are kind of paw-some](https://www.pcgamer.com/hyperxs-new-adorable-gamer-gear-themed-pet-toys-are-kind-of-paw-some)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s new &#39;Overdrive&#39; ray tracing mode actually kind of looks worse to me](https://www.pcgamer.com/cyberpunk-2077s-new-overdrive-ray-tracing-mode-actually-kind-of-looks-worse-to-me)
+ - [YouTuber Shot After Trying To Prank Man In A Mall](https://kotaku.com/youtube-prankster-tanner-cook-shot-practical-joke-mall-1850300480)
+ - [The Last of Us gets another hotfix, but the &#39;camera jitters&#39; fix has been delayed](https://www.pcgamer.com/the-last-of-us-gets-another-hotfix-but-the-camera-jitters-fix-has-been-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
