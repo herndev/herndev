@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to drill square hole](http://9gag.com/gag/aeQODrm)
- - ⏩ [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
- - 👉 [Keegan and Cranston bloopers](http://9gag.com/gag/aZDw7wz)<!-- MEMES:END -->
+ - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 👉 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
 
 ---
 
