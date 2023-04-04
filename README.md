@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)
- - ⏩ [Please](http://9gag.com/gag/adPO572)
- - 👉 [How to drill square hole](http://9gag.com/gag/aeQODrm)<!-- MEMES:END -->
+ - 💣 [How to drill square hole](http://9gag.com/gag/aeQODrm)
+ - ⏩ [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
+ - 👉 [Keegan and Cranston bloopers](http://9gag.com/gag/aZDw7wz)<!-- MEMES:END -->
 
 ---
 
