@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4 gets its April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
- - [DeFi lending protocol Euler says all &quot;recoverable funds&quot; stolen in its ~$200M exploit have been returned; blockchain data shows the hacker apologized last week &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230404/p3#a230404p3)
- - [OPPO, OnePlus reportedly exiting UK and Europe &lpar;Update: Temporary exit?&rpar;](https://www.androidauthority.com/oppo-oneplus-europe-uk-exit-3302326/)<!-- TECH:END -->
+ - [Your cheap Android phone might be better than the iPhone 16 in this area](https://www.androidauthority.com/apple-iphone-17-120hz-android-3309115/)
+ - [NY-based Bakkt, which offers trading and custodial services, acquires infrastructure provider Apex Crypto for ~$155M, with $55M in cash and up to $100M in stock &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230404/p4#a230404p4)
+ - [Samsung Galaxy Z Flip 4 gets its April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
