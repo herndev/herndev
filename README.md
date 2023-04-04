@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
- - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 👉 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
+ - 💣 [Heal](http://9gag.com/gag/anznQ7z)
+ - ⏩ [Lol](http://9gag.com/gag/axov1QK)
+ - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
 
 ---
 
