@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend](http://9gag.com/gag/aQEQooz)
- - ⏩ [Start the rapture](http://9gag.com/gag/a2K8REw)
- - 👉 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)<!-- MEMES:END -->
+ - 💣 [Start the rapture](http://9gag.com/gag/a2K8REw)
+ - ⏩ [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
+ - 👉 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)<!-- MEMES:END -->
 
 ---
 
