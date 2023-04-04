@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
- - [Apple might fix WeatherKit &amp; Wi-Fi issues soon with iOS 16.4.1](https://appleinsider.com/articles/23/04/04/apple-might-fix-weatherkit-wi-fi-issues-soon-with-ios-1641?utm_medium=rss)
- - [Save Up to $200 On Rugged Outdoor Tech at Garmin&#39;s &lpar;Almost&rpar; Summer Sale     - CNET](https://www.cnet.com/deals/save-up-to-200-on-rugged-outdoor-tech-at-garmins-almost-summer-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stephen Colbert gets iffy pep talk from &#39;Ted Lasso&#39; cast](https://appleinsider.com/articles/23/04/04/ted-lasso-cast-appears-in-the-late-show-with-stephen-colbert-skit?utm_medium=rss)
+ - [Look behind the scenes at Apple TV+ and MLS Season Pass](https://appleinsider.com/articles/23/04/04/look-behind-the-scenes-at-apple-tv-and-mls-season-pass?utm_medium=rss)
+ - [SEC arrests Frank founder Charlie Javice and charges her with fraud, saying she falsified user numbers when JPMorgan paid $175M for the student finance startup &lpar;Financial Times&rpar;](http://www.techmeme.com/230404/p16#a230404p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
