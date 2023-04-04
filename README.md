@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harry Potter reboot reportedly coming to HBO as a TV series](https://www.polygon.com/23668971/harry-potter-reboot-hbo-series-tv)
- - [Diablo 4 boss has reassuring words for buildcrafters: Respeccing won&#39;t be &#39;prohibitively expensive&#39;](https://www.pcgamer.com/diablo-4-boss-has-reassuring-words-for-buildcrafters-respeccing-wont-be-prohibitively-expensive)
- - [Report: Only 37% Of Viewers Finished Amazon’s Lord Of The Rings TV Show, The Most Expensive In History](https://kotaku.com/amazon-lord-of-the-rings-of-power-series-flop-expensive-1850296353)<!-- GAME:END -->
+ - [US Government Went After Activision Over Stingy Esports Salaries](https://kotaku.com/activision-blizzard-case-legal-esports-overwatch-league-1850296586)
+ - [Steam Deck Competitor Promises Better Visuals, Windows 11](https://kotaku.com/steam-deck-competitor-asus-ally-rog-reveal-announce-pc-1850296463)
+ - [Harry Potter reboot reportedly coming to HBO as a TV series](https://www.polygon.com/23668971/harry-potter-reboot-hbo-series-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
