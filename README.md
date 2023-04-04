@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
- - [Pokémon Go ‘Spring into Spring’ 2023 event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2023/4/4/23669634/spring-into-spring-collection-challenge-field-research-cherry-blossoms-flower-crown-costume-cutiefly)
- - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)<!-- GAME:END -->
+ - [Beautiful New Fortnite Map Is Like Spider-Man Meets Star Wars](https://kotaku.com/fortnite-epic-games-unreal-editor-star-wars-spider-man-1850298818)
+ - [Xbox launches partially recycled Remix Controller for Earth Day](https://www.polygon.com/23669886/xbox-controller-remix-special-edition-earth-day-recycled)
+ - [Minecraft Marketplace’s Spring Sale is Back!](https://news.xbox.com/en-us/2023/04/04/minecraft-marketplace-spring-sale-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
