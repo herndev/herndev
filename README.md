@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - ⏩ [She&#39;s so into it](http://9gag.com/gag/az2P91j)
- - 👉 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
+ - 💣 [Comments section](http://9gag.com/gag/ap9DRL9)
+ - ⏩ [Good bye girl](http://9gag.com/gag/abvOgvX)
+ - 👉 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)<!-- MEMES:END -->
 
 ---
 
