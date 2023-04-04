@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s new &#39;Overdrive&#39; ray tracing mode actually kind of looks worse to me](https://www.pcgamer.com/cyberpunk-2077s-new-overdrive-ray-tracing-mode-actually-kind-of-looks-worse-to-me)
- - [YouTuber Shot After Trying To Prank Man In A Mall](https://kotaku.com/youtube-prankster-tanner-cook-shot-practical-joke-mall-1850300480)
- - [The Last of Us gets another hotfix, but the &#39;camera jitters&#39; fix has been delayed](https://www.pcgamer.com/the-last-of-us-gets-another-hotfix-but-the-camera-jitters-fix-has-been-delayed)<!-- GAME:END -->
+ - [Activision is tormenting Call of Duty cheaters in order to study them, stealing their weapons and turning their enemies invisible](https://www.pcgamer.com/activision-is-tormenting-call-of-duty-cheaters-in-order-to-study-them-stealing-their-weapons-and-turning-their-enemies-invisible)
+ - [Here&#39;s something to do while you wait for Diablo 4: Plot out Diablo 4 characters with this incredibly handy build planner tool](https://www.pcgamer.com/heres-something-to-do-while-you-wait-for-diablo-4-plot-out-diablo-4-characters-with-this-incredibly-handy-build-planner-tool)
+ - [Overwatch 2&#39;s Lifeweaver Seems To Confirm Baptiste Is Queer, Too](https://kotaku.com/overwatch-2-ptr-lifeweaver-season-4-baptiste-new-hero-1850300708)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
