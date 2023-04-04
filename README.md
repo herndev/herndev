@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your cheap Android phone might be better than the iPhone 16 in this area](https://www.androidauthority.com/apple-iphone-17-120hz-android-3309115/)
- - [NY-based Bakkt, which offers trading and custodial services, acquires infrastructure provider Apex Crypto for ~$155M, with $55M in cash and up to $100M in stock &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230404/p4#a230404p4)
- - [Samsung Galaxy Z Flip 4 gets its April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)<!-- TECH:END -->
+ - [Anti-plagiarism software maker Turnitin launches a service to detect AI-generated text in academia, claiming 98% confidence compared to OpenAI&#39;s 26% &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/230404/p5#a230404p5)
+ - [Everybody wants a piece of Miles in Spider-Man: Across the Spider-Verse’s latest trailer](https://www.theverge.com/2023/4/4/23668235/spider-man-across-the-spider-verse-trailer-2-new-suit)
+ - [Your cheap Android phone might be better than the iPhone 16 in this area](https://www.androidauthority.com/apple-iphone-17-120hz-android-3309115/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
