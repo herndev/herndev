@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everspace 2 review](https://www.pcgamer.com/everspace-2-review)
- - [Naughty Dog says Steam Deck support is at the bottom of the list while it tries to get The Last of Us working on PC](https://www.pcgamer.com/naughty-dog-says-steam-deck-support-is-at-the-bottom-of-the-list-while-it-tries-to-get-the-last-of-us-working-on-pc)
- - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)<!-- GAME:END -->
+ - [Where to find the Stoplight Loosejaw in Dredge](https://www.pcgamer.com/dredge-stoplight-loosejaw-location)
+ - [The spiritual successor to one of the best and least-played management games ever is getting a sequel](https://www.pcgamer.com/the-spiritual-successor-to-one-of-the-best-and-least-played-management-games-ever-is-getting-a-sequel)
+ - [SteelSeries Apex Pro TKL Wireless &lpar;2023&rpar;](https://www.pcgamer.com/steelseries-apex-pro-tkl-wireless-2023-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
