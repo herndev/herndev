@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best-Looking Video Game Consoles Of All Time](https://kotaku.com/best-design-game-consoles-nintendo-sony-sega-ps4-snes-1701411760)
- - [Catan creator, board game pioneer Klaus Teuber dead at 70](https://www.polygon.com/23669496/settlers-of-catan-creator-klaus-teuber-dead-70-obituary)
- - [The Zelda-themed Game &amp; Watch handheld is nearly half off today](https://www.polygon.com/deals/2023/4/4/23669472/game-watch-legend-of-zelda-handheld-sale)<!-- GAME:END -->
+ - [Disney Plus’ new Muppets Mayhem show will go behind the Muppet music](https://www.polygon.com/23669633/muppets-mayhem-trailer-release-date)
+ - [Monster Energy Keeps Pushing Devs To Change Their Game Titles](https://kotaku.com/monster-energy-trademark-video-games-lawsuit-twitter-1850298269)
+ - [The Dungeons &amp; Dragons movie gave life to an undead villain with secret backstories and dark powers](https://www.polygon.com/23665226/dungeons-dragons-movie-daisy-head-sofina-villain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
