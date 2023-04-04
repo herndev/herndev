@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 👉 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
+ - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - ⏩ [Why washing your dried chilies is important](http://9gag.com/gag/aGE8po6)
+ - 👉 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 ---
 
