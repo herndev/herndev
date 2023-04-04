@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Stoplight Loosejaw in Dredge](https://www.pcgamer.com/dredge-stoplight-loosejaw-location)
- - [The spiritual successor to one of the best and least-played management games ever is getting a sequel](https://www.pcgamer.com/the-spiritual-successor-to-one-of-the-best-and-least-played-management-games-ever-is-getting-a-sequel)
- - [SteelSeries Apex Pro TKL Wireless &lpar;2023&rpar;](https://www.pcgamer.com/steelseries-apex-pro-tkl-wireless-2023-review)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Minecraft Legends, Loop Hero, Ghostwire: Tokyo, and More](https://news.xbox.com/en-us/2023/04/04/game-pass-april-2023-wave-1-announce/)
+ - [What Diablo 4 classes did we love the most during the beta?](https://www.pcgamer.com/what-diablo-4-classes-did-we-love-the-most-during-the-beta)
+ - [Across the Spider-Verse trailer sees Miles Morales at odds with an army of Spider-Men](https://www.polygon.com/23667945/spider-man-across-spider-verse-trailer-oscar-isaac-spider-man-2099)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
