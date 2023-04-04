@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good bye girl](http://9gag.com/gag/abvOgvX)
+ - 💣 [Interesting insights](http://9gag.com/gag/a04V7Md)
  - ⏩ [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
- - 👉 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
+ - 👉 [Aren\u2019t you forgetting something?](http://9gag.com/gag/aMEmjqM)<!-- MEMES:END -->
 
 ---
 
