@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting insights](http://9gag.com/gag/a04V7Md)
- - ⏩ [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
- - 👉 [Aren\u2019t you forgetting something?](http://9gag.com/gag/aMEmjqM)<!-- MEMES:END -->
+ - 💣 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
+ - ⏩ [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
+ - 👉 [Time well spent!](http://9gag.com/gag/aMEmE2A)<!-- MEMES:END -->
 
 ---
 
