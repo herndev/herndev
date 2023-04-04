@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-april-2023/#ftag=CAD590a51e)
- - [Best Wireless Headphones for 2023: Bluetooth and More     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
- - [Apple cuts select corporate retail jobs in streamlining effort](https://appleinsider.com/articles/23/04/03/apple-cuts-select-retail-jobs-in-streamlining-effort?utm_medium=rss)<!-- TECH:END -->
+ - [Cybersecurity company Cybereason has raised $100M led by SoftBank and says Eric Gan, EVP of SoftBank, will be its new CEO, replacing co-founder Lior Div &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230403/p25#a230403p25)
+ - [UK-based Quantexa, which uses AI to help businesses prevent online fraud and manage customer data, raised a $129M Series E led by GIC at a $1.8B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230403/p24#a230403p24)
+ - [Sources: Apple to eliminate a small number of its corporate retail staff, marking its first known cuts since embarking on a belt-tightening effort last year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230403/p23#a230403p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
