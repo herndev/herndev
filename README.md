@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s privacy commissioner launches an investigation into OpenAI in response to a complaint alleging non-consensual collection and use of personal data &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230404/p23#a230404p23)
- - [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage?utm_medium=rss)
- - [Apple’s Weather app on iPhone was down this morning](https://www.theverge.com/2023/4/4/23669405/apple-weather-app-down-iphone-issues-problems)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s second quarter earnings on May 4](https://appleinsider.com/articles/23/04/04/what-to-expect-from-apples-second-quarter-earnings-on-may-4?utm_medium=rss)
+ - [Wear OS 3 could be coming to these Mobvoi TicWatch smartwatches soon](https://www.androidauthority.com/mobvoi-ticwatch-os-3309422/)
+ - [A look at BloombergGPT, an LLM announced on March 30 and trained on general purpose datasets and Bloomberg&#39;s archives of news, filings, financial docs, and more &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p24#a230404p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
