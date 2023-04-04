@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music trademark blocked over branding conflict with musician](https://appleinsider.com/articles/23/04/04/apple-music-trademark-blocked-over-branding-conflict-with-musician?utm_medium=rss)
- - [Streaming Killed E3](https://www.wired.com/story/e3-2023-canceled-streaming-e3-dead/)
- - [Germany says Twitter has repeatedly failed to remove user-reported illegal content and starts a Network Enforcement Act proceeding that may lead to fines &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230404/p20#a230404p20)<!-- TECH:END -->
+ - [How to tell who&#39;s paying for a blue check mark on Twitter, and who isn&#39;t](https://appleinsider.com/inside/ios-16/tips/how-to-tell-whos-paying-for-a-blue-check-mark-on-twitter-and-who-isnt?utm_medium=rss)
+ - [Genesis Market, a stolen credentials marketplace and one of the top cyber fraud platforms, was seized in an FBI-led operation with over a dozen global partners &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230404/p22#a230404p22)
+ - [Instead of halting AI research, an unfeasible task, the industry must improve transparency and accountability by being open to external audits and to regulation &lpar;Sasha Luccioni/Wired&rpar;](http://www.techmeme.com/230404/p21#a230404p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
