@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stephen Colbert gets iffy pep talk from &#39;Ted Lasso&#39; cast](https://appleinsider.com/articles/23/04/04/ted-lasso-cast-appears-in-the-late-show-with-stephen-colbert-skit?utm_medium=rss)
- - [Look behind the scenes at Apple TV+ and MLS Season Pass](https://appleinsider.com/articles/23/04/04/look-behind-the-scenes-at-apple-tv-and-mls-season-pass?utm_medium=rss)
- - [SEC arrests Frank founder Charlie Javice and charges her with fraud, saying she falsified user numbers when JPMorgan paid $175M for the student finance startup &lpar;Financial Times&rpar;](http://www.techmeme.com/230404/p16#a230404p16)<!-- TECH:END -->
+ - [Amazon launches deep discounts on AirTag, Apple Watch, MacBooks &amp; iPads, save up to 38%](https://appleinsider.com/articles/23/04/04/amazon-launches-deep-discounts-on-airtag-apple-watch-macbooks-ipads-save-up-to-38?utm_medium=rss)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Apple&#39;s iOS 17 may drop support for iPhone X, original iPad Pro](https://appleinsider.com/articles/23/04/04/apples-ios-17-may-drop-support-for-iphone-x-original-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
