@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you buy a phone without a high refresh rate screen?](https://www.androidauthority.com/buy-phone-no-high-refresh-rate-poll-3309137/)
- - [China&#39;s Micron investigation marks the most significant retaliation against US chip sanctions so far, contradicting Beijing&#39;s recent business-friendly messaging &lpar;New York Times&rpar;](http://www.techmeme.com/230404/p8#a230404p8)
- - [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage?utm_medium=rss)<!-- TECH:END -->
+ - [Motorola is getting serious with the Edge 40 Pro](https://www.theverge.com/2023/4/4/23668770/motorola-edge-40-pro-specs-screen-battery-camera-price)
+ - [Lock Socket Review: Effective charger loss prevention](https://appleinsider.com/articles/23/04/04/lock-socket-review-effective-charger-loss-prevention?utm_medium=rss)
+ - [Best Sony Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
