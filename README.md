@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO, OnePlus reportedly exiting UK and Europe &lpar;Update: Temporary exit?&rpar;](https://www.androidauthority.com/oppo-oneplus-europe-uk-exit-3302326/)
- - [Stanford&#39;s AI Index Report: in 2022, industry produced 32 significant ML models versus academia&#39;s three, private investment fell 26.7% YoY to $91.9B, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230404/p2#a230404p2)
- - [Samsung Galaxy Z Fold 4 gets April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 4 gets its April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
+ - [DeFi lending protocol Euler says all &quot;recoverable funds&quot; stolen in its ~$200M exploit have been returned; blockchain data shows the hacker apologized last week &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230404/p3#a230404p3)
+ - [OPPO, OnePlus reportedly exiting UK and Europe &lpar;Update: Temporary exit?&rpar;](https://www.androidauthority.com/oppo-oneplus-europe-uk-exit-3302326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
