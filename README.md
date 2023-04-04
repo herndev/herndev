@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive rolls back new file limit that was locking some users out](https://www.androidauthority.com/google-drive-file-limit-removed-3308402/)
- - [Australia bans TikTok from government-issued devices, joining the US, UK, Netherlands, Canada, France, and others in taking action against the platform &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/230403/p28#a230403p28)
- - [PC shipments in Western Europe fell 20.5% YoY in 2022 and 38.5% YoY in Q4 2022, while tablet shipments fell 18.4% YoY in 2022 and 16.5% YoY in Q4 2022 &lpar;Canalys&rpar;](http://www.techmeme.com/230403/p27#a230403p27)<!-- TECH:END -->
+ - [Next Motorola Razr might have a laughably small battery &lpar;Updated: Debunked&rpar;](https://www.androidauthority.com/motorola-razr-plus-3299200/)
+ - [Over 24 Democrats in Congress who are active on TikTok are being pushed by colleagues to stop using the app, as pressure mounts against TikTok in Washington, DC &lpar;Farnoush Amiri/Associated Press&rpar;](http://www.techmeme.com/230404/p1#a230404p1)
+ - [Google Drive rolls back new file limit that was locking some users out](https://www.androidauthority.com/google-drive-file-limit-removed-3308402/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
