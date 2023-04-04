@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/03/this-weeks-deals-with-gold-and-spotlight-sale-269/)
  - [MMO Introduces New Loot Boxes, Pulls Them Immediately After Fans Revolt](https://kotaku.com/everquest-ii-mmo-loot-box-fan-protest-pay-to-win-pc-1850296876)
- - [US Government Went After Activision Over Stingy Esports Salaries](https://kotaku.com/activision-blizzard-case-legal-esports-overwatch-league-1850296586)
- - [Steam Deck Competitor Promises Better Visuals, Windows 11](https://kotaku.com/steam-deck-competitor-asus-ally-rog-reveal-announce-pc-1850296463)<!-- GAME:END -->
+ - [US Government Went After Activision Over Stingy Esports Salaries](https://kotaku.com/activision-blizzard-case-legal-esports-overwatch-league-1850296586)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
