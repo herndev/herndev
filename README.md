@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
- - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 👉 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
+ - 💣 [Good bye girl](http://9gag.com/gag/abvOgvX)
+ - ⏩ [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
+ - 👉 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
 
 ---
 
