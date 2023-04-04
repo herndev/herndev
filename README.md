@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - ⏩ [Why washing your dried chilies is important](http://9gag.com/gag/aGE8po6)
- - 👉 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
+ - 💣 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
+ - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 👉 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
 
 ---
 
