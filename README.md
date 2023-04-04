@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - ⏩ [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)
- - 👉 [That is silently haunting, eerie and spooky](http://9gag.com/gag/aPgPjNg)<!-- MEMES:END -->
+ - 💣 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)
+ - ⏩ [Please](http://9gag.com/gag/adPO572)
+ - 👉 [How to drill square hole](http://9gag.com/gag/aeQODrm)<!-- MEMES:END -->
 
 ---
 
