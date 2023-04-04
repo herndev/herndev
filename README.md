@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next Motorola Razr might have a laughably small battery &lpar;Updated: Debunked&rpar;](https://www.androidauthority.com/motorola-razr-plus-3299200/)
- - [Over 24 Democrats in Congress who are active on TikTok are being pushed by colleagues to stop using the app, as pressure mounts against TikTok in Washington, DC &lpar;Farnoush Amiri/Associated Press&rpar;](http://www.techmeme.com/230404/p1#a230404p1)
- - [Google Drive rolls back new file limit that was locking some users out](https://www.androidauthority.com/google-drive-file-limit-removed-3308402/)<!-- TECH:END -->
+ - [OPPO, OnePlus reportedly exiting UK and Europe &lpar;Update: Temporary exit?&rpar;](https://www.androidauthority.com/oppo-oneplus-europe-uk-exit-3302326/)
+ - [Stanford&#39;s AI Index Report: in 2022, industry produced 32 significant ML models versus academia&#39;s three, private investment fell 26.7% YoY to $91.9B, and more &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230404/p2#a230404p2)
+ - [Samsung Galaxy Z Fold 4 gets April 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
