@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Weather app on iPhone is down for many](https://www.theverge.com/2023/4/4/23669405/apple-weather-app-down-iphone-issues-problems)
- - [The revenge of the pop-up](https://www.theverge.com/tech/23653544/pop-up-website-ad-ui-design)
- - [A poker website that is actually good](https://www.theverge.com/games/23653542/poker-now-website-design-ui-gambling)<!-- TECH:END -->
+ - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
+ - [Check out these shows like The Night Agent on Netflix](https://www.androidauthority.com/shows-like-the-night-agent-netflix-3308767/)
+ - [Daily Deals: $300 off M2 Max MacBook Pro, 33% off Ring Indoor Cam, up to $300 off M2 Air, more](https://appleinsider.com/articles/23/04/04/daily-deals-300-off-m2-max-macbook-pro-33-off-ring-indoor-cam-up-to-300-off-m2-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
