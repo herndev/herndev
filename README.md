@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie is endless nostalgia bait with no hook of its own](https://www.polygon.com/reviews/23669990/super-mario-bros-movie-review-references)
- - [Barbie movie meme posters chaotically expand the fan cast](https://www.polygon.com/23669868/barbie-movie-meme-generator-succession-gwyneth-paltrow-godzilla)
- - [Resident Evil 4 Chapter 14: Cargo Depot to the Ruins](https://www.polygon.com/resident-evil-4-remake-guides/23668193/chapter-14-cargo-depot-ruins-krauser-boss-fight)<!-- GAME:END -->
+ - [Why Spider-Man: Across the Spider-Verse’s villain is pissed at the MCU](https://www.polygon.com/23669522/spiderman-across-spider-verse-earth-19999-mcu-trailer)
+ - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
+ - [Florida Gov. Ron DeSantis Is Now Big Mad About Disney Outsmarting Him](https://kotaku.com/desantis-disney-florida-special-district-angry-bob-iger-1850299693)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
