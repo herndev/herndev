@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - ⏩ [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 👉 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
+ - ⏩ [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)
+ - 👉 [That is silently haunting, eerie and spooky](http://9gag.com/gag/aPgPjNg)<!-- MEMES:END -->
 
 ---
 
