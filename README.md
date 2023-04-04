@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He\u2019s in need of victim support](http://9gag.com/gag/aPgP7qn)
+ - 💣 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
  - ⏩ [Kitty headbutts for pets](http://9gag.com/gag/aXnNgmV)
  - 👉 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)<!-- MEMES:END -->
 
