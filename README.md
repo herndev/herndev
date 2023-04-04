@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - ⏩ [Pickaxe of power](http://9gag.com/gag/aL1ep2z)
- - 👉 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
+ - 💣 [Congratulations Mr Pootin! You played yourself!](http://9gag.com/gag/a8qmqm1)
+ - ⏩ [I&#39;m sure you did](http://9gag.com/gag/az2P2qb)
+ - 👉 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
 
 ---
 
