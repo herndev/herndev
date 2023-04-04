@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
- - ⏩ [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
- - 👉 [Time well spent!](http://9gag.com/gag/aMEmE2A)<!-- MEMES:END -->
+ - 💣 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - ⏩ [She&#39;s so into it](http://9gag.com/gag/az2P91j)
+ - 👉 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
 
 ---
 
