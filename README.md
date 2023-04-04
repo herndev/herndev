@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
- - [Check out these shows like The Night Agent on Netflix](https://www.androidauthority.com/shows-like-the-night-agent-netflix-3308767/)
- - [Daily Deals: $300 off M2 Max MacBook Pro, 33% off Ring Indoor Cam, up to $300 off M2 Air, more](https://appleinsider.com/articles/23/04/04/daily-deals-300-off-m2-max-macbook-pro-33-off-ring-indoor-cam-up-to-300-off-m2-air-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple might fix WeatherKit &amp; Wi-Fi issues soon with iOS 16.4.1](https://appleinsider.com/articles/23/04/04/apple-might-fix-weatherkit-wi-fi-issues-soon-with-ios-1641?utm_medium=rss)
+ - [Save Up to $200 On Rugged Outdoor Tech at Garmin&#39;s &lpar;Almost&rpar; Summer Sale     - CNET](https://www.cnet.com/deals/save-up-to-200-on-rugged-outdoor-tech-at-garmins-almost-summer-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
