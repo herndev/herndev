@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need one](http://9gag.com/gag/a8qmAzO)
- - ⏩ [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
- - 👉 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
+ - 💣 [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - ⏩ [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 👉 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)<!-- MEMES:END -->
 
 ---
 
