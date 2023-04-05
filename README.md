@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wooting&#39;s three-buttoned UwU keyboard starts at $50](https://www.pcgamer.com/wootings-three-buttoned-uwu-keyboard-starts-at-dollar50)
  - [Where to find lily pads, air vents, and tires in Fortnite](https://www.pcgamer.com/fortnite-lily-pad-air-vent-tire-location)
- - [Snoop Dogg Bails As Faze Clan Circles The Drain](https://kotaku.com/snoop-dogg-faze-clan-bail-leave-quit-ipo-public-shares-1850301217)
- - [Free Total War: Warhammer 3 DLC releasing alongside Chaos Dwarfs detailed](https://www.pcgamer.com/free-total-war-warhammer-3-dlc-releasing-alongside-chaos-dwarfs-detailed)<!-- GAME:END -->
+ - [Snoop Dogg Bails As Faze Clan Circles The Drain](https://kotaku.com/snoop-dogg-faze-clan-bail-leave-quit-ipo-public-shares-1850301217)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
