@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comments section](http://9gag.com/gag/ap9DRL9)
- - ⏩ [Good bye girl](http://9gag.com/gag/abvOgvX)
- - 👉 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)<!-- MEMES:END -->
+ - 💣 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
+ - ⏩ [Interesting insights](http://9gag.com/gag/a04V7Md)
+ - 👉 [That is crazy](http://9gag.com/gag/abvOYEv)<!-- MEMES:END -->
 
 ---
 
