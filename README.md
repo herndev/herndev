@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
- - ⏩ [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
- - 👉 [Atleast the kid was honest.](http://9gag.com/gag/aOx44xN)<!-- MEMES:END -->
+ - 💣 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
+ - ⏩ [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
+ - 👉 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)<!-- MEMES:END -->
 
 ---
 
