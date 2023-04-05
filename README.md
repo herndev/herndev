@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SimiliarWeb: of the 2.6M people who visited the Twitter Blue web promo page in March, only 116,000 signed up; Blue is used by less than 1% of monthly users &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/230405/p15#a230405p15)
- - [Source: Sony is developing a handheld, codenamed Q Lite, which will use Remote Play with the PS5 and feature an 8-inch 1080p touchscreen and adaptive triggers &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/230405/p14#a230405p14)
- - [Apple&#39;s iPhone remains the key to earnings recovery for the next two years](https://appleinsider.com/articles/23/04/05/apples-iphone-remains-the-key-to-earnings-recovery-for-the-next-two-years?utm_medium=rss)<!-- TECH:END -->
+ - [The Latest ‘Overwatch 2’ Hero Is Going to Start a Class War](https://www.wired.com/story/overwatch-2-support-hero-lifeweaver/)
+ - [Universal Control not working right for some in latest iPadOS and macOS](https://appleinsider.com/articles/23/04/05/universal-control-not-working-right-for-some-in-latest-ipados-and-macos-ventura?utm_medium=rss)
+ - [Nintendo and Sony embracing direct-to-audience streams, added to the pandemic, led to E3&#39;s demise; fan conventions and networking events have survived the shift &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/230405/p16#a230405p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
