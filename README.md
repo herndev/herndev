@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo designer Shigeru Miyamoto says &quot;mobile apps will not be the primary path of future Mario games&quot; after two moderately successful but dwindling iOS games &lpar;Ethan Shanfeld/Variety&rpar;](http://www.techmeme.com/230404/p29#a230404p29)
  - [Nintendo won&#39;t be making any more &#39;Super Mario&#39; games for iPhone](https://appleinsider.com/articles/23/04/05/nintendo-wont-be-making-any-more-super-mario-games-for-iphone?utm_medium=rss)
- - [Twitter&#39;s new API tiers are useless for researchers; the $100/month plan is much worse than the old free plan, and the $42K-$210K/month plans are too expensive &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p28#a230404p28)
- - [Everstream Analytics, a provider of predictive insights for supply chain management, raised a $50M Series B co-led by Morgan Stanley&#39;s 1GT Fund and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230404/p27#a230404p27)<!-- TECH:END -->
+ - [Twitter&#39;s new API tiers are useless for researchers; the $100/month plan is much worse than the old free plan, and the $42K-$210K/month plans are too expensive &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p28#a230404p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
