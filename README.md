@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #655: Wednesday, April 5](https://www.pcgamer.com/wordle-hint-answer-today-655-april-5)
- - [Agony spin-off Succubus VR has been banned from Steam](https://www.pcgamer.com/agony-spin-off-succubus-vr-has-been-banned-from-steam)
- - [Xbox&#39;s new controller is made of one-third reclaimed materials](https://www.pcgamer.com/xboxs-new-controller-is-one-third-reclaimed-materials)<!-- GAME:END -->
+ - [AMD Ryzen 7 7800X3D](https://www.pcgamer.com/amd-ryzen-7-7800x3d-review-benchmarks-performance)
+ - [No Man’s Sky: Interceptor Offers the Largest New Update in Recent Memory](https://news.xbox.com/en-us/2023/04/05/no-mans-sky-interceptor-update/)
+ - [Dredge invents and perfects the fishing-horror genre](https://www.polygon.com/reviews/23669611/dredge-review-fishing-game-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
