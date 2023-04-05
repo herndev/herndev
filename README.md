@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Apple&#39;s Mac mini M2 to $499, cheapest price on record](https://appleinsider.com/articles/23/04/05/amazon-drops-apples-mac-mini-m2-to-499-cheapest-price-on-record?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Jeep is doubling down on plug-in hybrids with the 2024 Wrangler 4xe](https://www.theverge.com/2023/4/5/23669768/jeep-wrangler-4xe-plug-in-hybrid-2024-photos-specs)<!-- TECH:END -->
+ - [How to get free McNuggets from McDonald&#39;s with Apple Pay purchase inside app](https://appleinsider.com/articles/23/04/05/how-to-get-free-mcnuggets-from-mcdonalds-with-apple-pay-purchase-inside-app?utm_medium=rss)
+ - [Selena Gomez Apple TV+ film nominated for MTV&#39;s Best Music Documentary](https://appleinsider.com/articles/23/04/05/selena-gomez-apple-tv-film-nominated-for-mtvs-best-music-documentary?utm_medium=rss)
+ - [Source: Binance rejected buying Tron founder Justin Sun&#39;s stake in Huobi due to Sun&#39;s alleged China ties; Sun&#39;s Huobi involvement has been shrouded in secrecy &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/230405/p24#a230405p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
