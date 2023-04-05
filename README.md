@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #655: Wednesday, April 5](https://www.pcgamer.com/wordle-hint-answer-today-655-april-5)
  - [Agony spin-off Succubus VR has been banned from Steam](https://www.pcgamer.com/agony-spin-off-succubus-vr-has-been-banned-from-steam)
- - [Xbox&#39;s new controller is made of one-third reclaimed materials](https://www.pcgamer.com/xboxs-new-controller-is-one-third-reclaimed-materials)
- - [Wooting&#39;s three-buttoned UwU keyboard starts at $50](https://www.pcgamer.com/wootings-three-buttoned-uwu-keyboard-starts-at-dollar50)<!-- GAME:END -->
+ - [Xbox&#39;s new controller is made of one-third reclaimed materials](https://www.pcgamer.com/xboxs-new-controller-is-one-third-reclaimed-materials)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
