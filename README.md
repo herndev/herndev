@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ICYMI: April’s ID@Xbox Showcase on Twitch](https://news.xbox.com/en-us/2023/04/05/aprils-idxbox-showcase-on-twitch/)
- - [Diablo 4&#39;s endgame challenges are MMO dailies in disguise](https://www.pcgamer.com/diablo-4s-endgame-challenges-are-mmo-dailies-in-disguise)
- - [Dredge’s endings, explained](https://www.polygon.com/guides/23671129/dredge-endings-good-bad-multiple)<!-- GAME:END -->
+ - [The Art of Boredom](https://news.xbox.com/en-us/2023/04/05/the-art-of-boredom/)
+ - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)
+ - [YouTuber Is Building All Of Breath Of The Wild In Minecraft](https://kotaku.com/zelda-botw-minecraft-build-youtube-breath-of-the-wild-1850304527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
