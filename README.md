@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh snap](http://9gag.com/gag/a7qeqDw)
- - ⏩ [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
- - 👉 [Had an \u201cinternal meltdown\u201d. After all this assessment tests and 45 min. talking about each detail of my CV I had enough. I\u2019m qualified, my CV has no empty spots and all backed by documents from former companies with contact infos for further questions.](http://9gag.com/gag/aKE9EwZ)<!-- MEMES:END -->
+ - 💣 [What would you do?](http://9gag.com/gag/a3ZAGR5)
+ - ⏩ [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
+ - 👉 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
 
 ---
 
