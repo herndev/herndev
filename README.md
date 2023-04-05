@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
- - ⏩ [Yeah I&#39;d clean the sewers for that kind of money.](http://9gag.com/gag/aBdLgB2)
- - 👉 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)<!-- MEMES:END -->
+ - 💣 [How to embarrass your girl](http://9gag.com/gag/aqe8erL)
+ - ⏩ [Amazing footwork](http://9gag.com/gag/abvO1MO)
+ - 👉 [It\u2019s Always Sunny In Philadelphia....](http://9gag.com/gag/ajVO7Mx)<!-- MEMES:END -->
 
 ---
 
