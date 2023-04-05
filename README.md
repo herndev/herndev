@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter&#39;s new API tiers are useless for researchers; the $100/month plan is much worse than the old free plan, and the $42K-$210K/month plans are too expensive &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p28#a230404p28)
  - [Everstream Analytics, a provider of predictive insights for supply chain management, raised a $50M Series B co-led by Morgan Stanley&#39;s 1GT Fund and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230404/p27#a230404p27)
- - [Biden says tech companies have a responsibility to ensure AI products are safe before making them public and that it remains to be seen whether AI is dangerous &lpar;Jeff Mason/Reuters&rpar;](http://www.techmeme.com/230404/p26#a230404p26)
- - [Apple sales executive exits Apple for Department of Defense position](https://appleinsider.com/articles/23/04/04/apple-sales-executive-exits-apple-for-department-of-defense-position?utm_medium=rss)<!-- TECH:END -->
+ - [Biden says tech companies have a responsibility to ensure AI products are safe before making them public and that it remains to be seen whether AI is dangerous &lpar;Jeff Mason/Reuters&rpar;](http://www.techmeme.com/230404/p26#a230404p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
