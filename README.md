@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet passes through FCC showing off key connectivity spec](https://www.androidauthority.com/google-pixel-tablet-fcc-certification-uwb-3309509/)
- - [Sources: Chinese regulators have slowed merger approvals of deals by US firms, asking some to make products that they sell in other countries available in China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230405/p3#a230405p3)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
+ - [Google is finally pulling the plug on the Google Now Launcher](https://www.androidauthority.com/google-now-launcher-stop-working-3309516/)
+ - [How surveillance industry blog IPVM ignited a new battle in the US-China tech war after investigating Hikvision&#39;s and Dahua&#39;s mass face recognition systems &lpar;Amos Zeeberg/Wired&rpar;](http://www.techmeme.com/230405/p4#a230405p4)
+ - [Google Pixel Tablet passes through FCC showing off key connectivity spec](https://www.androidauthority.com/google-pixel-tablet-fcc-certification-uwb-3309509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
