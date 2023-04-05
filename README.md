@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Tablet passes through FCC showing off key connectivity spec](https://www.androidauthority.com/google-pixel-tablet-fcc-certification-uwb-3309509/)
  - [Sources: Chinese regulators have slowed merger approvals of deals by US firms, asking some to make products that they sell in other countries available in China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230405/p3#a230405p3)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
