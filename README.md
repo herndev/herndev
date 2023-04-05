@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
- - ⏩ [Interesting insights](http://9gag.com/gag/a04V7Md)
- - 👉 [That is crazy](http://9gag.com/gag/abvOYEv)<!-- MEMES:END -->
+ - 💣 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
+ - ⏩ [That is crazy](http://9gag.com/gag/abvOYEv)
+ - 👉 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
 
 ---
 
