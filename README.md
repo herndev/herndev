@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s new pansexual hero may have revealed another queer character](https://www.polygon.com/23671271/overwatch-2-hero-panesexual-lifeweaver-baptiste-voice-lines)
- - [No Man’s Sky’s antagonist robots are now smarter, madder, and corrupted](https://www.polygon.com/23668475/no-mans-sky-nms-interceptor-update-patch-corrupted-worlds-sentinels-ships)
- - [It&#39;s the final end of an era: Former Stadia boss Phil Harrison has left Google](https://www.pcgamer.com/its-the-final-end-of-an-era-former-stadia-boss-phil-harrison-has-left-google)<!-- GAME:END -->
+ - [Blizzard breaks down Diablo 4’s endgame activities](https://www.polygon.com/23671429/diablo-4-endgame-activities-paragon-nightmare-dungeons-pvp)
+ - [Charles Martinet’s cameo role in The Super Mario Bros. Movie is perfect](https://www.polygon.com/23670020/super-mario-bros-movie-charles-martinet-character-voice-roles)
+ - [Area man destroys Elden Ring&#39;s pantheon of bosses with a Bop-It](https://www.pcgamer.com/area-man-destroys-elden-rings-pantheon-of-bosses-with-a-bop-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
