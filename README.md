@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
- - ⏩ [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
- - 👉 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)<!-- MEMES:END -->
+ - 💣 [Not part of your ped0 cult](http://9gag.com/gag/anznneo)
+ - ⏩ [A Russian crew of a T-72B3 tank in Kreminna area handed over to the Ukrainian army a fully functioning tank with ammunition in exchange for a reward and the opportunity to live in a normal country.](http://9gag.com/gag/abvOOmb)
+ - 👉 [Eevee mimicking its evolutions](http://9gag.com/gag/armA3mK)<!-- MEMES:END -->
 
 ---
 
