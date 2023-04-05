@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
- - ⏩ [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
- - 👉 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
+ - 💣 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
+ - ⏩ [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
+ - 👉 [Atleast the kid was honest.](http://9gag.com/gag/aOx44xN)<!-- MEMES:END -->
 
 ---
 
