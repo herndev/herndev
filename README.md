@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Veci 2-in-1 MagSafe Wallet review: Best MagSafe Wallet that isn&#39;t Apple&#39;s](https://appleinsider.com/articles/23/04/05/veci-2-in-1-magsafe-wallet-review-best-magsafe-wallet-that-isnt-apples?utm_medium=rss)
- - [Apple Service ending for some older OS versions -- but it&#39;s not a big deal](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
- - [Twitter adds a &quot;state-affiliated media&quot; label to NPR&#39;s account, seemingly contradicting Twitter&#39;s own policies, which used NPR as an example of an exception &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230405/p11#a230405p11)<!-- TECH:END -->
+ - [SimiliarWeb: of the 2.6M people who visited the Twitter Blue web promo page in March, only 116,000 signed up; Blue is used by less than 1% of monthly users &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/230405/p15#a230405p15)
+ - [Source: Sony is developing a handheld, codenamed Q Lite, which will use Remote Play with the PS5 and feature an 8-inch 1080p touchscreen and adaptive triggers &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/230405/p14#a230405p14)
+ - [Apple&#39;s iPhone remains the key to earnings recovery for the next two years](https://appleinsider.com/articles/23/04/05/apples-iphone-remains-the-key-to-earnings-recovery-for-the-next-two-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
