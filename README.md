@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do?](http://9gag.com/gag/a3ZAGR5)
- - ⏩ [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
- - 👉 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
+ - 💣 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
+ - ⏩ [Yeah I&#39;d clean the sewers for that kind of money.](http://9gag.com/gag/aBdLgB2)
+ - 👉 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)<!-- MEMES:END -->
 
 ---
 
