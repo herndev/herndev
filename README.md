@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is finally pulling the plug on the Google Now Launcher](https://www.androidauthority.com/google-now-launcher-stop-working-3309516/)
- - [How surveillance industry blog IPVM ignited a new battle in the US-China tech war after investigating Hikvision&#39;s and Dahua&#39;s mass face recognition systems &lpar;Amos Zeeberg/Wired&rpar;](http://www.techmeme.com/230405/p4#a230405p4)
- - [Google Pixel Tablet passes through FCC showing off key connectivity spec](https://www.androidauthority.com/google-pixel-tablet-fcc-certification-uwb-3309509/)<!-- TECH:END -->
+ - [Google Pixel Buds Pro vs Pixel Buds A-Series: Which buds are best?](https://www.androidauthority.com/google-pixel-buds-comparison-3301019/)
+ - [As AI chatbots explode, Helsinki-based Silo AI and other European startups race to improve responses in languages other than English, like German and Arabic &lpar;Financial Times&rpar;](http://www.techmeme.com/230405/p8#a230405p8)
+ - [Galaxy Buds 2 Pro vs Galaxy Buds 2 vs Galaxy Buds Live: In-depth comparison](https://www.androidauthority.com/samsung-galaxy-buds-comparison-3301516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
