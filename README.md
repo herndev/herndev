@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard breaks down Diablo 4’s endgame activities](https://www.polygon.com/23671429/diablo-4-endgame-activities-paragon-nightmare-dungeons-pvp)
- - [Charles Martinet’s cameo role in The Super Mario Bros. Movie is perfect](https://www.polygon.com/23670020/super-mario-bros-movie-charles-martinet-character-voice-roles)
- - [Area man destroys Elden Ring&#39;s pantheon of bosses with a Bop-It](https://www.pcgamer.com/area-man-destroys-elden-rings-pantheon-of-bosses-with-a-bop-it)<!-- GAME:END -->
+ - [ICYMI: April’s ID@Xbox Showcase on Twitch](https://news.xbox.com/en-us/2023/04/05/aprils-idxbox-showcase-on-twitch/)
+ - [Diablo 4&#39;s endgame challenges are MMO dailies in disguise](https://www.pcgamer.com/diablo-4s-endgame-challenges-are-mmo-dailies-in-disguise)
+ - [Dredge’s endings, explained](https://www.polygon.com/guides/23671129/dredge-endings-good-bad-multiple)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
