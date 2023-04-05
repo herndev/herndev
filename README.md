@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo IV Devs On How They Plan On Keeping You Hooked For Hundreds of Hours](https://kotaku.com/diablo-iv-world-boss-epic-loot-nightmare-dungeons-1850304925)
  - [The Art of Boredom](https://news.xbox.com/en-us/2023/04/05/the-art-of-boredom/)
- - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)
- - [YouTuber Is Building All Of Breath Of The Wild In Minecraft](https://kotaku.com/zelda-botw-minecraft-build-youtube-breath-of-the-wild-1850304527)<!-- GAME:END -->
+ - [The Mandalorian finally made good on this season’s dangling plot thread](https://www.polygon.com/23671251/mandalorian-bo-katan-darksaber-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
