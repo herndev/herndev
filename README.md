@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Tab S9 Ultra specs leak: A more durable and powerful Samsung tablet](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-specs-3308577/)
- - [How sound boxes, small speakers that read out payment confirmations, have become a lucrative revenue stream for Paytm and other digital payment firms in India &lpar;Adnan Bhat/Rest of World&rpar;](http://www.techmeme.com/230405/p2#a230405p2)
- - [It’s Way Too Easy to Get Google’s Bard Chatbot to Lie](https://www.wired.com/story/its-way-too-easy-to-get-googles-bard-chatbot-to-lie/)<!-- TECH:END -->
+ - [Sources: Chinese regulators have slowed merger approvals of deals by US firms, asking some to make products that they sell in other countries available in China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230405/p3#a230405p3)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
