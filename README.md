@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky&#39;s next major update adds new ships and spooky corrupted planets](https://www.pcgamer.com/no-mans-skys-next-major-update-adds-new-ships-and-spooky-corrupted-planets)
- - [How to get Abyssal and Hadal fishing rods in Dredge](https://www.pcgamer.com/dredge-abyssal-hadal-fishing-rods)
- - [Overwatch 2 Trolls Are Using Lifeweaver To Pull Teammates To Their Death](https://kotaku.com/overwatch-2-hero-lifeweaver-season-4-patch-change-ptr-1850302565)<!-- GAME:END -->
+ - [Sony&#39;s Next Gaming Handheld May Not Be The Vita 2 Fans Want](https://kotaku.com/sony-playstation-vita-2-handheld-ps5-remote-play-cloud-1850303111)
+ - [Players’ Choice: Vote for March 2023’s best new game](https://blog.playstation.com/2023/04/05/players-choice-vote-for-march-2023s-best-new-game/)
+ - [Bookbinders are turning fanfiction into hardcover masterpieces](https://www.polygon.com/23669602/tiktok-fanfic-ao3-book-binders-harry-potter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
