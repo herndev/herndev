@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo designer Shigeru Miyamoto says &quot;mobile apps will not be the primary path of future Mario games&quot; after two moderately successful but dwindling iOS games &lpar;Ethan Shanfeld/Variety&rpar;](http://www.techmeme.com/230404/p29#a230404p29)
- - [Nintendo won&#39;t be making any more &#39;Super Mario&#39; games for iPhone](https://appleinsider.com/articles/23/04/05/nintendo-wont-be-making-any-more-super-mario-games-for-iphone?utm_medium=rss)
- - [Twitter&#39;s new API tiers are useless for researchers; the $100/month plan is much worse than the old free plan, and the $42K-$210K/month plans are too expensive &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p28#a230404p28)<!-- TECH:END -->
+ - [Apple service support to end for iOS 11 era software in May](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
+ - [Google claims its 4th-gen TPU-based supercomputers it uses for AI training are up to 1.7x faster and 1.9x more power-efficient than Nvidia&#39;s A100-based systems &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230404/p31#a230404p31)
+ - [Strivacity, which helps companies build secure customer login flows and identity management, raised a $20M Series A2 led by SignalFire &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230404/p30#a230404p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
