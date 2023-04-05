@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple service support to end for iOS 11 era software in May](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
- - [Google claims its 4th-gen TPU-based supercomputers it uses for AI training are up to 1.7x faster and 1.9x more power-efficient than Nvidia&#39;s A100-based systems &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230404/p31#a230404p31)
- - [Strivacity, which helps companies build secure customer login flows and identity management, raised a $20M Series A2 led by SignalFire &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230404/p30#a230404p30)<!-- TECH:END -->
+ - [It’s Way Too Easy to Get Google’s Bard Chatbot to Lie](https://www.wired.com/story/its-way-too-easy-to-get-googles-bard-chatbot-to-lie/)
+ - [A look at Amazon&#39;s struggle to clear technical and regulatory hurdles for US drone deliveries, like not being certified to fly over active roadways and people &lpar;Wired&rpar;](http://www.techmeme.com/230405/p1#a230405p1)
+ - [Kobo’s all-you-can-read subscription coming to the US could challenge Amazon](https://www.theverge.com/2023/4/5/23669736/kobo-plus-unlimited-ebook-audiobook-us-launch-kindle-unlimited)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
