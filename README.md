@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 7 7800X3D](https://www.pcgamer.com/amd-ryzen-7-7800x3d-review-benchmarks-performance)
- - [No Man’s Sky: Interceptor Offers the Largest New Update in Recent Memory](https://news.xbox.com/en-us/2023/04/05/no-mans-sky-interceptor-update/)
- - [Dredge invents and perfects the fishing-horror genre](https://www.polygon.com/reviews/23669611/dredge-review-fishing-game-horror)<!-- GAME:END -->
+ - [No Man&#39;s Sky&#39;s next major update adds new ships and spooky corrupted planets](https://www.pcgamer.com/no-mans-skys-next-major-update-adds-new-ships-and-spooky-corrupted-planets)
+ - [How to get Abyssal and Hadal fishing rods in Dredge](https://www.pcgamer.com/dredge-abyssal-hadal-fishing-rods)
+ - [Overwatch 2 Trolls Are Using Lifeweaver To Pull Teammates To Their Death](https://kotaku.com/overwatch-2-hero-lifeweaver-season-4-patch-change-ptr-1850302565)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
