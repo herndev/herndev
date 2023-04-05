@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
- - ⏩ [If this scene was from a parody movie, I would watch it](http://9gag.com/gag/aoKVWVe)
- - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
+ - 💣 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
+ - ⏩ [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
+ - 👉 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
 
 ---
 
