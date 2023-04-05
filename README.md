@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 7 leak reveals a very familiar design](https://www.androidauthority.com/rog-phone-7-leak-3309827/)
- - [Saudi Arabia&#39;s Savvy Games Group agrees to acquire mobile game maker Scopely for $4.9B; founded in 2011, Scopely was reportedly valued at $5.4B in October 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230405/p28#a230405p28)
- - [Apple renews &#39;The Big Door Prize&#39; for Apple TV+ starring Chris O&#39;Dowd](https://appleinsider.com/articles/23/04/05/apple-renews-the-big-door-prize-for-apple-tv-starring-chris-odowd?utm_medium=rss)<!-- TECH:END -->
+ - [India&#39;s Ministry of Electronics and IT says the government does not plan to regulate AI growth, calling the sector &quot;significant and strategic&quot; for the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230405/p29#a230405p29)
+ - [Friends — Here’s where to stream the popular 90s TV show](https://www.androidauthority.com/where-to-watch-friends-3309769/)
+ - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
