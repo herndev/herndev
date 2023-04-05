@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A more sane iOS 17 compatibility list has been leaked](https://appleinsider.com/articles/23/04/05/a-more-sane-ios-17-compatibility-list-has-been-leaked?utm_medium=rss)
- - [Apple Services ending for some older OS versions -- but it&#39;s not a big deal](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
- - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)<!-- TECH:END -->
+ - [A Mug Shot Could Play Right Into Trump’s Hands](https://www.wired.com/story/trump-mug-shot-privacy/)
+ - [Bing Newcomb, who co-founded E*Trade in the 1980s, bringing stock trading to personal computers, and took the company public in 1996, died at 79 &lpar;Sam Roberts/New York Times&rpar;](http://www.techmeme.com/230405/p22#a230405p22)
+ - [Deals: $150 off M2 MacBook Pro, Apple Watch Milanese Loop $429, 39% off Philips Hue, more](https://appleinsider.com/articles/23/04/05/deals-150-off-m2-macbook-pro-apple-watch-milanese-loop-429-39-off-philips-hue-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
