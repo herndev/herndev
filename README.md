@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eFile tax website served malware to visitors for weeks](https://appleinsider.com/articles/23/04/05/efile-tax-website-served-malware-to-visitors-for-weeks?utm_medium=rss)
- - [Kyoto-based Kyocera plans to spend ~$470M over six years on a new chip materials plant in Nagasaki prefecture, its first domestic production facility since 2005 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230405/p32#a230405p32)
- - [OpenAI details its approach to AI safety, including evaluating AI systems, improving safeguards based on real-world use, protecting kids, and respecting privacy &lpar;OpenAI&rpar;](http://www.techmeme.com/230405/p31#a230405p31)<!-- TECH:END -->
+ - [Tests show that Twitter&#39;s &quot;stay informed&quot; labels, implemented in February 2022 to flag tweets with links to Russia or China-controlled sites, no longer appear &lpar;Semafor&rpar;](http://www.techmeme.com/230405/p34#a230405p34)
+ - [Microsoft Edge launches Workspaces test that lets you share browser tabs](https://www.theverge.com/2023/4/5/23671661/microsoft-edge-workspaces-test-browser-tabs-share)
+ - [A week ahead of Ethereum&#39;s Shanghai and Capella upgrades, ETH is up 6% over the past three days, surpassing $1,900 to a nine-month high and outperforming BTC &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230405/p33#a230405p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
