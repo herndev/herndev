@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s Always Sunny In Philadelphia....](http://9gag.com/gag/ajVO7Mx)
- - ⏩ [Daily dose of good energy](http://9gag.com/gag/aKE9GDg)
- - 👉 [Kids are pain](http://9gag.com/gag/adPOBQd)<!-- MEMES:END -->
+ - 💣 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)
+ - ⏩ [If this scene was from a parody movie, I would watch it](http://9gag.com/gag/aoKVWVe)
+ - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
 
 ---
 
