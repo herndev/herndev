@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds Pro vs Pixel Buds A-Series: Which buds are best?](https://www.androidauthority.com/google-pixel-buds-comparison-3301019/)
- - [As AI chatbots explode, Helsinki-based Silo AI and other European startups race to improve responses in languages other than English, like German and Arabic &lpar;Financial Times&rpar;](http://www.techmeme.com/230405/p8#a230405p8)
- - [Galaxy Buds 2 Pro vs Galaxy Buds 2 vs Galaxy Buds Live: In-depth comparison](https://www.androidauthority.com/samsung-galaxy-buds-comparison-3301516/)<!-- TECH:END -->
+ - [Veci 2-in-1 MagSafe Wallet review: Best MagSafe Wallet that isn&#39;t Apple&#39;s](https://appleinsider.com/articles/23/04/05/veci-2-in-1-magsafe-wallet-review-best-magsafe-wallet-that-isnt-apples?utm_medium=rss)
+ - [Apple Service ending for some older OS versions -- but it&#39;s not a big deal](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
+ - [Twitter adds a &quot;state-affiliated media&quot; label to NPR&#39;s account, seemingly contradicting Twitter&#39;s own policies, which used NPR as an example of an exception &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230405/p11#a230405p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
