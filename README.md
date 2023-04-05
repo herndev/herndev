@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Latest ‘Overwatch 2’ Hero Is Going to Start a Class War](https://www.wired.com/story/overwatch-2-support-hero-lifeweaver/)
- - [Universal Control not working right for some in latest iPadOS and macOS](https://appleinsider.com/articles/23/04/05/universal-control-not-working-right-for-some-in-latest-ipados-and-macos-ventura?utm_medium=rss)
- - [Nintendo and Sony embracing direct-to-audience streams, added to the pandemic, led to E3&#39;s demise; fan conventions and networking events have survived the shift &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/230405/p16#a230405p16)<!-- TECH:END -->
+ - [A more sane iOS 17 compatibility list has been leaked](https://appleinsider.com/articles/23/04/05/a-more-sane-ios-17-compatibility-list-has-been-leaked?utm_medium=rss)
+ - [Apple Services ending for some older OS versions -- but it&#39;s not a big deal](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)
+ - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
