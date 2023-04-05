@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
- - [The Last of Us series got the grossest MTV Movie Award nomination ever](https://www.polygon.com/23671530/last-of-us-series-hbo-mtv-movie-awards-best-kiss)
- - [Resident Evil 4 Chapter 15: Stronghold to Sanctuary](https://www.polygon.com/resident-evil-4-remake-guides/23669776/chapter-15-stronghold-sanctuary-luis-laboratory)<!-- GAME:END -->
+ - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
+ - [The Barbie movie is teaching us about all her discontinued friends](https://www.polygon.com/23671465/barbie-movie-allan-doll-midge-discontinued-friends)
+ - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
