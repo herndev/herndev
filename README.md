@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Devs On How They Plan On Keeping You Hooked For Hundreds of Hours](https://kotaku.com/diablo-iv-world-boss-epic-loot-nightmare-dungeons-1850304925)
- - [The Art of Boredom](https://news.xbox.com/en-us/2023/04/05/the-art-of-boredom/)
- - [The Mandalorian finally made good on this season’s dangling plot thread](https://www.polygon.com/23671251/mandalorian-bo-katan-darksaber-explainer)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
+ - [The Last of Us series got the grossest MTV Movie Award nomination ever](https://www.polygon.com/23671530/last-of-us-series-hbo-mtv-movie-awards-best-kiss)
+ - [Resident Evil 4 Chapter 15: Stronghold to Sanctuary](https://www.polygon.com/resident-evil-4-remake-guides/23669776/chapter-15-stronghold-sanctuary-luis-laboratory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
