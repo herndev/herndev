@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wooting&#39;s three-buttoned UwU keyboard starts at $50](https://www.pcgamer.com/wootings-three-buttoned-uwu-keyboard-starts-at-dollar50)
- - [Where to find lily pads, air vents, and tires in Fortnite](https://www.pcgamer.com/fortnite-lily-pad-air-vent-tire-location)
- - [Snoop Dogg Bails As Faze Clan Circles The Drain](https://kotaku.com/snoop-dogg-faze-clan-bail-leave-quit-ipo-public-shares-1850301217)<!-- GAME:END -->
+ - [Agony spin-off Succubus VR has been banned from Steam](https://www.pcgamer.com/agony-spin-off-succubus-vr-has-been-banned-from-steam)
+ - [Xbox&#39;s new controller is made of one-third reclaimed materials](https://www.pcgamer.com/xboxs-new-controller-is-one-third-reclaimed-materials)
+ - [Wooting&#39;s three-buttoned UwU keyboard starts at $50](https://www.pcgamer.com/wootings-three-buttoned-uwu-keyboard-starts-at-dollar50)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
