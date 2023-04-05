@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Ministry of Electronics and IT says the government does not plan to regulate AI growth, calling the sector &quot;significant and strategic&quot; for the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230405/p29#a230405p29)
- - [Friends — Here’s where to stream the popular 90s TV show](https://www.androidauthority.com/where-to-watch-friends-3309769/)
- - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [OpenAI details its approach to AI safety, including conducting safety evaluations, improving safeguards after launch, protecting kids, and respecting privacy &lpar;OpenAI&rpar;](http://www.techmeme.com/230405/p31#a230405p31)
+ - [iOS 17 could introduce updated Control Center, says leaker](https://appleinsider.com/articles/23/04/05/ios-17-could-introduce-updated-control-center-says-leaker?utm_medium=rss)
+ - [Report: Phil Harrison, the head of defunct cloud gaming service Google Stadia, left the company in January 2023; Harrison joined Google as a VP in January 2018 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230405/p30#a230405p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
