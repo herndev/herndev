@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details its approach to AI safety, including conducting safety evaluations, improving safeguards after launch, protecting kids, and respecting privacy &lpar;OpenAI&rpar;](http://www.techmeme.com/230405/p31#a230405p31)
- - [iOS 17 could introduce updated Control Center, says leaker](https://appleinsider.com/articles/23/04/05/ios-17-could-introduce-updated-control-center-says-leaker?utm_medium=rss)
- - [Report: Phil Harrison, the head of defunct cloud gaming service Google Stadia, left the company in January 2023; Harrison joined Google as a VP in January 2018 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230405/p30#a230405p30)<!-- TECH:END -->
+ - [eFile tax website served malware to visitors for weeks](https://appleinsider.com/articles/23/04/05/efile-tax-website-served-malware-to-visitors-for-weeks?utm_medium=rss)
+ - [Kyoto-based Kyocera plans to spend ~$470M over six years on a new chip materials plant in Nagasaki prefecture, its first domestic production facility since 2005 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230405/p32#a230405p32)
+ - [OpenAI details its approach to AI safety, including evaluating AI systems, improving safeguards based on real-world use, protecting kids, and respecting privacy &lpar;OpenAI&rpar;](http://www.techmeme.com/230405/p31#a230405p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
