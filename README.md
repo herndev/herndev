@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to embarrass your girl](http://9gag.com/gag/aqe8erL)
- - ⏩ [Amazing footwork](http://9gag.com/gag/abvO1MO)
- - 👉 [It\u2019s Always Sunny In Philadelphia....](http://9gag.com/gag/ajVO7Mx)<!-- MEMES:END -->
+ - 💣 [It\u2019s Always Sunny In Philadelphia....](http://9gag.com/gag/ajVO7Mx)
+ - ⏩ [Daily dose of good energy](http://9gag.com/gag/aKE9GDg)
+ - 👉 [Kids are pain](http://9gag.com/gag/adPOBQd)<!-- MEMES:END -->
 
 ---
 
