@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Mug Shot Could Play Right Into Trump’s Hands](https://www.wired.com/story/trump-mug-shot-privacy/)
- - [Bing Newcomb, who co-founded E*Trade in the 1980s, bringing stock trading to personal computers, and took the company public in 1996, died at 79 &lpar;Sam Roberts/New York Times&rpar;](http://www.techmeme.com/230405/p22#a230405p22)
- - [Deals: $150 off M2 MacBook Pro, Apple Watch Milanese Loop $429, 39% off Philips Hue, more](https://appleinsider.com/articles/23/04/05/deals-150-off-m2-macbook-pro-apple-watch-milanese-loop-429-39-off-philips-hue-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s Mac mini M2 to $499, cheapest price on record](https://appleinsider.com/articles/23/04/05/amazon-drops-apples-mac-mini-m2-to-499-cheapest-price-on-record?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Jeep is doubling down on plug-in hybrids with the 2024 Wrangler 4xe](https://www.theverge.com/2023/4/5/23669768/jeep-wrangler-4xe-plug-in-hybrid-2024-photos-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
