@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get free McNuggets from McDonald&#39;s with Apple Pay purchase inside app](https://appleinsider.com/articles/23/04/05/how-to-get-free-mcnuggets-from-mcdonalds-with-apple-pay-purchase-inside-app?utm_medium=rss)
- - [Selena Gomez Apple TV+ film nominated for MTV&#39;s Best Music Documentary](https://appleinsider.com/articles/23/04/05/selena-gomez-apple-tv-film-nominated-for-mtvs-best-music-documentary?utm_medium=rss)
- - [Source: Binance rejected buying Tron founder Justin Sun&#39;s stake in Huobi due to Sun&#39;s alleged China ties; Sun&#39;s Huobi involvement has been shrouded in secrecy &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/230405/p24#a230405p24)<!-- TECH:END -->
+ - [Google Play improves data safety by requiring apps to let users delete data](https://www.androidauthority.com/google-play-data-safety-3309792/)
+ - [Keanu Reeves &amp; Jonah Hill coming to Apple TV+ in &#39;Outcome&#39;](https://appleinsider.com/articles/23/04/05/keanu-reeves-jonah-hill-coming-to-apple-tv-in-outcome?utm_medium=rss)
+ - [Deutsche Telekom announces that it now holds a majority stake in T-Mobile US &lpar;Reuters&rpar;](http://www.techmeme.com/230405/p26#a230405p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
