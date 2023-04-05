@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
- - ⏩ [Oh snap](http://9gag.com/gag/a7qeqDw)
- - 👉 [Had an \u201cinternal meltdown\u201d. After all this assessment tests and 45 min. talking about each detail of my CV I had enough. I\u2019m qualified, my CV has no empty spots and all backed by documents from former companies with contact infos for further questions.](http://9gag.com/gag/aKE9EwZ)<!-- MEMES:END -->
+ - 💣 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
+ - ⏩ [Comments section](http://9gag.com/gag/ap9DRL9)
+ - 👉 [Taylor](http://9gag.com/gag/armAybd)<!-- MEMES:END -->
 
 ---
 
