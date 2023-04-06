@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 💣 [Spots are bigger](http://9gag.com/gag/az2PGgZ)
  - ⏩ [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
- - 👉 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)<!-- MEMES:END -->
+ - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 ---
 
