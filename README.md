@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 👉 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
+ - 💣 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - ⏩ [They think the world revolves around them](http://9gag.com/gag/aA0E4q0)
+ - 👉 [Too much beer is bad](http://9gag.com/gag/a1PDVeY)<!-- MEMES:END -->
 
 ---
 
