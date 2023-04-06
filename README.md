@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say Twitter&#39;s open sourced For You code still misses context that fully explains its recommendation system, despite a supposed push for transparency &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/230405/p38#a230405p38)
  - [Decentraland says 26K attended its virtual fashion week in March 2023, vs. 108K in 2022, a 76% drop, despite brands like Tommy Hilfiger and Adidas sponsoring &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230405/p37#a230405p37)
- - [The ‘world’s strongest water gun’ is back and wetter than ever](https://www.theverge.com/2023/4/5/23672037/syprathree-spyra-water-guns-powerful)
- - [Google: Android Apps Must Let People Delete Their Accounts, Data     - CNET](https://www.cnet.com/tech/services-and-software/google-android-apps-must-let-people-delete-their-accounts-data/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ‘world’s strongest water gun’ is back and wetter than ever](https://www.theverge.com/2023/4/5/23672037/syprathree-spyra-water-guns-powerful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
