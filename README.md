@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
- - ⏩ [How couple up?](http://9gag.com/gag/az2PP3Z)
- - 👉 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)<!-- MEMES:END -->
+ - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
+ - ⏩ [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
 
 ---
 
