@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google: Android Apps Must Let People Delete Their Accounts, Data     - CNET](https://www.cnet.com/tech/services-and-software/google-android-apps-must-let-people-delete-their-accounts-data/#ftag=CAD590a51e)
- - [China-based SJ Semiconductor, which offers a 12-inch wafer bumping and testing service, raised a $340M Series C extension at a $1.8B valuation &lpar;Stephanie Li/DealStreetAsia&rpar;](http://www.techmeme.com/230405/p36#a230405p36)
- - [Study: ChatGPT cited nonexistent Washington Post, Miami Herald, and Los Angeles Times articles and fabricated a sexual harassment story about a law professor &lpar;Washington Post&rpar;](http://www.techmeme.com/230405/p35#a230405p35)<!-- TECH:END -->
+ - [Decentraland says 26K attended its virtual fashion week in March 2023, vs. 108K in 2022, a 76% drop, despite brands like Tommy Hilfiger and Adidas sponsoring &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230405/p37#a230405p37)
+ - [The ‘world’s strongest water gun’ is back and wetter than ever](https://www.theverge.com/2023/4/5/23672037/syprathree-spyra-water-guns-powerful)
+ - [Google: Android Apps Must Let People Delete Their Accounts, Data     - CNET](https://www.cnet.com/tech/services-and-software/google-android-apps-must-let-people-delete-their-accounts-data/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
