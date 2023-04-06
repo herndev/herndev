@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite growing security concerns about TikTok, Apple remains among top ad spenders](https://appleinsider.com/articles/23/04/06/despite-growing-security-concerns-about-tiktok-apple-remains-among-top-ad-spenders?utm_medium=rss)
- - [Motorola Moto G Power 5G &lpar;2023&rpar; has 5G support for the first time](https://www.androidauthority.com/motorola-moto-g-power-5g-2023-3310235/)
- - [Microsoft put Bing Chat in your keyboard, so you can Chat while you chat](https://www.androidauthority.com/bing-chat-swiftkey-keyboard-3310126/)<!-- TECH:END -->
+ - [Samsung &amp; Google struggle to match iPhone 14 value for used handsets](https://appleinsider.com/articles/23/04/06/samsung-google-struggle-to-match-iphone-14-value-for-used-handsets?utm_medium=rss)
+ - [Before You Buy: What You Need to Know About Over-the-Counter Hearing Aids     - CNET](https://www.cnet.com/health/medical/before-you-buy-what-you-need-to-know-about-over-the-counter-hearing-aids/#ftag=CAD590a51e)
+ - [Sources say some Tesla staff privately shared sensitive videos recorded by customers&#39; car cameras between 2019 and 2022, including a child being hit by a car &lpar;Reuters&rpar;](http://www.techmeme.com/230406/p18#a230406p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
