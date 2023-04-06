@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When will Attack on Titan skin Eren Yeager be released in Fortnite?](https://www.polygon.com/fortnite-guide/23633803/eren-jaeger-yeager-attack-on-titan-skin-release-date)
  - [Get to know the Quen of Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/04/06/get-to-know-the-quen-of-horizon-forbidden-west-burning-shores/)
- - [All Recording Rarities fish locations in Dredge](https://www.pcgamer.com/dredge-recording-rarities-fish-locations)
- - [PC gaming&#39;s obsession with high-end hardware is only going to get worse according to analysts](https://www.pcgamer.com/pc-gamings-obsession-with-high-end-hardware-is-only-going-to-get-worse-according-to-analysts)<!-- GAME:END -->
+ - [Get to know the Quen of Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/04/06/get-to-know-the-quen-of-horizon-forbidden-west-burning-shores/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
