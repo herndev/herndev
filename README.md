@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - ⏩ [Oiu](http://9gag.com/gag/aEqVMWO)
- - 👉 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)<!-- MEMES:END -->
+ - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - ⏩ [I need one](http://9gag.com/gag/a8qmAzO)
+ - 👉 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
 
 ---
 
