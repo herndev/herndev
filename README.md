@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sega&#39;s April Fool&#39;s joke has become its best-rated Sonic game on PC](https://www.pcgamer.com/segas-april-fools-joke-has-become-its-best-rated-sonic-game-on-pc)
  - [Playing with the Panasonic SoundSlayer wearable speaker—how does its 3D audio transform your games?](https://www.pcgamer.com/playing-with-the-panasonic-soundslayer-wearable-speakerhow-does-its-3d-audio-transform-your-games)
- - [Wordle hint and answer #656: Thursday, April 6](https://www.pcgamer.com/wordle-hint-answer-today-656-april-6)
- - [Bethesda added a &#39;newvegas2&#39; branch to Fallout 4, fueling rumors of a New Vegas follow-up](https://www.pcgamer.com/bethesda-added-a-newvegas2-branch-to-fallout-4-fueling-rumors-of-a-new-vegas-follow-up)<!-- GAME:END -->
+ - [Wordle hint and answer #656: Thursday, April 6](https://www.pcgamer.com/wordle-hint-answer-today-656-april-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
