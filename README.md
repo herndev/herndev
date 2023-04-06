@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
- - ⏩ [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
- - 👉 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
+ - 💣 [I need one](http://9gag.com/gag/a8qmAzO)
+ - ⏩ [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 ---
 
