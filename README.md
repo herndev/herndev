@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How couple up?](http://9gag.com/gag/az2PP3Z)
- - ⏩ [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
- - 👉 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)<!-- MEMES:END -->
+ - 💣 [Emotionaaal Daaamange](http://9gag.com/gag/az2P22p)
+ - ⏩ [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
+ - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
 
 ---
 
