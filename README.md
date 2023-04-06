@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotionaaal Daaamange](http://9gag.com/gag/az2P22p)
- - ⏩ [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
- - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
+ - 💣 [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - ⏩ [Taylor](http://9gag.com/gag/armAybd)
+ - 👉 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)<!-- MEMES:END -->
 
 ---
 
