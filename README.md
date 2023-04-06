@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
- - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 👉 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)<!-- MEMES:END -->
+ - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
+ - ⏩ [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
 
 ---
 
