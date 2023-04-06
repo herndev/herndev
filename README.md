@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
- - ⏩ [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 💣 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
  - 👉 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
 
 ---
