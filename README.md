@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lower-income US students feel they&#39;re at a disadvantage when pursuing Big Tech internships as the selection process exhibits longstanding inequities in hiring &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230406/p1#a230406p1)
  - [Samsung announces a multi-year extension with AMD on their IP licensing agreement to bring multiple generations of AMD Radeon graphics to more Exynos SoCs &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/230405/p40#a230405p40)
- - [Sources: Bengaluru-based Dunzo, a Google-backed quick commerce startup, raised $75M in convertible notes, lays off 30% of staff, and will cut 50% of dark stores &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/230405/p39#a230405p39)
- - [Researchers say Twitter&#39;s open sourced For You code still misses context that fully explains its recommendation system, despite a supposed push for transparency &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/230405/p38#a230405p38)<!-- TECH:END -->
+ - [Sources: Bengaluru-based Dunzo, a Google-backed quick commerce startup, raised $75M in convertible notes, lays off 30% of staff, and will cut 50% of dark stores &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/230405/p39#a230405p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
