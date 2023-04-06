@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal loan apps will get less predatory with this Google Play policy change](https://www.androidauthority.com/personal-loan-apps-google-play-policy-change-3309987/)
- - [The Galaxy S23 series is a sales hit, and the S23 Ultra is leading the charge](https://www.androidauthority.com/samsung-galaxy-s23-sales-performance-3309990/)
- - [Google plans to restrict personal loan apps from accessing sensitive user data like photos, videos, and contacts from May 31, in response to predatory behavior &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230406/p5#a230406p5)<!-- TECH:END -->
+ - [The Australian Securities and Investments Commission cancels Binance Australia&#39;s derivatives license, giving the exchange until April 21 to close all positions &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230406/p9#a230406p9)
+ - [Sundar Pichai says Google plans to add generative AI to Search, dismissing the threat to its ads business, and more work is needed to become 20% more productive &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230406/p8#a230406p8)
+ - [A look at Russia&#39;s tech industry decline, accelerated by the country&#39;s war against Ukraine, further pushing Yandex and other successful companies into isolation &lpar;Masha Borak/MIT Technology Review&rpar;](http://www.techmeme.com/230406/p7#a230406p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
