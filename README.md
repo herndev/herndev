@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - ⏩ [I need one](http://9gag.com/gag/a8qmAzO)
- - 👉 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
+ - 💣 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
+ - ⏩ [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
+ - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
 
 ---
 
