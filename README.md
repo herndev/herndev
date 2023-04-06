@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: TikTok advertising in the US grew by 11% in March, despite the threat of a ban, with Pepsi, DoorDash, Amazon, and Apple among the top spenders &lpar;Financial Times&rpar;](http://www.techmeme.com/230406/p4#a230406p4)
- - [Sources: Google and Amazon struggle to lay off workers in Germany, France, and other EU countries due to stringent labor laws and prolonged union negotiations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230406/p3#a230406p3)
- - [Samsung is all-in on Snapdragon for now, but it just signed a new AMD deal](https://www.androidauthority.com/samsung-exynos-amd-gpu-extension-3309964/)<!-- TECH:END -->
+ - [Personal loan apps will get less predatory with this Google Play policy change](https://www.androidauthority.com/personal-loan-apps-google-play-policy-change-3309987/)
+ - [The Galaxy S23 series is a sales hit, and the S23 Ultra is leading the charge](https://www.androidauthority.com/samsung-galaxy-s23-sales-performance-3309990/)
+ - [Google plans to restrict personal loan apps from accessing sensitive user data like photos, videos, and contacts from May 31, in response to predatory behavior &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230406/p5#a230406p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
