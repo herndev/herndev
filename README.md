@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
- - [The Barbie movie is teaching us about all her discontinued friends](https://www.polygon.com/23671465/barbie-movie-allan-doll-midge-discontinued-friends)
- - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)<!-- GAME:END -->
+ - [Bungie responds to Lightfall complaints and details improvements to come: &#39;The initial experience we delivered didn&#39;t provide the clarity we planned for&#39;](https://www.pcgamer.com/bungie-responds-to-lightfall-complaints-and-details-improvements-to-come-the-initial-experience-we-delivered-didnt-provide-the-clarity-we-planned-for)
+ - [Miyamoto’s Best Stories And Takes From The Super Mario Bros. Movie Media Blitz](https://kotaku.com/shigeru-miyamoto-super-mario-bros-movie-peach-game-1850305655)
+ - [My favorite multiplayer game of 2023 so far is basically competitive Hitman](https://www.pcgamer.com/my-favorite-multiplayer-game-of-2023-so-far-is-basically-competitive-hitman)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
