@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s dominance means it needs stricter controls, says Germany&#39;s antitrust regulator](https://appleinsider.com/articles/23/04/06/apples-dominance-means-it-needs-stricter-controls-says-germanys-antitrust-regulator?utm_medium=rss)
- - [US Census data: US chip imports rose 17% YoY to $4.86B in February 2023; Asia accounted for 82%, led by Malaysia at 20%, Taiwan at 15.1%, and Vietnam at 11.6% &lpar;Kevin Varley/Bloomberg&rpar;](http://www.techmeme.com/230406/p17#a230406p17)
- - [Future Apple Watch band could detect the smallest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)<!-- TECH:END -->
+ - [Despite growing security concerns about TikTok, Apple remains among top ad spenders](https://appleinsider.com/articles/23/04/06/despite-growing-security-concerns-about-tiktok-apple-remains-among-top-ad-spenders?utm_medium=rss)
+ - [Motorola Moto G Power 5G &lpar;2023&rpar; has 5G support for the first time](https://www.androidauthority.com/motorola-moto-g-power-5g-2023-3310235/)
+ - [Microsoft put Bing Chat in your keyboard, so you can Chat while you chat](https://www.androidauthority.com/bing-chat-swiftkey-keyboard-3310126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
