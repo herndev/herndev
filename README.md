@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A copy of the Bitcoin whitepaper is found shipped with every Mac running macOS Mojave or newer, as a sample document for a hidden &quot;Virtual Scanner II&quot; app &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/230406/p2#a230406p2)
- - [Lower-income US students feel they&#39;re at a disadvantage when pursuing Big Tech internships as the selection process exhibits longstanding inequities in hiring &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230406/p1#a230406p1)
- - [Samsung announces a multi-year extension with AMD on their IP licensing agreement to bring multiple generations of AMD Radeon graphics to more Exynos SoCs &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/230405/p40#a230405p40)<!-- TECH:END -->
+ - [Sensor Tower: TikTok advertising in the US grew by 11% in March, despite the threat of a ban, with Pepsi, DoorDash, Amazon, and Apple among the top spenders &lpar;Financial Times&rpar;](http://www.techmeme.com/230406/p4#a230406p4)
+ - [Sources: Google and Amazon struggle to lay off workers in Germany, France, and other EU countries due to stringent labor laws and prolonged union negotiations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230406/p3#a230406p3)
+ - [Samsung is all-in on Snapdragon for now, but it just signed a new AMD deal](https://www.androidauthority.com/samsung-exynos-amd-gpu-extension-3309964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
