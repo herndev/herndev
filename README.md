@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ChatGPT is &#39;so wildly incorrect&#39; that an Australian whistleblower is suing it for defamation](https://www.pcgamer.com/chatgpt-is-so-wildly-incorrect-that-an-australian-whistleblower-is-suing-it-for-defamation)
- - [The Super Mario Bros. Movie Makes Bowser Kinda Pathetic, And It&#39;s Great](https://kotaku.com/bowser-jack-black-peaches-streaming-mario-bros-movie-1850307871)
- - [Five Nights at Freddy&#39;s movie gets a release date only eight years after it was announced](https://www.pcgamer.com/five-nights-at-freddys-movie-gets-a-release-date-only-eight-years-after-it-was-announced)<!-- GAME:END -->
+ - [Concept reboots the whole concept of a guessing game](https://www.polygon.com/videos/23671123/overboard-concept-charades-pictionary-guessing-game)
+ - [EA Sports FC reveals first plans for life after FIFA](https://www.polygon.com/23672919/ea-sports-fc-new-logo-announcement-fifa-23)
+ - [How to give a hired Specialist Character a command in Fortnite](https://www.polygon.com/fortnite-guide/23672701/give-hired-specialist-character-commands-wheel-keybind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
