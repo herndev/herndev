@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
- - ⏩ [Spots are bigger](http://9gag.com/gag/az2PGgZ)
- - 👉 [Fact](http://9gag.com/gag/a8qme8Y)<!-- MEMES:END -->
+ - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 👉 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
 
 ---
 
