@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
- - ⏩ [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
- - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
+ - 💣 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
+ - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
 
 ---
 
