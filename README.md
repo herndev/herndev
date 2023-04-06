@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah&#39;s bills restricting kids&#39; social media use have galling civil-liberties concerns and hazy enforcement plans, and will likely face constitutional challenges &lpar;Jay Caspian Kang/New Yorker&rpar;](http://www.techmeme.com/230406/p15#a230406p15)
- - [A Mastodon user since 2018 details issues with the service despite decentralization&#39;s promise, including little diversity, tone policing, and a weird atmosphere &lpar;Andy Bell&rpar;](http://www.techmeme.com/230406/p14#a230406p14)
- - [Sundar Pichai says that Chat AI is coming to Google Search soon](https://appleinsider.com/articles/23/04/06/sundar-pichai-says-that-chat-ai-is-coming-to-google-search-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s dominance means it needs stricter controls, says Germany&#39;s antitrust regulator](https://appleinsider.com/articles/23/04/06/apples-dominance-means-it-needs-stricter-controls-says-germanys-antitrust-regulator?utm_medium=rss)
+ - [US Census data: US chip imports rose 17% YoY to $4.86B in February 2023; Asia accounted for 82%, led by Malaysia at 20%, Taiwan at 15.1%, and Vietnam at 11.6% &lpar;Kevin Varley/Bloomberg&rpar;](http://www.techmeme.com/230406/p17#a230406p17)
+ - [Future Apple Watch band could detect the smallest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
