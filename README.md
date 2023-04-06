@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 👉 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
+ - ⏩ [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
 
 ---
 
