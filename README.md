@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung execs find employees intentionally giving company secrets to ChatGPT](https://www.androidauthority.com/samsung-chatgpt-leak-3310307/)
- - [Influencers, small businesses, and others say Meta gutting its customer service teams during layoffs has left them grappling with scammers and technical issues &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230406/p20#a230406p20)
- - [Google finally confirms that an AI chatbot is coming to Search. But when?](https://www.androidauthority.com/google-search-ai-chatbot-3310304/)<!-- TECH:END -->
+ - [Global VC funding fell 53% YoY to $76B in Q1 2023, down from $162B in Q1 2022, including OpenAI&#39;s $10B and Stripe&#39;s $6.5B; $39.2B went to late-stage startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/230406/p21#a230406p21)
+ - [A classic keyboard returns as the hot-swappable, wireless WhiteFox Eclipse](https://www.theverge.com/2023/4/6/23672354/whitefox-eclipse-wireless-mechanical-keyboard-kickstarter)
+ - [Samsung execs find employees intentionally giving company secrets to ChatGPT](https://www.androidauthority.com/samsung-chatgpt-leak-3310307/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
