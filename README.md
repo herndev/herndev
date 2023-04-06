@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer and 40K fans unite for America’s most prestigious mini-painting competition](https://www.polygon.com/23664838/warhammer-40k-golden-demon-america-adepticon-2023)
- - [Final Fantasy 14 is giving its second expansion away for free](https://www.pcgamer.com/final-fantasy-14-is-giving-its-second-expansion-away-for-free)
- - [Wit Studio is what made Attack on Titan’s first season so special](https://www.polygon.com/23668388/attack-titan-wit-studio-season-anniversary-aot)<!-- GAME:END -->
+ - [ChatGPT is &#39;so wildly incorrect&#39; that an Australian whistleblower is suing it for defamation](https://www.pcgamer.com/chatgpt-is-so-wildly-incorrect-that-an-australian-whistleblower-is-suing-it-for-defamation)
+ - [The Super Mario Bros. Movie Makes Bowser Kinda Pathetic, And It&#39;s Great](https://kotaku.com/bowser-jack-black-peaches-streaming-mario-bros-movie-1850307871)
+ - [Five Nights at Freddy&#39;s movie gets a release date only eight years after it was announced](https://www.pcgamer.com/five-nights-at-freddys-movie-gets-a-release-date-only-eight-years-after-it-was-announced)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
