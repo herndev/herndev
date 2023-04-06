@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
- - ⏩ [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
- - 👉 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
+ - 💣 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - ⏩ [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
+ - 👉 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)<!-- MEMES:END -->
 
 ---
 
