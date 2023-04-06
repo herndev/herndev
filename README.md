@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Attack on Titan skin Eren Yeager be released in Fortnite?](https://www.polygon.com/fortnite-guide/23633803/eren-jaeger-yeager-attack-on-titan-skin-release-date)
- - [Get to know the Quen of Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/04/06/get-to-know-the-quen-of-horizon-forbidden-west-burning-shores/)
- - [Get to know the Quen of Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/04/06/get-to-know-the-quen-of-horizon-forbidden-west-burning-shores/)<!-- GAME:END -->
+ - [Would Dungeons &amp; Dragons: Honor Among Thieves actually make a good D&amp;D game?](https://www.polygon.com/23671737/honor-among-thieves-dungeons-and-dragons-play-module)
+ - [Actual Italians Tell Us What They Think About Super Mario](https://kotaku.com/the-super-mario-bros-movie-little-italy-nintendo-1850305248)
+ - [How to get the Signet Ring in Dredge and what it does](https://www.pcgamer.com/dredge-signet-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
