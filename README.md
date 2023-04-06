@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - ⏩ [I need one](http://9gag.com/gag/a8qmAzO)
- - 👉 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
+ - 💣 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
+ - ⏩ [Cardio at the gym](http://9gag.com/gag/aKE98L3)
+ - 👉 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
 
 ---
 
