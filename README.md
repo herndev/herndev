@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need one](http://9gag.com/gag/a8qmAzO)
- - ⏩ [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
- - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
+ - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
+ - ⏩ [Spots are bigger](http://9gag.com/gag/az2PGgZ)
+ - 👉 [Fact](http://9gag.com/gag/a8qme8Y)<!-- MEMES:END -->
 
 ---
 
