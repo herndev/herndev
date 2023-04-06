@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global VC funding fell 53% YoY to $76B in Q1 2023, down from $162B in Q1 2022, including OpenAI&#39;s $10B and Stripe&#39;s $6.5B; $39.2B went to late-stage startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/230406/p21#a230406p21)
- - [A classic keyboard returns as the hot-swappable, wireless WhiteFox Eclipse](https://www.theverge.com/2023/4/6/23672354/whitefox-eclipse-wireless-mechanical-keyboard-kickstarter)
- - [Samsung execs find employees intentionally giving company secrets to ChatGPT](https://www.androidauthority.com/samsung-chatgpt-leak-3310307/)<!-- TECH:END -->
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
+ - [If you&#39;re a Tesla owner, employees might be sharing your camera recordings](https://appleinsider.com/articles/23/04/06/if-youre-a-tesla-owner-employees-might-be-sharing-your-camera-recordings?utm_medium=rss)
+ - [14 Best Deals: Fitness Gear, Ebikes, and Mechanical Keyboards](https://www.wired.com/story/midweek-deals-april-6-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
