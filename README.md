@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Australian Securities and Investments Commission cancels Binance Australia&#39;s derivatives license, giving the exchange until April 21 to close all positions &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230406/p9#a230406p9)
- - [Sundar Pichai says Google plans to add generative AI to Search, dismissing the threat to its ads business, and more work is needed to become 20% more productive &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230406/p8#a230406p8)
- - [A look at Russia&#39;s tech industry decline, accelerated by the country&#39;s war against Ukraine, further pushing Yandex and other successful companies into isolation &lpar;Masha Borak/MIT Technology Review&rpar;](http://www.techmeme.com/230406/p7#a230406p7)<!-- TECH:END -->
+ - [Vodacom, MTN, Telkom, and other South African mobile networks scramble to stay online as the power grid crumbles, spending millions on alternative power sources &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/230406/p11#a230406p11)
+ - [If your iPhone calls emergency services, don&#39;t hang up if you&#39;re fine says Apple](https://appleinsider.com/articles/23/04/06/if-your-iphone-calls-emergency-services-dont-hang-up-if-youre-fine-says-apple?utm_medium=rss)
+ - [Google could pull an Apple, let you take phone calls on your Android tablet](https://www.androidauthority.com/google-call-streaming-android-14-3310013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
