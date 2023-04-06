@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - ⏩ [They think the world revolves around them](http://9gag.com/gag/aA0E4q0)
- - 👉 [Too much beer is bad](http://9gag.com/gag/a1PDVeY)<!-- MEMES:END -->
+ - 💣 [Oiu](http://9gag.com/gag/aEqVMWO)
+ - ⏩ [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
+ - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 ---
 
