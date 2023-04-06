@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube adds a Podcasts tab to channel pages globally on its website and mobile apps, showing playlists that creators have marked as podcasts &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230406/p23#a230406p23)
- - [Motorola Edge 40 leak reveals four different colorways](https://www.androidauthority.com/motorola-edge-40-leak-3310413/)
- - [Why this new plant is capturing carbon dioxide just to let it back out again](https://www.theverge.com/2023/4/6/23669582/american-climate-tech-company-colorado-global-thermostat-direct-air-capture)<!-- TECH:END -->
+ - [Substack writers are getting a pop-up saying Twitter &quot;unexpectedly restricted access to embedding tweets&quot;, a day after Substack unveiled its Twitter-like Notes &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230406/p24#a230406p24)
+ - [Twitter cuts off Substack embeds and starts suspending bots](https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api)
+ - [YouTube adds a Podcasts tab to channel pages globally on its website and mobile apps, showing playlists that creators have marked as podcasts &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230406/p23#a230406p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
