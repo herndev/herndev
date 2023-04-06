@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
- - ⏩ [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
+ - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - ⏩ [Oiu](http://9gag.com/gag/aEqVMWO)
+ - 👉 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)<!-- MEMES:END -->
 
 ---
 
