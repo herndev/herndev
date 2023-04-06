@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say Twitter&#39;s open sourced For You code still misses context that fully explains its recommendation system, despite a supposed push for transparency &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/230405/p38#a230405p38)
- - [Decentraland says 26K attended its virtual fashion week in March 2023, vs. 108K in 2022, a 76% drop, despite brands like Tommy Hilfiger and Adidas sponsoring &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230405/p37#a230405p37)
- - [The ‘world’s strongest water gun’ is back and wetter than ever](https://www.theverge.com/2023/4/5/23672037/syprathree-spyra-water-guns-powerful)<!-- TECH:END -->
+ - [Samsung announces a multi-year extension with AMD on their IP licensing agreement to bring multiple generations of AMD Radeon graphics to more Exynos SoCs &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/230405/p40#a230405p40)
+ - [Sources: Bengaluru-based Dunzo, a Google-backed quick commerce startup, raised $75M in convertible notes, lays off 30% of staff, and will cut 50% of dark stores &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/230405/p39#a230405p39)
+ - [Researchers say Twitter&#39;s open sourced For You code still misses context that fully explains its recommendation system, despite a supposed push for transparency &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/230405/p38#a230405p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
