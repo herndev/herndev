@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung &amp; Google struggle to match iPhone 14 value for used handsets](https://appleinsider.com/articles/23/04/06/samsung-google-struggle-to-match-iphone-14-value-for-used-handsets?utm_medium=rss)
- - [Before You Buy: What You Need to Know About Over-the-Counter Hearing Aids     - CNET](https://www.cnet.com/health/medical/before-you-buy-what-you-need-to-know-about-over-the-counter-hearing-aids/#ftag=CAD590a51e)
- - [Sources say some Tesla staff privately shared sensitive videos recorded by customers&#39; car cameras between 2019 and 2022, including a child being hit by a car &lpar;Reuters&rpar;](http://www.techmeme.com/230406/p18#a230406p18)<!-- TECH:END -->
+ - [Meta adds 14 free games you can play over video calls inside Messenger](https://www.theverge.com/2023/4/6/23672441/meta-facebook-games-messenger-video-calls)
+ - [T-Mobile will provide free MLB.TV to customers through 2028](https://www.theverge.com/2023/4/6/23672572/t-mobile-mlb-tv-free-2028)
+ - [Sony files patent for a controller that can change temperature and deform](https://www.androidauthority.com/sony-controller-patent-3310270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
