@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Would Dungeons &amp; Dragons: Honor Among Thieves actually make a good D&amp;D game?](https://www.polygon.com/23671737/honor-among-thieves-dungeons-and-dragons-play-module)
- - [Actual Italians Tell Us What They Think About Super Mario](https://kotaku.com/the-super-mario-bros-movie-little-italy-nintendo-1850305248)
- - [How to get the Signet Ring in Dredge and what it does](https://www.pcgamer.com/dredge-signet-ring)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie Has Original Voice Actor Pass Torch To Chris Pratt](https://kotaku.com/super-mario-bros-chris-pratt-charles-martinet-cameo-1850307200)
+ - [Keychron’s mice and keyboards are up to 35% off right now](https://www.polygon.com/deals/2023/4/6/23671455/keychron-mechanical-keyboards-mice-accessories-deal-sale)
+ - [Star Wars Jedi: Survivor&#39;s system reqs are out, and I guess I&#39;m buying a new hard drive](https://www.pcgamer.com/star-wars-jedi-survivors-system-reqs-are-out-and-i-guess-im-buying-a-new-hard-drive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
