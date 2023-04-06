@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodacom, MTN, Telkom, and other South African mobile networks scramble to stay online as the power grid crumbles, spending millions on alternative power sources &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/230406/p11#a230406p11)
- - [If your iPhone calls emergency services, don&#39;t hang up if you&#39;re fine says Apple](https://appleinsider.com/articles/23/04/06/if-your-iphone-calls-emergency-services-dont-hang-up-if-youre-fine-says-apple?utm_medium=rss)
- - [Google could pull an Apple, let you take phone calls on your Android tablet](https://www.androidauthority.com/google-call-streaming-android-14-3310013/)<!-- TECH:END -->
+ - [Utah&#39;s bills restricting kids&#39; social media use have galling civil-liberties concerns and hazy enforcement plans, and will likely face constitutional challenges &lpar;Jay Caspian Kang/New Yorker&rpar;](http://www.techmeme.com/230406/p15#a230406p15)
+ - [A Mastodon user since 2018 details issues with the service despite decentralization&#39;s promise, including little diversity, tone policing, and a weird atmosphere &lpar;Andy Bell&rpar;](http://www.techmeme.com/230406/p14#a230406p14)
+ - [Sundar Pichai says that Chat AI is coming to Google Search soon](https://appleinsider.com/articles/23/04/06/sundar-pichai-says-that-chat-ai-is-coming-to-google-search-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
