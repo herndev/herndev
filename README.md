@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How couple up?](http://9gag.com/gag/az2PP3Z)
- - ⏩ [Taylor](http://9gag.com/gag/armAybd)
- - 👉 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)<!-- MEMES:END -->
+ - 💣 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - ⏩ [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - 👉 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)<!-- MEMES:END -->
 
 ---
 
