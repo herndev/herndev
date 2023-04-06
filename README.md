@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #656: Thursday, April 6](https://www.pcgamer.com/wordle-hint-answer-today-656-april-6)
  - [Bethesda added a &#39;newvegas2&#39; branch to Fallout 4, fueling rumors of a New Vegas follow-up](https://www.pcgamer.com/bethesda-added-a-newvegas2-branch-to-fallout-4-fueling-rumors-of-a-new-vegas-follow-up)
- - [What You Should Know About The Super Mario Bros. Movie&#39;s End Credits Scenes](https://kotaku.com/super-mario-movie-end-credits-post-scene-yoshi-how-many-1850304951)
- - [Please, MTV, Do Not Honor The Last Of Us&#39; Gross Zombie Kiss](https://kotaku.com/the-last-of-us-mtv-movie-awards-best-kiss-get-fucked-1850305766)<!-- GAME:END -->
+ - [What You Should Know About The Super Mario Bros. Movie&#39;s End Credits Scenes](https://kotaku.com/super-mario-movie-end-credits-post-scene-yoshi-how-many-1850304951)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
