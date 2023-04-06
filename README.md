@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
- - [If you&#39;re a Tesla owner, employees might be sharing your camera recordings](https://appleinsider.com/articles/23/04/06/if-youre-a-tesla-owner-employees-might-be-sharing-your-camera-recordings?utm_medium=rss)
- - [14 Best Deals: Fitness Gear, Ebikes, and Mechanical Keyboards](https://www.wired.com/story/midweek-deals-april-6-2023/)<!-- TECH:END -->
+ - [Android’s ‘Find My Device’ could soon work even if your phone is off](https://www.androidauthority.com/find-my-device-powered-off-3310421/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Twitter’s API shutdown and botpocalypse begins](https://www.theverge.com/2023/4/6/23673067/twitter-api-shutdown-bots-botpocalypse-begins)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
