@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [God Of War: Ragnarök Finally Gets New Game+ Mode With Nice New Features](https://kotaku.com/god-of-war-ragnarok-new-game-plus-ps5-zeus-armor-ares-1850308557)
- - [EA unveils FIFA&#39;s new look and warns of marketing blitz for the ages](https://www.pcgamer.com/ea-unveils-fifas-new-look-and-warns-of-marketing-blitz-for-the-ages)<!-- GAME:END -->
+ - [The Five Nights at Freddy’s movie will actually come out this fall](https://www.polygon.com/23672992/five-nights-freddys-movie-release-date-scott-cawthon)
+ - [These Resident Evil 4 Remake Fans Let Leon Get Hurt So He Moans](https://kotaku.com/tiktok-resident-evil-4-remake-leon-kennedy-re4-survivor-1850309027)
+ - [Chris Pratt’s baffling Mario movie voice deserves a line-by-line analysis](https://www.polygon.com/23671957/mario-movie-chris-pratt-voice-italian-accent)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
