@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie Has Original Voice Actor Pass Torch To Chris Pratt](https://kotaku.com/super-mario-bros-chris-pratt-charles-martinet-cameo-1850307200)
- - [Keychron’s mice and keyboards are up to 35% off right now](https://www.polygon.com/deals/2023/4/6/23671455/keychron-mechanical-keyboards-mice-accessories-deal-sale)
- - [Star Wars Jedi: Survivor&#39;s system reqs are out, and I guess I&#39;m buying a new hard drive](https://www.pcgamer.com/star-wars-jedi-survivors-system-reqs-are-out-and-i-guess-im-buying-a-new-hard-drive)<!-- GAME:END -->
+ - [Warhammer and 40K fans unite for America’s most prestigious mini-painting competition](https://www.polygon.com/23664838/warhammer-40k-golden-demon-america-adepticon-2023)
+ - [Final Fantasy 14 is giving its second expansion away for free](https://www.pcgamer.com/final-fantasy-14-is-giving-its-second-expansion-away-for-free)
+ - [Wit Studio is what made Attack on Titan’s first season so special](https://www.polygon.com/23668388/attack-titan-wit-studio-season-anniversary-aot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
