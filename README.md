@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Five Nights at Freddy’s movie will actually come out this fall](https://www.polygon.com/23672992/five-nights-freddys-movie-release-date-scott-cawthon)
- - [These Resident Evil 4 Remake Fans Let Leon Get Hurt So He Moans](https://kotaku.com/tiktok-resident-evil-4-remake-leon-kennedy-re4-survivor-1850309027)
- - [Chris Pratt’s baffling Mario movie voice deserves a line-by-line analysis](https://www.polygon.com/23671957/mario-movie-chris-pratt-voice-italian-accent)<!-- GAME:END -->
+ - [Pour one out for Diablo 3 as Blizzard prepares its final new season](https://www.pcgamer.com/pour-one-out-for-diablo-3-as-blizzard-prepares-its-final-new-season)
+ - [Overwatch 2’s Season 4 Seems The Most Packed Yet](https://kotaku.com/overwatch-2-season-4-patch-notes-lifeweaver-brigitte-1850309513)
+ - [Resident Evil 4 Chapter 16: Luis’s Laboratory to Underground Passage](https://www.polygon.com/resident-evil-4-remake-guides/23670578/chapter-16-luis-laboratory-underground-passage-final-boss-fight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
