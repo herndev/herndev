@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola Edge 40 leak reveals four different colorways](https://www.androidauthority.com/motorola-edge-40-leak-3310413/)
  - [Android’s ‘Find My Device’ could soon work even if your phone is off](https://www.androidauthority.com/find-my-device-powered-off-3310421/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Twitter’s API shutdown and botpocalypse begins](https://www.theverge.com/2023/4/6/23673067/twitter-api-shutdown-bots-botpocalypse-begins)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
