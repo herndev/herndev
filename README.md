@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bethesda added a &#39;newvegas2&#39; branch to Fallout 4, fueling rumors of a New Vegas follow-up](https://www.pcgamer.com/bethesda-added-a-newvegas2-branch-to-fallout-4-fueling-rumors-of-a-new-vegas-follow-up)
  - [What You Should Know About The Super Mario Bros. Movie&#39;s End Credits Scenes](https://kotaku.com/super-mario-movie-end-credits-post-scene-yoshi-how-many-1850304951)
- - [Please, MTV, Do Not Honor The Last Of Us&#39; Gross Zombie Kiss](https://kotaku.com/the-last-of-us-mtv-movie-awards-best-kiss-get-fucked-1850305766)
- - [New Final Fantasy Remasters Restore Intro Credits, Fonts Still Bad](https://kotaku.com/final-fantasy-remaster-switch-ps4-font-music-square-fix-1850305849)<!-- GAME:END -->
+ - [Please, MTV, Do Not Honor The Last Of Us&#39; Gross Zombie Kiss](https://kotaku.com/the-last-of-us-mtv-movie-awards-best-kiss-get-fucked-1850305766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
