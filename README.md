@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
- - ⏩ [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
+ - 💣 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
+ - ⏩ [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - 👉 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 ---
 
