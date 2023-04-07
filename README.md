@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps brings Look Around to six Central Europe countries](https://appleinsider.com/articles/23/04/07/apple-maps-brings-look-around-to-six-central-europe-countries?utm_medium=rss)
- - [Samsung is bringing a few more Galaxy S23 camera features to older phones](https://www.androidauthority.com/samsung-galaxy-s23-image-clipper-older-phones-3310603/)
- - [Colorado-based True Anomaly, which develops software and &quot;autonomous orbital pursuit vehicles&quot; to collect space data, raised $30M including a $17M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230407/p1#a230407p1)<!-- TECH:END -->
+ - [Star Wars Celebration 2023: all the trailers and news](https://www.theverge.com/23672874/star-wars-celebration-2023-trailers-news)
+ - [Star Wars: Ahsoka starts streaming in August 2023](https://www.theverge.com/2023/4/7/23673907/star-wars-ahsoka-disney-plus-trailer-streaming-date-august-2023)
+ - [Jabra Elite 4 review: Average wireless earbuds at an okay price](https://appleinsider.com/articles/23/04/07/jabra-elite-4-review-average-wireless-earbuds-at-an-okay-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
