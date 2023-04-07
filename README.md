@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pay users are discovering Google accidentally gave them free money](https://www.androidauthority.com/google-pay-bug-3310780/)
- - [These Sustainable Products Make Going Green Easier Than Ever in 2023     - CNET](https://www.cnet.com/news/sustainable-product-guide/#ftag=CAD590a51e)
- - [Google plans to end support for the Dropcam and the Nest Secure home security system on April 8, 2024, as it shelves products it can&#39;t migrate to Google Home &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230407/p11#a230407p11)<!-- TECH:END -->
+ - [iOS 16.4.1: Download This Security Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-download-this-security-update-now/#ftag=CAD590a51e)
+ - [Google Offers Upgrades as it Drops Support for Dropcam and Nest Secure     - CNET](https://www.cnet.com/news/google-offers-upgrades-as-it-drops-support-for-dropcam-and-nest-secure/#ftag=CAD590a51e)
+ - [Matt Taibbi says he will use Substack Notes instead of Twitter after he was told Twitter is blocking Substack links because it is upset about Substack Notes &lpar;Matt Taibbi/Racket News&rpar;](http://www.techmeme.com/230407/p12#a230407p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
