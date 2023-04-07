@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack discloses financials as required by crowdfunding rules: 2021 gross revenue of $11.9M vs $2.3M in 2020, 2021 net loss of $22M vs $2.3M in 2020 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230407/p7#a230407p7)
- - [Man who claims to be Bitcoin creator eyes lawsuit against Apple](https://appleinsider.com/articles/23/04/07/man-who-claims-to-be-bitcoin-creator-eyes-lawsuit-against-apple?utm_medium=rss)
- - [Apple&#39;s Irish subsidiary rakes in $69.3 billion profit from global operations](https://appleinsider.com/articles/23/04/07/apples-irish-subsidiary-rakes-in-693-billion-profit-from-global-operations?utm_medium=rss)<!-- TECH:END -->
+ - [Substack founders criticize Twitter over restrictions, saying this is a reminder of why writers need a platform &quot;that protects the free press and free speech&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p8#a230407p8)
+ - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
+ - [The Dungeons &amp; Dragons Movie Is a First-Rate Comedy](https://www.wired.com/2023/04/geeks-guide-dungeons-dragons-movie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
