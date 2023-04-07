@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
- - ⏩ [Cardio at the gym](http://9gag.com/gag/aKE98L3)
- - 👉 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
+ - ⏩ [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - 👉 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
 
 ---
 
