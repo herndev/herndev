@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
  - ⏩ [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
- - 👉 [Cardio at the gym](http://9gag.com/gag/aKE98L3)<!-- MEMES:END -->
+ - 👉 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
 
 ---
 
