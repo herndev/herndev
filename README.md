@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
- - ⏩ [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
- - 👉 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
+ - 💣 [What are the odds she&#39;s the one cheating ?](http://9gag.com/gag/aBdLE81)
+ - ⏩ [This is what humanity should be](http://9gag.com/gag/az2POop)
+ - 👉 [I see nothing wrong here](http://9gag.com/gag/a04VE6z)<!-- MEMES:END -->
 
 ---
 
