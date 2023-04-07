@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s next balance patch will make some supports scarier](https://www.polygon.com/23674177/overwatch-2-season-4-balance-update-patch-notes)
- - [One of The Super Mario Bros. Movie’s best parts is already available to stream](https://www.polygon.com/23674096/the-super-mario-bros-movie-album-soundtrack-orchestra-music-free)
- - [Share of the Week: Resident Evil 4](https://blog.playstation.com/2023/04/07/share-of-the-week-resident-evil-4/)<!-- GAME:END -->
+ - [Microsoft Store Spring Sale Starts April 7 – Check Out All the Great Deals](https://news.xbox.com/en-us/2023/04/07/microsoft-store-spring-2023-sale/)
+ - [The 6 Biggest Announcements From Star Wars Celebration &lpar;So Far!&rpar;](https://kotaku.com/star-wars-celebration-ashoka-trailer-rey-new-jedi-order-1850313084)
+ - [Resident Evil 4 Remake Adds Free, Fan-Favorite DLC, Paid Weapon Upgrades](https://kotaku.com/resident-evil-4-remake-mercenaries-dlc-upgrades-re4-1850313027)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
