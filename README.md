@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
- - ⏩ [Getting old is sucks](http://9gag.com/gag/aBdLPP2)
- - 👉 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)<!-- MEMES:END -->
+ - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - ⏩ [Ah shit here we go again](http://9gag.com/gag/a8qm68O)
+ - 👉 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
 
 ---
 
