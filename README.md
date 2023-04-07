@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.4.1: Download This Security Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-download-this-security-update-now/#ftag=CAD590a51e)
- - [Google Offers Upgrades as it Drops Support for Dropcam and Nest Secure     - CNET](https://www.cnet.com/news/google-offers-upgrades-as-it-drops-support-for-dropcam-and-nest-secure/#ftag=CAD590a51e)
- - [Matt Taibbi says he will use Substack Notes instead of Twitter after he was told Twitter is blocking Substack links because it is upset about Substack Notes &lpar;Matt Taibbi/Racket News&rpar;](http://www.techmeme.com/230407/p12#a230407p12)<!-- TECH:END -->
+ - [Rivian’s new ‘Performance’ powertrain lets R1T reservation holders keep their big battery](https://www.theverge.com/2023/4/7/23673961/rivian-performance-dual-motor-availability-max-pack-battery)
+ - [One of Elon’s handpicked ‘Twitter Files’ writers quits Twitter over its Substack restrictions](https://www.theverge.com/2023/4/7/23674705/twitter-files-elon-musk-substack-matt-taibbi)
+ - [Twitter seemingly removed a journalist&#39;s tweet about India&#39;s Home Minister globally, not just in the country, an apparent first, in response to a &quot;legal demand&quot; &lpar;The Hindu&rpar;](http://www.techmeme.com/230407/p13#a230407p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
