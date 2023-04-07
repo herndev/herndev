@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock maker didn&#39;t thought about that?](http://9gag.com/gag/ajVOZxg)
- - ⏩ [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - 👉 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)<!-- MEMES:END -->
+ - 💣 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - ⏩ [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)
+ - 👉 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 ---
 
