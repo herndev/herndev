@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Traitor](http://9gag.com/gag/a1PDEwG)
- - ⏩ [Alexa, Holup.](http://9gag.com/gag/a04VVez)
- - 👉 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
+ - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - ⏩ [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - 👉 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
 
 ---
 
