@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - ⏩ [Ah shit here we go again](http://9gag.com/gag/a8qm68O)
- - 👉 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
+ - 💣 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - ⏩ [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
+ - 👉 [Cardio at the gym](http://9gag.com/gag/aKE98L3)<!-- MEMES:END -->
 
 ---
 
