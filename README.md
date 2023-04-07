@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save on a portable power station during the BLUETTI Easter Sale](https://appleinsider.com/articles/23/04/07/save-on-a-portable-power-station-during-the-bluetti-easter-sale?utm_medium=rss)
- - [TP-Link releases Kasa Smart Plug with Matter &amp; energy monitoring](https://appleinsider.com/articles/23/04/07/tp-link-releases-kasa-smart-plug-with-matter-energy-monitoring?utm_medium=rss)
- - [&#39;My Kind of Country&#39; winner announced by Apple TV+](https://appleinsider.com/articles/23/04/07/my-kind-of-country-winner-announced-by-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [MSI confirms in a filing that it was breached, without giving many details, after a ransomware gang claims to have breached MSI and stolen its source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230407/p5#a230407p5)
+ - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
+ - [Doctor Who Hidden Object Game Now on Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/doctor-who-hidden-object-game-now-on-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
