@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - ⏩ [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)
- - 👉 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
+ - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
+ - ⏩ [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
+ - 👉 [Give this strong independent woman her rights](http://9gag.com/gag/a7qeNAr)<!-- MEMES:END -->
 
 ---
 
