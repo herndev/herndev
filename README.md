@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Store Spring Sale Starts April 7 – Check Out All the Great Deals](https://news.xbox.com/en-us/2023/04/07/microsoft-store-spring-2023-sale/)
- - [The 6 Biggest Announcements From Star Wars Celebration &lpar;So Far!&rpar;](https://kotaku.com/star-wars-celebration-ashoka-trailer-rey-new-jedi-order-1850313084)
- - [Resident Evil 4 Remake Adds Free, Fan-Favorite DLC, Paid Weapon Upgrades](https://kotaku.com/resident-evil-4-remake-mercenaries-dlc-upgrades-re4-1850313027)<!-- GAME:END -->
+ - [Mario Kart Players Land Groundbreaking Trick After 27 Years](https://kotaku.com/mario-kart-64-bowsers-castle-speedrun-skip-world-record-1850313563)
+ - [8 Things From The Ahsoka Trailer That Got Us Hyped TF Up](https://kotaku.com/star-wars-ahsoka-trailer-series-who-is-admiral-thrawn-1850313162)
+ - [Jack Black Continues Super Mario Bros. Movie Dominance By Owning Cast At Mario Kart](https://kotaku.com/super-mario-bros-movie-jack-black-mario-kart-switch-1850313367)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
