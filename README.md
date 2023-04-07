@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see nothing wrong here](http://9gag.com/gag/a04VE6z)
- - ⏩ [I totally missed the joke the first time](http://9gag.com/gag/adPO2Zj)
- - 👉 [Audience becomes Chester\u2019s voice](http://9gag.com/gag/awZmO2W)<!-- MEMES:END -->
+ - 💣 [Traitor](http://9gag.com/gag/a1PDEwG)
+ - ⏩ [Alexa, Holup.](http://9gag.com/gag/a04VVez)
+ - 👉 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
 
 ---
 
