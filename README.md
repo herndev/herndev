@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [278176](http://9gag.com/gag/aREZvOy)
- - ⏩ [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 👉 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)<!-- MEMES:END -->
+ - 💣 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - ⏩ [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
+ - 👉 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)<!-- MEMES:END -->
 
 ---
 
