@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Buy is offering an art print with Zelda: Tears of the Kingdom pre-orders](https://www.polygon.com/deals/23667957/best-buy-zelda-tears-of-the-kingdom-pre-order-art-print)
- - [Mario + Rabbids Sparks of Hope is just $24.99 today only](https://www.polygon.com/deals/2023/4/7/23673959/mario-rabbids-sparks-of-hope-nintendo-switch-best-buy-deal)
- - [Togepi and Snorlax Pokémon Squishmallows are available, but tough to find](https://www.polygon.com/23648410/togepi-snorlax-squishmallow-release-date-target-walmart-amazon)<!-- GAME:END -->
+ - [Daisy Ridley Returns As Rey In Star Wars Movie Where She Rebuilds Jedi Order](https://kotaku.com/star-wars-celebration-daisy-ridley-jedi-order-sequel-1850311858)
+ - [Resident Evil 4 Remake gets microtransaction DLC that lets you pay to upgrade your guns](https://www.pcgamer.com/resident-evil-4-remake-gets-microtransaction-dlc-that-lets-you-pay-to-upgrade-your-guns)
+ - [Next Week on Xbox: New Games for April 10 to 14](https://news.xbox.com/en-us/2023/04/07/next-week-on-xbox-new-games-for-april-10-to-14/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
