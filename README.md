@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack founders criticize Twitter over restrictions, saying this is a reminder of why writers need a platform &quot;that protects the free press and free speech&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p8#a230407p8)
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [The Dungeons &amp; Dragons Movie Is a First-Rate Comedy](https://www.wired.com/2023/04/geeks-guide-dungeons-dragons-movie/)<!-- TECH:END -->
+ - [Anthropic&#39;s Series C pitch deck shows the AI startup aims to raise ~$5B over the next two years to take on OpenAI and enter over a dozen major industries &lpar;TechCrunch&rpar;](http://www.techmeme.com/230407/p10#a230407p10)
+ - [How one Twitter account disappeared for a week — and why nobody knew how to fix it](https://www.theverge.com/2023/4/7/23674332/twitter-locked-account-age-screening-sbnation)
+ - [Someone keeps accusing fanfiction authors of writing their fic with AI, and nobody knows why](https://www.theverge.com/2023/4/7/23674123/ao3-fanfic-spam-comments-ai-writing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
