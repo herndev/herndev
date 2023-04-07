@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI confirms in a filing that it was breached, without giving many details, after a ransomware gang claims to have breached MSI and stolen its source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230407/p5#a230407p5)
- - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
- - [Doctor Who Hidden Object Game Now on Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/doctor-who-hidden-object-game-now-on-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Substack discloses financials as required by crowdfunding rules: 2021 gross revenue of $11.9M vs $2.3M in 2020, 2021 net loss of $22M vs $2.3M in 2020 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230407/p7#a230407p7)
+ - [Man who claims to be Bitcoin creator eyes lawsuit against Apple](https://appleinsider.com/articles/23/04/07/man-who-claims-to-be-bitcoin-creator-eyes-lawsuit-against-apple?utm_medium=rss)
+ - [Apple&#39;s Irish subsidiary rakes in $69.3 billion profit from global operations](https://appleinsider.com/articles/23/04/07/apples-irish-subsidiary-rakes-in-693-billion-profit-from-global-operations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
