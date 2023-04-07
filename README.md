@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Ahsoka trailer teases Star Wars’ live-action Thrawn](https://www.polygon.com/star-wars/23063750/ahsoka-trailer-release-date-thrawn-hera-syndulla-star-wars-celebration)
- - [Star Wars Celebration 2023: All the news, trailers, and reveals](https://www.polygon.com/star-wars/23672599/star-wars-celebration-2023-panels-news-trailers-swce)
- - [Star Wars: The Acolyte promises wuxia action and a Wookiee Jedi master in 2024](https://www.polygon.com/23673271/star-wars-acolyte-series-high-republic-disney-plus)<!-- GAME:END -->
+ - [F.E.A.R. inspired shooter Trepang2 blasts onto Steam this June](https://www.pcgamer.com/fear-inspired-shooter-trepang2-blasts-onto-steam-this-june)
+ - [Directors for 3 very different Star Wars movies announced](https://www.polygon.com/23673145/star-wars-new-movies-directors-announcement-celebration)
+ - [Daisy Ridley to return as Rey in new Star Wars movie](https://www.polygon.com/star-wars/23673918/star-wars-rey-daisy-ridley-new-jedi-order-star-wars-celebration)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
