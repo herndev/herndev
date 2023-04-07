@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack writers are getting a pop-up saying Twitter &quot;unexpectedly restricted access to embedding tweets&quot;, a day after Substack unveiled its Twitter-like Notes &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230406/p24#a230406p24)
- - [Apple’s first retail store in India is opening soon](https://www.theverge.com/2023/4/6/23673372/apple-india-retail-store-mumbai-bkc)
- - [16 Awesome Mother&#39;s Day Gifts for Expectant Mamas     - CNET](https://www.cnet.com/news/best-mothers-day-gifts-for-moms-to-be/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Bluetooth Boom Boxes for 2023: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
+ - [Google is rolling out WebGPU tech for next-gen gaming in your browser](https://www.theverge.com/2023/4/6/23673462/google-webgpu-chrome-113-api-machine-learning)
+ - [Apple Watch Straps Could Soon Track Your Hand Gestures, Patent Suggests     - CNET](https://www.cnet.com/tech/mobile/apple-watch-straps-could-soon-track-your-hand-gestures-patent-suggests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
