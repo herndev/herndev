@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us PC port will no longer spontaneously soak its characters](https://www.polygon.com/23674574/the-last-of-us-pc-port-dry-now-thanks)
- - [Star Wars Jedi: Survivor’s install size is like Order 66 to your SSD](https://www.polygon.com/23674447/star-wars-jedi-survivor-install-size-pc-hardware-requirements)
- - [In this &#39;inverse city builder&#39; the island you&#39;re building on is slowly shrinking](https://www.pcgamer.com/in-this-inverse-city-builder-the-island-youre-building-on-is-slowly-shrinking)<!-- GAME:END -->
+ - [The hottest gaming trend is spooky inventory management](https://www.polygon.com/gaming/23674674/resident-evil-4-dredge-spooky-inventory-management)
+ - [15+ Games We Simply Must Install On Every New PC](https://kotaku.com/best-games-for-pc-steam-new-download-valve-free-1850313999)
+ - [Florida Gov. Ron DeSantis Still Mad Disney Beat Him, Warns War Is Coming](https://kotaku.com/disney-world-florida-governor-ron-desantis-reedy-creek-1850314031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
