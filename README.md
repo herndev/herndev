@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Free VPN Amnezia Helps Users Avoid Censorship in Russia](https://www.wired.com/story/amnezia-vpn-russia-censorship/)
- - [Galaxy Z Flip 5, Galaxy Z Fold 5 camera specs leak: What should you expect?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-z-fold-5-camera-specs-3310578/)<!-- TECH:END -->
+ - [IEM vs earbuds: What’s the difference?](https://www.androidauthority.com/iem-vs-headphones-3292547/)
+ - [Vivo X Flip real-world image appears online &lpar;Updated: Plenty of specs&rpar;](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
