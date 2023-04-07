@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the odds she&#39;s the one cheating ?](http://9gag.com/gag/aBdLE81)
- - ⏩ [This is what humanity should be](http://9gag.com/gag/az2POop)
- - 👉 [I see nothing wrong here](http://9gag.com/gag/a04VE6z)<!-- MEMES:END -->
+ - 💣 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - ⏩ [Cardio at the gym](http://9gag.com/gag/aKE98L3)
+ - 👉 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)<!-- MEMES:END -->
 
 ---
 
