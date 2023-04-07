@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Super Mario Bros. Movie’s post-credits sequence includes a strong sequel hint](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
  - [Growing my village is a chill challenge in this beautiful new strategy city builder](https://www.pcgamer.com/growing-my-village-is-a-chill-challenge-in-this-beautiful-new-strategy-city-builder)
- - [Chess Champ&#39;s Mouse Slip Costs Him Final Match And $30K Top Prize](https://kotaku.com/world-chess-champion-anal-magnus-carlsen-misclick-slip-1850310299)
- - [5,700-word Wild Hearts patch notes promise better performance for &#39;some CPUs&#39; and other PC improvements](https://www.pcgamer.com/wild-hearts-murakumo-update-patch)<!-- GAME:END -->
+ - [Chess Champ&#39;s Mouse Slip Costs Him Final Match And $30K Top Prize](https://kotaku.com/world-chess-champion-anal-magnus-carlsen-misclick-slip-1850310299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
