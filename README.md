@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - ⏩ [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 👉 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
+ - ⏩ [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - 👉 [Traitor](http://9gag.com/gag/a1PDEwG)<!-- MEMES:END -->
 
 ---
 
