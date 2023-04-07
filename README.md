@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - ⏩ [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - 👉 [Traitor](http://9gag.com/gag/a1PDEwG)<!-- MEMES:END -->
+ - 💣 [Traitor](http://9gag.com/gag/a1PDEwG)
+ - ⏩ [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - 👉 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 ---
 
