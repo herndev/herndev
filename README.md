@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daisy Ridley Returns As Rey In Star Wars Movie Where She Rebuilds Jedi Order](https://kotaku.com/star-wars-celebration-daisy-ridley-jedi-order-sequel-1850311858)
- - [Resident Evil 4 Remake gets microtransaction DLC that lets you pay to upgrade your guns](https://www.pcgamer.com/resident-evil-4-remake-gets-microtransaction-dlc-that-lets-you-pay-to-upgrade-your-guns)
- - [Next Week on Xbox: New Games for April 10 to 14](https://news.xbox.com/en-us/2023/04/07/next-week-on-xbox-new-games-for-april-10-to-14/)<!-- GAME:END -->
+ - [How to Blow Up a Pipeline is the perfect blend of radical politics and heist-movie thrills](https://www.polygon.com/reviews/23672727/how-to-blow-up-a-pipeline-movie-review)
+ - [Parkour Zombie RPG Dying Light Is Free On PC This Month](https://kotaku.com/dying-light-free-pc-rpg-epic-games-store-april-1850312468)
+ - [Sons of the Forest&#39;s latest patch adds a powered unicycle and craftable electrics](https://www.pcgamer.com/sons-of-the-forests-latest-patch-adds-a-powered-unicycle-and-craftable-electrics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
