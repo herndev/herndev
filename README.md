@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - ⏩ [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
- - 👉 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)<!-- MEMES:END -->
+ - 💣 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
+ - ⏩ [Getting old is sucks](http://9gag.com/gag/aBdLPP2)
+ - 👉 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)<!-- MEMES:END -->
 
 ---
 
