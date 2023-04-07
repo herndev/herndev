@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart Players Land Groundbreaking Trick After 27 Years](https://kotaku.com/mario-kart-64-bowsers-castle-speedrun-skip-world-record-1850313563)
- - [8 Things From The Ahsoka Trailer That Got Us Hyped TF Up](https://kotaku.com/star-wars-ahsoka-trailer-series-who-is-admiral-thrawn-1850313162)
- - [Jack Black Continues Super Mario Bros. Movie Dominance By Owning Cast At Mario Kart](https://kotaku.com/super-mario-bros-movie-jack-black-mario-kart-switch-1850313367)<!-- GAME:END -->
+ - [The Last of Us PC port will no longer spontaneously soak its characters](https://www.polygon.com/23674574/the-last-of-us-pc-port-dry-now-thanks)
+ - [Star Wars Jedi: Survivor’s install size is like Order 66 to your SSD](https://www.polygon.com/23674447/star-wars-jedi-survivor-install-size-pc-hardware-requirements)
+ - [In this &#39;inverse city builder&#39; the island you&#39;re building on is slowly shrinking](https://www.pcgamer.com/in-this-inverse-city-builder-the-island-youre-building-on-is-slowly-shrinking)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
