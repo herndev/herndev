@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [F.E.A.R. inspired shooter Trepang2 blasts onto Steam this June](https://www.pcgamer.com/fear-inspired-shooter-trepang2-blasts-onto-steam-this-june)
- - [Directors for 3 very different Star Wars movies announced](https://www.polygon.com/23673145/star-wars-new-movies-directors-announcement-celebration)
- - [Daisy Ridley to return as Rey in new Star Wars movie](https://www.polygon.com/star-wars/23673918/star-wars-rey-daisy-ridley-new-jedi-order-star-wars-celebration)<!-- GAME:END -->
+ - [Best Buy is offering an art print with Zelda: Tears of the Kingdom pre-orders](https://www.polygon.com/deals/23667957/best-buy-zelda-tears-of-the-kingdom-pre-order-art-print)
+ - [Mario + Rabbids Sparks of Hope is just $24.99 today only](https://www.polygon.com/deals/2023/4/7/23673959/mario-rabbids-sparks-of-hope-nintendo-switch-best-buy-deal)
+ - [Togepi and Snorlax Pokémon Squishmallows are available, but tough to find](https://www.polygon.com/23648410/togepi-snorlax-squishmallow-release-date-target-walmart-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
