@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 Remake&#39;s Mercenaries mode is available to play now](https://www.pcgamer.com/resident-evil-4-remakes-mercenaries-mode-is-available-to-play-now)
- - [Wordle hint and answer #657: Friday, April 7](https://www.pcgamer.com/wordle-hint-answer-today-657-april-7)
- - [The Mercenaries for Resident Evil 4 is available today](https://blog.playstation.com/2023/04/06/the-mercenaries-for-resident-evil-4-is-available-today/)<!-- GAME:END -->
+ - [First Ahsoka trailer teases Star Wars’ live-action Thrawn](https://www.polygon.com/star-wars/23063750/ahsoka-trailer-release-date-thrawn-hera-syndulla-star-wars-celebration)
+ - [Star Wars Celebration 2023: All the news, trailers, and reveals](https://www.polygon.com/star-wars/23672599/star-wars-celebration-2023-panels-news-trailers-swce)
+ - [Star Wars: The Acolyte promises wuxia action and a Wookiee Jedi master in 2024](https://www.polygon.com/23673271/star-wars-acolyte-series-high-republic-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
