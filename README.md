@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #657: Friday, April 7](https://www.pcgamer.com/wordle-hint-answer-today-657-april-7)
  - [The Mercenaries for Resident Evil 4 is available today](https://blog.playstation.com/2023/04/06/the-mercenaries-for-resident-evil-4-is-available-today/)
- - [The Super Mario Bros. Movie’s post-credits sequence includes a strong sequel hint](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
- - [Growing my village is a chill challenge in this beautiful new strategy city builder](https://www.pcgamer.com/growing-my-village-is-a-chill-challenge-in-this-beautiful-new-strategy-city-builder)<!-- GAME:END -->
+ - [The Mercenaries for Resident Evil 4 is available today](https://blog.playstation.com/2023/04/06/the-mercenaries-for-resident-evil-4-is-available-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
