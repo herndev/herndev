@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
- - ⏩ [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)
- - 👉 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
+ - 💣 [I see nothing wrong here](http://9gag.com/gag/a04VE6z)
+ - ⏩ [I totally missed the joke the first time](http://9gag.com/gag/adPO2Zj)
+ - 👉 [Audience becomes Chester\u2019s voice](http://9gag.com/gag/awZmO2W)<!-- MEMES:END -->
 
 ---
 
