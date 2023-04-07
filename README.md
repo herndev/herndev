@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Celebration 2023: all the trailers and news](https://www.theverge.com/23672874/star-wars-celebration-2023-trailers-news)
- - [Star Wars: Ahsoka starts streaming in August 2023](https://www.theverge.com/2023/4/7/23673907/star-wars-ahsoka-disney-plus-trailer-streaming-date-august-2023)
- - [Jabra Elite 4 review: Average wireless earbuds at an okay price](https://appleinsider.com/articles/23/04/07/jabra-elite-4-review-average-wireless-earbuds-at-an-okay-price?utm_medium=rss)<!-- TECH:END -->
+ - [Best 5G Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones-to-buy-in-2022/#ftag=CAD590a51e)
+ - [Amazon bans the sale of Flipper Zero, a $169 portable security penetration testing tool for wireless devices, after tagging it as a card-skimming device &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230407/p3#a230407p3)
+ - [BLUETTI’s Easter sale brings you portable power at significant discounts](https://www.androidauthority.com/bluettis-easter-sale-brings-you-portable-power-at-significant-discounts-3310503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
