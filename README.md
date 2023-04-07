@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 5, Galaxy Z Fold 5 camera specs leak: What should you expect?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-z-fold-5-camera-specs-3310578/)
- - [Bad Apple Maps data leads to droves looking for lost Apple products at same Texas address](https://appleinsider.com/articles/23/04/07/bad-apple-maps-data-leads-to-droves-looking-for-lost-apple-products-at-same-texas-address?utm_medium=rss)
- - [Bitdefender survey of 400+ IT/security professionals: 42% were told to cover up data breaches that should have been reported, 29.9% admit covering up breaches &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230406/p26#a230406p26)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Free VPN Amnezia Helps Users Avoid Censorship in Russia](https://www.wired.com/story/amnezia-vpn-russia-censorship/)
+ - [Galaxy Z Flip 5, Galaxy Z Fold 5 camera specs leak: What should you expect?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-z-fold-5-camera-specs-3310578/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
