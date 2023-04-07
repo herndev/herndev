@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to cut memory chip production to a &quot;meaningful level&quot; after estimating that its Q1 operating profit fell 95%+ YoY to ~$450M, its worst since 2009 &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230406/p25#a230406p25)
- - [Best Wireless Bluetooth Boom Boxes for 2023: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
- - [Google is rolling out WebGPU tech for next-gen gaming in your browser](https://www.theverge.com/2023/4/6/23673462/google-webgpu-chrome-113-api-machine-learning)<!-- TECH:END -->
+ - [Bad Apple Maps data leads to droves looking for lost Apple products at same Texas address](https://appleinsider.com/articles/23/04/07/bad-apple-maps-data-leads-to-droves-looking-for-lost-apple-products-at-same-texas-address?utm_medium=rss)
+ - [Bitdefender survey of 400+ IT/security professionals: 42% were told to cover up data breaches that should have been reported, 29.9% admit covering up breaches &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230406/p26#a230406p26)
+ - [Samsung plans to cut memory chip production to a &quot;meaningful level&quot; after estimating that its Q1 operating profit fell 95%+ YoY to ~$450M, its worst since 2009 &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230406/p25#a230406p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
