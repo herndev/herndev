@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Blow Up a Pipeline is the perfect blend of radical politics and heist-movie thrills](https://www.polygon.com/reviews/23672727/how-to-blow-up-a-pipeline-movie-review)
- - [Parkour Zombie RPG Dying Light Is Free On PC This Month](https://kotaku.com/dying-light-free-pc-rpg-epic-games-store-april-1850312468)
- - [Sons of the Forest&#39;s latest patch adds a powered unicycle and craftable electrics](https://www.pcgamer.com/sons-of-the-forests-latest-patch-adds-a-powered-unicycle-and-craftable-electrics)<!-- GAME:END -->
+ - [Overwatch 2’s next balance patch will make some supports scarier](https://www.polygon.com/23674177/overwatch-2-season-4-balance-update-patch-notes)
+ - [One of The Super Mario Bros. Movie’s best parts is already available to stream](https://www.polygon.com/23674096/the-super-mario-bros-movie-album-soundtrack-orchestra-music-free)
+ - [Share of the Week: Resident Evil 4](https://blog.playstation.com/2023/04/07/share-of-the-week-resident-evil-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
