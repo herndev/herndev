@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google offers Dropcam and Nest Secure owners an upgrade as support ends soon](https://www.androidauthority.com/google-dropcam-nest-secure-end-of-life-3310957/)
- - [This year, Samsung could finally give us a foldable device that’s not a phone.](https://www.androidauthority.com/samsung-foldable-tablet-z-tab-3310947/)
- - [Check out all the Pixel 7a color options in this latest leak](https://www.androidauthority.com/google-pixel-7a-colors-3310949/)<!-- TECH:END -->
+ - [Apple&#39;s Mac shipments fell 40.5% YoY globally in Q1 2023, the largest drop among PC makers, as combined PC shipments fell 29% YoY to 56.9M units &lpar;IDC&rpar;](http://www.techmeme.com/230410/p3#a230410p3)
+ - [Shanghai-based SenseTime announces AI model SenseNova and chatbot SenseChat, available in Chinese and English, following Baidu&#39;s Ernie Bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p2#a230410p2)
+ - [Google offers Dropcam and Nest Secure owners an upgrade as support ends soon](https://www.androidauthority.com/google-dropcam-nest-secure-end-of-life-3310957/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
