@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - ⏩ [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 💣 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
+ - ⏩ [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 👉 [NPC](http://9gag.com/gag/aPgPL2g)<!-- MEMES:END -->
 
 ---
 
