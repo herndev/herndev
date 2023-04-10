@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 will get new OLED screen, iPhone 15 to reuse iPhone 14 display tech](https://appleinsider.com/articles/23/04/10/iphone-16-will-get-new-oled-screen-iphone-15-to-reuse-iphone-14-display-tech?utm_medium=rss)
- - [OnePlus Pad is up for preorder, wants you to pay $100 without knowing the price](https://www.androidauthority.com/oneplus-pad-preorder-3311032/)
- - [Paramount Plus Celebrates Its New Series &#39;Rabbit Hole&#39; With a 1-Month Free Trial     - CNET](https://www.cnet.com/deals/paramount-plus-celebrates-its-new-series-rabbit-hole-with-a-1-month-free-trial/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s long-rumored 27-inch mini LED display probably isn&#39;t happening](https://appleinsider.com/articles/23/04/10/apples-long-rumored-27-inch-mini-led-display-probably-isnt-happening?utm_medium=rss)
+ - [Some Twitter users report that their Circle tweets, intended for a smaller group of people, are showing up in others&#39; For You feeds &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230410/p11#a230410p11)
+ - [YouTube Premium adds SharePlay support, increases video quality for iOS](https://appleinsider.com/articles/23/04/10/youtube-premium-adds-shareplay-support-increases-video-quality-for-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
