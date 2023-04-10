@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Mac shipments fell 40.5% YoY globally in Q1 2023, the largest drop among PC makers, as combined PC shipments fell 29% YoY to 56.9M units &lpar;IDC&rpar;](http://www.techmeme.com/230410/p3#a230410p3)
- - [Shanghai-based SenseTime announces AI model SenseNova and chatbot SenseChat, available in Chinese and English, following Baidu&#39;s Ernie Bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p2#a230410p2)
- - [Google offers Dropcam and Nest Secure owners an upgrade as support ends soon](https://www.androidauthority.com/google-dropcam-nest-secure-end-of-life-3310957/)<!-- TECH:END -->
+ - [Apple expands in India with new 10-year office lease in Bengaluru, India](https://appleinsider.com/articles/23/04/10/apple-expands-in-india-with-new-10-year-office-lease-in-bengaluru-india?utm_medium=rss)
+ - [AirTag leads to confrontation &amp; stolen e-bike return in California](https://appleinsider.com/articles/23/04/10/airtag-leads-to-confrontation-stolen-e-bike-return-in-california?utm_medium=rss)
+ - [Emirates Telecom plans to buy a 50.03% stake in Careem, the super app owned by Uber&#39;s Middle East unit, for $400M; Uber will own Careem&#39;s ride-hailing business &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/230410/p6#a230410p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
