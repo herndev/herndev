@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google hints at solving unwanted calls by injecting more AI into Call Screen](https://www.androidauthority.com/google-call-screen-3311171/)
- - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)
- - [Sources: Tyler and Cameron Winklevoss recently made a $100M loan to Gemini Trust, after their crypto exchange tried to raise funds from outside investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p15#a230410p15)<!-- TECH:END -->
+ - [Take up to $300 off Apple&#39;s latest MacBook Pro &amp; save big on Apple Watch, AirPods at Amazon](https://appleinsider.com/articles/23/04/10/take-up-to-300-off-apples-latest-macbook-pro-save-big-on-apple-watch-airpods-at-amazon?utm_medium=rss)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Google hints at solving unwanted calls by injecting more AI into Call Screen](https://www.androidauthority.com/google-call-screen-3311171/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
