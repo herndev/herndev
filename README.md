@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - ⏩ [Yikes](http://9gag.com/gag/aREZNwM)
+ - 💣 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - ⏩ [No value, that&#39;s what&#39;s up](http://9gag.com/gag/aGE8ozn)
  - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
