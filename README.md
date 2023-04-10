@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peter Pan &amp; Wendy trailer gives Wendy Darling a sword](https://www.polygon.com/23677201/peter-pan-wendy-trailer-disney-plus-release-date)
- - [Chris Pratt’s OG Voice In The Super Mario Bros. Movie Was Too ‘New Jersey’](https://kotaku.com/chris-pratt-super-mario-bros-movie-voice-soprano-jersey-1850319120)
- - [The New Season Of The Big Star Wars Anime Looks Incredible](https://kotaku.com/star-wars-visions-season-2-anime-trailer-disney-plus-1850318934)<!-- GAME:END -->
+ - [Half-Life: Alyx without a VR headset? It’s now possible](https://www.polygon.com/23677197/half-life-alyx-no-vr-headset-mod)
+ - [When does Overwatch 2 season 4 start?](https://www.polygon.com/overwatch-2-guide/23677082/season-4-release-time)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
