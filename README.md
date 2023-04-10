@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A gulper eel deflating after ballooning out, then swimming off](http://9gag.com/gag/aeQOPAB)
- - ⏩ [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)
- - 👉 [Always wondered how safe those glass bridges were](http://9gag.com/gag/ajVOwzg)<!-- MEMES:END -->
+ - 💣 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)
+ - ⏩ [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
