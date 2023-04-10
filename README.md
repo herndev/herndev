@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s long-rumored 27-inch mini LED display probably isn&#39;t happening](https://appleinsider.com/articles/23/04/10/apples-long-rumored-27-inch-mini-led-display-probably-isnt-happening?utm_medium=rss)
- - [Some Twitter users report that their Circle tweets, intended for a smaller group of people, are showing up in others&#39; For You feeds &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230410/p11#a230410p11)
- - [YouTube Premium adds SharePlay support, increases video quality for iOS](https://appleinsider.com/articles/23/04/10/youtube-premium-adds-shareplay-support-increases-video-quality-for-ios?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro dummy shows unified volume button &amp; possible USB-C port](https://appleinsider.com/articles/23/04/10/iphone-15-pro-dummy-shows-unified-volume-button-possible-usb-c-port?utm_medium=rss)
+ - [April 2023 Android security patch available now for Pixel phones](https://www.androidauthority.com/april-2023-android-security-patch-3311123/)
+ - [Apple issues iOS 15.7.5, iPadOS 15.7.5, macOS Monterey, Big Sur security updates](https://appleinsider.com/articles/23/04/10/apple-issues-ios-1575-ipados-1575-macos-monterey-big-sur-security-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
