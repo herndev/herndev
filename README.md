@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)
- - ⏩ [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
+ - 💣 [Always wondered how safe those glass bridges were](http://9gag.com/gag/ajVOwzg)
+ - ⏩ [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
  - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
