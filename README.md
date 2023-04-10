@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
- - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
- - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 💣 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - ⏩ [10 years later](http://9gag.com/gag/a7qem6w)
+ - 👉 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)<!-- MEMES:END -->
 
 ---
 
