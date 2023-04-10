@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life: Alyx without a VR headset? It’s now possible](https://www.polygon.com/23677197/half-life-alyx-no-vr-headset-mod)
- - [When does Overwatch 2 season 4 start?](https://www.polygon.com/overwatch-2-guide/23677082/season-4-release-time)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
+ - [Behold the 20-foot-tall Donkey Kong arcade game](https://www.polygon.com/23677273/donkey-kong-arcade-cabinet-huge-strong-national-museum-of-play)
+ - [Destiny 2: Lightfall, Hi-Fi Rush, and more are up to 60% off during the Xbox Spring Sale](https://www.polygon.com/deals/2023/4/10/23677051/xbox-pc-games-lightfall-forza-spring-deal-sale)
+ - [Stranger Things is getting its own Saturday morning cartoon](https://www.polygon.com/stranger-things/23677435/stranger-things-animated-series-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
