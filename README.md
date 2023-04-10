@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
- - ⏩ [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 👉 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)<!-- MEMES:END -->
+ - 💣 [Biggest bullet a single franchise has ever dodged](http://9gag.com/gag/a2K8xnY)
+ - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
+ - 👉 [They won the war, but lost the war at home.](http://9gag.com/gag/ap9DjYb)<!-- MEMES:END -->
 
 ---
 
