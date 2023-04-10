@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robocop](http://9gag.com/gag/aGE8vD5)
- - ⏩ [Biggest bullet a single franchise has ever dodged](http://9gag.com/gag/a2K8xnY)
- - 👉 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)<!-- MEMES:END -->
+ - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
+ - ⏩ [Yikes](http://9gag.com/gag/aREZNwM)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
