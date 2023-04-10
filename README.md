@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always wondered how safe those glass bridges were](http://9gag.com/gag/ajVOwzg)
- - ⏩ [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 💣 [Olga Korbut performing the `Dead Loop` move in 1972 which has been banned since then because of how dangerous it is](http://9gag.com/gag/aA0Eq0d)
+ - ⏩ [10 years later](http://9gag.com/gag/a7qem6w)
+ - 👉 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)<!-- MEMES:END -->
 
 ---
 
