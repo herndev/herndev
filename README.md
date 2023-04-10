@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie is already breaking box office records](https://www.polygon.com/23677014/super-mario-bros-movie-gross-box-office-opening-weekend)
- - [Resident Evil 4 Remake Is Getting Review Bombed For The Worst Reasons [Update]](https://kotaku.com/re4-remake-woke-ada-wong-actress-lily-gao-reddit-1850295337)
- - [Dramatic Final Star Wars Jedi: Survivor Trailer Brings Cal Back To Coruscant](https://kotaku.com/star-wars-jedi-survivor-fall-order-coruscant-cal-1850318603)<!-- GAME:END -->
+ - [Peter Pan &amp; Wendy trailer gives Wendy Darling a sword](https://www.polygon.com/23677201/peter-pan-wendy-trailer-disney-plus-release-date)
+ - [Chris Pratt’s OG Voice In The Super Mario Bros. Movie Was Too ‘New Jersey’](https://kotaku.com/chris-pratt-super-mario-bros-movie-voice-soprano-jersey-1850319120)
+ - [The New Season Of The Big Star Wars Anime Looks Incredible](https://kotaku.com/star-wars-visions-season-2-anime-trailer-disney-plus-1850318934)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
