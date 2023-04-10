@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
- - [Everything We Know About Starfield, Bethesda&#39;s Ambitious New RPG](https://kotaku.com/starfield-bethesda-xbox-ps5-pc-release-date-1850320059)
- - [Here’s How To Get Infinite Ammo In The Resident Evil 4 Remake](https://kotaku.com/how-to-get-unlimited-ammo-re4-remake-cat-ears-1850319893)<!-- GAME:END -->
+ - [Venom’s latest transformation is everything good about superhero comics](https://www.polygon.com/2023/4/10/23677057/venom-king-in-black-al-ewing-eddie-brock)
+ - [TikTok users love Snoopy so much they’re literally giving blood for merch](https://www.polygon.com/23677321/red-cross-snoopy-shirt-blood-donation-tiktok)
+ - [Rumored Persona 3 remake and Jet Set Radio reboot footage leaks](https://www.polygon.com/23677052/persona-3-remake-jet-set-radio-leaks-sega-atlus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
