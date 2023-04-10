@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Play all of Half-Life: Alyx without VR thanks to this mod](https://www.pcgamer.com/play-all-of-half-life-alyx-without-vr-thanks-to-this-mod)
  - [Wordle hint and answer #660: Monday, April 10](https://www.pcgamer.com/wordle-hint-answer-today-660-april-10)
- - [After complaints about &#39;free&#39; Ark: Survival Evolved upgrade being sold in a $50 bundle with Ark 2, now it&#39;ll be in a DLC bundle for $60](https://www.pcgamer.com/after-complaints-about-free-ark-survival-evolved-upgrade-being-sold-in-a-dollar50-bundle-with-ark-2-now-itll-be-in-a-dlc-bundle-for-dollar60)
- - [Get ready for a culinary throwdown when Cook Serve Forever launches in May](https://www.pcgamer.com/get-ready-for-a-culinary-throwdown-when-cook-serve-forever-launches-in-may)<!-- GAME:END -->
+ - [After complaints about &#39;free&#39; Ark: Survival Evolved upgrade being sold in a $50 bundle with Ark 2, now it&#39;ll be in a DLC bundle for $60](https://www.pcgamer.com/after-complaints-about-free-ark-survival-evolved-upgrade-being-sold-in-a-dollar50-bundle-with-ark-2-now-itll-be-in-a-dlc-bundle-for-dollar60)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
