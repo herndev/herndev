@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro dummy shows unified volume button &amp; possible USB-C port](https://appleinsider.com/articles/23/04/10/iphone-15-pro-dummy-shows-unified-volume-button-possible-usb-c-port?utm_medium=rss)
- - [April 2023 Android security patch available now for Pixel phones](https://www.androidauthority.com/april-2023-android-security-patch-3311123/)
- - [Apple issues iOS 15.7.5, iPadOS 15.7.5, macOS Monterey, Big Sur security updates](https://appleinsider.com/articles/23/04/10/apple-issues-ios-1575-ipados-1575-macos-monterey-big-sur-security-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Google debuts auto-archive feature that reduces the need to uninstall apps](https://www.androidauthority.com/android-auto-archive-3311120/)
+ - [Rumored 15-inch MacBook Air release could be in April or May](https://appleinsider.com/articles/23/04/10/rumored-15-inch-macbook-air-release-could-be-in-april-or-may?utm_medium=rss)
+ - [In a lawsuit, former Twitter executives say they spent $1M+ on legal expenses related to shareholder lawsuits and government probes, including one by the US DOJ &lpar;New York Times&rpar;](http://www.techmeme.com/230410/p13#a230410p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
