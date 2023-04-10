@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)
- - ⏩ [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - 👉 [They won the war, but lost the war at home.](http://9gag.com/gag/ap9DjYb)<!-- MEMES:END -->
+ - 💣 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
+ - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
