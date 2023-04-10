@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Olga Korbut performing the `Dead Loop` move in 1972 which has been banned since then because of how dangerous it is](http://9gag.com/gag/aA0Eq0d)
- - ⏩ [10 years later](http://9gag.com/gag/a7qem6w)
- - 👉 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)<!-- MEMES:END -->
+ - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
+ - ⏩ [Fascinating](http://9gag.com/gag/a6q9grq)
+ - 👉 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
 
 ---
 
