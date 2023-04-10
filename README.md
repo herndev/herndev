@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube adds Premium features, including enhanced bitrate 1080p videos on iOS and the web for &quot;extra crisp and clear&quot; content and support for Apple&#39;s SharePlay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230410/p10#a230410p10)
- - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)
- - [Deals: 2023 MacBook Pro $1,849, iMac 24-inch $1,099, iPhone &amp; Apple Watch from $180, more](https://appleinsider.com/articles/23/04/10/deals-2023-macbook-pro-1849-imac-24-inch-1099-iphone-apple-watch-from-180-more?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 will get new OLED screen, iPhone 15 to reuse iPhone 14 display tech](https://appleinsider.com/articles/23/04/10/iphone-16-will-get-new-oled-screen-iphone-15-to-reuse-iphone-14-display-tech?utm_medium=rss)
+ - [OnePlus Pad is up for preorder, wants you to pay $100 without knowing the price](https://www.androidauthority.com/oneplus-pad-preorder-3311032/)
+ - [Paramount Plus Celebrates Its New Series &#39;Rabbit Hole&#39; With a 1-Month Free Trial     - CNET](https://www.cnet.com/deals/paramount-plus-celebrates-its-new-series-rabbit-hole-with-a-1-month-free-trial/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
