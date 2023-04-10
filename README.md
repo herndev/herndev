@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone 15 Pro renders shows Apple’s all-new colorway](https://www.androidauthority.com/iphone-15-pro-renders-dark-red-color-3310932/)
- - [Succession’s last season is finally getting interesting by taking some risks](https://www.theverge.com/2023/4/9/23674872/succession-season-four-logan-roy-connors-wedding-spoilers)
- - [[Thread] A look at a report from FTX debtors on the company&#39;s control failures, like awful recordkeeping, lying about using cold wallets, and sloppy key storage &lpar;Molly White/@molly0xfff&rpar;](http://www.techmeme.com/230409/p8#a230409p8)<!-- TECH:END -->
+ - [Dell XPS 13 &lpar;2023&rpar; review: thin, light, nice screen, and improved battery life, but only two ports, quiet speakers, and worse performance than similar models &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230410/p1#a230410p1)
+ - [Leaked iPhone 15 Pro renders show Apple’s all-new colorway](https://www.androidauthority.com/iphone-15-pro-renders-dark-red-color-3310932/)
+ - [Succession’s last season is finally getting interesting by taking some risks](https://www.theverge.com/2023/4/9/23674872/succession-season-four-logan-roy-connors-wedding-spoilers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
