@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - ⏩ [10 years later](http://9gag.com/gag/a7qem6w)
- - 👉 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)<!-- MEMES:END -->
+ - 💣 [Based police..](http://9gag.com/gag/aYVOBzO)
+ - ⏩ [What do you mean the sauce don\u2019t work.](http://9gag.com/gag/a4ozgBd)
+ - 👉 [Should be me not cat](http://9gag.com/gag/anznwvL)<!-- MEMES:END -->
 
 ---
 
