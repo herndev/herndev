@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fascinating](http://9gag.com/gag/a6q9grq)
- - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
- - 👉 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
+ - 💣 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
+ - ⏩ [Fascinating](http://9gag.com/gag/a6q9grq)
+ - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 ---
 
