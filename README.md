@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tests show Twitter, which resumed political ads this year, offers incomplete data on the ads through its &quot;disclosure&quot; tool, missing some promoted tweets &lpar;Jessica Piper/Politico&rpar;](http://www.techmeme.com/230410/p14#a230410p14)
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: April 10&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
+ - [Google hints at solving unwanted calls by injecting more AI into Call Screen](https://www.androidauthority.com/google-call-screen-3311171/)
+ - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)
+ - [Sources: Tyler and Cameron Winklevoss recently made a $100M loan to Gemini Trust, after their crypto exchange tried to raise funds from outside investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p15#a230410p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
