@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom removes Denuvo from Resident Evil Village](https://www.pcgamer.com/capcom-removes-denuvo-from-resident-evil-village)
- - [Play all of Half-Life: Alyx without VR thanks to this mod](https://www.pcgamer.com/play-all-of-half-life-alyx-without-vr-thanks-to-this-mod)
- - [Wordle hint and answer #660: Monday, April 10](https://www.pcgamer.com/wordle-hint-answer-today-660-april-10)<!-- GAME:END -->
+ - [The Real Impact Of Pokémon Go&#39;s Changes That Niantic Won&#39;t Face](https://kotaku.com/pokemon-go-remote-raid-price-changes-limits-boycott-1850314338)
+ - [The Top Ten Most Played Games On Steam Deck: March 2023 Edition](https://kotaku.com/the-top-ten-most-played-games-on-steam-deck-march-2023-1850314951)
+ - [Star Wars: Visions season 2 offers a dazzling new look at a galaxy far, far away](https://www.polygon.com/star-wars/23672666/star-wars-visions-season-2-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
