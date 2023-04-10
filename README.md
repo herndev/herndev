@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plot](http://9gag.com/gag/aL1eo05)
- - ⏩ [Frightening](http://9gag.com/gag/az2PvdB)
- - 👉 [The main thing is that your soul is young.](http://9gag.com/gag/armAE1V)<!-- MEMES:END -->
+ - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
+ - ⏩ [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
