@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is giving some VR developers compensation packages of $600K to $1M, significantly more than most gaming companies, despite a push to rein in costs &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230407/p14#a230407p14)
- - [Rivian’s new ‘Performance’ powertrain lets R1T reservation holders keep their big battery](https://www.theverge.com/2023/4/7/23673961/rivian-performance-dual-motor-availability-max-pack-battery)
- - [24 Mother&#39;s Day Gifts for Your Food-Lovin&#39; Mama     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a reversal, Twitter lets users like and retweet Substack links, but searches including &quot;Substack&quot; still return results for just &quot;newsletter&quot; instead &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230409/p6#a230409p6)
+ - [8 Common Signs You Have a Vitamin Deficiency     - CNET](https://www.cnet.com/health/nutrition/8-common-signs-you-have-a-vitamin-deficiency/#ftag=CAD590a51e)
+ - [White, Pink, Blue or Brown Noise: Which Is Best for Your Sleep?     - CNET](https://www.cnet.com/health/sleep/white-pink-blue-or-brown-noise-which-is-best-for-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
