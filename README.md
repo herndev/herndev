@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Supplice is a new retro-FPS made by Doom modders, and it really feels like old-school Doom](https://www.pcgamer.com/supplice-is-a-new-retro-fps-made-by-doom-modders-and-it-really-feels-like-old-school-doom)
- - [Blizzard fixes Overwatch 2 &#39;bug&#39; that it purposefully added in 2019](https://www.pcgamer.com/blizzard-fixes-overwatch-2-bug-that-it-purposefully-added-in-2019)
- - [World&#39;s best chess player loses tournament due to &#39;horror mouseslip&#39;](https://www.pcgamer.com/worlds-best-chess-player-loses-tournament-due-to-horror-mouseslip)<!-- GAME:END -->
+ - [Get ready for a culinary throwdown when Cook Serve Forever launches in May](https://www.pcgamer.com/get-ready-for-a-culinary-throwdown-when-cook-serve-forever-launches-in-may)
+ - [Here&#39;s the final gameplay trailer for Star Wars Jedi: Survivor](https://www.pcgamer.com/heres-the-final-gameplay-trailer-for-star-wars-jedi-survivor)
+ - [Why Takashi Miike’s Ace Attorney remains the perfect video game movie adaptation](https://www.polygon.com/23665083/ace-attorney-movie-best-video-game-adaptation-takashi-miike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
