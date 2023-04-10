@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - ⏩ [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 👉 [NPC](http://9gag.com/gag/aPgPL2g)<!-- MEMES:END -->
+ - 💣 [Robocop](http://9gag.com/gag/aGE8vD5)
+ - ⏩ [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
