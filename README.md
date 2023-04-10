@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google debuts auto-archive feature that reduces the need to uninstall apps](https://www.androidauthority.com/android-auto-archive-3311120/)
- - [Rumored 15-inch MacBook Air release could be in April or May](https://appleinsider.com/articles/23/04/10/rumored-15-inch-macbook-air-release-could-be-in-april-or-may?utm_medium=rss)
- - [In a lawsuit, former Twitter executives say they spent $1M+ on legal expenses related to shareholder lawsuits and government probes, including one by the US DOJ &lpar;New York Times&rpar;](http://www.techmeme.com/230410/p13#a230410p13)<!-- TECH:END -->
+ - [Tests show Twitter, which resumed political ads this year, offers incomplete data on the ads through its &quot;disclosure&quot; tool, missing some promoted tweets &lpar;Jessica Piper/Politico&rpar;](http://www.techmeme.com/230410/p14#a230410p14)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: April 10&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
