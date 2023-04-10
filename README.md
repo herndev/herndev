@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn son!](http://9gag.com/gag/aqe8EAR)
- - ⏩ [Based police..](http://9gag.com/gag/aYVOBzO)
- - 👉 [Fascinating](http://9gag.com/gag/a6q9grq)<!-- MEMES:END -->
+ - 💣 [Fascinating](http://9gag.com/gag/a6q9grq)
+ - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
+ - 👉 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
 
 ---
 
