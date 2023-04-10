@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Based police..](http://9gag.com/gag/aYVOBzO)
- - ⏩ [What do you mean the sauce don\u2019t work.](http://9gag.com/gag/a4ozgBd)
- - 👉 [Should be me not cat](http://9gag.com/gag/anznwvL)<!-- MEMES:END -->
+ - ⏩ [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
+ - 👉 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)<!-- MEMES:END -->
 
 ---
 
