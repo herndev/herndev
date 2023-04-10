@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome Bouncer](http://9gag.com/gag/a7qeXdq)
- - ⏩ [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
- - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 💣 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)
+ - ⏩ [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
+ - 👉 [They won the war, but lost the war at home.](http://9gag.com/gag/ap9DjYb)<!-- MEMES:END -->
 
 ---
 
