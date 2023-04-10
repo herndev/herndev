@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - ⏩ [Fascinating](http://9gag.com/gag/a6q9grq)
- - 👉 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
+ - 💣 [Olga Korbut performing the `Dead Loop` move in 1972 which has been banned since then because of how dangerous it is](http://9gag.com/gag/aA0Eq0d)
+ - ⏩ [Based police..](http://9gag.com/gag/aYVOBzO)
+ - 👉 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)<!-- MEMES:END -->
 
 ---
 
