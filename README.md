@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Venom’s latest transformation is everything good about superhero comics](https://www.polygon.com/2023/4/10/23677057/venom-king-in-black-al-ewing-eddie-brock)
- - [TikTok users love Snoopy so much they’re literally giving blood for merch](https://www.polygon.com/23677321/red-cross-snoopy-shirt-blood-donation-tiktok)
- - [Rumored Persona 3 remake and Jet Set Radio reboot footage leaks](https://www.polygon.com/23677052/persona-3-remake-jet-set-radio-leaks-sega-atlus)<!-- GAME:END -->
+ - [Succession season 4 sets the board for life after Logan](https://www.polygon.com/23677767/succession-logan-death-episode)
+ - [Speedrunners are already making a mockery of Resident Evil 4&#39;s hardest difficulty](https://www.pcgamer.com/speedrunners-are-already-making-a-mockery-of-resident-evil-4s-hardest-difficulty)
+ - [Someone Built A NES That Could Probably Murder You](https://kotaku.com/nes-console-mod-retro-games-sega-nintendo-1850320796)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
