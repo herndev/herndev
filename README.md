@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best USB Microphones &lpar;2023&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [Apple is best positioned to benefit as China&#39;s premium smartphone market swells](https://appleinsider.com/articles/23/04/10/apple-is-best-positioned-to-benefit-as-chinas-premium-smartphone-market-swells?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Digital Currency Group&#39;s Foundry plans to begin levying a pool fee for its bitcoin mining service, which had been free since Foundry&#39;s 2019 launch &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230410/p9#a230410p9)
+ - [Apple Silicon dominates the market for ARM chips &amp; will drive growth](https://appleinsider.com/articles/23/04/10/apple-silicon-dominates-the-market-for-arm-chips-will-drive-growth?utm_medium=rss)
+ - [Samsung slashes chip production after 96% profit nosedive](https://appleinsider.com/articles/23/04/10/samsung-slashes-chip-production-after-96-profit-nosedive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
