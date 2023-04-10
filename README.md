@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take up to $300 off Apple&#39;s latest MacBook Pro &amp; save big on Apple Watch, AirPods at Amazon](https://appleinsider.com/articles/23/04/10/take-up-to-300-off-apples-latest-macbook-pro-save-big-on-apple-watch-airpods-at-amazon?utm_medium=rss)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Google hints at solving unwanted calls by injecting more AI into Call Screen](https://www.androidauthority.com/google-call-screen-3311171/)<!-- TECH:END -->
+ - [Best Solar Companies of 2023     - CNET](https://www.cnet.com/news/best-solar-companies/#ftag=CAD590a51e)
+ - [Best TV Deals of 2023: Save Up to $1,500 on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
+ - [Take up to $300 off Apple&#39;s latest MacBook Pro &amp; save big on Apple Watch, AirPods at Amazon](https://appleinsider.com/articles/23/04/10/take-up-to-300-off-apples-latest-macbook-pro-save-big-on-apple-watch-airpods-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
