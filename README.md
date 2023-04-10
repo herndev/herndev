@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
- - ⏩ [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
- - 👉 [Give this strong independent woman her rights](http://9gag.com/gag/a7qeNAr)<!-- MEMES:END -->
+ - 💣 [Plot](http://9gag.com/gag/aL1eo05)
+ - ⏩ [Frightening](http://9gag.com/gag/az2PvdB)
+ - 👉 [The main thing is that your soul is young.](http://9gag.com/gag/armAE1V)<!-- MEMES:END -->
 
 ---
 
