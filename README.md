@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best USB Microphones &lpar;2023&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
  - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [Apple is best positioned to benefit as China&#39;s premium smartphone market swells](https://appleinsider.com/articles/23/04/10/apple-is-best-positioned-to-benefit-as-chinas-premium-smartphone-market-swells?utm_medium=rss)
- - [A look at the impact of 34 US bitcoin mines and their extreme demand for energy, as the cost of electricity for locals increases in Texas and other areas &lpar;New York Times&rpar;](http://www.techmeme.com/230410/p8#a230410p8)<!-- TECH:END -->
+ - [Apple is best positioned to benefit as China&#39;s premium smartphone market swells](https://appleinsider.com/articles/23/04/10/apple-is-best-positioned-to-benefit-as-chinas-premium-smartphone-market-swells?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
