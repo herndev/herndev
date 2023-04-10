@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold the 20-foot-tall Donkey Kong arcade game](https://www.polygon.com/23677273/donkey-kong-arcade-cabinet-huge-strong-national-museum-of-play)
- - [Destiny 2: Lightfall, Hi-Fi Rush, and more are up to 60% off during the Xbox Spring Sale](https://www.polygon.com/deals/2023/4/10/23677051/xbox-pc-games-lightfall-forza-spring-deal-sale)
- - [Stranger Things is getting its own Saturday morning cartoon](https://www.polygon.com/stranger-things/23677435/stranger-things-animated-series-announcement)<!-- GAME:END -->
+ - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
+ - [Everything We Know About Starfield, Bethesda&#39;s Ambitious New RPG](https://kotaku.com/starfield-bethesda-xbox-ps5-pc-release-date-1850320059)
+ - [Here’s How To Get Infinite Ammo In The Resident Evil 4 Remake](https://kotaku.com/how-to-get-unlimited-ammo-re4-remake-cat-ears-1850319893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
