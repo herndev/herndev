@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a reversal, Twitter lets users like and retweet Substack links, but searches including &quot;Substack&quot; still return results for just &quot;newsletter&quot; instead &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230409/p6#a230409p6)
- - [8 Common Signs You Have a Vitamin Deficiency     - CNET](https://www.cnet.com/health/nutrition/8-common-signs-you-have-a-vitamin-deficiency/#ftag=CAD590a51e)
- - [White, Pink, Blue or Brown Noise: Which Is Best for Your Sleep?     - CNET](https://www.cnet.com/health/sleep/white-pink-blue-or-brown-noise-which-is-best-for-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Congress weighs regulating AI, consumer advocates and the tech industry converge on Washington, DC to influence US lawmakers, most of whom lack AI expertise &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230409/p7#a230409p7)
+ - [The best VPN extension for Chrome: Keep your browsing private and secure!](https://www.androidauthority.com/best-vpn-extension-chrome-3310822/)
+ - [In a reversal, Twitter lets users like and retweet tweets with Substack links, but searches including &quot;Substack&quot; still return results for just &quot;newsletter&quot; &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230409/p6#a230409p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
