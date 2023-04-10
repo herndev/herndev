@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Succession season 4 sets the board for life after Logan](https://www.polygon.com/23677767/succession-logan-death-episode)
- - [Speedrunners are already making a mockery of Resident Evil 4&#39;s hardest difficulty](https://www.pcgamer.com/speedrunners-are-already-making-a-mockery-of-resident-evil-4s-hardest-difficulty)
- - [Someone Built A NES That Could Probably Murder You](https://kotaku.com/nes-console-mod-retro-games-sega-nintendo-1850320796)<!-- GAME:END -->
+ - [ZeniMax promises &#39;a proper resolution&#39; after using Elder Scrolls Online fanart in a paid skin without permission](https://www.pcgamer.com/zenimax-promises-a-proper-resolution-after-using-elder-scrolls-online-fanart-in-a-paid-skin-without-permission)
+ - [This game about &#39;confronting relationship trauma&#39; perfectly illustrates why it&#39;s a bad idea to date Draculae, lord of the vampires](https://www.pcgamer.com/el-paso-elsewhere-preview)
+ - [Succession season 4 sets the board for life after Logan](https://www.polygon.com/23677767/succession-logan-death-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
