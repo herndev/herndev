@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Digital Currency Group&#39;s Foundry plans to begin levying a pool fee for its bitcoin mining service, which had been free since Foundry&#39;s 2019 launch &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230410/p9#a230410p9)
- - [Apple Silicon dominates the market for ARM chips &amp; will drive growth](https://appleinsider.com/articles/23/04/10/apple-silicon-dominates-the-market-for-arm-chips-will-drive-growth?utm_medium=rss)
- - [Samsung slashes chip production after 96% profit nosedive](https://appleinsider.com/articles/23/04/10/samsung-slashes-chip-production-after-96-profit-nosedive?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube adds Premium features, including enhanced bitrate 1080p videos on iOS and the web for &quot;extra crisp and clear&quot; content and support for Apple&#39;s SharePlay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230410/p10#a230410p10)
+ - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)
+ - [Deals: 2023 MacBook Pro $1,849, iMac 24-inch $1,099, iPhone &amp; Apple Watch from $180, more](https://appleinsider.com/articles/23/04/10/deals-2023-macbook-pro-1849-imac-24-inch-1099-iphone-apple-watch-from-180-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
