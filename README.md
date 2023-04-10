@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biggest bullet a single franchise has ever dodged](http://9gag.com/gag/a2K8xnY)
- - ⏩ [Robocop](http://9gag.com/gag/aGE8vD5)
- - 👉 [They won the war, but lost the war at home.](http://9gag.com/gag/ap9DjYb)<!-- MEMES:END -->
+ - 💣 [Wholesome Bouncer](http://9gag.com/gag/a7qeXdq)
+ - ⏩ [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - 👉 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 ---
 
