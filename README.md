@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40 000: Boltgun releases May 23, new gameplay details revealed](https://blog.playstation.com/2023/04/11/warhammer-40-000-boltgun-releases-may-23-new-gameplay-details-revealed/)
- - [EA Sports PGA Tour’s best mode pulled me back into my golfing game obsession](https://www.polygon.com/23677407/ea-sports-pga-tour-the-masters-augusta-national-modes-challenges-moments)
- - [Portal writer Erik Wolpaw still wants to make Portal 3, but Valve&#39;s &#39;flat structure&#39; makes it a challenge](https://www.pcgamer.com/portal-writer-erik-wolpaw-still-wants-to-make-portal-3-but-valves-flat-structure-makes-it-a-challenge)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s fancy RT Overdrive graphics now live but only if you have a megabucks Nvidia GPU](https://www.pcgamer.com/cyberpunk-2077s-fancy-rt-overdrive-graphics-now-live-but-only-if-you-have-a-megabucks-nvidia-gpu)
+ - [Discord Users Are Using The Soundboard Update To Troll Each Other, Like God Intended](https://kotaku.com/discord-soundboard-reaction-feature-update-voice-call-1850322759)
+ - [Talk to Me trailer shows off this year’s scariest horror movie so far](https://www.polygon.com/23678028/talk-me-trailer-release-date-horror-a24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
