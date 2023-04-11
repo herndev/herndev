@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Original Take Of The &#39;Wilhelm Scream&#39; Has Been Found](https://kotaku.com/wilhelm-scream-star-wars-video-games-movies-sound-1850321598)
- - [Elder Scrolls Game Caught Using Fan Art Without Permission](https://kotaku.com/elder-scrolls-fan-art-artist-credit-dlc-tumblr-twitter-1850321339)
- - [One-shot sniper rifles are returning to Warzone this week](https://www.pcgamer.com/one-shot-sniper-rifles-are-returning-to-warzone-this-week)<!-- GAME:END -->
+ - [Beau Is Afraid’s strange rollout makes sense for such a strange movie](https://www.polygon.com/23678001/beau-is-afraid-release-date-ari-aster-hereditary-midsommar)
+ - [Five new Steam games you probably missed &lpar;April 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-10-2023)
+ - [You Can Play A Dead Space Demake For Free](https://kotaku.com/dead-space-remake-demake-ps1-fan-pc-download-itch-1850321467)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
