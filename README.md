@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genetically Modified Houseplants Are Coming to Clean Your Air](https://www.wired.com/story/neoplants-air-purification-pothos-devils-ivy/)
- - [The Race to Decarbonize America Needs More Workers](https://www.wired.com/story/the-race-to-decarbonize-america-needs-more-workers/)
- - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)<!-- TECH:END -->
+ - [Former Apple PR head Katie Cotton has passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
+ - [Rumored 15-inch MacBook Air release could be in April or May](https://appleinsider.com/articles/23/04/10/rumored-15-inch-macbook-air-release-could-be-in-april-or-may?utm_medium=rss)
+ - [Don&#39;t recharge your iPhone using public USB ports, FBI warns](https://appleinsider.com/articles/23/04/11/dont-recharge-your-iphone-using-public-usb-ports-fbi-warns?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
