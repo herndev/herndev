@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Apple PR head Katie Cotton has passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
- - [Rumored 15-inch MacBook Air release could be in April or May](https://appleinsider.com/articles/23/04/10/rumored-15-inch-macbook-air-release-could-be-in-april-or-may?utm_medium=rss)
- - [Don&#39;t recharge your iPhone using public USB ports, FBI warns](https://appleinsider.com/articles/23/04/11/dont-recharge-your-iphone-using-public-usb-ports-fbi-warns?utm_medium=rss)<!-- TECH:END -->
+ - [Plugable&#39;s new hub takes both MacBook USB-C ports in exchange for USB-A and HDMI](https://appleinsider.com/articles/23/04/11/plugables-new-hub-takes-both-macbook-usb-c-ports-in-exchange-for-usb-a-and-hdmi?utm_medium=rss)
+ - [Your ChatGPT Relationship Status Shouldn’t Be Complicated](https://www.wired.com/story/chatgpt-social-roles-psychology/)
+ - [How to Use Apple’s New All-In-One Password Manager](https://www.wired.com/story/apple-new-password-manager-2fa-iphone-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
