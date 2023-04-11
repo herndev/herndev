@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French antitrust agency set to investigate Apple&#39;s app tracking privacy policies](https://appleinsider.com/articles/23/04/11/french-antitrust-agency-set-to-investigate-apples-app-tracking-privacy-policies?utm_medium=rss)
- - [Today Is National Pet Day: Spoil Your Furry Friends With These Deals     - CNET](https://www.cnet.com/deals/national-pet-day-deals-spoil-your-furry-friends-for-less/#ftag=CAD590a51e)
- - [YouTube&#39;s NFL Sunday Ticket Will Start At $249 For Subscribers With Early Deal, $349 This Fall     - CNET](https://www.cnet.com/tech/services-and-software/youtubes-nfl-sunday-ticket-will-start-at-249-for-subscribers-with-early-deal-349-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NY-based fintech startup Clear Street, building &quot;modern infrastructure&quot; for capital markets, raised $270M in the second tranche of a Series B at a $2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230411/p19#a230411p19)
+ - [HidrateSpark Pro Lite review: Give your hydration habits a glow up](https://www.androidauthority.com/hidratespark-pro-lite-review-3309926/)
+ - [Substack rolls out Notes, its Twitter-like service, to all users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230411/p18#a230411p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
