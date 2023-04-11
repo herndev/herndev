@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sei, a Layer-1 blockchain focused on trading, raised $30M at an $800M valuation from Jump Crypto and others and plans to launch its mainnet later in 2023 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230411/p15#a230411p15)
- - [AlphaSense, which offers financial data to businesses, raised $100M led by CapitalG at a $1.8B valuation, after raising $225M at a $1.7B valuation in June 2022 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230411/p14#a230411p14)
- - [a16z releases 2023 State of Crypto, trying to show the dichotomy between market and product cycles, and creates an index that shows stable product development &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230411/p13#a230411p13)<!-- TECH:END -->
+ - [French antitrust agency set to investigate Apple&#39;s app tracking privacy policies](https://appleinsider.com/articles/23/04/11/french-antitrust-agency-set-to-investigate-apples-app-tracking-privacy-policies?utm_medium=rss)
+ - [Today Is National Pet Day: Spoil Your Furry Friends With These Deals     - CNET](https://www.cnet.com/deals/national-pet-day-deals-spoil-your-furry-friends-for-less/#ftag=CAD590a51e)
+ - [YouTube&#39;s NFL Sunday Ticket Will Start At $249 For Subscribers With Early Deal, $349 This Fall     - CNET](https://www.cnet.com/tech/services-and-software/youtubes-nfl-sunday-ticket-will-start-at-249-for-subscribers-with-early-deal-349-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
