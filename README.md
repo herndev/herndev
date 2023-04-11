@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
- - ⏩ [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 👉 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)<!-- MEMES:END -->
+ - 💣 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
+ - ⏩ [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
+ - 👉 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)<!-- MEMES:END -->
 
 ---
 
