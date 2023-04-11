@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plugable&#39;s new hub takes both MacBook USB-C ports in exchange for USB-A and HDMI](https://appleinsider.com/articles/23/04/11/plugables-new-hub-takes-both-macbook-usb-c-ports-in-exchange-for-usb-a-and-hdmi?utm_medium=rss)
- - [Your ChatGPT Relationship Status Shouldn’t Be Complicated](https://www.wired.com/story/chatgpt-social-roles-psychology/)
- - [How to Use Apple’s New All-In-One Password Manager](https://www.wired.com/story/apple-new-password-manager-2fa-iphone-ipad/)<!-- TECH:END -->
+ - [Sei, a Layer-1 blockchain focused on trading, raised $30M at an $800M valuation from Jump Crypto and others and plans to launch its mainnet later in 2023 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230411/p15#a230411p15)
+ - [AlphaSense, which offers financial data to businesses, raised $100M led by CapitalG at a $1.8B valuation, after raising $225M at a $1.7B valuation in June 2022 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230411/p14#a230411p14)
+ - [a16z releases 2023 State of Crypto, trying to show the dichotomy between market and product cycles, and creates an index that shows stable product development &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230411/p13#a230411p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
