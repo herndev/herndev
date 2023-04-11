@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always wondered how safe those glass bridges were](http://9gag.com/gag/ajVOwzg)
- - ⏩ [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
- - 👉 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)<!-- MEMES:END -->
+ - 💣 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
+ - ⏩ [NPC](http://9gag.com/gag/aPgPL2g)
+ - 👉 [This is how the heliosphere shield our solar system from galactic cosmic radiation. This is how our solar system really looks like.](http://9gag.com/gag/aZDwYYW)<!-- MEMES:END -->
 
 ---
 
