@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
- - ⏩ [NPC](http://9gag.com/gag/aPgPL2g)
- - 👉 [This is how the heliosphere shield our solar system from galactic cosmic radiation. This is how our solar system really looks like.](http://9gag.com/gag/aZDwYYW)<!-- MEMES:END -->
+ - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
+ - ⏩ [Fascinating](http://9gag.com/gag/a6q9grq)
+ - 👉 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
 
 ---
 
