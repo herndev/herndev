@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: after Twitch cut ~15% of the staff who policed abusive or illegal content and folded an AI ethics team, ex-staffers worry content moderation will slip &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230411/p28#a230411p28)
  - [The best GameCube emulators for most platforms](https://www.androidauthority.com/best-gamecube-emulators-3311673/)
- - [Google creates ‘experiment updates’ page to disclose changes to Bard](https://www.androidauthority.com/google-bard-updates-3311669/)
- - [Artifact, the personalized news sharing app started by Instagram&#39;s co-founders, adds article comments and plans to give new profiles a public &quot;reputation score&quot; &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230411/p27#a230411p27)<!-- TECH:END -->
+ - [Google creates ‘experiment updates’ page to disclose changes to Bard](https://www.androidauthority.com/google-bard-updates-3311669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
