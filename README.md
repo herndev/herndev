@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch streamer blows through Breath of the Wild with ocarina controller](https://www.polygon.com/zelda/23652156/breath-of-the-wild-ocarina-controller-botw-legend-of-zelda)
- - [Fortnite Stops The &#39;One Pump&#39; Shotgun, Unvaults Dirt Bikes](https://kotaku.com/fortnite-chapter-4-season-2-update-mythic-havoc-shotgun-1850324480)
- - [Download the Dead Space Demake while you can](https://www.polygon.com/23678881/dead-space-demake-release-windows-pc)<!-- GAME:END -->
+ - [Evangelion Creator Can Finally Take A Damn Vacation](https://kotaku.com/evangelion-nge-hideaki-anno-shin-kamen-rider-ultraman-1850324928)
+ - [A Bunch Of PlayStation And Xbox Games Just Got Steep Discounts](https://kotaku.com/ps5-xbox-mwii-dead-space-destiny-2-lightfall-cheap-sale-1850324835)
+ - [Konami Employee Arrested For Allegedly Attempting To Murder His Former Boss](https://kotaku.com/konami-attempted-murder-fire-extinguisher-harassment-1850324907)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
