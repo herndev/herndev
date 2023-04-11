@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based police..](http://9gag.com/gag/aYVOBzO)
- - ⏩ [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
- - 👉 [Damn son!](http://9gag.com/gag/aqe8EAR)<!-- MEMES:END -->
+ - 💣 [The Adventures of Velma. if you know you know](http://9gag.com/gag/adPOD9D)
+ - ⏩ [Damn son!](http://9gag.com/gag/aqe8EAR)
+ - 👉 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
 
 ---
 
