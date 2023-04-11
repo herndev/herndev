@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Shellder be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23677312/can-shellder-be-shiny-cloyster)
  - [Counter-Strike Player Kills Five Guys With One Bullet](https://kotaku.com/csgo-counter-strike-ace-five-kills-one-shot-valve-pc-1850322020)
- - [Wordle hint and answer #661: Tuesday, April 11](https://www.pcgamer.com/wordle-hint-answer-today-661-april-11)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Spring Sale](https://news.xbox.com/en-us/2023/04/10/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-spring-sale/)<!-- GAME:END -->
+ - [Wordle hint and answer #661: Tuesday, April 11](https://www.pcgamer.com/wordle-hint-answer-today-661-april-11)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
