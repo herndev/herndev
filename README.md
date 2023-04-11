@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comment section](http://9gag.com/gag/awZm9W4)
- - ⏩ [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
- - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
+ - 💣 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
+ - ⏩ [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
+ - 👉 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 ---
 
