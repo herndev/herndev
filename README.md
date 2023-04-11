@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - ⏩ [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 👉 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)<!-- MEMES:END -->
+ - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
+ - ⏩ [The entire perspective...](http://9gag.com/gag/aREZnjQ)
+ - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
 
 ---
 
