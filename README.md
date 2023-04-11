@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - ⏩ [If you get a wet toothbrush and pet a cat it, it supposedly reminds them getting clean by their mother](http://9gag.com/gag/a3ZAOo7)
- - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
+ - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - ⏩ [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - 👉 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)<!-- MEMES:END -->
 
 ---
 
