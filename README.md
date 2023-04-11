@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open-source LLMs are having a moment after the LLaMA leak and releases from Stanford and others, prompting debates over the pros and cons of open and closed AI &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/230411/p9#a230411p9)
- - [Steve Jobs Archive releases &#39;Make Something Wonderful&#39; ebook](https://appleinsider.com/articles/23/04/11/steve-jobs-archive-releases-make-something-wonderful-ebook?utm_medium=rss)
- - [Research: supporters of a separatist movement in Punjab, India, are using Twitter bots to promote violence, sharing content before Twitter&#39;s safety team can act &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230411/p8#a230411p8)<!-- TECH:END -->
+ - [Genetically Modified Houseplants Are Coming to Clean Your Air](https://www.wired.com/story/neoplants-air-purification-pothos-devils-ivy/)
+ - [The Race to Decarbonize America Needs More Workers](https://www.wired.com/story/the-race-to-decarbonize-america-needs-more-workers/)
+ - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
