@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)
- - [Bitcoin rises above $30K for the first time since June 2022, rallying 80%+ since the start of 2023, but is still down 50%+ from its November 2021 all-time high &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p19#a230410p19)
- - [Apple Music, iTunes, and News are experiencing outages](https://appleinsider.com/articles/23/04/11/apple-music-itunes-and-news-are-experiencing-outages?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music, iTunes, and News experienced outages [u]](https://appleinsider.com/articles/23/04/11/apple-music-itunes-and-news-are-experiencing-outages?utm_medium=rss)
+ - [South Korea fines Google ~$32M for squeezing out a rival app store by allegedly asking Korean and Chinese firms to release games exclusively in the Play Store &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/230410/p21#a230410p21)
+ - [Alibaba Cloud unveils its ChatGPT-style product Tongyi Qianwen and says it will roll out the AI chatbot into all products starting with DingTalk and Tmall Genie &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230410/p20#a230410p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
