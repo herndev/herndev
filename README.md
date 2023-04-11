@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Comment section](http://9gag.com/gag/awZm9W4)
- - ⏩ [`Video of a robot collapsing in a scene that seemed to fall from tiredness after a long day&#39;s work` - Don&#39;t let robots watch it](http://9gag.com/gag/aMEmo2V)
+ - ⏩ [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
  - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 ---
