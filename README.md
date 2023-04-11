@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s bringing its big fan event to the US for the first time](https://www.polygon.com/23678715/nintendo-live-2023-seattle)
- - [Al Jaffee, artist behind 50 years of Mad magazine Fold-Ins, dies at 102](https://www.polygon.com/23678674/al-jaffee-mad-magazine-obituary-fold-in)
- - [The Super Mario Bros. Movie’s opening rap is a big retro gag for ’80s kids](https://www.polygon.com/23677091/super-mario-bros-movie-80s-rap-commercial-easter-egg)<!-- GAME:END -->
+ - [Attack On Titan’s Secret Jaeger Basement Is Now In Fortnite](https://kotaku.com/fortnite-attack-on-titan-where-is-jaeger-basement-anime-1850323433)
+ - [Discord&#39;s upping its puny file upload size limit for all users](https://www.pcgamer.com/discords-upping-its-puny-file-upload-size-limit-for-all-users)
+ - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
