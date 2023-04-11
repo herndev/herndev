@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - ⏩ [Fascinating](http://9gag.com/gag/a6q9grq)
- - 👉 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
+ - 💣 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - ⏩ [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
+ - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
 
 ---
 
