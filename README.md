@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The combined HBO Max &amp; Discovery streaming service will be announced on April 12](https://appleinsider.com/articles/23/04/11/the-combined-hbo-max-discovery-streaming-service-will-be-announced-on-april-12?utm_medium=rss)
- - [Hulu error code p-dev320: What is it and how to fix it?](https://www.androidauthority.com/hulu-error-code-p-dev320-3310364/)
- - [Another Pegasus-like spyware tool called &#39;Reign&#39; was used to spy on iPhones](https://appleinsider.com/articles/23/04/11/another-pegasus-like-spyware-tool-called-reign-was-used-to-spy-on-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [New AirPods Firmware update pulled after Apple error [u]](https://appleinsider.com/articles/23/04/11/new-firmware-is-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
+ - [OpenAI partners with Bugcrowd to launch a bug bounty program, offering rewards from $200 to $20K but excluding some safety issues, like jailbreaks prompts &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230411/p26#a230411p26)
+ - [Get Apple&#39;s 1TB MacBook Pro 16-inch for $2,499 &lpar;$200 off&rpar;, plus $60 off AppleCare](https://appleinsider.com/articles/23/04/11/get-apples-1tb-macbook-pro-16-inch-for-2499-200-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
