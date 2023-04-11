@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ZeniMax promises &#39;a proper resolution&#39; after using Elder Scrolls Online fanart in a paid skin without permission](https://www.pcgamer.com/zenimax-promises-a-proper-resolution-after-using-elder-scrolls-online-fanart-in-a-paid-skin-without-permission)
- - [This game about &#39;confronting relationship trauma&#39; perfectly illustrates why it&#39;s a bad idea to date Draculae, lord of the vampires](https://www.pcgamer.com/el-paso-elsewhere-preview)
- - [Succession season 4 sets the board for life after Logan](https://www.polygon.com/23677767/succession-logan-death-episode)<!-- GAME:END -->
+ - [One-shot sniper rifles are returning to Warzone this week](https://www.pcgamer.com/one-shot-sniper-rifles-are-returning-to-warzone-this-week)
+ - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)
+ - [ZeniMax promises &#39;a proper resolution&#39; after using Elder Scrolls Online fanart in a paid skin without permission](https://www.pcgamer.com/zenimax-promises-a-proper-resolution-after-using-elder-scrolls-online-fanart-in-a-paid-skin-without-permission)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
