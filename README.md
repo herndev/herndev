@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues the second developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/04/11/apple-issues-the-second-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
- - [&#39;Baby Shark&#39; studio Pinkfong now has exclusive shows on Apple Podcasts](https://appleinsider.com/articles/23/04/11/baby-shark-studio-pinkfong-now-has-exclusive-shows-on-apple-podcasts?utm_medium=rss)
- - [Apple seeds second developer beta for macOS Ventura 13.4](https://appleinsider.com/articles/23/04/11/apple-seeds-second-developer-beta-for-macos-ventura-134?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Elon Musk is working on a new generative AI project at Twitter, recently buying ~10K GPUs, after poaching researchers from DeepMind in recent months &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/230411/p24#a230411p24)
+ - [8 best Mother&#39;s Day gift ideas for an Apple-loving mom in 2023](https://appleinsider.com/articles/23/04/11/8-best-mothers-day-gift-ideas-for-an-apple-loving-mom-in-2023?utm_medium=rss)
+ - [Google launches an app auto-archiving feature on Android, removing over 60% of an app&#39;s local data when the device is low on storage, catching up to iOS &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230411/p23#a230411p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
