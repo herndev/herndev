@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk is working on a new generative AI project at Twitter, recently buying ~10K GPUs, after poaching researchers from DeepMind in recent months &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/230411/p24#a230411p24)
- - [8 best Mother&#39;s Day gift ideas for an Apple-loving mom in 2023](https://appleinsider.com/articles/23/04/11/8-best-mothers-day-gift-ideas-for-an-apple-loving-mom-in-2023?utm_medium=rss)
- - [Google launches an app auto-archiving feature on Android, removing over 60% of an app&#39;s local data when the device is low on storage, catching up to iOS &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230411/p23#a230411p23)<!-- TECH:END -->
+ - [The combined HBO Max &amp; Discovery streaming service will be announced on April 12](https://appleinsider.com/articles/23/04/11/the-combined-hbo-max-discovery-streaming-service-will-be-announced-on-april-12?utm_medium=rss)
+ - [Hulu error code p-dev320: What is it and how to fix it?](https://www.androidauthority.com/hulu-error-code-p-dev320-3310364/)
+ - [Another Pegasus-like spyware tool called &#39;Reign&#39; was used to spy on iPhones](https://appleinsider.com/articles/23/04/11/another-pegasus-like-spyware-tool-called-reign-was-used-to-spy-on-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
