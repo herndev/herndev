@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music, iTunes, and News experienced outages [u]](https://appleinsider.com/articles/23/04/11/apple-music-itunes-and-news-are-experiencing-outages?utm_medium=rss)
- - [South Korea fines Google ~$32M for squeezing out a rival app store by allegedly asking Korean and Chinese firms to release games exclusively in the Play Store &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/230410/p21#a230410p21)
- - [Alibaba Cloud unveils its ChatGPT-style product Tongyi Qianwen and says it will roll out the AI chatbot into all products starting with DingTalk and Tmall Genie &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230410/p20#a230410p20)<!-- TECH:END -->
+ - [GoFundMe&#39;s former chairman and CEO Rob Solomon announces Kite, which will invest in digital-first consumer product brands, with $200M in equity funding &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230411/p3#a230411p3)
+ - [Internal email: Sydney-based MilkRun, which promised grocery delivery in 20 minutes or less and raised a A$75M Series A led by Tiger Global in 2022, is closing &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/230411/p2#a230411p2)
+ - [Apple says it will open Apple BKC in Mumbai on April 18, its first retail store in India, followed by Apple Saket in Delhi on April 20 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230411/p1#a230411p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
