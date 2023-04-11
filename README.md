@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - ⏩ [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - 👉 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)<!-- MEMES:END -->
+ - 💣 [Fascinating](http://9gag.com/gag/a6q9grq)
+ - ⏩ [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
+ - 👉 [The entire perspective...](http://9gag.com/gag/aREZnjQ)<!-- MEMES:END -->
 
 ---
 
