@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC orders a supplement maker to pay $600K in its first case on &quot;hijacked&quot; Amazon reviews, in which reviews of different products are misleadingly merged &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230410/p16#a230410p16)
  - [Best Solar Companies of 2023     - CNET](https://www.cnet.com/news/best-solar-companies/#ftag=CAD590a51e)
- - [Best TV Deals of 2023: Save Up to $1,500 on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Take up to $300 off Apple&#39;s latest MacBook Pro &amp; save big on Apple Watch, AirPods at Amazon](https://appleinsider.com/articles/23/04/10/take-up-to-300-off-apples-latest-macbook-pro-save-big-on-apple-watch-airpods-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Best TV Deals of 2023: Save Up to $1,500 on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
