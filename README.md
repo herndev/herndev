@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - ⏩ [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
+ - 💣 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - ⏩ [Superhero dress](http://9gag.com/gag/a7qexjz)
+ - 👉 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
 
 ---
 
