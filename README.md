@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - ⏩ [Superhero dress](http://9gag.com/gag/a7qexjz)
- - 👉 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
+ - 💣 [Superhero dress](http://9gag.com/gag/a7qexjz)
+ - ⏩ [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
+ - 👉 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)<!-- MEMES:END -->
 
 ---
 
