@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s fancy RT Overdrive graphics now live but only if you have a megabucks Nvidia GPU](https://www.pcgamer.com/cyberpunk-2077s-fancy-rt-overdrive-graphics-now-live-but-only-if-you-have-a-megabucks-nvidia-gpu)
- - [Discord Users Are Using The Soundboard Update To Troll Each Other, Like God Intended](https://kotaku.com/discord-soundboard-reaction-feature-update-voice-call-1850322759)
- - [Talk to Me trailer shows off this year’s scariest horror movie so far](https://www.polygon.com/23678028/talk-me-trailer-release-date-horror-a24)<!-- GAME:END -->
+ - [Nintendo’s bringing its big fan event to the US for the first time](https://www.polygon.com/23678715/nintendo-live-2023-seattle)
+ - [Al Jaffee, artist behind 50 years of Mad magazine Fold-Ins, dies at 102](https://www.polygon.com/23678674/al-jaffee-mad-magazine-obituary-fold-in)
+ - [The Super Mario Bros. Movie’s opening rap is a big retro gag for ’80s kids](https://www.polygon.com/23677091/super-mario-bros-movie-80s-rap-commercial-easter-egg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
