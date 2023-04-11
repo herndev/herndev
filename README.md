@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Hollywood insiders like Apple TV+ design, but have issues with content curation](https://appleinsider.com/articles/23/04/11/hollywood-insiders-like-apple-tv-design-but-have-issues-with-content-curation?utm_medium=rss)
- - [Microsoft fixes a Windows Defender bug, first reported in 2018, that caused Firefox to spike CPU usage, and rolls the patch out on Windows 10 and 11 &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/230411/p21#a230411p21)<!-- TECH:END -->
+ - [Apple issues the second developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/04/11/apple-issues-the-second-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
+ - [&#39;Baby Shark&#39; studio Pinkfong now has exclusive shows on Apple Podcasts](https://appleinsider.com/articles/23/04/11/baby-shark-studio-pinkfong-now-has-exclusive-shows-on-apple-podcasts?utm_medium=rss)
+ - [Apple seeds second developer beta for macOS Ventura 13.4](https://appleinsider.com/articles/23/04/11/apple-seeds-second-developer-beta-for-macos-ventura-134?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
