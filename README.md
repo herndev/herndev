@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With great power comes extra work](http://9gag.com/gag/aYVO5yq)
- - ⏩ [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
- - 👉 [An Idiot](http://9gag.com/gag/a6q90v2)<!-- MEMES:END -->
+ - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - ⏩ [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)
+ - 👉 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 ---
 
