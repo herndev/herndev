@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taiwan Air Force has new badges and they are hilarious. I definitely want one.](http://9gag.com/gag/az2PnZZ)
- - ⏩ [Just saying...](http://9gag.com/gag/aXnNBqD)
- - 👉 [Title](http://9gag.com/gag/a2K83eD)<!-- MEMES:END -->
+ - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - ⏩ [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)
+ - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
 
 ---
 
