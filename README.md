@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Controversial former Apple PR head Katie Cotton passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
- - [Katie Cotton, Apple&#39;s former VP of worldwide communications for 18 years, who mostly worked directly for Steve Jobs before retiring in 2014, died on April 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230410/p17#a230410p17)
- - [Best Open Wireless Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Court filing: Twitter Inc. was merged into X Corp. and no longer exists, and is part of parent firm X Holdings Corp.; both entities are registered in Nevada &lpar;Slate&rpar;](http://www.techmeme.com/230410/p18#a230410p18)
+ - [Former Apple PR head Katie Cotton passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
+ - [Katie Cotton, Apple&#39;s former VP of worldwide communications for 18 years, who mostly worked directly for Steve Jobs before retiring in 2014, died on April 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230410/p17#a230410p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
