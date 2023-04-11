@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HUAWEI brings its most unique-looking ANC earbuds to global markets](https://www.androidauthority.com/huawei-freebuds-5-europe-launch-3311372/)
- - [Google Messages gets a new trick to speed-up photo sharing](https://www.androidauthority.com/google-messages-send-photos-faster-3311370/)
- - [Samsung Galaxy Tab S9: Everything we know so far &lpar;Updated: Display surprise!&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
+ - [Cyber crooks can charge up to $20k to hack Android phones via Google Play Store](https://www.androidauthority.com/google-play-store-threats-3311385/)
+ - [In draft guidelines, the Cyberspace Administration of China details plans to require a security review of generative AI tools before their release &lpar;Bloomberg&rpar;](http://www.techmeme.com/230411/p7#a230411p7)
+ - [How a startup event in India dubbed the &quot;world&#39;s biggest funding festival&quot; plunged into chaos, with participants alleging they were lured with false promises &lpar;Meryl Sebastian/BBC&rpar;](http://www.techmeme.com/230411/p6#a230411p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
