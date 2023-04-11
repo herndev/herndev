@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC orders a supplement maker to pay $600K in its first case on &quot;hijacked&quot; Amazon reviews, in which reviews of different products are misleadingly merged &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230410/p16#a230410p16)
- - [Best Solar Companies of 2023     - CNET](https://www.cnet.com/news/best-solar-companies/#ftag=CAD590a51e)
- - [Best TV Deals of 2023: Save Up to $1,500 on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Controversial former Apple PR head Katie Cotton passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
+ - [Katie Cotton, Apple&#39;s former VP of worldwide communications for 18 years, who mostly worked directly for Steve Jobs before retiring in 2014, died on April 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230410/p17#a230410p17)
+ - [Best Open Wireless Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
