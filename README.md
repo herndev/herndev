@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lofi Girl is back, and she has a new friend](https://www.polygon.com/23677569/lofi-girl-missing-where-go)
- - [Lofi Girl didn’t disappear, she introduced Synthwave Boy](https://www.polygon.com/23679048/lofi-girl-disappeared-where-synthwave-radio-youtube)
- - [YouTube Freaks Out As Lofi Hip Hop Girl Disappears From Popular Stream [UPDATE]](https://kotaku.com/what-happened-to-lofi-girl-missing-youtube-livestream-1850323479)<!-- GAME:END -->
+ - [Elden Ring Modder Crammed Demon’s Souls’ Most Iconic Level Into Game](https://kotaku.com/elden-ring-demons-souls-pc-boletarian-palace-mod-patch-1850324453)
+ - [Dead Island 2 system requirements revealed](https://www.pcgamer.com/dead-island-2-pc-system-requirements)
+ - [Switch Shooter&#39;s Shutdown Has Xbox, PS5 Fans Happy They May Face Fewer Kids](https://kotaku.com/rogue-company-switch-version-shut-down-date-ps5-xbox-1850324180)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
