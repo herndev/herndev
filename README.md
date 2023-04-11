@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack On Titan’s Secret Jaeger Basement Is Now In Fortnite](https://kotaku.com/fortnite-attack-on-titan-where-is-jaeger-basement-anime-1850323433)
- - [Discord&#39;s upping its puny file upload size limit for all users](https://www.pcgamer.com/discords-upping-its-puny-file-upload-size-limit-for-all-users)
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)<!-- GAME:END -->
+ - [Genshin Impact Character Gets New Voice Actor After Sexual Harassment Allegations](https://kotaku.com/genshin-impact-elliot-gindi-tighnari-zachary-gordon-1850323804)
+ - [How to get the Attack on Titan Eren Jaeger skin in Fortnite](https://www.polygon.com/fortnite-guide/23678904/eren-jaeger-skin-outfit-quests-attack-titan-battle-pass)
+ - [Resident Evil: Death Island is the Avengers of Resident Evil movies](https://www.polygon.com/23678865/resident-evil-movie-death-island)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
