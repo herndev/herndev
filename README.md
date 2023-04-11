@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - ⏩ [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
- - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
+ - 💣 [With great power comes extra work](http://9gag.com/gag/aYVO5yq)
+ - ⏩ [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
+ - 👉 [An Idiot](http://9gag.com/gag/a6q90v2)<!-- MEMES:END -->
 
 ---
 
