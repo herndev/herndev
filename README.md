@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Premium users can now see ‘extra crisp’ videos compared to others](https://www.androidauthority.com/youtube-premium-higher-video-quality-3311334/)
  - [GoFundMe&#39;s former chairman and CEO Rob Solomon announces Kite, which will invest in digital-first consumer product brands, with $200M in equity funding &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230411/p3#a230411p3)
- - [Internal email: Sydney-based MilkRun, which promised grocery delivery in 20 minutes or less and raised a A$75M Series A led by Tiger Global in 2022, is closing &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/230411/p2#a230411p2)
- - [Apple says it will open Apple BKC in Mumbai on April 18, its first retail store in India, followed by Apple Saket in Delhi on April 20 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230411/p1#a230411p1)<!-- TECH:END -->
+ - [Alibaba&#39;s ChatGPT Rival to Offer Chinese and English Capabilities     - CNET](https://www.cnet.com/tech/alibabas-chatgpt-rival-to-offer-chinese-and-english-capabilities/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
