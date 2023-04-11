@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber crooks can charge up to $20k to hack Android phones via Google Play Store](https://www.androidauthority.com/google-play-store-threats-3311385/)
- - [In draft guidelines, the Cyberspace Administration of China details plans to require a security review of generative AI tools before their release &lpar;Bloomberg&rpar;](http://www.techmeme.com/230411/p7#a230411p7)
- - [How a startup event in India dubbed the &quot;world&#39;s biggest funding festival&quot; plunged into chaos, with participants alleging they were lured with false promises &lpar;Meryl Sebastian/BBC&rpar;](http://www.techmeme.com/230411/p6#a230411p6)<!-- TECH:END -->
+ - [Open-source LLMs are having a moment after the LLaMA leak and releases from Stanford and others, prompting debates over the pros and cons of open and closed AI &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/230411/p9#a230411p9)
+ - [Steve Jobs Archive releases &#39;Make Something Wonderful&#39; ebook](https://appleinsider.com/articles/23/04/11/steve-jobs-archive-releases-make-something-wonderful-ebook?utm_medium=rss)
+ - [Research: supporters of a separatist movement in Punjab, India, are using Twitter bots to promote violence, sharing content before Twitter&#39;s safety team can act &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230411/p8#a230411p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
