@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods Firmware update pulled after Apple error [u]](https://appleinsider.com/articles/23/04/11/new-firmware-is-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [OpenAI partners with Bugcrowd to launch a bug bounty program, offering rewards from $200 to $20K but excluding some safety issues, like jailbreaks prompts &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230411/p26#a230411p26)
- - [Get Apple&#39;s 1TB MacBook Pro 16-inch for $2,499 &lpar;$200 off&rpar;, plus $60 off AppleCare](https://appleinsider.com/articles/23/04/11/get-apples-1tb-macbook-pro-16-inch-for-2499-200-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [The best GameCube emulators for most platforms](https://www.androidauthority.com/best-gamecube-emulators-3311673/)
+ - [Google creates ‘experiment updates’ page to disclose changes to Bard](https://www.androidauthority.com/google-bard-updates-3311669/)
+ - [Artifact, the personalized news sharing app started by Instagram&#39;s co-founders, adds article comments and plans to give new profiles a public &quot;reputation score&quot; &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230411/p27#a230411p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
