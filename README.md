@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Adventures of Velma. if you know you know](http://9gag.com/gag/adPOD9D)
- - ⏩ [Damn son!](http://9gag.com/gag/aqe8EAR)
- - 👉 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
+ - 💣 [Comment section](http://9gag.com/gag/awZm9W4)
+ - ⏩ [`Video of a robot collapsing in a scene that seemed to fall from tiredness after a long day&#39;s work` - Don&#39;t let robots watch it](http://9gag.com/gag/aMEmo2V)
+ - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 ---
 
