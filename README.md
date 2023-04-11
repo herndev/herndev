@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Character Gets New Voice Actor After Sexual Harassment Allegations](https://kotaku.com/genshin-impact-elliot-gindi-tighnari-zachary-gordon-1850323804)
- - [How to get the Attack on Titan Eren Jaeger skin in Fortnite](https://www.polygon.com/fortnite-guide/23678904/eren-jaeger-skin-outfit-quests-attack-titan-battle-pass)
- - [Resident Evil: Death Island is the Avengers of Resident Evil movies](https://www.polygon.com/23678865/resident-evil-movie-death-island)<!-- GAME:END -->
+ - [Lofi Girl is back, and she has a new friend](https://www.polygon.com/23677569/lofi-girl-missing-where-go)
+ - [Lofi Girl didn’t disappear, she introduced Synthwave Boy](https://www.polygon.com/23679048/lofi-girl-disappeared-where-synthwave-radio-youtube)
+ - [YouTube Freaks Out As Lofi Hip Hop Girl Disappears From Popular Stream [UPDATE]](https://kotaku.com/what-happened-to-lofi-girl-missing-youtube-livestream-1850323479)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
