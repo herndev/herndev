@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9: Everything we know so far &lpar;Updated: Display surprise!&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Matt Taibbi&#39;s account, including the Twitter Files, appears to have been shadowbanned after a spat with Elon Musk, preventing users from searching his tweets &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230411/p5#a230411p5)
- - [April 2023 security patch lands on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
+ - [HUAWEI brings its most unique-looking ANC earbuds to global markets](https://www.androidauthority.com/huawei-freebuds-5-europe-launch-3311372/)
+ - [Google Messages gets a new trick to speed-up photo sharing](https://www.androidauthority.com/google-messages-send-photos-faster-3311370/)
+ - [Samsung Galaxy Tab S9: Everything we know so far &lpar;Updated: Display surprise!&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
