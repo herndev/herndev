@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evangelion Creator Can Finally Take A Damn Vacation](https://kotaku.com/evangelion-nge-hideaki-anno-shin-kamen-rider-ultraman-1850324928)
- - [A Bunch Of PlayStation And Xbox Games Just Got Steep Discounts](https://kotaku.com/ps5-xbox-mwii-dead-space-destiny-2-lightfall-cheap-sale-1850324835)
- - [Konami Employee Arrested For Allegedly Attempting To Murder His Former Boss](https://kotaku.com/konami-attempted-murder-fire-extinguisher-harassment-1850324907)<!-- GAME:END -->
+ - [The Next Resident Evil Movie Goes All Out And Fans Are Into The Absurdity](https://kotaku.com/resident-evil-death-island-new-trailer-leon-jill-re4-1850325305)
+ - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)
+ - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
