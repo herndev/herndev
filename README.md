@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY-based fintech startup Clear Street, building &quot;modern infrastructure&quot; for capital markets, raised $270M in the second tranche of a Series B at a $2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230411/p19#a230411p19)
- - [HidrateSpark Pro Lite review: Give your hydration habits a glow up](https://www.androidauthority.com/hidratespark-pro-lite-review-3309926/)
- - [Substack rolls out Notes, its Twitter-like service, to all users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230411/p18#a230411p18)<!-- TECH:END -->
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [Hollywood insiders like Apple TV+ design, but have issues with content curation](https://appleinsider.com/articles/23/04/11/hollywood-insiders-like-apple-tv-design-but-have-issues-with-content-curation?utm_medium=rss)
+ - [Microsoft fixes a Windows Defender bug, first reported in 2018, that caused Firefox to spike CPU usage, and rolls the patch out on Windows 10 and 11 &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/230411/p21#a230411p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
