@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xfinity vs. Verizon Fios: Which Should You Choose?     - CNET](https://www.cnet.com/news/comcast-xfinity-vs-verizon-fios/#ftag=CAD590a51e)
+ - [It’s now just Max: all of the news from Warner Bros. Discovery’s reveal event](https://www.theverge.com/2023/4/12/23680612/max-warner-bros-discovery-streaming-service-reveal-event-hbo)
  - [&#39;Max&#39; streaming service combines HBO Max &amp; Discovery+, launches May 23](https://appleinsider.com/articles/23/04/12/max-streaming-service-combines-hbo-max-discovery-launches-may-23?utm_medium=rss)
- - [Apple rolls out tvOS 16.4.1 and HomePod software version 16.4.1](https://appleinsider.com/articles/23/04/12/apple-rolls-out-tvos-1641-and-homepod-software-version-1641?utm_medium=rss)<!-- TECH:END -->
+ - [Love &amp; Translation is basically that Duolingo reality dating show minus the owl](https://www.theverge.com/23680607/love-translation-duolingo-tlc-max-hbo-reality-dating-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
