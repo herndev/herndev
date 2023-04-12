@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you thought it was time to kill Google Now Launcher](https://www.androidauthority.com/kill-google-now-launcher-poll-results-3311894/)
- - [Emails: UMG asked Spotify, Apple, and other services to block developers training AI services from scraping melodies and lyrics from their copyrighted songs &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230412/p10#a230412p10)
- - [Opera adds a free VPN with built-in adblocker to its iOS browser](https://appleinsider.com/articles/23/04/12/opera-adds-a-free-vpn-with-built-in-adblocker-to-its-ios-browser?utm_medium=rss)<!-- TECH:END -->
+ - [Warren Buffett has sold nearly all of his TSMC stock, citing geopolitical tensions](https://appleinsider.com/articles/23/04/12/warren-buffett-has-sold-nearly-all-of-his-tsmc-stock-citing-geopolitical-tensions?utm_medium=rss)
+ - [Sources say concerns over Mark Zuckerberg&#39;s efficiency drive, layoffs, Meta&#39;s absentee leadership, and focus on the metaverse have devastated employee morale &lpar;New York Times&rpar;](http://www.techmeme.com/230412/p12#a230412p12)
+ - [Concealer 1.3.5 review: Securely store your sensitive files on your Mac](https://appleinsider.com/articles/23/04/12/concealer-135-review-securely-store-your-sensitive-files-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
