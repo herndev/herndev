@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take a Peek at Slayer, the New Class in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2023/04/12/slayer-new-class-phantasy-star-online-2-new-genesis/)
- - [How to get the Udumbara Pistils in Genshin Impact 3.6](https://www.pcgamer.com/genshin-impact-udumbara-pistil-locations)
- - [John Wick prequel series The Continental gets a very ’70s teaser trailer](https://www.polygon.com/23680238/john-wick-the-continental-teaser-trailer)<!-- GAME:END -->
+ - [Crafting a Replayable Murder Mystery in Murderous Muses](https://news.xbox.com/en-us/2023/04/12/crafting-murderous-muses-on-xbox/)
+ - [HTC Vive XR Elite](https://www.pcgamer.com/htc-vive-xr-elite-review)
+ - [PNY RTX 4070 Verto](https://www.pcgamer.com/pny-geforce-rtx-4070-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
