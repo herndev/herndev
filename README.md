@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi raised an undisclosed amount from Sony Semiconductor Solutions at a $500M valuation, the same valuation as its $45M raise in 2021, to work on AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230412/p8#a230412p8)
- - [A profile of Andy Hunter and his ecommerce platform Bookshop.org, which helps indie booksellers set up a digital storefront instead of selling through Amazon &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230412/p7#a230412p7)
- - [Google says Fitbit account migration is starting this summer](https://www.androidauthority.com/google-fitbit-account-migration-3311828/)<!-- TECH:END -->
+ - [You told us: Most of you thought it was time to kill Google Now Launcher](https://www.androidauthority.com/kill-google-now-launcher-poll-results-3311894/)
+ - [Emails: UMG asked Spotify, Apple, and other services to block developers training AI services from scraping melodies and lyrics from their copyrighted songs &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230412/p10#a230412p10)
+ - [Opera adds a free VPN with built-in adblocker to its iOS browser](https://appleinsider.com/articles/23/04/12/opera-adds-a-free-vpn-with-built-in-adblocker-to-its-ios-browser?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
