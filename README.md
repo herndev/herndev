@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: global VC funding for crypto startups fell to $2.4B in Q1 2023, down 80% from an all-time high of $12.3B in Q1 2022 and the lowest level since 2020 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230412/p13#a230412p13)
- - [Some Xiaomi phones now have 3 &lpar;!&rpar; pre-installed web browsers](https://www.androidauthority.com/xiaomi-bloatware-miui-3-browsers-3311934/)
- - [Garmin’s Instinct 2X Solar series lights up the lineup &lpar;in more ways than one&rpar;](https://www.androidauthority.com/garmin-instinct-2x-solar-series-announcement-3311751/)<!-- TECH:END -->
+ - [Pixelmator Photo gets renamed Photomator, adds AI features](https://appleinsider.com/articles/23/04/12/pixelmator-photo-gets-renamed-photomator-adds-ai-features?utm_medium=rss)
+ - [Body Horror in the Age of Instagram Face](https://www.wired.com/story/goopcore-body-horror-age-of-instagram-face/)
+ - [It’s Time to Stop Arresting People for Trolling the Government](https://www.wired.com/story/free-speech-internet-first-amendment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
