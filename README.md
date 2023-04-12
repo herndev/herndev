@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
- - ⏩ [She just knows](http://9gag.com/gag/aZDw6A3)
- - 👉 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)<!-- MEMES:END -->
+ - 💣 [Katheryn Winnick](http://9gag.com/gag/aMEmLNX)
+ - ⏩ [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
+ - 👉 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 ---
 
