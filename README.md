@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 Tips That Will Help You Master Lifeweaver In Overwatch 2](https://kotaku.com/lifeweaver-overwatch-2-tips-best-hero-combos-life-grip-1850329178)
- - [Where to buy the Nvidia RTX 4070](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)
- - [Valve is about to slash the file sizes of the Steam Deck&#39;s SSD-hogging shader caches in half](https://www.pcgamer.com/valve-is-about-to-slash-the-file-sizes-of-the-steam-decks-ssd-hogging-shader-caches-in-half)<!-- GAME:END -->
+ - [How to play the Kory Drums in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23680730/kory-drums-score-play-normal-plunge-attack-half-full-empty)
+ - [How to unlock the Amrita Pool in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23680769/amrita-pool-unlock-location-plumes-purifying-light)
+ - [Grab 14 &lpar;Mostly&rpar; Good Star Wars Games For $21](https://kotaku.com/star-wars-pc-games-steam-sale-bundle-jedi-knight-kotor-1850329676)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
