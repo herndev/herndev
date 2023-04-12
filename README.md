@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after Twitch cut ~15% of the staff who policed abusive or illegal content and folded an AI ethics team, ex-staffers worry content moderation will slip &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230411/p28#a230411p28)
- - [The best GameCube emulators for most platforms](https://www.androidauthority.com/best-gamecube-emulators-3311673/)
- - [Google creates ‘experiment updates’ page to disclose changes to Bard](https://www.androidauthority.com/google-bard-updates-3311669/)<!-- TECH:END -->
+ - [Customs data: Russia imported $570M worth of US chips from Hong Kong and mainland China from February 24, 2022 to December 31, 2022, despite US sanctions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230411/p29#a230411p29)
+ - [Best Android Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
