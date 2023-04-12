@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Pentagon Documents May Herald a New Era of Revelations](https://www.wired.com/story/leaked-pentagon-documents-ukraine-discord/)
- - [Filings: SoftBank has sold ~$7.2B worth of Alibaba shares in 2023, reducing its stake in the Chinese company to just 3.8%, after a record $29B selldown in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p31#a230412p31)
- - [Deal: Save 85% on Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)<!-- TECH:END -->
+ - [FTX&#39;s attorneys say the company recovered $7.3B in liquid assets and is considering using creditors&#39; holdings to reopen the exchange; FTX&#39;s FTT token jumps 70%+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230412/p34#a230412p34)
+ - [Google releases Android 14 Beta 1 for Pixel devices, with sharesheet custom actions, a more prominent back arrow, per-app language preferences, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230412/p33#a230412p33)
+ - [The Pixel 8’s display could be even smaller than expected](https://www.androidauthority.com/pixel-8-size-3312316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
