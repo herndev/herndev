@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Test shows Galaxy S23 series has much slower wireless charging than S22](https://www.androidauthority.com/samsung-galaxy-s23-slower-wireless-charging-test-3311824/)
- - [Sources: a16z, Tiger Global, IVP, and other VCs are touring Saudi Arabia, the UAE, and Qatar to build ties with sovereign wealth funds during the funding crunch &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p6#a230412p6)
- - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)<!-- TECH:END -->
+ - [Raspberry Pi raised an undisclosed amount from Sony Semiconductor Solutions at a $500M valuation, the same valuation as its $45M raise in 2021, to work on AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230412/p8#a230412p8)
+ - [A profile of Andy Hunter and his ecommerce platform Bookshop.org, which helps indie booksellers set up a digital storefront instead of selling through Amazon &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230412/p7#a230412p7)
+ - [Google says Fitbit account migration is starting this summer](https://www.androidauthority.com/google-fitbit-account-migration-3311828/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
