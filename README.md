@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s now just Max: all of the news from Warner Bros. Discovery’s reveal event](https://www.theverge.com/2023/4/12/23680612/max-warner-bros-discovery-streaming-service-reveal-event-hbo)
- - [&#39;Max&#39; streaming service combines HBO Max &amp; Discovery+, launches May 23](https://appleinsider.com/articles/23/04/12/max-streaming-service-combines-hbo-max-discovery-launches-may-23?utm_medium=rss)
- - [Love &amp; Translation is basically that Duolingo reality dating show minus the owl](https://www.theverge.com/23680607/love-translation-duolingo-tlc-max-hbo-reality-dating-show)<!-- TECH:END -->
+ - [The stocks of Apple suppliers Cirrus Logic and AAC fall 12%+ and 14%+, respectively, after Ming-Chi Kuo said iPhone 15 Pro models won&#39;t have solid-state buttons &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230412/p28#a230412p28)
+ - [Twitter changes the label on the main BBC account to &quot;Publicly funded media&quot; from &quot;Government Funded Media&quot;, after the broadcaster called the label inaccurate &lpar;Paul Glynn/BBC&rpar;](http://www.techmeme.com/230412/p27#a230412p27)
+ - [Max is charging more money for 4K, and that means it can’t suck this time](https://www.theverge.com/2023/4/12/23680672/max-hbo-4k-hdr-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
