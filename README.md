@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)
- - [In a Twitter Space, Elon Musk said Twitter is roughly breaking even, the company will tweak the state-affiliated media tag, most advertisers are back, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230412/p5#a230412p5)
- - [A US jury finds the former CEO, CFO, and president of digital pharma ad firm Outcome Health guilty of running a ~$1B scheme that defrauded clients and investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230412/p4#a230412p4)<!-- TECH:END -->
+ - [Test shows Galaxy S23 series has much slower wireless charging than S22](https://www.androidauthority.com/samsung-galaxy-s23-slower-wireless-charging-test-3311824/)
+ - [Sources: a16z, Tiger Global, IVP, and other VCs are touring Saudi Arabia, the UAE, and Qatar to build ties with sovereign wealth funds during the funding crunch &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p6#a230412p6)
+ - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
