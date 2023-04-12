@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [WTF](http://9gag.com/gag/abvOjw8)
- - ⏩ [Pretty much](http://9gag.com/gag/aXnVZmD)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9q5j30)<!-- MEMES:END -->
+ - ⏩ [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
+ - 👉 [Understanding women 101](http://9gag.com/gag/aA0KBER)<!-- MEMES:END -->
 
 ---
 
