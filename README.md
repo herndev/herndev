@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Penguin trailer heralds the new king of Gotham](https://www.polygon.com/23680583/penguin-trailer-teaser-colin-farrell-dc-studios-batman)
- - [America cements Super Mario Bros. theme as part of nation’s history](https://www.polygon.com/23680292/super-mario-bros-theme-national-recording-registry-library-of-congress-koji-kondo)
- - [Diablo IV Will Release Story Updates Every Three Months](https://kotaku.com/diablo-iv-4-update-patch-story-expansion-battle-pass-1850328097)<!-- GAME:END -->
+ - [Genshin Impact ‘Awakening’s Real Sound’ Kory Drum locations](https://www.polygon.com/genshin-impact-guides/23680229/kory-drum-locations-awakenings-real-sound)
+ - [The rebooted Harry Potter show is official, and it’s set to  run 10 years](https://www.polygon.com/23680688/harry-potter-show-max-hbo-jk-rowling-cast-seasons)
+ - [Game of Thrones prequel The Hedge Knight is officially coming to HBO](https://www.polygon.com/23680618/game-of-thrones-hedge-knight-dunk-egg-series-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
