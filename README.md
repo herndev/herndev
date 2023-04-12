@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Recent autonomous vehicle snafus in San Francisco include five Waymo cars jamming an intersection and Cruise recalling software last week after an AV hit a bus &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/230411/p33#a230411p33)
  - [iPhone 15 Pro won&#39;t be getting solid-state buttons due to technical issues](https://appleinsider.com/articles/23/04/12/iphone-15-pro-wont-be-getting-solid-state-buttons-due-to-technical-issues?utm_medium=rss)
- - [Kaspersky: malware developers are selling malicious Google Play loaders for $2K-$20K on hacker forums; the average price for a loader is $6,975 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230411/p32#a230411p32)
- - [Google Maps Updates Aim to Make Your National Park Visit Easier to Navigate     - CNET](https://www.cnet.com/tech/mobile/google-maps-updates-aim-to-make-your-national-park-visit-easier-to-navigate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kaspersky: malware developers are selling malicious Google Play loaders for $2K-$20K on hacker forums; the average price for a loader is $6,975 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230411/p32#a230411p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
