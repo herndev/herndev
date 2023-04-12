@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia-based Fivecast, whose AI-powered software can help companies and governments monitor potential threats, raised a ~$20M Series A led by Ten Eleven &lpar;Joseph Brookes/InnovationAus.com&rpar;](http://www.techmeme.com/230411/p31#a230411p31)
- - [Microsoft releases 97 security fixes, patching one actively exploited zero-day flaw in the Windows Common Log File System and seven critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230411/p30#a230411p30)
- - [Customs data: Russia imported $570M worth of US chips from Hong Kong and mainland China from February 24, 2022 to December 31, 2022, despite US sanctions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230411/p29#a230411p29)<!-- TECH:END -->
+ - [Kaspersky: malware developers are selling malicious Google Play loaders for $2K-$20K on hacker forums; the average price for a loader is $6,975 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230411/p32#a230411p32)
+ - [Google Maps Updates Aim to Make Your National Park Visit Easier to Navigate     - CNET](https://www.cnet.com/tech/mobile/google-maps-updates-aim-to-make-your-national-park-visit-easier-to-navigate/#ftag=CAD590a51e)
+ - [New AirPods Firmware update returns after Apple error [u]](https://appleinsider.com/articles/23/04/11/new-firmware-is-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
