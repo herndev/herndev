@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/abvOjw8)
- - ⏩ [It really do be like that](http://9gag.com/gag/aXnNDWV)
- - 👉 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)<!-- MEMES:END -->
+ - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - ⏩ [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 👉 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)<!-- MEMES:END -->
 
 ---
 
