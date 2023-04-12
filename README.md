@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 4070 Founders Edition](https://www.pcgamer.com/nvidia-rtx-4070-review-benchmarks-performance)
- - [You can relax, yes there will be a fifth Trine game](https://www.polygon.com/23680038/trine-5-release-date-trailer)
- - [Some of the first non-bugfix mods for The Last of Us give Joel and Ellie a wardrobe worthy of Hot Topic](https://www.pcgamer.com/some-of-the-first-non-bugfix-mods-for-the-last-of-us-give-joel-and-ellie-a-wardrobe-worthy-of-hot-topic)<!-- GAME:END -->
+ - [Nvidia announces the RTX 4070, a somewhat reasonably priced desktop GPU](https://www.polygon.com/23680115/nvidia-rtx-4070-desktop-gpu-price-release-date-specs)
+ - [Fans Are Already Revolting Against AI That Make Their Games Feel Cheap And Soulless](https://kotaku.com/netease-tencent-hoyoverse-ai-midjourney-dall-e-1850327012)
+ - [AI-driven NPCs are living lives and planning parties all on their own](https://www.pcgamer.com/autonomous-ai-npcs-are-here-and-theyre-planning-parties)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
