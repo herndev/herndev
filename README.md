@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crafting a Replayable Murder Mystery in Murderous Muses](https://news.xbox.com/en-us/2023/04/12/crafting-murderous-muses-on-xbox/)
- - [HTC Vive XR Elite](https://www.pcgamer.com/htc-vive-xr-elite-review)
- - [PNY RTX 4070 Verto](https://www.pcgamer.com/pny-geforce-rtx-4070-review-benchmarks-performance)<!-- GAME:END -->
+ - [The Penguin trailer heralds the new king of Gotham](https://www.polygon.com/23680583/penguin-trailer-teaser-colin-farrell-dc-studios-batman)
+ - [America cements Super Mario Bros. theme as part of nation’s history](https://www.polygon.com/23680292/super-mario-bros-theme-national-recording-registry-library-of-congress-koji-kondo)
+ - [Diablo IV Will Release Story Updates Every Three Months](https://kotaku.com/diablo-iv-4-update-patch-story-expansion-battle-pass-1850328097)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
