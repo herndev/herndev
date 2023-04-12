@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)
- - [Blast-from-the-past FPS Warhammer 40,000: Boltgun gets a release date](https://www.pcgamer.com/blast-from-the-past-fps-warhammer-40000-boltgun-gets-a-release-date)
- - [Build a big city &lpar;that fits on a small table&rpar; in this cute card-based city builder](https://www.pcgamer.com/build-a-big-city-that-fits-on-a-small-table-in-this-cute-card-based-city-builder)<!-- GAME:END -->
+ - [Frostpunk: The Board Game: The Kotaku Review](https://kotaku.com/frostpunk-board-game-review-impressions-kickstarter-1850306356)
+ - [Game Of Thrones Is Coming To Crusader Kings III](https://kotaku.com/game-of-thrones-crusader-kings-iii-3-agot-mod-pc-ck3-1850325908)
+ - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
