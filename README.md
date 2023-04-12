@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Super Mario Bros. Movie&#39; Will Be Impossible to Beat](https://www.wired.com/story/super-mario-bros-movie-future-video-games-movies/)
- - [NYC-based Cybersyn, a data-as-a-service startup that aims to make economic data more accessible, emerges from stealth with a $62.9M Series A led by Snowflake &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230412/p29#a230412p29)
- - [Android 14’s first beta introduces a back arrow that matches your background](https://www.theverge.com/2023/4/12/23680037/android-14-beta-announcement-google-app-navigation-back-arrow)<!-- TECH:END -->
+ - [Leaked Pentagon Documents May Herald a New Era of Revelations](https://www.wired.com/story/leaked-pentagon-documents-ukraine-discord/)
+ - [Filings: SoftBank has sold ~$7.2B worth of Alibaba shares in 2023, reducing its stake in the Chinese company to just 3.8%, after a record $29B selldown in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p31#a230412p31)
+ - [Deal: Save 85% on Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
