@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
- - ⏩ [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
- - 👉 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)<!-- MEMES:END -->
+ - 💣 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
+ - ⏩ [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - 👉 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
 
 ---
 
