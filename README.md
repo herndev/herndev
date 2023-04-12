@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Farworld Pioneers: an Open World, Sci-fi Sandbox](https://news.xbox.com/en-us/2023/04/12/farworld-pioneers-open-world-sci-fi-sandbox/)
- - [Watch As Dark Souls Players Break The Game’s AI In Stunning Ways](https://kotaku.com/dark-souls-ai-break-speedrun-exploit-equipment-menu-1850330088)
- - [Minecraft’s ‘suspicious stew’ flavor is coming to a potato chip near you](https://www.polygon.com/23680950/minecraft-suspicious-stew-pringles-release-date)<!-- GAME:END -->
+ - [Redfall will only do 30 fps on Xbox consoles, and people are starting to worry](https://www.pcgamer.com/redfall-will-only-do-30-fps-on-xbox-consoles-and-people-are-starting-to-worry)
+ - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)
+ - [Video Games Are Dominating TV And Film Right Now](https://kotaku.com/super-mario-bros-movie-the-last-of-us-hbo-max-1850330236)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
