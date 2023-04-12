@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official ASUS ROG Phone 7 series images leak ahead of launch](https://www.androidauthority.com/asus-rog-phone-7-3312112/)
- - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
- - [Xbox’s new energy-saving power options roll out this week](https://www.theverge.com/2023/4/12/23680336/xbox-energy-saving-power-options-launch-microsoft)<!-- TECH:END -->
+ - [Xfinity vs. Verizon Fios: Which Should You Choose?     - CNET](https://www.cnet.com/news/comcast-xfinity-vs-verizon-fios/#ftag=CAD590a51e)
+ - [&#39;Max&#39; streaming service combines HBO Max &amp; Discovery+, launches May 23](https://appleinsider.com/articles/23/04/12/max-streaming-service-combines-hbo-max-discovery-launches-may-23?utm_medium=rss)
+ - [Apple rolls out tvOS 16.4.1 and HomePod software version 16.4.1](https://appleinsider.com/articles/23/04/12/apple-rolls-out-tvos-1641-and-homepod-software-version-1641?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
