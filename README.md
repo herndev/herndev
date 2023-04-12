@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD trash talks Nvidia for not giving gamers enough VRAM](https://www.pcgamer.com/amd-trash-talks-nvidia-for-not-giving-gamers-enough-vram)
- - [Lucasfilm wanted Jedi: Fallen Order to be a shooter featuring a bounty hunter or smuggler](https://www.pcgamer.com/lucasfilm-wanted-jedi-fallen-order-to-be-a-shooter-featuring-a-bounty-hunter-or-smuggler)
- - [Forget the Dead Space Remake, this free PS1 demake is the true retelling of Isaac Clarke&#39;s story](https://www.pcgamer.com/forget-the-dead-space-remake-this-free-ps1-demake-is-the-true-retelling-of-isaac-clarkes-story)<!-- GAME:END -->
+ - [Nvidia RTX 4070 Founders Edition](https://www.pcgamer.com/nvidia-rtx-4070-review-benchmarks-performance)
+ - [You can relax, yes there will be a fifth Trine game](https://www.polygon.com/23680038/trine-5-release-date-trailer)
+ - [Some of the first non-bugfix mods for The Last of Us give Joel and Ellie a wardrobe worthy of Hot Topic](https://www.pcgamer.com/some-of-the-first-non-bugfix-mods-for-the-last-of-us-give-joel-and-ellie-a-wardrobe-worthy-of-hot-topic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
