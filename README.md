@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - ⏩ [A person with tourette is doing an interview job](http://9gag.com/gag/aoKVv40)
- - 👉 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)<!-- MEMES:END -->
+ - 💣 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - ⏩ [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)
+ - 👉 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 ---
 
