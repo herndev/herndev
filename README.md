@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warren Buffett has sold nearly all of his TSMC stock, citing geopolitical tensions](https://appleinsider.com/articles/23/04/12/warren-buffett-has-sold-nearly-all-of-his-tsmc-stock-citing-geopolitical-tensions?utm_medium=rss)
- - [Sources say concerns over Mark Zuckerberg&#39;s efficiency drive, layoffs, Meta&#39;s absentee leadership, and focus on the metaverse have devastated employee morale &lpar;New York Times&rpar;](http://www.techmeme.com/230412/p12#a230412p12)
- - [Concealer 1.3.5 review: Securely store your sensitive files on your Mac](https://appleinsider.com/articles/23/04/12/concealer-135-review-securely-store-your-sensitive-files-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [PitchBook: global VC funding for crypto startups fell to $2.4B in Q1 2023, down 80% from an all-time high of $12.3B in Q1 2022 and the lowest level since 2020 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230412/p13#a230412p13)
+ - [Some Xiaomi phones now have 3 &lpar;!&rpar; pre-installed web browsers](https://www.androidauthority.com/xiaomi-bloatware-miui-3-browsers-3311934/)
+ - [Garmin’s Instinct 2X Solar series lights up the lineup &lpar;in more ways than one&rpar;](https://www.androidauthority.com/garmin-instinct-2x-solar-series-announcement-3311751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
