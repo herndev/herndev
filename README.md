@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Resident Evil Movie Goes All Out And Fans Are Into The Absurdity](https://kotaku.com/resident-evil-death-island-new-trailer-leon-jill-re4-1850325305)
- - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)
- - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)<!-- GAME:END -->
+ - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)
+ - [Blast-from-the-past FPS Warhammer 40,000: Boltgun gets a release date](https://www.pcgamer.com/blast-from-the-past-fps-warhammer-40000-boltgun-gets-a-release-date)
+ - [Build a big city &lpar;that fits on a small table&rpar; in this cute card-based city builder](https://www.pcgamer.com/build-a-big-city-that-fits-on-a-small-table-in-this-cute-card-based-city-builder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
