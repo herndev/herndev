@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
- - ⏩ [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - 👉 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
+ - 💣 [We have gone too far](http://9gag.com/gag/aBdLp4A)
+ - ⏩ [Now this was wholesome.](http://9gag.com/gag/aNwvxXG)
+ - 👉 [A challenger approaches](http://9gag.com/gag/aA0EnLd)<!-- MEMES:END -->
 
 ---
 
