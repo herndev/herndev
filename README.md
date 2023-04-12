@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - ⏩ [WTF](http://9gag.com/gag/abvOjw8)
- - 👉 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)<!-- MEMES:END -->
+ - 💣 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - ⏩ [`Somehow, Rey got pregnant.`](http://9gag.com/gag/aEqVmAN)
+ - 👉 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)<!-- MEMES:END -->
 
 ---
 
