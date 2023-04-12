@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have gone too far](http://9gag.com/gag/aBdLp4A)
- - ⏩ [Now this was wholesome.](http://9gag.com/gag/aNwvxXG)
- - 👉 [A challenger approaches](http://9gag.com/gag/aA0EnLd)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/abvOjw8)
+ - ⏩ [It really do be like that](http://9gag.com/gag/aXnNDWV)
+ - 👉 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)<!-- MEMES:END -->
 
 ---
 
