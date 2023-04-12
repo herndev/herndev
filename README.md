@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sherlock Holmes: The Awakened review](https://www.pcgamer.com/sherlock-holmes-the-awakened-review)
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)<!-- GAME:END -->
+ - [AMD trash talks Nvidia for not giving gamers enough VRAM](https://www.pcgamer.com/amd-trash-talks-nvidia-for-not-giving-gamers-enough-vram)
+ - [Lucasfilm wanted Jedi: Fallen Order to be a shooter featuring a bounty hunter or smuggler](https://www.pcgamer.com/lucasfilm-wanted-jedi-fallen-order-to-be-a-shooter-featuring-a-bounty-hunter-or-smuggler)
+ - [Forget the Dead Space Remake, this free PS1 demake is the true retelling of Isaac Clarke&#39;s story](https://www.pcgamer.com/forget-the-dead-space-remake-this-free-ps1-demake-is-the-true-retelling-of-isaac-clarkes-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
