@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customs data: Russia imported $570M worth of US chips from Hong Kong and mainland China from February 24, 2022 to December 31, 2022, despite US sanctions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230411/p29#a230411p29)
- - [Best Android Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia-based Fivecast, whose AI-powered software can help companies and governments monitor potential threats, raised a ~$20M Series A led by Ten Eleven &lpar;Joseph Brookes/InnovationAus.com&rpar;](http://www.techmeme.com/230411/p31#a230411p31)
+ - [Microsoft releases 97 security fixes, patching one actively exploited zero-day flaw in the Windows Common Log File System and seven critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230411/p30#a230411p30)
+ - [Customs data: Russia imported $570M worth of US chips from Hong Kong and mainland China from February 24, 2022 to December 31, 2022, despite US sanctions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230411/p29#a230411p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
