@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia announces the RTX 4070, a somewhat reasonably priced desktop GPU](https://www.polygon.com/23680115/nvidia-rtx-4070-desktop-gpu-price-release-date-specs)
- - [Fans Are Already Revolting Against AI That Make Their Games Feel Cheap And Soulless](https://kotaku.com/netease-tencent-hoyoverse-ai-midjourney-dall-e-1850327012)
- - [AI-driven NPCs are living lives and planning parties all on their own](https://www.pcgamer.com/autonomous-ai-npcs-are-here-and-theyre-planning-parties)<!-- GAME:END -->
+ - [The Xbox April Update is Rolling Out Soon](https://news.xbox.com/en-us/2023/04/12/xbox-april-2023-update-available-today/)
+ - [Last of Us Part 1 patches add HBO shirts on PS5, hotfix on PC](https://www.polygon.com/23680226/the-last-of-us-t-shirt-ellie-the-wire-hbo-mortal-kombat)
+ - [CS:GO player destroys entire opposing team with single &#39;one in f**king billions&#39; miracle shot](https://www.pcgamer.com/csgo-player-destroys-entire-opposing-team-with-single-one-in-fking-billions-miracle-shot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
