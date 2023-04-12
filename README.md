@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mama mia](http://9gag.com/gag/ap9DWQ5)
- - ⏩ [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 👉 [It might rain tomorrow](http://9gag.com/gag/a5XB4BG)<!-- MEMES:END -->
+ - 💣 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
+ - ⏩ [She just knows](http://9gag.com/gag/aZDw6A3)
+ - 👉 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)<!-- MEMES:END -->
 
 ---
 
