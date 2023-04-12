@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Photo gets renamed Photomator, adds AI features](https://appleinsider.com/articles/23/04/12/pixelmator-photo-gets-renamed-photomator-adds-ai-features?utm_medium=rss)
- - [Body Horror in the Age of Instagram Face](https://www.wired.com/story/goopcore-body-horror-age-of-instagram-face/)
- - [It’s Time to Stop Arresting People for Trolling the Government](https://www.wired.com/story/free-speech-internet-first-amendment/)<!-- TECH:END -->
+ - [Nvidia RTX 4070 review: the most affordable RTX 40-series GPU yet at $599 with solid 1440p performance, but only 12GB of VRAM and struggles with 4K gaming &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230412/p19#a230412p19)
+ - [Intel Foundry Services partners with Arm to build low-power SoCs, giving customers using Arm&#39;s designs access to Intel&#39;s A18 process to make their chips &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230412/p18#a230412p18)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Apr. 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-12-2023-3311030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
