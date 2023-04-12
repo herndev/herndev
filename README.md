@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s plans to ‘unbutton’ the iPhone 15 Pro may have been derailed](https://www.androidauthority.com/apple-iphone-15-pro-solid-state-buttons-canceled-3311812/)
- - [Q&amp;A with Alondra Nelson, former deputy director of Biden&#39;s OSTP who spearheaded the White House&#39;s AI Bill of Rights effort, on AI policy challenge and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/230412/p2#a230412p2)
- - [The Xiaomi 13 Ultra is officially launching next week](https://www.androidauthority.com/xiaomi-13-ultra-launch-date-3309503/)<!-- TECH:END -->
+ - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)
+ - [In a Twitter Space, Elon Musk said Twitter is roughly breaking even, the company will tweak the state-affiliated media tag, most advertisers are back, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230412/p5#a230412p5)
+ - [A US jury finds the former CEO, CFO, and president of digital pharma ad firm Outcome Health guilty of running a ~$1B scheme that defrauded clients and investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230412/p4#a230412p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
