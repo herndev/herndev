@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people may not be quite as addicted to iPhone as assumed](https://appleinsider.com/articles/23/04/12/young-people-may-not-be-quite-as-addicted-to-iphone-as-assumed?utm_medium=rss)
- - [Latest Windows 11 update will change what your Print Screen key does](https://www.androidauthority.com/windows-11-print-screen-3312033/)
- - [NPR &quot;will no longer be active on Twitter&quot; after the social network took &quot;actions that undermine our credibility&quot; by implying NPR is not editorially independent &lpar;New York Times&rpar;](http://www.techmeme.com/230412/p22#a230412p22)<!-- TECH:END -->
+ - [Official ASUS ROG Phone 7 series images leak ahead of launch](https://www.androidauthority.com/asus-rog-phone-7-3312112/)
+ - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
+ - [Xbox’s new energy-saving power options roll out this week](https://www.theverge.com/2023/4/12/23680336/xbox-energy-saving-power-options-launch-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
