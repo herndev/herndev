@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #662: Wednesday, April 12](https://www.pcgamer.com/wordle-hint-answer-today-662-april-12)
  - [Frostpunk: The Board Game: The Kotaku Review](https://kotaku.com/frostpunk-board-game-review-impressions-kickstarter-1850306356)
- - [Game Of Thrones Is Coming To Crusader Kings III](https://kotaku.com/game-of-thrones-crusader-kings-iii-3-agot-mod-pc-ck3-1850325908)
- - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)<!-- GAME:END -->
+ - [Game Of Thrones Is Coming To Crusader Kings III](https://kotaku.com/game-of-thrones-crusader-kings-iii-3-agot-mod-pc-ck3-1850325908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
