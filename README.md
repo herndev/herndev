@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play the Kory Drums in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23680730/kory-drums-score-play-normal-plunge-attack-half-full-empty)
- - [How to unlock the Amrita Pool in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23680769/amrita-pool-unlock-location-plumes-purifying-light)
- - [Grab 14 &lpar;Mostly&rpar; Good Star Wars Games For $21](https://kotaku.com/star-wars-pc-games-steam-sale-bundle-jedi-knight-kotor-1850329676)<!-- GAME:END -->
+ - [Introducing Farworld Pioneers: an Open World, Sci-fi Sandbox](https://news.xbox.com/en-us/2023/04/12/farworld-pioneers-open-world-sci-fi-sandbox/)
+ - [Watch As Dark Souls Players Break The Game’s AI In Stunning Ways](https://kotaku.com/dark-souls-ai-break-speedrun-exploit-equipment-menu-1850330088)
+ - [Minecraft’s ‘suspicious stew’ flavor is coming to a potato chip near you](https://www.polygon.com/23680950/minecraft-suspicious-stew-pringles-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
