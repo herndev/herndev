@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox April Update is Rolling Out Soon](https://news.xbox.com/en-us/2023/04/12/xbox-april-2023-update-available-today/)
- - [Last of Us Part 1 patches add HBO shirts on PS5, hotfix on PC](https://www.polygon.com/23680226/the-last-of-us-t-shirt-ellie-the-wire-hbo-mortal-kombat)
- - [CS:GO player destroys entire opposing team with single &#39;one in f**king billions&#39; miracle shot](https://www.pcgamer.com/csgo-player-destroys-entire-opposing-team-with-single-one-in-fking-billions-miracle-shot)<!-- GAME:END -->
+ - [Take a Peek at Slayer, the New Class in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2023/04/12/slayer-new-class-phantasy-star-online-2-new-genesis/)
+ - [How to get the Udumbara Pistils in Genshin Impact 3.6](https://www.pcgamer.com/genshin-impact-udumbara-pistil-locations)
+ - [John Wick prequel series The Continental gets a very ’70s teaser trailer](https://www.polygon.com/23680238/john-wick-the-continental-teaser-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
