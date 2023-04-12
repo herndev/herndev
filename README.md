@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Katheryn Winnick](http://9gag.com/gag/aMEmLNX)
- - ⏩ [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
- - 👉 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
+ - 💣 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
+ - ⏩ [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 👉 [Now this was wholesome.](http://9gag.com/gag/aNwvxXG)<!-- MEMES:END -->
 
 ---
 
