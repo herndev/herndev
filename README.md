@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The stocks of Apple suppliers Cirrus Logic and AAC fall 12%+ and 14%+, respectively, after Ming-Chi Kuo said iPhone 15 Pro models won&#39;t have solid-state buttons &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230412/p28#a230412p28)
- - [Twitter changes the label on the main BBC account to &quot;Publicly funded media&quot; from &quot;Government Funded Media&quot;, after the broadcaster called the label inaccurate &lpar;Paul Glynn/BBC&rpar;](http://www.techmeme.com/230412/p27#a230412p27)
- - [Max is charging more money for 4K, and that means it can’t suck this time](https://www.theverge.com/2023/4/12/23680672/max-hbo-4k-hdr-price-increase)<!-- TECH:END -->
+ - [&#39;The Super Mario Bros. Movie&#39; Will Be Impossible to Beat](https://www.wired.com/story/super-mario-bros-movie-future-video-games-movies/)
+ - [NYC-based Cybersyn, a data-as-a-service startup that aims to make economic data more accessible, emerges from stealth with a $62.9M Series A led by Snowflake &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230412/p29#a230412p29)
+ - [Android 14’s first beta introduces a back arrow that matches your background](https://www.theverge.com/2023/4/12/23680037/android-14-beta-announcement-google-app-navigation-back-arrow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
