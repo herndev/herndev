@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘Awakening’s Real Sound’ Kory Drum locations](https://www.polygon.com/genshin-impact-guides/23680229/kory-drum-locations-awakenings-real-sound)
- - [The rebooted Harry Potter show is official, and it’s set to  run 10 years](https://www.polygon.com/23680688/harry-potter-show-max-hbo-jk-rowling-cast-seasons)
- - [Game of Thrones prequel The Hedge Knight is officially coming to HBO](https://www.polygon.com/23680618/game-of-thrones-hedge-knight-dunk-egg-series-hbo)<!-- GAME:END -->
+ - [6 Tips That Will Help You Master Lifeweaver In Overwatch 2](https://kotaku.com/lifeweaver-overwatch-2-tips-best-hero-combos-life-grip-1850329178)
+ - [Where to buy the Nvidia RTX 4070](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)
+ - [Valve is about to slash the file sizes of the Steam Deck&#39;s SSD-hogging shader caches in half](https://www.pcgamer.com/valve-is-about-to-slash-the-file-sizes-of-the-steam-decks-ssd-hogging-shader-caches-in-half)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
