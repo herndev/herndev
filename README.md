@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sherlock Holmes: The Awakened review](https://www.pcgamer.com/sherlock-holmes-the-awakened-review)
  - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)
- - [Wordle hint and answer #662: Wednesday, April 12](https://www.pcgamer.com/wordle-hint-answer-today-662-april-12)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
