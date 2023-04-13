@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pretty much](http://9gag.com/gag/aXnVZmD)
- - ⏩ [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
- - 👉 [Understanding women 101](http://9gag.com/gag/aA0KBER)<!-- MEMES:END -->
+ - ⏩ [Understanding women 101](http://9gag.com/gag/aA0KBER)
+ - 👉 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)<!-- MEMES:END -->
 
 ---
 
