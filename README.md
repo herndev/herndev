@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Voyage of the Demeter shows why you should always check your luggage for vampires](https://www.polygon.com/23681893/the-last-voyage-of-the-demeter-trailer-dracula)
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Immortals of Aveum: Introducing a world of wizards and warfare](https://blog.playstation.com/2023/04/13/immortals-of-aveum-introducing-a-world-of-wizards-and-warfare/)<!-- GAME:END -->
+ - [Idea for your next build? Someone stuffed a gaming PC inside an old Sony Trinitron CRT monitor](https://www.pcgamer.com/idea-for-your-next-build-someone-stuffed-a-gaming-pc-inside-an-old-sony-trinitron-crt-monitor)
+ - [Call Of Duty Is Selling ‘Blatantly Pay-To-Win’ DMZ Skins](https://kotaku.com/call-of-duty-dmz-season-3-pay-to-win-skins-uav-1850333236)
+ - [The Big Discord Military Secrets Leaker Was, Surprise, A Racist](https://kotaku.com/discord-minecraft-government-military-secrets-leaker-1850333343)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
