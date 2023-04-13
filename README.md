@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-april)
- - [Redfall will only do 30 fps on Xbox consoles, and people are starting to worry](https://www.pcgamer.com/redfall-will-only-do-30-fps-on-xbox-consoles-and-people-are-starting-to-worry)
- - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)<!-- GAME:END -->
+ - [Russian Agents Are Trying To &#39;Penetrate&#39; Gaming Communities](https://kotaku.com/russia-minecraft-leak-propaganda-gru-pentagon-microsoft-1850330887)
+ - [Magic&#39;s head designer explains why it&#39;s getting its first new card type in years](https://www.pcgamer.com/magics-head-designer-explains-why-its-getting-its-first-new-card-type-in-years)
+ - [MMO Players Take Over Company, Steal $20,000 Worth Of Stuff](https://kotaku.com/eve-online-heist-steal-theft-crime-ccp-corporation-mmo-1850330636)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
