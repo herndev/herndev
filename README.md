@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch CEO Dan Clancy defends cutting 400 employees, saying the move was vital to keep the service viable, and plans to meet with creators to allay their fears &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230413/p17#a230413p17)
- - [Amazon Is Joining the Generative AI Race](https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/)
- - [AWS begins offering customers access to LLMs by Anthropic, Stability AI, AI21 Labs, and AWS, aiming to become a neutral platform for generative AI features &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230413/p16#a230413p16)<!-- TECH:END -->
+ - [Premiere Pro gets a big upgrade with Adobe Sensei-powered Text-Based Editing](https://appleinsider.com/articles/23/04/13/premiere-pro-gets-a-big-upgrade-with-adobe-sensei-powered-text-based-editing?utm_medium=rss)
+ - [Apple&#39;s iPhone SE 4 is reportedly a 5G engineering test, and not for sale](https://appleinsider.com/articles/23/04/13/apples-iphone-se-4-is-reportedly-a-5g-engineering-test-and-not-for-sale?utm_medium=rss)
+ - [Adobe rolls out support for images and PDF in Frame.io and plans to add text-based editing in Premiere Pro in May 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230413/p19#a230413p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
