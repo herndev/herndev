@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Sony’s new State of Play all about Final Fantasy 16](https://www.polygon.com/23679446/sony-state-of-play-april-date-time-final-fantasy-16-ps5)
- - [This modder is making the coolest keyboard ever by putting little OLED screens in the keycaps](https://www.pcgamer.com/this-modder-is-making-the-coolest-keyboard-ever-by-putting-little-oled-screens-in-the-keycaps)
- - [The Oregon Trail horror movie actually looks pretty good, or at least pretty fun](https://www.polygon.com/23682478/organ-trail-horror-movie-oregon-silly)<!-- GAME:END -->
+ - [The new True Detective season sure seems like it’s connected to the first](https://www.polygon.com/23681971/true-detective-night-country-trailer-season-1-connections)
+ - [The guy who leaked Ukraine War plans on Discord got busted because of his Steam profile](https://www.pcgamer.com/the-guy-who-leaked-ukraine-war-plans-on-discord-got-busted-because-of-his-steam-profile)
+ - [Tears of the Kingdom highlights how falling is the best feeling in video games](https://www.polygon.com/23682494/zelda-tears-of-the-kingdom-free-faaaallin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
