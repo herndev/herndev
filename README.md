@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA shares new trailer for its single-player shooter with magic spells](https://www.theverge.com/2023/4/13/23682477/ea-immortals-of-aveum-single-player-shooter-magic-spells-originals-release-date)
- - [Toronto-based Kepler, which plans to launch a network of optical satellites to deliver data at 2.5Gbps to satellites in low Earth orbit, raised a $92M Series C &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230413/p27#a230413p27)
- - [Windows 11 beta makes it possible for apps to know when you’re near your PC](https://www.androidauthority.com/windows-11-apps-3312796/)<!-- TECH:END -->
+ - [Meta open sources Animated Drawings, an AI project that turns doodles into animations, with a dataset of nearly 180K drawings &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230413/p28#a230413p28)
+ - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)
+ - [Anker, Bambu, Prusa, Creality: 3D printers suddenly have a need for speed](https://www.theverge.com/2023/4/13/23681219/anker-bambu-prusa-creality-3d-printer-speed-arms-race)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
