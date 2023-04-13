@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum successfully completes its Shanghai, or Shapella update, letting users withdraw staked ether tokens; ~1.2M ETH are expected to be withdrawn in a week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230413/p8#a230413p8)
- - [A look at researchers&#39; use of deep neural networks to examine historical documents and the risks, such as models slipping bias or falsifications into records &lpar;Moira Donovan/MIT Technology Review&rpar;](http://www.techmeme.com/230413/p7#a230413p7)
- - [HBO Max becomes ‘Max’ with new plans: Here’s what it means for subscribers](https://www.androidauthority.com/max-prices-plans-availability-3312457/)<!-- TECH:END -->
+ - [The Xiaomi 13 Ultra could solve a big issue with one-inch cameras](https://www.androidauthority.com/xiaomi-13-ultra-variable-aperture-3312463/)
+ - [Taiwan Ministry of Finance data: chipmaking machine exports to the US rose 42.6% YoY to $71.3M in March 2023, while exports to China dropped 33.7% YoY &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230413/p11#a230413p11)
+ - [Poll: Do you ever shoot images at your phone camera’s full resolution?](https://www.androidauthority.com/phone-camera-full-resolution-shoot-poll-3312452/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
