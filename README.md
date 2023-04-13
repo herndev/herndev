@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premiere Pro gets a big upgrade with Adobe Sensei-powered Text-Based Editing](https://appleinsider.com/articles/23/04/13/premiere-pro-gets-a-big-upgrade-with-adobe-sensei-powered-text-based-editing?utm_medium=rss)
- - [Apple&#39;s iPhone SE 4 is reportedly a 5G engineering test, and not for sale](https://appleinsider.com/articles/23/04/13/apples-iphone-se-4-is-reportedly-a-5g-engineering-test-and-not-for-sale?utm_medium=rss)
- - [Adobe rolls out support for images and PDF in Frame.io and plans to add text-based editing in Premiere Pro in May 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230413/p19#a230413p19)<!-- TECH:END -->
+ - [Sources: SFPD arrested tech executive Nima Momeni for Bob Lee&#39;s killing; Momeni and Lee purportedly knew each other and were driving together before the killing &lpar;Joe Eskenazi/Mission Local&rpar;](http://www.techmeme.com/230413/p20#a230413p20)
+ - [Apple Savings is expected to finally launch on April 17](https://appleinsider.com/articles/23/04/13/apple-savings-is-expected-to-finally-launch-on-april-17?utm_medium=rss)
+ - [These are all the official colors of the Google Pixel 7 and Pixel 7 Pro](https://www.androidauthority.com/google-pixel-7-pro-colors-2-3312383/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
