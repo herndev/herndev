@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chat is getting a new look to match Docs, Sheets, and Gmail](https://www.theverge.com/2023/4/13/23682345/google-chat-new-look-material-3-design)
- - [Carl Pei reviews the Galaxy S23 Ultra: Here are some choice quotes](https://www.androidauthority.com/carl-pei-samsung-galaxy-s23-ultra-3312784/)
- - [Babbel deal: Save 75% on the #1 language-learning app](https://www.androidauthority.com/babbel-deal-3307395/)<!-- TECH:END -->
+ - [EA shares new trailer for its single-player shooter with magic spells](https://www.theverge.com/2023/4/13/23682477/ea-immortals-of-aveum-single-player-shooter-magic-spells-originals-release-date)
+ - [Toronto-based Kepler, which plans to launch a network of optical satellites to deliver data at 2.5Gbps to satellites in low Earth orbit, raised a $92M Series C &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230413/p27#a230413p27)
+ - [Windows 11 beta makes it possible for apps to know when you’re near your PC](https://www.androidauthority.com/windows-11-apps-3312796/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
