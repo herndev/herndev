@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy outlines compliance demands for lifting ChatGPT suspension order, requiring OpenAI to publish info about its data processing, adopt age gating, and more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230412/p36#a230412p36)
- - [Deal: Save 70% on the award-winning Luminar Neo bundle](https://www.androidauthority.com/luminar-neo-bundle-deal-3293991/)
- - [California wants a bigger piece of Cupertino&#39;s tax earnings from Apple](https://appleinsider.com/articles/23/04/13/california-wants-a-bigger-piece-of-cupertinos-tax-earnings-from-apple?utm_medium=rss)<!-- TECH:END -->
+ - [A study finds that assigning ChatGPT a persona, like &quot;a bad person&quot; or a certain historical figure, using the API, increases the chatbot&#39;s toxicity sixfold &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230412/p39#a230412p39)
+ - [&#39;Apple Glasses&#39; reportedly launching in 2026 or 2027 at the earliest](https://appleinsider.com/articles/23/04/13/apple-glasses-reportedly-launching-in-2026-or-2027-at-the-earliest?utm_medium=rss)
+ - [PBS has not tweeted from its main Twitter handle since April 8, after Twitter labeled it &quot;Government-funded Media&quot;, and says it has no plans to resume tweeting &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230412/p38#a230412p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
