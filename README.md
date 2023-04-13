@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
- - ⏩ [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
- - 👉 [Just a regular dad with his 6 daughters, at least he tried multiple times.](http://9gag.com/gag/a1PDzB2)<!-- MEMES:END -->
+ - 💣 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
+ - ⏩ [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
+ - 👉 [RIP August Ames. Gone but not forgotten](http://9gag.com/gag/aOxZKM6)<!-- MEMES:END -->
 
 ---
 
