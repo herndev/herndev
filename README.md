@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
- - ⏩ [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
- - 👉 [RIP August Ames. Gone but not forgotten](http://9gag.com/gag/aOxZKM6)<!-- MEMES:END -->
+ - 💣 [How is this generation supposed to fight the AI the moment when it becomes self-aware?](http://9gag.com/gag/adPQ0e2)
+ - ⏩ [RIP August Ames. Gone but not forgotten](http://9gag.com/gag/aOxZKM6)
+ - 👉 [Good innocent jokes never gets old](http://9gag.com/gag/a6q5r0e)<!-- MEMES:END -->
 
 ---
 
