@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Vampire Survivors Was Rebuilt for Xbox Without Players Even Noticing](https://news.xbox.com/en-us/2023/04/13/vampire-survivors-dlc-2-launch/)
- - [Here’s what ‘Call of Duty, but with magic’ looks like in action](https://www.polygon.com/23679472/immortals-of-aveum-release-date-preview-fps-magic)
- - [Ganondorf is back in Tears of the Kingdom, and fans agree he’s hotter than ever](https://www.polygon.com/23681806/zelda-tears-of-the-kingdom-ganondorf-artwork-hot)<!-- GAME:END -->
+ - [The Last Voyage of the Demeter shows why you should always check your luggage for vampires](https://www.polygon.com/23681893/the-last-voyage-of-the-demeter-trailer-dracula)
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Immortals of Aveum: Introducing a world of wizards and warfare](https://blog.playstation.com/2023/04/13/immortals-of-aveum-introducing-a-world-of-wizards-and-warfare/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
