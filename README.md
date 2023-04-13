@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO Max becomes ‘Max’ with new plans: Here’s what it means for subscribers](https://www.androidauthority.com/max-prices-plans-availability-3312457/)
  - [SoftBank plans to sell SoftBank Ventures Asia, which manages ~$2B in assets, to an entity led by Masayoshi Son&#39;s brother Taizo Son, for an undisclosed sum &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230413/p6#a230413p6)
- - [A profile of Paul Dochney, the man behind pseudonymous character @dril that emerged from Something Awful to become one of the most influential Twitter accounts &lpar;Nate Rogers/The Ringer&rpar;](http://www.techmeme.com/230413/p5#a230413p5)
- - [The OnePlus Nord 3 is a step closer to launch: Here’s what to expect](https://www.androidauthority.com/oneplus-nord-3-specs-release-3312433/)<!-- TECH:END -->
+ - [A profile of Paul Dochney, the man behind pseudonymous character @dril that emerged from Something Awful to become one of the most influential Twitter accounts &lpar;Nate Rogers/The Ringer&rpar;](http://www.techmeme.com/230413/p5#a230413p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
