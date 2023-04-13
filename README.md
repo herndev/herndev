@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lofi Girl&#39;s vanishing act left music lovers panicking, but she returned with a new friend](https://www.pcgamer.com/lofi-girls-vanishing-act-left-music-lovers-panicking-but-she-returned-with-a-new-friend)
- - [First Zen 6 rumour puts AMD&#39;s far future CPU on 2nm tech](https://www.pcgamer.com/first-zen-6-rumour-puts-amds-far-future-cpu-on-2nm-tech)
- - [Pokémon Go ‘A Mystic Hero’ Timed, Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-guide/23681503/a-mystic-hero-timed-research-special-research)<!-- GAME:END -->
+ - [The hot seat: AutoFull gaming chairs offer esports-grade quality](https://www.pcgamer.com/the-hot-seat-autofull-gaming-chairs-offer-esports-grade-quality)
+ - [You haven&#39;t got much time left to grab 14 classic Star Wars games for just $21—including both KOTORs, all the Jedi Knight games, and more](https://www.pcgamer.com/you-havent-got-much-time-left-to-grab-14-classic-star-wars-games-for-just-dollar21including-both-kotors-all-the-jedi-knight-games-and-more)
+ - [Steam Deck-friendly Windows Handheld Mode shown off in leaked Microsoft Hackathon vid](https://www.pcgamer.com/steam-deck-friendly-windows-handheld-mode-shown-off-in-leaked-microsoft-hackathon-vid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
