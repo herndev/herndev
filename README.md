@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Terrascape Is A Lovely Little City-Builder](https://kotaku.com/terrascape-city-builder-pc-strategy-steam-impressions-1850326450)
  - [Russian Agents Are Trying To &#39;Penetrate&#39; Gaming Communities](https://kotaku.com/russia-minecraft-leak-propaganda-gru-pentagon-microsoft-1850330887)
- - [Magic&#39;s head designer explains why it&#39;s getting its first new card type in years](https://www.pcgamer.com/magics-head-designer-explains-why-its-getting-its-first-new-card-type-in-years)
- - [MMO Players Take Over Company, Steal $20,000 Worth Of Stuff](https://kotaku.com/eve-online-heist-steal-theft-crime-ccp-corporation-mmo-1850330636)<!-- GAME:END -->
+ - [Magic&#39;s head designer explains why it&#39;s getting its first new card type in years](https://www.pcgamer.com/magics-head-designer-explains-why-its-getting-its-first-new-card-type-in-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
