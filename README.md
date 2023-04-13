@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s What’s Going On With Your Overwatch 2 Rank [UPDATE]](https://kotaku.com/overwatch-2-rank-lookup-bug-patch-notes-tracker-1850329833)
- - [Beloved Game of Thrones mod for Crusader Kings 3 releases tomorrow, so you can finally give the series a decent ending](https://www.pcgamer.com/beloved-game-of-thrones-mod-for-crusader-kings-3-releases-tomorrow-so-you-can-finally-give-the-series-a-decent-ending)
- - [How to find and kill the Scavenger in Warzone 2](https://www.pcgamer.com/warzone-2-scavenger-calling-card-location)<!-- GAME:END -->
+ - [How Vampire Survivors Was Rebuilt for Xbox Without Players Even Noticing](https://news.xbox.com/en-us/2023/04/13/vampire-survivors-dlc-2-launch/)
+ - [Here’s what ‘Call of Duty, but with magic’ looks like in action](https://www.polygon.com/23679472/immortals-of-aveum-release-date-preview-fps-magic)
+ - [Ganondorf is back in Tears of the Kingdom, and fans agree he’s hotter than ever](https://www.polygon.com/23681806/zelda-tears-of-the-kingdom-ganondorf-artwork-hot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
