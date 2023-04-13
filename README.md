@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
+ - 💣 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
  - ⏩ [Ahh the hypocrisy](http://9gag.com/gag/awZmRnD)
- - 👉 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)<!-- MEMES:END -->
+ - 👉 [Jim Carrey with a vag.](http://9gag.com/gag/a8q0b13)<!-- MEMES:END -->
 
 ---
 
