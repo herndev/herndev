@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Idea for your next build? Someone stuffed a gaming PC inside an old Sony Trinitron CRT monitor](https://www.pcgamer.com/idea-for-your-next-build-someone-stuffed-a-gaming-pc-inside-an-old-sony-trinitron-crt-monitor)
- - [Call Of Duty Is Selling ‘Blatantly Pay-To-Win’ DMZ Skins](https://kotaku.com/call-of-duty-dmz-season-3-pay-to-win-skins-uav-1850333236)
- - [The Big Discord Military Secrets Leaker Was, Surprise, A Racist](https://kotaku.com/discord-minecraft-government-military-secrets-leaker-1850333343)<!-- GAME:END -->
+ - [8 &#39;Oh Snap&#39; Details In Zelda: Tears of The Kingdom&#39;s Final Gameplay Trailer](https://kotaku.com/zelda-tears-kingdom-ganondorf-release-date-trailer-1850332891)
+ - [Space FPS Boundary puts Sir Isaac Newton in the gunnery chair](https://www.polygon.com/23681671/boundary-space-fps-early-access-steam)
+ - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
