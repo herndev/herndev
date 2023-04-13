@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 allegedly detailed by anonymous leaker with little new information](https://appleinsider.com/articles/23/04/12/ios-17-allegedly-detailed-by-anonymous-leaker-with-little-new-information?utm_medium=rss)
- - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
- - [FTX&#39;s attorneys say the company recovered $7.3B in liquid assets and is considering using creditors&#39; holdings to reopen the exchange; FTX&#39;s FTT token jumps 70%+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230412/p34#a230412p34)<!-- TECH:END -->
+ - [The best Apple Watch apps to get the most from your device](https://www.androidauthority.com/best-apple-watch-apps-3310571/)
+ - [A profile of Alexandr Wang, a co-founder of Scale AI, which outsources ~240K workers via its subsidiary Remotasks to label the data used to train AI systems &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230412/p35#a230412p35)
+ - [Apple Savings launch is imminent after becoming active on the backend](https://appleinsider.com/articles/23/04/13/apple-savings-launch-is-imminent-after-becoming-active-on-the-backend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
