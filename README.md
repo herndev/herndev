@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #663: Thursday, April 13](https://www.pcgamer.com/wordle-hint-answer-today-663-april-13)
- - [Terrascape Is A Lovely Little City-Builder](https://kotaku.com/terrascape-city-builder-pc-strategy-steam-impressions-1850326450)
- - [Russian Agents Are Trying To &#39;Penetrate&#39; Gaming Communities](https://kotaku.com/russia-minecraft-leak-propaganda-gru-pentagon-microsoft-1850330887)<!-- GAME:END -->
+ - [Lofi Girl&#39;s vanishing act left music lovers panicking, but she returned with a new friend](https://www.pcgamer.com/lofi-girls-vanishing-act-left-music-lovers-panicking-but-she-returned-with-a-new-friend)
+ - [First Zen 6 rumour puts AMD&#39;s far future CPU on 2nm tech](https://www.pcgamer.com/first-zen-6-rumour-puts-amds-far-future-cpu-on-2nm-tech)
+ - [Pokémon Go ‘A Mystic Hero’ Timed, Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-guide/23681503/a-mystic-hero-timed-research-special-research)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
