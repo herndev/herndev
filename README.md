@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
- - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
+ - 💣 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - ⏩ [I need you](http://9gag.com/gag/a3Z0dm8)
+ - 👉 [The Turnaround...](http://9gag.com/gag/aqe6mKv)<!-- MEMES:END -->
 
 ---
 
