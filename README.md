@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Apple is in talks with suppliers to make MacBooks in Thailand and the company has been mass producing the Apple Watch in the country for over a year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230413/p4#a230413p4)
- - [Sources: Apple made $7B+ of iPhones in India in the FY ended March 2023, exporting ~$5B worth; India accounted for ~7% of iPhones made, up from ~1% in 2021 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230413/p3#a230413p3)
- - [Google Pixel 7 warranty and returns: Your complete guide](https://www.androidauthority.com/google-pixel-7-warranty-return-policy-3312412/)<!-- TECH:END -->
+ - [SoftBank plans to sell SoftBank Ventures Asia, which manages ~$2B in assets, to an entity led by Masayoshi Son&#39;s brother Taizo Son, for an undisclosed sum &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230413/p6#a230413p6)
+ - [A profile of Paul Dochney, the man behind pseudonymous character @dril that emerged from Something Awful to become one of the most influential Twitter accounts &lpar;Nate Rogers/The Ringer&rpar;](http://www.techmeme.com/230413/p5#a230413p5)
+ - [The OnePlus Nord 3 is a step closer to launch: Here’s what to expect](https://www.androidauthority.com/oneplus-nord-3-specs-release-3312433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
