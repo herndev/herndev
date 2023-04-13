@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve’s Steam Deck: all the news about the new gaming handheld](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [Amazon offers free access to its AI coding assistant to undercut Microsoft](https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft)
- - [One of the Western Digital hackers claims they have stolen ~10TB of data, including customer data, and says they are asking for a ransom of &quot;minimum 8 figures&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230413/p24#a230413p24)<!-- TECH:END -->
+ - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)
+ - [ID.me, the digital ID service used by the IRS and other US agencies, raised a $132M Series D led by Viking Global, bringing its total funding to $240M+ &lpar;Julie Muhn/Finovate&rpar;](http://www.techmeme.com/230413/p25#a230413p25)
+ - [Samsung Galaxy Buds 2 Pro review: The most powerful buds in Samsung’s Galaxy](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-review-3207774/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
