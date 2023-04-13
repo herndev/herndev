@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max becomes ‘Max’ with new plans: Here’s what it means for subscribers](https://www.androidauthority.com/max-prices-plans-availability-3312457/)
- - [SoftBank plans to sell SoftBank Ventures Asia, which manages ~$2B in assets, to an entity led by Masayoshi Son&#39;s brother Taizo Son, for an undisclosed sum &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230413/p6#a230413p6)
- - [A profile of Paul Dochney, the man behind pseudonymous character @dril that emerged from Something Awful to become one of the most influential Twitter accounts &lpar;Nate Rogers/The Ringer&rpar;](http://www.techmeme.com/230413/p5#a230413p5)<!-- TECH:END -->
+ - [Ethereum successfully completes its Shanghai, or Shapella update, letting users withdraw staked ether tokens; ~1.2M ETH are expected to be withdrawn in a week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230413/p8#a230413p8)
+ - [A look at researchers&#39; use of deep neural networks to examine historical documents and the risks, such as models slipping bias or falsifications into records &lpar;Moira Donovan/MIT Technology Review&rpar;](http://www.techmeme.com/230413/p7#a230413p7)
+ - [HBO Max becomes ‘Max’ with new plans: Here’s what it means for subscribers](https://www.androidauthority.com/max-prices-plans-availability-3312457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
