@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
+ - 💣 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
  - ⏩ [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
- - 👉 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
+ - 👉 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 ---
 
