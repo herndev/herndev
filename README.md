@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Expectation vs Reality](http://9gag.com/gag/aXnND0V)
- - ⏩ [Understanding women 101](http://9gag.com/gag/aA0KBER)
- - 👉 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)<!-- MEMES:END -->
+ - 💣 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
+ - ⏩ [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/a04VApL)
+ - 👉 [WTF](http://9gag.com/gag/abvOjw8)<!-- MEMES:END -->
 
 ---
 
