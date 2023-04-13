@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord says it is cooperating with US law enforcement&#39;s investigation into the classified material breach &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/230413/p15#a230413p15)
- - [South Korean patent troll Bizmodeline is preparing to sue over how Apple Pay works](https://appleinsider.com/articles/23/04/13/south-korean-patent-troll-bizmodeline-is-preparing-to-sue-over-how-apple-pay-works?utm_medium=rss)
- - [How the US is making arrests and seizing crypto funds, like James Zhong&#39;s 50K+ bitcoin, using Chainalysis and other tools to identify criminals via transactions &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/230413/p14#a230413p14)<!-- TECH:END -->
+ - [Twitch CEO Dan Clancy defends cutting 400 employees, saying the move was vital to keep the service viable, and plans to meet with creators to allay their fears &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230413/p17#a230413p17)
+ - [Amazon Is Joining the Generative AI Race](https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/)
+ - [AWS begins offering customers access to LLMs by Anthropic, Stability AI, AI21 Labs, and AWS, aiming to become a neutral platform for generative AI features &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230413/p16#a230413p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
