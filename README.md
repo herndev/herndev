@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy outlines compliance demands for lifting ChatGPT suspension order, requiring OpenAI to publish info about its data processing, adopt age gating, and more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230412/p36#a230412p36)
  - [Deal: Save 70% on the award-winning Luminar Neo bundle](https://www.androidauthority.com/luminar-neo-bundle-deal-3293991/)
- - [California wants a bigger piece of Cupertino&#39;s tax earnings from Apple](https://appleinsider.com/articles/23/04/13/california-wants-a-bigger-piece-of-cupertinos-tax-earnings-from-apple?utm_medium=rss)
- - [The best Apple Watch apps to get the most from your device](https://www.androidauthority.com/best-apple-watch-apps-3310571/)<!-- TECH:END -->
+ - [California wants a bigger piece of Cupertino&#39;s tax earnings from Apple](https://appleinsider.com/articles/23/04/13/california-wants-a-bigger-piece-of-cupertinos-tax-earnings-from-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
