@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 &#39;Oh Snap&#39; Details In Zelda: Tears of The Kingdom&#39;s Final Gameplay Trailer](https://kotaku.com/zelda-tears-kingdom-ganondorf-release-date-trailer-1850332891)
- - [Space FPS Boundary puts Sir Isaac Newton in the gunnery chair](https://www.polygon.com/23681671/boundary-space-fps-early-access-steam)
- - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League is delayed to 2024](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-delayed-to-2024)
+ - [Suicide Squad: Kill the Justice League delayed into 2024](https://www.polygon.com/23682378/suicide-squad-kill-justice-league-delayed-new-release-date-2024)
+ - [The Big Discord Military Secrets Leaker Was, Surprise, A Racist [Update]](https://kotaku.com/discord-minecraft-government-military-secrets-leaker-1850333343)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
