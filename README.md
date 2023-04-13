@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 13 Ultra could solve a big issue with one-inch cameras](https://www.androidauthority.com/xiaomi-13-ultra-variable-aperture-3312463/)
- - [Taiwan Ministry of Finance data: chipmaking machine exports to the US rose 42.6% YoY to $71.3M in March 2023, while exports to China dropped 33.7% YoY &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230413/p11#a230413p11)
- - [Poll: Do you ever shoot images at your phone camera’s full resolution?](https://www.androidauthority.com/phone-camera-full-resolution-shoot-poll-3312452/)<!-- TECH:END -->
+ - [Apple has moved 7% of all iPhone production to India, well ahead of schedule](https://appleinsider.com/articles/23/04/13/apple-has-moved-7-of-all-iphone-production-to-india-well-ahead-of-schedule?utm_medium=rss)
+ - [An investor in 50+ AI startups warns against building a &quot;God-like AI&quot; and says companies are &quot;running towards a finish line&quot; without knowing the ramifications &lpar;Ian Hogarth/Financial Times&rpar;](http://www.techmeme.com/230413/p13#a230413p13)
+ - [Govee Smart LED H6159 strip lights review: Colorful and effective](https://appleinsider.com/articles/23/04/13/govee-smart-led-h6159-strip-lights-review-colorful-and-effective?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
