@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Senor Paws, the fight stopper](http://9gag.com/gag/armXeE6)
- - ⏩ [Men fighting for equality.. \u00af\u2060\\\u2060_\u2060\u0298\u2060\u203f\u2060\u0298\u2060_\u2060/\u2060\u00af](http://9gag.com/gag/aWGnWZq)
- - 👉 [It all makes sense now\u2026..](http://9gag.com/gag/a5XwNxy)<!-- MEMES:END -->
+ - 💣 [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
+ - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
+ - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
 
 ---
 
