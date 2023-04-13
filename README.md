@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX&#39;s attorneys say the company recovered $7.3B in liquid assets and is considering using creditors&#39; holdings to reopen the exchange; FTX&#39;s FTT token jumps 70%+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230412/p34#a230412p34)
- - [Google releases Android 14 Beta 1 for Pixel devices, with sharesheet custom actions, a more prominent back arrow, per-app language preferences, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230412/p33#a230412p33)
- - [The Pixel 8’s display could be even smaller than expected](https://www.androidauthority.com/pixel-8-size-3312316/)<!-- TECH:END -->
+ - [iOS 17 allegedly detailed by anonymous leaker with little new information](https://appleinsider.com/articles/23/04/12/ios-17-allegedly-detailed-by-anonymous-leaker-with-little-new-information?utm_medium=rss)
+ - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
+ - [FTX&#39;s attorneys say the company recovered $7.3B in liquid assets and is considering using creditors&#39; holdings to reopen the exchange; FTX&#39;s FTT token jumps 70%+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230412/p34#a230412p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
