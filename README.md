@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - ⏩ [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/a04VApL)
- - 👉 [WTF](http://9gag.com/gag/abvOjw8)<!-- MEMES:END -->
+ - 💣 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
+ - ⏩ [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
+ - 👉 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
 
 ---
 
