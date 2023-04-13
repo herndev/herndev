@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes you just need to be left alone for a while.](http://9gag.com/gag/awZ1NRQ)
- - ⏩ [Understanding women 101](http://9gag.com/gag/aA0KBER)
- - 👉 [Pretty much](http://9gag.com/gag/aXnVZmD)<!-- MEMES:END -->
+ - 💣 [Pretty much](http://9gag.com/gag/aXnVZmD)
+ - ⏩ [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
+ - 👉 [Understanding women 101](http://9gag.com/gag/aA0KBER)<!-- MEMES:END -->
 
 ---
 
