@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The hot seat: AutoFull gaming chairs offer esports-grade quality](https://www.pcgamer.com/the-hot-seat-autofull-gaming-chairs-offer-esports-grade-quality)
- - [You haven&#39;t got much time left to grab 14 classic Star Wars games for just $21—including both KOTORs, all the Jedi Knight games, and more](https://www.pcgamer.com/you-havent-got-much-time-left-to-grab-14-classic-star-wars-games-for-just-dollar21including-both-kotors-all-the-jedi-knight-games-and-more)
- - [Steam Deck-friendly Windows Handheld Mode shown off in leaked Microsoft Hackathon vid](https://www.pcgamer.com/steam-deck-friendly-windows-handheld-mode-shown-off-in-leaked-microsoft-hackathon-vid)<!-- GAME:END -->
+ - [Platformer, multiplayer and music fans: why Sackboy: A Big Adventure is a must-play](https://blog.playstation.com/2023/04/13/platformer-multiplayer-and-music-fans-why-sackboy-a-big-adventure-is-a-must-play/)
+ - [See how Captain Marvel leads the Avengers in Marvel’s new reboot](https://www.polygon.com/23679206/avengers-captain-marvel-carol-danvers-1-preview-jed-mackay)
+ - [Live: Where to buy the Nvidia RTX 4070 today](https://www.pcgamer.com/news/live/rtx-4070-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
