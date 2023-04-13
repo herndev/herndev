@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #663: Thursday, April 13](https://www.pcgamer.com/wordle-hint-answer-today-663-april-13)
  - [Terrascape Is A Lovely Little City-Builder](https://kotaku.com/terrascape-city-builder-pc-strategy-steam-impressions-1850326450)
- - [Russian Agents Are Trying To &#39;Penetrate&#39; Gaming Communities](https://kotaku.com/russia-minecraft-leak-propaganda-gru-pentagon-microsoft-1850330887)
- - [Magic&#39;s head designer explains why it&#39;s getting its first new card type in years](https://www.pcgamer.com/magics-head-designer-explains-why-its-getting-its-first-new-card-type-in-years)<!-- GAME:END -->
+ - [Russian Agents Are Trying To &#39;Penetrate&#39; Gaming Communities](https://kotaku.com/russia-minecraft-leak-propaganda-gru-pentagon-microsoft-1850330887)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
