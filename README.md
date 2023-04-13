@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new True Detective season sure seems like it’s connected to the first](https://www.polygon.com/23681971/true-detective-night-country-trailer-season-1-connections)
- - [The guy who leaked Ukraine War plans on Discord got busted because of his Steam profile](https://www.pcgamer.com/the-guy-who-leaked-ukraine-war-plans-on-discord-got-busted-because-of-his-steam-profile)
- - [Tears of the Kingdom highlights how falling is the best feeling in video games](https://www.polygon.com/23682494/zelda-tears-of-the-kingdom-free-faaaallin)<!-- GAME:END -->
+ - [Hyper Light Breaker creator on reimagining the series as a 3D roguelike: &#39;I don&#39;t think that you could really release Drifter today and get the same sort of success&#39;](https://www.pcgamer.com/hyper-light-breaker-creator-on-reimagining-the-series-as-a-3d-roguelike-i-dont-think-that-you-could-really-release-drifter-today-and-get-the-same-sort-of-success)
+ - [Bungie announces major crackdown on third-party peripheral cheaters, bans incoming](https://www.pcgamer.com/bungie-announces-major-crackdown-on-third-party-peripheral-cheaters-bans-incoming)
+ - [The new True Detective season sure seems like it’s connected to the first](https://www.polygon.com/23681971/true-detective-night-country-trailer-season-1-connections)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
