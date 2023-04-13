@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the final Zelda: Tears of the Kingdom trailer](https://www.polygon.com/23680230/zelda-tears-of-the-kingdom-final-trailer-nintendo-direct)
- - [Disney Lorcana wants to expand the audience for trading card games in a big way](https://www.polygon.com/23680201/disney-lorcana-rules-tcg-designer-interview-accessibility-release-date-price)
- - [Bandai Namco games are coming to GeForce Now. But no, not Elden Ring](https://www.pcgamer.com/bandai-namco-games-are-coming-to-geforce-now-but-no-not-elden-ring)<!-- GAME:END -->
+ - [Here’s What’s Going On With Your Overwatch 2 Rank [UPDATE]](https://kotaku.com/overwatch-2-rank-lookup-bug-patch-notes-tracker-1850329833)
+ - [Beloved Game of Thrones mod for Crusader Kings 3 releases tomorrow, so you can finally give the series a decent ending](https://www.pcgamer.com/beloved-game-of-thrones-mod-for-crusader-kings-3-releases-tomorrow-so-you-can-finally-give-the-series-a-decent-ending)
+ - [How to find and kill the Scavenger in Warzone 2](https://www.pcgamer.com/warzone-2-scavenger-calling-card-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
