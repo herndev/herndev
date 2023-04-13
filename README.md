@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Platformer, multiplayer and music fans: why Sackboy: A Big Adventure is a must-play](https://blog.playstation.com/2023/04/13/platformer-multiplayer-and-music-fans-why-sackboy-a-big-adventure-is-a-must-play/)
- - [See how Captain Marvel leads the Avengers in Marvel’s new reboot](https://www.polygon.com/23679206/avengers-captain-marvel-carol-danvers-1-preview-jed-mackay)
- - [Live: Where to buy the Nvidia RTX 4070 today](https://www.pcgamer.com/news/live/rtx-4070-where-to-buy)<!-- GAME:END -->
+ - [Watch the final Zelda: Tears of the Kingdom trailer](https://www.polygon.com/23680230/zelda-tears-of-the-kingdom-final-trailer-nintendo-direct)
+ - [Disney Lorcana wants to expand the audience for trading card games in a big way](https://www.polygon.com/23680201/disney-lorcana-rules-tcg-designer-interview-accessibility-release-date-price)
+ - [Bandai Namco games are coming to GeForce Now. But no, not Elden Ring](https://www.pcgamer.com/bandai-namco-games-are-coming-to-geforce-now-but-no-not-elden-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
