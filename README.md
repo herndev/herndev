@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta open sources Animated Drawings, an AI project that turns doodles into animations, with a dataset of nearly 180K drawings &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230413/p28#a230413p28)
- - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)
- - [Anker, Bambu, Prusa, Creality: 3D printers suddenly have a need for speed](https://www.theverge.com/2023/4/13/23681219/anker-bambu-prusa-creality-3d-printer-speed-arms-race)<!-- TECH:END -->
+ - [Abortion Pill-by-Mail Providers Aren&#39;t Going Anywhere](https://www.wired.com/story/telehealth-abortion-pill-access-court-decision/)
+ - [In Final Fantasy XVI, you can command the dog &lpar;and a whole lot more&rpar;](https://www.theverge.com/23680770/final-fantasy-16-gameplay-april-sony-state-of-play)
+ - [Noise for Sleep: Is White, Brown, Pink or Blue Best?     - CNET](https://www.cnet.com/health/sleep/nose-for-sleep-is-white-brown-pink-or-blue-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
