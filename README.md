@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
- - ⏩ [Today marks exactly 38 years since the day when during a parade of Swedish neo-Nazis in V\u00e4xj\u00f6, Danuta Danielsson, a Polish immigrant whose mother survived Majdanek, hit that stupid Nazi head with her handbag.](http://9gag.com/gag/aZD8WrQ)
- - 👉 [Jim Carrey with a vag.](http://9gag.com/gag/a8q0b13)<!-- MEMES:END -->
+ - 💣 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
+ - ⏩ [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)
+ - 👉 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
 
 ---
 
