@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 warranty and returns: Your complete guide](https://www.androidauthority.com/google-pixel-7-warranty-return-policy-3312412/)
- - [A look at Argentinian crypto company Generaci&amp;oacute;n Zoe and its pastor founder Leonardo Cositorto, who is accused of a $120M+ Zoe Cash investment scam &lpar;Facundo Iglesia/Rest of World&rpar;](http://www.techmeme.com/230413/p2#a230413p2)
- - [The fight for a Montana bill to ban TikTok, which passed in the Senate and will likely pass in the House, previews the legally perilous road for a federal push &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230413/p1#a230413p1)<!-- TECH:END -->
+ - [Sources say Apple is in talks with suppliers to make MacBooks in Thailand and the company has been mass producing the Apple Watch in the country for over a year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230413/p4#a230413p4)
+ - [Sources: Apple made $7B+ of iPhones in India in the FY ended March 2023, exporting ~$5B worth; India accounted for ~7% of iPhones made, up from ~1% in 2021 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230413/p3#a230413p3)
+ - [Google Pixel 7 warranty and returns: Your complete guide](https://www.androidauthority.com/google-pixel-7-warranty-return-policy-3312412/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
