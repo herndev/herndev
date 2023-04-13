@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)
- - [ID.me, the digital ID service used by the IRS and other US agencies, raised a $132M Series D led by Viking Global, bringing its total funding to $240M+ &lpar;Julie Muhn/Finovate&rpar;](http://www.techmeme.com/230413/p25#a230413p25)
- - [Samsung Galaxy Buds 2 Pro review: The most powerful buds in Samsung’s Galaxy](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-review-3207774/)<!-- TECH:END -->
+ - [Google Chat is getting a new look to match Docs, Sheets, and Gmail](https://www.theverge.com/2023/4/13/23682345/google-chat-new-look-material-3-design)
+ - [Carl Pei reviews the Galaxy S23 Ultra: Here are some choice quotes](https://www.androidauthority.com/carl-pei-samsung-galaxy-s23-ultra-3312784/)
+ - [Babbel deal: Save 75% on the #1 language-learning app](https://www.androidauthority.com/babbel-deal-3307395/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
