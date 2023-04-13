@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How is this generation supposed to fight the AI the moment when it becomes self-aware?](http://9gag.com/gag/adPQ0e2)
- - ⏩ [RIP August Ames. Gone but not forgotten](http://9gag.com/gag/aOxZKM6)
- - 👉 [Good innocent jokes never gets old](http://9gag.com/gag/a6q5r0e)<!-- MEMES:END -->
+ - 💣 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
+ - ⏩ [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
+ - 👉 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
 
 ---
 
