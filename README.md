@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nansen: ether worth $1.4B is stuck in a withdrawal queue after the Shapella upgrade; Ethereum can process ~$115M in ether withdrawals per day &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/230413/p22#a230413p22)
- - [A data scientist cloned his best friends’ group chat using AI](https://www.theverge.com/2023/4/13/23671059/ai-chatbot-clone-group-chat)
- - [Don&#39;t buy the &#39;Make Something Wonderful&#39; Steve Jobs book on eBay, because the book is free](https://appleinsider.com/articles/23/04/13/dont-buy-make-something-wonderful-on-ebay-because-the-book-is-free?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft plans to roll out Windows 11 to HoloLens 2 for free, improving app performance and letting developers integrate web technologies into native apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230413/p23#a230413p23)
+ - [Is Substack Notes a ‘Twitter clone’? We asked CEO Chris Best.](https://www.theverge.com/23681875/substack-notes-twitter-elon-musk-content-moderation-free-speech)
+ - [Don&#39;t buy the &#39;Make Something Wonderful&#39; Steve Jobs book on eBay, because the book is free [u]](https://appleinsider.com/articles/23/04/13/dont-buy-make-something-wonderful-on-ebay-because-the-book-is-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
