@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-april)
  - [Redfall will only do 30 fps on Xbox consoles, and people are starting to worry](https://www.pcgamer.com/redfall-will-only-do-30-fps-on-xbox-consoles-and-people-are-starting-to-worry)
- - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)
- - [Video Games Are Dominating TV And Film Right Now](https://kotaku.com/super-mario-bros-movie-the-last-of-us-hbo-max-1850330236)<!-- GAME:END -->
+ - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
