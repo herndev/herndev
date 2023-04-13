@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
- - ⏩ [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
- - 👉 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
+ - 💣 [Senor Paws, the fight stopper](http://9gag.com/gag/armXeE6)
+ - ⏩ [Men fighting for equality.. \u00af\u2060\\\u2060_\u2060\u0298\u2060\u203f\u2060\u0298\u2060_\u2060/\u2060\u00af](http://9gag.com/gag/aWGnWZq)
+ - 👉 [It all makes sense now\u2026..](http://9gag.com/gag/a5XwNxy)<!-- MEMES:END -->
 
 ---
 
