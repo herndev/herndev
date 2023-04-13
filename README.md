@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
- - ⏩ [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - 👉 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)<!-- MEMES:END -->
+ - ⏩ [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
+ - 👉 [Just a regular dad with his 6 daughters, at least he tried multiple times.](http://9gag.com/gag/a1PDzB2)<!-- MEMES:END -->
 
 ---
 
