@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
- - ⏩ [Ahh the hypocrisy](http://9gag.com/gag/awZmRnD)
+ - 💣 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
+ - ⏩ [Today marks exactly 38 years since the day when during a parade of Swedish neo-Nazis in V\u00e4xj\u00f6, Danuta Danielsson, a Polish immigrant whose mother survived Majdanek, hit that stupid Nazi head with her handbag.](http://9gag.com/gag/aZD8WrQ)
  - 👉 [Jim Carrey with a vag.](http://9gag.com/gag/a8q0b13)<!-- MEMES:END -->
 
 ---
