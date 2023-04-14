@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Service dog rushes to help owner during medical episode](http://9gag.com/gag/aNwQZDv)
- - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 👉 [I need you](http://9gag.com/gag/a3Z0dm8)<!-- MEMES:END -->
+ - 💣 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - ⏩ [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
+ - 👉 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)<!-- MEMES:END -->
 
 ---
 
