@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - ⏩ [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)
+ - 💣 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
+ - ⏩ [2 gray whales attacked by 30 killer whales. the fight lasted 6 hours, but the 2 Gray whales managed to escape](http://9gag.com/gag/a8q0bXZ)
  - 👉 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
 
 ---
