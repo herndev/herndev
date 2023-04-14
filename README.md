@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘As the Khvarena’s Light Shows: Nirodha’ puzzle](https://www.polygon.com/genshin-impact-guides/23683496/as-the-khvarenas-light-shows-nirodha-puzzle-solution-farrwick)
- - [The New Pokémon Anime Just Revealed A Never Before Seen Monster](https://kotaku.com/pokemon-scarlet-violet-dlc-horizons-anime-terapagos-1850337803)
- - [Pokémon Go Togetic Community Day guide](https://www.polygon.com/pokemon-go-guide/23674409/togetic-community-day-april-shiny-move-togepi-togekiss)<!-- GAME:END -->
+ - [RPG Pulled From Steam Over Theft Allegations Asks Fans To Torrent It Instead](https://kotaku.com/steam-pc-rpg-dark-and-darker-ironmace-torrent-playtest-1850338181)
+ - [Aggressive Nintendo copyright claims on YouTube push Breath of the Wild multiplayer modders into taking down mod](https://www.pcgamer.com/aggressive-nintendo-copyright-claims-on-youtube-push-breath-of-the-wild-multiplayer-modders-into-taking-down-mod)
+ - [Genshin Impact ‘As the Khvarena’s Light Shows: Nirodha’ puzzle](https://www.polygon.com/genshin-impact-guides/23683496/as-the-khvarenas-light-shows-nirodha-puzzle-solution-farrwick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
