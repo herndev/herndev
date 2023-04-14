@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look at Cybertruck’s comically large windshield wiper in action](https://www.theverge.com/2023/4/14/23683065/cybertruck-windshield-wiper-tesla-video)
- - [This Xiaomi 13 Ultra accessory could almost make it a point-and-shoot camera](https://www.androidauthority.com/xiaomi-13-ultra-camera-grip-teaser-3312956/)
- - [Pixel Tablet leaks again showing a newly added hardware switch](https://www.androidauthority.com/pixel-tablet-privacy-switch-3312953/)<!-- TECH:END -->
+ - [Galaxy S21 series starts getting hefty April update with S23 camera features](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [Walmart’s new Google TV box is an absolute steal](https://www.androidauthority.com/walmart-onn-google-tv-4k-box-3312981/)
+ - [First look at Cybertruck’s comically large windshield wiper in action](https://www.theverge.com/2023/4/14/23683065/cybertruck-windshield-wiper-tesla-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
