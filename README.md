@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need you](http://9gag.com/gag/a3Z0dm8)
- - ⏩ [Couch](http://9gag.com/gag/a7q05jq)
- - 👉 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)<!-- MEMES:END -->
+ - 💣 [Damn nosy harry](http://9gag.com/gag/aA0K1n0)
+ - ⏩ [And they&#39;re cute af](http://9gag.com/gag/aBdVYRx)
+ - 👉 [What the..... Oh ok understandable](http://9gag.com/gag/aqe62Dp)<!-- MEMES:END -->
 
 ---
 
