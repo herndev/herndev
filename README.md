@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite video doorbell for most people is $50 off right now](https://www.theverge.com/2023/4/14/23683153/google-nest-wired-video-doorbell-adata-ps5-ssd-nanoleaf-elements-deal-sale)
- - [Meet RedBalloon, the ‘Anti-Woke’ Job Board for Christian Nationalists](https://www.wired.com/story/redballoon-job-board-christian-right/)
- - [Spotify plans to shut down Heardle on May 5, after acquiring the Wordle-inspired music guessing game in July 2022, to focus on other music discovery objectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230414/p9#a230414p9)<!-- TECH:END -->
+ - [Apple commits to using more recycled cobalt in its devices](https://www.theverge.com/2023/4/14/23682820/apple-recycled-metals-cobalt-batteries)
+ - [Samsung confirms its Keyboard app caused One UI 5.1’s battery drain issues](https://www.androidauthority.com/samsung-battery-drain-3313182/)
+ - [Best Internet Providers in Brooklyn     - CNET](https://www.cnet.com/news/best-internet-providers-in-brooklyn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
