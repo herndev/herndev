@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s surprisingly easy to trick an AI chatbot into telling you how to be a very bad boy](https://www.pcgamer.com/its-surprisingly-easy-to-trick-an-ai-chatbot-into-telling-you-how-to-be-a-very-bad-boy)
- - [You too can dress like a Minecraft character for the low, low price of $4,350](https://www.pcgamer.com/you-too-can-dress-like-a-minecraft-character-for-the-low-low-price-of-dollar4350)
- - [Minecraft Legends review](https://www.pcgamer.com/minecraft-legends-review)<!-- GAME:END -->
+ - [Street Fighter 6 is promising &#39;big news&#39; with Lil Wayne on 4/20](https://www.pcgamer.com/street-fighter-6-is-promising-big-news-with-lil-wayne-on-420)
+ - [Don&#39;t let your chonk graphics card sag or it might actually die](https://www.pcgamer.com/dont-let-your-chonk-graphics-card-sag-or-it-might-actually-die)
+ - [Disney Dreamlight Valley Eggstravaganza: all the egg locations and recipes](https://www.pcgamer.com/disney-dreamlight-valley-egg-locations-recipes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
