@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abortion Pill-by-Mail Providers Aren&#39;t Going Anywhere](https://www.wired.com/story/telehealth-abortion-pill-access-court-decision/)
- - [In Final Fantasy XVI, you can command the dog &lpar;and a whole lot more&rpar;](https://www.theverge.com/23680770/final-fantasy-16-gameplay-april-sony-state-of-play)
- - [Noise for Sleep: Is White, Brown, Pink or Blue Best?     - CNET](https://www.cnet.com/health/sleep/nose-for-sleep-is-white-brown-pink-or-blue-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The perfect Lego Nintendo Game Boy doesn’t exist...](https://www.theverge.com/21578775/lego-nintendo-game-boy-fan-model-nick-lever-masters)
+ - [WhatsApp rolls out a handful of new verification and protection features, including defenses against SIM jacking and social engineering attacks &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230413/p29#a230413p29)
+ - [Bungie is ready to ban XIM, Cronus cheaters from Destiny 2](https://www.theverge.com/2023/4/13/23682499/bungie-xim-cheat-device-hardware-ban-suspend-destiny-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
