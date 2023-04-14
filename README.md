@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 is promising &#39;big news&#39; with Lil Wayne on 4/20](https://www.pcgamer.com/street-fighter-6-is-promising-big-news-with-lil-wayne-on-420)
- - [Don&#39;t let your chonk graphics card sag or it might actually die](https://www.pcgamer.com/dont-let-your-chonk-graphics-card-sag-or-it-might-actually-die)
- - [Disney Dreamlight Valley Eggstravaganza: all the egg locations and recipes](https://www.pcgamer.com/disney-dreamlight-valley-egg-locations-recipes)<!-- GAME:END -->
+ - [MLB The Show 23 Jackie Robinson Day Celebration](https://blog.playstation.com/2023/04/14/mlb-the-show-23-jackie-robinson-day-celebration/)
+ - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)
+ - [Critical Role’s Matt Mercer voices Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23683108/zelda-tears-of-the-kingdom-botw2-ganondorf-actor-matthew-mercer-critical-role)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
