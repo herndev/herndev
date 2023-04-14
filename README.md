@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remembering school days](http://9gag.com/gag/ay26nDM)
- - ⏩ [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
- - 👉 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)<!-- MEMES:END -->
+ - 💣 [21 year old Jack Teixeira got arrested for leaking secret documents from the pentagon](http://9gag.com/gag/a3Z0BE1)
+ - ⏩ [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
+ - 👉 [Puddle. Just For Laughs. Don&#39;t try this at home](http://9gag.com/gag/aGEBR8z)<!-- MEMES:END -->
 
 ---
 
