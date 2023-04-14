@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
- - ⏩ [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
- - 👉 [The order you should read Tolkiens books.](http://9gag.com/gag/aoKR0mw)<!-- MEMES:END -->
+ - 💣 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
+ - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
+ - 👉 [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)<!-- MEMES:END -->
 
 ---
 
