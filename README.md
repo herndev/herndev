@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)
- - ⏩ [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 👉 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)<!-- MEMES:END -->
+ - 💣 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - ⏩ [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)
+ - 👉 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
 
 ---
 
