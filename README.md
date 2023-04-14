@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s Matt Mercer Is Zelda: Tears Of The Kingdom&#39;s Rehydrated Ganon After All](https://kotaku.com/zelda-tears-kingdom-mercer-ganon-voice-critical-role-1850336736)
- - [14 Tight Samurai Games You Should Play Right Now](https://kotaku.com/best-samurai-games-elden-ring-ghost-tsushima-ps5-xbox-1850332923)
- - [Next Week on Xbox: New Games for April 17 to 21](https://news.xbox.com/en-us/2023/04/14/next-week-on-xbox-new-games-for-april-17-to-21/)<!-- GAME:END -->
+ - [Splatoon 3’s latest Splatfest is going all out for Zelda](https://www.polygon.com/23683377/splatoon-3-splatfest-legend-of-zelda-tears-of-kingdom)
+ - [The Last of Us Part 1 all collectibles and optional conversations](https://www.polygon.com/last-us-part-1-guides/23680728/collectible-locations-artifacts-firefly-pendants-optional-conversations-training-manuals-comics)
+ - [The Last of Us Part 1 ‘Jackson’ collectibles locations](https://www.polygon.com/last-us-part-1-guides/23665176/jackson-collectibles-locations-epilogue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
