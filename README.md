@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ight Imma Head Out](http://9gag.com/gag/armX1AX)
- - ⏩ [Floor flavour](http://9gag.com/gag/aMEPbWA)
- - 👉 [Boys vs girls](http://9gag.com/gag/ay265bp)<!-- MEMES:END -->
+ - 💣 [I need you](http://9gag.com/gag/a3Z0dm8)
+ - ⏩ [But why though?](http://9gag.com/gag/aYVDWAO)
+ - 👉 [So many life lessons in just a one minute video.](http://9gag.com/gag/aNwQZdK)<!-- MEMES:END -->
 
 ---
 
