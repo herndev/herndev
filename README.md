@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I member..](http://9gag.com/gag/aBdVrnN)
- - ⏩ [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
- - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
+ - 💣 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)
+ - ⏩ [He\u2019s not here for that weak-ass soda](http://9gag.com/gag/ajVLnW1)
+ - 👉 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)<!-- MEMES:END -->
 
 ---
 
