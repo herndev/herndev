@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Xiaomi 13 Ultra accessory could almost make it a point-and-shoot camera](https://www.androidauthority.com/xiaomi-13-ultra-camera-grip-teaser-3312956/)
  - [Pixel Tablet leaks again showing a newly added hardware switch](https://www.androidauthority.com/pixel-tablet-privacy-switch-3312953/)
- - [Bing Chat comes to SwiftKey, so you can Chat while you chat &lpar;Updated: On iOS&rpar;](https://www.androidauthority.com/bing-chat-swiftkey-keyboard-3310126/)
- - [There’s now an app that makes Nearby Share work between Android and macOS](https://www.androidauthority.com/nearby-share-for-macos-android-3312940/)<!-- TECH:END -->
+ - [Bing Chat comes to SwiftKey, so you can Chat while you chat &lpar;Updated: On iOS&rpar;](https://www.androidauthority.com/bing-chat-swiftkey-keyboard-3310126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
