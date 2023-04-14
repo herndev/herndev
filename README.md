@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The maximum number of Total War: Warhammer 3 mods you can install just went up to 65,534](https://www.pcgamer.com/the-maximum-number-of-total-war-warhammer-3-mods-you-can-install-just-went-up-to-65534)
  - [The Art Of Terra Nil](https://kotaku.com/terra-nil-concept-art-illustrations-box-cover-sketches-1850331325)
- - [&lpar;For Southeast Asia&rpar; State of Play debuts 25 minutes of all-new Final Fantasy XVI gameplay](https://blog.playstation.com/2023/04/13/20230413-ff16/)
  - [&lpar;For Southeast Asia&rpar; State of Play debuts 25 minutes of all-new Final Fantasy XVI gameplay](https://blog.playstation.com/2023/04/13/20230413-ff16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
