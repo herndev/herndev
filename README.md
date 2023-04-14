@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the US government’s fight to ban TikTok](https://www.theverge.com/2023/4/14/23682385/tiktok-ban-restrict-act-bytedance-china-free-speech)
- - [Sling TV finally launches on the Amazon Echo Show 8 and 10](https://www.theverge.com/2023/4/14/23683156/sling-tv-amazon-echo-show-launch-streaming)
- - [Sources: the European parliament is close to finalizing tough new measures on AI, including forcing chatbot makers to reveal use of copyrighted material &lpar;Financial Times&rpar;](http://www.techmeme.com/230414/p7#a230414p7)<!-- TECH:END -->
+ - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
+ - [Parler goes offline after being sold to a new owner](https://www.theverge.com/2023/4/14/23683207/parler-shutting-down-relaunch-aquisition-announcement-conservative-social-media)
+ - [Renfield doesn’t deserve Nicolas Cage’s Dracula](https://www.theverge.com/23682856/renfield-review-nicolas-cage-dracula)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
