@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S21 series starts getting hefty April update with S23 camera features](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Walmart’s new Google TV box is an absolute steal](https://www.androidauthority.com/walmart-onn-google-tv-4k-box-3312981/)
- - [First look at Cybertruck’s comically large windshield wiper in action](https://www.theverge.com/2023/4/14/23683065/cybertruck-windshield-wiper-tesla-video)<!-- TECH:END -->
+ - [The Fox News defamation case might be almost as entertaining as Succession](https://www.theverge.com/2023/4/14/23682366/fox-news-defamation-dominion-trial-rupert-murdoch)
+ - [Stephen Curry bio will debut simultaneously in theaters and on Apple TV+ soon](https://appleinsider.com/articles/23/04/14/stephen-curry-bio-will-debut-simultaneously-in-theaters-and-on-apple-tv-soon?utm_medium=rss)
+ - [2019’s FairPhone 3 is now getting Android 13, but there’s more to come](https://www.androidauthority.com/fairphone-3-android-13-3312998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
