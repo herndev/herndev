@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We have to move fast&#39;: US regulators start work on a probably-futile attempt to avoid an AI apocalypse](https://www.pcgamer.com/we-have-to-move-fast-us-regulators-start-work-on-a-probably-futile-attempt-to-avoid-an-ai-apocalypse)
- - [PSA: This weekend’s Love Is Blind reunion is appointment television](https://www.polygon.com/23683426/love-is-blind-reunion-special-what-time-release)
- - [After 11 Years, Naruto Fans Finally Put Some Respect On Sakura’s Name](https://kotaku.com/naruto99-sakura-sasuke-masashi-kishimoto-shonen-jump-1850337464)<!-- GAME:END -->
+ - [Genshin Impact ‘As the Khvarena’s Light Shows: Nirodha’ puzzle](https://www.polygon.com/genshin-impact-guides/23683496/as-the-khvarenas-light-shows-nirodha-puzzle-solution-farrwick)
+ - [The New Pokémon Anime Just Revealed A Never Before Seen Monster](https://kotaku.com/pokemon-scarlet-violet-dlc-horizons-anime-terapagos-1850337803)
+ - [Pokémon Go Togetic Community Day guide](https://www.polygon.com/pokemon-go-guide/23674409/togetic-community-day-april-shiny-move-togepi-togekiss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
