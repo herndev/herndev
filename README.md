@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [21 year old Jack Teixeira got arrested for leaking secret documents from the pentagon](http://9gag.com/gag/a3Z0BE1)
- - ⏩ [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
- - 👉 [Puddle. Just For Laughs. Don&#39;t try this at home](http://9gag.com/gag/aGEBR8z)<!-- MEMES:END -->
+ - 💣 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
+ - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
+ - 👉 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
 
 ---
 
