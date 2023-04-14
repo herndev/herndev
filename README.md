@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
- - ⏩ [2 gray whales attacked by 30 killer whales. the fight lasted 6 hours, but the 2 Gray whales managed to escape](http://9gag.com/gag/a8q0bXZ)
- - 👉 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
+ - 💣 [Not mine but accurate](http://9gag.com/gag/aVbKPp8)
+ - ⏩ [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)
+ - 👉 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
 
 ---
 
