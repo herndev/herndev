@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox creators can now make and sell limited-run avatar gear](https://www.theverge.com/2023/4/14/23683459/roblox-limiteds-creators-make-sell-avatar-gear-user-generated-content-ugc)
- - [VC funding for cybersecurity startups fell to $2.7B in Q1 2023, down 58% from $6.5B in Q1 2022; the number of announced deals dropped 45% YoY to 149 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230414/p11#a230414p11)
- - [Xiaomi Mi Band 8: What we know and what we want to see](https://www.androidauthority.com/xiaomi-mi-band-8-release-date-rumors-price-specs-3292904/)<!-- TECH:END -->
+ - [A bigger MacBook Air may cure Apple’s slumping laptop sales](https://www.theverge.com/23683762/macbook-air-15-m2-m3-summer-wwdc-rumor)
+ - [MacBook Air 15-inch with &#39;M2-like&#39; chip in testing behind closed doors at Apple](https://appleinsider.com/articles/23/04/14/macbook-air-15-inch-with-m2-like-chip-in-testing-behind-closed-doors-at-apple?utm_medium=rss)
+ - [Court docs show FBI used billing records provided by Discord to help identify Jack Teixeira, the alleged leaker of classified Pentagon documents &lpar;Associated Press&rpar;](http://www.techmeme.com/230414/p14#a230414p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
