@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The order you should read Tolkiens books.](http://9gag.com/gag/aoKR0mw)
- - ⏩ [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)
- - 👉 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
+ - 💣 [Ight Imma Head Out](http://9gag.com/gag/armX1AX)
+ - ⏩ [Floor flavour](http://9gag.com/gag/aMEPbWA)
+ - 👉 [Boys vs girls](http://9gag.com/gag/ay265bp)<!-- MEMES:END -->
 
 ---
 
