@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)
- - ⏩ [He\u2019s not here for that weak-ass soda](http://9gag.com/gag/ajVLnW1)
- - 👉 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)<!-- MEMES:END -->
+ - 💣 [The forgotten letter](http://9gag.com/gag/a6q5718)
+ - ⏩ [I member..](http://9gag.com/gag/aBdVrnN)
+ - 👉 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)<!-- MEMES:END -->
 
 ---
 
