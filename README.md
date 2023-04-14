@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 👉 [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)<!-- MEMES:END -->
+ - 💣 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - ⏩ [WTF](http://9gag.com/gag/abvOjw8)
+ - 👉 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)<!-- MEMES:END -->
 
 ---
 
