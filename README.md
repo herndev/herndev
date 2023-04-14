@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s now a Nearby Share app for macOS and it works wonderfully!](https://www.androidauthority.com/nearby-share-for-macos-android-3312940/)
- - [Android 14 will let you disable those pesky full-screen notifications](https://www.androidauthority.com/android-14-full-screen-notifications-3311809/)
- - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)<!-- TECH:END -->
+ - [Pixel Tablet leaks again showing a newly added hardware switch](https://www.androidauthority.com/pixel-tablet-privacy-switch-3312953/)
+ - [Bing Chat comes to SwiftKey, so you can Chat while you chat &lpar;Updated: On iOS&rpar;](https://www.androidauthority.com/bing-chat-swiftkey-keyboard-3310126/)
+ - [There’s now an app that makes Nearby Share work between Android and macOS](https://www.androidauthority.com/nearby-share-for-macos-android-3312940/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
