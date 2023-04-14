@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Dumps Influencer Over Racist Rainbow Six Siege &#39;Jokes&#39;](https://kotaku.com/rainbow-six-siege-ubisoft-racism-streamer-thaqil-tiktok-1850335126)
- - [Diablo 4&#39;s respec cost isn&#39;t changing before launch](https://www.pcgamer.com/diablo-4s-respec-cost-isnt-changing-before-launch)
- - [Hyper Light Breaker creator on reimagining the series as a 3D roguelike: &#39;I don&#39;t think that you could really release Drifter today and get the same sort of success&#39;](https://www.pcgamer.com/hyper-light-breaker-creator-on-reimagining-the-series-as-a-3d-roguelike-i-dont-think-that-you-could-really-release-drifter-today-and-get-the-same-sort-of-success)<!-- GAME:END -->
+ - [The Art Of Terra Nil](https://kotaku.com/terra-nil-concept-art-illustrations-box-cover-sketches-1850331325)
+ - [&lpar;For Southeast Asia&rpar; State of Play debuts 25 minutes of all-new Final Fantasy XVI gameplay](https://blog.playstation.com/2023/04/13/20230413-ff16/)
+ - [&lpar;For Southeast Asia&rpar; State of Play debuts 25 minutes of all-new Final Fantasy XVI gameplay](https://blog.playstation.com/2023/04/13/20230413-ff16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
