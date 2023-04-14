@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)
  - [Hacker advocacy group Hacking Policy Council launches to support security researchers&#39; work; founding members include HackerOne, Bugcrowd, Google, and Intel &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230413/p33#a230413p33)
- - [Twitter adds support for tweets up to 10,000 characters in length, with italic and bold text formatting, for Blue subscribers &lpar;@twitterwrite&rpar;](http://www.techmeme.com/230413/p32#a230413p32)
- - [Spotify brings its &quot;broadcast-to-podcast&quot; tech, which it acquired from Whooshkaa in 2021, to Megaphone, letting publishers convert radio shows into podcasts &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/230413/p31#a230413p31)<!-- TECH:END -->
+ - [Twitter adds support for tweets up to 10,000 characters in length, with italic and bold text formatting, for Blue subscribers &lpar;@twitterwrite&rpar;](http://www.techmeme.com/230413/p32#a230413p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
