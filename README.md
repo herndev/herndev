@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
- - ⏩ [Are you familiar](http://9gag.com/gag/a4oN9AQ)
- - 👉 [Sounds like she\u2019s buying cigarettes and not flowers.](http://9gag.com/gag/a2K0PKY)<!-- MEMES:END -->
+ - 💣 [Floor flavour](http://9gag.com/gag/aMEPbWA)
+ - ⏩ [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - 👉 [She had over $1000 of items in her shopping cart, demanded the cashier give it to her for free due to slavery. Manager came over, same thing. Security came over, she got louder and approached him aggressively all the way onto his office. Well deserved.](http://9gag.com/gag/avQ6L6d)<!-- MEMES:END -->
 
 ---
 
