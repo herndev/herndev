@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV 4K is getting multiview for sports streams](https://www.theverge.com/2023/4/14/23683917/apple-tv-4k-multiview-sports-baseball-soccer)
- - [Montana lawmakers approve a first-of-its-kind bill that bans TikTok and bars app stores from offering the app within the state starting on January 1, 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p17#a230414p17)
- - [Sources: Sega is nearing a deal to acquire Rovio for ~$1B; Rovio was in talks to sell itself to Playtika for $800M+, but the negotiations ended in March 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p16#a230414p16)<!-- TECH:END -->
+ - [SpaceX’s Starship rocket receives clearance for launch](https://www.theverge.com/2023/4/14/23684043/spacex-starship-faa-launch-license)
+ - [Elon Musk founds new AI company called X.AI](https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x)
+ - [Filing: Elon Musk has created X.AI Corp., a new AI company privately held and incorporated in Nevada, and authorized the sale of 100M shares &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p18#a230414p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
