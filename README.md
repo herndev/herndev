@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rachel gets owned](http://9gag.com/gag/avQ6LWZ)
- - ⏩ [Senor Paws, the fight stopper](http://9gag.com/gag/armXeE6)
- - 👉 [Reality is often more impressive than fiction!](http://9gag.com/gag/adPQp2D)<!-- MEMES:END -->
+ - 💣 [I member..](http://9gag.com/gag/aBdVrnN)
+ - ⏩ [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
+ - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
 
 ---
 
