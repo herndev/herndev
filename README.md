@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bigger MacBook Air may cure Apple’s slumping laptop sales](https://www.theverge.com/23683762/macbook-air-15-m2-m3-summer-wwdc-rumor)
- - [MacBook Air 15-inch with &#39;M2-like&#39; chip in testing behind closed doors at Apple](https://appleinsider.com/articles/23/04/14/macbook-air-15-inch-with-m2-like-chip-in-testing-behind-closed-doors-at-apple?utm_medium=rss)
- - [Court docs show FBI used billing records provided by Discord to help identify Jack Teixeira, the alleged leaker of classified Pentagon documents &lpar;Associated Press&rpar;](http://www.techmeme.com/230414/p14#a230414p14)<!-- TECH:END -->
+ - [Save $200 on this M2 MacBook Air with 24GB RAM, 1TB SSD, plus 3 years of AppleCare $189](https://appleinsider.com/articles/23/04/14/save-200-on-this-m2-macbook-air-with-24gb-ram-1tb-ssd-plus-3-years-of-applecare-189?utm_medium=rss)
+ - [The US Supreme Court Restores Access to Abortion Pills—for Now](https://www.wired.com/story/the-us-supreme-court-restores-access-to-abortion-pills-for-now/)
+ - [Note Air2 Plus review: Costly but very desirable e-ink tablet](https://appleinsider.com/articles/23/04/14/note-air2-plus-review-costly-but-very-desirable-e-ink-tablet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
