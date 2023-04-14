@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom leaked ad, website reveal cool new details](https://www.polygon.com/23683793/zelda-tears-of-the-kingdom-leaked-ad-website)
- - [Hackers want a &#39;minimum 8 figures&#39; in ransom payment for data they stole from Western Digital last month](https://www.pcgamer.com/hackers-want-a-minimum-8-figures-in-ransom-payment-for-data-they-stole-from-western-digital-last-month)
- - [Why Discord is at the heart of a major US intelligence leak](https://www.polygon.com/23683683/discord-classified-documents-leak-thug-shaker-central-jack-teixeira)<!-- GAME:END -->
+ - [Sorry Necromancers, Diablo IV Is Nerfing One Of Its Most Popular Classes](https://kotaku.com/diablo-4-patch-notes-necromancer-nerf-butcher-sorcerer-1850339039)
+ - [Sega might buy Angry Birds maker Rovio for $1B](https://www.polygon.com/23683936/sega-rovio-angry-birds-deal-acquisition)
+ - [Dark and Darker is still kicked off Steam, so Ironmace is &#39;going old school&#39; with BitTorrent for the latest playtest and fans are loving it](https://www.pcgamer.com/dark-and-darker-is-still-kicked-off-steam-so-ironmace-is-going-old-school-with-bittorrent-for-the-latest-playtest-and-fans-are-loving-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
