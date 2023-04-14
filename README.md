@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our wildest dreams for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23680936/legend-of-zelda-tears-of-the-kingdom-new-features)
- - [13 Video Game Boss Fights That Should Be Crimes Against Humanity](https://kotaku.com/13-bad-boss-fights-zelda-mass-effect-kingdom-hearts-1850334686)
- - [Nvidia says 83% of RTX 40-series gamers enable ray tracing](https://www.pcgamer.com/nvidia-says-83-of-rtx-40-series-gamers-enable-ray-tracing)<!-- GAME:END -->
+ - [Critical Role’s Matt Mercer Is Zelda: Tears Of The Kingdom&#39;s Rehydrated Ganon After All](https://kotaku.com/zelda-tears-kingdom-mercer-ganon-voice-critical-role-1850336736)
+ - [14 Tight Samurai Games You Should Play Right Now](https://kotaku.com/best-samurai-games-elden-ring-ghost-tsushima-ps5-xbox-1850332923)
+ - [Next Week on Xbox: New Games for April 17 to 21](https://news.xbox.com/en-us/2023/04/14/next-week-on-xbox-new-games-for-april-17-to-21/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
