@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
- - ⏩ [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 👉 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
+ - 💣 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
+ - ⏩ [Testing a screen protector](http://9gag.com/gag/aKEvq6N)
+ - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
 
 ---
 
