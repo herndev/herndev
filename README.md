@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need you](http://9gag.com/gag/a3Z0dm8)
- - ⏩ [But why though?](http://9gag.com/gag/aYVDWAO)
- - 👉 [So many life lessons in just a one minute video.](http://9gag.com/gag/aNwQZdK)<!-- MEMES:END -->
+ - 💣 [Woof??](http://9gag.com/gag/aeQZNzQ)
+ - ⏩ [Floor flavour](http://9gag.com/gag/aMEPbWA)
+ - 👉 [Alpha dads](http://9gag.com/gag/aL14QvW)<!-- MEMES:END -->
 
 ---
 
