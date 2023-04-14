@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fox News defamation case might be almost as entertaining as Succession](https://www.theverge.com/2023/4/14/23682366/fox-news-defamation-dominion-trial-rupert-murdoch)
- - [Stephen Curry bio will debut simultaneously in theaters and on Apple TV+ soon](https://appleinsider.com/articles/23/04/14/stephen-curry-bio-will-debut-simultaneously-in-theaters-and-on-apple-tv-soon?utm_medium=rss)
- - [2019’s FairPhone 3 is now getting Android 13, but there’s more to come](https://www.androidauthority.com/fairphone-3-android-13-3312998/)<!-- TECH:END -->
+ - [The US Wants to Close an &#39;SUV Loophole&#39; That Supersized Cars](https://www.wired.com/story/the-us-wants-to-close-the-suv-loophole-that-supersized-cars/)
+ - [Denver-based Elevate, which provides a dashboard for managing employee benefits, raised $28M led by Anthemis, bringing its total funding to $43M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230414/p3#a230414p3)
+ - [Parlement Technologies agrees to sell right-wing social network Parler to Starboard, which will take temporarily shut down Parler ahead of a planned relaunch &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230414/p2#a230414p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
