@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - ⏩ [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
- - 👉 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)<!-- MEMES:END -->
+ - 💣 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
+ - ⏩ [Are you familiar](http://9gag.com/gag/a4oN9AQ)
+ - 👉 [Sounds like she\u2019s buying cigarettes and not flowers.](http://9gag.com/gag/a2K0PKY)<!-- MEMES:END -->
 
 ---
 
