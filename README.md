@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - ⏩ [WTF](http://9gag.com/gag/abvOjw8)
- - 👉 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)<!-- MEMES:END -->
+ - 💣 [Rachel gets owned](http://9gag.com/gag/avQ6LWZ)
+ - ⏩ [Senor Paws, the fight stopper](http://9gag.com/gag/armXeE6)
+ - 👉 [Reality is often more impressive than fiction!](http://9gag.com/gag/adPQp2D)<!-- MEMES:END -->
 
 ---
 
