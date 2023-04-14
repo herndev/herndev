@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn nosy harry](http://9gag.com/gag/aA0K1n0)
- - ⏩ [And they&#39;re cute af](http://9gag.com/gag/aBdVYRx)
- - 👉 [What the..... Oh ok understandable](http://9gag.com/gag/aqe62Dp)<!-- MEMES:END -->
+ - 💣 [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)
+ - ⏩ [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 👉 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)<!-- MEMES:END -->
 
 ---
 
