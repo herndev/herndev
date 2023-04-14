@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23 Jackie Robinson Day Celebration](https://blog.playstation.com/2023/04/14/mlb-the-show-23-jackie-robinson-day-celebration/)
- - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)
- - [Critical Role’s Matt Mercer voices Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23683108/zelda-tears-of-the-kingdom-botw2-ganondorf-actor-matthew-mercer-critical-role)<!-- GAME:END -->
+ - [Our wildest dreams for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23680936/legend-of-zelda-tears-of-the-kingdom-new-features)
+ - [13 Video Game Boss Fights That Should Be Crimes Against Humanity](https://kotaku.com/13-bad-boss-fights-zelda-mass-effect-kingdom-hearts-1850334686)
+ - [Nvidia says 83% of RTX 40-series gamers enable ray tracing](https://www.pcgamer.com/nvidia-says-83-of-rtx-40-series-gamers-enable-ray-tracing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
