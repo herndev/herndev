@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)
- - [Hacker advocacy group Hacking Policy Council launches to support security researchers&#39; work; founding members include HackerOne, Bugcrowd, Google, and Intel &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230413/p33#a230413p33)
- - [Twitter adds support for tweets up to 10,000 characters in length, with italic and bold text formatting, for Blue subscribers &lpar;@twitterwrite&rpar;](http://www.techmeme.com/230413/p32#a230413p32)<!-- TECH:END -->
+ - [There’s now a Nearby Share app for macOS and it works wonderfully!](https://www.androidauthority.com/nearby-share-for-macos-android-3312940/)
+ - [Android 14 will let you disable those pesky full-screen notifications](https://www.androidauthority.com/android-14-full-screen-notifications-3311809/)
+ - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
