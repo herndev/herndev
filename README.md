@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the Peaky Blinders stealth puzzle game that was delisted on Steam free for a limited time](https://www.pcgamer.com/get-the-peaky-blinders-stealth-puzzle-game-that-was-delisted-on-steam-free-for-a-limited-time)
- - [Wordle hint and answer #664: Friday, April 14](https://www.pcgamer.com/wordle-hint-answer-today-664-april-14)
- - [The maximum number of Total War: Warhammer 3 mods you can install just went up to 65,534](https://www.pcgamer.com/the-maximum-number-of-total-war-warhammer-3-mods-you-can-install-just-went-up-to-65534)<!-- GAME:END -->
+ - [Minecraft Legends review](https://www.pcgamer.com/minecraft-legends-review)
+ - [Minecraft Legends is more exciting proof that Minecraft can be anything](https://www.polygon.com/reviews/23681749/minecraft-legends-review-action-strategy-army-overworld-piglins)
+ - [Minecraft Legends: The Kotaku Review](https://kotaku.com/minecraft-legends-review-xbox-game-pass-mojang-1850334390)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
