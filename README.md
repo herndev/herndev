@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woof??](http://9gag.com/gag/aeQZNzQ)
- - ⏩ [Floor flavour](http://9gag.com/gag/aMEPbWA)
- - 👉 [Alpha dads](http://9gag.com/gag/aL14QvW)<!-- MEMES:END -->
+ - 💣 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
+ - ⏩ [`I&#39;m f*cking girl` spoken like a real lady](http://9gag.com/gag/amA6NWX)
+ - 👉 [The order you should read Tolkiens books.](http://9gag.com/gag/aoKR0mw)<!-- MEMES:END -->
 
 ---
 
