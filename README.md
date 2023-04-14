@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The forgotten letter](http://9gag.com/gag/a6q5718)
- - ⏩ [I member..](http://9gag.com/gag/aBdVrnN)
+ - 💣 [Remembering school days](http://9gag.com/gag/ay26nDM)
+ - ⏩ [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
  - 👉 [A Wholesome Film for Wholesome Memes](http://9gag.com/gag/amA68mV)<!-- MEMES:END -->
 
 ---
