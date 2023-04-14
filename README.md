@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3’s latest Splatfest is going all out for Zelda](https://www.polygon.com/23683377/splatoon-3-splatfest-legend-of-zelda-tears-of-kingdom)
- - [The Last of Us Part 1 all collectibles and optional conversations](https://www.polygon.com/last-us-part-1-guides/23680728/collectible-locations-artifacts-firefly-pendants-optional-conversations-training-manuals-comics)
- - [The Last of Us Part 1 ‘Jackson’ collectibles locations](https://www.polygon.com/last-us-part-1-guides/23665176/jackson-collectibles-locations-epilogue)<!-- GAME:END -->
+ - [&#39;We have to move fast&#39;: US regulators start work on a probably-futile attempt to avoid an AI apocalypse](https://www.pcgamer.com/we-have-to-move-fast-us-regulators-start-work-on-a-probably-futile-attempt-to-avoid-an-ai-apocalypse)
+ - [PSA: This weekend’s Love Is Blind reunion is appointment television](https://www.polygon.com/23683426/love-is-blind-reunion-special-what-time-release)
+ - [After 11 Years, Naruto Fans Finally Put Some Respect On Sakura’s Name](https://kotaku.com/naruto99-sakura-sasuke-masashi-kishimoto-shonen-jump-1850337464)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
