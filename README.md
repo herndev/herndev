@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on this M2 MacBook Air with 24GB RAM, 1TB SSD, plus 3 years of AppleCare $189](https://appleinsider.com/articles/23/04/14/save-200-on-this-m2-macbook-air-with-24gb-ram-1tb-ssd-plus-3-years-of-applecare-189?utm_medium=rss)
- - [The US Supreme Court Restores Access to Abortion Pills—for Now](https://www.wired.com/story/the-us-supreme-court-restores-access-to-abortion-pills-for-now/)
- - [Note Air2 Plus review: Costly but very desirable e-ink tablet](https://appleinsider.com/articles/23/04/14/note-air2-plus-review-costly-but-very-desirable-e-ink-tablet?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV 4K is getting multiview for sports streams](https://www.theverge.com/2023/4/14/23683917/apple-tv-4k-multiview-sports-baseball-soccer)
+ - [Montana lawmakers approve a first-of-its-kind bill that bans TikTok and bars app stores from offering the app within the state starting on January 1, 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p17#a230414p17)
+ - [Sources: Sega is nearing a deal to acquire Rovio for ~$1B; Rovio was in talks to sell itself to Playtika for $800M+, but the negotiations ended in March 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p16#a230414p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
