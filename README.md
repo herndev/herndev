@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floor flavour](http://9gag.com/gag/aMEPbWA)
- - ⏩ [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - 👉 [She had over $1000 of items in her shopping cart, demanded the cashier give it to her for free due to slavery. Manager came over, same thing. Security came over, she got louder and approached him aggressively all the way onto his office. Well deserved.](http://9gag.com/gag/avQ6L6d)<!-- MEMES:END -->
+ - 💣 [The order you should read Tolkiens books.](http://9gag.com/gag/aoKR0mw)
+ - ⏩ [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)
+ - 👉 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
 
 ---
 
