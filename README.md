@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Needs the New Harry Potter Series?](https://www.wired.com/story/hbo-max-new-harry-potter-series-j-k-rowling/)
- - [13 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [Tech Layoffs Reveal America’s Unhealthy Obsession With Work](https://www.wired.com/story/plaintext-tech-layoffs-reveal-americas-unhealthy-obsession-with-work/)<!-- TECH:END -->
+ - [Inside the US government’s fight to ban TikTok](https://www.theverge.com/2023/4/14/23682385/tiktok-ban-restrict-act-bytedance-china-free-speech)
+ - [Sling TV finally launches on the Amazon Echo Show 8 and 10](https://www.theverge.com/2023/4/14/23683156/sling-tv-amazon-echo-show-launch-streaming)
+ - [Sources: the European parliament is close to finalizing tough new measures on AI, including forcing chatbot makers to reveal use of copyrighted material &lpar;Financial Times&rpar;](http://www.techmeme.com/230414/p7#a230414p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
