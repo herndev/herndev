@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
- - ⏩ [Testing a screen protector](http://9gag.com/gag/aKEvq6N)
- - 👉 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
+ - 💣 [I need you](http://9gag.com/gag/a3Z0dm8)
+ - ⏩ [Couch](http://9gag.com/gag/a7q05jq)
+ - 👉 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)<!-- MEMES:END -->
 
 ---
 
