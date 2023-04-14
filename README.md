@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple commits to using more recycled cobalt in its devices](https://www.theverge.com/2023/4/14/23682820/apple-recycled-metals-cobalt-batteries)
- - [Samsung confirms its Keyboard app caused One UI 5.1’s battery drain issues](https://www.androidauthority.com/samsung-battery-drain-3313182/)
- - [Best Internet Providers in Brooklyn     - CNET](https://www.cnet.com/news/best-internet-providers-in-brooklyn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung could make a big change to the cameras on the Galaxy S24 Ultra](https://www.androidauthority.com/galaxy-s24-rumor-3313227/)
+ - [Microsoft’s new Xbox Home UI is getting reworked after complaints over ‘crowded’ backgrounds](https://www.theverge.com/2023/4/14/23683586/microsoft-xbox-home-ui-backgrounds-feedback)
+ - [Microsoft Edge tests a sidebar that you can pin to your desktop](https://www.theverge.com/2023/4/14/23683479/microsoft-edge-detachable-sidebar-windows-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
