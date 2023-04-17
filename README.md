@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
- - ⏩ [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 👉 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
+ - 💣 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
+ - ⏩ [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
+ - 👉 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
 
 ---
 
