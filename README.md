@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The comments are the poll](http://9gag.com/gag/avQ685M)
- - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
- - 👉 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
+ - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - ⏩ [The excitement died real quick](http://9gag.com/gag/a8q0ojp)
+ - 👉 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
 
 ---
 
