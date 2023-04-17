@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Failing internet and Game of Thrones fandom turned Cuban kids into fake spies](https://www.polygon.com/23682653/cuba-snet-gaming-tv-internet-access)
- - [In the year 2000, everyone wanted a female James Bond](https://www.polygon.com/23681047/female-james-bond-alias-kim-possible-perfect-dark)
- - [The US hunt for truth serum during WWII shaped our superheroes](https://www.polygon.com/23680401/truth-serum-us-spy-history-wonder-woman-comics)<!-- GAME:END -->
+ - [This May Be The Biggest Pokémon Card Theft In History, And It’s Causing Drama](https://kotaku.com/pokemon-card-tcg-fusion-strike-full-art-bad-pulls-theft-1850343930)
+ - [Nvidia RTX 4060 Ti rumoured to cost $450 at launch in May](https://www.pcgamer.com/nvidia-rtx-4060-ti-rumoured-to-cost-dollar450-at-launch-in-may)
+ - [The TikTok-famous Pokémon: Sweet Friends Switch accessories are back in stock](https://www.polygon.com/deals/23686431/pokemon-sweet-friends-nintendo-switch-accessories-target)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
