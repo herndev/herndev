@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors&#39; latest DLC is a perfect $2 jolt of the game I fell in love with last year](https://www.pcgamer.com/vampire-survivors-latest-dlc-is-a-perfect-dollar2-jolt-of-the-game-i-fell-in-love-with-last-year)
- - [Cocaine Bear, Netflix’s Last Kingdom movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/14/23677033/new-movies-watch-cocaine-bear-netflix-last-kingdom-movie-streaming)
- - [You&#39;re dead and stalked by Death Stranding monsters in this indie game about grief](https://www.pcgamer.com/youre-dead-and-stalked-by-death-stranding-monsters-in-this-indie-game-about-grief)<!-- GAME:END -->
+ - [That Renfield movie with Nic Cage has a Vampire Survivors-style tie-in game, and it has no right to be this good](https://www.pcgamer.com/that-renfield-movie-with-nic-cage-has-a-vampire-survivors-style-tie-in-game-and-it-has-no-right-to-be-this-good)
+ - [Great moments in PC gaming: Stealing and wearing your enemies&#39; clothes](https://www.pcgamer.com/great-moments-in-pc-gaming-stealing-and-wearing-your-enemies-clothes)
+ - [Stardew Valley is getting a surprise update with new content](https://www.pcgamer.com/stardew-valley-is-getting-a-surprise-update-with-new-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
