@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will be men](http://9gag.com/gag/avQ6zE5)
- - ⏩ [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)
- - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
+ - 💣 [Flawless logic](http://9gag.com/gag/aDY8Yxd)
+ - ⏩ [Who reads this anyway](http://9gag.com/gag/aqe6jpP)
+ - 👉 [My dad did the same except without the cushion](http://9gag.com/gag/aoKRMQx)<!-- MEMES:END -->
 
 ---
 
