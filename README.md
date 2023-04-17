@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad](http://9gag.com/gag/a4oNG4w)
- - ⏩ [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
- - 👉 [Finding out in class](http://9gag.com/gag/a7q030x)<!-- MEMES:END -->
+ - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - ⏩ [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
+ - 👉 [Any advice?](http://9gag.com/gag/aVbKw08)<!-- MEMES:END -->
 
 ---
 
