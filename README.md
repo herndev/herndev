@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fraud by Cadbury](http://9gag.com/gag/a3Z01j7)
- - ⏩ [A true legend](http://9gag.com/gag/aVbKx7d)
- - 👉 [Based. No re](http://9gag.com/gag/aXnVo12)<!-- MEMES:END -->
+ - 💣 [Men will be men](http://9gag.com/gag/avQ6zE5)
+ - ⏩ [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)
+ - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
 
 ---
 
