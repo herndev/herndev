@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pitaka Sunset Moment MagEZ 3 case review: Channelling those summer vibes](https://appleinsider.com/articles/23/04/17/pitaka-sunset-moment-magez-3-case-review-channelling-those-summer-vibes?utm_medium=rss)
- - [How to watch SpaceX Starship’s first test flight — the most powerful rocket ever](https://www.theverge.com/2023/4/17/23686131/how-to-watch-spacex-starship-first-test-flight-launch-livestream)
- - [Thinner, hybrid OLED iPad Pro models on track for 2024](https://appleinsider.com/articles/23/04/17/thinner-hybrid-oled-ipad-pro-models-on-track-for-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Contentious iPhone 15 Pro rumor season continues with details about &#39;Action button&#39;](https://appleinsider.com/articles/23/04/17/contentious-iphone-15-pro-rumor-season-continues-with-details-about-action-button?utm_medium=rss)
+ - [Apple is just getting started with it&#39;s long-term plan to dominate India&#39;s smartphone market](https://appleinsider.com/articles/23/04/17/apple-is-just-getting-started-with-its-long-term-plan-to-dominate-indias-smartphone-market?utm_medium=rss)
+ - [Razor Group, which buys and scales up e-commerce merchants, raised an &amp;euro;80M Series C, sources say at a $1.2B valuation and acquires its competitor Stryze Group &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230417/p4#a230417p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
