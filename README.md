@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any advice?](http://9gag.com/gag/aVbKw08)
- - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
- - 👉 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
+ - 💣 [Men will be men](http://9gag.com/gag/avQ6zE5)
+ - ⏩ [6 inches is more than enough](http://9gag.com/gag/aoKROgg)
+ - 👉 [A common thing in Netflix hours](http://9gag.com/gag/aBdVnrN)<!-- MEMES:END -->
 
 ---
 
