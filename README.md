@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - ⏩ [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
- - 👉 [Any advice?](http://9gag.com/gag/aVbKw08)<!-- MEMES:END -->
+ - 💣 [Any advice?](http://9gag.com/gag/aVbKw08)
+ - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - 👉 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
 
 ---
 
