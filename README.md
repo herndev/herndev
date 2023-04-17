@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17 could lay the groundwork for sideloading apps on iPhones!](https://www.androidauthority.com/apple-ios-17-sideloading-apps-3313523/)
  - [From hardware to software, here’s what Apple will reveal at WWDC 2023](https://www.androidauthority.com/apple-wwdc-2023-leak-3313518/)
- - [Motorola Razr Lite leaks: What makes this foldable Lite?](https://www.androidauthority.com/motorola-razr-lite-design-3313505/)
- - [Panic at the AI disco: Google plans flurry of features after a Samsung threat](https://www.androidauthority.com/google-search-ai-samsung-3313500/)<!-- TECH:END -->
+ - [Motorola Razr Lite leaks: What makes this foldable Lite?](https://www.androidauthority.com/motorola-razr-lite-design-3313505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
