@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flawless logic](http://9gag.com/gag/aDY8Yxd)
- - ⏩ [Who reads this anyway](http://9gag.com/gag/aqe6jpP)
- - 👉 [My dad did the same except without the cushion](http://9gag.com/gag/aoKRMQx)<!-- MEMES:END -->
+ - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 👉 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
 
 ---
 
