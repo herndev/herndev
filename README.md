@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
- - 👉 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
+ - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
+ - ⏩ [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
+ - 👉 [Diversity Hire.](http://9gag.com/gag/anz24Dz)<!-- MEMES:END -->
 
 ---
 
