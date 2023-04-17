@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stretching exercises](http://9gag.com/gag/aZD87oW)
- - ⏩ [It&#39;s ma&#39;am](http://9gag.com/gag/armXG2B)
- - 👉 [It\u2019s a matter of national security, isn\u2019t it? Germany\u2019s allies are in trouble too if they become even more dependent on Russia for their electricity.](http://9gag.com/gag/az2KMXb)<!-- MEMES:END -->
+ - 💣 [Chad](http://9gag.com/gag/a4oNG4w)
+ - ⏩ [Any advice?](http://9gag.com/gag/aVbKw08)
+ - 👉 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
 
 ---
 
