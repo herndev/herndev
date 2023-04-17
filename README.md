@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This May Be The Biggest Pokémon Card Theft In History, And It’s Causing Drama](https://kotaku.com/pokemon-card-tcg-fusion-strike-full-art-bad-pulls-theft-1850343930)
- - [Nvidia RTX 4060 Ti rumoured to cost $450 at launch in May](https://www.pcgamer.com/nvidia-rtx-4060-ti-rumoured-to-cost-dollar450-at-launch-in-may)
- - [The TikTok-famous Pokémon: Sweet Friends Switch accessories are back in stock](https://www.polygon.com/deals/23686431/pokemon-sweet-friends-nintendo-switch-accessories-target)<!-- GAME:END -->
+ - [Fans Think Jack Black&#39;s Bowser May Have Rickrolled Us All With &#39;Peaches&#39; Song](https://kotaku.com/super-mario-bros-movie-bowser-jack-black-peaches-song-1850344353)
+ - [Stardew Valley gets new dialogue in next patch](https://www.polygon.com/23686673/stardew-valley-patch-1-6-release-date)
+ - [The Making Of The Sonic Murder Game That Took The Internet By Storm](https://kotaku.com/murder-of-sonic-the-hedgehog-mystery-game-free-steam-1850344140)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
