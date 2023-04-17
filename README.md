@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winner fools Sony photography contest judges with AI-generated art](https://www.androidauthority.com/sony-ai-generated-art-3313746/)
- - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)
- - [The Short Path From a Discord Flex to High Treason](https://www.wired.com/story/the-short-path-from-a-discord-flex-to-high-treason/)<!-- TECH:END -->
+ - [Ransomware gang Vice Society leaks data stolen from US network infrastructure company CommScope, including thousands of employees&#39; SSNs and bank account details &lpar;TechCrunch&rpar;](http://www.techmeme.com/230417/p17#a230417p17)
+ - [The Pixel Fold launch could be scheduled for June](https://www.androidauthority.com/pixel-fold-launch-date-3313872/)
+ - [Tons of Pixel Tablet info just leaked, including good news about the dock](https://www.androidauthority.com/google-pixel-tablet-dock-3313892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
