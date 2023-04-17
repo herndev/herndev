@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
- - 👉 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
+ - 💣 [Fraud by Cadbury](http://9gag.com/gag/a3Z01j7)
+ - ⏩ [A true legend](http://9gag.com/gag/aVbKx7d)
+ - 👉 [Turbine goes brrrr](http://9gag.com/gag/a9q51AK)<!-- MEMES:END -->
 
 ---
 
