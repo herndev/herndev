@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Chad](http://9gag.com/gag/a4oNG4w)
- - ⏩ [Any advice?](http://9gag.com/gag/aVbKw08)
- - 👉 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
+ - ⏩ [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
+ - 👉 [Finding out in class](http://9gag.com/gag/a7q030x)<!-- MEMES:END -->
 
 ---
 
