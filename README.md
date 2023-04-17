@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can confirm](http://9gag.com/gag/az2KXAq)
- - ⏩ [Ara ara](http://9gag.com/gag/az2Kq8m)
- - 👉 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)<!-- MEMES:END -->
+ - 💣 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
+ - ⏩ [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)
+ - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
 
 ---
 
