@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - ⏩ [The excitement died real quick](http://9gag.com/gag/a8q0ojp)
- - 👉 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
+ - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - ⏩ [A great house to live](http://9gag.com/gag/amA6PO4)
+ - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
 
 ---
 
