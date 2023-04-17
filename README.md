@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Asus ROG Zephyrus G14, one of our favorite gaming laptops, is nearly half off](https://www.theverge.com/2023/4/17/23686455/asus-rog-zephyrus-g14-gaming-laptop-deal-sale)
- - [Sennheiser HD 660S2 Review: Heavenly low end, premium price](https://www.wired.com/review/)
- - [Pixel 7a could have an earlier launch date than expected](https://www.androidauthority.com/pixel-7a-rumor-3313664/)<!-- TECH:END -->
+ - [Only six EVs still qualify for the $7,500 federal tax credit after new rules go into effect](https://www.theverge.com/2023/4/17/23686516/ev-tax-credit-list-qualify-eligible-tesla-chevy-ford)
+ - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [A look at autonomous AI agents like Auto-GPT and BabyAGI, which perform multistep tasks by iteratively taking output from GPT-4 and feeding it back into itself &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230417/p13#a230417p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
