@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ransomware gang Vice Society leaks data stolen from US network infrastructure company CommScope, including thousands of employees&#39; SSNs and bank account details &lpar;TechCrunch&rpar;](http://www.techmeme.com/230417/p17#a230417p17)
- - [The Pixel Fold launch could be scheduled for June](https://www.androidauthority.com/pixel-fold-launch-date-3313872/)
- - [Tons of Pixel Tablet info just leaked, including good news about the dock](https://www.androidauthority.com/google-pixel-tablet-dock-3313892/)<!-- TECH:END -->
+ - [Mercedes-Benz’s EQS electric SUV gets the Maybach treatment](https://www.theverge.com/2023/4/17/23686484/mercedes-benz-maybach-eqs-680-suv-announce)
+ - [Chinese Cops Ran Troll Farm and Secret NY Police Station, US Says](https://www.wired.com/story/china-secret-police-station-nyc-mps-trolls/)
+ - [GoDaddy rolls out support for Tap to Pay on iPhone for U.S. businesses](https://appleinsider.com/articles/23/04/17/godaddy-rolls-out-support-for-tap-to-pay-on-iphone-for-us-businesses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
