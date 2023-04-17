@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
+ - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
  - ⏩ [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 👉 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
+ - 👉 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
 
 ---
 
