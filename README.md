@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contentious iPhone 15 Pro rumor season continues with details about &#39;Action button&#39;](https://appleinsider.com/articles/23/04/17/contentious-iphone-15-pro-rumor-season-continues-with-details-about-action-button?utm_medium=rss)
- - [Apple is just getting started with it&#39;s long-term plan to dominate India&#39;s smartphone market](https://appleinsider.com/articles/23/04/17/apple-is-just-getting-started-with-its-long-term-plan-to-dominate-indias-smartphone-market?utm_medium=rss)
- - [Razor Group, which buys and scales up e-commerce merchants, raised an &amp;euro;80M Series C, sources say at a $1.2B valuation and acquires its competitor Stryze Group &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230417/p4#a230417p4)<!-- TECH:END -->
+ - [SpaceX Starship countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
+ - [Source: Apple&#39;s revenue in India hit a record ~$6B in the year ended March, up ~50% YoY from $4.1B; Tim Cook is set to open India&#39;s first Apple stores this week &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230417/p5#a230417p5)
+ - [Tim Cook expected to meet with India&#39;s Prime Minister](https://appleinsider.com/articles/23/04/17/tim-cook-expected-to-meet-with-indias-prime-minister?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
