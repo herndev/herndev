@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
- - ⏩ [Me gaining consciousness at 5](http://9gag.com/gag/aREM025)
- - 👉 [Sites to cure your boredom](http://9gag.com/gag/aBdVgQ2)<!-- MEMES:END -->
+ - 💣 [Mysterious Building Appears Isolated on Mountainside in Madeira, Portugal.](http://9gag.com/gag/abv4zmv)
+ - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - 👉 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
 
 ---
 
