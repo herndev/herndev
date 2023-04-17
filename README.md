@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mysterious Building Appears Isolated on Mountainside in Madeira, Portugal.](http://9gag.com/gag/abv4zmv)
- - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - 💣 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
+ - ⏩ [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
  - 👉 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
 
 ---
