@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new savings account lets Card users grow their Daily Cash](https://www.theverge.com/2023/4/17/23686409/apple-savings-account-daily-cash-grow-goldman-sachs)
- - [Apple&#39;s Mac had a tough first quarter of 2023, in a bad overall PC market](https://appleinsider.com/articles/23/04/17/apples-mac-had-a-tough-first-quarter-of-2023-in-a-bad-overall-pc-market?utm_medium=rss)
- - [The SEC sues Bittrex and its ex-CEO for allegedly operating an unregistered securities exchange, claiming tokens like Algorand and Omise Go are securities &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230417/p11#a230417p11)<!-- TECH:END -->
+ - [The Asus ROG Zephyrus G14, one of our favorite gaming laptops, is nearly half off](https://www.theverge.com/2023/4/17/23686455/asus-rog-zephyrus-g14-gaming-laptop-deal-sale)
+ - [Sennheiser HD 660S2 Review: Heavenly low end, premium price](https://www.wired.com/review/)
+ - [Pixel 7a could have an earlier launch date than expected](https://www.androidauthority.com/pixel-7a-rumor-3313664/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
