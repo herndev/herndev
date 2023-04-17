@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Think Jack Black&#39;s Bowser May Have Rickrolled Us All With &#39;Peaches&#39; Song](https://kotaku.com/super-mario-bros-movie-bowser-jack-black-peaches-song-1850344353)
- - [Stardew Valley gets new dialogue in next patch](https://www.polygon.com/23686673/stardew-valley-patch-1-6-release-date)
- - [The Making Of The Sonic Murder Game That Took The Internet By Storm](https://kotaku.com/murder-of-sonic-the-hedgehog-mystery-game-free-steam-1850344140)<!-- GAME:END -->
+ - [Netflix nabs ex-Halo, Destiny creative director to lead new game franchise](https://www.polygon.com/23686464/netflix-games-joseph-station-halo-destiny)
+ - [How to unlock the Regal Tiger and Brilliant Beetle mounts in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-mounts-tiger-beetle-bird)
+ - [Sega Gobbles Up Angry Birds In Gaming Industry’s Most Bizarre Acquisition Yet](https://kotaku.com/sega-sonic-rovio-angry-birds-iphone-mobile-acquisition-1850344414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
