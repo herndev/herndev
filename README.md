@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 could lay the groundwork for sideloading apps on iPhones!](https://www.androidauthority.com/apple-ios-17-sideloading-apps-3313523/)
- - [From hardware to software, here’s what Apple will reveal at WWDC 2023](https://www.androidauthority.com/apple-wwdc-2023-leak-3313518/)
- - [Motorola Razr Lite leaks: What makes this foldable Lite?](https://www.androidauthority.com/motorola-razr-lite-design-3313505/)<!-- TECH:END -->
+ - [Sega acquires Rovio, best known for its Angry Birds franchise, for &amp;euro;706M &lpar;Jenni Reid/CNBC&rpar;](http://www.techmeme.com/230417/p1#a230417p1)
+ - [Google will reportedly release new AI powered search tools next month](https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal)
+ - [Google wants you to uninstall Meet so you can use Meet](https://www.androidauthority.com/google-uninstall-meet-3313533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
