@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MagSafe accessories for iPhone 14](https://appleinsider.com/inside/iphone-14/best/best-magsafe-accessories-for-iphone-14?utm_medium=rss)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [The WGA has overwhelmingly voted to authorize a strike](https://www.theverge.com/2023/4/17/23687112/wga-strike-vote-authorization-amptp)<!-- TECH:END -->
+ - [Illinois, Michigan, and seven other US states join the DOJ lawsuit against Google, jointly filed with eight states in January 2023, for alleged ad tech monopoly &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230417/p19#a230417p19)
+ - [Drop CTRL mechanical keyboard review: premium typing but difficult customization](https://appleinsider.com/articles/23/04/17/drop-ctrl-mechanical-keyboard-review-premium-typing-but-difficult-customization?utm_medium=rss)
+ - [Bowser has been freed from prison](https://www.theverge.com/2023/4/17/23687163/gary-bowser-freed-prison-nintendo-switch-hacking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
