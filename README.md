@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to see who else is using your streaming service subscriptions](https://www.theverge.com/23683427/sign-people-out-streaming-netflix-disney-apple-google-how-to)
- - [Sources: after its first-ever ad sales drop, Meta ditched its brash tone with advertisers and is offering sweeteners, including a 25% discount for Reels ads &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/230417/p7#a230417p7)
- - [AT&amp;T launches medical radar device that monitors older adults through walls](https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy)<!-- TECH:END -->
+ - [Apple’s new savings account lets Card users grow their Daily Cash](https://www.theverge.com/2023/4/17/23686409/apple-savings-account-daily-cash-grow-goldman-sachs)
+ - [Apple&#39;s Mac had a tough first quarter of 2023, in a bad overall PC market](https://appleinsider.com/articles/23/04/17/apples-mac-had-a-tough-first-quarter-of-2023-in-a-bad-overall-pc-market?utm_medium=rss)
+ - [The SEC sues Bittrex and its ex-CEO for allegedly operating an unregistered securities exchange, claiming tokens like Algorand and Omise Go are securities &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230417/p11#a230417p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
