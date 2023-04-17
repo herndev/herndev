@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Starship rocket receives clearance for launch](https://www.theverge.com/2023/4/14/23684043/spacex-starship-faa-launch-license)
- - [Elon Musk founds new AI company called X.AI](https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x)
- - [Filing: Elon Musk has created X.AI Corp., a new AI company privately held and incorporated in Nevada, and authorized the sale of 100M shares &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230414/p18#a230414p18)<!-- TECH:END -->
+ - [Dabbsson Home Backup Power Station review: portable power at a price](https://appleinsider.com/articles/23/04/16/dabbsson-home-backup-power-station-review-portable-power-at-a-price?utm_medium=rss)
+ - [A US House Committee publishes a draft stablecoin bill, which proposes a moratorium on stablecoins backed by other cryptocurrencies, a CBDC study, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230416/p7#a230416p7)
+ - [NuPhy Air96 Wireless Mechanical Keyboard review: A light keyboard with heavy customization](https://appleinsider.com/articles/23/04/16/nuphy-air96-wireless-mechanical-keyboard-review-a-light-keyboard-with-heavy-customization?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
