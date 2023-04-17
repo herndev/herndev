@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo franchise executive leaves 343 Industries in latest shakeup](https://www.polygon.com/23687130/halo-343-industries-leadership-frank-oconnor-joseph-staten)
- - [Diablo 4 has officially gone gold](https://www.pcgamer.com/diablo-4-has-officially-gone-gold)
- - [A new multiplayer Harry Potter game promises all the online Quidditch you can&#39;t play in Hogwarts Legacy](https://www.pcgamer.com/a-new-multiplayer-harry-potter-game-promises-all-the-online-quidditch-you-cant-play-in-hogwarts-legacy)<!-- GAME:END -->
+ - [Destiny 2 Streamer Accused Of Major Leak: &#39;Only God Can Judge Me&#39;](https://kotaku.com/destiny-2-bungie-leak-ban-twitch-streamer-season-21-1850345998)
+ - [With yet another senior departure, it seems like just about all of Halo&#39;s leadership has changed over in the last 2 years](https://www.pcgamer.com/with-yet-another-senior-departure-it-seems-like-just-about-all-of-halos-leadership-has-changed-over-in-the-last-2-years)
+ - [Spotify is killing Wordle-like music puzzle game Heardle next month](https://www.pcgamer.com/spotify-is-killing-wordle-like-music-puzzle-game-heardle-next-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
