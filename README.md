@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panic at the AI disco: Google plans flurry of features after a Samsung threat](https://www.androidauthority.com/google-search-ai-samsung-3313500/)
- - [SpaceX Starship countdown: all of the news on its first flight to orbit](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
- - [Contract docs reveal the Georgia National Guard plans to use location-based phone surveillance to target ads using geofences around 67 local public high schools &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230416/p9#a230416p9)<!-- TECH:END -->
+ - [From hardware to software, here’s what Apple will reveal at WWDC 2023](https://www.androidauthority.com/apple-wwdc-2023-leak-3313518/)
+ - [Motorola Razr Lite leaks: What makes this foldable Lite?](https://www.androidauthority.com/motorola-razr-lite-design-3313505/)
+ - [Panic at the AI disco: Google plans flurry of features after a Samsung threat](https://www.androidauthority.com/google-search-ai-samsung-3313500/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
