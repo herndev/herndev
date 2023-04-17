@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz’s EQS electric SUV gets the Maybach treatment](https://www.theverge.com/2023/4/17/23686484/mercedes-benz-maybach-eqs-680-suv-announce)
- - [Chinese Cops Ran Troll Farm and Secret NY Police Station, US Says](https://www.wired.com/story/china-secret-police-station-nyc-mps-trolls/)
- - [GoDaddy rolls out support for Tap to Pay on iPhone for U.S. businesses](https://appleinsider.com/articles/23/04/17/godaddy-rolls-out-support-for-tap-to-pay-on-iphone-for-us-businesses?utm_medium=rss)<!-- TECH:END -->
+ - [Best MagSafe accessories for iPhone 14](https://appleinsider.com/inside/iphone-14/best/best-magsafe-accessories-for-iphone-14?utm_medium=rss)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [The WGA has overwhelmingly voted to authorize a strike](https://www.theverge.com/2023/4/17/23687112/wga-strike-vote-authorization-amptp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
