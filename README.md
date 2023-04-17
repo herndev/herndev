@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - ⏩ [A great house to live](http://9gag.com/gag/amA6PO4)
- - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
+ - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 👉 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
 
 ---
 
