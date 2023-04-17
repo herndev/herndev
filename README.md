@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any advice?](http://9gag.com/gag/aVbKw08)
- - ⏩ [6 inches is more than enough](http://9gag.com/gag/aoKROgg)
- - 👉 [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)<!-- MEMES:END -->
+ - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
+ - ⏩ [Me gaining consciousness at 5](http://9gag.com/gag/aREM025)
+ - 👉 [Sites to cure your boredom](http://9gag.com/gag/aBdVgQ2)<!-- MEMES:END -->
 
 ---
 
