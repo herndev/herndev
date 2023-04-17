@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;April 17, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-17-2023)
  - [Latest patch for The Last of Us fixes more crashes, lets you rebind the arrow keys](https://www.pcgamer.com/latest-patch-for-the-last-of-us-fixes-more-crashes-lets-you-rebind-the-arrow-keys)
- - [VR Star Wars Game Looks Absolutely Incredible](https://kotaku.com/star-wars-vr-video-game-jedi-outcast-pc-dark-forces-pc-1850342659)
- - [Ukrainian-Made Adventure Game Released As An &#39;Act Of Resilience Against The Chaos And Horror&#39;](https://kotaku.com/ukraine-invasion-russia-video-game-frogwares-sherlock-1850342582)<!-- GAME:END -->
+ - [VR Star Wars Game Looks Absolutely Incredible](https://kotaku.com/star-wars-vr-video-game-jedi-outcast-pc-dark-forces-pc-1850342659)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
