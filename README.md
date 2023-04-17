@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Contract docs reveal the Georgia National Guard plans to use location-based phone surveillance to target ads using geofences around 67 local public high schools &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230416/p9#a230416p9)
  - [Netflix’s Love is Blind live reunion special was a disaster](https://www.theverge.com/2023/4/16/23685828/netflix-love-is-blind-reunion-live-delay-problems)
- - [Netflix&#39;s second ever livestream hit technical issues, leading to a 75+ minute delay and the company taping the Love is Blind reunion episode for later viewing &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230416/p8#a230416p8)
- - [In 2023, All the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix&#39;s second ever livestream hit technical issues, leading to a 75+ minute delay and the company taping the Love is Blind reunion episode for later viewing &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230416/p8#a230416p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
