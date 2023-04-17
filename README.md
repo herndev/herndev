@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Pokémon Has Billions Of Variations And It’s Breaking New Games](https://kotaku.com/spinda-pokemon-go-brilliant-diamond-shining-pearl-trade-1850337054)
- - [American McGee wants to move on from Alice and asks fans to do the same](https://www.pcgamer.com/american-mcgee-wants-to-move-on-from-alice-and-asks-fans-to-do-the-same)
- - [Crucial T700 preview: The fastest PCIe 5.0 SSD on the planet... for what that&#39;s worth](https://www.pcgamer.com/crucial-t700-pcie-5-ssd-preview)<!-- GAME:END -->
+ - [Failing internet and Game of Thrones fandom turned Cuban kids into fake spies](https://www.polygon.com/23682653/cuba-snet-gaming-tv-internet-access)
+ - [In the year 2000, everyone wanted a female James Bond](https://www.polygon.com/23681047/female-james-bond-alias-kim-possible-perfect-dark)
+ - [The US hunt for truth serum during WWII shaped our superheroes](https://www.polygon.com/23680401/truth-serum-us-spy-history-wonder-woman-comics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
