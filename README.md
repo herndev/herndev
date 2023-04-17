@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Starship countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
- - [Source: Apple&#39;s revenue in India hit a record ~$6B in the year ended March, up ~50% YoY from $4.1B; Tim Cook is set to open India&#39;s first Apple stores this week &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230417/p5#a230417p5)
- - [Tim Cook expected to meet with India&#39;s Prime Minister](https://appleinsider.com/articles/23/04/17/tim-cook-expected-to-meet-with-indias-prime-minister?utm_medium=rss)<!-- TECH:END -->
+ - [How to see who else is using your streaming service subscriptions](https://www.theverge.com/23683427/sign-people-out-streaming-netflix-disney-apple-google-how-to)
+ - [Sources: after its first-ever ad sales drop, Meta ditched its brash tone with advertisers and is offering sweeteners, including a 25% discount for Reels ads &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/230417/p7#a230417p7)
+ - [AT&amp;T launches medical radar device that monitors older adults through walls](https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
