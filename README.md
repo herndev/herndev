@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Fraud by Cadbury](http://9gag.com/gag/a3Z01j7)
  - ⏩ [A true legend](http://9gag.com/gag/aVbKx7d)
- - 👉 [Turbine goes brrrr](http://9gag.com/gag/a9q51AK)<!-- MEMES:END -->
+ - 👉 [Based. No re](http://9gag.com/gag/aXnVo12)<!-- MEMES:END -->
 
 ---
 
