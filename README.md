@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
- - ⏩ [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)
- - 👉 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
+ - 💣 [Any advice?](http://9gag.com/gag/aVbKw08)
+ - ⏩ [6 inches is more than enough](http://9gag.com/gag/aoKROgg)
+ - 👉 [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)<!-- MEMES:END -->
 
 ---
 
