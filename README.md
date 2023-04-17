@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2023, All the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
  - [Dabbsson Home Backup Power Station review: portable power at a price](https://appleinsider.com/articles/23/04/16/dabbsson-home-backup-power-station-review-portable-power-at-a-price?utm_medium=rss)
- - [A US House Committee publishes a draft stablecoin bill, which proposes a moratorium on stablecoins backed by other cryptocurrencies, a CBDC study, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230416/p7#a230416p7)
- - [NuPhy Air96 Wireless Mechanical Keyboard review: A light keyboard with heavy customization](https://appleinsider.com/articles/23/04/16/nuphy-air96-wireless-mechanical-keyboard-review-a-light-keyboard-with-heavy-customization?utm_medium=rss)<!-- TECH:END -->
+ - [A US House Committee publishes a draft stablecoin bill, which proposes a moratorium on stablecoins backed by other cryptocurrencies, a CBDC study, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230416/p7#a230416p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
