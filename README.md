@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only six EVs still qualify for the $7,500 federal tax credit after new rules go into effect](https://www.theverge.com/2023/4/17/23686516/ev-tax-credit-list-qualify-eligible-tesla-chevy-ford)
- - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [A look at autonomous AI agents like Auto-GPT and BabyAGI, which perform multistep tasks by iteratively taking output from GPT-4 and feeding it back into itself &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230417/p13#a230417p13)<!-- TECH:END -->
+ - [RIP beans? Leaker says Galaxy Buds Live might not get a follow-up.](https://www.androidauthority.com/samsung-galaxy-buds-live-2-3313839/)
+ - [LockBit Ransomware Samples for Apple Macs Hint at New Risks for macOS Users](https://www.wired.com/story/apple-mac-lockbit-ransomware-samples/)
+ - [Apple sold four of top five OLED smartphones in Q1 2023](https://appleinsider.com/articles/23/04/17/apple-sold-four-of-top-five-oled-smartphones-in-q1-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
