@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
- - ⏩ [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
- - 👉 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
+ - 💣 [Stretching exercises](http://9gag.com/gag/aZD87oW)
+ - ⏩ [It&#39;s ma&#39;am](http://9gag.com/gag/armXG2B)
+ - 👉 [It\u2019s a matter of national security, isn\u2019t it? Germany\u2019s allies are in trouble too if they become even more dependent on Russia for their electricity.](http://9gag.com/gag/az2KMXb)<!-- MEMES:END -->
 
 ---
 
