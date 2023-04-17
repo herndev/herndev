@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP beans? Leaker says Galaxy Buds Live might not get a follow-up.](https://www.androidauthority.com/samsung-galaxy-buds-live-2-3313839/)
- - [LockBit Ransomware Samples for Apple Macs Hint at New Risks for macOS Users](https://www.wired.com/story/apple-mac-lockbit-ransomware-samples/)
- - [Apple sold four of top five OLED smartphones in Q1 2023](https://appleinsider.com/articles/23/04/17/apple-sold-four-of-top-five-oled-smartphones-in-q1-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Winner fools Sony photography contest judges with AI-generated art](https://www.androidauthority.com/sony-ai-generated-art-3313746/)
+ - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)
+ - [The Short Path From a Discord Flex to High Treason](https://www.wired.com/story/the-short-path-from-a-discord-flex-to-high-treason/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
