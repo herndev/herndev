@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #667: Monday, April 17](https://www.pcgamer.com/wordle-hint-answer-today-667-april-17)
  - [Over 2,400 Steam users had their accounts restricted for marking a negative review as helpful](https://www.pcgamer.com/over-2400-steam-users-had-their-accounts-restricted-for-marking-a-negative-review-as-helpful)
- - [Five new Steam games you probably missed &lpar;April 17, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-17-2023)
- - [Latest patch for The Last of Us fixes more crashes, lets you rebind the arrow keys](https://www.pcgamer.com/latest-patch-for-the-last-of-us-fixes-more-crashes-lets-you-rebind-the-arrow-keys)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 17, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-17-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
