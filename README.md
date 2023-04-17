@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barry’s final season turns into the worst version of itself](https://www.polygon.com/reviews/23683742/barry-season-4-review)
- - [How to get gold in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-gold-where-to-get)
- - [Where to find diamonds in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-diamonds-where-to-get)<!-- GAME:END -->
+ - [This Pokémon Has Billions Of Variations And It’s Breaking New Games](https://kotaku.com/spinda-pokemon-go-brilliant-diamond-shining-pearl-trade-1850337054)
+ - [American McGee wants to move on from Alice and asks fans to do the same](https://www.pcgamer.com/american-mcgee-wants-to-move-on-from-alice-and-asks-fans-to-do-the-same)
+ - [Crucial T700 preview: The fastest PCIe 5.0 SSD on the planet... for what that&#39;s worth](https://www.pcgamer.com/crucial-t700-pcie-5-ssd-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
