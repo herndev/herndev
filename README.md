@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s our best look yet at what Apple’s announcing in June](https://www.theverge.com/2023/4/17/23686115/apple-wwdc-2023-rumored-announcements-macbooks-macs-watchos-10-mixed-reality-headset)
  - [Sega acquires Rovio, best known for its Angry Birds franchise, for &amp;euro;706M &lpar;Jenni Reid/CNBC&rpar;](http://www.techmeme.com/230417/p1#a230417p1)
- - [Google will reportedly release new AI powered search tools next month](https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal)
- - [Google wants you to uninstall Meet so you can use Meet](https://www.androidauthority.com/google-uninstall-meet-3313533/)<!-- TECH:END -->
+ - [Google will reportedly release new AI powered search tools next month](https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
