@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix nabs ex-Halo, Destiny creative director to lead new game franchise](https://www.polygon.com/23686464/netflix-games-joseph-station-halo-destiny)
- - [How to unlock the Regal Tiger and Brilliant Beetle mounts in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-mounts-tiger-beetle-bird)
- - [Sega Gobbles Up Angry Birds In Gaming Industry’s Most Bizarre Acquisition Yet](https://kotaku.com/sega-sonic-rovio-angry-birds-iphone-mobile-acquisition-1850344414)<!-- GAME:END -->
+ - [Dark and Darker legal dispute continues as Nexon files lawsuit](https://www.polygon.com/23681805/nexon-dark-and-darker-lawsuit-steam-copyright-infringement-ironmace)
+ - [BotW’s Greatest Stuntmaster Is Back, And Better Than Ever](https://kotaku.com/breath-wild-tears-kingdom-botw-totk-ambi-stunt-trick-1850344829)
+ - [Valheim is getting a creative mode and some truly brutal hardcore difficulty options](https://www.pcgamer.com/valheim-is-getting-a-creative-mode-and-some-truly-brutal-hardcore-difficulty-options)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
