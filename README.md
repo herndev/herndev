@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is bafflingly refusing to implement map overlay at launch](https://www.pcgamer.com/diablo-4-is-bafflingly-refusing-to-implement-map-overlay-at-launch)
- - [Sega confirms it’s buying Angry Birds and pushing into mobile](https://www.polygon.com/23686123/sega-rovio-acquisition-angry-birds)
- - [Wordle hint and answer #667: Monday, April 17](https://www.pcgamer.com/wordle-hint-answer-today-667-april-17)<!-- GAME:END -->
+ - [Barry’s final season turns into the worst version of itself](https://www.polygon.com/reviews/23683742/barry-season-4-review)
+ - [How to get gold in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-gold-where-to-get)
+ - [Where to find diamonds in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-diamonds-where-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
