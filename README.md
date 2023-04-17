@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not mine but accurate](http://9gag.com/gag/aVbKPp8)
- - ⏩ [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)
- - 👉 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
+ - 💣 [Can confirm](http://9gag.com/gag/az2KXAq)
+ - ⏩ [Ara ara](http://9gag.com/gag/az2Kq8m)
+ - 👉 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)<!-- MEMES:END -->
 
 ---
 
