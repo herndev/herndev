@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Over 2,400 Steam users had their accounts restricted for marking a negative review as helpful](https://www.pcgamer.com/over-2400-steam-users-had-their-accounts-restricted-for-marking-a-negative-review-as-helpful)
  - [Five new Steam games you probably missed &lpar;April 17, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-17-2023)
- - [Latest patch for The Last of Us fixes more crashes, lets you rebind the arrow keys](https://www.pcgamer.com/latest-patch-for-the-last-of-us-fixes-more-crashes-lets-you-rebind-the-arrow-keys)
- - [VR Star Wars Game Looks Absolutely Incredible](https://kotaku.com/star-wars-vr-video-game-jedi-outcast-pc-dark-forces-pc-1850342659)<!-- GAME:END -->
+ - [Latest patch for The Last of Us fixes more crashes, lets you rebind the arrow keys](https://www.pcgamer.com/latest-patch-for-the-last-of-us-fixes-more-crashes-lets-you-rebind-the-arrow-keys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
