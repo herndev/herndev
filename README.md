@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new multiplayer Harry Potter game promises all the online Quidditch you can&#39;t play in Hogwarts Legacy](https://www.pcgamer.com/a-new-multiplayer-harry-potter-game-promises-all-the-online-quidditch-you-cant-play-in-hogwarts-legacy)
- - [Here’s where you can pre-order Star Wars Jedi: Survivor](https://www.polygon.com/deals/23629409/star-wars-jedi-survivor-pre-order-buy-guide-ea-play)
- - [Thanks to the last 5 years of Nintendo emulation, Zelda: Breath of the Wild has one of the best mod scenes in gaming](https://www.pcgamer.com/thanks-to-the-last-5-years-of-nintendo-emulation-zelda-breath-of-the-wild-has-one-of-the-best-mod-scenes-in-gaming)<!-- GAME:END -->
+ - [Halo franchise executive leaves 343 Industries in latest shakeup](https://www.polygon.com/23687130/halo-343-industries-leadership-frank-oconnor-joseph-staten)
+ - [Diablo 4 has officially gone gold](https://www.pcgamer.com/diablo-4-has-officially-gone-gold)
+ - [A new multiplayer Harry Potter game promises all the online Quidditch you can&#39;t play in Hogwarts Legacy](https://www.pcgamer.com/a-new-multiplayer-harry-potter-game-promises-all-the-online-quidditch-you-cant-play-in-hogwarts-legacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
