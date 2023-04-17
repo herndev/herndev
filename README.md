@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That Renfield movie with Nic Cage has a Vampire Survivors-style tie-in game, and it has no right to be this good](https://www.pcgamer.com/that-renfield-movie-with-nic-cage-has-a-vampire-survivors-style-tie-in-game-and-it-has-no-right-to-be-this-good)
- - [Great moments in PC gaming: Stealing and wearing your enemies&#39; clothes](https://www.pcgamer.com/great-moments-in-pc-gaming-stealing-and-wearing-your-enemies-clothes)
- - [Stardew Valley is getting a surprise update with new content](https://www.pcgamer.com/stardew-valley-is-getting-a-surprise-update-with-new-content)<!-- GAME:END -->
+ - [VR Star Wars Game Looks Absolutely Incredible](https://kotaku.com/star-wars-vr-video-game-jedi-outcast-pc-dark-forces-pc-1850342659)
+ - [Ukrainian-Made Adventure Game Released As An &#39;Act Of Resilience Against The Chaos And Horror&#39;](https://kotaku.com/ukraine-invasion-russia-video-game-frogwares-sherlock-1850342582)
+ - [That Renfield movie with Nic Cage has a Vampire Survivors-style tie-in game, and it has no right to be this good](https://www.pcgamer.com/that-renfield-movie-with-nic-cage-has-a-vampire-survivors-style-tie-in-game-and-it-has-no-right-to-be-this-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
