@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fans of a sweatier Call of Duty are championing Ubisoft&#39;s free-to-play XDefiant](https://www.pcgamer.com/fans-of-a-sweatier-call-of-duty-are-championing-ubisofts-free-to-play-xdefiant)
  - [Destiny 2 Streamer Accused Of Major Leak: &#39;Only God Can Judge Me&#39;](https://kotaku.com/destiny-2-bungie-leak-ban-twitch-streamer-season-21-1850345998)
- - [With yet another senior departure, it seems like just about all of Halo&#39;s leadership has changed over in the last 2 years](https://www.pcgamer.com/with-yet-another-senior-departure-it-seems-like-just-about-all-of-halos-leadership-has-changed-over-in-the-last-2-years)
- - [Spotify is killing Wordle-like music puzzle game Heardle next month](https://www.pcgamer.com/spotify-is-killing-wordle-like-music-puzzle-game-heardle-next-month)<!-- GAME:END -->
+ - [With yet another senior departure, it seems like just about all of Halo&#39;s leadership has changed over in the last 2 years](https://www.pcgamer.com/with-yet-another-senior-departure-it-seems-like-just-about-all-of-halos-leadership-has-changed-over-in-the-last-2-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
