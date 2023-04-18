@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Niantic is giving Monster Hunter the Pokémon Go treatment](https://www.polygon.com/23686321/monster-hunter-now-capcom-niantic-pokemon-go)
  - [Wordle hint and answer #668: Tuesday, April 18](https://www.pcgamer.com/wordle-hint-answer-today-668-april-18)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/17/this-weeks-deals-with-gold-and-spotlight-sale-270/)
- - [Fabledom Wants To Be The Settlers Successor You&#39;ve Been Waiting For](https://kotaku.com/fabledom-city-builder-pc-strategy-steam-romance-town-1850342935)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/17/this-weeks-deals-with-gold-and-spotlight-sale-270/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
