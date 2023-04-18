@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first store in India is now open](https://www.theverge.com/2023/4/18/23687955/apple-india-first-store-mumbai)
- - [YouTube is cracking down on videos describing eating disorders](https://www.theverge.com/2023/4/18/23687938/youtube-eating-disorder-imitable-behavior-ban-age-restrictions)
- - [Future iMac may be able to extend desktop onto nearby walls](https://appleinsider.com/articles/20/03/12/future-imac-may-be-able-to-extend-desktop-onto-nearby-walls?utm_medium=rss)<!-- TECH:END -->
+ - [Michelle Yeoh is beaming back into Star Trek](https://www.theverge.com/2023/4/18/23688094/michelle-yeoh-star-trek-section-31-film)
+ - [New low price on the Google Nest router, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [Your Instagram ‘Link in bio’ can now have up to five links](https://www.theverge.com/2023/4/18/23688081/instagram-link-in-bio-five-links)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
