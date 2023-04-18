@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michelle Yeoh is beaming back into Star Trek](https://www.theverge.com/2023/4/18/23688094/michelle-yeoh-star-trek-section-31-film)
- - [New low price on the Google Nest router, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
- - [Your Instagram ‘Link in bio’ can now have up to five links](https://www.theverge.com/2023/4/18/23688081/instagram-link-in-bio-five-links)<!-- TECH:END -->
+ - [Galaxy A24 leak reveals an unusual color option along with specs](https://www.androidauthority.com/galaxy-a24-leak-3314304/)
+ - [BMW’s ‘most powerful’ EV is this new 7 Series](https://www.theverge.com/2023/4/18/23687834/bmw-i7-m70-xdrive-7-series-performance-reveal)
+ - [Apple turns on HomePod&#39;s smoke alarm recognition](https://appleinsider.com/articles/23/04/18/apple-turns-on-homepods-smoke-alarm-recognition?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
