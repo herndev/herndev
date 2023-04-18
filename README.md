@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 great spy shows to watch right now](https://www.polygon.com/what-to-watch/23665142/best-spy-tv-shows-series-to-watch-netflix-amazon-prime)
- - [Bungie says it has &#39;irrefutable evidence&#39; against Destiny 2 streamer accused of leaking confidential content](https://www.pcgamer.com/bungie-says-it-has-irrefutable-evidence-against-destiny-2-streamer-accused-of-leaking-confidential-content)
- - [Fortnite Totally Nailed Attack On Titan&#39;s Thrilling Movement](https://kotaku.com/fortnite-attack-on-titan-odm-gear-thunder-spear-epic-1850348825)<!-- GAME:END -->
+ - [Everything about the Love Is Blind season 4 reunion special was messy](https://www.polygon.com/23688320/love-is-blind-reunion-special-season-4)
+ - [The Highs &lpar;And Lows&rpar; Of Taking Apart My Steam Deck](https://kotaku.com/steam-deck-repair-b-button-stuck-fix-sandpaper-teardown-1850348957)
+ - [Everything We Know About The Legend of Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-price-date-ganondorf-1850348965)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
