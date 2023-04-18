@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nest Thermostat is getting Matter support starting today](https://www.theverge.com/2023/4/18/23687751/nest-thermostat-matter-support-apple-home)
- - [Marvel’s hoping Thor and Loki can convince you to run a 5K in a new running app](https://www.theverge.com/2023/4/18/23686893/marvel-move-six-to-start-running-fitness)
- - [Sonos’ exciting new product category is... commercial audio](https://www.theverge.com/2023/4/18/23686771/sonos-pro-commercial-audio-service-price-features)<!-- TECH:END -->
+ - [Apple&#39;s new India BKC store opening was met by massive crowds](https://appleinsider.com/articles/23/04/18/apples-new-india-bkc-store-opening-was-met-by-massive-crowds?utm_medium=rss)
+ - [Sonos launches Sonos Pro, which lets businesses play music across numerous locations without breaking licensing rules, costing $35 per month per location &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230418/p14#a230418p14)
+ - [Daily Deals: $499 M2 Mac mini, AirPods for $99, $400 off M2 Max MacBook Pro, more](https://appleinsider.com/articles/23/04/18/daily-deals-499-m2-mac-mini-airpods-for-99-400-off-m2-max-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
