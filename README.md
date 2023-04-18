@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - ⏩ [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
- - 👉 [\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q07wQ)<!-- MEMES:END -->
+ - 💣 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
+ - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - 👉 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)<!-- MEMES:END -->
 
 ---
 
