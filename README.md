@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy A24 leak reveals an unusual color option along with specs](https://www.androidauthority.com/galaxy-a24-leak-3314304/)
- - [BMW’s ‘most powerful’ EV is this new 7 Series](https://www.theverge.com/2023/4/18/23687834/bmw-i7-m70-xdrive-7-series-performance-reveal)
- - [Apple turns on HomePod&#39;s smoke alarm recognition](https://appleinsider.com/articles/23/04/18/apple-turns-on-homepods-smoke-alarm-recognition?utm_medium=rss)<!-- TECH:END -->
+ - [Apple HomePods can now listen for your smoke alarms](https://www.theverge.com/2023/4/18/23688208/apple-homepod-sound-recognition-smoke-co-alarms)
+ - [New Horizon Forbidden West patch adds thalassophobia mode](https://www.theverge.com/2023/4/18/23688151/horizon-forbidden-west-patch-thalassophobia-mode)
+ - [Reddit to charge companies for API access, which many have used to train AI systems; the API will remain free for devs building apps that help people use Reddit &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/230418/p19#a230418p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
