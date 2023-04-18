@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
- - 👉 [The scene that&#39;s imprinted in my mind as a child](http://9gag.com/gag/a3Z04x8)<!-- MEMES:END -->
+ - 💣 [Bought a haunted house for cheap &lpar;first house&rpar;. Had to deal with the municipal tax officer cause it\u2019s way below the market price but it all ended well](http://9gag.com/gag/a1P0mY6)
+ - ⏩ [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
+ - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
 
 ---
 
