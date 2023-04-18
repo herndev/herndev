@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true legend](http://9gag.com/gag/aVbKx7d)
+ - 💣 [Germans...](http://9gag.com/gag/a0404oL)
  - ⏩ [Looking for darwin](http://9gag.com/gag/aXnVn3D)
- - 👉 [Germans...](http://9gag.com/gag/a0404oL)<!-- MEMES:END -->
+ - 👉 [This is a what men really want a girl to wear...this is fashion i can get behind with no problem, apparently is pretty trending is high fashion.](http://9gag.com/gag/aXnVPxP)<!-- MEMES:END -->
 
 ---
 
