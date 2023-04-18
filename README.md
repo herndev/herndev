@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fabledom Wants To Be The Settlers Successor You&#39;ve Been Waiting For](https://kotaku.com/fabledom-city-builder-pc-strategy-steam-romance-town-1850342935)
- - [The world&#39;s most disgusting grenade is now available in Overwatch 2](https://www.pcgamer.com/the-worlds-most-disgusting-grenade-is-now-available-in-overwatch-2)
- - [Nintendo &#39;Hacker&#39; Will Be Punished For The Rest Of His Life](https://kotaku.com/nintendo-gary-bowser-hacking-case-legal-jail-xecuter-1850346297)<!-- GAME:END -->
+ - [Wordle hint and answer #668: Tuesday, April 18](https://www.pcgamer.com/wordle-hint-answer-today-668-april-18)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/17/this-weeks-deals-with-gold-and-spotlight-sale-270/)
+ - [Fabledom Wants To Be The Settlers Successor You&#39;ve Been Waiting For](https://kotaku.com/fabledom-city-builder-pc-strategy-steam-romance-town-1850342935)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
