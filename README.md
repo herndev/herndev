@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook opens first Apple Store in India](https://appleinsider.com/articles/23/04/18/tim-cook-opens-first-apple-store-in-india?utm_medium=rss)
- - [Coinbase CEO Brian Armstrong says &quot;anything is on the table, including relocating&quot; from the US if regulatory clarity for the industry does not emerge &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230418/p8#a230418p8)
- - [All the rumors about Google’s upcoming Pixel hardware so far](https://www.theverge.com/23687731/pixel-hardware-rumors-7a-foldable-fold-tablet)<!-- TECH:END -->
+ - [Gatorade Gx Sweat Patch review: Learn more about your workout from a sticker](https://appleinsider.com/articles/23/04/18/gatorade-gx-sweat-patch-review-learn-more-about-your-workout-from-a-sticker?utm_medium=rss)
+ - [Chinese government data: semiconductor output fell nearly 15% YoY in Q1 2023; smartphone production fell 13.8%, as local brands like Oppo and Xiaomi struggled &lpar;Bloomberg&rpar;](http://www.techmeme.com/230418/p9#a230418p9)
+ - [Score a Set of AirPods Pro For Just $159 Today Only     - CNET](https://www.cnet.com/deals/score-set-airpods-pro-just-159-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
