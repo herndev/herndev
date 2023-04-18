@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s two new Razr foldables get a US launch date in latest leak](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)
- - [Withings’ latest smart scale features an ‘eyes closed’ mode](https://www.theverge.com/2023/4/18/23686670/withings-body-smart-smart-scale-eyes-closed)
- - [Samsung can’t dump Google for Bing as the default search engine on its phones](https://www.androidauthority.com/samsung-google-search-vs-bing-3314088/)<!-- TECH:END -->
+ - [Sources: Chinese regulators are expected to lower the fine on Ant Group to about $728M, down from the $1B+ initially planned, and soften the wording of charges &lpar;Reuters&rpar;](http://www.techmeme.com/230418/p7#a230418p7)
+ - [Ransomware attacks in Japan, which exported chip components worth $42.3B last year, reportedly grew 58% YoY in 2022, and can cause global supply chain issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230418/p6#a230418p6)
+ - [Motorola’s two new Razr foldables get a US launch date in latest leak](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
