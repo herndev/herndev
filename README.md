@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans...](http://9gag.com/gag/a0404oL)
- - ⏩ [Looking for darwin](http://9gag.com/gag/aXnVn3D)
- - 👉 [This is a what men really want a girl to wear...this is fashion i can get behind with no problem, apparently is pretty trending is high fashion.](http://9gag.com/gag/aXnVPxP)<!-- MEMES:END -->
+ - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - ⏩ [A great house to live](http://9gag.com/gag/amA6PO4)
+ - 👉 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
 
 ---
 
