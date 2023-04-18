@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - ⏩ [A great house to live](http://9gag.com/gag/amA6PO4)
- - 👉 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
+ - 💣 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - ⏩ [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - 👉 [Netflix&#39;s Queen Cleopatra Official Trailer with over 200k dislikes and just 20k likes.](http://9gag.com/gag/axo67XY)<!-- MEMES:END -->
 
 ---
 
