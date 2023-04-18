@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
- - ⏩ [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
- - 👉 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)<!-- MEMES:END -->
+ - 💣 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
+ - ⏩ [They paused the game for this](http://9gag.com/gag/az2Kmbz)
+ - 👉 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
 
 ---
 
