@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans of a sweatier Call of Duty are championing Ubisoft&#39;s free-to-play XDefiant](https://www.pcgamer.com/fans-of-a-sweatier-call-of-duty-are-championing-ubisofts-free-to-play-xdefiant)
- - [Destiny 2 Streamer Accused Of Major Leak: &#39;Only God Can Judge Me&#39;](https://kotaku.com/destiny-2-bungie-leak-ban-twitch-streamer-season-21-1850345998)
- - [With yet another senior departure, it seems like just about all of Halo&#39;s leadership has changed over in the last 2 years](https://www.pcgamer.com/with-yet-another-senior-departure-it-seems-like-just-about-all-of-halos-leadership-has-changed-over-in-the-last-2-years)<!-- GAME:END -->
+ - [Fabledom Wants To Be The Settlers Successor You&#39;ve Been Waiting For](https://kotaku.com/fabledom-city-builder-pc-strategy-steam-romance-town-1850342935)
+ - [The world&#39;s most disgusting grenade is now available in Overwatch 2](https://www.pcgamer.com/the-worlds-most-disgusting-grenade-is-now-available-in-overwatch-2)
+ - [Nintendo &#39;Hacker&#39; Will Be Punished For The Rest Of His Life](https://kotaku.com/nintendo-gary-bowser-hacking-case-legal-jail-xecuter-1850346297)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
