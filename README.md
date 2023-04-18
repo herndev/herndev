@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Counterman v. Colorado, a cyberstalking case the SCOTUS will hear on April 19 and that could have sweeping consequences for online speech writ large &lpar;Issie Lapowsky/Fast Company&rpar;](http://www.techmeme.com/230417/p22#a230417p22)
- - [In an interview with Tucker Carlson, Elon Musk says he&#39;s working on &quot;TruthGPT or a maximum truth-seeking AI that tries to understand the nature of the universe&quot; &lpar;Bailee Hill/Fox News&rpar;](http://www.techmeme.com/230417/p21#a230417p21)
- - [WhatsApp and other encrypted messaging apps sign a letter urging the UK government to rethink the Online Safety Bill, which would weaken privacy on the internet &lpar;BBC&rpar;](http://www.techmeme.com/230417/p20#a230417p20)<!-- TECH:END -->
+ - [MacStadium offers self-service purchase option with Orka Small Teams Edition](https://appleinsider.com/articles/23/04/18/macstadium-offers-self-service-purchase-option-with-orka-small-teams-edition?utm_medium=rss)
+ - [Pokémon Go developer Niantic is making a real-world Monster Hunter game](https://www.theverge.com/2023/4/18/23687404/monster-hunter-now-niantic-pokemon-go-ar-real-world)
+ - [Despite the UK chancellor lauding its &quot;world-beating fintech sector&quot;, London has been waning as a fintech hub, as startups call for reforms amid SVB UK&#39;s bust &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230418/p1#a230418p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
