@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding out in class](http://9gag.com/gag/a7q030x)
- - ⏩ [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
- - 👉 [Diversity Hire.](http://9gag.com/gag/anz24Dz)<!-- MEMES:END -->
+ - 💣 [`You&#39;re taking up resources from the city whenever you call for someone to ensure that a bomb is inactive`](http://9gag.com/gag/aBdVgPz)
+ - ⏩ [The comments are the poll](http://9gag.com/gag/avQ685M)
+ - 👉 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)<!-- MEMES:END -->
 
 ---
 
