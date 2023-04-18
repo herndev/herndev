@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Butt ...](http://9gag.com/gag/aGEBd60)
- - ⏩ [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - 👉 [Dora the explorer](http://9gag.com/gag/a2K0M9Z)<!-- MEMES:END -->
+ - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - ⏩ [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 👉 [The scene that&#39;s imprinted in my mind as a child](http://9gag.com/gag/a3Z04x8)<!-- MEMES:END -->
 
 ---
 
