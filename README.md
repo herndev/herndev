@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`You&#39;re taking up resources from the city whenever you call for someone to ensure that a bomb is inactive`](http://9gag.com/gag/aBdVgPz)
- - ⏩ [The comments are the poll](http://9gag.com/gag/avQ685M)
- - 👉 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)<!-- MEMES:END -->
+ - ⏩ [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 👉 [Highway Patrol in Brazil: one shot, one tire](http://9gag.com/gag/ago7Bxv)<!-- MEMES:END -->
 
 ---
 
