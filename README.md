@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You&#39;re taking up resources from the city whenever you call for someone to ensure that a bomb is inactive`](http://9gag.com/gag/aBdVgPz)
- - ⏩ [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 👉 [Highway Patrol in Brazil: one shot, one tire](http://9gag.com/gag/ago7Bxv)<!-- MEMES:END -->
+ - 💣 [A true legend](http://9gag.com/gag/aVbKx7d)
+ - ⏩ [Looking for darwin](http://9gag.com/gag/aXnVn3D)
+ - 👉 [Germans...](http://9gag.com/gag/a0404oL)<!-- MEMES:END -->
 
 ---
 
