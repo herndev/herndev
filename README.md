@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
- - ⏩ [Collecting magnetite on the beach](http://9gag.com/gag/a2K0KZw)
- - 👉 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
+ - 💣 [An absolute unit.](http://9gag.com/gag/aOxZ3qD)
+ - ⏩ [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
 
 ---
 
