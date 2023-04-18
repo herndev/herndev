@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - 💣 [Not creepy at all](http://9gag.com/gag/amA65PX)
  - ⏩ [A great house to live](http://9gag.com/gag/amA6PO4)
- - 👉 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
+ - 👉 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
 
 ---
 
