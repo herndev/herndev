@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - ⏩ [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - 👉 [Thinking you\u2019re going on a nice vacation, gets this instead](http://9gag.com/gag/anz24Zn)<!-- MEMES:END -->
+ - 💣 [Butt ...](http://9gag.com/gag/aGEBd60)
+ - ⏩ [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
+ - 👉 [Dora the explorer](http://9gag.com/gag/a2K0M9Z)<!-- MEMES:END -->
 
 ---
 
