@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hold Up, The Full Zelda: Tears Of The Kingdom Theme Song Is Killer](https://kotaku.com/tears-kingdom-totk-main-theme-song-botw-nintendo-switch-1850350253)
  - [The best Minecraft Legends improvements to choose first](https://www.polygon.com/guides/23685768/minecraft-legends-best-improvements)
- - [Netflix is ending its DVD-by-mail service](https://www.polygon.com/23688558/netflix-dvd-service-ending-date)
- - [Lead designer at Naughty Dog says Star Wars Battlefront 3 was &#39;legit incredible&#39; and LucasArts cancelling it was &#39;an absolute crime&#39;](https://www.pcgamer.com/lead-designer-at-naughty-dog-says-star-wars-battlefront-3-was-legit-incredible-and-lucasarts-cancelling-it-was-an-absolute-crime)<!-- GAME:END -->
+ - [Netflix is ending its DVD-by-mail service](https://www.polygon.com/23688558/netflix-dvd-service-ending-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
