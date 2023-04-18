@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
- - [Intel just killed its crypto chip after less than a year](https://www.theverge.com/23688338/intel-blockscale-asic-bitcoin-mining-crypto-discontinued)
- - [Apple is working on gaming and fitness apps for its AR headset before launch](https://appleinsider.com/articles/23/04/18/apple-is-working-on-gaming-and-fitness-apps-for-its-ar-headset-before-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is shutting down its original DVD business after 25 years](https://www.theverge.com/2023/4/18/23688543/netflix-dvd-com-business-25-years)
+ - [How to set up two-factor authentication on your online services](https://www.theverge.com/23612381/two-factor-authentication-2fa-amazon-twitter-how-to)
+ - [What’s really going on with ‘Ghostwriter’ and the AI Drake song?](https://www.theverge.com/2023/4/18/23688141/ai-drake-song-ghostwriter-copyright-umg-the-weeknd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
