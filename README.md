@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese regulators are expected to lower the fine on Ant Group to about $728M, down from the $1B+ initially planned, and soften the wording of charges &lpar;Reuters&rpar;](http://www.techmeme.com/230418/p7#a230418p7)
- - [Ransomware attacks in Japan, which exported chip components worth $42.3B last year, reportedly grew 58% YoY in 2022, and can cause global supply chain issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230418/p6#a230418p6)
- - [Motorola’s two new Razr foldables get a US launch date in latest leak](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)<!-- TECH:END -->
+ - [Tim Cook opens first Apple Store in India](https://appleinsider.com/articles/23/04/18/tim-cook-opens-first-apple-store-in-india?utm_medium=rss)
+ - [Coinbase CEO Brian Armstrong says &quot;anything is on the table, including relocating&quot; from the US if regulatory clarity for the industry does not emerge &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230418/p8#a230418p8)
+ - [All the rumors about Google’s upcoming Pixel hardware so far](https://www.theverge.com/23687731/pixel-hardware-rumors-7a-foldable-fold-tablet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
