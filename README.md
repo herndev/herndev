@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Redfall, The Last Case of Benedict Fox, BlazBlue: Cross Tag Battle, and More](https://news.xbox.com/en-us/2023/04/18/game-pass-april-2023-wave-2-announce/)
- - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)
- - [Bowser released from federal prison but has to pay Nintendo for the rest of his working life](https://www.pcgamer.com/bowser-released-from-federal-prison-but-has-to-pay-nintendo-for-the-rest-of-his-working-life)<!-- GAME:END -->
+ - [Breath of the Wild&#39;s Greatest Stuntmaster Is Back, And Better Than Ever](https://kotaku.com/breath-wild-tears-kingdom-botw-totk-ambi-stunt-trick-1850344829)
+ - [11+ Great Steam Deck Games That Won’t Drain Your Battery](https://kotaku.com/steam-deck-battery-improve-games-best-pc-great-1850345890)
+ - [Nintendo’s next Indie World livestream drops April 19](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
