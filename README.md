@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
- - ⏩ [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
- - 👉 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)<!-- MEMES:END -->
+ - 💣 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
+ - ⏩ [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - 👉 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)<!-- MEMES:END -->
 
 ---
 
