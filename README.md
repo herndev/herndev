@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harry Potter Quidditch Game Announced, Explains Hogwarts Legacy Absence](https://kotaku.com/harry-potter-quidditch-champions-playtest-wb-games-date-1850347676)
- - [Xbox Game Pass adds Minecraft Legends today, Redfall in two weeks](https://www.polygon.com/23687922/xbox-game-pass-april-2023-games-minecraft-legends-redfall)
- - [Man steals Pokémon cards on the job in &#39;largest&#39; theft the game has ever seen, tries to sell his haul, but the law is super effective](https://www.pcgamer.com/man-steals-pokemon-cards-on-the-job-in-largest-theft-the-game-has-ever-seen-tries-to-sell-his-haul-but-the-law-is-super-effective)<!-- GAME:END -->
+ - [Stardew Valley Is Getting Some Totally New Stuff For The First Time In Years](https://kotaku.com/stardew-valley-1-6-update-concernedape-cozy-game-switch-1850348015)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [Buy Elden Ring, get Octopath Traveler 2 free at GameStop](https://www.polygon.com/deals/23687909/gamestop-elden-ring-octopath-traveler-2-buy-one-get-one-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
