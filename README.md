@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bought a haunted house for cheap &lpar;first house&rpar;. Had to deal with the municipal tax officer cause it\u2019s way below the market price but it all ended well](http://9gag.com/gag/a1P0mY6)
- - ⏩ [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
- - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
+ - 💣 [He&#39;s invincible till someone punchs his knee caps and suddenly being 260kg isnt so fun anymore.](http://9gag.com/gag/a4oNEZv)
+ - ⏩ [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
+ - 👉 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
 
 ---
 
