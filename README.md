@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Buds+ are on the way, time to get the discounted original buds](https://www.androidauthority.com/beats-studio-buds-plus-3314466/)
- - [Netflix plans a &quot;broad rollout&quot; of its paid sharing plan in Q2 2023, including to the US, after its Canada, New Zealand, Portugal, and Spain launch in February &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230418/p26#a230418p26)
- - [Meta opens up Horizon Worlds to teens in the US and Canada, despite objections from some lawmakers and activists, alongside new age-appropriate safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230418/p25#a230418p25)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Sources: Meta is expected to conduct another mass round of layoffs on April 19, a source says possibly in the range of 4,000 jobs, out of the planned 10,000 &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230418/p28#a230418p28)
+ - [Fire TV to Improve Live Channel Experience with DirecTV Integration     - CNET](https://www.cnet.com/tech/services-and-software/fire-tv-to-improve-live-channel-experience-with-directv-integration/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
