@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all the Transformers movies](https://www.polygon.com/entertainment/23686534/transformers-watch-order-movies-chronological-streaming)
- - [Can Trapinch be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23686640/can-trapinch-be-shiny-vibrava-flygon)
- - [Niantic is giving Monster Hunter the Pokémon Go treatment](https://www.polygon.com/23686321/monster-hunter-now-capcom-niantic-pokemon-go)<!-- GAME:END -->
+ - [Counter-Strike skin sells for $400K, probably the most expensive gun in videogame history](https://www.pcgamer.com/counter-strike-skin-sells-for-dollar400k-probably-the-most-expensive-gun-in-videogame-history)
+ - [Asus says its Steam Deck rival may be coming &#39;sooner than you expect&#39;](https://www.pcgamer.com/asus-says-its-steam-deck-rival-may-be-coming-sooner-than-you-expect)
+ - [The best order to watch all the Transformers movies](https://www.polygon.com/entertainment/23686534/transformers-watch-order-movies-chronological-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
