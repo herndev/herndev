@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
- - ⏩ [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 👉 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)<!-- MEMES:END -->
+ - 💣 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
+ - ⏩ [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - 👉 [Thinking you\u2019re going on a nice vacation, gets this instead](http://9gag.com/gag/anz24Zn)<!-- MEMES:END -->
 
 ---
 
