@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley Is Getting Some Totally New Stuff For The First Time In Years](https://kotaku.com/stardew-valley-1-6-update-concernedape-cozy-game-switch-1850348015)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [Buy Elden Ring, get Octopath Traveler 2 free at GameStop](https://www.polygon.com/deals/23687909/gamestop-elden-ring-octopath-traveler-2-buy-one-get-one-free)<!-- GAME:END -->
+ - [Disney Speedstorm Hits Early Access on Xbox Today with Fully Featured Local Multiplayer Mode](https://news.xbox.com/en-us/2023/04/18/disney-speedstorm-early-access-on-xbox-today/)
+ - [The Mageseeker: A League of Legends Story review](https://www.pcgamer.com/the-mageseeker-a-league-of-legends-story-review)
+ - [Please Enjoy This Tears Of The Kingdom Character Art, Which May Tease Story](https://kotaku.com/zelda-tears-kingdom-champion-art-fan-theories-story-1850348284)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
