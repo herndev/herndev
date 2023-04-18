@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Speedstorm Hits Early Access on Xbox Today with Fully Featured Local Multiplayer Mode](https://news.xbox.com/en-us/2023/04/18/disney-speedstorm-early-access-on-xbox-today/)
- - [The Mageseeker: A League of Legends Story review](https://www.pcgamer.com/the-mageseeker-a-league-of-legends-story-review)
- - [Please Enjoy This Tears Of The Kingdom Character Art, Which May Tease Story](https://kotaku.com/zelda-tears-kingdom-champion-art-fan-theories-story-1850348284)<!-- GAME:END -->
+ - [11 great spy shows to watch right now](https://www.polygon.com/what-to-watch/23665142/best-spy-tv-shows-series-to-watch-netflix-amazon-prime)
+ - [Bungie says it has &#39;irrefutable evidence&#39; against Destiny 2 streamer accused of leaking confidential content](https://www.pcgamer.com/bungie-says-it-has-irrefutable-evidence-against-destiny-2-streamer-accused-of-leaking-confidential-content)
+ - [Fortnite Totally Nailed Attack On Titan&#39;s Thrilling Movement](https://kotaku.com/fortnite-attack-on-titan-odm-gear-thunder-spear-epic-1850348825)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
