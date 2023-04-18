@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)
- - ⏩ [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
- - 👉 [Netflix&#39;s Queen Cleopatra Official Trailer with over 200k dislikes and just 20k likes.](http://9gag.com/gag/axo67XY)<!-- MEMES:END -->
+ - 💣 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
+ - ⏩ [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
+ - 👉 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)<!-- MEMES:END -->
 
 ---
 
