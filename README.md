@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Counterman v. Colorado, a cyberstalking case the SCOTUS will hear on April 19 and that could have sweeping consequences for online speech writ large &lpar;Issie Lapowsky/Fast Company&rpar;](http://www.techmeme.com/230417/p22#a230417p22)
  - [In an interview with Tucker Carlson, Elon Musk says he&#39;s working on &quot;TruthGPT or a maximum truth-seeking AI that tries to understand the nature of the universe&quot; &lpar;Bailee Hill/Fox News&rpar;](http://www.techmeme.com/230417/p21#a230417p21)
- - [WhatsApp and other encrypted messaging apps sign a letter urging the UK government to rethink the Online Safety Bill, which would weaken privacy on the internet &lpar;BBC&rpar;](http://www.techmeme.com/230417/p20#a230417p20)
- - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)<!-- TECH:END -->
+ - [WhatsApp and other encrypted messaging apps sign a letter urging the UK government to rethink the Online Safety Bill, which would weaken privacy on the internet &lpar;BBC&rpar;](http://www.techmeme.com/230417/p20#a230417p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
