@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk claims to be working on ‘TruthGPT’ — a ‘maximum truth-seeking AI’](https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt)
- - [The best Samsung Galaxy A54 5G chargers](https://www.androidauthority.com/best-samsung-galaxy-a54-5g-charger-3313933/)
- - [The Pixel 7A might cost $50 more than the Pixel 6A](https://www.theverge.com/2023/4/17/23687340/pixel-7a-cost-camera-wireless-charging-tablet)<!-- TECH:END -->
+ - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)
+ - [The Polestar 4 electric SUV packs a lot of punch in a small package](https://www.theverge.com/2023/4/17/23685255/polestar-4-electric-suv-specs-photos-price-date)
+ - [Elon Musk claims to be working on ‘TruthGPT’ — a ‘maximum truth-seeking AI’](https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
