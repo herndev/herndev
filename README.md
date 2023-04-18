@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung can’t dump Google for Bing as the default search engine on its phones](https://www.androidauthority.com/samsung-google-search-vs-bing-3314088/)
- - [Indian customers are yet to fully benefit from Apple&#39;s India initiatives due to prohibitively expensive products and services like Apple Pay being unavailable &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230418/p5#a230418p5)
- - [Samsung retakes top spot in Q1 as usual, but it has reason to be very worried](https://www.androidauthority.com/samsung-apple-q1-2023-3314084/)<!-- TECH:END -->
+ - [Motorola’s two new Razr foldables get a US launch date in latest leak](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)
+ - [Withings’ latest smart scale features an ‘eyes closed’ mode](https://www.theverge.com/2023/4/18/23686670/withings-body-smart-smart-scale-eyes-closed)
+ - [Samsung can’t dump Google for Bing as the default search engine on its phones](https://www.androidauthority.com/samsung-google-search-vs-bing-3314088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
