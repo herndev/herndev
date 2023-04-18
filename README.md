@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike skin sells for $400K, probably the most expensive gun in videogame history](https://www.pcgamer.com/counter-strike-skin-sells-for-dollar400k-probably-the-most-expensive-gun-in-videogame-history)
- - [Asus says its Steam Deck rival may be coming &#39;sooner than you expect&#39;](https://www.pcgamer.com/asus-says-its-steam-deck-rival-may-be-coming-sooner-than-you-expect)
- - [The best order to watch all the Transformers movies](https://www.polygon.com/entertainment/23686534/transformers-watch-order-movies-chronological-streaming)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Redfall, The Last Case of Benedict Fox, BlazBlue: Cross Tag Battle, and More](https://news.xbox.com/en-us/2023/04/18/game-pass-april-2023-wave-2-announce/)
+ - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)
+ - [Bowser released from federal prison but has to pay Nintendo for the rest of his working life](https://www.pcgamer.com/bowser-released-from-federal-prison-but-has-to-pay-nintendo-for-the-rest-of-his-working-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
