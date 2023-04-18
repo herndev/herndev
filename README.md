@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 Ultra announced: The best Android camera phone?](https://www.androidauthority.com/xiaomi-13-ultra-3314096/)
- - [Citizen Lab: NSO Group deployed at least three new &quot;zero-click&quot; hacks against iPhones with iOS 15 and early versions of iOS 16 in 2022; Apple fixed the exploits &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230418/p11#a230418p11)
- - [The Verge is nominated for three Webby Awards, and you can help us win!](https://www.theverge.com/2023/4/18/23687373/webby-awards-2023-nominations-voting-peoples-voice-vergecast-full-frame)<!-- TECH:END -->
+ - [The Nest Thermostat is getting Matter support starting today](https://www.theverge.com/2023/4/18/23687751/nest-thermostat-matter-support-apple-home)
+ - [Marvel’s hoping Thor and Loki can convince you to run a 5K in a new running app](https://www.theverge.com/2023/4/18/23686893/marvel-move-six-to-start-running-fitness)
+ - [Sonos’ exciting new product category is... commercial audio](https://www.theverge.com/2023/4/18/23686771/sonos-pro-commercial-audio-service-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
