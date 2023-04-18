@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - ⏩ [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
- - 👉 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
+ - 💣 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
+ - ⏩ [Collecting magnetite on the beach](http://9gag.com/gag/a2K0KZw)
+ - 👉 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
 
 ---
 
