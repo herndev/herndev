@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)
- - [The Polestar 4 electric SUV packs a lot of punch in a small package](https://www.theverge.com/2023/4/17/23685255/polestar-4-electric-suv-specs-photos-price-date)
- - [Elon Musk claims to be working on ‘TruthGPT’ — a ‘maximum truth-seeking AI’](https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt)<!-- TECH:END -->
+ - [In an interview with Tucker Carlson, Elon Musk says he&#39;s working on &quot;TruthGPT or a maximum truth-seeking AI that tries to understand the nature of the universe&quot; &lpar;Bailee Hill/Fox News&rpar;](http://www.techmeme.com/230417/p21#a230417p21)
+ - [WhatsApp and other encrypted messaging apps sign a letter urging the UK government to rethink the Online Safety Bill, which would weaken privacy on the internet &lpar;BBC&rpar;](http://www.techmeme.com/230417/p20#a230417p20)
+ - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
