@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacStadium offers self-service purchase option with Orka Small Teams Edition](https://appleinsider.com/articles/23/04/18/macstadium-offers-self-service-purchase-option-with-orka-small-teams-edition?utm_medium=rss)
- - [Pokémon Go developer Niantic is making a real-world Monster Hunter game](https://www.theverge.com/2023/4/18/23687404/monster-hunter-now-niantic-pokemon-go-ar-real-world)
- - [Despite the UK chancellor lauding its &quot;world-beating fintech sector&quot;, London has been waning as a fintech hub, as startups call for reforms amid SVB UK&#39;s bust &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230418/p1#a230418p1)<!-- TECH:END -->
+ - [An in-depth look at how police agencies across Europe infiltrated encrypted phone networks like EncroChat and Sky ECC that were popular with organized criminals &lpar;Ed Caesar/New Yorker&rpar;](http://www.techmeme.com/230418/p2#a230418p2)
+ - [Google may not discontinue the Pixel 6a after launching the Pixel 7a](https://www.androidauthority.com/google-pixel-6a-discontinue-3314078/)
+ - [MacStadium offers self-service purchase option with Orka Small Teams Edition](https://appleinsider.com/articles/23/04/18/macstadium-offers-self-service-purchase-option-with-orka-small-teams-edition?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
