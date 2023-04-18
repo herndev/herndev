@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
- - ⏩ [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
+ - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - ⏩ [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
+ - 👉 [\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q07wQ)<!-- MEMES:END -->
 
 ---
 
