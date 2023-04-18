@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is shutting down its original DVD business after 25 years](https://www.theverge.com/2023/4/18/23688543/netflix-dvd-com-business-25-years)
- - [How to set up two-factor authentication on your online services](https://www.theverge.com/23612381/two-factor-authentication-2fa-amazon-twitter-how-to)
- - [What’s really going on with ‘Ghostwriter’ and the AI Drake song?](https://www.theverge.com/2023/4/18/23688141/ai-drake-song-ghostwriter-copyright-umg-the-weeknd)<!-- TECH:END -->
+ - [The Beats Studio Buds+ are on the way, time to get the discounted original buds](https://www.androidauthority.com/beats-studio-buds-plus-3314466/)
+ - [Netflix plans a &quot;broad rollout&quot; of its paid sharing plan in Q2 2023, including to the US, after its Canada, New Zealand, Portugal, and Spain launch in February &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230418/p26#a230418p26)
+ - [Meta opens up Horizon Worlds to teens in the US and Canada, despite objections from some lawmakers and activists, alongside new age-appropriate safety features &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230418/p25#a230418p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
