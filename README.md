@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best order to watch all the Transformers movies](https://www.polygon.com/entertainment/23686534/transformers-watch-order-movies-chronological-streaming)
  - [Can Trapinch be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23686640/can-trapinch-be-shiny-vibrava-flygon)
- - [Niantic is giving Monster Hunter the Pokémon Go treatment](https://www.polygon.com/23686321/monster-hunter-now-capcom-niantic-pokemon-go)
- - [Wordle hint and answer #668: Tuesday, April 18](https://www.pcgamer.com/wordle-hint-answer-today-668-april-18)<!-- GAME:END -->
+ - [Niantic is giving Monster Hunter the Pokémon Go treatment](https://www.polygon.com/23686321/monster-hunter-now-capcom-niantic-pokemon-go)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
