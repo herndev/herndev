@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looting Just Got A Lot Easier In Horizon Forbidden West, But Only On PS5](https://kotaku.com/horizon-forbidden-west-burning-shores-dlc-looting-1850349842)
- - [The Witch From Mercury has become the ultimate Gundam show](https://www.polygon.com/23688189/witch-from-mercury-gundam-show-best)
- - [Galaxy Quest is getting a TV show, for real this time hopefully](https://www.polygon.com/23688347/galaxy-quest-tv-series-paramount-plus)<!-- GAME:END -->
+ - [The best Minecraft Legends improvements to choose first](https://www.polygon.com/guides/23685768/minecraft-legends-best-improvements)
+ - [Netflix is ending its DVD-by-mail service](https://www.polygon.com/23688558/netflix-dvd-service-ending-date)
+ - [Lead designer at Naughty Dog says Star Wars Battlefront 3 was &#39;legit incredible&#39; and LucasArts cancelling it was &#39;an absolute crime&#39;](https://www.pcgamer.com/lead-designer-at-naughty-dog-says-star-wars-battlefront-3-was-legit-incredible-and-lucasarts-cancelling-it-was-an-absolute-crime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
