@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breath of the Wild&#39;s Greatest Stuntmaster Is Back, And Better Than Ever](https://kotaku.com/breath-wild-tears-kingdom-botw-totk-ambi-stunt-trick-1850344829)
- - [11+ Great Steam Deck Games That Won’t Drain Your Battery](https://kotaku.com/steam-deck-battery-improve-games-best-pc-great-1850345890)
- - [Nintendo’s next Indie World livestream drops April 19](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)<!-- GAME:END -->
+ - [Harry Potter Quidditch Game Announced, Explains Hogwarts Legacy Absence](https://kotaku.com/harry-potter-quidditch-champions-playtest-wb-games-date-1850347676)
+ - [Xbox Game Pass adds Minecraft Legends today, Redfall in two weeks](https://www.polygon.com/23687922/xbox-game-pass-april-2023-games-minecraft-legends-redfall)
+ - [Man steals Pokémon cards on the job in &#39;largest&#39; theft the game has ever seen, tries to sell his haul, but the law is super effective](https://www.pcgamer.com/man-steals-pokemon-cards-on-the-job-in-largest-theft-the-game-has-ever-seen-tries-to-sell-his-haul-but-the-law-is-super-effective)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
