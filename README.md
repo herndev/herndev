@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s invincible till someone punchs his knee caps and suddenly being 260kg isnt so fun anymore.](http://9gag.com/gag/a4oNEZv)
- - ⏩ [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
- - 👉 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
+ - 💣 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - ⏩ [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
+ - 👉 [Shakira taking her tree out of Pique house with a crane was the most latin attitude i&#39;ve ever seen](http://9gag.com/gag/aBdV6Wx)<!-- MEMES:END -->
 
 ---
 
