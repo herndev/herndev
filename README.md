@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gatorade Gx Sweat Patch review: Learn more about your workout from a sticker](https://appleinsider.com/articles/23/04/18/gatorade-gx-sweat-patch-review-learn-more-about-your-workout-from-a-sticker?utm_medium=rss)
- - [Chinese government data: semiconductor output fell nearly 15% YoY in Q1 2023; smartphone production fell 13.8%, as local brands like Oppo and Xiaomi struggled &lpar;Bloomberg&rpar;](http://www.techmeme.com/230418/p9#a230418p9)
- - [Score a Set of AirPods Pro For Just $159 Today Only     - CNET](https://www.cnet.com/deals/score-set-airpods-pro-just-159-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi 13 Ultra announced: The best Android camera phone?](https://www.androidauthority.com/xiaomi-13-ultra-3314096/)
+ - [Citizen Lab: NSO Group deployed at least three new &quot;zero-click&quot; hacks against iPhones with iOS 15 and early versions of iOS 16 in 2022; Apple fixed the exploits &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230418/p11#a230418p11)
+ - [The Verge is nominated for three Webby Awards, and you can help us win!](https://www.theverge.com/2023/4/18/23687373/webby-awards-2023-nominations-voting-peoples-voice-vergecast-full-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
