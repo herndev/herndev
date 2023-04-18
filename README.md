@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
- - ⏩ [They paused the game for this](http://9gag.com/gag/az2Kmbz)
- - 👉 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
+ - 💣 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
+ - ⏩ [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
 
 ---
 
