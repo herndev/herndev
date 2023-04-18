@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple HomePods can now listen for your smoke alarms](https://www.theverge.com/2023/4/18/23688208/apple-homepod-sound-recognition-smoke-co-alarms)
- - [New Horizon Forbidden West patch adds thalassophobia mode](https://www.theverge.com/2023/4/18/23688151/horizon-forbidden-west-patch-thalassophobia-mode)
- - [Reddit to charge companies for API access, which many have used to train AI systems; the API will remain free for devs building apps that help people use Reddit &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/230418/p19#a230418p19)<!-- TECH:END -->
+ - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
+ - [Intel just killed its crypto chip after less than a year](https://www.theverge.com/23688338/intel-blockscale-asic-bitcoin-mining-crypto-discontinued)
+ - [Apple is working on gaming and fitness apps for its AR headset before launch](https://appleinsider.com/articles/23/04/18/apple-is-working-on-gaming-and-fitness-apps-for-its-ar-headset-before-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
