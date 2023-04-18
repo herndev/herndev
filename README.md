@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything about the Love Is Blind season 4 reunion special was messy](https://www.polygon.com/23688320/love-is-blind-reunion-special-season-4)
- - [The Highs &lpar;And Lows&rpar; Of Taking Apart My Steam Deck](https://kotaku.com/steam-deck-repair-b-button-stuck-fix-sandpaper-teardown-1850348957)
- - [Everything We Know About The Legend of Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-price-date-ganondorf-1850348965)<!-- GAME:END -->
+ - [Looting Just Got A Lot Easier In Horizon Forbidden West, But Only On PS5](https://kotaku.com/horizon-forbidden-west-burning-shores-dlc-looting-1850349842)
+ - [The Witch From Mercury has become the ultimate Gundam show](https://www.polygon.com/23688189/witch-from-mercury-gundam-show-best)
+ - [Galaxy Quest is getting a TV show, for real this time hopefully](https://www.polygon.com/23688347/galaxy-quest-tv-series-paramount-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
