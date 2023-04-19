@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber risk quantification startup Safe Security raised a $50M Series B led by Sorenson Capital &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/230418/p32#a230418p32)
- - [Semgrep, formally r2c, which offers tools to help devs scan for vulnerable code, raised a $53M Series C led by Lightspeed, bringing its total funding to $93M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230418/p31#a230418p31)
- - [The Biggest Toys From 2022 That You&#39;ll Want in 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: save up to 70% on Intego antivirus &amp; internet security software for Mac](https://appleinsider.com/articles/23/04/19/deals-save-up-to-70-on-intego-antivirus-internet-security-software-for-mac?utm_medium=rss)
+ - [For a few minutes, Google’s search results were pretty broken](https://www.theverge.com/2023/4/18/23689006/google-search-results-broken-blue-links)
+ - [Cold Brew vs. Japanese-Style Iced Coffee: Which Is Better?     - CNET](https://www.cnet.com/news/cold-brew-vs-japanese-style-iced-coffee-which-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
