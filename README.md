@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - ⏩ [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - 👉 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
+ - 💣 [Imagine being triggered over some 11 year old kid calling you \u201cNPC\u201d to the point you resort to stabbing him](http://9gag.com/gag/aL14erM)
+ - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
+ - 👉 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)<!-- MEMES:END -->
 
 ---
 
