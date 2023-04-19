@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is upgrading its &#39;Basic with Ads&#39; streaming plan with two big improvements](https://appleinsider.com/articles/23/04/19/netflix-is-upgrading-its-basic-with-ads-streaming-plan-with-two-big-improvements?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Apr. 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-19-2023-3313793/)
- - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
+ - [Everything spy movies get right &lpar;and wrong&rpar; about smart glasses](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy)
+ - [Tim Cook meets with India&#39;s Prime Minister, as tour continues](https://appleinsider.com/articles/23/04/19/tim-cook-meets-with-indias-prime-minister-as-tour-continues?utm_medium=rss)
+ - [The Verge’s 2023 Graduation Gift Guide](https://www.theverge.com/23678774/graduation-grad-gift-ideas-2023-college-high-school-dorm-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
