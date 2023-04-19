@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Advance Wars’ slick reboot makes 20 years of trouble melt away](https://www.polygon.com/reviews/23688763/advance-wars-1-2-reboot-camp-review-nintendo-switch)
- - [Horizon Forbidden West: Burning Shores is out now on PS5](https://blog.playstation.com/2023/04/19/horizon-forbidden-west-burning-shores-is-out-now-on-ps5/)
- - [Gollum dev says it&#39;s charging for the precious Elvish-language DLC because it had to train voice actors in how to speak it](https://www.pcgamer.com/gollum-dev-says-its-charging-for-the-precious-elvish-language-dlc-because-it-had-to-train-voice-actors-in-how-to-speak-it)<!-- GAME:END -->
+ - [Insidious’ next chapter checks in with its original characters 10 years later](https://www.polygon.com/23688453/insidious-red-door-trailer-movie-sequel)
+ - [You&#39;ve got one week to try Modern Warfare 2&#39;s multiplayer for free](https://www.pcgamer.com/youve-got-one-week-to-try-modern-warfare-2s-multiplayer-for-free)
+ - [New Sonic the Hedgehog Lego sets are basically Hot Wheels for hedgehogs](https://www.polygon.com/23689357/sonic-hedgehog-lego-set-august-2023-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
