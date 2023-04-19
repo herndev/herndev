@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime convention problems](http://9gag.com/gag/aZD8QyX)
- - ⏩ [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)
- - 👉 [Evolution mouse](http://9gag.com/gag/aGEBMbz)<!-- MEMES:END -->
+ - 💣 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - 👉 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
 
 ---
 
