@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A cloud 7 kilometers thick passed over Istanbul. In the meantime, the sun disappeared in 5 minutes, and the day turned into night. Some people commented on the apocalypse. Here are those moments... \ud83d\udc40](http://9gag.com/gag/a9q5vnj)
- - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
+ - 💣 [Zoom call from a ceo who cancelled all employee bonuses but took a $6.4 million bonus herself, for you kindness and be nice](http://9gag.com/gag/aA0Ky72)
+ - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 👉 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 ---
 
