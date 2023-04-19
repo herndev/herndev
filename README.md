@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sources: Meta is expected to conduct another mass round of layoffs on April 19, a source says possibly in the range of 4,000 jobs, out of the planned 10,000 &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230418/p28#a230418p28)
- - [Fire TV to Improve Live Channel Experience with DirecTV Integration     - CNET](https://www.cnet.com/tech/services-and-software/fire-tv-to-improve-live-channel-experience-with-directv-integration/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Semgrep, formally r2c, which offers tools to help devs scan for vulnerable code, raised a $53M Series C led by Lightspeed, bringing its total funding to $93M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230418/p31#a230418p31)
+ - [The Biggest Toys From 2022 That You&#39;ll Want in 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)
+ - [Reddit’s upcoming API changes will make AI companies pony up](https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
