@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Design vs programming](http://9gag.com/gag/abv44Dp)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
+ - 💣 [Your body\u2019s got reserves](http://9gag.com/gag/aYVDD7v)
+ - ⏩ [Baby Mute](http://9gag.com/gag/axo6v6n)
+ - 👉 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)<!-- MEMES:END -->
 
 ---
 
