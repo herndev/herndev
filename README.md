@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - ⏩ [Did you say ice cream](http://9gag.com/gag/a1P0112)
- - 👉 [Show me all your Mario movie easter eggs](http://9gag.com/gag/aVbKg2y)<!-- MEMES:END -->
+ - ⏩ [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
+ - 👉 [Cool kid](http://9gag.com/gag/a8q0mVO)<!-- MEMES:END -->
 
 ---
 
