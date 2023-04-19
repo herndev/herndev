@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Power 5G review: The price of power](https://www.androidauthority.com/motorola-moto-g-power-5g-review-3312011/)
- - [Microsoft plans to drop Twitter support from its ad platform on April 25; users won&#39;t be able to access their account nor create, manage, or schedule tweets &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230419/p30#a230419p30)
- - [Elon Musk threatens to sue Microsoft](https://www.theverge.com/2023/4/19/23690216/elon-musk-microsoft-ai-lawsuit-threat)<!-- TECH:END -->
+ - [After Microsoft Advertising said it was dropping Twitter support, Elon Musk tweeted that it&#39;s &quot;lawsuit time&quot; over training &quot;illegally using Twitter data&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230419/p32#a230419p32)
+ - [Customer billing issues will soon be solved in-app with no need for developer intervention](https://appleinsider.com/articles/23/04/19/customer-billing-issues-will-soon-be-solved-in-app-with-no-need-for-developer-intervention?utm_medium=rss)
+ - [Seagate agrees to pay $300M to settle with the US Department of Commerce for shipping $1.1B+ worth of hard drives to Huawei, violating US export control laws &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/230419/p31#a230419p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
