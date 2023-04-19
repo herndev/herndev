@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
+ - 💣 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - ⏩ [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - 👉 [Baby Mute](http://9gag.com/gag/axo6v6n)<!-- MEMES:END -->
 
 ---
 
