@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Indie World showcase features Cult of the Lamb DLC, Oxenfree II, and more](https://www.theverge.com/2023/4/19/23689484/nintendo-indie-world-oxenfree-2-cult-of-the-lamb)
- - [The best Samsung Galaxy deals: Get the Galaxy A54 5G for just $199.99](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Cult of the Lamb is getting a free update](https://www.theverge.com/2023/4/19/23689682/cult-of-the-lamb-free-update-nintendo-indie-world)<!-- TECH:END -->
+ - [Snapchat is releasing its AI chatbot to everyone for free](https://www.theverge.com/2023/4/19/23688913/snapchat-my-ai-chatbot-release-open-ai)
+ - [Volkswagen ID.4 electric SUV will qualify for the full $7,500 tax credit, automaker says](https://www.theverge.com/2023/4/19/23689820/volkswagen-id-4-ev-tax-credit-qualify)
+ - [Stability AI debuts StableLM, its first suite of instruction-following LLMs, in alpha, starting with 3B and 7B parameters, with 15B to 65B versions to follow &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230419/p20#a230419p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
