@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix will finally stop mailing people DVDs this year](https://www.pcgamer.com/netflix-will-finally-stop-mailing-people-dvds-this-year)
- - [Godzilla and King Kong team up in Godzilla x Kong: The New Empire](https://www.polygon.com/23689776/godzilla-x-kong-new-empire-trailer-title-release-date)
- - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Pokémon card heist goes terribly wrong… for the thief](https://www.polygon.com/tabletop-games/23687028/stolen-pokemon-card-rumors-true-story-fusion-strike)
+ - [Here&#39;s another e-waste crisis for the e-waste crisis pile: &#39;Chromebook churn&#39;](https://www.pcgamer.com/heres-another-e-waste-crisis-for-the-e-waste-crisis-pile-chromebook-churn)
+ - [Sonic The Hedgehog Is Getting Four Cool As Hell New Lego Sets](https://kotaku.com/lego-sonic-set-amy-tails-release-date-price-1850354307)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
