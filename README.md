@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything spy movies get right &lpar;and wrong&rpar; about smart glasses](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy)
- - [Tim Cook meets with India&#39;s Prime Minister, as tour continues](https://appleinsider.com/articles/23/04/19/tim-cook-meets-with-indias-prime-minister-as-tour-continues?utm_medium=rss)
- - [The Verge’s 2023 Graduation Gift Guide](https://www.theverge.com/23678774/graduation-grad-gift-ideas-2023-college-high-school-dorm-tech)<!-- TECH:END -->
+ - [Sources: Microsoft plans to release its first ARM-powered Surface Go 4 in 2023, and is working on a smaller Surface Pro with an 11-inch display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230419/p16#a230419p16)
+ - [The Search for Long Covid Treatments Takes a Promising Turn](https://www.wired.com/story/long-covid-treatments/)
+ - [Apple highlights strides toward limiting environmental impact in annual Environmental Progress Report](https://appleinsider.com/articles/23/04/19/apple-highlights-strides-toward-limiting-environmental-impact-in-annual-environmental-progress-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
