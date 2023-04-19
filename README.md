@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brilliant](http://9gag.com/gag/aEqA86O)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
+ - 💣 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
+ - ⏩ [Imagine being triggered over some 11 year old kid calling you \u201cNPC\u201d to the point you resort to stabbing him](http://9gag.com/gag/aL14erM)
+ - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 ---
 
