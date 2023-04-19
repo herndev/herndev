@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An absolute unit.](http://9gag.com/gag/aOxZ3qD)
- - ⏩ [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
+ - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - ⏩ [Highway Patrol in Brazil: one shot, one tire](http://9gag.com/gag/ago7Bxv)
+ - 👉 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)<!-- MEMES:END -->
 
 ---
 
