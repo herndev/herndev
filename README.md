@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satan, calm down!](http://9gag.com/gag/aREML05)
- - ⏩ [Clown World](http://9gag.com/gag/aDY8YOZ)
- - 👉 [Men needs little things for being happy](http://9gag.com/gag/avQ6QGO)<!-- MEMES:END -->
+ - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - ⏩ [Did you say ice cream](http://9gag.com/gag/a1P0112)
+ - 👉 [Show me all your Mario movie easter eggs](http://9gag.com/gag/aVbKg2y)<!-- MEMES:END -->
 
 ---
 
