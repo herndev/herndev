@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - ⏩ [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
- - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
+ - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 👉 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
 
 ---
 
