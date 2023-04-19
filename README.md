@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s Matt Mercer will lead Dimension 20’s Crown of Candy prequel](https://www.polygon.com/23689735/critical-role-matt-mercer-dimension-20-ravening-war-trailer-premiere-date)
- - [Everything We Saw At Nintendo’s Latest Switch World Showcase](https://kotaku.com/nintendo-switch-indie-world-2023-release-dates-eshop-1850352866)
- - [Where to find the Lock On Pistol in Fortnite](https://www.pcgamer.com/fortnite-lock-on-pistol)<!-- GAME:END -->
+ - [Netflix will finally stop mailing people DVDs this year](https://www.pcgamer.com/netflix-will-finally-stop-mailing-people-dvds-this-year)
+ - [Godzilla and King Kong team up in Godzilla x Kong: The New Empire](https://www.polygon.com/23689776/godzilla-x-kong-new-empire-trailer-title-release-date)
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
