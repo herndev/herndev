@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What web browser do you use on your phone and PC?](https://www.androidauthority.com/web-browser-use-phone-pc-poll-3314726/)
- - [Sources: some US tech companies push to narrow the scope of a Senate bill aimed at a TikTok ban, worried it exposes them to future national security reviews &lpar;Bloomberg&rpar;](http://www.techmeme.com/230419/p9#a230419p9)
- - [Netflix&#39;s password sharing crackdown is coming to the US](https://appleinsider.com/articles/23/04/19/netflixs-password-sharing-crackdown-is-coming-to-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [The Supreme Court is about to hear a landmark online threats case](https://www.theverge.com/2023/4/19/23686385/supreme-court-counterman-colorado-oral-arguments-true-threats-facebook)
+ - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [Advance Wars 1+2: Re-Boot Camp shows that great games age beautifully](https://www.theverge.com/23688312/advance-wars-reboot-camp-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
