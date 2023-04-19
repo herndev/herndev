@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #669: Wednesday, April 19](https://www.pcgamer.com/wordle-hint-answer-today-669-april-19)
  - [Horizon Update Helps Players Afraid Of Underwater Sections](https://kotaku.com/horizon-forbidden-west-ps5-thalassophobia-underwater-1850351360)
- - [The Pope’s Exorcist teases 199 sequels and I would watch every single one of them](https://www.polygon.com/23688296/popes-exorcist-review-russell-crowe-sequels)
- - [Resident Evil Games Accidentally Lose Ray-Tracing On PC After Update](https://kotaku.com/resident-evil-remake-steam-pc-3-4-broken-update-borked-1850351040)<!-- GAME:END -->
+ - [The Pope’s Exorcist teases 199 sequels and I would watch every single one of them](https://www.polygon.com/23688296/popes-exorcist-review-russell-crowe-sequels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
