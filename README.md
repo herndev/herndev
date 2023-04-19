@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
- - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 💣 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
 
 ---
 
