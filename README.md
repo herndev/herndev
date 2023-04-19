@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some software firms are facing large tax bills after US lawmakers failed to renew a provision letting companies to fully expense R&amp;D costs in the year incurred &lpar;Eric Rosenbaum/CNBC&rpar;](http://www.techmeme.com/230418/p34#a230418p34)
- - [Avalor, which lets cybersecurity teams aggregate, normalize, de-duplicate, and track risk data from discovery to remediation, raised a $25M Series A led by TCV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230418/p33#a230418p33)
- - [Deals: save up to 70% on Intego antivirus &amp; internet security software for Mac](https://appleinsider.com/articles/23/04/19/deals-save-up-to-70-on-intego-antivirus-internet-security-software-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Trial seeking Apple Watch ban continues with witness statements](https://appleinsider.com/articles/23/04/19/trial-seeking-apple-watch-ban-continues-with-witness-statements?utm_medium=rss)
+ - [Miovision, which helps cities manage traffic flows using AI, acquires Global Traffic Technologies for $107M, after raising $150M from Maverix, Telus, and EDC &lpar;Globe and Mail&rpar;](http://www.techmeme.com/230418/p36#a230418p36)
+ - [NYC-based Odeko, which offers operations software to independent coffee shops and cafes, raised a $53M Series D, bringing its total equity funding to $177M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230418/p35#a230418p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
