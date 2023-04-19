@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Itana, a controversial startup city set to be built near Lagos in partnership with Binance and investors like Peter Thiel-backed Pronomos Capital &lpar;Wired&rpar;](http://www.techmeme.com/230419/p4#a230419p4)
- - [Google could offer a free Pixel Watch to Pixel Fold buyers](https://www.androidauthority.com/google-pixel-fold-free-pixel-watch-3314655/)
- - [Xiaomi 13 Ultra hands-on: More than just some great cameras?](https://www.androidauthority.com/xiaomi-13-ultra-hands-on-3314199/)<!-- TECH:END -->
+ - [Have the cheapest Netflix plan? Here’s some good news for you](https://www.androidauthority.com/netflix-basic-with-ads-plan-video-quality-upgrade-3314702/)
+ - [ASUS ROG Ally specs leak: More impressive than Steam Deck?](https://www.androidauthority.com/asus-rog-ally-specs-3314684/)
+ - [Netflix upgrades its ad-supported plan&#39;s video quality from 720p to 1080p and lets subscribers watch two streams at once, starting with Canada and Spain &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230419/p6#a230419p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
