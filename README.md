@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court is about to hear a landmark online threats case](https://www.theverge.com/2023/4/19/23686385/supreme-court-counterman-colorado-oral-arguments-true-threats-facebook)
- - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [Advance Wars 1+2: Re-Boot Camp shows that great games age beautifully](https://www.theverge.com/23688312/advance-wars-reboot-camp-review-nintendo-switch)<!-- TECH:END -->
+ - [Netflix is upgrading its &#39;Basic with Ads&#39; streaming plan with two big improvements](https://appleinsider.com/articles/23/04/19/netflix-is-upgrading-its-basic-with-ads-streaming-plan-with-two-big-improvements?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Apr. 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-19-2023-3313793/)
+ - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
