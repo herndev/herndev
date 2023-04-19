@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trial seeking Apple Watch ban continues with witness statements](https://appleinsider.com/articles/23/04/19/trial-seeking-apple-watch-ban-continues-with-witness-statements?utm_medium=rss)
- - [Miovision, which helps cities manage traffic flows using AI, acquires Global Traffic Technologies for $107M, after raising $150M from Maverix, Telus, and EDC &lpar;Globe and Mail&rpar;](http://www.techmeme.com/230418/p36#a230418p36)
- - [NYC-based Odeko, which offers operations software to independent coffee shops and cafes, raised a $53M Series D, bringing its total equity funding to $177M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230418/p35#a230418p35)<!-- TECH:END -->
+ - [Netflix will start charging US customers for password sharing this summer](https://www.androidauthority.com/netflix-paid-password-sharing-us-3314617/)
+ - [The EU establishes the European Centre for Algorithmic Transparency in Seville, Spain, to support oversight of large platforms under the Digital Services Act &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230419/p1#a230419p1)
+ - [Trial seeking Apple Watch ban continues with witness statements](https://appleinsider.com/articles/23/04/19/trial-seeking-apple-watch-ban-continues-with-witness-statements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
