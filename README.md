@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk threatens to sue Microsoft](https://www.theverge.com/2023/4/19/23690216/elon-musk-microsoft-ai-lawsuit-threat)
- - [IBM reports Q1 revenue up 0.4% YoY to $14.25B, vs. $14.35B est., net income up 26% YoY to $927M, and software revenue up 2.6% YoY to $5.92B, vs. $5.83B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230419/p29#a230419p29)
- - [SpaceX Starship launch countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
+ - [Motorola Moto G Power 5G review: The price of power](https://www.androidauthority.com/motorola-moto-g-power-5g-review-3312011/)
+ - [Microsoft plans to drop Twitter support from its ad platform on April 25; users won&#39;t be able to access their account nor create, manage, or schedule tweets &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230419/p30#a230419p30)
+ - [Elon Musk threatens to sue Microsoft](https://www.theverge.com/2023/4/19/23690216/elon-musk-microsoft-ai-lawsuit-threat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
