@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is releasing its AI chatbot to everyone for free](https://www.theverge.com/2023/4/19/23688913/snapchat-my-ai-chatbot-release-open-ai)
- - [Volkswagen ID.4 electric SUV will qualify for the full $7,500 tax credit, automaker says](https://www.theverge.com/2023/4/19/23689820/volkswagen-id-4-ev-tax-credit-qualify)
- - [Stability AI debuts StableLM, its first suite of instruction-following LLMs, in alpha, starting with 3B and 7B parameters, with 15B to 65B versions to follow &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230419/p20#a230419p20)<!-- TECH:END -->
+ - [The Hacker Who Hijacked Matt Walsh&#39;s Twitter Was Just ‘Bored’](https://www.wired.com/story/matt-walsh-twitter-hack-doomed/)
+ - [Sonic The Hedgehog can actually spin in Lego’s new sets](https://www.theverge.com/23689860/lego-sonic-the-hedgehog-2023-price-release-date-speed-sphere)
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
