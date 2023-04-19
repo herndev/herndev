@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help, I’m Catching Feelings For This Wo Long Boss](https://kotaku.com/wo-long-fallen-dynasty-liu-bei-team-ninja-soulslike-1850353700)
- - [The Venture Bros. movie is finally happening, and here’s a short clip to prove it](https://www.polygon.com/23690075/venture-bros-movie-clip-trailer-release-date)
- - [Dark and Darker devs apologize for buggy playtest, but I for one am glad I torrented it](https://www.pcgamer.com/dark-and-darker-devs-apologize-for-buggy-playtest-but-i-for-one-am-glad-i-torrented-it)<!-- GAME:END -->
+ - [The balls on this guy: An author is suing Amazon and JRR Tolkien&#39;s grandson with the claim that they infringed on his Lord of the Rings fanfiction](https://www.pcgamer.com/rings-of-power-lawsuit)
+ - [Google employees reportedly begged it not to release &#39;pathological liar&#39; AI chatbot Bard](https://www.pcgamer.com/google-employees-reportedly-begged-it-not-to-release-pathological-liar-ai-chatbot-bard)
+ - [Jason Momoa blows up the Vatican in Fast X trailer](https://www.polygon.com/23690277/fast-x-trailer-jason-momoa-brie-larson)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
