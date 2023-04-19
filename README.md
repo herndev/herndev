@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber risk quantification startup Safe Security raised a $50M Series B led by Sorenson Capital &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/230418/p32#a230418p32)
  - [Semgrep, formally r2c, which offers tools to help devs scan for vulnerable code, raised a $53M Series C led by Lightspeed, bringing its total funding to $93M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230418/p31#a230418p31)
- - [The Biggest Toys From 2022 That You&#39;ll Want in 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)
- - [Reddit’s upcoming API changes will make AI companies pony up](https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai)<!-- TECH:END -->
+ - [The Biggest Toys From 2022 That You&#39;ll Want in 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
