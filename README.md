@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More people have played The Sims 4 than live in France](https://www.pcgamer.com/more-people-have-played-the-sims-4-than-live-in-france)
- - [This Mom Didn&#39;t Know She Was In A $250K Candy Crush Tournament, But She&#39;s Killing It](https://kotaku.com/candy-crush-competition-all-stars-2023-prizes-finals-1850353139)
- - [Rogue Trader shows off one of Warhammer 40K&#39;s most interesting locations for the first time in a videogame](https://www.pcgamer.com/rogue-trader-shows-off-one-of-warhammer-40ks-most-interesting-locations-for-the-first-time-in-a-videogame)<!-- GAME:END -->
+ - [Critical Role’s Matt Mercer will lead Dimension 20’s Crown of Candy prequel](https://www.polygon.com/23689735/critical-role-matt-mercer-dimension-20-ravening-war-trailer-premiere-date)
+ - [Everything We Saw At Nintendo’s Latest Switch World Showcase](https://kotaku.com/nintendo-switch-indie-world-2023-release-dates-eshop-1850352866)
+ - [Where to find the Lock On Pistol in Fortnite](https://www.pcgamer.com/fortnite-lock-on-pistol)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
