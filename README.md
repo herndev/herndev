@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This photo is actually one single exposure. No photoshop tricks. Check comments for explanation.](http://9gag.com/gag/amA6WpX)
- - ⏩ [Lol](http://9gag.com/gag/amA6oZj)
- - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
+ - 💣 [Anime convention problems](http://9gag.com/gag/aZD8QyX)
+ - ⏩ [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)
+ - 👉 [Evolution mouse](http://9gag.com/gag/aGEBMbz)<!-- MEMES:END -->
 
 ---
 
