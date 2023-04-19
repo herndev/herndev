@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel quietly ditches its Bitcoin mining chips](https://www.pcgamer.com/intel-quietly-ditches-its-bitcoin-mining-chips)
- - [Wordle hint and answer #669: Wednesday, April 19](https://www.pcgamer.com/wordle-hint-answer-today-669-april-19)
- - [Horizon Update Helps Players Afraid Of Underwater Sections](https://kotaku.com/horizon-forbidden-west-ps5-thalassophobia-underwater-1850351360)<!-- GAME:END -->
+ - [Gollum dev says it&#39;s charging for the precious Elvish-language DLC because it had to train voice actors in how to speak it](https://www.pcgamer.com/gollum-dev-says-its-charging-for-the-precious-elvish-language-dlc-because-it-had-to-train-voice-actors-in-how-to-speak-it)
+ - [Capcom promises the return of Resident Evil 2 and 3&#39;s vanished graphics and audio options](https://www.pcgamer.com/capcom-promises-the-return-of-resident-evil-2-and-3s-vanished-graphics-and-audio-options)
+ - [Intel quietly ditches its Bitcoin mining chips](https://www.pcgamer.com/intel-quietly-ditches-its-bitcoin-mining-chips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
