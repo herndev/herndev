@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being triggered over some 11 year old kid calling you \u201cNPC\u201d to the point you resort to stabbing him](http://9gag.com/gag/aL14erM)
- - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - 👉 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)<!-- MEMES:END -->
+ - 💣 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - ⏩ [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
+ - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 ---
 
