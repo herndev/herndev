@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your body\u2019s got reserves](http://9gag.com/gag/aYVDD7v)
- - ⏩ [Baby Mute](http://9gag.com/gag/axo6v6n)
- - 👉 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)<!-- MEMES:END -->
+ - 💣 [This photo is actually one single exposure. No photoshop tricks. Check comments for explanation.](http://9gag.com/gag/amA6WpX)
+ - ⏩ [Lol](http://9gag.com/gag/amA6oZj)
+ - 👉 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 ---
 
