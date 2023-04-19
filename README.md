@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google could offer a free Pixel Watch to Pixel Fold buyers](https://www.androidauthority.com/google-pixel-fold-free-pixel-watch-3314655/)
  - [Xiaomi 13 Ultra hands-on: More than just some great cameras?](https://www.androidauthority.com/xiaomi-13-ultra-hands-on-3314199/)
- - [CB Insights: Indian startups raised just $2B in Q1, down 75% YoY and the smallest quarterly total in nearly three years, across 271 startups, down from 561 YoY &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230419/p3#a230419p3)
- - [A T-Mobile plan shakeup might be coming as soon as Sunday](https://www.androidauthority.com/t-mobile-go-5g-new-plans-3314626/)<!-- TECH:END -->
+ - [CB Insights: Indian startups raised just $2B in Q1, down 75% YoY and the smallest quarterly total in nearly three years, across 271 startups, down from 561 YoY &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230419/p3#a230419p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
