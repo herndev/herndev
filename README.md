@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zoom call from a ceo who cancelled all employee bonuses but took a $6.4 million bonus herself, for you kindness and be nice](http://9gag.com/gag/aA0Ky72)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 💣 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
