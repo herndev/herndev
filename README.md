@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hold Up, The Full Zelda: Tears Of The Kingdom Theme Song Is Killer](https://kotaku.com/tears-kingdom-totk-main-theme-song-botw-nintendo-switch-1850350253)
- - [The best Minecraft Legends improvements to choose first](https://www.polygon.com/guides/23685768/minecraft-legends-best-improvements)
- - [Netflix is ending its DVD-by-mail service](https://www.polygon.com/23688558/netflix-dvd-service-ending-date)<!-- GAME:END -->
+ - [The Sims 4 Has New Updates Releasing On April 20](https://kotaku.com/the-sims-4-ea-420-weed-day-4-20-4-20-maxis-update-pc-1850350877)
+ - [Controlling Overwatch 2&#39;s new hero won&#39;t feel like playing a flight simulator anymore](https://www.pcgamer.com/controlling-overwatch-2s-new-hero-wont-feel-like-playing-a-flight-simulator-anymore)
+ - [You Gotta See Pokèmon In &#39;HD-2D,&#39; A Reinvention Of The Classic Games](https://kotaku.com/pokemon-hd-2d-octopath-traveler-fan-art-unreal-engine-5-1850350661)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
