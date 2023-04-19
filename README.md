@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Strange New Worlds season 2 trailer teases a bit of time travel, Carol Kane](https://www.polygon.com/23689497/star-trek-strange-new-worlds-season-2-trailer-release-date)
- - [Watch Nintendo’s new indie game showcase, Indie World](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)
- - [The Day Before announces a beta test and pledges a return to Steam](https://www.pcgamer.com/the-day-before-announces-a-beta-test-and-pledges-a-return-to-steam)<!-- GAME:END -->
+ - [More people have played The Sims 4 than live in France](https://www.pcgamer.com/more-people-have-played-the-sims-4-than-live-in-france)
+ - [This Mom Didn&#39;t Know She Was In A $250K Candy Crush Tournament, But She&#39;s Killing It](https://kotaku.com/candy-crush-competition-all-stars-2023-prizes-finals-1850353139)
+ - [Rogue Trader shows off one of Warhammer 40K&#39;s most interesting locations for the first time in a videogame](https://www.pcgamer.com/rogue-trader-shows-off-one-of-warhammer-40ks-most-interesting-locations-for-the-first-time-in-a-videogame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
