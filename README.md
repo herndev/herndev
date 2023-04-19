@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The balls on this guy: An author is suing Amazon and JRR Tolkien&#39;s grandson with the claim that they infringed on his Lord of the Rings fanfiction](https://www.pcgamer.com/rings-of-power-lawsuit)
- - [Google employees reportedly begged it not to release &#39;pathological liar&#39; AI chatbot Bard](https://www.pcgamer.com/google-employees-reportedly-begged-it-not-to-release-pathological-liar-ai-chatbot-bard)
- - [Jason Momoa blows up the Vatican in Fast X trailer](https://www.polygon.com/23690277/fast-x-trailer-jason-momoa-brie-larson)<!-- GAME:END -->
+ - [Big update this week on future of The Division, including Heartland and Resurgence](https://www.pcgamer.com/big-update-this-week-on-future-of-the-division-including-heartland-and-resurgence)
+ - [‘Grandma exploit’ tricks Discord’s AI chatbot into breaking its own ethical rules](https://www.polygon.com/23690187/discord-ai-chatbot-clyde-grandma-exploit-chatgpt)
+ - [The Red Cross Challenged Gamers To Not Commit War Crimes](https://kotaku.com/fortnite-call-of-duty-warzone-red-cross-war-crimes-1850355129)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
