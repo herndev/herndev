@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hacker Who Hijacked Matt Walsh&#39;s Twitter Was Just ‘Bored’](https://www.wired.com/story/matt-walsh-twitter-hack-doomed/)
- - [Sonic The Hedgehog can actually spin in Lego’s new sets](https://www.theverge.com/23689860/lego-sonic-the-hedgehog-2023-price-release-date-speed-sphere)
- - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
+ - [Purdue adds support for digital student IDs on iPhone &amp; Apple Watch](https://appleinsider.com/articles/23/04/19/purdue-adds-support-for-digital-student-ids-on-iphone-apple-watch?utm_medium=rss)
+ - [Atlassian launches Atlassian Intelligence, an AI assistant that uses the company&#39;s LLMs and OpenAI&#39;s, to offer AI features for Confluence and Jira in the cloud &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230419/p25#a230419p25)
+ - [Here Are Mortgage Rates for April 19, 2023: Rates Climb Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-april-19-2023-rates-increased/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
