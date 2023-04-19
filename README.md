@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Jack Black’s ‘Peaches’ from the Mario movie has entered the Billboard Hot 100](https://www.polygon.com/23689495/jack-black-peaches-super-mario-bros-movie-billboard-hot-100)
- - [All the Mandalorian season 4 news we’ve heard so far](https://www.polygon.com/star-wars/23688605/mandalorian-season-4-release-date-cast-news)<!-- GAME:END -->
+ - [Star Trek: Strange New Worlds season 2 trailer teases a bit of time travel, Carol Kane](https://www.polygon.com/23689497/star-trek-strange-new-worlds-season-2-trailer-release-date)
+ - [Watch Nintendo’s new indie game showcase, Indie World](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)
+ - [The Day Before announces a beta test and pledges a return to Steam](https://www.pcgamer.com/the-day-before-announces-a-beta-test-and-pledges-a-return-to-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
