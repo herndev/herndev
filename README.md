@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon card heist goes terribly wrong… for the thief](https://www.polygon.com/tabletop-games/23687028/stolen-pokemon-card-rumors-true-story-fusion-strike)
- - [Here&#39;s another e-waste crisis for the e-waste crisis pile: &#39;Chromebook churn&#39;](https://www.pcgamer.com/heres-another-e-waste-crisis-for-the-e-waste-crisis-pile-chromebook-churn)
- - [Sonic The Hedgehog Is Getting Four Cool As Hell New Lego Sets](https://kotaku.com/lego-sonic-set-amy-tails-release-date-price-1850354307)<!-- GAME:END -->
+ - [Help, I’m Catching Feelings For This Wo Long Boss](https://kotaku.com/wo-long-fallen-dynasty-liu-bei-team-ninja-soulslike-1850353700)
+ - [The Venture Bros. movie is finally happening, and here’s a short clip to prove it](https://www.polygon.com/23690075/venture-bros-movie-clip-trailer-release-date)
+ - [Dark and Darker devs apologize for buggy playtest, but I for one am glad I torrented it](https://www.pcgamer.com/dark-and-darker-devs-apologize-for-buggy-playtest-but-i-for-one-am-glad-i-torrented-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
