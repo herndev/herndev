@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - ⏩ [Highway Patrol in Brazil: one shot, one tire](http://9gag.com/gag/ago7Bxv)
- - 👉 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)<!-- MEMES:END -->
+ - 💣 [A cloud 7 kilometers thick passed over Istanbul. In the meantime, the sun disappeared in 5 minutes, and the day turned into night. Some people commented on the apocalypse. Here are those moments... \ud83d\udc40](http://9gag.com/gag/a9q5vnj)
+ - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
+ - 👉 [What a lovely charming lady.](http://9gag.com/gag/aMEPm2M)<!-- MEMES:END -->
 
 ---
 
