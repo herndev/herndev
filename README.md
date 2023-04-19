@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save up to 70% on Intego antivirus &amp; internet security software for Mac](https://appleinsider.com/articles/23/04/19/deals-save-up-to-70-on-intego-antivirus-internet-security-software-for-mac?utm_medium=rss)
- - [For a few minutes, Google’s search results were pretty broken](https://www.theverge.com/2023/4/18/23689006/google-search-results-broken-blue-links)
- - [Cold Brew vs. Japanese-Style Iced Coffee: Which Is Better?     - CNET](https://www.cnet.com/news/cold-brew-vs-japanese-style-iced-coffee-which-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some software firms are facing large tax bills after US lawmakers failed to renew a provision letting companies to fully expense R&amp;D costs in the year incurred &lpar;Eric Rosenbaum/CNBC&rpar;](http://www.techmeme.com/230418/p34#a230418p34)
+ - [Avalor, which lets cybersecurity teams aggregate, normalize, de-duplicate, and track risk data from discovery to remediation, raised a $25M Series A led by TCV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230418/p33#a230418p33)
+ - [Deals: save up to 70% on Intego antivirus &amp; internet security software for Mac](https://appleinsider.com/articles/23/04/19/deals-save-up-to-70-on-intego-antivirus-internet-security-software-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
