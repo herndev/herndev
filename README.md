@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A cloud 7 kilometers thick passed over Istanbul. In the meantime, the sun disappeared in 5 minutes, and the day turned into night. Some people commented on the apocalypse. Here are those moments... \ud83d\udc40](http://9gag.com/gag/a9q5vnj)
- - ⏩ [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - 👉 [What a lovely charming lady.](http://9gag.com/gag/aMEPm2M)<!-- MEMES:END -->
+ - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - ⏩ [Did you say ice cream](http://9gag.com/gag/a1P0112)
+ - 👉 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)<!-- MEMES:END -->
 
 ---
 
