@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Purdue adds support for digital student IDs on iPhone &amp; Apple Watch](https://appleinsider.com/articles/23/04/19/purdue-adds-support-for-digital-student-ids-on-iphone-apple-watch?utm_medium=rss)
- - [Atlassian launches Atlassian Intelligence, an AI assistant that uses the company&#39;s LLMs and OpenAI&#39;s, to offer AI features for Confluence and Jira in the cloud &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230419/p25#a230419p25)
- - [Here Are Mortgage Rates for April 19, 2023: Rates Climb Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-april-19-2023-rates-increased/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk threatens to sue Microsoft](https://www.theverge.com/2023/4/19/23690216/elon-musk-microsoft-ai-lawsuit-threat)
+ - [IBM reports Q1 revenue up 0.4% YoY to $14.25B, vs. $14.35B est., net income up 26% YoY to $927M, and software revenue up 2.6% YoY to $5.92B, vs. $5.83B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230419/p29#a230419p29)
+ - [SpaceX Starship launch countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
