@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix will start charging US customers for password sharing this summer](https://www.androidauthority.com/netflix-paid-password-sharing-us-3314617/)
- - [The EU establishes the European Centre for Algorithmic Transparency in Seville, Spain, to support oversight of large platforms under the Digital Services Act &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230419/p1#a230419p1)
- - [Trial seeking Apple Watch ban continues with witness statements](https://appleinsider.com/articles/23/04/19/trial-seeking-apple-watch-ban-continues-with-witness-statements?utm_medium=rss)<!-- TECH:END -->
+ - [Some people are using AI chatbots as a supplement to, or in lieu of, traditional mental health services, despite privacy issues and warnings from experts &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230419/p2#a230419p2)
+ - [Netflix will start charging US subscribers for password sharing this summer](https://www.androidauthority.com/netflix-paid-password-sharing-us-rollout-3314617/)
+ - [The EU establishes the European Centre for Algorithmic Transparency in Seville, Spain, to support oversight of large platforms under the Digital Services Act &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230419/p1#a230419p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
