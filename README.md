@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JP Morgan hikes AAPL price target to $190, still &#39;safe haven&#39; despite a rough 2023](https://appleinsider.com/articles/23/04/19/jp-morgan-hikes-aapl-price-target-to-190-still-safe-haven-despite-a-rough-2023?utm_medium=rss)
- - [Struggle to hear dialog in TV shows? Prime Video has a cool solution.](https://www.androidauthority.com/amazon-prime-video-dialogue-boost-3314695/)
- - [Tesla’s latest US price cuts bring the Model 3 below $40,000](https://www.theverge.com/2023/4/19/23689266/tesla-price-cuts-discounted-model-3-y-electric-vehicle-tax-credit)<!-- TECH:END -->
+ - [Poll: What web browser do you use on your phone and PC?](https://www.androidauthority.com/web-browser-use-phone-pc-poll-3314726/)
+ - [Sources: some US tech companies push to narrow the scope of a Senate bill aimed at a TikTok ban, worried it exposes them to future national security reviews &lpar;Bloomberg&rpar;](http://www.techmeme.com/230419/p9#a230419p9)
+ - [Netflix&#39;s password sharing crackdown is coming to the US](https://appleinsider.com/articles/23/04/19/netflixs-password-sharing-crackdown-is-coming-to-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
