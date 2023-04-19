@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Insidious’ next chapter checks in with its original characters 10 years later](https://www.polygon.com/23688453/insidious-red-door-trailer-movie-sequel)
- - [You&#39;ve got one week to try Modern Warfare 2&#39;s multiplayer for free](https://www.pcgamer.com/youve-got-one-week-to-try-modern-warfare-2s-multiplayer-for-free)
- - [New Sonic the Hedgehog Lego sets are basically Hot Wheels for hedgehogs](https://www.polygon.com/23689357/sonic-hedgehog-lego-set-august-2023-release)<!-- GAME:END -->
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Jack Black’s ‘Peaches’ from the Mario movie has entered the Billboard Hot 100](https://www.polygon.com/23689495/jack-black-peaches-super-mario-bros-movie-billboard-hot-100)
+ - [All the Mandalorian season 4 news we’ve heard so far](https://www.polygon.com/star-wars/23688605/mandalorian-season-4-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
