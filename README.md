@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - ⏩ [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - 👉 [Most realistic New Yorker](http://9gag.com/gag/anz22YL)<!-- MEMES:END -->
+ - 💣 [Clown World](http://9gag.com/gag/aDY8YOZ)
+ - ⏩ [Men needs little things for being happy](http://9gag.com/gag/avQ6QGO)
+ - 👉 [Sexy door, dirty girl](http://9gag.com/gag/aREMZRj)<!-- MEMES:END -->
 
 ---
 
