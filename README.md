@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - ⏩ [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
- - 👉 [Cool kid](http://9gag.com/gag/a8q0mVO)<!-- MEMES:END -->
+ - 💣 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
+ - ⏩ [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - 👉 [Most realistic New Yorker](http://9gag.com/gag/anz22YL)<!-- MEMES:END -->
 
 ---
 
