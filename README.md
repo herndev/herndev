@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown World](http://9gag.com/gag/aDY8YOZ)
- - ⏩ [Men needs little things for being happy](http://9gag.com/gag/avQ6QGO)
- - 👉 [Sexy door, dirty girl](http://9gag.com/gag/aREMZRj)<!-- MEMES:END -->
+ - 💣 [Brilliant](http://9gag.com/gag/aEqA86O)
+ - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 👉 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
 
 ---
 
