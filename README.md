@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gollum dev says it&#39;s charging for the precious Elvish-language DLC because it had to train voice actors in how to speak it](https://www.pcgamer.com/gollum-dev-says-its-charging-for-the-precious-elvish-language-dlc-because-it-had-to-train-voice-actors-in-how-to-speak-it)
- - [Capcom promises the return of Resident Evil 2 and 3&#39;s vanished graphics and audio options](https://www.pcgamer.com/capcom-promises-the-return-of-resident-evil-2-and-3s-vanished-graphics-and-audio-options)
- - [Intel quietly ditches its Bitcoin mining chips](https://www.pcgamer.com/intel-quietly-ditches-its-bitcoin-mining-chips)<!-- GAME:END -->
+ - [Advance Wars’ slick reboot makes 20 years of trouble melt away](https://www.polygon.com/reviews/23688763/advance-wars-1-2-reboot-camp-review-nintendo-switch)
+ - [Horizon Forbidden West: Burning Shores is out now on PS5](https://blog.playstation.com/2023/04/19/horizon-forbidden-west-burning-shores-is-out-now-on-ps5/)
+ - [Gollum dev says it&#39;s charging for the precious Elvish-language DLC because it had to train voice actors in how to speak it](https://www.pcgamer.com/gollum-dev-says-its-charging-for-the-precious-elvish-language-dlc-because-it-had-to-train-voice-actors-in-how-to-speak-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
