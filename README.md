@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Has New Updates Releasing On April 20](https://kotaku.com/the-sims-4-ea-420-weed-day-4-20-4-20-maxis-update-pc-1850350877)
- - [Controlling Overwatch 2&#39;s new hero won&#39;t feel like playing a flight simulator anymore](https://www.pcgamer.com/controlling-overwatch-2s-new-hero-wont-feel-like-playing-a-flight-simulator-anymore)
- - [You Gotta See Pokèmon In &#39;HD-2D,&#39; A Reinvention Of The Classic Games](https://kotaku.com/pokemon-hd-2d-octopath-traveler-fan-art-unreal-engine-5-1850350661)<!-- GAME:END -->
+ - [The Pope’s Exorcist teases 199 sequels and I would watch every single one of them](https://www.polygon.com/23688296/popes-exorcist-review-russell-crowe-sequels)
+ - [Resident Evil Games Accidentally Lose Ray-Tracing On PC After Update](https://kotaku.com/resident-evil-remake-steam-pc-3-4-broken-update-borked-1850351040)
+ - [The lead researcher behind those Sims-like &#39;generative agents&#39; on the future of AI NPCs](https://www.pcgamer.com/the-lead-researcher-behind-those-sims-like-generative-agents-on-the-future-of-ai-npcs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
