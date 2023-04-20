@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EV tax credit: all the cars, rules, and updates](https://www.theverge.com/2023/4/20/23691597/ev-tax-credit-eligible-vehicles-battery-irs-china)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)<!-- TECH:END -->
+ - [Seagate fined $300 million after getting caught selling hard drives to Huawei](https://www.androidauthority.com/seagate-fined-huawei-3315406/)
+ - [Surprise! There’s a third Diablo IV beta coming](https://www.theverge.com/2023/4/20/23691679/diablo-iv-beta-server-slam-blizzard)
+ - [Sony agrees to acquire Firewalk Studios, an AAA multiplayer developer working on a live service game for PS5 and PC; Firewalk will join PlayStation Studios &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230420/p25#a230420p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
