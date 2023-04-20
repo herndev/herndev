@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter suspends Wired&#39;s Dell Cameron for reporting on hack of Matt Walsh&#39;s account; Wired says it does not believe Dell&#39;s account violated Twitter&#39;s policy &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230419/p35#a230419p35)
  - [Bluesky for Android is now available on the Play Store, after first launching on iOS in February 2023, but the service is still invite-only &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230419/p34#a230419p34)
- - [How to create a new Slack channel](https://www.androidauthority.com/how-to-create-a-slack-channel-3314938/)
- - [Bluesky, a decentralized Twitter alternative, is now on Android](https://www.theverge.com/2023/4/19/23690314/bluesky-decentralized-twitter-alternative-android)<!-- TECH:END -->
+ - [How to create a new Slack channel](https://www.androidauthority.com/how-to-create-a-slack-channel-3314938/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
