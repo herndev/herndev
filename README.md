@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Stealth Pro](https://www.pcgamer.com/turtle-beach-stealth-pro)
- - [God of Rock review](https://www.pcgamer.com/god-of-rock-review)
- - [Wordle hint and answer #670: Thursday, April 20](https://www.pcgamer.com/wordle-hint-answer-today-670-april-20)<!-- GAME:END -->
+ - [Picard says goodbye with a mysterious hint at Star Trek’s future](https://www.polygon.com/23688602/star-trek-picard-credits-scene-q-legacy-jack-crusher)
+ - [Seagate agrees to pay US gov $300m for selling Huawei some hard drives](https://www.pcgamer.com/seagate-agrees-to-pay-us-gov-dollar300m-for-selling-huawei-some-hard-drives)
+ - [G.Skill KM250 RGB](https://www.pcgamer.com/gskill-km250-rgb-gaming-keyboard-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
