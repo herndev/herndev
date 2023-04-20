@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - ⏩ [He just wanted to save him...](http://9gag.com/gag/az2Kd1K)
- - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 💣 [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - ⏩ [Real Growth Takes Time](http://9gag.com/gag/aDY8bGK)
+ - 👉 [The EU wants to mobilize a total of \u20ac43 billion in public and private funds to make microships on own soil and become less reliant on Asian countries in the comming few years EU wants to produce 20% of worldwide microship production](http://9gag.com/gag/aXnV4q2)<!-- MEMES:END -->
 
 ---
 
