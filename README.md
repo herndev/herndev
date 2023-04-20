@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
- - ⏩ [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 💣 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
+ - ⏩ [Evolution mouse](http://9gag.com/gag/aGEBMbz)
+ - 👉 [Could not find the clip without the stupid Music ...sorry](http://9gag.com/gag/amA6xGj)<!-- MEMES:END -->
 
 ---
 
