@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
- - ⏩ [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
+ - 💣 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
+ - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
  - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 ---
