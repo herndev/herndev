@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [How to turn on two-factor authentication in Fortnite](https://www.polygon.com/fortnite-guide/23690996/2fa-two-factor-authentication-account-rewards)
- - [More mysterious murders are coming to The Case of the Golden Idol](https://www.polygon.com/23691144/case-of-the-golden-idol-dlc-release-date)<!-- GAME:END -->
+ - [Jump into Crash Team Rumble’s Closed Beta Today](https://news.xbox.com/en-us/2023/04/20/jump-into-crash-team-rumbles-closed-beta-today/)
+ - [Tom Clancy’s The Division livestream shows what’s coming next](https://www.polygon.com/23690197/ubisoft-the-division-day-heartland-mobile-resurgence-tom-clancy)
+ - [Spider-Man and Venom movies finally hit Disney Plus this month](https://www.polygon.com/23691271/spider-man-movies-watch-disney-plus-streaming-venom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
