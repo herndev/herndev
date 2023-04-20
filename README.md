@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NCC Group measured a record 459 ransomware attacks in March 2023, up 91% MoM and 62% YoY, saying the surge is likely due to exploits of Fortra&#39;s GoAnywhere MFT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230419/p37#a230419p37)
- - [Crypto derivatives exchange Deribit plans to launch a zero-fee spot exchange on April 24, 2023 for trading BTC, ETH, and USDC, after Binance ended its fee cuts &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230419/p36#a230419p36)
- - [Twitter suspends Wired&#39;s Dell Cameron for reporting on hack of Matt Walsh&#39;s account; Wired says it does not believe Cameron&#39;s account violated Twitter&#39;s policy &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230419/p35#a230419p35)<!-- TECH:END -->
+ - [OpenAI, which may have trained its models on people&#39;s data without consent, faces legal stakes in the EU, which has strict privacy laws and is conducting probes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/230420/p1#a230420p1)
+ - [Best Soft Mattress for Better Sleep in 2023     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)
+ - [NCC Group measured a record 459 ransomware attacks in March 2023, up 91% MoM and 62% YoY, saying the surge is likely due to exploits of Fortra&#39;s GoAnywhere MFT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230419/p37#a230419p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
