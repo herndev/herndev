@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Ghostbusters: Spirits Unleashed and Roguebook](https://news.xbox.com/en-us/2023/04/20/free-play-days-ghostbusters-spirits-unleashed-and-roguebook/)
- - [A Government Twitter Account Apologizes For Post About Super Mario Bros. Gay Luigi](https://kotaku.com/the-super-mario-bros-movie-gay-luigi-government-1850357117)
- - [The Mandalorian didn’t have to make Bo-Katan look like such a chump](https://www.polygon.com/23691039/mandalorian-bo-katan-season-3-darksaber)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [How to turn on two-factor authentication in Fortnite](https://www.polygon.com/fortnite-guide/23690996/2fa-two-factor-authentication-account-rewards)
+ - [More mysterious murders are coming to The Case of the Golden Idol](https://www.polygon.com/23691144/case-of-the-golden-idol-dlc-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
