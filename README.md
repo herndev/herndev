@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
+ - 💣 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)
+ - ⏩ [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
