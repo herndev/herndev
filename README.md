@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Game Awards anniversary concert will have music from Hades, Elden Ring, and more](https://www.theverge.com/2023/4/20/23691380/the-game-awards-concert-tickets-summer-game-fest)
- - [A look at ActivityPub, the open, decentralized social networking protocol finalized in 2018, as it gains prominence powering Twitter alternatives like Mastodon &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230420/p23#a230420p23)
- - [T-Mobile Phone Freedom adds new plans, gets really confusing &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)<!-- TECH:END -->
+ - [The EV tax credit: all the cars, rules, and updates](https://www.theverge.com/2023/4/20/23691597/ev-tax-credit-eligible-vehicles-battery-irs-china)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
