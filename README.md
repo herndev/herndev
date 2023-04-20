@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voicemod now available on Mac with real-time AI voice changing and soundboards](https://www.theverge.com/2023/4/20/23690834/voicemod-macos-mac-support-download)
- - [Crowds turn out for Apple&#39;s second India store](https://appleinsider.com/articles/23/04/20/crowds-turn-out-for-apples-second-india-store?utm_medium=rss)
- - [Google will offer customers AI tools to ‘remix’ content for ad campaigns: report](https://www.theverge.com/2023/4/20/23690825/google-advertising-generative-ai-plans-remix-content)<!-- TECH:END -->
+ - [Reliable leaker claims Apple VR tester &#39;blown away&#39; by headset](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)
+ - [Kebohub EE01 review: A great idea, poorly executed](https://appleinsider.com/articles/23/04/20/kebohub-ee01-review-a-great-idea-poorly-executed?utm_medium=rss)
+ - [Xiaomi’s next Mi Box could launch globally soon with a much-needed upgrade](https://www.androidauthority.com/xiaomi-tv-box-s-2nd-gen-listing-3315132/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
