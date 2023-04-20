@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new Razr foldables get a US launch date in latest leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)
- - [Evan Spiegel says Snap&#39;s Indian MAUs, ~100M in October 2021, doubled and time spent on Spotlight and Shows grew 175% and 55% YoY, respectively, in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230420/p4#a230420p4)
- - [Internal presentation: Google plans to deploy generative AI in ads, allowing advertisers to supply creative material which will be &quot;remixed&quot; to create campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/230420/p3#a230420p3)<!-- TECH:END -->
+ - [Voicemod now available on Mac with real-time AI voice changing and soundboards](https://www.theverge.com/2023/4/20/23690834/voicemod-macos-mac-support-download)
+ - [Crowds turn out for Apple&#39;s second India store](https://appleinsider.com/articles/23/04/20/crowds-turn-out-for-apples-second-india-store?utm_medium=rss)
+ - [Google will offer customers AI tools to ‘remix’ content for ad campaigns: report](https://www.theverge.com/2023/4/20/23690825/google-advertising-generative-ai-plans-remix-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
