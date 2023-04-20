@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
- - ⏩ [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
- - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 👉 [Baby Mute](http://9gag.com/gag/axo6v6n)<!-- MEMES:END -->
 
 ---
 
