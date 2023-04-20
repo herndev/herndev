@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
- - ⏩ [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
- - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
+ - 💣 [For profis](http://9gag.com/gag/aoKRYwx)
+ - ⏩ [The balls on this guy](http://9gag.com/gag/aL14d1z)
+ - 👉 [Just dad things](http://9gag.com/gag/a040MbO)<!-- MEMES:END -->
 
 ---
 
