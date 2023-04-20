@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Picard says goodbye with a mysterious hint at Star Trek’s future](https://www.polygon.com/23688602/star-trek-picard-credits-scene-q-legacy-jack-crusher)
- - [Seagate agrees to pay US gov $300m for selling Huawei some hard drives](https://www.pcgamer.com/seagate-agrees-to-pay-us-gov-dollar300m-for-selling-huawei-some-hard-drives)
- - [G.Skill KM250 RGB](https://www.pcgamer.com/gskill-km250-rgb-gaming-keyboard-review)<!-- GAME:END -->
+ - [Spirited Away’s stage director says Hayao Miyazaki is a sweetheart — and a songwriter](https://www.polygon.com/23689921/spirited-away-live-on-stage-director-interview-john-caird)
+ - [Paper Mario PC ports beckon as coder completes full decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic)
+ - [Where to get iron ore in Wartales](https://www.pcgamer.com/wartales-iron-ore-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
