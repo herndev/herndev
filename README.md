@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
- - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
+ - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
+ - ⏩ [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
+ - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
 
 ---
 
