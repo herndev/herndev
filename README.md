@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - ⏩ [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)
- - 👉 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
+ - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
+ - ⏩ [Lasguns are here](http://9gag.com/gag/ay2643X)
+ - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 ---
 
