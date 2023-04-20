@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter finally purges blue checks from formerly &#39;verified&#39; accounts, including many game studios and developers](https://www.pcgamer.com/twitter-blue-check-purge)
- - [Horizon Forbidden West: Burning Shores DLC adds romance at last](https://www.polygon.com/23691822/horizon-forbidden-west-burning-shores-dlc-aloy-romance-queer-lgbt)
- - [This New Series Completes Studio MAPPA’s Dark Trilogy](https://kotaku.com/kotatsu-anime-corner-crunchyroll-hells-paradise-mappa-1850359592)<!-- GAME:END -->
+ - [The Cringiest Weed References In Video Games](https://kotaku.com/video-games-marijuana-far-cry-3-gta-online-1850360088)
+ - [Street Fighter 6 Showcase: new gameplay details, future fighters revealed and demo launched](https://blog.playstation.com/2023/04/20/street-fighter-6-showcase-new-gameplay-details-future-fighters-revealed-and-demo-launched/)
+ - [Creating the Perfect Blend of Storytelling in Coffee Talk Episode 2](https://news.xbox.com/en-us/2023/04/20/blending-storytelling-in-coffee-talk-episode-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
