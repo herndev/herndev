@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Restart](http://9gag.com/gag/a6q59Dm)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
+ - 💣 [When you didn&#39;t hear the safe word [Blend S]](http://9gag.com/gag/aqe68VM)
+ - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
