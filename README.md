@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #670: Thursday, April 20](https://www.pcgamer.com/wordle-hint-answer-today-670-april-20)
  - [The freakily photorealistic &#39;bodycam FPS&#39; we glimpsed last year now has a trailer and Steam page](https://www.pcgamer.com/unrecord-announcemen)
- - [Incredible Superman Cosplay Shoot Isn&#39;t Using Photoshop](https://kotaku.com/superman-cosplay-maul-practical-special-visual-effects-1850355456)
- - [The Sims Patch Has Messed Up Loads Faces](https://kotaku.com/the-sims-4-patch-update-break-face-ugly-character-ea-1850355277)<!-- GAME:END -->
+ - [Incredible Superman Cosplay Shoot Isn&#39;t Using Photoshop](https://kotaku.com/superman-cosplay-maul-practical-special-visual-effects-1850355456)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
