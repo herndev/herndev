@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby Mute](http://9gag.com/gag/axo6v6n)
- - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 💣 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
+ - ⏩ [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
  - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 ---
