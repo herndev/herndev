@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Imgur is banning porn and purging old anonymous uploads](https://www.theverge.com/2023/4/20/23691156/imgur-porn-ban-sexually-explicit-content-terms-of-service)
- - [VC funding for Web3 startups fell to $1.7B in Q1 2023, down 81% YoY from $9.1B in Q1 2022; the number of announced deals fell from 770 to 333 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230420/p17#a230420p17)
- - [BuzzFeed fires 15% of workforce, shuts down BuzzFeed News](https://appleinsider.com/articles/23/04/20/buzzfeed-fires-15-of-workforce-shuts-down-buzzfeed-news?utm_medium=rss)<!-- TECH:END -->
+ - [How to make your HomePod alert you when your smoke alarms go off](https://www.theverge.com/23691037/apple-homepod-sound-recognition-smoke-alarm-how-to-set-up)
+ - [T-Mobile Phone Freedom means a new Magenta name change, more big promises](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)
+ - [Montreal-based Optable, which provides a data collaboration and clean room service, raised a $20M Series A, bringing its total funding to $23.6M &lpar;Anthony Vargas/AdExchanger&rpar;](http://www.techmeme.com/230420/p19#a230420p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
