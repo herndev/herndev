@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 👉 [Disappointment](http://9gag.com/gag/anz22bn)<!-- MEMES:END -->
+ - 💣 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - ⏩ [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)
+ - 👉 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
 
 ---
 
