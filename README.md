@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make your HomePod alert you when your smoke alarms go off](https://www.theverge.com/23691037/apple-homepod-sound-recognition-smoke-alarm-how-to-set-up)
- - [T-Mobile Phone Freedom means a new Magenta name change, more big promises](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)
- - [Montreal-based Optable, which provides a data collaboration and clean room service, raised a $20M Series A, bringing its total funding to $23.6M &lpar;Anthony Vargas/AdExchanger&rpar;](http://www.techmeme.com/230420/p19#a230420p19)<!-- TECH:END -->
+ - [Google announces Google DeepMind, a new unit combining the DeepMind team and the Brain team from Google Research, with DeepMind co-founder Demis Hassabis as CEO &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230420/p21#a230420p21)
+ - [Disney Plus is getting five Spider-Man movies](https://www.theverge.com/2023/4/20/23691352/disney-plus-spider-man-venom-movies)
+ - [T-Mobile &#39;Phone Freedom&#39; brings back two-year contracts &amp; more hotspot data](https://appleinsider.com/articles/23/04/20/t-mobile-phone-freedom-brings-back-two-year-contracts-more-hotspot-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
