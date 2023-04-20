@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s Super-Popular Beta Returns For One More Weekend](https://kotaku.com/diablo-4-open-beta-release-date-server-slam-necromancer-1850359427)
- - [Every Pokémon Card I&#39;ve Gotten From My Local Weed Shop, Ranked](https://kotaku.com/pokemon-cards-weed-pot-420-charmander-swablu-shinx-1850358605)
- - [Police bodycam shooter Unrecord shocks viewers with its unsettling realism](https://www.polygon.com/23691482/unrecord-bodycam-fps-steam-unreal-engine-5)<!-- GAME:END -->
+ - [Twitter finally purges blue checks from formerly &#39;verified&#39; accounts, including many game studios and developers](https://www.pcgamer.com/twitter-blue-check-purge)
+ - [Horizon Forbidden West: Burning Shores DLC adds romance at last](https://www.polygon.com/23691822/horizon-forbidden-west-burning-shores-dlc-aloy-romance-queer-lgbt)
+ - [This New Series Completes Studio MAPPA’s Dark Trilogy](https://kotaku.com/kotatsu-anime-corner-crunchyroll-hells-paradise-mappa-1850359592)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
