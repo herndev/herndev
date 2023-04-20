@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky for Android is now available on the Play Store, after first launching on iOS in February 2023, but the service is still invite-only &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230419/p34#a230419p34)
  - [How to create a new Slack channel](https://www.androidauthority.com/how-to-create-a-slack-channel-3314938/)
- - [Bluesky, a decentralized Twitter alternative, is now on Android](https://www.theverge.com/2023/4/19/23690314/bluesky-decentralized-twitter-alternative-android)
- - [Jason Momoa obliterates the Vatican in the second trailer for Fast X](https://www.theverge.com/2023/4/19/23690325/fast-x-trailer-jason-momoa-vatican)<!-- TECH:END -->
+ - [Bluesky, a decentralized Twitter alternative, is now on Android](https://www.theverge.com/2023/4/19/23690314/bluesky-decentralized-twitter-alternative-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
