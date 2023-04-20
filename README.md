@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spirited Away’s stage director says Hayao Miyazaki is a sweetheart — and a songwriter](https://www.polygon.com/23689921/spirited-away-live-on-stage-director-interview-john-caird)
- - [Paper Mario PC ports beckon as coder completes full decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic)
- - [Where to get iron ore in Wartales](https://www.pcgamer.com/wartales-iron-ore-locations)<!-- GAME:END -->
+ - [Fallout fans can return to the Commonwealth in the Winter of Atom campaign book](https://www.polygon.com/tabletop-games/23688240/fallout-roleplaying-game-winter-of-atom-campaign-book)
+ - [The Best And Worst Things About The Super Mario Games](https://kotaku.com/super-mario-bros-best-nintendo-switch-odyssey-galaxy-1850356723)
+ - [Atari buys up over 100 &#39;groundbreaking and award-winning&#39; games from the &#39;80s and &#39;90s and says &#39;many&#39; will be re-released](https://www.pcgamer.com/atari-buys-up-over-100-groundbreaking-and-award-winning-games-from-the-80s-and-90s-and-says-many-will-be-re-released)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
