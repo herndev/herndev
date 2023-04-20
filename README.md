@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earth Day 2023: green or greenwashed?](https://www.theverge.com/23688450/earth-day-2023-green-greenwashed-brands-climate-plastic-pollution)
- - [Poll: Do you consider spatial audio when buying earbuds?](https://www.androidauthority.com/consider-spatial-audio-buy-earbuds-poll-3315222/)
- - [P2P.org, which provides staking infrastructure for Ethereum and 49 other blockchain programs, including Cardano and Cosmos, raised a $23M Series A &lpar;Jonah Elkowitz/Decrypt&rpar;](http://www.techmeme.com/230420/p15#a230420p15)<!-- TECH:END -->
+ - [Imgur is banning porn and purging old anonymous uploads](https://www.theverge.com/2023/4/20/23691156/imgur-porn-ban-sexually-explicit-content-terms-of-service)
+ - [VC funding for Web3 startups fell to $1.7B in Q1 2023, down 81% YoY from $9.1B in Q1 2022; the number of announced deals fell from 770 to 333 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230420/p17#a230420p17)
+ - [BuzzFeed fires 15% of workforce, shuts down BuzzFeed News](https://appleinsider.com/articles/23/04/20/buzzfeed-fires-15-of-workforce-shuts-down-buzzfeed-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
