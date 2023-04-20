@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big update this week on future of The Division, including Heartland and Resurgence](https://www.pcgamer.com/big-update-this-week-on-future-of-the-division-including-heartland-and-resurgence)
- - [‘Grandma exploit’ tricks Discord’s AI chatbot into breaking its own ethical rules](https://www.polygon.com/23690187/discord-ai-chatbot-clyde-grandma-exploit-chatgpt)
- - [The Red Cross Challenged Gamers To Not Commit War Crimes](https://kotaku.com/fortnite-call-of-duty-warzone-red-cross-war-crimes-1850355129)<!-- GAME:END -->
+ - [Incredible Superman Cosplay Shoot Isn&#39;t Using Photoshop](https://kotaku.com/superman-cosplay-maul-practical-special-visual-effects-1850355456)
+ - [The Sims Patch Has Messed Up Loads Faces](https://kotaku.com/the-sims-4-patch-update-break-face-ugly-character-ea-1850355277)
+ - [Big update this week on future of The Division, including Heartland and Resurgence](https://www.pcgamer.com/big-update-this-week-on-future-of-the-division-including-heartland-and-resurgence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
