@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - ⏩ [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 👉 [So beautiful it should be a painting](http://9gag.com/gag/amA662j)<!-- MEMES:END -->
+ - 💣 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 👉 [Disappointment](http://9gag.com/gag/anz22bn)<!-- MEMES:END -->
 
 ---
 
