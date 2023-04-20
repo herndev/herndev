@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Design vs programming](http://9gag.com/gag/abv44Dp)
- - ⏩ [Real Growth Takes Time](http://9gag.com/gag/aDY8bGK)
- - 👉 [The EU wants to mobilize a total of \u20ac43 billion in public and private funds to make microships on own soil and become less reliant on Asian countries in the comming few years EU wants to produce 20% of worldwide microship production](http://9gag.com/gag/aXnV4q2)<!-- MEMES:END -->
+ - 💣 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 ---
 
