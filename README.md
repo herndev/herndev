@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
- - ⏩ [Evolution mouse](http://9gag.com/gag/aGEBMbz)
- - 👉 [Could not find the clip without the stupid Music ...sorry](http://9gag.com/gag/amA6xGj)<!-- MEMES:END -->
+ - 💣 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
+ - ⏩ [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
