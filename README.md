@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter suspends Wired&#39;s Dell Cameron for reporting on hack of Matt Walsh&#39;s account; Wired says it does not believe Dell&#39;s account violated Twitter&#39;s policy &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230419/p35#a230419p35)
- - [Bluesky for Android is now available on the Play Store, after first launching on iOS in February 2023, but the service is still invite-only &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230419/p34#a230419p34)
- - [How to create a new Slack channel](https://www.androidauthority.com/how-to-create-a-slack-channel-3314938/)<!-- TECH:END -->
+ - [NCC Group measured a record 459 ransomware attacks in March 2023, up 91% MoM and 62% YoY, saying the surge is likely due to exploits of Fortra&#39;s GoAnywhere MFT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230419/p37#a230419p37)
+ - [Crypto derivatives exchange Deribit plans to launch a zero-fee spot exchange on April 24, 2023 for trading BTC, ETH, and USDC, after Binance ended its fee cuts &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230419/p36#a230419p36)
+ - [Twitter suspends Wired&#39;s Dell Cameron for reporting on hack of Matt Walsh&#39;s account; Wired says it does not believe Cameron&#39;s account violated Twitter&#39;s policy &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230419/p35#a230419p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
