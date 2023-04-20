@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Google DeepMind, a new unit combining the DeepMind team and the Brain team from Google Research, with DeepMind co-founder Demis Hassabis as CEO &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230420/p21#a230420p21)
- - [Disney Plus is getting five Spider-Man movies](https://www.theverge.com/2023/4/20/23691352/disney-plus-spider-man-venom-movies)
- - [T-Mobile &#39;Phone Freedom&#39; brings back two-year contracts &amp; more hotspot data](https://appleinsider.com/articles/23/04/20/t-mobile-phone-freedom-brings-back-two-year-contracts-more-hotspot-data?utm_medium=rss)<!-- TECH:END -->
+ - [The Game Awards anniversary concert will have music from Hades, Elden Ring, and more](https://www.theverge.com/2023/4/20/23691380/the-game-awards-concert-tickets-summer-game-fest)
+ - [A look at ActivityPub, the open, decentralized social networking protocol finalized in 2018, as it gains prominence powering Twitter alternatives like Mastodon &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230420/p23#a230420p23)
+ - [T-Mobile Phone Freedom adds new plans, gets really confusing &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
