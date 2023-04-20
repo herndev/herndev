@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reliable leaker claims Apple VR tester &#39;blown away&#39; by headset](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)
- - [Kebohub EE01 review: A great idea, poorly executed](https://appleinsider.com/articles/23/04/20/kebohub-ee01-review-a-great-idea-poorly-executed?utm_medium=rss)
- - [Xiaomi’s next Mi Box could launch globally soon with a much-needed upgrade](https://www.androidauthority.com/xiaomi-tv-box-s-2nd-gen-listing-3315132/)<!-- TECH:END -->
+ - [How to watch SpaceX Starship’s first test flight — the most powerful rocket ever](https://www.theverge.com/2023/4/17/23686131/how-to-watch-spacex-starship-first-test-flight-launch-livestream)
+ - [New 15-inch MacBook Air will stick with M2, says supply chain](https://appleinsider.com/articles/23/04/20/new-15-inch-macbook-air-will-stick-with-m2-says-supply-chain?utm_medium=rss)
+ - [Reliable leaker claims Apple VR tester was &#39;blown away&#39; by headset trial](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
