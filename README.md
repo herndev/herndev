@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based CoreWeave, which provides access to SKUs of Nvidia GPUs in the cloud, raised a $221M Series B at a $2B valuation, bringing its total funding to $371M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p9#a230420p9)
- - [Galaxy S22 series is becoming Certified Re-Newed &lpar;with low prices&rpar; on Earth Day](https://www.androidauthority.com/samsung-galaxy-s22-renewed-3314823/)
- - [Best Streaming Services &lpar;2023&rpar;: Which Are Worth Your Money?](https://www.wired.com/gallery/best-streaming-services/)<!-- TECH:END -->
+ - [Coffee Talk is just as warm and cozy in its sequel](https://www.theverge.com/2023/4/20/23689348/coffee-talk-episode-2-review-ps5-xbox-switch-steam)
+ - [SpaceX Starship launch: all of the news on its first test flight, and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
+ - [SpaceX’s Starship successfully takes off before bursting into flames](https://www.theverge.com/2023/4/20/23686229/spacex-successful-sub-orbital-launch-starship-super-heavy-boca-chica)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
