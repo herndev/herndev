@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)
- - ⏩ [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - ⏩ [He just wanted to save him...](http://9gag.com/gag/az2Kd1K)
  - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
