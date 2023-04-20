@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - ⏩ [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
