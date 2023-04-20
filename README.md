@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
- - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 👉 [Baby Mute](http://9gag.com/gag/axo6v6n)<!-- MEMES:END -->
+ - 💣 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - ⏩ [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - 👉 [How it is possible](http://9gag.com/gag/a9q5mzD)<!-- MEMES:END -->
 
 ---
 
