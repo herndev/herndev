@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch SpaceX Starship’s first test flight — the most powerful rocket ever](https://www.theverge.com/2023/4/17/23686131/how-to-watch-spacex-starship-first-test-flight-launch-livestream)
- - [New 15-inch MacBook Air will stick with M2, says supply chain](https://appleinsider.com/articles/23/04/20/new-15-inch-macbook-air-will-stick-with-m2-says-supply-chain?utm_medium=rss)
- - [Reliable leaker claims Apple VR tester was &#39;blown away&#39; by headset trial](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)<!-- TECH:END -->
+ - [NYC-based CoreWeave, which provides access to SKUs of Nvidia GPUs in the cloud, raised a $221M Series B at a $2B valuation, bringing its total funding to $371M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p9#a230420p9)
+ - [Galaxy S22 series is becoming Certified Re-Newed &lpar;with low prices&rpar; on Earth Day](https://www.androidauthority.com/samsung-galaxy-s22-renewed-3314823/)
+ - [Best Streaming Services &lpar;2023&rpar;: Which Are Worth Your Money?](https://www.wired.com/gallery/best-streaming-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
