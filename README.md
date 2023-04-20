@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout fans can return to the Commonwealth in the Winter of Atom campaign book](https://www.polygon.com/tabletop-games/23688240/fallout-roleplaying-game-winter-of-atom-campaign-book)
- - [The Best And Worst Things About The Super Mario Games](https://kotaku.com/super-mario-bros-best-nintendo-switch-odyssey-galaxy-1850356723)
- - [Atari buys up over 100 &#39;groundbreaking and award-winning&#39; games from the &#39;80s and &#39;90s and says &#39;many&#39; will be re-released](https://www.pcgamer.com/atari-buys-up-over-100-groundbreaking-and-award-winning-games-from-the-80s-and-90s-and-says-many-will-be-re-released)<!-- GAME:END -->
+ - [Free Play Days – Ghostbusters: Spirits Unleashed and Roguebook](https://news.xbox.com/en-us/2023/04/20/free-play-days-ghostbusters-spirits-unleashed-and-roguebook/)
+ - [A Government Twitter Account Apologizes For Post About Super Mario Bros. Gay Luigi](https://kotaku.com/the-super-mario-bros-movie-gay-luigi-government-1850357117)
+ - [The Mandalorian didn’t have to make Bo-Katan look like such a chump](https://www.polygon.com/23691039/mandalorian-bo-katan-season-3-darksaber)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
