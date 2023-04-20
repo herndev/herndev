@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evan Spiegel says Snap&#39;s Indian MAUs, ~100M in October 2021, doubled and time spent on Spotlight and Shows grew 175% and 55% YoY, respectively, in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230420/p4#a230420p4)
  - [Internal presentation: Google plans to deploy generative AI in ads, allowing advertisers to supply creative material which will be &quot;remixed&quot; to create campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/230420/p3#a230420p3)
- - [Sketchpad creator Ivan Sutherland and other industry experts say the US should consider superconducting electronics as CMOS manufacturing nears atomic limits &lpar;John Markoff/New York Times&rpar;](http://www.techmeme.com/230420/p2#a230420p2)
- - [OpenAI, which may have trained its models on people&#39;s data without consent, faces legal stakes in the EU, which has strict privacy laws and is conducting probes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/230420/p1#a230420p1)<!-- TECH:END -->
+ - [Sketchpad creator Ivan Sutherland and other industry experts say the US should consider superconducting electronics as CMOS manufacturing nears atomic limits &lpar;John Markoff/New York Times&rpar;](http://www.techmeme.com/230420/p2#a230420p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
