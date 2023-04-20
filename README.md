@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coffee Talk is just as warm and cozy in its sequel](https://www.theverge.com/2023/4/20/23689348/coffee-talk-episode-2-review-ps5-xbox-switch-steam)
- - [SpaceX Starship launch: all of the news on its first test flight, and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
- - [SpaceX’s Starship successfully takes off before bursting into flames](https://www.theverge.com/2023/4/20/23686229/spacex-successful-sub-orbital-launch-starship-super-heavy-boca-chica)<!-- TECH:END -->
+ - [Earth Day 2023: green or greenwashed?](https://www.theverge.com/23688450/earth-day-2023-green-greenwashed-brands-climate-plastic-pollution)
+ - [Poll: Do you consider spatial audio when buying earbuds?](https://www.androidauthority.com/consider-spatial-audio-buy-earbuds-poll-3315222/)
+ - [P2P.org, which provides staking infrastructure for Ethereum and 49 other blockchain programs, including Cardano and Cosmos, raised a $23M Series A &lpar;Jonah Elkowitz/Decrypt&rpar;](http://www.techmeme.com/230420/p15#a230420p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
