@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [[Deep breath] Tom Clancy&#39;s The Division 2 Warlords of New York Expansion Year 5 Season 1 Broken Wings Descent Mode will be on public test servers tomorrow](https://www.pcgamer.com/deep-breath-tom-clancys-the-division-2-warlords-of-new-york-expansion-year-5-season-1-broken-wings-descent-mode-will-be-on-public-test-servers-tomorrow)
- - [Meowth’s voice actor is retiring from the Pokémon anime due to cancer](https://www.polygon.com/23691492/meowth-voice-actor-leaving-pokemon-anime)
- - [Your Last Chance to Play Diablo IV Free Before Launch – Server Slam Arrives on May 12](https://news.xbox.com/en-us/2023/04/20/diablo-4-server-slam-beta-dates/)<!-- GAME:END -->
+ - [Diablo IV&#39;s Super-Popular Beta Returns For One More Weekend](https://kotaku.com/diablo-4-open-beta-release-date-server-slam-necromancer-1850359427)
+ - [Every Pokémon Card I&#39;ve Gotten From My Local Weed Shop, Ranked](https://kotaku.com/pokemon-cards-weed-pot-420-charmander-swablu-shinx-1850358605)
+ - [Police bodycam shooter Unrecord shocks viewers with its unsettling realism](https://www.polygon.com/23691482/unrecord-bodycam-fps-steam-unreal-engine-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
