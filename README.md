@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump into Crash Team Rumble’s Closed Beta Today](https://news.xbox.com/en-us/2023/04/20/jump-into-crash-team-rumbles-closed-beta-today/)
- - [Tom Clancy’s The Division livestream shows what’s coming next](https://www.polygon.com/23690197/ubisoft-the-division-day-heartland-mobile-resurgence-tom-clancy)
- - [Spider-Man and Venom movies finally hit Disney Plus this month](https://www.polygon.com/23691271/spider-man-movies-watch-disney-plus-streaming-venom)<!-- GAME:END -->
+ - [Worst boss ever? Tech CEO applauds employee for selling family dog for the good of the company](https://www.pcgamer.com/worst-boss-ever-tech-ceo-applauds-employee-for-selling-family-dog-for-the-good-of-the-company)
+ - [The voice of Claptrap becomes the voice of Pisstrap in Postal 2&#39;s surprisingly big 20th Anniversary Update](https://www.pcgamer.com/the-voice-of-claptrap-becomes-the-voice-of-pisstrap-in-postal-2s-surprisingly-big-20th-anniversary-update)
+ - [EA’s new Skate confirmed to have ‘flumping,’ which skateboarders do](https://www.polygon.com/23691303/skate-4-update-activities-playtesting-flumping)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
