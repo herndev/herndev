@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stack Overflow Will Charge AI Giants for Training Data](https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/)
- - [Twitter says LeBron James and other celebs are paying for verification even though they aren’t](https://www.theverge.com/2023/4/20/23691831/twitter-blue-verified-celebrity-lebron-james-stephen-king)
- - [Seagate fined $300 million after getting caught selling hard drives to Huawei](https://www.androidauthority.com/seagate-fined-huawei-3315406/)<!-- TECH:END -->
+ - [Twitter offered LeBron James a complimentary Blue subscription after he said he wouldn&#39;t pay for one; Musk says he&#39;s paying for &quot;a few&quot; subscriptions personally &lpar;The Verge&rpar;](http://www.techmeme.com/230420/p27#a230420p27)
+ - [This is the F-150 Lightning fire that made Ford pause production](https://www.theverge.com/2023/4/20/23691743/ford-f-150-lightning-fire-video-watch)
+ - [How the Biden Administration Is Making Solar More Accessible for Renters     - CNET](https://www.cnet.com/news/how-the-biden-harris-administration-is-making-solar-more-accessible-for-renters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
