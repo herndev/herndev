@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you didn&#39;t hear the safe word [Blend S]](http://9gag.com/gag/aqe68VM)
- - ⏩ [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
+ - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 👉 [Man went on a rollercoaster](http://9gag.com/gag/aOxZ96M)<!-- MEMES:END -->
 
 ---
 
