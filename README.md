@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worst boss ever? Tech CEO applauds employee for selling family dog for the good of the company](https://www.pcgamer.com/worst-boss-ever-tech-ceo-applauds-employee-for-selling-family-dog-for-the-good-of-the-company)
- - [The voice of Claptrap becomes the voice of Pisstrap in Postal 2&#39;s surprisingly big 20th Anniversary Update](https://www.pcgamer.com/the-voice-of-claptrap-becomes-the-voice-of-pisstrap-in-postal-2s-surprisingly-big-20th-anniversary-update)
- - [EA’s new Skate confirmed to have ‘flumping,’ which skateboarders do](https://www.polygon.com/23691303/skate-4-update-activities-playtesting-flumping)<!-- GAME:END -->
+ - [Getting the battlefield magic of Immortals of Aveum right took ‘almost two years’](https://www.polygon.com/23691517/immortals-of-aveum-preview-gameplay-trailer)
+ - [Unrecord dev posts noclip video to prove the realistic bodycam FPS isn&#39;t &#39;fake&#39;](https://www.pcgamer.com/unrecord-dev-posts-noclip-video-to-prove-the-realistic-bodycam-fps-isnt-fake)
+ - [The Division Heartland puts a survival twist into Ubisoft’s loot-shooter format](https://www.polygon.com/23690866/tom-clancy-division-heartland-release-date-beta-ubisoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
