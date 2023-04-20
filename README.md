@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - ⏩ [Lasguns are here](http://9gag.com/gag/ay2643X)
+ - 💣 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
+ - ⏩ [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
  - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 ---
