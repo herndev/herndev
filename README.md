@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
+ - 💣 [Baby Mute](http://9gag.com/gag/axo6v6n)
  - ⏩ [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 👉 [Man went on a rollercoaster](http://9gag.com/gag/aOxZ96M)<!-- MEMES:END -->
+ - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 ---
 
