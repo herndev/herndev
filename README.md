@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead Rise director Lee Cronin says families are a horror movie](https://www.polygon.com/23691469/evil-dead-rise-director-interview-lee-cronin)
- - [Deathloop exists because Dishonored 3 ain&#39;t happening](https://www.pcgamer.com/deathloop-exists-because-dishonored-3-aint-happening)
- - [After playing Half-Life with this new ray tracing mod, I need a cold shower in a dimly lit room](https://www.pcgamer.com/after-playing-half-life-with-this-new-ray-tracing-mod-i-need-a-cold-shower-in-a-dimly-lit-room)<!-- GAME:END -->
+ - [Where to find the Action Cam in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-action-cam-location)
+ - [Bad news: Your progress from the last Diablo 4 beta doesn&#39;t carry over into May&#39;s server slam, and you&#39;ll have to hit level 20 all over again to get the new reward](https://www.pcgamer.com/bad-news-your-progress-from-the-last-diablo-4-beta-doesnt-carry-over-into-mays-server-slam-and-youll-have-to-hit-level-20-all-over-again-to-get-the-new-reward)
+ - [Evil Dead Rise director Lee Cronin says families are a horror movie](https://www.polygon.com/23691469/evil-dead-rise-director-interview-lee-cronin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
