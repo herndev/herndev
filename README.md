@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dota 2’s New Frontiers update completely shakes up the game](https://www.polygon.com/23693251/dota-2-new-frontiers-patch-notes-map-features)
  - [The cute cozy cat game we&#39;ve been watching for 6 years is finally coming out](https://www.pcgamer.com/the-cute-cozy-cat-game-weve-been-watching-for-6-years-is-finally-coming-out)
- - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)
- - [These Limited Edition Eeveelution Pokémon Cards Are Beautiful](https://kotaku.com/pokemon-trading-cards-tgc-eevee-eeveelution-yu-nagaba-a-1850363705)<!-- GAME:END -->
+ - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
