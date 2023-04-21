@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Image Generator Is Making Wild And Horrifying Game Controllers](https://kotaku.com/midjourney-ai-art-ps5-nintendo-xbox-controller-1850363530)
- - [Over a million people have played the XDefiant beta](https://www.pcgamer.com/over-a-million-people-have-played-the-xdefiant-beta)
- - [There’s only one right way to watch Ghosted](https://www.polygon.com/23693133/ghosted-review-ana-de-armas-chris-evans)<!-- GAME:END -->
+ - [The cute cozy cat game we&#39;ve been watching for 6 years is finally coming out](https://www.pcgamer.com/the-cute-cozy-cat-game-weve-been-watching-for-6-years-is-finally-coming-out)
+ - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)
+ - [These Limited Edition Eeveelution Pokémon Cards Are Beautiful](https://kotaku.com/pokemon-trading-cards-tgc-eevee-eeveelution-yu-nagaba-a-1850363705)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
