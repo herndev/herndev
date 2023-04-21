@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mandiant says the North Korea-linked hack of VoIP company 3CX&#39;s customers is the first confirmed incident of one software-supply-chain attack enabling another &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230421/p15#a230421p15)
- - [Apple might not allow sideloading on iPhones in the US, because why would it?](https://www.androidauthority.com/iphone-sideloading-us-3315906/)
- - [You can now use Bard for coding or help with Google Sheets functions](https://www.androidauthority.com/bard-coding-google-sheets-3315876/)<!-- TECH:END -->
+ - [The Mandalorian’s season 3 finale didn’t need to answer every question](https://www.theverge.com/23691602/the-mandalorian-season-3-finale-disney-plus)
+ - [Documents, photos, and videos show TikTok&#39;s US datacenters faced security vulnerabilities and use servers produced by Inspur, which the US sanctioned in March &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230421/p17#a230421p17)
+ - [Real world photos show the Pixel Tablet in a new color](https://www.androidauthority.com/pixel-tablet-color-3315925/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
