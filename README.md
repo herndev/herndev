@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
- - ⏩ [Name that anime ?](http://9gag.com/gag/aPgoeKB)
- - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
+ - 💣 [If this was some other country by the time it gets to the 4th person it&#39;d be gone.](http://9gag.com/gag/anz2rBz)
+ - ⏩ [NSFW Angela Merkel](http://9gag.com/gag/a040MGO)
+ - 👉 [Meirl](http://9gag.com/gag/adPQRGD)<!-- MEMES:END -->
 
 ---
 
