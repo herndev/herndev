@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - ⏩ [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
- - 👉 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
+ - 💣 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - ⏩ [Come here](http://9gag.com/gag/aREM2mM)
+ - 👉 [If this was some other country by the time it gets to the 4th person it&#39;d be gone.](http://9gag.com/gag/anz2rBz)<!-- MEMES:END -->
 
 ---
 
