@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After YouTube pulls Heart On My Sleeve due to a UMG copyright notice, a look at the legal dilemma for Google, which claims scraping data to train AI is fair use &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230421/p1#a230421p1)
  - [The Google Pixel 7a could offer face unlock support](https://www.androidauthority.com/google-pixel-7a-face-unlock-3315603/)
- - [Now WhatsApp can save ‘disappearing’ messages if the sender consents](https://www.theverge.com/2023/4/21/23692254/whatsapp-keep-in-chat-disappearing-messages)
- - [Barsys Smart Coaster Review: Not a Reliable Drinking Buddy](https://www.wired.com/review/barsys-smart-coaster-and-mixer/)<!-- TECH:END -->
+ - [Now WhatsApp can save ‘disappearing’ messages if the sender consents](https://www.theverge.com/2023/4/21/23692254/whatsapp-keep-in-chat-disappearing-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
