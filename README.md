@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now we know why Egyptians are pissed. It wasn&#39;t just a black actress, look at what they&#39;re making what looks like expert commentators say...](http://9gag.com/gag/a9q5DjW)
- - ⏩ [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 👉 [The Zips are in the wire](http://9gag.com/gag/awZ1d0B)<!-- MEMES:END -->
+ - 💣 [Seasoning a new pan](http://9gag.com/gag/aVbKVp8)
+ - ⏩ [Unpopular Opinion: no matter how bad the majority found the movie, not only did i like it back as a teen, to this day ive never come across a better depiction of a Lycanthrope, the design is badass from top to bottom.](http://9gag.com/gag/a8q0Kwp)
+ - 👉 [Come here](http://9gag.com/gag/aREM2mM)<!-- MEMES:END -->
 
 ---
 
