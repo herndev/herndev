@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dota 2’s New Frontiers update completely shakes up the game](https://www.polygon.com/23693251/dota-2-new-frontiers-patch-notes-map-features)
- - [The cute cozy cat game we&#39;ve been watching for 6 years is finally coming out](https://www.pcgamer.com/the-cute-cozy-cat-game-weve-been-watching-for-6-years-is-finally-coming-out)
- - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)<!-- GAME:END -->
+ - [Twitter’s de-verification debacle, explained](https://www.polygon.com/23693433/twitter-blue-check-stephen-king-lebron-james-elon-musk)
+ - [Ant-Man and the Wasp: Quantumania, Netflix’s Power Rangers movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/21/23686305/new-movies-watch-ant-man-wasp-quantumania-netflix-power-rangers-streaming)
+ - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
