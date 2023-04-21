@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Resident Evil 4&#39;s knife parry is the best thing to happen to the series in 18 years](https://www.pcgamer.com/resident-evil-4s-knife-parry-is-the-best-thing-to-happen-to-the-series-in-18-years)
- - [Microsoft isn’t paying Twitter’s new API fees, so Xbox to Twitter sharing is gone](https://www.polygon.com/23692583/microsoft-twitter-api-elon-musk-pricing-xbox)<!-- GAME:END -->
+ - [Intel Arc GPU performance bumped by over 70% in Cyberpunk 2077 thanks to XeSS](https://www.pcgamer.com/intel-arc-gpu-performance-bumped-by-over-70-in-cyberpunk-2077-thanks-to-xess)
+ - [Final Fantasy Pixel Remasters Sold Out Immediately And Scalpers Are In Heaven](https://kotaku.com/final-fantasy-pixel-switch-physical-scalper-ebay-prices-1850361705)
+ - [Overwatch 2’s Lifeweaver Is Getting Overhauled Two Weeks After Launch](https://kotaku.com/lifesaver-patch-rework-control-scheme-healing-ultimate-1850362420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
