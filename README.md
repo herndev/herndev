@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter offered LeBron James a complimentary Blue subscription after he said he wouldn&#39;t pay for one; Musk says he&#39;s paying for &quot;a few&quot; subscriptions personally &lpar;The Verge&rpar;](http://www.techmeme.com/230420/p27#a230420p27)
- - [This is the F-150 Lightning fire that made Ford pause production](https://www.theverge.com/2023/4/20/23691743/ford-f-150-lightning-fire-video-watch)
- - [How the Biden Administration Is Making Solar More Accessible for Renters     - CNET](https://www.cnet.com/news/how-the-biden-harris-administration-is-making-solar-more-accessible-for-renters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Legacy Blue Checkmarks Are Now Gone From Twitter     - CNET](https://www.cnet.com/tech/services-and-software/legacy-blue-checkmarks-are-now-gone-from-twitter/#ftag=CAD590a51e)
+ - [Internal Q&amp;A: Mark Zuckerberg says Meta plans to slow hiring, and that net employee growth of 1% to 2% per year will be the standard going forward &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230420/p28#a230420p28)
+ - [Street Fighter 6 gets a new demo that’s available now on PlayStation](https://www.theverge.com/2023/4/20/23691960/street-fighter-6-demo-playstation-ps5-ps4-xbox-series-x-s-pc-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
