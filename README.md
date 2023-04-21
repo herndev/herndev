@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
- - ⏩ [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
- - 👉 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
+ - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
+ - ⏩ [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - 👉 [And in that moment, anderson cooper knew they&#39;d lost](http://9gag.com/gag/a3Z0WZ7)<!-- MEMES:END -->
 
 ---
 
