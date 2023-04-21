@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - ⏩ [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
+ - 💣 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
+ - ⏩ [Name that anime ?](http://9gag.com/gag/aPgoeKB)
  - 👉 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 ---
