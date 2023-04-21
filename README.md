@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 👉 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
+ - 💣 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
+ - ⏩ [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
+ - 👉 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
 
 ---
 
