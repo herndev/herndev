@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Devs Break Down Epic Final Boss Fight For Fifth Anniversary](https://kotaku.com/god-of-war-ps5-anniversary-kratos-atreus-behind-the-sce-1850363117)
- - [Garry’s Mod Creator Ponders Banning The Nazis](https://kotaku.com/garrys-mod-newman-nazi-world-war-ww2-roleplay-pc-gaming-1850363103)
- - [We May Know What Pokémon Will Return In Scarlet And Violet’s DLC](https://kotaku.com/pokemon-scarlet-violet-hidden-treasure-pokedex-datamine-1850363069)<!-- GAME:END -->
+ - [AI Image Generator Is Making Wild And Horrifying Game Controllers](https://kotaku.com/midjourney-ai-art-ps5-nintendo-xbox-controller-1850363530)
+ - [Over a million people have played the XDefiant beta](https://www.pcgamer.com/over-a-million-people-have-played-the-xdefiant-beta)
+ - [There’s only one right way to watch Ghosted](https://www.polygon.com/23693133/ghosted-review-ana-de-armas-chris-evans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
