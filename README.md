@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is a man of focus, commitment and sheer f**king will](http://9gag.com/gag/ay26zPr)
- - ⏩ [My dad worked his entire life repairing cars and now I will make an internship at BMW... I wish he was here, he&#39;d be so happy, he knew sooo much about cars](http://9gag.com/gag/az2KQWq)
- - 👉 [Thought you guys will love it](http://9gag.com/gag/az2KQwN)<!-- MEMES:END -->
+ - 💣 [Women, in a nutshell](http://9gag.com/gag/avQ6mQM)
+ - ⏩ [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
+ - 👉 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
 
 ---
 
