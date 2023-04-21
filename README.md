@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - ⏩ [A caring husband](http://9gag.com/gag/abv42gX)
- - 👉 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)<!-- MEMES:END -->
+ - 💣 [So long my friend](http://9gag.com/gag/aQE72Kq)
+ - ⏩ [Now I know why burqas are so popular](http://9gag.com/gag/aVbK2dM)
+ - 👉 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
 
 ---
 
