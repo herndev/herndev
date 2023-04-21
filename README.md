@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To capture CO2 in the US, climate tech startups partner with oil and gas](https://www.theverge.com/2023/4/21/23690040/climeworks-direct-air-carbon-capture-oil-gas)
- - [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
- - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Mandiant says the North Korea-linked hack of VoIP company 3CX&#39;s customers is the first confirmed incident of one software-supply-chain attack enabling another &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230421/p15#a230421p15)
+ - [Apple might not allow sideloading on iPhones in the US, because why would it?](https://www.androidauthority.com/iphone-sideloading-us-3315906/)
+ - [You can now use Bard for coding or help with Google Sheets functions](https://www.androidauthority.com/bard-coding-google-sheets-3315876/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
