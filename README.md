@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazon copied a fan fiction writers work. Guess we can now blame the guy for the poor writing](http://9gag.com/gag/ay266KY)
- - ⏩ [So beautiful it should be a painting](http://9gag.com/gag/amA662j)
- - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
+ - ⏩ [The absolute movie classic The Truman Show](http://9gag.com/gag/amA6x2v)
+ - 👉 [So beautiful it should be a painting](http://9gag.com/gag/amA662j)<!-- MEMES:END -->
 
 ---
 
