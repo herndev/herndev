@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mandalorian’s season 3 finale didn’t need to answer every question](https://www.theverge.com/23691602/the-mandalorian-season-3-finale-disney-plus)
- - [Documents, photos, and videos show TikTok&#39;s US datacenters faced security vulnerabilities and use servers produced by Inspur, which the US sanctioned in March &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230421/p17#a230421p17)
- - [Real world photos show the Pixel Tablet in a new color](https://www.androidauthority.com/pixel-tablet-color-3315925/)<!-- TECH:END -->
+ - [A California jury clears Tesla of any blame for a 2019 crash involving Autopilot as the company&#39;s user manual warned against using the system on city streets &lpar;Reuters&rpar;](http://www.techmeme.com/230421/p18#a230421p18)
+ - [10 more fun, niche, weird apps for Android &lpar;volume 2&rpar;](https://www.androidauthority.com/fun-niche-weird-apps-android-2-3314477/)
+ - [How to follow live sports scores on your iPhone lock screen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
