@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane co-founder Imran Chaudhri demoed an AI-powered wearable with a projected display that does not need a nearby phone and uses voice and gestures for input &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230420/p30#a230420p30)
  - [Austin-based cybersecurity company Halcyon, which provides protection against ransomware, raised a $50M Series A, including $6M in debt, led by SYN Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p29#a230420p29)
- - [Dota 2’s ‘meta-defining’ New Frontiers update makes the map 40 percent bigger](https://www.theverge.com/2023/4/20/23692060/dota-2-7-33-new-frontiers-larger-map-meta-tormentors-watchers-lotus)
- - [Get 45% off Adobe Creative Cloud All Apps subscription, now $44.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)<!-- TECH:END -->
+ - [Dota 2’s ‘meta-defining’ New Frontiers update makes the map 40 percent bigger](https://www.theverge.com/2023/4/20/23692060/dota-2-7-33-new-frontiers-larger-map-meta-tormentors-watchers-lotus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
