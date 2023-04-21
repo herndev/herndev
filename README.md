@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Massive Dota 2 patch makes the map 40% bigger, changes the UI, matchmaking, so much other stuff it&#39;s basically Dota 3 now](https://www.pcgamer.com/massive-dota-2-patch-makes-the-map-40-bigger-changes-the-ui-matchmaking-so-much-other-stuff-its-basically-dota-3-now)
  - [Today&#39;s Wordle hint and answer #671: Friday, April 21](https://www.pcgamer.com/wordle-hint-answer-today-671-april-21)
- - [How to get fuses in Dead Island 2](https://www.pcgamer.com/dead-island-2-fuse-location)
- - [Street Fighter 6 Will Let You Fight A Refrigerator](https://kotaku.com/street-fighter-6-rpg-world-tour-mode-trailer-fridge-sf6-1850360625)<!-- GAME:END -->
+ - [How to get fuses in Dead Island 2](https://www.pcgamer.com/dead-island-2-fuse-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
