@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro: All the rumors, and what it will look like](https://appleinsider.com/articles/23/04/21/iphone-15-pro-all-the-rumors-and-what-it-will-look-like?utm_medium=rss)
- - [iOttie Velox Mini review: A compact magnetic car charger with active cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)
- - [Twitter dropped the &quot;Government-funded&quot; and &quot;China state-affiliated&quot; labels from accounts of media organizations and journalists, including NPR, BBC, and Xinhua &lpar;Jahnavi Nidumolu/Reuters&rpar;](http://www.techmeme.com/230421/p3#a230421p3)<!-- TECH:END -->
+ - [11 Smart Prompts to Do More With Google Bard](https://www.wired.com/story/11-better-prompts-google-bard/)
+ - [Sleep Number Climate360 Smart Bed Review: Hot and Cold](https://www.wired.com/review/sleep-number-climate360-smart-bed/)
+ - [Email: Twitter tells advertisers that they must have &quot;a verified checkmark or subscribe to either Twitter Blue or Verified Organizations&quot; to keep running ads &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230421/p5#a230421p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
