@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women, in a nutshell](http://9gag.com/gag/avQ6mQM)
- - ⏩ [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
- - 👉 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
+ - 💣 [The lower dungeon of Warwick Castle. It&#39;s an &#39;oubliette&#39;, where prisoners were dropped and forgotten about.](http://9gag.com/gag/aA0KX12)
+ - ⏩ [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
+ - 👉 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
 
 ---
 
