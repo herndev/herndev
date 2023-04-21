@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So long my friend](http://9gag.com/gag/aQE72Kq)
- - ⏩ [Now I know why burqas are so popular](http://9gag.com/gag/aVbK2dM)
- - 👉 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
+ - 💣 [He is a man of focus, commitment and sheer f**king will](http://9gag.com/gag/ay26zPr)
+ - ⏩ [My dad worked his entire life repairing cars and now I will make an internship at BMW... I wish he was here, he&#39;d be so happy, he knew sooo much about cars](http://9gag.com/gag/az2KQWq)
+ - 👉 [Thought you guys will love it](http://9gag.com/gag/az2KQwN)<!-- MEMES:END -->
 
 ---
 
