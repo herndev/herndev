@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering goes to battle with its first new card type in 15 years](https://www.polygon.com/23690025/mtg-battles-how-do-they-work-new-card-type-march-of-machine)
- - [Acer&#39;s new RTX 4090-powered PC is puny but hella powerful](https://www.pcgamer.com/acers-new-rtx-4090-powered-pc-is-puny-but-hella-powerful)
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)<!-- GAME:END -->
+ - [Jonathan Majors dropped from several projects following domestic violence allegations](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)
+ - [You can currently get unlimited Legendary Shards for free in Destiny 2](https://www.pcgamer.com/destiny-2-legendary-shard-exploit-farm)
+ - [Alone in the Dark, Trine 5, and more to be shown off at THQ Nordic&#39;s summer showcase](https://www.pcgamer.com/alone-in-the-dark-trine-5-and-more-to-be-shown-off-at-thq-nordics-summer-showcase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
