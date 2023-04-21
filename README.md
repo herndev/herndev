@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 Will Let You Fight A Refrigerator](https://kotaku.com/street-fighter-6-rpg-world-tour-mode-trailer-fridge-sf6-1850360625)
- - [Sid Meier&#39;s Civilization VI: The Kotaku Re-Review](https://kotaku.com/civilization-civ-vi-6-review-2023-retrospective-pc-sid-1850242218)
- - [Hooray, a Street Fighter 6 demo just dropped! Oh wait, PC gamers can&#39;t play it until next week](https://www.pcgamer.com/street-fighter-6-demo)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #671: Friday, April 21](https://www.pcgamer.com/wordle-hint-answer-today-671-april-21)
+ - [How to get fuses in Dead Island 2](https://www.pcgamer.com/dead-island-2-fuse-location)
+ - [Street Fighter 6 Will Let You Fight A Refrigerator](https://kotaku.com/street-fighter-6-rpg-world-tour-mode-trailer-fridge-sf6-1850360625)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
