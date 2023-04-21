@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jonathan Majors dropped from several projects following domestic violence allegations](https://www.polygon.com/23691310/jonathan-majors-domestic-violence-allegations-kang-mcu-recast)
- - [You can currently get unlimited Legendary Shards for free in Destiny 2](https://www.pcgamer.com/destiny-2-legendary-shard-exploit-farm)
- - [Alone in the Dark, Trine 5, and more to be shown off at THQ Nordic&#39;s summer showcase](https://www.pcgamer.com/alone-in-the-dark-trine-5-and-more-to-be-shown-off-at-thq-nordics-summer-showcase)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Resident Evil 4&#39;s knife parry is the best thing to happen to the series in 18 years](https://www.pcgamer.com/resident-evil-4s-knife-parry-is-the-best-thing-to-happen-to-the-series-in-18-years)
+ - [Microsoft isn’t paying Twitter’s new API fees, so Xbox to Twitter sharing is gone](https://www.polygon.com/23692583/microsoft-twitter-api-elon-musk-pricing-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
