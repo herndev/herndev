@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney has reached a multimillion-dollar settlement with fired VFX head Victoria Alonso](https://www.theverge.com/entertainment/2023/4/21/23692443/disney-victoria-alonso-settlement)
- - [Apple Savings is here, Apple Stores are in India, Apple&#39;s headset is coming](https://appleinsider.com/articles/23/04/21/apple-savings-is-here-apple-stores-are-in-india-apples-headset-is-coming?utm_medium=rss)
- - [Apple&#39;s second Shenzhen retail store is opening on April 28, over a decade after the first](https://appleinsider.com/articles/23/04/21/apples-second-shenzhen-retail-store-is-opening-on-april-28-over-a-decade-after-the-first?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV YouTube app gets big update to fix bugs &amp; offer NFL Sunday Ticket](https://appleinsider.com/articles/23/04/21/apple-tv-youtube-app-gets-big-update-to-fix-bugs-offer-nfl-sunday-ticket?utm_medium=rss)
+ - [iOttie Velox Mini review: A compact magnetic car charger with smart cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)
+ - [Weaviate, which offers open-source vector databases for startups building generative AI tools, raised a $50M Series B led by Index Ventures at a $200M valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230421/p9#a230421p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
