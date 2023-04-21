@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Will You Be After ChatGPT Takes Your Job?](https://www.wired.com/story/status-work-generative-artificial-intelligence/)
- - [The Bud Light Boycott and the Sad Future of Online Protest](https://www.wired.com/story/bud-light-boycott-tiktok/)
- - [How the Streaming Era Turned Music Into Sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)<!-- TECH:END -->
+ - [Disney has reached a multimillion-dollar settlement with fired VFX head Victoria Alonso](https://www.theverge.com/entertainment/2023/4/21/23692443/disney-victoria-alonso-settlement)
+ - [Apple Savings is here, Apple Stores are in India, Apple&#39;s headset is coming](https://appleinsider.com/articles/23/04/21/apple-savings-is-here-apple-stores-are-in-india-apples-headset-is-coming?utm_medium=rss)
+ - [Apple&#39;s second Shenzhen retail store is opening on April 28, over a decade after the first](https://appleinsider.com/articles/23/04/21/apples-second-shenzhen-retail-store-is-opening-on-april-28-over-a-decade-after-the-first?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
