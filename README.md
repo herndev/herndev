@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Smart Prompts to Do More With Google Bard](https://www.wired.com/story/11-better-prompts-google-bard/)
- - [Sleep Number Climate360 Smart Bed Review: Hot and Cold](https://www.wired.com/review/sleep-number-climate360-smart-bed/)
- - [Email: Twitter tells advertisers that they must have &quot;a verified checkmark or subscribe to either Twitter Blue or Verified Organizations&quot; to keep running ads &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230421/p5#a230421p5)<!-- TECH:END -->
+ - [Who Will You Be After ChatGPT Takes Your Job?](https://www.wired.com/story/status-work-generative-artificial-intelligence/)
+ - [The Bud Light Boycott and the Sad Future of Online Protest](https://www.wired.com/story/bud-light-boycott-tiktok/)
+ - [How the Streaming Era Turned Music Into Sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
