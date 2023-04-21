@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - ⏩ [Now I know why burqas are so popular](http://9gag.com/gag/aVbK2dM)
- - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
+ - 💣 [Now we know why Egyptians are pissed. It wasn&#39;t just a black actress, look at what they&#39;re making what looks like expert commentators say...](http://9gag.com/gag/a9q5DjW)
+ - ⏩ [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 👉 [The Zips are in the wire](http://9gag.com/gag/awZ1d0B)<!-- MEMES:END -->
 
 ---
 
