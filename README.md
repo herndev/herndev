@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
- - ⏩ [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
- - 👉 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
+ - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
+ - ⏩ [A caring husband](http://9gag.com/gag/abv42gX)
+ - 👉 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)<!-- MEMES:END -->
 
 ---
 
