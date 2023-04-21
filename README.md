@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/ap968WW)
- - ⏩ [Lol](http://9gag.com/gag/awZ1Y64)
- - 👉 [I almost got run over. Be safe out there my dudes](http://9gag.com/gag/aQE7VB2)<!-- MEMES:END -->
+ - 💣 [Rule#1 don&#39;t be a jerk. Rule#2 run red lights.](http://9gag.com/gag/a8q0eO6)
+ - ⏩ [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
+ - 👉 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
 
 ---
 
