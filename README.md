@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Arc GPU performance bumped by over 70% in Cyberpunk 2077 thanks to XeSS](https://www.pcgamer.com/intel-arc-gpu-performance-bumped-by-over-70-in-cyberpunk-2077-thanks-to-xess)
- - [Final Fantasy Pixel Remasters Sold Out Immediately And Scalpers Are In Heaven](https://kotaku.com/final-fantasy-pixel-switch-physical-scalper-ebay-prices-1850361705)
- - [Overwatch 2’s Lifeweaver Is Getting Overhauled Two Weeks After Launch](https://kotaku.com/lifesaver-patch-rework-control-scheme-healing-ultimate-1850362420)<!-- GAME:END -->
+ - [BS your way through interviews and first dates with this ChapGPT-powered AR monocle](https://www.pcgamer.com/bs-your-way-through-interviews-and-first-dates-with-this-chapgpt-powered-ar-monocle)
+ - [Official PlayStation Podcast Episode 455: Asad Qizilbash Talks PlayStation Productions](https://blog.playstation.com/2023/04/21/official-playstation-podcast-episode-455-asad-qizilbash-talks-playstation-productions/)
+ - [Picard season 3 is great for me, less great for Star Trek](https://www.polygon.com/23691934/picard-season-3-finale-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
