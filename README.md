@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
- - ⏩ [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
- - 👉 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ap968WW)
+ - ⏩ [Lol](http://9gag.com/gag/awZ1Y64)
+ - 👉 [I almost got run over. Be safe out there my dudes](http://9gag.com/gag/aQE7VB2)<!-- MEMES:END -->
 
 ---
 
