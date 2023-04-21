@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV YouTube app gets big update to fix bugs &amp; offer NFL Sunday Ticket](https://appleinsider.com/articles/23/04/21/apple-tv-youtube-app-gets-big-update-to-fix-bugs-offer-nfl-sunday-ticket?utm_medium=rss)
- - [iOttie Velox Mini review: A compact magnetic car charger with smart cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)
- - [Weaviate, which offers open-source vector databases for startups building generative AI tools, raised a $50M Series B led by Index Ventures at a $200M valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230421/p9#a230421p9)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Big Pixel Fold leak reveals the price, release date, and much more](https://www.androidauthority.com/pixel-fold-price-3315748/)
+ - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
