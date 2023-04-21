@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BS your way through interviews and first dates with this ChapGPT-powered AR monocle](https://www.pcgamer.com/bs-your-way-through-interviews-and-first-dates-with-this-chapgpt-powered-ar-monocle)
- - [Official PlayStation Podcast Episode 455: Asad Qizilbash Talks PlayStation Productions](https://blog.playstation.com/2023/04/21/official-playstation-podcast-episode-455-asad-qizilbash-talks-playstation-productions/)
- - [Picard season 3 is great for me, less great for Star Trek](https://www.polygon.com/23691934/picard-season-3-finale-review)<!-- GAME:END -->
+ - [God Of War Devs Break Down Epic Final Boss Fight For Fifth Anniversary](https://kotaku.com/god-of-war-ps5-anniversary-kratos-atreus-behind-the-sce-1850363117)
+ - [Garry’s Mod Creator Ponders Banning The Nazis](https://kotaku.com/garrys-mod-newman-nazi-world-war-ww2-roleplay-pc-gaming-1850363103)
+ - [We May Know What Pokémon Will Return In Scarlet And Violet’s DLC](https://kotaku.com/pokemon-scarlet-violet-hidden-treasure-pokedex-datamine-1850363069)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
