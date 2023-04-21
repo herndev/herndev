@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 isn&#39;t out yet but it&#39;s already announced its first 4 DLC characters](https://www.pcgamer.com/street-fighter-6-year-1-dlc)
- - [These tabletop city builders with all the chaotic freedom of D&amp;D are my new obsession](https://www.pcgamer.com/tabletop-city-builders)
- - [Dead Island 2: 10 tips for getting started in Hell-A](https://www.pcgamer.com/dead-island-2-10-tips-for-getting-started)<!-- GAME:END -->
+ - [iFixit Repair Business Toolkit](https://www.pcgamer.com/ifixit-repair-business-toolkit-2023-review)
+ - [This new football game may well give EA a run for its money &lpar;sorry PES&rpar;](https://www.pcgamer.com/this-new-football-game-may-well-give-ea-a-run-for-its-money-sorry-pes)
+ - [This procgen cyberpunk detective game is like an endless Deus Ex, and it could become a stone-cold classic](https://www.pcgamer.com/this-procgen-cyberpunk-detective-game-is-like-an-endless-deus-ex-and-it-could-become-a-stone-cold-classic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
