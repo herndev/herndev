@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - ⏩ [Disappointment](http://9gag.com/gag/anz22bn)
- - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 💣 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - ⏩ [Now I know why burqas are so popular](http://9gag.com/gag/aVbK2dM)
+ - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
 
 ---
 
