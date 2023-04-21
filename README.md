@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legacy Blue Checkmarks Are Now Gone From Twitter     - CNET](https://www.cnet.com/tech/services-and-software/legacy-blue-checkmarks-are-now-gone-from-twitter/#ftag=CAD590a51e)
- - [Internal Q&amp;A: Mark Zuckerberg says Meta plans to slow hiring, and that net employee growth of 1% to 2% per year will be the standard going forward &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230420/p28#a230420p28)
- - [Street Fighter 6 gets a new demo that’s available now on PlayStation](https://www.theverge.com/2023/4/20/23691960/street-fighter-6-demo-playstation-ps5-ps4-xbox-series-x-s-pc-steam)<!-- TECH:END -->
+ - [Austin-based cybersecurity company Halcyon, which provides protection against ransomware, raised a $50M Series A, including $6M in debt, led by SYN Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p29#a230420p29)
+ - [Dota 2’s ‘meta-defining’ New Frontiers update makes the map 40 percent bigger](https://www.theverge.com/2023/4/20/23692060/dota-2-7-33-new-frontiers-larger-map-meta-tormentors-watchers-lotus)
+ - [Get 45% off Adobe Creative Cloud All Apps subscription, now $44.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
