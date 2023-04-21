@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the first demo of buzzy startup Humane’s wearable AI assistant in leaked clips](https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen)
- - [&#39;Ted Lasso&#39; star Hannah Waddingham lands Christmas special](https://appleinsider.com/articles/23/04/21/ted-lasso-star-hannah-waddingham-lands-christmas-special?utm_medium=rss)
- - [Android now has a smart solution for crashing apps](https://www.androidauthority.com/android-automatic-update-prompts-crashing-apps-3315666/)<!-- TECH:END -->
+ - [iPhone 15 Pro: All the rumors, and what it will look like](https://appleinsider.com/articles/23/04/21/iphone-15-pro-all-the-rumors-and-what-it-will-look-like?utm_medium=rss)
+ - [iOttie Velox Mini review: A compact magnetic car charger with active cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)
+ - [Twitter dropped the &quot;Government-funded&quot; and &quot;China state-affiliated&quot; labels from accounts of media organizations and journalists, including NPR, BBC, and Xinhua &lpar;Jahnavi Nidumolu/Reuters&rpar;](http://www.techmeme.com/230421/p3#a230421p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
