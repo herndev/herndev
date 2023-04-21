@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seasoning a new pan](http://9gag.com/gag/aVbKVp8)
- - ⏩ [Unpopular Opinion: no matter how bad the majority found the movie, not only did i like it back as a teen, to this day ive never come across a better depiction of a Lycanthrope, the design is badass from top to bottom.](http://9gag.com/gag/a8q0Kwp)
- - 👉 [Come here](http://9gag.com/gag/aREM2mM)<!-- MEMES:END -->
+ - 💣 [Amazon copied a fan fiction writers work. Guess we can now blame the guy for the poor writing](http://9gag.com/gag/ay266KY)
+ - ⏩ [So beautiful it should be a painting](http://9gag.com/gag/amA662j)
+ - 👉 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 ---
 
