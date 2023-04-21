@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rule#1 don&#39;t be a jerk. Rule#2 run red lights.](http://9gag.com/gag/a8q0eO6)
- - ⏩ [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
- - 👉 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
+ - 💣 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
+ - ⏩ [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
+ - 👉 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
 
 ---
 
