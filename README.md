@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - ⏩ [The absolute movie classic The Truman Show](http://9gag.com/gag/amA6x2v)
- - 👉 [So beautiful it should be a painting](http://9gag.com/gag/amA662j)<!-- MEMES:END -->
+ - 💣 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
+ - ⏩ [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 👉 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
 
 ---
 
