@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
- - ⏩ [Design vs programming](http://9gag.com/gag/abv44Dp)
- - 👉 [And in that moment, anderson cooper knew they&#39;d lost](http://9gag.com/gag/a3Z0WZ7)<!-- MEMES:END -->
+ - 💣 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
+ - ⏩ [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
+ - 👉 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
 
 ---
 
