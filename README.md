@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane co-founder Imran Chaudhri demoed an AI-powered screenless wearable with a projector to display info, voice and gestures for input, and no phone required &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230421/p13#a230421p13)
- - [Secretive AI startup previews AI-powered wearable projector](https://www.androidauthority.com/ai-wearable-3315807/)
- - [SpaceX Starship launch: all of the news on its test flight and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
+ - [To capture CO2 in the US, climate tech startups partner with oil and gas](https://www.theverge.com/2023/4/21/23690040/climeworks-direct-air-carbon-capture-oil-gas)
+ - [Google’s smart speakers are finally smart enough to shut up](https://www.theverge.com/2023/4/21/23692794/google-nest-smart-speaker-new-chime-feature)
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
