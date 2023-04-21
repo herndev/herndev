@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol... quite relatable I think !](http://9gag.com/gag/axo648M)
- - ⏩ [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
- - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 💣 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - ⏩ [Modern society in 2023](http://9gag.com/gag/anz2Vr0)
+ - 👉 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
 
 ---
 
