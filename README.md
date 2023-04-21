@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Action Cam in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-action-cam-location)
- - [Bad news: Your progress from the last Diablo 4 beta doesn&#39;t carry over into May&#39;s server slam, and you&#39;ll have to hit level 20 all over again to get the new reward](https://www.pcgamer.com/bad-news-your-progress-from-the-last-diablo-4-beta-doesnt-carry-over-into-mays-server-slam-and-youll-have-to-hit-level-20-all-over-again-to-get-the-new-reward)
- - [Evil Dead Rise director Lee Cronin says families are a horror movie](https://www.polygon.com/23691469/evil-dead-rise-director-interview-lee-cronin)<!-- GAME:END -->
+ - [Magic: The Gathering goes to battle with its first new card type in 15 years](https://www.polygon.com/23690025/mtg-battles-how-do-they-work-new-card-type-march-of-machine)
+ - [Acer&#39;s new RTX 4090-powered PC is puny but hella powerful](https://www.pcgamer.com/acers-new-rtx-4090-powered-pc-is-puny-but-hella-powerful)
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
