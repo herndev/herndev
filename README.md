@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redbox wants to save Netflix’s DVD business](https://www.theverge.com/2023/4/21/23692665/redbox-netflix-dvd-business-save)
- - [Google Assistant will stop narrating every little detail about its actions soon](https://www.androidauthority.com/google-assistant-quiet-3315822/)
- - [Sources: Lyft to cut 1,200+ jobs, or 30% of its 4,000+ staff, days after its new CEO took control, as it aims to reduce 50% of costs; Lyft cut 700 jobs in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230421/p11#a230421p11)<!-- TECH:END -->
+ - [Humane co-founder Imran Chaudhri demoed an AI-powered screenless wearable with a projector to display info, voice and gestures for input, and no phone required &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230421/p13#a230421p13)
+ - [Secretive AI startup previews AI-powered wearable projector](https://www.androidauthority.com/ai-wearable-3315807/)
+ - [SpaceX Starship launch: all of the news on its test flight and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
