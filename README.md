@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this was some other country by the time it gets to the 4th person it&#39;d be gone.](http://9gag.com/gag/anz2rBz)
- - ⏩ [NSFW Angela Merkel](http://9gag.com/gag/a040MGO)
- - 👉 [Meirl](http://9gag.com/gag/adPQRGD)<!-- MEMES:END -->
+ - 💣 [Lol... quite relatable I think !](http://9gag.com/gag/axo648M)
+ - ⏩ [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - 👉 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 ---
 
