@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Cringiest Weed References In Video Games](https://kotaku.com/video-games-marijuana-far-cry-3-gta-online-1850360088)
- - [Street Fighter 6 Showcase: new gameplay details, future fighters revealed and demo launched](https://blog.playstation.com/2023/04/20/street-fighter-6-showcase-new-gameplay-details-future-fighters-revealed-and-demo-launched/)
- - [Creating the Perfect Blend of Storytelling in Coffee Talk Episode 2](https://news.xbox.com/en-us/2023/04/20/blending-storytelling-in-coffee-talk-episode-2/)<!-- GAME:END -->
+ - [Sid Meier&#39;s Civilization VI: The Kotaku Re-Review](https://kotaku.com/civilization-civ-vi-6-review-2023-retrospective-pc-sid-1850242218)
+ - [Hooray, a Street Fighter 6 demo just dropped! Oh wait, PC gamers can&#39;t play it until next week](https://www.pcgamer.com/street-fighter-6-demo)
+ - [The Cringiest Weed References In Video Games](https://kotaku.com/video-games-marijuana-far-cry-3-gta-online-1850360088)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
