@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prime Video’s Dead Ringers tries to substitute bad feminism for good storytelling](https://www.polygon.com/reviews/23692870/dead-ringers-tv-show-review-weisz-rachel)
- - [Pokémon Go Dev Says Everyone Loves Going Outside When Fans Are Mad About It](https://kotaku.com/pokemon-go-niantic-remote-raid-passes-comment-twitter-1850368559)
- - [This wonderfully &#39;90s RTS looks like a lost Command &amp; Conquer game](https://www.pcgamer.com/this-wonderfully-90s-rts-looks-like-a-lost-command-and-conquer-game)<!-- GAME:END -->
+ - [Wizards Of The Coast Raids YouTuber’s House To Take Back Magic: The Gathering Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
+ - [The Week In Games: Galactic Refugees And Stone-Age Life Sims](https://kotaku.com/april-game-releases-this-week-star-wars-jedi-survivor-1850364056)
+ - [Simpsons Fan Reveals Secret Joke In 31-Year-Old Episode](https://kotaku.com/simpsons-secret-joke-spinal-tap-otto-show-homer-marge-1850368670)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
