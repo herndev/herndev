@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M1 Mac mini dips to $479 today only](https://appleinsider.com/articles/23/04/24/apples-m1-mac-mini-dips-to-479-today-only?utm_medium=rss)
  - [Pixel Fold hands-on video leaked: Get a load of that smooth folding action!](https://www.androidauthority.com/google-pixel-fold-hands-on-video-3316275/)
- - [A look at the Cornell Lab of Ornithology&#39;s Merlin Bird ID app launched in 2014 that can identify 6,000+ bird species on six continents by a picture or by song &lpar;Roman Feeser/CBS News&rpar;](http://www.techmeme.com/230423/p12#a230423p12)
- - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Cornell Lab of Ornithology&#39;s Merlin Bird ID app launched in 2014 that can identify 6,000+ bird species on six continents by a picture or by song &lpar;Roman Feeser/CBS News&rpar;](http://www.techmeme.com/230423/p12#a230423p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
