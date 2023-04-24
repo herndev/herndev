@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rad Power Bikes links up with Redwood Materials for e-bike battery recycling](https://www.theverge.com/2023/4/24/23695767/rad-power-bikes-redwood-materials-ebike-battery-recycle)
- - [Lost your phone? Google finally fixes problem of getting locked out of apps.](https://www.androidauthority.com/google-authenticator-cloud-3316484/)
- - [Over $110 off the Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
+ - [SCOTUS declines to hear a case regarding AI-generated inventions, after a lower court ruled patents can be issued only to human inventors, not AI systems &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230424/p14#a230424p14)
+ - [A US appeals court affirms a lower court&#39;s 2021 ruling largely rejecting claims by Epic that Apple&#39;s App Store policy banning third-party app stores was illegal &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230424/p13#a230424p13)
+ - [Twitter users are now wondering if mandatory blue checks are illegal](https://www.theverge.com/2023/4/24/23695772/twitter-blue-check-paid-verification-false-endorsement-dril)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
