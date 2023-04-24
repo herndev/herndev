@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man was gone for one day and Mary Jane went and had two kids](https://www.polygon.com/2023/4/24/23695814/amazing-spider-man-mary-jane-mystery)
- - [Steam’s Puzzle Fest discounts brainy games like Dorfromantik and Baba is You](https://www.polygon.com/2023/4/24/23594207/steam-puzzle-fest-games-deal-sale)
- - [Twitch Streamer&#39;s Struggle To Become A Top Breath of the Wild Speedrunner Is Today&#39;s Must-Watch](https://kotaku.com/twitch-youtube-streamer-simply-zelda-breath-wild-botw-1850369925)<!-- GAME:END -->
+ - [Fan unwittingly scores new Magic: the Gathering cards early before Wizards of the Coast gets 19th century on his ass: &#39;The Pinkertons took everything.&#39;](https://www.pcgamer.com/fan-unwittingly-scores-new-magic-the-gathering-cards-early-before-wizards-of-the-coast-gets-19th-century-on-his-ass-the-pinkertons-took-everything)
+ - [The Witcher season 3&#39;s first teaser just dropped and yes, that&#39;s still Henry as Geralt](https://www.pcgamer.com/the-witcher-season-3s-first-teaser-just-dropped-and-yes-thats-still-henry-as-geralt)
+ - [Spider-Man was gone for one day and Mary Jane went and had two kids](https://www.polygon.com/2023/4/24/23695814/amazing-spider-man-mary-jane-mystery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
