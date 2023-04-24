@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sandwich so perfect, it&#39;s out of this world](http://9gag.com/gag/aqe6EeL)
- - ⏩ [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - 💣 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - ⏩ [Debt](http://9gag.com/gag/aVbKyXK)
  - 👉 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
 
 ---
