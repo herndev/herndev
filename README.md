@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - ⏩ [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
- - 👉 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
+ - ⏩ [Never understood](http://9gag.com/gag/aEqAK1G)
+ - 👉 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 ---
 
