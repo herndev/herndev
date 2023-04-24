@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fast and furious troll](http://9gag.com/gag/adPQG2V)
- - ⏩ [TOO TIRED](http://9gag.com/gag/aVbKpjP)
- - 👉 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)<!-- MEMES:END -->
+ - 💣 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - ⏩ [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
+ - 👉 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
 
 ---
 
