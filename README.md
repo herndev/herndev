@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti&#39;s EP900 &amp; B500 home battery backup system gives you peace of mind in a blackout](https://appleinsider.com/articles/23/04/24/bluettis-ep900-b500-home-battery-backup-system-gives-you-peace-of-mind-in-a-blackout?utm_medium=rss)
- - [Kemove K68 Mechanical Keyboard review: Brighten your typing experience](https://appleinsider.com/articles/23/04/24/kemove-k68-mechanical-keyboard-review-brighten-your-typing-experience?utm_medium=rss)
- - [UK&#39;s Bafta honors &#39;Bad Sisters&#39; and &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/23/04/24/uks-bafta-honors-bad-sisters-and-the-essex-serpent?utm_medium=rss)<!-- TECH:END -->
+ - [Scam ChatGPT apps are flooding the Mac App Store](https://appleinsider.com/articles/23/04/24/scam-chatgpt-apps-are-flooding-the-mac-app-store?utm_medium=rss)
+ - [The Pixel Fold could continue the Google trend of slow charging speeds](https://www.androidauthority.com/google-pixel-fold-specs-charging-3316351/)
+ - [Apple’s mixed reality headset could connect to a battery pack that looks like the iPhone’s](https://www.theverge.com/2023/4/24/23695584/apple-mixed-reality-headset-proprietary-power-connector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
