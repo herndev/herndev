@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: April 24&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [This is how fast Samsung’s next foldable phones will charge](https://www.androidauthority.com/samsung-galaxy-z-fold-5-z-flip-5-fast-charging-3316292/)
- - [Samsung’s new battery tech could mean longer lasting &lpar;or smaller&rpar; phones](https://www.androidauthority.com/samsung-bigger-batteries-phones-technology-3316286/)<!-- TECH:END -->
+ - [New report highlights why buyers should be careful of cheap Chromebooks](https://www.androidauthority.com/be-careful-of-cheap-chromebooks-3316306/)
+ - [A look at &quot;the flattening&quot;: tech companies laying off middle managers to boost efficiency and cut costs after hiring them in droves during the pandemic boom &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230424/p1#a230424p1)
+ - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: April 24&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
