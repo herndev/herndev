@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)
- - [Here’s your last call to pre-order the Zelda: Tears of the Kingdom Switch OLED](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
- - [Sisu clip shows off deliciously brutal Nazi-killing action](https://www.polygon.com/23691386/sisu-action-movie-clip-trailer-stab)<!-- GAME:END -->
+ - [Disneyland’s Maleficent dragon engulfed in flames after Fantasmic show goes wrong](https://www.polygon.com/23695692/maleficent-dragon-disneyland-fire-mickey-mouse)
+ - [Where to find Curtis&#39; safe key in Dead Island 2](https://www.pcgamer.com/dead-island-2-curtis-safe-key-location)
+ - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
