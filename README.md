@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)
- - ⏩ [See ya in the comments](http://9gag.com/gag/aDY89MN)
- - 👉 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)<!-- MEMES:END -->
+ - 💣 [That\u2019s the rule](http://9gag.com/gag/a8q0OOQ)
+ - ⏩ [Sims raijt](http://9gag.com/gag/aDY8v1G)
+ - 👉 [Debt](http://9gag.com/gag/aVbKyXK)<!-- MEMES:END -->
 
 ---
 
