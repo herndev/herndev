@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
- - ⏩ [Debt](http://9gag.com/gag/aVbKyXK)
- - 👉 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
+ - 💣 [Wanna go camping](http://9gag.com/gag/aWGnyD3)
+ - ⏩ [That\u2019s the rule](http://9gag.com/gag/a8q0OOQ)
+ - 👉 [Sims raijt](http://9gag.com/gag/aDY8v1G)<!-- MEMES:END -->
 
 ---
 
