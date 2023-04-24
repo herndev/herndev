@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 will have a a &#39;pinnacle boss&#39; intended to be your character&#39;s final challenge](https://www.pcgamer.com/diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge)
- - [Epic&#39;s Billionaire CEO Jumps On Twitter To Complain About Elites](https://kotaku.com/twitter-musk-verified-tim-sweeney-epic-video-games-ceo-1850367170)
- - [16-year-old LOTRO invites you to go loot the Witch-king&#39;s house for its anniversary](https://www.pcgamer.com/16-year-old-lotro-invites-you-to-go-loot-the-witch-kings-house-for-its-anniversary)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 24, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-24-2023)
+ - [This retro-futuristic platformer about rescuing spacemen on an alien moon might be the perfect Steam Deck game](https://www.pcgamer.com/this-retro-futuristic-platformer-about-rescuing-spacemen-on-an-alien-moon-might-be-the-perfect-steam-deck-game)
+ - [Diablo 4 will have a a &#39;pinnacle boss&#39; intended to be your character&#39;s final challenge](https://www.pcgamer.com/diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
