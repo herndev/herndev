@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A big update brings the Kindle Scribe closer to being good](https://www.theverge.com/2023/4/24/23682206/amazon-kindle-scribe-e-reader-kobo-elipsa-2e)
- - [Create generative AI video-to-video right from your phone with Runway’s iOS app](https://www.theverge.com/2023/4/24/23695788/generative-ai-video-runway-mobile-app-ios)
- - [Take home Apple gear at the lowest prices we&#39;ve seen on Amazon this week](https://appleinsider.com/articles/23/04/24/take-home-apple-gear-at-the-lowest-prices-weve-seen-on-amazon-this-week?utm_medium=rss)<!-- TECH:END -->
+ - [Rad Power Bikes links up with Redwood Materials for e-bike battery recycling](https://www.theverge.com/2023/4/24/23695767/rad-power-bikes-redwood-materials-ebike-battery-recycle)
+ - [Lost your phone? Google finally fixes problem of getting locked out of apps.](https://www.androidauthority.com/google-authenticator-cloud-3316484/)
+ - [Over $110 off the Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
