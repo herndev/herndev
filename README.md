@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter’s de-verification debacle, explained](https://www.polygon.com/23693433/twitter-blue-check-stephen-king-lebron-james-elon-musk)
- - [Ant-Man and the Wasp: Quantumania, Netflix’s Power Rangers movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/21/23686305/new-movies-watch-ant-man-wasp-quantumania-netflix-power-rangers-streaming)
- - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)<!-- GAME:END -->
+ - [Epic&#39;s Billionaire CEO Jumps On Twitter To Complain About Elites](https://kotaku.com/twitter-musk-verified-tim-sweeney-epic-video-games-ceo-1850367170)
+ - [16-year-old LOTRO invites you to go loot the Witch-king&#39;s house for its anniversary](https://www.pcgamer.com/16-year-old-lotro-invites-you-to-go-loot-the-witch-kings-house-for-its-anniversary)
+ - [More of the internet could disappear as load-bearing image host Imgur announces deletion of old content and NSFW images](https://www.pcgamer.com/more-of-the-internet-could-disappear-as-load-bearing-image-host-imgur-announces-deletion-of-old-content-and-nsfw-images)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
