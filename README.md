@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disneyland’s Maleficent dragon engulfed in flames after Fantasmic show goes wrong](https://www.polygon.com/23695692/maleficent-dragon-disneyland-fire-mickey-mouse)
- - [Where to find Curtis&#39; safe key in Dead Island 2](https://www.pcgamer.com/dead-island-2-curtis-safe-key-location)
- - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)<!-- GAME:END -->
+ - [Prime Video’s Dead Ringers tries to substitute bad feminism for good storytelling](https://www.polygon.com/reviews/23692870/dead-ringers-tv-show-review-weisz-rachel)
+ - [Pokémon Go Dev Says Everyone Loves Going Outside When Fans Are Mad About It](https://kotaku.com/pokemon-go-niantic-remote-raid-passes-comment-twitter-1850368559)
+ - [This wonderfully &#39;90s RTS looks like a lost Command &amp; Conquer game](https://www.pcgamer.com/this-wonderfully-90s-rts-looks-like-a-lost-command-and-conquer-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
