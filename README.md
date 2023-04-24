@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - ⏩ [Science](http://9gag.com/gag/a5Xw9mG)
- - 👉 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
+ - 💣 [Try with cheese sauce](http://9gag.com/gag/aEqA5Qo)
+ - ⏩ [Wanna go camping](http://9gag.com/gag/aWGnyD3)
+ - 👉 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)<!-- MEMES:END -->
 
 ---
 
