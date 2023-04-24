@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The trial of Nathaniel Chastain, an ex-OpenSea product manager accused of insider trading in NFTs, begins this week, one of the first cases for digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/230424/p5#a230424p5)
- - [Apple&#39;s M1 Mac mini dips to $479 today only](https://appleinsider.com/articles/23/04/24/apples-m1-mac-mini-dips-to-479-today-only?utm_medium=rss)
- - [Analysts, investors, and founders expect a hard year for tech startups, including more down rounds; PitchBook says 400+ unicorns haven&#39;t raised funds since 2021 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230424/p4#a230424p4)<!-- TECH:END -->
+ - [Pop star Grimes tells fans to create AI-generated music with her voice, saying she will split 50% royalties, the same as &quot;with any artist I collab with&quot; &lpar;Martine Paris/Forbes&rpar;](http://www.techmeme.com/230424/p7#a230424p7)
+ - [How HomePods recognize smoke alarms, MagSafe car chargers, and more smart home news](https://appleinsider.com/articles/23/04/24/how-homepods-recognize-smoke-alarms-magsafe-car-chargers-and-more-smart-home-news?utm_medium=rss)
+ - [Daily deals: $700 off M1 Max MacBook Pro, 36% off iPad Pencil, Apple Watch SE $179, more](https://appleinsider.com/articles/23/04/24/daily-deals-700-off-m1-max-macbook-pro-36-off-ipad-pencil-apple-watch-se-179-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
