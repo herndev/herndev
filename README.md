@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Tangela be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23696272/can-tangela-be-shiny-tangrowth)
- - [Sonic Maker Sega Is The Video Game Industry’s Next Union Battleground](https://kotaku.com/sega-unionize-sonic-angry-birds-yakuza-persona-nlrb-1850369510)
- - [A disguise hides even more than identity in Asian American spy stories](https://www.polygon.com/23691584/asian-american-spy-books)<!-- GAME:END -->
+ - [Spider-Man was gone for one day and Mary Jane went and had two kids](https://www.polygon.com/2023/4/24/23695814/amazing-spider-man-mary-jane-mystery)
+ - [Steam’s Puzzle Fest discounts brainy games like Dorfromantik and Baba is You](https://www.polygon.com/2023/4/24/23594207/steam-puzzle-fest-games-deal-sale)
+ - [Twitch Streamer&#39;s Struggle To Become A Top Breath of the Wild Speedrunner Is Today&#39;s Must-Watch](https://kotaku.com/twitch-youtube-streamer-simply-zelda-breath-wild-botw-1850369925)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
