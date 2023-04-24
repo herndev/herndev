@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)
- - ⏩ [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - 💣 [Try with cheese sauce](http://9gag.com/gag/aEqA5Qo)
+ - ⏩ [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - 👉 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
 
 ---
 
