@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
- - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
- - 👉 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
+ - 💣 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
+ - ⏩ [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 ---
 
