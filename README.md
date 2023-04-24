@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - ⏩ [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - 👉 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
+ - 💣 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 👉 [Type 2 for me](http://9gag.com/gag/a5XwOOO)<!-- MEMES:END -->
 
 ---
 
