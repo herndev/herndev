@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mike Laidlaw explains how the Dragon Age writers&#39; room tackled companions](https://www.pcgamer.com/mike-laidlaw-explains-how-the-dragon-age-writers-room-tackled-companions)
- - [Square Enix&#39;s free &#39;AI tech preview&#39; has a Steam user rating of Very Negative and deserves it](https://www.pcgamer.com/square-enixs-free-ai-tech-preview-has-a-steam-user-rating-of-very-negative-and-deserves-it)
- - [Today&#39;s Wordle hint and answer #674: Monday, April 24](https://www.pcgamer.com/wordle-hint-answer-today-674-april-24)<!-- GAME:END -->
+ - [Amazon’s James Bond game show casts Logan Roy — sorry, Brian Cox — as its M](https://www.polygon.com/23695565/james-bond-007-road-to-a-million-brian-cox)
+ - [AMD&#39;s RX 7600 and Nvidia&#39;s RTX 4060 Ti release dates rumoured around Computex next month](https://www.pcgamer.com/amds-rx-7600-and-nvidias-rtx-4060-ti-release-dates-rumoured-around-computex-next-month)
+ - [The gloves come off as NetEase sues Blizzard for $44 million](https://www.pcgamer.com/the-gloves-come-off-as-netease-sues-blizzard-for-dollar44-million)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
