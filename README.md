@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan unwittingly scores new Magic: the Gathering cards early before Wizards of the Coast gets 19th century on his ass: &#39;The Pinkertons took everything.&#39;](https://www.pcgamer.com/fan-unwittingly-scores-new-magic-the-gathering-cards-early-before-wizards-of-the-coast-gets-19th-century-on-his-ass-the-pinkertons-took-everything)
- - [The Witcher season 3&#39;s first teaser just dropped and yes, that&#39;s still Henry as Geralt](https://www.pcgamer.com/the-witcher-season-3s-first-teaser-just-dropped-and-yes-thats-still-henry-as-geralt)
- - [Spider-Man was gone for one day and Mary Jane went and had two kids](https://www.polygon.com/2023/4/24/23695814/amazing-spider-man-mary-jane-mystery)<!-- GAME:END -->
+ - [The 10 best cozy games on PC other than Stardew Valley](https://www.pcgamer.com/best-cozy-games-on-pc)
+ - [Homophobes Are Review Bombing Horizon Forbidden West’s DLC](https://kotaku.com/horizon-forbidden-west-dlc-review-bomb-aloy-ps5-1850370480)
+ - [Apex Legends’ new hero is Ballistic, an old gunfighter with a long history](https://www.polygon.com/23695954/apex-legends-new-hero-ballistic-trailer-season-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
