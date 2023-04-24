@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Fold hands-on video leaked: Get a load of that smooth folding action!](https://www.androidauthority.com/google-pixel-fold-hands-on-video-3316275/)
  - [A look at the Cornell Lab of Ornithology&#39;s Merlin Bird ID app launched in 2014 that can identify 6,000+ bird species on six continents by a picture or by song &lpar;Roman Feeser/CBS News&rpar;](http://www.techmeme.com/230423/p12#a230423p12)
- - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
- - [Nielsen: Netflix accounts for between 7% and 8% of TV viewing in the US every month and between 70% to 80% of the top 10 shows in the US every week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230423/p11#a230423p11)<!-- TECH:END -->
+ - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
