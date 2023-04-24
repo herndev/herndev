@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Studio Trigger Anime Trailer Makes Soccer Game Look Dope AF](https://kotaku.com/studio-trigger-anime-omega-strikers-nintendo-switch-1850370786)
  - [The 10 best cozy games on PC other than Stardew Valley](https://www.pcgamer.com/best-cozy-games-on-pc)
- - [Homophobes Are Review Bombing Horizon Forbidden West’s DLC](https://kotaku.com/horizon-forbidden-west-dlc-review-bomb-aloy-ps5-1850370480)
- - [Apex Legends’ new hero is Ballistic, an old gunfighter with a long history](https://www.polygon.com/23695954/apex-legends-new-hero-ballistic-trailer-season-17)<!-- GAME:END -->
+ - [Homophobes Are Review Bombing Horizon Forbidden West’s DLC](https://kotaku.com/horizon-forbidden-west-dlc-review-bomb-aloy-ps5-1850370480)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
