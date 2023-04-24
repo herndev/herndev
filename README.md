@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next game from Genshin Impact’s developer is out on April 26th](https://www.theverge.com/2023/4/24/23695826/honkai-star-rail-release-date-trailer-pre-install)
- - [Here’s where you can preorder Nintendo’s Zelda-inspired Switch OLED](https://www.theverge.com/23660204/nintendo-switch-oled-zelda-tears-of-the-kingdom-edition-preorder-release-date-price)
- - [A poll of 1,500 US voters finds 46% support a nationwide TikTok ban and 35% oppose it; 62% of Republicans are in favor, compared to 33% of Democrats &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/230424/p9#a230424p9)<!-- TECH:END -->
+ - [A big update brings the Kindle Scribe closer to being good](https://www.theverge.com/2023/4/24/23682206/amazon-kindle-scribe-e-reader-kobo-elipsa-2e)
+ - [Create generative AI video-to-video right from your phone with Runway’s iOS app](https://www.theverge.com/2023/4/24/23695788/generative-ai-video-runway-mobile-app-ios)
+ - [Take home Apple gear at the lowest prices we&#39;ve seen on Amazon this week](https://appleinsider.com/articles/23/04/24/take-home-apple-gear-at-the-lowest-prices-weve-seen-on-amazon-this-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
