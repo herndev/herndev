@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)
- - [BeReal claims 20M+ DAUs and is testing letting users post three snapshots per day; Apptopia: BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
- - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)<!-- TECH:END -->
+ - [Common ChatGPT phrases like &quot;as an AI language model&quot; and &quot;I cannot generate inappropriate content&quot; are appearing in and exposing fake Amazon reviews and tweets &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230424/p19#a230424p19)
+ - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [&#39;Scream 6&#39;: Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/scream-6-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
