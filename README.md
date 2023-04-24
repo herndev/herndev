@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We did it boys, racism is no more](http://9gag.com/gag/ajVL4zp)
- - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - 👉 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
+ - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
+ - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 👉 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
 
 ---
 
