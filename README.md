@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple triumphant in Epic Games &#39;Fortnite&#39; antitrust appeal](https://appleinsider.com/articles/23/04/24/apple-triumphant-in-epic-games-fortnite-antitrust-appeal?utm_medium=rss)
- - [Google Authenticator adds Google Account synchronization on its latest update across iOS and Android, allowing users to backup their 2FA codes to the cloud &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230424/p15#a230424p15)
- - [Apple’s App Store can stay closed but developers can link to outside payments, says appeals court](https://www.theverge.com/2023/4/24/23696245/apple-appeal-epic-games-lawsuit-antitrust)<!-- TECH:END -->
+ - [Google Authenticator finally, mercifully adds account syncing for two-factor codes](https://www.theverge.com/2023/4/24/23696058/google-authenticator-app-account-syncing-multiple-devices)
+ - [MacBook Pro blowout sale: save up to $900 on Apple&#39;s 14-inch &amp; 16-inch laptops](https://appleinsider.com/articles/23/04/24/macbook-pro-blowout-sale-save-up-to-900-on-apples-14-inch-16-inch-laptops?utm_medium=rss)
+ - [Beau Is Afraid production designer Fiona Crombie doesn’t really know what’s in the attic, either](https://www.theverge.com/23696229/beau-is-afraid-fiona-crombie-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
