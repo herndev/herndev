@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal says it has 20M+ DAUs and is testing allowing more than one post a day; Apptopia said BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
- - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)
- - [Apple triumphant in Epic Games &#39;Fortnite&#39; antitrust appeal](https://appleinsider.com/articles/23/04/24/apple-triumphant-in-epic-games-fortnite-antitrust-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)
+ - [BeReal claims 20M+ DAUs and is testing letting users post three snapshots per day; Apptopia: BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
+ - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
