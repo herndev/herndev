@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Department of Homeland Security announces a task force to explore potential uses of AI to protect the country, including better cargo screening systems &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230421/p19#a230421p19)
- - [Steam Deck, ROG Ally and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [A California jury clears Tesla of any blame for a 2019 crash involving Autopilot as the company&#39;s user manual warned against using the system on city streets &lpar;Reuters&rpar;](http://www.techmeme.com/230421/p18#a230421p18)<!-- TECH:END -->
+ - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
+ - [Analysis: people spend more time watching Netflix than Hulu, Disney+, and HBO Max combined, and Netflix makes up ~75% of the top 10 shows in the US each week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230423/p11#a230423p11)
+ - [Elecom Pantograph Wired Mini USB Keyboard review: Multilingual value](https://appleinsider.com/articles/23/04/23/elecom-pantograph-wired-mini-usb-keyboard-review-multilingual-value?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
