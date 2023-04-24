@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - ⏩ [Never understood](http://9gag.com/gag/aEqAK1G)
- - 👉 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
+ - 💣 [Pedro is a treasure.](http://9gag.com/gag/a7q0R8m)
+ - ⏩ [Where I can buy this](http://9gag.com/gag/a8q0x9Y)
+ - 👉 [Debt](http://9gag.com/gag/aVbKyXK)<!-- MEMES:END -->
 
 ---
 
