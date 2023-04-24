@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pedro is a treasure.](http://9gag.com/gag/a7q0R8m)
- - ⏩ [Where I can buy this](http://9gag.com/gag/a8q0x9Y)
- - 👉 [Debt](http://9gag.com/gag/aVbKyXK)<!-- MEMES:END -->
+ - 💣 [We did it boys, racism is no more](http://9gag.com/gag/ajVL4zp)
+ - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - 👉 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 ---
 
