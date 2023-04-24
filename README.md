@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards Of The Coast Raids YouTuber’s House To Take Back Magic: The Gathering Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
- - [The Week In Games: Galactic Refugees And Stone-Age Life Sims](https://kotaku.com/april-game-releases-this-week-star-wars-jedi-survivor-1850364056)
- - [Simpsons Fan Reveals Secret Joke In 31-Year-Old Episode](https://kotaku.com/simpsons-secret-joke-spinal-tap-otto-show-homer-marge-1850368670)<!-- GAME:END -->
+ - [Titans flushes Beast Boy down the Multiverse, reminds us every DC cartoon, movie, and show is connected, man](https://www.polygon.com/23695963/titans-dc-multiverse-beast-boy-cameos-references)
+ - [Magic publishers sent Pinkerton agents to a YouTuber’s house to retrieve leaked cards](https://www.polygon.com/23695923/mtg-aftermath-pinkerton-raid-leaked-cards)
+ - [When does Honkai: Star Rail launch?](https://www.polygon.com/honkai-star-rail-guides/23695974/release-time-launch-day-preload)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
