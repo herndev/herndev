@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Titans flushes Beast Boy down the Multiverse, reminds us every DC cartoon, movie, and show is connected, man](https://www.polygon.com/23695963/titans-dc-multiverse-beast-boy-cameos-references)
- - [Magic publishers sent Pinkerton agents to a YouTuber’s house to retrieve leaked cards](https://www.polygon.com/23695923/mtg-aftermath-pinkerton-raid-leaked-cards)
- - [When does Honkai: Star Rail launch?](https://www.polygon.com/honkai-star-rail-guides/23695974/release-time-launch-day-preload)<!-- GAME:END -->
+ - [Can Tangela be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23696272/can-tangela-be-shiny-tangrowth)
+ - [Sonic Maker Sega Is The Video Game Industry’s Next Union Battleground](https://kotaku.com/sega-unionize-sonic-angry-birds-yakuza-persona-nlrb-1850369510)
+ - [A disguise hides even more than identity in Asian American spy stories](https://www.polygon.com/23691584/asian-american-spy-books)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
