@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lower dungeon of Warwick Castle. It&#39;s an &#39;oubliette&#39;, where prisoners were dropped and forgotten about.](http://9gag.com/gag/aA0KX12)
- - ⏩ [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
- - 👉 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
+ - 💣 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - ⏩ [Science](http://9gag.com/gag/a5Xw9mG)
+ - 👉 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
 
 ---
 
