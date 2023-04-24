@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New report highlights why buyers should be careful of cheap Chromebooks](https://www.androidauthority.com/be-careful-of-cheap-chromebooks-3316306/)
- - [A look at &quot;the flattening&quot;: tech companies laying off middle managers to boost efficiency and cut costs after hiring them in droves during the pandemic boom &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230424/p1#a230424p1)
- - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: April 24&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
+ - [Twitter claims dead celebs are subscribing to Blue from beyond the grave](https://www.theverge.com/2023/4/24/23695534/twitter-blue-tick-verification-dead-celebrities)
+ - [A look at LAION, a free AI training data set with 5B+ images used in Google&#39;s Imagen and Stable Diffusion, created by high school teacher Christoph Schuhmann &lpar;Bloomberg&rpar;](http://www.techmeme.com/230424/p2#a230424p2)
+ - [Samsung’s AI-powered Galaxy Enhance-X app is coming to the Galaxy A series](https://www.androidauthority.com/samsung-galaxy-enhance-x-galaxy-a-series-3316304/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
