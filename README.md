@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - ⏩ [Whelp](http://9gag.com/gag/ay26wjW)
- - 👉 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)<!-- MEMES:END -->
+ - 💣 [Fast and furious troll](http://9gag.com/gag/adPQG2V)
+ - ⏩ [TOO TIRED](http://9gag.com/gag/aVbKpjP)
+ - 👉 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)<!-- MEMES:END -->
 
 ---
 
