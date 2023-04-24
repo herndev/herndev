@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s James Bond game show casts Logan Roy — sorry, Brian Cox — as its M](https://www.polygon.com/23695565/james-bond-007-road-to-a-million-brian-cox)
- - [AMD&#39;s RX 7600 and Nvidia&#39;s RTX 4060 Ti release dates rumoured around Computex next month](https://www.pcgamer.com/amds-rx-7600-and-nvidias-rtx-4060-ti-release-dates-rumoured-around-computex-next-month)
- - [The gloves come off as NetEase sues Blizzard for $44 million](https://www.pcgamer.com/the-gloves-come-off-as-netease-sues-blizzard-for-dollar44-million)<!-- GAME:END -->
+ - [Vampire survival game says screw it, let&#39;s add Frankenstein&#39;s monster](https://www.pcgamer.com/vampire-survival-game-says-screw-it-lets-add-frankensteins-monster)
+ - [Gears of War creator Cliff Bleszinski isn&#39;t bringing back LawBreakers after all, and he&#39;s &#39;kinda over the whole making games thing&#39;](https://www.pcgamer.com/gears-of-war-creator-cliff-bleszinski-isnt-bringing-back-lawbreakers-after-all-and-hes-kinda-over-the-whole-making-games-thing)
+ - [Here&#39;s when you can preload Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-preload-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
