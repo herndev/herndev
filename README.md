@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Authenticator finally, mercifully adds account syncing for two-factor codes](https://www.theverge.com/2023/4/24/23696058/google-authenticator-app-account-syncing-multiple-devices)
- - [MacBook Pro blowout sale: save up to $900 on Apple&#39;s 14-inch &amp; 16-inch laptops](https://appleinsider.com/articles/23/04/24/macbook-pro-blowout-sale-save-up-to-900-on-apples-14-inch-16-inch-laptops?utm_medium=rss)
- - [Beau Is Afraid production designer Fiona Crombie doesn’t really know what’s in the attic, either](https://www.theverge.com/23696229/beau-is-afraid-fiona-crombie-interview)<!-- TECH:END -->
+ - [BeReal says it has 20M+ DAUs and is testing allowing more than one post a day; Apptopia said BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
+ - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)
+ - [Apple triumphant in Epic Games &#39;Fortnite&#39; antitrust appeal](https://appleinsider.com/articles/23/04/24/apple-triumphant-in-epic-games-fortnite-antitrust-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
