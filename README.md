@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mike Laidlaw explains how the Dragon Age writers&#39; room tackled companions](https://www.pcgamer.com/mike-laidlaw-explains-how-the-dragon-age-writers-room-tackled-companions)
  - [Square Enix&#39;s free &#39;AI tech preview&#39; has a Steam user rating of Very Negative and deserves it](https://www.pcgamer.com/square-enixs-free-ai-tech-preview-has-a-steam-user-rating-of-very-negative-and-deserves-it)
- - [Today&#39;s Wordle hint and answer #674: Monday, April 24](https://www.pcgamer.com/wordle-hint-answer-today-674-april-24)
- - [Users report AMD Ryzen 7000X3D series CPUs randomly burning out](https://www.pcgamer.com/users-report-amd-ryzen-7000x3d-series-cpus-randomly-burning-out)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #674: Monday, April 24](https://www.pcgamer.com/wordle-hint-answer-today-674-april-24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
