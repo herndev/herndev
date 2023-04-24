@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire survival game says screw it, let&#39;s add Frankenstein&#39;s monster](https://www.pcgamer.com/vampire-survival-game-says-screw-it-lets-add-frankensteins-monster)
- - [Gears of War creator Cliff Bleszinski isn&#39;t bringing back LawBreakers after all, and he&#39;s &#39;kinda over the whole making games thing&#39;](https://www.pcgamer.com/gears-of-war-creator-cliff-bleszinski-isnt-bringing-back-lawbreakers-after-all-and-hes-kinda-over-the-whole-making-games-thing)
- - [Here&#39;s when you can preload Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-preload-times)<!-- GAME:END -->
+ - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)
+ - [Here’s your last call to pre-order the Zelda: Tears of the Kingdom Switch OLED](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
+ - [Sisu clip shows off deliciously brutal Nazi-killing action](https://www.polygon.com/23691386/sisu-action-movie-clip-trailer-stab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
