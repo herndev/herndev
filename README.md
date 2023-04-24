@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - ⏩ [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)
- - 👉 [I need a scientist](http://9gag.com/gag/ap96nY5)<!-- MEMES:END -->
+ - 💣 [A sandwich so perfect, it&#39;s out of this world](http://9gag.com/gag/aqe6EeL)
+ - ⏩ [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - 👉 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
 
 ---
 
