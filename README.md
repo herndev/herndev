@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - ⏩ [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
+ - ⏩ [Hazard lights](http://9gag.com/gag/aGEBqgZ)
+ - 👉 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
 
 ---
 
