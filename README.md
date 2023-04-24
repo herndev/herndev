@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
- - ⏩ [Hazard lights](http://9gag.com/gag/aGEBqgZ)
- - 👉 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
+ - 💣 [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - ⏩ [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - 👉 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
 
 ---
 
