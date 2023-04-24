@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s the rule](http://9gag.com/gag/a8q0OOQ)
- - ⏩ [Sims raijt](http://9gag.com/gag/aDY8v1G)
- - 👉 [Debt](http://9gag.com/gag/aVbKyXK)<!-- MEMES:END -->
+ - 💣 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - ⏩ [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
+ - 👉 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
 
 ---
 
