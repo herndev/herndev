@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scam ChatGPT apps are flooding the Mac App Store](https://appleinsider.com/articles/23/04/24/scam-chatgpt-apps-are-flooding-the-mac-app-store?utm_medium=rss)
- - [The Pixel Fold could continue the Google trend of slow charging speeds](https://www.androidauthority.com/google-pixel-fold-specs-charging-3316351/)
- - [Apple’s mixed reality headset could connect to a battery pack that looks like the iPhone’s](https://www.theverge.com/2023/4/24/23695584/apple-mixed-reality-headset-proprietary-power-connector)<!-- TECH:END -->
+ - [The trial of Nathaniel Chastain, an ex-OpenSea product manager accused of insider trading in NFTs, begins this week, one of the first cases for digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/230424/p5#a230424p5)
+ - [Apple&#39;s M1 Mac mini dips to $479 today only](https://appleinsider.com/articles/23/04/24/apples-m1-mac-mini-dips-to-479-today-only?utm_medium=rss)
+ - [Analysts, investors, and founders expect a hard year for tech startups, including more down rounds; PitchBook says 400+ unicorns haven&#39;t raised funds since 2021 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230424/p4#a230424p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
