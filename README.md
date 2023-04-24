@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter claims dead celebs are subscribing to Blue from beyond the grave](https://www.theverge.com/2023/4/24/23695534/twitter-blue-tick-verification-dead-celebrities)
- - [A look at LAION, a free AI training data set with 5B+ images used in Google&#39;s Imagen and Stable Diffusion, created by high school teacher Christoph Schuhmann &lpar;Bloomberg&rpar;](http://www.techmeme.com/230424/p2#a230424p2)
- - [Samsung’s AI-powered Galaxy Enhance-X app is coming to the Galaxy A series](https://www.androidauthority.com/samsung-galaxy-enhance-x-galaxy-a-series-3316304/)<!-- TECH:END -->
+ - [Bluetti&#39;s EP900 &amp; B500 home battery backup system gives you peace of mind in a blackout](https://appleinsider.com/articles/23/04/24/bluettis-ep900-b500-home-battery-backup-system-gives-you-peace-of-mind-in-a-blackout?utm_medium=rss)
+ - [Kemove K68 Mechanical Keyboard review: Brighten your typing experience](https://appleinsider.com/articles/23/04/24/kemove-k68-mechanical-keyboard-review-brighten-your-typing-experience?utm_medium=rss)
+ - [UK&#39;s Bafta honors &#39;Bad Sisters&#39; and &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/23/04/24/uks-bafta-honors-bad-sisters-and-the-essex-serpent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
