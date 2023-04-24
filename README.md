@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
- - 👉 [Type 2 for me](http://9gag.com/gag/a5XwOOO)<!-- MEMES:END -->
+ - 💣 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
+ - ⏩ [Whelp](http://9gag.com/gag/ay26wjW)
+ - 👉 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)<!-- MEMES:END -->
 
 ---
 
