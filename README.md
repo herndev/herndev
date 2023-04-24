@@ -37,7 +37,7 @@
 
 <!-- TECH:START -->
  - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
- - [Analysis: people spend more time watching Netflix than Hulu, Disney+, and HBO Max combined, and Netflix makes up ~75% of the top 10 shows in the US each week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230423/p11#a230423p11)
+ - [Nielsen: Netflix accounts for between 7% and 8% of TV viewing in the US every month and between 70% to 80% of the top 10 shows in the US every week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230423/p11#a230423p11)
  - [Elecom Pantograph Wired Mini USB Keyboard review: Multilingual value](https://appleinsider.com/articles/23/04/23/elecom-pantograph-wired-mini-usb-keyboard-review-multilingual-value?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
