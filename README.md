@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With Facebook&#39;s pivot away from news and Twitter&#39;s decay, media outlets return to digital media&#39;s foundational concepts of the early 2000s like homepage traffic &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230424/p24#a230424p24)
  - [Xerox announces the donation of the Palo Alto Research Center, which it founded in 1970 and established as an independent company in 2002, to SRI International &lpar;Xerox Newsroom&rpar;](http://www.techmeme.com/230424/p23#a230424p23)
- - [Coinbase asks a US federal court to force the SEC to respond to a petition Coinbase filed in July 2022, demanding clearer crypto regulations &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/230424/p22#a230424p22)
- - [On April 23, a Meta ad system glitch caused some campaigns to overspend beyond their daily cost cap; agencies say they have had &quot;next to no feedback&quot; from Meta &lpar;James Hercher/AdExchanger&rpar;](http://www.techmeme.com/230424/p21#a230424p21)<!-- TECH:END -->
+ - [Coinbase asks a US federal court to force the SEC to respond to a petition Coinbase filed in July 2022, demanding clearer crypto regulations &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/230424/p22#a230424p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
