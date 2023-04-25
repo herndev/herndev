@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Memory overclocking being blamed for AMD Ryzen chips burning themselves to death](https://www.pcgamer.com/memory-overclocking-being-blamed-for-amd-ryzen-chips-burning-themselves-to-death)
  - [Diablo 4&#39;s full version wants twice as much storage as the beta](https://www.pcgamer.com/diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta)
- - [Today&#39;s Wordle hint and answer #675: Tuesday, April 25](https://www.pcgamer.com/wordle-today-hint-answer-675-april-25)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/24/this-weeks-deals-with-gold-and-spotlight-sale-271/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #675: Tuesday, April 25](https://www.pcgamer.com/wordle-today-hint-answer-675-april-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
