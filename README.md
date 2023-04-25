@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metacritic Will Improve Moderation After Horizon Review Bombing](https://kotaku.com/horizon-forbidden-west-burning-ps5-metacritic-review-1850375049)
- - [Star Trek: Resurgence is now set to arrive in May](https://www.pcgamer.com/star-trek-resurgence-is-now-set-to-arrive-in-may)
- - [Is Tingle in Zelda: Tears of the Kingdom?](https://www.polygon.com/23698108/tingle-history-legend-of-zelda-tears-of-the-kingdom)<!-- GAME:END -->
+ - [Microsoft Is Struggling To Sell Xboxes, Again](https://kotaku.com/xbox-series-x-s-sales-microsoft-next-gen-exclusives-1850375665)
+ - [Trombone Champ gets truly nasty, adds the hellish Flight of the Bumblebee](https://www.pcgamer.com/trombone-champ-gets-truly-nasty-adds-the-hellish-flight-of-the-bumblebee)
+ - [Diablo IV: Respeccing Will Be ‘Essentially Free’ Up To A Point](https://kotaku.com/diablo-4-respec-how-character-level-3-2-1850375564)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
