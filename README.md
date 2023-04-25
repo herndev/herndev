@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Racing Game Is Basically Mario Kart For Disney Adults](https://kotaku.com/disney-mario-kart-speedstorm-review-characters-mickey-1850373656)
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
- - [Wizards Of The Coast Raids YouTuber’s House To Take Back Magic: The Gathering Cards [Update]](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)<!-- GAME:END -->
+ - [Deep Cover: Polygon’s Spy Issue](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)
+ - [Star Wars Jedi: Survivor pre-load and release times](https://www.polygon.com/star-wars-jedi-survivor-guides/23697698/release-time-preload-launch)
+ - [This Perfectly Reasonable Wordle Answer Is Stumping 30% Of Players](https://kotaku.com/wordle-answer-today-april-25-nyt-puzzle-games-1850373812)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
