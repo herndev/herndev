@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - ⏩ [Type 2 for me](http://9gag.com/gag/a5XwOOO)
- - 👉 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)<!-- MEMES:END -->
+ - 💣 [Double standards](http://9gag.com/gag/aREMYe7)
+ - ⏩ [Ai Generated Pizza Commercial](http://9gag.com/gag/aYVD8Wx)
+ - 👉 [Craws are wise](http://9gag.com/gag/aWGnrv2)<!-- MEMES:END -->
 
 ---
 
