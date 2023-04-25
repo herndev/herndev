@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Double standards](http://9gag.com/gag/aREMYe7)
- - ⏩ [Ai Generated Pizza Commercial](http://9gag.com/gag/aYVD8Wx)
- - 👉 [Craws are wise](http://9gag.com/gag/aWGnrv2)<!-- MEMES:END -->
+ - 💣 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - ⏩ [Looked like shithousery](http://9gag.com/gag/awZ12g4)
+ - 👉 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
 
 ---
 
