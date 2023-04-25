@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
+ - ⏩ [He didn&#39;t stutter](http://9gag.com/gag/aXnV68z)
  - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 ---
