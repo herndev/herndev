@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Should have sung stayin&#39; alive](http://9gag.com/gag/aQE7wQw)
- - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - 👉 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
+ - ⏩ [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 ---
 
