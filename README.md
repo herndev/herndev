@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - 👉 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
+ - 💣 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
+ - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - 👉 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)<!-- MEMES:END -->
 
 ---
 
