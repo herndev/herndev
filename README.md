@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
- - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
- - 👉 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
+ - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - 👉 [Say No To Steroids](http://9gag.com/gag/anz2onb)<!-- MEMES:END -->
 
 ---
 
