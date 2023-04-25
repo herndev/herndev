@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Funko Pop video game’s first trailer is a descent into pop culture madness](https://www.polygon.com/23696598/funko-pop-video-game-fusion-release-date-trailer)
- - [Netflix reveals every original animated movie set for release in the next two years](https://www.polygon.com/23696595/netflix-new-animated-kids-movies-release-dates-2023-2024)
- - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)<!-- GAME:END -->
+ - [Magic: The Gathering YouTuber Says Pinkerton Threatened Him With $200k Fines, Jail](https://kotaku.com/magic-the-gathering-pinkerton-youtube-wotc-mtg-1850372856)
+ - [This massive mod voice acts all of Hollow Knight, even the item descriptions](https://www.pcgamer.com/this-massive-mod-voice-acts-all-of-hollow-knight-even-the-item-descriptions)
+ - [Denzel takes on the mafia in The Equalizer 3 trailer](https://www.polygon.com/23697482/equalizer-3-trailer-denzel-washington-italy-dakota-fanning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
