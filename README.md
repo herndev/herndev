@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI will have a significant impact on the economy, but as with the internet, this impact will be concentrated in information-focused industries and occupations &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/230425/p4#a230425p4)
  - [We asked, you told us: You use these web browsers on your phone and PC](https://www.androidauthority.com/web-browser-use-phone-pc-poll-results-3316875/)
- - [Best iPhone &lpar;2023&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [South Korea indicts Terraform Labs co-founder Daniel Shin and nine others on multiple charges and freezes ~$184.7M in assets from them so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p3#a230425p3)<!-- TECH:END -->
+ - [Best iPhone &lpar;2023&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
