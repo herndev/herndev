@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
- - 👉 [She just wanted to return the shoes](http://9gag.com/gag/a9q53mm)<!-- MEMES:END -->
+ - 💣 [Mind blown](http://9gag.com/gag/aEqAePM)
+ - ⏩ [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)
+ - 👉 [New netflix show looks dope](http://9gag.com/gag/ajVLbbR)<!-- MEMES:END -->
 
 ---
 
