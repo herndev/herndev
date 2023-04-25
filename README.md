@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
- - ⏩ [Whelp](http://9gag.com/gag/ay26wjW)
- - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - 💣 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
+ - ⏩ [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 👉 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 ---
 
