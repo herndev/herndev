@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data.ai: Jack Dorsey-backed social network Bluesky has been downloaded 245K times on iOS, more than half of those in April 2023, after opening its waiting list &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230425/p18#a230425p18)
- - [Spotify is still bleeding money but predicts a return to profitability](https://appleinsider.com/articles/23/04/25/spotify-is-still-bleeding-money-but-predicts-a-return-to-profitability?utm_medium=rss)
- - [Opera releases early access to Opera One, its redesigned browser with a cleaner, modular look for future generative AI features, &quot;tab islands&quot;, and more &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230425/p17#a230425p17)<!-- TECH:END -->
+ - [Cruise continues to burn GM’s cash as robotaxis expand to daylight hours](https://www.theverge.com/2023/4/25/23697406/cruise-robotaxi-gm-daylight-sf-earnings)
+ - [Adobe Creative Cloud is seeing major issues worldwide [u]](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
+ - [DJI releases a triple-camera system on a new drone for photographers](https://appleinsider.com/articles/23/04/25/dji-releases-a-triple-camera-system-on-a-new-drone-for-photographers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
