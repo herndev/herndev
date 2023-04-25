@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
- - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
- - 👉 [Tornado](http://9gag.com/gag/a5Xwm9O)<!-- MEMES:END -->
+ - 💣 [Should have sung stayin&#39; alive](http://9gag.com/gag/aQE7wQw)
+ - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - 👉 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
 
 ---
 
