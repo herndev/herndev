@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues third developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/04/25/apple-issues-third-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
- - [Lock screen, Apple Music changes now expected for iOS 17](https://appleinsider.com/articles/23/04/25/lock-screen-apple-music-changes-now-expected-for-ios-17?utm_medium=rss)
- - [We have conflicting reports on the size and weight of the Galaxy Z Fold 5](https://www.androidauthority.com/galaxy-z-fold-5-3317036/)<!-- TECH:END -->
+ - [Sources: Apple is working on emotion tracking tools, coming to the Health app this year, and an AI-powered health coaching subscription service codenamed Quartz &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230425/p25#a230425p25)
+ - [A Security Team Is Turning This Malware Gang’s Tricks Against It](https://www.wired.com/story/gootloader-malware-ip-block/)
+ - [Jlink 34-inch curved monitor review: ultrawide on a budget](https://appleinsider.com/articles/23/04/25/jlink-34-inch-curved-monitor-review-ultrawide-on-a-budget?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
