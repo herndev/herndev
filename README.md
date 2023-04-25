@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise continues to burn GM’s cash as robotaxis expand to daylight hours](https://www.theverge.com/2023/4/25/23697406/cruise-robotaxi-gm-daylight-sf-earnings)
- - [Adobe Creative Cloud is seeing major issues worldwide [u]](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
- - [DJI releases a triple-camera system on a new drone for photographers](https://appleinsider.com/articles/23/04/25/dji-releases-a-triple-camera-system-on-a-new-drone-for-photographers?utm_medium=rss)<!-- TECH:END -->
+ - [GM&#39;s Cruise says it is now operating its &quot;small&quot; fleet of driverless robotaxis in San Francisco 24/7, expanding to daylight hours; the unit lost $561M in the Q1 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230425/p21#a230425p21)
+ - [History made: First voice call via satellite using a normal phone just happened](https://www.androidauthority.com/first-satellite-call-3317017/)
+ - [Replit, which offers AI-powered collaborative coding tools, raised $97.4M at a $1.2B valuation and says it has 22.5M users, up from 10M+ in Dec. 2021 &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230425/p20#a230425p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
