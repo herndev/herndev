@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
- - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - 👉 [Say No To Steroids](http://9gag.com/gag/anz2onb)<!-- MEMES:END -->
+ - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - 👉 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)<!-- MEMES:END -->
 
 ---
 
