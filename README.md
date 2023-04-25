@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the latest macOS Ventura beta, Apple removed the Virtual Scanner II app that contained a copy of Satoshi Nakamoto&#39;s Bitcoin whitepaper &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230425/p38#a230425p38)
- - [Inside Meta&#39;s scramble to catch up on AI: slow to adopt pricey AI-optimized systems, scrapping a custom AI chip for a more ambitious model in 2025, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230425/p37#a230425p37)
- - [The best SNES emulators for PC and Mac](https://www.androidauthority.com/best-snes-emulators-pc-mac-3317170/)<!-- TECH:END -->
+ - [Artifact can now summarize and explain articles to you like you’re five](https://www.theverge.com/2023/4/25/23697890/artifact-ai-news-app-summarize-articles-explain-like-im-five)
+ - [Yelp announces a series of updates, including AI-powered search suggestions and review highlights, and the ability to upload short videos up to 12 seconds long &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230425/p39#a230425p39)
+ - [Japan’s first Moon landing has ended in failure](https://www.theverge.com/2023/4/25/23698177/japan-ispace-lunar-lander-moon-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
