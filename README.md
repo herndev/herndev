@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)
- - [EA asks leakers to please knock it off with the Jedi: Survivor spoilers](https://www.pcgamer.com/ea-asks-leakers-to-please-knock-it-off-with-the-jedi-survivor-spoilers)
- - [Memory overclocking being blamed for AMD Ryzen chips burning themselves to death](https://www.pcgamer.com/memory-overclocking-being-blamed-for-amd-ryzen-chips-burning-themselves-to-death)<!-- GAME:END -->
+ - [The Funko Pop video game’s first trailer is a descent into pop culture madness](https://www.polygon.com/23696598/funko-pop-video-game-fusion-release-date-trailer)
+ - [Netflix reveals every original animated movie set for release in the next two years](https://www.polygon.com/23696595/netflix-new-animated-kids-movies-release-dates-2023-2024)
+ - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
