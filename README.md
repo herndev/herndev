@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - ⏩ [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t stutter](http://9gag.com/gag/aXnV68z)
+ - ⏩ [Next level advertisement](http://9gag.com/gag/az2KNKz)
+ - 👉 [Fury Kill!](http://9gag.com/gag/aVbKnKd)<!-- MEMES:END -->
 
 ---
 
