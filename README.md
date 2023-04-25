@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - 👉 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)<!-- MEMES:END -->
+ - 💣 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
+ - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - 👉 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
 
 ---
 
