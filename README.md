@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Pad pricing revealed: Should Samsung watch out?](https://www.androidauthority.com/oneplus-pad-pricing-3311970/)
- - [AMD announces Ryzen Z1 and Z1 Extreme chips for handheld gaming PCs](https://www.theverge.com/2023/4/25/23696722/amd-ryzen-z1-z1-extreme-rog-ally)
- - [Lucid puts its Gravity SUV on real roads for testing](https://www.theverge.com/2023/4/25/23696695/lucid-gravity-suv-ev-public-road-testing-camouflage)<!-- TECH:END -->
+ - [Data.ai: Jack Dorsey-backed social network Bluesky has been downloaded 245K times on iOS, more than half of those in April 2023, after opening its waiting list &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230425/p18#a230425p18)
+ - [Spotify is still bleeding money but predicts a return to profitability](https://appleinsider.com/articles/23/04/25/spotify-is-still-bleeding-money-but-predicts-a-return-to-profitability?utm_medium=rss)
+ - [Opera releases early access to Opera One, its redesigned browser with a cleaner, modular look for future generative AI features, &quot;tab islands&quot;, and more &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230425/p17#a230425p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
