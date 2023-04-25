@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Burning Shores’ focus makes it the best part of Horizon Forbidden West](https://www.theverge.com/23696078/horizon-forbidden-west-burning-shores-review-dlc)
- - [Toyota Prius review: EV reality check](https://www.theverge.com/23691342/toyota-prius-2023-review-hybrid-specs-photos-price)
- - [Slack rolls out Canvas, a collaboration tool for each channel with document creation, editing, and more, announced in September 2022 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230425/p11#a230425p11)<!-- TECH:END -->
+ - [OnePlus Pad pricing revealed: Should Samsung watch out?](https://www.androidauthority.com/oneplus-pad-pricing-3311970/)
+ - [AMD announces Ryzen Z1 and Z1 Extreme chips for handheld gaming PCs](https://www.theverge.com/2023/4/25/23696722/amd-ryzen-z1-z1-extreme-rog-ally)
+ - [Lucid puts its Gravity SUV on real roads for testing](https://www.theverge.com/2023/4/25/23696695/lucid-gravity-suv-ev-public-road-testing-camouflage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
