@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on emotion tracking tools, coming to the Health app this year, and an AI-powered health coaching subscription service codenamed Quartz &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230425/p25#a230425p25)
- - [A Security Team Is Turning This Malware Gang’s Tricks Against It](https://www.wired.com/story/gootloader-malware-ip-block/)
- - [Jlink 34-inch curved monitor review: ultrawide on a budget](https://appleinsider.com/articles/23/04/25/jlink-34-inch-curved-monitor-review-ultrawide-on-a-budget?utm_medium=rss)<!-- TECH:END -->
+ - [This NES cartridge brings an eight-bit Smash Bros. demake online](https://www.theverge.com/2023/4/25/23697876/nintendo-nes-game-super-tilt-bro-wifi-cartridge-online-multiplayer-kickstarter)
+ - [CCData: Coinbase&#39;s trading volume falls to $26.8B in April so far, on track for its lowest monthly level in 16 months, despite rallies for ether and bitcoin &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230425/p28#a230425p28)
+ - [Apple plans to expand Health services to include mood &amp; eye tracking, AI coach planned for later](https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
