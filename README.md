@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Today&#39;s Wordle hint and answer #675: Tuesday, April 25](https://www.pcgamer.com/wordle-today-hint-answer-675-april-25)
- - [Epic Games boss defends Twitter, calls #BlocktheBlue supporters &#39;losers and goons&#39;](https://www.pcgamer.com/epic-games-boss-defends-twitter-calls-blocktheblue-supporters-losers-and-goons)
- - [Apex Legends&#39; next hero gets a new story trailer ahead of gameplay reveal](https://www.pcgamer.com/apex-legends-next-hero-gets-a-new-story-trailer-ahead-of-gameplay-reveal)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/04/24/this-weeks-deals-with-gold-and-spotlight-sale-271/)
+ - [Epic Games boss defends Twitter, calls #BlocktheBlue supporters &#39;losers and goons&#39;](https://www.pcgamer.com/epic-games-boss-defends-twitter-calls-blocktheblue-supporters-losers-and-goons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
