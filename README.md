@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Cover: Polygon’s Spy Issue](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)
- - [Star Wars Jedi: Survivor pre-load and release times](https://www.polygon.com/star-wars-jedi-survivor-guides/23697698/release-time-preload-launch)
- - [This Perfectly Reasonable Wordle Answer Is Stumping 30% Of Players](https://kotaku.com/wordle-answer-today-april-25-nyt-puzzle-games-1850373812)<!-- GAME:END -->
+ - [Rare &#39;90s Pikachu Pokémon Card Sells For A Wild $300K](https://kotaku.com/pokemon-pikachu-trading-card-game-tcg-rare-ebay-price-1850374451)
+ - [FTX collapse has done lethal damage to an up-and-coming card game](https://www.pcgamer.com/ftx-collapse-has-done-lethal-damage-to-an-up-and-coming-card-game)
+ - [The Full Monty is getting a TV spinoff — and that matters more than you’d think](https://www.polygon.com/23697560/the-full-monty-tv-show-spinoff-sequel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
