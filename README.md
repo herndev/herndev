@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW adds Digital Key Plus support for Pixel and Samsung devices](https://www.theverge.com/2023/4/25/23697212/bmw-digital-key-plus-support-google-pixel-samsung-galaxy-devices)
- - [The Poco F5 is officially coming, will pack a beastly processor](https://www.androidauthority.com/poco-f5-snapdragon-7-plus-gen-2-3316902/)
- - [Q&amp;A with OpenAI CTO Mira Murati on the path from GPT-4 to AGI, safety measures, the regulation of LLMs, development of GPT-5, the response to ChatGPT, and more &lpar;Matt O&#39;brien/Associated Press&rpar;](http://www.techmeme.com/230425/p5#a230425p5)<!-- TECH:END -->
+ - [Elon Musk posts a screenshot showing 24.7K Twitter subscribers, or ~0.018% of his 136M+ followers, paying for tweets, Spaces, and more, earning him ~$100K/month &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230425/p9#a230425p9)
+ - [The UK announces legislation to tackle the &quot;excessive dominance&quot; of Big Tech by empowering the CMA&#39;s Digital Markets Unit, expected to become law in 2024 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230425/p8#a230425p8)
+ - [Apple Store crash driver pleads not guilty to second-degree murder](https://appleinsider.com/articles/23/04/25/apple-store-crash-driver-pleads-not-guilty-to-second-degree-murder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
