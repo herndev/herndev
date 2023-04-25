@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering YouTuber Says Pinkerton Threatened Him With $200k Fines, Jail](https://kotaku.com/magic-the-gathering-pinkerton-youtube-wotc-mtg-1850372856)
- - [This massive mod voice acts all of Hollow Knight, even the item descriptions](https://www.pcgamer.com/this-massive-mod-voice-acts-all-of-hollow-knight-even-the-item-descriptions)
- - [Denzel takes on the mafia in The Equalizer 3 trailer](https://www.polygon.com/23697482/equalizer-3-trailer-denzel-washington-italy-dakota-fanning)<!-- GAME:END -->
+ - [Physical Copies Of Star Wars Jedi: Survivor Still Require Digital Downloads Even Though It&#39;s Single-Player](https://kotaku.com/star-wars-jedi-survivor-size-disc-require-internet-1850373299)
+ - [Blade’s Book Club Is The Best Thing About Marvel’s Midnight Suns](https://kotaku.com/marvel-midnight-suns-blade-firaxis-book-club-xcom-1850371001)
+ - [Twitch Streamer Immediately Denied From Bank After Accidentally Applying As An ‘Adult Entertainer’](https://kotaku.com/twitch-streamer-poopernoodle-bank-denied-justchatting-1850372987)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
