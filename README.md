@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Memory overclocking being blamed for AMD Ryzen chips burning themselves to death](https://www.pcgamer.com/memory-overclocking-being-blamed-for-amd-ryzen-chips-burning-themselves-to-death)
- - [Diablo 4&#39;s full version wants twice as much storage as the beta](https://www.pcgamer.com/diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta)
- - [Today&#39;s Wordle hint and answer #675: Tuesday, April 25](https://www.pcgamer.com/wordle-today-hint-answer-675-april-25)<!-- GAME:END -->
+ - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)
+ - [EA asks leakers to please knock it off with the Jedi: Survivor spoilers](https://www.pcgamer.com/ea-asks-leakers-to-please-knock-it-off-with-the-jedi-survivor-spoilers)
+ - [Memory overclocking being blamed for AMD Ryzen chips burning themselves to death](https://www.pcgamer.com/memory-overclocking-being-blamed-for-amd-ryzen-chips-burning-themselves-to-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
