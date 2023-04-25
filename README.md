@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This NES cartridge brings an eight-bit Smash Bros. demake online](https://www.theverge.com/2023/4/25/23697876/nintendo-nes-game-super-tilt-bro-wifi-cartridge-online-multiplayer-kickstarter)
- - [CCData: Coinbase&#39;s trading volume falls to $26.8B in April so far, on track for its lowest monthly level in 16 months, despite rallies for ether and bitcoin &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230425/p28#a230425p28)
- - [Apple plans to expand Health services to include mood &amp; eye tracking, AI coach planned for later](https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later?utm_medium=rss)<!-- TECH:END -->
+ - [You can play all of Jedi: Survivor in bullet time](https://www.theverge.com/2023/4/25/23698101/star-wars-jedi-survivor-accessibility-bullet-time)
+ - [This Microsoft Edge feature is leaking the sites you visit to Bing](https://www.androidauthority.com/microsoft-edge-bing-3317187/)
+ - [Google’s search business is feeling the heat](https://www.theverge.com/2023/4/25/23698087/alphabet-google-earnings-q1-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
