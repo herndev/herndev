@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI will have a significant impact on the economy, but as with the internet, this impact will be concentrated in information-focused industries and occupations &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/230425/p4#a230425p4)
- - [We asked, you told us: You use these web browsers on your phone and PC](https://www.androidauthority.com/web-browser-use-phone-pc-poll-results-3316875/)
- - [Best iPhone &lpar;2023&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
+ - [BMW adds Digital Key Plus support for Pixel and Samsung devices](https://www.theverge.com/2023/4/25/23697212/bmw-digital-key-plus-support-google-pixel-samsung-galaxy-devices)
+ - [The Poco F5 is officially coming, will pack a beastly processor](https://www.androidauthority.com/poco-f5-snapdragon-7-plus-gen-2-3316902/)
+ - [Q&amp;A with OpenAI CTO Mira Murati on the path from GPT-4 to AGI, safety measures, the regulation of LLMs, development of GPT-5, the response to ChatGPT, and more &lpar;Matt O&#39;brien/Associated Press&rpar;](http://www.techmeme.com/230425/p5#a230425p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
