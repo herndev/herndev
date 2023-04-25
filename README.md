@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t stutter](http://9gag.com/gag/aXnV68z)
- - ⏩ [Next level advertisement](http://9gag.com/gag/az2KNKz)
- - 👉 [Fury Kill!](http://9gag.com/gag/aVbKnKd)<!-- MEMES:END -->
+ - 💣 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - ⏩ [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
+ - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
 
 ---
 
