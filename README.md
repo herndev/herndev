@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of operational technology cybersecurity vendors launches ETHOS, an open-source portal to share early warnings about threats to critical infrastructure &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/230424/p20#a230424p20)
  - [Common ChatGPT phrases like &quot;as an AI language model&quot; and &quot;I cannot generate inappropriate content&quot; are appearing in and exposing fake Amazon reviews and tweets &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230424/p19#a230424p19)
- - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [&#39;Scream 6&#39;: Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/scream-6-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
