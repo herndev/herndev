@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 💣 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - ⏩ [Quaker chic](http://9gag.com/gag/ajVLeEw)
  - 👉 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
 
 ---
