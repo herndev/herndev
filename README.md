@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk posts a screenshot showing 24.7K Twitter subscribers, or ~0.018% of his 136M+ followers, paying for tweets, Spaces, and more, earning him ~$100K/month &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230425/p9#a230425p9)
- - [The UK announces legislation to tackle the &quot;excessive dominance&quot; of Big Tech by empowering the CMA&#39;s Digital Markets Unit, expected to become law in 2024 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230425/p8#a230425p8)
- - [Apple Store crash driver pleads not guilty to second-degree murder](https://appleinsider.com/articles/23/04/25/apple-store-crash-driver-pleads-not-guilty-to-second-degree-murder?utm_medium=rss)<!-- TECH:END -->
+ - [Burning Shores’ focus makes it the best part of Horizon Forbidden West](https://www.theverge.com/23696078/horizon-forbidden-west-burning-shores-review-dlc)
+ - [Toyota Prius review: EV reality check](https://www.theverge.com/23691342/toyota-prius-2023-review-hybrid-specs-photos-price)
+ - [Slack rolls out Canvas, a collaboration tool for each channel with document creation, editing, and more, announced in September 2022 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230425/p11#a230425p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
