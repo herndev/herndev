@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Tingle in Zelda: Tears of the Kingdom?](https://www.polygon.com/23698108/tingle-history-legend-of-zelda-tears-of-the-kingdom)
- - [Former World of Warcraft lead developer hints at something big coming to Classic](https://www.pcgamer.com/former-world-of-warcraft-lead-developer-hints-at-something-big-coming-to-classic)
- - [The Flash looks like a great Batman movie](https://www.polygon.com/23698012/flash-trailer-batman-keaton-affleck-whoa)<!-- GAME:END -->
+ - [Metacritic Will Improve Moderation After Horizon Review Bombing](https://kotaku.com/horizon-forbidden-west-burning-ps5-metacritic-review-1850375049)
+ - [Star Trek: Resurgence is now set to arrive in May](https://www.pcgamer.com/star-trek-resurgence-is-now-set-to-arrive-in-may)
+ - [Is Tingle in Zelda: Tears of the Kingdom?](https://www.polygon.com/23698108/tingle-history-legend-of-zelda-tears-of-the-kingdom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
