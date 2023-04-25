@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Flash looks like a great Batman movie](https://www.polygon.com/23698012/flash-trailer-batman-keaton-affleck-whoa)
- - [Honkai: Star Rail unlock times and release date](https://www.pcgamer.com/honkai-star-rail-launch-time-unlock)
- - [These new Zelda-themed Switch accessories can glow in the dark](https://www.polygon.com/deals/2023/4/25/23695688/zelda-tears-of-the-kingdom-pdp-rematch-switch-controller-case-sheikah-shoot)<!-- GAME:END -->
+ - [Is Tingle in Zelda: Tears of the Kingdom?](https://www.polygon.com/23698108/tingle-history-legend-of-zelda-tears-of-the-kingdom)
+ - [Former World of Warcraft lead developer hints at something big coming to Classic](https://www.pcgamer.com/former-world-of-warcraft-lead-developer-hints-at-something-big-coming-to-classic)
+ - [The Flash looks like a great Batman movie](https://www.polygon.com/23698012/flash-trailer-batman-keaton-affleck-whoa)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
