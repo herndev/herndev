@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - ⏩ [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - 👉 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)<!-- MEMES:END -->
+ - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
+ - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 👉 [Tornado](http://9gag.com/gag/a5Xwm9O)<!-- MEMES:END -->
 
 ---
 
