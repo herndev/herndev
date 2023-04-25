@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
  - ⏩ [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - 👉 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
+ - 👉 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
 
 ---
 
