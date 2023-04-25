@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Trigger Anime Trailer Makes Soccer Game Look Dope AF](https://kotaku.com/studio-trigger-anime-omega-strikers-nintendo-switch-1850370786)
- - [The 10 best cozy games on PC other than Stardew Valley](https://www.pcgamer.com/best-cozy-games-on-pc)
- - [Homophobes Are Review Bombing Horizon Forbidden West’s DLC](https://kotaku.com/horizon-forbidden-west-dlc-review-bomb-aloy-ps5-1850370480)<!-- GAME:END -->
+ - [Epic Games boss defends Twitter, calls #BlocktheBlue supporters &#39;losers and goons&#39;](https://www.pcgamer.com/epic-games-boss-defends-twitter-calls-blocktheblue-supporters-losers-and-goons)
+ - [Apex Legends&#39; next hero gets a new story trailer ahead of gameplay reveal](https://www.pcgamer.com/apex-legends-next-hero-gets-a-new-story-trailer-ahead-of-gameplay-reveal)
+ - [Studio Trigger Anime Trailer Makes Soccer Game Look Dope AF](https://kotaku.com/studio-trigger-anime-omega-strikers-nintendo-switch-1850370786)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
