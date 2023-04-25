@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Whelp](http://9gag.com/gag/ay26wjW)
- - ⏩ [He didn&#39;t stutter](http://9gag.com/gag/aXnV68z)
- - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 👉 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
 
 ---
 
