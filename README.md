@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Binance.US has ~100 contractors in Shanghai, or 20% of its workforce, mostly in engineering and product roles, highlighting Binance&#39;s ties to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p23#a230425p23)
- - [Deal: Save $400 on an unlocked Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-deal-3317066/)
- - [The makers of Octodad just released a free dating simulator where you play as a snake](https://www.theverge.com/2023/4/25/23697602/young-horses-free-range-octodad-snakedate-independant-antbassador)<!-- TECH:END -->
+ - [Apple issues third developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/04/25/apple-issues-third-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
+ - [Lock screen, Apple Music changes now expected for iOS 17](https://appleinsider.com/articles/23/04/25/lock-screen-apple-music-changes-now-expected-for-ios-17?utm_medium=rss)
+ - [We have conflicting reports on the size and weight of the Galaxy Z Fold 5](https://www.androidauthority.com/galaxy-z-fold-5-3317036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
