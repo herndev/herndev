@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - ⏩ [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 💣 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
+ - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 👉 [She just wanted to return the shoes](http://9gag.com/gag/a9q53mm)<!-- MEMES:END -->
 
 ---
 
