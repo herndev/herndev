@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crazy rumor points to base Galaxy S24 gaining Exynos power &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-exynos-rumor-3308718/)
- - [A look at AI Hub, a Discord community focused on AI music that released an entire album featuring original songs using AI-generated vocals from famous artists &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230425/p2#a230425p2)
- - [Upcoming Motorola Razr boasts largest cover display amongst its peers](https://www.androidauthority.com/motorola-razr-2023-cover-display-3316858/)<!-- TECH:END -->
+ - [South Korea indicts Terraform Labs co-founder Daniel Shin and nine others on multiple charges and freezes ~$184.7M in assets from them so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p3#a230425p3)
+ - [Samsung Galaxy Unpacked part 2: Here are the latest rumors](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)
+ - [This Private Moon Lander Is Kicking Off a Commercial Lunar Race](https://www.wired.com/story/ispace-moon-lander/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
