@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - ⏩ [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - 👉 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
+ - 💣 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - ⏩ [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
+ - 👉 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)<!-- MEMES:END -->
 
 ---
 
