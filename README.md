@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - 👉 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
+ - 💣 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - ⏩ [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 👉 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
 
 ---
 
