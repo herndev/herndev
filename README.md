@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - ⏩ [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - 👉 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)<!-- MEMES:END -->
+ - 💣 [Social help at work.](http://9gag.com/gag/aVbK65P)
+ - ⏩ [Whelp](http://9gag.com/gag/ay26wjW)
+ - 👉 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 ---
 
