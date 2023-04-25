@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Physical Copies Of Star Wars Jedi: Survivor Still Require Digital Downloads Even Though It&#39;s Single-Player](https://kotaku.com/star-wars-jedi-survivor-size-disc-require-internet-1850373299)
- - [Blade’s Book Club Is The Best Thing About Marvel’s Midnight Suns](https://kotaku.com/marvel-midnight-suns-blade-firaxis-book-club-xcom-1850371001)
- - [Twitch Streamer Immediately Denied From Bank After Accidentally Applying As An ‘Adult Entertainer’](https://kotaku.com/twitch-streamer-poopernoodle-bank-denied-justchatting-1850372987)<!-- GAME:END -->
+ - [New Racing Game Is Basically Mario Kart For Disney Adults](https://kotaku.com/disney-mario-kart-speedstorm-review-characters-mickey-1850373656)
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)
+ - [Wizards Of The Coast Raids YouTuber’s House To Take Back Magic: The Gathering Cards [Update]](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
