@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using iMessage with Windows 11 is coming in mid-May thanks to Phone Link](https://www.androidauthority.com/phone-link-iphone-3317453/)
- - [Security researchers warn against using Google Authenticator’s new feature](https://www.androidauthority.com/google-authenticator-feature-3317441/)
- - [How to back up your contacts and work files before a layoff](https://www.theverge.com/23650741/contacts-emails-layoffs-backup-how-to)<!-- TECH:END -->
+ - [Here’s how you can preorder the new Zelda for $49.99](https://www.theverge.com/2023/2/9/23592523/zelda-tears-kingdom-preorder-nintendo-voucher-advance-wars-deal-sale)
+ - [Aqara FP2 presence sensor review: The only HomeKit occupancy sensor](https://appleinsider.com/articles/23/04/26/aqara-fp2-presence-sensor-review-the-only-homekit-occupancy-sensor?utm_medium=rss)
+ - [Deal: New $40 price drop on the Fitbit Luxe](https://www.androidauthority.com/deal-fitbit-luxe-3317478/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
