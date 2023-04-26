@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tetragonula hockingsi bee colony, native to Australia](http://9gag.com/gag/a8qDdPO)
- - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
- - 👉 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
+ - 💣 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - ⏩ [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
+ - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
 
 ---
 
