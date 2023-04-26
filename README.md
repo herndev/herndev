@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Redfall and Starfield’s Style Ended Up at a Real-Life Fashion Gala](https://news.xbox.com/en-us/2023/04/26/redfall-and-starfield-fashion-elle/)
- - [Engineers added ChatGPT to a robot dog and now it can talk](https://www.pcgamer.com/engineers-added-chatgpt-to-a-robot-dog-and-now-it-can-talk)
- - [Grab $70 off a 1TB 990 Pro SSD in Samsung&#39;s storage sale](https://www.pcgamer.com/grab-dollar70-off-a-1tb-990-pro-ssd-in-samsungs-storage-sale)<!-- GAME:END -->
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2023/04/26/may-savings-promotion-comes-to-playstation-store/)
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2023/04/26/may-savings-promotion-comes-to-playstation-store/)
+ - [One of 2022&#39;s best turn-based strategy games is finally coming to PC](https://www.pcgamer.com/one-of-2022s-best-turn-based-strategy-games-is-finally-coming-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
