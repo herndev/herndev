@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 👉 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
+ - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - ⏩ [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - 👉 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
 
 ---
 
