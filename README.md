@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba Cloud plans to cut its core product costs by up to 50% from May 7; it has received 200K+ requests to join the beta trial of its Tongyi Qianwen AI model &lpar;Bloomberg&rpar;](http://www.techmeme.com/230426/p4#a230426p4)
- - [Latest Pixel 7a press renders leave little to the imagination](https://www.androidauthority.com/google-pixel-7a-press-renders-3317320/)
- - [It looks like Apple copied a feature from Nothing for upcoming earbuds](https://www.androidauthority.com/beats-studio-buds-plus-transparent-design-nothing-3317322/)<!-- TECH:END -->
+ - [Google is making it much easier to search for tools in Docs, Sheets, and Slides](https://www.theverge.com/2023/4/26/23698756/google-workspace-docs-sheets-slides-search-bar-tool-finder)
+ - [Samsung’s Galaxy Z Fold 5 could be far thinner while folded](https://www.theverge.com/2023/4/26/23698748/samsung-galaxy-z-fold-5-weight-dimensions-leak)
+ - [TikTok Shop is thriving in Indonesia, TikTok&#39;s second-biggest market with an estimated 110M users; Data.ai: the Shop seller app has ~5.5M Indonesian downloads &lpar;Aisyah Llewellyn/Rest of World&rpar;](http://www.techmeme.com/230426/p5#a230426p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
