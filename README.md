@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals April 26: $250 off new MacBook Pro, $99 iPhone SE, $39 Beats Flex Earbuds, more](https://appleinsider.com/articles/23/04/26/daily-deals-april-26-250-off-new-macbook-pro-99-iphone-se-39-beats-flex-earbuds-more?utm_medium=rss)
- - [US Apple customers favor iPhone 14 Pro models according to unsurprising survey](https://appleinsider.com/articles/23/04/26/us-apple-customers-favor-iphone-14-pro-models-according-to-unsurprising-survey?utm_medium=rss)
- - [Experts say China&#39;s mostly government-led metaverse efforts are less about consumer activities and more about supporting the country&#39;s economy and industry &lpar;Yaling Jiang/Wired&rpar;](http://www.techmeme.com/230426/p14#a230426p14)<!-- TECH:END -->
+ - [Netflix is getting a beautiful new wingsuit game on May 2nd](https://www.theverge.com/2023/4/26/23697635/layas-horizon-game-release-date-trailer-netflix)
+ - [PricewaterhouseCoopers plans to invest $1B in generative AI in its US operations over the next three years, working with Microsoft and OpenAI &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p15#a230426p15)
+ - [Apple Watch soars above the rest of the smartwatch crowd with high customer satisfaction](https://appleinsider.com/articles/23/04/26/apple-watch-soars-above-the-rest-of-the-smartwatch-crowd-with-high-customer-satisfaction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
