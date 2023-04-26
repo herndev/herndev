@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paleo Pines Will Make Your Dino-Dreams Come True on Xbox](https://news.xbox.com/en-us/2023/04/26/paleo-pines-coming-to-xbox/)
- - [Rumoured AMD chip is the gaming laptop APU we&#39;ve been waiting for](https://www.pcgamer.com/rumoured-amd-chip-is-the-gaming-laptop-apu-weve-been-waiting-for)
- - [After 9 months, Warzone 2&#39;s chillest mode returns to the game today](https://www.pcgamer.com/after-9-months-warzone-2s-chillest-mode-returns-to-the-game-today)<!-- GAME:END -->
+ - [Well, I guess I&#39;m a VR guy now](https://www.pcgamer.com/well-i-guess-im-a-vr-guy-now)
+ - [UK Blocks Microsoft Activision Deal Over Game Pass](https://kotaku.com/game-pass-microsoft-activision-blizzard-call-duty-xbox-1850377161)
+ - [Warframe’s latest update is the perfect place for new players to join](https://www.polygon.com/23697835/warframe-duviri-paradox-drifter-update-dominus-thrax-roguelite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
