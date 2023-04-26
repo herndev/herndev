@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Taika Waititi’s soccer movie stars Michael Fassbender as a washed up coach sent to American Samoa](https://www.polygon.com/23699802/next-goal-wins-trailer-taika-waititi-soccer-movie-release-date)
  - [The Flash premiere gets glowing reactions, but Ezra Miller questions linger](https://www.polygon.com/23699210/flash-ezra-miller-controversy-reactions-movie-story)
- - [Let Me Solo Her Finishes Brutal Malenia-Only Run Of Elden Ring](https://kotaku.com/elden-ring-let-me-solo-her-youtube-malenia-only-mod-pc-1850380138)
- - [Bugsnax studio releases four &#39;smaller side projects&#39; on Steam and they&#39;re all free](https://www.pcgamer.com/bugsnax-studio-releases-four-smaller-side-projects-on-steam-and-theyre-all-free)<!-- GAME:END -->
+ - [Let Me Solo Her Finishes Brutal Malenia-Only Run Of Elden Ring](https://kotaku.com/elden-ring-let-me-solo-her-youtube-malenia-only-mod-pc-1850380138)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
