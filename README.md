@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got bullied in highschool](http://9gag.com/gag/ay2WEgM)
- - ⏩ [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
+ - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - ⏩ [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 👉 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 ---
 
