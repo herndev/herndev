@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s commerce minister urges e-commerce companies to use their marquee apps to join the Open Network for Digital Commerce or face exclusion from the network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230426/p1#a230426p1)
- - [Tinder is implementing video verification to further curb creepy scammers](https://www.theverge.com/2023/4/26/23698503/tinder-video-selfie-verification-security)
- - [Hands-on with Asus&#39; ROG Ally, a handheld Windows gaming machine launching May 11 that can be a strong Steam Deck competitor depending on the price and software &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230425/p46#a230425p46)<!-- TECH:END -->
+ - [A look at the waning crypto hype in Africa, as consumer trust fades, startups shut down, and Web3 workers reconsider their careers after FTX&#39;s fallout &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/230426/p2#a230426p2)
+ - [I Became an &#39;Ice Bath Guy&#39; for a Day and It Was Bizarre     - CNET](https://www.cnet.com/health/features/i-became-an-ice-bath-guy-for-a-day-and-it-was-bizarre/#ftag=CAD590a51e)
+ - [Hundreds of 24-Ton Bricks Could Fix a Huge Renewable Energy Problem     - CNET](https://www.cnet.com/news/hundreds-of-24-ton-bricks-could-fix-a-huge-renewable-energy-problem/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
