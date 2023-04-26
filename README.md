@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beloved D&amp;D art book Art &amp; Arcana gets a 5th edition sequel](https://www.polygon.com/23697637/dnd-dungeons-dragons-lore-and-legends-art-book-release-date)
- - [UK regulator blocks $68.7B Microsoft-Activision deal](https://www.polygon.com/23698816/microsoft-activision-blizzard-deal-uk-cma-block)
- - [Decoding the Rosetta Stone of spy movies](https://www.polygon.com/23689643/fritz-lang-spione-great-spy-movies)<!-- GAME:END -->
+ - [RimWorld Console Edition Brings Much Requested Ideology DLC to Xbox – Out Today](https://news.xbox.com/en-us/2023/04/26/rimworld-console-edition-brings-much-requested-ideology-dlc-to-xbox-out-today/)
+ - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
+ - [Before Steam Puzzle Fest ends, you need to check out the demo for the most mind-bending puzzle game I&#39;ve ever played](https://www.pcgamer.com/before-steam-puzzle-fest-ends-you-need-to-check-out-the-demo-for-the-most-mind-bending-puzzle-game-ive-ever-played)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
