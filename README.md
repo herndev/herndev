@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [News sharing app Artifact adds an AI tool to generate article summaries, while noting users should still read the full articles due to occasional errors &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230425/p41#a230425p41)
- - [Melatonin Gummy Mislabeling Is a Problem, New Study Suggests     - CNET](https://www.cnet.com/health/nutrition/melatonin-gummy-mislabeling-is-a-problem-new-study-suggests/#ftag=CAD590a51e)
- - [Nick Clegg says TikTok&#39;s presence in the US, while China bars Meta, isn&#39;t a level playing field, and new tech like AI shouldn&#39;t be based on autocratic values &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p40#a230425p40)<!-- TECH:END -->
+ - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
+ - [Twitter says governments globally made ~53K content removal requests in H1 2022, and users were required to remove 6.5M+ pieces of content, up 29% from H2 2021 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230425/p44#a230425p44)
+ - [TikTok is working on a feature that will let users create AI-generated profile pictures similar to Prisma Labs&#39; Lensa app &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230425/p43#a230425p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
