@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The face behind one of the most famous song intro in history](http://9gag.com/gag/aGEBP97)
- - ⏩ [New netflix show looks dope](http://9gag.com/gag/ajVLbbR)
- - 👉 [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)<!-- MEMES:END -->
+ - 💣 [New netflix show looks dope](http://9gag.com/gag/ajVLbbR)
+ - ⏩ [The face behind one of the most famous song intro in history](http://9gag.com/gag/aGEBP97)
+ - 👉 [Self-made success story](http://9gag.com/gag/aEqAeY9)<!-- MEMES:END -->
 
 ---
 
