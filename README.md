@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 cameras tipped to bring major photography boost](https://www.androidauthority.com/samsung-galaxy-s24-series-cameras-3317349/)
- - [Sources: Andy Jassy picks 14-year Amazon veteran Eric Rimling as his technical adviser, a prestigious two-year position; Jassy was Bezos&#39; adviser in the 2000s &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230426/p7#a230426p7)
- - [The US Commerce Department outlines plans to boost chip R&amp;D via its new National Semiconductor Technology Center; the CHIPS Act allocated $11B for R&amp;D &lpar;New York Times&rpar;](http://www.techmeme.com/230426/p6#a230426p6)<!-- TECH:END -->
+ - [GM killed the Chevy Bolt — and the dream of a small, affordable EV](https://www.theverge.com/2023/4/26/23697911/gm-discontinued-chevy-bolt-small-affordable-ev)
+ - [A look at the mounting US pressure on Binance: the DOJ&#39;s money laundering division leading its criminal investigation, CZ hiring Latham &amp; Watkins, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230426/p9#a230426p9)
+ - [Roborock S8 Pro Ultra review: Expensive, but great robot vacuum system](https://appleinsider.com/articles/23/04/26/roborock-s8-pro-ultra-review-expensive-but-great-robot-vacuum-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
