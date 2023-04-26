@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Motorola’s first co-branded Lenovo phone is here, and it’s nice as heck](https://www.theverge.com/2023/4/26/23698302/motorola-thinkphone-lenovo-price-availability-hands-on)
- - [Playing Tears of the Kingdom is like riding a tricked-out bike you built with your Ultrahand](https://www.theverge.com/23697704/zelda-tears-of-the-kingdom-hands-on-preview-nintendo-switch)<!-- TECH:END -->
+ - [Daily Deals April 26: $250 off new MacBook Pro, $99 iPhone SE, $39 Beats Flex Earbuds, more](https://appleinsider.com/articles/23/04/26/daily-deals-april-26-250-off-new-macbook-pro-99-iphone-se-39-beats-flex-earbuds-more?utm_medium=rss)
+ - [US Apple customers favor iPhone 14 Pro models according to unsurprising survey](https://appleinsider.com/articles/23/04/26/us-apple-customers-favor-iphone-14-pro-models-according-to-unsurprising-survey?utm_medium=rss)
+ - [Experts say China&#39;s mostly government-led metaverse efforts are less about consumer activities and more about supporting the country&#39;s economy and industry &lpar;Yaling Jiang/Wired&rpar;](http://www.techmeme.com/230426/p14#a230426p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
