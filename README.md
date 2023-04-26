@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #676: Wednesday, April 26](https://www.pcgamer.com/wordle-today-hint-answer-676-april-26)
  - [Your biggest Honkai: Star Rail questions, answered](https://www.polygon.com/honkai-star-rail-guides/23691617/strongest-characters-genshin-impact-similarities)
- - [8 things to know before starting Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/23632504/beginners-guide-warps-technique-characters-party-treasure-stellar-jade)
- - [How Honkai: Star Rail’s Forgotten Hall endgame works](https://www.polygon.com/honkai-star-rail-guides/23630912/forgotten-hall-memory-chaos-unlock-levels)<!-- GAME:END -->
+ - [8 things to know before starting Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/23632504/beginners-guide-warps-technique-characters-party-treasure-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
