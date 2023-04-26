@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda’s making a bigger electric SUV to follow the Prologue — atop its own platforms](https://www.theverge.com/2023/4/25/23698317/honda-ev-e-architechture-midsize-larger-suv-2025-prologue-zdx)
- - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
- - [2023 Apple Watch Pride Edition face and band design discovered in code](https://appleinsider.com/articles/23/04/26/2023-apple-watch-pride-edition-face-and-band-design-discovered-in-code?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Asus&#39; ROG Ally, a handheld Windows gaming machine launching May 11 that can be a strong Steam Deck competitor depending on the price and software &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230425/p46#a230425p46)
+ - [Beats Studio Buds+ briefly appeared on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
+ - [Honda’s making a bigger electric SUV to follow the Prologue — atop its own platforms](https://www.theverge.com/2023/4/25/23698317/honda-ev-e-architechture-midsize-larger-suv-2025-prologue-zdx)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
