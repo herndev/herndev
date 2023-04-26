@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is getting a beautiful new wingsuit game on May 2nd](https://www.theverge.com/2023/4/26/23697635/layas-horizon-game-release-date-trailer-netflix)
- - [PricewaterhouseCoopers plans to invest $1B in generative AI in its US operations over the next three years, working with Microsoft and OpenAI &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p15#a230426p15)
- - [Apple Watch soars above the rest of the smartwatch crowd with high customer satisfaction](https://appleinsider.com/articles/23/04/26/apple-watch-soars-above-the-rest-of-the-smartwatch-crowd-with-high-customer-satisfaction?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix’s sixth season of Black Mirror will be out in June, and here’s the first teaser](https://www.theverge.com/23699097/netflix-black-mirror-sixth-season-teaser-trailer)
+ - [Microsoft&#39;s Phone Link for iOS has arrived, bringing a crippled iMessage to Windows 11](https://appleinsider.com/articles/23/04/26/microsofts-phone-link-for-ios-has-arrived-bringing-a-crippled-imessage-to-windows-11?utm_medium=rss)
+ - [UK blocks the Xbox/Activision Blizzard deal &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/uk-block-microsoft-activision-xbox-deal-3317379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
