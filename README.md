@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s sixth season of Black Mirror will be out in June, and here’s the first teaser](https://www.theverge.com/23699097/netflix-black-mirror-sixth-season-teaser-trailer)
- - [Microsoft&#39;s Phone Link for iOS has arrived, bringing a crippled iMessage to Windows 11](https://appleinsider.com/articles/23/04/26/microsofts-phone-link-for-ios-has-arrived-bringing-a-crippled-imessage-to-windows-11?utm_medium=rss)
- - [UK blocks the Xbox/Activision Blizzard deal &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/uk-block-microsoft-activision-xbox-deal-3317379/)<!-- TECH:END -->
+ - [Using iMessage with Windows 11 is coming in mid-May thanks to Phone Link](https://www.androidauthority.com/phone-link-iphone-3317453/)
+ - [Security researchers warn against using Google Authenticator’s new feature](https://www.androidauthority.com/google-authenticator-feature-3317441/)
+ - [How to back up your contacts and work files before a layoff](https://www.theverge.com/23650741/contacts-emails-layoffs-backup-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
