@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 💣 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
  - ⏩ [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - 👉 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
+ - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
 
 ---
 
