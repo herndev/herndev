@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - ⏩ [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
- - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
+ - 💣 [Man charges into giant dust devil](http://9gag.com/gag/awZLNMB)
+ - ⏩ [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 ---
 
