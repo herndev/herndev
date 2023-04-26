@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld Console Edition Brings Much Requested Ideology DLC to Xbox – Out Today](https://news.xbox.com/en-us/2023/04/26/rimworld-console-edition-brings-much-requested-ideology-dlc-to-xbox-out-today/)
- - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
- - [Before Steam Puzzle Fest ends, you need to check out the demo for the most mind-bending puzzle game I&#39;ve ever played](https://www.pcgamer.com/before-steam-puzzle-fest-ends-you-need-to-check-out-the-demo-for-the-most-mind-bending-puzzle-game-ive-ever-played)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom Has Gacha Now, Which Is Deeply Funny](https://kotaku.com/zelda-tears-of-the-kingdom-switch-gacha-gameplay-zonai-1850378276)
+ - [3 decades after the first game, Flashback 2 has a release window](https://www.pcgamer.com/3-decades-after-the-first-game-flashback-2-has-a-release-window)
+ - [Where to pre-order Final Fantasy 16, and what comes with each edition](https://www.polygon.com/deals/23696570/final-fantasy-16-pre-order-guide-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
