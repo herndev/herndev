@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New bill would add mandatory age verification to social networks](https://www.theverge.com/2023/4/26/23699255/senators-bill-age-verification-protecting-kids-on-social-media-act)
- - [Mexico-based Clara, which offers corporate spend management software in Latin America, raised a $60M Series B extension, after a $70M Series B in December 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230426/p18#a230426p18)
- - [Belkin&#39;s new hub offers 100W Power Delivery &amp; data transfer with four USB-C ports](https://appleinsider.com/articles/23/04/26/belkins-new-hub-offers-100w-power-delivery-data-transfer-with-four-usb-c-ports?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm’s new upscaling tech will boost Android games to 4K 60FPS](https://www.androidauthority.com/android-games-upscaling-3317570/)
+ - [Some users say Microsoft Edge sends URLs of visited pages to Bing API&#39;s site; a developer says Edge&#39;s creator follow option, on by default, may be the culprit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230426/p20#a230426p20)
+ - [Will the Fed Rate Hikes End in May? Here&#39;s What 5 Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/will-the-fed-rate-hikes-end-in-may-heres-what-5-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
