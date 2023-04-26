@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wartales Is A Game For Anyone Who Wants To Go On A Big Adventure](https://kotaku.com/wartales-impressions-pc-rpg-turn-based-mercenary-sim-1850360876)
- - [Square Enix Releases &#39;AI&#39; Game, Reviews Throw It In The Trash](https://kotaku.com/square-enix-ai-machine-learning-steam-pc-reviews-bad-1850375824)
- - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)<!-- GAME:END -->
+ - [Your biggest Honkai: Star Rail questions, answered](https://www.polygon.com/honkai-star-rail-guides/23691617/strongest-characters-genshin-impact-similarities)
+ - [8 things to know before starting Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/23632504/beginners-guide-warps-technique-characters-party-treasure-stellar-jade)
+ - [How Honkai: Star Rail’s Forgotten Hall endgame works](https://www.polygon.com/honkai-star-rail-guides/23630912/forgotten-hall-memory-chaos-unlock-levels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
