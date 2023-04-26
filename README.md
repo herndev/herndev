@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wartales Is A Game For Anyone Who Wants To Go On A Big Adventure](https://kotaku.com/wartales-impressions-pc-rpg-turn-based-mercenary-sim-1850360876)
  - [Square Enix Releases &#39;AI&#39; Game, Reviews Throw It In The Trash](https://kotaku.com/square-enix-ai-machine-learning-steam-pc-reviews-bad-1850375824)
- - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)
- - [Microsoft Is Struggling To Sell Xboxes, Again](https://kotaku.com/xbox-series-x-s-sales-microsoft-next-gen-exclusives-1850375665)<!-- GAME:END -->
+ - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
