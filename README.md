@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man charges into giant dust devil](http://9gag.com/gag/awZLNMB)
- - ⏩ [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 💣 [Bro got bullied in highschool](http://9gag.com/gag/ay2WEgM)
+ - ⏩ [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
  - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 ---
