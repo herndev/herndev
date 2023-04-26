@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
- - [Apple plans to expand Health services to include mood &amp; eye tracking, AI coach planned for later](https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later?utm_medium=rss)
- - [Experts say 5G&#39;s next iteration, 5.5G, could help autonomous cars, drones, and more, but everyday users may not see many applications beyond faster speeds &lpar;Dan Strumpf/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p11#a230426p11)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Motorola’s first co-branded Lenovo phone is here, and it’s nice as heck](https://www.theverge.com/2023/4/26/23698302/motorola-thinkphone-lenovo-price-availability-hands-on)
+ - [Playing Tears of the Kingdom is like riding a tricked-out bike you built with your Ultrahand](https://www.theverge.com/23697704/zelda-tears-of-the-kingdom-hands-on-preview-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
