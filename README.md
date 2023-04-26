@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK regulator blocks Microsoft-Activision deal](https://www.polygon.com/23698816/microsoft-activision-blizzard-deal-uk-cma-block)
- - [Hang in there, we&#39;re winning this thing: Nvidia RTX 4060 Ti price now rumoured to have dropped to $399](https://www.pcgamer.com/hang-in-there-were-winning-this-thing-nvidia-rtx-4060-ti-price-now-rumoured-to-have-dropped-to-dollar399)
- - [Experience gaming&#39;s wildest ending for less than $2](https://www.pcgamer.com/experience-gamings-wildest-ending-for-less-than-dollar2)<!-- GAME:END -->
+ - [Paleo Pines Will Make Your Dino-Dreams Come True on Xbox](https://news.xbox.com/en-us/2023/04/26/paleo-pines-coming-to-xbox/)
+ - [Rumoured AMD chip is the gaming laptop APU we&#39;ve been waiting for](https://www.pcgamer.com/rumoured-amd-chip-is-the-gaming-laptop-apu-weve-been-waiting-for)
+ - [After 9 months, Warzone 2&#39;s chillest mode returns to the game today](https://www.pcgamer.com/after-9-months-warzone-2s-chillest-mode-returns-to-the-game-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
