@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are simple creatures](http://9gag.com/gag/a4o5KeZ)
- - ⏩ [Indian officials are outraged against Germany because a famous german satirical journal published this illustration](http://9gag.com/gag/az2Ggyq)
- - 👉 [How to argue with a hollow head feminist](http://9gag.com/gag/aOxDqb2)<!-- MEMES:END -->
+ - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
 
 ---
 
