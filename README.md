@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - ⏩ [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 💣 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
+ - ⏩ [Dutch opera singer Henk Poort - The Sound of Silence](http://9gag.com/gag/a7qV5om)
+ - 👉 [This is money dog, upvote and money will find you in the next 24 hours.](http://9gag.com/gag/ay26y9b)<!-- MEMES:END -->
 
 ---
 
