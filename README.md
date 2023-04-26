@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
- - [Twitter says governments globally made ~53K content removal requests in H1 2022, and users were required to remove 6.5M+ pieces of content, up 29% from H2 2021 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230425/p44#a230425p44)
- - [TikTok is working on a feature that will let users create AI-generated profile pictures similar to Prisma Labs&#39; Lensa app &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230425/p43#a230425p43)<!-- TECH:END -->
+ - [SK Hynix reports an operating loss of ~$2.5B in Q1 2023, its biggest quarterly loss, surpassing the ~$1.4B in Q4 2022, and revenue dropped 58.1% YoY to ~$3.8B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/230425/p45#a230425p45)
+ - [Amazon just spoiled the next Beats earbuds before Apple could even announce them](https://www.theverge.com/2023/4/25/23698496/beats-studio-buds-plus-features-price-amazon-leak)
+ - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
