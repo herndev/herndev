@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix reports an operating loss of ~$2.5B in Q1 2023, its biggest quarterly loss, surpassing the ~$1.4B in Q4 2022, and revenue dropped 58.1% YoY to ~$3.8B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/230425/p45#a230425p45)
- - [Amazon just spoiled the next Beats earbuds before Apple could even announce them](https://www.theverge.com/2023/4/25/23698496/beats-studio-buds-plus-features-price-amazon-leak)
- - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)<!-- TECH:END -->
+ - [Honda’s making a bigger electric SUV to follow the Prologue — atop its own platforms](https://www.theverge.com/2023/4/25/23698317/honda-ev-e-architechture-midsize-larger-suv-2025-prologue-zdx)
+ - [Beats Studio Buds+ appear on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
+ - [2023 Apple Watch Pride Edition face and band design discovered in code](https://appleinsider.com/articles/23/04/26/2023-apple-watch-pride-edition-face-and-band-design-discovered-in-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
