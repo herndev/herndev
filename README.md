@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
- - ⏩ [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
+ - 💣 [Tetragonula hockingsi bee colony, native to Australia](http://9gag.com/gag/a8qDdPO)
+ - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 👉 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
 
 ---
 
