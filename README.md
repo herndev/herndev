@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
- - 👉 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
+ - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - ⏩ [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 👉 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
 
 ---
 
