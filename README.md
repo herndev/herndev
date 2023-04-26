@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)
- - ⏩ [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - ⏩ [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
+ - 👉 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 ---
 
