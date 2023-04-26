@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
+ - 💣 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
+ - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 👉 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
 
 ---
 
