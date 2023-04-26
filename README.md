@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Brazilian court orders a temporary ban on Telegram in the country after the company refused to share information about neo-Nazi groups with the federal police &lpar;Bloomberg&rpar;](http://www.techmeme.com/230426/p26#a230426p26)
- - [The best Xiaomi Mi Band 8 alternatives](https://www.androidauthority.com/best-xiaomi-mi-band-8-alternatives-3317197/)
- - [Apple AirPods Pro &lpar;2nd generation&rpar; review: The best earbuds for iPhone](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)<!-- TECH:END -->
+ - [Meta says time spent on Instagram grew 24%+ since Reels launched thanks to AI recommendations, and expects Reels to be revenue-neutral by year end or early 2024 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230426/p29#a230426p29)
+ - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
+ - [Lookout agrees to sell its consumer mobile security business to F-Secure in a deal valued at around $223M, transitioning into a &quot;pure-play enterprise company&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230426/p28#a230426p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
