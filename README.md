@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s Mounts Are Off Limits Until You Beat The Campaign](https://kotaku.com/diablo-4-mounts-stress-test-may-12-server-slam-blizzard-1850379488)
- - [These Are The Best Dead Island 2 Weapons](https://kotaku.com/dead-island-2-best-weapons-tips-ps5-side-quest-1850379382)
- - [How to open the triple authentication door in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/23699095/triple-authentication-door-locked-access-card-locations-base-zero)<!-- GAME:END -->
+ - [The Little Mermaid remake is nearly an hour longer than the original — so what did they add?](https://www.polygon.com/23699372/little-mermaid-2023-runtime-release-bonus-scenes-songs)
+ - [MSI just had to unlaunch its RTX 3060 Ti Super 3X because it&#39;s not actually &#39;Super&#39;](https://www.pcgamer.com/msi-just-had-to-unlaunch-its-rtx-3060-ti-super-3x-because-its-not-actually-super)
+ - [Everyone is lining up to talk to a trash can in Honkai: Star Rail](https://www.pcgamer.com/everyone-is-lining-up-to-talk-to-a-trash-can-in-honkai-star-rail)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
