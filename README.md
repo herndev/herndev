@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can preorder the new Zelda for $49.99](https://www.theverge.com/2023/2/9/23592523/zelda-tears-kingdom-preorder-nintendo-voucher-advance-wars-deal-sale)
- - [Aqara FP2 presence sensor review: The only HomeKit occupancy sensor](https://appleinsider.com/articles/23/04/26/aqara-fp2-presence-sensor-review-the-only-homekit-occupancy-sensor?utm_medium=rss)
- - [Deal: New $40 price drop on the Fitbit Luxe](https://www.androidauthority.com/deal-fitbit-luxe-3317478/)<!-- TECH:END -->
+ - [New bill would add mandatory age verification to social networks](https://www.theverge.com/2023/4/26/23699255/senators-bill-age-verification-protecting-kids-on-social-media-act)
+ - [Mexico-based Clara, which offers corporate spend management software in Latin America, raised a $60M Series B extension, after a $70M Series B in December 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230426/p18#a230426p18)
+ - [Belkin&#39;s new hub offers 100W Power Delivery &amp; data transfer with four USB-C ports](https://appleinsider.com/articles/23/04/26/belkins-new-hub-offers-100w-power-delivery-data-transfer-with-four-usb-c-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
