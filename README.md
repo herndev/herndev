@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artifact can now summarize and explain articles to you like you’re five](https://www.theverge.com/2023/4/25/23697890/artifact-ai-news-app-summarize-articles-explain-like-im-five)
- - [Yelp announces a series of updates, including AI-powered search suggestions and review highlights, and the ability to upload short videos up to 12 seconds long &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230425/p39#a230425p39)
- - [Japan’s first Moon landing has ended in failure](https://www.theverge.com/2023/4/25/23698177/japan-ispace-lunar-lander-moon-mission)<!-- TECH:END -->
+ - [News sharing app Artifact adds an AI tool to generate article summaries, while noting users should still read the full articles due to occasional errors &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230425/p41#a230425p41)
+ - [Melatonin Gummy Mislabeling Is a Problem, New Study Suggests     - CNET](https://www.cnet.com/health/nutrition/melatonin-gummy-mislabeling-is-a-problem-new-study-suggests/#ftag=CAD590a51e)
+ - [Nick Clegg says TikTok&#39;s presence in the US, while China bars Meta, isn&#39;t a level playing field, and new tech like AI shouldn&#39;t be based on autocratic values &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p40#a230425p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
