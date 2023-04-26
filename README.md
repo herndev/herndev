@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s new upscaling tech will boost Android games to 4K 60FPS](https://www.androidauthority.com/android-games-upscaling-3317570/)
- - [Some users say Microsoft Edge sends URLs of visited pages to Bing API&#39;s site; a developer says Edge&#39;s creator follow option, on by default, may be the culprit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230426/p20#a230426p20)
- - [Will the Fed Rate Hikes End in May? Here&#39;s What 5 Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/will-the-fed-rate-hikes-end-in-may-heres-what-5-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ayaneo 2S will officially be one of the first Steam Deck rivals with Ryzen 7000](https://www.theverge.com/2023/4/26/23699548/ayaneo-2s-ryzen-7000-geek-kun-free-speakers-cooling)
+ - [YouTube Music contractors from Cognizant vote to unionize with Alphabet Workers Union; Alphabet is appealing a ruling that Google is their joint employer &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230426/p25#a230426p25)
+ - [New Motorola Razr leak shows off sizable outer display](https://www.theverge.com/2023/4/26/23699137/motorola-razr-leak-outer-display-interface-customize)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
