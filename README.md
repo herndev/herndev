@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom Has Gacha Now, Which Is Deeply Funny](https://kotaku.com/zelda-tears-of-the-kingdom-switch-gacha-gameplay-zonai-1850378276)
- - [3 decades after the first game, Flashback 2 has a release window](https://www.pcgamer.com/3-decades-after-the-first-game-flashback-2-has-a-release-window)
- - [Where to pre-order Final Fantasy 16, and what comes with each edition](https://www.polygon.com/deals/23696570/final-fantasy-16-pre-order-guide-deal-sale)<!-- GAME:END -->
+ - [Gotham Knights Six Months Later: Better, But Still Mid](https://kotaku.com/gotham-knights-batman-batgirl-nightwing-dlc-wb-games-1850378621)
+ - [Can The Switch Handle Zelda: Tears Of The Kingdom? Here’s What People Are Saying](https://kotaku.com/zelda-totk-switch-performance-framerate-tears-kingdom-1850378556)
+ - [New World and Lost Ark players aren&#39;t happy as Amazon closes forums in favor of Discord](https://www.pcgamer.com/new-world-and-lost-ark-players-arent-happy-as-amazon-closes-forums-in-favor-of-discord)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
