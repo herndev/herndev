@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM killed the Chevy Bolt — and the dream of a small, affordable EV](https://www.theverge.com/2023/4/26/23697911/gm-discontinued-chevy-bolt-small-affordable-ev)
- - [A look at the mounting US pressure on Binance: the DOJ&#39;s money laundering division leading its criminal investigation, CZ hiring Latham &amp; Watkins, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230426/p9#a230426p9)
- - [Roborock S8 Pro Ultra review: Expensive, but great robot vacuum system](https://appleinsider.com/articles/23/04/26/roborock-s8-pro-ultra-review-expensive-but-great-robot-vacuum-system?utm_medium=rss)<!-- TECH:END -->
+ - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
+ - [Apple plans to expand Health services to include mood &amp; eye tracking, AI coach planned for later](https://appleinsider.com/articles/23/04/25/apple-plans-to-expand-health-services-to-include-mood-eye-tracking-ai-coach-planned-for-later?utm_medium=rss)
+ - [Experts say 5G&#39;s next iteration, 5.5G, could help autonomous cars, drones, and more, but everyday users may not see many applications beyond faster speeds &lpar;Dan Strumpf/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p11#a230426p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
