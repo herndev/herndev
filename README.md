@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - ⏩ [Skydiving baby](http://9gag.com/gag/a1P095b)
- - 👉 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
+ - 💣 [Indian officials are outraged against Germany because a famous german satirical journal published this illustration](http://9gag.com/gag/az2Ggyq)
+ - ⏩ [Tornado](http://9gag.com/gag/a5Xwm9O)
+ - 👉 [There are no mistakes, just happy accidents](http://9gag.com/gag/aoK4EG2)<!-- MEMES:END -->
 
 ---
 
