@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Well, I guess I&#39;m a VR guy now](https://www.pcgamer.com/well-i-guess-im-a-vr-guy-now)
- - [UK Blocks Microsoft Activision Deal Over Game Pass](https://kotaku.com/game-pass-microsoft-activision-blizzard-call-duty-xbox-1850377161)
- - [Warframe’s latest update is the perfect place for new players to join](https://www.polygon.com/23697835/warframe-duviri-paradox-drifter-update-dominus-thrax-roguelite)<!-- GAME:END -->
+ - [Beloved D&amp;D art book Art &amp; Arcana gets a 5th edition sequel](https://www.polygon.com/23697637/dnd-dungeons-dragons-lore-and-legends-art-book-release-date)
+ - [UK regulator blocks $68.7B Microsoft-Activision deal](https://www.polygon.com/23698816/microsoft-activision-blizzard-deal-uk-cma-block)
+ - [Decoding the Rosetta Stone of spy movies](https://www.polygon.com/23689643/fritz-lang-spione-great-spy-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
