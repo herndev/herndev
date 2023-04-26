@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jelly time](http://9gag.com/gag/aL147NM)
- - ⏩ [Tucker Carlson\u2019s final segment before being fired from Fox News](http://9gag.com/gag/aeQZLEB)
- - 👉 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/a9q5g1j)
+ - ⏩ [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 👉 [Tucker Carlson\u2019s final segment before being fired from Fox News](http://9gag.com/gag/aeQZLEB)<!-- MEMES:END -->
 
 ---
 
