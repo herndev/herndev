@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Is Struggling To Sell Xboxes, Again](https://kotaku.com/xbox-series-x-s-sales-microsoft-next-gen-exclusives-1850375665)
- - [Trombone Champ gets truly nasty, adds the hellish Flight of the Bumblebee](https://www.pcgamer.com/trombone-champ-gets-truly-nasty-adds-the-hellish-flight-of-the-bumblebee)
- - [Diablo IV: Respeccing Will Be ‘Essentially Free’ Up To A Point](https://kotaku.com/diablo-4-respec-how-character-level-3-2-1850375564)<!-- GAME:END -->
+ - [Square Enix Releases &#39;AI&#39; Game, Reviews Throw It In The Trash](https://kotaku.com/square-enix-ai-machine-learning-steam-pc-reviews-bad-1850375824)
+ - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)
+ - [Microsoft Is Struggling To Sell Xboxes, Again](https://kotaku.com/xbox-series-x-s-sales-microsoft-next-gen-exclusives-1850375665)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
