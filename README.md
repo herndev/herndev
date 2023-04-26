@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian officials are outraged against Germany because a famous german satirical journal published this illustration](http://9gag.com/gag/az2Ggyq)
- - ⏩ [Tornado](http://9gag.com/gag/a5Xwm9O)
- - 👉 [There are no mistakes, just happy accidents](http://9gag.com/gag/aoK4EG2)<!-- MEMES:END -->
+ - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - ⏩ [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
+ - 👉 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 ---
 
