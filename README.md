@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Engineers added ChatGPT to a robot dog and now it can talk](https://www.pcgamer.com/engineers-added-chatgpt-to-a-robot-dog-and-now-it-can-talk)
  - [Grab $70 off a 1TB 990 Pro SSD in Samsung&#39;s storage sale](https://www.pcgamer.com/grab-dollar70-off-a-1tb-990-pro-ssd-in-samsungs-storage-sale)
- - [Today&#39;s Wordle hint and answer #676: Wednesday, April 26](https://www.pcgamer.com/wordle-today-hint-answer-676-april-26)
- - [Your biggest Honkai: Star Rail questions, answered](https://www.polygon.com/honkai-star-rail-guides/23691617/strongest-characters-genshin-impact-similarities)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #676: Wednesday, April 26](https://www.pcgamer.com/wordle-today-hint-answer-676-april-26)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
