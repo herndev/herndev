@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [UK regulator blocks Microsoft-Activision deal](https://www.polygon.com/23698816/microsoft-activision-blizzard-deal-uk-cma-block)
  - [Hang in there, we&#39;re winning this thing: Nvidia RTX 4060 Ti price now rumoured to have dropped to $399](https://www.pcgamer.com/hang-in-there-were-winning-this-thing-nvidia-rtx-4060-ti-price-now-rumoured-to-have-dropped-to-dollar399)
- - [Experience gaming&#39;s wildest ending for less than $2](https://www.pcgamer.com/experience-gamings-wildest-ending-for-less-than-dollar2)
- - [Honkai: Star Rail shows the value of walking the same path twice](https://www.polygon.com/reviews/23696522/honkai-star-rail-review-release-hoyoverse)<!-- GAME:END -->
+ - [Experience gaming&#39;s wildest ending for less than $2](https://www.pcgamer.com/experience-gamings-wildest-ending-for-less-than-dollar2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
