@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Little Mermaid remake is nearly an hour longer than the original — so what did they add?](https://www.polygon.com/23699372/little-mermaid-2023-runtime-release-bonus-scenes-songs)
- - [MSI just had to unlaunch its RTX 3060 Ti Super 3X because it&#39;s not actually &#39;Super&#39;](https://www.pcgamer.com/msi-just-had-to-unlaunch-its-rtx-3060-ti-super-3x-because-its-not-actually-super)
- - [Everyone is lining up to talk to a trash can in Honkai: Star Rail](https://www.pcgamer.com/everyone-is-lining-up-to-talk-to-a-trash-can-in-honkai-star-rail)<!-- GAME:END -->
+ - [The Flash premiere gets glowing reactions, but Ezra Miller questions linger](https://www.polygon.com/23699210/flash-ezra-miller-controversy-reactions-movie-story)
+ - [Let Me Solo Her Finishes Brutal Malenia-Only Run Of Elden Ring](https://kotaku.com/elden-ring-let-me-solo-her-youtube-malenia-only-mod-pc-1850380138)
+ - [Bugsnax studio releases four &#39;smaller side projects&#39; on Steam and they&#39;re all free](https://www.pcgamer.com/bugsnax-studio-releases-four-smaller-side-projects-on-steam-and-theyre-all-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
