@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights Six Months Later: Better, But Still Mid](https://kotaku.com/gotham-knights-batman-batgirl-nightwing-dlc-wb-games-1850378621)
- - [Can The Switch Handle Zelda: Tears Of The Kingdom? Here’s What People Are Saying](https://kotaku.com/zelda-totk-switch-performance-framerate-tears-kingdom-1850378556)
- - [New World and Lost Ark players aren&#39;t happy as Amazon closes forums in favor of Discord](https://www.pcgamer.com/new-world-and-lost-ark-players-arent-happy-as-amazon-closes-forums-in-favor-of-discord)<!-- GAME:END -->
+ - [Enter The Duviri Paradox Today on Xbox with Warframe’s Newest Free Expansion](https://news.xbox.com/en-us/2023/04/26/enter-the-duviri-paradox-today-with-warframe-free-expansion/)
+ - [There is a world of movies continuing Evil Dead’s splattery legacy](https://www.polygon.com/what-to-watch/23696457/horror-movies-like-evil-dead-around-world)
+ - [For Mother’s Day, here are 19 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
