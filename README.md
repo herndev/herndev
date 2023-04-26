@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New netflix show looks dope](http://9gag.com/gag/ajVLbbR)
- - ⏩ [The face behind one of the most famous song intro in history](http://9gag.com/gag/aGEBP97)
- - 👉 [Self-made success story](http://9gag.com/gag/aEqAeY9)<!-- MEMES:END -->
+ - 💣 [Jelly time](http://9gag.com/gag/aL147NM)
+ - ⏩ [Tucker Carlson\u2019s final segment before being fired from Fox News](http://9gag.com/gag/aeQZLEB)
+ - 👉 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
 
 ---
 
