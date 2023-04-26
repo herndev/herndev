@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Asus&#39; ROG Ally, a handheld Windows gaming machine launching May 11 that can be a strong Steam Deck competitor depending on the price and software &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230425/p46#a230425p46)
- - [Beats Studio Buds+ briefly appeared on Amazon with transparent case, available May 18](https://appleinsider.com/articles/23/04/26/beats-studio-buds-appear-on-amazon-with-transparent-case-available-may-18?utm_medium=rss)
- - [Honda’s making a bigger electric SUV to follow the Prologue — atop its own platforms](https://www.theverge.com/2023/4/25/23698317/honda-ev-e-architechture-midsize-larger-suv-2025-prologue-zdx)<!-- TECH:END -->
+ - [India&#39;s commerce minister urges e-commerce companies to use their marquee apps to join the Open Network for Digital Commerce or face exclusion from the network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230426/p1#a230426p1)
+ - [Tinder is implementing video verification to further curb creepy scammers](https://www.theverge.com/2023/4/26/23698503/tinder-video-selfie-verification-security)
+ - [Hands-on with Asus&#39; ROG Ally, a handheld Windows gaming machine launching May 11 that can be a strong Steam Deck competitor depending on the price and software &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230425/p46#a230425p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
