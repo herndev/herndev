@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music is officially rolling out podcasts](https://www.theverge.com/2023/4/27/23701093/youtube-music-podcasts-rollout)
- - [Meta shares are up 170% since bottoming out in November 2022, despite virtually no revenue growth, as investors focus on dramatic cost-cutting efforts &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230427/p34#a230427p34)
- - [Clubhouse plans to lay off 50%+ of its employees as it &quot;resets&quot; the company despite claiming to have &quot;years of runway&quot;; Clubhouse had ~100 staff in October 2022 &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230427/p33#a230427p33)<!-- TECH:END -->
+ - [Microsoft’s Activision deal is on life support because cloud gaming still sucks](https://www.theverge.com/2023/4/27/23699879/microsoft-activision-blizzard-merger-cma-cloud-gaming-loss-editorial)
+ - [Now you can pay a monthly fee to un-nerf your electric Mercedes](https://www.theverge.com/2023/4/27/23701009/mercedes-benz-eqs-eqe-monthly-subcription-acceleration-increase-unlock-paywall-pricing)
+ - [New Pixel 7a leak shows the phone in Coral for the first time](https://www.androidauthority.com/pixel-7a-color-3318119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
