@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anonymous developers claim fraud, scams &amp; clones breeze by App Store review](https://appleinsider.com/articles/23/04/27/anonymous-developers-claim-fraud-scams-clones-breeze-by-app-store-review?utm_medium=rss)
- - [LG’s new ‘SuperSlim’ Gram laptop has a 15.6-inch OLED display](https://www.theverge.com/2023/4/26/23699528/lg-gram-superslim-ultraslim-oled-15-inch-laptop)
- - [Harvey, which builds generative AI tools for law firms, raised a $21M Series A led by Sequoia with participation from the OpenAI Startup Fund and others &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/230426/p31#a230426p31)<!-- TECH:END -->
+ - [Samsung reports Q1 operating profit down 95% YoY to ~$478.6M, its lowest since 2009, and revenue down 18% YoY to ~$47.6B; its chip division reported ~$3.4B loss &lpar;Reuters&rpar;](http://www.techmeme.com/230426/p33#a230426p33)
+ - [Mina Lefevre, Meta&#39;s head of development and programming, to exit amid layoffs, as Meta shutters Facebook Watch Originals and ends its last show, Red Table Talk &lpar;Deadline&rpar;](http://www.techmeme.com/230426/p32#a230426p32)
+ - [Anonymous developers claim fraud, scams &amp; clones breeze by App Store review](https://appleinsider.com/articles/23/04/27/anonymous-developers-claim-fraud-scams-clones-breeze-by-app-store-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
