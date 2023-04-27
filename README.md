@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
- - 👉 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)<!-- MEMES:END -->
+ - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - 👉 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
 
 ---
 
