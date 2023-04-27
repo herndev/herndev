@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $999 iMac 24-inch deal is back, save $500 on the 8-core GPU spec](https://appleinsider.com/articles/23/04/26/amazons-999-imac-24-inch-deal-is-back-save-500-on-the-8-core-gpu-spec?utm_medium=rss)
- - [London-based TympaHealth, which makes hardware built around smartphones to run hearing tests, raised a $23M Series A led by Octopus Ventures &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230427/p14#a230427p14)
- - [Transformers: Rise of the Beasts’ latest trailer is here to maximize hype levels](https://www.theverge.com/23700489/transformers-rise-of-the-beasts-trailer-unicron-arcee)<!-- TECH:END -->
+ - [My week with Dyson’s absurd wearable air purifier](https://www.theverge.com/23698352/dyson-zone-review-headphones-wearables-air-purifier)
+ - [Dropbox CEO says the company plans to lay off 16% of staff, or ~500 employees, citing slowing growth and because &quot;the AI era of computing has finally arrived&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230427/p16#a230427p16)
+ - [Apple is working on USB-C EarPods for the iPhone 15](https://appleinsider.com/articles/23/04/27/apple-is-working-on-usb-c-earpods-for-the-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
