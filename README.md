@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - ⏩ [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
+ - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
  - 👉 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
 
 ---
