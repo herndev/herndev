@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung extends 4-year update policy to one of its cheapest A series phones](https://www.androidauthority.com/samsung-galaxy-a24-four-years-android-updates-3317791/)
- - [After Climate Change, What Does a &#39;Livable Future&#39; Look Like?     - CNET](https://www.cnet.com/science/climate/after-climate-change-what-does-a-livable-future-look-like/#ftag=CAD590a51e)
- - [Law experts say Twitter is breaching US laws prohibiting false advertising by implying that some celebrities paid for Blue when they haven&#39;t paid for it &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230427/p1#a230427p1)<!-- TECH:END -->
+ - [A California judge tentatively rules Elon Musk must testify about his Autopilot statements, after Musk&#39;s lawyers argued he is a subject of many deepfake videos &lpar;Reuters&rpar;](http://www.techmeme.com/230427/p3#a230427p3)
+ - [Sources: DraftKings plans to launch a free, ad-supported video streaming service with videos of podcasts the company sponsors, expected to debut in coming weeks &lpar;Gerry Smith/Bloomberg&rpar;](http://www.techmeme.com/230427/p2#a230427p2)
+ - [Samsung extends 4-year update policy to one of its cheapest A series phones](https://www.androidauthority.com/samsung-galaxy-a24-four-years-android-updates-3317791/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
