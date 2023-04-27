@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Pixel 7a spec leak fills in all the blanks](https://www.androidauthority.com/google-pixel-7a-full-spec-leak-3317820/)
  - [A California judge tentatively rules Elon Musk must testify about his Autopilot statements, after Musk&#39;s lawyers argued he is a subject of many deepfake videos &lpar;Reuters&rpar;](http://www.techmeme.com/230427/p3#a230427p3)
- - [Sources: DraftKings plans to launch a free, ad-supported video streaming service with videos of podcasts the company sponsors, expected to debut in coming weeks &lpar;Gerry Smith/Bloomberg&rpar;](http://www.techmeme.com/230427/p2#a230427p2)
- - [Samsung extends 4-year update policy to one of its cheapest A series phones](https://www.androidauthority.com/samsung-galaxy-a24-four-years-android-updates-3317791/)<!-- TECH:END -->
+ - [Sources: DraftKings plans to launch a free, ad-supported video streaming service with videos of podcasts the company sponsors, expected to debut in coming weeks &lpar;Gerry Smith/Bloomberg&rpar;](http://www.techmeme.com/230427/p2#a230427p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
