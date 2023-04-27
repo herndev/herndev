@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - ⏩ [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
+ - 💣 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
+ - ⏩ [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
+ - 👉 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
 
 ---
 
