@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dril is now on Bluesky](https://www.theverge.com/2023/4/27/23701021/dril-bluesky-twitter)
- - [Washington becomes the first US state to adopt sweeping safeguards for health data, including location records that could reveal visits to abortion clinics &lpar;Andrea Vittorio/Bloomberg Law&rpar;](http://www.techmeme.com/230427/p24#a230427p24)
- - [Microsoft’s mice, keyboards, and webcams are being discontinued in favor of Surface accessories](https://www.theverge.com/2023/4/27/23700998/microsoft-keyboard-mouse-webcam-discontinued-surface-brand)<!-- TECH:END -->
+ - [Microsoft discontinues Microsoft-branded mice, keyboards, and webcams, to focus on its Surface brand for PC accessories; Microsoft&#39;s first mouse debuted in 1983 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230427/p27#a230427p27)
+ - [Microsoft is done with major Windows 10 updates](https://www.theverge.com/2023/4/27/23701134/microsoft-windows-10-updates-end-of-support)
+ - [Coinbase offers a fiery response to the SEC&#39;s Wells notice from March 2023, saying enforcement action would present &quot;major&quot; risks to the SEC&#39;s regulatory model &lpar;CNBC&rpar;](http://www.techmeme.com/230427/p26#a230427p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
