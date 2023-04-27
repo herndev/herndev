@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 👉 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
+ - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - ⏩ [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)
+ - 👉 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)<!-- MEMES:END -->
 
 ---
 
