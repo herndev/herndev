@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: London modders just released a massive WWI-era gun can try in Fallout 4](https://www.pcgamer.com/fallout-london-modders-just-released-a-massive-wwi-era-gun-can-try-in-fallout-4)
- - [Here’s Your Complete Guide To Dead Island 2 Multiplayer](https://kotaku.com/dead-island-2-crossplay-ps5-xbox-multiplayer-pc-co-op-1850383378)
- - [Rihanna is Smurfette](https://www.polygon.com/23700994/rihanna-smurfette-smurfs-movie)<!-- GAME:END -->
+ - [No Two Pikachu Are Alike In This Awesome New Pokémon Plushie Line](https://kotaku.com/pokemon-center-my-pikachu-plush-prices-japan-earth-day-1850383485)
+ - [Brigitte Shows Overwatch 2 Still Doesn’t Fully Get Body Diversity](https://kotaku.com/overwatch-2-hero-tier-brigitte-support-representation-1850384056)
+ - [Redfall&#39;s PC system requirements revealed, but they&#39;re lacking a pretty big detail](https://www.pcgamer.com/redfall-pc-system-requirements-unlock-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
