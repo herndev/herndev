@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press the button](http://9gag.com/gag/aWGnKw2)
- - ⏩ [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
- - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - 👉 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)<!-- MEMES:END -->
 
 ---
 
