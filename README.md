@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - 💣 [Being blind in public.](http://9gag.com/gag/aBdPQr2)
  - ⏩ [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 👉 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)<!-- MEMES:END -->
+ - 👉 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 ---
 
