@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law experts say Twitter is breaching US laws prohibiting false advertising by implying that some celebrities paid for Blue when they haven&#39;t paid for it &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230427/p1#a230427p1)
- - [Japan plans to provide an additional $1.94B in assistance to Rapidus, a government-backed chip consortium that is working with IBM to mass produce 2nm chips &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230426/p35#a230426p35)
- - [Apple Hearing Study 2023 update: 1 in 3 adult Americans exposed to excess noise](https://appleinsider.com/articles/23/04/27/apple-hearing-study-2023-update-1-in-3-adult-americans-exposed-to-excess-noise?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung extends 4-year update policy to one of its cheapest A series phones](https://www.androidauthority.com/samsung-galaxy-a24-four-years-android-updates-3317791/)
+ - [After Climate Change, What Does a &#39;Livable Future&#39; Look Like?     - CNET](https://www.cnet.com/science/climate/after-climate-change-what-does-a-livable-future-look-like/#ftag=CAD590a51e)
+ - [Law experts say Twitter is breaching US laws prohibiting false advertising by implying that some celebrities paid for Blue when they haven&#39;t paid for it &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230427/p1#a230427p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
