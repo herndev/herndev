@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deceive Inc. review](https://www.pcgamer.com/deceive-inc-review)
- - [Crime Boss: Rockay City Is So Bad The Culture Has Rejected It Entirely](https://kotaku.com/crime-boss-rockay-city-impressions-bad-terrible-shit-pc-1850297022)
- - [Taika Waititi’s soccer movie stars Michael Fassbender as a washed up coach sent to American Samoa](https://www.polygon.com/23699802/next-goal-wins-trailer-taika-waititi-soccer-movie-release-date)<!-- GAME:END -->
+ - [In this 4X strategy city builder you chain floating islands together to build an empire](https://www.pcgamer.com/in-this-4x-strategy-city-builder-you-chain-floating-islands-together-to-build-an-empire)
+ - [This could be the end for Microsoft&#39;s bid to buy Activision Blizzard, but some analysts think it still has a chance](https://www.pcgamer.com/microsoft-activision-deal-appeal-analysis)
+ - [Deceive Inc. review](https://www.pcgamer.com/deceive-inc-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
