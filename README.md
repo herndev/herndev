@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - ⏩ [Trying to figure out why??](http://9gag.com/gag/ay2W51r)
- - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 💣 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - ⏩ [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
+ - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 ---
 
