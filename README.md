@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s diversity efforts are &#39;selfish &amp; practical&#39; says head of developer relations](https://appleinsider.com/articles/23/04/27/apples-diversity-efforts-are-selfish-practical-says-head-of-developer-relations?utm_medium=rss)
- - [Tesla indeed violated labor laws in Florida, US labor board rules](https://www.theverge.com/2023/4/27/23700463/tesla-nlrb-labor-violation-ruling-orlando-florida)
- - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
+ - [Dril is now on Bluesky](https://www.theverge.com/2023/4/27/23701021/dril-bluesky-twitter)
+ - [Washington becomes the first US state to adopt sweeping safeguards for health data, including location records that could reveal visits to abortion clinics &lpar;Andrea Vittorio/Bloomberg Law&rpar;](http://www.techmeme.com/230427/p24#a230427p24)
+ - [Microsoft’s mice, keyboards, and webcams are being discontinued in favor of Surface accessories](https://www.theverge.com/2023/4/27/23700998/microsoft-keyboard-mouse-webcam-discontinued-surface-brand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
