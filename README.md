@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it plans to add E2EE to Google Authenticator &quot;down the line&quot;, after researchers warned that its new feature to sync 2FA codes is not E2E encrypted &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230426/p30#a230426p30)
  - [Meta says time spent on Instagram grew 24%+ since Reels launched thanks to AI recommendations, and expects Reels to be revenue-neutral by year end or early 2024 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230426/p29#a230426p29)
- - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
- - [Lookout agrees to sell its consumer mobile security business to F-Secure in a deal valued at around $223M, transitioning into a &quot;pure-play enterprise company&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230426/p28#a230426p28)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
