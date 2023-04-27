@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - ⏩ [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - ⏩ [Trying to figure out why??](http://9gag.com/gag/ay2W51r)
+ - 👉 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
 
 ---
 
