@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Special iPadOS 17 version for bigger screens rumor makes no sense](https://appleinsider.com/articles/23/04/27/special-ipados-17-version-for-bigger-screens-rumor-makes-no-sense?utm_medium=rss)
- - [A profile of ASML, the most valuable tech company in Europe, as the US-China chip war escalates; ASML&#39;s next apartment-sized machine ships in 2025 for $380M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p8#a230427p8)
- - [Samsung wants Samsung to start using Samsung chips in Galaxy flagships again](https://www.androidauthority.com/samsung-galaxy-s24-exynos-variant-3317849/)<!-- TECH:END -->
+ - [Sources: Germany is in talks to limit the export of chemicals used to make advanced chips to China, seeking to join US and EU allies in closing ranks on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p11#a230427p11)
+ - [Geometric Goods AirTag travel wallet: More stylish than secure](https://appleinsider.com/articles/23/04/27/geometric-goods-airtag-travel-wallet-more-stylish-than-secure?utm_medium=rss)
+ - [Apple reports European MAUs for its App Stores: iOS has 101M, iPadOS has 23M, macOS has 6M, tvOS has 1M, and watchOS, Books, and Podcasts have under 1M each &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230427/p10#a230427p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
