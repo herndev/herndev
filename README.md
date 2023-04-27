@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wow, one of the PS2&#39;s great puzzle games just came out on Steam](https://www.pcgamer.com/wow-one-of-the-ps2s-great-puzzle-games-just-came-out-on-steam)
- - [No Two Pikachu Are Alike In This Awesome New Pokémon Plushie Line](https://kotaku.com/pokemon-center-my-pikachu-plush-prices-japan-earth-day-1850383485)
- - [Dotemu&#39;s next classic resurrection is the secret best Might &amp; Magic game](https://www.pcgamer.com/dotemus-next-classic-resurrection-is-the-secret-best-might-and-magic-game)<!-- GAME:END -->
+ - [Fallout: London modders just released a massive WWI-era gun can try in Fallout 4](https://www.pcgamer.com/fallout-london-modders-just-released-a-massive-wwi-era-gun-can-try-in-fallout-4)
+ - [Here’s Your Complete Guide To Dead Island 2 Multiplayer](https://kotaku.com/dead-island-2-crossplay-ps5-xbox-multiplayer-pc-co-op-1850383378)
+ - [Rihanna is Smurfette](https://www.polygon.com/23700994/rihanna-smurfette-smurfs-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
