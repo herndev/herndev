@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taika Waititi’s soccer movie stars Michael Fassbender as a washed up coach sent to American Samoa](https://www.polygon.com/23699802/next-goal-wins-trailer-taika-waititi-soccer-movie-release-date)
- - [The Flash premiere gets glowing reactions, but Ezra Miller questions linger](https://www.polygon.com/23699210/flash-ezra-miller-controversy-reactions-movie-story)
- - [Let Me Solo Her Finishes Brutal Malenia-Only Run Of Elden Ring](https://kotaku.com/elden-ring-let-me-solo-her-youtube-malenia-only-mod-pc-1850380138)<!-- GAME:END -->
+ - [Deceive Inc. review](https://www.pcgamer.com/deceive-inc-review)
+ - [Crime Boss: Rockay City Is So Bad The Culture Has Rejected It Entirely](https://kotaku.com/crime-boss-rockay-city-impressions-bad-terrible-shit-pc-1850297022)
+ - [Taika Waititi’s soccer movie stars Michael Fassbender as a washed up coach sent to American Samoa](https://www.polygon.com/23699802/next-goal-wins-trailer-taika-waititi-soccer-movie-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
