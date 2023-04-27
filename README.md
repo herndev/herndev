@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation®5 FINAL FANTASY XVI Bundle Available from 22nd June 2023](https://blog.playstation.com/2023/04/26/20230426-ff16/)
- - [&lpar;For Southeast Asia&rpar; PlayStation®5 FINAL FANTASY XVI Bundle Available from 22nd June 2023](https://blog.playstation.com/2023/04/26/20230426-ff16/)
- - [Today&#39;s Wordle hint and answer #677: Thursday, April 27](https://www.pcgamer.com/wordle-today-hint-answer-677-april-27)<!-- GAME:END -->
+ - [Crucial 32GB &lpar;2x 16GB&rpar; DDR5-5600](https://www.pcgamer.com/crucial-32gb-ddr5-5600-review-performance)
+ - [PC Gamer UK June issue on sale now: Diablo 4](https://www.pcgamer.com/pc-gamer-uk-june-issue-on-sale-now-diablo-4)
+ - [&lpar;For Southeast Asia&rpar; PlayStation®5 FINAL FANTASY XVI Bundle Available from 22nd June 2023](https://blog.playstation.com/2023/04/26/20230426-ff16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
