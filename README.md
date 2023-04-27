@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
- - ⏩ [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - 👉 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
+ - 💣 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
+ - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
+ - 👉 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
 
 ---
 
