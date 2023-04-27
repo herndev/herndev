@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
- - ⏩ [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - 👉 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
+ - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - ⏩ [Cow milk](http://9gag.com/gag/aqeQZxP)
+ - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 ---
 
