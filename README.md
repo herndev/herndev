@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Say what you want about today&#39;s graphics cards, you can at least buy whichever one you want](https://www.pcgamer.com/say-what-you-want-about-todays-graphics-cards-you-can-at-least-buy-whichever-one-you-want)
- - [Razer BlackShark V2 Pro 2023 Edition](https://www.pcgamer.com/razer-blackshark-v2-pro-2023-review)
- - [Diablo IV&#39;s Mounts Are Off Limits When You First Start The Game](https://kotaku.com/diablo-4-mounts-stress-test-may-12-server-slam-blizzard-1850379488)<!-- GAME:END -->
+ - [Wow, one of the PS2&#39;s great puzzle games just came out on Steam](https://www.pcgamer.com/wow-one-of-the-ps2s-great-puzzle-games-just-came-out-on-steam)
+ - [No Two Pikachu Are Alike In This Awesome New Pokémon Plushie Line](https://kotaku.com/pokemon-center-my-pikachu-plush-prices-japan-earth-day-1850383485)
+ - [Dotemu&#39;s next classic resurrection is the secret best Might &amp; Magic game](https://www.pcgamer.com/dotemus-next-classic-resurrection-is-the-secret-best-might-and-magic-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
