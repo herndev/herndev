@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crucial 32GB &lpar;2x 16GB&rpar; DDR5-5600](https://www.pcgamer.com/crucial-32gb-ddr5-5600-review-performance)
- - [PC Gamer UK June issue on sale now: Diablo 4](https://www.pcgamer.com/pc-gamer-uk-june-issue-on-sale-now-diablo-4)
- - [&lpar;For Southeast Asia&rpar; PlayStation®5 FINAL FANTASY XVI Bundle Available from 22nd June 2023](https://blog.playstation.com/2023/04/26/20230426-ff16/)<!-- GAME:END -->
+ - [How to complete the Fleeting Lights quest in Honkai: Star Rail](https://www.pcgamer.com/honkai-star-rail-fleeting-lights-forgotten-hall)
+ - [All it takes is a €50 mod to keep this AMD GPU chill and in complete silence](https://www.pcgamer.com/all-it-takes-is-a-euro50-mod-to-keep-this-amd-gpu-chill-and-in-complete-silence)
+ - [Alien Isolation mod tools deliver Ridley Scott&#39;s original vision of a Xenomorph stalking Dust 2](https://www.pcgamer.com/alien-isolation-mod-tools-deliver-ridley-scotts-original-vision-of-a-xenomorph-stalking-dust-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
