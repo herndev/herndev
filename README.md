@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of 2022’s best mystery games is getting an expansion in May](https://www.theverge.com/2023/4/27/23698454/the-case-of-the-golden-idol-spider-of-lanka-dlc-expansion-release-date)
- - [NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI](https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/)
- - [SEC filing: Lyft confirms it will lay off 1,072 employees, or roughly 26% of its corporate workforce, and not hire for an additional 250 positions &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230427/p22#a230427p22)<!-- TECH:END -->
+ - [Apple&#39;s diversity efforts are &#39;selfish &amp; practical&#39; says head of developer relations](https://appleinsider.com/articles/23/04/27/apples-diversity-efforts-are-selfish-practical-says-head-of-developer-relations?utm_medium=rss)
+ - [Tesla indeed violated labor laws in Florida, US labor board rules](https://www.theverge.com/2023/4/27/23700463/tesla-nlrb-labor-violation-ruling-orlando-florida)
+ - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
