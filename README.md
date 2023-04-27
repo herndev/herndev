@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A54 5G review: Who needs a Galaxy S23 FE?](https://www.androidauthority.com/samsung-galaxy-a54-5g-review-3312781/)
- - [GM created its own open-source software protocol and wants its competitors to use it](https://www.theverge.com/2023/4/27/23699539/gm-open-source-software-uprotocol-eclipse)
- - [GDC is exorbitantly expensive — but still vital for many game developers](https://www.theverge.com/2023/4/27/23679081/gdc-2023-price-affordability-game-developers-conference)<!-- TECH:END -->
+ - [Amazon&#39;s $999 iMac 24-inch deal is back, save $500 on the 8-core GPU spec](https://appleinsider.com/articles/23/04/26/amazons-999-imac-24-inch-deal-is-back-save-500-on-the-8-core-gpu-spec?utm_medium=rss)
+ - [London-based TympaHealth, which makes hardware built around smartphones to run hearing tests, raised a $23M Series A led by Octopus Ventures &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230427/p14#a230427p14)
+ - [Transformers: Rise of the Beasts’ latest trailer is here to maximize hype levels](https://www.theverge.com/23700489/transformers-rise-of-the-beasts-trailer-unicron-arcee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
