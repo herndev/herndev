@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - ⏩ [Cow milk](http://9gag.com/gag/aqeQZxP)
- - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
+ - 💣 [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
+ - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
 
 ---
 
