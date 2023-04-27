@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In this 4X strategy city builder you chain floating islands together to build an empire](https://www.pcgamer.com/in-this-4x-strategy-city-builder-you-chain-floating-islands-together-to-build-an-empire)
- - [This could be the end for Microsoft&#39;s bid to buy Activision Blizzard, but some analysts think it still has a chance](https://www.pcgamer.com/microsoft-activision-deal-appeal-analysis)
- - [Deceive Inc. review](https://www.pcgamer.com/deceive-inc-review)<!-- GAME:END -->
+ - [March of the Machine, Magic&#39;s latest set, is great for some formats but not others](https://www.pcgamer.com/march-of-the-machine-magics-latest-set-is-great-for-some-formats-but-not-others)
+ - [This AI-made pizza ad is truly messed-up](https://www.pcgamer.com/this-ai-made-pizza-ad-is-truly-messed-up)
+ - [Get Humankind&#39;s new DLC free for a limited time](https://www.pcgamer.com/get-humankinds-new-dlc-free-for-a-limited-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
