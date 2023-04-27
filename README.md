@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Designer is being integrated into Edge for AI-generated social content](https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools)
- - [The next Forza will help blind players race by listening to ‘beeps and boops’](https://www.theverge.com/2023/4/27/23699143/forza-motorsport-blind-driving-assists-audio-cues-accessibility)
- - [Meta’s avatars are getting new body shapes and improved hair](https://www.theverge.com/2023/4/27/23700723/meta-avatars-body-shapes-hair-clothes-texture-eyes-legs)<!-- TECH:END -->
+ - [One of 2022’s best mystery games is getting an expansion in May](https://www.theverge.com/2023/4/27/23698454/the-case-of-the-golden-idol-spider-of-lanka-dlc-expansion-release-date)
+ - [NSA Cybersecurity Director Says ‘Buckle Up’ for Generative AI](https://www.wired.com/story/nsa-rob-joyce-chatgpt-security/)
+ - [SEC filing: Lyft confirms it will lay off 1,072 employees, or roughly 26% of its corporate workforce, and not hire for an additional 250 positions &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230427/p22#a230427p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
