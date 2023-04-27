@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft discontinues Microsoft-branded mice, keyboards, and webcams, to focus on its Surface brand for PC accessories; Microsoft&#39;s first mouse debuted in 1983 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230427/p27#a230427p27)
- - [Microsoft is done with major Windows 10 updates](https://www.theverge.com/2023/4/27/23701134/microsoft-windows-10-updates-end-of-support)
- - [Coinbase offers a fiery response to the SEC&#39;s Wells notice from March 2023, saying enforcement action would present &quot;major&quot; risks to the SEC&#39;s regulatory model &lpar;CNBC&rpar;](http://www.techmeme.com/230427/p26#a230427p26)<!-- TECH:END -->
+ - [YouTube Music is officially rolling out podcasts](https://www.theverge.com/2023/4/27/23701093/youtube-music-podcasts-rollout)
+ - [Meta shares are up 170% since bottoming out in November 2022, despite virtually no revenue growth, as investors focus on dramatic cost-cutting efforts &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230427/p34#a230427p34)
+ - [Clubhouse plans to lay off 50%+ of its employees as it &quot;resets&quot; the company despite claiming to have &quot;years of runway&quot;; Clubhouse had ~100 staff in October 2022 &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230427/p33#a230427p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
