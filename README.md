@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
- - ⏩ [Dutch opera singer Henk Poort - The Sound of Silence](http://9gag.com/gag/a7qV5om)
- - 👉 [This is money dog, upvote and money will find you in the next 24 hours.](http://9gag.com/gag/ay26y9b)<!-- MEMES:END -->
+ - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - ⏩ [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
 
 ---
 
