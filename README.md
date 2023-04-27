@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for May 2023](https://news.xbox.com/en-us/2023/04/27/new-games-with-gold-for-may-2023/)
- - [Age of Wonders 4 lets you build high-fantasy civilizations — at a cost](https://www.polygon.com/reviews/23699360/age-of-wonders-4-review-races-rpg-paradox-interactive)
- - [Here we go again: Counter-Strike 2 has a Half-Life reference](https://www.pcgamer.com/here-we-go-again-counter-strike-2-has-a-half-life-reference)<!-- GAME:END -->
+ - [Armored Core VI Fires of Rubicon Combines FromSoftware’s Souls Experience with the Franchise’s Mech History](https://news.xbox.com/en-us/2023/04/27/armored-core-6-gameplay-preview/)
+ - [Respawn CEO would &#39;love&#39; to make Titanfall 3, but &#39;It has to be the right thing&#39;](https://www.pcgamer.com/respawn-ceo-would-love-to-make-titanfall-3-but-it-has-to-be-the-right-thing)
+ - [Meta promises next-gen Quest VR headset coming at price &#39;accessible for lots of people&#39;](https://www.pcgamer.com/meta-promises-next-gen-quest-vr-headset-coming-at-price-accessible-for-lots-of-people)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
