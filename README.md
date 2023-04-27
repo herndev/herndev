@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My week with Dyson’s absurd wearable air purifier](https://www.theverge.com/23698352/dyson-zone-review-headphones-wearables-air-purifier)
- - [Dropbox CEO says the company plans to lay off 16% of staff, or ~500 employees, citing slowing growth and because &quot;the AI era of computing has finally arrived&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230427/p16#a230427p16)
- - [Apple is working on USB-C EarPods for the iPhone 15](https://appleinsider.com/articles/23/04/27/apple-is-working-on-usb-c-earpods-for-the-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Designer is being integrated into Edge for AI-generated social content](https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools)
+ - [The next Forza will help blind players race by listening to ‘beeps and boops’](https://www.theverge.com/2023/4/27/23699143/forza-motorsport-blind-driving-assists-audio-cues-accessibility)
+ - [Meta’s avatars are getting new body shapes and improved hair](https://www.theverge.com/2023/4/27/23700723/meta-avatars-body-shapes-hair-clothes-texture-eyes-legs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
