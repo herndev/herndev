@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Activision deal is on life support because cloud gaming still sucks](https://www.theverge.com/2023/4/27/23699879/microsoft-activision-blizzard-merger-cma-cloud-gaming-loss-editorial)
- - [Now you can pay a monthly fee to un-nerf your electric Mercedes](https://www.theverge.com/2023/4/27/23701009/mercedes-benz-eqs-eqe-monthly-subcription-acceleration-increase-unlock-paywall-pricing)
- - [New Pixel 7a leak shows the phone in Coral for the first time](https://www.androidauthority.com/pixel-7a-color-3318119/)<!-- TECH:END -->
+ - [The Hunger Games prequel film gets its first trailer](https://www.theverge.com/2023/4/27/23701502/the-hunger-games-the-ballad-of-songbirds-and-snakes-trailer)
+ - [Cloudflare reports Q1 revenue up 37% YoY to $290.2M vs. $290.8M est., a $38.1M net loss, and revenue guidance for Q2 and FY 2023 below estimates; NET drops 20%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230427/p37#a230427p37)
+ - [Toronto-based Practice Better, which makes client management software for health and wellness professionals, raised $27M led by Five Elms Capital &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/230427/p36#a230427p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
