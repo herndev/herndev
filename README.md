@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan plans to provide an additional $1.94B in assistance to Rapidus, a government-backed chip consortium that is working with IBM to mass produce 2nm chips &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230426/p35#a230426p35)
  - [Apple Hearing Study 2023 update: 1 in 3 adult Americans exposed to excess noise](https://appleinsider.com/articles/23/04/27/apple-hearing-study-2023-update-1-in-3-adult-americans-exposed-to-excess-noise?utm_medium=rss)
- - [Katmai, which is developing browser-based 3D video conferencing tech for virtual office spaces, raised a $22M Series A led by Starr Insurance Companies &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230426/p34#a230426p34)
- - [Leak: The Asus ROG Ally will cost $699.99 with an AMD Z1 Extreme](https://www.theverge.com/23700094/asus-rog-ally-price-amd-z1-extreme)<!-- TECH:END -->
+ - [Katmai, which is developing browser-based 3D video conferencing tech for virtual office spaces, raised a $22M Series A led by Starr Insurance Companies &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230426/p34#a230426p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
