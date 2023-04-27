@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - ⏩ [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)
- - 👉 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)<!-- MEMES:END -->
+ - 💣 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
+ - ⏩ [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 👉 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
 
 ---
 
