@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
- - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
- - 👉 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
+ - ⏩ [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - 👉 [Feeling old yet?](http://9gag.com/gag/awZLbRy)<!-- MEMES:END -->
 
 ---
 
