@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI Fires of Rubicon Combines FromSoftware’s Souls Experience with the Franchise’s Mech History](https://news.xbox.com/en-us/2023/04/27/armored-core-6-gameplay-preview/)
- - [Respawn CEO would &#39;love&#39; to make Titanfall 3, but &#39;It has to be the right thing&#39;](https://www.pcgamer.com/respawn-ceo-would-love-to-make-titanfall-3-but-it-has-to-be-the-right-thing)
- - [Meta promises next-gen Quest VR headset coming at price &#39;accessible for lots of people&#39;](https://www.pcgamer.com/meta-promises-next-gen-quest-vr-headset-coming-at-price-accessible-for-lots-of-people)<!-- GAME:END -->
+ - [Free Play Days – Hell Let Loose, Leap, Crusader Kings III, and Don’t Starve Together](https://news.xbox.com/en-us/2023/04/27/free-play-days-hell-let-loose-leap-crusader-kings-iii-and-dont-starve-together/)
+ - [Which suspect to pick in the Honkai: Star Rail Hook quest](https://www.pcgamer.com/honkai-star-rail-hook-quest-who-to-pick)
+ - [Armored Core 6 gameplay trailer reveals August release date](https://www.pcgamer.com/armored-core-6-gameplay-trailer-reveals-august-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
