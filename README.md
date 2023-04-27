@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rusted Moss is Hollow Knight with a bungee cord](https://www.polygon.com/reviews/23699200/rusted-moss-review-impressions-metroidvania-hollow-knight)
- - [Gobsmacked Microsoft president says UK&#39;s regulator blocking the Activision deal is company&#39;s &#39;darkest day&#39;](https://www.pcgamer.com/gobsmacked-microsoft-president-says-uks-regulator-blocking-the-activision-deal-is-companys-darkest-day)
- - [This randomizer mod turns the best Elder Scrolls game into a beautiful fever dream](https://www.pcgamer.com/this-randomizer-mod-turns-the-best-elder-scrolls-game-into-a-beautiful-fever-dream)<!-- GAME:END -->
+ - [Say what you want about today&#39;s graphics cards, you can at least buy whichever one you want](https://www.pcgamer.com/say-what-you-want-about-todays-graphics-cards-you-can-at-least-buy-whichever-one-you-want)
+ - [Razer BlackShark V2 Pro 2023 Edition](https://www.pcgamer.com/razer-blackshark-v2-pro-2023-review)
+ - [Diablo IV&#39;s Mounts Are Off Limits When You First Start The Game](https://kotaku.com/diablo-4-mounts-stress-test-may-12-server-slam-blizzard-1850379488)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
