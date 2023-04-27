@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Fleeting Lights quest in Honkai: Star Rail](https://www.pcgamer.com/honkai-star-rail-fleeting-lights-forgotten-hall)
- - [All it takes is a €50 mod to keep this AMD GPU chill and in complete silence](https://www.pcgamer.com/all-it-takes-is-a-euro50-mod-to-keep-this-amd-gpu-chill-and-in-complete-silence)
- - [Alien Isolation mod tools deliver Ridley Scott&#39;s original vision of a Xenomorph stalking Dust 2](https://www.pcgamer.com/alien-isolation-mod-tools-deliver-ridley-scotts-original-vision-of-a-xenomorph-stalking-dust-2)<!-- GAME:END -->
+ - [Microsoft says Activision deal block is “darkest day” of doing business in the UK](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
+ - [&#39;Super duper&#39; Grounded update really does look super until you realise they added fricking wasps](https://www.pcgamer.com/super-duper-grounded-update-really-does-look-super-until-you-realise-they-added-fricking-wasps)
+ - [Leaked $700 pricing for the Extreme ROG Ally could kill the Steam Deck for me](https://www.pcgamer.com/leaked-dollar700-pricing-for-the-extreme-rog-ally-could-kill-the-steam-deck-for-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
