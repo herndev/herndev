@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
- - 👉 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
+ - ⏩ [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
 
 ---
 
