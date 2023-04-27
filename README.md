@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Two Pikachu Are Alike In This Awesome New Pokémon Plushie Line](https://kotaku.com/pokemon-center-my-pikachu-plush-prices-japan-earth-day-1850383485)
- - [Brigitte Shows Overwatch 2 Still Doesn’t Fully Get Body Diversity](https://kotaku.com/overwatch-2-hero-tier-brigitte-support-representation-1850384056)
- - [Redfall&#39;s PC system requirements revealed, but they&#39;re lacking a pretty big detail](https://www.pcgamer.com/redfall-pc-system-requirements-unlock-times)<!-- GAME:END -->
+ - [No, you won&#39;t have to wait until the endgame for Diablo 4&#39;s mounts](https://www.pcgamer.com/no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts)
+ - [This Supernatural Drama Is An Early Anime Of The Year Contender](https://kotaku.com/kotatsu-anime-corner-hidive-oshi-no-ko-kaguya-sama-1850384126)
+ - [Chris Hemsworth plays young, presumably hot Optimus Prime in new Transformers movie](https://www.polygon.com/23701143/transformers-one-animated-movie-cast-chris-hemsworth-optimus-prime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
