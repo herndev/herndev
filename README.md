@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - ⏩ [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
- - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - 💣 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - ⏩ [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
+ - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 ---
 
