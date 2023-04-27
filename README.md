@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - ⏩ [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - 💣 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
+ - 👉 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)<!-- MEMES:END -->
 
 ---
 
