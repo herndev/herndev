@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Hell Let Loose, Leap, Crusader Kings III, and Don’t Starve Together](https://news.xbox.com/en-us/2023/04/27/free-play-days-hell-let-loose-leap-crusader-kings-iii-and-dont-starve-together/)
- - [Which suspect to pick in the Honkai: Star Rail Hook quest](https://www.pcgamer.com/honkai-star-rail-hook-quest-who-to-pick)
- - [Armored Core 6 gameplay trailer reveals August release date](https://www.pcgamer.com/armored-core-6-gameplay-trailer-reveals-august-release-date)<!-- GAME:END -->
+ - [Rusted Moss is Hollow Knight with a bungee cord](https://www.polygon.com/reviews/23699200/rusted-moss-review-impressions-metroidvania-hollow-knight)
+ - [Gobsmacked Microsoft president says UK&#39;s regulator blocking the Activision deal is company&#39;s &#39;darkest day&#39;](https://www.pcgamer.com/gobsmacked-microsoft-president-says-uks-regulator-blocking-the-activision-deal-is-companys-darkest-day)
+ - [This randomizer mod turns the best Elder Scrolls game into a beautiful fever dream](https://www.pcgamer.com/this-randomizer-mod-turns-the-best-elder-scrolls-game-into-a-beautiful-fever-dream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
