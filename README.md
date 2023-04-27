@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Standard Chartered subsidiary Zodia, which provides custody services for crypto assets, raised a $36M Series A led by Japan&#39;s SBI Holdings &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230427/p4#a230427p4)
- - [The 16 best Instagram alternatives for photographers, video sharing, and more](https://www.androidauthority.com/instagram-alternatives-3316324/)
- - [Latest Pixel 7a spec leak fills in all the blanks](https://www.androidauthority.com/google-pixel-7a-full-spec-leak-3317820/)<!-- TECH:END -->
+ - [The UK CMA&#39;s objection to Microsoft&#39;s Activision deal focuses on the nascent cloud gaming market, a departure from regulators focusing on mature markets &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230427/p6#a230427p6)
+ - [Tesla lawyers claim Elon Musk’s past statements about self-driving safety could just be deepfakes](https://www.theverge.com/2023/4/27/23700339/tesla-autopilot-lawsuit-2018-elon-musk-claims-deepfakes)
+ - [Samsung’s loses billions on chips as overall profits decline 95 percent](https://www.theverge.com/2023/4/27/23700340/samsung-earnings-q1-2023-memory-chip-losses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
