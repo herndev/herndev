@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Germany is in talks to limit the export of chemicals used to make advanced chips to China, seeking to join US and EU allies in closing ranks on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p11#a230427p11)
- - [Geometric Goods AirTag travel wallet: More stylish than secure](https://appleinsider.com/articles/23/04/27/geometric-goods-airtag-travel-wallet-more-stylish-than-secure?utm_medium=rss)
- - [Apple reports European MAUs for its App Stores: iOS has 101M, iPadOS has 23M, macOS has 6M, tvOS has 1M, and watchOS, Books, and Podcasts have under 1M each &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230427/p10#a230427p10)<!-- TECH:END -->
+ - [Samsung Galaxy A54 5G review: Who needs a Galaxy S23 FE?](https://www.androidauthority.com/samsung-galaxy-a54-5g-review-3312781/)
+ - [GM created its own open-source software protocol and wants its competitors to use it](https://www.theverge.com/2023/4/27/23699539/gm-open-source-software-uprotocol-eclipse)
+ - [GDC is exorbitantly expensive — but still vital for many game developers](https://www.theverge.com/2023/4/27/23679081/gdc-2023-price-affordability-game-developers-conference)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
