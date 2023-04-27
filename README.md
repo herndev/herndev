@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Law experts say Twitter is breaching US laws prohibiting false advertising by implying that some celebrities paid for Blue when they haven&#39;t paid for it &lpar;Chris Stokel-Walker/Wired&rpar;](http://www.techmeme.com/230427/p1#a230427p1)
  - [Japan plans to provide an additional $1.94B in assistance to Rapidus, a government-backed chip consortium that is working with IBM to mass produce 2nm chips &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230426/p35#a230426p35)
- - [Apple Hearing Study 2023 update: 1 in 3 adult Americans exposed to excess noise](https://appleinsider.com/articles/23/04/27/apple-hearing-study-2023-update-1-in-3-adult-americans-exposed-to-excess-noise?utm_medium=rss)
- - [Katmai, which is developing browser-based 3D video conferencing tech for virtual office spaces, raised a $22M Series A led by Starr Insurance Companies &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230426/p34#a230426p34)<!-- TECH:END -->
+ - [Apple Hearing Study 2023 update: 1 in 3 adult Americans exposed to excess noise](https://appleinsider.com/articles/23/04/27/apple-hearing-study-2023-update-1-in-3-adult-americans-exposed-to-excess-noise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
