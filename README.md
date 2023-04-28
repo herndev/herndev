@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s Online Streaming Act passes final hurdle in Parliament; it requires streamers to support Canadian content and gives the CRTC regulatory power over them &lpar;Mickey Djuric/Canadian Press&rpar;](http://www.techmeme.com/230427/p38#a230427p38)
- - [They’re ‘skeets’ now](https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now)
- - [T-Mobile Continues Growth Streak With 1.3 Million New Customers     - CNET](https://www.cnet.com/tech/mobile/t-mobile-continues-growth-streak-with-1-3-million-new-customers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New York City MTA ends its Twitter service alerts, saying the platform is &quot;no longer reliable&quot;; MTA: Twitter demanded $50K per month for API access &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p39#a230427p39)
+ - [Which Oura Ring should you buy? A comparison of all styles and models](https://www.androidauthority.com/oura-ring-models-3317774/)
+ - [Steam now has a built-in cloud notepad you can pin atop your game](https://www.theverge.com/2023/4/27/23701603/steam-in-game-overlay-notes-videos-pin-windows-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
