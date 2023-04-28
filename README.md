@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hunger Games prequel film gets its first trailer](https://www.theverge.com/2023/4/27/23701502/the-hunger-games-the-ballad-of-songbirds-and-snakes-trailer)
- - [Cloudflare reports Q1 revenue up 37% YoY to $290.2M vs. $290.8M est., a $38.1M net loss, and revenue guidance for Q2 and FY 2023 below estimates; NET drops 20%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230427/p37#a230427p37)
- - [Toronto-based Practice Better, which makes client management software for health and wellness professionals, raised $27M led by Five Elms Capital &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/230427/p36#a230427p36)<!-- TECH:END -->
+ - [Canada&#39;s Online Streaming Act passes final hurdle in Parliament; it requires streamers to support Canadian content and gives the CRTC regulatory power over them &lpar;Mickey Djuric/Canadian Press&rpar;](http://www.techmeme.com/230427/p38#a230427p38)
+ - [They’re ‘skeets’ now](https://www.theverge.com/2023/4/27/23701551/bluesky-skeets-now)
+ - [T-Mobile Continues Growth Streak With 1.3 Million New Customers     - CNET](https://www.cnet.com/tech/mobile/t-mobile-continues-growth-streak-with-1-3-million-new-customers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
