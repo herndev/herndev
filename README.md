@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - ⏩ [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 👉 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
+ - 💣 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - ⏩ [Emotional damage](http://9gag.com/gag/aDYZ32w)
+ - 👉 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
 
 ---
 
