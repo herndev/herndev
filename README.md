@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)
  - ⏩ [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
- - 👉 [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)<!-- MEMES:END -->
+ - 👉 [This has to be most awesome way anyone has asked a lady out for prom!](http://9gag.com/gag/aBdPQMA)<!-- MEMES:END -->
 
 ---
 
