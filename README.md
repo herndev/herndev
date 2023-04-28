@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you come home from office early](http://9gag.com/gag/aQEA8j8)
- - ⏩ [You get what you fckin&#39; deserve.](http://9gag.com/gag/axobNK2)
- - 👉 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
+ - 💣 [Woman gets out of the car to argue with her husband while inside a Tiger Safari](http://9gag.com/gag/aVbmW6M)
+ - ⏩ [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
+ - 👉 [What a legend](http://9gag.com/gag/ap9PL38)<!-- MEMES:END -->
 
 ---
 
