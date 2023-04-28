@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The 27 Best Amazon Prime Shows Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [ChatGPT returns to Italy after ban](https://www.theverge.com/2023/4/28/23702883/chatgpt-italy-ban-lifted-gpdp-data-protection-age-verification)
+ - [Synergy: enterprise cloud spending grew 19% YoY to $63B in Q1 2023, vs. 32% growth in Q1 2022; Amazon took 32% market share, Microsoft 23%, and Google 10% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230428/p13#a230428p13)
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
