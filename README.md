@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This sparks joy](http://9gag.com/gag/aMEnbAG)
- - ⏩ [Being blind in public.](http://9gag.com/gag/aBdPQr2)
- - 👉 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - 💣 [Survival of the fittest, rent is expensive](http://9gag.com/gag/a9q8P9L)
+ - ⏩ [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)
+ - 👉 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
 
 ---
 
