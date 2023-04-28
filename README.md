@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Triller agrees to pay Sony Music $4.5M+ to settle claims that Triller breached a contract covering its use of musicians&#39; songs on the platform &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230427/p44#a230427p44)
  - [iLearningEngines, which supplies companies with personalized training materials using AI tools, plans to go public via a SPAC merger at a $1.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230427/p43#a230427p43)
- - [A US federal judge orders South Africa-based bitcoin pool operator Mirror Trading&#39;s CEO to pay $3.4B after CFTC charged the company with a $1.7B fraud in 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230427/p42#a230427p42)
- - [Robinhood introduces Connect, which allows users to fund their Web3 wallets without having to leave a decentralized app or be in their Robinhood Crypto accounts &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230427/p41#a230427p41)<!-- TECH:END -->
+ - [A US federal judge orders South Africa-based bitcoin pool operator Mirror Trading&#39;s CEO to pay $3.4B after CFTC charged the company with a $1.7B fraud in 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230427/p42#a230427p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
