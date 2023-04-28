@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
- - ⏩ [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - 👉 [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)<!-- MEMES:END -->
+ - 💣 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
+ - ⏩ [If you know, you know...](http://9gag.com/gag/a5XGdYV)
+ - 👉 [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)<!-- MEMES:END -->
 
 ---
 
