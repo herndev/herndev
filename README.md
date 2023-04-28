@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Survival of the fittest, rent is expensive](http://9gag.com/gag/a9q8P9L)
- - ⏩ [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)
- - 👉 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
+ - 💣 [What is missing?](http://9gag.com/gag/aPg8DbG)
+ - ⏩ [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
+ - 👉 [If you know, you know...](http://9gag.com/gag/a5XGdYV)<!-- MEMES:END -->
 
 ---
 
