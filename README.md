@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first trailer for Peacock’s Twisted Metal has cars, guns, and a creepy clown](https://www.theverge.com/23702273/twisted-metal-tv-show-trailer-peacock-release-date)
- - [Reported EU legislation to disclose AI training data could trigger copyright lawsuits](https://www.theverge.com/2023/4/28/23702437/eu-ai-act-disclose-copyright-training-data-report)
- - [Your complete guide to picking the right size Oura Ring](https://www.androidauthority.com/oura-ring-size-guide-3317881/)<!-- TECH:END -->
+ - [Sources: Elon Musk shut off OpenAI&#39;s access to Twitter&#39;s data in December, believing that $2M a year licensing fee that OpenAI was paying wasn&#39;t enough &lpar;New York Times&rpar;](http://www.techmeme.com/230428/p10#a230428p10)
+ - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may-2023/#ftag=CAD590a51e)
+ - [How to Watch &#39;Yellowjackets&#39; Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-yellowjackets-season-2-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
