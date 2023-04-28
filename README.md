@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Liu Xiaoping, a dog food seller on Pinduoduo who coaches Chinese merchants on using legal action to fight Pinduoduo&#39;s refund-without-return policy &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/230428/p1#a230428p1)
- - [Sony reports strong PS5 hardware sales as it closes in on 40 million units sold](https://www.theverge.com/2023/4/28/23702131/sony-ps5-q4-2022-console-sales-game-shipments)
- - [Nokia XR21 leaks in full: The next rugged Nokia phone is coming soon](https://www.androidauthority.com/nokia-xr21-leak-3318275/)<!-- TECH:END -->
+ - [After years of silence, Apple finally reveals how many App Store users it has in Europe](https://appleinsider.com/articles/23/04/28/after-years-of-silence-apple-finally-reveals-how-many-app-store-users-it-has-in-europe?utm_medium=rss)
+ - [Best Video Doorbell Cameras of 2023     - CNET](https://www.cnet.com/news/best-video-doorbell-cameras/#ftag=CAD590a51e)
+ - [Incoming EU rules force Apple to reveal App Store user numbers in Europe](https://www.theverge.com/2023/4/28/23702159/apple-app-store-user-numbers-europe-eu-dsa-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
