@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT returns to Italy after ban](https://www.theverge.com/2023/4/28/23702883/chatgpt-italy-ban-lifted-gpdp-data-protection-age-verification)
- - [Synergy: enterprise cloud spending grew 19% YoY to $63B in Q1 2023, vs. 32% growth in Q1 2022; Amazon took 32% market share, Microsoft 23%, and Google 10% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230428/p13#a230428p13)
- - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Instagram is testing songs in photo carousels](https://www.theverge.com/2023/4/28/23702912/instagram-testing-songs-photo-carousels)
+ - [Medtronic gets FDA approval for new iPhone &amp; Apple Watch connected diabetic therapy system](https://appleinsider.com/articles/23/04/28/medtronic-gets-fda-approval-for-new-iphone-apple-watch-connected-diabetic-therapy-system?utm_medium=rss)
+ - [Honkai Star Rail – How do I add and remove friends?](https://www.androidauthority.com/honkai-star-rail-friends-3318537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
