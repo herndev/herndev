@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Please Stop Talking About Titanfall 3, It Hurts Too Much](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-pc-fps-tease-news-1850385312)
  - [New Steam feature lets you pin windows over games, including guides, notes, and web pages](https://www.pcgamer.com/new-steam-feature-lets-you-pin-windows-over-games-including-guides-notes-and-web-pages)
- - [RIP To Waypoint, A Good Website About Video Games](https://kotaku.com/rip-to-waypoint-a-good-website-about-video-games-1850385017)
- - [I just learned what modem means. My whole life has been a lie](https://www.pcgamer.com/i-just-learned-what-modem-means-my-whole-life-has-been-a-lie)<!-- GAME:END -->
+ - [RIP To Waypoint, A Good Website About Video Games](https://kotaku.com/rip-to-waypoint-a-good-website-about-video-games-1850385017)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
