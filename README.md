@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Stop Talking About Titanfall 3, It Hurts Too Much](https://kotaku.com/titanfall-3-apex-legends-respawn-ea-pc-fps-tease-news-1850385312)
- - [New Steam feature lets you pin windows over games, including guides, notes, and web pages](https://www.pcgamer.com/new-steam-feature-lets-you-pin-windows-over-games-including-guides-notes-and-web-pages)
- - [RIP To Waypoint, A Good Website About Video Games](https://kotaku.com/rip-to-waypoint-a-good-website-about-video-games-1850385017)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #678: Friday, April 28](https://www.pcgamer.com/wordle-today-hint-answer-678-april-28)
+ - [Star Wars Jedi: Survivor guides, collectible locations, and puzzle solutions](https://www.polygon.com/star-wars-jedi-survivor-guides/23692435/items-collectible-walkthroughs-puzzle-solutions)
+ - [Every Star Wars Jedi: Survivor achievement and trophy](https://www.polygon.com/star-wars-jedi-survivor-guides/23701178/achievement-trophy-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
