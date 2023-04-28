@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)
- - ⏩ [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
- - 👉 [This has to be most awesome way anyone has asked a lady out for prom!](http://9gag.com/gag/aBdPQMA)<!-- MEMES:END -->
+ - 💣 [When you come home from office early](http://9gag.com/gag/aQEA8j8)
+ - ⏩ [You get what you fckin&#39; deserve.](http://9gag.com/gag/axobNK2)
+ - 👉 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
 
 ---
 
