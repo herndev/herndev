@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is again available in Italy, after OpenAI met data watchdog&#39;s demands, including a form for EU users to object to having their data used for training &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/230428/p12#a230428p12)
- - [EA admits Jedi: Survivor ‘isn’t performing to our standards’ on some PCs](https://www.theverge.com/2023/4/28/23702726/ea-star-wars-jedi-survivor-pc-issues-steam-reviews-steam-deck)
- - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The 27 Best Amazon Prime Shows Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
