@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Pad review: Can the flagship killer beat the iPad?](https://www.androidauthority.com/oneplus-pad-review-3309359/)
- - [BuzzFeed and Gawker Meme-ified Reality With This One Weird Trick](https://www.wired.com/story/plaintext-buzzfeed-and-gawker-meme-ified-reality-with-this-one-weird-trick/)
- - [OnePlus Pad Review: Finally, a Great Android Tablet](https://www.wired.com/review/oneplus-pad/)<!-- TECH:END -->
+ - [Deals: 2023 MacBook Pro $1,749, 76% off ThinkPad Yoga 11e, Chromecast with Google TV $20, more](https://appleinsider.com/articles/23/04/28/deals-2023-macbook-pro-1749-76-off-thinkpad-yoga-11e-chromecast-with-google-tv-20-more?utm_medium=rss)
+ - [Former Apple employee must repay $19 million after defrauding the company](https://www.theverge.com/2023/4/28/23702239/apple-fraud-fine-prison-sentence-tax-evasion-irs)
+ - [Bluesky is seeing an influx of users, who are &quot;skeeting&quot; on the Jack Dorsey-backed social network, including high-profile Twitter users like @dril and AOC &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/230428/p6#a230428p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
