@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$2,000 The Last Of Us Part II Statue Set Recreates One Of The Game’s Best Fights](https://kotaku.com/last-of-us-part-ii-ellie-abby-statue-the-confrontation-1850387763)
- - [Bungie Wins $12 Million In Destiny 2 Anti-Cheat Lawsuit](https://kotaku.com/destiny-2-bungie-veterancheats-lawsuit-anticheat-1850387669)
- - [Hollow Knight mod brings voice acting to hundreds of characters and items](https://www.polygon.com/23702765/hollow-knight-hallownest-vocalized-voice-acting-mod-free-silksong)<!-- GAME:END -->
+ - [Why is Gamora &lpar;in Guardians of the Galaxy Vol. 3&rpar;?](https://www.polygon.com/23702435/how-is-gamora-alive-in-guardians-of-the-galaxy-vol-3)
+ - [This huge Tiny Tina&#39;s Wonderlands mod sounds like almost a completely different game](https://www.pcgamer.com/this-huge-tiny-tinas-wonderlands-mod-sounds-like-almost-a-completely-different-game)
+ - [Scream VI, Peter Pan and Wendy, Netflix’s AKA, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/4/28/23695761/new-movies-watch-scream-vi-netflix-aka-peter-pan-wendy-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
