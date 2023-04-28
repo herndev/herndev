@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I just learned what modem means. My whole life has been a lie](https://www.pcgamer.com/i-just-learned-what-modem-means-my-whole-life-has-been-a-lie)
  - [Cassette? Vinyl? Nah, this noise rock group surprise-launched its new single in an FPS](https://www.pcgamer.com/cassette-vinyl-nah-this-noise-rock-group-surprise-launched-its-new-single-in-an-fps)
- - [April the twenty-seventh be with you, I guess: Star Wars Day sales just started a week early](https://www.pcgamer.com/april-the-twenty-seventh-be-with-you-i-guess-star-wars-day-sales-just-started-a-week-early)
- - [19 Exciting, Cozy Games Coming Out In 2023](https://kotaku.com/cozy-games-indie-switch-steam-pc-playstation-xbox-1850384602)<!-- GAME:END -->
+ - [April the twenty-seventh be with you, I guess: Star Wars Day sales just started a week early](https://www.pcgamer.com/april-the-twenty-seventh-be-with-you-i-guess-star-wars-day-sales-just-started-a-week-early)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
