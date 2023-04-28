@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: 2023 MacBook Pro $1,749, 76% off ThinkPad Yoga 11e, Chromecast with Google TV $20, more](https://appleinsider.com/articles/23/04/28/deals-2023-macbook-pro-1749-76-off-thinkpad-yoga-11e-chromecast-with-google-tv-20-more?utm_medium=rss)
- - [Former Apple employee must repay $19 million after defrauding the company](https://www.theverge.com/2023/4/28/23702239/apple-fraud-fine-prison-sentence-tax-evasion-irs)
- - [Bluesky is seeing an influx of users, who are &quot;skeeting&quot; on the Jack Dorsey-backed social network, including high-profile Twitter users like @dril and AOC &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/230428/p6#a230428p6)<!-- TECH:END -->
+ - [A look at Google&#39;s DeepMind-Brain merger; sources say Demis Hassabis ceded DeepMind&#39;s cherished independence in return for greater power over the future of AI &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230428/p7#a230428p7)
+ - [17 Best Mattresses &lpar;2023&rpar;: Memory Foam, Hybrid, Organic, Latex](https://www.wired.com/gallery/best-mattresses/)
+ - [Washington passes law requiring consent before companies collect health data](https://www.theverge.com/2023/4/28/23702246/washington-health-data-law-consent-collect-sell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
