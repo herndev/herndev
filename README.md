@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Liu Xiaoping, a dog food seller on Pinduoduo who coaches Chinese merchants on using legal action to fight Pinduoduo&#39;s refund-without-return policy &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/230428/p1#a230428p1)
  - [Sony reports strong PS5 hardware sales as it closes in on 40 million units sold](https://www.theverge.com/2023/4/28/23702131/sony-ps5-q4-2022-console-sales-game-shipments)
- - [Nokia XR21 leaks in full: The next rugged Nokia phone is coming soon](https://www.androidauthority.com/nokia-xr21-leak-3318275/)
- - [Master and Dynamic MH40 Review: Beautiful Austerity](https://www.wired.com/review/master-and-dynamic-mh40/)<!-- TECH:END -->
+ - [Nokia XR21 leaks in full: The next rugged Nokia phone is coming soon](https://www.androidauthority.com/nokia-xr21-leak-3318275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
