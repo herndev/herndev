@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best co-op survival game of 2022 is getting animal companions and a creative mode](https://www.pcgamer.com/the-best-co-op-survival-game-of-2022-is-getting-animal-companions-and-a-creative-mode)
- - [Twisted Metal show looks like a great blend of ’90s nostalgia and Power Rangers-like action](https://www.polygon.com/23700782/twisted-metal-show-trailer-cast-release-date)
- - [Judge knocks back Elon Musk&#39;s ridiculous claim in fatal Tesla crash lawsuit: His statements about auto-driving safety could have been deepfaked](https://www.pcgamer.com/judge-knocks-back-elon-musks-ridiculous-claim-in-fatal-tesla-crash-lawsuit-his-statements-about-auto-driving-safety-could-have-been-deepfaked)<!-- GAME:END -->
+ - [Modders are turning Spelunky 2 into a sprawling Metroidvania, and you can try it right now](https://www.pcgamer.com/modders-are-turning-spelunky-2-into-a-sprawling-metroidvania-and-you-can-try-it-right-now)
+ - [Pedro Pascal are Ethan Hawke are queer cowboys in Strange Way of Life](https://www.polygon.com/23702536/pedro-pascal-ethan-hawke-pedro-almodovar-strange-way-of-life-western-trailer)
+ - [Take Your Hunt to the Next Level in Monster Hunter Rise: Sunbreak, Out Today](https://news.xbox.com/en-us/2023/04/28/monster-hunter-rise-sunbreak-out-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
