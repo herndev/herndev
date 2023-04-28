@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - ⏩ [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 👉 [Woman makes a scene on plane because the shirt of the guy next to her &#39;offended her&#39;. She wants staff to kick him off, they kick her off instead.](http://9gag.com/gag/aNwVWPw)<!-- MEMES:END -->
+ - 💣 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
+ - ⏩ [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - 👉 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
 
 ---
 
