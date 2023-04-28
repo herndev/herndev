@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything to know about the mysterious Zonai in Tears of the Kingdom](https://www.polygon.com/23702304/legend-of-zelda-tears-of-the-kingdom-zonai-ruins-charge-history-explained)
- - [Prime Video’s Citadel is a multilevel marketing scheme disguised as a show](https://www.polygon.com/reviews/23700740/citadel-prime-video-review)
- - [Age of Empires 2&#39;s next DLC makes a fan-favourite game mode official and brings over all the first game&#39;s civs](https://www.pcgamer.com/age-of-empires-2s-next-dlc-makes-a-fan-favourite-game-mode-official-and-brings-over-all-the-first-games-civs)<!-- GAME:END -->
+ - [As the CMA recriminations rumble on, Microsoft signs yet another ten-year deal with a cloud platform you&#39;ve never heard of](https://www.pcgamer.com/as-the-cma-recriminations-rumble-on-microsoft-signs-yet-another-ten-year-deal-with-a-cloud-platform-youve-never-heard-of)
+ - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)
+ - [The best puzzle RPG ever is making a comeback](https://www.polygon.com/23702290/might-and-magic-clash-of-heroes-definitive-edition-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
