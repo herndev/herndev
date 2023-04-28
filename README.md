@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
  - ⏩ [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 👉 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
+ - 👉 [STICK!](http://9gag.com/gag/aYVPewv)<!-- MEMES:END -->
 
 ---
 
