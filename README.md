@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Google&#39;s DeepMind-Brain merger; sources say Demis Hassabis ceded DeepMind&#39;s cherished independence in return for greater power over the future of AI &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230428/p7#a230428p7)
- - [17 Best Mattresses &lpar;2023&rpar;: Memory Foam, Hybrid, Organic, Latex](https://www.wired.com/gallery/best-mattresses/)
- - [Washington passes law requiring consent before companies collect health data](https://www.theverge.com/2023/4/28/23702246/washington-health-data-law-consent-collect-sell)<!-- TECH:END -->
+ - [The first trailer for Peacock’s Twisted Metal has cars, guns, and a creepy clown](https://www.theverge.com/23702273/twisted-metal-tv-show-trailer-peacock-release-date)
+ - [Reported EU legislation to disclose AI training data could trigger copyright lawsuits](https://www.theverge.com/2023/4/28/23702437/eu-ai-act-disclose-copyright-training-data-report)
+ - [Your complete guide to picking the right size Oura Ring](https://www.androidauthority.com/oura-ring-size-guide-3317881/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
