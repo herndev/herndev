@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk shut off OpenAI&#39;s access to Twitter&#39;s data in December, believing that $2M a year licensing fee that OpenAI was paying wasn&#39;t enough &lpar;New York Times&rpar;](http://www.techmeme.com/230428/p10#a230428p10)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may-2023/#ftag=CAD590a51e)
- - [How to Watch &#39;Yellowjackets&#39; Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-yellowjackets-season-2-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT is again available in Italy, after OpenAI met data watchdog&#39;s demands, including a form for EU users to object to having their data used for training &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/230428/p12#a230428p12)
+ - [EA admits Jedi: Survivor ‘isn’t performing to our standards’ on some PCs](https://www.theverge.com/2023/4/28/23702726/ea-star-wars-jedi-survivor-pc-issues-steam-reviews-steam-deck)
+ - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
