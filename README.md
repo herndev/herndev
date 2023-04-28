@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - ⏩ [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 👉 [STICK!](http://9gag.com/gag/aYVPewv)<!-- MEMES:END -->
+ - ⏩ [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
+ - 👉 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
 
 ---
 
