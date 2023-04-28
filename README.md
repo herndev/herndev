@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood introduces Connect, which allows users to fund their Web3 wallets without having to leave a decentralized app or be in their Robinhood Crypto accounts &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230427/p41#a230427p41)
- - [Google TV rolls out its free built-in channels to all US users and adds offerings from Plex, Haystack News, and Tubi, for a total of 800+ free channels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230427/p40#a230427p40)
- - [The New York City MTA ends its Twitter service alerts, saying the platform is &quot;no longer reliable&quot;; MTA: Twitter demanded $50K per month for API access &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p39#a230427p39)<!-- TECH:END -->
+ - [iLearningEngines, which supplies companies with personalized training materials using AI tools, plans to go public via a SPAC merger at a $1.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230427/p43#a230427p43)
+ - [A US federal judge orders South Africa-based bitcoin pool operator Mirror Trading&#39;s CEO to pay $3.4B after CFTC charged the company with a $1.7B fraud in 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230427/p42#a230427p42)
+ - [Robinhood introduces Connect, which allows users to fund their Web3 wallets without having to leave a decentralized app or be in their Robinhood Crypto accounts &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230427/p41#a230427p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
