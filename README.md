@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Player Murks Malenia In 15 Seconds On Hardest Difficulty](https://kotaku.com/elden-ring-youtube-lionheart-malenia-buff-bleed-reddit-1850387548)
- - [EA kinda sorta apologizes for poor Star Wars Jedi: Survivor performance, cites high-end hardware as a problem](https://www.pcgamer.com/ea-kinda-sorta-apologizes-for-poor-star-wars-jedi-survivor-performance-cites-high-end-hardware-as-a-problem)
- - [Here&#39;s why you have to deal with so many annoying webPs now](https://www.pcgamer.com/heres-why-you-have-to-deal-with-so-many-annoying-webps-now)<!-- GAME:END -->
+ - [$2,000 The Last Of Us Part II Statue Set Recreates One Of The Game’s Best Fights](https://kotaku.com/last-of-us-part-ii-ellie-abby-statue-the-confrontation-1850387763)
+ - [Bungie Wins $12 Million In Destiny 2 Anti-Cheat Lawsuit](https://kotaku.com/destiny-2-bungie-veterancheats-lawsuit-anticheat-1850387669)
+ - [Hollow Knight mod brings voice acting to hundreds of characters and items](https://www.polygon.com/23702765/hollow-knight-hallownest-vocalized-voice-acting-mod-free-silksong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
