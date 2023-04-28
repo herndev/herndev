@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman gets out of the car to argue with her husband while inside a Tiger Safari](http://9gag.com/gag/aVbmW6M)
+ - 💣 [This might be stupid question but can someone tell me why it doesn&#39;t explode](http://9gag.com/gag/a8qDYPO)
  - ⏩ [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 👉 [What a legend](http://9gag.com/gag/ap9PL38)<!-- MEMES:END -->
+ - 👉 [When you come home from office early](http://9gag.com/gag/aQEA8j8)<!-- MEMES:END -->
 
 ---
 
