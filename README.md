@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Master and Dynamic MH40 Review: Beautiful Austerity](https://www.wired.com/review/master-and-dynamic-mh40/)
  - [YouTube Music gets podcast support, but what about the Podcasts app?](https://www.androidauthority.com/youtube-music-podcast-support-3318258/)
- - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)
- - [Who created ChatGPT and who owns it today?](https://www.androidauthority.com/who-created-chatgpt-3318212/)<!-- TECH:END -->
+ - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
