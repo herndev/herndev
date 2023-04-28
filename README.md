@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York City MTA ends its Twitter service alerts, saying the platform is &quot;no longer reliable&quot;; MTA: Twitter demanded $50K per month for API access &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p39#a230427p39)
- - [Which Oura Ring should you buy? A comparison of all styles and models](https://www.androidauthority.com/oura-ring-models-3317774/)
- - [Steam now has a built-in cloud notepad you can pin atop your game](https://www.theverge.com/2023/4/27/23701603/steam-in-game-overlay-notes-videos-pin-windows-beta)<!-- TECH:END -->
+ - [Robinhood introduces Connect, which allows users to fund their Web3 wallets without having to leave a decentralized app or be in their Robinhood Crypto accounts &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230427/p41#a230427p41)
+ - [Google TV rolls out its free built-in channels to all US users and adds offerings from Plex, Haystack News, and Tubi, for a total of 800+ free channels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230427/p40#a230427p40)
+ - [The New York City MTA ends its Twitter service alerts, saying the platform is &quot;no longer reliable&quot;; MTA: Twitter demanded $50K per month for API access &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p39#a230427p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
