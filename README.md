@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Master and Dynamic MH40 Review: Beautiful Austerity](https://www.wired.com/review/master-and-dynamic-mh40/)
- - [YouTube Music gets podcast support, but what about the Podcasts app?](https://www.androidauthority.com/youtube-music-podcast-support-3318258/)
- - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)<!-- TECH:END -->
+ - [Sony reports strong PS5 hardware sales as it closes in on 40 million units sold](https://www.theverge.com/2023/4/28/23702131/sony-ps5-q4-2022-console-sales-game-shipments)
+ - [Nokia XR21 leaks in full: The next rugged Nokia phone is coming soon](https://www.androidauthority.com/nokia-xr21-leak-3318275/)
+ - [Master and Dynamic MH40 Review: Beautiful Austerity](https://www.wired.com/review/master-and-dynamic-mh40/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
