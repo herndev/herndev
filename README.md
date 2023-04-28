@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeet](http://9gag.com/gag/aREzAKQ)
- - ⏩ [1968 Ford Mustang Fastback Restomod](http://9gag.com/gag/aeQV3zv)
- - 👉 [Swedish FM, Tobias Billstr\u00f6m: `PKK&#39;s activities in Sweden are a much bigger problem than the government previously thought. They have clear branches in gang crime, use Sweden as a base to raise money through patronage, drug sales and a number of things that harm Swedish society.`](http://9gag.com/gag/aqeQNq7)<!-- MEMES:END -->
+ - 💣 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)
+ - ⏩ [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
+ - 👉 [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)<!-- MEMES:END -->
 
 ---
 
