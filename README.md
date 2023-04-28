@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is testing songs in photo carousels](https://www.theverge.com/2023/4/28/23702912/instagram-testing-songs-photo-carousels)
- - [Medtronic gets FDA approval for new iPhone &amp; Apple Watch connected diabetic therapy system](https://appleinsider.com/articles/23/04/28/medtronic-gets-fda-approval-for-new-iphone-apple-watch-connected-diabetic-therapy-system?utm_medium=rss)
- - [Honkai Star Rail – How do I add and remove friends?](https://www.androidauthority.com/honkai-star-rail-friends-3318537/)<!-- TECH:END -->
+ - [Quick fixes: use Google Chrome to link text inside any webpage](https://www.theverge.com/23703037/google-chrome-link-to-highlight-how-to)
+ - [Star Trek fantasy: step aboard every Starship Enterprise with this website](https://www.theverge.com/23703064/star-trek-enterprise-bridge-roddenberry-archive)
+ - [Filing and sources: drone delivery startup Zipline is raising a $330M Series F at a ~$4.2B valuation, up 55% from its $2.7B valuation in 2021 &lpar;Forbes&rpar;](http://www.techmeme.com/230428/p15#a230428p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
