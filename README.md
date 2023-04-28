@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
  - ⏩ [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 👉 [STICK!](http://9gag.com/gag/aYVPewv)<!-- MEMES:END -->
+ - 👉 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
 
 ---
 
