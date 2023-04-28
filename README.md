@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As the CMA recriminations rumble on, Microsoft signs yet another ten-year deal with a cloud platform you&#39;ve never heard of](https://www.pcgamer.com/as-the-cma-recriminations-rumble-on-microsoft-signs-yet-another-ten-year-deal-with-a-cloud-platform-youve-never-heard-of)
- - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)
- - [The best puzzle RPG ever is making a comeback](https://www.polygon.com/23702290/might-and-magic-clash-of-heroes-definitive-edition-trailer-release-date)<!-- GAME:END -->
+ - [The best co-op survival game of 2022 is getting animal companions and a creative mode](https://www.pcgamer.com/the-best-co-op-survival-game-of-2022-is-getting-animal-companions-and-a-creative-mode)
+ - [Twisted Metal show looks like a great blend of ’90s nostalgia and Power Rangers-like action](https://www.polygon.com/23700782/twisted-metal-show-trailer-cast-release-date)
+ - [Judge knocks back Elon Musk&#39;s ridiculous claim in fatal Tesla crash lawsuit: His statements about auto-driving safety could have been deepfaked](https://www.pcgamer.com/judge-knocks-back-elon-musks-ridiculous-claim-in-fatal-tesla-crash-lawsuit-his-statements-about-auto-driving-safety-could-have-been-deepfaked)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
