@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roots of Pacha just became my favorite Stardew Valley-alike](https://www.pcgamer.com/roots-of-pacha-just-became-my-favorite-stardew-valley-alike)
- - [Atmospheric Strayed Lights is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/28/atmospheric-strayed-lights-is-available-now-on-xbox/)
- - [D&amp;D 5th edition will live on in Project Black Flag, and The Vineyard leads the way](https://www.polygon.com/23700664/dnd-dungeons-dragons-project-black-flag-5e-kobold-press-vineyard)<!-- GAME:END -->
+ - [The Reason Regulators Blocked Microsoft&#39;s Activision Deal Makes No Sense](https://kotaku.com/activision-blizzard-xbox-merger-call-duty-game-pass-1850387323)
+ - [Look, gaming monitors are just doing aspect ratio wrong](https://www.pcgamer.com/look-gaming-monitors-are-just-doing-aspect-ratio-wrong)
+ - [Twisted Metal TV show teaser gives us our first glimpse of live-action Sweet Tooth](https://www.pcgamer.com/twisted-metal-tv-show-first-teaser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
