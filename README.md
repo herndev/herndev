@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - ⏩ [Woman gets out of the car to argue with her husband while inside a Tiger Safari](http://9gag.com/gag/aVbmW6M)
- - 👉 [Emotional damage](http://9gag.com/gag/aDYZ32w)<!-- MEMES:END -->
+ - 💣 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - ⏩ [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 👉 [STICK!](http://9gag.com/gag/aYVPewv)<!-- MEMES:END -->
 
 ---
 
