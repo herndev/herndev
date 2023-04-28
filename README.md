@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)
  - [Who created ChatGPT and who owns it today?](https://www.androidauthority.com/who-created-chatgpt-3318212/)
- - [Filing: Triller agrees to pay Sony Music $4.5M+ to settle claims that Triller breached a contract covering its use of musicians&#39; songs on the platform &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230427/p44#a230427p44)
- - [iLearningEngines, which supplies companies with personalized training materials using AI tools, plans to go public via a SPAC merger at a $1.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230427/p43#a230427p43)<!-- TECH:END -->
+ - [Filing: Triller agrees to pay Sony Music $4.5M+ to settle claims that Triller breached a contract covering its use of musicians&#39; songs on the platform &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230427/p44#a230427p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
