@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - ⏩ [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
- - 👉 [If you know, you know...](http://9gag.com/gag/a5XGdYV)<!-- MEMES:END -->
+ - 💣 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
+ - ⏩ [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - 👉 [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)<!-- MEMES:END -->
 
 ---
 
