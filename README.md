@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything to know about the mysterious Zonai in Tears of the Kingdom](https://www.polygon.com/23702304/legend-of-zelda-tears-of-the-kingdom-zonai-ruins-charge-history-explained)
  - [Prime Video’s Citadel is a multilevel marketing scheme disguised as a show](https://www.polygon.com/reviews/23700740/citadel-prime-video-review)
- - [Age of Empires 2&#39;s next DLC makes a fan-favourite game mode official and brings over all the first game&#39;s civs](https://www.pcgamer.com/age-of-empires-2s-next-dlc-makes-a-fan-favourite-game-mode-official-and-brings-over-all-the-first-games-civs)
- - [Star Wars Jedi: Survivor Steam reviews hit &#39;mostly negative&#39; as players slam performance issues—&#39;F*** us PC gamers right?&#39;](https://www.pcgamer.com/star-wars-jedi-survivor-steam-reviews-hit-mostly-negative-as-players-slam-performance-issuesf-us-pc-gamers-right)<!-- GAME:END -->
+ - [Age of Empires 2&#39;s next DLC makes a fan-favourite game mode official and brings over all the first game&#39;s civs](https://www.pcgamer.com/age-of-empires-2s-next-dlc-makes-a-fan-favourite-game-mode-official-and-brings-over-all-the-first-games-civs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
