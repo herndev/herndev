@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors is being made into an animated series](https://www.pcgamer.com/vampire-survivors-is-being-made-into-an-animated-series)
- - [Guardians of the Galaxy Vol. 3 says goodbye to a Marvel that may not exist anymore](https://www.polygon.com/reviews/23702588/guardians-of-the-galaxy-3-review)
- - [Star Wars Jedi: Survivor has major problems on PC](https://www.polygon.com/23702746/star-wars-jedi-survivor-pc-broken-problems)<!-- GAME:END -->
+ - [Roots of Pacha just became my favorite Stardew Valley-alike](https://www.pcgamer.com/roots-of-pacha-just-became-my-favorite-stardew-valley-alike)
+ - [Atmospheric Strayed Lights is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/28/atmospheric-strayed-lights-is-available-now-on-xbox/)
+ - [D&amp;D 5th edition will live on in Project Black Flag, and The Vineyard leads the way](https://www.polygon.com/23700664/dnd-dungeons-dragons-project-black-flag-5e-kobold-press-vineyard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
