@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders are turning Spelunky 2 into a sprawling Metroidvania, and you can try it right now](https://www.pcgamer.com/modders-are-turning-spelunky-2-into-a-sprawling-metroidvania-and-you-can-try-it-right-now)
- - [Pedro Pascal are Ethan Hawke are queer cowboys in Strange Way of Life](https://www.polygon.com/23702536/pedro-pascal-ethan-hawke-pedro-almodovar-strange-way-of-life-western-trailer)
- - [Take Your Hunt to the Next Level in Monster Hunter Rise: Sunbreak, Out Today](https://news.xbox.com/en-us/2023/04/28/monster-hunter-rise-sunbreak-out-today/)<!-- GAME:END -->
+ - [Vampire Survivors is being made into an animated series](https://www.pcgamer.com/vampire-survivors-is-being-made-into-an-animated-series)
+ - [Guardians of the Galaxy Vol. 3 says goodbye to a Marvel that may not exist anymore](https://www.polygon.com/reviews/23702588/guardians-of-the-galaxy-3-review)
+ - [Star Wars Jedi: Survivor has major problems on PC](https://www.polygon.com/23702746/star-wars-jedi-survivor-pc-broken-problems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
