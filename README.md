@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This might be stupid question but can someone tell me why it doesn&#39;t explode](http://9gag.com/gag/a8qDYPO)
- - ⏩ [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 👉 [When you come home from office early](http://9gag.com/gag/aQEA8j8)<!-- MEMES:END -->
+ - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - ⏩ [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - 👉 [STICK!](http://9gag.com/gag/aYVPewv)<!-- MEMES:END -->
 
 ---
 
