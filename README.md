@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - ⏩ [If you know, you know...](http://9gag.com/gag/a5XGdYV)
- - 👉 [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)<!-- MEMES:END -->
+ - 💣 [Cow milk](http://9gag.com/gag/aqeQZxP)
+ - ⏩ [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 👉 [People in Pakistan are now putting padlocks on the graves of their daughters to prevent them from necrophilia.](http://9gag.com/gag/a1P5APv)<!-- MEMES:END -->
 
 ---
 
