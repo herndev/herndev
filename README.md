@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
- - ⏩ [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - 👉 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
+ - 💣 [What is missing?](http://9gag.com/gag/aPg8DbG)
+ - ⏩ [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)
+ - 👉 [Something is wrong](http://9gag.com/gag/armZNbV)<!-- MEMES:END -->
 
 ---
 
