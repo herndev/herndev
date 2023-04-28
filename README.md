@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - ⏩ [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - 👉 [Woman gets out of the car to argue with her husband while inside a Tiger Safari](http://9gag.com/gag/aVbmW6M)<!-- MEMES:END -->
+ - 💣 [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)
+ - ⏩ [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 👉 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 ---
 
