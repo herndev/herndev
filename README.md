@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Music changed forever with Apple&#39;s iTunes Music Store 20 years ago](https://appleinsider.com/articles/23/04/28/music-changed-forever-with-apples-itunes-music-store-20-years-ago?utm_medium=rss)
- - [Sony reports 6.3M PS5 sales in Q4 2022, up from 2M in Q4 2021, taking FY 2022 to 19.1M and 38.4M since launch, and $29B revenue for FY 2022, up from $19.9B YoY &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230428/p2#a230428p2)
- - [Nothing will be among first phone brands to offer Android 14 beta access](https://www.androidauthority.com/nothing-android-14-beta-access-first-wave-3318322/)<!-- TECH:END -->
+ - [OnePlus Pad review: Can the flagship killer beat the iPad?](https://www.androidauthority.com/oneplus-pad-review-3309359/)
+ - [BuzzFeed and Gawker Meme-ified Reality With This One Weird Trick](https://www.wired.com/story/plaintext-buzzfeed-and-gawker-meme-ified-reality-with-this-one-weird-trick/)
+ - [OnePlus Pad Review: Finally, a Great Android Tablet](https://www.wired.com/review/oneplus-pad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
