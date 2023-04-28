@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - ⏩ [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)
- - 👉 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
+ - 💣 [Yeet](http://9gag.com/gag/aREzAKQ)
+ - ⏩ [1968 Ford Mustang Fastback Restomod](http://9gag.com/gag/aeQV3zv)
+ - 👉 [Swedish FM, Tobias Billstr\u00f6m: `PKK&#39;s activities in Sweden are a much bigger problem than the government previously thought. They have clear branches in gang crime, use Sweden as a base to raise money through patronage, drug sales and a number of things that harm Swedish society.`](http://9gag.com/gag/aqeQNq7)<!-- MEMES:END -->
 
 ---
 
