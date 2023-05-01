@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is adding Prime Video originals to its free streaming service](https://www.theverge.com/2023/5/1/23706706/amazon-prime-video-free-streaming-service-freevee)
+ - [Spotify tries to win indie authors by cutting audiobook fees](https://www.theverge.com/2023/5/1/23706847/spotify-findaway-voices-cuts-audiobook-fees)
  - [Apple issues Rapid Security Response update for iOS 16.4.1, macOS 13.3.1](https://appleinsider.com/articles/23/05/01/apple-issues-rapid-security-response-update-for-ios-1641-macos-1331?utm_medium=rss)
- - [Save up to $530 on Apple gear with these deals on Amazon](https://appleinsider.com/articles/23/05/01/save-up-to-530-on-apple-gear-with-these-deals-on-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Lululook 360 Rotating Foldable Laptop Stand review: Solid and sleek MacBook support](https://appleinsider.com/articles/23/05/01/lululook-360-rotating-foldable-laptop-stand-review-solid-and-sleek-macbook-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
