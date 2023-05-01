@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
- - ⏩ [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
- - 👉 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)<!-- MEMES:END -->
+ - 💣 [Simple but messy](http://9gag.com/gag/avQEowM)
+ - ⏩ [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
+ - 👉 [Ancient water](http://9gag.com/gag/axob7DL)<!-- MEMES:END -->
 
 ---
 
