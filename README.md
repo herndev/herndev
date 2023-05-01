@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wait, Kurt Busiek &amp; Mike Mignola Made A Final Fantasy Comic??!!](https://kotaku.com/kurt-busiek-mike-mignola-hellboy-final-fantasy-comic-1850390157)
  - [ChatGPT Skyrim Mod Is A Robotic Horror Movie](https://kotaku.com/chatgpt-ai-skyrim-pc-rpg-mod-dnd-vr-video-games-1850390097)
- - [Here comes that city builder set on the back of a giant space turtle](https://www.pcgamer.com/here-comes-that-city-builder-set-on-the-back-of-a-giant-space-turtle)
- - [Water is life and death is permanent in this tense, laconic, $3 sci-fi adventure](https://www.pcgamer.com/water-is-life-and-death-is-permanent-in-this-tense-laconic-dollar3-sci-fi-adventure)<!-- GAME:END -->
+ - [Here comes that city builder set on the back of a giant space turtle](https://www.pcgamer.com/here-comes-that-city-builder-set-on-the-back-of-a-giant-space-turtle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
