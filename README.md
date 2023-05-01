@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - ⏩ [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
- - 👉 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
+ - 💣 [Share your favourite wallpapers... mine in the comments](http://9gag.com/gag/aZDQ70Q)
+ - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 👉 [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)<!-- MEMES:END -->
 
 ---
 
