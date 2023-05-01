@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
- - ⏩ [Simple but messy](http://9gag.com/gag/avQEowM)
- - 👉 [Maybe one day](http://9gag.com/gag/aKEWddQ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
+ - ⏩ [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
+ - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
 
 ---
 
