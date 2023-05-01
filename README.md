@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Savings saw nearly $1 billion of deposits in first four days](https://appleinsider.com/articles/23/05/01/apple-savings-saw-nearly-1-billion-of-deposits-in-first-four-days?utm_medium=rss)
- - [Here’s the retail box of the Google Pixel 7a and the secrets it shares](https://www.androidauthority.com/google-pixel-7a-box-3319219/)
- - [Twitter’s latest outage is logging out desktop users](https://www.theverge.com/2023/5/1/23707141/twitter-website-down-logged-out-error-outage)<!-- TECH:END -->
+ - [FAA faces lawsuit over SpaceX’s damage to local environment](https://www.theverge.com/2023/5/1/23707029/spacex-faa-lawsuit-boca-chica-launch-explosion)
+ - [A glitch on Twitter&#39;s website has been randomly logging out users for at least a couple hours and has prevented some from logging back in &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p16#a230501p16)
+ - [Apple uses its Rapid Security Response feature, announced at last year&#39;s WWDC, for the first time, pushing a more lightweight fix to iOS and macOS users &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230501/p15#a230501p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
