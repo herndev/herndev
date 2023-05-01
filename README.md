@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He\u2019s still figuring out the controls](http://9gag.com/gag/aVbm7BM)
- - ⏩ [The Art](http://9gag.com/gag/a4o5o2y)
- - 👉 [That&#39;s a sucker punch](http://9gag.com/gag/a5XGQWo)<!-- MEMES:END -->
+ - 💣 [Tire theft gone wrong](http://9gag.com/gag/aOxDQL2)
+ - ⏩ [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)
+ - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
 
 ---
 
