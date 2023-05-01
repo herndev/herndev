@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s true crime anthology Monster returns with two killers this time](https://www.polygon.com/23707119/netflix-monster-new-season-2-menendez-brothers)
  - [Star Wars Jedi: Survivor is already $10 off](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)
- - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)
- - [OpenAI threatens legal action against the developer of a free GPT4-powered chatbot for sneaking past its paywall](https://www.pcgamer.com/openai-threatens-legal-action-against-the-developer-of-a-free-gpt4-powered-chatbot-for-sneaking-past-its-paywall)<!-- GAME:END -->
+ - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
