@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first iPhone Rapid Security Response patch had a problem, but it’s fine now](https://www.theverge.com/2023/5/1/23706883/apple-ios-16-iphone-rapid-security-update-error-internet-connection)
- - [Asus Zenbook S 13 OLED &lpar;2023&rpar; review: lighter than Air](https://www.theverge.com/23706748/asus-zenbook-s-13-oled-2023-review)
- - [EA issues Star Wars Jedi: Survivor patch combating some performance issues on PC](https://www.theverge.com/2023/5/1/23706853/ea-star-wars-jedi-survivor-may-pc-patch-performance-fix)<!-- TECH:END -->
+ - [Apple Savings saw nearly $1 billion of deposits in first four days](https://appleinsider.com/articles/23/05/01/apple-savings-saw-nearly-1-billion-of-deposits-in-first-four-days?utm_medium=rss)
+ - [Here’s the retail box of the Google Pixel 7a and the secrets it shares](https://www.androidauthority.com/google-pixel-7a-box-3319219/)
+ - [Twitter’s latest outage is logging out desktop users](https://www.theverge.com/2023/5/1/23707141/twitter-website-down-logged-out-error-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
