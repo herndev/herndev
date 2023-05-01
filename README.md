@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Fold: Everything we know so far](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
  - [Apple Watch all set to get ‘one of the biggest software updates’ ever](https://www.androidauthority.com/apple-watch-watchos-10-3318990/)
- - [Google confirms fix for annoying Android volume control problem](https://www.androidauthority.com/android-notification-ringtone-volume-control-3318978/)
- - [There&#39;s a Sriracha Shortage. Here Are 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google confirms fix for annoying Android volume control problem](https://www.androidauthority.com/android-notification-ringtone-volume-control-3318978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
