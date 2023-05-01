@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
- - ⏩ [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
- - 👉 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 💣 [He\u2019s still figuring out the controls](http://9gag.com/gag/aVbm7BM)
+ - ⏩ [The Art](http://9gag.com/gag/a4o5o2y)
+ - 👉 [That&#39;s a sucker punch](http://9gag.com/gag/a5XGQWo)<!-- MEMES:END -->
 
 ---
 
