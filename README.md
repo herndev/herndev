@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Even The Official Account For Xbox’s Big New Shooter Was Safe From Microsoft’s Leak Takedown](https://kotaku.com/redfall-arkane-twitter-copyright-dmca-xbox-game-pass-pc-1850391730)
- - [Netflix just renewed one of its best new shows for a second season](https://www.polygon.com/23706819/diplomat-netflix-season-2-news-cast-release-date-renewal-keri-russell)
- - [Sheesh, The Full Super Mario Bros. Movie Keeps Popping Up On Twitter](https://kotaku.com/nintendo-super-mario-bros-movie-full-twitter-elon-musk-1850391785)<!-- GAME:END -->
+ - [&#39;Godfather of Deep Learning&#39; quits Google and warns of AI dangers: &#39;I don’t think they should scale this up more until they have understood whether they can control it&#39;](https://www.pcgamer.com/godfather-of-deep-learning-quits-google-and-warns-of-ai-dangers-i-dont-think-they-should-scale-this-up-more-until-they-have-understood-whether-they-can-control-it)
+ - [NASA extends Voyager 2&#39;s space mission by basically putting it into power-saver mode](https://www.pcgamer.com/nasa-extends-voyager-2s-space-mission-by-basically-putting-it-into-power-saver-mode)
+ - [Amazon Prime’s freebies for May include Resident Evil 2 remake](https://www.polygon.com/23705639/amazon-prime-gaming-free-games-may-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
