@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
- - ⏩ [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
- - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
+ - 💣 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - ⏩ [Meow](http://9gag.com/gag/az2G9Dz)
+ - 👉 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)<!-- MEMES:END -->
 
 ---
 
