@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aoK4MLe)
- - ⏩ [Japanese chef cooking fried rice](http://9gag.com/gag/aOxDQwN)
- - 👉 [A 12-year-old speaks out in front of progressive school board after he was sent home and suspended from school because he was making people &#39;feel unsafe, fear for their life and offended&#39; for wearing a shirt that said \u201cthere are only 2 genders.\u201d](http://9gag.com/gag/a6qnE9m)<!-- MEMES:END -->
+ - 💣 [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)
+ - ⏩ [Ancient water](http://9gag.com/gag/axob7DL)
+ - 👉 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
 
 ---
 
