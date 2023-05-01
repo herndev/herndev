@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: iPads up to $100 off, $800 off MacBook Pro, $500 off Dell G15 Gaming Laptop, more](https://appleinsider.com/articles/23/05/01/deals-ipads-up-to-100-off-800-off-macbook-pro-500-off-dell-g15-gaming-laptop-more?utm_medium=rss)
- - [Apple&#39;s Q2 iPhone sales won&#39;t disappoint Wall Street this week, says Wedbush](https://appleinsider.com/articles/23/05/01/iphone-q2-revenue-will-hit-what-wall-streets-wants-to-see-says-wedbush?utm_medium=rss)
- - [Apple renews &#39;The Morning Show&#39; for season four ahead of third season premiere](https://appleinsider.com/articles/23/05/01/apple-renews-the-morning-show-for-season-four-ahead-of-third-season-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Amazon’s canceled plan to make Halo a fitness success](https://www.theverge.com/2023/5/1/23704825/amazon-halo-canceled-features-ai-training-apple-watch)
+ - [NYPD’s answer to TikTok car theft challenges: 500 free AirTags](https://www.theverge.com/2023/5/1/23706359/nypd-tiktok-apple-kia-car-theft-challenges-free-airtags)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
