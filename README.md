@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - ⏩ [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
- - 👉 [Simple but messy](http://9gag.com/gag/avQEowM)<!-- MEMES:END -->
+ - 💣 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - ⏩ [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 👉 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
 
 ---
 
