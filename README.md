@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your favourite wallpapers... mine in the comments](http://9gag.com/gag/aZDQ70Q)
- - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 👉 [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)<!-- MEMES:END -->
+ - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
+ - ⏩ [Meow](http://9gag.com/gag/az2G9Dz)
+ - 👉 [Adam Ondra in action at Yosemite, which is world&#39;s hardest wall to climb as per him.](http://9gag.com/gag/aREz33G)<!-- MEMES:END -->
 
 ---
 
