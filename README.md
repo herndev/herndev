@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Will Wilkerson, a former Truth Social VP who blew the whistle, turned over 150K documents to the SEC and investigators, and now works at Starbucks &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230501/p3#a230501p3)
- - [Sources: Istanbul-based grocery delivery startup Getir is in talks to acquire German rival Flink, which also is seeking to raise ~$100M at a $1B+ valuation &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230501/p2#a230501p2)
- - [Fresh leak gets up close and personal with the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-images-design-leak-3318997/)<!-- TECH:END -->
+ - [Earnings from Meta, Amazon, Google, and Intel were better than expected, sparking hope that the post-pandemic hangover is fading, but sales growth still lags &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/230501/p4#a230501p4)
+ - [New York hands out 500 AirTags in car theft crackdown](https://appleinsider.com/articles/23/05/01/new-york-hands-out-500-airtags-in-car-theft-crackdown?utm_medium=rss)
+ - [Casetify Snap case for MacBook and iPad review: Playful, yet protective](https://appleinsider.com/articles/23/05/01/casetify-snap-case-for-macbook-and-ipad-review-playful-yet-protective?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
