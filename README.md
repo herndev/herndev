@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
- - ⏩ [He is right](http://9gag.com/gag/aGEMZyK)
- - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
+ - 💣 [Kid learnd an essential life lesson](http://9gag.com/gag/aA04gR0)
+ - ⏩ [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
+ - 👉 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
 
 ---
 
