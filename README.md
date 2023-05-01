@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms fix for annoying Android volume control problem](https://www.androidauthority.com/android-notification-ringtone-volume-control-3318978/)
  - [The best Apple Watch Series 8 cases you can buy](https://www.androidauthority.com/best-apple-watch-series-8-cases-3318916/)
- - [As labor contract negotiations heat up in Hollywood, unions representing screenwriters and actors seek to regulate the use of AI-produced material &lpar;New York Times&rpar;](http://www.techmeme.com/230430/p8#a230430p8)
- - [The Green Revolution is Being Held Back by Red Tape     - CNET](https://www.cnet.com/science/the-green-revolution-is-being-held-back-by-red-tape/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As labor contract negotiations heat up in Hollywood, unions representing screenwriters and actors seek to regulate the use of AI-produced material &lpar;New York Times&rpar;](http://www.techmeme.com/230430/p8#a230430p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
