@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Godfather of Deep Learning&#39; quits Google and warns of AI dangers: &#39;I don’t think they should scale this up more until they have understood whether they can control it&#39;](https://www.pcgamer.com/godfather-of-deep-learning-quits-google-and-warns-of-ai-dangers-i-dont-think-they-should-scale-this-up-more-until-they-have-understood-whether-they-can-control-it)
- - [NASA extends Voyager 2&#39;s space mission by basically putting it into power-saver mode](https://www.pcgamer.com/nasa-extends-voyager-2s-space-mission-by-basically-putting-it-into-power-saver-mode)
- - [Amazon Prime’s freebies for May include Resident Evil 2 remake](https://www.polygon.com/23705639/amazon-prime-gaming-free-games-may-2023)<!-- GAME:END -->
+ - [Lego’s largest and most detailed X-Wing has landed for $239.99](https://www.polygon.com/deals/2023/5/1/23706839/lego-star-wars-x-wing-new-pre-order-may-4th-deals)
+ - [When A Beloved Pet Dies, Sometimes Pokémon Lets Us Immortalize Them](https://kotaku.com/pokemon-nickname-pet-name-go-black-white-legends-arceus-1850392164)
+ - [This Adventure Game&#39;s Characters Were All Embroidery First](https://kotaku.com/scarlet-deer-inn-embroidered-game-twitter-steam-switch-1850392432)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
