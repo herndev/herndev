@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify tries to win indie authors by cutting audiobook fees](https://www.theverge.com/2023/5/1/23706847/spotify-findaway-voices-cuts-audiobook-fees)
- - [Apple issues Rapid Security Response update for iOS 16.4.1, macOS 13.3.1](https://appleinsider.com/articles/23/05/01/apple-issues-rapid-security-response-update-for-ios-1641-macos-1331?utm_medium=rss)
- - [Lululook 360 Rotating Foldable Laptop Stand review: Solid and sleek MacBook support](https://appleinsider.com/articles/23/05/01/lululook-360-rotating-foldable-laptop-stand-review-solid-and-sleek-macbook-support?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s first iPhone Rapid Security Response patch had a problem, but it’s fine now](https://www.theverge.com/2023/5/1/23706883/apple-ios-16-iphone-rapid-security-update-error-internet-connection)
+ - [Asus Zenbook S 13 OLED &lpar;2023&rpar; review: lighter than Air](https://www.theverge.com/23706748/asus-zenbook-s-13-oled-2023-review)
+ - [EA issues Star Wars Jedi: Survivor patch combating some performance issues on PC](https://www.theverge.com/2023/5/1/23706853/ea-star-wars-jedi-survivor-may-pc-patch-performance-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
