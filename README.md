@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh leak gets up close and personal with the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-images-design-leak-3318997/)
- - [Samsung Galaxy S21 series finally gets astrophotography skills](https://www.androidauthority.com/samsung-galaxy-s21-astrophotography-3318994/)
- - [Bhutan has quietly been mining bitcoin since 2019, becoming the second country after El Salvador known to have a state-run mine, and is planning a 100 MW mine &lpar;Forbes&rpar;](http://www.techmeme.com/230501/p1#a230501p1)<!-- TECH:END -->
+ - [A profile of Will Wilkerson, a former Truth Social VP who blew the whistle, turned over 150K documents to the SEC and investigators, and now works at Starbucks &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230501/p3#a230501p3)
+ - [Sources: Istanbul-based grocery delivery startup Getir is in talks to acquire German rival Flink, which also is seeking to raise ~$100M at a $1B+ valuation &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230501/p2#a230501p2)
+ - [Fresh leak gets up close and personal with the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-images-design-leak-3318997/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
