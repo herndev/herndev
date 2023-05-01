@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA faces lawsuit over SpaceX’s damage to local environment](https://www.theverge.com/2023/5/1/23707029/spacex-faa-lawsuit-boca-chica-launch-explosion)
- - [A glitch on Twitter&#39;s website has been randomly logging out users for at least a couple hours and has prevented some from logging back in &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p16#a230501p16)
- - [Apple uses its Rapid Security Response feature, announced at last year&#39;s WWDC, for the first time, pushing a more lightweight fix to iOS and macOS users &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230501/p15#a230501p15)<!-- TECH:END -->
+ - [Mastodon announces a new onboarding experience that makes mastodon.social the default server choice, instead of requiring users pick from thousands of instances &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230501/p17#a230501p17)
+ - [BeReal is making a feed of just famous people](https://www.theverge.com/2023/5/1/23707181/bereal-feed-famous-people-realpeople)
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
