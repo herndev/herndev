@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego’s largest and most detailed X-Wing has landed for $239.99](https://www.polygon.com/deals/2023/5/1/23706839/lego-star-wars-x-wing-new-pre-order-may-4th-deals)
- - [When A Beloved Pet Dies, Sometimes Pokémon Lets Us Immortalize Them](https://kotaku.com/pokemon-nickname-pet-name-go-black-white-legends-arceus-1850392164)
- - [This Adventure Game&#39;s Characters Were All Embroidery First](https://kotaku.com/scarlet-deer-inn-embroidered-game-twitter-steam-switch-1850392432)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor is already $10 off](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)
+ - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)
+ - [OpenAI threatens legal action against the developer of a free GPT4-powered chatbot for sneaking past its paywall](https://www.pcgamer.com/openai-threatens-legal-action-against-the-developer-of-a-free-gpt4-powered-chatbot-for-sneaking-past-its-paywall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
