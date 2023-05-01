@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blockbuster Game Development Costs Are Out Of Control](https://kotaku.com/microsoft-activision-blizzard-call-duty-gta-vi-halo-1850391113)
- - [Japanese Store Is Banning Adults From Buying Pokémon Cards](https://kotaku.com/pokemon-card-clay-burst-snow-hazard-pack-japan-1850391066)
- - [Star Wars Jedi: Survivor getting patched pronto to fix bugs, Respawn says](https://www.polygon.com/23706582/star-wars-jedi-survivor-pc-patch-fixes-ps5-xbox-bugs)<!-- GAME:END -->
+ - [Richard Madden on why Stanley Tucci is the secret to Citadel](https://www.polygon.com/23700896/citadel-episode-stanley-tucci-richard-madden)
+ - [Star Wars Jedi: Survivor Might Include The First Canonical Toilet In A Star Wars Game](https://kotaku.com/star-wars-jedi-survivor-toilet-canon-where-find-koboh-1850391475)
+ - [The Mario movie has crossed $1 billion at the box office](https://www.polygon.com/23677014/super-mario-bros-movie-gross-box-office-opening-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
