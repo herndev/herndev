@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Green Revolution is Being Held Back by Red Tape     - CNET](https://www.cnet.com/science/the-green-revolution-is-being-held-back-by-red-tape/#ftag=CAD590a51e)
  - [Hands on: iMessage on Windows 11 with Phone Link](https://appleinsider.com/articles/23/04/30/hands-on-imessage-on-windows-11-with-phone-link?utm_medium=rss)
- - [Carmakers and IP experts raise concerns over the rising dominance of Chinese companies like Huawei when it comes to 4G, 5G, and Wi-Fi standard essential patents &lpar;Financial Times&rpar;](http://www.techmeme.com/230430/p7#a230430p7)
- - [How to type faster on Mac and boost your productivity](https://appleinsider.com/articles/23/04/30/how-to-type-faster-on-mac-and-boost-your-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [Carmakers and IP experts raise concerns over the rising dominance of Chinese companies like Huawei when it comes to 4G, 5G, and Wi-Fi standard essential patents &lpar;Financial Times&rpar;](http://www.techmeme.com/230430/p7#a230430p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
