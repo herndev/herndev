@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Donald Trump amplified QAnon-promoting accounts nearly 500 times during his first year of posting on Truth Social, vs. 300+ times from 2017 to 2021 on Twitter &lpar;Alex Kaplan/Media Matters for America&rpar;](http://www.techmeme.com/230501/p11#a230501p11)
- - [Schools bought millions of Chromebooks in 2020 — and three years later, they’re starting to break](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)<!-- TECH:END -->
+ - [Amazon is adding Prime Video originals to its free streaming service](https://www.theverge.com/2023/5/1/23706706/amazon-prime-video-free-streaming-service-freevee)
+ - [Apple issues Rapid Security Response update for iOS 16.4.1, macOS 13.3.1](https://appleinsider.com/articles/23/05/01/apple-issues-rapid-security-response-update-for-ios-1641-macos-1331?utm_medium=rss)
+ - [Save up to $530 on Apple gear with these deals on Amazon](https://appleinsider.com/articles/23/05/01/save-up-to-530-on-apple-gear-with-these-deals-on-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
