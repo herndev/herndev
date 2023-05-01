@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)
- - ⏩ [Ancient water](http://9gag.com/gag/axob7DL)
- - 👉 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
+ - 💣 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
+ - ⏩ [Simple but messy](http://9gag.com/gag/avQEowM)
+ - 👉 [Maybe one day](http://9gag.com/gag/aKEWddQ)<!-- MEMES:END -->
 
 ---
 
