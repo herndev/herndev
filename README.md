@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earnings from Meta, Amazon, Google, and Intel were better than expected, sparking hope that the post-pandemic hangover is fading, but sales growth still lags &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/230501/p4#a230501p4)
- - [New York hands out 500 AirTags in car theft crackdown](https://appleinsider.com/articles/23/05/01/new-york-hands-out-500-airtags-in-car-theft-crackdown?utm_medium=rss)
- - [Casetify Snap case for MacBook and iPad review: Playful, yet protective](https://appleinsider.com/articles/23/05/01/casetify-snap-case-for-macbook-and-ipad-review-playful-yet-protective?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s favorite Stream Deck hacks](https://www.theverge.com/23700541/stream-deck-hacks-uses)
+ - [NewsGuard finds 49 websites populated by generative AI posing as news outlets with generic names like News Live 79; some feature falsehoods and programmatic ads &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230501/p6#a230501p6)
+ - [iPhone Q2 revenue will hit what Wall Streets wants to see, says Wedbush](https://appleinsider.com/articles/23/05/01/iphone-q2-revenue-will-hit-what-wall-streets-wants-to-see-says-wedbush?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
