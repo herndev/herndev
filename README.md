@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kid learnd an essential life lesson](http://9gag.com/gag/aA04gR0)
- - ⏩ [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
- - 👉 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
+ - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - ⏩ [Caught redhanded](http://9gag.com/gag/aXn4Yq6)
+ - 👉 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
 
 ---
 
