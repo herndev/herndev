@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 👉 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)<!-- MEMES:END -->
+ - 💣 [AI generated beer commercial](http://9gag.com/gag/aQEAXz2)
+ - ⏩ [The simplest way to achieve peace. Yet, there still exist many people that are incapable of fully grasping such simple concept.](http://9gag.com/gag/a0467Rv)
+ - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aQEAoq7)<!-- MEMES:END -->
 
 ---
 
