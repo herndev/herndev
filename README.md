@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI generated beer commercial](http://9gag.com/gag/aQEAXz2)
- - ⏩ [The simplest way to achieve peace. Yet, there still exist many people that are incapable of fully grasping such simple concept.](http://9gag.com/gag/a0467Rv)
- - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aQEAoq7)<!-- MEMES:END -->
+ - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
+ - ⏩ [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
+ - 👉 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)<!-- MEMES:END -->
 
 ---
 
