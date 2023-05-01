@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Piano Helped Me Fall Back in Love with Tech](https://www.wired.com/story/how-the-piano-helped-me-love-tech-again/)
- - [5 Best Digital Photo Frames &lpar;2023&rpar;: High Res and Natural Screens, Plus Privacy Tips](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [The Super Mario Bros. Movie has made a cool $1 billion](https://www.theverge.com/2023/5/1/23695720/nintendo-mario-movie-billion-box-office)<!-- TECH:END -->
+ - [Deals: iPads up to $100 off, $800 off MacBook Pro, $500 off Dell G15 Gaming Laptop, more](https://appleinsider.com/articles/23/05/01/deals-ipads-up-to-100-off-800-off-macbook-pro-500-off-dell-g15-gaming-laptop-more?utm_medium=rss)
+ - [Apple&#39;s Q2 iPhone sales won&#39;t disappoint Wall Street this week, says Wedbush](https://appleinsider.com/articles/23/05/01/iphone-q2-revenue-will-hit-what-wall-streets-wants-to-see-says-wedbush?utm_medium=rss)
+ - [Apple renews &#39;The Morning Show&#39; for season four ahead of third season premiere](https://appleinsider.com/articles/23/05/01/apple-renews-the-morning-show-for-season-four-ahead-of-third-season-premiere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
