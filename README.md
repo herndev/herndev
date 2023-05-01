@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is Gamora &lpar;in Guardians of the Galaxy Vol. 3&rpar;?](https://www.polygon.com/23702435/how-is-gamora-alive-in-guardians-of-the-galaxy-vol-3)
- - [This huge Tiny Tina&#39;s Wonderlands mod sounds like almost a completely different game](https://www.pcgamer.com/this-huge-tiny-tinas-wonderlands-mod-sounds-like-almost-a-completely-different-game)
- - [Scream VI, Peter Pan and Wendy, Netflix’s AKA, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/4/28/23695761/new-movies-watch-scream-vi-netflix-aka-peter-pan-wendy-streaming)<!-- GAME:END -->
+ - [ChatGPT Skyrim Mod Is A Robotic Horror Movie](https://kotaku.com/chatgpt-ai-skyrim-pc-rpg-mod-dnd-vr-video-games-1850390097)
+ - [Here comes that city builder set on the back of a giant space turtle](https://www.pcgamer.com/here-comes-that-city-builder-set-on-the-back-of-a-giant-space-turtle)
+ - [Water is life and death is permanent in this tense, laconic, $3 sci-fi adventure](https://www.pcgamer.com/water-is-life-and-death-is-permanent-in-this-tense-laconic-dollar3-sci-fi-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
