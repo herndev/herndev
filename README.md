@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - ⏩ [Meow](http://9gag.com/gag/az2G9Dz)
- - 👉 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)<!-- MEMES:END -->
+ - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 👉 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)<!-- MEMES:END -->
 
 ---
 
