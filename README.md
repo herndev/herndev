@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tire theft gone wrong](http://9gag.com/gag/aOxDQL2)
- - ⏩ [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)
- - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
+ - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - ⏩ [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
+ - 👉 [Simple but messy](http://9gag.com/gag/avQEowM)<!-- MEMES:END -->
 
 ---
 
