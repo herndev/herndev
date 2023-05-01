@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 12-year-old speaks out in front of progressive school board after he was sent home and suspended from school because he was making people &#39;feel unsafe, fear for their life and offended&#39; for wearing a shirt that said \u201cthere are only 2 genders.\u201d](http://9gag.com/gag/a6qnE9m)
- - ⏩ [That voice, though](http://9gag.com/gag/a1P5WWv)
- - 👉 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aoK4MLe)<!-- MEMES:END -->
+ - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
+ - ⏩ [He is right](http://9gag.com/gag/aGEMZyK)
+ - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
 
 ---
 
