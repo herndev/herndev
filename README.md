@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This clever mod makes Doom 3 play more like Doom Eternal](https://www.pcgamer.com/this-clever-mod-makes-doom-3-play-more-like-doom-eternal)
  - [Modder doubles FPS in Star Wars Jedi: Survivor using DLSS](https://www.pcgamer.com/modder-doubles-fps-in-star-wars-jedi-survivor-using-dlss)
- - [Today&#39;s Wordle hint and answer #681: Monday, May 1](https://www.pcgamer.com/wordle-today-hint-answer-681-may-1)
- - [Five new Steam games you probably missed &lpar;May 1, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-1-2023)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #681: Monday, May 1](https://www.pcgamer.com/wordle-today-hint-answer-681-may-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
