@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)
- - [Gate crash a festival in the Chivalry 2: Raiding Party update](https://blog.playstation.com/2023/05/01/gate-crash-a-festival-in-the-chivalry-2-raiding-party-update/)
- - [Every movie and show coming to Netflix in May](https://www.polygon.com/2023/5/1/23699006/new-netflix-movies-tv-shows-watch-may-2023)<!-- GAME:END -->
+ - [What’s new in Apex Legends season 17?](https://www.polygon.com/23706098/apex-legends-season-17-arsenal-patch-notes-s17-battle-pass-rewards)
+ - [Zelda: Tears of the Kingdom owes its design to one of the most overlooked developers](https://www.polygon.com/23702871/zonai-ultrahand-abilities-switch-immersive-sims-legend-of-zelda-tears-of-the-kingdom)
+ - [The Legend of Zelda: Tears of the Kingdom leaks early, apparently](https://www.polygon.com/23706421/legend-of-zelda-tears-of-the-kingdom-leak-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
