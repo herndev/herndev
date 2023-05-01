@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
- - ⏩ [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - 👉 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
+ - 💣 [Hold on](http://9gag.com/gag/anzv43o)
+ - ⏩ [After 16 years of marriage](http://9gag.com/gag/avQEzzd)
+ - 👉 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)<!-- MEMES:END -->
 
 ---
 
