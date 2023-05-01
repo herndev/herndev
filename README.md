@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite Stream Deck hacks](https://www.theverge.com/23700541/stream-deck-hacks-uses)
- - [NewsGuard finds 49 websites populated by generative AI posing as news outlets with generic names like News Live 79; some feature falsehoods and programmatic ads &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230501/p6#a230501p6)
- - [iPhone Q2 revenue will hit what Wall Streets wants to see, says Wedbush](https://appleinsider.com/articles/23/05/01/iphone-q2-revenue-will-hit-what-wall-streets-wants-to-see-says-wedbush?utm_medium=rss)<!-- TECH:END -->
+ - [How the Piano Helped Me Fall Back in Love with Tech](https://www.wired.com/story/how-the-piano-helped-me-love-tech-again/)
+ - [5 Best Digital Photo Frames &lpar;2023&rpar;: High Res and Natural Screens, Plus Privacy Tips](https://www.wired.com/gallery/best-digital-picture-frames/)
+ - [The Super Mario Bros. Movie has made a cool $1 billion](https://www.theverge.com/2023/5/1/23695720/nintendo-mario-movie-billion-box-office)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
