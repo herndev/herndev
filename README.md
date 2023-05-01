@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient water](http://9gag.com/gag/axob7DL)
- - ⏩ [Meow](http://9gag.com/gag/az2G9Dz)
- - 👉 [Adam Ondra in action at Yosemite, which is world&#39;s hardest wall to climb as per him.](http://9gag.com/gag/aREz33G)<!-- MEMES:END -->
+ - 💣 [A man of honor.](http://9gag.com/gag/a4o57KZ)
+ - ⏩ [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 👉 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)<!-- MEMES:END -->
 
 ---
 
