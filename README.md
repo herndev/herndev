@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Legacy 2&#39;s final content update lets you batter enemies with a surfboard](https://www.pcgamer.com/rogue-legacy-2s-final-content-update-lets-you-batter-enemies-with-a-surfboard)
- - [This clever mod makes Doom 3 play more like Doom Eternal](https://www.pcgamer.com/this-clever-mod-makes-doom-3-play-more-like-doom-eternal)
- - [Modder doubles FPS in Star Wars Jedi: Survivor using DLSS](https://www.pcgamer.com/modder-doubles-fps-in-star-wars-jedi-survivor-using-dlss)<!-- GAME:END -->
+ - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)
+ - [Gate crash a festival in the Chivalry 2: Raiding Party update](https://blog.playstation.com/2023/05/01/gate-crash-a-festival-in-the-chivalry-2-raiding-party-update/)
+ - [Every movie and show coming to Netflix in May](https://www.polygon.com/2023/5/1/23699006/new-netflix-movies-tv-shows-watch-may-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
