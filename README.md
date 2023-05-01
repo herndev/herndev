@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe one day](http://9gag.com/gag/aKEWddQ)
- - ⏩ [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
- - 👉 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 💣 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
+ - ⏩ [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
+ - 👉 [Ancient water](http://9gag.com/gag/axob7DL)<!-- MEMES:END -->
 
 ---
 
