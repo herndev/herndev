@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s new in Apex Legends season 17?](https://www.polygon.com/23706098/apex-legends-season-17-arsenal-patch-notes-s17-battle-pass-rewards)
- - [Zelda: Tears of the Kingdom owes its design to one of the most overlooked developers](https://www.polygon.com/23702871/zonai-ultrahand-abilities-switch-immersive-sims-legend-of-zelda-tears-of-the-kingdom)
- - [The Legend of Zelda: Tears of the Kingdom leaks early, apparently](https://www.polygon.com/23706421/legend-of-zelda-tears-of-the-kingdom-leak-streaming)<!-- GAME:END -->
+ - [Blockbuster Game Development Costs Are Out Of Control](https://kotaku.com/microsoft-activision-blizzard-call-duty-gta-vi-halo-1850391113)
+ - [Japanese Store Is Banning Adults From Buying Pokémon Cards](https://kotaku.com/pokemon-card-clay-burst-snow-hazard-pack-japan-1850391066)
+ - [Star Wars Jedi: Survivor getting patched pronto to fix bugs, Respawn says](https://www.polygon.com/23706582/star-wars-jedi-survivor-pc-patch-fixes-ps5-xbox-bugs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
