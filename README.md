@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Amazon’s canceled plan to make Halo a fitness success](https://www.theverge.com/2023/5/1/23704825/amazon-halo-canceled-features-ai-training-apple-watch)
- - [NYPD’s answer to TikTok car theft challenges: 500 free AirTags](https://www.theverge.com/2023/5/1/23706359/nypd-tiktok-apple-kia-car-theft-challenges-free-airtags)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
+ - [After years of work, Microsoft is still trying to make its own Apple Silicon-like chip](https://appleinsider.com/articles/23/05/01/after-years-of-work-microsoft-is-still-trying-to-make-its-own-apple-silicon-like-chip?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Bing AI comes barging in on Samsung Galaxy devices with built-in SwiftKey](https://www.theverge.com/2023/5/1/23706437/microsoft-swiftkey-bing-ai-samsung-galaxy-devices-oneui-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
