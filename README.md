@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of work, Microsoft is still trying to make its own Apple Silicon-like chip](https://appleinsider.com/articles/23/05/01/after-years-of-work-microsoft-is-still-trying-to-make-its-own-apple-silicon-like-chip?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Bing AI comes barging in on Samsung Galaxy devices with built-in SwiftKey](https://www.theverge.com/2023/5/1/23706437/microsoft-swiftkey-bing-ai-samsung-galaxy-devices-oneui-android)<!-- TECH:END -->
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Donald Trump amplified QAnon-promoting accounts nearly 500 times during his first year of posting on Truth Social, vs. 300+ times from 2017 to 2021 on Twitter &lpar;Alex Kaplan/Media Matters for America&rpar;](http://www.techmeme.com/230501/p11#a230501p11)
+ - [Schools bought millions of Chromebooks in 2020 — and three years later, they’re starting to break](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
