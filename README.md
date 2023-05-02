@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worst Zelda Game Gets New Life As Fan-Made Game Boy Demake](https://kotaku.com/worst-zelda-s-adventure-cdi-philips-game-boy-port-1850393486)
- - [Star Wars Jedi: Survivor players are going bananas customizing cylinders and showing them to each other](https://www.pcgamer.com/star-wars-jedi-survivor-players-are-going-bananas-customizing-lightsabers-and-showing-them-to-each-other)
- - [The first Mortal Kombat 12 teaser is apparently a grain of sand that explodes for some reason](https://www.pcgamer.com/the-first-mortal-kombat-12-teaser-is-apparently-a-grain-of-sand-that-explodes-for-some-reason)<!-- GAME:END -->
+ - [I was almost ready to declare Redfall another PC performance disaster, but a last-minute patch might&#39;ve saved it](https://www.pcgamer.com/redfall-pc-performance-launch)
+ - [Redfall review-in-progress: It&#39;s not great, folks](https://www.pcgamer.com/redfall-review-in-progress)
+ - [Redfall is Arkane defanged](https://www.polygon.com/reviews/23706685/redfall-review-xbox-series-x-pc-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
