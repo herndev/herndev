@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One person is transcribing the whole of Final Fantasy 14&#39;s massive main quest, just because](https://www.pcgamer.com/one-person-is-transcribing-the-whole-of-final-fantasy-14s-massive-main-quest-just-because)
- - [Can Alolan Geodude be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23697957/can-alolan-geodude-be-shiny-graveler-golem)
- - [Street Fighter 6&#39;s story mode really is a low-rent Yakuza game and I love it](https://www.pcgamer.com/street-fighter-6s-story-mode-really-is-a-low-rent-yakuza-game-and-i-love-it)<!-- GAME:END -->
+ - [Looks like Intel is dropping the &#39;i&#39; from &#39;Core i7&#39; starting with Meteor Lake](https://www.pcgamer.com/looks-like-intel-is-dropping-the-i-from-core-i7-starting-with-meteor-lake)
+ - [MSI GeForce RTX 4070 Gaming X Trio](https://www.pcgamer.com/msi-geforce-rtx-4070-gaming-x-trio)
+ - [The Last Case of Benedict Fox review](https://www.pcgamer.com/the-last-case-of-benedict-fox-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
