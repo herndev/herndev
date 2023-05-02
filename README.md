@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maybe We Shouldn&#39;t Go Back To The Moon After All](https://kotaku.com/oha-concept-art-illustration-nasa-artemis-moon-mech-1850393797)
- - [Stop. Closing. Forums. For. Discord.](https://kotaku.com/discord-forum-messageboard-amazon-lost-ark-new-world-pc-1850393695)
- - [I was almost ready to declare Redfall another PC performance disaster, but a last-minute patch might&#39;ve saved it](https://www.pcgamer.com/redfall-pc-performance-launch)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/01/this-weeks-deals-with-gold-and-spotlight-sale-272/)
+ - [World&#39;s first wooden transistor bark is stronger than its byte](https://www.pcgamer.com/worlds-first-wooden-transistor-bark-is-stronger-than-its-byte)
+ - [Maybe We Shouldn&#39;t Go Back To The Moon After All](https://kotaku.com/oha-concept-art-illustration-nasa-artemis-moon-mech-1850393797)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
