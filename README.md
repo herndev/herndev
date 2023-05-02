@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub goes dark in Utah to protest age verification law](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest)
- - [What’s after the social media era in news?](https://www.theverge.com/23706621/social-media-buzzfeed-news-traffic-semafor-ben-smith)
- - [Google and Apple team up, realizing location trackers are a big problem](https://www.androidauthority.com/google-apple-location-trackers-3319530/)<!-- TECH:END -->
+ - [Amazon’s latest Matter update brings support for Thread](https://www.theverge.com/2023/5/2/23707900/amazon-matter-smart-home-thread-support)
+ - [Daily deals: $800 off MacBook Pro, Apple Watch from $113, extra 20% off open box Apple devices](https://appleinsider.com/articles/23/05/02/daily-deals-800-off-macbook-pro-apple-watch-from-113-extra-20-off-open-box-apple-devices?utm_medium=rss)
+ - [Lenovo ThinkPhone by Motorola review: great build quality with IP68 rating and useful PC integration options, but lackluster camera and finicky PC app streaming &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230502/p23#a230502p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
