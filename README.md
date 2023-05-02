@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon rolls out Fire TV Channels, its new hub for FAST channels, after it saw monthly hours streamed of FAST content surging 300%+ in the past six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p21#a230501p21)
  - [Memo: Samsung is banning employees from using generative AI tools like ChatGPT, Google Bard, and Bing on company-owned devices due to security concerns &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230501/p20#a230501p20)
- - [Redfall is playable on Steam Deck — with the right settings](https://www.theverge.com/2023/5/1/23707423/redfall-steam-deck-graphics-settings-refresh-rate-configuration)
- - [A US federal judge declared a mistrial in Masimo&#39;s suit against Apple over Apple Watch stolen trade secrets claims after jurors were unable to reach a consensus &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/230501/p19#a230501p19)<!-- TECH:END -->
+ - [Redfall is playable on Steam Deck — with the right settings](https://www.theverge.com/2023/5/1/23707423/redfall-steam-deck-graphics-settings-refresh-rate-configuration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
