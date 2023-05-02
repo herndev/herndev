@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neill Blomkamp Q&amp;A: Gran Turismo director talks inspiration and more](https://blog.playstation.com/2023/05/02/neill-blomkamp-qa-gran-turismo-director-talks-inspiration-and-more/)
- - [Coming Soon to Xbox Game Pass: Ravenlok, Fuga: Melodies of Steel 2, and More](https://news.xbox.com/en-us/2023/05/02/game-pass-may-2023-wave-1-announce/)
- - [Genndy Tartakovsky has more plans for one of his old series](https://www.polygon.com/23707072/genndy-tartakovsky-unicorn-warriors-eternal-sym-bionic-titan)<!-- GAME:END -->
+ - [Invite Your Friends and Play Together – Announcing Game Pass’ New Friend Referral Program](https://news.xbox.com/en-us/2023/05/02/game-pass-friend-referral-program-announce/)
+ - [Hollywood writers strike after studios fail to negotiate low pay, AI use](https://www.polygon.com/23707874/wga-strike-2023-writers-guild-of-america-contract)
+ - [Marvel Snap’s Creator Doesn’t Want You To Play Agatha Harkness’ Card](https://kotaku.com/marvel-snap-agatha-harkness-card-interview-ben-brode-1850394191)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
