@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM CEO Arvind Krishna says the company plans to slow or stop back-office hiring, impacting ~26K staff, and ~30% could &quot;easily&quot; be replaced by AI in five years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230502/p4#a230502p4)
  - [The Google Pixel 7a is launching in India on May 11](https://www.androidauthority.com/google-pixel-7a-india-launch-date-3319369/)
- - [Fire TV Channels is a free TV service just for Fire TV owners](https://www.androidauthority.com/amazon-fire-tv-channels-fast-3319366/)
- - [Internal records show ByteDance uses word lists, extending beyond standard moderation blocklists, to detect or suppress content; TikTok denies using the lists &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/230502/p3#a230502p3)<!-- TECH:END -->
+ - [Fire TV Channels is a free TV service just for Fire TV owners](https://www.androidauthority.com/amazon-fire-tv-channels-fast-3319366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
