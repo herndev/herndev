@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based compsci education nonprofit Code.org announces TeachAI, helping guide teaching on AI by convening leaders from Amazon, OpenAI, Microsoft, and more &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230502/p19#a230502p19)
- - [Apple and Google are working together to limit AirTag stalking](https://www.theverge.com/2023/5/2/23707920/apple-google-airtag-stalking-bluetooth-tracker-alert-standard)
- - [Apple and Google are working together to reduce AirTag &amp; other tracker stalking](https://appleinsider.com/articles/23/05/02/apple-and-google-are-working-together-to-reduce-airtag-other-tracker-stalking?utm_medium=rss)<!-- TECH:END -->
+ - [Pornhub goes dark in Utah to protest age verification law](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest)
+ - [What’s after the social media era in news?](https://www.theverge.com/23706621/social-media-buzzfeed-news-traffic-semafor-ben-smith)
+ - [Google and Apple team up, realizing location trackers are a big problem](https://www.androidauthority.com/google-apple-location-trackers-3319530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
