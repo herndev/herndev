@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Matter update brings support for Thread](https://www.theverge.com/2023/5/2/23707900/amazon-matter-smart-home-thread-support)
- - [Daily deals: $800 off MacBook Pro, Apple Watch from $113, extra 20% off open box Apple devices](https://appleinsider.com/articles/23/05/02/daily-deals-800-off-macbook-pro-apple-watch-from-113-extra-20-off-open-box-apple-devices?utm_medium=rss)
- - [Lenovo ThinkPhone by Motorola review: great build quality with IP68 rating and useful PC integration options, but lackluster camera and finicky PC app streaming &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230502/p23#a230502p23)<!-- TECH:END -->
+ - [The &#39;Godfather of AI&#39; quit Google to call for global regulations](https://appleinsider.com/articles/23/05/02/the-godfather-of-ai-quit-google-to-call-for-global-regulations?utm_medium=rss)
+ - [Motorola Razr 40 Ultra leak spills all the details you wanted to know](https://www.androidauthority.com/motorola-razr-40-ultra-2-3319557/)
+ - [Nanoleaf’s new Matter light bulbs are an essential part of the smart home](https://www.theverge.com/23706841/nanoleaf-essentials-matter-smart-bulbs-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
