@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall Available Now on Xbox Series X|S and Game Pass](https://news.xbox.com/en-us/2023/05/02/redfall-out-now-launch/)
- - [This delightful mod brings Elden Ring&#39;s community spirit into Final Fantasy 14](https://www.pcgamer.com/this-delightful-mod-brings-elden-rings-community-spirit-into-final-fantasy-14)
- - [Guardians of the Galaxy 3 deserves a content warning for violence against animals](https://www.polygon.com/23706835/guardians-galaxy-3-animal-abuse-scenes-content-warning-trigger-list)<!-- GAME:END -->
+ - [EVE Online celebrates 20th anniversary with a fireworks show and a free expansion](https://www.pcgamer.com/eve-online-celebrates-20th-anniversary-with-a-fireworks-show-and-a-free-expansion)
+ - [Star Wars Jedi: Survivor Spawn of Oggdo location and how to beat it](https://www.pcgamer.com/star-wars-jedi-survivor-spawn-of-oggdo-location-how-to-beat)
+ - [The Week In Games: Open-World Vampire Slaying And Roguelite Hockey](https://kotaku.com/may-game-releases-out-this-week-redfall-tape-to-tape-1850392045)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
