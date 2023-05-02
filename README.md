@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Pixel 7a is launching in India on May 11](https://www.androidauthority.com/google-pixel-7a-india-launch-date-3319369/)
  - [Fire TV Channels is a free TV service just for Fire TV owners](https://www.androidauthority.com/amazon-fire-tv-channels-fast-3319366/)
- - [Internal records show ByteDance uses word lists, extending beyond standard moderation blocklists, to detect or suppress content; TikTok denies using the lists &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/230502/p3#a230502p3)
- - [Like it or not, Bing AI is now on your Galaxy phone](https://www.androidauthority.com/bing-ai-swiftkey-galaxy-phones-3319358/)<!-- TECH:END -->
+ - [Internal records show ByteDance uses word lists, extending beyond standard moderation blocklists, to detect or suppress content; TikTok denies using the lists &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/230502/p3#a230502p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
