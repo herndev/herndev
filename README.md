@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes sir](http://9gag.com/gag/ay2Wq9q)
- - ⏩ [Hold on](http://9gag.com/gag/anzv43o)
- - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
+ - 💣 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
+ - ⏩ [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
+ - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 ---
 
