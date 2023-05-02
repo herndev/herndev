@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inflection AI, founded by Reid Hoffman, Mustafa Suleyman, and Kar&amp;eacute;n Simonyan, debuts Pi, a chatbot more like a sounding board than &quot;a repackaged Wikipedia&quot; post &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230502/p31#a230502p31)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [American College of Pediatricians Leak Exposes 10,000 Confidential Files](https://www.wired.com/story/american-college-pediatricians-google-drive-leak/)<!-- TECH:END -->
+ - [AMD reports Q1 revenue down 9% YoY to $5.35B, vs. $5.3B est., a $139M net loss, Client revenue down 65% YoY to $739M, and Q2 revenue guidance below expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230502/p34#a230502p34)
+ - [Honkai: Star Rail – Redemption Codes and how they work](https://www.androidauthority.com/honkai-star-rail-redemption-codes-3319619/)
+ - [Sources: Toronto-based AI startup Cohere is close to securing $250M in funding from backers including Nvidia and Salesforce, at a ~$2B post-money valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230502/p33#a230502p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
