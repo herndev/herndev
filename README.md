@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Alolan Geodude be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23697957/can-alolan-geodude-be-shiny-graveler-golem)
  - [Street Fighter 6&#39;s story mode really is a low-rent Yakuza game and I love it](https://www.pcgamer.com/street-fighter-6s-story-mode-really-is-a-low-rent-yakuza-game-and-i-love-it)
- - [RTX 4060 Ti uses same board as 3060, due out end of May](https://www.pcgamer.com/rtx-4060-ti-uses-same-board-as-3060-due-out-end-of-may)
- - [Today&#39;s Wordle hint and answer #682: Tuesday, May 2](https://www.pcgamer.com/wordle-today-hint-answer-682-may-2)<!-- GAME:END -->
+ - [RTX 4060 Ti uses same board as 3060, due out end of May](https://www.pcgamer.com/rtx-4060-ti-uses-same-board-as-3060-due-out-end-of-may)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
