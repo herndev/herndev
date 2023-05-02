@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Of The Most Visually Stunning PlayStation 4 Games](https://kotaku.com/ps4-games-best-graphics-tlou-uncharted-horizon-killzone-1850397207)
- - [Game Pass Now Lets You Give Friends Free Trials On PC](https://kotaku.com/xbox-game-pass-free-trial-redfall-minecraft-starfield-1850397083)
- - [Lost Pokémon Anime Episodes Rediscovered After 12 Years](https://kotaku.com/pokemon-anime-lost-episodes-team-rocket-earthquake-1850396995)<!-- GAME:END -->
+ - [Elden Ring Meets Bloodborne In Latest Overhaul Mod](https://kotaku.com/elden-ring-boss-mod-garden-of-eyes-oedon-bloodborne-1850397317)
+ - [Marvel&#39;s Midnight Suns gets its final DLC next week, but the Nintendo Switch version has been cancelled](https://www.pcgamer.com/marvels-midnight-suns-gets-its-final-dlc-next-week-but-the-nintendo-switch-version-has-been-cancelled)
+ - [Did Blizzard accidentally ship some Diablo 4 collector&#39;s editions a month early? Uh, maybe](https://www.pcgamer.com/did-blizzard-accidentally-ship-some-diablo-4-collectors-editions-a-month-early-uh-maybe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
