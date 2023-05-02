@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets light some fireworks on the street](http://9gag.com/gag/awZLzPD)
- - ⏩ [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
- - 👉 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 💣 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
+ - ⏩ [Welcome to london](http://9gag.com/gag/a4o5EBp)
+ - 👉 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
 
 ---
 
