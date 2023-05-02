@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Of The Best Ways Games Put Dirty Cheaters In Their Place](https://kotaku.com/video-game-cheater-bans-grand-theft-auto-call-of-duty-1850396574)
- - [Afrofuturist animated series Kizazi Moto: Generation Fire coming to Disney Plus](https://www.polygon.com/23708513/kizazi-moto-trailer-afrofuturist-series-disney-plus-animated)
- - [PC gamers are getting really, really fed up with one sh*tty port after another](https://www.pcgamer.com/pc-gamers-really-fed-up-with-one-bad-pc-port-after-another-2023)<!-- GAME:END -->
+ - [Lost Pokémon Anime Episodes Rediscovered After 12 Years](https://kotaku.com/pokemon-anime-lost-episodes-team-rocket-earthquake-1850396995)
+ - [Hey, wait a minute, the Gran Turismo movie is just Days of Thunder!](https://www.pcgamer.com/hey-wait-a-minute-the-gran-turismo-movie-is-just-days-of-thunder)
+ - [Netflix’s AKA is another showcase for a budding action star](https://www.polygon.com/reviews/23708529/aka-netflix-review-french-action-movies-alban-lenoir)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
