@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The &#39;Godfather of AI&#39; quit Google to call for global regulations](https://appleinsider.com/articles/23/05/02/the-godfather-of-ai-quit-google-to-call-for-global-regulations?utm_medium=rss)
- - [Motorola Razr 40 Ultra leak spills all the details you wanted to know](https://www.androidauthority.com/motorola-razr-40-ultra-2-3319557/)
- - [Nanoleaf’s new Matter light bulbs are an essential part of the smart home](https://www.theverge.com/23706841/nanoleaf-essentials-matter-smart-bulbs-review)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Snap says it has begun testing sponsored links in My AI conversations, reveals Spotlight grew 170% YoY to 350 MAUs, launches &quot;First Story&quot; ad product, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230502/p29#a230502p29)
+ - [International police just made a huge dark web bust](https://www.theverge.com/2023/5/2/23708094/international-police-dark-web-monopoly-market-bust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
