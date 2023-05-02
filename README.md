@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
- - ⏩ [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
- - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - ⏩ [Ferguso](http://9gag.com/gag/a8qD7Z6)
+ - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 ---
 
