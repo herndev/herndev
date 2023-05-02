@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
- - ⏩ [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 👉 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)<!-- MEMES:END -->
+ - 💣 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
+ - ⏩ [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 👉 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)<!-- MEMES:END -->
 
 ---
 
