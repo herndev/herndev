@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
- - ⏩ [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
- - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 💣 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
+ - ⏩ [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 👉 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
 
 ---
 
