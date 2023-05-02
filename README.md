@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch picks up May 2023 security patch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [OnePlus Pad review: a bright screen, excellent build quality, and snappy performance, but limited built-in apps, subpar keyboard and stylus, and a mid-tier CPU &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230502/p1#a230502p1)
- - [Pornhub has disabled its website in Utah amid a new age verification law for porn sites, replacing it with a video asking users to talk to their representatives &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230501/p22#a230501p22)<!-- TECH:END -->
+ - [Like it or not, Bing AI is now on your Galaxy phone](https://www.androidauthority.com/bing-ai-swiftkey-galaxy-phones-3319358/)
+ - [Samsung imposes ban on generative AI tools like ChatGPT](https://www.androidauthority.com/samsung-generative-ai-chatgpt-ban-3319343/)
+ - [The current push for age restrictions on certain online content in the US echoes the Communications Decency Act of 1996, which was struck down by SCOTUS in 1997 &lpar;New York Times&rpar;](http://www.techmeme.com/230502/p2#a230502p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
