@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
+ - 💣 [Lonely Island: Mother Lover](http://9gag.com/gag/avQEWZX)
  - ⏩ [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
- - 👉 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 👉 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)<!-- MEMES:END -->
 
 ---
 
