@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ukraine&#39;s army is experimenting with using Steam Decks to remote-control gun turrets](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets)
- - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)
- - [Netflix’s true crime anthology Monster returns with two killers this time](https://www.polygon.com/23707119/netflix-monster-new-season-2-menendez-brothers)<!-- GAME:END -->
+ - [Worst Zelda Game Gets New Life As Fan-Made Game Boy Demake](https://kotaku.com/worst-zelda-s-adventure-cdi-philips-game-boy-port-1850393486)
+ - [Star Wars Jedi: Survivor players are going bananas customizing cylinders and showing them to each other](https://www.pcgamer.com/star-wars-jedi-survivor-players-are-going-bananas-customizing-lightsabers-and-showing-them-to-each-other)
+ - [The first Mortal Kombat 12 teaser is apparently a grain of sand that explodes for some reason](https://www.pcgamer.com/the-first-mortal-kombat-12-teaser-is-apparently-a-grain-of-sand-that-explodes-for-some-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
