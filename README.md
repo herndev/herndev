@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge declared a mistrial in Masimo&#39;s suit against Apple over Apple Watch stolen trade secrets claims after jurors were unable to reach a consensus &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/230501/p19#a230501p19)
- - [Open box blowout: save up to $1,631 on current Macs, iPads, Apple Watch &amp; more](https://appleinsider.com/articles/23/05/01/open-box-blowout-save-up-to-1631-on-current-macs-ipads-apple-watch-more?utm_medium=rss)
- - [Latest chapter of $2 billion Apple Watch patent battle ends in mistrial](https://appleinsider.com/articles/23/05/01/apple-watch-trial-endslatest-chapter-of-2-billion-apple-watch-patent-battle-ends-in-mistrial?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Samsung is banning employees from using generative AI tools like ChatGPT, Google Bard, and Bing on company-owned devices due to security concerns &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230501/p20#a230501p20)
+ - [Redfall is playable on Steam Deck — with the right settings](https://www.theverge.com/2023/5/1/23707423/redfall-steam-deck-graphics-settings-refresh-rate-configuration)
+ - [A US federal judge declared a mistrial in Masimo&#39;s suit against Apple over Apple Watch stolen trade secrets claims after jurors were unable to reach a consensus &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/230501/p19#a230501p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
