@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online celebrates 20th anniversary with a fireworks show and a free expansion](https://www.pcgamer.com/eve-online-celebrates-20th-anniversary-with-a-fireworks-show-and-a-free-expansion)
- - [Star Wars Jedi: Survivor Spawn of Oggdo location and how to beat it](https://www.pcgamer.com/star-wars-jedi-survivor-spawn-of-oggdo-location-how-to-beat)
- - [The Week In Games: Open-World Vampire Slaying And Roguelite Hockey](https://kotaku.com/may-game-releases-out-this-week-redfall-tape-to-tape-1850392045)<!-- GAME:END -->
+ - [Destiny 2: Guardian Games 2023 is here](https://news.xbox.com/en-us/2023/05/02/destiny-2-guardian-games-2023/)
+ - [Fortnite&#39;s Star Wars Update Brings A Mini Battle Pass, Darth Maul Skin, And More](https://kotaku.com/fortnite-update-star-wars-skins-darth-maul-item-shop-1850395467)
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
