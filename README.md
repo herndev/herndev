@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
- - ⏩ [Welcome to london](http://9gag.com/gag/a4o5EBp)
- - 👉 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
+ - 💣 [Yes sir](http://9gag.com/gag/ay2Wq9q)
+ - ⏩ [Hold on](http://9gag.com/gag/anzv43o)
+ - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 ---
 
