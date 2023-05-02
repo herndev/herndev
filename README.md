@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola launches the Moto G 5G, Moto G Stylus, and Edge Plus](https://www.androidauthority.com/motorola-moto-g-5g-2023-3319143/)
- - [Motorola is finally bringing a real flagship contender to the US](https://www.theverge.com/2023/5/2/23707140/motorola-edge-plus-2023-specs-price-features)
- - [Despite Q1 releases, Apple predicted to report bad hardware sales figures](https://appleinsider.com/articles/23/05/02/despite-q1-releases-apple-predicted-to-report-bad-hardware-sales-figures?utm_medium=rss)<!-- TECH:END -->
+ - [Seattle-based compsci education nonprofit Code.org announces TeachAI, helping guide teaching on AI by convening leaders from Amazon, OpenAI, Microsoft, and more &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230502/p19#a230502p19)
+ - [Apple and Google are working together to limit AirTag stalking](https://www.theverge.com/2023/5/2/23707920/apple-google-airtag-stalking-bluetooth-tracker-alert-standard)
+ - [Apple and Google are working together to reduce AirTag &amp; other tracker stalking](https://appleinsider.com/articles/23/05/02/apple-and-google-are-working-together-to-reduce-airtag-other-tracker-stalking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
