@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
+ - 💣 [Lets light some fireworks on the street](http://9gag.com/gag/awZLzPD)
  - ⏩ [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
- - 👉 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)<!-- MEMES:END -->
+ - 👉 [Begin discussions on the Polish model](http://9gag.com/gag/ago8oPr)<!-- MEMES:END -->
 
 ---
 
