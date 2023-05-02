@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM CEO Arvind Krishna says the company plans to slow or stop back-office hiring, impacting ~26K staff, and ~30% could &quot;easily&quot; be replaced by AI in five years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230502/p4#a230502p4)
- - [The Google Pixel 7a is launching in India on May 11](https://www.androidauthority.com/google-pixel-7a-india-launch-date-3319369/)
- - [Fire TV Channels is a free TV service just for Fire TV owners](https://www.androidauthority.com/amazon-fire-tv-channels-fast-3319366/)<!-- TECH:END -->
+ - [Nigerian payment service provider Nomba raised a $30M pre-Series B led by Base 10 Partners at a $150M+ valuation, per YC, following a $5M Series A in 2019 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230502/p8#a230502p8)
+ - [A profile and interview of Geoffrey Hinton, who laid the foundations for LLMs via backpropagation, worked with OpenAI co-founder Ilya Sutskever, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230502/p7#a230502p7)
+ - [BeReal rolls out RealPeople, a curated timeline of &quot;the world&#39;s most interesting people&quot;, first to the UK, as the startup seeks to reverse slowing growth &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230502/p6#a230502p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
