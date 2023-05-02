@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut Pro with feature parity due on iPad by 2024, claims iffy rumor](https://appleinsider.com/articles/23/05/02/final-cut-pro-with-feature-parity-due-on-ipad-by-2024-claims-iffy-rumor?utm_medium=rss)
- - [EcoFlow Advanced Kit review: Power your whole house with batteries](https://appleinsider.com/articles/23/05/02/ecoflow-advanced-kit-review-power-your-whole-house-with-batteries?utm_medium=rss)
- - [Bolt co-founder Ryan Breslow launches Love.com, a marketplace with 600+ health supplements that raised $15M+; Breslow famously attacked Stripe&#39;s founders &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230502/p10#a230502p10)<!-- TECH:END -->
+ - [Obsidian vs Notion: Which note-taking app reigns supreme?](https://www.androidauthority.com/obsidian-vs-notion-3319050/)
+ - [Letters: the US and EU warn Malaysia over national security and foreign investment risks if the government gives Huawei a role in the country&#39;s 5G network &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/230502/p14#a230502p14)
+ - [Early Apple check signed by Steve Jobs could sell for big money](https://appleinsider.com/articles/23/05/02/early-apple-check-signed-by-steve-jobs-could-sell-for-big-money?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
