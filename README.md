@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Guardian Games 2023 is here](https://news.xbox.com/en-us/2023/05/02/destiny-2-guardian-games-2023/)
- - [Fortnite&#39;s Star Wars Update Brings A Mini Battle Pass, Darth Maul Skin, And More](https://kotaku.com/fortnite-update-star-wars-skins-darth-maul-item-shop-1850395467)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [Yazeba’s Online, an unconventional tabletop RPG and the digital playground of your dreams](https://www.polygon.com/tabletop-games/23701170/yazebas-online-possum-creek-wanderhome-sequel-ttrpg-omm)
+ - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)
+ - [Star Wars Jedi: Survivor Is On Sale Barely A Week After Release](https://kotaku.com/star-wars-jedi-survivor-update-ps5-discount-xbox-amazon-1850395843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
