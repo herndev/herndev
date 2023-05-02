@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Obsidian vs Notion: Which note-taking app reigns supreme?](https://www.androidauthority.com/obsidian-vs-notion-3319050/)
- - [Letters: the US and EU warn Malaysia over national security and foreign investment risks if the government gives Huawei a role in the country&#39;s 5G network &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/230502/p14#a230502p14)
- - [Early Apple check signed by Steve Jobs could sell for big money](https://appleinsider.com/articles/23/05/02/early-apple-check-signed-by-steve-jobs-could-sell-for-big-money?utm_medium=rss)<!-- TECH:END -->
+ - [Motorola launches the Moto G 5G, Moto G Stylus, and Edge Plus](https://www.androidauthority.com/motorola-moto-g-5g-2023-3319143/)
+ - [Motorola is finally bringing a real flagship contender to the US](https://www.theverge.com/2023/5/2/23707140/motorola-edge-plus-2023-specs-price-features)
+ - [Despite Q1 releases, Apple predicted to report bad hardware sales figures](https://appleinsider.com/articles/23/05/02/despite-q1-releases-apple-predicted-to-report-bad-hardware-sales-figures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
