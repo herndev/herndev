@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon announces a new onboarding experience that makes mastodon.social the default server choice, instead of requiring users pick from thousands of instances &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230501/p17#a230501p17)
- - [BeReal is making a feed of just famous people](https://www.theverge.com/2023/5/1/23707181/bereal-feed-famous-people-realpeople)
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [A US federal judge declared a mistrial in Masimo&#39;s suit against Apple over Apple Watch stolen trade secrets claims after jurors were unable to reach a consensus &lpar;Joe Schneider/Bloomberg&rpar;](http://www.techmeme.com/230501/p19#a230501p19)
+ - [Open box blowout: save up to $1,631 on current Macs, iPads, Apple Watch &amp; more](https://appleinsider.com/articles/23/05/01/open-box-blowout-save-up-to-1631-on-current-macs-ipads-apple-watch-more?utm_medium=rss)
+ - [Latest chapter of $2 billion Apple Watch patent battle ends in mistrial](https://appleinsider.com/articles/23/05/01/apple-watch-trial-endslatest-chapter-of-2-billion-apple-watch-patent-battle-ends-in-mistrial?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
