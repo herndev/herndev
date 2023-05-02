@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Intel is dropping the &#39;i&#39; from &#39;Core i7&#39; starting with Meteor Lake](https://www.pcgamer.com/looks-like-intel-is-dropping-the-i-from-core-i7-starting-with-meteor-lake)
- - [MSI GeForce RTX 4070 Gaming X Trio](https://www.pcgamer.com/msi-geforce-rtx-4070-gaming-x-trio)
- - [The Last Case of Benedict Fox review](https://www.pcgamer.com/the-last-case-of-benedict-fox-review)<!-- GAME:END -->
+ - [Neill Blomkamp Q&amp;A: Gran Turismo director talks inspiration and more](https://blog.playstation.com/2023/05/02/neill-blomkamp-qa-gran-turismo-director-talks-inspiration-and-more/)
+ - [Coming Soon to Xbox Game Pass: Ravenlok, Fuga: Melodies of Steel 2, and More](https://news.xbox.com/en-us/2023/05/02/game-pass-may-2023-wave-1-announce/)
+ - [Genndy Tartakovsky has more plans for one of his old series](https://www.polygon.com/23707072/genndy-tartakovsky-unicorn-warriors-eternal-sym-bionic-titan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
