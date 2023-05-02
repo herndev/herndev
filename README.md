@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
- - ⏩ [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
- - 👉 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
+ - 💣 [Ferguso](http://9gag.com/gag/a8qD7Z6)
+ - ⏩ [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)
+ - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 ---
 
