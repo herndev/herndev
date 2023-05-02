@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 37 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Reason 12 update finally has native Apple Silicon support](https://appleinsider.com/articles/23/05/02/reason-12-update-adds-offline-mode-apple-silicon-support?utm_medium=rss)
- - [Google Photos powers up its search bar to find photos with phrases and ideas](https://www.androidauthority.com/google-photos-search-3319585/)<!-- TECH:END -->
+ - [Inflection AI, founded by Reid Hoffman, Mustafa Suleyman, and Kar&amp;eacute;n Simonyan, debuts Pi, a chatbot more like a sounding board than &quot;a repackaged Wikipedia&quot; post &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230502/p31#a230502p31)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [American College of Pediatricians Leak Exposes 10,000 Confidential Files](https://www.wired.com/story/american-college-pediatricians-google-drive-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
