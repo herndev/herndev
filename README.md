@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
- - ⏩ [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
- - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 💣 [Ferguso](http://9gag.com/gag/a8qD7Z6)
+ - ⏩ [Lonely Island: Mother Lover](http://9gag.com/gag/avQEWZX)
+ - 👉 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
 
 ---
 
