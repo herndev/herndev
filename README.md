@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lonely Island: Mother Lover](http://9gag.com/gag/avQEWZX)
- - ⏩ [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
- - 👉 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)<!-- MEMES:END -->
+ - 💣 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
+ - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 👉 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
 
 ---
 
