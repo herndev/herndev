@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigerian payment service provider Nomba raised a $30M pre-Series B led by Base 10 Partners at a $150M+ valuation, per YC, following a $5M Series A in 2019 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230502/p8#a230502p8)
- - [A profile and interview of Geoffrey Hinton, who laid the foundations for LLMs via backpropagation, worked with OpenAI co-founder Ilya Sutskever, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230502/p7#a230502p7)
- - [BeReal rolls out RealPeople, a curated timeline of &quot;the world&#39;s most interesting people&quot;, first to the UK, as the startup seeks to reverse slowing growth &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230502/p6#a230502p6)<!-- TECH:END -->
+ - [Final Cut Pro with feature parity due on iPad by 2024, claims iffy rumor](https://appleinsider.com/articles/23/05/02/final-cut-pro-with-feature-parity-due-on-ipad-by-2024-claims-iffy-rumor?utm_medium=rss)
+ - [EcoFlow Advanced Kit review: Power your whole house with batteries](https://appleinsider.com/articles/23/05/02/ecoflow-advanced-kit-review-power-your-whole-house-with-batteries?utm_medium=rss)
+ - [Bolt co-founder Ryan Breslow launches Love.com, a marketplace with 600+ health supplements that raised $15M+; Breslow famously attacked Stripe&#39;s founders &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230502/p10#a230502p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
