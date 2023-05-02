@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
- - ⏩ [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - ⏩ [Her phase never ended](http://9gag.com/gag/aQEAzv7)
+ - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 ---
 
