@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - ⏩ [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)
- - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
+ - 💣 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - ⏩ [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
+ - 👉 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)<!-- MEMES:END -->
 
 ---
 
