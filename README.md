@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
- - ⏩ [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 👉 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
+ - 💣 [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
+ - ⏩ [Lets light some fireworks on the street](http://9gag.com/gag/awZLzPD)
+ - 👉 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)<!-- MEMES:END -->
 
 ---
 
