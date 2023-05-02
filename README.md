@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - ⏩ [Simple but messy](http://9gag.com/gag/avQEowM)
- - 👉 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)<!-- MEMES:END -->
+ - 💣 [Ok let me go find the nearest cat](http://9gag.com/gag/aMEndLR)
+ - ⏩ [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
+ - 👉 [Simple but messy](http://9gag.com/gag/avQEowM)<!-- MEMES:END -->
 
 ---
 
