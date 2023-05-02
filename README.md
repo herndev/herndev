@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stop. Closing. Forums. For. Discord.](https://kotaku.com/discord-forum-messageboard-amazon-lost-ark-new-world-pc-1850393695)
  - [I was almost ready to declare Redfall another PC performance disaster, but a last-minute patch might&#39;ve saved it](https://www.pcgamer.com/redfall-pc-performance-launch)
- - [Redfall review-in-progress: It&#39;s not great, folks](https://www.pcgamer.com/redfall-review-in-progress)
- - [Redfall is Arkane defanged](https://www.polygon.com/reviews/23706685/redfall-review-xbox-series-x-pc-release-date)<!-- GAME:END -->
+ - [Redfall review-in-progress: It&#39;s not great, folks](https://www.pcgamer.com/redfall-review-in-progress)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
