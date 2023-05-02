@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon rolls out Fire TV Channels, its new hub for FAST channels, after it saw monthly hours streamed of FAST content surging 300%+ in the past six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p21#a230501p21)
- - [Memo: Samsung is banning employees from using generative AI tools like ChatGPT, Google Bard, and Bing on company-owned devices due to security concerns &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230501/p20#a230501p20)
- - [Redfall is playable on Steam Deck — with the right settings](https://www.theverge.com/2023/5/1/23707423/redfall-steam-deck-graphics-settings-refresh-rate-configuration)<!-- TECH:END -->
+ - [Pornhub has disabled its website in Utah amid a new age verification law for porn sites, replacing it with a video asking users to talk to their representatives &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230501/p22#a230501p22)
+ - [Samsung Reportedly Bans Use of Generative AI Tools     - CNET](https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/#ftag=CAD590a51e)
+ - [Amazon rolls out Fire TV Channels, its FAST video experience for Fire TV devices, after monthly hours streamed of FAST content grew 300%+ in the past six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p21#a230501p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
