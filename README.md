@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub has disabled its website in Utah amid a new age verification law for porn sites, replacing it with a video asking users to talk to their representatives &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230501/p22#a230501p22)
- - [Samsung Reportedly Bans Use of Generative AI Tools     - CNET](https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/#ftag=CAD590a51e)
- - [Amazon rolls out Fire TV Channels, its FAST video experience for Fire TV devices, after monthly hours streamed of FAST content grew 300%+ in the past six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230501/p21#a230501p21)<!-- TECH:END -->
+ - [Pixel Watch picks up May 2023 security patch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
+ - [OnePlus Pad review: a bright screen, excellent build quality, and snappy performance, but limited built-in apps, subpar keyboard and stylus, and a mid-tier CPU &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230502/p1#a230502p1)
+ - [Pornhub has disabled its website in Utah amid a new age verification law for porn sites, replacing it with a video asking users to talk to their representatives &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/230501/p22#a230501p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
