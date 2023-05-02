@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Pokémon Anime Episodes Rediscovered After 12 Years](https://kotaku.com/pokemon-anime-lost-episodes-team-rocket-earthquake-1850396995)
- - [Hey, wait a minute, the Gran Turismo movie is just Days of Thunder!](https://www.pcgamer.com/hey-wait-a-minute-the-gran-turismo-movie-is-just-days-of-thunder)
- - [Netflix’s AKA is another showcase for a budding action star](https://www.polygon.com/reviews/23708529/aka-netflix-review-french-action-movies-alban-lenoir)<!-- GAME:END -->
+ - [10 Of The Most Visually Stunning PlayStation 4 Games](https://kotaku.com/ps4-games-best-graphics-tlou-uncharted-horizon-killzone-1850397207)
+ - [Game Pass Now Lets You Give Friends Free Trials On PC](https://kotaku.com/xbox-game-pass-free-trial-redfall-minecraft-starfield-1850397083)
+ - [Lost Pokémon Anime Episodes Rediscovered After 12 Years](https://kotaku.com/pokemon-anime-lost-episodes-team-rocket-earthquake-1850396995)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
