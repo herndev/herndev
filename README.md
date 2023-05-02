@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD reports Q1 revenue down 9% YoY to $5.35B, vs. $5.3B est., a $139M net loss, Client revenue down 65% YoY to $739M, and Q2 revenue guidance below expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230502/p34#a230502p34)
- - [Honkai: Star Rail – Redemption Codes and how they work](https://www.androidauthority.com/honkai-star-rail-redemption-codes-3319619/)
- - [Sources: Toronto-based AI startup Cohere is close to securing $250M in funding from backers including Nvidia and Salesforce, at a ~$2B post-money valuation &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230502/p33#a230502p33)<!-- TECH:END -->
+ - [Oura Ring vs Apple Watch: A battle of form factors](https://www.androidauthority.com/oura-ring-vs-apple-watch-3319216/)
+ - [&#39;Sid Meier&#39;s Railroads!&#39; iOS review: railway history with challenges](https://appleinsider.com/articles/23/05/02/sid-meiers-railroads-ios-review-railway-history-with-challenges?utm_medium=rss)
+ - [Twitter says verified government or publicly owned services that tweet weather alerts, transport updates, and emergency notifications may use its API for free &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230502/p37#a230502p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
