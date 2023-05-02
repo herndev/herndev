@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now give five of your friends a free PC Game Pass trial](https://www.pcgamer.com/you-can-now-give-five-of-your-friends-a-free-pc-game-pass-trial)
- - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
- - [Street Fighter 6 gets a crucial component of fighting games right: personality](https://www.polygon.com/23707906/street-fighter-6-sf6-roster-hands-on-pc-xbox-ps5-steam)<!-- GAME:END -->
+ - [10 Of The Best Ways Games Put Dirty Cheaters In Their Place](https://kotaku.com/video-game-cheater-bans-grand-theft-auto-call-of-duty-1850396574)
+ - [Afrofuturist animated series Kizazi Moto: Generation Fire coming to Disney Plus](https://www.polygon.com/23708513/kizazi-moto-trailer-afrofuturist-series-disney-plus-animated)
+ - [PC gamers are getting really, really fed up with one sh*tty port after another](https://www.pcgamer.com/pc-gamers-really-fed-up-with-one-bad-pc-port-after-another-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
