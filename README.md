@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Snap says it has begun testing sponsored links in My AI conversations, reveals Spotlight grew 170% YoY to 350 MAUs, launches &quot;First Story&quot; ad product, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230502/p29#a230502p29)
- - [International police just made a huge dark web bust](https://www.theverge.com/2023/5/2/23708094/international-police-dark-web-monopoly-market-bust)<!-- TECH:END -->
+ - [The 37 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Reason 12 update finally has native Apple Silicon support](https://appleinsider.com/articles/23/05/02/reason-12-update-adds-offline-mode-apple-silicon-support?utm_medium=rss)
+ - [Google Photos powers up its search bar to find photos with phrases and ideas](https://www.androidauthority.com/google-photos-search-3319585/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
