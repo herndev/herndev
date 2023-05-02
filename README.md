@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold on](http://9gag.com/gag/anzv43o)
- - ⏩ [After 16 years of marriage](http://9gag.com/gag/avQEzzd)
+ - 💣 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - ⏩ [Simple but messy](http://9gag.com/gag/avQEowM)
  - 👉 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)<!-- MEMES:END -->
 
 ---
