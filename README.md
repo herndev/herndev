@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring vs Apple Watch: A battle of form factors](https://www.androidauthority.com/oura-ring-vs-apple-watch-3319216/)
- - [&#39;Sid Meier&#39;s Railroads!&#39; iOS review: railway history with challenges](https://appleinsider.com/articles/23/05/02/sid-meiers-railroads-ios-review-railway-history-with-challenges?utm_medium=rss)
- - [Twitter says verified government or publicly owned services that tweet weather alerts, transport updates, and emergency notifications may use its API for free &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230502/p37#a230502p37)<!-- TECH:END -->
+ - [A Siri bug in the iOS 16.4.1 Calendar app is causing problems for vision impaired](https://appleinsider.com/articles/23/05/02/a-siri-bug-in-the-ios-1641-calendar-app-is-causing-problems-for-vision-impaired?utm_medium=rss)
+ - [The EU&#39;s Digital Markets Act becomes applicable today, after entering into force in November 2022; enforcement on gatekeepers is not expected until spring 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230502/p40#a230502p40)
+ - [Q&amp;A with Nick Denton, Jonah Peretti, and Ben Smith, whose new book Traffic details the rise and fall of BuzzFeed and Gawker, on digital media and its reckoning &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230502/p39#a230502p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
