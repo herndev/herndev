@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets light some fireworks on the street](http://9gag.com/gag/awZLzPD)
- - ⏩ [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
- - 👉 [Begin discussions on the Polish model](http://9gag.com/gag/ago8oPr)<!-- MEMES:END -->
+ - 💣 [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
+ - ⏩ [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 ---
 
