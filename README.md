@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
- - ⏩ [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - 👉 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)<!-- MEMES:END -->
+ - 💣 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
+ - ⏩ [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
+ - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 ---
 
