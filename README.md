@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like it or not, Bing AI is now on your Galaxy phone](https://www.androidauthority.com/bing-ai-swiftkey-galaxy-phones-3319358/)
- - [Samsung imposes ban on generative AI tools like ChatGPT](https://www.androidauthority.com/samsung-generative-ai-chatgpt-ban-3319343/)
- - [The current push for age restrictions on certain online content in the US echoes the Communications Decency Act of 1996, which was struck down by SCOTUS in 1997 &lpar;New York Times&rpar;](http://www.techmeme.com/230502/p2#a230502p2)<!-- TECH:END -->
+ - [Fire TV Channels is a free TV service just for Fire TV owners](https://www.androidauthority.com/amazon-fire-tv-channels-fast-3319366/)
+ - [Internal records show ByteDance uses word lists, extending beyond standard moderation blocklists, to detect or suppress content; TikTok denies using the lists &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/230502/p3#a230502p3)
+ - [Like it or not, Bing AI is now on your Galaxy phone](https://www.androidauthority.com/bing-ai-swiftkey-galaxy-phones-3319358/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
