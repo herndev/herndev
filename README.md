@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
- - [How on-demand home services startup Urban Company became the biggest employer of women in India&#39;s gig economy, creating a rare opportunity for social mobility &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/230503/p5#a230503p5)
- - [Now you can post Horizon Worlds photos to your Instagram Story](https://www.theverge.com/2023/5/3/23709283/meta-horizon-worlds-sharing-to-instagram-facebook-stories)<!-- TECH:END -->
+ - [A guide to how quantum computing, qubits, and &quot;quantum algorithms&quot; work, the biggest challenges, government involvement, and potential for hacking, or &quot;Q-day&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230503/p6#a230503p6)
+ - [Casetify Lion King cases review: Disney&#39;s animated classic comes to outfit your iPhone](https://appleinsider.com/articles/23/05/03/casetify-lion-king-cases-review-disneys-animated-classic-comes-to-outfit-your-iphone?utm_medium=rss)
+ - [The Nokia XR21 is official: And you thought an IP68 rating was great?](https://www.androidauthority.com/nokia-xr21-3319845/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
