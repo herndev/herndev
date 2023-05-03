@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - ⏩ [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
- - 👉 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)<!-- MEMES:END -->
+ - 💣 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
+ - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 👉 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
 
 ---
 
