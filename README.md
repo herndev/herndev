@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/ay2W62W)
- - ⏩ [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)
- - 👉 [Can&#39;t be the only one](http://9gag.com/gag/a3Zy8Pv)<!-- MEMES:END -->
+ - 💣 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
+ - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
 
 ---
 
