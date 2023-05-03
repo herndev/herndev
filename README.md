@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can survival games tell compelling stories, and why do they bother?](https://www.pcgamer.com/can-survival-games-tell-compelling-stories-and-why-do-they-bother)
  - [People Are Not Having A Great Time With Redfall](https://kotaku.com/redfall-arkane-review-impressions-roundup-score-xbox-pc-1850397601)
- - [Redfall&#39;s ugly open world will only look worse once you see how great Prey 2017 still looks](https://www.pcgamer.com/redfalls-ugly-open-world-will-only-look-worse-once-you-see-how-great-prey-2017-still-looks)
- - [Elden Ring Meets Bloodborne In Latest Overhaul Mod](https://kotaku.com/elden-ring-boss-mod-garden-of-eyes-oedon-bloodborne-1850397317)<!-- GAME:END -->
+ - [Redfall&#39;s ugly open world will only look worse once you see how great Prey 2017 still looks](https://www.pcgamer.com/redfalls-ugly-open-world-will-only-look-worse-once-you-see-how-great-prey-2017-still-looks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
