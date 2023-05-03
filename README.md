@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Schmigadoon season 2’s many musical theater references missed one crucial thing](https://www.polygon.com/23708158/schmigadoon-season-2-references-opinion-musicals)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Zendaya’s and Florence Pugh’s Dune characters are set up for a galactic rivalry](https://www.polygon.com/23709771/dune-2-chani-zendaya-florence-pugh-irulan-characters)<!-- GAME:END -->
+ - [Honey, Call of Duty shrunk Kevin Durant? Or else he’s got a hell of a hitbox](https://www.polygon.com/call-of-duty/23710046/call-of-duty-kevin-durant-mw2-skin-release-date-season-3-reloaded)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
+ - [Xbox Is Running Out Of Time To Get It Right](https://kotaku.com/microsoft-xbox-series-game-pass-redfall-starfield-halo-1850400098)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
