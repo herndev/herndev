@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pathfinder is getting its own Diablo-like action-RPG](https://www.pcgamer.com/pathfinder-is-getting-its-own-diablo-like-action-rpg)
- - [How to open the Dreamer&#39;s Bounty chest in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-dreamers-bounty)
- - [Launch your new Steam obsession with Oddyssey: Your Space, Your Way](https://www.pcgamer.com/launch-your-new-steam-obsession-with-oddyssey-your-space-your-way)<!-- GAME:END -->
+ - [Get Ready for the Xbox Games Showcase and Starfield Direct Double Feature Airing June 11](https://news.xbox.com/en-us/2023/05/03/xbox-games-showcase-starfield-direct-june-11/)
+ - [The best sci-fi and fantasy books of 2023, so far](https://www.polygon.com/23691206/best-fantasy-books-sci-fi-2023)
+ - [Dredge is finally getting a fiend-free fishing mode and map markers](https://www.pcgamer.com/dredge-is-finally-getting-a-fiend-free-fishing-mode-and-map-markers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
