@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you more excited for the Z Flip 5 or Razr 40 Ultra?](https://www.androidauthority.com/galaxy-z-flip-5-razr-40-ultra-poll-3319796/)
- - [Balaji Srinivasan &quot;settles&quot; his $1M bet from mid-March, predicting one BTC would be worth $1M+ within 90 days, ahead of time, by giving $500K to three entities &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/230503/p4#a230503p4)
- - [Sources: Unity is slashing ~600 jobs, or ~8% of staff, its largest round of cuts in the past year, after laying off 500+ workers in January and last June &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p3#a230503p3)<!-- TECH:END -->
+ - [Galaxy S23 FE leak points to an overdue main camera upgrade](https://www.androidauthority.com/samsung-galaxy-s23-fe-camera-3319830/)
+ - [Cocinaré Krush Portable Ice Cream Maker Review: Too Frustrating and Expensive](https://www.wired.com/review/cocinare-krush-portable-ice-cream-maker/)
+ - [Poll: Are you more excited for the Z Flip 5 or Razr 40 Ultra?](https://www.androidauthority.com/galaxy-z-flip-5-razr-40-ultra-poll-3319796/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
