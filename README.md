@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 👉 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)<!-- MEMES:END -->
+ - 💣 [Can&#39;t be the only one](http://9gag.com/gag/a3Zy8Pv)
+ - ⏩ [Scary mermaid](http://9gag.com/gag/aREzv7G)
+ - 👉 [Sad but true WoW](http://9gag.com/gag/az2GRBq)<!-- MEMES:END -->
 
 ---
 
