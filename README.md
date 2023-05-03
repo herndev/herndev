@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [People Are Grinding Netflix Shows To Prevent Them From Getting Canceled](https://kotaku.com/netflix-shadow-and-bone-canceled-season-3-fandom-binge-1850400917)
- - [Sweet Tooth is coming back to Netflix for a third and final season](https://www.polygon.com/23709511/sweet-tooth-season-3-news-release-date-cast)
- - [Former Dragon Age lead writer claims BioWare &#39;quietly resented&#39; its writers](https://www.pcgamer.com/former-dragon-age-lead-writer-claims-bioware-quietly-resented-its-writers)<!-- GAME:END -->
+ - [PSA: The trailer for Dune: Part Two looks dope, whatever the rest of the PC Gamer team think](https://www.pcgamer.com/psa-the-trailer-for-dune-part-two-looks-dope-whatever-the-rest-of-the-pc-gamer-team-think)
+ - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)
+ - [New Minecraft Update Fixes A Bug From 2012 &lpar;No, That’s Not A Typo&rpar;](https://kotaku.com/minecraft-footstep-old-bug-fixed-23w18a-snapshot-may-1850401100)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
