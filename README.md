@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Wants You to Be on the Lookout for Malware Posing as AI Chatbots     - CNET](https://www.cnet.com/tech/services-and-software/meta-wants-you-to-be-on-the-lookout-for-malware-posing-as-ai-chatbots/#ftag=CAD590a51e)
- - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-may-2023/#ftag=CAD590a51e)
- - [With iPhone divorce in full swing, Qualcomm bets future on other product segments](https://appleinsider.com/articles/23/05/03/with-iphone-divorce-in-full-swing-qualcomm-bets-future-on-other-product-segments?utm_medium=rss)<!-- TECH:END -->
+ - [Unionized Apple Store seeks pay raises, customer tips](https://appleinsider.com/articles/23/05/03/unionized-apple-store-seeks-pay-raises-customer-tips?utm_medium=rss)
+ - [Hollywood&#39;s writers on strike have two worries on AI: they don&#39;t want their work used as training data and don&#39;t want to fix AI-generated &quot;sloppy first drafts&quot; &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230503/p29#a230503p29)
+ - [FTC Alleges Meta Failed to Protect Your Privacy, Proposes New Restrictions     - CNET](https://www.cnet.com/tech/ftc-alleges-meta-failed-to-protect-your-privacy-proposes-new-restrictions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
