@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest deal in gaming hangs in the balance](https://www.theverge.com/23709287/microsoft-activision-blizzard-acquisition-deal-uk-cma-report)
- - [Fortnite arrives on Amazon Luna today](https://www.theverge.com/2023/5/3/23708954/amazon-luna-fortnite-cloud-gaming-prime)
- - [EcoFlow Advanced Kit review: Power your whole house with batteries](https://appleinsider.com/articles/23/05/02/ecoflow-advanced-kit-review-power-your-whole-house-with-batteries?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok opens up its revamped Creativity Program creator fund to all US-based creators with over 10K followers and over 100K views in the past 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p16#a230503p16)
+ - [Rode NT1 fifth-gen microphone review: USB output added to pro-level mic](https://appleinsider.com/articles/23/05/03/rode-nt1-fifth-gen-microphone-review-usb-output-added-to-pro-level-mic?utm_medium=rss)
+ - [Microsoft’s Xbox Wireless Headset is on sale for its best price to date](https://www.theverge.com/2023/5/3/23708383/xbox-wireless-headset-furbo-360-dog-camera-oura-ring-gen3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
