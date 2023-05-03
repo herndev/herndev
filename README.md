@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to watch and remember before Guardians of the Galaxy 3](https://www.polygon.com/23706962/movies-to-watch-before-guardians-of-the-galaxy-3-story-recap)
- - [Nvidia RTX 30-series GPUs have 30% market share to AMD RX 6000&#39;s 3% in revised Steam survey](https://www.pcgamer.com/nvidia-rtx-30-series-gpus-have-30-market-share-to-amd-rx-6000s-3-in-revised-steam-survey)
- - [Honkai: Star Rail’s best Easter egg is this sassy trash can](https://www.polygon.com/23702693/honkai-star-rail-funniest-joke-trash-can-meme)<!-- GAME:END -->
+ - [Schmigadoon season 2’s many musical theater references missed one crucial thing](https://www.polygon.com/23708158/schmigadoon-season-2-references-opinion-musicals)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Zendaya’s and Florence Pugh’s Dune characters are set up for a galactic rivalry](https://www.polygon.com/23709771/dune-2-chani-zendaya-florence-pugh-irulan-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
