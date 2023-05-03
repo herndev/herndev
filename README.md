@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 FE leak points to an overdue main camera upgrade](https://www.androidauthority.com/samsung-galaxy-s23-fe-camera-3319830/)
- - [Cocinaré Krush Portable Ice Cream Maker Review: Too Frustrating and Expensive](https://www.wired.com/review/cocinare-krush-portable-ice-cream-maker/)
- - [Poll: Are you more excited for the Z Flip 5 or Razr 40 Ultra?](https://www.androidauthority.com/galaxy-z-flip-5-razr-40-ultra-poll-3319796/)<!-- TECH:END -->
+ - [How on-demand home services startup Urban Company became the biggest employer of women in India&#39;s gig economy, creating a rare opportunity for social mobility &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/230503/p5#a230503p5)
+ - [Now you can post Horizon Worlds photos to your Instagram Story](https://www.theverge.com/2023/5/3/23709283/meta-horizon-worlds-sharing-to-instagram-facebook-stories)
+ - [Galaxy S23 FE leak points to an overdue main camera upgrade](https://www.androidauthority.com/samsung-galaxy-s23-fe-camera-3319830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
