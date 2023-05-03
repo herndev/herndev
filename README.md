@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Double Dragon Gaiden: How Roguelite Elements Add to the Beat ‘Em Up Classic](https://news.xbox.com/en-us/2023/05/03/double-dragon-gaiden-announce/)
- - [Contraband Police asks: What if Papers, Please gave you a gun?](https://www.polygon.com/reviews/23708583/contraband-police-review-border-simulator-papers-please)
- - [Xbox Games Showcase and Starfield Direct dated for June 11](https://www.polygon.com/23709469/xbox-games-showcase-2023-date-time-starfield-direct-e3)<!-- GAME:END -->
+ - [Ravenlok review](https://www.pcgamer.com/ravenlok-review)
+ - [The beat-’em-up renaissance continues with a new Double Dragon](https://www.polygon.com/23709528/double-dragon-gaiden-release-date-trailer)
+ - [You can get a free sneak peek at Insomniac’s Spider-Man 2 this Free Comic Book Day](https://www.polygon.com/23709503/marve-spider-man-2-game-free-comic-book-day-insomniac)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
