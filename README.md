@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
- - [ChatGPT can now find you a house](https://www.theverge.com/2023/5/2/23708792/zillow-chat-gpt-plugin-alpha-release)
- - [Twitter backtracks, lets emergency and traffic alert accounts keep free API access](https://www.theverge.com/2023/5/2/23708739/twitter-transportation-emergency-alerts-api-free)<!-- TECH:END -->
+ - [ODAIA, whose software uses AI to help pharmaceutical firms bring drugs to market, raised a $25M Series B co-led by Threshold Ventures and Monograph Capital &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230502/p42#a230502p42)
+ - [Match Group reports Q1 revenue down 1% YoY to $787M, vs. $794M est., paying users down 3% YoY to 15.9M, revenue per paying user up 2% YoY; announces $1B buyback &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230502/p41#a230502p41)
+ - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
