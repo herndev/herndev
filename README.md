@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - ⏩ [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
+ - 💣 [Ferguso](http://9gag.com/gag/a8qD7Z6)
+ - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 ---
 
