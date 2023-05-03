@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kamala Harris is meeting CEOs of Alphabet, Microsoft, OpenAI, and Anthropic on May 4 at the White House to discuss risks in current and near-term AI development &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/230502/p44#a230502p44)
  - [Apple Maps redesign expected to go live in Taiwan in June](https://appleinsider.com/articles/23/05/03/apple-maps-redesign-expected-to-go-live-in-taiwan-in-june?utm_medium=rss)
- - [In an unprompted email to an NPR reporter, Elon Musk asked if NPR planned to start posting on Twitter again, &quot;or should we reassign @NPR to another company?&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/230502/p43#a230502p43)
- - [ODAIA, whose software uses AI to help pharmaceutical firms bring drugs to market, raised a $25M Series B co-led by Threshold Ventures and Monograph Capital &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230502/p42#a230502p42)<!-- TECH:END -->
+ - [In an unprompted email to an NPR reporter, Elon Musk asked if NPR planned to start posting on Twitter again, &quot;or should we reassign @NPR to another company?&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/230502/p43#a230502p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
