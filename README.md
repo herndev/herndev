@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Love music? Love Plex? With ChatGPT powerup, Plexamp becomes a personal DJ.](https://www.androidauthority.com/plexamp-sonic-sage-3320012/)
- - [Microsoft tells admins that web links from certain accounts in Outlook and Teams will open in Edge to &quot;increase productivity&quot;; Enterprise IT admins can opt out &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230503/p20#a230503p20)
- - [Now Gmail has blue verified checkmark icons too](https://www.theverge.com/2023/5/3/23709734/gmail-verified-checkmark-trusted-senders-bimi-dmarc)<!-- TECH:END -->
+ - [TikTok announces Pulse Premiere, which lets select publishers such as Cond&amp;eacute; Nast, BuzzFeed, and NBC sell ads alongside their posts and keep 50% of the revenue &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p22#a230503p22)
+ - [The FTC proposes barring Meta from monetizing data of those under 18, accusing the company of violating a 2020 privacy order and COPPA &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230503/p21#a230503p21)
+ - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
