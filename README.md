@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb launches new Rooms category with more details about hosts](https://www.theverge.com/2023/5/3/23709516/airbnb-rooms-category-host-information)
- - [UK antitrust regulators again denied permission to examine Safari dominance](https://appleinsider.com/articles/23/05/03/uk-antitrust-regulators-again-denied-permission-to-examine-safari-dominance?utm_medium=rss)
- - [Google plans to change Chrome&#39;s URL bar lock icon, introduced to show HTTPS, to a &quot;variant of the tune icon&quot;, saying HTTPS is now present on malicious websites &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230503/p18#a230503p18)<!-- TECH:END -->
+ - [Love music? Love Plex? With ChatGPT powerup, Plexamp becomes a personal DJ.](https://www.androidauthority.com/plexamp-sonic-sage-3320012/)
+ - [Microsoft tells admins that web links from certain accounts in Outlook and Teams will open in Edge to &quot;increase productivity&quot;; Enterprise IT admins can opt out &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230503/p20#a230503p20)
+ - [Now Gmail has blue verified checkmark icons too](https://www.theverge.com/2023/5/3/23709734/gmail-verified-checkmark-trusted-senders-bimi-dmarc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
