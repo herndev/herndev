@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 5 and Z Fold 5 could launch sooner than you think](https://www.androidauthority.com/samsung-early-foldable-launch-3319897/)
- - [Bluesky, which has ~55,000 users, feels absolutely wild, highlighted by the CEO pleading to stop &quot;skeets&quot; and increasingly weird struggles over norms and vibes &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/230503/p8#a230503p8)
- - [Geoffrey Hinton should have spoken up years ago when others like Timnit Gebru were criticizing Google over LLMs; hopefully Hinton spurs others to speak up now &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230503/p7#a230503p7)<!-- TECH:END -->
+ - [AMD makes Ryzen 7840U official, claims it can beat Apple M2](https://www.theverge.com/2023/5/3/23709251/amd-ryzen-7040-u-apple-m2-intel-laptop-cpu-apu)
+ - [Star Wars: Visions Volume 2 is pure signal in a franchise full of intergalactic noise](https://www.theverge.com/23708540/star-wars-visions-volume-2-review)
+ - [Dashlane is getting rid of its insecure master password](https://www.theverge.com/2023/5/3/23708302/dashlane-passwordless-login-no-master-password-passkey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
