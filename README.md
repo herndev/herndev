@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Us hands-on details—A free-flowing, tear-jerking platformer](https://blog.playstation.com/2023/05/03/after-us-hands-on-details-a-free-flowing-tear-jerking-platformer/)
- - [System Shock studio angers fans by having an AI imagine its own evil AI](https://www.pcgamer.com/system-shock-studio-angers-fans-by-having-an-ai-imagine-its-own-evil-ai)
- - [Chrono Odyssey: new gameplay details on the upcoming PS5 MMORPG](https://blog.playstation.com/2023/05/03/chrono-odyssey-new-gameplay-details-on-the-upcoming-ps5-mmorpg/)<!-- GAME:END -->
+ - [What to watch and remember before Guardians of the Galaxy 3](https://www.polygon.com/23706962/movies-to-watch-before-guardians-of-the-galaxy-3-story-recap)
+ - [Nvidia RTX 30-series GPUs have 30% market share to AMD RX 6000&#39;s 3% in revised Steam survey](https://www.pcgamer.com/nvidia-rtx-30-series-gpus-have-30-market-share-to-amd-rx-6000s-3-in-revised-steam-survey)
+ - [Honkai: Star Rail’s best Easter egg is this sassy trash can](https://www.polygon.com/23702693/honkai-star-rail-funniest-joke-trash-can-meme)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
