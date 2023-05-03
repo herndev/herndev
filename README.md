@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A guide to how quantum computing, qubits, and &quot;quantum algorithms&quot; work, the biggest challenges, government involvement, and potential for hacking, or &quot;Q-day&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230503/p6#a230503p6)
- - [Casetify Lion King cases review: Disney&#39;s animated classic comes to outfit your iPhone](https://appleinsider.com/articles/23/05/03/casetify-lion-king-cases-review-disneys-animated-classic-comes-to-outfit-your-iphone?utm_medium=rss)
- - [The Nokia XR21 is official: And you thought an IP68 rating was great?](https://www.androidauthority.com/nokia-xr21-3319845/)<!-- TECH:END -->
+ - [The Galaxy Z Flip 5 and Z Fold 5 could launch sooner than you think](https://www.androidauthority.com/samsung-early-foldable-launch-3319897/)
+ - [Bluesky, which has ~55,000 users, feels absolutely wild, highlighted by the CEO pleading to stop &quot;skeets&quot; and increasingly weird struggles over norms and vibes &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/230503/p8#a230503p8)
+ - [Geoffrey Hinton should have spoken up years ago when others like Timnit Gebru were criticizing Google over LLMs; hopefully Hinton spurs others to speak up now &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230503/p7#a230503p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
