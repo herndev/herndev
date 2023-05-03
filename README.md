@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - ⏩ [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
+ - 💣 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - ⏩ [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 ---
 
