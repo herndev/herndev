@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ODAIA, whose software uses AI to help pharmaceutical firms bring drugs to market, raised a $25M Series B co-led by Threshold Ventures and Monograph Capital &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230502/p42#a230502p42)
- - [Match Group reports Q1 revenue down 1% YoY to $787M, vs. $794M est., paying users down 3% YoY to 15.9M, revenue per paying user up 2% YoY; announces $1B buyback &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230502/p41#a230502p41)
- - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)<!-- TECH:END -->
+ - [Apple Maps redesign expected to go live in Taiwan in June](https://appleinsider.com/articles/23/05/03/apple-maps-redesign-expected-to-go-live-in-taiwan-in-june?utm_medium=rss)
+ - [In an unprompted email to an NPR reporter, Elon Musk asked if NPR planned to start posting on Twitter again, &quot;or should we reassign @NPR to another company?&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/230502/p43#a230502p43)
+ - [ODAIA, whose software uses AI to help pharmaceutical firms bring drugs to market, raised a $25M Series B co-led by Threshold Ventures and Monograph Capital &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230502/p42#a230502p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
