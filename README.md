@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kamala Harris is meeting CEOs of Alphabet, Microsoft, OpenAI, and Anthropic on May 4 at the White House to discuss risks in current and near-term AI development &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/230502/p44#a230502p44)
- - [Apple Maps redesign expected to go live in Taiwan in June](https://appleinsider.com/articles/23/05/03/apple-maps-redesign-expected-to-go-live-in-taiwan-in-june?utm_medium=rss)
- - [In an unprompted email to an NPR reporter, Elon Musk asked if NPR planned to start posting on Twitter again, &quot;or should we reassign @NPR to another company?&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/230502/p43#a230502p43)<!-- TECH:END -->
+ - [The best T-Mobile deals: Get a free Samsung Galaxy S23 without trade](https://www.androidauthority.com/best-t-mobile-deals-836582/)
+ - [Foretellix, an Israeli startup that offers companies tools to verify autonomous vehicle tech at any level, raised a $43M Series C led by 83North &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230503/p1#a230503p1)
+ - [Kamala Harris is meeting CEOs of Alphabet, Microsoft, OpenAI, and Anthropic on May 4 at the White House to discuss risks in current and near-term AI development &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/230502/p44#a230502p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
