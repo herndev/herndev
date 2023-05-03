@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer makes sunglasses now, and no, they don&#39;t have RGB lighting](https://www.pcgamer.com/razer-makes-sunglasses-now-and-no-they-dont-have-rgb-lighting)
  - [Today&#39;s Wordle hint and answer #683: Wednesday, May 3](https://www.pcgamer.com/wordle-today-hint-answer-683-may-3)
- - [The whole Super Mario Bros. Movie was uploaded to Twitter](https://www.pcgamer.com/the-whole-super-mario-bros-movie-was-uploaded-to-twitter)
- - [Can survival games tell compelling stories, and why do they bother?](https://www.pcgamer.com/can-survival-games-tell-compelling-stories-and-why-do-they-bother)<!-- GAME:END -->
+ - [The whole Super Mario Bros. Movie was uploaded to Twitter](https://www.pcgamer.com/the-whole-super-mario-bros-movie-was-uploaded-to-twitter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
