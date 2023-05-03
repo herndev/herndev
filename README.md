@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best T-Mobile deals: Get a free Samsung Galaxy S23 without trade](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Foretellix, an Israeli startup that offers companies tools to verify autonomous vehicle tech at any level, raised a $43M Series C led by 83North &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230503/p1#a230503p1)
- - [Kamala Harris is meeting CEOs of Alphabet, Microsoft, OpenAI, and Anthropic on May 4 at the White House to discuss risks in current and near-term AI development &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/230502/p44#a230502p44)<!-- TECH:END -->
+ - [Your Pixel phone could soon protect your hearing with this new feature](https://www.androidauthority.com/pixel-phone-loud-sound-alert-3319785/)
+ - [A look at So-Vits-SVC, a free and open-source software that launched in March and was used to create the AI-generated vocals for viral song Heart On My Sleeve &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230503/p2#a230503p2)
+ - [The best T-Mobile deals: Get a free Samsung Galaxy S23 without trade](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
