@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The whole Super Mario Bros. Movie was uploaded to Twitter](https://www.pcgamer.com/the-whole-super-mario-bros-movie-was-uploaded-to-twitter)
  - [Can survival games tell compelling stories, and why do they bother?](https://www.pcgamer.com/can-survival-games-tell-compelling-stories-and-why-do-they-bother)
- - [People Are Not Having A Great Time With Redfall](https://kotaku.com/redfall-arkane-review-impressions-roundup-score-xbox-pc-1850397601)
- - [Redfall&#39;s ugly open world will only look worse once you see how great Prey 2017 still looks](https://www.pcgamer.com/redfalls-ugly-open-world-will-only-look-worse-once-you-see-how-great-prey-2017-still-looks)<!-- GAME:END -->
+ - [People Are Not Having A Great Time With Redfall](https://kotaku.com/redfall-arkane-review-impressions-roundup-score-xbox-pc-1850397601)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
