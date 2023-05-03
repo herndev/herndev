@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
- - ⏩ [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
+ - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 👉 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)<!-- MEMES:END -->
 
 ---
 
