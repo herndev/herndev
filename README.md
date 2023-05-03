@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When Ed Sheeran&#39;s lawyer says he has video evidence...](http://9gag.com/gag/aMEnzDX)
- - ⏩ [The old electric shocker in the phone trick!](http://9gag.com/gag/aMEnnvX)
- - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 👉 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
 
 ---
 
