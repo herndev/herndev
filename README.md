@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Ed Sheeran&#39;s lawyer says he has video evidence...](http://9gag.com/gag/aMEnzDX)
- - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 👉 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
+ - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
+ - ⏩ [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - 👉 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 ---
 
