@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - ⏩ [True](http://9gag.com/gag/ay2W62W)
- - 👉 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/ay2W62W)
+ - ⏩ [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)
+ - 👉 [Can&#39;t be the only one](http://9gag.com/gag/a3Zy8Pv)<!-- MEMES:END -->
 
 ---
 
