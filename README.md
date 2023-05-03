@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - ⏩ [Two number 9s](http://9gag.com/gag/a6qnXVL)
+ - 💣 [Lonely Island: Mother Lover](http://9gag.com/gag/avQEWZX)
+ - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
  - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
 
 ---
