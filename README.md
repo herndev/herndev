@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready for the Xbox Games Showcase and Starfield Direct Double Feature Airing June 11](https://news.xbox.com/en-us/2023/05/03/xbox-games-showcase-starfield-direct-june-11/)
- - [The best sci-fi and fantasy books of 2023, so far](https://www.polygon.com/23691206/best-fantasy-books-sci-fi-2023)
- - [Dredge is finally getting a fiend-free fishing mode and map markers](https://www.pcgamer.com/dredge-is-finally-getting-a-fiend-free-fishing-mode-and-map-markers)<!-- GAME:END -->
+ - [Double Dragon Gaiden: How Roguelite Elements Add to the Beat ‘Em Up Classic](https://news.xbox.com/en-us/2023/05/03/double-dragon-gaiden-announce/)
+ - [Contraband Police asks: What if Papers, Please gave you a gun?](https://www.polygon.com/reviews/23708583/contraband-police-review-border-simulator-papers-please)
+ - [Xbox Games Showcase and Starfield Direct dated for June 11](https://www.polygon.com/23709469/xbox-games-showcase-2023-date-time-starfield-direct-e3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
