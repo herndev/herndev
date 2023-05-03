@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
- - ⏩ [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 👉 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 💣 [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - ⏩ [Too much freedom](http://9gag.com/gag/a3ZyAo1)
+ - 👉 [What Happens When You Pour Salt Water In To These Sand Holes!](http://9gag.com/gag/aNwV9yK)<!-- MEMES:END -->
 
 ---
 
