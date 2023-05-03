@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD makes Ryzen 7840U official, claims it can beat Apple M2](https://www.theverge.com/2023/5/3/23709251/amd-ryzen-7040-u-apple-m2-intel-laptop-cpu-apu)
- - [Star Wars: Visions Volume 2 is pure signal in a franchise full of intergalactic noise](https://www.theverge.com/23708540/star-wars-visions-volume-2-review)
- - [Dashlane is getting rid of its insecure master password](https://www.theverge.com/2023/5/3/23708302/dashlane-passwordless-login-no-master-password-passkey)<!-- TECH:END -->
+ - [The biggest deal in gaming hangs in the balance](https://www.theverge.com/23709287/microsoft-activision-blizzard-acquisition-deal-uk-cma-report)
+ - [Fortnite arrives on Amazon Luna today](https://www.theverge.com/2023/5/3/23708954/amazon-luna-fortnite-cloud-gaming-prime)
+ - [EcoFlow Advanced Kit review: Power your whole house with batteries](https://appleinsider.com/articles/23/05/02/ecoflow-advanced-kit-review-power-your-whole-house-with-batteries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
