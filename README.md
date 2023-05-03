@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is growing up, so everyone needs to pick a new username](https://www.theverge.com/2023/5/3/23710259/discord-new-username-discriminators-number-tag)
- - [Qualcomm reports Q2 revenue down 17% YoY to $9.27B, vs. $9.1B est., net income down 42% YoY to $1.7B, and forecasts a Q3 revenue of ~$8.5B, vs. $9.14B est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230503/p27#a230503p27)
- - [Airbnb announces Airbnb Rooms, a new category for individual rooms, and 50+ features and upgrades to improve price transparency, checkout procedures, and more &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230503/p26#a230503p26)<!-- TECH:END -->
+ - [Meta Wants You to Be on the Lookout for Malware Posing as AI Chatbots     - CNET](https://www.cnet.com/tech/services-and-software/meta-wants-you-to-be-on-the-lookout-for-malware-posing-as-ai-chatbots/#ftag=CAD590a51e)
+ - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-may-2023/#ftag=CAD590a51e)
+ - [With iPhone divorce in full swing, Qualcomm bets future on other product segments](https://appleinsider.com/articles/23/05/03/with-iphone-divorce-in-full-swing-qualcomm-bets-future-on-other-product-segments?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
