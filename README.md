@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford will stick with CarPlay as GM exits for Google tech](https://appleinsider.com/articles/23/05/03/ford-will-stick-with-carplay-as-gm-exits-for-google-tech?utm_medium=rss)
- - [5 Best Air Purifier Deals: For Big and Small Spaces](https://www.wired.com/story/air-purifier-deals-may-3-2023/)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [Mozilla acquires NYC-based Fakespot, which helps users identify fake or unreliable reviews, and plans to introduce Fakespot functionality to Firefox over time &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p25#a230503p25)
+ - [Apple and Nike partner for limited 6% Daily Cash deal with Apple Card](https://appleinsider.com/articles/23/05/03/apple-and-nike-partner-for-limited-6-daily-cash-deal-with-apple-card?utm_medium=rss)
+ - [Pando, which develops supply chain management software, raised a $30M Series B led by Iron Pillar and Uncorrelated Ventures, bringing its total funding to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230503/p24#a230503p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
