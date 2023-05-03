@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More reasons to love Brendan](http://9gag.com/gag/aEqoV2p)
- - ⏩ [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 👉 [Well.. it&#39;s not lying](http://9gag.com/gag/aBdPVQ1)<!-- MEMES:END -->
+ - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 ---
 
