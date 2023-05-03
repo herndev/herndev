@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye](http://9gag.com/gag/aGEM8YG)
- - ⏩ [Too much freedom](http://9gag.com/gag/a3ZyAo1)
- - 👉 [What Happens When You Pour Salt Water In To These Sand Holes!](http://9gag.com/gag/aNwV9yK)<!-- MEMES:END -->
+ - 💣 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 👉 [Whatever this is on the buffet.](http://9gag.com/gag/aBdP6Kz)<!-- MEMES:END -->
 
 ---
 
