@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla acquires NYC-based Fakespot, which helps users identify fake or unreliable reviews, and plans to introduce Fakespot functionality to Firefox over time &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p25#a230503p25)
- - [Apple and Nike partner for limited 6% Daily Cash deal with Apple Card](https://appleinsider.com/articles/23/05/03/apple-and-nike-partner-for-limited-6-daily-cash-deal-with-apple-card?utm_medium=rss)
- - [Pando, which develops supply chain management software, raised a $30M Series B led by Iron Pillar and Uncorrelated Ventures, bringing its total funding to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230503/p24#a230503p24)<!-- TECH:END -->
+ - [Discord is growing up, so everyone needs to pick a new username](https://www.theverge.com/2023/5/3/23710259/discord-new-username-discriminators-number-tag)
+ - [Qualcomm reports Q2 revenue down 17% YoY to $9.27B, vs. $9.1B est., net income down 42% YoY to $1.7B, and forecasts a Q3 revenue of ~$8.5B, vs. $9.14B est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230503/p27#a230503p27)
+ - [Airbnb announces Airbnb Rooms, a new category for individual rooms, and 50+ features and upgrades to improve price transparency, checkout procedures, and more &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230503/p26#a230503p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
