@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok opens up its revamped Creativity Program creator fund to all US-based creators with over 10K followers and over 100K views in the past 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p16#a230503p16)
- - [Rode NT1 fifth-gen microphone review: USB output added to pro-level mic](https://appleinsider.com/articles/23/05/03/rode-nt1-fifth-gen-microphone-review-usb-output-added-to-pro-level-mic?utm_medium=rss)
- - [Microsoft’s Xbox Wireless Headset is on sale for its best price to date](https://www.theverge.com/2023/5/3/23708383/xbox-wireless-headset-furbo-360-dog-camera-oura-ring-gen3-deal-sale)<!-- TECH:END -->
+ - [Airbnb launches new Rooms category with more details about hosts](https://www.theverge.com/2023/5/3/23709516/airbnb-rooms-category-host-information)
+ - [UK antitrust regulators again denied permission to examine Safari dominance](https://appleinsider.com/articles/23/05/03/uk-antitrust-regulators-again-denied-permission-to-examine-safari-dominance?utm_medium=rss)
+ - [Google plans to change Chrome&#39;s URL bar lock icon, introduced to show HTTPS, to a &quot;variant of the tune icon&quot;, saying HTTPS is now present on malicious websites &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230503/p18#a230503p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
