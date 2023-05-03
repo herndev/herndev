@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
- - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 👉 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
+ - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - ⏩ [Ferguso](http://9gag.com/gag/a8qD7Z6)
+ - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
 
 ---
 
