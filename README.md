@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ravenlok review](https://www.pcgamer.com/ravenlok-review)
- - [The beat-’em-up renaissance continues with a new Double Dragon](https://www.polygon.com/23709528/double-dragon-gaiden-release-date-trailer)
- - [You can get a free sneak peek at Insomniac’s Spider-Man 2 this Free Comic Book Day](https://www.polygon.com/23709503/marve-spider-man-2-game-free-comic-book-day-insomniac)<!-- GAME:END -->
+ - [After Us hands-on details—A free-flowing, tear-jerking platformer](https://blog.playstation.com/2023/05/03/after-us-hands-on-details-a-free-flowing-tear-jerking-platformer/)
+ - [System Shock studio angers fans by having an AI imagine its own evil AI](https://www.pcgamer.com/system-shock-studio-angers-fans-by-having-an-ai-imagine-its-own-evil-ai)
+ - [Chrono Odyssey: new gameplay details on the upcoming PS5 MMORPG](https://blog.playstation.com/2023/05/03/chrono-odyssey-new-gameplay-details-on-the-upcoming-ps5-mmorpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
