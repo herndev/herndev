@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: The trailer for Dune: Part Two looks dope, whatever the rest of the PC Gamer team think](https://www.pcgamer.com/psa-the-trailer-for-dune-part-two-looks-dope-whatever-the-rest-of-the-pc-gamer-team-think)
- - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)
- - [New Minecraft Update Fixes A Bug From 2012 &lpar;No, That’s Not A Typo&rpar;](https://kotaku.com/minecraft-footstep-old-bug-fixed-23w18a-snapshot-may-1850401100)<!-- GAME:END -->
+ - [36 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)
+ - [Valve won&#39;t let devs frontload Steam screenshot galleries with a dozen trailers anymore, says many don&#39;t know &#39;how best to manage&#39; the space](https://www.pcgamer.com/valve-wont-let-devs-frontload-steam-screenshot-galleries-with-a-dozen-trailers-anymore-says-many-dont-know-how-best-to-manage-the-space)
+ - [Blanka’s Street Fighter 6 Intro Is Extra AF](https://kotaku.com/street-fighter-6-blanka-intro-entrance-flip-cartwheel-1850401308)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
