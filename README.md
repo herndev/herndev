@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [36 Games Have Already Been Killed, And 2023 Just Began [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)
- - [Valve won&#39;t let devs frontload Steam screenshot galleries with a dozen trailers anymore, says many don&#39;t know &#39;how best to manage&#39; the space](https://www.pcgamer.com/valve-wont-let-devs-frontload-steam-screenshot-galleries-with-a-dozen-trailers-anymore-says-many-dont-know-how-best-to-manage-the-space)
- - [Blanka’s Street Fighter 6 Intro Is Extra AF](https://kotaku.com/street-fighter-6-blanka-intro-entrance-flip-cartwheel-1850401308)<!-- GAME:END -->
+ - [Brace yourself: Discord is going to make everyone pick a new username](https://www.pcgamer.com/brace-yourself-discord-is-going-to-make-everyone-pick-a-new-username)
+ - [Marvel’s Spider-Man 2 Prequel Comic Pulls New Villain Into The ‘Gamerverse’](https://kotaku.com/marvel-spider-man-2-prequel-free-comic-book-day-ps5-1850401784)
+ - [Ex-Nintendo Of America President Memes On Zelda Leaks](https://kotaku.com/zelda-tears-kingdom-leak-reggie-nintendo-liam-neeson-1850401749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
