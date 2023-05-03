@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #683: Wednesday, May 3](https://www.pcgamer.com/wordle-today-hint-answer-683-may-3)
  - [The whole Super Mario Bros. Movie was uploaded to Twitter](https://www.pcgamer.com/the-whole-super-mario-bros-movie-was-uploaded-to-twitter)
- - [Can survival games tell compelling stories, and why do they bother?](https://www.pcgamer.com/can-survival-games-tell-compelling-stories-and-why-do-they-bother)
- - [People Are Not Having A Great Time With Redfall](https://kotaku.com/redfall-arkane-review-impressions-roundup-score-xbox-pc-1850397601)<!-- GAME:END -->
+ - [Can survival games tell compelling stories, and why do they bother?](https://www.pcgamer.com/can-survival-games-tell-compelling-stories-and-why-do-they-bother)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
