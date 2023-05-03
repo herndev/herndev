@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honey, Call of Duty shrunk Kevin Durant? Or else he’s got a hell of a hitbox](https://www.polygon.com/call-of-duty/23710046/call-of-duty-kevin-durant-mw2-skin-release-date-season-3-reloaded)
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
- - [Xbox Is Running Out Of Time To Get It Right](https://kotaku.com/microsoft-xbox-series-game-pass-redfall-starfield-halo-1850400098)<!-- GAME:END -->
+ - [People Are Grinding Netflix Shows To Prevent Them From Getting Canceled](https://kotaku.com/netflix-shadow-and-bone-canceled-season-3-fandom-binge-1850400917)
+ - [Sweet Tooth is coming back to Netflix for a third and final season](https://www.polygon.com/23709511/sweet-tooth-season-3-news-release-date-cast)
+ - [Former Dragon Age lead writer claims BioWare &#39;quietly resented&#39; its writers](https://www.pcgamer.com/former-dragon-age-lead-writer-claims-bioware-quietly-resented-its-writers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
