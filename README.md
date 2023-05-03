@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t be the only one](http://9gag.com/gag/a3Zy8Pv)
- - ⏩ [Scary mermaid](http://9gag.com/gag/aREzv7G)
+ - 💣 [Scary mermaid](http://9gag.com/gag/aREzv7G)
+ - ⏩ [This dude!](http://9gag.com/gag/a8qD0pZ)
  - 👉 [Sad but true WoW](http://9gag.com/gag/az2GRBq)<!-- MEMES:END -->
 
 ---
