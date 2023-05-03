@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lonely Island: Mother Lover](http://9gag.com/gag/avQEWZX)
- - ⏩ [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 👉 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
+ - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - ⏩ [True](http://9gag.com/gag/ay2W62W)
+ - 👉 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)<!-- MEMES:END -->
 
 ---
 
