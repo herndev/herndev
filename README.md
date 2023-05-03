@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Siri bug in the iOS 16.4.1 Calendar app is causing problems for vision impaired](https://appleinsider.com/articles/23/05/02/a-siri-bug-in-the-ios-1641-calendar-app-is-causing-problems-for-vision-impaired?utm_medium=rss)
- - [The EU&#39;s Digital Markets Act becomes applicable today, after entering into force in November 2022; enforcement on gatekeepers is not expected until spring 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230502/p40#a230502p40)
- - [Q&amp;A with Nick Denton, Jonah Peretti, and Ben Smith, whose new book Traffic details the rise and fall of BuzzFeed and Gawker, on digital media and its reckoning &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230502/p39#a230502p39)<!-- TECH:END -->
+ - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
+ - [ChatGPT can now find you a house](https://www.theverge.com/2023/5/2/23708792/zillow-chat-gpt-plugin-alpha-release)
+ - [Twitter backtracks, lets emergency and traffic alert accounts keep free API access](https://www.theverge.com/2023/5/2/23708739/twitter-transportation-emergency-alerts-api-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
