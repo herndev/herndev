@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Meets Bloodborne In Latest Overhaul Mod](https://kotaku.com/elden-ring-boss-mod-garden-of-eyes-oedon-bloodborne-1850397317)
- - [Marvel&#39;s Midnight Suns gets its final DLC next week, but the Nintendo Switch version has been cancelled](https://www.pcgamer.com/marvels-midnight-suns-gets-its-final-dlc-next-week-but-the-nintendo-switch-version-has-been-cancelled)
- - [Did Blizzard accidentally ship some Diablo 4 collector&#39;s editions a month early? Uh, maybe](https://www.pcgamer.com/did-blizzard-accidentally-ship-some-diablo-4-collectors-editions-a-month-early-uh-maybe)<!-- GAME:END -->
+ - [People Are Not Having A Great Time With Redfall](https://kotaku.com/redfall-arkane-review-impressions-roundup-score-xbox-pc-1850397601)
+ - [Redfall&#39;s ugly open world will only look worse once you see how great Prey 2017 still looks](https://www.pcgamer.com/redfalls-ugly-open-world-will-only-look-worse-once-you-see-how-great-prey-2017-still-looks)
+ - [Elden Ring Meets Bloodborne In Latest Overhaul Mod](https://kotaku.com/elden-ring-boss-mod-garden-of-eyes-oedon-bloodborne-1850397317)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
