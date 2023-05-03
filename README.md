@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - ⏩ [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
- - 👉 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
+ - 💣 [More reasons to love Brendan](http://9gag.com/gag/aEqoV2p)
+ - ⏩ [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
+ - 👉 [Well.. it&#39;s not lying](http://9gag.com/gag/aBdPVQ1)<!-- MEMES:END -->
 
 ---
 
