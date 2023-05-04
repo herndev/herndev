@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor finally takes us to a Star Wars bathroom](https://www.polygon.com/star-wars/23709684/star-wars-jedi-survivor-bathroom-koboh-find-greez-cantina)
- - [Look At This Hot Final Fantasy XVI PS5 Bundle You Probably Can’t Get](https://kotaku.com/final-fantasy-xvi-ps5-special-edition-cheap-discount-1850403428)
- - [So, you&#39;re telling me that US crypto mining used more power last year than ALL THE COMPUTERS?!](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers)<!-- GAME:END -->
+ - [Star Wars: Visions season 2, broken down by Stars, Wars, and Visions](https://www.polygon.com/star-wars/23707998/star-wars-visions-season-2-review)
+ - [Phil Spencer apologizes for Redfall&#39;s &#39;disappointing&#39; launch but promises to keep working on it](https://www.pcgamer.com/phil-spencer-apologizes-for-redfalls-disappointing-launch-but-promises-to-keep-working-on-it)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
