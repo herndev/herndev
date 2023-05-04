@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brace yourself: Discord is going to make everyone pick a new username](https://www.pcgamer.com/brace-yourself-discord-is-going-to-make-everyone-pick-a-new-username)
- - [Marvel’s Spider-Man 2 Prequel Comic Pulls New Villain Into The ‘Gamerverse’](https://kotaku.com/marvel-spider-man-2-prequel-free-comic-book-day-ps5-1850401784)
- - [Ex-Nintendo Of America President Memes On Zelda Leaks](https://kotaku.com/zelda-tears-kingdom-leak-reggie-nintendo-liam-neeson-1850401749)<!-- GAME:END -->
+ - [All the MCU Blade news we’ve heard so far](https://www.polygon.com/23697754/marvel-blade-movie-mahershala-ali-release-date-cast)
+ - [Roccat Vulcan II Max](https://www.pcgamer.com/roccat-vulcan-ii-max)
+ - [I&#39;m so used to old Steam, new Steam&#39;s menus kinda freak me out](https://www.pcgamer.com/im-so-used-to-old-steam-new-steams-menus-kinda-freak-me-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
