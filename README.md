@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Find the Gorge&#39;s Secret in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-find-the-gorges-secret-winding-ravine)
- - [The latest PS5 bundle includes Final Fantasy 16, available for pre-order now](https://www.polygon.com/deals/23709464/ps5-bundle-final-fantasy-16-ffxvi-pre-order-buy)
- - [How to unlock Holo Tactics and beat opponents in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-holo-tactics)<!-- GAME:END -->
+ - [Players’ Choice: Vote for April’s best new game](https://blog.playstation.com/2023/05/04/players-choice-vote-for-aprils-best-new-game-3/)
+ - [Mrs. Davis’ holy love triangle opens up about romancing Jesus](https://www.polygon.com/23710306/mrs-davis-jesus-love-interview-betty-gilpin)
+ - [Saints Row gets major update that overhauls pretty much everything including combat](https://www.pcgamer.com/saints-row-gets-major-update-that-overhauls-pretty-much-everything-including-combat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
