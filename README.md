@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
- - [Windows 11’s photos app is getting slideshows and a blemish removal tool](https://www.theverge.com/2023/5/4/23710807/microsoft-windows-11-photos-app-slideshow-spot-fix-tool)
- - [Salesforce announces SlackGPT, planning to add generative AI features to Slack to summarize meetings and more, and will incorporate EinsteinGPT into Slack &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230504/p8#a230504p8)<!-- TECH:END -->
+ - [As US VCs flood to the Middle East in search of funding, some view their desperation poorly because the region&#39;s investors value long-term relationships &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p11#a230504p11)
+ - [Twitter&#39;s Community Notes have become a surprise hit, offering fact-checking through a crowd-sourced consensus and modeling a fairer, more transparent approach &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/230504/p10#a230504p10)
+ - [Keychron K1 Pro review: low-profile goes pro](https://appleinsider.com/articles/23/05/04/keychron-k1-pro-review-low-profile-goes-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
