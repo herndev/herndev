@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As US VCs flood to the Middle East in search of funding, some view their desperation poorly because the region&#39;s investors value long-term relationships &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p11#a230504p11)
- - [Twitter&#39;s Community Notes have become a surprise hit, offering fact-checking through a crowd-sourced consensus and modeling a fairer, more transparent approach &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/230504/p10#a230504p10)
- - [Keychron K1 Pro review: low-profile goes pro](https://appleinsider.com/articles/23/05/04/keychron-k1-pro-review-low-profile-goes-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Shopify reports Q1 revenue up 25% YoY to $1.5B, above $1.43B analyst estimates, GMV up 15% to $49.6B, and plans to cut 20% of its staff; SHOP jumps 14%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/230504/p13#a230504p13)
+ - [Therapy apps are still failing their privacy checkups](https://www.theverge.com/2023/5/4/23710840/mental-health-therapy-apps-mozilla-report-privacy-data-security)
+ - [Shopify offloads its logistics unit to supply chain tech company Flexport, a reversal after years of building the operation and acquiring Deliverr for $2.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230504/p12#a230504p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
