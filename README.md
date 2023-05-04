@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former SimCity developers launched a new city builder today—but sadly it&#39;s not on PC](https://www.pcgamer.com/former-simcity-developers-launched-a-new-city-builder-todaybut-sadly-its-not-on-pc)
- - [Game engine maker Unity lays off 600 employees and plans to close half its offices worldwide](https://www.pcgamer.com/game-engine-maker-unity-lays-off-600-employees-and-plans-to-close-half-its-offices-worldwide)
- - [Holy cow, they&#39;re making a new Shadowman game](https://www.pcgamer.com/holy-cow-theyre-making-a-new-shadowman-game)<!-- GAME:END -->
+ - [Amnesia: The Bunker 10-minute gameplay video features dark halls, giant rats, and the worst gun ever](https://www.pcgamer.com/amnesia-the-bunker-10-minute-gameplay-video-features-dark-halls-giant-rats-and-the-worst-gun-ever)
+ - [The Best And Worst Parts Of Every Star Wars Movie](https://kotaku.com/the-best-and-worst-parts-of-every-star-wars-movie-1850406311)
+ - [Final Fantasy XVI Banned In Saudi Arabia](https://kotaku.com/final-fantasy-16-saudi-arabia-banned-esrb-rating-ps5-1850406384)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
