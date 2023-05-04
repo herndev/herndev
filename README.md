@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the rumors about Google’s upcoming Pixel hardware so far](https://www.theverge.com/23687731/pixel-hardware-rumors-7a-foldable-fold-tablet)
- - [27 Best Star Wars Day Deals: Lego, Smart Lights, Cases, and Games](https://www.wired.com/story/star-wars-day-deals-2023/)
- - [iPhone will catch a sales block in EU countries if Apple limits USB-C](https://appleinsider.com/articles/23/05/04/iphone-will-catch-a-sales-block-in-eu-countries-if-apple-limits-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
+ - [Transform the look of your Android phone with a new launcher](https://www.theverge.com/23711100/android-launcher-how-to)
+ - [iPhone beats Android flagship phones when it comes to DIY repairs at home, study claims](https://appleinsider.com/articles/23/05/04/iphone-beats-android-flagship-phones-when-it-comes-to-diy-repairs-at-home-study-claims?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
