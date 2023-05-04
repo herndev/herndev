@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for April’s best new game](https://blog.playstation.com/2023/05/04/players-choice-vote-for-aprils-best-new-game-3/)
- - [Mrs. Davis’ holy love triangle opens up about romancing Jesus](https://www.polygon.com/23710306/mrs-davis-jesus-love-interview-betty-gilpin)
- - [Saints Row gets major update that overhauls pretty much everything including combat](https://www.pcgamer.com/saints-row-gets-major-update-that-overhauls-pretty-much-everything-including-combat)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor finally takes us to a Star Wars bathroom](https://www.polygon.com/star-wars/23709684/star-wars-jedi-survivor-bathroom-koboh-find-greez-cantina)
+ - [Look At This Hot Final Fantasy XVI PS5 Bundle You Probably Can’t Get](https://kotaku.com/final-fantasy-xvi-ps5-special-edition-cheap-discount-1850403428)
+ - [So, you&#39;re telling me that US crypto mining used more power last year than ALL THE COMPUTERS?!](https://www.pcgamer.com/so-youre-telling-me-that-us-crypto-mining-used-more-power-last-year-than-all-the-computers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
