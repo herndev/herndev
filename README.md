@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Kickstarter Asks For More Money From People Who Already Backed](https://kotaku.com/rainbow-six-kickstarter-asks-for-more-money-from-people-1850402347)
  - [All the MCU Blade news we’ve heard so far](https://www.polygon.com/23697754/marvel-blade-movie-mahershala-ali-release-date-cast)
- - [Months of Apex Legends audio issues caused by &#39;a single line of code,&#39; Respawn confirms](https://www.pcgamer.com/months-of-apex-legends-audio-issues-caused-by-a-single-line-of-code-respawn-confirms)
- - [Is it just me, or is Game Pass not feeling like a very good deal lately?](https://www.pcgamer.com/is-it-just-me-or-is-game-pass-not-feeling-like-a-very-good-deal-lately)<!-- GAME:END -->
+ - [Months of Apex Legends audio issues caused by &#39;a single line of code,&#39; Respawn confirms](https://www.pcgamer.com/months-of-apex-legends-audio-issues-caused-by-a-single-line-of-code-respawn-confirms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
