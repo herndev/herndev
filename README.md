@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
- - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 💣 [Unfortunately, he refuses to admit that he can no longer drive a car.](http://9gag.com/gag/a0461pL)
+ - ⏩ [This dude!](http://9gag.com/gag/a8qD0pZ)
  - 👉 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 ---
