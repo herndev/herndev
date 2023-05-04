@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q2 revenue for its Services segment, which includes Apple TV+ and Apple Music, grew 5.5% YoY to $20.9B and authorizes $90B in share buybacks &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230504/p28#a230504p28)
- - [Tim Cook: Mass layoffs a &#39;last resort&#39; and off the table for the moment](https://appleinsider.com/articles/23/05/04/tim-cook-mass-layoffs-a-last-resort-and-off-the-table-for-the-moment?utm_medium=rss)
- - [Apple Q2 revenue: iPhone down 2% YoY to $51.33B, Mac down 31% YoY to $7.17B, iPad down 13% YoY to $6.67B, and Wearables, Home, and Accessories down 1% to $8.76B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230504/p27#a230504p27)<!-- TECH:END -->
+ - [Apple inching closer to one billion paid subscriptions](https://appleinsider.com/articles/23/05/04/apple-inching-closer-to-one-billion-paid-subscriptions?utm_medium=rss)
+ - [Meet the fossil fuel-funded startup trying to take CO2 out of the ocean](https://www.theverge.com/2023/5/4/23711098/ocean-carbon-removal-california-captura-climate-change)
+ - [Apple extends share buybacks by another $90 billion](https://appleinsider.com/articles/23/05/04/apple-extends-share-buybacks-by-another-90b?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
