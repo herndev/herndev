@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad but true WoW](http://9gag.com/gag/az2GRBq)
+ - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
  - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [A wild red fox regularly visits a woman&#39;s apartment for food and affection. Here, the fox allows the woman to give scritches](http://9gag.com/gag/aKEWe5Q)<!-- MEMES:END -->
+ - 👉 [Well whats this?..](http://9gag.com/gag/aL1GGL5)<!-- MEMES:END -->
 
 ---
 
