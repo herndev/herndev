@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Escape Room Tips &lpar;For When You Absolutely Must Find The Damn Exit&rpar;](https://kotaku.com/escape-room-game-tips-puzzles-how-to-beat-locks-codes-1850402720)
- - [Legendary Horror Manga Creator Is A Little Worried About AI Artwork](https://kotaku.com/junji-ito-ai-art-hideo-kojima-magic-gathering-uzumaki-1850404505)
- - [Kevin Costner reportedly quits Yellowstone, capping months of feuds](https://www.polygon.com/23711044/kevin-costner-yellowstone-leaving-season-5-delay)<!-- GAME:END -->
+ - [As Hunt: Showdown players catch &#39;granny fever,&#39; I&#39;m wondering if we need more elderly characters in FPSes](https://www.pcgamer.com/as-hunt-showdown-players-catch-granny-fever-im-wondering-if-we-need-more-elderly-characters-in-fpses)
+ - [There might be more Star Wars games in development than you realize](https://www.pcgamer.com/upcoming-star-wars-games)
+ - [Discord Announces Forced Name Changes, Pisses Everyone Off](https://kotaku.com/discord-username-update-xbox-series-x-s-ps5-voice-chat-1850405248)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
