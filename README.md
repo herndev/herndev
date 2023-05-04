@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus might launch its first foldable in a dangerous month](https://www.androidauthority.com/oneplus-foldable-launch-2-3320486/)
- - [There’s a new Zephyrus G14 in town, with Mini LED and Zen 4](https://www.theverge.com/2023/5/4/23710268/asus-rog-zephyrus-g14-gaming-laptop-release)
- - [Hulu with Live TV is adding local PBS stations](https://www.theverge.com/2023/5/4/23711191/hulu-live-tv-local-pbs-stations-magnolia-network)<!-- TECH:END -->
+ - [All the rumors about Google’s upcoming Pixel hardware so far](https://www.theverge.com/23687731/pixel-hardware-rumors-7a-foldable-fold-tablet)
+ - [27 Best Star Wars Day Deals: Lego, Smart Lights, Cases, and Games](https://www.wired.com/story/star-wars-day-deals-2023/)
+ - [iPhone will catch a sales block in EU countries if Apple limits USB-C](https://appleinsider.com/articles/23/05/04/iphone-will-catch-a-sales-block-in-eu-countries-if-apple-limits-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
