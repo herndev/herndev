@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung chases Fitbit with new sleep tracking features in One UI 5 Watch](https://www.androidauthority.com/galaxy-watch-sleep-tracking-updates-3320060/)
- - [The best new streaming movies this week on Paramount, HBO Max, Mubi and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [A Finder.com experiment using ChatGPT to pick 38 stocks finds the portfolio rose 4.9% compared to an average 0.8% loss for 10 popular funds over eight weeks &lpar;Alf Wilkinson/Financial Times&rpar;](http://www.techmeme.com/230504/p14#a230504p14)<!-- TECH:END -->
+ - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)
+ - [Google I/O 2023: all the news from Google’s big developer event](https://www.theverge.com/23697481/google-io-2023-news-announcements-rumors-pixel)
+ - [Hugging Face and ServiceNow Research release StarCoder, a free alternative to code-generating AI like GitHub&#39;s Copilot, as part of the BigCode project &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230504/p15#a230504p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
