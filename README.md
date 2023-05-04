@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Nvidia&#39;s H800 chip for China will likely take 10%-30% longer to carry out some AI tasks and could double some costs compared to its H100 chip &lpar;Reuters&rpar;](http://www.techmeme.com/230503/p32#a230503p32)
- - [Apple&#39;s MacBook Pro 16-inch with 32GB RAM just dropped to $1,999, cheapest price ever](https://appleinsider.com/articles/23/05/04/apples-macbook-pro-16-inch-with-32gb-ram-just-dropped-to-1999-cheapest-price-ever?utm_medium=rss)
- - [Healthy.io, which offers urine analysis through its mobile app, raised a $50M Series D; the company is laying off ~70 employees, or about a third of its staff &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230503/p31#a230503p31)<!-- TECH:END -->
+ - [Nasscom report: India is facing an AI/ML and data science talent crunch as unfilled job roles grow, despite having the second largest talent pool after the US &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/230503/p33#a230503p33)
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
