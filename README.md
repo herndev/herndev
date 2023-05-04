@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple inching closer to one billion paid subscriptions](https://appleinsider.com/articles/23/05/04/apple-inching-closer-to-one-billion-paid-subscriptions?utm_medium=rss)
- - [Meet the fossil fuel-funded startup trying to take CO2 out of the ocean](https://www.theverge.com/2023/5/4/23711098/ocean-carbon-removal-california-captura-climate-change)
- - [Apple extends share buybacks by another $90 billion](https://appleinsider.com/articles/23/05/04/apple-extends-share-buybacks-by-another-90b?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Q2 revenue rose 15.3% YoY in Asia-Pacific, business in India grew by &quot;very strong double digits&quot;, but sales fell 2.9% in Greater China and 7.1% in Japan &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230504/p32#a230504p32)
+ - [Hulu Plus Live TV Will Soon Offer Local PBS and Magnolia Network     - CNET](https://www.cnet.com/tech/services-and-software/hulu-plus-live-tv-will-soon-offer-local-pbs-and-magnolia-network/#ftag=CAD590a51e)
+ - [Google I/O 2023: How to Watch, Pixel Fold Reveal, Pixel Tablet and What to Expect     - CNET](https://www.cnet.com/tech/google-io-2023-how-to-watch-pixel-fold-reveal-pixel-tablet-and-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
