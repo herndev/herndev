@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming monitors in 2023](https://www.pcgamer.com/best-gaming-monitor)
- - [Best gaming headsets in 2023](https://www.pcgamer.com/best-gaming-headset)
- - [Today&#39;s Wordle hint and answer #684: Thursday, May 4](https://www.pcgamer.com/wordle-today-hint-answer-684-may-4)<!-- GAME:END -->
+ - [How to Find the Gorge&#39;s Secret in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-find-the-gorges-secret-winding-ravine)
+ - [The latest PS5 bundle includes Final Fantasy 16, available for pre-order now](https://www.polygon.com/deals/23709464/ps5-bundle-final-fantasy-16-ffxvi-pre-order-buy)
+ - [How to unlock Holo Tactics and beat opponents in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-holo-tactics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
