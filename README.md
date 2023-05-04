@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Visions season 2, broken down by Stars, Wars, and Visions](https://www.polygon.com/star-wars/23707998/star-wars-visions-season-2-review)
- - [Phil Spencer apologizes for Redfall&#39;s &#39;disappointing&#39; launch but promises to keep working on it](https://www.pcgamer.com/phil-spencer-apologizes-for-redfalls-disappointing-launch-but-promises-to-keep-working-on-it)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [11 Escape Room Tips &lpar;For When You Absolutely Must Find The Damn Exit&rpar;](https://kotaku.com/escape-room-game-tips-puzzles-how-to-beat-locks-codes-1850402720)
+ - [Legendary Horror Manga Creator Is A Little Worried About AI Artwork](https://kotaku.com/junji-ito-ai-art-hideo-kojima-magic-gathering-uzumaki-1850404505)
+ - [Kevin Costner reportedly quits Yellowstone, capping months of feuds](https://www.polygon.com/23711044/kevin-costner-yellowstone-leaving-season-5-delay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
