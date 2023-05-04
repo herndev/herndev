@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unfortunately, he refuses to admit that he can no longer drive a car.](http://9gag.com/gag/a0461pL)
- - ⏩ [This dude!](http://9gag.com/gag/a8qD0pZ)
+ - 💣 [Eggsplosion](http://9gag.com/gag/a046nAv)
+ - ⏩ [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
  - 👉 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 ---
