@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/amAmMgd)
- - ⏩ [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - 👉 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
+ - 💣 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
+ - ⏩ [Baby it&#39;s cold outside](http://9gag.com/gag/a3Zyyp1)
+ - 👉 [Made me chuckle hard.](http://9gag.com/gag/aPg81Lq)<!-- MEMES:END -->
 
 ---
 
