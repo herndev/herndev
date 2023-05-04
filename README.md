@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC&#39;s Lina Khan calls for regulating AI, saying the tech could fuel market dominance and collusion by large firms, increase fraud and discrimination, and more &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/230503/p30#a230503p30)
- - [Best Portable Air Conditioner Deals: Prices Start at $21     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)
- - [Unionized Apple Store seeks pay raises, customer tips](https://appleinsider.com/articles/23/05/03/unionized-apple-store-seeks-pay-raises-customer-tips?utm_medium=rss)<!-- TECH:END -->
+ - [Healthy.io, which offers urine analysis through its mobile app, raised a $50M Series D; the company is laying off ~70 employees, or about a third of its staff &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230503/p31#a230503p31)
+ - [Record price drop the Pixel 7 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [FTC&#39;s Lina Khan calls for regulating AI, saying the tech could fuel market dominance and collusion by large firms, increase fraud and discrimination, and more &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/230503/p30#a230503p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
