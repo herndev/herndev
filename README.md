@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
- - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 👉 [What Happens When You Pour Salt Water In To These Sand Holes!](http://9gag.com/gag/aNwV9yK)<!-- MEMES:END -->
+ - 💣 [Unfortunately, he refuses to admit that he can no longer drive a car.](http://9gag.com/gag/a0461pL)
+ - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 👉 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
 
 ---
 
