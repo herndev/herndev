@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
- - [Star Wars Jedi: Survivor includes a $10 credit at Amazon and Target](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)
- - [Fox is sending a bizarre collection of celebrities to fake Mars for a new reality show](https://www.polygon.com/23711452/stars-on-mars-cast-list-release-date-celebrities)<!-- GAME:END -->
+ - [My Only Goal In Star Wars Jedi: Survivor Is To Serve Lewks](https://kotaku.com/star-wars-jedi-survivor-cal-customization-hermit-outfit-1850406023)
+ - [Steam&#39;s new layout is hiding my screenshots from me and this is the worst minor inconvenience of my week](https://www.pcgamer.com/steams-new-layout-is-hiding-my-screenshots-from-me-and-this-is-the-worst-minor-inconvenience-of-my-week)
+ - [The Destiny 2 Season Pass Price Is Going Up](https://kotaku.com/destiny-2-lightfall-witch-queen-season-pass-price-deep-1850405781)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
