@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unfortunately, he refuses to admit that he can no longer drive a car.](http://9gag.com/gag/a0461pL)
- - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 👉 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
+ - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - ⏩ [Run](http://9gag.com/gag/amAmMgd)
+ - 👉 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)<!-- MEMES:END -->
 
 ---
 
