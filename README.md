@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
+ - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
  - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 👉 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)<!-- MEMES:END -->
+ - 👉 [What Happens When You Pour Salt Water In To These Sand Holes!](http://9gag.com/gag/aNwV9yK)<!-- MEMES:END -->
 
 ---
 
