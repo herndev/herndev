@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - ⏩ [Run](http://9gag.com/gag/amAmMgd)
- - 👉 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)<!-- MEMES:END -->
+ - 💣 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
+ - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 👉 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 ---
 
