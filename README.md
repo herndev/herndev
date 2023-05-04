@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)
- - [Google I/O 2023: all the news from Google’s big developer event](https://www.theverge.com/23697481/google-io-2023-news-announcements-rumors-pixel)
- - [Hugging Face and ServiceNow Research release StarCoder, a free alternative to code-generating AI like GitHub&#39;s Copilot, as part of the BigCode project &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230504/p15#a230504p15)<!-- TECH:END -->
+ - [Case-Mate’s iMac-inspired translucent USB-C chargers are half off](https://www.theverge.com/2023/5/4/23709533/case-mate-charger-google-pixel-7-pro-dashlane-1password-password-manager-deal-sale)
+ - [Discord plans to remove the four-digit tag after its usernames to make it &quot;easier to connect&quot; with others, forcing users to pick a username with the @ symbol &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230504/p16#a230504p16)
+ - [Apple Arcade launches 20 new games, including a new TMNT roguelike](https://www.theverge.com/2023/5/4/23710913/apple-arcade-new-games-tmnt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
