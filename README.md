@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best gaming monitors in 2023](https://www.pcgamer.com/best-gaming-monitor)
  - [Best gaming headsets in 2023](https://www.pcgamer.com/best-gaming-headset)
- - [Today&#39;s Wordle hint and answer #684: Thursday, May 4](https://www.pcgamer.com/wordle-today-hint-answer-684-may-4)
- - [Rainbow Six Kickstarter Asks For More Money From People Who Already Backed](https://kotaku.com/rainbow-six-kickstarter-asks-for-more-money-from-people-1850402347)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #684: Thursday, May 4](https://www.pcgamer.com/wordle-today-hint-answer-684-may-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
