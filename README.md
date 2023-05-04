@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - 💣 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
+ - ⏩ [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 👉 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)<!-- MEMES:END -->
 
 ---
 
