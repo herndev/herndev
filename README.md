@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Healthy.io, which offers urine analysis through its mobile app, raised a $50M Series D; the company is laying off ~70 employees, or about a third of its staff &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230503/p31#a230503p31)
- - [Record price drop the Pixel 7 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [FTC&#39;s Lina Khan calls for regulating AI, saying the tech could fuel market dominance and collusion by large firms, increase fraud and discrimination, and more &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/230503/p30#a230503p30)<!-- TECH:END -->
+ - [Experts say Nvidia&#39;s H800 chip for China will likely take 10%-30% longer to carry out some AI tasks and could double some costs compared to its H100 chip &lpar;Reuters&rpar;](http://www.techmeme.com/230503/p32#a230503p32)
+ - [Apple&#39;s MacBook Pro 16-inch with 32GB RAM just dropped to $1,999, cheapest price ever](https://appleinsider.com/articles/23/05/04/apples-macbook-pro-16-inch-with-32gb-ram-just-dropped-to-1999-cheapest-price-ever?utm_medium=rss)
+ - [Healthy.io, which offers urine analysis through its mobile app, raised a $50M Series D; the company is laying off ~70 employees, or about a third of its staff &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230503/p31#a230503p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
