@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Only Goal In Star Wars Jedi: Survivor Is To Serve Lewks](https://kotaku.com/star-wars-jedi-survivor-cal-customization-hermit-outfit-1850406023)
- - [Steam&#39;s new layout is hiding my screenshots from me and this is the worst minor inconvenience of my week](https://www.pcgamer.com/steams-new-layout-is-hiding-my-screenshots-from-me-and-this-is-the-worst-minor-inconvenience-of-my-week)
- - [The Destiny 2 Season Pass Price Is Going Up](https://kotaku.com/destiny-2-lightfall-witch-queen-season-pass-price-deep-1850405781)<!-- GAME:END -->
+ - [Former SimCity developers launched a new city builder today—but sadly it&#39;s not on PC](https://www.pcgamer.com/former-simcity-developers-launched-a-new-city-builder-todaybut-sadly-its-not-on-pc)
+ - [Game engine maker Unity lays off 600 employees and plans to close half its offices worldwide](https://www.pcgamer.com/game-engine-maker-unity-lays-off-600-employees-and-plans-to-close-half-its-offices-worldwide)
+ - [Holy cow, they&#39;re making a new Shadowman game](https://www.pcgamer.com/holy-cow-theyre-making-a-new-shadowman-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
