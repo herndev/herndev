@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
- - [Transform the look of your Android phone with a new launcher](https://www.theverge.com/23711100/android-launcher-how-to)
- - [iPhone beats Android flagship phones when it comes to DIY repairs at home, study claims](https://appleinsider.com/articles/23/05/04/iphone-beats-android-flagship-phones-when-it-comes-to-diy-repairs-at-home-study-claims?utm_medium=rss)<!-- TECH:END -->
+ - [Mozilla expands its Mastodon instance to private beta with strict content moderation rules, saying it is &quot;not building another self-declared &#39;neutral&#39; platform&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230504/p22#a230504p22)
+ - [Slack GPT could soon attend Huddles so you don’t have to](https://www.theverge.com/2023/5/4/23711468/slack-salesforce-slackgpt-generative-ai-llm-chatgpt-openai)
+ - [The 49 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
