@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Hunt: Showdown players catch &#39;granny fever,&#39; I&#39;m wondering if we need more elderly characters in FPSes](https://www.pcgamer.com/as-hunt-showdown-players-catch-granny-fever-im-wondering-if-we-need-more-elderly-characters-in-fpses)
- - [There might be more Star Wars games in development than you realize](https://www.pcgamer.com/upcoming-star-wars-games)
- - [Discord Announces Forced Name Changes, Pisses Everyone Off](https://kotaku.com/discord-username-update-xbox-series-x-s-ps5-voice-chat-1850405248)<!-- GAME:END -->
+ - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
+ - [Star Wars Jedi: Survivor includes a $10 credit at Amazon and Target](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)
+ - [Fox is sending a bizarre collection of celebrities to fake Mars for a new reality show](https://www.polygon.com/23711452/stars-on-mars-cast-list-release-date-celebrities)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
