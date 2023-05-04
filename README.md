@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Gen Zers in the US are buying flip phones like the $75 TCL Classic or the $90 Nokia 2780, seeking a break from endless social media and email notifications &lpar;Kate Morgan/Wall Street Journal&rpar;](http://www.techmeme.com/230504/p3#a230504p3)
  - [Q&amp;A with upcoming film BlackBerry director Matt Johnson on tech movies, why BlackBerry died, and why he disagrees with the &quot;nerds rule the world&quot; narrative &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230504/p2#a230504p2)
- - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)
- - [Google and Meta executives say their platforms would withdraw access to news articles in Canada if the proposed Online News Act is passed &lpar;Sam Jabri-Pickett/Reuters&rpar;](http://www.techmeme.com/230504/p1#a230504p1)<!-- TECH:END -->
+ - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
