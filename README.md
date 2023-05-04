@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nasscom report: India is facing an AI/ML and data science talent crunch as unfilled job roles grow, despite having the second largest talent pool after the US &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/230503/p33#a230503p33)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
+ - [Q&amp;A with upcoming film BlackBerry director Matt Johnson on tech movies, why BlackBerry died, and why he disagrees with the &quot;nerds rule the world&quot; narrative &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230504/p2#a230504p2)
+ - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)
+ - [Google and Meta executives say their platforms would withdraw access to news articles in Canada if the proposed Online News Act is passed &lpar;Sam Jabri-Pickett/Reuters&rpar;](http://www.techmeme.com/230504/p1#a230504p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
