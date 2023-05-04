@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This dude!!](http://9gag.com/gag/awZL1O4)
- - ⏩ [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
- - 👉 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)<!-- MEMES:END -->
+ - 💣 [Run](http://9gag.com/gag/amAmMgd)
+ - ⏩ [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
+ - 👉 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
 
 ---
 
