@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [Well whats this?..](http://9gag.com/gag/aL1GGL5)<!-- MEMES:END -->
+ - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 👉 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 ---
 
