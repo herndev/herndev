@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unionized Apple Store seeks pay raises, customer tips](https://appleinsider.com/articles/23/05/03/unionized-apple-store-seeks-pay-raises-customer-tips?utm_medium=rss)
- - [Hollywood&#39;s writers on strike have two worries on AI: they don&#39;t want their work used as training data and don&#39;t want to fix AI-generated &quot;sloppy first drafts&quot; &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230503/p29#a230503p29)
- - [FTC Alleges Meta Failed to Protect Your Privacy, Proposes New Restrictions     - CNET](https://www.cnet.com/tech/ftc-alleges-meta-failed-to-protect-your-privacy-proposes-new-restrictions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC&#39;s Lina Khan calls for regulating AI, saying the tech could fuel market dominance and collusion by large firms, increase fraud and discrimination, and more &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/230503/p30#a230503p30)
+ - [Best Portable Air Conditioner Deals: Prices Start at $21     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)
+ - [Unionized Apple Store seeks pay raises, customer tips](https://appleinsider.com/articles/23/05/03/unionized-apple-store-seeks-pay-raises-customer-tips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
