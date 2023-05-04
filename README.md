@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
- - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
+ - 💣 [Run](http://9gag.com/gag/amAmMgd)
+ - ⏩ [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
+ - 👉 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 ---
 
