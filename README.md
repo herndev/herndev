@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft opens its Bing chatbot to all, removing the waitlist, and announces new features, including image and video results, chat history, and plug-in support &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230504/p6#a230504p6)
- - [The UK CMA launches a &quot;fact-finding&quot; review of the AI market, including LLMs, to assess opportunities, guardrails, and principles to protect competition &lpar;Financial Times&rpar;](http://www.techmeme.com/230504/p5#a230504p5)
- - [Coinbase will stop issuing loans in the US via its Borrow program from May 10 due to low demand; source: the move had nothing to do with Coinbase&#39;s SEC troubles &lpar;CoinDesk&rpar;](http://www.techmeme.com/230504/p4#a230504p4)<!-- TECH:END -->
+ - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
+ - [Windows 11’s photos app is getting slideshows and a blemish removal tool](https://www.theverge.com/2023/5/4/23710807/microsoft-windows-11-photos-app-slideshow-spot-fix-tool)
+ - [Salesforce announces SlackGPT, planning to add generative AI features to Slack to summarize meetings and more, and will incorporate EinsteinGPT into Slack &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230504/p8#a230504p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
