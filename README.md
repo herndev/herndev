@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify reports Q1 revenue up 25% YoY to $1.5B, above $1.43B analyst estimates, GMV up 15% to $49.6B, and plans to cut 20% of its staff; SHOP jumps 14%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/230504/p13#a230504p13)
- - [Therapy apps are still failing their privacy checkups](https://www.theverge.com/2023/5/4/23710840/mental-health-therapy-apps-mozilla-report-privacy-data-security)
- - [Shopify offloads its logistics unit to supply chain tech company Flexport, a reversal after years of building the operation and acquiring Deliverr for $2.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230504/p12#a230504p12)<!-- TECH:END -->
+ - [Samsung chases Fitbit with new sleep tracking features in One UI 5 Watch](https://www.androidauthority.com/galaxy-watch-sleep-tracking-updates-3320060/)
+ - [The best new streaming movies this week on Paramount, HBO Max, Mubi and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [A Finder.com experiment using ChatGPT to pick 38 stocks finds the portfolio rose 4.9% compared to an average 0.8% loss for 10 popular funds over eight weeks &lpar;Alf Wilkinson/Financial Times&rpar;](http://www.techmeme.com/230504/p14#a230504p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
