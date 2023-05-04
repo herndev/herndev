@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
+ - 💣 [This Guy](http://9gag.com/gag/abvW26r)
+ - ⏩ [Sad but true WoW](http://9gag.com/gag/az2GRBq)
+ - 👉 [A wild red fox regularly visits a woman&#39;s apartment for food and affection. Here, the fox allows the woman to give scritches](http://9gag.com/gag/aKEWe5Q)<!-- MEMES:END -->
 
 ---
 
