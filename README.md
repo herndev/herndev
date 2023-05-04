@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
- - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - 👉 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
+ - 💣 [Eggsplosion](http://9gag.com/gag/a046nAv)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
+ - 👉 [Helping your wife out](http://9gag.com/gag/aBdPOWZ)<!-- MEMES:END -->
 
 ---
 
