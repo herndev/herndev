@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
- - ⏩ [Baby it&#39;s cold outside](http://9gag.com/gag/a3Zyyp1)
- - 👉 [Made me chuckle hard.](http://9gag.com/gag/aPg81Lq)<!-- MEMES:END -->
+ - 💣 [This Guy](http://9gag.com/gag/abvW26r)
+ - ⏩ [Run](http://9gag.com/gag/amAmMgd)
+ - 👉 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
 
 ---
 
