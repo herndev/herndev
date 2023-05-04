@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eggsplosion](http://9gag.com/gag/a046nAv)
- - ⏩ [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
- - 👉 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
+ - 💣 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
+ - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
 
 ---
 
