@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Guy](http://9gag.com/gag/abvW26r)
- - ⏩ [Sad but true WoW](http://9gag.com/gag/az2GRBq)
+ - 💣 [Sad but true WoW](http://9gag.com/gag/az2GRBq)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
  - 👉 [A wild red fox regularly visits a woman&#39;s apartment for food and affection. Here, the fox allows the woman to give scritches](http://9gag.com/gag/aKEWe5Q)<!-- MEMES:END -->
 
 ---
