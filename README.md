@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
+ - 💣 [American Polyglot surprises African Warrior Tribe with their language](http://9gag.com/gag/aGEM7wX)
+ - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - 👉 [American Healthcare.](http://9gag.com/gag/avQEDzM)<!-- MEMES:END -->
 
 ---
 
