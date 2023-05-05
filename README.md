@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doctors Behind Mifepristone Ban Called ‘Christians’ a Top Threat](https://www.wired.com/story/american-college-pediatrics-christian-threat/)
- - [NY AG proposes the Crypto Regulation, Protection, Transparency and Oversight Act, or CRPTO, seeking broader enforcement authority over crypto companies &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/230505/p8#a230505p8)
- - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)<!-- TECH:END -->
+ - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
+ - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
