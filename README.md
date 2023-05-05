@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bravo](http://9gag.com/gag/aBdP4yN)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
+ - 💣 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - ⏩ [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 👉 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
 
 ---
 
