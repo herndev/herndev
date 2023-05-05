@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen suddenly grabs steering wheel but the driver was able to stop the bus.](http://9gag.com/gag/aYVP160)
- - ⏩ [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
+ - 💣 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
+ - ⏩ [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 👉 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
 
 ---
 
