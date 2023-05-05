@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/amAmMgd)
- - ⏩ [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
- - 👉 [Oi mate!](http://9gag.com/gag/aNwVRYA)<!-- MEMES:END -->
+ - 💣 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
+ - 👉 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
 
 ---
 
