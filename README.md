@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 💣 [You&#39;re Fac-!](http://9gag.com/gag/ago8dwq)
  - ⏩ [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
- - 👉 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
+ - 👉 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
 
 ---
 
