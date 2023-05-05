@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 8 to 12](https://news.xbox.com/en-us/2023/05/05/next-week-on-xbox-new-games-for-may-8-to-12/)
- - [Yellowstone ending after season 5 with McConaughey in talks to star in sequel](https://www.polygon.com/23712357/yellowstone-ending-season-5-finale-kevin-costner-matthew-mcconaughey)
- - [Hogwarts Legacy gets massive patch that&#39;s especially useful if you&#39;re afraid of spiders](https://www.pcgamer.com/hogwarts-legacy-gets-massive-patch-thats-especially-useful-if-youre-afraid-of-spiders)<!-- GAME:END -->
+ - [Unicorn: Warriors Eternal creators on the animated marvel 20 years in the making](https://www.polygon.com/23711448/genndy-tartakovsky-unicorn-warriors-eternal-making-of-interview-feature)
+ - [PSA: Animal Lovers, Brace Yourselves For Guardians Of The Galaxy, Vol. 3](https://kotaku.com/guardians-of-the-galaxy-vol-3-rocket-raccoon-animal-vio-1850408326)
+ - [I Played That Racing Game Where Cars Have Legs And Jetpacks](https://kotaku.com/what-the-car-golf-apple-arcade-subscription-racing-game-1850408342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
