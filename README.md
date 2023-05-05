@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbus, Eutelsat, SES, Thales, and other European satellite companies plan to bid for the IRIS&amp;sup2; satellite constellation, hoping to rival SpaceX&#39;s Starlink &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/230505/p2#a230505p2)
- - [The HONOR Magic V2 foldable could be a proper Galaxy Z Fold 5 rival](https://www.androidauthority.com/honor-magic-v2-specs-leak-3320822/)
- - [Benibela digital picture frame: Show off your iPhone photos in your living room more easily](https://appleinsider.com/articles/23/05/05/benibela-digital-picture-frame-show-off-your-iphone-photos-in-your-living-room-more-easily?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Ant Group&#39;s transformation into a fully regulated company has been on hold for over a year as China reshuffles its regulatory system &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230505/p3#a230505p3)
+ - [Microsoft is reportedly helping AMD expand into AI chips](https://www.theverge.com/2023/5/5/23712242/microsoft-amd-ai-processor-chip-nvidia-gpu-athena-mi300)
+ - [Yet Another Problem With Recycling: It Spews Microplastics](https://www.wired.com/story/yet-another-problem-with-recycling-it-spews-microplastics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
