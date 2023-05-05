@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re Fac-!](http://9gag.com/gag/ago8dwq)
+ - 💣 [Definition of dumb](http://9gag.com/gag/a8qDnQZ)
  - ⏩ [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
- - 👉 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
+ - 👉 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
 
 ---
 
