@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
- - 👉 [The real ilpt](http://9gag.com/gag/a4o5rA6)<!-- MEMES:END -->
+ - 💣 [Failure of exposed cars batteries to high seas salty water over time, 2023 &lpar;specific date is unknown&rpar;.](http://9gag.com/gag/aA04NDZ)
+ - ⏩ [Must go pasta](http://9gag.com/gag/amAmdv4)
+ - 👉 [I&#39;ll take two](http://9gag.com/gag/aGEM7Gz)<!-- MEMES:END -->
 
 ---
 
