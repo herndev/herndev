@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies on Netflix UK](https://www.polygon.com/what-to-watch/23711157/best-movies-on-netflix-uk)
  - [Today&#39;s Wordle hint and answer #685: Friday, May 5](https://www.pcgamer.com/wordle-today-hint-answer-685-may-5)
- - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)
- - [40% of Hunt: Showdown players have never killed another player, says Hunt: Showdown&#39;s general manager](https://www.pcgamer.com/40-of-hunt-showdown-players-have-never-killed-another-player-says-hunt-showdowns-general-manager)<!-- GAME:END -->
+ - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
