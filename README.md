@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failure of exposed cars batteries to high seas salty water over time, 2023 &lpar;specific date is unknown&rpar;.](http://9gag.com/gag/aA04NDZ)
- - ⏩ [Must go pasta](http://9gag.com/gag/amAmdv4)
- - 👉 [I&#39;ll take two](http://9gag.com/gag/aGEM7Gz)<!-- MEMES:END -->
+ - 💣 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - ⏩ [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - 👉 [How they see us.](http://9gag.com/gag/a7qVAeA)<!-- MEMES:END -->
 
 ---
 
