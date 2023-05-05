@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - 👉 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
+ - 💣 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
+ - ⏩ [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)
+ - 👉 [Vestige](http://9gag.com/gag/aDYZQNx)<!-- MEMES:END -->
 
 ---
 
