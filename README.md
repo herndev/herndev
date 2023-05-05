@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 5 could take this colorful trick from the original Z Flip](https://www.androidauthority.com/galaxy-z-flip-5-2-3320961/)
- - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Gmail ads are getting more annoying](https://www.theverge.com/2023/5/5/23712440/gmail-ads-more-annoying-middle-inbox)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Apple Music Live&#39;s new season kicks off with Ed Sheeran](https://appleinsider.com/articles/23/05/05/apple-music-lives-second-season-kicks-off-with-ed-sheeran?utm_medium=rss)
+ - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
