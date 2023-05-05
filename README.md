@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat Movie Sequel May Have Found Its Johnny Cage](https://kotaku.com/mortal-kombat-2-movie-johnny-cage-actor-karl-urban-1850409639)
- - [Rigged? Bungie just announced the winners of a Destiny 2 event that isn&#39;t due to end for weeks](https://www.pcgamer.com/rigged-bungie-just-announced-the-winners-of-a-destiny-2-event-that-isnt-due-to-end-for-weeks)
- - [Breath of the Wild’s official story recap video is a good Tears of the Kingdom primer](https://www.polygon.com/23709923/zelda-breath-wild-story-recap-tears-kingdom)<!-- GAME:END -->
+ - [This Week on Xbox: Star Wars Events, Upcoming Games, and More](https://news.xbox.com/en-us/2023/05/05/this-week-on-xbox-star-wars-events-upcoming-games-and-more/)
+ - [For Mother’s Day, here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
+ - [Magic: The Gathering Arena gets a Steam version in May, much earlier than expected](https://www.polygon.com/23712934/mtg-arena-steam-version-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
