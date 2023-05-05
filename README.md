@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wizarding World Awaits: Hogwarts Legacy is Available Now on Xbox One](https://news.xbox.com/en-us/2023/05/05/hogwarts-legacy-xbox-one/)
- - [Legendary magician Teller explains how he helped design Mrs. Davis’ magic tricks](https://www.polygon.com/23711800/mrs-davis-episode-6-teller-magician-consultant-magic-acid)
- - [Where to find Ponzo in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-ponzo-location-barter-brick)<!-- GAME:END -->
+ - [Rocket Raccoon was never supposed to be a superhero](https://www.polygon.com/23711140/guardians-of-the-galaxy-rocket-racoon-origin-story-comics)
+ - [Share of the Week: Horizon Forbidden West – Burning Shores](https://blog.playstation.com/2023/05/05/share-of-the-week-horizon-forbidden-west-burning-shores/)
+ - [Street Fighter 6 Comic Confirms Ken Is A Crypto Bro, Bad Father](https://kotaku.com/street-fighter-6-ken-udon-comics-ps5-crypto-meme-xbox-1850409082)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
