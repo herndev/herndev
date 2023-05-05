@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix UK](https://www.polygon.com/what-to-watch/23711157/best-movies-on-netflix-uk)
- - [Today&#39;s Wordle hint and answer #685: Friday, May 5](https://www.pcgamer.com/wordle-today-hint-answer-685-may-5)
- - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)<!-- GAME:END -->
+ - [How to complete the Chamber of Reason in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-chamber-of-reason)
+ - [Hope you like GPUs with 8GB because both AMD and Nvidia have new cards ready to go](https://www.pcgamer.com/hope-you-like-gpus-with-8gb-because-both-amd-and-nvidia-have-new-cards-ready-to-go)
+ - [&#39;It is really, really OP&#39;: Europa Universalis 4 DLC feature lets you conquer the world at record pace](https://www.pcgamer.com/it-is-really-really-op-europa-universalis-4-dlc-feature-lets-you-conquer-the-world-at-record-pace)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
