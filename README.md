@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York&#39;s MTA resumes posting automated transit alerts to Twitter after Twitter backtracked on a plan to charge public service accounts for API access &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230504/p34#a230504p34)
- - [How to delete all promotions in Gmail](https://www.androidauthority.com/how-to-delete-all-promotions-in-gmail-3320610/)
- - [AirTag foils $1.1 million armed robbery of an armored truck](https://appleinsider.com/articles/23/05/05/airtag-foils-11-million-armed-robbery-of-an-armored-truck?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi Mi Band 8 vs Mi Band 7: What’s new on the latest budget tracker?](https://www.androidauthority.com/xiaomi-mi-band-8-vs-7-3320625/)
+ - [Source: a leaked April 2023 internal document by Luke Sernau, a senior software engineer at Google, argues that open source AI will outcompete Google and OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p35#a230504p35)
+ - [New York&#39;s MTA resumes posting automated transit alerts to Twitter after Twitter backtracked on a plan to charge public service accounts for API access &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230504/p34#a230504p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
