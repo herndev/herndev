@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vestige](http://9gag.com/gag/aDYZQNx)
- - ⏩ [Go woke go broke, Red Sox fans snub Bud Light at Fenway Park](http://9gag.com/gag/adPnb3Z)
- - 👉 [This is art](http://9gag.com/gag/aEqoOX9)<!-- MEMES:END -->
+ - 💣 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
+ - 👉 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
 
 ---
 
