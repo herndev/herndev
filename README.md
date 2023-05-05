@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
- - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - 👉 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
+ - 💣 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
+ - ⏩ [Run](http://9gag.com/gag/amAmMgd)
+ - 👉 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)<!-- MEMES:END -->
 
 ---
 
