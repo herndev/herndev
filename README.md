@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - ⏩ [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
- - 👉 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
+ - ⏩ [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 👉 [The real ilpt](http://9gag.com/gag/a4o5rA6)<!-- MEMES:END -->
 
 ---
 
