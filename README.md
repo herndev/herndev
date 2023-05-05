@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen suddenly grabs steering wheel but the driver was able to stop the bus.](http://9gag.com/gag/aYVP160)
- - ⏩ [Run](http://9gag.com/gag/amAmMgd)
- - 👉 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)<!-- MEMES:END -->
+ - 💣 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
+ - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - 👉 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
 
 ---
 
