@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Rising Esports Tournament Showcases the Power of Gaming to Fight AIDS and Save Lives](https://news.xbox.com/en-us/2023/05/05/apex-rising-esports-tournament-showcases-the-power-of-gaming-to-fight-aids-and-save-lives/)
- - [Theater&#39;s Accidental Little Mermaid + Transformers Trailer Mashup Rules, Actually](https://kotaku.com/the-little-mermaid-transformers-beasts-trailers-mash-up-1850410244)
- - [How many Dune movies will there be?](https://www.polygon.com/23712612/dune-how-many-parts-movies-sequels-messiah)<!-- GAME:END -->
+ - [Please Watch This Amazing Overwatch X Dallas Mavericks Video](https://kotaku.com/overwatch-luka-doncic-dallas-mavericks-tiktok-video-1850410600)
+ - [Over 1M people have bought our favorite open world game of 2023 so far](https://www.pcgamer.com/over-1m-people-have-bought-our-favorite-open-world-game-of-2023-so-far)
+ - [PlayStation Shuts Down Concrete Genie Dev Amidst Continued Pivot To Prestige](https://kotaku.com/pixelopus-shut-down-playstation-studios-sony-closure-1850410532)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
