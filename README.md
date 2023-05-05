@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [40% of Hunt: Showdown players have never killed another player, says Hunt: Showdown&#39;s general manager](https://www.pcgamer.com/40-of-hunt-showdown-players-have-never-killed-another-player-says-hunt-showdowns-general-manager)
  - [I Must Know What Video Game Erling Haaland Is Playing](https://kotaku.com/erling-haaland-video-game-mystery-man-city-epl-goal-1850406922)
- - [Guardians of the Galaxy 3’s credits scenes are a simple mystery](https://www.polygon.com/23708075/guardians-galaxy-3-end-credits-scenes-star-lord-phyla)
- - [One Of The First Nintendo GameCubes Has Been Found](https://kotaku.com/nintendo-gamecube-space-world-direct-japan-2000-zelda-1850402685)<!-- GAME:END -->
+ - [Guardians of the Galaxy 3’s credits scenes are a simple mystery](https://www.polygon.com/23708075/guardians-galaxy-3-end-credits-scenes-star-lord-phyla)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
