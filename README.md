@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six months later, the iPhone 14 Pro is everything I love and hate about phones](https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display)
- - [Silo is a small-town mystery set at the end of the world](https://www.theverge.com/23711259/silo-review-season-1-apple-tv-plus)
- - [Idris Elba&#39;s &quot;Hijack&quot; airplane thriller premieres June 28 on Apple TV+](https://appleinsider.com/articles/23/05/05/idris-elbas-hijack-airplane-thriller-premieres-june-28-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Teams is getting animated backgrounds for your meetings](https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature)
+ - [Congress is flooded with bills for childproofing the internet](https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal)
+ - [Smartphone shipments declined by 14% YoY and 7% QoQ globally to reach 280.2M units in Q1 2023; Apple&#39;s YoY decline was the smallest of the top five brands &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230505/p6#a230505p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
