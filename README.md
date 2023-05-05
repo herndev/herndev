@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
- - ⏩ [Run](http://9gag.com/gag/amAmMgd)
- - 👉 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)<!-- MEMES:END -->
+ - 💣 [Run](http://9gag.com/gag/amAmMgd)
+ - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 👉 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
 
 ---
 
