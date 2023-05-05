@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker 10-minute gameplay video features dark halls, giant rats, and the worst gun ever](https://www.pcgamer.com/amnesia-the-bunker-10-minute-gameplay-video-features-dark-halls-giant-rats-and-the-worst-gun-ever)
- - [The Best And Worst Parts Of Every Star Wars Movie](https://kotaku.com/the-best-and-worst-parts-of-every-star-wars-movie-1850406311)
- - [Final Fantasy XVI Banned In Saudi Arabia](https://kotaku.com/final-fantasy-16-saudi-arabia-banned-esrb-rating-ps5-1850406384)<!-- GAME:END -->
+ - [Guardians of the Galaxy 3’s credits scenes are a mundane mystery](https://www.polygon.com/23708075/guardians-galaxy-3-end-credits-scenes-star-lord-phyla)
+ - [PC Gamers Are Getting Angry At All The Wrong People](https://kotaku.com/pc-gaming-gamers-ea-activision-steam-angry-mad-valve-1850397771)
+ - [Amnesia: The Bunker 10-minute gameplay video features dark halls, giant rats, and the worst gun ever](https://www.pcgamer.com/amnesia-the-bunker-10-minute-gameplay-video-features-dark-halls-giant-rats-and-the-worst-gun-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
