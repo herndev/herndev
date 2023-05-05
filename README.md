@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)
  - [40% of Hunt: Showdown players have never killed another player, says Hunt: Showdown&#39;s general manager](https://www.pcgamer.com/40-of-hunt-showdown-players-have-never-killed-another-player-says-hunt-showdowns-general-manager)
- - [I Must Know What Video Game Erling Haaland Is Playing](https://kotaku.com/erling-haaland-video-game-mystery-man-city-epl-goal-1850406922)
- - [Guardians of the Galaxy 3’s credits scenes are a simple mystery](https://www.polygon.com/23708075/guardians-galaxy-3-end-credits-scenes-star-lord-phyla)<!-- GAME:END -->
+ - [I Must Know What Video Game Erling Haaland Is Playing](https://kotaku.com/erling-haaland-video-game-mystery-man-city-epl-goal-1850406922)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
