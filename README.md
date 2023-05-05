@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Chamber of Reason in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-chamber-of-reason)
- - [Hope you like GPUs with 8GB because both AMD and Nvidia have new cards ready to go](https://www.pcgamer.com/hope-you-like-gpus-with-8gb-because-both-amd-and-nvidia-have-new-cards-ready-to-go)
- - [&#39;It is really, really OP&#39;: Europa Universalis 4 DLC feature lets you conquer the world at record pace](https://www.pcgamer.com/it-is-really-really-op-europa-universalis-4-dlc-feature-lets-you-conquer-the-world-at-record-pace)<!-- GAME:END -->
+ - [Nvidia&#39;s dropped a video of an incredible AI-powered hairdressing sim and now I want a digital barbershop](https://www.pcgamer.com/nvidias-dropped-a-video-of-an-incredible-ai-powered-hairdressing-sim-and-now-i-want-a-digital-barbershop)
+ - [Honkai: Star Rail tier list for the best characters](https://www.pcgamer.com/honkai-star-rail-tier-list)
+ - [How to complete the Chamber of Reason in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-chamber-of-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
