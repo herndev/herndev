@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Star Wars Events, Upcoming Games, and More](https://news.xbox.com/en-us/2023/05/05/this-week-on-xbox-star-wars-events-upcoming-games-and-more/)
- - [For Mother’s Day, here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
- - [Magic: The Gathering Arena gets a Steam version in May, much earlier than expected](https://www.polygon.com/23712934/mtg-arena-steam-version-release-date-price)<!-- GAME:END -->
+ - [Apex Rising Esports Tournament Showcases the Power of Gaming to Fight AIDS and Save Lives](https://news.xbox.com/en-us/2023/05/05/apex-rising-esports-tournament-showcases-the-power-of-gaming-to-fight-aids-and-save-lives/)
+ - [Theater&#39;s Accidental Little Mermaid + Transformers Trailer Mashup Rules, Actually](https://kotaku.com/the-little-mermaid-transformers-beasts-trailers-mash-up-1850410244)
+ - [How many Dune movies will there be?](https://www.polygon.com/23712612/dune-how-many-parts-movies-sequels-messiah)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
