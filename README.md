@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gary Marcus Used to Call AI Stupid—Now He Calls It Dangerous](https://www.wired.com/story/plaintext-gary-marcus-ai-stupid-dangerous/)
- - [Laurastar Iggi Clothes Steamer Review: Keeps Your Pleats Neat](https://www.wired.com/review/laurastar-iggi-clothes-steamer/)
- - [AI, the WGA Strike, and What Luddites Got Right](https://www.wired.com/story/wga-strike-artificial-intelligence-luddites/)<!-- TECH:END -->
+ - [Six months later, the iPhone 14 Pro is everything I love and hate about phones](https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display)
+ - [Silo is a small-town mystery set at the end of the world](https://www.theverge.com/23711259/silo-review-season-1-apple-tv-plus)
+ - [Idris Elba&#39;s &quot;Hijack&quot; airplane thriller premieres June 28 on Apple TV+](https://appleinsider.com/articles/23/05/05/idris-elbas-hijack-airplane-thriller-premieres-june-28-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
