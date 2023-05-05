@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ant Group&#39;s transformation into a fully regulated company has been on hold for over a year as China reshuffles its regulatory system &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230505/p3#a230505p3)
- - [Microsoft is reportedly helping AMD expand into AI chips](https://www.theverge.com/2023/5/5/23712242/microsoft-amd-ai-processor-chip-nvidia-gpu-athena-mi300)
- - [Yet Another Problem With Recycling: It Spews Microplastics](https://www.wired.com/story/yet-another-problem-with-recycling-it-spews-microplastics/)<!-- TECH:END -->
+ - [Gary Marcus Used to Call AI Stupid—Now He Calls It Dangerous](https://www.wired.com/story/plaintext-gary-marcus-ai-stupid-dangerous/)
+ - [Laurastar Iggi Clothes Steamer Review: Keeps Your Pleats Neat](https://www.wired.com/review/laurastar-iggi-clothes-steamer/)
+ - [AI, the WGA Strike, and What Luddites Got Right](https://www.wired.com/story/wga-strike-artificial-intelligence-luddites/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
