@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #685: Friday, May 5](https://www.pcgamer.com/wordle-today-hint-answer-685-may-5)
  - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)
- - [40% of Hunt: Showdown players have never killed another player, says Hunt: Showdown&#39;s general manager](https://www.pcgamer.com/40-of-hunt-showdown-players-have-never-killed-another-player-says-hunt-showdowns-general-manager)
- - [I Must Know What Video Game Erling Haaland Is Playing](https://kotaku.com/erling-haaland-video-game-mystery-man-city-epl-goal-1850406922)<!-- GAME:END -->
+ - [40% of Hunt: Showdown players have never killed another player, says Hunt: Showdown&#39;s general manager](https://www.pcgamer.com/40-of-hunt-showdown-players-have-never-killed-another-player-says-hunt-showdowns-general-manager)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
