@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/amAmMgd)
- - ⏩ [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 💣 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
  - 👉 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
 
 ---
