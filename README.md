@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Kill in a Demon’s Skin](https://news.xbox.com/en-us/2023/05/05/how-to-kill-in-a-demons-skin/)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Oh, bother: Winnie the Pooh gets the bloodlust again in this Eldritch horror game set in the Hundred Acre Wood](https://www.pcgamer.com/oh-bother-winnie-the-pooh-gets-the-bloodlust-again-in-this-eldritch-horror-game-set-in-the-hundred-acre-wood)<!-- GAME:END -->
+ - [Mortal Kombat Movie Sequel May Have Found Its Johnny Cage](https://kotaku.com/mortal-kombat-2-movie-johnny-cage-actor-karl-urban-1850409639)
+ - [Rigged? Bungie just announced the winners of a Destiny 2 event that isn&#39;t due to end for weeks](https://www.pcgamer.com/rigged-bungie-just-announced-the-winners-of-a-destiny-2-event-that-isnt-due-to-end-for-weeks)
+ - [Breath of the Wild’s official story recap video is a good Tears of the Kingdom primer](https://www.polygon.com/23709923/zelda-breath-wild-story-recap-tears-kingdom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
