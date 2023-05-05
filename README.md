@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Brad Pitt really race an F1 car for his new movie? Not quite](https://www.polygon.com/23712244/brad-pitt-f1-movie-driving-race-weekends)
- - [Russian hackers are using WinRAR as a &#39;cyberweapon&#39; against Ukraine](https://www.pcgamer.com/russian-hackers-are-using-winrar-as-a-cyberweapon-against-ukraine)
- - [Destiny 2&#39;s Vow of the Disciple raid boss has been recreated in Minecraft](https://www.pcgamer.com/destiny-2s-vow-of-the-disciple-raid-boss-has-been-recreated-in-minecraft)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 8 to 12](https://news.xbox.com/en-us/2023/05/05/next-week-on-xbox-new-games-for-may-8-to-12/)
+ - [Yellowstone ending after season 5 with McConaughey in talks to star in sequel](https://www.polygon.com/23712357/yellowstone-ending-season-5-finale-kevin-costner-matthew-mcconaughey)
+ - [Hogwarts Legacy gets massive patch that&#39;s especially useful if you&#39;re afraid of spiders](https://www.pcgamer.com/hogwarts-legacy-gets-massive-patch-thats-especially-useful-if-youre-afraid-of-spiders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
