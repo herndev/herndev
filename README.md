@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brydge brand &amp; IP sold in foreclosure after financial struggles](https://appleinsider.com/articles/23/05/04/brydge-brand-ip-sold-in-foreclosure-after-financial-struggles?utm_medium=rss)
- - [A judge sentences ex-Uber CSO Joe Sullivan to three years of probation; he was convicted in October 2022 for not disclosing a 2016 data breach to regulators &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230504/p33#a230504p33)
- - [Apple&#39;s Q2 revenue rose 15.3% YoY in Asia-Pacific, business in India grew by &quot;very strong double digits&quot;, but sales fell 2.9% in Greater China and 7.1% in Japan &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230504/p32#a230504p32)<!-- TECH:END -->
+ - [AirTag foils $1.1 million armed robbery of an armored truck](https://appleinsider.com/articles/23/05/05/airtag-foils-11-million-armed-robbery-of-an-armored-truck?utm_medium=rss)
+ - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)
+ - [iPhones Continue to Be a Bright Spot for Apple, Even in a Tough Economy     - CNET](https://www.cnet.com/tech/mobile/iphones-continue-to-be-a-bright-spot-for-apple-even-in-a-tough-economy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
