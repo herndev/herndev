@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/amAmMgd)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [Oi mate!](http://9gag.com/gag/aNwVRYA)<!-- MEMES:END -->
+ - 💣 [Karen suddenly grabs steering wheel but the driver was able to stop the bus.](http://9gag.com/gag/aYVP160)
+ - ⏩ [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
 
 ---
 
