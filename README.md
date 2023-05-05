@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
- - ⏩ [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)
- - 👉 [Vestige](http://9gag.com/gag/aDYZQNx)<!-- MEMES:END -->
+ - 💣 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
+ - ⏩ [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - 👉 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
 
 ---
 
