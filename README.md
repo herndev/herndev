@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Brands not called Apple or Samsung are fighting for scraps](https://www.androidauthority.com/apple-samsung-q1-2023-profit-3320798/)
- - [The Seabed Empire Funding Britain’s New King](https://www.wired.com/story/britain-crown-estate-ocean-empire/)
- - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Xiaomi and Poco phones will get MIUI 14 in Q2 2023](https://www.androidauthority.com/xiaomi-poco-miui-14-roadmap-q2-2023-3320807/)
+ - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)
+ - [Report: Brands not called Apple or Samsung are fighting for scraps](https://www.androidauthority.com/apple-samsung-q1-2023-profit-3320798/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
