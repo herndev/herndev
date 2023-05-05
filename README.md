@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
- - 👉 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
+ - 💣 [Vestige](http://9gag.com/gag/aDYZQNx)
+ - ⏩ [Go woke go broke, Red Sox fans snub Bud Light at Fenway Park](http://9gag.com/gag/adPnb3Z)
+ - 👉 [This is art](http://9gag.com/gag/aEqoOX9)<!-- MEMES:END -->
 
 ---
 
