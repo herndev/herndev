@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess that means we are in a simulation](http://9gag.com/gag/a046WDv)
- - ⏩ [28 is the new 21](http://9gag.com/gag/az2GDbp)
- - 👉 [Poor guy sitting next to her... Can see he ia dying inside.](http://9gag.com/gag/aA04mZZ)<!-- MEMES:END -->
+ - 💣 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - ⏩ [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 👉 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
 
 ---
 
