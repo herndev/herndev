@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is getting animated backgrounds for your meetings](https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature)
- - [Congress is flooded with bills for childproofing the internet](https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal)
- - [Smartphone shipments declined by 14% YoY and 7% QoQ globally to reach 280.2M units in Q1 2023; Apple&#39;s YoY decline was the smallest of the top five brands &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230505/p6#a230505p6)<!-- TECH:END -->
+ - [Galaxy Z Flip 5 could take this colorful trick from the original Z Flip](https://www.androidauthority.com/galaxy-z-flip-5-2-3320961/)
+ - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [Gmail ads are getting more annoying](https://www.theverge.com/2023/5/5/23712440/gmail-ads-more-annoying-middle-inbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
