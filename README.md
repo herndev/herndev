@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
- - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [How to Watch the Coronation of King Charles III Live](https://www.wired.com/story/how-to-watch-coronation-king-charles-iii/)
+ - [The Pixel Watch 2 could launch along with the Pixel 8 series](https://www.androidauthority.com/pixel-watch-2-3321073/)
+ - [Coinbase plans to try a novel defense against a potential US SEC enforcement action by arguing the regulator bears some responsibility for approving its IPO &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/230505/p10#a230505p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
