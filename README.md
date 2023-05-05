@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Apple Music Live&#39;s new season kicks off with Ed Sheeran](https://appleinsider.com/articles/23/05/05/apple-music-lives-second-season-kicks-off-with-ed-sheeran?utm_medium=rss)
- - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Doctors Behind Mifepristone Ban Called ‘Christians’ a Top Threat](https://www.wired.com/story/american-college-pediatrics-christian-threat/)
+ - [NY AG proposes the Crypto Regulation, Protection, Transparency and Oversight Act, or CRPTO, seeking broader enforcement authority over crypto companies &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/230505/p8#a230505p8)
+ - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
