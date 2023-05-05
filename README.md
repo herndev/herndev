@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
  - [Xiaomi Mi Band 8 vs Mi Band 7: What’s new on the latest budget tracker?](https://www.androidauthority.com/xiaomi-mi-band-8-vs-7-3320625/)
- - [Source: a leaked April 2023 internal document by Luke Sernau, a senior software engineer at Google, argues that open source AI will outcompete Google and OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p35#a230504p35)
- - [New York&#39;s MTA resumes posting automated transit alerts to Twitter after Twitter backtracked on a plan to charge public service accounts for API access &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230504/p34#a230504p34)<!-- TECH:END -->
+ - [Source: a leaked April 2023 internal document by Luke Sernau, a senior software engineer at Google, argues that open source AI will outcompete Google and OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p35#a230504p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
