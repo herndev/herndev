@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
- - [Xiaomi Mi Band 8 vs Mi Band 7: What’s new on the latest budget tracker?](https://www.androidauthority.com/xiaomi-mi-band-8-vs-7-3320625/)
- - [Source: a leaked April 2023 internal document by Luke Sernau, a senior software engineer at Google, argues that open source AI will outcompete Google and OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p35#a230504p35)<!-- TECH:END -->
+ - [Report: Brands not called Apple or Samsung are fighting for scraps](https://www.androidauthority.com/apple-samsung-q1-2023-profit-3320798/)
+ - [The Seabed Empire Funding Britain’s New King](https://www.wired.com/story/britain-crown-estate-ocean-empire/)
+ - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
