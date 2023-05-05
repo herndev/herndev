@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
- - ⏩ [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 👉 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
+ - 💣 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - ⏩ [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
+ - 👉 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
 
 ---
 
