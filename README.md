@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dune: Ethereum&#39;s median average transaction fee jumped to ~87 gwei on May 2, the highest level since May 2022, mostly due to memecoin trading exploding again &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230505/p1#a230505p1)
  - [These Xiaomi and Poco phones will get MIUI 14 in Q2 2023](https://www.androidauthority.com/xiaomi-poco-miui-14-roadmap-q2-2023-3320807/)
- - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)
- - [Report: Brands not called Apple or Samsung are fighting for scraps](https://www.androidauthority.com/apple-samsung-q1-2023-profit-3320798/)<!-- TECH:END -->
+ - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
