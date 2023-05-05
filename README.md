@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s dropped a video of an incredible AI-powered hairdressing sim and now I want a digital barbershop](https://www.pcgamer.com/nvidias-dropped-a-video-of-an-incredible-ai-powered-hairdressing-sim-and-now-i-want-a-digital-barbershop)
- - [Honkai: Star Rail tier list for the best characters](https://www.pcgamer.com/honkai-star-rail-tier-list)
- - [How to complete the Chamber of Reason in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-chamber-of-reason)<!-- GAME:END -->
+ - [Will Brad Pitt really race an F1 car for his new movie? Not quite](https://www.polygon.com/23712244/brad-pitt-f1-movie-driving-race-weekends)
+ - [Russian hackers are using WinRAR as a &#39;cyberweapon&#39; against Ukraine](https://www.pcgamer.com/russian-hackers-are-using-winrar-as-a-cyberweapon-against-ukraine)
+ - [Destiny 2&#39;s Vow of the Disciple raid boss has been recreated in Minecraft](https://www.pcgamer.com/destiny-2s-vow-of-the-disciple-raid-boss-has-been-recreated-in-minecraft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
