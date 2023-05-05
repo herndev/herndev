@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unicorn: Warriors Eternal creators on the animated marvel 20 years in the making](https://www.polygon.com/23711448/genndy-tartakovsky-unicorn-warriors-eternal-making-of-interview-feature)
- - [PSA: Animal Lovers, Brace Yourselves For Guardians Of The Galaxy, Vol. 3](https://kotaku.com/guardians-of-the-galaxy-vol-3-rocket-raccoon-animal-vio-1850408326)
- - [I Played That Racing Game Where Cars Have Legs And Jetpacks](https://kotaku.com/what-the-car-golf-apple-arcade-subscription-racing-game-1850408342)<!-- GAME:END -->
+ - [The Wizarding World Awaits: Hogwarts Legacy is Available Now on Xbox One](https://news.xbox.com/en-us/2023/05/05/hogwarts-legacy-xbox-one/)
+ - [Legendary magician Teller explains how he helped design Mrs. Davis’ magic tricks](https://www.polygon.com/23711800/mrs-davis-episode-6-teller-magician-consultant-magic-acid)
+ - [Where to find Ponzo in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-ponzo-location-barter-brick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
