@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)
- - ⏩ [Bravo](http://9gag.com/gag/aBdP4yN)
- - 👉 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
+ - 💣 [Run](http://9gag.com/gag/amAmMgd)
+ - ⏩ [This Guy](http://9gag.com/gag/abvW26r)
+ - 👉 [Oi mate!](http://9gag.com/gag/aNwVRYA)<!-- MEMES:END -->
 
 ---
 
