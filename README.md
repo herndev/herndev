@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Achewood is back, and it’s weirder than ever](https://www.theverge.com/23713940/achewood-chris-onstad-return-patreon-ai-raybot)
- - [How to build a smart home](https://www.androidauthority.com/how-to-build-a-smart-home-3319550/)
- - [Report: iPhone satisfaction sees its biggest drop since 2012](https://www.androidauthority.com/iphone-satisfaction-3321541/)<!-- TECH:END -->
+ - [Wear OS 3 delay for Mobvoi watches isn’t letting up anytime soon, says Mobvoi](https://www.androidauthority.com/wear-os-3-mobvoi-3321637/)
+ - [Amazon&#39;s new Apple sale: $800 off MacBook Pro, $199 AirPods Pro 2, $100 off iPads](https://appleinsider.com/articles/23/05/08/amazons-new-apple-sale-800-off-macbook-pro-199-airpods-pro-2-100-off-ipads?utm_medium=rss)
+ - [How Google&#39;s attempt to create a better, faster mobile web for media companies with the AMP standard ended up ruining publishers&#39; trust in the internet giant &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230508/p9#a230508p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
