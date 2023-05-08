@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
- - ⏩ [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 👉 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)<!-- MEMES:END -->
+ - 💣 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
+ - ⏩ [Sudoku](http://9gag.com/gag/amAmwOj)
+ - 👉 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)<!-- MEMES:END -->
 
 ---
 
