@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Volkswagen plans to fire most of the management team at Cariad next week, after the software unit missed its development goals and exceeded its budget &lpar;Jan Schwartz/Reuters&rpar;](http://www.techmeme.com/230507/p8#a230507p8)
- - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)
- - [Best Soundbars of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is generative AI and how does it work?](https://www.androidauthority.com/what-is-generative-ai-3321354/)
+ - [Images of a Texas mall mass shooting go viral on Twitter, fueling criticism of its reduced moderation; Twitter allows some graphic posts like Ukraine war images &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230507/p9#a230507p9)
+ - [My Huge EV Road Trip Around Europe Was Shockingly Easy     - CNET](https://www.cnet.com/roadshow/news/my-huge-ev-road-trip-around-europe-was-shockingly-easy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
