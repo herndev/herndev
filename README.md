@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - ⏩ [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 👉 [Monke vs hive](http://9gag.com/gag/aPg8LYG)<!-- MEMES:END -->
+ - ⏩ [That is seriously impressive](http://9gag.com/gag/a046y2B)
+ - 👉 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)<!-- MEMES:END -->
 
 ---
 
