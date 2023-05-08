@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
- - ⏩ [Sudoku](http://9gag.com/gag/amAmwOj)
- - 👉 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)<!-- MEMES:END -->
+ - ⏩ [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - 👉 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)<!-- MEMES:END -->
 
 ---
 
