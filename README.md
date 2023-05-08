@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - ⏩ [That is seriously impressive](http://9gag.com/gag/a046y2B)
- - 👉 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)<!-- MEMES:END -->
+ - 💣 [That\u2019s s what he said\u2026](http://9gag.com/gag/aVbmpAv)
+ - ⏩ [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
+ - 👉 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)<!-- MEMES:END -->
 
 ---
 
