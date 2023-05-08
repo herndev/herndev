@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch-Up On Zelda: Breath Of The Wild Before The Sequel In Under Seven Minutes](https://kotaku.com/zelda-tears-kingdom-breath-wild-recap-lore-explainer-1850414523)
- - [Lego’s striking Tales of the Space Age set is now available](https://www.polygon.com/deals/2023/5/8/23712573/lego-ideas-tales-space-age-set-buy)
- - [PlayStation Store: April 2023’s top downloads](https://blog.playstation.com/2023/05/08/playstation-store-april-2023s-top-downloads/)<!-- GAME:END -->
+ - [Gamers Are Memeing The Hell Out Of The King Charles Coronation](https://kotaku.com/coronation-king-charles-meme-games-elden-ring-star-wars-1850414863)
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
+ - [Why sad TV men are the internet’s ‘babygirls’](https://www.polygon.com/23711849/succession-babygirl-kendall-roy-jesse-breaking-bad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
