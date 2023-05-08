@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Revenge is dish, Best serve cold...](http://9gag.com/gag/aeQVLxB)
- - ⏩ [I&#39;m telling you I&#39;m really trying to quit smoking](http://9gag.com/gag/aOxDwxD)
- - 👉 [Psycho Girl](http://9gag.com/gag/abvW8db)<!-- MEMES:END -->
+ - 💣 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
+ - ⏩ [With the font size maxed](http://9gag.com/gag/ay2Wwjb)
+ - 👉 [Wholesome Boyfriend](http://9gag.com/gag/aDYZ5AB)<!-- MEMES:END -->
 
 ---
 
