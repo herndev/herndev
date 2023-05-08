@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Arm shunned a London listing in favor of New York, some VCs in the UK blame Brexit and institutional investors, who lack a good understanding of tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p4#a230508p4)
- - [Qualcomm acquires Autotalks, an Israeli fabless chipmaker that builds SoCs to help improve automotive safety, sources say for between $350M and $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230508/p3#a230508p3)
- - [SafeGraph Lands US Air Force Contract After Targeting Abortion Clinics](https://www.wired.com/story/safegraph-us-air-force-location-data/)<!-- TECH:END -->
+ - [Coinbase CEO Brian Armstrong says the SEC is on &quot;a lone crusade&quot;, rows back on suggesting the company may relocate from the US, and expresses interest in Dubai &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p6#a230508p6)
+ - [After China banned crypto in September 2021, FTX&#39;s creditor lists, citizens, and industry insiders suggest Chinese residents continue to trade digital assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/230508/p5#a230508p5)
+ - [Voyager 2 Gets a Life-Extending Power Boost in Deep Space](https://www.wired.com/story/voyager-2-gets-a-life-extending-power-boost-in-deep-space/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
