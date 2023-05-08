@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brydge, an iPad, Mac, and Surface accessory maker, is shutting down; sources: Brydge has neither paid its staff salaries nor fulfilled orders since January 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230505/p14#a230505p14)
- - [How to use a passkey to sign into your Google account](https://www.theverge.com/23712758/google-passkey-password-2fa-security-how-to)
- - [Marissa Mayer figures Yahoo could’ve done better buying Netflix instead of Tumblr](https://www.theverge.com/2023/5/5/23712973/yahoo-tumblr-netflix-hulu-ceo-marissa-mayer)<!-- TECH:END -->
+ - [Source: Volkswagen plans to fire most of the management team at Cariad next week, after the software unit missed its development goals and exceeded its budget &lpar;Jan Schwartz/Reuters&rpar;](http://www.techmeme.com/230507/p8#a230507p8)
+ - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)
+ - [Best Soundbars of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
