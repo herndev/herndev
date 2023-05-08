@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Notice why?](http://9gag.com/gag/axobrEL)
- - ⏩ [Follow the keys](http://9gag.com/gag/a8qDgr1)
- - 👉 [Still works](http://9gag.com/gag/adPnwEQ)<!-- MEMES:END -->
+ - 💣 [Sudoku](http://9gag.com/gag/amAmwOj)
+ - ⏩ [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
+ - 👉 [Shoplifting fail](http://9gag.com/gag/axobqjL)<!-- MEMES:END -->
 
 ---
 
