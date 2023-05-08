@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HTC U23 Pro leaks online: The one you Desire?](https://www.androidauthority.com/htc-u23-pro-leak-3321431/)
- - [Sources: Alibaba&#39;s logistics arm Cainiao Network Technology plans to raise between $1B and $2B via a Hong Kong IPO, likely in early 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230508/p2#a230508p2)
- - [Amazon accidentally revealed all the major Pixel Tablet details](https://www.androidauthority.com/google-pixel-tablet-amazon-japan-leak-3321419/)<!-- TECH:END -->
+ - [After Arm shunned a London listing in favor of New York, some VCs in the UK blame Brexit and institutional investors, who lack a good understanding of tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p4#a230508p4)
+ - [Qualcomm acquires Autotalks, an Israeli fabless chipmaker that builds SoCs to help improve automotive safety, sources say for between $350M and $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230508/p3#a230508p3)
+ - [SafeGraph Lands US Air Force Contract After Targeting Abortion Clinics](https://www.wired.com/story/safegraph-us-air-force-location-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
