@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal reports Q1 total payment volume up 10% YoY to $354.5B, vs. $349.5B est., net revenue up 9% to $7.04B, and operating income up 41% to $1B; PYPL down 5%+ &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230508/p16#a230508p16)
- - [Google I/O 2023: how to watch and what to expect](https://www.theverge.com/2023/5/8/23712615/google-io-2023-what-to-expect-time-date-streaming)
- - [Google will reportedly reveal a bunch of big AI updates at I/O](https://www.theverge.com/2023/5/8/23715948/google-io-ai-updates-palm-2-bard-search-generative)<!-- TECH:END -->
+ - [Ripple&#39;s CEO says the company will have spent $200M fighting SEC&#39;s lawsuit that accuses him, a co-founder, and Ripple of selling XRP as an unregistered security &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p18#a230508p18)
+ - [Crypto exchange Bittrex files for bankruptcy in Delaware; filing: the company estimates both its liabilities and assets to be between $500M and $1B &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230508/p17#a230508p17)
+ - [PayPal reports Q1 total payment volume up 10% YoY to $354.5B, vs. $349.5B est., net revenue up 9% to $7.04B, and operating income up 41% to $1B; PYPL down 5%+ &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230508/p16#a230508p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
