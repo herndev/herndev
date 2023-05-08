@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Global Battle to Regulate AI Is Just Beginning](https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/)
  - [Say goodbye to the best Nintendo Switch emulator for Android](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
- - [Best iPhone 14 and iPhone 14 Pro Cases You Need to Have     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
- - [OpenAI CEO Sam Altman says the &quot;technology is not yet good enough that people can be full remote forever, particularly on startups&quot; &lpar;Steve Mollman/Fortune&rpar;](http://www.techmeme.com/230507/p11#a230507p11)<!-- TECH:END -->
+ - [Best iPhone 14 and iPhone 14 Pro Cases You Need to Have     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
