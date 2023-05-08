@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Partners with USO to Support Military Service Members and Their Families](https://news.xbox.com/en-us/2023/05/08/xbox-celebrates-military-families/)
  - [A Payday 3 gameplay reveal is coming this summer, according to an incredibly ephemeral teaser trailer](https://www.pcgamer.com/a-payday-3-gameplay-reveal-is-coming-this-summer-according-to-an-incredibly-ephemeral-teaser-trailer)
- - [Darkest Dungeon 2 reaches v1.0 and lands on Steam today](https://www.pcgamer.com/darkest-dungeon-2-reaches-v10-and-lands-on-steam-today)
- - [Help, I can&#39;t stop listening to audio loops from the Thief games on repeat](https://www.pcgamer.com/help-i-cant-stop-listening-to-audio-loops-from-the-thief-games-on-repeat)<!-- GAME:END -->
+ - [Darkest Dungeon 2 reaches v1.0 and lands on Steam today](https://www.pcgamer.com/darkest-dungeon-2-reaches-v10-and-lands-on-steam-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
