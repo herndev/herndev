@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Payday 3 gameplay reveal is coming this summer, according to an incredibly ephemeral teaser trailer](https://www.pcgamer.com/a-payday-3-gameplay-reveal-is-coming-this-summer-according-to-an-incredibly-ephemeral-teaser-trailer)
  - [Darkest Dungeon 2 reaches v1.0 and lands on Steam today](https://www.pcgamer.com/darkest-dungeon-2-reaches-v10-and-lands-on-steam-today)
- - [Help, I can&#39;t stop listening to audio loops from the Thief games on repeat](https://www.pcgamer.com/help-i-cant-stop-listening-to-audio-loops-from-the-thief-games-on-repeat)
- - [Chinese brand PowerLeader launches &#39;new&#39; CPU - a rebranded 2021 i3](https://www.pcgamer.com/chinese-brand-powerleader-launches-new-cpu-a-rebranded-2021-i3)<!-- GAME:END -->
+ - [Help, I can&#39;t stop listening to audio loops from the Thief games on repeat](https://www.pcgamer.com/help-i-cant-stop-listening-to-audio-loops-from-the-thief-games-on-repeat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
