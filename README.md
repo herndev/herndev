@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus RT-AXE7800 Review: The Complete Wi-Fi 6E Package](https://www.wired.com/review/asus-rt-axe7800/)
  - [The Global Battle to Regulate AI Is Just Beginning](https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/)
- - [Say goodbye to the best Nintendo Switch emulator for Android](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
- - [Best iPhone 14 and iPhone 14 Pro Cases You Need to Have     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Say goodbye to the best Nintendo Switch emulator for Android](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
