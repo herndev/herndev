@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)
- - [Sci-fi city builder Ixion gets a much-needed difficulty update](https://www.pcgamer.com/sci-fi-city-builder-ixion-gets-a-much-needed-difficulty-update)
- - [Oppenheimer trailer gives first look at Albert Einstein, still hides all-star cast](https://www.polygon.com/23715416/oppenheimer-christopher-nolan-movie-trailer-cast-einstein)<!-- GAME:END -->
+ - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)
+ - [Nintendo Seemingly Goes After Switch Emulation Following Zelda: Tears of the Kingdom Leak](https://kotaku.com/zelda-tears-kingdom-switch-emulation-piracy-nintendo-1850415282)
+ - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
