@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
- - ⏩ [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 👉 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)<!-- MEMES:END -->
+ - 💣 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - ⏩ [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
+ - 👉 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)<!-- MEMES:END -->
 
 ---
 
