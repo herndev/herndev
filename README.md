@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definition of dumb](http://9gag.com/gag/a8qDnQZ)
- - ⏩ [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
- - 👉 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
+ - 💣 [Still works](http://9gag.com/gag/adPnwEQ)
+ - ⏩ [No hospital, no problem](http://9gag.com/gag/axobqXp)
+ - 👉 [Follow the keys](http://9gag.com/gag/a8qDgr1)<!-- MEMES:END -->
 
 ---
 
