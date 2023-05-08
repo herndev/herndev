@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partners with USO to Support Military Service Members and Their Families](https://news.xbox.com/en-us/2023/05/08/xbox-celebrates-military-families/)
- - [A Payday 3 gameplay reveal is coming this summer, according to an incredibly ephemeral teaser trailer](https://www.pcgamer.com/a-payday-3-gameplay-reveal-is-coming-this-summer-according-to-an-incredibly-ephemeral-teaser-trailer)
- - [Darkest Dungeon 2 reaches v1.0 and lands on Steam today](https://www.pcgamer.com/darkest-dungeon-2-reaches-v10-and-lands-on-steam-today)<!-- GAME:END -->
+ - [Nightdive CEO discusses sale to Atari, says publisher &#39;is on the rise&#39;](https://www.pcgamer.com/nightdive-ceo-discusses-sale-to-atari-says-publisher-is-on-the-rise)
+ - [Guardians 3’s Karen Gillan, Pom Klementieff were glad to change the comics — and impact them](https://www.polygon.com/23711567/guardians-3-nebula-mantis-karen-gillan-pom-klementieff-interview)
+ - [Xbox Partners with USO to Support Military Service Members and Their Families](https://news.xbox.com/en-us/2023/05/08/xbox-celebrates-military-families/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
