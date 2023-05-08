@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kyiv air defense](http://9gag.com/gag/az2G0vb)
- - ⏩ [Today&#39;s march in Germany by supporters of Putin&#39;s aggression proved:](http://9gag.com/gag/adPnmGd)
- - 👉 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
+ - 💣 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)
+ - ⏩ [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
+ - 👉 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
 
 ---
 
