@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase CEO Brian Armstrong says the SEC is on &quot;a lone crusade&quot;, rows back on suggesting the company may relocate from the US, and expresses interest in Dubai &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p6#a230508p6)
- - [After China banned crypto in September 2021, FTX&#39;s creditor lists, citizens, and industry insiders suggest Chinese residents continue to trade digital assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/230508/p5#a230508p5)
- - [Voyager 2 Gets a Life-Extending Power Boost in Deep Space](https://www.wired.com/story/voyager-2-gets-a-life-extending-power-boost-in-deep-space/)<!-- TECH:END -->
+ - [Running Sucks. Kettlebells Are the Answer](https://www.wired.com/story/goruck-sand-kettlebell-rave/)
+ - [Samsung promises it won’t kill your background apps in One UI 6.0](https://www.androidauthority.com/samsung-google-background-app-promise-3321467/)
+ - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
