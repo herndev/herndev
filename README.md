@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s s what he said\u2026](http://9gag.com/gag/aVbmpAv)
- - ⏩ [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
- - 👉 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)<!-- MEMES:END -->
+ - 💣 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
+ - ⏩ [Sudoku](http://9gag.com/gag/amAmwOj)
+ - 👉 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)<!-- MEMES:END -->
 
 ---
 
