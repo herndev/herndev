@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truecaller plans to make its caller identification service available over WhatsApp and other messaging apps later in May to help users spot potential spam calls &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230508/p13#a230508p13)
- - [Production on Apple Original &#39;Severance&#39; shuts down amid Writers Guild strike](https://appleinsider.com/articles/23/05/08/production-on-apple-original-severance-shuts-down-amid-writers-guild-strike?utm_medium=rss)
- - [Filing: Invesco marked down the valuation of Swiggy to ~$5.5B in January 2023, from a reported $10.7B in January 2022, when Invesco led Swiggy&#39;s Series K &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230508/p12#a230508p12)<!-- TECH:END -->
+ - [PayPal reports Q1 total payment volume up 10% YoY to $354.5B, vs. $349.5B est., net revenue up 9% to $7.04B, and operating income up 41% to $1B; PYPL down 5%+ &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230508/p16#a230508p16)
+ - [Google I/O 2023: how to watch and what to expect](https://www.theverge.com/2023/5/8/23712615/google-io-2023-what-to-expect-time-date-streaming)
+ - [Google will reportedly reveal a bunch of big AI updates at I/O](https://www.theverge.com/2023/5/8/23715948/google-io-ai-updates-palm-2-bard-search-generative)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
