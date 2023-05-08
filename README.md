@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus RT-AXE7800 Review: The Complete Wi-Fi 6E Package](https://www.wired.com/review/asus-rt-axe7800/)
- - [The Global Battle to Regulate AI Is Just Beginning](https://www.wired.com/story/the-global-battle-to-regulate-ai-is-just-beginning/)
- - [Say goodbye to the best Nintendo Switch emulator for Android](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)<!-- TECH:END -->
+ - [Amazon accidentally revealed all the major Pixel Tablet details](https://www.androidauthority.com/google-pixel-tablet-amazon-japan-leak-3321419/)
+ - [An interview with Warner Bros. Discovery CTO Avi Saxena and Chief Product Officer Tyler Whitworth on building Max from the ground up, new features, and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230508/p1#a230508p1)
+ - [Thought ads on the Google Play Store couldn’t get worse? Think again.](https://www.androidauthority.com/google-play-store-ads-search-bar-3321407/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
