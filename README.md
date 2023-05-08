@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
- - [8 Surprising Facts About Dead Island 2’s Legendary Gore](https://kotaku.com/ama-reddit-dead-island-2-weapons-flesh-system-ps5-xbox-1850415887)
- - [Activision is making more money on PC than consoles for the first time, and the gap is widening](https://www.pcgamer.com/activision-is-making-more-money-on-pc-than-consoles-for-the-first-time-and-the-gap-is-widening)<!-- GAME:END -->
+ - [Guardians Of The Galaxy Vol. 3&#39;s Final Needle Drop Had Its Songwriter In Tears, Too](https://kotaku.com/guardians-galaxy-3-ending-florence-machine-dog-days-1850416302)
+ - [It took 13 years but Doom 2 RPG has finally come to PC](https://www.pcgamer.com/it-took-13-years-but-doom-2-rpg-has-finally-come-to-pc)
+ - [New Star Trek Website Lets You Explore Every Enterprise Bridge](https://kotaku.com/star-trek-picard-finale-enterprise-roddenberry-archive-1850415986)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
