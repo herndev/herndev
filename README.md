@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guardians of the Galaxy 3’s opening weekend box office can’t fully reverse Marvel’s slide](https://www.polygon.com/23715485/guardians-galaxy-3-opening-weekend-box-office-total)
  - [Guardians Of The Galaxy Vol. 3&#39;s Final Needle Drop Had Its Songwriter In Tears, Too](https://kotaku.com/guardians-galaxy-3-ending-florence-machine-dog-days-1850416302)
- - [It took 13 years but Doom 2 RPG has finally come to PC](https://www.pcgamer.com/it-took-13-years-but-doom-2-rpg-has-finally-come-to-pc)
- - [New Star Trek Website Lets You Explore Every Enterprise Bridge](https://kotaku.com/star-trek-picard-finale-enterprise-roddenberry-archive-1850415986)<!-- GAME:END -->
+ - [The Week In Games: Return To Hyrule](https://kotaku.com/may-game-releases-out-this-week-zelda-tears-kingdom-1850416527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
