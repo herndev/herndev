@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - ⏩ [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
- - 👉 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)<!-- MEMES:END -->
+ - 💣 [Which one&#39;s your favourite? Sorry, no potato](http://9gag.com/gag/aEqo3vp)
+ - ⏩ [Revenge is dish, Best serve cold...](http://9gag.com/gag/aeQVLxB)
+ - 👉 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)<!-- MEMES:END -->
 
 ---
 
