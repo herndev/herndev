@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $740 on the Galaxy S23 range, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [What Really Made Geoffrey Hinton Into an AI Doomer](https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/)<!-- TECH:END -->
+ - [Achewood is back, and it’s weirder than ever](https://www.theverge.com/23713940/achewood-chris-onstad-return-patreon-ai-raybot)
+ - [How to build a smart home](https://www.androidauthority.com/how-to-build-a-smart-home-3319550/)
+ - [Report: iPhone satisfaction sees its biggest drop since 2012](https://www.androidauthority.com/iphone-satisfaction-3321541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
