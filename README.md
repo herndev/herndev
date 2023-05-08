@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [IBM believes 7,800 members of its staff could be replaced by AI](https://www.pcgamer.com/ibm-believes-7800-members-of-its-staff-could-be-replaced-by-ai)
- - [Today&#39;s Wordle hint and answer #688: Monday, May 8](https://www.pcgamer.com/wordle-today-hint-answer-688-may-8)
- - [While you wait for Skywind and Skyblivion, you could be playing Skygerfall right now](https://www.pcgamer.com/while-you-wait-for-skywind-and-skyblivion-you-could-be-playing-skygerfall-right-now)<!-- GAME:END -->
+ - [Help, I can&#39;t stop listening to audio loops from the Thief games on repeat](https://www.pcgamer.com/help-i-cant-stop-listening-to-audio-loops-from-the-thief-games-on-repeat)
+ - [Chinese brand PowerLeader launches &#39;new&#39; CPU - a rebranded 2021 i3](https://www.pcgamer.com/chinese-brand-powerleader-launches-new-cpu-a-rebranded-2021-i3)
+ - [IBM believes 7,800 members of its staff could be replaced by AI](https://www.pcgamer.com/ibm-believes-7800-members-of-its-staff-could-be-replaced-by-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
