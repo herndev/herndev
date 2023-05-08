@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still works](http://9gag.com/gag/adPnwEQ)
- - ⏩ [No hospital, no problem](http://9gag.com/gag/axobqXp)
+ - 💣 [Regular friend : I&#39;m afraid of bugs creeping in my house. An Australian friend : Hold my snek](http://9gag.com/gag/ap9PZ5D)
+ - ⏩ [Still works](http://9gag.com/gag/adPnwEQ)
  - 👉 [Follow the keys](http://9gag.com/gag/a8qDgr1)<!-- MEMES:END -->
 
 ---
