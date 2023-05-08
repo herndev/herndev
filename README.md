@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Production on Severance and A Knight of the Seven Kingdoms: The Hedge Knight is stopping for the WGA strike](https://www.theverge.com/2023/5/8/23715679/wga-strike-apple-severance-hbo-the-hedge-knight)
- - [How to delete old emails in Gmail](https://www.androidauthority.com/how-to-delete-old-emails-in-gmail-3321380/)
- - [Periscope lens camera rumored to be limited to iPhone 15 Pro Max](https://appleinsider.com/articles/23/05/08/periscope-lens-camera-to-be-limited-to-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [Truecaller plans to make its caller identification service available over WhatsApp and other messaging apps later in May to help users spot potential spam calls &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230508/p13#a230508p13)
+ - [Production on Apple Original &#39;Severance&#39; shuts down amid Writers Guild strike](https://appleinsider.com/articles/23/05/08/production-on-apple-original-severance-shuts-down-amid-writers-guild-strike?utm_medium=rss)
+ - [Filing: Invesco marked down the valuation of Swiggy to ~$5.5B in January 2023, from a reported $10.7B in January 2022, when Invesco led Swiggy&#39;s Series K &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230508/p12#a230508p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
