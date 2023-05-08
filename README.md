@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This fantasy author can&#39;t stop making mods for the 21-year-old D&amp;D videogame that first disappointed him, and then &#39;helped shape&#39; his life](https://www.pcgamer.com/this-fantasy-author-cant-stop-making-mods-for-the-21-year-old-dandd-videogame-that-first-disappointed-him-and-then-helped-shape-his-life)
- - [Blizzard locked a new World of Warcraft behind an old World of Warcraft item, and now players are price-gouging each other to get it](https://www.pcgamer.com/blizzard-locked-a-new-world-of-warcraft-behind-an-old-world-of-warcraft-item-and-now-players-are-price-gouging-each-other-to-get-it)
- - [The Dungeons &amp; Dragons movie, A Man Called Otto on Netflix, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/5/23706721/new-movies-watch-dungeons-and-dragons-d-and-d-movie-netflix-man-called-otto-how-to-blow-up-pipeline)<!-- GAME:END -->
+ - [Stranger Things, Marvel Movie Halted Because Hollywood Won&#39;t Pay Its Writers](https://kotaku.com/stranger-things-season-5-s5-netflix-strike-writers-wga-1850413575)
+ - [Dota 2&#39;s world championship returns to Seattle this year](https://www.pcgamer.com/dota-2s-world-championship-returns-to-seattle-this-year)
+ - [This new Star Trek website lets you explore the bridge of every major iteration of the Enterprise](https://www.pcgamer.com/this-new-star-trek-website-lets-you-explore-the-bridge-of-every-major-iteration-of-the-enterprise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
