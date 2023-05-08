@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sudoku](http://9gag.com/gag/amAmwOj)
- - ⏩ [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
- - 👉 [Shoplifting fail](http://9gag.com/gag/axobqjL)<!-- MEMES:END -->
+ - 💣 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
+ - ⏩ [Bro didn\u2019t hesitate](http://9gag.com/gag/abvWnxL)
+ - 👉 [Big Brain Time](http://9gag.com/gag/az2GW8N)<!-- MEMES:END -->
 
 ---
 
