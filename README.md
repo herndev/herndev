@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamers Are Memeing The Hell Out Of The King Charles Coronation](https://kotaku.com/coronation-king-charles-meme-games-elden-ring-star-wars-1850414863)
- - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
- - [Why sad TV men are the internet’s ‘babygirls’](https://www.polygon.com/23711849/succession-babygirl-kendall-roy-jesse-breaking-bad)<!-- GAME:END -->
+ - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)
+ - [Sci-fi city builder Ixion gets a much-needed difficulty update](https://www.pcgamer.com/sci-fi-city-builder-ixion-gets-a-much-needed-difficulty-update)
+ - [Oppenheimer trailer gives first look at Albert Einstein, still hides all-star cast](https://www.polygon.com/23715416/oppenheimer-christopher-nolan-movie-trailer-cast-einstein)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
