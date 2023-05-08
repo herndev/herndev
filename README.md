@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive CEO discusses sale to Atari, says publisher &#39;is on the rise&#39;](https://www.pcgamer.com/nightdive-ceo-discusses-sale-to-atari-says-publisher-is-on-the-rise)
- - [Guardians 3’s Karen Gillan, Pom Klementieff were glad to change the comics — and impact them](https://www.polygon.com/23711567/guardians-3-nebula-mantis-karen-gillan-pom-klementieff-interview)
- - [Xbox Partners with USO to Support Military Service Members and Their Families](https://news.xbox.com/en-us/2023/05/08/xbox-celebrates-military-families/)<!-- GAME:END -->
+ - [Catch-Up On Zelda: Breath Of The Wild Before The Sequel In Under Seven Minutes](https://kotaku.com/zelda-tears-kingdom-breath-wild-recap-lore-explainer-1850414523)
+ - [Lego’s striking Tales of the Space Age set is now available](https://www.polygon.com/deals/2023/5/8/23712573/lego-ideas-tales-space-age-set-buy)
+ - [PlayStation Store: April 2023’s top downloads](https://blog.playstation.com/2023/05/08/playstation-store-april-2023s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
