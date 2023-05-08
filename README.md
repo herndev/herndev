@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS 3 delay for Mobvoi watches isn’t letting up anytime soon, says Mobvoi](https://www.androidauthority.com/wear-os-3-mobvoi-3321637/)
- - [Amazon&#39;s new Apple sale: $800 off MacBook Pro, $199 AirPods Pro 2, $100 off iPads](https://appleinsider.com/articles/23/05/08/amazons-new-apple-sale-800-off-macbook-pro-199-airpods-pro-2-100-off-ipads?utm_medium=rss)
- - [How Google&#39;s attempt to create a better, faster mobile web for media companies with the AMP standard ended up ruining publishers&#39; trust in the internet giant &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230508/p9#a230508p9)<!-- TECH:END -->
+ - [Apple handed partial defeat in Corellium copyright appeal, but the saga isn&#39;t over yet](https://appleinsider.com/articles/23/05/08/apple-handed-partial-defeat-in-corellium-copyright-appeal-but-the-saga-isnt-over-yet?utm_medium=rss)
+ - [A US appeals court upholds a lower court&#39;s 2019 ruling that rejected claims by Apple that Corellium&#39;s security tools simulating iOS violated copyright law &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/230508/p10#a230508p10)
+ - [All signs hint toward OPPO and OnePlus leaving France. Rest of Europe next?](https://www.androidauthority.com/oppo-and-oneplus-3321616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
