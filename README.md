@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon accidentally revealed all the major Pixel Tablet details](https://www.androidauthority.com/google-pixel-tablet-amazon-japan-leak-3321419/)
- - [An interview with Warner Bros. Discovery CTO Avi Saxena and Chief Product Officer Tyler Whitworth on building Max from the ground up, new features, and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230508/p1#a230508p1)
- - [Thought ads on the Google Play Store couldn’t get worse? Think again.](https://www.androidauthority.com/google-play-store-ads-search-bar-3321407/)<!-- TECH:END -->
+ - [HTC U23 Pro leaks online: The one you Desire?](https://www.androidauthority.com/htc-u23-pro-leak-3321431/)
+ - [Sources: Alibaba&#39;s logistics arm Cainiao Network Technology plans to raise between $1B and $2B via a Hong Kong IPO, likely in early 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230508/p2#a230508p2)
+ - [Amazon accidentally revealed all the major Pixel Tablet details](https://www.androidauthority.com/google-pixel-tablet-amazon-japan-leak-3321419/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
