@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
- - ⏩ [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
- - 👉 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
+ - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - ⏩ [Which one&#39;s your favourite? Sorry, no potato](http://9gag.com/gag/aEqo3vp)
+ - 👉 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)<!-- MEMES:END -->
 
 ---
 
