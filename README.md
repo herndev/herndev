@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is generative AI and how does it work?](https://www.androidauthority.com/what-is-generative-ai-3321354/)
- - [Images of a Texas mall mass shooting go viral on Twitter, fueling criticism of its reduced moderation; Twitter allows some graphic posts like Ukraine war images &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230507/p9#a230507p9)
- - [My Huge EV Road Trip Around Europe Was Shockingly Easy     - CNET](https://www.cnet.com/roadshow/news/my-huge-ev-road-trip-around-europe-was-shockingly-easy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI CEO Sam Altman says the &quot;technology is not yet good enough that people can be full remote forever, particularly on startups&quot; &lpar;Steve Mollman/Fortune&rpar;](http://www.techmeme.com/230507/p11#a230507p11)
+ - [An interview with J&amp;uuml;rgen Schmidhuber, whose neural network work in the 1990s went on to be used in Google Translate and Siri, on why many AI fears are misplaced &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230507/p10#a230507p10)
+ - [What is generative AI and how does it work?](https://www.androidauthority.com/what-is-generative-ai-3321354/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
