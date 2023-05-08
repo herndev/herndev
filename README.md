@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fuecoco Is The Breakout Star Of The New Pokémon Scarlet and Violet Anime](https://kotaku.com/pokemon-scarlet-and-violet-anime-fuecoco-sings-tiktok-1850417042)
- - [Disney Speedstorm Players Beg Devs To Nerf Monsters Inc.’s Mike Wazowski](https://kotaku.com/disney-speedstorm-racing-game-twitter-mike-wazowski-1850417026)
- - [7 things you could buy with the $30B Meta has lost to VR and AR research](https://www.pcgamer.com/7-things-you-could-buy-with-the-dollar30b-meta-has-lost-to-vr-and-ar-research)<!-- GAME:END -->
+ - [Two men are facing jail time after trying to smuggle GPUs and, uh, live lobsters into China](https://www.pcgamer.com/two-men-are-facing-jail-time-after-trying-to-smuggle-gpus-and-uh-live-lobsters-into-china)
+ - [Five Nights at Freddy&#39;s creator thanks fans for not watching leaked trailer](https://www.pcgamer.com/five-nights-at-freddys-creator-thanks-fans-for-not-watching-leaked-trailer)
+ - [No really, The Meg 2 is going to be the best movie of the summer](https://www.polygon.com/23715599/meg-2-watch-trailer-giant-shark-release-date-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
