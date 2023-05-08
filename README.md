@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guardians of the Galaxy 3’s opening weekend box office can’t fully reverse Marvel’s slide](https://www.polygon.com/23715485/guardians-galaxy-3-opening-weekend-box-office-total)
- - [Guardians Of The Galaxy Vol. 3&#39;s Final Needle Drop Had Its Songwriter In Tears, Too](https://kotaku.com/guardians-galaxy-3-ending-florence-machine-dog-days-1850416302)
- - [The Week In Games: Return To Hyrule](https://kotaku.com/may-game-releases-out-this-week-zelda-tears-kingdom-1850416527)<!-- GAME:END -->
+ - [Fuecoco Is The Breakout Star Of The New Pokémon Scarlet and Violet Anime](https://kotaku.com/pokemon-scarlet-and-violet-anime-fuecoco-sings-tiktok-1850417042)
+ - [Disney Speedstorm Players Beg Devs To Nerf Monsters Inc.’s Mike Wazowski](https://kotaku.com/disney-speedstorm-racing-game-twitter-mike-wazowski-1850417026)
+ - [7 things you could buy with the $30B Meta has lost to VR and AR research](https://www.pcgamer.com/7-things-you-could-buy-with-the-dollar30b-meta-has-lost-to-vr-and-ar-research)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
