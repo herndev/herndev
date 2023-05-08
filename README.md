@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Running Sucks. Kettlebells Are the Answer](https://www.wired.com/story/goruck-sand-kettlebell-rave/)
- - [Samsung promises it won’t kill your background apps in One UI 6.0](https://www.androidauthority.com/samsung-google-background-app-promise-3321467/)
- - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Tablet specs leak just days ahead of I/O](https://www.theverge.com/2023/5/8/23715130/google-pixel-tablet-specs-leak-release-date-io)
+ - [Amazon&#39;s Matter upgrades, smart blinds, and new cooking tech](https://appleinsider.com/articles/23/05/08/amazons-matter-upgrades-smart-blinds-and-new-cooking-tech?utm_medium=rss)
+ - [Deals: 2023 MacBook Pro from $1,749, Apple HomePod 2 now $279, 45mm Apple Watch Series 8 $359](https://appleinsider.com/articles/23/05/08/deals-2023-macbook-pro-from-1749-apple-homepod-2-now-279-45mm-apple-watch-series-8-359?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
