@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
- - ⏩ [Bro didn\u2019t hesitate](http://9gag.com/gag/abvWnxL)
- - 👉 [Big Brain Time](http://9gag.com/gag/az2GW8N)<!-- MEMES:END -->
+ - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - ⏩ [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
+ - 👉 [Monke vs hive](http://9gag.com/gag/aPg8LYG)<!-- MEMES:END -->
 
 ---
 
