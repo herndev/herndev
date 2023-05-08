@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel Boot Guard private keys have reportedly leaked, compromising the security of many computers](https://www.pcgamer.com/intel-boot-guard-private-keys-have-reportedly-leaked-compromising-the-security-of-many-computers)
  - [I Could Watch These Rotoscoped Graphics All Day Long](https://kotaku.com/lunark-rotoscoped-graphics-visuals-video-game-switch-pc-1850413622)
- - [Stranger Things, Marvel Movie Halted Because Hollywood Won&#39;t Pay Its Writers](https://kotaku.com/stranger-things-season-5-s5-netflix-strike-writers-wga-1850413575)
- - [Dota 2&#39;s world championship returns to Seattle this year](https://www.pcgamer.com/dota-2s-world-championship-returns-to-seattle-this-year)<!-- GAME:END -->
+ - [Stranger Things, Marvel Movie Halted Because Hollywood Won&#39;t Pay Its Writers](https://kotaku.com/stranger-things-season-5-s5-netflix-strike-writers-wga-1850413575)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
