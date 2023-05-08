@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)
- - [Nintendo Seemingly Goes After Switch Emulation Following Zelda: Tears of the Kingdom Leak](https://kotaku.com/zelda-tears-kingdom-switch-emulation-piracy-nintendo-1850415282)
- - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)<!-- GAME:END -->
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
+ - [8 Surprising Facts About Dead Island 2’s Legendary Gore](https://kotaku.com/ama-reddit-dead-island-2-weapons-flesh-system-ps5-xbox-1850415887)
+ - [Activision is making more money on PC than consoles for the first time, and the gap is widening](https://www.pcgamer.com/activision-is-making-more-money-on-pc-than-consoles-for-the-first-time-and-the-gap-is-widening)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
