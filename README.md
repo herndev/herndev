@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
- - ⏩ [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 👉 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)<!-- MEMES:END -->
+ - 💣 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - ⏩ [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
+ - 👉 [Big Brain Time](http://9gag.com/gag/az2GW8N)<!-- MEMES:END -->
 
 ---
 
