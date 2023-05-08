@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - ⏩ [Sad bald noises](http://9gag.com/gag/aXn4BW2)
- - 👉 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
+ - 💣 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
+ - ⏩ [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 👉 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)<!-- MEMES:END -->
 
 ---
 
