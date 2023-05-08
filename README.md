@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While you wait for Skywind and Skyblivion, you could be playing Skygerfall right now](https://www.pcgamer.com/while-you-wait-for-skywind-and-skyblivion-you-could-be-playing-skygerfall-right-now)
- - [Five new Steam games you probably missed &lpar;May 8, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-8-2023)
- - [Intel Boot Guard private keys have reportedly leaked, compromising the security of many computers](https://www.pcgamer.com/intel-boot-guard-private-keys-have-reportedly-leaked-compromising-the-security-of-many-computers)<!-- GAME:END -->
+ - [IBM believes 7,800 members of its staff could be replaced by AI](https://www.pcgamer.com/ibm-believes-7800-members-of-its-staff-could-be-replaced-by-ai)
+ - [Today&#39;s Wordle hint and answer #688: Monday, May 8](https://www.pcgamer.com/wordle-today-hint-answer-688-may-8)
+ - [While you wait for Skywind and Skyblivion, you could be playing Skygerfall right now](https://www.pcgamer.com/while-you-wait-for-skywind-and-skyblivion-you-could-be-playing-skygerfall-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
