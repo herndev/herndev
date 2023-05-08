@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet specs leak just days ahead of I/O](https://www.theverge.com/2023/5/8/23715130/google-pixel-tablet-specs-leak-release-date-io)
- - [Amazon&#39;s Matter upgrades, smart blinds, and new cooking tech](https://appleinsider.com/articles/23/05/08/amazons-matter-upgrades-smart-blinds-and-new-cooking-tech?utm_medium=rss)
- - [Deals: 2023 MacBook Pro from $1,749, Apple HomePod 2 now $279, 45mm Apple Watch Series 8 $359](https://appleinsider.com/articles/23/05/08/deals-2023-macbook-pro-from-1749-apple-homepod-2-now-279-45mm-apple-watch-series-8-359?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Learning Coach program improves education &amp; expands to more countries](https://appleinsider.com/articles/23/05/08/apple-learning-coach-program-improves-education-expands-to-more-countries?utm_medium=rss)
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Pixel Fold, Pixel Tablet &amp; more -- What to expect from Google I/O 2023 on May 10](https://appleinsider.com/articles/23/05/08/pixel-fold-pixel-tablet-more----what-to-expect-from-google-io-2023-on-may-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
