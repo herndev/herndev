@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
+ - 💣 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
  - ⏩ [With the font size maxed](http://9gag.com/gag/ay2Wwjb)
- - 👉 [Wholesome Boyfriend](http://9gag.com/gag/aDYZ5AB)<!-- MEMES:END -->
+ - 👉 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
 
 ---
 
