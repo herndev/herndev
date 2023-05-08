@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - ⏩ [Which one&#39;s your favourite? Sorry, no potato](http://9gag.com/gag/aEqo3vp)
- - 👉 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)<!-- MEMES:END -->
+ - ⏩ [Sad bald noises](http://9gag.com/gag/aXn4BW2)
+ - 👉 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
 
 ---
 
