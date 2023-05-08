@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPhone 14 and iPhone 14 Pro Cases You Need to Have     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
  - [OpenAI CEO Sam Altman says the &quot;technology is not yet good enough that people can be full remote forever, particularly on startups&quot; &lpar;Steve Mollman/Fortune&rpar;](http://www.techmeme.com/230507/p11#a230507p11)
- - [An interview with J&amp;uuml;rgen Schmidhuber, whose neural network work in the 1990s went on to be used in Google Translate and Siri, on why many AI fears are misplaced &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230507/p10#a230507p10)
- - [What is generative AI and how does it work?](https://www.androidauthority.com/what-is-generative-ai-3321354/)<!-- TECH:END -->
+ - [An interview with J&amp;uuml;rgen Schmidhuber, whose neural network work in the 1990s went on to be used in Google Translate and Siri, on why many AI fears are misplaced &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230507/p10#a230507p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
