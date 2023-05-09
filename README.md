@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
- - ⏩ [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
- - 👉 [Handsome\ud83e\udd24](http://9gag.com/gag/a6qnAZA)<!-- MEMES:END -->
+ - 💣 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - ⏩ [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
+ - 👉 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
 
 ---
 
