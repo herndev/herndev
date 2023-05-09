@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [Viz’s new subscription service will deliver translated manga the same day it’s out in Japan](https://www.polygon.com/23711092/viz-media-new-subscription-app-manga-shojo)
  - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)
- - [Intel&#39;s brutal start to 2023 means more troubles are ahead](https://www.pcgamer.com/intels-brutal-start-to-2023-means-more-troubles-are-ahead)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/08/this-weeks-deals-with-gold-and-spotlight-sale-273/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
