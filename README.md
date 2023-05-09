@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most interesting race....](http://9gag.com/gag/aL1GYyx)
- - ⏩ [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 👉 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)<!-- MEMES:END -->
+ - 💣 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
+ - ⏩ [Most interesting race....](http://9gag.com/gag/aL1GYyx)
+ - 👉 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
 
 ---
 
