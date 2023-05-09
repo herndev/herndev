@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - ⏩ [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - 👉 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
+ - 💣 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - ⏩ [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 👉 [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)<!-- MEMES:END -->
 
 ---
 
