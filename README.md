@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly took me a while](http://9gag.com/gag/ay2WyvY)
- - ⏩ [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
+ - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - ⏩ [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
  - 👉 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
 
 ---
