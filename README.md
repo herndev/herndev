@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp partners with Stripe to let Singapore-based users pay some businesses within the app, following the launch of merchant payments in India and Brazil &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230509/p3#a230509p3)
- - [Sam Bankman-Fried&#39;s lawyers file pretrial motions to dismiss most criminal charges against him, but not charges tied to securities fraud and money laundering &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230509/p2#a230509p2)
- - [Google&#39;s passkey offering is refined and comprehensive enough to recommend, but the ecosystem is incomplete, despite PayPal, Kayak, and others using passkeys &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230509/p1#a230509p1)<!-- TECH:END -->
+ - [Analysis: of the 76 coins the SEC considers securities, 16 can be traded on major US crypto exchanges; tokens labeled as securities in 2022 almost tripled YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230509/p4#a230509p4)
+ - [Samsung Galaxy Z Fold 3 gets the May 2023 security patch](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [How To Delete Your Data From ChatGPT](https://www.wired.com/story/how-to-delete-your-data-from-chatgpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
