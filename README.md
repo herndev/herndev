@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Discounts of Up to 51% On Ecovacs 2-In-1 Robot Vacuums     - CNET](https://www.cnet.com/deals/snag-discounts-of-up-to-51-on-ecovacs-2-in-1-robot-vacuums/#ftag=CAD590a51e)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [This Year&#39;s Pride Edition Sport Band for the Apple Watch is Here     - CNET](https://www.cnet.com/tech/mobile/this-years-pride-edition-sport-band-for-the-apple-watch-is-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese authorities arrest ChatGPT user for generating fake news](https://www.theverge.com/2023/5/9/23716766/china-chatgpt-arrest-fake-news-misinformation-ai-policy)
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [Daily Deals: iPhone 11 from $280, $269 iPad 9th Generation, Apple Watch SE $179, more](https://appleinsider.com/articles/23/05/09/daily-deals-iphone-11-from-280-269-ipad-9th-generation-apple-watch-se-179-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
