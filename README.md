@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Warhammer 40K painter gives back via fixing fans’ favorite dudes](https://www.polygon.com/23716928/warhammer-40k-maverick-nicolson-plastic-surgery-painting-series)
- - [Starfield Won’t Show Sex, But Will Talk About How Kinky It Was](https://kotaku.com/starfield-bethesda-xbox-microsoft-sex-drugs-rpg-fallout-1850419151)
- - [The daddy of battle royales is still going strong as publisher Krafton posts record sales for PUBG](https://www.pcgamer.com/the-daddy-of-battle-royales-is-still-going-strong-as-publisher-krafton-posts-record-sales-for-pubg)<!-- GAME:END -->
+ - [Vampire survival game&#39;s new expansion adds awesome multi-level castles with all the Dracula vibes](https://www.pcgamer.com/vampire-survival-games-new-expansion-adds-awesome-multi-level-castles-with-all-the-dracula-vibes)
+ - [Star Wars Jedi: Survivor Is Really That Good, Seriously](https://kotaku.com/star-wars-jedi-survivor-is-it-good-goty-review-ea-1850419772)
+ - [Activision Blizzard hires barrister who advised Boris Johnson on partygate to front CMA appeal](https://www.pcgamer.com/activision-blizzard-hires-barrister-who-advised-boris-johnson-on-partygate-to-front-cma-appeal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
