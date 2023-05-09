@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Ponyta be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698017/can-ponyta-be-shiny-rapidash)
- - [Viz’s new subscription service will deliver translated manga the same day it’s out in Japan](https://www.polygon.com/23711092/viz-media-new-subscription-app-manga-shojo)
- - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)<!-- GAME:END -->
+ - [20 Years of Guerrilla: The Story of a PlayStation Studio](https://blog.playstation.com/2023/05/09/20-years-of-guerrilla-the-story-of-a-playstation-studio/)
+ - [Zelda-inspired tabletop RPG Break!! is the next big crowdfunding hit](https://www.polygon.com/tabletop-games/23712592/zelda-inspired-tabletop-rpg-break-campaign-release-date-price)
+ - [The endless FromSoft memes are the only good thing to come out of Britain&#39;s coronation](https://www.pcgamer.com/the-endless-fromsoft-memes-are-the-only-good-thing-to-come-out-of-britains-coronation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
