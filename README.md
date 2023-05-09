@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - ⏩ [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 👉 [Sad bald noises](http://9gag.com/gag/aXn4BW2)<!-- MEMES:END -->
+ - 💣 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - ⏩ [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
+ - 👉 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
 
 ---
 
