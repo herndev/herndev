@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s brutal start to 2023 means more troubles are ahead](https://www.pcgamer.com/intels-brutal-start-to-2023-means-more-troubles-are-ahead)
- - [Star Wars&#39; Mantis Is Such A Good Ship](https://kotaku.com/star-wars-jedi-survivor-mantis-ship-respawn-design-ea-1850407213)
- - [Tragic Nintendo Unboxing Story Has A Happy Ending](https://kotaku.com/nintendo-collector-merch-kyoto-unbox-unboxing-cards-1850417280)<!-- GAME:END -->
+ - [Viz’s new subscription service will deliver translated manga the same day it’s out in Japan](https://www.polygon.com/23711092/viz-media-new-subscription-app-manga-shojo)
+ - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)
+ - [Intel&#39;s brutal start to 2023 means more troubles are ahead](https://www.pcgamer.com/intels-brutal-start-to-2023-means-more-troubles-are-ahead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
