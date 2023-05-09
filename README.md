@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman, Microsoft, Cboe, Deloitte, and others plan to test the blockchain Canton Network in July, linking apps built with Digital Asset&#39;s Daml smart contract &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230509/p26#a230509p26)
- - [Mac revenue decline leads Samsung &amp; LG to hesitate on Gen 8 OLED](https://appleinsider.com/articles/23/05/09/mac-revenue-decline-leads-samsung-lg-to-hesitate-on-gen-8-oled?utm_medium=rss)
- - [Google and Wendy’s team up to give the drive-through an AI makeover](https://www.androidauthority.com/wendys-ai-chatbot-3322101/)<!-- TECH:END -->
+ - [Apple seeds release candidates of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/05/09/apple-seeds-release-candidates-of-ios-165-ipados-165?utm_medium=rss)
+ - [TSMC&#39;s plan to build a German fab focusing on 28nm chips makes more sense than its US foray, as a way to meet automotive industry demand and political pressure &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230509/p28#a230509p28)
+ - [Hit-and-run victim credits Apple Watch Fall Detection for saving his life](https://appleinsider.com/articles/23/05/09/hit-and-run-victim-credits-apple-watch-fall-detection-for-saving-his-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
