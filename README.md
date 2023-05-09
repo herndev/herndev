@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
- - ⏩ [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
- - 👉 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
+ - 💣 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
+ - ⏩ [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - 👉 [Sad bald noises](http://9gag.com/gag/aXn4BW2)<!-- MEMES:END -->
 
 ---
 
