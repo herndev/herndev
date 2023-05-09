@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy Legend of Zelda amiibo that work with Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [This MOBA mutation where you don&#39;t fight other players will get a closed beta next month](https://www.pcgamer.com/this-moba-mutation-where-you-dont-fight-other-players-will-get-a-closed-beta-next-month)
- - [Niantic’s new game Peridot is part pet sim, part research project](https://www.polygon.com/23715003/peridot-preview-niantic-pet-sim-future-of-ar)<!-- GAME:END -->
+ - [How Transformers Beyond Reality on PS VR2 deepens player immersion, available now](https://blog.playstation.com/2023/05/09/how-transformers-beyond-reality-on-ps-vr2-deepens-player-immersion-available-now/)
+ - [Nintendo Says Don’t Expect A New Switch This Year Either](https://kotaku.com/nintendo-switch-2-pro-mario-zelda-tears-kingdom-sales-1850418484)
+ - [Starfield’s M rating all but confirms jetpack sex](https://www.polygon.com/23716729/starfield-sex-drugs-esrb-rating)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
