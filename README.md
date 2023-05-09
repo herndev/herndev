@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s passkey offering is refined and comprehensive enough to recommend, but the ecosystem is incomplete, despite PayPal, Kayak, and others using passkeys &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230509/p1#a230509p1)
- - [iPhone 16 Pro displays to get even bigger according to supply chain leak](https://appleinsider.com/articles/23/05/09/iphone-16-pro-displays-to-get-even-bigger-according-to-supply-chain-leak?utm_medium=rss)
- - [Nick Clegg reiterates that Meta will end news content in Canada if C-18 passes, says he pulled out of a scheduled committee hearing after a session title change &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/230508/p21#a230508p21)<!-- TECH:END -->
+ - [WhatsApp partners with Stripe to let Singapore-based users pay some businesses within the app, following the launch of merchant payments in India and Brazil &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230509/p3#a230509p3)
+ - [Sam Bankman-Fried&#39;s lawyers file pretrial motions to dismiss most criminal charges against him, but not charges tied to securities fraud and money laundering &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230509/p2#a230509p2)
+ - [Google&#39;s passkey offering is refined and comprehensive enough to recommend, but the ecosystem is incomplete, despite PayPal, Kayak, and others using passkeys &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230509/p1#a230509p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
