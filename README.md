@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based Prewave, which helps companies monitor their suppliers online and create risk alerts, raised a ~$20M Series A+, following a $12.3M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230509/p6#a230509p6)
- - [Miss microSD slots and headphone jacks? These new flagships are for you.](https://www.androidauthority.com/sharp-aquos-r8-pro-3321883/)
- - [Source: Spotify removed ~7% of tracks uploaded by AI music startup Boomy, or &quot;tens of thousands&quot; of songs, over suspicion of bots posing as human listeners &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230509/p5#a230509p5)<!-- TECH:END -->
+ - [After GPTZero gained 1.2M users since January, co-founder Edward Tian raised $3.5M to launch Origin, aimed at &quot;saving journalism&quot; by detecting AI disinformation &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230509/p9#a230509p9)
+ - [The Alliance for Creativity and Entertainment will run a global task force to tackle online sports piracy, working with Interpol, Europol, DAZN, beIN, and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230509/p8#a230509p8)
+ - [Nintendo expects to sell 15M Nintendo Switch consoles this fiscal year, below analyst estimates of 15.7M; the company sold 18M units in the year to March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230509/p7#a230509p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
