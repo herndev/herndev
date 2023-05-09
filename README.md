@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tucker Carlson will relaunch his show on Twitter with help from ex-Fox News staff and will forgo at least $25M owed to him by Fox to break a non-compete clause &lpar;Dylan Byers/@dylanbyers&rpar;](http://www.techmeme.com/230509/p35#a230509p35)
- - [Airbnb reports Q1 revenue up 20% YoY to $1.82B, vs. $1.79B est., its first profitable Q1 with a $117M net income, and a cautious outlook for Q2; ABNB drops 10%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230509/p34#a230509p34)
- - [Anthropic, an AI startup founded by former OpenAI executives that raised $300M from Google, details its work on &quot;constitutional AI&quot; for safer chatbots &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230509/p33#a230509p33)<!-- TECH:END -->
+ - [‘PlugwalkJoe’ pleads guilty for the massive 2020 Twitter hack and other crimes](https://www.theverge.com/2023/5/9/23717558/plugwalkjoe-pleads-guilty-twitter-hack-other-crimes-tiktok)
+ - [Unannounced Beats Studio Pro headphones revealed in iOS beta](https://www.theverge.com/2023/5/9/23717444/beats-studio-pro-noise-canceling-headphones-leak)
+ - [Price war erupts on 2023 MacBook Pro laptops, deals as low as $1,749](https://appleinsider.com/articles/23/05/09/price-war-erupts-on-2023-macbook-pro-laptops-deals-as-low-as-1749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
