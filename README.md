@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Transformers Beyond Reality on PS VR2 deepens player immersion, available now](https://blog.playstation.com/2023/05/09/how-transformers-beyond-reality-on-ps-vr2-deepens-player-immersion-available-now/)
- - [Nintendo Says Don’t Expect A New Switch This Year Either](https://kotaku.com/nintendo-switch-2-pro-mario-zelda-tears-kingdom-sales-1850418484)
- - [Starfield’s M rating all but confirms jetpack sex](https://www.polygon.com/23716729/starfield-sex-drugs-esrb-rating)<!-- GAME:END -->
+ - [Saints Row’s Star Shines in the Ultimate Heist Expansion](https://news.xbox.com/en-us/2023/05/09/saints-rows-sunshine-springs-update/)
+ - [Honkai: Star Rail&#39;s gacha animations have no right to go this hard](https://www.pcgamer.com/honkai-star-rails-gacha-animations-have-no-right-to-go-this-hard)
+ - [Netflix’s next Bird Box movie has more Barcelona, less Bullock](https://www.polygon.com/23716782/bird-box-barcelona-netflix-release-date-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
