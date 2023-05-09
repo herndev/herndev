@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM announces watsonx, a suite of AI services that includes watsonx.ai, an &quot;enterprise studio for AI builders&quot;, watsonx.data, and watsonx.governance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230509/p14#a230509p14)
- - [Wendy&#39;s partners with Google to automate its drive-through using an AI chatbot, rolling out in June to an Ohio restaurant; the bot has been programmed to upsell &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230509/p13#a230509p13)
- - [Should You Get Paid for Teaching a Chatbot to Do Your Job?](https://www.wired.com/story/should-you-get-paid-for-teaching-a-chatbot-to-do-your-job/)<!-- TECH:END -->
+ - [Apple announces Final Cut Pro and Logic Pro for iPad, available as subscriptions on May 23; Final Cut requires an M1 chip or newer and Logic needs A12 or newer &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230509/p17#a230509p17)
+ - [Microsoft opens the Microsoft 365 Copilot Early Access Program to 600 global customers, up from the initial 20, and adds new features, like a Semantic Index &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230509/p16#a230509p16)
+ - [&#39;Death of an Author&#39; Prophesies the Future of AI Novels](https://www.wired.com/story/death-of-an-author-ai-book-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
