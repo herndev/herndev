@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
- - ⏩ [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
- - 👉 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
+ - 💣 [When you have integrity, kindness, and love, it&#39;s hard not to win the long game.](http://9gag.com/gag/avQEbLE)
+ - ⏩ [They hated Jesus because he spoke the truth](http://9gag.com/gag/avQE3qX)
+ - 👉 [Jennifer Aniston&#39;s reaction was 100% genuine. David Schwimmer directed this episode, he intentionally didn&#39;t tell Aniston what will happen.](http://9gag.com/gag/a7qVQGx)<!-- MEMES:END -->
 
 ---
 
