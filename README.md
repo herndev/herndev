@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aBdP7VD)
- - ⏩ [Good question indeed](http://9gag.com/gag/aQEA0E2)
- - 👉 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
+ - 💣 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
+ - ⏩ [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - 👉 [Handsome\ud83e\udd24](http://9gag.com/gag/a6qnAZA)<!-- MEMES:END -->
 
 ---
 
