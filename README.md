@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Cyberspace Administration of China has launched a rare on-site inspection of Wuhan-based DouYu, the Nasdaq-listed game streaming platform backed by Tencent &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/230508/p20#a230508p20)
- - [LinkedIn to cut 716 jobs and shut down InCareer, its local jobs app in China, by August 9, citing fierce competition and a challenging macroeconomic climate &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230508/p19#a230508p19)
- - [Google&#39;s Pixel 7A: The Big Features I Want on the Rumored Phone     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-7a-the-big-features-i-want-on-the-rumored-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro displays to get even bigger according to supply chain leak](https://appleinsider.com/articles/23/05/09/iphone-16-pro-displays-to-get-even-bigger-according-to-supply-chain-leak?utm_medium=rss)
+ - [Nick Clegg reiterates that Meta will end news content in Canada if C-18 passes, says he pulled out of a scheduled committee hearing after a session title change &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/230508/p21#a230508p21)
+ - [The Cyberspace Administration of China has launched a rare on-site inspection of Wuhan-based DouYu, the Nasdaq-listed game streaming platform backed by Tencent &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/230508/p20#a230508p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
