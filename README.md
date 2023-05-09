@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s passkey offering is refined and comprehensive enough to recommend, but the ecosystem is incomplete, despite PayPal, Kayak, and others using passkeys &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230509/p1#a230509p1)
  - [iPhone 16 Pro displays to get even bigger according to supply chain leak](https://appleinsider.com/articles/23/05/09/iphone-16-pro-displays-to-get-even-bigger-according-to-supply-chain-leak?utm_medium=rss)
- - [Nick Clegg reiterates that Meta will end news content in Canada if C-18 passes, says he pulled out of a scheduled committee hearing after a session title change &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/230508/p21#a230508p21)
- - [The Cyberspace Administration of China has launched a rare on-site inspection of Wuhan-based DouYu, the Nasdaq-listed game streaming platform backed by Tencent &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/230508/p20#a230508p20)<!-- TECH:END -->
+ - [Nick Clegg reiterates that Meta will end news content in Canada if C-18 passes, says he pulled out of a scheduled committee hearing after a session title change &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/230508/p21#a230508p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
