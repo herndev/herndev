@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy multitasking, Batman! Philips slapped an e-reader onto a monitor](https://www.pcgamer.com/holy-multitasking-batman-philips-slapped-an-e-reader-onto-a-monitor)
- - [Wait, there are two different games about causing large-scale mayhem in a pretend Ikea?](https://www.pcgamer.com/wait-there-are-two-different-games-about-causing-large-scale-mayhem-in-a-pretend-ikea)
- - [Overwatch 2 Wants To Do Anything But Tell Its Damn Story &lpar;Oh Look: Star Wars-Inspired Outfits!&rpar;](https://kotaku.com/overwatch-2-starwatch-star-wars-event-mode-pve-story-1850421313)<!-- GAME:END -->
+ - [Make famous VTubers fight in this surprise Steam hit](https://www.pcgamer.com/make-famous-vtubers-fight-in-this-surprise-steam-hit)
+ - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)
+ - [Why you&#39;re right to hate motion blur in games](https://www.pcgamer.com/why-people-hate-motion-blur-in-videogames)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
