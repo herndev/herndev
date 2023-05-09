@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall’s Single-Player Is No Prey Or Dishonored](https://kotaku.com/redfall-single-player-xbox-arkane-immersive-sim-co-op-1850421048)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
- - [The Good Doctor goes unexpectedly viral with ‘I am a surgeon’ meme](https://www.polygon.com/23717261/the-good-doctor-meme-shaun-murphy-dr-han-i-am-a-surgeon)<!-- GAME:END -->
+ - [Holy multitasking, Batman! Philips slapped an e-reader onto a monitor](https://www.pcgamer.com/holy-multitasking-batman-philips-slapped-an-e-reader-onto-a-monitor)
+ - [Wait, there are two different games about causing large-scale mayhem in a pretend Ikea?](https://www.pcgamer.com/wait-there-are-two-different-games-about-causing-large-scale-mayhem-in-a-pretend-ikea)
+ - [Overwatch 2 Wants To Do Anything But Tell Its Damn Story &lpar;Oh Look: Star Wars-Inspired Outfits!&rpar;](https://kotaku.com/overwatch-2-starwatch-star-wars-event-mode-pve-story-1850421313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
