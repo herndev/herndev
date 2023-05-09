@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - ⏩ [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
- - 👉 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
+ - 💣 [Oh boy](http://9gag.com/gag/ay2WyYY)
+ - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
+ - 👉 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
 
 ---
 
