@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After GPTZero gained 1.2M users since January, co-founder Edward Tian raised $3.5M to launch Origin, aimed at &quot;saving journalism&quot; by detecting AI disinformation &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230509/p9#a230509p9)
- - [The Alliance for Creativity and Entertainment will run a global task force to tackle online sports piracy, working with Interpol, Europol, DAZN, beIN, and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230509/p8#a230509p8)
- - [Nintendo expects to sell 15M Nintendo Switch consoles this fiscal year, below analyst estimates of 15.7M; the company sold 18M units in the year to March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230509/p7#a230509p7)<!-- TECH:END -->
+ - [Foxconn Chengdu iPad factory is here to stay, insists chairman](https://appleinsider.com/articles/23/05/09/foxconn-chengdu-ipad-factory-is-here-to-stay-insists-chairman?utm_medium=rss)
+ - [Cocomii Phone Case review: chic, resilient, and affordable](https://appleinsider.com/articles/23/05/09/cocomii-phone-case-review-chic-resilient-and-affordable?utm_medium=rss)
+ - [Chinese authorities arrest a man for using ChatGPT to write and spread fake news articles, one of the first known instances, with one article having 15K+ views &lpar;Low De Wei/Bloomberg&rpar;](http://www.techmeme.com/230509/p11#a230509p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
