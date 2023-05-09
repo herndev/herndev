@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
- - 👉 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
+ - 💣 [Please , don&#39;t go to Movies anymore don&#39;t pay for streaming platform](http://9gag.com/gag/a1P5z2b)
+ - ⏩ [Thank You](http://9gag.com/gag/aVbZjKd)
+ - 👉 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
 
 ---
 
