@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please , don&#39;t go to Movies anymore don&#39;t pay for streaming platform](http://9gag.com/gag/a1P5z2b)
- - ⏩ [Thank You](http://9gag.com/gag/aVbZjKd)
- - 👉 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
+ - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
+ - ⏩ [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
+ - 👉 [Good question indeed](http://9gag.com/gag/aQEA0E2)<!-- MEMES:END -->
 
 ---
 
