@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oops! This pro Valorant team were forced to forfeit a tournament match because one of them couldn&#39;t stop playing Honkai: Star Rail](https://www.pcgamer.com/oops-this-pro-valorant-team-were-forced-to-forfeit-a-tournament-match-because-one-of-them-couldnt-stop-playing-honkai-star-rail)
- - [Nintendo&#39;s Aggressive Efforts To Squash Tears Of The Kingdom Leaks Are Having Unintended Side Effects](https://kotaku.com/zelda-tears-kingdom-leak-nintendo-twitch-youtube-ban-1850419068)
- - [Nintendo says no new Switch hardware coming this year — but maybe in 2024](https://www.polygon.com/23716791/new-switch-hardware-nintendo-2024)<!-- GAME:END -->
+ - [This Warhammer 40K painter gives back via fixing fans’ favorite dudes](https://www.polygon.com/23716928/warhammer-40k-maverick-nicolson-plastic-surgery-painting-series)
+ - [Starfield Won’t Show Sex, But Will Talk About How Kinky It Was](https://kotaku.com/starfield-bethesda-xbox-microsoft-sex-drugs-rpg-fallout-1850419151)
+ - [The daddy of battle royales is still going strong as publisher Krafton posts record sales for PUBG](https://www.pcgamer.com/the-daddy-of-battle-royales-is-still-going-strong-as-publisher-krafton-posts-record-sales-for-pubg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
