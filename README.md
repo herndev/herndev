@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Ponyta be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698017/can-ponyta-be-shiny-rapidash)
  - [Viz’s new subscription service will deliver translated manga the same day it’s out in Japan](https://www.polygon.com/23711092/viz-media-new-subscription-app-manga-shojo)
- - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/08/this-weeks-deals-with-gold-and-spotlight-sale-273/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
