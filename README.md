@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn to cut 716 jobs and shut down InCareer, its local jobs app in China, by August 9, citing fierce competition and a challenging macroeconomic climate &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230508/p19#a230508p19)
  - [Google&#39;s Pixel 7A: The Big Features I Want on the Rumored Phone     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-7a-the-big-features-i-want-on-the-rumored-phone/#ftag=CAD590a51e)
- - [Elon Musk Says Twitter Will Purge Inactive Accounts, Which Could Give You the Handle You&#39;ve Always Wanted     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-says-twitter-will-purge-inactive-accounts-which-could-give-you-the-handle-youve-always-wanted/#ftag=CAD590a51e)
- - [Ripple&#39;s CEO says the company will have spent $200M fighting SEC&#39;s lawsuit that accuses him, a co-founder, and Ripple of selling XRP as an unregistered security &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p18#a230508p18)<!-- TECH:END -->
+ - [Elon Musk Says Twitter Will Purge Inactive Accounts, Which Could Give You the Handle You&#39;ve Always Wanted     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-says-twitter-will-purge-inactive-accounts-which-could-give-you-the-handle-youve-always-wanted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
