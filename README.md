@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
- - ⏩ [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 👉 [Oh boy](http://9gag.com/gag/ay2WyYY)<!-- MEMES:END -->
+ - ⏩ [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 👉 [Most interesting race....](http://9gag.com/gag/aL1GYyx)<!-- MEMES:END -->
 
 ---
 
