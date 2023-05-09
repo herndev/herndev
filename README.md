@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘PlugwalkJoe’ pleads guilty for the massive 2020 Twitter hack and other crimes](https://www.theverge.com/2023/5/9/23717558/plugwalkjoe-pleads-guilty-twitter-hack-other-crimes-tiktok)
- - [Unannounced Beats Studio Pro headphones revealed in iOS beta](https://www.theverge.com/2023/5/9/23717444/beats-studio-pro-noise-canceling-headphones-leak)
- - [Price war erupts on 2023 MacBook Pro laptops, deals as low as $1,749](https://appleinsider.com/articles/23/05/09/price-war-erupts-on-2023-macbook-pro-laptops-deals-as-low-as-1749?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk responded to tweets that called a mass shooting in Texas a &quot;psyop&quot;, remarking himself the case was &quot;very strange&quot; and &quot;gets weirder by the moment&quot; &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/230509/p41#a230509p41)
+ - [UK citizen Joseph James O&#39;Connor, aka PlugwalkJoe, pleads guilty for his role in the July 2020 Twitter hack affecting high-profile accounts and other crimes &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230509/p40#a230509p40)
+ - [Honkai: Star Rail – Every currency and where to get them](https://www.androidauthority.com/honkai-star-rail-currency-3322361/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
