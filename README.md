@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s brutal start to 2023 means more troubles are ahead](https://www.pcgamer.com/intels-brutal-start-to-2023-means-more-troubles-are-ahead)
  - [Star Wars&#39; Mantis Is Such A Good Ship](https://kotaku.com/star-wars-jedi-survivor-mantis-ship-respawn-design-ea-1850407213)
- - [Tragic Nintendo Unboxing Story Has A Happy Ending](https://kotaku.com/nintendo-collector-merch-kyoto-unbox-unboxing-cards-1850417280)
- - [Jeopardy!&#39;s Big Winners-Only Tournament Is Changing How Daily Doubles Work](https://kotaku.com/jeopardy-masters-winners-daily-double-change-tournament-1850417292)<!-- GAME:END -->
+ - [Tragic Nintendo Unboxing Story Has A Happy Ending](https://kotaku.com/nintendo-collector-merch-kyoto-unbox-unboxing-cards-1850417280)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
