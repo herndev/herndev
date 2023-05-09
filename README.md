@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple&#39;s CEO says the company will have spent $200M fighting SEC&#39;s lawsuit that accuses him, a co-founder, and Ripple of selling XRP as an unregistered security &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p18#a230508p18)
- - [Crypto exchange Bittrex files for bankruptcy in Delaware; filing: the company estimates both its liabilities and assets to be between $500M and $1B &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230508/p17#a230508p17)
- - [PayPal reports Q1 total payment volume up 10% YoY to $354.5B, vs. $349.5B est., net revenue up 9% to $7.04B, and operating income up 41% to $1B; PYPL down 5%+ &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230508/p16#a230508p16)<!-- TECH:END -->
+ - [Google&#39;s Pixel 7A: The Big Features I Want on the Rumored Phone     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-7a-the-big-features-i-want-on-the-rumored-phone/#ftag=CAD590a51e)
+ - [Elon Musk Says Twitter Will Purge Inactive Accounts, Which Could Give You the Handle You&#39;ve Always Wanted     - CNET](https://www.cnet.com/tech/services-and-software/elon-musk-says-twitter-will-purge-inactive-accounts-which-could-give-you-the-handle-youve-always-wanted/#ftag=CAD590a51e)
+ - [Ripple&#39;s CEO says the company will have spent $200M fighting SEC&#39;s lawsuit that accuses him, a co-founder, and Ripple of selling XRP as an unregistered security &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p18#a230508p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
