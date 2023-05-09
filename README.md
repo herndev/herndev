@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds release candidates of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/05/09/apple-seeds-release-candidates-of-ios-165-ipados-165?utm_medium=rss)
- - [TSMC&#39;s plan to build a German fab focusing on 28nm chips makes more sense than its US foray, as a way to meet automotive industry demand and political pressure &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230509/p28#a230509p28)
- - [Hit-and-run victim credits Apple Watch Fall Detection for saving his life](https://appleinsider.com/articles/23/05/09/hit-and-run-victim-credits-apple-watch-fall-detection-for-saving-his-life?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect at Google I/O 2023: Pixel Tablet, Pixel 7A, foldable-focused Android 14 details, a Pixel 8 and 8 Pro preview, PaLM 2, and maybe some AI surprises &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230509/p31#a230509p31)
+ - [OpenAI releases research and an open-source tool that uses GPT-4 to try to explain the behavior of GPT-2&#39;s &quot;neurons&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230509/p30#a230509p30)
+ - [Carriers in dozens of US states are tearing out Chinese equipment, a difficult process the FCC says has already cost $5B+, well over the $1.9B reimbursement pot &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230509/p29#a230509p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
