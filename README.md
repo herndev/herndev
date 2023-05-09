@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)
- - ⏩ [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
+ - 💣 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
+ - ⏩ [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
  - 👉 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
 
 ---
