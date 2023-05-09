@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil Proposed Internet Regulation. Big Tech Took the Gloves Off](https://www.wired.com/story/brazil-regulation-big-tech/)
- - [Apple notifies Swift Student Challenge winners ahead of WWDC](https://appleinsider.com/articles/23/05/09/apple-notifies-swift-student-challenge-winners-ahead-of-wwdc?utm_medium=rss)
- - [iOS 16.5 references new Beats Studio Pro headphones; source: they will come in four colors and have transparency mode, Personalized Spatial Audio, better ANC &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230509/p32#a230509p32)<!-- TECH:END -->
+ - [Tucker Carlson will relaunch his show on Twitter with help from ex-Fox News staff and will forgo at least $25M owed to him by Fox to break a non-compete clause &lpar;Dylan Byers/@dylanbyers&rpar;](http://www.techmeme.com/230509/p35#a230509p35)
+ - [Airbnb reports Q1 revenue up 20% YoY to $1.82B, vs. $1.79B est., its first profitable Q1 with a $117M net income, and a cautious outlook for Q2; ABNB drops 10%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230509/p34#a230509p34)
+ - [Anthropic, an AI startup founded by former OpenAI executives that raised $300M from Google, details its work on &quot;constitutional AI&quot; for safer chatbots &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230509/p33#a230509p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
