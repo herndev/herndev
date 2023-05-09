@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at Google I/O 2023: Pixel Tablet, Pixel 7A, foldable-focused Android 14 details, a Pixel 8 and 8 Pro preview, PaLM 2, and maybe some AI surprises &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230509/p31#a230509p31)
- - [OpenAI releases research and an open-source tool that uses GPT-4 to try to explain the behavior of GPT-2&#39;s &quot;neurons&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230509/p30#a230509p30)
- - [Carriers in dozens of US states are tearing out Chinese equipment, a difficult process the FCC says has already cost $5B+, well over the $1.9B reimbursement pot &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230509/p29#a230509p29)<!-- TECH:END -->
+ - [Brazil Proposed Internet Regulation. Big Tech Took the Gloves Off](https://www.wired.com/story/brazil-regulation-big-tech/)
+ - [Apple notifies Swift Student Challenge winners ahead of WWDC](https://appleinsider.com/articles/23/05/09/apple-notifies-swift-student-challenge-winners-ahead-of-wwdc?utm_medium=rss)
+ - [iOS 16.5 references new Beats Studio Pro headphones; source: they will come in four colors and have transparency mode, Personalized Spatial Audio, better ANC &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230509/p32#a230509p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
