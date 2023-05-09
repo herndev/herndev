@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [20 Years of Guerrilla: The Story of a PlayStation Studio](https://blog.playstation.com/2023/05/09/20-years-of-guerrilla-the-story-of-a-playstation-studio/)
- - [Zelda-inspired tabletop RPG Break!! is the next big crowdfunding hit](https://www.polygon.com/tabletop-games/23712592/zelda-inspired-tabletop-rpg-break-campaign-release-date-price)
- - [The endless FromSoft memes are the only good thing to come out of Britain&#39;s coronation](https://www.pcgamer.com/the-endless-fromsoft-memes-are-the-only-good-thing-to-come-out-of-britains-coronation)<!-- GAME:END -->
+ - [Where to buy Legend of Zelda amiibo that work with Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [This MOBA mutation where you don&#39;t fight other players will get a closed beta next month](https://www.pcgamer.com/this-moba-mutation-where-you-dont-fight-other-players-will-get-a-closed-beta-next-month)
+ - [Niantic’s new game Peridot is part pet sim, part research project](https://www.polygon.com/23715003/peridot-preview-niantic-pet-sim-future-of-ar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
