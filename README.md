@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ambassador of the Russian Federation in Poland failed to lay a wreath at the memorial in Warsaw. The crowd blocked his way and forced him to leave the place.](http://9gag.com/gag/aPge6xn)
- - ⏩ [If you know, you know](http://9gag.com/gag/aKEWbeN)
- - 👉 [Thank You](http://9gag.com/gag/aVbZjKd)<!-- MEMES:END -->
+ - 💣 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
+ - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
+ - 👉 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
 
 ---
 
