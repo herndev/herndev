@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
- - ⏩ [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - 💣 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
+ - ⏩ [Notice why?](http://9gag.com/gag/axobrEL)
  - 👉 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
 
 ---
