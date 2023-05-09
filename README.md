@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have integrity, kindness, and love, it&#39;s hard not to win the long game.](http://9gag.com/gag/avQEbLE)
- - ⏩ [They hated Jesus because he spoke the truth](http://9gag.com/gag/avQE3qX)
- - 👉 [Jennifer Aniston&#39;s reaction was 100% genuine. David Schwimmer directed this episode, he intentionally didn&#39;t tell Aniston what will happen.](http://9gag.com/gag/a7qVQGx)<!-- MEMES:END -->
+ - 💣 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
+ - ⏩ [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 👉 [Oh boy](http://9gag.com/gag/ay2WyYY)<!-- MEMES:END -->
 
 ---
 
