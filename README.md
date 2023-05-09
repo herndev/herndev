@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces Final Cut Pro and Logic Pro for iPad, available as subscriptions on May 23; Final Cut requires an M1 chip or newer and Logic needs A12 or newer &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230509/p17#a230509p17)
- - [Microsoft opens the Microsoft 365 Copilot Early Access Program to 600 global customers, up from the initial 20, and adds new features, like a Semantic Index &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230509/p16#a230509p16)
- - [&#39;Death of an Author&#39; Prophesies the Future of AI Novels](https://www.wired.com/story/death-of-an-author-ai-book-review/)<!-- TECH:END -->
+ - [Hands on with the new iPhone 15 and iPhone 15 Pro designs](https://appleinsider.com/articles/23/05/09/hands-on-with-the-new-iphone-15-and-iphone-15-pro-designs?utm_medium=rss)
+ - [Bose is slashing prices on earbuds and headphones ahead of Mother’s Day](https://www.theverge.com/2023/5/9/23715248/bose-quiet-comfort-earbuds-amazon-kindle-paperwhite-ue-wonderboom-speaker-sale-deal)
+ - [8fig, which plans to offer an AI-powered &quot;C-suite&quot; for e-commerce companies, starting with an AI CFO, raised a $40M Series B and $100M in a credit facility &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230509/p19#a230509p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
