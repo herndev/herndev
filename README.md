@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row’s Star Shines in the Ultimate Heist Expansion](https://news.xbox.com/en-us/2023/05/09/saints-rows-sunshine-springs-update/)
- - [Honkai: Star Rail&#39;s gacha animations have no right to go this hard](https://www.pcgamer.com/honkai-star-rails-gacha-animations-have-no-right-to-go-this-hard)
- - [Netflix’s next Bird Box movie has more Barcelona, less Bullock](https://www.polygon.com/23716782/bird-box-barcelona-netflix-release-date-trailer)<!-- GAME:END -->
+ - [Oops! This pro Valorant team were forced to forfeit a tournament match because one of them couldn&#39;t stop playing Honkai: Star Rail](https://www.pcgamer.com/oops-this-pro-valorant-team-were-forced-to-forfeit-a-tournament-match-because-one-of-them-couldnt-stop-playing-honkai-star-rail)
+ - [Nintendo&#39;s Aggressive Efforts To Squash Tears Of The Kingdom Leaks Are Having Unintended Side Effects](https://kotaku.com/zelda-tears-kingdom-leak-nintendo-twitch-youtube-ban-1850419068)
+ - [Nintendo says no new Switch hardware coming this year — but maybe in 2024](https://www.polygon.com/23716791/new-switch-hardware-nintendo-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
