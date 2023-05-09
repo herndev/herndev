@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn Chengdu iPad factory is here to stay, insists chairman](https://appleinsider.com/articles/23/05/09/foxconn-chengdu-ipad-factory-is-here-to-stay-insists-chairman?utm_medium=rss)
- - [Cocomii Phone Case review: chic, resilient, and affordable](https://appleinsider.com/articles/23/05/09/cocomii-phone-case-review-chic-resilient-and-affordable?utm_medium=rss)
- - [Chinese authorities arrest a man for using ChatGPT to write and spread fake news articles, one of the first known instances, with one article having 15K+ views &lpar;Low De Wei/Bloomberg&rpar;](http://www.techmeme.com/230509/p11#a230509p11)<!-- TECH:END -->
+ - [IBM announces watsonx, a suite of AI services that includes watsonx.ai, an &quot;enterprise studio for AI builders&quot;, watsonx.data, and watsonx.governance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230509/p14#a230509p14)
+ - [Wendy&#39;s partners with Google to automate its drive-through using an AI chatbot, rolling out in June to an Ohio restaurant; the bot has been programmed to upsell &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230509/p13#a230509p13)
+ - [Should You Get Paid for Teaching a Chatbot to Do Your Job?](https://www.wired.com/story/should-you-get-paid-for-teaching-a-chatbot-to-do-your-job/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
