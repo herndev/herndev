@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese authorities arrest ChatGPT user for generating fake news](https://www.theverge.com/2023/5/9/23716766/china-chatgpt-arrest-fake-news-misinformation-ai-policy)
- - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [Daily Deals: iPhone 11 from $280, $269 iPad 9th Generation, Apple Watch SE $179, more](https://appleinsider.com/articles/23/05/09/daily-deals-iphone-11-from-280-269-ipad-9th-generation-apple-watch-se-179-more?utm_medium=rss)<!-- TECH:END -->
+ - [Goldman, Microsoft, Cboe, Deloitte, and others plan to test the blockchain Canton Network in July, linking apps built with Digital Asset&#39;s Daml smart contract &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230509/p26#a230509p26)
+ - [Mac revenue decline leads Samsung &amp; LG to hesitate on Gen 8 OLED](https://appleinsider.com/articles/23/05/09/mac-revenue-decline-leads-samsung-lg-to-hesitate-on-gen-8-oled?utm_medium=rss)
+ - [Google and Wendy’s team up to give the drive-through an AI makeover](https://www.androidauthority.com/wendys-ai-chatbot-3322101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
