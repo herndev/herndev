@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: of the 76 coins the SEC considers securities, 16 can be traded on major US crypto exchanges; tokens labeled as securities in 2022 almost tripled YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230509/p4#a230509p4)
- - [Samsung Galaxy Z Fold 3 gets the May 2023 security patch](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [How To Delete Your Data From ChatGPT](https://www.wired.com/story/how-to-delete-your-data-from-chatgpt/)<!-- TECH:END -->
+ - [VanMoof S4 e-bike review: the one to buy](https://www.theverge.com/23715026/vanmoof-s4-review-price-specs-date)
+ - [The iPhone 16 Pro series could finally get a longer display](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)
+ - [Volvo’s next electric vehicle is a small SUV called the EX30](https://www.theverge.com/2023/5/9/23716016/volvo-ex30-electric-suv-global-debut-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
