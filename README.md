@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire survival game&#39;s new expansion adds awesome multi-level castles with all the Dracula vibes](https://www.pcgamer.com/vampire-survival-games-new-expansion-adds-awesome-multi-level-castles-with-all-the-dracula-vibes)
- - [Star Wars Jedi: Survivor Is Really That Good, Seriously](https://kotaku.com/star-wars-jedi-survivor-is-it-good-goty-review-ea-1850419772)
- - [Activision Blizzard hires barrister who advised Boris Johnson on partygate to front CMA appeal](https://www.pcgamer.com/activision-blizzard-hires-barrister-who-advised-boris-johnson-on-partygate-to-front-cma-appeal)<!-- GAME:END -->
+ - [Cult webcomic Achewood is back, and bringing AI with it](https://www.polygon.com/entertainment/23712969/achewood-2023-ai-chris-onstad)
+ - [Dark and Darker early access release delayed: &#39;We ask everyone to hold the line just a little longer&#39;](https://www.pcgamer.com/dark-and-darker-early-access-release-delayed-we-ask-everyone-to-hold-the-line-just-a-little-longer)
+ - [Creature Photographing Supernatural Puzzle Adventure Moonrise Fall Hits Xbox](https://news.xbox.com/en-us/2023/05/09/moonrise-fall-hits-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
