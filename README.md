@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two men are facing jail time after trying to smuggle GPUs and, uh, live lobsters into China](https://www.pcgamer.com/two-men-are-facing-jail-time-after-trying-to-smuggle-gpus-and-uh-live-lobsters-into-china)
- - [Five Nights at Freddy&#39;s creator thanks fans for not watching leaked trailer](https://www.pcgamer.com/five-nights-at-freddys-creator-thanks-fans-for-not-watching-leaked-trailer)
- - [No really, The Meg 2 is going to be the best movie of the summer](https://www.polygon.com/23715599/meg-2-watch-trailer-giant-shark-release-date-movie)<!-- GAME:END -->
+ - [Tragic Nintendo Unboxing Story Has A Happy Ending](https://kotaku.com/nintendo-collector-merch-kyoto-unbox-unboxing-cards-1850417280)
+ - [Jeopardy!&#39;s Big Winners-Only Tournament Is Changing How Daily Doubles Work](https://kotaku.com/jeopardy-masters-winners-daily-double-change-tournament-1850417292)
+ - [Zelda: Tears of the Kingdom&#39;s leak has turned into one giant mess for the emulation community](https://www.pcgamer.com/zelda-tears-of-the-kingdoms-leak-has-turned-into-one-giant-mess-for-the-emulation-community)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
