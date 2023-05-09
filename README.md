@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
- - ⏩ [Notice why?](http://9gag.com/gag/axobrEL)
- - 👉 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/aBdP7VD)
+ - ⏩ [Good question indeed](http://9gag.com/gag/aQEA0E2)
+ - 👉 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
 
 ---
 
