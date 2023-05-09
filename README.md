@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy](http://9gag.com/gag/ay2WyYY)
- - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
- - 👉 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
+ - 💣 [The ambassador of the Russian Federation in Poland failed to lay a wreath at the memorial in Warsaw. The crowd blocked his way and forced him to leave the place.](http://9gag.com/gag/aPge6xn)
+ - ⏩ [If you know, you know](http://9gag.com/gag/aKEWbeN)
+ - 👉 [Thank You](http://9gag.com/gag/aVbZjKd)<!-- MEMES:END -->
 
 ---
 
