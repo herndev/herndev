@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the new iPhone 15 and iPhone 15 Pro designs](https://appleinsider.com/articles/23/05/09/hands-on-with-the-new-iphone-15-and-iphone-15-pro-designs?utm_medium=rss)
- - [Bose is slashing prices on earbuds and headphones ahead of Mother’s Day](https://www.theverge.com/2023/5/9/23715248/bose-quiet-comfort-earbuds-amazon-kindle-paperwhite-ue-wonderboom-speaker-sale-deal)
- - [8fig, which plans to offer an AI-powered &quot;C-suite&quot; for e-commerce companies, starting with an AI CFO, raised a $40M Series B and $100M in a credit facility &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230509/p19#a230509p19)<!-- TECH:END -->
+ - [Snag Discounts of Up to 51% On Ecovacs 2-In-1 Robot Vacuums     - CNET](https://www.cnet.com/deals/snag-discounts-of-up-to-51-on-ecovacs-2-in-1-robot-vacuums/#ftag=CAD590a51e)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [This Year&#39;s Pride Edition Sport Band for the Apple Watch is Here     - CNET](https://www.cnet.com/tech/mobile/this-years-pride-edition-sport-band-for-the-apple-watch-is-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
