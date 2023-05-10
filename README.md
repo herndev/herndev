@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/aQEAwXK)
- - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
- - 👉 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
+ - 💣 [Still more real than your gf](http://9gag.com/gag/aA0MY2Z)
+ - ⏩ [Dog thought he was alone](http://9gag.com/gag/aKE84bg)
+ - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
 
 ---
 
