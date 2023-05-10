@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Up serves a dim sum board game for Chinese immigrant families — like mine](https://www.polygon.com/tabletop-games/23710294/steam-up-dim-sum-board-game-review)
- - [Publisher calls out Metacritic after hit indie JRPG gets inexplicably review bombed](https://www.pcgamer.com/publisher-calls-out-metacritic-after-hit-indie-jrpg-gets-inexplicably-review-bombed)
- - [This new Star Wars TCG is ready to go toe-to-toe with Magic: The Gathering](https://www.pcgamer.com/this-new-star-wars-tcg-is-raring-to-go-toe-to-toe-with-magic-the-gathering)<!-- GAME:END -->
+ - [Darkest Dungeon 2 review](https://www.pcgamer.com/darkest-dungeon-2-review)
+ - [Beetlejuice 2, with Jenna Ortega and Michael Keaton, confirmed for 2024](https://www.polygon.com/23718229/beetlejuice-2-release-date-cast-jenna-ortega)
+ - [Best Diablo 4 Barbarian build: Rend enemies and bleed bosses](https://www.pcgamer.com/best-diablo-4-barbarian-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
