@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - ⏩ [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
- - 👉 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
+ - ⏩ [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
+ - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
 
 ---
 
