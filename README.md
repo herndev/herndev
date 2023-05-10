@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has updated Shazam to add integration with Apple Music Classical](https://appleinsider.com/articles/23/05/10/apple-has-updated-shazam-to-add-integration-with-apple-music-classical?utm_medium=rss)
- - [Tether reports a $1.5B net profit in Q1, $2.44B in excess reserves, and $81.8B+ in assets as of May 9, including $1.5B in bitcoin and $3.3B in precious metals &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230510/p21#a230510p21)
- - [Improve Your Sleep With Up to $900 Off New Mattresses     - CNET](https://www.cnet.com/deals/improve-your-sleep-with-up-to-900-off-new-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Good Omens season 2 hits Prime Video in July](https://www.theverge.com/23718247/good-omens-season-2-amazon-prime-video-release-date)
+ - [Another Pixel Fold ad leaks hours before Google’s event](https://www.theverge.com/2023/5/10/23718344/google-pixel-fold-leak-promo-delay-dual-screen-multitasking)
+ - [Tears of the Kingdom will have ‘huge’ dungeons](https://www.theverge.com/2023/5/10/23718375/the-legend-of-zelda-tears-of-the-kingdom-dungeons-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
