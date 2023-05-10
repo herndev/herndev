@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk said Twitter has not signed a deal &quot;of any kind whatsoever&quot; with Tucker Carlson and he will be subject to the same rules as all content creators &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230509/p43#a230509p43)
- - [Google Chrome Brings Better AI Brains to the Web     - CNET](https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/#ftag=CAD590a51e)
- - [Logitech A30 The Mandalorian Edition review: This is the way](https://appleinsider.com/articles/23/05/09/logitech-a30-the-mandalorian-edition-review-this-is-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is making life even harder for its metaverse creators](https://www.theverge.com/2023/5/9/23717618/meta-metaverse-creators-horizon-worlds-events)
+ - [Twitter upgrades DM replies, Musk claims encrypted DMs launch on Wednesday](https://www.theverge.com/2023/5/9/23717734/twitter-dm-replies-emoji-elon-musk-encrypted-direct-messages)
+ - [Every known Apple TV+ show cancelation so far](https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
