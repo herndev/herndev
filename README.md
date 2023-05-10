@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Man Jailed For Life After Beating Neighbour To Death With Bag Of Pokémon Cards](https://kotaku.com/pokemon-card-murder-death-britain-bag-andrew-hague-bbc-1850421839)
  - [Make famous VTubers fight in this surprise Steam hit](https://www.pcgamer.com/make-famous-vtubers-fight-in-this-surprise-steam-hit)
- - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)
- - [Why you&#39;re right to hate motion blur in games](https://www.pcgamer.com/why-people-hate-motion-blur-in-videogames)<!-- GAME:END -->
+ - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
