@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
- - ⏩ [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
- - 👉 [Jihadi universe](http://9gag.com/gag/aDYbRbB)<!-- MEMES:END -->
+ - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
+ - ⏩ [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
+ - 👉 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
 
 ---
 
