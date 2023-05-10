@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
  - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 prequel comic announced for Free Comic Book Day](https://blog.playstation.com/2023/05/09/20230510-spiderman/)
- - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 prequel comic announced for Free Comic Book Day](https://blog.playstation.com/2023/05/09/20230510-spiderman/)
- - [Intel&#39;s Meteor Lake iGPU is set to shake up the entry level GPU market](https://www.pcgamer.com/intels-meteor-lake-igpu-is-set-to-shake-up-the-entry-level-gpu-market)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 prequel comic announced for Free Comic Book Day](https://blog.playstation.com/2023/05/09/20230510-spiderman/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
