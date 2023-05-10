@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - ⏩ [Wtf](http://9gag.com/gag/aBdERYQ)
- - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
+ - 💣 [He must feel robbed.](http://9gag.com/gag/amAxXr4)
+ - ⏩ [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)
+ - 👉 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
 
 ---
 
