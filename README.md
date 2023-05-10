@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Omens season 2 hits Prime Video in July](https://www.theverge.com/23718247/good-omens-season-2-amazon-prime-video-release-date)
- - [Another Pixel Fold ad leaks hours before Google’s event](https://www.theverge.com/2023/5/10/23718344/google-pixel-fold-leak-promo-delay-dual-screen-multitasking)
- - [Tears of the Kingdom will have ‘huge’ dungeons](https://www.theverge.com/2023/5/10/23718375/the-legend-of-zelda-tears-of-the-kingdom-dungeons-nintendo)<!-- TECH:END -->
+ - [Live blog of the Google I/O keynote, where Pixel 7a, Pixel Fold, Pixel Tablet, a general-use LLM called PaLM 2, and more are expected &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230510/p23#a230510p23)
+ - [Roku expands its smart home lineup with a $99 home monitoring system, a solar panel to power its outdoor camera, and a multicolored LED strip light &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230510/p22#a230510p22)
+ - [Watch Google I/O 2023 here to see the launch of the Pixel Fold, Pixel 7a, more](https://www.androidauthority.com/watch-google-io-2023-3321582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
