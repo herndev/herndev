@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live blog of the Google I/O keynote, where Pixel 7a, Pixel Fold, Pixel Tablet, a general-use LLM called PaLM 2, and more are expected &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230510/p23#a230510p23)
- - [Roku expands its smart home lineup with a $99 home monitoring system, a solar panel to power its outdoor camera, and a multicolored LED strip light &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230510/p22#a230510p22)
- - [Watch Google I/O 2023 here to see the launch of the Pixel Fold, Pixel 7a, more](https://www.androidauthority.com/watch-google-io-2023-3321582/)<!-- TECH:END -->
+ - [Google shows AI features coming to Search, including an &quot;AI Snapshot&quot;, which provides a summary of search results, with links that &quot;corroborate&quot; the information &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230510/p32#a230510p32)
+ - [Google Bard gains a huge upgrade thanks to PaLM 2](https://www.androidauthority.com/google-palm-2-bard-3323103/)
+ - [The AI takeover of Google Search starts now](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
