@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mother’s Day is coming up, so here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
- - [Ratchet &amp; Clank’s latest adventure highlights PlayStation Plus Extra for May](https://www.polygon.com/23718458/playstation-ps-plus-extra-games-may-2023-premium-collection)
- - [Nintendo made a Zelda: Tears of the Kingdom ad about... midlife depression?](https://www.polygon.com/legend-zelda-tears-kingdom/23718362/zelda-tears-of-the-kingdom-totk-sad-bus-man-ad-botw-2)<!-- GAME:END -->
+ - [Good Omens is coming back for a new season this summer](https://www.polygon.com/23718643/good-omens-season-2-release-date-cast-news)
+ - [Adobe&#39;s generative AI art tool and Google Bard are joining forces](https://www.pcgamer.com/adobes-generative-ai-art-tool-and-google-bard-are-joining-forces)
+ - [The best of BTS on Disney Plus](https://www.polygon.com/what-to-watch/23715613/bts-best-disney-plus-streaming-concerts-documentaries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
