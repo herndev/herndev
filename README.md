@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter lets users reply directly to any DM with a threaded message and react to messages with a wider range of emojis &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/230509/p45#a230509p45)
  - [Meta is making life even harder for its metaverse creators](https://www.theverge.com/2023/5/9/23717618/meta-metaverse-creators-horizon-worlds-events)
- - [Twitter upgrades DM replies, Musk claims encrypted DMs launch on Wednesday](https://www.theverge.com/2023/5/9/23717734/twitter-dm-replies-emoji-elon-musk-encrypted-direct-messages)
- - [Every known Apple TV+ show cancelation so far](https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter upgrades DM replies, Musk claims encrypted DMs launch on Wednesday](https://www.theverge.com/2023/5/9/23717734/twitter-dm-replies-emoji-elon-musk-encrypted-direct-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
