@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A critique of a16z&#39;s State of Crypto 2023 report, which seems to be an exercise in propaganda with the sole goal of bolstering the VC firm&#39;s bottom line &lpar;Molly White&rpar;](http://www.techmeme.com/230510/p5#a230510p5)
- - [Sources: Jump Crypto and Jane Street are pulling back from US crypto trading over regulatory uncertainty; Jump is expanding globally while Jane scales back &lpar;Bloomberg&rpar;](http://www.techmeme.com/230510/p4#a230510p4)
- - [This European Satellite Giant Is Coming for Starlink](https://www.wired.com/story/satellite-giant-eutelsat-starlink/)<!-- TECH:END -->
+ - [A look at Locksmith, which let Apple II users make duplications of floppy disks, kickstarting one of the earliest copy protection battles of the PC era &lpar;Laine Nooney/VICE&rpar;](http://www.techmeme.com/230510/p6#a230510p6)
+ - [MediaTek Dimensity 9200 Plus launched: A Snapdragon 8 Gen 2 for Galaxy rival](https://www.androidauthority.com/mediatek-dimensity-9200-plus-3322566/)
+ - [A critique of a16z&#39;s State of Crypto 2023 report, which seems to be an exercise in propaganda with the sole goal of bolstering the VC firm&#39;s bottom line &lpar;Molly White&rpar;](http://www.techmeme.com/230510/p5#a230510p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
