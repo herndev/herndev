@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals Pixel Fold early in unlisted ad](https://www.theverge.com/2023/5/10/23718037/google-pixel-fold-early-preview-video-ad-nba-basketball)
- - [A look at Locksmith, which let Apple II users make duplications of floppy disks, kickstarting one of the earliest copy protection battles of the PC era &lpar;Laine Nooney/VICE&rpar;](http://www.techmeme.com/230510/p6#a230510p6)
- - [MediaTek Dimensity 9200 Plus launched: A Snapdragon 8 Gen 2 for Galaxy rival](https://www.androidauthority.com/mediatek-dimensity-9200-plus-3322566/)<!-- TECH:END -->
+ - [Watch: Google jumps the gun, shows the Pixel Fold in all its glory](https://www.androidauthority.com/google-pixel-fold-video-ad-3322633/)
+ - [Chinese DRAM chipmaker ChangXin plans a Shanghai IPO, sources say after receiving assurances over exemptions from US export controls for its equipment &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p10#a230510p10)
+ - [OpenAI CEO Sam Altman will testify to Congress for the first time on May 16 over AI safeguards alongside IBM VP Christina Montgomery and professor Gary Marcus &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230510/p9#a230510p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
