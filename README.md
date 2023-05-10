@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - ⏩ [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
+ - 💣 [Possibly the greatest Indian movie scene!](http://9gag.com/gag/ajVxQnQ)
+ - ⏩ [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - 👉 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 ---
 
