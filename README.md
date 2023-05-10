@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollow Knight: Silksong has been delayed](https://www.theverge.com/2023/5/9/23717855/hollow-knight-silksong-delayed)
- - [UVeye, which uses computer vision and AI for vehicle inspections, raised a $100M Series D led by Hanaco VC, a source says at an ~$800M valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230509/p46#a230509p46)
- - [Twitter lets users reply directly to any DM with a threaded message and react to messages with a wider range of emojis &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/230509/p45#a230509p45)<!-- TECH:END -->
+ - [An investigation finds Google Maps isn&#39;t proactively deleting location data consistently when people visit abortion clinics, a year after Google said it would &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230509/p48#a230509p48)
+ - [Sources: India plans to reopen applications for incentives from a $10B semiconductor fund, after three companies for an initial 2022 effort show little progress &lpar;Bloomberg&rpar;](http://www.techmeme.com/230509/p47#a230509p47)
+ - [Hollow Knight: Silksong has been delayed](https://www.theverge.com/2023/5/9/23717855/hollow-knight-silksong-delayed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
