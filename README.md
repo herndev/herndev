@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How old is Link? It’s... complicated](https://www.polygon.com/23717486/how-old-is-link-in-botw-2-age-legend-zelda-breath-wild-tears-kingdom-totk)
- - [Get Zelda: Tears of the Kingdom for $20 when you trade in two games at GameStop](https://www.polygon.com/deals/23718277/legend-of-zelda-tears-kingdom-gamestop-trade-in-pre-order-deal)
- - [US Navy Is Teaching Sea Lions To Play Video Games &lpar;This Is Fine&rpar;](https://kotaku.com/navy-sea-lions-dolphins-video-games-train-animals-play-1850423985)<!-- GAME:END -->
+ - [Mother’s Day is coming up, so here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
+ - [Ratchet &amp; Clank’s latest adventure highlights PlayStation Plus Extra for May](https://www.polygon.com/23718458/playstation-ps-plus-extra-games-may-2023-premium-collection)
+ - [Nintendo made a Zelda: Tears of the Kingdom ad about... midlife depression?](https://www.polygon.com/legend-zelda-tears-kingdom/23718362/zelda-tears-of-the-kingdom-totk-sad-bus-man-ad-botw-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
