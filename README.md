@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He must feel robbed.](http://9gag.com/gag/amAxXr4)
- - ⏩ [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)
+ - 💣 [Hmm](http://9gag.com/gag/aQEAwXK)
+ - ⏩ [She got balls!](http://9gag.com/gag/aXn45Xg)
  - 👉 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
 
 ---
