@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Old Harmless Pranks..!!](http://9gag.com/gag/a9qmbNL)
- - ⏩ [Many citizens of Kaliningrad want to secede from Moscow, rename Kaliningrad K\u00f6nigberg again and proclaim a new Baltic republic.](http://9gag.com/gag/armxe6X)
- - 👉 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/az2G6db)
+ - ⏩ [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
 
 ---
 
