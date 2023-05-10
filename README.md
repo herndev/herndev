@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Neural Texture Compression technology should alleviate VRAM concerns](https://www.pcgamer.com/nvidias-neural-texture-compression-technology-should-alleviate-vram-concerns)
- - [Today&#39;s Wordle hint and answer #690: Wednesday, May 10](https://www.pcgamer.com/wordle-today-hint-answer-690-may-10)
- - [What time does Zelda: Tears of the Kingdom release?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/2023/5/10/23709285/release-time-us-east-coast-west-coast-uk-europe-preload)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 prequel comic announced for Free Comic Book Day](https://blog.playstation.com/2023/05/09/20230510-spiderman/)
+ - [Intel&#39;s Meteor Lake iGPU is set to shake up the entry level GPU market](https://www.pcgamer.com/intels-meteor-lake-igpu-is-set-to-shake-up-the-entry-level-gpu-market)
+ - [Nvidia&#39;s Neural Texture Compression technology should alleviate VRAM concerns](https://www.pcgamer.com/nvidias-neural-texture-compression-technology-should-alleviate-vram-concerns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
