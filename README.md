@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An unconventional one but still an important lesson...](https://www.reddit.com/r/funny/comments/13dn194/an_unconventional_one_but_still_an_important/)
- - ⏩ [Wtf](http://9gag.com/gag/aBdERYQ)
- - 👉 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)<!-- MEMES:END -->
+ - 💣 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
+ - ⏩ [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
+ - 👉 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)<!-- MEMES:END -->
 
 ---
 
