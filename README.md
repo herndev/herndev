@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will always be men](http://9gag.com/gag/aeQx3mv)
- - ⏩ [Such a stupid trend](http://9gag.com/gag/a2KDEAe)
- - 👉 [What have we become\u2026](http://9gag.com/gag/a3ZyoW1)<!-- MEMES:END -->
+ - 💣 [What a narcissistic woman](http://9gag.com/gag/amAxXG2)
+ - ⏩ [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 👉 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)<!-- MEMES:END -->
 
 ---
 
