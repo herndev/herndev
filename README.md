@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hollow Knight: Silksong may be delayed, has &#39;gotten quite big&#39;](https://www.pcgamer.com/hollow-knight-silksong-may-be-delayed-has-gotten-quite-big)
  - [RIP Frank Kozik, 1962-2023](https://kotaku.com/frank-kozik-rip-mans-ruin-poster-art-90s-nirvana-death-1850422269)
- - [Hollow Knight&#39;s Sequel Has Been Delayed](https://kotaku.com/hollow-knight-silksong-sequel-delayed-delay-2023-1850422291)
- - [Total War: Warhammer 3 roadmap outlines the next year of DLC and updates](https://www.pcgamer.com/total-war-warhammer-3-roadmap-outlines-the-next-year-of-dlc-and-updates)<!-- GAME:END -->
+ - [Hollow Knight&#39;s Sequel Has Been Delayed](https://kotaku.com/hollow-knight-silksong-sequel-delayed-delay-2023-1850422291)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
