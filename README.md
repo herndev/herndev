@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance postpones opening TikTok Shop to US sellers, planned for spring, to June at the earliest after the service struggled to attract merchants &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230510/p15#a230510p15)
- - [Binance launches Capital Connect to connect VIP clients and investment fund managers; the exchange has 128M users, of which VIPs are a &quot;very small percentage&quot; &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230510/p14#a230510p14)
- - [Uber launches flight bookings in the UK as a trial for other markets](https://www.theverge.com/2023/5/10/23718072/uber-launches-flight-booking-tool-uk-travel-super-app)<!-- TECH:END -->
+ - [A Binance executive says recent US crypto actions have been &quot;very confusing&quot; and the exchange will do &quot;everything we possibly can&quot; to be regulated in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p18#a230510p18)
+ - [Your Roku smart TV can now help protect your home](https://www.theverge.com/2023/5/10/23717697/roku-smart-tv-home-security-system-price-release-date)
+ - [Couples can now make Etsy wedding registries](https://www.theverge.com/2023/5/10/23717532/etsy-wedding-registry-feature-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
