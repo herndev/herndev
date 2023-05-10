@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter lets users reply directly to any DM with a threaded message and react to messages with a wider range of emojis &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/230509/p45#a230509p45)
- - [Meta is making life even harder for its metaverse creators](https://www.theverge.com/2023/5/9/23717618/meta-metaverse-creators-horizon-worlds-events)
- - [Twitter upgrades DM replies, Musk claims encrypted DMs launch on Wednesday](https://www.theverge.com/2023/5/9/23717734/twitter-dm-replies-emoji-elon-musk-encrypted-direct-messages)<!-- TECH:END -->
+ - [Hollow Knight: Silksong has been delayed](https://www.theverge.com/2023/5/9/23717855/hollow-knight-silksong-delayed)
+ - [UVeye, which uses computer vision and AI for vehicle inspections, raised a $100M Series D led by Hanaco VC, a source says at an ~$800M valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230509/p46#a230509p46)
+ - [Twitter lets users reply directly to any DM with a threaded message and react to messages with a wider range of emojis &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/230509/p45#a230509p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
