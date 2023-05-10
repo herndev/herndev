@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch: Google jumps the gun, shows the Pixel Fold in all its glory](https://www.androidauthority.com/google-pixel-fold-video-ad-3322633/)
- - [Chinese DRAM chipmaker ChangXin plans a Shanghai IPO, sources say after receiving assurances over exemptions from US export controls for its equipment &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p10#a230510p10)
- - [OpenAI CEO Sam Altman will testify to Congress for the first time on May 16 over AI safeguards alongside IBM VP Christina Montgomery and professor Gary Marcus &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230510/p9#a230510p9)<!-- TECH:END -->
+ - [Stop us if you&#39;ve heard this before: There&#39;s a new Apple Silicon killer in town](https://appleinsider.com/articles/23/05/10/stop-us-if-youve-head-this-before-theres-a-new-apple-silicon-killer-in-town?utm_medium=rss)
+ - [70mai Dash Cam Omni Review: Useful A.I. car safety, but a challenging install](https://appleinsider.com/articles/23/05/10/70mai-dash-cam-omni-review-useful-ai-car-safety-but-a-challenging-install?utm_medium=rss)
+ - [A US judge dismissed a shareholder lawsuit against Block over its 2021 Tidal acquisition, saying the company was &quot;free to make a terrible business decision&quot; &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230510/p12#a230510p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
