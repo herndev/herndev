@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still more real than your gf](http://9gag.com/gag/aA0MY2Z)
- - ⏩ [The State Duma is demanding that the animated series Family Guy be banned for its episode about Chelyabinsk, because it allegedly offends Chelyabinsk.](http://9gag.com/gag/a8qeWgd)
- - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
+ - 💣 [Men will always be men](http://9gag.com/gag/aeQx3mv)
+ - ⏩ [Such a stupid trend](http://9gag.com/gag/a2KDEAe)
+ - 👉 [What have we become\u2026](http://9gag.com/gag/a3ZyoW1)<!-- MEMES:END -->
 
 ---
 
