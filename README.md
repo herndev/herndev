@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds Google Maps isn&#39;t proactively deleting location data consistently when people visit abortion clinics, a year after Google said it would &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230509/p48#a230509p48)
- - [Sources: India plans to reopen applications for incentives from a $10B semiconductor fund, after three companies for an initial 2022 effort show little progress &lpar;Bloomberg&rpar;](http://www.techmeme.com/230509/p47#a230509p47)
- - [Hollow Knight: Silksong has been delayed](https://www.theverge.com/2023/5/9/23717855/hollow-knight-silksong-delayed)<!-- TECH:END -->
+ - [Get Apple&#39;s MacBook Pro 14-inch &lpar;M1 Max, 64GB RAM, 2TB SSD&rpar; for $2,499 today only](https://appleinsider.com/articles/23/05/10/get-apples-macbook-pro-14-inch-m1-max-64gb-ram-2tb-ssd-for-2499-today-only?utm_medium=rss)
+ - [An interview with Airbnb CEO Brian Chesky on the revamped Rooms feature, flexible work arrangements, the future of AI, inspiration from Apple, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230510/p1#a230510p1)
+ - [An investigation finds Google Maps isn&#39;t proactively deleting location data consistently when people visit abortion clinics, a year after Google said it would &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230509/p48#a230509p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
