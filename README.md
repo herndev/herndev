@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3 roadmap outlines the next year of DLC and updates](https://www.pcgamer.com/total-war-warhammer-3-roadmap-outlines-the-next-year-of-dlc-and-updates)
- - [Nintendo is so desperate to smite Zelda leaks it DMCAed a legitimate streamer](https://www.pcgamer.com/nintendo-is-so-desperate-to-smite-zelda-leaks-it-dmcaed-a-legitimate-streamer)
- - [Nintendo&#39;s New Zelda Trailer Is A Very Sad Movie [Update]](https://kotaku.com/zelda-tears-kingdom-nintendo-trailer-new-switch-oled-1850421966)<!-- GAME:END -->
+ - [RIP Frank Kozik, 1962-2023](https://kotaku.com/frank-kozik-rip-mans-ruin-poster-art-90s-nirvana-death-1850422269)
+ - [Hollow Knight&#39;s Sequel Has Been Delayed](https://kotaku.com/hollow-knight-silksong-sequel-delayed-delay-2023-1850422291)
+ - [Total War: Warhammer 3 roadmap outlines the next year of DLC and updates](https://www.pcgamer.com/total-war-warhammer-3-roadmap-outlines-the-next-year-of-dlc-and-updates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
