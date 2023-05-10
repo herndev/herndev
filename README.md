@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - ⏩ [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - 👉 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)<!-- MEMES:END -->
+ - 💣 [Still more real than your gf](http://9gag.com/gag/aA0MY2Z)
+ - ⏩ [The State Duma is demanding that the animated series Family Guy be banned for its episode about Chelyabinsk, because it allegedly offends Chelyabinsk.](http://9gag.com/gag/a8qeWgd)
+ - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
 
 ---
 
