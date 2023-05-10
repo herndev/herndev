@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Man Jailed For Life After Beating Neighbour To Death With Bag Of Pokémon Cards](https://kotaku.com/pokemon-card-murder-death-britain-bag-andrew-hague-bbc-1850421839)
- - [Make famous VTubers fight in this surprise Steam hit](https://www.pcgamer.com/make-famous-vtubers-fight-in-this-surprise-steam-hit)
- - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)<!-- GAME:END -->
+ - [Nintendo is so desperate to smite Zelda leaks it DMCAed a legitimate streamer](https://www.pcgamer.com/nintendo-is-so-desperate-to-smite-zelda-leaks-it-dmcaed-a-legitimate-streamer)
+ - [Nintendo&#39;s New Zelda Trailer Is A Very Sad Movie [Update]](https://kotaku.com/zelda-tears-kingdom-nintendo-trailer-new-switch-oled-1850421966)
+ - [Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/09/big-games-big-deals-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
