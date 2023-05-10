@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good Omens is coming back for a new season this summer](https://www.polygon.com/23718643/good-omens-season-2-release-date-cast-news)
- - [Adobe&#39;s generative AI art tool and Google Bard are joining forces](https://www.pcgamer.com/adobes-generative-ai-art-tool-and-google-bard-are-joining-forces)
- - [The best of BTS on Disney Plus](https://www.polygon.com/what-to-watch/23715613/bts-best-disney-plus-streaming-concerts-documentaries)<!-- GAME:END -->
+ - [Bungie tracks down another Destiny 2 cheat maker, hammers him for $16.2M](https://www.pcgamer.com/bungie-tracks-down-another-destiny-2-cheat-maker-hammers-him-for-dollar162m)
+ - [Everything we know about Fortnite Chapter 4 Season 3](https://www.pcgamer.com/fortnite-chapter-4-season-3)
+ - [Hogwarts Legacy&#39;s new last-gen port is actually prettier in some ways](https://www.pcgamer.com/hogwarts-legacys-new-last-gen-version-is-actually-prettier-in-some-ways)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
