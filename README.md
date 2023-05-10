@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Binance executive says recent US crypto actions have been &quot;very confusing&quot; and the exchange will do &quot;everything we possibly can&quot; to be regulated in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p18#a230510p18)
- - [Your Roku smart TV can now help protect your home](https://www.theverge.com/2023/5/10/23717697/roku-smart-tv-home-security-system-price-release-date)
- - [Couples can now make Etsy wedding registries](https://www.theverge.com/2023/5/10/23717532/etsy-wedding-registry-feature-gifts)<!-- TECH:END -->
+ - [Apple has updated Shazam to add integration with Apple Music Classical](https://appleinsider.com/articles/23/05/10/apple-has-updated-shazam-to-add-integration-with-apple-music-classical?utm_medium=rss)
+ - [Tether reports a $1.5B net profit in Q1, $2.44B in excess reserves, and $81.8B+ in assets as of May 9, including $1.5B in bitcoin and $3.3B in precious metals &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230510/p21#a230510p21)
+ - [Improve Your Sleep With Up to $900 Off New Mattresses     - CNET](https://www.cnet.com/deals/improve-your-sleep-with-up-to-900-off-new-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
