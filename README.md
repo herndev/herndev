@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a narcissistic woman](http://9gag.com/gag/amAxXG2)
- - ⏩ [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 👉 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)<!-- MEMES:END -->
+ - 💣 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
+ - ⏩ [Wtf](http://9gag.com/gag/aBdERYQ)
+ - 👉 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
 
 ---
 
