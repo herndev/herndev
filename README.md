@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk responded to tweets that called a mass shooting in Texas a &quot;psyop&quot;, remarking himself the case was &quot;very strange&quot; and &quot;gets weirder by the moment&quot; &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/230509/p41#a230509p41)
- - [UK citizen Joseph James O&#39;Connor, aka PlugwalkJoe, pleads guilty for his role in the July 2020 Twitter hack affecting high-profile accounts and other crimes &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230509/p40#a230509p40)
- - [Honkai: Star Rail – Every currency and where to get them](https://www.androidauthority.com/honkai-star-rail-currency-3322361/)<!-- TECH:END -->
+ - [Elon Musk said Twitter has not signed a deal &quot;of any kind whatsoever&quot; with Tucker Carlson and he will be subject to the same rules as all content creators &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230509/p43#a230509p43)
+ - [Google Chrome Brings Better AI Brains to the Web     - CNET](https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/#ftag=CAD590a51e)
+ - [Logitech A30 The Mandalorian Edition review: This is the way](https://appleinsider.com/articles/23/05/09/logitech-a30-the-mandalorian-edition-review-this-is-the-way?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
