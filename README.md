@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)
- - ⏩ [US politicians doing their new theocracy thingy...](http://9gag.com/gag/aKE8wbj)
- - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
+ - 💣 [An unconventional one but still an important lesson...](https://www.reddit.com/r/funny/comments/13dn194/an_unconventional_one_but_still_an_important/)
+ - ⏩ [Wtf](http://9gag.com/gag/aBdERYQ)
+ - 👉 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)<!-- MEMES:END -->
 
 ---
 
