@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still more real than your gf](http://9gag.com/gag/aA0MY2Z)
- - ⏩ [Dog thought he was alone](http://9gag.com/gag/aKE84bg)
- - 👉 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
+ - 💣 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)
+ - ⏩ [US politicians doing their new theocracy thingy...](http://9gag.com/gag/aKE8wbj)
+ - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
 
 ---
 
