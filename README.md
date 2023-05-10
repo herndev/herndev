@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google shows AI features coming to Search, including an &quot;AI Snapshot&quot;, which provides a summary of search results, with links that &quot;corroborate&quot; the information &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230510/p32#a230510p32)
- - [Google Bard gains a huge upgrade thanks to PaLM 2](https://www.androidauthority.com/google-palm-2-bard-3323103/)
- - [The AI takeover of Google Search starts now](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)<!-- TECH:END -->
+ - [Google makes generative AI tools in English available to Play Store developers, including to make a draft for the app listing and to summarize user reviews &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230510/p45#a230510p45)
+ - [Google Pixel Tablet poll: Hot or not?](https://www.androidauthority.com/google-pixel-tablet-poll-hot-not-3321664/)
+ - [With the Pixel 7a launch, now has never been a better time to buy a Pixel 7](https://www.androidauthority.com/pixel-7-or-pixel-7a-opinion-3320273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
