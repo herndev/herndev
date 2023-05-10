@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes generative AI tools in English available to Play Store developers, including to make a draft for the app listing and to summarize user reviews &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230510/p45#a230510p45)
- - [Google Pixel Tablet poll: Hot or not?](https://www.androidauthority.com/google-pixel-tablet-poll-hot-not-3321664/)
- - [With the Pixel 7a launch, now has never been a better time to buy a Pixel 7](https://www.androidauthority.com/pixel-7-or-pixel-7a-opinion-3320273/)<!-- TECH:END -->
+ - [Waiting for a Google AirTag? Chipolo Find My Device trackers have you covered](https://www.androidauthority.com/chipolo-one-point-card-point-find-my-device-3323420/)
+ - [Google and Taito are teaming up on an AR Space Invaders game](https://www.theverge.com/2023/5/10/23719104/space-invaders-world-defense-real-world-ar-game-google)
+ - [Amazon Just Revamped Its Two Credit Cards -- And Their New Features Are Hard to Beat     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-best-cards-for-amazon-shopping-get-new-rewards-and-a-better-welcome-offer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
