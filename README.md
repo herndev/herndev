@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/az2G6db)
- - ⏩ [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 💣 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
+ - ⏩ [Lol](http://9gag.com/gag/az2G6db)
  - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
 
 ---
