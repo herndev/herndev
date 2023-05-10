@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This European Satellite Giant Is Coming for Starlink](https://www.wired.com/story/satellite-giant-eutelsat-starlink/)
- - [Uber launches flight bookings on its UK app in partnership with travel booking company Hopper as part of its efforts to become a travel &quot;super app&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p3#a230510p3)
- - [Over $150 off the Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
+ - [A critique of a16z&#39;s State of Crypto 2023 report, which seems to be an exercise in propaganda with the sole goal of bolstering the VC firm&#39;s bottom line &lpar;Molly White&rpar;](http://www.techmeme.com/230510/p5#a230510p5)
+ - [Sources: Jump Crypto and Jane Street are pulling back from US crypto trading over regulatory uncertainty; Jump is expanding globally while Jane scales back &lpar;Bloomberg&rpar;](http://www.techmeme.com/230510/p4#a230510p4)
+ - [This European Satellite Giant Is Coming for Starlink](https://www.wired.com/story/satellite-giant-eutelsat-starlink/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
