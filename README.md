@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Diablo 4 Sorcerer build: Hydra Lightning for damage and mobility](https://www.pcgamer.com/best-diablo-4-sorcerer-build)
- - [Hollow Knight: Silksong has been delayed](https://www.polygon.com/23718068/hollow-knight-silksong-release-date-delay)
- - [MrBeast bought up a bunch of houses for his employees and family to live in](https://www.pcgamer.com/mrbeast-bought-up-a-bunch-of-houses-for-his-employees-and-family-to-live-in)<!-- GAME:END -->
+ - [Steam Up serves a dim sum board game for Chinese immigrant families — like mine](https://www.polygon.com/tabletop-games/23710294/steam-up-dim-sum-board-game-review)
+ - [Publisher calls out Metacritic after hit indie JRPG gets inexplicably review bombed](https://www.pcgamer.com/publisher-calls-out-metacritic-after-hit-indie-jrpg-gets-inexplicably-review-bombed)
+ - [This new Star Wars TCG is ready to go toe-to-toe with Magic: The Gathering](https://www.pcgamer.com/this-new-star-wars-tcg-is-raring-to-go-toe-to-toe-with-magic-the-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
