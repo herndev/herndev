@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darkest Dungeon 2 review](https://www.pcgamer.com/darkest-dungeon-2-review)
- - [Beetlejuice 2, with Jenna Ortega and Michael Keaton, confirmed for 2024](https://www.polygon.com/23718229/beetlejuice-2-release-date-cast-jenna-ortega)
- - [Best Diablo 4 Barbarian build: Rend enemies and bleed bosses](https://www.pcgamer.com/best-diablo-4-barbarian-build)<!-- GAME:END -->
+ - [How old is Link? It’s... complicated](https://www.polygon.com/23717486/how-old-is-link-in-botw-2-age-legend-zelda-breath-wild-tears-kingdom-totk)
+ - [Get Zelda: Tears of the Kingdom for $20 when you trade in two games at GameStop](https://www.polygon.com/deals/23718277/legend-of-zelda-tears-kingdom-gamestop-trade-in-pre-order-deal)
+ - [US Navy Is Teaching Sea Lions To Play Video Games &lpar;This Is Fine&rpar;](https://kotaku.com/navy-sea-lions-dolphins-video-games-train-animals-play-1850423985)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
