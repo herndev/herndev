@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s MacBook Pro 14-inch &lpar;M1 Max, 64GB RAM, 2TB SSD&rpar; for $2,499 today only](https://appleinsider.com/articles/23/05/10/get-apples-macbook-pro-14-inch-m1-max-64gb-ram-2tb-ssd-for-2499-today-only?utm_medium=rss)
- - [An interview with Airbnb CEO Brian Chesky on the revamped Rooms feature, flexible work arrangements, the future of AI, inspiration from Apple, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230510/p1#a230510p1)
- - [An investigation finds Google Maps isn&#39;t proactively deleting location data consistently when people visit abortion clinics, a year after Google said it would &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230509/p48#a230509p48)<!-- TECH:END -->
+ - [This European Satellite Giant Is Coming for Starlink](https://www.wired.com/story/satellite-giant-eutelsat-starlink/)
+ - [Uber launches flight bookings on its UK app in partnership with travel booking company Hopper as part of its efforts to become a travel &quot;super app&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230510/p3#a230510p3)
+ - [Over $150 off the Tab S8 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
