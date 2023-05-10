@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop us if you&#39;ve heard this before: There&#39;s a new Apple Silicon killer in town](https://appleinsider.com/articles/23/05/10/stop-us-if-youve-head-this-before-theres-a-new-apple-silicon-killer-in-town?utm_medium=rss)
- - [70mai Dash Cam Omni Review: Useful A.I. car safety, but a challenging install](https://appleinsider.com/articles/23/05/10/70mai-dash-cam-omni-review-useful-ai-car-safety-but-a-challenging-install?utm_medium=rss)
- - [A US judge dismissed a shareholder lawsuit against Block over its 2021 Tidal acquisition, saying the company was &quot;free to make a terrible business decision&quot; &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230510/p12#a230510p12)<!-- TECH:END -->
+ - [Sources: ByteDance postpones opening TikTok Shop to US sellers, planned for spring, to June at the earliest after the service struggled to attract merchants &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230510/p15#a230510p15)
+ - [Binance launches Capital Connect to connect VIP clients and investment fund managers; the exchange has 128M users, of which VIPs are a &quot;very small percentage&quot; &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230510/p14#a230510p14)
+ - [Uber launches flight bookings in the UK as a trial for other markets](https://www.theverge.com/2023/5/10/23718072/uber-launches-flight-booking-tool-uk-travel-super-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
