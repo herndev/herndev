@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie is brutally nerfing Destiny 2&#39;s best Warlock build &lpar;but also cooking up some spicy buffs&rpar;](https://www.pcgamer.com/bungie-is-brutally-nerfing-destiny-2s-best-warlock-build-but-also-cooking-up-some-spicy-buffs)
  - [Bungie tracks down another Destiny 2 cheat maker, hammers him for $16.2M](https://www.pcgamer.com/bungie-tracks-down-another-destiny-2-cheat-maker-hammers-him-for-dollar162m)
- - [Everything we know about Fortnite Chapter 4 Season 3](https://www.pcgamer.com/fortnite-chapter-4-season-3)
- - [Hogwarts Legacy&#39;s new last-gen port is actually prettier in some ways](https://www.pcgamer.com/hogwarts-legacys-new-last-gen-version-is-actually-prettier-in-some-ways)<!-- GAME:END -->
+ - [Everything we know about Fortnite Chapter 4 Season 3](https://www.pcgamer.com/fortnite-chapter-4-season-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
