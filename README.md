@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Games To Play After Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-fallen-order-games-like-similar-1850426511)
- - [Latest Overwatch 2 Patch Accidentally Broke Two Tank Heroes](https://kotaku.com/overwatch-2-doomfist-sigma-tank-bug-competitive-ban-1850428100)
- - [Free Play Days – Just Die Already, Dragon Ball Xenoverse 2, Hunting Simulator 2, and Overcooked! All You Can Eat](https://news.xbox.com/en-us/2023/05/11/free-play-days-just-die-already-dragon-ball-xenoverse-2-hunting-simulator-2-and-overcooked/)<!-- GAME:END -->
+ - [Can AI actually write good fanfiction?](https://www.polygon.com/23718816/ai-fanfiction-artificial-intelligence-chatgpt-supernatural-destiel-harry-potter-bing-bard)
+ - [Zelda: Breath of the Wild fan makes Guardian Sword++ out of stained glass](https://www.polygon.com/23717593/zelda-breath-of-the-wild-guardian-sword-stained-glass)
+ - [Do I need to play Breath of the Wild before Tears of the Kingdom?](https://www.polygon.com/legend-zelda-tears-kingdom/23719659/zelda-tears-kingdom-breath-wild-botw-2-need-to-play-before-totk-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
