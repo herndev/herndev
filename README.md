@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
- - ⏩ [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
- - 👉 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
+ - 💣 [Men will always be men](http://9gag.com/gag/aeQx3mv)
+ - ⏩ [Confused](http://9gag.com/gag/aeQx0gj)
+ - 👉 [`MaLe pRiViLeGe`](http://9gag.com/gag/ajVxYZp)<!-- MEMES:END -->
 
 ---
 
