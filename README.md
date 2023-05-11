@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus confirms the ROG Ally will start at $600 — if you can wait till Q3](https://www.theverge.com/2023/5/11/23719843/asus-rog-ally-price-release-date)
- - [Netflix canceled its in-person upfront, probably to avoid the WGA’s picket lines](https://www.theverge.com/2023/5/11/23719691/netflix-upfront-wga-strike-nypd)
- - [Small developers saw a 71% increase in App Store revenue over the past two years](https://appleinsider.com/articles/23/05/11/small-developers-saw-a-71-increase-in-revenue-over-the-past-two-years?utm_medium=rss)<!-- TECH:END -->
+ - [Historic Apple check signed by Steve Jobs fetches giant diamond prices](https://appleinsider.com/articles/23/05/11/historic-apple-check-signed-by-steve-jobs-fetches-giant-diamond-prices?utm_medium=rss)
+ - [Chinese chipmaker SMIC reports Q1 revenue down 20.6% YoY to $1.46B and net income down 48.3% YoY to $231.1M, both beating analyst estimates &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/230511/p26#a230511p26)
+ - [&#39;The Legend of Zelda: Tears of the Kingdom&#39; Isn’t a Revolution—It’s an Evolution](https://www.wired.com/story/legend-of-zelda-tears-of-the-kingdom-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
