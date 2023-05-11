@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)
- - [Today&#39;s Wordle hint and answer #691: Thursday, May 11](https://www.pcgamer.com/wordle-today-hint-answer-691-may-11)
- - [I can&#39;t stop playing this autobattling strategy masterpiece](https://www.pcgamer.com/i-cant-stop-playing-this-autobattling-strategy-masterpiece)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)
+ - [Today&#39;s Wordle hint and answer #691: Thursday, May 11](https://www.pcgamer.com/wordle-today-hint-answer-691-may-11)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
