@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)
- - ⏩ [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 👉 [Body blender slide](http://9gag.com/gag/agoxvng)<!-- MEMES:END -->
+ - 💣 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - ⏩ [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 👉 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
 
 ---
 
