@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
+ - 💣 [If you know, you know](http://9gag.com/gag/agoxN9n)
  - ⏩ [To much text](http://9gag.com/gag/aKE8B46)
- - 👉 [Not even at gun point](http://9gag.com/gag/aDYb3EG)<!-- MEMES:END -->
+ - 👉 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)<!-- MEMES:END -->
 
 ---
 
