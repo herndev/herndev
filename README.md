@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Tel Aviv-based Rayzone, which quietly harvests ad data to help governments track people via their phones using its Echo tool, sold around the globe &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/230511/p17#a230511p17)
- - [Bellroy Laptop Caddy review: Well designed MacBook protective sleeve](https://appleinsider.com/articles/23/05/11/bellroy-laptop-caddy-review-well-designed-built-macbook-protective-sleeve?utm_medium=rss)
- - [Italian antitrust regulator AGCM opens an investigation into Apple over alleged App Store market abuse, a day after the EU sought details on Apple Pay &lpar;Alvise Armellini/Reuters&rpar;](http://www.techmeme.com/230511/p16#a230511p16)<!-- TECH:END -->
+ - [Daily Deals: MacBooks from $599, $300 off M2 Max MacBook Pro, $110 off Apple Studio Display, more](https://appleinsider.com/articles/23/05/11/daily-deals-macbooks-from-599-300-off-m2-max-macbook-pro-110-off-apple-studio-display-more?utm_medium=rss)
+ - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)
+ - [Small developers saw a 71% increase in revenue over the past two years](https://appleinsider.com/articles/23/05/11/small-developers-saw-a-71-increase-in-revenue-over-the-past-two-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
