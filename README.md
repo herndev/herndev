@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True 99%](http://9gag.com/gag/aVbZP2y)
- - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - 👉 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)<!-- MEMES:END -->
+ - 💣 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - ⏩ [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - 👉 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 ---
 
