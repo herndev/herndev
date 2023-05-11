@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EPA tightens pollution standards for power plants, with a big loophole for coal and gas](https://www.theverge.com/2023/5/11/23696054/epa-power-plant-emissions-rule-coal-gas-carbon-capture)
- - [SoftBank reports Vision Fund lost ~$2B in Q4, down from ~$16B in Q4 2022, leading to a ~$32B full-year loss; investments for the year to March fell to ~$3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230511/p8#a230511p8)
- - [A profile of Andreas Fink, a telecom expert whose services are used for attacking phone networks globally, including by Israeli disinformation unit Team Jorge &lpar;Haaretz&rpar;](http://www.techmeme.com/230511/p7#a230511p7)<!-- TECH:END -->
+ - [Android 14 Beta 2 arrives for Pixel phones, here’s what’s new](https://www.androidauthority.com/android-14-beta-2-3323622/)
+ - [Ireland-based Everseen, which uses computer vision to spot potential retail theft, raised a &amp;euro;65M Series A led by Crosspoint, taking its total funding to ~&amp;euro;82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230511/p10#a230511p10)
+ - [Fairbuds XL review: modular headphones designed to go the distance](https://www.theverge.com/23718035/fairbuds-xl-review-over-ear-noise-canceling-wireless-headphones-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
