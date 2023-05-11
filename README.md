@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
- - ⏩ [Body blender slide](http://9gag.com/gag/agoxvng)
- - 👉 [Stallone said, fck inclusion and wont use it in his films...blacklisted all actors/actresses that demands that sort bs in the industry.](http://9gag.com/gag/aMEz1OA)<!-- MEMES:END -->
+ - 💣 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
+ - ⏩ [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
+ - 👉 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 ---
 
