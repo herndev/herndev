@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jack Black’s animated ode to video games goes hard](https://www.polygon.com/23720112/jack-black-tenacious-d-video-games)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [CD Projekt&#39;s Witcher spinoff game is back on track with an &#39;updated direction&#39;](https://www.pcgamer.com/cd-projekts-witcher-spinoff-game-is-back-on-track-with-an-updated-direction)<!-- GAME:END -->
+ - [Ugly Sonic has got nothing on these new Crocs](https://www.polygon.com/deals/2023/5/11/23720205/sonic-sega-crocs-collection-announcement)
+ - [Don&#39;t miss grabbing a free Sims 4 DLC bundle this week](https://www.pcgamer.com/dont-miss-grabbing-a-free-sims-4-dlc-bundle-this-week)
+ - [How Vin Diesel convinced Fast X’s director to get on board after Justin Lin dropped out](https://www.polygon.com/23718974/fast-x-vin-diesel-dom-director-louis-leterrier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
