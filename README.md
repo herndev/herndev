@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
- - ⏩ [Lol](http://9gag.com/gag/az2G6db)
- - 👉 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
+ - 💣 [Body blender slide](http://9gag.com/gag/agoxvng)
+ - ⏩ [Stallone said, fck inclusion and wont use it in his films...blacklisted all actors/actresses that demands that sort bs in the industry.](http://9gag.com/gag/aMEz1OA)
+ - 👉 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
 
 ---
 
