@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘A Valorous Hero’ Timed, Special Research quest steps and event rewards](https://www.polygon.com/pokemon-go-guide/23719477/a-valorous-hero-special-research-quest-steps-event-rewards)
  - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)
- - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)
- - [Today&#39;s Wordle hint and answer #691: Thursday, May 11](https://www.pcgamer.com/wordle-today-hint-answer-691-may-11)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
