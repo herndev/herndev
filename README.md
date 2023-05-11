@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body blender slide](http://9gag.com/gag/agoxvng)
- - ⏩ [Cool !](http://9gag.com/gag/adPx6KN)
- - 👉 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
+ - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a5XzpbO)
+ - 👉 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
 
 ---
 
