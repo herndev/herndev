@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘A Valorous Hero’ Timed, Special Research quest steps and event rewards](https://www.polygon.com/pokemon-go-guide/23719477/a-valorous-hero-special-research-quest-steps-event-rewards)
- - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)
- - [&lpar;For Southeast Asia&rpar; Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/10/20230510-psstore/)<!-- GAME:END -->
+ - [Best Diablo 4 Necromancer build: Strengthen your minions and get thorny](https://www.pcgamer.com/best-diablo-4-necromancer-build)
+ - [Marvel&#39;s Guardians of the Galaxy is Steam Deck Verified and 70% off for the next few hours](https://www.pcgamer.com/marvels-guardians-of-the-galaxy-is-steam-deck-verified-and-70-off-for-the-next-few-hours)
+ - [Light up your gaming setup with Corsair iCUE Murals](https://www.pcgamer.com/light-up-your-gaming-setup-with-corsair-icue-murals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
