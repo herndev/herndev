@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
- - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
- - 👉 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
+ - 💣 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)
+ - ⏩ [To much text](http://9gag.com/gag/aKE8B46)
+ - 👉 [F_uck insurance companies](http://9gag.com/gag/anzxNg0)<!-- MEMES:END -->
 
 ---
 
