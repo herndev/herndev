@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Brady Snyder/XDA Developers&rpar;](http://www.techmeme.com/230510/p61#a230510p61)
- - [Twitter rolls out encrypted DMs, but both sender and recipient must be verified users, no support for group messages, and message metadata is not encrypted &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230510/p60#a230510p60)
- - [Twitter launches encrypted DMs behind a paywall](https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature)<!-- TECH:END -->
+ - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
+ - [Google&#39;s PaLM 2 paper is forthcoming on many of the LLM&#39;s major limitations, but doesn&#39;t reveal which data or hardware setup the company used to train the model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230510/p62#a230510p62)
+ - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Brady Snyder/XDA Developers&rpar;](http://www.techmeme.com/230510/p61#a230510p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
