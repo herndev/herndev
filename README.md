@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 Beta 2 arrives for Pixel phones, here’s what’s new](https://www.androidauthority.com/android-14-beta-2-3323622/)
- - [Ireland-based Everseen, which uses computer vision to spot potential retail theft, raised a &amp;euro;65M Series A led by Crosspoint, taking its total funding to ~&amp;euro;82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230511/p10#a230511p10)
- - [Fairbuds XL review: modular headphones designed to go the distance](https://www.theverge.com/23718035/fairbuds-xl-review-over-ear-noise-canceling-wireless-headphones-price)<!-- TECH:END -->
+ - [Sony’s new Xperia 1 V features upgraded camera hardware in a familiar design](https://www.theverge.com/2023/5/11/23719506/sonys-new-xperia-1-v-price-release-date-specs-features-exmor-t-sensor)
+ - [How to stop iPhone Notes from syncing to iCloud in iOS 16](https://appleinsider.com/articles/22/11/06/how-to-stop-iphone-notes-from-syncing-to-icloud-in-ios-16?utm_medium=rss)
+ - [Tech firms are increasingly hiring in South and Central America because remote hires there often accept lower pay than in the US but have similar time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/230511/p12#a230511p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
