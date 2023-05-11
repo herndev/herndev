@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)
- - ⏩ [To much text](http://9gag.com/gag/aKE8B46)
- - 👉 [F_uck insurance companies](http://9gag.com/gag/anzxNg0)<!-- MEMES:END -->
+ - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 👉 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)<!-- MEMES:END -->
 
 ---
 
