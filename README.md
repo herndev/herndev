@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk has found his replacement as CEO of Twitter](https://www.theverge.com/2023/5/11/23517090/elon-musk-twitter-ceo-replacement)
- - [Musk says he has found a CEO for X/Twitter and &quot;she will be starting in ~6 weeks&quot;; Musk will become &quot;exec chair &amp; CTO&quot; overseeing &quot;product, software &amp; sysops&quot; &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230511/p33#a230511p33)
- - [Unreal Engine developer tools get big update for Apple Silicon Macs](https://appleinsider.com/articles/23/05/11/unreal-engine-developer-tools-get-big-update-for-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch made it easier to edit clips for TikTok and YouTube Shorts](https://www.theverge.com/2023/5/11/23719547/twitch-clip-editor-tool-youtube-shorts-tiktok)
+ - [New Twitter CEO to start in six weeks, says Elon Musk](https://appleinsider.com/articles/23/05/11/new-twitter-ceo-to-start-in-six-weeks-says-elon-musk?utm_medium=rss)
+ - [Peloton recalls over 2 million bikes due to faulty seats](https://www.theverge.com/2023/5/11/23720231/peloton-recall-pl-01-bike-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
