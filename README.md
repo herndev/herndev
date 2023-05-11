@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Ally vs. Steam Deck: Which should you buy?](https://www.polygon.com/reviews/23718673/asus-rog-ally-review-steam-deck-what-to-buy)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Zelda: Tears Of The Kingdom Reviews Say It&#39;s Even Better Than Breath Of The Wild](https://kotaku.com/zelda-tears-of-the-kingdom-review-roundup-metacritic-1850427714)<!-- GAME:END -->
+ - [11 Games To Play After Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-fallen-order-games-like-similar-1850426511)
+ - [Latest Overwatch 2 Patch Accidentally Broke Two Tank Heroes](https://kotaku.com/overwatch-2-doomfist-sigma-tank-bug-competitive-ban-1850428100)
+ - [Free Play Days – Just Die Already, Dragon Ball Xenoverse 2, Hunting Simulator 2, and Overcooked! All You Can Eat](https://news.xbox.com/en-us/2023/05/11/free-play-days-just-die-already-dragon-ball-xenoverse-2-hunting-simulator-2-and-overcooked/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
