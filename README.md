@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can AI actually write good fanfiction?](https://www.polygon.com/23718816/ai-fanfiction-artificial-intelligence-chatgpt-supernatural-destiel-harry-potter-bing-bard)
- - [Zelda: Breath of the Wild fan makes Guardian Sword++ out of stained glass](https://www.polygon.com/23717593/zelda-breath-of-the-wild-guardian-sword-stained-glass)
- - [Do I need to play Breath of the Wild before Tears of the Kingdom?](https://www.polygon.com/legend-zelda-tears-kingdom/23719659/zelda-tears-kingdom-breath-wild-botw-2-need-to-play-before-totk-story)<!-- GAME:END -->
+ - [Valve Updates Steam’s Code Of Conduct, Bans Gambling](https://kotaku.com/valve-steam-gambling-csgo-skins-ban-1850428697)
+ - [Emma Stone is a reanimated corpse with the brain of a baby in Poor Things](https://www.polygon.com/23719792/poor-things-trailer-emma-stone-yorgos-lanthimos)
+ - [Zelda: Tears Of The Kingdom Fixes Some Of BotW’s Fumbles](https://kotaku.com/zelda-tears-kingdom-nintendo-switch-qol-fixes-totk-botw-1850428638)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
