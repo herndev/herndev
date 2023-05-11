@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge sentences Nickolas Sharp, who worked for IoT maker Ubiquiti, to six years in prison, rejecting claims that his data theft made the company safer &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/230511/p3#a230511p3)
- - [Google Pixel Tablet hands-on: Such a great idea](https://www.androidauthority.com/google-pixel-tablet-hands-on-3323546/)
- - [US livestream shopping sales are expected to hit $32B in 2023; PitchBook: investors poured $380M+ into US live shopping companies in 2022, up from $36M in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/230511/p2#a230511p2)<!-- TECH:END -->
+ - [The best Google Pixel 7a wireless chargers to spend your money on](https://www.androidauthority.com/best-google-pixel-7a-wireless-chargers-3321014/)
+ - [Microsoft released at least 48 security fixes for Windows and other software, including for two zero-day vulnerabilities under active exploitation &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230511/p6#a230511p6)
+ - [Documents and officials: the US is investigating if Rockwell Automation&#39;s software facility in China is exposing critical government assets to a cyberattack &lpar;Vivian Salama/Wall Street Journal&rpar;](http://www.techmeme.com/230511/p5#a230511p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
