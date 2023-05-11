@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industrial cybersecurity firm Dragos says a known cybercrime group gained access to its SharePoint cloud service on May 8 but didn&#39;t breach its internal network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230510/p63#a230510p63)
- - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
- - [Google&#39;s PaLM 2 paper is forthcoming on many of the LLM&#39;s major limitations, but doesn&#39;t reveal which data or hardware setup the company used to train the model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230510/p62#a230510p62)<!-- TECH:END -->
+ - [Some crypto miners, like Hive Blockchain and Hut 8 Mining, are repurposing their GPUs to power high-performance computing services for AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230511/p1#a230511p1)
+ - [Twitter’s Encrypted DMs Are Deeply Inferior to Signal and WhatsApp](https://www.wired.com/story/twitter-encrypted-dm-signal-whatsapp/)
+ - [Sony Xperia 1 V launched: The best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-v-launch-3322658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
