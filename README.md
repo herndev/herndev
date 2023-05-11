@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Interview: New Texas Chain Saw Massacre Game Could Redefine Asymmetrical Horror](https://kotaku.com/1974-texas-chainsaw-massacre-horror-video-game-dbd-1850429963)
- - [How do you like to play Zelda games?](https://www.polygon.com/zelda/23720263/zelda-tears-kingdom-totk-botw-2-length-how-long-avoid-spoilers)
- - [Um, Zelda: Tears Of The Kingdom’s Flamethrowing Dick Certainly Is A Thing](https://kotaku.com/nintendo-switch-tears-kingdom-ultrahand-fuse-totk-botw-1850429837)<!-- GAME:END -->
+ - [Is The Next Call Of Duty In Fact Modern Warfare 3? Maybe, Actually](https://kotaku.com/call-of-duty-modern-warfare-3-2-mw-sequel-1850430147)
+ - [Apex Legends player hits top rank without scoring a kill: &#39;I mean, that is just so dumb&#39;](https://www.pcgamer.com/apex-legends-player-hits-top-rank-without-scoring-a-kill-i-mean-that-is-just-so-dumb)
+ - [Disney Plus and Hulu are getting combined into one app &lpar;sorta&rpar;](https://www.polygon.com/23720382/disney-plus-hulu-one-app-subscriptions-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
