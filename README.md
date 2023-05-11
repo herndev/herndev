@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU lawmakers agree to ban facial recognition in public, limit predictive policing, and impose transparency on generative AI; EU Commission will finalize details &lpar;Reuters&rpar;](http://www.techmeme.com/230511/p14#a230511p14)
- - [Australian edtech startup Go1 acquires Berlin-based Blinkist, which offers 15-minute non-fiction book summaries, and raised $30M from Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230511/p13#a230511p13)
- - [How many software updates will the Google Pixel 7a get?](https://www.androidauthority.com/google-pixel-7a-software-updates-3320290/)<!-- TECH:END -->
+ - [A look at Tel Aviv-based Rayzone, which quietly harvests ad data to help governments track people via their phones using its Echo tool, sold around the globe &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/230511/p17#a230511p17)
+ - [Bellroy Laptop Caddy review: Well designed MacBook protective sleeve](https://appleinsider.com/articles/23/05/11/bellroy-laptop-caddy-review-well-designed-built-macbook-protective-sleeve?utm_medium=rss)
+ - [Italian antitrust regulator AGCM opens an investigation into Apple over alleged App Store market abuse, a day after the EU sought details on Apple Pay &lpar;Alvise Armellini/Reuters&rpar;](http://www.techmeme.com/230511/p16#a230511p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
