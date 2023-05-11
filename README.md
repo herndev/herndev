@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ugly Sonic has got nothing on these new Crocs](https://www.polygon.com/deals/2023/5/11/23720205/sonic-sega-crocs-collection-announcement)
- - [Don&#39;t miss grabbing a free Sims 4 DLC bundle this week](https://www.pcgamer.com/dont-miss-grabbing-a-free-sims-4-dlc-bundle-this-week)
- - [How Vin Diesel convinced Fast X’s director to get on board after Justin Lin dropped out](https://www.polygon.com/23718974/fast-x-vin-diesel-dom-director-louis-leterrier)<!-- GAME:END -->
+ - [Interview: New Texas Chain Saw Massacre Game Could Redefine Asymmetrical Horror](https://kotaku.com/1974-texas-chainsaw-massacre-horror-video-game-dbd-1850429963)
+ - [How do you like to play Zelda games?](https://www.polygon.com/zelda/23720263/zelda-tears-kingdom-totk-botw-2-length-how-long-avoid-spoilers)
+ - [Um, Zelda: Tears Of The Kingdom’s Flamethrowing Dick Certainly Is A Thing](https://kotaku.com/nintendo-switch-tears-kingdom-ultrahand-fuse-totk-botw-1850429837)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
