@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: the US Internal Revenue Service filed claims worth nearly $44B against FTX companies, including a $20.4B claim against Alameda in partnership taxes &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230510/p58#a230510p58)
- - [Google Pixel 7a review: the best midrange Android phone, with wireless charging and good performance, camera, and screen, but a slow fingerprint scanner &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230510/p57#a230510p57)
- - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230510/p56#a230510p56)<!-- TECH:END -->
+ - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Brady Snyder/XDA Developers&rpar;](http://www.techmeme.com/230510/p61#a230510p61)
+ - [Twitter rolls out encrypted DMs, but both sender and recipient must be verified users, no support for group messages, and message metadata is not encrypted &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230510/p60#a230510p60)
+ - [Twitter launches encrypted DMs behind a paywall](https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
