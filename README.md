@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New World of Warcraft specialization promises &#39;a playstyle never seen before&#39;](https://www.pcgamer.com/new-world-of-warcraft-specialization-promises-a-playstyle-never-seen-before)
  - [Is The Next Call Of Duty In Fact Modern Warfare 3? Maybe, Actually](https://kotaku.com/call-of-duty-modern-warfare-3-2-mw-sequel-1850430147)
- - [Apex Legends player hits top rank without scoring a kill: &#39;I mean, that is just so dumb&#39;](https://www.pcgamer.com/apex-legends-player-hits-top-rank-without-scoring-a-kill-i-mean-that-is-just-so-dumb)
- - [Disney Plus and Hulu are getting combined into one app &lpar;sorta&rpar;](https://www.polygon.com/23720382/disney-plus-hulu-one-app-subscriptions-content)<!-- GAME:END -->
+ - [Apex Legends player hits top rank without scoring a single kill: &#39;That is just so dumb&#39;](https://www.pcgamer.com/apex-legends-player-hits-top-rank-without-scoring-a-kill-i-mean-that-is-just-so-dumb)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
