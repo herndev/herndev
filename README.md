@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 22 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Google Pixel Fold vs Pixel 7 Pro: Which one should you buy?](https://www.androidauthority.com/google-pixel-fold-vs-pixel-7-pro-3321326/)
- - [Google Pixel Fold vs Samsung Galaxy Z Fold 4: Which one should you buy?](https://www.androidauthority.com/google-pixel-fold-vs-samsung-galaxy-z-fold-4-3321365/)<!-- TECH:END -->
+ - [Elon Musk has found his replacement as CEO of Twitter](https://www.theverge.com/2023/5/11/23517090/elon-musk-twitter-ceo-replacement)
+ - [Musk says he has found a CEO for X/Twitter and &quot;she will be starting in ~6 weeks&quot;; Musk will become &quot;exec chair &amp; CTO&quot; overseeing &quot;product, software &amp; sysops&quot; &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230511/p33#a230511p33)
+ - [Unreal Engine developer tools get big update for Apple Silicon Macs](https://appleinsider.com/articles/23/05/11/unreal-engine-developer-tools-get-big-update-for-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
