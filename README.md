@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Historic Apple check signed by Steve Jobs fetches giant diamond prices](https://appleinsider.com/articles/23/05/11/historic-apple-check-signed-by-steve-jobs-fetches-giant-diamond-prices?utm_medium=rss)
- - [Chinese chipmaker SMIC reports Q1 revenue down 20.6% YoY to $1.46B and net income down 48.3% YoY to $231.1M, both beating analyst estimates &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/230511/p26#a230511p26)
- - [&#39;The Legend of Zelda: Tears of the Kingdom&#39; Isn’t a Revolution—It’s an Evolution](https://www.wired.com/story/legend-of-zelda-tears-of-the-kingdom-review/)<!-- TECH:END -->
+ - [Apple seeds second release candidate for macOS Ventura 13.4](https://appleinsider.com/articles/23/05/11/apple-seeds-second-release-candidate-for-macos-ventura-134?utm_medium=rss)
+ - [The Pixel Tablet is half of what it could have been](https://www.theverge.com/2023/5/11/23718860/pixel-tablet-dock-missing-nest-speaker)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
