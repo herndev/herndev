@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former Bloodlines 2 developer acquired by Keywords Studios, will form part of its development support business](https://www.pcgamer.com/former-bloodlines-2-developer-acquired-by-keywords-studios-will-form-part-of-its-development-support-business)
  - [The Legend of Zelda: Tears of the Kingdom changes the conversation](https://www.polygon.com/reviews/23718684/zelda-tears-of-the-kingdom-review-switch-totk)
- - [Redfall would be better as a two-player game](https://www.pcgamer.com/redfall-would-be-better-as-a-two-player-game)
- - [Looks like the new Mortal Kombat game is going to be another reboot, called Mortal Kombat 1](https://www.pcgamer.com/looks-like-the-new-mortal-kombat-is-going-to-be-another-reboot)<!-- GAME:END -->
+ - [Redfall would be better as a two-player game](https://www.pcgamer.com/redfall-would-be-better-as-a-two-player-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
