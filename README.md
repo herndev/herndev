@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body blender slide](http://9gag.com/gag/agoxvng)
- - ⏩ [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - 👉 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)<!-- MEMES:END -->
+ - 💣 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - ⏩ [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
+ - 👉 [Traditional olive oil extraction ...](http://9gag.com/gag/a3Z8B0m)<!-- MEMES:END -->
 
 ---
 
