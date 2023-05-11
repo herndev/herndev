@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [69,99$ for a digital game is absurd](http://9gag.com/gag/aeQx0bb)
- - ⏩ [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
+ - 💣 [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
+ - ⏩ [To much text](http://9gag.com/gag/aKE8B46)
  - 👉 [Not even at gun point](http://9gag.com/gag/aDYb3EG)<!-- MEMES:END -->
 
 ---
