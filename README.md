@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new Xperia 1 V features upgraded camera hardware in a familiar design](https://www.theverge.com/2023/5/11/23719506/sonys-new-xperia-1-v-price-release-date-specs-features-exmor-t-sensor)
- - [How to stop iPhone Notes from syncing to iCloud in iOS 16](https://appleinsider.com/articles/22/11/06/how-to-stop-iphone-notes-from-syncing-to-icloud-in-ios-16?utm_medium=rss)
- - [Tech firms are increasingly hiring in South and Central America because remote hires there often accept lower pay than in the US but have similar time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/230511/p12#a230511p12)<!-- TECH:END -->
+ - [EU lawmakers agree to ban facial recognition in public, limit predictive policing, and impose transparency on generative AI; EU Commission will finalize details &lpar;Reuters&rpar;](http://www.techmeme.com/230511/p14#a230511p14)
+ - [Australian edtech startup Go1 acquires Berlin-based Blinkist, which offers 15-minute non-fiction book summaries, and raised $30M from Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230511/p13#a230511p13)
+ - [How many software updates will the Google Pixel 7a get?](https://www.androidauthority.com/google-pixel-7a-software-updates-3320290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
