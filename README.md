@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - ⏩ [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
- - 👉 [Traditional olive oil extraction ...](http://9gag.com/gag/a3Z8B0m)<!-- MEMES:END -->
+ - 💣 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
+ - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
+ - 👉 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
 
 ---
 
