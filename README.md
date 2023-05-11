@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: MacBooks from $599, $300 off M2 Max MacBook Pro, $110 off Apple Studio Display, more](https://appleinsider.com/articles/23/05/11/daily-deals-macbooks-from-599-300-off-m2-max-macbook-pro-110-off-apple-studio-display-more?utm_medium=rss)
- - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)
- - [Small developers saw a 71% increase in revenue over the past two years](https://appleinsider.com/articles/23/05/11/small-developers-saw-a-71-increase-in-revenue-over-the-past-two-years?utm_medium=rss)<!-- TECH:END -->
+ - [The best new streaming movies this week on Prime Video, Netflix, Hulu, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Google’s new Pixel 7A comes with free earbuds and a case or a $50 gift card](https://www.theverge.com/2023/5/11/23719575/google-pixel-7a-gigabyte-aero-xbox-elite-controller-humble-bundle-capcom-deal-sale)
+ - [Robinhood reported crypto trading revenue of $38M for Q1 2023, down ~30% YoY and 1% QoQ, and says it has ~$11.5B worth of crypto in assets, up 36% from Q4 2022 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230511/p21#a230511p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
