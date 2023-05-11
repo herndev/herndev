@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - ⏩ [25 years in prison for a crime he did not commit](http://9gag.com/gag/a5XzpbO)
- - 👉 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
+ - ⏩ [Passing through the highway next to the world&#39;s biggest statue](http://9gag.com/gag/aDYb3OZ)
+ - 👉 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)<!-- MEMES:END -->
 
 ---
 
