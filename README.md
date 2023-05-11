@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
- - 👉 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)<!-- MEMES:END -->
+ - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - ⏩ [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)
+ - 👉 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
 
 ---
 
