@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Body blender slide](http://9gag.com/gag/agoxvng)
- - ⏩ [Stallone said, fck inclusion and wont use it in his films...blacklisted all actors/actresses that demands that sort bs in the industry.](http://9gag.com/gag/aMEz1OA)
- - 👉 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
+ - ⏩ [Cool !](http://9gag.com/gag/adPx6KN)
+ - 👉 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 ---
 
