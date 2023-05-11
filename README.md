@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second release candidate for macOS Ventura 13.4](https://appleinsider.com/articles/23/05/11/apple-seeds-second-release-candidate-for-macos-ventura-134?utm_medium=rss)
- - [The Pixel Tablet is half of what it could have been](https://www.theverge.com/2023/5/11/23718860/pixel-tablet-dock-missing-nest-speaker)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [The 22 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Google Pixel Fold vs Pixel 7 Pro: Which one should you buy?](https://www.androidauthority.com/google-pixel-fold-vs-pixel-7-pro-3321326/)
+ - [Google Pixel Fold vs Samsung Galaxy Z Fold 4: Which one should you buy?](https://www.androidauthority.com/google-pixel-fold-vs-samsung-galaxy-z-fold-4-3321365/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
