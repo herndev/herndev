@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely did not mean to do that](http://9gag.com/gag/aYVMeQO)
- - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
- - 👉 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)<!-- MEMES:END -->
+ - 💣 [True 99%](http://9gag.com/gag/aVbZP2y)
+ - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 👉 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)<!-- MEMES:END -->
 
 ---
 
