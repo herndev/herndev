@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - ⏩ [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)
- - 👉 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
+ - 💣 [He definitely did not mean to do that](http://9gag.com/gag/aYVMeQO)
+ - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
+ - 👉 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)<!-- MEMES:END -->
 
 ---
 
