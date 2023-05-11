@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Prime Video, Netflix, Hulu, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Google’s new Pixel 7A comes with free earbuds and a case or a $50 gift card](https://www.theverge.com/2023/5/11/23719575/google-pixel-7a-gigabyte-aero-xbox-elite-controller-humble-bundle-capcom-deal-sale)
- - [Robinhood reported crypto trading revenue of $38M for Q1 2023, down ~30% YoY and 1% QoQ, and says it has ~$11.5B worth of crypto in assets, up 36% from Q4 2022 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230511/p21#a230511p21)<!-- TECH:END -->
+ - [Asus confirms the ROG Ally will start at $600 — if you can wait till Q3](https://www.theverge.com/2023/5/11/23719843/asus-rog-ally-price-release-date)
+ - [Netflix canceled its in-person upfront, probably to avoid the WGA’s picket lines](https://www.theverge.com/2023/5/11/23719691/netflix-upfront-wga-strike-nypd)
+ - [Small developers saw a 71% increase in App Store revenue over the past two years](https://appleinsider.com/articles/23/05/11/small-developers-saw-a-71-increase-in-revenue-over-the-past-two-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
