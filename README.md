@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for a Google AirTag? Chipolo Find My Device trackers have you covered](https://www.androidauthority.com/chipolo-one-point-card-point-find-my-device-3323420/)
- - [Google and Taito are teaming up on an AR Space Invaders game](https://www.theverge.com/2023/5/10/23719104/space-invaders-world-defense-real-world-ar-game-google)
- - [Amazon Just Revamped Its Two Credit Cards -- And Their New Features Are Hard to Beat     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-best-cards-for-amazon-shopping-get-new-rewards-and-a-better-welcome-offer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filings: the US Internal Revenue Service filed claims worth nearly $44B against FTX companies, including a $20.4B claim against Alameda in partnership taxes &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230510/p58#a230510p58)
+ - [Google Pixel 7a review: the best midrange Android phone, with wireless charging and good performance, camera, and screen, but a slow fingerprint scanner &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230510/p57#a230510p57)
+ - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230510/p56#a230510p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
