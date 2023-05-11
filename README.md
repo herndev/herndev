@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - ⏩ [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 👉 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)<!-- MEMES:END -->
+ - 💣 [69,99$ for a digital game is absurd](http://9gag.com/gag/aeQx0bb)
+ - ⏩ [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
+ - 👉 [Not even at gun point](http://9gag.com/gag/aDYb3EG)<!-- MEMES:END -->
 
 ---
 
