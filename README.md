@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Updates Steam’s Code Of Conduct, Bans Gambling](https://kotaku.com/valve-steam-gambling-csgo-skins-ban-1850428697)
- - [Emma Stone is a reanimated corpse with the brain of a baby in Poor Things](https://www.polygon.com/23719792/poor-things-trailer-emma-stone-yorgos-lanthimos)
- - [Zelda: Tears Of The Kingdom Fixes Some Of BotW’s Fumbles](https://kotaku.com/zelda-tears-kingdom-nintendo-switch-qol-fixes-totk-botw-1850428638)<!-- GAME:END -->
+ - [Hulu&#39;s New Anime Is The Last of Us Meets The Promised Neverland](https://kotaku.com/kotatsu-anime-corner-heavenly-delusion-hulu-disney-1850428741)
+ - [What to do with your PS5 when you’re not playing it this &lpar;or any&rpar; month](https://www.polygon.com/23719933/what-to-do-playstation-5-ps5-zelda-totk-tears-kingdom)
+ - [The Mario Movie Is So Successful Disney&#39;s Giving It Props](https://kotaku.com/mario-movie-guardians-nintendo-disney-minions-lightyear-1850429077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
