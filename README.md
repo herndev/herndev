@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some crypto miners, like Hive Blockchain and Hut 8 Mining, are repurposing their GPUs to power high-performance computing services for AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230511/p1#a230511p1)
- - [Twitter’s Encrypted DMs Are Deeply Inferior to Signal and WhatsApp](https://www.wired.com/story/twitter-encrypted-dm-signal-whatsapp/)
- - [Sony Xperia 1 V launched: The best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-v-launch-3322658/)<!-- TECH:END -->
+ - [A US judge sentences Nickolas Sharp, who worked for IoT maker Ubiquiti, to six years in prison, rejecting claims that his data theft made the company safer &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/230511/p3#a230511p3)
+ - [Google Pixel Tablet hands-on: Such a great idea](https://www.androidauthority.com/google-pixel-tablet-hands-on-3323546/)
+ - [US livestream shopping sales are expected to hit $32B in 2023; PitchBook: investors poured $380M+ into US live shopping companies in 2022, up from $36M in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/230511/p2#a230511p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
