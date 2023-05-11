@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - ⏩ [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 👉 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
+ - 💣 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)
+ - ⏩ [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)
+ - 👉 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 ---
 
