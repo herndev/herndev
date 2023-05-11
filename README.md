@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - 👉 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)<!-- MEMES:END -->
+ - 💣 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - ⏩ [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)
+ - 👉 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)<!-- MEMES:END -->
 
 ---
 
