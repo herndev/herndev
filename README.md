@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know](http://9gag.com/gag/agoxN9n)
- - ⏩ [To much text](http://9gag.com/gag/aKE8B46)
- - 👉 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)<!-- MEMES:END -->
+ - 💣 [Body blender slide](http://9gag.com/gag/agoxvng)
+ - ⏩ [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - 👉 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)<!-- MEMES:END -->
 
 ---
 
