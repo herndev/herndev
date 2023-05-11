@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hulu&#39;s New Anime Is The Last of Us Meets The Promised Neverland](https://kotaku.com/kotatsu-anime-corner-heavenly-delusion-hulu-disney-1850428741)
- - [What to do with your PS5 when you’re not playing it this &lpar;or any&rpar; month](https://www.polygon.com/23719933/what-to-do-playstation-5-ps5-zelda-totk-tears-kingdom)
- - [The Mario Movie Is So Successful Disney&#39;s Giving It Props](https://kotaku.com/mario-movie-guardians-nintendo-disney-minions-lightyear-1850429077)<!-- GAME:END -->
+ - [Jack Black’s animated ode to video games goes hard](https://www.polygon.com/23720112/jack-black-tenacious-d-video-games)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [CD Projekt&#39;s Witcher spinoff game is back on track with an &#39;updated direction&#39;](https://www.pcgamer.com/cd-projekts-witcher-spinoff-game-is-back-on-track-with-an-updated-direction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
