@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will always be men](http://9gag.com/gag/aeQx3mv)
- - ⏩ [Confused](http://9gag.com/gag/aeQx0gj)
- - 👉 [`MaLe pRiViLeGe`](http://9gag.com/gag/ajVxYZp)<!-- MEMES:END -->
+ - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - ⏩ [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 👉 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)<!-- MEMES:END -->
 
 ---
 
