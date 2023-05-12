@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk has found his replacement as CEO of Twitter](https://www.theverge.com/2023/5/11/23517090/elon-musk-twitter-ceo-replacement)
- - [Sources: NBCUniversal&#39;s head of advertising Linda Yaccarino is in talks to become the new CEO of Twitter &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230511/p37#a230511p37)
- - [Artifact is taking on Twitter and Substack by letting you follow writers](https://www.theverge.com/2023/5/11/23720542/artifact-follow-writers-twitter-substack)<!-- TECH:END -->
+ - [Twitter’s new CEO is probably this NBC exec](https://www.theverge.com/2023/5/11/23720648/twitter-next-ceo-probably-linda-yaccarino)
+ - [Germany&#39;s Wingcopter, a drone delivery startup specializing in medical supplies, raised &amp;euro;40M from the European Investment Bank, taking its total raised to &amp;euro;100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230511/p38#a230511p38)
+ - [Does McDonald’s take Apple Pay?](https://www.androidauthority.com/does-mcdonalds-take-apple-pay-3324034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
