@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Is Opening the AI Floodgates](https://www.wired.com/story/gadget-lab-podcast-597/)
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [BlueSky Ain’t It](https://www.wired.com/story/bluesky-twitter-social-media/)<!-- TECH:END -->
+ - [Google Pixel 7a vs iPhone SE &lpar;2022&rpar;: Which phone should you buy?](https://www.androidauthority.com/google-pixel-7a-vs-iphone-se-2022-3320827/)
+ - [Purah Pad review: a rugged tablet designed for the dangers of Hyrule](https://www.theverge.com/23719653/purah-pad-review-zelda-tears-of-the-kingdom)
+ - [A look at China&#39;s plans to &quot;de-Americanize&quot; its domestic chip industry, seven months after US curbs started, using billions in cash from Beijing and investors &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p9#a230512p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
