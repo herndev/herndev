@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Mother’s Day gifts on a budget](https://www.theverge.com/23682529/best-cheap-mothers-day-gifts-for-mom-budget-tech-ideas-presents)
- - [Anthropic expands Claude&#39;s context window from 9K to 100K tokens, or ~75K words it can digest and analyze; OpenAI&#39;s GPT-4 has a context window of ~32K tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230511/p35#a230511p35)
- - [This Costco membership deal nets you a free $30 Costco Shop Card](https://appleinsider.com/articles/23/05/11/this-costco-membership-deal-nets-you-a-free-30-costco-shop-card?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk has found his replacement as CEO of Twitter](https://www.theverge.com/2023/5/11/23517090/elon-musk-twitter-ceo-replacement)
+ - [Sources: NBCUniversal&#39;s head of advertising Linda Yaccarino is in talks to become the new CEO of Twitter &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230511/p37#a230511p37)
+ - [Artifact is taking on Twitter and Substack by letting you follow writers](https://www.theverge.com/2023/5/11/23720542/artifact-follow-writers-twitter-substack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
