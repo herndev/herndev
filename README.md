@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG&#39;s latest patch adds an Apex Legends-style respawn system](https://www.pcgamer.com/pubgs-latest-patch-adds-an-apex-legends-style-respawn-system)
- - [Jack Black journeys through Fallout 4, Red Dead Redemption 2, and Sonic the Hedgehog in Tenacious D&#39;s new music video](https://www.pcgamer.com/jack-black-journeys-through-fallout-4-red-dead-redemption-2-and-sonic-the-hedgehog-in-tenacious-ds-new-music-video)
- - [Diablo 4 Ashava the Pestilent World Boss spawn times and location](https://www.polygon.com/diablo-4-guides/23650426/ashava-world-boss-spawn-times-location-et-pt-cest-bst-uk)<!-- GAME:END -->
+ - [Where to find a cooking pot in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-cooking-pot-locations)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [EU set to clear Microsoft-Activision deal while UK adds new restrictions](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
