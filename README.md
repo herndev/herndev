@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance announces exit from Canada, saying the country&#39;s &quot;new guidance related to stablecoins and investor limits&quot; makes the Canadian market &quot;no longer tenable&quot; &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230512/p18#a230512p18)
- - [What two-thirds of car dealerships are missing in the US](https://www.theverge.com/2023/5/12/23721484/electric-vehicles-ev-car-dealerships-united-states-sierra-club-survey)
- - [The Stages of Sleep Deprivation and Its Warning Signs     - CNET](https://www.cnet.com/health/sleep/the-stages-of-sleep-deprivation-and-its-warning-signs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Current and former employees say Foxconn has hired ~10K contract workers in Chennai, India, since November 2022, paying between ~$190 and ~$225 per month &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230512/p19#a230512p19)
+ - [34 Best Graduation Gifts &lpar;2023&rpar;: For College or High School Grads](https://www.wired.com/gallery/best-graduation-gift-ideas-2023/)
+ - [Best Games on PS Plus: Ratchet &amp; Clank: Rift Apart, Ghostbusters and Much More     - CNET](https://www.cnet.com/tech/gaming/best-games-on-ps-plus-ratchet-clank-rift-apart-ghostbusters-and-much-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
