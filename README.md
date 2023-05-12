@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7a vs iPhone SE &lpar;2022&rpar;: Which phone should you buy?](https://www.androidauthority.com/google-pixel-7a-vs-iphone-se-2022-3320827/)
- - [Purah Pad review: a rugged tablet designed for the dangers of Hyrule](https://www.theverge.com/23719653/purah-pad-review-zelda-tears-of-the-kingdom)
- - [A look at China&#39;s plans to &quot;de-Americanize&quot; its domestic chip industry, seven months after US curbs started, using billions in cash from Beijing and investors &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p9#a230512p9)<!-- TECH:END -->
+ - [Daily Deals: MacBook Air from $799, AirPods Max $449, 2023 MacBook Pro $1,749](https://appleinsider.com/articles/23/05/12/daily-deals-macbook-air-from-799-airpods-max-449-2023-macbook-pro-1749?utm_medium=rss)
+ - [How Google is making up for lost time](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls)
+ - [Google’s open-source AI tool let me play my favorite Dreamcast game with my face](https://www.theverge.com/2023/5/12/23720351/project-gameface-google-io-2023-ai-facial-recognition-control)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
