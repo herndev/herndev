@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Vsauce, Michael here.`](http://9gag.com/gag/a5Xznxo)
- - ⏩ [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
- - 👉 [Three guesses the country where this allegedly took place.](http://9gag.com/gag/a6qBbX9)<!-- MEMES:END -->
+ - 💣 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - ⏩ [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 👉 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
 
 ---
 
