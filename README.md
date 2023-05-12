@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft](https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt)
  - [The best Nintendo Switch emulator for Android might live on as Strato &lpar;Updated&rpar;](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
- - [The Motorola Razr’s huge cover display is shown off in new leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-cover-3317489/)
- - [A profile of Swedish politician and EU Home Affairs commissioner Ylva Johansson, who has become a divisive figure during the debate over CSAM and privacy &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230512/p2#a230512p2)<!-- TECH:END -->
+ - [The Motorola Razr’s huge cover display is shown off in new leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-cover-3317489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
