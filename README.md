@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
- - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - 👉 [Undefeated Japanese wrestler who won the Olympics without a single point scored on her](http://9gag.com/gag/agoxN1K)<!-- MEMES:END -->
+ - 💣 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
+ - ⏩ [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)
+ - 👉 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)<!-- MEMES:END -->
 
 ---
 
