@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Horizon Forbidden West – Seyka](https://blog.playstation.com/2023/05/12/share-of-the-week-horizon-forbidden-west-seyka/)
- - [Zelda: Tears of the Kingdom Release Day Lines Are Everywhere And Wicked Long](https://kotaku.com/zelda-tears-of-the-kingdom-long-lines-breath-wild-2-1850432255)
- - [Despite BioWare&#39;s efforts, Star Wars: The Old Republic&#39;s economy is still completely out of control](https://www.pcgamer.com/despite-biowares-efforts-star-wars-the-old-republics-economy-is-still-completely-out-of-control)<!-- GAME:END -->
+ - [Someone Has Already Speedrun Zelda: Tears Of The Kingdom In 94 Minutes](https://kotaku.com/tears-of-the-kingdom-zelda-speedrun-record-first-twitch-1850432539)
+ - [You&#39;ve probably committed at least one of the 11 sins of PC building](https://www.pcgamer.com/youve-probably-committed-at-least-one-of-the-11-sins-of-pc-building)
+ - [Our favorite gruesome Sovietcore boomer shooter is leaving early access next week](https://www.pcgamer.com/our-favorite-gruesome-sovietcore-boomer-shooter-is-leaving-early-access-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
