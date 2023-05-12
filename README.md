@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher 3&#39;s latest update adds Intel XeSS support](https://www.pcgamer.com/the-witcher-3s-latest-update-adds-intel-xess-support)
  - [Welcome To Famicase 2023, My Favorite Time Of The Year](https://kotaku.com/nintendo-famicase-famicom-nes-art-design-games-meteor-1850427172)
- - [Ten years on, we&#39;re getting a sequel to Reus](https://www.pcgamer.com/ten-years-on-were-getting-a-sequel-to-reus)
- - [&#39;There is no AI-driven software that I know of that we would put in a shipped game,&#39; says Blackbird Interactive&#39;s president](https://www.pcgamer.com/there-is-no-ai-driven-software-that-i-know-of-that-we-would-put-in-a-shipped-game-says-blackbird-interactives-president)<!-- GAME:END -->
+ - [Ten years on, we&#39;re getting a sequel to Reus](https://www.pcgamer.com/ten-years-on-were-getting-a-sequel-to-reus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
