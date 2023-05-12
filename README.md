@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;There is no AI-driven software that I know of that we would put in a shipped game,&#39; says Blackbird Interactive&#39;s president](https://www.pcgamer.com/there-is-no-ai-driven-software-that-i-know-of-that-we-would-put-in-a-shipped-game-says-blackbird-interactives-president)
  - [It&#39;s Good That There&#39;s A 6/10 Zelda Review Score](https://kotaku.com/zelda-tears-kingdom-review-score-metacritic-opencritic-1850430540)
- - [You know M.2 SSDs suck, right?](https://www.pcgamer.com/you-know-m2-ssds-suck-right)
- - [New World of Warcraft specialization promises &#39;a playstyle never seen before&#39;](https://www.pcgamer.com/new-world-of-warcraft-specialization-promises-a-playstyle-never-seen-before)<!-- GAME:END -->
+ - [You know M.2 SSDs suck, right?](https://www.pcgamer.com/you-know-m2-ssds-suck-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
