@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft](https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt)
- - [The best Nintendo Switch emulator for Android might live on as Strato &lpar;Updated&rpar;](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
- - [The Motorola Razr’s huge cover display is shown off in new leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-cover-3317489/)<!-- TECH:END -->
+ - [STM Goods Portable Phone Mount review: neat concept, fumbled execution](https://appleinsider.com/articles/23/05/12/stm-goods-portable-phone-mount-review-neat-concept-fumbled-execution?utm_medium=rss)
+ - [Apple is opening its first online store for the Vietnam market soon](https://appleinsider.com/articles/23/05/12/apple-is-opening-its-first-online-store-for-the-vietnam-market-soon?utm_medium=rss)
+ - [Sources: Binance.US and Changpeng Zhao are exploring ways to cut Zhao&#39;s majority stake in the company, hoping to improve Binance&#39;s standing before US regulators &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/230512/p5#a230512p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
