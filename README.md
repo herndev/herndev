@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True 99%](http://9gag.com/gag/aVbZP2y)
- - ⏩ [Stallone said, fck inclusion and wont use it in his films...blacklisted all actors/actresses that demands that sort bs in the industry.](http://9gag.com/gag/aMEz1OA)
- - 👉 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 💣 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
+ - ⏩ [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 👉 [A manual elitist](http://9gag.com/gag/aREvAeA)<!-- MEMES:END -->
 
 ---
 
