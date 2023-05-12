@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears Of The Kingdom Is Smaller Than A Call Of Duty Patch, And That’s Great](https://kotaku.com/zelda-tears-kingdom-file-size-day-one-patch-switch-botw-1850433851)
- - [Should You Play Zelda: Breath Of The Wild Before Tears Of The Kingdom?](https://kotaku.com/zelda-should-i-play-botw-before-totk-storyline-recap-1850433739)
- - [Daft Punk gives their final song together a hypnotic animated tribute](https://www.polygon.com/23721594/daft-punk-final-song-music-video)<!-- GAME:END -->
+ - [Holy cow, Germany hands out serious cash to its homegrown game award winners: Signalis won €60,000 for &#39;Best Debut Game&#39;](https://www.pcgamer.com/holy-cow-germany-hands-out-serious-cash-to-its-homegrown-game-award-winners-signalis-won-euro60000-for-best-debut-game)
+ - [Rainbow Six Siege is so consistently buggy that I can&#39;t even be mad anymore](https://www.pcgamer.com/rainbow-six-siege-bugs)
+ - [Evil Dead Rise, Netflix’s Mother, Air, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/12/23715208/new-movies-watch-evil-dead-rise-netflix-mother-air-wandering-earth-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
