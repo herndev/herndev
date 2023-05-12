@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Crypt of Uhrma door puzzle in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-crypt-of-uhrma-solution)
- - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Zelda: Tears of the Kingdom’s Ascend ability started as a cheat code](https://www.polygon.com/legend-zelda-tears-kingdom/23720221/zelda-totk-tears-kingdom-interview-ascend-ability-botw-2)<!-- GAME:END -->
+ - [Jack Black journeys through Fallout 4, Red Dead Redemption 2, and Sonic the Hedgehog in Tenacious D&#39;s new music video](https://www.pcgamer.com/jack-black-journeys-through-fallout-4-red-dead-redemption-2-and-sonic-the-hedgehog-in-tenacious-ds-new-music-video)
+ - [Diablo 4 Ashava the Pestilent World Boss spawn times and location](https://www.polygon.com/diablo-4-guides/23650426/ashava-world-boss-spawn-times-location-et-pt-cest-bst-uk)
+ - [Layers of Fear&#39;s Steam demo will stimulate your nostrils on May 15](https://www.pcgamer.com/layers-of-fears-steam-demo-will-stimulate-your-nostrils-on-may-15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
