@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
- - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
- - [4 Great Ways To Farm Tears Of The Kingdom Rupees And More](https://kotaku.com/farm-rupees-tears-of-the-kingdom-zelda-rupee-colors-1850432954)<!-- GAME:END -->
+ - [Fast and Furious finale could get 3 parts if Vin Diesel has anything to say about it](https://www.polygon.com/23721627/fast-x-furious-movies-vin-diesel-sequel)
+ - [How to reach sky islands in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660050/how-to-reach-sky-islands)
+ - [The race to perfectly emulate Zelda: Tears of the Kingdom is on, and already extremely promising](https://www.pcgamer.com/the-race-to-perfectly-emulate-zelda-tears-of-the-kingdom-is-on-and-already-extremely-promising)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
