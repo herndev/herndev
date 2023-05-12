@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - ⏩ [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)
- - 👉 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)<!-- MEMES:END -->
+ - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
+ - ⏩ [Body blender slide](http://9gag.com/gag/agoxvng)
+ - 👉 [Three guesses the country where this allegedly took place.](http://9gag.com/gag/a6qBbX9)<!-- MEMES:END -->
 
 ---
 
