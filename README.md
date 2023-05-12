@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - ⏩ [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
- - 👉 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
+ - 💣 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
+ - ⏩ [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)
+ - 👉 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)<!-- MEMES:END -->
 
 ---
 
