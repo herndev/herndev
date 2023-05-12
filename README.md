@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tears of the Kingdom’s dungeons were designed with seamlessness in mind](https://www.theverge.com/23720520/zelda-tears-of-the-kingdom-dungeons-fujibayashi-interview)
- - [Fairbuds XL launched: You can easily repair these headphones](https://www.androidauthority.com/fairbuds-xl-3322777/)
- - [Spigen brings style and protection to the Galaxy S23](https://www.androidauthority.com/spigen-style-protection-galaxy-s23-3322499/)<!-- TECH:END -->
+ - [No more MariSilicon? OPPO is shutting down its custom chip unit.](https://www.androidauthority.com/oppo-shut-down-chip-design-unit-marisilicon-3324122/)
+ - [These smart lights can also monitor your home](https://www.theverge.com/2023/5/12/23720293/wiz-smart-home-monitoring-indoor-camera-price-release-date)
+ - [Tears of the Kingdom’s dungeons were designed with seamlessness in mind](https://www.theverge.com/23720520/zelda-tears-of-the-kingdom-dungeons-fujibayashi-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
