@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No more MariSilicon? OPPO is shutting down its custom chip unit.](https://www.androidauthority.com/oppo-shut-down-chip-design-unit-marisilicon-3324122/)
- - [These smart lights can also monitor your home](https://www.theverge.com/2023/5/12/23720293/wiz-smart-home-monitoring-indoor-camera-price-release-date)
- - [Tears of the Kingdom’s dungeons were designed with seamlessness in mind](https://www.theverge.com/23720520/zelda-tears-of-the-kingdom-dungeons-fujibayashi-interview)<!-- TECH:END -->
+ - [The best Nintendo Switch emulator for Android might live on as Strato &lpar;Updated&rpar;](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
+ - [The Motorola Razr’s huge cover display is shown off in new leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-cover-3317489/)
+ - [A profile of Swedish politician and EU Home Affairs commissioner Ylva Johansson, who has become a divisive figure during the debate over CSAM and privacy &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230512/p2#a230512p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
