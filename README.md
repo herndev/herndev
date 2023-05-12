@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - ⏩ [It&#39;s happening.](http://9gag.com/gag/anzxXDq)
- - 👉 [Ok, which 3 of you gave this a 10/10?](http://9gag.com/gag/a8qebQV)<!-- MEMES:END -->
+ - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
+ - ⏩ [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 👉 [Undefeated Japanese wrestler who won the Olympics without a single point scored on her](http://9gag.com/gag/agoxN1K)<!-- MEMES:END -->
 
 ---
 
