@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This should be a show](http://9gag.com/gag/amAxzv4)
- - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - 👉 [Now its just insta light!](http://9gag.com/gag/aPgeW8w)<!-- MEMES:END -->
+ - 💣 [If you know, you know](http://9gag.com/gag/agoxN9n)
+ - ⏩ [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
+ - 👉 [Oh really??!!](http://9gag.com/gag/aoKx14A)<!-- MEMES:END -->
 
 ---
 
