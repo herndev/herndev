@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Has Already Speedrun Zelda: Tears Of The Kingdom In 94 Minutes](https://kotaku.com/tears-of-the-kingdom-zelda-speedrun-record-first-twitch-1850432539)
- - [You&#39;ve probably committed at least one of the 11 sins of PC building](https://www.pcgamer.com/youve-probably-committed-at-least-one-of-the-11-sins-of-pc-building)
- - [Our favorite gruesome Sovietcore boomer shooter is leaving early access next week](https://www.pcgamer.com/our-favorite-gruesome-sovietcore-boomer-shooter-is-leaving-early-access-next-week)<!-- GAME:END -->
+ - [The Mercenaries mode has been my one big disappointment with the Resident Evil 4 remake](https://www.pcgamer.com/the-mercenaries-mode-has-been-my-one-big-disappointment-with-the-resident-evil-4-remake)
+ - [Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
+ - [Report: Tears Of The Kingdom Director Already Has Plans For The Next Zelda](https://kotaku.com/zelda-tears-kingdom-botw-2-sequel-switch-pro-nintendo-1850432520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
