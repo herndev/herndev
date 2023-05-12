@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find a cooking pot in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-cooking-pot-locations)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [EU set to clear Microsoft-Activision deal while UK adds new restrictions](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie’s Jack Black Made An Incredible Love Letter To Gaming](https://kotaku.com/the-super-mario-bros-movie-jack-black-bowser-1850431994)
+ - [Legend of Zelda: Tears of the Kingdom speedrunner already beat the game](https://www.polygon.com/23721201/zelda-tears-of-the-kingdom-speedrun-record-first-totk)
+ - [Here&#39;s the latest fan attempt to create Half-Life 2: Episode 3](https://www.pcgamer.com/heres-the-latest-fan-attempt-to-create-half-life-2-episode-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
