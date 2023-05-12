@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom’s Ascend ability started as a cheat code](https://www.polygon.com/legend-zelda-tears-kingdom/23720221/zelda-totk-tears-kingdom-interview-ascend-ability-botw-2)
- - [Tears of the Kingdom devs on reinventing Zelda: ‘Cheating can be fun’](https://www.polygon.com/legend-zelda-tears-kingdom/23720150/zelda-tears-of-the-kingdom-abilities-eiji-aonuma-hidemaro-fujibayashi)
- - [Disco Elysium novel Sacred and Terrible Air has finally been translated](https://www.pcgamer.com/disco-elysium-novel-sacred-and-terrible-air-has-finally-been-translated)<!-- GAME:END -->
+ - [How to solve the Crypt of Uhrma door puzzle in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-crypt-of-uhrma-solution)
+ - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Zelda: Tears of the Kingdom’s Ascend ability started as a cheat code](https://www.polygon.com/legend-zelda-tears-kingdom/23720221/zelda-totk-tears-kingdom-interview-ascend-ability-botw-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
