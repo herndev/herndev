@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie’s Jack Black Made An Incredible Love Letter To Gaming](https://kotaku.com/the-super-mario-bros-movie-jack-black-bowser-1850431994)
- - [Legend of Zelda: Tears of the Kingdom speedrunner already beat the game](https://www.polygon.com/23721201/zelda-tears-of-the-kingdom-speedrun-record-first-totk)
- - [Here&#39;s the latest fan attempt to create Half-Life 2: Episode 3](https://www.pcgamer.com/heres-the-latest-fan-attempt-to-create-half-life-2-episode-3)<!-- GAME:END -->
+ - [Share of the Week: Horizon Forbidden West – Seyka](https://blog.playstation.com/2023/05/12/share-of-the-week-horizon-forbidden-west-seyka/)
+ - [Zelda: Tears of the Kingdom Release Day Lines Are Everywhere And Wicked Long](https://kotaku.com/zelda-tears-of-the-kingdom-long-lines-breath-wild-2-1850432255)
+ - [Despite BioWare&#39;s efforts, Star Wars: The Old Republic&#39;s economy is still completely out of control](https://www.pcgamer.com/despite-biowares-efforts-star-wars-the-old-republics-economy-is-still-completely-out-of-control)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
