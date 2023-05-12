@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garmin Instinct 2X: The new brightest spot in the series](https://www.androidauthority.com/garmin-instinct-2x-review-3322513/)
- - [Twitter’s new CEO is Linda Yaccarino, a longtime ad exec for NBCU](https://www.theverge.com/2023/5/12/23721107/twitter-ceo-linda-yaccarino-elon-musk-nbc)
- - [Elon Musk announces Linda Yaccarino, who resigned as NBCUniversal&#39;s head of advertising, as Twitter&#39;s new CEO and says she will focus on business operations &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230512/p13#a230512p13)<!-- TECH:END -->
+ - [NBCUniversal ad exec Linda Yaccarino will be the new Twitter CEO](https://appleinsider.com/articles/23/05/12/nbcuniversal-ad-exec-linda-yaccarino-will-be-the-new-twitter-ceo?utm_medium=rss)
+ - [29 Last-Minute Deals on Mother’s Day Gifts &lpar;2023&rpar;](https://www.wired.com/story/last-minute-mothers-day-deals-2023/)
+ - [Monduo 16-inch Pro Duo Display review: Fun and practical, but Mac owners have better choices](https://appleinsider.com/articles/23/05/12/monduo-16-inch-pro-duo-display-review-fun-and-practical-but-mac-owners-have-better-choices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
