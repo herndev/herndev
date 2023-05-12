@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Byju&#39;s raised $250M and is close to raising $700M at the $22B valuation that it has maintained throughout 2022, ahead of its subsidiary Aakash&#39;s IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230512/p12#a230512p12)
- - [The PlayStation VR2 is now available at more retailers](https://www.theverge.com/2023/5/12/23700655/sony-playstation-vr2-psvr2-retailers-sale-availability)
- - [Tesla forced to ‘recall’ 1.1 million vehicles in China to address braking problems](https://www.theverge.com/2023/5/12/23721106/tesla-china-recall-regen-braking-vehicles-crash)<!-- TECH:END -->
+ - [The Garmin Instinct 2X: The new brightest spot in the series](https://www.androidauthority.com/garmin-instinct-2x-review-3322513/)
+ - [Twitter’s new CEO is Linda Yaccarino, a longtime ad exec for NBCU](https://www.theverge.com/2023/5/12/23721107/twitter-ceo-linda-yaccarino-elon-musk-nbc)
+ - [Elon Musk announces Linda Yaccarino, who resigned as NBCUniversal&#39;s head of advertising, as Twitter&#39;s new CEO and says she will focus on business operations &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230512/p13#a230512p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
