@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mercenaries mode has been my one big disappointment with the Resident Evil 4 remake](https://www.pcgamer.com/the-mercenaries-mode-has-been-my-one-big-disappointment-with-the-resident-evil-4-remake)
- - [Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
- - [Report: Tears Of The Kingdom Director Already Has Plans For The Next Zelda](https://kotaku.com/zelda-tears-kingdom-botw-2-sequel-switch-pro-nintendo-1850432520)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
+ - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
+ - [4 Great Ways To Farm Tears Of The Kingdom Rupees And More](https://kotaku.com/farm-rupees-tears-of-the-kingdom-zelda-rupee-colors-1850432954)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
