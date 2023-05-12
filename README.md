@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
+ - 💣 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
  - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - 👉 [Look at that ring](http://9gag.com/gag/a6qBbD9)<!-- MEMES:END -->
+ - 👉 [Passing through the highway next to the world&#39;s biggest statue](http://9gag.com/gag/aDYb3OZ)<!-- MEMES:END -->
 
 ---
 
