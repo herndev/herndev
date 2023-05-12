@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: MacBook Air from $799, AirPods Max $449, 2023 MacBook Pro $1,749](https://appleinsider.com/articles/23/05/12/daily-deals-macbook-air-from-799-airpods-max-449-2023-macbook-pro-1749?utm_medium=rss)
- - [How Google is making up for lost time](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls)
- - [Google’s open-source AI tool let me play my favorite Dreamcast game with my face](https://www.theverge.com/2023/5/12/23720351/project-gameface-google-io-2023-ai-facial-recognition-control)<!-- TECH:END -->
+ - [Sources: Byju&#39;s raised $250M and is close to raising $700M at the $22B valuation that it has maintained throughout 2022, ahead of its subsidiary Aakash&#39;s IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230512/p12#a230512p12)
+ - [The PlayStation VR2 is now available at more retailers](https://www.theverge.com/2023/5/12/23700655/sony-playstation-vr2-psvr2-retailers-sale-availability)
+ - [Tesla forced to ‘recall’ 1.1 million vehicles in China to address braking problems](https://www.theverge.com/2023/5/12/23721106/tesla-china-recall-regen-braking-vehicles-crash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
