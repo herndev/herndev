@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [If you know, you know](http://9gag.com/gag/agoxN9n)
- - ⏩ [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
- - 👉 [Oh really??!!](http://9gag.com/gag/aoKx14A)<!-- MEMES:END -->
+ - ⏩ [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
+ - 👉 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
 
 ---
 
