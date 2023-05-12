@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh really??!!](http://9gag.com/gag/aoKx14A)
- - ⏩ [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 👉 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
+ - 💣 [`Vsauce, Michael here.`](http://9gag.com/gag/a5Xznxo)
+ - ⏩ [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
+ - 👉 [Three guesses the country where this allegedly took place.](http://9gag.com/gag/a6qBbX9)<!-- MEMES:END -->
 
 ---
 
