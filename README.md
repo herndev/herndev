@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
- - ⏩ [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - 👉 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
+ - 💣 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 👉 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
 
 ---
 
