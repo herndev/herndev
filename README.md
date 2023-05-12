@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know](http://9gag.com/gag/agoxN9n)
- - ⏩ [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
- - 👉 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aeQxebp)
+ - ⏩ [The Irony..](http://9gag.com/gag/adPx7Xj)
+ - 👉 [From 1 to 0](http://9gag.com/gag/axoO0EY)<!-- MEMES:END -->
 
 ---
 
