@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo gives up on building custom chips for its flagship phones](https://www.theverge.com/2023/5/12/23721105/oppo-zeku-shutdown-chip-design-smartphone-decline)
- - [A conversation with The Legend of Zelda: Tears of the Kingdom’s creative leads](https://www.theverge.com/23721063/zelda-tears-of-the-kingdom-interview-aonuma-fujibayashi)
- - [Tessera, the collective NFT ownership service that launched as Fractional with $20M in funding from Paradigm and others, plans to shut down &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230512/p15#a230512p15)<!-- TECH:END -->
+ - [Amazon’s best snack has been out of stock for months, and I want answers](https://www.theverge.com/2023/5/12/23721576/amazon-fresh-aplenty-white-cheddar-puffs)
+ - [Elon Musk picks former NBCUniversal exec to be the new CEO of Twitter](https://www.androidauthority.com/twitter-ceo-3324383/)
+ - [Urtopia Carbon 1s e-bike review: perfect weight with some tech tradeoffs](https://appleinsider.com/articles/23/05/12/urtopia-carbon-1s-e-bike-review-perfect-weight-with-some-tech-tradeoffs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
