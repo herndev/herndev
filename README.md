@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now its just insta light!](http://9gag.com/gag/aPgeW8w)
- - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - 👉 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
+ - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - ⏩ [It&#39;s happening.](http://9gag.com/gag/anzxXDq)
+ - 👉 [Ok, which 3 of you gave this a 10/10?](http://9gag.com/gag/a8qebQV)<!-- MEMES:END -->
 
 ---
 
