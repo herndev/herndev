@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
- - ⏩ [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
- - 👉 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)<!-- MEMES:END -->
+ - 💣 [Now its just insta light!](http://9gag.com/gag/aPgeW8w)
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 👉 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
 
 ---
 
