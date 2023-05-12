@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New World of Warcraft specialization promises &#39;a playstyle never seen before&#39;](https://www.pcgamer.com/new-world-of-warcraft-specialization-promises-a-playstyle-never-seen-before)
- - [Is The Next Call Of Duty In Fact Modern Warfare 3? Maybe, Actually](https://kotaku.com/call-of-duty-modern-warfare-3-2-mw-sequel-1850430147)
- - [Apex Legends player hits top rank without scoring a single kill: &#39;That is just so dumb&#39;](https://www.pcgamer.com/apex-legends-player-hits-top-rank-without-scoring-a-kill-i-mean-that-is-just-so-dumb)<!-- GAME:END -->
+ - [It&#39;s Good That There&#39;s A 6/10 Zelda Review Score](https://kotaku.com/zelda-tears-kingdom-review-score-metacritic-opencritic-1850430540)
+ - [You know M.2 SSDs suck, right?](https://www.pcgamer.com/you-know-m2-ssds-suck-right)
+ - [New World of Warcraft specialization promises &#39;a playstyle never seen before&#39;](https://www.pcgamer.com/new-world-of-warcraft-specialization-promises-a-playstyle-never-seen-before)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
