@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - 👉 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)<!-- MEMES:END -->
+ - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
+ - ⏩ [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 👉 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
 
 ---
 
