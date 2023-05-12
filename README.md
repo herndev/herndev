@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - ⏩ [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 👉 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 👉 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)<!-- MEMES:END -->
 
 ---
 
