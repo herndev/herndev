@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s new CEO is probably this NBC exec](https://www.theverge.com/2023/5/11/23720648/twitter-next-ceo-probably-linda-yaccarino)
- - [Germany&#39;s Wingcopter, a drone delivery startup specializing in medical supplies, raised &amp;euro;40M from the European Investment Bank, taking its total raised to &amp;euro;100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230511/p38#a230511p38)
- - [Does McDonald’s take Apple Pay?](https://www.androidauthority.com/does-mcdonalds-take-apple-pay-3324034/)<!-- TECH:END -->
+ - [Spigen brings style and protection to the Galaxy S23](https://www.androidauthority.com/spigen-style-protection-galaxy-s23-3322499/)
+ - [The US Chamber of Commerce filed an amicus brief on May 9 in the Coinbase v. SEC case, slamming the regulator for its &quot;haphazard, enforcement-based approach&quot; &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/230512/p1#a230512p1)
+ - [Twitter’s new CEO is probably this NBC exec](https://www.theverge.com/2023/5/11/23720648/twitter-next-ceo-probably-linda-yaccarino)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
