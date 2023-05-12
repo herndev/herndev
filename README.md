@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aeQxebp)
- - ⏩ [The Irony..](http://9gag.com/gag/adPx7Xj)
- - 👉 [From 1 to 0](http://9gag.com/gag/axoO0EY)<!-- MEMES:END -->
+ - 💣 [Oh really??!!](http://9gag.com/gag/aoKx14A)
+ - ⏩ [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 👉 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
 
 ---
 
