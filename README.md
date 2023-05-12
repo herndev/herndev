@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - ⏩ [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 👉 [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)<!-- MEMES:END -->
+ - 💣 [No time to talk put me inside](http://9gag.com/gag/agoxG2w)
+ - ⏩ [A manual elitist](http://9gag.com/gag/aREvAeA)
+ - 👉 [BamBOO!](http://9gag.com/gag/amAx8mv)<!-- MEMES:END -->
 
 ---
 
