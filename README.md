@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to talk put me inside](http://9gag.com/gag/agoxG2w)
- - ⏩ [A manual elitist](http://9gag.com/gag/aREvAeA)
- - 👉 [BamBOO!](http://9gag.com/gag/amAx8mv)<!-- MEMES:END -->
+ - 💣 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - ⏩ [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
+ - 👉 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
 
 ---
 
