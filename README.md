@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armabreaddon](http://9gag.com/gag/ay218Zq)
- - ⏩ [Body blender slide](http://9gag.com/gag/agoxvng)
- - 👉 [Three guesses the country where this allegedly took place.](http://9gag.com/gag/a6qBbX9)<!-- MEMES:END -->
+ - 💣 [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 👉 [Look at that ring](http://9gag.com/gag/a6qBbD9)<!-- MEMES:END -->
 
 ---
 
