@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spigen brings style and protection to the Galaxy S23](https://www.androidauthority.com/spigen-style-protection-galaxy-s23-3322499/)
- - [The US Chamber of Commerce filed an amicus brief on May 9 in the Coinbase v. SEC case, slamming the regulator for its &quot;haphazard, enforcement-based approach&quot; &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/230512/p1#a230512p1)
- - [Twitter’s new CEO is probably this NBC exec](https://www.theverge.com/2023/5/11/23720648/twitter-next-ceo-probably-linda-yaccarino)<!-- TECH:END -->
+ - [Tears of the Kingdom’s dungeons were designed with seamlessness in mind](https://www.theverge.com/23720520/zelda-tears-of-the-kingdom-dungeons-fujibayashi-interview)
+ - [Fairbuds XL launched: You can easily repair these headphones](https://www.androidauthority.com/fairbuds-xl-3322777/)
+ - [Spigen brings style and protection to the Galaxy S23](https://www.androidauthority.com/spigen-style-protection-galaxy-s23-3322499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
