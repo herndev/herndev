@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium novel Sacred and Terrible Air has finally been translated](https://www.pcgamer.com/disco-elysium-novel-sacred-and-terrible-air-has-finally-been-translated)
- - [Today&#39;s Wordle hint and answer #692: Friday, May 12](https://www.pcgamer.com/wordle-today-hint-answer-692-may-12)
- - [How to unlock all abilities in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-list-fuse-ascend-recall-ultrahand-final-missing-ability)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom’s Ascend ability started as a cheat code](https://www.polygon.com/legend-zelda-tears-kingdom/23720221/zelda-totk-tears-kingdom-interview-ascend-ability-botw-2)
+ - [Tears of the Kingdom devs on reinventing Zelda: ‘Cheating can be fun’](https://www.polygon.com/legend-zelda-tears-kingdom/23720150/zelda-tears-of-the-kingdom-abilities-eiji-aonuma-hidemaro-fujibayashi)
+ - [Disco Elysium novel Sacred and Terrible Air has finally been translated](https://www.pcgamer.com/disco-elysium-novel-sacred-and-terrible-air-has-finally-been-translated)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
