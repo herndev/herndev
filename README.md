@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s best snack has been out of stock for months, and I want answers](https://www.theverge.com/2023/5/12/23721576/amazon-fresh-aplenty-white-cheddar-puffs)
- - [Elon Musk picks former NBCUniversal exec to be the new CEO of Twitter](https://www.androidauthority.com/twitter-ceo-3324383/)
- - [Urtopia Carbon 1s e-bike review: perfect weight with some tech tradeoffs](https://appleinsider.com/articles/23/05/12/urtopia-carbon-1s-e-bike-review-perfect-weight-with-some-tech-tradeoffs?utm_medium=rss)<!-- TECH:END -->
+ - [What two-thirds of car dealerships are missing in the US](https://www.theverge.com/2023/5/12/23721484/electric-vehicles-ev-car-dealerships-united-states-sierra-club-survey)
+ - [An ex-ByteDance exec in the US sues for wrongful termination, accusing it of stealing rivals&#39; content and giving the Chinese Communist Party &quot;supreme access&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p17#a230512p17)
+ - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
