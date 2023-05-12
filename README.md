@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [STM Goods Portable Phone Mount review: neat concept, fumbled execution](https://appleinsider.com/articles/23/05/12/stm-goods-portable-phone-mount-review-neat-concept-fumbled-execution?utm_medium=rss)
- - [Apple is opening its first online store for the Vietnam market soon](https://appleinsider.com/articles/23/05/12/apple-is-opening-its-first-online-store-for-the-vietnam-market-soon?utm_medium=rss)
- - [Sources: Binance.US and Changpeng Zhao are exploring ways to cut Zhao&#39;s majority stake in the company, hoping to improve Binance&#39;s standing before US regulators &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/230512/p5#a230512p5)<!-- TECH:END -->
+ - [Google Is Opening the AI Floodgates](https://www.wired.com/story/gadget-lab-podcast-597/)
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [BlueSky Ain’t It](https://www.wired.com/story/bluesky-twitter-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
