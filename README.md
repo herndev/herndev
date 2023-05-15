@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Handhelds like ROG Ally and Steam Deck have &#39;changed the way Microsoft thinks about the Windows experience&#39;](https://www.pcgamer.com/handhelds-like-rog-ally-have-inspired-microsoft-to-bring-xbox-features-to-pc)
- - [Cut content mod restores Skyrim&#39;s vampires to their former glory](https://www.pcgamer.com/cut-content-mod-restores-skyrims-vampires-to-their-former-glory)
- - [Nvidia CEO Jensen Huang takes a $2.5 million pay cut after disappointing sales](https://www.pcgamer.com/nvidia-ceo-jensen-huang-takes-a-dollar25-million-pay-cut-after-disappointing-sales)<!-- GAME:END -->
+ - [&#39;Britain&#39;s Bill Gates&#39; finally extradited to California to face charges in &#39;one of the largest frauds ever prosecuted by the United States Department of Justice&#39;](https://www.pcgamer.com/britains-bill-gates-finally-extradited-to-california-to-face-charges-in-one-of-the-largest-frauds-ever-prosecuted-by-the-united-states-department-of-justice)
+ - [Fablecraft&#39;s virtual tabletop combines the best parts of D&amp;D and videogames—this is the future of TTRPGs](https://www.pcgamer.com/fablecrafts-virtual-tabletop-combines-the-best-parts-of-dandd-and-videogamesthis-is-the-future-of-ttrpgs)
+ - [Dark web crypto-drug traffickers &#39;can try to hide in the furthest reaches of the internet, but the Justice Department will find you&#39;](https://www.pcgamer.com/dark-web-crypto-drug-traffickers-can-try-to-hide-in-the-furthest-reaches-of-the-internet-but-the-justice-department-will-find-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
