@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify problems and how to fix them](https://www.androidauthority.com/spotify-problems-fixes-3324575/)
  - [Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
- - [I Became an &#39;Ice Bath Guy&#39; for a Day. It Was Weird     - CNET](https://www.cnet.com/health/features/i-became-an-ice-bath-guy-for-a-day-it-was-weird/#ftag=CAD590a51e)
- - [Could This Be the Final Frontier for Renewable Energy?     - CNET](https://www.cnet.com/science/could-this-be-the-final-frontier-for-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Became an &#39;Ice Bath Guy&#39; for a Day. It Was Weird     - CNET](https://www.cnet.com/health/features/i-became-an-ice-bath-guy-for-a-day-it-was-weird/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
