@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Portable Grills &lpar;2023&rpar;: Charcoal, Propane, Electric and More](https://www.wired.com/story/best-portable-grills/)
- - [TCL aims to be the best bargain &lpar;again&rpar; as it launches its 2023 TV lineup](https://www.theverge.com/2023/5/15/23723813/tcl-q-s-class-4k-tvs-price-features)
- - [Congress called Huawei a national security risk — it’s still in US networks](https://www.theverge.com/23721573/huawei-zte-rip-and-replace-china-telecom-carriers-fcc)<!-- TECH:END -->
+ - [EU regulators approve Microsoft&#39;s $69B Activision Blizzard deal after the company made concessions over giving rivals access to Call of Duty and other games &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/230515/p15#a230515p15)
+ - [Microsoft’s Activision Blizzard acquisition approved by EU regulators](https://www.theverge.com/2023/5/15/23723703/microsoft-activision-blizzard-acquisition-approved-eu-european-commission)
+ - [10 Best Portable Grills &lpar;2023&rpar;: Charcoal, Propane, Electric and More](https://www.wired.com/story/best-portable-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
