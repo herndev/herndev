@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bear’s just trying to get it together in new season 2 trailer](https://www.theverge.com/2023/5/15/23724568/the-bear-season-2-trailer-fix-culinary-school)
- - [How to find your IMEI number on an Android phone](https://www.androidauthority.com/how-to-find-imei-on-android-3324841/)
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [Microsoft will pay to capture carbon from burning wood](https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood)
+ - [Cloudflare One for AI debuts as a suite of zero-trust security controls to help businesses safely use generative AI tools while protecting IP and customer data &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230515/p25#a230515p25)
+ - [Beats Studio 3 vs Sony WH-1000XM4: Are they still worth buying?](https://www.androidauthority.com/beats-studio-3-vs-sony-wh-1000xm4-3321065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
