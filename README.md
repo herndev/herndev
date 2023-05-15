@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Risk = Reward](http://9gag.com/gag/a7q9WZw)
- - ⏩ [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
- - 👉 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)<!-- MEMES:END -->
+ - 💣 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - ⏩ [Stupid driver cuts turn and\u2026 yeah](http://9gag.com/gag/aEqWMq9)
+ - 👉 [Awww...](http://9gag.com/gag/aoKxPyg)<!-- MEMES:END -->
 
 ---
 
