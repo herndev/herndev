@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based.](http://9gag.com/gag/aOx9xvv)
- - ⏩ [Giving false witness to the police](http://9gag.com/gag/anzxznB)
- - 👉 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
+ - 💣 [Risk = Reward](http://9gag.com/gag/a7q9WZw)
+ - ⏩ [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 👉 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)<!-- MEMES:END -->
 
 ---
 
