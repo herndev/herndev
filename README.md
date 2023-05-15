@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 is bringing back a character first seen in Tekken 3, and one who debuted in an add-on](https://www.pcgamer.com/tekken-8-is-bringing-back-a-character-first-seen-in-tekken-3-and-one-who-debuted-in-an-add-on)
- - [Fuches looks different on Barry now. That’s what Stephen Root wanted](https://www.polygon.com/23720317/barry-season-4-fuches-raven-episode-6)
- - [Our Favorite Cosplay From WonderCon 2023](https://kotaku.com/cosplay-gallery-video-metroid-zelda-resident-evil-1850436465)<!-- GAME:END -->
+ - [Handhelds like ROG Ally have inspired Microsoft to bring Xbox features to PC](https://www.pcgamer.com/handhelds-like-rog-ally-have-inspired-microsoft-to-bring-xbox-features-to-pc)
+ - [Cut content mod restores Skyrim&#39;s vampires to their former glory](https://www.pcgamer.com/cut-content-mod-restores-skyrims-vampires-to-their-former-glory)
+ - [Nvidia CEO Jensen Huang takes a $2.5 million pay cut after disappointing sales](https://www.pcgamer.com/nvidia-ceo-jensen-huang-takes-a-dollar25-million-pay-cut-after-disappointing-sales)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
