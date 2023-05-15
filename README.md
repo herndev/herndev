@@ -29,7 +29,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Handhelds like ROG Ally have inspired Microsoft to bring Xbox features to PC](https://www.pcgamer.com/handhelds-like-rog-ally-have-inspired-microsoft-to-bring-xbox-features-to-pc)
+ - [Handhelds like ROG Ally and Steam Deck have &#39;changed the way Microsoft thinks about the Windows experience&#39;](https://www.pcgamer.com/handhelds-like-rog-ally-have-inspired-microsoft-to-bring-xbox-features-to-pc)
  - [Cut content mod restores Skyrim&#39;s vampires to their former glory](https://www.pcgamer.com/cut-content-mod-restores-skyrims-vampires-to-their-former-glory)
  - [Nvidia CEO Jensen Huang takes a $2.5 million pay cut after disappointing sales](https://www.pcgamer.com/nvidia-ceo-jensen-huang-takes-a-dollar25-million-pay-cut-after-disappointing-sales)<!-- GAME:END -->
 
