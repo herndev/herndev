@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This sucks: A month after I discover Vampire: The Masquerade - Bloodhunt, they&#39;re killing it](https://www.pcgamer.com/this-sucks-a-month-after-i-discover-vampire-the-masquerade-bloodhunt-theyre-killing-it)
- - [How to complete the Unyielding Flesh quest in Diablo 4](https://www.pcgamer.com/diablo-4-unyielding-flesh)
- - [Zelda: Tears Of The Kingdom Players Are Building Tanks, Planes To Commit War Crimes](https://kotaku.com/zelda-tears-of-the-kingdom-zonai-tank-bomb-totk-zonai-1850437597)<!-- GAME:END -->
+ - [Tears Of The Kingdom May Include The Zelda Series’ First Gay Character](https://kotaku.com/zelda-tears-of-the-kingdom-calip-tauro-gay-journal-1850437895)
+ - [Mayachin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707031/mayachin-shrine-solution-puzzle-chest)
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
