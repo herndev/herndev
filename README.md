@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Risk = Reward](http://9gag.com/gag/a7q9WZw)
- - ⏩ [Survives a staggering 30 seconds in 9Gs of force.](http://9gag.com/gag/aGEGgb0)
- - 👉 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
+ - 💣 [Brently can run up the stairs without running out of breath](http://9gag.com/gag/a3Z81W3)
+ - ⏩ [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
+ - 👉 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
 
 ---
 
