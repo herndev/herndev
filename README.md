@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emergency SOS via Satellite lands in Australia and New Zealand](https://appleinsider.com/articles/23/05/14/emergency-sos-via-satellite-lands-in-australia-and-new-zealand?utm_medium=rss)
- - [Swedish cybersecurity company Truesec and experts: Russia-linked &quot;Anonymous Sudan&quot; is one of the most prolific hacktivist groups targeting Swedish organizations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230514/p7#a230514p7)
- - [Oculus founder says Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)<!-- TECH:END -->
+ - [Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
+ - [I Became an &#39;Ice Bath Guy&#39; for a Day. It Was Weird     - CNET](https://www.cnet.com/health/features/i-became-an-ice-bath-guy-for-a-day-it-was-weird/#ftag=CAD590a51e)
+ - [Could This Be the Final Frontier for Renewable Energy?     - CNET](https://www.cnet.com/science/could-this-be-the-final-frontier-for-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
