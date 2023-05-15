@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will pay to capture carbon from burning wood](https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood)
- - [Cloudflare One for AI debuts as a suite of zero-trust security controls to help businesses safely use generative AI tools while protecting IP and customer data &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230515/p25#a230515p25)
- - [Beats Studio 3 vs Sony WH-1000XM4: Are they still worth buying?](https://www.androidauthority.com/beats-studio-3-vs-sony-wh-1000xm4-3321065/)<!-- TECH:END -->
+ - [WhatsApp introduces Chat Lock, which lets users put chats in a password- or biometrics-protected folder and hide chats&#39; contents and senders in notifications &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230515/p26#a230515p26)
+ - [Google Pixel Tablet vs Samsung Galaxy Tab S8: Polar opposites](https://www.androidauthority.com/google-pixel-tablet-vs-samsung-galaxy-tab-s8-3323907/)
+ - [Should you buy the Pixel 7a or wait for the Pixel 8?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-3321554/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
