@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - ⏩ [Just a couple of lads trolling a girl](http://9gag.com/gag/a04nNgB)
- - 👉 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
+ - 💣 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
+ - ⏩ [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - 👉 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
 
 ---
 
