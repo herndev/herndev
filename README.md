@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Resoling a pair of Goodyear welted shoes](http://9gag.com/gag/anzxgzV)
- - ⏩ [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
- - 👉 [Yeah, exactly the draw you were expecting.](http://9gag.com/gag/a5XzQnN)<!-- MEMES:END -->
+ - 💣 [Did you see that ludicrous display last night?](http://9gag.com/gag/aDYb4ZK)
+ - ⏩ [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 👉 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)<!-- MEMES:END -->
 
 ---
 
