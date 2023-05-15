@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [4 Best Music Streaming Services &lpar;2023&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
- - [How to hardwire your home without ethernet in the walls](https://www.theverge.com/23715458/ethernet-hardwire-home-wireless-internet-powerline-networking-how-to)<!-- TECH:END -->
+ - [10 Best Portable Grills &lpar;2023&rpar;: Charcoal, Propane, Electric and More](https://www.wired.com/story/best-portable-grills/)
+ - [TCL aims to be the best bargain &lpar;again&rpar; as it launches its 2023 TV lineup](https://www.theverge.com/2023/5/15/23723813/tcl-q-s-class-4k-tvs-price-features)
+ - [Congress called Huawei a national security risk — it’s still in US networks](https://www.theverge.com/23721573/huawei-zte-rip-and-replace-china-telecom-carriers-fcc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
