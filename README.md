@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Britain&#39;s Bill Gates&#39; finally extradited to California to face charges in &#39;one of the largest frauds ever prosecuted by the United States Department of Justice&#39;](https://www.pcgamer.com/britains-bill-gates-finally-extradited-to-california-to-face-charges-in-one-of-the-largest-frauds-ever-prosecuted-by-the-united-states-department-of-justice)
- - [Fablecraft&#39;s virtual tabletop combines the best parts of D&amp;D and videogames—this is the future of TTRPGs](https://www.pcgamer.com/fablecrafts-virtual-tabletop-combines-the-best-parts-of-dandd-and-videogamesthis-is-the-future-of-ttrpgs)
- - [Dark web crypto-drug traffickers &#39;can try to hide in the furthest reaches of the internet, but the Justice Department will find you&#39;](https://www.pcgamer.com/dark-web-crypto-drug-traffickers-can-try-to-hide-in-the-furthest-reaches-of-the-internet-but-the-justice-department-will-find-you)<!-- GAME:END -->
+ - [The Counter-Strike moment so good even Valve said &#39;put this play in the Louvre&#39;, which someone then literally did](https://www.pcgamer.com/the-counter-strike-clutch-play-so-good-even-valve-said-put-it-in-the-louvre-which-someone-then-literally-did)
+ - [I have serious regrets about wasting my weekend fighting the Diablo 4 beta&#39;s awful world boss](https://www.pcgamer.com/i-have-serious-regrets-about-wasting-my-weekend-fighting-the-diablo-4-betas-awful-world-boss)
+ - [&#39;Britain&#39;s Bill Gates&#39; finally extradited to California to face charges in &#39;one of the largest frauds ever prosecuted by the United States Department of Justice&#39;](https://www.pcgamer.com/britains-bill-gates-finally-extradited-to-california-to-face-charges-in-one-of-the-largest-frauds-ever-prosecuted-by-the-united-states-department-of-justice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
