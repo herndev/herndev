@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)
- - [How to get to Kakariko Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724588/kakariko-village-location)
- - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)
+ - [Lost Johnny Bravo, Dragon Ball Z Episode Found After 23 Years [Update]](https://kotaku.com/dragon-ball-z-johnny-bravo-jbvo-episode-cartoon-network-1850438309)
+ - [This ridiculous deep cut mod adds guns from Bethesda&#39;s forgotten Terminator FPS to the biggest &lpar;and most frustrating&rpar; Elder Scrolls game](https://www.pcgamer.com/this-ridiculous-deep-cut-mod-adds-guns-from-bethesdas-forgotten-terminator-fps-to-the-biggest-and-most-frustrating-elder-scrolls-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
