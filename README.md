@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
- - 👉 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
+ - 💣 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
+ - ⏩ [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)
+ - 👉 [Remember when insects did this?](http://9gag.com/gag/aVbZxyP)<!-- MEMES:END -->
 
 ---
 
