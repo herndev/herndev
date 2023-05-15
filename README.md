@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia-based gambling machine maker Aristocrat Leisure agrees to acquire Israel-based NeoGames, which builds tech for online real-money gaming, for over $1B &lpar;Riya Sharma/Reuters&rpar;](http://www.techmeme.com/230515/p3#a230515p3)
- - [US-based sports merchandise retailer Fanatics agrees to acquire the US assets of Australia-based online sports betting company PointsBet for $150M in cash &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230515/p2#a230515p2)
- - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)<!-- TECH:END -->
+ - [HTC is reviving a high end phone series later this week](https://www.androidauthority.com/htc-u23-pro-launch-date-3321431/)
+ - [Google agrees to pay up millions again for deceptive Pixel 4 ads](https://www.androidauthority.com/google-pixel-4-deceptive-ads-lawsuit-3324603/)
+ - [Australia-based gambling machine maker Aristocrat Leisure agrees to acquire Israel-based NeoGames, which builds tech for online real-money gaming, for over $1B &lpar;Riya Sharma/Reuters&rpar;](http://www.techmeme.com/230515/p3#a230515p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
