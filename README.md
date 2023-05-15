@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12 could get a much-wanted camera upgrade](https://www.androidauthority.com/oneplus-12-camera-3324613/)
- - [A profile of Douglas Rushkoff, an internet theorist since the 1990s and a former techno-optimist who all but renounced being a digital revolution spokesperson &lpar;Malcolm Harris/Wired&rpar;](http://www.techmeme.com/230515/p4#a230515p4)
- - [HTC is reviving a high end phone series later this week](https://www.androidauthority.com/htc-u23-pro-launch-date-3321431/)<!-- TECH:END -->
+ - [OPPO wiped its German website amid EU exit rumors, here’s why](https://www.androidauthority.com/oppo-germany-website-deleted-3324632/)
+ - [US crypto tsar Eun Young Choi says the DOJ is targeting exchanges alongside &quot;mixers and tumblers&quot; to stop illicit behavior, aiming to &quot;send a deterrent message&quot; &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/230515/p6#a230515p6)
+ - [A Delaware judge rules in favor of Oracle founder Larry Ellison in a shareholder lawsuit alleging the company overpaid for Netsuite&#39;s $9.3B acquisition in 2016 &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230515/p5#a230515p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
