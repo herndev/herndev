@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From WonderCon 2023](https://kotaku.com/cosplay-gallery-video-metroid-zelda-resident-evil-1850436465)
- - [Fortnite is adding ranked play in case you need another way to find out you&#39;re not good enough](https://www.pcgamer.com/fortnite-is-adding-ranked-play-in-case-you-need-another-way-to-find-out-youre-not-good-enough)
- - [Hey, Maybe Don&#39;t Harass Battlefield&#39;s Developers](https://kotaku.com/battlefield-2042-ea-dice-toxic-harassment-community-pc-1850436395)<!-- GAME:END -->
+ - [Tekken 8 is bringing back a character first seen in Tekken 3, and one who debuted in an add-on](https://www.pcgamer.com/tekken-8-is-bringing-back-a-character-first-seen-in-tekken-3-and-one-who-debuted-in-an-add-on)
+ - [Fuches looks different on Barry now. That’s what Stephen Root wanted](https://www.polygon.com/23720317/barry-season-4-fuches-raven-episode-6)
+ - [Our Favorite Cosplay From WonderCon 2023](https://kotaku.com/cosplay-gallery-video-metroid-zelda-resident-evil-1850436465)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
