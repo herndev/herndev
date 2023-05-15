@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, exactly the draw you were expecting.](http://9gag.com/gag/a5XzQnN)
- - ⏩ [Resoling a pair of Goodyear welted shoes](http://9gag.com/gag/anzxgzV)
- - 👉 [Joker is like a client](http://9gag.com/gag/adPxBRV)<!-- MEMES:END -->
+ - 💣 [Resoling a pair of Goodyear welted shoes](http://9gag.com/gag/anzxgzV)
+ - ⏩ [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
+ - 👉 [Yeah, exactly the draw you were expecting.](http://9gag.com/gag/a5XzQnN)<!-- MEMES:END -->
 
 ---
 
