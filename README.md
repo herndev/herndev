@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears Of The Kingdom May Include The Zelda Series’ First Gay Character](https://kotaku.com/zelda-tears-of-the-kingdom-calip-tauro-gay-journal-1850437895)
- - [Mayachin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707031/mayachin-shrine-solution-puzzle-chest)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
+ - [Amazon Studio Behind Hit MMO New World Working On Lord Of The Rings Next](https://kotaku.com/amazon-games-lord-of-the-rings-power-mmorpg-new-world-1850438248)
+ - [20 cult horror movies like the Evil Dead you’ve probably never seen](https://www.polygon.com/what-to-watch/23696457/horror-movies-like-evil-dead-around-world)
+ - [Twitter Fights Over Who’s Hotter: Young Al Pacino Or Young Robert DeNiro](https://kotaku.com/young-al-pacino-robert-deniro-hot-twitter-poll-1850437746)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
