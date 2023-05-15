@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
- - ⏩ [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)
- - 👉 [Remember when insects did this?](http://9gag.com/gag/aVbZxyP)<!-- MEMES:END -->
+ - 💣 [Risk = Reward](http://9gag.com/gag/a7q9WZw)
+ - ⏩ [Survives a staggering 30 seconds in 9Gs of force.](http://9gag.com/gag/aGEGgb0)
+ - 👉 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
 
 ---
 
