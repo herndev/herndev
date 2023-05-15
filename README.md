@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s headset could be a cash cow for VR market investors, says Ming-Chi Kuo](https://appleinsider.com/articles/23/05/15/apples-headset-could-be-a-cash-cow-for-vr-market-investors-says-ming-chi-kuo?utm_medium=rss)
- - [The TSA is testing facial recognition tech at 16 US airports, calling the pilot voluntary and accurate, as critics raise bias, privacy, and consent concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/230515/p8#a230515p8)
- - [At I/O 2023, Google Assistant was an afterthought, superseded by Bard, a notable omission after Assistant took center stage at multiple previous I/O keynotes &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230515/p7#a230515p7)<!-- TECH:END -->
+ - [Pluto TV co-founder Ilya Pozin&#39;s Telly opens a waitlist to give away 500,000 55-inch 4K HDR TVs in 2023 with a second screen that constantly shows ads &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/230515/p11#a230515p11)
+ - [A survey of 60 major crypto companies in Q1 on the state of governance and controls finds many operate outside the norm; around half engage an external auditor &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230515/p10#a230515p10)
+ - [Kenya-based M-KOPA, an asset financing service offering African customers access to &quot;productive assets&quot; and digital payments, raised $55M equity and $200M+ debt &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230515/p9#a230515p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
