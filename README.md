@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the Zonai wing in Zelda: Tears of the Kingdom like a pro](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724378/totk-legend-of-zelda-tears-of-the-kingdom-how-to-use-zonai-wing-using-wings)
- - [How to tame a horse and use it to pull a wagon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724004/tame-horse-towing-harness-wagon)
- - [15 Things I Wish I Knew Before Starting Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-tips-ultrahand-shrine-1850438922)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie is finally available digitally](https://www.polygon.com/deals/2023/5/15/23724553/super-mario-bros-movie-rent-buy-digital-amazon-apple)
+ - [Switch Players, Get Ready For Endless Tears Of The Kingdom Notifications](https://kotaku.com/zelda-totk-tears-of-the-kingdom-switch-nintendo-success-1850439116)
+ - [One Of Call Of Duty 4&#39;s Most Beloved Maps Was Only Left In By Accident](https://kotaku.com/call-of-duty-4-modern-warfare-shipment-map-accident-cod-1850438933)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
