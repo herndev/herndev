@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
- - ⏩ [1%er](http://9gag.com/gag/aYVMyZV)
- - 👉 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
+ - 💣 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - ⏩ [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)
+ - 👉 [Giving false witness to the police](http://9gag.com/gag/anzxznB)<!-- MEMES:END -->
 
 ---
 
