@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aOx92VE)
- - ⏩ [Stupid driver cuts turn and\u2026 yeah](http://9gag.com/gag/aEqWMq9)
- - 👉 [Breaking news &lpar;by Sputnik&rpar;](http://9gag.com/gag/ap9x3ob)<!-- MEMES:END -->
+ - 💣 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
+ - ⏩ [Big Whoops.](http://9gag.com/gag/a3Z8Gje)
+ - 👉 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)<!-- MEMES:END -->
 
 ---
 
