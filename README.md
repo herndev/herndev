@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Midjourney AI and how does it work?](https://www.androidauthority.com/what-is-midjourney-3324590/)
- - [Nearly half of online footwear, apparel, and accessories brands tracked by Coresight have expanded to physical stores due to rising digital advertising costs &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/230514/p8#a230514p8)
- - [Spotify problems and how to fix them](https://www.androidauthority.com/spotify-problems-fixes-3324575/)<!-- TECH:END -->
+ - [Pixel users report sudden and severe battery drain, overheating issues](https://www.androidauthority.com/pixel-6-pixel-7-battery-drain-overheating-3324594/)
+ - [How Sea, one of Southeast Asia&#39;s largest internet companies that burned billions of dollars for marketshare, made huge cuts to turn its first profit in 14 years &lpar;Bloomberg&rpar;](http://www.techmeme.com/230515/p1#a230515p1)
+ - [What is Midjourney AI and how does it work?](https://www.androidauthority.com/what-is-midjourney-3324590/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
