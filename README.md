@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO wiped its German website amid EU exit rumors, here’s why](https://www.androidauthority.com/oppo-germany-website-deleted-3324632/)
- - [US crypto tsar Eun Young Choi says the DOJ is targeting exchanges alongside &quot;mixers and tumblers&quot; to stop illicit behavior, aiming to &quot;send a deterrent message&quot; &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/230515/p6#a230515p6)
- - [A Delaware judge rules in favor of Oracle founder Larry Ellison in a shareholder lawsuit alleging the company overpaid for Netsuite&#39;s $9.3B acquisition in 2016 &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230515/p5#a230515p5)<!-- TECH:END -->
+ - [Apple&#39;s headset could be a cash cow for VR market investors, says Ming-Chi Kuo](https://appleinsider.com/articles/23/05/15/apples-headset-could-be-a-cash-cow-for-vr-market-investors-says-ming-chi-kuo?utm_medium=rss)
+ - [The TSA is testing facial recognition tech at 16 US airports, calling the pilot voluntary and accurate, as critics raise bias, privacy, and consent concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/230515/p8#a230515p8)
+ - [At I/O 2023, Google Assistant was an afterthought, superseded by Bard, a notable omission after Assistant took center stage at multiple previous I/O keynotes &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230515/p7#a230515p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
