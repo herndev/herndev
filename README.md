@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring founder is officially leaving Amazon](https://www.theverge.com/2023/5/15/23724223/jamie-siminoff-leaving-amazon-ring-founder)
- - [Carl Pei reviews Apple’s AirPods Pro 2 and shows how Nothing Ear 2 are made](https://www.androidauthority.com/airpods-pro-2-review-carl-pei-3324808/)
- - [The second-gen Apple Pencil for iPads has dropped to a new low price of $85](https://www.theverge.com/2023/5/15/23723833/apple-pencil-ipad-sony-linkbuds-jbl-charge-mac-mini-m2-deal-sale)<!-- TECH:END -->
+ - [Father of modern VR says that Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)
+ - [France doesn&#39;t understand why different iPhone models have varying parts](https://appleinsider.com/articles/23/05/15/france-investigates-apple-over-alleged-planned-obsolescence-from-repair-parts?utm_medium=rss)
+ - [Elon Musk is stuck with his ‘Twitter sitter’ after court rejects bid to toss SEC settlement](https://www.theverge.com/2023/5/15/23723969/elon-musk-twitter-sitter-sec-settlement-court-reject)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
