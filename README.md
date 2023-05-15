@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie is finally available digitally](https://www.polygon.com/deals/2023/5/15/23724553/super-mario-bros-movie-rent-buy-digital-amazon-apple)
- - [Switch Players, Get Ready For Endless Tears Of The Kingdom Notifications](https://kotaku.com/zelda-totk-tears-of-the-kingdom-switch-nintendo-success-1850439116)
- - [One Of Call Of Duty 4&#39;s Most Beloved Maps Was Only Left In By Accident](https://kotaku.com/call-of-duty-4-modern-warfare-shipment-map-accident-cod-1850438933)<!-- GAME:END -->
+ - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)
+ - [How to get to Kakariko Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724588/kakariko-village-location)
+ - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
