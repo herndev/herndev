@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Veteran communicating in morse code at high speeds on a straight key.](http://9gag.com/gag/aVbZ7By)
- - ⏩ [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 👉 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
+ - 💣 [:-&lpar;](http://9gag.com/gag/aNwB9Zb)
+ - ⏩ [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 👉 [Lol](http://9gag.com/gag/aOx92VE)<!-- MEMES:END -->
 
 ---
 
