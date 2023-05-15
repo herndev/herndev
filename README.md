@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
- - ⏩ [Big Whoops.](http://9gag.com/gag/a3Z8Gje)
- - 👉 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)<!-- MEMES:END -->
+ - 💣 [Director: Create a music for a desert planet Hans Zimmer :](http://9gag.com/gag/aL1Azw5)
+ - ⏩ [GTA girls.](http://9gag.com/gag/a3Z85Ev)
+ - 👉 [Bye driver](http://9gag.com/gag/aXn7L4d)<!-- MEMES:END -->
 
 ---
 
