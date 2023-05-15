@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
- - ⏩ [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)
- - 👉 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
+ - 💣 [Did you see that ludicrous display last night?](http://9gag.com/gag/aDYb4ZK)
+ - ⏩ [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
+ - 👉 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)<!-- MEMES:END -->
 
 ---
 
