@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brently can run up the stairs without running out of breath](http://9gag.com/gag/a3Z81W3)
- - ⏩ [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
- - 👉 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
+ - 💣 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - ⏩ [Just a couple of lads trolling a girl](http://9gag.com/gag/a04nNgB)
+ - 👉 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
 
 ---
 
