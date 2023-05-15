@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy cow, Germany hands out serious cash to its homegrown game award winners: Signalis won €60,000 for &#39;Best Debut Game&#39;](https://www.pcgamer.com/holy-cow-germany-hands-out-serious-cash-to-its-homegrown-game-award-winners-signalis-won-euro60000-for-best-debut-game)
- - [Rainbow Six Siege is so consistently buggy that I can&#39;t even be mad anymore](https://www.pcgamer.com/rainbow-six-siege-bugs)
- - [Evil Dead Rise, Netflix’s Mother, Air, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/12/23715208/new-movies-watch-evil-dead-rise-netflix-mother-air-wandering-earth-2)<!-- GAME:END -->
+ - [Hey, Maybe Don&#39;t Harass Battlefield&#39;s Developers](https://kotaku.com/battlefield-2042-ea-dice-toxic-harassment-community-pc-1850436395)
+ - [A co-creator of the original Fallout says he modified his criminally underrated D&amp;D videogame to work with a Department of Defense AI project in 2005](https://www.pcgamer.com/a-co-creator-of-the-original-fallout-says-he-modified-his-criminally-underrated-dandd-videogame-to-work-with-a-department-of-defense-ai-project-in-2005)
+ - [WoW Classic is getting official &#39;hardcore&#39; mode servers](https://www.pcgamer.com/wow-classic-is-getting-official-hardcore-mode-servers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
