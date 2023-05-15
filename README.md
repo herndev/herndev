@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous delivery startup Nuro will lay off 30% of its workforce, or ~340 people, as part of a restructuring; Nuro laid off 20% of its staff in November 2022 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230512/p20#a230512p20)
- - [Your Pixel phone is about to get a little jazzier in the style of Kenny G](https://www.androidauthority.com/pixel-phone-jazz-3324450/)
- - [Current and former employees say Foxconn has hired ~10K contract workers in Chennai, India, since November 2022, paying between ~$190 and ~$225 per month &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230512/p19#a230512p19)<!-- TECH:END -->
+ - [Emergency SOS via Satellite lands in Australia and New Zealand](https://appleinsider.com/articles/23/05/14/emergency-sos-via-satellite-lands-in-australia-and-new-zealand?utm_medium=rss)
+ - [Swedish cybersecurity company Truesec and experts: Russia-linked &quot;Anonymous Sudan&quot; is one of the most prolific hacktivist groups targeting Swedish organizations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230514/p7#a230514p7)
+ - [Oculus founder says Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
