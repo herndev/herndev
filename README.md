@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did you see that ludicrous display last night?](http://9gag.com/gag/aDYb4ZK)
- - ⏩ [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
- - 👉 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)<!-- MEMES:END -->
+ - 💣 [Veteran communicating in morse code at high speeds on a straight key.](http://9gag.com/gag/aVbZ7By)
+ - ⏩ [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 👉 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
 
 ---
 
