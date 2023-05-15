@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile giving away MLB.TV subscriptions for second time this year](https://www.androidauthority.com/t-mobile-mlbtv-may-2023-3324761/)
- - [Amazon is making a Lord of the Rings MMO &lpar;again&rpar;](https://www.theverge.com/23723787/amazon-lord-of-the-rings-mmo)
- - [Unfair Automated Hiring Systems Are Everywhere](https://www.wired.com/story/unfair-automated-hiring-systems-are-everywhere-ftc/)<!-- TECH:END -->
+ - [Pick up the Nest Mini for just $37.49, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [Sources: the IRS has quietly built a prototype system to let Americans file tax returns digitally and free of charge, with a pilot slated to launch in January &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230515/p17#a230515p17)
+ - [Avatar: The Way of Water hits Disney Plus and Max on June 7th](https://www.theverge.com/2023/5/15/23724168/avatar-the-way-of-water-disney-plus-max-release-date-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
