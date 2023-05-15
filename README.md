@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Counter-Strike moment so good even Valve said &#39;put this play in the Louvre&#39;, which someone then literally did](https://www.pcgamer.com/the-counter-strike-clutch-play-so-good-even-valve-said-put-it-in-the-louvre-which-someone-then-literally-did)
- - [I have serious regrets about wasting my weekend fighting the Diablo 4 beta&#39;s awful world boss](https://www.pcgamer.com/i-have-serious-regrets-about-wasting-my-weekend-fighting-the-diablo-4-betas-awful-world-boss)
- - [&#39;Britain&#39;s Bill Gates&#39; finally extradited to California to face charges in &#39;one of the largest frauds ever prosecuted by the United States Department of Justice&#39;](https://www.pcgamer.com/britains-bill-gates-finally-extradited-to-california-to-face-charges-in-one-of-the-largest-frauds-ever-prosecuted-by-the-united-states-department-of-justice)<!-- GAME:END -->
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
+ - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)
+ - [G.Skill Trident Z5 RGB DDR5-7200 48GB](https://www.pcgamer.com/gskill-trident-z5-rgb-ddr5-7200-48gb-memory-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
