@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Midjourney AI and how does it work?](https://www.androidauthority.com/what-is-midjourney-3324590/)
  - [Nearly half of online footwear, apparel, and accessories brands tracked by Coresight have expanded to physical stores due to rising digital advertising costs &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/230514/p8#a230514p8)
- - [Spotify problems and how to fix them](https://www.androidauthority.com/spotify-problems-fixes-3324575/)
- - [Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify problems and how to fix them](https://www.androidauthority.com/spotify-problems-fixes-3324575/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
