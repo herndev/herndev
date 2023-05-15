@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
- - ⏩ [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
- - 👉 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
+ - 💣 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
+ - ⏩ [1%er](http://9gag.com/gag/aYVMyZV)
+ - 👉 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
 
 ---
 
