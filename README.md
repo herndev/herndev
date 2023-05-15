@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hey, Maybe Don&#39;t Harass Battlefield&#39;s Developers](https://kotaku.com/battlefield-2042-ea-dice-toxic-harassment-community-pc-1850436395)
- - [A co-creator of the original Fallout says he modified his criminally underrated D&amp;D videogame to work with a Department of Defense AI project in 2005](https://www.pcgamer.com/a-co-creator-of-the-original-fallout-says-he-modified-his-criminally-underrated-dandd-videogame-to-work-with-a-department-of-defense-ai-project-in-2005)
- - [WoW Classic is getting official &#39;hardcore&#39; mode servers](https://www.pcgamer.com/wow-classic-is-getting-official-hardcore-mode-servers)<!-- GAME:END -->
+ - [Our Favorite Cosplay From WonderCon 2023](https://kotaku.com/cosplay-gallery-video-metroid-zelda-resident-evil-1850436465)
+ - [Fortnite is adding ranked play in case you need another way to find out you&#39;re not good enough](https://www.pcgamer.com/fortnite-is-adding-ranked-play-in-case-you-need-another-way-to-find-out-youre-not-good-enough)
+ - [Hey, Maybe Don&#39;t Harass Battlefield&#39;s Developers](https://kotaku.com/battlefield-2042-ea-dice-toxic-harassment-community-pc-1850436395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
