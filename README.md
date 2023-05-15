@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pluto TV co-founder Ilya Pozin&#39;s Telly opens a waitlist to give away 500,000 55-inch 4K HDR TVs in 2023 with a second screen that constantly shows ads &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/230515/p11#a230515p11)
- - [A survey of 60 major crypto companies in Q1 on the state of governance and controls finds many operate outside the norm; around half engage an external auditor &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230515/p10#a230515p10)
- - [Kenya-based M-KOPA, an asset financing service offering African customers access to &quot;productive assets&quot; and digital payments, raised $55M equity and $200M+ debt &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230515/p9#a230515p9)<!-- TECH:END -->
+ - [12 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [4 Best Music Streaming Services &lpar;2023&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
+ - [How to hardwire your home without ethernet in the walls](https://www.theverge.com/23715458/ethernet-hardwire-home-wireless-internet-powerline-networking-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
