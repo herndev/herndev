@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
- - ⏩ [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
- - 👉 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
+ - 💣 [Yeah, exactly the draw you were expecting.](http://9gag.com/gag/a5XzQnN)
+ - ⏩ [Resoling a pair of Goodyear welted shoes](http://9gag.com/gag/anzxgzV)
+ - 👉 [Joker is like a client](http://9gag.com/gag/adPxBRV)<!-- MEMES:END -->
 
 ---
 
