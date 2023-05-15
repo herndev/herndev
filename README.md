@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Father of modern VR says that Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)
- - [France doesn&#39;t understand why different iPhone models have varying parts](https://appleinsider.com/articles/23/05/15/france-investigates-apple-over-alleged-planned-obsolescence-from-repair-parts?utm_medium=rss)
- - [Elon Musk is stuck with his ‘Twitter sitter’ after court rejects bid to toss SEC settlement](https://www.theverge.com/2023/5/15/23723969/elon-musk-twitter-sitter-sec-settlement-court-reject)<!-- TECH:END -->
+ - [Founders of Indian BNPL startup ZestMoney, which raised $130M+ to date, resign amid fundraising struggles, after a deal to be acquired by PhonePe fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230515/p22#a230515p22)
+ - [In new trailer for Peacock’s Based on a True Story, murder’s just podcast content](https://www.theverge.com/2023/5/15/23724398/peacock-based-on-a-true-story-trailer-premiere)
+ - [Amazon is building an AI-powered ‘conversational experience’ for search](https://www.theverge.com/2023/5/15/23724357/amazon-ai-powered-conversational-experience-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
