@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [:-&lpar;](http://9gag.com/gag/aNwB9Zb)
- - ⏩ [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 👉 [Lol](http://9gag.com/gag/aOx92VE)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/aOx92VE)
+ - ⏩ [Stupid driver cuts turn and\u2026 yeah](http://9gag.com/gag/aEqWMq9)
+ - 👉 [Breaking news &lpar;by Sputnik&rpar;](http://9gag.com/gag/ap9x3ob)<!-- MEMES:END -->
 
 ---
 
