@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
- - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)
- - [G.Skill Trident Z5 RGB DDR5-7200 48GB](https://www.pcgamer.com/gskill-trident-z5-rgb-ddr5-7200-48gb-memory-review)<!-- GAME:END -->
+ - [Zelda: Tears Of The Kingdom’s Paraglider Is Easy To Miss, Here’s How To Get It](https://kotaku.com/zelda-tears-of-the-kingdom-how-to-paraglider-location-1850437399)
+ - [David Tennant, Catherine Tate reunite in new Doctor Who special trailer](https://www.polygon.com/23723873/david-tennant-catherine-tate-doctor-who-60th-anniversary-trailer-release-date)
+ - [Fortnite is finally adding ranked play](https://www.polygon.com/23723859/fortnite-ranked-mode-battle-royale-zero-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
