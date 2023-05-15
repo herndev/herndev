@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU regulators approve Microsoft&#39;s $69B Activision Blizzard deal after the company made concessions over giving rivals access to Call of Duty and other games &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/230515/p15#a230515p15)
- - [Microsoft’s Activision Blizzard acquisition approved by EU regulators](https://www.theverge.com/2023/5/15/23723703/microsoft-activision-blizzard-acquisition-approved-eu-european-commission)
- - [10 Best Portable Grills &lpar;2023&rpar;: Charcoal, Propane, Electric and More](https://www.wired.com/story/best-portable-grills/)<!-- TECH:END -->
+ - [T-Mobile giving away MLB.TV subscriptions for second time this year](https://www.androidauthority.com/t-mobile-mlbtv-may-2023-3324761/)
+ - [Amazon is making a Lord of the Rings MMO &lpar;again&rpar;](https://www.theverge.com/23723787/amazon-lord-of-the-rings-mmo)
+ - [Unfair Automated Hiring Systems Are Everywhere](https://www.wired.com/story/unfair-automated-hiring-systems-are-everywhere-ftc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
