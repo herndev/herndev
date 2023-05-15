@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brutus is busy](http://9gag.com/gag/a6qBEON)
- - ⏩ [Based.](http://9gag.com/gag/aOx9xvv)
- - 👉 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)<!-- MEMES:END -->
+ - 💣 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
+ - ⏩ [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)
+ - 👉 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
 
 ---
 
