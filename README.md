@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
- - ⏩ [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)
- - 👉 [Giving false witness to the police](http://9gag.com/gag/anzxznB)<!-- MEMES:END -->
+ - 💣 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
+ - ⏩ [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
+ - 👉 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
 
 ---
 
