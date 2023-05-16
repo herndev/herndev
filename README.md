@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 5 and Flip 5 could be announced in July](https://www.theverge.com/2023/5/16/23725294/samsung-galaxy-z-fold-5-flip-5-july-unpacked)
- - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal [u]](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)
- - [Get a lifetime Babbel language learning subscription for $199 &lpar;$400 off&rpar;](https://appleinsider.com/articles/23/05/16/get-a-lifetime-babbel-language-learning-subscription-for-199-400-off?utm_medium=rss)<!-- TECH:END -->
+ - [The US announces charges, sanctions, and a $10M reward for info leading to the arrest of Russian national Mikhail Matveev, a Babuk ransomware gang operative &lpar;Spencer S. Hsu/Washington Post&rpar;](http://www.techmeme.com/230516/p23#a230516p23)
+ - [Apple adds new concert-finding features to Maps and Music](https://www.theverge.com/2023/5/16/23725530/apple-concert-discovery-maps-music)
+ - [Third ex-Apple engineer charged over Apple Car technology theft](https://appleinsider.com/articles/23/05/16/third-ex-apple-engineer-charged-over-apple-car-technology-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
