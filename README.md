@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We don&#39;t waste resources around here.](http://9gag.com/gag/a04nVgz)
- - ⏩ [Solid burn](http://9gag.com/gag/armx3Ld)
- - 👉 [Broke the opponent mentally at the beginning of the fight](http://9gag.com/gag/aMEzmm6)<!-- MEMES:END -->
+ - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - ⏩ [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 👉 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)<!-- MEMES:END -->
 
 ---
 
