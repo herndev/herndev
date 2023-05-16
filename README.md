@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: FIFA 23, Planet of Lana, Railway Empire 2, and More](https://news.xbox.com/en-us/2023/05/16/game-pass-may-2023-wave-2-announce/)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [The Super Mario Bros. Movie is finally available digitally](https://www.polygon.com/deals/2023/5/15/23724553/super-mario-bros-movie-rent-buy-digital-amazon-apple)<!-- GAME:END -->
+ - [Netflix’s Extraction 2 trailer looks even more explosive than the original](https://www.polygon.com/23724666/extraction-2-trailer-netflix-release-date-chris-hemsworth)
+ - [Riot Games announces new CEO as it emerges the company will pay out over $100 million to 1,548 women to settle gender discrimination case](https://www.pcgamer.com/riot-games-announces-new-ceo-as-it-emerges-the-company-will-pay-out-over-dollar100-million-to-1548-women-to-settle-gender-discrimination-case)
+ - [Zelda: Tears Of The Kingdom Players Are Building Tanks, Planes To Commit War Crimes](https://kotaku.com/zelda-tears-of-the-kingdom-zonai-tank-bomb-totk-zonai-1850437597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
