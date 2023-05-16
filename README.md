@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mayachin Shrine ‘A Fixed Device’ puzzle solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707031/mayachin-shrine-solution-puzzle-chest)
- - [Musanokir Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724754/musanokir-shrine-solution-puzzle-chest)
- - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)<!-- GAME:END -->
+ - [Steam is ditching a Google tool that Valve says &#39;doesn&#39;t align&#39; with its customer privacy approach](https://www.pcgamer.com/steam-valve-google-analytics)
+ - [Where to find the Glide Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724903/glide-armor-set-locations-head-chest-legs-fall-damage)
+ - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
