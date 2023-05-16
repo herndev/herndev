@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password is finally rolling out passkey management](https://www.theverge.com/2023/5/16/23725223/1password-passkey-date-password-manager)
- - [Verizon hits reset on its 5G Mix and Match plans with new streamlined ‘myPlan’ offerings](https://www.theverge.com/2023/5/16/23723887/verizon-myplan-unlimited-5g-cellular-plans-announcement)
- - [As the European Central Bank prepares to pilot a digital euro in October, consumers, financiers, and politicians are questioning the project&#39;s aims and benefits &lpar;Financial Times&rpar;](http://www.techmeme.com/230516/p12#a230516p12)<!-- TECH:END -->
+ - [The First Crispr-Edited Salad Is Here](https://www.wired.com/story/wired30-crispr-edited-salad-greens/)
+ - [Eve announces upgraded Flare light with Thread alongside European Shutter Switch](https://appleinsider.com/articles/23/05/16/eve-announces-upgraded-flare-light-with-thread-alongside-european-shutter-switch?utm_medium=rss)
+ - [15 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
