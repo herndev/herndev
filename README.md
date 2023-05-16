@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NFT cockfighting game canned, but will buy back your cocks](https://www.pcgamer.com/nft-cockfighting-game-canned-but-will-buy-back-your-cocks)
- - [Smash Bros. Pro Trash Talks 15-Year-Old, Gets Roasted By Kid&#39;s Mom](https://kotaku.com/smash-bros-ultimate-mom-trash-talks-syrup-maister-pro-1850442280)
- - [Surprise, Skull and Bones won&#39;t actually be out &#39;early&#39; this year after all](https://www.pcgamer.com/surprise-skull-and-bones-wont-actually-be-out-early-this-year-after-all)<!-- GAME:END -->
+ - [ChatGPT boss calls for a new government agency to keep AI companies in check](https://www.pcgamer.com/chatgpt-boss-calls-for-a-new-government-agency-to-keep-ai-companies-in-check)
+ - [Blizzard is scrapping Overwatch 2 co-op missions and hero progression: &#39;It&#39;s clear that we can&#39;t deliver on the original vision for PvE&#39;](https://www.pcgamer.com/blizzard-is-scrapping-overwatch-2-co-op-missions-and-hero-progression-its-clear-that-we-cant-deliver-on-the-original-vision-for-pve)
+ - [Zelda: Tears Of The Kingdom Site Will Help You Make Those Wild Builds You&#39;re Seeing](https://kotaku.com/zelda-tears-of-the-kingdom-builds-plane-zonai-materials-1850442454)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
