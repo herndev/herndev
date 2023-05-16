@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 display panel supply chain is on schedule for June production](https://appleinsider.com/articles/23/05/16/iphone-15-display-panel-supply-chain-is-on-schedule-for-june-production?utm_medium=rss)
- - [Apple blocked over $2 billion in fraudulent transactions &amp; 1.7 million bogus apps in 2022](https://appleinsider.com/articles/23/05/16/apple-blocked-over-2-billion-in-fraudulent-transactions-17-million-bogus-apps-in-2022?utm_medium=rss)
- - [Framework Laptop 13 review: fully user-repairable, DIY kits, 3:2 screen, long battery life, and better audio, but a generic look, pricey, and plasticky build &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230516/p24#a230516p24)<!-- TECH:END -->
+ - [Google updates its inactivity policy: accounts that have been inactive for 2+ years will be deleted, except for those with YouTube videos, starting in December &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230516/p27#a230516p27)
+ - [Zoom plans to add Anthropic&#39;s AI chatbot Claude to its products, starting with Contact Center; details on other integrations are vague &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230516/p26#a230516p26)
+ - [Zelda players turned Tears of the Kingdom into a Korok torture chamber](https://www.theverge.com/2023/5/16/23725487/tears-of-the-kingdom-koroks-torture-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
