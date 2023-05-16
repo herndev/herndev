@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter buys recruiting startup Laskie for &quot;tens of millions&quot; in cash and stock, its first deal of the Elon Musk era; PitchBook: Laskie had raised $6M &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/230516/p3#a230516p3)
- - [Irish Council for Civil Liberties: 75% of the Irish DPC&#39;s GDPR decisions in EU-level cases since 2018 have been overruled by the European Data Protection Board &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/230516/p2#a230516p2)
- - [Chat Lock on WhatsApp will make your ‘extra-special messages’ more private](https://www.androidauthority.com/whatsapp-chat-lock-3325016/)<!-- TECH:END -->
+ - [Samsung’s latest Galaxy S23 model is made for warzones](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-3325046/)
+ - [MTN plans to build a $320M East2West inland fiber cable connecting ten African countries in Q4 2023, following its subsea cable that landed in Cape Town in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230516/p5#a230516p5)
+ - [Court filings show Jump Trading secretly purchased tens of millions of dollars worth of TerraUSD and made ~$1B in profit a year before the coin&#39;s collapse &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p4#a230516p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
