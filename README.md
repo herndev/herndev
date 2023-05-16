@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam is ditching a Google tool that Valve says &#39;doesn&#39;t align&#39; with its customer privacy approach](https://www.pcgamer.com/steam-valve-google-analytics)
- - [Where to find the Glide Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724903/glide-armor-set-locations-head-chest-legs-fall-damage)
- - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)<!-- GAME:END -->
+ - [Blizzard ‘Confident’ Diablo IV Won&#39;t Be Broken At Launch &lpar;For Real This Time&rpar;](https://kotaku.com/diablo-4-launch-release-day-servers-account-necromancer-1850443293)
+ - [Ubisoft is jumping into AI, with &#39;developers of all levels experimenting with the technology&#39;](https://www.pcgamer.com/ubisoft-is-jumping-into-ai-with-developers-of-all-levels-experimenting-with-the-technology)
+ - [Inside the creative minds of Humanity developers Yugo Nakamura and Tetsuya Mizuguchi](https://blog.playstation.com/2023/05/16/inside-the-creative-minds-of-humanity-developers-yugo-nakamura-and-tetsuya-mizuguchi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
