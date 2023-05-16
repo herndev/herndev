@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - ⏩ [He is coming.](http://9gag.com/gag/awZO3bW)
- - 👉 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)<!-- MEMES:END -->
+ - 💣 [This guy should work for CIA](http://9gag.com/gag/aDYb2AG)
+ - ⏩ [Classic schmosby](http://9gag.com/gag/agox75x)
+ - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
 
 ---
 
