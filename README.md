@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to keep your cooler cooler clean.](http://9gag.com/gag/aQEmzm8)
- - ⏩ [He is coming.](http://9gag.com/gag/awZO3bW)
- - 👉 [Based.](http://9gag.com/gag/aOx9xvv)<!-- MEMES:END -->
+ - 💣 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - ⏩ [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
+ - 👉 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
 
 ---
 
