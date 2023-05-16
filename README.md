@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giving false witness to the police](http://9gag.com/gag/anzxznB)
- - ⏩ [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
- - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 💣 [We don&#39;t waste resources around here.](http://9gag.com/gag/a04nVgz)
+ - ⏩ [Solid burn](http://9gag.com/gag/armx3Ld)
+ - 👉 [Broke the opponent mentally at the beginning of the fight](http://9gag.com/gag/aMEzmm6)<!-- MEMES:END -->
 
 ---
 
