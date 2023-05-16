@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy should work for CIA](http://9gag.com/gag/aDYb2AG)
- - ⏩ [Classic schmosby](http://9gag.com/gag/agox75x)
- - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
+ - 💣 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
+ - ⏩ [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
+ - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 ---
 
