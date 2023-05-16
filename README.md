@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - ⏩ [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 💣 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
+ - ⏩ [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
 
 ---
 
