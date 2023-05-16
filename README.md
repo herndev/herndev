@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates its inactivity policy: accounts that have been inactive for 2+ years will be deleted, except for those with YouTube videos, starting in December &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230516/p27#a230516p27)
- - [Zoom plans to add Anthropic&#39;s AI chatbot Claude to its products, starting with Contact Center; details on other integrations are vague &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230516/p26#a230516p26)
- - [Zelda players turned Tears of the Kingdom into a Korok torture chamber](https://www.theverge.com/2023/5/16/23725487/tears-of-the-kingdom-koroks-torture-nintendo)<!-- TECH:END -->
+ - [Motorola confirms Razr 40 and 40 Ultra launch date](https://www.androidauthority.com/motorola-razr-40-3325389/)
+ - [Forever chemicals are disproportionately polluting Black and Hispanic neighborhoods](https://www.theverge.com/2023/5/16/23725917/pfas-forever-chemicals-toxic-black-hispanic-pollution)
+ - [Apple touts $2B+ in App Store fraud prevented in 2022, including 3.9M stolen credit cards blocked, 147M+ ratings/reviews removed, 428K dev accounts terminated &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230516/p28#a230516p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
