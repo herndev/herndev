@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds Pro vs Apple AirPods Pro 2: Which should you buy?](https://www.androidauthority.com/google-pixel-buds-pro-vs-apple-airpods-pro-2-3318921/)
- - [Tesla Bot can walk very slowly and pick up stuff now](https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting)
- - [Crypto wallet company Ledger faces criticism after it unveiled an optional seed phrase recovery subscription service that some security experts say is insecure &lpar;Judith Bannermanquist/Cointelegraph&rpar;](http://www.techmeme.com/230516/p32#a230516p32)<!-- TECH:END -->
+ - [The first four Indiana Jones movies are coming to Disney Plus on May 31st](https://www.theverge.com/23726270/indiana-jones-disney-plus-streaming-rights-paramount)
+ - [Ring founder to become CEO of commercial smart home company Latch](https://www.theverge.com/2023/5/16/23725963/jamie-siminoff-ring-amazon-latch-ceo-smart-home)
+ - [How to pre-order the Pixel Fold and get a Pixel Watch for free](https://www.androidauthority.com/pixel-fold-pre-order-3325399/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
