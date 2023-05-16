@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is coming.](http://9gag.com/gag/awZO3bW)
- - ⏩ [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
- - 👉 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
+ - 💣 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
+ - ⏩ [Dad passed the vibe check](http://9gag.com/gag/aeQxO6v)
+ - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 ---
 
