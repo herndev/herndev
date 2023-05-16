@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The First Crispr-Edited Salad Is Here](https://www.wired.com/story/wired30-crispr-edited-salad-greens/)
- - [Eve announces upgraded Flare light with Thread alongside European Shutter Switch](https://appleinsider.com/articles/23/05/16/eve-announces-upgraded-flare-light-with-thread-alongside-european-shutter-switch?utm_medium=rss)
- - [15 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)<!-- TECH:END -->
+ - [Critical security flaw is exposing older Wemo Smart Plugs to hackers](https://appleinsider.com/articles/23/05/16/critical-security-flaw-is-exposing-older-wemo-smart-plugs-to-hackers?utm_medium=rss)
+ - [A live blog of testimony from OpenAI CEO Sam Altman, IBM VP Christina Montgomery, and professor Gary Marcus before the Senate Judiciary subcommittee &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230516/p16#a230516p16)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
