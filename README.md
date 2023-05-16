@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Framework 13 Intel 13th Gen mainboard](https://www.pcgamer.com/framework-13-laptop-intel-core-i7-1370p-mainboard-review-benchmarks)
- - [Zelda: Tears Of The Kingdom Pirate Tracked Down By Nintendo](https://kotaku.com/zelda-tears-of-the-kingdom-pirate-rom-nintendo-comcast-1850441155)
- - [Zelda: Tears Of The Kingdom’s Camera Is Worth Getting Early, Here’s How](https://kotaku.com/zelda-tears-of-the-kingdom-camera-purah-pad-unlock-1850441115)<!-- GAME:END -->
+ - [Overwhelmed in Zelda: Tears of the Kingdom? Breath of the Wild can help](https://www.polygon.com/legend-zelda-tears-kingdom/23724726/tears-of-the-kingdom-breath-of-the-wild-comparison-physics-puzzles-tools)
+ - [Everybody Thank This Zelda: Tears Of The Kingdom Designer For Making Ganon Hot](https://kotaku.com/zelda-tears-of-the-kingdom-ganon-hot-design-switch-1850441588)
+ - [Domizuin Shrine ‘A Prone Pathway’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724576/domizuin-shrine-a-prone-pathway-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
