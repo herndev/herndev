@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Guidance of Ages Past’ walkthrough for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723155/guidance-of-ages-past-spirit-temple-seized-construct-boss-right-leg-arm-leg-puzzle-solutions)
- - [‘Find the Fifth Sage’ walkthrough, what to do at the Ring Ruins in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23719768/find-the-fifth-sage-location-secret-of-the-ring-ruins-thunderhead-isles)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog lineup for May: Ratchet &amp; Clank: Rift Apart, Humanity, Watch Dogs: Legion](https://blog.playstation.com/2023/05/16/20230516-psplus/)<!-- GAME:END -->
+ - [I&#39;m a VR evangelist and even I baulk at the rumoured price of Apple&#39;s &#39;so good&#39; VR headset](https://www.pcgamer.com/im-a-vr-evangelist-and-even-i-baulk-at-the-rumoured-price-of-apples-so-good-vr-headset)
+ - [WoW 10.1.5: Everything we know about World of Warcraft&#39;s next update](https://www.pcgamer.com/world-of-warcraft-wow-10-1-5-fractures-in-time)
+ - [You can grab 500 hours of Mass Effect and Dragon Age for 20 bucks right now](https://www.pcgamer.com/you-can-grab-500-hours-of-mass-effect-and-dragon-age-for-20-bucks-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
