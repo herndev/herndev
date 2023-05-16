@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter&#39;s encrypted DMs don&#39;t offer end-to-end encryption, making them vulnerable to man-in-the-middle attacks and open to government access requests &lpar;Platformer&rpar;](http://www.techmeme.com/230515/p30#a230515p30)
  - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)
- - [Filing: Berkshire Hathaway closed out its remaining position in TSMC after cutting its holding by 86% in Q4 2022, amid rising tensions between China and Taiwan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230515/p29#a230515p29)
- - [How to verify your external bank account for Apple Savings transfers](https://appleinsider.com/articles/23/05/16/how-to-verify-your-external-bank-account-for-apple-savings-transfers?utm_medium=rss)<!-- TECH:END -->
+ - [Q1 2023 filings: Berkshire Hathaway sold its TSMC shares after cutting its position by 86% in Q4 2022, while Tiger Global and Coatue added to their TSMC stakes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230515/p29#a230515p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
