@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critical security flaw is exposing older Wemo Smart Plugs to hackers](https://appleinsider.com/articles/23/05/16/critical-security-flaw-is-exposing-older-wemo-smart-plugs-to-hackers?utm_medium=rss)
- - [A live blog of testimony from OpenAI CEO Sam Altman, IBM VP Christina Montgomery, and professor Gary Marcus before the Senate Judiciary subcommittee &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230516/p16#a230516p16)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
+ - [Microsoft’s Bing Chat gets deeper Edge mobile integration, a widget, and much more](https://www.theverge.com/2023/5/16/23725256/microsoft-bing-chat-mobile-edge-integration-widget-features)
+ - [Apple Music rolls out new concert discovery features with Apple Maps integration](https://appleinsider.com/articles/23/05/16/apple-music-rolls-out-new-concert-discovery-features-with-apple-maps-integration?utm_medium=rss)
+ - [Apple rolls out new concert discovery features in Apple Maps and Apple Music, including Guides to local venues in select cities and Set Lists for select artists &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230516/p17#a230516p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
