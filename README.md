@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m a VR evangelist and even I baulk at the rumoured price of Apple&#39;s &#39;so good&#39; VR headset](https://www.pcgamer.com/im-a-vr-evangelist-and-even-i-baulk-at-the-rumoured-price-of-apples-so-good-vr-headset)
- - [WoW 10.1.5: Everything we know about World of Warcraft&#39;s next update](https://www.pcgamer.com/world-of-warcraft-wow-10-1-5-fractures-in-time)
- - [You can grab 500 hours of Mass Effect and Dragon Age for 20 bucks right now](https://www.pcgamer.com/you-can-grab-500-hours-of-mass-effect-and-dragon-age-for-20-bucks-right-now)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: FIFA 23, Planet of Lana, Railway Empire 2, and More](https://news.xbox.com/en-us/2023/05/16/game-pass-may-2023-wave-2-announce/)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [The Super Mario Bros. Movie is finally available digitally](https://www.polygon.com/deals/2023/5/15/23724553/super-mario-bros-movie-rent-buy-digital-amazon-apple)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
