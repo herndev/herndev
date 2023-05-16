@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ChatGPT boss calls for a new government agency to keep AI companies in check](https://www.pcgamer.com/chatgpt-boss-calls-for-a-new-government-agency-to-keep-ai-companies-in-check)
- - [Blizzard is scrapping Overwatch 2 co-op missions and hero progression: &#39;It&#39;s clear that we can&#39;t deliver on the original vision for PvE&#39;](https://www.pcgamer.com/blizzard-is-scrapping-overwatch-2-co-op-missions-and-hero-progression-its-clear-that-we-cant-deliver-on-the-original-vision-for-pve)
- - [Zelda: Tears Of The Kingdom Site Will Help You Make Those Wild Builds You&#39;re Seeing](https://kotaku.com/zelda-tears-of-the-kingdom-builds-plane-zonai-materials-1850442454)<!-- GAME:END -->
+ - [Mayachin Shrine ‘A Fixed Device’ puzzle solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707031/mayachin-shrine-solution-puzzle-chest)
+ - [Musanokir Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724754/musanokir-shrine-solution-puzzle-chest)
+ - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
