@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)
- - ⏩ [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - 👉 [This guy should work for CIA](http://9gag.com/gag/aDYb2AG)<!-- MEMES:END -->
+ - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - ⏩ [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 ---
 
