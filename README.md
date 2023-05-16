@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp introduces Chat Lock, which lets users put chats in a password- or biometrics-protected folder and hide chats&#39; contents and senders in notifications &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230515/p26#a230515p26)
- - [Google Pixel Tablet vs Samsung Galaxy Tab S8: Polar opposites](https://www.androidauthority.com/google-pixel-tablet-vs-samsung-galaxy-tab-s8-3323907/)
- - [Should you buy the Pixel 7a or wait for the Pixel 8?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-3321554/)<!-- TECH:END -->
+ - [A small cable company is going all-in on YouTube TV for video](https://www.theverge.com/2023/5/15/23724443/wide-open-west-cable-youtube-tv)
+ - [Apple Watch Ultra falls to $701.99, the lowest price ever on Amazon](https://appleinsider.com/articles/23/05/15/apple-watch-ultra-falls-to-70199-the-lowest-price-ever-on-amazon?utm_medium=rss)
+ - [Pixel users see severe battery drain, overheating &lpar;Update: Google response&rpar;](https://www.androidauthority.com/pixel-6-pixel-7-battery-drain-overheating-3324594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
