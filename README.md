@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung admits defeat and reportedly inks deal for LG’s OLED TV panels](https://www.theverge.com/2023/5/16/23725160/samsung-lg-oled-tv-panels-deal-supply-report)
- - [After decades of slumber, Japan&#39;s tech industry, which has produced just 10 unicorns, finally shows some signs of life as its startups raised ~$6.4B in 2022 &lpar;Roland Kelts/Rest of World&rpar;](http://www.techmeme.com/230516/p7#a230516p7)
- - [Facebook said it unsent those accidental friend requests from last week](https://www.androidauthority.com/facebook-friend-request-glitch-fixed-3325087/)<!-- TECH:END -->
+ - [iPhone 15 Pro Max rumored to be only model that gets new periscope lens tech](https://appleinsider.com/articles/23/05/16/iphone-15-pro-max-rumored-to-be-only-model-that-gets-new-periscope-lens-tech?utm_medium=rss)
+ - [Q&amp;A with Michael Lewis on his FTX book, &quot;Going Infinite: The Rise and Fall of a New Tycoon&quot;, slated for October 3, visiting SBF, the forthcoming trial, and more &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/230516/p9#a230516p9)
+ - [Baidu reports Q1 revenue up 10% YoY to ~$4.5B and ~$834M net income, both above analyst estimates, driven by its ad and cloud businesses &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230516/p8#a230516p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
