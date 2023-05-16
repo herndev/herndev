@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
- - [Lego has created a classy Batman Returns set, in a targeted attack on me personally](https://www.polygon.com/23725377/lego-batman-batcave-shadow-box-set-release-date-price)
- - [Call of Duty&#39;s &#39;worst map in all of videogames&#39; is only there by mistake](https://www.pcgamer.com/call-of-dutys-worst-map-in-all-of-videogames-is-only-there-by-mistake)<!-- GAME:END -->
+ - [Framework 13 Intel 13th Gen mainboard](https://www.pcgamer.com/framework-13-laptop-intel-core-i7-1370p-mainboard-review-benchmarks)
+ - [Zelda: Tears Of The Kingdom Pirate Tracked Down By Nintendo](https://kotaku.com/zelda-tears-of-the-kingdom-pirate-rom-nintendo-comcast-1850441155)
+ - [Zelda: Tears Of The Kingdom’s Camera Is Worth Getting Early, Here’s How](https://kotaku.com/zelda-tears-of-the-kingdom-camera-purah-pad-unlock-1850441115)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
