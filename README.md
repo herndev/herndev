@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
- - ⏩ [Veteran communicating in morse code at high speeds on a straight key.](http://9gag.com/gag/aVbZ7By)
- - 👉 [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)<!-- MEMES:END -->
+ - 💣 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
+ - ⏩ [A Good F**king](http://9gag.com/gag/aXn7L1g)
+ - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
 
 ---
 
