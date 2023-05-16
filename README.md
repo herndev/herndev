@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
- - ⏩ [Dad passed the vibe check](http://9gag.com/gag/aeQxO6v)
- - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
+ - 💣 [Giving false witness to the police](http://9gag.com/gag/anzxznB)
+ - ⏩ [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
+ - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 ---
 
