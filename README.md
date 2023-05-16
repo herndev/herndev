@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Director: Create a music for a desert planet Hans Zimmer :](http://9gag.com/gag/aL1Azw5)
- - ⏩ [GTA girls.](http://9gag.com/gag/a3Z85Ev)
- - 👉 [Bye driver](http://9gag.com/gag/aXn7L4d)<!-- MEMES:END -->
+ - 💣 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
+ - ⏩ [Veteran communicating in morse code at high speeds on a straight key.](http://9gag.com/gag/aVbZ7By)
+ - 👉 [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)<!-- MEMES:END -->
 
 ---
 
