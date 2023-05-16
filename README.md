@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
- - ⏩ [Hard to digest](http://9gag.com/gag/aoKx32X)
- - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
+ - 💣 [Random information](http://9gag.com/gag/adPxvQZ)
+ - ⏩ [A strange-looking Lukashenko appeared in public to deny rumors that he had been poisoned during his visit to Moscow.](http://9gag.com/gag/aVbZoEM)
+ - 👉 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)<!-- MEMES:END -->
 
 ---
 
