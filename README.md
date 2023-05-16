@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An attempt was made...not a very good one but an attempt all the same](http://9gag.com/gag/a7q90Xx)
- - ⏩ [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
- - 👉 [-How much anxiety do you want? -Yes](http://9gag.com/gag/aVbZKy8)<!-- MEMES:END -->
+ - 💣 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)
+ - ⏩ [Random information](http://9gag.com/gag/adPxvQZ)
+ - 👉 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)<!-- MEMES:END -->
 
 ---
 
