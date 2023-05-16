@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kyocera alters consumer smartphone strategy &lpar;Update: Kyocera statement&rpar;](https://www.androidauthority.com/kyocera-consumer-phones-3324744/)
  - [Ethernovia, which builds automotive ethernet chips and software, raised a $64M Series A from Porsche Automobil Holding, Qualcomm Ventures, and others &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230515/p28#a230515p28)
- - [Pharmacy services provider PharMerica says hackers breached its system and stole names, SSNs, and health data of 5.8 million patients on March 12, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230515/p27#a230515p27)
- - [The NFL will make one playoff game a streaming exclusive on Peacock next year](https://www.theverge.com/2023/5/15/23724857/nfl-nbcu-peacock-exclusive-playoff-game)<!-- TECH:END -->
+ - [Pharmacy services provider PharMerica says hackers breached its system and stole names, SSNs, and health data of 5.8 million patients on March 12, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230515/p27#a230515p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
