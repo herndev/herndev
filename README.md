@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)
- - [Lost Johnny Bravo, Dragon Ball Z Episode Found After 23 Years [Update]](https://kotaku.com/dragon-ball-z-johnny-bravo-jbvo-episode-cartoon-network-1850438309)
- - [This ridiculous deep cut mod adds guns from Bethesda&#39;s forgotten Terminator FPS to the biggest &lpar;and most frustrating&rpar; Elder Scrolls game](https://www.pcgamer.com/this-ridiculous-deep-cut-mod-adds-guns-from-bethesdas-forgotten-terminator-fps-to-the-biggest-and-most-frustrating-elder-scrolls-game)<!-- GAME:END -->
+ - [These Anime Moms Deserve All The Flowers For Mother&#39;s Day](https://kotaku.com/anime-mothers-day-my-hero-academia-spy-x-family-erased-1850439565)
+ - [Crusader Kings III Has Gone RPG Mad, And I Love It](https://kotaku.com/crusader-kings-iii-tours-tournaments-review-impressions-1850413935)
+ - [Good luck with that: Twitter&#39;s new CEO starts in 6 weeks](https://www.pcgamer.com/good-luck-with-that-twitters-new-ceo-starts-in-6-weeks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
