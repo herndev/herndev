@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Extraction 2 trailer looks even more explosive than the original](https://www.polygon.com/23724666/extraction-2-trailer-netflix-release-date-chris-hemsworth)
- - [Riot Games announces new CEO as it emerges the company will pay out over $100 million to 1,548 women to settle gender discrimination case](https://www.pcgamer.com/riot-games-announces-new-ceo-as-it-emerges-the-company-will-pay-out-over-dollar100-million-to-1548-women-to-settle-gender-discrimination-case)
- - [Zelda: Tears Of The Kingdom Players Are Building Tanks, Planes To Commit War Crimes](https://kotaku.com/zelda-tears-of-the-kingdom-zonai-tank-bomb-totk-zonai-1850437597)<!-- GAME:END -->
+ - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
+ - [Lego has created a classy Batman Returns set, in a targeted attack on me personally](https://www.polygon.com/23725377/lego-batman-batcave-shadow-box-set-release-date-price)
+ - [Call of Duty&#39;s &#39;worst map in all of videogames&#39; is only there by mistake](https://www.pcgamer.com/call-of-dutys-worst-map-in-all-of-videogames-is-only-there-by-mistake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
