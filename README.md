@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kyocera alters consumer smartphone strategy &lpar;Update: Kyocera statement&rpar;](https://www.androidauthority.com/kyocera-consumer-phones-3324744/)
- - [Ethernovia, which builds automotive ethernet chips and software, raised a $64M Series A from Porsche Automobil Holding, Qualcomm Ventures, and others &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230515/p28#a230515p28)
- - [Pharmacy services provider PharMerica says hackers breached its system and stole names, SSNs, and health data of 5.8 million patients on March 12, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230515/p27#a230515p27)<!-- TECH:END -->
+ - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)
+ - [Filing: Berkshire Hathaway closed out its remaining position in TSMC after cutting its holding by 86% in Q4 2022, amid rising tensions between China and Taiwan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230515/p29#a230515p29)
+ - [How to verify your external bank account for Apple Savings transfers](https://appleinsider.com/articles/23/05/16/how-to-verify-your-external-bank-account-for-apple-savings-transfers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
