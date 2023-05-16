@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked part 2: Here are the latest rumors &lpar;Updated: May 16&rpar;](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)
- - [Samsung’s latest Galaxy S23 model is made for war zones](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-3325046/)
- - [MTN plans to build a $320M East2West inland fiber cable connecting ten African countries in Q4 2023, following its subsea cable that landed in Cape Town in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230516/p5#a230516p5)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
