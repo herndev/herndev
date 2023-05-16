@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
- - ⏩ [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
- - 👉 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 💣 [How to keep your cooler cooler clean.](http://9gag.com/gag/aQEmzm8)
+ - ⏩ [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 👉 [Based.](http://9gag.com/gag/aOx9xvv)<!-- MEMES:END -->
 
 ---
 
