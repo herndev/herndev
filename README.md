@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
- - ⏩ [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
+ - 💣 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
+ - ⏩ [Just some classic simpsons for you](http://9gag.com/gag/avQxA4E)
+ - 👉 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
 
 ---
 
