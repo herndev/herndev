@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola confirms Razr 40 and 40 Ultra launch date](https://www.androidauthority.com/motorola-razr-40-3325389/)
- - [Forever chemicals are disproportionately polluting Black and Hispanic neighborhoods](https://www.theverge.com/2023/5/16/23725917/pfas-forever-chemicals-toxic-black-hispanic-pollution)
- - [Apple touts $2B+ in App Store fraud prevented in 2022, including 3.9M stolen credit cards blocked, 147M+ ratings/reviews removed, 428K dev accounts terminated &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230516/p28#a230516p28)<!-- TECH:END -->
+ - [Ring founder Jamie Siminoff, who joined Amazon after the 2018 acquisition, sells the startup Honest Day&#39;s Work to smart lock maker Latch and will become its CEO &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p30#a230516p30)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [CNET Published AI-Generated Stories. Then Its Staff Pushed Back](https://www.wired.com/story/cnet-published-ai-generated-stories-then-its-staff-pushed-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
