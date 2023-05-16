@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Galaxy S23 model is made for warzones](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-3325046/)
- - [MTN plans to build a $320M East2West inland fiber cable connecting ten African countries in Q4 2023, following its subsea cable that landed in Cape Town in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230516/p5#a230516p5)
- - [Court filings show Jump Trading secretly purchased tens of millions of dollars worth of TerraUSD and made ~$1B in profit a year before the coin&#39;s collapse &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p4#a230516p4)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked part 2: Here are the latest rumors &lpar;Updated: May 16&rpar;](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)
+ - [Samsung’s latest Galaxy S23 model is made for war zones](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-3325046/)
+ - [MTN plans to build a $320M East2West inland fiber cable connecting ten African countries in Q4 2023, following its subsea cable that landed in Cape Town in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230516/p5#a230516p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
