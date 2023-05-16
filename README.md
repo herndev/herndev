@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max rumored to be only model that gets new periscope lens tech](https://appleinsider.com/articles/23/05/16/iphone-15-pro-max-rumored-to-be-only-model-that-gets-new-periscope-lens-tech?utm_medium=rss)
- - [Q&amp;A with Michael Lewis on his FTX book, &quot;Going Infinite: The Rise and Fall of a New Tycoon&quot;, slated for October 3, visiting SBF, the forthcoming trial, and more &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/230516/p9#a230516p9)
- - [Baidu reports Q1 revenue up 10% YoY to ~$4.5B and ~$834M net income, both above analyst estimates, driven by its ad and cloud businesses &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230516/p8#a230516p8)<!-- TECH:END -->
+ - [1Password is finally rolling out passkey management](https://www.theverge.com/2023/5/16/23725223/1password-passkey-date-password-manager)
+ - [Verizon hits reset on its 5G Mix and Match plans with new streamlined ‘myPlan’ offerings](https://www.theverge.com/2023/5/16/23723887/verizon-myplan-unlimited-5g-cellular-plans-announcement)
+ - [As the European Central Bank prepares to pilot a digital euro in October, consumers, financiers, and politicians are questioning the project&#39;s aims and benefits &lpar;Financial Times&rpar;](http://www.techmeme.com/230516/p12#a230516p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
