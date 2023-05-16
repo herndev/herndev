@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Bellsprout be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698044/can-bellsprout-be-shiny-weepinbell-victreebell)
  - [Nvidia is set to retire the venerable RTX 3060 Ti](https://www.pcgamer.com/nvidia-is-set-to-retire-the-venerable-rtx-3060-ti)
- - [Fully unlocked RX 7900 XTX very nearly matches RTX 4090 performance](https://www.pcgamer.com/fully-unlocked-rx-7900-xtx-very-nearly-matches-rtx-4090-performance)
- - [Today&#39;s Wordle hint and answer #696: Tuesday, May 16](https://www.pcgamer.com/wordle-today-hint-answer-696-may-16)<!-- GAME:END -->
+ - [Fully unlocked RX 7900 XTX very nearly matches RTX 4090 performance](https://www.pcgamer.com/fully-unlocked-rx-7900-xtx-very-nearly-matches-rtx-4090-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
