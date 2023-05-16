@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)<!-- TECH:END -->
+ - [Samsung admits defeat and reportedly inks deal for LG’s OLED TV panels](https://www.theverge.com/2023/5/16/23725160/samsung-lg-oled-tv-panels-deal-supply-report)
+ - [After decades of slumber, Japan&#39;s tech industry, which has produced just 10 unicorns, finally shows some signs of life as its startups raised ~$6.4B in 2022 &lpar;Roland Kelts/Rest of World&rpar;](http://www.techmeme.com/230516/p7#a230516p7)
+ - [Facebook said it unsent those accidental friend requests from last week](https://www.androidauthority.com/facebook-friend-request-glitch-fixed-3325087/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
