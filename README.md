@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US announces charges, sanctions, and a $10M reward for info leading to the arrest of Russian national Mikhail Matveev, a Babuk ransomware gang operative &lpar;Spencer S. Hsu/Washington Post&rpar;](http://www.techmeme.com/230516/p23#a230516p23)
- - [Apple adds new concert-finding features to Maps and Music](https://www.theverge.com/2023/5/16/23725530/apple-concert-discovery-maps-music)
- - [Third ex-Apple engineer charged over Apple Car technology theft](https://appleinsider.com/articles/23/05/16/third-ex-apple-engineer-charged-over-apple-car-technology-theft?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 display panel supply chain is on schedule for June production](https://appleinsider.com/articles/23/05/16/iphone-15-display-panel-supply-chain-is-on-schedule-for-june-production?utm_medium=rss)
+ - [Apple blocked over $2 billion in fraudulent transactions &amp; 1.7 million bogus apps in 2022](https://appleinsider.com/articles/23/05/16/apple-blocked-over-2-billion-in-fraudulent-transactions-17-million-bogus-apps-in-2022?utm_medium=rss)
+ - [Framework Laptop 13 review: fully user-repairable, DIY kits, 3:2 screen, long battery life, and better audio, but a generic look, pricey, and plasticky build &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230516/p24#a230516p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
