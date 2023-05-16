@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - ⏩ [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
- - 👉 [Giving false witness to the police](http://9gag.com/gag/anzxznB)<!-- MEMES:END -->
+ - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - ⏩ [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 ---
 
