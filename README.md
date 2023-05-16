@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Bing Chat gets deeper Edge mobile integration, a widget, and much more](https://www.theverge.com/2023/5/16/23725256/microsoft-bing-chat-mobile-edge-integration-widget-features)
- - [Apple Music rolls out new concert discovery features with Apple Maps integration](https://appleinsider.com/articles/23/05/16/apple-music-rolls-out-new-concert-discovery-features-with-apple-maps-integration?utm_medium=rss)
- - [Apple rolls out new concert discovery features in Apple Maps and Apple Music, including Guides to local venues in select cities and Set Lists for select artists &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230516/p17#a230516p17)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 and Flip 5 could be announced in July](https://www.theverge.com/2023/5/16/23725294/samsung-galaxy-z-fold-5-flip-5-july-unpacked)
+ - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal [u]](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)
+ - [Get a lifetime Babbel language learning subscription for $199 &lpar;$400 off&rpar;](https://appleinsider.com/articles/23/05/16/get-a-lifetime-babbel-language-learning-subscription-for-199-400-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
