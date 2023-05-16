@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - ⏩ [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
+ - 💣 [Keep at it](http://9gag.com/gag/aWGo7E2)
+ - ⏩ [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - 👉 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)<!-- MEMES:END -->
 
 ---
 
