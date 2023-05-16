@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring founder Jamie Siminoff, who joined Amazon after the 2018 acquisition, sells the startup Honest Day&#39;s Work to smart lock maker Latch and will become its CEO &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p30#a230516p30)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [CNET Published AI-Generated Stories. Then Its Staff Pushed Back](https://www.wired.com/story/cnet-published-ai-generated-stories-then-its-staff-pushed-back/)<!-- TECH:END -->
+ - [Google Pixel Buds Pro vs Apple AirPods Pro 2: Which should you buy?](https://www.androidauthority.com/google-pixel-buds-pro-vs-apple-airpods-pro-2-3318921/)
+ - [Tesla Bot can walk very slowly and pick up stuff now](https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting)
+ - [Crypto wallet company Ledger faces criticism after it unveiled an optional seed phrase recovery subscription service that some security experts say is insecure &lpar;Judith Bannermanquist/Cointelegraph&rpar;](http://www.techmeme.com/230516/p32#a230516p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
