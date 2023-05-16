@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - ⏩ [A Good F**king](http://9gag.com/gag/aXn7L1g)
- - 👉 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
+ - 💣 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - ⏩ [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
+ - 👉 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 ---
 
