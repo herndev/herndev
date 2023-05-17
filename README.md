@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram comments can now be overrun by GIFs](https://www.theverge.com/2023/5/17/23726812/instagram-gif-comments-reactions-reels)
- - [Sources: the Irish DPC is set to hand Meta a record EU privacy fine and order the company to halt data transfers to the US that rely on certain clauses &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230517/p22#a230517p22)
- - [Mark Zuckerberg seems to think people can’t wait for in-car VR](https://www.theverge.com/2023/5/17/23726935/meta-bmw-vr-ar-mixed-reality-in-car-research-demo)<!-- TECH:END -->
+ - [Summer gaming events 2023: with E3 canceled, here’s what’s next](https://www.theverge.com/2023/3/30/23663989/summer-gaming-events-2023-e3-canceled-news-announcements)
+ - [Apple doesn&#39;t have a smartphone loyalty problem, but Google does](https://appleinsider.com/articles/23/05/17/apple-doesnt-have-a-smartphone-loyalty-problem-but-google-does?utm_medium=rss)
+ - [Tether says it will invest up to 15% of its profits in bitcoin, as the company shifts its reserves towards crypto and away from US government debt &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230517/p23#a230517p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
