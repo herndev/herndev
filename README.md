@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare Is Selling That Framed Photo Of Tali From Mass Effect](https://kotaku.com/mass-effect-tali-face-photo-merch-romance-quarian-1850447203)
- - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
- - [Blizzard confirms BlizzCon will return as an in-person event in November 2023](https://www.polygon.com/blizzcon/23727395/blizzcon-returns-physical-venue-anaheim-convention-center-november-2023)<!-- GAME:END -->
+ - [Sage’s Will locations, use, and upgrades in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726953/sages-will-locations-map-use)
+ - [One of Destiny 2&#39;s legendary weapons was doing 40% extra damage for weeks and nobody noticed](https://www.pcgamer.com/one-of-destiny-2s-legendary-weapons-was-doing-40-extra-damage-for-weeks-and-nobody-noticed)
+ - [Overwatch 2 Multiplayer Isn’t Good Enough To Justify Gutting Its Long-Promised PvE](https://kotaku.com/overwatch-2-canceled-pve-mode-pvp-multiplayer-blizzard-1850446694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
