@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Scams Are Infiltrating Apple&#39;s App Store and Google Play](https://www.wired.com/story/chatgpt-scams-apple-app-store-google-play/)
- - [Tencent reports Q1 revenue up 11% YoY to ~$21.4B, above estimates and the fastest growth in over a year, and net income up 10% YoY to ~$3.6B, below estimates &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230517/p6#a230517p6)
- - [Best Phone Under $500 for 2023: New Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mujoy floor lamp review: novel concept, but doesn&#39;t feature HomeKit support](https://appleinsider.com/articles/23/05/17/mujoy-floor-lamp-review-novel-concept-but-doesnt-feature-homekit-support?utm_medium=rss)
+ - [Logitech partners with iFixit for self repairs](https://www.theverge.com/2023/5/17/23726681/logitech-ifixit-self-repair-program-announcement-mx-master-anywhere)
+ - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
