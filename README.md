@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #697: Wednesday, May 17](https://www.pcgamer.com/wordle-today-hint-answer-697-may-17)
  - [Fast food chain Wendy&#39;s is planning to trial an AI chatbot in place of human staff](https://www.pcgamer.com/fast-food-chain-wendys-is-planning-to-trial-an-ai-chatbot-in-place-of-human-staff)
- - [The Seagull, Truly Nature&#39;s Worst](https://kotaku.com/video-game-concept-art-lucy-mutimer-australia-seagull-1850443890)
- - [Five Nights At Freddy&#39;s Movie Gets First Trailer](https://kotaku.com/five-nights-at-freddys-fnaf-movie-trailer-debut-first-1850443829)<!-- GAME:END -->
+ - [The Seagull, Truly Nature&#39;s Worst](https://kotaku.com/video-game-concept-art-lucy-mutimer-australia-seagull-1850443890)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
