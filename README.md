@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega would like $70, please](https://www.pcgamer.com/sega-would-like-dollar70-please)
- - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)
- - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)<!-- GAME:END -->
+ - [The Pac-Man battle royale game is shutting down](https://www.polygon.com/23726800/pac-man-99-shutting-down-nintendo-switch-online)
+ - [Tears of the Kingdom is already the fastest-selling Zelda game](https://www.polygon.com/23726816/tears-of-the-kingdom-fastest-selling-zelda)
+ - [Crusader Kings 3&#39;s Tours &amp; Tournaments DLC looks like a minor expansion but is actually one of the series&#39; best, and close to essential](https://www.pcgamer.com/crusader-kings-3s-tours-and-tournaments-dlc-looks-like-a-minor-expansion-but-is-actually-one-of-the-series-best-and-close-to-essential)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
