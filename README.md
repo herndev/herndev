@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
- - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
- - 👉 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
+ - 💣 [When camouflage works](http://9gag.com/gag/ajVxBDp)
+ - ⏩ [Driver is brought to tears and overcome with emotion, while fulfilling the passenger&#39;s dream of riding in a Lamborghini.](http://9gag.com/gag/armxAbB)
+ - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 ---
 
