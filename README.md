@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fast food chain Wendy&#39;s is planning to trial an AI chatbot in place of human staff](https://www.pcgamer.com/fast-food-chain-wendys-is-planning-to-trial-an-ai-chatbot-in-place-of-human-staff)
  - [The Seagull, Truly Nature&#39;s Worst](https://kotaku.com/video-game-concept-art-lucy-mutimer-australia-seagull-1850443890)
- - [Five Nights At Freddy&#39;s Movie Gets First Trailer](https://kotaku.com/five-nights-at-freddys-fnaf-movie-trailer-debut-first-1850443829)
- - [Looks Like Steam Now Has Timed Demos, Dead Space Up First](https://kotaku.com/valve-steam-demo-timed-refund-pc-purchase-ea-dead-space-1850443748)<!-- GAME:END -->
+ - [Five Nights At Freddy&#39;s Movie Gets First Trailer](https://kotaku.com/five-nights-at-freddys-fnaf-movie-trailer-debut-first-1850443829)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
