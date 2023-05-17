@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity researchers and IT admins raise concerns over Google&#39;s new .zip and .mov TLDs, warning that threat actors could use them for phishing and malware &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230517/p1#a230517p1)
  - [Belkin says the company won&#39;t patch a buffer overflow vulnerability in the Wemo Mini Smart Plug V2 disclosed on March 14 as the device is at the end of its life &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230516/p42#a230516p42)
- - [Google Cloud launches two AI-powered tools that aim to help biotech and pharmaceutical companies accelerate drug discovery and advance precision medicine &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p41#a230516p41)
- - [Maryland-based Huntress, a managed security platform focused on SMBs, raised a $60M Series C led by Sapphire Ventures, bringing its total funding to ~$160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230516/p40#a230516p40)<!-- TECH:END -->
+ - [Google Cloud launches two AI-powered tools that aim to help biotech and pharmaceutical companies accelerate drug discovery and advance precision medicine &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p41#a230516p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
