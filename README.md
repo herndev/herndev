@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
- - ⏩ [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
- - 👉 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
+ - 💣 [Breakfast Can Wait](http://9gag.com/gag/a3Z82X7)
+ - ⏩ [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
+ - 👉 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
 
 ---
 
