@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to co-stream the PC Gaming Show on June 11](https://www.pcgamer.com/co-stream-pc-gaming-show-2023)
  - [Blizzard ‘Confident’ Diablo IV Won&#39;t Be Broken At Launch &lpar;For Real This Time&rpar;](https://kotaku.com/diablo-4-launch-release-day-servers-account-necromancer-1850443293)
- - [Ubisoft is jumping into AI, with &#39;developers of all levels experimenting with the technology&#39;](https://www.pcgamer.com/ubisoft-is-jumping-into-ai-with-developers-of-all-levels-experimenting-with-the-technology)
- - [Inside the creative minds of Humanity developers Yugo Nakamura and Tetsuya Mizuguchi](https://blog.playstation.com/2023/05/16/inside-the-creative-minds-of-humanity-developers-yugo-nakamura-and-tetsuya-mizuguchi/)<!-- GAME:END -->
+ - [Ubisoft is jumping into AI, with &#39;developers of all levels experimenting with the technology&#39;](https://www.pcgamer.com/ubisoft-is-jumping-into-ai-with-developers-of-all-levels-experimenting-with-the-technology)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
