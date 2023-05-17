@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
- - ⏩ [Firefighters](http://9gag.com/gag/aXn7NK6)
- - 👉 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)<!-- MEMES:END -->
+ - 💣 [Jack Black and his son Samuel](http://9gag.com/gag/aKE88EO)
+ - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 ---
 
