@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - 💣 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
  - ⏩ [This is not a title](http://9gag.com/gag/a8qe6m3)
  - 👉 [Vape store owner vaccinating patron](http://9gag.com/gag/aGEGnNZ)<!-- MEMES:END -->
 
