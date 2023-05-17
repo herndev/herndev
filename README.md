@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pac-Man battle royale game is shutting down](https://www.polygon.com/23726800/pac-man-99-shutting-down-nintendo-switch-online)
- - [Tears of the Kingdom is already the fastest-selling Zelda game](https://www.polygon.com/23726816/tears-of-the-kingdom-fastest-selling-zelda)
- - [Crusader Kings 3&#39;s Tours &amp; Tournaments DLC looks like a minor expansion but is actually one of the series&#39; best, and close to essential](https://www.pcgamer.com/crusader-kings-3s-tours-and-tournaments-dlc-looks-like-a-minor-expansion-but-is-actually-one-of-the-series-best-and-close-to-essential)<!-- GAME:END -->
+ - [Hands-on test: Philips Evnia gaming peripherals](https://www.pcgamer.com/hands-on-test-philips-evnia-gaming-peripherals)
+ - [Morok Shrine ‘A Bouncy Device’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702719/morok-shrine-solution-puzzle-chest)
+ - [Giant Zelda: Tears of the Kingdom Infinite Item Glitch Shatters Its Economy](https://kotaku.com/tears-of-the-kingdom-how-to-infinite-items-duplication-1850445005)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
