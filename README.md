@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber for teens: the company lifts age restrictions to allow unaccompanied minors for the first time](https://www.theverge.com/2023/5/17/23726772/uber-teens-riderhail-account-age-restrictions-go-get)
- - [In the new Mission: Impossible trailer, Tom Cruise could really use Link’s glider](https://www.theverge.com/2023/5/17/23726829/mission-impossible-dead-reckoning-part-1-7-trailer)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
+ - [Instagram comments can now be overrun by GIFs](https://www.theverge.com/2023/5/17/23726812/instagram-gif-comments-reactions-reels)
+ - [Sources: the Irish DPC is set to hand Meta a record EU privacy fine and order the company to halt data transfers to the US that rely on certain clauses &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230517/p22#a230517p22)
+ - [Mark Zuckerberg seems to think people can’t wait for in-car VR](https://www.theverge.com/2023/5/17/23726935/meta-bmw-vr-ar-mixed-reality-in-car-research-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
