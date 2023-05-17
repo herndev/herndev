@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is working on a dash cam mode for Pixels, and here’s how it works](https://www.androidauthority.com/google-pixel-phones-dash-cam-mode-3325586/)
  - [Sources: Volkswagen has held talks to use Huawei software in its cars in China, after its software unit Cariad was hit by budget misses and development delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230517/p4#a230517p4)
- - [iPhones will soon be able to learn your voice and speak for you](https://www.androidauthority.com/apple-iphone-personal-voice-3325567/)
- - [Researchers find YouTube&#39;s algorithm recommended videos on guns and shooting to young gamers, despite the platform&#39;s policies against violent and gory content &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/230517/p3#a230517p3)<!-- TECH:END -->
+ - [iPhones will soon be able to learn your voice and speak for you](https://www.androidauthority.com/apple-iphone-personal-voice-3325567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
