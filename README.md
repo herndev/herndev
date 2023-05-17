@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Chinese companies recruit South Korean tech talent more aggressively, Seoul creates a database to monitor South Korean chip engineers&#39; international travel &lpar;Financial Times&rpar;](http://www.techmeme.com/230517/p2#a230517p2)
  - [Cybersecurity researchers and IT admins raise concerns over Google&#39;s new .zip and .mov TLDs, warning that threat actors could use them for phishing and malware &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230517/p1#a230517p1)
- - [Belkin says the company won&#39;t patch a buffer overflow vulnerability in the Wemo Mini Smart Plug V2 disclosed on March 14 as the device is at the end of its life &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230516/p42#a230516p42)
- - [Google Cloud launches two AI-powered tools that aim to help biotech and pharmaceutical companies accelerate drug discovery and advance precision medicine &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p41#a230516p41)<!-- TECH:END -->
+ - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
