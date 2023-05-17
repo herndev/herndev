@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five Nights At Freddy&#39;s Movie Gets First Trailer](https://kotaku.com/five-nights-at-freddys-fnaf-movie-trailer-debut-first-1850443829)
  - [Looks Like Steam Now Has Timed Demos, Dead Space Up First](https://kotaku.com/valve-steam-demo-timed-refund-pc-purchase-ea-dead-space-1850443748)
- - [PlayStation Has To Pay Back Some Loot Boxes After Court Ruling](https://kotaku.com/fifa-ultimate-team-loot-box-refund-europe-ea-euros-cost-1850443606)
- - [How to co-stream the PC Gaming Show on June 11](https://www.pcgamer.com/co-stream-pc-gaming-show-2023)<!-- GAME:END -->
+ - [PlayStation Has To Pay Back Some Loot Boxes After Court Ruling](https://kotaku.com/fifa-ultimate-team-loot-box-refund-europe-ea-euros-cost-1850443606)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
