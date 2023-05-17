@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based ANYbotics, which makes autonomous robots for industrial inspection, raised a $50M Series B led by Walden Catalyst and NGP Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p39#a230516p39)
- - [In an interview, Elon Musk discussed buying Twitter, defended his inflammatory tweets, called tech workers the &quot;laptop classes living in la-la-land&quot;, and more &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p38#a230516p38)
- - [Apple shares WWDC schedule including an unknown &#39;Special Evening Activity&#39;](https://appleinsider.com/articles/23/05/17/apple-shares-wwdc-schedule-including-an-unknown-special-evening-activity?utm_medium=rss)<!-- TECH:END -->
+ - [Proscenic L40 Smart lock review: Versatile but complex home security choice](https://appleinsider.com/articles/23/05/17/proscenic-l40-smart-lock-review-versatile-but-complex-home-security-choice?utm_medium=rss)
+ - [Elon Musk keeps insisting the Texas shooter with a swastika tattoo is not a white supremacist](https://www.theverge.com/2023/5/16/23726310/elon-musk-defends-texas-shooter-bellingcat)
+ - [Switzerland-based ANYbotics, which makes autonomous robots for industrial inspection, raised a $50M Series B led by Walden Catalyst and NGP Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p39#a230516p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
