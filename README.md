@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
- - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
- - 👉 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)<!-- MEMES:END -->
+ - 💣 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - ⏩ [This is not a title](http://9gag.com/gag/a8qe6m3)
+ - 👉 [Vape store owner vaccinating patron](http://9gag.com/gag/aGEGnNZ)<!-- MEMES:END -->
 
 ---
 
