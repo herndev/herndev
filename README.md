@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 Ultra renders leak: The best Android tablet of 2023?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-design-3325606/)
- - [Symantec says an APT called Lancefly used custom malware to attack governments, telcos, and other organizations in Asia from the middle of 2022 through Q1 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230517/p5#a230517p5)
- - [Google is working on a dash cam mode for Pixels, and here’s how it works](https://www.androidauthority.com/google-pixel-phones-dash-cam-mode-3325586/)<!-- TECH:END -->
+ - [ChatGPT Scams Are Infiltrating Apple&#39;s App Store and Google Play](https://www.wired.com/story/chatgpt-scams-apple-app-store-google-play/)
+ - [Tencent reports Q1 revenue up 11% YoY to ~$21.4B, above estimates and the fastest growth in over a year, and net income up 10% YoY to ~$3.6B, below estimates &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230517/p6#a230517p6)
+ - [Best Phone Under $500 for 2023: New Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
