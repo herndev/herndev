@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on test: Philips Evnia gaming peripherals](https://www.pcgamer.com/hands-on-test-philips-evnia-gaming-peripherals)
- - [Morok Shrine ‘A Bouncy Device’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702719/morok-shrine-solution-puzzle-chest)
- - [Giant Zelda: Tears of the Kingdom Infinite Item Glitch Shatters Its Economy](https://kotaku.com/tears-of-the-kingdom-how-to-infinite-items-duplication-1850445005)<!-- GAME:END -->
+ - [Nicolas Cage is coming to Dead by Daylight, don&#39;t ask why](https://www.pcgamer.com/nicolas-cage-is-coming-to-dead-by-daylight-dont-ask-why)
+ - [Where The Heck Is Tears Of The Kingdom&#39;s Hestu, The Korok Trader?](https://kotaku.com/tears-of-the-kingdom-hetsu-location-lookout-landing-1850445425)
+ - [The Apex Legends board game has launched on Kickstarter](https://www.polygon.com/deals/23725655/apex-legends-board-game-kickstarter-tiers-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
