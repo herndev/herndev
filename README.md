@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a brave man](http://9gag.com/gag/aXn7VG2)
- - ⏩ [Idiot in Mercedes + speed](http://9gag.com/gag/ajVxZA8)
- - 👉 [Vape store owner vaccinating patron](http://9gag.com/gag/aGEGnNZ)<!-- MEMES:END -->
+ - 💣 [Love the reaction!](http://9gag.com/gag/a9qm5Mm)
+ - ⏩ [Hard to digest](http://9gag.com/gag/aoKx32X)
+ - 👉 [Shake it off](http://9gag.com/gag/a2KDwmd)<!-- MEMES:END -->
 
 ---
 
