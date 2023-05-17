@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Black and his son Samuel](http://9gag.com/gag/aKE88EO)
- - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
- - 👉 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 💣 [What a brave man](http://9gag.com/gag/aXn7VG2)
+ - ⏩ [Idiot in Mercedes + speed](http://9gag.com/gag/ajVxZA8)
+ - 👉 [Vape store owner vaccinating patron](http://9gag.com/gag/aGEGnNZ)<!-- MEMES:END -->
 
 ---
 
