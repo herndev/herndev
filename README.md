@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox really wants you to know that it isn’t just for kids](https://www.theverge.com/2023/5/17/23727324/roblox-kids-older-adult-mature-audience-games)
- - [An update for Google&#39;s Personal Safety app for Android suggests the company plans to include a dashcam recording feature for Pixel phones and select devices &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230517/p26#a230517p26)
- - [The Samsung Galaxy Watch 4 Classic is at its lowest price ever](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-deal-3325846/)<!-- TECH:END -->
+ - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
+ - [The first Five Nights At Freddy’s film teaser looks frightening](https://www.theverge.com/2023/5/17/23727400/five-nights-at-freddys-movie-teaser-fnaf)
+ - [Cars would be required to keep AM radio under new bipartisan bill](https://www.theverge.com/2023/5/17/23727341/cars-am-radio-ev-senate-bill-markey-cruz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
