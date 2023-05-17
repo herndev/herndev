@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)
- - [Notoriously litigious haptics company tries to shakedown Valve](https://www.pcgamer.com/notoriously-litigious-haptics-company-tries-to-shakedown-valve)
- - [Steam just quietly added a new free trial system](https://www.pcgamer.com/steam-just-quietly-added-a-new-free-trial-system)<!-- GAME:END -->
+ - [Sega would like $70, please](https://www.pcgamer.com/sega-would-like-dollar70-please)
+ - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)
+ - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
