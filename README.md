@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)
- - ⏩ [Random information](http://9gag.com/gag/adPxvQZ)
- - 👉 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)<!-- MEMES:END -->
+ - 💣 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
+ - ⏩ [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - 👉 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)<!-- MEMES:END -->
 
 ---
 
