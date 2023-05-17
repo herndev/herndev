@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - ⏩ [This is not a title](http://9gag.com/gag/a8qe6m3)
- - 👉 [Vape store owner vaccinating patron](http://9gag.com/gag/aGEGnNZ)<!-- MEMES:END -->
+ - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
+ - ⏩ [Driver is brought to tears and overcome with emotion, while fulfilling the passenger&#39;s dream of riding in a Lamborghini.](http://9gag.com/gag/armxAbB)
+ - 👉 [A strange-looking Lukashenko appeared in public to deny rumors that he had been poisoned during his visit to Moscow.](http://9gag.com/gag/aVbZoEM)<!-- MEMES:END -->
 
 ---
 
