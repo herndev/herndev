@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first four Indiana Jones movies are coming to Disney Plus on May 31st](https://www.theverge.com/23726270/indiana-jones-disney-plus-streaming-rights-paramount)
- - [Ring founder to become CEO of commercial smart home company Latch](https://www.theverge.com/2023/5/16/23725963/jamie-siminoff-ring-amazon-latch-ceo-smart-home)
- - [How to pre-order the Pixel Fold and get a Pixel Watch for free](https://www.androidauthority.com/pixel-fold-pre-order-3325399/)<!-- TECH:END -->
+ - [A federal judge rules the US SEC can&#39;t seal documents tied to ex-SEC official William Hinman, who said ether isn&#39;t a security in a 2018 speech, in Ripple suit &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230516/p36#a230516p36)
+ - [Tesla will ‘try a little advertising,’ Elon Musk says](https://www.theverge.com/2023/5/16/23726209/tesla-advertising-start-elon-musk-shareholders)
+ - [Elon Musk says ‘get off your work-from-home bullshit’](https://www.theverge.com/2023/5/16/23726294/elon-musk-remote-work-cnbc-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
