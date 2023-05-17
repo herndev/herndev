@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom duplication glitch breaks the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/zelda-tears-of-the-kingdom-duplication-glitch-how-to-guide)
- - [This Fable-inspired hybrid of RPG and farm sim is trying to cram in combat, crafting, and commerce](https://www.pcgamer.com/this-fable-inspired-hybrid-of-rpg-and-farm-sim-is-trying-to-cram-in-combat-crafting-and-commerce)
- - [How to get the Ember Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726038/ember-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
+ - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)
+ - [Mourning Overwatch 2&#39;s Story Mode, A Tragedy That Didn&#39;t Need To Happen](https://kotaku.com/overwatch-2-ow2-pve-story-mode-canceled-lifeweaver-rama-1850446499)
+ - [Wind Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715584/wind-temple-walkthrough-dungeon-colgera-boss-fight-lock-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
