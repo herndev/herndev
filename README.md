@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Draft doc: European telecom groups propose that companies considered &quot;large traffic generators&quot; should help fund the rollout of 5G and broadband across Europe &lpar;Reuters&rpar;](http://www.techmeme.com/230517/p25#a230517p25)
- - [The N64 controller for the Switch is available at the Nintendo store again](https://www.theverge.com/2023/5/17/23681813/nintendo-64-controller-switch-gaming-deal-sale)
- - [Apple&#39;s M2 Mac mini is back on sale for $499, M2 Pro model $200 off](https://appleinsider.com/articles/23/05/17/apples-m2-mac-mini-is-back-on-sale-for-499-m2-pro-model-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox really wants you to know that it isn’t just for kids](https://www.theverge.com/2023/5/17/23727324/roblox-kids-older-adult-mature-audience-games)
+ - [An update for Google&#39;s Personal Safety app for Android suggests the company plans to include a dashcam recording feature for Pixel phones and select devices &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230517/p26#a230517p26)
+ - [The Samsung Galaxy Watch 4 Classic is at its lowest price ever](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-deal-3325846/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
