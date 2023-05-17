@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Short, but scary video](http://9gag.com/gag/aXn7NX9)
- - ⏩ [Random information](http://9gag.com/gag/adPxvQZ)
- - 👉 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)<!-- MEMES:END -->
+ - 💣 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
+ - ⏩ [I&#39;d follow her too](http://9gag.com/gag/aKE8103)
+ - 👉 [Took me a minute!](http://9gag.com/gag/a8qeDBe)<!-- MEMES:END -->
 
 ---
 
