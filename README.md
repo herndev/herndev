@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to digest](http://9gag.com/gag/aoKx32X)
- - ⏩ [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 👉 [He is coming.](http://9gag.com/gag/awZO3bW)<!-- MEMES:END -->
+ - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
+ - ⏩ [Avicularia eating a bird](http://9gag.com/gag/aeQx4QW)
+ - 👉 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)<!-- MEMES:END -->
 
 ---
 
