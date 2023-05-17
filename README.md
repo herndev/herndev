@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
- - ⏩ [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 👉 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 💣 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)
+ - ⏩ [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
+ - 👉 [Random information](http://9gag.com/gag/adPxvQZ)<!-- MEMES:END -->
 
 ---
 
