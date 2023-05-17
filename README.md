@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nani?!?!](http://9gag.com/gag/aEqWoQo)
- - ⏩ [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
- - 👉 [Firefighters](http://9gag.com/gag/aXn7NK6)<!-- MEMES:END -->
+ - 💣 [Short, but scary video](http://9gag.com/gag/aXn7NX9)
+ - ⏩ [Random information](http://9gag.com/gag/adPxvQZ)
+ - 👉 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)<!-- MEMES:END -->
 
 ---
 
