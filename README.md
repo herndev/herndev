@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proscenic L40 Smart lock review: Versatile but complex home security choice](https://appleinsider.com/articles/23/05/17/proscenic-l40-smart-lock-review-versatile-but-complex-home-security-choice?utm_medium=rss)
- - [Elon Musk keeps insisting the Texas shooter with a swastika tattoo is not a white supremacist](https://www.theverge.com/2023/5/16/23726310/elon-musk-defends-texas-shooter-bellingcat)
- - [Z&amp;uuml;rich-based ANYbotics, which develops autonomous legged robots for industrial inspection, raised a $50M Series B led by Walden Catalyst and NGP Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p39#a230516p39)<!-- TECH:END -->
+ - [Belkin says the company won&#39;t patch a buffer overflow vulnerability in the Wemo Mini Smart Plug V2 disclosed on March 14 as the device is at the end of its life &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230516/p42#a230516p42)
+ - [Google Cloud launches two AI-powered tools that aim to help biotech and pharmaceutical companies accelerate drug discovery and advance precision medicine &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p41#a230516p41)
+ - [Maryland-based Huntress, a managed security platform focused on SMBs, raised a $60M Series C led by Sapphire Ventures, bringing its total funding to ~$160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230516/p40#a230516p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
