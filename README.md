@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nicolas Cage is coming to Dead by Daylight, don&#39;t ask why](https://www.pcgamer.com/nicolas-cage-is-coming-to-dead-by-daylight-dont-ask-why)
- - [Where The Heck Is Tears Of The Kingdom&#39;s Hestu, The Korok Trader?](https://kotaku.com/tears-of-the-kingdom-hetsu-location-lookout-landing-1850445425)
- - [The Apex Legends board game has launched on Kickstarter](https://www.polygon.com/deals/23725655/apex-legends-board-game-kickstarter-tiers-pre-order)<!-- GAME:END -->
+ - [What to sell to make money in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722673/rupees-what-to-sell-how-to-make-money-fast-best-items)
+ - [Nicolas Cage joins the Dead by Daylight roster, and I have concerns](https://www.polygon.com/23727138/nicolas-cage-dead-by-daylight-announcement)
+ - [When beat &#39;em ups were practically unheard of on PC, this 1993 rebel broke all the rules](https://www.pcgamer.com/when-beat-em-ups-were-still-practically-unheard-of-on-pc-this-1993-rebel-broke-all-the-rules)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
