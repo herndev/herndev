@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
- - ⏩ [Driver is brought to tears and overcome with emotion, while fulfilling the passenger&#39;s dream of riding in a Lamborghini.](http://9gag.com/gag/armxAbB)
- - 👉 [A strange-looking Lukashenko appeared in public to deny rumors that he had been poisoned during his visit to Moscow.](http://9gag.com/gag/aVbZoEM)<!-- MEMES:END -->
+ - 💣 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
+ - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 👉 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
 
 ---
 
