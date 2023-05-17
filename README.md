@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - ⏩ [I&#39;d follow her too](http://9gag.com/gag/aKE8103)
- - 👉 [Took me a minute!](http://9gag.com/gag/a8qeDBe)<!-- MEMES:END -->
+ - 💣 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
+ - ⏩ [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
+ - 👉 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)<!-- MEMES:END -->
 
 ---
 
