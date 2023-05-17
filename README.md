@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to sell to make money in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722673/rupees-what-to-sell-how-to-make-money-fast-best-items)
- - [Nicolas Cage joins the Dead by Daylight roster, and I have concerns](https://www.polygon.com/23727138/nicolas-cage-dead-by-daylight-announcement)
- - [When beat &#39;em ups were practically unheard of on PC, this 1993 rebel broke all the rules](https://www.pcgamer.com/when-beat-em-ups-were-still-practically-unheard-of-on-pc-this-1993-rebel-broke-all-the-rules)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom duplication glitch breaks the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/zelda-tears-of-the-kingdom-duplication-glitch-how-to-guide)
+ - [This Fable-inspired hybrid of RPG and farm sim is trying to cram in combat, crafting, and commerce](https://www.pcgamer.com/this-fable-inspired-hybrid-of-rpg-and-farm-sim-is-trying-to-cram-in-combat-crafting-and-commerce)
+ - [How to get the Ember Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726038/ember-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
