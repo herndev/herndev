@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
- - ⏩ [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
- - 👉 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)<!-- MEMES:END -->
+ - 💣 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
+ - ⏩ [Firefighters](http://9gag.com/gag/aXn7NK6)
+ - 👉 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)<!-- MEMES:END -->
 
 ---
 
