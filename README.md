@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Random information](http://9gag.com/gag/adPxvQZ)
- - ⏩ [Pro move on this one.](http://9gag.com/gag/aA0MK4o)
- - 👉 [Hard to digest](http://9gag.com/gag/aoKx32X)<!-- MEMES:END -->
+ - 💣 [Hard to digest](http://9gag.com/gag/aoKx32X)
+ - ⏩ [The real legendary men in our time](http://9gag.com/gag/ay21W58)
+ - 👉 [He is coming.](http://9gag.com/gag/awZO3bW)<!-- MEMES:END -->
 
 ---
 
