@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love the reaction!](http://9gag.com/gag/a9qm5Mm)
- - ⏩ [Hard to digest](http://9gag.com/gag/aoKx32X)
- - 👉 [Shake it off](http://9gag.com/gag/a2KDwmd)<!-- MEMES:END -->
+ - 💣 [Hard to digest](http://9gag.com/gag/aoKx32X)
+ - ⏩ [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
+ - 👉 [He is coming.](http://9gag.com/gag/awZO3bW)<!-- MEMES:END -->
 
 ---
 
