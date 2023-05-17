@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)
- - ⏩ [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - 👉 [Random information](http://9gag.com/gag/adPxvQZ)<!-- MEMES:END -->
+ - 💣 [Nani?!?!](http://9gag.com/gag/aEqWoQo)
+ - ⏩ [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
+ - 👉 [Firefighters](http://9gag.com/gag/aXn7NK6)<!-- MEMES:END -->
 
 ---
 
