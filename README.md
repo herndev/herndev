@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sage’s Will locations, use, and upgrades in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726953/sages-will-locations-map-use)
- - [One of Destiny 2&#39;s legendary weapons was doing 40% extra damage for weeks and nobody noticed](https://www.pcgamer.com/one-of-destiny-2s-legendary-weapons-was-doing-40-extra-damage-for-weeks-and-nobody-noticed)
- - [Overwatch 2 Multiplayer Isn’t Good Enough To Justify Gutting Its Long-Promised PvE](https://kotaku.com/overwatch-2-canceled-pve-mode-pvp-multiplayer-blizzard-1850446694)<!-- GAME:END -->
+ - [Lightning Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23710061/lightning-temple-walkthrough-dungeon-queen-gibdo-boss-light-room-hopeful-light)
+ - [Water Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708156/water-temple-walkthrough-dungeon-mucktorok-faucets-hydrants-fire-chests)
+ - [Sage’s Will locations, use, and upgrades in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726953/sages-will-locations-map-use)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
