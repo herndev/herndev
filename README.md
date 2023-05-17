@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
- - ⏩ [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - 👉 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)<!-- MEMES:END -->
+ - 💣 [Random information](http://9gag.com/gag/adPxvQZ)
+ - ⏩ [Pro move on this one.](http://9gag.com/gag/aA0MK4o)
+ - 👉 [Hard to digest](http://9gag.com/gag/aoKx32X)<!-- MEMES:END -->
 
 ---
 
