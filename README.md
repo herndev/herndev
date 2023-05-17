@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
- - [The first Five Nights At Freddy’s film teaser looks frightening](https://www.theverge.com/2023/5/17/23727400/five-nights-at-freddys-movie-teaser-fnaf)
- - [Cars would be required to keep AM radio under new bipartisan bill](https://www.theverge.com/2023/5/17/23727341/cars-am-radio-ev-senate-bill-markey-cruz)<!-- TECH:END -->
+ - [Upgrade your storage with 59% off this Samsung 512GB microSD card](https://www.androidauthority.com/samsung-pro-plus-microsd-deal-3325869/)
+ - [A history of metaphors for the internet](https://www.theverge.com/2023/5/17/23727584/a-history-of-metaphors-for-the-internet)
+ - [The Razer Edge 5G can’t compete with what’s in your pocket](https://www.androidauthority.com/razer-edge-5g-review-3318577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
