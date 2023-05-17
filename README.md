@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam just quietly added a new free trial system](https://www.pcgamer.com/steam-just-quietly-added-a-new-free-trial-system)
  - [PUBG now lets you bring friends back from the dead](https://www.polygon.com/23725835/pubg-battlegrounds-revives-recall-clan-system)
- - [Today&#39;s Wordle hint and answer #697: Wednesday, May 17](https://www.pcgamer.com/wordle-today-hint-answer-697-may-17)
- - [Fast food chain Wendy&#39;s is planning to trial an AI chatbot in place of human staff](https://www.pcgamer.com/fast-food-chain-wendys-is-planning-to-trial-an-ai-chatbot-in-place-of-human-staff)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #697: Wednesday, May 17](https://www.pcgamer.com/wordle-today-hint-answer-697-may-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
