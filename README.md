@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breakfast Can Wait](http://9gag.com/gag/a3Z82X7)
- - ⏩ [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
- - 👉 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
+ - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
+ - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 👉 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)<!-- MEMES:END -->
 
 ---
 
