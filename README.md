@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam just quietly added a new free trial system](https://www.pcgamer.com/steam-just-quietly-added-a-new-free-trial-system)
- - [PUBG now lets you bring friends back from the dead](https://www.polygon.com/23725835/pubg-battlegrounds-revives-recall-clan-system)
- - [Today&#39;s Wordle hint and answer #697: Wednesday, May 17](https://www.pcgamer.com/wordle-today-hint-answer-697-may-17)<!-- GAME:END -->
+ - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)
+ - [Notoriously litigious haptics company tries to shakedown Valve](https://www.pcgamer.com/notoriously-litigious-haptics-company-tries-to-shakedown-valve)
+ - [Steam just quietly added a new free trial system](https://www.pcgamer.com/steam-just-quietly-added-a-new-free-trial-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
