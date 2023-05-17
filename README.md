@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India announces a ~$2B incentive scheme to entice makers of laptops, tablets, and other hardware, running for six years, following the 2021 smartphone program &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230517/p15#a230517p15)
- - [StableStudio is Stability AI’s latest commitment to open-source AI](https://www.theverge.com/2023/5/17/23726751/stability-ai-stablestudio-dreamstudio-stable-diffusion-artificial-intelligence)
- - [We’ll always have Mario Kart: the short-lived joy of console LAN parties](https://www.theverge.com/23724359/lan-party-mario-kart-nintendo-gamecube-console)<!-- TECH:END -->
+ - [Amazon Echo News &lpar;2023&rpar;: Echo Show 5, Echo Buds, Echo Pop](https://www.wired.com/story/amazon-echo-news-2023/)
+ - [Amazon pops out a new Echo smart speaker](https://www.theverge.com/2023/5/17/23726684/amazon-echo-pop-smart-speaker-new-show-5-display-price)
+ - [Beats Studio Buds Plus review: it’s cool to be clear](https://www.theverge.com/23725921/beats-studio-buds-plus-earbuds-review-translucent-clear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
