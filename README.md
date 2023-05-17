@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lightning Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23710061/lightning-temple-walkthrough-dungeon-queen-gibdo-boss-light-room-hopeful-light)
- - [Water Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708156/water-temple-walkthrough-dungeon-mucktorok-faucets-hydrants-fire-chests)
- - [Sage’s Will locations, use, and upgrades in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726953/sages-will-locations-map-use)<!-- GAME:END -->
+ - [North Lomei Labyrinth, shrine solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694023/north-lomei-labyrinth-mayaotaki-tenbez-shrine-solution-puzzle-maze)
+ - [GTA VI Publisher Suggests 2024 Will Be A Very Profitable Year &lpar;Wink, Wink&rpar;](https://kotaku.com/gta-6-vi-release-date-rockstar-take-two-2k-fiscal-2024-1850447846)
+ - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
