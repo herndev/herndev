@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo News &lpar;2023&rpar;: Echo Show 5, Echo Buds, Echo Pop](https://www.wired.com/story/amazon-echo-news-2023/)
- - [Amazon pops out a new Echo smart speaker](https://www.theverge.com/2023/5/17/23726684/amazon-echo-pop-smart-speaker-new-show-5-display-price)
- - [Beats Studio Buds Plus review: it’s cool to be clear](https://www.theverge.com/23725921/beats-studio-buds-plus-earbuds-review-translucent-clear)<!-- TECH:END -->
+ - [Uber for teens: the company lifts age restrictions to allow unaccompanied minors for the first time](https://www.theverge.com/2023/5/17/23726772/uber-teens-riderhail-account-age-restrictions-go-get)
+ - [In the new Mission: Impossible trailer, Tom Cruise could really use Link’s glider](https://www.theverge.com/2023/5/17/23726829/mission-impossible-dead-reckoning-part-1-7-trailer)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
