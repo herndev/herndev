@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mujoy floor lamp review: novel concept, but doesn&#39;t feature HomeKit support](https://appleinsider.com/articles/23/05/17/mujoy-floor-lamp-review-novel-concept-but-doesnt-feature-homekit-support?utm_medium=rss)
- - [Logitech partners with iFixit for self repairs](https://www.theverge.com/2023/5/17/23726681/logitech-ifixit-self-repair-program-announcement-mx-master-anywhere)
- - [What is Android System Intelligence, and why is it on your phone?](https://www.androidauthority.com/android-system-intelligence-3325187/)<!-- TECH:END -->
+ - [Professor fails students after ChatGPT falsely accuses them of cheating](https://www.androidauthority.com/chatgpt-university-cheating-3325633/)
+ - [An investigation finds some US public housing agencies use surveillance cameras with facial recognition and AI to evict residents, sometimes for minor breaches &lpar;Douglas MacMillan/Washington Post&rpar;](http://www.techmeme.com/230517/p11#a230517p11)
+ - [The best iOS emulators you can get your hands on](https://www.androidauthority.com/best-ios-iphone-emulators-3321783/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
