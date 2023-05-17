@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)
- - [Mourning Overwatch 2&#39;s Story Mode, A Tragedy That Didn&#39;t Need To Happen](https://kotaku.com/overwatch-2-ow2-pve-story-mode-canceled-lifeweaver-rama-1850446499)
- - [Wind Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715584/wind-temple-walkthrough-dungeon-colgera-boss-fight-lock-locations)<!-- GAME:END -->
+ - [BioWare Is Selling That Framed Photo Of Tali From Mass Effect](https://kotaku.com/mass-effect-tali-face-photo-merch-romance-quarian-1850447203)
+ - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
+ - [Blizzard confirms BlizzCon will return as an in-person event in November 2023](https://www.polygon.com/blizzcon/23727395/blizzcon-returns-physical-venue-anaheim-convention-center-november-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
