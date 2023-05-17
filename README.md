@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Professor fails students after ChatGPT falsely accuses them of cheating](https://www.androidauthority.com/chatgpt-university-cheating-3325633/)
- - [An investigation finds some US public housing agencies use surveillance cameras with facial recognition and AI to evict residents, sometimes for minor breaches &lpar;Douglas MacMillan/Washington Post&rpar;](http://www.techmeme.com/230517/p11#a230517p11)
- - [The best iOS emulators you can get your hands on](https://www.androidauthority.com/best-ios-iphone-emulators-3321783/)<!-- TECH:END -->
+ - [India announces a ~$2B incentive scheme to entice makers of laptops, tablets, and other hardware, running for six years, following the 2021 smartphone program &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230517/p15#a230517p15)
+ - [StableStudio is Stability AI’s latest commitment to open-source AI](https://www.theverge.com/2023/5/17/23726751/stability-ai-stablestudio-dreamstudio-stable-diffusion-artificial-intelligence)
+ - [We’ll always have Mario Kart: the short-lived joy of console LAN parties](https://www.theverge.com/23724359/lan-party-mario-kart-nintendo-gamecube-console)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
