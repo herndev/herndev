@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer gaming events 2023: with E3 canceled, here’s what’s next](https://www.theverge.com/2023/3/30/23663989/summer-gaming-events-2023-e3-canceled-news-announcements)
- - [Apple doesn&#39;t have a smartphone loyalty problem, but Google does](https://appleinsider.com/articles/23/05/17/apple-doesnt-have-a-smartphone-loyalty-problem-but-google-does?utm_medium=rss)
- - [Tether says it will invest up to 15% of its profits in bitcoin, as the company shifts its reserves towards crypto and away from US government debt &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230517/p23#a230517p23)<!-- TECH:END -->
+ - [Draft doc: European telecom groups propose that companies considered &quot;large traffic generators&quot; should help fund the rollout of 5G and broadband across Europe &lpar;Reuters&rpar;](http://www.techmeme.com/230517/p25#a230517p25)
+ - [The N64 controller for the Switch is available at the Nintendo store again](https://www.theverge.com/2023/5/17/23681813/nintendo-64-controller-switch-gaming-deal-sale)
+ - [Apple&#39;s M2 Mac mini is back on sale for $499, M2 Pro model $200 off](https://appleinsider.com/articles/23/05/17/apples-m2-mac-mini-is-back-on-sale-for-499-m2-pro-model-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
