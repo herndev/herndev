@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your storage with 59% off this Samsung 512GB microSD card](https://www.androidauthority.com/samsung-pro-plus-microsd-deal-3325869/)
- - [A history of metaphors for the internet](https://www.theverge.com/2023/5/17/23727584/a-history-of-metaphors-for-the-internet)
- - [The Razer Edge 5G can’t compete with what’s in your pocket](https://www.androidauthority.com/razer-edge-5g-review-3318577/)<!-- TECH:END -->
+ - [Porsche Taycan gets Apple Maps EV routing with CarPlay update](https://appleinsider.com/articles/23/05/17/porsche-taycan-gets-apple-maps-ev-routing-with-carplay-update?utm_medium=rss)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Splendid Spoon Review: Easy Soups and Smoothies Sent to Your Door     - CNET](https://www.cnet.com/health/nutrition/splendid-spoon-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
