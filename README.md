@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche Taycan gets Apple Maps EV routing with CarPlay update](https://appleinsider.com/articles/23/05/17/porsche-taycan-gets-apple-maps-ev-routing-with-carplay-update?utm_medium=rss)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Splendid Spoon Review: Easy Soups and Smoothies Sent to Your Door     - CNET](https://www.cnet.com/health/nutrition/splendid-spoon-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
+ - [Netflix says its ad tier has nearly 5M global MAUs, with a median age of 34, six months after launch, and makes up 25%+ of signups in countries with the option &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230517/p34#a230517p34)
+ - [Latest Hermes AirPods Pro 2 case costs more than an iPad Pro](https://appleinsider.com/articles/23/05/17/latest-hermes-airpods-pro-2-case-costs-more-than-an-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
