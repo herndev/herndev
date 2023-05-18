@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aA0M2wp)
- - ⏩ [Netflix movie Queen Cleopatra is now officially broken the record as the worst rating movie. Just because Netflix placed the word DOCUMENTARY, the entire egypt is angry to protect their history that Cleopatra is white. Egypt is suing Netflix for 2 billion dollars.](http://9gag.com/gag/a8qezGZ)
- - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
+ - 💣 [Bro still trying to figure out what happened](http://9gag.com/gag/aA0MZ6L)
+ - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
 
 ---
 
