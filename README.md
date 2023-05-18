@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the first trailer for Martin Scorsese’s Killers of the Flower Moon](https://www.theverge.com/23728314/killers-of-the-flower-moon-trailer-apple-tv-plus)
- - [TSMC thinking about moving some operations to Japan amid growing China tensions](https://appleinsider.com/articles/23/05/18/tsmc-thinking-about-moving-some-operations-to-japan-amid-growing-china-tensions?utm_medium=rss)
- - [The Pixel 8 Pro’s highlight feature is a… thermometer?](https://www.androidauthority.com/google-pixel-8-pro-infrared-thermometer-leak-3326466/)<!-- TECH:END -->
+ - [Should you make the switch to a Verizon MyPlan or stick with your existing plan?](https://www.androidauthority.com/verizon-myplan-vs-get-do-play-more-3325797/)
+ - [The best new streaming movies this week on Disney Plus, Hulu, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Epic’s Mega sale is back along with a new rewards program](https://www.theverge.com/2023/5/18/23727632/epic-mega-sale-rewards-program)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
