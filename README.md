@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First look at new images and UI of the Access controller for PS5, an all-new accessibility controller kit](https://blog.playstation.com/2023/05/18/first-look-at-new-images-and-ui-of-the-access-controller-for-ps5-an-all-new-accessibility-controller-kit/)
- - [First look at new images and UI of the Access controller for PS5, an all-new accessibility controller kit](https://blog.playstation.com/2023/05/18/first-look-at-new-images-and-ui-of-the-access-controller-for-ps5-an-all-new-accessibility-controller-kit/)
- - [&lpar;For Southeast Asia&rpar; You’re Invited: PlayStation Showcase broadcasts live next Thursday, 25 May at 3am &lpar;BKK/JKT&rpar; / 4AM &lpar;SG/KL/MNL&rpar;](https://blog.playstation.com/2023/05/17/20230517-showcase/)<!-- GAME:END -->
+ - [Logitech&#39;s new mouse repair partnership with iFixit isn&#39;t for gamers, yet](https://www.pcgamer.com/logitechs-new-mouse-repair-partnership-with-ifixit-isnt-for-gamers-yet)
+ - [NASA&#39;s working on a wiggly snake-like autonomous Rover alternative to &#39;boldly go where no robot has gone before&#39;](https://www.pcgamer.com/nasas-working-on-a-wiggly-snake-like-autonomous-rover-alternative-to-boldly-go-where-no-robot-has-gone-before)
+ - [You can buy the &lpar;wrong&rpar; photo of Tali from Mass Effect on the BioWare store](https://www.pcgamer.com/you-can-buy-the-wrong-photo-of-tali-from-mass-effect-on-the-bioware-store)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
