@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relax life](http://9gag.com/gag/aNwB4mG)
- - ⏩ [Aaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aZDEzeX)
- - 👉 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)<!-- MEMES:END -->
+ - 💣 [Guess who is $150k in debt](http://9gag.com/gag/aBdEEK1)
+ - ⏩ [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
+ - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 ---
 
