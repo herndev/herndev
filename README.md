@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
- - ⏩ [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
- - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
+ - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - ⏩ [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)
+ - 👉 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
 
 ---
 
