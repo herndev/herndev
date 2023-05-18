@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
- - ⏩ [Nice](http://9gag.com/gag/aA0M2wp)
- - 👉 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
+ - 💣 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
+ - ⏩ [Helpful back stretches for everyone](http://9gag.com/gag/aYVM1Oq)
+ - 👉 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
 
 ---
 
