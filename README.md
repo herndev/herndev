@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who is $150k in debt](http://9gag.com/gag/aBdEEK1)
- - ⏩ [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
- - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a6qBGw8)
+ - ⏩ [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
+ - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
 
 ---
 
