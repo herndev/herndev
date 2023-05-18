@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montana bans Telegram, WeChat, and Temu from government devices](https://www.theverge.com/2023/5/17/23727750/montana-bans-telegram-temu-wechat-other-bytedance-apps-government-devices-tiktok)
- - [Apple TV+ dramedy &#39;Physical&#39; returns for its third and final season in August](https://appleinsider.com/articles/23/05/17/apple-tv-dramedy-physical-returns-for-its-third-and-final-season-in-august?utm_medium=rss)
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
+ - [Montana plans to ban apps allegedly &quot;tied to foreign adversaries&quot;, including Telegram, WeChat, and shopping app Temu, from state devices effective June 1, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230517/p38#a230517p38)
+ - [What is the latest version of Android and how to check yours](https://www.androidauthority.com/what-is-the-latest-version-of-android-3324988/)
+ - [I Tried Cold Showers for a Year. Here&#39;s What Happened...     - CNET](https://www.cnet.com/culture/internet/features/i-tried-cold-showers-for-a-year-heres-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
