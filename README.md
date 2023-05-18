@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s diversity goals for the workplace don&#39;t aim high enough](https://appleinsider.com/articles/23/05/18/apples-diversity-goals-for-the-workplace-dont-aim-high-enough?utm_medium=rss)
- - [OpenAI launches a ChatGPT app for iOS in the US, with the same functionality as the web version, but with speech input support using OpenAI&#39;s Whisper &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230518/p24#a230518p24)
- - [Futurama season 11 starts on July 24th, with half the episodes promised](https://www.theverge.com/2023/5/18/23728257/futurama-hulu-premiere-date-july-24)<!-- TECH:END -->
+ - [The Looming El Niño Could Cost the World Trillions of Dollars](https://www.wired.com/story/the-looming-el-nino-could-cost-the-world-trillions-of-dollars/)
+ - [Saving the forests won’t be enough to stop climate change — we need substantial emission cuts](https://www.theverge.com/2023/5/18/23727638/forest-carbon-capture-climate-change-study)
+ - [Google May Delete Your Old Accounts. Here’s How to Stop It](https://www.wired.com/story/how-to-stop-google-delete-account-inactive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
