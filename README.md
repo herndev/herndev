@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [North Lomei Labyrinth, shrine solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694023/north-lomei-labyrinth-mayaotaki-tenbez-shrine-solution-puzzle-maze)
- - [GTA VI Publisher Suggests 2024 Will Be A Very Profitable Year &lpar;Wink, Wink&rpar;](https://kotaku.com/gta-6-vi-release-date-rockstar-take-two-2k-fiscal-2024-1850447846)
- - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
+ - [Here Are The Smelliest Links, According To Tears Of The Kingdom&#39;s Creators](https://kotaku.com/zelda-tears-kingdom-creators-director-link-smelly-stink-1850448162)
+ - [Lego 2K Drive: The Kotaku Review](https://kotaku.com/lego-2k-drive-review-forza-horizon-open-world-racing-1850448000)
+ - [That New Hawken Game Sucks](https://kotaku.com/hawken-reborn-impressions-steam-pc-505-games-mech-1850447998)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
