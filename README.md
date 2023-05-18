@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS plans to invest $12.7B into its infrastructure in India by 2030, in addition to a previous $3.7B, and said its spending will support 131,700 full-time jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230517/p41#a230517p41)
- - [iPhone 16 Pro Max assembly to go to Luxshare as Apple helps with India expansion](https://appleinsider.com/articles/23/05/18/iphone-16-pro-max-assembly-to-go-to-luxshare-as-apple-helps-with-india-expansion?utm_medium=rss)
- - [Micron will invest up to $3.6B in Japan over the next few years, including in a DRAM chipmaking plant in Hiroshima prefecture with support from the government &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230517/p40#a230517p40)<!-- TECH:END -->
+ - [Nothing is literally trying to bring back the old OnePlus from OnePlus](https://www.androidauthority.com/nothing-oneplus-software-hardware-teams-3326295/)
+ - [PitchBook: VC funds invested $187.7M in startups that develop deepfake technologies in 2022 and $50M so far in 2023, up from just $1M in 2017 &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230518/p1#a230518p1)
+ - [AWS plans to invest $12.7B into its infrastructure in India by 2030, in addition to a previous $3.7B, and said its spending will support 131,700 full-time jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230517/p41#a230517p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
