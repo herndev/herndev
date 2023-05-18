@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London stuff innit](http://9gag.com/gag/ap9xA69)
- - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - 👉 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
+ - 💣 [This is how fast guys become friends. Should we? Yes!](http://9gag.com/gag/az2OZxx)
+ - ⏩ [Her smile...](http://9gag.com/gag/anzxEoE)
+ - 👉 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)<!-- MEMES:END -->
 
 ---
 
