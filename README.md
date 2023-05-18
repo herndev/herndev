@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op survival game Nightingale delayed again](https://www.pcgamer.com/co-op-survival-game-nightingale-delayed-again)
- - [You can download ChatGPT on iOS for free right now](https://www.polygon.com/23728946/openai-chatgpt-ios-app-announcement-free)
- - [The Diablo 4 Demon &#39;Meat&#39; Shake finally let me know what Hell tastes like, and it&#39;s very chunky](https://www.pcgamer.com/the-diablo-4-demon-meat-shake-finally-let-me-know-what-hell-tastes-like-and-its-very-chunky)<!-- GAME:END -->
+ - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)
+ - [This woman married 63 people in Stardew Valley, including, uh, Zoro from One Piece, and she refuses to stop there](https://www.pcgamer.com/this-woman-married-63-people-in-stardew-valley-including-uh-zoro-from-one-piece-and-she-refuses-to-stop-there)
+ - [Mayausiy Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728717/mayausiy-shrine-building-blocks-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
