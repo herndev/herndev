@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dockcase Explorer Edition Smart USB-C Hub Review: Streamlined and informative](https://appleinsider.com/articles/23/05/18/dockcase-explorer-edition-smart-usb-c-hub-review-streamlined-and-informative?utm_medium=rss)
- - [AI pioneer Yoshua Bengio, who won the 2018 Turing Award with Geoffrey Hinton and Yann LeCun, says governments need to move fast to &quot;protect the public&quot; &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230518/p11#a230518p11)
- - [Pete Buttigieg Loves God, Beer, and His Electric Mustang](https://www.wired.com/story/pete-buttigieg-interview-god-beer-electric-mustang/)<!-- TECH:END -->
+ - [What is bio-oil, and why does Big Tech think it can fight climate change?](https://www.theverge.com/2023/5/18/23727327/bio-oil-climate-change-charm-industrial-frontier-meta-stripe-alphabet-shopify)
+ - [A survey of 70 cybersecurity experts: 64% favored reauthorization of FISA&#39;s Section 702, set to expire at the end of 2023, with some kind of change &lpar;Washington Post&rpar;](http://www.techmeme.com/230518/p15#a230518p15)
+ - [Nothing Phone 2 processor revealed: A big step up from Phone 1](https://www.androidauthority.com/nothing-phone-2-snapdragon-processor-3326425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
