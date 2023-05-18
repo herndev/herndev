@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Lords of the Fallen Expands Upon the Original Cult Classic](https://news.xbox.com/en-us/2023/05/18/lords-of-the-fallen-expands-upon-the-original/)
- - [I ate the red Spider-Verse Whopper, but did not gain powers](https://www.polygon.com/23725962/burger-king-spider-verse-whopper-sundae-taste-test)
- - [PowerWash Simulator is going to Bikini Bottom for SpongeBob DLC](https://www.polygon.com/23728774/powerwash-simulators-spongebob-squarepants-special-pack-dlc-announcement)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [How to find the Giant White Stallion in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728443/giant-white-stallion-horse-god-find-tame)
+ - [Utsushok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728854/utsushok-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
