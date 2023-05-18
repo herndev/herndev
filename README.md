@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is bio-oil, and why does Big Tech think it can fight climate change?](https://www.theverge.com/2023/5/18/23727327/bio-oil-climate-change-charm-industrial-frontier-meta-stripe-alphabet-shopify)
- - [A survey of 70 cybersecurity experts: 64% favored reauthorization of FISA&#39;s Section 702, set to expire at the end of 2023, with some kind of change &lpar;Washington Post&rpar;](http://www.techmeme.com/230518/p15#a230518p15)
- - [Nothing Phone 2 processor revealed: A big step up from Phone 1](https://www.androidauthority.com/nothing-phone-2-snapdragon-processor-3326425/)<!-- TECH:END -->
+ - [The Daring Robot Surgery That Saved a Man’s Life](https://www.wired.com/story/proximie-remote-surgery-nhs/)
+ - [Nvidia announces a $299 RTX 4060 with the 4060 Ti arriving May 24th for $399](https://www.theverge.com/2023/5/18/23728149/nvidia-rtx-4060-4060-ti-release-date-price-specs)
+ - [The first Xbox games for PC start arriving on Nvidia GeForce Now](https://www.theverge.com/2023/5/18/23728146/nvidia-geforce-now-microsoft-xbox-pc-games-gears-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
