@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - ⏩ [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)
- - 👉 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
+ - 💣 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)
+ - ⏩ [One of each](http://9gag.com/gag/aA0MZGd)
+ - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
 
 ---
 
