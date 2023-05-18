@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how fast guys become friends. Should we? Yes!](http://9gag.com/gag/az2OZxx)
- - ⏩ [Her smile...](http://9gag.com/gag/anzxEoE)
- - 👉 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)<!-- MEMES:END -->
+ - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - ⏩ [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
 
 ---
 
