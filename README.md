@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome will start detecting URL typos and suggest websites](https://www.androidauthority.com/google-chrome-url-typos-3326626/)
- - [A new iMessage bug is causing issues when texting Android users](https://appleinsider.com/articles/23/05/18/a-new-imessage-bug-is-causing-issues-when-texting-android-users?utm_medium=rss)
- - [OpenAI launches a free ChatGPT app for iOS in the US, offering the web version&#39;s features plus history sync across devices and speech input via OpenAI&#39;s Whisper &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230518/p27#a230518p27)<!-- TECH:END -->
+ - [Disney’s absurdly expensive Star Wars hotel is shutting down](https://www.theverge.com/2023/5/18/23729114/disney-star-wars-galactic-cruiser-hotel-shutting-down)
+ - [In a letter to Satya Nadella, Twitter accuses Microsoft of violating an agreement over the use of Twitter&#39;s data and declining to pay for that usage &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p29#a230518p29)
+ - [Amazon Prime Air hoped for 10,000 drone deliveries this year — it’s only done 100](https://www.theverge.com/2023/5/18/23728528/amazon-prime-air-drone-delivery-jeff-bezos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
