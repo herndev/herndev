@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - ⏩ [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
- - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
+ - 💣 [Actual King](http://9gag.com/gag/aDYbX7O)
+ - ⏩ [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)
+ - 👉 [Great move](http://9gag.com/gag/aoKxLnw)<!-- MEMES:END -->
 
 ---
 
