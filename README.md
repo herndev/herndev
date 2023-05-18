@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing is literally trying to bring back the old OnePlus from OnePlus](https://www.androidauthority.com/nothing-oneplus-software-hardware-teams-3326295/)
- - [PitchBook: VC funds invested $187.7M in startups that develop deepfake technologies in 2022 and $50M so far in 2023, up from just $1M in 2017 &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/230518/p1#a230518p1)
- - [AWS plans to invest $12.7B into its infrastructure in India by 2030, in addition to a previous $3.7B, and said its spending will support 131,700 full-time jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230517/p41#a230517p41)<!-- TECH:END -->
+ - [Sources: Apple plans to mass produce microLED displays to reduce reliance on Samsung and increase supply control, having spent $1B+ on microLED R&amp;D in ~10 years &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230518/p3#a230518p3)
+ - [An investigation reveals how hundreds of freelancers hired as customer service reps catfish users into paying for subscriptions on niche dating and hookup sites &lpar;Laura Cole/Wired&rpar;](http://www.techmeme.com/230518/p2#a230518p2)
+ - [Nothing is literally trying to bring back the old OnePlus from OnePlus](https://www.androidauthority.com/nothing-oneplus-software-hardware-teams-3326295/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
