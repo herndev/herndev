@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might delete your Gmail account if you haven’t logged in for two years](https://www.theverge.com/2023/5/16/23725438/google-gmail-deleting-inactive-accounts)
- - [Home automation standard Matter gets its first update since release](https://appleinsider.com/articles/23/05/18/home-automation-standard-matter-gets-its-first-update-since-release?utm_medium=rss)
- - [The new Google Pixel 7a just got a 10% price drop](https://www.androidauthority.com/google-pixel-7a-deal-3326569/)<!-- TECH:END -->
+ - [Twitter now lets Blue subscribers upload two-hour videos](https://www.theverge.com/2023/5/18/23728787/twitter-blue-subscribers-two-hour-videos)
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
+ - [A look at Sightful&#39;s Spacetop, a $2,000 laptop that replaces the screen with an AR headset, giving users a 100&quot; display, available to 1,000 early adopters &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/230518/p26#a230518p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
