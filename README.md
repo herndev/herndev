@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech&#39;s new mouse repair partnership with iFixit isn&#39;t for gamers, yet](https://www.pcgamer.com/logitechs-new-mouse-repair-partnership-with-ifixit-isnt-for-gamers-yet)
- - [NASA&#39;s working on a wiggly snake-like autonomous Rover alternative to &#39;boldly go where no robot has gone before&#39;](https://www.pcgamer.com/nasas-working-on-a-wiggly-snake-like-autonomous-rover-alternative-to-boldly-go-where-no-robot-has-gone-before)
- - [You can buy the &lpar;wrong&rpar; photo of Tali from Mass Effect on the BioWare store](https://www.pcgamer.com/you-can-buy-the-wrong-photo-of-tali-from-mass-effect-on-the-bioware-store)<!-- GAME:END -->
+ - [Google released a .zip web domain and people can&#39;t decide if it&#39;s the phishing apocalypse or just as bad as any other dodgy link](https://www.pcgamer.com/google-released-a-zip-web-domain-and-people-cant-decide-if-its-the-phishing-apocalypse-or-just-as-bad-as-any-other-dodgy-link)
+ - [Lord of the Rings Online &#39;is not going away&#39; just because Amazon&#39;s making a Lord of the Rings MMO: &#39;It is beloved, it is sixteen, it is evergreen&#39;](https://www.pcgamer.com/lord-of-the-rings-online-is-not-going-away-just-because-amazons-making-a-lord-of-the-rings-mmo-it-is-beloved-it-is-sixteen-it-is-evergreen)
+ - [Logitech&#39;s new mouse repair partnership with iFixit isn&#39;t for gamers, yet](https://www.pcgamer.com/logitechs-new-mouse-repair-partnership-with-ifixit-isnt-for-gamers-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
