@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A playful pup has stolen the show during a Premier Division football game](http://9gag.com/gag/aoKx8Q0)
- - ⏩ [Helpful back stretches for everyone](http://9gag.com/gag/aYVM1Oq)
- - 👉 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
+ - 💣 [Her smile...](http://9gag.com/gag/anzxEoE)
+ - ⏩ [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
+ - 👉 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
 
 ---
 
