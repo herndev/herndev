@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lol](http://9gag.com/gag/a6qBGw8)
- - ⏩ [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
- - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
+ - ⏩ [Nice](http://9gag.com/gag/aA0M2wp)
+ - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
 
 ---
 
