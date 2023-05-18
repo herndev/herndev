@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to mass produce microLED displays to reduce reliance on Samsung and increase supply control, having spent $1B+ on microLED R&amp;D in ~10 years &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230518/p3#a230518p3)
- - [An investigation reveals how hundreds of freelancers hired as customer service reps catfish users into paying for subscriptions on niche dating and hookup sites &lpar;Laura Cole/Wired&rpar;](http://www.techmeme.com/230518/p2#a230518p2)
- - [Nothing is literally trying to bring back the old OnePlus from OnePlus](https://www.androidauthority.com/nothing-oneplus-software-hardware-teams-3326295/)<!-- TECH:END -->
+ - [The UK&#39;s Treasury Committee report recommends that the government regulate trading and investment in unbacked crypto as gambling instead of a financial service &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230518/p5#a230518p5)
+ - [Android 14 might add a handy feature for split-screen mode](https://www.androidauthority.com/android-14-app-pairs-split-screen-3326305/)
+ - [FTX&#39;s leadership sues Sam Bankman-Fried, Gary Wang, and Nishad Singh, claiming they knew Alameda was insolvent when acquiring clearing platform Embed for ~$250M &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230518/p4#a230518p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
