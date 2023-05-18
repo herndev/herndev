@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Debuts PC Games to NVIDIA GeForce NOW Members Beginning Today](https://news.xbox.com/en-us/2023/05/18/xbox-games-to-nvidia-geforce-now-members/)
- - [Everyone in the Fast and Furious Family has two key traits](https://www.polygon.com/23725611/fast-furious-cast-family-characters)
- - [Google released a .zip web domain and people can&#39;t decide if it&#39;s the phishing apocalypse or just as bad as any other dodgy link](https://www.pcgamer.com/google-released-a-zip-web-domain-and-people-cant-decide-if-its-the-phishing-apocalypse-or-just-as-bad-as-any-other-dodgy-link)<!-- GAME:END -->
+ - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)
+ - [Journey developers&#39; cozy MMO is finally flying onto PC](https://www.pcgamer.com/journey-developers-cozy-mmo-is-finally-flying-onto-pc)
+ - [Saudi Arabia now owns 10% of Electronic Arts](https://www.pcgamer.com/saudi-arabia-now-owns-10-of-electronic-arts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
