@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
- - ⏩ [Turkish coffee!](http://9gag.com/gag/a8qeeY1)
- - 👉 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
+ - 💣 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - ⏩ [Aaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aZDEzeX)
+ - 👉 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)<!-- MEMES:END -->
 
 ---
 
