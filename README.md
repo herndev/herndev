@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Looming El Niño Could Cost the World Trillions of Dollars](https://www.wired.com/story/the-looming-el-nino-could-cost-the-world-trillions-of-dollars/)
- - [Saving the forests won’t be enough to stop climate change — we need substantial emission cuts](https://www.theverge.com/2023/5/18/23727638/forest-carbon-capture-climate-change-study)
- - [Google May Delete Your Old Accounts. Here’s How to Stop It](https://www.wired.com/story/how-to-stop-google-delete-account-inactive/)<!-- TECH:END -->
+ - [Google might delete your Gmail account if you haven’t logged in for two years](https://www.theverge.com/2023/5/16/23725438/google-gmail-deleting-inactive-accounts)
+ - [Home automation standard Matter gets its first update since release](https://appleinsider.com/articles/23/05/18/home-automation-standard-matter-gets-its-first-update-since-release?utm_medium=rss)
+ - [The new Google Pixel 7a just got a 10% price drop](https://www.androidauthority.com/google-pixel-7a-deal-3326569/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
