@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
- - [Netflix says its ad tier has nearly 5M global MAUs, with a median age of 34, six months after launch, and makes up 25%+ of signups in countries with the option &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230517/p34#a230517p34)
- - [Latest Hermes AirPods Pro 2 case costs more than an iPad Pro](https://appleinsider.com/articles/23/05/17/latest-hermes-airpods-pro-2-case-costs-more-than-an-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Montana bans Telegram, WeChat, and Temu from government devices](https://www.theverge.com/2023/5/17/23727750/montana-bans-telegram-temu-wechat-other-bytedance-apps-government-devices-tiktok)
+ - [Apple TV+ dramedy &#39;Physical&#39; returns for its third and final season in August](https://appleinsider.com/articles/23/05/17/apple-tv-dramedy-physical-returns-for-its-third-and-final-season-in-august?utm_medium=rss)
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
