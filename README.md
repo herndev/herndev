@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – XCOM 2, Tom Clancy’s The Division 2, Warhammer 40,000: Inquisitor – Martyr Ultimate Edition, and Warhammer: Chaosbane Slayer Edition Xbox Series X|S](https://news.xbox.com/en-us/2023/05/18/free-play-days-xcom-2-the-division-2-warhammer-40000-inquisitor-and-warhammer-chaosbane/)
- - [Epic Games Store will now reward you 5% back on game purchases](https://www.polygon.com/23728280/epic-games-store-rewards-games-apps-dlc-currency)
- - [Meet the new PlayStation 5 accessibility controller](https://www.polygon.com/23728303/playstation-5-project-leonardo-accessibility-controller)<!-- GAME:END -->
+ - [The new Lords of the Fallen game gets an October release date — and brutal new trailer](https://www.polygon.com/23728518/lords-of-the-fallen-reboot-sequel-trailer-release-date)
+ - [Ukoojisi Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725369/ukoojisi-shrine-solution-puzzle-chest)
+ - [You&#39;re going to start getting &#39;Epic Rewards&#39; on the Epic Games Store](https://www.pcgamer.com/epic-rewards-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
