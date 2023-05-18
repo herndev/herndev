@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney’s absurdly expensive Star Wars hotel is shutting down](https://www.theverge.com/2023/5/18/23729114/disney-star-wars-galactic-cruiser-hotel-shutting-down)
- - [In a letter to Satya Nadella, Twitter accuses Microsoft of violating an agreement over the use of Twitter&#39;s data and declining to pay for that usage &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p29#a230518p29)
- - [Amazon Prime Air hoped for 10,000 drone deliveries this year — it’s only done 100](https://www.theverge.com/2023/5/18/23728528/amazon-prime-air-drone-delivery-jeff-bezos)<!-- TECH:END -->
+ - [Elon Musk’s lawyer accuses Microsoft of abusing its access to Twitter data](https://www.theverge.com/2023/5/18/23729216/twitter-microsoft-api-data-sharing-elon-musk-satya-nadella)
+ - [Hyundai and Kia agree to $200 million settlement over TikTok car theft challenge](https://www.theverge.com/2023/5/18/23729229/hyundai-kia-settlement-car-theft-challenge-tiktok)
+ - [Twitter Blue subscribers can now upload videos up to two hours long, up from the previous 60-minute limit, and with a file size limit of 8GB, up from 2GB &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230518/p30#a230518p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
