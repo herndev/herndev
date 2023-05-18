@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube unveils 30-second unskippable ads on top-performing videos on TVs and says 150M+ unique US viewers watched YouTube or YouTube TV on TVs in December 2022 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230517/p39#a230517p39)
  - [Montana plans to ban apps allegedly &quot;tied to foreign adversaries&quot;, including Telegram, WeChat, and shopping app Temu, from state devices effective June 1, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230517/p38#a230517p38)
- - [What is the latest version of Android and how to check yours](https://www.androidauthority.com/what-is-the-latest-version-of-android-3324988/)
- - [I Tried Cold Showers for a Year. Here&#39;s What Happened...     - CNET](https://www.cnet.com/culture/internet/features/i-tried-cold-showers-for-a-year-heres-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is the latest version of Android and how to check yours](https://www.androidauthority.com/what-is-the-latest-version-of-android-3324988/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
