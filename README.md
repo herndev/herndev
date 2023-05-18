@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google released a .zip web domain and people can&#39;t decide if it&#39;s the phishing apocalypse or just as bad as any other dodgy link](https://www.pcgamer.com/google-released-a-zip-web-domain-and-people-cant-decide-if-its-the-phishing-apocalypse-or-just-as-bad-as-any-other-dodgy-link)
- - [Lord of the Rings Online &#39;is not going away&#39; just because Amazon&#39;s making a Lord of the Rings MMO: &#39;It is beloved, it is sixteen, it is evergreen&#39;](https://www.pcgamer.com/lord-of-the-rings-online-is-not-going-away-just-because-amazons-making-a-lord-of-the-rings-mmo-it-is-beloved-it-is-sixteen-it-is-evergreen)
- - [Logitech&#39;s new mouse repair partnership with iFixit isn&#39;t for gamers, yet](https://www.pcgamer.com/logitechs-new-mouse-repair-partnership-with-ifixit-isnt-for-gamers-yet)<!-- GAME:END -->
+ - [Xbox Debuts PC Games to NVIDIA GeForce NOW Members Beginning Today](https://news.xbox.com/en-us/2023/05/18/xbox-games-to-nvidia-geforce-now-members/)
+ - [Everyone in the Fast and Furious Family has two key traits](https://www.polygon.com/23725611/fast-furious-cast-family-characters)
+ - [Google released a .zip web domain and people can&#39;t decide if it&#39;s the phishing apocalypse or just as bad as any other dodgy link](https://www.pcgamer.com/google-released-a-zip-web-domain-and-people-cant-decide-if-its-the-phishing-apocalypse-or-just-as-bad-as-any-other-dodgy-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
