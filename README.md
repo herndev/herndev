@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Datamining shows Hogwarts Legacy almost had a morality and reputation system](https://www.pcgamer.com/datamining-shows-hogwarts-legacy-almost-had-a-morality-and-reputation-system)
  - [Kikakin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727775/kikakin-shrine-solution-puzzle-chests-shining-in-darkness)
- - [Joju-u-u Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727774/joju-u-u-shrine-solution-building-bridges-chest-puzzle)
- - [How to get the Time Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727304/time-armor-set-locations-head-chest-legs-get-ocarina)<!-- GAME:END -->
+ - [Joju-u-u Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727774/joju-u-u-shrine-solution-building-bridges-chest-puzzle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
