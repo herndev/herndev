@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [How to find the Giant White Stallion in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728443/giant-white-stallion-horse-god-find-tame)
- - [Utsushok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728854/utsushok-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Co-op survival game Nightingale delayed again](https://www.pcgamer.com/co-op-survival-game-nightingale-delayed-again)
+ - [You can download ChatGPT on iOS for free right now](https://www.polygon.com/23728946/openai-chatgpt-ios-app-announcement-free)
+ - [The Diablo 4 Demon &#39;Meat&#39; Shake finally let me know what Hell tastes like, and it&#39;s very chunky](https://www.pcgamer.com/the-diablo-4-demon-meat-shake-finally-let-me-know-what-hell-tastes-like-and-its-very-chunky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
