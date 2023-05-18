@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Lords of the Fallen game gets an October release date — and brutal new trailer](https://www.polygon.com/23728518/lords-of-the-fallen-reboot-sequel-trailer-release-date)
- - [Ukoojisi Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725369/ukoojisi-shrine-solution-puzzle-chest)
- - [You&#39;re going to start getting &#39;Epic Rewards&#39; on the Epic Games Store](https://www.pcgamer.com/epic-rewards-announcement)<!-- GAME:END -->
+ - [Champion’s Leathers location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728527/champions-leathers-tunic-location)
+ - [Tears Of The Kingdom’s Great Fairy Quest Is Worth It To Upgrade Your Armor](https://kotaku.com/zelda-tears-of-the-kingdom-how-to-great-fairy-fountain-1850450197)
+ - [Hawken Reborn isn&#39;t a comeback for the brilliant mech FPS, it&#39;s a total disaster](https://www.pcgamer.com/hawken-reborn-isnt-a-comeback-for-the-brilliant-mech-fps-its-a-total-disaster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
