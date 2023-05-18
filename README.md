@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her smile...](http://9gag.com/gag/anzxEoE)
- - ⏩ [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
+ - 💣 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
+ - ⏩ [Nice](http://9gag.com/gag/aA0M2wp)
  - 👉 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
 
 ---
