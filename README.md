@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you make the switch to a Verizon MyPlan or stick with your existing plan?](https://www.androidauthority.com/verizon-myplan-vs-get-do-play-more-3325797/)
- - [The best new streaming movies this week on Disney Plus, Hulu, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Epic’s Mega sale is back along with a new rewards program](https://www.theverge.com/2023/5/18/23727632/epic-mega-sale-rewards-program)<!-- TECH:END -->
+ - [All-in-one PDF Editor for macOS &amp; iOS, an alternative to PDF Expert: UPDF &lpar;54% off&rpar;](https://appleinsider.com/articles/23/05/18/all-in-one-pdf-editor-for-macos-ios-an-alternative-to-pdf-expert-updf-54-off?utm_medium=rss)
+ - [Coinbase launches its Coinbase One subscription in the US, the UK, Germany, and Ireland, offering zero trading fees, 24/7 customer support, and more &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230518/p21#a230518p21)
+ - [Georgia residents can now add a driver&#39;s license to their iPhone](https://appleinsider.com/articles/23/05/18/georgia-residents-can-now-add-a-drivers-license-to-their-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
