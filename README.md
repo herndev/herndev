@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Daring Robot Surgery That Saved a Man’s Life](https://www.wired.com/story/proximie-remote-surgery-nhs/)
- - [Nvidia announces a $299 RTX 4060 with the 4060 Ti arriving May 24th for $399](https://www.theverge.com/2023/5/18/23728149/nvidia-rtx-4060-4060-ti-release-date-price-specs)
- - [The first Xbox games for PC start arriving on Nvidia GeForce Now](https://www.theverge.com/2023/5/18/23728146/nvidia-geforce-now-microsoft-xbox-pc-games-gears-5)<!-- TECH:END -->
+ - [Watch the first trailer for Martin Scorsese’s Killers of the Flower Moon](https://www.theverge.com/23728314/killers-of-the-flower-moon-trailer-apple-tv-plus)
+ - [TSMC thinking about moving some operations to Japan amid growing China tensions](https://appleinsider.com/articles/23/05/18/tsmc-thinking-about-moving-some-operations-to-japan-amid-growing-china-tensions?utm_medium=rss)
+ - [The Pixel 8 Pro’s highlight feature is a… thermometer?](https://www.androidauthority.com/google-pixel-8-pro-infrared-thermometer-leak-3326466/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
