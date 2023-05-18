@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online Apple Store opens in Vietnam](https://appleinsider.com/articles/23/05/18/online-apple-store-opens-in-vietnam?utm_medium=rss)
- - [YouTube unveils 30-second unskippable ads on top-performing videos on TVs and says 150M+ unique US viewers watched YouTube or YouTube TV on TVs in December 2022 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230517/p39#a230517p39)
- - [Montana plans to ban apps allegedly &quot;tied to foreign adversaries&quot;, including Telegram, WeChat, and shopping app Temu, from state devices effective June 1, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230517/p38#a230517p38)<!-- TECH:END -->
+ - [AWS plans to invest $12.7B into its infrastructure in India by 2030, in addition to a previous $3.7B, and said its spending will support 131,700 full-time jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230517/p41#a230517p41)
+ - [iPhone 16 Pro Max assembly to go to Luxshare as Apple helps with India expansion](https://appleinsider.com/articles/23/05/18/iphone-16-pro-max-assembly-to-go-to-luxshare-as-apple-helps-with-india-expansion?utm_medium=rss)
+ - [Micron will invest up to $3.6B in Japan over the next few years, including in a DRAM chipmaking plant in Hiroshima prefecture with support from the government &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230517/p40#a230517p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
