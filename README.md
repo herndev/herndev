@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)
- - [This woman married 63 people in Stardew Valley, including, uh, Zoro from One Piece, and she refuses to stop there](https://www.pcgamer.com/this-woman-married-63-people-in-stardew-valley-including-uh-zoro-from-one-piece-and-she-refuses-to-stop-there)
- - [Mayausiy Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728717/mayausiy-shrine-building-blocks-solution-puzzle-chest)<!-- GAME:END -->
+ - [What is the Ring Garland in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695578/ring-garland-collectable-locations-list)
+ - [Florida Gov. DeSantis Just Fumbled $1 Billion In Fight Against Disney](https://kotaku.com/disney-world-iger-desantis-war-facility-canceled-plans-1850451862)
+ - [Ishokin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729010/ishokin-shrine-ride-the-giant-horse-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
