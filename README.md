@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actual King](http://9gag.com/gag/aDYbX7O)
- - ⏩ [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)
- - 👉 [Great move](http://9gag.com/gag/aoKxLnw)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aA0M2wp)
+ - ⏩ [Netflix movie Queen Cleopatra is now officially broken the record as the worst rating movie. Just because Netflix placed the word DOCUMENTARY, the entire egypt is angry to protect their history that Cleopatra is white. Egypt is suing Netflix for 2 billion dollars.](http://9gag.com/gag/a8qezGZ)
+ - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 ---
 
