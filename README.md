@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Datamining shows Hogwarts Legacy almost had a morality and reputation system](https://www.pcgamer.com/datamining-shows-hogwarts-legacy-almost-had-a-morality-and-reputation-system)
- - [Kikakin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727775/kikakin-shrine-solution-puzzle-chests-shining-in-darkness)
- - [Joju-u-u Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727774/joju-u-u-shrine-solution-building-bridges-chest-puzzle)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; You’re Invited: PlayStation Showcase broadcasts live next Thursday, 25 May at 3am &lpar;BKK/JKT&rpar; / 4AM &lpar;SG/KL/MNL&rpar;](https://blog.playstation.com/2023/05/17/20230517-showcase/)
+ - [Today&#39;s Wordle hint and answer #698: Thursday, May 18](https://www.pcgamer.com/wordle-today-hint-answer-698-may-18)
+ - [Hogwarts Legacy almost had a morality and reputation system](https://www.pcgamer.com/datamining-shows-hogwarts-legacy-almost-had-a-morality-and-reputation-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
