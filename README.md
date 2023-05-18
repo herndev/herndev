@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
- - ⏩ [This is how fast guys become friends. Should we? Yes!](http://9gag.com/gag/az2OZxx)
- - 👉 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
+ - 💣 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - ⏩ [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)
+ - 👉 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
 
 ---
 
