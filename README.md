@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Nigeria&#39;s government-backed digital currency, eNaira, which has failed to convert crypto users and has been hindered by limited internet access &lpar;Temitayo Lawal/Rest of World&rpar;](http://www.techmeme.com/230518/p7#a230518p7)
- - [Sony’s Access controller has a PS5 accessibility UI and virtual controller feature](https://www.theverge.com/2023/5/18/23728143/sony-access-controller-ps5-accessibility-ui-features)
- - [An in-depth look at the impact of LLMs on music and recording artists, reflecting on Vocaloid&#39;s first software in 2004, Hatsune Miku, Drake, and Louis Armstrong &lpar;Jaime Brooks/The Seat of Loss&rpar;](http://www.techmeme.com/230518/p6#a230518p6)<!-- TECH:END -->
+ - [An investigation finds only ~$15M in donations to OpenAI when the organization was a nonprofit are definitively traceable to Elon Musk, below $50M-$100M claims &lpar;Mark Harris/TechCrunch&rpar;](http://www.techmeme.com/230518/p10#a230518p10)
+ - [Google to start purging inactive accounts &lpar;Update: Not ones with YouTube videos&rpar;](https://www.androidauthority.com/google-account-deletion-3325245/)
+ - [Grammarly announces Grammarly Business, using generative AI to summarize key points in email strings, compose replies, and more, rolling out in June 2023 &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230518/p9#a230518p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
