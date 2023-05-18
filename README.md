@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
- - ⏩ [Relax life](http://9gag.com/gag/aNwB4mG)
- - 👉 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
+ - ⏩ [This is how fast guys become friends. Should we? Yes!](http://9gag.com/gag/az2OZxx)
+ - 👉 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
 
 ---
 
