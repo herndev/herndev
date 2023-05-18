@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
- - ⏩ [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
- - 👉 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
+ - 💣 [A playful pup has stolen the show during a Premier Division football game](http://9gag.com/gag/aoKx8Q0)
+ - ⏩ [Helpful back stretches for everyone](http://9gag.com/gag/aYVM1Oq)
+ - 👉 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
 
 ---
 
