@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)
- - [Journey developers&#39; cozy MMO is finally flying onto PC](https://www.pcgamer.com/journey-developers-cozy-mmo-is-finally-flying-onto-pc)
- - [Saudi Arabia now owns 10% of Electronic Arts](https://www.pcgamer.com/saudi-arabia-now-owns-10-of-electronic-arts)<!-- GAME:END -->
+ - [Free Play Days – XCOM 2, Tom Clancy’s The Division 2, Warhammer 40,000: Inquisitor – Martyr Ultimate Edition, and Warhammer: Chaosbane Slayer Edition Xbox Series X|S](https://news.xbox.com/en-us/2023/05/18/free-play-days-xcom-2-the-division-2-warhammer-40000-inquisitor-and-warhammer-chaosbane/)
+ - [Epic Games Store will now reward you 5% back on game purchases](https://www.polygon.com/23728280/epic-games-store-rewards-games-apps-dlc-currency)
+ - [Meet the new PlayStation 5 accessibility controller](https://www.polygon.com/23728303/playstation-5-project-leonardo-accessibility-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
