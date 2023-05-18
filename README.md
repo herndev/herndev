@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Ring Garland in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695578/ring-garland-collectable-locations-list)
- - [Florida Gov. DeSantis Just Fumbled $1 Billion In Fight Against Disney](https://kotaku.com/disney-world-iger-desantis-war-facility-canceled-plans-1850451862)
- - [Ishokin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729010/ishokin-shrine-ride-the-giant-horse-solution-puzzle-chest)<!-- GAME:END -->
+ - [Metro: Last Light, one of my favorite shooters ever, is free on Steam](https://www.pcgamer.com/metro-last-light-one-of-my-favorite-shooters-ever-is-free-on-steam)
+ - [Diablo 4 has a two week-early &#39;launch trailer&#39; set to a Billie Eilish song that is remarkably not &#39;Bad Guy&#39;](https://www.pcgamer.com/diablo-4-has-a-two-week-early-launch-trailer-set-to-a-billie-eilish-song-that-is-remarkably-not-bad-guy)
+ - [Fortnite has dropped Trios mode with zero explanation, and fans aren&#39;t happy](https://www.pcgamer.com/fortnite-has-dropped-trios-mode-with-zero-explanation-and-fans-arent-happy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
