@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-in-one PDF Editor for macOS &amp; iOS, an alternative to PDF Expert: UPDF &lpar;54% off&rpar;](https://appleinsider.com/articles/23/05/18/all-in-one-pdf-editor-for-macos-ios-an-alternative-to-pdf-expert-updf-54-off?utm_medium=rss)
- - [Coinbase launches its Coinbase One subscription in the US, the UK, Germany, and Ireland, offering zero trading fees, 24/7 customer support, and more &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230518/p21#a230518p21)
- - [Georgia residents can now add a driver&#39;s license to their iPhone](https://appleinsider.com/articles/23/05/18/georgia-residents-can-now-add-a-drivers-license-to-their-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s diversity goals for the workplace don&#39;t aim high enough](https://appleinsider.com/articles/23/05/18/apples-diversity-goals-for-the-workplace-dont-aim-high-enough?utm_medium=rss)
+ - [OpenAI launches a ChatGPT app for iOS in the US, with the same functionality as the web version, but with speech input support using OpenAI&#39;s Whisper &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230518/p24#a230518p24)
+ - [Futurama season 11 starts on July 24th, with half the episodes promised](https://www.theverge.com/2023/5/18/23728257/futurama-hulu-premiere-date-july-24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
