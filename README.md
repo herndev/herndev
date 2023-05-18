@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro still trying to figure out what happened](http://9gag.com/gag/aA0MZ6L)
- - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - 👉 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
+ - 💣 [Hawaiian Airlines Unveils Boeing 787 Cabins](http://9gag.com/gag/aZDEzY3)
+ - ⏩ [Lol](http://9gag.com/gag/a6qBGw8)
+ - 👉 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)<!-- MEMES:END -->
 
 ---
 
