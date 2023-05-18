@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Champion’s Leathers location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728527/champions-leathers-tunic-location)
- - [Tears Of The Kingdom’s Great Fairy Quest Is Worth It To Upgrade Your Armor](https://kotaku.com/zelda-tears-of-the-kingdom-how-to-great-fairy-fountain-1850450197)
- - [Hawken Reborn isn&#39;t a comeback for the brilliant mech FPS, it&#39;s a total disaster](https://www.pcgamer.com/hawken-reborn-isnt-a-comeback-for-the-brilliant-mech-fps-its-a-total-disaster)<!-- GAME:END -->
+ - [How Lords of the Fallen Expands Upon the Original Cult Classic](https://news.xbox.com/en-us/2023/05/18/lords-of-the-fallen-expands-upon-the-original/)
+ - [I ate the red Spider-Verse Whopper, but did not gain powers](https://www.polygon.com/23725962/burger-king-spider-verse-whopper-sundae-taste-test)
+ - [PowerWash Simulator is going to Bikini Bottom for SpongeBob DLC](https://www.polygon.com/23728774/powerwash-simulators-spongebob-squarepants-special-pack-dlc-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
