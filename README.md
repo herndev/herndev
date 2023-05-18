@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds only ~$15M in donations to OpenAI when the organization was a nonprofit are definitively traceable to Elon Musk, below $50M-$100M claims &lpar;Mark Harris/TechCrunch&rpar;](http://www.techmeme.com/230518/p10#a230518p10)
- - [Google to start purging inactive accounts &lpar;Update: Not ones with YouTube videos&rpar;](https://www.androidauthority.com/google-account-deletion-3325245/)
- - [Grammarly announces Grammarly Business, using generative AI to summarize key points in email strings, compose replies, and more, rolling out in June 2023 &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230518/p9#a230518p9)<!-- TECH:END -->
+ - [Dockcase Explorer Edition Smart USB-C Hub Review: Streamlined and informative](https://appleinsider.com/articles/23/05/18/dockcase-explorer-edition-smart-usb-c-hub-review-streamlined-and-informative?utm_medium=rss)
+ - [AI pioneer Yoshua Bengio, who won the 2018 Turing Award with Geoffrey Hinton and Yann LeCun, says governments need to move fast to &quot;protect the public&quot; &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230518/p11#a230518p11)
+ - [Pete Buttigieg Loves God, Beer, and His Electric Mustang](https://www.wired.com/story/pete-buttigieg-interview-god-beer-electric-mustang/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
