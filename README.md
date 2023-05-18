@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relax life](http://9gag.com/gag/aNwB4mG)
- - ⏩ [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)
- - 👉 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
+ - 💣 [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)
+ - ⏩ [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
+ - 👉 [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)<!-- MEMES:END -->
 
 ---
 
