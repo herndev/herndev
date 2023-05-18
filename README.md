@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are The Smelliest Links, According To Tears Of The Kingdom&#39;s Creators](https://kotaku.com/zelda-tears-kingdom-creators-director-link-smelly-stink-1850448162)
- - [Lego 2K Drive: The Kotaku Review](https://kotaku.com/lego-2k-drive-review-forza-horizon-open-world-racing-1850448000)
- - [That New Hawken Game Sucks](https://kotaku.com/hawken-reborn-impressions-steam-pc-505-games-mech-1850447998)<!-- GAME:END -->
+ - [Kikakin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727775/kikakin-shrine-solution-puzzle-chests-shining-in-darkness)
+ - [Joju-u-u Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727774/joju-u-u-shrine-solution-building-bridges-chest-puzzle)
+ - [How to get the Time Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727304/time-armor-set-locations-head-chest-legs-get-ocarina)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
