@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hawaiian Airlines Unveils Boeing 787 Cabins](http://9gag.com/gag/aZDEzY3)
- - ⏩ [Lol](http://9gag.com/gag/a6qBGw8)
- - 👉 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)<!-- MEMES:END -->
+ - 💣 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - ⏩ [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
+ - 👉 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 ---
 
