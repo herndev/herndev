@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)
- - ⏩ [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
- - 👉 [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)<!-- MEMES:END -->
+ - 💣 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
+ - ⏩ [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
+ - 👉 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
 
 ---
 
