@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Fast X: Part 2 news we’ve heard so far](https://www.polygon.com/23728985/fast-x-part-2-release-date-cast-news-11-hobbs)
- - [Best gaming laptops in 2023: Portable powerhouses](https://www.pcgamer.com/best-gaming-laptop)
- - [What to remember about the Fast and Furious movies before watching Fast X](https://www.polygon.com/23727622/fast-and-furious-movies-reminders-before-fast-x)<!-- GAME:END -->
+ - [Disney to remove Willow, Y: The Last Man, and original movies from Disney Plus and Hulu to save cash](https://www.polygon.com/23729816/disney-plus-remove-willow-movies-hulu-y-last-man)
+ - [You can buy the chrome gold Lamborghini Gallardo from Fast X](https://www.polygon.com/deals/23727365/fast-furious-x-cars-toys-replica-die-cast)
+ - [Makasura Shrine ‘An Upright Device’ puzzle solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706940/makasura-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
