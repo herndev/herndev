@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
- - ⏩ [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)
- - 👉 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
+ - 💣 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
+ - 👉 [Nice](http://9gag.com/gag/aA0M2wp)<!-- MEMES:END -->
 
 ---
 
