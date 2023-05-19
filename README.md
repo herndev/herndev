@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - ⏩ [NYC Karen turns out To be just another victim of anti white ledist racism.](http://9gag.com/gag/az2OBxB)
+ - 💣 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)
+ - ⏩ [Home chemistry set...](http://9gag.com/gag/avQx9mE)
  - 👉 [Literally me](http://9gag.com/gag/aQEmVL8)<!-- MEMES:END -->
 
 ---
