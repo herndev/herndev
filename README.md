@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the Light Dragon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728759/light-dragon-path-location-farming)
- - [How to get the Master Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717523/master-sword-location-how-to-get)
- - [Sony boss says we&#39;re gonna be waiting &#39;two or three years&#39; before PlayStation games hit PC](https://www.pcgamer.com/sony-boss-says-were-gonna-be-waiting-two-or-three-years-before-playstation-games-hit-pc)<!-- GAME:END -->
+ - [Entire GameStop Store Quits On Zelda: Tears Of The Kingdom Release Day](https://kotaku.com/zelda-tears-of-the-kingdom-launch-gamestop-gme-quit-1850454969)
+ - [Tears of the Kingdom: What&#39;s Worth Doing On The Way To Kakariko Village](https://kotaku.com/tears-of-the-kingdom-kakariko-village-how-to-find-map-1850454875)
+ - [The Sonic the Hedgehog symphony is going on a world tour](https://www.polygon.com/23729913/sega-sonic-symphony-world-tour-2023-2024-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
