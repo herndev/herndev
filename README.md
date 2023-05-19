@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How out of touch can you be?...](http://9gag.com/gag/aXn7RRD)
- - ⏩ [Comodo: ... you wanna die?](http://9gag.com/gag/a5Xzyog)
- - 👉 [Bro still trying to figure out what happened](http://9gag.com/gag/aA0MZ6L)<!-- MEMES:END -->
+ - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - ⏩ [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 👉 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 ---
 
