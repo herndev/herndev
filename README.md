@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Take-Two CEO says AI-created hit games are a fantasy: &#39;Genius is the domain of human beings and I believe will stay that way&#39;](https://www.pcgamer.com/take-two-ceo-says-ai-created-hit-games-are-a-fantasy-genius-is-the-domain-of-human-beings-and-i-believe-will-stay-that-way)
  - [Two all-time greats are coming to Switch Online’s GBA collection](https://www.polygon.com/2023/5/19/23729634/switch-online-may-2023-gba-super-mario-advance)
- - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)
- - [You&#39;ll be able to finish post-apocalyptic CRPG Broken Roads as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)<!-- GAME:END -->
+ - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
