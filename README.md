@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Fold could be a rebranded version of OPPO’s next foldable &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-fold-leak-3325791/)
- - [Google to pay millions again to settle location tracking lawsuit](https://www.androidauthority.com/google-location-tracking-lawsuit-washington-3326807/)
- - [Govee AI Gaming Sync Box Review: Smarter Lighting for Your Desktop](https://www.wired.com/review/govee-ai-gaming-sync-box/)<!-- TECH:END -->
+ - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)
+ - [Does the Oura Ring track sleep?](https://www.androidauthority.com/oura-ring-sleep-tracking-3326399/)
+ - [The best mystery podcasts to listen to in 2023](https://www.androidauthority.com/best-mystery-podcasts-3326489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
