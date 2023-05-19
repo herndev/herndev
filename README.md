@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doom music starts](http://9gag.com/gag/a8qend6)
+ - 💣 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)
  - ⏩ [Girl voice actor pranks Indian scammers](http://9gag.com/gag/a9qmD0K)
- - 👉 [She knew exactly where that was going.](http://9gag.com/gag/aA0Mm2E)<!-- MEMES:END -->
+ - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
 
 ---
 
