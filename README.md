@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to invest up to &amp;pound;1B over the next decade in its semiconductor industry; the US had pledged $52B and the EU &amp;euro;43B for their respective chip sectors &lpar;The Guardian&rpar;](http://www.techmeme.com/230518/p34#a230518p34)
- - [Austin-based brain-computer interface company Paradromics raised a $33M Series A and says it achieved an FDA designation that offers an expedited review process &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230518/p33#a230518p33)
- - [A group of five TikTok creators sue to overturn Montana&#39;s law that is set to ban the app starting January 1, 2024, citing the First Amendment and more &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p32#a230518p32)<!-- TECH:END -->
+ - [Get 20% off OWC Atlas memory cards &amp; card readers with promo code](https://appleinsider.com/articles/23/05/19/get-20-off-owc-atlas-memory-cards-card-readers-with-promo-code?utm_medium=rss)
+ - [Apple bans internal use of ChatGPT-like tech over fear of leaks, according to leaked document](https://appleinsider.com/articles/23/05/19/apple-bans-internal-use-of-chatgpt-like-tech-over-fear-of-leaks-according-to-leaked-document?utm_medium=rss)
+ - [A look at SCOTUS&#39; rulings on Gonzalez v. Google and Twitter v. Taamneh and why explanations given for Section 230&#39;s existence could bode well for the Internet &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230518/p36#a230518p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
