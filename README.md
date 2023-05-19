@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Literally me](http://9gag.com/gag/aQEmVL8)
- - ⏩ [Automatic water gun](http://9gag.com/gag/aPgezPV)
- - 👉 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
+ - 💣 [In modern times, we will use duck tape](http://9gag.com/gag/a6qB4q2)
+ - ⏩ [Blacks rob a pregnant white lady, race grifting leftists post video out of context and get her fired. Mob harasses her... find out it was her bike the entire time.](http://9gag.com/gag/a9qmNPm)
+ - 👉 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 ---
 
