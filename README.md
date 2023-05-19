@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Tomb Raider and Final Fantasy, PowerWash Simulator&#39;s gonna hose down SpongeBob Squarepants](https://www.pcgamer.com/after-tomb-raider-and-final-fantasy-powerwash-simulators-gonna-hose-down-spongebob-squarepants)
- - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)
- - [I can&#39;t get enough of this railroad sim&#39;s cute and cosy vibes](https://www.pcgamer.com/i-cant-get-enough-of-this-railroad-sims-cute-and-cosy-vibes)<!-- GAME:END -->
+ - [All the Fast X: Part 2 news we’ve heard so far](https://www.polygon.com/23728985/fast-x-part-2-release-date-cast-news-11-hobbs)
+ - [Best gaming laptops in 2023: Portable powerhouses](https://www.pcgamer.com/best-gaming-laptop)
+ - [What to remember about the Fast and Furious movies before watching Fast X](https://www.polygon.com/23727622/fast-and-furious-movies-reminders-before-fast-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
