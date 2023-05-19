@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best TV Deals of 2023: Save Hundreds On TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Elon Musk’s lawyer accuses Microsoft of abusing its access to Twitter data](https://www.theverge.com/2023/5/18/23729216/twitter-microsoft-api-data-sharing-elon-musk-satya-nadella)
- - [Hyundai and Kia agree to $200 million settlement over TikTok car theft challenge](https://www.theverge.com/2023/5/18/23729229/hyundai-kia-settlement-car-theft-challenge-tiktok)
- - [Twitter Blue subscribers can now upload videos up to two hours long, up from the previous 60-minute limit, and with a file size limit of 8GB, up from 2GB &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230518/p30#a230518p30)<!-- TECH:END -->
+ - [Hyundai and Kia agree to $200 million settlement over TikTok car theft challenge](https://www.theverge.com/2023/5/18/23729229/hyundai-kia-settlement-car-theft-challenge-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
