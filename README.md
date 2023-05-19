@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Entire GameStop Store Quits On Zelda: Tears Of The Kingdom Release Day](https://kotaku.com/zelda-tears-of-the-kingdom-launch-gamestop-gme-quit-1850454969)
- - [Tears of the Kingdom: What&#39;s Worth Doing On The Way To Kakariko Village](https://kotaku.com/tears-of-the-kingdom-kakariko-village-how-to-find-map-1850454875)
- - [The Sonic the Hedgehog symphony is going on a world tour](https://www.polygon.com/23729913/sega-sonic-symphony-world-tour-2023-2024-dates)<!-- GAME:END -->
+ - [Rasitakiwak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730069/rasitakiwak-shrine-solution-puzzles-chest)
+ - [Official PlayStation Podcast Episode 458: Access Granted](https://blog.playstation.com/2023/05/19/official-playstation-podcast-episode-458-access-granted/)
+ - [Official PlayStation Podcast Episode 458: Access Granted](https://blog.playstation.com/2023/05/19/official-playstation-podcast-episode-458-access-granted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
