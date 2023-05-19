@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Longtime Andreessen Horowitz VC Jeff Jordan is stepping back from active investments but will continue to work with his existing portfolio and board positions &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230519/p10#a230519p10)
- - [Daily Deals: $1,300 off MacBook Pro, $200 off Mac mini, Samsung Frame TVs from $330, more](https://appleinsider.com/articles/23/05/19/daily-deals-1300-off-macbook-pro-200-off-mac-mini-samsung-frame-tvs-from-330-more?utm_medium=rss)
- - [Source: Instacart had ad revenue of about $740M in 2022, up 30% from 2021; nearly 30% of Instacart&#39;s 2022 revenue came from selling ads &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230519/p9#a230519p9)<!-- TECH:END -->
+ - [Samsung abandons plans to switch default search engine to Microsoft&#39;s Bing](https://appleinsider.com/articles/23/05/19/samsung-abandons-plans-to-switch-default-search-engine-to-microsofts-bing?utm_medium=rss)
+ - [Inside Apple Tysons Corner&#39;s new retail store: Updated look, with nods to the past](https://appleinsider.com/articles/23/05/19/inside-apple-tysons-corners-new-retail-store-updated-look-with-nods-to-the-past?utm_medium=rss)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
