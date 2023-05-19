@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)
- - ⏩ [How out of touch can you be?...](http://9gag.com/gag/aXn7RRD)
+ - 💣 [How out of touch can you be?...](http://9gag.com/gag/aXn7RRD)
+ - ⏩ [Comodo: ... you wanna die?](http://9gag.com/gag/a5Xzyog)
  - 👉 [Bro still trying to figure out what happened](http://9gag.com/gag/aA0MZ6L)<!-- MEMES:END -->
 
 ---
