@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best TV Deals of 2023: Save Hundreds On TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Elon Musk’s lawyer accuses Microsoft of abusing its access to Twitter data](https://www.theverge.com/2023/5/18/23729216/twitter-microsoft-api-data-sharing-elon-musk-satya-nadella)
- - [Hyundai and Kia agree to $200 million settlement over TikTok car theft challenge](https://www.theverge.com/2023/5/18/23729229/hyundai-kia-settlement-car-theft-challenge-tiktok)<!-- TECH:END -->
+ - [The UK plans to invest up to &amp;pound;1B over the next decade in its semiconductor industry; the US had pledged $52B and the EU &amp;euro;43B for their respective chip sectors &lpar;The Guardian&rpar;](http://www.techmeme.com/230518/p34#a230518p34)
+ - [Austin-based brain-computer interface company Paradromics raised a $33M Series A and says it achieved an FDA designation that offers an expedited review process &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230518/p33#a230518p33)
+ - [A group of five TikTok creators sue to overturn Montana&#39;s law that is set to ban the app starting January 1, 2024, citing the First Amendment and more &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p32#a230518p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
