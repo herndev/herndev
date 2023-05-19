@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: media agency GroupM tells clients it no longer considers Twitter &quot;high risk&quot;, a designation given in November, days after Linda Yaccarino&#39;s appointment &lpar;Financial Times&rpar;](http://www.techmeme.com/230519/p5#a230519p5)
- - [Timekettle Fluentalk T1 Translator Device review: Works well, but you already own an iPhone](https://appleinsider.com/articles/23/05/19/timekettle-fluentalk-t1-translator-device-review-works-well-but-you-already-own-an-iphone?utm_medium=rss)
- - [Twitter’s biggest ad buyer no longer considers it ‘high risk,’ says report](https://www.theverge.com/2023/5/19/23729676/twitter-ads-groupm-high-risk-advertising-elon-musk-linda-yaccarinoc)<!-- TECH:END -->
+ - [The best chargers to fast charge your Pixel Fold](https://www.androidauthority.com/best-google-pixel-fold-chargers-3322860/)
+ - [Apple’s Prehistoric Planet 2 is full of feathery and ferocious new faces](https://www.theverge.com/23728352/prehistoric-planet-2-review-apple-tv-plus)
+ - [The Senate’s hearing on AI regulation was dangerously friendly](https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
