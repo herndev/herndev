@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Following reports of chips burning out, Gigabyte says its AMD Socket AM5 SoC voltage levels are safe](https://www.pcgamer.com/following-reports-of-chips-burning-out-gigabyte-says-its-amd-socket-am5-soc-voltage-levels-are-safe)
  - [Age Of Wonders 4, A New Fantasy 4X Game, Is Great](https://kotaku.com/age-of-wonders-4-paradox-4x-civ-aow-pc-strategy-steam-1850444105)
- - [Lords of the Fallen releases in October and new footage is unashamedly Soulslike](https://www.pcgamer.com/lords-of-the-fallen-releases-in-october-and-new-footage-is-unashamedly-soulslike)
- - [Prequel To Cult Japanese RPG Is Doing Very Nicely On Kickstarter](https://kotaku.com/jrpg-japanese-rpg-survival-sim-pc-roguelike-kickstarter-1850452378)<!-- GAME:END -->
+ - [Lords of the Fallen releases in October and new footage is unashamedly Soulslike](https://www.pcgamer.com/lords-of-the-fallen-releases-in-october-and-new-footage-is-unashamedly-soulslike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
