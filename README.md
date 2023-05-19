@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)
- - ⏩ [Cuterebra Larvae removed by veterinarian](http://9gag.com/gag/aoKxYj3)
- - 👉 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
+ - 💣 [Doom music starts](http://9gag.com/gag/a8qend6)
+ - ⏩ [Girl voice actor pranks Indian scammers](http://9gag.com/gag/a9qmD0K)
+ - 👉 [She knew exactly where that was going.](http://9gag.com/gag/aA0Mm2E)<!-- MEMES:END -->
 
 ---
 
