@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prequel To Cult Japanese RPG Is Doing Very Nicely On Kickstarter](https://kotaku.com/jrpg-japanese-rpg-survival-sim-pc-roguelike-kickstarter-1850452378)
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [Metro: Last Light, one of my favorite shooters ever, is free on Steam](https://www.pcgamer.com/metro-last-light-one-of-my-favorite-shooters-ever-is-free-on-steam)<!-- GAME:END -->
+ - [Age Of Wonders 4, A New Fantasy 4X Game, Is Great](https://kotaku.com/age-of-wonders-4-paradox-4x-civ-aow-pc-strategy-steam-1850444105)
+ - [Lords of the Fallen releases in October and new footage is unashamedly Soulslike](https://www.pcgamer.com/lords-of-the-fallen-releases-in-october-and-new-footage-is-unashamedly-soulslike)
+ - [Prequel To Cult Japanese RPG Is Doing Very Nicely On Kickstarter](https://kotaku.com/jrpg-japanese-rpg-survival-sim-pc-roguelike-kickstarter-1850452378)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
