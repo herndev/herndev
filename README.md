@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best chargers to fast charge your Pixel Fold](https://www.androidauthority.com/best-google-pixel-fold-chargers-3322860/)
- - [Apple’s Prehistoric Planet 2 is full of feathery and ferocious new faces](https://www.theverge.com/23728352/prehistoric-planet-2-review-apple-tv-plus)
- - [The Senate’s hearing on AI regulation was dangerously friendly](https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws)<!-- TECH:END -->
+ - [Longtime Andreessen Horowitz VC Jeff Jordan is stepping back from active investments but will continue to work with his existing portfolio and board positions &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230519/p10#a230519p10)
+ - [Daily Deals: $1,300 off MacBook Pro, $200 off Mac mini, Samsung Frame TVs from $330, more](https://appleinsider.com/articles/23/05/19/daily-deals-1300-off-macbook-pro-200-off-mac-mini-samsung-frame-tvs-from-330-more?utm_medium=rss)
+ - [Source: Instacart had ad revenue of about $740M in 2022, up 30% from 2021; nearly 30% of Instacart&#39;s 2022 revenue came from selling ads &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230519/p9#a230519p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
