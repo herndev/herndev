@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alienware 34 AW3423DWF](https://www.pcgamer.com/alienware-34-aw3423dwf)
- - [Pico 4 VR headset](https://www.pcgamer.com/pico-4-ve-headset-review)
- - [The &#39;world&#39;s smallest&#39; external GPU would make for a super portable laptop power-up alongside a pair of generous cargo shorts](https://www.pcgamer.com/the-worlds-smallest-external-gpu-would-make-for-a-super-portable-gaming-power-up-alongside-a-pair-of-generous-cargo-shorts)<!-- GAME:END -->
+ - [After Tomb Raider and Final Fantasy, PowerWash Simulator&#39;s gonna hose down SpongeBob Squarepants](https://www.pcgamer.com/after-tomb-raider-and-final-fantasy-powerwash-simulators-gonna-hose-down-spongebob-squarepants)
+ - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)
+ - [I can&#39;t get enough of this railroad sim&#39;s cute and cosy vibes](https://www.pcgamer.com/i-cant-get-enough-of-this-railroad-sims-cute-and-cosy-vibes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
