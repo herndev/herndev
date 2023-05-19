@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honkai: Star Rail – How to find almost any material](https://www.androidauthority.com/honkai-star-rail-find-materials-3324488/)
- - [The App Store had 1,783,232 apps as of 2022](https://www.theverge.com/2023/5/19/23730302/apple-app-store-transparency-report-2022)
- - [Watch &#39;Dungeons &amp; Dragons: Honor Among Thieves&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-dungeons-dragons-honor-among-thieves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honkai: Star Rail – Character Ascension and how it works](https://www.androidauthority.com/honkai-star-rail-character-ascension-3324487/)
+ - [Sorry Bing, Samsung’s sticking with Google as its default mobile search engine](https://www.theverge.com/2023/5/19/23730368/samsung-google-bing-default-mobile-search-engine)
+ - [Disney will remove over 50 shows from Disney Plus and Hulu this month](https://www.theverge.com/2023/5/19/23729642/disney-plus-hulu-remove-pull-shows-willow-streaming-bob-iger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
