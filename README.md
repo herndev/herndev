@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)
- - ⏩ [Cuterebra Larvae removed by veterinarian](http://9gag.com/gag/aoKxYj3)
- - 👉 [Auto lock on](http://9gag.com/gag/a8qeK0Y)<!-- MEMES:END -->
+ - 💣 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - 👉 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
 
 ---
 
