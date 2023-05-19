@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta briefed some creators on Instagram&#39;s decentralized text-based app that may launch in June 2023 with a Twitter-like design, Mastodon compatibility, and more &lpar;Lia Haberman/ICYMI&rpar;](http://www.techmeme.com/230519/p13#a230519p13)
- - [Restaurant365, which builds software for restaurant accounting, analytics, and more, raised $135M led by KKR and L Catterton, taking its total funding to $288M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230519/p12#a230519p12)
- - [Meta Quest will now let you customize your home virtual world](https://www.theverge.com/2023/5/19/23729739/meta-quest-update-version-54-custom-skybox-2d-notifications)<!-- TECH:END -->
+ - [The Australian Securities Exchange will no longer attempt to rebuild its software using blockchain, after &quot;pausing&quot; seven years of development in November 2022 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230519/p14#a230519p14)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
+ - [Boston Isn’t Afraid of Generative AI](https://www.wired.com/story/boston-generative-ai-policy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
