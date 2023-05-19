@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)
- - ⏩ [Girl voice actor pranks Indian scammers](http://9gag.com/gag/a9qmD0K)
- - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
+ - 💣 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)
+ - ⏩ [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)
+ - 👉 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
 
 ---
 
