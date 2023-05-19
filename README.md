@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
- - ⏩ [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 👉 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 💣 [Literally me](http://9gag.com/gag/aQEmVL8)
+ - ⏩ [Automatic water gun](http://9gag.com/gag/aPgezPV)
+ - 👉 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
 
 ---
 
