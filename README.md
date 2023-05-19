@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Post-apocalyptic CRPG Broken Roads can be finished as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)
- - [Linus Is Stepping Down As CEO Of Linus Media Group](https://kotaku.com/linus-tech-tips-youtube-retire-step-down-quit-ceo-pc-1850452995)
- - [Today&#39;s Wordle hint and answer #699: Friday, May 19](https://www.pcgamer.com/wordle-today-hint-answer-699-may-19)<!-- GAME:END -->
+ - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)
+ - [You&#39;ll be able to finish post-apocalyptic CRPG Broken Roads as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)
+ - [Linus Is Stepping Down As CEO Of Linus Media Group](https://kotaku.com/linus-tech-tips-youtube-retire-step-down-quit-ceo-pc-1850452995)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
