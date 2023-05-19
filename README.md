@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)
- - ⏩ [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)
- - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
+ - 💣 [Mihailo Toloto died Without ever seeing a woman in the 82 years of his life](http://9gag.com/gag/aeQxdEW)
+ - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
+ - 👉 [I&#39;m from Poland](http://9gag.com/gag/aA0MXjp)<!-- MEMES:END -->
 
 ---
 
