@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Mayak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730404/mayak-shrine-solution-puzzle-chest)
- - [White Men Can’t Jump, but they sure can be in unfortunate remakes](https://www.polygon.com/reviews/23728707/white-men-cant-jump-remake-review-hulu)<!-- GAME:END -->
+ - [GTA Publisher’s Boss Not Seeing Any ‘Pushback’ On $70 Games](https://kotaku.com/take-two-ceo-no-pushback-70-price-sega-zelda-gta-vi-2k-1850456925)
+ - [What does 100% shrine completion get you in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23718900/shrine-explorer-side-quest-100-percent-completion-reward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
