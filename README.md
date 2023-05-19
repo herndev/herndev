@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT gets first official app on iOS, Android app not far behind](https://www.androidauthority.com/chatgpt-ios-android-app-3326767/)
  - [No one can agree on what the Apple VR Headset will cost to make](https://appleinsider.com/articles/23/05/19/no-one-can-agree-on-what-the-apple-vr-headset-will-cost-to-make?utm_medium=rss)
- - [Sources and docs: Midwest nonprofit Veritas Society used geofenced data to serve abortion clinic visitors anti-abortion ads on Facebook, Instagram, and Snapchat &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p40#a230518p40)
- - [New York City Public Schools lifts its ban on ChatGPT and other generative AI models, and will now support educators and students to learn about and explore AI &lpar;David C. Banks/Chalkbeat New York&rpar;](http://www.techmeme.com/230518/p39#a230518p39)<!-- TECH:END -->
+ - [Sources and docs: Midwest nonprofit Veritas Society used geofenced data to serve abortion clinic visitors anti-abortion ads on Facebook, Instagram, and Snapchat &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p40#a230518p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
