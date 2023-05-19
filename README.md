@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)
- - [Anedamimik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729987/anedamimik-shrine-solution-a-retraced-path-puzzle-chest)
- - [The 14 Weirdest And Strangest Star Wars Names](https://kotaku.com/the-14-weirdest-and-strangest-star-wars-names-1850455711)<!-- GAME:END -->
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
+ - [Nintendo Says Breath Of The Wild Is The Legend of Zelda’s Blueprint Moving Forward](https://kotaku.com/zelda-open-world-botw-switch-tears-of-the-kingdom-totk-1850456484)
+ - [Maoikes Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730038/maoikes-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
