@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honkai: Star Rail – Character Ascension and how it works](https://www.androidauthority.com/honkai-star-rail-character-ascension-3324487/)
- - [Sorry Bing, Samsung’s sticking with Google as its default mobile search engine](https://www.theverge.com/2023/5/19/23730368/samsung-google-bing-default-mobile-search-engine)
- - [Disney will remove over 50 shows from Disney Plus and Hulu this month](https://www.theverge.com/2023/5/19/23729642/disney-plus-hulu-remove-pull-shows-willow-streaming-bob-iger)<!-- TECH:END -->
+ - [The 13 Best Weed Accessories and Gadgets     - CNET](https://www.cnet.com/culture/best-weed-accessories/#ftag=CAD590a51e)
+ - [How Close Is Your Smartwatch to an Actual Sleep Test?     - CNET](https://www.cnet.com/health/medical/how-close-is-your-smartwatch-to-an-actual-sleep-test/#ftag=CAD590a51e)
+ - [Honkai: Star Rail – Character Ascension and how it works](https://www.androidauthority.com/honkai-star-rail-character-ascension-3324487/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
