@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Freitag Hazzard review: Expensive recycled bag, flaws and all](https://appleinsider.com/articles/23/05/19/freitag-hazzard-review-expensive-recycled-bag-flaws-and-all?utm_medium=rss)
- - [Canon could be the next camera company to team up with a smartphone brand](https://www.androidauthority.com/canon-camera-smartphone-partnership-3326839/)
- - [Restaurant chefs are increasingly designing food that plays well on video for influencers on TikTok, Instagram Reels, and YouTube &lpar;Ezra Marcus/Grub Street&rpar;](http://www.techmeme.com/230519/p2#a230519p2)<!-- TECH:END -->
+ - [Sources: media agency GroupM tells clients it no longer considers Twitter &quot;high risk&quot;, a designation given in November, days after Linda Yaccarino&#39;s appointment &lpar;Financial Times&rpar;](http://www.techmeme.com/230519/p5#a230519p5)
+ - [Timekettle Fluentalk T1 Translator Device review: Works well, but you already own an iPhone](https://appleinsider.com/articles/23/05/19/timekettle-fluentalk-t1-translator-device-review-works-well-but-you-already-own-an-iphone?utm_medium=rss)
+ - [Twitter’s biggest ad buyer no longer considers it ‘high risk,’ says report](https://www.theverge.com/2023/5/19/23729676/twitter-ads-groupm-high-risk-advertising-elon-musk-linda-yaccarinoc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
