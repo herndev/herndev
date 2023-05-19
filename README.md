@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mihailo Toloto died Without ever seeing a woman in the 82 years of his life](http://9gag.com/gag/aeQxdEW)
- - ⏩ [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
- - 👉 [I&#39;m from Poland](http://9gag.com/gag/aA0MXjp)<!-- MEMES:END -->
+ - 💣 [This is how fast guys become friends. Should we? Yes!](http://9gag.com/gag/az2OZxx)
+ - ⏩ [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 👉 [Auto lock on](http://9gag.com/gag/a8qeK0Y)<!-- MEMES:END -->
 
 ---
 
