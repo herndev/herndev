@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo Global and Fortress Investment are each spending ~$50M to back competing groups that aim to restart Celsius under new management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230519/p17#a230519p17)
- - [Coinbase One subscriptions launch as the crypto company squares off with the SEC](https://www.theverge.com/2023/5/19/23729848/coinbase-one-subscription-sec-crypto)
- - [Apple sweeps prestigious award show with &#39;The Greatest&#39; ad &amp; other content](https://appleinsider.com/articles/23/05/19/apple-sweeps-prestigious-award-show-with-the-greatest-ad-other-content?utm_medium=rss)<!-- TECH:END -->
+ - [Honkai: Star Rail – How to find almost any material](https://www.androidauthority.com/honkai-star-rail-find-materials-3324488/)
+ - [The App Store had 1,783,232 apps as of 2022](https://www.theverge.com/2023/5/19/23730302/apple-app-store-transparency-report-2022)
+ - [Watch &#39;Dungeons &amp; Dragons: Honor Among Thieves&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-dungeons-dragons-honor-among-thieves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
