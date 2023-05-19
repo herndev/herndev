@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two all-time greats are coming to Switch Online’s GBA collection](https://www.polygon.com/2023/5/19/23729634/switch-online-may-2023-gba-super-mario-advance)
  - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)
- - [You&#39;ll be able to finish post-apocalyptic CRPG Broken Roads as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)
- - [Linus Is Stepping Down As CEO Of Linus Media Group](https://kotaku.com/linus-tech-tips-youtube-retire-step-down-quit-ceo-pc-1850452995)<!-- GAME:END -->
+ - [You&#39;ll be able to finish post-apocalyptic CRPG Broken Roads as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
