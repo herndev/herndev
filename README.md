@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rasitakiwak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730069/rasitakiwak-shrine-solution-puzzles-chest)
- - [Official PlayStation Podcast Episode 458: Access Granted](https://blog.playstation.com/2023/05/19/official-playstation-podcast-episode-458-access-granted/)
- - [Official PlayStation Podcast Episode 458: Access Granted](https://blog.playstation.com/2023/05/19/official-playstation-podcast-episode-458-access-granted/)<!-- GAME:END -->
+ - [Kyokugon Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730180/kyokugon-shrine-solution-alignment-of-circles)
+ - [New Dead by Daylight games are on the way, including one by Supermassive](https://www.polygon.com/23730199/dead-by-daylight-new-games-supermassive)
+ - [And now it&#39;s official: Nicolas Cage will play Nicolas Cage starring as Nicolas Cage in Dead by Daylight later this year](https://www.pcgamer.com/and-now-its-official-nicolas-cage-will-play-nicolas-cage-starring-as-nicolas-cage-in-dead-by-daylight-later-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
