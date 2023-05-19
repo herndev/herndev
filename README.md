@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney to remove Willow, Y: The Last Man, and original movies from Disney Plus and Hulu to save cash](https://www.polygon.com/23729816/disney-plus-remove-willow-movies-hulu-y-last-man)
- - [You can buy the chrome gold Lamborghini Gallardo from Fast X](https://www.polygon.com/deals/23727365/fast-furious-x-cars-toys-replica-die-cast)
- - [Makasura Shrine ‘An Upright Device’ puzzle solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706940/makasura-shrine-puzzle-solution-chest)<!-- GAME:END -->
+ - [How to find the Light Dragon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728759/light-dragon-path-location-farming)
+ - [How to get the Master Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717523/master-sword-location-how-to-get)
+ - [Sony boss says we&#39;re gonna be waiting &#39;two or three years&#39; before PlayStation games hit PC](https://www.pcgamer.com/sony-boss-says-were-gonna-be-waiting-two-or-three-years-before-playstation-games-hit-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
