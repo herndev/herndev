@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)
- - ⏩ [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 👉 [Literally me](http://9gag.com/gag/aQEmVL8)<!-- MEMES:END -->
+ - 💣 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - ⏩ [That is irrelevant!](http://9gag.com/gag/aqexpVL)
+ - 👉 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
 
 ---
 
