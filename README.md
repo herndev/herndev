@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - ⏩ [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 💣 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)
+ - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
  - 👉 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 ---
