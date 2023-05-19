@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)
- - [Does the Oura Ring track sleep?](https://www.androidauthority.com/oura-ring-sleep-tracking-3326399/)<!-- TECH:END -->
+ - [Freitag Hazzard review: Expensive recycled bag, flaws and all](https://appleinsider.com/articles/23/05/19/freitag-hazzard-review-expensive-recycled-bag-flaws-and-all?utm_medium=rss)
+ - [Canon could be the next camera company to team up with a smartphone brand](https://www.androidauthority.com/canon-camera-smartphone-partnership-3326839/)
+ - [Restaurant chefs are increasingly designing food that plays well on video for influencers on TikTok, Instagram Reels, and YouTube &lpar;Ezra Marcus/Grub Street&rpar;](http://www.techmeme.com/230519/p2#a230519p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
