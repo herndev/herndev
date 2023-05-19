@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares its first App Store Transparency Report with data on app rejections, government requests, more, as part of a settlement in a 2021 developer lawsuit &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230519/p15#a230519p15)
- - [Apple shares App Store Transparency report, detailing removals &amp; data requests](https://appleinsider.com/articles/23/05/19/apple-shares-app-store-transparency-report-detailing-removals-data-requests?utm_medium=rss)
- - [Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola Razr 40 Ultra might get different name in US, very fancy cover display](https://www.androidauthority.com/motorola-razr-plus-2023-3327096/)
+ - [YouTube TV confirms fix is coming after NBA playoffs were disrupted by freezing](https://www.androidauthority.com/youtube-tv-freezing-issues-nba-3327084/)
+ - [NASA picks Blue Origin to make a second human-crewed lunar lander](https://www.theverge.com/2023/5/19/23729996/nasa-blue-origin-moon-second-human-crewed-lunar-lander-artemis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
