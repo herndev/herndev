@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City Public Schools lifts its ban on ChatGPT and other generative AI models, and will now support educators and students to learn about and explore AI &lpar;David C. Banks/Chalkbeat New York&rpar;](http://www.techmeme.com/230518/p39#a230518p39)
- - [Sources: ESPN is laying the groundwork to offer its TV channel as a subscription streaming service by securing flexibility in league and cable provider deals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p38#a230518p38)
- - [Sources: Apple restricts internal use of ChatGPT, GitHub Copilot, and other external AI tools due to concerns over potential leaks of confidential data &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p37#a230518p37)<!-- TECH:END -->
+ - [No one can agree on what the Apple VR Headset will cost to make](https://appleinsider.com/articles/23/05/19/no-one-can-agree-on-what-the-apple-vr-headset-will-cost-to-make?utm_medium=rss)
+ - [Sources and docs: Midwest nonprofit Veritas Society used geofenced data to serve abortion clinic visitors anti-abortion ads on Facebook, Instagram, and Snapchat &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p40#a230518p40)
+ - [New York City Public Schools lifts its ban on ChatGPT and other generative AI models, and will now support educators and students to learn about and explore AI &lpar;David C. Banks/Chalkbeat New York&rpar;](http://www.techmeme.com/230518/p39#a230518p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
