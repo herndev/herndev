@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was it the heart?](http://9gag.com/gag/anzxVoE)
- - ⏩ [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - 👉 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
+ - 💣 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)
+ - ⏩ [How out of touch can you be?...](http://9gag.com/gag/aXn7RRD)
+ - 👉 [Bro still trying to figure out what happened](http://9gag.com/gag/aA0MZ6L)<!-- MEMES:END -->
 
 ---
 
