@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO says AI-created hit games are a fantasy: &#39;Genius is the domain of human beings and I believe will stay that way&#39;](https://www.pcgamer.com/take-two-ceo-says-ai-created-hit-games-are-a-fantasy-genius-is-the-domain-of-human-beings-and-i-believe-will-stay-that-way)
- - [Two all-time greats are coming to Switch Online’s GBA collection](https://www.polygon.com/2023/5/19/23729634/switch-online-may-2023-gba-super-mario-advance)
- - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)<!-- GAME:END -->
+ - [Alienware 34 AW3423DWF](https://www.pcgamer.com/alienware-34-aw3423dwf)
+ - [Pico 4 VR headset](https://www.pcgamer.com/pico-4-ve-headset-review)
+ - [The &#39;world&#39;s smallest&#39; external GPU would make for a super portable laptop power-up alongside a pair of generous cargo shorts](https://www.pcgamer.com/the-worlds-smallest-external-gpu-would-make-for-a-super-portable-gaming-power-up-alongside-a-pair-of-generous-cargo-shorts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
