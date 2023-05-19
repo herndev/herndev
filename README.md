@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Razr 40 Ultra might get different name in US, very fancy cover display](https://www.androidauthority.com/motorola-razr-plus-2023-3327096/)
- - [YouTube TV confirms fix is coming after NBA playoffs were disrupted by freezing](https://www.androidauthority.com/youtube-tv-freezing-issues-nba-3327084/)
- - [NASA picks Blue Origin to make a second human-crewed lunar lander](https://www.theverge.com/2023/5/19/23729996/nasa-blue-origin-moon-second-human-crewed-lunar-lander-artemis)<!-- TECH:END -->
+ - [Sources: Apollo Global and Fortress Investment are each spending ~$50M to back competing groups that aim to restart Celsius under new management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230519/p17#a230519p17)
+ - [Coinbase One subscriptions launch as the crypto company squares off with the SEC](https://www.theverge.com/2023/5/19/23729848/coinbase-one-subscription-sec-crypto)
+ - [Apple sweeps prestigious award show with &#39;The Greatest&#39; ad &amp; other content](https://appleinsider.com/articles/23/05/19/apple-sweeps-prestigious-award-show-with-the-greatest-ad-other-content?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
