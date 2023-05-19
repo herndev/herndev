@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-- Good old Winston Churchill](http://9gag.com/gag/a5Xzj6V)
- - ⏩ [One of each](http://9gag.com/gag/aA0MZGd)
- - 👉 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
+ - 💣 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)
+ - ⏩ [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)
+ - 👉 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)<!-- MEMES:END -->
 
 ---
 
