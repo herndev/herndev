@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Nintendo Says Breath Of The Wild Is The Legend of Zelda’s Blueprint Moving Forward](https://kotaku.com/zelda-open-world-botw-switch-tears-of-the-kingdom-totk-1850456484)
- - [Maoikes Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730038/maoikes-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Mayak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730404/mayak-shrine-solution-puzzle-chest)
+ - [White Men Can’t Jump, but they sure can be in unfortunate remakes](https://www.polygon.com/reviews/23728707/white-men-cant-jump-remake-review-hulu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
