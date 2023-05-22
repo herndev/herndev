@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
- - ⏩ [I love happy endings!](http://9gag.com/gag/aREvdE5)
- - 👉 [Don&#39;t be jealous](http://9gag.com/gag/abvxNjO)<!-- MEMES:END -->
+ - 💣 [Based chick](http://9gag.com/gag/anzxPqV)
+ - ⏩ [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 👉 [Odd hunting trip](http://9gag.com/gag/amAxwWd)<!-- MEMES:END -->
 
 ---
 
