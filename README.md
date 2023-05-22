@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gene Therapy in the Womb Is Inching Closer to Reality](https://www.wired.com/story/gene-therapy-in-the-womb-is-inching-closer-to-reality/)
- - [Apple denies having illegally disciplined unionization supporters](https://appleinsider.com/articles/23/05/22/apple-denies-having-illegally-disciplined-unionization-supporters?utm_medium=rss)
- - [Meta unveils open-source AI models it says can identify 4,000+ spoken languages and produce speech for 1,000+ languages, an increase of 40x and 10x respectively &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230522/p22#a230522p22)<!-- TECH:END -->
+ - [The M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today](https://www.theverge.com/2023/5/22/23733200/apple-16-inch-macbook-pro-m1-pro-laptop-deal-sale)
+ - [OpenAI CEO Sam Altman, President Greg Brockman, and Chief Scientist Ilya Sutskever say we&#39;ll likely need an international regulatory body for superintelligence &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230522/p23#a230522p23)
+ - [Leaked EU Document Shows Spain Wants to Ban End-to-End Encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
