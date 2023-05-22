@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bless the dogs](http://9gag.com/gag/aREvbKy)
- - ⏩ [Another day in Russia](http://9gag.com/gag/a6qB6Q9)
+ - 💣 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - ⏩ [What happened ?](http://9gag.com/gag/a5XzYKO)
  - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
