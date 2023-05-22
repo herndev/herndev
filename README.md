@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Kindle Scribe is getting limited handwriting-to-text conversion](https://www.theverge.com/2023/5/22/23729817/amazon-kindle-scribe-kobo-elipsa-2e-e-reader-stylus-digital-notebook)
- - [Mimestream is the Mac app every Gmail user needs](https://www.theverge.com/23728602/mimestream-gmail-app-mac-review)
- - [Ford teases next-generation EV that will help it close the gap with Tesla](https://www.theverge.com/2023/5/22/23732762/ford-second-generation-ev-three-row-suv-350-miles-range)<!-- TECH:END -->
+ - [WhatsApp adds iMessage-like editing with a 15 minute window](https://appleinsider.com/articles/23/05/22/whatsapp-adds-imessage-like-editing-with-a-15-minute-window?utm_medium=rss)
+ - [Amazon’s palm-scanning technology can let you buy a drink without getting out your ID](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
+ - [Biden nominates veteran government lawyer Anna Gomez as FCC Commissioner, and nominates Democrat Geoffrey Starks and Republican Brendan Carr for new FCC terms &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230522/p19#a230522p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
