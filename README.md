@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts expect a Q2 sales decline at seven out of the nine top chip equipment makers, including Applied Materials and Lam Research, amid a memory demand slump &lpar;Kentaro Tsutsumi/Nikkei Asia&rpar;](http://www.techmeme.com/230522/p1#a230522p1)
  - [A researcher says crypto mixer Tornado Cash was taken over by hackers on Saturday through a malicious governance proposal that gave them a majority of votes &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230521/p10#a230521p10)
- - [A rise in memecoins and NFTs on the Bitcoin blockchain, thanks to the Ordinals protocol, has spurred record transactions and an ensuing fee windfall for miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/230521/p9#a230521p9)
- - [Instagram was down, but now it’s working again](https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading)<!-- TECH:END -->
+ - [A rise in memecoins and NFTs on the Bitcoin blockchain, thanks to the Ordinals protocol, has spurred record transactions and an ensuing fee windfall for miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/230521/p9#a230521p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
