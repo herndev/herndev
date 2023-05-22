@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some educators are cautiously experimenting with generative AI, questioning whether the tech can be used in classrooms without undermining numeracy and literacy &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p12#a230522p12)
- - [A Twitter bug is restoring deleted tweets and retweets — including my own](https://www.theverge.com/2023/5/22/23732497/twitter-bug-restoring-deleted-tweets-retweets)
- - [China&#39;s Micron ban means South Korea&#39;s Samsung and SK Hynix could fill the void, an uncomfortable position because of their exposure to China and US pressure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230522/p11#a230522p11)<!-- TECH:END -->
+ - [Galaxy Z Fold 2 gets May 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [Nocs Field Issue Review &lpar;2023&rpar;: Lightweight, Colorful, and Fun](https://www.wired.com/review/nocs-field-issue-binoculars/)
+ - [&#39;Final Fantasy XVI&#39; Goes Full On &#39;Game of Thrones&#39;](https://www.wired.com/story/final-fantasy-xvi-first-impressions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
