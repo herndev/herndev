@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts expect a Q2 sales decline at seven out of the nine top chip equipment makers, including Applied Materials and Lam Research, amid a memory demand slump &lpar;Kentaro Tsutsumi/Nikkei Asia&rpar;](http://www.techmeme.com/230522/p1#a230522p1)
- - [A researcher says crypto mixer Tornado Cash was taken over by hackers on Saturday through a malicious governance proposal that gave them a majority of votes &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230521/p10#a230521p10)
- - [A rise in memecoins and NFTs on the Bitcoin blockchain, thanks to the Ordinals protocol, has spurred record transactions and an ensuing fee windfall for miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/230521/p9#a230521p9)<!-- TECH:END -->
+ - [Berlin-based Patient21, which provides software for managing patients and clinics, raised a &amp;euro;100M Series C in equity and debt led by Pitango &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230522/p3#a230522p3)
+ - [Get an M1 Pro or M1 Max MacBook Pro at up to $1,700 off with today&#39;s blowout deals](https://appleinsider.com/articles/23/05/21/get-an-m1-pro-or-m1-max-macbook-pro-at-up-to-1300-off-with-todays-blowout-deals?utm_medium=rss)
+ - [Wistron is selling its iPhone assembly unit near Bengaluru to Tata Group and exiting India due to an inability to get deeper into Apple&#39;s supply chain and more &lpar;Subhrojit Mallick/The Economic Times&rpar;](http://www.techmeme.com/230522/p2#a230522p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
