@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gatanisis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733404/gatanisis-shrine-solution-puzzle-chest)
- - [Activision nukes another Call of Duty fan project from orbit: &#39;Thank you all for your support over the years&#39;](https://www.pcgamer.com/activision-nukes-another-call-of-duty-fan-project-from-orbit-thank-you-all-for-your-support-over-the-years)
- - [Apex Legends Tourney Reverses Disqualification of Trans Player](https://kotaku.com/apex-legends-tournament-her-galaxy-transphobia-catalyst-1850462135)<!-- GAME:END -->
+ - [Amouranth launches AI chatbot that lets fans go on ‘dates’ with ‘her’](https://www.polygon.com/23733515/amouranth-ai-chatbot-forever-voices-date-her-parasocial)
+ - [Epic Games Store Mega Sale Has Free Games And Big Discounts](https://kotaku.com/epic-games-store-death-stranding-free-cyberpunk-sale-1850463204)
+ - [What to do with Bubbul gems and Bubbulfrogs in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708795/bubbul-gems-koltin-kilton-hunt-for-bubbulfrog-bubble-gem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
