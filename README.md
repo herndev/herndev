@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)
- - [PC Games from Xbox Headed to Boosteroid Customers June 1](https://news.xbox.com/en-us/2023/05/22/pc-games-from-xbox-headed-to-boosteroid/)
- - [CliffyB might not be done with making games after all, says &#39;my LA lawyer&#39; is on the case for a LawBreakers revival](https://www.pcgamer.com/turns-out-cliffy-b-might-not-be-done-with-making-games-after-all-and-still-thinks-theres-a-future-for-lawbreakers)<!-- GAME:END -->
+ - [Miles Morales, Spider-Man 2099 swing onto Fortnite this week](https://www.polygon.com/23725883/fortnite-spider-man-2099-miles-morales-spiderverse)
+ - [The Little Mermaid live-action remake actually fixed the right character](https://www.polygon.com/23730300/the-little-mermaid-live-action-halle-bailey-ariel-eric)
+ - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
