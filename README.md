@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s monopoly on the fastest Snapdragon chip might be over](https://www.androidauthority.com/samsung-snapdragon-8-gen-2-galaxy-exclusivity-3327447/)
- - [Samsung Galaxy S20 series starts getting May 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [A new software update is waiting for you on your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
+ - [Sources: EU privacy regulators fine Meta a record $1.3B over sending user data to the US; the ruling is expected later on Monday &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230522/p7#a230522p7)
+ - [Top500: 121 of the fastest supercomputers globally are powered by AMD silicon, up 29% YoY; the AMD-based Frontier supercomputer retains its top spot &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230522/p6#a230522p6)
+ - [Nvidia, HPE, and the University of Bristol unveil Isambard 3, a supercomputer using 384 Nvidia Grace CPUs, each with 144 cores, reaching speeds of 2.7 petaflops &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230522/p5#a230522p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
