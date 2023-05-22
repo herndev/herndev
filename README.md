@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)
- - [Experts say a ban on &quot;forever chemicals&quot;, considered toxic for humans and the environment, could derail the EU&#39;s chip plans as there are no safe alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p8#a230522p8)
- - [Meta hit with record-breaking $1.3 billion fine over Facebook data transfers to the US](https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion)<!-- TECH:END -->
+ - [Apple continues headset trademark spree with &#39;xrProOS&#39; filings](https://appleinsider.com/articles/23/05/22/apple-continues-headset-trademark-spree-with-xrproos-filings?utm_medium=rss)
+ - [An interview with AI researcher Timnit Gebru on her controversial sacking by Google in 2020, biases in AI and Big Tech, racism in Silicon Valley, and more &lpar;John Harris/The Guardian&rpar;](http://www.techmeme.com/230522/p9#a230522p9)
+ - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
