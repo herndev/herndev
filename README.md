@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)
- - [Leaked responses from 20 countries to an EU proposal show most of them support some form of scanning encrypted messages, with Spain wanting an E2EE ban &lpar;Wired&rpar;](http://www.techmeme.com/230522/p25#a230522p25)
- - [An auto CEO came very close to saying the right thing about heavy EV batteries](https://www.theverge.com/2023/5/22/23733215/ford-ev-battery-size-weight-safety-jim-farley)<!-- TECH:END -->
+ - [The Color Purple’s first trailer promises a powerful reimagining of the original film](https://www.theverge.com/23733529/the-color-purple-trailer-remake)
+ - [iPhone 16 rumored to have iPhone 12-like vertical camera arrangement](https://appleinsider.com/articles/23/05/22/iphone-16-rumored-to-have-iphone-12-like-vertical-camera-arrangement?utm_medium=rss)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
