@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [John can get his late wife the gravestone she deserves](http://9gag.com/gag/a6qB0gR)
- - ⏩ [She can&#39;t be more right](http://9gag.com/gag/a5Xz04r)
+ - 💣 [Bless the dogs](http://9gag.com/gag/aREvbKy)
+ - ⏩ [Another day in Russia](http://9gag.com/gag/a6qB6Q9)
  - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
