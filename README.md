@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today](https://www.theverge.com/2023/5/22/23733200/apple-16-inch-macbook-pro-m1-pro-laptop-deal-sale)
- - [OpenAI CEO Sam Altman, President Greg Brockman, and Chief Scientist Ilya Sutskever say we&#39;ll likely need an international regulatory body for superintelligence &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230522/p23#a230522p23)
- - [Leaked EU Document Shows Spain Wants to Ban End-to-End Encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)<!-- TECH:END -->
+ - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)
+ - [Leaked responses from 20 countries to an EU proposal show most of them support some form of scanning encrypted messages, with Spain wanting an E2EE ban &lpar;Wired&rpar;](http://www.techmeme.com/230522/p25#a230522p25)
+ - [An auto CEO came very close to saying the right thing about heavy EV batteries](https://www.theverge.com/2023/5/22/23733215/ford-ev-battery-size-weight-safety-jim-farley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
