@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Conceptual Opera’ After Us Breaks Game Design Rules By Introducing Emotions](https://news.xbox.com/en-us/2023/05/22/after-us-may-23-release/)
- - [What is the Blood Moon in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732914/blood-moon-length-cooking)
- - [How to complete the ‘Out of the Inn’ quest in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732795/out-of-the-inn-quest-completion-guide)<!-- GAME:END -->
+ - [Find Your Niche: Three Extremely Unexpected New Game Collections Arrive in Xbox Game Pass](https://news.xbox.com/en-us/2023/05/22/xbox-game-pass-niche-collections/)
+ - [Las Vegas neighborhood names its streets after Pokémon](https://www.polygon.com/23733025/pokemon-street-names-las-vegas-serenity-place-squirtle-jigglypuff-charmander-charizard)
+ - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
