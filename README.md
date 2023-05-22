@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 2 gets May 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
- - [Nocs Field Issue Review &lpar;2023&rpar;: Lightweight, Colorful, and Fun](https://www.wired.com/review/nocs-field-issue-binoculars/)
- - [&#39;Final Fantasy XVI&#39; Goes Full On &#39;Game of Thrones&#39;](https://www.wired.com/story/final-fantasy-xvi-first-impressions/)<!-- TECH:END -->
+ - [If your Apple Watch has a tint after the watchOS 9.5 update, you&#39;re not alone](https://appleinsider.com/articles/23/05/22/if-your-apple-watch-has-a-tint-after-the-watchos-95-update-youre-not-alone?utm_medium=rss)
+ - [NYC-based FlowX.ai, which helps financial companies port and modernize legacy software, raised a $35M Series A led by Dawn Capital, following a $9M seed in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230522/p16#a230522p16)
+ - [Sources and analysis: Alejandro Encinas, Mexico&#39;s under secretary for human rights, was targeted with Pegasus while investigating the country&#39;s military &lpar;New York Times&rpar;](http://www.techmeme.com/230522/p15#a230522p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
