@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite gets around to adding classic MP mode a mere 18 months after launch](https://www.pcgamer.com/halo-infinite-gets-around-to-adding-classic-mp-mode-a-mere-18-months-after-launch)
- - [Pokémon Go ‘Let’s Go’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23650249/lets-go-special-research-tasks-rewards-steps)
- - [How to get a Master Ball in Pokémon Go, and when to use it](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)<!-- GAME:END -->
+ - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)
+ - [PC Games from Xbox Headed to Boosteroid Customers June 1](https://news.xbox.com/en-us/2023/05/22/pc-games-from-xbox-headed-to-boosteroid/)
+ - [CliffyB might not be done with making games after all, says &#39;my LA lawyer&#39; is on the case for a LawBreakers revival](https://www.pcgamer.com/turns-out-cliffy-b-might-not-be-done-with-making-games-after-all-and-still-thinks-theres-a-future-for-lawbreakers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
