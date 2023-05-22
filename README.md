@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [California takes big step in bringing right to repair to silicon valley](https://www.pcgamer.com/california-takes-big-step-in-bringing-right-to-repair-to-silicon-valley)
- - [Indie studio warns other developers after being unable to claim its own name on Discord](https://www.pcgamer.com/indie-studio-warns-other-developers-after-being-unable-to-claim-its-own-name-on-discord)
- - [Five new Steam games you probably missed &lpar;May 22, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-22-2023)<!-- GAME:END -->
+ - [Intel proposes x86S, a 64-bit CPU microarchitecture that does away with legacy 16-bit and 32-bit support](https://www.pcgamer.com/intel-proposes-x86s-a-64-bit-cpu-microarchitecture-that-does-away-with-legacy-16-bit-and-32-bit-support)
+ - [Sony&#39;s Access controller for PS5 looks like a hot swappable dream](https://www.pcgamer.com/sonys-access-controller-for-ps5-looks-like-a-hot-swappable-dream)
+ - [Today&#39;s Wordle hint and answer #702: Monday, May 22](https://www.pcgamer.com/wordle-today-hint-answer-702-may-22)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
