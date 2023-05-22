@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Find Your Niche: Three Extremely Unexpected New Game Collections Arrive in Xbox Game Pass](https://news.xbox.com/en-us/2023/05/22/xbox-game-pass-niche-collections/)
- - [Las Vegas neighborhood names its streets after Pokémon](https://www.polygon.com/23733025/pokemon-street-names-las-vegas-serenity-place-squirtle-jigglypuff-charmander-charizard)
- - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)<!-- GAME:END -->
+ - [From MOBA to Action-Platformer – How Convergence: A League of Legends Adapted Zaun’s Champions](https://news.xbox.com/en-us/2023/05/22/convergence-league-of-legends-moba/)
+ - [Tears Of The Kingdom Raises Eyebrows Over Zelda And Link’s Dating Status](https://kotaku.com/tears-of-the-kingdom-link-zelda-hateno-village-dating-1850462397)
+ - [En-oma Shrine solution in Zelda Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733312/en-oma-shrine-lake-hylia-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
