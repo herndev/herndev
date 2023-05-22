@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
  - [Instagram was down, but now it’s working again](https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading)
+ - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
  - [Researchers reveal many low-cost Android phones and smart TVs from lesser-known brands, sold in the US and owned by millions, come with malware preinstalled &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230521/p8#a230521p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
