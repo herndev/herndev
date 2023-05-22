@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
+ - 💣 [Give me a real challenge](http://9gag.com/gag/aeQx815)
  - ⏩ [Bless the dogs](http://9gag.com/gag/aREvbKy)
  - 👉 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
 
