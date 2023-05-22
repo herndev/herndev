@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp adds iMessage-like editing with a 15 minute window](https://appleinsider.com/articles/23/05/22/whatsapp-adds-imessage-like-editing-with-a-15-minute-window?utm_medium=rss)
- - [Amazon’s palm-scanning technology can let you buy a drink without getting out your ID](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
- - [Biden nominates veteran government lawyer Anna Gomez as FCC Commissioner, and nominates Democrat Geoffrey Starks and Republican Brendan Carr for new FCC terms &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230522/p19#a230522p19)<!-- TECH:END -->
+ - [OnePlus 11 and 11R now starting to receive Oxygen OS 13.1 update](https://www.androidauthority.com/oneplus-11-update-3327697/)
+ - [Some users say Twitter is restoring tweets and retweets that they had deleted, in what appears to be a new bug &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230522/p21#a230522p21)
+ - [The Planet Can’t Sustain Rapid Growth Much Longer](https://www.wired.com/story/gaya-herrington-avoiding-global-collapse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
