@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bless the dogs](http://9gag.com/gag/aREvbKy)
- - ⏩ [That is one lucky girl](http://9gag.com/gag/a2KDXVd)
- - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 💣 [Rightly so](http://9gag.com/gag/aWGo3B6)
+ - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
+ - 👉 [I feel uncomfortable](http://9gag.com/gag/aDYbEMw)<!-- MEMES:END -->
 
 ---
 
