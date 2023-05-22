@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modders have remade the entire Fallout: New Vegas world map in Minecraft](https://www.pcgamer.com/modders-have-remade-the-entire-fallout-new-vegas-world-map-in-minecraft)
  - [Filename forensics suggest there has always been a PC version of Bloodborne—but that doesn&#39;t mean we can ever play it](https://www.pcgamer.com/filename-forensics-suggest-there-has-always-been-a-pc-version-of-bloodbornebut-that-doesnt-mean-we-can-ever-play-it)
- - [The Dead Cells board game is off to a promising crowdfunding start](https://www.pcgamer.com/the-dead-cells-board-game-is-off-to-a-promising-crowdfunding-start)
- - [I could barely keep it together in this free game where you&#39;re the president trying to hide that he&#39;s an alien](https://www.pcgamer.com/i-could-barely-keep-it-together-in-this-free-game-where-youre-the-president-trying-to-hide-that-hes-an-alien)<!-- GAME:END -->
+ - [The Dead Cells board game is off to a promising crowdfunding start](https://www.pcgamer.com/the-dead-cells-board-game-is-off-to-a-promising-crowdfunding-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
