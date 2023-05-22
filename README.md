@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new software update is waiting for you on your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Email: Uber suspends its diversity head Bo Young Lee for hosting sessions on race titled &quot;Don&#39;t Call Me Karen,&quot; which attendees felt were insensitive to PoC &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230522/p4#a230522p4)
- - [China hits back, bans chips from US company](https://www.androidauthority.com/china-ban-micron-us-3327428/)<!-- TECH:END -->
+ - [Samsung’s monopoly on the fastest Snapdragon chip might be over](https://www.androidauthority.com/samsung-snapdragon-8-gen-2-galaxy-exclusivity-3327447/)
+ - [Samsung Galaxy S20 series starts getting May 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [A new software update is waiting for you on your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
