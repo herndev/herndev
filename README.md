@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
- - ⏩ [Based chick](http://9gag.com/gag/anzxPqV)
- - 👉 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
+ - 💣 [Give me a real challenge](http://9gag.com/gag/aeQx815)
+ - ⏩ [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
+ - 👉 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
 
 ---
 
