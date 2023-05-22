@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tukarok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722374/tukarok-shrine-solution-puzzle-chest)
- - [Xbox Releases Second Transparency Report Demonstrating the Integral Role of Proactive Content Moderation](https://news.xbox.com/en-us/2023/05/22/xbox-releases-second-transparency-report/)
- - [How to get Radium Alloy in V Rising](https://www.pcgamer.com/v-rising-radium-alloy-recipe-location)<!-- GAME:END -->
+ - [How to get Radiant Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732797/radiant-armor-location-head-chest-legs)
+ - [Only Three Pokémon Are Catchable In Every Game, But Not Pikachu](https://kotaku.com/only-three-pokemon-are-catchable-in-every-game-but-not-1850461272)
+ - [Sources: Ubisoft Open-World Star Wars Game May Be Sooner Than You Think](https://kotaku.com/star-wars-ubisoft-open-world-division-2-release-date-1850461329)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
