@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU privacy regulators fine Meta a record $1.3B over sending user data to the US; the ruling is expected later on Monday &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230522/p7#a230522p7)
- - [Top500: 121 of the fastest supercomputers globally are powered by AMD silicon, up 29% YoY; the AMD-based Frontier supercomputer retains its top spot &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230522/p6#a230522p6)
- - [Nvidia, HPE, and the University of Bristol unveil Isambard 3, a supercomputer using 384 Nvidia Grace CPUs, each with 144 cores, reaching speeds of 2.7 petaflops &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230522/p5#a230522p5)<!-- TECH:END -->
+ - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)
+ - [Experts say a ban on &quot;forever chemicals&quot;, considered toxic for humans and the environment, could derail the EU&#39;s chip plans as there are no safe alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p8#a230522p8)
+ - [Meta hit with record-breaking $1.3 billion fine over Facebook data transfers to the US](https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
