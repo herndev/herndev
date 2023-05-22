@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based chick](http://9gag.com/gag/anzxPqV)
- - ⏩ [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
- - 👉 [Odd hunting trip](http://9gag.com/gag/amAxwWd)<!-- MEMES:END -->
+ - 💣 [Give me a real challenge](http://9gag.com/gag/aeQx815)
+ - ⏩ [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
+ - 👉 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
 
 ---
 
