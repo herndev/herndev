@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Patient21, which provides software for managing patients and clinics, raised a &amp;euro;100M Series C in equity and debt led by Pitango &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230522/p3#a230522p3)
- - [Get an M1 Pro or M1 Max MacBook Pro at up to $1,700 off with today&#39;s blowout deals](https://appleinsider.com/articles/23/05/21/get-an-m1-pro-or-m1-max-macbook-pro-at-up-to-1300-off-with-todays-blowout-deals?utm_medium=rss)
- - [Wistron is selling its iPhone assembly unit near Bengaluru to Tata Group and exiting India due to an inability to get deeper into Apple&#39;s supply chain and more &lpar;Subhrojit Mallick/The Economic Times&rpar;](http://www.techmeme.com/230522/p2#a230522p2)<!-- TECH:END -->
+ - [A new software update is waiting for you on your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [Email: Uber suspends its diversity head Bo Young Lee for hosting sessions on race titled &quot;Don&#39;t Call Me Karen,&quot; which attendees felt were insensitive to PoC &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230522/p4#a230522p4)
+ - [China hits back, bans chips from US company](https://www.androidauthority.com/china-ban-micron-us-3327428/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
