@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)
- - 👉 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)<!-- MEMES:END -->
+ - 💣 [Bless the dogs](http://9gag.com/gag/aREvbKy)
+ - ⏩ [That is one lucky girl](http://9gag.com/gag/a2KDXVd)
+ - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 ---
 
