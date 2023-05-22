@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amouranth launches AI chatbot that lets fans go on ‘dates’ with ‘her’](https://www.polygon.com/23733515/amouranth-ai-chatbot-forever-voices-date-her-parasocial)
- - [Epic Games Store Mega Sale Has Free Games And Big Discounts](https://kotaku.com/epic-games-store-death-stranding-free-cyberpunk-sale-1850463204)
- - [What to do with Bubbul gems and Bubbulfrogs in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708795/bubbul-gems-koltin-kilton-hunt-for-bubbulfrog-bubble-gem)<!-- GAME:END -->
+ - [Final Fantasy XVI&#39;s Developers Had To Watch Game Of Thrones](https://kotaku.com/final-fantasy-xvi-ff16-game-of-thrones-release-date-1850463424)
+ - [Don&#39;t you dare drop the number from the next Final Fantasy name, Square Enix](https://www.pcgamer.com/dont-you-dare-drop-the-numbers-from-the-final-fantasy-names-square-enix)
+ - [Activision Blizzard says it&#39;s &#39;committed to the Chinese market&#39; following China&#39;s approval of Microsoft acquisition](https://www.pcgamer.com/activision-blizzard-says-its-committed-to-the-chinese-market-following-chinas-approval-of-the-microsoft-acquisition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
