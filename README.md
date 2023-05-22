@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - ⏩ [Of course](http://9gag.com/gag/aqexB5Z)
- - 👉 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 💣 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - ⏩ [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 👉 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)<!-- MEMES:END -->
 
 ---
 
