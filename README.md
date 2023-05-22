@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - ⏩ [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - 👉 [Based chick](http://9gag.com/gag/anzxPqV)<!-- MEMES:END -->
+ - 💣 [They, them](http://9gag.com/gag/aPgeqWQ)
+ - ⏩ [Based chick](http://9gag.com/gag/anzxPqV)
+ - 👉 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
 
 ---
 
