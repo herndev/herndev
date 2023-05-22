@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 and 11R now starting to receive Oxygen OS 13.1 update](https://www.androidauthority.com/oneplus-11-update-3327697/)
- - [Some users say Twitter is restoring tweets and retweets that they had deleted, in what appears to be a new bug &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230522/p21#a230522p21)
- - [The Planet Can’t Sustain Rapid Growth Much Longer](https://www.wired.com/story/gaya-herrington-avoiding-global-collapse/)<!-- TECH:END -->
+ - [Gene Therapy in the Womb Is Inching Closer to Reality](https://www.wired.com/story/gene-therapy-in-the-womb-is-inching-closer-to-reality/)
+ - [Apple denies having illegally disciplined unionization supporters](https://appleinsider.com/articles/23/05/22/apple-denies-having-illegally-disciplined-unionization-supporters?utm_medium=rss)
+ - [Meta unveils open-source AI models it says can identify 4,000+ spoken languages and produce speech for 1,000+ languages, an increase of 40x and 10x respectively &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230522/p22#a230522p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
