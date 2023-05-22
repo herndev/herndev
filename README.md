@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Radiant Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732797/radiant-armor-location-head-chest-legs)
- - [Only Three Pokémon Are Catchable In Every Game, But Not Pikachu](https://kotaku.com/only-three-pokemon-are-catchable-in-every-game-but-not-1850461272)
- - [Sources: Ubisoft Open-World Star Wars Game May Be Sooner Than You Think](https://kotaku.com/star-wars-ubisoft-open-world-division-2-release-date-1850461329)<!-- GAME:END -->
+ - [‘Conceptual Opera’ After Us Breaks Game Design Rules By Introducing Emotions](https://news.xbox.com/en-us/2023/05/22/after-us-may-23-release/)
+ - [What is the Blood Moon in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732914/blood-moon-length-cooking)
+ - [How to complete the ‘Out of the Inn’ quest in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732795/out-of-the-inn-quest-completion-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
