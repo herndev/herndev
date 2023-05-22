@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie releases MagSafe-certified car charger &amp; magnetic vent mount for iPhone users](https://appleinsider.com/articles/23/05/22/mophie-releases-magsafe-certified-car-charger-magnetic-vent-mount-for-iphone-users?utm_medium=rss)
- - [Editable WhatsApp messages are coming to help you fxi silly typos](https://www.theverge.com/2023/5/22/23732767/whatsapp-message-editing-15-minutes)
- - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)<!-- TECH:END -->
+ - [Amazon’s Kindle Scribe is getting limited handwriting-to-text conversion](https://www.theverge.com/2023/5/22/23729817/amazon-kindle-scribe-kobo-elipsa-2e-e-reader-stylus-digital-notebook)
+ - [Mimestream is the Mac app every Gmail user needs](https://www.theverge.com/23728602/mimestream-gmail-app-mac-review)
+ - [Ford teases next-generation EV that will help it close the gap with Tesla](https://www.theverge.com/2023/5/22/23732762/ford-second-generation-ev-three-row-suv-350-miles-range)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
