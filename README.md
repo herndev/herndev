@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me a real challenge](http://9gag.com/gag/aeQx815)
- - ⏩ [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
- - 👉 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
+ - 💣 [Real](http://9gag.com/gag/aQEmjrd)
+ - ⏩ [Self defense 101](http://9gag.com/gag/agoxz1W)
+ - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
 
