@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - ⏩ [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
- - 👉 [Based chick](http://9gag.com/gag/anzxPqV)<!-- MEMES:END -->
+ - 💣 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
+ - ⏩ [Bless the dogs](http://9gag.com/gag/aREvbKy)
+ - 👉 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
 
 ---
 
