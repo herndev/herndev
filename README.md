@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rightly so](http://9gag.com/gag/aWGo3B6)
- - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
- - 👉 [I feel uncomfortable](http://9gag.com/gag/aDYbEMw)<!-- MEMES:END -->
+ - 💣 [That is one lucky girl](http://9gag.com/gag/a2KDXVd)
+ - ⏩ [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
 
