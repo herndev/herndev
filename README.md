@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They, them](http://9gag.com/gag/aPgeqWQ)
+ - 💣 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
  - ⏩ [Based chick](http://9gag.com/gag/anzxPqV)
  - 👉 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
 
