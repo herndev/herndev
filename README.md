@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel proposes x86S, a 64-bit CPU microarchitecture that does away with legacy 16-bit and 32-bit support](https://www.pcgamer.com/intel-proposes-x86s-a-64-bit-cpu-microarchitecture-that-does-away-with-legacy-16-bit-and-32-bit-support)
- - [Sony&#39;s Access controller for PS5 looks like a hot swappable dream](https://www.pcgamer.com/sonys-access-controller-for-ps5-looks-like-a-hot-swappable-dream)
- - [Today&#39;s Wordle hint and answer #702: Monday, May 22](https://www.pcgamer.com/wordle-today-hint-answer-702-may-22)<!-- GAME:END -->
+ - [Pokémon Go ‘Let’s Go’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23650249/lets-go-special-research-tasks-rewards-steps)
+ - [How to get a Master Ball in Pokémon Go, and when to use it](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)
+ - [Intel proposes x86S, a 64-bit CPU microarchitecture that does away with legacy 16-bit and 32-bit support](https://www.pcgamer.com/intel-proposes-x86s-a-64-bit-cpu-microarchitecture-that-does-away-with-legacy-16-bit-and-32-bit-support)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
