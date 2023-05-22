@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)
- - [Alan Wake himself says Alan Wake 2 is &#39;supposed to come out in October&#39;](https://www.pcgamer.com/alan-wake-himself-says-alan-wake-2-is-supposed-to-come-out-in-october)
- - [GameStop Overhauling Rewards Program, Raising Price By $10](https://kotaku.com/gamestop-meme-stock-gme-powerup-rewards-sales-coupon-1850460704)<!-- GAME:END -->
+ - [Tukarok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722374/tukarok-shrine-solution-puzzle-chest)
+ - [Xbox Releases Second Transparency Report Demonstrating the Integral Role of Proactive Content Moderation](https://news.xbox.com/en-us/2023/05/22/xbox-releases-second-transparency-report/)
+ - [How to get Radium Alloy in V Rising](https://www.pcgamer.com/v-rising-radium-alloy-recipe-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
