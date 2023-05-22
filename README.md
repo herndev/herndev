@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - ⏩ [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)
- - 👉 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)<!-- MEMES:END -->
+ - 💣 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - ⏩ [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
+ - 👉 [Based chick](http://9gag.com/gag/anzxPqV)<!-- MEMES:END -->
 
 ---
 
