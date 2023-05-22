@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple continues headset trademark spree with &#39;xrProOS&#39; filings](https://appleinsider.com/articles/23/05/22/apple-continues-headset-trademark-spree-with-xrproos-filings?utm_medium=rss)
- - [An interview with AI researcher Timnit Gebru on her controversial sacking by Google in 2020, biases in AI and Big Tech, racism in Silicon Valley, and more &lpar;John Harris/The Guardian&rpar;](http://www.techmeme.com/230522/p9#a230522p9)
- - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)<!-- TECH:END -->
+ - [Some educators are cautiously experimenting with generative AI, questioning whether the tech can be used in classrooms without undermining numeracy and literacy &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p12#a230522p12)
+ - [A Twitter bug is restoring deleted tweets and retweets — including my own](https://www.theverge.com/2023/5/22/23732497/twitter-bug-restoring-deleted-tweets-retweets)
+ - [China&#39;s Micron ban means South Korea&#39;s Samsung and SK Hynix could fill the void, an uncomfortable position because of their exposure to China and US pressure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230522/p11#a230522p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
