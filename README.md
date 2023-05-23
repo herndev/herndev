@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Even Final Fantasy XVI Devs Could Follow The Game&#39;s Confusing Story](https://kotaku.com/final-fantasy-16-active-time-lore-story-ff16-ps5-1850465506)
- - [How to unlock the Ancestral Forge in V Rising](https://www.pcgamer.com/v-rising-ancestral-forge-unlock)
- - [Fortnite Is Banning Anyone Who Uses This Game-Breaking Exploit](https://kotaku.com/fortnite-ban-kinetic-blade-katana-exploit-epic-games-1850465366)<!-- GAME:END -->
+ - [Minecraft Sonic Textures Available Now!](https://news.xbox.com/en-us/2023/05/23/minecraft-sonic-textures/)
+ - [Backbone’s PS5 DualSense-inspired controller is now available for Android](https://www.polygon.com/23726040/ps5-dualsense-backbone-one-sony-android-controller)
+ - [Fortnite Gets Spider-Man’s Miles Morales Ahead Of Spider-Verse Movie](https://kotaku.com/fortnite-miles-morales-skin-spider-verse-update-may-23-1850465859)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
