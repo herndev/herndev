@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coming from the same mayor who also stated: `There&#39;s no good reason why 65% of people working in science and engineering should be white men. We\u2019re working on fixing it.` Imagine going to Japan and complaining about the numbers of Japanese men in science....](http://9gag.com/gag/a9qm3Bm)
- - ⏩ [It&#39;s Christmas at ground zero](http://9gag.com/gag/avQxYjO)
- - 👉 [The 3 vile anglosaxons SAS operatives been spotted leading Incursion in belgorod. they are truly top gear operatives.](http://9gag.com/gag/a8qerge)<!-- MEMES:END -->
+ - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
+ - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
 
