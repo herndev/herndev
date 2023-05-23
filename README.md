@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photoshop’s generative AI tool turned my vacation photos into nightmare fuel](https://www.theverge.com/2023/5/23/23734821/photoshop-generative-ai-fill-tool-adobe)
- - [Some HP printers are getting a ‘blue screen error’ and being rendered unusable](https://www.theverge.com/2023/5/23/23734185/hp-officejet-blue-screen-error-83c0000b-bricked)
- - [Samsung&#39;s new 27-inch monitor competes with Apple&#39;s Studio Display at half the price](https://appleinsider.com/articles/23/05/23/samsungs-new-27-inch-monitor-competes-with-apples-studio-display-at-half-the-price?utm_medium=rss)<!-- TECH:END -->
+ - [These AMD Chromebook processors promise big battery life](https://www.theverge.com/2023/5/23/23734716/amd-ryzen-athlon-new-chromebook-processors)
+ - [What is a passkey, and how does it work?](https://www.androidauthority.com/what-is-a-passkey-and-how-does-it-work-3328378/)
+ - [Elliptic: some Chinese chemical suppliers accept cryptocurrency for fentanyl ingredients and the majority use &quot;three specific exchanges&quot; based outside of China &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230523/p49#a230523p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
