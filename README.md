@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - 👉 [Uncle Roger was banned on all Chinese platforms over this comedy routine.](http://9gag.com/gag/aL1AqMv)<!-- MEMES:END -->
+ - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
+ - ⏩ [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
 
