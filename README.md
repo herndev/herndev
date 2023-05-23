@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miles Morales swings into Fortnite — and he’s bringing web shooters back with him](https://www.theverge.com/2023/5/23/23733002/miles-morales-spider-man-fortnite-web-shooters)
- - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
- - [Amazon’s new Fire Max 11 tablet aims for premium vibes and productivity](https://www.theverge.com/23730409/amazon-fire-max-11-tablet-price-hands-on)<!-- TECH:END -->
+ - [Sony’s new ZV-1 II vlogging camera has a wider lens and faster sensor](https://www.theverge.com/23733389/sony-zv1ii-vlogging-camera-stacked-point-and-shoot-price-specs)
+ - [Streamline your charging experience with the new HaloLock 3-in-1 charger](https://appleinsider.com/articles/23/05/23/streamline-your-charging-experience-with-the-new-halolock-3-in-1-charger?utm_medium=rss)
+ - [US prosecutors have gathered over 6M pages of documents ahead of Sam Bankman-Fried&#39;s trial, an unusually large amount that underscores his legal difficulties &lpar;New York Times&rpar;](http://www.techmeme.com/230523/p20#a230523p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
