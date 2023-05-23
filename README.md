@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ga-Ahisas Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733512/ga-ahisas-shrine-solution-puzzle-chest)
- - [The gamer lawsuit against Microsoft - Activision deal suffers another blow](https://www.pcgamer.com/the-gamer-lawsuit-against-microsoft-activision-deal-suffers-another-blow)
- - [Are Zelda and Link a couple? It’s... complicated](https://www.polygon.com/legend-zelda-tears-kingdom/23733430/are-zelda-and-link-a-couple-zelink-explainer)<!-- GAME:END -->
+ - [How to get the Dark Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734661/dark-armor-location-hood-tunic-trousers)
+ - [Summer 2023 showcase schedule: Every gaming publisher livestream and Summer Game Fest event](https://www.pcgamer.com/e3-schedule-2023-summer-game-fest-showcase)
+ - [Netflix’s animated King Kong series absolutely covers Skull Island in monsters](https://www.polygon.com/2023/5/23/23734587/skull-island-king-kong-netflix-announcement-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
