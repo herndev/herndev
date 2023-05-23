@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Skorupi be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698060/can-skorupi-be-shiny-drapion)
- - [Exoprimal is a throwback to weird, experimental early 2000s Capcom](https://www.pcgamer.com/exoprimal-preview-throwback-weird-2000s-capcom)
- - [Today&#39;s Wordle hint and answer #703: Tuesday, May 23](https://www.pcgamer.com/wordle-today-hint-answer-703-may-23)<!-- GAME:END -->
+ - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)
+ - [In an act of auteur megalomania, Yoshi-P made the Final Fantasy 16 core team buy and watch Game of Thrones](https://www.pcgamer.com/in-an-act-of-auteur-megalomania-yoshi-p-made-the-final-fantasy-16-core-team-buy-and-watch-game-of-thrones)
+ - [Blizzard execs sound very excited about AI, want to use it for level design, coding, and &#39;anti-toxicity&#39;](https://www.pcgamer.com/blizzard-execs-sound-very-excited-about-ai-want-to-use-it-for-level-design-coding-and-anti-toxicity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
