@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a damn minute](http://9gag.com/gag/a6qBvDe)
- - ⏩ [19-year-old charged with murder after putting her newborn in the trash can at the hospital](http://9gag.com/gag/aqexEeP)
- - 👉 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
+ - 💣 [W w w would](http://9gag.com/gag/a5Xz4DV)
+ - ⏩ [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
+ - 👉 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
 
 ---
 
