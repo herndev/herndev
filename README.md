@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)
- - [The best Honkai: Star Rail Jing Yuan build](https://www.pcgamer.com/honkai-star-rail-jing-yuan-build)
- - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)<!-- GAME:END -->
+ - [Warhammer 40K: Boltgun is an absolute blast of a boomer shooter](https://www.polygon.com/reviews/23733394/warhammer-40k-boltgun-review-sternguard-veteran)
+ - [How to get the Hylian Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733100/hylian-armor-location-head-chest-legs)
+ - [How to get an ancient blade in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734182/ancient-blades-locations-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
