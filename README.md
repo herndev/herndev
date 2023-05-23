@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge dismissed a proposed class action lawsuit against Elon Musk that claimed he cheated shareholders several times in 2022 while buying Twitter &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230523/p2#a230523p2)
- - [While we wait for iPhone 15, here’s the first iPhone 16 Ultra leak](https://www.androidauthority.com/apple-iphone-16-ultra-leak-3327888/)
- - [China&#39;s Micron ban could allow the government to boost its domestic memory chip industry, a sector where China has a toehold in its competition with the US &lpar;New York Times&rpar;](http://www.techmeme.com/230523/p1#a230523p1)<!-- TECH:END -->
+ - [HBO Max become Max today, 4K content gets major boost.](https://www.androidauthority.com/hbo-max-become-max-4k-content-3327904/)
+ - [Securities watchdog IOSCO proposes the first global crypto regulations, covering conflicts of interest, custody, and more, that it aims to finalize by year-end &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230523/p4#a230523p4)
+ - [Physical keyboards could become more useful on Android 14 tablets](https://www.androidauthority.com/android-14-physical-keyboard-shortcuts-tablets-3327432/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
