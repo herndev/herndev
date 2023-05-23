@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - ⏩ [W w w would](http://9gag.com/gag/a5Xz4DV)
- - 👉 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
+ - 💣 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - ⏩ [There&#39;s always that one person...](http://9gag.com/gag/a9qmGOo)
+ - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 ---
 
