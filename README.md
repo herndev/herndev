@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m So Infuriated Right Now](https://kotaku.com/summerfall-stray-gods-magic-gathering-concept-art-ee-1850463937)
  - [Blizzard&#39;s AI Tools Sound Incredibly Depressing](https://kotaku.com/blizzard-ai-art-stable-diffusion-concept-activision-1850463809)
- - [Ashfall is a Fallout-inspired MMO set in &#39;a whole new kind of wasteland&#39;](https://www.pcgamer.com/ashfall-is-a-fallout-inspired-mmo-set-in-a-whole-new-kind-of-wasteland)
- - [Board Game YouTuber&#39;s $7500 Video Request Opens Can Of Worms](https://kotaku.com/board-game-sponsored-content-controversy-youtube-stream-1850459869)<!-- GAME:END -->
+ - [Ashfall is a Fallout-inspired MMO set in &#39;a whole new kind of wasteland&#39;](https://www.pcgamer.com/ashfall-is-a-fallout-inspired-mmo-set-in-a-whole-new-kind-of-wasteland)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
