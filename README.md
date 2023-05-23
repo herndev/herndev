@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber teams up with Waymo to add robotaxis to its app](https://www.theverge.com/2023/5/23/23733547/uber-waymo-robotaxi-phoenix-delivery-autonomous-ridehail)
- - [Inside the fight for Kickstarter’s union](https://www.theverge.com/23732782/kickstarter-union-organizing-good-enough-job-excerpt)
- - [Apple&#39;s $13 billion Ireland tax saga lurches back to life after yet another EU appeal](https://appleinsider.com/articles/23/05/23/apples-13-billion-ireland-tax-saga-lurches-back-to-life-after-yet-another-eu-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Miles Morales swings into Fortnite — and he’s bringing web shooters back with him](https://www.theverge.com/2023/5/23/23733002/miles-morales-spider-man-fortnite-web-shooters)
+ - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
+ - [Amazon’s new Fire Max 11 tablet aims for premium vibes and productivity](https://www.theverge.com/23730409/amazon-fire-max-11-tablet-price-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
