@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new ZV-1 II vlogging camera has a wider lens and faster sensor](https://www.theverge.com/23733389/sony-zv1ii-vlogging-camera-stacked-point-and-shoot-price-specs)
- - [Streamline your charging experience with the new HaloLock 3-in-1 charger](https://appleinsider.com/articles/23/05/23/streamline-your-charging-experience-with-the-new-halolock-3-in-1-charger?utm_medium=rss)
- - [US prosecutors have gathered over 6M pages of documents ahead of Sam Bankman-Fried&#39;s trial, an unusually large amount that underscores his legal difficulties &lpar;New York Times&rpar;](http://www.techmeme.com/230523/p20#a230523p20)<!-- TECH:END -->
+ - [Microsoft CTO Kevin Scott thinks Sydney might make a comeback](https://www.theverge.com/23733388/microsoft-kevin-scott-open-ai-chat-gpt-bing-github-word-excel-outlook-copilots-sydney)
+ - [Microsoft 365 Copilot is coming to Microsoft Edge](https://www.theverge.com/2023/5/23/23733306/microsoft-ai-365-copilot-edge-build)
+ - [Windows 11 adds support for Bluetooth’s low-energy audio spec](https://www.theverge.com/2023/5/23/23733299/windows-11-bluetooth-low-energy-le-support-build)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
