@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
- - ⏩ [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - 👉 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
+ - 💣 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
+ - 👉 [Damn nature](http://9gag.com/gag/aKEewPb)<!-- MEMES:END -->
 
 ---
 
