@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K: Boltgun is an absolute blast of a boomer shooter](https://www.polygon.com/reviews/23733394/warhammer-40k-boltgun-review-sternguard-veteran)
- - [How to get the Hylian Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733100/hylian-armor-location-head-chest-legs)
- - [How to get an ancient blade in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734182/ancient-blades-locations-how-to-get)<!-- GAME:END -->
+ - [Not Even Final Fantasy XVI Devs Could Follow The Game&#39;s Confusing Story](https://kotaku.com/final-fantasy-16-active-time-lore-story-ff16-ps5-1850465506)
+ - [How to unlock the Ancestral Forge in V Rising](https://www.pcgamer.com/v-rising-ancestral-forge-unlock)
+ - [Fortnite Is Banning Anyone Who Uses This Game-Breaking Exploit](https://kotaku.com/fortnite-ban-kinetic-blade-katana-exploit-epic-games-1850465366)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
