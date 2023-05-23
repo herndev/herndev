@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based Chalo, which offers online payments and commute tracking for bus operators, raised a $45M Series D led by Avataar Ventures and $12M in debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230522/p29#a230522p29)
- - [Artifact now lets you mark articles as clickbait](https://www.theverge.com/2023/5/22/23733545/artifact-articles-clickbait-emoji-reactions-save-image)
- - [Google expands its AI-based flood forecasting service Flood Hub to 80 countries, up from 20, offering forecasts up to 7 days in advance to 460 million people &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/230522/p28#a230522p28)<!-- TECH:END -->
+ - [Get 3 months of Adobe Creative Cloud All Apps for record low $29.99](https://appleinsider.com/articles/23/05/23/get-3-months-of-adobe-creative-cloud-all-apps-for-record-low-2999?utm_medium=rss)
+ - [Sources: activist investor TCS Capital, which owns 4%+ of Yelp&#39;s common stock, urges the recommendation site to explore strategic alternatives, including a sale &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230522/p30#a230522p30)
+ - [Mumbai-based Chalo, which offers bus operators online payments and real-time commute tracking, raised a $45M Series D led by Avataar Ventures and $12M in debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230522/p29#a230522p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
