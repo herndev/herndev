@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/aVbZpgw)
- - ⏩ [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 👉 [^_^](http://9gag.com/gag/az2O0rB)<!-- MEMES:END -->
+ - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
+ - ⏩ [W w w would](http://9gag.com/gag/a5Xz4DV)
+ - 👉 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
 
 ---
 
