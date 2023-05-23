@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [Let us not forget this hero!](http://9gag.com/gag/agoxP9g)
- - 👉 [Rightly so](http://9gag.com/gag/aWGo3B6)<!-- MEMES:END -->
+ - 💣 [Wait a damn minute](http://9gag.com/gag/a6qBvDe)
+ - ⏩ [19-year-old charged with murder after putting her newborn in the trash can at the hospital](http://9gag.com/gag/aqexEeP)
+ - 👉 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
 
 ---
 
