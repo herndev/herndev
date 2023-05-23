@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
- - 👉 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
+ - ⏩ [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
+ - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 ---
 
