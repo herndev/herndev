@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft CTO Kevin Scott thinks Sydney might make a comeback](https://www.theverge.com/23733388/microsoft-kevin-scott-open-ai-chat-gpt-bing-github-word-excel-outlook-copilots-sydney)
- - [Microsoft 365 Copilot is coming to Microsoft Edge](https://www.theverge.com/2023/5/23/23733306/microsoft-ai-365-copilot-edge-build)
- - [Windows 11 adds support for Bluetooth’s low-energy audio spec](https://www.theverge.com/2023/5/23/23733299/windows-11-bluetooth-low-energy-le-support-build)<!-- TECH:END -->
+ - [Google Will Soon Show You AI-Generated Ads](https://www.wired.com/story/google-chatgpt-ai-generated-ads/)
+ - [Microsoft agrees to sign all AI-generated art from Bing Image Creator and Microsoft Designer with a cryptographic watermark that adheres to a C2PA specification &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/230523/p31#a230523p31)
+ - [Microsoft announces Azure AI Studio, letting customers combine models like GPT-4 with their private data, whether text or images, to build their own &quot;copilots&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230523/p30#a230523p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
