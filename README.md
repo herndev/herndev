@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Sonic Textures Available Now!](https://news.xbox.com/en-us/2023/05/23/minecraft-sonic-textures/)
- - [Backbone’s PS5 DualSense-inspired controller is now available for Android](https://www.polygon.com/23726040/ps5-dualsense-backbone-one-sony-android-controller)
- - [Fortnite Gets Spider-Man’s Miles Morales Ahead Of Spider-Verse Movie](https://kotaku.com/fortnite-miles-morales-skin-spider-verse-update-may-23-1850465859)<!-- GAME:END -->
+ - [Ga-Ahisas Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733512/ga-ahisas-shrine-solution-puzzle-chest)
+ - [The gamer lawsuit against Microsoft - Activision deal suffers another blow](https://www.pcgamer.com/the-gamer-lawsuit-against-microsoft-activision-deal-suffers-another-blow)
+ - [Are Zelda and Link a couple? It’s... complicated](https://www.polygon.com/legend-zelda-tears-kingdom/23733430/are-zelda-and-link-a-couple-zelink-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
