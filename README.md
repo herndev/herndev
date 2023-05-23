@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
- - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 💣 [W w w would](http://9gag.com/gag/a5Xz4DV)
+ - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
+ - 👉 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)<!-- MEMES:END -->
 
 ---
 
