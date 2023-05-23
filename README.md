@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W w w would](http://9gag.com/gag/a5Xz4DV)
- - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
- - 👉 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)<!-- MEMES:END -->
+ - 💣 [The Kremlin Plague](http://9gag.com/gag/a9q2jmW)
+ - ⏩ [Fascinating behaviour](http://9gag.com/gag/armq1Nd)
+ - 👉 [Please tell me this is a gag?](http://9gag.com/gag/a8qeBB6)<!-- MEMES:END -->
 
 ---
 
