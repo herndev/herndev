@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W w w would](http://9gag.com/gag/a5Xz4DV)
- - ⏩ [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
- - 👉 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/aVbZpgw)
+ - ⏩ [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
+ - 👉 [^_^](http://9gag.com/gag/az2O0rB)<!-- MEMES:END -->
 
 ---
 
