@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ganos Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734862/ganos-shrine-puzzle-solution-chest-tabantha-sky-crystal-quest)
- - [Destiny 2’s latest season kicks off with Kratos and The Last of Us crossover gear](https://www.polygon.com/23734839/destiny-2-season-deep-armor-skins-items-crossovers)
- - [Sharing a Netflix password will now cost $7.99 a month per additional user](https://www.polygon.com/2023/5/23/23734930/netflix-password-sharing-details-and-pricing-may-2023)<!-- GAME:END -->
+ - [RIP Cortana: Windows 11 is getting a new AI &#39;personal assistant&#39;](https://www.pcgamer.com/windows-11-copilot-ai-announcement)
+ - [PlayStation-Inspired Cosmetics Are Coming To Destiny 2](https://kotaku.com/destiny-2-playstation-collab-season-of-the-deep-store-1850467565)
+ - [PlayStation CEO Says Its Games Still Won&#39;t Come To PC On Day One](https://kotaku.com/playstation-sony-final-fantasy-16-ps5-exclusive-pc-1850467525)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
