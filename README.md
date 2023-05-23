@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - ⏩ [Lol](http://9gag.com/gag/aPgeEvg)
+ - 💣 [Based chick](http://9gag.com/gag/anzxPqV)
+ - ⏩ [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
  - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 ---
