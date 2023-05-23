@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get 3 months of Adobe Creative Cloud All Apps for record low $29.99](https://appleinsider.com/articles/23/05/23/get-3-months-of-adobe-creative-cloud-all-apps-for-record-low-2999?utm_medium=rss)
- - [Sources: activist investor TCS Capital, which owns 4%+ of Yelp&#39;s common stock, urges the recommendation site to explore strategic alternatives, including a sale &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230522/p30#a230522p30)
- - [Mumbai-based Chalo, which offers bus operators online payments and real-time commute tracking, raised a $45M Series D led by Avataar Ventures and $12M in debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230522/p29#a230522p29)<!-- TECH:END -->
+ - [Sources: JioMart cuts 1,000+ jobs as part of a larger cost-cutting measure, which will include reducing the 15,000 people wholesale division by two-thirds &lpar;The Economic Times&rpar;](http://www.techmeme.com/230522/p32#a230522p32)
+ - [An NLRB complaint accuses Amazon of violating US federal labor law at its unionized Staten Island warehouse and Andy Jassy of making illegal anti-union comments &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230522/p31#a230522p31)
+ - [These are the cheapest countries in which to buy an iPhone 14](https://www.androidauthority.com/cheapest-place-to-buy-iphone-14-3327869/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
