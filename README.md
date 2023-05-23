@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - ⏩ [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
+ - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
+ - ⏩ [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - 👉 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
 
 ---
 
