@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)
- - ⏩ [Apparently the Belgorod TV got hacked and this is playing on all the channels.](http://9gag.com/gag/ay21Or8)
- - 👉 [It&#39;s Christmas at ground zero](http://9gag.com/gag/avQxYjO)<!-- MEMES:END -->
+ - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
+ - ⏩ [Lol](http://9gag.com/gag/aPgeEvg)
+ - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 ---
 
