@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This palm-sized PC might contain the future of gadget cooling](https://www.theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price)
  - [HBO Max become Max today, 4K content gets major boost.](https://www.androidauthority.com/hbo-max-become-max-4k-content-3327904/)
- - [Securities watchdog IOSCO proposes the first global crypto regulations, covering conflicts of interest, custody, and more, that it aims to finalize by year-end &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230523/p4#a230523p4)
- - [Physical keyboards could become more useful on Android 14 tablets](https://www.androidauthority.com/android-14-physical-keyboard-shortcuts-tablets-3327432/)<!-- TECH:END -->
+ - [Securities watchdog IOSCO proposes the first global crypto regulations, covering conflicts of interest, custody, and more, that it aims to finalize by year-end &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230523/p4#a230523p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
