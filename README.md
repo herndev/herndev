@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This week&#39;s top 5 Apple deals at B&amp;H Photo offer up to $1,600 in cash savings](https://appleinsider.com/articles/23/05/23/this-weeks-top-5-apple-deals-at-bh-photo-offer-up-to-1600-in-cash-savings?utm_medium=rss)
- - [Beats Studio Buds Plus review: Clearly Apple’s best buds for Android](https://www.androidauthority.com/beats-studio-buds-plus-review-3327695/)
- - [There’s Finally a Way to Improve Cloud Container Registry Security](https://www.wired.com/story/container-registry-security-chainguard/)<!-- TECH:END -->
+ - [If you said you’d cancel Netflix before paying for account sharing, time is up](https://www.androidauthority.com/netflix-account-sharing-us-3328351/)
+ - [The Netflix crackdown on password sharing in the US has arrived](https://appleinsider.com/articles/23/05/23/the-netflix-crackdown-on-password-sharing-in-the-us-has-arrived?utm_medium=rss)
+ - [Netflix cracks down on password sharing in the US and offers paid sharing, which lets some accounts add an extra member outside their household for $7.99/month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230523/p46#a230523p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
