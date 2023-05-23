@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m getting some tasty Skyrim and Dark Messiah vibes from this first-person action RPG](https://www.pcgamer.com/im-getting-some-tasty-skyrim-and-dark-messiah-vibes-from-this-first-person-action-rpg)
  - [Final Fantasy XVI&#39;s Developers Had To Watch Game Of Thrones](https://kotaku.com/final-fantasy-xvi-ff16-game-of-thrones-release-date-1850463424)
- - [Don&#39;t you dare drop the number from the next Final Fantasy name, Square Enix](https://www.pcgamer.com/dont-you-dare-drop-the-numbers-from-the-final-fantasy-names-square-enix)
- - [Activision Blizzard says it&#39;s &#39;committed to the Chinese market&#39; following China&#39;s approval of Microsoft acquisition](https://www.pcgamer.com/activision-blizzard-says-its-committed-to-the-chinese-market-following-chinas-approval-of-the-microsoft-acquisition)<!-- GAME:END -->
+ - [Don&#39;t you dare drop the number from the next Final Fantasy name, Square Enix](https://www.pcgamer.com/dont-you-dare-drop-the-numbers-from-the-final-fantasy-names-square-enix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
