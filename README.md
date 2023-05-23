@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - ⏩ [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 💣 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)
+ - ⏩ [Apparently the Belgorod TV got hacked and this is playing on all the channels.](http://9gag.com/gag/ay21Or8)
+ - 👉 [It&#39;s Christmas at ground zero](http://9gag.com/gag/avQxYjO)<!-- MEMES:END -->
 
 ---
 
