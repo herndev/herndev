@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you said you’d cancel Netflix before paying for account sharing, time is up](https://www.androidauthority.com/netflix-account-sharing-us-3328351/)
- - [The Netflix crackdown on password sharing in the US has arrived](https://appleinsider.com/articles/23/05/23/the-netflix-crackdown-on-password-sharing-in-the-us-has-arrived?utm_medium=rss)
- - [Netflix cracks down on password sharing in the US and offers paid sharing, which lets some accounts add an extra member outside their household for $7.99/month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230523/p46#a230523p46)<!-- TECH:END -->
+ - [The biggest features missing from Final Cut Pro for iPad at launch](https://appleinsider.com/articles/23/05/23/the-biggest-features-missing-from-final-cut-pro-for-ipad-at-launch?utm_medium=rss)
+ - [Samsung&#39;s new 27-inch monitor competes with Apple&#39;s Studio Display at half the price](https://appleinsider.com/articles/23/05/23/samsungs-new-27-inch-monitor-competes-with-apples-studio-display-at-half-the-price?utm_medium=rss)
+ - [Windows 11 adds native support for rar, 7-zip, gz, and other archive formats &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230523/p47#a230523p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
