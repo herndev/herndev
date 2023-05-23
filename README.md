@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Kremlin Plague](http://9gag.com/gag/a9q2jmW)
- - ⏩ [Please tell me this is a gag?](http://9gag.com/gag/a8qeBB6)
- - 👉 [Fascinating behaviour](http://9gag.com/gag/armq1Nd)<!-- MEMES:END -->
+ - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - ⏩ [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
 
 ---
 
