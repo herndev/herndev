@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - ⏩ [I feel uncomfortable](http://9gag.com/gag/aDYbEMw)
- - 👉 [Lol](http://9gag.com/gag/aPgeEvg)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/aPgeEvg)
+ - ⏩ [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)
+ - 👉 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
 
 ---
 
