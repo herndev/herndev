@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As music revenue slows, record labels may force Spotify, which has never changed its US base plan&#39;s price, to follow Apple, Amazon, and others in raising prices &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230523/p6#a230523p6)
- - [Samsung Display demos long rollable and a health-sensing OLED](https://www.theverge.com/2023/5/23/23734012/samsung-display-sensor-oled-rollable-flex)
- - [Samsung just revealed the ultimate smartphone screen](https://www.androidauthority.com/samsung-sensor-oled-display-3327928/)<!-- TECH:END -->
+ - [The 15 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [The 16 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [A software update might be making Apple Watches green around the gills](https://www.androidauthority.com/apple-watch-green-tint-problem-3327960/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
