@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m So Infuriated Right Now](https://kotaku.com/summerfall-stray-gods-magic-gathering-concept-art-ee-1850463937)
- - [Blizzard&#39;s AI Tools Sound Incredibly Depressing](https://kotaku.com/blizzard-ai-art-stable-diffusion-concept-activision-1850463809)
- - [Ashfall is a Fallout-inspired MMO set in &#39;a whole new kind of wasteland&#39;](https://www.pcgamer.com/ashfall-is-a-fallout-inspired-mmo-set-in-a-whole-new-kind-of-wasteland)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #703: Tuesday, May 23](https://www.pcgamer.com/wordle-today-hint-answer-703-may-23)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/22/this-weeks-deals-with-gold-and-spotlight-sale-275/)
+ - [I&#39;m So Infuriated Right Now](https://kotaku.com/summerfall-stray-gods-magic-gathering-concept-art-ee-1850463937)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
