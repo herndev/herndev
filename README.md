@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Skorupi be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698060/can-skorupi-be-shiny-drapion)
  - [Exoprimal is a throwback to weird, experimental early 2000s Capcom](https://www.pcgamer.com/exoprimal-preview-throwback-weird-2000s-capcom)
- - [Today&#39;s Wordle hint and answer #703: Tuesday, May 23](https://www.pcgamer.com/wordle-today-hint-answer-703-may-23)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/22/this-weeks-deals-with-gold-and-spotlight-sale-275/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #703: Tuesday, May 23](https://www.pcgamer.com/wordle-today-hint-answer-703-may-23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
