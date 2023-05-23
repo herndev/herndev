@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Will Soon Show You AI-Generated Ads](https://www.wired.com/story/google-chatgpt-ai-generated-ads/)
- - [Microsoft agrees to sign all AI-generated art from Bing Image Creator and Microsoft Designer with a cryptographic watermark that adheres to a C2PA specification &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/230523/p31#a230523p31)
- - [Microsoft announces Azure AI Studio, letting customers combine models like GPT-4 with their private data, whether text or images, to build their own &quot;copilots&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230523/p30#a230523p30)<!-- TECH:END -->
+ - [Logic Pro for the iPad is very fun with very few compromises](https://www.theverge.com/23734180/apple-logic-pro-ipad-review)
+ - [Final Cut Pro for the iPad is slick but limited](https://www.theverge.com/23734143/final-cut-pro-ipad-review)
+ - [Peloton’s new subscriptions leave behind its pricey hardware](https://www.theverge.com/2023/5/23/23734329/peloton-app-subscription-tiers-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
