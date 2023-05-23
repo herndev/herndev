@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)
  - [The best Honkai: Star Rail Jing Yuan build](https://www.pcgamer.com/honkai-star-rail-jing-yuan-build)
- - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)
- - [In an act of auteur megalomania, Yoshi-P made the Final Fantasy 16 core team buy and watch Game of Thrones](https://www.pcgamer.com/in-an-act-of-auteur-megalomania-yoshi-p-made-the-final-fantasy-16-core-team-buy-and-watch-game-of-thrones)<!-- GAME:END -->
+ - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
