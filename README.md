@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
- - [Tears Of The Kingdom&#39;s Newspaper Quest Is One Of Its Best](https://kotaku.com/tears-of-the-kingdom-sightings-quest-stable-locations-1850466754)
- - [You Can Get Tears Of The Kingdom’s Best Shield Almost Immediately](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-shield-location-totk-1850432983)<!-- GAME:END -->
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [Kamatukis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734853/kamatukis-shrine-solution-puzzle-chest)
+ - [How to get the Depths Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734814/depths-armor-location-set-bonus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
