@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is adding AI image generator Firefly to Photoshop](https://www.theverge.com/2023/5/23/23734027/adobe-photoshop-generative-fill-ai-image-generator-firefly)
- - [How to watch Microsoft’s Build 2023 conference](https://www.theverge.com/2023/5/23/23732550/microsoft-build-how-to-watch-livestream)
- - [The best podcasts for women, from comedy to health and more](https://www.androidauthority.com/best-podcasts-for-women-3327557/)<!-- TECH:END -->
+ - [Uber teams up with Waymo to add robotaxis to its app](https://www.theverge.com/2023/5/23/23733547/uber-waymo-robotaxi-phoenix-delivery-autonomous-ridehail)
+ - [Inside the fight for Kickstarter’s union](https://www.theverge.com/23732782/kickstarter-union-organizing-good-enough-job-excerpt)
+ - [Apple&#39;s $13 billion Ireland tax saga lurches back to life after yet another EU appeal](https://appleinsider.com/articles/23/05/23/apples-13-billion-ireland-tax-saga-lurches-back-to-life-after-yet-another-eu-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
