@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logic Pro for the iPad is very fun with very few compromises](https://www.theverge.com/23734180/apple-logic-pro-ipad-review)
- - [Final Cut Pro for the iPad is slick but limited](https://www.theverge.com/23734143/final-cut-pro-ipad-review)
- - [Peloton’s new subscriptions leave behind its pricey hardware](https://www.theverge.com/2023/5/23/23734329/peloton-app-subscription-tiers-fitness)<!-- TECH:END -->
+ - [Apple showcases finalists for 2023 Design Awards](https://appleinsider.com/articles/23/05/23/apple-showcases-finalists-for-2023-design-awards?utm_medium=rss)
+ - [Apple updates Final Cut Pro, Logic Pro, Motion, Compressor for Mac with support for iPad apps](https://appleinsider.com/articles/23/05/23/apple-updates-final-cut-pro-logic-pro-motion-compressor-for-mac-with-support-for-ipad-apps?utm_medium=rss)
+ - [Short on storage? The Samsung T7 2TB Portable SSD is at an all-time low price](https://www.androidauthority.com/samsung-t7-2tb-portable-ssd-deal-3328251/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
