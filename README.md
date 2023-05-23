@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple showcases finalists for 2023 Design Awards](https://appleinsider.com/articles/23/05/23/apple-showcases-finalists-for-2023-design-awards?utm_medium=rss)
- - [Apple updates Final Cut Pro, Logic Pro, Motion, Compressor for Mac with support for iPad apps](https://appleinsider.com/articles/23/05/23/apple-updates-final-cut-pro-logic-pro-motion-compressor-for-mac-with-support-for-ipad-apps?utm_medium=rss)
- - [Short on storage? The Samsung T7 2TB Portable SSD is at an all-time low price](https://www.androidauthority.com/samsung-t7-2tb-portable-ssd-deal-3328251/)<!-- TECH:END -->
+ - [This week&#39;s top 5 Apple deals at B&amp;H Photo offer up to $1,600 in cash savings](https://appleinsider.com/articles/23/05/23/this-weeks-top-5-apple-deals-at-bh-photo-offer-up-to-1600-in-cash-savings?utm_medium=rss)
+ - [Beats Studio Buds Plus review: Clearly Apple’s best buds for Android](https://www.androidauthority.com/beats-studio-buds-plus-review-3327695/)
+ - [There’s Finally a Way to Improve Cloud Container Registry Security](https://www.wired.com/story/container-registry-security-chainguard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
