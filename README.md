@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [Kamatukis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734853/kamatukis-shrine-solution-puzzle-chest)
- - [How to get the Depths Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734814/depths-armor-location-set-bonus)<!-- GAME:END -->
+ - [Ganos Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734862/ganos-shrine-puzzle-solution-chest-tabantha-sky-crystal-quest)
+ - [Destiny 2’s latest season kicks off with Kratos and The Last of Us crossover gear](https://www.polygon.com/23734839/destiny-2-season-deep-armor-skins-items-crossovers)
+ - [Sharing a Netflix password will now cost $7.99 a month per additional user](https://www.polygon.com/2023/5/23/23734930/netflix-password-sharing-details-and-pricing-may-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
