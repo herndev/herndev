@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Dark Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734661/dark-armor-location-hood-tunic-trousers)
- - [Summer 2023 showcase schedule: Every gaming publisher livestream and Summer Game Fest event](https://www.pcgamer.com/e3-schedule-2023-summer-game-fest-showcase)
- - [Netflix’s animated King Kong series absolutely covers Skull Island in monsters](https://www.polygon.com/2023/5/23/23734587/skull-island-king-kong-netflix-announcement-release-date)<!-- GAME:END -->
+ - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
+ - [Tears Of The Kingdom&#39;s Newspaper Quest Is One Of Its Best](https://kotaku.com/tears-of-the-kingdom-sightings-quest-stable-locations-1850466754)
+ - [You Can Get Tears Of The Kingdom’s Best Shield Almost Immediately](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-shield-location-totk-1850432983)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
