@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [The 16 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [A software update might be making Apple Watches green around the gills](https://www.androidauthority.com/apple-watch-green-tint-problem-3327960/)<!-- TECH:END -->
+ - [Adobe is adding AI image generator Firefly to Photoshop](https://www.theverge.com/2023/5/23/23734027/adobe-photoshop-generative-fill-ai-image-generator-firefly)
+ - [How to watch Microsoft’s Build 2023 conference](https://www.theverge.com/2023/5/23/23732550/microsoft-build-how-to-watch-livestream)
+ - [The best podcasts for women, from comedy to health and more](https://www.androidauthority.com/best-podcasts-for-women-3327557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
