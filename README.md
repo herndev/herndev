@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enjoy immersive gaming with 50% off the Razer Kraken headset](https://www.androidauthority.com/razer-kraken-gaming-headset-deal-3328823/)
- - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
- - [Poolside, co-founded by ex-GitHub CTO Jason Warner to build a &quot;subsystem&quot; for AI services like GitHub&#39;s Copilot and Replit&#39;s Ghostwriter, raised a $26M seed &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230524/p24#a230524p24)<!-- TECH:END -->
+ - [Play Games for PC Beta opens up to Europe and New Zealand](https://www.androidauthority.com/play-games-for-pc-beta-expansion-3328860/)
+ - [You can finally view all your saved Wi-Fi passwords in the latest Windows 11 preview](https://www.theverge.com/2023/5/24/23736197/microsoft-windows-11-wifi-passwords-insider-preview)
+ - [Sources: some Meta employees say important work has been stalled, including its product roadmap, as the final round of layoffs announced in March wraps up &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p26#a230524p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
