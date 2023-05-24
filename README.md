@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok CEO Shou Chew says Oracle has begun reviewing TikTok&#39;s source code and the app is &quot;on track&quot; to have all US user data hosted and overseen by Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p2#a230524p2)
- - [Multilingual language models may not be effective tools to moderate content on social networks due the systems&#39; shortcomings in detecting harmful content &lpar;Wired&rpar;](http://www.techmeme.com/230524/p1#a230524p1)
- - [Canon has a new mirrorless camera that feels straight out of 2013](https://www.theverge.com/2023/5/24/23734855/canon-eos-r100-mirrorless-camera-digital-rebel-price-availability-specs)<!-- TECH:END -->
+ - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)
+ - [Nvidia CEO Jensen Huang says US chip export controls has put the US tech industry at risk of &quot;enormous damage&quot;, as Chinese firms start building their own chips &lpar;Financial Times&rpar;](http://www.techmeme.com/230524/p4#a230524p4)
+ - [Samsung Galaxy Watch 6 Classic renders leak: The rotating bezel is back](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-design-3328567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
