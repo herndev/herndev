@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NYC college professor Shellyne Rodriguez who threatened Post reporter is fired](http://9gag.com/gag/anzEqoB)
- - ⏩ [Id like to move to her class please](http://9gag.com/gag/axoOxn1)
- - 👉 [W w w would](http://9gag.com/gag/a5Xz4DV)<!-- MEMES:END -->
+ - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
+ - 👉 [Fan wants Lockpicking Lawyer to open up her package](http://9gag.com/gag/aoKLzzx)<!-- MEMES:END -->
 
 ---
 
