@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)
- - [Logitech’s new G Pro X 2 gaming headset has graphene audio drivers](https://www.theverge.com/2023/5/24/23733249/logitech-g-pro-x-2-gaming-headset-graphene-audio-drivers-release-date-pricing)
- - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)<!-- TECH:END -->
+ - [The biggest features missing from Final Cut Pro for iPad at launch](https://appleinsider.com/articles/23/05/23/the-biggest-features-missing-from-final-cut-pro-for-ipad-at-launch?utm_medium=rss)
+ - [Sources, reports, and analysis: Chinese hackers targeted the Kenyan government from late 2019 until at least 2022 to find information on debt owed to China &lpar;Reuters&rpar;](http://www.techmeme.com/230524/p8#a230524p8)
+ - [European gaming giant Embracer says a &quot;groundbreaking&quot; partnership worth $2B+ has collapsed and lowers its financial forecasts, sending shares crashing by 40%+ &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/230524/p7#a230524p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
