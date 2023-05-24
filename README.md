@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
- - ⏩ [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
+ - 💣 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
+ - 👉 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)<!-- MEMES:END -->
 
 ---
 
