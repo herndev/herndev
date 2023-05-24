@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #704: Wednesday, May 24](https://www.pcgamer.com/wordle-today-hint-answer-704-may-24)
  - [It&#39;s real: Windows 11 will soon let you control RGB gear without those annoying apps](https://www.pcgamer.com/its-real-windows-11-will-soon-let-you-control-rgb-gear-without-those-annoying-apps)
- - [That Sad Zelda Trailer Was Based On A Japanese Amazon Review](https://kotaku.com/zelda-tears-kingdom-trailer-commercial-japan-totk-ad-1850467900)
- - [The Next Total War Game Has Been Announced](https://kotaku.com/total-war-pharaoh-sega-creative-assembly-announced-new-1850467750)<!-- GAME:END -->
+ - [That Sad Zelda Trailer Was Based On A Japanese Amazon Review](https://kotaku.com/zelda-tears-kingdom-trailer-commercial-japan-totk-ad-1850467900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
