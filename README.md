@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP Cortana: Windows 11 is getting a new AI &#39;personal assistant&#39;](https://www.pcgamer.com/windows-11-copilot-ai-announcement)
- - [PlayStation-Inspired Cosmetics Are Coming To Destiny 2](https://kotaku.com/destiny-2-playstation-collab-season-of-the-deep-store-1850467565)
- - [PlayStation CEO Says Its Games Still Won&#39;t Come To PC On Day One](https://kotaku.com/playstation-sony-final-fantasy-16-ps5-exclusive-pc-1850467525)<!-- GAME:END -->
+ - [The Next Total War Game Has Been Announced](https://kotaku.com/total-war-pharaoh-sega-creative-assembly-announced-new-1850467750)
+ - [League of Legends pros may go on strike over proposed rule changes](https://www.pcgamer.com/league-of-legends-pros-may-go-on-strike-over-proposed-rule-changes)
+ - [Turakamik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734302/turakamik-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
