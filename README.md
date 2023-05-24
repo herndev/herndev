@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clone High’s writers explain what happened to Gandhi and their ‘trickiest’ episode yet](https://www.polygon.com/23735051/clone-high-gandhi-season-2-episode-1-reboot-max-streaming)
- - [Fallout was nearly called &#39;Warriors of the Apocalypse&#39;, &#39;Radstorm&#39;, &#39;Moribund World&#39; and so many other terrible names](https://www.pcgamer.com/fallout-was-nearly-called-warriors-of-the-apocalypse-radstorm-moribund-world-and-so-many-other-terrible-names)
- - [This Diablo IV-themed PC gear reminded me how much companies love slapping a fan tax onto existing products](https://www.pcgamer.com/this-diablo-iv-themed-pc-gear-reminded-me-how-much-companies-love-slapping-a-fan-tax-onto-existing-products)<!-- GAME:END -->
+ - [Star Trek Resurgence understands what makes great Star Trek](https://www.polygon.com/reviews/23734741/star-trek-resurgence-review-gameplay-ps5-xbox-pc)
+ - [Where to buy the Nvidia RTX 4060 Ti](https://www.polygon.com/deals/23734907/nvidia-rtx-4060-ti-graphics-card-gpu-where-to-buy-newegg-best-buy)
+ - [D&amp;D Books Are About To Get More Expensive](https://kotaku.com/dungeons-and-dragons-d-d-rulebook-price-increase-wotc-1850469428)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
