@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Multilingual language models may not be effective tools to moderate content on social networks due the systems&#39; shortcomings in detecting harmful content &lpar;Wired&rpar;](http://www.techmeme.com/230524/p1#a230524p1)
  - [Canon has a new mirrorless camera that feels straight out of 2013](https://www.theverge.com/2023/5/24/23734855/canon-eos-r100-mirrorless-camera-digital-rebel-price-availability-specs)
- - [How to transfer data from Android to iPhone](https://www.androidauthority.com/transfer-data-android-to-iphone-3328493/)
- - [Sony says it sold ~600K PS VR2 units during the first six weeks of availability since launching on February 22, 8% more than PS VR sales six weeks from launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230523/p54#a230523p54)<!-- TECH:END -->
+ - [How to transfer data from Android to iPhone](https://www.androidauthority.com/transfer-data-android-to-iphone-3328493/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
