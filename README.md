@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD’s new $269 Radeon RX 7600 GPU targets the 1080p ‘sweet spot’](https://www.theverge.com/2023/5/24/23735679/amd-radeon-rx-7600-gpu-rdna3-specs-price-release-launch)
- - [AMD’s and Nvidia’s latest sub-$400 GPUs fail to push the bar on 1440p gaming](https://www.theverge.com/2023/5/24/23734022/nvidia-rtx-4060-ti-amd-rx-7600-gpu-graphics-card-benchmark-test)
- - [How to watch Sony’s 2023 PlayStation Showcase](https://www.theverge.com/2023/5/24/23732666/playstation-showcase-2023-date-live-stream-twitch-youtube-watch-how-to)<!-- TECH:END -->
+ - [Deals: Apple Watch SE $149, $100 off M2 Apple Mac mini, $300 off M2 Max MacBook Pro &amp; more](https://appleinsider.com/articles/23/05/24/deals-apple-watch-se-149-100-off-m2-apple-mac-mini-300-off-m2-max-macbook-pro-more?utm_medium=rss)
+ - [Opera is getting its own AI side panel to match Edge](https://www.theverge.com/2023/5/24/23735673/opera-ai-aria-side-panel-edge)
+ - [Apple’s M1-equipped iPad Air is down to its best price to date](https://www.theverge.com/good-deals/2023/5/24/23733718/apple-ipad-air-m1-paramount-plus-trial-anker-magsafe-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
