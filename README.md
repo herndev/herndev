@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - ⏩ [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - 👉 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)<!-- MEMES:END -->
+ - 💣 [The cake](http://9gag.com/gag/avQxYBb)
+ - ⏩ [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
 
