@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft reboots its troubled Prince of Persia remake](https://www.polygon.com/23736045/prince-of-persia-sands-of-time-remake-delay-reboot)
- - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)
- - [We need to talk about all the fans, hard drives and boxes we&#39;re hoarding](https://www.pcgamer.com/we-need-to-talk-about-all-the-fans-hard-drives-and-boxes-were-hoarding)<!-- GAME:END -->
+ - [Tears of the Kingdom’s Korok Mask Will Help You Find Its 1,000 Hidden Seeds](https://kotaku.com/zelda-tears-of-the-kingdom-totk-korok-mask-location-1850470661)
+ - [Tadarok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23735882/tadarok-shrine-fire-water-location-walkthrough)
+ - [Prince of Persia Remake Development Starting Over Years After Announcement](https://kotaku.com/prince-of-persia-sands-of-time-remake-delay-ubisoft-1850470554)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
