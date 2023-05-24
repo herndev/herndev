@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beat Saber launches on PS VR2 today with new Queen Music Pack](https://blog.playstation.com/2023/05/24/beat-saber-launches-on-ps-vr2-today-with-new-queen-music-pack/)
- - [Bungie unveils Marathon](https://blog.playstation.com/2023/05/24/bungie-unveils-marathon/)
- - [Final Fantasy XVI&#39;s Newest Trailer Shows More Of Its Dark Story](https://kotaku.com/final-fantasy-xvi-16-trailer-release-date-ps5-exclusive-1850471889)<!-- GAME:END -->
+ - [Cayde-6 returns in Destiny 2: The Final Shape, Nathan Fillion reprising role](https://www.pcgamer.com/cayde-6-lives-in-destiny-2-the-final-shape-nathan-fillion-reprising-role)
+ - [Sony Announces New Handheld, And Sorry, It&#39;s Not The Vita 2](https://kotaku.com/sony-ps5-portable-vita-streaming-switch-handheld-1850472231)
+ - [PlayStation drops a huge 11 minute Spider-Man 2 gameplay reveal](https://www.pcgamer.com/playstation-drops-a-huge-11-minute-spider-man-2-gameplay-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
