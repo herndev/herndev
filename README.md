@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stunned Embracer CEO has to deliver financial report right after $2 billion mystery deal falls apart: &#39;It&#39;s been a rough night&#39;](https://www.pcgamer.com/stunned-embracer-ceo-has-to-deliver-financial-report-right-after-dollar2-billion-mystery-deal-falls-apart-its-been-a-rough-night)
- - [PlayStation Showcase 2023: All the news, announcements, and trailers](https://www.polygon.com/23732974/playstation-showcase-2023-news-announcements)
- - [How to beat Gloom Hands in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722367/gloom-hands-red-hands-gloom-spawn-how-to-beat-locations)<!-- GAME:END -->
+ - [Beat Saber launches on PS VR2 today with new Queen Music Pack](https://blog.playstation.com/2023/05/24/beat-saber-launches-on-ps-vr2-today-with-new-queen-music-pack/)
+ - [Bungie unveils Marathon](https://blog.playstation.com/2023/05/24/bungie-unveils-marathon/)
+ - [Final Fantasy XVI&#39;s Newest Trailer Shows More Of Its Dark Story](https://kotaku.com/final-fantasy-xvi-16-trailer-release-date-ps5-exclusive-1850471889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
