@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unknown tracker alerts: What are they, and why are they useful?](https://www.androidauthority.com/unknown-tracker-alerts-3328891/)
- - [Assassin’s Creed Mirage due out this fall](https://www.theverge.com/23736189/assassins-creed-mirage-trailer-release-date-playstation-showcase)
- - [Android Cinematic wallpapers: Availability and details](https://www.androidauthority.com/android-cinematic-wallpapers-3328906/)<!-- TECH:END -->
+ - [Beat Saber will be available Wednesday for PlayStation VR2](https://www.theverge.com/23733863/playstation-showcase-ps5-psvr-2-beat-saber-resident-evil-4-vr-mode)
+ - [Apple&#39;s 16-inch MacBook Pro with 32GB RAM drops to record low $1,959, plus save $80 on AppleCare](https://appleinsider.com/articles/23/05/24/apples-16-inch-macbook-pro-with-32gb-ram-drops-to-record-low-1959-plus-save-80-on-applecare?utm_medium=rss)
+ - [PlayStation Showcase 2023: all the news from Sony’s big gaming event](https://www.theverge.com/2023/5/24/23734469/sony-playstation-showcase-2023-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
