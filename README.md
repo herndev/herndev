@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to transfer photos from Android to iPhone](https://www.androidauthority.com/transfer-photos-android-to-iphone-3328321/)
- - [Netflix’s password-sharing crackdown is here — and it costs $7.99 per month](https://www.theverge.com/2023/5/23/23734725/netflix-password-sharing-us-pricing-streaming)
- - [Samsung demos multiple OLED panels, including a long rollable display and one that measures heart rate, blood pressure, and stress levels from a user&#39;s finger &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230523/p50#a230523p50)<!-- TECH:END -->
+ - [Eddy Cue says MLS deal was about Apple sticking to things it could do well](https://appleinsider.com/articles/23/05/24/eddy-cue-says-mls-deal-was-about-apple-sticking-to-things-it-could-do-well?utm_medium=rss)
+ - [PlayStation is betting big on new franchises and live service games](https://www.theverge.com/2023/5/23/23735274/sony-playstation-new-franchises-live-service-games-business)
+ - [Best Deals on Robot Vacuums: Big Discounts on Roomba, Roborock, Eufy and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
