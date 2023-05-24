@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let the games begin](http://9gag.com/gag/ajVZQpG)
- - ⏩ [Just say `hi`](http://9gag.com/gag/a7q2LLb)
- - 👉 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)<!-- MEMES:END -->
+ - 💣 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)
+ - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
+ - 👉 [Huh](http://9gag.com/gag/aVbZGnO)<!-- MEMES:END -->
 
 ---
 
