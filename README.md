@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
+ - ⏩ [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - 👉 [Fake news debunked](http://9gag.com/gag/ago4yDg)<!-- MEMES:END -->
 
 ---
 
