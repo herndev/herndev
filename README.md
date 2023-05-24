@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - ⏩ [Damn nature](http://9gag.com/gag/aKEewPb)
- - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
+ - 💣 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
+ - ⏩ [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
+ - 👉 [A ghost from the past. He is still alive and fighting as hell](http://9gag.com/gag/ago4vX1)<!-- MEMES:END -->
 
 ---
 
