@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
- - 👉 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)<!-- MEMES:END -->
+ - 💣 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
+ - ⏩ [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 ---
 
