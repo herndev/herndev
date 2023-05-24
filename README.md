@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 💣 [The French, the f*ggots of Europe](http://9gag.com/gag/abvByqr)
  - ⏩ [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - 👉 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 👉 [ChadVille](http://9gag.com/gag/ago4y0r)<!-- MEMES:END -->
 
 ---
 
