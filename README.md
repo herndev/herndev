@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An influx of digital nomads, mostly from the US, in Medell&amp;iacute;n, Mexico City, and other cities is boosting local economies, as locals complain of being priced out &lpar;Stephen Witt/Rest of World&rpar;](http://www.techmeme.com/230524/p11#a230524p11)
- - [Samsung’s 2023 smart monitors aim to do it all](https://www.theverge.com/2023/5/24/23735566/samsung-smart-monitor-2023-m80c-m70c-m50c-tv)
- - [Logitech announces the $699 Logi Dock Flex, an all-in-one USB-C docking station with an 8-inch touchscreen and support for two 4K monitors, coming in fall 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230524/p10#a230524p10)<!-- TECH:END -->
+ - [US filing: South Korea, Samsung, and SK Hynix ask the US to review its chip subsidy criteria, concerned over the impact on limiting chip investment in China &lpar;Soo-Hyang Choi/Reuters&rpar;](http://www.techmeme.com/230524/p13#a230524p13)
+ - [Samsung targeting iPhone market segment in Western Europe, as smartphone market revives](https://appleinsider.com/articles/23/05/24/samsung-targeting-iphone-market-segment-in-western-europe-as-smartphone-market-revives?utm_medium=rss)
+ - [How to get started using Apple&#39;s Developer app on iPhone ahead of WWDC](https://appleinsider.com/inside/wwdc/tips/how-to-get-started-using-apples-developer-app-on-iphone-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
