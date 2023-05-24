@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
- - ⏩ [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - 👉 [Finally got banned by China](http://9gag.com/gag/aDYVALK)<!-- MEMES:END -->
+ - 💣 [Germans are probably working](http://9gag.com/gag/aA02Y2R)
+ - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - 👉 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)<!-- MEMES:END -->
 
 ---
 
