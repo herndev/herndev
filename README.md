@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
- - ⏩ [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
- - 👉 [A ghost from the past. He is still alive and fighting as hell](http://9gag.com/gag/ago4vX1)<!-- MEMES:END -->
+ - ⏩ [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
+ - 👉 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
 
 ---
 
