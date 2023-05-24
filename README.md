@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a sane society.](http://9gag.com/gag/a9q2j4m)
- - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
- - 👉 [Do people think they are alone on earth ? In Jordan thirteen injured and one dead after a newlywed couple decided to stop in a tunnel to celebrate the start of a new family](http://9gag.com/gag/aMEv1WM)<!-- MEMES:END -->
+ - 💣 [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
+ - 👉 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)<!-- MEMES:END -->
 
 ---
 
