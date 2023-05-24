@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)
- - [Nvidia CEO Jensen Huang says US chip export controls has put the US tech industry at risk of &quot;enormous damage&quot;, as Chinese firms start building their own chips &lpar;Financial Times&rpar;](http://www.techmeme.com/230524/p4#a230524p4)
- - [Samsung Galaxy Watch 6 Classic renders leak: The rotating bezel is back](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-design-3328567/)<!-- TECH:END -->
+ - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)
+ - [Logitech’s new G Pro X 2 gaming headset has graphene audio drivers](https://www.theverge.com/2023/5/24/23733249/logitech-g-pro-x-2-gaming-headset-graphene-audio-drivers-release-date-pricing)
+ - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
