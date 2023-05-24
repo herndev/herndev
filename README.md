@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
- - ⏩ [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
- - 👉 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
+ - 💣 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - ⏩ [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - 👉 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
 
 ---
 
