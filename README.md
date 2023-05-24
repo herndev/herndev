@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s upcoming desktop AI is a pop-up away from becoming an even more annoying Clippy](https://www.pcgamer.com/microsofts-upcoming-desktop-ai-is-a-pop-up-away-from-becoming-an-even-more-annoying-clippy)
- - [As someone who grew up playing DOOM and Quake, Warhammer 40K: Boltgun is like returning home](https://www.pcgamer.com/as-someone-who-grew-up-playing-doom-and-quake-warhammer-40k-boltgun-is-like-returning-home)
- - [Watch Sony’s new PlayStation Showcase](https://www.polygon.com/23734649/playstation-showcase-2023-time-where-to-watch)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.34 adds 3 new cars, Engine Swap, extra Cafe Menus and more](https://blog.playstation.com/2023/05/24/gran-turismo-7-update-1-34-adds-3-new-cars-engine-swap-extra-cafe-menus-and-more/)
+ - [Witcher showrunner says they had the choice to end the show after Cavill&#39;s departure, but there were &#39;too many stories left to tell&#39;](https://www.pcgamer.com/witcher-showrunner-says-they-had-the-choice-to-end-the-show-after-cavills-departure-but-there-were-too-many-stories-left-to-tell)
+ - [Bill Gates reckons AI spells the end for Amazon and searching for stuff on Google](https://www.pcgamer.com/bill-gates-reckons-ai-spells-the-end-for-amazon-and-searching-for-stuff-on-google)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
