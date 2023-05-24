@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [The surgeon general’s wake-up call for social networks](https://www.theverge.com/2023/5/24/23735741/surgeon-general-social-network-mental-health-report)
- - [Linda Yaccarino&#39;s main challenge at Twitter will be improving advertiser relationships while keeping Elon Musk happy; sources say she wants to raise her profile &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230524/p19#a230524p19)<!-- TECH:END -->
+ - [Mobvoi TicWatch Pro 5 review: timing is everything](https://www.theverge.com/23733359/mobvoi-ticwatch-pro-5-review-wear-os-3-smartwatch-wearables)
+ - [A day on the Vivobook 15](https://www.theverge.com/23730552/asus-vivobook-15-intel-11th-gen-15-inch-specs-features-price)
+ - [People could be ‘harmed or killed’ by AI without action, says former Google CEO](https://www.androidauthority.com/former-google-ceo-ai-opinion-3328744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
