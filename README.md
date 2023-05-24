@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple Watch SE $149, $100 off M2 Apple Mac mini, $300 off M2 Max MacBook Pro &amp; more](https://appleinsider.com/articles/23/05/24/deals-apple-watch-se-149-100-off-m2-apple-mac-mini-300-off-m2-max-macbook-pro-more?utm_medium=rss)
- - [Opera is getting its own AI side panel to match Edge](https://www.theverge.com/2023/5/24/23735673/opera-ai-aria-side-panel-edge)
- - [Apple’s M1-equipped iPad Air is down to its best price to date](https://www.theverge.com/good-deals/2023/5/24/23733718/apple-ipad-air-m1-paramount-plus-trial-anker-magsafe-charger-deal-sale)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [The surgeon general’s wake-up call for social networks](https://www.theverge.com/2023/5/24/23735741/surgeon-general-social-network-mental-health-report)
+ - [Linda Yaccarino&#39;s main challenge at Twitter will be improving advertiser relationships while keeping Elon Musk happy; sources say she wants to raise her profile &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230524/p19#a230524p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
