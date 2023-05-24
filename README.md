@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - ⏩ [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - 👉 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 💣 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - ⏩ [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
+ - 👉 [Uncle Roger was banned on all Chinese platforms over this comedy routine.](http://9gag.com/gag/aL1AqMv)<!-- MEMES:END -->
 
 ---
 
