@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cake](http://9gag.com/gag/avQxYBb)
- - ⏩ [Can you all see me now](http://9gag.com/gag/a041v8v)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 💣 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
+ - ⏩ [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - 👉 [Finally got banned by China](http://9gag.com/gag/aDYVALK)<!-- MEMES:END -->
 
 ---
 
