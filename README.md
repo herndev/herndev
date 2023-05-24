@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you all see me now](http://9gag.com/gag/a041v8v)
- - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
- - 👉 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)<!-- MEMES:END -->
+ - 💣 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - ⏩ [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - 👉 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)<!-- MEMES:END -->
 
 ---
 
