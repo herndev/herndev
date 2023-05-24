@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery apologizes for crediting writers and directors as ‘creators’ on Max](https://www.theverge.com/2023/5/24/23736143/hbo-max-credits-warner-bros-discovery)
- - [What is Google Maps Immersive View and how does it work?](https://www.androidauthority.com/what-is-google-maps-immersive-view-3328866/)
- - [Microsoft formally files its appeal against the UK CMA&#39;s decision to block its $69B Activision deal; the judicial process could take as long as nine months &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230524/p27#a230524p27)<!-- TECH:END -->
+ - [Unknown tracker alerts: What are they, and why are they useful?](https://www.androidauthority.com/unknown-tracker-alerts-3328891/)
+ - [Assassin’s Creed Mirage due out this fall](https://www.theverge.com/23736189/assassins-creed-mirage-trailer-release-date-playstation-showcase)
+ - [Android Cinematic wallpapers: Availability and details](https://www.androidauthority.com/android-cinematic-wallpapers-3328906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
