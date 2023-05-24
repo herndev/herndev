@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
- - 👉 [Fan wants Lockpicking Lawyer to open up her package](http://9gag.com/gag/aoKLzzx)<!-- MEMES:END -->
+ - 💣 [I&#39;ve also lost &lpar;potential&rpar; family due to her X-rated job](http://9gag.com/gag/aeQxX4O)
+ - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
+ - 👉 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)<!-- MEMES:END -->
 
 ---
 
