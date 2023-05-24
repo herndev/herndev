@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobvoi TicWatch Pro 5 review: timing is everything](https://www.theverge.com/23733359/mobvoi-ticwatch-pro-5-review-wear-os-3-smartwatch-wearables)
- - [A day on the Vivobook 15](https://www.theverge.com/23730552/asus-vivobook-15-intel-11th-gen-15-inch-specs-features-price)
- - [People could be ‘harmed or killed’ by AI without action, says former Google CEO](https://www.androidauthority.com/former-google-ceo-ai-opinion-3328744/)<!-- TECH:END -->
+ - [Logitech tries to fix hotdesking headaches with $699 Logi Dock Flex](https://appleinsider.com/articles/23/05/24/logitech-tries-to-fix-hotdesking-headaches-with-699-logi-dock-flex?utm_medium=rss)
+ - [The Samsung Galaxy Watch 5 Pro drops to $1 off its all-time low price](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-deal-3328775/)
+ - [TCL 40 XE 5G review: All bang, few bucks](https://www.androidauthority.com/tcl-40-xe-5g-review-3323294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
