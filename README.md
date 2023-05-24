@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to drop limits on 15W wireless chargers for iPhone 15](https://appleinsider.com/articles/23/05/24/apple-rumored-to-drop-limits-on-15w-wireless-chargers-for-iphone-15?utm_medium=rss)
- - [Istanbul-based AI marketing startup Insider raised $105M at a $2B valuation, up from $1.22B during its $121M Series D in March 2022, taking its funding to $274M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p15#a230524p15)
- - [Figure, which is developing a humanoid robot that recently took its first step, raised a $70M Series A led by Parkway, following a self-financed $100M seed &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230524/p14#a230524p14)<!-- TECH:END -->
+ - [AMD’s new $269 Radeon RX 7600 GPU targets the 1080p ‘sweet spot’](https://www.theverge.com/2023/5/24/23735679/amd-radeon-rx-7600-gpu-rdna3-specs-price-release-launch)
+ - [AMD’s and Nvidia’s latest sub-$400 GPUs fail to push the bar on 1440p gaming](https://www.theverge.com/2023/5/24/23734022/nvidia-rtx-4060-ti-amd-rx-7600-gpu-graphics-card-benchmark-test)
+ - [How to watch Sony’s 2023 PlayStation Showcase](https://www.theverge.com/2023/5/24/23732666/playstation-showcase-2023-date-live-stream-twitch-youtube-watch-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
