@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play Games for PC Beta opens up to Europe and New Zealand](https://www.androidauthority.com/play-games-for-pc-beta-expansion-3328860/)
- - [You can finally view all your saved Wi-Fi passwords in the latest Windows 11 preview](https://www.theverge.com/2023/5/24/23736197/microsoft-windows-11-wifi-passwords-insider-preview)
- - [Sources: some Meta employees say important work has been stalled, including its product roadmap, as the final round of layoffs announced in March wraps up &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p26#a230524p26)<!-- TECH:END -->
+ - [Warner Bros. Discovery apologizes for crediting writers and directors as ‘creators’ on Max](https://www.theverge.com/2023/5/24/23736143/hbo-max-credits-warner-bros-discovery)
+ - [What is Google Maps Immersive View and how does it work?](https://www.androidauthority.com/what-is-google-maps-immersive-view-3328866/)
+ - [Microsoft formally files its appeal against the UK CMA&#39;s decision to block its $69B Activision deal; the judicial process could take as long as nine months &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230524/p27#a230524p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
