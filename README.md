@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cayde-6 returns in Destiny 2: The Final Shape, Nathan Fillion reprising role](https://www.pcgamer.com/cayde-6-lives-in-destiny-2-the-final-shape-nathan-fillion-reprising-role)
- - [Sony Announces New Handheld, And Sorry, It&#39;s Not The Vita 2](https://kotaku.com/sony-ps5-portable-vita-streaming-switch-handheld-1850472231)
- - [PlayStation drops a huge 11 minute Spider-Man 2 gameplay reveal](https://www.pcgamer.com/playstation-drops-a-huge-11-minute-spider-man-2-gameplay-reveal)<!-- GAME:END -->
+ - [Sequel To Capcom&#39;s Beloved Action-RPG Will Have You Killing Dragons On PS5](https://kotaku.com/dragons-dogma-playstation-capcom-ps5-xbox-rpg-skyrim-1850472500)
+ - [How to get the Awakening Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736508/awakening-armor-locations-head-chest-legs)
+ - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
