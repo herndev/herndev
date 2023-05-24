@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These AMD Chromebook processors promise big battery life](https://www.theverge.com/2023/5/23/23734716/amd-ryzen-athlon-new-chromebook-processors)
- - [What is a passkey, and how does it work?](https://www.androidauthority.com/what-is-a-passkey-and-how-does-it-work-3328378/)
- - [Elliptic: some Chinese chemical suppliers accept cryptocurrency for fentanyl ingredients and the majority use &quot;three specific exchanges&quot; based outside of China &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230523/p49#a230523p49)<!-- TECH:END -->
+ - [How to transfer photos from Android to iPhone](https://www.androidauthority.com/transfer-photos-android-to-iphone-3328321/)
+ - [Netflix’s password-sharing crackdown is here — and it costs $7.99 per month](https://www.theverge.com/2023/5/23/23734725/netflix-password-sharing-us-pricing-streaming)
+ - [Samsung demos multiple OLED panels, including a long rollable display and one that measures heart rate, blood pressure, and stress levels from a user&#39;s finger &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230523/p50#a230523p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
