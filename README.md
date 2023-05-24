@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
- - ⏩ [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
- - 👉 [Fake news debunked](http://9gag.com/gag/ago4yDg)<!-- MEMES:END -->
+ - 💣 [In a sane society.](http://9gag.com/gag/a9q2j4m)
+ - ⏩ [Huh](http://9gag.com/gag/aVbZGnO)
+ - 👉 [Do people think they are alone on earth ? In Jordan thirteen injured and one dead after a newlywed couple decided to stop in a tunnel to celebrate the start of a new family](http://9gag.com/gag/aMEv1WM)<!-- MEMES:END -->
 
 ---
 
