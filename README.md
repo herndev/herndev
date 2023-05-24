@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech tries to fix hotdesking headaches with $699 Logi Dock Flex](https://appleinsider.com/articles/23/05/24/logitech-tries-to-fix-hotdesking-headaches-with-699-logi-dock-flex?utm_medium=rss)
- - [The Samsung Galaxy Watch 5 Pro drops to $1 off its all-time low price](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-deal-3328775/)
- - [TCL 40 XE 5G review: All bang, few bucks](https://www.androidauthority.com/tcl-40-xe-5g-review-3323294/)<!-- TECH:END -->
+ - [Enjoy immersive gaming with 50% off the Razer Kraken headset](https://www.androidauthority.com/razer-kraken-gaming-headset-deal-3328823/)
+ - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
+ - [Poolside, co-founded by ex-GitHub CTO Jason Warner to build a &quot;subsystem&quot; for AI services like GitHub&#39;s Copilot and Replit&#39;s Ghostwriter, raised a $26M seed &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/230524/p24#a230524p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
