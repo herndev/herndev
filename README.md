@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Move over, modern technology: Here&#39;s Doom running on the teletext TV information service](https://www.pcgamer.com/move-over-modern-technology-heres-doom-running-on-the-teletext-tv-information-service)
- - [Jikais Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736198/jikais-shrine-location-jailbreak-walkthrough)
- - [Tears of the Kingdom’s Korok Mask Will Help You Find Its 1,000 Hidden Seeds](https://kotaku.com/zelda-tears-of-the-kingdom-totk-korok-mask-location-1850470661)<!-- GAME:END -->
+ - [Stunned Embracer CEO has to deliver financial report right after $2 billion mystery deal falls apart: &#39;It&#39;s been a rough night&#39;](https://www.pcgamer.com/stunned-embracer-ceo-has-to-deliver-financial-report-right-after-dollar2-billion-mystery-deal-falls-apart-its-been-a-rough-night)
+ - [PlayStation Showcase 2023: All the news, announcements, and trailers](https://www.polygon.com/23732974/playstation-showcase-2023-news-announcements)
+ - [How to beat Gloom Hands in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722367/gloom-hands-red-hands-gloom-spawn-how-to-beat-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
