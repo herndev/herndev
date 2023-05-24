@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears Of The Kingdom’s Horses Are Invaluable, Here&#39;s How To Tame Them](https://kotaku.com/zelda-tears-of-the-kingdom-horse-golden-location-amiibo-1850469890)
- - [Destiny 2 Deep Dive secrets and how it works](https://www.pcgamer.com/destiny-2-deep-dive-secrets)
- - [Former DC Universe Online chief is heading up the creation of a brand-new Warhammer MMO](https://www.pcgamer.com/former-dc-universe-online-chief-is-heading-up-the-creation-of-a-brand-new-warhammer-mmo)<!-- GAME:END -->
+ - [Ubisoft reboots its troubled Prince of Persia remake](https://www.polygon.com/23736045/prince-of-persia-sands-of-time-remake-delay-reboot)
+ - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)
+ - [We need to talk about all the fans, hard drives and boxes we&#39;re hoarding](https://www.pcgamer.com/we-need-to-talk-about-all-the-fans-hard-drives-and-boxes-were-hoarding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
