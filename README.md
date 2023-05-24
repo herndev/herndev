@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest features missing from Final Cut Pro for iPad at launch](https://appleinsider.com/articles/23/05/23/the-biggest-features-missing-from-final-cut-pro-for-ipad-at-launch?utm_medium=rss)
- - [Sources, reports, and analysis: Chinese hackers targeted the Kenyan government from late 2019 until at least 2022 to find information on debt owed to China &lpar;Reuters&rpar;](http://www.techmeme.com/230524/p8#a230524p8)
- - [European gaming giant Embracer says a &quot;groundbreaking&quot; partnership worth $2B+ has collapsed and lowers its financial forecasts, sending shares crashing by 40%+ &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/230524/p7#a230524p7)<!-- TECH:END -->
+ - [An influx of digital nomads, mostly from the US, in Medell&amp;iacute;n, Mexico City, and other cities is boosting local economies, as locals complain of being priced out &lpar;Stephen Witt/Rest of World&rpar;](http://www.techmeme.com/230524/p11#a230524p11)
+ - [Samsung’s 2023 smart monitors aim to do it all](https://www.theverge.com/2023/5/24/23735566/samsung-smart-monitor-2023-m80c-m70c-m50c-tv)
+ - [Logitech announces the $699 Logi Dock Flex, an all-in-one USB-C docking station with an 8-inch touchscreen and support for two 4K monitors, coming in fall 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230524/p10#a230524p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
