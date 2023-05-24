@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek Resurgence understands what makes great Star Trek](https://www.polygon.com/reviews/23734741/star-trek-resurgence-review-gameplay-ps5-xbox-pc)
- - [Where to buy the Nvidia RTX 4060 Ti](https://www.polygon.com/deals/23734907/nvidia-rtx-4060-ti-graphics-card-gpu-where-to-buy-newegg-best-buy)
- - [D&amp;D Books Are About To Get More Expensive](https://kotaku.com/dungeons-and-dragons-d-d-rulebook-price-increase-wotc-1850469428)<!-- GAME:END -->
+ - [Tears Of The Kingdom’s Horses Are Invaluable, Here&#39;s How To Tame Them](https://kotaku.com/zelda-tears-of-the-kingdom-horse-golden-location-amiibo-1850469890)
+ - [Destiny 2 Deep Dive secrets and how it works](https://www.pcgamer.com/destiny-2-deep-dive-secrets)
+ - [Former DC Universe Online chief is heading up the creation of a brand-new Warhammer MMO](https://www.pcgamer.com/former-dc-universe-online-chief-is-heading-up-the-creation-of-a-brand-new-warhammer-mmo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
