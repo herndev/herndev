@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans are probably working](http://9gag.com/gag/aA02Y2R)
- - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
- - 👉 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)<!-- MEMES:END -->
+ - 💣 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - ⏩ [Damn nature](http://9gag.com/gag/aKEewPb)
+ - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
 
 ---
 
