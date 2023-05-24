@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve also lost &lpar;potential&rpar; family due to her X-rated job](http://9gag.com/gag/aeQxX4O)
- - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
- - 👉 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)<!-- MEMES:END -->
+ - 💣 [Huh](http://9gag.com/gag/aVbZGnO)
+ - ⏩ [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - 👉 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
 
 ---
 
