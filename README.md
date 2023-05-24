@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.34 adds 3 new cars, Engine Swap, extra Cafe Menus and more](https://blog.playstation.com/2023/05/24/gran-turismo-7-update-1-34-adds-3-new-cars-engine-swap-extra-cafe-menus-and-more/)
- - [Witcher showrunner says they had the choice to end the show after Cavill&#39;s departure, but there were &#39;too many stories left to tell&#39;](https://www.pcgamer.com/witcher-showrunner-says-they-had-the-choice-to-end-the-show-after-cavills-departure-but-there-were-too-many-stories-left-to-tell)
- - [Bill Gates reckons AI spells the end for Amazon and searching for stuff on Google](https://www.pcgamer.com/bill-gates-reckons-ai-spells-the-end-for-amazon-and-searching-for-stuff-on-google)<!-- GAME:END -->
+ - [Clone High’s writers explain what happened to Gandhi and their ‘trickiest’ episode yet](https://www.polygon.com/23735051/clone-high-gandhi-season-2-episode-1-reboot-max-streaming)
+ - [Fallout was nearly called &#39;Warriors of the Apocalypse&#39;, &#39;Radstorm&#39;, &#39;Moribund World&#39; and so many other terrible names](https://www.pcgamer.com/fallout-was-nearly-called-warriors-of-the-apocalypse-radstorm-moribund-world-and-so-many-other-terrible-names)
+ - [This Diablo IV-themed PC gear reminded me how much companies love slapping a fan tax onto existing products](https://www.pcgamer.com/this-diablo-iv-themed-pc-gear-reminded-me-how-much-companies-love-slapping-a-fan-tax-onto-existing-products)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
