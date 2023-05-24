@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom’s Korok Mask Will Help You Find Its 1,000 Hidden Seeds](https://kotaku.com/zelda-tears-of-the-kingdom-totk-korok-mask-location-1850470661)
- - [Tadarok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23735882/tadarok-shrine-fire-water-location-walkthrough)
- - [Prince of Persia Remake Development Starting Over Years After Announcement](https://kotaku.com/prince-of-persia-sands-of-time-remake-delay-ubisoft-1850470554)<!-- GAME:END -->
+ - [Move over, modern technology: Here&#39;s Doom running on the teletext TV information service](https://www.pcgamer.com/move-over-modern-technology-heres-doom-running-on-the-teletext-tv-information-service)
+ - [Jikais Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736198/jikais-shrine-location-jailbreak-walkthrough)
+ - [Tears of the Kingdom’s Korok Mask Will Help You Find Its 1,000 Hidden Seeds](https://kotaku.com/zelda-tears-of-the-kingdom-totk-korok-mask-location-1850470661)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
