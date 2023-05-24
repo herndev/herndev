@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - ⏩ [Checkmate](http://9gag.com/gag/az2O07Z)
- - 👉 [Damn nature](http://9gag.com/gag/aKEewPb)<!-- MEMES:END -->
+ - 💣 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
+ - ⏩ [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
+ - 👉 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)<!-- MEMES:END -->
 
 ---
 
