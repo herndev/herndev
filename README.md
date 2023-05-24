@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US filing: South Korea, Samsung, and SK Hynix ask the US to review its chip subsidy criteria, concerned over the impact on limiting chip investment in China &lpar;Soo-Hyang Choi/Reuters&rpar;](http://www.techmeme.com/230524/p13#a230524p13)
- - [Samsung targeting iPhone market segment in Western Europe, as smartphone market revives](https://appleinsider.com/articles/23/05/24/samsung-targeting-iphone-market-segment-in-western-europe-as-smartphone-market-revives?utm_medium=rss)
- - [How to get started using Apple&#39;s Developer app on iPhone ahead of WWDC](https://appleinsider.com/inside/wwdc/tips/how-to-get-started-using-apples-developer-app-on-iphone-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rumored to drop limits on 15W wireless chargers for iPhone 15](https://appleinsider.com/articles/23/05/24/apple-rumored-to-drop-limits-on-15w-wireless-chargers-for-iphone-15?utm_medium=rss)
+ - [Istanbul-based AI marketing startup Insider raised $105M at a $2B valuation, up from $1.22B during its $121M Series D in March 2022, taking its funding to $274M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p15#a230524p15)
+ - [Figure, which is developing a humanoid robot that recently took its first step, raised a $70M Series A led by Parkway, following a self-financed $100M seed &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230524/p14#a230524p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
