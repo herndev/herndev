@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad shipments more than doubled in China for Q1 versus 2022](https://appleinsider.com/articles/23/05/24/ipad-shipments-more-than-doubled-in-china-for-q1-versus-2022?utm_medium=rss)
- - [Google launches the Mobile Vulnerability Rewards Program, a bug bounty program for its Android applications, offering rewards ranging from $500 to $30K &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230523/p52#a230523p52)
- - [Eddy Cue says MLS deal was about Apple sticking to things it could do well](https://appleinsider.com/articles/23/05/24/eddy-cue-says-mls-deal-was-about-apple-sticking-to-things-it-could-do-well?utm_medium=rss)<!-- TECH:END -->
+ - [How to transfer data from Android to iPhone](https://www.androidauthority.com/transfer-data-android-to-iphone-3328493/)
+ - [Sony says it sold ~600K PS VR2 units during the first six weeks of availability since launching on February 22, 8% more than PS VR sales six weeks from launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230523/p54#a230523p54)
+ - [Elon Musk&#39;s intent in buying Twitter apparently was not only to dismantle a traditional media tool but also to turn Twitter into a right-wing media heavyweight &lpar;Philip Bump/Washington Post&rpar;](http://www.techmeme.com/230523/p53#a230523p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
