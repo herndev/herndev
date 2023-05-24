@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canon has a new mirrorless camera that feels straight out of 2013](https://www.theverge.com/2023/5/24/23734855/canon-eos-r100-mirrorless-camera-digital-rebel-price-availability-specs)
  - [How to transfer data from Android to iPhone](https://www.androidauthority.com/transfer-data-android-to-iphone-3328493/)
- - [Sony says it sold ~600K PS VR2 units during the first six weeks of availability since launching on February 22, 8% more than PS VR sales six weeks from launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230523/p54#a230523p54)
- - [Elon Musk&#39;s intent in buying Twitter apparently was not only to dismantle a traditional media tool but also to turn Twitter into a right-wing media heavyweight &lpar;Philip Bump/Washington Post&rpar;](http://www.techmeme.com/230523/p53#a230523p53)<!-- TECH:END -->
+ - [Sony says it sold ~600K PS VR2 units during the first six weeks of availability since launching on February 22, 8% more than PS VR sales six weeks from launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230523/p54#a230523p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
