@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok CEO Shou Chew says Oracle has begun reviewing TikTok&#39;s source code and the app is &quot;on track&quot; to have all US user data hosted and overseen by Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p2#a230524p2)
  - [Multilingual language models may not be effective tools to moderate content on social networks due the systems&#39; shortcomings in detecting harmful content &lpar;Wired&rpar;](http://www.techmeme.com/230524/p1#a230524p1)
- - [Canon has a new mirrorless camera that feels straight out of 2013](https://www.theverge.com/2023/5/24/23734855/canon-eos-r100-mirrorless-camera-digital-rebel-price-availability-specs)
- - [How to transfer data from Android to iPhone](https://www.androidauthority.com/transfer-data-android-to-iphone-3328493/)<!-- TECH:END -->
+ - [Canon has a new mirrorless camera that feels straight out of 2013](https://www.theverge.com/2023/5/24/23734855/canon-eos-r100-mirrorless-camera-digital-rebel-price-availability-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
