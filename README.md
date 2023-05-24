@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)
- - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
- - 👉 [Huh](http://9gag.com/gag/aVbZGnO)<!-- MEMES:END -->
+ - 💣 [NYC college professor Shellyne Rodriguez who threatened Post reporter is fired](http://9gag.com/gag/anzEqoB)
+ - ⏩ [Id like to move to her class please](http://9gag.com/gag/axoOxn1)
+ - 👉 [W w w would](http://9gag.com/gag/a5Xz4DV)<!-- MEMES:END -->
 
 ---
 
