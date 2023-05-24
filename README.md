@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beat Saber will be available Wednesday for PlayStation VR2](https://www.theverge.com/23733863/playstation-showcase-ps5-psvr-2-beat-saber-resident-evil-4-vr-mode)
- - [Apple&#39;s 16-inch MacBook Pro with 32GB RAM drops to record low $1,959, plus save $80 on AppleCare](https://appleinsider.com/articles/23/05/24/apples-16-inch-macbook-pro-with-32gb-ram-drops-to-record-low-1959-plus-save-80-on-applecare?utm_medium=rss)
- - [PlayStation Showcase 2023: all the news from Sony’s big gaming event](https://www.theverge.com/2023/5/24/23734469/sony-playstation-showcase-2023-news-announcements)<!-- TECH:END -->
+ - [China Hacks US Critical Networks in Guam, Raising Cyberwar Fears](https://www.wired.com/story/china-volt-typhoon-hack-us-critical-infrastructure/)
+ - [PlayStation confirms it’s working on a handheld, but not the one you hoped for](https://www.androidauthority.com/playstation-project-q-handheld-3328954/)
+ - [Sony announces a handheld device, known as Project Q, with an 8-inch screen for streaming games from a PS5 via Remote Play over Wi-Fi, launching later in 2023 &lpar;The Verge&rpar;](http://www.techmeme.com/230524/p31#a230524p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
