@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - ⏩ [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
- - 👉 [What are we supposed to do now](http://9gag.com/gag/aEqW3Nx)<!-- MEMES:END -->
+ - 💣 [Let the games begin](http://9gag.com/gag/ajVZQpG)
+ - ⏩ [Just say `hi`](http://9gag.com/gag/a7q2LLb)
+ - 👉 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)<!-- MEMES:END -->
 
 ---
 
