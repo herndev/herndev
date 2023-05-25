@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The only racing game series I&#39;ve ever cared about has hit the 5 million player milestone, now bring on the dubstep](https://www.pcgamer.com/the-only-racing-game-series-ive-ever-cared-about-has-hit-the-5-million-player-milestone-now-bring-on-the-dubstep)
  - [Bungie reveals more about Marathon after fans solve ARG hidden in trailer](https://www.polygon.com/23737145/marathon-bungie-arg-vidoc)
- - [The Lord of the Rings: Gollum reviews round-up: lots of folk are saying they hates it](https://www.pcgamer.com/the-lord-of-the-rings-gollum-reviews-round-up-lots-of-folk-are-saying-they-hates-it)
- - [Just one person showed up to buy an RTX 4060 Ti for its late night Akihabara launch](https://www.pcgamer.com/just-one-person-showed-up-to-buy-an-rtx-4060-ti-for-its-late-night-akihabara-launch)<!-- GAME:END -->
+ - [The Lord of the Rings: Gollum reviews round-up: lots of folk are saying they hates it](https://www.pcgamer.com/the-lord-of-the-rings-gollum-reviews-round-up-lots-of-folk-are-saying-they-hates-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
