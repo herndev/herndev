@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS accidentally leaks ZenFone 10’s pricing](https://www.androidauthority.com/asus-zenfone-10-pricing-leaked-3329188/)
- - [OnePlus 12 leak spills specs, launch window details](https://www.androidauthority.com/oneplus-12-specs-launch-details-3329187/)
- - [Google expands Play Games for PC beta to Europe and New Zealand](https://www.theverge.com/2023/5/25/23737091/google-play-games-for-pc-beta-europe-new-zealand-release)<!-- TECH:END -->
+ - [A look at AI-generated podcasts, like &quot;The Joe Rogan AI Experience&quot; and &quot;Myself, I Am and That&quot;, created using AI voice tools from ElevenLabs and other startups &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230525/p7#a230525p7)
+ - [Margrethe Vestager says the EU and the UK disagreeing on Microsoft&#39;s Activision deal raises &quot;important questions&quot; and the EU was swayed by the proposed remedies &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230525/p6#a230525p6)
+ - [ASUS accidentally leaks ZenFone 10’s pricing](https://www.androidauthority.com/asus-zenfone-10-pricing-leaked-3329188/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
