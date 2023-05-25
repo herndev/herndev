@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leica’s new Q3 sacrifices some good looks for functionality](https://www.theverge.com/2023/5/25/23736639/leica-q3-camera-28mm-fixed-lens-compact-8k-availability-price-specs)
- - [Motorola Edge Plus &lpar;2023&rpar; review: a little sharper](https://www.theverge.com/23736636/motorola-edge-plus-2023-review-screen-battery-camera)
- - [Arc’s new Boosts feature lets you change the way any website looks](https://www.theverge.com/2023/5/25/23735693/arc-browser-boosts-website-appearance-colors-features)<!-- TECH:END -->
+ - [Elon Musk and Ron DeSantis’s fiasco shows they didn’t realize Twitter needs TV](https://www.theverge.com/2023/5/25/23737155/elon-musk-ron-desantis-twitter-spaces-tv)
+ - [Fahrenheit, a group of bidders led by Arrington Capital, win an auction to oversee Celsius Network&#39;s assets, including $500M in &quot;liquid cryptocurrency&quot; &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230525/p18#a230525p18)
+ - [Apple Fitness+ debuts new Madonna Artist Spotlight series to celebrate Pride](https://appleinsider.com/articles/23/05/25/apple-fitness-debuts-new-madonna-artist-spotlight-series-to-celebrate-pride?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
