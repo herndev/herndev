@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - ⏩ [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 💣 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - ⏩ [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
+ - 👉 [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)<!-- MEMES:END -->
 
 ---
 
