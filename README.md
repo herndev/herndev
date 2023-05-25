@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - ⏩ [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
+ - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
 
 ---
 
