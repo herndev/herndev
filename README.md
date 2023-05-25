@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI-generated podcasts, like &quot;The Joe Rogan AI Experience&quot; and &quot;Myself, I Am and That&quot;, created using AI voice tools from ElevenLabs and other startups &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230525/p7#a230525p7)
- - [Margrethe Vestager says the EU and the UK disagreeing on Microsoft&#39;s Activision deal raises &quot;important questions&quot; and the EU was swayed by the proposed remedies &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230525/p6#a230525p6)
- - [ASUS accidentally leaks ZenFone 10’s pricing](https://www.androidauthority.com/asus-zenfone-10-pricing-leaked-3329188/)<!-- TECH:END -->
+ - [OpenAI CEO Sam Altman recently visited London, part of tour to 17 cities, including Paris, Warsaw, and Lagos, to discuss AI, balanced regulation, and more &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230525/p9#a230525p9)
+ - [Biden administration: Apple &amp; Broadcom should quit stalling and pay Caltech $1.1 billion in damages](https://appleinsider.com/articles/23/05/25/biden-administration-apple-should-quit-stalling-and-pay-caltech-11-billion-in-damages?utm_medium=rss)
+ - [OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation](https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
