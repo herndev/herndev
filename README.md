@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fresh Motorola Razr 40 Ultra leak reveals everything, including price](https://www.androidauthority.com/motorola-razr-40-ultra-price-leak-3329173/)
  - [Here’s 44 seconds of the Moto Razr Ultra because an entire ad has leaked](https://www.theverge.com/2023/5/25/23737055/moto-razr-ultra-foldable-video-leak-evleaks)
- - [Sources: after closing Arm Research last year, Arm plans to limit &quot;blue sky&quot; research and focus on commercially viable products, ahead of this year&#39;s IPO &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/230525/p4#a230525p4)
- - [Regulatory filings: Indonesia-based eFishery, which provides software and financing to fish farmers, raised a $108M Series D at a $1.3B post-money valuation &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/230525/p3#a230525p3)<!-- TECH:END -->
+ - [Sources: after closing Arm Research last year, Arm plans to limit &quot;blue sky&quot; research and focus on commercially viable products, ahead of this year&#39;s IPO &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/230525/p4#a230525p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
