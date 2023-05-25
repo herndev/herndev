@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Hacks US Critical Networks in Guam, Raising Cyberwar Fears](https://www.wired.com/story/china-volt-typhoon-hack-us-critical-infrastructure/)
- - [PlayStation confirms it’s working on a handheld, but not the one you hoped for](https://www.androidauthority.com/playstation-project-q-handheld-3328954/)
- - [Sony announces a handheld device, known as Project Q, with an 8-inch screen for streaming games from a PS5 via Remote Play over Wi-Fi, launching later in 2023 &lpar;The Verge&rpar;](http://www.techmeme.com/230524/p31#a230524p31)<!-- TECH:END -->
+ - [An Android app started secretly recording users almost a year after it was listed on Google Play](https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk)
+ - [Elementl, which offers data orchestration services based on Dagster, raised a $33M Series B led by Georgian, bringing its total funding to $48.8M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230524/p33#a230524p33)
+ - [It’s Metal Gear Solid Delta, not Metal Gear Solid Triangle](https://www.theverge.com/2023/5/24/23736704/metal-gear-solid-delta-not-triangle-remake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
