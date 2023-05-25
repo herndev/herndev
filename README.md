@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gollum has two personalities — I wish the Gollum game had any](https://www.polygon.com/23735798/lord-of-the-rings-gollum-game-review-daedalic)
- - [Today&#39;s Wordle hint and answer #705: Thursday, May 25](https://www.pcgamer.com/wordle-today-hint-answer-705-may-25)
- - [Every PC game announcement from PlayStation&#39;s 2023 summer showcase](https://www.pcgamer.com/state-of-play-2023-pc-game-announcements-trailers)<!-- GAME:END -->
+ - [Assassin’s Creed Mirage Release Date Announced, Gameplay Revealed](https://news.xbox.com/en-us/2023/05/25/assassins-creed-mirage-release-date-preorders-open/)
+ - [Computex is a different beast to E3 and it&#39;s back for real in 2023!](https://www.pcgamer.com/computex-2023-is-really-back)
+ - [Gollum has two personalities — I wish the Gollum game had any](https://www.polygon.com/23735798/lord-of-the-rings-gollum-game-review-daedalic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
