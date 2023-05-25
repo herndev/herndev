@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5&#39;s Prestige Pivot Makes The Innovative Games Stand Out](https://kotaku.com/playstation-showcase-ps5-spider-man-marathon-bungie-1850477005)
- - [Why Tears of the Kingdom’s bridge physics have game developers wowed](https://www.polygon.com/legend-zelda-tears-kingdom/23737921/tears-of-the-kingdom-bridge-physics-game-devs-explain)
- - [Homeworld 3 is delayed to 2024](https://www.pcgamer.com/homeworld-3-is-delayed-to-2024)<!-- GAME:END -->
+ - [There&#39;s a live-action Diablo ad from the director of Marvel&#39;s Eternals that&#39;s way too serious for its own good](https://www.pcgamer.com/theres-a-live-action-diablo-ad-from-the-director-of-marvels-eternals-thats-way-too-serious-for-its-own-good)
+ - [New Over-Sized Mega Man Slippers Are Perfect](https://kotaku.com/mega-man-big-large-slippers-boots-pre-order-price-1850477390)
+ - [The best weapon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713029/best-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
