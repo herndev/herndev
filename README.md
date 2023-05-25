@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The French, the f*ggots of Europe](http://9gag.com/gag/abvByqr)
- - ⏩ [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - 👉 [ChadVille](http://9gag.com/gag/ago4y0r)<!-- MEMES:END -->
+ - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - ⏩ [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
 
