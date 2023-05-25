@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to earn and use Pony Points in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737307/pony-points-rewards-stable-horse-totk)
- - [Diablo 4’s live-action trailer directed by Oscar-winner Chloé Zhao still has loads of demons](https://www.polygon.com/23737428/diablo-4-live-action-trailer-chloe-zhao)
- - [Warhammer is getting a new fantasy real-time strategy game](https://www.polygon.com/23736088/warhammer-age-of-sigmar-rts-realms-of-ruin-factions-release-date)<!-- GAME:END -->
+ - [Rings of Power had a ‘Ring Team’ making the show’s actual rings look good](https://www.polygon.com/23734524/lord-rings-power-behind-scenes-special-effects-forging)
+ - [This Nugget-Shaped Tetris Handheld From McDonald’s Is Real And Playable](https://kotaku.com/mcdonalds-chicken-nuggets-tetris-gameboy-handheld-china-1850475895)
+ - [‘A Call From the Depths’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737322/a-call-from-the-depths-walkthrough-quest-steps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
