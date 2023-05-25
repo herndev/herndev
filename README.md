@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord Of The Rings Game About Gollum Is Getting Absolutely Roasted](https://kotaku.com/gollum-lord-of-the-rings-ps5-reviews-metacritic-bugs-1850474678)
- - [This Glitch Makes The Master Sword Unbreakable In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-totk-master-sword-glitch-1850474567)
- - [Lego 2K Drive review](https://www.pcgamer.com/lego-2k-drive-review)<!-- GAME:END -->
+ - [Fallout: New Vegas is free on the Epic Games Store this week](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Some Of The PS5’s Biggest Showcase Games Aren’t Actually Exclusives](https://kotaku.com/playstation-exclusive-mgs3-remake-alan-wake-2-xbox-ps5-1850474875)
+ - [Fantasy monsters have never looked tastier than in Studio Trigger’s Delicious in Dungeon](https://www.polygon.com/23737335/delicious-in-dungeon-trailer-anime-trailer-studio-trigger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
