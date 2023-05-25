@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: New Vegas is free on the Epic Games Store this week](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Some Of The PS5’s Biggest Showcase Games Aren’t Actually Exclusives](https://kotaku.com/playstation-exclusive-mgs3-remake-alan-wake-2-xbox-ps5-1850474875)
- - [Fantasy monsters have never looked tastier than in Studio Trigger’s Delicious in Dungeon](https://www.polygon.com/23737335/delicious-in-dungeon-trailer-anime-trailer-studio-trigger)<!-- GAME:END -->
+ - [How to earn and use Pony Points in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737307/pony-points-rewards-stable-horse-totk)
+ - [Diablo 4’s live-action trailer directed by Oscar-winner Chloé Zhao still has loads of demons](https://www.polygon.com/23737428/diablo-4-live-action-trailer-chloe-zhao)
+ - [Warhammer is getting a new fantasy real-time strategy game](https://www.polygon.com/23736088/warhammer-age-of-sigmar-rts-realms-of-ruin-factions-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
