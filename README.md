@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
- - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
- - 👉 [B*tchbox](http://9gag.com/gag/a5X2KvV)<!-- MEMES:END -->
+ - 💣 [Same with shampoo.](http://9gag.com/gag/aKEeq6Z)
+ - ⏩ [Nostalgia Mode ON](http://9gag.com/gag/aqeW5Zv)
+ - 👉 [An old one for everyone to enjoy](http://9gag.com/gag/a2K2mq1)<!-- MEMES:END -->
 
 ---
 
