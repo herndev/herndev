@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Magic Compose, the AI-generating Messages tool](https://www.androidauthority.com/magic-compose-experience-3329552/)
- - [Toronto-based BenchSci, which uses AI to help pharmaceutical firms accelerate drug discovery, raised a CA$95M Series D led by Generation Investment Management &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230525/p31#a230525p31)
- - [Ford EV will use Tesla’s charging plug starting next year](https://www.theverge.com/2023/5/25/23737896/ford-tesla-ev-fast-charging-elon-musk-twitter-space)<!-- TECH:END -->
+ - [YouTube will let you watch unlimited NFL Sunday Ticket streams, but only at home](https://www.theverge.com/2023/5/25/23738057/youtube-nfl-sunday-ticket-streams-unlimited-streams-home)
+ - [Filing: JPMorgan Chase is working on a ChatGPT-like software service dubbed IndexGPT that uses AI to analyze and select investments tailored to customer needs &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230525/p33#a230525p33)
+ - [Tesla leak reportedly shows thousands of Full Self-Driving safety complaints](https://www.theverge.com/2023/5/25/23737972/tesla-whistleblower-leak-fsd-complaints-self-driving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
