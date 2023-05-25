@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - ⏩ [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 💣 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
+ - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - 👉 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 ---
 
