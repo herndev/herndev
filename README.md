@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
- - [Alibaba pushes back on reports of layoffs, saying it plans to hire 15,000 workers in 2023 across its six major divisions, including 3,000 university graduates &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230525/p23#a230525p23)
- - [Discord gets custom Stream Deck hardware and a big plug-in upgrade](https://www.theverge.com/2023/5/25/23737510/discord-stream-deck-plugin-custom-hardware)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; finale event at Paley Center scuttled, probably because of writers&#39;s strike](https://appleinsider.com/articles/23/05/25/ted-lasso-finale-event-at-paley-center-scuttled-probably-because-of-writerss-strike?utm_medium=rss)
+ - [Google starts rolling out its AI-powered Search Generative Experience, with features like a conversational mode, to users that signed up for Search Labs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230525/p25#a230525p25)
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
