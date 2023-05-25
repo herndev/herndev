@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 rumored to turn an iPhone lock screen into a smart home display](https://appleinsider.com/articles/23/05/24/ios-17-rumored-to-turn-an-iphone-lock-screen-into-a-smart-home-display?utm_medium=rss)
- - [Pegasus was used in the Azerbaijan-Armenia conflict to target a government worker, a UN official, and others in 2021 and 2022, the first known use in a war &lpar;Access Now&rpar;](http://www.techmeme.com/230525/p12#a230525p12)
- - [A secret Swiss lab may be driving all of Apple&#39;s future products](https://appleinsider.com/articles/23/05/25/a-secret-swiss-lab-may-be-driving-all-of-apples-future-products?utm_medium=rss)<!-- TECH:END -->
+ - [Leica’s new Q3 sacrifices some good looks for functionality](https://www.theverge.com/2023/5/25/23736639/leica-q3-camera-28mm-fixed-lens-compact-8k-availability-price-specs)
+ - [Motorola Edge Plus &lpar;2023&rpar; review: a little sharper](https://www.theverge.com/23736636/motorola-edge-plus-2023-review-screen-battery-camera)
+ - [Arc’s new Boosts feature lets you change the way any website looks](https://www.theverge.com/2023/5/25/23735693/arc-browser-boosts-website-appearance-colors-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
