@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 will have no physical editions, and people are pissed about it](https://www.pcgamer.com/alan-wake-2-will-have-no-physical-editions-and-people-are-pissed-about-it)
- - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
- - [Ron DeSantis Announced He&#39;s Running For President On Twitter And It Was A Disaster](https://kotaku.com/ron-desantis-disney-president-twitter-space-fail-crash-1850472546)<!-- GAME:END -->
+ - [How is AI going to change game development?](https://www.pcgamer.com/how-is-ai-going-to-change-game-development)
+ - [Metal Gear Solid 3&#39;s remake announcement can&#39;t hold a candle to one of the best game trailers of all time](https://www.pcgamer.com/metal-gear-solid-3s-remake-announcement-cant-hold-a-candle-to-one-of-the-best-game-trailers-of-all-time)
+ - [War Thunder &#39;Revises&#39; Economy, Fans Review-Bomb Game To Hell](https://kotaku.com/war-thunder-f2p-pc-protest-steam-pc-review-economy-p2w-1850468060)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
