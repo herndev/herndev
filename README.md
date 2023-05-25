@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - ⏩ [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
- - 👉 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 💣 [Ex&#39;s 101?](http://9gag.com/gag/abvB0Zp)
+ - ⏩ [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)
+ - 👉 [Kaliber 4 Bore](http://9gag.com/gag/ay2R8VW)<!-- MEMES:END -->
 
 ---
 
