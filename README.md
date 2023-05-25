@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Netflix, Max, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Binance launches NFT loans, starting with ETH borrowing against &quot;blue-chip&quot; NFTs, such as BAYC, MAYC, and Azuki with an interest rate of 7.91% per annum &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230525/p20#a230525p20)
- - [Apple&#39;s big presence at an advertising event may offer clues for WWDC 2023](https://appleinsider.com/articles/23/05/25/apples-big-presence-at-an-advertising-event-may-offer-clues-for-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox is making some changes to how creators can sell limited-run virtual gear](https://www.theverge.com/2023/5/25/23736175/roblox-limited-gear-selling-changes-update)
+ - [Snapchat’s AR filter can now paint your nails](https://www.theverge.com/2023/5/25/23735063/snapchats-ar-filter-beatuy-lens-nail-segmentation)
+ - [Nymbus, which offers tools for banks to migrate their legacy stack and help launch neobanks, raised a $70M Series D led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230525/p22#a230525p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
