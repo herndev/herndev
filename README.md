@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
- - ⏩ [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)
- - 👉 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
+ - 💣 [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
+ - ⏩ [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 👉 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
 
 ---
 
