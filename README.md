@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [Memo: Grab co-founder Tan Hooi Ling plans to exit operational roles and give up her board seat by the end of 2023, as the company fights to reverse losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/230525/p2#a230525p2)
- - [Android phones can be unlocked in minutes using $15 equipment and new attack](https://www.androidauthority.com/bruteprint-android-fingerprint-attack-3329121/)<!-- TECH:END -->
+ - [Here’s 44 seconds of the Moto Razr Ultra because an entire ad has leaked](https://www.theverge.com/2023/5/25/23737055/moto-razr-ultra-foldable-video-leak-evleaks)
+ - [Sources: after closing Arm Research last year, Arm plans to limit &quot;blue sky&quot; research and focus on commercially viable products, ahead of this year&#39;s IPO &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/230525/p4#a230525p4)
+ - [Regulatory filings: Indonesia-based eFishery, which provides software and financing to fish farmers, raised a $108M Series D at a $1.3B post-money valuation &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/230525/p3#a230525p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
