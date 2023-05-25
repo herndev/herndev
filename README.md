@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Minnesota Governor Tim Walz signs the broadest-yet right-to-repair bill, with exceptions including game consoles and cybersecurity tools, effective July 1, 2024 &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/230524/p36#a230524p36)
  - [Filing: the Biden administration says SCOTUS should let stand a 2022 appeals court ruling favoring Google over its alleged theft of Genius&#39; lyric transcriptions &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230524/p35#a230524p35)
- - [Alan Wake 2 won’t be available on disc](https://www.theverge.com/2023/5/24/23736784/alan-wake-2-disc-digital-release)
- - [Google expands Play Games Beta on PC to Europe and New Zealand, bringing the offering to 56 countries total and over 100 Android games &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230524/p34#a230524p34)<!-- TECH:END -->
+ - [Alan Wake 2 won’t be available on disc](https://www.theverge.com/2023/5/24/23736784/alan-wake-2-disc-digital-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
