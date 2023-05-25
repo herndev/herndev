@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My highlight of Sony&#39;s PlayStation showcase is, you guessed it, coming to PC](https://www.pcgamer.com/my-highlight-of-sonys-playstation-showcase-is-you-guessed-it-coming-to-pc)
- - [Building Lightsabers In Jedi: Survivor Is So Wildly Satisfying](https://kotaku.com/jedi-survivor-lightsaber-designs-customization-respawn-1850476252)
- - [Tears of the Kingdom&#39;s Glide Set Makes Flying Way Better](https://kotaku.com/tears-of-the-kingdom-glide-armor-dive-ceremony-totk-1850476060)<!-- GAME:END -->
+ - [Warhammer 40,000: Rogue Trader closed beta goes live next week](https://www.polygon.com/23737820/warhammer-40k-rogue-trader-beta-launch-date-trailer)
+ - [Tears of the Kingdom: What To Do For Those Dandelion Korok Puzzles You Keep Seeing](https://kotaku.com/zelda-dandelion-korok-puzzle-seed-tears-of-the-kingdom-1850476168)
+ - [The 11 Most Exciting Cards In Pokémon&#39;s Big Paldea Set](https://kotaku.com/pokemon-tcg-trading-card-paldea-evolved-scarlet-violet-1850475489)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
