@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
- - ⏩ [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
- - 👉 [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)<!-- MEMES:END -->
+ - 💣 [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - ⏩ [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
+ - 👉 [After hero jumps in freezing waters to rescue a dog that\u2019s not his, strangers rush to offer him clothes off their back. Credit : Jason skidgel](http://9gag.com/gag/aXnWpbv)<!-- MEMES:END -->
 
 ---
 
