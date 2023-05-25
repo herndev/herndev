@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is making some changes to how creators can sell limited-run virtual gear](https://www.theverge.com/2023/5/25/23736175/roblox-limited-gear-selling-changes-update)
- - [Snapchat’s AR filter can now paint your nails](https://www.theverge.com/2023/5/25/23735063/snapchats-ar-filter-beatuy-lens-nail-segmentation)
- - [Nymbus, which offers tools for banks to migrate their legacy stack and help launch neobanks, raised a $70M Series D led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230525/p22#a230525p22)<!-- TECH:END -->
+ - [YouTube is killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
+ - [Alibaba pushes back on reports of layoffs, saying it plans to hire 15,000 workers in 2023 across its six major divisions, including 3,000 university graduates &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230525/p23#a230525p23)
+ - [Discord gets custom Stream Deck hardware and a big plug-in upgrade](https://www.theverge.com/2023/5/25/23737510/discord-stream-deck-plugin-custom-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
