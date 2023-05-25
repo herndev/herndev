@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Grimes, who invited anyone to make Grimes songs using AI tools, on open-sourcing her voice, her obsession with AI, and five GrimesAI-created tracks &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/230525/p1#a230525p1)
  - [An SEC filing shows OpenAI closed a $175.3M fund to invest in startups, 75% higher than the money raised when the fund launched in May 2021, from 14 investors &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230524/p39#a230524p39)
- - [Amazon is closing its Appstore in China on July 17, 2023, following the company&#39;s announcement last year that it would shutter its Kindle e-bookstore in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230524/p38#a230524p38)
- - [Ron DeSantis Pushed Elon Musk&#39;s Twitter to Its Breaking Point](https://www.wired.com/story/ron-desantis-pushed-elon-musks-twitter-to-its-breaking-point/)<!-- TECH:END -->
+ - [Amazon is closing its Appstore in China on July 17, 2023, following the company&#39;s announcement last year that it would shutter its Kindle e-bookstore in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230524/p38#a230524p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
