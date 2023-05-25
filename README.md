@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Marathon&#39; this, &#39;Spider-Man&#39; that, as far as I&#39;m concerned the real PlayStation Showcase showstopper was the years-in-the-making follow-up to the most autumnal game of all time](https://www.pcgamer.com/marathon-this-spider-man-that-as-far-as-im-concerned-the-real-playstation-showcase-showstopper-was-the-years-in-the-making-follow-up-to-the-most-autumnal-game-of-all-time)
- - [Warhammer 40K goes Twisted Metal in the combat racer Speed Freeks](https://www.polygon.com/23737325/warhammer-40k-speed-freeks-car-combat-racing)
- - [Will Smith finally picked a game to star in, and... it&#39;s a free-to-play survival shooter?](https://www.pcgamer.com/will-smith-finally-picked-a-game-to-star-in-and-its-a-free-to-play-survival-shooter)<!-- GAME:END -->
+ - [PS5&#39;s Prestige Pivot Makes The Innovative Games Stand Out](https://kotaku.com/playstation-showcase-ps5-spider-man-marathon-bungie-1850477005)
+ - [Why Tears of the Kingdom’s bridge physics have game developers wowed](https://www.polygon.com/legend-zelda-tears-kingdom/23737921/tears-of-the-kingdom-bridge-physics-game-devs-explain)
+ - [Homeworld 3 is delayed to 2024](https://www.pcgamer.com/homeworld-3-is-delayed-to-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
