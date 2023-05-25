@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
- - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
- - 👉 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 💣 [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
+ - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
 
 ---
 
