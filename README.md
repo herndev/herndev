@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gordon was not amused](http://9gag.com/gag/aZDjbVz)
- - ⏩ [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
- - 👉 [Huh](http://9gag.com/gag/aVbZGnO)<!-- MEMES:END -->
+ - 💣 [Georgia. Tomorrow is Independence day from USSR. First time over decades, government did not add EU flags to decorations. and this is how people reacted to it](http://9gag.com/gag/aEqDzNe)
+ - ⏩ [ChadVille](http://9gag.com/gag/ago4y0r)
+ - 👉 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)<!-- MEMES:END -->
 
 ---
 
