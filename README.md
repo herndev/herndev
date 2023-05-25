@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
- - 👉 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)<!-- MEMES:END -->
+ - 💣 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
+ - ⏩ [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - 👉 [B*tchbox](http://9gag.com/gag/a5X2KvV)<!-- MEMES:END -->
 
 ---
 
