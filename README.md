@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sequel To Capcom&#39;s Beloved Action-RPG Will Have You Killing Dragons On PS5](https://kotaku.com/dragons-dogma-playstation-capcom-ps5-xbox-rpg-skyrim-1850472500)
- - [How to get the Awakening Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736508/awakening-armor-locations-head-chest-legs)
- - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
+ - [Alan Wake 2 will have no physical editions, and people are pissed about it](https://www.pcgamer.com/alan-wake-2-will-have-no-physical-editions-and-people-are-pissed-about-it)
+ - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
+ - [Ron DeSantis Announced He&#39;s Running For President On Twitter And It Was A Disaster](https://kotaku.com/ron-desantis-disney-president-twitter-space-fail-crash-1850472546)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
