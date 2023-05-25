@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI CEO Sam Altman recently visited London, part of tour to 17 cities, including Paris, Warsaw, and Lagos, to discuss AI, balanced regulation, and more &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230525/p9#a230525p9)
- - [Biden administration: Apple &amp; Broadcom should quit stalling and pay Caltech $1.1 billion in damages](https://appleinsider.com/articles/23/05/25/biden-administration-apple-should-quit-stalling-and-pay-caltech-11-billion-in-damages?utm_medium=rss)
- - [OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation](https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating)<!-- TECH:END -->
+ - [iOS 17 rumored to turn an iPhone lock screen into a smart home display](https://appleinsider.com/articles/23/05/24/ios-17-rumored-to-turn-an-iphone-lock-screen-into-a-smart-home-display?utm_medium=rss)
+ - [Pegasus was used in the Azerbaijan-Armenia conflict to target a government worker, a UN official, and others in 2021 and 2022, the first known use in a war &lpar;Access Now&rpar;](http://www.techmeme.com/230525/p12#a230525p12)
+ - [A secret Swiss lab may be driving all of Apple&#39;s future products](https://appleinsider.com/articles/23/05/25/a-secret-swiss-lab-may-be-driving-all-of-apples-future-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
