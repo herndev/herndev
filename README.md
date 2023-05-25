@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Georgia. Tomorrow is Independence day from USSR. First time over decades, government did not add EU flags to decorations. and this is how people reacted to it](http://9gag.com/gag/aEqDzNe)
- - ⏩ [ChadVille](http://9gag.com/gag/ago4y0r)
- - 👉 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)<!-- MEMES:END -->
+ - 💣 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
+ - ⏩ [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)
+ - 👉 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
 
 ---
 
