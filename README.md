@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This experimental AI app will let you turn your ideas into music](https://www.androidauthority.com/experimental-ai-musiclm-app-3329486/)
- - [Paradigm appears to have removed crypto and web3 mentions from its website&#39;s home page, as sources say the VC is expanding its focus to &quot;frontier&quot; tech like AI &lpar;The Block&rpar;](http://www.techmeme.com/230525/p29#a230525p29)
- - [OpenAI launches a program to award 10 grants of $100K to develop proof-of-concepts for a &quot;democratic process&quot; to set rules for AI &quot;within the bounds&quot; of the law &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230525/p28#a230525p28)<!-- TECH:END -->
+ - [Hands-on with Magic Compose, the AI-generating Messages tool](https://www.androidauthority.com/magic-compose-experience-3329552/)
+ - [Toronto-based BenchSci, which uses AI to help pharmaceutical firms accelerate drug discovery, raised a CA$95M Series D led by Generation Investment Management &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230525/p31#a230525p31)
+ - [Ford EV will use Tesla’s charging plug starting next year](https://www.theverge.com/2023/5/25/23737896/ford-tesla-ev-fast-charging-elon-musk-twitter-space)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
