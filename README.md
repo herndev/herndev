@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - ⏩ [Can you all see me now](http://9gag.com/gag/a041v8v)
- - 👉 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)<!-- MEMES:END -->
+ - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - ⏩ [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
+ - 👉 [Georgia. Tomorrow is Independence day from USSR. First time over decades, government did not add EU flags to decorations. and this is how people reacted to it](http://9gag.com/gag/aEqDzNe)<!-- MEMES:END -->
 
 ---
 
