@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
- - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
- - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 💣 [Gordon was not amused](http://9gag.com/gag/aZDjbVz)
+ - ⏩ [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
+ - 👉 [Huh](http://9gag.com/gag/aVbZGnO)<!-- MEMES:END -->
 
 ---
 
