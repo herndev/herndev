@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - ⏩ [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
- - 👉 [Georgia. Tomorrow is Independence day from USSR. First time over decades, government did not add EU flags to decorations. and this is how people reacted to it](http://9gag.com/gag/aEqDzNe)<!-- MEMES:END -->
+ - 💣 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - ⏩ [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - 👉 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)<!-- MEMES:END -->
 
 ---
 
