@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s upcoming game streaming handheld looks like someone stretched a Dualsense controller out with a rolling pin](https://www.pcgamer.com/sony-project-q-streaming-handheld-announcement)
- - [Aliens: Dark Descent combines horror and strategy to create a bone-chilling tactical thriller](https://blog.playstation.com/2023/05/25/aliens-dark-descent-combines-horror-and-strategy-to-create-a-bone-chilling-tactical-thriller/)
- - [The Lord of the Rings: Gollum review](https://www.pcgamer.com/the-lord-of-the-rings-gollum-review)<!-- GAME:END -->
+ - [The Lord Of The Rings Game About Gollum Is Getting Absolutely Roasted](https://kotaku.com/gollum-lord-of-the-rings-ps5-reviews-metacritic-bugs-1850474678)
+ - [This Glitch Makes The Master Sword Unbreakable In Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-totk-master-sword-glitch-1850474567)
+ - [Lego 2K Drive review](https://www.pcgamer.com/lego-2k-drive-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
