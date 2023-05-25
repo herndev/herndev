@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter launches API Pro, a $5,000/month tier offering access to full archive search endpoints and the ability to fetch 1M tweets and post 300K tweets monthly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230525/p26#a230525p26)
- - [&#39;Ted Lasso&#39; finale event at Paley Center scuttled, probably because of writers&#39;s strike](https://appleinsider.com/articles/23/05/25/ted-lasso-finale-event-at-paley-center-scuttled-probably-because-of-writerss-strike?utm_medium=rss)
- - [Motorola Razr Ultra gets shown off in full detail in leaked promo video](https://www.androidauthority.com/motorola-razr-ultra-promo-video-3329452/)<!-- TECH:END -->
+ - [Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye](https://www.wired.com/story/bcrypt-password-hashing-25-years/)
+ - [Save up to $1,400 &amp; get VIP rewards on Razer laptops, Thunderbolt 4 dock, monitors &amp; more](https://appleinsider.com/articles/23/05/25/save-up-to-1400-get-vip-rewards-on-razer-laptops-thunderbolt-4-dock-monitors-more?utm_medium=rss)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
