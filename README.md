@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Rogue Trader closed beta goes live next week](https://www.polygon.com/23737820/warhammer-40k-rogue-trader-beta-launch-date-trailer)
- - [Tears of the Kingdom: What To Do For Those Dandelion Korok Puzzles You Keep Seeing](https://kotaku.com/zelda-dandelion-korok-puzzle-seed-tears-of-the-kingdom-1850476168)
- - [The 11 Most Exciting Cards In Pokémon&#39;s Big Paldea Set](https://kotaku.com/pokemon-tcg-trading-card-paldea-evolved-scarlet-violet-1850475489)<!-- GAME:END -->
+ - [&#39;Marathon&#39; this, &#39;Spider-Man&#39; that, as far as I&#39;m concerned the real PlayStation Showcase showstopper was the years-in-the-making follow-up to the most autumnal game of all time](https://www.pcgamer.com/marathon-this-spider-man-that-as-far-as-im-concerned-the-real-playstation-showcase-showstopper-was-the-years-in-the-making-follow-up-to-the-most-autumnal-game-of-all-time)
+ - [Warhammer 40K goes Twisted Metal in the combat racer Speed Freeks](https://www.polygon.com/23737325/warhammer-40k-speed-freeks-car-combat-racing)
+ - [Will Smith finally picked a game to star in, and... it&#39;s a free-to-play survival shooter?](https://www.pcgamer.com/will-smith-finally-picked-a-game-to-star-in-and-its-a-free-to-play-survival-shooter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
