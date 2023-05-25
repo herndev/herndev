@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye](https://www.wired.com/story/bcrypt-password-hashing-25-years/)
- - [Save up to $1,400 &amp; get VIP rewards on Razer laptops, Thunderbolt 4 dock, monitors &amp; more](https://appleinsider.com/articles/23/05/25/save-up-to-1400-get-vip-rewards-on-razer-laptops-thunderbolt-4-dock-monitors-more?utm_medium=rss)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [This experimental AI app will let you turn your ideas into music](https://www.androidauthority.com/experimental-ai-musiclm-app-3329486/)
+ - [Paradigm appears to have removed crypto and web3 mentions from its website&#39;s home page, as sources say the VC is expanding its focus to &quot;frontier&quot; tech like AI &lpar;The Block&rpar;](http://www.techmeme.com/230525/p29#a230525p29)
+ - [OpenAI launches a program to award 10 grants of $100K to develop proof-of-concepts for a &quot;democratic process&quot; to set rules for AI &quot;within the bounds&quot; of the law &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230525/p28#a230525p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
