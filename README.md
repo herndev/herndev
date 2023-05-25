@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Mirage Release Date Announced, Gameplay Revealed](https://news.xbox.com/en-us/2023/05/25/assassins-creed-mirage-release-date-preorders-open/)
- - [Computex is a different beast to E3 and it&#39;s back for real in 2023!](https://www.pcgamer.com/computex-2023-is-really-back)
- - [Gollum has two personalities — I wish the Gollum game had any](https://www.polygon.com/23735798/lord-of-the-rings-gollum-game-review-daedalic)<!-- GAME:END -->
+ - [Bungie reveals more about Marathon after fans solve ARG hidden in trailer](https://www.polygon.com/23737145/marathon-bungie-arg-vidoc)
+ - [The Lord of the Rings: Gollum reviews round-up: lots of folk are saying they hates it](https://www.pcgamer.com/the-lord-of-the-rings-gollum-reviews-round-up-lots-of-folk-are-saying-they-hates-it)
+ - [Just one person showed up to buy an RTX 4060 Ti for its late night Akihabara launch](https://www.pcgamer.com/just-one-person-showed-up-to-buy-an-rtx-4060-ti-for-its-late-night-akihabara-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
