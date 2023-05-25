@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Same with shampoo.](http://9gag.com/gag/aKEeq6Z)
- - ⏩ [Nostalgia Mode ON](http://9gag.com/gag/aqeW5Zv)
- - 👉 [An old one for everyone to enjoy](http://9gag.com/gag/a2K2mq1)<!-- MEMES:END -->
+ - 💣 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - ⏩ [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
+ - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
 
