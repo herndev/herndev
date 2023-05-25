@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #705: Thursday, May 25](https://www.pcgamer.com/wordle-today-hint-answer-705-may-25)
  - [Every PC game announcement from PlayStation&#39;s 2023 summer showcase](https://www.pcgamer.com/state-of-play-2023-pc-game-announcements-trailers)
- - [How is AI going to change game development?](https://www.pcgamer.com/how-is-ai-going-to-change-game-development)
- - [Metal Gear Solid 3&#39;s remake announcement can&#39;t hold a candle to one of the best game trailers of all time](https://www.pcgamer.com/metal-gear-solid-3s-remake-announcement-cant-hold-a-candle-to-one-of-the-best-game-trailers-of-all-time)<!-- GAME:END -->
+ - [How is AI going to change game development?](https://www.pcgamer.com/how-is-ai-going-to-change-game-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
