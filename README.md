@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)
- - ⏩ [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 👉 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 💣 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - ⏩ [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
+ - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
 
