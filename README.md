@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally got banned by China](http://9gag.com/gag/aDYVALK)
- - ⏩ [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
- - 👉 [After hero jumps in freezing waters to rescue a dog that\u2019s not his, strangers rush to offer him clothes off their back. Credit : Jason skidgel](http://9gag.com/gag/aXnWpbv)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/aWGbZjZ)
+ - ⏩ [U wanna see the whole pic. there ya go.](http://9gag.com/gag/aNw4eMb)
+ - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
 
