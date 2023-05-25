@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
- - ⏩ [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 👉 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
+ - 💣 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - ⏩ [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - 👉 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)<!-- MEMES:END -->
 
 ---
 
