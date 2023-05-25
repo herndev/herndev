@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Android app started secretly recording users almost a year after it was listed on Google Play](https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk)
- - [Elementl, which offers data orchestration services based on Dagster, raised a $33M Series B led by Georgian, bringing its total funding to $48.8M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230524/p33#a230524p33)
- - [It’s Metal Gear Solid Delta, not Metal Gear Solid Triangle](https://www.theverge.com/2023/5/24/23736704/metal-gear-solid-delta-not-triangle-remake)<!-- TECH:END -->
+ - [Filing: the Biden administration says SCOTUS should let stand a 2022 appeals court ruling favoring Google over its alleged theft of Genius&#39; lyric transcriptions &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230524/p35#a230524p35)
+ - [Alan Wake 2 won’t be available on disc](https://www.theverge.com/2023/5/24/23736784/alan-wake-2-disc-digital-release)
+ - [Google expands Play Games Beta on PC to Europe and New Zealand, bringing the offering to 56 countries total and over 100 Android games &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230524/p34#a230524p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
