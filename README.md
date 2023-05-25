@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ron DeSantis Pushed Elon Musk&#39;s Twitter to Its Breaking Point](https://www.wired.com/story/ron-desantis-pushed-elon-musks-twitter-to-its-breaking-point/)
- - [A study describes how a patient who was paralyzed from waist down was able to walk naturally again with brain and spine implants using an AI thought decoder &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/230524/p37#a230524p37)
- - [Minnesota Governor Tim Walz signs the broadest-yet right-to-repair bill, with exceptions including game consoles and cybersecurity tools, effective July 1, 2024 &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/230524/p36#a230524p36)<!-- TECH:END -->
+ - [An SEC filing shows OpenAI closed a $175.3M fund to invest in startups, 75% higher than the money raised when the fund launched in May 2021, from 14 investors &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230524/p39#a230524p39)
+ - [Amazon is closing its Appstore in China on July 17, 2023, following the company&#39;s announcement last year that it would shutter its Kindle e-bookstore in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/230524/p38#a230524p38)
+ - [Ron DeSantis Pushed Elon Musk&#39;s Twitter to Its Breaking Point](https://www.wired.com/story/ron-desantis-pushed-elon-musks-twitter-to-its-breaking-point/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
