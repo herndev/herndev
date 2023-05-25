@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings of Power had a ‘Ring Team’ making the show’s actual rings look good](https://www.polygon.com/23734524/lord-rings-power-behind-scenes-special-effects-forging)
- - [This Nugget-Shaped Tetris Handheld From McDonald’s Is Real And Playable](https://kotaku.com/mcdonalds-chicken-nuggets-tetris-gameboy-handheld-china-1850475895)
- - [‘A Call From the Depths’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737322/a-call-from-the-depths-walkthrough-quest-steps)<!-- GAME:END -->
+ - [My highlight of Sony&#39;s PlayStation showcase is, you guessed it, coming to PC](https://www.pcgamer.com/my-highlight-of-sonys-playstation-showcase-is-you-guessed-it-coming-to-pc)
+ - [Building Lightsabers In Jedi: Survivor Is So Wildly Satisfying](https://kotaku.com/jedi-survivor-lightsaber-designs-customization-respawn-1850476252)
+ - [Tears of the Kingdom&#39;s Glide Set Makes Flying Way Better](https://kotaku.com/tears-of-the-kingdom-glide-armor-dive-ceremony-totk-1850476060)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
