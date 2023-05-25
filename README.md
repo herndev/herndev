@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
- - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
+ - 💣 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - ⏩ [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
+ - 👉 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 ---
 
