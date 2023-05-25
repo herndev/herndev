@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/aWGbZjZ)
- - ⏩ [U wanna see the whole pic. there ya go.](http://9gag.com/gag/aNw4eMb)
+ - 💣 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
+ - ⏩ [Damn nature](http://9gag.com/gag/aKEewPb)
  - 👉 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 ---
