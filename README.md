@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and Ron DeSantis’s fiasco shows they didn’t realize Twitter needs TV](https://www.theverge.com/2023/5/25/23737155/elon-musk-ron-desantis-twitter-spaces-tv)
- - [Fahrenheit, a group of bidders led by Arrington Capital, win an auction to oversee Celsius Network&#39;s assets, including $500M in &quot;liquid cryptocurrency&quot; &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230525/p18#a230525p18)
- - [Apple Fitness+ debuts new Madonna Artist Spotlight series to celebrate Pride](https://appleinsider.com/articles/23/05/25/apple-fitness-debuts-new-madonna-artist-spotlight-series-to-celebrate-pride?utm_medium=rss)<!-- TECH:END -->
+ - [The best new streaming movies this week on Netflix, Max, Shudder, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Binance launches NFT loans, starting with ETH borrowing against &quot;blue-chip&quot; NFTs, such as BAYC, MAYC, and Azuki with an interest rate of 7.91% per annum &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230525/p20#a230525p20)
+ - [Apple&#39;s big presence at an advertising event may offer clues for WWDC 2023](https://appleinsider.com/articles/23/05/25/apples-big-presence-at-an-advertising-event-may-offer-clues-for-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
