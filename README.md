@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Memorial Day deals you can already get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)
- - [The JBL Vibe Buds bring 32 hours of battery life at a new price of $39.95](https://www.androidauthority.com/jbl-vibe-buds-deal-3329890/)
- - [John Wick 5 is already in ‘early development,’ according to Lionsgate](https://www.theverge.com/23739025/john-wick-5-lionsgate-early-development)<!-- TECH:END -->
+ - [The Witcher is getting a fifth season on Netflix](https://www.theverge.com/2023/5/26/23739183/the-witcher-season-5-netflix-liam-hemsworth)
+ - [Best standing desks for home offices, tested and reviewed](https://appleinsider.com/inside/mac/best/best-standing-desk?utm_medium=rss)
+ - [Apple is shutting down the really old &#39;My Photo Stream&#39; on July 26](https://appleinsider.com/articles/23/05/26/apple-is-shutting-down-the-really-old-my-photo-stream-on-july-26?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
