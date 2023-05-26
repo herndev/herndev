@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s next adventures are being designed to come apart at the seams](https://www.polygon.com/23736642/dnd-dungeons-dragons-phandelver-planescape-deck-of-many-things-release-date-price)
- - [The Metal Gear Solid collection will also include the first two Metal Gear games](https://www.pcgamer.com/the-metal-gear-solid-collection-will-also-include-the-first-two-metal-gear-games)
- - [Freaky visuals and pixel-perfect metroidvania gameplay make the second outing of The Penitent One a cult classic in the making](https://www.pcgamer.com/freaky-visuals-and-pixel-perfect-metroidvania-gameplay-make-the-second-outing-of-the-penitent-one-a-cult-classic-in-the-making)<!-- GAME:END -->
+ - [One Piece Odyssey: Friends Have Become Foes in the Reunion of Memories DLC, Out Now](https://news.xbox.com/en-us/2023/05/26/one-piece-odyssey-reunion-of-memories-dlc/)
+ - [Zelda: Tears of the Kingdom patch wipes out duplication glitches](https://www.polygon.com/23738583/zelda-tears-of-the-kingdom-duplicate-items-glitch-patch)
+ - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies [Update]](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
