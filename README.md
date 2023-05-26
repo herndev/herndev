@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad 10 and iPad 9 versus Google Pixel Tablet -- compared](https://appleinsider.com/inside/ipad/vs/ipad-10-and-ipad-9-versus-google-pixel-tablet----compared?utm_medium=rss)
- - [Final Cut for iPad, Apple Headset at WWDC, iOS 17 home display](https://appleinsider.com/articles/23/05/26/final-cut-for-ipad-apple-headset-at-wwdc-ios-17-home-display?utm_medium=rss)
- - [These are the best Android tips and tricks in 2023](https://www.androidauthority.com/best-android-tips-and-tricks-3329249/)<!-- TECH:END -->
+ - [Apple&#39;s headset will need killer apps &amp; services to be successful](https://appleinsider.com/articles/23/05/26/apples-headset-will-need-killer-apps-services-to-be-successful?utm_medium=rss)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
+ - [Brisk It Origin-580 review: A smart smoker for backyard BBQing](https://appleinsider.com/articles/23/05/26/brisk-it-origin-580-review-a-smart-smoker-for-backyard-bbqing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
