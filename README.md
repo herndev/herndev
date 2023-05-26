@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iconic yellow school bus maker opens new electric bus factory](https://www.theverge.com/2023/5/26/23738451/blue-bird-electric-yellow-school-bus-factory-georgia)
- - [Jackery Solar Generator 3000 Pro review: Lots of portable power, with lots of weight](https://appleinsider.com/articles/23/05/26/jackery-solar-generator-3000-pro-review-lots-of-portable-power-with-lots-of-weight?utm_medium=rss)
- - [Top tips for aspiring writers](https://appleinsider.com/articles/23/05/26/top-tips-for-aspiring-writers?utm_medium=rss)<!-- TECH:END -->
+ - [The UK CMA says Meta has offered to limit use of other businesses&#39; ad data for Facebook Marketplace to address the regulator&#39;s competition concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p4#a230526p4)
+ - [What cap? Xiaomi is reporting huge profit numbers.](https://www.androidauthority.com/xiaomi-q1-2023-profit-cap-3329686/)
+ - [Fans watched 795 million minutes of &#39;Ted Lasso&#39; in one week](https://appleinsider.com/articles/23/05/26/fans-watched-795-million-minutes-of-ted-lasso-in-one-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
