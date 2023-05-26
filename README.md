@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monoprice Dark Matter GT](https://www.pcgamer.com/monoprice-dark-matter-gt-foldable-racing-wheel-stand-review)
- - [Big Dolph Lundgren says he&#39;s in The Witcher show](https://www.pcgamer.com/big-dolph-lundgren-says-hes-in-the-witcher-show)
- - [Next Week on Xbox: New Games for May 29 to June 2](https://news.xbox.com/en-us/2023/05/26/next-week-on-xbox-new-games-for-may-29-to-june-2/)<!-- GAME:END -->
+ - [How to get the Phantom Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738794/phantom-armor-location-head-chest-legs)
+ - [Lord of the Rings: Gollum Studio Apologizes For &#39;Underwhelming Experience&#39;](https://kotaku.com/lord-of-the-rings-gollum-apology-ui-daedalic-patch-1850479840)
+ - [The Lord of the Rings: Gollum game studio issues apology for the game’s many bugs](https://www.polygon.com/23738875/lord-rings-gollum-game-studio-twitter-statement-glitches-patch-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
