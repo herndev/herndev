@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Phantom Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738794/phantom-armor-location-head-chest-legs)
- - [Lord of the Rings: Gollum Studio Apologizes For &#39;Underwhelming Experience&#39;](https://kotaku.com/lord-of-the-rings-gollum-apology-ui-daedalic-patch-1850479840)
- - [The Lord of the Rings: Gollum game studio issues apology for the game’s many bugs](https://www.polygon.com/23738875/lord-rings-gollum-game-studio-twitter-statement-glitches-patch-release)<!-- GAME:END -->
+ - [You Want Tears of the Kingdom&#39;s Champion’s Leathers For The Juicy Enemy Info](https://kotaku.com/zelda-champions-leathers-tunic-location-tears-kingdom-1850477821)
+ - [Grant Gustin’s Flash was better than his ending](https://www.polygon.com/23738743/flash-finale-grant-gustin-arrowverse-end)
+ - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
