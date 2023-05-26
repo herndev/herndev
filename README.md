@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
- - ⏩ [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 👉 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
+ - 💣 [Go Sports!](http://9gag.com/gag/ago4vBr)
+ - ⏩ [Show offs](http://9gag.com/gag/ajVZAx1)
+ - 👉 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)<!-- MEMES:END -->
 
 ---
 
