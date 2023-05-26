@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s CNIL says Microsoft agreed to change the way it tracks Bing users; CNIL fined Microsoft &amp;euro;60M in December 2022, and threatened fines of &amp;euro;60K per day &lpar;Bloomberg&rpar;](http://www.techmeme.com/230526/p7#a230526p7)
- - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
+ - [Gollum developers apologize for the game’s ‘underwhelming experience’](https://www.theverge.com/2023/5/26/23738863/gollum-developers-apology-negative-reviews-lotr)
+ - [Upgrade to the Samsung Galaxy Chromebook 2 at a new low of $290](https://www.androidauthority.com/samsung-galaxy-chromebook-2-deal-3329853/)
+ - [Sam Altman says OpenAI &quot;of course&quot; has no plans to leave Europe, reversing a threat to leave the region if it can&#39;t comply with the EU&#39;s upcoming AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p8#a230526p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
