@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ex&#39;s 101?](http://9gag.com/gag/abvB0Zp)
- - ⏩ [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)
- - 👉 [Life hack: Abortion can also be used to secure that your wife will only give you boys.](http://9gag.com/gag/aeQm6gO)<!-- MEMES:END -->
+ - 💣 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
+ - ⏩ [Now I understand why the shoulder and elbow injuries](http://9gag.com/gag/armqKdp)
+ - 👉 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)<!-- MEMES:END -->
 
 ---
 
