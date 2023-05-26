@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s headset will need killer apps &amp; services to be successful](https://appleinsider.com/articles/23/05/26/apples-headset-will-need-killer-apps-services-to-be-successful?utm_medium=rss)
- - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
- - [Brisk It Origin-580 review: A smart smoker for backyard BBQing](https://appleinsider.com/articles/23/05/26/brisk-it-origin-580-review-a-smart-smoker-for-backyard-bbqing?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: as part of its layoffs, Meta cut an ambitious project that would have let third-party fact-checkers like Reuters add comments at the top of articles &lpar;CNBC&rpar;](http://www.techmeme.com/230526/p6#a230526p6)
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Tesla Model Y is the first EV to become the world’s bestselling car](https://www.theverge.com/2023/5/26/23738581/tesla-model-y-ev-record-world-bestselling-car-electric)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
