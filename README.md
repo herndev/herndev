@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - ⏩ [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
- - 👉 [You have been warned](http://9gag.com/gag/aqeW5QL)<!-- MEMES:END -->
+ - 💣 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
+ - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
 
 ---
 
