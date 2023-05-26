@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Before you even got a chance to try 8K here&#39;s the first 110-inch 16K TV](https://www.pcgamer.com/before-you-even-got-a-chance-to-try-8k-heres-the-first-110-inch-16k-tv)
  - [PC Gamer UK July issue on sale now: Warhammer Age of Sigmar: Realms of Ruin](https://www.pcgamer.com/pc-gamer-uk-july-issue-on-sale-now-warhammer-age-of-sigmar-realms-of-ruin)
- - [Today&#39;s Wordle hint and answer #706: Friday, May 26](https://www.pcgamer.com/wordle-today-hint-answer-706-may-26)
- - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet [Update: It&#39;s Patched]](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #706: Friday, May 26](https://www.pcgamer.com/wordle-today-hint-answer-706-may-26)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
