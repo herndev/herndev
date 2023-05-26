@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom’s Depths aren’t scary when you’ve got a sick ride](https://www.polygon.com/legend-zelda-tears-kingdom/23737910/zelda-tears-of-the-kingdom-totk-depths-gloom-best-vehicles-cars-bikes-planes)
- - [My favorite Elder Scrolls-like RPG ran bafflingly badly on Steam Deck, but a small, surprising tweak has doubled its performance](https://www.pcgamer.com/my-favorite-elder-scrolls-like-rpg-ran-bafflingly-badly-on-steam-deck-but-a-small-surprising-tweak-has-doubled-its-performance)
- - [Metal Gear Solid: Master Collection Will Include Five Games You Need To Play](https://kotaku.com/metal-gear-master-collection-snake-eater-hd-collection-1850481173)<!-- GAME:END -->
+ - [Wow, Bungie&#39;s Marathon Is The Coolest Looking Shooter In Years](https://kotaku.com/marathon-shooter-best-vibrant-colorful-bungie-trailer-1850481359)
+ - [John Wick 4, Shazam 2, and every new movie to watch at home this weekend](https://www.polygon.com/2023/5/26/23729815/new-movies-watch-john-wick-4-streaming-shazam-2-blood-gold-netflix)
+ - [This Tears Of The Kingdom &#39;Air Bike&#39; Is Starting A Revolution](https://kotaku.com/tears-of-the-kingdom-how-make-air-bike-map-underground-1850481187)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
