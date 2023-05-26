@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fly me to the moon](http://9gag.com/gag/ago4LwW)
- - ⏩ [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 👉 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)<!-- MEMES:END -->
+ - 💣 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
+ - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 👉 [Tittle](http://9gag.com/gag/aL1mMrA)<!-- MEMES:END -->
 
 ---
 
