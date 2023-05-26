@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Before you even got a chance to try 8K here&#39;s the first 110-inch 16K TV](https://www.pcgamer.com/before-you-even-got-a-chance-to-try-8k-heres-the-first-110-inch-16k-tv)
- - [PC Gamer UK July issue on sale now: Warhammer Age of Sigmar: Realms of Ruin](https://www.pcgamer.com/pc-gamer-uk-july-issue-on-sale-now-warhammer-age-of-sigmar-realms-of-ruin)
- - [Today&#39;s Wordle hint and answer #706: Friday, May 26](https://www.pcgamer.com/wordle-today-hint-answer-706-may-26)<!-- GAME:END -->
+ - [To celebrate Diablo 4&#39;s impending launch, Lilith is selling chocolate, including life-sized human skulls, for some reason](https://www.pcgamer.com/to-celebrate-diablo-4s-impending-launch-lilith-is-selling-chocolate-including-life-sized-human-skulls-for-some-reason)
+ - [Alone in the Dark is coming in October, but you can play the prologue right now](https://www.pcgamer.com/alone-in-the-dark-is-coming-in-october-but-you-can-play-the-prologue-right-now)
+ - [Bungie&#39;s Marathon ARG is gorgeous, extensive, and how the hell do people work this stuff out anyway](https://www.pcgamer.com/bungies-marathon-arg-is-gorgeous-extensive-and-how-the-hell-do-people-work-this-stuff-out-anyway)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
