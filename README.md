@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a live-action Diablo ad from the director of Marvel&#39;s Eternals that&#39;s way too serious for its own good](https://www.pcgamer.com/theres-a-live-action-diablo-ad-from-the-director-of-marvels-eternals-thats-way-too-serious-for-its-own-good)
- - [New Over-Sized Mega Man Slippers Are Perfect](https://kotaku.com/mega-man-big-large-slippers-boots-pre-order-price-1850477390)
- - [The best weapon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713029/best-weapons)<!-- GAME:END -->
+ - [Alone in the Dark remake stars David Harbour and Jodie Comer](https://www.polygon.com/23713109/alone-in-the-dark-remake-release-date-david-harbour-jodie-comer)
+ - [What We Gotta Do To Get A Bungie Singleplayer Shooter Around Here?](https://kotaku.com/bungie-marathon-halo-singleplayer-shooter-fps-solo-coop-1850473099)
+ - [Somebody check if hell&#39;s frozen over, because 2010s voxel RPG Cube World is back](https://www.pcgamer.com/somebody-check-if-hells-frozen-over-because-2010s-voxel-rpg-cube-world-is-back)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
