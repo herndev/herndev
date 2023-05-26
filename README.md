@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will let you watch unlimited NFL Sunday Ticket streams, but only at home](https://www.theverge.com/2023/5/25/23738057/youtube-nfl-sunday-ticket-streams-unlimited-streams-home)
- - [Filing: JPMorgan Chase is working on a ChatGPT-like software service dubbed IndexGPT that uses AI to analyze and select investments tailored to customer needs &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230525/p33#a230525p33)
- - [Tesla leak reportedly shows thousands of Full Self-Driving safety complaints](https://www.theverge.com/2023/5/25/23737972/tesla-whistleblower-leak-fsd-complaints-self-driving)<!-- TECH:END -->
+ - [The FDA will apparently let Elon Musk put a computer in a human’s brain](https://www.theverge.com/2023/5/25/23738123/neuralink-elon-musk-human-trial-fda-approval)
+ - [DCG is shutting down its institutional crypto trading platform TradeBlock, citing the crypto winter and regulatory uncertainties, effective May 31, 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230525/p35#a230525p35)
+ - [Neuralink says it received US FDA approval to launch its first-in-human clinical study of brain implants &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230525/p34#a230525p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
