@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as part of its layoffs, Meta cut an ambitious project that would have let third-party fact-checkers like Reuters add comments at the top of articles &lpar;CNBC&rpar;](http://www.techmeme.com/230526/p6#a230526p6)
- - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Tesla Model Y is the first EV to become the world’s bestselling car](https://www.theverge.com/2023/5/26/23738581/tesla-model-y-ev-record-world-bestselling-car-electric)<!-- TECH:END -->
+ - [How to use Apple Maps to get directions, look up local businesses, and more](https://appleinsider.com/inside/apple-maps/tips/how-to-use-apple-maps-to-get-directions-look-up-local-businesses-and-more?utm_medium=rss)
+ - [The Speedrunners Trying to Break &#39;The Legend of Zelda: Tears of the Kingdom&#39;](https://www.wired.com/story/speedrunners-break-legend-of-zelda-tears-of-the-kingdom/)
+ - [Sources: as part of its layoffs, Meta cut an ambitious project that would have let third-party fact-checkers like Reuters add comments at the top of articles &lpar;CNBC&rpar;](http://www.techmeme.com/230526/p6#a230526p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
