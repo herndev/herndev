@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - ⏩ [Next level tie dye](http://9gag.com/gag/aoKLpR2)
- - 👉 [Making friends on the job site](http://9gag.com/gag/a8q2yMV)<!-- MEMES:END -->
+ - 💣 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
+ - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 👉 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
 
 ---
 
