@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Apple Maps to get directions, look up local businesses, and more](https://appleinsider.com/inside/apple-maps/tips/how-to-use-apple-maps-to-get-directions-look-up-local-businesses-and-more?utm_medium=rss)
- - [The Speedrunners Trying to Break &#39;The Legend of Zelda: Tears of the Kingdom&#39;](https://www.wired.com/story/speedrunners-break-legend-of-zelda-tears-of-the-kingdom/)
- - [Sources: as part of its layoffs, Meta cut an ambitious project that would have let third-party fact-checkers like Reuters add comments at the top of articles &lpar;CNBC&rpar;](http://www.techmeme.com/230526/p6#a230526p6)<!-- TECH:END -->
+ - [France&#39;s CNIL says Microsoft agreed to change the way it tracks Bing users; CNIL fined Microsoft &amp;euro;60M in December 2022, and threatened fines of &amp;euro;60K per day &lpar;Bloomberg&rpar;](http://www.techmeme.com/230526/p7#a230526p7)
+ - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
