@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer UK July issue on sale now: Warhammer Age of Sigmar: Realms of Ruin](https://www.pcgamer.com/pc-gamer-uk-july-issue-on-sale-now-warhammer-age-of-sigmar-realms-of-ruin)
  - [Today&#39;s Wordle hint and answer #706: Friday, May 26](https://www.pcgamer.com/wordle-today-hint-answer-706-may-26)
- - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet [Update: It&#39;s Patched]](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)
- - [Nintendo Patches Tears Of The Kingdom&#39;s Duplication Glitches](https://kotaku.com/zelda-tears-kingdom-duplication-glitch-patched-nerfed-1850478065)<!-- GAME:END -->
+ - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet [Update: It&#39;s Patched]](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
