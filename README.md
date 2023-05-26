@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gollum developers apologize for the game’s ‘underwhelming experience’](https://www.theverge.com/2023/5/26/23738863/gollum-developers-apology-negative-reviews-lotr)
- - [Upgrade to the Samsung Galaxy Chromebook 2 at a new low of $290](https://www.androidauthority.com/samsung-galaxy-chromebook-2-deal-3329853/)
- - [Sam Altman says OpenAI &quot;of course&quot; has no plans to leave Europe, reversing a threat to leave the region if it can&#39;t comply with the EU&#39;s upcoming AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p8#a230526p8)<!-- TECH:END -->
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)
+ - [The JBL Vibe Buds bring 32 hours of battery life at a new price of $39.95](https://www.androidauthority.com/jbl-vibe-buds-deal-3329890/)
+ - [John Wick 5 is already in ‘early development,’ according to Lionsgate](https://www.theverge.com/23739025/john-wick-5-lionsgate-early-development)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
