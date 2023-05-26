@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Pitchfork EIC Puja Patel on how AI is infiltrating every single aspect of music, AI-generated music&#39;s ownership and money concerns, and more &lpar;Wired&rpar;](http://www.techmeme.com/230526/p2#a230526p2)
- - [Thunderbolts becomes latest Marvel movie to be hit by writers’ strike](https://www.theverge.com/2023/5/26/23738420/thunderbolts-delayed-writers-strike-marvel)
- - [Poll results: You’re deeply split on the Pixel Fold, and pricing is the reason](https://www.androidauthority.com/pixel-fold-poll-results-price-3329660/)<!-- TECH:END -->
+ - [Iconic yellow school bus maker opens new electric bus factory](https://www.theverge.com/2023/5/26/23738451/blue-bird-electric-yellow-school-bus-factory-georgia)
+ - [Jackery Solar Generator 3000 Pro review: Lots of portable power, with lots of weight](https://appleinsider.com/articles/23/05/26/jackery-solar-generator-3000-pro-review-lots-of-portable-power-with-lots-of-weight?utm_medium=rss)
+ - [Top tips for aspiring writers](https://appleinsider.com/articles/23/05/26/top-tips-for-aspiring-writers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
