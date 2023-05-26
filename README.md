@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says Meta has offered to limit use of other businesses&#39; ad data for Facebook Marketplace to address the regulator&#39;s competition concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p4#a230526p4)
- - [What cap? Xiaomi is reporting huge profit numbers.](https://www.androidauthority.com/xiaomi-q1-2023-profit-cap-3329686/)
- - [Fans watched 795 million minutes of &#39;Ted Lasso&#39; in one week](https://appleinsider.com/articles/23/05/26/fans-watched-795-million-minutes-of-ted-lasso-in-one-week?utm_medium=rss)<!-- TECH:END -->
+ - [iPad 10 and iPad 9 versus Google Pixel Tablet -- compared](https://appleinsider.com/inside/ipad/vs/ipad-10-and-ipad-9-versus-google-pixel-tablet----compared?utm_medium=rss)
+ - [Final Cut for iPad, Apple Headset at WWDC, iOS 17 home display](https://appleinsider.com/articles/23/05/26/final-cut-for-ipad-apple-headset-at-wwdc-ios-17-home-display?utm_medium=rss)
+ - [These are the best Android tips and tricks in 2023](https://www.androidauthority.com/best-android-tips-and-tricks-3329249/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
