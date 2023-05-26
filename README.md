@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show offs](http://9gag.com/gag/ajVZAx1)
- - ⏩ [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 👉 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
+ - 💣 [`Why do we just look at the science of this` Hahahaha i can&#39;t](http://9gag.com/gag/a7q2Z1x)
+ - ⏩ [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - 👉 [Next level tie dye](http://9gag.com/gag/aoKLpR2)<!-- MEMES:END -->
 
 ---
 
