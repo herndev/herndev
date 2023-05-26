@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FDA will apparently let Elon Musk put a computer in a human’s brain](https://www.theverge.com/2023/5/25/23738123/neuralink-elon-musk-human-trial-fda-approval)
- - [DCG is shutting down its institutional crypto trading platform TradeBlock, citing the crypto winter and regulatory uncertainties, effective May 31, 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230525/p35#a230525p35)
- - [Neuralink says it received US FDA approval to launch its first-in-human clinical study of brain implants &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230525/p34#a230525p34)<!-- TECH:END -->
+ - [Email: Twitter tells researchers to delete all Twitter data stored on their systems within 30 days after their agreement expires, or sign a new contract &lpar;Chris Stokel-Walker/The i Paper&rpar;](http://www.techmeme.com/230525/p37#a230525p37)
+ - [The best phone deals of May 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Alone in the Dark’s new footage is full of terror — and you can play a demo right now](https://www.theverge.com/23734878/alone-in-the-dark-trailer-demo-release-date-david-harbour)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
