@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go Sports!](http://9gag.com/gag/ago4vBr)
- - ⏩ [Show offs](http://9gag.com/gag/ajVZAx1)
- - 👉 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)<!-- MEMES:END -->
+ - 💣 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
+ - 👉 [Hammerhead](http://9gag.com/gag/aPgQMyG)<!-- MEMES:END -->
 
 ---
 
