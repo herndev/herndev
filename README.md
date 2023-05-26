@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Show offs](http://9gag.com/gag/ajVZAx1)
- - ⏩ [Workers at a biscuit company shows their mastery of filling a carton of biscuit](http://9gag.com/gag/a4o29p1)
- - 👉 [B*tchbox](http://9gag.com/gag/a5X2KvV)<!-- MEMES:END -->
+ - ⏩ [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 👉 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
 
 ---
 
