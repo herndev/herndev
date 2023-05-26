@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
- - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 👉 [Tittle](http://9gag.com/gag/aL1mMrA)<!-- MEMES:END -->
+ - 💣 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
+ - ⏩ [I understand](http://9gag.com/gag/aqeW1Yv)
+ - 👉 [Four-eyes!](http://9gag.com/gag/aWGb8Dx)<!-- MEMES:END -->
 
 ---
 
