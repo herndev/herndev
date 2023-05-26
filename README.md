@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get two Warhammer 40,000 strategy games free for a limited time](https://www.pcgamer.com/get-two-warhammer-40000-strategy-games-free-for-a-limited-time)
- - [Cancelled Metal Gear Solid Board Game Is Back From The Brink](https://kotaku.com/metal-gear-solid-board-game-cmon-minis-snake-stealth-1850477870)
- - [Alone in the Dark Spotlight – Hollywood talent and new gameplay](https://blog.playstation.com/2023/05/25/alone-in-the-dark-spotlight-hollywood-talent-and-new-gameplay/)<!-- GAME:END -->
+ - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet [Update: It&#39;s Patched]](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)
+ - [Nintendo Patches Tears Of The Kingdom&#39;s Duplication Glitches](https://kotaku.com/zelda-tears-kingdom-duplication-glitch-patched-nerfed-1850478065)
+ - [Get two Warhammer 40,000 strategy games free for a limited time](https://www.pcgamer.com/get-two-warhammer-40000-strategy-games-free-for-a-limited-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
