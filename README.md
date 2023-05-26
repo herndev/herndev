@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
- - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 👉 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
+ - 💣 [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - ⏩ [Business owner follows thief home on bus](http://9gag.com/gag/aeQmb3O)
+ - 👉 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
 
 ---
 
