@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - ⏩ [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)
- - 👉 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)<!-- MEMES:END -->
+ - 💣 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
+ - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 👉 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
 
 ---
 
