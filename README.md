@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alone in the Dark remake stars David Harbour and Jodie Comer](https://www.polygon.com/23713109/alone-in-the-dark-remake-release-date-david-harbour-jodie-comer)
- - [What We Gotta Do To Get A Bungie Singleplayer Shooter Around Here?](https://kotaku.com/bungie-marathon-halo-singleplayer-shooter-fps-solo-coop-1850473099)
- - [Somebody check if hell&#39;s frozen over, because 2010s voxel RPG Cube World is back](https://www.pcgamer.com/somebody-check-if-hells-frozen-over-because-2010s-voxel-rpg-cube-world-is-back)<!-- GAME:END -->
+ - [Get two Warhammer 40,000 strategy games free for a limited time](https://www.pcgamer.com/get-two-warhammer-40000-strategy-games-free-for-a-limited-time)
+ - [Cancelled Metal Gear Solid Board Game Is Back From The Brink](https://kotaku.com/metal-gear-solid-board-game-cmon-minis-snake-stealth-1850477870)
+ - [Alone in the Dark Spotlight – Hollywood talent and new gameplay](https://blog.playstation.com/2023/05/25/alone-in-the-dark-spotlight-hollywood-talent-and-new-gameplay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
