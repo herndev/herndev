@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Trails &amp; Tales Update Coming June 7!](https://news.xbox.com/en-us/2023/05/26/minecraft-trails-tales-release-date-june/)
- - [Homeworld 3 delayed again, now launching in 2024](https://www.polygon.com/23738665/homeworld-3-release-date-delay-announcement)
- - [Jochi-iu Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23735958/jochi-iu-shrine-courage-pluck-location-walkthrough)<!-- GAME:END -->
+ - [Monoprice Dark Matter GT](https://www.pcgamer.com/monoprice-dark-matter-gt-foldable-racing-wheel-stand-review)
+ - [Big Dolph Lundgren says he&#39;s in The Witcher show](https://www.pcgamer.com/big-dolph-lundgren-says-hes-in-the-witcher-show)
+ - [Next Week on Xbox: New Games for May 29 to June 2](https://news.xbox.com/en-us/2023/05/26/next-week-on-xbox-new-games-for-may-29-to-june-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
