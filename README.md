@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show offs](http://9gag.com/gag/ajVZAx1)
- - ⏩ [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 👉 [Hammerhead](http://9gag.com/gag/aPgQMyG)<!-- MEMES:END -->
+ - 💣 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - ⏩ [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
+ - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
 
 ---
 
