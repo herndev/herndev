@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Sastrify, which operates a marketplace for buying and managing SaaS subscriptions, raised a $32M Series B, bringing its total funding to $55.2M &lpar;FinSMEs&rpar;](http://www.techmeme.com/230526/p10#a230526p10)
- - [Check out 19 of the best romantic movies on Netflix](https://www.androidauthority.com/best-romance-movies-on-netflix-3311684/)
- - [Bluesky rolls out feeds with custom algorithms](https://www.theverge.com/2023/5/26/23739174/bluesky-custom-feeds-algorithms-twitter-alternative)<!-- TECH:END -->
+ - [Sources: PE firms Francisco Partners and TPG have ended talks to acquire observability software company New Relic after failing to secure enough debt financing &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p12#a230526p12)
+ - [Sonos wins $32.5 million patent infringement victory over Google](https://www.theverge.com/2023/5/26/23739273/google-sonos-smart-speaker-patent-lawsuit-ruling)
+ - [A California jury finds Google&#39;s products infringed on a Sonos smart speaker patent and orders Google to pay $32.5M, or $2.30 for each of the 14M+ devices sold &lpar;The Verge&rpar;](http://www.techmeme.com/230526/p11#a230526p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
