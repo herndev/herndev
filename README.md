@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - ⏩ [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
- - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
+ - 💣 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - ⏩ [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)
+ - 👉 [Hammerhead](http://9gag.com/gag/aPgQMyG)<!-- MEMES:END -->
 
 ---
 
