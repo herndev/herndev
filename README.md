@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video mocks Netflix for new password sharing restrictions](https://www.androidauthority.com/amazon-prime-video-mocks-netflix-password-sharing-retrictions-3329649/)
- - [ChatGPT iOS app expands to over 40 countries](https://www.androidauthority.com/chatgpt-ios-android-app-3326767/)
- - [Deepfakes, Cheapfakes, and Twitter Censorship Mar Turkey’s Elections](https://www.wired.com/story/deepfakes-cheapfakes-and-twitter-censorship-mar-turkeys-elections/)<!-- TECH:END -->
+ - [The top Pixel Fold model is sold out in the US](https://www.androidauthority.com/512gb-google-pixel-fold-sold-out-3329646/)
+ - [Poll: What do you think of transparent gadgets?](https://www.androidauthority.com/transparent-gadgets-poll-3329255/)
+ - [Amazon Prime Video mocks Netflix for new password sharing restrictions](https://www.androidauthority.com/amazon-prime-video-mocks-netflix-password-sharing-retrictions-3329649/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
