@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece Odyssey: Friends Have Become Foes in the Reunion of Memories DLC, Out Now](https://news.xbox.com/en-us/2023/05/26/one-piece-odyssey-reunion-of-memories-dlc/)
- - [Zelda: Tears of the Kingdom patch wipes out duplication glitches](https://www.polygon.com/23738583/zelda-tears-of-the-kingdom-duplicate-items-glitch-patch)
- - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies [Update]](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)<!-- GAME:END -->
+ - [Minecraft Trails &amp; Tales Update Coming June 7!](https://news.xbox.com/en-us/2023/05/26/minecraft-trails-tales-release-date-june/)
+ - [Homeworld 3 delayed again, now launching in 2024](https://www.polygon.com/23738665/homeworld-3-release-date-delay-announcement)
+ - [Jochi-iu Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23735958/jochi-iu-shrine-courage-pluck-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
