@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [A survey conducted in March 2023: 58% of US adults have heard of ChatGPT but only 14% have tried it themselves; roughly four in ten say it&#39;s somewhat useful &lpar;Emily A. Vogels/Pew Research Center&rpar;](http://www.techmeme.com/230525/p38#a230525p38)
- - [Email: Twitter tells researchers to delete all Twitter data stored on their systems within 30 days after their agreement expires, or sign a new contract &lpar;Chris Stokel-Walker/The i Paper&rpar;](http://www.techmeme.com/230525/p37#a230525p37)
- - [The best phone deals of May 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [Email: Twitter tells researchers to delete all Twitter data stored on their systems within 30 days after their agreement expires, or sign a new contract &lpar;Chris Stokel-Walker/The i Paper&rpar;](http://www.techmeme.com/230525/p37#a230525p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
