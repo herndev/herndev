@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)
- - [Last Of Us Multiplayer Not Ready To Show, Naughty Dog Says](https://kotaku.com/last-of-us-multiplayer-game-playstation-showcase-ps5-1850480567)
- - [FaZe Clan Signs Stranger Things Streamer On Twitch Only To Spark Civil War](https://kotaku.com/faze-clan-stranger-things-grace-van-dien-rain-santana-1850480356)<!-- GAME:END -->
+ - [How to farm dragon materials in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737361/dragon-materials-farm-how-to-get)
+ - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
+ - [A magical Windows XP activation tool has been hiding in plain sight on Reddit for the last year](https://www.pcgamer.com/a-magical-windows-xp-activation-tool-has-been-hiding-in-plain-sight-on-reddit-for-the-last-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
