@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Why do we just look at the science of this` Hahahaha i can&#39;t](http://9gag.com/gag/a7q2Z1x)
- - ⏩ [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - 👉 [Next level tie dye](http://9gag.com/gag/aoKLpR2)<!-- MEMES:END -->
+ - 💣 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - ⏩ [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)
+ - 👉 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)<!-- MEMES:END -->
 
 ---
 
