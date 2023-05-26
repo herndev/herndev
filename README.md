@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Want Tears of the Kingdom&#39;s Champion’s Leathers For The Juicy Enemy Info](https://kotaku.com/zelda-champions-leathers-tunic-location-tears-kingdom-1850477821)
- - [Grant Gustin’s Flash was better than his ending](https://www.polygon.com/23738743/flash-finale-grant-gustin-arrowverse-end)
- - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
+ - [Fairgames promises &#39;emergent sandbox gameplay&#39; in competitive PvP heists](https://www.pcgamer.com/fairgames-promises-emergent-sandbox-gameplay-in-competitive-pvp-heists)
+ - [The Lord of the Rings: Gollum studio says sorry for The Lord of the Rings: Gollum game](https://www.pcgamer.com/the-lord-of-the-rings-gollum-studio-says-sorry-for-the-lord-of-the-rings-gollum-game)
+ - [Oh No, The PS5&#39;s Spider-Man 2 Game Has A Silly &#39;Puddlegate&#39; Controversy](https://kotaku.com/spider-man-2-ps5-ps4-water-graphics-insomniac-marvel-1850480251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
