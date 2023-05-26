@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - ⏩ [You have been warned](http://9gag.com/gag/aqeW5QL)
- - 👉 [A dolphin](http://9gag.com/gag/a1P2KvY)<!-- MEMES:END -->
+ - 💣 [Fly me to the moon](http://9gag.com/gag/ago4LwW)
+ - ⏩ [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 👉 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)<!-- MEMES:END -->
 
 ---
 
