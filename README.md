@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - ⏩ [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 👉 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
+ - 💣 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
+ - ⏩ [You have been warned](http://9gag.com/gag/aqeW5QL)
+ - 👉 [A dolphin](http://9gag.com/gag/a1P2KvY)<!-- MEMES:END -->
 
 ---
 
