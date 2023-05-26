@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Ex&#39;s 101?](http://9gag.com/gag/abvB0Zp)
  - ⏩ [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)
- - 👉 [Kaliber 4 Bore](http://9gag.com/gag/ay2R8VW)<!-- MEMES:END -->
+ - 👉 [Life hack: Abortion can also be used to secure that your wife will only give you boys.](http://9gag.com/gag/aeQm6gO)<!-- MEMES:END -->
 
 ---
 
