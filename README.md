@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - ⏩ [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
- - 👉 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
+ - 💣 [Show offs](http://9gag.com/gag/ajVZAx1)
+ - ⏩ [Workers at a biscuit company shows their mastery of filling a carton of biscuit](http://9gag.com/gag/a4o29p1)
+ - 👉 [B*tchbox](http://9gag.com/gag/a5X2KvV)<!-- MEMES:END -->
 
 ---
 
