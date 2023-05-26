@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm dragon materials in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737361/dragon-materials-farm-how-to-get)
- - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
- - [A magical Windows XP activation tool has been hiding in plain sight on Reddit for the last year](https://www.pcgamer.com/a-magical-windows-xp-activation-tool-has-been-hiding-in-plain-sight-on-reddit-for-the-last-year)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom’s Depths aren’t scary when you’ve got a sick ride](https://www.polygon.com/legend-zelda-tears-kingdom/23737910/zelda-tears-of-the-kingdom-totk-depths-gloom-best-vehicles-cars-bikes-planes)
+ - [My favorite Elder Scrolls-like RPG ran bafflingly badly on Steam Deck, but a small, surprising tweak has doubled its performance](https://www.pcgamer.com/my-favorite-elder-scrolls-like-rpg-ran-bafflingly-badly-on-steam-deck-but-a-small-surprising-tweak-has-doubled-its-performance)
+ - [Metal Gear Solid: Master Collection Will Include Five Games You Need To Play](https://kotaku.com/metal-gear-master-collection-snake-eater-hd-collection-1850481173)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
