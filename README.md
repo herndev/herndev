@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top Pixel Fold model is sold out in the US](https://www.androidauthority.com/512gb-google-pixel-fold-sold-out-3329646/)
- - [Poll: What do you think of transparent gadgets?](https://www.androidauthority.com/transparent-gadgets-poll-3329255/)
- - [Amazon Prime Video mocks Netflix for new password sharing restrictions](https://www.androidauthority.com/amazon-prime-video-mocks-netflix-password-sharing-retrictions-3329649/)<!-- TECH:END -->
+ - [Poll results: You’re deeply split on the Pixel Fold, and pricing is the reason](https://www.androidauthority.com/pixel-fold-poll-results-price-3329660/)
+ - [How three US teenagers built Mirai, a DDoS botnet that exploited IoT devices, and avoided prison by helping the FBI with cybercrime and cybersecurity matters &lpar;Scott J. Shapiro/IEEE Spectrum&rpar;](http://www.techmeme.com/230526/p1#a230526p1)
+ - [The top Pixel Fold model is sold out in the US](https://www.androidauthority.com/512gb-google-pixel-fold-sold-out-3329646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
