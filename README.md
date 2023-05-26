@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To celebrate Diablo 4&#39;s impending launch, Lilith is selling chocolate, including life-sized human skulls, for some reason](https://www.pcgamer.com/to-celebrate-diablo-4s-impending-launch-lilith-is-selling-chocolate-including-life-sized-human-skulls-for-some-reason)
- - [Alone in the Dark is coming in October, but you can play the prologue right now](https://www.pcgamer.com/alone-in-the-dark-is-coming-in-october-but-you-can-play-the-prologue-right-now)
- - [Bungie&#39;s Marathon ARG is gorgeous, extensive, and how the hell do people work this stuff out anyway](https://www.pcgamer.com/bungies-marathon-arg-is-gorgeous-extensive-and-how-the-hell-do-people-work-this-stuff-out-anyway)<!-- GAME:END -->
+ - [D&amp;D’s next adventures are being designed to come apart at the seams](https://www.polygon.com/23736642/dnd-dungeons-dragons-phandelver-planescape-deck-of-many-things-release-date-price)
+ - [The Metal Gear Solid collection will also include the first two Metal Gear games](https://www.pcgamer.com/the-metal-gear-solid-collection-will-also-include-the-first-two-metal-gear-games)
+ - [Freaky visuals and pixel-perfect metroidvania gameplay make the second outing of The Penitent One a cult classic in the making](https://www.pcgamer.com/freaky-visuals-and-pixel-perfect-metroidvania-gameplay-make-the-second-outing-of-the-penitent-one-a-cult-classic-in-the-making)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
