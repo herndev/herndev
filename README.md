@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Of The Most Fascinating Indie Games For Your Steam Wishlist](https://kotaku.com/steam-pc-demo-wishlist-indiegeddon-best-indie-games-1850484666)
- - [Command or conquer armies of Strogg in this ambitious Quake RTS mod](https://www.pcgamer.com/command-or-conquer-armies-of-strogg-in-this-ambitious-quake-rts-mod)
- - [I attempted to build one of every building in Cities: Skylines and its expansions—it ended in disaster](https://www.pcgamer.com/i-attempted-to-build-one-of-every-building-in-cities-skylines-and-its-expansionsit-ended-in-disaster)<!-- GAME:END -->
+ - [Final Fantasy XVI Will Have Perfect Grapes](https://kotaku.com/final-fantasy-xvi-grapes-ui-square-enix-ps5-playstation-1850484802)
+ - [Valheim developer believes paid mods are &#39;against the creative and open spirit of modding&#39;](https://www.pcgamer.com/valheim-developer-believes-paid-mods-are-against-the-creative-and-open-spirit-of-modding)
+ - [British TV’s most badass cop is a pissed-off grandma](https://www.polygon.com/23737410/happy-valley-season-3-sarah-lancashire-catherine-cawood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
