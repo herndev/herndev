@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)
- - ⏩ [Dude gets notified of a goal before it even happens](http://9gag.com/gag/a2K2WO1)
- - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
+ - ⏩ [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
+ - 👉 [Not sure what i witnessed here, politics?](http://9gag.com/gag/ap9bNqp)<!-- MEMES:END -->
 
 ---
 
