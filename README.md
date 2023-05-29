@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
- - ⏩ [Skill issue](http://9gag.com/gag/aVbL71M)
- - 👉 [I can confirm](http://9gag.com/gag/az2RM3j)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/aGEApBw)
+ - ⏩ [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - 👉 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)<!-- MEMES:END -->
 
 ---
 
