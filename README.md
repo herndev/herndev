@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is changing a well-loved Pixel feature and you may not like it](https://www.androidauthority.com/pixel-call-screening-new-menu-3330057/)
- - [Family tech support gets easier: Screen sharing comes to WhatsApp video calls](https://www.androidauthority.com/whatsapp-screen-sharing-video-calls-3330055/)
- - [Reliable source claims iPhone 16 Pro series could be Apple’s largest](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)<!-- TECH:END -->
+ - [This special OnePlus 11 is leaving China and getting a new name &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-11-marble-odyssey-edition-india-3328655/)
+ - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)
+ - [Google is changing a well-loved Pixel feature and you may not like it](https://www.androidauthority.com/pixel-call-screening-new-menu-3330057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
