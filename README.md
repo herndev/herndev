@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - ⏩ [Hehe](http://9gag.com/gag/aGEApBw)
- - 👉 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
+ - 💣 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - ⏩ [Skill issue](http://9gag.com/gag/aVbL71M)
+ - 👉 [You may not like him but this is S A V A G E](http://9gag.com/gag/ap9bmBW)<!-- MEMES:END -->
 
 ---
 
