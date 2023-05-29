@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logi Dock review: conference calls have never been so cute](https://www.theverge.com/23728549/logitech-logi-dock-review-conference-laptop-docking-station)
- - [24 Best Memorial Day Tech Deals 2023: Headphones, TVs, and More](https://www.wired.com/story/memorial-day-tech-deals-2023/)
- - [New HomeKit devices, Matter improves, plus more smart home news](https://appleinsider.com/articles/23/05/29/new-homekit-devices-matter-improves-plus-more-smart-home-news?utm_medium=rss)<!-- TECH:END -->
+ - [Crash Detection feature &amp; Apple Watch alert police to fatal car crash](https://appleinsider.com/articles/23/05/29/crash-detection-feature-apple-watch-alert-police-to-fatal-car-crash?utm_medium=rss)
+ - [Apple MagSafe Charger prototype reveals an unused color option](https://appleinsider.com/articles/23/05/29/apple-magsafe-charger-prototype-reveals-an-unused-color-option?utm_medium=rss)
+ - [A look at media coverage of generative AI over the past six months, as journalists and academics criticize the hype and provide ways to improve reporting &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/230529/p6#a230529p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
