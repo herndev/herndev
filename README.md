@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia announces a range of AI products and updates, including the DGX GH200 supercomputer platform, data center networking tools, and a robotics platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/230529/p3#a230529p3)
  - [Apple will finally pay for broken keyboards on MacBooks](https://www.androidauthority.com/apple-butterfly-keyboard-settlement-approved-3330074/)
- - [An interview with IBM VP of Quantum Computing Jay Gambetta on the company&#39;s plan to build a 100,000-qubit computer within 10 years, finding scientists, and more &lpar;Michael Brooks/MIT Technology Review&rpar;](http://www.techmeme.com/230529/p2#a230529p2)
- - [This special OnePlus 11 is leaving China and getting a new name &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-11-marble-odyssey-edition-india-3328655/)<!-- TECH:END -->
+ - [An interview with IBM VP of Quantum Computing Jay Gambetta on the company&#39;s plan to build a 100,000-qubit computer within 10 years, finding scientists, and more &lpar;Michael Brooks/MIT Technology Review&rpar;](http://www.techmeme.com/230529/p2#a230529p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
