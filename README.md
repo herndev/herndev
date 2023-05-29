@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - ⏩ [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
- - 👉 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
+ - 💣 [You may not like him but this is S A V A G E](http://9gag.com/gag/ap9bmBW)
+ - ⏩ [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
+ - 👉 [True love indeed](http://9gag.com/gag/aREorLG)<!-- MEMES:END -->
 
 ---
 
