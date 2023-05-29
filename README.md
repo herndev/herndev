@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why bro... Why!](http://9gag.com/gag/awZdyo8)
- - ⏩ [Relatable](http://9gag.com/gag/aZDjD4n)
- - 👉 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
+ - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - ⏩ [Hehe](http://9gag.com/gag/aGEApBw)
+ - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 ---
 
