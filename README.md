@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
- - ⏩ [What th\u2026.](http://9gag.com/gag/aVbLwMw)
- - 👉 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
+ - 💣 [Why bro... Why!](http://9gag.com/gag/awZdyo8)
+ - ⏩ [Relatable](http://9gag.com/gag/aZDjD4n)
+ - 👉 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
 
 ---
 
