@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
- - ⏩ [Skill issue](http://9gag.com/gag/aVbL71M)
- - 👉 [You may not like him but this is S A V A G E](http://9gag.com/gag/ap9bmBW)<!-- MEMES:END -->
+ - 💣 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
+ - ⏩ [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - 👉 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
 
 ---
 
