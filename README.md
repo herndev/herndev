@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Will Have Perfect Grapes](https://kotaku.com/final-fantasy-xvi-grapes-ui-square-enix-ps5-playstation-1850484802)
- - [Valheim developer believes paid mods are &#39;against the creative and open spirit of modding&#39;](https://www.pcgamer.com/valheim-developer-believes-paid-mods-are-against-the-creative-and-open-spirit-of-modding)
- - [British TV’s most badass cop is a pissed-off grandma](https://www.polygon.com/23737410/happy-valley-season-3-sarah-lancashire-catherine-cawood)<!-- GAME:END -->
+ - [The Witcher 3 has sold 50 million copies](https://www.pcgamer.com/the-witcher-3-has-sold-50-million-copies)
+ - [League of Legends pro players vote to strike over Riot&#39;s rule changes](https://www.pcgamer.com/league-of-legends-pro-players-vote-to-strike-over-riots-rule-changes)
+ - [Star Trek’s Michael Dorn says his DC Steel book harkens back to the real John Henry legend](https://www.polygon.com/23737755/dc-comics-star-trek-superman-comic-steel-steelworks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
