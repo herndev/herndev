@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wow, Bungie&#39;s Marathon Is The Coolest Looking Shooter In Years](https://kotaku.com/marathon-shooter-best-vibrant-colorful-bungie-trailer-1850481359)
- - [John Wick 4, Shazam 2, and every new movie to watch at home this weekend](https://www.polygon.com/2023/5/26/23729815/new-movies-watch-john-wick-4-streaming-shazam-2-blood-gold-netflix)
- - [This Tears Of The Kingdom &#39;Air Bike&#39; Is Starting A Revolution](https://kotaku.com/tears-of-the-kingdom-how-make-air-bike-map-underground-1850481187)<!-- GAME:END -->
+ - [Forget tempered glass and RGB, witness the fruits of a cross-country effort to save a 20-year-old Teddy bear PC](https://www.pcgamer.com/forget-tempered-glass-and-rgb-witness-the-fruits-of-a-cross-country-effort-to-save-a-20-year-old-teddy-bear-pc)
+ - [New fanmade Quake map pack turns the classic shooter into a pacifist platformer fueled by vibes](https://www.pcgamer.com/new-fanmade-quake-map-pack-turns-the-classic-shooter-into-a-pacifist-platformer-fueled-by-vibes)
+ - [Nintendo Asks Valve To Kick GameCube And Wii Emulator Off Steam, Says It&#39;s Protecting Its Creativity And Work](https://kotaku.com/nintendo-gamecube-wii-emulator-dolphin-valve-piracy-1850482929)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
