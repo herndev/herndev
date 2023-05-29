@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love indeed](http://9gag.com/gag/aREorLG)
- - ⏩ [It&#39;s about sending a message](http://9gag.com/gag/aQEZoAr)
- - 👉 [R1, R1, CIRCLE, R2, UP, DOWN, UP, DOWN, UP, DOWN.](http://9gag.com/gag/aL1mp9x)<!-- MEMES:END -->
+ - 💣 [Never forget](http://9gag.com/gag/aKEe743)
+ - ⏩ [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
+ - 👉 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
 
 ---
 
