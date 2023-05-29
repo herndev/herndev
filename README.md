@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You may not like him but this is S A V A G E](http://9gag.com/gag/ap9bmBW)
- - ⏩ [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
- - 👉 [True love indeed](http://9gag.com/gag/aREorLG)<!-- MEMES:END -->
+ - 💣 [Training session](http://9gag.com/gag/aPgQ38n)
+ - ⏩ [Not sure what i witnessed here, politics?](http://9gag.com/gag/ap9bNqp)
+ - 👉 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
 
 ---
 
