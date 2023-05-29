@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/aGEApBw)
- - ⏩ [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 👉 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)<!-- MEMES:END -->
+ - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
+ - 👉 [The new norm around my neighbourhood in Tehran, Iran ... Islamic fascists are crying everywhere!](http://9gag.com/gag/aMEvEo1)<!-- MEMES:END -->
 
 ---
 
