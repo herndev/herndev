@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 15: Everything we know so far](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
- - [A survey of 3,000 US workers, an equal number of Boomers, Gen Xers, Millennials, and Gen Zers, finds 85% of them have used AI tools to perform tasks at work &lpar;Sara Korolevich/Checkr&rpar;](http://www.techmeme.com/230529/p1#a230529p1)
- - [What is prompt engineering and how does it work?](https://www.androidauthority.com/what-is-prompt-engineering-3330031/)<!-- TECH:END -->
+ - [Family tech support gets easier: Screen sharing comes to WhatsApp video calls](https://www.androidauthority.com/whatsapp-screen-sharing-video-calls-3330055/)
+ - [Reliable source claims iPhone 16 Pro series could be Apple’s largest](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)
+ - [Apple iPhone 15: Everything we know so far](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
