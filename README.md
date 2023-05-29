@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Magic Compose beta is here — but it sends your messages to Google](https://www.theverge.com/2023/5/26/23739224/google-messages-magic-compose-beta-ai)
- - [Sources: PE firms Francisco Partners and TPG have ended talks to acquire observability software company New Relic after failing to secure enough debt financing &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p12#a230526p12)
- - [Sonos wins $32.5 million patent infringement victory over Google](https://www.theverge.com/2023/5/26/23739273/google-sonos-smart-speaker-patent-lawsuit-ruling)<!-- TECH:END -->
+ - [Video Games Are Finally Waking Up to Climate Change     - CNET](https://www.cnet.com/tech/gaming/features/video-games-are-finally-waking-up-to-climate-change/#ftag=CAD590a51e)
+ - [The Avengers Video Game the World Never Got to Play     - CNET](https://www.cnet.com/culture/features/the-avengers-video-game-the-world-never-got-to-play/#ftag=CAD590a51e)
+ - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
