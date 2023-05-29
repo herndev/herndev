@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget](http://9gag.com/gag/aKEe743)
- - ⏩ [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 👉 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
+ - 💣 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - ⏩ [Big brain](http://9gag.com/gag/aL1mpRP)
+ - 👉 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
 
 ---
 
