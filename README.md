@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - 👉 [The new norm around my neighbourhood in Tehran, Iran ... Islamic fascists are crying everywhere!](http://9gag.com/gag/aMEvEo1)<!-- MEMES:END -->
+ - ⏩ [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
+ - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 ---
 
