@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of YouTube CEO Neal Mohan, credited with bulking up its ad and subscription businesses while seeking to crack down on dangerous and misleading videos &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230529/p10#a230529p10)
  - [Cryptic tease may suggest imminent &#39;No Man&#39;s Sky&#39; launch on Mac](https://appleinsider.com/articles/23/05/29/no-mans-sky-may-finally-be-launching-on-mac-thanks-to-cryptic-tease?utm_medium=rss)
- - [Apple sued by actor Brent Sexton over COVID vaccination mandate](https://appleinsider.com/articles/23/05/29/apple-sued-by-actor-brent-sexton-over-covid-vaccination-mandate?utm_medium=rss)
- - [Up your game with a record 35% discount on the 8Bitdo Ultimate controller](https://www.androidauthority.com/8bitdo-ultimate-wired-controller-deal-3330220/)<!-- TECH:END -->
+ - [Apple sued by actor Brent Sexton over COVID vaccination mandate](https://appleinsider.com/articles/23/05/29/apple-sued-by-actor-brent-sexton-over-covid-vaccination-mandate?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
