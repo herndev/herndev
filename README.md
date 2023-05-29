@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm Cortex-X4, A720, and A520: 2024 smartphone CPUs deep dive](https://www.androidauthority.com/arm-cortex-x4-explained-3328008/)
- - [WhatsApp is working on usernames and screen sharing](https://www.theverge.com/2023/5/29/23741313/whatsapp-user-names-screen-sharing-beta-test)
- - [Computex 2023: all the news from Taiwan’s big PC show](https://www.theverge.com/2023/5/29/23739290/computex-2023-laptop-pc-announcement-news)<!-- TECH:END -->
+ - [This rare deal on the Starlink satellite internet kit ends tonight](https://www.androidauthority.com/starlink-deal-3330186/)
+ - [Bargain bonanza: unbeatable Apple deals on Amazon this week](https://appleinsider.com/articles/23/05/29/bargain-bonanza-unbeatable-apple-deals-on-amazon-this-week?utm_medium=rss)
+ - [Arm Cortex-X4, A720, and A520: 2024 smartphone CPUs deep dive](https://www.androidauthority.com/arm-cortex-x4-explained-3328008/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
