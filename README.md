@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why did the PC gaming community learn to hate prebuilt computers?](https://www.pcgamer.com/why-did-the-pc-gaming-community-learn-to-hate-prebuilt-computers)
- - [Darktide brings in the Chaos Spawn and two new levels](https://www.pcgamer.com/darktide-brings-in-the-chaos-spawn-and-two-new-levels)
- - [10 Indie Games That Are Bursting With Imagination](https://kotaku.com/steam-pc-best-indie-games-demo-youtube-trailer-1850485229)<!-- GAME:END -->
+ - [This sci-fi RTS gameplay trailer is so good it sparked an argument about realistic deep-space combat on Reddit](https://www.pcgamer.com/this-sci-fi-rts-gameplay-trailer-is-so-good-it-sparked-an-argument-about-realistic-deep-space-combat-on-reddit)
+ - [Lord Of The Rings CCG Will Include Diversity And Originality](https://kotaku.com/lord-of-the-rings-magic-the-gathering-card-game-wizards-1850485344)
+ - [Why did the PC gaming community learn to hate prebuilt computers?](https://www.pcgamer.com/why-did-the-pc-gaming-community-learn-to-hate-prebuilt-computers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
