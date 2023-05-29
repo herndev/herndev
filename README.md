@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
- - ⏩ [Never forget](http://9gag.com/gag/aKEe743)
- - 👉 [Training session](http://9gag.com/gag/aPgQ38n)<!-- MEMES:END -->
+ - 💣 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - ⏩ [What th\u2026.](http://9gag.com/gag/aVbLwMw)
+ - 👉 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
 
 ---
 
