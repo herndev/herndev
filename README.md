@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crash Detection feature &amp; Apple Watch alert police to fatal car crash](https://appleinsider.com/articles/23/05/29/crash-detection-feature-apple-watch-alert-police-to-fatal-car-crash?utm_medium=rss)
- - [Apple MagSafe Charger prototype reveals an unused color option](https://appleinsider.com/articles/23/05/29/apple-magsafe-charger-prototype-reveals-an-unused-color-option?utm_medium=rss)
- - [A look at media coverage of generative AI over the past six months, as journalists and academics criticize the hype and provide ways to improve reporting &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/230529/p6#a230529p6)<!-- TECH:END -->
+ - [Apple Wallet patent infringement suit heads to settlement conference](https://appleinsider.com/articles/23/05/29/apple-wallet-patent-infringement-suit-heads-to-settlement-conference?utm_medium=rss)
+ - [35 Best Memorial Day Sales and Deals: Pizza Ovens, Recycled Bags, and More](https://www.wired.com/story/best-memorial-day-sales-2023/)
+ - [Memorial Day deals: iPads from $149, $230 off Apple Watch, LG TV &amp; monitor sale, more](https://appleinsider.com/articles/23/05/29/memorial-day-deals-ipads-from-149-230-off-apple-watch-lg-tv-monitor-sale-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
