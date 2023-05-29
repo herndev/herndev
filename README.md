@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlueStacks problems and how to fix them](https://www.androidauthority.com/bluestacks-problems-fixes-3328508/)
  - [5 things you must know about next-gen smartphone processors](https://www.androidauthority.com/arm-2023-cpu-gpu-need-to-know-3327501/)
- - [A look at hCaptcha, a reCAPTCHA alternative used by Discord and others that is using AI-generated images to train ML systems and generative adversarial networks &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230528/p9#a230528p9)
- - [Dolphin says Nintendo blocked a Steam release of its Wii and GameCube emulator](https://www.theverge.com/2023/5/28/23740749/nintendo-wii-dolphin-emulator-steam-pc-gaming)<!-- TECH:END -->
+ - [A look at hCaptcha, a reCAPTCHA alternative used by Discord and others that is using AI-generated images to train ML systems and generative adversarial networks &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230528/p9#a230528p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
