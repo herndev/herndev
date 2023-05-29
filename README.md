@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video Games Are Finally Waking Up to Climate Change     - CNET](https://www.cnet.com/tech/gaming/features/video-games-are-finally-waking-up-to-climate-change/#ftag=CAD590a51e)
- - [The Avengers Video Game the World Never Got to Play     - CNET](https://www.cnet.com/culture/features/the-avengers-video-game-the-world-never-got-to-play/#ftag=CAD590a51e)
- - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 things you must know about next-gen smartphone processors](https://www.androidauthority.com/arm-2023-cpu-gpu-need-to-know-3327501/)
+ - [A look at hCaptcha, a reCAPTCHA alternative used by Discord and others that is using AI-generated images to train ML systems and generative adversarial networks &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230528/p9#a230528p9)
+ - [Dolphin says Nintendo blocked a Steam release of its Wii and GameCube emulator](https://www.theverge.com/2023/5/28/23740749/nintendo-wii-dolphin-emulator-steam-pc-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
