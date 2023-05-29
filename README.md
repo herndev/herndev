@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - ⏩ [Hehe](http://9gag.com/gag/aGEApBw)
- - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/aGEApBw)
+ - ⏩ [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
+ - 👉 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)<!-- MEMES:END -->
 
 ---
 
