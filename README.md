@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Training session](http://9gag.com/gag/aPgQ38n)
- - ⏩ [Not sure what i witnessed here, politics?](http://9gag.com/gag/ap9bNqp)
- - 👉 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
+ - 💣 [True love indeed](http://9gag.com/gag/aREorLG)
+ - ⏩ [It&#39;s about sending a message](http://9gag.com/gag/aQEZoAr)
+ - 👉 [R1, R1, CIRCLE, R2, UP, DOWN, UP, DOWN, UP, DOWN.](http://9gag.com/gag/aL1mp9x)<!-- MEMES:END -->
 
 ---
 
