@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s massive AI GPU has enough memory to make a gamer weep and even Jensen Huang&#39;s wondering &#39;if this could play Crysis?&#39;](https://www.pcgamer.com/nvidias-massive-ai-gpu-has-enough-memory-to-make-a-gamer-weep-and-even-jensen-huangs-wondering-if-this-could-play-crysis)
  - [Nvidia&#39;s bringing its AI avatars to games and they can interact with players in real-time. With voiced dialogue. And facial animations](https://www.pcgamer.com/nvidia-ace-ai-avatar)
- - [Today&#39;s Wordle hint and answer #709: Monday, May 29](https://www.pcgamer.com/wordle-today-hint-answer-709-may-29)
- - [The Witcher has been renewed for a fifth season](https://www.pcgamer.com/the-witcher-has-been-renewed-for-a-fifth-season)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #709: Monday, May 29](https://www.pcgamer.com/wordle-today-hint-answer-709-may-29)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
