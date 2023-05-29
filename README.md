@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crowdfunding website Fig is no more](https://www.pcgamer.com/crowdfunding-website-fig-is-no-more)
- - [Bandai Namco officially announces Bryan Fury for Tekken 8, after accidentally announcing Bryan Fury for Tekken 8](https://www.pcgamer.com/bandai-namco-officially-announces-bryan-fury-for-tekken-8-after-accidentally-announcing-bryan-fury-for-tekken-8)
- - [How to restore an old PC: Top tips and the biggest mistakes to avoid](https://www.pcgamer.com/how-to-restore-an-old-pc-top-tips-and-the-biggest-mistakes-to-avoid)<!-- GAME:END -->
+ - [Succession had a great finale fit for a different version of the show](https://www.polygon.com/23739306/succession-season-4-finale-review-series)
+ - [Nvidia&#39;s New AI Is Coming For Absolutely Every Gaming Job](https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480)
+ - [Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/days-of-play-2023-sale-kicks-off-on-june-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
