@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This rare deal on the Starlink satellite internet kit ends tonight](https://www.androidauthority.com/starlink-deal-3330186/)
- - [Bargain bonanza: unbeatable Apple deals on Amazon this week](https://appleinsider.com/articles/23/05/29/bargain-bonanza-unbeatable-apple-deals-on-amazon-this-week?utm_medium=rss)
- - [Arm Cortex-X4, A720, and A520: 2024 smartphone CPUs deep dive](https://www.androidauthority.com/arm-cortex-x4-explained-3328008/)<!-- TECH:END -->
+ - [Is this $225 price drop on the Samsung Galaxy S23 Ultra going to last?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-3330199/)
+ - [MediaTek partners with Nvidia to add Nvidia&#39;s GPU chiplets and software to MediaTek SoCs used in automotive infotainment systems &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/230529/p8#a230529p8)
+ - [RCS vs SMS: What’s the difference?](https://www.androidauthority.com/rcs-vs-sms-3330098/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
