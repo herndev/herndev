@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perhaps Smaug is just really inefficient at wealth generation](http://9gag.com/gag/axoRMKb)
- - ⏩ [Go back 15 years or become famous?\u2060\u2060](http://9gag.com/gag/a5X2oAE)
- - 👉 [Skill issue](http://9gag.com/gag/aVbL71M)<!-- MEMES:END -->
+ - 💣 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - ⏩ [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - 👉 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
 
 ---
 
