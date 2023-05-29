@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Railway Empire 2 Recaptures The Ambition and Joy of Your Childhood Strategy Board Games](https://news.xbox.com/en-us/2023/05/29/railway-empire-2/)
  - [The Witcher 3 has sold 50 million copies](https://www.pcgamer.com/the-witcher-3-has-sold-50-million-copies)
- - [League of Legends pro players vote to strike over Riot&#39;s rule changes](https://www.pcgamer.com/league-of-legends-pro-players-vote-to-strike-over-riots-rule-changes)
- - [Star Trek’s Michael Dorn says his DC Steel book harkens back to the real John Henry legend](https://www.polygon.com/23737755/dc-comics-star-trek-superman-comic-steel-steelworks)<!-- GAME:END -->
+ - [League of Legends pro players vote to strike over Riot&#39;s rule changes](https://www.pcgamer.com/league-of-legends-pro-players-vote-to-strike-over-riots-rule-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
