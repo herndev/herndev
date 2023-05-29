@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
- - ⏩ [Big brain](http://9gag.com/gag/aL1mpRP)
- - 👉 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
+ - 💣 [Have to be precise with the measurements](http://9gag.com/gag/aVbL7jd)
+ - ⏩ [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
+ - 👉 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)<!-- MEMES:END -->
 
 ---
 
