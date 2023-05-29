@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo-based Gitai, which develops a robotic arm and a robotic rover for in-space applications, raised a ~$30M Series B extension led by Global Brain Corporation &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230529/p11#a230529p11)
  - [Canada Pension fund increases held Apple shares by 50%, slashes Tesla stake by 53%](https://appleinsider.com/articles/23/05/29/canada-pension-fund-increases-held-apple-shares-by-50-slashes-tesla-stake-by-53?utm_medium=rss)
- - [League of Legends esports players voted ‘overwhelmingly’ for a walkout](https://www.theverge.com/2023/5/29/23741567/league-of-legends-players-association-lcspa-walkout)
- - [A profile of YouTube CEO Neal Mohan, credited with bulking up its ad and subscription businesses while seeking to crack down on dangerous and misleading videos &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230529/p10#a230529p10)<!-- TECH:END -->
+ - [League of Legends esports players voted ‘overwhelmingly’ for a walkout](https://www.theverge.com/2023/5/29/23741567/league-of-legends-players-association-lcspa-walkout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
