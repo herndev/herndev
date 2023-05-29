@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Niels Provos and David Mazieres, co-inventors of popular password-hashing function bcrypt, which turns 25 this year, on password security &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230529/p5#a230529p5)
- - [MediaTek says its Snapdragon 8 Gen 3 rival will be a beast](https://www.androidauthority.com/mediatek-dimensity-chipset-arm-3330100/)
- - [TikToker shocked by high Verizon bill over &#39;free&#39; Apple Watch promo](https://appleinsider.com/articles/23/05/29/tiktoker-shocked-by-high-verizon-bill-over-free-apple-watch-promo?utm_medium=rss)<!-- TECH:END -->
+ - [Logi Dock review: conference calls have never been so cute](https://www.theverge.com/23728549/logitech-logi-dock-review-conference-laptop-docking-station)
+ - [24 Best Memorial Day Tech Deals 2023: Headphones, TVs, and More](https://www.wired.com/story/memorial-day-tech-deals-2023/)
+ - [New HomeKit devices, Matter improves, plus more smart home news](https://appleinsider.com/articles/23/05/29/new-homekit-devices-matter-improves-plus-more-smart-home-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
