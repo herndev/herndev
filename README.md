@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [More than a year after launching into early access, the &#39;tiny MMO&#39; Book of Travels is just about ready to starting releasing new content](https://www.pcgamer.com/more-than-a-year-after-launching-into-early-access-the-tiny-mmo-book-of-travels-is-just-about-ready-to-starting-releasing-new-content)
  - [Here&#39;s a fascinating video about robotic mice solving mazes](https://www.pcgamer.com/heres-a-fascinating-video-about-robotic-mice-solving-mazes)
- - [This sci-fi RTS gameplay trailer is so good it sparked an argument about realistic deep-space combat on Reddit](https://www.pcgamer.com/this-sci-fi-rts-gameplay-trailer-is-so-good-it-sparked-an-argument-about-realistic-deep-space-combat-on-reddit)
- - [Lord Of The Rings CCG Will Include Diversity And Originality](https://kotaku.com/lord-of-the-rings-magic-the-gathering-card-game-wizards-1850485344)<!-- GAME:END -->
+ - [This sci-fi RTS gameplay trailer is so good it sparked an argument about realistic deep-space combat on Reddit](https://www.pcgamer.com/this-sci-fi-rts-gameplay-trailer-is-so-good-it-sparked-an-argument-about-realistic-deep-space-combat-on-reddit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
