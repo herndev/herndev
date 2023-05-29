@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlueStacks problems and how to fix them](https://www.androidauthority.com/bluestacks-problems-fixes-3328508/)
- - [5 things you must know about next-gen smartphone processors](https://www.androidauthority.com/arm-2023-cpu-gpu-need-to-know-3327501/)
- - [A look at hCaptcha, a reCAPTCHA alternative used by Discord and others that is using AI-generated images to train ML systems and generative adversarial networks &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230528/p9#a230528p9)<!-- TECH:END -->
+ - [What is prompt engineering and how does it work?](https://www.androidauthority.com/what-is-prompt-engineering-3330031/)
+ - [Watch this Nvidia demo and imagine actually speaking to AI game characters](https://www.theverge.com/2023/5/28/23740908/nvidia-ace-demo-voice-ai-npc-game-characters)
+ - [BlueStacks problems and how to fix them](https://www.androidauthority.com/bluestacks-problems-fixes-3328508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
