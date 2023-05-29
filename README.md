@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Railway Empire 2 Recaptures The Ambition and Joy of Your Childhood Strategy Board Games](https://news.xbox.com/en-us/2023/05/29/railway-empire-2/)
- - [The Witcher 3 has sold 50 million copies](https://www.pcgamer.com/the-witcher-3-has-sold-50-million-copies)
- - [League of Legends pro players vote to strike over Riot&#39;s rule changes](https://www.pcgamer.com/league-of-legends-pro-players-vote-to-strike-over-riots-rule-changes)<!-- GAME:END -->
+ - [CD Projekt shoots down Sony acquisition rumor: &#39;We&#39;re not in such talks&#39;](https://www.pcgamer.com/cd-projekt-shoots-down-sony-acquisition-rumor-were-not-in-such-talks)
+ - [The 10 best Blu-rays and 4K UHD releases of June 2023](https://www.polygon.com/23739053/best-bluray-4k-uhd-disc-review-june-2023)
+ - [Bringing the Tabletop to Life in Dice Legacy: Definitive Edition](https://news.xbox.com/en-us/2023/05/29/dice-legacy-definitive-edition-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
