@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
- - ⏩ [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
- - 👉 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
+ - 💣 [You may not like him but this is S A V A G E](http://9gag.com/gag/ap9bmBW)
+ - ⏩ [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
+ - 👉 [Skill issue](http://9gag.com/gag/aVbL71M)<!-- MEMES:END -->
 
 ---
 
