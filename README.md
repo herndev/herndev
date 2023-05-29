@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher has been renewed for a fifth season](https://www.pcgamer.com/the-witcher-has-been-renewed-for-a-fifth-season)
  - [Five new Steam games you probably missed &lpar;May 29, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-29-2023)
- - [Fallout: New Vegas mod gives your eyebot companion an upgradeable sombrero, mustache](https://www.pcgamer.com/fallout-new-vegas-mod-gives-your-eyebot-companion-an-upgradeable-sombrero-mustache)
- - [Forget tempered glass and RGB, witness the fruits of a cross-country effort to save a 20-year-old Teddy bear PC](https://www.pcgamer.com/forget-tempered-glass-and-rgb-witness-the-fruits-of-a-cross-country-effort-to-save-a-20-year-old-teddy-bear-pc)<!-- GAME:END -->
+ - [Fallout: New Vegas mod gives your eyebot companion an upgradeable sombrero, mustache](https://www.pcgamer.com/fallout-new-vegas-mod-gives-your-eyebot-companion-an-upgradeable-sombrero-mustache)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
