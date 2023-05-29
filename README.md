@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Succession had a great finale fit for a different version of the show](https://www.polygon.com/23739306/succession-season-4-finale-review-series)
- - [Nvidia&#39;s New AI Is Coming For Absolutely Every Gaming Job](https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480)
- - [Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/days-of-play-2023-sale-kicks-off-on-june-2/)<!-- GAME:END -->
+ - [Walt Disney cheated his animators out of profits — and their strike changed the world](https://www.polygon.com/century-of-disney/23737667/wga-strike-versus-disney-animators-strike-1941)
+ - [What Your Favorite Pokémon Game Says About You: Brutal Callout Edition](https://kotaku.com/what-your-favorite-pokemon-game-says-about-you-switch-1850481204)
+ - [Succession had a great finale fit for a different version of the show](https://www.polygon.com/23739306/succession-season-4-finale-review-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
