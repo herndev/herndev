@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
- - ⏩ [I understand](http://9gag.com/gag/aqeW1Yv)
- - 👉 [Four-eyes!](http://9gag.com/gag/aWGb8Dx)<!-- MEMES:END -->
+ - 💣 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
+ - ⏩ [Skill issue](http://9gag.com/gag/aVbL71M)
+ - 👉 [I can confirm](http://9gag.com/gag/az2RM3j)<!-- MEMES:END -->
 
 ---
 
