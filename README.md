@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - ⏩ [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
+ - 💣 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)
+ - ⏩ [Dude gets notified of a goal before it even happens](http://9gag.com/gag/a2K2WO1)
  - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 ---
