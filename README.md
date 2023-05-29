@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces a range of AI products and updates, including the DGX GH200 supercomputer platform, data center networking tools, and a robotics platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/230529/p3#a230529p3)
- - [Apple will finally pay for broken keyboards on MacBooks](https://www.androidauthority.com/apple-butterfly-keyboard-settlement-approved-3330074/)
- - [An interview with IBM VP of Quantum Computing Jay Gambetta on the company&#39;s plan to build a 100,000-qubit computer within 10 years, finding scientists, and more &lpar;Michael Brooks/MIT Technology Review&rpar;](http://www.techmeme.com/230529/p2#a230529p2)<!-- TECH:END -->
+ - [How to Make Meetings Shorter &lpar;for Real&rpar;](https://www.wired.com/story/how-to-make-meetings-shorter/)
+ - [South Korea&#39;s Naver plans to offer versions of its ChatGPT-like AI model to governments worried about US data controls, addressing political and cultural issues &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/230529/p4#a230529p4)
+ - [Sex Workers Are Still Hot for Twitter Spaces](https://www.wired.com/story/sex-work-social-audio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
