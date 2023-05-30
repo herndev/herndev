@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
- - ⏩ [Average cart returner](http://9gag.com/gag/aOxPenR)
- - 👉 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
+ - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
+ - ⏩ [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - 👉 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)<!-- MEMES:END -->
 
 ---
 
