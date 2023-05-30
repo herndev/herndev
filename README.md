@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill Ascension&#39;s first trailer promises your choice of redemption, suffering, or damnation](https://www.pcgamer.com/silent-hill-ascensions-first-trailer-promises-your-choice-of-redemption-suffering-or-damnation)
- - [&#39;Aragorn, but in card form&#39;: Magic: The Gathering and Lord of the Rings are a fated crossover](https://www.pcgamer.com/magic-the-gathering-and-lord-of-the-rings-are-an-obvious-crossover-but-still-cool-to-see)
- - [Magic: The Gathering’s new set is trying to capture the hope of The Lord of the Rings](https://www.polygon.com/23738683/mtg-lord-of-the-rings-tales-of-middle-earth-lotr-art)<!-- GAME:END -->
+ - [Stamina recipes, elixirs, and food in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729923/stamina-food-elixirs-enduring-energizing-recipes-endura)
+ - [Hailee Steinfeld relished Spider-Gwen’s much bigger role in Across the Spider-Verse](https://www.polygon.com/23739130/hailee-stanfeld-spider-verse-spider-gwen-stacy)
+ - [Ratchet &amp; Clank: Rift Apart is the latest PlayStation exclusive coming to PC](https://www.polygon.com/23742586/ratchet-clank-rift-apart-pc-steam-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
