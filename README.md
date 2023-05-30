@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least he tried](http://9gag.com/gag/aZDj08n)
- - ⏩ [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
- - 👉 [You are never safe](http://9gag.com/gag/aEqD8bp)<!-- MEMES:END -->
+ - 💣 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
+ - ⏩ [First time ?](http://9gag.com/gag/aBdGyzN)
+ - 👉 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)<!-- MEMES:END -->
 
 ---
 
