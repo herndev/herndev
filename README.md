@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People like this shouldn&#39;t drive.](http://9gag.com/gag/a3Z25Lv)
- - ⏩ [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)
- - 👉 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)<!-- MEMES:END -->
+ - 💣 [You are never safe](http://9gag.com/gag/aEqD8bp)
+ - ⏩ [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
+ - 👉 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)<!-- MEMES:END -->
 
 ---
 
