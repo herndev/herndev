@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JioCinema breaks the global record for the most concurrent views to a live-streamed event with 33M+ viewers for the May 29 IPL final, surpassing Hotstar&#39;s 25.3M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230530/p2#a230530p2)
- - [Two more official Pixel Tablet accessories might still be in the pipeline](https://www.androidauthority.com/pixel-tablet-stylus-keyboard-3330324/)
- - [MSI is trying hard to be a premium laptop brand](https://www.theverge.com/2023/5/30/23741477/msi-creator-z-17-prestige-16-studio-evo-commercial-14)<!-- TECH:END -->
+ - [How the US is increasingly reshaping the spyware market to favor companies selling cyberweapons to the US and its allies, like Israeli startup Paragon Solutions &lpar;Financial Times&rpar;](http://www.techmeme.com/230530/p3#a230530p3)
+ - [We might see a flagship processor without little cores later this year](https://www.androidauthority.com/mediatek-dimensity-9300-little-cores-3330328/)
+ - [Fintech Unicorn Revolut Needs a Plan B](https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
