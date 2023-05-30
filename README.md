@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently PC building is about slapping &#39;brains&#39; on all your components now](https://www.pcgamer.com/apparently-pc-building-is-about-slapping-brains-on-all-your-components-now)
- - [Nvidia&#39;s made a better motion blur busting technology for competitive gaming monitors](https://www.pcgamer.com/nvidias-made-a-better-motion-blur-busting-technology-for-competitive-gaming-monitors)
- - [Today&#39;s Wordle hint and answer #710: Tuesday, May 30](https://www.pcgamer.com/wordle-today-hint-answer-710-may-30)<!-- GAME:END -->
+ - [Street Fighter 6 is the ultimate fighting game toolbox](https://www.polygon.com/reviews/23739302/street-fighter-6-review-release-date-characters-ps5-xbox-pc)
+ - [Street Fighter 6: The Kotaku Review](https://kotaku.com/street-fighter-6-review-world-tour-story-mode-roster-1850481281)
+ - [Street Fighter 6 review](https://www.pcgamer.com/street-fighter-6-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
