@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Interview&#39;s Questions From &#39;Fans&#39; Are Very Questionable](https://kotaku.com/diablo-iv-blizzard-interview-qa-questions-beta-release-1850485762)
- - [&lpar;For Southeast Asia&rpar; Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/20230529-dop/)
- - [&lpar;For Southeast Asia&rpar; Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/20230529-dop/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #710: Tuesday, May 30](https://www.pcgamer.com/wordle-today-hint-answer-710-may-30)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/29/this-weeks-deals-with-gold-and-spotlight-sale-276/)
+ - [Diablo IV Interview&#39;s Questions From &#39;Fans&#39; Are Very Questionable](https://kotaku.com/diablo-iv-blizzard-interview-qa-questions-beta-release-1850485762)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
