@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - ⏩ [Incredible.](http://9gag.com/gag/awZdyp8)
- - 👉 [Sold her Olympic medal.](http://9gag.com/gag/aOxPe1E)<!-- MEMES:END -->
+ - 💣 [People like this shouldn&#39;t drive.](http://9gag.com/gag/a3Z25Lv)
+ - ⏩ [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)
+ - 👉 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)<!-- MEMES:END -->
 
 ---
 
