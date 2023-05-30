@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney and Loungefly made wedding-friendly Cinderella gear](https://www.polygon.com/deals/23742690/cinderella-happily-ever-after-bridal-accessories-headband-backpack-bag-wallet-buy)
- - [How to earn Diablo 4 Twitch drop cosmetics](https://www.pcgamer.com/diablo-4-twitch-drops)
- - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)<!-- GAME:END -->
+ - [9 Times The World&#39;s Most Famous GeoGuessr Player Pulled Off An Extra Wild Find](https://kotaku.com/geoguessr-google-maps-trevor-rainbolt-ice-spice-meme-1850484468)
+ - [Deep Rock Galactic studio remakes cosmetic DLC after fans complain, everyone gets the original designs for free](https://www.pcgamer.com/deep-rock-galactic-studio-remakes-cosmetic-dlc-after-fans-complain-everyone-gets-the-original-designs-for-free)
+ - [See Zelda: Tears Of The Kingdom’s Depths All Lit Up](https://kotaku.com/zelda-tears-of-the-kingdom-depths-ascend-mods-glitch-1850488772)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
