@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple resists India regulator&#39;s order to ban betting apps](https://appleinsider.com/articles/23/05/30/apple-resists-india-regulators-order-to-ban-betting-apps?utm_medium=rss)
- - [A close look at the Arm Immortalis-G720 and its 5th Gen graphics](https://www.androidauthority.com/arm-immortalis-g720-gpu-deep-dive-3328658/)
- - [Binance names Richard Teng to run all regional markets outside the US, a swift ascension for the executive that joined in August 2021, as CZ comes under fire &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230530/p8#a230530p8)<!-- TECH:END -->
+ - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
+ - [Future Apple Watch may anticipate workouts when you change bands](https://appleinsider.com/articles/20/08/27/future-apple-watch-may-anticipate-workouts-when-you-change-bands?utm_medium=rss)
+ - [Analysis: of 460 companies that did SPAC deals, insiders at 232 sold $22B in shares in well-timed trades; Chamath Palihapitiya made $310M selling Virgin stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230530/p10#a230530p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
