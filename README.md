@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glassnode: 14.85% of all ether was held in exchange-controlled wallets on May 25, the lowest level since summer 2016, as staking soaks up the available supply &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230529/p12#a230529p12)
  - [Tokyo-based Gitai, which develops a robotic arm and a robotic rover for in-space applications, raised a ~$30M Series B extension led by Global Brain Corporation &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230529/p11#a230529p11)
- - [Canada Pension fund increases held Apple shares by 50%, slashes Tesla stake by 53%](https://appleinsider.com/articles/23/05/29/canada-pension-fund-increases-held-apple-shares-by-50-slashes-tesla-stake-by-53?utm_medium=rss)
- - [League of Legends esports players voted ‘overwhelmingly’ for a walkout](https://www.theverge.com/2023/5/29/23741567/league-of-legends-players-association-lcspa-walkout)<!-- TECH:END -->
+ - [Canada Pension fund increases held Apple shares by 50%, slashes Tesla stake by 53%](https://appleinsider.com/articles/23/05/29/canada-pension-fund-increases-held-apple-shares-by-50-slashes-tesla-stake-by-53?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
