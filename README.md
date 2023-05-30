@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - ⏩ [Sold her Olympic medal.](http://9gag.com/gag/aOxPe1E)
- - 👉 [Incredible.](http://9gag.com/gag/awZdyp8)<!-- MEMES:END -->
+ - ⏩ [Incredible.](http://9gag.com/gag/awZdyp8)
+ - 👉 [Sold her Olympic medal.](http://9gag.com/gag/aOxPe1E)<!-- MEMES:END -->
 
 ---
 
