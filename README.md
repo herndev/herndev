@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo IV Interview&#39;s Questions From &#39;Fans&#39; Are Very Questionable](https://kotaku.com/diablo-iv-blizzard-interview-qa-questions-beta-release-1850485762)
  - [&lpar;For Southeast Asia&rpar; Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/20230529-dop/)
- - [That Is An Excellent Portable Computer Design](https://kotaku.com/timur-kvasov-concept-art-illustration-tencent-call-duty-1850485824)
- - [&lpar;For Southeast Asia&rpar; Backbone One – PlayStation Edition launches on Android today](https://blog.playstation.com/2023/05/29/20230529-backbone/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/20230529-dop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
