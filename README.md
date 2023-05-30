@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AirPods could have shipped in iPhone colors](https://appleinsider.com/articles/23/05/30/apples-airpods-could-have-shipped-in-iphone-colors?utm_medium=rss)
- - [Motorola launches the Moto G Stylus 5G &lpar;2023&rpar; with a new camera setup](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2023-launch-3329747/)
- - [Motorola’s third Moto G Stylus 5G might be the charm](https://www.theverge.com/2023/5/30/23738907/motorola-g-stylus-5g-2023-specs-price-screen-camera)<!-- TECH:END -->
+ - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)
+ - [Lisa’s Final Act: how Apple invented its future by burying its past](https://www.theverge.com/23724804/lisa-computer-apple-steve-jobs-burial-utah-sun-remarketing-documentary)
+ - [Expand your app collection and save money with Setapp&#39;s new Family Plan](https://appleinsider.com/articles/23/05/30/expand-your-app-collection-and-save-money-with-setapps-new-family-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
