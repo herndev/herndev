@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s new plans don’t make much sense for families](https://www.androidauthority.com/verizon-myplan-family-plan-3328718/)
- - [SCOTUS turns away an appeal by victims of child pornography who claimed Reddit facilitated and benefited from CSAM, after two Section 230 rulings in early May &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230530/p18#a230530p18)
- - [Data about Apple&#39;s AR headset screens has been leaked](https://appleinsider.com/articles/23/05/30/data-about-apples-ar-headset-screens-has-been-leaked?utm_medium=rss)<!-- TECH:END -->
+ - [Apple tells developers to &#39;Code new worlds&#39; in WWDC email](https://appleinsider.com/articles/23/05/30/apple-tells-developers-to-code-new-worlds-in-wwdc-email?utm_medium=rss)
+ - [The best Memorial Day deals you can still get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
