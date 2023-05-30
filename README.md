@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - ⏩ [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
- - 👉 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)<!-- MEMES:END -->
+ - 💣 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
+ - ⏩ [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - 👉 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
 
 ---
 
