@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Times The World&#39;s Most Famous GeoGuessr Player Pulled Off An Extra Wild Find](https://kotaku.com/geoguessr-google-maps-trevor-rainbolt-ice-spice-meme-1850484468)
- - [Deep Rock Galactic studio remakes cosmetic DLC after fans complain, everyone gets the original designs for free](https://www.pcgamer.com/deep-rock-galactic-studio-remakes-cosmetic-dlc-after-fans-complain-everyone-gets-the-original-designs-for-free)
- - [See Zelda: Tears Of The Kingdom’s Depths All Lit Up](https://kotaku.com/zelda-tears-of-the-kingdom-depths-ascend-mods-glitch-1850488772)<!-- GAME:END -->
+ - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)
+ - [How to get the Hero Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742349/hero-armor-location-head-chest-legs)
+ - [The Week In Games: System Shock, Street Fighter 6, And More](https://kotaku.com/may-game-releases-out-this-week-sf6-system-shock-1850488533)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
