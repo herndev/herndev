@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Real World Locations Shaped Dordogne, a Peaceful Narrative Adventure Set in Southwest France](https://news.xbox.com/en-us/2023/05/30/dordogne-france-real-world-locations/)
- - [Pokémon Scarlet And Violet&#39;s Big Home Update Brings New Monsters And New Problems](https://kotaku.com/pokemon-scarlet-violet-home-update-maintenance-moves-1850486949)
- - [How to get the Twilight Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738893/twilight-armor-location-head-chest-legs)<!-- GAME:END -->
+ - [The Sims 4 Addresses Xbox Fan Feedback](https://news.xbox.com/en-us/2023/05/30/the-sims-4-xbox-buttons/)
+ - [In A Series First, Ratchet &amp; Clank: Rift Apart Is Coming To PC](https://kotaku.com/ratchet-and-clank-rift-apart-pc-steam-graphics-ps5-sony-1850487360)
+ - [How to find the Apapes Lightroot in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742307/apapes-lightroot-depths-location-how-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
