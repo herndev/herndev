@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stamina recipes, elixirs, and food in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729923/stamina-food-elixirs-enduring-energizing-recipes-endura)
- - [Hailee Steinfeld relished Spider-Gwen’s much bigger role in Across the Spider-Verse](https://www.polygon.com/23739130/hailee-stanfeld-spider-verse-spider-gwen-stacy)
- - [Ratchet &amp; Clank: Rift Apart is the latest PlayStation exclusive coming to PC](https://www.polygon.com/23742586/ratchet-clank-rift-apart-pc-steam-release-date)<!-- GAME:END -->
+ - [Barbie’s mugshot is now a nerdy fan art meme](https://www.polygon.com/23742686/barbie-movie-mugshot-anime-fan-art-meme)
+ - [Tears of the Kingdom Players Have Already Found An Easy New Dupe Glitch](https://kotaku.com/zelda-tears-of-the-kingdom-duplication-glitch-diamonds-1850488161)
+ - [Utojis Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742599/utojis-shrine-location-legend-soaring-spear-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
