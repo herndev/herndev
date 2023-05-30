@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
- - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - 👉 [You can tell he was really okay taking a picture with me\u2026.even though I was there for disciplinary reasons.](http://9gag.com/gag/aWGb71d)<!-- MEMES:END -->
+ - 💣 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
+ - ⏩ [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - 👉 [Make shows like these instead of butchering other cultures](http://9gag.com/gag/a4o2PxQ)<!-- MEMES:END -->
 
 ---
 
