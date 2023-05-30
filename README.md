@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia is now a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
- - [Deals: MacBook Pro 14 $1,749, Nike Apple Watch SE $149, iPad $269, 12.9&quot; iPad Pro $999 &amp; more](https://appleinsider.com/articles/23/05/30/deals-macbook-pro-14-1749-nike-apple-watch-se-149-ipad-269-129-ipad-pro-999-more?utm_medium=rss)
- - [Apple recognizes talented student developers in 2023 Swift Student Challenge](https://appleinsider.com/articles/23/05/30/apple-recognizes-talented-student-developers-in-2023-swift-student-challenge?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon’s new plans don’t make much sense for families](https://www.androidauthority.com/verizon-myplan-family-plan-3328718/)
+ - [SCOTUS turns away an appeal by victims of child pornography who claimed Reddit facilitated and benefited from CSAM, after two Section 230 rulings in early May &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230530/p18#a230530p18)
+ - [Data about Apple&#39;s AR headset screens has been leaked](https://appleinsider.com/articles/23/05/30/data-about-apples-ar-headset-screens-has-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
