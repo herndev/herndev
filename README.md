@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
- - ⏩ [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)
- - 👉 [You are never safe](http://9gag.com/gag/aEqD8bp)<!-- MEMES:END -->
+ - 💣 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - ⏩ [Sold her Olympic medal.](http://9gag.com/gag/aOxPe1E)
+ - 👉 [Incredible.](http://9gag.com/gag/awZdyp8)<!-- MEMES:END -->
 
 ---
 
