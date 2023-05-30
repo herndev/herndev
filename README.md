@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
- - ⏩ [Boom](http://9gag.com/gag/a9q2v5o)
- - 👉 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
+ - 💣 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
+ - ⏩ [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - 👉 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)<!-- MEMES:END -->
 
 ---
 
