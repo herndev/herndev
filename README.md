@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tells developers to &#39;Code new worlds&#39; in WWDC email](https://appleinsider.com/articles/23/05/30/apple-tells-developers-to-code-new-worlds-in-wwdc-email?utm_medium=rss)
- - [The best Memorial Day deals you can still get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)
- - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [Motorola’s next Razr foldable specs revealed in leaked slide](https://www.theverge.com/2023/5/30/23742503/motorola-razr-40-ultra-foldable-specs-cpu-leak)
+ - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [The Idol’s latest trailer feels pretty tryhard](https://www.theverge.com/23742342/max-the-idol-sam-levinson-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
