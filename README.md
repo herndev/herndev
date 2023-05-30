@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)
- - ⏩ [Average cart returner](http://9gag.com/gag/aOxPenR)
- - 👉 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)<!-- MEMES:END -->
+ - 💣 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - ⏩ [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 👉 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)<!-- MEMES:END -->
 
 ---
 
