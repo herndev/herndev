@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh](http://9gag.com/gag/aA02yzo)
- - ⏩ [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
+ - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
+ - ⏩ [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)
  - 👉 [You are never safe](http://9gag.com/gag/aEqD8bp)<!-- MEMES:END -->
 
 ---
