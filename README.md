@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barbie’s mugshot is now a nerdy fan art meme](https://www.polygon.com/23742686/barbie-movie-mugshot-anime-fan-art-meme)
- - [Tears of the Kingdom Players Have Already Found An Easy New Dupe Glitch](https://kotaku.com/zelda-tears-of-the-kingdom-duplication-glitch-diamonds-1850488161)
- - [Utojis Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742599/utojis-shrine-location-legend-soaring-spear-walkthrough)<!-- GAME:END -->
+ - [Disney and Loungefly made wedding-friendly Cinderella gear](https://www.polygon.com/deals/23742690/cinderella-happily-ever-after-bridal-accessories-headband-backpack-bag-wallet-buy)
+ - [How to earn Diablo 4 Twitch drop cosmetics](https://www.pcgamer.com/diablo-4-twitch-drops)
+ - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
