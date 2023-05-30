@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of podcasts is getting written in print](https://www.theverge.com/2023/5/30/23742756/good-tape-magazine-dane-cardiel-alana-hope-levinson-podcasts)
- - [Google Pixel Watch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
- - [Miami-based Transak, which sells payment and onboarding infrastructure for Web3 games and financial apps, raised a $20M Series A led by CE Innovation Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230530/p22#a230530p22)<!-- TECH:END -->
+ - [HPE reports Q2 revenue up 4% YoY to $7B, vs. $7.3B est., HPC &amp; AI revenue up 18% YoY to $840M, and Intelligent Edge revenue up 50% YoY to $1.3B &lpar;Jon Swartz/Dow Jones Newswires&rpar;](http://www.techmeme.com/230530/p23#a230530p23)
+ - [The Metal Gear Solid 3 remake will reuse the original game’s voice lines — with no changes](https://www.theverge.com/2023/5/30/23742786/metal-gear-solid-delta-3-snake-eater-remake-voice-actors-no-changes)
+ - [Twitter is adding crowdsourced fact checks to images](https://www.theverge.com/2023/5/30/23742851/twitter-notes-images-crowdsourced-fact-checks-misinformation-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
