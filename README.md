@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: Amnesia: The Bunker, Car Mechanic Simulator 2021, Dordogne, and More](https://news.xbox.com/en-us/2023/05/30/game-pass-june-2023-wave-1-announce/)
- - [Silent Hill: Ascension looks part Until Dawn, part Twitch Plays Pokémon](https://www.polygon.com/23739124/silent-hill-ascension-streaming-series-release-date-trailer)
- - [Asus shows off RTX 4070 GPU running with no power cables](https://www.pcgamer.com/asus-shows-off-rtx-4070-gpu-running-with-no-power-cables)<!-- GAME:END -->
+ - [15 Things I Wish I Knew Before Starting Honkai: Star Rail, Genshin Impact Devs&#39; New RPG](https://kotaku.com/honkai-star-rail-rpg-genshin-impact-characters-tips-1850483026)
+ - [The Sims is getting rid of a photo bug but players just want the photo bug left alone: &#39;Who snitched?!?&#39;](https://www.pcgamer.com/the-sims-is-getting-rid-of-a-photo-bug-but-players-just-want-the-photo-bug-left-alone-who-snitched)
+ - [Tears of the Kingdom&#39;s &#39;Pinball&#39; Shrine Is Driving Players Bonkers](https://kotaku.com/zelda-tears-of-the-kingdom-totk-mayachin-shrine-guide-1850481425)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
