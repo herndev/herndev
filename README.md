@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boogeyman is a better Dark Tower movie than the Dark Tower movie](https://www.polygon.com/23739161/boogeyman-review-stephen-king-dark-tower)
- - [Varmilo wins my best dressed award for its incredible keyboard designs over at Computex 2023](https://www.pcgamer.com/varmilo-wins-my-best-dressed-award-for-its-incredible-keyboard-designs-over-at-computex-2023)
- - [Where to get bomb flowers in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742138/bomb-flower-locations-where-to-farm)<!-- GAME:END -->
+ - [How Real World Locations Shaped Dordogne, a Peaceful Narrative Adventure Set in Southwest France](https://news.xbox.com/en-us/2023/05/30/dordogne-france-real-world-locations/)
+ - [Pokémon Scarlet And Violet&#39;s Big Home Update Brings New Monsters And New Problems](https://kotaku.com/pokemon-scarlet-violet-home-update-maintenance-moves-1850486949)
+ - [How to get the Twilight Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738893/twilight-armor-location-head-chest-legs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
