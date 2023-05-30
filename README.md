@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE reports Q2 revenue up 4% YoY to $7B, vs. $7.3B est., HPC &amp; AI revenue up 18% YoY to $840M, and Intelligent Edge revenue up 50% YoY to $1.3B &lpar;Jon Swartz/Dow Jones Newswires&rpar;](http://www.techmeme.com/230530/p23#a230530p23)
- - [The Metal Gear Solid 3 remake will reuse the original game’s voice lines — with no changes](https://www.theverge.com/2023/5/30/23742786/metal-gear-solid-delta-3-snake-eater-remake-voice-actors-no-changes)
- - [Twitter is adding crowdsourced fact checks to images](https://www.theverge.com/2023/5/30/23742851/twitter-notes-images-crowdsourced-fact-checks-misinformation-moderation)<!-- TECH:END -->
+ - [Apple TV app and Apple TV+ are down for some users](https://appleinsider.com/articles/23/05/30/apple-tv-app-and-apple-tv-are-down-for-some-users?utm_medium=rss)
+ - [HP reports Q2 revenue down 21.7% YoY to $12.91B, vs. $13.07B est., Personal Systems revenue down 29% YoY to $8.18B, and Printing revenue down 5% YoY to $4.74B &lpar;Reuters&rpar;](http://www.techmeme.com/230530/p24#a230530p24)
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
