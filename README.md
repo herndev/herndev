@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Ukraine&#39;s Diia app, used by 19M citizens to access digital IDs and other government services, along with an &quot;e-Enemy&quot; feature to report Russian troops &lpar;Dave Lawler/Axios&rpar;](http://www.techmeme.com/230530/p1#a230530p1)
  - [MCNA Dental, one of the largest US government-sponsored dental insurers, says hackers stole data of ~8.9M people; LockBit claimed responsibility for the attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230529/p13#a230529p13)
- - [Glassnode: 14.85% of all ether was held in exchange-controlled wallets on May 25, the lowest level since summer 2016, as staking soaks up the available supply &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230529/p12#a230529p12)
- - [Tokyo-based Gitai, which develops a robotic arm and a robotic rover for in-space applications, raised a ~$30M Series B extension led by Global Brain Corporation &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230529/p11#a230529p11)<!-- TECH:END -->
+ - [Glassnode: 14.85% of all ether was held in exchange-controlled wallets on May 25, the lowest level since summer 2016, as staking soaks up the available supply &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230529/p12#a230529p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
