@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the Age of Ozempic. Do We Need Weight Watchers Anymore?](https://www.wired.com/story/sima-sistani-weight-watchers-big-interview/)
- - [Microsoft fixes Surface Pro X cameras that stopped working](https://www.theverge.com/2023/5/30/23741995/microsoft-surface-pro-x-camera-fix-update)
- - [OpenAI and DeepMind executives, Geoffrey Hinton, and over 350 others release a statement saying mitigating AI extinction risks &quot;should be a global priority&quot; &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230530/p6#a230530p6)<!-- TECH:END -->
+ - [Apple resists India regulator&#39;s order to ban betting apps](https://appleinsider.com/articles/23/05/30/apple-resists-india-regulators-order-to-ban-betting-apps?utm_medium=rss)
+ - [A close look at the Arm Immortalis-G720 and its 5th Gen graphics](https://www.androidauthority.com/arm-immortalis-g720-gpu-deep-dive-3328658/)
+ - [Binance names Richard Teng to run all regional markets outside the US, a swift ascension for the executive that joined in August 2021, as CZ comes under fire &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230530/p8#a230530p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
