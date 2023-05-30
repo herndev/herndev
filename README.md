@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s next Razr foldable specs revealed in leaked slide](https://www.theverge.com/2023/5/30/23742503/motorola-razr-40-ultra-foldable-specs-cpu-leak)
- - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [The Idol’s latest trailer feels pretty tryhard](https://www.theverge.com/23742342/max-the-idol-sam-levinson-trailer)<!-- TECH:END -->
+ - [B&amp;H slashes Apple computer prices by up to $1,400 ahead of WWDC](https://appleinsider.com/articles/23/05/30/bh-slashes-apple-computer-prices-by-up-to-1400-ahead-of-wwdc?utm_medium=rss)
+ - [Pixel Watch 2 could ditch Exynos for Snapdragon and gain more battery life](https://www.androidauthority.com/pixel-watch-2-battery-life-3330472/)
+ - [Onyx Boox Tab Ultra C e-ink tablet review: good for what it is, but it still isn&#39;t an iPad](https://appleinsider.com/articles/23/05/30/onyx-boox-tab-ultra-c-e-ink-tablet-review-good-for-what-it-is-but-it-still-isnt-an-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
