@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - ⏩ [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - 👉 [Make shows like these instead of butchering other cultures](http://9gag.com/gag/a4o2PxQ)<!-- MEMES:END -->
+ - 💣 [Why are you geh](http://9gag.com/gag/aA02yzo)
+ - ⏩ [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
+ - 👉 [You are never safe](http://9gag.com/gag/aEqD8bp)<!-- MEMES:END -->
 
 ---
 
