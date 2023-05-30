@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US is increasingly reshaping the spyware market to favor companies selling cyberweapons to the US and its allies, like Israeli startup Paragon Solutions &lpar;Financial Times&rpar;](http://www.techmeme.com/230530/p3#a230530p3)
- - [We might see a flagship processor without little cores later this year](https://www.androidauthority.com/mediatek-dimensity-9300-little-cores-3330328/)
- - [Fintech Unicorn Revolut Needs a Plan B](https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b/)<!-- TECH:END -->
+ - [These were the most popular flagship phones in Q1](https://www.androidauthority.com/top-flagship-phones-q1-2023-3330334/)
+ - [Street Fighter 6 is worth it for the brilliant new campaign alone](https://www.theverge.com/23741204/street-fighter-6-review-ps5-xbox-pc)
+ - [Yamaha YH-E700B Review: Awkward Flagship Headphones](https://www.wired.com/review/yamaha-yh-e700b/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
