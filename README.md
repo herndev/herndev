@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
- - ⏩ [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - ⏩ [Average cart returner](http://9gag.com/gag/aOxPenR)
  - 👉 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
 
 ---
