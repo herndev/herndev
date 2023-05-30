@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Houndour be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698077/can-houndour-be-shiny-houndoom)
- - [Street Fighter 6 is the ultimate fighting game toolbox](https://www.polygon.com/reviews/23739302/street-fighter-6-review-release-date-characters-ps5-xbox-pc)
- - [Street Fighter 6: The Kotaku Review](https://kotaku.com/street-fighter-6-review-world-tour-story-mode-roster-1850481281)<!-- GAME:END -->
+ - [MSI prototypes for the future of graphics card cooling look impressive and expensive](https://www.pcgamer.com/msi-prototypes-for-the-future-of-graphics-card-cooling-look-impressive-and-expensive)
+ - [Former DICE dev says Battlefield 2042 had a hard deadline and &#39;never stood much chance being great at launch&#39;](https://www.pcgamer.com/former-dice-dev-says-battlefield-2042-had-a-hard-deadline-and-never-stood-much-chance-being-great-at-launch)
+ - [Intel demos Stable Diffusion running locally on its new AI-accelerated Meteor Lake CPU](https://www.pcgamer.com/intel-demos-stable-diffusion-running-locally-on-its-new-ai-accelerated-meteor-lake-cpu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
