@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
- - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - 👉 [First time ?](http://9gag.com/gag/aBdGyzN)<!-- MEMES:END -->
+ - 💣 [She could have just asked, and we&#39;d happily give her a stem cutting!](http://9gag.com/gag/aOxP2xr)
+ - ⏩ [Every country needs an armpit or two](http://9gag.com/gag/ay2Rqjb)
+ - 👉 [L\u00e9a Seydoux and Ana de Armas](http://9gag.com/gag/aPgQZdK)<!-- MEMES:END -->
 
 ---
 
