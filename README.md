@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
- - ⏩ [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - 👉 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)<!-- MEMES:END -->
+ - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
+ - ⏩ [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 👉 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)<!-- MEMES:END -->
 
 ---
 
