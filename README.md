@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She could have just asked, and we&#39;d happily give her a stem cutting!](http://9gag.com/gag/aOxP2xr)
- - ⏩ [Every country needs an armpit or two](http://9gag.com/gag/ay2Rqjb)
- - 👉 [L\u00e9a Seydoux and Ana de Armas](http://9gag.com/gag/aPgQZdK)<!-- MEMES:END -->
+ - 💣 [At least he tried](http://9gag.com/gag/aZDj08n)
+ - ⏩ [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
+ - 👉 [You are never safe](http://9gag.com/gag/aEqD8bp)<!-- MEMES:END -->
 
 ---
 
