@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
- - ⏩ [First time ?](http://9gag.com/gag/aBdGyzN)
- - 👉 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)<!-- MEMES:END -->
+ - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
+ - 👉 [You can tell he was really okay taking a picture with me\u2026.even though I was there for disciplinary reasons.](http://9gag.com/gag/aWGb71d)<!-- MEMES:END -->
 
 ---
 
