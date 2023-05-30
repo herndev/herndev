@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are never safe](http://9gag.com/gag/aEqD8bp)
- - ⏩ [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
- - 👉 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
+ - 💣 [Meanwhile Netflix...](http://9gag.com/gag/aYVqobV)
+ - ⏩ [You are never safe](http://9gag.com/gag/aEqD8bp)
+ - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 ---
 
