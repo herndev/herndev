@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H slashes Apple computer prices by up to $1,400 ahead of WWDC](https://appleinsider.com/articles/23/05/30/bh-slashes-apple-computer-prices-by-up-to-1400-ahead-of-wwdc?utm_medium=rss)
- - [Pixel Watch 2 could ditch Exynos for Snapdragon and gain more battery life](https://www.androidauthority.com/pixel-watch-2-battery-life-3330472/)
- - [Onyx Boox Tab Ultra C e-ink tablet review: good for what it is, but it still isn&#39;t an iPad](https://appleinsider.com/articles/23/05/30/onyx-boox-tab-ultra-c-e-ink-tablet-review-good-for-what-it-is-but-it-still-isnt-an-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [The future of podcasts is getting written in print](https://www.theverge.com/2023/5/30/23742756/good-tape-magazine-dane-cardiel-alana-hope-levinson-podcasts)
+ - [Google Pixel Watch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
+ - [Miami-based Transak, which sells payment and onboarding infrastructure for Web3 games and financial apps, raised a $20M Series A led by CE Innovation Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230530/p22#a230530p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
