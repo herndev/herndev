@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are never safe](http://9gag.com/gag/aEqD8bp)
- - ⏩ [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
- - 👉 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)<!-- MEMES:END -->
+ - 💣 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - ⏩ [Boom](http://9gag.com/gag/a9q2v5o)
+ - 👉 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
 
 ---
 
