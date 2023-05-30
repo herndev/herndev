@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
- - ⏩ [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 💣 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)
+ - ⏩ [Average cart returner](http://9gag.com/gag/aOxPenR)
  - 👉 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)<!-- MEMES:END -->
 
 ---
