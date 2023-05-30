@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
- - [Future Apple Watch may anticipate workouts when you change bands](https://appleinsider.com/articles/20/08/27/future-apple-watch-may-anticipate-workouts-when-you-change-bands?utm_medium=rss)
- - [Analysis: of 460 companies that did SPAC deals, insiders at 232 sold $22B in shares in well-timed trades; Chamath Palihapitiya made $310M selling Virgin stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230530/p10#a230530p10)<!-- TECH:END -->
+ - [Apple&#39;s AirPods could have shipped in iPhone colors](https://appleinsider.com/articles/23/05/30/apples-airpods-could-have-shipped-in-iphone-colors?utm_medium=rss)
+ - [Motorola launches the Moto G Stylus 5G &lpar;2023&rpar; with a new camera setup](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2023-launch-3329747/)
+ - [Motorola’s third Moto G Stylus 5G might be the charm](https://www.theverge.com/2023/5/30/23738907/motorola-g-stylus-5g-2023-specs-price-screen-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
