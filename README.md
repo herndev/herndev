@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s original cloud photo sync service shuts down this summer](https://www.theverge.com/2023/5/30/23741976/apple-my-photo-stream-discontinued-july-2023)
- - [France and Germany dominate the EU&#39;s tech regulation, rarely taking input from the bloc&#39;s smaller tech-oriented members, which worry about hampering innovation &lpar;Politico&rpar;](http://www.techmeme.com/230530/p4#a230530p4)
- - [These were the most popular flagship phones in Q1](https://www.androidauthority.com/top-flagship-phones-q1-2023-3330334/)<!-- TECH:END -->
+ - [It’s the Age of Ozempic. Do We Need Weight Watchers Anymore?](https://www.wired.com/story/sima-sistani-weight-watchers-big-interview/)
+ - [Microsoft fixes Surface Pro X cameras that stopped working](https://www.theverge.com/2023/5/30/23741995/microsoft-surface-pro-x-camera-fix-update)
+ - [OpenAI and DeepMind executives, Geoffrey Hinton, and over 350 others release a statement saying mitigating AI extinction risks &quot;should be a global priority&quot; &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230530/p6#a230530p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
