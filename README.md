@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI prototypes for the future of graphics card cooling look impressive and expensive](https://www.pcgamer.com/msi-prototypes-for-the-future-of-graphics-card-cooling-look-impressive-and-expensive)
- - [Former DICE dev says Battlefield 2042 had a hard deadline and &#39;never stood much chance being great at launch&#39;](https://www.pcgamer.com/former-dice-dev-says-battlefield-2042-had-a-hard-deadline-and-never-stood-much-chance-being-great-at-launch)
- - [Intel demos Stable Diffusion running locally on its new AI-accelerated Meteor Lake CPU](https://www.pcgamer.com/intel-demos-stable-diffusion-running-locally-on-its-new-ai-accelerated-meteor-lake-cpu)<!-- GAME:END -->
+ - [The ultimate McDonald&#39;s tie-in toy has arrived, a McNugget that plays Tetris](https://www.pcgamer.com/the-ultimate-mcdonalds-tie-in-toy-has-arrived-a-mcnugget-that-plays-tetris)
+ - [MSI&#39;s new line of Gaming X Slim graphics cards has made me irrationally angry](https://www.pcgamer.com/msis-new-line-of-gaming-x-slim-graphics-cards-has-made-me-irrationally-angry)
+ - [After a full Computex day in 32 degree heat I&#39;ve never been happier to sit in a gaming chair with a fan in the backrest](https://www.pcgamer.com/after-a-full-computex-day-in-32-degree-heat-ive-never-been-happier-to-sit-in-a-gaming-chair-with-a-fan-in-the-backrest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
