@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
- - ⏩ [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - 👉 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)<!-- MEMES:END -->
+ - 💣 [Boom](http://9gag.com/gag/a9q2v5o)
+ - ⏩ [Interesting twist](http://9gag.com/gag/aZDj85p)
+ - 👉 [Evolution of Ariana Grande](http://9gag.com/gag/a6q29gm)<!-- MEMES:END -->
 
 ---
 
