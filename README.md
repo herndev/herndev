@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apparently PC building is about slapping &#39;brains&#39; on all your components now](https://www.pcgamer.com/apparently-pc-building-is-about-slapping-brains-on-all-your-components-now)
  - [Nvidia&#39;s made a better motion blur busting technology for competitive gaming monitors](https://www.pcgamer.com/nvidias-made-a-better-motion-blur-busting-technology-for-competitive-gaming-monitors)
- - [Today&#39;s Wordle hint and answer #710: Tuesday, May 30](https://www.pcgamer.com/wordle-today-hint-answer-710-may-30)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/29/this-weeks-deals-with-gold-and-spotlight-sale-276/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #710: Tuesday, May 30](https://www.pcgamer.com/wordle-today-hint-answer-710-may-30)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
