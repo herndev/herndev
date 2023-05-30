@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Addresses Xbox Fan Feedback](https://news.xbox.com/en-us/2023/05/30/the-sims-4-xbox-buttons/)
- - [In A Series First, Ratchet &amp; Clank: Rift Apart Is Coming To PC](https://kotaku.com/ratchet-and-clank-rift-apart-pc-steam-graphics-ps5-sony-1850487360)
- - [How to find the Apapes Lightroot in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742307/apapes-lightroot-depths-location-how-to-find)<!-- GAME:END -->
+ - [Silent Hill Ascension&#39;s first trailer promises your choice of redemption, suffering, or damnation](https://www.pcgamer.com/silent-hill-ascensions-first-trailer-promises-your-choice-of-redemption-suffering-or-damnation)
+ - [&#39;Aragorn, but in card form&#39;: Magic: The Gathering and Lord of the Rings are a fated crossover](https://www.pcgamer.com/magic-the-gathering-and-lord-of-the-rings-are-an-obvious-crossover-but-still-cool-to-see)
+ - [Magic: The Gathering’s new set is trying to capture the hope of The Lord of the Rings](https://www.polygon.com/23738683/mtg-lord-of-the-rings-tales-of-middle-earth-lotr-art)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
