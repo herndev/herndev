@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
- - ⏩ [Why are you geh](http://9gag.com/gag/aA02yzo)
- - 👉 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)<!-- MEMES:END -->
+ - 💣 [You are never safe](http://9gag.com/gag/aEqD8bp)
+ - ⏩ [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
+ - 👉 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
 
 ---
 
