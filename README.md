@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)
- - [Lisa’s Final Act: how Apple invented its future by burying its past](https://www.theverge.com/23724804/lisa-computer-apple-steve-jobs-burial-utah-sun-remarketing-documentary)
- - [Expand your app collection and save money with Setapp&#39;s new Family Plan](https://appleinsider.com/articles/23/05/30/expand-your-app-collection-and-save-money-with-setapps-new-family-plan?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia is now a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
+ - [Deals: MacBook Pro 14 $1,749, Nike Apple Watch SE $149, iPad $269, 12.9&quot; iPad Pro $999 &amp; more](https://appleinsider.com/articles/23/05/30/deals-macbook-pro-14-1749-nike-apple-watch-se-149-ipad-269-129-ipad-pro-999-more?utm_medium=rss)
+ - [Apple recognizes talented student developers in 2023 Swift Student Challenge](https://appleinsider.com/articles/23/05/30/apple-recognizes-talented-student-developers-in-2023-swift-student-challenge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
