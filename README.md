@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally Hans!](http://9gag.com/gag/a1P27O6)
- - ⏩ [Iranian model went on the red carpet with a genius marketing tactic to draw attentions to executions going on in Iran!](http://9gag.com/gag/axoRoLW)
- - 👉 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
+ - 💣 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
+ - ⏩ [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
+ - 👉 [First time ?](http://9gag.com/gag/aBdGyzN)<!-- MEMES:END -->
 
 ---
 
