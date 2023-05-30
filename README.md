@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Things I Wish I Knew Before Starting Honkai: Star Rail, Genshin Impact Devs&#39; New RPG](https://kotaku.com/honkai-star-rail-rpg-genshin-impact-characters-tips-1850483026)
- - [The Sims is getting rid of a photo bug but players just want the photo bug left alone: &#39;Who snitched?!?&#39;](https://www.pcgamer.com/the-sims-is-getting-rid-of-a-photo-bug-but-players-just-want-the-photo-bug-left-alone-who-snitched)
- - [Tears of the Kingdom&#39;s &#39;Pinball&#39; Shrine Is Driving Players Bonkers](https://kotaku.com/zelda-tears-of-the-kingdom-totk-mayachin-shrine-guide-1850481425)<!-- GAME:END -->
+ - [The Boogeyman is a better Dark Tower movie than the Dark Tower movie](https://www.polygon.com/23739161/boogeyman-review-stephen-king-dark-tower)
+ - [Varmilo wins my best dressed award for its incredible keyboard designs over at Computex 2023](https://www.pcgamer.com/varmilo-wins-my-best-dressed-award-for-its-incredible-keyboard-designs-over-at-computex-2023)
+ - [Where to get bomb flowers in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742138/bomb-flower-locations-where-to-farm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
