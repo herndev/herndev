@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
+ - 💣 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
  - ⏩ [`You deserve better`](http://9gag.com/gag/armqAq7)
- - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
+ - 👉 [Prime years](http://9gag.com/gag/aGEAME5)<!-- MEMES:END -->
 
 ---
 
