@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)
  - [Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers](https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333)
- - [The farm sim series that started it all just teased two new games and one is multiplayer](https://www.pcgamer.com/the-farm-sim-series-that-started-it-all-just-teased-two-new-games-and-one-is-multiplayer)
- - [Tetris &lpar;But With Sand&rpar; Is Incredibly Satisfying](https://kotaku.com/tetris-with-sand-free-indie-pc-game-setris-download-1850489246)<!-- GAME:END -->
+ - [The farm sim series that started it all just teased two new games and one is multiplayer](https://www.pcgamer.com/the-farm-sim-series-that-started-it-all-just-teased-two-new-games-and-one-is-multiplayer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
