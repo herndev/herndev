@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evolution of Ariana Grande](http://9gag.com/gag/a6q29gm)
- - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
+ - ⏩ [No shit](http://9gag.com/gag/aGEAM6n)
  - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
 
 ---
