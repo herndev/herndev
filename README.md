@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ted Lasso turned a lovable soccer team into a bunch of boring therapists](https://www.polygon.com/23744190/ted-lasso-season-3-finale-review)
- - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)
- - [Call Of Duty CEO Says Activision Never Had A &#39;Systemic Issue With Harassment&#39;](https://kotaku.com/call-of-duty-activision-sexual-harassment-lawsuit-1850492724)<!-- GAME:END -->
+ - [Stardew Valley&#39;s developer tweeted &#39;iridium scythe&#39; and everyone is losing it](https://www.pcgamer.com/stardew-valleys-developer-tweeted-iridium-scythe-and-everyone-is-losing-it)
+ - [PlayStation Fans Refuse To Throw Away Box Even After Sony Tells Them To](https://kotaku.com/sony-playstation-ps5-box-twitter-june-free-games-1850493005)
+ - [Florida’s big fighting game tournament is becoming unsafe for trans attendees](https://www.polygon.com/23739400/florida-ceo-fighting-game-tournament-trans-attendees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
