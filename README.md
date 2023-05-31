@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of AMD CEO Lisa Su, who orchestrated one of the great tech turnarounds after her 2014 takeover, as the company prepares to battle Nvidia over AI chips &lpar;Forbes&rpar;](http://www.techmeme.com/230531/p22#a230531p22)
- - [Filing: Ontario Securities Commission opened an investigation on May 10 into Binance over trying to skirt regulations; Binance withdrew from Canada on May 12 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230531/p21#a230531p21)
- - [Apple&#39;s unique headset design is causing problems with component suppliers](https://appleinsider.com/articles/23/05/31/apples-unique-headset-design-is-causing-problems-with-component-suppliers?utm_medium=rss)<!-- TECH:END -->
+ - [App Store developers surpass $1 trillion milestone from sales in 2022](https://appleinsider.com/articles/23/05/31/app-store-developers-surpass-1-trillion-milestone-from-sales-in-2022?utm_medium=rss)
+ - [Asus swears that it has totally fixed the ROG Ally’s battery life](https://www.theverge.com/2023/5/31/23743656/asus-rog-ally-battery-life-launch-galip-fu-interview)
+ - [Apple&#39;s iOS 16.5 Fixes 3 Security Bugs Already Used in Attacks](https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
