@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update is wreaking havoc with Surface Duo devices &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
- - [Amazon gets slap on the wrist over privacy violations with Ring cameras](https://appleinsider.com/articles/23/05/31/amazon-gets-slap-on-the-wrist-over-privacy-violations-with-ring-cameras?utm_medium=rss)
- - [Reddit client Apollo&#39;s developer says Reddit plans to charge $12K for 50M API requests and that he would need to pay $20M per year to keep operating the app &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230531/p25#a230531p25)<!-- TECH:END -->
+ - [Google&#39;s head of communications and public affairs Corey duBrowa leaves the company to serve as CEO of public relations firm Burson Cohn &amp; Wolfe &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/230531/p27#a230531p27)
+ - [Google Assistant third-party Notes &amp; Lists integration is coming to an end](https://www.androidauthority.com/google-assistant-notes-lists-3330843/)
+ - [Amazon Workers Walk Out Over Layoffs and Broken Climate Promises](https://www.wired.com/story/amazon-workers-walk-out-over-layoffs-and-broken-climate-promises/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
