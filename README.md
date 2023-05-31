@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot delays, and threatens to cancel, League of Legends’ NA esports season amid player walkout](https://www.polygon.com/23743829/league-of-legends-na-lcs-player-walkout-explained-vote-strike-riot-games-delay)
- - [Tears Of The Kingdom: Yes, You Can Fuse Zonai Devices To Arrows And It’s Awesome](https://kotaku.com/tears-of-the-kingdom-yes-you-can-fuse-zonai-devices-t-1850491242)
- - [New Survival RPG Has You Go Full Assassin’s Creed On Invading Conquistadors](https://kotaku.com/assassin-s-creed-aztec-action-rpg-survival-release-date-1850491108)<!-- GAME:END -->
+ - [Male Video Game Characters Talk Way More Than Women, Research Shows](https://kotaku.com/final-fantasy-elder-scrolls-male-female-dialogue-1850491615)
+ - [Joku-usin Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743805/joku-usin-shrine-location-proving-grounds-short-circuit)
+ - [Diablo 4 Legendary Aspect locations guide](https://www.pcgamer.com/diablo-4-legendary-aspects-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
