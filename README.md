@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - ⏩ [Prime years](http://9gag.com/gag/aGEAME5)
- - 👉 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
+ - 💣 [Prime years](http://9gag.com/gag/aGEAME5)
+ - ⏩ [18 year old jumped off a cruise ship in the bahamas pitch black waters as a dare. he has still not been found and the search has been called off](http://9gag.com/gag/aDYVZ6G)
+ - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 ---
 
