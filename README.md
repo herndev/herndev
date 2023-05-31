@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
- - ⏩ [No shit](http://9gag.com/gag/aGEAM6n)
- - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
+ - 💣 [Since 20 years](http://9gag.com/gag/ap9b1nE)
+ - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 👉 [Testing the product.](http://9gag.com/gag/a4o26nA)<!-- MEMES:END -->
 
 ---
 
