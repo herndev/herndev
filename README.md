@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia became a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
- - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
- - [Sources: Google plans to launch the Pixel Watch 2 in fall 2023 with a Snapdragon W5 series chip and Fitbit Sense 2-like sensors, alongside the Pixel 8 and 8 Pro &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230530/p27#a230530p27)<!-- TECH:END -->
+ - [Apple details App Store tax changes in Ghana, Lithuania, Moldova, Spain, and Brazil](https://appleinsider.com/articles/23/05/31/apple-details-app-store-tax-changes-in-ghana-lithuania-moldova-spain-and-brazil?utm_medium=rss)
+ - [Riot delays competitive League of Legends season after players voted to walk out](https://www.theverge.com/2023/5/30/23743198/riot-games-delays-league-of-legends-lcs-summer-season-split-walkout-lcspa)
+ - [A Chinese government report says Chinese organizations launched 79 LLMs in the country over the past three years, vs. US organizations launching 96 in the US &lpar;Reuters&rpar;](http://www.techmeme.com/230530/p28#a230530p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
