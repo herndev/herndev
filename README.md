@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 💣 [Interesting twist](http://9gag.com/gag/aZDj85p)
  - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
- - 👉 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)<!-- MEMES:END -->
+ - 👉 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
 
 ---
 
