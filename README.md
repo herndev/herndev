@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What team are you on](http://9gag.com/gag/ajVZxQR)
- - ⏩ [Only legends will understand](http://9gag.com/gag/aQEZ758)
- - 👉 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)<!-- MEMES:END -->
+ - 💣 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 👉 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)<!-- MEMES:END -->
 
 ---
 
