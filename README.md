@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m so ready for flat-packed PC cases](https://www.pcgamer.com/im-so-ready-for-flat-packed-pc-cases)
  - [Yeah, I spent my time at Computex stroking a $600 DIY Ducky keyboard, what of it?](https://www.pcgamer.com/yeah-i-spent-my-time-at-computex-stroking-a-dollar600-diy-ducky-keyboard-what-of-it)
- - [The HyperX Cloud III would be a superb mid-range gaming headset pick if the best weren&#39;t so cheap](https://www.pcgamer.com/hyper-x-cloud-iii-hands-on-impressions)
- - [A $4 tweak to Noctua&#39;s AMD Ryzen cooler bracket lowers CPU temperatures by up to 3ºC](https://www.pcgamer.com/a-dollar4-tweak-to-noctuas-amd-ryzen-cooler-bracket-lowers-cpu-temperatures-by-up-to-3oc)<!-- GAME:END -->
+ - [The HyperX Cloud III would be a superb mid-range gaming headset pick if the best weren&#39;t so cheap](https://www.pcgamer.com/hyper-x-cloud-iii-hands-on-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
