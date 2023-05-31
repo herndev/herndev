@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Taiwan became a key part of the electronics supply chain, creating interdependence between Taiwan, China, and the US that has deepened even as tensions rise &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230531/p3#a230531p3)
  - [The popular Yuzu emulator for Nintendo Switch is now on Android](https://www.androidauthority.com/yuzu-emulator-android-3330620/)
- - [By creating separate crypto companies, Standard Chartered and other finance groups are betting fund managers will prefer trusted brands to opaque crypto firms &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230531/p2#a230531p2)
- - [It’s time to bid farewell to your first-generation Google Chromecast](https://www.androidauthority.com/google-chromecast-first-generation-end-of-life-3330613/)<!-- TECH:END -->
+ - [By creating separate crypto companies, Standard Chartered and other finance groups are betting fund managers will prefer trusted brands to opaque crypto firms &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230531/p2#a230531p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
