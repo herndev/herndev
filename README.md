@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s head of communications and public affairs Corey duBrowa leaves the company to serve as CEO of public relations firm Burson Cohn &amp; Wolfe &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/230531/p27#a230531p27)
- - [Google Assistant third-party Notes &amp; Lists integration is coming to an end](https://www.androidauthority.com/google-assistant-notes-lists-3330843/)
- - [Amazon Workers Walk Out Over Layoffs and Broken Climate Promises](https://www.wired.com/story/amazon-workers-walk-out-over-layoffs-and-broken-climate-promises/)<!-- TECH:END -->
+ - [CrowdStrike reports Q1 revenue up 42% YoY to $692.6M, vs. $676.4M est., and ARR of $2.73B, a 42% YoY increase, down from a 61% growth in Q1 2023; CRWD drops 9%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230531/p30#a230531p30)
+ - [Salesforce reports Q1 revenue up 11% YoY to $8.25B vs. $8.18B est., capital expenditures up 36% YoY to $243M vs. $205M est., and Q2 revenue guidance above est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230531/p29#a230531p29)
+ - [Reddit might destroy third-party Reddit apps if it sticks to policy change](https://www.androidauthority.com/third-party-reddit-apps-end-3330855/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
