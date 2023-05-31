@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to bid farewell to your first-generation Google Chromecast](https://www.androidauthority.com/google-chromecast-first-generation-end-of-life-3330613/)
- - [Some mainland China tech entrepreneurs are trying to gain permanent residency or citizenship outside of China to avoid US curbs and biases against Chinese firms &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/230531/p1#a230531p1)
- - [Statistics Korea: South Korea&#39;s semiconductor inventory rose 83% YoY in April 2023, the biggest increase since April 2016, while factory shipments fell 33% YoY &lpar;Myungshin Cho/Bloomberg&rpar;](http://www.techmeme.com/230530/p32#a230530p32)<!-- TECH:END -->
+ - [The popular Yuzu emulator for Nintendo Switch is now on Android](https://www.androidauthority.com/yuzu-emulator-android-3330620/)
+ - [By creating separate crypto companies, Standard Chartered and other finance groups are betting fund managers will prefer trusted brands to opaque crypto firms &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230531/p2#a230531p2)
+ - [It’s time to bid farewell to your first-generation Google Chromecast](https://www.androidauthority.com/google-chromecast-first-generation-end-of-life-3330613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
