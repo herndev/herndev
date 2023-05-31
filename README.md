@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know....](http://9gag.com/gag/a3Z2A01)
+ - 💣 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
  - ⏩ [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
- - 👉 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
 
 ---
 
