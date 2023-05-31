@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo Pop Review &lpar;2023&rpar;: Fun To Look At](https://www.wired.com/review/amazon-echo-pop/)
- - [Amazon Echo Pop review: more style, less substance](https://www.theverge.com/23742395/amazon-echo-pop-smart-speaker-review)
- - [The wild, true story of Chicago’s most infamous police impersonator](https://www.theverge.com/features/23737494/kid-cop-chicago-police-impersonator)<!-- TECH:END -->
+ - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
+ - [Apple TV+ announces streaming release for &#39;Lessons in Chemistry&#39;](https://appleinsider.com/articles/23/05/31/apple-tv-announces-streaming-release-for-lessons-in-chemistry?utm_medium=rss)
+ - [After raising $730M, UK chip startup Graphcore reported just ~$5M in 2021 revenue and a $183M loss; Microsoft, an investor, reportedly declined to use its chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230531/p18#a230531p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
