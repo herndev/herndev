@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Male Video Game Characters Talk Way More Than Women, Research Shows](https://kotaku.com/final-fantasy-elder-scrolls-male-female-dialogue-1850491615)
- - [Joku-usin Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743805/joku-usin-shrine-location-proving-grounds-short-circuit)
- - [Diablo 4 Legendary Aspect locations guide](https://www.pcgamer.com/diablo-4-legendary-aspects-locations)<!-- GAME:END -->
+ - [Here&#39;s The Reason Your Games Nail That Cozy Vibe](https://kotaku.com/best-cozy-games-lofi-hiphop-beats-coffee-talk-2-switch-1850491993)
+ - [PlayStation Plus Adds Some Great Games For June](https://kotaku.com/ps-plus-monthly-games-nba-jurassic-world-trek-to-yomi-1850491986)
+ - [How to Create an Engaging Puzzle: Railbound, a Train on a Track-bending Journey](https://news.xbox.com/en-us/2023/05/31/railbound-a-train-on-a-track-bending-journey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
