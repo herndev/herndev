@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta faces a class action lawsuit over its climate commitments](https://www.theverge.com/2023/5/31/23743873/delta-airline-class-action-lawsuit-carbon-neutral-climate)
- - [Apple touts an Analysis Group study saying App Store ecosystem generated $1.1T in 2022, up 29% YoY, with $910B coming from sales of physical goods and services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230531/p23#a230531p23)
- - [Ted Lasso’s third season was unfocused and unwieldy, but it stuck the landing](https://www.theverge.com/23743849/ted-lasso-season-3-review-apple-tv-plus)<!-- TECH:END -->
+ - [Update is wreaking havoc with Surface Duo devices &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
+ - [Amazon gets slap on the wrist over privacy violations with Ring cameras](https://appleinsider.com/articles/23/05/31/amazon-gets-slap-on-the-wrist-over-privacy-violations-with-ring-cameras?utm_medium=rss)
+ - [Reddit client Apollo&#39;s developer says Reddit plans to charge $12K for 50M API requests and that he would need to pay $20M per year to keep operating the app &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230531/p25#a230531p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
