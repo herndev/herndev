@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store developers surpass $1 trillion milestone from sales in 2022](https://appleinsider.com/articles/23/05/31/app-store-developers-surpass-1-trillion-milestone-from-sales-in-2022?utm_medium=rss)
- - [Asus swears that it has totally fixed the ROG Ally’s battery life](https://www.theverge.com/2023/5/31/23743656/asus-rog-ally-battery-life-launch-galip-fu-interview)
- - [Apple&#39;s iOS 16.5 Fixes 3 Security Bugs Already Used in Attacks](https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/)<!-- TECH:END -->
+ - [Delta faces a class action lawsuit over its climate commitments](https://www.theverge.com/2023/5/31/23743873/delta-airline-class-action-lawsuit-carbon-neutral-climate)
+ - [Apple touts an Analysis Group study saying App Store ecosystem generated $1.1T in 2022, up 29% YoY, with $910B coming from sales of physical goods and services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230531/p23#a230531p23)
+ - [Ted Lasso’s third season was unfocused and unwieldy, but it stuck the landing](https://www.theverge.com/23743849/ted-lasso-season-3-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
