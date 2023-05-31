@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Since 20 years](http://9gag.com/gag/ap9b1nE)
- - ⏩ [\u00bfWhat?](http://9gag.com/gag/ago4mbv)
- - 👉 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 💣 [What team are you on](http://9gag.com/gag/ajVZxQR)
+ - ⏩ [Only legends will understand](http://9gag.com/gag/aQEZ758)
+ - 👉 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)<!-- MEMES:END -->
 
 ---
 
