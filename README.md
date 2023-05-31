@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I didn&#39;t know I need a gaming chair with a wiggly backrest but now I&#39;ve tried it, it makes so much sense](https://www.pcgamer.com/i-didnt-know-i-need-a-gaming-chair-with-a-wiggly-backrest-but-now-ive-tried-it-it-makes-so-much-sense)
  - [Today&#39;s Wordle hint and answer #711: Wednesday, May 31](https://www.pcgamer.com/wordle-today-hint-answer-711-may-31)
- - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal [Update]](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)
- - [Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers](https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333)<!-- GAME:END -->
+ - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal [Update]](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
