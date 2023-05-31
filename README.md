@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [USAF just released footage of a Chinese fighter jet buzzing a U.S. Air Force spy plane over the South China Sea which occurred on May 26th.](http://9gag.com/gag/az2RKNz)
+ - 💣 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
  - ⏩ [Interesting twist](http://9gag.com/gag/aZDj85p)
- - 👉 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)<!-- MEMES:END -->
+ - 👉 [\u00bfWhat?](http://9gag.com/gag/ago4mbv)<!-- MEMES:END -->
 
 ---
 
