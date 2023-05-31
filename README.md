@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boom](http://9gag.com/gag/a9q2v5o)
- - ⏩ [Interesting twist](http://9gag.com/gag/aZDj85p)
- - 👉 [Evolution of Ariana Grande](http://9gag.com/gag/a6q29gm)<!-- MEMES:END -->
+ - 💣 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
+ - ⏩ [\u00bfWhat?](http://9gag.com/gag/ago4mbv)
+ - 👉 [Interesting twist](http://9gag.com/gag/aZDj85p)<!-- MEMES:END -->
 
 ---
 
