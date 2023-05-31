@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity estimated in a recent disclosure that Twitter is now worth about 33% of Elon Musk&#39;s $44B purchase price, based on a markdown of its own Twitter stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p30#a230530p30)
- - [Block Party says its anti-harassment tool for Twitter is going on an indefinite hiatus starting May 31 due to Twitter API changes, and announces Privacy Party &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230530/p29#a230530p29)
- - [Apple details App Store tax changes in Ghana, Lithuania, Moldova, Spain, and Brazil](https://appleinsider.com/articles/23/05/31/apple-details-app-store-tax-changes-in-ghana-lithuania-moldova-spain-and-brazil?utm_medium=rss)<!-- TECH:END -->
+ - [Statistics Korea: South Korea&#39;s semiconductor inventory rose 83% YoY in April 2023, the biggest increase since April 2016, while factory shipments fell 33% YoY &lpar;Myungshin Cho/Bloomberg&rpar;](http://www.techmeme.com/230530/p32#a230530p32)
+ - [As GitHub prepares to close its San Francisco HQ, a look back at the living testament to tech culture, with its conflicts presaging a decade of tech backlash &lpar;Nadia Asparouhova/Wired&rpar;](http://www.techmeme.com/230530/p31#a230530p31)
+ - [Fidelity estimated in a recent disclosure that Twitter is now worth about 33% of Elon Musk&#39;s $44B purchase price, based on a markdown of its own Twitter stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p30#a230530p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
