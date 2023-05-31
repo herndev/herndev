@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly ends support for decade-old Chromecast](https://www.theverge.com/2023/5/31/23743515/google-chromecast-support-ending-2013)
- - [A look at the BabyLM Challenge, which aims to create language models with datasets that are less than one-ten-thousandth the size of those used by advanced LLMs &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/230531/p4#a230531p4)
- - [Apple’s Reality Pro headset could be the sharpest and brightest by a mile](https://www.androidauthority.com/apple-reality-pro-headset-resolution-brightness-3330642/)<!-- TECH:END -->
+ - [A new update is wreaking havoc with Surface Duo devices](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
+ - [Foxconn predicts &quot;triple-digit growth in AI servers&quot; in H2 2023 as demand skyrockets; in 2022, Foxconn made ~$36B in server revenue out of its $215B total &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230531/p6#a230531p6)
+ - [An interview with reclusive Bitcoin programmer @Fiatjaf on building the Nostr protocol to offer an alternative to Twitter and other centralized social media &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/230531/p5#a230531p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
