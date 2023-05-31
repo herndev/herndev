@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nouda Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742939/nouda-shrine-proving-grounds-intermediate-location-walkthrough)
- - [The best new Star Trek show is free to watch on YouTube](https://www.polygon.com/23744560/star-trek-strange-new-worlds-stream-free-youtube-season-one)
- - [Metal Gear Solid 3: Snake Eater Remake Will Reuse Old Voices](https://kotaku.com/metal-gear-solid-3-delta-snake-eater-voice-actors-msg3-1850493344)<!-- GAME:END -->
+ - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
+ - [Overwatch Forums Get Heated Over Baptiste&#39;s Bisexuality](https://kotaku.com/overwatch-2-baptiste-bisexual-pride-event-lifeweaver-1850493499)
+ - [Orochium Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
