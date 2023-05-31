@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - ⏩ [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
+ - 💣 [My stepmom is a vampire!](http://9gag.com/gag/axoROBK)
+ - ⏩ [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
 
 ---
 
