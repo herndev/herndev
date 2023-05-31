@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former CD Projekt Red devs found new studio, Blank.](https://www.theverge.com/2023/5/31/23742997/cd-projekt-red-devs-new-studio-blank)
- - [Sony’s small but mighty XB100 speaker is cheerful and very cheap](https://www.theverge.com/23742818/sony-srs-xb100-portable-bluetooth-speaker-review)
- - [If you want to be bilingual, try this GPT-trained language-learning Discord bot](https://www.theverge.com/23739382/discord-memrise-membot-language-learning-ai)<!-- TECH:END -->
+ - [Amazon Echo Pop Review &lpar;2023&rpar;: Fun To Look At](https://www.wired.com/review/amazon-echo-pop/)
+ - [Amazon Echo Pop review: more style, less substance](https://www.theverge.com/23742395/amazon-echo-pop-smart-speaker-review)
+ - [The wild, true story of Chicago’s most infamous police impersonator](https://www.theverge.com/features/23737494/kid-cop-chicago-police-impersonator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
