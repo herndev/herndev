@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
- - [Apple TV+ announces streaming release for &#39;Lessons in Chemistry&#39;](https://appleinsider.com/articles/23/05/31/apple-tv-announces-streaming-release-for-lessons-in-chemistry?utm_medium=rss)
- - [After raising $730M, UK chip startup Graphcore reported just ~$5M in 2021 revenue and a $183M loss; Microsoft, an investor, reportedly declined to use its chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230531/p18#a230531p18)<!-- TECH:END -->
+ - [A profile of AMD CEO Lisa Su, who orchestrated one of the great tech turnarounds after her 2014 takeover, as the company prepares to battle Nvidia over AI chips &lpar;Forbes&rpar;](http://www.techmeme.com/230531/p22#a230531p22)
+ - [Filing: Ontario Securities Commission opened an investigation on May 10 into Binance over trying to skirt regulations; Binance withdrew from Canada on May 12 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230531/p21#a230531p21)
+ - [Apple&#39;s unique headset design is causing problems with component suppliers](https://appleinsider.com/articles/23/05/31/apples-unique-headset-design-is-causing-problems-with-component-suppliers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
