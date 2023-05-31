@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
- - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 👉 [Prime years](http://9gag.com/gag/aGEAME5)<!-- MEMES:END -->
+ - 💣 [Evolution of Ariana Grande](http://9gag.com/gag/a6q29gm)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
 
 ---
 
