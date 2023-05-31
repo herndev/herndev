@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitwarden vs LastPass: Which should you choose in 2023?](https://www.androidauthority.com/bitwarden-vs-lastpass-3330255/)
- - [Apple TV app and Apple TV+ were down for two hours on Tuesday [u]](https://appleinsider.com/articles/23/05/30/apple-tv-app-and-apple-tv-are-down-for-some-users?utm_medium=rss)
- - [The Pixel Watch 2 might kiss Samsung chips goodbye to improve battery](https://www.theverge.com/2023/5/30/23742793/pixel-watch-2-fitbit-sense-2-qualcomm-snapdragon-w5-plus)<!-- TECH:END -->
+ - [Nvidia became a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
+ - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
+ - [Sources: Google plans to launch the Pixel Watch 2 in fall 2023 with a Snapdragon W5 series chip and Fitbit Sense 2-like sensors, alongside the Pixel 8 and 8 Pro &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230530/p27#a230530p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
