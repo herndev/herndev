@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I didn&#39;t know I need a gaming chair with a wiggly backrest but now I&#39;ve tried it, it makes so much sense](https://www.pcgamer.com/i-didnt-know-i-need-a-gaming-chair-with-a-wiggly-backrest-but-now-ive-tried-it-it-makes-so-much-sense)
- - [Today&#39;s Wordle hint and answer #711: Wednesday, May 31](https://www.pcgamer.com/wordle-today-hint-answer-711-may-31)
- - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal [Update]](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)<!-- GAME:END -->
+ - [Yeah, I spent my time at Computex stroking a $600 DIY Ducky keyboard, what of it?](https://www.pcgamer.com/yeah-i-spent-my-time-at-computex-stroking-a-dollar600-diy-ducky-keyboard-what-of-it)
+ - [The HyperX Cloud III would be a superb mid-range gaming headset pick if the best weren&#39;t so cheap](https://www.pcgamer.com/hyper-x-cloud-iii-hands-on-impressions)
+ - [A $4 tweak to Noctua&#39;s AMD Ryzen cooler bracket lowers CPU temperatures by up to 3ºC](https://www.pcgamer.com/a-dollar4-tweak-to-noctuas-amd-ryzen-cooler-bracket-lowers-cpu-temperatures-by-up-to-3oc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
