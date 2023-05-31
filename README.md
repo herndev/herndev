@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Statistics Korea: South Korea&#39;s semiconductor inventory rose 83% YoY in April 2023, the biggest increase since April 2016, while factory shipments fell 33% YoY &lpar;Myungshin Cho/Bloomberg&rpar;](http://www.techmeme.com/230530/p32#a230530p32)
- - [As GitHub prepares to close its San Francisco HQ, a look back at the living testament to tech culture, with its conflicts presaging a decade of tech backlash &lpar;Nadia Asparouhova/Wired&rpar;](http://www.techmeme.com/230530/p31#a230530p31)
- - [Fidelity estimated in a recent disclosure that Twitter is now worth about 33% of Elon Musk&#39;s $44B purchase price, based on a markdown of its own Twitter stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p30#a230530p30)<!-- TECH:END -->
+ - [It’s time to bid farewell to your first-generation Google Chromecast](https://www.androidauthority.com/google-chromecast-first-generation-end-of-life-3330613/)
+ - [Some mainland China tech entrepreneurs are trying to gain permanent residency or citizenship outside of China to avoid US curbs and biases against Chinese firms &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/230531/p1#a230531p1)
+ - [Statistics Korea: South Korea&#39;s semiconductor inventory rose 83% YoY in April 2023, the biggest increase since April 2016, while factory shipments fell 33% YoY &lpar;Myungshin Cho/Bloomberg&rpar;](http://www.techmeme.com/230530/p32#a230530p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
