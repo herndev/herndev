@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Since 20 years](http://9gag.com/gag/ap9b1nE)
- - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 👉 [Testing the product.](http://9gag.com/gag/a4o26nA)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
+ - ⏩ [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
 
 ---
 
