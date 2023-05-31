@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - ⏩ [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
- - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
+ - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 👉 [Prime years](http://9gag.com/gag/aGEAME5)<!-- MEMES:END -->
 
 ---
 
