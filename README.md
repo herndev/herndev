@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon agrees to pay $25M to settle FTC and DOJ charges that the company kept Alexa voice recordings and geolocation data collected from children for years &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230531/p32#a230531p32)
- - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
- - [It could get harder to use a Nest Hub for shopping lists soon](https://www.theverge.com/2023/5/31/23744374/google-nest-hub-assistant-anylist-anydo-keep-third-party-notes-lists-support)<!-- TECH:END -->
+ - [San Diego-based Measurabl, which makes carbon footprint management tools for properties, raised a $93M Series D led by Energy Impact Partners and Sway Ventures &lpar;Mike Freeman/San Diego Union-Tribune&rpar;](http://www.techmeme.com/230531/p33#a230531p33)
+ - [Reddit might destroy third-party Reddit apps &lpar;Update: Reddit stands firm&rpar;](https://www.androidauthority.com/third-party-reddit-apps-end-3330855/)
+ - [Smartphone Shipments Are Forecast to Decline in 2023 Thanks to Inflation     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-are-forecast-to-decline-in-2023-thanks-to-inflation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
