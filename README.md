@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s The Reason Your Games Nail That Cozy Vibe](https://kotaku.com/best-cozy-games-lofi-hiphop-beats-coffee-talk-2-switch-1850491993)
- - [PlayStation Plus Adds Some Great Games For June](https://kotaku.com/ps-plus-monthly-games-nba-jurassic-world-trek-to-yomi-1850491986)
- - [How to Create an Engaging Puzzle: Railbound, a Train on a Track-bending Journey](https://news.xbox.com/en-us/2023/05/31/railbound-a-train-on-a-track-bending-journey/)<!-- GAME:END -->
+ - [Activision Blizzard CEO audaciously claims that sexism and harassment problems were made up by an &#39;aggressive labor movement&#39; trying to &#39;destabilize the company&#39;](https://www.pcgamer.com/activision-blizzard-ceo-audaciously-claims-that-sexism-and-harassment-problems-were-made-up-by-an-aggressive-labor-movement-trying-to-destabilize-the-company)
+ - [Someone Just Won The Biggest, Wildest Pot In TV Poker History](https://kotaku.com/biggest-poker-hold-em-pot-win-3-million-record-dwan-fei-1850492142)
+ - [Mayamats Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743918/mayamats-shrine-a-route-for-a-ball-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
