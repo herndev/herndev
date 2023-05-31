@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m so ready for flat-packed PC cases](https://www.pcgamer.com/im-so-ready-for-flat-packed-pc-cases)
- - [Yeah, I spent my time at Computex stroking a $600 DIY Ducky keyboard, what of it?](https://www.pcgamer.com/yeah-i-spent-my-time-at-computex-stroking-a-dollar600-diy-ducky-keyboard-what-of-it)
- - [The HyperX Cloud III would be a superb mid-range gaming headset pick if the best weren&#39;t so cheap](https://www.pcgamer.com/hyper-x-cloud-iii-hands-on-impressions)<!-- GAME:END -->
+ - [The perfect PSU for your silent gaming PC build just became a reality](https://www.pcgamer.com/the-perfect-psu-for-your-silent-gaming-pc-build-just-became-a-reality)
+ - [The Diablo 4 community is printing t-shirts, baking cakes, and buying chicken on other continents in advance of the game&#39;s launch](https://www.pcgamer.com/the-diablo-4-community-is-printing-t-shirts-baking-cakes-and-buying-chicken-on-other-continents-in-advance-of-the-games-launch)
+ - [Fractal Design&#39;s gorgeous new Terra PC case vindicates my disdain of the cyberpunk aesthetic](https://www.pcgamer.com/fractal-design-terra-pc-case-hands-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
