@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fidelity estimated in a recent disclosure that Twitter is now worth about 33% of Elon Musk&#39;s $44B purchase price, based on a markdown of its own Twitter stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p30#a230530p30)
  - [Block Party says its anti-harassment tool for Twitter is going on an indefinite hiatus starting May 31 due to Twitter API changes, and announces Privacy Party &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230530/p29#a230530p29)
- - [Apple details App Store tax changes in Ghana, Lithuania, Moldova, Spain, and Brazil](https://appleinsider.com/articles/23/05/31/apple-details-app-store-tax-changes-in-ghana-lithuania-moldova-spain-and-brazil?utm_medium=rss)
- - [Riot delays competitive League of Legends season after players voted to walk out](https://www.theverge.com/2023/5/30/23743198/riot-games-delays-league-of-legends-lcs-summer-season-split-walkout-lcspa)<!-- TECH:END -->
+ - [Apple details App Store tax changes in Ghana, Lithuania, Moldova, Spain, and Brazil](https://appleinsider.com/articles/23/05/31/apple-details-app-store-tax-changes-in-ghana-lithuania-moldova-spain-and-brazil?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
