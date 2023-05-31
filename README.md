@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: Across the Spider-Verse goes bigger, bolder, and more ambitious](https://www.polygon.com/reviews/23742233/spider-man-across-spider-verse-review)
- - [Konami is officially doing the most boring thing possible with the MGS3 remake&#39;s voice acting](https://www.pcgamer.com/konami-is-officially-doing-the-most-boring-thing-possible-with-the-mgs3-remakes-voice-acting)
- - [The perfect PSU for your silent gaming PC build just became a reality](https://www.pcgamer.com/the-perfect-psu-for-your-silent-gaming-pc-build-just-became-a-reality)<!-- GAME:END -->
+ - [How Zelda: Tears of the Kingdom players are breaking an ‘unbreakable’ game](https://www.polygon.com/legend-zelda-tears-kingdom/23742717/zelda-tears-of-the-kingdom-players-glitches-exploits-speedruns)
+ - [Where to pre-order Street Fighter 6 before it launches June 2](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)
+ - [How to find the Light Dragon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728759/light-dragon-path-location-farming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
