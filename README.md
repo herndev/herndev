@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #711: Wednesday, May 31](https://www.pcgamer.com/wordle-today-hint-answer-711-may-31)
  - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal [Update]](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)
- - [Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers](https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333)
- - [The farm sim series that started it all just teased two new games and one is multiplayer](https://www.pcgamer.com/the-farm-sim-series-that-started-it-all-just-teased-two-new-games-and-one-is-multiplayer)<!-- GAME:END -->
+ - [Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers](https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
