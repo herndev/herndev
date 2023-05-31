@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No shit](http://9gag.com/gag/aGEAM6n)
- - ⏩ [What team are you on](http://9gag.com/gag/ajVZxQR)
- - 👉 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
+ - 💣 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - ⏩ [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
 
 ---
 
