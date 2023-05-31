@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new update is wreaking havoc with Surface Duo devices](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
- - [Foxconn predicts &quot;triple-digit growth in AI servers&quot; in H2 2023 as demand skyrockets; in 2022, Foxconn made ~$36B in server revenue out of its $215B total &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230531/p6#a230531p6)
- - [An interview with reclusive Bitcoin programmer @Fiatjaf on building the Nostr protocol to offer an alternative to Twitter and other centralized social media &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/230531/p5#a230531p5)<!-- TECH:END -->
+ - [Payments startup NomuPay, formed out of Wirecard and other assets, discloses raising $53.6M in total, including $15M recently, and plans a &quot;proper raise&quot; soon &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230531/p9#a230531p9)
+ - [Windows 11 gets some useful widgets for CPU, memory, and GPU monitoring](https://www.theverge.com/2023/5/31/23743549/microsoft-windows-11-widgets-cpu-gpu-memory-dev-home)
+ - [Here’s how much it costs to make the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-cost-to-make-3330684/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
