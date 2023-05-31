@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Payments startup NomuPay, formed out of Wirecard and other assets, discloses raising $53.6M in total, including $15M recently, and plans a &quot;proper raise&quot; soon &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230531/p9#a230531p9)
- - [Windows 11 gets some useful widgets for CPU, memory, and GPU monitoring](https://www.theverge.com/2023/5/31/23743549/microsoft-windows-11-widgets-cpu-gpu-memory-dev-home)
- - [Here’s how much it costs to make the Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-cost-to-make-3330684/)<!-- TECH:END -->
+ - [Inside Apple Ginza: Tokyo&#39;s boutique Apple Store](https://appleinsider.com/articles/23/05/31/inside-apple-ginza-tokyos-boutique-apple-store?utm_medium=rss)
+ - [Apple goes all in on live video shopping &amp; iPhone sales for China&#39;s big &#39;618&#39; festival](https://appleinsider.com/articles/23/05/31/apple-goes-all-in-on-live-video-shopping-iphone-sales-for-chinas-big-618-festival?utm_medium=rss)
+ - [Monzo reports &amp;pound;356M in FY2023 revenue, up from &amp;pound;154M in FY2022, and a &amp;pound;116M net loss, down from &amp;pound;119M YoY; CEO TS Anil says an IPO is &quot;some ways down the road&quot; &lpar;Iain Withers/Reuters&rpar;](http://www.techmeme.com/230531/p11#a230531p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
