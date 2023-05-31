@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prime years](http://9gag.com/gag/aGEAME5)
- - ⏩ [18 year old jumped off a cruise ship in the bahamas pitch black waters as a dare. he has still not been found and the search has been called off](http://9gag.com/gag/aDYVZ6G)
+ - 💣 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
  - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 ---
