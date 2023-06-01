@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Trader is an RPG that dives deep into Warhammer 40K lore](https://www.polygon.com/23744410/rogue-trader-rpg-beta-impressions-systems-combat-character-creation)
- - [Report: Most of Arkane Austin&#39;s Prey veterans quit during Redfall&#39;s development, and the ones that stayed hoped Microsoft would cancel it](https://www.pcgamer.com/report-most-of-arkane-austins-prey-veterans-quit-during-redfalls-development-and-the-ones-that-stayed-hoped-microsoft-would-cancel-it)
- - [Final Fantasy XVI Devs Almost Cut Moogles Due To The Game&#39;s Mature Tone](https://kotaku.com/final-fantasy-xvi-moogle-art-mature-story-1850495302)<!-- GAME:END -->
+ - [Stray is pouncing onto newer Macs](https://www.polygon.com/23745219/stray-mac-version-macbook-air-pro)
+ - [Every new movie and show coming to Disney Plus in June](https://www.polygon.com/entertainment/23733313/disney-plus-new-movies-tv-watch-june-2023)
+ - [Meta Quest 3 announced, coming later this year for $499](https://www.pcgamer.com/meta-quest-3-announced-coming-later-this-year-for-dollar499)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
