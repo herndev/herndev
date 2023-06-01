@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quite the daredevil](http://9gag.com/gag/aMEvnXx)
- - ⏩ [This MANIAC](http://9gag.com/gag/a8q2e0Z)
- - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
+ - ⏩ [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
 
 ---
 
