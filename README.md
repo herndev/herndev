@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - ⏩ [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 💣 [Temptations, people. Temptations everywhere!](http://9gag.com/gag/a5X25Qr)
+ - ⏩ [20 mechanical principles demonstrated in Lego technic](http://9gag.com/gag/aYVqRov)
+ - 👉 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 ---
 
