@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is rolling out AI across 12 fulfillment centers to weed out damaged goods and says the tech is 3x as effective at spotting damage as a warehouse worker &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/230531/p38#a230531p38)
- - [Ultraleap unveils the $140 hand-tracking module Leap Motion 2, its first since the original in 2013, with support for standalone XR headsets; preorders open &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/230531/p37#a230531p37)
- - [Leap Motion&#39;s gesture control quest continues with the Leap Motion Controller 2](https://www.theverge.com/2013/5/21/4351588/leap-motion-gesture-control)<!-- TECH:END -->
+ - [Evident: at some banks, about 40% of all open job roles are AI-related; JPMorgan advertised 3,651 AI-related roles from February 2023 through April 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p40#a230531p40)
+ - [Bengaluru-based Capillary Technologies, whose SaaS helps companies manage their loyalty programs, raised a $45M Series D, bringing its total funding to ~$150M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230531/p39#a230531p39)
+ - [Amazon is rolling out AI across 12 fulfillment centers to weed out damaged goods and says the tech is 3x as effective at spotting damage as a warehouse worker &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/230531/p38#a230531p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
