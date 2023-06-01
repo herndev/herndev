@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Expanse: A Telltale Series Aims to Tell Their Small Story in a Large Universe](https://news.xbox.com/en-us/2023/06/01/the-expanse-a-telltale-series-preview/)
- - [This new PC case is giving real 3D printer vibes and I guess that might be my new &#39;thing&#39;](https://www.pcgamer.com/this-new-pc-case-is-giving-real-3d-printer-vibes-and-i-guess-that-might-be-my-new-thing)
- - [Firaxis hit by layoffs after Midnight Suns disappointment and departure of iconic creative lead](https://www.pcgamer.com/firaxis-hit-by-layoffs-after-midnight-suns-disappointment-and-departure-of-iconic-creative-lead)<!-- GAME:END -->
+ - [Total War: Pharaoh completely shifts gears after the series’ fantasy phase](https://www.polygon.com/23744375/total-war-pharaoh-preview-factions-units-release-date)
+ - [The one thing to know about Spider-Man: Across the Spider-Verse is it’s just Part 1](https://www.polygon.com/23742158/spider-man-across-spider-verse-part-1-to-be-continued-beyond)
+ - [Kurakat Shrine location and ‘Dyeing to Find It’ walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744473/kurakat-shrine-location-dyeing-to-find-it-puzzle-reward-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
