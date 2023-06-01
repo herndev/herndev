@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/avQR6vb)
- - ⏩ [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - 👉 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
+ - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 ---
 
