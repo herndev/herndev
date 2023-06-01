@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based travel experiences marketplace GetYourGuide raised $194M, with an $85M Series F and a $109M revolving credit facility, at a $2B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230601/p6#a230601p6)
- - [After getting three applicants in 2022, India opens new applications for setting up semiconductor and display fabs under its $10B chip incentive scheme &lpar;The Financial Express&rpar;](http://www.techmeme.com/230601/p5#a230601p5)
- - [Sources: a planned $3B chip plant in India by ISMC, a consortium that included chipmaker Tower, has been stalled due to the company&#39;s pending takeover by Intel &lpar;Reuters&rpar;](http://www.techmeme.com/230601/p4#a230601p4)<!-- TECH:END -->
+ - [Polestar’s latest software update adds YouTube, upgraded Apple CarPlay](https://www.theverge.com/2023/6/1/23744407/polestar-youtube-apple-carplay-software-ota)
+ - [Honor Magic VS review: foldable perks, foldable quirks](https://www.theverge.com/23743664/honor-magic-vs-review-foldable-phone)
+ - [The Pixel 8 might not get the wireless charging boost you crave](https://www.androidauthority.com/pixel-8-wireless-charging-speed-3330982/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
