@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is what it is](http://9gag.com/gag/aXnW736)
- - ⏩ [Totally worth it](http://9gag.com/gag/az2RKEj)
- - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
+ - 💣 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - ⏩ [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
 
 ---
 
