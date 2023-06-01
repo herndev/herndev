@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My stepmom is a vampire!](http://9gag.com/gag/axoROBK)
- - ⏩ [`You deserve better`](http://9gag.com/gag/armqAq7)
- - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
+ - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 👉 [My stepmom is a vampire!](http://9gag.com/gag/axoROBK)<!-- MEMES:END -->
 
 ---
 
