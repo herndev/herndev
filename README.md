@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Razr Plus’ new cover screen is a big deal](https://www.theverge.com/2023/6/1/23744843/motorola-razr-plus-2023-screen-price-cameras)
- - [These robot vacuums are getting smarter](https://www.theverge.com/2023/6/1/23745238/roborock-ecovacs-deebot-new-robot-vacuum-models-price-specs-release-date)
- - [Apple Savings customers hit with long delays when withdrawing money](https://appleinsider.com/articles/23/06/01/apple-savings-customers-hit-with-long-delays-when-withdrawing-money?utm_medium=rss)<!-- TECH:END -->
+ - [AI boosters need to learn how to edit](https://www.theverge.com/2023/6/1/23745673/ai-art-boosters-mona-lisa-abbey-road)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Nuclear fusion startups set to receive $46 million from the Department of Energy](https://www.theverge.com/2023/6/1/23745233/nuclear-fusion-energy-department-funding-millions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
