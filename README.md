@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Microsoft Teams on Windows 11 gets Discord-like communities and an AI art tool](https://www.theverge.com/2023/6/1/23745051/microsoft-teams-windows-11-communities-designer)
- - [Meta Quest 3 VR Headset: Price, Specs, Release Date](https://www.wired.com/story/meta-quest-3-vr-headset-price-specs-release-date/)<!-- TECH:END -->
+ - [Apple says iOS 16 is on 81% of all iPhones](https://appleinsider.com/articles/23/06/01/apple-says-ios-16-is-on-81-of-all-iphones?utm_medium=rss)
+ - [One Piece, 3 Body Problem, and The Last Airbender are all coming to Netflix’s Tudum](https://www.theverge.com/23745319/netflic-tudum-2023-brazil-trailer)
+ - [Survey: Android owners mostly switched to iPhone because of prior phone problems and new iPhone features; only 6% moved because of iMessage and FaceTime &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230601/p24#a230601p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
