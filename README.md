@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;No signs of remorse&#39;—Sonic creator faces prison sentence and over $1 million fine in ongoing trial](https://www.pcgamer.com/no-signs-of-remorsesonic-creator-hit-with-2-and-a-half-years-in-prison-and-over-dollar1-million-in-fines-after-insider-trading-trial)
- - [Adata&#39;s shown its 1600W PSU can power four 450W RTX 4090s and that it really doesn&#39;t care for maths](https://www.pcgamer.com/adatas-shown-its-1600w-psu-can-power-four-450w-rtx-4090s-and-that-it-really-doesnt-care-for-maths)
- - [Warhammer and stamp-collecting collide in Royal Mail&#39;s latest collection](https://www.pcgamer.com/warhammer-and-stamp-collecting-collide-in-royal-mails-latest-collection)<!-- GAME:END -->
+ - [How The Expanse: A Telltale Series Aims to Tell Their Small Story in a Large Universe](https://news.xbox.com/en-us/2023/06/01/the-expanse-a-telltale-series-preview/)
+ - [This new PC case is giving real 3D printer vibes and I guess that might be my new &#39;thing&#39;](https://www.pcgamer.com/this-new-pc-case-is-giving-real-3d-printer-vibes-and-i-guess-that-might-be-my-new-thing)
+ - [Firaxis hit by layoffs after Midnight Suns disappointment and departure of iconic creative lead](https://www.pcgamer.com/firaxis-hit-by-layoffs-after-midnight-suns-disappointment-and-departure-of-iconic-creative-lead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
