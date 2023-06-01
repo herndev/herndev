@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prime years](http://9gag.com/gag/aGEAME5)
- - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 💣 [Quite the daredevil](http://9gag.com/gag/aMEvnXx)
+ - ⏩ [This MANIAC](http://9gag.com/gag/a8q2e0Z)
  - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 ---
