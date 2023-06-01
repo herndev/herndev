@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Faces Behind the Memes: Then and Now &lpar;2023&rpar;](http://9gag.com/gag/aPgQozQ)
- - ⏩ [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 💣 [This MANIAC](http://9gag.com/gag/a8q2e0Z)
+ - ⏩ [Phil knows nothing](http://9gag.com/gag/aoKLxx2)
+ - 👉 [Sounds about right](http://9gag.com/gag/aA022xL)<!-- MEMES:END -->
 
 ---
 
