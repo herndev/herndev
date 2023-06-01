@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaspersky Says New Zero-Day Malware Hit iPhones—Including Its Own](https://www.wired.com/story/kaspersky-apple-ios-zero-day-intrusion/)
- - [Dell Q1: revenue down 20% YoY to $20.92B, vs. $20.12B est., Client Solutions revenue down 23% YoY to $11.98B, vs. $11.41B est., net income down 46% YoY to $578M &lpar;Jeremy C. Owens/MarketWatch&rpar;](http://www.techmeme.com/230601/p33#a230601p33)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Airbnb sues New York City over a new law the company calls a &quot;de facto ban against short-term rentals&quot;; the city plans to begin enforcing the law in July 2023 &lpar;Doyinsola Oladipo/Reuters&rpar;](http://www.techmeme.com/230601/p34#a230601p34)
+ - [Smart door lock maker Level is bringing a new video doorbell to apartment dwellers](https://www.theverge.com/2023/5/30/23742372/level-smart-lock-video-doorbell-multifamily-apartments)
+ - [iHeartMedia tells employees to steer clear of ChatGPT](https://www.theverge.com/2023/6/1/23745992/iheartmedia-chatgpt-ban-internal-devices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
