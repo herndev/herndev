@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray is pouncing onto newer Macs](https://www.polygon.com/23745219/stray-mac-version-macbook-air-pro)
- - [Every new movie and show coming to Disney Plus in June](https://www.polygon.com/entertainment/23733313/disney-plus-new-movies-tv-watch-june-2023)
- - [Meta Quest 3 announced, coming later this year for $499](https://www.pcgamer.com/meta-quest-3-announced-coming-later-this-year-for-dollar499)<!-- GAME:END -->
+ - [Surprise: Gloomhaven creator announces new, revised Second Edition](https://www.polygon.com/tabletop-games/23744047/gloomhaven-second-edition-release-date-price)
+ - [Warhammer 40K studio manager Stu Black reflects on the launch of 10th edition](https://www.polygon.com/23743845/40k-studio-manager-interview-10th-edition-combat-patrol)
+ - [Diablo IV: Here’s How To Start Playing Early](https://kotaku.com/diablo-iv-4-early-access-version-difference-preorder-1850496062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
