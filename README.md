@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting twist](http://9gag.com/gag/aZDj85p)
- - ⏩ [Big wheels](http://9gag.com/gag/a4o2WGQ)
- - 👉 [Every f year](http://9gag.com/gag/aL1mdVM)<!-- MEMES:END -->
+ - 💣 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 👉 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)<!-- MEMES:END -->
 
 ---
 
