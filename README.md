@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing the product.](http://9gag.com/gag/a4o26nA)
- - ⏩ [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - 👉 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
+ - 💣 [Prime years](http://9gag.com/gag/aGEAME5)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 ---
 
