@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: NYC-based Runway, which uses AI to let users generate videos from text descriptions, raised ~$100M from Google and others at a ~$1.5B valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230601/p2#a230601p2)
  - [OpenAI researchers say training AI with process supervision, which rewards the thought process rather than the outcome, could help prevent hallucinations &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230601/p1#a230601p1)
- - [Evident: at some banks, about 40% of all open job roles are AI-related; JPMorgan advertised 3,651 AI-related roles from February 2023 through April 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p40#a230531p40)
- - [Bengaluru-based Capillary Technologies, whose SaaS helps companies manage their loyalty programs, raised a $45M Series D, bringing its total funding to ~$150M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230531/p39#a230531p39)<!-- TECH:END -->
+ - [Best 5G Phones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
