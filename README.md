@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: The TV isn’t your first choice for YouTube viewing](https://www.androidauthority.com/youtube-viewing-devices-poll-results-3330992/)
- - [Oppo announces MR Glass Developer Edition, a headset designed for developers in China to create mixed reality apps, powered by Qualcomm&#39;s Snapdragon XR2 Plus &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230601/p7#a230601p7)
- - [Polestar’s latest software update adds YouTube, upgraded Apple CarPlay](https://www.theverge.com/2023/6/1/23744407/polestar-youtube-apple-carplay-software-ota)<!-- TECH:END -->
+ - [Ford offering flexible EV leases to Uber drivers](https://www.theverge.com/2023/6/1/23744827/ford-uber-ev-flexible-lease-driver-mustang-mach-e)
+ - [Nothing Phone 2: a roundup of every tease about the upcoming phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
+ - [C3.ai drops 20%+ after its FY revenue outlook of 11%-20% growth to a $307.5M midpoint fell below estimates; AI jumped 258% in 2023 and 45% since Nvidia earnings &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230601/p10#a230601p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
