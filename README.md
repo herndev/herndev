@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford offering flexible EV leases to Uber drivers](https://www.theverge.com/2023/6/1/23744827/ford-uber-ev-flexible-lease-driver-mustang-mach-e)
- - [Nothing Phone 2: a roundup of every tease about the upcoming phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
- - [C3.ai drops 20%+ after its FY revenue outlook of 11%-20% growth to a $307.5M midpoint fell below estimates; AI jumped 258% in 2023 and 45% since Nvidia earnings &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230601/p10#a230601p10)<!-- TECH:END -->
+ - [Don&#39;t compromise on cleanliness: Roborock S7 Max Ultra robot vacuum and mop makes a home sparkle](https://appleinsider.com/articles/23/06/01/dont-compromise-on-cleanliness-roborock-s7-max-ultra-robot-vacuum-and-mop-makes-a-home-sparkle?utm_medium=rss)
+ - [A look at the grotesque world of AI true-crime-victim TikTok, where AI deepfakes, based on images of children who were abused, describe their own ghastly demise &lpar;EJ Dickson/Rolling Stone&rpar;](http://www.techmeme.com/230601/p12#a230601p12)
+ - [Baseus PowerMega 3 Ports Fast Charger 140W review: compact and powerful](https://appleinsider.com/articles/23/06/01/baseus-powermega-3-ports-fast-charger-140w-review-compact-and-powerful?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
