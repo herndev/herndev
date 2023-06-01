@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
- - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 👉 [My stepmom is a vampire!](http://9gag.com/gag/axoROBK)<!-- MEMES:END -->
+ - 💣 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
+ - ⏩ [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
+ - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
 
 ---
 
