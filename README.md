@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego-based Measurabl, which makes carbon footprint management tools for properties, raised a $93M Series D led by Energy Impact Partners and Sway Ventures &lpar;Mike Freeman/San Diego Union-Tribune&rpar;](http://www.techmeme.com/230531/p33#a230531p33)
- - [Reddit might destroy third-party Reddit apps &lpar;Update: Reddit stands firm&rpar;](https://www.androidauthority.com/third-party-reddit-apps-end-3330855/)
- - [Smartphone Shipments Are Forecast to Decline in 2023 Thanks to Inflation     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-are-forecast-to-decline-in-2023-thanks-to-inflation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
+ - [Two new Macs with M2 Max &amp; M2 Ultra being tested ahead of WWDC](https://appleinsider.com/articles/23/05/31/pair-of-new-high-end-macs-allegedly-being-tested-ahead-of-wwdc-with-m2-max-m2-ultra?utm_medium=rss)
+ - [Sources: Apple is testing two new high-end Macs, one with M2 Max, and the other with the unannounced M2 Ultra chip with 60 graphics cores and up to 192GB of RAM &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230531/p34#a230531p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
