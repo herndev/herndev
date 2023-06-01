@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This MANIAC](http://9gag.com/gag/a8q2e0Z)
- - ⏩ [Phil knows nothing](http://9gag.com/gag/aoKLxx2)
- - 👉 [Sounds about right](http://9gag.com/gag/aA022xL)<!-- MEMES:END -->
+ - 💣 [It is what it is](http://9gag.com/gag/aXnW736)
+ - ⏩ [Totally worth it](http://9gag.com/gag/az2RKEj)
+ - 👉 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
 
 ---
 
