@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive FaZe Clan Drama Over Stranger Things Actor Turns Even Uglier](https://kotaku.com/faze-clan-rain-stranger-things-grace-van-dien-netflix-1850497472)
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)<!-- GAME:END -->
+ - [Queer Games Bundle brings together over 450 games from queer devs](https://www.polygon.com/23746004/queer-games-bundle-itchio-pride-month)
+ - [‘Lurelin Village Restoration Project’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745865/lurelin-village-restoration-project-side-adventure-quest)
+ - [‘Ruffian-infested Village’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715588/lurelin-pirates-ruffian-infested-village-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
