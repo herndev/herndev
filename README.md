@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t compromise on cleanliness: Roborock S7 Max Ultra robot vacuum and mop makes a home sparkle](https://appleinsider.com/articles/23/06/01/dont-compromise-on-cleanliness-roborock-s7-max-ultra-robot-vacuum-and-mop-makes-a-home-sparkle?utm_medium=rss)
- - [A look at the grotesque world of AI true-crime-victim TikTok, where AI deepfakes, based on images of children who were abused, describe their own ghastly demise &lpar;EJ Dickson/Rolling Stone&rpar;](http://www.techmeme.com/230601/p12#a230601p12)
- - [Baseus PowerMega 3 Ports Fast Charger 140W review: compact and powerful](https://appleinsider.com/articles/23/06/01/baseus-powermega-3-ports-fast-charger-140w-review-compact-and-powerful?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk sent no tweets during his visit to China, the longest hiatus from the platform since June 2022; once his jet left Shanghai, Musk tweeted about SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/230601/p14#a230601p14)
+ - [The Galaxy S24 Ultra could get a potentially polarizing camera change](https://www.androidauthority.com/samsung-galaxy-s24-ultra-5x-camera-3331009/)
+ - [Polestar cars now get full-screen Apple Maps on driver&#39;s display](https://appleinsider.com/articles/23/06/01/polestar-cars-now-get-full-screen-apple-maps-on-drivers-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
