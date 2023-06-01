@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #712: Thursday, June 1](https://www.pcgamer.com/wordle-today-hint-answer-712-june-1)
  - [After 18 years, controversial shooter Six Days in Fallujah is finally releasing](https://www.pcgamer.com/six-days-in-fallujah-early-access-release-date)
- - [Oh heck yeah, these gaudy origami PC cases now come with water cooling support](https://www.pcgamer.com/oh-heck-yeah-these-gaudy-origami-pc-cases-now-come-with-water-cooling-support)
- - [Reddit Is Killing The Best Way To Read The Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)<!-- GAME:END -->
+ - [Oh heck yeah, these gaudy origami PC cases now come with water cooling support](https://www.pcgamer.com/oh-heck-yeah-these-gaudy-origami-pc-cases-now-come-with-water-cooling-support)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
