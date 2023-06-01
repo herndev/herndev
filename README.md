@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - ⏩ [Best cosplay](http://9gag.com/gag/a1P2EBw)
- - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 💣 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
 
 ---
 
