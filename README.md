@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI boosters need to learn how to edit](https://www.theverge.com/2023/6/1/23745673/ai-art-boosters-mona-lisa-abbey-road)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Nuclear fusion startups set to receive $46 million from the Department of Energy](https://www.theverge.com/2023/6/1/23745233/nuclear-fusion-energy-department-funding-millions)<!-- TECH:END -->
+ - [Binance plans to delist 12 privacy coins, including Zcash and Monero, in France, Italy, Poland, and Spain on June 26, citing &quot;ongoing compliance processes&quot; &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230601/p32#a230601p32)
+ - [Nomad Atlantic Blue sport strap review: A new limited color for sunny days](https://appleinsider.com/articles/23/06/01/nomad-atlantic-blue-sport-strap-review-a-new-limited-color-for-sunny-days?utm_medium=rss)
+ - [Quest 3 won’t replace Quest 2 for ‘quite a while,’ confirms Meta](https://www.theverge.com/2023/6/1/23745814/meta-quest-2-quest-3-games-support-boz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
