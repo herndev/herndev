@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A failed Star Wars gag led to The Boogeyman’s scariest scenes](https://www.polygon.com/23742347/boogeyman-2023-scary-scenes-interview)
- - [How to build a house in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744409/build-house-tarrey-town-totk-quest)
- - [Zombie Derby 2 Now Available on Xbox](https://news.xbox.com/en-us/2023/06/01/zombie-derby-2-now-available-on-xbox/)<!-- GAME:END -->
+ - [Spider-Man 2 PS5 Will Be Darker Than The Tobey Maguire Movie](https://kotaku.com/spiderman-2-playstation-ps5-peter-parker-venom-miles-1850496567)
+ - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)
+ - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
