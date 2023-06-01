@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [18 year old jumped a fence at 3:00 AM, killing the village mascot, a mother swan guarding her four babies. He stole the four babies and smiled upon his arrest. The lineage of swans have been around for over 100 years since 1905.](http://9gag.com/gag/axoRm7b)
- - ⏩ [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 💣 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - ⏩ [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 ---
 
