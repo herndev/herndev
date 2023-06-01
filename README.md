@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oh heck yeah, these gaudy origami PC cases now come with water cooling support](https://www.pcgamer.com/oh-heck-yeah-these-gaudy-origami-pc-cases-now-come-with-water-cooling-support)
  - [Reddit Is Killing The Best Way To Read The Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
- - [Report: Two Men Got Jobs At Amazon Just To Steal Copies Of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
- - [Riot threatens to cancel the entire League of Legends summer season in North America if a deal with players isn&#39;t made](https://www.pcgamer.com/riot-threatens-to-cancel-the-entire-league-of-legends-summer-season-in-north-america-if-a-deal-with-players-isnt-made)<!-- GAME:END -->
+ - [Report: Two Men Got Jobs At Amazon Just To Steal Copies Of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
