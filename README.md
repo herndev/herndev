@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Pharaoh completely shifts gears after the series’ fantasy phase](https://www.polygon.com/23744375/total-war-pharaoh-preview-factions-units-release-date)
- - [The one thing to know about Spider-Man: Across the Spider-Verse is it’s just Part 1](https://www.polygon.com/23742158/spider-man-across-spider-verse-part-1-to-be-continued-beyond)
- - [Kurakat Shrine location and ‘Dyeing to Find It’ walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744473/kurakat-shrine-location-dyeing-to-find-it-puzzle-reward-solution)<!-- GAME:END -->
+ - [Rogue Trader is an RPG that dives deep into Warhammer 40K lore](https://www.polygon.com/23744410/rogue-trader-rpg-beta-impressions-systems-combat-character-creation)
+ - [Report: Most of Arkane Austin&#39;s Prey veterans quit during Redfall&#39;s development, and the ones that stayed hoped Microsoft would cancel it](https://www.pcgamer.com/report-most-of-arkane-austins-prey-veterans-quit-during-redfalls-development-and-the-ones-that-stayed-hoped-microsoft-would-cancel-it)
+ - [Final Fantasy XVI Devs Almost Cut Moogles Due To The Game&#39;s Mature Tone](https://kotaku.com/final-fantasy-xvi-moogle-art-mature-story-1850495302)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
