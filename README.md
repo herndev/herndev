@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Moshapin Shrine location and Lake Intenoch Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745664/moshapin-shrine-location-lake-intenoch-cave-walkthrough-totk)
- - [Yansamin Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745186/yansamin-shrine-proving-grounds-low-gravity-location-walkthrough)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
+ - [Massive FaZe Clan Drama Over Stranger Things Actor Turns Even Uglier](https://kotaku.com/faze-clan-rain-stranger-things-grace-van-dien-netflix-1850497472)
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
