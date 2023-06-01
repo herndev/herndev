@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leap Motion&#39;s gesture control quest continues with the Leap Motion Controller 2](https://www.theverge.com/2013/5/21/4351588/leap-motion-gesture-control)
- - [Cortex, which sells an internal developer portal for teams making software at scale, raised a $35M Series B led by IVP, taking its total funding to nearly $53M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230531/p36#a230531p36)
- - [Best Surge Protector of 2023     - CNET](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is rolling out AI across 12 fulfillment centers to weed out damaged goods and says the tech is 3x as effective at spotting damage as a warehouse worker &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/230531/p38#a230531p38)
+ - [Ultraleap unveils the $140 hand-tracking module Leap Motion 2, its first since the original in 2013, with support for standalone XR headsets; preorders open &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/230531/p37#a230531p37)
+ - [Leap Motion&#39;s gesture control quest continues with the Leap Motion Controller 2](https://www.theverge.com/2013/5/21/4351588/leap-motion-gesture-control)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
