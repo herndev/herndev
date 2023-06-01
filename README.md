@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
- - 👉 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)<!-- MEMES:END -->
+ - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - ⏩ [Best cosplay](http://9gag.com/gag/a1P2EBw)
+ - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
 
 ---
 
