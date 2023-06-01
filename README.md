@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
- - [Two new Macs with M2 Max &amp; M2 Ultra being tested ahead of WWDC](https://appleinsider.com/articles/23/05/31/pair-of-new-high-end-macs-allegedly-being-tested-ahead-of-wwdc-with-m2-max-m2-ultra?utm_medium=rss)
- - [Sources: Apple is testing two new high-end Macs, one with M2 Max, and the other with the unannounced M2 Ultra chip with 60 graphics cores and up to 192GB of RAM &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230531/p34#a230531p34)<!-- TECH:END -->
+ - [Leap Motion&#39;s gesture control quest continues with the Leap Motion Controller 2](https://www.theverge.com/2013/5/21/4351588/leap-motion-gesture-control)
+ - [Cortex, which sells an internal developer portal for teams making software at scale, raised a $35M Series B led by IVP, taking its total funding to nearly $53M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230531/p36#a230531p36)
+ - [Crypto bridging protocol Multichain says it suspended service for multiple chains after being unable to contact its CEO to get server access amid tech problems &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/230531/p35#a230531p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
