@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [InWin&#39;s clever modular PC case system can quickly spiral into your very own behemoth](https://www.pcgamer.com/inwins-clever-modular-pc-case-system-can-quickly-spiral-into-your-very-own-behemoth)
- - [Today&#39;s Wordle hint and answer #712: Thursday, June 1](https://www.pcgamer.com/wordle-today-hint-answer-712-june-1)
- - [After 18 years, controversial shooter Six Days in Fallujah is finally releasing](https://www.pcgamer.com/six-days-in-fallujah-early-access-release-date)<!-- GAME:END -->
+ - [Warhammer and stamp-collecting collide in Royal Mail&#39;s latest collection](https://www.pcgamer.com/warhammer-and-stamp-collecting-collide-in-royal-mails-latest-collection)
+ - [If you&#39;ve got a modern Gigabyte motherboard there&#39;s a BIOS setting you need to disable to avoid PC&#39;s latest security calamity](https://www.pcgamer.com/if-youve-got-a-modern-gigabyte-motherboard-theres-a-bios-setting-you-need-to-disable-to-avoid-pcs-latest-security-calamity)
+ - [InWin&#39;s clever modular PC case system can quickly spiral into your very own behemoth](https://www.pcgamer.com/inwins-clever-modular-pc-case-system-can-quickly-spiral-into-your-very-own-behemoth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
