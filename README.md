@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar’s latest software update adds YouTube, upgraded Apple CarPlay](https://www.theverge.com/2023/6/1/23744407/polestar-youtube-apple-carplay-software-ota)
- - [Honor Magic VS review: foldable perks, foldable quirks](https://www.theverge.com/23743664/honor-magic-vs-review-foldable-phone)
- - [The Pixel 8 might not get the wireless charging boost you crave](https://www.androidauthority.com/pixel-8-wireless-charging-speed-3330982/)<!-- TECH:END -->
+ - [We asked, you told us: The TV isn’t your first choice for YouTube viewing](https://www.androidauthority.com/youtube-viewing-devices-poll-results-3330992/)
+ - [Oppo announces MR Glass Developer Edition, a headset designed for developers in China to create mixed reality apps, powered by Qualcomm&#39;s Snapdragon XR2 Plus &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230601/p7#a230601p7)
+ - [Polestar’s latest software update adds YouTube, upgraded Apple CarPlay](https://www.theverge.com/2023/6/1/23744407/polestar-youtube-apple-carplay-software-ota)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
