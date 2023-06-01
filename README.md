@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - ⏩ [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
+ - 💣 [Wrong pill sorry](http://9gag.com/gag/amAMVBX)
+ - ⏩ [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
+ - 👉 [Interesting twist](http://9gag.com/gag/aZDj85p)<!-- MEMES:END -->
 
 ---
 
