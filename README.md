@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
- - [Fold the phone: all the foldables coming in 2023](https://www.theverge.com/2023/6/1/23745240/folding-phones-2023-pixel-fold-razr-galaxy-fold)
- - [DeFi lending protocol MakerDAO&#39;s community votes to ditch $500M of the Paxos Dollar stable from its reserves, impacting half of the token&#39;s supply &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230601/p26#a230601p26)<!-- TECH:END -->
+ - [The Motorola Razr Plus’ new cover screen is a big deal](https://www.theverge.com/2023/6/1/23744843/motorola-razr-plus-2023-screen-price-cameras)
+ - [These robot vacuums are getting smarter](https://www.theverge.com/2023/6/1/23745238/roborock-ecovacs-deebot-new-robot-vacuum-models-price-specs-release-date)
+ - [Apple Savings customers hit with long delays when withdrawing money](https://appleinsider.com/articles/23/06/01/apple-savings-customers-hit-with-long-delays-when-withdrawing-money?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
