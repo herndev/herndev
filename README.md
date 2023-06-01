@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise: Gloomhaven creator announces new, revised Second Edition](https://www.polygon.com/tabletop-games/23744047/gloomhaven-second-edition-release-date-price)
- - [Warhammer 40K studio manager Stu Black reflects on the launch of 10th edition](https://www.polygon.com/23743845/40k-studio-manager-interview-10th-edition-combat-patrol)
- - [Diablo IV: Here’s How To Start Playing Early](https://kotaku.com/diablo-iv-4-early-access-version-difference-preorder-1850496062)<!-- GAME:END -->
+ - [A failed Star Wars gag led to The Boogeyman’s scariest scenes](https://www.polygon.com/23742347/boogeyman-2023-scary-scenes-interview)
+ - [How to build a house in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744409/build-house-tarrey-town-totk-quest)
+ - [Zombie Derby 2 Now Available on Xbox](https://news.xbox.com/en-us/2023/06/01/zombie-derby-2-now-available-on-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
