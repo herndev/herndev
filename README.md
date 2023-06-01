@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
+ - 💣 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - ⏩ [Interesting twist](http://9gag.com/gag/aZDj85p)
+ - 👉 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 ---
 
