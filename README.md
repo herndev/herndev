@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 💣 [Testing the product.](http://9gag.com/gag/a4o26nA)
+ - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
  - 👉 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
 
 ---
