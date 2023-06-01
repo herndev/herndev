@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI researchers say training AI with process supervision, which rewards the thought process rather than the outcome, could help prevent hallucinations &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230601/p1#a230601p1)
  - [Evident: at some banks, about 40% of all open job roles are AI-related; JPMorgan advertised 3,651 AI-related roles from February 2023 through April 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p40#a230531p40)
- - [Bengaluru-based Capillary Technologies, whose SaaS helps companies manage their loyalty programs, raised a $45M Series D, bringing its total funding to ~$150M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230531/p39#a230531p39)
- - [Amazon is rolling out AI across 12 fulfillment centers to weed out damaged goods and says the tech is 3x as effective at spotting damage as a warehouse worker &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/230531/p38#a230531p38)<!-- TECH:END -->
+ - [Bengaluru-based Capillary Technologies, whose SaaS helps companies manage their loyalty programs, raised a $45M Series D, bringing its total funding to ~$150M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230531/p39#a230531p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
