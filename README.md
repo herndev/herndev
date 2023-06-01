@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
- - ⏩ [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
- - 👉 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
+ - 💣 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - ⏩ [Lmao](http://9gag.com/gag/avQR6vb)
+ - 👉 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
 
 ---
 
