@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Queer Games Bundle brings together over 450 games from queer devs](https://www.polygon.com/23746004/queer-games-bundle-itchio-pride-month)
- - [‘Lurelin Village Restoration Project’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745865/lurelin-village-restoration-project-side-adventure-quest)
- - [‘Ruffian-infested Village’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715588/lurelin-pirates-ruffian-infested-village-quest)<!-- GAME:END -->
+ - [How to beat Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743905/demon-king-ganondorf-demon-dragon-final-boss-fight)
+ - [‘Destroy Ganondorf’ walkthrough, how to get to Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743904/destroy-ganondorf-hyrule-castle-chasm-walkthrough)
+ - [How Diablo 4&#39;s World Tiers work and where to change them](https://www.pcgamer.com/diablo-4-world-tiers-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
