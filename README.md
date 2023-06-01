@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb sues New York City over a new law the company calls a &quot;de facto ban against short-term rentals&quot;; the city plans to begin enforcing the law in July 2023 &lpar;Doyinsola Oladipo/Reuters&rpar;](http://www.techmeme.com/230601/p34#a230601p34)
- - [Smart door lock maker Level is bringing a new video doorbell to apartment dwellers](https://www.theverge.com/2023/5/30/23742372/level-smart-lock-video-doorbell-multifamily-apartments)
- - [iHeartMedia tells employees to steer clear of ChatGPT](https://www.theverge.com/2023/6/1/23745992/iheartmedia-chatgpt-ban-internal-devices)<!-- TECH:END -->
+ - [Sources: Microsoft has agreed to spend potentially billions of dollars on CoreWeave; the GPU cloud provider raised $200M, bringing its Series B round to $421M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230601/p35#a230601p35)
+ - [Eve Flare review: Thread makes for a more responsive smart light](https://appleinsider.com/articles/23/06/01/eve-flare-review-thread-makes-for-a-more-responsive-smart-light?utm_medium=rss)
+ - [Airbnb sues New York City over a new law the company calls a &quot;de facto ban against short-term rentals&quot;; the city plans to begin enforcing the law in July 2023 &lpar;Doyinsola Oladipo/Reuters&rpar;](http://www.techmeme.com/230601/p34#a230601p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
