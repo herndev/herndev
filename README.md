@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says iOS 16 is on 81% of all iPhones](https://appleinsider.com/articles/23/06/01/apple-says-ios-16-is-on-81-of-all-iphones?utm_medium=rss)
- - [One Piece, 3 Body Problem, and The Last Airbender are all coming to Netflix’s Tudum](https://www.theverge.com/23745319/netflic-tudum-2023-brazil-trailer)
- - [Survey: Android owners mostly switched to iPhone because of prior phone problems and new iPhone features; only 6% moved because of iMessage and FaceTime &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/230601/p24#a230601p24)<!-- TECH:END -->
+ - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
+ - [Fold the phone: all the foldables coming in 2023](https://www.theverge.com/2023/6/1/23745240/folding-phones-2023-pixel-fold-razr-galaxy-fold)
+ - [DeFi lending protocol MakerDAO&#39;s community votes to ditch $500M of the Paxos Dollar stable from its reserves, impacting half of the token&#39;s supply &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230601/p26#a230601p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
