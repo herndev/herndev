@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk sent no tweets during his visit to China, the longest hiatus from the platform since June 2022; once his jet left Shanghai, Musk tweeted about SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/230601/p14#a230601p14)
- - [The Galaxy S24 Ultra could get a potentially polarizing camera change](https://www.androidauthority.com/samsung-galaxy-s24-ultra-5x-camera-3331009/)
- - [Polestar cars now get full-screen Apple Maps on driver&#39;s display](https://appleinsider.com/articles/23/06/01/polestar-cars-now-get-full-screen-apple-maps-on-drivers-display?utm_medium=rss)<!-- TECH:END -->
+ - [June’s Pixel feature drop spruces up Android, Wear OS with new tricks](https://www.androidauthority.com/pixel-feature-drop-june-2023-3330975/)
+ - [&#39;No Man&#39;s Sky&#39; now available on Mac via Steam](https://appleinsider.com/articles/23/06/01/no-mans-sky-now-available-on-mac-via-steam?utm_medium=rss)
+ - [Google’s latest feature drop makes Wear OS more useful and expands dark web reporting](https://www.theverge.com/2023/6/1/23745061/google-android-update-features-wearos-dark-web-report-spotify)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
