@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: NYC-based Runway, which uses AI to let users generate videos from text descriptions, raised ~$100M from Google and others at a ~$1.5B valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230601/p2#a230601p2)
- - [OpenAI researchers say training AI with process supervision, which rewards the thought process rather than the outcome, could help prevent hallucinations &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230601/p1#a230601p1)
- - [Best 5G Phones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based travel experiences marketplace GetYourGuide raised $194M, with an $85M Series F and a $109M revolving credit facility, at a $2B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230601/p6#a230601p6)
+ - [After getting three applicants in 2022, India opens new applications for setting up semiconductor and display fabs under its $10B chip incentive scheme &lpar;The Financial Express&rpar;](http://www.techmeme.com/230601/p5#a230601p5)
+ - [Sources: a planned $3B chip plant in India by ISMC, a consortium that included chipmaker Tower, has been stalled due to the company&#39;s pending takeover by Intel &lpar;Reuters&rpar;](http://www.techmeme.com/230601/p4#a230601p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
