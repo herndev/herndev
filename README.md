@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 PS5 Will Be Darker Than The Tobey Maguire Movie](https://kotaku.com/spiderman-2-playstation-ps5-peter-parker-venom-miles-1850496567)
- - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)
- - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)<!-- GAME:END -->
+ - [Moshapin Shrine location and Lake Intenoch Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745664/moshapin-shrine-location-lake-intenoch-cave-walkthrough-totk)
+ - [Yansamin Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745186/yansamin-shrine-proving-grounds-low-gravity-location-walkthrough)
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
