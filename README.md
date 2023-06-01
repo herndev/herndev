@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You deserve better`](http://9gag.com/gag/armqAq7)
- - ⏩ [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 👉 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
+ - 💣 [The Faces Behind the Memes: Then and Now &lpar;2023&rpar;](http://9gag.com/gag/aPgQozQ)
+ - ⏩ [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 ---
 
