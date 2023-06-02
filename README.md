@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty asks London&#39;s High Court to stop UK sales of Stable Diffusion, accusing Stability AI of copyright infringement for training its AI model on Getty&#39;s images &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/230602/p14#a230602p14)
- - [&#39;Ted Lasso&#39; stars aren&#39;t ruling out more from AFC Richmond in the future](https://appleinsider.com/articles/23/06/02/ted-lasso-stars-arent-ruling-out-more-from-afc-richmond-in-the-future?utm_medium=rss)
- - [Sources: A.J. Brown, Twitter&#39;s head of brand safety and ad quality, is leaving, the second top safety executive to leave the company this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230602/p13#a230602p13)<!-- TECH:END -->
+ - [The best Verizon deals of June 2023](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [Iffy rumor claims Apple&#39;s VR headset will be available in six colors, each with two storage options](https://appleinsider.com/articles/23/06/02/iffy-rumor-claims-that-apples-vr-headset-will-be-available-in-six-colors-each-with-two-storage-options?utm_medium=rss)
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
