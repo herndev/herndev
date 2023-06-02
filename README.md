@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Moving Out 2 Makes Removals Fun for Everyone With In-Depth Accessibility Design](https://news.xbox.com/en-us/2023/06/02/moving-out-2-accessibility/)
- - [Street Fighter 6 Is Already Steam’s Most Played Fighting Game Of All Time](https://kotaku.com/street-fighter-6-steam-broke-record-capcom-netcode-1850500159)
- - [The relaunch of this defunct medieval survival MMO is met with 95 cry-laugh emojis, 74 poops, 62 clowns, 42 letters spelling S-C-A-M, and 35 optimistic thumbs up](https://www.pcgamer.com/the-relaunch-of-this-defunct-medieval-survival-mmo-is-met-with-95-cry-laugh-emojis-74-poops-62-clowns-42-letters-spelling-s-c-a-m-and-35-optimistic-thumbs-up)<!-- GAME:END -->
+ - [Here Comes Capcom’s newest Challenger! Street Fighter 6 Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/06/02/street-fighter-6-now-available-for-xbox/)
+ - [Pathfinder&#39;s ambitious Diablo 4 competitor launches its Kickstarter campaign](https://www.pcgamer.com/pathfinders-ambitious-diablo-4-competitor-launches-its-kickstarter-campaign)
+ - [Taninoud Shrine location and East Hebra Sky Crystal walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23746685/taninoud-shrine-location-east-hebra-sky-crystal-walkthrough-totk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
