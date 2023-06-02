@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getty asks London&#39;s High Court to stop UK sales of Stable Diffusion, accusing Stability AI of copyright infringement for training its AI model on Getty&#39;s images &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/230602/p14#a230602p14)
  - [&#39;Ted Lasso&#39; stars aren&#39;t ruling out more from AFC Richmond in the future](https://appleinsider.com/articles/23/06/02/ted-lasso-stars-arent-ruling-out-more-from-afc-richmond-in-the-future?utm_medium=rss)
- - [Sources: A.J. Brown, Twitter&#39;s head of brand safety and ad quality, is leaving, the second top safety executive to leave the company this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230602/p13#a230602p13)
- - [This rare Sonos Sale brings savings of up to $340 on top audio](https://www.androidauthority.com/this-rare-sonos-sale-brings-savings-of-up-to-340-on-top-audio-3331407/)<!-- TECH:END -->
+ - [Sources: A.J. Brown, Twitter&#39;s head of brand safety and ad quality, is leaving, the second top safety executive to leave the company this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230602/p13#a230602p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
