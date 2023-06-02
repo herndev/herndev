@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Duke Nukem Promo Caught Using AI Images, Publisher Apologises](https://kotaku.com/duke-nukem-ai-art-midjourney-removed-sucks-evercade-1850498595)
  - [Waypoint Is Dead, Long Live Remap](https://kotaku.com/vice-waypoint-radio-remap-new-site-owners-podcast-1850498480)
- - [PlayStation players are buying Diablo 4 currency to bypass an invalid license error](https://www.pcgamer.com/playstation-players-are-buying-diablo-4-currency-to-bypass-an-invalid-license-error)
- - [Nintendo Releasing Beautiful New Pastel Joy-Cons](https://kotaku.com/nintendo-new-joy-con-controller-pastel-color-order-pink-1850498431)<!-- GAME:END -->
+ - [PlayStation players are buying Diablo 4 currency to bypass an invalid license error](https://www.pcgamer.com/playstation-players-are-buying-diablo-4-currency-to-bypass-an-invalid-license-error)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
