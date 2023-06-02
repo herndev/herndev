@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opinions](http://9gag.com/gag/aYVqA97)
- - ⏩ [Life hack!](http://9gag.com/gag/aDYVPww)
- - 👉 [All hail melon lord](http://9gag.com/gag/aEqDO6K)<!-- MEMES:END -->
+ - 💣 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
+ - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 👉 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
 
 ---
 
