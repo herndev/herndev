@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s how each Diablo 4 class is performing in the race to level 100](https://www.pcgamer.com/heres-how-each-diablo-4-class-is-performing-in-the-race-to-level-100-so-far)
- - [Diablo IV Players Getting Launch Errors, But Not If They Pay Up](https://kotaku.com/diablo-iv-4-ps5-valid-license-launch-issue-problem-pay-1850498312)
- - [Some Of Diablo IV’s Special Armor Sets Will Cost You $25](https://kotaku.com/diablo-4-shop-cosmetic-armor-mounts-microtransactions-1850498188)<!-- GAME:END -->
+ - [Waypoint Is Dead, Long Live Remap](https://kotaku.com/vice-waypoint-radio-remap-new-site-owners-podcast-1850498480)
+ - [PlayStation players are buying Diablo 4 currency to bypass an invalid license error](https://www.pcgamer.com/playstation-players-are-buying-diablo-4-currency-to-bypass-an-invalid-license-error)
+ - [Nintendo Releasing Beautiful New Pastel Joy-Cons](https://kotaku.com/nintendo-new-joy-con-controller-pastel-color-order-pink-1850498431)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
