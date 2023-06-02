@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The clock is ticking for your Fitbit account, Google logins to start next week](https://www.androidauthority.com/fitbit-account-google-login-3331515/)
- - [Microsoft plans to pull support for Cortana on Windows 10 and Windows 11 later this year, as it touts its AI efforts as suitable replacements for the assistant &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230602/p16#a230602p16)
- - [YouTube will stop removing false presidential election fraud claims](https://www.theverge.com/2023/6/2/23747104/youtube-election-misinformation-policy-reversal)<!-- TECH:END -->
+ - [ChatGPT and other LLM tools have already replaced some marketing and social media writers as many companies decide cutting costs is worth the drop in quality &lpar;Washington Post&rpar;](http://www.techmeme.com/230602/p17#a230602p17)
+ - [Microsoft will end support for Cortana on Windows later this year](https://www.theverge.com/2023/6/2/23747162/microsoft-windows-ai-cortana-end-support)
+ - [Inside Apple Pacific Center: Vancouver&#39;s gorgeous store](https://appleinsider.com/articles/23/06/02/inside-apple-pacific-center-vancouvers-gorgeous-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
