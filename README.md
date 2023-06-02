@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s Make a Deal—With Python!](https://www.wired.com/story/monty-hall-problem-python/)
- - [&#39;Spider-Man: Across the Spider-Verse&#39; Is Everything the MCU Is Missing](https://www.wired.com/story/spider-man-across-the-spider-verse-review/)
- - [How to Use Split Screen &lpar;2023&rpar;: Windows, Mac, Chromebook, Android, iPad](https://www.wired.com/story/how-to-use-split-screen/)<!-- TECH:END -->
+ - [Apple unveils opening date for new retail store at London&#39;s Battersea Power Station](https://appleinsider.com/articles/23/06/02/apple-unveils-opening-date-for-new-retail-store-at-londons-battersea-power-station?utm_medium=rss)
+ - [Artifact, the news app founded by Instagram&#39;s co-founders, will use a GPT-4 model to rewrite the headlines of articles marked as clickbait by the Artifact team &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230602/p9#a230602p9)
+ - [Don’t judge Apple’s VR headset too soon](https://www.theverge.com/2023/6/2/23746354/apple-vr-headset-rumors-metaverse-potential)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
