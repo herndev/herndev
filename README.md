@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - ⏩ [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
- - 👉 [POS drops a concrete block from 12th floor at a 5 year old and his dad](http://9gag.com/gag/aMEvvBG)<!-- MEMES:END -->
+ - 💣 [What does blue mean?](http://9gag.com/gag/aA02Z02)
+ - ⏩ [Opinions](http://9gag.com/gag/aYVqA97)
+ - 👉 [All hail melon lord](http://9gag.com/gag/aEqDO6K)<!-- MEMES:END -->
 
 ---
 
