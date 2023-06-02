@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder of **why not to volunteer** from the audience.](http://9gag.com/gag/aREoy87)
- - ⏩ [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
- - 👉 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
+ - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - ⏩ [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 👉 [POS drops a concrete block from 12th floor at a 5 year old and his dad](http://9gag.com/gag/aMEvvBG)<!-- MEMES:END -->
 
 ---
 
