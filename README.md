@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Because I hate the double standard...](http://9gag.com/gag/a5X2vnE)
- - ⏩ [Got any games on your Phone?](http://9gag.com/gag/anzEWjq)
- - 👉 [These Two.](http://9gag.com/gag/aqeWpGj)<!-- MEMES:END -->
+ - 💣 [Got any games on your Phone?](http://9gag.com/gag/anzEWjq)
+ - ⏩ [These Two.](http://9gag.com/gag/aqeWpGj)
+ - 👉 [`progress` democrats call it](http://9gag.com/gag/aEqDNKN)<!-- MEMES:END -->
 
 ---
 
