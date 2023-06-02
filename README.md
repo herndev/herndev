@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
- - ⏩ [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 💣 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - ⏩ [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - 👉 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 ---
 
