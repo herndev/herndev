@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT Protocol&#39;s account portability tool gives the users of Bluesky, a public benefit LLC independent from Twitter, a way out should a billionaire take over &lpar;Micah Lee/The Intercept&rpar;](http://www.techmeme.com/230602/p2#a230602p2)
  - [Meta will test blocking news for some Canadians ahead of new law](https://www.theverge.com/2023/6/2/23746473/meta-canada-news-block-test-facebook-instagram-online-news-act)
- - [A look at Voyager, a Minecraft bot created by an Nvidia team using GPT-4, which obtains over 3x as many items and builds tools 15x quicker than other AI bots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230602/p1#a230602p1)
- - [Microsoft Paint finally gets a dark mode for Windows 11](https://www.theverge.com/2023/6/2/23746471/microsoft-paint-dark-mode-windows-11)<!-- TECH:END -->
+ - [A look at Voyager, a Minecraft bot created by an Nvidia team using GPT-4, which obtains over 3x as many items and builds tools 15x quicker than other AI bots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230602/p1#a230602p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
