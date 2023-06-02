@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A proposed class action lawsuit accuses Elon Musk of insider trading by manipulating Dogecoin; Musk allegedly sold ~$124M in DOGE after Twitter&#39;s logo change &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230602/p4#a230602p4)
- - [This DIY kit lets you use an old Nintendo 64 controller wirelessly with the Switch](https://www.theverge.com/2023/6/2/23746491/8bitdo-nintendo-64-n64-diy-wireless-mod-kit-bluetooth)
- - [Android 14 makes it possible to check your phone’s battery health](https://www.androidauthority.com/android-14-battery-health-check-3331255/)<!-- TECH:END -->
+ - [Report: Valencia-based Jeff, which provides a frontend app and other tools to manage businesses, filed for bankruptcy after failing to close a &amp;euro;90M Series C &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230602/p6#a230602p6)
+ - [iPad 9 versus Amazon Fire Max 11 -- specs, cost and performance compared](https://appleinsider.com/inside/ipad/vs/ipad-9-versus-amazon-fire-max-11----specs-cost-and-performance-compared?utm_medium=rss)
+ - [Poll: What would make you buy a foldable phone?](https://www.androidauthority.com/why-buy-foldable-phone-poll-results-3331294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
