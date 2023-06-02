@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Verizon deals of June 2023](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [Iffy rumor claims Apple&#39;s VR headset will be available in six colors, each with two storage options](https://appleinsider.com/articles/23/06/02/iffy-rumor-claims-that-apples-vr-headset-will-be-available-in-six-colors-each-with-two-storage-options?utm_medium=rss)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [The clock is ticking for your Fitbit account, Google logins to start next week](https://www.androidauthority.com/fitbit-account-google-login-3331515/)
+ - [Microsoft plans to pull support for Cortana on Windows 10 and Windows 11 later this year, as it touts its AI efforts as suitable replacements for the assistant &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230602/p16#a230602p16)
+ - [YouTube will stop removing false presidential election fraud claims](https://www.theverge.com/2023/6/2/23747104/youtube-election-misinformation-policy-reversal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
