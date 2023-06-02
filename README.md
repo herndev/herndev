@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does it mean?](http://9gag.com/gag/amAMRZj)
- - ⏩ [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - 👉 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 💣 [For those that saw the vid of him loading up the pizzas, someone caught the delivery](http://9gag.com/gag/aDYVPMw)
+ - ⏩ [Got any games on your Phone?](http://9gag.com/gag/anzEWjq)
+ - 👉 [These Two.](http://9gag.com/gag/aqeWpGj)<!-- MEMES:END -->
 
 ---
 
