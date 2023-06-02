@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got any games on your Phone?](http://9gag.com/gag/anzEWjq)
- - ⏩ [These Two.](http://9gag.com/gag/aqeWpGj)
- - 👉 [`progress` democrats call it](http://9gag.com/gag/aEqDNKN)<!-- MEMES:END -->
+ - 💣 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
+ - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 ---
 
