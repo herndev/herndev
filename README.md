@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Targus backpack can connect to Apple&#39;s &#39;Find My&#39; network](https://appleinsider.com/articles/23/06/02/a-new-targus-backpack-can-connect-to-apples-find-my-network?utm_medium=rss)
- - [Deals: Apple AirTag 4-pack $79, $1,300 off M1 Max MacBook Pro, Sonos speakers 25% off &amp; more](https://appleinsider.com/articles/23/06/02/deals-apple-airtag-4-pack-79-1300-off-m1-max-macbook-pro-sonos-speakers-25-off-more?utm_medium=rss)
- - [Malaysia plans to allow carriers to decide whether to work with Huawei and other Chinese firms in its second 5G network, but will consider EU and US concerns &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/230602/p10#a230602p10)<!-- TECH:END -->
+ - [WWDC 2023: what to expect and how to watch Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
+ - [DeWalt Tools Are Up to 52% Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/dewalt-tools-are-up-to-52-off-right-now-at-amazon/#ftag=CAD590a51e)
+ - [Take Up to 57% Off Car Essentials From AstroAI     - CNET](https://www.cnet.com/roadshow/news/take-up-to-57-off-car-essentials-from-astroai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
