@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapdragon Summit 2023 confirmed: Here’s when to expect Snapdragon 8 Gen 3](https://www.androidauthority.com/snapdragon-summit-2023-snapdragon-8-gen-3-3330618/)
  - [Snag a MacBook Pro 16-inch with 32GB RAM for $1,949 - $950 off - plus $80 off AppleCare](https://appleinsider.com/articles/23/06/02/snag-a-macbook-pro-16-inch-with-32gb-ram-for-1949---950-off---plus-80-off-applecare?utm_medium=rss)
- - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)
- - [Microsoft updates Windows 11&#39;s built-in Teams app with Discord-like communities, available on mobile since December 2022, and AI art tool Designer in preview &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230601/p40#a230601p40)<!-- TECH:END -->
+ - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
