@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)
- - [The best Sorcerer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
- - [Blizzard dev claims he was fired for writing loot goblin that made fun of corporate greed](https://www.pcgamer.com/blizzard-dev-claims-he-was-fired-for-writing-loot-goblin-that-made-fun-of-corporate-greed)<!-- GAME:END -->
+ - [Blizzard reskins cop cars in Overwatch 2&#39;s Pride-themed map](https://www.pcgamer.com/blizzard-reskins-cop-cars-in-overwatch-2s-pride-themed-map)
+ - [Diablo fans heave a sigh as teased announcement turns out to be K-Pop collaboration: &#39;Consider me whelmed&#39;](https://www.pcgamer.com/diablo-fans-heave-a-sigh-as-teased-announcement-turns-out-to-be-k-pop-collaboration-consider-me-whelmed)
+ - [‘Messages from an Ancient Era’ quest steps, all stone tablet locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744066/messages-from-an-ancient-era-stone-tablets-locations-ancient-hyrulean)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
