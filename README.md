@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Duke Nukem Promo Caught Using AI Images, Publisher Apologises](https://kotaku.com/duke-nukem-ai-art-midjourney-removed-sucks-evercade-1850498595)
- - [Waypoint Is Dead, Long Live Remap](https://kotaku.com/vice-waypoint-radio-remap-new-site-owners-podcast-1850498480)
- - [PlayStation players are buying Diablo 4 currency to bypass an invalid license error](https://www.pcgamer.com/playstation-players-are-buying-diablo-4-currency-to-bypass-an-invalid-license-error)<!-- GAME:END -->
+ - [Blizzard dev claims he was fired for writing loot goblin that made fun of corporate greed](https://www.pcgamer.com/blizzard-dev-claims-he-was-fired-for-writing-loot-goblin-that-made-fun-of-corporate-greed)
+ - [Today&#39;s Wordle hint and answer #713: Friday, June 2](https://www.pcgamer.com/wordle-today-hint-answer-713-june-2)
+ - [10 Things I Wish I Knew Before Playing Street Fighter 6](https://kotaku.com/street-fighter-6-classic-controls-world-tour-framerate-1850497298)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
