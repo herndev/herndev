@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland school district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
- - [ChatGPT and other LLM tools have already replaced some marketing and social media writers as many companies decide cutting costs is worth the drop in quality &lpar;Washington Post&rpar;](http://www.techmeme.com/230602/p17#a230602p17)
- - [Microsoft will end support for Cortana on Windows later this year](https://www.theverge.com/2023/6/2/23747162/microsoft-windows-ai-cortana-end-support)<!-- TECH:END -->
+ - [Cybersecurity firms say hackers are actively exploiting a zero-day vulnerability in the MOVEit Transfer file transfer software to steal data from organizations &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230602/p18#a230602p18)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [The Messy US Influence That’s Helping Iranians Stay Online](https://www.wired.com/story/us-iran-internet-freedom-sanctions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
