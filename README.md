@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils opening date for new retail store at London&#39;s Battersea Power Station](https://appleinsider.com/articles/23/06/02/apple-unveils-opening-date-for-new-retail-store-at-londons-battersea-power-station?utm_medium=rss)
- - [Artifact, the news app founded by Instagram&#39;s co-founders, will use a GPT-4 model to rewrite the headlines of articles marked as clickbait by the Artifact team &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230602/p9#a230602p9)
- - [Don’t judge Apple’s VR headset too soon](https://www.theverge.com/2023/6/2/23746354/apple-vr-headset-rumors-metaverse-potential)<!-- TECH:END -->
+ - [A new Targus backpack can connect to Apple&#39;s &#39;Find My&#39; network](https://appleinsider.com/articles/23/06/02/a-new-targus-backpack-can-connect-to-apples-find-my-network?utm_medium=rss)
+ - [Deals: Apple AirTag 4-pack $79, $1,300 off M1 Max MacBook Pro, Sonos speakers 25% off &amp; more](https://appleinsider.com/articles/23/06/02/deals-apple-airtag-4-pack-79-1300-off-m1-max-macbook-pro-sonos-speakers-25-off-more?utm_medium=rss)
+ - [Malaysia plans to allow carriers to decide whether to work with Huawei and other Chinese firms in its second 5G network, but will consider EU and US concerns &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/230602/p10#a230602p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
