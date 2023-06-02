@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Windows 11&#39;s built-in Teams app with Discord-like communities, available on mobile since December 2022, and AI art tool Designer in preview &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230601/p40#a230601p40)
- - [Meta updates its policy to require employees assigned to an office to start coming in three days per week starting September 5; remote workers are exempt &lpar;Ginger Adams Otis/Wall Street Journal&rpar;](http://www.techmeme.com/230601/p39#a230601p39)
- - [Sources: Apple is planning 53 new, relocated, or remodeled retail stores worldwide through 2027, including 15 new stores across the Asia-Pacific region &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230601/p38#a230601p38)<!-- TECH:END -->
+ - [Snag a MacBook Pro 16-inch with 32GB RAM for $1,949 - $950 off - plus $80 off AppleCare](https://appleinsider.com/articles/23/06/02/snag-a-macbook-pro-16-inch-with-32gb-ram-for-1949---950-off---plus-80-off-applecare?utm_medium=rss)
+ - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)
+ - [Microsoft updates Windows 11&#39;s built-in Teams app with Discord-like communities, available on mobile since December 2022, and AI art tool Designer in preview &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230601/p40#a230601p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
