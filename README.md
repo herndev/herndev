@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)
- - [Dontnod’s Tell Me Why is free on Steam and Xbox for Pride month](https://www.polygon.com/23747182/tell-me-why-steam-xbox-free-pride-june-2023-dontnod)
- - [Praise the King of All Cosmos, the best Katamari Damacy game is now on PC](https://www.pcgamer.com/praise-the-king-of-all-cosmos-the-best-katamari-damacy-game-is-now-on-pc)<!-- GAME:END -->
+ - [Where to pre-order Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
+ - [Nintendo Announces First-Party Switch Game With Zero Fanfare](https://kotaku.com/everybody-1-2-switch-nintendo-announcement-sequel-eshop-1850501841)
+ - [Here’s The Fix For Diablo IV Couch Co-Op](https://kotaku.com/diablo-4-couch-coop-game-sharing-ps5-xbox-series-x-s-1850500870)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
