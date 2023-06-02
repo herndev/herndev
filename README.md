@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 💣 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
  - ⏩ [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - 👉 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
+ - 👉 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)<!-- MEMES:END -->
 
 ---
 
