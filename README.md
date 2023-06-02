@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT Protocol&#39;s account portability tool gives the users of Bluesky, a public benefit LLC independent from Twitter, a way out should a billionaire take over &lpar;Micah Lee/The Intercept&rpar;](http://www.techmeme.com/230602/p2#a230602p2)
- - [Meta will test blocking news for some Canadians ahead of new law](https://www.theverge.com/2023/6/2/23746473/meta-canada-news-block-test-facebook-instagram-online-news-act)
- - [A look at Voyager, a Minecraft bot created by an Nvidia team using GPT-4, which obtains over 3x as many items and builds tools 15x quicker than other AI bots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230602/p1#a230602p1)<!-- TECH:END -->
+ - [A proposed class action lawsuit accuses Elon Musk of insider trading by manipulating Dogecoin; Musk allegedly sold ~$124M in DOGE after Twitter&#39;s logo change &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230602/p4#a230602p4)
+ - [This DIY kit lets you use an old Nintendo 64 controller wirelessly with the Switch](https://www.theverge.com/2023/6/2/23746491/8bitdo-nintendo-64-n64-diy-wireless-mod-kit-bluetooth)
+ - [Android 14 makes it possible to check your phone’s battery health](https://www.androidauthority.com/android-14-battery-health-check-3331255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
