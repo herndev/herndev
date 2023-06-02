@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
- - [Nintendo Announces First-Party Switch Game With Zero Fanfare](https://kotaku.com/everybody-1-2-switch-nintendo-announcement-sequel-eshop-1850501841)
- - [Here’s The Fix For Diablo IV Couch Co-Op](https://kotaku.com/diablo-4-couch-coop-game-sharing-ps5-xbox-series-x-s-1850500870)<!-- GAME:END -->
+ - [Handheld gaming&#39;s greatest dungeon crawlers manage to hold their own on PC](https://www.pcgamer.com/handheld-gamings-greatest-dungeon-crawlers-manage-to-hold-their-own-on-pc)
+ - [Diablo 4&#39;s fastest XP farm works just like it did in the betas](https://www.pcgamer.com/diablo-4s-fastest-xp-farm-works-just-like-it-did-in-the-betas)
+ - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spider-verse-characters-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
