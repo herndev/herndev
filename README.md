@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon Summit 2023 confirmed: Here’s when to expect Snapdragon 8 Gen 3](https://www.androidauthority.com/snapdragon-summit-2023-snapdragon-8-gen-3-3330618/)
- - [Snag a MacBook Pro 16-inch with 32GB RAM for $1,949 - $950 off - plus $80 off AppleCare](https://appleinsider.com/articles/23/06/02/snag-a-macbook-pro-16-inch-with-32gb-ram-for-1949---950-off---plus-80-off-applecare?utm_medium=rss)
- - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung finally confirms blurry S23, S23 Plus cameras, says a fix is coming](https://www.androidauthority.com/samsung-galaxy-s23-plus-camera-blur-update-3331259/)
+ - [VW ID Buzz debuts three-row electric Microbus for the US with more power and space](https://www.theverge.com/2023/6/2/23745742/vw-id-buzz-long-wheelbase-microbus-us-specs-photos)
+ - [Snapdragon Summit 2023 confirmed: Here’s when to expect Snapdragon 8 Gen 3](https://www.androidauthority.com/snapdragon-summit-2023-snapdragon-8-gen-3-3330618/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
