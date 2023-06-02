@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - ⏩ [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
- - 👉 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 💣 [Reminder of **why not to volunteer** from the audience.](http://9gag.com/gag/aREoy87)
+ - ⏩ [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 👉 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
 
 ---
 
