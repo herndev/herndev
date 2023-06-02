@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard dev claims he was fired for writing loot goblin that made fun of corporate greed](https://www.pcgamer.com/blizzard-dev-claims-he-was-fired-for-writing-loot-goblin-that-made-fun-of-corporate-greed)
- - [Today&#39;s Wordle hint and answer #713: Friday, June 2](https://www.pcgamer.com/wordle-today-hint-answer-713-june-2)
- - [10 Things I Wish I Knew Before Playing Street Fighter 6](https://kotaku.com/street-fighter-6-classic-controls-world-tour-framerate-1850497298)<!-- GAME:END -->
+ - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)
+ - [The best Sorcerer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
+ - [Blizzard dev claims he was fired for writing loot goblin that made fun of corporate greed](https://www.pcgamer.com/blizzard-dev-claims-he-was-fired-for-writing-loot-goblin-that-made-fun-of-corporate-greed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
