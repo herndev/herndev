@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read the emails: Valve helped Nintendo kick the Dolphin Emulator off Steam](https://www.theverge.com/2023/6/1/23745772/valve-nintendo-dolphin-emulator-steam-emails)
- - [French Open Enlists AI Company to Help Players Fight Social Media Hate     - CNET](https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/#ftag=CAD590a51e)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The US Defense Department says it&#39;s buying Starlink satellite terminals and services for Ukraine military use, after a funding dispute with SpaceX &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230601/p37#a230601p37)
+ - [Twitter head of trust and safety Ella Irwin has resigned](https://www.theverge.com/2023/6/1/23746223/twitter-ella-irwin-resigned-trust-safety-elon-musk)
+ - [Twitter&#39;s VP of Trust and Safety Ella Irwin says she has resigned from the company &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230601/p36#a230601p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
