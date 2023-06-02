@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Talking Tom and Angela join forces for Green Game Jam 2023](https://www.pcgamer.com/talking-tom-and-angela-join-forces-for-green-game-jam-2023)
- - [All of the Spider-Man: Beyond the Spider-Verse news we’ve heard so far](https://www.polygon.com/23745425/spider-man-beyond-spider-verse-3-release-cast-news)
- - [Across the Spider-Verse’s big cameo connects it to the MCU](https://www.polygon.com/23744478/spider-man-across-spider-verse-2-donald-glover-cameo-mcu-prowler-live-action)<!-- GAME:END -->
+ - [Swing into the Spider-Verse with the best Across the Spider-merch](https://www.polygon.com/deals/23745579/spider-man-across-the-verse-merch-toys-games-comics)
+ - [Diablo IV Players Can&#39;t Believe How Smooth Launch Is Going So Far](https://kotaku.com/diablo-iv-server-error-license-ps5-bugs-early-access-1850499686)
+ - [Tell Me Why is available free for Pride Month, as is now tradition](https://www.pcgamer.com/tell-me-why-is-available-free-for-pride-month-as-is-now-tradition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
