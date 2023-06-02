@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those that saw the vid of him loading up the pizzas, someone caught the delivery](http://9gag.com/gag/aDYVPMw)
+ - 💣 [Because I hate the double standard...](http://9gag.com/gag/a5X2vnE)
  - ⏩ [Got any games on your Phone?](http://9gag.com/gag/anzEWjq)
  - 👉 [These Two.](http://9gag.com/gag/aqeWpGj)<!-- MEMES:END -->
 
