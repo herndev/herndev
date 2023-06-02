@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Temptations, people. Temptations everywhere!](http://9gag.com/gag/a5X25Qr)
- - ⏩ [20 mechanical principles demonstrated in Lego technic](http://9gag.com/gag/aYVqRov)
- - 👉 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
+ - 💣 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - ⏩ [18 year old jumped a fence at 3:00 AM, killing the village mascot, a mother swan guarding her four babies. He stole the four babies and smiled upon his arrest. The lineage of swans have been around for over 100 years since 1905.](http://9gag.com/gag/axoRm7b)
+ - 👉 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
 
 ---
 
