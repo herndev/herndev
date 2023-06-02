@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Swing into the Spider-Verse with the best Across the Spider-merch](https://www.polygon.com/deals/23745579/spider-man-across-the-verse-merch-toys-games-comics)
- - [Diablo IV Players Can&#39;t Believe How Smooth Launch Is Going So Far](https://kotaku.com/diablo-iv-server-error-license-ps5-bugs-early-access-1850499686)
- - [Tell Me Why is available free for Pride Month, as is now tradition](https://www.pcgamer.com/tell-me-why-is-available-free-for-pride-month-as-is-now-tradition)<!-- GAME:END -->
+ - [How Moving Out 2 Makes Removals Fun for Everyone With In-Depth Accessibility Design](https://news.xbox.com/en-us/2023/06/02/moving-out-2-accessibility/)
+ - [Street Fighter 6 Is Already Steam’s Most Played Fighting Game Of All Time](https://kotaku.com/street-fighter-6-steam-broke-record-capcom-netcode-1850500159)
+ - [The relaunch of this defunct medieval survival MMO is met with 95 cry-laugh emojis, 74 poops, 62 clowns, 42 letters spelling S-C-A-M, and 35 optimistic thumbs up](https://www.pcgamer.com/the-relaunch-of-this-defunct-medieval-survival-mmo-is-met-with-95-cry-laugh-emojis-74-poops-62-clowns-42-letters-spelling-s-c-a-m-and-35-optimistic-thumbs-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
