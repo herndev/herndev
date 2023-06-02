@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743905/demon-king-ganondorf-demon-dragon-final-boss-fight)
- - [‘Destroy Ganondorf’ walkthrough, how to get to Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743904/destroy-ganondorf-hyrule-castle-chasm-walkthrough)
- - [How Diablo 4&#39;s World Tiers work and where to change them](https://www.pcgamer.com/diablo-4-world-tiers-explained)<!-- GAME:END -->
+ - [Uh-Oh: USAF’s Killer AI Drone Sounds Straight Out Of Horizon Zero Dawn](https://kotaku.com/air-force-drone-kills-human-operator-horizon-zero-dawn-1850498116)
+ - [A Review Of Every Major Desktop Launcher For PC Games](https://kotaku.com/desktop-launcher-pc-review-ea-battle-net-ubisoft-app-1850489703)
+ - [If you long to play high-level D&amp;D but don&#39;t have time, then Solasta&#39;s Palace of Ice DLC is for you](https://www.pcgamer.com/if-you-long-to-play-high-level-dandd-but-dont-have-time-then-solastas-palace-of-ice-dlc-is-for-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
