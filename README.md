@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft updates Windows 11&#39;s built-in Teams app with Discord-like communities, available on mobile since December 2022, and AI art tool Designer in preview &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230601/p40#a230601p40)
  - [Meta updates its policy to require employees assigned to an office to start coming in three days per week starting September 5; remote workers are exempt &lpar;Ginger Adams Otis/Wall Street Journal&rpar;](http://www.techmeme.com/230601/p39#a230601p39)
- - [Sources: Apple is planning 53 new, relocated, or remodeled retail stores worldwide through 2027, including 15 new stores across the Asia-Pacific region &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230601/p38#a230601p38)
- - [The US Defense Department says it&#39;s buying Starlink satellite terminals and services for Ukraine military use, after a funding dispute with SpaceX &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230601/p37#a230601p37)<!-- TECH:END -->
+ - [Sources: Apple is planning 53 new, relocated, or remodeled retail stores worldwide through 2027, including 15 new stores across the Asia-Pacific region &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230601/p38#a230601p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
