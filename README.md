@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
- - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - 👉 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
+ - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - ⏩ [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
 
 ---
 
