@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox&#39;s Starfield Controller Looks Real, Will Absolutely Take My Money](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)
- - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)
- - [Publisher apologizes after fans spot signs of AI generation in contract artist&#39;s Duke Nukem promo illustration](https://www.pcgamer.com/publisher-apologizes-after-fans-spot-signs-of-ai-generation-in-contract-artists-duke-nukem-promo-illustration)<!-- GAME:END -->
+ - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)
+ - [Dontnod’s Tell Me Why is free on Steam and Xbox for Pride month](https://www.polygon.com/23747182/tell-me-why-steam-xbox-free-pride-june-2023-dontnod)
+ - [Praise the King of All Cosmos, the best Katamari Damacy game is now on PC](https://www.pcgamer.com/praise-the-king-of-all-cosmos-the-best-katamari-damacy-game-is-now-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
