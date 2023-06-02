@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Defense Department says it&#39;s buying Starlink satellite terminals and services for Ukraine military use, after a funding dispute with SpaceX &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230601/p37#a230601p37)
- - [Twitter head of trust and safety Ella Irwin has resigned](https://www.theverge.com/2023/6/1/23746223/twitter-ella-irwin-resigned-trust-safety-elon-musk)
- - [Twitter&#39;s VP of Trust and Safety Ella Irwin says she has resigned from the company &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230601/p36#a230601p36)<!-- TECH:END -->
+ - [Meta updates its policy to require employees assigned to an office to start coming in three days per week starting September 5; remote workers are exempt &lpar;Ginger Adams Otis/Wall Street Journal&rpar;](http://www.techmeme.com/230601/p39#a230601p39)
+ - [Sources: Apple is planning 53 new, relocated, or remodeled retail stores worldwide through 2027, including 15 new stores across the Asia-Pacific region &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230601/p38#a230601p38)
+ - [The US Defense Department says it&#39;s buying Starlink satellite terminals and services for Ukraine military use, after a funding dispute with SpaceX &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230601/p37#a230601p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
