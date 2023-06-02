@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does blue mean?](http://9gag.com/gag/aA02Z02)
- - ⏩ [Opinions](http://9gag.com/gag/aYVqA97)
+ - 💣 [Opinions](http://9gag.com/gag/aYVqA97)
+ - ⏩ [Life hack!](http://9gag.com/gag/aDYVPww)
  - 👉 [All hail melon lord](http://9gag.com/gag/aEqDO6K)<!-- MEMES:END -->
 
 ---
