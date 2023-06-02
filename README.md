@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft has agreed to spend potentially billions of dollars on CoreWeave; the GPU cloud provider raised $200M, bringing its Series B round to $421M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230601/p35#a230601p35)
- - [Eve Flare review: Thread makes for a more responsive smart light](https://appleinsider.com/articles/23/06/01/eve-flare-review-thread-makes-for-a-more-responsive-smart-light?utm_medium=rss)
- - [Airbnb sues New York City over a new law the company calls a &quot;de facto ban against short-term rentals&quot;; the city plans to begin enforcing the law in July 2023 &lpar;Doyinsola Oladipo/Reuters&rpar;](http://www.techmeme.com/230601/p34#a230601p34)<!-- TECH:END -->
+ - [Read the emails: Valve helped Nintendo kick the Dolphin Emulator off Steam](https://www.theverge.com/2023/6/1/23745772/valve-nintendo-dolphin-emulator-steam-emails)
+ - [French Open Enlists AI Company to Help Players Fight Social Media Hate     - CNET](https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/#ftag=CAD590a51e)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
