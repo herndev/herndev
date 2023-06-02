@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Comes Capcom’s newest Challenger! Street Fighter 6 Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/06/02/street-fighter-6-now-available-for-xbox/)
- - [Pathfinder&#39;s ambitious Diablo 4 competitor launches its Kickstarter campaign](https://www.pcgamer.com/pathfinders-ambitious-diablo-4-competitor-launches-its-kickstarter-campaign)
- - [Taninoud Shrine location and East Hebra Sky Crystal walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23746685/taninoud-shrine-location-east-hebra-sky-crystal-walkthrough-totk)<!-- GAME:END -->
+ - [Here’s The Fix For Diablo IV Couch Co-Op](https://kotaku.com/diablo-4-couch-coop-game-sharing-ps5-xbox-series-x-s-1850500870)
+ - [GTA Online’s Next Big Update Will Finally Add A Long-Requested Feature](https://kotaku.com/gta-online-sprint-san-andreas-mercenaries-update-june-1850500770)
+ - [Diablo IV interview: Paragon system, PvP, replayability and more](https://blog.playstation.com/2023/06/02/diablo-iv-interview-paragon-system-pvp-replayability-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
