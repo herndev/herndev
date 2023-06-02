@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - ⏩ [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 👉 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 💣 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
+ - ⏩ [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
+ - 👉 [POS drops a concrete block from 12th floor at a 5 year old and his dad](http://9gag.com/gag/aMEvvBG)<!-- MEMES:END -->
 
 ---
 
