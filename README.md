@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard reskins cop cars in Overwatch 2&#39;s Pride-themed map](https://www.pcgamer.com/blizzard-reskins-cop-cars-in-overwatch-2s-pride-themed-map)
- - [Diablo fans heave a sigh as teased announcement turns out to be K-Pop collaboration: &#39;Consider me whelmed&#39;](https://www.pcgamer.com/diablo-fans-heave-a-sigh-as-teased-announcement-turns-out-to-be-k-pop-collaboration-consider-me-whelmed)
- - [‘Messages from an Ancient Era’ quest steps, all stone tablet locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744066/messages-from-an-ancient-era-stone-tablets-locations-ancient-hyrulean)<!-- GAME:END -->
+ - [The best movies to start the summer off right](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Capcom wants to know what Resident Evil remake you want next](https://www.pcgamer.com/capcom-wants-to-know-what-resident-evil-remake-you-want-next)
+ - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
