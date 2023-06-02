@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Handheld gaming&#39;s greatest dungeon crawlers manage to hold their own on PC](https://www.pcgamer.com/handheld-gamings-greatest-dungeon-crawlers-manage-to-hold-their-own-on-pc)
- - [Diablo 4&#39;s fastest XP farm works just like it did in the betas](https://www.pcgamer.com/diablo-4s-fastest-xp-farm-works-just-like-it-did-in-the-betas)
- - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spider-verse-characters-cast)<!-- GAME:END -->
+ - [Diablo 4 high resolution assets: should you install them?](https://www.pcgamer.com/diablo-4-high-resolution-assets-should-you-install-them)
+ - [BlackBerry, Magic Mike’s Last Dance, To Leslie on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/2/23742334/new-movies-watch-blackberry-netflix-to-leslie-magic-mikes-last-dance-max)
+ - [Blaseball, the bizarre, beautiful sports gambling horror sim, is ending forever](https://www.pcgamer.com/blaseball-the-bizarre-beautiful-sports-gambling-horror-sim-is-ending-forever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
