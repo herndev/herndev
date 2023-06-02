@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies to start the summer off right](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Capcom wants to know what Resident Evil remake you want next](https://www.pcgamer.com/capcom-wants-to-know-what-resident-evil-remake-you-want-next)
- - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)<!-- GAME:END -->
+ - [Talking Tom and Angela join forces for Green Game Jam 2023](https://www.pcgamer.com/talking-tom-and-angela-join-forces-for-green-game-jam-2023)
+ - [All of the Spider-Man: Beyond the Spider-Verse news we’ve heard so far](https://www.polygon.com/23745425/spider-man-beyond-spider-verse-3-release-cast-news)
+ - [Across the Spider-Verse’s big cameo connects it to the MCU](https://www.polygon.com/23744478/spider-man-across-spider-verse-2-donald-glover-cameo-mcu-prowler-live-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
