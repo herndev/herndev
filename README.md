@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally confirms blurry S23, S23 Plus cameras, says a fix is coming](https://www.androidauthority.com/samsung-galaxy-s23-plus-camera-blur-update-3331259/)
- - [VW ID Buzz debuts three-row electric Microbus for the US with more power and space](https://www.theverge.com/2023/6/2/23745742/vw-id-buzz-long-wheelbase-microbus-us-specs-photos)
- - [Snapdragon Summit 2023 confirmed: Here’s when to expect Snapdragon 8 Gen 3](https://www.androidauthority.com/snapdragon-summit-2023-snapdragon-8-gen-3-3330618/)<!-- TECH:END -->
+ - [Meta will test blocking news for some Canadians ahead of new law](https://www.theverge.com/2023/6/2/23746473/meta-canada-news-block-test-facebook-instagram-online-news-act)
+ - [A look at Voyager, a Minecraft bot created by an Nvidia team using GPT-4, which obtains over 3x as many items and builds tools 15x quicker than other AI bots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230602/p1#a230602p1)
+ - [Microsoft Paint finally gets a dark mode for Windows 11](https://www.theverge.com/2023/6/2/23746471/microsoft-paint-dark-mode-windows-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
