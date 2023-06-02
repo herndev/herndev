@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Valencia-based Jeff, which provides a frontend app and other tools to manage businesses, filed for bankruptcy after failing to close a &amp;euro;90M Series C &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230602/p6#a230602p6)
- - [iPad 9 versus Amazon Fire Max 11 -- specs, cost and performance compared](https://appleinsider.com/inside/ipad/vs/ipad-9-versus-amazon-fire-max-11----specs-cost-and-performance-compared?utm_medium=rss)
- - [Poll: What would make you buy a foldable phone?](https://www.androidauthority.com/why-buy-foldable-phone-poll-results-3331294/)<!-- TECH:END -->
+ - [Let’s Make a Deal—With Python!](https://www.wired.com/story/monty-hall-problem-python/)
+ - [&#39;Spider-Man: Across the Spider-Verse&#39; Is Everything the MCU Is Missing](https://www.wired.com/story/spider-man-across-the-spider-verse-review/)
+ - [How to Use Split Screen &lpar;2023&rpar;: Windows, Mac, Chromebook, Android, iPad](https://www.wired.com/story/how-to-use-split-screen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
