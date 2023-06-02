@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s The Fix For Diablo IV Couch Co-Op](https://kotaku.com/diablo-4-couch-coop-game-sharing-ps5-xbox-series-x-s-1850500870)
- - [GTA Online’s Next Big Update Will Finally Add A Long-Requested Feature](https://kotaku.com/gta-online-sprint-san-andreas-mercenaries-update-june-1850500770)
- - [Diablo IV interview: Paragon system, PvP, replayability and more](https://blog.playstation.com/2023/06/02/diablo-iv-interview-paragon-system-pvp-replayability-and-more/)<!-- GAME:END -->
+ - [Xbox&#39;s Starfield Controller Looks Real, Will Absolutely Take My Money](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)
+ - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)
+ - [Publisher apologizes after fans spot signs of AI generation in contract artist&#39;s Duke Nukem promo illustration](https://www.pcgamer.com/publisher-apologizes-after-fans-spot-signs-of-ai-generation-in-contract-artists-duke-nukem-promo-illustration)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
