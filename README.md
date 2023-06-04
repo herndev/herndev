@@ -104,7 +104,7 @@ Windows                  2 hrs 31 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/herndev/herndev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2023 00:30:19 UTC
+ Last Updated on 04/06/2023 00:34:18 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡️ Recent Activity
