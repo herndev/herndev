@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It Is June 2023 And EA Wants To Add NFTs To FIFA &amp; Madden](https://kotaku.com/ea-sports-fifa-madden-nike-nft-web3-crypto-scam-swoosh-1850505156)
- - [Take over an annoying Skyrim shopkeeper&#39;s shop with this mod](https://www.pcgamer.com/take-over-an-annoying-skyrim-shopkeepers-shop-with-this-mod)
- - [Five new Steam games you probably missed &lpar;June 5, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-5-2023)<!-- GAME:END -->
+ - [Diablo 4 hotfix deals with &#39;Darcelpocalypse&#39;, a bug that endlessly multiplied one elite enemy](https://www.pcgamer.com/diablo-4-hotfix-deals-with-darcelpocalypse-a-bug-that-endlessly-multiplied-one-elite-enemy)
+ - [Today&#39;s Wordle hint and answer #716: Monday, June 5](https://www.pcgamer.com/wordle-today-hint-answer-716-june-5)
+ - [It Is June 2023 And EA Wants To Add NFTs To FIFA &amp; Madden](https://kotaku.com/ea-sports-fifa-madden-nike-nft-web3-crypto-scam-swoosh-1850505156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
