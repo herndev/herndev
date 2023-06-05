@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Keeping the Old Traditions riddle in Diablo 4](https://www.pcgamer.com/diablo-4-keeping-the-old-traditions-riddle-quest)
- - [Valve wouldn&#39;t host Dolphin on Steam because it &#39;can&#39;t sit in judgement&#39; on Nintendo&#39;s fight against emulators](https://www.pcgamer.com/valve-wouldnt-host-dolphin-on-steam-because-it-cant-sit-in-judgement-on-nintendos-fight-against-emulators)
- - [Diablo 4 hotfix deals with &#39;Darcelpocalypse&#39;, a bug that endlessly multiplied one elite enemy](https://www.pcgamer.com/diablo-4-hotfix-deals-with-darcelpocalypse-a-bug-that-endlessly-multiplied-one-elite-enemy)<!-- GAME:END -->
+ - [Into the Spider-Verse’s greatest legacy is giving American animators freedom to play](https://www.polygon.com/23745774/spider-man-into-the-spider-verse-animation-pixar-netflix-dreamworks)
+ - [With free rules and a new game mode, Warhammer 40,000 is looking a lot cheaper to get into in its new edition](https://www.pcgamer.com/with-free-rules-and-a-new-game-mode-warhammer-40000-is-looking-a-lot-cheaper-to-get-into-in-its-new-edition)
+ - [I&#39;m practically drowning in matcha green thanks to the pastel PC case trend at Computex](https://www.pcgamer.com/im-practically-drowning-in-matcha-green-thanks-to-the-pastel-pc-case-trend-at-computex)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
