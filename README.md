@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima makes surprise appearance on Apple stream to praise the Mac&#39;s &#39;rendering pipeline&#39; and announce Death Stranding for Mac](https://www.pcgamer.com/kojima-makes-surprise-appearance-on-apple-stream-to-praise-the-macs-rendering-pipeline-and-announce-death-stranding-for-mac)
- - [10 Engrossing Action-RPG Games To Play Like Diablo IV](https://kotaku.com/diablo-4-action-rpg-blizzard-torchlight-path-of-exile-1850506636)
- - [Apple Announces Very Fancy &#39;Facial Computer,&#39; Starts At $3,499](https://kotaku.com/apple-vr-headset-vision-pro-mixed-reality-mac-iphone-1850507156)<!-- GAME:END -->
+ - [Major subreddit admins are going to war with Reddit over monetization changes that will kill many third-party apps](https://www.pcgamer.com/major-subreddit-admins-are-going-to-war-with-reddit-over-monetization-changes-that-will-kill-many-third-party-apps)
+ - [Arizona is giving residents a free 10-day semiconductor technician course in anticipation of new Intel factories](https://www.pcgamer.com/arizona-is-giving-residents-a-free-10-day-semiconductor-technician-course-in-anticipation-of-new-intel-factories)
+ - [Stranger Things actor joins FaZe Clan in effort to &#39;bring women to the forefront,&#39; former FaZe leaders bully her until she cries and seemingly quits](https://www.pcgamer.com/stranger-things-actor-joins-faze-clan-in-effort-to-bring-women-to-the-forefront-former-faze-leaders-bully-her-until-she-cries-and-seemingly-quits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
