@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can buy &#39;Ted Lasso&#39; AFC Richmond shirts &amp; scarves from Nike](https://appleinsider.com/articles/23/06/05/you-can-buy-ted-lasso-afc-richmond-shirts-scarves-from-nike?utm_medium=rss)
- - [Apple Park needed an expansion to contain WWDC headset demos](https://appleinsider.com/articles/23/06/05/apple-park-needed-an-expansion-to-contain-wwdc-headset-demos?utm_medium=rss)
- - [Tech layoffs, compounded by rising interest rates and inflation, lead to high unemployment levels and falling wages in California, Oregon, and Washington &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230605/p12#a230605p12)<!-- TECH:END -->
+ - [Google trials passwordless login across Workspace and Cloud accounts](https://www.theverge.com/2023/6/5/23749180/google-workspace-cloud-passkey-support-password-2fa-fido-security-phishing)
+ - [More robot vacuums, Zens travel charger, &amp; Bird Buddy review on the HomeKit Insider podcast](https://appleinsider.com/articles/23/06/05/more-robot-vacuums-zens-travel-charger-bird-buddy-review-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [The 13 best Peacock original series you can stream in 2023](https://www.androidauthority.com/best-peacock-original-series-3039101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
