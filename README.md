@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - ⏩ [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - 👉 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
+ - 💣 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - ⏩ [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
+ - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 ---
 
