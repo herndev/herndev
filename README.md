@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - ⏩ [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 💣 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
+ - ⏩ [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - 👉 [Worth every bit of it](http://9gag.com/gag/a6q20zA)<!-- MEMES:END -->
 
 ---
 
