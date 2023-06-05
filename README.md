@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By the skin of her feet she made it.](http://9gag.com/gag/aWGbX2x)
- - ⏩ [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
- - 👉 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)<!-- MEMES:END -->
+ - 💣 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - ⏩ [Cosplay](http://9gag.com/gag/a8q2Z7V)
+ - 👉 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
 ---
 
