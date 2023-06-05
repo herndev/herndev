@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Things you could buy instead of a $3,500 Apple Vision Pro, including 7 Quest 3s](https://www.androidauthority.com/apple-vision-pro-cost-3332220/)
- - [Apple plans to add a Sensitive Content Warning feature to iOS 17 to help adult users avoid seeing unwanted nude images and videos &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230605/p39#a230605p39)
- - [Apple&#39;s iOS 17 drops iPhone 8 and iPhone X](https://appleinsider.com/articles/23/06/05/apples-ios-17-drops-iphone-8-and-iphone-x?utm_medium=rss)<!-- TECH:END -->
+ - [Statement: Reddit’s defenses of changes that could kill third-party apps](https://www.androidauthority.com/third-party-reddit-apps-statement-3332238/)
+ - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)
+ - [First developer betas for iOS 17, iPadOS 17, tvOS 17, watchOS 10, macOS Sonoma are out](https://appleinsider.com/articles/23/06/05/first-developer-betas-for-ios-17-ipados-17-tvos-17-watchos-10-macos-sonoma-are-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
