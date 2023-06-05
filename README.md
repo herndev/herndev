@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
- - ⏩ [Fact](http://9gag.com/gag/a041gRQ)
- - 👉 [Illusion +100](http://9gag.com/gag/aeQmByB)<!-- MEMES:END -->
+ - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - ⏩ [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - 👉 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)<!-- MEMES:END -->
 
 ---
 
