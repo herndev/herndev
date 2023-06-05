@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Promises No Completely Fake Trailers At Xbox Showcase](https://kotaku.com/microsoft-xbox-game-pass-showcase-2023-e3-fable-1850505859)
- - [Street Fighter 6 Fans Are Making Characters Based On Famous People, Like Taylor Swift](https://kotaku.com/street-fighter-6-creator-taylor-swift-ice-spice-witcher-1850502083)
- - [Turakawak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743961/turakamik-shrine-location-stacking-path-chest)<!-- GAME:END -->
+ - [Spider-Verse Snuck In Some Unseen Game Footage Of Marvel’s Spider-Man 2](https://kotaku.com/spiderman-2-ps5-playstation-insomniac-sony-miles-morale-1850506248)
+ - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)
+ - [Square Enix Answers Fans&#39; Burning Questions On Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-vii-remake-rebirth-map-open-world-rpg-ff7-1850506267)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
