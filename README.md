@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - ⏩ [Big vs Little](http://9gag.com/gag/aqeWExZ)
- - 👉 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)<!-- MEMES:END -->
+ - 💣 [Illusion +100](http://9gag.com/gag/aeQmByB)
+ - ⏩ [Airp\u00f6rt](http://9gag.com/gag/axoRwRD)
+ - 👉 [Wholesome fun](http://9gag.com/gag/aNw4GL4)<!-- MEMES:END -->
 
 ---
 
