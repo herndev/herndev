@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - ⏩ [Engineers from the past](http://9gag.com/gag/aKEeQmg)
- - 👉 [Great f**king actor](http://9gag.com/gag/aXnWOPP)<!-- MEMES:END -->
+ - 💣 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
+ - ⏩ [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
+ - 👉 [Did this just happen for real ??](http://9gag.com/gag/aWGbAbq)<!-- MEMES:END -->
 
 ---
 
