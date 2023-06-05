@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
  - ⏩ [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
  - 👉 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
