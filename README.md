@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atomic Wallet is investigating user reports of compromised accounts and trying to block the stolen crypto from being sold; source: the hack could exceed $35M+ &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230604/p11#a230604p11)
- - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Apple Back to School deals could start on Tuesday](https://appleinsider.com/articles/23/06/04/apple-back-to-school-deals-could-start-on-tuesday?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Grab CEO Anthony Tan, who expects the company to break even in 2023 with $2.2B in revenue, on his super-app vision, social impact, and more &lpar;Charlie Campbell/TIME&rpar;](http://www.techmeme.com/230604/p12#a230604p12)
+ - [Duet AI for Google Workspace: What is it and how does it work?](https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/)
+ - [Atomic Wallet is investigating user reports of compromised accounts and trying to block the stolen crypto from being sold; source: the hack could exceed $35M+ &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230604/p11#a230604p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
