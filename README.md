@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity firms say hackers are actively exploiting a zero-day vulnerability in the MOVEit Transfer file transfer software to steal data from organizations &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230602/p18#a230602p18)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The Messy US Influence That’s Helping Iranians Stay Online](https://www.wired.com/story/us-iran-internet-freedom-sanctions/)<!-- TECH:END -->
+ - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Apple Back to School deals could start on Tuesday](https://appleinsider.com/articles/23/06/04/apple-back-to-school-deals-could-start-on-tuesday?utm_medium=rss)
+ - [Compared: OnePlus Pad vs iPad 10th Generation](https://appleinsider.com/inside/10.9-inch-ipad/vs/compared-oneplus-pad-vs-ipad-10th-generation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
