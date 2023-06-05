@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - ⏩ [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - 👉 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
+ - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - ⏩ [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 👉 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
 ---
 
