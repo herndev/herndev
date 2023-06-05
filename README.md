@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - ⏩ [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
- - 👉 [Did this just happen for real ??](http://9gag.com/gag/aWGbAbq)<!-- MEMES:END -->
+ - 💣 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
+ - ⏩ [We shouldn&#39;t have to live like this.](http://9gag.com/gag/abvBogb)
+ - 👉 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
 
 ---
 
