@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2 renders leak: Is that an iPhone 6 with LEDs?](https://www.androidauthority.com/nothing-phone-2-renders-3331764/)
- - [To protest API pricing for third-party Reddit apps, r/videos, r/reactiongifs, r/earthporn, and other large subreddits plan to go private on June 12 for 48 hours &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230605/p11#a230605p11)
- - [Apple&#39;s online store goes down ahead of WWDC](https://appleinsider.com/articles/23/06/05/apples-online-store-goes-down-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [You can buy &#39;Ted Lasso&#39; AFC Richmond shirts &amp; scarves from Nike](https://appleinsider.com/articles/23/06/05/you-can-buy-ted-lasso-afc-richmond-shirts-scarves-from-nike?utm_medium=rss)
+ - [Apple Park needed an expansion to contain WWDC headset demos](https://appleinsider.com/articles/23/06/05/apple-park-needed-an-expansion-to-contain-wwdc-headset-demos?utm_medium=rss)
+ - [Tech layoffs, compounded by rising interest rates and inflation, lead to high unemployment levels and falling wages in California, Oregon, and Washington &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230605/p12#a230605p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
