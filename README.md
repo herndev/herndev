@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Policymakers shouldn&#39;t let tech executives shape the narrative that companies are best placed to regulate AI and should rely on independent oversight instead &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/230605/p2#a230605p2)
- - [Microsoft is finally putting Cortana for Windows out of its misery](https://www.androidauthority.com/microsoft-kill-cortana-windows-3331248/)
- - [Sources: Richard Teng is the frontrunner to become Binance&#39;s CEO if CZ steps aside, as the succession issue becomes more urgent amid US regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230605/p1#a230605p1)<!-- TECH:END -->
+ - [The Galaxy Watch 6 series inches ever closer to launch](https://www.androidauthority.com/samsung-galaxy-watch-6-series-fcc-3331710/)
+ - [YouTube Music is getting a Spotify-style feature on Nest speakers](https://www.androidauthority.com/youtube-music-automatic-cast-nest-speakers-3331703/)
+ - [Policymakers shouldn&#39;t let tech executives shape the narrative that companies are best placed to regulate AI and should rely on independent oversight instead &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/230605/p2#a230605p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
