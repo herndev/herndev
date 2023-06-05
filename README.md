@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s First Patch Heavily Weakens 4 Of Its 5 Classes](https://kotaku.com/diablo-4-patch-barbarian-druid-rogue-nerf-necromancer-1850506924)
- - [One Of The Coolest Bits In Across The Spider-Verse Was Made By A Single Teenager](https://kotaku.com/across-the-spider-verse-spider-man-lego-teen-animate-14-1850506788)
- - [Rutafu-um Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745287/rutafu-um-shrine-location-walkthrough)<!-- GAME:END -->
+ - [Rise of the Triad: Ludicrous Edition is a faithful remaster of a janky &#39;90s FPS, for better and worse](https://www.pcgamer.com/rise-of-the-triad-ludicrous-edition-is-a-faithful-remaster-of-a-janky-90s-fps-for-better-and-worse)
+ - [Forget RGBs: The coolest PC fans at Computex have LCD screens on them](https://www.pcgamer.com/forget-rgbs-the-coolest-pc-fans-at-computex-have-lcd-screens-on-them)
+ - [Hideo Kojima, ‘die-hard Apple fan,’ bringing Death Stranding to Mac](https://www.polygon.com/23749829/death-stranding-mac-hideo-kojima-wwdc-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
