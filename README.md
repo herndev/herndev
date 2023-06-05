@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - ⏩ [Cosplay](http://9gag.com/gag/a8q2Z7V)
- - 👉 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
+ - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - ⏩ [Worth every bit of it](http://9gag.com/gag/a6q20zA)
+ - 👉 [White live matter](http://9gag.com/gag/ajVZoN1)<!-- MEMES:END -->
 
 ---
 
