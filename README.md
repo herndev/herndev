@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Duolingo Is An App For Language-Learning, So Why Is It Plagued With Cheaters?](https://kotaku.com/duolingo-app-cheats-hacks-leagues-xp-why-duohacker-1850506482)
- - [Arcade masterpiece Operation Wolf comes back, as only it could, in 2023](https://www.polygon.com/23749582/operation-wolf-returns-first-mission-vr-release-date-psvr2-pc-meta-quest)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [Diablo IV&#39;s First Patch Heavily Weakens 4 Of Its 5 Classes](https://kotaku.com/diablo-4-patch-barbarian-druid-rogue-nerf-necromancer-1850506924)
+ - [One Of The Coolest Bits In Across The Spider-Verse Was Made By A Single Teenager](https://kotaku.com/across-the-spider-verse-spider-man-lego-teen-animate-14-1850506788)
+ - [Rutafu-um Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745287/rutafu-um-shrine-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
