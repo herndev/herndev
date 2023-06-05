@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
- - ⏩ [After all this time?](http://9gag.com/gag/a6q2R62)
- - 👉 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
+ - 💣 [Well at least he got one shot](http://9gag.com/gag/a7q2XWq)
+ - ⏩ [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
+ - 👉 [I&#39;m making a survival game where you time travel through history to become a god, in hopes of pushing the limits of creativity in games. I want your feedback to make it the best it can be - the free demo is coming next week.](http://9gag.com/gag/aGEAqK6)<!-- MEMES:END -->
 
 ---
 
