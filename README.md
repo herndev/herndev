@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - ⏩ [Worth every bit of it](http://9gag.com/gag/a6q20zA)
- - 👉 [White live matter](http://9gag.com/gag/ajVZoN1)<!-- MEMES:END -->
+ - 💣 [By the skin of her feet she made it.](http://9gag.com/gag/aWGbX2x)
+ - ⏩ [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
+ - 👉 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)<!-- MEMES:END -->
 
 ---
 
