@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 high resolution assets: should you install them?](https://www.pcgamer.com/diablo-4-high-resolution-assets-should-you-install-them)
- - [BlackBerry, Magic Mike’s Last Dance, To Leslie on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/2/23742334/new-movies-watch-blackberry-netflix-to-leslie-magic-mikes-last-dance-max)
- - [Blaseball, the bizarre, beautiful sports gambling horror sim, is ending forever](https://www.pcgamer.com/blaseball-the-bizarre-beautiful-sports-gambling-horror-sim-is-ending-forever)<!-- GAME:END -->
+ - [Great Moments in PC gaming: Landing an impossible shot in XCOM 2](https://www.pcgamer.com/great-moments-in-pc-gaming-landing-an-impossible-shot-in-xcom-2)
+ - [Even Street Fighter 6 has been modded into VR now](https://www.pcgamer.com/even-street-fighter-6-has-been-modded-into-vr-now)
+ - [Ubisoft will show off Assassin&#39;s Creed Mirage, Avatar, and The Crew Motorfest this month](https://www.pcgamer.com/ubisoft-will-show-off-assassins-creed-mirage-avatar-and-the-crew-motorfest-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
