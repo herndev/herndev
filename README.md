@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Watch 6 series inches ever closer to launch](https://www.androidauthority.com/samsung-galaxy-watch-6-series-fcc-3331710/)
- - [YouTube Music is getting a Spotify-style feature on Nest speakers](https://www.androidauthority.com/youtube-music-automatic-cast-nest-speakers-3331703/)
- - [Policymakers shouldn&#39;t let tech executives shape the narrative that companies are best placed to regulate AI and should rely on independent oversight instead &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/230605/p2#a230605p2)<!-- TECH:END -->
+ - [Preqin: in 2023 to May 31, VC funding in Southeast Asia reached $4B, down 65% compared to the first six months of 2022, as Grab and GoTo continue to slow down &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/230605/p4#a230605p4)
+ - [A profile of Rachel Kowert, a video game research psychologist who believes games are a net good for society and its future due to &quot;unintentional learning&quot; &lpar;Alyssa Mercante/Kotaku&rpar;](http://www.techmeme.com/230605/p3#a230605p3)
+ - [The Galaxy Watch 6 series inches ever closer to launch](https://www.androidauthority.com/samsung-galaxy-watch-6-series-fcc-3331710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
