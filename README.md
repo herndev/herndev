@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Apple&#39;s M1 MacBook Pro 13-inch with 16GB RAM, 1TB SSD for $1,299 &lpar;$600 off&rpar; today only](https://appleinsider.com/articles/23/06/05/get-apples-m1-macbook-pro-13-inch-with-16gb-ram-1tb-ssd-for-1299-600-off-today-only?utm_medium=rss)
  - [An interview with Grab CEO Anthony Tan, who expects the company to break even in 2023 with $2.2B in revenue, on his super-app vision, social impact, and more &lpar;Charlie Campbell/TIME&rpar;](http://www.techmeme.com/230604/p12#a230604p12)
- - [Duet AI for Google Workspace: What is it and how does it work?](https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/)
- - [Atomic Wallet is investigating user reports of compromised accounts and trying to block the stolen crypto from being sold; source: the hack could exceed $35M+ &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230604/p11#a230604p11)<!-- TECH:END -->
+ - [Duet AI for Google Workspace: What is it and how does it work?](https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
