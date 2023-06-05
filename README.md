@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Take over an annoying Skyrim shopkeeper&#39;s shop with this mod](https://www.pcgamer.com/take-over-an-annoying-skyrim-shopkeepers-shop-with-this-mod)
  - [Five new Steam games you probably missed &lpar;June 5, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-5-2023)
- - [Disney Just Laid Off The Pixar Employee Who &#39;Saved&#39; Toy Story 2](https://kotaku.com/pixar-disney-toy-story-2-saved-susman-laid-off-backups-1850505001)
- - [A $10 thrift store PC seemed as ordinary as they come, until the owner found a veritable &#39;Library of Alexandria&#39; of early 2000s gay porn reviews](https://www.pcgamer.com/a-dollar10-thrift-store-pc-seemed-as-ordinary-as-they-come-until-the-owner-found-a-veritable-library-of-alexandria-of-early-2000s-gay-porn-reviews)<!-- GAME:END -->
+ - [Disney Just Laid Off The Pixar Employee Who &#39;Saved&#39; Toy Story 2](https://kotaku.com/pixar-disney-toy-story-2-saved-susman-laid-off-backups-1850505001)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
