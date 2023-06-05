@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 MacBook Pro 13-inch with 16GB RAM, 1TB SSD for $1,199 &lpar;$700 off&rpar; today only](https://appleinsider.com/articles/23/06/05/get-apples-m1-macbook-pro-13-inch-with-16gb-ram-1tb-ssd-for-1299-600-off-today-only?utm_medium=rss)
- - [Apple adds Wallet app to Apple Business Register](https://appleinsider.com/articles/23/06/05/apple-adds-wallet-app-to-apple-business-register?utm_medium=rss)
- - [The SEC is suing Binance, the world’s largest crypto exchange](https://www.theverge.com/2023/6/5/23749480/sec-sues-binance-crypto-exchange-changpeng-zhao)<!-- TECH:END -->
+ - [Live stream of Apple&#39;s WWDC 2023 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230605/p22#a230605p22)
+ - [India&#39;s government-backed, non-profit e-commerce network Open Network for Digital Commerce expands to B2B transactions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230605/p21#a230605p21)
+ - [Stack Overflow moderators strike over a prohibition on moderating AI-generated content, announced last week; Stack Overflow says 11% of mods are participating &lpar;Kevin Hurler/Gizmodo&rpar;](http://www.techmeme.com/230605/p20#a230605p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
