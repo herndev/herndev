@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2023: all the news from Apple’s Worldwide Developers Conference](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)
- - [Apple announces visionOS, the operating system for its Vision Pro headset](https://www.theverge.com/2023/6/5/23733874/apple-vision-pro-visionos-augmented-reality-os-specs-wwdc-2023)
- - [StandBy is a new iPhone feature that could be great for Apple Home users](https://www.theverge.com/2023/6/5/23739121/apple-ios17-standby-apple-home-smart-display-wwdc-2023)<!-- TECH:END -->
+ - [Things you could buy instead of a $3,500 Apple Vision Pro, including 7 Quest 3s](https://www.androidauthority.com/apple-vision-pro-cost-3332220/)
+ - [Apple plans to add a Sensitive Content Warning feature to iOS 17 to help adult users avoid seeing unwanted nude images and videos &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230605/p39#a230605p39)
+ - [Apple&#39;s iOS 17 drops iPhone 8 and iPhone X](https://appleinsider.com/articles/23/06/05/apples-ios-17-drops-iphone-8-and-iphone-x?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
