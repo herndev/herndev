@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Richard Teng is the frontrunner to become Binance&#39;s CEO if CZ steps aside, as the succession issue becomes more urgent amid US regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230605/p1#a230605p1)
- - [Best Earplugs and Earbuds for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-and-earbuds-for-sleeping-in-2023/#ftag=CAD590a51e)
- - [Get Apple&#39;s M1 MacBook Pro 13-inch with 16GB RAM, 1TB SSD for $1,299 &lpar;$600 off&rpar; today only](https://appleinsider.com/articles/23/06/05/get-apples-m1-macbook-pro-13-inch-with-16gb-ram-1tb-ssd-for-1299-600-off-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Policymakers shouldn&#39;t let tech executives shape the narrative that companies are best placed to regulate AI and should rely on independent oversight instead &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/230605/p2#a230605p2)
+ - [Microsoft is finally putting Cortana for Windows out of its misery](https://www.androidauthority.com/microsoft-kill-cortana-windows-3331248/)
+ - [Sources: Richard Teng is the frontrunner to become Binance&#39;s CEO if CZ steps aside, as the succession issue becomes more urgent amid US regulatory scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230605/p1#a230605p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
