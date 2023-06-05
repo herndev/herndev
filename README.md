@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s $21 Bone Guy armor is just another reminder of how numb we&#39;ve gotten to Microtransaction Hell](https://www.pcgamer.com/diablo-4s-dollar21-bone-guy-armor-is-just-another-reminder-of-how-numb-weve-gotten-to-microtransaction-hell)
- - [Siwakama Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23749941/siwakama-shrine-solution-puzzle-chest)
- - [This year’s Xbox Game Showcase promises to be different, exec says](https://www.polygon.com/23750129/xbox-game-showcase-2023-show-length-cgi-trailers)<!-- GAME:END -->
+ - [Yikes, the new Robocop shooter does not look very good](https://www.pcgamer.com/yikes-the-new-robocop-shooter-does-not-look-very-good)
+ - [The Idol is too square to be scandalous](https://www.polygon.com/23750166/hbo-idol-weeknd-episode-1)
+ - [The best Necromancer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
