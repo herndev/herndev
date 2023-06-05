@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Verse Snuck In Some Unseen Game Footage Of Marvel’s Spider-Man 2](https://kotaku.com/spiderman-2-ps5-playstation-insomniac-sony-miles-morale-1850506248)
- - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)
- - [Square Enix Answers Fans&#39; Burning Questions On Final Fantasy VII Rebirth](https://kotaku.com/final-fantasy-vii-remake-rebirth-map-open-world-rpg-ff7-1850506267)<!-- GAME:END -->
+ - [Duolingo Is An App For Language-Learning, So Why Is It Plagued With Cheaters?](https://kotaku.com/duolingo-app-cheats-hacks-leagues-xp-why-duohacker-1850506482)
+ - [Arcade masterpiece Operation Wolf comes back, as only it could, in 2023](https://www.polygon.com/23749582/operation-wolf-returns-first-mission-vr-release-date-psvr2-pc-meta-quest)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
