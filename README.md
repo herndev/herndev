@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
- - ⏩ [Browniescotti](http://9gag.com/gag/ago4bM6)
- - 👉 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)<!-- MEMES:END -->
+ - 💣 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
+ - ⏩ [Engineers from the past](http://9gag.com/gag/aKEeQmg)
+ - 👉 [Great f**king actor](http://9gag.com/gag/aXnWOPP)<!-- MEMES:END -->
 
 ---
 
