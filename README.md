@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s most expensive M2 Ultra Mac Pro is $40,000 cheaper than the maxed-out Intel model](https://www.theverge.com/2023/6/5/23750154/apple-m2-ultra-mac-pro-cheaper-intel-mac-pro)
- - [Craig Federighi outlines iOS 17 privacy &amp; Apple&#39;s stance on AI](https://appleinsider.com/articles/23/06/05/craig-federighi-outlines-ios-17-privacy-apples-stance-on-ai?utm_medium=rss)
- - [Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)<!-- TECH:END -->
+ - [The iPhone 8, 8 Plus, and X aren’t getting iOS 17](https://www.theverge.com/2023/6/5/23750153/apple-ios-17-iphone-8-plus-x-support)
+ - [Intel is on track with its new PowerVia chip architecture](https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing)
+ - [Gigabyte releases BIOS updates to remove a backdoor that was found in over 270 motherboard models and could let hackers install malware when the PC restarts &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/230605/p42#a230605p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
