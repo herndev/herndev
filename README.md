@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Reject the Mother quest in Diablo 4](https://www.pcgamer.com/diablo-4-reject-the-mother-riddle-quest)
- - [Into the Spider-Verse’s greatest legacy is giving American animators freedom to play](https://www.polygon.com/23745774/spider-man-into-the-spider-verse-animation-pixar-netflix-dreamworks)
- - [Amnesia: The Bunker review](https://www.pcgamer.com/amnesia-the-bunker-review)<!-- GAME:END -->
+ - [Microsoft Promises No Completely Fake Trailers At Xbox Showcase](https://kotaku.com/microsoft-xbox-game-pass-showcase-2023-e3-fable-1850505859)
+ - [Street Fighter 6 Fans Are Making Characters Based On Famous People, Like Taylor Swift](https://kotaku.com/street-fighter-6-creator-taylor-swift-ice-spice-witcher-1850502083)
+ - [Turakawak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743961/turakamik-shrine-location-stacking-path-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
