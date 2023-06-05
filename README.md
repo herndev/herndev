@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - ⏩ [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
- - 👉 [Lesson Learned](http://9gag.com/gag/armqEW6)<!-- MEMES:END -->
+ - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - ⏩ [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
+ - 👉 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
 
 ---
 
