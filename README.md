@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Secret Key to Saving Species Is Blowing in the Wind](https://www.wired.com/story/a-secret-key-to-saving-species-is-blowing-in-the-wind/)
- - [Microsoft attributes recent zero-day attacks on the MOVEit Transfer tool to the Clop ransomware gang; responders say the gang can take weeks to issue demands &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230605/p16#a230605p16)
- - [Nothing’s leaked Phone 2 design looks like a curvier follow-up to its first phone](https://www.theverge.com/2023/6/5/23749359/nothing-phone-2-design-leak-unofficial-render)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 MacBook Pro 13-inch with 16GB RAM, 1TB SSD for $1,199 &lpar;$700 off&rpar; today only](https://appleinsider.com/articles/23/06/05/get-apples-m1-macbook-pro-13-inch-with-16gb-ram-1tb-ssd-for-1299-600-off-today-only?utm_medium=rss)
+ - [Apple adds Wallet app to Apple Business Register](https://appleinsider.com/articles/23/06/05/apple-adds-wallet-app-to-apple-business-register?utm_medium=rss)
+ - [The SEC is suing Binance, the world’s largest crypto exchange](https://www.theverge.com/2023/6/5/23749480/sec-sues-binance-crypto-exchange-changpeng-zhao)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
