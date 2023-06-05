@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big vs Little](http://9gag.com/gag/aqeWExZ)
- - ⏩ [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
- - 👉 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
+ - 💣 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
+ - ⏩ [After all this time?](http://9gag.com/gag/a6q2R62)
+ - 👉 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
 
 ---
 
