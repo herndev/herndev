@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise of the Triad: Ludicrous Edition is a faithful remaster of a janky &#39;90s FPS, for better and worse](https://www.pcgamer.com/rise-of-the-triad-ludicrous-edition-is-a-faithful-remaster-of-a-janky-90s-fps-for-better-and-worse)
- - [Forget RGBs: The coolest PC fans at Computex have LCD screens on them](https://www.pcgamer.com/forget-rgbs-the-coolest-pc-fans-at-computex-have-lcd-screens-on-them)
- - [Hideo Kojima, ‘die-hard Apple fan,’ bringing Death Stranding to Mac](https://www.polygon.com/23749829/death-stranding-mac-hideo-kojima-wwdc-2023)<!-- GAME:END -->
+ - [Kojima makes surprise appearance on Apple stream to praise the Mac&#39;s &#39;rendering pipeline&#39; and announce Death Stranding for Mac](https://www.pcgamer.com/kojima-makes-surprise-appearance-on-apple-stream-to-praise-the-macs-rendering-pipeline-and-announce-death-stranding-for-mac)
+ - [10 Engrossing Action-RPG Games To Play Like Diablo IV](https://kotaku.com/diablo-4-action-rpg-blizzard-torchlight-path-of-exile-1850506636)
+ - [Apple Announces Very Fancy &#39;Facial Computer,&#39; Starts At $3,499](https://kotaku.com/apple-vr-headset-vision-pro-mixed-reality-mac-iphone-1850507156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
