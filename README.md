@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Major subreddit admins are going to war with Reddit over monetization changes that will kill many third-party apps](https://www.pcgamer.com/major-subreddit-admins-are-going-to-war-with-reddit-over-monetization-changes-that-will-kill-many-third-party-apps)
- - [Arizona is giving residents a free 10-day semiconductor technician course in anticipation of new Intel factories](https://www.pcgamer.com/arizona-is-giving-residents-a-free-10-day-semiconductor-technician-course-in-anticipation-of-new-intel-factories)
- - [Stranger Things actor joins FaZe Clan in effort to &#39;bring women to the forefront,&#39; former FaZe leaders bully her until she cries and seemingly quits](https://www.pcgamer.com/stranger-things-actor-joins-faze-clan-in-effort-to-bring-women-to-the-forefront-former-faze-leaders-bully-her-until-she-cries-and-seemingly-quits)<!-- GAME:END -->
+ - [Diablo 4&#39;s $21 Bone Guy armor is just another reminder of how numb we&#39;ve gotten to Microtransaction Hell](https://www.pcgamer.com/diablo-4s-dollar21-bone-guy-armor-is-just-another-reminder-of-how-numb-weve-gotten-to-microtransaction-hell)
+ - [Siwakama Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23749941/siwakama-shrine-solution-puzzle-chest)
+ - [This year’s Xbox Game Showcase promises to be different, exec says](https://www.polygon.com/23750129/xbox-game-showcase-2023-show-length-cgi-trailers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
