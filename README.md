@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live stream of Apple&#39;s WWDC 2023 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230605/p22#a230605p22)
- - [India&#39;s government-backed, non-profit e-commerce network Open Network for Digital Commerce expands to B2B transactions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230605/p21#a230605p21)
- - [Stack Overflow moderators strike over a prohibition on moderating AI-generated content, announced last week; Stack Overflow says 11% of mods are participating &lpar;Kevin Hurler/Gizmodo&rpar;](http://www.techmeme.com/230605/p20#a230605p20)<!-- TECH:END -->
+ - [Apple reveals macOS Sonoma with screensavers and widgets](https://appleinsider.com/articles/23/06/05/apple-reveals-macos-sonoma-with-screensavers-and-widgets?utm_medium=rss)
+ - [Apple reveals iPadOS 17 with customizable Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/05/apple-reveals-ipados-17-with-customizable-lock-screen-health-app-more?utm_medium=rss)
+ - [Apple Silicon Mac Pro debut finally ends transition away from Intel processors](https://appleinsider.com/articles/23/06/05/apple-silicon-mac-pro-debut-finally-ends-transition-away-from-intel-processors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
