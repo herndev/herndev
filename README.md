@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Statement: Reddit’s defenses of changes that could kill third-party apps](https://www.androidauthority.com/third-party-reddit-apps-statement-3332238/)
- - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)
- - [First developer betas for iOS 17, iPadOS 17, tvOS 17, watchOS 10, macOS Sonoma are out](https://appleinsider.com/articles/23/06/05/first-developer-betas-for-ios-17-ipados-17-tvos-17-watchos-10-macos-sonoma-are-out?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s most expensive M2 Ultra Mac Pro is $40,000 cheaper than the maxed-out Intel model](https://www.theverge.com/2023/6/5/23750154/apple-m2-ultra-mac-pro-cheaper-intel-mac-pro)
+ - [Craig Federighi outlines iOS 17 privacy &amp; Apple&#39;s stance on AI](https://appleinsider.com/articles/23/06/05/craig-federighi-outlines-ios-17-privacy-apples-stance-on-ai?utm_medium=rss)
+ - [Samsung Galaxy Watch 6: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-watch-6-release-date-rumors-price-specs-3277014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
