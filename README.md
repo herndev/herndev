@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atomic Wallet is investigating user reports of compromised accounts and trying to block the stolen crypto from being sold; source: the hack could exceed $35M+ &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230604/p11#a230604p11)
  - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Apple Back to School deals could start on Tuesday](https://appleinsider.com/articles/23/06/04/apple-back-to-school-deals-could-start-on-tuesday?utm_medium=rss)
- - [Compared: OnePlus Pad vs iPad 10th Generation](https://appleinsider.com/inside/10.9-inch-ipad/vs/compared-oneplus-pad-vs-ipad-10th-generation?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Back to School deals could start on Tuesday](https://appleinsider.com/articles/23/06/04/apple-back-to-school-deals-could-start-on-tuesday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
