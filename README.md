@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Illusion +100](http://9gag.com/gag/aeQmByB)
- - ⏩ [Airp\u00f6rt](http://9gag.com/gag/axoRwRD)
- - 👉 [Wholesome fun](http://9gag.com/gag/aNw4GL4)<!-- MEMES:END -->
+ - 💣 [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - ⏩ [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
+ - 👉 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
 
 ---
 
