@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - ⏩ [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - 👉 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - ⏩ [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - 👉 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)<!-- MEMES:END -->
 
 ---
 
