@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
- - ⏩ [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
+ - 💣 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - ⏩ [Worth every bit of it](http://9gag.com/gag/a6q20zA)
  - 👉 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
 ---
