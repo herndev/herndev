@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - ⏩ [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - 👉 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)<!-- MEMES:END -->
+ - 💣 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
+ - ⏩ [Browniescotti](http://9gag.com/gag/ago4bM6)
+ - 👉 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)<!-- MEMES:END -->
 
 ---
 
