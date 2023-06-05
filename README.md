@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with sci-fi writer Ted Chiang on AI&#39;s limits, how current machines lack consciousness, his 2010 book The Lifecycle of Software Objects, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230605/p6#a230605p6)
- - [Bitcoin developers feud over whether to stamp out memecoins, which have swarmed the network, led to an 11x spike in fees in May 2023, and created a logjam &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230605/p5#a230605p5)
- - [Preqin: in 2023 to May 31, VC funding in Southeast Asia reached $4B, down 65% compared to the first six months of 2022, as Grab and GoTo continue to slow down &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/230605/p4#a230605p4)<!-- TECH:END -->
+ - [PSA: Your Pixel Watch can turn itself off due to excessive heat](https://www.androidauthority.com/google-pixel-watch-heating-psa-3331741/)
+ - [Hands-on with Google&#39;s Search Generative Experience: answers are slow to load and often include unnecessary details, error messages for simple queries, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230605/p7#a230605p7)
+ - [Inside 4chan’s Top-Secret Moderation Machine](https://www.wired.com/story/4chan-moderation-buffalo-shooting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
