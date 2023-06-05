@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Your Pixel Watch can turn itself off due to excessive heat](https://www.androidauthority.com/google-pixel-watch-heating-psa-3331741/)
- - [Hands-on with Google&#39;s Search Generative Experience: answers are slow to load and often include unnecessary details, error messages for simple queries, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230605/p7#a230605p7)
- - [Inside 4chan’s Top-Secret Moderation Machine](https://www.wired.com/story/4chan-moderation-buffalo-shooting/)<!-- TECH:END -->
+ - [Nothing Phone 2 renders leak: Is that an iPhone 6 with LEDs?](https://www.androidauthority.com/nothing-phone-2-renders-3331764/)
+ - [To protest API pricing for third-party Reddit apps, r/videos, r/reactiongifs, r/earthporn, and other large subreddits plan to go private on June 12 for 48 hours &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230605/p11#a230605p11)
+ - [Apple&#39;s online store goes down ahead of WWDC](https://appleinsider.com/articles/23/06/05/apples-online-store-goes-down-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
