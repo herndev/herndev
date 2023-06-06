@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi could be working on a thin and light Galaxy Z Flip rival](https://www.androidauthority.com/xiaomi-mix-flip-clamshell-foldable-3332309/)
- - [An interview with Craig Federighi on the new privacy and safety enhancements across iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma, working with AI, and more &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/230606/p5#a230606p5)
- - [Apple’s Vision Pro headset uses Galaxy S8 tech for a key feature](https://www.androidauthority.com/apples-vision-pro-headset-galaxy-s8-3331700/)<!-- TECH:END -->
+ - [Kirby’s motion-based Tilt ‘n’ Tumble Game Boy game comes to Switch Online](https://www.theverge.com/2023/6/6/23750614/nintendo-switch-online-june-kirby-tilt-tumble-harvest-moon-blaster-master-mystery-tower)
+ - [Nothing Phone 2 renders leak: An iPhone 6 with LEDs? &lpar;Update: Fake?&rpar;](https://www.androidauthority.com/nothing-phone-2-renders-3331764/)
+ - [Intel details PowerVia, a backside power delivery technology promising performance and manufacturing benefits, set to be introduced in its chips in 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230606/p6#a230606p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
