@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
- - ⏩ [I fixed it.](http://9gag.com/gag/aDYXRPx)
- - 👉 [A teen is thrown out before he can throw all the pizza boxes on the floor for views. It&#39;s damn satisfying to see a Tiktok prankster taught a lesson.](http://9gag.com/gag/aWGbw3K)<!-- MEMES:END -->
+ - 💣 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
+ - ⏩ [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 ---
 
