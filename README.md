@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I wore the Apple Vision Pro. It’s the best headset demo ever.](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
- - [Apple Design Awards twelve winners revealed](https://appleinsider.com/articles/23/06/06/apple-design-awards-twelve-winners-revealed?utm_medium=rss)
- - [Microsoft to pay $20 million FTC settlement over improperly storing Xbox account data for kids](https://www.theverge.com/2023/6/5/23750320/microsoft-xbox-ftc-settlement-account-data-kids-coppa)<!-- TECH:END -->
+ - [Hands-on with Apple Vision Pro, which appears to be a genuine leapfrog in capability and execution of XR, with near perfect eye tracking and gesture control &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/230605/p45#a230605p45)
+ - [Apple Vision Pro Hands On: The Opposite of Disappearing](https://www.wired.com/story/apple-vision-pro-hands-on-demo/)
+ - [I wore the Apple Vision Pro. It’s the best headset demo ever.](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
