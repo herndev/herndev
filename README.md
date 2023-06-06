@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Krabby, Kabuto, Corphish, Clauncher, and Crabrawler be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23749561/can-krabby-kabuto-corphish-clauncher-crabrawler-be-shiny-kingler-kabutops-crawdaunt-clawitzer)
  - [Microsoft Fined $20 Million For &#39;Illegally&#39; Collecting Children&#39;s Information On Xbox](https://kotaku.com/xbox-microsoft-ftc-illegal-fine-glitch-childres-profile-1850509207)
- - [Today&#39;s Wordle hint and answer #717: Tuesday, June 6](https://www.pcgamer.com/wordle-answer-today-hint-717-june-6)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/05/this-weeks-deals-with-gold-and-spotlight-sale-277/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #717: Tuesday, June 6](https://www.pcgamer.com/wordle-answer-today-hint-717-june-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
