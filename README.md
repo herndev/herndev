@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
- - ⏩ [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
- - 👉 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
+ - 💣 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - ⏩ [Wtf](http://9gag.com/gag/aQEZwVW)
+ - 👉 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
 
 ---
 
