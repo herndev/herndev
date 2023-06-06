@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
- - ⏩ [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - 👉 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
+ - 💣 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - ⏩ [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - 👉 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
 
 ---
 
