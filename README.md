@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: BioWare Offloading Star Wars MMO To Focus On Dragon Age, Mass Effect](https://kotaku.com/star-wars-old-republic-bioware-dragon-age-mass-effect-1850512473)
- - [BattleTech community closes ranks to support the creators of an LGBTQ fanzine](https://www.polygon.com/tabletop-games/23751545/battletech-reddit-lgbtq-fanzine-moderators-ban-toxic)
- - [Twitch&#39;s New Ad Rules Are Very Bad For Streamers](https://kotaku.com/twitch-branded-content-rules-streaming-ads-revenue-1850512350)<!-- GAME:END -->
+ - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)
+ - [Two pulse-pounding PvP modes come to Farming Simulator 22, and yes I am serious](https://www.pcgamer.com/two-pulse-pounding-pvp-modes-come-to-farming-simulator-22-and-yes-i-am-serious)
+ - [Counter-Strike 2 loadout update takes cues from Valorant, and might indicate more guns are coming over time](https://www.pcgamer.com/counter-strike-2-loadout-update-takes-cues-from-valorant-and-might-indicate-more-guns-are-coming-over-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
