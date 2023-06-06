@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes the seks](http://9gag.com/gag/ay2RgAV)
- - ⏩ [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 👉 [One ticket to hell please](http://9gag.com/gag/aGEAWww)<!-- MEMES:END -->
+ - 💣 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - ⏩ [I fixed it.](http://9gag.com/gag/aDYXRPx)
+ - 👉 [A teen is thrown out before he can throw all the pizza boxes on the floor for views. It&#39;s damn satisfying to see a Tiktok prankster taught a lesson.](http://9gag.com/gag/aWGbw3K)<!-- MEMES:END -->
 
 ---
 
