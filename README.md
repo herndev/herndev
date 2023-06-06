@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)
- - [Google’s incremental updates or Apple’s yearly update-fest: Who does it better?](https://www.androidauthority.com/google-apple-update-strategy-3332336/)
- - [Best price in months on the Samsung Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-deal-3332515/)<!-- TECH:END -->
+ - [1Password launches its public passkey beta](https://www.theverge.com/2023/6/6/23750908/1password-public-passkey-beta-release-password-security)
+ - [Even with so many demonstrated use cases, Apple Vision Pro might not yet have a purpose](https://appleinsider.com/articles/23/06/06/even-with-so-many-demonstrated-use-cases-apple-vision-pro-might-not-yet-have-a-purpose?utm_medium=rss)
+ - [Save up to 34% in these unmatched OnePlus phone deals](https://www.androidauthority.com/oneplus-phone-deals-3332534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
