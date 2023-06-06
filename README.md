@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am garbage,take me](http://9gag.com/gag/awZdweD)
- - ⏩ [Wtf](http://9gag.com/gag/aQEZwVW)
- - 👉 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
+ - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
+ - ⏩ [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
+ - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 ---
 
