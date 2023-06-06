@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to pay $20 million FTC settlement over improperly storing Xbox account data for kids](https://www.theverge.com/2023/6/5/23750320/microsoft-xbox-ftc-settlement-account-data-kids-coppa)
- - [Microsoft will pay $20M to settle US FTC charges that the company violated COPPA by collecting personal information from children without their parents&#39; consent &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230605/p44#a230605p44)
- - [Apple Vision Pro developer kits will be available](https://appleinsider.com/articles/23/06/06/apple-vision-pro-developer-kits-will-be-available?utm_medium=rss)<!-- TECH:END -->
+ - [I wore the Apple Vision Pro. It’s the best headset demo ever.](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
+ - [Apple Design Awards twelve winners revealed](https://appleinsider.com/articles/23/06/06/apple-design-awards-twelve-winners-revealed?utm_medium=rss)
+ - [Microsoft to pay $20 million FTC settlement over improperly storing Xbox account data for kids](https://www.theverge.com/2023/6/5/23750320/microsoft-xbox-ftc-settlement-account-data-kids-coppa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
