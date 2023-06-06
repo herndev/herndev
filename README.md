@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lagos-based Helium Health, which provides SaaS tools, financing, and insights for health care providers and public health organizations, raised a $30M Series B &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230606/p1#a230606p1)
- - [Microsoft to Pay $20M to Settle FTC Charges It Violated Children&#39;s Privacy     - CNET](https://www.cnet.com/news/privacy/microsoft-to-pay-20m-to-settle-ftc-charges-it-violated-childrens-privacy/#ftag=CAD590a51e)
- - [The Apple Vision Pro Is a Dystopian Device for a Dystopian World     - CNET](https://www.cnet.com/tech/computing/apples-vision-pro-is-a-dystopian-device-for-a-dystopian-world/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bankrupt Crypto Companies Are Fighting Over a Dwindling Pot of Money](https://www.wired.com/story/bankrupt-crypto-companies-fighting-over-dwindling-pot-of-money/)
+ - [India’s Tech Obsession May Leave Millions of Workers Without Pay](https://www.wired.com/story/india-tech-obsession-millions-workers-without-pay/)
+ - [In its Binance lawsuit, the SEC cited 12 coins as assets falling under its purview, taking the value of tokens categorized as unregistered securities to $115B+ &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230606/p3#a230606p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
