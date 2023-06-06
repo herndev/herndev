@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motion sickness is kicking in](http://9gag.com/gag/armqj46)
- - ⏩ [Imagine](http://9gag.com/gag/aL1mxG5)
- - 👉 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
+ - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - ⏩ [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
+ - 👉 [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)<!-- MEMES:END -->
 
 ---
 
