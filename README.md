@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
- - ⏩ [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 💣 [I am garbage,take me](http://9gag.com/gag/awZdweD)
+ - ⏩ [Wtf](http://9gag.com/gag/aQEZwVW)
+ - 👉 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
 
 ---
 
