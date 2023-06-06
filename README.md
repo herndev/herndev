@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke go broke](http://9gag.com/gag/ay2RjRY)
- - ⏩ [Wtf](http://9gag.com/gag/aQEZwVW)
- - 👉 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
+ - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
+ - ⏩ [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
+ - 👉 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
 
 ---
 
