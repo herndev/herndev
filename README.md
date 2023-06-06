@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is launching its Queen’s Gambit chess game in July](https://www.theverge.com/2023/6/6/23749347/netflix-queens-gambit-chess-game-release-date)
- - [TikTok is opening up its paywall and 20-minute video feature to more users](https://www.theverge.com/2023/6/6/23751239/tiktok-series-paywall-20-minute-premium-videos-monetization)
- - [Hell will freeze another day: Sideloading is still absent from iOS 17](https://www.androidauthority.com/iphone-sideloading-ios-17-3332555/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Apple acquires Mira, an LA-based startup that makes AR headsets for other companies and the US military; Mira raised ~$17M and once had Jony Ive as an adviser &lpar;The Verge&rpar;](http://www.techmeme.com/230606/p30#a230606p30)
+ - [Epic won’t say why it just purged Unreal Tournament 3 X from Steam](https://www.theverge.com/2023/6/6/23751392/epic-unreal-tournament-3-x-steam-removed-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
