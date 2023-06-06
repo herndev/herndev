@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Western Digital’s new Xbox Series X expansion cards are now official](https://www.polygon.com/deals/23670137/xbox-series-x-western-digital-wd-black-c50-expansion-card-buy)
- - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)
- - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)<!-- GAME:END -->
+ - [Tears of the Kingdom Fans Find Evidence Of Unreleased Amiibo](https://kotaku.com/tears-of-the-kingdom-totk-zelda-amiibo-paraglider-1850510090)
+ - [Irasak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750876/irasak-shrine-location-walkthrough-puzzle-solution)
+ - [Oh thank God they changed the name of Captain America: New World Order](https://www.polygon.com/23750840/captain-america-brave-new-world-order-harrison-ford-thaddeus-ross)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
