@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf, lol.](http://9gag.com/gag/aGEAPy7)
- - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
- - 👉 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/aQEZwVW)
+ - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
+ - 👉 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)<!-- MEMES:END -->
 
 ---
 
