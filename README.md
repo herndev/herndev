@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 feature roundup: StandBy, NameDrop, Contact Posters, more](https://appleinsider.com/articles/23/06/06/ios-17-feature-roundup-standby-namedrop-contact-posters-more?utm_medium=rss)
- - [In a draft, a trade group including the NYT, WaPo, Disney, and NBCUniversal warns publishers that AI tools built on their archives could break copyright laws &lpar;Ryan Barwick/Marketing Brew&rpar;](http://www.techmeme.com/230605/p46#a230605p46)
- - [Hands-on with Apple Vision Pro, which appears to be a genuine leapfrog in capability and execution of XR, with near perfect eye tracking and gesture control &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/230605/p45#a230605p45)<!-- TECH:END -->
+ - [Lagos-based Helium Health, which provides SaaS tools, financing, and insights for health care providers and public health organizations, raised a $30M Series B &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230606/p1#a230606p1)
+ - [Microsoft to Pay $20M to Settle FTC Charges It Violated Children&#39;s Privacy     - CNET](https://www.cnet.com/news/privacy/microsoft-to-pay-20m-to-settle-ftc-charges-it-violated-childrens-privacy/#ftag=CAD590a51e)
+ - [The Apple Vision Pro Is a Dystopian Device for a Dystopian World     - CNET](https://www.cnet.com/tech/computing/apples-vision-pro-is-a-dystopian-device-for-a-dystopian-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
