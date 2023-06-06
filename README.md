@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead Cells sells over 10 million](https://www.pcgamer.com/dead-cells-sells-over-10-million)
  - [Where to find Fiend Roses in Diablo 4](https://www.pcgamer.com/diablo-4-fiend-rose-locations)
- - [Jurassic Park management game marks the film&#39;s 30th anniversary by adding nostalgic set dressing and literal poop](https://www.pcgamer.com/jurassic-park-management-game-marks-the-films-30th-anniversary-by-adding-nostalgic-set-dressing-and-literal-poop)
- - [Can Krabby, Kabuto, Corphish, Clauncher, and Crabrawler be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23749561/can-krabby-kabuto-corphish-clauncher-crabrawler-be-shiny-kingler-kabutops-crawdaunt-clawitzer)<!-- GAME:END -->
+ - [Jurassic Park management game marks the film&#39;s 30th anniversary by adding nostalgic set dressing and literal poop](https://www.pcgamer.com/jurassic-park-management-game-marks-the-films-30th-anniversary-by-adding-nostalgic-set-dressing-and-literal-poop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
