@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Water Festival: Beach Week’ Timed Research, event guide](https://www.polygon.com/pokemon-go-guide/23750976/water-festival-beach-week-timed-research-rewards-sandygast-shiny-clauncher)
- - [Surprise Pikmin 4 Trailer Reveals Brand New Character Creator](https://kotaku.com/trailer-pikmin-4-release-date-preorder-nintendo-switch-1850510342)
- - [Xbox hit with $20M fine over child privacy violations](https://www.polygon.com/23750990/xbox-ftc-fine-child-privacy-coppa-settlement)<!-- GAME:END -->
+ - [Pokémon Go Fest 2023 details, including new Mythical Pokémon, revealed](https://www.polygon.com/23751140/pokemon-go-fest-2023-dates-mythical-shiny-list)
+ - [You can finally watch one of the most influential anime ever made](https://www.polygon.com/23738654/gunbuster-anime-nge-classic)
+ - [How to beat Lynel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731088/lynel-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
