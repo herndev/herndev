@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password launches its public passkey beta](https://www.theverge.com/2023/6/6/23750908/1password-public-passkey-beta-release-password-security)
- - [Even with so many demonstrated use cases, Apple Vision Pro might not yet have a purpose](https://appleinsider.com/articles/23/06/06/even-with-so-many-demonstrated-use-cases-apple-vision-pro-might-not-yet-have-a-purpose?utm_medium=rss)
- - [Save up to 34% in these unmatched OnePlus phone deals](https://www.androidauthority.com/oneplus-phone-deals-3332534/)<!-- TECH:END -->
+ - [Netflix is launching its Queen’s Gambit chess game in July](https://www.theverge.com/2023/6/6/23749347/netflix-queens-gambit-chess-game-release-date)
+ - [TikTok is opening up its paywall and 20-minute video feature to more users](https://www.theverge.com/2023/6/6/23751239/tiktok-series-paywall-20-minute-premium-videos-monetization)
+ - [Hell will freeze another day: Sideloading is still absent from iOS 17](https://www.androidauthority.com/iphone-sideloading-ios-17-3332555/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
