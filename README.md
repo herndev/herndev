@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
- - ⏩ [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
- - 👉 [Imagine](http://9gag.com/gag/aL1mxG5)<!-- MEMES:END -->
+ - 💣 [Motion sickness is kicking in](http://9gag.com/gag/armqj46)
+ - ⏩ [Imagine](http://9gag.com/gag/aL1mxG5)
+ - 👉 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
 
 ---
 
