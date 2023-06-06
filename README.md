@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Apple acquires Mira, an LA-based startup that makes AR headsets for other companies and the US military; Mira raised ~$17M and once had Jony Ive as an adviser &lpar;The Verge&rpar;](http://www.techmeme.com/230606/p30#a230606p30)
- - [Epic won’t say why it just purged Unreal Tournament 3 X from Steam](https://www.theverge.com/2023/6/6/23751392/epic-unreal-tournament-3-x-steam-removed-listings)<!-- TECH:END -->
+ - [The SEC is trying to freeze Binance’s assets](https://www.theverge.com/2023/6/6/23751584/sec-binance-cz-lawsuit-cryptocurrency-frozen-assets)
+ - [Apple will let you install its newest developer betas right now — for free](https://www.theverge.com/2023/6/6/23751524/apple-developer-beta-ios-17-watchos-10-macos-sonoma)
+ - [Court filing: the SEC has asked a court to grant a temporary restraining order to freeze assets tied to the holding and operating firms for Binance.US &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230606/p33#a230606p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
