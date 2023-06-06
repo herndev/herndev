@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - ⏩ [Cosplay](http://9gag.com/gag/a8q2Z7V)
- - 👉 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
+ - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - ⏩ [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 ---
 
