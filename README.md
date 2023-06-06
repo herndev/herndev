@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda announces Acura ZDX will be first EV with Google built-in](https://www.theverge.com/2023/6/6/23750113/honda-acura-zdx-google-built-in-android-native)
- - [The Tamagotchi Uni device features the ‘metaverse of the Tamagotchi world’](https://www.theverge.com/2023/6/6/23749564/tamagotchi-uni-tamaverse-device-metaverse-watch)
- - [Apple Vision Pro is incredibly compelling as a product and for its potential use cases; what the device says about society, though, is a bit more pessimistic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230606/p15#a230606p15)<!-- TECH:END -->
+ - [Enterprise software startup Instabase raised $45M led by Tribe Capital at a $2B valuation, after raising $105M at a $1.05B valuation in October 2019 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230606/p19#a230606p19)
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
+ - [Apple rejected nearly one million apps for privacy violations between 2020 and 2022](https://appleinsider.com/articles/23/06/06/apple-rejected-nearly-one-million-apps-for-privacy-violations-between-2020-and-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
