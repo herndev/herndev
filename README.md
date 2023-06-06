@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - ⏩ [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - ⏩ [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - 👉 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
 
 ---
 
