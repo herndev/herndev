@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Western Digital’s new Xbox Series X expansion cards are now official](https://www.polygon.com/deals/23670137/xbox-series-x-western-digital-wd-black-c50-expansion-card-buy)
  - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)
- - [Zelda games were always religious, but Tears of the Kingdom pushes it even further](https://www.polygon.com/legend-zelda-tears-kingdom/23749444/zelda-totk-religion-story-shrines-temple)
- - [Bill Gates says he&#39;s a gamer now, calls them &#39;a terrific metaphor for human connection&#39;](https://www.pcgamer.com/bill-gates-says-hes-a-gamer-now-calls-them-a-terrific-metaphor-for-human-connection)<!-- GAME:END -->
+ - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
