@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford F-150 Lightning loses about a quarter of its range when carrying maximum payload](https://www.theverge.com/2023/6/6/23749844/ford-f150-lightning-payload-range-loss-aaa)
- - [Sequoia plans to split into three firms, Sequoia in the US and Europe, HongShan in China, and Peak XV in India and Southeast Asia, &quot;no later than&quot; March 2024 &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230606/p10#a230606p10)
- - [Apple Vision Pro developer kits will be made available eventually, and to a select crowd](https://appleinsider.com/articles/23/06/06/apple-vision-pro-developer-kits-will-be-available?utm_medium=rss)<!-- TECH:END -->
+ - [The Bunker is the most nerve-wracking Amnesia game yet](https://www.theverge.com/23749573/amnesia-the-bunker-review-frictional-games)
+ - [Apple accidentally releases public iOS 17 beta early](https://appleinsider.com/articles/23/06/06/apple-accidentally-releases-public-ios-17-beta-early?utm_medium=rss)
+ - [First iOS 17 developer beta references new MagSafe accessories](https://appleinsider.com/articles/23/06/06/first-ios-17-developer-beta-references-new-magsafe-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
