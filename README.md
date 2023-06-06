@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is finally, officially live](https://www.pcgamer.com/diablo-4-is-finally-officially-live)
- - [Astonished Diablo 4 players discover they&#39;ve been moving their horses wrong this whole time](https://www.pcgamer.com/diablo-4-horse-speed-slow-pc-mouse-controls)
- - [Xbox FTC Settlement and Reimagining the Future of Safety on Xbox](https://news.xbox.com/en-us/2023/06/05/xbox-ftc-settlement-reimagining-future-of-safety-xbox/)<!-- GAME:END -->
+ - [The real star of Stars on Mars is exactly who you think it is](https://www.polygon.com/23750119/stars-mars-marshawn-lynch-episode-1)
+ - [Looks Like Epic Very Quietly Cancelled An Unreal Tournament Release](https://kotaku.com/unreal-tournament-3x-x-epic-cancelled-gog-pc-ut-steam-1850508737)
+ - [Diablo 4 is finally, officially live](https://www.pcgamer.com/diablo-4-is-finally-officially-live)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
