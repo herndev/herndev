@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [Your Diablo IV Death Could Get Eulogized By Megan Fox](https://kotaku.com/diablo-4-death-hero-chump-eulogy-megan-fox-transformers-1850512187)
- - [Overwatch 2 Is Gently Reverting One Of Its Biggest Changes](https://kotaku.com/overwatch-2-mei-cassidy-grenade-crowd-control-season-5-1850511922)<!-- GAME:END -->
+ - [Report: BioWare Offloading Star Wars MMO To Focus On Dragon Age, Mass Effect](https://kotaku.com/star-wars-old-republic-bioware-dragon-age-mass-effect-1850512473)
+ - [BattleTech community closes ranks to support the creators of an LGBTQ fanzine](https://www.polygon.com/tabletop-games/23751545/battletech-reddit-lgbtq-fanzine-moderators-ban-toxic)
+ - [Twitch&#39;s New Ad Rules Are Very Bad For Streamers](https://kotaku.com/twitch-branded-content-rules-streaming-ads-revenue-1850512350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
