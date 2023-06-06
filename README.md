@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bunker is the most nerve-wracking Amnesia game yet](https://www.theverge.com/23749573/amnesia-the-bunker-review-frictional-games)
- - [Apple accidentally releases public iOS 17 beta early](https://appleinsider.com/articles/23/06/06/apple-accidentally-releases-public-ios-17-beta-early?utm_medium=rss)
- - [First iOS 17 developer beta references new MagSafe accessories](https://appleinsider.com/articles/23/06/06/first-ios-17-developer-beta-references-new-magsafe-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Honda announces Acura ZDX will be first EV with Google built-in](https://www.theverge.com/2023/6/6/23750113/honda-acura-zdx-google-built-in-android-native)
+ - [The Tamagotchi Uni device features the ‘metaverse of the Tamagotchi world’](https://www.theverge.com/2023/6/6/23749564/tamagotchi-uni-tamaverse-device-metaverse-watch)
+ - [Apple Vision Pro is incredibly compelling as a product and for its potential use cases; what the device says about society, though, is a bit more pessimistic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230606/p15#a230606p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
