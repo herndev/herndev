@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cosplay](http://9gag.com/gag/a8q2Z7V)
- - ⏩ [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 💣 [Ah yes the seks](http://9gag.com/gag/ay2RgAV)
+ - ⏩ [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 👉 [One ticket to hell please](http://9gag.com/gag/aGEAWww)<!-- MEMES:END -->
 
 ---
 
