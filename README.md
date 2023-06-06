@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
- - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
- - 👉 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
+ - 💣 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - ⏩ [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 👉 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
 
 ---
 
