@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi could be working on a thin and light Galaxy Z Flip rival](https://www.androidauthority.com/xiaomi-mix-flip-clamshell-foldable-3332309/)
  - [An interview with Craig Federighi on the new privacy and safety enhancements across iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma, working with AI, and more &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/230606/p5#a230606p5)
- - [Apple’s Vision Pro headset uses Galaxy S8 tech for a key feature](https://www.androidauthority.com/apples-vision-pro-headset-galaxy-s8-3331700/)
- - [Byju&#39;s files a complaint in the New York Supreme Court claiming lenders &quot;unlawfully&quot; accelerated the terms of a $1.2B loan it raised in November 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230606/p4#a230606p4)<!-- TECH:END -->
+ - [Apple’s Vision Pro headset uses Galaxy S8 tech for a key feature](https://www.androidauthority.com/apples-vision-pro-headset-galaxy-s8-3331700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
