@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Street fighter 6 has male, female, and human](http://9gag.com/gag/awZd6qW)
- - ⏩ [Wuuman](http://9gag.com/gag/anzELAq)
- - 👉 [Wtf](http://9gag.com/gag/aQEZwVW)<!-- MEMES:END -->
+ - 💣 [Wtf, lol.](http://9gag.com/gag/aGEAPy7)
+ - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
+ - 👉 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
 
 ---
 
