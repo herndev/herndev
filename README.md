@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/aQEZwVW)
- - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 👉 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)<!-- MEMES:END -->
+ - 💣 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - ⏩ [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 ---
 
