@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells sells over 10 million](https://www.pcgamer.com/dead-cells-sells-over-10-million)
- - [Where to find Fiend Roses in Diablo 4](https://www.pcgamer.com/diablo-4-fiend-rose-locations)
- - [Jurassic Park management game marks the film&#39;s 30th anniversary by adding nostalgic set dressing and literal poop](https://www.pcgamer.com/jurassic-park-management-game-marks-the-films-30th-anniversary-by-adding-nostalgic-set-dressing-and-literal-poop)<!-- GAME:END -->
+ - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)
+ - [Zelda games were always religious, but Tears of the Kingdom pushes it even further](https://www.polygon.com/legend-zelda-tears-kingdom/23749444/zelda-totk-religion-story-shrines-temple)
+ - [Bill Gates says he&#39;s a gamer now, calls them &#39;a terrific metaphor for human connection&#39;](https://www.pcgamer.com/bill-gates-says-hes-a-gamer-now-calls-them-a-terrific-metaphor-for-human-connection)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
