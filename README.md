@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 💣 [Go woke go broke](http://9gag.com/gag/ay2RjRY)
  - ⏩ [Wtf](http://9gag.com/gag/aQEZwVW)
- - 👉 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
+ - 👉 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
 
 ---
 
