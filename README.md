@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase is being sued by the SEC](https://www.theverge.com/2023/6/6/23750745/coinbase-sec-lawsuit-unregistered-securities-crypto)
- - [FIFA report: 50%+ of soccer players in two 2021 tournaments received social media abuse, a third of which was racist; some players and clubs demand change &lpar;Associated Press&rpar;](http://www.techmeme.com/230606/p20#a230606p20)
- - [How does Apple’s new 15-inch MacBook Air compare to the 13-inch models?](https://www.theverge.com/23749887/apple-macbook-air-13-vs-15-inch-specs-features-price-comparison)<!-- TECH:END -->
+ - [Samsung One UI 6 release date: When is the next update for Galaxy phones?](https://www.androidauthority.com/samsung-one-ui-6-release-date-3332449/)
+ - [App Store Review Guideline updates go after fake apps, bad ads](https://appleinsider.com/articles/23/06/06/app-store-review-guideline-updates-go-after-fake-apps-bad-ads?utm_medium=rss)
+ - [Deals: $799 MacBook Air, $1,749 MacBook Pro 14-inch, $399 iPad 10th Generation &amp; more](https://appleinsider.com/articles/23/06/06/deals-799-macbook-air-1749-macbook-pro-14-inch-399-ipad-10th-generation-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
