@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - ⏩ [Big vs Little](http://9gag.com/gag/aqeWExZ)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 💣 [Jell-O reminder to change your oil](http://9gag.com/gag/aWGbzv3)
+ - ⏩ [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
+ - 👉 [Imagine](http://9gag.com/gag/aL1mxG5)<!-- MEMES:END -->
 
 ---
 
