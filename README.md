@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)
- - [One lucky Barbarian finds unique Diablo 4 gloves that are &#39;like playing my own slot machine&#39;](https://www.pcgamer.com/one-lucky-barbarian-finds-unique-diablo-4-gloves-that-are-like-playing-my-own-slot-machine)
- - [Netflix Series I Think You Should Leave’s Ridic Egg Game Is Now Real](https://kotaku.com/netflix-egg-game-i-think-you-should-leave-sketch-comedy-1850511529)<!-- GAME:END -->
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [Your Diablo IV Death Could Get Eulogized By Megan Fox](https://kotaku.com/diablo-4-death-hero-chump-eulogy-megan-fox-transformers-1850512187)
+ - [Overwatch 2 Is Gently Reverting One Of Its Biggest Changes](https://kotaku.com/overwatch-2-mei-cassidy-grenade-crowd-control-season-5-1850511922)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
