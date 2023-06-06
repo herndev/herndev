@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yikes, the new Robocop shooter does not look very good](https://www.pcgamer.com/yikes-the-new-robocop-shooter-does-not-look-very-good)
- - [The Idol is too square to be scandalous](https://www.polygon.com/23750166/hbo-idol-weeknd-episode-1)
- - [The best Necromancer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
+ - [Diablo 4 is finally, officially live](https://www.pcgamer.com/diablo-4-is-finally-officially-live)
+ - [Astonished Diablo 4 players discover they&#39;ve been moving their horses wrong this whole time](https://www.pcgamer.com/diablo-4-horse-speed-slow-pc-mouse-controls)
+ - [Xbox FTC Settlement and Reimagining the Future of Safety on Xbox](https://news.xbox.com/en-us/2023/06/05/xbox-ftc-settlement-reimagining-future-of-safety-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
