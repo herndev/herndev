@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2023 news: Apple Vision Pro, Mac Pro, iOS 17, and more](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)
- - [In a filing, Twitter&#39;s lawyers say &quot;Twitter Files&quot; show no government interference at the company, implying Elon Musk is wrong about what the files revealed &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230605/p43#a230605p43)
- - [Apple Expands Its On-Device Nudity Detection to Combat CSAM](https://www.wired.com/story/apple-communication-safety-nude-detection/)<!-- TECH:END -->
+ - [Microsoft to pay $20 million FTC settlement over improperly storing Xbox account data for kids](https://www.theverge.com/2023/6/5/23750320/microsoft-xbox-ftc-settlement-account-data-kids-coppa)
+ - [Microsoft will pay $20M to settle US FTC charges that the company violated COPPA by collecting personal information from children without their parents&#39; consent &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230605/p44#a230605p44)
+ - [Apple Vision Pro developer kits will be available](https://appleinsider.com/articles/23/06/06/apple-vision-pro-developer-kits-will-be-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
