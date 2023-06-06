@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft Fined $20 Million For &#39;Illegally&#39; Collecting Children&#39;s Information On Xbox](https://kotaku.com/xbox-microsoft-ftc-illegal-fine-glitch-childres-profile-1850509207)
  - [Today&#39;s Wordle hint and answer #717: Tuesday, June 6](https://www.pcgamer.com/wordle-answer-today-hint-717-june-6)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/05/this-weeks-deals-with-gold-and-spotlight-sale-277/)
- - [Diablo 4 servers finally start to buckle under launch strain, Blizzard&#39;s working on it](https://www.pcgamer.com/diablo-4-server-issues-queue-launch)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/05/this-weeks-deals-with-gold-and-spotlight-sale-277/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
