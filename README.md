@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [29 Diablo IV Tips That Will Make You A Better Player](https://kotaku.com/diablo-4-tips-dungeon-loot-world-tier-treasure-goblin-1850511051)
- - [Jojon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751050/jojon-shrine-location-proving-grounds-rotation)
- - [All The Things You Could Buy For The Price Of Apple’s $3,500 VR Headset](https://kotaku.com/apple-vr-headset-vision-pro-price-mixed-reality-mac-ps5-1850510461)<!-- GAME:END -->
+ - [Wait, who the heck was that bodega lady in Spider-Man: Across the Spider-Verse?](https://www.polygon.com/23746702/spider-man-across-spider-verse-2-venom-mrs-chen-cameo-mcu-sony-live-action)
+ - [Pikmin 4 will let you make your own weird little guy](https://www.polygon.com/23750788/pikmin-4-character-creator-trailer-release-date)
+ - [How to get the Fierce Deity Armor and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs-upgrade-cost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
