@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC is trying to freeze Binance’s assets](https://www.theverge.com/2023/6/6/23751584/sec-binance-cz-lawsuit-cryptocurrency-frozen-assets)
- - [Apple will let you install its newest developer betas right now — for free](https://www.theverge.com/2023/6/6/23751524/apple-developer-beta-ios-17-watchos-10-macos-sonoma)
- - [Court filing: the SEC has asked a court to grant a temporary restraining order to freeze assets tied to the holding and operating firms for Binance.US &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230606/p33#a230606p33)<!-- TECH:END -->
+ - [Apple accidentally releases public iOS 17 beta early [u]](https://appleinsider.com/articles/23/06/06/apple-accidentally-releases-public-ios-17-beta-early?utm_medium=rss)
+ - [It wasn&#39;t a mistake -- Apple betas are now free](https://appleinsider.com/articles/23/06/06/it-wasnt-a-mistake----apple-betas-are-now-free?utm_medium=rss)
+ - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
