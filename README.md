@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wait, who the heck was that bodega lady in Spider-Man: Across the Spider-Verse?](https://www.polygon.com/23746702/spider-man-across-spider-verse-2-venom-mrs-chen-cameo-mcu-sony-live-action)
- - [Pikmin 4 will let you make your own weird little guy](https://www.polygon.com/23750788/pikmin-4-character-creator-trailer-release-date)
- - [How to get the Fierce Deity Armor and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs-upgrade-cost)<!-- GAME:END -->
+ - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)
+ - [One lucky Barbarian finds unique Diablo 4 gloves that are &#39;like playing my own slot machine&#39;](https://www.pcgamer.com/one-lucky-barbarian-finds-unique-diablo-4-gloves-that-are-like-playing-my-own-slot-machine)
+ - [Netflix Series I Think You Should Leave’s Ridic Egg Game Is Now Real](https://kotaku.com/netflix-egg-game-i-think-you-should-leave-sketch-comedy-1850511529)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
