@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom Fans Find Evidence Of Unreleased Amiibo](https://kotaku.com/tears-of-the-kingdom-totk-zelda-amiibo-paraglider-1850510090)
- - [Irasak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750876/irasak-shrine-location-walkthrough-puzzle-solution)
- - [Oh thank God they changed the name of Captain America: New World Order](https://www.polygon.com/23750840/captain-america-brave-new-world-order-harrison-ford-thaddeus-ross)<!-- GAME:END -->
+ - [Pokémon Go ‘Water Festival: Beach Week’ Timed Research, event guide](https://www.polygon.com/pokemon-go-guide/23750976/water-festival-beach-week-timed-research-rewards-sandygast-shiny-clauncher)
+ - [Surprise Pikmin 4 Trailer Reveals Brand New Character Creator](https://kotaku.com/trailer-pikmin-4-release-date-preorder-nintendo-switch-1850510342)
+ - [Xbox hit with $20M fine over child privacy violations](https://www.polygon.com/23750990/xbox-ftc-fine-child-privacy-coppa-settlement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
