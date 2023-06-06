@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise software startup Instabase raised $45M led by Tribe Capital at a $2B valuation, after raising $105M at a $1.05B valuation in October 2019 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230606/p19#a230606p19)
- - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
- - [Apple rejected nearly one million apps for privacy violations between 2020 and 2022](https://appleinsider.com/articles/23/06/06/apple-rejected-nearly-one-million-apps-for-privacy-violations-between-2020-and-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase is being sued by the SEC](https://www.theverge.com/2023/6/6/23750745/coinbase-sec-lawsuit-unregistered-securities-crypto)
+ - [FIFA report: 50%+ of soccer players in two 2021 tournaments received social media abuse, a third of which was racist; some players and clubs demand change &lpar;Associated Press&rpar;](http://www.techmeme.com/230606/p20#a230606p20)
+ - [How does Apple’s new 15-inch MacBook Air compare to the 13-inch models?](https://www.theverge.com/23749887/apple-macbook-air-13-vs-15-inch-specs-features-price-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
