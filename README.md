@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 8, 8 Plus, and X aren’t getting iOS 17](https://www.theverge.com/2023/6/5/23750153/apple-ios-17-iphone-8-plus-x-support)
- - [Intel is on track with its new PowerVia chip architecture](https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing)
- - [Gigabyte releases BIOS updates to remove a backdoor that was found in over 270 motherboard models and could let hackers install malware when the PC restarts &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/230605/p42#a230605p42)<!-- TECH:END -->
+ - [WWDC 2023 news: Apple Vision Pro, Mac Pro, iOS 17, and more](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)
+ - [In a filing, Twitter&#39;s lawyers say &quot;Twitter Files&quot; show no government interference at the company, implying Elon Musk is wrong about what the files revealed &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230605/p43#a230605p43)
+ - [Apple Expands Its On-Device Nudity Detection to Combat CSAM](https://www.wired.com/story/apple-communication-safety-nude-detection/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
