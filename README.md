@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Fest 2023 details, including new Mythical Pokémon, revealed](https://www.polygon.com/23751140/pokemon-go-fest-2023-dates-mythical-shiny-list)
- - [You can finally watch one of the most influential anime ever made](https://www.polygon.com/23738654/gunbuster-anime-nge-classic)
- - [How to beat Lynel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731088/lynel-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
+ - [29 Diablo IV Tips That Will Make You A Better Player](https://kotaku.com/diablo-4-tips-dungeon-loot-world-tier-treasure-goblin-1850511051)
+ - [Jojon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751050/jojon-shrine-location-proving-grounds-rotation)
+ - [All The Things You Could Buy For The Price Of Apple’s $3,500 VR Headset](https://kotaku.com/apple-vr-headset-vision-pro-price-mixed-reality-mac-ps5-1850510461)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
