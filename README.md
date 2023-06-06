@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only way to cover a mistake is with another mistake](http://9gag.com/gag/ajVZen0)
- - ⏩ [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)
- - 👉 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
+ - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
+ - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
+ - 👉 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
 
 ---
 
