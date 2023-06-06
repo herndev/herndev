@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kirby’s motion-based Tilt ‘n’ Tumble Game Boy game comes to Switch Online](https://www.theverge.com/2023/6/6/23750614/nintendo-switch-online-june-kirby-tilt-tumble-harvest-moon-blaster-master-mystery-tower)
- - [Nothing Phone 2 renders leak: An iPhone 6 with LEDs? &lpar;Update: Fake?&rpar;](https://www.androidauthority.com/nothing-phone-2-renders-3331764/)
- - [Intel details PowerVia, a backside power delivery technology promising performance and manufacturing benefits, set to be introduced in its chips in 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230606/p6#a230606p6)<!-- TECH:END -->
+ - [Apple avoided mentioning AI at WWDC, instead referring to machine learning and transformers while describing features; M2 Ultra was touted for training models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230606/p8#a230606p8)
+ - [Everywhere Apple imagines you’ll use its $3,499 headset](https://www.theverge.com/2023/6/6/23738124/apple-vision-pro-marketing-wwdc-2023)
+ - [Filing: Intel plans to sell 35M+ shares in Mobileye, raising around $1.48B for its spending plans; after the sale, Intel will retain an ~88% stake in Mobileye &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230606/p7#a230606p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
