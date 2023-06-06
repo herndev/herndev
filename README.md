@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple avoided mentioning AI at WWDC, instead referring to machine learning and transformers while describing features; M2 Ultra was touted for training models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230606/p8#a230606p8)
- - [Everywhere Apple imagines you’ll use its $3,499 headset](https://www.theverge.com/2023/6/6/23738124/apple-vision-pro-marketing-wwdc-2023)
- - [Filing: Intel plans to sell 35M+ shares in Mobileye, raising around $1.48B for its spending plans; after the sale, Intel will retain an ~88% stake in Mobileye &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230606/p7#a230606p7)<!-- TECH:END -->
+ - [Ford F-150 Lightning loses about a quarter of its range when carrying maximum payload](https://www.theverge.com/2023/6/6/23749844/ford-f150-lightning-payload-range-loss-aaa)
+ - [Sequoia plans to split into three firms, Sequoia in the US and Europe, HongShan in China, and Peak XV in India and Southeast Asia, &quot;no later than&quot; March 2024 &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230606/p10#a230606p10)
+ - [Apple Vision Pro developer kits will be made available eventually, and to a select crowd](https://appleinsider.com/articles/23/06/06/apple-vision-pro-developer-kits-will-be-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
