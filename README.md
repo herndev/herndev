@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch rolls back controversial ad guidelines after outcry from creators](https://www.polygon.com/23751472/twitch-branded-content-new-ad-guidelines-rules-asmongold-mizkif-tos)
- - [The PC version of Madden NFL 24 will be the current-gen version for the first time in years](https://www.pcgamer.com/madden-24-PC-announcement)
- - [Coca-Cola’s new League of Legends collaboration claims to taste like leveling up](https://www.polygon.com/23752629/coca-cola-league-of-legends-xp-soda-riot-games-challenge-emotes)<!-- GAME:END -->
+ - [Diablo 4&#39;s first level 100 Hardcore character has died in the worst way possible](https://www.pcgamer.com/diablo-4s-first-level-100-hardcore-character-has-died-in-the-worst-way-possible)
+ - [Cyberpunk 2077, Broken And Jank, Helped Me Bid Farewell To Closeted Life](https://kotaku.com/cyberpunk-2077-johnny-silverhand-v-lgbtq-trans-come-out-1850514969)
+ - [I wish Zelda: Tears of the Kingdom would let me collect hearts in other ways](https://www.polygon.com/legend-zelda-tears-kingdom/23750170/zelda-tears-of-the-kingdom-totk-shrines-hearts-stamina)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
