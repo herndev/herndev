@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
+ - 💣 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
  - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 👉 [Wtf](http://9gag.com/gag/aQEZwVW)<!-- MEMES:END -->
+ - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 ---
 
