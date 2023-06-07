@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/articles/23/06/07/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
- - [Sources: Amazon plans to launch an ad-supported tier of Prime Video and is in talks with WBD and Paramount to add their ad-based tiers to Prime Video Channels &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230607/p27#a230607p27)
- - [Ahsoka has an official premiere date](https://www.theverge.com/2023/6/7/23752569/ahsoka-star-wars-disney-plus-release-date)<!-- TECH:END -->
+ - [Windows 11’s modern File Explorer UI and RGB lighting controls head to testers](https://www.theverge.com/2023/6/7/23752709/microsoft-windows-11-file-explorer-ui-modern-rgb-controls-test)
+ - [Minecraft officially launches for Chromebooks](https://www.theverge.com/2023/6/7/23752650/minecraft-bedrock-edition-chromebooks-chromeos-google)
+ - [The Mac Pro ends the Apple Silicon transition, but it’s just one step in a much bigger journey](https://www.theverge.com/2023/6/7/23752425/mac-pro-apple-silicon-transition-professional-users-trashcan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
