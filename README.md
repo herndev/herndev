@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s first level 100 Hardcore character has died in the worst way possible](https://www.pcgamer.com/diablo-4s-first-level-100-hardcore-character-has-died-in-the-worst-way-possible)
- - [Cyberpunk 2077, Broken And Jank, Helped Me Bid Farewell To Closeted Life](https://kotaku.com/cyberpunk-2077-johnny-silverhand-v-lgbtq-trans-come-out-1850514969)
- - [I wish Zelda: Tears of the Kingdom would let me collect hearts in other ways](https://www.polygon.com/legend-zelda-tears-kingdom/23750170/zelda-tears-of-the-kingdom-totk-shrines-hearts-stamina)<!-- GAME:END -->
+ - [Disney Lorcana launch threatened by Upper Deck lawsuit](https://www.polygon.com/23752860/disney-lorcana-lawsuit-upper-deck-injunction-release-date)
+ - [Battletech subreddit creator comes back after years of lurking to kick out moderators who were deleting LGBTQ+ content: &#39;Battletech is for everyone&#39;](https://www.pcgamer.com/battletech-subreddit-creator-comes-back-after-years-of-lurking-to-kick-out-moderators-who-were-deleting-lgbtq-content-battletech-is-for-everyone)
+ - [Little Mermaid fans are spoofing ‘Part of Your World’ on TikTok](https://www.polygon.com/23752837/little-mermaid-tiktok-part-of-your-world-halle-bailey-water-surface-filter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
