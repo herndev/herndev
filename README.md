@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria-based Tingo, which offers mobiles and credit to farmers, fell ~80% after Hindenburg alleged the Nasdaq-listed fintech is an &quot;exceptionally obvious scam&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230607/p4#a230607p4)
- - [The Galaxy Z Flip 5, Fold 5 are officially coming earlier than expected](https://www.androidauthority.com/samsung-galaxy-unpacked-foldables-city-date-3332675/)
- - [Google Cloud partners with Priceline to help the travel agency develop an AI chatbot for planning trips, suggesting hotels like a &quot;personal concierge&quot;, and more &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/230607/p3#a230607p3)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 specs leak: Don’t judge a book by its cover &lpar;display&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-5-specs-leak-3332677/)
+ - [Louis Vuitton announces &quot;Treasure Trunk&quot; NFTs costing &amp;euro;39K each and granting access to future products and experiences, in a hard pivot from an NFT-based game &lpar;Maghan McDowell/Vogue Business&rpar;](http://www.techmeme.com/230607/p5#a230607p5)
+ - [Nigeria-based Tingo, which offers mobiles and credit to farmers, fell ~80% after Hindenburg alleged the Nasdaq-listed fintech is an &quot;exceptionally obvious scam&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230607/p4#a230607p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
