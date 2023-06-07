@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [New York City sues Kia and Hyundai over car thefts that went viral on TikTok](https://www.theverge.com/2023/6/7/23752535/new-york-city-sues-kia-hyundai-car-theft-kia-boys-tiktok)
- - [At $70 off, the Fitbit Sense 2 is a tempting fitness buddy](https://www.androidauthority.com/fitbit-sense-2-deal-3332915/)<!-- TECH:END -->
+ - [Reddit relents, makes first concession in its plans to impair third-party apps](https://www.androidauthority.com/reddit-third-party-apps-accessibility-3332934/)
+ - [Messi’s move to MLS is a big deal for Apple](https://www.theverge.com/2023/6/7/23752531/messi-mls-streaming-apple-tv-plus)
+ - [Chats, screenshots, and interviews: some people are pirating and offering free access to GPT-4, using stolen OpenAI API tokens scraped from other peoples&#39; code &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230607/p31#a230607p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
