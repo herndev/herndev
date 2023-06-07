@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things Twitch Streamer Dishes On Gamer Toxicity After FaZe Clan Fallout](https://kotaku.com/faze-clan-stranger-things-twitch-youtube-sexism-1850516796)
- - [Spider-Verse’s wheelchair-using hero started out as a fan-art ‘spidersona’](https://www.polygon.com/23752856/across-spider-verse-spidersona-creator-sun-spider-wheelchair)
- - [Usazum Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753060/usazum-shrine-satori-mountain-crystal-location-walkthrough)<!-- GAME:END -->
+ - [Starship Troopers: Extermination is a 16-player co-op FTS/RTS hybrid with lots of promise](https://www.pcgamer.com/starship-troopers-extermination-is-a-16-player-co-op-ftsrts-hybrid-with-lots-of-promise)
+ - [Simosiwak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752970/simosiwak-shrine-location-proving-grounds-lights-out-walkthrough-totk)
+ - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
