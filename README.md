@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Minecraft Trails &amp; Tales Update is Now Available to Play on All Platforms, including Chromebooks!](https://news.xbox.com/en-us/2023/06/07/minecraft-trails-tales-update-out-now/)
- - [Ted Lasso might be getting an AFC Richmond-focused spinoff](https://www.polygon.com/23752315/ted-lasso-spinoff-series-teaser-apple-tv-roy)
- - [How to play Diablo 4 on Steam Deck](https://www.polygon.com/23750107/how-to-play-install-diablo-4-steam-deck)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for June 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [First Diablo 4 Fan At Hardcore Level 100 Perma-Killed In Worst Way Possible](https://kotaku.com/diablo-iv-hardcore-level-100-race-disconnect-carn-1850514675)
+ - [We&#39;ll finally learn who&#39;s making Vampire: the Masquerade – Bloodlines 2 in a few months](https://www.pcgamer.com/well-finally-learn-whos-making-vampire-the-masquerade-bloodlines-2-in-a-few-months)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
