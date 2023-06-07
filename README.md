@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based GetHarley, a telehealth service connecting consumers to skincare clinicians offering consultations and products, raised $52M led by Index Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230606/p38#a230606p38)
- - [Montreal-based GSoft, which offers employee experience software for Microsoft 365 management, onboarding, skills development, and more, raised CA$125M from CDPQ &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230606/p37#a230606p37)
- - [iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk and Twitter, the entire story so far](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Twitter’s window to edit tweets is now one hour, but you still have to pay for it](https://www.theverge.com/2023/6/6/23751962/twitter-edit-tweet-limit-extended-60-minutes-blue-subscribers)
+ - [Google, Temasek, and Bain report: India&#39;s internet economy to hit $1T by 2030, up from $175B in 2022, accounting for 12-13% of India&#39;s GDP, up from 4-5% in 2022 &lpar;Livemint&rpar;](http://www.techmeme.com/230606/p39#a230606p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
