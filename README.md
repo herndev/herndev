@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Twitter, YouTube, and Meta gave up on removing lies about the 2020 US Presidential elections, having briefly banded together to do the right thing &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230607/p9#a230607p9)
- - [Instagram is apparently testing an AI chatbot that lets you choose from 30 personalities](https://www.theverge.com/2023/6/7/23752143/instagram-ai-chatbot-feature-advice-questions-personalities-leak-screenshot)
- - [Critics say hopes of a quick UK-US digital trade deal have dimmed due to soft-pedaling by the US, with no progress made since an April 2022 joint statement &lpar;Financial Times&rpar;](http://www.techmeme.com/230607/p8#a230607p8)<!-- TECH:END -->
+ - [The best Apple headphones you should buy for back to school](https://appleinsider.com/inside/apple-headphones/best/the-best-apple-headphones-you-should-buy-for-back-to-school?utm_medium=rss)
+ - [The Clop ransomware group tells the BBC, British Airways, Boots, and others to email them or data stolen via the MOVEit hack will be released on June 14 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230607/p10#a230607p10)
+ - [Outdoor Movie Night: Best Projectors and Gear for Summertime Cinema     - CNET](https://www.cnet.com/tech/home-entertainment/outdoor-movie-night-best-projectors-and-gear-for-summertime-cinema/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
