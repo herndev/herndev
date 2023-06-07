@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best board games of 2023 so far](https://www.polygon.com/what-to-play/23750051/best-board-games-2023-new)
- - [Windows 11&#39;s latest endearing mess contains rigorously enforced Britishisms](https://www.pcgamer.com/windows-11s-latest-endearing-mess-contains-rigorously-enforced-britishisms)
- - [Windows 11&#39;s Teams Chat bloatware will soon no longer taunt me with its very existence](https://www.pcgamer.com/windows-11s-teams-chat-bloatware-will-soon-no-longer-taunt-me-with-its-very-existence)<!-- GAME:END -->
+ - [Introducing… No Man’s Sky Singularity Expedition](https://news.xbox.com/en-us/2023/06/07/no-mans-sky-singularity-expedition/)
+ - [Let’s talk about Spider-Man: Across the Spider-Verse’s biggest plot contradiction](https://www.polygon.com/23749898/spider-man-across-the-spider-verse-plot-hole-contradiction)
+ - [This Pokémon Game Had Been Lost For Years, Until Now](https://kotaku.com/this-pokemon-game-had-been-lost-for-years-until-now-1850512317)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
