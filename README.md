@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
- - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - 💣 [Ah yes, I also like watching concerts.](http://9gag.com/gag/aNwReYv)
+ - ⏩ [One ticket to hell please](http://9gag.com/gag/aGEAWww)
+ - 👉 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
 
 ---
 
