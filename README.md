@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)
- - [Two pulse-pounding PvP modes come to Farming Simulator 22, and yes I am serious](https://www.pcgamer.com/two-pulse-pounding-pvp-modes-come-to-farming-simulator-22-and-yes-i-am-serious)
- - [Counter-Strike 2 loadout update takes cues from Valorant, and might indicate more guns are coming over time](https://www.pcgamer.com/counter-strike-2-loadout-update-takes-cues-from-valorant-and-might-indicate-more-guns-are-coming-over-time)<!-- GAME:END -->
+ - [Reddit Communities Are &#39;Going Dark&#39; To Protest Wildly Unpopular App Changes](https://kotaku.com/reddit-blackout-going-dark-protest-apollo-apps-api-ios-1850512837)
+ - [Star Wars Revealing More Jedi Survived Doesn&#39;t Mean Order 66 Failed](https://kotaku.com/star-wars-ahsoka-baylon-skoll-order-66-jedi-survivor-1850512765)
+ - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
