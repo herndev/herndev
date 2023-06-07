@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
- - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
- - 👉 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)<!-- MEMES:END -->
+ - 💣 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
+ - 👉 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
 
 ---
 
