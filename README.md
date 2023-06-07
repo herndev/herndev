@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple headphones you should buy for back to school](https://appleinsider.com/inside/apple-headphones/best/the-best-apple-headphones-you-should-buy-for-back-to-school?utm_medium=rss)
- - [The Clop ransomware group tells the BBC, British Airways, Boots, and others to email them or data stolen via the MOVEit hack will be released on June 14 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230607/p10#a230607p10)
- - [Outdoor Movie Night: Best Projectors and Gear for Summertime Cinema     - CNET](https://www.cnet.com/tech/home-entertainment/outdoor-movie-night-best-projectors-and-gear-for-summertime-cinema/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automattic launches Jetpack AI Assistant for WordPress and Jetpack-powered sites, letting users generate content, translate text into 12 languages, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230607/p14#a230607p14)
+ - [iPadOS 17 feature roundup: Interactive widgets, USB webcam support, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)
+ - [Apple releases a Game Porting Tool, based on open-source platform Wine, which can translate DirectX 12 into Metal 3, a potentially massive step for Mac gaming &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230607/p13#a230607p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
