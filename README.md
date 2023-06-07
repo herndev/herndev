@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to hold its next Unpacked event in late July 2023 in Seoul, the first time in its home country, where it will unveil next generation foldables &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230606/p36#a230606p36)
- - [Samsung’s next foldable-focused Galaxy Unpacked will take place in late July](https://www.theverge.com/2023/6/6/23751841/samsung-galaxy-unpacked-summer-2023-july-foldables-z-flip-fold-5)
- - [iOS 17 beta enables editable text and threaded replies in iMessage group chats with Android users, but Android users can&#39;t see the edited messages &lpar;XDA Developers&rpar;](http://www.techmeme.com/230606/p35#a230606p35)<!-- TECH:END -->
+ - [Montreal-based GSoft, which offers employee experience software for Microsoft 365 management, onboarding, skills development, and more, raised CA$125M from CDPQ &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230606/p37#a230606p37)
+ - [iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)
+ - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
