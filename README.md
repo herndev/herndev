@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why he against it tho](http://9gag.com/gag/aOx1o9y)
- - ⏩ [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
- - 👉 [New products](http://9gag.com/gag/aYV1jPw)<!-- MEMES:END -->
+ - 💣 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
+ - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
+ - 👉 [Wtf](http://9gag.com/gag/aQEZwVW)<!-- MEMES:END -->
 
 ---
 
