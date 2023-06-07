@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry single mom&#39;s](http://9gag.com/gag/a1PLAZD)
- - ⏩ [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - 👉 [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)<!-- MEMES:END -->
+ - 💣 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)
+ - ⏩ [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
+ - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 ---
 
