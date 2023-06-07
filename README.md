@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Br\u00f6nze](http://9gag.com/gag/a8qwb41)
- - ⏩ [Yes](http://9gag.com/gag/aRE2657)
- - 👉 [I need a woman who stares at me like this cop does.](http://9gag.com/gag/aBdXQXA)<!-- MEMES:END -->
+ - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
+ - ⏩ [Hall of Fame](http://9gag.com/gag/a4oqK9w)
+ - 👉 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)<!-- MEMES:END -->
 
 ---
 
