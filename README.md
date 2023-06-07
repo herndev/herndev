@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rad New Game Is Basically Zelda Mixed With Mario Maker](https://kotaku.com/games-like-mario-maker-zelda-quest-master-demo-switch-1850516521)
- - [RPG Starts Offering Refunds For People Sick Of Waiting Years For It To Come Out](https://kotaku.com/vampire-masquerade-bloodlines-2-preorder-refund-delay-1850516527)
- - [Hell yeah, Hammerwatch 2 is basically going to be Diablo Lite without the live service cruft](https://www.pcgamer.com/hell-yeah-hammerwatch-2-is-basically-going-to-be-diablo-lite-without-the-live-service-cruft)<!-- GAME:END -->
+ - [Stranger Things Twitch Streamer Dishes On Gamer Toxicity After FaZe Clan Fallout](https://kotaku.com/faze-clan-stranger-things-twitch-youtube-sexism-1850516796)
+ - [Spider-Verse’s wheelchair-using hero started out as a fan-art ‘spidersona’](https://www.polygon.com/23752856/across-spider-verse-spidersona-creator-sun-spider-wheelchair)
+ - [Usazum Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753060/usazum-shrine-satori-mountain-crystal-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
