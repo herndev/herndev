@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
- - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 👉 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/aQEZwVW)
+ - ⏩ [Wuuman](http://9gag.com/gag/anzELAq)
+ - 👉 [When dowry is getting more expensive every day and you&#39;ve just laid eyes on a fine man](http://9gag.com/gag/abvBjwX)<!-- MEMES:END -->
 
 ---
 
