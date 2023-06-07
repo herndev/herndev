@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and Twitter, the entire story so far](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Twitter’s window to edit tweets is now one hour, but you still have to pay for it](https://www.theverge.com/2023/6/6/23751962/twitter-edit-tweet-limit-extended-60-minutes-blue-subscribers)
- - [Google, Temasek, and Bain report: India&#39;s internet economy to hit $1T by 2030, up from $175B in 2022, accounting for 12-13% of India&#39;s GDP, up from 4-5% in 2022 &lpar;Livemint&rpar;](http://www.techmeme.com/230606/p39#a230606p39)<!-- TECH:END -->
+ - [Google is adding more Indian languages to its services and developing an AI model that would be able to handle 100+ Indian languages across speech and text &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230607/p2#a230607p2)
+ - [Riot and Coke think they figured out what leveling up tastes like](https://www.theverge.com/2023/6/7/23750970/riot-league-of-legends-coke-zero-sugar-ultimate)
+ - [Sources: the EU is considering a mandatory ban on using equipment from companies like Huawei that are deemed to present a security risk in 5G networks &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230607/p1#a230607p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
