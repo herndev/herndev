@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based GetHarley, a telehealth service connecting consumers to skincare clinicians offering consultations and products, raised $52M led by Index Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230606/p38#a230606p38)
  - [Montreal-based GSoft, which offers employee experience software for Microsoft 365 management, onboarding, skills development, and more, raised CA$125M from CDPQ &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230606/p37#a230606p37)
- - [iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)
- - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)<!-- TECH:END -->
+ - [iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
