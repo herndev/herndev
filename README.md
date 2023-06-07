@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing… No Man’s Sky Singularity Expedition](https://news.xbox.com/en-us/2023/06/07/no-mans-sky-singularity-expedition/)
- - [Let’s talk about Spider-Man: Across the Spider-Verse’s biggest plot contradiction](https://www.polygon.com/23749898/spider-man-across-the-spider-verse-plot-hole-contradiction)
- - [This Pokémon Game Had Been Lost For Years, Until Now](https://kotaku.com/this-pokemon-game-had-been-lost-for-years-until-now-1850512317)<!-- GAME:END -->
+ - [Good Omens season 2 has a missing angel crash Aziraphale and Crowley’s domestic bliss](https://www.polygon.com/23751460/good-omens-season-2-trailer-release-date)
+ - [Where to buy Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
+ - [Netflix and Zack Snyder’s sci-fi epic is actually the launch of a new way to make movies](https://www.polygon.com/23751262/rebel-moon-zack-snyder-netflix-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
