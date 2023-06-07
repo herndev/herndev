@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic launches Jetpack AI Assistant for WordPress and Jetpack-powered sites, letting users generate content, translate text into 12 languages, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230607/p14#a230607p14)
- - [iPadOS 17 feature roundup: Interactive widgets, USB webcam support, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)
- - [Apple releases a Game Porting Tool, based on open-source platform Wine, which can translate DirectX 12 into Metal 3, a potentially massive step for Mac gaming &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230607/p13#a230607p13)<!-- TECH:END -->
+ - [Apple’s view of the future is a lonely one](https://www.theverge.com/23751675/apple-vision-pro-vr-headset-ios-17-mental-health-mood-journal)
+ - [The Samsung One UI 5 Watch beta is finally open](https://www.androidauthority.com/samsung-one-ui-5-watch-beta-launch-3332776/)
+ - [Crypto is dangerous nonsense and should be regulated like smoking, gambling, or pyramid schemes, not granted the dignity of regulation under US securities law &lpar;Robert Armstrong/Financial Times&rpar;](http://www.techmeme.com/230607/p17#a230607p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
