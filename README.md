@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good Omens season 2 has a missing angel crash Aziraphale and Crowley’s domestic bliss](https://www.polygon.com/23751460/good-omens-season-2-trailer-release-date)
- - [Where to buy Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
- - [Netflix and Zack Snyder’s sci-fi epic is actually the launch of a new way to make movies](https://www.polygon.com/23751262/rebel-moon-zack-snyder-netflix-release-date)<!-- GAME:END -->
+ - [The Minecraft Trails &amp; Tales Update is Now Available to Play on All Platforms, including Chromebooks!](https://news.xbox.com/en-us/2023/06/07/minecraft-trails-tales-update-out-now/)
+ - [Ted Lasso might be getting an AFC Richmond-focused spinoff](https://www.polygon.com/23752315/ted-lasso-spinoff-series-teaser-apple-tv-roy)
+ - [How to play Diablo 4 on Steam Deck](https://www.polygon.com/23750107/how-to-play-install-diablo-4-steam-deck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
