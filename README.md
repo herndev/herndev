@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
- - ⏩ [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
- - 👉 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
+ - 💣 [Br\u00f6nze](http://9gag.com/gag/a8qwb41)
+ - ⏩ [Yes](http://9gag.com/gag/aRE2657)
+ - 👉 [I need a woman who stares at me like this cop does.](http://9gag.com/gag/aBdXQXA)<!-- MEMES:END -->
 
 ---
 
