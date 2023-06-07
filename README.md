@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - ⏩ [One ticket to hell please](http://9gag.com/gag/aGEAWww)
- - 👉 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)<!-- MEMES:END -->
+ - 💣 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
+ - 👉 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
 
 ---
 
