@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
- - ⏩ [Hall of Fame](http://9gag.com/gag/a4oqK9w)
- - 👉 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
+ - 💣 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
+ - ⏩ [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - 👉 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)<!-- MEMES:END -->
 
 ---
 
