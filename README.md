@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #718: Wednesday, June 7](https://www.pcgamer.com/wordle-answer-today-hint-718-june-7)
- - [All armor sets, locations, and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
- - [PSA: Diablo 4 players, don&#39;t waste your gold](https://www.pcgamer.com/psa-diablo-4-players-dont-waste-your-gold)<!-- GAME:END -->
+ - [The best board games of 2023 so far](https://www.polygon.com/what-to-play/23750051/best-board-games-2023-new)
+ - [Windows 11&#39;s latest endearing mess contains rigorously enforced Britishisms](https://www.pcgamer.com/windows-11s-latest-endearing-mess-contains-rigorously-enforced-britishisms)
+ - [Windows 11&#39;s Teams Chat bloatware will soon no longer taunt me with its very existence](https://www.pcgamer.com/windows-11s-teams-chat-bloatware-will-soon-no-longer-taunt-me-with-its-very-existence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
