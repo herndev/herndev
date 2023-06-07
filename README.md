@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - ⏩ [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)
- - 👉 [I need a woman who stares at me like this cop does.](http://9gag.com/gag/aBdXQXA)<!-- MEMES:END -->
+ - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - ⏩ [Hall of Fame](http://9gag.com/gag/a4oqK9w)
+ - 👉 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
 
 ---
 
