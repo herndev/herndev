@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes, I also like watching concerts.](http://9gag.com/gag/aNwReYv)
- - ⏩ [One ticket to hell please](http://9gag.com/gag/aGEAWww)
- - 👉 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
+ - 💣 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - ⏩ [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 ---
 
