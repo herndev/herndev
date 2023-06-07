@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
- - ⏩ [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - 👉 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)<!-- MEMES:END -->
+ - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - ⏩ [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
+ - 👉 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
 
 ---
 
