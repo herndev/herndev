@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana launch threatened by Upper Deck lawsuit](https://www.polygon.com/23752860/disney-lorcana-lawsuit-upper-deck-injunction-release-date)
- - [Battletech subreddit creator comes back after years of lurking to kick out moderators who were deleting LGBTQ+ content: &#39;Battletech is for everyone&#39;](https://www.pcgamer.com/battletech-subreddit-creator-comes-back-after-years-of-lurking-to-kick-out-moderators-who-were-deleting-lgbtq-content-battletech-is-for-everyone)
- - [Little Mermaid fans are spoofing ‘Part of Your World’ on TikTok](https://www.polygon.com/23752837/little-mermaid-tiktok-part-of-your-world-halle-bailey-water-surface-filter)<!-- GAME:END -->
+ - [Rad New Game Is Basically Zelda Mixed With Mario Maker](https://kotaku.com/games-like-mario-maker-zelda-quest-master-demo-switch-1850516521)
+ - [RPG Starts Offering Refunds For People Sick Of Waiting Years For It To Come Out](https://kotaku.com/vampire-masquerade-bloodlines-2-preorder-refund-delay-1850516527)
+ - [Hell yeah, Hammerwatch 2 is basically going to be Diablo Lite without the live service cruft](https://www.pcgamer.com/hell-yeah-hammerwatch-2-is-basically-going-to-be-diablo-lite-without-the-live-service-cruft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
