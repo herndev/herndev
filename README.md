@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s podcast future isn’t very original](https://www.theverge.com/2023/6/6/23751648/spotify-gimlet-merge-parcast-creators-strategy)
- - [What Intel Macs aren&#39;t getting in macOS Sonoma](https://appleinsider.com/articles/23/06/06/what-intel-macs-arent-getting-in-macos-sonoma?utm_medium=rss)
- - [With iOS 17, Apple lets you share AirTags with friends and family](https://www.theverge.com/2023/6/6/23751614/apple-airtag-find-my-sharing-ios-17-feature)<!-- TECH:END -->
+ - [Samsung plans to hold its next Unpacked event in late July 2023 in Seoul, the first time in its home country, where it will unveil next generation foldables &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230606/p36#a230606p36)
+ - [Samsung’s next foldable-focused Galaxy Unpacked will take place in late July](https://www.theverge.com/2023/6/6/23751841/samsung-galaxy-unpacked-summer-2023-july-foldables-z-flip-fold-5)
+ - [iOS 17 beta enables editable text and threaded replies in iMessage group chats with Android users, but Android users can&#39;t see the edited messages &lpar;XDA Developers&rpar;](http://www.techmeme.com/230606/p35#a230606p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
