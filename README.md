@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit relents, makes first concession in its plans to impair third-party apps](https://www.androidauthority.com/reddit-third-party-apps-accessibility-3332934/)
- - [Messi’s move to MLS is a big deal for Apple](https://www.theverge.com/2023/6/7/23752531/messi-mls-streaming-apple-tv-plus)
- - [Chats, screenshots, and interviews: some people are pirating and offering free access to GPT-4, using stolen OpenAI API tokens scraped from other peoples&#39; code &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230607/p31#a230607p31)<!-- TECH:END -->
+ - [Google Assistant gets its first meaningful update in a long time: Two new voices](https://www.androidauthority.com/google-assistant-voices-2023-3332954/)
+ - [Apple’s Vision Pro is the Retina display moment for headsets](https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions)
+ - [Google updates Bard with improvements to mathematical tasks, coding questions, and string manipulation via a technique that lets Bard run code in the background &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230607/p33#a230607p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
