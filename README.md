@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reddit Communities Are &#39;Going Dark&#39; To Protest Wildly Unpopular App Changes](https://kotaku.com/reddit-blackout-going-dark-protest-apollo-apps-api-ios-1850512837)
- - [Star Wars Revealing More Jedi Survived Doesn&#39;t Mean Order 66 Failed](https://kotaku.com/star-wars-ahsoka-baylon-skoll-order-66-jedi-survivor-1850512765)
- - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)<!-- GAME:END -->
+ - [PSA: Diablo 4 players, don&#39;t waste your gold](https://www.pcgamer.com/psa-diablo-4-players-dont-waste-your-gold)
+ - [How to get the Evil Spirit Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751800/evil-spirit-armor-locations-head-chest-legs)
+ - [Myst Studio&#39;s New Game Has Loads Of AI-Generated Stuff](https://kotaku.com/myst-firmament-cyan-studios-ai-machine-writing-art-pc-1850505094)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
