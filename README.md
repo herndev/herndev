@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when and where the OnePlus Fold could launch](https://www.androidauthority.com/oneplus-fold-global-launch-date-3332695/)
- - [A profile of Google General Counsel Halimah DeLaine Prado after SCOTUS unanimously sided with the company in Gonzalez v. Google, as state cases test Section 230 &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230607/p7#a230607p7)
- - [Q&amp;A with Salesforce CEO Marc Benioff and COO Brian Millham on their relationship, shifting more responsibility to Millham, repairing company culture, and more &lpar;Insider&rpar;](http://www.techmeme.com/230607/p6#a230607p6)<!-- TECH:END -->
+ - [How Twitter, YouTube, and Meta gave up on removing lies about the 2020 US Presidential elections, having briefly banded together to do the right thing &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230607/p9#a230607p9)
+ - [Instagram is apparently testing an AI chatbot that lets you choose from 30 personalities](https://www.theverge.com/2023/6/7/23752143/instagram-ai-chatbot-feature-advice-questions-personalities-leak-screenshot)
+ - [Critics say hopes of a quick UK-US digital trade deal have dimmed due to soft-pedaling by the US, with no progress made since an April 2022 joint statement &lpar;Financial Times&rpar;](http://www.techmeme.com/230607/p8#a230607p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
