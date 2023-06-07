@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
- - ⏩ [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 👉 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
+ - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - ⏩ [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
+ - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 ---
 
