@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is adding more Indian languages to its services and developing an AI model that would be able to handle 100+ Indian languages across speech and text &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230607/p2#a230607p2)
- - [Riot and Coke think they figured out what leveling up tastes like](https://www.theverge.com/2023/6/7/23750970/riot-league-of-legends-coke-zero-sugar-ultimate)
- - [Sources: the EU is considering a mandatory ban on using equipment from companies like Huawei that are deemed to present a security risk in 5G networks &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230607/p1#a230607p1)<!-- TECH:END -->
+ - [Nigeria-based Tingo, which offers mobiles and credit to farmers, fell ~80% after Hindenburg alleged the Nasdaq-listed fintech is an &quot;exceptionally obvious scam&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230607/p4#a230607p4)
+ - [The Galaxy Z Flip 5, Fold 5 are officially coming earlier than expected](https://www.androidauthority.com/samsung-galaxy-unpacked-foldables-city-date-3332675/)
+ - [Google Cloud partners with Priceline to help the travel agency develop an AI chatbot for planning trips, suggesting hotels like a &quot;personal concierge&quot;, and more &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/230607/p3#a230607p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
