@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s modern File Explorer UI and RGB lighting controls head to testers](https://www.theverge.com/2023/6/7/23752709/microsoft-windows-11-file-explorer-ui-modern-rgb-controls-test)
- - [Minecraft officially launches for Chromebooks](https://www.theverge.com/2023/6/7/23752650/minecraft-bedrock-edition-chromebooks-chromeos-google)
- - [The Mac Pro ends the Apple Silicon transition, but it’s just one step in a much bigger journey](https://www.theverge.com/2023/6/7/23752425/mac-pro-apple-silicon-transition-professional-users-trashcan)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [New York City sues Kia and Hyundai over car thefts that went viral on TikTok](https://www.theverge.com/2023/6/7/23752535/new-york-city-sues-kia-hyundai-car-theft-kia-boys-tiktok)
+ - [At $70 off, the Fitbit Sense 2 is a tempting fitness buddy](https://www.androidauthority.com/fitbit-sense-2-deal-3332915/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
