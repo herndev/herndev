@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/aQEZwVW)
- - ⏩ [Wuuman](http://9gag.com/gag/anzELAq)
- - 👉 [When dowry is getting more expensive every day and you&#39;ve just laid eyes on a fine man](http://9gag.com/gag/abvBjwX)<!-- MEMES:END -->
+ - 💣 [Why he against it tho](http://9gag.com/gag/aOx1o9y)
+ - ⏩ [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
+ - 👉 [New products](http://9gag.com/gag/aYV1jPw)<!-- MEMES:END -->
 
 ---
 
