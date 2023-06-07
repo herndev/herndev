@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - ⏩ [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
- - 👉 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
+ - ⏩ [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 👉 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
 
 ---
 
