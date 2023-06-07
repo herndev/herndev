@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deepmind’s AI Is Learning About the Art of Coding](https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/)
- - [The US DOJ says Onur Aksoy pleaded guilty to importing and selling counterfeit Cisco equipment to various organizations, making $100M+ between 2014 and 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230607/p22#a230607p22)
- - [Apple is stealing a trick from the Steam Deck for macOS gaming](https://www.androidauthority.com/apple-gaming-game-porting-toolkit-3332811/)<!-- TECH:END -->
+ - [Apple announces new Music, Podcasts, and Maps features coming in the fall](https://appleinsider.com/articles/23/06/07/apple-announces-new-music-podcasts-and-maps-features-coming-in-the-fall?utm_medium=rss)
+ - [Mojang launches Minecraft: Bedrock Edition on Chromebook after an early access period, available on Chromebooks from the past three years and other models &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230607/p25#a230607p25)
+ - [Samsung Galaxy S20 series starts getting June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
