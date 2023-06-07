@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for June 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [First Diablo 4 Fan At Hardcore Level 100 Perma-Killed In Worst Way Possible](https://kotaku.com/diablo-iv-hardcore-level-100-race-disconnect-carn-1850514675)
- - [We&#39;ll finally learn who&#39;s making Vampire: the Masquerade – Bloodlines 2 in a few months](https://www.pcgamer.com/well-finally-learn-whos-making-vampire-the-masquerade-bloodlines-2-in-a-few-months)<!-- GAME:END -->
+ - [Keep the Spider-high going with these 6 movies](https://www.polygon.com/what-to-watch/23742654/movies-like-spider-man-spider-verse-netflix-disney-plus)
+ - [Intel CPU with 16 big Performance cores hits 7.2GHz and draws 800W](https://www.pcgamer.com/intel-cpu-with-16-big-performance-cores-hits-72ghz-and-draws-800w)
+ - [True-crime shows like Max’s Love &amp; Death miss why people care about murder](https://www.polygon.com/23749804/love-death-review-hbo-max-true-crime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
