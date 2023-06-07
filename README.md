@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wuuman](http://9gag.com/gag/anzELAq)
- - ⏩ [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
- - 👉 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 💣 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - ⏩ [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
+ - 👉 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)<!-- MEMES:END -->
 
 ---
 
