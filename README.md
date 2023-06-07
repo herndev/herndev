@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Assistant gets its first meaningful update in a long time: Two new voices](https://www.androidauthority.com/google-assistant-voices-2023-3332954/)
- - [Apple’s Vision Pro is the Retina display moment for headsets](https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions)
- - [Google updates Bard with improvements to mathematical tasks, coding questions, and string manipulation via a technique that lets Bard run code in the background &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230607/p33#a230607p33)<!-- TECH:END -->
+ - [Apple provides official design resources for collaborative design tool Figma](https://appleinsider.com/articles/23/06/07/apple-provides-official-design-resources-for-collaborative-design-tool-figma?utm_medium=rss)
+ - [GameStop fires CEO Matt Furlong two years after hiring him and appoints chairman and majority shareholder Ryan Cohen as its executive chairman; GME drops 15%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230607/p35#a230607p35)
+ - [Amazon to Launch Prime Video Plan With Ads, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/amazon-to-launch-prime-video-plan-with-ads-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
