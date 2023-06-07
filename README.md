@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Omens season 2’s first trailer is a heavenly missing persons case](https://www.theverge.com/23752231/good-omens-season-2-trailer-amazon-prime-video)
- - [Younger Apple customers may be the key to Apple Vision Pro&#39;s success](https://appleinsider.com/articles/23/06/07/younger-apple-customers-may-be-the-key-to-apple-vision-pros-success?utm_medium=rss)
- - [Travel like a pro: unlock the 2023 Travel Hacker Bundle with Rosetta Stone for only $159.99](https://appleinsider.com/articles/23/06/07/travel-like-a-pro-unlock-the-2023-travel-hacker-bundle-with-rosetta-stone-for-only-15999?utm_medium=rss)<!-- TECH:END -->
+ - [Deepmind’s AI Is Learning About the Art of Coding](https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/)
+ - [The US DOJ says Onur Aksoy pleaded guilty to importing and selling counterfeit Cisco equipment to various organizations, making $100M+ between 2014 and 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230607/p22#a230607p22)
+ - [Apple is stealing a trick from the Steam Deck for macOS gaming](https://www.androidauthority.com/apple-gaming-game-porting-toolkit-3332811/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
