@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
- - ⏩ [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - ⏩ [One ticket to hell please](http://9gag.com/gag/aGEAWww)
  - 👉 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)<!-- MEMES:END -->
 
 ---
