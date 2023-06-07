@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces new Music, Podcasts, and Maps features coming in the fall](https://appleinsider.com/articles/23/06/07/apple-announces-new-music-podcasts-and-maps-features-coming-in-the-fall?utm_medium=rss)
- - [Mojang launches Minecraft: Bedrock Edition on Chromebook after an early access period, available on Chromebooks from the past three years and other models &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230607/p25#a230607p25)
- - [Samsung Galaxy S20 series starts getting June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
+ - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/articles/23/06/07/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
+ - [Sources: Amazon plans to launch an ad-supported tier of Prime Video and is in talks with WBD and Paramount to add their ad-based tiers to Prime Video Channels &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230607/p27#a230607p27)
+ - [Ahsoka has an official premiere date](https://www.theverge.com/2023/6/7/23752569/ahsoka-star-wars-disney-plus-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
