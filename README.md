@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - 💣 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
  - ⏩ [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
- - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
+ - 👉 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
 
 ---
 
