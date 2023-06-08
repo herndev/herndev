@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 472 corporate board directors ahead of the SEC&#39;s cyber-risk regulations: 76% have at least one expert, 62% say risk awareness is improving, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230608/p1#a230608p1)
- - [Best Noise-Canceling Headphones Under $100 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [Court documents: the SEC accuses Binance and Binance.US of redirecting $12B+ in customer assets to entities controlled by Changpeng Zhao between 2019 and 2021 &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230607/p41#a230607p41)<!-- TECH:END -->
+ - [In a letter, two US senators accuse TikTok of misleading the Congress on handling of US user data, demanding answers to 12+ questions by the end of next week &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230608/p3#a230608p3)
+ - [DeepMind&#39;s AlphaDev, an AI for discovering enhanced algorithms, devised new C++ sorting algorithms that are up to 70% faster and have been added to the language &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230608/p2#a230608p2)
+ - [The Bizarre Reality of Getting Online in North Korea](https://www.wired.com/story/internet-reality-north-korea/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
