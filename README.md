@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A radio host files a defamation lawsuit against OpenAI over ChatGPT&#39;s hallucination, alleging it generated a false legal complaint accusing him of embezzlement &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/230608/p7#a230608p7)
- - [The UK FCA plans to introduce tough crypto advertising rules, classifying crypto as &quot;restricted mass market investments&quot;, banning incentives to invest, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230608/p6#a230608p6)
- - [Internal email: Google plans to include office attendance records in performance reviews and consider new requests to work remotely full-time as an exception &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p5#a230608p5)<!-- TECH:END -->
+ - [Some software providers and startups are promoting AI-based monitoring tools at the workplace to combat burnout, reduce stress, and improve productivity &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/230608/p8#a230608p8)
+ - [You could soon take phone calls on your Android TV device](https://www.androidauthority.com/android-tv-14-phone-calls-3333027/)
+ - [ChatGPT on iOS gets improved iPad support and Shortcuts integration](https://www.theverge.com/2023/6/8/23753570/chatgpt-ipad-app-apple-shortcuts-support-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
