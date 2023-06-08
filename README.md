@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare for Battle: Mortal Kombat 1 and New Kameo Fighters Explained](https://news.xbox.com/en-us/2023/06/08/mortal-kombat-1-kameo-fighters/)
- - [Capcom knows what the people want: Mecha Ryu punching a giant dino](https://www.pcgamer.com/capcom-knows-what-the-people-want-mecha-ryu-punching-a-giant-dino)
- - [Finally, Mortal Kombat will let you team up Subzero with Subzero](https://www.pcgamer.com/finally-mortal-kombat-will-let-you-team-up-subzero-with-subzero)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth trailer gets real meta, confirms 2024 release](https://www.polygon.com/23734961/final-fantasy-7-remake-part-2-rebirth-trailer-release-date-ps5)
+ - [Where to use Murmuring Obols in Diablo 4](https://www.polygon.com/diablo-4-guides/23754238/murmuring-obols-use-capacity)
+ - [How to get Whispering Keys in Diablo 4](https://www.polygon.com/diablo-4-guides/23754237/whispering-keys-silent-chests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
