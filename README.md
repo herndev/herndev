@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [11 years later...](http://9gag.com/gag/aVb2O3v)
- - ⏩ [RIP Bird](http://9gag.com/gag/aEqX1Xp)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)<!-- MEMES:END -->
+ - 💣 [Tour de France evolution &lpar;devolution&rpar;](http://9gag.com/gag/a04ELEO)
+ - ⏩ [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 👉 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
 
 ---
 
