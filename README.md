@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Leaked Tesla Report Shows the Cybertruck Had Basic Design Flaws](https://www.wired.com/story/a-leaked-tesla-report-shows-the-cybertruck-had-basic-design-flaws/)
- - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)
- - [El Niño is here, and that usually means more wacky weather](https://www.theverge.com/2023/6/8/23753842/el-nino-weather-2023)<!-- TECH:END -->
+ - [Apple Pay announces exclusive Father&#39;s Day promotions for users](https://appleinsider.com/articles/23/06/08/apple-pay-announces-exclusive-fathers-day-promotions-for-users?utm_medium=rss)
+ - [Google Reminders must be moved to Tasks this month](https://www.androidauthority.com/google-reminders-tasks-migration-3333247/)
+ - [How to watch Summer Game Fest 2023](https://www.theverge.com/2023/6/8/23751151/summer-game-fest-2023-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
