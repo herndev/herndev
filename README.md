@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
+ - 💣 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
  - ⏩ [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
- - 👉 [Wednesday](http://9gag.com/gag/aZD2x50)<!-- MEMES:END -->
+ - 👉 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
 
 ---
 
