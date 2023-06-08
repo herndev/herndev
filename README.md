@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - ⏩ [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - ⏩ [Hall of Fame](http://9gag.com/gag/a4oqK9w)
+ - 👉 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)<!-- MEMES:END -->
 
 ---
 
