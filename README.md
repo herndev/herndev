@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay announces exclusive Father&#39;s Day promotions for users](https://appleinsider.com/articles/23/06/08/apple-pay-announces-exclusive-fathers-day-promotions-for-users?utm_medium=rss)
- - [Google Reminders must be moved to Tasks this month](https://www.androidauthority.com/google-reminders-tasks-migration-3333247/)
- - [How to watch Summer Game Fest 2023](https://www.theverge.com/2023/6/8/23751151/summer-game-fest-2023-how-to-watch)<!-- TECH:END -->
+ - [Marc Andreessen Is &lpar;Mostly&rpar; Wrong This Time](https://www.wired.com/story/artificial-intelligence-marc-andreessen-labor-politics/)
+ - [Louisiana passes bill banning kids from the internet without parental consent](https://www.theverge.com/2023/6/8/23754274/louisiana-child-safety-online-protection-ban-roblox-fortnite-instagram)
+ - [Reddit app &#39;Apollo&#39; is shutting down over Reddit&#39;s expensive API prices](https://appleinsider.com/articles/23/06/08/reddit-app-apollo-is-shutting-down-over-reddits-expensive-api-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
