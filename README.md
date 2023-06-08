@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Summer Game Fest 2023](https://www.theverge.com/2023/6/8/23751151/summer-game-fest-2023-how-to-watch)
- - [Google Meet’s latest update offers a more capable picture-in-picture mode](https://www.theverge.com/2023/6/8/23753643/google-meet-upgraded-picture-in-picture-mode)
- - [The Cyberspace Administration of China plans tighter controls on AirDrop and similar tools, after their use by protestors in China and Hong Kong in recent years &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p17#a230608p17)<!-- TECH:END -->
+ - [What is Oura Circles? The Oura Ring social feature for family and friends](https://www.androidauthority.com/oura-circles-3332965/)
+ - [The European Commission approves &amp;euro;8B in state subsidies for chip research, added to &amp;euro;13.7B in private funding for &amp;euro;22B in total, as part of the EU&#39;s Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230608/p21#a230608p21)
+ - [South Korean NGO Pscore details the limited online life of North Koreans, based on interviews and surveys, including a days-long approval process to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230608/p20#a230608p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
