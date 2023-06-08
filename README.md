@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [New Geekbench 6.1 results aren&#39;t fully compatible with older versions](https://appleinsider.com/articles/23/06/08/new-geekbench-61-results-arent-fully-compatible-with-older-versions?utm_medium=rss)
- - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)<!-- TECH:END -->
+ - [Google Password Manager now has a dedicated home in Chrome](https://www.androidauthority.com/google-password-manager-chrome-update-3333017/)
+ - [GuliKit KingKong 2 Pro review: Should you buy it?](https://www.androidauthority.com/gulikit-kingkong-2-pro-review-3331892/)
+ - [Apple&#39;s M2 MacBook Air 15-inch gets a new preorder discount at Amazon](https://appleinsider.com/articles/23/06/08/apples-m2-macbook-air-15-inch-gets-a-new-preorder-discount-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
