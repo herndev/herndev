@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch walks back new branded content guidelines it released on June 6 and calls them &quot;bad&quot; for streamers and the company, after swift backlash from creators &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230607/p36#a230607p36)
- - [Apple wants to turn your iPhone into a pet-tracking camera](https://www.theverge.com/2023/6/7/23753103/apple-iphone-pet-tracking-camera-motorized-mount-dockkit)
- - [What New York City looked like stifled in wildfire smoke](https://www.theverge.com/2023/6/7/23753066/new-york-city-wildfire-smoke-pollution-photo-essay)<!-- TECH:END -->
+ - [Digibee, a low-code service that helps enterprises build integration workflows, raised a $60M Series B led by Goldman Sachs, taking its total funding to $90M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230607/p37#a230607p37)
+ - [Best USB microphones for content creators](https://appleinsider.com/inside/mac/best/best-usb-microphones?utm_medium=rss)
+ - [Twitch walks back new branded content guidelines it released on June 6 and calls them &quot;bad&quot; for streamers and the company, after swift backlash from creators &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230607/p36#a230607p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
