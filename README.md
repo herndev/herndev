@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth trailer gets real meta, confirms 2024 release](https://www.polygon.com/23734961/final-fantasy-7-remake-part-2-rebirth-trailer-release-date-ps5)
- - [Where to use Murmuring Obols in Diablo 4](https://www.polygon.com/diablo-4-guides/23754238/murmuring-obols-use-capacity)
- - [How to get Whispering Keys in Diablo 4](https://www.polygon.com/diablo-4-guides/23754237/whispering-keys-silent-chests)<!-- GAME:END -->
+ - [Paradox is publishing a Star Trek grand strategy game and I am vibrating with anticipation](https://www.pcgamer.com/paradox-is-publishing-a-star-trek-grand-strategy-game-and-i-am-vibrating-with-anticipation)
+ - [I can&#39;t tell if people actually want co-op zombie FPSes anymore](https://www.pcgamer.com/i-cant-tell-if-people-actually-want-co-op-zombie-fpses-anymore)
+ - [Does Transformers: Rise of the Beasts have a post-credits scene?](https://www.polygon.com/23754120/transformers-rise-beasts-post-credits-scene)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
