@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Payrails, which offers a framework for enterprise payments, raised a $14.4M seed extension led by EQT Ventures, bringing its seed total to $20.8M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230607/p38#a230607p38)
  - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)
- - [The Age of Flames Reaches the US East Coast](https://www.wired.com/story/the-age-of-flames-reaches-the-us-east-coast/)
- - [Best Cellphone Deals: Snag Huge Savings On Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Age of Flames Reaches the US East Coast](https://www.wired.com/story/the-age-of-flames-reaches-the-us-east-coast/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
