@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The FPS that gives you an instagib chainsaw leg just keeps getting better](https://www.pcgamer.com/the-fps-that-gives-you-an-instagib-chainsaw-leg-just-keeps-getting-better)
- - [How many lightroots are there in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752698/lightroots-how-many-dispelling-darkness-medal)
- - [Ren-iz Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753920/ren-iz-shrine-jump-gaps-location-walkthrough)<!-- GAME:END -->
+ - [Mayasiar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753873/mayasiar-shrine-location-starview-island-walkthrough-lights-mirrors)
+ - [GTA Online Is About To Get A Bunch Of Smart Changes In San Andreas Update](https://kotaku.com/gta-online-san-andreas-mercenaries-big-update-all-list-1850519961)
+ - [Friday the 13th prices cut before the game disappears from storefronts](https://www.polygon.com/23754185/friday-the-13th-game-sale-removed-from-stores-licensing-ends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
