@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A joke in the 90s, &lpar;almost&rpar; reality nowadays](http://9gag.com/gag/a9qXYRK)
- - ⏩ [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
- - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - 💣 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
+ - ⏩ [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - 👉 [Happy vacations](http://9gag.com/gag/aA0XRQ0)<!-- MEMES:END -->
 
 ---
 
