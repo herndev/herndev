@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron says it has started mass producing its 238-layer 3D NAND flash memory chips, promising speeds of 2400MT/s, up from its last gen&#39;s 176 layers and 1600MT/s &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230607/p39#a230607p39)
  - [Berlin-based Payrails, which offers a framework for enterprise payments, raised a $14.4M seed extension led by EQT Ventures, bringing its seed total to $20.8M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230607/p38#a230607p38)
- - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)
- - [The Age of Flames Reaches the US East Coast](https://www.wired.com/story/the-age-of-flames-reaches-the-us-east-coast/)<!-- TECH:END -->
+ - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
