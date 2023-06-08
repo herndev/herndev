@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - ⏩ [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - 👉 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
+ - 💣 [11 years later...](http://9gag.com/gag/aVb2O3v)
+ - ⏩ [RIP Bird](http://9gag.com/gag/aEqX1Xp)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)<!-- MEMES:END -->
 
 ---
 
