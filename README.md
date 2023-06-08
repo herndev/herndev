@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Apple&#39;s new Pro Macs -- Mac Pro &amp; Mac Studio with M2 Ultra](https://appleinsider.com/articles/23/06/08/hands-on-with-apples-new-pro-macs----mac-pro-mac-studio-with-m2-ultra?utm_medium=rss)
- - [Final Fantasy VII Rebirth will be released in early 2024](https://www.theverge.com/23753741/final-fantasy-7-rebirth-release-window-ps5-trailer)
- - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)<!-- TECH:END -->
+ - [Summer Game Fest featured no women onstage](https://www.theverge.com/2023/6/8/23754562/summer-game-fest-women-diversity-geoff-keighley)
+ - [Meta’s first generative AI feature will be AI stickers in Messenger](https://www.theverge.com/2023/6/8/23754485/meta-generative-ai-stickers-in-messenger)
+ - [Evan Williams says he was &quot;sad&quot; when Elon Musk bought Twitter after thinking the idea was &quot;interesting and fun&quot; and Musk hasn&#39;t &quot;dialed it in quite right yet&quot; &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/230608/p34#a230608p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
