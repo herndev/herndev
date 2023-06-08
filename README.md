@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Classes For Diablo IV Beginners, Whether You Want A Challenge Or Cakewalk](https://kotaku.com/diablo-4-best-builds-classes-necromancer-rogue-sorcerer-1850518023)
- - [Video Game Conventions Are Still Hotbeds Of Sexualized Abuse](https://kotaku.com/video-game-conventions-summer-game-fest-pax-gdc-e3-1850518417)
- - [Disney Card Game Gets Sued For Allegedly Copying Rival&#39;s Design](https://kotaku.com/disney-lorcana-lawsuit-sue-ravensburger-theft-court-tcg-1850519295)<!-- GAME:END -->
+ - [The FPS that gives you an instagib chainsaw leg just keeps getting better](https://www.pcgamer.com/the-fps-that-gives-you-an-instagib-chainsaw-leg-just-keeps-getting-better)
+ - [How many lightroots are there in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752698/lightroots-how-many-dispelling-darkness-medal)
+ - [Ren-iz Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753920/ren-iz-shrine-jump-gaps-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
