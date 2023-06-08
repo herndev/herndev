@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - ⏩ [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 👉 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
+ - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - ⏩ [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 ---
 
