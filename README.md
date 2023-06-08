@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron says it has started mass producing its 238-layer 3D NAND flash memory chips, promising speeds of 2400MT/s, up from its last gen&#39;s 176 layers and 1600MT/s &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230607/p39#a230607p39)
- - [Berlin-based Payrails, which offers a framework for enterprise payments, raised a $14.4M seed extension led by EQT Ventures, bringing its seed total to $20.8M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230607/p38#a230607p38)
- - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)<!-- TECH:END -->
+ - [Court documents: the SEC accuses Binance and Binance.US of redirecting $12B+ in customer assets to entities controlled by Changpeng Zhao between 2019 and 2021 &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230607/p41#a230607p41)
+ - [Sources: TikTok is aiming for a global e-commerce GMV of $20B in 2023, up from $4.4B in 2022, after rapid growth of its e-commerce business in Southeast Asia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230607/p40#a230607p40)
+ - [SK Hynix says it has started mass producing its 238-layer 3D NAND flash memory chips, promising speeds of 2400MT/s, up from last gen&#39;s 176 layers and 1600MT/s &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230607/p39#a230607p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
