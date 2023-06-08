@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mayasiar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753873/mayasiar-shrine-location-starview-island-walkthrough-lights-mirrors)
- - [GTA Online Is About To Get A Bunch Of Smart Changes In San Andreas Update](https://kotaku.com/gta-online-san-andreas-mercenaries-big-update-all-list-1850519961)
- - [Friday the 13th prices cut before the game disappears from storefronts](https://www.polygon.com/23754185/friday-the-13th-game-sale-removed-from-stores-licensing-ends)<!-- GAME:END -->
+ - [Prepare for Battle: Mortal Kombat 1 and New Kameo Fighters Explained](https://news.xbox.com/en-us/2023/06/08/mortal-kombat-1-kameo-fighters/)
+ - [Capcom knows what the people want: Mecha Ryu punching a giant dino](https://www.pcgamer.com/capcom-knows-what-the-people-want-mecha-ryu-punching-a-giant-dino)
+ - [Finally, Mortal Kombat will let you team up Subzero with Subzero](https://www.pcgamer.com/finally-mortal-kombat-will-let-you-team-up-subzero-with-subzero)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
