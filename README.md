@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leak suggests AMD&#39;s best laptop GPU delivers RTX 4070 desktop performance for less power](https://www.pcgamer.com/leak-suggests-amds-best-laptop-gpu-delivers-rtx-4070-desktop-performance-for-less-power)
- - [How to watch Summer Game Fest 2023, and what to expect](https://www.pcgamer.com/summer-game-fest-2023-how-to-watch-livestream)
- - [Whoopi Goldberg lambasts Blizzard for not releasing Diablo 4 on Mac: &#39;This really pissed me off!&#39;](https://www.pcgamer.com/whoopi-goldberg-lambasts-blizzard-for-not-releasing-diablo-4-on-mac-this-really-pissed-me-off)<!-- GAME:END -->
+ - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Pokémon Players Banned From Tourney For Using The Same Move In Protest](https://kotaku.com/competitive-pokemon-scarlet-violet-korea-metronome-ban-1850518151)
+ - [The Day Before studio founders say they&#39;ll be &#39;back at the top of the wishlists&#39; in interview that feels barely acquainted with reality](https://www.pcgamer.com/the-day-before-studio-founders-say-theyll-be-back-at-the-top-of-the-wishlists-in-interview-that-feels-barely-acquainted-with-reality)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
