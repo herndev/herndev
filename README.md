@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Title](http://9gag.com/gag/aKEYgON)
- - ⏩ [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
- - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - ⏩ [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
+ - 👉 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
 
 ---
 
