@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering Fans Offered $1M For Unreleased LOTR Card](https://kotaku.com/lord-of-the-rings-mtg-the-one-ring-card-release-date-1850518705)
- - [The best sci-fi and fantasy books of 2023 so far](https://www.polygon.com/23691206/best-fantasy-books-sci-fi-2023)
- - [The best Legend of Zelda: Tears of the Kingdom memes](https://www.polygon.com/legend-zelda-tears-kingdom/23729930/totk-zelda-tears-of-the-kingdom-memes-torture-koroks-ultrahand-trucks-purah)<!-- GAME:END -->
+ - [Taunhiy Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753780/taunhiy-shrine-combat-training-archery-location-walkthrough)
+ - [Never Miss Another Diablo IV World Boss Again With This Handy Tracker](https://kotaku.com/diablo-4-world-boss-tracker-find-spawn-ashava-avarice-1850518989)
+ - [Sakunbomar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752974/sakunbomar-shrine-none-shall-pass-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
