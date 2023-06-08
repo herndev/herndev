@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe opens up its Firefly generative AI model to businesses](https://www.theverge.com/2023/6/8/23753564/adobe-firefly-enterprise-generative-ai-express-commercial)
- - [GoTo CEO Andre Soelistyo plans to leave, a surprise move just months after detailing a profitability plan, to be replaced by Northstar partner Patrick Walujo &lpar;Bloomberg&rpar;](http://www.techmeme.com/230608/p12#a230608p12)
- - [UK Prime Minister Rishi Sunak plans to host an AI summit in the fall, saying the UK would be &quot;well-placed&quot; to convene discussions; attendees are unclear &lpar;Esther Webber/Politico&rpar;](http://www.techmeme.com/230608/p11#a230608p11)<!-- TECH:END -->
+ - [Apple’s Vision Pro Isn’t the Future](https://www.wired.com/story/apple-vision-pro-doomed/)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+ - [Ocean Currents Are Slowing, With Potentially Devastating Effects](https://www.wired.com/story/oceans-day-deep-ocean-current-slowdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
