@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 2 could offer Pixel-like software](https://www.androidauthority.com/nothing-phone-2-google-pixel-software-3333161/)
- - [The best new streaming shows this week on Netflix, Peacock, Apple, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Oura Ring users can now share sleep scores with friends](https://www.theverge.com/2023/6/8/23752876/oura-ring-social-circles-sleep-stage-algorithm)<!-- TECH:END -->
+ - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [New Geekbench 6.1 results aren&#39;t fully compatible with older versions](https://appleinsider.com/articles/23/06/08/new-geekbench-61-results-arent-fully-compatible-with-older-versions?utm_medium=rss)
+ - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
