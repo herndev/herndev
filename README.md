@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Andreessen Is &lpar;Mostly&rpar; Wrong This Time](https://www.wired.com/story/artificial-intelligence-marc-andreessen-labor-politics/)
- - [Louisiana passes bill banning kids from the internet without parental consent](https://www.theverge.com/2023/6/8/23754274/louisiana-child-safety-online-protection-ban-roblox-fortnite-instagram)
- - [Reddit app &#39;Apollo&#39; is shutting down over Reddit&#39;s expensive API prices](https://appleinsider.com/articles/23/06/08/reddit-app-apollo-is-shutting-down-over-reddits-expensive-api-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Sonic’s back with a new 2D side-scroller](https://www.theverge.com/23754423/sonic-superstars-trailer-summer-game-fest)
+ - [What it’s like to wear the Dyson Zone around a NYC covered in wildfire smoke](https://www.theverge.com/23753850/dyson-zone-wildfire-nyc-experience)
+ - [This is what Instagram’s upcoming Twitter competitor looks like](https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
