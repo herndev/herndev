@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.....................](http://9gag.com/gag/awZ4KQW)
- - ⏩ [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 👉 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
+ - 💣 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
+ - ⏩ [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
+ - 👉 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
 
 ---
 
