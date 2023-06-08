@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #719: Thursday, June 8](https://www.pcgamer.com/wordle-answer-today-hint-719-june-8)
  - [Any Sufficiently Advanced Technology Is Indistinguishable From Magic](https://kotaku.com/sara-hermellin-concept-art-illustration-magic-paris-1850517434)
- - [Warzone 2 is giving everyone keys to the nukes for the next week](https://www.pcgamer.com/warzone-2-is-giving-everyone-keys-to-the-nukes-for-the-next-week)
- - [Is it just me or does co-op make Diablo 4 feel way too easy?](https://www.pcgamer.com/is-it-just-me-or-does-co-op-make-diablo-4-feel-way-too-easy)<!-- GAME:END -->
+ - [Warzone 2 is giving everyone keys to the nukes for the next week](https://www.pcgamer.com/warzone-2-is-giving-everyone-keys-to-the-nukes-for-the-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
