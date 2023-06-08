@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Society smh](http://9gag.com/gag/a5Xjdqr)
- - ⏩ [RIP Bird](http://9gag.com/gag/aEqX1Xp)
- - 👉 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)<!-- MEMES:END -->
+ - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - ⏩ [Future diplomat.](http://9gag.com/gag/a9qXPdm)
+ - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 ---
 
