@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - ⏩ [Title](http://9gag.com/gag/aKEYgON)
+ - 💣 [Title](http://9gag.com/gag/aKEYgON)
+ - ⏩ [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
  - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
 
 ---
