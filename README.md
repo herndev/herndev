@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
- - ⏩ [Future diplomat.](http://9gag.com/gag/a9qXPdm)
- - 👉 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
+ - 💣 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
+ - ⏩ [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
+ - 👉 [Society smh](http://9gag.com/gag/a5Xjdqr)<!-- MEMES:END -->
 
 ---
 
