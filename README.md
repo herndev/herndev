@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re playing barbarian in Diablo 4, you really should try switching to controller](https://www.pcgamer.com/if-youre-playing-barbarian-in-diablo-4-you-really-should-try-switching-to-controller)
- - [Streamer outrage forces Twitch to drop planned changes to branded ad rules](https://www.pcgamer.com/streamer-outrage-forces-twitch-to-drop-planned-changes-to-branded-ad-rules)
- - [The Witcher community rallies around Geralt voice actor Doug Cockle after he reveals cancer diagnosis](https://www.pcgamer.com/the-witcher-community-rallies-around-geralt-voice-actor-doug-cockle-after-he-reveals-cancer-diagnosis)<!-- GAME:END -->
+ - [Any Sufficiently Advanced Technology Is Indistinguishable From Magic](https://kotaku.com/sara-hermellin-concept-art-illustration-magic-paris-1850517434)
+ - [Warzone 2 is giving everyone keys to the nukes for the next week](https://www.pcgamer.com/warzone-2-is-giving-everyone-keys-to-the-nukes-for-the-next-week)
+ - [Is it just me or does co-op make Diablo 4 feel way too easy?](https://www.pcgamer.com/is-it-just-me-or-does-co-op-make-diablo-4-feel-way-too-easy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
