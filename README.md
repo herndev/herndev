@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox is publishing a Star Trek grand strategy game and I am vibrating with anticipation](https://www.pcgamer.com/paradox-is-publishing-a-star-trek-grand-strategy-game-and-i-am-vibrating-with-anticipation)
- - [I can&#39;t tell if people actually want co-op zombie FPSes anymore](https://www.pcgamer.com/i-cant-tell-if-people-actually-want-co-op-zombie-fpses-anymore)
- - [Does Transformers: Rise of the Beasts have a post-credits scene?](https://www.polygon.com/23754120/transformers-rise-beasts-post-credits-scene)<!-- GAME:END -->
+ - [Persona 3 remake and Persona 5 tactics game revealed by Atlus](https://www.polygon.com/23754702/persona-3-remake-reload-persona-5-tactica-atlus)
+ - [The best elixirs in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736509/best-elixirs)
+ - [The best recipes in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751220/best-recipes-how-to-make-pizza)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
