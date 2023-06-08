@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
- - ⏩ [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
- - 👉 [Society smh](http://9gag.com/gag/a5Xjdqr)<!-- MEMES:END -->
+ - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - ⏩ [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - 👉 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
 
 ---
 
