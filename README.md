@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest featured no women onstage](https://www.theverge.com/2023/6/8/23754562/summer-game-fest-women-diversity-geoff-keighley)
- - [Meta’s first generative AI feature will be AI stickers in Messenger](https://www.theverge.com/2023/6/8/23754485/meta-generative-ai-stickers-in-messenger)
- - [Evan Williams says he was &quot;sad&quot; when Elon Musk bought Twitter after thinking the idea was &quot;interesting and fun&quot; and Musk hasn&#39;t &quot;dialed it in quite right yet&quot; &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/230608/p34#a230608p34)<!-- TECH:END -->
+ - [Devolver Digital’s showcase featured just four games, but they look like good ones](https://www.theverge.com/23751914/devolver-digital-showcase-2023-trailers-summer-game-fest-volvy)
+ - [Logitech is killing off the Blue mic brand, will sell Yeti and Astro under Logitech G](https://www.theverge.com/2023/6/8/23589618/logitech-blue-now-yeti-astro-merge-logitech-g-brands)
+ - [Hong Kong-based Taiko Labs, which is focused on scaling Ethereum, raised a $10M seed led by Sequoia China and a $12M pre-Series A led by Generative Ventures &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230608/p35#a230608p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
