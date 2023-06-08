@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
- - ⏩ [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)
- - 👉 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)<!-- MEMES:END -->
+ - 💣 [.....................](http://9gag.com/gag/awZ4KQW)
+ - ⏩ [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 👉 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
 
 ---
 
