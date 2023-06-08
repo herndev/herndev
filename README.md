@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
  - ⏩ [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
- - 👉 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
+ - 👉 [Wednesday](http://9gag.com/gag/aZD2x50)<!-- MEMES:END -->
 
 ---
 
