@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Vision Pro Isn’t the Future](https://www.wired.com/story/apple-vision-pro-doomed/)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
- - [Ocean Currents Are Slowing, With Potentially Devastating Effects](https://www.wired.com/story/oceans-day-deep-ocean-current-slowdown/)<!-- TECH:END -->
+ - [How to watch Summer Game Fest 2023](https://www.theverge.com/2023/6/8/23751151/summer-game-fest-2023-how-to-watch)
+ - [Google Meet’s latest update offers a more capable picture-in-picture mode](https://www.theverge.com/2023/6/8/23753643/google-meet-upgraded-picture-in-picture-mode)
+ - [The Cyberspace Administration of China plans tighter controls on AirDrop and similar tools, after their use by protestors in China and Hong Kong in recent years &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p17#a230608p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
