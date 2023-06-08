@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Pokémon Players Banned From Tourney For Using The Same Move In Protest](https://kotaku.com/competitive-pokemon-scarlet-violet-korea-metronome-ban-1850518151)
- - [The Day Before studio founders say they&#39;ll be &#39;back at the top of the wishlists&#39; in interview that feels barely acquainted with reality](https://www.pcgamer.com/the-day-before-studio-founders-say-theyll-be-back-at-the-top-of-the-wishlists-in-interview-that-feels-barely-acquainted-with-reality)<!-- GAME:END -->
+ - [Super Mega Baseball 4 is a towering monument to the joy of the sport](https://www.polygon.com/reviews/23752424/super-mega-baseball-4-review-switch-xbox-ps4-players-stadiums)
+ - [Sega’s new Yakuza spinoff leaks, turns Kiryu into secret agent Spider-Man](https://www.polygon.com/23753734/sega-yakuza-like-a-dragon-gaiden-release-date)
+ - [Want to know what to do with your Diablo 4 legendary gear? Turn on this optional setting immediately](https://www.pcgamer.com/want-to-know-what-to-do-with-your-diablo-4-legendary-gear-turn-on-this-optional-setting-immediately)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
