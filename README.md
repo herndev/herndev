@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taunhiy Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753780/taunhiy-shrine-combat-training-archery-location-walkthrough)
- - [Never Miss Another Diablo IV World Boss Again With This Handy Tracker](https://kotaku.com/diablo-4-world-boss-tracker-find-spawn-ashava-avarice-1850518989)
- - [Sakunbomar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752974/sakunbomar-shrine-none-shall-pass-location-walkthrough)<!-- GAME:END -->
+ - [The Best Classes For Diablo IV Beginners, Whether You Want A Challenge Or Cakewalk](https://kotaku.com/diablo-4-best-builds-classes-necromancer-rogue-sorcerer-1850518023)
+ - [Video Game Conventions Are Still Hotbeds Of Sexualized Abuse](https://kotaku.com/video-game-conventions-summer-game-fest-pax-gdc-e3-1850518417)
+ - [Disney Card Game Gets Sued For Allegedly Copying Rival&#39;s Design](https://kotaku.com/disney-lorcana-lawsuit-sue-ravensburger-theft-court-tcg-1850519295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
