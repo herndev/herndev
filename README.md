@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Matt Rife... So hot right now](http://9gag.com/gag/aqezL5M)
- - ⏩ [RIP Bird](http://9gag.com/gag/aEqX1Xp)
- - 👉 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
+ - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - ⏩ [Title](http://9gag.com/gag/aKEYgON)
+ - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
 
 ---
 
