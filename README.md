@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp announces Channels, a one-to-many broadcast tool that is &quot;a private way to follow what matters&quot;, and plans to add payment services in the future &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230608/p9#a230608p9)
- - [Uber needs you to make greener choices so it can go carbon neutral by 2030](https://www.theverge.com/2023/6/8/23752721/uber-ev-uber-eats-takeout-containers-car-sharing)
- - [Google could skip an Android version for Android TV, Wear OS](https://www.androidauthority.com/google-skip-android-version-android-tv-wear-os-3333060/)<!-- TECH:END -->
+ - [Adobe opens up its Firefly generative AI model to businesses](https://www.theverge.com/2023/6/8/23753564/adobe-firefly-enterprise-generative-ai-express-commercial)
+ - [GoTo CEO Andre Soelistyo plans to leave, a surprise move just months after detailing a profitability plan, to be replaced by Northstar partner Patrick Walujo &lpar;Bloomberg&rpar;](http://www.techmeme.com/230608/p12#a230608p12)
+ - [UK Prime Minister Rishi Sunak plans to host an AI summit in the fall, saying the UK would be &quot;well-placed&quot; to convene discussions; attendees are unclear &lpar;Esther Webber/Politico&rpar;](http://www.techmeme.com/230608/p11#a230608p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
