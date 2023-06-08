@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digibee, a low-code service that helps enterprises build integration workflows, raised a $60M Series B led by Goldman Sachs, taking its total funding to $90M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230607/p37#a230607p37)
- - [Best USB microphones for content creators](https://appleinsider.com/inside/mac/best/best-usb-microphones?utm_medium=rss)
- - [Twitch walks back new branded content guidelines it released on June 6 and calls them &quot;bad&quot; for streamers and the company, after swift backlash from creators &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230607/p36#a230607p36)<!-- TECH:END -->
+ - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)
+ - [The Age of Flames Reaches the US East Coast](https://www.wired.com/story/the-age-of-flames-reaches-the-us-east-coast/)
+ - [Best Cellphone Deals: Snag Huge Savings On Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
