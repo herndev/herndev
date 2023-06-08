@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Oura Circles? The Oura Ring social feature for family and friends](https://www.androidauthority.com/oura-circles-3332965/)
- - [The European Commission approves &amp;euro;8B in state subsidies for chip research, added to &amp;euro;13.7B in private funding for &amp;euro;22B in total, as part of the EU&#39;s Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230608/p21#a230608p21)
- - [South Korean NGO Pscore details the limited online life of North Koreans, based on interviews and surveys, including a days-long approval process to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230608/p20#a230608p20)<!-- TECH:END -->
+ - [The Nothing Phone 2 could offer Pixel-like software](https://www.androidauthority.com/nothing-phone-2-google-pixel-software-3333161/)
+ - [The best new streaming shows this week on Netflix, Peacock, Apple, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Oura Ring users can now share sleep scores with friends](https://www.theverge.com/2023/6/8/23752876/oura-ring-social-circles-sleep-stage-algorithm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
