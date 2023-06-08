@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mega Baseball 4 is a towering monument to the joy of the sport](https://www.polygon.com/reviews/23752424/super-mega-baseball-4-review-switch-xbox-ps4-players-stadiums)
- - [Sega’s new Yakuza spinoff leaks, turns Kiryu into secret agent Spider-Man](https://www.polygon.com/23753734/sega-yakuza-like-a-dragon-gaiden-release-date)
- - [Want to know what to do with your Diablo 4 legendary gear? Turn on this optional setting immediately](https://www.pcgamer.com/want-to-know-what-to-do-with-your-diablo-4-legendary-gear-turn-on-this-optional-setting-immediately)<!-- GAME:END -->
+ - [Magic: The Gathering Fans Offered $1M For Unreleased LOTR Card](https://kotaku.com/lord-of-the-rings-mtg-the-one-ring-card-release-date-1850518705)
+ - [The best sci-fi and fantasy books of 2023 so far](https://www.polygon.com/23691206/best-fantasy-books-sci-fi-2023)
+ - [The best Legend of Zelda: Tears of the Kingdom memes](https://www.polygon.com/legend-zelda-tears-kingdom/23729930/totk-zelda-tears-of-the-kingdom-memes-torture-koroks-ultrahand-trucks-purah)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
