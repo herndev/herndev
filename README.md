@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Password Manager now has a dedicated home in Chrome](https://www.androidauthority.com/google-password-manager-chrome-update-3333017/)
- - [GuliKit KingKong 2 Pro review: Should you buy it?](https://www.androidauthority.com/gulikit-kingkong-2-pro-review-3331892/)
- - [Apple&#39;s M2 MacBook Air 15-inch gets a new preorder discount at Amazon](https://appleinsider.com/articles/23/06/08/apples-m2-macbook-air-15-inch-gets-a-new-preorder-discount-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [A Leaked Tesla Report Shows the Cybertruck Had Basic Design Flaws](https://www.wired.com/story/a-leaked-tesla-report-shows-the-cybertruck-had-basic-design-flaws/)
+ - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)
+ - [El Niño is here, and that usually means more wacky weather](https://www.theverge.com/2023/6/8/23753842/el-nino-weather-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
