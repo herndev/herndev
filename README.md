@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some software providers and startups are promoting AI-based monitoring tools at the workplace to combat burnout, reduce stress, and improve productivity &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/230608/p8#a230608p8)
- - [You could soon take phone calls on your Android TV device](https://www.androidauthority.com/android-tv-14-phone-calls-3333027/)
- - [ChatGPT on iOS gets improved iPad support and Shortcuts integration](https://www.theverge.com/2023/6/8/23753570/chatgpt-ipad-app-apple-shortcuts-support-openai)<!-- TECH:END -->
+ - [WhatsApp announces Channels, a one-to-many broadcast tool that is &quot;a private way to follow what matters&quot;, and plans to add payment services in the future &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230608/p9#a230608p9)
+ - [Uber needs you to make greener choices so it can go carbon neutral by 2030](https://www.theverge.com/2023/6/8/23752721/uber-ev-uber-eats-takeout-containers-car-sharing)
+ - [Google could skip an Android version for Android TV, Wear OS](https://www.androidauthority.com/google-skip-android-version-android-tv-wear-os-3333060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
