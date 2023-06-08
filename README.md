@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starship Troopers: Extermination is a 16-player co-op FTS/RTS hybrid with lots of promise](https://www.pcgamer.com/starship-troopers-extermination-is-a-16-player-co-op-ftsrts-hybrid-with-lots-of-promise)
- - [Simosiwak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23752970/simosiwak-shrine-location-proving-grounds-lights-out-walkthrough-totk)
- - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)<!-- GAME:END -->
+ - [If you&#39;re playing barbarian in Diablo 4, you really should try switching to controller](https://www.pcgamer.com/if-youre-playing-barbarian-in-diablo-4-you-really-should-try-switching-to-controller)
+ - [Streamer outrage forces Twitch to drop planned changes to branded ad rules](https://www.pcgamer.com/streamer-outrage-forces-twitch-to-drop-planned-changes-to-branded-ad-rules)
+ - [The Witcher community rallies around Geralt voice actor Doug Cockle after he reveals cancer diagnosis](https://www.pcgamer.com/the-witcher-community-rallies-around-geralt-voice-actor-doug-cockle-after-he-reveals-cancer-diagnosis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
