@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonic’s back with a new 2D side-scroller](https://www.theverge.com/23754423/sonic-superstars-trailer-summer-game-fest)
- - [What it’s like to wear the Dyson Zone around a NYC covered in wildfire smoke](https://www.theverge.com/23753850/dyson-zone-wildfire-nyc-experience)
- - [This is what Instagram’s upcoming Twitter competitor looks like](https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub)<!-- TECH:END -->
+ - [Hands on with Apple&#39;s new Pro Macs -- Mac Pro &amp; Mac Studio with M2 Ultra](https://appleinsider.com/articles/23/06/08/hands-on-with-apples-new-pro-macs----mac-pro-mac-studio-with-m2-ultra?utm_medium=rss)
+ - [Final Fantasy VII Rebirth will be released in early 2024](https://www.theverge.com/23753741/final-fantasy-7-rebirth-release-window-ps5-trailer)
+ - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
