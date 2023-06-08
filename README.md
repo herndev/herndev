@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
- - ⏩ [Future diplomat.](http://9gag.com/gag/a9qXPdm)
- - 👉 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
+ - 💣 [A joke in the 90s, &lpar;almost&rpar; reality nowadays](http://9gag.com/gag/a9qXYRK)
+ - ⏩ [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
+ - 👉 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 ---
 
