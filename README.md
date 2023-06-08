@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Building D&amp;D settings is so much less stressful with these brilliantly clever tabletop games](https://www.pcgamer.com/building-dandd-settings-is-so-much-less-stressful-with-these-brilliantly-clever-tabletop-games)
  - [Lords Mobile marches to PC in shiny new standalone form](https://www.pcgamer.com/lords-mobile-marches-to-pc-in-shiny-new-standalone-form)
- - [DrunkDeer A75](https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review)
- - [Mask of the Rose review](https://www.pcgamer.com/mask-of-the-rose-review)<!-- GAME:END -->
+ - [DrunkDeer A75](https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
