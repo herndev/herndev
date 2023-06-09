@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 💣 [Arasaka Aircraft Carrier](http://9gag.com/gag/adP27d2)
  - ⏩ [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
- - 👉 [On Left, Hero Henri who threw his bag at the culprit multiple times and saved lives. On Right, two guys laughing behind the news crew at the scene of the incident](http://9gag.com/gag/aGE215n)<!-- MEMES:END -->
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)<!-- MEMES:END -->
 
 ---
 
