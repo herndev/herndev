@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [240W USB-C PD chargers are nearly here, says Framework CEO](https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger)
- - [Reddit’s API updates: all the news about changes that have infuriated Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [League of Legends esports players who walked out reach agreement with Riot Games](https://www.theverge.com/2023/6/8/23754809/league-of-legends-esports-players-lcs-lcspa-nacl-walkout-agreement-summer)<!-- TECH:END -->
+ - [Granica, which helps data-centric AI companies optimize their cloud object storage in Amazon S3 and Google Cloud, raised $45M from NEA, Bain, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p40#a230608p40)
+ - [A group of about 120 Google contract workers from Accenture is seeking to unionize with the Alphabet Workers Union, saying Alphabet is a &quot;joint employer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230608/p39#a230608p39)
+ - [240W USB-C PD chargers are nearly here, says Framework CEO](https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
