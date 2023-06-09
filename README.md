@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney&#39;s Hotstar plans to offer free streaming of cricket tournaments in India on mobile devices, following JioCinema&#39;s recent success with a similar strategy &lpar;Reuters&rpar;](http://www.techmeme.com/230609/p9#a230609p9)
- - [macOS 14 feature roundup: Presenter Overlay, Reactions, widgets, more](https://appleinsider.com/articles/23/06/09/macos-14-feature-roundup-presenter-overlay-reactions-widgets-more?utm_medium=rss)
- - [First OnePlus and OPPO, now vivo cannot sell its phones in Germany](https://www.androidauthority.com/vivo-stops-phone-sales-germany-3333529/)<!-- TECH:END -->
+ - [The new Apple Silicon Mac Pro badly misses the mark for most of the target market](https://appleinsider.com/articles/23/06/09/the-new-apple-silicon-mac-pro-badly-misses-the-mark-for-most-of-the-target-market?utm_medium=rss)
+ - [In a shocking turn of events, Netflix subscriptions rise after password-sharing crackdown](https://www.theverge.com/2023/6/9/23755156/netflix-subscriber-increase-paid-password-sharing-crackdown)
+ - [Zuck thinks Vision Pro is for rich, lonely people](https://www.androidauthority.com/mark-zuckerberg-apple-vision-pro-3333561/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
