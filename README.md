@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google squeezed ‘topics’ suggestions into desktop search results](https://www.theverge.com/2023/6/9/23755397/google-search-topics-suggestions-desktop-search-results)
- - [Robinhood says it will end support for Solana, Polygon, and Cardano on June 27, following a review in light of the SEC lawsuits against Coinbase and Binance &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/230609/p12#a230609p12)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)<!-- TECH:END -->
+ - [Zuckerberg&#39;s Apple Vision Pro hot take just gave him a Ballmer iPhone moment](https://appleinsider.com/articles/23/06/09/zuckerbergs-apple-vision-pro-hot-take-just-gave-him-a-ballmer-iphone-moment?utm_medium=rss)
+ - [US DOJ unseals a 2019 indictment charging two Russians with stealing ~647K BTC in a Mt. Gox hack; one of them is also charged with conspiring to operate BTC-e &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230609/p14#a230609p14)
+ - [Feds charge two men for the $400 million Bitcoin hack that took down Mt. Gox](https://www.theverge.com/2023/6/9/23755376/mt-gox-bitcoin-hack-russians-charged)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
