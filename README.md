@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech plans to merge Astro and Blue Microphones into Logitech G and retire the Blue brand, saying &quot;the Blue name will be used to describe our technologies&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230609/p19#a230609p19)
- - [Deals: Apple&#39;s new 15-inch MacBook Air &amp; Mac Studio are up to $100 off, plus AppleCare savings](https://appleinsider.com/articles/23/06/09/deals-apples-new-15-inch-macbook-air-mac-studio-are-up-to-100-off-today?utm_medium=rss)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [In an AMA about Reddit&#39;s API changes, the company&#39;s CEO said Reddit can&#39;t &quot;subsidize commercial entities&quot;, criticized the Apollo developer&#39;s behavior, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230609/p21#a230609p21)
+ - [Kraken launches Kraken NFT, a marketplace with 250+ NFT collections across the Ethereum, Solana, and Polygon blockchains, after a beta started in November 2022 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230609/p20#a230609p20)
+ - [Logitech plans to merge Astro and Blue Microphones into Logitech G and retire the Blue brand, saying &quot;the Blue name will be used to describe our technologies&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230609/p19#a230609p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
