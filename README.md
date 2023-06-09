@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 Arrives Only on PS5 October 20, Collector’s &amp; Digital Deluxe Editions Detailed](https://blog.playstation.com/2023/06/08/20230608_spiderman2/)
- - [Every Summer Game Fest 2023 trailer and moment you should see](https://www.pcgamer.com/summer-game-fest-showcase-2023-recap)
- - [Baby Steps Is A Game About A &#39;Failson&#39; Who Cannot Walk](https://kotaku.com/baby-steps-qwop-indie-devolver-pc-ps5-new-trailer-1850521583)<!-- GAME:END -->
+ - [How to watch Ubisoft Forward 2023 and what will be there](https://www.polygon.com/23752912/ubisoft-forward-2023-date-schedule-lineup)
+ - [League Strike Called Off After Riot, Player&#39;s Union Reach Agreement](https://kotaku.com/league-legends-strike-walkout-union-lcspa-summer-split-1850521669)
+ - [&lpar;For Southeast Asia&rpar; “FINAL FANTASY VII REBIRTH” New Trailer Revealed!](https://blog.playstation.com/2023/06/08/20230608-ff7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
