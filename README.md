@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
- - ⏩ [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
- - 👉 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
+ - 💣 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
+ - ⏩ [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 👉 [When you only read half of the quran](http://9gag.com/gag/aeQ2egQ)<!-- MEMES:END -->
 
 ---
 
