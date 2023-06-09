@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - ⏩ [Shitty days...](http://9gag.com/gag/a04EYNX)
- - 👉 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
+ - ⏩ [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
+ - 👉 [On Left, Hero Henri who threw his bag at the culprit multiple times and saved lives. On Right, two guys laughing behind the news crew at the scene of the incident](http://9gag.com/gag/aGE215n)<!-- MEMES:END -->
 
 ---
 
