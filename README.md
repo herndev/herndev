@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find loopholes in Nvidia&#39;s NeMo Framework, which helps developers work with LLMs, letting them bypass safety restraints to reveal private data &lpar;Financial Times&rpar;](http://www.techmeme.com/230609/p11#a230609p11)
- - [You can finally buy a Matter smart lock](https://www.theverge.com/2023/6/8/23753915/matter-smart-lock-aqara-u100-apple-home-key)
- - [Ugh, Netflix saw growth after the password crackdown. You know what that means.](https://www.androidauthority.com/netflix-password-sharing-growth-3333583/)<!-- TECH:END -->
+ - [Google squeezed ‘topics’ suggestions into desktop search results](https://www.theverge.com/2023/6/9/23755397/google-search-topics-suggestions-desktop-search-results)
+ - [Robinhood says it will end support for Solana, Polygon, and Cardano on June 27, following a review in light of the SEC lawsuits against Coinbase and Binance &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/230609/p12#a230609p12)
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
