@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackpoint Cyber, which offers managed cybersecurity detection and response services, raised a $190M Series C led by Bain Capital with participation from Accel &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230608/p36#a230608p36)
- - [General Motors Follows Ford, Adopts Tesla Charging Standard For EVs     - CNET](https://www.cnet.com/news/general-motors-follows-ford-adopts-tesla-charging-standard-for-evs/#ftag=CAD590a51e)
- - [Devolver Digital’s showcase featured just four games, but they look like good ones](https://www.theverge.com/23751914/devolver-digital-showcase-2023-trailers-summer-game-fest-volvy)<!-- TECH:END -->
+ - [240W USB-C PD chargers are nearly here, says Framework CEO](https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger)
+ - [Reddit’s API updates: all the news about changes that have infuriated Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
+ - [League of Legends esports players who walked out reach agreement with Riot Games](https://www.theverge.com/2023/6/8/23754809/league-of-legends-esports-players-lcs-lcspa-nacl-walkout-agreement-summer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
