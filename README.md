@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kate Beckinsale](http://9gag.com/gag/aeQ2p4O)
- - ⏩ [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)
- - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
+ - 💣 [Laura Kraft Mac N\u2019 Cheese.](http://9gag.com/gag/aQE29Y2)
+ - ⏩ [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)
+ - 👉 [A Powerful Scene Of Humanity Plays Out As 200+ Brave South African firefighters landed in Edmonton, Canada to assist in the fight against the raging wildfire](http://9gag.com/gag/aZD2gNn)<!-- MEMES:END -->
 
 ---
 
