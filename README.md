@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 12 to 16](https://news.xbox.com/en-us/2023/06/09/next-week-on-xbox-new-games-for-june-12-to-16/)
- - [Fortnite Fans Mourn As Season 4 Vaults Chug Splash And Other Great Healing Items](https://kotaku.com/fortnite-chapter-4-season-3-servers-vaulted-augments-1850522513)
- - [How to watch the Xbox Games Showcase and Starfield Direct](https://www.polygon.com/23753181/xbox-showcase-2023-bethesda-starfield-direct-date-start-time)<!-- GAME:END -->
+ - [Call Of Duty Pulls Twitch Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)
+ - [Zuck points out that every Apple Vision Pro VR demo &#39;was a person sitting on a couch by themself&#39;](https://www.pcgamer.com/zuck-points-out-that-every-apple-vision-pro-vr-demo-was-a-person-sitting-on-a-couch-by-themself)
+ - [TSMC tells US workers to expect long shifts or find another job](https://www.pcgamer.com/tsmc-tells-us-workers-to-expect-long-shifts-or-find-another-job)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
