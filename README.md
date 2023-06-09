@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reject modernity, return to tradition](http://9gag.com/gag/adP2jXN)
- - ⏩ [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 👉 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
+ - 💣 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - ⏩ [Shitty days...](http://9gag.com/gag/a04EYNX)
+ - 👉 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
 
 ---
 
