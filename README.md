@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CCG company sues Disney&#39;s next big card game for alleged &#39;premeditated&#39; IP heist, asks court to block its release and throw the book at them](https://www.pcgamer.com/ccg-company-sues-disneys-next-big-card-game-for-alleged-premeditated-ip-heist-asks-court-to-block-its-release-and-throw-the-book-at-them)
- - [This cult classic Suda51 and Shinji Mikami collaboration is getting a remaster, and god willing it&#39;ll come to PC](https://www.pcgamer.com/this-cult-classic-suda51-and-shinji-mikami-collaboration-is-getting-a-remaster-and-god-willing-itll-come-to-pc)
- - [You can overhaul your Steam Deck controls with these drift-resistant Hall effect joysticks](https://www.pcgamer.com/you-can-overhaul-your-steam-deck-controls-with-these-drift-resistant-hall-effect-joysticks)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 12 to 16](https://news.xbox.com/en-us/2023/06/09/next-week-on-xbox-new-games-for-june-12-to-16/)
+ - [Fortnite Fans Mourn As Season 4 Vaults Chug Splash And Other Great Healing Items](https://kotaku.com/fortnite-chapter-4-season-3-servers-vaulted-augments-1850522513)
+ - [How to watch the Xbox Games Showcase and Starfield Direct](https://www.polygon.com/23753181/xbox-showcase-2023-bethesda-starfield-direct-date-start-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
