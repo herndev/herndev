@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is about to pull the plug on its main EV charging rival](https://www.theverge.com/2023/6/9/23755184/tesla-ev-charging-standard-nacs-ccs-gm-ford)
- - [A US federal judge rules Apple and Amazon must face an antitrust lawsuit accusing them of conspiring to inflate iPhone and iPad prices on Amazon&#39;s website &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230609/p16#a230609p16)
- - [Where to preorder the new Mac Pro, Mac Studio, and 15-inch MacBook Air](https://www.theverge.com/23735132/apple-macbook-air-15-mac-pro-studio-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
+ - [Sources: Microsoft is moving top AI researchers from Beijing to Vancouver in part to stop Chinese companies from poaching them, amid US-China political tensions &lpar;Financial Times&rpar;](http://www.techmeme.com/230609/p17#a230609p17)
+ - [The best Google Pixel deals of June 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Bing’s chatbot now lets you ask questions with your voice on desktop](https://www.theverge.com/2023/6/9/23755754/bing-voice-chat-desktop-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
