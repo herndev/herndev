@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fr tho, his wife is really a b*tch](http://9gag.com/gag/a6qpVMm)
- - ⏩ [I live in land where we respect others opinions, but man I think is enough. - I gathered courage and confronted.](http://9gag.com/gag/aDYXxdN)
- - 👉 [Just a recommendation](http://9gag.com/gag/aGE2jjw)<!-- MEMES:END -->
+ - 💣 [Cap?](http://9gag.com/gag/aA0Xd1R)
+ - ⏩ [Thank You 9GAG...](http://9gag.com/gag/aL1XjzW)
+ - 👉 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
 
 ---
 
