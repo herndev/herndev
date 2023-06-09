@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
- - ⏩ [`Battle Royale` actor and left-wing populist Reiwa party leader Taro Yamamoto tried to climb over lawmakers to stop the passing of an anti-refugee law through Japan&#39;s Upper House](http://9gag.com/gag/a5Xjbvg)
+ - 💣 [Kate Beckinsale](http://9gag.com/gag/aeQ2p4O)
+ - ⏩ [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)
  - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
 
 ---
