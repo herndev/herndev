@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, New Storage, And New Announcements](https://news.xbox.com/en-us/2023/06/09/this-week-on-xbox-new-games-new-storage-and-new-announcements/)
- - [Spider-Man 2’s Venom isn’t Eddie Brock — so who is he?](https://www.polygon.com/23755729/spider-man-2-venom-eddie-brock-theories)
- - [Ga-ahisas Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733512/ga-ahisas-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [All the best and wildest Final Fantasy 7 Rebirth theories](https://www.polygon.com/23755776/ff7-final-fantasy-7-rebirth-remake-part-2-theories-timeline-tifa)
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
