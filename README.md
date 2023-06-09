@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawsuit that claims Apple and Amazon elbowed out resellers will proceed](https://appleinsider.com/articles/23/06/09/lawsuit-that-claims-apple-and-amazon-elbowed-out-resellers-will-proceed?utm_medium=rss)
- - [Google Chrome’s password manager adds biometric unlocking on desktop](https://www.theverge.com/2023/6/9/23755136/google-chrome-password-manager-biometric-unlocking-desktop)
- - [Wildfire smoke is getting worse for everyone, especially disadvantaged groups](https://www.theverge.com/23755349/wildfire-smoke-pollution-disadvantaged-communities-study-united-states)<!-- TECH:END -->
+ - [Tesla is about to pull the plug on its main EV charging rival](https://www.theverge.com/2023/6/9/23755184/tesla-ev-charging-standard-nacs-ccs-gm-ford)
+ - [A US federal judge rules Apple and Amazon must face an antitrust lawsuit accusing them of conspiring to inflate iPhone and iPad prices on Amazon&#39;s website &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230609/p16#a230609p16)
+ - [Where to preorder the new Mac Pro, Mac Studio, and 15-inch MacBook Air](https://www.theverge.com/23735132/apple-macbook-air-15-mac-pro-studio-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
