@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shitty days...](http://9gag.com/gag/a04EYNX)
- - ⏩ [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
- - 👉 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
+ - 💣 [A joke in the 90s, &lpar;almost&rpar; reality nowadays](http://9gag.com/gag/a9qXYRK)
+ - ⏩ [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
+ - 👉 [Hot can&#39;t be cute](http://9gag.com/gag/aRE2m0M)<!-- MEMES:END -->
 
 ---
 
