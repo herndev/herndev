@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
- - ⏩ [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
+ - 💣 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)
+ - ⏩ [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
+ - 👉 [.....................](http://9gag.com/gag/awZ4KQW)<!-- MEMES:END -->
 
 ---
 
