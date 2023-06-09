@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)
- - ⏩ [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
- - 👉 [Modern pirates of Africa](http://9gag.com/gag/az2ZrDZ)<!-- MEMES:END -->
+ - 💣 [Reject modernity, return to tradition](http://9gag.com/gag/adP2jXN)
+ - ⏩ [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 👉 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
 
 ---
 
