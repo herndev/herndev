@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam asks Foxconn, others, to reduce electricity use as power cuts loom](https://appleinsider.com/articles/23/06/09/vietnam-asks-foxconn-others-to-reduce-electricity-use-as-power-cuts-loom?utm_medium=rss)
- - [Spotify is testing a new feature called Your Offline Mix, which will automatically save a mix of users&#39; recently played songs for offline listening &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230609/p6#a230609p6)
- - [We asked, you told us: You really really want a new NVIDIA Shield TV](https://www.androidauthority.com/want-new-nvidia-shield-tv-poll-results-3333485/)<!-- TECH:END -->
+ - [Disney&#39;s Hotstar plans to offer free streaming of cricket tournaments in India on mobile devices, following JioCinema&#39;s recent success with a similar strategy &lpar;Reuters&rpar;](http://www.techmeme.com/230609/p9#a230609p9)
+ - [macOS 14 feature roundup: Presenter Overlay, Reactions, widgets, more](https://appleinsider.com/articles/23/06/09/macos-14-feature-roundup-presenter-overlay-reactions-widgets-more?utm_medium=rss)
+ - [First OnePlus and OPPO, now vivo cannot sell its phones in Germany](https://www.androidauthority.com/vivo-stops-phone-sales-germany-3333529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
