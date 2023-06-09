@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arasaka Aircraft Carrier](http://9gag.com/gag/adP27d2)
- - ⏩ [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)<!-- MEMES:END -->
+ - 💣 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
+ - ⏩ [`Battle Royale` actor and left-wing populist Reiwa party leader Taro Yamamoto tried to climb over lawmakers to stop the passing of an anti-refugee law through Japan&#39;s Upper House](http://9gag.com/gag/a5Xjbvg)
+ - 👉 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
 
 ---
 
