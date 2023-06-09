@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 remake and Persona 5 tactics game revealed by Atlus](https://www.polygon.com/23754702/persona-3-remake-reload-persona-5-tactica-atlus)
- - [The best elixirs in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736509/best-elixirs)
- - [The best recipes in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751220/best-recipes-how-to-make-pizza)<!-- GAME:END -->
+ - [Persona 5 Tactics, Persona 3 Remake Trailers Leak](https://kotaku.com/persona-5-tactica-3-reload-new-tactics-remake-atlus-p5-1850521353)
+ - [Sonic Superstars brings back classic gameplay and Sonic’s original designer](https://www.polygon.com/23754681/new-sonic-the-hedgehog-game-superstars)
+ - [Our 5 favorite games to wishlist from Day of the Devs 2023](https://www.pcgamer.com/our-5-favorite-games-to-wishlist-from-day-of-the-devs-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
