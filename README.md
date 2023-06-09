@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Tesla documents shed new light on why the Cybertruck is taking so long](https://www.theverge.com/2023/6/9/23755074/tesla-cybertruck-development-difficulties-wired-report-prototype-delay-braking-suspension)
- - [A US judge rejects a request to relinquish control over $7.3B in disputed FTX assets; liquidators in the Bahamas argued a local judge should oversee the process &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/230609/p3#a230609p3)
- - [Aided by $14B+ in subsidies, a look at Japan&#39;s expanding chip sector, including TSMC&#39;s plant in Kumamoto, which has been hampered by terrible roads and traffic &lpar;Bloomberg&rpar;](http://www.techmeme.com/230609/p2#a230609p2)<!-- TECH:END -->
+ - [Barracuda asked its Email Security Gateway customers on June 6 to replace infected appliances immediately, after patching a zero-day vulnerability on May 20 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230609/p5#a230609p5)
+ - [After the SEC&#39;s recent actions and failures of FTX, Celsius, and Luna, Republican lawmakers proposing a crypto market bill is a jarring gift to the industry &lpar;Hilary Allen/Financial Times&rpar;](http://www.techmeme.com/230609/p4#a230609p4)
+ - [OpenAI sued for defamation after ChatGPT fabricates legal accusations against radio host](https://www.theverge.com/2023/6/9/23755057/openai-chatgpt-false-information-defamation-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
