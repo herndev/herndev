@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This cult classic Suda51 and Shinji Mikami collaboration is getting a remaster, and god willing it&#39;ll come to PC](https://www.pcgamer.com/this-cult-classic-suda51-and-shinji-mikami-collaboration-is-getting-a-remaster-and-god-willing-itll-come-to-pc)
  - [You can overhaul your Steam Deck controls with these drift-resistant Hall effect joysticks](https://www.pcgamer.com/you-can-overhaul-your-steam-deck-controls-with-these-drift-resistant-hall-effect-joysticks)
- - [Today&#39;s Wordle hint and answer #720: Friday, June 9](https://www.pcgamer.com/wordle-answer-today-hint-720-june-9)
- - [Activision removes Nickmercs&#39; Call of Duty skin over anti-LGBTQ+ tweet](https://www.pcgamer.com/activision-removes-nickmercs-call-of-duty-skin-over-anti-lgbtq-tweet)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #720: Friday, June 9](https://www.pcgamer.com/wordle-answer-today-hint-720-june-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
