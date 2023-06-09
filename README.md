@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barracuda asked its Email Security Gateway customers on June 6 to replace infected appliances immediately, after patching a zero-day vulnerability on May 20 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230609/p5#a230609p5)
- - [After the SEC&#39;s recent actions and failures of FTX, Celsius, and Luna, Republican lawmakers proposing a crypto market bill is a jarring gift to the industry &lpar;Hilary Allen/Financial Times&rpar;](http://www.techmeme.com/230609/p4#a230609p4)
- - [OpenAI sued for defamation after ChatGPT fabricates legal accusations against radio host](https://www.theverge.com/2023/6/9/23755057/openai-chatgpt-false-information-defamation-lawsuit)<!-- TECH:END -->
+ - [Vietnam asks Foxconn, others, to reduce electricity use as power cuts loom](https://appleinsider.com/articles/23/06/09/vietnam-asks-foxconn-others-to-reduce-electricity-use-as-power-cuts-loom?utm_medium=rss)
+ - [Spotify is testing a new feature called Your Offline Mix, which will automatically save a mix of users&#39; recently played songs for offline listening &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230609/p6#a230609p6)
+ - [We asked, you told us: You really really want a new NVIDIA Shield TV](https://www.androidauthority.com/want-new-nvidia-shield-tv-poll-results-3333485/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
