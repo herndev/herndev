@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A joke in the 90s, &lpar;almost&rpar; reality nowadays](http://9gag.com/gag/a9qXYRK)
- - ⏩ [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 👉 [Hot can&#39;t be cute](http://9gag.com/gag/aRE2m0M)<!-- MEMES:END -->
+ - 💣 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)
+ - ⏩ [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
+ - 👉 [Modern pirates of Africa](http://9gag.com/gag/az2ZrDZ)<!-- MEMES:END -->
 
 ---
 
