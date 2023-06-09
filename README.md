@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank You 9GAG...](http://9gag.com/gag/aL1XjzW)
- - ⏩ [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
- - 👉 [I want this t-shirt!](http://9gag.com/gag/aoK89YX)<!-- MEMES:END -->
+ - 💣 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
+ - ⏩ [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
+ - 👉 [Obi-wan&#39;s nightmares](http://9gag.com/gag/aQE23BW)<!-- MEMES:END -->
 
 ---
 
