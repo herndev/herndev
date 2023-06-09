@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
- - ⏩ [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - 👉 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
+ - 💣 [Fr tho, his wife is really a b*tch](http://9gag.com/gag/a6qpVMm)
+ - ⏩ [I live in land where we respect others opinions, but man I think is enough. - I gathered courage and confronted.](http://9gag.com/gag/aDYXxdN)
+ - 👉 [Just a recommendation](http://9gag.com/gag/aGE2jjw)<!-- MEMES:END -->
 
 ---
 
