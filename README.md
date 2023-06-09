@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Tactics, Persona 3 Remake Trailers Leak](https://kotaku.com/persona-5-tactica-3-reload-new-tactics-remake-atlus-p5-1850521353)
- - [Sonic Superstars brings back classic gameplay and Sonic’s original designer](https://www.polygon.com/23754681/new-sonic-the-hedgehog-game-superstars)
- - [Our 5 favorite games to wishlist from Day of the Devs 2023](https://www.pcgamer.com/our-5-favorite-games-to-wishlist-from-day-of-the-devs-2023)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 Arrives Only on PS5 October 20, Collector’s &amp; Digital Deluxe Editions Detailed](https://blog.playstation.com/2023/06/08/20230608_spiderman2/)
+ - [Every Summer Game Fest 2023 trailer and moment you should see](https://www.pcgamer.com/summer-game-fest-showcase-2023-recap)
+ - [Baby Steps Is A Game About A &#39;Failson&#39; Who Cannot Walk](https://kotaku.com/baby-steps-qwop-indie-devolver-pc-ps5-new-trailer-1850521583)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
