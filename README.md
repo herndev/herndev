@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)
- - ⏩ [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
- - 👉 [.....................](http://9gag.com/gag/awZ4KQW)<!-- MEMES:END -->
+ - 💣 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - ⏩ [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
+ - 👉 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)<!-- MEMES:END -->
 
 ---
 
