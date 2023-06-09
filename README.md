@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy e-bikes, now with built-in Google Maps](https://www.theverge.com/2023/6/9/23755055/cowboy-google-maps-navigation-app-update)
- - [Instagram’s Twitter rival will be ‘sanely run,’ and here’s what it looks like](https://www.androidauthority.com/instagram-threads-twitter-rival-screenshots-3333437/)
- - [A database on Microsoft&#39;s Xandr containing 650K+ &quot;audience segments&quot; shows how data brokers classify consumers by surveilling their online and offline activity &lpar;The Markup&rpar;](http://www.techmeme.com/230609/p1#a230609p1)<!-- TECH:END -->
+ - [Leaked Tesla documents shed new light on why the Cybertruck is taking so long](https://www.theverge.com/2023/6/9/23755074/tesla-cybertruck-development-difficulties-wired-report-prototype-delay-braking-suspension)
+ - [A US judge rejects a request to relinquish control over $7.3B in disputed FTX assets; liquidators in the Bahamas argued a local judge should oversee the process &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/230609/p3#a230609p3)
+ - [Aided by $14B+ in subsidies, a look at Japan&#39;s expanding chip sector, including TSMC&#39;s plant in Kumamoto, which has been hampered by terrible roads and traffic &lpar;Bloomberg&rpar;](http://www.techmeme.com/230609/p2#a230609p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
