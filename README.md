@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DocuSign reports Q1 revenue up 12% YoY to $661.4M, vs. $642M est., subscription revenue up 12% YoY, and net profit of $539K, vs. a $27.4M net loss a year ago &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230608/p41#a230608p41)
- - [Granica, which helps data-centric AI companies optimize their cloud object storage in Amazon S3 and Google Cloud, raised $45M from NEA, Bain, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p40#a230608p40)
- - [A group of about 120 Google contract workers from Accenture is seeking to unionize with the Alphabet Workers Union, saying Alphabet is a &quot;joint employer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230608/p39#a230608p39)<!-- TECH:END -->
+ - [Binance.US suspends USD deposits and notifies customers that their banking partners are preparing to pause fiat withdrawal channels as early as June 13 &lpar;Rahat Sandhu/Reuters&rpar;](http://www.techmeme.com/230608/p42#a230608p42)
+ - [Deals: Apple&#39;s new 15-inch MacBook Air &amp; Mac Studio are up to $100 off today](https://appleinsider.com/articles/23/06/09/deals-apples-new-15-inch-macbook-air-mac-studio-are-up-to-100-off-today?utm_medium=rss)
+ - [Renewed vs refurbished: What’s the difference?](https://www.androidauthority.com/renewed-vs-refurbished-3333346/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
