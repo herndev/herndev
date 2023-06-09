@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Data Shows Most Switch Owners Are Women, Gamers React Poorly](https://kotaku.com/half-gamers-women-switch-ps5-xbox-pc-owners-girls-stats-1850524629)
- - [Survival Horror Alan Wake 2 Could Be Max Payne Developer Remedy’s Best Yet](https://kotaku.com/alan-wake-2-gameplay-demo-imdb-summer-game-fest-1850524419)
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)<!-- GAME:END -->
+ - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)
+ - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say [Update]](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)
+ - [Avatar: The Way of Water, Living on Netflix, Fast X, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/9/23749330/new-movies-watch-avatar-2-way-of-water-netflix-living-fast-x-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
