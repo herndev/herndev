@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cap?](http://9gag.com/gag/aA0Xd1R)
- - ⏩ [Thank You 9GAG...](http://9gag.com/gag/aL1XjzW)
- - 👉 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
+ - 💣 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)
+ - ⏩ [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
+ - 👉 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
 
 ---
 
