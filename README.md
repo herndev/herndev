@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US suspends USD deposits and notifies customers that their banking partners are preparing to pause fiat withdrawal channels as early as June 13 &lpar;Rahat Sandhu/Reuters&rpar;](http://www.techmeme.com/230608/p42#a230608p42)
- - [Deals: Apple&#39;s new 15-inch MacBook Air &amp; Mac Studio are up to $100 off today](https://appleinsider.com/articles/23/06/09/deals-apples-new-15-inch-macbook-air-mac-studio-are-up-to-100-off-today?utm_medium=rss)
- - [Renewed vs refurbished: What’s the difference?](https://www.androidauthority.com/renewed-vs-refurbished-3333346/)<!-- TECH:END -->
+ - [Reddit app Apollo will officially shut down June 30 &lpar;Update: more apps&rpar;](https://www.androidauthority.com/apollo-reddit-shutdown-3333254/)
+ - [Asus confirms that the Zenfone 10 will remain a compact flagship](https://www.androidauthority.com/asus-zenfone-10-screen-3333394/)
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
