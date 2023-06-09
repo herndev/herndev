@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pros Permabanned From Ever Playing After Protesting Tourney](https://kotaku.com/pokemon-pros-permabanned-from-ever-playing-after-protes-1850523555)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [One Of The Best Albums This Year Is Secretly About Red Dead Redemption 2](https://kotaku.com/red-dead-redemption-2-map-rdr2-two-discs-indie-music-1850523902)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, New Storage, And New Announcements](https://news.xbox.com/en-us/2023/06/09/this-week-on-xbox-new-games-new-storage-and-new-announcements/)
+ - [Spider-Man 2’s Venom isn’t Eddie Brock — so who is he?](https://www.polygon.com/23755729/spider-man-2-venom-eddie-brock-theories)
+ - [Ga-ahisas Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733512/ga-ahisas-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
