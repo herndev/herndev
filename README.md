@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Photos can now “facially” recognize you from behind &lpar;Updated&rpar;](https://www.androidauthority.com/google-photos-facial-recognition-back-3333108/)
- - [Tesla’s Supercharger Strategy Starts a Winning Streak](https://www.wired.com/story/teslas-supercharger-strategy/)
- - [How to Check the Air Quality Near You](https://www.wired.com/story/how-to-check-air-quality-index-apps/)<!-- TECH:END -->
+ - [Lawsuit that claims Apple and Amazon elbowed out resellers will proceed](https://appleinsider.com/articles/23/06/09/lawsuit-that-claims-apple-and-amazon-elbowed-out-resellers-will-proceed?utm_medium=rss)
+ - [Google Chrome’s password manager adds biometric unlocking on desktop](https://www.theverge.com/2023/6/9/23755136/google-chrome-password-manager-biometric-unlocking-desktop)
+ - [Wildfire smoke is getting worse for everyone, especially disadvantaged groups](https://www.theverge.com/23755349/wildfire-smoke-pollution-disadvantaged-communities-study-united-states)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
