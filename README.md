@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laura Kraft Mac N\u2019 Cheese.](http://9gag.com/gag/aQE29Y2)
- - ⏩ [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)
- - 👉 [A Powerful Scene Of Humanity Plays Out As 200+ Brave South African firefighters landed in Edmonton, Canada to assist in the fight against the raging wildfire](http://9gag.com/gag/aZD2gNn)<!-- MEMES:END -->
+ - 💣 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - ⏩ [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
+ - 👉 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
 
 ---
 
