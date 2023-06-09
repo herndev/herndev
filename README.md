@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)
- - ⏩ [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
- - 👉 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
+ - 💣 [Thank You 9GAG...](http://9gag.com/gag/aL1XjzW)
+ - ⏩ [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
+ - 👉 [I want this t-shirt!](http://9gag.com/gag/aoK89YX)<!-- MEMES:END -->
 
 ---
 
