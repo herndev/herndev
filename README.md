@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - ⏩ [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
- - 👉 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)<!-- MEMES:END -->
+ - 💣 [Shitty days...](http://9gag.com/gag/a04EYNX)
+ - ⏩ [Nor-way this happened by accident](http://9gag.com/gag/aBdX8P1)
+ - 👉 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)<!-- MEMES:END -->
 
 ---
 
