@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 💣 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
  - ⏩ [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 👉 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)<!-- MEMES:END -->
+ - 👉 [Modern pirates of Africa](http://9gag.com/gag/az2ZrDZ)<!-- MEMES:END -->
 
 ---
 
