@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [All the best and wildest Final Fantasy 7 Rebirth theories](https://www.polygon.com/23755776/ff7-final-fantasy-7-rebirth-remake-part-2-theories-timeline-tifa)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
+ - [Data Shows Most Switch Owners Are Women, Gamers React Poorly](https://kotaku.com/half-gamers-women-switch-ps5-xbox-pc-owners-girls-stats-1850524629)
+ - [Survival Horror Alan Wake 2 Could Be Max Payne Developer Remedy’s Best Yet](https://kotaku.com/alan-wake-2-gameplay-demo-imdb-summer-game-fest-1850524419)
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
