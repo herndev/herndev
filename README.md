@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 4 Season 3 battle pass skins list, including Era, Rian, and Optimus Prime](https://www.polygon.com/fortnite-guide/23755442/chapter-4-season-3-battle-pass-skins-era-trace-rian-optimus-prime-relik-mariposa-lorenzo-styles)
- - [I&#39;m worried Diablo 4&#39;s open world is only there to sell me stuff](https://www.pcgamer.com/diablo-4-open-world-microtransactions)
- - [Top Pokémon pros organise finger-wagging protest at badly-run Pokémon tournament, so the organisers just up and disqualify them](https://www.pcgamer.com/top-pokemon-pros-organise-finger-wagging-protest-at-badly-run-pokemon-tournament-so-the-organisers-just-up-and-disqualify-them)<!-- GAME:END -->
+ - [All the inspired indie games shown at Day of the Devs](https://www.polygon.com/23755197/day-of-the-devs-2023-announcements-indie-game-showcase)
+ - [Mortal Kombat 1’s first gameplay was full of great details](https://www.polygon.com/23755383/mortal-kombat-1-gameplay-trailer-breakdown-kameo-fighters)
+ - [43 Games Have Already Been Killed, And 2023 Ain’t Over Yet [Updates]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
