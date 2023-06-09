@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)
- - [When will Purradise Meowscles be released in Fortnite?](https://www.polygon.com/fortnite-guide/23755357/purradise-meowscles-release-date-quests-rewards-cosmetics)
- - [Is PC hardware &#39;leak&#39; culture out of control?](https://www.pcgamer.com/is-pc-hardware-leak-culture-out-of-control)<!-- GAME:END -->
+ - [Fortnite Chapter 4 Season 3 battle pass skins list, including Era, Rian, and Optimus Prime](https://www.polygon.com/fortnite-guide/23755442/chapter-4-season-3-battle-pass-skins-era-trace-rian-optimus-prime-relik-mariposa-lorenzo-styles)
+ - [I&#39;m worried Diablo 4&#39;s open world is only there to sell me stuff](https://www.pcgamer.com/diablo-4-open-world-microtransactions)
+ - [Top Pokémon pros organise finger-wagging protest at badly-run Pokémon tournament, so the organisers just up and disqualify them](https://www.pcgamer.com/top-pokemon-pros-organise-finger-wagging-protest-at-badly-run-pokemon-tournament-so-the-organisers-just-up-and-disqualify-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
