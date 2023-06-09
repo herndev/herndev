@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Pulls Twitch Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)
- - [Zuck points out that every Apple Vision Pro VR demo &#39;was a person sitting on a couch by themself&#39;](https://www.pcgamer.com/zuck-points-out-that-every-apple-vision-pro-vr-demo-was-a-person-sitting-on-a-couch-by-themself)
- - [TSMC tells US workers to expect long shifts or find another job](https://www.pcgamer.com/tsmc-tells-us-workers-to-expect-long-shifts-or-find-another-job)<!-- GAME:END -->
+ - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)
+ - [When will Purradise Meowscles be released in Fortnite?](https://www.polygon.com/fortnite-guide/23755357/purradise-meowscles-release-date-quests-rewards-cosmetics)
+ - [Is PC hardware &#39;leak&#39; culture out of control?](https://www.pcgamer.com/is-pc-hardware-leak-culture-out-of-control)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
