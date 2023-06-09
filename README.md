@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [CCG company sues Disney&#39;s next big card game for alleged &#39;premeditated&#39; IP heist, asks court to block its release and throw the book at them](https://www.pcgamer.com/ccg-company-sues-disneys-next-big-card-game-for-alleged-premeditated-ip-heist-asks-court-to-block-its-release-and-throw-the-book-at-them)
  - [This cult classic Suda51 and Shinji Mikami collaboration is getting a remaster, and god willing it&#39;ll come to PC](https://www.pcgamer.com/this-cult-classic-suda51-and-shinji-mikami-collaboration-is-getting-a-remaster-and-god-willing-itll-come-to-pc)
- - [You can overhaul your Steam Deck controls with these drift-resistant Hall effect joysticks](https://www.pcgamer.com/you-can-overhaul-your-steam-deck-controls-with-these-drift-resistant-hall-effect-joysticks)
- - [Today&#39;s Wordle hint and answer #720: Friday, June 9](https://www.pcgamer.com/wordle-answer-today-hint-720-june-9)<!-- GAME:END -->
+ - [You can overhaul your Steam Deck controls with these drift-resistant Hall effect joysticks](https://www.pcgamer.com/you-can-overhaul-your-steam-deck-controls-with-these-drift-resistant-hall-effect-joysticks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
