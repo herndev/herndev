@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
- - [Samsung’s 49-inch ultrawide OLED gaming monitor is probably as costly as your PC](https://www.theverge.com/2023/6/12/23757776/samsung-qd-oled-odyssey-g9-curved-gaming-monitor-price-release-date)
- - [Apple MacBook Air 15-inch review: exactly what was asked for](https://www.theverge.com/23757441/apple-macbook-air-15-inch-2023-review)<!-- TECH:END -->
+ - [macOS Sonoma beta review: Few major updates, but very welcome](https://appleinsider.com/articles/23/06/12/macos-sonoma-beta-review-few-major-updates-but-very-welcome?utm_medium=rss)
+ - [A writer who learned to code after losing his job reflects on AI chatbots, which repackage ideas and lack lateral thinking, and why humans are irreplaceable &lpar;Tristan Cross/The Guardian&rpar;](http://www.techmeme.com/230612/p16#a230612p16)
+ - [15-inch MacBook Air review roundup: Big screen, big value](https://appleinsider.com/articles/23/06/12/15-inch-macbook-air-review-roundup-big-screen-big-value?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
