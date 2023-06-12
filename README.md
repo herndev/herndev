@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
- - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 👉 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
+ - 💣 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
+ - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
 
 ---
 
