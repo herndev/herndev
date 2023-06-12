@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 👉 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
+ - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 👉 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
 
 ---
 
