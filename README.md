@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
- - ⏩ [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
- - 👉 [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)<!-- MEMES:END -->
+ - 💣 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - ⏩ [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
+ - 👉 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
 
 ---
 
