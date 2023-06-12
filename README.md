@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - ⏩ [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
- - 👉 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
+ - 💣 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 👉 [Those damn onions!](http://9gag.com/gag/avQvQ7b)<!-- MEMES:END -->
 
 ---
 
