@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [By capitalizing on crypto lending services&#39; high interest rate promises, 3AC&#39;s founders played the bubble perfectly, getting rich as 3AC&#39;s lenders went bankrupt &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230612/p26#a230612p26)
- - [&#39;Assassin&#39;s Creed Codename Jade&#39; opens registration for closed betas ahead of launch](https://appleinsider.com/articles/23/06/12/assassins-creed-codename-jade-opens-registration-for-closed-betas-ahead-of-launch?utm_medium=rss)
- - [Google’s Pixel 8 series will again put the best cameras on the biggest phone](https://www.theverge.com/2023/6/12/23758308/google-pixel-8-pro-camera-specs-leaked)<!-- TECH:END -->
+ - [Apple share price closes at an all-time record high thanks to Vision Pro speculation](https://appleinsider.com/articles/23/06/12/apple-share-price-closes-at-an-all-time-record-high-thanks-to-vision-pro-speculation?utm_medium=rss)
+ - [FTC files to block Microsoft from buying Activision Blizzard](https://www.theverge.com/2023/6/12/23758194/ftc-microsoft-activision-blizzard-complaint-block-acquisition-call-of-duty)
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
