@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, OpenAI, and Microsoft haven&#39;t rolled out their AI chatbots in Hong Kong, adding to a slow creep of tech companies treating the city like mainland China &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230612/p3#a230612p3)
- - [Apple is already working on two headsets after the Vision Pro](https://www.androidauthority.com/apple-vision-pro-two-headsets-3333855/)
- - [A tech reporter on why he bought a 2023 World Book Encyclopedia printed set: nostalgia, permanence, and no AI or human tampering, link rot, or stealth edits &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230612/p2#a230612p2)<!-- TECH:END -->
+ - [South Korean prosecutors say an ex-Samsung executive allegedly stole blueprints and designs in 2018 and 2019 to replicate an entire chip plant in China &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/230612/p6#a230612p6)
+ - [HSBC rebrands SVB UK as HSBC Innovation Banking and adds teams in the US, Israel, and Hong Kong to serve startups, investors, and other tech clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p5#a230612p5)
+ - [Microsoft Gaming CEO Phil Spencer says he does not &quot;feel an imperative&quot; from users to release a major Xbox upgrade, preferring instead the &quot;hardware we have&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230612/p4#a230612p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
