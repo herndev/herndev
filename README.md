@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Philip Rosedale, who launched the online world Second Life in 2003 and says his vision predates Neal Stephenson&#39;s 1992 coinage of &quot;metaverse&quot; &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/230612/p1#a230612p1)
- - [Reddit not working today? It’s a protest, and here’s what you need to know](https://www.androidauthority.com/reddit-protest-3333714/)
- - [Best Cellphone Plans of 2023: Our Top Picks for June     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [vivo cannot sell its phones in this European market &lpar;Update: Statement&rpar;](https://www.androidauthority.com/vivo-stops-phone-sales-germany-3333529/)
+ - [A tech reporter on why he bought a 2023 World Book Encyclopedia printed set: nostalgia, permanence, and no AI or human tampering, link rot, or stealth edits &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230612/p2#a230612p2)
+ - [RCS is about to get better on AT&amp;T, thanks to Google](https://www.androidauthority.com/att-rcs-google-jibe-3332304/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
