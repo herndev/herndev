@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trying to shape AI tech to protect jobs is a bad idea since no one can predict which technologies will augment humans and which will simply replace their labor &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230611/p15#a230611p15)
- - [Meta launches MusicGen, an open-source AI model that can generate short pieces of music using text prompts that can optionally be aligned to an existing melody &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/230611/p14#a230611p14)
- - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Philip Rosedale, who launched the online world Second Life in 2003 and says his vision predates Neal Stephenson&#39;s 1992 coinage of &quot;metaverse&quot; &lpar;Simon Parkin/The Guardian&rpar;](http://www.techmeme.com/230612/p1#a230612p1)
+ - [Reddit not working today? It’s a protest, and here’s what you need to know](https://www.androidauthority.com/reddit-protest-3333714/)
+ - [Best Cellphone Plans of 2023: Our Top Picks for June     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
