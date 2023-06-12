@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
- - ⏩ [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - 👉 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
+ - 💣 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - ⏩ [Quite the foresight...](http://9gag.com/gag/abv2Gm8)
+ - 👉 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
 
 ---
 
