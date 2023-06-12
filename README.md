@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comment your collection](http://9gag.com/gag/aGE2dr7)
- - ⏩ [Quite the foresight...](http://9gag.com/gag/abv2Gm8)
- - 👉 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
+ - 💣 [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)
+ - ⏩ [Those damn onions!](http://9gag.com/gag/avQvQ7b)
+ - 👉 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
 
 ---
 
