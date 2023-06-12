@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
- - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
- - 👉 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)<!-- MEMES:END -->
+ - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - 👉 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
 
 ---
 
