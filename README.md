@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)
- - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say [Update]](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)
- - [Avatar: The Way of Water, Living on Netflix, Fast X, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/9/23749330/new-movies-watch-avatar-2-way-of-water-netflix-living-fast-x-streaming)<!-- GAME:END -->
+ - [Final Fantasy XVI demo launches tomorrow](https://blog.playstation.com/2023/06/11/final-fantasy-xvi-demo-launches-tomorrow/)
+ - [Starfield Direct recap: sandwich heists, cowboy towns, space magic, and other things we learned](https://www.pcgamer.com/starfield-direct-recap-sandwich-heists-cowboy-towns-space-magic-and-other-things-we-learned)
+ - [Another Call Of Duty Streamer&#39;s Skin Getting Removed Over Anti-LGBTQ Controversy](https://kotaku.com/timthetatman-nickmercs-call-of-duty-mm2-warzone-twitch-1850527887)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
