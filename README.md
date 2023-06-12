@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to control what boots up on your Mac](https://www.theverge.com/23757939/mac-apple-apps-boot-how-to)
- - [Google’s Search Generative Experience tested: A Bing competitor at long last](https://www.androidauthority.com/google-search-generative-experience-tested-3333863/)
- - [Samsung is working with Google to bring apps to Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-cover-display-apps-3334209/)<!-- TECH:END -->
+ - [Google Photos for the web gets new advanced editing tools](https://www.androidauthority.com/google-photos-new-editing-tools-3334282/)
+ - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
+ - [Percepto, which offers drone software and hardware for industrial applications, raised a $67M Series C, with ~$50M in equity and ~$16M in debt, led by KDT &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p24#a230612p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
