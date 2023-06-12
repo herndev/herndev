@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15-inch MacBook Air review roundup: Big screen, big value](https://appleinsider.com/articles/23/06/12/15-inch-macbook-air-review-roundup-big-screen-big-value?utm_medium=rss)
- - [Samsung Galaxy Tab S9 release date: When is the next Android tablet coming?](https://www.androidauthority.com/samsung-galaxy-tab-s9-release-date-3334008/)
- - [How to watch Ubisoft Forward 2023](https://www.theverge.com/2023/6/12/23757889/ubisoft-forward-2023-how-to-watch-summer-game-fest)<!-- TECH:END -->
+ - [All the news from Ubisoft Forward 2023](https://www.theverge.com/2023/6/12/23757993/ubisoft-forward-2023-news-annoucements-trailers)
+ - [2023 Mac Studio vs 2022 Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/2023-mac-studio-vs-2022-mac-studio---compared?utm_medium=rss)
+ - [Amazon’s Echo Dot smart speaker with a clock ticks down to a low price of $34.99](https://www.theverge.com/2023/6/12/23757811/amazon-echo-dot-ps5-xbox-diablo-iv-samsung-980-ssd-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
