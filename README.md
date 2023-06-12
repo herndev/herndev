@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma beta review: Few major updates, but very welcome](https://appleinsider.com/articles/23/06/12/macos-sonoma-beta-review-few-major-updates-but-very-welcome?utm_medium=rss)
- - [A writer who learned to code after losing his job reflects on AI chatbots, which repackage ideas and lack lateral thinking, and why humans are irreplaceable &lpar;Tristan Cross/The Guardian&rpar;](http://www.techmeme.com/230612/p16#a230612p16)
- - [15-inch MacBook Air review roundup: Big screen, big value](https://appleinsider.com/articles/23/06/12/15-inch-macbook-air-review-roundup-big-screen-big-value?utm_medium=rss)<!-- TECH:END -->
+ - [15-inch MacBook Air review roundup: Big screen, big value](https://appleinsider.com/articles/23/06/12/15-inch-macbook-air-review-roundup-big-screen-big-value?utm_medium=rss)
+ - [Samsung Galaxy Tab S9 release date: When is the next Android tablet coming?](https://www.androidauthority.com/samsung-galaxy-tab-s9-release-date-3334008/)
+ - [How to watch Ubisoft Forward 2023](https://www.theverge.com/2023/6/12/23757889/ubisoft-forward-2023-how-to-watch-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
