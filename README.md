@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never change, Japan](http://9gag.com/gag/ago2AL1)
- - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
- - 👉 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
+ - 💣 [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - ⏩ [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
+ - 👉 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
 
 ---
 
