@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents detail new prison-monitoring tech, tracking inmates&#39; location, heartbeats, and more, developed by Talitrix and used in Atlanta&#39;s Fulton County Jail &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230612/p12#a230612p12)
- - [Nasdaq plans to acquire financial software maker Adenza for $10.5B in cash and stock; Adenza owner Thoma Bravo gets a 14.9% stake in Nasdaq as part of the deal &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/230612/p11#a230612p11)
- - [Samsung Galaxy Watch 6 release date: When is the next smartwatch coming?](https://www.androidauthority.com/samsung-galaxy-watch-6-release-date-3333925/)<!-- TECH:END -->
+ - [10 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
+ - [Samsung’s 49-inch ultrawide OLED gaming monitor is probably as costly as your PC](https://www.theverge.com/2023/6/12/23757776/samsung-qd-oled-odyssey-g9-curved-gaming-monitor-price-release-date)
+ - [Apple MacBook Air 15-inch review: exactly what was asked for](https://www.theverge.com/23757441/apple-macbook-air-15-inch-2023-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
