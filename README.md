@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - ⏩ [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
- - 👉 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
+ - 💣 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
+ - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - 👉 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
 
 ---
 
