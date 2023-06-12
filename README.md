@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Samsung exec allegedly stole blueprints to build a factory a mile away](https://www.androidauthority.com/samsung-exec-arrest-3334139/)
- - [iOS 17 features: Everything new that Apple has added to the iPhone’s OS](https://www.androidauthority.com/ios-17-features-3333516/)
- - [OnePlus Nord 3 official-looking press images leak, launch must be imminent](https://www.androidauthority.com/oneplus-nord-3-press-images-3334178/)<!-- TECH:END -->
+ - [Assassin’s Creed Mirage gets new story trailer and gameplay demo](https://www.theverge.com/23752347/assassins-creed-mirage-story-gameplay-trailer-ubisoft-forward)
+ - [Assassin’s Creed Nexus brings first-person assassinations to VR](https://www.theverge.com/23752372/assassins-creed-nexus-vr-trailer-ubisoft-forward)
+ - [This is Twitter’s new CEO’s first email to employees](https://www.theverge.com/2023/6/12/23758258/twitter-ceo-linda-yaccarino-first-employee-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
