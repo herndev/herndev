@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
- - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
- - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
+ - 💣 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - 👉 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 ---
 
