@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors say an ex-Samsung executive allegedly stole blueprints and designs in 2018 and 2019 to replicate an entire chip plant in China &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/230612/p6#a230612p6)
- - [HSBC rebrands SVB UK as HSBC Innovation Banking and adds teams in the US, Israel, and Hong Kong to serve startups, investors, and other tech clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p5#a230612p5)
- - [Microsoft Gaming CEO Phil Spencer says he does not &quot;feel an imperative&quot; from users to release a major Xbox upgrade, preferring instead the &quot;hardware we have&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230612/p4#a230612p4)<!-- TECH:END -->
+ - [Q&amp;A with Signal president Meredith Whittaker on how existential warnings about AI might help Big Tech entrench its power, the UK&#39;s Online Safety Bill, and more &lpar;Ian Tucker/The Guardian&rpar;](http://www.techmeme.com/230612/p7#a230612p7)
+ - [More than six thousand subreddits have gone dark to protest Reddit’s API changes](https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes)
+ - [We asked, you told us: You’re somewhat split over using Google One VPN](https://www.androidauthority.com/use-google-one-vpn-poll-results-3333918/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
