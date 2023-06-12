@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
- - 👉 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
+ - 💣 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
+ - ⏩ [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - 👉 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
 
 ---
 
