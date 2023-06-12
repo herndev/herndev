@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony refuses to increase Vision Pro screen production capacity for Apple](https://appleinsider.com/articles/23/06/12/sony-refuses-to-increase-vision-pro-screen-production-capacity-for-apple?utm_medium=rss)
- - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)
- - [The Xiaomi 13 Ultra is finally available globally, at a price](https://www.androidauthority.com/xiaomi-13-ultra-global-launch-3333936/)<!-- TECH:END -->
+ - [Documents detail new prison-monitoring tech, tracking inmates&#39; location, heartbeats, and more, developed by Talitrix and used in Atlanta&#39;s Fulton County Jail &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230612/p12#a230612p12)
+ - [Nasdaq plans to acquire financial software maker Adenza for $10.5B in cash and stock; Adenza owner Thoma Bravo gets a 14.9% stake in Nasdaq as part of the deal &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/230612/p11#a230612p11)
+ - [Samsung Galaxy Watch 6 release date: When is the next smartwatch coming?](https://www.androidauthority.com/samsung-galaxy-watch-6-release-date-3333925/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
