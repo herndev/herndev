@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
- - 👉 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)<!-- MEMES:END -->
+ - 💣 [Wait for it](http://9gag.com/gag/aoK8W22)
+ - ⏩ [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
+ - 👉 [Sweden!](http://9gag.com/gag/adP2vZD)<!-- MEMES:END -->
 
 ---
 
