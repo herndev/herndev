@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z to open a crypto-focused London office and is leading a $44M investment in UK-based Gensyn, which offers a decentralized compute network for training AI &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230611/p13#a230611p13)
- - [&#39;Monarch: Legacy of Monsters&#39; may be first 3D Apple Vision Pro show](https://appleinsider.com/articles/23/06/11/monarch-legacy-of-monsters-may-be-first-3d-apple-vision-pro-show?utm_medium=rss)
- - [Microsoft will bring select games on PC Game Pass to Nvidia&#39;s GeForce Now in the coming months, letting subs stream games with RTX 4080 levels of performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230611/p12#a230611p12)<!-- TECH:END -->
+ - [Meta launches MusicGen, an open-source AI model that can generate short pieces of music using text prompts that can optionally be aligned to an existing melody &lpar;Matthias Bastian/THE DECODER&rpar;](http://www.techmeme.com/230611/p14#a230611p14)
+ - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
+ - [a16z to open a crypto-focused London office and is leading a $43M investment in UK-based Gensyn, which offers a decentralized compute network for training AI &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230611/p13#a230611p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
