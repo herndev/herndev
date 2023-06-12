@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s brain works diffrently](http://9gag.com/gag/aRE2Le2)
- - ⏩ [Never change, Japan](http://9gag.com/gag/ago2AL1)
- - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 💣 [Never change, Japan](http://9gag.com/gag/ago2AL1)
+ - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 👉 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
 
 ---
 
