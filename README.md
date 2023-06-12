@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Assassin’s Creed Mirage gets new story trailer and gameplay demo](https://www.theverge.com/23752347/assassins-creed-mirage-story-gameplay-trailer-ubisoft-forward)
- - [Assassin’s Creed Nexus brings first-person assassinations to VR](https://www.theverge.com/23752372/assassins-creed-nexus-vr-trailer-ubisoft-forward)
- - [This is Twitter’s new CEO’s first email to employees](https://www.theverge.com/2023/6/12/23758258/twitter-ceo-linda-yaccarino-first-employee-memo)<!-- TECH:END -->
+ - [How to control what boots up on your Mac](https://www.theverge.com/23757939/mac-apple-apps-boot-how-to)
+ - [Google’s Search Generative Experience tested: A Bing competitor at long last](https://www.androidauthority.com/google-search-generative-experience-tested-3333863/)
+ - [Samsung is working with Google to bring apps to Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-cover-display-apps-3334209/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
