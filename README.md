@@ -37,7 +37,7 @@
 
 <!-- TECH:START -->
  - [Trying to shape AI tech to protect jobs is a bad idea since no one can predict which technologies will augment humans and which will simply replace their labor &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230611/p15#a230611p15)
- - [Meta launches MusicGen, an open-source AI model that can generate short pieces of music using text prompts that can optionally be aligned to an existing melody &lpar;Matthias Bastian/THE DECODER&rpar;](http://www.techmeme.com/230611/p14#a230611p14)
+ - [Meta launches MusicGen, an open-source AI model that can generate short pieces of music using text prompts that can optionally be aligned to an existing melody &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/230611/p14#a230611p14)
  - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
