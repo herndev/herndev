@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
- - ⏩ [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - 👉 [Obi-wan&#39;s nightmares](http://9gag.com/gag/aQE23BW)<!-- MEMES:END -->
+ - 💣 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
+ - ⏩ [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - 👉 [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)<!-- MEMES:END -->
 
 ---
 
