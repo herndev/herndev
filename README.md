@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an AMA about Reddit&#39;s API changes, the company&#39;s CEO said Reddit can&#39;t &quot;subsidize commercial entities&quot;, criticized the Apollo developer&#39;s behavior, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230609/p21#a230609p21)
- - [Kraken launches Kraken NFT, a marketplace with 250+ NFT collections across the Ethereum, Solana, and Polygon blockchains, after a beta started in November 2022 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230609/p20#a230609p20)
- - [Logitech plans to merge Astro and Blue Microphones into Logitech G and retire the Blue brand, saying &quot;the Blue name will be used to describe our technologies&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230609/p19#a230609p19)<!-- TECH:END -->
+ - [a16z to open a crypto-focused London office and is leading a $44M investment in UK-based Gensyn, which offers a decentralized compute network for training AI &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230611/p13#a230611p13)
+ - [&#39;Monarch: Legacy of Monsters&#39; may be first 3D Apple Vision Pro show](https://appleinsider.com/articles/23/06/11/monarch-legacy-of-monsters-may-be-first-3d-apple-vision-pro-show?utm_medium=rss)
+ - [Microsoft will bring select games on PC Game Pass to Nvidia&#39;s GeForce Now in the coming months, letting subs stream games with RTX 4080 levels of performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230611/p12#a230611p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
