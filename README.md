@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI demo launches tomorrow](https://blog.playstation.com/2023/06/11/final-fantasy-xvi-demo-launches-tomorrow/)
- - [Starfield Direct recap: sandwich heists, cowboy towns, space magic, and other things we learned](https://www.pcgamer.com/starfield-direct-recap-sandwich-heists-cowboy-towns-space-magic-and-other-things-we-learned)
- - [Another Call Of Duty Streamer&#39;s Skin Getting Removed Over Anti-LGBTQ Controversy](https://kotaku.com/timthetatman-nickmercs-call-of-duty-mm2-warzone-twitch-1850527887)<!-- GAME:END -->
+ - [Todd Howard: Starfield Locked At 30FPS On Console For &#39;Consistency&#39;](https://kotaku.com/starfield-30fps-60fps-performance-mode-xbox-series-x-s-1850528077)
+ - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)
+ - [Persona 3 Reload won&#39;t have the female protagonist or other additions of Persona 3&#39;s Portable and FES editions](https://www.pcgamer.com/persona-3-reload-wont-have-the-female-protagonist-or-other-additions-of-persona-3s-portable-and-fes-editions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
