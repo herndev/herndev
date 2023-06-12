@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [vivo cannot sell its phones in this European market &lpar;Update: Statement&rpar;](https://www.androidauthority.com/vivo-stops-phone-sales-germany-3333529/)
- - [A tech reporter on why he bought a 2023 World Book Encyclopedia printed set: nostalgia, permanence, and no AI or human tampering, link rot, or stealth edits &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230612/p2#a230612p2)
- - [RCS is about to get better on AT&amp;T, thanks to Google](https://www.androidauthority.com/att-rcs-google-jibe-3332304/)<!-- TECH:END -->
+ - [Google, OpenAI, and Microsoft haven&#39;t rolled out their AI chatbots in Hong Kong, adding to a slow creep of tech companies treating the city like mainland China &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230612/p3#a230612p3)
+ - [Apple is already working on two headsets after the Vision Pro](https://www.androidauthority.com/apple-vision-pro-two-headsets-3333855/)
+ - [A tech reporter on why he bought a 2023 World Book Encyclopedia printed set: nostalgia, permanence, and no AI or human tampering, link rot, or stealth edits &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230612/p2#a230612p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
