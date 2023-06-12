@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple share price closes at an all-time record high thanks to Vision Pro speculation](https://appleinsider.com/articles/23/06/12/apple-share-price-closes-at-an-all-time-record-high-thanks-to-vision-pro-speculation?utm_medium=rss)
- - [FTC files to block Microsoft from buying Activision Blizzard](https://www.theverge.com/2023/6/12/23758194/ftc-microsoft-activision-blizzard-complaint-block-acquisition-call-of-duty)
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [Vendors allege Hippocratic AI co-founder&#39;s former startup Health IQ, which faces a fraud lawsuit, owes millions; Hippocratic AI raised $50M from a16z and others &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/230612/p30#a230612p30)
+ - [The biggest news and trailers from Capcom Showcase 2023](https://www.theverge.com/2023/6/12/23758032/capcom-showcase-2023-news-trailers)
+ - [Boston-based CloudZero, a cloud cost management startup, raised a $32M Series B led by Innovius Capital and Threshold Ventures, taking its total raised to $52M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230612/p29#a230612p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
