@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Signal president Meredith Whittaker on how existential warnings about AI might help Big Tech entrench its power, the UK&#39;s Online Safety Bill, and more &lpar;Ian Tucker/The Guardian&rpar;](http://www.techmeme.com/230612/p7#a230612p7)
- - [More than six thousand subreddits have gone dark to protest Reddit’s API changes](https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes)
- - [We asked, you told us: You’re somewhat split over using Google One VPN](https://www.androidauthority.com/use-google-one-vpn-poll-results-3333918/)<!-- TECH:END -->
+ - [Sony refuses to increase Vision Pro screen production capacity for Apple](https://appleinsider.com/articles/23/06/12/sony-refuses-to-increase-vision-pro-screen-production-capacity-for-apple?utm_medium=rss)
+ - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)
+ - [The Xiaomi 13 Ultra is finally available globally, at a price](https://www.androidauthority.com/xiaomi-13-ultra-global-launch-3333936/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
