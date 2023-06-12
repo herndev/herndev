@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This modern fantasy action RPG has you take a break from corporate life to crawl dungeons](https://www.pcgamer.com/go-on-an-alpine-vacation-and-delve-some-dungeons-in-this-modern-fantasy-action-rpg)
  - [Todd Howard: Starfield Locked At 30FPS On Console For &#39;Consistency&#39;](https://kotaku.com/starfield-30fps-60fps-performance-mode-xbox-series-x-s-1850528077)
- - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)
- - [Persona 3 Reload won&#39;t have the female protagonist or other additions of Persona 3&#39;s Portable and FES editions](https://www.pcgamer.com/persona-3-reload-wont-have-the-female-protagonist-or-other-additions-of-persona-3s-portable-and-fes-editions)<!-- GAME:END -->
+ - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
