@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
- - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
- - 👉 [Those damn onions!](http://9gag.com/gag/avQvQ7b)<!-- MEMES:END -->
+ - 💣 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
+ - ⏩ [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)
+ - 👉 [What a great role model](http://9gag.com/gag/aPgXZMR)<!-- MEMES:END -->
 
 ---
 
