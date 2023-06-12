@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)
- - ⏩ [Those damn onions!](http://9gag.com/gag/avQvQ7b)
- - 👉 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
+ - 💣 [Men&#39;s brain works diffrently](http://9gag.com/gag/aRE2Le2)
+ - ⏩ [Never change, Japan](http://9gag.com/gag/ago2AL1)
+ - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 ---
 
