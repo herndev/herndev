@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - ⏩ [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
- - 👉 [Those damn onions!](http://9gag.com/gag/avQvQ7b)<!-- MEMES:END -->
+ - 💣 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
+ - ⏩ [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - 👉 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
 
 ---
 
