@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
- - ⏩ [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)
- - 👉 [What a great role model](http://9gag.com/gag/aPgXZMR)<!-- MEMES:END -->
+ - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - ⏩ [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
+ - 👉 [Those damn onions!](http://9gag.com/gag/avQvQ7b)<!-- MEMES:END -->
 
 ---
 
