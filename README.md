@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - 💣 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
  - ⏩ [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
- - 👉 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
+ - 👉 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)<!-- MEMES:END -->
 
 ---
 
