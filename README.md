@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
- - ⏩ [The table has turned!](http://9gag.com/gag/ay2Q3Db)
- - 👉 [Sweden!](http://9gag.com/gag/adP2vZD)<!-- MEMES:END -->
+ - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 👉 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)<!-- MEMES:END -->
 
 ---
 
