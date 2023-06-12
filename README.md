@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos for the web gets new advanced editing tools](https://www.androidauthority.com/google-photos-new-editing-tools-3334282/)
- - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
- - [Percepto, which offers drone software and hardware for industrial applications, raised a $67M Series C, with ~$50M in equity and ~$16M in debt, led by KDT &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p24#a230612p24)<!-- TECH:END -->
+ - [By capitalizing on crypto lending services&#39; high interest rate promises, 3AC&#39;s founders played the bubble perfectly, getting rich as 3AC&#39;s lenders went bankrupt &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230612/p26#a230612p26)
+ - [&#39;Assassin&#39;s Creed Codename Jade&#39; opens registration for closed betas ahead of launch](https://appleinsider.com/articles/23/06/12/assassins-creed-codename-jade-opens-registration-for-closed-betas-ahead-of-launch?utm_medium=rss)
+ - [Google’s Pixel 8 series will again put the best cameras on the biggest phone](https://www.theverge.com/2023/6/12/23758308/google-pixel-8-pro-camera-specs-leaked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
