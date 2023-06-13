@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
- - ⏩ [It has begun](http://9gag.com/gag/a1PLD3G)
- - 👉 [Golden globes](http://9gag.com/gag/aYV1Q2x)<!-- MEMES:END -->
+ - 💣 [Weeee....](http://9gag.com/gag/ajVK7o1)
+ - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 ---
 
