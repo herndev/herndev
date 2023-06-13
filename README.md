@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest Sherlock targets your grandparents’ tech](https://www.theverge.com/2023/6/13/23757213/wwdc-2023-apple-ios-17-standby-live-voicemail-namedrop)
- - [Phasmophobia is coming to Xbox Series S / X, PS5, and PSVR 2 with crossplay](https://www.theverge.com/2023/6/13/23759589/phasmophobia-console-xbox-series-s-x-ps5-psvr2-release-date)
- - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)<!-- TECH:END -->
+ - [Meta details I-JEPA, an AI model that more accurately creates imagery by using background info about the world, avoiding errors like hands with extra fingers &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230613/p32#a230613p32)
+ - [Reddit communities with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)
+ - [The new Kindle and Kindle Paperwhite have dropped to some of their best prices](https://www.theverge.com/2023/6/13/23759557/amazon-kindle-e-reader-tablet-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
