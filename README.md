@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - ⏩ [Bumpy ride](http://9gag.com/gag/aEqXqoo)
- - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
+ - 💣 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)
+ - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 ---
 
