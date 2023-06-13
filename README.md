@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - ⏩ [Sweden!](http://9gag.com/gag/adP2vZD)
- - 👉 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
+ - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - ⏩ [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
+ - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 ---
 
