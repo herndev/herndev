@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
- - ⏩ [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
- - 👉 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)<!-- MEMES:END -->
+ - ⏩ [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - 👉 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)<!-- MEMES:END -->
 
 ---
 
