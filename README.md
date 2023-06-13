@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest Pixel drop adds macro video, cinematic wallpapers, and more](https://www.theverge.com/2023/6/13/23759341/google-pixel-feature-drop-macro-video-cinematic-wallpapers)
- - [Apple Vision Pro features: Everything that Apple’s AR-VR headset can do](https://www.androidauthority.com/apple-vision-pro-features-3334548/)
- - [Geekbench reveals M2 Ultra chip&#39;s massive performance leap in 2023 Mac Pro](https://appleinsider.com/articles/23/06/13/geekbench-reveals-m2-ultra-chips-massive-performance-leap-in-2023-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s June Pixel update rolls out new safety features, oxygen saturation monitoring for the Pixel Watch, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230613/p30#a230613p30)
+ - [Nothing confirms that Phone 2’s software will quickly come to Phone 1](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-3334762/)
+ - [Staff memo: Reddit&#39;s CEO says &quot;like all blowups on Reddit, this one will pass&quot;, new moderation tools are vital, wearing Reddit gear in public is risky, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230613/p29#a230613p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
