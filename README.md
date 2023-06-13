@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insight Partners slashes the $20B target for its latest fund to $15B, after raising just $2B since June 2022, citing a &quot;great reset in tech&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p1#a230613p1)
  - [In a memo to Twitter employees, CEO Linda Yaccarino said the platform is &quot;on a mission to become the world&#39;s most accurate real-time information source&quot; &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230612/p34#a230612p34)
- - [Unpacking Coinbase&#39;s flawed talking points in its battle with the SEC, including the argument that &quot;securities laws written in the 1930s can&#39;t apply to crypto&quot; &lpar;Molly White&rpar;](http://www.techmeme.com/230612/p33#a230612p33)
- - [Preqin: total US dollars raised by China-focused VC and PE funds peaked at $48.6B in 2021 before dropping to $16.5B in 2022 and just $1.15B so far in 2023 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230612/p32#a230612p32)<!-- TECH:END -->
+ - [Unpacking Coinbase&#39;s flawed talking points in its battle with the SEC, including the argument that &quot;securities laws written in the 1930s can&#39;t apply to crypto&quot; &lpar;Molly White&rpar;](http://www.techmeme.com/230612/p33#a230612p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
