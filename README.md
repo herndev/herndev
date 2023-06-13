@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vendors allege Hippocratic AI co-founder&#39;s former startup Health IQ, which faces a fraud lawsuit, owes millions; Hippocratic AI raised $50M from a16z and others &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/230612/p30#a230612p30)
- - [The biggest news and trailers from Capcom Showcase 2023](https://www.theverge.com/2023/6/12/23758032/capcom-showcase-2023-news-trailers)
- - [Boston-based CloudZero, a cloud cost management startup, raised a $32M Series B led by Innovius Capital and Threshold Ventures, taking its total raised to $52M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230612/p29#a230612p29)<!-- TECH:END -->
+ - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
+ - [This third-party Reddit app may survive — but only with a paid subscription](https://www.theverge.com/2023/6/12/23758616/reddit-app-survive-paid-subscription-relay)
+ - [In the bid to grow at all costs, Instant Pot is cooking itself](https://www.theverge.com/2023/6/12/23758602/instant-pot-bankruptcy-new-products-2023-decline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
