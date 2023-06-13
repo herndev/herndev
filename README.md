@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit&#39;s API changes stem from LLMs driving up the value of its data, a long-planned IPO, and profitable third-party clients generating no revenue for Reddit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230613/p17#a230613p17)
- - [It&#39;s Time to Let the Noisy World Back In](https://www.wired.com/story/its-time-to-let-the-noisy-world-back-in/)
- - [Austin-based Striveworks, which is building MLOps tools for training models and data cleaning, raised $33M from Centana Growth, its first outside funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230613/p16#a230613p16)<!-- TECH:END -->
+ - [Foundation’s season 2 trailer is a battle 100 years in the making](https://www.theverge.com/23759153/foundation-season-2-trailer-apple-tv-plus)
+ - [Microsoft’s dirty supply chain is holding back its climate ambitions](https://www.theverge.com/23745933/microsoft-fossil-fuels-suppy-chain-emissions-climate)
+ - [AMD announces the Ryzen Pro 7000 for desktop and Ryzen Pro 7040 HS and 7040 U for mobile, adding an integrated Ryzen AI block on select models and Zen 4 cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230613/p20#a230613p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
