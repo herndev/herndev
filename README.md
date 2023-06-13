@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of his best score](http://9gag.com/gag/aVb2KyK)
- - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 👉 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
+ - 💣 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
+ - ⏩ [Unexpected](http://9gag.com/gag/aDYXZn9)
+ - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 ---
 
