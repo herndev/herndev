@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - ⏩ [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
+ - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - ⏩ [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
+ - 👉 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)<!-- MEMES:END -->
 
 ---
 
