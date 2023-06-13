@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 💣 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - ⏩ [Permanent ?](http://9gag.com/gag/aRE2EpM)
  - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 ---
