@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta details I-JEPA, an AI model that more accurately creates imagery by using background info about the world, avoiding errors like hands with extra fingers &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230613/p32#a230613p32)
- - [Reddit communities with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)
- - [The new Kindle and Kindle Paperwhite have dropped to some of their best prices](https://www.theverge.com/2023/6/13/23759557/amazon-kindle-e-reader-tablet-deal-sale)<!-- TECH:END -->
+ - [The developer of Damus, a Nostr-based social media app, says Apple has threatened to delist it from the App Store if it doesn&#39;t remove a bitcoin tipping feature &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230613/p35#a230613p35)
+ - [AMD unveils its EPYC Bergamo CPUs, offering up to 128 Zen 4C cores for cloud-native servers and data center platforms &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230613/p34#a230613p34)
+ - [Why disabled users joined the Reddit blackout](https://www.theverge.com/2023/6/13/23759761/reddit-disability-accessibility-blackout-api-blind)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
