@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a failing California weed city turned into Crooked Media’s latest audio saga](https://www.theverge.com/2023/6/13/23759848/crooked-media-dreamtown-adelanto-david-weinberg-tribeca)
- - [Swedish gaming conglomerate Embracer Group says it will close multiple studios, cancel games, and cut staff, after a $2B deal unexpectedly fell through &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230613/p39#a230613p39)
- - [A US federal judge asks the SEC and Binance to strike a compromise over the Binance.US asset freeze, while criticizing the SEC&#39;s use of its enforcement powers &lpar;New York Times&rpar;](http://www.techmeme.com/230613/p38#a230613p38)<!-- TECH:END -->
+ - [Western Digital NAS drives flash ‘warning’ after three years even if nothing’s wrong](https://www.theverge.com/2023/6/13/23759368/western-digital-three-years-warning-synology-nas)
+ - [Samsung Galaxy Z Fold 5 release date: When will it launch?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-3334808/)
+ - [The Irish DPC says Google must delay Bard&#39;s launch in the EU because it has insufficient information about how it will respect the EU&#39;s data privacy rules &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230613/p42#a230613p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
