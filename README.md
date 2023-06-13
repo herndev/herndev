@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - ⏩ [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 💣 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - ⏩ [Bumpy ride](http://9gag.com/gag/aEqXqoo)
+ - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
 
 ---
 
