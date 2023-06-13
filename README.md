@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home’s script editor is now live](https://www.theverge.com/2023/6/13/23759187/google-home-script-editor-tool-automations)
- - [Nomad’s new MagSafe-compatible Stand and Base charge slower but cost less](https://www.theverge.com/2023/6/13/23758205/nomad-stand-base-magnetic-wireless-qi-charger-magsafe-price-specs)
- - [AI video generation startup Synthesia raised a $90M Series C at a $1B valuation, led by Accel with Nvidia participating, and works with 35% of the Fortune 100 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230613/p24#a230613p24)<!-- TECH:END -->
+ - [Google’s latest Pixel drop adds macro video, cinematic wallpapers, and more](https://www.theverge.com/2023/6/13/23759341/google-pixel-feature-drop-macro-video-cinematic-wallpapers)
+ - [Apple Vision Pro features: Everything that Apple’s AR-VR headset can do](https://www.androidauthority.com/apple-vision-pro-features-3334548/)
+ - [Geekbench reveals M2 Ultra chip&#39;s massive performance leap in 2023 Mac Pro](https://appleinsider.com/articles/23/06/13/geekbench-reveals-m2-ultra-chips-massive-performance-leap-in-2023-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
