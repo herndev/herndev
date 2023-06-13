@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The developer of Damus, a Nostr-based social media app, says Apple has threatened to delist it from the App Store if it doesn&#39;t remove a bitcoin tipping feature &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230613/p35#a230613p35)
- - [AMD unveils its EPYC Bergamo CPUs, offering up to 128 Zen 4C cores for cloud-native servers and data center platforms &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230613/p34#a230613p34)
- - [Why disabled users joined the Reddit blackout](https://www.theverge.com/2023/6/13/23759761/reddit-disability-accessibility-blackout-api-blind)<!-- TECH:END -->
+ - [How a failing California weed city turned into Crooked Media’s latest audio saga](https://www.theverge.com/2023/6/13/23759848/crooked-media-dreamtown-adelanto-david-weinberg-tribeca)
+ - [Swedish gaming conglomerate Embracer Group says it will close multiple studios, cancel games, and cut staff, after a $2B deal unexpectedly fell through &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230613/p39#a230613p39)
+ - [A US federal judge asks the SEC and Binance to strike a compromise over the Binance.US asset freeze, while criticizing the SEC&#39;s use of its enforcement powers &lpar;New York Times&rpar;](http://www.techmeme.com/230613/p38#a230613p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
