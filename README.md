@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad jokes](http://9gag.com/gag/aL1Xezg)
- - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 👉 [Golden globes](http://9gag.com/gag/aYV1Q2x)<!-- MEMES:END -->
+ - 💣 [Golden globes](http://9gag.com/gag/aYV1Q2x)
+ - ⏩ [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
+ - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
 
 ---
 
