@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - ⏩ [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
- - 👉 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
+ - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - 👉 [Golden globes](http://9gag.com/gag/aYV1Q2x)<!-- MEMES:END -->
 
 ---
 
