@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 👉 [Golden globes](http://9gag.com/gag/aYV1Q2x)<!-- MEMES:END -->
+ - 💣 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - ⏩ [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
+ - 👉 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
 
 ---
 
