@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
- - 👉 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)<!-- MEMES:END -->
+ - 💣 [Dad jokes](http://9gag.com/gag/aL1Xezg)
+ - ⏩ [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - 👉 [Golden globes](http://9gag.com/gag/aYV1Q2x)<!-- MEMES:END -->
 
 ---
 
