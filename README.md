@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [This third-party Reddit app may survive — but only with a paid subscription](https://www.theverge.com/2023/6/12/23758616/reddit-app-survive-paid-subscription-relay)
- - [In the bid to grow at all costs, Instant Pot is cooking itself](https://www.theverge.com/2023/6/12/23758602/instant-pot-bankruptcy-new-products-2023-decline)<!-- TECH:END -->
+ - [Netflix is reportedly getting ready to stream its first-ever sporting event](https://www.theverge.com/2023/6/12/23758795/netflix-sports-live-golf-las-vegas)
+ - [Amazon is testing generative AI for product review summaries, giving an overview of what customers liked and disliked about a product, along with a disclaimer &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230612/p31#a230612p31)
+ - [Mint Mobile Deal Offers Unlimited $15 Per Month Plan     - CNET](https://www.cnet.com/tech/mobile/mint-mobile-deal-offers-unlimited-15-per-month-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
