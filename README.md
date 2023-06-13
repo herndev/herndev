@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
- - ⏩ [Wait for it](http://9gag.com/gag/aoK8W22)
- - 👉 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)<!-- MEMES:END -->
+ - 💣 [One of his best score](http://9gag.com/gag/aVb2KyK)
+ - ⏩ [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
+ - 👉 [Weeee....](http://9gag.com/gag/ajVK7o1)<!-- MEMES:END -->
 
 ---
 
