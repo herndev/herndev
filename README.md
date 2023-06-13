@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a first, Larry Ellison passes Bill Gates to become the world&#39;s fourth-richest person with a $129.8B net worth; ORCL has risen 42% in 2023 on the AI boom &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/230613/p12#a230613p12)
- - [A look at the global network of subsea internet cables, dominated by companies from France, the US, and Japan, as China circumvents US curbs to build its own &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p11#a230613p11)
- - [His Drivers Unionized—Then Amazon Tried to Terminate His Contract](https://www.wired.com/story/his-drivers-unionized-then-amazon-tried-to-terminate-his-contract/)<!-- TECH:END -->
+ - [Reddit&#39;s API changes stem from LLMs driving up the value of its data, a long-planned IPO, and profitable third-party clients generating no revenue for Reddit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230613/p17#a230613p17)
+ - [It&#39;s Time to Let the Noisy World Back In](https://www.wired.com/story/its-time-to-let-the-noisy-world-back-in/)
+ - [Austin-based Striveworks, which is building MLOps tools for training models and data cleaning, raised $33M from Centana Growth, its first outside funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230613/p16#a230613p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
