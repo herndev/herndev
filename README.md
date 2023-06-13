@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
- - ⏩ [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 👉 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)<!-- MEMES:END -->
+ - 💣 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
+ - ⏩ [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
+ - 👉 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
 
 ---
 
