@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - ⏩ [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
- - 👉 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)<!-- MEMES:END -->
+ - 💣 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - ⏩ [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 👉 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)<!-- MEMES:END -->
 
 ---
 
