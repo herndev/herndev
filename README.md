@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Search Generative Experience seems like an &quot;AI plagiarism engine&quot; that cobbles together snippets of text from a variety of sites, often word-for-word &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230613/p2#a230613p2)
  - [Insight Partners slashes the $20B target for its latest fund to $15B, after raising just $2B since June 2022, citing a &quot;great reset in tech&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p1#a230613p1)
- - [In a memo to Twitter employees, CEO Linda Yaccarino said the platform is &quot;on a mission to become the world&#39;s most accurate real-time information source&quot; &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230612/p34#a230612p34)
- - [Unpacking Coinbase&#39;s flawed talking points in its battle with the SEC, including the argument that &quot;securities laws written in the 1930s can&#39;t apply to crypto&quot; &lpar;Molly White&rpar;](http://www.techmeme.com/230612/p33#a230612p33)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Men for 2023     - CNET](https://www.cnet.com/health/nutrition/5-best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
