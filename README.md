@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weeee....](http://9gag.com/gag/ajVK7o1)
- - ⏩ [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
- - 👉 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
+ - 💣 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
+ - ⏩ [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
+ - 👉 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 ---
 
