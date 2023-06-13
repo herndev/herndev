@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Search Generative Experience seems like an &quot;AI plagiarism engine&quot; that cobbles together snippets of text from a variety of sites, often word-for-word &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230613/p2#a230613p2)
- - [Insight Partners slashes the $20B target for its latest fund to $15B, after raising just $2B since June 2022, citing a &quot;great reset in tech&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p1#a230613p1)
- - [The 5 Best Multivitamins for Men for 2023     - CNET](https://www.cnet.com/health/nutrition/5-best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jack Dorsey says India threatened to shut Twitter down unless it complied with orders during farmer protests, a claim called an &quot;outright lie&quot; by the government &lpar;Reuters&rpar;](http://www.techmeme.com/230613/p5#a230613p5)
+ - [Filings: a nonbinding proposal on whether Marc Benioff should continue as Salesforce&#39;s board chairman got 23% of votes versus ~37% in 2022; CRM rose 61% in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230613/p4#a230613p4)
+ - [Here’s how one third-party app might survive Reddit’s changes](https://www.androidauthority.com/relay-for-reddit-android-survive-changes-3333851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
