@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golden globes](http://9gag.com/gag/aYV1Q2x)
- - ⏩ [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
- - 👉 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
+ - 💣 [Weeee....](http://9gag.com/gag/ajVK7o1)
+ - ⏩ [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
+ - 👉 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
 
 ---
 
