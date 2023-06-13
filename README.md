@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy S21 series gets June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
  - [Jack Dorsey says India threatened to shut Twitter down unless it complied with orders during farmer protests, a claim called an &quot;outright lie&quot; by the government &lpar;Reuters&rpar;](http://www.techmeme.com/230613/p5#a230613p5)
- - [Filings: a nonbinding proposal on whether Marc Benioff should continue as Salesforce&#39;s board chairman got 23% of votes versus ~37% in 2022; CRM rose 61% in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230613/p4#a230613p4)
- - [Here’s how one third-party app might survive Reddit’s changes](https://www.androidauthority.com/relay-for-reddit-android-survive-changes-3333851/)<!-- TECH:END -->
+ - [Filings: a nonbinding proposal on whether Marc Benioff should continue as Salesforce&#39;s board chairman got 23% of votes versus ~37% in 2022; CRM rose 61% in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230613/p4#a230613p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
