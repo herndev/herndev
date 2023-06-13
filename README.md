@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
- - ⏩ [Unexpected](http://9gag.com/gag/aDYXZn9)
- - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
+ - 💣 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - ⏩ [Wait for it](http://9gag.com/gag/aoK8W22)
+ - 👉 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)<!-- MEMES:END -->
 
 ---
 
