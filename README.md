@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
- - ⏩ [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
  - 👉 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)<!-- MEMES:END -->
 
 ---
