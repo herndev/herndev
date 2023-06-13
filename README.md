@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using macOS Disk Utility: How to repair Fusion Drives, and using command-line utilities](https://appleinsider.com/inside/macos/tips/using-macos-disk-utility-how-to-repair-fusion-drives-and-using-command-line-utilities?utm_medium=rss)
- - [How Jimmy Donaldson, aka MrBeast, became a viral sensation for his absurd acts of altruism and pitching subscribing as an act of charity, sometimes literally &lpar;Max Read/New York Times&rpar;](http://www.techmeme.com/230613/p9#a230613p9)
- - [Windows 11’s Android integration gets long-requested file sharing](https://www.theverge.com/2023/6/13/23759072/microsoft-windows-11-android-subsystem-file-sharing-feature)<!-- TECH:END -->
+ - [In a first, Larry Ellison passes Bill Gates to become the world&#39;s fourth-richest person with a $129.8B net worth; ORCL has risen 42% in 2023 on the AI boom &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/230613/p12#a230613p12)
+ - [A look at the global network of subsea internet cables, dominated by companies from France, the US, and Japan, as China circumvents US curbs to build its own &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p11#a230613p11)
+ - [His Drivers Unionized—Then Amazon Tried to Terminate His Contract](https://www.wired.com/story/his-drivers-unionized-then-amazon-tried-to-terminate-his-contract/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
