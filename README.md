@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is reportedly getting ready to stream its first-ever sporting event](https://www.theverge.com/2023/6/12/23758795/netflix-sports-live-golf-las-vegas)
- - [Amazon is testing generative AI for product review summaries, giving an overview of what customers liked and disliked about a product, along with a disclaimer &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230612/p31#a230612p31)
- - [Mint Mobile Deal Offers Unlimited $15 Per Month Plan     - CNET](https://www.cnet.com/tech/mobile/mint-mobile-deal-offers-unlimited-15-per-month-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Connecting Your Hearing Aids to Your Phone or TV Could Enhance Your Listening Experience     - CNET](https://www.cnet.com/health/medical/connecting-your-hearing-aids-to-your-phone-laptop-or-tv-can-enhance-listening-experience/#ftag=CAD590a51e)
+ - [FTC Files Injunction to Block Microsoft&#39;s Activision Deal: What to Know     - CNET](https://www.cnet.com/tech/gaming/ftc-files-injunction-to-block-microsofts-activision-deal-what-to-know/#ftag=CAD590a51e)
+ - [Netflix is reportedly getting ready to stream its first-ever sporting event](https://www.theverge.com/2023/6/12/23758795/netflix-sports-live-golf-las-vegas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
