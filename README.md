@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foundation’s season 2 trailer is a battle 100 years in the making](https://www.theverge.com/23759153/foundation-season-2-trailer-apple-tv-plus)
- - [Microsoft’s dirty supply chain is holding back its climate ambitions](https://www.theverge.com/23745933/microsoft-fossil-fuels-suppy-chain-emissions-climate)
- - [AMD announces the Ryzen Pro 7000 for desktop and Ryzen Pro 7040 HS and 7040 U for mobile, adding an integrated Ryzen AI block on select models and Zen 4 cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230613/p20#a230613p20)<!-- TECH:END -->
+ - [Daily deals: $100 off Mac mini, $200 off M2 MacBook Pro, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/06/13/daily-deals-100-off-mac-mini-200-off-m2-macbook-pro-70-off-apple-watch-series-8-more?utm_medium=rss)
+ - [Galaxy Watch 6 confirmed to get an upgraded SoC, but how much faster will it be?](https://www.androidauthority.com/samsung-galaxy-watch-6-soc-3334628/)
+ - [Apollo’s Christian Selig explains his fight with Reddit — and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
