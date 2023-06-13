@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: the UK and Ireland accounted for ~28% of VC deals in Europe and Israel in Q1 2023, down from over 34% in 2018, while France and the Nordics rose &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230613/p8#a230613p8)
- - [Sources: Netflix is in talks to livestream its first sporting event this fall, a celebrity golf tournament with professional golfers and Formula One drivers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230613/p7#a230613p7)
- - [Poll: Have you accidentally pressed the Netflix button on your remote?](https://www.androidauthority.com/accidental-press-app-shortcut-buttons-remote-poll-3334494/)<!-- TECH:END -->
+ - [Using macOS Disk Utility: How to repair Fusion Drives, and using command-line utilities](https://appleinsider.com/inside/macos/tips/using-macos-disk-utility-how-to-repair-fusion-drives-and-using-command-line-utilities?utm_medium=rss)
+ - [How Jimmy Donaldson, aka MrBeast, became a viral sensation for his absurd acts of altruism and pitching subscribing as an act of charity, sometimes literally &lpar;Max Read/New York Times&rpar;](http://www.techmeme.com/230613/p9#a230613p9)
+ - [Windows 11’s Android integration gets long-requested file sharing](https://www.theverge.com/2023/6/13/23759072/microsoft-windows-11-android-subsystem-file-sharing-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
