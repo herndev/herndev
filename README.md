@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)
- - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
- - 👉 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 💣 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - ⏩ [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 ---
 
