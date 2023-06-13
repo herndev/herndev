@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: $100 off Mac mini, $200 off M2 MacBook Pro, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/06/13/daily-deals-100-off-mac-mini-200-off-m2-macbook-pro-70-off-apple-watch-series-8-more?utm_medium=rss)
- - [Galaxy Watch 6 confirmed to get an upgraded SoC, but how much faster will it be?](https://www.androidauthority.com/samsung-galaxy-watch-6-soc-3334628/)
- - [Apollo’s Christian Selig explains his fight with Reddit — and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)<!-- TECH:END -->
+ - [Google Home’s script editor is now live](https://www.theverge.com/2023/6/13/23759187/google-home-script-editor-tool-automations)
+ - [Nomad’s new MagSafe-compatible Stand and Base charge slower but cost less](https://www.theverge.com/2023/6/13/23758205/nomad-stand-base-magnetic-wireless-qi-charger-magsafe-price-specs)
+ - [AI video generation startup Synthesia raised a $90M Series C at a $1B valuation, led by Accel with Nvidia participating, and works with 35% of the Fortune 100 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230613/p24#a230613p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
