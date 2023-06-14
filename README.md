@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chadantino](http://9gag.com/gag/a9qX29Z)
- - ⏩ [We really are](http://9gag.com/gag/ago27rK)
- - 👉 [Minigun in shooting range](http://9gag.com/gag/aNwR46w)<!-- MEMES:END -->
+ - 💣 [Upvote it. To have it on the front page](https://www.reddit.com/r/memes/comments/149izb9/upvote_it_to_have_it_on_the_front_page/)
+ - ⏩ [This is so cute and wholesome](http://9gag.com/gag/ap9Ab2b)
+ - 👉 [I love it here &lt;3](http://9gag.com/gag/a5Xj2eG)<!-- MEMES:END -->
 
 ---
 
