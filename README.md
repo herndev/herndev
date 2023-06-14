@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/aDYXbO9)
- - ⏩ [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
- - 👉 [Man finally sold his car after 34 years...](http://9gag.com/gag/aVb2mbM)<!-- MEMES:END -->
+ - 💣 [Chadantino](http://9gag.com/gag/a9qX29Z)
+ - ⏩ [We really are](http://9gag.com/gag/ago27rK)
+ - 👉 [Minigun in shooting range](http://9gag.com/gag/aNwR46w)<!-- MEMES:END -->
 
 ---
 
