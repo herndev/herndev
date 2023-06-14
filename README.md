@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer updates its Blade 14 laptop with AMD Ryzen 9 7940HS, Nvidia&#39;s RTX 4060 or RTX 4070, up to 32GB of RAM, and 14&quot; QHD+ 240Hz display, starting at $2,400 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230614/p28#a230614p28)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Lowest price ever: 16-inch MacBook Pro with 32GB RAM plunges to $1,849, plus $80 off AppleCare](https://appleinsider.com/articles/23/06/14/lowest-price-ever-16-inch-macbook-pro-with-32gb-ram-plunges-to-1849-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Best Buy Upgrade Plus lets you pay for a new Apple Watch Ultra over three years](https://www.theverge.com/2023/6/14/23760837/best-buy-upgrade-plus-financing-apple-watch-ultra-ipad-pro)
+ - [Samsung says a Galaxy Watch update will include irregular heart rhythm notifications in 13 markets, including the US and South Korea, starting this summer &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230614/p29#a230614p29)
+ - [Sony announces its currently testing cloud streaming PS5 games](https://www.androidauthority.com/playstation-cloud-streaming-games-3335191/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
