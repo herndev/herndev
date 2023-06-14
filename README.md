@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - 💣 [Unexpected](http://9gag.com/gag/aDYXZn9)
  - ⏩ [One of his best score](http://9gag.com/gag/aVb2KyK)
- - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 👉 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)<!-- MEMES:END -->
 
 ---
 
