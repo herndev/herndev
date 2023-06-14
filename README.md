@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos slashes jobs and shrinks real estate presence in cost-cutting drive](https://appleinsider.com/articles/23/06/14/sonos-slashes-jobs-and-shrinks-real-estate-presence-in-cost-cutting-drive?utm_medium=rss)
- - [US spy agencies are buying the same surveillance data advertisers crave](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
- - [A profile of Guangying &quot;Heina&quot; Chen, a mysterious associate of Binance CEO Changpeng Zhao who appears repeatedly in the SEC&#39;s lawsuit against the exchange &lpar;Forbes&rpar;](http://www.techmeme.com/230614/p20#a230614p20)<!-- TECH:END -->
+ - [Google’s New AI Tool Is About to Make Online Shopping Even Easier](https://www.wired.com/story/google-generative-ai-clothes-shopping/)
+ - [New Google Shopping feature uses AI to model clothing on different body types](https://www.theverge.com/2023/6/14/23760504/google-shopping-ai-modeling-virtual-try-on-search-filters)
+ - [Lowest price of 2023 on the 12.9-inch Apple iPad Pro](https://www.androidauthority.com/2022-apple-ipad-pro-deal-3335092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
