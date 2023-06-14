@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU is funding Huawei to run 11 projects, ranging from AI and 6G to cloud computing, despite several EU nations banning the firm from their telecom networks &lpar;Financial Times&rpar;](http://www.techmeme.com/230614/p2#a230614p2)
- - [Researchers devise how to steal the encryption keys in smart cards and smartphones by video recording the devices&#39; power LEDs, with some real-world limitations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230614/p1#a230614p1)
- - [As Microsoft aims to be carbon negative by 2030, a review finds 14 out of 27 of the company&#39;s top production suppliers have increased their emissions since 2020 &lpar;The Verge&rpar;](http://www.techmeme.com/230613/p51#a230613p51)<!-- TECH:END -->
+ - [Anker’s new Solix home solar battery system is a modular version of Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
+ - [Call of Duty: Warzone Mobile: When will the latest FPS release?](https://www.androidauthority.com/cod-warzone-mobile-3334414/)
+ - [The Samsung Galaxy S23 FE will launch globally soon. Or will it?](https://www.androidauthority.com/samsung-galaxy-s23-fe-launch-3334929/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
