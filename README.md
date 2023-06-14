@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
- - [Apple has invested over $200 million in its Racial Equity and Justice Initiative](https://appleinsider.com/articles/23/06/14/apple-has-invested-over-200-million-in-its-racial-equity-and-justice-initiative?utm_medium=rss)
- - [Five boring apps that Apple shouldn&#39;t forget about for the Apple Vision Pro](https://appleinsider.com/articles/23/06/14/five-boring-apps-that-apple-shouldnt-forget-about-for-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Fording Rivers and Forging Bonds on the Oregon Trail](https://www.wired.com/story/fording-rivers-forging-bonds-the-oregon-trail/)
+ - [EcoFlow brings solar power to any home, even apartments and rentals](https://www.theverge.com/2023/6/14/23759349/ecoflow-powerocean-powerstream-apartment-balcony-solar-battery-backup-price-specs)
+ - [Peak XV head Shailendra Singh discusses the Sequoia split, saying the move will remove potential conflicts, especially in AI and with Sequoia&#39;s US portfolio &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/230614/p13#a230614p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
