@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fording Rivers and Forging Bonds on the Oregon Trail](https://www.wired.com/story/fording-rivers-forging-bonds-the-oregon-trail/)
- - [EcoFlow brings solar power to any home, even apartments and rentals](https://www.theverge.com/2023/6/14/23759349/ecoflow-powerocean-powerstream-apartment-balcony-solar-battery-backup-price-specs)
- - [Peak XV head Shailendra Singh discusses the Sequoia split, saying the move will remove potential conflicts, especially in AI and with Sequoia&#39;s US portfolio &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/230614/p13#a230614p13)<!-- TECH:END -->
+ - [Galaxy Watch will now tell you your ticker’s off with heart rate notifications](https://www.androidauthority.com/samsung-galaxy-watch-heart-rate-notifications-3334926/)
+ - [How to Download Your Reddit Data](https://www.wired.com/story/how-to-download-your-reddit-data/)
+ - [Amazon still doesn’t understand productivity tablets](https://www.theverge.com/23759197/amazon-fire-max-11-tablet-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
