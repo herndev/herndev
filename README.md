@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
- - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 👉 [You can always tell with the hair colour.](http://9gag.com/gag/a9qXveo)<!-- MEMES:END -->
+ - 💣 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - ⏩ [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
+ - 👉 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
 
 ---
 
