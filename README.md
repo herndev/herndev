@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
- - ⏩ [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - 👉 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
+ - 💣 [Mind-bending, pants-wetting, hold onto your butts kind of cinematic reveal](http://9gag.com/gag/aL1XG6z)
+ - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
+ - 👉 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)<!-- MEMES:END -->
 
 ---
 
