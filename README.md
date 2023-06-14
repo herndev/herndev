@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: US cyber insurance premiums surged 50% in 2022, due to ransomware attacks and online commerce, as policy holders claimed $7.2B, up 3x in three years &lpar;Marnie Munoz/Bloomberg&rpar;](http://www.techmeme.com/230614/p18#a230614p18)
- - [How to set up recurring Apple Cash payments in iOS 17](https://appleinsider.com/articles/23/06/14/how-to-set-up-recurring-apple-cash-payments-in-ios-17?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-14-2023-3334277/)<!-- TECH:END -->
+ - [Sonos slashes jobs and shrinks real estate presence in cost-cutting drive](https://appleinsider.com/articles/23/06/14/sonos-slashes-jobs-and-shrinks-real-estate-presence-in-cost-cutting-drive?utm_medium=rss)
+ - [US spy agencies are buying the same surveillance data advertisers crave](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
+ - [A profile of Guangying &quot;Heina&quot; Chen, a mysterious associate of Binance CEO Changpeng Zhao who appears repeatedly in the SEC&#39;s lawsuit against the exchange &lpar;Forbes&rpar;](http://www.techmeme.com/230614/p20#a230614p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
