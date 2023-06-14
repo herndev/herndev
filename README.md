@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
- - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/aDYXZn9)
+ - ⏩ [We really are](http://9gag.com/gag/ago27rK)
+ - 👉 [Wtf](http://9gag.com/gag/aDYXbO9)<!-- MEMES:END -->
 
 ---
 
