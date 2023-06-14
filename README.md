@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s CEO is leaving for another job](https://www.theverge.com/2023/6/13/23760115/logitech-ceo-bracken-darrell-resigns)
- - [Stack Overflow survey of ~90K developers in 185 countries: 70% use or plan to use AI coding tools in 2023; only 3% &quot;highly trust&quot; and 39% &quot;somewhat trust&quot; them &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230613/p44#a230613p44)
- - [Databricks says its annual revenue jumped 60%+ to $1B in the fiscal year ended in January and announces the acquisition of Rubicon, an AI storage system startup &lpar;Bloomberg&rpar;](http://www.techmeme.com/230613/p43#a230613p43)<!-- TECH:END -->
+ - [OpenAI releases new GPT-3.5-turbo and GPT-4 versions that include a new &quot;function calling&quot; feature, and reduces the pricing of the original GPT-3.5-turbo by 25% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230613/p47#a230613p47)
+ - [A US court issues a temporary restraining order preventing Microsoft&#39;s Activision Blizzard acquisition and sets an evidentiary hearing for June 22 and 23, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230613/p46#a230613p46)
+ - [Microsoft has been temporarily restrained from buying Activision Blizzard, judge rules](https://www.theverge.com/2023/6/13/23760192/microsoft-activision-blizzard-tro-granted-ftc-injunction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
