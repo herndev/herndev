@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch will now tell you your ticker’s off with heart rate notifications](https://www.androidauthority.com/samsung-galaxy-watch-heart-rate-notifications-3334926/)
- - [How to Download Your Reddit Data](https://www.wired.com/story/how-to-download-your-reddit-data/)
- - [Amazon still doesn’t understand productivity tablets](https://www.theverge.com/23759197/amazon-fire-max-11-tablet-review)<!-- TECH:END -->
+ - [Study: US cyber insurance premiums surged 50% in 2022, due to ransomware attacks and online commerce, as policy holders claimed $7.2B, up 3x in three years &lpar;Marnie Munoz/Bloomberg&rpar;](http://www.techmeme.com/230614/p18#a230614p18)
+ - [How to set up recurring Apple Cash payments in iOS 17](https://appleinsider.com/articles/23/06/14/how-to-set-up-recurring-apple-cash-payments-in-ios-17?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-14-2023-3334277/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
