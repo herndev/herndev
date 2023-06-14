@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind-bending, pants-wetting, hold onto your butts kind of cinematic reveal](http://9gag.com/gag/aL1XG6z)
- - ⏩ [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)
- - 👉 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)<!-- MEMES:END -->
+ - 💣 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
+ - ⏩ [Unexpected](http://9gag.com/gag/aDYXZn9)
+ - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 ---
 
