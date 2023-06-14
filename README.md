@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Google easter egg will have you rolling all around](https://www.androidauthority.com/google-katamari-easter-egg-3334955/)
- - [5 True Wireless Earbuds Worth Buying for Under $40     - CNET](https://www.cnet.com/tech/mobile/5-true-wireless-earbuds-under-40-worth-buying/#ftag=CAD590a51e)
- - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some US doctors are using ChatGPT to communicate more empathetically with patients, including when breaking bad news and explaining medical recommendations &lpar;Gina Kolata/New York Times&rpar;](http://www.techmeme.com/230614/p3#a230614p3)
+ - [One of the best Pixel features is now on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-at-a-glance-3334949/)
+ - [The latest Google easter egg will have you rolling all around](https://www.androidauthority.com/google-katamari-easter-egg-3334955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
