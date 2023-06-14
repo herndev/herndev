@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Rob Bearden, CEO of Cloudera, told employees he is stepping down, two years after KKR and CD&amp;R acquired the data management software company for ~$5.3B &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230613/p48#a230613p48)
- - [Best TV for Summer 2023: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [OpenAI releases new GPT-3.5-turbo and GPT-4 versions that include a new &quot;function calling&quot; feature, and reduces the pricing of the original GPT-3.5-turbo by 25% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230613/p47#a230613p47)<!-- TECH:END -->
+ - [NYC-based Medivis, whose SurgicalAR platform lets radiologists and surgeons holographically render MRI and CT images, raised a $20M Series A led by Thrive &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/230613/p50#a230613p50)
+ - [Tel Aviv-based Kodem, which uses runtime intelligence to find and mitigate application security risks, emerges from stealth with an $18M Series A and a $7M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230613/p49#a230613p49)
+ - [Source: Rob Bearden, CEO of Cloudera, told employees he is stepping down, two years after KKR and CD&amp;R acquired the data management software company for ~$5.3B &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230613/p48#a230613p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
