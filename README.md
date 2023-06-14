@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We really are](http://9gag.com/gag/ago27rK)
- - ⏩ [Rhythm](http://9gag.com/gag/aBdXPjD)
- - 👉 [And the Academy award goes to....](http://9gag.com/gag/aGE2Mm7)<!-- MEMES:END -->
+ - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - ⏩ [Wtf](http://9gag.com/gag/aDYXbO9)
+ - 👉 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)<!-- MEMES:END -->
 
 ---
 
