@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/aDYXZn9)
- - ⏩ [We really are](http://9gag.com/gag/ago27rK)
- - 👉 [Wtf](http://9gag.com/gag/aDYXbO9)<!-- MEMES:END -->
+ - 💣 [Chadantino](http://9gag.com/gag/a9qX29Z)
+ - ⏩ [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
+ - 👉 [I love tea.](http://9gag.com/gag/aEqXomG)<!-- MEMES:END -->
 
 ---
 
