@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases new GPT-3.5-turbo and GPT-4 versions that include a new &quot;function calling&quot; feature, and reduces the pricing of the original GPT-3.5-turbo by 25% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230613/p47#a230613p47)
- - [A US court issues a temporary restraining order preventing Microsoft&#39;s Activision Blizzard acquisition and sets an evidentiary hearing for June 22 and 23, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230613/p46#a230613p46)
- - [Microsoft has been temporarily restrained from buying Activision Blizzard, judge rules](https://www.theverge.com/2023/6/13/23760192/microsoft-activision-blizzard-tro-granted-ftc-injunction)<!-- TECH:END -->
+ - [Source: Rob Bearden, CEO of Cloudera, told employees he is stepping down, two years after KKR and CD&amp;R acquired the data management software company for ~$5.3B &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230613/p48#a230613p48)
+ - [Best TV for Summer 2023: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [OpenAI releases new GPT-3.5-turbo and GPT-4 versions that include a new &quot;function calling&quot; feature, and reduces the pricing of the original GPT-3.5-turbo by 25% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230613/p47#a230613p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
