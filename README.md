@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - ⏩ [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
- - 👉 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
+ - 💣 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
+ - ⏩ [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
+ - 👉 [The table has turned!](http://9gag.com/gag/ay2Q3Db)<!-- MEMES:END -->
 
 ---
 
