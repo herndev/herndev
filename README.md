@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of his best score](http://9gag.com/gag/aVb2KyK)
- - ⏩ [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
- - 👉 [Weeee....](http://9gag.com/gag/ajVK7o1)<!-- MEMES:END -->
+ - 💣 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
+ - ⏩ [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
+ - 👉 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
 
 ---
 
