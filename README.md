@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US National Music Publishers&#39; Association sues Twitter, alleging the company violates the copyright of songwriters by using ~1,700 songs without permission &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230614/p30#a230614p30)
- - [Best Buy Upgrade Plus lets you pay for a new Apple Watch Ultra over three years](https://www.theverge.com/2023/6/14/23760837/best-buy-upgrade-plus-financing-apple-watch-ultra-ipad-pro)
- - [Samsung says a Galaxy Watch update coming this summer will add an Irregular Heart Rhythm Notifications feature in 13 markets, including the US and South Korea &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230614/p29#a230614p29)<!-- TECH:END -->
+ - [EU takes major step toward AI regulation as the AI Act moves into final phase](https://www.androidauthority.com/ai-act-moves-forward-3335218/)
+ - [In a case study, researchers estimate that between 33% and 46% of Mechanical Turk workers used LLMs when completing a text summarization task &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230614/p31#a230614p31)
+ - [Google probably owes you money and here’s how to get it](https://www.androidauthority.com/google-class-action-2023-3335244/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
