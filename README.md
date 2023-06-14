@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Had to clarify](http://9gag.com/gag/a3ZW8X5)
- - ⏩ [The science and arts of nuts](http://9gag.com/gag/aGE2MpX)
- - 👉 [Rhythm](http://9gag.com/gag/aBdXPjD)<!-- MEMES:END -->
+ - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - ⏩ [One of his best score](http://9gag.com/gag/aVb2KyK)
+ - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 ---
 
