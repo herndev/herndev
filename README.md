@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - ⏩ [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
- - 👉 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
+ - 💣 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - ⏩ [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
+ - 👉 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
 
 ---
 
