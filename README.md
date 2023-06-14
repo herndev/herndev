@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
- - ⏩ [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
- - 👉 [The table has turned!](http://9gag.com/gag/ay2Q3Db)<!-- MEMES:END -->
+ - 💣 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
+ - ⏩ [The last dude at the end](http://9gag.com/gag/aQE2ADz)
+ - 👉 [One of his best score](http://9gag.com/gag/aVb2KyK)<!-- MEMES:END -->
 
 ---
 
