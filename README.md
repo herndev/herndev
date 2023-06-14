@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU is funding Huawei to run 11 projects, ranging from AI and 6G to cloud computing, despite several EU nations banning the firm from their telecom networks &lpar;Financial Times&rpar;](http://www.techmeme.com/230614/p2#a230614p2)
  - [Researchers devise how to steal the encryption keys in smart cards and smartphones by video recording the devices&#39; power LEDs, with some real-world limitations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230614/p1#a230614p1)
- - [As Microsoft aims to be carbon negative by 2030, a review finds 14 out of 27 of the company&#39;s top production suppliers have increased their emissions since 2020 &lpar;The Verge&rpar;](http://www.techmeme.com/230613/p51#a230613p51)
- - [NYC-based Medivis, whose SurgicalAR platform lets radiologists and surgeons holographically render MRI and CT images, raised a $20M Series A led by Thrive &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/230613/p50#a230613p50)<!-- TECH:END -->
+ - [As Microsoft aims to be carbon negative by 2030, a review finds 14 out of 27 of the company&#39;s top production suppliers have increased their emissions since 2020 &lpar;The Verge&rpar;](http://www.techmeme.com/230613/p51#a230613p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
