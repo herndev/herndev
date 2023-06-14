@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital NAS drives flash ‘warning’ after three years even if nothing’s wrong](https://www.theverge.com/2023/6/13/23759368/western-digital-three-years-warning-synology-nas)
- - [Samsung Galaxy Z Fold 5 release date: When will it launch?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-3334808/)
- - [The Irish DPC says Google must delay Bard&#39;s launch in the EU because it has insufficient information about how it will respect the EU&#39;s data privacy rules &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230613/p42#a230613p42)<!-- TECH:END -->
+ - [Logitech’s CEO is leaving for another job](https://www.theverge.com/2023/6/13/23760115/logitech-ceo-bracken-darrell-resigns)
+ - [Stack Overflow survey of ~90K developers in 185 countries: 70% use or plan to use AI coding tools in 2023; only 3% &quot;highly trust&quot; and 39% &quot;somewhat trust&quot; them &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230613/p44#a230613p44)
+ - [Databricks says its annual revenue jumped 60%+ to $1B in the fiscal year ended in January and announces the acquisition of Rubicon, an AI storage system startup &lpar;Bloomberg&rpar;](http://www.techmeme.com/230613/p43#a230613p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
