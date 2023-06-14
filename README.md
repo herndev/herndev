@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yuzo Koshiro on remastering Etrian Odyssey’s music and having fun with old hardware](https://www.theverge.com/23755370/yuzo-koshiro-interview-game-music-etrian-odyssey)
- - [Apple’s new 15-inch MacBook Air is still $50 off at Amazon](https://www.theverge.com/2023/6/14/23759788/apple-macbook-air-15-inch-belkin-magsafe-continuity-camera-mount-metroid-dread-deal-sale)
- - [Google Lens gets a skin condition feature that shows search results &quot;visually similar to what you see on your skin&quot; while warning they are &quot;not a diagnosis&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230614/p27#a230614p27)<!-- TECH:END -->
+ - [Razer updates its Blade 14 laptop with AMD Ryzen 9 7940HS, Nvidia&#39;s RTX 4060 or RTX 4070, up to 32GB of RAM, and 14&quot; QHD+ 240Hz display, starting at $2,400 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230614/p28#a230614p28)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Lowest price ever: 16-inch MacBook Pro with 32GB RAM plunges to $1,849, plus $80 off AppleCare](https://appleinsider.com/articles/23/06/14/lowest-price-ever-16-inch-macbook-pro-with-32gb-ram-plunges-to-1849-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
