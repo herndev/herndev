@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s New AI Tool Is About to Make Online Shopping Even Easier](https://www.wired.com/story/google-generative-ai-clothes-shopping/)
- - [New Google Shopping feature uses AI to model clothing on different body types](https://www.theverge.com/2023/6/14/23760504/google-shopping-ai-modeling-virtual-try-on-search-filters)
- - [Lowest price of 2023 on the 12.9-inch Apple iPad Pro](https://www.androidauthority.com/2022-apple-ipad-pro-deal-3335092/)<!-- TECH:END -->
+ - [Google rolls out slew of new AI-powered features for Search, Maps, and more](https://www.androidauthority.com/google-ai-tools-launch-3335058/)
+ - [Best Gifts for Serious Photographers in 2023     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
+ - [US and international cybersecurity authorities say the LockBit ransomware gang extorted ~$91M in the US since 2020, following approximately 1,700 attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230614/p25#a230614p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
