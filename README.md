@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Upvote it. To have it on the front page](https://www.reddit.com/r/memes/comments/149izb9/upvote_it_to_have_it_on_the_front_page/)
- - ⏩ [This is so cute and wholesome](http://9gag.com/gag/ap9Ab2b)
- - 👉 [I love it here &lt;3](http://9gag.com/gag/a5Xj2eG)<!-- MEMES:END -->
+ - 💣 [The protest must continue in order for the number of online users to drop significantly](https://www.reddit.com/r/memes/comments/149khbs/the_protest_must_continue_in_order_for_the_number/)
+ - ⏩ [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)
+ - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 ---
 
