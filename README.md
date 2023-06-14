@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The protest must continue in order for the number of online users to drop significantly](https://www.reddit.com/r/memes/comments/149khbs/the_protest_must_continue_in_order_for_the_number/)
- - ⏩ [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)
- - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 💣 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
+ - ⏩ [Wtf](http://9gag.com/gag/aDYXbO9)
+ - 👉 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)<!-- MEMES:END -->
 
 ---
 
