@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s new Solix home solar battery system is a modular version of Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
- - [Call of Duty: Warzone Mobile: When will the latest FPS release?](https://www.androidauthority.com/cod-warzone-mobile-3334414/)
- - [The Samsung Galaxy S23 FE will launch globally soon. Or will it?](https://www.androidauthority.com/samsung-galaxy-s23-fe-launch-3334929/)<!-- TECH:END -->
+ - [The latest Google easter egg will have you rolling all around](https://www.androidauthority.com/google-katamari-easter-egg-3334955/)
+ - [5 True Wireless Earbuds Worth Buying for Under $40     - CNET](https://www.cnet.com/tech/mobile/5-true-wireless-earbuds-under-40-worth-buying/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
