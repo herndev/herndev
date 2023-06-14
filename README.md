@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
- - ⏩ [Unexpected](http://9gag.com/gag/aDYXZn9)
- - 👉 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 💣 [Had to clarify](http://9gag.com/gag/a3ZW8X5)
+ - ⏩ [The science and arts of nuts](http://9gag.com/gag/aGE2MpX)
+ - 👉 [Rhythm](http://9gag.com/gag/aBdXPjD)<!-- MEMES:END -->
 
 ---
 
