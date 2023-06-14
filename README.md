@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - ⏩ [The last dude at the end](http://9gag.com/gag/aQE2ADz)
- - 👉 [One of his best score](http://9gag.com/gag/aVb2KyK)<!-- MEMES:END -->
+ - 💣 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
+ - ⏩ [When your life flashed before your eyes](http://9gag.com/gag/a8qw0wZ)
+ - 👉 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)<!-- MEMES:END -->
 
 ---
 
