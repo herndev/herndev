@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/aDYXZn9)
- - ⏩ [One of his best score](http://9gag.com/gag/aVb2KyK)
- - 👉 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)<!-- MEMES:END -->
+ - 💣 [We really are](http://9gag.com/gag/ago27rK)
+ - ⏩ [Rhythm](http://9gag.com/gag/aBdXPjD)
+ - 👉 [And the Academy award goes to....](http://9gag.com/gag/aGE2Mm7)<!-- MEMES:END -->
 
 ---
 
