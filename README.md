@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Arm discusses participating in its IPO with 10+ clients, including Intel, Apple, Alphabet, TSMC, and Samsung; any decision won&#39;t come until August &lpar;Reuters&rpar;](http://www.techmeme.com/230614/p5#a230614p5)
- - [From video messages to HD photos, WhatsApp is working on several new features](https://www.androidauthority.com/whatsapp-beta-new-features-video-messages-3334974/)
- - [Comprehensive.io: salaries for senior engineers who specialize in AI and ML are 12% higher than for those who do not; AI-related salaries rose 4% in a year &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230614/p4#a230614p4)<!-- TECH:END -->
+ - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
+ - [Apple has invested over $200 million in its Racial Equity and Justice Initiative](https://appleinsider.com/articles/23/06/14/apple-has-invested-over-200-million-in-its-racial-equity-and-justice-initiative?utm_medium=rss)
+ - [Five boring apps that Apple shouldn&#39;t forget about for the Apple Vision Pro](https://appleinsider.com/articles/23/06/14/five-boring-apps-that-apple-shouldnt-forget-about-for-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
