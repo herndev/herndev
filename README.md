@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Had to clarify](http://9gag.com/gag/a3ZW8X5)
- - ⏩ [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)
- - 👉 [Jimmy Carr getting boo hoo ed](http://9gag.com/gag/ay2QWVq)<!-- MEMES:END -->
+ - 💣 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
+ - ⏩ [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - 👉 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 ---
 
