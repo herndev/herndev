@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chadantino](http://9gag.com/gag/a9qX29Z)
- - ⏩ [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
- - 👉 [I love tea.](http://9gag.com/gag/aEqXomG)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/aDYXbO9)
+ - ⏩ [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - 👉 [Man finally sold his car after 34 years...](http://9gag.com/gag/aVb2mbM)<!-- MEMES:END -->
 
 ---
 
