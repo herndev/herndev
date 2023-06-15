@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Calm vs Headspace: Which meditation app is right for you?](https://www.androidauthority.com/headspace-vs-calm-3334451/)
- - [Some hackers are impersonating cybersecurity researchers on Twitter and GitHub to post fake zero-day proof-of-concept exploits that push Windows/Linux malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230614/p34#a230614p34)
- - [Emoji wallpapers: What are they and how to use them](https://www.androidauthority.com/android-emoji-wallpapers-3335300/)<!-- TECH:END -->
+ - [How to make your iPhone sound like you using Personal Voice in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-your-iphone-sound-like-you-using-personal-voice-in-ios-17?utm_medium=rss)
+ - [Didi has a market cap of ~$14B, one year after its NYSE delisting, and has maintained a ~70% share in China&#39;s ride-hailing market, despite Beijing&#39;s crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230614/p35#a230614p35)
+ - [Calm vs Headspace: Which meditation app is right for you?](https://www.androidauthority.com/headspace-vs-calm-3334451/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
