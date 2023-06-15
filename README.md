@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im original](https://www.reddit.com/r/memes/comments/14a63l6/im_original/)
- - ⏩ [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)
- - 👉 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)<!-- MEMES:END -->
+ - 💣 [If you know you know...](http://9gag.com/gag/aA0X4jR)
+ - ⏩ [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)
+ - 👉 [Totally no bait](http://9gag.com/gag/amAVVQo)<!-- MEMES:END -->
 
 ---
 
