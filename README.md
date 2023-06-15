@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or was this the RIGHT one? Let me know!](http://9gag.com/gag/a9qXXp1)
- - ⏩ [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - 👉 [The Matrix, but for bees...](http://9gag.com/gag/a7qNNez)<!-- MEMES:END -->
+ - 💣 [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
+ - ⏩ [I love tea.](http://9gag.com/gag/aEqXomG)
+ - 👉 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
 
 ---
 
