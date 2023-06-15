@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Cinematic wallpapers are live: Here’s how to use them](https://www.androidauthority.com/android-cinematic-wallpapers-3328906/)
- - [Meta AI&#39;s Yann LeCun says experts&#39; fears of AI threatening humanity are &quot;preposterously ridiculous&quot; and keeping research &quot;under lock and key&quot; would be a mistake &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230615/p5#a230615p5)
- - [CCDH: Google made ~$10M in two years from ads by anti-abortion organizations misdirecting users to &quot;pregnancy crisis centers&quot; that do not actually provide care &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/230615/p4#a230615p4)<!-- TECH:END -->
+ - [Google Made Millions From Ads for Fake Abortion Clinics](https://www.wired.com/story/google-made-millions-from-ads-for-fake-abortion-clinics/)
+ - [Price war: Apple&#39;s new M2 MacBook Air 15-inch falls to $1,199 at Amazon, B&amp;H](https://appleinsider.com/articles/23/06/15/price-war-apples-new-m2-macbook-air-15-inch-falls-to-1199-at-amazon-bh?utm_medium=rss)
+ - [JBL Bar 1300X Review: A Rechargeable Home Theater](https://www.wired.com/review/jbl-bar-1300x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
