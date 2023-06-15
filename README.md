@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two US cable giants are launching their own streaming box later this year](https://www.androidauthority.com/comcast-charter-streaming-box-3335364/)
- - [Applied Materials sues Chinese-owned, California-based rival Mattson over an alleged 14-month effort to steal IP, including staff-poaching and design transfers &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230615/p13#a230615p13)
- - [A look at Apple&#39;s Game Porting Toolkit, based on a 20K line of code patch to Wine, easing ports to Apple silicon, and possible paths Apple may take with gaming &lpar;Christina Warren/Inverse&rpar;](http://www.techmeme.com/230615/p12#a230615p12)<!-- TECH:END -->
+ - [Streamlabs helps streamers jump into podcasting with new Podcast Editor](https://www.theverge.com/2023/6/15/23761896/streamlabs-logitech-podcast-editor-streaming-twitch-youtube-price-release)
+ - [How to start a smart home using Home Assistant](https://www.theverge.com/23744526/smart-home-assistant-how-to-automation)
+ - [Despite the US adding Hangzhou-based encryption chip maker Hualan to its Entity List in 2021, NASA, NATO, the DEA, and more still use chips from its subsidiary &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230615/p18#a230615p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
