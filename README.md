@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
- - [Best 5g home internet providers: is it worth making the switch to 5G internet?](https://www.androidauthority.com/best-5g-home-internet-providers-is-it-worth-making-the-switch-to-5g-internet-3335488/)
- - [Watch the first trailer for Babylon 5: The Road Home](https://www.theverge.com/2023/6/15/23141717/babylon-5-the-road-home-first-animated-trailer)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Twitch’s new Partner Plus tier outlines what it takes to get a 70 / 30 revenue sharing split](https://www.theverge.com/2023/6/15/23762296/twitch-streamer-partner-plus-revenue-sharing)
+ - [Kaiko: crypto trading volumes hit yearly lows in Q2, with $10B average daily volumes for the top 10 tokens, down from $18B average daily volumes in Q1 2023 &lpar;Lyllah Ledesma/CoinDesk&rpar;](http://www.techmeme.com/230615/p34#a230615p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
