@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Fake Review Watch on YouTube, run by Kay Dean, documenting fake reviews on Yelp, Google, and others, often tracing them back to Facebook Groups &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/230615/p2#a230615p2)
  - [Sources: at a May meeting, the Hong Kong Monetary Authority questioned HSBC, Standard Chartered, and Bank of China on why they were not accepting crypto clients &lpar;Financial Times&rpar;](http://www.techmeme.com/230615/p1#a230615p1)
- - [Twitter sued for $250 million by music publishers over ‘massive’ copyright infringement](https://www.theverge.com/2023/6/14/23761680/twitter-music-lawsuit-nmpa-copyright-infringement)
- - [Microsoft researchers detail Cadet Blizzard, a GRU hacking group they claim is behind WhisperGate data-wiping attacks in Ukraine just before Russia&#39;s invasion &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230614/p36#a230614p36)<!-- TECH:END -->
+ - [Twitter sued for $250 million by music publishers over ‘massive’ copyright infringement](https://www.theverge.com/2023/6/14/23761680/twitter-music-lawsuit-nmpa-copyright-infringement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
