@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy hell](https://www.reddit.com/r/memes/comments/14aeqe1/holy_hell/)
- - ⏩ [I found it](http://9gag.com/gag/ajVKKbx)
- - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
+ - 💣 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - ⏩ [Lisa isn&#39;t thankful](http://9gag.com/gag/aDYXQZx)
+ - 👉 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
 
 ---
 
