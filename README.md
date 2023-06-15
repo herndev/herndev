@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You gotta love it when reality wins!](http://9gag.com/gag/aeQ22zp)
- - ⏩ [Remember.](http://9gag.com/gag/aWG2Don)
+ - 💣 [Thanks for turning Reddit into a wasteland, spez](https://www.reddit.com/r/memes/comments/149zevx/thanks_for_turning_reddit_into_a_wasteland_spez/)
+ - ⏩ [Spanish police found 1.000kg of cocaine hidden inside of rocks.](http://9gag.com/gag/avQvv3b)
  - 👉 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
 
 ---
