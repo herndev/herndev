@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)
- - ⏩ [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)
+ - 💣 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
+ - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
  - 👉 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
 
 ---
