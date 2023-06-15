@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You gotta love it when reality wins!](http://9gag.com/gag/aeQ22zp)
- - ⏩ [This guy decided to drive trough Denmark in his brand new Lamborghini Huracan Spider at 228 km/h. Cars are confiscated when you&#39;re speeding more than 100% of the speed limit or above 200 km/h. The court just ruled that the law doesnt&#39;t violates any rights, so it&#39;s gone.](http://9gag.com/gag/aPgXQrB)
- - 👉 [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)<!-- MEMES:END -->
+ - 💣 [Man creates an explosion instead of a bonfire for a school event](http://9gag.com/gag/a04EMpn)
+ - ⏩ [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
+ - 👉 [Chadantino](http://9gag.com/gag/a9qX29Z)<!-- MEMES:END -->
 
 ---
 
