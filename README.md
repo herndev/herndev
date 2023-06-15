@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card Monthly Installments financing terms are changing for iPhone and Apple Watch](https://appleinsider.com/articles/23/06/15/apple-card-monthly-installments-financing-terms-are-changing-for-iphone-and-apple-watch?utm_medium=rss)
- - [Sources: Meta is working on ways to make the next version of LLaMA available for commercial use; the model is currently only licensed for research use &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/230615/p40#a230615p40)
- - [Galaxy Z Fold 5 folds flat, as confirmed by first leaked press render](https://www.androidauthority.com/samsung-galaxy-z-fold-5-folds-flat-3335757/)<!-- TECH:END -->
+ - [The best cheap iPhone in 2023](https://www.androidauthority.com/best-cheap-iphone-3335734/)
+ - [Amazon officially opens Metropolitan Park in Arlington, Virginia, the first phase of its HQ2, where it has projected to bring 25,000 workers by 2030 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/230615/p41#a230615p41)
+ - [Reddit says it won’t overrule mods and force subreddits back open](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
