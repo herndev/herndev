@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google warns Googlers to be wary about using Google Bard](https://www.androidauthority.com/google-bard-privacy-3335539/)
- - [Alibaba plans to launch its e-commerce site Tmall in Europe, starting with a pilot in Spain, a significant step in the company&#39;s international expansion &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230615/p29#a230615p29)
- - [Meta expands Instagram Channels globally, letting users share public, one-to-many text, images, and other content with their followers &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230615/p28#a230615p28)<!-- TECH:END -->
+ - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
+ - [Best 5g home internet providers: is it worth making the switch to 5G internet?](https://www.androidauthority.com/best-5g-home-internet-providers-is-it-worth-making-the-switch-to-5g-internet-3335488/)
+ - [Watch the first trailer for Babylon 5: The Road Home](https://www.theverge.com/2023/6/15/23141717/babylon-5-the-road-home-first-animated-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
