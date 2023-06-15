@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy decided to drive trough Denmark in his brand new Lamborghini Huracan Spider at 228 km/h. Cars are confiscated when you&#39;re speeding more than 100% of the speed limit or above 200 km/h. The court just ruled that the law doesnt&#39;t violates any rights, so it&#39;s gone.](http://9gag.com/gag/aPgXQrB)
- - ⏩ [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
- - 👉 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
+ - 💣 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - ⏩ [What do you expect?](http://9gag.com/gag/a2KbbLE)
+ - 👉 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
 
 ---
 
