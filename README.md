@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streamlabs helps streamers jump into podcasting with new Podcast Editor](https://www.theverge.com/2023/6/15/23761896/streamlabs-logitech-podcast-editor-streaming-twitch-youtube-price-release)
- - [How to start a smart home using Home Assistant](https://www.theverge.com/23744526/smart-home-assistant-how-to-automation)
- - [Despite the US adding Hangzhou-based encryption chip maker Hualan to its Entity List in 2021, NASA, NATO, the DEA, and more still use chips from its subsidiary &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230615/p18#a230615p18)<!-- TECH:END -->
+ - [Motorola Moto G Stylus 5G and Moto G Stylus 2023 Review: Average Android Phones](https://www.wired.com/review/motorola-moto-g-stylus-5g-moto-g-stylus-2023/)
+ - [‘Hey Disney!’ voice assistant is now available on US Echo devices](https://www.theverge.com/2023/6/15/23761850/amazon-alexa-hey-disney-echo-voice-assistant-release-price)
+ - [Intel is officially killing off the ‘i’ in Core i7 — as it goes Ultra](https://www.theverge.com/21559670/intel-core-rebrand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
