@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Made Millions From Ads for Fake Abortion Clinics](https://www.wired.com/story/google-made-millions-from-ads-for-fake-abortion-clinics/)
- - [Price war: Apple&#39;s new M2 MacBook Air 15-inch falls to $1,199 at Amazon, B&amp;H](https://appleinsider.com/articles/23/06/15/price-war-apples-new-m2-macbook-air-15-inch-falls-to-1199-at-amazon-bh?utm_medium=rss)
- - [JBL Bar 1300X Review: A Rechargeable Home Theater](https://www.wired.com/review/jbl-bar-1300x/)<!-- TECH:END -->
+ - [Research: Southeast Asia&#39;s ecommerce GMV reached $99.5B in 2022, up 1.8x from 2020, with Shopee accounting for $47.9B, Lazada $20.1B, and Tokopedia $18.4B &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230615/p7#a230615p7)
+ - [A look at ByteDance&#39;s efforts to turn Douyin into a super app; ByteDance says Douyin&#39;s 700M users increased their spending on its on-demand services 7x in 2022 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230615/p6#a230615p6)
+ - [This could be the biggest change on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-internal-spec-leak-3335366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
