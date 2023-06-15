@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make your iPhone sound like you using Personal Voice in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-your-iphone-sound-like-you-using-personal-voice-in-ios-17?utm_medium=rss)
- - [Didi has a market cap of ~$14B, one year after its NYSE delisting, and has maintained a ~70% share in China&#39;s ride-hailing market, despite Beijing&#39;s crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230614/p35#a230614p35)
- - [Calm vs Headspace: Which meditation app is right for you?](https://www.androidauthority.com/headspace-vs-calm-3334451/)<!-- TECH:END -->
+ - [Twitter sued for $250 million by music publishers over ‘massive’ copyright infringement](https://www.theverge.com/2023/6/14/23761680/twitter-music-lawsuit-nmpa-copyright-infringement)
+ - [Microsoft researchers detail Cadet Blizzard, a GRU hacking group they claim is behind WhisperGate data-wiping attacks in Ukraine just before Russia&#39;s invasion &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230614/p36#a230614p36)
+ - [How to make your iPhone sound like you using Personal Voice in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-your-iphone-sound-like-you-using-personal-voice-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
