@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Fake Review Watch on YouTube, run by Kay Dean, documenting fake reviews on Yelp, Google, and others, often tracing them back to Facebook Groups &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/230615/p2#a230615p2)
- - [Sources: at a May meeting, the Hong Kong Monetary Authority questioned HSBC, Standard Chartered, and Bank of China on why they were not accepting crypto clients &lpar;Financial Times&rpar;](http://www.techmeme.com/230615/p1#a230615p1)
- - [Twitter sued for $250 million by music publishers over ‘massive’ copyright infringement](https://www.theverge.com/2023/6/14/23761680/twitter-music-lawsuit-nmpa-copyright-infringement)<!-- TECH:END -->
+ - [Android Cinematic wallpapers are live: Here’s how to use them](https://www.androidauthority.com/android-cinematic-wallpapers-3328906/)
+ - [Meta AI&#39;s Yann LeCun says experts&#39; fears of AI threatening humanity are &quot;preposterously ridiculous&quot; and keeping research &quot;under lock and key&quot; would be a mistake &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230615/p5#a230615p5)
+ - [CCDH: Google made ~$10M in two years from ads by anti-abortion organizations misdirecting users to &quot;pregnancy crisis centers&quot; that do not actually provide care &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/230615/p4#a230615p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
