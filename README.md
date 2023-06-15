@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve releases a Steam update, announced in April, offering a big UI makeover, unifying the codebase for Desktop, Big Picture Mode, and Steam Deck, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230615/p10#a230615p10)
- - [Bug in new Mac Pro is disconnecting internal drives](https://appleinsider.com/articles/23/06/15/bug-in-new-mac-pro-is-disconnecting-internal-drives?utm_medium=rss)
- - [Siemens plans to spend &amp;euro;2B to build factories, R&amp;D centers, and more, including a &amp;euro;200M plant in Singapore for automation; revenue in 2022 rose 16% YoY to &amp;euro;72B &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/230615/p9#a230615p9)<!-- TECH:END -->
+ - [Two US cable giants are launching their own streaming box later this year](https://www.androidauthority.com/comcast-charter-streaming-box-3335364/)
+ - [Applied Materials sues Chinese-owned, California-based rival Mattson over an alleged 14-month effort to steal IP, including staff-poaching and design transfers &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230615/p13#a230615p13)
+ - [A look at Apple&#39;s Game Porting Toolkit, based on a 20K line of code patch to Wine, easing ports to Apple silicon, and possible paths Apple may take with gaming &lpar;Christina Warren/Inverse&rpar;](http://www.techmeme.com/230615/p12#a230615p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
