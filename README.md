@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Stylus 5G and Moto G Stylus 2023 Review: Average Android Phones](https://www.wired.com/review/motorola-moto-g-stylus-5g-moto-g-stylus-2023/)
- - [‘Hey Disney!’ voice assistant is now available on US Echo devices](https://www.theverge.com/2023/6/15/23761850/amazon-alexa-hey-disney-echo-voice-assistant-release-price)
- - [Intel is officially killing off the ‘i’ in Core i7 — as it goes Ultra](https://www.theverge.com/21559670/intel-core-rebrand)<!-- TECH:END -->
+ - [Epic’s latest tool can animate hyperrealistic MetaHumans with an iPhone](https://www.theverge.com/2023/6/15/23761852/epic-games-metahuman-animator-performance-capture-iphone)
+ - [OnePlus Nord N30 5G review: midrange performance, budget phone problems](https://www.theverge.com/23761214/oneplus-nord-n30-5g-review-battery-screen-camera-price)
+ - [Steam update brings new features &amp; Mac hardware acceleration](https://appleinsider.com/articles/23/06/15/steam-update-brings-new-features-mac-hardware-acceleration?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
