@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Microsoft is no longer making Xbox One games](https://www.theverge.com/2023/6/15/23762441/microsoft-xbox-one-no-more-first-party-xbox-games)
- - [Apple visionOS: Everything you need to know about Apple’s OS for AR-VR headsets](https://www.androidauthority.com/apple-visionos-3335430/)<!-- TECH:END -->
+ - [The Xbox One era is over, Microsoft will now only make games for the Series X/S](https://www.androidauthority.com/microsoft-xbox-one-3335656/)
+ - [Which devices work with Matter and what’s coming soon](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
+ - [Apps Apple Sherlocked at WWDC23 in iOS 17 and macOS Sonoma](https://appleinsider.com/articles/23/06/15/apps-apple-sherlocked-at-wwdc23-in-ios-17-and-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
