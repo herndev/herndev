@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet winds down Google Domains and sells its assets, including ~10M domains &quot;spread across millions of customers&quot;, to Squarespace, a source says for ~$180M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230615/p38#a230615p38)
- - [Steam Deck 2: Release date, price, rumors, specs, and what we want to see](https://www.androidauthority.com/steam-deck-2-3251778/)
- - [Adobe reports Q2 revenue up 10% YoY to $4.82B, vs. $4.77B est., Digital Media revenue up 10% YoY to $3.51B, and Digital Experience revenue up 12% YoY to $1.22B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230615/p37#a230615p37)<!-- TECH:END -->
+ - [Apple Card Monthly Installments financing terms are changing for iPhone and Apple Watch](https://appleinsider.com/articles/23/06/15/apple-card-monthly-installments-financing-terms-are-changing-for-iphone-and-apple-watch?utm_medium=rss)
+ - [Sources: Meta is working on ways to make the next version of LLaMA available for commercial use; the model is currently only licensed for research use &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/230615/p40#a230615p40)
+ - [Galaxy Z Fold 5 folds flat, as confirmed by first leaked press render](https://www.androidauthority.com/samsung-galaxy-z-fold-5-folds-flat-3335757/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
