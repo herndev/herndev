@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xbox One era is over, Microsoft will now only make games for the Series X/S](https://www.androidauthority.com/microsoft-xbox-one-3335656/)
- - [Which devices work with Matter and what’s coming soon](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [Apps Apple Sherlocked at WWDC23 in iOS 17 and macOS Sonoma](https://appleinsider.com/articles/23/06/15/apps-apple-sherlocked-at-wwdc23-in-ios-17-and-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Alphabet winds down Google Domains and sells its assets, including ~10M domains &quot;spread across millions of customers&quot;, to Squarespace, a source says for ~$180M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230615/p38#a230615p38)
+ - [Steam Deck 2: Release date, price, rumors, specs, and what we want to see](https://www.androidauthority.com/steam-deck-2-3251778/)
+ - [Adobe reports Q2 revenue up 10% YoY to $4.82B, vs. $4.77B est., Digital Media revenue up 10% YoY to $3.51B, and Digital Experience revenue up 12% YoY to $1.22B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230615/p37#a230615p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
