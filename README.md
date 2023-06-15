@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emoji wallpapers: What are they and how to use them](https://www.androidauthority.com/android-emoji-wallpapers-3335300/)
  - [Canva announces a new SDK, a set of APIs, and a $50M fund to help developers build apps for its marketplace &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230614/p33#a230614p33)
- - [It’s not just you: Steam suddenly looks nice](https://www.theverge.com/2023/6/14/23761522/steam-ui-overhaul-makeover-interface-notes-notifications)
- - [Microsoft tests Windows Ink upgrade that lets you write anywhere you can type](https://www.theverge.com/2023/6/14/23761371/windows-ink-writing-fields-insider-preview-23481)<!-- TECH:END -->
+ - [It’s not just you: Steam suddenly looks nice](https://www.theverge.com/2023/6/14/23761522/steam-ui-overhaul-makeover-interface-notes-notifications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
