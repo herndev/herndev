@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: Southeast Asia&#39;s ecommerce GMV reached $99.5B in 2022, up 1.8x from 2020, with Shopee accounting for $47.9B, Lazada $20.1B, and Tokopedia $18.4B &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230615/p7#a230615p7)
- - [A look at ByteDance&#39;s efforts to turn Douyin into a super app; ByteDance says Douyin&#39;s 700M users increased their spending on its on-demand services 7x in 2022 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230615/p6#a230615p6)
- - [This could be the biggest change on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-internal-spec-leak-3335366/)<!-- TECH:END -->
+ - [Valve releases a Steam update, announced in April, offering a big UI makeover, unifying the codebase for Desktop, Big Picture Mode, and Steam Deck, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230615/p10#a230615p10)
+ - [Bug in new Mac Pro is disconnecting internal drives](https://appleinsider.com/articles/23/06/15/bug-in-new-mac-pro-is-disconnecting-internal-drives?utm_medium=rss)
+ - [Siemens plans to spend &amp;euro;2B to build factories, R&amp;D centers, and more, including a &amp;euro;200M plant in Singapore for automation; revenue in 2022 rose 16% YoY to &amp;euro;72B &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/230615/p9#a230615p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
