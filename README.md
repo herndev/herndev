@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tests Windows Ink upgrade that lets you write anywhere you can type](https://www.theverge.com/2023/6/14/23761371/windows-ink-writing-fields-insider-preview-23481)
- - [Anker’s 240W Prime USB-C charger can fast-charge two MacBook Pros simultaneously](https://www.theverge.com/2023/6/14/23760701/anker-prime-usb-c-240w-charger-battery-bank)
- - [Munich-based Fernride, which develops technology for autonomous driving and remote control of electric yard trucks, raised a $31M Series A &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/230614/p32#a230614p32)<!-- TECH:END -->
+ - [Canva announces a new SDK, a set of APIs, and a $50M fund to help developers build apps for its marketplace &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230614/p33#a230614p33)
+ - [It’s not just you: Steam suddenly looks nice](https://www.theverge.com/2023/6/14/23761522/steam-ui-overhaul-makeover-interface-notes-notifications)
+ - [Microsoft tests Windows Ink upgrade that lets you write anywhere you can type](https://www.theverge.com/2023/6/14/23761371/windows-ink-writing-fields-insider-preview-23481)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
