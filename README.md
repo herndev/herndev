@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla battery material supplier tops list of human rights abuses for second year in a row](https://www.theverge.com/2023/6/15/23760915/tesla-supplier-glencore-human-rights-abuse-allegations-battery-minerals-mining-energy)
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Ex-Apple staff are behind hundreds of top tech startups](https://appleinsider.com/articles/23/06/15/ex-apple-staff-are-behind-hundreds-of-top-tech-startups?utm_medium=rss)<!-- TECH:END -->
+ - [Google warns Googlers to be wary about using Google Bard](https://www.androidauthority.com/google-bard-privacy-3335539/)
+ - [Alibaba plans to launch its e-commerce site Tmall in Europe, starting with a pilot in Spain, a significant step in the company&#39;s international expansion &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230615/p29#a230615p29)
+ - [Meta expands Instagram Channels globally, letting users share public, one-to-many text, images, and other content with their followers &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230615/p28#a230615p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
