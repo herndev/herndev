@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What If...?](http://9gag.com/gag/aqezzrR)
- - ⏩ [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
- - 👉 [The Matrix, but for bees...](http://9gag.com/gag/a7qNNez)<!-- MEMES:END -->
+ - 💣 [You gotta love it when reality wins!](http://9gag.com/gag/aeQ22zp)
+ - ⏩ [Remember.](http://9gag.com/gag/aWG2Don)
+ - 👉 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
 
 ---
 
