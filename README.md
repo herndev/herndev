@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man creates an explosion instead of a bonfire for a school event](http://9gag.com/gag/a04EMpn)
- - ⏩ [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
- - 👉 [Chadantino](http://9gag.com/gag/a9qX29Z)<!-- MEMES:END -->
+ - 💣 [Or was this the RIGHT one? Let me know!](http://9gag.com/gag/a9qXXp1)
+ - ⏩ [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
+ - 👉 [The Matrix, but for bees...](http://9gag.com/gag/a7qNNez)<!-- MEMES:END -->
 
 ---
 
