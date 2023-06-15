@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
- - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
- - 👉 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
+ - 💣 [Holy hell](https://www.reddit.com/r/memes/comments/14aeqe1/holy_hell/)
+ - ⏩ [I found it](http://9gag.com/gag/ajVKKbx)
+ - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
 
 ---
 
