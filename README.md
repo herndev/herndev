@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It really works](http://9gag.com/gag/awZ4Yby)
- - ⏩ [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
- - 👉 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)<!-- MEMES:END -->
+ - 💣 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)
+ - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
+ - 👉 [If you know you know...](http://9gag.com/gag/aA0X4jR)<!-- MEMES:END -->
 
 ---
 
