@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You gotta love it when reality wins!](http://9gag.com/gag/aeQ22zp)
+ - 💣 [What If...?](http://9gag.com/gag/aqezzrR)
  - ⏩ [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
- - 👉 [Spanish police found 1.000kg of cocaine hidden inside of rocks.](http://9gag.com/gag/avQvv3b)<!-- MEMES:END -->
+ - 👉 [The Matrix, but for bees...](http://9gag.com/gag/a7qNNez)<!-- MEMES:END -->
 
 ---
 
