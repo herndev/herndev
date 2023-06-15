@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - ⏩ [Wtf](http://9gag.com/gag/aDYXbO9)
- - 👉 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)<!-- MEMES:END -->
+ - 💣 [This guy decided to drive trough Denmark in his brand new Lamborghini Huracan Spider at 228 km/h. Cars are confiscated when you&#39;re speeding more than 100% of the speed limit or above 200 km/h. The court just ruled that the law doesnt&#39;t violates any rights, so it&#39;s gone.](http://9gag.com/gag/aPgXQrB)
+ - ⏩ [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
+ - 👉 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
 
 ---
 
