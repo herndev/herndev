@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - ⏩ [Wtf](http://9gag.com/gag/aDYXbO9)
- - 👉 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)<!-- MEMES:END -->
+ - 💣 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - ⏩ [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)
+ - 👉 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
 
 ---
 
