@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic’s latest tool can animate hyperrealistic MetaHumans with an iPhone](https://www.theverge.com/2023/6/15/23761852/epic-games-metahuman-animator-performance-capture-iphone)
- - [OnePlus Nord N30 5G review: midrange performance, budget phone problems](https://www.theverge.com/23761214/oneplus-nord-n30-5g-review-battery-screen-camera-price)
- - [Steam update brings new features &amp; Mac hardware acceleration](https://appleinsider.com/articles/23/06/15/steam-update-brings-new-features-mac-hardware-acceleration?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla battery material supplier tops list of human rights abuses for second year in a row](https://www.theverge.com/2023/6/15/23760915/tesla-supplier-glencore-human-rights-abuse-allegations-battery-minerals-mining-energy)
+ - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
+ - [Ex-Apple staff are behind hundreds of top tech startups](https://appleinsider.com/articles/23/06/15/ex-apple-staff-are-behind-hundreds-of-top-tech-startups?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
