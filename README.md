@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Really Needs One More Skill Slot](https://kotaku.com/diablo-4-iv-ultimate-ult-abilities-add-more-slots-1850548865)
- - [You Can Get Tears Of The Kingdom’s Best Shield Almost Immediately](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-shield-location-totk-1850432983)
- - [I demand you stop what you&#39;re doing and look at this cute Mac-shaped charger](https://www.pcgamer.com/i-demand-you-stop-what-youre-doing-and-look-at-this-cute-mac-shaped-charger)<!-- GAME:END -->
+ - [Diablo IV Fans Think It’s Stingy With XP, So Blizzard Is Promising Changes](https://kotaku.com/diablo-4-nightmare-dungeons-xp-grind-elite-monsters-1850549033)
+ - [40+ Weird Vintage Video Game Ads We Can’t Stop Thinking About](https://kotaku.com/best-retro-video-game-ads-playstation-atari-xbox-360-1850548825)
+ - [Diablo 4 gems will be moved out of the inventory](https://www.pcgamer.com/diablo-4-gems-will-be-moved-out-of-the-inventory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
