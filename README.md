@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Igoshon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707126/igoshon-shrine-solution-puzzle-chest)
- - [Let&#39;s Rank All The Spider-Man Games, From Worst To Best](https://kotaku.com/lets-rank-all-the-spider-man-games-from-worst-to-best-1845731882)
- - [Zanmik Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713593/zanmik-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Skyrim Grandma shoots down rumors of Starfield NPC appearance: ‘I’m not in the game’](https://www.pcgamer.com/skyrim-grandma-shoots-down-rumors-of-starfield-npc-appearance-im-not-in-the-game)
+ - [Riogok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707990/riogok-shrine-solution-puzzle-chest)
+ - [Kadaunar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717364/kadaunar-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
