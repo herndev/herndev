@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Galaxy Z Flip 5 press render leaks, showing that huge small screen](https://www.androidauthority.com/samsung-galaxy-z-flip-5-press-render-3335910/)
- - [Best Blue Light Blocking Glasses of 2023     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)
- - [The Galaxy S23’s huge, camera-focused June update is rolling out now](https://www.androidauthority.com/samsung-galaxy-s23-june-update-camera-3335881/)<!-- TECH:END -->
+ - [Google just killed Google Domains: Just kidding, it got sold](https://www.androidauthority.com/google-domains-squarespace-sale-3335930/)
+ - [How the &quot;arms race&quot; of SEO experts has left Google Search and the web drowning in garbage text, resulting in customers and businesses failing to find each other &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230616/p2#a230616p2)
+ - [England vs. Australia Livestream: How to Watch 1st Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-australia-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
