@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
- - ⏩ [IUTR](http://9gag.com/gag/ap9AYD5)
- - 👉 [Diarrhea for dummies^^](http://9gag.com/gag/aKEYpv6)<!-- MEMES:END -->
+ - 💣 [Remember.](http://9gag.com/gag/aWG2Don)
+ - ⏩ [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
+ - 👉 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
 
 ---
 
