@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron plans to invest $603M in a chip packaging facility in Xian, China; the country banned Micron&#39;s products from its critical infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230616/p1#a230616p1)
  - [ChatGPT Can Now Help Humans Speak to Trees. But Why?     - CNET](https://www.cnet.com/news/chatgpt-can-now-help-humans-speak-to-trees-but-why/#ftag=CAD590a51e)
- - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
- - [Reddit says it won’t force subreddits back open &lpar;but will it?&rpar;](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)<!-- TECH:END -->
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
