@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro code](http://9gag.com/gag/aqezdZP)
- - ⏩ [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
- - 👉 [Scary](http://9gag.com/gag/anzDdVz)<!-- MEMES:END -->
+ - ⏩ [I found it](http://9gag.com/gag/ajVKKbx)
+ - 👉 [IUTR](http://9gag.com/gag/ap9AYD5)<!-- MEMES:END -->
 
 ---
 
