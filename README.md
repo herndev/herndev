@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Tiger Global raised just $2B+ for a fund targeting $6B after eight months; US venture firms raised nearly $12B in Q1, down 73% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/230616/p26#a230616p26)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [F&amp;eacute;lix Lengyel, aka xQc, a Twitch streamer with 12M followers, signs a ~$100M deal with Kick, a streaming service backed by Australian gaming and gambling sites &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230616/p28#a230616p28)
+ - [Generative AI wallpapers: Availability and details](https://www.androidauthority.com/generative-ai-wallpapers-3336181/)
+ - [Clop Hacking Rampage Hits US Agencies and Exposes Data of Millions](https://www.wired.com/story/clop-moveit-hack-us-agencies-data-theft/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
