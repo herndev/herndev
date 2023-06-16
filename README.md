@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t image why it got busted](https://www.reddit.com/r/funny/comments/14b6f1o/cant_image_why_it_got_busted/)
- - ⏩ [Apple in a nutshell, this product shouldn&#39;t exist.](http://9gag.com/gag/aVb2dRv)
- - 👉 [Thank you good sir!](http://9gag.com/gag/abv2dDE)<!-- MEMES:END -->
+ - 💣 [Bro code](http://9gag.com/gag/aqezdZP)
+ - ⏩ [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
+ - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
 
 ---
 
