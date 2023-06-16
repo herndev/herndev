@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Fans Think It’s Stingy With XP, So Blizzard Is Promising Changes](https://kotaku.com/diablo-4-nightmare-dungeons-xp-grind-elite-monsters-1850549033)
- - [40+ Weird Vintage Video Game Ads We Can’t Stop Thinking About](https://kotaku.com/best-retro-video-game-ads-playstation-atari-xbox-360-1850548825)
- - [Diablo 4 gems will be moved out of the inventory](https://www.pcgamer.com/diablo-4-gems-will-be-moved-out-of-the-inventory)<!-- GAME:END -->
+ - [Diablo IV Fans Won&#39;t Stop Trying To Find The Cow Level That Likely Isn&#39;t There](https://kotaku.com/diablo-iv-secret-cow-level-hidden-mysterious-portal-1850549258)
+ - [Blizzard reveals how it plans to prevent death by disconnect in Diablo 4 Hardcore mode](https://www.pcgamer.com/blizzard-reveals-how-it-plans-to-prevent-death-by-disconnect-in-diablo-4-hardcore-mode)
+ - [Someone At Nintendo Snuck Pride Month Into The Switch&#39;s eShop](https://kotaku.com/nintendo-switch-eshop-hidden-gems-sale-pride-queer-1850549209)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
