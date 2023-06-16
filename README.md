@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit says it won’t force subreddits back open &lpar;but will it?&rpar;](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)
- - [CEO Steve Huffman says Reddit&#39;s API was &quot;never designed to support third-party apps&quot; and he didn&#39;t know the extent that they were profiting from Reddit&#39;s API &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230615/p44#a230615p44)
- - [Intel announces its first quantum processor, Tunnel Falls, a 12-qubit chip using electrons for storing data, available to select academic and research partners &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230615/p43#a230615p43)<!-- TECH:END -->
+ - [ChatGPT Can Now Help Humans Speak to Trees. But Why?     - CNET](https://www.cnet.com/news/chatgpt-can-now-help-humans-speak-to-trees-but-why/#ftag=CAD590a51e)
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
+ - [Reddit says it won’t force subreddits back open &lpar;but will it?&rpar;](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
