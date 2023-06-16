@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember.](http://9gag.com/gag/aWG2Don)
- - ⏩ [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
- - 👉 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
+ - 💣 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)
+ - ⏩ [Feed that poor girl!](http://9gag.com/gag/aDYXQbZ)
+ - 👉 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)<!-- MEMES:END -->
 
 ---
 
