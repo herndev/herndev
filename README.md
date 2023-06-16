@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils Voicebox generative text-to-speech model that could do to spoken word what ChatGPT did for text, but won&#39;t release an app citing misuse risks &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230616/p20#a230616p20)
- - [Garmin Epix Pro review: smaller size, bigger appeal &lpar;and a flashlight!&rpar;](https://www.theverge.com/23759824/garmin-epix-2-pro-review-smartwatch)
- - [Final Fantasy XVI: Release Date, Platforms and Everything Else You Should Know     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-xvi-release-date-platforms-and-everything-else-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Base iPhone 14 now sells better than Pro models, 14 Plus still unpopular](https://appleinsider.com/articles/23/06/16/base-iphone-14-now-sells-better-than-pro-models-14-plus-still-unpopular?utm_medium=rss)
+ - [Apple Mac Studio &lpar;2023&rpar; review: the M2 Ultra rips](https://www.theverge.com/23762570/apple-mac-studio-m2-ultra-2023-review)
+ - [Space-based solar power is having its moment in the sun](https://www.theverge.com/23762445/space-based-solar-power-clean-energy-milestone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
