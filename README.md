@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
- - ⏩ [Scary](http://9gag.com/gag/anzDdVz)
- - 👉 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)<!-- MEMES:END -->
+ - 💣 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - ⏩ [Little fellas](http://9gag.com/gag/aVb21Zw)
+ - 👉 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)<!-- MEMES:END -->
 
 ---
 
