@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEO Steve Huffman says Reddit&#39;s API was &quot;never designed to support third-party apps&quot; and he didn&#39;t know the extent that they were profiting from Reddit&#39;s API &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230615/p44#a230615p44)
  - [Intel announces its first quantum processor, Tunnel Falls, a 12-qubit chip using electrons for storing data, available to select academic and research partners &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230615/p43#a230615p43)
- - [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)
- - [Verizon, T-Mobile, AT&amp;T: A Look At Which Carrier Has the Fastest Speeds at Theme Parks     - CNET](https://www.cnet.com/tech/mobile/verizon-t-mobile-at-t-a-look-at-which-carrier-has-the-fastest-speeds-at-theme-parks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
