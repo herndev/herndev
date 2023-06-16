@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim Grandma shoots down rumors of Starfield NPC appearance: ‘I’m not in the game’](https://www.pcgamer.com/skyrim-grandma-shoots-down-rumors-of-starfield-npc-appearance-im-not-in-the-game)
- - [Riogok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707990/riogok-shrine-solution-puzzle-chest)
- - [Kadaunar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717364/kadaunar-shrine-puzzle-solution-chest)<!-- GAME:END -->
+ - [Diablo IV Really Needs One More Skill Slot](https://kotaku.com/diablo-4-iv-ultimate-ult-abilities-add-more-slots-1850548865)
+ - [You Can Get Tears Of The Kingdom’s Best Shield Almost Immediately](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-shield-location-totk-1850432983)
+ - [I demand you stop what you&#39;re doing and look at this cute Mac-shaped charger](https://www.pcgamer.com/i-demand-you-stop-what-youre-doing-and-look-at-this-cute-mac-shaped-charger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
