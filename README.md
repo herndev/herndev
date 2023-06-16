@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker marks an evolution for one of the best horror series](https://www.polygon.com/reviews/23762290/amnesia-the-bunker-review-ps5-xbox-pc)
- - [Pokémon Go ‘Solstice Horizons’ event, ‘Starry Skies’ Special Research guide](https://www.polygon.com/pokemon-go-guide/2023/6/16/23760923/solstice-horizons-event-starry-skies-special-research-collection-challenge-shiny-fomantis)
- - [Wave goodbye to yet another Diablo 4 power levelling trick as Blizzard releases a World Tier-focused hotfix](https://www.pcgamer.com/wave-goodbye-to-yet-another-diablo-4-power-levelling-trick-as-blizzard-releases-a-world-tier-focused-hotfix)<!-- GAME:END -->
+ - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
+ - [I&#39;m so mad that we have to wait for Final Fantasy 16 to release on PC, because it may be one of the best RPGs of the last decade](https://www.pcgamer.com/im-so-mad-that-we-have-to-wait-for-final-fantasy-16-to-release-on-pc-because-it-may-be-one-of-the-best-rpgs-of-the-last-decade)
+ - [What is ‘Lucky Hit’ in Diablo 4 and how does it work?](https://www.polygon.com/diablo-4-guides/23762226/lucky-hit-pressure-point-hammer-ancients)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
