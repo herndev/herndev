@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Base iPhone 14 now sells better than Pro models, 14 Plus still unpopular](https://appleinsider.com/articles/23/06/16/base-iphone-14-now-sells-better-than-pro-models-14-plus-still-unpopular?utm_medium=rss)
- - [Apple Mac Studio &lpar;2023&rpar; review: the M2 Ultra rips](https://www.theverge.com/23762570/apple-mac-studio-m2-ultra-2023-review)
- - [Space-based solar power is having its moment in the sun](https://www.theverge.com/23762445/space-based-solar-power-clean-energy-milestone)<!-- TECH:END -->
+ - [EU law requiring easier iPhone battery replacement inches closer to enactment](https://appleinsider.com/articles/23/06/16/eu-law-requiring-easier-iphone-battery-replacement-inches-closer-to-enactment?utm_medium=rss)
+ - [The Jabra Elite 5 earbuds drop back to their all-time low price](https://www.androidauthority.com/jabra-elite-5-deal-3336130/)
+ - [Alleged official renders of Samsung Galaxy Z Flip 5 show the clamshell-style foldable phone may get a 3.4-inch outer screen &lpar;Venkatesh Gorantla/MySmartPrice&rpar;](http://www.techmeme.com/230616/p22#a230616p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
