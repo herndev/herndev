@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)
- - ⏩ [Totally no bait](http://9gag.com/gag/amAVVQo)
- - 👉 [IUTR](http://9gag.com/gag/ap9AYD5)<!-- MEMES:END -->
+ - 💣 [Say the line Bart](https://www.reddit.com/r/memes/comments/14arozz/say_the_line_bart/)
+ - ⏩ [They need more practice](http://9gag.com/gag/aGE2bXG)
+ - 👉 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
 
 ---
 
