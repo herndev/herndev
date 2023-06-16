@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at the funny tasting mold in my grandparents basement! 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣](https://www.reddit.com/r/funny/comments/14b3glu/look_at_the_funny_tasting_mold_in_my_grandparents/)
- - ⏩ [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
- - 👉 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
+ - 💣 [Little fellas](http://9gag.com/gag/aVb21Zw)
+ - ⏩ [Scary](http://9gag.com/gag/anzDdVz)
+ - 👉 [It really works](http://9gag.com/gag/awZ4Yby)<!-- MEMES:END -->
 
 ---
 
