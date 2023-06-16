@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S23’s huge, camera-focused June update is rolling out now](https://www.androidauthority.com/samsung-galaxy-s23-june-update-camera-3335881/)
  - [Micron plans to invest $603M in a chip packaging facility in Xian, China; the country banned Micron&#39;s products from its critical infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230616/p1#a230616p1)
- - [ChatGPT Can Now Help Humans Speak to Trees. But Why?     - CNET](https://www.cnet.com/news/chatgpt-can-now-help-humans-speak-to-trees-but-why/#ftag=CAD590a51e)
- - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT Can Now Help Humans Speak to Trees. But Why?     - CNET](https://www.cnet.com/news/chatgpt-can-now-help-humans-speak-to-trees-but-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
