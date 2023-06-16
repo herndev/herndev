@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro code](http://9gag.com/gag/aqezdZP)
- - ⏩ [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
- - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
+ - 💣 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - ⏩ [Scary](http://9gag.com/gag/anzDdVz)
+ - 👉 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)<!-- MEMES:END -->
 
 ---
 
