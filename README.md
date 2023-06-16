@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider man](http://9gag.com/gag/a7qNpxL)
- - ⏩ [Lisa isn&#39;t thankful](http://9gag.com/gag/aDYXQZx)
- - 👉 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
+ - 💣 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
+ - ⏩ [Feed that poor girl!](http://9gag.com/gag/aDYXQbZ)
+ - 👉 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)<!-- MEMES:END -->
 
 ---
 
