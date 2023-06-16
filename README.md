@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Some things you can do if you’re sick of social media](https://www.theverge.com/23762545/social-media-alternatives-outside-touch-grass)
- - [watchOS 10 release date: When is the next update releasing for the Apple Watch?](https://www.androidauthority.com/watchos-10-release-date-3335999/)<!-- TECH:END -->
+ - [How screen refresh rates work on your phone](https://www.theverge.com/23763320/refresh-phone-iphone-android-samsung-how-to)
+ - [How to link two or more Apple Notes in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-link-two-or-more-apple-notes-in-macos-sonoma?utm_medium=rss)
+ - [New Customers Can Take $70 Off a ButcherBox Subscription and Get Free Ground Beef for a Year     - CNET](https://www.cnet.com/deals/new-customers-can-take-70-off-a-butcherbox-subscription-and-get-free-ground-beef-for-a-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
