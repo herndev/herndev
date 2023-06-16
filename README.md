@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How screen refresh rates work on your phone](https://www.theverge.com/23763320/refresh-phone-iphone-android-samsung-how-to)
- - [How to link two or more Apple Notes in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-link-two-or-more-apple-notes-in-macos-sonoma?utm_medium=rss)
- - [New Customers Can Take $70 Off a ButcherBox Subscription and Get Free Ground Beef for a Year     - CNET](https://www.cnet.com/deals/new-customers-can-take-70-off-a-butcherbox-subscription-and-get-free-ground-beef-for-a-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looking for a Reddit alternative? Lemmy tell you, they currently kinda suck](https://www.androidauthority.com/reddit-alternatives-lemmy-3335429/)
+ - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal?utm_medium=rss)
+ - [Daily deals June 16: Apple Pencil $79, $80 off M2 Mac mini, MacBook Pro from $889, more](https://appleinsider.com/articles/23/06/16/daily-deals-june-16-apple-pencil-79-80-off-m2-mac-mini-macbook-pro-from-889-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
