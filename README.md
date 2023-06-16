@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laziness lvl. 70](http://9gag.com/gag/aoK8YXe)
- - ⏩ [Upvote moneydoggo to receive unexpected money gift in the next 24 hours](http://9gag.com/gag/aWG2R1x)
- - 👉 [He thought he locked her out](http://9gag.com/gag/aL1XW86)<!-- MEMES:END -->
+ - 💣 [Diarrhea for dummies^^](http://9gag.com/gag/aKEYpv6)
+ - ⏩ [Mom was not amused](http://9gag.com/gag/amAVdK9)
+ - 👉 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)<!-- MEMES:END -->
 
 ---
 
