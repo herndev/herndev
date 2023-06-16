@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [“Just stop fighting”](https://www.reddit.com/r/memes/comments/14ankry/just_stop_fighting/)
- - ⏩ [Lisa isn&#39;t thankful](http://9gag.com/gag/aDYXQZx)
- - 👉 [Spider man](http://9gag.com/gag/a7qNpxL)<!-- MEMES:END -->
+ - 💣 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - ⏩ [Too tight](http://9gag.com/gag/armB8Y6)
+ - 👉 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
 
 ---
 
