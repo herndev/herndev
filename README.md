@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU law requiring easier iPhone battery replacement inches closer to enactment](https://appleinsider.com/articles/23/06/16/eu-law-requiring-easier-iphone-battery-replacement-inches-closer-to-enactment?utm_medium=rss)
- - [The Jabra Elite 5 earbuds drop back to their all-time low price](https://www.androidauthority.com/jabra-elite-5-deal-3336130/)
- - [Alleged official renders of Samsung Galaxy Z Flip 5 show the clamshell-style foldable phone may get a 3.4-inch outer screen &lpar;Venkatesh Gorantla/MySmartPrice&rpar;](http://www.techmeme.com/230616/p22#a230616p22)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Meta to lower the minimum age for Quest headsets from 13 to 10, with profile and avatars of under-13&#39;s set to private by default; Horizon Worlds will remain 13+ &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230616/p24#a230616p24)
+ - [Oregon and Louisiana warn that the MOVEit hackers may have stolen the SSNs and driver&#39;s license numbers of 3.5M Oregonians and 3M+ Louisianians from state DMVs &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230616/p23#a230616p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
