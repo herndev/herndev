@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)
- - [RIF developer counters Reddit CEO’s claims that he didn’t want to work with Reddit](https://www.theverge.com/2023/6/16/23763661/reddit-rif-is-fun-developer-ceo-steve-huffman)
- - [How to reduce eye strain with &#39;Screen Distance&#39; in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-reduce-eye-strain-with-screen-distance-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Tiger Global raised just $2B+ for a fund targeting $6B after eight months; US venture firms raised nearly $12B in Q1, down 73% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/230616/p26#a230616p26)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
