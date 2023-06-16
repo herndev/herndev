@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: JPMorgan says Frank founder Charlie Javice allegedly told her team to inflate public user numbers to 4.25M, treating website visitors as users &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/230616/p9#a230616p9)
- - [BlackRock files an SEC application to register its iShares Bitcoin Trust as a spot bitcoin ETF, using Coinbase Custody as its custodian &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230616/p8#a230616p8)
- - [In a meeting with Bill Gates, Xi Jinping says China is willing to engage in tech cooperation with the US; Xi is expected to meet Antony Blinken later this week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230616/p7#a230616p7)<!-- TECH:END -->
+ - [Hanan Elatr, the widow of Jamal Khashoggi, sues the NSO Group in Virginia, claiming Saudi Arabia used the Israeli company&#39;s Pegasus tool to track them both &lpar;Dana Priest/Washington Post&rpar;](http://www.techmeme.com/230616/p14#a230616p14)
+ - [Uber’s about to stick video ads in its cars, apps, and anywhere else it can](https://www.theverge.com/2023/6/16/23763227/uber-video-advertising-ads-taxi-food-delivery-apps)
+ - [Reddit says 80% of its top subreddits are currently open; Reddark estimates that 5K+ subreddits are limiting access, down from almost 9K on June 12 &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/230616/p13#a230616p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
