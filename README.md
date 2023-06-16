@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Fans Won&#39;t Stop Trying To Find The Cow Level That Likely Isn&#39;t There](https://kotaku.com/diablo-iv-secret-cow-level-hidden-mysterious-portal-1850549258)
- - [Blizzard reveals how it plans to prevent death by disconnect in Diablo 4 Hardcore mode](https://www.pcgamer.com/blizzard-reveals-how-it-plans-to-prevent-death-by-disconnect-in-diablo-4-hardcore-mode)
- - [Someone At Nintendo Snuck Pride Month Into The Switch&#39;s eShop](https://kotaku.com/nintendo-switch-eshop-hidden-gems-sale-pride-queer-1850549209)<!-- GAME:END -->
+ - [Diablo 4&#39;s bringing big changes to its post-game, but a &#39;significant majority&#39; of players haven&#39;t even finished the campaign yet](https://www.pcgamer.com/diablo-4s-bringing-big-changes-to-its-post-game-but-a-significant-majority-of-players-havent-even-finished-the-campaign-yet)
+ - [Diablo IV Devs Say Future Update Will Fix Annoying Gems](https://kotaku.com/diablo-4-gem-bag-inventory-filled-update-season-2-1850549357)
+ - [xQc scores unbelievable $100 million deal to start streaming on Kick](https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
