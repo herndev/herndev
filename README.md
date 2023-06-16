@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little fellas](http://9gag.com/gag/aVb21Zw)
- - ⏩ [Scary](http://9gag.com/gag/anzDdVz)
- - 👉 [It really works](http://9gag.com/gag/awZ4Yby)<!-- MEMES:END -->
+ - 💣 [Can&#39;t image why it got busted](https://www.reddit.com/r/funny/comments/14b6f1o/cant_image_why_it_got_busted/)
+ - ⏩ [Apple in a nutshell, this product shouldn&#39;t exist.](http://9gag.com/gag/aVb2dRv)
+ - 👉 [Thank you good sir!](http://9gag.com/gag/abv2dDE)<!-- MEMES:END -->
 
 ---
 
