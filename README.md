@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
- - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
- - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
+ - 💣 [Laziness lvl. 70](http://9gag.com/gag/aoK8YXe)
+ - ⏩ [Upvote moneydoggo to receive unexpected money gift in the next 24 hours](http://9gag.com/gag/aWG2R1x)
+ - 👉 [He thought he locked her out](http://9gag.com/gag/aL1XW86)<!-- MEMES:END -->
 
 ---
 
