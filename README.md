@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
- - ⏩ [Feed that poor girl!](http://9gag.com/gag/aDYXQbZ)
- - 👉 [Spider man](http://9gag.com/gag/a7qNpxL)<!-- MEMES:END -->
+ - 💣 [Bro code](http://9gag.com/gag/aqezdZP)
+ - ⏩ [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
+ - 👉 [Scary](http://9gag.com/gag/anzDdVz)<!-- MEMES:END -->
 
 ---
 
