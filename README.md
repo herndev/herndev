@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hanan Elatr, the widow of Jamal Khashoggi, sues the NSO Group in Virginia, claiming Saudi Arabia used the Israeli company&#39;s Pegasus tool to track them both &lpar;Dana Priest/Washington Post&rpar;](http://www.techmeme.com/230616/p14#a230616p14)
- - [Uber’s about to stick video ads in its cars, apps, and anywhere else it can](https://www.theverge.com/2023/6/16/23763227/uber-video-advertising-ads-taxi-food-delivery-apps)
- - [Reddit says 80% of its top subreddits are currently open; Reddark estimates that 5K+ subreddits are limiting access, down from almost 9K on June 12 &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/230616/p13#a230616p13)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Some things you can do if you’re sick of social media](https://www.theverge.com/23762545/social-media-alternatives-outside-touch-grass)
+ - [watchOS 10 release date: When is the next update releasing for the Apple Watch?](https://www.androidauthority.com/watchos-10-release-date-3335999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
