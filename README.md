@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [F&amp;eacute;lix Lengyel, aka xQc, a Twitch streamer with 12M followers, signs a ~$100M deal with Kick, a streaming service backed by Australian gaming and gambling sites &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230616/p28#a230616p28)
- - [Generative AI wallpapers: Availability and details](https://www.androidauthority.com/generative-ai-wallpapers-3336181/)
- - [Clop Hacking Rampage Hits US Agencies and Exposes Data of Millions](https://www.wired.com/story/clop-moveit-hack-us-agencies-data-theft/)<!-- TECH:END -->
+ - [The best video downloader extensions for Chrome](https://www.androidauthority.com/best-video-downloader-extensions-for-chrome-3336219/)
+ - [Mercedes Teams Up With ChatGPT To Improve How Drivers Talk to Their Cars     - CNET](https://www.cnet.com/roadshow/news/mercedes-teams-up-with-chatgpt-to-improve-how-drivers-talk-to-their-cars/#ftag=CAD590a51e)
+ - [Best 3D Printer Deals: 10 Fantastic Printers at the Best Prices     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
