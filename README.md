@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fuck you u/spez](https://www.reddit.com/r/memes/comments/14axka0/fuck_you_uspez/)
- - ⏩ [I am today years old to realize that](http://9gag.com/gag/ay2Qz68)
- - 👉 [Title doesn&#39;t matter](http://9gag.com/gag/avQvvPM)<!-- MEMES:END -->
+ - 💣 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
+ - ⏩ [Feed that poor girl!](http://9gag.com/gag/aDYXQbZ)
+ - 👉 [Spider man](http://9gag.com/gag/a7qNpxL)<!-- MEMES:END -->
 
 ---
 
