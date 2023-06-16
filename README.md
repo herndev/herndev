@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say the line Bart](https://www.reddit.com/r/memes/comments/14arozz/say_the_line_bart/)
- - ⏩ [They need more practice](http://9gag.com/gag/aGE2bXG)
- - 👉 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
+ - 💣 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
+ - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
+ - 👉 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)<!-- MEMES:END -->
 
 ---
 
