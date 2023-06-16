@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking for a Reddit alternative? Lemmy tell you, they currently kinda suck](https://www.androidauthority.com/reddit-alternatives-lemmy-3335429/)
- - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal?utm_medium=rss)
- - [Daily deals June 16: Apple Pencil $79, $80 off M2 Mac mini, MacBook Pro from $889, more](https://appleinsider.com/articles/23/06/16/daily-deals-june-16-apple-pencil-79-80-off-m2-mac-mini-macbook-pro-from-889-more?utm_medium=rss)<!-- TECH:END -->
+ - [Meta unveils Voicebox generative text-to-speech model that could do to spoken word what ChatGPT did for text, but won&#39;t release an app citing misuse risks &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230616/p20#a230616p20)
+ - [Garmin Epix Pro review: smaller size, bigger appeal &lpar;and a flashlight!&rpar;](https://www.theverge.com/23759824/garmin-epix-2-pro-review-smartwatch)
+ - [Final Fantasy XVI: Release Date, Platforms and Everything Else You Should Know     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-xvi-release-date-platforms-and-everything-else-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
