@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You did it! You crazy son of a....](http://9gag.com/gag/aRE2odG)
- - ⏩ [It really works](http://9gag.com/gag/awZ4Yby)
- - 👉 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)<!-- MEMES:END -->
+ - 💣 [Fuck you u/spez](https://www.reddit.com/r/memes/comments/14axka0/fuck_you_uspez/)
+ - ⏩ [I am today years old to realize that](http://9gag.com/gag/ay2Qz68)
+ - 👉 [Title doesn&#39;t matter](http://9gag.com/gag/avQvvPM)<!-- MEMES:END -->
 
 ---
 
