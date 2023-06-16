@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
- - [I&#39;m so mad that we have to wait for Final Fantasy 16 to release on PC, because it may be one of the best RPGs of the last decade](https://www.pcgamer.com/im-so-mad-that-we-have-to-wait-for-final-fantasy-16-to-release-on-pc-because-it-may-be-one-of-the-best-rpgs-of-the-last-decade)
- - [What is ‘Lucky Hit’ in Diablo 4 and how does it work?](https://www.polygon.com/diablo-4-guides/23762226/lucky-hit-pressure-point-hammer-ancients)<!-- GAME:END -->
+ - [33 Immortals and Dungeons of Hinterberg Developers Talk About Seeing Their Games in Xbox Games Showcase](https://news.xbox.com/en-us/2023/06/16/33-immortals-and-dungeons-of-hinterberg-developers-interview/)
+ - [Fall of Porcupine: How We Deal with and Present Serious Issues](https://news.xbox.com/en-us/2023/06/16/serious-issues-in-fall-of-porcupine/)
+ - [Polygon’s 2023 summer movie festival: High School Musical 2](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
