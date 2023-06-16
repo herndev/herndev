@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter suspends the accounts of public records database PlainSite and its founder Aaron Greenspan, who has tracked litigation against Tesla and Twitter &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230616/p4#a230616p4)
- - [Poll: Have you received the latest Pixel feature drop features yet?](https://www.androidauthority.com/pixel-feature-drop-features-poll-3335943/)
- - [Intel plans to invest as much as $4.6B to build a semiconductor assembly and test facility in Wroclaw, Poland, as the EU seeks to boost chip production &lpar;Wojciech Moskwa/Bloomberg&rpar;](http://www.techmeme.com/230616/p3#a230616p3)<!-- TECH:END -->
+ - [Court filing: JPMorgan says Frank founder Charlie Javice allegedly told her team to inflate public user numbers to 4.25M, treating website visitors as users &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/230616/p9#a230616p9)
+ - [BlackRock files an SEC application to register its iShares Bitcoin Trust as a spot bitcoin ETF, using Coinbase Custody as its custodian &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230616/p8#a230616p8)
+ - [In a meeting with Bill Gates, Xi Jinping says China is willing to engage in tech cooperation with the US; Xi is expected to meet Antony Blinken later this week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230616/p7#a230616p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
