@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [33 Immortals and Dungeons of Hinterberg Developers Talk About Seeing Their Games in Xbox Games Showcase](https://news.xbox.com/en-us/2023/06/16/33-immortals-and-dungeons-of-hinterberg-developers-interview/)
- - [Fall of Porcupine: How We Deal with and Present Serious Issues](https://news.xbox.com/en-us/2023/06/16/serious-issues-in-fall-of-porcupine/)
- - [Polygon’s 2023 summer movie festival: High School Musical 2](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)<!-- GAME:END -->
+ - [Igoshon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707126/igoshon-shrine-solution-puzzle-chest)
+ - [Let&#39;s Rank All The Spider-Man Games, From Worst To Best](https://kotaku.com/lets-rank-all-the-spider-man-games-from-worst-to-best-1845731882)
+ - [Zanmik Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713593/zanmik-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
