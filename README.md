@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google ditches web domain business moments after unleashing .zip websites on unsuspecting grandmothers](https://www.pcgamer.com/google-ditches-web-domain-business-moments-after-unleashing-zip-websites-on-unsuspecting-grandmothers)
- - [All Diablo 4 Unique items and how to get them](https://www.pcgamer.com/diablo-4-unique-items-how-to-get)
- - [New Valheim update brings world modifiers, creative mode, and finally lets you see your hair with a helmet on](https://www.pcgamer.com/new-valheim-update-brings-world-modifiers-creative-mode-and-finally-lets-you-see-your-hair-with-a-helmet-on)<!-- GAME:END -->
+ - [Amnesia: The Bunker marks an evolution for one of the best horror series](https://www.polygon.com/reviews/23762290/amnesia-the-bunker-review-ps5-xbox-pc)
+ - [Pokémon Go ‘Solstice Horizons’ event, ‘Starry Skies’ Special Research guide](https://www.polygon.com/pokemon-go-guide/2023/6/16/23760923/solstice-horizons-event-starry-skies-special-research-collection-challenge-shiny-fomantis)
+ - [Wave goodbye to yet another Diablo 4 power levelling trick as Blizzard releases a World Tier-focused hotfix](https://www.pcgamer.com/wave-goodbye-to-yet-another-diablo-4-power-levelling-trick-as-blizzard-releases-a-world-tier-focused-hotfix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
