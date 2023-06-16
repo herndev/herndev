@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
- - ⏩ [Feed that poor girl!](http://9gag.com/gag/aDYXQbZ)
- - 👉 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)<!-- MEMES:END -->
+ - ⏩ [IUTR](http://9gag.com/gag/ap9AYD5)
+ - 👉 [Diarrhea for dummies^^](http://9gag.com/gag/aKEYpv6)<!-- MEMES:END -->
 
 ---
 
