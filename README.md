@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This modern fantasy action RPG has you take a break from corporate life to crawl dungeons](https://www.pcgamer.com/go-on-an-alpine-vacation-and-delve-some-dungeons-in-this-modern-fantasy-action-rpg)
- - [Todd Howard: Starfield Locked At 30FPS On Console For &#39;Consistency&#39;](https://kotaku.com/starfield-30fps-60fps-performance-mode-xbox-series-x-s-1850528077)
- - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)<!-- GAME:END -->
+ - [Google ditches web domain business moments after unleashing .zip websites on unsuspecting grandmothers](https://www.pcgamer.com/google-ditches-web-domain-business-moments-after-unleashing-zip-websites-on-unsuspecting-grandmothers)
+ - [All Diablo 4 Unique items and how to get them](https://www.pcgamer.com/diablo-4-unique-items-how-to-get)
+ - [New Valheim update brings world modifiers, creative mode, and finally lets you see your hair with a helmet on](https://www.pcgamer.com/new-valheim-update-brings-world-modifiers-creative-mode-and-finally-lets-you-see-your-hair-with-a-helmet-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
