@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You’re not sold on the Xiaomi 13 Ultra at this price](https://www.androidauthority.com/xiaomi-13-ultra-price-buy-poll-results-3336535/)
- - [How Pixar used neural style transfer, a type of AI used to make photos look like popular artworks, to animate Ember, a lead character in its movie Elemental &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/230619/p2#a230619p2)
- - [Leaked ASUS Zenfone 10 renders give us a great look at the compact flagship](https://www.androidauthority.com/asus-zenfone-10-leaked-renders-3334456/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 leaked press renders show off the tablet trio](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)
+ - [Apple will upgrade iPhone 15 Ultra Wideband chip for Vision Pro integration, says Kuo](https://appleinsider.com/articles/23/06/19/apple-will-upgrade-iphone-15-ultra-wideband-chip-for-vision-pro-integration-says-kuo?utm_medium=rss)
+ - [Meta faces pressure from UK MPs, consumer groups, and banks over its failure to prevent fraud on its platforms, estimated to cost UK households &amp;pound;250M in 2023 &lpar;The Guardian&rpar;](http://www.techmeme.com/230619/p3#a230619p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
