@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
- - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 👉 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)<!-- MEMES:END -->
+ - 💣 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
+ - ⏩ [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
+ - 👉 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
 
 ---
 
