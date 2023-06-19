@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - ⏩ [Asking the real question](http://9gag.com/gag/a5Xjg3G)
- - 👉 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)<!-- MEMES:END -->
+ - 💣 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
+ - ⏩ [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - 👉 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
 
 ---
 
