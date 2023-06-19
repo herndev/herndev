@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the orchestrated downfall of Kyle Roche, co-founder of Roche Freedman LLP, known for suing crypto companies and getting a verdict against Craig Wright &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/230619/p1#a230619p1)
- - [Duolingo says the company significantly scaled back TV ads, and its DAUs growing 62% YoY to 20.3M in Q1 2023 is due in part to efficient social media marketing &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/230618/p10#a230618p10)
- - [Hands-on with an Adobe Photoshop beta&#39;s Generative Fill AI feature, which lets users add objects to, remove content from, and expand images using text prompts &lpar;Washington Post&rpar;](http://www.techmeme.com/230618/p9#a230618p9)<!-- TECH:END -->
+ - [Leaked ASUS Zenfone 10 renders give us a great look at the compact flagship](https://www.androidauthority.com/asus-zenfone-10-leaked-renders-3334456/)
+ - [Apple Is Taking On Apples in a Truly Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
+ - [A look at the orchestrated downfall of Kyle Roche, co-founder of Roche Freedman LLP, known for suing crypto companies and getting a verdict against Craig Wright &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/230619/p1#a230619p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
