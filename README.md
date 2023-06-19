@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider man](http://9gag.com/gag/a7qNpxL)
- - ⏩ [Little fellas](http://9gag.com/gag/aVb21Zw)
- - 👉 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)<!-- MEMES:END -->
+ - 💣 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
+ - ⏩ [Name that Character](http://9gag.com/gag/aPgX0vn)
+ - 👉 [9gag at its former glory](http://9gag.com/gag/aXn21yb)<!-- MEMES:END -->
 
 ---
 
