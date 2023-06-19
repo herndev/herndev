@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - ⏩ [Prepare for standards and make them double](http://9gag.com/gag/axoPqND)
- - 👉 [Kids, dont drink, drive and livestream](http://9gag.com/gag/amAV3A9)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/a8qwxOO)
+ - ⏩ [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
+ - 👉 [Dude played Golf with Football.](http://9gag.com/gag/az2ZpXp)<!-- MEMES:END -->
 
 ---
 
