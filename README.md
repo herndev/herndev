@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid ongoing Reddit protests, decentralized link aggregation and discussion forum projects Lemmy and KBin grow to a total of 70K+ MAUs and nearly 600 instances &lpar;Jon/The Nexus Of Privacy&rpar;](http://www.techmeme.com/230619/p16#a230619p16)
- - [Save up to $250 on Apple products with early Prime Day deals](https://appleinsider.com/articles/23/06/19/save-up-to-250-on-apple-products-with-early-prime-day-deals?utm_medium=rss)
- - [Best Internet Providers in Las Vegas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Outlook vs Gmail: How do they compare?](https://www.androidauthority.com/outlook-vs-gmail-3336795/)
+ - [Apple takes a page from Samsung, patents Gear VR-like headset for the iPhone](https://www.androidauthority.com/apple-mixed-reality-headset-samsung-3336846/)
+ - [Galaxy Tab S9 leaked press renders show off the tablet trio &lpar;Update: Removed&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
