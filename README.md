@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
- - ⏩ [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
- - 👉 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 💣 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - ⏩ [Prepare for standards and make them double](http://9gag.com/gag/axoPqND)
+ - 👉 [Kids, dont drink, drive and livestream](http://9gag.com/gag/amAV3A9)<!-- MEMES:END -->
 
 ---
 
