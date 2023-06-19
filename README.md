@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to control every image of an apple, says Swiss fruit firm](https://appleinsider.com/articles/23/06/19/apple-wants-to-control-every-image-of-an-apple-says-swiss-fruit-firm?utm_medium=rss)
- - [Sources: internal teams at Singapore-based Crypto.com trade tokens for profit on the exchange and elsewhere, a little known fact since its 2016 launch &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230619/p7#a230619p7)
- - [The BlackCat ransomware gang threatens to release 80GB of data allegedly stolen from Reddit; Reddit confirms BlackCat&#39;s claims relate to a February 9 incident &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230619/p6#a230619p6)<!-- TECH:END -->
+ - [Breville Joule Turbo review: sous vide with speed](https://www.theverge.com/23762514/breville-joule-turbo-sous-vide-review)
+ - [Twitter suspends Explain This Bob, a GPT-4 bot tied to the BOB Token, after Elon Musk called the account a &quot;scam&quot;; Musk replied &quot;I love Bob&quot; in April 2023 &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/230619/p9#a230619p9)
+ - [Samsung brings its self-repair program to the UK and Europe](https://www.androidauthority.com/samsung-self-repair-program-uk-europe-3336577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
