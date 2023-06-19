@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ASRock RX 7800 XT graphics cards with 16GB of memory are really real](https://www.pcgamer.com/asrock-rx-7800-xt-graphics-cards-with-16gb-of-memory-are-really-real)
  - [Intel&#39;s Raptor Lake refresh CPUs rumored to launch in October](https://www.pcgamer.com/intels-raptor-lake-refresh-cpus-rumored-to-launch-in-october)
- - [Today&#39;s Wordle hint and answer #730: Monday, June 19](https://www.pcgamer.com/wordle-answer-today-hint-730-june-19)
- - [Colonial Slavery Board Game&#39;s Relaunch Is Hoping Third Time&#39;s The Charm](https://kotaku.com/puerto-rico-1897-board-game-slavery-controversy-slaves-1850552492)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #730: Monday, June 19](https://www.pcgamer.com/wordle-answer-today-hint-730-june-19)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
