@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A departed Rockstar cofounder is finally teasing what&#39;s next with a music video and a big ole&#39; creepy eyeball](https://www.pcgamer.com/one-of-rockstars-cofounders-is-finally-teasing-whats-next-with-a-music-video-and-a-big-ole-creepy-eyeball)
- - [I&#39;m hoping against hope that Cyberpunk 2077&#39;s expansion overhaul will finally fix the game&#39;s lingering mechanics malaise](https://www.pcgamer.com/im-hoping-against-hope-that-cyberpunk-2077s-expansion-overhaul-will-finally-fix-the-games-lingering-mechanics-malaise)
- - [Here&#39;s space corporations doing things they shouldn&#39;t in the Aliens: Dark Descent story trailer](https://www.pcgamer.com/heres-space-corporations-doing-things-they-shouldnt-in-the-aliens-dark-descent-story-trailer)<!-- GAME:END -->
+ - [Action legend Don Lee wants you to feel every punch](https://www.polygon.com/23759294/don-lee-ma-dong-seok-interview-roundup-train-to-busan-john-wick)
+ - [New Zelda: Tears Of The Kingdom Infinite Glitch Turns You Into A Frozen Meat Tycoon](https://kotaku.com/zelda-tears-kingdom-duplication-infinite-rupees-meat-1850552359)
+ - [The Outlast Trials&#39; opening moments are beyond terrifying, but it loses steam fast in multiplayer](https://www.pcgamer.com/the-outlast-trials-opening-moments-are-beyond-terrifying-but-it-loses-steam-fast-in-multiplayer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
