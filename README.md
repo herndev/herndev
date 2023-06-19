@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
- - ⏩ [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
- - 👉 [Name that Character](http://9gag.com/gag/aPgX0vn)<!-- MEMES:END -->
+ - 💣 [Or twitter](http://9gag.com/gag/aDYX58Z)
+ - ⏩ [Okubo Park in Tokyo: 150$ for the seggs. Details in comment](http://9gag.com/gag/axoPLNY)
+ - 👉 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
 
 ---
 
