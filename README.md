@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shenzhen Longhua Park last night, China. Welcome the Dragon Boat Festival. Last night people in the park witnessed an incredible scene](http://9gag.com/gag/a7qNQGz)
- - ⏩ [Peace in Ukraine is very simple, just gtfo and leave them alone](http://9gag.com/gag/aoK8b1n)
- - 👉 [Oh please](http://9gag.com/gag/aKEYRLj)<!-- MEMES:END -->
+ - 💣 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - ⏩ [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
+ - 👉 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
 
 ---
 
