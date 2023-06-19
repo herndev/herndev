@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 takes GTA 5’s character switching to a weird new place](https://www.polygon.com/23762595/alan-wake-2-protagonists-survival-horror-sam-lake-interview)
- - [Diablo 4&#39;s Most-Played Class ATM Is The Sorcerer](https://kotaku.com/diablo-4-best-class-sorcerer-build-popular-blizzard-1850549446)
- - [Diablo 4 players are overcoming fashion limitations to recreate their favourite characters](https://www.pcgamer.com/diablo-4-players-are-overcoming-fashion-limitations-to-recreate-their-favourite-characters)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma lead says Final Fantasy 16&#39;s thrilling combat is his &#39;personal masterpiece&#39;](https://www.pcgamer.com/dragons-dogma-lead-says-final-fantasy-16s-thrilling-combat-is-his-personal-masterpiece)
+ - [Absurd Yakuza collection is 35 bucks for seven games that our EIC has spent 456 hours playing](https://www.pcgamer.com/absurd-yakuza-collection-is-35-bucks-for-seven-games-that-our-eic-has-spent-456-hours-playing)
+ - [Overwatch 2 Twitch Streamer Hits Grandmaster On Lifeweaver After 1,000+ Games](https://kotaku.com/overwatch-2-lifeweaver-grandmaster-rank-twitch-support-1850549669)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
