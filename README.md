@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breville Joule Turbo review: sous vide with speed](https://www.theverge.com/23762514/breville-joule-turbo-sous-vide-review)
- - [Twitter suspends Explain This Bob, a GPT-4 bot tied to the BOB Token, after Elon Musk called the account a &quot;scam&quot;; Musk replied &quot;I love Bob&quot; in April 2023 &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/230619/p9#a230619p9)
- - [Samsung brings its self-repair program to the UK and Europe](https://www.androidauthority.com/samsung-self-repair-program-uk-europe-3336577/)<!-- TECH:END -->
+ - [An overview of how the adoption of generative AI tools is transforming everyday work in legal contracts, professional services, filmmaking, and programming &lpar;Financial Times&rpar;](http://www.techmeme.com/230619/p11#a230619p11)
+ - [Apple could force a 111-year-old fruit company to change its apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
+ - [Plant-based marketing campaign uses Steve Jobs &amp; faces potential conflict with Apple](https://appleinsider.com/articles/23/06/19/plant-based-marketing-campaign-uses-steve-jobs-faces-potential-conflict-with-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
