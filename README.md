@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS 14 Sonoma release date: When is the next update releasing for MacBooks?](https://www.androidauthority.com/macos-14-sonoma-release-date-3336640/)
- - [The spot where YouTube TV gives you a break from ads is now getting ads](https://www.androidauthority.com/youtube-tv-ads-zen-3336659/)
- - [iOS 17: Upcoming iPhone Features I&#39;m Excited About     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-upcoming-iphone-features-im-excited-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch won&#39;t get third-party watch faces anytime soon](https://appleinsider.com/articles/23/06/19/apple-watch-wont-get-third-party-watch-faces-anytime-soon?utm_medium=rss)
+ - [Snap hopes to use My AI chatbot interactions to personalize ads; 150M+ Snapchat users, or ~20% of MAUs, sent 10B messages to My AI since its late February debut &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230619/p14#a230619p14)
+ - [How to install macOS Sonoma beta, if you must](https://appleinsider.com/articles/23/06/19/how-to-install-macos-sonoma-beta-if-you-must?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
