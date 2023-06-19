@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xenonauts 2 will invade our world this July](https://www.pcgamer.com/xenonauts-2-will-invade-our-world-this-july)
- - [There Would Have Been A Woman At Summer Game Fest, But She Couldn&#39;t Make It](https://kotaku.com/summer-game-fest-geoff-keighley-women-diversity-1850553957)
- - [How Warhammer Age of Sigmar: Realms of Ruin is bringing a modern RTS experience to Xbox players](https://news.xbox.com/en-us/2023/06/19/how-warhammer-age-of-sigmar-realms-of-ruin-is-bringing-a-modern-rts-experience-to-xbox-players/)<!-- GAME:END -->
+ - [Steam&#39;s next Steam Next Fest is now live on Steam](https://www.pcgamer.com/steam-next-fest-june-2023)
+ - [7 Essential Demos Featured In Steam&#39;s Next Fest](https://kotaku.com/next-fest-demo-pc-steam-valve-free-the-invincible-1850554468)
+ - [Millions of perfectly fine HDDs are shredded each year because of &#39;zero risk&#39; security policies. Spoiler alert: There&#39;s still a risk of stolen data from just a 3mm scrap](https://www.pcgamer.com/millions-of-perfectly-fine-hdds-are-shredded-each-year-because-of-zero-risk-security-policies-spoiler-alert-theres-still-a-risk-of-stolen-data-from-just-a-3mm-scrap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
