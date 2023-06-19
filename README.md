@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyper Light Breaker&#39;s world overview trailer looks too pretty to be procedural](https://www.pcgamer.com/hyper-light-breakers-world-overview-trailer-looks-too-pretty-to-be-procedural)
- - [Did you know there&#39;s been a hidden &#39;last resort&#39; Emergency restart button in Windows since Vista?](https://www.pcgamer.com/did-you-know-theres-been-a-hidden-last-resort-emergency-restart-button-in-windows-since-vista)
- - [This charming auto-battler tries to fuse Slay the Spire with Autochess, and gets it halfway right](https://www.pcgamer.com/this-charming-auto-battler-tries-to-fuse-slay-the-spire-with-autochess-and-gets-it-halfway-right)<!-- GAME:END -->
+ - [Bananas IP case sees Apple seeking rights over actual apples](https://www.pcgamer.com/bananas-ip-case-sees-apple-seeking-rights-over-actual-apples)
+ - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)
+ - [Dive Into the Pixelated World of Hammerwatch II](https://news.xbox.com/en-us/2023/06/19/hammerwatch-ii-coming-to-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
