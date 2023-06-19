@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post](http://9gag.com/gag/a8qwxOO)
- - ⏩ [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
- - 👉 [Dude played Golf with Football.](http://9gag.com/gag/az2ZpXp)<!-- MEMES:END -->
+ - 💣 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - ⏩ [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - 👉 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)<!-- MEMES:END -->
 
 ---
 
