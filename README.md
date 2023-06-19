@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - ⏩ [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
- - 👉 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
+ - 💣 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
+ - ⏩ [Clear!](http://9gag.com/gag/aL1XZEv)
+ - 👉 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
 
 ---
 
