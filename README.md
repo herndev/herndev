@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch saves woman from a high-risk blood clot](https://appleinsider.com/articles/23/06/19/apple-watch-saves-woman-from-a-high-risk-blood-clot?utm_medium=rss)
  - [Save 50% on the Razer Wolverine V2 gaming controller](https://www.androidauthority.com/razer-wolverine-v2-gaming-controller-deal-3336767/)
- - [Reddit got hacked, and that&#39;s not even the most ludicrous news about it today](https://appleinsider.com/articles/23/06/19/reddit-got-hacked-and-thats-not-even-the-most-ludicrous-news-about-it-today?utm_medium=rss)
- - [Some publishers say they have seen a sharp drop in Facebook traffic since May 2023; Echobox: the share of traffic to publisher sites from Facebook fell ~50% YoY &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230619/p15#a230619p15)<!-- TECH:END -->
+ - [Reddit got hacked, and that&#39;s not even the most ludicrous news about it today](https://appleinsider.com/articles/23/06/19/reddit-got-hacked-and-thats-not-even-the-most-ludicrous-news-about-it-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
