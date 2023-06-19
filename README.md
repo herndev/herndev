@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
  - ⏩ [Name that Character](http://9gag.com/gag/aPgX0vn)
- - 👉 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)<!-- MEMES:END -->
+ - 👉 [Clear!](http://9gag.com/gag/aL1XZEv)<!-- MEMES:END -->
 
 ---
 
