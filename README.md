@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable. Have a great day](http://9gag.com/gag/aOx1LVR)
- - ⏩ [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
- - 👉 [Clear!](http://9gag.com/gag/aL1XZEv)<!-- MEMES:END -->
+ - 💣 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 👉 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)<!-- MEMES:END -->
 
 ---
 
