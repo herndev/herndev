@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name that Character](http://9gag.com/gag/aPgX0vn)
- - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 👉 [9gag at its former glory](http://9gag.com/gag/aXn21yb)<!-- MEMES:END -->
+ - 💣 [Bobs](http://9gag.com/gag/aVb2528)
+ - ⏩ [Or twitter](http://9gag.com/gag/aDYX58Z)
+ - 👉 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
 
 ---
 
