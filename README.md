@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
- - ⏩ [Understandable. Have a great day](http://9gag.com/gag/aOx1LVR)
- - 👉 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
+ - 💣 [Shenzhen Longhua Park last night, China. Welcome the Dragon Boat Festival. Last night people in the park witnessed an incredible scene](http://9gag.com/gag/a7qNQGz)
+ - ⏩ [Peace in Ukraine is very simple, just gtfo and leave them alone](http://9gag.com/gag/aoK8b1n)
+ - 👉 [Oh please](http://9gag.com/gag/aKEYRLj)<!-- MEMES:END -->
 
 ---
 
