@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - ⏩ [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - 👉 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 💣 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
+ - ⏩ [Name that Character](http://9gag.com/gag/aPgX0vn)
+ - 👉 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)<!-- MEMES:END -->
 
 ---
 
