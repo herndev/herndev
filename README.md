@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo says the company significantly scaled back TV ads, and its DAUs growing 62% YoY to 20.3M in Q1 2023 is due in part to efficient social media marketing &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/230618/p10#a230618p10)
  - [Hands-on with an Adobe Photoshop beta&#39;s Generative Fill AI feature, which lets users add objects to, remove content from, and expand images using text prompts &lpar;Washington Post&rpar;](http://www.techmeme.com/230618/p9#a230618p9)
- - [How to use Multiview on Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-multiview-on-apple-tv?utm_medium=rss)
- - [Amazon insists striking delivery drivers don’t really work for Amazon](https://www.theverge.com/2023/6/18/23765330/amazon-delivery-drivers-union-teamsters)<!-- TECH:END -->
+ - [How to use Multiview on Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-multiview-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
