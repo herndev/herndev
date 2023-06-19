@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma lead says Final Fantasy 16&#39;s thrilling combat is his &#39;personal masterpiece&#39;](https://www.pcgamer.com/dragons-dogma-lead-says-final-fantasy-16s-thrilling-combat-is-his-personal-masterpiece)
- - [Absurd Yakuza collection is 35 bucks for seven games that our EIC has spent 456 hours playing](https://www.pcgamer.com/absurd-yakuza-collection-is-35-bucks-for-seven-games-that-our-eic-has-spent-456-hours-playing)
- - [Overwatch 2 Twitch Streamer Hits Grandmaster On Lifeweaver After 1,000+ Games](https://kotaku.com/overwatch-2-lifeweaver-grandmaster-rank-twitch-support-1850549669)<!-- GAME:END -->
+ - [Hyper Light Breaker&#39;s world overview trailer looks too pretty to be procedural](https://www.pcgamer.com/hyper-light-breakers-world-overview-trailer-looks-too-pretty-to-be-procedural)
+ - [Did you know there&#39;s been a hidden &#39;last resort&#39; Emergency restart button in Windows since Vista?](https://www.pcgamer.com/did-you-know-theres-been-a-hidden-last-resort-emergency-restart-button-in-windows-since-vista)
+ - [This charming auto-battler tries to fuse Slay the Spire with Autochess, and gets it halfway right](https://www.pcgamer.com/this-charming-auto-battler-tries-to-fuse-slay-the-spire-with-autochess-and-gets-it-halfway-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
