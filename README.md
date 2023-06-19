@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
- - ⏩ [Name that Character](http://9gag.com/gag/aPgX0vn)
+ - 💣 [Name that Character](http://9gag.com/gag/aPgX0vn)
+ - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
  - 👉 [9gag at its former glory](http://9gag.com/gag/aXn21yb)<!-- MEMES:END -->
 
 ---
