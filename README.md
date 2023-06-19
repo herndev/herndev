@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Foxconn chairman Young Liu on shifting some supply chains away from China as China-US tensions rise, hoping to capture 5% of EVs, and more &lpar;BBC&rpar;](http://www.techmeme.com/230619/p4#a230619p4)
- - [How Generative AI Helps Bring Big Design Ideas to Life     - CNET](https://www.cnet.com/tech/features/how-generative-ai-helps-bring-big-design-ideas-to-life/#ftag=CAD590a51e)
- - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple wants to control every image of an apple, says Swiss fruit firm](https://appleinsider.com/articles/23/06/19/apple-wants-to-control-every-image-of-an-apple-says-swiss-fruit-firm?utm_medium=rss)
+ - [Sources: internal teams at Singapore-based Crypto.com trade tokens for profit on the exchange and elsewhere, a little known fact since its 2016 launch &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/230619/p7#a230619p7)
+ - [The BlackCat ransomware gang threatens to release 80GB of data allegedly stolen from Reddit; Reddit confirms BlackCat&#39;s claims relate to a February 9 incident &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230619/p6#a230619p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
