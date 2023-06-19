@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
- - ⏩ [Name that Character](http://9gag.com/gag/aPgX0vn)
- - 👉 [Clear!](http://9gag.com/gag/aL1XZEv)<!-- MEMES:END -->
+ - 💣 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 👉 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
 
 ---
 
