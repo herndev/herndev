@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 23’s best new mode isn’t Braking Point 2, it’s F1 World](https://www.polygon.com/23763623/f1-23-world-impressions-new-mode-unlocks-podium-pass)
- - [Another Game Pass Day One Title Slips Into 2024](https://kotaku.com/xbox-game-pass-soulslike-flintlock-ashen-a44-release-1850552683)
- - [The Walking Dead: Dead City is best when it forgets it’s a Walking Dead show](https://www.polygon.com/23762333/walking-dead-city-review-new-amc-show)<!-- GAME:END -->
+ - [Alan Wake 2 takes GTA 5’s character switching to a weird new place](https://www.polygon.com/23762595/alan-wake-2-protagonists-survival-horror-sam-lake-interview)
+ - [Diablo 4&#39;s Most-Played Class ATM Is The Sorcerer](https://kotaku.com/diablo-4-best-class-sorcerer-build-popular-blizzard-1850549446)
+ - [Diablo 4 players are overcoming fashion limitations to recreate their favourite characters](https://www.pcgamer.com/diablo-4-players-are-overcoming-fashion-limitations-to-recreate-their-favourite-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
