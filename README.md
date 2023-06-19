@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of how the adoption of generative AI tools is transforming everyday work in legal contracts, professional services, filmmaking, and programming &lpar;Financial Times&rpar;](http://www.techmeme.com/230619/p11#a230619p11)
- - [Apple could force a 111-year-old fruit company to change its apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
- - [Plant-based marketing campaign uses Steve Jobs &amp; faces potential conflict with Apple](https://appleinsider.com/articles/23/06/19/plant-based-marketing-campaign-uses-steve-jobs-faces-potential-conflict-with-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Germany and Intel agree on subsidies worth &amp;euro;10B for its chip plant in Magdeburg, up from an initial agreement on &amp;euro;6.8B, part of a &amp;euro;30B project &lpar;Bloomberg&rpar;](http://www.techmeme.com/230619/p13#a230619p13)
+ - [Daily deals: $949 M2 MacBook Air, $100 off iPad Pro, up to 43% off Microsoft Surface laptops &amp; tablets](https://appleinsider.com/articles/23/06/19/daily-deals-949-m2-macbook-air-100-off-ipad-pro-up-to-43-off-microsoft-surface-laptops-tablets?utm_medium=rss)
+ - [A look at Apple&#39;s attempt to gain IP rights over depictions of apples globally, including in Switzerland, worrying the 111-year-old Fruit Union Suisse &lpar;Gabriela Galindo/Wired&rpar;](http://www.techmeme.com/230619/p12#a230619p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
