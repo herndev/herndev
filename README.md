@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Secret Invasion, Netflix’s Skull Island, The Bear, and all the new TV to watch this week](https://www.polygon.com/2023/6/19/23759291/new-tv-series-shows-watch-skull-island-netflix-secret-invasion-disney-mcu)
  - [Bananas IP case sees Apple seeking rights over actual apples](https://www.pcgamer.com/bananas-ip-case-sees-apple-seeking-rights-over-actual-apples)
- - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)
- - [Dive Into the Pixelated World of Hammerwatch II](https://news.xbox.com/en-us/2023/06/19/hammerwatch-ii-coming-to-xbox/)<!-- GAME:END -->
+ - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
