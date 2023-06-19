@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch won&#39;t get third-party watch faces anytime soon](https://appleinsider.com/articles/23/06/19/apple-watch-wont-get-third-party-watch-faces-anytime-soon?utm_medium=rss)
- - [Snap hopes to use My AI chatbot interactions to personalize ads; 150M+ Snapchat users, or ~20% of MAUs, sent 10B messages to My AI since its late February debut &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230619/p14#a230619p14)
- - [How to install macOS Sonoma beta, if you must](https://appleinsider.com/articles/23/06/19/how-to-install-macos-sonoma-beta-if-you-must?utm_medium=rss)<!-- TECH:END -->
+ - [Save 50% on the Razer Wolverine V2 gaming controller](https://www.androidauthority.com/razer-wolverine-v2-gaming-controller-deal-3336767/)
+ - [Reddit got hacked, and that&#39;s not even the most ludicrous news about it today](https://appleinsider.com/articles/23/06/19/reddit-got-hacked-and-thats-not-even-the-most-ludicrous-news-about-it-today?utm_medium=rss)
+ - [Some publishers say they have seen a sharp drop in Facebook traffic since May 2023; Echobox: the share of traffic to publisher sites from Facebook fell ~50% YoY &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230619/p15#a230619p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
