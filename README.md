@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #730: Monday, June 19](https://www.pcgamer.com/wordle-answer-today-hint-730-june-19)
  - [Colonial Slavery Board Game&#39;s Relaunch Is Hoping Third Time&#39;s The Charm](https://kotaku.com/puerto-rico-1897-board-game-slavery-controversy-slaves-1850552492)
- - [Henry Cavill says bye to his Witcher co-stars: &#39;You guys bring so much nuance and detail to these characters, which are often at risk of being oversimplified&#39;](https://www.pcgamer.com/henry-cavill-says-bye-to-his-witcher-co-stars-you-guys-bring-so-much-nuance-and-detail-to-these-characters-which-are-often-at-risk-of-being-oversimplified)
- - [Five new Steam games you probably missed &lpar;June 19, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-19-2023)<!-- GAME:END -->
+ - [Henry Cavill says bye to his Witcher co-stars: &#39;You guys bring so much nuance and detail to these characters, which are often at risk of being oversimplified&#39;](https://www.pcgamer.com/henry-cavill-says-bye-to-his-witcher-co-stars-you-guys-bring-so-much-nuance-and-detail-to-these-characters-which-are-often-at-risk-of-being-oversimplified)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
