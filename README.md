@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 leaked press renders show off the tablet trio](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)
- - [Apple will upgrade iPhone 15 Ultra Wideband chip for Vision Pro integration, says Kuo](https://appleinsider.com/articles/23/06/19/apple-will-upgrade-iphone-15-ultra-wideband-chip-for-vision-pro-integration-says-kuo?utm_medium=rss)
- - [Meta faces pressure from UK MPs, consumer groups, and banks over its failure to prevent fraud on its platforms, estimated to cost UK households &amp;pound;250M in 2023 &lpar;The Guardian&rpar;](http://www.techmeme.com/230619/p3#a230619p3)<!-- TECH:END -->
+ - [An interview with Foxconn chairman Young Liu on shifting some supply chains away from China as China-US tensions rise, hoping to capture 5% of EVs, and more &lpar;BBC&rpar;](http://www.techmeme.com/230619/p4#a230619p4)
+ - [How Generative AI Helps Bring Big Design Ideas to Life     - CNET](https://www.cnet.com/tech/features/how-generative-ai-helps-bring-big-design-ideas-to-life/#ftag=CAD590a51e)
+ - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
