@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bobs](http://9gag.com/gag/aVb2528)
- - ⏩ [Or twitter](http://9gag.com/gag/aDYX58Z)
- - 👉 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
+ - 💣 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - ⏩ [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
+ - 👉 [Name that Character](http://9gag.com/gag/aPgX0vn)<!-- MEMES:END -->
 
 ---
 
