@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s bringing big changes to its post-game, but a &#39;significant majority&#39; of players haven&#39;t even finished the campaign yet](https://www.pcgamer.com/diablo-4s-bringing-big-changes-to-its-post-game-but-a-significant-majority-of-players-havent-even-finished-the-campaign-yet)
- - [Diablo IV Devs Say Future Update Will Fix Annoying Gems](https://kotaku.com/diablo-4-gem-bag-inventory-filled-update-season-2-1850549357)
- - [xQc scores unbelievable $100 million deal to start streaming on Kick](https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick)<!-- GAME:END -->
+ - [A departed Rockstar cofounder is finally teasing what&#39;s next with a music video and a big ole&#39; creepy eyeball](https://www.pcgamer.com/one-of-rockstars-cofounders-is-finally-teasing-whats-next-with-a-music-video-and-a-big-ole-creepy-eyeball)
+ - [I&#39;m hoping against hope that Cyberpunk 2077&#39;s expansion overhaul will finally fix the game&#39;s lingering mechanics malaise](https://www.pcgamer.com/im-hoping-against-hope-that-cyberpunk-2077s-expansion-overhaul-will-finally-fix-the-games-lingering-mechanics-malaise)
+ - [Here&#39;s space corporations doing things they shouldn&#39;t in the Aliens: Dark Descent story trailer](https://www.pcgamer.com/heres-space-corporations-doing-things-they-shouldnt-in-the-aliens-dark-descent-story-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
