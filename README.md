@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Invasion, Netflix’s Skull Island, The Bear, and all the new TV to watch this week](https://www.polygon.com/2023/6/19/23759291/new-tv-series-shows-watch-skull-island-netflix-secret-invasion-disney-mcu)
- - [Bananas IP case sees Apple seeking rights over actual apples](https://www.pcgamer.com/bananas-ip-case-sees-apple-seeking-rights-over-actual-apples)
- - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)<!-- GAME:END -->
+ - [Xenonauts 2 will invade our world this July](https://www.pcgamer.com/xenonauts-2-will-invade-our-world-this-july)
+ - [There Would Have Been A Woman At Summer Game Fest, But She Couldn&#39;t Make It](https://kotaku.com/summer-game-fest-geoff-keighley-women-diversity-1850553957)
+ - [How Warhammer Age of Sigmar: Realms of Ruin is bringing a modern RTS experience to Xbox players](https://news.xbox.com/en-us/2023/06/19/how-warhammer-age-of-sigmar-realms-of-ruin-is-bringing-a-modern-rts-experience-to-xbox-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
