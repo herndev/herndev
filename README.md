@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best video downloader extensions for Chrome](https://www.androidauthority.com/best-video-downloader-extensions-for-chrome-3336219/)
- - [Mercedes Teams Up With ChatGPT To Improve How Drivers Talk to Their Cars     - CNET](https://www.cnet.com/roadshow/news/mercedes-teams-up-with-chatgpt-to-improve-how-drivers-talk-to-their-cars/#ftag=CAD590a51e)
- - [Best 3D Printer Deals: 10 Fantastic Printers at the Best Prices     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands-on with an Adobe Photoshop beta&#39;s Generative Fill AI feature, which lets users add objects to, remove content from, and expand images using text prompts &lpar;Washington Post&rpar;](http://www.techmeme.com/230618/p9#a230618p9)
+ - [How to use Multiview on Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-multiview-on-apple-tv?utm_medium=rss)
+ - [Amazon insists striking delivery drivers don’t really work for Amazon](https://www.theverge.com/2023/6/18/23765330/amazon-delivery-drivers-union-teamsters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
