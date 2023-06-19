@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked ASUS Zenfone 10 renders give us a great look at the compact flagship](https://www.androidauthority.com/asus-zenfone-10-leaked-renders-3334456/)
- - [Apple Is Taking On Apples in a Truly Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
- - [A look at the orchestrated downfall of Kyle Roche, co-founder of Roche Freedman LLP, known for suing crypto companies and getting a verdict against Craig Wright &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/230619/p1#a230619p1)<!-- TECH:END -->
+ - [We asked, you told us: You’re not sold on the Xiaomi 13 Ultra at this price](https://www.androidauthority.com/xiaomi-13-ultra-price-buy-poll-results-3336535/)
+ - [How Pixar used neural style transfer, a type of AI used to make photos look like popular artworks, to animate Ember, a lead character in its movie Elemental &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/230619/p2#a230619p2)
+ - [Leaked ASUS Zenfone 10 renders give us a great look at the compact flagship](https://www.androidauthority.com/asus-zenfone-10-leaked-renders-3334456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
