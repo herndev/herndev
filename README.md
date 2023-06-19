@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock RX 7800 XT graphics cards with 16GB of memory are really real](https://www.pcgamer.com/asrock-rx-7800-xt-graphics-cards-with-16gb-of-memory-are-really-real)
- - [Intel&#39;s Raptor Lake refresh CPUs rumored to launch in October](https://www.pcgamer.com/intels-raptor-lake-refresh-cpus-rumored-to-launch-in-october)
- - [Today&#39;s Wordle hint and answer #730: Monday, June 19](https://www.pcgamer.com/wordle-answer-today-hint-730-june-19)<!-- GAME:END -->
+ - [F1 23’s best new mode isn’t Braking Point 2, it’s F1 World](https://www.polygon.com/23763623/f1-23-world-impressions-new-mode-unlocks-podium-pass)
+ - [Another Game Pass Day One Title Slips Into 2024](https://kotaku.com/xbox-game-pass-soulslike-flintlock-ashen-a44-release-1850552683)
+ - [The Walking Dead: Dead City is best when it forgets it’s a Walking Dead show](https://www.polygon.com/23762333/walking-dead-city-review-new-amc-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
