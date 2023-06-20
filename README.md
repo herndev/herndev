@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z, Sequoia, and others are increasing investments in defense tech startups; PitchBook says US VCs invested $33B in the sector in 2022, up from $16B in 2019 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230620/p20#a230620p20)
- - [The global cybersecurity market grew 12.5% YoY to $18.6B in Q1 2023, despite tighter budgets; Palo Alto Networks had an 8.7% share, Fortinet 7%, and Cisco 6.1% &lpar;Canalys&rpar;](http://www.techmeme.com/230620/p19#a230620p19)
- - [Alibaba&#39;s shakeup, including adding company veteran Joe Tsai, highlights its conundrum over splitting into six units and pursuing profit or growth ahead of IPOs &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230620/p18#a230620p18)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom is on sale](https://www.theverge.com/2023/6/20/23745958/legend-of-zelda-tears-of-the-kingdom-deal-sale)
+ - [Tim Cook wants season four of &#39;Ted Lasso,&#39; says Coach Beard](https://appleinsider.com/articles/23/06/20/tim-cook-wants-season-four-of-ted-lasso-says-coach-beard?utm_medium=rss)
+ - [Apple&#39;s Self Service Repair program updates make it easier for DIY fixers](https://appleinsider.com/articles/23/06/20/apples-self-service-repair-program-updates-make-it-easier-for-diy-fixers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
