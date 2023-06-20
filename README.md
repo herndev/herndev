@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU antitrust regulators plan to launch a detailed investigation into Adobe&#39;s acquisition of Figma later this year, which may derail the deal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230620/p2#a230620p2)
- - [Garmin Forerunner 955 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-955-vs-965-3336994/)
- - [Alibaba announces Eddie Wu to succeed Daniel Zhang as CEO and names Executive Vice Chairman Joseph Tsai as Chairman; Zhang will continue as Alibaba Cloud CEO &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230620/p1#a230620p1)<!-- TECH:END -->
+ - [The best Apple Watch Ultra cases](https://www.androidauthority.com/best-apple-watch-ultra-cases-3337021/)
+ - [The official Google Pixel Tablet case’s clever design hooked me from day one](https://www.androidauthority.com/google-pixel-tablet-case-kickstand-3334740/)
+ - [The Pixel Tablet’s new Google Weather app is gorgeous](https://www.androidauthority.com/new-google-weather-app-3333944/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
