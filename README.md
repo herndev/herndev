@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom is on sale](https://www.theverge.com/2023/6/20/23745958/legend-of-zelda-tears-of-the-kingdom-deal-sale)
- - [Tim Cook wants season four of &#39;Ted Lasso,&#39; says Coach Beard](https://appleinsider.com/articles/23/06/20/tim-cook-wants-season-four-of-ted-lasso-says-coach-beard?utm_medium=rss)
- - [Apple&#39;s Self Service Repair program updates make it easier for DIY fixers](https://appleinsider.com/articles/23/06/20/apples-self-service-repair-program-updates-make-it-easier-for-diy-fixers?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Midjourney Magazine&#39; Is Here—and It’s Soulless](https://www.wired.com/story/midjourney-magazine-review/)
+ - [USA Today publisher Gannett sues Google over an alleged ad tech monopoly, echoing the DOJ&#39;s arguments and saying audiences have grown but ad spending is down &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230620/p22#a230620p22)
+ - [Daily deals: M2 Mac mini $499, 10.2&quot; iPad $230, up to 70% off Amazon devices, more](https://appleinsider.com/articles/23/06/20/daily-deals-m2-mac-mini-499-102-ipad-230-up-to-70-off-amazon-devices-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
