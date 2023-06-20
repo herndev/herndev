@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amouranth Follows xQc’s Lead And Leaves Twitch](https://kotaku.com/kick-amouranth-contract-xqc-twitch-income-twitter-1850555804)
- - [Square Enix wins stunt of the day by commissioning actual swordsmith to make a giant Final Fantasy 16 weapon, then displaying it in the Tower of London](https://www.pcgamer.com/square-enix-wins-stunt-of-the-day-by-commissioning-actual-swordsmith-to-make-a-giant-final-fantasy-16-weapon-then-displaying-it-in-the-tower-of-london)
- - [Get Ready For A 40-Min Nintendo Direct For 2023&#39;s Big Switch Games](https://kotaku.com/nintendo-direct-june-2023-pikmin-4-switch-pokemon-dlc-1850555739)<!-- GAME:END -->
+ - [‘Voe and You’ classroom solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23747133/voe-and-you-totk-class-solution-gerudo-town)
+ - [Fortnite Twitch Streamer Hits Max Rank By Just Hiding](https://kotaku.com/fortnite-ranked-unreal-bushcampdad-streamer-twitch-1850555939)
+ - [Amouranth Follows xQc’s Lead And Leaves Twitch](https://kotaku.com/kick-amouranth-contract-xqc-twitch-income-twitter-1850555804)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
