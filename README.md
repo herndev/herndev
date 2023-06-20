@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
- - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - ⏩ [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
  - 👉 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 ---
