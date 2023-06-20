@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 👉 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
+ - 💣 [A woman caught carrying two weapons.](http://9gag.com/gag/aA0X99Z)
+ - ⏩ [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 👉 [What is dis?](http://9gag.com/gag/a3ZW6ne)<!-- MEMES:END -->
 
 ---
 
