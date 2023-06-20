@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India may export one in five iPhones worldwide by 2025](https://appleinsider.com/articles/23/06/20/india-may-export-one-in-five-iphones-worldwide-by-2025?utm_medium=rss)
- - [I tried to replace my Nest Hub with a Pixel Tablet, and here’s how it went](https://www.androidauthority.com/google-pixel-tablet-vs-nest-hub-3336649/)
- - [Experts warn about pedophiles using generative AI to create CSAM, leading to thousands of images on dark web forums; some question whether laws cover the images &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230620/p12#a230620p12)<!-- TECH:END -->
+ - [Beats signs up A-Cold-Wall&#39;s Samuel Ross for new design role](https://appleinsider.com/articles/23/06/20/beats-signs-up-a-cold-walls-samuel-ross-for-new-design-role?utm_medium=rss)
+ - [Spotify’s long-anticipated HiFi tier might require a more expensive subscription](https://www.theverge.com/2023/6/20/22746337/spotify-hifi-lossless-new-premium-tier-supremium)
+ - [Aviva, Fidelity, and other big institutional investors are increasingly pressuring tech companies to prevent AI misuse, concerned about potential liability &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/230620/p17#a230620p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
