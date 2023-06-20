@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)
- - [Prepare For Trouble, Make It Double](https://kotaku.com/concept-art-league-geeks-armello-pokemon-team-rocket-1850554749)
- - [McDonalds &amp; Fandom Replaced A Wiki Page With An Advertisement](https://kotaku.com/mcdonalds-grimace-wiki-ad-happy-meal-fandom-history-1850552640)<!-- GAME:END -->
+ - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)
+ - [Prepare For Trouble, Make It Double](https://kotaku.com/concept-art-league-geeks-armello-pokemon-team-rocket-1850554749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
