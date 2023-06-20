@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
- - ⏩ [Pwned](http://9gag.com/gag/aL1Xxdz)
+ - 💣 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - ⏩ [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
  - 👉 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)<!-- MEMES:END -->
 
 ---
