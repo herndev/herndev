@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/19/this-weeks-deals-with-gold-and-spotlight-sale-278/)
  - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)
- - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)
- - [Prepare For Trouble, Make It Double](https://kotaku.com/concept-art-league-geeks-armello-pokemon-team-rocket-1850554749)<!-- GAME:END -->
+ - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
