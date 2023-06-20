@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel continues its spending spree with more major fab investments](https://www.pcgamer.com/intel-continues-its-spending-spree-with-more-major-fab-investments)
  - [Can Sunkern be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758380/can-sunkern-be-shiny-sunflora)
- - [Today&#39;s Wordle hint and answer #731: Tuesday, June 20](https://www.pcgamer.com/wordle-answer-today-hint-731-june-20)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/19/this-weeks-deals-with-gold-and-spotlight-sale-278/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #731: Tuesday, June 20](https://www.pcgamer.com/wordle-answer-today-hint-731-june-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
