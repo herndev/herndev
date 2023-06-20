@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Rose Rocket, which sells SaaS tools for trucking companies, raised a $38M Series B led by Scale Venture Partners, taking its total funding to $69M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230620/p28#a230620p28)
- - [How to Find the Titanic Sub Before It’s Too Late](https://www.wired.com/story/find-missing-titanic-sub/)
- - [Spotify updates Mac app with Your Library, Now Playing changes](https://appleinsider.com/articles/23/06/20/spotify-updates-mac-app-with-your-library-now-playing-changes?utm_medium=rss)<!-- TECH:END -->
+ - [The US’s largest news publisher sues Google over alleged digital ad monopoly](https://www.androidauthority.com/gannett-google-lawsuit-3337399/)
+ - [The best Chrome extensions for productivity](https://www.androidauthority.com/best-chrome-extensions-for-productivity-3337362/)
+ - [Best Headsets for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
