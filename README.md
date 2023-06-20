@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Former Fortnite Pro Tfue Retires From Twitch At 25](https://kotaku.com/twitch-streamer-tfue-fortnite-faze-clan-retirement-1850557985)
- - [Blizzard may remove upcoming WoW quest where players fix the timeline by ensuring a character is sexually assaulted](https://www.pcgamer.com/blizzard-may-remove-upcoming-wow-quest-where-players-fix-the-timeline-by-ensuring-a-character-is-sexually-assaulted)
- - [Power Up Your Crew in Crash Team Rumble, Available Today](https://news.xbox.com/en-us/2023/06/20/power-up-your-crew-in-crash-team-rumble-available-today/)<!-- GAME:END -->
+ - [The Sims 4 is finally getting the horse expansion fans have been pleading for](https://www.pcgamer.com/sims-4-horse-expansion-teaser)
+ - [You have to start a fresh Diablo 4 character for each battle pass](https://www.pcgamer.com/diablo-4-new-characters-battle-pass)
+ - [Popular Fortnite streamer Tfue takes Twitch hiatus, citing exhausting grind](https://www.polygon.com/23767747/twitch-streamer-tfue-fortnite-break-retire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
