@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - ⏩ [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 💣 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 👉 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)<!-- MEMES:END -->
 
 ---
 
