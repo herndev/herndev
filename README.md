@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie just got the most important cutscene in its 9-year history](https://www.polygon.com/23767367/veil-traveler-gardener-winnower-witness-explained-cutscene-destiny-2)
- - [Valve Is Ditching Battle Passes Since Most Players ‘Never Buy’ One](https://kotaku.com/dota-2-csgo-moba-pc-gaming-battle-pass-frontiers-valve-1850556830)
- - [Discover Necrom and the Forbidden Secrets of Apocrypha Today on Xbox](https://news.xbox.com/en-us/2023/06/20/discover-the-elder-scrolls-online-necrom-and-the-forbidden-secrets-of-apocrypha-today-on-xbox-and-pc/)<!-- GAME:END -->
+ - [Halo Infinite Axes Season Cutscenes So Devs Can Improve Other Things](https://kotaku.com/halo-infinite-season-4-cutscenes-narrative-removed-343-1850557612)
+ - [2023’s Most Unusual Shooter Just Got Delayed To The Worst Possible Time](https://kotaku.com/immortals-of-aveum-armored-core-6-starfield-delay-ps5-1850557541)
+ - [Reddit Hackers Demand $4.5 Million Ransom For Stolen Company Data](https://kotaku.com/reddit-hack-ransom-million-hackers-blackcat-ransomware-1850557426)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
