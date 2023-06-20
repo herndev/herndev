@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba and JD.com avoided discussing GMV figures, a key indicator of success, after the conclusion of this year&#39;s 618, China&#39;s second largest shopping festival &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/230619/p19#a230619p19)
- - [Download the Google Pixel 7a wallpapers here](https://www.androidauthority.com/download-pixel-7a-wallpapers-3336971/)
- - [Apple co-founder selling 14,100-acre property to The Wildlands Conservancy](https://appleinsider.com/articles/23/06/19/apple-co-founder-selling-14100-acre-property-to-the-wildlands-conservancy?utm_medium=rss)<!-- TECH:END -->
+ - [Filings: FTX paid $121.8M in legal, consulting, and financial services fees between February 1 and April 30, as some former clients push to reboot the exchange &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230619/p20#a230619p20)
+ - [Alibaba and JD.com didn&#39;t share GMV figures for 618, China&#39;s second largest shopping festival, in 2023; the companies previously used GMV to trumpet their wins &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/230619/p19#a230619p19)
+ - [Download the Google Pixel 7a wallpapers here](https://www.androidauthority.com/download-pixel-7a-wallpapers-3336971/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
