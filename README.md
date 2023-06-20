@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch Ultra cases](https://www.androidauthority.com/best-apple-watch-ultra-cases-3337021/)
- - [The official Google Pixel Tablet case’s clever design hooked me from day one](https://www.androidauthority.com/google-pixel-tablet-case-kickstand-3334740/)
- - [The Pixel Tablet’s new Google Weather app is gorgeous](https://www.androidauthority.com/new-google-weather-app-3333944/)<!-- TECH:END -->
+ - [Google Pixel Tablet review: good screen, audio, and performance, and useful speaker dock, but some apps lack compatibility and below average battery life &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230620/p6#a230620p6)
+ - [WhatsApp can now silence calls from unknown numbers](https://www.theverge.com/2023/6/20/23766787/whatsapp-silence-unknown-callers-privacy-feature-spam)
+ - [After complaints about spam by Indian users, WhatsApp adds the ability to automatically silence calls from unknown numbers and a privacy checkup feature &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230620/p5#a230620p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
