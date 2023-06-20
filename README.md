@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad and Peak Design’s new rugged iPhone 14 case offers both style and substance](https://www.theverge.com/2023/6/20/23766804/nomad-peak-design-rugged-iphone-14-case-mount-limited-edition-price-release)
- - [Google Chrome on iOS will let you search with just your camera soon](https://www.theverge.com/2023/6/20/23766791/google-chrome-ios-search-camera-lens-feature)
- - [How to preorder the Google Pixel Fold](https://www.theverge.com/23683849/google-pixel-fold-7a-preorder-price-how-to-buy-release-date)<!-- TECH:END -->
+ - [Twitter CEO Linda Yaccarino will be at the Code Conference](https://www.theverge.com/2023/6/20/23767165/twitter-ceo-linda-yaccarino-code-conference)
+ - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
+ - [The Samsung Galaxy Buds 2 are on clearance sale at 40% off](https://www.androidauthority.com/samsung-galaxy-buds-2-deal-3337326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
