@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chinese businesses and universities turn to back alley GPU dealers to power AI](https://www.pcgamer.com/chinese-businesses-and-universities-turn-to-back-alley-gpu-dealers-to-power-ai)
- - [Amouranth gives Twitch the boot as Kick steals second streaming star in under 2 days](https://www.pcgamer.com/amouranth-gives-twitch-the-boot-as-kick-steals-second-streaming-star-in-under-2-days)
- - [Lies of P has a comeback mechanic, and now I want it in every soulslike](https://www.pcgamer.com/lies-of-p-has-a-comeback-mechanic-and-now-i-want-it-in-every-soulslike)<!-- GAME:END -->
+ - [You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Debate Live On Twitch](https://kotaku.com/twitch-biden-donald-trump-ai-artificial-intelligence-1850555581)
+ - [Hyper Light Breaker&#39;s world overview trailer looks too pretty to be procedural](https://www.pcgamer.com/hyper-light-breakers-world-overview-trailer-looks-too-pretty-to-be-procedural)
+ - [This charming auto-battler tries to fuse Slay the Spire with Autochess, and gets it halfway right](https://www.pcgamer.com/this-charming-auto-battler-tries-to-fuse-slay-the-spire-with-autochess-and-gets-it-halfway-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
