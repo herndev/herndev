@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - ⏩ [Bobs](http://9gag.com/gag/aVb2528)
- - 👉 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
+ - 💣 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
+ - ⏩ [Pwned](http://9gag.com/gag/aL1Xxdz)
+ - 👉 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)<!-- MEMES:END -->
 
 ---
 
