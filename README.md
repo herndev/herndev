@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlook vs Gmail: How do they compare?](https://www.androidauthority.com/outlook-vs-gmail-3336795/)
- - [Apple takes a page from Samsung, patents Gear VR-like headset for the iPhone](https://www.androidauthority.com/apple-mixed-reality-headset-samsung-3336846/)
- - [Galaxy Tab S9 leaked press renders show off the tablet trio &lpar;Update: Removed&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)<!-- TECH:END -->
+ - [Apple co-founder selling 14,100-acre property to The Wildlands Conservancy](https://appleinsider.com/articles/23/06/19/apple-co-founder-selling-14100-acre-property-to-the-wildlands-conservancy?utm_medium=rss)
+ - [Celebrities, including aging star athletes, are signing deals to put AI duplicates of themselves into ad campaigns, helping brands de-age them, among other uses &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230619/p18#a230619p18)
+ - [T-Mobile, AT&amp;T, Verizon: Analysts Pick Who Has the Fastest Speeds at Theme Parks     - CNET](https://www.cnet.com/tech/mobile/t-mobile-at-t-verizon-analysts-pick-who-has-the-fastest-speeds-at-theme-parks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
