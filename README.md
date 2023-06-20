@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - ⏩ [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 💣 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - ⏩ [What is dis?](http://9gag.com/gag/a3ZW6ne)
  - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
