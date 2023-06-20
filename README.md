@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [McDonalds &amp; Fandom Replaced A Wiki Page With An Advertisement](https://kotaku.com/mcdonalds-grimace-wiki-ad-happy-meal-fandom-history-1850552640)
- - [Steam&#39;s next Steam Next Fest is now live on Steam](https://www.pcgamer.com/steam-next-fest-june-2023)
- - [7 Essential Demos Featured In Steam&#39;s Next Fest](https://kotaku.com/next-fest-demo-pc-steam-valve-free-the-invincible-1850554468)<!-- GAME:END -->
+ - [Tower of Fantasy launches on Aug 8, new character Liu Huo revealed](https://blog.playstation.com/2023/06/19/tower-of-fantasy-launches-on-aug-8-new-character-liu-huo-revealed/)
+ - [Prepare For Trouble, Make It Double](https://kotaku.com/concept-art-league-geeks-armello-pokemon-team-rocket-1850554749)
+ - [McDonalds &amp; Fandom Replaced A Wiki Page With An Advertisement](https://kotaku.com/mcdonalds-grimace-wiki-ad-happy-meal-fandom-history-1850552640)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
