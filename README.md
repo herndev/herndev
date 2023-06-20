@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US’s largest news publisher sues Google over alleged digital ad monopoly](https://www.androidauthority.com/gannett-google-lawsuit-3337399/)
- - [The best Chrome extensions for productivity](https://www.androidauthority.com/best-chrome-extensions-for-productivity-3337362/)
- - [Best Headsets for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla hacker discovers secret ‘Elon Mode’ for hands-free Full Self-Driving](https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot)
+ - [Microsoft CEO Satya Nadella and many Xbox executives are set to defend its FTC case](https://www.theverge.com/2023/6/20/23767588/microsoft-activision-ftc-case-ceo-satya-nadella-xbox-executives)
+ - [Pollution from gas stoves can be worse than secondhand smoke](https://www.theverge.com/23767216/pollution-gas-stoves-benzene-secondhand-smoke-stanford-study)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
