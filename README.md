@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple co-founder selling 14,100-acre property to The Wildlands Conservancy](https://appleinsider.com/articles/23/06/19/apple-co-founder-selling-14100-acre-property-to-the-wildlands-conservancy?utm_medium=rss)
- - [Celebrities, including aging star athletes, are signing deals to put AI duplicates of themselves into ad campaigns, helping brands de-age them, among other uses &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230619/p18#a230619p18)
- - [T-Mobile, AT&amp;T, Verizon: Analysts Pick Who Has the Fastest Speeds at Theme Parks     - CNET](https://www.cnet.com/tech/mobile/t-mobile-at-t-verizon-analysts-pick-who-has-the-fastest-speeds-at-theme-parks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba and JD.com avoided discussing GMV figures, a key indicator of success, after the conclusion of this year&#39;s 618, China&#39;s second largest shopping festival &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/230619/p19#a230619p19)
+ - [Download the Google Pixel 7a wallpapers here](https://www.androidauthority.com/download-pixel-7a-wallpapers-3336971/)
+ - [Apple co-founder selling 14,100-acre property to The Wildlands Conservancy](https://appleinsider.com/articles/23/06/19/apple-co-founder-selling-14100-acre-property-to-the-wildlands-conservancy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
