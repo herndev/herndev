@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ announces NatSec Cyber, a new section within its National Security Division that will focus on prosecuting malicious foreign cyber activity &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230620/p32#a230620p32)
- - [Sick of Snapchat? Here are the best Snapchat alternatives](https://www.androidauthority.com/best-snapchat-alternatives-3336966/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
+ - [Apple TV+ production of &#39;Metropolis&#39; has shut down permanently amid writers&#39; strike](https://appleinsider.com/articles/23/06/20/apple-tv-production-of-metropolis-has-shut-down-permanently-amid-writers-strike?utm_medium=rss)
+ - [Twitch adds new labels for streams with mature content](https://www.theverge.com/2023/6/20/23767736/twitch-mature-content-classification-labels-streams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
