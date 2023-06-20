@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Re-Releases Game Without Its Controversial Microtransactions](https://kotaku.com/chocobo-gp-rerelease-microtransactions-square-enix-1850556352)
- - [I Wasn’t Prepared For Final Fantasy XVI’s Demo To Be So Amazing And Brutal](https://kotaku.com/final-fantasy-16-demo-prologue-early-access-ps5-1850556189)
- - [The Latest Game Pass Titles Are Mostly Hidden Gems](https://kotaku.com/xbox-game-pass-titles-june-july-2023-pc-series-x-1850556241)<!-- GAME:END -->
+ - [The Week In Games: What&#39;s Releasing Beyond RPG Bigwig Final Fantasy XVI](https://kotaku.com/june-game-releases-final-fantasy-xvi-crash-team-rumble-1850555659)
+ - [Jiosin Shrine location and walkthrough in Zelda Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702585/jiosin-shrine-solution-puzzle-chest)
+ - [Tune In to the IGN x ID@Xbox Digital Showcase on July 11](https://news.xbox.com/en-us/2023/06/20/id-xbox-ign-indie-showcase/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
