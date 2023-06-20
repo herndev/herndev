@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla hacker discovers secret ‘Elon Mode’ for hands-free Full Self-Driving](https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot)
- - [Microsoft CEO Satya Nadella and many Xbox executives are set to defend its FTC case](https://www.theverge.com/2023/6/20/23767588/microsoft-activision-ftc-case-ceo-satya-nadella-xbox-executives)
- - [Pollution from gas stoves can be worse than secondhand smoke](https://www.theverge.com/23767216/pollution-gas-stoves-benzene-secondhand-smoke-stanford-study)<!-- TECH:END -->
+ - [The US DOJ announces NatSec Cyber, a new section within its National Security Division that will focus on prosecuting malicious foreign cyber activity &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230620/p32#a230620p32)
+ - [Sick of Snapchat? Here are the best Snapchat alternatives](https://www.androidauthority.com/best-snapchat-alternatives-3336966/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
