@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Anti-Meta Fedi Pact, circulated on Mastodon, pledges to block Meta&#39;s planned ActivityPub service, a petty and insular move that will keep Mastodon small &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230620/p9#a230620p9)
- - [New patent hints at a phone with under-display rear &lpar;?&rpar; cameras](https://www.androidauthority.com/xiaomi-patent-under-display-rear-cameras-3337063/)
- - [Sources: Google initiated early conversations with Foxconn&#39;s Bharat and other Indian suppliers to make its Pixel smartphones, seeking to diversify from China &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230620/p8#a230620p8)<!-- TECH:END -->
+ - [India may export one in five iPhones worldwide by 2025](https://appleinsider.com/articles/23/06/20/india-may-export-one-in-five-iphones-worldwide-by-2025?utm_medium=rss)
+ - [I tried to replace my Nest Hub with a Pixel Tablet, and here’s how it went](https://www.androidauthority.com/google-pixel-tablet-vs-nest-hub-3336649/)
+ - [Experts warn about pedophiles using generative AI to create CSAM, leading to thousands of images on dark web forums; some question whether laws cover the images &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230620/p12#a230620p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
