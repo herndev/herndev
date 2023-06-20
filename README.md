@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The &#39;miserable experience&#39; of iFixit&#39;s new MacBook Air teardown has me yearning for the hot-swappable future of gaming laptops](https://www.pcgamer.com/the-miserable-experience-of-ifixits-new-macbook-air-teardown-has-me-yearning-for-the-hot-swappable-future-of-gaming-laptops)
  - [Intel continues its spending spree with more major fab investments](https://www.pcgamer.com/intel-continues-its-spending-spree-with-more-major-fab-investments)
- - [Can Sunkern be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758380/can-sunkern-be-shiny-sunflora)
- - [Today&#39;s Wordle hint and answer #731: Tuesday, June 20](https://www.pcgamer.com/wordle-answer-today-hint-731-june-20)<!-- GAME:END -->
+ - [Can Sunkern be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758380/can-sunkern-be-shiny-sunflora)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
