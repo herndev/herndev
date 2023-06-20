@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats signs up A-Cold-Wall&#39;s Samuel Ross for new design role](https://appleinsider.com/articles/23/06/20/beats-signs-up-a-cold-walls-samuel-ross-for-new-design-role?utm_medium=rss)
- - [Spotify’s long-anticipated HiFi tier might require a more expensive subscription](https://www.theverge.com/2023/6/20/22746337/spotify-hifi-lossless-new-premium-tier-supremium)
- - [Aviva, Fidelity, and other big institutional investors are increasingly pressuring tech companies to prevent AI misuse, concerned about potential liability &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/230620/p17#a230620p17)<!-- TECH:END -->
+ - [a16z, Sequoia, and others are increasing investments in defense tech startups; PitchBook says US VCs invested $33B in the sector in 2022, up from $16B in 2019 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230620/p20#a230620p20)
+ - [The global cybersecurity market grew 12.5% YoY to $18.6B in Q1 2023, despite tighter budgets; Palo Alto Networks had an 8.7% share, Fortinet 7%, and Cisco 6.1% &lpar;Canalys&rpar;](http://www.techmeme.com/230620/p19#a230620p19)
+ - [Alibaba&#39;s shakeup, including adding company veteran Joe Tsai, highlights its conundrum over splitting into six units and pursuing profit or growth ahead of IPOs &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230620/p18#a230620p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
