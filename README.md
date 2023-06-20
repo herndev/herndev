@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 💣 [Too soon?](http://9gag.com/gag/avQd26b)
  - ⏩ [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 👉 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 ---
 
