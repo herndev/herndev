@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Midjourney Magazine&#39; Is Here—and It’s Soulless](https://www.wired.com/story/midjourney-magazine-review/)
- - [USA Today publisher Gannett sues Google over an alleged ad tech monopoly, echoing the DOJ&#39;s arguments and saying audiences have grown but ad spending is down &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230620/p22#a230620p22)
- - [Daily deals: M2 Mac mini $499, 10.2&quot; iPad $230, up to 70% off Amazon devices, more](https://appleinsider.com/articles/23/06/20/daily-deals-m2-mac-mini-499-102-ipad-230-up-to-70-off-amazon-devices-more?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad and Peak Design’s new rugged iPhone 14 case offers both style and substance](https://www.theverge.com/2023/6/20/23766804/nomad-peak-design-rugged-iphone-14-case-mount-limited-edition-price-release)
+ - [Google Chrome on iOS will let you search with just your camera soon](https://www.theverge.com/2023/6/20/23766791/google-chrome-ios-search-camera-lens-feature)
+ - [How to preorder the Google Pixel Fold](https://www.theverge.com/23683849/google-pixel-fold-7a-preorder-price-how-to-buy-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
