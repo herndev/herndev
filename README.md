@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - ⏩ [Ratio as the saying goes](http://9gag.com/gag/aA0XWL2)
- - 👉 [Ok fb isn&#39;t a meme and it&#39;s crap but damn this response was just too good i needed to share it with you guys](http://9gag.com/gag/a3ZWVZe)<!-- MEMES:END -->
+ - 💣 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
+ - ⏩ [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
+ - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
 
