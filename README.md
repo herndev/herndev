@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman caught carrying two weapons.](http://9gag.com/gag/aA0X99Z)
- - ⏩ [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
- - 👉 [What is dis?](http://9gag.com/gag/a3ZW6ne)<!-- MEMES:END -->
+ - 💣 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
+ - ⏩ [There\u2019s never the right time or place for this.](http://9gag.com/gag/aPgXb1K)
+ - 👉 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)<!-- MEMES:END -->
 
 ---
 
