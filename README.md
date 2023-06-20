@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
- - ⏩ [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - 👉 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
+ - 💣 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - ⏩ [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 👉 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 ---
 
