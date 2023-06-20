@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 👉 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)<!-- MEMES:END -->
+ - 💣 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - ⏩ [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 ---
 
