@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - ⏩ [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
- - 👉 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)<!-- MEMES:END -->
+ - 💣 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
+ - ⏩ [It did not go as planned](http://9gag.com/gag/aeQ2oQq)
+ - 👉 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
 
 ---
 
