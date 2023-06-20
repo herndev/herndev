@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;miserable experience&#39; of iFixit&#39;s new MacBook Air teardown has me yearning for the hot-swappable future of gaming laptops](https://www.pcgamer.com/the-miserable-experience-of-ifixits-new-macbook-air-teardown-has-me-yearning-for-the-hot-swappable-future-of-gaming-laptops)
- - [Intel continues its spending spree with more major fab investments](https://www.pcgamer.com/intel-continues-its-spending-spree-with-more-major-fab-investments)
- - [Can Sunkern be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758380/can-sunkern-be-shiny-sunflora)<!-- GAME:END -->
+ - [Chinese businesses and universities turn to back alley GPU dealers to power AI](https://www.pcgamer.com/chinese-businesses-and-universities-turn-to-back-alley-gpu-dealers-to-power-ai)
+ - [Amouranth gives Twitch the boot as Kick steals second streaming star in under 2 days](https://www.pcgamer.com/amouranth-gives-twitch-the-boot-as-kick-steals-second-streaming-star-in-under-2-days)
+ - [Lies of P has a comeback mechanic, and now I want it in every soulslike](https://www.pcgamer.com/lies-of-p-has-a-comeback-mechanic-and-now-i-want-it-in-every-soulslike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
