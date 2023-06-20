@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - ⏩ [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - ⏩ [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
 
