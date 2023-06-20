@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: FTX paid $121.8M in legal, consulting, and financial services fees between February 1 and April 30, as some former clients push to reboot the exchange &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230619/p20#a230619p20)
- - [Alibaba and JD.com didn&#39;t share GMV figures for 618, China&#39;s second largest shopping festival, in 2023; the companies previously used GMV to trumpet their wins &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/230619/p19#a230619p19)
- - [Download the Google Pixel 7a wallpapers here](https://www.androidauthority.com/download-pixel-7a-wallpapers-3336971/)<!-- TECH:END -->
+ - [Garmin Forerunner 955 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-955-vs-965-3336994/)
+ - [Alibaba announces Eddie Wu to succeed Daniel Zhang as CEO and names Executive Vice Chairman Joseph Tsai as Chairman; Zhang will continue as Alibaba Cloud CEO &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230620/p1#a230620p1)
+ - [Save up to $1,700 on MacBook Pros during B&amp;H&#39;s Apple Mega Deal Zone event](https://appleinsider.com/articles/23/06/20/save-up-to-1700-on-macbook-pros-during-bhs-apple-mega-deal-zone-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
