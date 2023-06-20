@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spot where YouTube TV gives break from ads now getting ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-tv-ads-zen-3336659/)
- - [Roblox will allow exclusive experiences for people 17 and over](https://www.theverge.com/2023/6/20/23767154/roblox-adult-themes-graphic-content-age-limit-17-experiences)
- - [This highly-rated Corsair keyboard has never been cheaper](https://www.androidauthority.com/corsair-k55-rgb-pro-xt-keyboard-deal-3337367/)<!-- TECH:END -->
+ - [Toronto-based Rose Rocket, which sells SaaS tools for trucking companies, raised a $38M Series B led by Scale Venture Partners, taking its total funding to $69M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230620/p28#a230620p28)
+ - [How to Find the Titanic Sub Before It’s Too Late](https://www.wired.com/story/find-missing-titanic-sub/)
+ - [Spotify updates Mac app with Your Library, Now Playing changes](https://appleinsider.com/articles/23/06/20/spotify-updates-mac-app-with-your-library-now-playing-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
