@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
- - ⏩ [It did not go as planned](http://9gag.com/gag/aeQ2oQq)
- - 👉 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
+ - 💣 [Crazy in the head, fire in the bed](http://9gag.com/gag/a1PL9qD)
+ - ⏩ [1930s day](http://9gag.com/gag/a8qwBw3)
+ - 👉 [Dreams](http://9gag.com/gag/aGE2Wyz)<!-- MEMES:END -->
 
 ---
 
