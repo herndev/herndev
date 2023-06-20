@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy in the head, fire in the bed](http://9gag.com/gag/a1PL9qD)
- - ⏩ [1930s day](http://9gag.com/gag/a8qwBw3)
- - 👉 [Dreams](http://9gag.com/gag/aGE2Wyz)<!-- MEMES:END -->
+ - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
+ - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 👉 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 ---
 
