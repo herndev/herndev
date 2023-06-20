@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - ⏩ [Animals...rot in hell](http://9gag.com/gag/aGE2WeZ)
- - 👉 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
+ - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - ⏩ [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 👉 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)<!-- MEMES:END -->
 
 ---
 
