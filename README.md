@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Voe and You’ classroom solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23747133/voe-and-you-totk-class-solution-gerudo-town)
- - [Fortnite Twitch Streamer Hits Max Rank By Just Hiding](https://kotaku.com/fortnite-ranked-unreal-bushcampdad-streamer-twitch-1850555939)
- - [Amouranth Follows xQc’s Lead And Leaves Twitch](https://kotaku.com/kick-amouranth-contract-xqc-twitch-income-twitter-1850555804)<!-- GAME:END -->
+ - [Square Enix Re-Releases Game Without Its Controversial Microtransactions](https://kotaku.com/chocobo-gp-rerelease-microtransactions-square-enix-1850556352)
+ - [I Wasn’t Prepared For Final Fantasy XVI’s Demo To Be So Amazing And Brutal](https://kotaku.com/final-fantasy-16-demo-prologue-early-access-ps5-1850556189)
+ - [The Latest Game Pass Titles Are Mostly Hidden Gems](https://kotaku.com/xbox-game-pass-titles-june-july-2023-pc-series-x-1850556241)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
