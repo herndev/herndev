@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [McDonalds &amp; Fandom Replaced A Wiki Page With An Advertisement](https://kotaku.com/mcdonalds-grimace-wiki-ad-happy-meal-fandom-history-1850552640)
  - [Steam&#39;s next Steam Next Fest is now live on Steam](https://www.pcgamer.com/steam-next-fest-june-2023)
- - [7 Essential Demos Featured In Steam&#39;s Next Fest](https://kotaku.com/next-fest-demo-pc-steam-valve-free-the-invincible-1850554468)
- - [Millions of perfectly fine HDDs are shredded each year because of &#39;zero risk&#39; security policies. Spoiler alert: There&#39;s still a risk of stolen data from just a 3mm scrap](https://www.pcgamer.com/millions-of-perfectly-fine-hdds-are-shredded-each-year-because-of-zero-risk-security-policies-spoiler-alert-theres-still-a-risk-of-stolen-data-from-just-a-3mm-scrap)<!-- GAME:END -->
+ - [7 Essential Demos Featured In Steam&#39;s Next Fest](https://kotaku.com/next-fest-demo-pc-steam-valve-free-the-invincible-1850554468)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
