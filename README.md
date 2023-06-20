@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: What&#39;s Releasing Beyond RPG Bigwig Final Fantasy XVI](https://kotaku.com/june-game-releases-final-fantasy-xvi-crash-team-rumble-1850555659)
- - [Jiosin Shrine location and walkthrough in Zelda Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702585/jiosin-shrine-solution-puzzle-chest)
- - [Tune In to the IGN x ID@Xbox Digital Showcase on July 11](https://news.xbox.com/en-us/2023/06/20/id-xbox-ign-indie-showcase/)<!-- GAME:END -->
+ - [Discover Necrom and the Forbidden Secrets of Apocrypha Today on Xbox and PC](https://news.xbox.com/en-us/2023/06/20/discover-the-elder-scrolls-online-necrom-and-the-forbidden-secrets-of-apocrypha-today-on-xbox-and-pc/)
+ - [13 game demos to try before Steam Next Fest ends](https://www.polygon.com/gaming/23766905/steam-next-fest-june-2023-best-game-demos)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
