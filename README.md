@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - ⏩ [There\u2019s never the right time or place for this.](http://9gag.com/gag/aPgXb1K)
- - 👉 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aNwRN9r)
+ - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 👉 [Men be like...](http://9gag.com/gag/ajVKby1)<!-- MEMES:END -->
 
 ---
 
