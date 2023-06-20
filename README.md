@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: EU antitrust regulators plan to launch a detailed investigation into Adobe&#39;s acquisition of Figma later this year, which may derail the deal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230620/p2#a230620p2)
  - [Garmin Forerunner 955 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-955-vs-965-3336994/)
- - [Alibaba announces Eddie Wu to succeed Daniel Zhang as CEO and names Executive Vice Chairman Joseph Tsai as Chairman; Zhang will continue as Alibaba Cloud CEO &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230620/p1#a230620p1)
- - [Save up to $1,700 on MacBook Pros during B&amp;H&#39;s Apple Mega Deal Zone event](https://appleinsider.com/articles/23/06/20/save-up-to-1700-on-macbook-pros-during-bhs-apple-mega-deal-zone-event?utm_medium=rss)<!-- TECH:END -->
+ - [Alibaba announces Eddie Wu to succeed Daniel Zhang as CEO and names Executive Vice Chairman Joseph Tsai as Chairman; Zhang will continue as Alibaba Cloud CEO &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230620/p1#a230620p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
