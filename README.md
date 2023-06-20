@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter CEO Linda Yaccarino will be at the Code Conference](https://www.theverge.com/2023/6/20/23767165/twitter-ceo-linda-yaccarino-code-conference)
- - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
- - [The Samsung Galaxy Buds 2 are on clearance sale at 40% off](https://www.androidauthority.com/samsung-galaxy-buds-2-deal-3337326/)<!-- TECH:END -->
+ - [Spot where YouTube TV gives break from ads now getting ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-tv-ads-zen-3336659/)
+ - [Roblox will allow exclusive experiences for people 17 and over](https://www.theverge.com/2023/6/20/23767154/roblox-adult-themes-graphic-content-age-limit-17-experiences)
+ - [This highly-rated Corsair keyboard has never been cheaper](https://www.androidauthority.com/corsair-k55-rgb-pro-xt-keyboard-deal-3337367/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
