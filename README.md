@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover Necrom and the Forbidden Secrets of Apocrypha Today on Xbox and PC](https://news.xbox.com/en-us/2023/06/20/discover-the-elder-scrolls-online-necrom-and-the-forbidden-secrets-of-apocrypha-today-on-xbox-and-pc/)
- - [13 game demos to try before Steam Next Fest ends](https://www.polygon.com/gaming/23766905/steam-next-fest-june-2023-best-game-demos)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [Bungie just got the most important cutscene in its 9-year history](https://www.polygon.com/23767367/veil-traveler-gardener-winnower-witness-explained-cutscene-destiny-2)
+ - [Valve Is Ditching Battle Passes Since Most Players ‘Never Buy’ One](https://kotaku.com/dota-2-csgo-moba-pc-gaming-battle-pass-frontiers-valve-1850556830)
+ - [Discover Necrom and the Forbidden Secrets of Apocrypha Today on Xbox](https://news.xbox.com/en-us/2023/06/20/discover-the-elder-scrolls-online-necrom-and-the-forbidden-secrets-of-apocrypha-today-on-xbox-and-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
