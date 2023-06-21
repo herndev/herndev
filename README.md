@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gay Pride Parade in Turkey lasted 5 minutes before everybody was arrested.](http://9gag.com/gag/aeQ7jYO)
- - ⏩ [Too soon?](http://9gag.com/gag/avQd26b)
- - 👉 [Hehe](http://9gag.com/gag/a6qjwvb)<!-- MEMES:END -->
+ - 💣 [Stealth](http://9gag.com/gag/aZDzPG6)
+ - ⏩ [Oh well](http://9gag.com/gag/aEqOwNO)
+ - 👉 [Macron was accused of toxic masculinity after drinking a beer in 17 seconds. Idiocracy here we come](http://9gag.com/gag/aBdOKGz)<!-- MEMES:END -->
 
 ---
 
