@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the new feaures in iOS 17 CarPlay: offline maps, SharePlay, more](https://appleinsider.com/articles/23/06/21/all-the-new-feaures-in-ios-17-carplay-offline-maps-shareplay-more?utm_medium=rss)
- - [Easily replaceable phone batteries might be back, and I’m here for it](https://www.theverge.com/2023/6/21/23767057/replaceable-batteries-phones-eu)
- - [Figma’s design tools are now free on Chromebooks for all US school students](https://www.theverge.com/2023/6/21/23768547/figma-google-chromebook-education-program-student-schools)<!-- TECH:END -->
+ - [Apple still has a lot of secret apps for Vision Pro in the works](https://appleinsider.com/articles/23/06/21/apple-still-has-a-lot-of-secret-apps-for-vision-pro-in-the-works?utm_medium=rss)
+ - [Microsoft increases the prices of Xbox Series X and, for the first time, Xbox Game Pass in most markets; Xbox Series X pricing will remain the same in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230621/p36#a230621p36)
+ - [An AT&amp;T-backed cellular satellite company sent a 4G LTE signal from space](https://www.theverge.com/2023/6/21/23768495/att-ast-spacemobile-space-based-satellite-cellular-signal-lte-5g)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
