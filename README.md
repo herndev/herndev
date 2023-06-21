@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cable and Satellite TV Providers May Have to Show You Their Hidden Fees Up Front     - CNET](https://www.cnet.com/tech/cable-and-satellite-tv-providers-may-have-to-show-you-their-hidden-fees-up-front/#ftag=CAD590a51e)
- - [Letter: Grab CEO tells staff the company plans to cut 1,000 jobs, or 11% of its workforce, citing the need to manage costs and ensure more affordable services &lpar;Xinghui Kok/Reuters&rpar;](http://www.techmeme.com/230620/p35#a230620p35)
- - [Apple IDs now support passkeys — if you’re on the iOS 17 or macOS Sonoma betas](https://www.theverge.com/2023/6/20/23767583/apple-iphone-ios-17-beta-passkey)<!-- TECH:END -->
+ - [Reddit suspended some moderators after they changed their subreddits to NSFW; Reddit says it&#39;s a violation of its policy to incorrectly mark subreddits as NSFW &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230620/p37#a230620p37)
+ - [Reddit blackout protest updates: all the news about the changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
+ - [Reddit starts removing moderators behind the latest protests](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
