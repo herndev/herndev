@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s R2 electric SUV will cost between $40,000 and $60,000](https://www.theverge.com/2023/6/21/23768288/rivian-r2-electric-suv-price-range-reveal)
- - [Second developer beta for macOS Sonoma is now available](https://appleinsider.com/articles/23/06/21/apple-issues-second-developer-beta-for-macos-sonoma?utm_medium=rss)
- - [Apple releases visionOS SDK, and says the company will open developer labs and applications for Apple Vision Pro developer kits next month &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230621/p38#a230621p38)<!-- TECH:END -->
+ - [Apple patches three zero-days in its operating systems, including Operation Triangulation iMessage exploit described by Kaspersky earlier in June &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230621/p39#a230621p39)
+ - [Spotify’s podcast plan is going off the rails](https://www.theverge.com/23768886/spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah)
+ - [Best Smart Speakers for 2023: We Tested Alexa, Google, Apple and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
