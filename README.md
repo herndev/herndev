@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - ⏩ [I need someone to verify this.](http://9gag.com/gag/aoKYErA)
+ - 💣 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
+ - ⏩ [And everybody wins.](http://9gag.com/gag/aQEO6z7)
  - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
