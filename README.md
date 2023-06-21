@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA&#39;s Heretic-like magic FPS Immortals of Aveum is delayed](https://www.pcgamer.com/eas-heretic-like-magic-fps-immortals-of-aveum-is-delayed)
  - [Reddit Is Removing Mods Over NSFW Protests](https://kotaku.com/reddit-mods-steve-huffman-protest-nsfw-blackout-api-ios-1850558712)
- - [Guy Dislocates Shoulder Celebrating On The Price Is Right](https://kotaku.com/price-is-right-dislocate-shoulder-injury-hawaii-win-tv-1850558602)
- - [YouTuber picks up where he left off with RPG he started making almost 40 years ago on a Commodore 64](https://www.pcgamer.com/youtuber-picks-up-where-he-left-off-with-rpg-he-started-making-almost-40-years-ago-on-a-commodore-64)<!-- GAME:END -->
+ - [Guy Dislocates Shoulder Celebrating On The Price Is Right](https://kotaku.com/price-is-right-dislocate-shoulder-injury-hawaii-win-tv-1850558602)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
