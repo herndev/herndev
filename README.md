@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
+ - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
  - ⏩ [Imagine steeping in and immediately getting judged head to toe by mediocre women.](http://9gag.com/gag/ap9AyOM)
- - 👉 [What is dis?](http://9gag.com/gag/a3ZW6ne)<!-- MEMES:END -->
+ - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
 
