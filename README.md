@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Alibaba&#39;s next Chairman Joseph Tsai, a longterm Jack Ma ally who has become a prominent blockchain investor since co-founding the ecommerce company &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230621/p8#a230621p8)
- - [Samsung’s clever Galaxy Enhance-X app is now available for a ton of phones](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-wide-launch-3337584/)
- - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)<!-- TECH:END -->
+ - [Chromebook X leaks: Google’s new badge of excellence for laptops](https://www.androidauthority.com/google-chromebook-x-program-3337595/)
+ - [Amazon plans to hold Prime Day on July 11 and July 12 and introduce an invite-only Prime Days deals program; an Indian version will be held &quot;later this summer&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230621/p10#a230621p10)
+ - [A look at the recent debates in the AI industry over existential risks, as what were once considered extreme views have now become mainstream talking points &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230621/p9#a230621p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
