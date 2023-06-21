@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Math just got important](http://9gag.com/gag/az2Zn8N)
- - ⏩ [Try steal without get caught](http://9gag.com/gag/agoE3mq)
- - 👉 [Too soon?](http://9gag.com/gag/avQd26b)<!-- MEMES:END -->
+ - 💣 [U.S. Moment](http://9gag.com/gag/agoE30n)
+ - ⏩ [Too soon?](http://9gag.com/gag/avQd26b)
+ - 👉 [Yo guys what are your honest thoughts about one piece live action?](http://9gag.com/gag/a2KbQ4p)<!-- MEMES:END -->
 
 ---
 
