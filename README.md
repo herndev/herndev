@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quotient Technology, parent of Coupons.com and other digital marketing platforms, agrees to merge with retail marketing firm Neptune in a $430M all-cash deal &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230620/p39#a230620p39)
- - [How to fix the cloud sync error on the Steam Deck?](https://www.androidauthority.com/cloud-sync-error-steam-deck-fix-3337466/)
- - [Spotify updates its desktop app with redesigned &quot;Your Library&quot; and &quot;Now Playing&quot; user interfaces, meant to align the experience with the company&#39;s mobile app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230620/p38#a230620p38)<!-- TECH:END -->
+ - [Reddit removed moderators behind the latest protests before restoring a few of them](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)
+ - [ElevenLabs, whose AI tech can turn text into speech using synthetic or cloned voices, raised a $19M Series A, a source says at a $99M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230620/p40#a230620p40)
+ - [Quotient Technology, parent of Coupons.com and other digital marketing platforms, agrees to merge with retail marketing firm Neptune in a $430M all-cash deal &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230620/p39#a230620p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
