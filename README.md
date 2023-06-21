@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Flash’s Supergirl is a perfect fit for a dying DC cinematic universe](https://www.polygon.com/23767527/the-flash-supergirl-perfect-zack-snyderverse-superhero)
- - [Discover how Japanese culture inspired the upcoming party-brawler PixelJunk Scrappers Deluxe](https://blog.playstation.com/2023/06/21/discover-how-japanese-culture-inspired-the-upcoming-party-brawler-pixeljunk-scrappers-deluxe/)
- - [Jedi: Survivor update fixes bounty hunters neglecting to kill you, but this is not the performance patch you&#39;re looking for](https://www.pcgamer.com/jedi-survivor-update-fixes-bounty-hunters-neglecting-to-kill-you-but-this-is-not-the-performance-patch-youre-looking-for)<!-- GAME:END -->
+ - [Intel-made Arc A770 graphics cards are officially toast](https://www.pcgamer.com/intel-made-arc-a770-graphics-cards-are-officially-toast)
+ - [Tears Of The Kingdom: Best Way To Farm For The Rare Diamonds You Need](https://kotaku.com/tears-of-the-kingdom-totk-how-to-find-diamonds-sensor-1850559556)
+ - [Diablo 4&#39;s best player says loot filters &#39;need to happen, and soon&#39; because &#39;the amount of trash loot at high levels is daunting&#39;](https://www.pcgamer.com/diablo-4s-best-player-says-loot-filters-need-to-happen-and-soon-because-the-amount-of-trash-loot-at-high-levels-is-daunting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
