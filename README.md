@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #732: Wednesday, June 21](https://www.pcgamer.com/wordle-answer-today-hint-732-june-21)
  - [Amazon Prime Day 2023 will begin on July 11](https://www.polygon.com/deals/23699267/amazon-prime-day-2023-start-end-date)
- - [Yes, Secret Invasion’s opening credits scene is AI-made. Here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)
- - [Nvidia&#39;s ultra expensive H100 Hopper GPU gets tested in games](https://www.pcgamer.com/nvidias-ultra-expensive-h100-hopper-gpu-gets-tested-in-games)<!-- GAME:END -->
+ - [Yes, Secret Invasion’s opening credits scene is AI-made. Here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
