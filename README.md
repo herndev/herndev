@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - ⏩ [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)
- - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 💣 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
+ - ⏩ [Man goes full primal to protect woman](http://9gag.com/gag/aKEOwVj)
+ - 👉 [Gay Pride Parade in Turkey lasted 5 minutes before everybody was arrested.](http://9gag.com/gag/aeQ7jYO)<!-- MEMES:END -->
 
 ---
 
