@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 is finally getting the horse expansion fans have been pleading for](https://www.pcgamer.com/sims-4-horse-expansion-teaser)
- - [You have to start a fresh Diablo 4 character for each battle pass](https://www.pcgamer.com/diablo-4-new-characters-battle-pass)
- - [Popular Fortnite streamer Tfue takes Twitch hiatus, citing exhausting grind](https://www.polygon.com/23767747/twitch-streamer-tfue-fortnite-break-retire)<!-- GAME:END -->
+ - [A breakthrough in the hunt for Diablo 4&#39;s cow level has players racing to perform a secret cleansing ritual for the Oxen Gods](https://www.pcgamer.com/a-breakthrough-in-the-hunt-for-diablo-4s-cow-level-has-players-racing-to-perform-a-secret-cleansing-ritual-for-the-oxen-gods)
+ - [Fortnite’s New Nike Characters Are Made Out Of…Hmm](https://kotaku.com/nike-fortnite-update-new-characters-crossover-event-1850558259)
+ - [The Sims 4 is finally getting the horse expansion players have been demanding for years](https://www.pcgamer.com/sims-4-horse-expansion-teaser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
