@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare Apple Earthquake Survival Kit contains timeless safety advice](https://appleinsider.com/articles/23/06/21/rare-apple-earthquake-survival-kit-contains-timeless-safety-advice?utm_medium=rss)
- - [WarioWare’s latest gimmick is making you move your body](https://www.theverge.com/2023/6/21/23768435/warioware-move-it-nintendo-switch-trailer)
- - [Q&amp;A with Jason Del Rey, author of Winner Sells All, on how Walmart plays catch up to Amazon, Walmart CEO Doug McMillon&#39;s tenure, Amazon&#39;s missteps, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230621/p29#a230621p29)<!-- TECH:END -->
+ - [Detective Pikachu... Returns!](https://www.theverge.com/23768385/detective-pikachu-returns-trailer-nintendo-switch)
+ - [FTC sues Amazon, alleging users are being tricked into signing up for Prime](https://appleinsider.com/articles/23/06/21/ftc-sues-amazon-alleging-users-are-being-tricked-into-signing-up-for-prime?utm_medium=rss)
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
