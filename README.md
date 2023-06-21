@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: LexisNexis&#39; $16.8M contract with ICE includes software that purports to detect suspicious activity of migrants by using license plate reader data &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230620/p41#a230620p41)
- - [Discord plans to let creators sell downloadable products](https://www.theverge.com/2023/6/20/23767809/discord-downloadable-digital-products-sever-shop)
- - [Reddit removed moderators behind the latest protests before restoring a few of them](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)<!-- TECH:END -->
+ - [The best screen protectors for the Apple Watch Ultra](https://www.androidauthority.com/best-apple-watch-ultra-screen-protectors-3337540/)
+ - [A look at the vagueness and implications of the EU&#39;s plan to require portable batteries, including those in smartphones, be &quot;readily removable and replaceable&quot; &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230621/p1#a230621p1)
+ - [Document: LexisNexis&#39; $16.8M contract with ICE includes software that purports to detect suspicious activity of migrants by using license plate reader data &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230620/p41#a230620p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
