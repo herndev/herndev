@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant is developing an LLM for ChatGPT-style services under a project called &quot;Zhen Yi&quot;, which is being created by a dedicated unit using in-house research &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230621/p4#a230621p4)
- - [In a reorganization, EA is splitting EA Games and EA Sports, with the former being renamed as EA Entertainment, hinting at EA&#39;s possible expansion beyond games &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/230621/p3#a230621p3)
- - [Amazon Prime Day 2023 will take place on July 11th and 12th](https://www.theverge.com/2023/6/21/23743023/amazon-prime-day-dates-july-2023-sale)<!-- TECH:END -->
+ - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)
+ - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)
+ - [KoBold Metals, which uses AI and ML to identify deposits of cobalt, copper, nickel, and lithium, raised ~$200M led by T. Rowe Price at a $1B+ valuation &lpar;Julie Steinberg/Wall Street Journal&rpar;](http://www.techmeme.com/230621/p6#a230621p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
