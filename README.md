@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
- - ⏩ [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 💣 [It gets better](http://9gag.com/gag/aNwOZYA)
+ - ⏩ [So basically, it\u2019s a $250,000 coffin ride](http://9gag.com/gag/awZYbjD)
+ - 👉 [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)<!-- MEMES:END -->
 
 ---
 
