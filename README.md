@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple patches three zero-days in its operating systems, including Operation Triangulation iMessage exploit described by Kaspersky earlier in June &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230621/p39#a230621p39)
- - [Spotify’s podcast plan is going off the rails](https://www.theverge.com/23768886/spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah)
- - [Best Smart Speakers for 2023: We Tested Alexa, Google, Apple and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GPT-5: Release date, rumors, and features we expect from ChatGPT 5](https://www.androidauthority.com/gpt-5-chatgpt-release-date-rumors-features-3337892/)
+ - [iPad apps need more than a checkbox to run on Apple Vision Pro](https://appleinsider.com/articles/23/06/21/ipad-apps-need-more-than-a-checkbox-to-run-on-apple-vision-pro?utm_medium=rss)
+ - [A first-of-its-kind climate trial just ended — will it work?](https://www.theverge.com/2023/6/21/23768437/landmark-climate-lawsuit-held-v-montana-trial-whats-next)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
