@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
- - ⏩ [Man goes full primal to protect woman](http://9gag.com/gag/aKEOwVj)
- - 👉 [Gay Pride Parade in Turkey lasted 5 minutes before everybody was arrested.](http://9gag.com/gag/aeQ7jYO)<!-- MEMES:END -->
+ - 💣 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
+ - ⏩ [My gorilla hands wouldn&#39;t even fit in that hole](http://9gag.com/gag/az2Yb6B)
+ - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 ---
 
