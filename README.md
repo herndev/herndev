@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 demos from Steam Next Fest that you need to play right now](https://www.pcgamer.com/steam-next-fest-june-2023-best-demos)
- - [Here&#39;s where the Microsoft-Activision deal stands around the world](https://www.pcgamer.com/microsoft-activision-deal-map)
- - [I replayed Duke Nukem Forever 12 years later and, yeah, I&#39;ve got opinions](https://www.pcgamer.com/i-replayed-duke-nukem-forever-12-years-later-and-yeah-ive-got-opinions)<!-- GAME:END -->
+ - [The Flash’s Supergirl is a perfect fit for a dying DC cinematic universe](https://www.polygon.com/23767527/the-flash-supergirl-perfect-zack-snyderverse-superhero)
+ - [Discover how Japanese culture inspired the upcoming party-brawler PixelJunk Scrappers Deluxe](https://blog.playstation.com/2023/06/21/discover-how-japanese-culture-inspired-the-upcoming-party-brawler-pixeljunk-scrappers-deluxe/)
+ - [Jedi: Survivor update fixes bounty hunters neglecting to kill you, but this is not the performance patch you&#39;re looking for](https://www.pcgamer.com/jedi-survivor-update-fixes-bounty-hunters-neglecting-to-kill-you-but-this-is-not-the-performance-patch-youre-looking-for)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
