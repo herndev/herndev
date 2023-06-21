@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Otter’s AI-powered chatbot can answer questions about your meetings](https://www.theverge.com/2023/6/21/23768176/otter-chat-ai-chatbot-transcription-meeting-assistant-launch)
- - [Lunar Energy’s home battery system is designed to make solar easier to use](https://www.theverge.com/2023/6/21/23767691/lunar-energy-system-home-battery-backup-off-grid-solar)<!-- TECH:END -->
+ - [Apple&#39;s iPad 9th Generation drops to $249.99 in early Amazon Prime Day sale](https://appleinsider.com/articles/23/06/21/apples-ipad-9th-generation-drops-to-24999-in-early-amazon-prime-day-sale?utm_medium=rss)
+ - [Xcode&#39;s power keeps Mac relevant for Apple, despite iPhone dominance](https://appleinsider.com/articles/23/06/21/xcodes-power-keeps-mac-relevant-for-apple-despite-iphone-dominance?utm_medium=rss)
+ - [Apple still has a lot of secret apps for Vision Pro in the works](https://appleinsider.com/articles/23/06/21/apple-still-has-a-lot-of-secret-apps-for-vision-pro-in-the-works?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
