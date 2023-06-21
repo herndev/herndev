@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebook X leaks: Google’s new badge of excellence for laptops](https://www.androidauthority.com/google-chromebook-x-program-3337595/)
- - [Amazon plans to hold Prime Day on July 11 and July 12 and introduce an invite-only Prime Days deals program; an Indian version will be held &quot;later this summer&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230621/p10#a230621p10)
- - [A look at the recent debates in the AI industry over existential risks, as what were once considered extreme views have now become mainstream talking points &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230621/p9#a230621p9)<!-- TECH:END -->
+ - [Instagram now lets US users download Reels posted by public accounts for sharing outside the app, a feature TikTok has had for years &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230621/p14#a230621p14)
+ - [Discord plans to let creators sell &quot;Downloadables&quot;, digital products available via one-time purchases, and rolls out Media Channels in beta &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230621/p13#a230621p13)
+ - [TikTok tests &quot;Trendy Beat&quot;, a section selling popular items from videos, in the UK; filings and sources say the products are sold by a ByteDance-owned entity &lpar;Financial Times&rpar;](http://www.techmeme.com/230621/p12#a230621p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
