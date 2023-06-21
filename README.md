@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
- - ⏩ [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)
- - 👉 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
+ - 💣 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
+ - ⏩ [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 👉 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)<!-- MEMES:END -->
 
 ---
 
