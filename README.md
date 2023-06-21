@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)
- - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)
- - [KoBold Metals, which uses AI and ML to identify deposits of cobalt, copper, nickel, and lithium, raised ~$200M led by T. Rowe Price at a $1B+ valuation &lpar;Julie Steinberg/Wall Street Journal&rpar;](http://www.techmeme.com/230621/p6#a230621p6)<!-- TECH:END -->
+ - [A profile of Alibaba&#39;s next Chairman Joseph Tsai, a longterm Jack Ma ally who has become a prominent blockchain investor since co-founding the ecommerce company &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230621/p8#a230621p8)
+ - [Samsung’s clever Galaxy Enhance-X app is now available for a ton of phones](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-wide-launch-3337584/)
+ - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
