@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
- - ⏩ [Imagine steeping in and immediately getting judged head to toe by mediocre women.](http://9gag.com/gag/ap9AyOM)
- - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 💣 [Streets of Hollywood. What&#39;s happening to America?](http://9gag.com/gag/aBdO9PA)
+ - ⏩ [Too soon?](http://9gag.com/gag/avQd26b)
+ - 👉 [Coins](http://9gag.com/gag/ay2Y7vp)<!-- MEMES:END -->
 
 ---
 
