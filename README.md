@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [16 demos from Steam Next Fest that you need to play right now](https://www.pcgamer.com/steam-next-fest-june-2023-best-demos)
  - [Here&#39;s where the Microsoft-Activision deal stands around the world](https://www.pcgamer.com/microsoft-activision-deal-map)
- - [I replayed Duke Nukem Forever 12 years later and, yeah, I&#39;ve got opinions](https://www.pcgamer.com/i-replayed-duke-nukem-forever-12-years-later-and-yeah-ive-got-opinions)
- - [Microsoft plots dumbed down folder options in Windows 11 Explorer](https://www.pcgamer.com/microsoft-plots-dumbed-down-folder-options-in-windows-11-explorer)<!-- GAME:END -->
+ - [I replayed Duke Nukem Forever 12 years later and, yeah, I&#39;ve got opinions](https://www.pcgamer.com/i-replayed-duke-nukem-forever-12-years-later-and-yeah-ive-got-opinions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
