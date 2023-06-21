@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bernie Sanders opens a Senate investigation into Amazon&#39;s warehouse safety practices and writes to Andy Jassy over &quot;egregious health and safety violations&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230621/p17#a230621p17)
- - [Apple World Trade Center anti-union practices ruled illegal by Labor Board](https://appleinsider.com/articles/23/06/21/apple-world-trade-center-anti-union-practices-ruled-illegal-by-labor-board?utm_medium=rss)
- - [The best Apple headphones for gaming](https://appleinsider.com/inside/apple-headphones/best/the-best-apple-headphones-for-gaming?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the vast and mostly hidden &quot;tasker&quot; underclass, including subject-matter experts, hired by companies like Scale AI to annotate data for AI training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/230621/p23#a230621p23)
+ - [In his new book The Coming Wave, DeepMind co-founder Mustafa Suleyman proposes a &quot;modern Turing test&quot; for AI, seeking to find &quot;artificial capable intelligence&quot; &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230621/p22#a230621p22)
+ - [Beats Studio Pro release could happen very soon](https://appleinsider.com/articles/23/06/20/beats-studio-pro-release-could-happen-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
