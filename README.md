@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit suspended some moderators after they changed their subreddits to NSFW; Reddit says it&#39;s a violation of its policy to incorrectly mark subreddits as NSFW &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230620/p37#a230620p37)
- - [Reddit blackout protest updates: all the news about the changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [Reddit starts removing moderators behind the latest protests](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)<!-- TECH:END -->
+ - [Quotient Technology, parent of Coupons.com and other digital marketing platforms, agrees to merge with retail marketing firm Neptune in a $430M all-cash deal &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230620/p39#a230620p39)
+ - [How to fix the cloud sync error on the Steam Deck?](https://www.androidauthority.com/cloud-sync-error-steam-deck-fix-3337466/)
+ - [Spotify updates its desktop app with redesigned &quot;Your Library&quot; and &quot;Now Playing&quot; user interfaces, meant to align the experience with the company&#39;s mobile app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230620/p38#a230620p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
