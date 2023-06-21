@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone goes through existential crisis in new Google Pixel ads](https://www.androidauthority.com/google-pixel-ads-iphone-2023-3337758/)
- - [OnePlus makes its tablet and phones work together like iPads and iPhones](https://www.androidauthority.com/oneplus-update-phone-tablet-3337710/)
- - [Elemental’s co-writers wanted it to be open, honest, and not another Zootopia](https://www.theverge.com/23767908/elemental-writers-kat-likkel-john-hoberg-interview)<!-- TECH:END -->
+ - [All the new feaures in iOS 17 CarPlay: offline maps, SharePlay, more](https://appleinsider.com/articles/23/06/21/all-the-new-feaures-in-ios-17-carplay-offline-maps-shareplay-more?utm_medium=rss)
+ - [Easily replaceable phone batteries might be back, and I’m here for it](https://www.theverge.com/2023/6/21/23767057/replaceable-batteries-phones-eu)
+ - [Figma’s design tools are now free on Chromebooks for all US school students](https://www.theverge.com/2023/6/21/23768547/figma-google-chromebook-education-program-student-schools)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
