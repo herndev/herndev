@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some good recommendations](http://9gag.com/gag/aNwRx14)
- - ⏩ [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - ⏩ [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)
+ - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
 
