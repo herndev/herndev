@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - ⏩ [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 👉 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)<!-- MEMES:END -->
+ - 💣 [Math just got important](http://9gag.com/gag/az2Zn8N)
+ - ⏩ [Try steal without get caught](http://9gag.com/gag/agoE3mq)
+ - 👉 [Too soon?](http://9gag.com/gag/avQd26b)<!-- MEMES:END -->
 
 ---
 
