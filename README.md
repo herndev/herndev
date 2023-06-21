@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)
- - ⏩ [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
- - 👉 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
+ - 💣 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
+ - ⏩ [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
+ - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 ---
 
