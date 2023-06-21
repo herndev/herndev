@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch adds mandatory content labels and clarifies &#39;we consider kissing or licking a microphone to fall within Sexual Themes&#39;](https://www.pcgamer.com/twitch-adds-mandatory-content-labels-and-clarifies-we-consider-kissing-or-licking-a-microphone-to-fall-within-sexual-themes)
- - [My favourite Steam Next Fest demo so far is this analogue 90s dial-a-witcher horror game](https://www.pcgamer.com/home-safety-hotline-next-fest-demo)
- - [Final Fantasy 16 review roundup: &#39;A bold new benchmark for the series&#39;](https://www.pcgamer.com/final-fantasy-16-review-roundup-a-bold-new-benchmark-for-the-series)<!-- GAME:END -->
+ - [Every Single-Player Final Fantasy Game, Ranked From Worst To Best](https://kotaku.com/best-final-fantasy-games-rpg-7-6-10-12-square-enix-ff-1850560934)
+ - [Cyberpunk 2077’s massive credits roll gets even bigger with the addition of more than 1,600 voice actors](https://www.pcgamer.com/cyberpunk-2077s-massive-credits-roll-gets-even-bigger-with-the-addition-of-more-than-1600-voice-actors)
+ - [Here’s where to pre-order Avatar: Frontiers of Pandora](https://www.polygon.com/deals/23766992/avatar-frontiers-of-pandora-pre-order-buy-collectors-edition-ps5-pc-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
