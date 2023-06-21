@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Detective Pikachu... Returns!](https://www.theverge.com/23768385/detective-pikachu-returns-trailer-nintendo-switch)
- - [FTC sues Amazon, alleging users are being tricked into signing up for Prime](https://appleinsider.com/articles/23/06/21/ftc-sues-amazon-alleging-users-are-being-tricked-into-signing-up-for-prime?utm_medium=rss)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
+ - [iPhone goes through existential crisis in new Google Pixel ads](https://www.androidauthority.com/google-pixel-ads-iphone-2023-3337758/)
+ - [OnePlus makes its tablet and phones work together like iPads and iPhones](https://www.androidauthority.com/oneplus-update-phone-tablet-3337710/)
+ - [Elemental’s co-writers wanted it to be open, honest, and not another Zootopia](https://www.theverge.com/23767908/elemental-writers-kat-likkel-john-hoberg-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
