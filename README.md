@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Legendary RPG Series Creator Wants To Help Find The Missing Titanic Sub](https://kotaku.com/titanic-titan-submarine-missing-search-ultima-garriott-1850561777)
- - [Fortnite Chapter 4 Season 3 battle pass skins list, including Era, Rian, and Optimus Prime](https://www.polygon.com/fortnite-guide/23755442/chapter-4-season-3-battle-pass-skins-era-trace-rian-optimus-prime-relik-mariposa-lorenzo-styles)
- - [Unveiling the Origins of Bunny Battle Nemesis: A Journey into the DCF Universe](https://news.xbox.com/en-us/2023/06/21/bunny-battle-nemesis-free-demo-on-xbox/)<!-- GAME:END -->
+ - [Konami, Please Don’t Forget About Metal Gear Solid 4](https://kotaku.com/konami-metal-gear-solid-collection-vol-2-mgs4-ps3-1850562154)
+ - [Save $20 On Super Mario Bros. Wonder And RPG If You Buy Them Together](https://kotaku.com/super-mario-rpg-remake-mario-bros-wonder-voucher-sale-1850562035)
+ - [Vampire Survivors is finally getting couch co-op multiplayer for up to 4 players](https://www.pcgamer.com/vampire-survivors-is-finally-getting-couch-co-op-multiplayer-for-up-to-4-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
