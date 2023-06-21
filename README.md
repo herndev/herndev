@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A breakthrough in the hunt for Diablo 4&#39;s cow level has players racing to perform a secret cleansing ritual for the Oxen Gods](https://www.pcgamer.com/a-breakthrough-in-the-hunt-for-diablo-4s-cow-level-has-players-racing-to-perform-a-secret-cleansing-ritual-for-the-oxen-gods)
- - [Fortnite’s New Nike Characters Are Made Out Of…Hmm](https://kotaku.com/nike-fortnite-update-new-characters-crossover-event-1850558259)
- - [The Sims 4 is finally getting the horse expansion players have been demanding for years](https://www.pcgamer.com/sims-4-horse-expansion-teaser)<!-- GAME:END -->
+ - [Guy Dislocates Shoulder Celebrating On The Price Is Right](https://kotaku.com/price-is-right-dislocate-shoulder-injury-hawaii-win-tv-1850558602)
+ - [YouTuber picks up where he left off with RPG he started making almost 40 years ago on a Commodore 64](https://www.pcgamer.com/youtuber-picks-up-where-he-left-off-with-rpg-he-started-making-almost-40-years-ago-on-a-commodore-64)
+ - [Discord is opening the monetization floodgates: get ready for microtransaction stores and paid &#39;exclusive memes&#39;](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
