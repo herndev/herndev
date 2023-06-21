@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - ⏩ [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)
- - 👉 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
+ - 💣 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
+ - ⏩ [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)
+ - 👉 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
 
 ---
 
