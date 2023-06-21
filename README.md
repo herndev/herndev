@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stealth](http://9gag.com/gag/aZDzPG6)
- - ⏩ [Oh well](http://9gag.com/gag/aEqOwNO)
- - 👉 [Macron was accused of toxic masculinity after drinking a beer in 17 seconds. Idiocracy here we come](http://9gag.com/gag/aBdOKGz)<!-- MEMES:END -->
+ - 💣 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
+ - ⏩ [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)
+ - 👉 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
 
 ---
 
