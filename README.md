@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the vast and mostly hidden &quot;tasker&quot; underclass, including subject-matter experts, hired by companies like Scale AI to annotate data for AI training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/230621/p23#a230621p23)
- - [In his new book The Coming Wave, DeepMind co-founder Mustafa Suleyman proposes a &quot;modern Turing test&quot; for AI, seeking to find &quot;artificial capable intelligence&quot; &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230621/p22#a230621p22)
- - [Beats Studio Pro release could happen very soon](https://appleinsider.com/articles/23/06/20/beats-studio-pro-release-could-happen-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [13 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Otter’s AI-powered chatbot can answer questions about your meetings](https://www.theverge.com/2023/6/21/23768176/otter-chat-ai-chatbot-transcription-meeting-assistant-launch)
+ - [Lunar Energy’s home battery system is designed to make solar easier to use](https://www.theverge.com/2023/6/21/23767691/lunar-energy-system-home-battery-backup-off-grid-solar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
