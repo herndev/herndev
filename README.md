@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Animals...rot in hell](http://9gag.com/gag/aGE2WeZ)
- - ⏩ [Math just got important](http://9gag.com/gag/az2Zn8N)
- - 👉 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
+ - 💣 [Too soon?](http://9gag.com/gag/avQd26b)
+ - ⏩ [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
+ - 👉 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)<!-- MEMES:END -->
 
 ---
 
