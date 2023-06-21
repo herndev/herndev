@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bizarre Google &#39;Best Phones Forever&#39; ads poke fun at iPhone](https://appleinsider.com/articles/23/06/21/bizarre-google-best-phones-forever-ads-poke-fun-at-iphone?utm_medium=rss)
- - [How to check your version history on Google Docs](https://www.theverge.com/23762071/google-docs-version-history-how-to)
- - [Sources: Twitter resumed paying Google Cloud for its services; the companies are negotiating a partnership that could include ads and Google using Twitter&#39;s API &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230621/p37#a230621p37)<!-- TECH:END -->
+ - [Rivian’s R2 electric SUV will cost between $40,000 and $60,000](https://www.theverge.com/2023/6/21/23768288/rivian-r2-electric-suv-price-range-reveal)
+ - [Second developer beta for macOS Sonoma is now available](https://appleinsider.com/articles/23/06/21/apple-issues-second-developer-beta-for-macos-sonoma?utm_medium=rss)
+ - [Apple releases visionOS SDK, and says the company will open developer labs and applications for Apple Vision Pro developer kits next month &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230621/p38#a230621p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
