@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best screen protectors for the Apple Watch Ultra](https://www.androidauthority.com/best-apple-watch-ultra-screen-protectors-3337540/)
- - [A look at the vagueness and implications of the EU&#39;s plan to require portable batteries, including those in smartphones, be &quot;readily removable and replaceable&quot; &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230621/p1#a230621p1)
- - [Document: LexisNexis&#39; $16.8M contract with ICE includes software that purports to detect suspicious activity of migrants by using license plate reader data &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230620/p41#a230620p41)<!-- TECH:END -->
+ - [Ant is developing an LLM for ChatGPT-style services under a project called &quot;Zhen Yi&quot;, which is being created by a dedicated unit using in-house research &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230621/p4#a230621p4)
+ - [In a reorganization, EA is splitting EA Games and EA Sports, with the former being renamed as EA Entertainment, hinting at EA&#39;s possible expansion beyond games &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/230621/p3#a230621p3)
+ - [Amazon Prime Day 2023 will take place on July 11th and 12th](https://www.theverge.com/2023/6/21/23743023/amazon-prime-day-dates-july-2023-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
