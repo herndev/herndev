@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #732: Wednesday, June 21](https://www.pcgamer.com/wordle-answer-today-hint-732-june-21)
- - [Amazon Prime Day 2023 will begin on July 11](https://www.polygon.com/deals/23699267/amazon-prime-day-2023-start-end-date)
- - [Yes, Secret Invasion’s opening credits scene is AI-made. Here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)<!-- GAME:END -->
+ - [Here&#39;s where the Microsoft-Activision deal stands around the world](https://www.pcgamer.com/microsoft-activision-deal-map)
+ - [I replayed Duke Nukem Forever 12 years later and, yeah, I&#39;ve got opinions](https://www.pcgamer.com/i-replayed-duke-nukem-forever-12-years-later-and-yeah-ive-got-opinions)
+ - [Microsoft plots dumbed down folder options in Windows 11 Explorer](https://www.pcgamer.com/microsoft-plots-dumbed-down-folder-options-in-windows-11-explorer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
