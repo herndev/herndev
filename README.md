@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still has a lot of secret apps for Vision Pro in the works](https://appleinsider.com/articles/23/06/21/apple-still-has-a-lot-of-secret-apps-for-vision-pro-in-the-works?utm_medium=rss)
- - [Microsoft increases the prices of Xbox Series X and, for the first time, Xbox Game Pass in most markets; Xbox Series X pricing will remain the same in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230621/p36#a230621p36)
- - [An AT&amp;T-backed cellular satellite company sent a 4G LTE signal from space](https://www.theverge.com/2023/6/21/23768495/att-ast-spacemobile-space-based-satellite-cellular-signal-lte-5g)<!-- TECH:END -->
+ - [Bizarre Google &#39;Best Phones Forever&#39; ads poke fun at iPhone](https://appleinsider.com/articles/23/06/21/bizarre-google-best-phones-forever-ads-poke-fun-at-iphone?utm_medium=rss)
+ - [How to check your version history on Google Docs](https://www.theverge.com/23762071/google-docs-version-history-how-to)
+ - [Sources: Twitter resumed paying Google Cloud for its services; the companies are negotiating a partnership that could include ads and Google using Twitter&#39;s API &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230621/p37#a230621p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
