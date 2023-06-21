@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
- - [Apple TV+ production of &#39;Metropolis&#39; has shut down permanently amid writers&#39; strike](https://appleinsider.com/articles/23/06/20/apple-tv-production-of-metropolis-has-shut-down-permanently-amid-writers-strike?utm_medium=rss)
- - [Twitch adds new labels for streams with mature content](https://www.theverge.com/2023/6/20/23767736/twitch-mature-content-classification-labels-streams)<!-- TECH:END -->
+ - [Cable and Satellite TV Providers May Have to Show You Their Hidden Fees Up Front     - CNET](https://www.cnet.com/tech/cable-and-satellite-tv-providers-may-have-to-show-you-their-hidden-fees-up-front/#ftag=CAD590a51e)
+ - [Letter: Grab CEO tells staff the company plans to cut 1,000 jobs, or 11% of its workforce, citing the need to manage costs and ensure more affordable services &lpar;Xinghui Kok/Reuters&rpar;](http://www.techmeme.com/230620/p35#a230620p35)
+ - [Apple IDs now support passkeys — if you’re on the iOS 17 or macOS Sonoma betas](https://www.theverge.com/2023/6/20/23767583/apple-iphone-ios-17-beta-passkey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
