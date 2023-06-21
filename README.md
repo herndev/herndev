@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel-made Arc A770 graphics cards are officially toast](https://www.pcgamer.com/intel-made-arc-a770-graphics-cards-are-officially-toast)
- - [Tears Of The Kingdom: Best Way To Farm For The Rare Diamonds You Need](https://kotaku.com/tears-of-the-kingdom-totk-how-to-find-diamonds-sensor-1850559556)
- - [Diablo 4&#39;s best player says loot filters &#39;need to happen, and soon&#39; because &#39;the amount of trash loot at high levels is daunting&#39;](https://www.pcgamer.com/diablo-4s-best-player-says-loot-filters-need-to-happen-and-soon-because-the-amount-of-trash-loot-at-high-levels-is-daunting)<!-- GAME:END -->
+ - [Six Days in Fallujah’s creators are ready to release and defend the controversial shooter](https://www.polygon.com/23763350/six-days-in-fallujah-controversy-early-access-release-date)
+ - [Reddit’s ongoing protest, explained](https://www.polygon.com/23758241/reddit-private-community-protest-blackout-api-going-dark-explained-why-is-subreddit-down)
+ - [This quiet adventure finally makes climbing towers fun again](https://www.pcgamer.com/this-quiet-adventure-finally-makes-climbing-towers-fun-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
