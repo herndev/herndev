@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - ⏩ [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - 👉 [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)<!-- MEMES:END -->
+ - 💣 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - ⏩ [I need someone to verify this.](http://9gag.com/gag/aoKYErA)
+ - 👉 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 ---
 
