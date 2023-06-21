@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now lets US users download Reels posted by public accounts for sharing outside the app, a feature TikTok has had for years &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230621/p14#a230621p14)
- - [Discord plans to let creators sell &quot;Downloadables&quot;, digital products available via one-time purchases, and rolls out Media Channels in beta &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230621/p13#a230621p13)
- - [TikTok tests &quot;Trendy Beat&quot;, a section selling popular items from videos, in the UK; filings and sources say the products are sold by a ByteDance-owned entity &lpar;Financial Times&rpar;](http://www.techmeme.com/230621/p12#a230621p12)<!-- TECH:END -->
+ - [Bernie Sanders opens a Senate investigation into Amazon&#39;s warehouse safety practices and writes to Andy Jassy over &quot;egregious health and safety violations&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230621/p17#a230621p17)
+ - [Apple World Trade Center anti-union practices ruled illegal by Labor Board](https://appleinsider.com/articles/23/06/21/apple-world-trade-center-anti-union-practices-ruled-illegal-by-labor-board?utm_medium=rss)
+ - [The best Apple headphones for gaming](https://appleinsider.com/inside/apple-headphones/best/the-best-apple-headphones-for-gaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
