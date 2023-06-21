@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Six Days in Fallujah’s creators are ready to release and defend the controversial shooter](https://www.polygon.com/23763350/six-days-in-fallujah-controversy-early-access-release-date)
- - [Reddit’s ongoing protest, explained](https://www.polygon.com/23758241/reddit-private-community-protest-blackout-api-going-dark-explained-why-is-subreddit-down)
- - [This quiet adventure finally makes climbing towers fun again](https://www.pcgamer.com/this-quiet-adventure-finally-makes-climbing-towers-fun-again)<!-- GAME:END -->
+ - [Twitch adds mandatory content labels and clarifies &#39;we consider kissing or licking a microphone to fall within Sexual Themes&#39;](https://www.pcgamer.com/twitch-adds-mandatory-content-labels-and-clarifies-we-consider-kissing-or-licking-a-microphone-to-fall-within-sexual-themes)
+ - [My favourite Steam Next Fest demo so far is this analogue 90s dial-a-witcher horror game](https://www.pcgamer.com/home-safety-hotline-next-fest-demo)
+ - [Final Fantasy 16 review roundup: &#39;A bold new benchmark for the series&#39;](https://www.pcgamer.com/final-fantasy-16-review-roundup-a-bold-new-benchmark-for-the-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
