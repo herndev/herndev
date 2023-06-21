@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get cold resistance in Zelda: Tears of the Kingdom](https://www.polygon.com/23713134/cold-resistance-buff-elixir-food-recipes)
- - [All Of The Internet’s Urgent Final Fantasy XVI Questions, Answered](https://kotaku.com/final-fantasy-xvi-release-ffxvi-reviews-ps5-pc-clive-1850562523)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Twitch’s new sensation is a weird indie climbing game that’s also quietly promoting NFTs](https://www.pcgamer.com/twitchs-new-sensation-is-a-weird-indie-climbing-game-thats-also-quietly-promoting-nfts)
+ - [Priscilla shows Jacob Elordi as a very human Elvis Presley](https://www.polygon.com/23769058/priscilla-elvis-jacob-elordi-movie-release-date-cast)
+ - [Gasp: Infamous Microsoft Office mascot Clippy was actually designed on a Mac](https://www.pcgamer.com/gasp-infamous-microsoft-office-mascot-clippy-was-actually-designed-on-a-mac)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
