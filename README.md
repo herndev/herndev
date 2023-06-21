@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Streets of Hollywood. What&#39;s happening to America?](http://9gag.com/gag/aBdO9PA)
- - ⏩ [Too soon?](http://9gag.com/gag/avQd26b)
- - 👉 [Coins](http://9gag.com/gag/ay2Y7vp)<!-- MEMES:END -->
+ - 💣 [Animals...rot in hell](http://9gag.com/gag/aGE2WeZ)
+ - ⏩ [Math just got important](http://9gag.com/gag/az2Zn8N)
+ - 👉 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
 
 ---
 
