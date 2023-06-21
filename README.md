@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too soon?](http://9gag.com/gag/avQd26b)
- - ⏩ [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
- - 👉 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)<!-- MEMES:END -->
+ - 💣 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - ⏩ [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 👉 [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)<!-- MEMES:END -->
 
 ---
 
