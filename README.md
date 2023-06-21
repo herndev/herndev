@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad 9th Generation drops to $249.99 in early Amazon Prime Day sale](https://appleinsider.com/articles/23/06/21/apples-ipad-9th-generation-drops-to-24999-in-early-amazon-prime-day-sale?utm_medium=rss)
- - [Xcode&#39;s power keeps Mac relevant for Apple, despite iPhone dominance](https://appleinsider.com/articles/23/06/21/xcodes-power-keeps-mac-relevant-for-apple-despite-iphone-dominance?utm_medium=rss)
- - [Apple still has a lot of secret apps for Vision Pro in the works](https://appleinsider.com/articles/23/06/21/apple-still-has-a-lot-of-secret-apps-for-vision-pro-in-the-works?utm_medium=rss)<!-- TECH:END -->
+ - [Rare Apple Earthquake Survival Kit contains timeless safety advice](https://appleinsider.com/articles/23/06/21/rare-apple-earthquake-survival-kit-contains-timeless-safety-advice?utm_medium=rss)
+ - [WarioWare’s latest gimmick is making you move your body](https://www.theverge.com/2023/6/21/23768435/warioware-move-it-nintendo-switch-trailer)
+ - [Q&amp;A with Jason Del Rey, author of Winner Sells All, on how Walmart plays catch up to Amazon, Walmart CEO Doug McMillon&#39;s tenure, Amazon&#39;s missteps, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230621/p29#a230621p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
