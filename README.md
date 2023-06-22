@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based newsletter platform beehiiv raised a $12.5M Series A led by Lightspeed and says it has 7,500 active newsletters with 350M monthly impressions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230621/p40#a230621p40)
- - [Meta is increasing the performance of its Quest 2 and Pro headsets](https://www.theverge.com/2023/6/21/23769053/meta-quest-2-pro-cpu-gpu-performance-v55-update)
- - [GPT-5: Release date, rumors, and features we expect from ChatGPT 5](https://www.androidauthority.com/gpt-5-chatgpt-release-date-rumors-features-3337892/)<!-- TECH:END -->
+ - [Meta rolls out the Quest v55 update, boosting the Quest 2 and Pro maximum clock speeds by up to 19% for the GPU and 26% for the CPU, as Quest 3 preps for launch &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230621/p42#a230621p42)
+ - [Mark Zuckerberg is ready to fight Elon Musk in a cage match](https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar)
+ - [Code repository suggests Google is working on a separate &quot;Chromebook X&quot; brand for premium devices, a source says with first models expected by the end of 2023 &lpar;9to5Google&rpar;](http://www.techmeme.com/230621/p41#a230621p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
