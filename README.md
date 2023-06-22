@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford receives $9.2 billion government loan for EV battery factory projects](https://www.theverge.com/2023/6/22/23769966/ford-doe-loan-ev-battery-factory-sk-avtm)
- - [Argonne and Intel say they installed the Aurora supercomputer, announced in 2015, which will come online later in 2023 with 2 ExaFLOPS of processing power &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230622/p31#a230622p31)
- - [Heatwaves are stressing out power grids all over the world](https://www.theverge.com/2023/6/22/23769833/heatwaves-electricity-grids-power-outages-across-world)<!-- TECH:END -->
+ - [The best phone deals of June 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [What is network latency and how important is it for enjoying online activities?](https://www.androidauthority.com/what-is-latency-3338307/)
+ - [Fashion advice subreddits are turning back the clock to protest Reddit](https://www.theverge.com/2023/6/22/23770056/reddit-fashion-advice-subreddits-female-male-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
