@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
- - ⏩ [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
+ - 💣 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - ⏩ [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
  - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 ---
