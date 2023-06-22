@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - ⏩ [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - 💣 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
+ - ⏩ [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 👉 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
 
 ---
 
