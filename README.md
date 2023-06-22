@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Titan: here’s what’s going on with the missing Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)
- - [A cable you can buy protects you from ‘juice jacking,’ but you don’t need it](https://www.androidauthority.com/osom-privacy-cable-3338263/)
- - [Final Fantasy XVI: all the latest on the darkest FF yet](https://www.theverge.com/23766903/final-fantasy-16-review-trailer-news)<!-- TECH:END -->
+ - [Ford receives $9.2 billion government loan for EV battery factory projects](https://www.theverge.com/2023/6/22/23769966/ford-doe-loan-ev-battery-factory-sk-avtm)
+ - [Argonne and Intel say they installed the Aurora supercomputer, announced in 2015, which will come online later in 2023 with 2 ExaFLOPS of processing power &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230622/p31#a230622p31)
+ - [Heatwaves are stressing out power grids all over the world](https://www.theverge.com/2023/6/22/23769833/heatwaves-electricity-grids-power-outages-across-world)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
