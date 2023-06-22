@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightmare Submarine Game Gets Popular As Search For Titanic Sub Continues](https://kotaku.com/submarine-missing-titan-titanic-iron-lung-steam-horror-1850566034)
- - [Pokimane Says Moving From Twitch To Kick Isn&#39;t Worth Compromising Morals, Is &#39;Cringe&#39;](https://kotaku.com/xqc-pokimane-kick-twitch-amouranth-streamer-drama-1850566055)
- - [Finally, The Sims 4 will let you release your inner horse girl](https://www.polygon.com/23768612/the-sims-4-horse-ranch-trailer-release-date)<!-- GAME:END -->
+ - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this June](https://www.polygon.com/what-to-watch/2023/6/22/23767037/best-sci-fi-movies-netflix-hulu-max-june-2023)
+ - [PlayStation boss’ private email said he wasn’t worried about Xbox-Activision deal](https://www.polygon.com/23770152/microsoft-activision-merger-playstation-ftc-hearing-call-of-duty)
+ - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
