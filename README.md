@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gift ideas for the Zelda fan in your life](https://www.polygon.com/what-to-buy/23620429/zelda-best-gifts-ideas)
- - [‘The Blocked Well’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23769754/blocked-well-side-adventure-quest-steps)
- - [‘An Eerie Voice’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23769938/eerie-voice-side-adventure-quest-steps)<!-- GAME:END -->
+ - [Activision is killing the old Call of Duty: Warzone](https://www.polygon.com/23770407/call-of-duty-warzone-caldera-shutting-down-date)
+ - [The must-watch anime to look out for in summer 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
