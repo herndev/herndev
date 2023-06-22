@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We did it! We broke the internet!](http://9gag.com/gag/aVbVPKP)
- - ⏩ [Sketchbook game](http://9gag.com/gag/avQdn4M)
- - 👉 [Statistically we\u2019re beyond the point of no return to meme about this](http://9gag.com/gag/a2KLmOp)<!-- MEMES:END -->
+ - 💣 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 👉 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
 
 ---
 
