@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - ⏩ [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
- - 👉 [Only for gaming](http://9gag.com/gag/aeQ76MQ)<!-- MEMES:END -->
+ - 💣 [Only for gaming](http://9gag.com/gag/aeQ76MQ)
+ - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
 
 ---
 
