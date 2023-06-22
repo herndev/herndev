@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
  - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
+ - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 ---
 
