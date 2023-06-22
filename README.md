@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indigenous communities in Borneo are using mapping tech like GPS and GIS to claim their rights to ancestral land and stop the expansion of oil palm plantations &lpar;Liani MK/Rest of World&rpar;](http://www.techmeme.com/230622/p2#a230622p2)
  - [Big firms want to trade crypto with the structure of traditional finance, including orders intermediated by brokers and asset custody separate from the exchange &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230622/p1#a230622p1)
- - [Sources: the Biden administration has ramped up exploration of security concerns with Chinese cloud computing firms, potentially fueling tensions with Beijing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230621/p49#a230621p49)
- - [Q&amp;A with OpenAI CEO Sam Altman on why UX matters for AI, AGI going &quot;wrong&quot; vs. &quot;AGI is going to go fantastically well&quot;, capping profit, regulation, and more &lpar;Edward Felsenthal/TIME&rpar;](http://www.techmeme.com/230621/p48#a230621p48)<!-- TECH:END -->
+ - [Sources: the Biden administration has ramped up exploration of security concerns with Chinese cloud computing firms, potentially fueling tensions with Beijing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230621/p49#a230621p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
