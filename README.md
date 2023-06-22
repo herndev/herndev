@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch’s new sensation is a weird indie climbing game that’s also quietly promoting NFTs](https://www.pcgamer.com/twitchs-new-sensation-is-a-weird-indie-climbing-game-thats-also-quietly-promoting-nfts)
- - [Priscilla shows Jacob Elordi as a very human Elvis Presley](https://www.polygon.com/23769058/priscilla-elvis-jacob-elordi-movie-release-date-cast)
- - [Gasp: Infamous Microsoft Office mascot Clippy was actually designed on a Mac](https://www.pcgamer.com/gasp-infamous-microsoft-office-mascot-clippy-was-actually-designed-on-a-mac)<!-- GAME:END -->
+ - [New Marvel TV Show&#39;s Credits Were &#39;Made&#39; By &#39;AI&#39;, Look Terrible](https://kotaku.com/marvel-secret-invasion-credits-ai-machine-learning-tv-1850563329)
+ - [Creating a Rhythm Game for a Dreaming Teen Rockstar – Loud: My Road to Fame](https://news.xbox.com/en-us/2023/06/21/creating-a-rhythm-game-loud-my-road-to-fame/)
+ - [Police Catch Bombing Suspect After He Left Behind Pokémon Cards](https://kotaku.com/bombing-suspect-arrest-pokemon-cards-left-behind-crime-1850563169)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
