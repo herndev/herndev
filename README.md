@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter CEO Linda Yaccarino intervened to mend the company&#39;s relationship with Google Cloud over payments; sources say the bills were $20M+ per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p8#a230622p8)
- - [How Chinese-language subreddits like r/China_irl became a refuge for banned Chinese internet groups, with users jumping the Great Firewall with VPNs &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230622/p7#a230622p7)
- - [Venezuela&#39;s temporary ban on crypto mining is killing the industry President Maduro promoted, with ~75K units of mining equipment disconnected since March &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p6#a230622p6)<!-- TECH:END -->
+ - [A look at Dolby Atmos, supported by 15 music streaming services including Apple Music, which has heavily invested in Atmos, and the future of immersive audio &lpar;Bob Mehr/New York Times&rpar;](http://www.techmeme.com/230622/p11#a230622p11)
+ - [Intel restructures its manufacturing business to work like a separate unit and begin generating a margin, but offers no clear timeframe; INTC drops 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230622/p10#a230622p10)
+ - [ASML EVP Christophe Fouquet says the company believes decoupling the global chip supply chain isn&#39;t possible, as the US, EU, and others push for self-reliance &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230622/p9#a230622p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
