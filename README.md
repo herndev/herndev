@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 💣 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
+ - ⏩ [And everybody wins.](http://9gag.com/gag/aQEO6z7)
  - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 ---
