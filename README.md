@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Dolby Atmos, supported by 15 music streaming services including Apple Music, which has heavily invested in Atmos, and the future of immersive audio &lpar;Bob Mehr/New York Times&rpar;](http://www.techmeme.com/230622/p11#a230622p11)
- - [Intel restructures its manufacturing business to work like a separate unit and begin generating a margin, but offers no clear timeframe; INTC drops 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230622/p10#a230622p10)
- - [ASML EVP Christophe Fouquet says the company believes decoupling the global chip supply chain isn&#39;t possible, as the US, EU, and others push for self-reliance &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230622/p9#a230622p9)<!-- TECH:END -->
+ - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
+ - [A look at TikTok&#39;s effect on small businesses in the US, as the app has become &quot;a billion-person focus group&quot;, disrupting business cycles and corporate R&amp;D &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p14#a230622p14)
+ - [Adobe XD put on life support ahead of Figma acquisition](https://www.theverge.com/2023/6/22/23769586/adobe-xd-discontinued-shutting-down-figma-design-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
