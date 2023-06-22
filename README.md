@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Down to the depths with any dev who makes &#39;create desktop shortcut&#39; the default option](https://www.pcgamer.com/down-to-the-depths-with-any-dev-who-makes-create-desktop-shortcut-the-default-option)
- - [PC Gamer UK August issue on sale now: Broken Roads](https://www.pcgamer.com/pc-gamer-uk-august-issue-on-sale-now-broken-roads)
- - [If you own an Asus router, you should update the firmware to protect against critical vulnerabilities right now](https://www.pcgamer.com/if-you-own-an-asus-router-you-should-update-the-firmware-to-protect-against-critical-vulnerabilities-right-now)<!-- GAME:END -->
+ - [Bungie says it will &#39;compensate and credit&#39; artist whose work was &#39;mistakenly&#39; used in this week&#39;s major Destiny 2 cutscene](https://www.pcgamer.com/bungie-says-it-will-compensate-and-credit-artist-whose-work-was-mistakenly-used-in-this-weeks-major-destiny-2-cutscene)
+ - [The Metal Gear Solid collection is including the non-canon game Kojima hates](https://www.pcgamer.com/the-metal-gear-solid-collection-is-including-the-non-canon-game-kojima-hates)
+ - [Intel&#39;s forcing its chip designers to pay market rates not mate&#39;s rates at its own fabs](https://www.pcgamer.com/intels-forcing-its-chip-designers-to-pay-market-rates-not-mates-rates-at-its-own-fabs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
