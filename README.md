@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke survival](http://9gag.com/gag/arm2e8d)
- - ⏩ [Thank you guys](http://9gag.com/gag/avQdg4Z)
- - 👉 [Games got too real ..](http://9gag.com/gag/aWGDWNx)<!-- MEMES:END -->
+ - 💣 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
+ - ⏩ [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 ---
 
