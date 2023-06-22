@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - 👉 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
+ - 💣 [What makes you post memes?](http://9gag.com/gag/ajVWA1R)
+ - ⏩ [Eat the rich](http://9gag.com/gag/aPg1GzQ)
+ - 👉 [Society](http://9gag.com/gag/aeQ7Gev)<!-- MEMES:END -->
 
 ---
 
