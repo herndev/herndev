@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only for gaming](http://9gag.com/gag/aeQ76MQ)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 💣 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - ⏩ [HOW LONG?](http://9gag.com/gag/aoKYjEw)
  - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
 
 ---
