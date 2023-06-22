@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 👉 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
+ - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - ⏩ [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
 
 ---
 
