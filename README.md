@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Early Amazon Prime Day Deals: Pixel Phones, Apple Watches, and More](https://www.wired.com/story/early-prime-day-deals-2023/)
- - [Meta will remove news content from Facebook and Instagram for users in Canada after the country&#39;s Senate passed the Online News Act, which goes for Royal Assent &lpar;Anja Karadeglija/National Post&rpar;](http://www.techmeme.com/230622/p35#a230622p35)
- - [The Titan: here’s what’s going on with the missing Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)<!-- TECH:END -->
+ - [E3 is not returning anytime soon](https://www.theverge.com/2023/6/22/23770393/e3-2024-2025-canceled-la-tourism)
+ - [The Apple Vision Pro could come with a ‘travel mode’ for plane rides](https://www.theverge.com/2023/6/22/23770217/apple-vision-pro-travel-mode-plane-rides-vr)
+ - [Microsoft was working on a separate ‘dedicated’ version of Xbox Cloud Gaming](https://www.theverge.com/2023/6/22/23770460/microsoft-xbox-xcloud-gaming-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
