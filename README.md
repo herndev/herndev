@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you own an Asus router, you should update the firmware to protect against critical vulnerabilities right now](https://www.pcgamer.com/if-you-own-an-asus-router-you-should-update-the-firmware-to-protect-against-critical-vulnerabilities-right-now)
  - [Today&#39;s Wordle hint and answer #733: Thursday, June 22](https://www.pcgamer.com/wordle-answer-today-hint-733-june-22)
- - [How long is Final Fantasy 16?](https://www.polygon.com/final-fantasy-16-guides/23767000/how-long-playtime-length-hours)
- - [All hunt locations in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23758382/hunts-notorious-marks-locations)<!-- GAME:END -->
+ - [How long is Final Fantasy 16?](https://www.polygon.com/final-fantasy-16-guides/23767000/how-long-playtime-length-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
