@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Warp, a Rust-based terminal app for macOS with features like AI-powered auto-complete suggestions of commands, raised a $50M Series B led by Sequoia &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230621/p43#a230621p43)
- - [Meta rolls out the Quest v55 update, boosting the Quest 2 and Pro maximum clock speeds by up to 19% for the GPU and 26% for the CPU, as Quest 3 preps for launch &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230621/p42#a230621p42)
+ - [Garmin Forerunner 255 vs 265: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-255-vs-265-3337578/)
+ - [Australia&#39;s online safety regulator gives Twitter 28 days to explain the steps it is taking to combat hate speech or face $475K in fines &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230621/p45#a230621p45)
  - [Mark Zuckerberg is ready to fight Elon Musk in a cage match](https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
