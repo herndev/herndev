@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not a sports fan? YouTube TV tests new multiview stream combos just for you.](https://www.androidauthority.com/youtube-tv-multiview-streams-3338010/)
- - [Google Nest cameras and doorbells are down for many people &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-nest-cameras-doorbells-outage-3337222/)
- - [Sequoia debuts Atlas, an interactive tool that uses various qualitative and quantitative data collection methods to map the European technical talent landscape &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230622/p5#a230622p5)<!-- TECH:END -->
+ - [Source: Twitter CEO Linda Yaccarino intervened to mend the company&#39;s relationship with Google Cloud over payments; sources say the bills were $20M+ per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p8#a230622p8)
+ - [How Chinese-language subreddits like r/China_irl became a refuge for banned Chinese internet groups, with users jumping the Great Firewall with VPNs &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230622/p7#a230622p7)
+ - [Venezuela&#39;s temporary ban on crypto mining is killing the industry President Maduro promoted, with ~75K units of mining equipment disconnected since March &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p6#a230622p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
