@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - ⏩ [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
+ - 💣 [No title needed](http://9gag.com/gag/a1PEXmG)
+ - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
+ - 👉 [Hehe](http://9gag.com/gag/aGEODm6)<!-- MEMES:END -->
 
 ---
 
