@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5: Release date, rumors, and features we expect from ChatGPT 5](https://www.androidauthority.com/gpt-5-chatgpt-release-date-rumors-features-3337892/)
- - [iPad apps need more than a checkbox to run on Apple Vision Pro](https://appleinsider.com/articles/23/06/21/ipad-apps-need-more-than-a-checkbox-to-run-on-apple-vision-pro?utm_medium=rss)
- - [A first-of-its-kind climate trial just ended — will it work?](https://www.theverge.com/2023/6/21/23768437/landmark-climate-lawsuit-held-v-montana-trial-whats-next)<!-- TECH:END -->
+ - [NYC-based newsletter platform beehiiv raised a $12.5M Series A led by Lightspeed and says it has 7,500 active newsletters with 350M monthly impressions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230621/p40#a230621p40)
+ - [Meta is increasing the performance of its Quest 2 and Pro headsets](https://www.theverge.com/2023/6/21/23769053/meta-quest-2-pro-cpu-gpu-performance-v55-update)
+ - [GPT-5: Release date, rumors, and features we expect from ChatGPT 5](https://www.androidauthority.com/gpt-5-chatgpt-release-date-rumors-features-3337892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
