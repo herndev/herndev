@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic spinoff adds mining to Vampire Survivors, and it works](https://www.polygon.com/23762638/deep-rock-galactic-survivor-playtest-impressions)
- - [Where to purchase Final Fantasy 16, and what comes with each edition](https://www.polygon.com/deals/23696570/final-fantasy-16-pre-order-guide-deal-sale)
- - [The competitive fighting game community deserves better, and might finally be getting it: &#39;we&#39;re the next big thing&#39;](https://www.pcgamer.com/the-competitive-fighting-game-community-deserves-better-and-might-finally-be-getting-it-were-the-next-big-thing)<!-- GAME:END -->
+ - [BioWare calls Star Wars: The Old Republic&#39;s change in developer &#39;a new beginning&#39; and denies that it&#39;s going into maintenance mode](https://www.pcgamer.com/bioware-calls-star-wars-the-old-republics-change-in-developer-a-new-beginning-and-denies-that-its-going-into-maintenance-mode)
+ - [&#39;About 10%&#39; of Starfield&#39;s 1000+ planets have life on them as the game tries to capture &#39;the magnificent desolation&#39; of space, says Todd Howard](https://www.pcgamer.com/about-10-of-starfields-1000-planets-have-life-on-them-as-the-game-tries-to-capture-the-magnificent-desolation-of-space-says-todd-howard)
+ - [All the caves worth your time in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23767489/caves-locations-worth-doing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
