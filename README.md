@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie says it will &#39;compensate and credit&#39; artist whose work was &#39;mistakenly&#39; used in this week&#39;s major Destiny 2 cutscene](https://www.pcgamer.com/bungie-says-it-will-compensate-and-credit-artist-whose-work-was-mistakenly-used-in-this-weeks-major-destiny-2-cutscene)
- - [The Metal Gear Solid collection is including the non-canon game Kojima hates](https://www.pcgamer.com/the-metal-gear-solid-collection-is-including-the-non-canon-game-kojima-hates)
- - [Intel&#39;s forcing its chip designers to pay market rates not mate&#39;s rates at its own fabs](https://www.pcgamer.com/intels-forcing-its-chip-designers-to-pay-market-rates-not-mates-rates-at-its-own-fabs)<!-- GAME:END -->
+ - [The Best Early Final Fantasy XVI Abilities To Unlock And Upgrade ASAP](https://kotaku.com/final-fantasy-16-xvi-abilities-tips-eikon-power-upgrade-1850561859)
+ - [15 Critical Tips To Know Before Jumping Into Final Fantasy XVI](https://kotaku.com/final-fantasy-16-ps5-release-date-tips-xvi-embargo-1850562387)
+ - [This is awkward: some aerospace company just rebranded as RTX](https://www.pcgamer.com/this-is-awkward-some-aerospace-company-just-rebranded-as-rtx)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
