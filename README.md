@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
- - ⏩ [The difference between the controls of James Cameron&#39;s submarine and the Titan.](http://9gag.com/gag/aNwOZEv)
- - 👉 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
+ - 💣 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - ⏩ [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
+ - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 ---
 
