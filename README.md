@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An infamous Final Fantasy XIV monster returns in Final Fantasy XVI](https://www.theverge.com/2023/6/22/23769740/final-fantasy-xvi-hunt-board-dread-comet)
- - [Google is making it easier for students to access Adobe Express on Chromebooks](https://www.theverge.com/2023/6/22/23769026/google-chromeos-adobe-express-integration)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [The Titan: here’s what’s going on with the missing Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)
+ - [A cable you can buy protects you from ‘juice jacking,’ but you don’t need it](https://www.androidauthority.com/osom-privacy-cable-3338263/)
+ - [Final Fantasy XVI: all the latest on the darkest FF yet](https://www.theverge.com/23766903/final-fantasy-16-review-trailer-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
