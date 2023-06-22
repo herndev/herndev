@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Early Final Fantasy XVI Abilities To Unlock And Upgrade ASAP](https://kotaku.com/final-fantasy-16-xvi-abilities-tips-eikon-power-upgrade-1850561859)
- - [15 Critical Tips To Know Before Jumping Into Final Fantasy XVI](https://kotaku.com/final-fantasy-16-ps5-release-date-tips-xvi-embargo-1850562387)
- - [This is awkward: some aerospace company just rebranded as RTX](https://www.pcgamer.com/this-is-awkward-some-aerospace-company-just-rebranded-as-rtx)<!-- GAME:END -->
+ - [Sony Won’t Share PS6 Info With Call Of Duty Devs If Owned By Microsoft](https://kotaku.com/call-of-duty-ps6-xbox-activision-microsoft-ps5-sale-1850564895)
+ - [Solid Snake says he&#39;s not worried about AI stealing work from voice actors: &#39;it&#39;ll always be soulless&#39;](https://www.pcgamer.com/solid-snake-says-hes-not-worried-about-ai-stealing-work-from-voice-actors-itll-always-be-soulless)
+ - [Elon Musk and Mark Zuckerberg end up agreeing to a cage fight after argument over the word &#39;sane&#39;](https://www.pcgamer.com/elon-musk-and-mark-zuckerberg-end-up-agreeing-to-a-cage-fight-after-argument-over-the-word-sane)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
