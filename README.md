@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you use the Razr Plus fully closed? I tried for a day, here’s how it went](https://www.androidauthority.com/motorola-razr-plus-cover-screen-3336645/)
- - [Motorola Razr Plus review: the right moves](https://www.theverge.com/23768630/motorola-razr-plus-40-ultra-review-screen-battery-camera)
- - [DuckDuckGo releases its privacy-focused browser on Windows in beta, one year after launching on macOS, offering Duck Player for YouTube without ads and more &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230622/p18#a230622p18)<!-- TECH:END -->
+ - [How to get Xbox Game Pass on the Steam Deck](https://www.androidauthority.com/how-to-get-xbox-game-pass-on-steam-deck-3338138/)
+ - [Let&#39;s get ready to rumble: Zuckerberg agrees to fight Musk in cage match](https://appleinsider.com/articles/23/06/22/lets-get-ready-to-rumble-zuckerberg-agrees-to-fight-musk-in-cage-match?utm_medium=rss)
+ - [Utah-based Limble, which helps companies track &quot;dumb&quot; and unconnected physical assets, raised a $58M Series B from Goldman Sachs at a $450M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230622/p21#a230622p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
