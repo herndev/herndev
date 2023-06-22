@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - 💣 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 👉 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
 
 ---
 
