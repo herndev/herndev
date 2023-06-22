@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Won’t Share PS6 Info With Call Of Duty Devs If Owned By Microsoft](https://kotaku.com/call-of-duty-ps6-xbox-activision-microsoft-ps5-sale-1850564895)
- - [Solid Snake says he&#39;s not worried about AI stealing work from voice actors: &#39;it&#39;ll always be soulless&#39;](https://www.pcgamer.com/solid-snake-says-hes-not-worried-about-ai-stealing-work-from-voice-actors-itll-always-be-soulless)
- - [Elon Musk and Mark Zuckerberg end up agreeing to a cage fight after argument over the word &#39;sane&#39;](https://www.pcgamer.com/elon-musk-and-mark-zuckerberg-end-up-agreeing-to-a-cage-fight-after-argument-over-the-word-sane)<!-- GAME:END -->
+ - [Strange New Worlds solved Star Trek’s trial episode problem](https://www.polygon.com/23768513/star-trek-strange-new-worlds-episode-season-2-oona-pike)
+ - [League of Legends’ newest champion is an assassin made up of mean dogs](https://www.polygon.com/2023/6/22/23768472/league-of-legends-naafiri-champion-reveal-abilities)
+ - [How to beat Benedikta in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23766982/benedikta-boss-fight-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
