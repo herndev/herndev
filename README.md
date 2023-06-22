@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Forerunner 255 vs 265: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-255-vs-265-3337578/)
- - [Australia&#39;s online safety regulator gives Twitter 28 days to explain the steps it is taking to combat hate speech or face $475K in fines &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230621/p45#a230621p45)
- - [Mark Zuckerberg is ready to fight Elon Musk in a cage match](https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar)<!-- TECH:END -->
+ - [Sources: the Biden administration has ramped up exploration of security concerns with Chinese cloud computing firms, potentially fueling tensions with Beijing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230621/p49#a230621p49)
+ - [Q&amp;A with OpenAI CEO Sam Altman on why UX matters for AI, AGI going &quot;wrong&quot; vs. &quot;AGI is going to go fantastically well&quot;, capping profit, regulation, and more &lpar;Edward Felsenthal/TIME&rpar;](http://www.techmeme.com/230621/p48#a230621p48)
+ - [Ripple says it got in-principle regulatory approval from Singapore to offer digital payment token products and expand XRP cross-border transfers in the country &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230621/p47#a230621p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
