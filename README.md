@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get Xbox Game Pass on the Steam Deck](https://www.androidauthority.com/how-to-get-xbox-game-pass-on-steam-deck-3338138/)
- - [Let&#39;s get ready to rumble: Zuckerberg agrees to fight Musk in cage match](https://appleinsider.com/articles/23/06/22/lets-get-ready-to-rumble-zuckerberg-agrees-to-fight-musk-in-cage-match?utm_medium=rss)
- - [Utah-based Limble, which helps companies track &quot;dumb&quot; and unconnected physical assets, raised a $58M Series B from Goldman Sachs at a $450M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230622/p21#a230622p21)<!-- TECH:END -->
+ - [PSA: your friends at Verge Deals are here to guide you through Amazon Prime Day](https://www.theverge.com/2023/6/22/23768680/verge-deals-newsletter-subscribe-amazon-prime-day-sales-discounts)
+ - [Video Game Remakes Are in a Golden Age. That Could Be a Bad Thing](https://www.wired.com/story/golden-age-of-video-game-remakes/)
+ - [Acryl Data, which offers a data catalog service built on DataHub open source framework, raised a $21M Series A led by 8VC, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230622/p24#a230622p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
