@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo’s privacy-focused browser is available for Windows now](https://www.theverge.com/2023/6/22/23769084/duckduckgo-browser-windows-download)
- - [Netflix’s Skull Island buries its giant monsters under too many quips](https://www.theverge.com/23767392/skull-island-review-netflix)
- - [Comcast-owned UK broadcaster Sky launches Sky Live, a camera designed to add social, fitness, and gaming features to its smart TVs, for &amp;pound;290 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230622/p15#a230622p15)<!-- TECH:END -->
+ - [Can you use the Razr Plus fully closed? I tried for a day, here’s how it went](https://www.androidauthority.com/motorola-razr-plus-cover-screen-3336645/)
+ - [Motorola Razr Plus review: the right moves](https://www.theverge.com/23768630/motorola-razr-plus-40-ultra-review-screen-battery-camera)
+ - [DuckDuckGo releases its privacy-focused browser on Windows in beta, one year after launching on macOS, offering Duck Player for YouTube without ads and more &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230622/p18#a230622p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
