@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - ⏩ [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
- - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 ---
 
