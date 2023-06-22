@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange New Worlds solved Star Trek’s trial episode problem](https://www.polygon.com/23768513/star-trek-strange-new-worlds-episode-season-2-oona-pike)
- - [League of Legends’ newest champion is an assassin made up of mean dogs](https://www.polygon.com/2023/6/22/23768472/league-of-legends-naafiri-champion-reveal-abilities)
- - [How to beat Benedikta in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23766982/benedikta-boss-fight-how-to-beat)<!-- GAME:END -->
+ - [Deep Rock Galactic spinoff adds mining to Vampire Survivors, and it works](https://www.polygon.com/23762638/deep-rock-galactic-survivor-playtest-impressions)
+ - [Where to purchase Final Fantasy 16, and what comes with each edition](https://www.polygon.com/deals/23696570/final-fantasy-16-pre-order-guide-deal-sale)
+ - [The competitive fighting game community deserves better, and might finally be getting it: &#39;we&#39;re the next big thing&#39;](https://www.pcgamer.com/the-competitive-fighting-game-community-deserves-better-and-might-finally-be-getting-it-were-the-next-big-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
