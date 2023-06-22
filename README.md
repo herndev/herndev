@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: your friends at Verge Deals are here to guide you through Amazon Prime Day](https://www.theverge.com/2023/6/22/23768680/verge-deals-newsletter-subscribe-amazon-prime-day-sales-discounts)
- - [Video Game Remakes Are in a Golden Age. That Could Be a Bad Thing](https://www.wired.com/story/golden-age-of-video-game-remakes/)
- - [Acryl Data, which offers a data catalog service built on DataHub open source framework, raised a $21M Series A led by 8VC, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230622/p24#a230622p24)<!-- TECH:END -->
+ - [An infamous Final Fantasy XIV monster returns in Final Fantasy XVI](https://www.theverge.com/2023/6/22/23769740/final-fantasy-xvi-hunt-board-dread-comet)
+ - [Google is making it easier for students to access Adobe Express on Chromebooks](https://www.theverge.com/2023/6/22/23769026/google-chromeos-adobe-express-integration)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
