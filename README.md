@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Subreddit Is Running An Excellent Protest](https://kotaku.com/steam-reddit-subreddit-valve-protest-api-apollo-huffman-1850563517)
- - [Cities: Skylines 2&#39;s cool new road tools are already making me think my city won&#39;t be a traffic-filled hellscape](https://www.pcgamer.com/cities-skylines-2s-cool-new-road-tools-are-already-making-me-think-my-city-wont-be-a-traffic-filled-hellscape)
- - [New Marvel TV Show&#39;s Credits Were &#39;Made&#39; By &#39;AI&#39;, Look Terrible](https://kotaku.com/marvel-secret-invasion-credits-ai-machine-learning-tv-1850563329)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #733: Thursday, June 22](https://www.pcgamer.com/wordle-answer-today-hint-733-june-22)
+ - [How long is Final Fantasy 16?](https://www.polygon.com/final-fantasy-16-guides/23767000/how-long-playtime-length-hours)
+ - [All hunt locations in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23758382/hunts-notorious-marks-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
