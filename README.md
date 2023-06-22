@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare calls Star Wars: The Old Republic&#39;s change in developer &#39;a new beginning&#39; and denies that it&#39;s going into maintenance mode](https://www.pcgamer.com/bioware-calls-star-wars-the-old-republics-change-in-developer-a-new-beginning-and-denies-that-its-going-into-maintenance-mode)
- - [&#39;About 10%&#39; of Starfield&#39;s 1000+ planets have life on them as the game tries to capture &#39;the magnificent desolation&#39; of space, says Todd Howard](https://www.pcgamer.com/about-10-of-starfields-1000-planets-have-life-on-them-as-the-game-tries-to-capture-the-magnificent-desolation-of-space-says-todd-howard)
- - [All the caves worth your time in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23767489/caves-locations-worth-doing)<!-- GAME:END -->
+ - [Nightmare Submarine Game Gets Popular As Search For Titanic Sub Continues](https://kotaku.com/submarine-missing-titan-titanic-iron-lung-steam-horror-1850566034)
+ - [Pokimane Says Moving From Twitch To Kick Isn&#39;t Worth Compromising Morals, Is &#39;Cringe&#39;](https://kotaku.com/xqc-pokimane-kick-twitch-amouranth-streamer-drama-1850566055)
+ - [Finally, The Sims 4 will let you release your inner horse girl](https://www.polygon.com/23768612/the-sims-4-horse-ranch-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
