@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Britain](http://9gag.com/gag/aBdO30z)
- - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - 👉 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 💣 [Woke survival](http://9gag.com/gag/arm2e8d)
+ - ⏩ [Thank you guys](http://9gag.com/gag/avQdg4Z)
+ - 👉 [Games got too real ..](http://9gag.com/gag/aWGDWNx)<!-- MEMES:END -->
 
 ---
 
