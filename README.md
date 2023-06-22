@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [Nobody will save them. There are only like 5 other submarines in the world that can sink that deep, and just like this one, very low power ones. They cant tow them up. The Titan has multiple ways to emerge even without power, if it didnt do that, they are all dead/passed out.](http://9gag.com/gag/a3ZbdV1)<!-- MEMES:END -->
+ - 💣 [We did it! We broke the internet!](http://9gag.com/gag/aVbVPKP)
+ - ⏩ [Sketchbook game](http://9gag.com/gag/avQdn4M)
+ - 👉 [Statistically we\u2019re beyond the point of no return to meme about this](http://9gag.com/gag/a2KLmOp)<!-- MEMES:END -->
 
 ---
 
