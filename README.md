@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone deals of June 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [What is network latency and how important is it for enjoying online activities?](https://www.androidauthority.com/what-is-latency-3338307/)
- - [Fashion advice subreddits are turning back the clock to protest Reddit](https://www.theverge.com/2023/6/22/23770056/reddit-fashion-advice-subreddits-female-male-protest)<!-- TECH:END -->
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [NFC payments are about to become faster, easier, and truly contactless](https://www.androidauthority.com/nfc-contactless-payment-improvements-3338346/)
+ - [Missing Sub Passengers Believed Dead After Debris Found From Likely Implosion](https://www.wired.com/story/titan-sub-debris-found/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
