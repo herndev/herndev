@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this June](https://www.polygon.com/what-to-watch/2023/6/22/23767037/best-sci-fi-movies-netflix-hulu-max-june-2023)
- - [PlayStation boss’ private email said he wasn’t worried about Xbox-Activision deal](https://www.polygon.com/23770152/microsoft-activision-merger-playstation-ftc-hearing-call-of-duty)
- - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)<!-- GAME:END -->
+ - [The best gift ideas for the Zelda fan in your life](https://www.polygon.com/what-to-buy/23620429/zelda-best-gifts-ideas)
+ - [‘The Blocked Well’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23769754/blocked-well-side-adventure-quest-steps)
+ - [‘An Eerie Voice’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23769938/eerie-voice-side-adventure-quest-steps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
