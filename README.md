@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elon Musk says terms like \u201ccisgender\u201dand \u201ccis\u201d are now considered \u201cslurs\u201d on Twitter and will not be tolerated](http://9gag.com/gag/aDYO3MO)
- - ⏩ [I say things like that, but in reality I&#39;m an awkward virgin. If I ever would go that far with a woman I&#39;d just stand there like: `Ok, now what?`](http://9gag.com/gag/aZDzxVp)
- - 👉 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
+ - 💣 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
+ - ⏩ [The difference between the controls of James Cameron&#39;s submarine and the Titan.](http://9gag.com/gag/aNwOZEv)
+ - 👉 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
 
 ---
 
