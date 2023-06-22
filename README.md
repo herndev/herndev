@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
- - [A look at TikTok&#39;s effect on small businesses in the US, as the app has become &quot;a billion-person focus group&quot;, disrupting business cycles and corporate R&amp;D &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p14#a230622p14)
- - [Adobe XD put on life support ahead of Figma acquisition](https://www.theverge.com/2023/6/22/23769586/adobe-xd-discontinued-shutting-down-figma-design-app)<!-- TECH:END -->
+ - [DuckDuckGo’s privacy-focused browser is available for Windows now](https://www.theverge.com/2023/6/22/23769084/duckduckgo-browser-windows-download)
+ - [Netflix’s Skull Island buries its giant monsters under too many quips](https://www.theverge.com/23767392/skull-island-review-netflix)
+ - [Comcast-owned UK broadcaster Sky launches Sky Live, a camera designed to add social, fitness, and gaming features to its smart TVs, for &amp;pound;290 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230622/p15#a230622p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
