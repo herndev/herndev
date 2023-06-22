@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indigenous communities in Borneo are using mapping tech like GPS and GIS to claim their rights to ancestral land and stop the expansion of oil palm plantations &lpar;Liani MK/Rest of World&rpar;](http://www.techmeme.com/230622/p2#a230622p2)
- - [Big firms want to trade crypto with the structure of traditional finance, including orders intermediated by brokers and asset custody separate from the exchange &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230622/p1#a230622p1)
- - [Sources: the Biden administration has ramped up exploration of security concerns with Chinese cloud computing firms, potentially fueling tensions with Beijing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230621/p49#a230621p49)<!-- TECH:END -->
+ - [Sequoia debuts Atlas, an interactive tool that uses various qualitative and quantitative data collection methods to map the European technical talent landscape &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230622/p5#a230622p5)
+ - [Figma expands its partnership with Google for Education, allowing all US K-12 students to access its design tools for free on education Chromebooks &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230622/p4#a230622p4)
+ - [Ted Sarandos outlines Netflix&#39;s plans to spend some of the $2.5B earmarked for K-drama, including working with South Korean organizations to identify talent &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230622/p3#a230622p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
