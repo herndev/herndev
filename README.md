@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision is killing the old Call of Duty: Warzone](https://www.polygon.com/23770407/call-of-duty-warzone-caldera-shutting-down-date)
- - [The must-watch anime to look out for in summer 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
+ - [Fortnite: Chapter 4 Season 3 Week 3 Quests And NPC Locations](https://kotaku.com/fortnite-weekly-quest-mud-slide-pod-plants-reveal-1850567669)
+ - [How to upgrade potion potency in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23770300/increase-upgrade-potion-potency-consumables-tonic)
+ - [Microsoft Says Xbox Has Been Losing The Console Wars Since 2001](https://kotaku.com/xbox-series-x-ps5-switch-microsoft-sony-nintendo-sales-1850567636)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
