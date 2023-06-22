@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [NFC payments are about to become faster, easier, and truly contactless](https://www.androidauthority.com/nfc-contactless-payment-improvements-3338346/)
- - [Missing Sub Passengers Believed Dead After Debris Found From Likely Implosion](https://www.wired.com/story/titan-sub-debris-found/)<!-- TECH:END -->
+ - [10 Best Early Amazon Prime Day Deals: Pixel Phones, Apple Watches, and More](https://www.wired.com/story/early-prime-day-deals-2023/)
+ - [Meta will remove news content from Facebook and Instagram for users in Canada after the country&#39;s Senate passed the Online News Act, which goes for Royal Assent &lpar;Anja Karadeglija/National Post&rpar;](http://www.techmeme.com/230622/p35#a230622p35)
+ - [The Titan: here’s what’s going on with the missing Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
