@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
- - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
- - 👉 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
+ - 💣 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
+ - ⏩ [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
+ - 👉 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 ---
 
