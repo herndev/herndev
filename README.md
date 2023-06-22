@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia debuts Atlas, an interactive tool that uses various qualitative and quantitative data collection methods to map the European technical talent landscape &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230622/p5#a230622p5)
- - [Figma expands its partnership with Google for Education, allowing all US K-12 students to access its design tools for free on education Chromebooks &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230622/p4#a230622p4)
- - [Ted Sarandos outlines Netflix&#39;s plans to spend some of the $2.5B earmarked for K-drama, including working with South Korean organizations to identify talent &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230622/p3#a230622p3)<!-- TECH:END -->
+ - [Not a sports fan? YouTube TV tests new multiview stream combos just for you.](https://www.androidauthority.com/youtube-tv-multiview-streams-3338010/)
+ - [Google Nest cameras and doorbells are down for many people &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-nest-cameras-doorbells-outage-3337222/)
+ - [Sequoia debuts Atlas, an interactive tool that uses various qualitative and quantitative data collection methods to map the European technical talent landscape &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230622/p5#a230622p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
