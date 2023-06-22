@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [E3 is not returning anytime soon](https://www.theverge.com/2023/6/22/23770393/e3-2024-2025-canceled-la-tourism)
- - [The Apple Vision Pro could come with a ‘travel mode’ for plane rides](https://www.theverge.com/2023/6/22/23770217/apple-vision-pro-travel-mode-plane-rides-vr)
- - [Microsoft was working on a separate ‘dedicated’ version of Xbox Cloud Gaming](https://www.theverge.com/2023/6/22/23770460/microsoft-xbox-xcloud-gaming-subscription)<!-- TECH:END -->
+ - [YouTube is getting AI-powered dubbing](https://www.theverge.com/2023/6/22/23769881/youtube-ai-dubbing-aloud)
+ - [AWS is investing $100M in a new program to help companies use generative AI by connecting them with AI experts, with Highspot and Twilio among its first clients &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230622/p36#a230622p36)
+ - [Hands on: All the new features in iOS 17 beta 2: AirDrop &amp; fast Haptic Touch](https://appleinsider.com/articles/23/06/22/hands-on-all-the-new-features-in-ios-17-beta-2-airdrop-fast-haptic-touch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
