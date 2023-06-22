@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - ⏩ [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 💣 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - ⏩ [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
  - 👉 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
 
 ---
