@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No title needed](http://9gag.com/gag/a1PEXmG)
- - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - 👉 [Hehe](http://9gag.com/gag/aGEODm6)<!-- MEMES:END -->
+ - ⏩ [Hehe](http://9gag.com/gag/aGEODm6)
+ - 👉 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
 
 ---
 
