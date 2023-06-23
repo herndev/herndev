@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Has A Neat Neon Genesis Evangelion Anime Nod](https://kotaku.com/final-fantasy-16-neon-genesis-evangelion-ps5-anime-1850572342)
- - [The Ladies Of The Witcher Are Storming Fortnite](https://kotaku.com/fortnite-witcher-ciri-yennefer-item-shop-vbucks-1850572369)
- - [Kotaku&#39;s Weekend Guide: 9 Awesome Games To Play](https://kotaku.com/final-fantasy-16-system-shock-zelda-totk-diablo-4-1850571987)<!-- GAME:END -->
+ - [This base-building survival game starts you off with only a single item, but luckily it&#39;s a time machine](https://www.pcgamer.com/this-base-building-survival-game-starts-you-off-with-only-a-single-item-but-luckily-its-a-time-machine)
+ - [Evil Dead Rise, Infinity Pool, Netflix’s The Perfect Find, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/23/23766978/new-movies-watch-evil-dead-rise-netflixperfect-find-max-infinity-pool-hulu)
+ - [BattleBit Remastered is dominating Steam because there&#39;s no catch: it&#39;s just a lot of game for $15](https://www.pcgamer.com/battlebit-remastered-is-dominating-steam-because-theres-no-catch-its-just-a-lot-of-game-for-dollar15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
