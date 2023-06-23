@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blood Bowl 3 debuts seasonal &#39;blood pass&#39;, gives away Lizardmen team for free](https://www.pcgamer.com/blood-bowl-3-debuts-seasonal-blood-pass-gives-away-lizardmen-team-for-free)
  - [Today&#39;s Wordle hint and answer #734: Friday, June 23](https://www.pcgamer.com/wordle-answer-today-hint-734-june-23)
- - [Our Favorite Cosplay From Dreamhack Melbourne 2023](https://kotaku.com/cosplay-gallery-melbourne-dreamhack-2023-genshin-1850568395)
- - [Magic: The Gathering&#39;s Lord of the Rings set gives the card game a mythic resonance other crossovers lacked](https://www.pcgamer.com/magic-the-gatherings-lord-of-the-rings-set-gives-the-card-game-a-mythic-resonance-other-crossovers-lacked)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dreamhack Melbourne 2023](https://kotaku.com/cosplay-gallery-melbourne-dreamhack-2023-genshin-1850568395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
