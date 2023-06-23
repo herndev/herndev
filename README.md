@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only one to save them](http://9gag.com/gag/aGEOeZZ)
- - ⏩ [Not my fault that they are funny tho](http://9gag.com/gag/awZYQWx)
- - 👉 [And can pay to remove watermark](http://9gag.com/gag/adPoqKV)<!-- MEMES:END -->
+ - 💣 [Just wondering](http://9gag.com/gag/ap9Y0YM)
+ - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
+ - 👉 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
 
 ---
 
