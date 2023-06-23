@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Garmin’s fatal flaw is it refuses to acknowledge my naps](https://www.theverge.com/2023/6/23/23771153/garmin-sleep-tracking-naps-smartwatch-wearables)
- - [How to control ChatGPT with your voice](https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/)
- - [$1,000 discount drops M1 Max 16-inch MacBook Pro &lpar;32GB RAM, 2TB SSD&rpar; to $2,699](https://appleinsider.com/articles/23/06/23/1000-discount-drops-m1-max-16-inch-macbook-pro-32gb-ram-2tb-ssd-to-2699?utm_medium=rss)<!-- TECH:END -->
+ - [The Seaweed Blob Is Heading to a Beach Near You](https://www.wired.com/story/sargassum-seaweed-blob-florida/)
+ - [A profile of Michael Kives, a Hollywood agent turned investor, as FTX&#39;s bankruptcy lawyers sue his VC firm K5 Global to recover ~$700M that SBF had invested &lpar;New York Times&rpar;](http://www.techmeme.com/230623/p18#a230623p18)
+ - [My Garmin’s fatal flaw is it refuses to acknowledge my naps](https://www.theverge.com/2023/6/23/23771153/garmin-sleep-tracking-naps-smartwatch-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
