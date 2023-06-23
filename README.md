@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How good is your math?](http://9gag.com/gag/aeQ7NvO)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [Spiderman threeway home](http://9gag.com/gag/aBdOWN1)<!-- MEMES:END -->
+ - 💣 [Requiem for a dream](http://9gag.com/gag/aDYOw6d)
+ - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 👉 [Mmmmm... hot &lpar;dog&rpar; lips](http://9gag.com/gag/aNwOAGK)<!-- MEMES:END -->
 
 ---
 
