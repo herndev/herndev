@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next stop, hell](http://9gag.com/gag/a3ZbMRm)
- - ⏩ [I was raised by the cycle path.](http://9gag.com/gag/ay2Yxjb)
- - 👉 [Very well thank you](http://9gag.com/gag/a04MbGQ)<!-- MEMES:END -->
+ - 💣 [I was raised by the cycle path.](http://9gag.com/gag/ay2Yxjb)
+ - ⏩ [Very well thank you](http://9gag.com/gag/a04MbGQ)
+ - 👉 [Relationship internship](http://9gag.com/gag/aBdOx1Q)<!-- MEMES:END -->
 
 ---
 
