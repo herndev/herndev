@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - ⏩ [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 💣 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
+ - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
  - 👉 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
 
 ---
