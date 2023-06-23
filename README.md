@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will let you toss timers all over your kitchen while cooking](https://appleinsider.com/articles/23/06/23/apple-vision-pro-will-let-you-toss-timers-all-over-your-kitchen-while-cooking?utm_medium=rss)
- - [Filing: the SEC has agreed to forego a $30M fine from bankrupt crypto lender BlockFi until after investors are repaid &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230623/p10#a230623p10)
- - [Microsoft opened the FTC hearing with a Sony bombshell](https://www.theverge.com/2023/6/23/23771047/ftc-microsoft-day-one-hearing-summary-playstation-email-xbox-exclusives-cloud)<!-- TECH:END -->
+ - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)
+ - [Accelerant, which launched a marketplace for insurance underwriters, raised $150M led by Barings at a $2.4B valuation, up from $2.2B in 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230623/p13#a230623p13)
+ - [Someone please fix the FCC, FFS](https://www.theverge.com/2023/6/23/23771255/fcc-biden-gigi-sohn-anna-gomez-nomination-confirmation-broadband)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
