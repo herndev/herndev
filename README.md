@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, check this out!](http://9gag.com/gag/aBdOYbO)
+ - 💣 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
  - ⏩ [Cthulhu?](http://9gag.com/gag/a04MdwQ)
  - 👉 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
 
