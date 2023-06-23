@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
+ - 💣 [Scott Adams says...](http://9gag.com/gag/adPopxj)
+ - ⏩ [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
+ - 👉 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
 
 ---
 
