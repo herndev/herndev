@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - ⏩ [Product is important but packaging is importanter](http://9gag.com/gag/aEqOBVK)
- - 👉 [These kids have got vibe.](http://9gag.com/gag/a1PEKA6)<!-- MEMES:END -->
+ - 💣 [The only one to save them](http://9gag.com/gag/aGEOeZZ)
+ - ⏩ [Not my fault that they are funny tho](http://9gag.com/gag/awZYQWx)
+ - 👉 [And can pay to remove watermark](http://9gag.com/gag/adPoqKV)<!-- MEMES:END -->
 
 ---
 
