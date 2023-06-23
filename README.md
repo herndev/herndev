@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder Is Full Of Amazing Little Details](https://kotaku.com/super-mario-bros-wonder-nintendo-switch-2d-graphics-1850571917)
- - [Controversial World Of Warcraft Quest Removed After Fan Backlash](https://kotaku.com/world-of-warcraft-ptr-alexstrasza-quest-a-missing-soul-1850571919)
- - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)<!-- GAME:END -->
+ - [Final Fantasy XVI Has A Neat Neon Genesis Evangelion Anime Nod](https://kotaku.com/final-fantasy-16-neon-genesis-evangelion-ps5-anime-1850572342)
+ - [The Ladies Of The Witcher Are Storming Fortnite](https://kotaku.com/fortnite-witcher-ciri-yennefer-item-shop-vbucks-1850572369)
+ - [Kotaku&#39;s Weekend Guide: 9 Awesome Games To Play](https://kotaku.com/final-fantasy-16-system-shock-zelda-totk-diablo-4-1850571987)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
