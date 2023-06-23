@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal court sentences UK citizen Joseph James O&#39;Connor to five years in prison for his role in the July 2020 Twitter hack affecting high-profile accounts &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230623/p24#a230623p24)
- - [Google adds a Perspectives tab to search results, with information that people have posted on YouTube, Reddit, and more, after announcing the feature in May &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230623/p23#a230623p23)
- - [Midjourney adds a &quot;zoom out&quot; feature that builds out a larger scene around images generated within Midjourney, simulating zooming out with a camera lens &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230623/p22#a230623p22)<!-- TECH:END -->
+ - [Save $100 to $200 on Apple&#39;s MacBook Air 15-inch &amp; M2 Mac Studio, plus AppleCare discount](https://appleinsider.com/articles/23/06/23/save-114-to-200-on-apples-macbook-air-15-inch-m2-mac-studio-plus-applecare-discount?utm_medium=rss)
+ - [The 5 Best Cheap Qi Wireless Charging Pads Under $20     - CNET](https://www.cnet.com/tech/mobile/best-cheap-qi-wireless-charging-pads-under-20/#ftag=CAD590a51e)
+ - [A US federal court sentences UK citizen Joseph James O&#39;Connor to five years in prison for his role in the July 2020 Twitter hack affecting high-profile accounts &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230623/p24#a230623p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
