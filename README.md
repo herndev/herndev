@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)
- - [Apple Card may launch next in India](https://appleinsider.com/articles/23/06/23/apple-card-may-launch-next-in-india?utm_medium=rss)
- - [Facebook shutters news rather than pay up under new Canadian law](https://appleinsider.com/articles/23/06/23/facebook-shutters-news-rather-than-pay-up-under-new-canadian-law?utm_medium=rss)<!-- TECH:END -->
+ - [Internal records undercut claims that Twitter censored pro-Trump content before the Capitol riot and show a reluctance to suspend Trump&#39;s account until Jan. 8 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230623/p7#a230623p7)
+ - [Galaxy S24 codenames suggest Samsung hasn’t killed Plus model](https://www.androidauthority.com/samsung-galaxy-s24-series-codename-3338566/)
+ - [JPMorgan expands its JPM Coin, launched in 2019 for USD transactions, to euro payments; the digital token has been used to process ~$300B in transactions so far &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230623/p6#a230623p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
