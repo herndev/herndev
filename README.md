@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 👉 [Just wondering](http://9gag.com/gag/ap9Y0YM)<!-- MEMES:END -->
+ - 💣 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - ⏩ [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
 
 ---
 
