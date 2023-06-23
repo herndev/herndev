@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Requiem for a dream](http://9gag.com/gag/aDYOw6d)
- - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 👉 [Mmmmm... hot &lpar;dog&rpar; lips](http://9gag.com/gag/aNwOAGK)<!-- MEMES:END -->
+ - 💣 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
 
 ---
 
