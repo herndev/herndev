@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - ⏩ [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)
- - 👉 [Olivia Casta](http://9gag.com/gag/a1PEMXP)<!-- MEMES:END -->
+ - 💣 [Mom, check this out!](http://9gag.com/gag/aBdOYbO)
+ - ⏩ [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 👉 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
 
 ---
 
