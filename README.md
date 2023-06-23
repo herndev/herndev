@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is getting AI-powered dubbing](https://www.theverge.com/2023/6/22/23769881/youtube-ai-dubbing-aloud)
- - [AWS is investing $100M in a new program to help companies use generative AI by connecting them with AI experts, with Highspot and Twilio among its first clients &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230622/p36#a230622p36)
- - [Hands on: All the new features in iOS 17 beta 2: AirDrop &amp; fast Haptic Touch](https://appleinsider.com/articles/23/06/22/hands-on-all-the-new-features-in-ios-17-beta-2-airdrop-fast-haptic-touch?utm_medium=rss)<!-- TECH:END -->
+ - [In a private email, PlayStation chief Jim Ryan said the Microsoft-Activision deal wasn&#39;t about Xbox exclusives, countering Sony&#39;s public arguments and filings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230622/p38#a230622p38)
+ - [Meta is yanking news from Facebook and Instagram in Canada](https://www.theverge.com/2023/6/22/23770620/meta-news-facebook-instagram-canada-online-news-act)
+ - [YouTube updates its policy for fan channels, requiring them to make it obvious in their name or handle that they&#39;re fan accounts, effective August 21, 2023 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/230622/p37#a230622p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
