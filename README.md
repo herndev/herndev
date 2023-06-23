@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to remember from The Witcher season 2 before diving into season 3](https://www.polygon.com/23768508/witcher-season-3-2-ending-what-happened)
- - [Final Fantasy XVI&#39;s RPG Elements Are Barely There](https://kotaku.com/final-fantasy-16-xvi-rpg-combat-action-square-enix-ps5-1850567705)
- - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
+ - [How to get deeper into Magic: The Gathering with Tales of Middle-earth](https://www.polygon.com/deals/23766947/magic-the-gathering-tales-of-middle-earth-lotr-deck-analysis-building-photos)
+ - [Where to buy Magic: The Gathering’s LOTR-themed cards](https://www.polygon.com/deals/23736507/mtg-lotr-magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-set-amazon-where-to-buy)
+ - [Slender Man teases a spooky return after a decade in the shadows](https://www.pcgamer.com/slender-man-teases-a-spooky-return-after-a-decade-in-the-shadows)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
