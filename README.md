@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - ⏩ [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
+ - 💣 [How good is your math?](http://9gag.com/gag/aeQ7NvO)
+ - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 👉 [Spiderman threeway home](http://9gag.com/gag/aBdOWN1)<!-- MEMES:END -->
 
 ---
 
