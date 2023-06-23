@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 9 years of waiting, horse fans are underwhelmed by the Sims 4 Horse Ranch expansion reveal](https://www.pcgamer.com/after-9-years-of-waiting-horse-fans-are-underwhelmed-by-the-sims-4-horse-ranch-expansion-reveal)
- - [For Deus Ex&#39;s 23rd Anniversary, its most chaotic mod is literally flipping the script with a new mirror mode](https://www.pcgamer.com/for-deus-exs-23rd-anniversary-its-most-chaotic-mod-is-literally-flipping-the-script-with-a-new-mirror-mode)
- - [Filthy Diablo 4 infinite spawn glitch makes it rain loot for as long as you want](https://www.pcgamer.com/filthy-diablo-4-infinite-spawn-glitch-makes-it-rain-loot-for-as-long-as-you-want)<!-- GAME:END -->
+ - [Yes, Secret Invasion’s opening credits scene is AI-made — here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)
+ - [This solo developer can&#39;t stop making his own riffs on famous stealth games, and his next looks like the best one yet](https://www.pcgamer.com/this-solo-developer-cant-stop-making-his-own-riffs-on-famous-stealth-games-and-his-next-looks-like-the-best-one-yet)
+ - [After 9 years of waiting, horse fans are underwhelmed by the Sims 4 Horse Ranch expansion reveal](https://www.pcgamer.com/after-9-years-of-waiting-horse-fans-are-underwhelmed-by-the-sims-4-horse-ranch-expansion-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
