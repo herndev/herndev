@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is in talks to launch Apple Card in India, meeting with HDFC and the RBI; a source says Apple is holding discussions with the NPCI over Apple Pay &lpar;Anand J/Moneycontrol&rpar;](http://www.techmeme.com/230623/p3#a230623p3)
- - [NFC technology is getting better range and charging capabilities](https://www.theverge.com/2023/6/23/23770472/nfc-forum-near-field-communications-roadmap-2028)
- - [Poll: Do you think your phone is listening to you for ad purposes?](https://www.androidauthority.com/phone-listening-to-you-ads-poll-3338484/)<!-- TECH:END -->
+ - [The OPPO Find N3 Flip could be the best clamshell foldable for cameras](https://www.androidauthority.com/oppo-find-n3-flip-renders-3338497/)
+ - [A look at Apple Vision Pro features based on the visionOS SDK, including a &quot;Moving at Unsafe Speed&quot; alert, a &quot;Travel Mode&quot; for airplanes, and a &quot;Guest Mode&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230623/p4#a230623p4)
+ - [YouTube is making it easier for creators to choose that perfect thumbnail](https://www.theverge.com/2023/6/23/23771045/youtube-test-and-compare-a-b-testing-thumbnails-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
