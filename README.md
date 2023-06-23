@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Microsoft Surface Pro 9 drops to within $7 of its all-time low](https://www.androidauthority.com/microsoft-surface-pro-9-deal-3338702/)
- - [Google plans to update Android&#39;s Emergency SOS after UK police blame the feature, activated by repeatedly pressing a side button, for a surge in false 999 calls &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230623/p15#a230623p15)
- - [Those Nothing Phone 2 renders might be totally wrong](https://www.androidauthority.com/nothing-phone-2-selfie-camera-3338708/)<!-- TECH:END -->
+ - [My Garmin’s fatal flaw is it refuses to acknowledge my naps](https://www.theverge.com/2023/6/23/23771153/garmin-sleep-tracking-naps-smartwatch-wearables)
+ - [How to control ChatGPT with your voice](https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/)
+ - [$1,000 discount drops M1 Max 16-inch MacBook Pro &lpar;32GB RAM, 2TB SSD&rpar; to $2,699](https://appleinsider.com/articles/23/06/23/1000-discount-drops-m1-max-16-inch-macbook-pro-32gb-ram-2tb-ssd-to-2699?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
