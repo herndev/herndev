@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
- - [Escape From Tarkov studio threatens to ban anyone who shares information gained from &#39;illegal datamining&#39;](https://www.pcgamer.com/escape-from-tarkov-studio-threatens-to-ban-anyone-who-shares-information-gained-from-illegal-datamining)
- - [Starfield could have been a PS5 exclusive, says Xbox exec](https://www.polygon.com/23771681/starfield-ps5-exclusivity-xbox-ftc-hearing)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder Is Full Of Amazing Little Details](https://kotaku.com/super-mario-bros-wonder-nintendo-switch-2d-graphics-1850571917)
+ - [Controversial World Of Warcraft Quest Removed After Fan Backlash](https://kotaku.com/world-of-warcraft-ptr-alexstrasza-quest-a-missing-soul-1850571919)
+ - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
