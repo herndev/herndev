@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - ⏩ [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
+ - 💣 [Just wondering](http://9gag.com/gag/ap9Y0YM)
+ - ⏩ [Olivia Casta](http://9gag.com/gag/a1PEMXP)
+ - 👉 [Western European moment...](http://9gag.com/gag/az2YLON)<!-- MEMES:END -->
 
 ---
 
