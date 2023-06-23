@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 players are experiencing a bug that removes men](https://www.polygon.com/23771548/sims-4-men-missing-invisible-glitch)
- - [Street Fighter 6’s Modern Controls Are Great For The Game](https://kotaku.com/street-fighter-6-modern-classic-controls-capcom-1850570729)
- - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)<!-- GAME:END -->
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
+ - [Escape From Tarkov studio threatens to ban anyone who shares information gained from &#39;illegal datamining&#39;](https://www.pcgamer.com/escape-from-tarkov-studio-threatens-to-ban-anyone-who-shares-information-gained-from-illegal-datamining)
+ - [Starfield could have been a PS5 exclusive, says Xbox exec](https://www.polygon.com/23771681/starfield-ps5-exclusivity-xbox-ftc-hearing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
