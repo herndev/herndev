@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
+ - ⏩ [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 👉 [Just wondering](http://9gag.com/gag/ap9Y0YM)<!-- MEMES:END -->
 
 ---
 
