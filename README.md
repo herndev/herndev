@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wondering](http://9gag.com/gag/ap9Y0YM)
- - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - 👉 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
+ - 💣 [Next stop, hell](http://9gag.com/gag/a3ZbMRm)
+ - ⏩ [I was raised by the cycle path.](http://9gag.com/gag/ay2Yxjb)
+ - 👉 [Very well thank you](http://9gag.com/gag/a04MbGQ)<!-- MEMES:END -->
 
 ---
 
