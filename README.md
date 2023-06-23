@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players salivate as Todd Howard confirms Starfield will be a &#39;modder&#39;s paradise&#39; that Bethesda will &#39;participate&#39; in](https://www.pcgamer.com/players-salivate-as-todd-howard-confirms-starfield-will-be-a-modders-paradise-that-bethesda-will-participate-in)
- - [June Updates for the Xbox App on PC](https://news.xbox.com/en-us/2023/06/23/xbox-app-pc-june-updates/)
- - [Acer Predator Helios 16](https://www.pcgamer.com/acer-predator-helios-16-review-benchmarks)<!-- GAME:END -->
+ - [Forget Diablo 4, the best way to play the original Diablo just got a meaty update](https://www.pcgamer.com/forget-diablo-4-the-best-way-to-play-the-original-diablo-just-got-a-meaty-update)
+ - [The Diablo 4 team confirms DirectStorage isn&#39;t in the game &#39;but we are planning on enabling it in the future&#39;](https://www.pcgamer.com/the-diablo-4-team-confirms-directstorage-isnt-in-the-game-but-we-are-planning-on-enabling-it-in-the-future)
+ - [The ESA insists E3 isn&#39;t dead despite the city of Los Angeles saying otherwise](https://www.pcgamer.com/the-esa-insists-e3-isnt-dead-despite-the-city-of-los-angeles-saying-otherwise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
