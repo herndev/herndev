@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friends... Oh wait!](http://9gag.com/gag/agoEvjg)
- - ⏩ [No title needed](http://9gag.com/gag/a1PEXmG)
- - 👉 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
+ - 💣 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - ⏩ [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 👉 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
 
 ---
 
