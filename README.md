@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal records undercut claims that Twitter censored pro-Trump content before the Capitol riot and show a reluctance to suspend Trump&#39;s account until Jan. 8 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230623/p7#a230623p7)
- - [Galaxy S24 codenames suggest Samsung hasn’t killed Plus model](https://www.androidauthority.com/samsung-galaxy-s24-series-codename-3338566/)
- - [JPMorgan expands its JPM Coin, launched in 2019 for USD transactions, to euro payments; the digital token has been used to process ~$300B in transactions so far &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230623/p6#a230623p6)<!-- TECH:END -->
+ - [Marvel’s &#39;Secret Invasion&#39; AI Scandal Is Strangely Hopeful](https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/)
+ - [Get Ready for the Battle of the Metaverses](https://www.wired.com/story/plaintext-get-ready-for-the-battle-of-the-metaverses/)
+ - [Exploring visionOS for Apple Vision Pro, iOS 17 Beta 2, and Apple Tech for Travel](https://appleinsider.com/articles/23/06/23/exploring-visionos-for-apple-vision-pro-ios-17-beta-2-and-apple-tech-for-travel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
