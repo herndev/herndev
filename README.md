@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a private email, PlayStation chief Jim Ryan said the Microsoft-Activision deal wasn&#39;t about Xbox exclusives, countering Sony&#39;s public arguments and filings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230622/p38#a230622p38)
- - [Meta is yanking news from Facebook and Instagram in Canada](https://www.theverge.com/2023/6/22/23770620/meta-news-facebook-instagram-canada-online-news-act)
- - [YouTube updates its policy for fan channels, requiring them to make it obvious in their name or handle that they&#39;re fan accounts, effective August 21, 2023 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/230622/p37#a230622p37)<!-- TECH:END -->
+ - [100+ artists including Tom Morello call for a facial recognition ban at live events and pledge to boycott venues using the tech, citing privacy and bias risks &lpar;Ethan Millman/Rolling Stone&rpar;](http://www.techmeme.com/230622/p39#a230622p39)
+ - [Reddit pressures mods to end the blackout as they find new ways to protest](https://www.theverge.com/2023/6/22/23770480/reddit-blackout-protest-pressure-mods-change-rules)
+ - [In a private email, PlayStation chief Jim Ryan said the Microsoft-Activision deal wasn&#39;t about Xbox exclusives, countering Sony&#39;s public arguments and filings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230622/p38#a230622p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
