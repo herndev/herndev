@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #734: Friday, June 23](https://www.pcgamer.com/wordle-answer-today-hint-734-june-23)
  - [Our Favorite Cosplay From Dreamhack Melbourne 2023](https://kotaku.com/cosplay-gallery-melbourne-dreamhack-2023-genshin-1850568395)
- - [Magic: The Gathering&#39;s Lord of the Rings set gives the card game a mythic resonance other crossovers lacked](https://www.pcgamer.com/magic-the-gatherings-lord-of-the-rings-set-gives-the-card-game-a-mythic-resonance-other-crossovers-lacked)
- - [Yes, Secret Invasion’s opening credits scene is AI-made — here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s Lord of the Rings set gives the card game a mythic resonance other crossovers lacked](https://www.pcgamer.com/magic-the-gatherings-lord-of-the-rings-set-gives-the-card-game-a-mythic-resonance-other-crossovers-lacked)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
