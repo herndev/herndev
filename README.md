@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wondering](http://9gag.com/gag/ap9Y0YM)
- - ⏩ [Olivia Casta](http://9gag.com/gag/a1PEMXP)
- - 👉 [Western European moment...](http://9gag.com/gag/az2YLON)<!-- MEMES:END -->
+ - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - ⏩ [Product is important but packaging is importanter](http://9gag.com/gag/aEqOBVK)
+ - 👉 [These kids have got vibe.](http://9gag.com/gag/a1PEKA6)<!-- MEMES:END -->
 
 ---
 
