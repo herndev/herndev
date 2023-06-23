@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Across the Spider-Verse’s animators allegedly worked under harsh, unsustainable conditions](https://www.theverge.com/2023/6/23/23771199/across-the-spider-verse-working-conditions-phil-lord)
- - [EvaluAgent, which is developing quality assurance testing software for call centers, raised a $20M Series A led by PeakSpan, bringing its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230623/p14#a230623p14)
- - [Apple iPhone 15 chip manufacturing may shift to a less expensive track](https://appleinsider.com/articles/23/06/23/apple-iphone-15-chip-manufacturing-may-shift-to-a-less-expensive-track?utm_medium=rss)<!-- TECH:END -->
+ - [The Microsoft Surface Pro 9 drops to within $7 of its all-time low](https://www.androidauthority.com/microsoft-surface-pro-9-deal-3338702/)
+ - [Google plans to update Android&#39;s Emergency SOS after UK police blame the feature, activated by repeatedly pressing a side button, for a surge in false 999 calls &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230623/p15#a230623p15)
+ - [Those Nothing Phone 2 renders might be totally wrong](https://www.androidauthority.com/nothing-phone-2-selfie-camera-3338708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
