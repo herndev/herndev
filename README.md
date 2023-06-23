@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel’s &#39;Secret Invasion&#39; AI Scandal Is Strangely Hopeful](https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/)
- - [Get Ready for the Battle of the Metaverses](https://www.wired.com/story/plaintext-get-ready-for-the-battle-of-the-metaverses/)
- - [Exploring visionOS for Apple Vision Pro, iOS 17 Beta 2, and Apple Tech for Travel](https://appleinsider.com/articles/23/06/23/exploring-visionos-for-apple-vision-pro-ios-17-beta-2-and-apple-tech-for-travel?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro will let you toss timers all over your kitchen while cooking](https://appleinsider.com/articles/23/06/23/apple-vision-pro-will-let-you-toss-timers-all-over-your-kitchen-while-cooking?utm_medium=rss)
+ - [Filing: the SEC has agreed to forego a $30M fine from bankrupt crypto lender BlockFi until after investors are repaid &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230623/p10#a230623p10)
+ - [Microsoft opened the FTC hearing with a Sony bombshell](https://www.theverge.com/2023/6/23/23771047/ftc-microsoft-day-one-hearing-summary-playstation-email-xbox-exclusives-cloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
