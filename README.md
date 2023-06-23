@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Diablo 4, the best way to play the original Diablo just got a meaty update](https://www.pcgamer.com/forget-diablo-4-the-best-way-to-play-the-original-diablo-just-got-a-meaty-update)
- - [The Diablo 4 team confirms DirectStorage isn&#39;t in the game &#39;but we are planning on enabling it in the future&#39;](https://www.pcgamer.com/the-diablo-4-team-confirms-directstorage-isnt-in-the-game-but-we-are-planning-on-enabling-it-in-the-future)
- - [The ESA insists E3 isn&#39;t dead despite the city of Los Angeles saying otherwise](https://www.pcgamer.com/the-esa-insists-e3-isnt-dead-despite-the-city-of-los-angeles-saying-otherwise)<!-- GAME:END -->
+ - [What to remember from The Witcher season 2 before diving into season 3](https://www.polygon.com/23768508/witcher-season-3-2-ending-what-happened)
+ - [Final Fantasy XVI&#39;s RPG Elements Are Barely There](https://kotaku.com/final-fantasy-16-xvi-rpg-combat-action-square-enix-ps5-1850567705)
+ - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
