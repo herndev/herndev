@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title needed](http://9gag.com/gag/a1PEXmG)
- - ⏩ [Hehe](http://9gag.com/gag/aGEODm6)
+ - 💣 [Hehe](http://9gag.com/gag/aGEODm6)
+ - ⏩ [No title needed](http://9gag.com/gag/a1PEXmG)
  - 👉 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
 
 ---
