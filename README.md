@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was raised by the cycle path.](http://9gag.com/gag/ay2Yxjb)
- - ⏩ [Very well thank you](http://9gag.com/gag/a04MbGQ)
- - 👉 [Relationship internship](http://9gag.com/gag/aBdOx1Q)<!-- MEMES:END -->
+ - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - ⏩ [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)
+ - 👉 [Olivia Casta](http://9gag.com/gag/a1PEMXP)<!-- MEMES:END -->
 
 ---
 
