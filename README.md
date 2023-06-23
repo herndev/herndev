@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus Dual GeForce RTX 4060 Ti OC](https://www.pcgamer.com/asus-dual-geforce-rtx-4060-ti-review-performance)
- - [Blood Bowl 3 debuts seasonal &#39;blood pass&#39;, gives away Lizardmen team for free](https://www.pcgamer.com/blood-bowl-3-debuts-seasonal-blood-pass-gives-away-lizardmen-team-for-free)
- - [Today&#39;s Wordle hint and answer #734: Friday, June 23](https://www.pcgamer.com/wordle-answer-today-hint-734-june-23)<!-- GAME:END -->
+ - [Players salivate as Todd Howard confirms Starfield will be a &#39;modder&#39;s paradise&#39; that Bethesda will &#39;participate&#39; in](https://www.pcgamer.com/players-salivate-as-todd-howard-confirms-starfield-will-be-a-modders-paradise-that-bethesda-will-participate-in)
+ - [June Updates for the Xbox App on PC](https://news.xbox.com/en-us/2023/06/23/xbox-app-pc-june-updates/)
+ - [Acer Predator Helios 16](https://www.pcgamer.com/acer-predator-helios-16-review-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
