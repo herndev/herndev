@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wondering](http://9gag.com/gag/ap9Y0YM)
- - ⏩ [Pov: You are dreaming](http://9gag.com/gag/adPoqBj)
- - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
+ - 💣 [Best friends... Oh wait!](http://9gag.com/gag/agoEvjg)
+ - ⏩ [No title needed](http://9gag.com/gag/a1PEXmG)
+ - 👉 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
 
 ---
 
