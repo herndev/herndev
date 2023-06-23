@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free RPG Day has gone to the dogs: the best games and free adventures for 2023](https://www.polygon.com/tabletop-games/23768560/when-is-free-rpg-day-2023-preview)
- - [Final Fantasy XVI’s Cid Is The Game’s Breakout Star](https://kotaku.com/final-fantasy-16-cid-voice-actor-ralph-ineson-ramuh-1850570377)
- - [Here’s where you can pre-order the Super Mario RPG](https://www.polygon.com/deals/23769911/super-mario-rpg-pre-order-buy-nintendo-switch)<!-- GAME:END -->
+ - [The Hideo Kojima Documentary Is The Worst Kind Of Fan Service](https://kotaku.com/hideo-kojima-connecting-worlds-review-death-stranding-1850570684)
+ - [Tough break for Team Triss as The Witcher’s Yennefer and Ciri added to Fortnite](https://www.polygon.com/fortnite/23771431/witcher-3-fortnite-ciri-yennefer-triss)
+ - [Amazon Prime Is Giving Away Some Pretty Good PC Games, Overwatch Levels For Free](https://kotaku.com/amazon-prime-day-free-prey-redfall-overwatch-2-diablo-4-1850570632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
