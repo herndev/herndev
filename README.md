@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the FTC v. Microsoft hearing, Phil Spencer says Microsoft bought ZeniMax for $7.5B to stop Starfield and other Bethesda games becoming PlayStation exclusives &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230623/p21#a230623p21)
- - [Google is launching its Perspectives search feed that’s designed to show results from humans](https://www.theverge.com/2023/6/23/23771826/google-perspectives-search-feed-tab-humans-reddit)
- - [E3 is dead — how big was it, anyhow?](https://www.theverge.com/2023/6/23/22568841/e3-los-angeles-attendees-hotel-nights-economic-impact)<!-- TECH:END -->
+ - [A US federal court sentences UK citizen Joseph James O&#39;Connor to five years in prison for his role in the July 2020 Twitter hack affecting high-profile accounts &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230623/p24#a230623p24)
+ - [Google adds a Perspectives tab to search results, with information that people have posted on YouTube, Reddit, and more, after announcing the feature in May &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230623/p23#a230623p23)
+ - [Midjourney adds a &quot;zoom out&quot; feature that builds out a larger scene around images generated within Midjourney, simulating zooming out with a camera lens &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230623/p22#a230623p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
