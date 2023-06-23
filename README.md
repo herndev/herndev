@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OPPO Find N3 Flip could be the best clamshell foldable for cameras](https://www.androidauthority.com/oppo-find-n3-flip-renders-3338497/)
- - [A look at Apple Vision Pro features based on the visionOS SDK, including a &quot;Moving at Unsafe Speed&quot; alert, a &quot;Travel Mode&quot; for airplanes, and a &quot;Guest Mode&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230623/p4#a230623p4)
- - [YouTube is making it easier for creators to choose that perfect thumbnail](https://www.theverge.com/2023/6/23/23771045/youtube-test-and-compare-a-b-testing-thumbnails-feature)<!-- TECH:END -->
+ - [How to add widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)
+ - [Apple Card may launch next in India](https://appleinsider.com/articles/23/06/23/apple-card-may-launch-next-in-india?utm_medium=rss)
+ - [Facebook shutters news rather than pay up under new Canadian law](https://appleinsider.com/articles/23/06/23/facebook-shutters-news-rather-than-pay-up-under-new-canadian-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
