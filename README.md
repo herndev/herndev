@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)
- - [Accelerant, which launched a marketplace for insurance underwriters, raised $150M led by Barings at a $2.4B valuation, up from $2.2B in 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230623/p13#a230623p13)
- - [Someone please fix the FCC, FFS](https://www.theverge.com/2023/6/23/23771255/fcc-biden-gigi-sohn-anna-gomez-nomination-confirmation-broadband)<!-- TECH:END -->
+ - [Across the Spider-Verse’s animators allegedly worked under harsh, unsustainable conditions](https://www.theverge.com/2023/6/23/23771199/across-the-spider-verse-working-conditions-phil-lord)
+ - [EvaluAgent, which is developing quality assurance testing software for call centers, raised a $20M Series A led by PeakSpan, bringing its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230623/p14#a230623p14)
+ - [Apple iPhone 15 chip manufacturing may shift to a less expensive track](https://appleinsider.com/articles/23/06/23/apple-iphone-15-chip-manufacturing-may-shift-to-a-less-expensive-track?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
