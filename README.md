@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scott Adams says...](http://9gag.com/gag/adPopxj)
- - ⏩ [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
- - 👉 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
+ - 💣 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - ⏩ [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
+ - 👉 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
 
 ---
 
