@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get deeper into Magic: The Gathering with Tales of Middle-earth](https://www.polygon.com/deals/23766947/magic-the-gathering-tales-of-middle-earth-lotr-deck-analysis-building-photos)
- - [Where to buy Magic: The Gathering’s LOTR-themed cards](https://www.polygon.com/deals/23736507/mtg-lotr-magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-set-amazon-where-to-buy)
- - [Slender Man teases a spooky return after a decade in the shadows](https://www.pcgamer.com/slender-man-teases-a-spooky-return-after-a-decade-in-the-shadows)<!-- GAME:END -->
+ - [Clone High season 2 turned into exactly the show it used to parody](https://www.polygon.com/23769875/clone-high-season-2-review)
+ - [Controversial World of Warcraft quest removed from test realms](https://www.polygon.com/23770396/world-of-warcraft-dragonflight-fractures-in-time-ptr-alexstrasza-quest)
+ - [Intel China makes 14th Gen Raptor Lake Refresh CPU official](https://www.pcgamer.com/intel-china-makes-14th-gen-raptor-lake-refresh-cpu-official)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
