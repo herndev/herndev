@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphones could soon have 24GB of RAM, because reasons](https://www.androidauthority.com/24gb-ram-smartphones-3338968/)
- - [You can now get the Samsung Galaxy Buds 2 and Buds 2 Pro in new Pokémon cases](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-pokemon-pack-3338971/)
- - [An interview with early Waze investors Yahal Zilka and Ehud Levy on why they invested, the impact of Google&#39;s acquisition on Israel&#39;s tech industry, and more &lpar;Yuval Mann/Ynetnews&rpar;](http://www.techmeme.com/230626/p2#a230626p2)<!-- TECH:END -->
+ - [Amazon’s New Robots Are Rolling Out an Automation Revolution](https://www.wired.com/story/amazons-new-robots-automation-revolution/)
+ - [Blind: ~56% of US tech workers would accept equal or less pay in a new role, and ~45% of those say the uncertain job market is the main reason they would do so &lpar;Grace Kay/Insider&rpar;](http://www.techmeme.com/230626/p3#a230626p3)
+ - [White House announces $40 billion in broadband funding](https://www.theverge.com/2023/6/26/23773434/broadband-funding-biden-white-house-ntia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
