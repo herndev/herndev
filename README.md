@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to defeat Molduga in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23774323/molduga-boss-fight-how-to-defeat)
- - [‘The Missing Owner’ side quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23772779/missing-owner-side-quest-steps)
- - [This mod mashes up five factions from Command and Conquer&#39;s past into one giant brawl](https://www.pcgamer.com/this-mod-mashes-up-five-factions-from-command-and-conquers-past-into-one-giant-brawl)<!-- GAME:END -->
+ - [Cities: Skyline 2&#39;s simulation is so realistic that all the young people are broke](https://www.pcgamer.com/cities-skyline-2s-simulation-is-so-realistic-that-all-the-young-people-are-broke)
+ - [Tears Of The Kingdom Players Determine Link’s Weight Is 10 Apples](https://kotaku.com/tears-of-the-kingdom-totk-link-weight-physics-1850578752)
+ - [Pikmin 4 takes the series to new depths, with fewer dead soldiers](https://www.polygon.com/23773815/pikmin-4-preview-dandori-nintendo-switch-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
