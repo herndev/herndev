@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)
- - ⏩ [Anyone hiring?](http://9gag.com/gag/axoYoLD)
- - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a8qK7nO)
+ - ⏩ [I&#39;m also fat and ugly](http://9gag.com/gag/ajVW73G)
+ - 👉 [ANYONE WITH A BRAIN KNOWS THAT!](http://9gag.com/gag/aqeYRZL)<!-- MEMES:END -->
 
 ---
 
