@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hope, fear, and AI](https://www.theverge.com/c/23753704/ai-chatgpt-data-survey-research)
- - [The best Apple headphones for travelers](https://appleinsider.com/articles/23/06/26/the-best-apple-headphones-for-travelers?utm_medium=rss)
- - [Lucid Motors strikes deal to power Aston Martin’s future lineup of EVs](https://www.theverge.com/2023/6/26/23773793/lucid-aston-martin-ev-powertrain-supply-deal)<!-- TECH:END -->
+ - [Snapdragon 4 Gen 2 launched: Light on power, but what about efficiency?](https://www.androidauthority.com/snapdragon-4-gen-2-3338218/)
+ - [The Verge and Vox Media Release New Consumer Research on Artificial Intelligence](https://www.theverge.com/2023/6/26/23773963/the-verge-and-vox-media-release-new-consumer-research-on-artificial-intelligence)
+ - [You can already save 18% on the Galaxy Watch 5 Bespoke Edition](https://www.androidauthority.com/galaxy-watch-5-bespoke-edition-deal-3339221/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
