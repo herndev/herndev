@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Controversial World of Warcraft quest removed from test realms](https://www.polygon.com/23770396/world-of-warcraft-dragonflight-fractures-in-time-ptr-alexstrasza-quest)
- - [Barbie-Themed Xbox And Controllers Are Too Good To Not Sell](https://kotaku.com/barbie-movie-xbox-controllers-forza-horizon-5-pink-car-1850576950)
- - [Starfield Would Have Taken Even Longer If It Was Also On PS5, Bethesda Says](https://kotaku.com/starfield-exclusive-xbox-ps5-delay-release-date-1850576836)<!-- GAME:END -->
+ - [Save A Ton On Game Pass Subscriptions Ahead Of The Price Hike](https://kotaku.com/xbox-game-pass-deal-discount-cheap-save-starfield-1850577161)
+ - [Diablo IV’s Secret Endings May Tease The Game’s Future](https://kotaku.com/diablo-4-secret-post-credit-ending-mephisto-lucion-dlc-1850577092)
+ - [Studio Behind One Of 2023’s Best Games Just Laid Off A Ton Of Devs](https://kotaku.com/ps5-indie-season-darwin-project-layoffs-game-pass-1850577077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
