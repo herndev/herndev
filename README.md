@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/amApWz9)
- - ⏩ [Yeah](http://9gag.com/gag/aREOEj2)
- - 👉 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)<!-- MEMES:END -->
+ - 💣 [Anyone hiring?](http://9gag.com/gag/axoYoLD)
+ - ⏩ [Jelly](http://9gag.com/gag/aBdOLLO)
+ - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
 
 ---
 
