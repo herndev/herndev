@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
- - ⏩ [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)
- - 👉 [Anyone hiring?](http://9gag.com/gag/axoYoLD)<!-- MEMES:END -->
+ - 💣 [Yeah](http://9gag.com/gag/aREOEj2)
+ - ⏩ [Using your child to attempt to smuggle drugs into jail](http://9gag.com/gag/aMEOdLG)
+ - 👉 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)<!-- MEMES:END -->
 
 ---
 
