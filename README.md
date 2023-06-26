@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity is going well in Ireland](http://9gag.com/gag/adPoPBD)
- - ⏩ [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
- - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
+ - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
+ - ⏩ [Diversity is going well in Ireland](http://9gag.com/gag/adPoPBD)
+ - 👉 [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)<!-- MEMES:END -->
 
 ---
 
