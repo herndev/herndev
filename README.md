@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New affordable HomeKit sensors from Ikea are coming soon](https://appleinsider.com/articles/23/06/26/two-new-inexpensive-homekit-sensors-are-coming-from-ikea-soon?utm_medium=rss)
- - [Meta announces Quest Plus, a subscription for VR games where users &quot;get two titles every month&quot; for $7.99/month or $59.99/year, for Quest 2 and Quest Pro &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230626/p16#a230626p16)
- - [AI is killing the old web, and the new web struggles to be born](https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web)<!-- TECH:END -->
+ - [Google Pixel Fold review: closing the gap](https://www.theverge.com/23773594/google-pixel-fold-review-screen-battery-hinge-camera)
+ - [Giant 30-inch iMac, iPhone 15, OLED iPads: Apple&#39;s roadmap for 2023-2024](https://appleinsider.com/articles/23/06/26/giant-30-inch-imac-iphone-15-oled-ipads-apples-roadmap-for-2023-2024?utm_medium=rss)
+ - [The Witcher season 3: all the news on Henry Cavill’s final days as Geralt](https://www.theverge.com/23774152/the-witcher-season-3-netflix-trailers-news-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
