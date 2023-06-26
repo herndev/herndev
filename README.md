@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hayden Panettiere](http://9gag.com/gag/avQdoWn)
- - ⏩ [Anyone hiring?](http://9gag.com/gag/axoYoLD)
- - 👉 [The ultimate reverse card](http://9gag.com/gag/aL1d036)<!-- MEMES:END -->
+ - 💣 [Run](http://9gag.com/gag/a9qORvL)
+ - ⏩ [We\u2019re getting close folks!](http://9gag.com/gag/a8qKAWQ)
+ - 👉 [Using your child to attempt to smuggle drugs into jail](http://9gag.com/gag/aMEOdLG)<!-- MEMES:END -->
 
 ---
 
