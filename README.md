@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
- - ⏩ [I saw this in my friend\u2019s sister&#39;s room, and she says its a rechargeable hammer.](http://9gag.com/gag/aqeY8MY)
- - 👉 [Anyone hiring?](http://9gag.com/gag/axoYoLD)<!-- MEMES:END -->
+ - 💣 [Japan did it again](http://9gag.com/gag/a6qjDBe)
+ - ⏩ [Improvise](http://9gag.com/gag/arm2Agd)
+ - 👉 [Oh no](http://9gag.com/gag/anzrnd5)<!-- MEMES:END -->
 
 ---
 
