@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)
- - ⏩ [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)
- - 👉 [Using your child to attempt to smuggle drugs into jail](http://9gag.com/gag/aMEOdLG)<!-- MEMES:END -->
+ - ⏩ [Anyone hiring?](http://9gag.com/gag/axoYoLD)
+ - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
 
 ---
 
