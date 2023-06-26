@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lindsey Pelas](http://9gag.com/gag/aA0Oybo)
- - ⏩ [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)
- - 👉 [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)<!-- MEMES:END -->
+ - 💣 [Diversity is going well in Ireland](http://9gag.com/gag/adPoPBD)
+ - ⏩ [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
+ - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
 
 ---
 
