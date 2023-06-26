@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Bonsai Collective brought the characters of Luna Abyss to life](https://blog.playstation.com/2023/06/26/how-bonsai-collective-brought-the-characters-of-luna-abyss-to-life/)
- - [Mortal Kombat 1 continues the tradition of dealing with rage quitters in hilariously brutal ways](https://www.pcgamer.com/mortal-kombat-1-continues-the-tradition-of-dealing-with-rage-quitters-in-hilariously-brutal-ways)
- - [AI is being used to translate 5,000 year-old cuneiform tablets](https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets)<!-- GAME:END -->
+ - [Netflix’s Witcher, an Idris Elba thriller, and all the new TV to watch this week](https://www.polygon.com/2023/6/26/23770084/new-tv-witcher-netflix-thriller-apple-idris-elba)
+ - [Hands-on with Payday 3&#39;s expanded stealth heisting, in which everything goes wrong](https://www.pcgamer.com/hands-on-with-payday-3s-expanded-stealth-heisting-in-which-everything-goes-wrong)
+ - [Final Fantasy XVI Has Fans Wondering What The RPG Series Is &lpar;And Should Be&rpar;](https://kotaku.com/final-fantasy-16-square-enix-rpg-reactions-reviews-1850572470)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
