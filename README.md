@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dancing Bonaroo-goers set off Apple’s Crash Detection, cause chaos for 911 team](https://www.androidauthority.com/iphone-crash-detection-false-calls-3339370/)
- - [Ads for major brands are appearing on AI-generated spam sites](https://www.theverge.com/2023/6/26/23774253/ai-generated-websites-brand-ads-google-chatbot)
- - [How to uninstall the macOS Sonoma beta](https://appleinsider.com/articles/23/06/26/how-to-uninstall-the-macos-sonoma-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft was ready to ‘go spend Sony out of business’ to strengthen Xbox](https://www.theverge.com/2023/6/26/23774547/microsoft-sony-xbox-internal-emails-ftc-out-of-business)
+ - [Google is now testing YouTube Playables, before Stadia&#39;s corpse is cold](https://appleinsider.com/articles/23/06/26/google-is-now-testing-youtube-playables-before-stadias-corpse-is-cold?utm_medium=rss)
+ - [Microsoft considered acquiring Bungie and Sega to bolster Xbox Game Pass, internal emails show](https://www.theverge.com/2023/6/26/23774482/microsoft-sega-bungie-acquisition-targets-internal-email-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
