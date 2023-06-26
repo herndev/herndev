@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold review: closing the gap](https://www.theverge.com/23773594/google-pixel-fold-review-screen-battery-hinge-camera)
- - [Giant 30-inch iMac, iPhone 15, OLED iPads: Apple&#39;s roadmap for 2023-2024](https://appleinsider.com/articles/23/06/26/giant-30-inch-imac-iphone-15-oled-ipads-apples-roadmap-for-2023-2024?utm_medium=rss)
- - [The Witcher season 3: all the news on Henry Cavill’s final days as Geralt](https://www.theverge.com/23774152/the-witcher-season-3-netflix-trailers-news-reviews)<!-- TECH:END -->
+ - [The Pixel Fold shows how far ahead Samsung’s folding phones are](https://www.theverge.com/23773112/google-pixel-fold-vs-samsung-z-fold-4-comparison-head-to-head-foldable-phones)
+ - [A breakdown of how much each US state will get in the $42.5B broadband infrastructure plan; Texas leads with $3.3B+, followed by California with $1.8B+ &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230626/p20#a230626p20)
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
