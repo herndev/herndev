@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Christina Cacioppo, the co-founder and CEO of data security compliance startup Vanta, which has an ~$80M ARR, a $1.6B valuation, and raised $203M &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/230625/p12#a230625p12)
- - [Best High-Yield Savings Accounts for College Students     - CNET](https://www.cnet.com/personal-finance/banking/best-high-yield-savings-accounts-for-college-students/#ftag=CAD590a51e)
- - [While there are effective laws outlawing the sharing of nonconsensual deepfake porn in some states, such as Virginia and California, the US needs a federal law &lpar;Nina Jankowicz/The Atlantic&rpar;](http://www.techmeme.com/230625/p11#a230625p11)<!-- TECH:END -->
+ - [NYC says the MOVEit flaw exposed ~45K students&#39; data, following March 2022&#39;s breach of ~820K students&#39; data via the Illuminate Education grading software hack &lpar;Jessica Gould/Gothamist&rpar;](http://www.techmeme.com/230626/p1#a230626p1)
+ - [Apple’s $3,500 Vision Pro might not come with a key head strap](https://www.androidauthority.com/apple-vision-pro-second-head-strap-3338467/)
+ - [A profile of Christina Cacioppo, the co-founder and CEO of data security compliance startup Vanta, which has an ~$80M ARR, a $1.6B valuation, and raised $203M &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/230625/p12#a230625p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
