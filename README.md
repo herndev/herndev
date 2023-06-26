@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [While there are effective laws in some states, including Virginia and California, outlawing the sharing of nonconsensual deepfake porn, a national law is needed &lpar;Nina Jankowicz/The Atlantic&rpar;](http://www.techmeme.com/230625/p11#a230625p11)
- - [An interview with Asana CEO Dustin Moskovitz, who became Asana&#39;s majority owner after a post-listing share buying spree, on AI&#39;s risks as a philanthropy focus &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230625/p10#a230625p10)
- - [Hot Wheels Rift Rally review: A fun fusion of AR and RC cars](https://appleinsider.com/articles/23/06/25/hot-wheels-rift-rally-review-a-fun-fusion-of-ar-and-rc-cars?utm_medium=rss)<!-- TECH:END -->
+ - [USA vs. Jamaica Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-jamaica-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [An interview with Asana CEO Dustin Moskovitz, who became Asana&#39;s majority owner after a post-listing share buying spree, on AI&#39;s risks as a philanthropy focus &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230625/p10#a230625p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
