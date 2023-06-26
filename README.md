@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 4 Gen 2 launched: Light on power, but what about efficiency?](https://www.androidauthority.com/snapdragon-4-gen-2-3338218/)
- - [The Verge and Vox Media Release New Consumer Research on Artificial Intelligence](https://www.theverge.com/2023/6/26/23773963/the-verge-and-vox-media-release-new-consumer-research-on-artificial-intelligence)
- - [You can already save 18% on the Galaxy Watch 5 Bespoke Edition](https://www.androidauthority.com/galaxy-watch-5-bespoke-edition-deal-3339221/)<!-- TECH:END -->
+ - [New affordable HomeKit sensors from Ikea are coming soon](https://appleinsider.com/articles/23/06/26/two-new-inexpensive-homekit-sensors-are-coming-from-ikea-soon?utm_medium=rss)
+ - [Meta announces Quest Plus, a subscription for VR games where users &quot;get two titles every month&quot; for $7.99/month or $59.99/year, for Quest 2 and Quest Pro &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230626/p16#a230626p16)
+ - [AI is killing the old web, and the new web struggles to be born](https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
