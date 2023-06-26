@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan did it again](http://9gag.com/gag/a6qjDBe)
- - ⏩ [Improvise](http://9gag.com/gag/arm2Agd)
- - 👉 [Oh no](http://9gag.com/gag/anzrnd5)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/amApWz9)
+ - ⏩ [Yeah](http://9gag.com/gag/aREOEj2)
+ - 👉 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)<!-- MEMES:END -->
 
 ---
 
