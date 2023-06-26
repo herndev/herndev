@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK police blame Android SOS feature for influx of false emergency calls](https://www.theverge.com/2023/6/26/23773733/android-sos-emergency-call-uk-999-first-responder-google)
- - [Japan announces a $6.3B deal to buy and privatize JSR, a maker of photoresists that controls the global supply of key chipmaking chemicals with two other firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/230626/p5#a230626p5)
- - [Injured hiker airlifted to safety after iPhone Emergency SOS call](https://appleinsider.com/articles/23/06/26/injured-hiker-airlifted-to-safety-after-iphone-emergency-sos-call?utm_medium=rss)<!-- TECH:END -->
+ - [Don’t like Google’s quick settings menu? It’s not just &lpar;Material&rpar; you](https://www.androidauthority.com/asus-zenfone-9-user-data-material-you-3338129/)
+ - [IBM plans to acquire cloud IT management startup Apptio for $4.6B in cash from Vista Equity Partners, which paid $1.94B to take Apptio private in 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230626/p7#a230626p7)
+ - [iPhone Crash Detection doesn&#39;t like dancing at Bonnaroo](https://appleinsider.com/articles/23/06/26/iphone-crash-detection-doesnt-like-dancing-at-bonnaroo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
