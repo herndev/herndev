@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
- - ⏩ [Diversity is going well in Ireland](http://9gag.com/gag/adPoPBD)
- - 👉 [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)<!-- MEMES:END -->
+ - ⏩ [I saw this in my friend\u2019s sister&#39;s room, and she says its a rechargeable hammer.](http://9gag.com/gag/aqeY8MY)
+ - 👉 [Anyone hiring?](http://9gag.com/gag/axoYoLD)<!-- MEMES:END -->
 
 ---
 
