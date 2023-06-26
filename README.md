@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t like Google’s quick settings menu? It’s not just &lpar;Material&rpar; you](https://www.androidauthority.com/asus-zenfone-9-user-data-material-you-3338129/)
- - [IBM plans to acquire cloud IT management startup Apptio for $4.6B in cash from Vista Equity Partners, which paid $1.94B to take Apptio private in 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230626/p7#a230626p7)
- - [iPhone Crash Detection doesn&#39;t like dancing at Bonnaroo](https://appleinsider.com/articles/23/06/26/iphone-crash-detection-doesnt-like-dancing-at-bonnaroo?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Pikmin 4&#39; Is the Perfect Excuse to Chill Out and Stay In](https://www.wired.com/story/pikmin-4-nitendo-switch-preview/)
+ - [Best Air Fryers &lpar;2023&rpar;: Compact, Smart, Viewing Window](https://www.wired.com/gallery/best-air-fryers/)
+ - [WinGPT is a new ChatGPT app for your ancient Windows 3.1 PC](https://www.theverge.com/2023/6/26/23773756/wingpt-chat-gpt-app-windows-3-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
