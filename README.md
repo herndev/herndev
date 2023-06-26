@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;June 26, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-26-2023)
  - [Fan Art Turns Up In Destiny Cutscene, Bungie Will &#39;Compensate&#39; Artist](https://kotaku.com/bungie-destiny-lightfall-trailer-cutscene-art-artist-1850575378)
- - [Great moments in PC gaming: Building a little server community in Project Zomboid then dying six times in a row](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-little-server-community-in-project-zomboid-then-dying-six-times-in-a-row)
- - [Phil Spencer says Microsoft bought Bethesda to prevent Starfield being PlayStation-exclusive](https://www.pcgamer.com/phil-spencer-says-microsoft-bought-bethesda-to-prevent-starfield-being-playstation-exclusive)<!-- GAME:END -->
+ - [Great moments in PC gaming: Building a little server community in Project Zomboid then dying six times in a row](https://www.pcgamer.com/great-moments-in-pc-gaming-building-a-little-server-community-in-project-zomboid-then-dying-six-times-in-a-row)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
