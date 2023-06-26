@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no, he&#39;s gonna have to suck something else](http://9gag.com/gag/aZDzy4W)
- - ⏩ [Why](http://9gag.com/gag/a6qjEA8)
- - 👉 [It has its advantages](http://9gag.com/gag/agoE1dW)<!-- MEMES:END -->
+ - 💣 [Calling all Democrat Run Cities in America...](http://9gag.com/gag/a9qO656)
+ - ⏩ [Me: Am I supposed to drive left or right lane? Them: Yes](http://9gag.com/gag/aNwOLdr)
+ - 👉 [Yeah](http://9gag.com/gag/aREOEj2)<!-- MEMES:END -->
 
 ---
 
