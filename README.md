@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calling all Democrat Run Cities in America...](http://9gag.com/gag/a9qO656)
- - ⏩ [Me: Am I supposed to drive left or right lane? Them: Yes](http://9gag.com/gag/aNwOLdr)
- - 👉 [Yeah](http://9gag.com/gag/aREOEj2)<!-- MEMES:END -->
+ - 💣 [No one has gotten as far as he did](http://9gag.com/gag/a2KLKRE)
+ - ⏩ [Lol](http://9gag.com/gag/amApWz9)
+ - 👉 [One los his roles and many people in the industry turn their backs on Him, the other two kept their jobs and even their freedom in spite of the scandals or felonies](http://9gag.com/gag/aEqOVze)<!-- MEMES:END -->
 
 ---
 
