@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [While there are effective laws in some states, including Virginia and California, outlawing the sharing of nonconsensual deepfake porn, a national law is needed &lpar;Nina Jankowicz/The Atlantic&rpar;](http://www.techmeme.com/230625/p11#a230625p11)
- - [USA vs. Jamaica Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-jamaica-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)
- - [An interview with Asana CEO Dustin Moskovitz, who became Asana&#39;s majority owner after a post-listing share buying spree, on AI&#39;s risks as a philanthropy focus &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230625/p10#a230625p10)<!-- TECH:END -->
+ - [Best High-Yield Savings Accounts for College Students     - CNET](https://www.cnet.com/personal-finance/banking/best-high-yield-savings-accounts-for-college-students/#ftag=CAD590a51e)
+ - [While there are effective laws outlawing the sharing of nonconsensual deepfake porn in some states, such as Virginia and California, the US needs a federal law &lpar;Nina Jankowicz/The Atlantic&rpar;](http://www.techmeme.com/230625/p11#a230625p11)
+ - [USA vs. Jamaica Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-jamaica-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
