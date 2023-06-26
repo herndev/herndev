@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone hiring?](http://9gag.com/gag/axoYoLD)
- - ⏩ [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)
- - 👉 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)<!-- MEMES:END -->
+ - 💣 [She was fcking lucky her friend was there, because that other idiot was just laughing.](http://9gag.com/gag/a9qOqnm)
+ - ⏩ [No one has gotten as far as he did](http://9gag.com/gag/a2KLKRE)
+ - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
 
 ---
 
