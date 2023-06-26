@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah](http://9gag.com/gag/aREOEj2)
- - ⏩ [Using your child to attempt to smuggle drugs into jail](http://9gag.com/gag/aMEOdLG)
- - 👉 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)<!-- MEMES:END -->
+ - 💣 [Lindsey Pelas](http://9gag.com/gag/aA0Oybo)
+ - ⏩ [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)
+ - 👉 [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)<!-- MEMES:END -->
 
 ---
 
