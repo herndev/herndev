@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung’s huge 49-inch OLED gaming monitor is now available](https://www.polygon.com/deals/23774143/samsung-odyssey-oled-g9-price-specs-buy)
- - [‘Lost in the Dunes’ side quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23772778/lost-in-dunes-side-quest-steps-ponthos-location)
- - [Ryan Reynolds and Rob McElhenney are taking their sports success to Formula 1](https://www.polygon.com/23774203/ryan-reynolds-rob-mcelhenny-formula-1-f1-alpine)<!-- GAME:END -->
+ - [Kyononis Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702987/kyononis-shrine-solution-puzzle-chest)
+ - [Sibajitak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23712418/sibajitak-shrine-solution-puzzle-chest)
+ - [Kimayat Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688371/kimayat-shrine-proving-grounds-smash-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
