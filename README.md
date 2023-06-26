@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your first look at Magic’s Lord of the Rings cards inspired by the classic Bakshi cartoon](https://www.polygon.com/23769953/mtg-lotr-secret-lair-bakshi-previews-card-art)
- - [Is Starfield coming out on a disc?](https://www.polygon.com/23774037/starfield-disc-download-standard-constellation-edition-release)
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals)<!-- GAME:END -->
+ - [Controversial World of Warcraft quest removed from test realms](https://www.polygon.com/23770396/world-of-warcraft-dragonflight-fractures-in-time-ptr-alexstrasza-quest)
+ - [Barbie-Themed Xbox And Controllers Are Too Good To Not Sell](https://kotaku.com/barbie-movie-xbox-controllers-forza-horizon-5-pink-car-1850576950)
+ - [Starfield Would Have Taken Even Longer If It Was Also On PS5, Bethesda Says](https://kotaku.com/starfield-exclusive-xbox-ps5-delay-release-date-1850576836)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
