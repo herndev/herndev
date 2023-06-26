@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Witcher, an Idris Elba thriller, and all the new TV to watch this week](https://www.polygon.com/2023/6/26/23770084/new-tv-witcher-netflix-thriller-apple-idris-elba)
- - [Hands-on with Payday 3&#39;s expanded stealth heisting, in which everything goes wrong](https://www.pcgamer.com/hands-on-with-payday-3s-expanded-stealth-heisting-in-which-everything-goes-wrong)
- - [Final Fantasy XVI Has Fans Wondering What The RPG Series Is &lpar;And Should Be&rpar;](https://kotaku.com/final-fantasy-16-square-enix-rpg-reactions-reviews-1850572470)<!-- GAME:END -->
+ - [YouTube Star Mr. Beast Says He Was &#39;Invited&#39; On The Titanic Submarine](https://kotaku.com/youtube-mr-beast-titan-titanic-submarine-disaster-1850575265)
+ - [Pokémon&#39;s New Official Team Rocket Streetwear Is Pretty Hot](https://kotaku.com/pokemon-team-rocket-streetwear-apparel-line-price-1850575738)
+ - [Final Fantasy XVI: Forging The Most Powerful Sword In The Game](https://kotaku.com/final-fantasy-16-xvi-best-sword-how-to-gotterdammerung-1850576019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
