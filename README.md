@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube Star Mr. Beast Says He Was &#39;Invited&#39; On The Titanic Submarine](https://kotaku.com/youtube-mr-beast-titan-titanic-submarine-disaster-1850575265)
- - [Pokémon&#39;s New Official Team Rocket Streetwear Is Pretty Hot](https://kotaku.com/pokemon-team-rocket-streetwear-apparel-line-price-1850575738)
- - [Final Fantasy XVI: Forging The Most Powerful Sword In The Game](https://kotaku.com/final-fantasy-16-xvi-best-sword-how-to-gotterdammerung-1850576019)<!-- GAME:END -->
+ - [Barbie’s iconic pink Corvette is coming to Forza](https://www.polygon.com/23773889/barbie-movie-car-corvette-forza-horizon-5)
+ - [Diablo IV Has Six Ultra Rare Pieces Of Gear You’ll Never Find](https://kotaku.com/diablo-4-doombringer-rarest-loot-harlequin-andariel-1850576253)
+ - [Here’s where you can pre-order Starfield](https://www.polygon.com/deals/23752365/starfield-pre-order-guide-standard-premium-collectors-constellation-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
