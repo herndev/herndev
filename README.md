@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save A Ton On Game Pass Subscriptions Ahead Of The Price Hike](https://kotaku.com/xbox-game-pass-deal-discount-cheap-save-starfield-1850577161)
- - [Diablo IV’s Secret Endings May Tease The Game’s Future](https://kotaku.com/diablo-4-secret-post-credit-ending-mephisto-lucion-dlc-1850577092)
- - [Studio Behind One Of 2023’s Best Games Just Laid Off A Ton Of Devs](https://kotaku.com/ps5-indie-season-darwin-project-layoffs-game-pass-1850577077)<!-- GAME:END -->
+ - [Samsung’s huge 49-inch OLED gaming monitor is now available](https://www.polygon.com/deals/23774143/samsung-odyssey-oled-g9-price-specs-buy)
+ - [‘Lost in the Dunes’ side quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23772778/lost-in-dunes-side-quest-steps-ponthos-location)
+ - [Ryan Reynolds and Rob McElhenney are taking their sports success to Formula 1](https://www.polygon.com/23774203/ryan-reynolds-rob-mcelhenny-formula-1-f1-alpine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
