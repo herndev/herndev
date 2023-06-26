@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No one has gotten as far as he did](http://9gag.com/gag/a2KLKRE)
- - ⏩ [Lol](http://9gag.com/gag/amApWz9)
- - 👉 [One los his roles and many people in the industry turn their backs on Him, the other two kept their jobs and even their freedom in spite of the scandals or felonies](http://9gag.com/gag/aEqOVze)<!-- MEMES:END -->
+ - 💣 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
+ - ⏩ [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)
+ - 👉 [Anyone hiring?](http://9gag.com/gag/axoYoLD)<!-- MEMES:END -->
 
 ---
 
