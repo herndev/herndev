@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/a9qORvL)
- - ⏩ [We\u2019re getting close folks!](http://9gag.com/gag/a8qKAWQ)
+ - 💣 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)
+ - ⏩ [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)
  - 👉 [Using your child to attempt to smuggle drugs into jail](http://9gag.com/gag/aMEOdLG)<!-- MEMES:END -->
 
 ---
