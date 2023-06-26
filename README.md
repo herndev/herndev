@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
- - ⏩ [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - 👉 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
+ - 💣 [Hayden Panettiere](http://9gag.com/gag/avQdoWn)
+ - ⏩ [Anyone hiring?](http://9gag.com/gag/axoYoLD)
+ - 👉 [The ultimate reverse card](http://9gag.com/gag/aL1d036)<!-- MEMES:END -->
 
 ---
 
