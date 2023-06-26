@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her: I bet he&#39;s thinking about other girls... Him:...](http://9gag.com/gag/aoKYVx0)
- - ⏩ [Wow..](http://9gag.com/gag/a8qK0y1)
- - 👉 [Former PM of Singapore](http://9gag.com/gag/a2KL801)<!-- MEMES:END -->
+ - 💣 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
+ - ⏩ [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)
+ - 👉 [Gray Dress](http://9gag.com/gag/adPo1OZ)<!-- MEMES:END -->
 
 ---
 
