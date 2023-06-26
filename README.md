@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We\u2019re getting close folks!](http://9gag.com/gag/a8qKAWQ)
- - ⏩ [Just wait for those \u201emum had an onlyfans\u201d kids](http://9gag.com/gag/aVbV0Nd)
- - 👉 [Calling all Democrat Run Cities in America...](http://9gag.com/gag/a9qO656)<!-- MEMES:END -->
+ - 💣 [Oh no, he&#39;s gonna have to suck something else](http://9gag.com/gag/aZDzy4W)
+ - ⏩ [Why](http://9gag.com/gag/a6qjEA8)
+ - 👉 [It has its advantages](http://9gag.com/gag/agoE1dW)<!-- MEMES:END -->
 
 ---
 
