@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kyononis Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702987/kyononis-shrine-solution-puzzle-chest)
- - [Sibajitak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23712418/sibajitak-shrine-solution-puzzle-chest)
- - [Kimayat Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688371/kimayat-shrine-proving-grounds-smash-solution-puzzle-chest)<!-- GAME:END -->
+ - [What is Only Up!, the climbing game blowing up on social media?](https://www.polygon.com/23774440/only-up-twitch-tiktok-twitter-climbing-game-influencers-social-media-explainer)
+ - [How to get scarletite in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23773947/scarletite-location-how-to-get-drakeslayers-excalibur-ff16)
+ - [What To Expect At Anime Expo 2023](https://kotaku.com/anime-expo-2023-guide-itinerary-crunchyroll-mappa-sched-1850578192)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
