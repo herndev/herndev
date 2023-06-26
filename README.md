@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a8qK7nO)
- - ⏩ [I&#39;m also fat and ugly](http://9gag.com/gag/ajVW73G)
- - 👉 [ANYONE WITH A BRAIN KNOWS THAT!](http://9gag.com/gag/aqeYRZL)<!-- MEMES:END -->
+ - 💣 [We\u2019re getting close folks!](http://9gag.com/gag/a8qKAWQ)
+ - ⏩ [Just wait for those \u201emum had an onlyfans\u201d kids](http://9gag.com/gag/aVbV0Nd)
+ - 👉 [Calling all Democrat Run Cities in America...](http://9gag.com/gag/a9qO656)<!-- MEMES:END -->
 
 ---
 
