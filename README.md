@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virgin Galactic reveals crew members for the company’s first commercial spaceflight](https://www.theverge.com/2023/6/26/23774134/virgin-galactic-01-mission-crewed-commercial-spaceflight)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [The best Apple headphones for travelers](https://appleinsider.com/articles/23/06/26/the-best-apple-headphones-for-travelers?utm_medium=rss)<!-- TECH:END -->
+ - [Dancing Bonaroo-goers set off Apple’s Crash Detection, cause chaos for 911 team](https://www.androidauthority.com/iphone-crash-detection-false-calls-3339370/)
+ - [Ads for major brands are appearing on AI-generated spam sites](https://www.theverge.com/2023/6/26/23774253/ai-generated-websites-brand-ads-google-chatbot)
+ - [How to uninstall the macOS Sonoma beta](https://appleinsider.com/articles/23/06/26/how-to-uninstall-the-macos-sonoma-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
