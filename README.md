@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barbie’s iconic pink Corvette is coming to Forza](https://www.polygon.com/23773889/barbie-movie-car-corvette-forza-horizon-5)
- - [Diablo IV Has Six Ultra Rare Pieces Of Gear You’ll Never Find](https://kotaku.com/diablo-4-doombringer-rarest-loot-harlequin-andariel-1850576253)
- - [Here’s where you can pre-order Starfield](https://www.polygon.com/deals/23752365/starfield-pre-order-guide-standard-premium-collectors-constellation-edition)<!-- GAME:END -->
+ - [Your first look at Magic’s Lord of the Rings cards inspired by the classic Bakshi cartoon](https://www.polygon.com/23769953/mtg-lotr-secret-lair-bakshi-previews-card-art)
+ - [Is Starfield coming out on a disc?](https://www.polygon.com/23774037/starfield-disc-download-standard-constellation-edition-release)
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
