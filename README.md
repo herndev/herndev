@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 to $200 on Apple&#39;s MacBook Air 15-inch &amp; M2 Mac Studio, plus AppleCare discount](https://appleinsider.com/articles/23/06/23/save-114-to-200-on-apples-macbook-air-15-inch-m2-mac-studio-plus-applecare-discount?utm_medium=rss)
- - [The 5 Best Cheap Qi Wireless Charging Pads Under $20     - CNET](https://www.cnet.com/tech/mobile/best-cheap-qi-wireless-charging-pads-under-20/#ftag=CAD590a51e)
- - [A US federal court sentences UK citizen Joseph James O&#39;Connor to five years in prison for his role in the July 2020 Twitter hack affecting high-profile accounts &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230623/p24#a230623p24)<!-- TECH:END -->
+ - [While there are effective laws in some states, including Virginia and California, outlawing the sharing of nonconsensual deepfake porn, a national law is needed &lpar;Nina Jankowicz/The Atlantic&rpar;](http://www.techmeme.com/230625/p11#a230625p11)
+ - [An interview with Asana CEO Dustin Moskovitz, who became Asana&#39;s majority owner after a post-listing share buying spree, on AI&#39;s risks as a philanthropy focus &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230625/p10#a230625p10)
+ - [Hot Wheels Rift Rally review: A fun fusion of AR and RC cars](https://appleinsider.com/articles/23/06/25/hot-wheels-rift-rally-review-a-fun-fusion-of-ar-and-rc-cars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
