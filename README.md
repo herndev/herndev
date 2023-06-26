@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Pikmin 4&#39; Is the Perfect Excuse to Chill Out and Stay In](https://www.wired.com/story/pikmin-4-nitendo-switch-preview/)
- - [Best Air Fryers &lpar;2023&rpar;: Compact, Smart, Viewing Window](https://www.wired.com/gallery/best-air-fryers/)
- - [WinGPT is a new ChatGPT app for your ancient Windows 3.1 PC](https://www.theverge.com/2023/6/26/23773756/wingpt-chat-gpt-app-windows-3-1)<!-- TECH:END -->
+ - [Hope, fear, and AI](https://www.theverge.com/c/23753704/ai-chatgpt-data-survey-research)
+ - [The best Apple headphones for travelers](https://appleinsider.com/articles/23/06/26/the-best-apple-headphones-for-travelers?utm_medium=rss)
+ - [Lucid Motors strikes deal to power Aston Martin’s future lineup of EVs](https://www.theverge.com/2023/6/26/23773793/lucid-aston-martin-ev-powertrain-supply-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
