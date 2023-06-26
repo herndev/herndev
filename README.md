@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC says the MOVEit flaw exposed ~45K students&#39; data, following March 2022&#39;s breach of ~820K students&#39; data via the Illuminate Education grading software hack &lpar;Jessica Gould/Gothamist&rpar;](http://www.techmeme.com/230626/p1#a230626p1)
- - [Apple’s $3,500 Vision Pro might not come with a key head strap](https://www.androidauthority.com/apple-vision-pro-second-head-strap-3338467/)
- - [A profile of Christina Cacioppo, the co-founder and CEO of data security compliance startup Vanta, which has an ~$80M ARR, a $1.6B valuation, and raised $203M &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/230625/p12#a230625p12)<!-- TECH:END -->
+ - [Smartphones could soon have 24GB of RAM, because reasons](https://www.androidauthority.com/24gb-ram-smartphones-3338968/)
+ - [You can now get the Samsung Galaxy Buds 2 and Buds 2 Pro in new Pokémon cases](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-pokemon-pack-3338971/)
+ - [An interview with early Waze investors Yahal Zilka and Ehud Levy on why they invested, the impact of Google&#39;s acquisition on Israel&#39;s tech industry, and more &lpar;Yuval Mann/Ynetnews&rpar;](http://www.techmeme.com/230626/p2#a230626p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
