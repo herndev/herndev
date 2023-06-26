@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Anyone hiring?](http://9gag.com/gag/axoYoLD)
- - ⏩ [Jelly](http://9gag.com/gag/aBdOLLO)
- - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
+ - ⏩ [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)
+ - 👉 [Remember the Belgian Defence Cadets?](http://9gag.com/gag/aA0O0K2)<!-- MEMES:END -->
 
 ---
 
