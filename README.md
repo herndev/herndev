@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft was ready to ‘go spend Sony out of business’ to strengthen Xbox](https://www.theverge.com/2023/6/26/23774547/microsoft-sony-xbox-internal-emails-ftc-out-of-business)
- - [Google is now testing YouTube Playables, before Stadia&#39;s corpse is cold](https://appleinsider.com/articles/23/06/26/google-is-now-testing-youtube-playables-before-stadias-corpse-is-cold?utm_medium=rss)
- - [Microsoft considered acquiring Bungie and Sega to bolster Xbox Game Pass, internal emails show](https://www.theverge.com/2023/6/26/23774482/microsoft-sega-bungie-acquisition-targets-internal-email-xbox)<!-- TECH:END -->
+ - [Microsoft sacrificed Xbox Series X sales for ‘long term ambition’ in the cloud](https://www.theverge.com/2023/6/26/23774608/microsoft-xbox-series-x-cloud-gaming-investments)
+ - [Pixel 7 and 6 update may be causing severe battery drain and overheating](https://www.androidauthority.com/pixel-7-battery-drain-issues-3339414/)
+ - [4K TV Deals: Take Up to $1,000 Off Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
