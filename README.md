@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was fcking lucky her friend was there, because that other idiot was just laughing.](http://9gag.com/gag/a9qOqnm)
- - ⏩ [No one has gotten as far as he did](http://9gag.com/gag/a2KLKRE)
- - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
+ - 💣 [Her: I bet he&#39;s thinking about other girls... Him:...](http://9gag.com/gag/aoKYVx0)
+ - ⏩ [Wow..](http://9gag.com/gag/a8qK0y1)
+ - 👉 [Former PM of Singapore](http://9gag.com/gag/a2KL801)<!-- MEMES:END -->
 
 ---
 
