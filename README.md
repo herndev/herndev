@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Fold shows how far ahead Samsung’s folding phones are](https://www.theverge.com/23773112/google-pixel-fold-vs-samsung-z-fold-4-comparison-head-to-head-foldable-phones)
- - [A breakdown of how much each US state will get in the $42.5B broadband infrastructure plan; Texas leads with $3.3B+, followed by California with $1.8B+ &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230626/p20#a230626p20)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
+ - [Virgin Galactic reveals crew members for the company’s first commercial spaceflight](https://www.theverge.com/2023/6/26/23774134/virgin-galactic-01-mission-crewed-commercial-spaceflight)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [The best Apple headphones for travelers](https://appleinsider.com/articles/23/06/26/the-best-apple-headphones-for-travelers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
