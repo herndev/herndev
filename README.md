@@ -29,7 +29,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI is being used to translate 5,000-year-old cuneiform tablets](https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets)
+ - [AI is being used to translate 5,000 year-old cuneiform tablets](https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets)
  - [Today&#39;s Wordle hint and answer #737: Monday, June 26](https://www.pcgamer.com/wordle-answer-today-hint-737-june-26)
  - [Five new Steam games you probably missed &lpar;June 26, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-26-2023)<!-- GAME:END -->
 
