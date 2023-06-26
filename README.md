@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft sacrificed Xbox Series X sales for ‘long term ambition’ in the cloud](https://www.theverge.com/2023/6/26/23774608/microsoft-xbox-series-x-cloud-gaming-investments)
- - [Pixel 7 and 6 update may be causing severe battery drain and overheating](https://www.androidauthority.com/pixel-7-battery-drain-issues-3339414/)
- - [4K TV Deals: Take Up to $1,000 Off Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Decentralized social media app Damus says Apple rejected an app update and asked it to either remove its tipping feature or use Apple&#39;s in-app purchase system &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230626/p25#a230626p25)
+ - [Samsung&#39;s lower-priced Studio Display competitor finally launching on July 3 in South Korea](https://appleinsider.com/articles/23/06/26/samsungs-lower-priced-studio-display-competitor-finally-launching-on-july-3-in-south-korea?utm_medium=rss)
+ - [Microsoft sacrificed Xbox Series X sales for ‘long term ambition’ in the cloud](https://www.theverge.com/2023/6/26/23774608/microsoft-xbox-series-x-cloud-gaming-investments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
