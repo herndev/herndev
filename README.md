@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smacks lips.. a yo, science &#39;n sh...](http://9gag.com/gag/a8qK0be)
- - ⏩ [Edible Helium balloon](http://9gag.com/gag/amAp6Zy)
- - 👉 [Every damn movie and show now](http://9gag.com/gag/aQEOAMK)<!-- MEMES:END -->
+ - 💣 [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
+ - ⏩ [Damn B*tch, You Live Like This?](http://9gag.com/gag/axoYveY)
+ - 👉 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)<!-- MEMES:END -->
 
 ---
 
