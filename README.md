@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s first major patch buffs every class but is totally focused on the early game](https://www.pcgamer.com/diablo-4s-first-major-patch-buffs-every-class-but-is-totally-focused-on-the-early-game)
- - [Cherry blossom trees in Zelda: Tears of the Kingdom hide a useful secret](https://www.polygon.com/legend-zelda-tears-kingdom/23735064/cherry-blossom-trees-caves-locations)
- - [Hearthstone&#39;s Titans expansion features a brand new type of legendary card](https://www.pcgamer.com/hearthstones-titans-expansion-features-a-brand-new-type-of-legendary-card)<!-- GAME:END -->
+ - [All Of Diablo IV’s Classes Just Got A Little Bit Stronger With Latest Update](https://kotaku.com/diablo-4-patch-note-103-class-buff-necromancer-sorcerer-1850583088)
+ - [James Gunn’s Superman reboot has found its Clark Kent and Lois Lane](https://www.polygon.com/23775999/david-corenswet-james-gunn-superman-actor-rachel-brosnahan-lois-lane)
+ - [The Dragon Prince looks darker and more intense than ever in the new season](https://www.polygon.com/23775951/the-dragon-prince-season-5-mystery-of-aaravos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
