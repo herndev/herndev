@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentralized social media app Damus says Apple rejected an app update and asked it to either remove its tipping feature or use Apple&#39;s in-app purchase system &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230626/p25#a230626p25)
- - [Samsung&#39;s lower-priced Studio Display competitor finally launching on July 3 in South Korea](https://appleinsider.com/articles/23/06/26/samsungs-lower-priced-studio-display-competitor-finally-launching-on-july-3-in-south-korea?utm_medium=rss)
- - [Microsoft sacrificed Xbox Series X sales for ‘long term ambition’ in the cloud](https://www.theverge.com/2023/6/26/23774608/microsoft-xbox-series-x-cloud-gaming-investments)<!-- TECH:END -->
+ - [Decentralized Twitter rival Damus will be removed from the App Store over Bitcoin tipping](https://appleinsider.com/articles/23/06/26/decentralized-twitter-rival-damus-will-be-removed-from-the-app-store-over-bitcoin-tipping?utm_medium=rss)
+ - [Stability AI&#39;s head of research David Ha and COO Ren Ito left the company in June 2023; VP of product Christian Cantrell left the company in March 2023 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230626/p26#a230626p26)
+ - [T-Mobile Changes AutoPay Discounts: What You Need to Know     - CNET](https://www.cnet.com/tech/mobile/t-mobile-changes-autopay-discounts-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
