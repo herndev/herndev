@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adalytics: ~80% of Google&#39;s video ad placements on third-party sites violated the company&#39;s promised standards between 2020 and 2023; Google disputes the claims &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230627/p44#a230627p44)
- - [Google’s next-gen AR glasses join the Google graveyard](https://www.androidauthority.com/google-project-iris-ar-glasses-3339742/)
- - [Interest-free financing no longer offered by Apple in Canada](https://appleinsider.com/articles/23/06/27/interest-free-financing-no-longer-offered-by-apple-in-canada?utm_medium=rss)<!-- TECH:END -->
+ - [What are the best Facebook alternatives in 2023?](https://www.androidauthority.com/best-facebook-alternatives-3339448/)
+ - [OpenAI&#39;s ChatGPT iOS app adds Bing for ChatGPT Plus subscribers, letting them get answers on information that extend beyond ChatGPT&#39;s original training data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p46#a230627p46)
+ - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
