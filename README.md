@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australian beach worm](http://9gag.com/gag/a2KLy1d)
- - ⏩ [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)
- - 👉 [Damn B*tch, You Live Like This?](http://9gag.com/gag/axoYveY)<!-- MEMES:END -->
+ - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
+ - ⏩ [Should I become racist?](http://9gag.com/gag/aBdOPXP)
+ - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
 
 ---
 
