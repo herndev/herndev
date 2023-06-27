@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Back in 2006, this tiny indie developer made a mecha game that reveres Sega&#39;s Virtual On as much as I do](https://www.pcgamer.com/back-in-2006-this-tiny-indie-developer-made-a-mecha-game-that-reveres-segas-virtual-on-as-much-as-i-do)
- - [PlayStation Boss Says Xbox Games Do Better In U.S. Due To &#39;Shooting,&#39; &#39;Multiplayer&#39;](https://kotaku.com/playstation-sony-ftc-hearing-xbox-shooting-multiplayer-1850582483)
- - [Where to buy the Pokémon Go Plus + device](https://www.polygon.com/deals/23616814/where-to-buy-pokemon-go-plus-tracker)<!-- GAME:END -->
+ - [Diablo 4&#39;s first major patch buffs every class but is totally focused on the early game](https://www.pcgamer.com/diablo-4s-first-major-patch-buffs-every-class-but-is-totally-focused-on-the-early-game)
+ - [Cherry blossom trees in Zelda: Tears of the Kingdom hide a useful secret](https://www.polygon.com/legend-zelda-tears-kingdom/23735064/cherry-blossom-trees-caves-locations)
+ - [Hearthstone&#39;s Titans expansion features a brand new type of legendary card](https://www.pcgamer.com/hearthstones-titans-expansion-features-a-brand-new-type-of-legendary-card)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
