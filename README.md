@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)
- - ⏩ [My Man](http://9gag.com/gag/aVbVLEK)
- - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
+ - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
+ - ⏩ [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
+ - 👉 [Good ol&#39; russia...](http://9gag.com/gag/a4oWz3v)<!-- MEMES:END -->
 
 ---
 
