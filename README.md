@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everybody 1-2-Switch! makes minigames massively multiplayer](https://www.polygon.com/23774290/everybody-1-2-switch-nintendo-preview-release-date)
- - [Before Activision-Blizzard, Microsoft was planning to buy Sega](https://www.pcgamer.com/before-activision-blizzard-microsoft-was-planning-to-buy-sega)
- - [CD Projekt Red insists that Cyberpunk 2077&#39;s launch wasn&#39;t that bad, but &#39;it became a cool thing not to like it&#39;](https://www.pcgamer.com/cd-projekt-red-insists-that-cyberpunk-2077s-launch-wasnt-that-bad-but-it-became-a-cool-thing-not-to-like-it)<!-- GAME:END -->
+ - [I’m A Virgo shatters superhero stories by showing where real power comes from](https://www.polygon.com/23772011/amazon-im-a-virgo-review)
+ - [Every Legend of Zelda Visual Aesthetic, Ranked From Worst To Best](https://kotaku.com/legend-of-zelda-art-totk-botw-link-tears-of-the-kingdom-1850579660)
+ - [The data suggests Britain&#39;s best years of electronics recycling are already behind it](https://www.pcgamer.com/uk-e-waste-recycling-trends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
