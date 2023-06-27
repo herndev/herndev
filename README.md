@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Around 45,000 people in Vietnam lost jobs in electronics manufacturing in the first five months of 2023, as Samsung and others substantially slowed production &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/230626/p27#a230626p27)
- - [Trinity Solar Review: How It Stacks Up     - CNET](https://www.cnet.com/home/energy-and-utilities/trinity-solar-review-is-it-your-best-choice/#ftag=CAD590a51e)
- - [Savings Rates Remain Attractive, But the End of High APYs Is Near, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-rates-remain-attractive-but-the-end-of-high-apys-is-near-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [John B. Goodenough, who shared the 2019 Nobel Prize in Chemistry for his role in developing the lithium-ion battery used in mobile devices and EVs, dies at 100 &lpar;Robert D. McFadden/New York Times&rpar;](http://www.techmeme.com/230626/p28#a230626p28)
+ - [In the first five months of 2023, ~45,000 people in Vietnam lost jobs in electronics manufacturing, after Samsung and others substantially slowed production &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/230626/p27#a230626p27)
+ - [Trinity Solar Review: How It Stacks Up     - CNET](https://www.cnet.com/home/energy-and-utilities/trinity-solar-review-is-it-your-best-choice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
