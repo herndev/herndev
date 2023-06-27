@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #738: Tuesday, June 27](https://www.pcgamer.com/wordle-answer-today-hint-738-june-27)
  - [Nintendo Switch Update Appears To Block Words Like &#39;TERF&#39; and &#39;Titler&#39;](https://kotaku.com/nintendo-switch-terf-hitler-banned-words-censor-hogwart-1850579670)
- - [Yakuza Games Scrub A Bunch Of People From The Credits, Including Series Creator Toshihiro Nagoshi](https://kotaku.com/yakuza-like-a-dragon-nagoshi-sega-credits-pc-xbox-steam-1850579308)
- - [Valve collector shares his treasure trove of never-before-seen Half Life 2: Episode 3, &#39;Alyx &amp; Dog,&#39;  and Stars of Blood concept art](https://www.pcgamer.com/valve-collector-shares-his-treasure-trove-of-never-before-seen-half-life-2-episode-3-alyx-and-dog-and-stars-of-blood-concept-art)<!-- GAME:END -->
+ - [Yakuza Games Scrub A Bunch Of People From The Credits, Including Series Creator Toshihiro Nagoshi](https://kotaku.com/yakuza-like-a-dragon-nagoshi-sega-credits-pc-xbox-steam-1850579308)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
