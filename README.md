@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok Is Turning Grimace&#39;s Milkshake Into A Horror Movie](https://kotaku.com/grimace-shake-mcdonalds-tiktok-game-danganronpa-blood-1850581056)
- - [Custom D&amp;D miniatures from Hero Forge will soon include adjustable facial features as well](https://www.polygon.com/tabletop-games/23774425/hero-forge-3d-printed-miniatures-face-customizer)
- - [Pokemon GO Update Is So Good Players Think It&#39;s An Accident](https://kotaku.com/pokemon-go-june-content-update-spawn-radius-niantic-1850581024)<!-- GAME:END -->
+ - [These $27 Joy-Con sticks are drift-resistant and easy to install](https://www.polygon.com/deals/23627127/nintendo-switch-joy-con-drift-gulikit-stick-hall-effect-fix-installation-buy)
+ - [All Zonai dispenser locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23774198/zonai-dispenser-locations-map-totk)
+ - [PC&#39;s answer to Pokemon just dropped a free version which strips out the filler and gets straight to the monster brawling](https://www.pcgamer.com/pcs-answer-to-pokemon-just-dropped-a-free-version-which-strips-out-the-filler-and-gets-straight-to-the-monster-brawling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
