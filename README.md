@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
- - ⏩ [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
- - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
+ - 💣 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
+ - ⏩ [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)
+ - 👉 [Good ol&#39; russia...](http://9gag.com/gag/a4oWz3v)<!-- MEMES:END -->
 
 ---
 
