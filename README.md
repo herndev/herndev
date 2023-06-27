@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That one didn\u2019t age quite so well](http://9gag.com/gag/a4oW5pw)
- - ⏩ [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
- - 👉 [This woman went on a 10-day vacation, leaving her 16-month-old daughter alone. And was shocked when she returned to find the child dead.](http://9gag.com/gag/adPoPQj)<!-- MEMES:END -->
+ - 💣 [Smacks lips.. a yo, science &#39;n sh...](http://9gag.com/gag/a8qK0be)
+ - ⏩ [Sportsmanship](http://9gag.com/gag/a3ZbyQ1)
+ - 👉 [Every damn movie and show now](http://9gag.com/gag/aQEOAMK)<!-- MEMES:END -->
 
 ---
 
