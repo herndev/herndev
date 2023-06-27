@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/arm23gX)
- - ⏩ [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)
- - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
+ - 💣 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)
+ - ⏩ [Wonder why your pizza took too long?](http://9gag.com/gag/aEqOomM)
+ - 👉 [The f**k ?](http://9gag.com/gag/a8qKAK6)<!-- MEMES:END -->
 
 ---
 
