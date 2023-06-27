@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
- - ⏩ [Wonder why your pizza took too long?](http://9gag.com/gag/aEqOomM)
- - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
+ - ⏩ [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)
+ - 👉 [Gray Dress](http://9gag.com/gag/adPo1OZ)<!-- MEMES:END -->
 
 ---
 
