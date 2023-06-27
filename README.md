@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These $27 Joy-Con sticks are drift-resistant and easy to install](https://www.polygon.com/deals/23627127/nintendo-switch-joy-con-drift-gulikit-stick-hall-effect-fix-installation-buy)
- - [All Zonai dispenser locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23774198/zonai-dispenser-locations-map-totk)
- - [PC&#39;s answer to Pokemon just dropped a free version which strips out the filler and gets straight to the monster brawling](https://www.pcgamer.com/pcs-answer-to-pokemon-just-dropped-a-free-version-which-strips-out-the-filler-and-gets-straight-to-the-monster-brawling)<!-- GAME:END -->
+ - [Who’s actually showing up for San Diego Comic-Con 2023](https://www.polygon.com/sdcc/23774058/comic-con-2023-schedule-marvel-dc-hall-h)
+ - [Meet Your Maker Sector 1: Dreadshore Adds New Destructive Tools to Your Arsenal](https://news.xbox.com/en-us/2023/06/27/sector-1-dreadshore-dlc-for-meet-your-maker/)
+ - [Among Us TV show in the works from Infinity Train creator](https://www.polygon.com/23775521/among-us-tv-show-infinity-train)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
