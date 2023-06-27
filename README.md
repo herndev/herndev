@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 5 Prototypes Give Us A Taste Of What’s Next For The Life Sim](https://kotaku.com/the-sims-5-project-rene-behind-the-sims-stream-1850582112)
- - [Lucky Diablo IV Player Finds One Of The Game’s Rarest And Most Powerful Items](https://kotaku.com/diablo-4-rarest-items-unique-loot-andariel-visage-helm-1850582058)
- - [Among Us Is Getting An Animated TV Show](https://kotaku.com/anime-among-us-tv-show-free-multiplayer-game-steam-1850582022)<!-- GAME:END -->
+ - [Back in 2006, this tiny indie developer made a mecha game that reveres Sega&#39;s Virtual On as much as I do](https://www.pcgamer.com/back-in-2006-this-tiny-indie-developer-made-a-mecha-game-that-reveres-segas-virtual-on-as-much-as-i-do)
+ - [PlayStation Boss Says Xbox Games Do Better In U.S. Due To &#39;Shooting,&#39; &#39;Multiplayer&#39;](https://kotaku.com/playstation-sony-ftc-hearing-xbox-shooting-multiplayer-1850582483)
+ - [Where to buy the Pokémon Go Plus + device](https://www.polygon.com/deals/23616814/where-to-buy-pokemon-go-plus-tracker)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
