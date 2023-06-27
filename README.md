@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Apple urges UK to rethink anti-encryption Online Safety Bill](https://appleinsider.com/articles/23/06/27/apple-urges-uk-to-rethink-anti-encryption-online-safety-bill?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro documentation shows the device has a safe area, defined as a radius of 1.5 meters from the headset, when in a &quot;fully immersive VR experience&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230627/p31#a230627p31)
+ - [Five Nights at Freddy’s is an animatronic nightmare in new trailer](https://www.theverge.com/23775409/five-nights-at-freddys-trailer-date-peacock)
+ - [Meta launches new parental controls and other safety features for Messenger and Instagram in the US, the UK, and Canada, including letting parents view contacts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230627/p30#a230627p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
