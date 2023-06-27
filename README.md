@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New mysterious macOS malware infiltrates crypto exchange](https://appleinsider.com/articles/23/06/27/new-mysterious-macos-malware-infiltrates-crypto-exchange?utm_medium=rss)
- - [An internal Microsoft presentation in June 2022, found via FTC v Microsoft, floated building on Windows 365 to enable &quot;full Windows ... streamed from the cloud&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230627/p36#a230627p36)
- - [FTC v. Microsoft: all the news from the big Xbox courtroom battle](https://www.theverge.com/23768244/ftc-microsoft-activision-blizzard-case-news-announcements)<!-- TECH:END -->
+ - [Nanoleaf&#39;s 4D Screen Mirroring Kit &amp; Ultra Black Hexagons are up for preorder](https://appleinsider.com/articles/23/06/27/nanoleafs-4d-screen-mirroring-kit-ultra-black-hexagons-are-up-for-preorder?utm_medium=rss)
+ - [Unity&#39;s shares jump 14%+ after it announces its Asset Store will sell third-party &quot;AI solutions&quot; that can generate game dialogue, graphics, and more &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230627/p39#a230627p39)
+ - [How to use the new Apple Notes PDF features in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-apple-notes-pdf-features-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
