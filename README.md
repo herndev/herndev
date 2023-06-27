@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
- - ⏩ [Should I become racist?](http://9gag.com/gag/aBdOPXP)
- - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
+ - 💣 [We were always severely understaffed, but still feeling guilty now.](http://9gag.com/gag/amAp6Q6)
+ - ⏩ [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
+ - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
 
 ---
 
