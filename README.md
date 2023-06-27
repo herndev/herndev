@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lordstown Motors bankruptcy blames Foxconn for trying to ‘destroy’ its business](https://www.theverge.com/2023/6/27/23775189/lordstown-motors-foxconn-lawsuit-bankruptcy)
- - [Austin-based Cart.com, which offers end-to-end e-commerce tools, raised a $60M Series C at a $1.2B valuation, after raising nearly $400M in three rounds in 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230627/p27#a230627p27)
- - [Daily deals: $850 off 16&quot; MacBook Pro, 52% off Beats Studio 3 headphones, $249 iPad 9th Gen, more](https://appleinsider.com/articles/23/06/27/daily-deals-850-off-16-macbook-pro-52-off-beats-studio-3-headphones-249-ipad-9th-gen-more?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [Apple urges UK to rethink anti-encryption Online Safety Bill](https://appleinsider.com/articles/23/06/27/apple-urges-uk-to-rethink-anti-encryption-online-safety-bill?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
