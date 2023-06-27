@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 Go 3 launches with new action pod &amp; higher-resolution video](https://appleinsider.com/articles/23/06/27/insta360-go-3-launches-with-new-action-pod-higher-resolution-video?utm_medium=rss)
- - [Power up your next off-grid adventure with the Bluetti AC180 portable power station](https://appleinsider.com/articles/23/06/27/power-up-your-next-off-grid-adventure-with-the-bluetti-ac180-portable-power-station?utm_medium=rss)
- - [ChatGPT’s Storytelling Chops Are No Match for Dungeons &amp; Dragons](https://www.wired.com/story/chatgpt-learn-from-dungeons-and-dragons/)<!-- TECH:END -->
+ - [Lordstown Motors bankruptcy blames Foxconn for trying to ‘destroy’ its business](https://www.theverge.com/2023/6/27/23775189/lordstown-motors-foxconn-lawsuit-bankruptcy)
+ - [Austin-based Cart.com, which offers end-to-end e-commerce tools, raised a $60M Series C at a $1.2B valuation, after raising nearly $400M in three rounds in 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230627/p27#a230627p27)
+ - [Daily deals: $850 off 16&quot; MacBook Pro, 52% off Beats Studio 3 headphones, $249 iPad 9th Gen, more](https://appleinsider.com/articles/23/06/27/daily-deals-850-off-16-macbook-pro-52-off-beats-studio-3-headphones-249-ipad-9th-gen-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
