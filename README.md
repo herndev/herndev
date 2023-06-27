@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Super: Super Hero will soon be a lot easier to stream](https://www.polygon.com/23776158/dragon-ball-super-super-hero-where-to-watch-stream-crunchyroll)
- - [Minecraft movie starring Jason Momoa, by Napoleon Dynamite director, will supposedly start shooting this year](https://www.pcgamer.com/minecraft-movie-starring-jason-momoa-by-napoleon-dynamite-director-will-start-shooting-this-year)
- - [Diablo IV: 16 Things The Game Doesn’t Tell You](https://kotaku.com/diablo-4-iv-tips-skill-tree-elixirs-affixes-1850583551)<!-- GAME:END -->
+ - [Skullgirls bombarded by negative Steam reviews after devs alter old artwork they felt was in &#39;poor taste&#39;](https://www.pcgamer.com/skullgirls-bombarded-by-negative-steam-reviews-after-devs-alter-old-artwork-they-felt-was-in-poor-taste)
+ - [Fortnite Twitch Streamer Shaves Head For $2,500, Only To Have It Taken Back](https://kotaku.com/fortnite-twitch-streamer-lacy-subathon-shave-donation-1850583713)
+ - [Diablo 4&#39;s toughest XP grind just got significantly easier](https://www.pcgamer.com/diablo-4s-toughest-xp-grind-just-got-significantly-easier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
