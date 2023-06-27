@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Of Diablo IV’s Classes Just Got A Little Bit Stronger With Latest Update](https://kotaku.com/diablo-4-patch-note-103-class-buff-necromancer-sorcerer-1850583088)
- - [James Gunn’s Superman reboot has found its Clark Kent and Lois Lane](https://www.polygon.com/23775999/david-corenswet-james-gunn-superman-actor-rachel-brosnahan-lois-lane)
- - [The Dragon Prince looks darker and more intense than ever in the new season](https://www.polygon.com/23775951/the-dragon-prince-season-5-mystery-of-aaravos)<!-- GAME:END -->
+ - [Dragon Ball Super: Super Hero will soon be a lot easier to stream](https://www.polygon.com/23776158/dragon-ball-super-super-hero-where-to-watch-stream-crunchyroll)
+ - [Minecraft movie starring Jason Momoa, by Napoleon Dynamite director, will supposedly start shooting this year](https://www.pcgamer.com/minecraft-movie-starring-jason-momoa-by-napoleon-dynamite-director-will-start-shooting-this-year)
+ - [Diablo IV: 16 Things The Game Doesn’t Tell You](https://kotaku.com/diablo-4-iv-tips-skill-tree-elixirs-affixes-1850583551)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
