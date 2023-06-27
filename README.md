@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who’s actually showing up for San Diego Comic-Con 2023](https://www.polygon.com/sdcc/23774058/comic-con-2023-schedule-marvel-dc-hall-h)
- - [Meet Your Maker Sector 1: Dreadshore Adds New Destructive Tools to Your Arsenal](https://news.xbox.com/en-us/2023/06/27/sector-1-dreadshore-dlc-for-meet-your-maker/)
- - [Among Us TV show in the works from Infinity Train creator](https://www.polygon.com/23775521/among-us-tv-show-infinity-train)<!-- GAME:END -->
+ - [The Sims 5 Prototypes Give Us A Taste Of What’s Next For The Life Sim](https://kotaku.com/the-sims-5-project-rene-behind-the-sims-stream-1850582112)
+ - [Lucky Diablo IV Player Finds One Of The Game’s Rarest And Most Powerful Items](https://kotaku.com/diablo-4-rarest-items-unique-loot-andariel-visage-helm-1850582058)
+ - [Among Us Is Getting An Animated TV Show](https://kotaku.com/anime-among-us-tv-show-free-multiplayer-game-steam-1850582022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
