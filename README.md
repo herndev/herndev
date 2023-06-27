@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphones could soon have 24GB of RAM, because reasons &lpar;Update: Confirmed?&rpar;](https://www.androidauthority.com/24gb-ram-smartphones-3338968/)
- - [In a complaint before the EU&#39;s general court, German online retailer Zalando argues it had been unfairly labelled as &quot;very large&quot;, the DSA&#39;s first legal test &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230627/p6#a230627p6)
- - [Baidu claims Ernie 3.5, the latest version of its LLM, has surpassed ChatGPT in general abilities and outperformed GPT-4 on many Chinese-language capabilities &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230627/p5#a230627p5)<!-- TECH:END -->
+ - [Telegram CEO Pavel Durov says the service plans to add Stories in early July; the company was against adding Stories due to their ubiquity but listened to users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230627/p8#a230627p8)
+ - [The overclocked Snapdragon 8 Gen 2 is coming to more phones](https://www.androidauthority.com/overclocked-snapdragon-8-gen-2-leading-version-3339511/)
+ - [A look at review-bombing campaigns on Goodreads, which can derail a book&#39;s publication long before its release, affecting both new and established authors &lpar;New York Times&rpar;](http://www.techmeme.com/230627/p7#a230627p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
