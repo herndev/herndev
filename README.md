@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - ⏩ [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
- - 👉 [Serious inquiries only!](http://9gag.com/gag/aOxRDp3)<!-- MEMES:END -->
+ - 💣 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)
+ - ⏩ [Hehe](http://9gag.com/gag/aDYOZDd)
+ - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
 
 ---
 
