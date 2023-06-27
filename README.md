@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thomson Reuters agrees to acquire YC-backed Casetext, which builds AI-powered workflows and tools for lawyers, for $650M in cash, expected to close in H2 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p3#a230627p3)
- - [A 2019 email from Xbox Game Studios&#39; Matt Booty encouraged acquiring content to &quot;spend Sony out of business&quot;; Microsoft argues it didn&#39;t pursue the strategy &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230627/p2#a230627p2)
- - [After Elon Musk highlighted Twitter&#39;s TikTok-like &quot;swipe up for more videos&quot; feature, some users said they were shown gun violence, police brutality, and more &lpar;Khadijah Khogeer/NBC News&rpar;](http://www.techmeme.com/230627/p1#a230627p1)<!-- TECH:END -->
+ - [Smartphones could soon have 24GB of RAM, because reasons &lpar;Update: Confirmed?&rpar;](https://www.androidauthority.com/24gb-ram-smartphones-3338968/)
+ - [In a complaint before the EU&#39;s general court, German online retailer Zalando argues it had been unfairly labelled as &quot;very large&quot;, the DSA&#39;s first legal test &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230627/p6#a230627p6)
+ - [Baidu claims Ernie 3.5, the latest version of its LLM, has surpassed ChatGPT in general abilities and outperformed GPT-4 on many Chinese-language capabilities &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230627/p5#a230627p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
