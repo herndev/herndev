@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good ol&#39; russia...](http://9gag.com/gag/a4oWz3v)
- - ⏩ [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)
- - 👉 [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)<!-- MEMES:END -->
+ - 💣 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
+ - ⏩ [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
+ - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
 
 ---
 
