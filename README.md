@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Connections between Apple Car and a mysterious Arizona facility deepen with new evidence](https://appleinsider.com/articles/23/06/27/connections-between-apple-car-and-a-mysterious-arizona-facility-deepen-with-new-evidence?utm_medium=rss)
- - [Decentralized Twitter rival Damus will be removed from the App Store over Bitcoin tipping](https://appleinsider.com/articles/23/06/26/decentralized-twitter-rival-damus-will-be-removed-from-the-app-store-over-bitcoin-tipping?utm_medium=rss)
- - [Stability AI&#39;s head of research David Ha and COO Ren Ito left the company in June 2023; VP of product Christian Cantrell left the company in March 2023 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230626/p26#a230626p26)<!-- TECH:END -->
+ - [Around 45,000 people in Vietnam lost jobs in electronics manufacturing in the first five months of 2023, as Samsung and others substantially slowed production &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/230626/p27#a230626p27)
+ - [Trinity Solar Review: How It Stacks Up     - CNET](https://www.cnet.com/home/energy-and-utilities/trinity-solar-review-is-it-your-best-choice/#ftag=CAD590a51e)
+ - [Savings Rates Remain Attractive, But the End of High APYs Is Near, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-rates-remain-attractive-but-the-end-of-high-apys-is-near-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
