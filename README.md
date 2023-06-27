@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ROG Ally mostly beats Valve&#39;s Steam Deck in repairability and that&#39;s great news for miniaturised PC gaming](https://www.pcgamer.com/rog-ally-mostly-beats-valves-steam-deck-in-repairability-and-thats-great-news-for-miniaturised-pc-gaming)
- - [Can Doduo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23774096/can-doduo-be-shiny-dodrio)
- - [John Goodenough, the man most responsible for developing the batteries powering our mobile lives, dies aged 100](https://www.pcgamer.com/john-goodenough-the-man-most-responsible-for-developing-the-batteries-powering-our-mobile-lives-dies-aged-100)<!-- GAME:END -->
+ - [Diablo 4 Brought to Heel quest: Where to find the red mushroom](https://www.pcgamer.com/diablo-4-brought-to-heel-red-mushroom)
+ - [Court emails reveal Bethesda&#39;s confusion at Microsoft&#39;s special treatment for COD while Starfield goes Xbox-exclusive: &#39;What&#39;s the difference?&#39;](https://www.pcgamer.com/court-emails-reveal-bethesdas-confusion-at-microsofts-special-treatment-for-cod-while-starfield-goes-xbox-exclusive-whats-the-difference)
+ - [Google believes the key to beating ChatGPT is to drop its all-conquering gaming AI into the algorithm](https://www.pcgamer.com/google-believes-the-key-to-beating-chatgpt-is-to-drop-its-all-conquering-gaming-ai-into-the-algorithm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
