@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US government official Kurt Campbell confronted Sequoia&#39;s Don Vieira in DC over the VC firm&#39;s ties to China, eventually leading to the three-way split &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230627/p18#a230627p18)
- - [Tel Aviv-based NoTraffic, an AI-based traffic management service, raised a $50M Series B led by M&amp;G Investments, following a $17.5M Series A in July 2021 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230627/p17#a230627p17)
- - [Apple wants Xcode to write apps for you, automatically](https://appleinsider.com/articles/23/06/27/apple-wants-xcode-to-write-apps-for-you-automatically?utm_medium=rss)<!-- TECH:END -->
+ - [Insta360 Go 3 launches with new action pod &amp; higher-resolution video](https://appleinsider.com/articles/23/06/27/insta360-go-3-launches-with-new-action-pod-higher-resolution-video?utm_medium=rss)
+ - [Power up your next off-grid adventure with the Bluetti AC180 portable power station](https://appleinsider.com/articles/23/06/27/power-up-your-next-off-grid-adventure-with-the-bluetti-ac180-portable-power-station?utm_medium=rss)
+ - [ChatGPT’s Storytelling Chops Are No Match for Dungeons &amp; Dragons](https://www.wired.com/story/chatgpt-learn-from-dungeons-and-dragons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
