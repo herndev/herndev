@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro documentation shows the device has a safe area, defined as a radius of 1.5 meters from the headset, when in a &quot;fully immersive VR experience&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230627/p31#a230627p31)
- - [Five Nights at Freddy’s is an animatronic nightmare in new trailer](https://www.theverge.com/23775409/five-nights-at-freddys-trailer-date-peacock)
- - [Meta launches new parental controls and other safety features for Messenger and Instagram in the US, the UK, and Canada, including letting parents view contacts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230627/p30#a230627p30)<!-- TECH:END -->
+ - [New mysterious macOS malware infiltrates crypto exchange](https://appleinsider.com/articles/23/06/27/new-mysterious-macos-malware-infiltrates-crypto-exchange?utm_medium=rss)
+ - [An internal Microsoft presentation in June 2022, found via FTC v Microsoft, floated building on Windows 365 to enable &quot;full Windows ... streamed from the cloud&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230627/p36#a230627p36)
+ - [FTC v. Microsoft: all the news from the big Xbox courtroom battle](https://www.theverge.com/23768244/ftc-microsoft-activision-blizzard-case-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
