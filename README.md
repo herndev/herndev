@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yakuza Games Scrub A Bunch Of People From The Credits, Including Series Creator Toshihiro Nagoshi](https://kotaku.com/yakuza-like-a-dragon-nagoshi-sega-credits-pc-xbox-steam-1850579308)
  - [Valve collector shares his treasure trove of never-before-seen Half Life 2: Episode 3, &#39;Alyx &amp; Dog,&#39;  and Stars of Blood concept art](https://www.pcgamer.com/valve-collector-shares-his-treasure-trove-of-never-before-seen-half-life-2-episode-3-alyx-and-dog-and-stars-of-blood-concept-art)
- - [Mars First Logistics Is A Deeply Funny Video Game](https://kotaku.com/mars-first-logistics-steam-review-impressions-pc-funny-1850575480)
- - [US announces $42 billion plan to make high-speed internet universal by 2030](https://www.pcgamer.com/us-announces-dollar42-billion-plan-to-make-high-speed-internet-universal-by-2030)<!-- GAME:END -->
+ - [Mars First Logistics Is A Deeply Funny Video Game](https://kotaku.com/mars-first-logistics-steam-review-impressions-pc-funny-1850575480)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
