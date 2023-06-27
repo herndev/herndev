@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ROG Ally mostly beats Valve&#39;s Steam Deck in repairability and that&#39;s great news for miniaturised PC gaming](https://www.pcgamer.com/rog-ally-mostly-beats-valves-steam-deck-in-repairability-and-thats-great-news-for-miniaturised-pc-gaming)
  - [Can Doduo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23774096/can-doduo-be-shiny-dodrio)
- - [John Goodenough, the man most responsible for developing the batteries powering our mobile lives, dies aged 100](https://www.pcgamer.com/john-goodenough-the-man-most-responsible-for-developing-the-batteries-powering-our-mobile-lives-dies-aged-100)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/26/this-weeks-deals-with-gold-and-spotlight-sale-279/)<!-- GAME:END -->
+ - [John Goodenough, the man most responsible for developing the batteries powering our mobile lives, dies aged 100](https://www.pcgamer.com/john-goodenough-the-man-most-responsible-for-developing-the-batteries-powering-our-mobile-lives-dies-aged-100)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
