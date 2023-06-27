@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 3: Release date, rumors, and features we’d love to see](https://www.androidauthority.com/samsung-galaxy-buds-3-3311476/)
- - [ChatGPT on iOS now comes with Bing built-in](https://www.theverge.com/2023/6/27/23776006/chatgpt-ios-app-bing-search)
- - [Google’s Nearby Share can now send files to your sleeping devices](https://www.androidauthority.com/nearby-share-send-sleeping-device-3339763/)<!-- TECH:END -->
+ - [Adalytics: ~80% of Google&#39;s video ad placements on third-party sites violated the company&#39;s promised standards between 2020 and 2023; Google disputes the claims &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230627/p44#a230627p44)
+ - [Google’s next-gen AR glasses join the Google graveyard](https://www.androidauthority.com/google-project-iris-ar-glasses-3339742/)
+ - [Interest-free financing no longer offered by Apple in Canada](https://appleinsider.com/articles/23/06/27/interest-free-financing-no-longer-offered-by-apple-in-canada?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
