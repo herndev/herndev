@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Elon Musk highlighted Twitter&#39;s TikTok-like &quot;swipe up for more videos&quot; feature, some users said they were shown gun violence, police brutality, and more &lpar;Khadijah Khogeer/NBC News&rpar;](http://www.techmeme.com/230627/p1#a230627p1)
- - [John B. Goodenough, who shared the 2019 Nobel Prize in Chemistry for his role in developing the lithium-ion battery used in mobile devices and EVs, dies at 100 &lpar;Robert D. McFadden/New York Times&rpar;](http://www.techmeme.com/230626/p28#a230626p28)
- - [In the first five months of 2023, ~45,000 people in Vietnam lost jobs in electronics manufacturing, after Samsung and others substantially slowed production &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/230626/p27#a230626p27)<!-- TECH:END -->
+ - [Thomson Reuters agrees to acquire YC-backed Casetext, which builds AI-powered workflows and tools for lawyers, for $650M in cash, expected to close in H2 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p3#a230627p3)
+ - [A 2019 email from Xbox Game Studios&#39; Matt Booty encouraged acquiring content to &quot;spend Sony out of business&quot;; Microsoft argues it didn&#39;t pursue the strategy &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230627/p2#a230627p2)
+ - [After Elon Musk highlighted Twitter&#39;s TikTok-like &quot;swipe up for more videos&quot; feature, some users said they were shown gun violence, police brutality, and more &lpar;Khadijah Khogeer/NBC News&rpar;](http://www.techmeme.com/230627/p1#a230627p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
