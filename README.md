@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO Pavel Durov says the service plans to add Stories in early July; the company was against adding Stories due to their ubiquity but listened to users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230627/p8#a230627p8)
- - [The overclocked Snapdragon 8 Gen 2 is coming to more phones](https://www.androidauthority.com/overclocked-snapdragon-8-gen-2-leading-version-3339511/)
- - [A look at review-bombing campaigns on Goodreads, which can derail a book&#39;s publication long before its release, affecting both new and established authors &lpar;New York Times&rpar;](http://www.techmeme.com/230627/p7#a230627p7)<!-- TECH:END -->
+ - [Meta says WhatsApp Business crossed 200M MAUs, up from 50M in 2020, adds a tool to let users create &quot;click-to-WhatsApp&quot; ads without a Facebook account, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230627/p11#a230627p11)
+ - [Some doctors say that their current best use for generative AI is to ease the heavy burden of documentation, which takes hours a day and contributes to burnout &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230627/p10#a230627p10)
+ - [A Pixel Fold reviewer says the device&#39;s flexible OLED screen died after four days of light use, starting at the bottom and moving upwards, likely due to debris &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230627/p9#a230627p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
