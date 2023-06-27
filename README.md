@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skyline 2&#39;s simulation is so realistic that all the young people are broke](https://www.pcgamer.com/cities-skyline-2s-simulation-is-so-realistic-that-all-the-young-people-are-broke)
- - [Tears Of The Kingdom Players Determine Link’s Weight Is 10 Apples](https://kotaku.com/tears-of-the-kingdom-totk-link-weight-physics-1850578752)
- - [Pikmin 4 takes the series to new depths, with fewer dead soldiers](https://www.polygon.com/23773815/pikmin-4-preview-dandori-nintendo-switch-release-date)<!-- GAME:END -->
+ - [Valve collector shares his treasure trove of never-before-seen Half Life 2: Episode 3, &#39;Alyx &amp; Dog,&#39;  and Stars of Blood concept art](https://www.pcgamer.com/valve-collector-shares-his-treasure-trove-of-never-before-seen-half-life-2-episode-3-alyx-and-dog-and-stars-of-blood-concept-art)
+ - [Mars First Logistics Is A Deeply Funny Video Game](https://kotaku.com/mars-first-logistics-steam-review-impressions-pc-funny-1850575480)
+ - [US announces $42 billion plan to make high-speed internet universal by 2030](https://www.pcgamer.com/us-announces-dollar42-billion-plan-to-make-high-speed-internet-universal-by-2030)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
