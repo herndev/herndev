@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says WhatsApp Business crossed 200M MAUs, up from 50M in 2020, adds a tool to let users create &quot;click-to-WhatsApp&quot; ads without a Facebook account, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230627/p11#a230627p11)
- - [Some doctors say that their current best use for generative AI is to ease the heavy burden of documentation, which takes hours a day and contributes to burnout &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230627/p10#a230627p10)
- - [A Pixel Fold reviewer says the device&#39;s flexible OLED screen died after four days of light use, starting at the bottom and moving upwards, likely due to debris &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230627/p9#a230627p9)<!-- TECH:END -->
+ - [TikTok is discontinuing its BeReal clone](https://www.theverge.com/2023/6/27/23775125/tiktok-now-discontinued-notification-bereal-murder-clone)
+ - [Ford targets US and Canadian engineers in latest wave of layoffs](https://www.theverge.com/2023/6/27/23775120/ford-motor-layoffs-us-canada-engineer-ev-growth)
+ - [A look at Amazon&#39;s army of smaller AI-powered warehouse robots, including Proteus, which carries suitcase-sized bins of packages and works alongside humans &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230627/p13#a230627p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
