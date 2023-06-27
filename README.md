@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf&#39;s 4D Screen Mirroring Kit &amp; Ultra Black Hexagons are up for preorder](https://appleinsider.com/articles/23/06/27/nanoleafs-4d-screen-mirroring-kit-ultra-black-hexagons-are-up-for-preorder?utm_medium=rss)
- - [Unity&#39;s shares jump 14%+ after it announces its Asset Store will sell third-party &quot;AI solutions&quot; that can generate game dialogue, graphics, and more &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230627/p39#a230627p39)
- - [How to use the new Apple Notes PDF features in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-apple-notes-pdf-features-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Volvo’s upcoming EVs join the Tesla Supercharger bandwagon](https://www.theverge.com/2023/6/27/23775579/volvo-tesla-electric-car-supercharger-nacs)
+ - [You can watch the first episode of Apple’s Silo... on Twitter](https://www.theverge.com/2023/6/27/23775808/silo-apple-tv-plus-first-episode-twitter)
+ - [Google is giving the Android robot a glow-up, and you may have already seen how it looks](https://www.theverge.com/2023/6/27/23775605/google-android-robot-redesign-wordmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
