@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Brought to Heel quest: Where to find the red mushroom](https://www.pcgamer.com/diablo-4-brought-to-heel-red-mushroom)
- - [Court emails reveal Bethesda&#39;s confusion at Microsoft&#39;s special treatment for COD while Starfield goes Xbox-exclusive: &#39;What&#39;s the difference?&#39;](https://www.pcgamer.com/court-emails-reveal-bethesdas-confusion-at-microsofts-special-treatment-for-cod-while-starfield-goes-xbox-exclusive-whats-the-difference)
- - [Google believes the key to beating ChatGPT is to drop its all-conquering gaming AI into the algorithm](https://www.pcgamer.com/google-believes-the-key-to-beating-chatgpt-is-to-drop-its-all-conquering-gaming-ai-into-the-algorithm)<!-- GAME:END -->
+ - [Everybody 1-2-Switch! makes minigames massively multiplayer](https://www.polygon.com/23774290/everybody-1-2-switch-nintendo-preview-release-date)
+ - [Before Activision-Blizzard, Microsoft was planning to buy Sega](https://www.pcgamer.com/before-activision-blizzard-microsoft-was-planning-to-buy-sega)
+ - [CD Projekt Red insists that Cyberpunk 2077&#39;s launch wasn&#39;t that bad, but &#39;it became a cool thing not to like it&#39;](https://www.pcgamer.com/cd-projekt-red-insists-that-cyberpunk-2077s-launch-wasnt-that-bad-but-it-became-a-cool-thing-not-to-like-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
