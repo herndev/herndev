@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo’s upcoming EVs join the Tesla Supercharger bandwagon](https://www.theverge.com/2023/6/27/23775579/volvo-tesla-electric-car-supercharger-nacs)
- - [You can watch the first episode of Apple’s Silo... on Twitter](https://www.theverge.com/2023/6/27/23775808/silo-apple-tv-plus-first-episode-twitter)
- - [Google is giving the Android robot a glow-up, and you may have already seen how it looks](https://www.theverge.com/2023/6/27/23775605/google-android-robot-redesign-wordmark)<!-- TECH:END -->
+ - [Tel Aviv-based Anzu, which offers in-game ad tools across mobile, PC, and console platforms, raised a $48M Series B led by Emmis Corporation &lpar;Anthony Vargas/AdExchanger&rpar;](http://www.techmeme.com/230627/p42#a230627p42)
+ - [Save up to $1,650 on MacBook, Mac Studio &amp; Mac mini hardware with deals from B&amp;H Photo](https://appleinsider.com/articles/23/06/27/save-up-to-1650-on-macbook-mac-studio-mac-mini-hardware-with-deals-from-bh-photo?utm_medium=rss)
+ - [The Verge’s favorite summer gear for 2023](https://www.theverge.com/23774412/summer-gear-recommendation-sunhat-sunscreen-bug-blaster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
