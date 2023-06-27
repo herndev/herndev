@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)
- - ⏩ [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)
- - 👉 [Hehe](http://9gag.com/gag/aDYOZDd)<!-- MEMES:END -->
+ - 💣 [The Effects of Sunlight on your Skin](http://9gag.com/gag/anzrRWz)
+ - ⏩ [Serious inquiries only!](http://9gag.com/gag/aOxRDp3)
+ - 👉 [Jelly](http://9gag.com/gag/aBdOLLO)<!-- MEMES:END -->
 
 ---
 
