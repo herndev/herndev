@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Effects of Sunlight on your Skin](http://9gag.com/gag/anzrRWz)
- - ⏩ [Serious inquiries only!](http://9gag.com/gag/aOxRDp3)
- - 👉 [Jelly](http://9gag.com/gag/aBdOLLO)<!-- MEMES:END -->
+ - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
+ - ⏩ [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
+ - 👉 [Serious inquiries only!](http://9gag.com/gag/aOxRDp3)<!-- MEMES:END -->
 
 ---
 
