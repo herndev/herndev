@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dance to this - future is here old man](http://9gag.com/gag/aDYO2QZ)
- - ⏩ [Damn B*tch, You Live Like This?](http://9gag.com/gag/axoYveY)
- - 👉 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)<!-- MEMES:END -->
+ - 💣 [Australian beach worm](http://9gag.com/gag/a2KLy1d)
+ - ⏩ [For a moment she forgot she was mad at him](http://9gag.com/gag/aREOLQA)
+ - 👉 [Damn B*tch, You Live Like This?](http://9gag.com/gag/axoYveY)<!-- MEMES:END -->
 
 ---
 
