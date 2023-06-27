@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Anzu, which offers in-game ad tools across mobile, PC, and console platforms, raised a $48M Series B led by Emmis Corporation &lpar;Anthony Vargas/AdExchanger&rpar;](http://www.techmeme.com/230627/p42#a230627p42)
- - [Save up to $1,650 on MacBook, Mac Studio &amp; Mac mini hardware with deals from B&amp;H Photo](https://appleinsider.com/articles/23/06/27/save-up-to-1650-on-macbook-mac-studio-mac-mini-hardware-with-deals-from-bh-photo?utm_medium=rss)
- - [The Verge’s favorite summer gear for 2023](https://www.theverge.com/23774412/summer-gear-recommendation-sunhat-sunscreen-bug-blaster)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 3: Release date, rumors, and features we’d love to see](https://www.androidauthority.com/samsung-galaxy-buds-3-3311476/)
+ - [ChatGPT on iOS now comes with Bing built-in](https://www.theverge.com/2023/6/27/23776006/chatgpt-ios-app-bing-search)
+ - [Google’s Nearby Share can now send files to your sleeping devices](https://www.androidauthority.com/nearby-share-send-sleeping-device-3339763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
