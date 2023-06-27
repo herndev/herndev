@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - ⏩ [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
- - 👉 [Good ol&#39; russia...](http://9gag.com/gag/a4oWz3v)<!-- MEMES:END -->
+ - 💣 [Hans!!! God damn it just get Hans already!](http://9gag.com/gag/aL1dAEW)
+ - ⏩ [Oops](http://9gag.com/gag/avQdRmE)
+ - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
 
 ---
 
