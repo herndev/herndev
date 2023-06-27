@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Connections between Apple Car and a mysterious Arizona facility deepen with new evidence](https://appleinsider.com/articles/23/06/27/connections-between-apple-car-and-a-mysterious-arizona-facility-deepen-with-new-evidence?utm_medium=rss)
  - [Decentralized Twitter rival Damus will be removed from the App Store over Bitcoin tipping](https://appleinsider.com/articles/23/06/26/decentralized-twitter-rival-damus-will-be-removed-from-the-app-store-over-bitcoin-tipping?utm_medium=rss)
- - [Stability AI&#39;s head of research David Ha and COO Ren Ito left the company in June 2023; VP of product Christian Cantrell left the company in March 2023 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230626/p26#a230626p26)
- - [T-Mobile Changes AutoPay Discounts: What You Need to Know     - CNET](https://www.cnet.com/tech/mobile/t-mobile-changes-autopay-discounts-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stability AI&#39;s head of research David Ha and COO Ren Ito left the company in June 2023; VP of product Christian Cantrell left the company in March 2023 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230626/p26#a230626p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
