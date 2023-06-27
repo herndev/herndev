@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Doduo be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23774096/can-doduo-be-shiny-dodrio)
  - [John Goodenough, the man most responsible for developing the batteries powering our mobile lives, dies aged 100](https://www.pcgamer.com/john-goodenough-the-man-most-responsible-for-developing-the-batteries-powering-our-mobile-lives-dies-aged-100)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/26/this-weeks-deals-with-gold-and-spotlight-sale-279/)
- - [Today&#39;s Wordle hint and answer #738: Tuesday, June 27](https://www.pcgamer.com/wordle-answer-today-hint-738-june-27)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/26/this-weeks-deals-with-gold-and-spotlight-sale-279/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
