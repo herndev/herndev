@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/26/this-weeks-deals-with-gold-and-spotlight-sale-279/)
  - [Today&#39;s Wordle hint and answer #738: Tuesday, June 27](https://www.pcgamer.com/wordle-answer-today-hint-738-june-27)
- - [Nintendo Switch Update Appears To Block Words Like &#39;TERF&#39; and &#39;Titler&#39;](https://kotaku.com/nintendo-switch-terf-hitler-banned-words-censor-hogwart-1850579670)
- - [Yakuza Games Scrub A Bunch Of People From The Credits, Including Series Creator Toshihiro Nagoshi](https://kotaku.com/yakuza-like-a-dragon-nagoshi-sega-credits-pc-xbox-steam-1850579308)<!-- GAME:END -->
+ - [Nintendo Switch Update Appears To Block Words Like &#39;TERF&#39; and &#39;Titler&#39;](https://kotaku.com/nintendo-switch-terf-hitler-banned-words-censor-hogwart-1850579670)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
