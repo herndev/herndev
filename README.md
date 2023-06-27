@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m A Virgo shatters superhero stories by showing where real power comes from](https://www.polygon.com/23772011/amazon-im-a-virgo-review)
- - [Every Legend of Zelda Visual Aesthetic, Ranked From Worst To Best](https://kotaku.com/legend-of-zelda-art-totk-botw-link-tears-of-the-kingdom-1850579660)
- - [The data suggests Britain&#39;s best years of electronics recycling are already behind it](https://www.pcgamer.com/uk-e-waste-recycling-trends)<!-- GAME:END -->
+ - [TikTok Is Turning Grimace&#39;s Milkshake Into A Horror Movie](https://kotaku.com/grimace-shake-mcdonalds-tiktok-game-danganronpa-blood-1850581056)
+ - [Custom D&amp;D miniatures from Hero Forge will soon include adjustable facial features as well](https://www.polygon.com/tabletop-games/23774425/hero-forge-3d-printed-miniatures-face-customizer)
+ - [Pokemon GO Update Is So Good Players Think It&#39;s An Accident](https://kotaku.com/pokemon-go-june-content-update-spawn-radius-niantic-1850581024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
