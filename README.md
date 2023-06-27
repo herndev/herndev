@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hans!!! God damn it just get Hans already!](http://9gag.com/gag/aL1dAEW)
- - ⏩ [Oops](http://9gag.com/gag/avQdRmE)
- - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
+ - 💣 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)
+ - ⏩ [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)
+ - 👉 [How much concrete do you need](http://9gag.com/gag/a4oW2eZ)<!-- MEMES:END -->
 
 ---
 
