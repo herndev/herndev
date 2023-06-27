@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
- - ⏩ [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)
- - 👉 [Gray Dress](http://9gag.com/gag/adPo1OZ)<!-- MEMES:END -->
+ - 💣 [The f**k ?](http://9gag.com/gag/a8qKAK6)
+ - ⏩ [Wonder why your pizza took too long?](http://9gag.com/gag/aEqOomM)
+ - 👉 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
 
 ---
 
