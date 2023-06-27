@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is discontinuing its BeReal clone](https://www.theverge.com/2023/6/27/23775125/tiktok-now-discontinued-notification-bereal-murder-clone)
- - [Ford targets US and Canadian engineers in latest wave of layoffs](https://www.theverge.com/2023/6/27/23775120/ford-motor-layoffs-us-canada-engineer-ev-growth)
- - [A look at Amazon&#39;s army of smaller AI-powered warehouse robots, including Proteus, which carries suitcase-sized bins of packages and works alongside humans &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230627/p13#a230627p13)<!-- TECH:END -->
+ - [Sources: US government official Kurt Campbell confronted Sequoia&#39;s Don Vieira in DC over the VC firm&#39;s ties to China, eventually leading to the three-way split &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230627/p18#a230627p18)
+ - [Tel Aviv-based NoTraffic, an AI-based traffic management service, raised a $50M Series B led by M&amp;G Investments, following a $17.5M Series A in July 2021 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230627/p17#a230627p17)
+ - [Apple wants Xcode to write apps for you, automatically](https://appleinsider.com/articles/23/06/27/apple-wants-xcode-to-write-apps-for-you-automatically?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
