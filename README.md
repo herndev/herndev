@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The teacher was right. This trip will be memorable.](http://9gag.com/gag/a9qOD8Z)
- - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
+ - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
+ - ⏩ [Curie-ous](http://9gag.com/gag/a8qK2vZ)
  - 👉 [Testing the limits of NSFW with the most degen stuff I have](http://9gag.com/gag/aYVAPD0)<!-- MEMES:END -->
 
 ---
