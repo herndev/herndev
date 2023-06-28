@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive&#39;s latest gig is the seal for King Charles&#39;s space project](https://appleinsider.com/articles/23/06/28/jony-ives-latest-gig-is-the-seal-for-king-charless-space-project?utm_medium=rss)
- - [Apple playing chess, while others play checkers in march to $3 trillion](https://appleinsider.com/articles/23/06/28/apple-playing-chess-while-others-play-checkers-in-march-to-3-trillion?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-28-2023-3339341/)<!-- TECH:END -->
+ - [The greatest tech books of all time](https://www.theverge.com/c/23771068/best-tech-books-nonfiction-recommendations)
+ - [Here’s the OnePlus folding phone expected for later this year](https://www.theverge.com/2023/6/28/23776758/oneplus-fold-leak-specs-images)
+ - [TikTok could launch an online store next month](https://www.theverge.com/2023/6/28/23776788/tiktok-online-shopping-store-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
