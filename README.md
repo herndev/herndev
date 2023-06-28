@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
- - ⏩ [Detroit ftw](http://9gag.com/gag/az2YYQb)
- - 👉 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)<!-- MEMES:END -->
+ - 💣 [Detroit ftw](http://9gag.com/gag/az2YYQb)
+ - ⏩ [My Man](http://9gag.com/gag/aVbVLEK)
+ - 👉 [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)<!-- MEMES:END -->
 
 ---
 
