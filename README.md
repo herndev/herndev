@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Detroit ftw](http://9gag.com/gag/az2YYQb)
- - ⏩ [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
+ - 💣 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
+ - ⏩ [Detroit ftw](http://9gag.com/gag/az2YYQb)
+ - 👉 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)<!-- MEMES:END -->
 
 ---
 
