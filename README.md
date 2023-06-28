@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I would die for this delightfully garish Barbie Dreamhouse Xbox console](https://www.pcgamer.com/i-would-die-for-this-delightfully-garish-barbie-dreamhouse-xbox-console)
- - [Nvidia&#39;s next-generation GPUs will arrive in 2025 and slightly later than expected](https://www.pcgamer.com/nvidias-next-generation-gpus-will-arrive-in-2025-and-slightly-later-than-expected)
- - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)<!-- GAME:END -->
+ - [Nick Fury has many secrets, but Secret Invasion’s latest reveal is a whopper](https://www.polygon.com/23775384/marvel-secret-invasion-nick-fury-wife-charlayne-woodard-priscilla)
+ - [Destiny 2: How to catch Exotic fish and use each Broken Blade](https://www.pcgamer.com/destiny-2-broken-blade-exotic-fish)
+ - [Diablo 4&#39;s sword enthusiasts have realised that its weapons are all messed up](https://www.pcgamer.com/diablo-4s-sword-enthusiasts-have-realised-that-its-weapons-are-all-messed-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
