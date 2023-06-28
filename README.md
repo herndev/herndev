@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China is racing to catch the US in AI, but demos show China has far to go; Preqin: AI investments in the US were $26.6B in the year to mid-June vs. China&#39;s $4B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230628/p1#a230628p1)
- - [Reka, which is building custom AI models for the enterprise, emerges from stealth with $58M in funding led by DST Global Partners and Radical Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p51#a230627p51)
- - [Experts say there is a growing need to build data centers in the US, which had 2,701 data centers in 2022 per Statista, but finding land may be a challenge &lpar;Miranda S. Spivack/New York Times&rpar;](http://www.techmeme.com/230627/p50#a230627p50)<!-- TECH:END -->
+ - [Q&amp;A with Roblox CEO David Baszucki on the company adding experiences for people aged 17+, its aging users, its social graph, young developers, Robux, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230628/p2#a230628p2)
+ - [Veloretti Ace Two e-bike review: rarified heir](https://www.theverge.com/23775103/veloretti-ace-two-ebike-review-price-specs)
+ - [China is racing to catch the US in AI, but demos show China has far to go; Preqin: AI investments in the US were $26.6B in the year to mid-June vs. China&#39;s $4B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230628/p1#a230628p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
