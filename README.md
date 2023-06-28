@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
- - ⏩ [Hehe](http://9gag.com/gag/aDYOZDd)
- - 👉 [How much concrete do you need](http://9gag.com/gag/a4oW2eZ)<!-- MEMES:END -->
+ - 💣 [Do you know what big Tesco is?](http://9gag.com/gag/amApMoo)
+ - ⏩ [Every 9gagger&#39;s dream](http://9gag.com/gag/a5Xq2Ro)
+ - 👉 [Curie-ous](http://9gag.com/gag/a8qK2vZ)<!-- MEMES:END -->
 
 ---
 
