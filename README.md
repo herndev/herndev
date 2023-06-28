@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive’s LoveFrom designed a new seal for the UK’s outer space sustainability initiative](https://www.theverge.com/2023/6/28/23776927/jony-ive-lovefrom-astra-carta-seal-king-charles-space-uk)
- - [Data suggests Reddit protests negatively affected traffic, advertiser engagement](https://www.androidauthority.com/reddit-protests-data-3340103/)
- - [New York-based Slang.ai, which offers an AI-powered phone answering service for restaurants and retailers, raised a $20M Series A led by Homebrew &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230628/p21#a230628p21)<!-- TECH:END -->
+ - [Databricks announces LakehouseIQ, which lets companies use natural language to search and query their data, new tools for its Lakehouse AI platform, and more &lpar;Andrew Brust/The New Stack&rpar;](http://www.techmeme.com/230628/p22#a230628p22)
+ - [It’s taken one day for customers to report broken Pixel Fold screens](https://www.theverge.com/2023/6/28/23777211/google-pixel-fold-screen-breaking-reports)
+ - [Sony just spilled confidential PlayStation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
