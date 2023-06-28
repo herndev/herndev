@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you know what big Tesco is?](http://9gag.com/gag/amApMoo)
- - ⏩ [Every 9gagger&#39;s dream](http://9gag.com/gag/a5Xq2Ro)
- - 👉 [Curie-ous](http://9gag.com/gag/a8qK2vZ)<!-- MEMES:END -->
+ - 💣 [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)
+ - ⏩ [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
+ - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
 
 ---
 
