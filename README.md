@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craving power? Anker new 100W USB-C charger just got a big discount](https://www.androidauthority.com/anker-100w-usb-c-charger-deal-3340039/)
- - [Samsung reveals plans to make world’s most advanced mobile chips](https://www.androidauthority.com/samsung-mobile-chip-roadmap-3340021/)
- - [Hundreds of actors are ready to strike if SAG-AFTRA doesn’t secure a truly ‘transformative deal’](https://www.theverge.com/2023/6/28/23776829/sag-aftra-strike-letter)<!-- TECH:END -->
+ - [Babbel Lifetime Subscription drops to $179, save $420 on access to 14 languages](https://appleinsider.com/articles/23/06/28/babbel-lifetime-subscription-drops-to-179-save-420-on-access-to-14-languages?utm_medium=rss)
+ - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)
+ - [Google Local Guides program: What is it and how do you sign up for it?](https://www.androidauthority.com/google-local-guides-3339998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
