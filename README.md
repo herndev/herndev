@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU countries and lawmakers reach a provisional agreement on the Data Act, establishing rules on how Big Tech and other firms use EU consumer and corporate data &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230627/p47#a230627p47)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [What are the best Facebook alternatives in 2023?](https://www.androidauthority.com/best-facebook-alternatives-3339448/)<!-- TECH:END -->
+ - [Augmedics, which develops an FDA-approved AR navigation system for spinal surgery, raised an $82.5M Series D led by CPMG, bringing its total funding to $148M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230627/p49#a230627p49)
+ - [Sources: the US is considering new AI chip export restrictions to China as soon as July, which could even prevent sales of Nvidia&#39;s A800 chip without a license &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230627/p48#a230627p48)
+ - [Google is laying off employees at Waze](https://www.theverge.com/2023/6/27/23776329/google-waze-layoffs-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
