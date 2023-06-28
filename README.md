@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darktide patch finally gets us crossplay between Steam and the Microsoft Store](https://www.pcgamer.com/darktide-patch-finally-gets-us-crossplay-between-steam-and-the-microsoft-store)
- - [Sony court blunder reveals $200M cost of The Last of Us 2, Horizon Forbidden West](https://www.polygon.com/23777268/the-last-of-us-part-2-horizon-forbidden-west-200-million-budget-ftc-court-documents)
- - [Final Fantasy XVI’s Jill Should Be More Than Pretty](https://kotaku.com/ff16-jill-final-fantasy-xvi-square-enix-re4-ashley-1850587747)<!-- GAME:END -->
+ - [Skullgirls update cleans up its Nazi-inspired imagery, lurid panty shots](https://www.polygon.com/23777370/skullgirls-changes-censorship-black-egrets-filia-art-patch-notes)
+ - [Fervent speculation on a Red Dead Redemption remaster &lpar;or PC port&rpar; follows rating in Korea](https://www.pcgamer.com/fervent-speculation-on-a-red-dead-redemption-remaster-or-pc-port-follows-rating-in-korea)
+ - [The once controversial Six Days in Fallujah is finally out in early access, but it&#39;s just a barebones milsim for now](https://www.pcgamer.com/the-once-controversial-six-days-in-fallujah-is-finally-out-in-early-access-but-its-just-a-barebones-milsim-for-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
