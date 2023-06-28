@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There is no escaping Among Us: a new animated series has just been announced](https://www.pcgamer.com/there-is-no-escaping-among-us-a-new-animated-series-has-just-been-announced)
  - [Gran Turismo 7 Update 1.35 adds 3 exciting new cars, GT Café Menus, and more – out today](https://blog.playstation.com/2023/06/28/gran-turismo-7-update-1-35-adds-3-exciting-new-cars-gt-cafe-menus-and-more-out-today/)
- - [Ex-Riot Games, Bungie, and Blizzard devs reveal Project Loki, a MOBA with a ‘shooter soul’](https://www.polygon.com/23776098/project-loki-theorycraft-games-pc-playtest)
- - [The 11 Best Final Fantasy Spin-Offs, Ranked](https://kotaku.com/best-final-fantasy-rpg-spin-off-dissidia-tactics-remake-1850583525)<!-- GAME:END -->
+ - [Nvidia GeForce RTX 4060](https://www.pcgamer.com/nvidia-geforce-rtx-4060-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
