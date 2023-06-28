@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #739: Wednesday, June 28](https://www.pcgamer.com/wordle-answer-today-hint-739-june-28)
- - [Unity Announces Big &#39;AI&#39; Plans, Developers Have Concerns](https://kotaku.com/unity-ai-midjourney-dataset-engine-artists-animation-1850584349)
- - [Roblox Trying To Describe Adult Poop Is Very Funny](https://kotaku.com/roblox-17-mature-poop-poo-games-moderation-rules-1850584077)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 3.8 Takes Players to a Secret Summer Paradise Hidden Inside a Bottle](https://blog.playstation.com/2023/06/27/20230627-genshin/)
+ - [&lpar;For Southeast Asia&rpar; Introducing the Latest Information for Three Sonic Titles!](https://blog.playstation.com/2023/06/27/20230627-sonic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
