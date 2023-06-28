@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skullgirls bombarded by negative Steam reviews after devs alter old artwork they felt was in &#39;poor taste&#39;](https://www.pcgamer.com/skullgirls-bombarded-by-negative-steam-reviews-after-devs-alter-old-artwork-they-felt-was-in-poor-taste)
- - [Fortnite Twitch Streamer Shaves Head For $2,500, Only To Have It Taken Back](https://kotaku.com/fortnite-twitch-streamer-lacy-subathon-shave-donation-1850583713)
- - [Diablo 4&#39;s toughest XP grind just got significantly easier](https://www.pcgamer.com/diablo-4s-toughest-xp-grind-just-got-significantly-easier)<!-- GAME:END -->
+ - [Roblox Trying To Describe Adult Poop Is Very Funny](https://kotaku.com/roblox-17-mature-poop-poo-games-moderation-rules-1850584077)
+ - [Story of Seasons: A Wonderful Life review](https://www.pcgamer.com/story-of-seasons-a-wonderful-life-review)
+ - [Skullgirls bombarded by negative Steam reviews after devs alter old artwork they felt was in &#39;poor taste&#39;](https://www.pcgamer.com/skullgirls-bombarded-by-negative-steam-reviews-after-devs-alter-old-artwork-they-felt-was-in-poor-taste)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
