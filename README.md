@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
- - ⏩ [Curie-ous](http://9gag.com/gag/a8qK2vZ)
- - 👉 [Testing the limits of NSFW with the most degen stuff I have](http://9gag.com/gag/aYVAPD0)<!-- MEMES:END -->
+ - 💣 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
+ - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
+ - 👉 [Do you know what this individual is holding? It&#39;s a mobile POS that reads credit cards and contactless ATMs. This character, one of many, wanders in crowded places leaning on unsuspecting users&#39; purses, jackets and pants, in search of a card that executes transactions](http://9gag.com/gag/aA0Ovzg)<!-- MEMES:END -->
 
 ---
 
