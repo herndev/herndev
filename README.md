@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t have NFC? Google Wallet is finally getting QR payment support](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)
- - [Samsung Galaxy S23 FE leaked renders show a phone identical to the Galaxy A54](https://www.androidauthority.com/samsung-galaxy-s23-fe-leaked-renders-3339868/)
- - [The Z Flip 5 could deliver big camera, battery boosts via software alone](https://www.androidauthority.com/samsung-galaxy-z-flip-5-battery-camera-software-3338960/)<!-- TECH:END -->
+ - [HMD’s first repairable Nokia wasn’t a one off](https://www.theverge.com/2023/6/28/23776627/hmd-nokia-g42-repairable-price-release-date-specs-features)
+ - [Nigerian officials raise concerns as Chinese-owned super apps PalmPay and OPay gain popularity and Huawei dominates installation of 5G equipment in the country &lpar;James Kynge/Financial Times&rpar;](http://www.techmeme.com/230628/p5#a230628p5)
+ - [Don’t have NFC? Google Wallet is finally getting QR payment support](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
