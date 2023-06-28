@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks announces LakehouseIQ, which lets companies use natural language to search and query their data, new tools for its Lakehouse AI platform, and more &lpar;Andrew Brust/The New Stack&rpar;](http://www.techmeme.com/230628/p22#a230628p22)
- - [It’s taken one day for customers to report broken Pixel Fold screens](https://www.theverge.com/2023/6/28/23777211/google-pixel-fold-screen-breaking-reports)
- - [Sony just spilled confidential PlayStation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)<!-- TECH:END -->
+ - [Visa agrees to acquire Brazilian payments infrastructure startup Pismo for $1B in cash by the end of 2023; Pismo had raised a total of $118M until October 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230628/p24#a230628p24)
+ - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
+ - [How self-driving do we need our self-driving cars to be?](https://www.theverge.com/23776430/lidar-tesla-autonomous-cars-elon-musk-waymo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
