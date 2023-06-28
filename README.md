@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash launches hourly rates and location sharing for couriers](https://www.theverge.com/2023/6/28/23775879/doordash-hourly-rates-location-sharing-couriers)
- - [Garmin Venu 3: Release date, rumors, specs, price, and what we want to see](https://www.androidauthority.com/garmin-venu-3-3339845/)
- - [Windows 12 wishlist: What we want to see from Microsoft’s next OS release](https://www.androidauthority.com/windows-12-3339577/)<!-- TECH:END -->
+ - [HiPhi Z 2023 Review: Fast but Flawed](https://www.wired.com/review/review-hiphi-z/)
+ - [How to Install &#39;Diablo IV&#39; on Your Steam Deck](https://www.wired.com/story/install-diablo-iv-on-steam-deck-how-to/)
+ - [GM now has residential energy products to sell alongside EVs](https://www.theverge.com/2023/6/28/23776690/gm-energy-ultium-home-ev-charging-v2h-stationary-storage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
