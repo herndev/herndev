@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skullgirls update cleans up its Nazi-inspired imagery, lurid panty shots](https://www.polygon.com/23777370/skullgirls-changes-censorship-black-egrets-filia-art-patch-notes)
- - [Fervent speculation on a Red Dead Redemption remaster &lpar;or PC port&rpar; follows rating in Korea](https://www.pcgamer.com/fervent-speculation-on-a-red-dead-redemption-remaster-or-pc-port-follows-rating-in-korea)
- - [The once controversial Six Days in Fallujah is finally out in early access, but it&#39;s just a barebones milsim for now](https://www.pcgamer.com/the-once-controversial-six-days-in-fallujah-is-finally-out-in-early-access-but-its-just-a-barebones-milsim-for-now)<!-- GAME:END -->
+ - [Liam Neeson’s latest thriller is about a car that will explode if he stops driving it](https://www.polygon.com/23777227/retribution-liam-neeson-trailer-speed-remake-thriller)
+ - [Sony&#39;s advanced black marker technology fails to stop super sleuths from reading confidential numbers](https://www.pcgamer.com/sony-ftc-microsoft-redacted-document)
+ - [Final Fantasy XVI&#39;s Clive Actor Has Read Your Thirsty Fan Fiction](https://kotaku.com/final-fantasy-xvi-ffxvi-clive-thirsty-fan-fiction-ps5-1850588637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
