@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ryuichi Sakamoto’s Final Performance Is a Virtual-Only Engagement](https://www.wired.com/story/ryuichi-sakamotos-final-performance-is-a-virtual-only-engagement/)
- - [A Dog’s Life Could Hold the Key to Anti-Aging Drugs for Humans](https://www.wired.com/story/have-a-nice-future-podcast-12/)
- - [21 Best Early Amazon Prime Day 2023 Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)<!-- TECH:END -->
+ - [DoorDash launches hourly rates and location sharing for couriers](https://www.theverge.com/2023/6/28/23775879/doordash-hourly-rates-location-sharing-couriers)
+ - [Garmin Venu 3: Release date, rumors, specs, price, and what we want to see](https://www.androidauthority.com/garmin-venu-3-3339845/)
+ - [Windows 12 wishlist: What we want to see from Microsoft’s next OS release](https://www.androidauthority.com/windows-12-3339577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
