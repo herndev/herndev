@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Shouldn’t Be This Divisive](https://kotaku.com/final-fantasy-xvi-16-ff16-action-rpg-combat-fans-1850587235)
- - [World of Warcraft Classic introducing new permadeath Hardcore Realms](https://www.polygon.com/23777233/world-of-warcraft-classic-hardcore-realms-permadeath-pvp)
- - [The Grimace Milkshake Is Killing Your Favorite Anime And Gaming Characters Too](https://kotaku.com/mcdonalds-grimace-birthday-milkshake-anime-zelda-dbz-1850587315)<!-- GAME:END -->
+ - [Darktide patch finally gets us crossplay between Steam and the Microsoft Store](https://www.pcgamer.com/darktide-patch-finally-gets-us-crossplay-between-steam-and-the-microsoft-store)
+ - [Sony court blunder reveals $200M cost of The Last of Us 2, Horizon Forbidden West](https://www.polygon.com/23777268/the-last-of-us-part-2-horizon-forbidden-west-200-million-budget-ftc-court-documents)
+ - [Final Fantasy XVI’s Jill Should Be More Than Pretty](https://kotaku.com/ff16-jill-final-fantasy-xvi-square-enix-re4-ashley-1850587747)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
