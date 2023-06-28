@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making Life HELL For Scammers](http://9gag.com/gag/a3Zb2Xv)
+ - 💣 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)
  - ⏩ [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
- - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
+ - 👉 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)<!-- MEMES:END -->
 
 ---
 
