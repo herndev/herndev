@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Z Flip 5 could deliver big camera, battery boosts via software alone](https://www.androidauthority.com/samsung-galaxy-z-flip-5-battery-camera-software-3338960/)
- - [How Shein&#39;s influencer tour of its Guangzhou factory, potentially aimed at fostering goodwill and improving the company&#39;s image before a rumored IPO, backfired &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/230628/p4#a230628p4)
- - [FTX sues former compliance officer Daniel Friedberg, alleging he was Sam Bankman-Fried&#39;s &quot;fixer&quot; who made &quot;hush money&quot; payments to two potential whistleblowers &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/230628/p3#a230628p3)<!-- TECH:END -->
+ - [Don’t have NFC? Google Wallet is finally getting QR payment support](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)
+ - [Samsung Galaxy S23 FE leaked renders show a phone identical to the Galaxy A54](https://www.androidauthority.com/samsung-galaxy-s23-fe-leaked-renders-3339868/)
+ - [The Z Flip 5 could deliver big camera, battery boosts via software alone](https://www.androidauthority.com/samsung-galaxy-z-flip-5-battery-camera-software-3338960/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
