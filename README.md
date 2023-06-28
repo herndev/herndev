@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Detroit ftw](http://9gag.com/gag/az2YYQb)
- - ⏩ [My Man](http://9gag.com/gag/aVbVLEK)
- - 👉 [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)<!-- MEMES:END -->
+ - 💣 [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
+ - ⏩ [Detroit ftw](http://9gag.com/gag/az2YYQb)
+ - 👉 [When you carve your fiance name at the Colosseum to be romantic and now you&#39;re a wanted person](http://9gag.com/gag/a7qppRq)<!-- MEMES:END -->
 
 ---
 
