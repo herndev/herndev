@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Unity Announces Big &#39;AI&#39; Plans, Developers Have Concerns](https://kotaku.com/unity-ai-midjourney-dataset-engine-artists-animation-1850584349)
  - [Roblox Trying To Describe Adult Poop Is Very Funny](https://kotaku.com/roblox-17-mature-poop-poo-games-moderation-rules-1850584077)
- - [Story of Seasons: A Wonderful Life review](https://www.pcgamer.com/story-of-seasons-a-wonderful-life-review)
- - [Skullgirls bombarded by negative Steam reviews after devs alter old artwork they felt was in &#39;poor taste&#39;](https://www.pcgamer.com/skullgirls-bombarded-by-negative-steam-reviews-after-devs-alter-old-artwork-they-felt-was-in-poor-taste)<!-- GAME:END -->
+ - [Story of Seasons: A Wonderful Life review](https://www.pcgamer.com/story-of-seasons-a-wonderful-life-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
