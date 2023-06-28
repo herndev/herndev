@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some dude tried to break into hotel rooms. He went from door to door and used this weird hook to pull down the handles ther from within to invade in while guests were at lunch.](http://9gag.com/gag/a3ZbAMe)
- - ⏩ [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)
- - 👉 [Gray Dress](http://9gag.com/gag/adPo1OZ)<!-- MEMES:END -->
+ - 💣 [Making Life HELL For Scammers](http://9gag.com/gag/a3Zb2Xv)
+ - ⏩ [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
+ - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
 
 ---
 
