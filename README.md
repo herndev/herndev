@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HiPhi Z 2023 Review: Fast but Flawed](https://www.wired.com/review/review-hiphi-z/)
- - [How to Install &#39;Diablo IV&#39; on Your Steam Deck](https://www.wired.com/story/install-diablo-iv-on-steam-deck-how-to/)
- - [GM now has residential energy products to sell alongside EVs](https://www.theverge.com/2023/6/28/23776690/gm-energy-ultium-home-ev-charging-v2h-stationary-storage)<!-- TECH:END -->
+ - [Jony Ive&#39;s latest gig is the seal for King Charles&#39;s space project](https://appleinsider.com/articles/23/06/28/jony-ives-latest-gig-is-the-seal-for-king-charless-space-project?utm_medium=rss)
+ - [Apple playing chess, while others play checkers in march to $3 trillion](https://appleinsider.com/articles/23/06/28/apple-playing-chess-while-others-play-checkers-in-march-to-3-trillion?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-28-2023-3339341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
