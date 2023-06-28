@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)
- - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 3.8 Takes Players to a Secret Summer Paradise Hidden Inside a Bottle](https://blog.playstation.com/2023/06/27/20230627-genshin/)
- - [&lpar;For Southeast Asia&rpar; Introducing the Latest Information for Three Sonic Titles!](https://blog.playstation.com/2023/06/27/20230627-sonic/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 3.8 Takes Players to a Secret Summer Paradise Hidden Inside a Bottle](https://blog.playstation.com/2023/06/27/20230627-genshin/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
