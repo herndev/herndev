@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you carve your fiance name at the Colosseum to be romantic and now you&#39;re a wanted person](http://9gag.com/gag/a7qppRq)
- - ⏩ [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
- - 👉 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)<!-- MEMES:END -->
+ - 💣 [The teacher was right. This trip will be memorable.](http://9gag.com/gag/a9qOD8Z)
+ - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
+ - 👉 [Testing the limits of NSFW with the most degen stuff I have](http://9gag.com/gag/aYVAPD0)<!-- MEMES:END -->
 
 ---
 
