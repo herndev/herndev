@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - ⏩ [NFT](http://9gag.com/gag/a6qj2be)
- - 👉 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)<!-- MEMES:END -->
+ - 💣 [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
+ - ⏩ [Hehe](http://9gag.com/gag/aDYOZDd)
+ - 👉 [How much concrete do you need](http://9gag.com/gag/a4oW2eZ)<!-- MEMES:END -->
 
 ---
 
