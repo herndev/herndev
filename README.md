@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing the limits of NSFW with the most degen stuff I have](http://9gag.com/gag/aYVAPD0)
- - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
- - 👉 [Curie-ous](http://9gag.com/gag/a8qK2vZ)<!-- MEMES:END -->
+ - 💣 [Guess the game!](http://9gag.com/gag/aeQ72dv)
+ - ⏩ [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)
+ - 👉 [NewThreat](http://9gag.com/gag/axoYmBb)<!-- MEMES:END -->
 
 ---
 
