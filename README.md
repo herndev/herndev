@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Guess the game!](http://9gag.com/gag/aeQ72dv)
- - ⏩ [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)
- - 👉 [NewThreat](http://9gag.com/gag/axoYmBb)<!-- MEMES:END -->
+ - ⏩ [Curie-ous](http://9gag.com/gag/a8qK2vZ)
+ - 👉 [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)<!-- MEMES:END -->
 
 ---
 
