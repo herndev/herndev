@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are the best Facebook alternatives in 2023?](https://www.androidauthority.com/best-facebook-alternatives-3339448/)
- - [OpenAI&#39;s ChatGPT iOS app adds Bing for ChatGPT Plus subscribers, letting them get answers on information that extend beyond ChatGPT&#39;s original training data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p46#a230627p46)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [EU countries and lawmakers reach a provisional agreement on the Data Act, establishing rules on how Big Tech and other firms use EU consumer and corporate data &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230627/p47#a230627p47)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [What are the best Facebook alternatives in 2023?](https://www.androidauthority.com/best-facebook-alternatives-3339448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
