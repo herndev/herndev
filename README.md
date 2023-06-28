@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars Campaigns and Digital Collectibles for July 2023](https://blog.playstation.com/2023/06/28/playstation-stars-campaigns-and-digital-collectibles-for-july-2023/)
- - [PlayStation Plus July 2023 free games: Alan Wake Remastered and Black Ops: Cold War](https://www.polygon.com/23776926/playstation-ps-plus-games-july-2023-essential-ps4-ps5)
- - [The people refuse to decide between Barbie and Oppenheimer](https://www.polygon.com/23775980/barbie-oppenheimer-release-date-showdown-memes)<!-- GAME:END -->
+ - [Skullgirls Players In Shambles After Devs Hide Butt, Nuke Nazi References](https://kotaku.com/skullgirls-update-look-steam-review-bomb-controversy-1850586374)
+ - [Battlebit Remastered is the second coming of Battlefield: Bad Company](https://www.polygon.com/reviews/23776976/battlebit-remastered-review-battlefield-military-shooter)
+ - [Dive into Relaxation with Placid Plastic Duck Simulator, Out Now on Xbox](https://news.xbox.com/en-us/2023/06/28/placid-plastic-duck-simulator-on-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
