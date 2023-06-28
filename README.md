@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)
- - ⏩ [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
- - 👉 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)<!-- MEMES:END -->
+ - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
+ - ⏩ [NFT](http://9gag.com/gag/a6qj2be)
+ - 👉 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)<!-- MEMES:END -->
 
 ---
 
