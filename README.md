@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visa agrees to acquire Brazilian payments infrastructure startup Pismo for $1B in cash by the end of 2023; Pismo had raised a total of $118M until October 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230628/p24#a230628p24)
- - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
- - [How self-driving do we need our self-driving cars to be?](https://www.theverge.com/23776430/lidar-tesla-autonomous-cars-elon-musk-waymo)<!-- TECH:END -->
+ - [Microsoft CEO says he wants to end Xbox exclusives but blames Sony](https://www.theverge.com/2023/6/28/23777585/microsoft-ceo-satya-nadella-console-exclusives-sony-xbox-competition)
+ - [Sony accidentally spilled confidential information on Call of Duty&#39;s revenue and PlayStation in a court document by making deficient redactions with a Sharpie &lpar;The Verge&rpar;](http://www.techmeme.com/230628/p25#a230628p25)
+ - [Visa plans to acquire S&amp;atilde;o Paulo-based payments infrastructure startup Pismo for $1B in cash by the end of 2023; Pismo had raised $118M through October 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230628/p24#a230628p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
