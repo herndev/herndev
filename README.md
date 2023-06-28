@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)
- - ⏩ [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - 👉 [A student graduating from school refuses to shake hands with a female high school principal on religious grounds &lpar;Norway&rpar;](http://9gag.com/gag/abvQOY8)<!-- MEMES:END -->
+ - 💣 [How much concrete do you need](http://9gag.com/gag/a4oW2eZ)
+ - ⏩ [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)
+ - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
 
 ---
 
