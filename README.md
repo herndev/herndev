@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s next-generation GPUs will arrive in 2025 and slightly later than expected](https://www.pcgamer.com/nvidias-next-generation-gpus-will-arrive-in-2025-and-slightly-later-than-expected)
  - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)
- - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)
- - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 3.8 Takes Players to a Secret Summer Paradise Hidden Inside a Bottle](https://blog.playstation.com/2023/06/27/20230627-genshin/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/27/20230627-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
