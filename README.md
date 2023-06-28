@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD’s first repairable Nokia wasn’t a one off](https://www.theverge.com/2023/6/28/23776627/hmd-nokia-g42-repairable-price-release-date-specs-features)
- - [Nigerian officials raise concerns as Chinese-owned super apps PalmPay and OPay gain popularity and Huawei dominates installation of 5G equipment in the country &lpar;James Kynge/Financial Times&rpar;](http://www.techmeme.com/230628/p5#a230628p5)
- - [Don’t have NFC? Google Wallet is finally getting QR payment support](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)<!-- TECH:END -->
+ - [How Jsaux rode the Steam Deck to escape the Amazon wilderness](https://www.theverge.com/23769329/jsaux-valve-steam-deck-pc-gaming-accessories-china-interview-hands-on-testing)
+ - [MLB partners with Uplift Labs, which uses AI to detect players&#39; flaws, forecast potential, and flag injury risk based on images captured by two iPhone cameras &lpar;Lindsey Adler/Wall Street Journal&rpar;](http://www.techmeme.com/230628/p8#a230628p8)
+ - [Poll results: You overwhelmingly think your phone is listening to you for ads](https://www.androidauthority.com/phone-listening-to-you-ads-poll-results-3339906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
