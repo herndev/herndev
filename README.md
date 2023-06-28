@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Roblox CEO David Baszucki on the company adding experiences for people aged 17+, its aging users, its social graph, young developers, Robux, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230628/p2#a230628p2)
- - [Veloretti Ace Two e-bike review: rarified heir](https://www.theverge.com/23775103/veloretti-ace-two-ebike-review-price-specs)
- - [China is racing to catch the US in AI, but demos show China has far to go; Preqin: AI investments in the US were $26.6B in the year to mid-June vs. China&#39;s $4B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230628/p1#a230628p1)<!-- TECH:END -->
+ - [The Z Flip 5 could deliver big camera, battery boosts via software alone](https://www.androidauthority.com/samsung-galaxy-z-flip-5-battery-camera-software-3338960/)
+ - [How Shein&#39;s influencer tour of its Guangzhou factory, potentially aimed at fostering goodwill and improving the company&#39;s image before a rumored IPO, backfired &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/230628/p4#a230628p4)
+ - [FTX sues former compliance officer Daniel Friedberg, alleging he was Sam Bankman-Fried&#39;s &quot;fixer&quot; who made &quot;hush money&quot; payments to two potential whistleblowers &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/230628/p3#a230628p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
