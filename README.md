@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things Final Fantasy XVI Doesn’t Tell You](https://kotaku.com/final-fantasy-16-tips-training-ifrit-abilities-respec-1850587025)
- - [I built some wonky robots in Mars First Logistics, and they keep spilling potatoes](https://www.pcgamer.com/i-built-some-wonky-robots-in-mars-first-logistics-and-they-keep-spilling-potatoes)
- - [An Insight on Your Computer Might Be at Risk, out Now on Xbox and Windows](https://news.xbox.com/en-us/2023/06/28/your-computer-might-be-at-risk-on-xbox-and-windows/)<!-- GAME:END -->
+ - [Final Fantasy XVI Shouldn’t Be This Divisive](https://kotaku.com/final-fantasy-xvi-16-ff16-action-rpg-combat-fans-1850587235)
+ - [World of Warcraft Classic introducing new permadeath Hardcore Realms](https://www.polygon.com/23777233/world-of-warcraft-classic-hardcore-realms-permadeath-pvp)
+ - [The Grimace Milkshake Is Killing Your Favorite Anime And Gaming Characters Too](https://kotaku.com/mcdonalds-grimace-birthday-milkshake-anime-zelda-dbz-1850587315)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
