@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A25 5G leaks, proves Samsung really loves this one design](https://www.androidauthority.com/samsung-galaxy-a25-5g-3340024/)
- - [Beats Studio Pro expected July 19, says leaker](https://appleinsider.com/articles/23/06/28/beats-studio-pro-expected-july-19-says-leaker?utm_medium=rss)
- - [Microsoft wanted to acquire Square Enix as part of plan for mobile Game Pass](https://www.theverge.com/2023/6/28/23777003/microsoft-square-enix-acquisition-mobile-xbox-game-pass)<!-- TECH:END -->
+ - [Craving power? Anker new 100W USB-C charger just got a big discount](https://www.androidauthority.com/anker-100w-usb-c-charger-deal-3340039/)
+ - [Samsung reveals plans to make world’s most advanced mobile chips](https://www.androidauthority.com/samsung-mobile-chip-roadmap-3340021/)
+ - [Hundreds of actors are ready to strike if SAG-AFTRA doesn’t secure a truly ‘transformative deal’](https://www.theverge.com/2023/6/28/23776829/sag-aftra-strike-letter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
