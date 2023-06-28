@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skullgirls Players In Shambles After Devs Hide Butt, Nuke Nazi References](https://kotaku.com/skullgirls-update-look-steam-review-bomb-controversy-1850586374)
- - [Battlebit Remastered is the second coming of Battlefield: Bad Company](https://www.polygon.com/reviews/23776976/battlebit-remastered-review-battlefield-military-shooter)
- - [Dive into Relaxation with Placid Plastic Duck Simulator, Out Now on Xbox](https://news.xbox.com/en-us/2023/06/28/placid-plastic-duck-simulator-on-xbox/)<!-- GAME:END -->
+ - [10 Things Final Fantasy XVI Doesn’t Tell You](https://kotaku.com/final-fantasy-16-tips-training-ifrit-abilities-respec-1850587025)
+ - [I built some wonky robots in Mars First Logistics, and they keep spilling potatoes](https://www.pcgamer.com/i-built-some-wonky-robots-in-mars-first-logistics-and-they-keep-spilling-potatoes)
+ - [An Insight on Your Computer Might Be at Risk, out Now on Xbox and Windows](https://news.xbox.com/en-us/2023/06/28/your-computer-might-be-at-risk-on-xbox-and-windows/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
