@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Babbel Lifetime Subscription drops to $179, save $420 on access to 14 languages](https://appleinsider.com/articles/23/06/28/babbel-lifetime-subscription-drops-to-179-save-420-on-access-to-14-languages?utm_medium=rss)
- - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)
- - [Google Local Guides program: What is it and how do you sign up for it?](https://www.androidauthority.com/google-local-guides-3339998/)<!-- TECH:END -->
+ - [Jony Ive’s LoveFrom designed a new seal for the UK’s outer space sustainability initiative](https://www.theverge.com/2023/6/28/23776927/jony-ive-lovefrom-astra-carta-seal-king-charles-space-uk)
+ - [Data suggests Reddit protests negatively affected traffic, advertiser engagement](https://www.androidauthority.com/reddit-protests-data-3340103/)
+ - [New York-based Slang.ai, which offers an AI-powered phone answering service for restaurants and retailers, raised a $20M Series A led by Homebrew &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230628/p21#a230628p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
