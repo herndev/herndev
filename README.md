@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)
- - ⏩ [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
- - 👉 [NewThreat](http://9gag.com/gag/axoYmBb)<!-- MEMES:END -->
+ - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
+ - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
+ - 👉 [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)<!-- MEMES:END -->
 
 ---
 
