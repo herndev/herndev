@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The greatest tech books of all time](https://www.theverge.com/c/23771068/best-tech-books-nonfiction-recommendations)
- - [Here’s the OnePlus folding phone expected for later this year](https://www.theverge.com/2023/6/28/23776758/oneplus-fold-leak-specs-images)
- - [TikTok could launch an online store next month](https://www.theverge.com/2023/6/28/23776788/tiktok-online-shopping-store-launch)<!-- TECH:END -->
+ - [Samsung Galaxy A25 5G leaks, proves Samsung really loves this one design](https://www.androidauthority.com/samsung-galaxy-a25-5g-3340024/)
+ - [Beats Studio Pro expected July 19, says leaker](https://appleinsider.com/articles/23/06/28/beats-studio-pro-expected-july-19-says-leaker?utm_medium=rss)
+ - [Microsoft wanted to acquire Square Enix as part of plan for mobile Game Pass](https://www.theverge.com/2023/6/28/23777003/microsoft-square-enix-acquisition-mobile-xbox-game-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
