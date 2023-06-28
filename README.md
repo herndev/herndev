@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)
- - ⏩ [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)
- - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
+ - 💣 [When you carve your fiance name at the Colosseum to be romantic and now you&#39;re a wanted person](http://9gag.com/gag/a7qppRq)
+ - ⏩ [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
+ - 👉 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)<!-- MEMES:END -->
 
 ---
 
