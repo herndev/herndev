@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the game!](http://9gag.com/gag/aeQ72dv)
- - ⏩ [Curie-ous](http://9gag.com/gag/a8qK2vZ)
- - 👉 [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)<!-- MEMES:END -->
+ - 💣 [Sweet, manmade horrors beyond my compherension!](http://9gag.com/gag/aQEOyj7)
+ - ⏩ [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
+ - 👉 [NewThreat](http://9gag.com/gag/axoYmBb)<!-- MEMES:END -->
 
 ---
 
