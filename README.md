@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Clip on the Internet](http://9gag.com/gag/aoKYL22)
- - ⏩ [Shots fired](http://9gag.com/gag/ay2YQ3X)
- - 👉 [Father of the year](http://9gag.com/gag/agoE4nq)<!-- MEMES:END -->
+ - 💣 [How much concrete do you need](http://9gag.com/gag/a4oW2eZ)
+ - ⏩ [And that\u2019s how you get the puss.](http://9gag.com/gag/aNwOOd0)
+ - 👉 [It ain&#39;t worth your time or wallet if there is no H-Cup, keep walkin..](http://9gag.com/gag/aDYObgx)<!-- MEMES:END -->
 
 ---
 
