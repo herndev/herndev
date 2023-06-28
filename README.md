@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Jsaux rode the Steam Deck to escape the Amazon wilderness](https://www.theverge.com/23769329/jsaux-valve-steam-deck-pc-gaming-accessories-china-interview-hands-on-testing)
- - [MLB partners with Uplift Labs, which uses AI to detect players&#39; flaws, forecast potential, and flag injury risk based on images captured by two iPhone cameras &lpar;Lindsey Adler/Wall Street Journal&rpar;](http://www.techmeme.com/230628/p8#a230628p8)
- - [Poll results: You overwhelmingly think your phone is listening to you for ads](https://www.androidauthority.com/phone-listening-to-you-ads-poll-results-3339906/)<!-- TECH:END -->
+ - [Ryuichi Sakamoto’s Final Performance Is a Virtual-Only Engagement](https://www.wired.com/story/ryuichi-sakamotos-final-performance-is-a-virtual-only-engagement/)
+ - [A Dog’s Life Could Hold the Key to Anti-Aging Drugs for Humans](https://www.wired.com/story/have-a-nice-future-podcast-12/)
+ - [21 Best Early Amazon Prime Day 2023 Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
