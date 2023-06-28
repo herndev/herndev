@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There is no escaping Among Us: a new animated series has just been announced](https://www.pcgamer.com/there-is-no-escaping-among-us-a-new-animated-series-has-just-been-announced)
- - [Gran Turismo 7 Update 1.35 adds 3 exciting new cars, GT Café Menus, and more – out today](https://blog.playstation.com/2023/06/28/gran-turismo-7-update-1-35-adds-3-exciting-new-cars-gt-cafe-menus-and-more-out-today/)
- - [Nvidia GeForce RTX 4060](https://www.pcgamer.com/nvidia-geforce-rtx-4060-review-benchmarks-performance)<!-- GAME:END -->
+ - [Funko just launched its TMNT: Mutant Mayhem lineup of toys](https://www.polygon.com/deals/23775899/funko-pop-tmnt-mutant-mayhem-figure-toys-buy-target)
+ - [This simple feature is the reason I&#39;m still using this $99 headset over objectively better ones for the last two years](https://www.pcgamer.com/this-simple-feature-is-the-reason-im-still-using-this-dollar99-headset-over-objectively-better-ones-for-the-last-two-years)
+ - [Minecraft&#39;s devs exit its 7 million-strong subreddit after Reddit&#39;s ham-fisted crackdown on protest](https://www.pcgamer.com/minecrafts-devs-exit-its-7-million-strong-subreddit-after-reddits-ham-fisted-crackdown-on-protest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
