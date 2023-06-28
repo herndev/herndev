@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Funko just launched its TMNT: Mutant Mayhem lineup of toys](https://www.polygon.com/deals/23775899/funko-pop-tmnt-mutant-mayhem-figure-toys-buy-target)
- - [This simple feature is the reason I&#39;m still using this $99 headset over objectively better ones for the last two years](https://www.pcgamer.com/this-simple-feature-is-the-reason-im-still-using-this-dollar99-headset-over-objectively-better-ones-for-the-last-two-years)
- - [Minecraft&#39;s devs exit its 7 million-strong subreddit after Reddit&#39;s ham-fisted crackdown on protest](https://www.pcgamer.com/minecrafts-devs-exit-its-7-million-strong-subreddit-after-reddits-ham-fisted-crackdown-on-protest)<!-- GAME:END -->
+ - [PlayStation Stars Campaigns and Digital Collectibles for July 2023](https://blog.playstation.com/2023/06/28/playstation-stars-campaigns-and-digital-collectibles-for-july-2023/)
+ - [PlayStation Plus July 2023 free games: Alan Wake Remastered and Black Ops: Cold War](https://www.polygon.com/23776926/playstation-ps-plus-games-july-2023-essential-ps4-ps5)
+ - [The people refuse to decide between Barbie and Oppenheimer](https://www.polygon.com/23775980/barbie-oppenheimer-release-date-showdown-memes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
