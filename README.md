@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reka, which is building custom AI models for the enterprise, emerges from stealth with $58M in funding led by DST Global Partners and Radical Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230627/p51#a230627p51)
  - [Experts say there is a growing need to build data centers in the US, which had 2,701 data centers in 2022 per Statista, but finding land may be a challenge &lpar;Miranda S. Spivack/New York Times&rpar;](http://www.techmeme.com/230627/p50#a230627p50)
- - [Augmedics, which develops an FDA-approved AR navigation system for spinal surgery, raised an $82.5M Series D led by CPMG, bringing its total funding to $148M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230627/p49#a230627p49)
- - [Sources: the US is considering new AI chip export restrictions to China as soon as July, which could even prevent sales of Nvidia&#39;s A800 chip without a license &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230627/p48#a230627p48)<!-- TECH:END -->
+ - [Augmedics, which develops an FDA-approved AR navigation system for spinal surgery, raised an $82.5M Series D led by CPMG, bringing its total funding to $148M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230627/p49#a230627p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
