@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Liam Neeson’s latest thriller is about a car that will explode if he stops driving it](https://www.polygon.com/23777227/retribution-liam-neeson-trailer-speed-remake-thriller)
- - [Sony&#39;s advanced black marker technology fails to stop super sleuths from reading confidential numbers](https://www.pcgamer.com/sony-ftc-microsoft-redacted-document)
- - [Final Fantasy XVI&#39;s Clive Actor Has Read Your Thirsty Fan Fiction](https://kotaku.com/final-fantasy-xvi-ffxvi-clive-thirsty-fan-fiction-ps5-1850588637)<!-- GAME:END -->
+ - [The Password Game is so absurdly demanding, even its creator hasn’t beaten it](https://www.polygon.com/23777561/the-password-game-browser-neal-agarwal)
+ - [Another Final Fantasy Character Is Finally As Powerful As Donald Duck](https://kotaku.com/final-fantasy-donald-duck-kingdom-hearts-ff16-powerful-1850588829)
+ - [Liam Neeson’s latest thriller is about a car that will explode if he stops driving it](https://www.polygon.com/23777227/retribution-liam-neeson-trailer-speed-remake-thriller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
