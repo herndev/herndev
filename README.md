@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo will have to update its devices to support Pocket’s new login system](https://www.theverge.com/23778208/kobo-pocket-ebook-reader-integration-ending)
- - [YouTube tests disabling videos for people using ad blockers](https://www.theverge.com/2023/6/29/23778879/youtube-videos-disabling-ad-blockers-detection)
- - [Review of &amp;pound;749 Asus Zenfone 10: compact with a 5.9&quot; display, good performance and battery life, but cameras are limited and only two years of software updates &lpar;Richard Priday/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230629/p37#a230629p37)<!-- TECH:END -->
+ - [Another original, factory-sealed iPhone is up for auction](https://appleinsider.com/articles/23/06/29/another-original-factory-sealed-iphone-is-up-for-auction?utm_medium=rss)
+ - [Meta plans to let people in the EU directly download apps through Facebook ads; a pilot is set to start as soon as this year with select Android app developers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230629/p38#a230629p38)
+ - [Meta is planning to let people in the EU download apps through Facebook](https://www.theverge.com/2023/6/29/23778928/meta-eu-facebook-plans-app-install-android-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
