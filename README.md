@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another original, factory-sealed iPhone is up for auction](https://appleinsider.com/articles/23/06/29/another-original-factory-sealed-iphone-is-up-for-auction?utm_medium=rss)
- - [Meta plans to let people in the EU directly download apps through Facebook ads; a pilot is set to start as soon as this year with select Android app developers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230629/p38#a230629p38)
- - [Meta is planning to let people in the EU download apps through Facebook](https://www.theverge.com/2023/6/29/23778928/meta-eu-facebook-plans-app-install-android-ads)<!-- TECH:END -->
+ - [Satechi launches 16-in-1 Multimedia Pro Dock with Thunderbolt 4](https://appleinsider.com/articles/23/06/29/satechi-launches-16-in-1-multimedia-pro-dock-with-thunderbolt-4?utm_medium=rss)
+ - [Court docs: Satya Nadella said Azure&#39;s cloud server business made $34B in revenue in the year ended June 2022, less than half of AWS&#39; revenue in the same period &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230629/p40#a230629p40)
+ - [The cheapest countries to buy an iPad Pro](https://www.androidauthority.com/cheapest-place-to-buy-an-ipad-pro-3340637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
