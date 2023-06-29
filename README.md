@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try Windows Copilot and native RAR and 7-Zip support in Windows 11](https://www.theverge.com/2023/6/29/23778224/microsoft-windows-11-copilot-rar-7-zip-audio-mixer)
- - [The DJI Air 3 could come with a dual-camera system](https://www.theverge.com/2023/6/29/23778374/dji-air-3-dual-camera-system-leak)
- - [The best Metro by T-Mobile deals of 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
+ - [The Steam Deck’s second sale ever: now, it’s up to $130 off](https://www.theverge.com/2023/6/29/23778674/steam-deck-valve-deal-sale)
+ - [Police in San Francisco and other cities are obtaining warrants for Waymo and Cruise driverless car camera footage to help solve murders and other crimes &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230629/p35#a230629p35)
+ - [The ‘Titan’ Tragedy’s Last 96 Hours](https://www.wired.com/story/titan-sub-oceangate-hull-failure-loss-tragedy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
