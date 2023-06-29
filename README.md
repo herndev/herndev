@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Futuristic Nazi is the insult here](http://9gag.com/gag/arm28g0)
- - ⏩ [So apparently being a man is not THAT easy as they think it is...](http://9gag.com/gag/aoKYYjx)
- - 👉 [Sk8ter Boi...](http://9gag.com/gag/aVbVB0d)<!-- MEMES:END -->
+ - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
+ - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
+ - 👉 [Safety First](http://9gag.com/gag/aL1dmj5)<!-- MEMES:END -->
 
 ---
 
