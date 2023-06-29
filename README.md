@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish I had this much confidence and self esteem](http://9gag.com/gag/abvQmpp)
- - ⏩ [This guy who is a social worker, coach and fitness instructor brings fun games for the residents of this nursing home...](http://9gag.com/gag/aWGDdr2)
- - 👉 [Almost the same:&rpar;](http://9gag.com/gag/aREODny)<!-- MEMES:END -->
+ - 💣 [NewThreat](http://9gag.com/gag/axoYmBb)
+ - ⏩ [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
+ - 👉 [Online dating vs reality](http://9gag.com/gag/az2YD9j)<!-- MEMES:END -->
 
 ---
 
