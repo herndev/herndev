@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite praise for Apple Vision Pro, &#39;Pokemon Go&#39; dev evolves into smaller company](https://appleinsider.com/articles/23/06/29/despite-praise-for-apple-vision-pro-pokemon-go-dev-evolves-into-smaller-company?utm_medium=rss)
- - [Google has already created a limited edition Pixel Fold and its incredible](https://www.androidauthority.com/limited-edition-pixel-fold-anniversary-3340564/)
- - [Everything new in iOS 17 Photos &amp; Camera](https://appleinsider.com/articles/23/06/29/everything-new-in-the-ios-17-photo-camera?utm_medium=rss)<!-- TECH:END -->
+ - [Kobo will have to update its devices to support Pocket’s new login system](https://www.theverge.com/23778208/kobo-pocket-ebook-reader-integration-ending)
+ - [YouTube tests disabling videos for people using ad blockers](https://www.theverge.com/2023/6/29/23778879/youtube-videos-disabling-ad-blockers-detection)
+ - [Review of &amp;pound;749 Asus Zenfone 10: compact with a 5.9&quot; display, good performance and battery life, but cameras are limited and only two years of software updates &lpar;Richard Priday/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230629/p37#a230629p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
