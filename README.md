@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
- - ⏩ [Safety First](http://9gag.com/gag/aL1dmj5)
- - 👉 [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)<!-- MEMES:END -->
+ - 💣 [Futuristic Nazi is the insult here](http://9gag.com/gag/arm28g0)
+ - ⏩ [Sk8ter Boi...](http://9gag.com/gag/aVbVB0d)
+ - 👉 [Give them food instead I guess](http://9gag.com/gag/ay2YPWM)<!-- MEMES:END -->
 
 ---
 
