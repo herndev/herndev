@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese food delivery giant Meituan plans to acquire AI startup Light Year from Meituan co-founder Wang Huiwen for ~$233.7M in cash and ~$50.7M in debt &lpar;John Biju/Reuters&rpar;](http://www.techmeme.com/230629/p20#a230629p20)
- - [Documents and sources: the FTC plans to file a far-reaching case focused on Amazon&#39;s core marketplace in the coming weeks after months of honing the complaint &lpar;Bloomberg&rpar;](http://www.techmeme.com/230629/p19#a230629p19)
- - [Meta&#39;s Oversight Board calls for Cambodian PM Hun Sen to be suspended on Facebook and Instagram, the first time the Board has asked for a ban of a head of state &lpar;Washington Post&rpar;](http://www.techmeme.com/230629/p18#a230629p18)<!-- TECH:END -->
+ - [6 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [Max begins fixing its ‘disrespectful’ Creator credits](https://www.theverge.com/2023/6/29/23778153/hbo-max-creator-credits-warner-bros-discovery-wga-sag)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
