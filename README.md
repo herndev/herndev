@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro safety concerns limit &#39;fully immersive&#39; apps](https://appleinsider.com/articles/23/06/29/apple-vision-pro-safety-concerns-limit-fully-immersive-apps?utm_medium=rss)
- - [One of the best reasons to use a Kobo is going away in August](https://www.theverge.com/23778208/kobo-pocket-ebook-reader-integration-ending)
- - [Snapchat says Snapchat+, which lets users access experimental and pre-released features for $3.99 per month, has reached 4M paid subscribers in its first year &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230629/p26#a230629p26)<!-- TECH:END -->
+ - [Austria-based One Trading, the digital asset exchange formerly called Bitpanda Pro, raised a &amp;euro;30M Series A led by Valar Ventures, as it separates from Bitpanda &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230629/p27#a230629p27)
+ - [YouTube could be testing a three-strikes policy for ad blocking](https://www.androidauthority.com/youtube-three-strikes-policy-block-ads-3340340/)
+ - [How to trade in your MacBook, macOS desktop, iPhone, or iPad](https://www.theverge.com/23775945/trade-in-macbook-macos-iphone-pad-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
