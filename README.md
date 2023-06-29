@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WAIT WHAT?!](http://9gag.com/gag/a4oWx31)
- - ⏩ [I wish I had this much confidence and self esteem](http://9gag.com/gag/abvQmpp)
+ - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
+ - ⏩ [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)
  - 👉 [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)<!-- MEMES:END -->
 
 ---
