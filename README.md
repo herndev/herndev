@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone wants to go to Sweden!!](http://9gag.com/gag/a1PEOQY)
- - ⏩ [The greatest prankster of all time R\u00e9mi GAILLARD](http://9gag.com/gag/aZDzRDW)
- - 👉 [Happy life](http://9gag.com/gag/aeQ77DO)<!-- MEMES:END -->
+ - 💣 [I wish I had this much confidence and self esteem](http://9gag.com/gag/abvQmpp)
+ - ⏩ [This guy who is a social worker, coach and fitness instructor brings fun games for the residents of this nursing home...](http://9gag.com/gag/aWGDdr2)
+ - 👉 [Almost the same:&rpar;](http://9gag.com/gag/aREODny)<!-- MEMES:END -->
 
 ---
 
