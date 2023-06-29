@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Safety First](http://9gag.com/gag/aL1dmj5)
- - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
- - 👉 [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)<!-- MEMES:END -->
+ - ⏩ [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
+ - 👉 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)<!-- MEMES:END -->
 
 ---
 
