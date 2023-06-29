@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Katamari Damacy Creator&#39;s New Game Is About A T-Posing Teenager](https://kotaku.com/to-a-t-reveal-trailer-katamari-damacy-gameplay-announce-1850592973)
- - [The Stream Deck mobile app turns your phone into a handheld livestream control room](https://www.pcgamer.com/the-stream-deck-mobile-app-turns-your-phone-into-a-handheld-livestream-control-room)
- - [Bungie explains why Destiny 2 keeps going down — and how it plans to fix it](https://www.polygon.com/23778845/destiny-2-lightfall-stability-error-server-maitanence-fix-roadmap)<!-- GAME:END -->
+ - [The players hunting for Diablo 4&#39;s secret cow level have suffered a major setback, but you&#39;d be a fool to think that&#39;s stopping them](https://www.pcgamer.com/the-players-hunting-for-diablo-4s-secret-cow-level-have-suffered-a-major-setback-but-youd-be-a-fool-to-think-thats-stopping-them)
+ - [It doesn&#39;t seem fair that this wonderfully weird visual novel about alien whales is completely free](https://www.pcgamer.com/it-doesnt-seem-fair-that-this-wonderfully-weird-visual-novel-about-alien-whales-is-completely-free)
+ - [Katamari Damacy Creator&#39;s New Game Is About A T-Posing Teenager](https://kotaku.com/to-a-t-reveal-trailer-katamari-damacy-gameplay-announce-1850592973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
