@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Linda Yaccarino plans to launch full-screen, sound-on video ads on Twitter&#39;s short-video feed and is wooing celebrities in the hope of selling more ads &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230629/p5#a230629p5)
- - [Larry Ellison says Oracle will spend &quot;billions&quot; on Nvidia GPUs and &quot;three times&quot; that on Ampere and AMD CPUs this year, as the company grows its cloud services &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230629/p4#a230629p4)
- - [Where to find free e-books for your Amazon Kindle](https://www.androidauthority.com/free-kindle-books-3339781/)<!-- TECH:END -->
+ - [The Witcher season 3 sets up an epic finale for Henry Cavill’s Geralt](https://www.theverge.com/23776783/witcher-season-3-volume-1-review-netflix)
+ - [Pornhub Accused of Illegal Data Collection](https://www.wired.com/story/pornhub-tracking-cookies-gdpr-video-history/)
+ - [Sources: Linda Yaccarino plans to launch full-screen, sound-on video ads on Twitter&#39;s short-video feed and is wooing celebrities in the hope of selling more ads &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230629/p5#a230629p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
