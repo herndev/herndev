@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Password Game is so absurdly demanding, even its creator hasn’t beaten it](https://www.polygon.com/23777561/the-password-game-browser-neal-agarwal)
- - [Another Final Fantasy Character Is Finally As Powerful As Donald Duck](https://kotaku.com/final-fantasy-donald-duck-kingdom-hearts-ff16-powerful-1850588829)
- - [Liam Neeson’s latest thriller is about a car that will explode if he stops driving it](https://www.polygon.com/23777227/retribution-liam-neeson-trailer-speed-remake-thriller)<!-- GAME:END -->
+ - [Our favorite extraction shooter just got an update that adds its greatest enemy yet: rain](https://www.pcgamer.com/our-favorite-extraction-shooter-just-got-an-update-that-adds-its-greatest-enemy-yet-rain)
+ - [Official Minecraft Subreddit Shuts Down, Says &#39;We No Longer Feel Reddit Is An Appropriate Place&#39;](https://kotaku.com/minecraft-reddit-protest-huffman-ceo-subreddit-mojang-1850589115)
+ - [TikTok’s Grimace shake trend turns the McDonald’s mascot into a murderer](https://www.polygon.com/23777288/tiktok-grimace-shake-videos-trend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
