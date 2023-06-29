@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California-based law firm launches a class-action suit against OpenAI, claiming the company violated millions of internet users&#39; rights by scraping their data &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230629/p2#a230629p2)
- - [As US landlords increasingly turn to AI tools to screen tenants, housing and privacy advocates warn of opaque algorithms heightening errors and discrimination &lpar;Rebecca Burns/The Lever&rpar;](http://www.techmeme.com/230629/p1#a230629p1)
- - [A look at Substack in the wake of the pandemic&#39;s &quot;rocket ship growth&quot;, given fresh competition from WordPress, Beehiiv, and Ghost, the Twitter feud, and more &lpar;Joe Pompeo/Vanity Fair&rpar;](http://www.techmeme.com/230628/p34#a230628p34)<!-- TECH:END -->
+ - [Sources: Linda Yaccarino plans to launch full-screen, sound-on video ads on Twitter&#39;s short-video feed and is wooing celebrities in the hope of selling more ads &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230629/p5#a230629p5)
+ - [Larry Ellison says Oracle will spend &quot;billions&quot; on Nvidia GPUs and &quot;three times&quot; that on Ampere and AMD CPUs this year, as the company grows its cloud services &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230629/p4#a230629p4)
+ - [Where to find free e-books for your Amazon Kindle](https://www.androidauthority.com/free-kindle-books-3339781/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
