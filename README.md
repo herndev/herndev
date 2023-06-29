@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This guy&#39;s tech mandalas are giving me an ontological crisis](https://www.pcgamer.com/this-guys-tech-mandalas-are-giving-me-an-ontological-crisis)
- - [The new season of The Witcher is just half the story — here’s what to expect from the rest](https://www.polygon.com/23777140/witcher-season-3-part-2-volume-release-date-cast-news-episodes-netflix)
- - [Witcher Season 3 Volume 1 review: An aggressive goodbye to Henry Cavill in a season full of thrills and kills](https://www.pcgamer.com/witcher-season-3-volume-1-review-neutrality-gets-you-nowhere)<!-- GAME:END -->
+ - [Old School RuneScape hero makes history by completing ludicrous, multi-year quest to collect every boss drop in the game](https://www.pcgamer.com/old-school-runescape-hero-makes-history-by-completing-ludicrous-multi-year-quest-to-collect-every-boss-drop-in-the-game)
+ - [VRLA Tech Titan](https://www.pcgamer.com/vrla-tech-titan)
+ - [In this beautiful strategy city builder from the creator of The Settlers series, &#39;You don&#39;t have to make your people happy, instead, your people have to make you happy&#39;](https://www.pcgamer.com/pioneers-of-pagonia-strategy-city-builder-gameplay-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
