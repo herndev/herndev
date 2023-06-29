@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
- - ⏩ [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)
- - 👉 [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)<!-- MEMES:END -->
+ - 💣 [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
+ - ⏩ [Finally! Now let\u2019s see who will start opposing to this.](http://9gag.com/gag/a9qOZbj)
+ - 👉 [Reverse card - Activate!](http://9gag.com/gag/aBdOv5D)<!-- MEMES:END -->
 
 ---
 
