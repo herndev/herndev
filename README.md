@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austria-based One Trading, the digital asset exchange formerly called Bitpanda Pro, raised a &amp;euro;30M Series A led by Valar Ventures, as it separates from Bitpanda &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230629/p27#a230629p27)
- - [YouTube could be testing a three-strikes policy for ad blocking](https://www.androidauthority.com/youtube-three-strikes-policy-block-ads-3340340/)
- - [How to trade in your MacBook, macOS desktop, iPhone, or iPad](https://www.theverge.com/23775945/trade-in-macbook-macos-iphone-pad-how-to)<!-- TECH:END -->
+ - [At least one big third-party Reddit iOS app will live on](https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal)
+ - [Bose recalls over 1 million ancient subwoofers due to potential fire hazard](https://www.theverge.com/2023/6/29/23778354/bose-recall-acousticmass-lifestyle-companion-bass-fire-hazard)
+ - [Reddit protest updates: news on the apps shutting down and Reddit’s fights with mods](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
