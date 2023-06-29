@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This guy&#39;s tech mandalas are giving me an ontological crisis](https://www.pcgamer.com/this-guys-tech-mandalas-are-giving-me-an-ontological-crisis)
  - [The new season of The Witcher is just half the story — here’s what to expect from the rest](https://www.polygon.com/23777140/witcher-season-3-part-2-volume-release-date-cast-news-episodes-netflix)
- - [Witcher Season 3 Volume 1 review: An aggressive goodbye to Henry Cavill in a season full of thrills and kills](https://www.pcgamer.com/witcher-season-3-volume-1-review-neutrality-gets-you-nowhere)
- - [Today&#39;s Wordle hint and answer #740: Thursday, June 29](https://www.pcgamer.com/wordle-answer-today-hint-740-june-29)<!-- GAME:END -->
+ - [Witcher Season 3 Volume 1 review: An aggressive goodbye to Henry Cavill in a season full of thrills and kills](https://www.pcgamer.com/witcher-season-3-volume-1-review-neutrality-gets-you-nowhere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
