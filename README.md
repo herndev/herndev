@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
- - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
- - 👉 [Safety First](http://9gag.com/gag/aL1dmj5)<!-- MEMES:END -->
+ - 💣 [Safety First](http://9gag.com/gag/aL1dmj5)
+ - ⏩ [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)
+ - 👉 [Like a beer can](http://9gag.com/gag/aoKYD0X)<!-- MEMES:END -->
 
 ---
 
