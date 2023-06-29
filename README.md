@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
- - ⏩ [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)
- - 👉 [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)<!-- MEMES:END -->
+ - 💣 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
+ - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
+ - 👉 [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)<!-- MEMES:END -->
 
 ---
 
