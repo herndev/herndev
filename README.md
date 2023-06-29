@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon will be livestreamed for free this year — yes, all of it](https://www.polygon.com/23778115/blizzcon-2023-dates-tickets-livestream)
- - [Pokémon Go ‘Dark Flames’ Timed Research and event guide](https://www.polygon.com/pokemon-go-guide/2023/6/29/23778510/dark-flames-timed-research-paths-dark-fire-collection-challenge-turtonator)
- - [Shooter Dev Threatens To Ban Anyone For Sharing Game Secrets](https://kotaku.com/escape-from-tarkov-pc-gaming-ban-extraction-shooter-1850591450)<!-- GAME:END -->
+ - [BlizzCon 2023 Livestream Will Be Free, But IRL Tickets Are $300](https://kotaku.com/when-is-blizzcon-2023-ticket-cost-price-blizzard-diablo-1850592183)
+ - [Dune 2 looks incredible because the first movie did all the work](https://www.polygon.com/23778585/dune-2-part-two-trailer-explained-cast-christopher-walken-florence-pugh-austin-butler)
+ - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
