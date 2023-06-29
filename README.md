@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
- - ⏩ [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
- - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
+ - 💣 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
+ - ⏩ [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
+ - 👉 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)<!-- MEMES:END -->
 
 ---
 
