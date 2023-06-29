@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
- - ⏩ [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)
- - 👉 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)<!-- MEMES:END -->
+ - 💣 [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)
+ - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
+ - 👉 [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)<!-- MEMES:END -->
 
 ---
 
