@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Password Game Is A Perfect Recreation Of Our Online Dystopia](https://kotaku.com/password-game-google-chrome-neal-app-browser-captcha-1850589646)
  - [The US wants to restrict China&#39;s access to AI chips even more, and Nvidia could lose out as a result](https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result)
- - [Report: Disney Really Did Turn A Hillary Robot Into Donald Trump](https://kotaku.com/trump-hillary-disney-hall-presidents-robot-animatronic-1850589326)
- - [Our favorite extraction shooter just got an update that adds its greatest enemy yet: rain](https://www.pcgamer.com/our-favorite-extraction-shooter-just-got-an-update-that-adds-its-greatest-enemy-yet-rain)<!-- GAME:END -->
+ - [Report: Disney Really Did Turn A Hillary Robot Into Donald Trump](https://kotaku.com/trump-hillary-disney-hall-presidents-robot-animatronic-1850589326)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
