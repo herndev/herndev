@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Max begins fixing its ‘disrespectful’ Creator credits](https://www.theverge.com/2023/6/29/23778153/hbo-max-creator-credits-warner-bros-discovery-wga-sag)<!-- TECH:END -->
+ - [Apple Vision Pro safety concerns limit &#39;fully immersive&#39; apps](https://appleinsider.com/articles/23/06/29/apple-vision-pro-safety-concerns-limit-fully-immersive-apps?utm_medium=rss)
+ - [One of the best reasons to use a Kobo is going away in August](https://www.theverge.com/23778208/kobo-pocket-ebook-reader-integration-ending)
+ - [Snapchat says Snapchat+, which lets users access experimental and pre-released features for $3.99 per month, has reached 4M paid subscribers in its first year &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230629/p26#a230629p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
