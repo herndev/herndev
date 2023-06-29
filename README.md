@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steam Deck’s second sale ever: now, it’s up to $130 off](https://www.theverge.com/2023/6/29/23778674/steam-deck-valve-deal-sale)
- - [Police in San Francisco and other cities are obtaining warrants for Waymo and Cruise driverless car camera footage to help solve murders and other crimes &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230629/p35#a230629p35)
- - [The ‘Titan’ Tragedy’s Last 96 Hours](https://www.wired.com/story/titan-sub-oceangate-hull-failure-loss-tragedy/)<!-- TECH:END -->
+ - [Despite praise for Apple Vision Pro, &#39;Pokemon Go&#39; dev evolves into smaller company](https://appleinsider.com/articles/23/06/29/despite-praise-for-apple-vision-pro-pokemon-go-dev-evolves-into-smaller-company?utm_medium=rss)
+ - [Google has already created a limited edition Pixel Fold and its incredible](https://www.androidauthority.com/limited-edition-pixel-fold-anniversary-3340564/)
+ - [Everything new in iOS 17 Photos &amp; Camera](https://appleinsider.com/articles/23/06/29/everything-new-in-the-ios-17-photo-camera?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
