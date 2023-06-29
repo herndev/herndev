@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 2,139 US individuals: 33% of adults and 51% of teen ages 13-17 reported receiving online hate in 2023, up from 23% and 36% respectively in 2022 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230628/p33#a230628p33)
  - [SolarWinds confirms its CISO and CFO both received Wells notices from the SEC, a rare move, signaling they may face legal action over the company&#39;s 2020 breach &lpar;Kim Zetter/Zero Day&rpar;](http://www.techmeme.com/230628/p32#a230628p32)
- - [Micron reports Q3 revenue down 57% YoY to $3.75B, but beats estimates of $3.69B, and forecasts a strong Q4, saying the memory industry has passed its trough &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230628/p31#a230628p31)
- - [Nvidia RTX 4060 review roundup: you deserve better](https://www.theverge.com/23777753/nvidia-rtx-4060-review-roundup)<!-- TECH:END -->
+ - [Micron reports Q3 revenue down 57% YoY to $3.75B, but beats estimates of $3.69B, and forecasts a strong Q4, saying the memory industry has passed its trough &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230628/p31#a230628p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
