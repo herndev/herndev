@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
- - [Cities: Skylines 2 has no cap on the number of people it can track, and it&#39;s basically the Matrix](https://www.pcgamer.com/cities-skylines-2-has-no-cap-on-the-number-of-people-it-can-track-and-its-basically-the-matrix)
- - [After around 150K kills, Old School RuneScape hero becomes first in history to collect every boss drop in the game](https://www.pcgamer.com/old-school-runescape-hero-makes-history-by-completing-ludicrous-multi-year-quest-to-collect-every-boss-drop-in-the-game)<!-- GAME:END -->
+ - [The Pikmin 4 trailer tells you everything you need to know](https://www.polygon.com/23778196/pikmin-4-trailer-multiplayer-coop-release-date)
+ - [Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
+ - [Faster GDDR7 memory coming first half of 2024 leaving plenty of time to be included in next-gen GPUs](https://www.pcgamer.com/faster-gddr7-memory-coming-first-half-of-2024-leaving-plenty-of-time-to-be-included-in-next-gen-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
