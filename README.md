@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Safety First](http://9gag.com/gag/aL1dmj5)
- - ⏩ [Like a beer can](http://9gag.com/gag/aoKYD0X)
- - 👉 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)<!-- MEMES:END -->
+ - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
+ - 👉 [Do not trust anyone today and in the future. Except me.](http://9gag.com/gag/aQEOydK)<!-- MEMES:END -->
 
 ---
 
