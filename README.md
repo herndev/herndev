@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite extraction shooter just got an update that adds its greatest enemy yet: rain](https://www.pcgamer.com/our-favorite-extraction-shooter-just-got-an-update-that-adds-its-greatest-enemy-yet-rain)
- - [Official Minecraft Subreddit Shuts Down, Says &#39;We No Longer Feel Reddit Is An Appropriate Place&#39;](https://kotaku.com/minecraft-reddit-protest-huffman-ceo-subreddit-mojang-1850589115)
- - [TikTok’s Grimace shake trend turns the McDonald’s mascot into a murderer](https://www.polygon.com/23777288/tiktok-grimace-shake-videos-trend)<!-- GAME:END -->
+ - [The US wants to restrict China&#39;s access to AI chips even more, and Nvidia could lose out as a result](https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result)
+ - [Report: Disney Really Did Turn A Hillary Robot Into Donald Trump](https://kotaku.com/trump-hillary-disney-hall-presidents-robot-animatronic-1850589326)
+ - [Our favorite extraction shooter just got an update that adds its greatest enemy yet: rain](https://www.pcgamer.com/our-favorite-extraction-shooter-just-got-an-update-that-adds-its-greatest-enemy-yet-rain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
