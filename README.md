@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons telegraphs 5th edition changes in major release](https://www.polygon.com/23778566/dnd-dungeons-dragons-unearthed-arcana-6-bard-cleric-druid-monk-paladin-ranger-rogue)
- - [Blade Runner 2033: Labyrinth announced by Annapurna Interactive](https://www.polygon.com/23778709/blade-runner-2033-labyrinth-announcement-trailer-annapurna-interactive-showcase)
- - [After only 3 hours this fishing and restaurant management RPG has rocketed to the top of my GOTY shortlist](https://www.pcgamer.com/after-only-3-hours-this-fishing-and-restaurant-management-rpg-has-rocketed-to-the-top-of-my-goty-shortlist)<!-- GAME:END -->
+ - [Katamari Damacy Creator&#39;s New Game Is About A T-Posing Teenager](https://kotaku.com/to-a-t-reveal-trailer-katamari-damacy-gameplay-announce-1850592973)
+ - [The Stream Deck mobile app turns your phone into a handheld livestream control room](https://www.pcgamer.com/the-stream-deck-mobile-app-turns-your-phone-into-a-handheld-livestream-control-room)
+ - [Bungie explains why Destiny 2 keeps going down — and how it plans to fix it](https://www.polygon.com/23778845/destiny-2-lightfall-stability-error-server-maitanence-fix-roadmap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
