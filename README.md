@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pikmin 4 trailer tells you everything you need to know](https://www.polygon.com/23778196/pikmin-4-trailer-multiplayer-coop-release-date)
- - [Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)
- - [Faster GDDR7 memory coming first half of 2024 leaving plenty of time to be included in next-gen GPUs](https://www.pcgamer.com/faster-gddr7-memory-coming-first-half-of-2024-leaving-plenty-of-time-to-be-included-in-next-gen-gpus)<!-- GAME:END -->
+ - [Baldur’s Gate 3 will launch four weeks early on PC, delayed on PS5](https://www.polygon.com/23777252/baldurs-gate-3-new-release-date-pc-ps5)
+ - [Steam Might Be Banning Games Made With AI Art](https://kotaku.com/valve-ai-art-generator-steam-crypto-ban-metaverse-pc-1850590856)
+ - [Silent Hill 2 remake studio Bloober Team says it&#39;s finished with &#39;psychological horror&#39; games, it&#39;s &#39;mass-market horror&#39; from here on out](https://www.pcgamer.com/silent-hill-2-remake-studio-bloober-team-says-its-finished-with-psychological-horror-games-its-mass-market-horror-from-here-on-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
