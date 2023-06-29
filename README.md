@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
- - ⏩ [Online dating vs reality](http://9gag.com/gag/az2YD9j)
- - 👉 [You maniacs actually made my zombie book a bestseller. everyone here is invited to the premiere if it gets made into a Matt Damon movie](http://9gag.com/gag/a1PEBp8)<!-- MEMES:END -->
+ - 💣 [WAIT WHAT?!](http://9gag.com/gag/a4oWx31)
+ - ⏩ [I wish I had this much confidence and self esteem](http://9gag.com/gag/abvQmpp)
+ - 👉 [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)<!-- MEMES:END -->
 
 ---
 
