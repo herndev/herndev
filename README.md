@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta explains how AI influences what we see on Facebook and Instagram](https://www.theverge.com/2023/6/29/23778068/meta-facebook-instagram-social-media-algorithms-ai-transparency)
- - [Advertisers demand significant refunds from YouTube after a report suggested millions of ads served via YouTube&#39;s TrueView system are hidden from users &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230629/p13#a230629p13)
- - [A look at the NABU network, an open community launched in December 2022 that preserves historical examples of NABU PC hardware, software, and documentation &lpar;Ernie Smith/VICE&rpar;](http://www.techmeme.com/230629/p12#a230629p12)<!-- TECH:END -->
+ - [Apple&#39;s iPhone came out 16 years ago and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_medium=rss)
+ - [You told us: You’re still regularly using your phone’s headphone jack](https://www.androidauthority.com/how-often-use-phone-headphone-jack-poll-results-3340212/)
+ - [Sources: after struggling to raise at a $4B valuation, Stability AI secured a convertible note worth under $25M; Stability AI denies fundraising difficulties &lpar;Bloomberg&rpar;](http://www.techmeme.com/230629/p16#a230629p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
