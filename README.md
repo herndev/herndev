@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Management sim Dave the Diver shouldn’t work as well as it does](https://www.polygon.com/reviews/23777236/dave-the-diver-review-management-sim-steam-pc)
- - [One of Fallout 4&#39;s most ambitious mods just got delayed to get out the way of Starfield](https://www.pcgamer.com/one-of-fallout-4s-most-ambitious-mods-just-got-delayed-to-get-out-the-way-of-starfield)
- - [It’s Sony’s Fault We Have Console Exclusives, Says Microsoft CEO](https://kotaku.com/microsoft-sony-console-exclusive-call-of-duty-starfield-1850591066)<!-- GAME:END -->
+ - [BlizzCon will be livestreamed for free this year — yes, all of it](https://www.polygon.com/23778115/blizzcon-2023-dates-tickets-livestream)
+ - [Pokémon Go ‘Dark Flames’ Timed Research and event guide](https://www.polygon.com/pokemon-go-guide/2023/6/29/23778510/dark-flames-timed-research-paths-dark-fire-collection-challenge-turtonator)
+ - [Shooter Dev Threatens To Ban Anyone For Sharing Game Secrets](https://kotaku.com/escape-from-tarkov-pc-gaming-ban-extraction-shooter-1850591450)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
