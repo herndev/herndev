@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Last, There&#39;s Evidence of Low-Frequency Gravitational Waves](https://www.wired.com/story/evidence-of-low-frequency-gravitational-waves/)
- - [In court, Satya Nadella says he&#39;d love to end &quot;exclusives on consoles&quot;; Bobby Kotick says making CoD exclusive would cause &quot;revolt&quot; and &quot;reputational damage&quot; &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230628/p30#a230628p30)
- - [The best Apple Watch series 8 screen protectors](https://www.androidauthority.com/best-apple-watch-8-screen-protectors-3337977/)<!-- TECH:END -->
+ - [Micron reports Q3 revenue down 57% YoY to $3.75B, but beats estimates of $3.69B, and forecasts a strong Q4, saying the memory industry has passed its trough &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230628/p31#a230628p31)
+ - [Nvidia RTX 4060 review roundup: you deserve better](https://www.theverge.com/23777753/nvidia-rtx-4060-review-roundup)
+ - [At Last, There’s Evidence of Low-Frequency Gravitational Waves](https://www.wired.com/story/evidence-of-low-frequency-gravitational-waves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
