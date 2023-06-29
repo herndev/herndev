@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At least one big third-party Reddit iOS app will live on](https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal)
- - [Bose recalls over 1 million ancient subwoofers due to potential fire hazard](https://www.theverge.com/2023/6/29/23778354/bose-recall-acousticmass-lifestyle-companion-bass-fire-hazard)
- - [Reddit protest updates: news on the apps shutting down and Reddit’s fights with mods](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)<!-- TECH:END -->
+ - [You can now try Windows Copilot and native RAR and 7-Zip support in Windows 11](https://www.theverge.com/2023/6/29/23778224/microsoft-windows-11-copilot-rar-7-zip-audio-mixer)
+ - [The DJI Air 3 could come with a dual-camera system](https://www.theverge.com/2023/6/29/23778374/dji-air-3-dual-camera-system-leak)
+ - [The best Metro by T-Mobile deals of 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
