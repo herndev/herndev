@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety First](http://9gag.com/gag/aL1dmj5)
- - ⏩ [Curie-ous](http://9gag.com/gag/a8qK2vZ)
- - 👉 [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)<!-- MEMES:END -->
+ - 💣 [Everyone wants to go to Sweden!!](http://9gag.com/gag/a1PEOQY)
+ - ⏩ [The greatest prankster of all time R\u00e9mi GAILLARD](http://9gag.com/gag/aZDzRDW)
+ - 👉 [Happy life](http://9gag.com/gag/aeQ77DO)<!-- MEMES:END -->
 
 ---
 
