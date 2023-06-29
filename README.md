@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A California-based law firm launches a class-action suit against OpenAI, claiming the company violated millions of internet users&#39; rights by scraping their data &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230629/p2#a230629p2)
  - [As US landlords increasingly turn to AI tools to screen tenants, housing and privacy advocates warn of opaque algorithms heightening errors and discrimination &lpar;Rebecca Burns/The Lever&rpar;](http://www.techmeme.com/230629/p1#a230629p1)
- - [A look at Substack in the wake of the pandemic&#39;s &quot;rocket ship growth&quot;, given fresh competition from WordPress, Beehiiv, and Ghost, the Twitter feud, and more &lpar;Joe Pompeo/Vanity Fair&rpar;](http://www.techmeme.com/230628/p34#a230628p34)
- - [A survey of 2,139 US individuals: 33% of adults and 51% of teens ages 13-17 reported receiving online hate in 2023, up from 23% and 36% respectively in 2022 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230628/p33#a230628p33)<!-- TECH:END -->
+ - [A look at Substack in the wake of the pandemic&#39;s &quot;rocket ship growth&quot;, given fresh competition from WordPress, Beehiiv, and Ghost, the Twitter feud, and more &lpar;Joe Pompeo/Vanity Fair&rpar;](http://www.techmeme.com/230628/p34#a230628p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
