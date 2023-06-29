@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #740: Thursday, June 29](https://www.pcgamer.com/wordle-answer-today-hint-740-june-29)
  - [The Password Game Is A Perfect Recreation Of An Online Disaster](https://kotaku.com/password-game-google-chrome-neal-app-browser-captcha-1850589646)
- - [The US wants to restrict China&#39;s access to AI chips even more, and Nvidia could lose out as a result](https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result)
- - [Report: Disney Really Did Turn A Hillary Robot Into Donald Trump](https://kotaku.com/trump-hillary-disney-hall-presidents-robot-animatronic-1850589326)<!-- GAME:END -->
+ - [The US wants to restrict China&#39;s access to AI chips even more, and Nvidia could lose out as a result](https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
