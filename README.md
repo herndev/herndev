@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The players hunting for Diablo 4&#39;s secret cow level have suffered a major setback, but you&#39;d be a fool to think that&#39;s stopping them](https://www.pcgamer.com/the-players-hunting-for-diablo-4s-secret-cow-level-have-suffered-a-major-setback-but-youd-be-a-fool-to-think-thats-stopping-them)
- - [It doesn&#39;t seem fair that this wonderfully weird visual novel about alien whales is completely free](https://www.pcgamer.com/it-doesnt-seem-fair-that-this-wonderfully-weird-visual-novel-about-alien-whales-is-completely-free)
- - [Katamari Damacy Creator&#39;s New Game Is About A T-Posing Teenager](https://kotaku.com/to-a-t-reveal-trailer-katamari-damacy-gameplay-announce-1850592973)<!-- GAME:END -->
+ - [Bungie targets the end of August to roll out fixes for endemic Destiny 2 connection errors: &#39;This is not a process that can happen overnight&#39;](https://www.pcgamer.com/bungie-targets-the-end-of-august-to-roll-out-fixes-for-endemic-connection-errors-this-is-not-a-process-that-can-happen-overnight)
+ - [It took 25 years but we&#39;re finally getting a new Blade Runner game](https://www.pcgamer.com/it-took-25-years-but-were-finally-getting-a-new-blade-runner-game)
+ - [A Moody New Blade Runner Game Is On The Way](https://kotaku.com/blade-runner-game-2033-2049-cyberpunk-1982-movie-1850593283)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
