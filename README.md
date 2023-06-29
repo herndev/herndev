@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NewThreat](http://9gag.com/gag/axoYmBb)
+ - 💣 [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
  - ⏩ [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
- - 👉 [Online dating vs reality](http://9gag.com/gag/az2YD9j)<!-- MEMES:END -->
+ - 👉 [My Man](http://9gag.com/gag/aVbVLEK)<!-- MEMES:END -->
 
 ---
 
