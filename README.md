@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance says euro banking partner Paysafe plans to stop supporting the exchange after September 25, adding to a retreat from the UK, the Netherlands, and more &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230629/p9#a230629p9)
- - [Typeface, which helps businesses train generative AI to create their own content, raised $100M led by Salesforce at a $1B valuation, taking its funding to $165M &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/230629/p8#a230629p8)
- - [Chinese livestream shopping shifts from big discounts, as Apple and other brands seek control over a process made costly by market fragmentation and superhosts &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230629/p7#a230629p7)<!-- TECH:END -->
+ - [Meta explains how AI influences what we see on Facebook and Instagram](https://www.theverge.com/2023/6/29/23778068/meta-facebook-instagram-social-media-algorithms-ai-transparency)
+ - [Advertisers demand significant refunds from YouTube after a report suggested millions of ads served via YouTube&#39;s TrueView system are hidden from users &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230629/p13#a230629p13)
+ - [A look at the NABU network, an open community launched in December 2022 that preserves historical examples of NABU PC hardware, software, and documentation &lpar;Ernie Smith/VICE&rpar;](http://www.techmeme.com/230629/p12#a230629p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
