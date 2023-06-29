@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So apparently being a man is not THAT easy as they think it is...](http://9gag.com/gag/aoKYYjx)
- - ⏩ [Sk8ter Boi...](http://9gag.com/gag/aVbVB0d)
- - 👉 [Give them food instead I guess](http://9gag.com/gag/ay2YPWM)<!-- MEMES:END -->
+ - 💣 [Safety First](http://9gag.com/gag/aL1dmj5)
+ - ⏩ [Like a beer can](http://9gag.com/gag/aoKYD0X)
+ - 👉 [Candice doesn&#39;t care](http://9gag.com/gag/aGEOA47)<!-- MEMES:END -->
 
 ---
 
