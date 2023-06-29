@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 will launch four weeks early on PC, delayed on PS5](https://www.polygon.com/23777252/baldurs-gate-3-new-release-date-pc-ps5)
- - [Steam Might Be Banning Games Made With AI Art](https://kotaku.com/valve-ai-art-generator-steam-crypto-ban-metaverse-pc-1850590856)
- - [Silent Hill 2 remake studio Bloober Team says it&#39;s finished with &#39;psychological horror&#39; games, it&#39;s &#39;mass-market horror&#39; from here on out](https://www.pcgamer.com/silent-hill-2-remake-studio-bloober-team-says-its-finished-with-psychological-horror-games-its-mass-market-horror-from-here-on-out)<!-- GAME:END -->
+ - [Management sim Dave the Diver shouldn’t work as well as it does](https://www.polygon.com/reviews/23777236/dave-the-diver-review-management-sim-steam-pc)
+ - [One of Fallout 4&#39;s most ambitious mods just got delayed to get out the way of Starfield](https://www.pcgamer.com/one-of-fallout-4s-most-ambitious-mods-just-got-delayed-to-get-out-the-way-of-starfield)
+ - [It’s Sony’s Fault We Have Console Exclusives, Says Microsoft CEO](https://kotaku.com/microsoft-sony-console-exclusive-call-of-duty-starfield-1850591066)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
