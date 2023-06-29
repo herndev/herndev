@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon 2023 Livestream Will Be Free, But IRL Tickets Are $300](https://kotaku.com/when-is-blizzcon-2023-ticket-cost-price-blizzard-diablo-1850592183)
- - [Dune 2 looks incredible because the first movie did all the work](https://www.polygon.com/23778585/dune-2-part-two-trailer-explained-cast-christopher-walken-florence-pugh-austin-butler)
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons telegraphs 5th edition changes in major release](https://www.polygon.com/23778566/dnd-dungeons-dragons-unearthed-arcana-6-bard-cleric-druid-monk-paladin-ranger-rogue)
+ - [Blade Runner 2033: Labyrinth announced by Annapurna Interactive](https://www.polygon.com/23778709/blade-runner-2033-labyrinth-announcement-trailer-annapurna-interactive-showcase)
+ - [After only 3 hours this fishing and restaurant management RPG has rocketed to the top of my GOTY shortlist](https://www.pcgamer.com/after-only-3-hours-this-fishing-and-restaurant-management-rpg-has-rocketed-to-the-top-of-my-goty-shortlist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
