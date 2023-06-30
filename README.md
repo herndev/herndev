@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)
- - [Psychonauts creator Tim Schafer says he&#39;s never read anything that was &#39;meaningful, important or worthwhile&#39; created by AI](https://www.pcgamer.com/psychonauts-creator-tim-schafer-says-hes-never-read-anything-that-was-meaningful-important-or-worthwhile-created-by-ai)
- - [Microsoft&#39;s light-based computer marks &#39;the unravelling of Moore&#39;s Law&#39;](https://www.pcgamer.com/microsofts-light-based-computer-marks-the-unravelling-of-moores-law)<!-- GAME:END -->
+ - [Microsoft CEO says he&#39;d &#39;love to get rid&#39; of exclusives but it&#39;s all Sony&#39;s fault, your honor](https://www.pcgamer.com/microsoft-ceo-says-hed-love-to-get-rid-of-exclusives-but-its-all-sonys-fault-your-honor)
+ - [Super Mario Odyssey, Not The Mario Movie, Gave Us The Best Princess Peach](https://kotaku.com/princess-peach-super-mario-movie-odyssey-game-switch-1850593889)
+ - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
