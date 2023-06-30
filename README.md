@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ches](http://9gag.com/gag/anzr0n0)
- - ⏩ [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
- - 👉 [Thai men more attractive](http://9gag.com/gag/ay2YZ3b)<!-- MEMES:END -->
+ - 💣 [NewThreat](http://9gag.com/gag/axoYmBb)
+ - ⏩ [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)
+ - 👉 [France right now](http://9gag.com/gag/a7qpBbq)<!-- MEMES:END -->
 
 ---
 
