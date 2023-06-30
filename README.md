@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
- - ⏩ [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
- - 👉 [Online dating vs reality](http://9gag.com/gag/az2YD9j)<!-- MEMES:END -->
+ - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
+ - ⏩ [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
+ - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
 
 ---
 
