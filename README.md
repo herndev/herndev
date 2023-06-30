@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi launches 16-in-1 Multimedia Pro Dock with Thunderbolt 4](https://appleinsider.com/articles/23/06/29/satechi-launches-16-in-1-multimedia-pro-dock-with-thunderbolt-4?utm_medium=rss)
- - [Court docs: Satya Nadella said Azure&#39;s cloud server business made $34B in revenue in the year ended June 2022, less than half of AWS&#39; revenue in the same period &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230629/p40#a230629p40)
- - [The cheapest countries to buy an iPad Pro](https://www.androidauthority.com/cheapest-place-to-buy-an-ipad-pro-3340637/)<!-- TECH:END -->
+ - [Microsoft Adds AI Shopping Tools to Bing and Edge     - CNET](https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/#ftag=CAD590a51e)
+ - [10 Best Outdoor Deals at the REI July 4 Sale: Lawn Chairs, Camp Stoves, and More](https://www.wired.com/story/rei-july-4-2023-sale/)
+ - [Satechi launches 16-in-1 Multimedia Pro Dock with Thunderbolt 4](https://appleinsider.com/articles/23/06/29/satechi-launches-16-in-1-multimedia-pro-dock-with-thunderbolt-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
