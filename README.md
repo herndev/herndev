@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hold on, weren&#39;t Intel&#39;s desktop Meteor Lake-S chips cancelled? Maybe not](https://www.pcgamer.com/hold-on-werent-intels-desktop-meteor-lake-s-chips-cancelled-maybe-not)
- - [Review: The Makers Of Danganronpa Are Back With Another Mystery Banger](https://kotaku.com/master-detective-archives-switch-review-danganronpa-1850592843)
- - [When will Indiana Jones and the Dial of Destiny come to Disney Plus?](https://www.polygon.com/23778489/indiana-jones-dial-destiny-watch-online-disney-plus-stream-release-date)<!-- GAME:END -->
+ - [Cache is king when it comes to designing the gaming CPUs of the next 20 years](https://www.pcgamer.com/what-will-a-cpu-look-like-in-the-future)
+ - [The spirit of PC building will keep our gaming machines from disappearing into the cloud](https://www.pcgamer.com/will-my-gaming-pc-end-up-in-the-cloud)
+ - [We&#39;re on the brink of the biggest changes to computing&#39;s DNA and it&#39;s not just quantum that&#39;s coming](https://www.pcgamer.com/quantum-classical-neuromorphic-computing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
