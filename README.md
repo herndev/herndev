@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
- - ⏩ [Thai men more attractive](http://9gag.com/gag/ay2YZ3b)
- - 👉 [Ches](http://9gag.com/gag/anzr0n0)<!-- MEMES:END -->
+ - 💣 [Why not?](http://9gag.com/gag/aGEOr2Z)
+ - ⏩ [Ches](http://9gag.com/gag/anzr0n0)
+ - 👉 [A simple lesson about racism](http://9gag.com/gag/a8qKvKV)<!-- MEMES:END -->
 
 ---
 
