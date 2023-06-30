@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m going to hell](http://9gag.com/gag/aGEO7MG)
- - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
- - 👉 [Annnnd now she thinks I&#39;m cheating on her... FML](http://9gag.com/gag/aDYOPM9)<!-- MEMES:END -->
+ - 💣 [Ches](http://9gag.com/gag/anzr0n0)
+ - ⏩ [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
+ - 👉 [Thai men more attractive](http://9gag.com/gag/ay2YZ3b)<!-- MEMES:END -->
 
 ---
 
