@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vogue model Vs McDonalds cashier](http://9gag.com/gag/ajVWybG)
- - ⏩ [Why on earth do these celebrities think this kind of plastic surgery is attractive? On which alien planet?](http://9gag.com/gag/a8qKzW1)
+ - 💣 [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)
+ - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
  - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
 
 ---
