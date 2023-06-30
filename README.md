@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You don’t have to freak out about aspartame in your diet soda](https://www.theverge.com/2023/6/30/23780115/aspartame-iarc-who-food-safety-carcinogen)
- - [Twitter has started blocking unregistered users](https://www.theverge.com/2023/6/30/23779764/twitter-blocks-unregistered-users-account-tweets)
- - [More Reddit developers announce their apps will switch to a subscription model](https://www.theverge.com/2023/6/30/23780407/reddit-third-party-apps-relay-now-nara-api-changes)<!-- TECH:END -->
+ - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
+ - [The best Fourth of July deals on OLEDs, Apple Watches, and other tech](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
+ - [Apple’s Card partnership could move from Goldman Sachs to American Express](https://www.theverge.com/2023/6/30/23780440/apple-card-goldman-sachs-american-express)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
