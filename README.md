@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I\u2019m going to hell](http://9gag.com/gag/aGEO7MG)
- - ⏩ [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)
- - 👉 [Ches](http://9gag.com/gag/anzr0n0)<!-- MEMES:END -->
+ - ⏩ [NewThreat](http://9gag.com/gag/axoYmBb)
+ - 👉 [Annnnd now she thinks I&#39;m cheating on her... FML](http://9gag.com/gag/aDYOPM9)<!-- MEMES:END -->
 
 ---
 
