@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some developers using Twitter&#39;s API, including Enterprise tier users paying $42K/month, say they are experiencing outages, bugs, and bad or no customer support &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230630/p18#a230630p18)
- - [Apple is a $3 trillion company — again](https://www.theverge.com/2023/6/30/23779783/apple-3-trillion-market-cap-iphone-mac-vision-pro)
- - [How to add PCIe cards to just about any Mac](https://appleinsider.com/articles/23/06/30/how-to-add-pcie-cards-to-just-about-any-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Rhymer Combines Scottish Ballads with Alien Elves](https://www.wired.com/2023/06/geeks-guide-rhymer-gregory-frost/)
+ - [Get This 40W Dual USB-C Fast Charger for Less than $20     - CNET](https://www.cnet.com/deals/get-this-40w-dual-usb-c-fast-charger-for-less-than-20/#ftag=CAD590a51e)
+ - [What is Google Takeout, and how do you download your Google data through it?](https://www.androidauthority.com/google-takeout-3340906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
