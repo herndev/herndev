@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Change my mind](http://9gag.com/gag/aeQ7qQQ)
- - ⏩ [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)
- - 👉 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)<!-- MEMES:END -->
+ - 💣 [Titan sub debris recovered. Titanium components appear intact. Carbon fiber components ... absent. DEI champions also mysteriously quiet.](http://9gag.com/gag/aA0OmV9)
+ - ⏩ [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
+ - 👉 [Online dating vs reality](http://9gag.com/gag/az2YD9j)<!-- MEMES:END -->
 
 ---
 
