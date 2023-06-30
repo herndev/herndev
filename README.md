@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
- - ⏩ [Finally! Now let\u2019s see who will start opposing to this.](http://9gag.com/gag/a9qOZbj)
- - 👉 [Reverse card - Activate!](http://9gag.com/gag/aBdOv5D)<!-- MEMES:END -->
+ - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
+ - ⏩ [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)
+ - 👉 [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)<!-- MEMES:END -->
 
 ---
 
