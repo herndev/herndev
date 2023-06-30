@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Nokia renew long-standing patent licensing agreement](https://appleinsider.com/articles/23/06/30/apple-nokia-renew-long-standing-patent-licensing-agreement?utm_medium=rss)
- - [Nasdaq gained 32% in H1 2023, its best first half since 1983&#39;s 37% rise; Nvidia is up 195%+, Meta is up 130%+, Apple and Amazon are up 50%+, Alphabet is up 34%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230630/p31#a230630p31)
- - [VMware partners with Samsung, AMD, and the RISC-V Keystone community to accelerate the adoption of confidential computing, which encrypts data being processed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230630/p30#a230630p30)<!-- TECH:END -->
+ - [You don’t have to freak out about aspartame in your diet soda](https://www.theverge.com/2023/6/30/23780115/aspartame-iarc-who-food-safety-carcinogen)
+ - [Twitter has started blocking unregistered users](https://www.theverge.com/2023/6/30/23779764/twitter-blocks-unregistered-users-account-tweets)
+ - [More Reddit developers announce their apps will switch to a subscription model](https://www.theverge.com/2023/6/30/23780407/reddit-third-party-apps-relay-now-nara-api-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
