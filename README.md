@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Adds AI Shopping Tools to Bing and Edge     - CNET](https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/#ftag=CAD590a51e)
- - [10 Best Outdoor Deals at the REI July 4 Sale: Lawn Chairs, Camp Stoves, and More](https://www.wired.com/story/rei-july-4-2023-sale/)
- - [Satechi launches 16-in-1 Multimedia Pro Dock with Thunderbolt 4](https://appleinsider.com/articles/23/06/29/satechi-launches-16-in-1-multimedia-pro-dock-with-thunderbolt-4?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Reportedly Facing Big Antitrust Suit From Lina Khan&#39;s FTC     - CNET](https://www.cnet.com/tech/amazon-reportedly-facing-big-antitrust-suit-from-lina-khans-ftc/#ftag=CAD590a51e)
+ - [At least one big third-party Reddit iOS app will live on](https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal)
+ - [Microsoft Adds AI Shopping Tools to Bing and Edge     - CNET](https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
