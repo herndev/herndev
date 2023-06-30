@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you play Genshin Impact on the Steam Deck?](https://www.androidauthority.com/genshin-impact-steam-deck-3340883/)
- - [TSMC &amp; hack group differ on whose data got stolen](https://appleinsider.com/articles/23/06/30/tsmc-hack-group-differ-on-whose-data-got-stolen?utm_medium=rss)
- - [LG’s A2 entry-level OLED TV is back down to its best price of $599.99](https://www.theverge.com/2023/6/30/23779683/lg-a2-oled-tv-gaming-b2g1-totk-ffxvi-nintendo-dell-laptop-deal-sale)<!-- TECH:END -->
+ - [A summary of the last day and closing arguments in FTC v. Microsoft hearing, where FTC mostly focused on Call of Duty and Xbox console exclusivity &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230630/p24#a230630p24)
+ - [The FTC wants to put a ban on fake reviews](https://www.theverge.com/2023/6/30/23779880/ftc-fake-reviews-ban-ai)
+ - [Unit21, which helps businesses monitor fraudulent activities, raised a $45M Series C to expand its Fintech Fraud DAO data sharing consortium to identify fraud &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230630/p23#a230630p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
