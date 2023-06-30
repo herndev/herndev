@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jsaux’s ultimate RGB dock stretches to fit Steam Deck, ROG Ally and more](https://www.theverge.com/2023/6/30/23776368/jsaux-rgb-dock-steam-deck-rog-ally-aya-neo)
- - [As a &#39;Sea Ice Free&#39; Arctic Looms, the Climate Consequences Are Mounting     - CNET](https://www.cnet.com/science/climate/as-a-sea-ice-free-arctic-looms-the-climate-consequences-are-mounting/#ftag=CAD590a51e)
- - [How to use Safari Private Browsing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-safari-private-browsing-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &amp; Nokia renew long-standing patent licensing agreement](https://appleinsider.com/articles/23/06/30/apple-nokia-renew-long-standing-patent-licensing-agreement?utm_medium=rss)
+ - [Nasdaq gained 32% in H1 2023, its best first half since 1983&#39;s 37% rise; Nvidia is up 195%+, Meta is up 130%+, Apple and Amazon are up 50%+, Alphabet is up 34%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230630/p31#a230630p31)
+ - [VMware partners with Samsung, AMD, and the RISC-V Keystone community to accelerate the adoption of confidential computing, which encrypts data being processed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230630/p30#a230630p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
