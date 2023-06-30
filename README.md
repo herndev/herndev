@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone Found Girl](http://9gag.com/gag/aPg1zMB)
- - ⏩ [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
- - 👉 [Someone has to say it...](http://9gag.com/gag/aqeYAPL)<!-- MEMES:END -->
+ - 💣 [Change my mind](http://9gag.com/gag/aeQ7qQQ)
+ - ⏩ [Annnnd now she thinks I&#39;m cheating on her... FML](http://9gag.com/gag/aDYOPM9)
+ - 👉 [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)<!-- MEMES:END -->
 
 ---
 
