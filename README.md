@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All hunts and hunt locations in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23758382/hunts-notorious-marks-locations)
- - [Polygon’s 2023 summer movie festival: Independence Day](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Get Every Final Fantasy XIV Expansion For Dirt Cheap Right Now](https://kotaku.com/final-fantasy-14-sale-discount-shadowbrings-endwalker-1850595276)<!-- GAME:END -->
+ - [AEW: Fight Forever recaptures the attitude of golden-age wrestling games](https://www.polygon.com/reviews/23778559/aew-fight-forever-review-roster-wrestlers-switch-ps5-xbox-pc)
+ - [A guide to all the wild Mortal Kombat 1 editions available for pre-orders](https://www.polygon.com/deals/23729783/mortal-kombat-1-pre-order-standard-premium-kollectors-editions)
+ - [Five Nights At Freddy’s Movie Producer Was ‘Made Fun Of’ For Working On Film](https://kotaku.com/five-nights-at-freddy-s-fnaf-movie-jason-blum-1850595467)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
