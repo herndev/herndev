@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Gleamer, which develops AI software for radiologists, including its FDA-cleared BoneView, raised a &amp;euro;27M Series B, taking its total funding to &amp;euro;36M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230630/p6#a230630p6)
- - [Mixtape sites democratized releasing music in the CD era, but with the rise of streaming they face the challenge of archiving music that isn&#39;t necessarily legal &lpar;Brian Josephs/New York Times&rpar;](http://www.techmeme.com/230630/p5#a230630p5)
- - [Executives from over 150 European companies sign an open letter saying the draft AI Act will jeopardize the EU&#39;s competitiveness without addressing challenges &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230630/p4#a230630p4)<!-- TECH:END -->
+ - [In a letter from prison, South Korean chip executive Choi Jin-seok denies stealing Samsung&#39;s sensitive information to build a copycat chip factory in China &lpar;Reuters&rpar;](http://www.techmeme.com/230630/p8#a230630p8)
+ - [The Netherlands publishes new export controls to restrict more ASML machines from export to China, starting September 1; ASML doesn&#39;t expect a &quot;material impact&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/230630/p7#a230630p7)
+ - [Poll results: You’ve noticed camera lens flare in your phone’s photos](https://www.androidauthority.com/pixel-lens-flare-poll-results-3340851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
