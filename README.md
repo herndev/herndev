@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is finally getting QR payment support &lpar;Update: More details&rpar;](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)
- - [Get 1 year of Setapp for $84.99 &amp; optimize your Mac with 240+ apps](https://appleinsider.com/articles/23/06/30/get-1-year-of-setapp-for-8499-optimize-your-mac-with-240-apps?utm_medium=rss)
- - [The UK amends its Online Safety Bill, requiring higher age verification standards for porn sites and holding executives personally responsible for child safety &lpar;Sachin Ravikumar/Reuters&rpar;](http://www.techmeme.com/230630/p2#a230630p2)<!-- TECH:END -->
+ - [Canada may think it can negotiate with tech platforms over Bill C-18 based on Meta&#39;s 2021 deal with Australia, but it should take the firms&#39; threat seriously &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/230630/p3#a230630p3)
+ - [Here Comes Euclid, the Telescope That Will Search for Dark Energy](https://www.wired.com/story/euclid-the-telescope-search-for-dark-energy/)
+ - [Google Wallet is finally getting QR payment support &lpar;Update: More details&rpar;](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
