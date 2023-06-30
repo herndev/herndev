@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true madlad](http://9gag.com/gag/aQEONW2)
- - ⏩ [Most Beautiful !!!!!!](http://9gag.com/gag/aPg10dQ)
- - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
+ - 💣 [Hold up a sec...](http://9gag.com/gag/a8qKv13)
+ - ⏩ [Change my mind](http://9gag.com/gag/aeQ7qQQ)
+ - 👉 [One of their best songs](http://9gag.com/gag/a3ZbDnN)<!-- MEMES:END -->
 
 ---
 
