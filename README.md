@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
+ - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
  - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
- - 👉 [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)<!-- MEMES:END -->
+ - 👉 [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)<!-- MEMES:END -->
 
 ---
 
