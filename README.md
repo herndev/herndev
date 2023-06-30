@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
- - ⏩ [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)
- - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
+ - 💣 [I\u2019m going to hell](http://9gag.com/gag/aGEO7MG)
+ - ⏩ [10 hours apart, this is `same` dude](http://9gag.com/gag/aBdOvBD)
+ - 👉 [Ches](http://9gag.com/gag/anzr0n0)<!-- MEMES:END -->
 
 ---
 
