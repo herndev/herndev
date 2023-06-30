@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecovacs Deebot T20 Omni Review: Smart home vacuum with auto-rising mops](https://appleinsider.com/articles/23/06/30/ecovacs-deebot-t20-omni-review-smart-home-vacuum-with-auto-rising-mops?utm_medium=rss)
- - [Facebook wants to become an App Store in Europe](https://appleinsider.com/articles/23/06/30/facebook-wants-to-become-an-app-store-in-europe?utm_medium=rss)
- - [Sources: Linda Yaccarino advocated for Twitter to rejoin Tech Coalition, which helps fight CSAM, and approved $40K in dues; Twitter&#39;s membership lapsed in March &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230630/p9#a230630p9)<!-- TECH:END -->
+ - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
+ - [Hackers claim responsibility for an attack on Russian satellite service Dozor-Teleport; IODA project says the network has been offline since 10pm EST on June 28 &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/230630/p11#a230630p11)
+ - [Poll: Do you leave your foldable phone open when not using it?](https://www.androidauthority.com/leave-foldable-phone-unfolded-poll-3340878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
