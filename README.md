@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jonathan Majors accused of ‘extreme abuse’ in new report as NYPD investigates one of his accusers](https://www.polygon.com/23779746/jonathan-majors-abuse-allegations-update-nypd-arrest)
- - [Abandon your Diablo 4 builds: The bouncy Barbarian boy is now the only valid way to play](https://www.pcgamer.com/abandon-your-diablo-4-builds-the-bouncy-barbarian-boy-is-now-the-only-valid-way-to-play)
- - [This Diablo IV Druid Build Is Like Playing An Avatar Earthbender](https://kotaku.com/diablo-4-druid-build-werebear-avatar-last-airbender-1850595793)<!-- GAME:END -->
+ - [Gollum Studio Will Stop Developing Games After Its Dismal Release](https://kotaku.com/lord-rings-gollum-daedalic-flop-expectations-publishing-1850596323)
+ - [How to get the Phantom Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738794/phantom-armor-location-head-chest-legs)
+ - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
