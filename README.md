@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why not?](http://9gag.com/gag/aGEOr2Z)
- - ⏩ [Ches](http://9gag.com/gag/anzr0n0)
- - 👉 [A simple lesson about racism](http://9gag.com/gag/a8qKvKV)<!-- MEMES:END -->
+ - 💣 [Someone Found Girl](http://9gag.com/gag/aPg1zMB)
+ - ⏩ [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)
+ - 👉 [Someone has to say it...](http://9gag.com/gag/aqeYAPL)<!-- MEMES:END -->
 
 ---
 
