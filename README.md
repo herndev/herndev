@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Polite](http://9gag.com/gag/aeQ7EGb)
- - ⏩ [State of france right now](http://9gag.com/gag/a3Zbg71)
- - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
+ - 💣 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
+ - ⏩ [IUTR](http://9gag.com/gag/a8qKzP3)
+ - 👉 [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)<!-- MEMES:END -->
 
 ---
 
