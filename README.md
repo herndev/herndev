@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)
- - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
- - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
+ - 💣 [Change my mind](http://9gag.com/gag/aeQ7qQQ)
+ - ⏩ [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)
+ - 👉 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)<!-- MEMES:END -->
 
 ---
 
