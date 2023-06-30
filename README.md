@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cache is king when it comes to designing the gaming CPUs of the next 20 years](https://www.pcgamer.com/what-will-a-cpu-look-like-in-the-future)
- - [The spirit of PC building will keep our gaming machines from disappearing into the cloud](https://www.pcgamer.com/will-my-gaming-pc-end-up-in-the-cloud)
- - [We&#39;re on the brink of the biggest changes to computing&#39;s DNA and it&#39;s not just quantum that&#39;s coming](https://www.pcgamer.com/quantum-classical-neuromorphic-computing)<!-- GAME:END -->
+ - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)
+ - [Psychonauts creator Tim Schafer says he&#39;s never read anything that was &#39;meaningful, important or worthwhile&#39; created by AI](https://www.pcgamer.com/psychonauts-creator-tim-schafer-says-hes-never-read-anything-that-was-meaningful-important-or-worthwhile-created-by-ai)
+ - [Microsoft&#39;s light-based computer marks &#39;the unravelling of Moore&#39;s Law&#39;](https://www.pcgamer.com/microsofts-light-based-computer-marks-the-unravelling-of-moores-law)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
