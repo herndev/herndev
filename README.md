@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter from prison, South Korean chip executive Choi Jin-seok denies stealing Samsung&#39;s sensitive information to build a copycat chip factory in China &lpar;Reuters&rpar;](http://www.techmeme.com/230630/p8#a230630p8)
- - [The Netherlands publishes new export controls to restrict more ASML machines from export to China, starting September 1; ASML doesn&#39;t expect a &quot;material impact&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/230630/p7#a230630p7)
- - [Poll results: You’ve noticed camera lens flare in your phone’s photos](https://www.androidauthority.com/pixel-lens-flare-poll-results-3340851/)<!-- TECH:END -->
+ - [Ecovacs Deebot T20 Omni Review: Smart home vacuum with auto-rising mops](https://appleinsider.com/articles/23/06/30/ecovacs-deebot-t20-omni-review-smart-home-vacuum-with-auto-rising-mops?utm_medium=rss)
+ - [Facebook wants to become an App Store in Europe](https://appleinsider.com/articles/23/06/30/facebook-wants-to-become-an-app-store-in-europe?utm_medium=rss)
+ - [Sources: Linda Yaccarino advocated for Twitter to rejoin Tech Coalition, which helps fight CSAM, and approved $40K in dues; Twitter&#39;s membership lapsed in March &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230630/p9#a230630p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
