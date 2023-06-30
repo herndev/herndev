@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gollum Studio Will Stop Developing Games After Its Dismal Release](https://kotaku.com/lord-rings-gollum-daedalic-flop-expectations-publishing-1850596323)
- - [How to get the Phantom Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23738794/phantom-armor-location-head-chest-legs)
- - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)<!-- GAME:END -->
+ - [Magic: The Gathering’s Elusive Ring Card Found, Valued At $2M](https://kotaku.com/magic-the-gathering-lotr-mtg-tcg-one-ring-card-price-1850596616)
+ - [The Colleen Ballinger controversy and ukulele apology song, explained](https://www.polygon.com/23780143/colleen-ballinger-ukulele-apology-song-grooming-allegations)
+ - [Upcoming Overwatch 2 Animated Mini-Series Looks Like A Prequel](https://kotaku.com/overwatch-2-animated-series-genesis-ana-echo-youtube-1850596526)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
