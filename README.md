@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube confirms three-strikes test for ad blocking, here’s how it works](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
- - [Canada may think it can negotiate with tech platforms over Bill C-18 based on Meta&#39;s 2021 deal with Australia, but it should take the firms&#39; threat seriously &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/230630/p3#a230630p3)
- - [Here Comes Euclid, the Telescope That Will Search for Dark Energy](https://www.wired.com/story/euclid-the-telescope-search-for-dark-energy/)<!-- TECH:END -->
+ - [Paris-based Gleamer, which develops AI software for radiologists, including its FDA-cleared BoneView, raised a &amp;euro;27M Series B, taking its total funding to &amp;euro;36M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230630/p6#a230630p6)
+ - [Mixtape sites democratized releasing music in the CD era, but with the rise of streaming they face the challenge of archiving music that isn&#39;t necessarily legal &lpar;Brian Josephs/New York Times&rpar;](http://www.techmeme.com/230630/p5#a230630p5)
+ - [Executives from over 150 European companies sign an open letter saying the draft AI Act will jeopardize the EU&#39;s competitiveness without addressing challenges &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230630/p4#a230630p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
