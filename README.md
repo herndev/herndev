@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Craigslist Ad Begs Someone To Buy Video Game Store For $1 Million](https://kotaku.com/daves-retro-game-store-1-million-craigslist-elon-mario-1850597299)
- - [Kotaku’s Weekend Guide: 7 Great Games To Play](https://kotaku.com/spider-man-street-fighter-call-of-duty-dmz-fire-emblem-1850597254)
- - [The One Ring, forged in the fires of Mount Doom, will likely be taxed at 49%](https://www.polygon.com/23780343/mtg-where-was-the-one-ring-found-taxes-canada)<!-- GAME:END -->
+ - [Diablo IV: 14 Wild Loot Drops Fans Have Found](https://kotaku.com/diablo-iv-4-loot-unique-best-world-tier-3-4-1850597710)
+ - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/july-2023-pc-release-calendar)
+ - [Netflix’s Nimona, Knights of the Zodiac, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/30/23773875/new-movies-watch-nimona-netflix-m3gan-prime-video-knights-of-the-zodiac)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
