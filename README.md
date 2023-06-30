@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When will Indiana Jones and the Dial of Destiny come to Disney Plus?](https://www.polygon.com/23778489/indiana-jones-dial-destiny-watch-online-disney-plus-stream-release-date)
  - [Today&#39;s Wordle hint and answer #741: Friday, June 30](https://www.pcgamer.com/wordle-answer-today-hint-741-june-30)
- - [Our Favorite Cosplay From MCM London Comic Con](https://kotaku.com/mcm-london-comic-con-cosplay-photos-video-gallery-uk-1850594062)
- - [It&#39;s Important That We All Watch This Trailer For Ghost Bike](https://kotaku.com/ghost-bike-trailer-pc-steam-xbox-ps-bicycle-game-italy-1850593884)<!-- GAME:END -->
+ - [Our Favorite Cosplay From MCM London Comic Con](https://kotaku.com/mcm-london-comic-con-cosplay-photos-video-gallery-uk-1850594062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
