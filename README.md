@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft CEO says he&#39;d &#39;love to get rid&#39; of exclusives but it&#39;s all Sony&#39;s fault, your honor](https://www.pcgamer.com/microsoft-ceo-says-hed-love-to-get-rid-of-exclusives-but-its-all-sonys-fault-your-honor)
- - [Super Mario Odyssey, Not The Mario Movie, Gave Us The Best Princess Peach](https://kotaku.com/princess-peach-super-mario-movie-odyssey-game-switch-1850593889)
- - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)<!-- GAME:END -->
+ - [All hunts and hunt locations in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23758382/hunts-notorious-marks-locations)
+ - [Polygon’s 2023 summer movie festival: Independence Day](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Get Every Final Fantasy XIV Expansion For Dirt Cheap Right Now](https://kotaku.com/final-fantasy-14-sale-discount-shadowbrings-endwalker-1850595276)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
