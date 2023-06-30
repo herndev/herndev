@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching phone carriers: How hard is it, and can you keep your existing phone?](https://www.androidauthority.com/switching-phone-carriers-3340511/)
- - [The UK CMA says it is worried Adobe&#39;s $20B acquisition of Figma could &quot;stifle innovation&quot; and gives Adobe five days to submit proposals to address concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230630/p13#a230630p13)
- - [Apple’s alien show Invasion returns for season 2 in August](https://www.theverge.com/2023/6/30/23778993/invasion-season-2-apple-tv-plus-date-first-look)<!-- TECH:END -->
+ - [TSMC confirms it experienced a data breach after being listed as a victim by the LockBit ransomware gang, which is demanding $70M not to publish stolen data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230630/p15#a230630p15)
+ - [Apple Original sci-fi drama &#39;Invasion&#39; returns for third season in August](https://appleinsider.com/articles/23/06/30/apple-original-sci-fi-drama-invasion-returns-for-third-season-in-august?utm_medium=rss)
+ - [Why influencers love a free trip — even a controversial one from Shein](https://www.theverge.com/2023/6/30/23779058/shein-influencer-trip-backlash-ads-forced-labor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
