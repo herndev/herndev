@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industry group NetChoice, which includes Meta and Twitter, sues Arkansas over a new law requiring parental permission for minors to create social media accounts &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230629/p43#a230629p43)
- - [US authorities charge three men for allegedly making $22M+ via insider trading over a planned SPAC merger between Trump Media, which runs Truth Social, and DWAC &lpar;Reuters&rpar;](http://www.techmeme.com/230629/p42#a230629p42)
- - [Haiti vs. Mexico Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/haiti-vs-mexico-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seoul-based Levit, which operates the shopping app Alwayz that uses social features and gamification to draw customers, raised a $46M Series B led by DST Global &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230630/p1#a230630p1)
+ - [Seeing Clearly: The Top 9 Signs It Might Be Time for Glasses     - CNET](https://www.cnet.com/health/personal-care/the-top-9-signs-you-need-glasses/#ftag=CAD590a51e)
+ - [Industry group NetChoice, which includes Meta and Twitter, sues Arkansas over a new law requiring parental permission for minors to create social media accounts &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230629/p43#a230629p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
