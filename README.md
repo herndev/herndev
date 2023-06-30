@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Polite](http://9gag.com/gag/aeQ7EGb)
- - ⏩ [Such a pain in the bollocks](http://9gag.com/gag/a2KLVQD)
+ - ⏩ [State of france right now](http://9gag.com/gag/a3Zbg71)
  - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
 
 ---
