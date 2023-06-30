@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
- - ⏩ [IUTR](http://9gag.com/gag/a8qKzP3)
- - 👉 [Should&#39;ve said to avoid babies in the space instead. Also, same can be achieved with all men crew.](http://9gag.com/gag/anzrWm5)<!-- MEMES:END -->
+ - 💣 [A true madlad](http://9gag.com/gag/aQEONW2)
+ - ⏩ [Holly Earl boosting your spirit](http://9gag.com/gag/a3ZbzG3)
+ - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
 
 ---
 
