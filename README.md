@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The One Ring, forged in the fires of Mount Doom, will likely be taxed at 49%](https://www.polygon.com/23780343/mtg-where-was-the-one-ring-found-taxes-canada)
- - [An Overwatch animated miniseries is streaming this July](https://www.polygon.com/23779126/overwatch-anime-animated-series-genesis-part-one-dawn)
- - [People Mistakenly Think Five Nights At Freddy’s Meme Audio Is From Titan Sub](https://kotaku.com/oceangate-titan-submersible-five-nights-freddys-audio-1850597235)<!-- GAME:END -->
+ - [Craigslist Ad Begs Someone To Buy Video Game Store For $1 Million](https://kotaku.com/daves-retro-game-store-1-million-craigslist-elon-mario-1850597299)
+ - [Kotaku’s Weekend Guide: 7 Great Games To Play](https://kotaku.com/spider-man-street-fighter-call-of-duty-dmz-fire-emblem-1850597254)
+ - [The One Ring, forged in the fires of Mount Doom, will likely be taxed at 49%](https://www.polygon.com/23780343/mtg-where-was-the-one-ring-found-taxes-canada)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
