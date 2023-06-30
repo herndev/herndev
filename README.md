@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
- - [Don’t have a Twitter account? Then Twitter is now off-limits for you](https://www.androidauthority.com/twitter-locks-out-the-public-3341190/)
- - [Apple Original sci-fi drama &#39;Invasion&#39; returns for second season in August](https://appleinsider.com/articles/23/06/30/apple-original-sci-fi-drama-invasion-returns-for-third-season-in-august?utm_medium=rss)<!-- TECH:END -->
+ - [Jsaux’s ultimate RGB dock stretches to fit Steam Deck, ROG Ally and more](https://www.theverge.com/2023/6/30/23776368/jsaux-rgb-dock-steam-deck-rog-ally-aya-neo)
+ - [As a &#39;Sea Ice Free&#39; Arctic Looms, the Climate Consequences Are Mounting     - CNET](https://www.cnet.com/science/climate/as-a-sea-ice-free-arctic-looms-the-climate-consequences-are-mounting/#ftag=CAD590a51e)
+ - [How to use Safari Private Browsing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-safari-private-browsing-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
