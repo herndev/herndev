@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a pain in the bollocks](http://9gag.com/gag/a2KLVQD)
- - ⏩ [Here is France when you don&#39;t live in Paris... Quite peaceful...](http://9gag.com/gag/aqeYOZ7)
- - 👉 [Polite](http://9gag.com/gag/aeQ7EGb)<!-- MEMES:END -->
+ - 💣 [Polite](http://9gag.com/gag/aeQ7EGb)
+ - ⏩ [Such a pain in the bollocks](http://9gag.com/gag/a2KLVQD)
+ - 👉 [Change my mind](http://9gag.com/gag/aeQ7qQQ)<!-- MEMES:END -->
 
 ---
 
