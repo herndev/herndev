@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Change my mind](http://9gag.com/gag/aeQ7qQQ)
- - ⏩ [Annnnd now she thinks I&#39;m cheating on her... FML](http://9gag.com/gag/aDYOPM9)
- - 👉 [S02E03 sort of spoiler](http://9gag.com/gag/aWGDP4n)<!-- MEMES:END -->
+ - 💣 [Such a pain in the bollocks](http://9gag.com/gag/a2KLVQD)
+ - ⏩ [Here is France when you don&#39;t live in Paris... Quite peaceful...](http://9gag.com/gag/aqeYOZ7)
+ - 👉 [Polite](http://9gag.com/gag/aeQ7EGb)<!-- MEMES:END -->
 
 ---
 
