@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
- - [Hackers claim responsibility for an attack on Russian satellite service Dozor-Teleport; IODA project says the network has been offline since 10pm EST on June 28 &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/230630/p11#a230630p11)
- - [Poll: Do you leave your foldable phone open when not using it?](https://www.androidauthority.com/leave-foldable-phone-unfolded-poll-3340878/)<!-- TECH:END -->
+ - [Switching phone carriers: How hard is it, and can you keep your existing phone?](https://www.androidauthority.com/switching-phone-carriers-3340511/)
+ - [The UK CMA says it is worried Adobe&#39;s $20B acquisition of Figma could &quot;stifle innovation&quot; and gives Adobe five days to submit proposals to address concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230630/p13#a230630p13)
+ - [Apple’s alien show Invasion returns for season 2 in August](https://www.theverge.com/2023/6/30/23778993/invasion-season-2-apple-tv-plus-date-first-look)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
