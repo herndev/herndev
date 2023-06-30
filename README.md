@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rhymer Combines Scottish Ballads with Alien Elves](https://www.wired.com/2023/06/geeks-guide-rhymer-gregory-frost/)
- - [Get This 40W Dual USB-C Fast Charger for Less than $20     - CNET](https://www.cnet.com/deals/get-this-40w-dual-usb-c-fast-charger-for-less-than-20/#ftag=CAD590a51e)
- - [What is Google Takeout, and how do you download your Google data through it?](https://www.androidauthority.com/google-takeout-3340906/)<!-- TECH:END -->
+ - [Can you play Genshin Impact on the Steam Deck?](https://www.androidauthority.com/genshin-impact-steam-deck-3340883/)
+ - [TSMC &amp; hack group differ on whose data got stolen](https://appleinsider.com/articles/23/06/30/tsmc-hack-group-differ-on-whose-data-got-stolen?utm_medium=rss)
+ - [LG’s A2 entry-level OLED TV is back down to its best price of $599.99](https://www.theverge.com/2023/6/30/23779683/lg-a2-oled-tv-gaming-b2g1-totk-ffxvi-nintendo-dell-laptop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
