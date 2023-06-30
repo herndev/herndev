@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Reportedly Facing Big Antitrust Suit From Lina Khan&#39;s FTC     - CNET](https://www.cnet.com/tech/amazon-reportedly-facing-big-antitrust-suit-from-lina-khans-ftc/#ftag=CAD590a51e)
- - [At least one big third-party Reddit iOS app will live on](https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal)
- - [Microsoft Adds AI Shopping Tools to Bing and Edge     - CNET](https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US authorities charge three men for allegedly making $22M+ via insider trading over a planned SPAC merger between Trump Media, which runs Truth Social, and DWAC &lpar;Reuters&rpar;](http://www.techmeme.com/230629/p42#a230629p42)
+ - [Ontario-based Passage, which is building a service that helps immigrants access financing to learn and work in Canada, raised a CA$40M seed led by Drive Capital &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230629/p41#a230629p41)
+ - [What Musicians Can Teach Us About Noise and Hearing Loss     - CNET](https://www.cnet.com/health/medical/what-musicians-can-teach-us-about-noise-and-hearing-loss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
