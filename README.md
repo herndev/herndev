@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Indiana Jones and the Dial of Destiny come to Disney Plus?](https://www.polygon.com/23778489/indiana-jones-dial-destiny-watch-online-disney-plus-stream-release-date)
- - [Today&#39;s Wordle hint and answer #741: Friday, June 30](https://www.pcgamer.com/wordle-answer-today-hint-741-june-30)
- - [Our Favorite Cosplay From MCM London Comic Con](https://kotaku.com/mcm-london-comic-con-cosplay-photos-video-gallery-uk-1850594062)<!-- GAME:END -->
+ - [Hold on, weren&#39;t Intel&#39;s desktop Meteor Lake-S chips cancelled? Maybe not](https://www.pcgamer.com/hold-on-werent-intels-desktop-meteor-lake-s-chips-cancelled-maybe-not)
+ - [Review: The Makers Of Danganronpa Are Back With Another Mystery Banger](https://kotaku.com/master-detective-archives-switch-review-danganronpa-1850592843)
+ - [When will Indiana Jones and the Dial of Destiny come to Disney Plus?](https://www.polygon.com/23778489/indiana-jones-dial-destiny-watch-online-disney-plus-stream-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
