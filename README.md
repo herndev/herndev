@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie and show coming to Disney Plus in July](https://www.polygon.com/entertainment/2023/6/30/23774005/disney-plus-new-movies-tv-watch-july-2023)
- - [The Sims 5 will be &#39;free-to-enter&#39; according to EA job posting](https://www.pcgamer.com/the-sims-5-will-be-free-to-enter-according-to-ea-job-posting)
- - [Video Games And TikTok Are To Blame For French Riots, Says Prez](https://kotaku.com/france-riots-reason-nahel-paris-video-games-tiktok-1850596991)<!-- GAME:END -->
+ - [The One Ring, forged in the fires of Mount Doom, will likely be taxed at 49%](https://www.polygon.com/23780343/mtg-where-was-the-one-ring-found-taxes-canada)
+ - [An Overwatch animated miniseries is streaming this July](https://www.polygon.com/23779126/overwatch-anime-animated-series-genesis-part-one-dawn)
+ - [People Mistakenly Think Five Nights At Freddy’s Meme Audio Is From Titan Sub](https://kotaku.com/oceangate-titan-submersible-five-nights-freddys-audio-1850597235)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
