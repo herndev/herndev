@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s Elusive Ring Card Found, Valued At $2M](https://kotaku.com/magic-the-gathering-lotr-mtg-tcg-one-ring-card-price-1850596616)
- - [The Colleen Ballinger controversy and ukulele apology song, explained](https://www.polygon.com/23780143/colleen-ballinger-ukulele-apology-song-grooming-allegations)
- - [Upcoming Overwatch 2 Animated Mini-Series Looks Like A Prequel](https://kotaku.com/overwatch-2-animated-series-genesis-ana-echo-youtube-1850596526)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in July](https://www.polygon.com/entertainment/2023/6/30/23774005/disney-plus-new-movies-tv-watch-july-2023)
+ - [The Sims 5 will be &#39;free-to-enter&#39; according to EA job posting](https://www.pcgamer.com/the-sims-5-will-be-free-to-enter-according-to-ea-job-posting)
+ - [Video Games And TikTok Are To Blame For French Riots, Says Prez](https://kotaku.com/france-riots-reason-nahel-paris-video-games-tiktok-1850596991)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
