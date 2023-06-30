@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seoul-based Levit, which operates the shopping app Alwayz that uses social features and gamification to draw customers, raised a $46M Series B led by DST Global &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230630/p1#a230630p1)
- - [Seeing Clearly: The Top 9 Signs It Might Be Time for Glasses     - CNET](https://www.cnet.com/health/personal-care/the-top-9-signs-you-need-glasses/#ftag=CAD590a51e)
- - [Industry group NetChoice, which includes Meta and Twitter, sues Arkansas over a new law requiring parental permission for minors to create social media accounts &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230629/p43#a230629p43)<!-- TECH:END -->
+ - [Google Wallet is finally getting QR payment support &lpar;Update: More details&rpar;](https://www.androidauthority.com/google-wallet-qr-code-support-3339885/)
+ - [Get 1 year of Setapp for $84.99 &amp; optimize your Mac with 240+ apps](https://appleinsider.com/articles/23/06/30/get-1-year-of-setapp-for-8499-optimize-your-mac-with-240-apps?utm_medium=rss)
+ - [The UK amends its Online Safety Bill, requiring higher age verification standards for porn sites and holding executives personally responsible for child safety &lpar;Sachin Ravikumar/Reuters&rpar;](http://www.techmeme.com/230630/p2#a230630p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
