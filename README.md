@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our Favorite Cosplay From MCM London Comic Con](https://kotaku.com/mcm-london-comic-con-cosplay-photos-video-gallery-uk-1850594062)
  - [It&#39;s Important That We All Watch This Trailer For Ghost Bike](https://kotaku.com/ghost-bike-trailer-pc-steam-xbox-ps-bicycle-game-italy-1850593884)
- - [How to make sense of The Witcher’s mage ball and what happened](https://www.polygon.com/23778944/witcher-season-3-episode-5-ending-explained-conclave-ball)
- - [Microsoft lawyer tells judge that The Elder Scrolls 16 is coming in 2026, accelerating Bethesda&#39;s release calendar by 124 years](https://www.pcgamer.com/microsoft-lawyer-tells-judge-that-elder-scrolls-16-is-coming-in-2026-accelerating-bethesdas-release-calendar-by-124-years)<!-- GAME:END -->
+ - [How to make sense of The Witcher’s mage ball and what happened](https://www.polygon.com/23778944/witcher-season-3-episode-5-ending-explained-conclave-ball)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
