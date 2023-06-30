@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie targets the end of August to roll out fixes for endemic Destiny 2 connection errors: &#39;This is not a process that can happen overnight&#39;](https://www.pcgamer.com/bungie-targets-the-end-of-august-to-roll-out-fixes-for-endemic-connection-errors-this-is-not-a-process-that-can-happen-overnight)
- - [It took 25 years but we&#39;re finally getting a new Blade Runner game](https://www.pcgamer.com/it-took-25-years-but-were-finally-getting-a-new-blade-runner-game)
- - [A Moody New Blade Runner Game Is On The Way](https://kotaku.com/blade-runner-game-2033-2049-cyberpunk-1982-movie-1850593283)<!-- GAME:END -->
+ - [Microsoft lawyer tells judge that The Elder Scrolls 16 is coming in 2026, accelerating Bethesda&#39;s release calendar by 124 years](https://www.pcgamer.com/microsoft-lawyer-tells-judge-that-elder-scrolls-16-is-coming-in-2026-accelerating-bethesdas-release-calendar-by-124-years)
+ - [The best deals in the 2023 Steam Summer Sale](https://www.pcgamer.com/2023-steam-summer-sale-best-deals)
+ - [The Witcher comics ranked from worst to best](https://www.pcgamer.com/the-witcher-comics-ranked-from-worst-to-best)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
