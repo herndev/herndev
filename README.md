@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A summary of the last day and closing arguments in FTC v. Microsoft hearing, where FTC mostly focused on Call of Duty and Xbox console exclusivity &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230630/p24#a230630p24)
- - [The FTC wants to put a ban on fake reviews](https://www.theverge.com/2023/6/30/23779880/ftc-fake-reviews-ban-ai)
- - [Unit21, which helps businesses monitor fraudulent activities, raised a $45M Series C to expand its Fintech Fraud DAO data sharing consortium to identify fraud &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230630/p23#a230630p23)<!-- TECH:END -->
+ - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
+ - [Don’t have a Twitter account? Then Twitter is now off-limits for you](https://www.androidauthority.com/twitter-locks-out-the-public-3341190/)
+ - [Apple Original sci-fi drama &#39;Invasion&#39; returns for second season in August](https://appleinsider.com/articles/23/06/30/apple-original-sci-fi-drama-invasion-returns-for-third-season-in-august?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
