@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AEW: Fight Forever recaptures the attitude of golden-age wrestling games](https://www.polygon.com/reviews/23778559/aew-fight-forever-review-roster-wrestlers-switch-ps5-xbox-pc)
- - [A guide to all the wild Mortal Kombat 1 editions available for pre-orders](https://www.polygon.com/deals/23729783/mortal-kombat-1-pre-order-standard-premium-kollectors-editions)
- - [Five Nights At Freddy’s Movie Producer Was ‘Made Fun Of’ For Working On Film](https://kotaku.com/five-nights-at-freddy-s-fnaf-movie-jason-blum-1850595467)<!-- GAME:END -->
+ - [Jonathan Majors accused of ‘extreme abuse’ in new report as NYPD investigates one of his accusers](https://www.polygon.com/23779746/jonathan-majors-abuse-allegations-update-nypd-arrest)
+ - [Abandon your Diablo 4 builds: The bouncy Barbarian boy is now the only valid way to play](https://www.pcgamer.com/abandon-your-diablo-4-builds-the-bouncy-barbarian-boy-is-now-the-only-valid-way-to-play)
+ - [This Diablo IV Druid Build Is Like Playing An Avatar Earthbender](https://kotaku.com/diablo-4-druid-build-werebear-avatar-last-airbender-1850595793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
