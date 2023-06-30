@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC confirms it experienced a data breach after being listed as a victim by the LockBit ransomware gang, which is demanding $70M not to publish stolen data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230630/p15#a230630p15)
- - [Apple Original sci-fi drama &#39;Invasion&#39; returns for third season in August](https://appleinsider.com/articles/23/06/30/apple-original-sci-fi-drama-invasion-returns-for-third-season-in-august?utm_medium=rss)
- - [Why influencers love a free trip — even a controversial one from Shein](https://www.theverge.com/2023/6/30/23779058/shein-influencer-trip-backlash-ads-forced-labor)<!-- TECH:END -->
+ - [Some developers using Twitter&#39;s API, including Enterprise tier users paying $42K/month, say they are experiencing outages, bugs, and bad or no customer support &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230630/p18#a230630p18)
+ - [Apple is a $3 trillion company — again](https://www.theverge.com/2023/6/30/23779783/apple-3-trillion-market-cap-iphone-mac-vision-pro)
+ - [How to add PCIe cards to just about any Mac](https://appleinsider.com/articles/23/06/30/how-to-add-pcie-cards-to-just-about-any-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
