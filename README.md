@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vice President of Loco Bank fell out the window from 11. floor in Moscow on 24.06. She was 28](http://9gag.com/gag/aXnKG4b)
- - ⏩ [-How much grease should I use ? -Yes](http://9gag.com/gag/aeQ7PEv)
+ - 💣 [Why on earth do these celebrities think this kind of plastic surgery is attractive? On which alien planet?](http://9gag.com/gag/a8qKzW1)
+ - ⏩ [Change my mind](http://9gag.com/gag/aeQ7qQQ)
  - 👉 [Google Meet option to turn on all cameras.](http://9gag.com/gag/aGEO6BG)<!-- MEMES:END -->
 
 ---
