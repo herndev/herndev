@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to make sense of The Witcher’s mage ball and what happened](https://www.polygon.com/23778944/witcher-season-3-episode-5-ending-explained-conclave-ball)
  - [Microsoft lawyer tells judge that The Elder Scrolls 16 is coming in 2026, accelerating Bethesda&#39;s release calendar by 124 years](https://www.pcgamer.com/microsoft-lawyer-tells-judge-that-elder-scrolls-16-is-coming-in-2026-accelerating-bethesdas-release-calendar-by-124-years)
- - [The best deals in the 2023 Steam Summer Sale](https://www.pcgamer.com/2023-steam-summer-sale-best-deals)
- - [The Witcher comics ranked from worst to best](https://www.pcgamer.com/the-witcher-comics-ranked-from-worst-to-best)<!-- GAME:END -->
+ - [The best deals in the 2023 Steam Summer Sale](https://www.pcgamer.com/2023-steam-summer-sale-best-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
