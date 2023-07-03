@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up a sec...](http://9gag.com/gag/a8qKv13)
- - ⏩ [Change my mind](http://9gag.com/gag/aeQ7qQQ)
- - 👉 [One of their best songs](http://9gag.com/gag/a3ZbDnN)<!-- MEMES:END -->
+ - 💣 [I Got News For You](http://9gag.com/gag/a7qpXQb)
+ - ⏩ [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
+ - 👉 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
 
 ---
 
