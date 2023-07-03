@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)
- - [How to get Ancestral items in Diablo 4](https://www.pcgamer.com/diablo-4-ancestral-items)
- - [Netflix’s Lincoln Lawyer, Bleach: Thousand-Year Blood War season 2, and more new TV this week](https://www.polygon.com/2023/7/3/23771844/new-tv-netflix-lincoln-lawyer-bleach-thousand-year-blood-war-season-2)<!-- GAME:END -->
+ - [The untold history of Barbie Fashion Designer, the first mass-market ‘game for girls’](https://www.polygon.com/23776996/barbie-fashion-designer-retro-game-untold-story-history)
+ - [The cold dead hand of Games for Windows Live has pulled 5 Capcom games into the abyss for 600 days and counting](https://www.pcgamer.com/the-cold-dead-hand-of-games-for-windows-live-has-pulled-5-capcom-games-into-the-abyss-for-600-days-and-counting)
+ - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
