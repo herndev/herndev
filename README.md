@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
- - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
+ - ⏩ [Welcome to Malmo, Sweden! I was called a racist and a fascist for warning you all about this. Let&#39;s see if Sweden survives the next 20 years!](http://9gag.com/gag/aZDzO7n)
+ - 👉 [Peace to everyone](http://9gag.com/gag/avQdYrq)<!-- MEMES:END -->
 
 ---
 
