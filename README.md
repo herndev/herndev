@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of whether in the coming years AI will destroy, displace, create, and accelerate jobs like other waves of automation, or if this time it&#39;s different &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230702/p11#a230702p11)
- - [Freewrite Traveler review: portable, distraction free writing](https://appleinsider.com/articles/23/07/02/freewrite-traveler-review-portable-distraction-free-writing?utm_medium=rss)
- - [A look at uncensored and loosely moderated AI chatbots like WizardLM-Uncensored and Open Assistant setting off a polarizing debate about free-speech and risks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230702/p10#a230702p10)<!-- TECH:END -->
+ - [Galaxy Watch doesn’t work on tattooed wrist? Samsung’s working on a fix](https://www.androidauthority.com/samsung-galaxy-watch-tattoos-3341624/)
+ - [Sources: Apple has cut Vision Pro production plans from 1M to less than 400K units in 2024 due to manufacturing problems &lpar;Financial Times&rpar;](http://www.techmeme.com/230703/p1#a230703p1)
+ - [Nothing Phone 1 gets speed and power consumption improvements with latest update](https://www.androidauthority.com/nothing-phone-1-update-3188419/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
