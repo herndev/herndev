@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
- - 👉 [Mondayyyyy](http://9gag.com/gag/avQdYnq)<!-- MEMES:END -->
+ - 💣 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
+ - ⏩ [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
 
 ---
 
