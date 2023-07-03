@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - ⏩ [I fell for that too](http://9gag.com/gag/a5XqLZO)
- - 👉 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)<!-- MEMES:END -->
+ - 💣 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
+ - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
 
 ---
 
