@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)
- - [Sources: Meta held talks with Tencent and other Chinese tech companies on selling the Quest in China, but Mark Zuckerberg&#39;s China comments may cause issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p8#a230703p8)
- - [China imposes restrictions on exporting two metals used to make chips and other electronics, starting August 1, which will likely raise costs for manufacturers &lpar;Alfred Cang/Bloomberg&rpar;](http://www.techmeme.com/230703/p7#a230703p7)<!-- TECH:END -->
+ - [Sources: Netflix plans to develop targeted and tailor-made ad formats, including &quot;episodic&quot; campaigns, and discussed the plans with ad executives at Cannes &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230703/p9#a230703p9)
+ - [Unannounced Eve AirPlay adapter, new Nanoleaf lights, &amp; more smart home news](https://appleinsider.com/articles/23/07/03/unannounced-eve-airplay-adapter-new-nanoleaf-lights-more-smart-home-news?utm_medium=rss)
+ - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
