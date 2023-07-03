@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch doesn’t work on tattooed wrist? Samsung’s working on a fix](https://www.androidauthority.com/samsung-galaxy-watch-tattoos-3341624/)
- - [Sources: Apple has cut Vision Pro production plans from 1M to less than 400K units in 2024 due to manufacturing problems &lpar;Financial Times&rpar;](http://www.techmeme.com/230703/p1#a230703p1)
- - [Nothing Phone 1 gets speed and power consumption improvements with latest update](https://www.androidauthority.com/nothing-phone-1-update-3188419/)<!-- TECH:END -->
+ - [The time has come as &lpar;most&rpar; third-party Reddit apps shut down](https://www.androidauthority.com/third-party-reddit-apps-shut-down-3341631/)
+ - [Google’s messaging mess continues: Chat app now wants to be the next WhatsApp](https://www.androidauthority.com/google-chat-new-messaging-features-3341630/)
+ - [Galaxy Watch doesn’t work on tattooed wrist? Samsung’s working on a fix](https://www.androidauthority.com/samsung-galaxy-watch-tattoos-3341624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
