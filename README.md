@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - ⏩ [Welcome to Malmo, Sweden! I was called a racist and a fascist for warning you all about this. Let&#39;s see if Sweden survives the next 20 years!](http://9gag.com/gag/aZDzO7n)
- - 👉 [Peace to everyone](http://9gag.com/gag/avQdYrq)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aZDz64W)
+ - ⏩ [This is the life](http://9gag.com/gag/aEqOmje)
+ - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
 
 ---
 
