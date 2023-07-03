@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female leopard wakes up male for attention](http://9gag.com/gag/aDYOyK9)
- - ⏩ [This is the life](http://9gag.com/gag/aEqOmje)
- - 👉 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aZDz64W)
+ - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
+ - 👉 [My grandpa used to be an ambulance driver as well as the mortician service... until it was ruled a -conflict of interest-](http://9gag.com/gag/az2Y3qz)<!-- MEMES:END -->
 
 ---
 
