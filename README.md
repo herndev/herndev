@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #744: Monday, July 3](https://www.pcgamer.com/wordle-answer-today-hint-744-july-3)
  - [Ark&#39;s remaster has been delayed, will release with a launch discount](https://www.pcgamer.com/arks-remaster-has-been-delayed-will-release-with-a-launch-discount)
- - [Netflix’s Stop-Motion Pokémon Series Will Be Therapeutic For Fans, Says Actress](https://kotaku.com/pokemon-concierge-netflix-stop-motion-anime-psyduck-1850600407)
- - [Revived mecha RPG classic Front Mission 1st: Remake comes to PC](https://www.pcgamer.com/revived-mecha-rpg-classic-front-mission-1st-remake-comes-to-pc)<!-- GAME:END -->
+ - [Netflix’s Stop-Motion Pokémon Series Will Be Therapeutic For Fans, Says Actress](https://kotaku.com/pokemon-concierge-netflix-stop-motion-anime-psyduck-1850600407)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
