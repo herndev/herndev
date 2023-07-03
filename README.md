@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - 💣 [We need a new plague](http://9gag.com/gag/aPg15oG)
+ - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 👉 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)<!-- MEMES:END -->
 
 ---
 
