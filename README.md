@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You’d use other workarounds before buying YouTube Premium](https://www.androidauthority.com/youtube-premium-block-ads-three-strikes-poll-results-3341690/)
- - [A look at the cottage industry of Russian tech contractors, many owned by oligarch-linked Citadel Group, building digital surveillance tools for use by the FSB &lpar;New York Times&rpar;](http://www.techmeme.com/230703/p6#a230703p6)
- - [TweetDeck users report major problems, including notifications and entire columns failing to load, after Elon Musk&#39;s new read-limits; home timelines still load &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230703/p5#a230703p5)<!-- TECH:END -->
+ - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)
+ - [Sources: Meta held talks with Tencent and other Chinese tech companies on selling the Quest in China, but Mark Zuckerberg&#39;s China comments may cause issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p8#a230703p8)
+ - [China imposes restrictions on exporting two metals used to make chips and other electronics, starting August 1, which will likely raise costs for manufacturers &lpar;Alfred Cang/Bloomberg&rpar;](http://www.techmeme.com/230703/p7#a230703p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
