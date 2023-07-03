@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Netflix plans to develop targeted and tailor-made ad formats, including &quot;episodic&quot; campaigns, and discussed the plans with ad executives at Cannes &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230703/p9#a230703p9)
- - [Unannounced Eve AirPlay adapter, new Nanoleaf lights, &amp; more smart home news](https://appleinsider.com/articles/23/07/03/unannounced-eve-airplay-adapter-new-nanoleaf-lights-more-smart-home-news?utm_medium=rss)
- - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)<!-- TECH:END -->
+ - [Sources detail ByteDance&#39;s book publishing expansion and concerns over an uneven playing field; BookScan says 100+ large BookTok authors had $760M in 2022 sales &lpar;New York Times&rpar;](http://www.techmeme.com/230703/p10#a230703p10)
+ - [TweetDeck is falling apart after Twitter’s rate-limiting fiasco](https://www.theverge.com/2023/7/3/23782585/tweetdeck-broken-twitter-rate-limits-scraping-elon-musk)
+ - [How to use Personal Voice in iOS 17 and how it compares to an actual voice](https://appleinsider.com/inside/ios-17/tips/how-to-use-personal-voice-in-ios-17-and-how-it-compares-to-an-actual-voice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
