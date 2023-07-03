@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell even is this?](http://9gag.com/gag/a3ZbO0N)
- - ⏩ [Would anyways...](http://9gag.com/gag/arm26o6)
- - 👉 [Peace to everyone](http://9gag.com/gag/avQdYrq)<!-- MEMES:END -->
+ - 💣 [Female leopard wakes up male for attention](http://9gag.com/gag/aDYOyK9)
+ - ⏩ [This is the life](http://9gag.com/gag/aEqOmje)
+ - 👉 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
 
 ---
 
