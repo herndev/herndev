@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail ByteDance&#39;s book publishing expansion and concerns over an uneven playing field; BookScan says 100+ large BookTok authors had $760M in 2022 sales &lpar;New York Times&rpar;](http://www.techmeme.com/230703/p10#a230703p10)
- - [TweetDeck is falling apart after Twitter’s rate-limiting fiasco](https://www.theverge.com/2023/7/3/23782585/tweetdeck-broken-twitter-rate-limits-scraping-elon-musk)
- - [How to use Personal Voice in iOS 17 and how it compares to an actual voice](https://appleinsider.com/inside/ios-17/tips/how-to-use-personal-voice-in-ios-17-and-how-it-compares-to-an-actual-voice?utm_medium=rss)<!-- TECH:END -->
+ - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
+ - [Daily deals: 52% off Apple Watch, Amazon Fire HD 10 $75, $40 off Apple TV, more](https://appleinsider.com/articles/23/07/03/daily-deals-52-off-apple-watch-amazon-fire-hd-10-75-40-off-apple-tv-more?utm_medium=rss)
+ - [At a Shanghai event, Chinese chipmakers and suppliers were grim but defiant about US plans to widen export controls; YMTC urged suppliers to show &quot;integrity&quot; &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230703/p11#a230703p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
