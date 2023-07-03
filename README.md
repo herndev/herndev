@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This medieval murder mystery is worth it for the nuns’ chemistry](https://www.polygon.com/reviews/23778989/misericorde-review-murder-mystery-game-steam-pc)
- - [Guitar Hero Player Gets Perfect Score On Colleen Ballinger’s Apology](https://kotaku.com/youtube-is-colleen-ballinger-drama-netflix-apology-1850601572)
- - [Nimona’s radical page-to-screen story changes were a queer necessity](https://www.polygon.com/23779997/nimona-book-comic-vs-movie-changes-queer-reading)<!-- GAME:END -->
+ - [The Story Behind Star Wars Jedi: Survivor’s Infamous Fan-Favorite Boss](https://kotaku.com/star-wars-jedi-survivor-rick-door-technician-boss-who-1850601917)
+ - [&#39;We are killing Sony&#39;: A 272-page PDF of classified Sega of America docs from the mid-90s is now something you can just download](https://www.pcgamer.com/we-are-killing-sony-a-272-page-pdf-of-classified-sega-of-america-docs-from-the-mid-90s-is-now-something-you-can-just-download)
+ - [Detective Pikachu Is Still One Of The Best Pokémon Games](https://kotaku.com/detective-pikachu-returns-pokemon-3ds-game-switch-1850601737)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
