@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
- - [Daily deals: 52% off Apple Watch, Amazon Fire HD 10 $75, $40 off Apple TV, more](https://appleinsider.com/articles/23/07/03/daily-deals-52-off-apple-watch-amazon-fire-hd-10-75-40-off-apple-tv-more?utm_medium=rss)
- - [At a Shanghai event, Chinese chipmakers and suppliers were grim but defiant about US plans to widen export controls; YMTC urged suppliers to show &quot;integrity&quot; &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230703/p11#a230703p11)<!-- TECH:END -->
+ - [Pornhub blocks access in Mississippi and Virginia over age verification laws](https://www.theverge.com/2023/7/3/23782776/pornhub-blocks-mississippi-virginia-age-verification-laws)
+ - [Best Budget Laptop 2023: 7 Top Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
+ - [The Galaxy Watch 5 hits a clearance price of $199 ahead of the Watch 6 launch](https://www.androidauthority.com/samsung-galaxy-watch-5-deal-3341781/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
