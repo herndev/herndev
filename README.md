@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #744: Monday, July 3](https://www.pcgamer.com/wordle-answer-today-hint-744-july-3)
- - [Ark&#39;s remaster has been delayed, will release with a launch discount](https://www.pcgamer.com/arks-remaster-has-been-delayed-will-release-with-a-launch-discount)
- - [Netflix’s Stop-Motion Pokémon Series Will Be Therapeutic For Fans, Says Actress](https://kotaku.com/pokemon-concierge-netflix-stop-motion-anime-psyduck-1850600407)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 3, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-3-2023)
+ - [What we thought of Grand Theft Auto 4&#39;s multiplayer in 2009](https://www.pcgamer.com/what-we-thought-of-grand-theft-auto-4s-multiplayer-in-2009)
+ - [Today&#39;s Wordle hint and answer #744: Monday, July 3](https://www.pcgamer.com/wordle-answer-today-hint-744-july-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
