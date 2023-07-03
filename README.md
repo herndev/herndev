@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The untold history of Barbie Fashion Designer, the first mass-market ‘game for girls’](https://www.polygon.com/23776996/barbie-fashion-designer-retro-game-untold-story-history)
- - [The cold dead hand of Games for Windows Live has pulled 5 Capcom games into the abyss for 600 days and counting](https://www.pcgamer.com/the-cold-dead-hand-of-games-for-windows-live-has-pulled-5-capcom-games-into-the-abyss-for-600-days-and-counting)
- - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)<!-- GAME:END -->
+ - [Nightmare &#39;Giga&#39; Roller Coaster Shut Down After Someone Spots Massive Crack](https://kotaku.com/giga-roller-coaster-fury-325-carowinds-amusement-park-1850601248)
+ - [Youtube renews war on adblockers by testing out a three-video limit](https://www.pcgamer.com/youtube-renews-war-on-adblockers-by-testing-out-a-three-video-limit)
+ - [Logan Paul still hasn&#39;t refunded victims of his crypto videogame scam](https://www.pcgamer.com/logan-paul-still-hasnt-refunded-victims-of-his-crypto-videogame-scam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
