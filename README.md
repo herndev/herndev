@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter employees say that removing support for legacy APIs is what broke TweetDeck, and the company will be moving users to the &quot;new&quot; version of TweetDeck &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230703/p21#a230703p21)
- - [Want the Uncarrier’s service on the cheap? Consider a T-Mobile MVNO instead](https://www.androidauthority.com/t-mobile-mvno-3341857/)
- - [London-based Revolut plans to stop offering Solana, Polygon, and Cardano for US customers on Sept. 18, after its provider Bakkt decided to delist the tokens &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230703/p20#a230703p20)<!-- TECH:END -->
+ - [Tidal to increase prices of its base HiFi tier by $1 to $11/month and family tier by $2 to $17/month in the US starting August 1; HiFi Plus pricing is unchanged &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/230703/p24#a230703p24)
+ - [Tweets aren’t showing up in Google results as often because of changes at Twitter](https://www.theverge.com/2023/7/3/23783153/google-twitter-tweets-changes-rate-limits)
+ - [OpenAI Sued by Authors Alleging ChatGPT Trained on Their Writing     - CNET](https://www.cnet.com/tech/openai-sued-by-authors-alleging-chatgpt-trained-on-their-writing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
