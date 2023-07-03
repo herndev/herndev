@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
- - ⏩ [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aZDz64W)
+ - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---
 
