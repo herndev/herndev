@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightmare &#39;Giga&#39; Roller Coaster Shut Down After Someone Spots Massive Crack](https://kotaku.com/giga-roller-coaster-fury-325-carowinds-amusement-park-1850601248)
- - [Youtube renews war on adblockers by testing out a three-video limit](https://www.pcgamer.com/youtube-renews-war-on-adblockers-by-testing-out-a-three-video-limit)
- - [Logan Paul still hasn&#39;t refunded victims of his crypto videogame scam](https://www.pcgamer.com/logan-paul-still-hasnt-refunded-victims-of-his-crypto-videogame-scam)<!-- GAME:END -->
+ - [Celebrate All Things Anime on Xbox and Xbox Game Pass this July](https://news.xbox.com/en-us/2023/07/03/xbox-anime-month/)
+ - [Overwatch 2 is getting the anime treatment](https://www.pcgamer.com/overwatch-2-is-getting-the-anime-treatment)
+ - [Sacrificing my Necro&#39;s minions is the best thing I&#39;ve ever done in Diablo 4](https://www.pcgamer.com/sacrificing-my-necros-minions-is-the-best-thing-ive-ever-done-in-diablo-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
