@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub blocks access in Mississippi and Virginia over age verification laws and says before it went dark in Louisiana traffic fell ~80% there due to such a law &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230703/p15#a230703p15)
- - [20 Best Early Amazon Prime Day 2023 Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)
- - [The best Verizon deals of July 2023](https://www.androidauthority.com/best-verizon-deals-835801/)<!-- TECH:END -->
+ - [Twitter offering no timeline for its &quot;temporary&quot; reading limits, with CEO Linda Yaccarino keeping mum, could create a perfect opening for Meta to launch Threads &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/230703/p16#a230703p16)
+ - [Light the fireworks to celebrate these incredible Apple deals on Amazon for the 4th of July week](https://appleinsider.com/articles/23/07/03/light-the-fireworks-to-celebrate-these-incredible-apple-deals-on-amazon-for-the-4th-of-july-week?utm_medium=rss)
+ - [Suicide Squad is getting an anime adaptation](https://www.theverge.com/2023/7/3/23782993/suicide-squad-isekai-anime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
