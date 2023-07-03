@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Couldn&#39;t resist...](http://9gag.com/gag/ay2Yyrb)
- - ⏩ [Nokia wall](http://9gag.com/gag/axomEmW)
- - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
+ - 💣 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
+ - ⏩ [European prisoners](http://9gag.com/gag/amApjP4)
+ - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
 
 ---
 
