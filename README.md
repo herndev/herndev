@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ark&#39;s remaster has been delayed, will release with a launch discount](https://www.pcgamer.com/arks-remaster-has-been-delayed-will-release-with-a-launch-discount)
  - [Netflix’s Stop-Motion Pokémon Series Will Be Therapeutic For Fans, Says Actress](https://kotaku.com/pokemon-concierge-netflix-stop-motion-anime-psyduck-1850600407)
- - [Revived mecha RPG classic Front Mission 1st: Remake comes to PC](https://www.pcgamer.com/revived-mecha-rpg-classic-front-mission-1st-remake-comes-to-pc)
- - [BattleBit devs fought constant DDoS attacks, but the blocky shooter has a big future](https://www.pcgamer.com/battlebit-devs-fought-constant-ddos-attacks-but-the-blocky-shooter-has-a-big-future)<!-- GAME:END -->
+ - [Revived mecha RPG classic Front Mission 1st: Remake comes to PC](https://www.pcgamer.com/revived-mecha-rpg-classic-front-mission-1st-remake-comes-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
