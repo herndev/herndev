@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
- - [The best Fourth of July deals on OLEDs, Apple Watches, and other tech](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
- - [Apple’s Card partnership could move from Goldman Sachs to American Express](https://www.theverge.com/2023/6/30/23780440/apple-card-goldman-sachs-american-express)<!-- TECH:END -->
+ - [Freewrite Traveler review: portable, distraction free writing](https://appleinsider.com/articles/23/07/02/freewrite-traveler-review-portable-distraction-free-writing?utm_medium=rss)
+ - [A look at uncensored and loosely moderated AI chatbots like WizardLM-Uncensored and Open Assistant setting off a polarizing debate about free-speech and risks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230702/p10#a230702p10)
+ - [Report: Apple is working on new external display for Macs that can double as a smart home display in low-power mode, to release next year &quot;at the earliest&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230702/p9#a230702p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
