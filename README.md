@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Lincoln Lawyer, Bleach: Thousand-Year Blood War season 2, and more new TV this week](https://www.polygon.com/2023/7/3/23771844/new-tv-netflix-lincoln-lawyer-bleach-thousand-year-blood-war-season-2)
- - [Final Fantasy 14 is immortalising its infamous grapes](https://www.pcgamer.com/final-fantasy-14-is-immortalising-its-infamous-grapes)
- - [Diablo 4 becomes a literal rat race after players convince themselves its rodents sniff out the best loot](https://www.pcgamer.com/diablo-4-becomes-literal-rat-race-after-players-convince-themselves-its-rodents-sniff-out-the-best-loot)<!-- GAME:END -->
+ - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)
+ - [How to get Ancestral items in Diablo 4](https://www.pcgamer.com/diablo-4-ancestral-items)
+ - [Netflix’s Lincoln Lawyer, Bleach: Thousand-Year Blood War season 2, and more new TV this week](https://www.polygon.com/2023/7/3/23771844/new-tv-netflix-lincoln-lawyer-bleach-thousand-year-blood-war-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
