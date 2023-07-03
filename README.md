@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could finally switch all AirPods to USB-C, starting with AirPods Pro](https://www.androidauthority.com/apple-airpods-pro-usb-c-3341642/)
  - [The time has come as &lpar;most&rpar; third-party Reddit apps shut down](https://www.androidauthority.com/third-party-reddit-apps-shut-down-3341631/)
- - [Google’s messaging mess continues: Chat app now wants to be the next WhatsApp](https://www.androidauthority.com/google-chat-new-messaging-features-3341630/)
- - [Galaxy Watch doesn’t work on tattooed wrist? Samsung’s working on a fix](https://www.androidauthority.com/samsung-galaxy-watch-tattoos-3341624/)<!-- TECH:END -->
+ - [Google’s messaging mess continues: Chat app now wants to be the next WhatsApp](https://www.androidauthority.com/google-chat-new-messaging-features-3341630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
