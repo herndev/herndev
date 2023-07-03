@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate All Things Anime on Xbox and Xbox Game Pass this July](https://news.xbox.com/en-us/2023/07/03/xbox-anime-month/)
- - [Overwatch 2 is getting the anime treatment](https://www.pcgamer.com/overwatch-2-is-getting-the-anime-treatment)
- - [Sacrificing my Necro&#39;s minions is the best thing I&#39;ve ever done in Diablo 4](https://www.pcgamer.com/sacrificing-my-necros-minions-is-the-best-thing-ive-ever-done-in-diablo-4)<!-- GAME:END -->
+ - [This medieval murder mystery is worth it for the nuns’ chemistry](https://www.polygon.com/reviews/23778989/misericorde-review-murder-mystery-game-steam-pc)
+ - [Guitar Hero Player Gets Perfect Score On Colleen Ballinger’s Apology](https://kotaku.com/youtube-is-colleen-ballinger-drama-netflix-apology-1850601572)
+ - [Nimona’s radical page-to-screen story changes were a queer necessity](https://www.polygon.com/23779997/nimona-book-comic-vs-movie-changes-queer-reading)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
