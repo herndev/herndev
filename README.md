@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - 👉 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)<!-- MEMES:END -->
+ - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---
 
