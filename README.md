@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at MoMA&#39;s &quot;Never Alone&quot; exhibit, featuring a collection of 35 video games, making MoMA one of very few art museums to have a permanent games collection &lpar;Julian Lucas/New Yorker&rpar;](http://www.techmeme.com/230703/p3#a230703p3)
- - [Samsung treats Galaxy S23 series with speedy July 2023 security update](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Pixel 4-style hands-free gestures could come to another phone brand](https://www.androidauthority.com/xiaomi-pixel-4-hands-free-gestures-motion-sense-3341646/)<!-- TECH:END -->
+ - [All the changes in Metal: Performance HUD, shader assistance, more](https://appleinsider.com/articles/23/07/02/all-the-changes-in-metal-performance-hud-shader-assistance-more?utm_medium=rss)
+ - [How some crypto miners want to repurpose their rigs to train AI models, which isn&#39;t easy or cheap but may be more affordable than AWS and cloud alternatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p4#a230703p4)
+ - [Apple hitting roadblocks in Vision Pro assembly](https://appleinsider.com/articles/23/07/03/apple-more-than-halves-vision-pro-orders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
