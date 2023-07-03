@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Got News For You](http://9gag.com/gag/a7qpXQb)
- - ⏩ [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - 👉 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
+ - 💣 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
+ - 👉 [I Got News For You](http://9gag.com/gag/a7qpXQb)<!-- MEMES:END -->
 
 ---
 
