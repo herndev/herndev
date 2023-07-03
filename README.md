@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What ?](http://9gag.com/gag/aGEOXe0)
- - ⏩ [Wow](http://9gag.com/gag/aZDz64W)
- - 👉 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)<!-- MEMES:END -->
+ - 💣 [Female leopard wakes up male for attention](http://9gag.com/gag/aDYOyK9)
+ - ⏩ [This is the life](http://9gag.com/gag/aEqOmje)
+ - 👉 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
 
 ---
 
