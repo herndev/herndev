@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at MoMA&#39;s &quot;Never Alone&quot; exhibit, featuring a collection of 35 video games, making MoMA one of very few art museums to have a permanent games collection &lpar;Julian Lucas/New Yorker&rpar;](http://www.techmeme.com/230703/p3#a230703p3)
  - [Samsung treats Galaxy S23 series with speedy July 2023 security update](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Pixel 4-style hands-free gestures could come to another phone brand](https://www.androidauthority.com/xiaomi-pixel-4-hands-free-gestures-motion-sense-3341646/)
- - [A profile of Rachel Griffin Accurso, known as Ms. Rachel on social media, whose YouTube channel for educational children&#39;s videos has over 4.8M subscribers &lpar;McKenna Oxenden/New York Times&rpar;](http://www.techmeme.com/230703/p2#a230703p2)<!-- TECH:END -->
+ - [Pixel 4-style hands-free gestures could come to another phone brand](https://www.androidauthority.com/xiaomi-pixel-4-hands-free-gestures-motion-sense-3341646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
