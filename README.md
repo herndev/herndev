@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV: 14 Wild Loot Drops Fans Have Found](https://kotaku.com/diablo-iv-4-loot-unique-best-world-tier-3-4-1850597710)
- - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/july-2023-pc-release-calendar)
- - [Netflix’s Nimona, Knights of the Zodiac, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/30/23773875/new-movies-watch-nimona-netflix-m3gan-prime-video-knights-of-the-zodiac)<!-- GAME:END -->
+ - [Netflix’s Stop-Motion Pokémon Series Will Be Therapeutic For Fans, Says Actress](https://kotaku.com/pokemon-concierge-netflix-stop-motion-anime-psyduck-1850600407)
+ - [Revived mecha RPG classic Front Mission 1st: Remake comes to PC](https://www.pcgamer.com/revived-mecha-rpg-classic-front-mission-1st-remake-comes-to-pc)
+ - [BattleBit devs fought constant DDoS attacks, but the blocky shooter has a big future](https://www.pcgamer.com/battlebit-devs-fought-constant-ddos-attacks-but-the-blocky-shooter-has-a-big-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
