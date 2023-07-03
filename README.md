@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub blocks access in Mississippi and Virginia over age verification laws](https://www.theverge.com/2023/7/3/23782776/pornhub-blocks-mississippi-virginia-age-verification-laws)
- - [Best Budget Laptop 2023: 7 Top Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
- - [The Galaxy Watch 5 hits a clearance price of $199 ahead of the Watch 6 launch](https://www.androidauthority.com/samsung-galaxy-watch-5-deal-3341781/)<!-- TECH:END -->
+ - [Apple pulls the plug on wrestling series &#39;Monster Factory&#39; after lackluster first season](https://appleinsider.com/articles/23/07/03/apple-pulls-the-plug-on-wrestling-series-monster-factory-after-lackluster-first-season?utm_medium=rss)
+ - [Sweden&#39;s privacy watchdog says &quot;Companies must stop using Google Analytics&quot; and issues $1M+ in fines to businesses, including telco Tele2, that used the service &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230703/p14#a230703p14)
+ - [Samsung launches One UI 5.1.1 beta, delivers a bevy of features and improvements](https://www.androidauthority.com/one-ui-update-features-3341768/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
