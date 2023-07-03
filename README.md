@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of whether in the coming years AI will destroy, displace, create, and accelerate jobs like other waves of automation, or if this time it&#39;s different &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230702/p11#a230702p11)
  - [Freewrite Traveler review: portable, distraction free writing](https://appleinsider.com/articles/23/07/02/freewrite-traveler-review-portable-distraction-free-writing?utm_medium=rss)
- - [A look at uncensored and loosely moderated AI chatbots like WizardLM-Uncensored and Open Assistant setting off a polarizing debate about free-speech and risks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230702/p10#a230702p10)
- - [Report: Apple is working on new external display for Macs that can double as a smart home display in low-power mode, to release next year &quot;at the earliest&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230702/p9#a230702p9)<!-- TECH:END -->
+ - [A look at uncensored and loosely moderated AI chatbots like WizardLM-Uncensored and Open Assistant setting off a polarizing debate about free-speech and risks &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/230702/p10#a230702p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
