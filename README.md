@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new PS4 emulator is in development from the creator of RPCS3, though it&#39;s likely years away from running games](https://www.pcgamer.com/a-new-ps4-emulator-is-in-development-from-the-creator-of-rpcs3-though-its-likely-years-away-from-running-games)
- - [Only Up! Pulled From Steam After Becoming A Twitch Sensation [Update]](https://kotaku.com/only-up-twitch-steam-delisted-pulled-copyright-dispute-1850597603)
- - [MrBeast’s Face Is Haunting Every YouTube Video With This One Weird Tool](https://kotaku.com/mrbeast-youtube-thumbnail-trick-chrome-extension-free-1850602507)<!-- GAME:END -->
+ - [14 Weird Things Diehard Zelda: Tears of the Kingdom Fans Have To Explain](https://kotaku.com/zelda-tears-of-the-kingdom-totk-link-fairies-switch-rpg-1850601064)
+ - [GTA 6 Should Steal This Feature From Fortnite](https://kotaku.com/gta-6-grand-theft-auto-radio-stations-songs-fortnite-1850602740)
+ - [A new PS4 emulator is in development from the creator of RPCS3, though it&#39;s likely years away from running games](https://www.pcgamer.com/a-new-ps4-emulator-is-in-development-from-the-creator-of-rpcs3-though-its-likely-years-away-from-running-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
