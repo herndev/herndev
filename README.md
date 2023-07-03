@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the changes in Metal: Performance HUD, shader assistance, more](https://appleinsider.com/articles/23/07/02/all-the-changes-in-metal-performance-hud-shader-assistance-more?utm_medium=rss)
- - [How some crypto miners want to repurpose their rigs to train AI models, which isn&#39;t easy or cheap but may be more affordable than AWS and cloud alternatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p4#a230703p4)
- - [Apple hitting roadblocks in Vision Pro assembly](https://appleinsider.com/articles/23/07/03/apple-more-than-halves-vision-pro-orders?utm_medium=rss)<!-- TECH:END -->
+ - [You told us: You’d use other workarounds before buying YouTube Premium](https://www.androidauthority.com/youtube-premium-block-ads-three-strikes-poll-results-3341690/)
+ - [A look at the cottage industry of Russian tech contractors, many owned by oligarch-linked Citadel Group, building digital surveillance tools for use by the FSB &lpar;New York Times&rpar;](http://www.techmeme.com/230703/p6#a230703p6)
+ - [TweetDeck users report major problems, including notifications and entire columns failing to load, after Elon Musk&#39;s new read-limits; home timelines still load &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230703/p5#a230703p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
