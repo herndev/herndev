@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - 👉 [Bodycam from controversial shooting of 14-year-old Jor&#39;Dell Richardson by Aurora, Colorado police](http://9gag.com/gag/aqeYPqj)<!-- MEMES:END -->
+ - 💣 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 👉 [We need a new plague](http://9gag.com/gag/aPg15oG)<!-- MEMES:END -->
 
 ---
 
