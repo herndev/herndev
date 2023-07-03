@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My grandpa used to be an ambulance driver as well as the mortician service... until it was ruled a -conflict of interest-](http://9gag.com/gag/az2Y3qz)
- - ⏩ [She&#39;s thirsty](http://9gag.com/gag/aqeYE2j)
- - 👉 [What the hell even is this?](http://9gag.com/gag/a3ZbO0N)<!-- MEMES:END -->
+ - 💣 [What ?](http://9gag.com/gag/aGEOXe0)
+ - ⏩ [Wow](http://9gag.com/gag/aZDz64W)
+ - 👉 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)<!-- MEMES:END -->
 
 ---
 
