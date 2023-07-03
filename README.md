@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars Campaigns and Digital Collectibles for July 2023](https://blog.playstation.com/2023/07/03/20230703-psstars/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars Campaigns and Digital Collectibles for July 2023](https://blog.playstation.com/2023/07/03/20230703-psstars/)
- - [Five new Steam games you probably missed &lpar;July 3, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-3-2023)<!-- GAME:END -->
+ - [Netflix’s Lincoln Lawyer, Bleach: Thousand-Year Blood War season 2, and more new TV this week](https://www.polygon.com/2023/7/3/23771844/new-tv-netflix-lincoln-lawyer-bleach-thousand-year-blood-war-season-2)
+ - [Final Fantasy 14 is immortalising its infamous grapes](https://www.pcgamer.com/final-fantasy-14-is-immortalising-its-infamous-grapes)
+ - [Diablo 4 becomes a literal rat race after players convince themselves its rodents sniff out the best loot](https://www.pcgamer.com/diablo-4-becomes-literal-rat-race-after-players-convince-themselves-its-rodents-sniff-out-the-best-loot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
