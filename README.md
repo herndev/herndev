@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulls the plug on wrestling series &#39;Monster Factory&#39; after lackluster first season](https://appleinsider.com/articles/23/07/03/apple-pulls-the-plug-on-wrestling-series-monster-factory-after-lackluster-first-season?utm_medium=rss)
- - [Sweden&#39;s privacy watchdog says &quot;Companies must stop using Google Analytics&quot; and issues $1M+ in fines to businesses, including telco Tele2, that used the service &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230703/p14#a230703p14)
- - [Samsung launches One UI 5.1.1 beta, delivers a bevy of features and improvements](https://www.androidauthority.com/one-ui-update-features-3341768/)<!-- TECH:END -->
+ - [Pornhub blocks access in Mississippi and Virginia over age verification laws and says before it went dark in Louisiana traffic fell ~80% there due to such a law &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230703/p15#a230703p15)
+ - [20 Best Early Amazon Prime Day 2023 Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)
+ - [The best Verizon deals of July 2023](https://www.androidauthority.com/best-verizon-deals-835801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
