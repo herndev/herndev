@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [This is the life](http://9gag.com/gag/aEqOmje)
- - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
+ - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
+ - 👉 [Mondayyyyy](http://9gag.com/gag/avQdYnq)<!-- MEMES:END -->
 
 ---
 
