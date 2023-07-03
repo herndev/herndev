@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars Campaigns and Digital Collectibles for July 2023](https://blog.playstation.com/2023/07/03/20230703-psstars/)
  - [Five new Steam games you probably missed &lpar;July 3, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-3-2023)
- - [What we thought of Grand Theft Auto 4&#39;s multiplayer in 2009](https://www.pcgamer.com/what-we-thought-of-grand-theft-auto-4s-multiplayer-in-2009)
- - [Today&#39;s Wordle hint and answer #744: Monday, July 3](https://www.pcgamer.com/wordle-answer-today-hint-744-july-3)<!-- GAME:END -->
+ - [What we thought of Grand Theft Auto 4&#39;s multiplayer in 2009](https://www.pcgamer.com/what-we-thought-of-grand-theft-auto-4s-multiplayer-in-2009)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
