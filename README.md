@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could finally switch all AirPods to USB-C, starting with AirPods Pro](https://www.androidauthority.com/apple-airpods-pro-usb-c-3341642/)
- - [The time has come as &lpar;most&rpar; third-party Reddit apps shut down](https://www.androidauthority.com/third-party-reddit-apps-shut-down-3341631/)
- - [Google’s messaging mess continues: Chat app now wants to be the next WhatsApp](https://www.androidauthority.com/google-chat-new-messaging-features-3341630/)<!-- TECH:END -->
+ - [Samsung treats Galaxy S23 series with speedy July 2023 security update](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
+ - [Pixel 4-style hands-free gestures could come to another phone brand](https://www.androidauthority.com/xiaomi-pixel-4-hands-free-gestures-motion-sense-3341646/)
+ - [A profile of Rachel Griffin Accurso, known as Ms. Rachel on social media, whose YouTube channel for educational children&#39;s videos has over 4.8M subscribers &lpar;McKenna Oxenden/New York Times&rpar;](http://www.techmeme.com/230703/p2#a230703p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
