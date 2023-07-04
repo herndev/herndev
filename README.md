@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Beats Fit Pro special Fragment Design edition launching July 7](https://appleinsider.com/articles/23/07/04/new-beats-fit-pro-special-fragment-design-edition-launching-july-7?utm_medium=rss)
- - [Digital World Acquisition Corp. reaches a tentative SEC settlement over its planned Trump Media merger, agreeing to pay $18M and revise some of its filings &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230704/p9#a230704p9)
- - [Infiray P2 Pro thermal camera review: See infrared with your iPhone](https://appleinsider.com/articles/23/07/04/infiray-p2-pro-thermal-camera-review-see-infrared-with-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Display sues BOE in Texas, accusing the Chinese rival of infringing five of its patents for mobile OLED displays; Samsung dominates the OLED market &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/230704/p12#a230704p12)
+ - [Nothing Phone 2’s upgraded glyph interface explored in new video](https://www.theverge.com/2023/7/4/23783503/nothing-phone-2-hands-on-mkbhd-glyph-interface)
+ - [Yahoo CEO Jim Lanzone says the company is profitable as a private firm and plans a future IPO; Lanzone joined after Yahoo&#39;s September 2021 spinout from Verizon &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230704/p11#a230704p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
