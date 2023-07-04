@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Installing this in the men&#39;s bathroom so no one washes their hands hahahah. This is so effed up.](http://9gag.com/gag/aBd498O)
- - ⏩ [European prisoners](http://9gag.com/gag/amApjP4)
- - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
+ - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
+ - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - 👉 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)<!-- MEMES:END -->
 
 ---
 
