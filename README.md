@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - ⏩ [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+ - 💣 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)
+ - ⏩ [Peace to everyone](http://9gag.com/gag/avQdYrq)
+ - 👉 [Festival in Poland. She gave him a head in photo booth and the photos were displayed on the big public screen.](http://9gag.com/gag/aBd4QvA)<!-- MEMES:END -->
 
 ---
 
