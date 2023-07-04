@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
- - 👉 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)<!-- MEMES:END -->
+ - 💣 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - ⏩ [Peace to everyone](http://9gag.com/gag/avQdYrq)
+ - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
 
 ---
 
