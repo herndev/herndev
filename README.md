@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Put These July 2023 Game Releases On Your Radar](https://kotaku.com/games-releases-july-2023-what-to-play-ps5-switch-xbox-p-1850602842)
- - [14 Weird Things Diehard Zelda: Tears of the Kingdom Fans Have To Explain](https://kotaku.com/zelda-tears-of-the-kingdom-totk-link-fairies-switch-rpg-1850601064)
- - [An online &#39;Bullet Chess&#39; championship is drawing big cash and big names](https://www.pcgamer.com/an-online-bullet-chess-championship-is-drawing-big-cash-and-big-names)<!-- GAME:END -->
+ - [Nier Creator Yoko Taro Lost His Iconic Mask At Anime Expo 2023](https://kotaku.com/yoko-taro-mask-nier-automata-emil-lost-anime-expo-2023-1850603039)
+ - [Terraria&#39;s devs have been trying to stop developing Terraria for years, but they just can&#39;t quit](https://www.pcgamer.com/terrarias-devs-have-been-trying-to-stop-developing-terraria-for-years-but-they-just-cant-quit)
+ - [Put These July 2023 Game Releases On Your Radar](https://kotaku.com/games-releases-july-2023-what-to-play-ps5-switch-xbox-p-1850602842)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
