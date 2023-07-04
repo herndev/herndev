@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nokia wall](http://9gag.com/gag/axomEmW)
- - ⏩ [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
- - 👉 [France](http://9gag.com/gag/anzGexB)<!-- MEMES:END -->
+ - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
 
 ---
 
