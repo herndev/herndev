@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to catch tuna in Dave the Diver](https://www.pcgamer.com/dave-the-diver-tuna-catch)
- - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
- - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)<!-- GAME:END -->
+ - [It might be tougher than expected to buy Apple&#39;s Vision Pro headset in its first year](https://www.pcgamer.com/it-might-be-tougher-than-expected-to-buy-apples-vision-pro-headset-in-its-first-year)
+ - [Persona 3 Reload&#39;s all-new English voices have me worried about my favourite boy](https://www.pcgamer.com/persona-3-reloads-all-new-english-voices-have-me-worried-about-my-favourite-boy)
+ - [Even though they&#39;re smaller, Overwatch 2&#39;s story missions still won&#39;t be seasonal](https://www.pcgamer.com/even-though-theyre-smaller-overwatch-2s-story-missions-still-wont-be-seasonal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
