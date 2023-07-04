@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
+ - ⏩ [No drag allowed on train in Japan](http://9gag.com/gag/az2Y03b)
+ - 👉 [We need a new plague](http://9gag.com/gag/aPg15oG)<!-- MEMES:END -->
 
 ---
 
