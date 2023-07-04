@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look in the comments](http://9gag.com/gag/a1PE4jb)
- - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 👉 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)<!-- MEMES:END -->
+ - 💣 [Happily ever.](http://9gag.com/gag/aA0vr1R)
+ - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
 
 ---
 
