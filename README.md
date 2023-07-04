@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
+ - 💣 [This is called karma](http://9gag.com/gag/aVbVn0P)
+ - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 👉 [Mondayyyyy](http://9gag.com/gag/avQdYnq)<!-- MEMES:END -->
 
 ---
 
