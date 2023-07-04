@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happily ever.](http://9gag.com/gag/aA0vr1R)
- - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
+ - 💣 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
 
 ---
 
