@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
- - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
- - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
+ - 💣 [Wait, whattt???](http://9gag.com/gag/a2KLQe9)
+ - ⏩ [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
+ - 👉 [Film shorts](http://9gag.com/gag/aDYOyw7)<!-- MEMES:END -->
 
 ---
 
