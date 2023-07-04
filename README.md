@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft seems to think we’re getting a PS5 Slim this year](https://www.theverge.com/2023/7/4/23783621/microsoft-playstation-5-slim-model-release-date-pricing)
- - [South Korea, Japan, and Taiwan are assessing the fallout from China&#39;s limits on chipmaking chemicals gallium and germanium; Japan imported $203.2M worth in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230704/p14#a230704p14)
- - [Apple Watch Ultra returns to all-time best $729.99 price ahead of Amazon Prime Day](https://appleinsider.com/articles/23/07/04/apple-watch-ultra-returns-to-all-time-best-72999-price-ahead-of-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [There’s a lot of sci-fi streaming this summer](https://www.theverge.com/2023/7/4/23783619/sci-fi-streaming-summer-foundation-invasion-ahsoka-loki)
+ - [The space telescope surveying the entire universe to understand dark matter and dark energy](https://www.theverge.com/2023/7/4/23783648/euclid-space-telescope-esa-dark-matter-dark-energy-explain)
+ - [Microsoft seems to think we’re getting a PS5 Slim this year](https://www.theverge.com/2023/7/4/23783621/microsoft-playstation-5-slim-model-release-date-pricing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
