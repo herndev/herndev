@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to catch tuna in Dave the Diver](https://www.pcgamer.com/dave-the-diver-tuna-catch)
  - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
- - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)
- - [Valve says copyright law makes it hard to ship AI-generated games on Steam](https://www.polygon.com/ai-artificial-intelligence/23783520/steam-valve-ai-content-policy)<!-- GAME:END -->
+ - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
