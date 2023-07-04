@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven big tech companies say they’re platform gatekeepers under EU law](https://www.theverge.com/2023/7/4/23783790/eu-digital-markets-act-gatekeepers-apple-google-amazon-meta-tiktok)
- - [A likely fake 8-month-old Twitter account with a Blue check and 130K followers, suspended after WaPo informed Twitter, is a case study of political rage baiting &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230704/p18#a230704p18)
- - [Best Early Target Circle Week Deals: Save Big on Everyday Essentials     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter claims advanced notice about rate limiting would have allowed bad actors to evade detection and says rate limiting had a &quot;minimal&quot; effect on advertising &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230704/p20#a230704p20)
+ - [A look at Spill, an invite-only Twitter alternative designed as a safe destination for LGBTQ and Black people that added 100K+ users over the past three days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230704/p19#a230704p19)
+ - [Seven big tech companies say they’re platform gatekeepers under EU law](https://www.theverge.com/2023/7/4/23783790/eu-digital-markets-act-gatekeepers-apple-google-amazon-meta-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
