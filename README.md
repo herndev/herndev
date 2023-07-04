@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - ⏩ [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
+ - 💣 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
+ - 👉 [Female leopard wakes up male for attention](http://9gag.com/gag/aDYOyK9)<!-- MEMES:END -->
 
 ---
 
