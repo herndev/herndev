@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
- - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 👉 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)<!-- MEMES:END -->
+ - 💣 [That&#39;s the bad thing?](http://9gag.com/gag/axomN1L)
+ - ⏩ [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
+ - 👉 [.. driving on an exclusive bus lane. &lpar;PH&rpar;](http://9gag.com/gag/aWGR0L6)<!-- MEMES:END -->
 
 ---
 
