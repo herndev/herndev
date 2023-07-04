@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 👉 [Peace to everyone](http://9gag.com/gag/avQdYrq)<!-- MEMES:END -->
+ - 💣 [Nokia wall](http://9gag.com/gag/axomEmW)
+ - ⏩ [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
+ - 👉 [France](http://9gag.com/gag/anzGexB)<!-- MEMES:END -->
 
 ---
 
