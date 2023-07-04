@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tidal to increase prices of its base HiFi tier by $1 to $11/month and family tier by $2 to $17/month in the US starting August 1; HiFi Plus pricing is unchanged &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/230703/p24#a230703p24)
- - [Tweets aren’t showing up in Google results as often because of changes at Twitter](https://www.theverge.com/2023/7/3/23783153/google-twitter-tweets-changes-rate-limits)
- - [OpenAI Sued by Authors Alleging ChatGPT Trained on Their Writing     - CNET](https://www.cnet.com/tech/openai-sued-by-authors-alleging-chatgpt-trained-on-their-writing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)
+ - [Instagram&#39;s Twitter competitor Threads is expected to launch on July 6, 2023 according to a pre-order listing on the iOS App Store in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230703/p25#a230703p25)
+ - [Meta’s Twitter competitor launches on July 6th, according to the App Store](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
