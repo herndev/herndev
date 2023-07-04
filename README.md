@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may still be liable for $7 billion in UK 4G iPad &amp; iPhone patent trial](https://appleinsider.com/articles/23/07/04/apples-bid-to-overturn-4g-ipad-iphone-patent-ruling-rejected-by-uk-court?utm_medium=rss)
- - [No one will be able to buy Google’s ADT-4 Android TV box](https://www.androidauthority.com/adt-4-google-android-tv-box-3342122/)
- - [Here’s how to get a free $5 credit for Amazon Prime Day](https://www.androidauthority.com/free-credit-prime-day-3342141/)<!-- TECH:END -->
+ - [The best Fourth of July sales happening now](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
+ - [A judge issues an injunction blocking key Biden admin officials from contacting social media companies, in a case brought by MO and LA AGs over vaccine posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230704/p16#a230704p16)
+ - [Daily deals July 4: M2 MacBook Air $979, Windows 11 license for $29.99, Apple Watch savings](https://appleinsider.com/articles/23/07/04/daily-deals-july-4-m2-macbook-air-979-windows-11-license-for-2999-apple-watch-savings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
