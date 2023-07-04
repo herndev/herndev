@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - ⏩ [Peace to everyone](http://9gag.com/gag/avQdYrq)
- - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
+ - 💣 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - 👉 [Peace to everyone](http://9gag.com/gag/avQdYrq)<!-- MEMES:END -->
 
 ---
 
