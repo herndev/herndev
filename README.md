@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
- - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 💣 [Installing this in the men&#39;s bathroom so no one washes their hands hahahah. This is so effed up.](http://9gag.com/gag/aBd498O)
+ - ⏩ [European prisoners](http://9gag.com/gag/amApjP4)
+ - 👉 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)<!-- MEMES:END -->
 
 ---
 
