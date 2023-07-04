@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)
  - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)
- - [Instagram&#39;s Twitter competitor Threads is expected to launch on July 6, 2023 according to a pre-order listing on the iOS App Store in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230703/p25#a230703p25)
- - [Meta’s Twitter competitor launches on July 6th, according to the App Store](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
+ - [DC Fast Charging: Know Before You Go in Your Electric Car     - CNET](https://www.cnet.com/roadshow/news/dc-fast-charging-know-before-you-go-in-your-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
