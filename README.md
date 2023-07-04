@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cameron Winklevoss makes a ~$1.47B &quot;final offer&quot; to DCG CEO Barry Silbert for Genesis&#39; bankruptcy restructuring and threatens lawsuits if Silbert fails to agree &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/230704/p2#a230704p2)
  - [Threads, Meta’s Twitter rival, is ready to take off on July 6](https://www.androidauthority.com/threads-app-launch-date-3342013/)
- - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)
- - [Ampere: Disney+ Hotstar remains India&#39;s streaming leader with ~50M subscribers in Q1 and a 29% share, despite losing IPL cricket rights, vs. Prime Video&#39;s 12.4M &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/230703/p27#a230703p27)<!-- TECH:END -->
+ - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
