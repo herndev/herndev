@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, whattt???](http://9gag.com/gag/a2KLQe9)
- - ⏩ [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - 👉 [Film shorts](http://9gag.com/gag/aDYOyw7)<!-- MEMES:END -->
+ - 💣 [We need a new plague](http://9gag.com/gag/aPg15oG)
+ - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---
 
