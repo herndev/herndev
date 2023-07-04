@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For Europeans, CJEU&#39;s Meta ruling has the potential to end this chapter of surveillance capitalism, which relies on denying users a clear choice about tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)
- - [These Best Buy-refurbed AirPods 3 are a steal at just $109.99](https://www.androidauthority.com/airpods-3-deal-3342187/)
- - [The best Fourth of July sales happening now](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)<!-- TECH:END -->
+ - [Apple&#39;s Windows Game Porting Toolkit gets faster with new update](https://appleinsider.com/articles/23/07/04/apples-windows-game-porting-toolkit-gets-faster-with-new-update?utm_medium=rss)
+ - [The 16 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [For Europeans, CJEU&#39;s Meta ruling could potentially close this chapter on surveillance capitalism, which relies on denying users a free choice over its tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
