@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)
- - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)
- - [DC Fast Charging: Know Before You Go in Your Electric Car     - CNET](https://www.cnet.com/roadshow/news/dc-fast-charging-know-before-you-go-in-your-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ampere: Disney+ Hotstar remains India&#39;s streaming leader with ~50M subscribers in Q1 and a 29% share, despite losing IPL cricket rights, vs. Prime Video&#39;s 12.4M &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/230703/p27#a230703p27)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
