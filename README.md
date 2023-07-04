@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie devs made a haunted chain of free games that feed into each other—a videogame exquisite corpse](https://www.pcgamer.com/indie-devs-made-a-haunted-chain-of-free-games-that-feed-into-each-othera-videogame-exquisite-corpse)
- - [Anime Expo 2023 Attendees Say Crowd Sizes Were So Bad They Were Shoved Into Walls](https://kotaku.com/anime-expo-2023-crowd-size-overcrowded-safety-hazard-1850604562)
- - [Did Microsoft Just Announce A PlayStation 5 Slim And Pro?](https://kotaku.com/playstation-5-pro-slim-microsoft-xbox-series-s-x-sony-1850604418)<!-- GAME:END -->
+ - [Far Cry fans hope surprise source code leak will bring &#39;new breath&#39; to an old game](https://www.pcgamer.com/far-cry-fans-hope-surprise-source-code-leak-will-bring-new-breath-to-an-old-game)
+ - [14 Amazing Games To Celebrate Indie Penance Day 2023](https://kotaku.com/indie-games-pc-steam-indie-penance-smushi-come-home-1850604670)
+ - [World-leaping adventure Cocoon will come out this September](https://www.pcgamer.com/world-leaping-adventure-cocoon-will-come-out-this-september)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
