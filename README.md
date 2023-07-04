@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
+ - ⏩ [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
+ - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
 
 ---
 
