@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
- - ⏩ [No drag allowed on train in Japan](http://9gag.com/gag/az2Y03b)
- - 👉 [We need a new plague](http://9gag.com/gag/aPg15oG)<!-- MEMES:END -->
+ - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - ⏩ [We need a new plague](http://9gag.com/gag/aPg15oG)
+ - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
 
 ---
 
