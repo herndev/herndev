@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/03/this-weeks-deals-with-gold-and-spotlight-sale-280/)
- - [Yoko Taro’s New Death Game Anime Sounds Typically Wild](https://kotaku.com/kamierabi-god-app-yoko-taro-nier-anime-expo-crunchyroll-1850603225)
- - [The US-China tech war is really heating up](https://www.pcgamer.com/the-us-china-tech-war-is-really-heating-up)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #745: Tuesday, July 4](https://www.pcgamer.com/wordle-answer-today-hint-745-july-4)
+ - [Yoko Taro’s New Death Game Anime Sounds Typically Wild](https://kotaku.com/kamierabi-god-app-yoko-taro-nier-anime-expo-crunchyroll-1850603225)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
