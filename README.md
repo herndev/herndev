@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 players stumble on rare and impossibly large Butcher, the game&#39;s real Lord of Terror](https://www.pcgamer.com/diablo-4-players-stumble-on-rare-and-impossibly-large-butcher-the-games-real-lord-of-terror)
- - [Instagram to launch Twitter competitor this week, with perfect timing](https://www.polygon.com/23783479/threads-twitter-competitor-instagram-facebook-meta)
- - [The problem with Diablo 4&#39;s endgame is that it&#39;s already happened by the time you hit max level](https://www.pcgamer.com/the-problem-with-diablo-4s-endgame-is-that-its-already-happened-by-the-time-you-hit-max-level)<!-- GAME:END -->
+ - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
+ - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)
+ - [Valve says copyright law makes it hard to ship AI-generated games on Steam](https://www.polygon.com/ai-artificial-intelligence/23783520/steam-valve-ai-content-policy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
