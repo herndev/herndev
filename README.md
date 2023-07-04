@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
+ - 💣 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---
 
