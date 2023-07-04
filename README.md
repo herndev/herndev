@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)
- - ⏩ [Peace to everyone](http://9gag.com/gag/avQdYrq)
- - 👉 [Festival in Poland. She gave him a head in photo booth and the photos were displayed on the big public screen.](http://9gag.com/gag/aBd4QvA)<!-- MEMES:END -->
+ - 💣 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---
 
