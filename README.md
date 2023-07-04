@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 💣 [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 👉 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)<!-- MEMES:END -->
 
 ---
 
