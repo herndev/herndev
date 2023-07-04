@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The problem with Diablo 4&#39;s endgame is that it&#39;s already happened by the time you hit max level](https://www.pcgamer.com/the-problem-with-diablo-4s-endgame-is-that-its-already-happened-by-the-time-you-hit-max-level)
- - [Nvidia&#39;s RTX 40-series cards haven&#39;t yet gained traction with gamers on Steam](https://www.pcgamer.com/nvidias-rtx-40-series-cards-havent-yet-gained-traction-with-gamers-on-steam)
- - [Can Rufflet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23780214/can-rufflet-be-shiny-braviary)<!-- GAME:END -->
+ - [Diablo 4 players stumble on rare and impossibly large Butcher, the game&#39;s real Lord of Terror](https://www.pcgamer.com/diablo-4-players-stumble-on-rare-and-impossibly-large-butcher-the-games-real-lord-of-terror)
+ - [Instagram to launch Twitter competitor this week, with perfect timing](https://www.polygon.com/23783479/threads-twitter-competitor-instagram-facebook-meta)
+ - [The problem with Diablo 4&#39;s endgame is that it&#39;s already happened by the time you hit max level](https://www.pcgamer.com/the-problem-with-diablo-4s-endgame-is-that-its-already-happened-by-the-time-you-hit-max-level)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
