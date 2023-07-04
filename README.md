@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The social web is changing: Twitter set up limits, Reddit alienated its users, TikTok could get banned, and Instagram has turned into an entertainment platform &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230704/p5#a230704p5)
- - [Motorola Razr series hits India, hints at standard Razr price in US](https://www.androidauthority.com/motorola-razr-2023-india-pricing-3342040/)
- - [The world&#39;s 500 richest people together gained $852B in H1 2023, the best half-year since H2 2020; Musk and Zuckerberg led with $96.6B and $58.9B, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/230704/p4#a230704p4)<!-- TECH:END -->
+ - [What are ChatGPT plugins, and how to use them?](https://www.androidauthority.com/chatgpt-plugins-3341693/)
+ - [Instagram’s Twitter competitor launches July 6th](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)
+ - [The social web is changing: Twitter set up limits, Reddit alienated its users, TikTok could get banned, and Instagram has turned into an entertainment platform &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230704/p5#a230704p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
