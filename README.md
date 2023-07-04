@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix teases Japanese lineup full of zombies, robots, and pokémon](https://www.theverge.com/2023/7/4/23783547/netflix-japanese-lineup-2023-pokemon-pluto-zom-100-one-piece)
- - [The 3 Best Smart Displays &lpar;2023&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft seems to think we’re getting a PS5 Slim this year](https://www.theverge.com/2023/7/4/23783621/microsoft-playstation-5-slim-model-release-date-pricing)
+ - [South Korea, Japan, and Taiwan are assessing the fallout from China&#39;s limits on chipmaking chemicals gallium and germanium; Japan imported $203.2M worth in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230704/p14#a230704p14)
+ - [Apple Watch Ultra returns to all-time best $729.99 price ahead of Amazon Prime Day](https://appleinsider.com/articles/23/07/04/apple-watch-ultra-returns-to-all-time-best-72999-price-ahead-of-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
