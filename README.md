@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix teases Japanese lineup full of zombies, robots, and pokémon](https://www.theverge.com/2023/7/4/23783547/netflix-japanese-lineup-2023-pokemon-pluto-zom-100-one-piece)
  - [The 3 Best Smart Displays &lpar;2023&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)
- - [How SoftBank is playing catch-up despite focusing on AI since 2018; PitchBook says the firm invested in just one of the 26 generative AI startups valued at $1B+ &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/230704/p13#a230704p13)<!-- TECH:END -->
+ - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
