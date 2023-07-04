@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a lot of sci-fi streaming this summer](https://www.theverge.com/2023/7/4/23783619/sci-fi-streaming-summer-foundation-invasion-ahsoka-loki)
- - [The space telescope surveying the entire universe to understand dark matter and dark energy](https://www.theverge.com/2023/7/4/23783648/euclid-space-telescope-esa-dark-matter-dark-energy-explain)
- - [Microsoft seems to think we’re getting a PS5 Slim this year](https://www.theverge.com/2023/7/4/23783621/microsoft-playstation-5-slim-model-release-date-pricing)<!-- TECH:END -->
+ - [Apple may still be liable for $7 billion in UK 4G iPad &amp; iPhone patent trial](https://appleinsider.com/articles/23/07/04/apples-bid-to-overturn-4g-ipad-iphone-patent-ruling-rejected-by-uk-court?utm_medium=rss)
+ - [No one will be able to buy Google’s ADT-4 Android TV box](https://www.androidauthority.com/adt-4-google-android-tv-box-3342122/)
+ - [Here’s how to get a free $5 credit for Amazon Prime Day](https://www.androidauthority.com/free-credit-prime-day-3342141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
