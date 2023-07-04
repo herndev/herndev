@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
  - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
- - 👉 [Female leopard wakes up male for attention](http://9gag.com/gag/aDYOyK9)<!-- MEMES:END -->
+ - 👉 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)<!-- MEMES:END -->
 
 ---
 
