@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did Microsoft Just Announce A PlayStation 5 Slim And Pro?](https://kotaku.com/playstation-5-pro-slim-microsoft-xbox-series-s-x-sony-1850604418)
- - [Add a tumbleweed companion who encourages violence in Fallout: New Vegas with this mod](https://www.pcgamer.com/add-a-tumbleweed-companion-who-encourages-you-to-violence-to-fallout-new-vegas-with-this-mod)
- - [Ubisoft hits Division 2 cheaters with 2-week bans and warns of worse to come if they don&#39;t knock it off](https://www.pcgamer.com/ubisoft-hits-division-2-cheaters-with-2-week-bans-and-warns-of-worse-to-come-if-they-dont-knock-it-off)<!-- GAME:END -->
+ - [Indie devs made a haunted chain of free games that feed into each other—a videogame exquisite corpse](https://www.pcgamer.com/indie-devs-made-a-haunted-chain-of-free-games-that-feed-into-each-othera-videogame-exquisite-corpse)
+ - [Anime Expo 2023 Attendees Say Crowd Sizes Were So Bad They Were Shoved Into Walls](https://kotaku.com/anime-expo-2023-crowd-size-overcrowded-safety-hazard-1850604562)
+ - [Did Microsoft Just Announce A PlayStation 5 Slim And Pro?](https://kotaku.com/playstation-5-pro-slim-microsoft-xbox-series-s-x-sony-1850604418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
