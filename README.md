@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The wildest anime of the year is built on entertainment horror stories](https://www.polygon.com/23779965/oshi-no-ko-review-season-1-real)
- - [Get three months of Game Pass Ultimate for $24 before tomorrow’s price hike](https://www.polygon.com/deals/2023/7/5/23784383/xbox-game-pass-ultimate-3-months-july-2023-deals)
- - [The Grimace Shake has arrived in Skyrim, because of course it has](https://www.pcgamer.com/the-grimace-shake-has-arrived-in-skyrim-because-of-course-it-has)<!-- GAME:END -->
+ - [Attack on Titan’s last episode finally has a trailer ahead of Fall 2023 release](https://www.polygon.com/23784517/attack-on-titan-season-4-final-part-aot-trailer-release-date)
+ - [Looks Like Tears Of The Kingdom’s Best Rupee Glitch Is No More](https://kotaku.com/zelda-totk-tears-of-the-kingdom-glitch-patch-switch-1850605932)
+ - [The Switch Has Its Own Dollar Store Last Of Us Knock-Off](https://kotaku.com/switch-the-last-of-us-clone-ps4-ps5-last-hope-dead-zone-1850606552)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
