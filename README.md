@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oaken Provides a New Take Full of Celtic and Tribal vibes on the Tactical Genre](https://news.xbox.com/en-us/2023/07/05/oaken-provides-a-new-take-full-of-celtic-and-tribal-vibes-on-the-tactical-genre/)
- - [Dead by Daylight adds Nicolas Cage as a playable Survivor with acting-related powers](https://www.polygon.com/23784793/dead-by-daylight-nicolas-cage-dlc-release-date)
- - [Ghost Trick: Phantom Detective review](https://www.pcgamer.com/ghost-trick-phantom-detective-review)<!-- GAME:END -->
+ - [The next generation of The Sims will finally have some much-needed competition](https://www.pcgamer.com/the-next-generation-of-the-sims-will-finally-have-some-much-needed-competition)
+ - [The Skyrim Modding Community Has Its Own Deepfake Porn Controversy](https://kotaku.com/skyrim-nexusmods-deepfake-porn-ai-voice-eleven-labs-1850607687)
+ - [Emperor of Cinema Martin Scorsese has another killer movie on the way](https://www.polygon.com/23784787/killers-of-the-flower-moon-trailer-martin-scorsese)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
