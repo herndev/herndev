@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to catch a seahorse in Dave the Diver](https://www.pcgamer.com/dave-the-diver-seahorse-bug-net)
- - [Suicide Squad anime movie from Attack on Titan studio looks absolutely twisted](https://www.polygon.com/entertainment/23784350/suicide-squad-anime-wit-studio-attack-on-titan)
- - [Nvidia already fitting new anti-melty 12V-2x6 power connector to RTX 4070 boards](https://www.pcgamer.com/nvidia-already-fitting-new-anti-melty-12v-2x6-power-connector-to-rtx-4070-boards)<!-- GAME:END -->
+ - [The wildest anime of the year is built on entertainment horror stories](https://www.polygon.com/23779965/oshi-no-ko-review-season-1-real)
+ - [Get three months of Game Pass Ultimate for $24 before tomorrow’s price hike](https://www.polygon.com/deals/2023/7/5/23784383/xbox-game-pass-ultimate-3-months-july-2023-deals)
+ - [The Grimace Shake has arrived in Skyrim, because of course it has](https://www.pcgamer.com/the-grimace-shake-has-arrived-in-skyrim-because-of-course-it-has)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
