@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/agoK05g)
- - ⏩ [On a scale from 1-10, how painful is this?](http://9gag.com/gag/aPgryPK)
- - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
+ - 💣 [I don&#39;t want to get out](http://9gag.com/gag/ap9VvL9)
+ - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---
 
