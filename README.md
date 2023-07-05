@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 legal jobs mod finally gives Arthur Morgan the quiet life he deserves](https://www.pcgamer.com/red-dead-redemption-2-legal-jobs-mod-finally-gives-arthur-morgan-the-quiet-life-he-deserves)
- - [How to get Wicked Implement in Destiny 2](https://www.pcgamer.com/destiny-2-wicked-implement-exotic-quest)
- - [Intel reveals ambitious plans to enable the ultimate in path-traced eye candy on integrated graphics](https://www.pcgamer.com/intel-reveals-ambitious-plans-to-enable-the-ultimate-in-path-traced-eye-candy-on-integrated-graphics)<!-- GAME:END -->
+ - [PixelJunk Eden 2 swings onto PlayStation 5](https://blog.playstation.com/2023/07/05/pixeljunk-eden-2-swings-onto-playstation-5/)
+ - [Coming to Xbox Game Pass: Exoprimal, Grand Theft Auto V, Techtonica, and More](https://news.xbox.com/en-us/2023/07/05/game-pass-july-2023-wave-1-announce/)
+ - [Indiana Jones: Sands of Adventure turns Raiders of the Lost Ark into a raucous party game](https://www.polygon.com/23771818/indiana-jones-sands-of-adventure-board-game-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
