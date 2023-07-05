@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 👉 [Good old days](http://9gag.com/gag/a6qGLRR)<!-- MEMES:END -->
+ - 💣 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---
 
