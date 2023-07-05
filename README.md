@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - ⏩ [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
+ - 💣 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
 
 ---
 
