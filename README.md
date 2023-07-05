@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If Secret Invasion’s big bad is teasing a Fantastic future, it may never come](https://www.polygon.com/23784523/marvel-secret-invasion-super-skrull-powers)
- - [Nicolas Cage brings the secret power of &#39;Dramaturgy&#39; to the Dead by Daylight PTB](https://www.pcgamer.com/nicolas-cage-brings-the-secret-power-of-dramaturgy-to-the-dead-by-daylight-ptb)
- - [Audio-Technica AT2020USB-XP](https://www.pcgamer.com/audio-technica-at2020usb-xp)<!-- GAME:END -->
+ - [Oaken Provides a New Take Full of Celtic and Tribal vibes on the Tactical Genre](https://news.xbox.com/en-us/2023/07/05/oaken-provides-a-new-take-full-of-celtic-and-tribal-vibes-on-the-tactical-genre/)
+ - [Dead by Daylight adds Nicolas Cage as a playable Survivor with acting-related powers](https://www.polygon.com/23784793/dead-by-daylight-nicolas-cage-dlc-release-date)
+ - [Ghost Trick: Phantom Detective review](https://www.pcgamer.com/ghost-trick-phantom-detective-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
