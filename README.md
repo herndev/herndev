@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
- - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/agoK05g)
+ - ⏩ [On a scale from 1-10, how painful is this?](http://9gag.com/gag/aPgryPK)
+ - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
 ---
 
