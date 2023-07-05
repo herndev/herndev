@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t want to get out](http://9gag.com/gag/ap9VvL9)
- - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+ - 💣 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
 
 ---
 
