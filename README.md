@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Instagram Threads launch countdown jumped forward and is now targeting 7PM ET](https://www.theverge.com/2023/7/5/23784873/instagram-threads-launch-twitter-meta-countdown-7pm)
- - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
+ - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)
+ - [Vimeo CEO Anjali Sud plans to step down at the end of August 2023 to &quot;pursue a new opportunity&quot;; board member Adam Gross will serve as interim CEO from Sept. 1 &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230705/p24#a230705p24)
+ - [Apple Watch could detect Parkinson&#39;s disease up to 7 years earlier](https://appleinsider.com/articles/23/07/05/apple-watch-could-detect-parkinsons-disease-up-to-7-years-earlier?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
