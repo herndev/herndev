@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus is blurring the lines between mid-range and flagship once again](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-launch-3342333/)
- - [Rumored iPhone SE 4 delayed another year over OLED production woes](https://appleinsider.com/articles/23/07/05/rumored-iphone-se-4-delayed-another-year-over-oled-production-woes?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-05-2023-3341156/)<!-- TECH:END -->
+ - [Twitter quietly backtracks and lets logged out users see individual tweets, ending Elon Musk&#39;s &quot;temporary emergency measure&quot;; profiles are still not visible &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230705/p15#a230705p15)
+ - [What towers does Mint Mobile use? Does it have its own?](https://www.androidauthority.com/what-towers-does-mint-mobile-use-does-it-have-its-own-3341991/)
+ - [EV Charger Hacking Poses a ‘Catastrophic’ Risk](https://www.wired.com/story/electric-vehicle-charging-station-hacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
