@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
- - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; BofA estimates traffic to ChatGPT was down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)
- - [CADDi, which offers a B2B marketplace for the manufacturing industry and an AI-powered cloud service for managing drawing data, raised a $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)<!-- TECH:END -->
+ - [The Instagram Threads launch countdown jumped forward and is now targeting 7PM ET](https://www.theverge.com/2023/7/5/23784873/instagram-threads-launch-twitter-meta-countdown-7pm)
+ - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
