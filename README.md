@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next generation of The Sims will finally have some much-needed competition](https://www.pcgamer.com/the-next-generation-of-the-sims-will-finally-have-some-much-needed-competition)
- - [The Skyrim Modding Community Has Its Own Deepfake Porn Controversy](https://kotaku.com/skyrim-nexusmods-deepfake-porn-ai-voice-eleven-labs-1850607687)
- - [Emperor of Cinema Martin Scorsese has another killer movie on the way](https://www.polygon.com/23784787/killers-of-the-flower-moon-trailer-martin-scorsese)<!-- GAME:END -->
+ - [This Horror Game Gives You A Virtual Girlfriend From Hell](https://kotaku.com/indie-horror-game-demo-review-miside-yandere-sim-pc-1850608147)
+ - [In case there was any doubt, Google&#39;s privacy policy now explicitly states that it&#39;s going to suck up all your data to train its AI](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai)
+ - [The Skyrim Modding Community Has Its Own Deepfake Porn Controversy](https://kotaku.com/skyrim-nexusmods-deepfake-porn-ai-voice-eleven-labs-1850607687)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
