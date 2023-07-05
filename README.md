@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - ⏩ [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
 
 ---
 
