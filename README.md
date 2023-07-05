@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
+ - 💣 [Don&#39;t stick your dick in crazy! Tell us your crazy ex story.](http://9gag.com/gag/anzGBmn)
+ - ⏩ [Goddammit&#39; Give these WHITES some of your reparations ---](http://9gag.com/gag/aBd4YdQ)
+ - 👉 [Me enjoying my meaningless life](http://9gag.com/gag/avQ9Pgq)<!-- MEMES:END -->
 
 ---
 
