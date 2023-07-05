@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)
- - [Vimeo CEO Anjali Sud plans to step down at the end of August 2023 to &quot;pursue a new opportunity&quot;; board member Adam Gross will serve as interim CEO from Sept. 1 &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230705/p24#a230705p24)
- - [Apple Watch could detect Parkinson&#39;s disease up to 7 years earlier](https://appleinsider.com/articles/23/07/05/apple-watch-could-detect-parkinsons-disease-up-to-7-years-earlier?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [Source: the US State Dept. cancels regular meetings with Meta about 2024 election prep, one day after a judge limited Biden officials&#39; contact with tech firms &lpar;Washington Post&rpar;](http://www.techmeme.com/230705/p26#a230705p26)
+ - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
