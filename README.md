@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack on Titan’s last episode finally has a trailer ahead of Fall 2023 release](https://www.polygon.com/23784517/attack-on-titan-season-4-final-part-aot-trailer-release-date)
- - [Looks Like Tears Of The Kingdom’s Best Rupee Glitch Is No More](https://kotaku.com/zelda-totk-tears-of-the-kingdom-glitch-patch-switch-1850605932)
- - [The Switch Has Its Own Dollar Store Last Of Us Knock-Off](https://kotaku.com/switch-the-last-of-us-clone-ps4-ps5-last-hope-dead-zone-1850606552)<!-- GAME:END -->
+ - [If Secret Invasion’s big bad is teasing a Fantastic future, it may never come](https://www.polygon.com/23784523/marvel-secret-invasion-super-skrull-powers)
+ - [Nicolas Cage brings the secret power of &#39;Dramaturgy&#39; to the Dead by Daylight PTB](https://www.pcgamer.com/nicolas-cage-brings-the-secret-power-of-dramaturgy-to-the-dead-by-daylight-ptb)
+ - [Audio-Technica AT2020USB-XP](https://www.pcgamer.com/audio-technica-at2020usb-xp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
