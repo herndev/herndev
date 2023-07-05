@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 👉 [Also in your hometown.](http://9gag.com/gag/aVbRQ02)<!-- MEMES:END -->
+ - 💣 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
+ - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 
