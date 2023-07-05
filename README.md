@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake discounts are rampant even before Amazon Prime Day&#39;s kick-off](https://www.pcgamer.com/fake-discounts-are-rampant-even-before-amazon-prime-days-kick-off)
- - [AMD&#39;s first hybrid CPUs heading for laptops later this year](https://www.pcgamer.com/amds-first-hybrid-cpus-heading-for-laptops-later-this-year)
- - [Fallout creator reveals why he quit development on &#39;WoW-killer&#39; Wildstar after internecine company in-fighting](https://www.pcgamer.com/fallout-creator-reveals-why-he-quit-development-on-wow-killer-wildstar-after-internecine-company-in-fighting)<!-- GAME:END -->
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [Where to find Joyeux Vouchers in Genshin Impact 3.8](https://www.pcgamer.com/genshin-impact-joyeux-voucher-locations)
+ - [‘Cut and Style’ Barbie gave me the queerest moment of my childhood](https://www.polygon.com/23780244/retro-barbie-cut-and-style-doll-haircut-queer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
