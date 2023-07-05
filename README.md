@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter quietly backtracks and lets logged out users see individual tweets, ending Elon Musk&#39;s &quot;temporary emergency measure&quot;; profiles are still not visible &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230705/p15#a230705p15)
- - [What towers does Mint Mobile use? Does it have its own?](https://www.androidauthority.com/what-towers-does-mint-mobile-use-does-it-have-its-own-3341991/)
- - [EV Charger Hacking Poses a ‘Catastrophic’ Risk](https://www.wired.com/story/electric-vehicle-charging-station-hacks/)<!-- TECH:END -->
+ - [Ubisoft sees ‘major reduction’ in Rainbow Six Siege cheaters thanks to XIM detection](https://www.theverge.com/2023/7/5/23784149/ubisoft-xim-detection-rainbow-six-siege-mousetrap)
+ - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)
+ - [New Nothing Ear 2 colorway shown off in leak](https://www.androidauthority.com/nothing-ear-2-black-3342461/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
