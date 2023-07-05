@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t stick your dick in crazy! Tell us your crazy ex story.](http://9gag.com/gag/anzGBmn)
- - ⏩ [Goddammit&#39; Give these WHITES some of your reparations ---](http://9gag.com/gag/aBd4YdQ)
- - 👉 [Me enjoying my meaningless life](http://9gag.com/gag/avQ9Pgq)<!-- MEMES:END -->
+ - 💣 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
 ---
 
