@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft sees ‘major reduction’ in Rainbow Six Siege cheaters thanks to XIM detection](https://www.theverge.com/2023/7/5/23784149/ubisoft-xim-detection-rainbow-six-siege-mousetrap)
- - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)
- - [New Nothing Ear 2 colorway shown off in leak](https://www.androidauthority.com/nothing-ear-2-black-3342461/)<!-- TECH:END -->
+ - [Meta’s Twitter rival Threads will skip the EU as it goes live everywhere else](https://www.androidauthority.com/meta-threads-app-3342506/)
+ - [Munich-based EGYM, which sells smart fitness hardware and software to measure how people work out, raised $225M led by Affinity Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230705/p17#a230705p17)
+ - [Billionaire brawl: all the latest on the cage match between Elon Musk and Mark Zuckerberg](https://www.theverge.com/23773413/elon-musk-mark-zuckerberg-cage-match-twitter-threads-instagram-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
