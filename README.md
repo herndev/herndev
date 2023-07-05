@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PixelJunk Eden 2 swings onto PlayStation 5](https://blog.playstation.com/2023/07/05/pixeljunk-eden-2-swings-onto-playstation-5/)
- - [Coming to Xbox Game Pass: Exoprimal, Grand Theft Auto V, Techtonica, and More](https://news.xbox.com/en-us/2023/07/05/game-pass-july-2023-wave-1-announce/)
- - [Indiana Jones: Sands of Adventure turns Raiders of the Lost Ark into a raucous party game](https://www.polygon.com/23771818/indiana-jones-sands-of-adventure-board-game-review)<!-- GAME:END -->
+ - [Fake discounts are rampant even before Amazon Prime Day&#39;s kick-off](https://www.pcgamer.com/fake-discounts-are-rampant-even-before-amazon-prime-days-kick-off)
+ - [AMD&#39;s first hybrid CPUs heading for laptops later this year](https://www.pcgamer.com/amds-first-hybrid-cpus-heading-for-laptops-later-this-year)
+ - [Fallout creator reveals why he quit development on &#39;WoW-killer&#39; Wildstar after internecine company in-fighting](https://www.pcgamer.com/fallout-creator-reveals-why-he-quit-development-on-wow-killer-wildstar-after-internecine-company-in-fighting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
