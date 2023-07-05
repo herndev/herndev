@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [277](http://9gag.com/gag/agoK05g)
- - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
+ - 💣 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
+ - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
 
 ---
 
