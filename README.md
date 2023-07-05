@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Judge blocks Biden officials from contacting social media sites](https://www.theverge.com/2023/7/4/23783822/free-speech-ruling-missouri-v-biden-dhs-fbi-cisa)
- - [Best Tablet Deals: Save Up to $200 on Microsoft Surface Pro 9 and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [The National Music Publishers Association: in February 2023, Spotify had 44.4M US subscribers, Apple Music had 32.6M, Amazon Music had 29.3M, YouTube had 8.5M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230704/p21#a230704p21)<!-- TECH:END -->
+ - [Nintendo’s CEO says its online accounts are the key to its next console transition](https://www.theverge.com/2023/6/27/23775415/nintendos-switch-accounts-next-generation-furukawa-shareholders)
+ - [India targets December 2024 for the country&#39;s first domestically manufactured chips, as Micron&#39;s new chip assembly and test facility breaks ground in August &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/230704/p22#a230704p22)
+ - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
