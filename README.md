@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel reveals ambitious plans to enable the ultimate in path-traced eye candy on integrated graphics](https://www.pcgamer.com/intel-reveals-ambitious-plans-to-enable-the-ultimate-in-path-traced-eye-candy-on-integrated-graphics)
  - [Today&#39;s Wordle hint and answer #746: Wednesday, July 5](https://www.pcgamer.com/wordle-answer-today-hint-746-july-5)
- - [AMD&#39;s new Ryzen 5 7500F could be the best budget AM5 gaming chip yet](https://www.pcgamer.com/amds-new-ryzen-5-7500f-could-be-the-best-budget-am5-gaming-chip-yet)
- - [Disney Deletes Streaming Movie That Only Released In May](https://kotaku.com/disney-streaming-crater-tax-rort-scam-writeoff-delete-1850604861)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen 5 7500F could be the best budget AM5 gaming chip yet](https://www.pcgamer.com/amds-new-ryzen-5-7500f-could-be-the-best-budget-am5-gaming-chip-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
