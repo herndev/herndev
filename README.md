@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 💣 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
  - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
  - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
