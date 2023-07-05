@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Horror Game Gives You A Virtual Girlfriend From Hell](https://kotaku.com/indie-horror-game-demo-review-miside-yandere-sim-pc-1850608147)
- - [In case there was any doubt, Google&#39;s privacy policy now explicitly states that it&#39;s going to suck up all your data to train its AI](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai)
- - [The Skyrim Modding Community Has Its Own Deepfake Porn Controversy](https://kotaku.com/skyrim-nexusmods-deepfake-porn-ai-voice-eleven-labs-1850607687)<!-- GAME:END -->
+ - [Beyond Good and Evil 2 creative director Emile Morel has died](https://www.pcgamer.com/beyond-good-and-evil-2-creative-director-emile-morel-has-died)
+ - [As Twitter and Reddit wrestle with their own users, the future of the web feels up in the air](https://www.pcgamer.com/as-twitter-and-reddit-battle-with-their-own-users-the-future-of-the-web-feels-up-in-the-air)
+ - [Ubisoft is smashing hackers by the thousands with &#39;QB,&#39; and we may never find out exactly how it works](https://www.pcgamer.com/ubisoft-is-smashing-hackers-by-the-thousands-with-qb-and-we-may-never-find-out-exactly-how-it-works)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
