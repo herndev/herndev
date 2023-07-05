@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 vs iPhone 15: Should you buy the iPhone 14 or wait for the iPhone 15?](https://www.androidauthority.com/iphone-14-vs-iphone-15-3340962/)
- - [After Fortinet patched a major bug in FortiOS on June 12, researchers find ~338K out of ~490K affected SSL VPN interfaces are still unpatched and open to RCE &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230705/p18#a230705p18)
- - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
+ - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
+ - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; BofA estimates traffic to ChatGPT was down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)
+ - [CADDi, which offers a B2B marketplace for the manufacturing industry and an AI-powered cloud service for managing drawing data, raised a $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
