@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry fans hope surprise source code leak will bring &#39;new breath&#39; to an old game](https://www.pcgamer.com/far-cry-fans-hope-surprise-source-code-leak-will-bring-new-breath-to-an-old-game)
- - [14 Amazing Games To Celebrate Indie Penance Day 2023](https://kotaku.com/indie-games-pc-steam-indie-penance-smushi-come-home-1850604670)
- - [World-leaping adventure Cocoon will come out this September](https://www.pcgamer.com/world-leaping-adventure-cocoon-will-come-out-this-september)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen 5 7500F could be the best budget AM5 gaming chip yet](https://www.pcgamer.com/amds-new-ryzen-5-7500f-could-be-the-best-budget-am5-gaming-chip-yet)
+ - [Disney Deletes Streaming Movie That Only Released In May](https://kotaku.com/disney-streaming-crater-tax-rort-scam-writeoff-delete-1850604861)
+ - [Huge &lpar;Sometimes Tragic&rpar; Collection Of Sega Documents From The 90&#39;s Have Leaked](https://kotaku.com/sega-documents-leak-90s-saturn-sonic-sony-emails-1850604812)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
