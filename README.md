@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports Q2 revenue down 13.8% YoY to $41.76B and June revenue down 19.7% YoY to $13.6B due to weak consumer demand, but forecasts a brighter Q3 outlook &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230705/p10#a230705p10)
- - [Instagram launches a basic Threads web interface, offering an early look at what to expect before its July 6 launch; the service appears to have 2,500+ users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230705/p9#a230705p9)
- - [The Best Sustainable Clothing Brands You&#39;ve Probably Never Heard Of     - CNET](https://www.cnet.com/culture/fashion/the-best-sustainable-clothing-brands-you-probably-never-heard-of/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)
+ - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/best-amazon-fire-tablet/)
+ - [Realistic Graphics Can Open Real Dialogue Around Game Violence](https://www.wired.com/story/realistic-graphics-video-game-violence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
