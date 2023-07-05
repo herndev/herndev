@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
+ - 💣 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 👉 [Delicious, finally some f**king food](http://9gag.com/gag/aKEKPWg)<!-- MEMES:END -->
 
 ---
 
