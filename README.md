@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UAE gives the first national license for self-driving vehicles to China&#39;s WeRide, allowing the company to test Level 4 autonomous vehicles on public roads &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230704/p23#a230704p23)
  - [Nintendo’s CEO says its online accounts are the key to its next console transition](https://www.theverge.com/2023/6/27/23775415/nintendos-switch-accounts-next-generation-furukawa-shareholders)
- - [India targets December 2024 for the country&#39;s first domestically manufactured chips, as Micron&#39;s new chip assembly and test facility breaks ground in August &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/230704/p22#a230704p22)
- - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India targets December 2024 for the country&#39;s first domestically manufactured chips, as Micron&#39;s new chip assembly and test facility breaks ground in August &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/230704/p22#a230704p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
