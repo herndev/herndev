@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
- - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
+ - 💣 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - ⏩ [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
 
 ---
 
