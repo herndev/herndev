@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Twitter rival Threads will skip the EU as it goes live everywhere else](https://www.androidauthority.com/meta-threads-app-3342506/)
- - [Munich-based EGYM, which sells smart fitness hardware and software to measure how people work out, raised $225M led by Affinity Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230705/p17#a230705p17)
- - [Billionaire brawl: all the latest on the cage match between Elon Musk and Mark Zuckerberg](https://www.theverge.com/23773413/elon-musk-mark-zuckerberg-cage-match-twitter-threads-instagram-meta)<!-- TECH:END -->
+ - [iPhone 14 vs iPhone 15: Should you buy the iPhone 14 or wait for the iPhone 15?](https://www.androidauthority.com/iphone-14-vs-iphone-15-3340962/)
+ - [After Fortinet patched a major bug in FortiOS on June 12, researchers find ~338K out of ~490K affected SSL VPN interfaces are still unpatched and open to RCE &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230705/p18#a230705p18)
+ - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
