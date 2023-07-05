@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recording Academy CEO Harvey Mason jr. says music with AI-created elements is eligible for a Grammy, but the AI portion will not be considered for the award &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/230705/p7#a230705p7)
- - [The EU announces new rules to help privacy regulators work on cross-border cases faster and give companies more rights, after criticism of slow investigations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230705/p6#a230705p6)
- - [The first phone with 24GB of RAM and an overclocked Snapdragon 8 Gen 2 is here](https://www.androidauthority.com/redmagic-8s-pro-3342292/)<!-- TECH:END -->
+ - [Instagram’s Twitter competitor Threads is already live on the web](https://www.theverge.com/2023/7/5/23784160/instagram-threads-twitter-competitor-web)
+ - [Best MagSafe stands for Standby in iOS 17](https://appleinsider.com/articles/23/07/05/best-magsafe-stands-for-standby-in-ios-17?utm_medium=rss)
+ - [Edifier MP100 Plus Bluetooth speaker review: designed to be adventurous](https://appleinsider.com/articles/23/07/05/edifier-mp100-plus-bluetooth-speaker-review-designed-to-be-adventurous?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
