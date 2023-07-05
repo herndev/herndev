@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)
- - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/best-amazon-fire-tablet/)
- - [Realistic Graphics Can Open Real Dialogue Around Game Violence](https://www.wired.com/story/realistic-graphics-video-game-violence/)<!-- TECH:END -->
+ - [OnePlus is blurring the lines between mid-range and flagship once again](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-launch-3342333/)
+ - [Rumored iPhone SE 4 delayed another year over OLED production woes](https://appleinsider.com/articles/23/07/05/rumored-iphone-se-4-delayed-another-year-over-oled-production-woes?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-05-2023-3341156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
