@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel reveals ambitious plans to enable the ultimate in path-traced eye candy on integrated graphics](https://www.pcgamer.com/intel-reveals-ambitious-plans-to-enable-the-ultimate-in-path-traced-eye-candy-on-integrated-graphics)
- - [Today&#39;s Wordle hint and answer #746: Wednesday, July 5](https://www.pcgamer.com/wordle-answer-today-hint-746-july-5)
- - [AMD&#39;s new Ryzen 5 7500F could be the best budget AM5 gaming chip yet](https://www.pcgamer.com/amds-new-ryzen-5-7500f-could-be-the-best-budget-am5-gaming-chip-yet)<!-- GAME:END -->
+ - [Red Dead Redemption 2 legal jobs mod finally gives Arthur Morgan the quiet life he deserves](https://www.pcgamer.com/red-dead-redemption-2-legal-jobs-mod-finally-gives-arthur-morgan-the-quiet-life-he-deserves)
+ - [How to get Wicked Implement in Destiny 2](https://www.pcgamer.com/destiny-2-wicked-implement-exotic-quest)
+ - [Intel reveals ambitious plans to enable the ultimate in path-traced eye candy on integrated graphics](https://www.pcgamer.com/intel-reveals-ambitious-plans-to-enable-the-ultimate-in-path-traced-eye-candy-on-integrated-graphics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
