@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #746: Wednesday, July 5](https://www.pcgamer.com/wordle-answer-today-hint-746-july-5)
  - [AMD&#39;s new Ryzen 5 7500F could be the best budget AM5 gaming chip yet](https://www.pcgamer.com/amds-new-ryzen-5-7500f-could-be-the-best-budget-am5-gaming-chip-yet)
- - [Disney Deletes Streaming Movie That Only Released In May](https://kotaku.com/disney-streaming-crater-tax-rort-scam-writeoff-delete-1850604861)
- - [Huge &lpar;Sometimes Tragic&rpar; Collection Of Sega Documents From The 90&#39;s Have Leaked](https://kotaku.com/sega-documents-leak-90s-saturn-sonic-sony-emails-1850604812)<!-- GAME:END -->
+ - [Disney Deletes Streaming Movie That Only Released In May](https://kotaku.com/disney-streaming-crater-tax-rort-scam-writeoff-delete-1850604861)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
