@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
- - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
+ - 💣 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
 ---
 
