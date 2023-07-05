@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/a6qGLRR)
- - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
+ - 💣 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 👉 [Good old days](http://9gag.com/gag/a6qGLRR)<!-- MEMES:END -->
 
 ---
 
