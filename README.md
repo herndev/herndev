@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [Where to find Joyeux Vouchers in Genshin Impact 3.8](https://www.pcgamer.com/genshin-impact-joyeux-voucher-locations)
- - [‘Cut and Style’ Barbie gave me the queerest moment of my childhood](https://www.polygon.com/23780244/retro-barbie-cut-and-style-doll-haircut-queer)<!-- GAME:END -->
+ - [How to catch a seahorse in Dave the Diver](https://www.pcgamer.com/dave-the-diver-seahorse-bug-net)
+ - [Suicide Squad anime movie from Attack on Titan studio looks absolutely twisted](https://www.polygon.com/entertainment/23784350/suicide-squad-anime-wit-studio-attack-on-titan)
+ - [Nvidia already fitting new anti-melty 12V-2x6 power connector to RTX 4070 boards](https://www.pcgamer.com/nvidia-already-fitting-new-anti-melty-12v-2x6-power-connector-to-rtx-4070-boards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
