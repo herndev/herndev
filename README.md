@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s Twitter competitor Threads is already live on the web](https://www.theverge.com/2023/7/5/23784160/instagram-threads-twitter-competitor-web)
- - [Best MagSafe stands for Standby in iOS 17](https://appleinsider.com/articles/23/07/05/best-magsafe-stands-for-standby-in-ios-17?utm_medium=rss)
- - [Edifier MP100 Plus Bluetooth speaker review: designed to be adventurous](https://appleinsider.com/articles/23/07/05/edifier-mp100-plus-bluetooth-speaker-review-designed-to-be-adventurous?utm_medium=rss)<!-- TECH:END -->
+ - [Foxconn reports Q2 revenue down 13.8% YoY to $41.76B and June revenue down 19.7% YoY to $13.6B due to weak consumer demand, but forecasts a brighter Q3 outlook &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230705/p10#a230705p10)
+ - [Instagram launches a basic Threads web interface, offering an early look at what to expect before its July 6 launch; the service appears to have 2,500+ users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230705/p9#a230705p9)
+ - [The Best Sustainable Clothing Brands You&#39;ve Probably Never Heard Of     - CNET](https://www.cnet.com/culture/fashion/the-best-sustainable-clothing-brands-you-probably-never-heard-of/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
