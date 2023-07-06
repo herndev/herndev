@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Joker Looks Wild In The Suicide Squad Anime By Attack On Titan Folks](https://kotaku.com/isekai-suicide-squad-anime-release-date-harley-quinn-1850610067)
- - [A Goldfish Just Took Down One Of Elden Ring’s Toughest Bosses](https://kotaku.com/elden-ring-malenia-boss-goldfish-twitch-stream-1850610071)
- - [Final Fantasy XVI Update Will Make You Less Nauseous While Playing](https://kotaku.com/final-fantasy-16-update-patch-motion-blur-settings-ff16-1850610062)<!-- GAME:END -->
+ - [Blizzard’s Overwatch anime series takes the story back to the beginning](https://www.polygon.com/23785752/overwatch-2-animated-series-genesis-release-date)
+ - [How to hire staff and run the sushi restaurant of your dreams in Dave the Diver](https://www.pcgamer.com/dave-the-diver-best-staff)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
