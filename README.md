@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/agoK05g)
- - ⏩ [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
+ - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
 
 ---
 
