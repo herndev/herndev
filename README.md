@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard’s Overwatch anime series takes the story back to the beginning](https://www.polygon.com/23785752/overwatch-2-animated-series-genesis-release-date)
- - [How to hire staff and run the sushi restaurant of your dreams in Dave the Diver](https://www.pcgamer.com/dave-the-diver-best-staff)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)<!-- GAME:END -->
+ - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)
+ - [The Long-Awaited Pokémon Sleep App Just Got A New ‘Gameplay’ Trailer](https://kotaku.com/trailer-pokemon-sleep-app-release-date-mobile-game-1850610707)
+ - [The best early Prime Day 2023 deals](https://www.polygon.com/deals/23773983/early-prime-day-deals-2023-amazon-tvs-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
