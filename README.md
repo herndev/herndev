@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods &lpar;4th generation&rpar;: Release date, rumors, and what we want to see](https://www.androidauthority.com/apple-airpods-4th-generation-3342166/)
- - [How The Witcher explores its own history through fashion, architecture, and weapons](https://www.theverge.com/23784404/the-witcher-season-3-netflix-design-fashion-architecture-weapons)
- - [Honor 90 comes to Europe with a 200-megapixel camera and midrange price](https://www.theverge.com/2023/7/6/23785751/honor-90-global-launch-price-release-date-specs-features)<!-- TECH:END -->
+ - [Pokémon Sleep looks adorable and sounds kind of intrusive in new video](https://www.theverge.com/2023/7/6/23785767/pokemon-sleep-how-to-play-android-preregister)
+ - [Don’t miss your chance to save $50 off a Z Fold 5, Flip 5, Tab S9, or Watch 6!](https://www.androidauthority.com/galaxy-unpacked-discount-2023-3343054/)
+ - [A profile of ex-FTX Chief Regulatory Officer Daniel Friedberg, who had a complex role at FTX that went far beyond legal advice and has no cooperation agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p24#a230706p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
