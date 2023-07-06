@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s a good &lpar;and safe&rpar; GPU temperature when gaming?](https://www.androidauthority.com/whats-a-good-and-safe-gpu-temperature-when-gaming-3343130/)
- - [TSMC says China&#39;s raw material export restrictions won&#39;t hurt -- for now](https://appleinsider.com/articles/23/07/06/tsmc-says-chinas-raw-material-export-restrictions-wont-hurt----for-now?utm_medium=rss)
- - [Google’s first truly custom chip for Pixel devices won’t arrive until 2025](https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025)<!-- TECH:END -->
+ - [TestFlight adds support for visionOS apps before dev kits launch](https://appleinsider.com/articles/23/07/06/testflight-adds-support-for-visionos-apps-before-dev-kits-launch?utm_medium=rss)
+ - [TikTok launches its subscription-only standalone music streaming service TikTok Music in Indonesia and Brazil, featuring UMG&#39;s, WMG&#39;s, and Sony Music&#39;s catalogs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230706/p29#a230706p29)
+ - [Amazon Will Show You Its Newest Devices in September     - CNET](https://www.cnet.com/tech/services-and-software/amazon-will-show-you-its-newest-devices-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
