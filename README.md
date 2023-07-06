@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 
