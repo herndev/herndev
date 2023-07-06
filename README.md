@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good and Evil 2 creative director Emile Morel has died](https://www.pcgamer.com/beyond-good-and-evil-2-creative-director-emile-morel-has-died)
- - [As Twitter and Reddit wrestle with their own users, the future of the web feels up in the air](https://www.pcgamer.com/as-twitter-and-reddit-battle-with-their-own-users-the-future-of-the-web-feels-up-in-the-air)
- - [Ubisoft is smashing hackers by the thousands with &#39;QB,&#39; and we may never find out exactly how it works](https://www.pcgamer.com/ubisoft-is-smashing-hackers-by-the-thousands-with-qb-and-we-may-never-find-out-exactly-how-it-works)<!-- GAME:END -->
+ - [Real Madrid &amp; Barcelona&#39;s League Is Now Named After EA Sports](https://kotaku.com/real-madrid-barcelona-la-liga-ea-sports-fc-hypermotion-1850608592)
+ - [Rashid soars into Street Fighter 6 on July 24](https://blog.playstation.com/2023/07/05/rashid-soars-into-street-fighter-6-on-july-24/)
+ - [Rashid soars into Street Fighter 6 on July 24](https://blog.playstation.com/2023/07/05/rashid-soars-into-street-fighter-6-on-july-24/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
