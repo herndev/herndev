@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)
- - [Peter Molyneux returns promising not to hype his next game, before hyping the game](https://www.pcgamer.com/peter-molyneux-returns-promising-not-to-hype-his-next-game-before-hyping-the-game)
- - [In defense of Indiana Jones’ monkey chase scene](https://www.polygon.com/23775406/indiana-jones-crystal-skull-monkey-chase-bananas)<!-- GAME:END -->
+ - [The Joker Looks Wild In The Suicide Squad Anime By Attack On Titan Folks](https://kotaku.com/isekai-suicide-squad-anime-release-date-harley-quinn-1850610067)
+ - [A Goldfish Just Took Down One Of Elden Ring’s Toughest Bosses](https://kotaku.com/elden-ring-malenia-boss-goldfish-twitch-stream-1850610071)
+ - [Final Fantasy XVI Update Will Make You Less Nauseous While Playing](https://kotaku.com/final-fantasy-16-update-patch-motion-blur-settings-ff16-1850610062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
