@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo-based Telexistence, which develops AI-powered robotic arms for the retail and logistics industry, raised a $170M Series B from SoftBank and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230706/p21#a230706p21)
- - [The Amazon Echo Dot is just $23 in this early Prime Day deal](https://www.androidauthority.com/amazon-echo-dot-prime-deal-3343016/)
- - [Sources: Google has delayed the release of its first fully customized chip for the Pixel by at least a year, after originally planning to introduce it in 2024 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230706/p20#a230706p20)<!-- TECH:END -->
+ - [Apple AirPods &lpar;4th generation&rpar;: Release date, rumors, and what we want to see](https://www.androidauthority.com/apple-airpods-4th-generation-3342166/)
+ - [How The Witcher explores its own history through fashion, architecture, and weapons](https://www.theverge.com/23784404/the-witcher-season-3-netflix-design-fashion-architecture-weapons)
+ - [Honor 90 comes to Europe with a 200-megapixel camera and midrange price](https://www.theverge.com/2023/7/6/23785751/honor-90-global-launch-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
