@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara’s first Matter sensor for doors and windows is also a programable button](https://www.theverge.com/2023/7/6/23784120/aqara-door-window-sensor-p2-button-price-date)
- - [Nansen: NFT royalties hit a two-year low in June, with one week of payouts dropping to ~$3.8M from a ~$76M April 2022 peak, as royalty-optional platforms rise &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230706/p6#a230706p6)
- - [Canada&#39;s government suspends its ads on Facebook and Instagram in response to Meta&#39;s move to drop news; Canada spent CA$11.4M on the platforms in FY 2021-22 &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/230706/p5#a230706p5)<!-- TECH:END -->
+ - [The US military is running an eight-week exercise of five LLMs trained on classified info to test AI-enabled data for decision-making, sensors, and firepower &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230706/p7#a230706p7)
+ - [The July 2023 security update is here for all Pixel devices](https://www.androidauthority.com/pixel-devicesjuly-2023-update-3342791/)
+ - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
