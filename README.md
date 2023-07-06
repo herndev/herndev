@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)
- - [Xreal Air AR glasses deliver spatial computing today with your Mac or iPhone](https://appleinsider.com/articles/23/07/06/xreal-air-ar-glasses-deliver-spatial-computing-today-with-your-mac-or-iphone?utm_medium=rss)
- - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)<!-- TECH:END -->
+ - [Apple’s Strange Planet animated series starts streaming in August](https://www.theverge.com/23785576/strange-planet-animated-series-apple-tv-plus-date)
+ - [Just call them tweets](https://www.theverge.com/2023/7/6/23784842/threads-instagram-tweets-post-name-thread)
+ - [Aqara&#39;s first Thread HomeKit sensor can monitor doors &amp; windows for home security](https://appleinsider.com/articles/23/07/06/aqaras-first-thread-homekit-sensor-can-monitor-doors-windows-for-home-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
