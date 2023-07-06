@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights interactive, collaborative AR art experience &#39;Deep Field&#39;](https://appleinsider.com/articles/23/07/05/apple-highlights-interactive-collaborative-ar-art-experience-deep-field?utm_medium=rss)
+ - [Watch this massive LED sphere in Las Vegas light up for the first time](https://www.theverge.com/2023/7/5/23784790/sphere-las-vegas-led-screen-lit)
  - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Twitter is being sued by its ex-employees again](https://www.theverge.com/2023/7/5/23784760/twitter-lawsuit-arbitration-laid-off-employees-jams-musk)<!-- TECH:END -->
+ - [Hands-on with Threads: fairly basic text-based messaging app, log in via Instagram handle, no hashtags, can&#39;t search for anything other than user handles, more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230705/p28#a230705p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
