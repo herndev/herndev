@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)
- - [Don&#39;t Join Threads—Make Meta&#39;s Instagram-Linked Twitter Alternative Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
- - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)<!-- TECH:END -->
+ - [Twitter warns it could sue Meta over ‘copycat’ Threads app](https://www.theverge.com/2023/7/6/23786127/twitter-lawsuit-threat-meta-threads-app)
+ - [Analyst expects iPhone 15 Pro Max price jump, Android phones could be next](https://www.androidauthority.com/iphone-15-pro-max-price-bump-3343117/)
+ - [The European Commission opens a full-scale investigation into Amazon&#39;s $1.7B iRobot acquisition, setting a November 15, 2023 deadline to clear or block the deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230706/p27#a230706p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
