@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: global crypto startup funding was $2.34B across 382 deals in Q2 2023, down for the fifth straight quarter; valuations fell nearly 70% YoY in H1 2023 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230706/p3#a230706p3)
- - [Nothing Phone 2 wallpapers are now up for grabs!](https://www.androidauthority.com/nothing-phone-2-wallpapers-3342719/)
- - [Mark Zuckerberg says Threads passed 5M sign ups in the first four hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230706/p2#a230706p2)<!-- TECH:END -->
+ - [Aqara’s first Matter sensor for doors and windows is also a programable button](https://www.theverge.com/2023/7/6/23784120/aqara-door-window-sensor-p2-button-price-date)
+ - [Nansen: NFT royalties hit a two-year low in June, with one week of payouts dropping to ~$3.8M from a ~$76M April 2022 peak, as royalty-optional platforms rise &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230706/p6#a230706p6)
+ - [Canada&#39;s government suspends its ads on Facebook and Instagram in response to Meta&#39;s move to drop news; Canada spent CA$11.4M on the platforms in FY 2021-22 &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/230706/p5#a230706p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
