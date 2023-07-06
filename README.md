@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is booting legacy subscribers still paying via Apple’s App Store](https://www.theverge.com/2023/7/6/23785523/spotify-premium-subscribers-apple-app-store-payments-support)
- - [US fintech group FIS agrees to sell a majority stake in its merchant payments arm Worldpay to private equity firm GTCR for up to $18.5B, including $11.7B cash &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230706/p16#a230706p16)
- - [Get ready to pay more for the iPhone 15 Pro Max than ever before](https://appleinsider.com/articles/23/07/06/get-ready-to-pay-more-for-the-iphone-15-pro-max-than-ever-before?utm_medium=rss)<!-- TECH:END -->
+ - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)
+ - [Xreal Air AR glasses deliver spatial computing today with your Mac or iPhone](https://appleinsider.com/articles/23/07/06/xreal-air-ar-glasses-deliver-spatial-computing-today-with-your-mac-or-iphone?utm_medium=rss)
+ - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
