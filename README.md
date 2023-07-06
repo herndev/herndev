@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
+ - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [Sour power](http://9gag.com/gag/avQ9neM)<!-- MEMES:END -->
 
 ---
 
