@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
- - ⏩ [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
- - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
+ - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
 
 ---
 
