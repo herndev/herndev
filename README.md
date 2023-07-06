@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Frox in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731038/frox-locations-boss-fight-strategy-rewards)
- - [Now’s A Great Time To Play This Classic Indiana Jones Adventure Game](https://kotaku.com/indiana-jones-best-game-dial-of-destiny-fate-atlantis-1850611730)
- - [Since There&#39;s Time, Catch Up On What&#39;s Happened In Overwatch 2 Before The Story Missions](https://kotaku.com/overwatch-2-story-missions-comics-animated-short-story-1850611926)<!-- GAME:END -->
+ - [Beyond Good and Evil 2 creative director Emile Morel has died](https://www.pcgamer.com/beyond-good-and-evil-2-creative-director-emile-morel-has-died)
+ - [This Polish pixel horror game is breaking the laws of camera physics in an awesome way](https://www.pcgamer.com/this-polish-pixel-horror-game-is-breaking-the-laws-of-camera-physics-in-an-awesome-way)
+ - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
