@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Threads, Instagram&#39;s Twitter-like social media network, hits 30 million users on its first day even though it kinda sucks right now](https://www.pcgamer.com/threads-instagrams-twitter-like-social-media-network-hits-30-million-users-on-its-first-day-even-though-it-kinda-sucks-right-now)
- - [Call of Duty: Warzone players are racking up wins by standing still in the gulag](https://www.pcgamer.com/call-of-duty-warzone-players-are-racking-up-wins-by-standing-still-in-the-gulag)
- - [Diablo IV&#39;s First Season Brings New Eldritch Quests, Gear, And More](https://kotaku.com/diablo-4-season-malignant-gear-power-boss-questline-rpg-1850611693)<!-- GAME:END -->
+ - [How to beat Frox in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731038/frox-locations-boss-fight-strategy-rewards)
+ - [Now’s A Great Time To Play This Classic Indiana Jones Adventure Game](https://kotaku.com/indiana-jones-best-game-dial-of-destiny-fate-atlantis-1850611730)
+ - [Since There&#39;s Time, Catch Up On What&#39;s Happened In Overwatch 2 Before The Story Missions](https://kotaku.com/overwatch-2-story-missions-comics-animated-short-story-1850611926)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
