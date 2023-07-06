@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asrock&#39;s low-profile Intel Arc A380 GPU is great and all, but it should be a single-slot card](https://www.pcgamer.com/asrocks-low-profile-intel-arc-a380-gpu-is-great-and-all-but-it-should-be-a-single-slot-card)
- - [Real Madrid &amp; Barcelona&#39;s League Is Now Named After EA Sports](https://kotaku.com/real-madrid-barcelona-la-liga-ea-sports-fc-hypermotion-1850608592)
- - [Rashid soars into Street Fighter 6 on July 24](https://blog.playstation.com/2023/07/05/rashid-soars-into-street-fighter-6-on-july-24/)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #747: Thursday, July 6](https://www.pcgamer.com/wordle-answer-today-hint-747-july-6)
+ - [Naraka: Bladepoint’s new take on battle royale is coming to PS5 on July 13](https://blog.playstation.com/2023/07/05/naraka-bladepoints-new-take-on-battle-royale-is-coming-to-ps5-on-july-13/)
+ - [Naraka: Bladepoint’s new take on battle royale is coming to PS5 on July 13](https://blog.playstation.com/2023/07/05/naraka-bladepoints-new-take-on-battle-royale-is-coming-to-ps5-on-july-13/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
