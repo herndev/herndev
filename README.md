@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
- - ⏩ [On 6th day of glorious White history month, we remember this white guy, Sir Alexander Fleming , he discovered penicillin and saved over 200 million lives.](http://9gag.com/gag/ap9VQL9)
- - 👉 [Real come up is going from floor to bed](http://9gag.com/gag/aQEy9Yd)<!-- MEMES:END -->
+ - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
 
 ---
 
