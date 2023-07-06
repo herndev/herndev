@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dance With &lpar;my&rpar; Father music video](http://9gag.com/gag/agoKVxx)
- - ⏩ [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)<!-- MEMES:END -->
+ - 💣 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
 
 ---
 
