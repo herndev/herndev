@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [How Threads Could Kill Twitter](https://www.wired.com/story/threads-app-twitter-rival-meta/)
- - [A look at London-based VC firm Balderton&#39;s new wellbeing program for founders, seeking to tackle the stress and burnout inherent to building a tech startup &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p25#a230706p25)<!-- TECH:END -->
+ - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)
+ - [Don&#39;t Join Threads—Make Meta&#39;s Instagram-Linked Twitter Alternative Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
+ - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
