@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In defense of Indiana Jones’ monkey chase scene](https://www.polygon.com/23775406/indiana-jones-crystal-skull-monkey-chase-bananas)
- - [First details on Helldivers 2 co-op and combat gameplay](https://blog.playstation.com/2023/07/06/first-details-on-helldivers-2-co-op-and-combat-gameplay/)
- - [First details on Helldivers 2 co-op and combat gameplay](https://blog.playstation.com/2023/07/06/first-details-on-helldivers-2-co-op-and-combat-gameplay/)<!-- GAME:END -->
+ - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)
+ - [Peter Molyneux returns promising not to hype his next game, before hyping the game](https://www.pcgamer.com/peter-molyneux-returns-promising-not-to-hype-his-next-game-before-hyping-the-game)
+ - [In defense of Indiana Jones’ monkey chase scene](https://www.polygon.com/23775406/indiana-jones-crystal-skull-monkey-chase-bananas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
