@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 💣 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
  - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)<!-- MEMES:END -->
+ - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
 
 ---
 
