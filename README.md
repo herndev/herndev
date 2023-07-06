@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads passed 5M sign ups in the first four hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230706/p2#a230706p2)
- - [A look at Dustin Moskovitz&#39;s Open Philanthropy, which has spent ~$500M on student scholarships and more at Stanford and other universities to fight rogue AI &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230706/p1#a230706p1)
- - [Lifetime access to Windows 11 Pro is now 84% off, dropping the price to $29.97](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)<!-- TECH:END -->
+ - [PitchBook: global crypto startup funding was $2.34B across 382 deals in Q2 2023, down for the fifth straight quarter; valuations fell nearly 70% YoY in H1 2023 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230706/p3#a230706p3)
+ - [Nothing Phone 2 wallpapers are now up for grabs!](https://www.androidauthority.com/nothing-phone-2-wallpapers-3342719/)
+ - [Mark Zuckerberg says Threads passed 5M sign ups in the first four hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230706/p2#a230706p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
