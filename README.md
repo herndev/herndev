@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
- - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
+ - 💣 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - ⏩ [Good old days](http://9gag.com/gag/a6qGLRR)
  - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
 
 ---
