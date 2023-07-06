@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Strange Planet animated series starts streaming in August](https://www.theverge.com/23785576/strange-planet-animated-series-apple-tv-plus-date)
- - [Just call them tweets](https://www.theverge.com/2023/7/6/23784842/threads-instagram-tweets-post-name-thread)
- - [Aqara&#39;s first Thread HomeKit sensor can monitor doors &amp; windows for home security](https://appleinsider.com/articles/23/07/06/aqaras-first-thread-homekit-sensor-can-monitor-doors-windows-for-home-security?utm_medium=rss)<!-- TECH:END -->
+ - [Tokyo-based Telexistence, which develops AI-powered robotic arms for the retail and logistics industry, raised a $170M Series B from SoftBank and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230706/p21#a230706p21)
+ - [The Amazon Echo Dot is just $23 in this early Prime Day deal](https://www.androidauthority.com/amazon-echo-dot-prime-deal-3343016/)
+ - [Sources: Google has delayed the release of its first fully customized chip for the Pixel by at least a year, after originally planning to introduce it in 2024 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230706/p20#a230706p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
