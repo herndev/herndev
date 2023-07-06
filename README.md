@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/agoK05g)
+ - ⏩ [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
 
 ---
 
