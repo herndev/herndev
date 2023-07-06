@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TestFlight adds support for visionOS apps before dev kits launch](https://appleinsider.com/articles/23/07/06/testflight-adds-support-for-visionos-apps-before-dev-kits-launch?utm_medium=rss)
- - [TikTok launches its subscription-only standalone music streaming service TikTok Music in Indonesia and Brazil, featuring UMG&#39;s, WMG&#39;s, and Sony Music&#39;s catalogs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230706/p29#a230706p29)
- - [Amazon Will Show You Its Newest Devices in September     - CNET](https://www.cnet.com/tech/services-and-software/amazon-will-show-you-its-newest-devices-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cash App vs Venmo: Which is the best money app for your needs?](https://www.androidauthority.com/cash-app-vs-venmo-3341987/)
+ - [Reddit’s AI porn ban has a carveout for Rule 34](https://www.theverge.com/2023/7/6/21525998/reddit-ai-porn-fictional-characters-carveout-sexual-images)
+ - [Spotify Drops All Payments Via Apple App Store. Here Are Other Ways to Pay     - CNET](https://www.cnet.com/tech/services-and-software/spotify-drops-all-payments-via-apple-app-store-here-are-other-ways-to-pay/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
