@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
- - ⏩ [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
- - 👉 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)<!-- MEMES:END -->
+ - 💣 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - ⏩ [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
+ - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
 
 ---
 
