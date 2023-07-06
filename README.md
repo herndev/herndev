@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
- - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
+ - 💣 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
+ - ⏩ [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
+ - 👉 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)<!-- MEMES:END -->
 
 ---
 
