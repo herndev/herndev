@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/a6qGLRR)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
+ - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
 
 ---
 
