@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asrock&#39;s low-profile Intel Arc A380 GPU is great and all, but it should be a single-slot card](https://www.pcgamer.com/asrocks-low-profile-intel-arc-a380-gpu-is-great-and-all-but-it-should-be-a-single-slot-card)
  - [Real Madrid &amp; Barcelona&#39;s League Is Now Named After EA Sports](https://kotaku.com/real-madrid-barcelona-la-liga-ea-sports-fc-hypermotion-1850608592)
- - [Rashid soars into Street Fighter 6 on July 24](https://blog.playstation.com/2023/07/05/rashid-soars-into-street-fighter-6-on-july-24/)
  - [Rashid soars into Street Fighter 6 on July 24](https://blog.playstation.com/2023/07/05/rashid-soars-into-street-fighter-6-on-july-24/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
