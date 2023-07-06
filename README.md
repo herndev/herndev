@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tom Brady&#39;s crypto ambitions, including a bet on FTX, collided with reality, an example of the humiliating reckoning facing celebrities who embraced crypto &lpar;New York Times&rpar;](http://www.techmeme.com/230706/p14#a230706p14)
- - [Instagram head says a Threads feed with just people you follow is ‘On the list’ of potential features](https://www.theverge.com/2023/7/6/23785493/threads-home-feed-following-algorithmic-recommendations-adam-mosseri)
- - [Framing AI debates as a schism between people worried about AI going rogue and those illuminating actual harms is ahistorical and obscures important research &lpar;Emily M. Bender&rpar;](http://www.techmeme.com/230706/p13#a230706p13)<!-- TECH:END -->
+ - [Spotify is booting legacy subscribers still paying via Apple’s App Store](https://www.theverge.com/2023/7/6/23785523/spotify-premium-subscribers-apple-app-store-payments-support)
+ - [US fintech group FIS agrees to sell a majority stake in its merchant payments arm Worldpay to private equity firm GTCR for up to $18.5B, including $11.7B cash &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230706/p16#a230706p16)
+ - [Get ready to pay more for the iPhone 15 Pro Max than ever before](https://appleinsider.com/articles/23/07/06/get-ready-to-pay-more-for-the-iphone-15-pro-max-than-ever-before?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
