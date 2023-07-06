@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally sets a date for the next ‘Galaxy Unpacked’ launch event](https://www.androidauthority.com/samsung-unpacked-2023-date-announcement-3342673/)
- - [Mark Zuckerberg says Threads passed 2M sign ups in the first two hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230705/p33#a230705p33)
- - [Meta unspools Threads](https://www.theverge.com/2023/7/5/23785194/meta-threads-twitter-social-media-moderation-adam-mosseri)<!-- TECH:END -->
+ - [Sources: CFTC investigators concluded that bankrupt crypto lender Celsius Network misled investors and that its former CEO Alex Mashinsky also broke US rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/230705/p35#a230705p35)
+ - [Twitter subsidiary Twitter Payments secured its first US money transmitter licenses over the last week from Michigan, Missouri, and New Hampshire &lpar;Fortune&rpar;](http://www.techmeme.com/230705/p34#a230705p34)
+ - [Samsung finally sets a date for the next ‘Galaxy Unpacked’ launch event](https://www.androidauthority.com/samsung-unpacked-2023-date-announcement-3342673/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
