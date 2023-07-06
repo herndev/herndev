@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
- - 👉 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
 
 ---
 
