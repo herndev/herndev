@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
+ - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
+ - ⏩ [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
+ - 👉 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)<!-- MEMES:END -->
 
 ---
 
