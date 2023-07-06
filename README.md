@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good and Evil 2 creative director Emile Morel has died](https://www.pcgamer.com/beyond-good-and-evil-2-creative-director-emile-morel-has-died)
- - [This Polish pixel horror game is breaking the laws of camera physics in an awesome way](https://www.pcgamer.com/this-polish-pixel-horror-game-is-breaking-the-laws-of-camera-physics-in-an-awesome-way)
- - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)<!-- GAME:END -->
+ - [If Helldivers 2 isn&#39;t on your 2023 radar, this excellent gameplay trailer should correct that](https://www.pcgamer.com/if-helldivers-2-isnt-on-your-2023-radar-this-excellent-gameplay-trailer-should-correct-that)
+ - [2022&#39;s best survival city builder will let you &#39;customize your faith&#39; with a new religion system](https://www.pcgamer.com/2022s-best-survival-city-builder-will-let-you-customize-your-faith-with-a-new-religion-system)
+ - [Half-Life: Alyx&#39;s NoVR mod is looking so good, I might finally play the game](https://www.pcgamer.com/half-life-alyxs-novr-mod-is-looking-so-good-i-might-finally-play-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
