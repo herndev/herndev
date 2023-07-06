@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Chinese streaming service Mango TV, run by state-owned Hunan Broadcasting System; QuestMobile: Mango TV had 280M MAUs in April 2023, vs. ~100M in 2019 &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/230706/p9#a230706p9)
- - [Nothing Phone 2 price and spec sheet leak is here to kill the mystery](https://www.androidauthority.com/nothing-phone-2-price-specs-leak-3342830/)
- - [Mark Zuckerberg says Threads passed 10M signups within seven hours of launch, up from 5M within four hours and 2M in two hours &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230706/p8#a230706p8)<!-- TECH:END -->
+ - [Give Every AI a Soul—or Else](https://www.wired.com/story/give-every-ai-a-soul-or-else/)
+ - [TSMC does not expect China&#39;s gallium and germanium export curbs to have any &quot;impact on TSMC&#39;s production&quot;; a Chinese official said the rules are &quot;just a start&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230706/p12#a230706p12)
+ - [The 15 best Netflix games to play with your subscription](https://www.androidauthority.com/best-netflix-games-3342359/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
