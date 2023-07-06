@@ -114,11 +114,11 @@ Linux                    2 hrs 44 mins       ████████░░░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3256](https://github.com/marcizhu/marcizhu/issues/3256) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗️ Opened issue [#3247](https://github.com/marcizhu/marcizhu/issues/3247) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. 🎉 Merged PR [#7](https://github.com/herndev/herndev/pull/7) in [herndev/herndev](https://github.com/herndev/herndev)
-4. ❗️ Opened issue [#3219](https://github.com/marcizhu/marcizhu/issues/3219) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-5. ❗️ Opened issue [#3011](https://github.com/marcizhu/marcizhu/issues/3011) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+1. 🎉 Merged PR [#24](https://github.com/herndev/ReactJS-Portfolio/pull/24) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+2. ❌ Closed PR [#15](https://github.com/herndev/ReactJS-Portfolio/pull/15) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+3. ❌ Closed PR [#16](https://github.com/herndev/ReactJS-Portfolio/pull/16) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+4. ❌ Closed PR [#23](https://github.com/herndev/ReactJS-Portfolio/pull/23) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+5. ❌ Closed PR [#17](https://github.com/herndev/ReactJS-Portfolio/pull/17) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
 <!--END_SECTION:activity-->
 
 ---
