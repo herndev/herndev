@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Limestone Cave in Dave the Diver](https://www.pcgamer.com/dave-the-diver-limestone-cave-location)
- - [Starfield sleuths are combing through game footage for spoons](https://www.pcgamer.com/starfield-sleuths-are-combing-through-game-footage-for-spoons)
- - [Here&#39;s how to watch today&#39;s Diablo 4 season 1 announcement livestream](https://www.pcgamer.com/how-to-watch-diablo-4-season-1-livestream)<!-- GAME:END -->
+ - [In defense of Indiana Jones’ monkey chase scene](https://www.polygon.com/23775406/indiana-jones-crystal-skull-monkey-chase-bananas)
+ - [First details on Helldivers 2 co-op and combat gameplay](https://blog.playstation.com/2023/07/06/first-details-on-helldivers-2-co-op-and-combat-gameplay/)
+ - [First details on Helldivers 2 co-op and combat gameplay](https://blog.playstation.com/2023/07/06/first-details-on-helldivers-2-co-op-and-combat-gameplay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
