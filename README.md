@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
- - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
- - 👉 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)<!-- MEMES:END -->
+ - 💣 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
+ - ⏩ [On 6th day of glorious White history month, we remember this white guy, Sir Alexander Fleming , he discovered penicillin and saved over 200 million lives.](http://9gag.com/gag/ap9VQL9)
+ - 👉 [Real come up is going from floor to bed](http://9gag.com/gag/aQEy9Yd)<!-- MEMES:END -->
 
 ---
 
