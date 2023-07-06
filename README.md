@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
  - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
+ - 👉 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)<!-- MEMES:END -->
 
 ---
 
