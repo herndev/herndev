@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)<!-- MEMES:END -->
+ - 💣 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
+ - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
+ - 👉 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)<!-- MEMES:END -->
 
 ---
 
