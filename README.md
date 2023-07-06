@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #747: Thursday, July 6](https://www.pcgamer.com/wordle-answer-today-hint-747-july-6)
- - [Naraka: Bladepoint’s new take on battle royale is coming to PS5 on July 13](https://blog.playstation.com/2023/07/05/naraka-bladepoints-new-take-on-battle-royale-is-coming-to-ps5-on-july-13/)
- - [Naraka: Bladepoint’s new take on battle royale is coming to PS5 on July 13](https://blog.playstation.com/2023/07/05/naraka-bladepoints-new-take-on-battle-royale-is-coming-to-ps5-on-july-13/)<!-- GAME:END -->
+ - [Where to find the Limestone Cave in Dave the Diver](https://www.pcgamer.com/dave-the-diver-limestone-cave-location)
+ - [Starfield sleuths are combing through game footage for spoons](https://www.pcgamer.com/starfield-sleuths-are-combing-through-game-footage-for-spoons)
+ - [Here&#39;s how to watch today&#39;s Diablo 4 season 1 announcement livestream](https://www.pcgamer.com/how-to-watch-diablo-4-season-1-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
