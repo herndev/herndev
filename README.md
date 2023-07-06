@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify no longer lets subscribers still paying via the App Store use it as a payment method; new subscribers were barred from using Apple&#39;s service in May 2016 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230705/p32#a230705p32)
- - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
- - [Samsung announces its next Galaxy Unpacked event for July 26 at 7am ET in Seoul, where the Galaxy Z Fold 5, Z Flip 5, Watch 6, and new tablets are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230705/p31#a230705p31)<!-- TECH:END -->
+ - [Samsung finally sets a date for the next ‘Galaxy Unpacked’ launch event](https://www.androidauthority.com/samsung-unpacked-2023-date-announcement-3342673/)
+ - [Mark Zuckerberg says Threads passed 2M sign ups in the first two hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230705/p33#a230705p33)
+ - [Meta unspools Threads](https://www.theverge.com/2023/7/5/23785194/meta-threads-twitter-social-media-moderation-adam-mosseri)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
