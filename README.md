@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Top 10 Most-Played Games On Steam Deck: June 2023 Edition](https://kotaku.com/steam-deck-june-2023-elden-ring-street-fighter-6-1850610734)
- - [Cyberpunk 2077 Players Protest Reddit By Posting Nudes](https://kotaku.com/reddit-app-news-cyberpunk-2077-protest-nudity-rpg-nsfw-1850611359)
- - [Apple’s animated series, Strange Planet, has a big voice acting challenge](https://www.polygon.com/23785949/apple-tv-series-strange-planet-cast-release-date)<!-- GAME:END -->
+ - [Threads, Instagram&#39;s Twitter-like social media network, hits 30 million users on its first day even though it kinda sucks right now](https://www.pcgamer.com/threads-instagrams-twitter-like-social-media-network-hits-30-million-users-on-its-first-day-even-though-it-kinda-sucks-right-now)
+ - [Call of Duty: Warzone players are racking up wins by standing still in the gulag](https://www.pcgamer.com/call-of-duty-warzone-players-are-racking-up-wins-by-standing-still-in-the-gulag)
+ - [Diablo IV&#39;s First Season Brings New Eldritch Quests, Gear, And More](https://kotaku.com/diablo-4-season-malignant-gear-power-boss-questline-rpg-1850611693)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
