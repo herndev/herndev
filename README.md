@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)
- - [The Long-Awaited Pokémon Sleep App Just Got A New ‘Gameplay’ Trailer](https://kotaku.com/trailer-pokemon-sleep-app-release-date-mobile-game-1850610707)
- - [The best early Prime Day 2023 deals](https://www.polygon.com/deals/23773983/early-prime-day-deals-2023-amazon-tvs-gaming)<!-- GAME:END -->
+ - [Mortal Kombat 1’s new ninja-packed trailer confirms Smoke, Rain, Frost, and more](https://www.polygon.com/23786007/mortal-kombat-1-trailer-new-characters-smoke-rain-cyrax-sektor)
+ - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)
+ - [New Cyberpunk Anime Is A Cross Between Blade Runner And Kamen Rider](https://kotaku.com/metallic-rouge-trailer-anime-expo-cyberpunk-crunchyroll-1850610793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
