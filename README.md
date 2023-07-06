@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 💣 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
+ - ⏩ [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - 👉 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)<!-- MEMES:END -->
 
 ---
 
