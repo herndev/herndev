@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch this massive LED sphere in Las Vegas light up for the first time](https://www.theverge.com/2023/7/5/23784790/sphere-las-vegas-led-screen-lit)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Hands-on with Threads: fairly basic text-based messaging app, log in via Instagram handle, no hashtags, can&#39;t search for anything other than user handles, more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230705/p28#a230705p28)<!-- TECH:END -->
+ - [Spotify no longer lets subscribers still paying via the App Store use it as a payment method; new subscribers were barred from using Apple&#39;s service in May 2016 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230705/p32#a230705p32)
+ - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
+ - [Samsung announces its next Galaxy Unpacked event for July 26 at 7am ET in Seoul, where the Galaxy Z Fold 5, Z Flip 5, Watch 6, and new tablets are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230705/p31#a230705p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
