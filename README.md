@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Sleep looks adorable and sounds kind of intrusive in new video](https://www.theverge.com/2023/7/6/23785767/pokemon-sleep-how-to-play-android-preregister)
- - [Don’t miss your chance to save $50 off a Z Fold 5, Flip 5, Tab S9, or Watch 6!](https://www.androidauthority.com/galaxy-unpacked-discount-2023-3343054/)
- - [A profile of ex-FTX Chief Regulatory Officer Daniel Friedberg, who had a complex role at FTX that went far beyond legal advice and has no cooperation agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p24#a230706p24)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [How Threads Could Kill Twitter](https://www.wired.com/story/threads-app-twitter-rival-meta/)
+ - [A look at London-based VC firm Balderton&#39;s new wellbeing program for founders, seeking to tackle the stress and burnout inherent to building a tech startup &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p25#a230706p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
