@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter warns it could sue Meta over ‘copycat’ Threads app](https://www.theverge.com/2023/7/6/23786127/twitter-lawsuit-threat-meta-threads-app)
- - [Analyst expects iPhone 15 Pro Max price jump, Android phones could be next](https://www.androidauthority.com/iphone-15-pro-max-price-bump-3343117/)
- - [The European Commission opens a full-scale investigation into Amazon&#39;s $1.7B iRobot acquisition, setting a November 15, 2023 deadline to clear or block the deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230706/p27#a230706p27)<!-- TECH:END -->
+ - [What’s a good &lpar;and safe&rpar; GPU temperature when gaming?](https://www.androidauthority.com/whats-a-good-and-safe-gpu-temperature-when-gaming-3343130/)
+ - [TSMC says China&#39;s raw material export restrictions won&#39;t hurt -- for now](https://appleinsider.com/articles/23/07/06/tsmc-says-chinas-raw-material-export-restrictions-wont-hurt----for-now?utm_medium=rss)
+ - [Google’s first truly custom chip for Pixel devices won’t arrive until 2025](https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
