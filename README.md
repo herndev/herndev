@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1’s new ninja-packed trailer confirms Smoke, Rain, Frost, and more](https://www.polygon.com/23786007/mortal-kombat-1-trailer-new-characters-smoke-rain-cyrax-sektor)
- - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)
- - [New Cyberpunk Anime Is A Cross Between Blade Runner And Kamen Rider](https://kotaku.com/metallic-rouge-trailer-anime-expo-cyberpunk-crunchyroll-1850610793)<!-- GAME:END -->
+ - [The Top 10 Most-Played Games On Steam Deck: June 2023 Edition](https://kotaku.com/steam-deck-june-2023-elden-ring-street-fighter-6-1850610734)
+ - [Cyberpunk 2077 Players Protest Reddit By Posting Nudes](https://kotaku.com/reddit-app-news-cyberpunk-2077-protest-nudity-rpg-nsfw-1850611359)
+ - [Apple’s animated series, Strange Planet, has a big voice acting challenge](https://www.polygon.com/23785949/apple-tv-series-strange-planet-cast-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
