@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #748: Friday, July 7](https://www.pcgamer.com/wordle-answer-today-hint-748-july-7)
  - [Sega Bins Blockchain Plans, Calls F2P Games &#39;Boring&#39;](https://kotaku.com/sega-bins-blockchain-plans-calls-f2p-games-boring-1850613245)
- - [Diablo 4 patch adds another way to score Unique loot](https://www.pcgamer.com/diablo-4-patch-adds-another-way-to-score-unique-loot)
- - [It Is 2023, Please Stop Blowing Into Nintendo Consoles](https://kotaku.com/nintendo-switch-warning-blow-saliva-repair-fault-tweet-1850613067)<!-- GAME:END -->
+ - [Diablo 4 patch adds another way to score Unique loot](https://www.pcgamer.com/diablo-4-patch-adds-another-way-to-score-unique-loot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
