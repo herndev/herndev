@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
- - ⏩ [What happened?](http://9gag.com/gag/aA0vP70)
- - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
+ - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - ⏩ [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
 
 ---
 
