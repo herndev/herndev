@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
+ - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
  - ⏩ [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [Wow](http://9gag.com/gag/a7qn38r)<!-- MEMES:END -->
+ - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
 
 ---
 
