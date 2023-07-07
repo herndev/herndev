@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact ‘Capturing Light and Shadow’ world quest walkthrough](https://www.polygon.com/genshin-impact-guides/23787407/capturing-light-shadow-world-quest-walkthrough-secret-summer-paradise)
- - [The Horror Game Of The Year Is A Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
- - [Insidious: The Red Door isn’t the series’ scariest movie, but it’s the most complete](https://www.polygon.com/23787055/insidious-the-red-door-scary-horror-movie-franchise-explained)<!-- GAME:END -->
+ - [Bleach Anime Is Getting A New Game And It Looks Rad](https://kotaku.com/bleach-soul-resonance-anime-trailer-ichigo-kurosaki-1850616857)
+ - [Nicolas Cage’s Dead By Daylight Voice Lines Have Zero Chill](https://kotaku.com/dead-by-daylight-nicolas-nic-cage-release-perks-1850616702)
+ - [Diablo IV: What You Need To Get Ready Before The First Season](https://kotaku.com/diablo-4-iv-season-of-the-malignant-one-1-battle-pass-1850616762)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
