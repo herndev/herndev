@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Twitter Alternatives Escape the Enshittification Trap?](https://www.wired.com/story/plaintext-twitter-alternatives-enshittification-trap/)
- - [White Gladis and Her Killer Whales Are Getting Revenge—30 Years After &#39;Free Willy&#39;](https://www.wired.com/story/orca-uprising-white-gladis-free-willy-blackfish-social-media/)
- - [4 Best VPN Services &lpar;2023&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
+ - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Deals: $150 off M2 Pro Mac mini, $399 iPad 10th Generation, 39% off Apple Watch Series 8, more](https://appleinsider.com/articles/23/07/07/deals-150-off-m2-pro-mac-mini-399-ipad-10th-generation-39-off-apple-watch-series-8-more?utm_medium=rss)
+ - [Go ahead, check a bag](https://www.theverge.com/2023/7/7/23786450/go-ahead-check-a-bag)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
