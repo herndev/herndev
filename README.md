@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)
- - [data.ai: Bluesky hits a million downloads globally across iOS and Android, roughly four months after launch; Bluesky has been installed ~300k since June 30 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230707/p12#a230707p12)
- - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [A researcher says a Bangladesh government site is leaking data of millions of citizens, including names, phone numbers, email addresses, and national ID numbers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230707/p13#a230707p13)
+ - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
