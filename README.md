@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
- - [Deals: $150 off M2 Pro Mac mini, $399 iPad 10th Generation, 39% off Apple Watch Series 8, more](https://appleinsider.com/articles/23/07/07/deals-150-off-m2-pro-mac-mini-399-ipad-10th-generation-39-off-apple-watch-series-8-more?utm_medium=rss)
- - [Go ahead, check a bag](https://www.theverge.com/2023/7/7/23786450/go-ahead-check-a-bag)<!-- TECH:END -->
+ - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)
+ - [data.ai: Bluesky hits a million downloads globally across iOS and Android, roughly four months after launch; Bluesky has been installed ~300k since June 30 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230707/p12#a230707p12)
+ - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
