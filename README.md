@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 continues its tradition of absolutely unhinged plush monsters](https://www.polygon.com/23787360/destiny-2-screeb-plush-merch)
- - [Meet The Fans Still Playing The Worst Xbox Exclusive Of The Year](https://kotaku.com/xbox-redfall-game-pass-exclusive-shooter-bethesda-1850616260)
- - [The official NBA game is once again stiffing PC players](https://www.pcgamer.com/the-official-nba-game-is-once-again-stiffing-pc-players)<!-- GAME:END -->
+ - [Genshin Impact ‘Capturing Light and Shadow’ world quest walkthrough](https://www.polygon.com/genshin-impact-guides/23787407/capturing-light-shadow-world-quest-walkthrough-secret-summer-paradise)
+ - [The Horror Game Of The Year Is A Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
+ - [Insidious: The Red Door isn’t the series’ scariest movie, but it’s the most complete](https://www.polygon.com/23787055/insidious-the-red-door-scary-horror-movie-franchise-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
