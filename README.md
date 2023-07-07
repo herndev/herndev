@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Threads&#39; Privacy Policy Compares to Twitter&#39;s &lpar;and Its Rivals&#39;&rpar;](https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/)
- - [Twitter Reportedly Threatens to Sue Meta Over Threads App     - CNET](https://www.cnet.com/tech/twitter-reportedly-threatens-to-sue-meta-over-threads-app/#ftag=CAD590a51e)
- - [Sources: the FBI searched Kraken co-founder Jesse Powell&#39;s home in March 2023, as part of US prosecutors&#39; probe into claims he hacked a nonprofit he founded &lpar;New York Times&rpar;](http://www.techmeme.com/230706/p31#a230706p31)<!-- TECH:END -->
+ - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)
+ - [Volkswagen plans to start its first US tests of autonomous driving in Austin, beginning with a small fleet of ID. Buzz EVs equipped with VW and Mobileye tech &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/230706/p32#a230706p32)
+ - [How Threads&#39; Privacy Policy Compares to Twitter&#39;s &lpar;and Its Rivals&#39;&rpar;](https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
