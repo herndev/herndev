@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
- - ⏩ [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
+ - 💣 [Elegant moves](http://9gag.com/gag/aQEyMVe)
+ - ⏩ [Wrong movie](http://9gag.com/gag/aA0v3xp)
+ - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
 
 ---
 
