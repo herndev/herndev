@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
- - ⏩ [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 👉 [No no, not this way .........](http://9gag.com/gag/ay2vxDV)<!-- MEMES:END -->
+ - 💣 [German engineering strikes again](http://9gag.com/gag/aWGRmGq)
+ - ⏩ [No no, not this way .........](http://9gag.com/gag/ay2vxDV)
+ - 👉 [No](http://9gag.com/gag/aeQReQp)<!-- MEMES:END -->
 
 ---
 
