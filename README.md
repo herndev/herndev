@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nic Cage&#39;s Dead by Daylight voice lines will haunt me for the rest of my life](https://www.pcgamer.com/nic-cages-dead-by-daylight-voice-lines-will-haunt-me-for-the-rest-of-my-life)
- - [The most popular battle royale you&#39;re not playing goes F2P next week](https://www.pcgamer.com/the-most-popular-battle-royale-youre-not-playing-goes-f2p-next-week)
- - [The best early Prime Day 2023 deals](https://www.polygon.com/deals/23773983/early-prime-day-deals-2023-amazon-tvs-gaming)<!-- GAME:END -->
+ - [Clark Kent is always nice. My Adventures With Superman makes him complex](https://www.polygon.com/23785837/my-adventures-with-superman-animated-tv-show-nice-guy)
+ - [PUBG Players Say They Fell Madly In Love Only To End Up In Jail](https://kotaku.com/pubg-mobile-playerunknowns-battlegrounds-india-pakistan-1850614917)
+ - [Xbox Brings Back $1 Game Pass Ultimate Deal After Price Hike](https://kotaku.com/xbox-game-pass-ultimate-deal-price-starfield-pc-cheap-1850614918)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
