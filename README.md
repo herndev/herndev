@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [A researcher says a Bangladesh government site is leaking data of millions of citizens, including names, phone numbers, email addresses, and national ID numbers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230707/p13#a230707p13)
- - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)<!-- TECH:END -->
+ - [Apple&#39;s biggest Vision Pro headset production problem is the displays](https://appleinsider.com/articles/23/07/07/apples-biggest-vision-pro-headset-production-problem-is-the-displays?utm_medium=rss)
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [Gemini sues DCG and its founder Barry Silbert, accusing Barry Silbert of being the architect and mastermind of the DCG and Genesis fraud against creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230707/p14#a230707p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
