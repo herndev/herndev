@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No](http://9gag.com/gag/aeQReQp)
- - ⏩ [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - 👉 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)<!-- MEMES:END -->
+ - 💣 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - ⏩ [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 👉 [May G Force be with you](http://9gag.com/gag/aXnRvOb)<!-- MEMES:END -->
 
 ---
 
