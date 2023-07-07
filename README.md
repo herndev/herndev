@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonic the Hedgehog co-creator given suspended prison sentence for insider trading](https://www.theverge.com/2023/7/7/23787278/sonic-hedgehog-creator-yuji-naka-suspended-prison-sentence)
- - [Apple TV+ shows may have been filmed for Apple Vision Pro all along](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along?utm_medium=rss)
- - [Apple Vision Pro Will Require In-Store Appointments, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-will-require-in-store-appointments-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite China smartphone market contraction, Apple is still expanding](https://appleinsider.com/articles/23/07/07/despite-china-smartphone-market-contraction-apple-is-still-expanding?utm_medium=rss)
+ - [A look at the US&#39; bipartisan push to pass Big Tech antitrust bills in 2022, derailed by industry lobbying, ads, PR, donations, and congressional dysfunction &lpar;Steven Pearlstein/Washington Post&rpar;](http://www.techmeme.com/230707/p17#a230707p17)
+ - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
