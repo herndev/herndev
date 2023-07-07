@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei unveils Pangu Model 3.0, its new AI model for cloud computing in operations, product R&amp;D, and software engineering, based on its own hardware and chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230707/p8#a230707p8)
- - [Here’s when Apple’s first foldable MacBook could be coming](https://www.androidauthority.com/apple-macbook-foldable-folding-screen-3343383/)
- - [Some EU-based Instagram users, including football clubs and media companies, are accessing Threads despite Meta not having launched the platform in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p7#a230707p7)<!-- TECH:END -->
+ - [Can Twitter Alternatives Escape the Enshittification Trap?](https://www.wired.com/story/plaintext-twitter-alternatives-enshittification-trap/)
+ - [White Gladis and Her Killer Whales Are Getting Revenge—30 Years After &#39;Free Willy&#39;](https://www.wired.com/story/orca-uprising-white-gladis-free-willy-blackfish-social-media/)
+ - [4 Best VPN Services &lpar;2023&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
