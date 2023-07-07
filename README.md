@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)
  - [Today&#39;s Wordle hint and answer #748: Friday, July 7](https://www.pcgamer.com/wordle-answer-today-hint-748-july-7)
- - [Sega Bins Blockchain Plans, Calls F2P Games &#39;Boring&#39;](https://kotaku.com/sega-bins-blockchain-plans-calls-f2p-games-boring-1850613245)
- - [Diablo 4 patch adds another way to score Unique loot](https://www.pcgamer.com/diablo-4-patch-adds-another-way-to-score-unique-loot)<!-- GAME:END -->
+ - [Sega Bins Blockchain Plans, Calls F2P Games &#39;Boring&#39;](https://kotaku.com/sega-bins-blockchain-plans-calls-f2p-games-boring-1850613245)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
