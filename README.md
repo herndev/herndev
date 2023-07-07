@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - ⏩ [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 👉 [Added to playlist](http://9gag.com/gag/aYVR49m)<!-- MEMES:END -->
+ - 💣 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - ⏩ [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
 
 ---
 
