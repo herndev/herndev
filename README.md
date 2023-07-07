@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 💣 [Sour power](http://9gag.com/gag/avQ9neM)
+ - ⏩ [Elegant moves](http://9gag.com/gag/aQEyMVe)
  - 👉 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)<!-- MEMES:END -->
 
 ---
