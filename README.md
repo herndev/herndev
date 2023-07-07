@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 players rush to hide their bugged ultra-rares as Blizzard clampdown begins &#39;literally hotfixing fun&#39;](https://www.pcgamer.com/diablo-4-players-rush-to-hide-their-bugged-ultra-rares-as-blizzard-clampdown-begins-literally-hotfixing-fun)
- - [Sonic the Hedgehog creator given suspended prison sentence and $1.2 million fine](https://www.polygon.com/23777423/sonic-the-hedhog-creator-yuji-naka-prison-sentence-insider-trading)
- - [Sega&#39;s infatuation with the blockchain is over: &#39;What&#39;s the point if games are no fun?&#39;](https://www.pcgamer.com/segas-infatuation-with-the-blockchain-is-over-whats-the-point-if-games-are-no-fun)<!-- GAME:END -->
+ - [MLB The Show 23 Season 3 brings All-Star content and rewards, live today](https://blog.playstation.com/2023/07/07/mlb-the-show-23-season-3-brings-all-star-content-and-rewards-live-today/)
+ - [The Final Content Pack For Sniper Elite 5, Kraken Awakes, Is Available Today](https://news.xbox.com/en-us/2023/07/07/the-final-content-pack-for-sniper-elite-5-kraken-awakes-is-available-today/)
+ - [Threads threatens to muscle in on Mastodon&#39;s Fediverse and admins are up in arms about it](https://www.pcgamer.com/threads-threatens-to-muscle-in-on-mastodons-fediverse-and-admins-are-up-in-arms-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
