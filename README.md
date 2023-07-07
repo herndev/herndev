@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
+ - 💣 [No](http://9gag.com/gag/aeQReQp)
+ - ⏩ [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
+ - 👉 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)<!-- MEMES:END -->
 
 ---
 
