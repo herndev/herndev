@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
+ - 💣 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
+ - ⏩ [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 👉 [No no, not this way .........](http://9gag.com/gag/ay2vxDV)<!-- MEMES:END -->
 
 ---
 
