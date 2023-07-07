@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s biggest Vision Pro headset production problem is the displays](https://appleinsider.com/articles/23/07/07/apples-biggest-vision-pro-headset-production-problem-is-the-displays?utm_medium=rss)
- - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [Gemini sues DCG and its founder Barry Silbert, accusing Barry Silbert of being the architect and mastermind of the DCG and Genesis fraud against creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230707/p14#a230707p14)<!-- TECH:END -->
+ - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)
+ - [The best Samsung Galaxy deals of July 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Less than two days after launch, Mark Zuckerberg says Threads signups reached 70M, which is &quot;way beyond our expectations&quot; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230707/p15#a230707p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
