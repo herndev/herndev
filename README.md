@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sour power](http://9gag.com/gag/avQ9neM)
- - ⏩ [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 👉 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)<!-- MEMES:END -->
+ - 💣 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
+ - ⏩ [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
 
 ---
 
