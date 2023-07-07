@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you have Netflix, try this open-world game immediately](https://www.polygon.com/reviews/23786101/layas-horizon-review-ios-android-netflix)
- - [Polygon’s 2023 summer movie festival: City of God](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Street Fighter 6 Features The Best Chun-Li In 24 Years](https://kotaku.com/street-fighter-6-chun-li-juri-ryu-li-fen-how-old-is-age-1850613389)<!-- GAME:END -->
+ - [Nic Cage&#39;s Dead by Daylight voice lines will haunt me for the rest of my life](https://www.pcgamer.com/nic-cages-dead-by-daylight-voice-lines-will-haunt-me-for-the-rest-of-my-life)
+ - [The most popular battle royale you&#39;re not playing goes F2P next week](https://www.pcgamer.com/the-most-popular-battle-royale-youre-not-playing-goes-f2p-next-week)
+ - [The best early Prime Day 2023 deals](https://www.polygon.com/deals/23773983/early-prime-day-deals-2023-amazon-tvs-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
