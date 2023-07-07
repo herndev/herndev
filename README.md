@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;Shot on iPhone&#39; film is an action-packed Mexican movie](https://appleinsider.com/articles/23/07/07/new-shot-on-iphone-film-is-an-action-packed-mexican-movie?utm_medium=rss)
- - [Google’s now the number 2 smartphone brand, at least in one country](https://www.androidauthority.com/google-pixel-number-2-smartphone-brand-one-country-3343306/)
- - [A profile of Atsuyoshi Koike, the CEO of chip startup Rapidus, which plans to invest ~$35B by 2027 to build 2nm chips in Japan and help the US to counter China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230707/p3#a230707p3)<!-- TECH:END -->
+ - [Jony Ive’s LoveFrom worked on this limited edition $60,000 turntable](https://www.theverge.com/2023/7/7/23786821/jony-ive-apple-designer-lovefrom-linn-sondek-lp12-50-turntable-limited-edition)
+ - [Vision Pro will require an appointment, initially only in Apple Stores](https://appleinsider.com/articles/23/07/07/vision-pro-will-require-an-appointment-initially-only-in-apple-stores?utm_medium=rss)
+ - [Sources: Apple is planning an appointment-only retail launch of the Vision Pro in the US in early 2024, starting with stores in major areas like NY and LA &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230707/p4#a230707p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
