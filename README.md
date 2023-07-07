@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot;, as those verticals bring scrutiny not worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)
- - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
- - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)<!-- TECH:END -->
+ - [Sonic the Hedgehog co-creator given suspended prison sentence for insider trading](https://www.theverge.com/2023/7/7/23787278/sonic-hedgehog-creator-yuji-naka-suspended-prison-sentence)
+ - [Apple TV+ shows may have been filmed for Apple Vision Pro all along](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along?utm_medium=rss)
+ - [Apple Vision Pro Will Require In-Store Appointments, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-will-require-in-store-appointments-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
