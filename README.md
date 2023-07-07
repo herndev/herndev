@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - ⏩ [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - ⏩ [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 
