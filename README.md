@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro rumored to gain a darker shade of blue](https://appleinsider.com/articles/23/07/07/iphone-15-pro-rumored-to-gain-a-darker-shade-of-blue?utm_medium=rss)
- - [X Corp. sues Wachtell to recover most of the $90M fee the law firm received from Twitter for defeating Elon Musk&#39;s bid to walk away from his $44B Twitter buyout &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230707/p18#a230707p18)
- - [Despite China smartphone market contraction, Apple is still expanding](https://appleinsider.com/articles/23/07/07/despite-china-smartphone-market-contraction-apple-is-still-expanding?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Best Early Prime Day Deals on Laptops     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)
+ - [Should You Buy an At-Home Food Sensitivity Test Kit on Amazon Prime Day 2023?     - CNET](https://www.cnet.com/health/nutrition/should-you-buy-an-at-home-food-sensitivity-test-kit-on-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
