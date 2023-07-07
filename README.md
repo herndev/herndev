@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Recent Big, Surprising Anime News You Should Know About](https://kotaku.com/anime-expo-2023-attack-on-titan-bleach-one-piece-naruto-1850615832)
- - [Fortnite’s Only Up! User Map Is Now Way Bigger Than The Original Game](https://kotaku.com/fortnite-only-up-steam-game-pc-uefn-epic-popular-1850615732)
- - [Twitter clones, ranked: Who’s worth the commitment?](https://www.polygon.com/23786983/best-twitter-alternative-threads-meta-bluesky-mastodon)<!-- GAME:END -->
+ - [Destiny 2 continues its tradition of absolutely unhinged plush monsters](https://www.polygon.com/23787360/destiny-2-screeb-plush-merch)
+ - [Meet The Fans Still Playing The Worst Xbox Exclusive Of The Year](https://kotaku.com/xbox-redfall-game-pass-exclusive-shooter-bethesda-1850616260)
+ - [The official NBA game is once again stiffing PC players](https://www.pcgamer.com/the-official-nba-game-is-once-again-stiffing-pc-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
