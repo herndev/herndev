@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning Labs announces tools that let developers create AI agents that leverage GPT function calls to hold, send, and receive bitcoin via Lightning Network &lpar;Frederick Munawa/CoinDesk&rpar;](http://www.techmeme.com/230706/p33#a230706p33)
- - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)
- - [Best Early Prime Day Deals Under $50     - CNET](https://www.cnet.com/deals/best-prime-day-2023-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global public cloud services revenue hit $545.8B in 2022, up 22.9% YoY; SaaS-Applications led with 45%+ of the revenue, then IaaS with 21.2%, and PaaS with 17% &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230706/p35#a230706p35)
+ - [Sega co-COO Shuji Utsumi says the company is withholding its biggest games from third-party blockchain gaming projects and is shelving its own blockchain games &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230706/p34#a230706p34)
+ - [Lightning Labs announces tools that let developers create AI agents that leverage GPT function calls to hold, send, and receive bitcoin via Lightning Network &lpar;Frederick Munawa/CoinDesk&rpar;](http://www.techmeme.com/230706/p33#a230706p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
