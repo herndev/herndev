@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)
- - [The best Samsung Galaxy deals of July 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Less than two days after launch, Mark Zuckerberg says Threads signups reached 70M, which is &quot;way beyond our expectations&quot; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230707/p15#a230707p15)<!-- TECH:END -->
+ - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot;, as those verticals bring scrutiny not worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)
+ - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
