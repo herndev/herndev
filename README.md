@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [OnePlus foldable phone could run a special version of OxygenOS](https://www.androidauthority.com/oneplus-oxygenos-fold-3343290/)
- - [Global public cloud services revenue hit $545.8B in 2022, up 22.9% YoY; SaaS-Applications led with 45%+ of the revenue, then IaaS with 21.2%, and PaaS with 17% &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230706/p35#a230706p35)
- - [Sega co-COO Shuji Utsumi says the company is withholding its biggest games from third-party blockchain gaming projects and is shelving its own blockchain games &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230706/p34#a230706p34)<!-- TECH:END -->
+ - [Best Shave Club for 2023: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
+ - [Global public cloud services revenue hit $545.8B in 2022, up 22.9% YoY; SaaS-Applications led with 45%+ of the revenue, then IaaS with 21.2%, and PaaS with 17% &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230706/p35#a230706p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
