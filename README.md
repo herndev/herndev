@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clark Kent is always nice. My Adventures With Superman makes him complex](https://www.polygon.com/23785837/my-adventures-with-superman-animated-tv-show-nice-guy)
- - [PUBG Players Say They Fell Madly In Love Only To End Up In Jail](https://kotaku.com/pubg-mobile-playerunknowns-battlegrounds-india-pakistan-1850614917)
- - [Xbox Brings Back $1 Game Pass Ultimate Deal After Price Hike](https://kotaku.com/xbox-game-pass-ultimate-deal-price-starfield-pc-cheap-1850614918)<!-- GAME:END -->
+ - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
+ - [For the first time in my life I&#39;m wishing a game had more cutscenes instead of zero cutscenes](https://www.pcgamer.com/for-the-first-time-in-my-life-im-wishing-a-game-had-more-cutscenes-instead-of-zero-cutscenes)
+ - [Cyberpunk 2077 subreddit goes extremely NSFW in Reddit protest](https://www.polygon.com/23787012/cyberpunk-2077-subreddit-nsfw-reddit-protest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
