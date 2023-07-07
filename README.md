@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive’s LoveFrom worked on this limited edition $60,000 turntable](https://www.theverge.com/2023/7/7/23786821/jony-ive-apple-designer-lovefrom-linn-sondek-lp12-50-turntable-limited-edition)
- - [Vision Pro will require an appointment, initially only in Apple Stores](https://appleinsider.com/articles/23/07/07/vision-pro-will-require-an-appointment-initially-only-in-apple-stores?utm_medium=rss)
- - [Sources: Apple is planning an appointment-only retail launch of the Vision Pro in the US in early 2024, starting with stores in major areas like NY and LA &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230707/p4#a230707p4)<!-- TECH:END -->
+ - [Huawei unveils Pangu Model 3.0, its new AI model for cloud computing in operations, product R&amp;D, and software engineering, based on its own hardware and chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230707/p8#a230707p8)
+ - [Here’s when Apple’s first foldable MacBook could be coming](https://www.androidauthority.com/apple-macbook-foldable-folding-screen-3343383/)
+ - [Some EU-based Instagram users, including football clubs and media companies, are accessing Threads despite Meta not having launched the platform in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p7#a230707p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
