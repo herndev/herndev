@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo’s First New Class Since 2014 Is A Cool-Looking Vampire Warrior](https://kotaku.com/diablo-immortal-blood-knight-new-class-build-2023-july-1850612930)
  - [If Helldivers 2 isn&#39;t on your 2023 radar, this excellent gameplay trailer should correct that](https://www.pcgamer.com/if-helldivers-2-isnt-on-your-2023-radar-this-excellent-gameplay-trailer-should-correct-that)
- - [2022&#39;s best survival city builder will let you &#39;customize your faith&#39; with a new religion system](https://www.pcgamer.com/2022s-best-survival-city-builder-will-let-you-customize-your-faith-with-a-new-religion-system)
- - [Half-Life: Alyx&#39;s NoVR mod is looking so good, I might finally play the game](https://www.pcgamer.com/half-life-alyxs-novr-mod-is-looking-so-good-i-might-finally-play-the-game)<!-- GAME:END -->
+ - [2022&#39;s best survival city builder will let you &#39;customize your faith&#39; with a new religion system](https://www.pcgamer.com/2022s-best-survival-city-builder-will-let-you-customize-your-faith-with-a-new-religion-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
