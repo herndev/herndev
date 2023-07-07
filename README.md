@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel kills off ancient high-end desktop Cascade Lake-X CPUs and X299 chipset](https://www.pcgamer.com/intel-kills-off-ancient-high-end-desktop-cascade-lake-x-cpus-and-x299-chipset)
  - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)
- - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)
- - [Today&#39;s Wordle hint and answer #748: Friday, July 7](https://www.pcgamer.com/wordle-answer-today-hint-748-july-7)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
