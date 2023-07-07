@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - ⏩ [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 💣 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
+ - ⏩ [What happened?](http://9gag.com/gag/aA0vP70)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 
