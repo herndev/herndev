@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s time to finish Diablo 4’s campaign now](https://www.polygon.com/23786956/diablo-4-finish-campaign-season-1)
- - [Can The Witcher Survive Henry Cavill’s Departure?](https://kotaku.com/will-henry-cavill-return-the-witcher-season-3-netflix-1850615625)
- - [Baldur&#39;s Gate 3 Has Everything: Polyamory, Bear Banging, Blood Sacrifice](https://kotaku.com/baldurs-gate-3-halsin-romance-sex-scene-bear-karlach-1850615466)<!-- GAME:END -->
+ - [All The Recent Big, Surprising Anime News You Should Know About](https://kotaku.com/anime-expo-2023-attack-on-titan-bleach-one-piece-naruto-1850615832)
+ - [Fortnite’s Only Up! User Map Is Now Way Bigger Than The Original Game](https://kotaku.com/fortnite-only-up-steam-game-pc-uefn-epic-popular-1850615732)
+ - [Twitter clones, ranked: Who’s worth the commitment?](https://www.polygon.com/23786983/best-twitter-alternative-threads-meta-bluesky-mastodon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
