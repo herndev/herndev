@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleach Anime Is Getting A New Game And It Looks Rad](https://kotaku.com/bleach-soul-resonance-anime-trailer-ichigo-kurosaki-1850616857)
- - [Nicolas Cage’s Dead By Daylight Voice Lines Have Zero Chill](https://kotaku.com/dead-by-daylight-nicolas-nic-cage-release-perks-1850616702)
- - [Diablo IV: What You Need To Get Ready Before The First Season](https://kotaku.com/diablo-4-iv-season-of-the-malignant-one-1-battle-pass-1850616762)<!-- GAME:END -->
+ - [The Best Games That Let You Kill Robots And AI-Powered Monsters](https://kotaku.com/video-game-ai-robots-earthbound-mass-effect-destiny-1850616943)
+ - [65 on Netflix, Guardians of the Galaxy 3, The Blackening, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/7/23784280/new-movies-watch-guardians-galaxy-3-blackening-netflix-65-out-laws)
+ - [Bleach Anime Is Getting A New Game And It Looks Rad](https://kotaku.com/bleach-soul-resonance-anime-trailer-ichigo-kurosaki-1850616857)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
