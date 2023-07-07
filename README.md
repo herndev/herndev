@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - ⏩ [Wrong movie](http://9gag.com/gag/aA0v3xp)
- - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
+ - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - ⏩ [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
+ - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
 
 ---
 
