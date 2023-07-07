@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel kills off ancient high-end desktop Cascade Lake-X CPUs and X299 chipset](https://www.pcgamer.com/intel-kills-off-ancient-high-end-desktop-cascade-lake-x-cpus-and-x299-chipset)
- - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)
- - [&lpar;For Southeast Asia&rpar; Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/07/06/20230707-psstore/)<!-- GAME:END -->
+ - [Diablo 4 players rush to hide their bugged ultra-rares as Blizzard clampdown begins &#39;literally hotfixing fun&#39;](https://www.pcgamer.com/diablo-4-players-rush-to-hide-their-bugged-ultra-rares-as-blizzard-clampdown-begins-literally-hotfixing-fun)
+ - [Sonic the Hedgehog creator given suspended prison sentence and $1.2 million fine](https://www.polygon.com/23777423/sonic-the-hedhog-creator-yuji-naka-prison-sentence-insider-trading)
+ - [Sega&#39;s infatuation with the blockchain is over: &#39;What&#39;s the point if games are no fun?&#39;](https://www.pcgamer.com/segas-infatuation-with-the-blockchain-is-over-whats-the-point-if-games-are-no-fun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
