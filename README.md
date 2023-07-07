@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - ⏩ [Added to playlist](http://9gag.com/gag/aYVR49m)
- - 👉 [You only had one job](http://9gag.com/gag/a8qVpX3)<!-- MEMES:END -->
+ - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
+ - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 👉 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)<!-- MEMES:END -->
 
 ---
 
