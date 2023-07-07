@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)
- - ⏩ [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 👉 [What is going on here?](http://9gag.com/gag/az24A8x)<!-- MEMES:END -->
+ - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - ⏩ [German engineering strikes again](http://9gag.com/gag/aWGRmGq)
+ - 👉 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)<!-- MEMES:END -->
 
 ---
 
