@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - ⏩ [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
+ - 💣 [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
+ - ⏩ [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 👉 [Wow](http://9gag.com/gag/a7qn38r)<!-- MEMES:END -->
 
 ---
 
