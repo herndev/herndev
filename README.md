@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23 Season 3 brings All-Star content and rewards, live today](https://blog.playstation.com/2023/07/07/mlb-the-show-23-season-3-brings-all-star-content-and-rewards-live-today/)
- - [The Final Content Pack For Sniper Elite 5, Kraken Awakes, Is Available Today](https://news.xbox.com/en-us/2023/07/07/the-final-content-pack-for-sniper-elite-5-kraken-awakes-is-available-today/)
- - [Threads threatens to muscle in on Mastodon&#39;s Fediverse and admins are up in arms about it](https://www.pcgamer.com/threads-threatens-to-muscle-in-on-mastodons-fediverse-and-admins-are-up-in-arms-about-it)<!-- GAME:END -->
+ - [If you have Netflix, try this open-world game immediately](https://www.polygon.com/reviews/23786101/layas-horizon-review-ios-android-netflix)
+ - [Polygon’s 2023 summer movie festival: City of God](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Street Fighter 6 Features The Best Chun-Li In 24 Years](https://kotaku.com/street-fighter-6-chun-li-juri-ryu-li-fen-how-old-is-age-1850613389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
