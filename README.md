@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exactly](http://9gag.com/gag/aXnRv2D)
- - ⏩ [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
- - 👉 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)<!-- MEMES:END -->
+ - 💣 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
 
 ---
 
