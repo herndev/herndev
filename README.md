@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
- - [For the first time in my life I&#39;m wishing a game had more cutscenes instead of zero cutscenes](https://www.pcgamer.com/for-the-first-time-in-my-life-im-wishing-a-game-had-more-cutscenes-instead-of-zero-cutscenes)
- - [Cyberpunk 2077 subreddit goes extremely NSFW in Reddit protest](https://www.polygon.com/23787012/cyberpunk-2077-subreddit-nsfw-reddit-protest)<!-- GAME:END -->
+ - [It’s time to finish Diablo 4’s campaign now](https://www.polygon.com/23786956/diablo-4-finish-campaign-season-1)
+ - [Can The Witcher Survive Henry Cavill’s Departure?](https://kotaku.com/will-henry-cavill-return-the-witcher-season-3-netflix-1850615625)
+ - [Baldur&#39;s Gate 3 Has Everything: Polyamory, Bear Banging, Blood Sacrifice](https://kotaku.com/baldurs-gate-3-halsin-romance-sex-scene-bear-karlach-1850615466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
