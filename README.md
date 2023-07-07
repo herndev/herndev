@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
- - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
+ - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
 
 ---
 
