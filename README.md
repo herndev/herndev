@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did Napoleon really shoot a pyramid? Ridley Scott says sure, why not](https://www.polygon.com/23789626/napoleon-trailer-ridley-scott-joaquin-phoenix-pyramids)
- - [Senator Says YouTuber Logan Paul’s Energy Drink Is Unsafe For Kids](https://kotaku.com/youtube-logan-paul-ksi-prime-energy-drink-fda-schumer-1850621848)
- - [Pokémon Sleep App Will Include Shiny Hunting](https://kotaku.com/pokemon-sleep-app-ios-release-date-shiny-snorlax-1850621794)<!-- GAME:END -->
+ - [Ranking Pikachu Clones From Worst To Best](https://kotaku.com/pokemon-pikachu-raichu-pichu-clones-mimikyu-pachirisu-1850622444)
+ - [Prepare for Call of Duty: Modern Warfare II and Call of Duty: Warzone Season 04 Reloaded, out July 12](https://blog.playstation.com/2023/07/10/prepare-for-call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-season-04-reloaded-out-july-12/)
+ - [Prepare for Call of Duty: Modern Warfare II and Call of Duty: Warzone Season 04 Reloaded, out July 12](https://blog.playstation.com/2023/07/10/prepare-for-call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-season-04-reloaded-out-july-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
