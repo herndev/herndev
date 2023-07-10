@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - ⏩ [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 👉 [Damn onions got me](http://9gag.com/gag/az242bK)<!-- MEMES:END -->
+ - 💣 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - ⏩ [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 👉 [Satisfying](http://9gag.com/gag/aBd4dq1)<!-- MEMES:END -->
 
 ---
 
