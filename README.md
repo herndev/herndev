@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - ⏩ [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)
- - 👉 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)<!-- MEMES:END -->
+ - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - ⏩ [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
 
 ---
 
