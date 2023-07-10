@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News renews &#39;After the Whistle&#39; podcast for a second season](https://appleinsider.com/articles/23/07/10/apple-news-renews-after-the-whistle-podcast-for-a-second-season?utm_medium=rss)
- - [The EU and the US agree to a new deal on data transfers after EU judges threw out two previous pacts over privacy concerns; Meta had threatened to leave the EU &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230710/p11#a230710p11)
- - [Nothing Phone 2 launch: How to watch live and attend exclusive sale events](https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/)<!-- TECH:END -->
+ - [ESA survey in 2022: Hispanic and Black Americans played video games more than other groups, 72% of US gamers were white, active players fell to 212.6M, and more &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230710/p12#a230710p12)
+ - [Google’s Pixel 7A is an even better value now that it’s $50 off ahead of Prime Day](https://www.theverge.com/2023/7/10/23789509/google-pixel-7a-nintendo-ring-fit-adventure-apple-macbook-deal-sale)
+ - [8 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
