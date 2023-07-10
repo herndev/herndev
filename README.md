@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - ⏩ [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - ⏩ [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 👉 [At long last, he&#39;s finally gonna wear tho costume and the mask! F**k yeah!](http://9gag.com/gag/aoKnP7m)<!-- MEMES:END -->
 
 ---
 
