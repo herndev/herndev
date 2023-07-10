@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - ⏩ [Never let them know...](http://9gag.com/gag/aXnRrjD)
- - 👉 [Damn onions got me](http://9gag.com/gag/az242bK)<!-- MEMES:END -->
+ - 💣 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - ⏩ [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
+ - 👉 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)<!-- MEMES:END -->
 
 ---
 
