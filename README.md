@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ESA survey in 2022: Hispanic and Black Americans played video games more than other groups, 72% of US gamers were white, active players fell to 212.6M, and more &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230710/p12#a230710p12)
- - [Google’s Pixel 7A is an even better value now that it’s $50 off ahead of Prime Day](https://www.theverge.com/2023/7/10/23789509/google-pixel-7a-nintendo-ring-fit-adventure-apple-macbook-deal-sale)
- - [8 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
+ - [New EU deal legalizes transatlantic data transfers once again](https://appleinsider.com/articles/23/07/10/new-eu-deal-legalizes-transatlantic-data-transfers-once-again?utm_medium=rss)
+ - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)
+ - [GM ditching CarPlay could go bad, complain car dealers](https://appleinsider.com/articles/23/07/10/gm-ditching-carplay-could-go-bad-complain-car-dealers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
