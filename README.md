@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;July 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-10-2023)
  - [Today&#39;s Wordle hint and answer #751: Monday, July 10](https://www.pcgamer.com/wordle-answer-today-hint-751-july-10)
- - [The Nvidia RTX 4060 Ti 16GB is set launch on July 18, to little enthusiasm](https://www.pcgamer.com/the-nvidia-rtx-4060-ti-16gb-is-set-launch-on-july-18-to-little-enthusiasm)
- - [The Best Sports Video Game Of All Time](https://kotaku.com/the-best-sports-video-game-of-all-time-1796797217)<!-- GAME:END -->
+ - [The Nvidia RTX 4060 Ti 16GB is set launch on July 18, to little enthusiasm](https://www.pcgamer.com/the-nvidia-rtx-4060-ti-16gb-is-set-launch-on-july-18-to-little-enthusiasm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
