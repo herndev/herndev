@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - 💣 [Something in the Way She Moves](http://9gag.com/gag/arm83yd)
  - ⏩ [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 👉 [Satisfying](http://9gag.com/gag/aBd4dq1)<!-- MEMES:END -->
+ - 👉 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)<!-- MEMES:END -->
 
 ---
 
