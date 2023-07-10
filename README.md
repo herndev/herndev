@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands Movie In Post-Prod Hell As Last Of Us Writer Removes Name From It](https://kotaku.com/borderlands-movie-hbo-last-of-us-craig-mazin-crombie-1850623951)
- - [Logan Paul&#39;s energy drink has &#39;so much caffeine in it that it puts Red Bull to shame,&#39; declares US senator in call for FDA investigation](https://www.pcgamer.com/logan-pauls-energy-drink-has-so-much-caffeine-in-it-that-it-puts-red-bull-to-shame-declares-us-senator-in-call-for-fda-investigation)
- - [Star Wars Galaxies revival project adds &#39;planetary control mechanics&#39; so you can really disappoint Lord Vader](https://www.pcgamer.com/star-wars-galaxies-revival-project-adds-planetary-control-mechanics-so-you-can-really-disappoint-lord-vader)<!-- GAME:END -->
+ - [Multiclassing with Baldur&#39;s Gate 3&#39;s super low level cap sounds like a stressful⁠—but potentially fun⁠—way to play](https://www.pcgamer.com/multiclassing-with-baldurs-gate-3s-super-low-level-cap-sounds-like-a-stressfulbut-potentially-funway-to-play)
+ - [Razer is investigating a ‘potential breach’ after hacker tries to sell ‘encryption keys, database, backend access logins’ and more for $100,000](https://www.pcgamer.com/razer-is-investigating-a-potential-breach-after-hacker-tries-to-sell-encryption-keys-database-backend-access-logins-and-more-for-dollar100000)
+ - [Dave the Diver: 7 tips to turn you into a sushi master](https://www.pcgamer.com/dave-the-diver-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
