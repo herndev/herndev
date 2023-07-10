@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking Pikachu Clones From Worst To Best](https://kotaku.com/pokemon-pikachu-raichu-pichu-clones-mimikyu-pachirisu-1850622444)
- - [Prepare for Call of Duty: Modern Warfare II and Call of Duty: Warzone Season 04 Reloaded, out July 12](https://blog.playstation.com/2023/07/10/prepare-for-call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-season-04-reloaded-out-july-12/)
- - [Prepare for Call of Duty: Modern Warfare II and Call of Duty: Warzone Season 04 Reloaded, out July 12](https://blog.playstation.com/2023/07/10/prepare-for-call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-season-04-reloaded-out-july-12/)<!-- GAME:END -->
+ - [My favorite co-op game in years is on sale for $3 in the Steam Summer Sale](https://www.pcgamer.com/my-favorite-co-op-game-in-years-is-on-sale-for-dollar3-in-the-steam-summer-sale)
+ - [The Week In Games: What’s Releasing Beyond Exoprimal](https://kotaku.com/july-game-releases-out-this-week-exoprimal-oxenfree-ii-1850616799)
+ - [Bizarroland UN press stunt sees AI robots lined up to promise they won&#39;t kill humans, before one says &#39;let&#39;s get wild and make this world our playground&#39;](https://www.pcgamer.com/bizarroland-un-press-stunt-sees-ai-robots-lined-up-to-promise-they-wont-kill-humans-before-one-says-lets-get-wild-and-make-this-world-our-playground)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
