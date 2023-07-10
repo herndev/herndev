@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
  - ⏩ [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 👉 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)<!-- MEMES:END -->
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 
