@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)
- - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple News renews &#39;After the Whistle&#39; podcast for a second season](https://appleinsider.com/articles/23/07/10/apple-news-renews-after-the-whistle-podcast-for-a-second-season?utm_medium=rss)
+ - [The EU and the US agree to a new deal on data transfers after EU judges threw out two previous pacts over privacy concerns; Meta had threatened to leave the EU &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230710/p11#a230710p11)
+ - [Nothing Phone 2 launch: How to watch live and attend exclusive sale events](https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
