@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zombies Invade Japan in Ed-0: Zombie Uprising, a Rogue-like Action Game Coming to Xbox Series X|S on July 13](https://news.xbox.com/en-us/2023/07/10/ed-0-zombie-uprising-coming-to-xbox-series-xs-on-july-13/)
- - [Mega Man’s journey from Blue Bomber to bombshell](https://www.polygon.com/23780459/mega-man-x-character-design-history)
- - [The looks that slayed hardest in Resident Evil 4, ranked](https://www.polygon.com/23774615/resident-evil-4-re4-remake-cast-best-costumes-outfits-fashion-ranked)<!-- GAME:END -->
+ - [How to catch jellyfish in Dave the Diver](https://www.pcgamer.com/dave-the-diver-jellyfish)
+ - [65 solves the tech problem Star Trek and Star Wars can’t unravel](https://www.polygon.com/23784920/65-netflix-adam-driver-dinosaurs-retrofuturism)
+ - [EA Sports UFC 5 announced, is ‘coming soon’](https://www.polygon.com/23789776/ea-sports-ufc-5-release-date-announced)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
