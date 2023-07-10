@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - ⏩ [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
+ - 💣 [Verstappen fined 50.000$ for touching Norris&#39; rear end](http://9gag.com/gag/adPRv7Q)
+ - ⏩ [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
 
 ---
 
