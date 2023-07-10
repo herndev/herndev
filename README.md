@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Sports Video Game Of All Time](https://kotaku.com/the-best-sports-video-game-of-all-time-1796797217)
- - [The king of military sims finally goes to WW2 with Arma 3&#39;s Spearhead 1944](https://www.pcgamer.com/the-king-of-military-sims-finally-goes-to-ww2-with-arma-3s-spearhead-1944)
- - [A smuggler spotted walking with &#39;abnormal posture&#39; was found to be carrying 306 CPUs](https://www.pcgamer.com/a-smuggler-spotted-walking-with-abnormal-posture-was-found-to-be-carrying-306-cpus)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #751: Monday, July 10](https://www.pcgamer.com/wordle-answer-today-hint-751-july-10)
+ - [The Nvidia RTX 4060 Ti 16GB is set launch on July 18, to little enthusiasm](https://www.pcgamer.com/the-nvidia-rtx-4060-ti-16gb-is-set-launch-on-july-18-to-little-enthusiasm)
+ - [The Best Sports Video Game Of All Time](https://kotaku.com/the-best-sports-video-game-of-all-time-1796797217)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
