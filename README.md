@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
- - ⏩ [Pro tip](http://9gag.com/gag/aBd466x)
- - 👉 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)<!-- MEMES:END -->
+ - 💣 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)
+ - ⏩ [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
 
 ---
 
