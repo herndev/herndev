@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to catch jellyfish in Dave the Diver](https://www.pcgamer.com/dave-the-diver-jellyfish)
- - [65 solves the tech problem Star Trek and Star Wars can’t unravel](https://www.polygon.com/23784920/65-netflix-adam-driver-dinosaurs-retrofuturism)
- - [EA Sports UFC 5 announced, is ‘coming soon’](https://www.polygon.com/23789776/ea-sports-ufc-5-release-date-announced)<!-- GAME:END -->
+ - [Did Napoleon really shoot a pyramid? Ridley Scott says sure, why not](https://www.polygon.com/23789626/napoleon-trailer-ridley-scott-joaquin-phoenix-pyramids)
+ - [Senator Says YouTuber Logan Paul’s Energy Drink Is Unsafe For Kids](https://kotaku.com/youtube-logan-paul-ksi-prime-energy-drink-fda-schumer-1850621848)
+ - [Pokémon Sleep App Will Include Shiny Hunting](https://kotaku.com/pokemon-sleep-app-ios-release-date-shiny-snorlax-1850621794)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
