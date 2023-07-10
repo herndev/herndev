@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [July 2023 security update landing on Galaxy Z Flip 4 series now](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
- - [Samsung Galaxy Z Fold 4 gets July 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
- - [Massachusetts lawmakers are weighing a near total ban on buying and selling consumers&#39; phone location data, in what could be the first such ban in the US &lpar;Byron Tau/Wall Street Journal&rpar;](http://www.techmeme.com/230710/p14#a230710p14)<!-- TECH:END -->
+ - [19 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023-1/)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Influencer isn&#39;t telling the whole story about her viral AirPods replacement ordeal](https://appleinsider.com/articles/23/07/10/influencer-isnt-telling-the-whole-story-about-her-viral-airpods-replacement-ordeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
