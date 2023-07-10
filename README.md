@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Alarming 87 Percent Of Retro Games Are Being Lost To Time](https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857)
- - [Buy a Nintendo Switch, get a $25 gift card from Target or Best Buy](https://www.polygon.com/amazon-prime-day/2023/7/10/23790155/nintendo-switch-gift-card-target-best-buy-deal-sale)
- - [When does Modern Warfare 2 and Warzone 2 season 4 reloaded start?](https://www.polygon.com/guides/23790037/modern-warfare-warzone-2-season-4-reloaded-the-boys-release-time)<!-- GAME:END -->
+ - [Borderlands Movie In Post-Prod Hell As Last Of Us Writer Removes Name From It](https://kotaku.com/borderlands-movie-hbo-last-of-us-craig-mazin-crombie-1850623951)
+ - [Logan Paul&#39;s energy drink has &#39;so much caffeine in it that it puts Red Bull to shame,&#39; declares US senator in call for FDA investigation](https://www.pcgamer.com/logan-pauls-energy-drink-has-so-much-caffeine-in-it-that-it-puts-red-bull-to-shame-declares-us-senator-in-call-for-fda-investigation)
+ - [Star Wars Galaxies revival project adds &#39;planetary control mechanics&#39; so you can really disappoint Lord Vader](https://www.pcgamer.com/star-wars-galaxies-revival-project-adds-planetary-control-mechanics-so-you-can-really-disappoint-lord-vader)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
