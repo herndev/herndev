@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ban on sales of cellular location data could break important privacy precedent in US](https://appleinsider.com/articles/23/07/10/ban-on-sales-of-cellular-location-data-could-break-important-privacy-precedent-in-us?utm_medium=rss)
- - [Google XR software lead quits, heavily criticizes company on way out](https://www.androidauthority.com/google-xr-lead-quits-3344095/)
- - [Sega of America workers win union vote 91 to 26, becoming the first union that spans multiple departments at a major video game company &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230710/p16#a230710p16)<!-- TECH:END -->
+ - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
+ - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
+ - [Google’s AR software leader is out over the company’s ‘unstable commitment and vision’](https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
