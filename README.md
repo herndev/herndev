@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - ⏩ [Pro tip](http://9gag.com/gag/aBd466x)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - ⏩ [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [Damn onions got me](http://9gag.com/gag/az242bK)<!-- MEMES:END -->
 
 ---
 
