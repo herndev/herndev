@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU deal legalizes transatlantic data transfers once again](https://appleinsider.com/articles/23/07/10/new-eu-deal-legalizes-transatlantic-data-transfers-once-again?utm_medium=rss)
- - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)
- - [GM ditching CarPlay could go bad, complain car dealers](https://appleinsider.com/articles/23/07/10/gm-ditching-carplay-could-go-bad-complain-car-dealers?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)
+ - [The person who swatted Ubisoft has been sentenced.](https://www.theverge.com/2023/7/10/23789622/ubisoft-montreal-swatted-suspect-sentenced-rainbow-six-siege)
+ - [UK&#39;s NHS is investigating a ransomware incident, its second breach in recent weeks that potentially affects 1M+ patients, as the ALPHV gang claims it stole 70TB &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230710/p13#a230710p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
