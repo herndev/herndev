@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So hollywood and what? 95% politicians?](http://9gag.com/gag/aDYQ67G)
- - ⏩ [Classic.](http://9gag.com/gag/a4ownDv)
- - 👉 [I need to know If this Man is alive](http://9gag.com/gag/aeQR195)<!-- MEMES:END -->
+ - 💣 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - ⏩ [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 👉 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)<!-- MEMES:END -->
 
 ---
 
