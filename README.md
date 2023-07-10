@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Sports Video Game Of All Time](https://kotaku.com/the-best-sports-video-game-of-all-time-1796797217)
  - [The king of military sims finally goes to WW2 with Arma 3&#39;s Spearhead 1944](https://www.pcgamer.com/the-king-of-military-sims-finally-goes-to-ww2-with-arma-3s-spearhead-1944)
- - [A smuggler spotted walking with &#39;abnormal posture&#39; was found to be carrying 306 CPUs](https://www.pcgamer.com/a-smuggler-spotted-walking-with-abnormal-posture-was-found-to-be-carrying-306-cpus)
- - [Following the success of Final Fantasy&#39;s Pixel Remasters, Square Enix is considering more old games](https://www.pcgamer.com/following-the-success-of-final-fantasys-pixel-remasters-square-enix-is-considering-more-old-games)<!-- GAME:END -->
+ - [A smuggler spotted walking with &#39;abnormal posture&#39; was found to be carrying 306 CPUs](https://www.pcgamer.com/a-smuggler-spotted-walking-with-abnormal-posture-was-found-to-be-carrying-306-cpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
