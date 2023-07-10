@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Games are fun.](http://9gag.com/gag/ay2vNqp)
- - ⏩ [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
+ - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - ⏩ [Never let them know...](http://9gag.com/gag/aXnRrjD)
+ - 👉 [Damn onions got me](http://9gag.com/gag/az242bK)<!-- MEMES:END -->
 
 ---
 
