@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Games That Let You Kill Robots And AI-Powered Monsters](https://kotaku.com/video-game-ai-robots-earthbound-mass-effect-destiny-1850616943)
- - [65 on Netflix, Guardians of the Galaxy 3, The Blackening, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/7/23784280/new-movies-watch-guardians-galaxy-3-blackening-netflix-65-out-laws)
- - [Bleach Anime Is Getting A New Game And It Looks Rad](https://kotaku.com/bleach-soul-resonance-anime-trailer-ichigo-kurosaki-1850616857)<!-- GAME:END -->
+ - [True Horror Is Mario Kart x Resident Evil&#39;s Camera Angles](https://kotaku.com/mario-kart-resident-evil-nintendo-snes-mod-pc-hack-1850620420)
+ - [Here&#39;s a mod that makes your Skyrim forests all dense and lovely](https://www.pcgamer.com/heres-a-mod-that-makes-your-skyrim-forests-all-dense-and-lovely)
+ - [The lead dev of inXile&#39;s steampunk RPG says it&#39;s a &#39;love child&#39; of two of the best RPGs ever made⁠—and he should know, he helped make them](https://www.pcgamer.com/the-lead-dev-of-inxiles-steampunk-rpg-says-its-a-love-child-of-two-of-the-best-rpgs-ever-madeand-he-should-know-he-helped-make-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
