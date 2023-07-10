@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite co-op game in years is on sale for $3 in the Steam Summer Sale](https://www.pcgamer.com/my-favorite-co-op-game-in-years-is-on-sale-for-dollar3-in-the-steam-summer-sale)
- - [The Week In Games: What’s Releasing Beyond Exoprimal](https://kotaku.com/july-game-releases-out-this-week-exoprimal-oxenfree-ii-1850616799)
- - [Bizarroland UN press stunt sees AI robots lined up to promise they won&#39;t kill humans, before one says &#39;let&#39;s get wild and make this world our playground&#39;](https://www.pcgamer.com/bizarroland-un-press-stunt-sees-ai-robots-lined-up-to-promise-they-wont-kill-humans-before-one-says-lets-get-wild-and-make-this-world-our-playground)<!-- GAME:END -->
+ - [Two years after being removed from Steam, 2014&#39;s strangest horror shooter is back on GOG, and it&#39;s free](https://www.pcgamer.com/two-years-after-being-removed-from-steam-2014s-strangest-horror-shooter-is-back-on-gog-and-its-free)
+ - [Sega of America workers win union vote](https://www.polygon.com/23789856/sega-of-america-workers-win-union-vote-nlrb)
+ - [A South Park meme is now a real Hello Kitty game](https://www.polygon.com/23787195/south-park-butters-hello-kitty-island-adventure-apple-arcade-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
