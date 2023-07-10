@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zotac RTX 4060 OC Spider-Man](https://www.pcgamer.com/zotac-geforce-rtx-4060-oc-spider-man)
  - [Five new Steam games you probably missed &lpar;July 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-10-2023)
- - [Today&#39;s Wordle hint and answer #751: Monday, July 10](https://www.pcgamer.com/wordle-answer-today-hint-751-july-10)
- - [The Nvidia RTX 4060 Ti 16GB is set launch on July 18, to little enthusiasm](https://www.pcgamer.com/the-nvidia-rtx-4060-ti-16gb-is-set-launch-on-july-18-to-little-enthusiasm)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #751: Monday, July 10](https://www.pcgamer.com/wordle-answer-today-hint-751-july-10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
