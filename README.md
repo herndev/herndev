@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best Early Prime Day Deals on Laptops     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)
- - [Should You Buy an At-Home Food Sensitivity Test Kit on Amazon Prime Day 2023?     - CNET](https://www.cnet.com/health/nutrition/should-you-buy-an-at-home-food-sensitivity-test-kit-on-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Following similar lawsuits, Sarah Silverman and two other authors sue OpenAI and Meta, claiming LLaMA and ChatGPT were trained on copyright-infringing material &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230709/p9#a230709p9)
+ - [Evernote has laid off most of its US staff and will move most operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
+ - [Vaonis Vespera Smart Telescope review: Automation for telescopes](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
