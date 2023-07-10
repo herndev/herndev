@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)
- - [The person who swatted Ubisoft has been sentenced.](https://www.theverge.com/2023/7/10/23789622/ubisoft-montreal-swatted-suspect-sentenced-rainbow-six-siege)
- - [UK&#39;s NHS is investigating a ransomware incident, its second breach in recent weeks that potentially affects 1M+ patients, as the ALPHV gang claims it stole 70TB &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230710/p13#a230710p13)<!-- TECH:END -->
+ - [July 2023 security update landing on Galaxy Z Flip 4 series now](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
+ - [Samsung Galaxy Z Fold 4 gets July 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
+ - [Massachusetts lawmakers are weighing a near total ban on buying and selling consumers&#39; phone location data, in what could be the first such ban in the US &lpar;Byron Tau/Wall Street Journal&rpar;](http://www.techmeme.com/230710/p14#a230710p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
