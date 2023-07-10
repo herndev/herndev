@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tiptoes onto Threads -- but hasn&#39;t fully embraced it yet](https://appleinsider.com/articles/23/07/10/apple-tiptoes-onto-threads----but-hasnt-fully-embraced-it-yet?utm_medium=rss)
- - [How and when you can just say &#39;Siri&#39; to a Mac on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-and-when-you-can-just-say-siri-to-a-mac-on-macos-sonoma?utm_medium=rss)
- - [Vaonis Vespera Smart Telescope review: See the stars with the help of your iPhone](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)<!-- TECH:END -->
+ - [MicroLED, mini LED, OLED - understanding Apple&#39;s future iPhone, iPad, and Mac displays](https://appleinsider.com/articles/21/03/01/microled-mini-led-oled---apples-future-iphone-ipad-and-mac-displays?utm_medium=rss)
+ - [VR game makers say women are buying headsets due to fitness and workout apps, a shift from the male-dominated early days; &lt;10% of Quest users were women in 2019 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230710/p8#a230710p8)
+ - [Evernote fires nearly every US employee as it shifts operations to Europe](https://appleinsider.com/articles/23/07/10/evernote-fires-nearly-every-us-employee-as-it-shifts-operations-to-europe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
