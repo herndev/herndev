@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Tumblr says it’s going to ‘fix’ its ‘core experience’ to appeal to new users](https://www.theverge.com/2023/7/10/23790050/tumblr-user-experience-changes-reblogs-discoverability-creators)
- - [Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis](https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks)<!-- TECH:END -->
+ - [Is a Google Fi Wireless family plan worth the switch?](https://www.androidauthority.com/google-fi-wireless-family-plan-3343601/)
+ - [iPhone 15 and iPhone 15 Pro: What the rumors say is coming out this fall](https://appleinsider.com/articles/23/07/10/iphone-15-and-iphone-15-pro-what-the-rumors-say-is-landing-this-fall?utm_medium=rss)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
