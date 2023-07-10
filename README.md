@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 💣 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
  - ⏩ [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 👉 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)<!-- MEMES:END -->
+ - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
 
 ---
 
