@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
- - ⏩ [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - ⏩ [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
 
 ---
 
