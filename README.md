@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MicroLED, mini LED, OLED - understanding Apple&#39;s future iPhone, iPad, and Mac displays](https://appleinsider.com/articles/21/03/01/microled-mini-led-oled---apples-future-iphone-ipad-and-mac-displays?utm_medium=rss)
- - [VR game makers say women are buying headsets due to fitness and workout apps, a shift from the male-dominated early days; &lt;10% of Quest users were women in 2019 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230710/p8#a230710p8)
- - [Evernote fires nearly every US employee as it shifts operations to Europe](https://appleinsider.com/articles/23/07/10/evernote-fires-nearly-every-us-employee-as-it-shifts-operations-to-europe?utm_medium=rss)<!-- TECH:END -->
+ - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)
+ - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
