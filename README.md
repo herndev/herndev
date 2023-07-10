@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Nuevo México is looking dangerously close to the spirit of OG Fallout, but in 3D](https://www.pcgamer.com/fallout-nuevo-mexico-is-looking-dangerously-close-to-the-spirit-of-og-fallout-but-in-3d)
- - [Want five extra ability points when you start Diablo 4&#39;s first season? Here&#39;s how](https://www.pcgamer.com/want-five-extra-ability-points-when-you-start-diablo-4s-first-season-heres-how)
- - [Streamer spends months training to beat a Final Fantasy 14 speedrunning world record, only for his rival to come out of a years-long retirement and destroy it in one day](https://www.pcgamer.com/streamer-spends-months-training-to-beat-a-final-fantasy-14-speedrunning-world-record-only-for-his-rival-to-come-out-of-a-years-long-retirement-and-destroy-it-in-one-day)<!-- GAME:END -->
+ - [Synth Riders celebrates 5 years with free songs and a retrowave retrospective](https://blog.playstation.com/2023/07/10/synth-riders-celebrates-5-years-with-free-songs-and-a-retrowave-retrospective/)
+ - [Black Panther is EA’s next Marvel video game](https://www.polygon.com/23787530/marvel-black-panther-video-game-ea-cliffhanger-games-announcement)
+ - [Fallout Nuevo México is looking dangerously close to the spirit of OG Fallout, but in 3D](https://www.pcgamer.com/fallout-nuevo-mexico-is-looking-dangerously-close-to-the-spirit-of-og-fallout-but-in-3d)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
