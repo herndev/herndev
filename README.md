@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - ⏩ [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [Pro tip](http://9gag.com/gag/aBd466x)<!-- MEMES:END -->
+ - 💣 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
+ - ⏩ [Pro tip](http://9gag.com/gag/aBd466x)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 
