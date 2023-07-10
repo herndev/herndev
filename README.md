@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Synth Riders celebrates 5 years with free songs and a retrowave retrospective](https://blog.playstation.com/2023/07/10/synth-riders-celebrates-5-years-with-free-songs-and-a-retrowave-retrospective/)
- - [Black Panther is EA’s next Marvel video game](https://www.polygon.com/23787530/marvel-black-panther-video-game-ea-cliffhanger-games-announcement)
- - [Fallout Nuevo México is looking dangerously close to the spirit of OG Fallout, but in 3D](https://www.pcgamer.com/fallout-nuevo-mexico-is-looking-dangerously-close-to-the-spirit-of-og-fallout-but-in-3d)<!-- GAME:END -->
+ - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
+ - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
+ - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
