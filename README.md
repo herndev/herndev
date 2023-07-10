@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two years after being removed from Steam, 2014&#39;s strangest horror shooter is back on GOG, and it&#39;s free](https://www.pcgamer.com/two-years-after-being-removed-from-steam-2014s-strangest-horror-shooter-is-back-on-gog-and-its-free)
- - [Sega of America workers win union vote](https://www.polygon.com/23789856/sega-of-america-workers-win-union-vote-nlrb)
- - [A South Park meme is now a real Hello Kitty game](https://www.polygon.com/23787195/south-park-butters-hello-kitty-island-adventure-apple-arcade-release-date)<!-- GAME:END -->
+ - [An Alarming 87 Percent Of Retro Games Are Being Lost To Time](https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857)
+ - [Buy a Nintendo Switch, get a $25 gift card from Target or Best Buy](https://www.polygon.com/amazon-prime-day/2023/7/10/23790155/nintendo-switch-gift-card-target-best-buy-deal-sale)
+ - [When does Modern Warfare 2 and Warzone 2 season 4 reloaded start?](https://www.polygon.com/guides/23790037/modern-warfare-warzone-2-season-4-reloaded-the-boys-release-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
