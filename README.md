@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - ⏩ [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 💣 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)
+ - ⏩ [Better study harder](http://9gag.com/gag/aDYQDpK)
  - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
 
 ---
