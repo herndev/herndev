@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac RTX 4060 OC Spider-Man](https://www.pcgamer.com/zotac-geforce-rtx-4060-oc-spider-man)
- - [Five new Steam games you probably missed &lpar;July 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-10-2023)
- - [Today&#39;s Wordle hint and answer #751: Monday, July 10](https://www.pcgamer.com/wordle-answer-today-hint-751-july-10)<!-- GAME:END -->
+ - [Fallout Nuevo México is looking dangerously close to the spirit of OG Fallout, but in 3D](https://www.pcgamer.com/fallout-nuevo-mexico-is-looking-dangerously-close-to-the-spirit-of-og-fallout-but-in-3d)
+ - [Want five extra ability points when you start Diablo 4&#39;s first season? Here&#39;s how](https://www.pcgamer.com/want-five-extra-ability-points-when-you-start-diablo-4s-first-season-heres-how)
+ - [Streamer spends months training to beat a Final Fantasy 14 speedrunning world record, only for his rival to come out of a years-long retirement and destroy it in one day](https://www.pcgamer.com/streamer-spends-months-training-to-beat-a-final-fantasy-14-speedrunning-world-record-only-for-his-rival-to-come-out-of-a-years-long-retirement-and-destroy-it-in-one-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
