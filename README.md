@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
- - [OpenAI releases in-house ChatGPT plug-in Code Interpreter to all Plus subscribers, helping them analyze data, create charts, edit files, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230710/p4#a230710p4)
- - [TSMC reports Q2 revenue down 10% YoY to ~$15.3B, beating estimates of ~$15.23B due to AI chips; TSM has risen 25%+ in 2023 despite full-year revenue warnings &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230710/p3#a230710p3)<!-- TECH:END -->
+ - [Apple tiptoes onto Threads -- but hasn&#39;t fully embraced it yet](https://appleinsider.com/articles/23/07/10/apple-tiptoes-onto-threads----but-hasnt-fully-embraced-it-yet?utm_medium=rss)
+ - [How and when you can just say &#39;Siri&#39; to a Mac on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-and-when-you-can-just-say-siri-to-a-mac-on-macos-sonoma?utm_medium=rss)
+ - [Vaonis Vespera Smart Telescope review: See the stars with the help of your iPhone](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
