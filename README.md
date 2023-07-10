@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - ⏩ [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
+ - 💣 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - ⏩ [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
 
 ---
 
