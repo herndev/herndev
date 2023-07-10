@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Verstappen fined 50.000$ for touching Norris&#39; rear end](http://9gag.com/gag/adPRv7Q)
- - ⏩ [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
+ - 💣 [So hollywood and what? 95% politicians?](http://9gag.com/gag/aDYQ67G)
+ - ⏩ [Classic.](http://9gag.com/gag/a4ownDv)
+ - 👉 [I need to know If this Man is alive](http://9gag.com/gag/aeQR195)<!-- MEMES:END -->
 
 ---
 
