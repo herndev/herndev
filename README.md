@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
- - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
- - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)<!-- GAME:END -->
+ - [Zombies Invade Japan in Ed-0: Zombie Uprising, a Rogue-like Action Game Coming to Xbox Series X|S on July 13](https://news.xbox.com/en-us/2023/07/10/ed-0-zombie-uprising-coming-to-xbox-series-xs-on-july-13/)
+ - [Mega Man’s journey from Blue Bomber to bombshell](https://www.polygon.com/23780459/mega-man-x-character-design-history)
+ - [The looks that slayed hardest in Resident Evil 4, ranked](https://www.polygon.com/23774615/resident-evil-4-re4-remake-cast-best-costumes-outfits-fashion-ranked)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
