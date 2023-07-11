@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Lucovsky, former head of OS on Google&#39;s AR team, leaves, saying leadership changes and &quot;unstable commitment and vision&quot; weighed heavily on his decision &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230711/p7#a230711p7)
- - [Sources: Tata Group is close to an agreement to acquire Wistron&#39;s iPhone plant near Bengaluru as soon as August; the deal is potentially valued at $600M+ &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230711/p6#a230711p6)
- - [Personal data of potentially tens of millions of HCA Healthcare patients was stolen from an &quot;external storage location&quot; and is for sale on a data breach forum &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230711/p5#a230711p5)<!-- TECH:END -->
+ - [Google Pixels starting at just $249! Hurry and grab these Prime Day deals now.](https://www.androidauthority.com/google-pixel-deals-amazon-prime-day-2023-3344211/)
+ - [Shut up and take my money! Samsung’s best mid-range phone is now $100 off.](https://www.androidauthority.com/samsung-galaxy-a54-5g-amazon-prime-day-2023-deal-3343838/)
+ - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
