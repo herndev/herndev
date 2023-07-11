@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [47 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-1/)
- - [Prime Day: Expand your Mac&#39;s capabilities with these Thunderbolt dock discounts](https://appleinsider.com/articles/23/07/11/prime-day-expand-your-macs-capabilities-with-these-thunderbolt-dock-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [The FCC aims to stop SIM swappers with new rules](https://www.theverge.com/2023/7/11/23791183/fcc-sim-swapping-port-out-phone-hijacking-security-protection)
+ - [Roger Thomas Clark, who was Silk Road&#39;s second-in-command, behind Ross Ulbricht, is sentenced to 20 years, following his extradition from Thailand in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230711/p38#a230711p38)
+ - [Prime Day: Get your head around these best headphone deals](https://appleinsider.com/articles/23/07/11/prime-day-get-your-head-around-these-best-headphone-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
