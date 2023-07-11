@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/10/this-weeks-deals-with-gold-and-spotlight-sale-281/)
- - [Today&#39;s Wordle hint and answer #752: Tuesday, July 11](https://www.pcgamer.com/wordle-answer-today-hint-752-july-11)
- - [Afternoon Stroll](https://kotaku.com/kotaku-fine-art-concept-art-luc-courtois-illustration-f-1850625082)<!-- GAME:END -->
+ - [Best Prime Day Deals So You Stop Running Out Of Storage On Your PS5, Xbox, And Switch](https://kotaku.com/prime-day-storage-ssd-hdd-ps5-xbox-switch-steam-deck-1850623572)
+ - [Prime Day Sales: Grab Elden Ring, No Man’s Sky, And More For Cheap](https://kotaku.com/prime-day-games-best-sale-elden-ring-no-man-s-sky-1850624008)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/10/this-weeks-deals-with-gold-and-spotlight-sale-281/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
