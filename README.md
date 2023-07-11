@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s first tier 100 nightmare dungeon has been cleared on hardcore with the power of friendship, and also bone spear](https://www.pcgamer.com/diablo-4s-first-tier-100-nightmare-dungeon-has-been-cleared-on-hardcore-with-the-power-of-friendship-and-also-bone-spear)
- - [Best Prime Day Deals So You Stop Running Out Of Storage On Your PS5, Xbox, And Switch](https://kotaku.com/prime-day-storage-ssd-hdd-ps5-xbox-switch-steam-deck-1850623572)
- - [Prime Day Sales: Grab Elden Ring, No Man’s Sky, And More For Cheap](https://kotaku.com/prime-day-games-best-sale-elden-ring-no-man-s-sky-1850624008)<!-- GAME:END -->
+ - [Blade Runner tabletop RPG expansion lets you play a rogue Replicant](https://www.polygon.com/tabletop-games/23790215/blade-runner-ttrpg-expansion-fiery-angels-replicant-rebellion-release-date-price)
+ - [The best Star Wars tabletop deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23786306/star-wars-tabletop-deals)
+ - [The best Dungeons &amp; Dragons and Critical Role deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785819/dnd-dungeons-dragons-critical-role-best-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
