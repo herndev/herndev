@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [44 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)
- - [OpenAI’s DALL-E will train on Shutterstock’s library for six more years](https://www.theverge.com/2023/7/11/23791528/openai-shutterstock-images-partnership)<!-- TECH:END -->
+ - [3 Great Robot Vacuums Are On Sale for Amazon Prime Day](https://www.wired.com/story/3-robot-vacuums-deal-prime-day-2023/)
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
+ - [Sources: ByteDance will allow restricted shares held by US employees to vest before the company&#39;s IPO, in an effort to appease restless employees &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230711/p41#a230711p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
