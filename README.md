@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Backbone One for Android is 30% off during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/11/23789796/backbone-one-phone-controller-deal)
- - [IGN x ID@Xbox Digital Showcase Shows Off 20 Upcoming Games – Find Out More About Every Single One](https://news.xbox.com/en-us/2023/07/11/ign-id-xbox-games-list-recap/)
- - [History You Can Play: The Making of Karateka Is the First in a Series of Interactive Documentaries](https://news.xbox.com/en-us/2023/07/11/making-of-karateka-gold-master-series/)<!-- GAME:END -->
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
+ - [Polygon’s favorite Prime Day deals](https://www.polygon.com/amazon-prime-day/23778582/deals-gaming-movies-streaming-toys-board-games)
+ - [The best board game deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785003/board-games-tabletop-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
