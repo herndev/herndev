@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
- - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
- - [Google’s AR software leader is out over the company’s ‘unstable commitment and vision’](https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris)<!-- TECH:END -->
+ - [Flexport&#39;s former CEO Ryan Petersen is joining Founders Fund as a partner; Petersen will continue to serve as Flexport&#39;s executive chairman &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230710/p18#a230710p18)
+ - [Best Buy&#39;s Black Friday in July Deals Start Today. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
+ - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
