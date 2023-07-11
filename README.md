@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade Runner tabletop RPG expansion lets you play a rogue Replicant](https://www.polygon.com/tabletop-games/23790215/blade-runner-ttrpg-expansion-fiery-angels-replicant-rebellion-release-date-price)
- - [The best Star Wars tabletop deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23786306/star-wars-tabletop-deals)
- - [The best Dungeons &amp; Dragons and Critical Role deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785819/dnd-dungeons-dragons-critical-role-best-deals)<!-- GAME:END -->
+ - [A Link between hairstyles: How Zelda matched a hero’s masculinity to the moment](https://www.polygon.com/23779797/zelda-games-link-hairstyles)
+ - [Buy a Nintendo Switch, get a $25 gift card from Amazon, Target, or Best Buy](https://www.polygon.com/amazon-prime-day/2023/7/10/23790155/nintendo-switch-gift-card-target-best-buy-deal-sale)
+ - [Study finds around 87 percent of games are unplayable without resorting to piracy, scavenger hunts, or travelling to an archive](https://www.pcgamer.com/study-finds-over-87-percent-of-games-are-unplayable-without-resorting-to-piracy-scavenger-hunts-or-travelling-to-an-archive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
