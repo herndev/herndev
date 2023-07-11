@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Prime Day TV Deals &lpar;2023&rpar;: OLED TVs, Soundbars, Speakers](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023/)
- - [WeChat says Apple has opened a store on the platform, letting users buy iPhones, iPads, and Macs; Apple already operates a store on Alibaba&#39;s Tmall &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p10#a230711p10)
- - [36 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023/)<!-- TECH:END -->
+ - [Today only: Apple iPads plunge below $250 for Prime Day](https://www.androidauthority.com/apple-ipads-prime-day-3343656/)
+ - [To mitigate AI risks, companies should be transparent about their systems, collaborate with the industry, stress test, and share details about their progress &lpar;Nick Clegg/Financial Times&rpar;](http://www.techmeme.com/230711/p13#a230711p13)
+ - [25 Best Prime Day Laptop and Home Office Deals &lpar;2023&rpar;: Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
