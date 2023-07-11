@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [82 Absolute Best Prime Day Deals &lpar;2023&rpar;: Amazon Devices, Laptops, Robot Vacuums](https://www.wired.com/story/best-prime-day-deals-2023-1/)
- - [Record-low price on the Scribe headlines the Prime Day Kindle deals](https://www.androidauthority.com/prime-day-kindle-deals-3344360/)
- - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [47 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-1/)
+ - [Prime Day: Expand your Mac&#39;s capabilities with these Thunderbolt dock discounts](https://appleinsider.com/articles/23/07/11/prime-day-expand-your-macs-capabilities-with-these-thunderbolt-dock-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
