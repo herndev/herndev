@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony’s Inzone H9 wireless gaming headset is half off during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/11/23791114/sony-inzone-h9-gaming-headset-deal-sale)
- - [Brandon Sanderson’s best books are on sale for Prime Day 2023](https://www.polygon.com/amazon-prime-day/2023/7/11/23791037/brandon-sanderson-books-best-cosmere-deals)
- - [Minecraft YouTuber Dream Doesn&#39;t Regret Taking The Mask Off](https://kotaku.com/minecraft-youtube-dream-face-reveal-regret-smiley-mask-1850626798)<!-- GAME:END -->
+ - [Microsoft has one major hurdle left in its Activision Blizzard deal](https://www.polygon.com/23791194/microsoft-activision-blizzard-what-happens-next-cma-uk-block)
+ - [The new Ahsoka trailer goes all-in on Thrawn](https://www.polygon.com/entertainment/23791213/star-wars-ahsoka-trailer-thrawn)
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
