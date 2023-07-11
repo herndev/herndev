@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 💣 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
  - ⏩ [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
 
 ---
 
