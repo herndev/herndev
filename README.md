@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG Rolls Out Hundreds in Savings On Its Cutting-Edge OLED TVs     - CNET](https://www.cnet.com/deals/lg-rolls-out-hundreds-in-savings-on-its-cutting-edge-oled-tvs/#ftag=CAD590a51e)
  - [A look at &quot;lazy management&quot;, an alternative explanation to the claim that some tech employees drag down companies by raking in big paychecks and working little &lpar;Insider&rpar;](http://www.techmeme.com/230710/p19#a230710p19)
- - [11 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)
- - [23 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023/)<!-- TECH:END -->
+ - [11 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
