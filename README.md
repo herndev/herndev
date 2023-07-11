@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic.](http://9gag.com/gag/a4ownDv)
- - ⏩ [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 💣 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
+ - ⏩ [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->
 
 ---
 
