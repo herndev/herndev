@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
- - ⏩ [Satisfying](http://9gag.com/gag/aBd4dq1)
- - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->
+ - 💣 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
+ - ⏩ [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - 👉 [Satisfying](http://9gag.com/gag/aBd4dq1)<!-- MEMES:END -->
 
 ---
 
