@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2023: the latest news, deals, and coverage](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [23 Best Prime Day Headphone and Speaker Deals &lpar;2023&rpar;: Earbuds, Headsets, Soundbars](https://www.wired.com/story/best-amazon-prime-day-headphone-speaker-deals-2023/)<!-- TECH:END -->
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
+ - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)
+ - [Everything in The Verge merch store is on sale](https://www.theverge.com/23786140/verge-merch-store-prime-day-sale-code-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
