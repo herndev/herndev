@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Savvy, which helps secure SaaS apps from supply chain risks, data leaks via AI tools, and more, launches out of stealth with $30M in funding led by Canaan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p26#a230711p26)
- - [Elgato’s Stream Deck MK.2 has hit an all-time low of $109.99 for Prime Day](https://www.theverge.com/2023/7/11/23790481/amazon-prime-day-elgato-stream-deck-macropad-gaming-streaming-deal-sale)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)<!-- TECH:END -->
+ - [UK prosecutors accuse two teenagers of being key members of Lapsus$, which hacked Nvidia, Rockstar, and Uber in 2021 and 2022; one was found unfit for trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230711/p30#a230711p30)
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
+ - [Nothing plans to launch the Phone &lpar;2&rpar; for $599+ in the US, Europe, and the UK on July 17; the device&#39;s rear &quot;glyph&quot; lights have been segmented into zones &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/230711/p29#a230711p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
