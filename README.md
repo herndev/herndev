@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - ⏩ [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 💣 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
  - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
