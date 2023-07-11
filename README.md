@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is sensitive](http://9gag.com/gag/aDYQZy7)
- - ⏩ [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 👉 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)<!-- MEMES:END -->
+ - 💣 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
+ - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
 
