@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 things to do before Diablo 4&#39;s season 1 begins](https://www.pcgamer.com/diablo-4-season-1-tips)
- - [The best Star Wars tabletop deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23786306/star-wars-tabletop-deals)
- - [The best gaming headset deals for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791251/best-gaming-headset-deals)<!-- GAME:END -->
+ - [Diablo 4 players are doing literally billions of points of damage in single shots with bonkers &#39;Shred Druid&#39; builds](https://www.pcgamer.com/diablo-4-players-are-doing-literally-billions-of-points-of-damage-in-single-shots-with-bonkers-shred-druid-builds)
+ - [Here’s an up-close look at Vampire Survivors’ chaotic couch co-op mode, set to arrive in August](https://www.pcgamer.com/heres-an-up-close-look-at-vampire-survivors-chaotic-couch-co-op-mode-set-to-arrive-in-august)
+ - [Here&#39;s a great RTX 4070 gaming PC for $1,289 that you don&#39;t have to upgrade](https://www.pcgamer.com/heres-a-great-rtx-4070-gaming-pc-for-dollar1289-that-you-dont-have-to-upgrade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
