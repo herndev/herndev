@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - ⏩ [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [Red card...](http://9gag.com/gag/awZeLeW)<!-- MEMES:END -->
+ - 💣 [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - ⏩ [Red card...](http://9gag.com/gag/awZeLeW)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 
