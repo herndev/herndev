@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft has one major hurdle left in its Activision Blizzard deal](https://www.polygon.com/23791194/microsoft-activision-blizzard-what-happens-next-cma-uk-block)
- - [The new Ahsoka trailer goes all-in on Thrawn](https://www.polygon.com/entertainment/23791213/star-wars-ahsoka-trailer-thrawn)
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)<!-- GAME:END -->
+ - [The Backbone One for Android is 30% off during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/11/23789796/backbone-one-phone-controller-deal)
+ - [IGN x ID@Xbox Digital Showcase Shows Off 20 Upcoming Games – Find Out More About Every Single One](https://news.xbox.com/en-us/2023/07/11/ign-id-xbox-games-list-recap/)
+ - [History You Can Play: The Making of Karateka Is the First in a Series of Interactive Documentaries](https://news.xbox.com/en-us/2023/07/11/making-of-karateka-gold-master-series/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
