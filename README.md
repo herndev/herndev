@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
- - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - ⏩ [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
  - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
