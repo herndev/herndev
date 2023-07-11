@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anti-Prime Day 2023 deals](https://www.polygon.com/amazon-prime-day/23780029/deals-best-buy-walmart-target-newegg)
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [Diablo 4&#39;s hellish respec system is ruining the endgame for me](https://www.pcgamer.com/diablo-4s-hellish-respec-system-is-ruining-the-endgame-for-me)<!-- GAME:END -->
+ - [Sony’s Inzone H9 wireless gaming headset is half off during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/11/23791114/sony-inzone-h9-gaming-headset-deal-sale)
+ - [Brandon Sanderson’s best books are on sale for Prime Day 2023](https://www.polygon.com/amazon-prime-day/2023/7/11/23791037/brandon-sanderson-books-best-cosmere-deals)
+ - [Minecraft YouTuber Dream Doesn&#39;t Regret Taking The Mask Off](https://kotaku.com/minecraft-youtube-dream-face-reveal-regret-smiley-mask-1850626798)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
