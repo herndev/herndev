@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
- - ⏩ [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->
+ - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - ⏩ [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 👉 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)<!-- MEMES:END -->
 
 ---
 
