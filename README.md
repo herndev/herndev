@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexport&#39;s former CEO Ryan Petersen is joining Founders Fund as a partner; Petersen will continue to serve as Flexport&#39;s executive chairman &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230710/p18#a230710p18)
- - [Best Buy&#39;s Black Friday in July Deals Start Today. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
- - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)<!-- TECH:END -->
+ - [A look at &quot;lazy management&quot;, an alternative explanation to the claim that some tech employees drag down companies by raking in big paychecks and working little &lpar;Insider&rpar;](http://www.techmeme.com/230710/p19#a230710p19)
+ - [11 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)
+ - [23 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
