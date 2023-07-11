@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - ⏩ [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [Pro tip](http://9gag.com/gag/aBd466x)<!-- MEMES:END -->
+ - 💣 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - ⏩ [Satisfying](http://9gag.com/gag/aBd4dq1)
+ - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->
 
 ---
 
