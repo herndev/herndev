@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
+ - ⏩ [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 👉 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)<!-- MEMES:END -->
 
 ---
 
