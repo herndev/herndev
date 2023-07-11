@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Die b*tch](http://9gag.com/gag/anzGvW5)
- - ⏩ [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 👉 [What do you mean Todd](http://9gag.com/gag/aYVRMjm)<!-- MEMES:END -->
+ - 💣 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - ⏩ [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
+ - 👉 [Role-playing when you are over 30:&rpar;](http://9gag.com/gag/aeQRVLB)<!-- MEMES:END -->
 
 ---
 
