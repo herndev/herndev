@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How a substitute teacher in eastern europe looks like.](http://9gag.com/gag/avQ9WwZ)
- - ⏩ [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 💣 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
+ - ⏩ [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 
