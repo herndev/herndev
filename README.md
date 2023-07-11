@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)
- - [Everything in The Verge merch store is on sale](https://www.theverge.com/23786140/verge-merch-store-prime-day-sale-code-2023)<!-- TECH:END -->
+ - [Can banks push Bitcoin to clean up its act?](https://www.theverge.com/2023/7/11/23778688/bitcoin-energy-emissions-climate-change-banks-asset-managers-greenpeace)
+ - [Prime Day deals: MacBooks from $740, $549 M2 Mac mini, Dyson up to 36% off, more](https://appleinsider.com/articles/23/07/11/prime-day-deals-macbooks-from-740-549-m2-mac-mini-dyson-up-to-36-off-more?utm_medium=rss)
+ - [Global PC shipments declined 13.4% YoY to 61.6M in Q2 2023, the sixth consecutive quarter of decline; only Apple had positive growth, up 10.3% YoY to 5.3M units &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230711/p23#a230711p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
