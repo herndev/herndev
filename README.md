@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [Polygon’s favorite Prime Day deals](https://www.polygon.com/amazon-prime-day/23778582/deals-gaming-movies-streaming-toys-board-games)
- - [The best board game deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785003/board-games-tabletop-deals)<!-- GAME:END -->
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785032/mtg-magic-the-gathering-deals-cards-boxes-set)
+ - [New Overwatch 2 Mode Lets You Drag Your Scrub Friends Into Ranked](https://kotaku.com/overwatch-2-team-queue-competitive-ranked-restriction-1850628565)
+ - [D&amp;D deals provide everything you need to become a Dungeon Master for less than $50](https://www.polygon.com/amazon-prime-day/23791506/dnd-dungeon-dragons-master-dm-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
