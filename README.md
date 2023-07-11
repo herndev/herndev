@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Link between hairstyles: How Zelda matched a hero’s masculinity to the moment](https://www.polygon.com/23779797/zelda-games-link-hairstyles)
- - [Buy a Nintendo Switch, get a $25 gift card from Amazon, Target, or Best Buy](https://www.polygon.com/amazon-prime-day/2023/7/10/23790155/nintendo-switch-gift-card-target-best-buy-deal-sale)
- - [Study finds around 87 percent of games are unplayable without resorting to piracy, scavenger hunts, or travelling to an archive](https://www.pcgamer.com/study-finds-over-87-percent-of-games-are-unplayable-without-resorting-to-piracy-scavenger-hunts-or-travelling-to-an-archive)<!-- GAME:END -->
+ - [A staggering 1,000 pages of Starfield history has been assembled by one determined superfan](https://www.pcgamer.com/a-staggering-1000-pages-of-starfield-history-has-been-assembled-by-one-determined-superfan)
+ - [EA Sports FC reveals cover with the most jankass footballer faces you&#39;ve ever seen](https://www.pcgamer.com/ea-sports-fc-reveals-cover-with-the-most-jankass-footballer-faces-youve-ever-seen)
+ - [Useless Magikarp Is One Of The Most Valuable Pokémon Cards In New TCG Set](https://kotaku.com/pokemon-tcg-paldea-evolved-iono-card-highest-value-1850626089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
