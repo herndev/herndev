@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
  - ⏩ [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)<!-- MEMES:END -->
+ - 👉 [Pro tip](http://9gag.com/gag/aBd466x)<!-- MEMES:END -->
 
 ---
 
