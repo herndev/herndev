@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Afternoon Stroll](https://kotaku.com/kotaku-fine-art-concept-art-luc-courtois-illustration-f-1850625082)
- - [Exoprimal Deploys New Variant Suits, PvE Mode, and Upcoming Crossovers](https://news.xbox.com/en-us/2023/07/10/exoprimal-deploys-new-details/)
- - [This Diablo 4 chest wouldn&#39;t stop vomiting loot until it crashed the game](https://www.pcgamer.com/this-diablo-4-chest-wouldnt-stop-vomiting-loot-until-it-crashed-the-game)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/10/this-weeks-deals-with-gold-and-spotlight-sale-281/)
+ - [Today&#39;s Wordle hint and answer #752: Tuesday, July 11](https://www.pcgamer.com/wordle-answer-today-hint-752-july-11)
+ - [Afternoon Stroll](https://kotaku.com/kotaku-fine-art-concept-art-luc-courtois-illustration-f-1850625082)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
