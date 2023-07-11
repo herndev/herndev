@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A staggering 1,000 pages of Starfield history has been assembled by one determined superfan](https://www.pcgamer.com/a-staggering-1000-pages-of-starfield-history-has-been-assembled-by-one-determined-superfan)
- - [EA Sports FC reveals cover with the most jankass footballer faces you&#39;ve ever seen](https://www.pcgamer.com/ea-sports-fc-reveals-cover-with-the-most-jankass-footballer-faces-youve-ever-seen)
- - [Useless Magikarp Is One Of The Most Valuable Pokémon Cards In New TCG Set](https://kotaku.com/pokemon-tcg-paldea-evolved-iono-card-highest-value-1850626089)<!-- GAME:END -->
+ - [The best anti-Prime Day 2023 deals](https://www.polygon.com/amazon-prime-day/23780029/deals-best-buy-walmart-target-newegg)
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
+ - [Diablo 4&#39;s hellish respec system is ruining the endgame for me](https://www.pcgamer.com/diablo-4s-hellish-respec-system-is-ruining-the-endgame-for-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
