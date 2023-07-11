@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - ⏩ [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 👉 [Pickpocket](http://9gag.com/gag/awZe1Q1)<!-- MEMES:END -->
+ - 💣 [Classic.](http://9gag.com/gag/a4ownDv)
+ - ⏩ [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 
