@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK prosecutors accuse two teenagers of being key members of Lapsus$, which hacked Nvidia, Rockstar, and Uber in 2021 and 2022; one was found unfit for trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230711/p30#a230711p30)
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [Nothing plans to launch the Phone &lpar;2&rpar; for $599+ in the US, Europe, and the UK on July 17; the device&#39;s rear &quot;glyph&quot; lights have been segmented into zones &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/230711/p29#a230711p29)<!-- TECH:END -->
+ - [82 Absolute Best Prime Day Deals &lpar;2023&rpar;: Amazon Devices, Laptops, Robot Vacuums](https://www.wired.com/story/best-prime-day-deals-2023-1/)
+ - [Record-low price on the Scribe headlines the Prime Day Kindle deals](https://www.androidauthority.com/prime-day-kindle-deals-3344360/)
+ - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
