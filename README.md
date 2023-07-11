@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today only: Apple iPads plunge below $250 for Prime Day](https://www.androidauthority.com/apple-ipads-prime-day-3343656/)
- - [To mitigate AI risks, companies should be transparent about their systems, collaborate with the industry, stress test, and share details about their progress &lpar;Nick Clegg/Financial Times&rpar;](http://www.techmeme.com/230711/p13#a230711p13)
- - [25 Best Prime Day Laptop and Home Office Deals &lpar;2023&rpar;: Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023/)<!-- TECH:END -->
+ - [Apple targets China sales growth with new WeChat storefront](https://appleinsider.com/articles/23/07/11/apple-targets-china-sales-growth-with-new-wechat-storefront?utm_medium=rss)
+ - [36 Best Prime Day Phone and Tablet Deals &lpar;2023&rpar;: Apple iPad, Samsung Galaxy, and More](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2023/)
+ - [Amazon files a petition in the EU&#39;s General Court challenging the DSA and its &quot;large platform&quot; designation, the first US company to do so, following Zalando &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230711/p15#a230711p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
