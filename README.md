@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Multiclassing with Baldur&#39;s Gate 3&#39;s super low level cap sounds like a stressful⁠—but potentially fun⁠—way to play](https://www.pcgamer.com/multiclassing-with-baldurs-gate-3s-super-low-level-cap-sounds-like-a-stressfulbut-potentially-funway-to-play)
- - [Razer is investigating a ‘potential breach’ after hacker tries to sell ‘encryption keys, database, backend access logins’ and more for $100,000](https://www.pcgamer.com/razer-is-investigating-a-potential-breach-after-hacker-tries-to-sell-encryption-keys-database-backend-access-logins-and-more-for-dollar100000)
- - [Dave the Diver: 7 tips to turn you into a sushi master](https://www.pcgamer.com/dave-the-diver-tips)<!-- GAME:END -->
+ - [Exoprimal Deploys New Variant Suits, PvE Mode, and Upcoming Crossovers](https://news.xbox.com/en-us/2023/07/10/exoprimal-deploys-new-details/)
+ - [This Diablo 4 chest wouldn&#39;t stop vomiting loot until it crashed the game](https://www.pcgamer.com/this-diablo-4-chest-wouldnt-stop-vomiting-loot-until-it-crashed-the-game)
+ - [&#39;Indecent Image&#39; Shown During Mario Movie Screening](https://kotaku.com/super-mario-bros-movie-indecent-image-police-kids-1850624667)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
