@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Cool Games We Just Learned More About At An Xbox Showcase](https://kotaku.com/xbox-game-pass-showcase-demo-1850628773)
- - [Lance Reddick’s voice is front and center in Hellboy Web of Wyrd’s gameplay trailer](https://www.polygon.com/2023/7/11/23791681/hellboy-web-of-wyrd-gameplay-trailer-lance-reddick-xbox-showcase)
- - [The best gaming mouse deals for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
+ - [5 things to do before Diablo 4&#39;s season 1 begins](https://www.pcgamer.com/diablo-4-season-1-tips)
+ - [The best Star Wars tabletop deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23786306/star-wars-tabletop-deals)
+ - [The best gaming headset deals for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791251/best-gaming-headset-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
