@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CORE Apple Store union negotiations hit a wall of Apple&#39;s design](https://appleinsider.com/articles/23/07/11/core-apple-store-union-negotiations-hit-a-wall-of-apples-design?utm_medium=rss)
- - [AirPods firmware gets second developer beta](https://appleinsider.com/articles/23/07/11/airpods-firmware-gets-second-developer-beta?utm_medium=rss)
- - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)<!-- TECH:END -->
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
+ - [44 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)
+ - [OpenAI’s DALL-E will train on Shutterstock’s library for six more years](https://www.theverge.com/2023/7/11/23791528/openai-shutterstock-images-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
