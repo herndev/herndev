@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Magic: The Gathering deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785032/mtg-magic-the-gathering-deals-cards-boxes-set)
- - [New Overwatch 2 Mode Lets You Drag Your Scrub Friends Into Ranked](https://kotaku.com/overwatch-2-team-queue-competitive-ranked-restriction-1850628565)
- - [D&amp;D deals provide everything you need to become a Dungeon Master for less than $50](https://www.polygon.com/amazon-prime-day/23791506/dnd-dungeon-dragons-master-dm-deals)<!-- GAME:END -->
+ - [9 Cool Games We Just Learned More About At An Xbox Showcase](https://kotaku.com/xbox-game-pass-showcase-demo-1850628773)
+ - [Lance Reddick’s voice is front and center in Hellboy Web of Wyrd’s gameplay trailer](https://www.polygon.com/2023/7/11/23791681/hellboy-web-of-wyrd-gameplay-trailer-lance-reddick-xbox-showcase)
+ - [The best gaming mouse deals for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
