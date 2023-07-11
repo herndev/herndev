@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can banks push Bitcoin to clean up its act?](https://www.theverge.com/2023/7/11/23778688/bitcoin-energy-emissions-climate-change-banks-asset-managers-greenpeace)
- - [Prime Day deals: MacBooks from $740, $549 M2 Mac mini, Dyson up to 36% off, more](https://appleinsider.com/articles/23/07/11/prime-day-deals-macbooks-from-740-549-m2-mac-mini-dyson-up-to-36-off-more?utm_medium=rss)
- - [Global PC shipments declined 13.4% YoY to 61.6M in Q2 2023, the sixth consecutive quarter of decline; only Apple had positive growth, up 10.3% YoY to 5.3M units &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230711/p23#a230711p23)<!-- TECH:END -->
+ - [Savvy, which helps secure SaaS apps from supply chain risks, data leaks via AI tools, and more, launches out of stealth with $30M in funding led by Canaan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p26#a230711p26)
+ - [Elgato’s Stream Deck MK.2 has hit an all-time low of $109.99 for Prime Day](https://www.theverge.com/2023/7/11/23790481/amazon-prime-day-elgato-stream-deck-macropad-gaming-streaming-deal-sale)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
