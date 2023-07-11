@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4&#39;s first tier 100 nightmare dungeon has been cleared on hardcore with the power of friendship, and also bone spear](https://www.pcgamer.com/diablo-4s-first-tier-100-nightmare-dungeon-has-been-cleared-on-hardcore-with-the-power-of-friendship-and-also-bone-spear)
  - [Best Prime Day Deals So You Stop Running Out Of Storage On Your PS5, Xbox, And Switch](https://kotaku.com/prime-day-storage-ssd-hdd-ps5-xbox-switch-steam-deck-1850623572)
- - [Prime Day Sales: Grab Elden Ring, No Man’s Sky, And More For Cheap](https://kotaku.com/prime-day-games-best-sale-elden-ring-no-man-s-sky-1850624008)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/10/this-weeks-deals-with-gold-and-spotlight-sale-281/)<!-- GAME:END -->
+ - [Prime Day Sales: Grab Elden Ring, No Man’s Sky, And More For Cheap](https://kotaku.com/prime-day-games-best-sale-elden-ring-no-man-s-sky-1850624008)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
