@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixels starting at just $249! Hurry and grab these Prime Day deals now.](https://www.androidauthority.com/google-pixel-deals-amazon-prime-day-2023-3344211/)
- - [Shut up and take my money! Samsung’s best mid-range phone is now $100 off.](https://www.androidauthority.com/samsung-galaxy-a54-5g-amazon-prime-day-2023-deal-3343838/)
- - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
+ - [12 Best Prime Day TV Deals &lpar;2023&rpar;: OLED TVs, Soundbars, Speakers](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023/)
+ - [WeChat says Apple has opened a store on the platform, letting users buy iPhones, iPads, and Macs; Apple already operates a store on Alibaba&#39;s Tmall &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p10#a230711p10)
+ - [36 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
