@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - ⏩ [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)<!-- MEMES:END -->
+ - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - ⏩ [Pro tip](http://9gag.com/gag/aBd466x)
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 
