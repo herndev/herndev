@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC aims to stop SIM swappers with new rules](https://www.theverge.com/2023/7/11/23791183/fcc-sim-swapping-port-out-phone-hijacking-security-protection)
- - [Roger Thomas Clark, who was Silk Road&#39;s second-in-command, behind Ross Ulbricht, is sentenced to 20 years, following his extradition from Thailand in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230711/p38#a230711p38)
- - [Prime Day: Get your head around these best headphone deals](https://appleinsider.com/articles/23/07/11/prime-day-get-your-head-around-these-best-headphone-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla settles class action lawsuit on Solar Roof price increase](https://www.theverge.com/2023/7/11/23791301/tesla-energy-solar-roof-price-class-action-lawsuit-settlement)
+ - [India&#39;s Goods and Services Tax Council agrees to levy a 28% indirect tax on online gaming, casinos, and horse racing, rejecting that they are &quot;games of skill&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/230711/p39#a230711p39)
+ - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
