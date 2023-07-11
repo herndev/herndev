@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla settles class action lawsuit on Solar Roof price increase](https://www.theverge.com/2023/7/11/23791301/tesla-energy-solar-roof-price-class-action-lawsuit-settlement)
- - [India&#39;s Goods and Services Tax Council agrees to levy a 28% indirect tax on online gaming, casinos, and horse racing, rejecting that they are &quot;games of skill&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/230711/p39#a230711p39)
- - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)<!-- TECH:END -->
+ - [CORE Apple Store union negotiations hit a wall of Apple&#39;s design](https://appleinsider.com/articles/23/07/11/core-apple-store-union-negotiations-hit-a-wall-of-apples-design?utm_medium=rss)
+ - [AirPods firmware gets second developer beta](https://appleinsider.com/articles/23/07/11/airpods-firmware-gets-second-developer-beta?utm_medium=rss)
+ - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
