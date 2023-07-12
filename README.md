@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft and UK regulator return to negotiating table over Activision](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [How to upgrade weapons in Dave the Diver](https://www.pcgamer.com/dave-the-diver-upgrade-weapons)
- - [Oxenfree 2 struggles to bottle lightning twice](https://www.polygon.com/reviews/23791491/oxenfree-2-lost-signals-review-release-date)<!-- GAME:END -->
+ - [The best deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23778586/deals-movies-gaming-streaming-toys-board-games)
+ - [Vampire Survivors set for hefty FPS boost as its new engine finally gets a release date: &#39;It&#39;s like a completely different game&#39;](https://www.pcgamer.com/vampire-survivors-set-for-hefty-fps-boost-as-its-new-engine-finally-gets-a-release-date-its-like-a-completely-different-game)
+ - [Baldur&#39;s Gate 3 will let you treat your companions terribly, including biting off their limbs](https://www.pcgamer.com/baldurs-gate-3-will-let-you-treat-your-companions-terribly-including-biting-off-their-limbs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
