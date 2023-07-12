@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A mid-2023 crypto crime update: inflows to illicit entities drop 65% YoY, scammers net ~$3.3B less than H1 2022, and ransomware took $175.8M more than H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230712/p23#a230712p23)
- - [15 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-1/)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Roku Channel is now streaming on Google TV](https://www.theverge.com/2023/7/12/23792307/roku-channel-android-free-ad-supported-tv-streaming)
+ - [InvGate, a SaaS startup offering IT service and asset management tools, raised $35M led by Riverwood, its first external funding since its founding in 2009 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230712/p27#a230712p27)
+ - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
