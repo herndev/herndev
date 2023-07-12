@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI-powered notes app is now called NotebookLM, and it’s launching today](https://www.theverge.com/2023/7/12/23792382/google-notebooklm-tailwind-ai-notes)
- - [This cute retro handheld comes in Capcom and Taito flavors](https://www.theverge.com/2023/7/12/23792463/super-pocket-retro-handheld-games-price-date)
- - [Xbox will now let you clip and report audio to clean up Call of Duty lobbies](https://www.theverge.com/2023/7/12/23792338/xbox-voice-chat-moderation-trust-and-safety-interview)<!-- TECH:END -->
+ - [Deals: get a free $30 gift card with a Costco membership](https://appleinsider.com/articles/22/12/10/deals-get-a-free-30-gift-card-with-a-costco-membership?utm_medium=rss)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
+ - [Apple TV+ gains 51 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
