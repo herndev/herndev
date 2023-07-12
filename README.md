@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - ⏩ [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - 👉 [Tell me a Joke.](http://9gag.com/gag/axomv7b)<!-- MEMES:END -->
+ - 💣 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)
+ - ⏩ [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 👉 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)<!-- MEMES:END -->
 
 ---
 
