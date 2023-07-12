@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23778586/deals-movies-gaming-streaming-toys-board-games)
- - [Vampire Survivors set for hefty FPS boost as its new engine finally gets a release date: &#39;It&#39;s like a completely different game&#39;](https://www.pcgamer.com/vampire-survivors-set-for-hefty-fps-boost-as-its-new-engine-finally-gets-a-release-date-its-like-a-completely-different-game)
- - [Baldur&#39;s Gate 3 will let you treat your companions terribly, including biting off their limbs](https://www.pcgamer.com/baldurs-gate-3-will-let-you-treat-your-companions-terribly-including-biting-off-their-limbs)<!-- GAME:END -->
+ - [The best anti-Prime Day 2023 deals](https://www.polygon.com/amazon-prime-day/23780029/deals-best-buy-walmart-target-newegg)
+ - [The best Prime Day DVD, Blu-ray, and streaming deals of 2023](https://www.polygon.com/amazon-prime-day/23779775/deals-dvd-blu-ray-streaming-movie-tv-anime)
+ - [FF14 glamour hunters: the sneakerheads who kill God in the name of fashion](https://www.polygon.com/23787027/ff14-glamour-hunters-collections)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
