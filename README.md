@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2 durability test shows you only have some things to fear](https://www.androidauthority.com/nothing-phone-2-durability-test-3344553/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
- - [Indian IT giant Wipro plans to spend $1B over the next three years to train its 250K employees in AI and integrate the technology into its product offerings &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230712/p8#a230712p8)<!-- TECH:END -->
+ - [An Indian official says the Foxconn-Vedanta venture ended due to &quot;internal issues&quot; and &quot;doesn&#39;t affect&quot; the chip program; Foxconn plans to look for new partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230712/p11#a230712p11)
+ - [Reddit’s Contributor Program could earn you real money for your Reddit karma](https://www.androidauthority.com/reddit-contributor-program-3343397/)
+ - [30 Best Amazon Prime Day Tech Deals &lpar;2023&rpar;: Phones, Webcams, and More](https://www.wired.com/story/best-prime-day-tech-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
