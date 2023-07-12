@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Over 8,500 People, The Population Of A Small Town, Worked On Diablo IV](https://kotaku.com/diablo-4-credits-staff-blizzard-large-assassin-s-creed-1850629620)
- - [LEGO Half-Life 2 Is Now Playable On Steam](https://kotaku.com/half-life-2-lego-mod-pc-steam-valve-half-life-1850629721)
- - [Diablo 4 players are doing literally billions of points of damage in single shots with bonkers &#39;Shred Druid&#39; builds](https://www.pcgamer.com/diablo-4-players-are-doing-literally-billions-of-points-of-damage-in-single-shots-with-bonkers-shred-druid-builds)<!-- GAME:END -->
+ - [Dave the Diver review](https://www.pcgamer.com/dave-the-diver-review)
+ - [Our favorite Prime Day deals under $100](https://www.pcgamer.com/prime-day-2023-under-100-dollars-deals)
+ - [LEGO Half-Life 2 Is Now Playable On Steam](https://kotaku.com/half-life-2-lego-mod-pc-steam-valve-half-life-1850629721)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
