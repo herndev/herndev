@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Great Robot Vacuums Are On Sale for Amazon Prime Day](https://www.wired.com/story/3-robot-vacuums-deal-prime-day-2023/)
- - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [Sources: ByteDance will allow restricted shares held by US employees to vest before the company&#39;s IPO, in an effort to appease restless employees &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230711/p41#a230711p41)<!-- TECH:END -->
+ - [101+ Best Prime Day Deals on Gear Our Reviewers Love](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
+ - [Best Buy&#39;s Black Friday in July Sale Has Started. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
