@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank-owned Arm is in talks to bring in Nvidia as an anchor investor while it presses ahead with plans for a New York IPO as soon as September &lpar;Financial Times&rpar;](http://www.techmeme.com/230712/p3#a230712p3)
- - [Here are all the new Nothing OS 2.0 features you need to know about](https://www.androidauthority.com/nothing-os-2-features-availability-3344528/)
- - [Microsoft says Chinese hackers gained access to US government email accounts and had access to some accounts for a month before the breach was detected &lpar;New York Times&rpar;](http://www.techmeme.com/230712/p2#a230712p2)<!-- TECH:END -->
+ - [Galaxy Z Flip 5, Fold 5 prices leak: A price hike could be on the cards](https://www.androidauthority.com/samsung-galaxy-z-flip-5-fold-5-price-leak-3344205/)
+ - [Research firms say Huawei is plotting a return to the US 5G smartphone market by the end of 2023 using its own chip design tools and SMIC&#39;s chipmaking process &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/230712/p7#a230712p7)
+ - [Emails: Google employee no. 8 Urs Holzle will step back from management after 24 years, becoming an &quot;individual contributor&quot; amid a shakeup at Google Cloud &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230712/p6#a230712p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
