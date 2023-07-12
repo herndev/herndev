@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
- - ⏩ [Cutting a paper with this thing called &#39;gyro-cut&#39;](http://9gag.com/gag/aeQRm0B)
- - 👉 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)<!-- MEMES:END -->
+ - 💣 [No pun intended](http://9gag.com/gag/ay2v658)
+ - ⏩ [Holy heckin hell](http://9gag.com/gag/a2KO8vd)
+ - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
 
 ---
 
