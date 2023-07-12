@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Roku Channel is now streaming on Google TV](https://www.theverge.com/2023/7/12/23792307/roku-channel-android-free-ad-supported-tv-streaming)
- - [InvGate, a SaaS startup offering IT service and asset management tools, raised $35M led by Riverwood, its first external funding since its founding in 2009 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230712/p27#a230712p27)
- - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)<!-- TECH:END -->
+ - [Google’s AI-powered notes app is now called NotebookLM, and it’s launching today](https://www.theverge.com/2023/7/12/23792382/google-notebooklm-tailwind-ai-notes)
+ - [This cute retro handheld comes in Capcom and Taito flavors](https://www.theverge.com/2023/7/12/23792463/super-pocket-retro-handheld-games-price-date)
+ - [Xbox will now let you clip and report audio to clean up Call of Duty lobbies](https://www.theverge.com/2023/7/12/23792338/xbox-voice-chat-moderation-trust-and-safety-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
