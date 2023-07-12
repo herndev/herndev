@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reissues Rapid Security Response for iOS 16.5.1 and macOS 13.4.1](https://appleinsider.com/articles/23/07/12/apple-reissues-rapid-security-response-for-ios-1651-and-macos-1341?utm_medium=rss)
- - [18 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023-2/)
- - [Sources reveal how contractors audit Bard&#39;s answers in subjects ranging from medication doses to state laws, sometimes with deadlines as short as three minutes &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230712/p35#a230712p35)<!-- TECH:END -->
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
+ - [Hongo 2K 16-inch portable monitor review: screen real estate on the cheap](https://appleinsider.com/articles/23/07/12/hongo-2k-16-inch-portable-monitor-review-screen-real-estate-on-the-cheap?utm_medium=rss)
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
