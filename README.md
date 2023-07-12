@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)<!-- MEMES:END -->
+ - 💣 [Fair N Square](http://9gag.com/gag/aNwjV8w)
+ - ⏩ [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - 👉 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)<!-- MEMES:END -->
 
 ---
 
