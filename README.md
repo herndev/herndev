@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #753: Wednesday, July 12](https://www.pcgamer.com/wordle-answer-today-hint-753-july-12)
- - [Dave the Diver review](https://www.pcgamer.com/dave-the-diver-review)
- - [Our favorite Prime Day deals under $100](https://www.pcgamer.com/prime-day-2023-under-100-dollars-deals)<!-- GAME:END -->
+ - [Oxenfree 2 struggles to bottle lightning twice](https://www.polygon.com/reviews/23791491/oxenfree-2-lost-signals-review-release-date)
+ - [Ultima Online is grilling, chilling, and still thriving all these years later](https://www.pcgamer.com/ultima-online-is-grilling-chilling-and-still-thriving-all-these-years-later)
+ - [Today&#39;s Wordle hint and answer #753: Wednesday, July 12](https://www.pcgamer.com/wordle-answer-today-hint-753-july-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
