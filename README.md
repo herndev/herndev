@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
- - [Deep discounts on board games available for Prime Day](https://www.polygon.com/amazon-prime-day/23785003/board-games-tabletop-deals)
- - [This Upcoming Pixel RPG May Be The Best Wrestling Game Of The Year](https://kotaku.com/wrestlequest-review-rpg-muchacho-man-wwe-2k-1850632893)<!-- GAME:END -->
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
+ - [One of the biggest games in the world, Roblox, is coming to Meta Quest VR](https://www.pcgamer.com/one-of-the-biggest-games-in-the-world-roblox-is-coming-to-meta-quest-vr)
+ - [Some great gaming mice are on sale for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
