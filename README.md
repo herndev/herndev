@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - ⏩ [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
+ - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - ⏩ [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 
