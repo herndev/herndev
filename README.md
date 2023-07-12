@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to upgrade weapons in Dave the Diver](https://www.pcgamer.com/dave-the-diver-upgrade-weapons)
  - [Oxenfree 2 struggles to bottle lightning twice](https://www.polygon.com/reviews/23791491/oxenfree-2-lost-signals-review-release-date)
- - [Oxenfree II: Lost Signals: The Kotaku Review](https://kotaku.com/oxenfree-2-lost-signals-review-night-school-netflix-1850628828)
- - [Oxenfree 2: Lost Signals review](https://www.pcgamer.com/oxenfree-2-lost-signals-review)<!-- GAME:END -->
+ - [Oxenfree II: Lost Signals: The Kotaku Review](https://kotaku.com/oxenfree-2-lost-signals-review-night-school-netflix-1850628828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
