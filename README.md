@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No pun intended](http://9gag.com/gag/ay2v658)
- - ⏩ [Holy heckin hell](http://9gag.com/gag/a2KO8vd)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - ⏩ [This is a working QR code.](http://9gag.com/gag/aDYQ6BG)
+ - 👉 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)<!-- MEMES:END -->
 
 ---
 
