@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye](http://9gag.com/gag/a1POEvG)
- - ⏩ [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - ⏩ [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 👉 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)<!-- MEMES:END -->
 
 ---
 
