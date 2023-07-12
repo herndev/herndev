@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fair N Square](http://9gag.com/gag/aNwjV8w)
- - ⏩ [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - 💣 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - ⏩ [True](http://9gag.com/gag/aWGRbv2)
  - 👉 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)<!-- MEMES:END -->
 
 ---
