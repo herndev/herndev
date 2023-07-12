@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - ⏩ [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
+ - ⏩ [Colonial Architecture](http://9gag.com/gag/anzGrbo)
+ - 👉 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)<!-- MEMES:END -->
 
 ---
 
