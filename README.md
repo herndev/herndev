@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
- - [Vah Rudania Divine Helm location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23792434/vah-rudania-divine-helm-location)
- - [Vah Naboris Divine Helm location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23792439/vah-naboris-divine-helm-location)<!-- GAME:END -->
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
+ - [Save $80 on an OLED Switch during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/12/23793064/nintendo-switch-oled-amazon-prime-day-deal-sale)
+ - [When This Twitch Streamer Falls In Only Up!, He Falls Into A Dunk Tank IRL Too](https://kotaku.com/only-up-dunk-tank-twitch-livestream-keatdawg-1850633749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
