@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming monitor deals of Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791393/gaming-monitors-1440p-4k-deals)
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [The best deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23778586/deals-movies-gaming-streaming-toys-board-games)<!-- GAME:END -->
+ - [PlayStation Plus Game Catalog  &amp; Classics for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/12/playstation-plus-game-catalog-classics-for-july-it-takes-two-sniper-elite-5-twisted-metal/)
+ - [Stand-up comedian and actor Sarah Silverman joins trio suing OpenAI and Meta over claims their AI models &#39;ingested and used&#39; copyrighted work without permission](https://www.pcgamer.com/stand-up-comedian-and-actor-sarah-silverman-joins-trio-suing-openai-and-meta-over-claims-their-ai-models-ingested-and-used-copyrighted-work-without-permission)
+ - [Diablo IV: Three Go-To Druid Builds That&#39;ll Crush Everything [Update]](https://kotaku.com/diablo-4-best-druid-build-guide-leveling-bulwark-shred-1850612248)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
