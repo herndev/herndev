@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite 5 headlines PlayStation Plus Extra and Premium for July](https://www.polygon.com/23792583/playstation-ps-plus-extra-games-july-2023-premium-collection)
- - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
- - [Prime Day is a great time to get a gaming headset on sale](https://www.polygon.com/amazon-prime-day/23791251/best-gaming-headset-deals)<!-- GAME:END -->
+ - [TV cliffhangers are a lost art](https://www.polygon.com/23792536/tv-marvel-secret-invasion-cliffhangers-are-bad-now-why)
+ - [Aaron Rodgers’ New York Jets are this year’s Hard Knocks team](https://www.polygon.com/23792650/aaron-rodgers-new-york-jets-hard-knocks-team)
+ - [Some great gaming mice are on sale for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
