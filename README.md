@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TV cliffhangers are a lost art](https://www.polygon.com/23792536/tv-marvel-secret-invasion-cliffhangers-are-bad-now-why)
- - [Aaron Rodgers’ New York Jets are this year’s Hard Knocks team](https://www.polygon.com/23792650/aaron-rodgers-new-york-jets-hard-knocks-team)
- - [Some great gaming mice are on sale for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
+ - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
+ - [Deep discounts on board games available for Prime Day](https://www.polygon.com/amazon-prime-day/23785003/board-games-tabletop-deals)
+ - [This Upcoming Pixel RPG May Be The Best Wrestling Game Of The Year](https://kotaku.com/wrestlequest-review-rpg-muchacho-man-wwe-2k-1850632893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
