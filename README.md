@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Indian official says the Foxconn-Vedanta venture ended due to &quot;internal issues&quot; and &quot;doesn&#39;t affect&quot; the chip program; Foxconn plans to look for new partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230712/p11#a230712p11)
- - [Reddit’s Contributor Program could earn you real money for your Reddit karma](https://www.androidauthority.com/reddit-contributor-program-3343397/)
- - [30 Best Amazon Prime Day Tech Deals &lpar;2023&rpar;: Phones, Webcams, and More](https://www.wired.com/story/best-prime-day-tech-deals/)<!-- TECH:END -->
+ - [No cap: Google finna yeet mid chatbot focused on Gen Z](https://www.androidauthority.com/google-chatbot-gen-z-3344570/)
+ - [A look at the global freelancer labor force on sites like 99designs, some of whom are early generative AI adopters and are most at risk of being replaced by AI &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230712/p13#a230712p13)
+ - [58 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
