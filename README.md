@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [One of the biggest games in the world, Roblox, is coming to Meta Quest VR](https://www.pcgamer.com/one-of-the-biggest-games-in-the-world-roblox-is-coming-to-meta-quest-vr)
- - [Some great gaming mice are on sale for Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791497/best-gaming-mouse-wired-wireless-deals)<!-- GAME:END -->
+ - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
+ - [Vah Rudania Divine Helm location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23792434/vah-rudania-divine-helm-location)
+ - [Vah Naboris Divine Helm location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23792439/vah-naboris-divine-helm-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
