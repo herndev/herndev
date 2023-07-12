@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 best smartwatch deals of Amazon Prime Day 2023](https://www.androidauthority.com/5-best-smartwatch-deals-amazon-prime-day-2023-3344840/)
- - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-2/)
- - [Google is spelling out rules for blockchain-based apps on Android](https://www.theverge.com/2023/7/12/23792720/android-google-play-blockchain-crypto-nft-apps)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [The Mac sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
+ - [Microsoft tests an AI hub for the Windows 11 app store](https://www.theverge.com/2023/7/12/23792814/microsoft-store-ai-hub-windows-11-insiders-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
