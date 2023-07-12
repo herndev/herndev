@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get a free $30 gift card with a Costco membership](https://appleinsider.com/articles/22/12/10/deals-get-a-free-30-gift-card-with-a-costco-membership?utm_medium=rss)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Apple TV+ gains 51 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Project Tailwind is now NotebookLM, available to try today](https://www.androidauthority.com/project-tailwind-notebooklm-3344791/)
+ - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)
+ - [B&amp;H Photo makes a strong case for upgrading your Apple gear with up to $2,000 off devices](https://appleinsider.com/articles/23/07/12/bh-photo-makes-a-strong-case-for-upgrading-your-apple-gear-with-up-to-2000-off-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
