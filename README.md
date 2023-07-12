@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Game Catalog  &amp; Classics for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/12/playstation-plus-game-catalog-classics-for-july-it-takes-two-sniper-elite-5-twisted-metal/)
- - [Stand-up comedian and actor Sarah Silverman joins trio suing OpenAI and Meta over claims their AI models &#39;ingested and used&#39; copyrighted work without permission](https://www.pcgamer.com/stand-up-comedian-and-actor-sarah-silverman-joins-trio-suing-openai-and-meta-over-claims-their-ai-models-ingested-and-used-copyrighted-work-without-permission)
- - [Diablo IV: Three Go-To Druid Builds That&#39;ll Crush Everything [Update]](https://kotaku.com/diablo-4-best-druid-build-guide-leveling-bulwark-shred-1850612248)<!-- GAME:END -->
+ - [Sniper Elite 5 headlines PlayStation Plus Extra and Premium for July](https://www.polygon.com/23792583/playstation-ps-plus-extra-games-july-2023-premium-collection)
+ - [Get controllers, headsets, and more gaming accessories on sale during Prime Day](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)
+ - [Prime Day is a great time to get a gaming headset on sale](https://www.polygon.com/amazon-prime-day/23791251/best-gaming-headset-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
