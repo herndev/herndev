@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Collective, a financial management service for freelancers offering bookkeeping, payroll, and tax tools, raised $50M, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p49#a230711p49)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
+ - [Twitter&#39;s best defense against Threads may be to refocus on news and reactions from people you follow, leaving growth via algorithmic feeds to Threads &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230711/p50#a230711p50)
+ - [Netflix announces new feature for victims of password-sharing crackdown](https://www.androidauthority.com/netflix-profile-transfer-password-sharing-3344526/)
+ - [The Legend of Zelda: Tears of the Kingdom is on sale for Prime Day](https://www.theverge.com/2023/6/20/23745958/legend-of-zelda-tears-of-the-kingdom-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
