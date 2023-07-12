@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linux distribution company SUSE says it&#39;s creating a hard fork of Red Hat Enterprise Linux and plans to invest $10M into the project over the coming years &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230711/p47#a230711p47)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [The Dyson Corrale, the Best Luxury Hair Straightener, Is On Sale for Prime Day](https://www.wired.com/story/dyson-corrale-deal-prime-day-2023/)<!-- TECH:END -->
+ - [Collective, a financial management service for freelancers offering bookkeeping, payroll, and tax tools, raised $50M, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p49#a230711p49)
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
