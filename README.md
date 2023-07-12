@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [Save $80 on an OLED Switch during Prime Day](https://www.polygon.com/amazon-prime-day/2023/7/12/23793064/nintendo-switch-oled-amazon-prime-day-deal-sale)
- - [When This Twitch Streamer Falls In Only Up!, He Falls Into A Dunk Tank IRL Too](https://kotaku.com/only-up-dunk-tank-twitch-livestream-keatdawg-1850633749)<!-- GAME:END -->
+ - [Team Fortress 2’s big Summer Update is live with 14 new maps and 25 cosmetics, and you bet Valve made absolutely none of them](https://www.pcgamer.com/team-fortress-2s-big-summer-update-is-live-with-14-new-maps-and-25-cosmetics-and-you-bet-valve-made-absolutely-none-of-them)
+ - [Call of Duty: Warzone 2 is adding literal superpowers for a limited time](https://www.pcgamer.com/call-of-duty-warzone-2-is-adding-literal-superpowers-for-a-limited-time)
+ - [Ride 5: Get Ready to Hit the Track in the Ultimate Motorcycle Racing Game Featuring a Career Mode for Everyone](https://news.xbox.com/en-us/2023/07/12/ride-5-the-ultimate-motorcycle-racing-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
