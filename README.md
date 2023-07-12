@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - ⏩ [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
- - 👉 [Goodbye](http://9gag.com/gag/a1POEvG)<!-- MEMES:END -->
+ - 💣 [Red card...](http://9gag.com/gag/awZeLeW)
+ - ⏩ [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 👉 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)<!-- MEMES:END -->
 
 ---
 
