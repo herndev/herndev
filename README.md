@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - ⏩ [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 💣 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - ⏩ [Cutting a paper with this thing called &#39;gyro-cut&#39;](http://9gag.com/gag/aeQRm0B)
+ - 👉 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)<!-- MEMES:END -->
 
 ---
 
