@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - ⏩ [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 👉 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)<!-- MEMES:END -->
+ - 💣 [Why you always lying](http://9gag.com/gag/a7qn9mq)
+ - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 
