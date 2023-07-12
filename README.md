@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [KindOfLogic](http://9gag.com/gag/aYVRP2V)
- - ⏩ [No pun intended](http://9gag.com/gag/ay2v658)
- - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
+ - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - ⏩ [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 👉 [Tell me a Joke.](http://9gag.com/gag/axomv7b)<!-- MEMES:END -->
 
 ---
 
