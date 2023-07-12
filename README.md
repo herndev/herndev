@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
- - [Ransomware Attacks Are on the Rise, Again](https://www.wired.com/story/ransomware-attacks-rise-2023/)
- - [Google hands over its tool for estimating flight emissions to an independent advisory group](https://www.theverge.com/2023/7/12/23791508/google-travel-impact-model-advisory-panel-flight-emissions)<!-- TECH:END -->
+ - [A mid-2023 crypto crime update: inflows to illicit entities drop 65% YoY, scammers net ~$3.3B less than H1 2022, and ransomware took $175.8M more than H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230712/p23#a230712p23)
+ - [15 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-1/)
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
