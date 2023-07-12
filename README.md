@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Magic: The Gathering deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785032/mtg-magic-the-gathering-deals-cards-boxes-set)
- - [The best board game deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23785003/board-games-tabletop-deals)
- - [The best Prime Day DVD, Blu-ray, and streaming deals of 2023](https://www.polygon.com/amazon-prime-day/23779775/deals-dvd-blu-ray-streaming-movie-tv-anime)<!-- GAME:END -->
+ - [The best gaming monitor deals of Prime Day 2023](https://www.polygon.com/amazon-prime-day/23791393/gaming-monitors-1440p-4k-deals)
+ - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
+ - [The best deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23778586/deals-movies-gaming-streaming-toys-board-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
