@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Project Tailwind is now NotebookLM, available to try today](https://www.androidauthority.com/project-tailwind-notebooklm-3344791/)
- - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)
- - [B&amp;H Photo makes a strong case for upgrading your Apple gear with up to $2,000 off devices](https://appleinsider.com/articles/23/07/12/bh-photo-makes-a-strong-case-for-upgrading-your-apple-gear-with-up-to-2000-off-devices?utm_medium=rss)<!-- TECH:END -->
+ - [The 5 best smartwatch deals of Amazon Prime Day 2023](https://www.androidauthority.com/5-best-smartwatch-deals-amazon-prime-day-2023-3344840/)
+ - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-2/)
+ - [Google is spelling out rules for blockchain-based apps on Android](https://www.theverge.com/2023/7/12/23792720/android-google-play-blockchain-crypto-nft-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
