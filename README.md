@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Oxenfree 2 struggles to bottle lightning twice](https://www.polygon.com/reviews/23791491/oxenfree-2-lost-signals-review-release-date)
- - [Ultima Online is grilling, chilling, and still thriving all these years later](https://www.pcgamer.com/ultima-online-is-grilling-chilling-and-still-thriving-all-these-years-later)
- - [Today&#39;s Wordle hint and answer #753: Wednesday, July 12](https://www.pcgamer.com/wordle-answer-today-hint-753-july-12)<!-- GAME:END -->
+ - [Oxenfree II: Lost Signals: The Kotaku Review](https://kotaku.com/oxenfree-2-lost-signals-review-night-school-netflix-1850628828)
+ - [Oxenfree 2: Lost Signals review](https://www.pcgamer.com/oxenfree-2-lost-signals-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
