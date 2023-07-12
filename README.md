@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No cap: Google finna yeet mid chatbot focused on Gen Z](https://www.androidauthority.com/google-chatbot-gen-z-3344570/)
- - [A look at the global freelancer labor force on sites like 99designs, some of whom are early generative AI adopters and are most at risk of being replaced by AI &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230712/p13#a230712p13)
- - [58 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-2/)<!-- TECH:END -->
+ - [These epic Bose Prime Day speaker deals end at midnight](https://www.androidauthority.com/bose-speaker-prime-day-deals-3344510/)
+ - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
+ - [Oxenfree II is a perfect spooky sequel — and one of Netflix’s best games](https://www.theverge.com/23787249/oxenfree-2-lost-signals-review-netflix-playstation-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
