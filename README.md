@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - ⏩ [Goodbye](http://9gag.com/gag/a1POEvG)
- - 👉 [Why you always lying](http://9gag.com/gag/a7qn9mq)<!-- MEMES:END -->
+ - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 
