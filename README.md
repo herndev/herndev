@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
- - ⏩ [Colonial Architecture](http://9gag.com/gag/anzGrbo)
- - 👉 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)<!-- MEMES:END -->
+ - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - ⏩ [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
+ - 👉 [Goodbye](http://9gag.com/gag/a1POEvG)<!-- MEMES:END -->
 
 ---
 
