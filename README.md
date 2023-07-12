@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red card...](http://9gag.com/gag/awZeLeW)
- - ⏩ [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
- - 👉 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)<!-- MEMES:END -->
+ - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - ⏩ [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 👉 [Why you always lying](http://9gag.com/gag/a7qn9mq)<!-- MEMES:END -->
 
 ---
 
