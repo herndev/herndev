@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - ⏩ [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 👉 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)<!-- MEMES:END -->
+ - ⏩ [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
 
 ---
 
