@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [Hongo 2K 16-inch portable monitor review: screen real estate on the cheap](https://appleinsider.com/articles/23/07/12/hongo-2k-16-inch-portable-monitor-review-screen-real-estate-on-the-cheap?utm_medium=rss)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
+ - [29 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
+ - [The best Amazon Prime Day deals you can still get](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
+ - [Apple&#39;s Lisa Jackson talks racial equity and climate in new interview](https://appleinsider.com/articles/23/07/12/apples-lisa-jackson-talks-racial-equity-and-climate-in-new-interview?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
