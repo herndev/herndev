@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [101+ Best Prime Day Deals on Gear Our Reviewers Love](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
- - [Best Buy&#39;s Black Friday in July Sale Has Started. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Linux distribution company SUSE says it&#39;s creating a hard fork of Red Hat Enterprise Linux and plans to invest $10M into the project over the coming years &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230711/p47#a230711p47)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
+ - [The Dyson Corrale, the Best Luxury Hair Straightener, Is On Sale for Prime Day](https://www.wired.com/story/dyson-corrale-deal-prime-day-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
