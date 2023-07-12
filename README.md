@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - ⏩ [This is a working QR code.](http://9gag.com/gag/aDYQ6BG)
- - 👉 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)<!-- MEMES:END -->
+ - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - ⏩ [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 👉 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)<!-- MEMES:END -->
 
 ---
 
