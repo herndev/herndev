@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s best defense against Threads may be to refocus on news and reactions from people you follow, leaving growth via algorithmic feeds to Threads &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230711/p50#a230711p50)
- - [Netflix announces new feature for victims of password-sharing crackdown](https://www.androidauthority.com/netflix-profile-transfer-password-sharing-3344526/)
- - [The Legend of Zelda: Tears of the Kingdom is on sale for Prime Day](https://www.theverge.com/2023/6/20/23745958/legend-of-zelda-tears-of-the-kingdom-deal-sale)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
+ - [Critics say FTC Chair Lina Khan&#39;s take-it-to-the-courts strategy is flawed, ahead of a House Judiciary Committee hearing to &quot;examine mismanagement of the FTC&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230711/p52#a230711p52)
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
