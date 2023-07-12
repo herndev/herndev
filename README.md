@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #753: Wednesday, July 12](https://www.pcgamer.com/wordle-answer-today-hint-753-july-12)
  - [Dave the Diver review](https://www.pcgamer.com/dave-the-diver-review)
- - [Our favorite Prime Day deals under $100](https://www.pcgamer.com/prime-day-2023-under-100-dollars-deals)
- - [LEGO Half-Life 2 Is Now Playable On Steam](https://kotaku.com/half-life-2-lego-mod-pc-steam-valve-half-life-1850629721)<!-- GAME:END -->
+ - [Our favorite Prime Day deals under $100](https://www.pcgamer.com/prime-day-2023-under-100-dollars-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
