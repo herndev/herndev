@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These epic Bose Prime Day speaker deals end at midnight](https://www.androidauthority.com/bose-speaker-prime-day-deals-3344510/)
- - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [Oxenfree II is a perfect spooky sequel — and one of Netflix’s best games](https://www.theverge.com/23787249/oxenfree-2-lost-signals-review-netflix-playstation-switch)<!-- TECH:END -->
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
+ - [Ransomware Attacks Are on the Rise, Again](https://www.wired.com/story/ransomware-attacks-rise-2023/)
+ - [Google hands over its tool for estimating flight emissions to an independent advisory group](https://www.theverge.com/2023/7/12/23791508/google-travel-impact-model-advisory-panel-flight-emissions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
