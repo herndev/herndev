@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI DLC Might Be Back On The Table And Fans Know What They Want](https://kotaku.com/final-fantasy-16-dlc-expansion-ps5-leviathan-ff16-1850637104)
- - [Dave the Diver is exactly the kind of out-of-nowhere hit that makes gaming exciting](https://www.pcgamer.com/dave-the-diver-is-exactly-the-kind-of-out-of-nowhere-hit-that-makes-gaming-exciting)
- - [WoW Classic troll obliterates max-level hardcore raiding team in &#39;legendary and degenerate&#39; act that truly belongs in EVE Online](https://www.pcgamer.com/wow-classic-troll-obliterates-max-level-hardcore-raiding-team-in-legendary-and-degenerate-act-that-truly-belongs-in-eve-online)<!-- GAME:END -->
+ - [Why the Baldur’s Gate 3 bear sex scene reveal hit so hard](https://www.polygon.com/23793804/baldurs-gate-3-halsin-bear-sex-scene-memes-romance)
+ - [Explore the Stars: Everspace 2 Comes to Xbox Game Pass This August](https://news.xbox.com/en-us/2023/07/13/everspace-2-comes-to-xbox-game-pass-this-august/)
+ - [The Great Mission: Impossible Movies Deserve A Great New Game](https://kotaku.com/mission-impossible-dead-reckoning-tom-cruise-movie-game-1850637210)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
