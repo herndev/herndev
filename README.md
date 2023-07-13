@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It’s not over yet: FTC appeals court’s ruling on Microsoft-Activision deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
  - [Today&#39;s Wordle hint and answer #754: Thursday, July 13](https://www.pcgamer.com/wordle-answer-today-hint-754-july-13)
- - [Exploring The Art Of The Anime Noodle Arm](https://kotaku.com/anime-noodle-arm-cowboy-bebop-azumanga-daioh-nagatoro-1850630167)
- - [Bloodborne for your tabletop is on sale while you wait for Bloodborne for your PC](https://www.pcgamer.com/bloodborne-for-your-tabletop-is-on-sale-while-you-wait-for-bloodborne-for-your-pc)<!-- GAME:END -->
+ - [Exploring The Art Of The Anime Noodle Arm](https://kotaku.com/anime-noodle-arm-cowboy-bebop-azumanga-daioh-nagatoro-1850630167)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
