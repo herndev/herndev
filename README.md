@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - ⏩ [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
+ - ⏩ [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
 
 ---
 
