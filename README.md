@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the Mission: Impossible – Dead Reckoning Part Two news we’ve heard so far](https://www.polygon.com/23790318/mission-impossible-dead-reckoning-part-2-release-cast-news)
  - [It’s not over yet: FTC appeals court’s ruling on Microsoft-Activision deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Today&#39;s Wordle hint and answer #754: Thursday, July 13](https://www.pcgamer.com/wordle-answer-today-hint-754-july-13)
- - [Exploring The Art Of The Anime Noodle Arm](https://kotaku.com/anime-noodle-arm-cowboy-bebop-azumanga-daioh-nagatoro-1850630167)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #754: Thursday, July 13](https://www.pcgamer.com/wordle-answer-today-hint-754-july-13)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
