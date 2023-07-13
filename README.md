@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products?utm_medium=rss)
- - [Samsung could be testing ChatGPT integration for its own browser &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-internet-browser-chatgpt-integration-apk-teardown-3345116/)
- - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)<!-- TECH:END -->
+ - [It’s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
+ - [Nothing Phone 2: all the updates on the road to a flashy new phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
+ - [Samsung Galaxy Tab S9 FE Plus leaked renders showcase Samsung’s cheaper tablet](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-leaked-renders-3345100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
