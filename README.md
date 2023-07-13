@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
- - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
- - 👉 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)<!-- MEMES:END -->
+ - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
+ - ⏩ [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
+ - 👉 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)<!-- MEMES:END -->
 
 ---
 
