@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Time Rifts work in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-time-rifts)
- - [Bring retro valuables back to life in The Repair House](https://www.pcgamer.com/bring-retro-valuables-back-to-life-in-the-repair-house)
- - [Asus admits the ROG Ally&#39;s MicroSD card reader may run into thermal issues](https://www.pcgamer.com/asus-admits-the-rog-allys-microsd-card-reader-may-run-into-thermal-issues)<!-- GAME:END -->
+ - [Deus Ex’s Eliza Cassan became my burlesque muse](https://www.polygon.com/23791680/deus-ex-human-revolution-eliza-cassan-cosplay-burlesque-dancer-ai)
+ - [This wild battle royale mode set in a stadium looks like the best thing to happen to wrestling games since WWF No Mercy](https://www.pcgamer.com/this-wild-battle-royale-mode-set-in-a-stadium-looks-like-the-best-thing-to-happen-to-wrestling-games-since-wwf-no-mercy)
+ - [PlayStation Store: June 2023’s top downloads](https://blog.playstation.com/2023/07/13/playstation-store-june-2023s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
