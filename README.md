@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)
- - [Diablo 4 players are clowning on its hardest boss using ungodly broken builds](https://www.pcgamer.com/diablo-4-players-are-clowning-on-its-hardest-boss-using-ungodly-broken-builds)
- - [Silent Hill: Ascension&#39;s proposed voting system makes it feel like a bizarre mass social experiment](https://www.pcgamer.com/silent-hill-ascensions-proposed-voting-system-makes-it-feel-like-a-bizarre-mass-social-experiment)<!-- GAME:END -->
+ - [Final Fantasy XVI DLC Might Be Back On The Table And Fans Know What They Want](https://kotaku.com/final-fantasy-16-dlc-expansion-ps5-leviathan-ff16-1850637104)
+ - [Dave the Diver is exactly the kind of out-of-nowhere hit that makes gaming exciting](https://www.pcgamer.com/dave-the-diver-is-exactly-the-kind-of-out-of-nowhere-hit-that-makes-gaming-exciting)
+ - [WoW Classic troll obliterates max-level hardcore raiding team in &#39;legendary and degenerate&#39; act that truly belongs in EVE Online](https://www.pcgamer.com/wow-classic-troll-obliterates-max-level-hardcore-raiding-team-in-legendary-and-degenerate-act-that-truly-belongs-in-eve-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
