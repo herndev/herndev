@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
- - ⏩ [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
+ - 💣 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 
