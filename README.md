@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One way or another](http://9gag.com/gag/aeQRR8q)
- - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - ⏩ [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
 
 ---
 
