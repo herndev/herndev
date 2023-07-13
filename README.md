@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day deals on AirTag, Apple Watch, AirPods, Macs &amp; software have been extended, save up to $2,000](https://appleinsider.com/articles/23/07/13/prime-day-deals-on-airtag-apple-watch-airpods-macs-software-have-been-extended-save-up-to-2000?utm_medium=rss)
- - [OpenAI will use Associated Press news stories to train its models](https://www.theverge.com/2023/7/13/23793810/openai-associated-press-ai-models)
- - [The 512GB Galaxy S23 Ultra is cheaper than on Prime Day at $400 off](https://www.androidauthority.com/512gb-samsung-galaxy-s23-ultra-deal-3345186/)<!-- TECH:END -->
+ - [Meet Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)
+ - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)
+ - [Get a pristine-condition iPhone 14 Plus for just $730](https://www.androidauthority.com/iphone-14-plus-deal-3345198/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
