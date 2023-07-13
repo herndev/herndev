@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Mission: Impossible – Dead Reckoning Part Two news we’ve heard so far](https://www.polygon.com/23790318/mission-impossible-dead-reckoning-part-2-release-cast-news)
- - [It’s not over yet: FTC appeals court’s ruling on Microsoft-Activision deal](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Today&#39;s Wordle hint and answer #754: Thursday, July 13](https://www.pcgamer.com/wordle-answer-today-hint-754-july-13)<!-- GAME:END -->
+ - [How Time Rifts work in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-time-rifts)
+ - [Bring retro valuables back to life in The Repair House](https://www.pcgamer.com/bring-retro-valuables-back-to-life-in-the-repair-house)
+ - [Asus admits the ROG Ally&#39;s MicroSD card reader may run into thermal issues](https://www.pcgamer.com/asus-admits-the-rog-allys-microsd-card-reader-may-run-into-thermal-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
