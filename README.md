@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - ⏩ [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
+ - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - ⏩ [`Him` from Power Puff Girls cartoon. Devil was depicted as male dressing as female manipulating small girls with his creepy voice. 90s were spot on](http://9gag.com/gag/a4owwK6)
+ - 👉 [Goodbye](http://9gag.com/gag/a1POEvG)<!-- MEMES:END -->
 
 ---
 
