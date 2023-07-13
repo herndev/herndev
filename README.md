@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - ⏩ [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
+ - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - ⏩ [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 ---
 
