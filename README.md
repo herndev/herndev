@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [66 Amazon Prime Day Deals You Can Still Get for Under $50     - CNET](https://www.cnet.com/deals/best-prime-day-2023-deals-under-50/#ftag=CAD590a51e)
- - [Your next Wi-Fi router could be a light bulb thanks to the new LiFi framework](https://appleinsider.com/articles/23/07/13/your-next-wi-fi-router-could-be-a-light-bulb-thanks-to-the-new-lifi-framework?utm_medium=rss)
- - [Microsoft names Aptos as the next default font for its Microsoft 365 productivity apps, replacing Calibri; Aptos was available for two years as Bierstadt &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230713/p36#a230713p36)<!-- TECH:END -->
+ - [India&#39;s hefty tax on online games may kneecap an entire industry](https://appleinsider.com/articles/23/07/13/indias-hefty-tax-on-online-games-may-kneecap-an-entire-industry?utm_medium=rss)
+ - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)
+ - [After the court ruling, Coinbase, Kraken, and Bitstamp resume XRP trading on their US exchanges, while Gemini is exploring the listing of the token &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230713/p38#a230713p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
