@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - ⏩ [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 👉 [Miscalculated](http://9gag.com/gag/anzGD2q)<!-- MEMES:END -->
+ - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - ⏩ [I&#39;ve achieved the dream. Even gonna get a cow...](http://9gag.com/gag/a9qDBwo)
+ - 👉 [He pulled a sneaky one on the weather forecast](http://9gag.com/gag/amARMGX)<!-- MEMES:END -->
 
 ---
 
