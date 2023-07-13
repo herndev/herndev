@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
- - [Nothing Phone 2: all the updates on the road to a flashy new phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
- - [Samsung Galaxy Tab S9 FE Plus leaked renders showcase Samsung’s cheaper tablet](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-leaked-renders-3345100/)<!-- TECH:END -->
+ - [Prime Day deals on AirTag, Apple Watch, AirPods, Macs &amp; software have been extended, save up to $2,000](https://appleinsider.com/articles/23/07/13/prime-day-deals-on-airtag-apple-watch-airpods-macs-software-have-been-extended-save-up-to-2000?utm_medium=rss)
+ - [OpenAI will use Associated Press news stories to train its models](https://www.theverge.com/2023/7/13/23793810/openai-associated-press-ai-models)
+ - [The 512GB Galaxy S23 Ultra is cheaper than on Prime Day at $400 off](https://www.androidauthority.com/512gb-samsung-galaxy-s23-ultra-deal-3345186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
