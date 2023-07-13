@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai enhances Ioniq 5 with new performance N variant](https://www.theverge.com/2023/7/13/23793801/hyundai-ioniq-5-n-performance-ev-announcement)
- - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
- - [SAG-AFTRA goes on strike at midnight tonight](https://www.theverge.com/2023/7/13/23792030/sag-aftra-strike-amptp)<!-- TECH:END -->
+ - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
+ - [Twitter starts paying verified creators who have had 5M+ impressions per month for three months a share of revenue from ads served in the replies to their posts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230713/p35#a230713p35)
+ - [Elon Musk sues four unknown individuals for scraping Twitter’s data](https://www.theverge.com/2023/7/13/23794163/elon-musk-lawsuit-data-scraping-twitter-x-corp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
