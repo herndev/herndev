@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why you always lying](http://9gag.com/gag/a7qn9mq)
- - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - ⏩ [End of racism ..... Wait what...](http://9gag.com/gag/arm8BE5)
+ - 👉 [Colonial Architecture](http://9gag.com/gag/anzGrbo)<!-- MEMES:END -->
 
 ---
 
