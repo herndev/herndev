@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [29 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [The best Amazon Prime Day deals you can still get](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [Apple&#39;s Lisa Jackson talks racial equity and climate in new interview](https://appleinsider.com/articles/23/07/12/apples-lisa-jackson-talks-racial-equity-and-climate-in-new-interview?utm_medium=rss)<!-- TECH:END -->
+ - [The FTC files to appeal a US court ruling that cleared the way for Microsoft to buy Activision Blizzard; the existing TRO expires on July 14 at 11:59pm PT &lpar;The Verge&rpar;](http://www.techmeme.com/230712/p36#a230712p36)
+ - [IAM CORE files another Unfair Labor Practice charge against Apple with NLRB](https://appleinsider.com/articles/23/07/12/iam-core-files-another-unfair-labor-practice-charge-against-apple-with-nlrb?utm_medium=rss)
+ - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
