@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
- - ⏩ [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 👉 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)<!-- MEMES:END -->
+ - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - ⏩ [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 👉 [Miscalculated](http://9gag.com/gag/anzGD2q)<!-- MEMES:END -->
 
 ---
 
