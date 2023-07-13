@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Painting chicken wire black](http://9gag.com/gag/adPRRzQ)
- - ⏩ [Cap?](http://9gag.com/gag/a9qD22K)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 💣 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
+ - ⏩ [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 👉 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)<!-- MEMES:END -->
 
 ---
 
