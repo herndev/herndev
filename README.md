@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex’s Eliza Cassan became my burlesque muse](https://www.polygon.com/23791680/deus-ex-human-revolution-eliza-cassan-cosplay-burlesque-dancer-ai)
- - [This wild battle royale mode set in a stadium looks like the best thing to happen to wrestling games since WWF No Mercy](https://www.pcgamer.com/this-wild-battle-royale-mode-set-in-a-stadium-looks-like-the-best-thing-to-happen-to-wrestling-games-since-wwf-no-mercy)
- - [PlayStation Store: June 2023’s top downloads](https://blog.playstation.com/2023/07/13/playstation-store-june-2023s-top-downloads/)<!-- GAME:END -->
+ - [Everything Ryan Gosling has said about playing — no, becoming — Ken for the Barbie movie](https://www.polygon.com/23791156/barbie-ryan-gosling-ken-everything-quote-casting-said)
+ - [Team Fortress 2 smashes all-time player record while fans hail plump seal as &#39;the best thing they&#39;ve ever added to the game&#39;](https://www.pcgamer.com/team-fortress-2-smashes-all-time-player-record-while-fans-hail-plump-seal-as-the-best-thing-theyve-ever-added-to-the-game)
+ - [Bungie wins landmark lawsuit against player who harassed Destiny staff](https://www.polygon.com/23793493/bungie-destiny-2-harassment-lawsuit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
