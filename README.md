@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logic Pro and Final Cut Pro for iPad are no longer available for users in Russia](https://appleinsider.com/articles/23/07/13/logic-pro-and-final-cut-pro-for-ipad-are-no-longer-available-for-users-in-russia?utm_medium=rss)
- - [Adobe’s $20 billion Figma bid is under threat from UK antitrust regulators](https://www.theverge.com/2023/7/13/23793969/adobe-figma-merger-acquisition-uk-cma-regulator-investigation)
- - [Adobe: US shoppers spent $12.7B during Amazon&#39;s Prime Day, up 6.1% YoY but below estimates of 9.5% growth; an increasing share of customers used BNPL services &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p32#a230713p32)<!-- TECH:END -->
+ - [Hyundai enhances Ioniq 5 with new performance N variant](https://www.theverge.com/2023/7/13/23793801/hyundai-ioniq-5-n-performance-ev-announcement)
+ - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
+ - [SAG-AFTRA goes on strike at midnight tonight](https://www.theverge.com/2023/7/13/23792030/sag-aftra-strike-amptp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
