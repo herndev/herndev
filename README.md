@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bloodborne for your tabletop is on sale while you wait for Bloodborne for your PC](https://www.pcgamer.com/bloodborne-for-your-tabletop-is-on-sale-while-you-wait-for-bloodborne-for-your-pc)
  - [Our Favorite Cosplay From Dokomi Germany](https://kotaku.com/dokomi-germany-cosplay-one-piece-league-legends-video-1850634285)
- - [The Twisted Metal TV show trailer has not raised my expectations for the Twisted Metal TV show](https://www.pcgamer.com/twisted-metal-tv-show-trailer)
- - [Secret Invasion should just rip off Call of Duty’s most controversial level already](https://www.polygon.com/23792504/secret-invasion-call-of-duty-no-russian-skrulls)<!-- GAME:END -->
+ - [The Twisted Metal TV show trailer has not raised my expectations for the Twisted Metal TV show](https://www.pcgamer.com/twisted-metal-tv-show-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
