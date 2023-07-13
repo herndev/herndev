@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy releases cheeky app to keep VanMoof e-bike riders on the road](https://www.theverge.com/2023/7/13/23793591/cowboy-vanmoof-key-app-download-ios-android)
- - [Apple&#39;s macOS saw a dramatic upturn in 2022 worldwide](https://appleinsider.com/articles/23/07/13/apples-macos-saw-a-dramatic-upturn-in-2022-worldwide?utm_medium=rss)
- - [Deals: $1,400 off M1 Max MacBook Pro, iMacs up to 30% off, M2 MacBook Air $929, iPhone 14 Plus up to $170 off, more](https://appleinsider.com/articles/23/07/13/deals-1400-off-m1-max-macbook-pro-imacs-up-to-30-off-m2-macbook-air-929-iphone-14-plus-up-to-170-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products?utm_medium=rss)
+ - [Samsung could be testing ChatGPT integration for its own browser &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-internet-browser-chatgpt-integration-apk-teardown-3345116/)
+ - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
