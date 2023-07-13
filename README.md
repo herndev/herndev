@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
- - ⏩ [End of racism ..... Wait what...](http://9gag.com/gag/arm8BE5)
- - 👉 [Colonial Architecture](http://9gag.com/gag/anzGrbo)<!-- MEMES:END -->
+ - 💣 [Why you always lying](http://9gag.com/gag/a7qn9mq)
+ - ⏩ [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
+ - 👉 [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)<!-- MEMES:END -->
 
 ---
 
