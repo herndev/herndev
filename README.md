@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Ryan Gosling has said about playing — no, becoming — Ken for the Barbie movie](https://www.polygon.com/23791156/barbie-ryan-gosling-ken-everything-quote-casting-said)
- - [Team Fortress 2 smashes all-time player record while fans hail plump seal as &#39;the best thing they&#39;ve ever added to the game&#39;](https://www.pcgamer.com/team-fortress-2-smashes-all-time-player-record-while-fans-hail-plump-seal-as-the-best-thing-theyve-ever-added-to-the-game)
- - [Bungie wins landmark lawsuit against player who harassed Destiny staff](https://www.polygon.com/23793493/bungie-destiny-2-harassment-lawsuit)<!-- GAME:END -->
+ - [What We Do in the Shadows is a hangout show now](https://www.polygon.com/23792915/what-we-do-shadows-season-5-review)
+ - [God help us, they&#39;re remastering Gex](https://www.pcgamer.com/god-help-us-theyre-remastering-gex)
+ - [Team Fortress 2 smashes all-time player record while fans hail plump seal as &#39;the best thing they&#39;ve ever added to the game&#39;](https://www.pcgamer.com/team-fortress-2-smashes-all-time-player-record-while-fans-hail-plump-seal-as-the-best-thing-theyve-ever-added-to-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
