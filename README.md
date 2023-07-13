@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - ⏩ [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
- - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
+ - 💣 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - ⏩ [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 ---
 
