@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAM CORE files another unfair labor practice charge against Apple with NLRB](https://appleinsider.com/articles/23/07/12/iam-core-files-another-unfair-labor-practice-charge-against-apple-with-nlrb?utm_medium=rss)
- - [Some VCs reflect on the industry slowdown; QED Investors co-founder Frank Rotman estimates that up to 80% of VC firms are in strategically challenged positions &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/230713/p14#a230713p14)
- - [Document: the FTC sends OpenAI a 20-page demand for records on the risks of its AI models and a March 2023 security incident over payment-related information &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230713/p13#a230713p13)<!-- TECH:END -->
+ - [The UK CMA opens an in-depth investigation into Adobe&#39;s $20B Figma deal after Adobe would not offer any remedies to CMA concerns, setting a December 27 deadline &lpar;Reuters&rpar;](http://www.techmeme.com/230713/p17#a230713p17)
+ - [EA Sports FC 24: All the latest news on EA’s first post-FIFA soccer title](https://www.theverge.com/2023/7/13/23793477/ea-sports-fc-24-fifa-association-football-soccer)
+ - [Huawei reports $560M in revenue from patent licensing deals in 2023, its first disclosure of such income, and spent 25% of its 2022 sales on R&amp;D, or ~$22.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p16#a230713p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
