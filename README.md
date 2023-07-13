@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)
- - [&#39;World of Warcraft&#39; Has a Lot to Teach the Twitter Clones](https://www.wired.com/story/twitter-threads-platforms-games/)
- - [The SEC sues ex-Celsius Network CEO Alex Mashinsky and the company over selling unregistered crypto securities; a source says Mashinsky was arrested on Thursday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p21#a230713p21)<!-- TECH:END -->
+ - [Cowboy releases cheeky app to keep VanMoof e-bike riders on the road](https://www.theverge.com/2023/7/13/23793591/cowboy-vanmoof-key-app-download-ios-android)
+ - [Apple&#39;s macOS saw a dramatic upturn in 2022 worldwide](https://appleinsider.com/articles/23/07/13/apples-macos-saw-a-dramatic-upturn-in-2022-worldwide?utm_medium=rss)
+ - [Deals: $1,400 off M1 Max MacBook Pro, iMacs up to 30% off, M2 MacBook Air $929, iPhone 14 Plus up to $170 off, more](https://appleinsider.com/articles/23/07/13/deals-1400-off-m1-max-macbook-pro-imacs-up-to-30-off-m2-macbook-air-929-iphone-14-plus-up-to-170-off-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
