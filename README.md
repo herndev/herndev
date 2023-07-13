@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
- - ⏩ [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
+ - 💣 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
+ - ⏩ [Goodbye](http://9gag.com/gag/a1POEvG)
  - 👉 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)<!-- MEMES:END -->
 
 ---
