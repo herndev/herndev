@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)
- - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)
- - [Get a pristine-condition iPhone 14 Plus for just $730](https://www.androidauthority.com/iphone-14-plus-deal-3345198/)<!-- TECH:END -->
+ - [Logic Pro and Final Cut Pro for iPad are no longer available for users in Russia](https://appleinsider.com/articles/23/07/13/logic-pro-and-final-cut-pro-for-ipad-are-no-longer-available-for-users-in-russia?utm_medium=rss)
+ - [Adobe’s $20 billion Figma bid is under threat from UK antitrust regulators](https://www.theverge.com/2023/7/13/23793969/adobe-figma-merger-acquisition-uk-cma-regulator-investigation)
+ - [Adobe: US shoppers spent $12.7B during Amazon&#39;s Prime Day, up 6.1% YoY but below estimates of 9.5% growth; an increasing share of customers used BNPL services &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p32#a230713p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
