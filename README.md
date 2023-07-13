@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - ⏩ [Goodbye](http://9gag.com/gag/a1POEvG)
- - 👉 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)<!-- MEMES:END -->
+ - 💣 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
+ - ⏩ [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - 👉 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)<!-- MEMES:END -->
 
 ---
 
