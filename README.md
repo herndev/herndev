@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - ⏩ [I&#39;ve achieved the dream. Even gonna get a cow...](http://9gag.com/gag/a9qDBwo)
- - 👉 [He pulled a sneaky one on the weather forecast](http://9gag.com/gag/amARMGX)<!-- MEMES:END -->
+ - 💣 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - ⏩ [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
 
 ---
 
