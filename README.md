@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 3 heads toward a massive battle and Henry Cavill’s departure](https://www.polygon.com/23793696/witcher-season-3-henry-cavill-part-2-release-date)
- - [Genshin Impact actors say they&#39;re &#39;struggling&#39; to pay rent as payment is withheld from them for at least four months](https://www.pcgamer.com/genshin-impact-actors-say-theyre-struggling-to-pay-rent-as-payment-is-withheld-from-them-for-at-least-four-months)
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)<!-- GAME:END -->
+ - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)
+ - [Diablo 4 players are clowning on its hardest boss using ungodly broken builds](https://www.pcgamer.com/diablo-4-players-are-clowning-on-its-hardest-boss-using-ungodly-broken-builds)
+ - [Silent Hill: Ascension&#39;s proposed voting system makes it feel like a bizarre mass social experiment](https://www.pcgamer.com/silent-hill-ascensions-proposed-voting-system-makes-it-feel-like-a-bizarre-mass-social-experiment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
