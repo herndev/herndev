@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Fortress 2’s big Summer Update is live with 14 new maps and 25 cosmetics, and you bet Valve made absolutely none of them](https://www.pcgamer.com/team-fortress-2s-big-summer-update-is-live-with-14-new-maps-and-25-cosmetics-and-you-bet-valve-made-absolutely-none-of-them)
- - [Call of Duty: Warzone 2 is adding literal superpowers for a limited time](https://www.pcgamer.com/call-of-duty-warzone-2-is-adding-literal-superpowers-for-a-limited-time)
- - [Ride 5: Get Ready to Hit the Track in the Ultimate Motorcycle Racing Game Featuring a Career Mode for Everyone](https://news.xbox.com/en-us/2023/07/12/ride-5-the-ultimate-motorcycle-racing-game/)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dokomi Germany](https://kotaku.com/dokomi-germany-cosplay-one-piece-league-legends-video-1850634285)
+ - [The Twisted Metal TV show trailer has not raised my expectations for the Twisted Metal TV show](https://www.pcgamer.com/twisted-metal-tv-show-trailer)
+ - [Secret Invasion should just rip off Call of Duty’s most controversial level already](https://www.polygon.com/23792504/secret-invasion-call-of-duty-no-russian-skrulls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
