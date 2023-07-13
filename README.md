@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Necromancer One-Shots Hardest Boss &lpar;Twice&rpar;](https://kotaku.com/diablo-iv-uber-lilith-boss-fight-one-shot-necromancer-1850637855)
- - [Bungie wins $500,000 from ‘racist shitstain’ who harassed and threatened Destiny 2 community manager](https://www.pcgamer.com/bungie-wins-dollar500000-from-racist-shitstain-who-harassed-and-threatened-destiny-2-community-manager)
- - [Hollywood’s actors are officially on strike](https://www.polygon.com/23791719/actors-strike-2023-sag-screen-actors-guild)<!-- GAME:END -->
+ - [Diablo 4&#39;s worst type of dungeon is now griefing players via a bug](https://www.pcgamer.com/diablo-4s-worst-type-of-dungeon-is-now-griefing-players-via-a-bug)
+ - [The Best And Worst Witcher Season 3 Looks](https://kotaku.com/witcher-season-3-part-two-costumes-geralt-ciri-yennefer-1850637808)
+ - [EA Sports FC 24 gets its first gameplay trailer and fans don’t like it any more than the jankass cover art](https://www.pcgamer.com/ea-sports-fc-24-gets-its-first-gameplay-trailer-and-fans-dont-like-it-any-more-than-the-jank-ass-cover-art)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
