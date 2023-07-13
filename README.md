@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC files to appeal a US court ruling that cleared the way for Microsoft to buy Activision Blizzard; the existing TRO expires on July 14 at 11:59pm PT &lpar;The Verge&rpar;](http://www.techmeme.com/230712/p36#a230712p36)
- - [IAM CORE files another Unfair Labor Practice charge against Apple with NLRB](https://appleinsider.com/articles/23/07/12/iam-core-files-another-unfair-labor-practice-charge-against-apple-with-nlrb?utm_medium=rss)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
+ - [The best Prime Day 2023 phone deals that are still available](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [The best Prime Day deals you can still grab before midnight](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
+ - [The best Prime Day deals you can still get on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
