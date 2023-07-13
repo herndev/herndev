@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why you always lying](http://9gag.com/gag/a7qn9mq)
- - ⏩ [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - 👉 [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)<!-- MEMES:END -->
+ - 💣 [Painting chicken wire black](http://9gag.com/gag/adPRRzQ)
+ - ⏩ [Cap?](http://9gag.com/gag/a9qD22K)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 
