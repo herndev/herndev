@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA opens an in-depth investigation into Adobe&#39;s $20B Figma deal after Adobe would not offer any remedies to CMA concerns, setting a December 27 deadline &lpar;Reuters&rpar;](http://www.techmeme.com/230713/p17#a230713p17)
- - [EA Sports FC 24: All the latest news on EA’s first post-FIFA soccer title](https://www.theverge.com/2023/7/13/23793477/ea-sports-fc-24-fifa-association-football-soccer)
- - [Huawei reports $560M in revenue from patent licensing deals in 2023, its first disclosure of such income, and spent 25% of its 2022 sales on R&amp;D, or ~$22.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p16#a230713p16)<!-- TECH:END -->
+ - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)
+ - [&#39;World of Warcraft&#39; Has a Lot to Teach the Twitter Clones](https://www.wired.com/story/twitter-threads-platforms-games/)
+ - [The SEC sues ex-Celsius Network CEO Alex Mashinsky and the company over selling unregistered crypto securities; a source says Mashinsky was arrested on Thursday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p21#a230713p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
