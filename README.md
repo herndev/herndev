@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phantom Liberty Is Undoing One Key Thing That Cyberpunk Got Right](https://kotaku.com/cyberpunk-2077-phantom-liberty-netflix-edgerunners-1850638286)
- - [Stray Gods has changed its release date to avoid Baldur’s Gate 3, which changed its release date to avoid Starfield](https://www.pcgamer.com/stray-gods-has-changed-its-release-date-to-avoid-baldurs-gate-3-which-changed-its-release-date-to-avoid-starfield)
- - [Baldur&#39;s Gate 3 devs say don&#39;t bother playing Early Access now because your progress gets wiped in 3 weeks](https://www.pcgamer.com/baldurs-gate-3-early-access-saves-do-not-carry-over-full-game)<!-- GAME:END -->
+ - [FTC Blasted By Congress And Gamers For Doing Its Job](https://kotaku.com/microsoft-ftc-xbox-activision-congress-appeal-blizzard-1850638519)
+ - [You&#39;d better believe House Flipper 2 was the most played Steam Next Fest demo](https://www.pcgamer.com/youd-better-believe-house-flipper-2-was-the-most-played-steam-next-fest-demo)
+ - [Phantom Liberty Is Undoing One Key Thing That Cyberpunk Got Right](https://kotaku.com/cyberpunk-2077-phantom-liberty-netflix-edgerunners-1850638286)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
