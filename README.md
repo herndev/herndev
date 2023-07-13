@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the Baldur’s Gate 3 bear sex scene reveal hit so hard](https://www.polygon.com/23793804/baldurs-gate-3-halsin-bear-sex-scene-memes-romance)
- - [Explore the Stars: Everspace 2 Comes to Xbox Game Pass This August](https://news.xbox.com/en-us/2023/07/13/everspace-2-comes-to-xbox-game-pass-this-august/)
- - [The Great Mission: Impossible Movies Deserve A Great New Game](https://kotaku.com/mission-impossible-dead-reckoning-tom-cruise-movie-game-1850637210)<!-- GAME:END -->
+ - [Diablo IV Necromancer One-Shots Hardest Boss &lpar;Twice&rpar;](https://kotaku.com/diablo-iv-uber-lilith-boss-fight-one-shot-necromancer-1850637855)
+ - [Bungie wins $500,000 from ‘racist shitstain’ who harassed and threatened Destiny 2 community manager](https://www.pcgamer.com/bungie-wins-dollar500000-from-racist-shitstain-who-harassed-and-threatened-destiny-2-community-manager)
+ - [Hollywood’s actors are officially on strike](https://www.polygon.com/23791719/actors-strike-2023-sag-screen-actors-guild)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
