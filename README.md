@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings Tap to Pay to UK iPhone users](https://appleinsider.com/articles/23/07/13/apple-brings-tap-to-pay-to-uk-iphone-users?utm_medium=rss)
- - [UNESCO calls for regulation of AI-based neurotechnology; research shows private investments in Neuralink and others reached $7.3B in 2020, up ~20x since 2010 &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230713/p11#a230713p11)
- - [Commission-free investing platform Public.com launches in the UK, the Robinhood rival&#39;s first expansion outside the US, letting investors trade 5K+ US stocks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p10#a230713p10)<!-- TECH:END -->
+ - [IAM CORE files another unfair labor practice charge against Apple with NLRB](https://appleinsider.com/articles/23/07/12/iam-core-files-another-unfair-labor-practice-charge-against-apple-with-nlrb?utm_medium=rss)
+ - [Some VCs reflect on the industry slowdown; QED Investors co-founder Frank Rotman estimates that up to 80% of VC firms are in strategically challenged positions &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/230713/p14#a230713p14)
+ - [Document: the FTC sends OpenAI a 20-page demand for records on the risks of its AI models and a March 2023 security incident over payment-related information &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230713/p13#a230713p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
