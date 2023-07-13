@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
- - ⏩ [POook !!](http://9gag.com/gag/a4owxR6)
- - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
+ - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
+ - ⏩ [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 ---
 
