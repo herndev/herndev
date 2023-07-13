@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Exploring The Art Of The Anime Noodle Arm](https://kotaku.com/anime-noodle-arm-cowboy-bebop-azumanga-daioh-nagatoro-1850630167)
  - [Bloodborne for your tabletop is on sale while you wait for Bloodborne for your PC](https://www.pcgamer.com/bloodborne-for-your-tabletop-is-on-sale-while-you-wait-for-bloodborne-for-your-pc)
- - [Our Favorite Cosplay From Dokomi Germany](https://kotaku.com/dokomi-germany-cosplay-one-piece-league-legends-video-1850634285)
- - [The Twisted Metal TV show trailer has not raised my expectations for the Twisted Metal TV show](https://www.pcgamer.com/twisted-metal-tv-show-trailer)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dokomi Germany](https://kotaku.com/dokomi-germany-cosplay-one-piece-league-legends-video-1850634285)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
