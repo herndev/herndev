@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - ⏩ [Title](http://9gag.com/gag/adPRbOM)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - ⏩ [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
+ - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
 
 ---
 
