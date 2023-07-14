@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
- - ⏩ [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 👉 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)<!-- MEMES:END -->
+ - 💣 [Yup](http://9gag.com/gag/a5X5y4G)
+ - ⏩ [Nature, you scare me](http://9gag.com/gag/aMEqWPW)
+ - 👉 [Ooh dats deep](http://9gag.com/gag/abvRd2r)<!-- MEMES:END -->
 
 ---
 
