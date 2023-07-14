@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RPG Delays Launch To Avoid Competing With Baldur&#39;s Gate 3](https://kotaku.com/baldurs-gate-3-stray-gods-release-date-larian-dnd-rpg-1850640600)
- - [The new OneXFly certainly makes the ROG Ally look like a chonky boi](https://www.pcgamer.com/the-new-onexfly-certainly-makes-the-rog-ally-look-like-a-chonky-boi)
- - [Besieged Disney CCG maker brands suit against it &#39;the legal equivalent of alchemy&#39; as it plays the hotshot lawyer card](https://www.pcgamer.com/besieged-disney-ccg-maker-brands-suit-against-it-the-legal-equivalent-of-alchemy-as-it-plays-the-hotshot-lawyer-card)<!-- GAME:END -->
+ - [How to customise your warlock pets in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-warlock-pet-customization)
+ - [We gave this game 3 out of 100 in 1994, and now it&#39;s getting a remaster](https://www.pcgamer.com/we-gave-this-game-3-out-of-100-in-1994-and-now-its-getting-a-remaster)
+ - [Gaming CEO Shares Nightmare Scenario Of Using AI To Spy On Devs](https://kotaku.com/tinybuild-hello-neighbor-chatgpt-ai-burnout-hr-monitor-1850640875)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
