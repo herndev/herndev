@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)
- - [Asrock announces Z790 and B650E Taichi Lite motherboards, and I hope it&#39;s the start of a trend.](https://www.pcgamer.com/asrock-announces-z790-and-b650e-taichi-lite-motherboards-and-i-hope-its-the-start-of-a-trend)
- - [Making Call of Duty a Battle.net exclusive was apparently a &#39;resounding failure&#39;](https://www.pcgamer.com/making-call-of-duty-a-battlenet-exclusive-was-a-resounding-failure-argues-microsoft)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)
+ - [Asrock announces Z790 and B650E Taichi Lite motherboards, and I hope it&#39;s the start of a trend.](https://www.pcgamer.com/asrock-announces-z790-and-b650e-taichi-lite-motherboards-and-i-hope-its-the-start-of-a-trend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
