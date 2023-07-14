@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Title](http://9gag.com/gag/adPRbOM)
- - ⏩ [Do it](http://9gag.com/gag/aXnReKg)
- - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
+ - ⏩ [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
 
 ---
 
