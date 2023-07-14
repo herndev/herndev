@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer of spam](https://www.theverge.com/2023/7/14/23795143/summer-of-spam)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)<!-- TECH:END -->
+ - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [How to share an AirTag with others in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-share-an-airtag-with-others-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
