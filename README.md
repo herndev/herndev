@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Store Ultimate Game Sale Starts July 14 – Check Out All the Great Gaming Deals](https://news.xbox.com/en-us/2023/07/14/ultimate-game-sale/)
- - [Diablo 4 interactive map](https://www.polygon.com/c/diablo-4-guides/23778174/diablo-iv-map-altars-of-lilith-dungeons-waypoints)
- - [Assassin&#39;s Creed Mirage has a tie-in haptic vest that can beat you up, stab you, axe you, dart you, and combo into a &#39;severe abdominal wound&#39;](https://www.pcgamer.com/assassins-creed-mirage-has-a-tie-in-haptic-vest-that-can-beat-you-up-stab-you-axe-you-dart-you-and-combo-into-a-severe-abdominal-wound)<!-- GAME:END -->
+ - [Exoprimal has crossplay, but there&#39;s a big catch](https://www.pcgamer.com/exoprimal-crossplay-party-limitations)
+ - [One of Japanese horror&#39;s most influential games is getting a remaster and its first official English translation](https://www.pcgamer.com/one-of-japanese-horrors-most-influential-games-is-getting-a-remaster-and-its-first-official-english-translation)
+ - [The Witcher Netflix Views Are Down, Prepare For Discourse](https://kotaku.com/the-witcher-season-three-part-two-views-netflix-1850641725)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
