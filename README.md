@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 💣 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
  - ⏩ [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 
