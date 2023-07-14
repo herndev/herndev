@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Making Call of Duty a Battle.net exclusive was apparently a &#39;resounding failure&#39;](https://www.pcgamer.com/making-call-of-duty-a-battlenet-exclusive-was-a-resounding-failure-argues-microsoft)
  - [Microsoft just fixed a Zune compatibility issue in the year 2023](https://www.pcgamer.com/microsoft-just-fixed-a-zune-compatibility-issue-in-the-year-2023)
- - [Genshin Impact Voice Actors Say They Aren’t Getting Paid, Want Game Unionized](https://kotaku.com/genshin-impact-no-pay-voice-actors-paimon-union-mihoyo-1850638714)
- - [You&#39;re Solid Gold, I&#39;ll See You In Hell](https://kotaku.com/kotaku-luke-plunkett-leave-too-damn-long-goodbye-rip-1850630211)<!-- GAME:END -->
+ - [Genshin Impact Voice Actors Say They Aren’t Getting Paid, Want Game Unionized](https://kotaku.com/genshin-impact-no-pay-voice-actors-paimon-union-mihoyo-1850638714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
