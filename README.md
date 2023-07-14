@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [How to share an AirTag with others in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-share-an-airtag-with-others-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Fatal helicopter crash likely caused by dropped iPad](https://appleinsider.com/articles/23/07/14/fatal-helicopter-crash-likely-caused-by-dropped-ipad?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Xbox’s Major Nelson is leaving Microsoft after 22 years](https://www.theverge.com/2023/7/14/23795326/xbox-major-nelson-larry-hryb-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
