@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - ⏩ [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
- - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/adPRbOM)
+ - ⏩ [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)<!-- MEMES:END -->
 
 ---
 
