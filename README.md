@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larry Hryb, Xbox&#39;s senior director of corporate communications, also known as Major Nelson, says he is leaving Microsoft after 22 years at the company &lpar;Matt Wales/Eurogamer.net&rpar;](http://www.techmeme.com/230714/p17#a230714p17)
- - [Tesla may adopt Apple AirPlay for better audio](https://appleinsider.com/articles/23/07/14/tesla-may-adopt-apple-airplay-for-better-audio----and-apple-music?utm_medium=rss)
- - [Hands-on with Ernie 3.5, which Baidu claims is &quot;slightly inferior&quot; to GPT-4 in a comprehensive test but performs better when both were spoken to in Chinese &lpar;New York Times&rpar;](http://www.techmeme.com/230714/p16#a230714p16)<!-- TECH:END -->
+ - [Google could be working on a ‘Connected Flight Mode’ for Android](https://www.androidauthority.com/connected-flight-mode-google-patent-3345550/)
+ - [Nearby Share may soon let you scan a QR code to share files](https://www.androidauthority.com/nearby-share-scan-qr-code-3345555/)
+ - [Larry &quot;Major Nelson&quot; Hryb, Xbox&#39;s senior director of corporate communications, is leaving Microsoft after 22 years to &quot;work on the next chapter of my career&quot; &lpar;Matt Wales/Eurogamer.net&rpar;](http://www.techmeme.com/230714/p17#a230714p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
