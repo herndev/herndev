@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV: Essential Sorcerer Builds For Mastering The Dark Arts](https://kotaku.com/diablo-4-iv-best-sorcerer-build-ice-lightning-fire-1850642929)
- - [The Flash Movie Trainwreck Reaches A New Low With NFTs](https://kotaku.com/the-flash-web3-nft-ezra-miller-dc-comics-warner-bros-1850642748)
- - [After 20 years, Major Nelson is leaving Microsoft](https://www.pcgamer.com/after-20-years-major-nelson-is-leaving-microsoft)<!-- GAME:END -->
+ - [Netflix’s Bird Box Barcelona, Transformers: Rise of the Beasts, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/14/23789570/new-movies-watch-bird-box-barcelona-netflix-transformers-rise-beasts-asteroid-city)
+ - [After more than two years of work, Cyberpunk 2077 finally reaches a &#39;very positive&#39; user rating on Steam](https://www.pcgamer.com/after-more-than-two-years-of-work-cyberpunk-2077-finally-reaches-a-very-positive-user-rating-on-steam)
+ - [Diablo IV: Essential Sorcerer Builds For Mastering The Dark Arts](https://kotaku.com/diablo-4-iv-best-sorcerer-build-ice-lightning-fire-1850642929)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
