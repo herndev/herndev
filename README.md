@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
- - ⏩ [Do it](http://9gag.com/gag/aXnReKg)
- - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
+ - 💣 [Woman adopts a Siberian lynx](http://9gag.com/gag/adPRrKQ)
+ - ⏩ [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 👉 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)<!-- MEMES:END -->
 
 ---
 
