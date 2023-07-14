@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - ⏩ [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
- - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
+ - 💣 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - ⏩ [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 
