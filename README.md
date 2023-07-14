@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - ⏩ [What happened?](http://9gag.com/gag/aPgrd8w)
- - 👉 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)<!-- MEMES:END -->
+ - ⏩ [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 👉 [Do it](http://9gag.com/gag/aXnReKg)<!-- MEMES:END -->
 
 ---
 
