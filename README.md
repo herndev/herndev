@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multichain ceases operations after the crypto bridging protocol&#39;s CEO Zhaojun and his sister, who held ~$220M of user assets, were detained by Chinese police &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/230714/p5#a230714p5)
- - [Basketball will come to Apple Vision Pro, hints NBA chief](https://appleinsider.com/articles/23/07/14/basketball-will-come-to-apple-vision-pro-hints-nba-chief?utm_medium=rss)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
+ - [Arlo Pro 5 Review: The Best Outdoor Security Camera](https://www.wired.com/review/arlo-pro-5/)
+ - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
