@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expect dramatic spells and creatures of unusual size in Magic&#39;s next set](https://www.pcgamer.com/expect-dramatic-spells-and-creatures-of-unusual-size-in-magics-next-set)
- - [Today&#39;s Wordle hint and answer #755: Friday, July 14](https://www.pcgamer.com/wordle-answer-today-hint-755-july-14)
- - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)<!-- GAME:END -->
+ - [WoW&#39;s new specialisation deals damage by buffing everyone else, so of course it&#39;s getting booted from groups for &#39;low DPS&#39;](https://www.pcgamer.com/wows-new-specialisation-deals-damage-by-buffing-everyone-else-so-of-course-its-getting-booted-from-groups-for-low-dps)
+ - [The first fan-made story for gloomy psych-horror Amnesia: The Bunker is, of course, a Doom mod](https://www.pcgamer.com/the-first-fan-made-story-for-gloomy-psych-horror-amnesia-the-bunker-is-of-course-a-doom-mod)
+ - [Expect dramatic spells and creatures of unusual size in Magic&#39;s next set](https://www.pcgamer.com/expect-dramatic-spells-and-creatures-of-unusual-size-in-magics-next-set)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
