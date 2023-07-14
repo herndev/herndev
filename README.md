@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG wants to turn your TVs and other products into ad and subscription machines](https://www.androidauthority.com/lg-tv-ads-and-subscriptions-3345440/)
- - [China mandates that AI must follow “core values of socialism”](https://www.theverge.com/2023/7/14/23794974/china-generative-ai-regulations-alibaba-baidu)
- - [The Samsung Galaxy Buds 2 are cheaper now than during Amazon Prime Day](https://www.theverge.com/2023/7/14/23794795/samsung-galaxy-buds-fujifilm-instax-link-roku-stick-catan-anker-deal-sale)<!-- TECH:END -->
+ - [Meta insiders detail a return to &quot;OG Mark&quot; and how staff secretly toiled away to determine how to create a Twitter-like service that fit with the company&#39;s apps &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230714/p12#a230714p12)
+ - [Editing photos on Google’s Pixel Fold has totally sold me on the form factor](https://www.theverge.com/23794949/google-pixel-fold-photo-editing-lightroom-review)
+ - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
