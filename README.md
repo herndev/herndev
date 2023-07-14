@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood studios fail to prevent actors striking during writers&#39; strike](https://appleinsider.com/articles/23/07/13/hollywood-studios-fail-to-prevent-actors-strike-during-writers-strike?utm_medium=rss)
- - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Twitter sues four unnamed entities in Texas for &quot;unlawfully scraping data&quot; and seeks $1M+ in relief; Elon Musk links the move to recent rate limit rules &lpar;Reuters&rpar;](http://www.techmeme.com/230714/p2#a230714p2)<!-- TECH:END -->
+ - [Multichain ceases operations after the crypto bridging protocol&#39;s CEO Zhaojun and his sister, who held ~$220M of user assets, were detained by Chinese police &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/230714/p5#a230714p5)
+ - [Basketball will come to Apple Vision Pro, hints NBA chief](https://appleinsider.com/articles/23/07/14/basketball-will-come-to-apple-vision-pro-hints-nba-chief?utm_medium=rss)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
