@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arlo Pro 5 Review: The Best Outdoor Security Camera](https://www.wired.com/review/arlo-pro-5/)
- - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)
+ - [OK Surfers, How Much Would It Cost to Power Your Own Wave?](https://www.wired.com/story/ok-surfers-how-much-would-it-cost-to-power-your-own-wave/)
+ - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
