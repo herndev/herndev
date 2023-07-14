@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup](http://9gag.com/gag/a5X5y4G)
- - ⏩ [Nature, you scare me](http://9gag.com/gag/aMEqWPW)
- - 👉 [Ooh dats deep](http://9gag.com/gag/abvRd2r)<!-- MEMES:END -->
+ - 💣 [Ooh dats deep](http://9gag.com/gag/abvRd2r)
+ - ⏩ [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
+ - 👉 [Big brain move.](http://9gag.com/gag/aqeDpvp)<!-- MEMES:END -->
 
 ---
 
