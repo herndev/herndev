@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #755: Friday, July 14](https://www.pcgamer.com/wordle-answer-today-hint-755-july-14)
  - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)
- - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)
- - [Asrock announces Z790 and B650E Taichi Lite motherboards, and I hope it&#39;s the start of a trend.](https://www.pcgamer.com/asrock-announces-z790-and-b650e-taichi-lite-motherboards-and-i-hope-its-the-start-of-a-trend)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
