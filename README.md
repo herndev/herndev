@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
- - ⏩ [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
+ - ⏩ [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)
+ - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
 
 ---
 
