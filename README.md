@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 💣 [Title](http://9gag.com/gag/adPRbOM)
  - ⏩ [Do it](http://9gag.com/gag/aXnReKg)
- - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
+ - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
 
 ---
 
