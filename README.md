@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy the Pokémon Go Plus + device](https://www.polygon.com/deals/23616814/where-to-buy-pokemon-go-plus-tracker)
- - [Major Nelson Is Leaving Xbox After Two Decades](https://kotaku.com/xbox-major-nelson-larry-hryb-official-podcast-microsoft-1850642324)
- - [Game publisher CEO says talk on monitoring employees with AI was hypothetical and taken out of context: &#39;We don&#39;t use any of these tools for HR&#39;](https://www.pcgamer.com/game-publisher-ceo-says-talk-on-monitoring-employees-with-ai-was-hypothetical-and-taken-out-of-context-we-dont-use-any-of-these-tools-for-hr)<!-- GAME:END -->
+ - [The Flash Movie Trainwreck Reaches A New Low With NFTs](https://kotaku.com/the-flash-web3-nft-ezra-miller-dc-comics-warner-bros-1850642748)
+ - [After 20 years, Major Nelson is leaving Microsoft](https://www.pcgamer.com/after-20-years-major-nelson-is-leaving-microsoft)
+ - [Official Xbox Sale Discounts Some Of 2023&#39;s Biggest Games](https://kotaku.com/xbox-sale-star-wars-jedi-elden-ring-hogwarts-legacy-1850642682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
