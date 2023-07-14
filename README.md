@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exoprimal has crossplay, but there&#39;s a big catch](https://www.pcgamer.com/exoprimal-crossplay-party-limitations)
- - [One of Japanese horror&#39;s most influential games is getting a remaster and its first official English translation](https://www.pcgamer.com/one-of-japanese-horrors-most-influential-games-is-getting-a-remaster-and-its-first-official-english-translation)
- - [The Witcher Netflix Views Are Down, Prepare For Discourse](https://kotaku.com/the-witcher-season-three-part-two-views-netflix-1850641725)<!-- GAME:END -->
+ - [Fallout co-creator unearths his original, 20-year-old pitch for Baldur&#39;s Gate 3: a first-person action RPG with PvPvE multiplayer](https://www.pcgamer.com/troika-baldurs-gate-3-pitch-tim-cain)
+ - [Mortal Kombat 1 roster: all the new and returning characters](https://www.pcgamer.com/mortal-kombat-1-characters-cast-kameos-list)
+ - [There&#39;s A New Worst Game Of 2023, And It&#39;s A Switch Exclusive](https://kotaku.com/the-last-of-us-clone-last-hope-switch-eshop-worst-game-1850641766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
