@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This lady got more balls than all of these hehims put together](http://9gag.com/gag/aeQRq6W)
- - ⏩ [Big brain move.](http://9gag.com/gag/aqeDpvp)
- - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
+ - 💣 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
+ - ⏩ [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - 👉 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)<!-- MEMES:END -->
 
 ---
 
