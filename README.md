@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s new specialisation deals damage by buffing everyone else, so of course it&#39;s getting booted from groups for &#39;low DPS&#39;](https://www.pcgamer.com/wows-new-specialisation-deals-damage-by-buffing-everyone-else-so-of-course-its-getting-booted-from-groups-for-low-dps)
- - [The first fan-made story for gloomy psych-horror Amnesia: The Bunker is, of course, a Doom mod](https://www.pcgamer.com/the-first-fan-made-story-for-gloomy-psych-horror-amnesia-the-bunker-is-of-course-a-doom-mod)
- - [Expect dramatic spells and creatures of unusual size in Magic&#39;s next set](https://www.pcgamer.com/expect-dramatic-spells-and-creatures-of-unusual-size-in-magics-next-set)<!-- GAME:END -->
+ - [How wrestling game fans worked together to get the best unlicensed outfits](https://www.polygon.com/23790442/wrestling-game-code-trading-fashion-design)
+ - [Starfield&#39;s vision of the final frontier makes space seem like a boring, barren expanse](https://www.pcgamer.com/starfields-vision-of-the-final-frontier-makes-space-seem-like-a-boring-barren-expanse)
+ - [EA Sports FC gets release date — and Switch version that might not suck](https://www.polygon.com/23794737/ea-sports-fc-release-date-trailer-switch-ultimate-team)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
