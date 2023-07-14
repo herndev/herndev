@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit plans to sunset its current coins and awards systems used to show post appreciation by September 12, 2023; no new coins can be purchased starting today &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230713/p39#a230713p39)
- - [Vizio D-Series Full HD Smart TV review: Fast performance at a budget-friendly price](https://appleinsider.com/articles/23/07/13/vizio-d-series-full-hd-smart-tv-review-fast-performance-at-a-budget-friendly-price?utm_medium=rss)
- - [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)<!-- TECH:END -->
+ - [A US district judge denies the FTC&#39;s motion to stay Microsoft&#39;s Activision Blizzard acquisition; the FTC is still seeking emergency action by the 9th Circuit &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230713/p41#a230713p41)
+ - [Lego isn’t just for kids: the latest news for nostalgic adults and adult budgets](https://www.theverge.com/23793880/lego-adults-welcome-new-sets-storystream)
+ - [Sources: Microsoft and Activision Blizzard mull the sale of some UK cloud-based gaming rights to a telecom, gaming, or internet company to appease regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p40#a230713p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
