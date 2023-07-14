@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo IV: Essential Sorcerer Builds For Mastering The Dark Arts](https://kotaku.com/diablo-4-iv-best-sorcerer-build-ice-lightning-fire-1850642929)
  - [The Flash Movie Trainwreck Reaches A New Low With NFTs](https://kotaku.com/the-flash-web3-nft-ezra-miller-dc-comics-warner-bros-1850642748)
- - [After 20 years, Major Nelson is leaving Microsoft](https://www.pcgamer.com/after-20-years-major-nelson-is-leaving-microsoft)
- - [Official Xbox Sale Discounts Some Of 2023&#39;s Biggest Games](https://kotaku.com/xbox-sale-star-wars-jedi-elden-ring-hogwarts-legacy-1850642682)<!-- GAME:END -->
+ - [After 20 years, Major Nelson is leaving Microsoft](https://www.pcgamer.com/after-20-years-major-nelson-is-leaving-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
