@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - ⏩ [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 👉 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)<!-- MEMES:END -->
+ - 💣 [This lady got more balls than all of these hehims put together](http://9gag.com/gag/aeQRq6W)
+ - ⏩ [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
 
 ---
 
