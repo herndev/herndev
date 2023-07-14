@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - ⏩ [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
- - 👉 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)<!-- MEMES:END -->
+ - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - ⏩ [Do it](http://9gag.com/gag/aXnReKg)
+ - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
 
 ---
 
