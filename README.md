@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ooh dats deep](http://9gag.com/gag/abvRd2r)
- - ⏩ [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
- - 👉 [Big brain move.](http://9gag.com/gag/aqeDpvp)<!-- MEMES:END -->
+ - 💣 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
+ - ⏩ [Do it](http://9gag.com/gag/aXnReKg)
+ - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
 
 ---
 
