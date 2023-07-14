@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to customise your warlock pets in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-warlock-pet-customization)
- - [We gave this game 3 out of 100 in 1994, and now it&#39;s getting a remaster](https://www.pcgamer.com/we-gave-this-game-3-out-of-100-in-1994-and-now-its-getting-a-remaster)
- - [Gaming CEO Shares Nightmare Scenario Of Using AI To Spy On Devs](https://kotaku.com/tinybuild-hello-neighbor-chatgpt-ai-burnout-hr-monitor-1850640875)<!-- GAME:END -->
+ - [Microsoft Store Ultimate Game Sale Starts July 14 – Check Out All the Great Gaming Deals](https://news.xbox.com/en-us/2023/07/14/ultimate-game-sale/)
+ - [Diablo 4 interactive map](https://www.polygon.com/c/diablo-4-guides/23778174/diablo-iv-map-altars-of-lilith-dungeons-waypoints)
+ - [Assassin&#39;s Creed Mirage has a tie-in haptic vest that can beat you up, stab you, axe you, dart you, and combo into a &#39;severe abdominal wound&#39;](https://www.pcgamer.com/assassins-creed-mirage-has-a-tie-in-haptic-vest-that-can-beat-you-up-stab-you-axe-you-dart-you-and-combo-into-a-severe-abdominal-wound)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
