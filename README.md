@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
- - ⏩ [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
- - 👉 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)<!-- MEMES:END -->
+ - 💣 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - ⏩ [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 👉 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)<!-- MEMES:END -->
 
 ---
 
