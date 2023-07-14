@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman adopts a Siberian lynx](http://9gag.com/gag/adPRrKQ)
- - ⏩ [Big brain move.](http://9gag.com/gag/aqeDpvp)
- - 👉 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)<!-- MEMES:END -->
+ - 💣 [But muh multi kulti society](http://9gag.com/gag/aZDRoEQ)
+ - ⏩ [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
+ - 👉 [Big brain move.](http://9gag.com/gag/aqeDpvp)<!-- MEMES:END -->
 
 ---
 
