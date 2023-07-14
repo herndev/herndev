@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Old-school XCOM-like Xenonauts 2 doesn’t pull any punches](https://www.polygon.com/reviews/23793993/xenonauts-2-xcom-release-date-pc)
- - [Only One Thing Still Stands In The Way Of Microsoft&#39;s Activision Takeover [Update]](https://kotaku.com/microsoft-activision-blizzard-game-pass-ftc-cma-uk-xbox-1850631445)
- - [D&amp;D&#39;s upcoming virtual tabletop radiates a big-budget misunderstanding of what matters in role-playing games](https://www.pcgamer.com/dandds-upcoming-virtual-tabletop-radiates-a-big-budget-misunderstanding-of-what-matters-in-role-playing-games)<!-- GAME:END -->
+ - [RPG Delays Launch To Avoid Competing With Baldur&#39;s Gate 3](https://kotaku.com/baldurs-gate-3-stray-gods-release-date-larian-dnd-rpg-1850640600)
+ - [The new OneXFly certainly makes the ROG Ally look like a chonky boi](https://www.pcgamer.com/the-new-onexfly-certainly-makes-the-rog-ally-look-like-a-chonky-boi)
+ - [Besieged Disney CCG maker brands suit against it &#39;the legal equivalent of alchemy&#39; as it plays the hotshot lawyer card](https://www.pcgamer.com/besieged-disney-ccg-maker-brands-suit-against-it-the-legal-equivalent-of-alchemy-as-it-plays-the-hotshot-lawyer-card)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
