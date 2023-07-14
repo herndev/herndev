@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - ⏩ [What happened?](http://9gag.com/gag/aPgrd8w)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - ⏩ [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
 
 ---
 
