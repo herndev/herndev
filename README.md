@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How wrestling game fans worked together to get the best unlicensed outfits](https://www.polygon.com/23790442/wrestling-game-code-trading-fashion-design)
- - [Starfield&#39;s vision of the final frontier makes space seem like a boring, barren expanse](https://www.pcgamer.com/starfields-vision-of-the-final-frontier-makes-space-seem-like-a-boring-barren-expanse)
- - [EA Sports FC gets release date — and Switch version that might not suck](https://www.polygon.com/23794737/ea-sports-fc-release-date-trailer-switch-ultimate-team)<!-- GAME:END -->
+ - [Old-school XCOM-like Xenonauts 2 doesn’t pull any punches](https://www.polygon.com/reviews/23793993/xenonauts-2-xcom-release-date-pc)
+ - [Only One Thing Still Stands In The Way Of Microsoft&#39;s Activision Takeover [Update]](https://kotaku.com/microsoft-activision-blizzard-game-pass-ftc-cma-uk-xbox-1850631445)
+ - [D&amp;D&#39;s upcoming virtual tabletop radiates a big-budget misunderstanding of what matters in role-playing games](https://www.pcgamer.com/dandds-upcoming-virtual-tabletop-radiates-a-big-budget-misunderstanding-of-what-matters-in-role-playing-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
