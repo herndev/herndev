@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Making Call of Duty a Battle.net exclusive was apparently a &#39;resounding failure&#39;](https://www.pcgamer.com/making-call-of-duty-a-battlenet-exclusive-was-a-resounding-failure-argues-microsoft)
- - [Microsoft just fixed a Zune compatibility issue in the year 2023](https://www.pcgamer.com/microsoft-just-fixed-a-zune-compatibility-issue-in-the-year-2023)
- - [Genshin Impact Voice Actors Say They Aren’t Getting Paid, Want Game Unionized](https://kotaku.com/genshin-impact-no-pay-voice-actors-paimon-union-mihoyo-1850638714)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Access Controller for PS5 launches globally on December 6](https://blog.playstation.com/2023/07/13/20230713-access/)
+ - [Asrock announces Z790 and B650E Taichi Lite motherboards, and I hope it&#39;s the start of a trend.](https://www.pcgamer.com/asrock-announces-z790-and-b650e-taichi-lite-motherboards-and-i-hope-its-the-start-of-a-trend)
+ - [Making Call of Duty a Battle.net exclusive was apparently a &#39;resounding failure&#39;](https://www.pcgamer.com/making-call-of-duty-a-battlenet-exclusive-was-a-resounding-failure-argues-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
