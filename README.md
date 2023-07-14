@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ridiculous Fishing is back, and it is still very ridiculous](https://www.theverge.com/23794876/ridiculous-fishing-ex-apple-arcade)
- - [Lifetime access to Windows 11 Pro is on sale for $29.97, an 84% discount, but the deal ends tonight](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [No more white boxes and red ribbons as Apple ditches gift wrapping](https://appleinsider.com/articles/23/07/14/no-more-white-boxes-and-red-ribbons-as-apple-ditches-gift-wrapping?utm_medium=rss)<!-- TECH:END -->
+ - [LG wants to turn your TVs and other products into ad and subscription machines](https://www.androidauthority.com/lg-tv-ads-and-subscriptions-3345440/)
+ - [China mandates that AI must follow “core values of socialism”](https://www.theverge.com/2023/7/14/23794974/china-generative-ai-regulations-alibaba-baidu)
+ - [The Samsung Galaxy Buds 2 are cheaper now than during Amazon Prime Day](https://www.theverge.com/2023/7/14/23794795/samsung-galaxy-buds-fujifilm-instax-link-roku-stick-catan-anker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
