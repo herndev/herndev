@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta insiders detail a return to &quot;OG Mark&quot; and how staff secretly toiled away to determine how to create a Twitter-like service that fit with the company&#39;s apps &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230714/p12#a230714p12)
- - [Editing photos on Google’s Pixel Fold has totally sold me on the form factor](https://www.theverge.com/23794949/google-pixel-fold-photo-editing-lightroom-review)
- - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Summer of spam](https://www.theverge.com/2023/7/14/23795143/summer-of-spam)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
