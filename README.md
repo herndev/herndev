@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - ⏩ [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 👉 [Do it](http://9gag.com/gag/aXnReKg)<!-- MEMES:END -->
+ - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
+ - ⏩ [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
+ - 👉 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)<!-- MEMES:END -->
 
 ---
 
