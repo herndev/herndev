@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FTC Blasted By Congress And Gamers For Doing Its Job](https://kotaku.com/microsoft-ftc-xbox-activision-congress-appeal-blizzard-1850638519)
- - [You&#39;d better believe House Flipper 2 was the most played Steam Next Fest demo](https://www.pcgamer.com/youd-better-believe-house-flipper-2-was-the-most-played-steam-next-fest-demo)
- - [Phantom Liberty Is Undoing One Key Thing That Cyberpunk Got Right](https://kotaku.com/cyberpunk-2077-phantom-liberty-netflix-edgerunners-1850638286)<!-- GAME:END -->
+ - [Microsoft just fixed a Zune compatibility issue in the year 2023](https://www.pcgamer.com/microsoft-just-fixed-a-zune-compatibility-issue-in-the-year-2023)
+ - [Genshin Impact Voice Actors Say They Aren’t Getting Paid, Want Game Unionized](https://kotaku.com/genshin-impact-no-pay-voice-actors-paimon-union-mihoyo-1850638714)
+ - [You&#39;re Solid Gold, I&#39;ll See You In Hell](https://kotaku.com/kotaku-luke-plunkett-leave-too-damn-long-goodbye-rip-1850630211)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
