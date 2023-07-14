@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened?](http://9gag.com/gag/aPgrd8w)
- - ⏩ [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
- - 👉 [The most Ron Weasley thing ever](http://9gag.com/gag/aL1WbN5)<!-- MEMES:END -->
+ - 💣 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - ⏩ [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 👉 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)<!-- MEMES:END -->
 
 ---
 
