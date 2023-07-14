@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oslo-based online game-based learning service Kahoot plans to go private in an all-cash PE deal, led by Goldman Sachs, valuing the company at $1.7B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230714/p9#a230714p9)
- - [Lenovo’s Yoga Book 9i is for the two-screen lifestyle](https://www.theverge.com/23794761/lenovo-yoga-book-9i-review)
- - [Meta unveils CM3leon, a transformer model for image generation requiring 5x less compute and a smaller training data set than past transformer-based models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230714/p8#a230714p8)<!-- TECH:END -->
+ - [Ridiculous Fishing is back, and it is still very ridiculous](https://www.theverge.com/23794876/ridiculous-fishing-ex-apple-arcade)
+ - [Lifetime access to Windows 11 Pro is on sale for $29.97, an 84% discount, but the deal ends tonight](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
+ - [No more white boxes and red ribbons as Apple ditches gift wrapping](https://appleinsider.com/articles/23/07/14/no-more-white-boxes-and-red-ribbons-as-apple-ditches-gift-wrapping?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
