@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/adPRbOM)
- - ⏩ [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 👉 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)<!-- MEMES:END -->
+ - 💣 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
+ - ⏩ [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 👉 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)<!-- MEMES:END -->
 
 ---
 
