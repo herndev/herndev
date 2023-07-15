@@ -113,11 +113,11 @@ Windows                  8 hrs 33 mins       ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-2. 💪 Opened PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-3. 🎉 Merged PR [#3](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/3) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-4. 💪 Opened PR [#3](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/3) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-5. 🎉 Merged PR [#2](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/2) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+1. 🎉 Merged PR [#5](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/5) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+2. 💪 Opened PR [#5](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/5) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+3. 🎉 Merged PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+4. 💪 Opened PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+5. 🎉 Merged PR [#3](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/3) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
 <!--END_SECTION:activity-->
 
 ---
