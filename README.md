@@ -113,11 +113,11 @@ Windows                  8 hrs 33 mins       ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/1) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-2. 💪 Opened PR [#1](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/1) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
-3. ❗️ Opened issue [#3329](https://github.com/marcizhu/marcizhu/issues/3329) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 🎉 Merged PR [#24](https://github.com/herndev/ReactJS-Portfolio/pull/24) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. ❌ Closed PR [#15](https://github.com/herndev/ReactJS-Portfolio/pull/15) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+1. 🎉 Merged PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+2. 💪 Opened PR [#4](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/4) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+3. 🎉 Merged PR [#3](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/3) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+4. 💪 Opened PR [#3](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/3) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
+5. 🎉 Merged PR [#2](https://github.com/herndev/Dormitory-Management-System-Desktop/pull/2) in [herndev/Dormitory-Management-System-Desktop](https://github.com/herndev/Dormitory-Management-System-Desktop)
 <!--END_SECTION:activity-->
 
 ---
