@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Norwegian Data Protection Authority orders Meta to stop showing users personalized ads for three months starting August 4 or face a daily fine of &amp;euro;89,500 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230717/p3#a230717p3)
- - [Hollywood’s Future Belongs to People—Not Machines](https://www.wired.com/story/hollywoods-future-belongs-to-people-not-machines/)
- - [You told us: You definitely want a rotating bezel on the Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-poll-results-3345743/)<!-- TECH:END -->
+ - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)
+ - [This upcoming transparent phone is giving us all sorts of Nothing Phone 2 vibes](https://www.androidauthority.com/infinix-gt-10-pro-leak-3345753/)
+ - [Binance completes integration of the Bitcoin Lightning Network, enabling faster and cheaper bitcoin transactions, after setting up Lightning nodes in June &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230717/p6#a230717p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
