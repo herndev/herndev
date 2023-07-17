@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple can delay App Store changes to file Supreme Court plea](https://www.theverge.com/2023/7/17/23798090/apple-epic-supreme-court-app-store-appeal)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Ford Slashes F-150 Lightning EV&#39;s Starting Price to $51,990     - CNET](https://www.cnet.com/roadshow/news/2023-ford-f-150-lightning-price-cuts-announced/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gotrax GXL V2 review: A budget-friendly beginner e-scooter](https://www.androidauthority.com/gotrax-gxl-v2-review-3343143/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
