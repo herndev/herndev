@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta check then double check](http://9gag.com/gag/avQ9Krn)
- - ⏩ [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
- - 👉 [Exactly](http://9gag.com/gag/aoKnQrg)<!-- MEMES:END -->
+ - 💣 [Replacing her soap by a potato](http://9gag.com/gag/a9qDo76)
+ - ⏩ [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
+ - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
 
 ---
 
