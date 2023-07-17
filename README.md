@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
- - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)
- - [OnePlus Keyboard 81 Pro coming to the US and Canada this month](https://www.androidauthority.com/oneplus-keyboard-81-pro-3345442/)<!-- TECH:END -->
+ - [Microsoft might be killing Xbox Live Gold &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)
+ - [Daily deals July 17: $250 off M1 Mac mini, $999 M2 MacBook Air, iPhone 12 Pro from $499, more](https://appleinsider.com/articles/23/07/17/daily-deals-july-17-250-off-m1-mac-mini-999-m2-macbook-air-iphone-12-pro-from-499-more?utm_medium=rss)
+ - [Ford cuts F-150 Lightning prices, taking the cheapest model under $50,000](https://www.theverge.com/2023/7/17/23797364/ford-f-150-lightning-electric-truck-price-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
