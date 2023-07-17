@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/adPRbOM)
- - ⏩ [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aA0v9w2)
+ - ⏩ [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
+ - 👉 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)<!-- MEMES:END -->
 
 ---
 
