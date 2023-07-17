@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Xbox Game Pass Core, Coming This September](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
- - [BattleBit developer says the game&#39;s success is &#39;just wild&#39; and DICE is still capable of delivering &#39;an absolute stunner of a Battlefield&#39;](https://www.pcgamer.com/battlebit-developer-says-the-games-success-is-just-wild-and-dice-is-still-capable-of-delivering-an-absolute-stunner-of-a-battlefield)
- - [Viewfinder is puzzle game heaven](https://www.polygon.com/reviews/23792429/viewfinder-review-best-puzzle-games)<!-- GAME:END -->
+ - [Where to get an Obsidian Gemstone in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-obsidian-gemstone)
+ - [Internal leak from Intel shows Arrow Lake could see a 21% performance increase over the Core i9 13900K](https://www.pcgamer.com/internal-leak-from-intel-shows-arrow-lake-could-see-a-21-performance-increase-over-the-core-i9-13900k)
+ - [Xbox Game Pass Core to replace Xbox Live Gold in September](https://www.polygon.com/23797388/xbox-live-gold-ending-game-pass-core)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
