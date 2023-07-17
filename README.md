@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth operator](http://9gag.com/gag/ay2vwQp)
- - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 💣 [Pretty much](http://9gag.com/gag/aNwj723)
+ - ⏩ [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
  - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
 
 ---
