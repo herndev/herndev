@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [July games you might have missed](https://www.polygon.com/deals/23778901/july-games-indie-disney-illusion-island-double-dragon-viewfinder-oxenfree-2)
- - [The Week In Games: What’s Releasing Beyond Pikmin 4](https://kotaku.com/july-game-releases-out-this-week-pikmin-4-the-sims-4-1850647763)
- - [Not all AI voice cloning is bad, I promise](https://www.pcgamer.com/not-all-ai-voice-cloning-is-bad-i-promise)<!-- GAME:END -->
+ - [The Yellowstone guy’s spy thriller, more Justified, and all the new TV this week](https://www.polygon.com/2023/7/17/23786445/new-netflix-justified-tv-taylor-sheridan-special-ops-nicole-kidman)
+ - [Studio Ghibli&#39;s Final Miyazaki Film Opens Huge Despite Zero Marketing](https://kotaku.com/studio-ghibli-hayao-miyazaki-how-do-you-live-boy-heron-1850648046)
+ - [Netflix’s Monkey King looks bananas](https://www.polygon.com/23797670/the-monkey-king-netflix-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
