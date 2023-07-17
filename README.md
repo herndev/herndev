@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube quietly rolls out new ‘Stable Volume’ feature](https://www.androidauthority.com/youtube-stable-volume-3345687/)
  - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)
- - [Unopened original iPhone auction smashes record with $158,000 price](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
- - [Research: Meta&#39;s ban on anti-government &quot;Boogaloo&quot; content initially worked, but after 18 months, in late 2021, the volume had nearly returned to pre-ban levels &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/230716/p10#a230716p10)<!-- TECH:END -->
+ - [Unopened original iPhone auction smashes record with $158,000 price](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
