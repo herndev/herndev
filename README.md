@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - ⏩ [Title](http://9gag.com/gag/aA0v9w2)
+ - 💣 [Title](http://9gag.com/gag/aA0v9w2)
+ - ⏩ [Pretty much](http://9gag.com/gag/aNwj723)
  - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 
 ---
