@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Buds 2 Pro flagship earbuds are comfy, light, and now $42 off](https://www.theverge.com/2023/7/17/23797323/samsung-galaxy-buds-pro-lenovo-legion-gaming-laptop-990-ssd-deal-sale)
- - [Facebook pivots back to video with more Reels and HDR](https://www.theverge.com/2023/7/17/23797592/meta-facebook-video-reels-hdr-editing-watch)
- - [Apple India successes prompt new $220 stock price target from Morgan Stanley](https://appleinsider.com/articles/23/07/17/apple-india-successes-prompt-new-220-stock-price-target-from-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
+ - [Louisville-based JumpCloud says a hacking group breached its systems almost one month ago via a spear-phishing attack that targeted specific customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)
+ - [The new Moto G Play &lpar;2023&rpar; just hit a record low price of $109.99](https://www.androidauthority.com/moto-g-play-2023-deal-3345836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
