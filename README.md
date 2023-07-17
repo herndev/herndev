@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aA0v9w2)
- - ⏩ [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
+ - 💣 [And he took that personally](http://9gag.com/gag/adPRz3M)
+ - ⏩ [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
  - 👉 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)<!-- MEMES:END -->
 
 ---
