@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Feel the Thrill of the Race in Need for Speed Unbound – Available on The Play List](https://news.xbox.com/en-us/2023/07/17/ea-play-member-rewards-for-july/)
- - [How Venba captures the sounds of Tamil cuisine](https://www.polygon.com/23793949/venba-preview-cooking-game-tamil-cuisine)
- - [Rogue One director tackles a droid revolution in The Creator](https://www.polygon.com/23797454/the-creator-movie-story-cast-director-release-date)<!-- GAME:END -->
+ - [What to do with the Rusted Key in Diablo 4](https://www.pcgamer.com/diablo-4-rusted-key)
+ - [Looks Like More People Played A 13-Year-Old Call of Duty Game This Weekend Than Halo Infinite](https://kotaku.com/call-of-duty-cod-xbox-360-servers-black-ops-input-delay-1850647392)
+ - [Viewfinder review](https://www.pcgamer.com/viewfinder-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
