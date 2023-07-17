@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to get an Obsidian Gemstone in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-obsidian-gemstone)
- - [Internal leak from Intel shows Arrow Lake could see a 21% performance increase over the Core i9 13900K](https://www.pcgamer.com/internal-leak-from-intel-shows-arrow-lake-could-see-a-21-performance-increase-over-the-core-i9-13900k)
- - [Xbox Game Pass Core to replace Xbox Live Gold in September](https://www.polygon.com/23797388/xbox-live-gold-ending-game-pass-core)<!-- GAME:END -->
+ - [Feel the Thrill of the Race in Need for Speed Unbound – Available on The Play List](https://news.xbox.com/en-us/2023/07/17/ea-play-member-rewards-for-july/)
+ - [How Venba captures the sounds of Tamil cuisine](https://www.polygon.com/23793949/venba-preview-cooking-game-tamil-cuisine)
+ - [Rogue One director tackles a droid revolution in The Creator](https://www.polygon.com/23797454/the-creator-movie-story-cast-director-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
