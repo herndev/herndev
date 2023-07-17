@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - ⏩ [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
- - 👉 [Waiting for the summer](http://9gag.com/gag/agoKeOW)<!-- MEMES:END -->
+ - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - ⏩ [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - 👉 [Deadly dead](http://9gag.com/gag/a5X50Do)<!-- MEMES:END -->
 
 ---
 
