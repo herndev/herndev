@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new trailer for this &#39;embroidered medieval platformer&#39; shows off the sprawling underworld  buried under its sunny village.](https://www.pcgamer.com/a-new-trailer-for-this-embroidered-medieval-platformer-shows-off-the-sprawling-underworld-buried-under-its-sunny-village)
- - [If I could go back in time and save one canceled game, it&#39;d be the 2005 Fallout spiritual successor prototyped by the series&#39; original creators](https://www.pcgamer.com/if-i-could-go-back-in-time-and-save-one-canceled-game-itd-be-the-2005-fallout-spiritual-successor-prototyped-by-the-series-original-creators)
- - [How to fix Netflix’s almost-great Quarterback in 4 easy plays](https://www.polygon.com/23794966/netflix-quarterback-review-patrick-mahomes-cousins-mariota)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #758: Monday, July 17](https://www.pcgamer.com/wordle-answer-today-hint-758-july-17)
+ - [The Righteous Gemstones made Tim Baltz fight a naked man to become a better person](https://www.polygon.com/23795001/righteous-gemstones-naked-fight-episode-6-tim-baltz)
+ - [A new trailer for this &#39;embroidered medieval platformer&#39; shows off the sprawling underworld  buried under its sunny village.](https://www.pcgamer.com/a-new-trailer-for-this-embroidered-medieval-platformer-shows-off-the-sprawling-underworld-buried-under-its-sunny-village)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
