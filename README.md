@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Nothing Phone 2 update brings camera improvements and new features galore](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
- - [YouTube quietly rolls out new ‘Stable Volume’ feature](https://www.androidauthority.com/youtube-stable-volume-3345687/)
- - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)<!-- TECH:END -->
+ - [A look at the Artificial Inventor Project, which has filed pro bono test cases in the US and elsewhere seeking patent protection for AI-generated inventions &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230717/p1#a230717p1)
+ - [Would you rather buy an original iPhone or 238 iPhone 14s?](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
+ - [Spanking new Galaxy Watch 6 images clock in all the design details](https://www.androidauthority.com/samsung-galaxy-watch-6-series-renders-3345695/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
