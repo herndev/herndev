@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You definitely want a rotating bezel on the Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-poll-results-3345743/)
- - [Samsung&#39;s Studio Display rival finally coming in August](https://appleinsider.com/articles/23/07/17/samsungs-studio-display-rival-finally-coming-in-august?utm_medium=rss)
- - [Here’s how Android 14 will warn you when you try to sideload some Google apps](https://www.androidauthority.com/android-14-sideload-warning-update-ownership-3345719/)<!-- TECH:END -->
+ - [The Norwegian Data Protection Authority orders Meta to stop showing users personalized ads for three months starting August 4 or face a daily fine of &amp;euro;89,500 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/230717/p3#a230717p3)
+ - [Hollywood’s Future Belongs to People—Not Machines](https://www.wired.com/story/hollywoods-future-belongs-to-people-not-machines/)
+ - [You told us: You definitely want a rotating bezel on the Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-poll-results-3345743/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
