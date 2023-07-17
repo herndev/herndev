@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)
- - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
- - 👉 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)<!-- MEMES:END -->
+ - 💣 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
+ - ⏩ [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 👉 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)<!-- MEMES:END -->
 
 ---
 
