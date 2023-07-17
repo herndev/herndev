@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aA0v9w2)
- - ⏩ [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
- - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
+ - 💣 [Smooth operator](http://9gag.com/gag/ay2vwQp)
+ - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
 
 ---
 
