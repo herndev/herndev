@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - ⏩ [And he took that personally](http://9gag.com/gag/adPRz3M)
- - 👉 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aA0v9w2)
+ - ⏩ [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
 
 ---
 
