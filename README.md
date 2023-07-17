@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Head Phil Spencer Is Probably Playing Starfield Right Now](https://kotaku.com/phil-spencer-xbox-starfield-release-date-game-pass-1850649261)
- - [When will Spider-Man: Across the Spider-Verse come to Netflix?](https://www.polygon.com/23746701/spider-man-across-the-spiderverse-2-netflix-watch-online-stream-release-date)
- - [BattleBit Remastered won’t leave Steam Deck players behind when its anti-cheat update arrives](https://www.pcgamer.com/battlebit-remastered-wont-leave-steam-deck-players-behind-when-its-anti-cheat-update-arrives)<!-- GAME:END -->
+ - [Someone Bought A 16-Year-Old iPhone For Over $190,000](https://kotaku.com/iphone-4gb-8gb-sealed-auction-price-190k-apple-1850649480)
+ - [Vampire Survivors saved its creator from working on mobile gambling games](https://www.pcgamer.com/vampire-survivors-saved-its-creator-from-working-on-mobile-gambling-games)
+ - [The maker of Megaton Rainfall is working on a new game that looks even weirder than Megaton Rainfall](https://www.pcgamer.com/the-maker-of-megaton-rainfall-is-working-on-a-new-game-that-looks-even-weirder-than-megaton-rainfall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
