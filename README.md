@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
  - ⏩ [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
- - 👉 [Deadly dead](http://9gag.com/gag/a5X50Do)<!-- MEMES:END -->
+ - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
 
 ---
 
