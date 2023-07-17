@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Bird Box Barcelona, Transformers: Rise of the Beasts, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/14/23789570/new-movies-watch-bird-box-barcelona-netflix-transformers-rise-beasts-asteroid-city)
- - [After more than two years of work, Cyberpunk 2077 finally reaches a &#39;very positive&#39; user rating on Steam](https://www.pcgamer.com/after-more-than-two-years-of-work-cyberpunk-2077-finally-reaches-a-very-positive-user-rating-on-steam)
- - [Diablo IV: Essential Sorcerer Builds For Mastering The Dark Arts](https://kotaku.com/diablo-4-iv-best-sorcerer-build-ice-lightning-fire-1850642929)<!-- GAME:END -->
+ - [A new trailer for this &#39;embroidered medieval platformer&#39; shows off the sprawling underworld  buried under its sunny village.](https://www.pcgamer.com/a-new-trailer-for-this-embroidered-medieval-platformer-shows-off-the-sprawling-underworld-buried-under-its-sunny-village)
+ - [If I could go back in time and save one canceled game, it&#39;d be the 2005 Fallout spiritual successor prototyped by the series&#39; original creators](https://www.pcgamer.com/if-i-could-go-back-in-time-and-save-one-canceled-game-itd-be-the-2005-fallout-spiritual-successor-prototyped-by-the-series-original-creators)
+ - [How to fix Netflix’s almost-great Quarterback in 4 easy plays](https://www.polygon.com/23794966/netflix-quarterback-review-patrick-mahomes-cousins-mariota)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
