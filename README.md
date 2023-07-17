@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
- - ⏩ [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
- - 👉 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)<!-- MEMES:END -->
+ - 💣 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
+ - ⏩ [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 👉 [This is f**ked up](http://9gag.com/gag/amAR33v)<!-- MEMES:END -->
 
 ---
 
