@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pretty much](http://9gag.com/gag/aNwj723)
+ - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
  - ⏩ [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
- - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
+ - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
 
 ---
 
