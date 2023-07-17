@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to do with the Rusted Key in Diablo 4](https://www.pcgamer.com/diablo-4-rusted-key)
- - [Looks Like More People Played A 13-Year-Old Call of Duty Game This Weekend Than Halo Infinite](https://kotaku.com/call-of-duty-cod-xbox-360-servers-black-ops-input-delay-1850647392)
- - [Viewfinder review](https://www.pcgamer.com/viewfinder-review)<!-- GAME:END -->
+ - [July games you might have missed](https://www.polygon.com/deals/23778901/july-games-indie-disney-illusion-island-double-dragon-viewfinder-oxenfree-2)
+ - [The Week In Games: What’s Releasing Beyond Pikmin 4](https://kotaku.com/july-game-releases-out-this-week-pikmin-4-the-sims-4-1850647763)
+ - [Not all AI voice cloning is bad, I promise](https://www.pcgamer.com/not-all-ai-voice-cloning-is-bad-i-promise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
