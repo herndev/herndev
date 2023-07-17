@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Louisville-based JumpCloud says a hacking group breached its systems almost one month ago via a spear-phishing attack that targeted specific customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)
- - [The new Moto G Play &lpar;2023&rpar; just hit a record low price of $109.99](https://www.androidauthority.com/moto-g-play-2023-deal-3345836/)<!-- TECH:END -->
+ - [Galaxy Z Flip 5 leak shows full cover display keyboard and other widgets](https://www.androidauthority.com/galaxy-z-flip-5-widgets-3345861/)
+ - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
+ - [This is the biggest deal of 2023 on the best Samsung earbuds](https://www.androidauthority.com/galaxy-buds-2-pro-deal-3345875/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
