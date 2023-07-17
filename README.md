@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)
- - [OLED iPhone screens can now be repaired with a laser](https://appleinsider.com/articles/23/07/17/oled-iphone-screens-can-now-be-repaired-with-a-laser?utm_medium=rss)
- - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)<!-- TECH:END -->
+ - [Samsung’s Galaxy Buds 2 Pro flagship earbuds are comfy, light, and now $42 off](https://www.theverge.com/2023/7/17/23797323/samsung-galaxy-buds-pro-lenovo-legion-gaming-laptop-990-ssd-deal-sale)
+ - [Facebook pivots back to video with more Reels and HDR](https://www.theverge.com/2023/7/17/23797592/meta-facebook-video-reels-hdr-editing-watch)
+ - [Apple India successes prompt new $220 stock price target from Morgan Stanley](https://appleinsider.com/articles/23/07/17/apple-india-successes-prompt-new-220-stock-price-target-from-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
