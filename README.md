@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)
- - [This upcoming transparent phone is giving us all sorts of Nothing Phone 2 vibes](https://www.androidauthority.com/infinix-gt-10-pro-leak-3345753/)
- - [Binance completes integration of the Bitcoin Lightning Network, enabling faster and cheaper bitcoin transactions, after setting up Lightning nodes in June &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230717/p6#a230717p6)<!-- TECH:END -->
+ - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
+ - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)
+ - [OnePlus Keyboard 81 Pro coming to the US and Canada this month](https://www.androidauthority.com/oneplus-keyboard-81-pro-3345442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
