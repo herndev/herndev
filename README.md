@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - ⏩ [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
- - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
+ - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - ⏩ [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 👉 [Waiting for the summer](http://9gag.com/gag/agoKeOW)<!-- MEMES:END -->
 
 ---
 
