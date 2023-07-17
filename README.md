@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s new specialisation turns death knights into 13 million DPS boss scourges, as long as you bring 22 of them along](https://www.pcgamer.com/wows-new-specialisation-turns-death-knights-into-13-million-dps-boss-scourges-as-long-as-you-bring-22-of-them-along)
- - [July&#39;s Windows 11 update could be the solution to your game stuttering woes](https://www.pcgamer.com/julys-windows-11-update-could-be-the-solution-to-your-game-stuttering-woes)
- - [Sony admits defeat and signs Microsoft deal to keep Call of Duty on PlayStation](https://www.polygon.com/23797265/microsoft-sony-xbox-playstation-call-of-duty-deal)<!-- GAME:END -->
+ - [Introducing Xbox Game Pass Core, Coming This September](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
+ - [BattleBit developer says the game&#39;s success is &#39;just wild&#39; and DICE is still capable of delivering &#39;an absolute stunner of a Battlefield&#39;](https://www.pcgamer.com/battlebit-developer-says-the-games-success-is-just-wild-and-dice-is-still-capable-of-delivering-an-absolute-stunner-of-a-battlefield)
+ - [Viewfinder is puzzle game heaven](https://www.polygon.com/reviews/23792429/viewfinder-review-best-puzzle-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
