@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC plans to consider, as soon as this fall, conflict of interest rules for financial advisers and brokerages using AI to steer clients toward products &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230717/p15#a230717p15)
- - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
- - [YouTube is testing a new way to let you easily watch videos at 2x speed](https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment)<!-- TECH:END -->
+ - [Apple can delay App Store changes to file Supreme Court plea](https://www.theverge.com/2023/7/17/23798090/apple-epic-supreme-court-app-store-appeal)
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Ford Slashes F-150 Lightning EV&#39;s Starting Price to $51,990     - CNET](https://www.cnet.com/roadshow/news/2023-ford-f-150-lightning-price-cuts-announced/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
