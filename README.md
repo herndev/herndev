@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - ⏩ [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
- - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
+ - 💣 [Gotta check then double check](http://9gag.com/gag/avQ9Krn)
+ - ⏩ [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 👉 [Exactly](http://9gag.com/gag/aoKnQrg)<!-- MEMES:END -->
 
 ---
 
