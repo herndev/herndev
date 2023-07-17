@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Nothing Phone 2 update brings camera improvements and new features galore](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
  - [YouTube quietly rolls out new ‘Stable Volume’ feature](https://www.androidauthority.com/youtube-stable-volume-3345687/)
- - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)
- - [Unopened original iPhone auction smashes record with $158,000 price](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)<!-- TECH:END -->
+ - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
