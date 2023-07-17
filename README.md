@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Yellowstone guy’s spy thriller, more Justified, and all the new TV this week](https://www.polygon.com/2023/7/17/23786445/new-netflix-justified-tv-taylor-sheridan-special-ops-nicole-kidman)
- - [Studio Ghibli&#39;s Final Miyazaki Film Opens Huge Despite Zero Marketing](https://kotaku.com/studio-ghibli-hayao-miyazaki-how-do-you-live-boy-heron-1850648046)
- - [Netflix’s Monkey King looks bananas](https://www.polygon.com/23797670/the-monkey-king-netflix-trailer-release-date)<!-- GAME:END -->
+ - [With Over 92 Million Views, Fans Made This the Most-Watched Xbox Show Ever](https://news.xbox.com/en-us/2023/07/17/fans-made-this-most-watched-xbox-show-ever/)
+ - [When will Mission: Impossible — Dead Reckoning Part One come to streaming?](https://www.polygon.com/23797805/mission-impossible-dead-reckoning-part-one-streaming-paramount-plus)
+ - [Sony throws in the towel, signs 10 year Call of Duty deal with Microsoft](https://www.pcgamer.com/sony-throws-in-the-towel-signs-10-year-call-of-duty-deal-with-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
