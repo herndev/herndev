@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With Over 92 Million Views, Fans Made This the Most-Watched Xbox Show Ever](https://news.xbox.com/en-us/2023/07/17/fans-made-this-most-watched-xbox-show-ever/)
- - [When will Mission: Impossible — Dead Reckoning Part One come to streaming?](https://www.polygon.com/23797805/mission-impossible-dead-reckoning-part-one-streaming-paramount-plus)
- - [Sony throws in the towel, signs 10 year Call of Duty deal with Microsoft](https://www.pcgamer.com/sony-throws-in-the-towel-signs-10-year-call-of-duty-deal-with-microsoft)<!-- GAME:END -->
+ - [24 years after its forgotten PC debut, it&#39;s past time for Sega&#39;s Sakura Wars to get its due](https://www.pcgamer.com/20-years-after-its-forgotten-pc-debut-its-past-time-for-segas-sakura-wars-to-get-its-due)
+ - [Hayao Miyazaki’s How Do You Live? is a gloriously demented farewell](https://www.polygon.com/23797923/how-do-you-live-boy-and-the-heron-hayao-miyazaki-review)
+ - [With Over 92 Million Views, Fans Made This the Most-Watched Xbox Show Ever](https://news.xbox.com/en-us/2023/07/17/fans-made-this-most-watched-xbox-show-ever/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
