@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Head Phil Spencer Is Probably Playing Starfield Right Now](https://kotaku.com/phil-spencer-xbox-starfield-release-date-game-pass-1850649261)
  - [When will Spider-Man: Across the Spider-Verse come to Netflix?](https://www.polygon.com/23746701/spider-man-across-the-spiderverse-2-netflix-watch-online-stream-release-date)
- - [BattleBit Remastered won’t leave Steam Deck players behind when its anti-cheat update arrives](https://www.pcgamer.com/battlebit-remastered-wont-leave-steam-deck-players-behind-when-its-anti-cheat-update-arrives)
- - [The Pikabug Is An Important Part Of Pokémon History](https://kotaku.com/pokemon-pikachu-bug-car-beetle-merch-mewisme-tiktok-1850648929)<!-- GAME:END -->
+ - [BattleBit Remastered won’t leave Steam Deck players behind when its anti-cheat update arrives](https://www.pcgamer.com/battlebit-remastered-wont-leave-steam-deck-players-behind-when-its-anti-cheat-update-arrives)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
