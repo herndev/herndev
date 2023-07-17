@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
- - ⏩ [How are they always suprised, when they `... and Find out`](http://9gag.com/gag/aWGRKD3)
- - 👉 [What an intolerant and racist country. Miss Poland won by white &lt;wait for it&gt; WOMAN!](http://9gag.com/gag/aGE7XEz)<!-- MEMES:END -->
+ - 💣 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - ⏩ [Waiting for the summer](http://9gag.com/gag/agoKeOW)
+ - 👉 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)<!-- MEMES:END -->
 
 ---
 
