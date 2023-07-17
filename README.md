@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Palit debuts an RTX 4060 with a physical x8 PCIe connector, and it makes perfect sense](https://www.pcgamer.com/palit-debuts-an-rtx-4060-with-a-physical-x8-pcie-connector-and-it-makes-perfect-sense)
  - [Today&#39;s Wordle hint and answer #758: Monday, July 17](https://www.pcgamer.com/wordle-answer-today-hint-758-july-17)
- - [The Righteous Gemstones made Tim Baltz fight a naked man to become a better person](https://www.polygon.com/23795001/righteous-gemstones-naked-fight-episode-6-tim-baltz)
- - [A new trailer for this &#39;embroidered medieval platformer&#39; shows off the sprawling underworld  buried under its sunny village.](https://www.pcgamer.com/a-new-trailer-for-this-embroidered-medieval-platformer-shows-off-the-sprawling-underworld-buried-under-its-sunny-village)<!-- GAME:END -->
+ - [The Righteous Gemstones made Tim Baltz fight a naked man to become a better person](https://www.polygon.com/23795001/righteous-gemstones-naked-fight-episode-6-tim-baltz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
