@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palit debuts an RTX 4060 with a physical x8 PCIe connector, and it makes perfect sense](https://www.pcgamer.com/palit-debuts-an-rtx-4060-with-a-physical-x8-pcie-connector-and-it-makes-perfect-sense)
- - [Today&#39;s Wordle hint and answer #758: Monday, July 17](https://www.pcgamer.com/wordle-answer-today-hint-758-july-17)
- - [The Righteous Gemstones made Tim Baltz fight a naked man to become a better person](https://www.polygon.com/23795001/righteous-gemstones-naked-fight-episode-6-tim-baltz)<!-- GAME:END -->
+ - [WoW&#39;s new specialisation turns death knights into 13 million DPS boss scourges, as long as you bring 22 of them along](https://www.pcgamer.com/wows-new-specialisation-turns-death-knights-into-13-million-dps-boss-scourges-as-long-as-you-bring-22-of-them-along)
+ - [July&#39;s Windows 11 update could be the solution to your game stuttering woes](https://www.pcgamer.com/julys-windows-11-update-could-be-the-solution-to-your-game-stuttering-woes)
+ - [Sony admits defeat and signs Microsoft deal to keep Call of Duty on PlayStation](https://www.polygon.com/23797265/microsoft-sony-xbox-playstation-call-of-duty-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
