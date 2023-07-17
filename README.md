@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft might be killing Xbox Live Gold &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)
- - [Daily deals July 17: $250 off M1 Mac mini, $999 M2 MacBook Air, iPhone 12 Pro from $499, more](https://appleinsider.com/articles/23/07/17/daily-deals-july-17-250-off-m1-mac-mini-999-m2-macbook-air-iphone-12-pro-from-499-more?utm_medium=rss)
- - [Ford cuts F-150 Lightning prices, taking the cheapest model under $50,000](https://www.theverge.com/2023/7/17/23797364/ford-f-150-lightning-electric-truck-price-drop)<!-- TECH:END -->
+ - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)
+ - [OLED iPhone screens can now be repaired with a laser](https://appleinsider.com/articles/23/07/17/oled-iphone-screens-can-now-be-repaired-with-a-laser?utm_medium=rss)
+ - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
