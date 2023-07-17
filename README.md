@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Replacing her soap by a potato](http://9gag.com/gag/a9qDo76)
- - ⏩ [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
- - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
+ - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - ⏩ [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
+ - 👉 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)<!-- MEMES:END -->
 
 ---
 
