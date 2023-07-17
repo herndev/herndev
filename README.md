@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
- - ⏩ [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
- - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
+ - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - ⏩ [Title](http://9gag.com/gag/aA0v9w2)
+ - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 
 ---
 
