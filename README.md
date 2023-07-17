@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new way to let you easily watch videos at 2x speed](https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment)
- - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)
- - [An interview with LinkedIn CEO Ryan Roslansky on designing tools to keep users coming back more often, pulling back from China, &quot;the great reshuffle&quot;, and more &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/230717/p14#a230717p14)<!-- TECH:END -->
+ - [The US SEC plans to consider, as soon as this fall, conflict of interest rules for financial advisers and brokerages using AI to steer clients toward products &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230717/p15#a230717p15)
+ - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
+ - [YouTube is testing a new way to let you easily watch videos at 2x speed](https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
