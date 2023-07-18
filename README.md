@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision all-but-confirms Modern Warfare 3 will let players carry over their hard-won loot from its predecessor](https://www.pcgamer.com/activision-all-but-confirms-modern-warfare-3-will-let-players-carry-over-their-hard-won-loot-from-its-predecessor)
- - [The Next Game Pass Additions Are For Those With Impeccable Taste](https://kotaku.com/xbox-game-pass-titles-july-celeste-venba-pc-series-x-1850651537)
- - [Welcome to the strange world of custom RTX 4060 GPUs](https://www.pcgamer.com/welcome-to-the-strange-world-of-custom-rtx-4060-gpus)<!-- GAME:END -->
+ - [11 Minutes With Baldur’s Gate 3’s Character Creator](https://kotaku.com/baldurs-gate-3-character-creator-larian-studios-rpg-pc-1850651865)
+ - [Kith made some hypebeast apparel for X-Men’s 60th anniversary](https://www.polygon.com/deals/23799028/x-men-kith-marvel-60-anniversary-collection-buy)
+ - [Neopets announces change of management and a relaunch of the main site](https://www.polygon.com/23798952/neopets-team-management-change-announcement-mobile-app)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
