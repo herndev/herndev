@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neopets Is Under New Management, Ditching NFTs And Other BS](https://kotaku.com/neopets-netdragon-giant-omelette-faeries-species-nfts-1850652553)
- - [All the new Legendary Aspects in Diablo 4 season 1](https://www.polygon.com/diablo-4-guides/23799214/new-legendary-aspects)
- - [GTA-themed &#39;Cluckin&#39; Bell&#39; pop-up restaurant catches cease and desist from Take Two, so they&#39;re renaming it &#39;Don&#39;t Cluckin&#39; Tell&#39;](https://www.pcgamer.com/gta-themed-cluckin-bell-pop-up-restaurant-catches-cease-and-desist-from-take-two-so-theyre-renaming-it-dont-cluckin-tell)<!-- GAME:END -->
+ - [Steven Soderbergh’s secret TV show is the weirdest PSA I’ve ever seen](https://www.polygon.com/23799458/steven-soderbergh-command-z-review)
+ - [Dev Promises To Make Up For Hated Game With Free Remaster](https://kotaku.com/grey-skies-free-remaster-steel-arts-software-hg-wells-1850652919)
+ - [Despite $500,000 win against abusive &#39;fan,&#39; Destiny 2 developers are still being harassed &#39;just because they work at Bungie&#39;](https://www.pcgamer.com/despite-dollar500000-win-against-abusive-fan-destiny-2-developers-are-still-being-harassed-just-because-they-work-at-bungie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
