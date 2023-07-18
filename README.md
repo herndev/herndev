@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)
- - [Four charged over murder of carjacking victim who chased thieves with AirTag](https://appleinsider.com/articles/23/07/18/four-charged-over-murder-of-carjacking-victim-who-chased-thieves-with-airtag?utm_medium=rss)
- - [Apple&#39;s Alan Dye talks Vision Pro goals and that &#39;see-through&#39; display](https://appleinsider.com/articles/23/07/18/apples-alan-dye-talks-vision-pro-goals-and-that-see-through-display?utm_medium=rss)<!-- TECH:END -->
+ - [Filling: Celsius agrees to settle with Series B holders to distribute $25M from the sale of crypto custodian GK8; Galaxy Digital bought GK8 from Celsius in 2022 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230718/p9#a230718p9)
+ - [South Korea-based internet group Naver plans to release its HyperCLOVA X AI model this summer, as Google cuts into its core domestic search engine business &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/230718/p8#a230718p8)
+ - [Apple is still coming out on top of an incredibly bad smartphone market](https://appleinsider.com/articles/23/07/18/apple-is-still-coming-out-on-top-of-an-incredibly-bad-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
