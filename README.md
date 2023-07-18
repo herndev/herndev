@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
- - ⏩ [Deadly dead](http://9gag.com/gag/a5X50Do)
- - 👉 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)<!-- MEMES:END -->
+ - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - ⏩ [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
+ - 👉 [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)<!-- MEMES:END -->
 
 ---
 
