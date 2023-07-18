@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Venba, The Wandering Village, Serious Sam: Siberian Mayhem, and More](https://news.xbox.com/en-us/2023/07/18/game-pass-july-2023-wave-2-announce/)
- - [Kickstarter rival Backerkit exits beta on the heels of a successful Gloomhaven campaign](https://www.polygon.com/23794845/backerkit-exits-beta-kickstarter-crowdfunding-board-game-announcement)
- - [I&#39;m quitting my job to sell adorable stickers on the internet](https://www.pcgamer.com/im-quitting-my-job-to-sell-adorable-stickers-on-the-internet)<!-- GAME:END -->
+ - [Marvel’s Venom finally reaches coveted pinball machine status](https://www.polygon.com/23798734/marvel-venom-pinball-stern-price-date-sdcc-2023)
+ - [The board game of the year is based on a &lpar;brilliant&rpar; video game](https://www.polygon.com/tabletop-games/23798614/spiel-des-jahres-2023-dorfromantik-the-board-game)
+ - [The 20 Best Nerdy Video Game Rap Lyrics](https://kotaku.com/video-game-rap-references-doja-cat-megan-thee-stallion-1850648672)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
