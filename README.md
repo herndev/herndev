@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Venom finally reaches coveted pinball machine status](https://www.polygon.com/23798734/marvel-venom-pinball-stern-price-date-sdcc-2023)
- - [The board game of the year is based on a &lpar;brilliant&rpar; video game](https://www.polygon.com/tabletop-games/23798614/spiel-des-jahres-2023-dorfromantik-the-board-game)
- - [The 20 Best Nerdy Video Game Rap Lyrics](https://kotaku.com/video-game-rap-references-doja-cat-megan-thee-stallion-1850648672)<!-- GAME:END -->
+ - [Modern Warfare II Operators, Weapons, And Bundles Transfer To New Game](https://kotaku.com/call-of-duty-2023-modern-warfare-2-operator-carry-over-1850650919)
+ - [Diablo IV Is About To Make Loot Way Better For New Characters](https://kotaku.com/diablo-4-iv-season-1-malignant-update-loot-1850650938)
+ - [UK&#39;s NHS clinic for &#39;gaming disorders&#39; claims unexpectedly high patient numbers in early years, with some &#39;referring themselves&#39;](https://www.pcgamer.com/uks-nhs-clinic-for-gaming-disorders-claims-unexpectedly-high-patient-numbers-in-early-years-with-some-referring-themselves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
