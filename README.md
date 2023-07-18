@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
- - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
+ - 💣 [Surprising.](http://9gag.com/gag/aL1WYNP)
+ - ⏩ [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 👉 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)<!-- MEMES:END -->
 
 ---
 
