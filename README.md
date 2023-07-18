@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA-themed &#39;Cluckin&#39; Bell&#39; pop-up restaurant catches cease and desist from Take Two, so they&#39;re renaming it &#39;Don&#39;t Cluckin&#39; Tell&#39;](https://www.pcgamer.com/gta-themed-cluckin-bell-pop-up-restaurant-catches-cease-and-desist-from-take-two-so-theyre-renaming-it-dont-cluckin-tell)
- - [Tears of the Kingdom Fans Think They See Link’s Well-Endowed Package](https://kotaku.com/legend-of-zelda-tears-kingdom-link-balls-glitch-switch-1850652209)
- - [Diablo 4 patch preps game for season 1 with balance changes, new Uber unique](https://www.polygon.com/23799172/diablo-4-patch-notes-july-18-season-1)<!-- GAME:END -->
+ - [Neopets Is Under New Management, Ditching NFTs And Other BS](https://kotaku.com/neopets-netdragon-giant-omelette-faeries-species-nfts-1850652553)
+ - [All the new Legendary Aspects in Diablo 4 season 1](https://www.polygon.com/diablo-4-guides/23799214/new-legendary-aspects)
+ - [GTA-themed &#39;Cluckin&#39; Bell&#39; pop-up restaurant catches cease and desist from Take Two, so they&#39;re renaming it &#39;Don&#39;t Cluckin&#39; Tell&#39;](https://www.pcgamer.com/gta-themed-cluckin-bell-pop-up-restaurant-catches-cease-and-desist-from-take-two-so-theyre-renaming-it-dont-cluckin-tell)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
