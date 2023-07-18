@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/18/20230718-psplus/)
- - [Can Rhyhorn be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23797625/can-rhyhorn-be-shiny-rhydon-rhyperior)
- - [Haptic suits give deaf concertgoers a way to experience music again](https://www.pcgamer.com/haptic-suits-give-deaf-concertgoers-a-way-to-experience-music-again)<!-- GAME:END -->
+ - [Stardew Valley&#39;s newest update is looking bigger than we initially thought](https://www.pcgamer.com/stardew-valleys-newest-update-is-looking-bigger-than-we-initially-thought)
+ - [Salad Fingers creator is making a bizarre side-scroller beat&#39;em up, which will be priced at &#39;a fiver or something&#39;](https://www.pcgamer.com/salad-fingers-creator-is-making-a-bizarre-side-scroller-beatem-up-which-will-be-priced-at-a-fiver-or-something)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/18/20230718-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
