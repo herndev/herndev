@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
- - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
- - 👉 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)<!-- MEMES:END -->
+ - 💣 [50 fifty chance he buried.](http://9gag.com/gag/ajVRbO0)
+ - ⏩ [Deadly dead](http://9gag.com/gag/a5X50Do)
+ - 👉 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)<!-- MEMES:END -->
 
 ---
 
