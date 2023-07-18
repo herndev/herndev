@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - ⏩ [Beauty spray](http://9gag.com/gag/a1POGoG)
- - 👉 [Well... Yes...](http://9gag.com/gag/axomX92)<!-- MEMES:END -->
+ - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - ⏩ [Hey guys, quick math](http://9gag.com/gag/aQEywxe)
+ - 👉 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)<!-- MEMES:END -->
 
 ---
 
