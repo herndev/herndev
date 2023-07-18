@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First major Threads update adds a some highly desired features](https://appleinsider.com/articles/23/07/18/first-major-threads-update-adds-a-some-highly-desired-features?utm_medium=rss)
- - [Reddit’s only free iOS app icons are ugly now](https://www.theverge.com/2023/7/18/23799266/reddit-app-icons-ugly)
- - [The best Google Home and Nest deals of July 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
+ - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
+ - [Sources: ~700K TikTok accounts in Turkey were hacked before Turkey&#39;s election in May via a flaw TikTok knew in 2022; TikTok admits &quot;unusual activity&quot; in April &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230718/p30#a230718p30)
+ - [Instagram Reels are about to get a lot more repetitive](https://www.theverge.com/2023/7/18/23799349/instagram-reels-templates-trending-effects-editing-browser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
