@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
- - ⏩ [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
- - 👉 [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)<!-- MEMES:END -->
+ - 💣 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - ⏩ [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 
 ---
 
