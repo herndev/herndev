@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare II Operators, Weapons, And Bundles Transfer To New Game](https://kotaku.com/call-of-duty-2023-modern-warfare-2-operator-carry-over-1850650919)
- - [Diablo IV Is About To Make Loot Way Better For New Characters](https://kotaku.com/diablo-4-iv-season-1-malignant-update-loot-1850650938)
- - [UK&#39;s NHS clinic for &#39;gaming disorders&#39; claims unexpectedly high patient numbers in early years, with some &#39;referring themselves&#39;](https://www.pcgamer.com/uks-nhs-clinic-for-gaming-disorders-claims-unexpectedly-high-patient-numbers-in-early-years-with-some-referring-themselves)<!-- GAME:END -->
+ - [The Legend of Monkey Island: How Sea of Thieves Is Translating Monkey Island’s Story, Gameplay, and More — an Exclusive Interview](https://news.xbox.com/en-us/2023/07/18/legend-of-monkey-island-exclusive-interview/)
+ - [The best Barbie gifts for fans](https://www.polygon.com/what-to-buy/23787037/barbie-gifts-toys-dolls-merch)
+ - [Stardew Valley will get a new festival and some secrets in Patch 1.6](https://www.polygon.com/23798859/stardew-valley-patch-1-6-announcement-festival-concernedape-twitter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
