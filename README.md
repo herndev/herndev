@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
- - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
- - [USB 4 docks arrive with enough bandwidth for two 4K 120Hz displays](https://www.theverge.com/2023/7/18/23798610/plugable-usb4-dual-hdmi-docking-station-4k-120hz-thunderbolt-4)<!-- TECH:END -->
+ - [Neckbuds never die](https://www.theverge.com/2023/7/18/23797259/beyerdynamic-blue-byrd-anc-wireless-earbuds-neckband-neckbuds)
+ - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
+ - [TSMC profits fall but the iPhone 15 will help it rebound](https://appleinsider.com/articles/23/07/18/tsmc-profits-fall-but-the-iphone-15-will-help-it-rebound?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
