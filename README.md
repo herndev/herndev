@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - ⏩ [This is f**ked up](http://9gag.com/gag/amAR33v)
- - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 💣 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - ⏩ [Surprising.](http://9gag.com/gag/aL1WYNP)
+ - 👉 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)<!-- MEMES:END -->
 
 ---
 
