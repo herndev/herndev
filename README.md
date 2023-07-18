@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Twitter vs Threads by Meta: Which social media platform is better?](https://www.androidauthority.com/threads-vs-twitter-3345786/)
- - [Fourth Amendment Is Not for Sale Act Goes Back to Congress](https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/)<!-- TECH:END -->
+ - [Qualcomm and Meta announce that Llama 2 will run on Qualcomm chips on phones and PCs starting in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230718/p23#a230718p23)
+ - [The New York Times is shutting down its math-based puzzle game](https://www.theverge.com/2023/7/18/23798932/the-new-york-times-digits-math-based-puzzle-game-shut-down)
+ - [Sources: Nvidia is nearing an investment in cloud compute service Lambda Labs in a deal that could total $300M, after taking a $100M equity stake in CoreWeave &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230718/p22#a230718p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
