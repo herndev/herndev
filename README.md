@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - ⏩ [Surprising.](http://9gag.com/gag/aL1WYNP)
- - 👉 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)<!-- MEMES:END -->
+ - 💣 [This is how modifications end](http://9gag.com/gag/axo4dMM)
+ - ⏩ [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 👉 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)<!-- MEMES:END -->
 
 ---
 
