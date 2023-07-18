@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Samsung’s new foldables could borrow a useful accessory from the Galaxy S23](https://www.androidauthority.com/samsung-galaxy-z-fold-flip-5-ring-case-leak-3346026/)
- - [A look at local US governments&#39; use of Automatic License Plate Recognition startups, like Rekor and Flock, that claim to spot &quot;suspicious&quot; movement patterns &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230718/p5#a230718p5)<!-- TECH:END -->
+ - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)
+ - [Four charged over murder of carjacking victim who chased thieves with AirTag](https://appleinsider.com/articles/23/07/18/four-charged-over-murder-of-carjacking-victim-who-chased-thieves-with-airtag?utm_medium=rss)
+ - [Apple&#39;s Alan Dye talks Vision Pro goals and that &#39;see-through&#39; display](https://appleinsider.com/articles/23/07/18/apples-alan-dye-talks-vision-pro-goals-and-that-see-through-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
