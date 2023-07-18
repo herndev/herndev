@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)
- - ⏩ [No turning back](http://9gag.com/gag/a9qDg9o)
- - 👉 [Well... Yes...](http://9gag.com/gag/axomX92)<!-- MEMES:END -->
+ - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 👉 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)<!-- MEMES:END -->
 
 ---
 
