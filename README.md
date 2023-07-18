@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No turning back](http://9gag.com/gag/a9qDg9o)
- - ⏩ [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
  - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
 
 ---
