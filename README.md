@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and Taito’s AR Space Invaders game is out now on Android and launching soon on iOS](https://www.theverge.com/2023/7/17/23798016/google-taito-space-invaders-world-defense-ios-android)
  - [Neopets is promising a ‘new era’ with an improved website and fixed Flash games](https://www.theverge.com/2023/7/17/23798368/neopets-relaunch-website-flash-games)
- - [Peacock to raise prices by $1 for its Premium tier to $5.99/mo and $2 for Premium Plus to $11.99/mo for new customers, and starting August 17 for existing users &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230717/p23#a230717p23)
- - [Handheld Gaming Consoles Will Soon Require Replaceable Batteries     - CNET](https://www.cnet.com/tech/gaming/handheld-gaming-consoles-will-soon-require-replaceable-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Peacock raises its Premium price by $1 to $5.99/month and Premium Plus by $2 to $11.99/month, at once for new customers and on August 17 for current subscribers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230717/p23#a230717p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
