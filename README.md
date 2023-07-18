@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steven Soderbergh’s secret TV show is the weirdest PSA I’ve ever seen](https://www.polygon.com/23799458/steven-soderbergh-command-z-review)
- - [Dev Promises To Make Up For Hated Game With Free Remaster](https://kotaku.com/grey-skies-free-remaster-steel-arts-software-hg-wells-1850652919)
- - [Despite $500,000 win against abusive &#39;fan,&#39; Destiny 2 developers are still being harassed &#39;just because they work at Bungie&#39;](https://www.pcgamer.com/despite-dollar500000-win-against-abusive-fan-destiny-2-developers-are-still-being-harassed-just-because-they-work-at-bungie)<!-- GAME:END -->
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
+ - [Baldur&#39;s Gate 3 Aims For RPG Fans&#39; Ultimate Character Creator](https://kotaku.com/baldurs-gate-3-character-creator-races-genitals-options-1850653066)
+ - [Women Are Staying In FC 24 Ultimate Team, Go Cry About It](https://kotaku.com/ea-fc-24-fifa-ultimate-team-women-pro-clubs-beta-mbappe-1850653012)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
