@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s newest update is looking bigger than we initially thought](https://www.pcgamer.com/stardew-valleys-newest-update-is-looking-bigger-than-we-initially-thought)
- - [Salad Fingers creator is making a bizarre side-scroller beat&#39;em up, which will be priced at &#39;a fiver or something&#39;](https://www.pcgamer.com/salad-fingers-creator-is-making-a-bizarre-side-scroller-beatem-up-which-will-be-priced-at-a-fiver-or-something)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/18/20230718-psplus/)<!-- GAME:END -->
+ - [Drop says the world will find it easier to buy cool keycaps and headphones now it&#39;s owned by Corsair](https://www.pcgamer.com/drop-says-the-world-will-find-it-easier-to-buy-cool-keycaps-and-headphones-now-its-owned-by-corsair)
+ - [After 2 years away, dev realises no one liked his game and promises a free remaster to make up for it: &#39;I hope it will go some way to rectify mistakes we have made&#39;](https://www.pcgamer.com/after-2-years-away-dev-realises-no-one-liked-his-game-and-promises-a-free-remaster-to-make-up-for-it-i-hope-it-will-go-some-way-to-rectify-mistakes-we-have-made)
+ - [Logitech wants what Elgato has: buys desktop controller maker Loupedeck](https://www.pcgamer.com/logitech-wants-what-elgato-has-as-it-buys-up-desktop-controller-maker-loupedeck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
