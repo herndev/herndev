@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of hunting Pokemon? Google’s new AR game will let you take down aliens](https://www.androidauthority.com/google-taito-space-invaders-world-defense-3346013/)
- - [Nasdaq-listed Grab and Jakarta-listed GoTo, whose stocks are 60%+ below listing price, pare back &quot;superapp&quot; approach by cutting jobs and marginal business units &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/230717/p25#a230717p25)
- - [PDD&#39;s Temu sues rival Shein in the US, alleging Shein violated antitrust laws by intimidating clothing manufacturers into supply arrangements that excluded Temu &lpar;Bloomberg&rpar;](http://www.techmeme.com/230717/p24#a230717p24)<!-- TECH:END -->
+ - [Sources: EU&#39;s attempts to lobby Asian countries like Singapore to adopt its AI Act are getting a lukewarm reception as many favor a &quot;wait and see&quot; approach &lpar;Reuters&rpar;](http://www.techmeme.com/230718/p2#a230718p2)
+ - [Threads&#39; early growth decisively proved the demand for a new text-based conversation app that could fully supplant Twitter&#39;s role in shaping public conversation &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230718/p1#a230718p1)
+ - [Tired of hunting Pokemon? Google’s new AR game will let you take down aliens](https://www.androidauthority.com/google-taito-space-invaders-world-defense-3346013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
