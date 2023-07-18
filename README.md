@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues release candidates for iOS 15.7.8, iPadOS 15.7.8, macOS Big Sur 11.7.9, and Monterey 12.6.8](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-ios-1578-ipados-1578-macos-big-sur-1179-and-monterey-1268?utm_medium=rss)
- - [Elon Musk says Twitter is working on a feature that will let you publish articles](https://www.theverge.com/2023/7/18/23799138/elon-musk-twitter-articles-notes)
- - [These ultra-rare Apple sneakers can be yours -- for $50,000](https://appleinsider.com/articles/23/07/18/these-ultra-rare-apple-sneakers-can-be-yours----for-50000?utm_medium=rss)<!-- TECH:END -->
+ - [This $49.99 wired Xbox controller has sticks that won’t drift](https://www.theverge.com/2023/7/18/23799149/gamesir-g7-se-xbox-windows-hall-effect-drift-free-controller-price)
+ - [Logitech buys Stream Deck rival Loupedeck](https://www.theverge.com/2023/7/18/23798716/logitech-loupedeck-acquisition-announcement)
+ - [OnePlus 12 leaks show a bigger battery and faster charging](https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
