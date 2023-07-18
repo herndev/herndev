@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filling: Celsius agrees to settle with Series B holders to distribute $25M from the sale of crypto custodian GK8; Galaxy Digital bought GK8 from Celsius in 2022 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230718/p9#a230718p9)
- - [South Korea-based internet group Naver plans to release its HyperCLOVA X AI model this summer, as Google cuts into its core domestic search engine business &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/230718/p8#a230718p8)
- - [Apple is still coming out on top of an incredibly bad smartphone market](https://appleinsider.com/articles/23/07/18/apple-is-still-coming-out-on-top-of-an-incredibly-bad-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
+ - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
+ - [USB 4 docks arrive with enough bandwidth for two 4K 120Hz displays](https://www.theverge.com/2023/7/18/23798610/plugable-usb4-dual-hdmi-docking-station-4k-120hz-thunderbolt-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
