@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Haptic suits give deaf concertgoers a way to experience music again](https://www.pcgamer.com/haptic-suits-give-deaf-concertgoers-a-way-to-experience-music-again)
  - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/17/deals-with-gold-and-spotlight-sale-plus-ultimate-game-sale/)
- - [Samsung&#39;s 3nm process is shaping up very nicely, and that&#39;s good news for gamers](https://www.pcgamer.com/samsungs-3nm-process-is-shaping-up-very-nicely-and-thats-good-news-for-gamers)
- - [Today&#39;s Wordle hint and answer #759: Tuesday, July 18](https://www.pcgamer.com/wordle-answer-today-hint-759-july-18)<!-- GAME:END -->
+ - [Samsung&#39;s 3nm process is shaping up very nicely, and that&#39;s good news for gamers](https://www.pcgamer.com/samsungs-3nm-process-is-shaping-up-very-nicely-and-thats-good-news-for-gamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
