@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm and Meta announce that Llama 2 will run on Qualcomm chips on phones and PCs starting in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230718/p23#a230718p23)
- - [The New York Times is shutting down its math-based puzzle game](https://www.theverge.com/2023/7/18/23798932/the-new-york-times-digits-math-based-puzzle-game-shut-down)
- - [Sources: Nvidia is nearing an investment in cloud compute service Lambda Labs in a deal that could total $300M, after taking a $100M equity stake in CoreWeave &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230718/p22#a230718p22)<!-- TECH:END -->
+ - [Apple issues release candidates for iOS 15.7.8, iPadOS 15.7.8, macOS Big Sur 11.7.9, and Monterey 12.6.8](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-ios-1578-ipados-1578-macos-big-sur-1179-and-monterey-1268?utm_medium=rss)
+ - [Elon Musk says Twitter is working on a feature that will let you publish articles](https://www.theverge.com/2023/7/18/23799138/elon-musk-twitter-articles-notes)
+ - [These ultra-rare Apple sneakers can be yours -- for $50,000](https://appleinsider.com/articles/23/07/18/these-ultra-rare-apple-sneakers-can-be-yours----for-50000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
