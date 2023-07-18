@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kill em softly](http://9gag.com/gag/aNwjyYv)
- - ⏩ [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
- - 👉 [Non-forced snuggle [follow-up to @cheekbuster69 &#39;s post]](http://9gag.com/gag/ajVyQRx)<!-- MEMES:END -->
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - ⏩ [Beauty spray](http://9gag.com/gag/a1POGoG)
+ - 👉 [Well... Yes...](http://9gag.com/gag/axomX92)<!-- MEMES:END -->
 
 ---
 
