@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
- - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
- - 👉 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)<!-- MEMES:END -->
+ - 💣 [No turning back](http://9gag.com/gag/a9qDg9o)
+ - ⏩ [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
 
 ---
 
