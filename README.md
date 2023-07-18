@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $49.99 wired Xbox controller has sticks that won’t drift](https://www.theverge.com/2023/7/18/23799149/gamesir-g7-se-xbox-windows-hall-effect-drift-free-controller-price)
- - [Logitech buys Stream Deck rival Loupedeck](https://www.theverge.com/2023/7/18/23798716/logitech-loupedeck-acquisition-announcement)
- - [OnePlus 12 leaks show a bigger battery and faster charging](https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging)<!-- TECH:END -->
+ - [First major Threads update adds a some highly desired features](https://appleinsider.com/articles/23/07/18/first-major-threads-update-adds-a-some-highly-desired-features?utm_medium=rss)
+ - [Reddit’s only free iOS app icons are ugly now](https://www.theverge.com/2023/7/18/23799266/reddit-app-icons-ugly)
+ - [The best Google Home and Nest deals of July 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
