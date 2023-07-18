@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s refurbished Smart Thermostat is $40 and can help lower your energy bills](https://www.theverge.com/2023/7/18/23797509/amazon-smart-thermostat-hisense-u6h-4k-tv-google-nest-hub-max-deal-sale)
- - [Spain hits Apple and Amazon with $218 million combined antitrust fine](https://appleinsider.com/articles/23/07/18/spain-hits-apple-and-amazon-with-218-million-combined-antitrust-fine?utm_medium=rss)
- - [Rocket Lab successfully retrieves its reusable rocket after splashdown](https://www.theverge.com/2023/7/18/23798686/rocket-lab-electron-reusable-satellite-launch)<!-- TECH:END -->
+ - [The Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
+ - [Twitter vs Threads by Meta: Which social media platform is better?](https://www.androidauthority.com/threads-vs-twitter-3345786/)
+ - [Fourth Amendment Is Not for Sale Act Goes Back to Congress](https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
