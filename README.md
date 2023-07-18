@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates Final Cut Pro for iPad with new keyboard shortcuts](https://appleinsider.com/articles/23/07/18/apple-updates-final-cut-pro-for-ipad-with-new-keyboard-shortcuts?utm_medium=rss)
- - [Rapid7: threat actors have exploited zero-day code-execution flaws in Adobe ColdFusion and Citrix NetScaler, and Adobe has issued only an incomplete fix &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230718/p32#a230718p32)
- - [Instagram head says Android is now better than iOS, ignites furious debate](https://www.androidauthority.com/threads-android-adam-mosseri-3346246/)<!-- TECH:END -->
+ - [This Barbie is a feminist parable fighting to be great in spite of Mattel’s input](https://www.theverge.com/23799181/barbie-review-mattel-warner-bros-greta-gerwig)
+ - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)
+ - [Google is testing AI-generated Meet video backgrounds](https://www.theverge.com/2023/7/18/23799459/google-meet-ai-generated-videoconferencing-background-image)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
