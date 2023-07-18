@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Monkey Island: How Sea of Thieves Is Translating Monkey Island’s Story, Gameplay, and More — an Exclusive Interview](https://news.xbox.com/en-us/2023/07/18/legend-of-monkey-island-exclusive-interview/)
- - [The best Barbie gifts for fans](https://www.polygon.com/what-to-buy/23787037/barbie-gifts-toys-dolls-merch)
- - [Stardew Valley will get a new festival and some secrets in Patch 1.6](https://www.polygon.com/23798859/stardew-valley-patch-1-6-announcement-festival-concernedape-twitter)<!-- GAME:END -->
+ - [Activision all-but-confirms Modern Warfare 3 will let players carry over their hard-won loot from its predecessor](https://www.pcgamer.com/activision-all-but-confirms-modern-warfare-3-will-let-players-carry-over-their-hard-won-loot-from-its-predecessor)
+ - [The Next Game Pass Additions Are For Those With Impeccable Taste](https://kotaku.com/xbox-game-pass-titles-july-celeste-venba-pc-series-x-1850651537)
+ - [Welcome to the strange world of custom RTX 4060 GPUs](https://www.pcgamer.com/welcome-to-the-strange-world-of-custom-rtx-4060-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
