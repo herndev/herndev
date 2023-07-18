@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
- - ⏩ [Katie Hopkins on trans rights](http://9gag.com/gag/aDYQpMN)
- - 👉 [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)<!-- MEMES:END -->
+ - 💣 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)
+ - ⏩ [No turning back](http://9gag.com/gag/a9qDg9o)
+ - 👉 [Well... Yes...](http://9gag.com/gag/axomX92)<!-- MEMES:END -->
 
 ---
 
