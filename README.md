@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: It Takes Two, Sniper Elite 5, Twisted Metal](https://blog.playstation.com/2023/07/18/20230718-psplus/)
  - [Can Rhyhorn be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23797625/can-rhyhorn-be-shiny-rhydon-rhyperior)
- - [Haptic suits give deaf concertgoers a way to experience music again](https://www.pcgamer.com/haptic-suits-give-deaf-concertgoers-a-way-to-experience-music-again)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/17/deals-with-gold-and-spotlight-sale-plus-ultimate-game-sale/)<!-- GAME:END -->
+ - [Haptic suits give deaf concertgoers a way to experience music again](https://www.pcgamer.com/haptic-suits-give-deaf-concertgoers-a-way-to-experience-music-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
