@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Neopets goes independent, cancels NFT game and promises new era free from &#39;corporate baggage&#39;](https://www.pcgamer.com/neopets-goes-independent-cancels-nft-game-and-promises-new-era-free-from-corporate-baggage)
  - [Someone Bought A 16-Year-Old iPhone For Over $190,000](https://kotaku.com/iphone-4gb-8gb-sealed-auction-price-190k-apple-1850649480)
- - [Vampire Survivors saved its creator from working on mobile gambling games](https://www.pcgamer.com/vampire-survivors-saved-its-creator-from-working-on-mobile-gambling-games)
- - [The maker of Megaton Rainfall is working on a new game that looks even weirder than Megaton Rainfall](https://www.pcgamer.com/the-maker-of-megaton-rainfall-is-working-on-a-new-game-that-looks-even-weirder-than-megaton-rainfall)<!-- GAME:END -->
+ - [Vampire Survivors saved its creator from working on mobile gambling games](https://www.pcgamer.com/vampire-survivors-saved-its-creator-from-working-on-mobile-gambling-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
