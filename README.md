@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 12 should arrive globally like clockwork: Leak](https://www.androidauthority.com/oneplus-12-global-launch-3346016/)
  - [Sources: US chip company executives urged Secretary of State Blinken and other Biden administration officials on July 17 to halt further chip curbs on China &lpar;Reuters&rpar;](http://www.techmeme.com/230718/p4#a230718p4)
- - [VanMoof e-bikes is bankrupt](https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt)
- - [A pro-Ron DeSantis super PAC used an AI version of Trump&#39;s voice, which appears to be narrating Trump&#39;s Truth Social post, in a statewide TV attack ad in Iowa &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/230718/p3#a230718p3)<!-- TECH:END -->
+ - [VanMoof e-bikes is bankrupt](https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
