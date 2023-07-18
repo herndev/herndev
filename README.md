@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drop says the world will find it easier to buy cool keycaps and headphones now it&#39;s owned by Corsair](https://www.pcgamer.com/drop-says-the-world-will-find-it-easier-to-buy-cool-keycaps-and-headphones-now-its-owned-by-corsair)
- - [After 2 years away, dev realises no one liked his game and promises a free remaster to make up for it: &#39;I hope it will go some way to rectify mistakes we have made&#39;](https://www.pcgamer.com/after-2-years-away-dev-realises-no-one-liked-his-game-and-promises-a-free-remaster-to-make-up-for-it-i-hope-it-will-go-some-way-to-rectify-mistakes-we-have-made)
- - [Logitech wants what Elgato has: buys desktop controller maker Loupedeck](https://www.pcgamer.com/logitech-wants-what-elgato-has-as-it-buys-up-desktop-controller-maker-loupedeck)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Venba, The Wandering Village, Serious Sam: Siberian Mayhem, and More](https://news.xbox.com/en-us/2023/07/18/game-pass-july-2023-wave-2-announce/)
+ - [Kickstarter rival Backerkit exits beta on the heels of a successful Gloomhaven campaign](https://www.polygon.com/23794845/backerkit-exits-beta-kickstarter-crowdfunding-board-game-announcement)
+ - [I&#39;m quitting my job to sell adorable stickers on the internet](https://www.pcgamer.com/im-quitting-my-job-to-sell-adorable-stickers-on-the-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
