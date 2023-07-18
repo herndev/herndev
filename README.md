@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neopets goes independent, cancels NFT game and promises new era free from &#39;corporate baggage&#39;](https://www.pcgamer.com/neopets-goes-independent-cancels-nft-game-and-promises-new-era-free-from-corporate-baggage)
- - [Someone Bought A 16-Year-Old iPhone For Over $190,000](https://kotaku.com/iphone-4gb-8gb-sealed-auction-price-190k-apple-1850649480)
- - [Vampire Survivors saved its creator from working on mobile gambling games](https://www.pcgamer.com/vampire-survivors-saved-its-creator-from-working-on-mobile-gambling-games)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/17/deals-with-gold-and-spotlight-sale-plus-ultimate-game-sale/)
+ - [Samsung&#39;s 3nm process is shaping up very nicely, and that&#39;s good news for gamers](https://www.pcgamer.com/samsungs-3nm-process-is-shaping-up-very-nicely-and-thats-good-news-for-gamers)
+ - [Today&#39;s Wordle hint and answer #759: Tuesday, July 18](https://www.pcgamer.com/wordle-answer-today-hint-759-july-18)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
