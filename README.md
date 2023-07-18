@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
- - ⏩ [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
- - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 👉 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)<!-- MEMES:END -->
 
 ---
 
