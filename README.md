@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
- - [Baldur&#39;s Gate 3 Aims For RPG Fans&#39; Ultimate Character Creator](https://kotaku.com/baldurs-gate-3-character-creator-races-genitals-options-1850653066)
- - [Women Are Staying In FC 24 Ultimate Team, Go Cry About It](https://kotaku.com/ea-fc-24-fifa-ultimate-team-women-pro-clubs-beta-mbappe-1850653012)<!-- GAME:END -->
+ - [Diablo 4&#39;s best Barbarian build has been killed by a bug fix](https://www.pcgamer.com/diablo-4s-best-barbarian-build-has-been-killed-by-a-bug-fix)
+ - [Diablo 4 just got 6 new Uniques and 7 new Legendary Aspects: here&#39;s what they all are](https://www.pcgamer.com/diablo-4-110a-patch-new-items-aspects)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
