@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
- - [Sources: ~700K TikTok accounts in Turkey were hacked before Turkey&#39;s election in May via a flaw TikTok knew in 2022; TikTok admits &quot;unusual activity&quot; in April &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230718/p30#a230718p30)
- - [Instagram Reels are about to get a lot more repetitive](https://www.theverge.com/2023/7/18/23799349/instagram-reels-templates-trending-effects-editing-browser)<!-- TECH:END -->
+ - [Apple updates Final Cut Pro for iPad with new keyboard shortcuts](https://appleinsider.com/articles/23/07/18/apple-updates-final-cut-pro-for-ipad-with-new-keyboard-shortcuts?utm_medium=rss)
+ - [Rapid7: threat actors have exploited zero-day code-execution flaws in Adobe ColdFusion and Citrix NetScaler, and Adobe has issued only an incomplete fix &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230718/p32#a230718p32)
+ - [Instagram head says Android is now better than iOS, ignites furious debate](https://www.androidauthority.com/threads-android-adam-mosseri-3346246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
