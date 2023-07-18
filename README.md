@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neckbuds never die](https://www.theverge.com/2023/7/18/23797259/beyerdynamic-blue-byrd-anc-wireless-earbuds-neckband-neckbuds)
- - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
- - [TSMC profits fall but the iPhone 15 will help it rebound](https://appleinsider.com/articles/23/07/18/tsmc-profits-fall-but-the-iphone-15-will-help-it-rebound?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s refurbished Smart Thermostat is $40 and can help lower your energy bills](https://www.theverge.com/2023/7/18/23797509/amazon-smart-thermostat-hisense-u6h-4k-tv-google-nest-hub-max-deal-sale)
+ - [Spain hits Apple and Amazon with $218 million combined antitrust fine](https://appleinsider.com/articles/23/07/18/spain-hits-apple-and-amazon-with-218-million-combined-antitrust-fine?utm_medium=rss)
+ - [Rocket Lab successfully retrieves its reusable rocket after splashdown](https://www.theverge.com/2023/7/18/23798686/rocket-lab-electron-reusable-satellite-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
