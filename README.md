@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Minutes With Baldur’s Gate 3’s Character Creator](https://kotaku.com/baldurs-gate-3-character-creator-larian-studios-rpg-pc-1850651865)
- - [Kith made some hypebeast apparel for X-Men’s 60th anniversary](https://www.polygon.com/deals/23799028/x-men-kith-marvel-60-anniversary-collection-buy)
- - [Neopets announces change of management and a relaunch of the main site](https://www.polygon.com/23798952/neopets-team-management-change-announcement-mobile-app)<!-- GAME:END -->
+ - [GTA-themed &#39;Cluckin&#39; Bell&#39; pop-up restaurant catches cease and desist from Take Two, so they&#39;re renaming it &#39;Don&#39;t Cluckin&#39; Tell&#39;](https://www.pcgamer.com/gta-themed-cluckin-bell-pop-up-restaurant-catches-cease-and-desist-from-take-two-so-theyre-renaming-it-dont-cluckin-tell)
+ - [Tears of the Kingdom Fans Think They See Link’s Well-Endowed Package](https://kotaku.com/legend-of-zelda-tears-kingdom-link-balls-glitch-switch-1850652209)
+ - [Diablo 4 patch preps game for season 1 with balance changes, new Uber unique](https://www.polygon.com/23799172/diablo-4-patch-notes-july-18-season-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
