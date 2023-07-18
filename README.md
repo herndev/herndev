@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50 fifty chance he buried.](http://9gag.com/gag/ajVRbO0)
+ - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
  - ⏩ [Deadly dead](http://9gag.com/gag/a5X50Do)
- - 👉 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)<!-- MEMES:END -->
+ - 👉 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)<!-- MEMES:END -->
 
 ---
 
