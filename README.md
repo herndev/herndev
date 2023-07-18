@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
- - ⏩ [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)
- - 👉 [Good old humor.](http://9gag.com/gag/a04O2oq)<!-- MEMES:END -->
+ - 💣 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
+ - ⏩ [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 👉 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)<!-- MEMES:END -->
 
 ---
 
