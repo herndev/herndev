@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
  - [Samsung’s new foldables could borrow a useful accessory from the Galaxy S23](https://www.androidauthority.com/samsung-galaxy-z-fold-flip-5-ring-case-leak-3346026/)
- - [A look at local US governments&#39; use of Automatic License Plate Recognition startups, like Rekor and Flock, that claim to spot &quot;suspicious&quot; movement patterns &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230718/p5#a230718p5)
- - [OnePlus 12 should arrive globally like clockwork: Leak](https://www.androidauthority.com/oneplus-12-global-launch-3346016/)<!-- TECH:END -->
+ - [A look at local US governments&#39; use of Automatic License Plate Recognition startups, like Rekor and Flock, that claim to spot &quot;suspicious&quot; movement patterns &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230718/p5#a230718p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
