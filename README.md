@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
- - ⏩ [Had to edit out the cancer, however Stalone is an absolute legend](http://9gag.com/gag/a9qBLP6)
- - 👉 [Splash!](http://9gag.com/gag/aOxGyyD)<!-- MEMES:END -->
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - ⏩ [That escalated quickly.](http://9gag.com/gag/aqeAZ0p)
+ - 👉 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)<!-- MEMES:END -->
 
 ---
 
