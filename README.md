@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Dell dodged a class action suit over Alienware Area-51m GPU upgrades](https://www.theverge.com/2023/7/19/22313742/alienware-area-51m-lawsuit-gpu-upgrade-arbitration-settlement)
- - [Meta’s upcoming AR glasses are getting a few major downgrades](https://www.androidauthority.com/meta-ar-glasses-downgrade-3346541/)
- - [DoorDash fired an employee for trying to organize a union, NLRB alleges](https://www.theverge.com/2023/7/19/23800149/nlrb-doordash-fired-employee-union-arizona)<!-- TECH:END -->
+ - [Google launches Nearby Share for Windows, letting users transfer files between PCs and Android devices close to each other, after a beta started in March 2023 &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/230719/p34#a230719p34)
+ - [Reddit is now inviting mods to participate in weekly ‘feedback sessions’](https://www.theverge.com/2023/7/19/23800607/reddit-invites-mods-admins-conversation-protests)
+ - [Amazon says it’ll ditch plastic padded mailers](https://www.theverge.com/2023/7/19/23800435/amazon-plastic-padded-envelope-packaging-waste)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
