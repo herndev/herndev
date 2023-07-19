@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Malignant Hearts guide: How they work](https://www.pcgamer.com/diablo-4-malignant-hearts)
- - [Netflix kills its basic ad-free plan in the US and the UK](https://www.polygon.com/23800432/is-netflix-basic-plan-adding-ads-ad-free-removed-uk-us)
- - [CD Projekt is back with yet another big fix for The Witcher 3&#39;s grass](https://www.pcgamer.com/cd-projekt-is-back-with-yet-another-big-fix-for-the-witcher-3s-grass)<!-- GAME:END -->
+ - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)
+ - [Diablo IV’s Latest Patch Seems To Make The Game Grindier, Fans Say](https://kotaku.com/diablo-4-news-iv-patch-season-malignant-renown-grind-1850655108)
+ - [New Pokémon App Records Your Farts While You Sleep](https://kotaku.com/pokemon-sleep-records-farts-noises-release-date-us-1850655746)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
