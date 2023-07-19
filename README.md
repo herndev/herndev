@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - ⏩ [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - ⏩ [Well... Yes...](http://9gag.com/gag/axomX92)
  - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
