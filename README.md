@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Describe this life.](http://9gag.com/gag/anzVYRE)
- - ⏩ [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - ⏩ [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
 
 ---
 
