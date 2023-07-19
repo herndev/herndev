@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Activision Set New Deadline for $69B Deal: What It Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/microsoft-and-activision-set-new-deadline-for-69b-deal-what-it-means-for-gamers/#ftag=CAD590a51e)
- - [Tesla starts production of Dojo supercomputer to train driverless cars](https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production)
- - [IBM reports Q2 revenue flat YoY at $15.48B vs. $15.58B est., net income up 13% YoY to $1.6B, and software revenue up 7% YoY to $6.6B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230719/p37#a230719p37)<!-- TECH:END -->
+ - [They made a movie of that nightmarish ‘Dear David’ Twitter thread, and yes, there’s a trailer](https://www.theverge.com/23800921/dear-david-twitter-thread-movie-trailer-release-date)
+ - [Netflix increases its free cash flow estimate for 2023 from $3.5B to $5B, citing &quot;lower cash content spend&quot; due to the strikes and &quot;timing of production starts&quot; &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/230719/p38#a230719p38)
+ - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
