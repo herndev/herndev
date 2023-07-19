@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Creative Assembly is revealing the numbers behind Total War: Warhammer 3, praise to Mathal, Chaos God of algebra](https://www.pcgamer.com/creative-assembly-is-revealing-the-math-behind-total-war-warhammer-3-praise-to-mathal-chaos-god-of-algebra)
  - [After attracting more players than ever, Crytek isn&#39;t done breaking Hunt: Showdown: &#39;If nobody says don&#39;t do that, then it&#39;s not actually good enough&#39;](https://www.pcgamer.com/after-attracting-more-players-than-ever-crytek-isnt-done-breaking-hunt-showdown-if-nobody-says-dont-do-that-then-its-not-actually-good-enough)
- - [The Barbie movie finds all the fun in laughing at the men’s rights movement](https://www.polygon.com/reviews/23799502/barbie-movie-review-margot-robbie-ryan-gosling)
- - [A Wordle-inspired game called Waffle has become more popular than actual waffles](https://www.pcgamer.com/a-wordle-inspired-game-called-waffle-has-become-more-popular-than-actual-waffles)<!-- GAME:END -->
+ - [The Barbie movie finds all the fun in laughing at the men’s rights movement](https://www.polygon.com/reviews/23799502/barbie-movie-review-margot-robbie-ryan-gosling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
