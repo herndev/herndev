@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
  - ⏩ [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 
