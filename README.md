@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ratings board leaks suggest another classic Nintendo JRPG series is getting freed from its console prison](https://www.pcgamer.com/ratings-board-leaks-suggest-another-classic-nintendo-jrpg-series-is-getting-freed-from-its-console-prison)
- - [Diablo IV: Three Barbarian Builds To Rip And Tear Everything](https://kotaku.com/barbarian-diablo-iv-4-build-best-bleed-whirlwind-1850654778)
- - [PlayStation’s summer sale is here, slashing prices through August](https://www.polygon.com/deals/23797855/playstation-summer-sale-ps5-ps4-game-deals)<!-- GAME:END -->
+ - [&#39;ChatGPT&#39;s evil twin&#39; WormGPT is devoid of morals and just $60 a month on the darkweb](https://www.pcgamer.com/chatgpts-evil-twin-wormgpt-is-devoid-of-morals-and-just-dollar60-a-month-on-the-darkweb)
+ - [Pikmin 4 Review Roundup: A Chill, Approachable RTS Game](https://kotaku.com/pikmin-4-review-roundup-nintendo-switch-oatchi-dog-1850655291)
+ - [The best thriller of the year is a TV show about Idris Elba on an airplane](https://www.polygon.com/entertainment/23799521/hijack-apple-tv-plus-review-best-thriller-year-show-idris-elba)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
