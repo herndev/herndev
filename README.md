@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
- - [Unity launches game creator program for Vision Pro developers](https://appleinsider.com/articles/23/07/19/unity-launches-game-creator-program-for-vision-pro-developers?utm_medium=rss)
- - [Netflix removes its $10 Basic tier, its most affordable ad-free tier, in the US and UK for new and rejoining members &lpar;Or Goren/Cord Busters&rpar;](http://www.techmeme.com/230719/p15#a230719p15)<!-- TECH:END -->
+ - [Intel grants Asus a non-exclusive license to its NUC designs; Asus will make and sell 10th to 13th gen NUC systems and can develop new system designs &lpar;Matthew Humphries/PCMag&rpar;](http://www.techmeme.com/230719/p19#a230719p19)
+ - [RISC Zero, which is developing the Bonsai computing platform to let developers build zero-proof software, raised a $40M Series A led by Blockchain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p18#a230719p18)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-19-2023-3345801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
