@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm and Meta will bring on-device AI to flagship phones in 2024](https://www.androidauthority.com/qualcomm-meta-on-device-ai-phones-2024-3346204/)
- - [Judge scolds Apple&#39;s lawyers over appeals arguments](https://appleinsider.com/articles/23/07/19/judge-scolds-apples-lawyers-over-appeals-arguments?utm_medium=rss)
- - [Android 14’s work profile change is bad for your battery and work-life balance](https://www.androidauthority.com/android-14-work-profile-change-3346414/)<!-- TECH:END -->
+ - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
+ - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
+ - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
