@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s HomePod mini dips to $74.99 &lpar;$25 off&rpar;](https://appleinsider.com/articles/23/07/18/apples-homepod-mini-dips-to-7499-25-off?utm_medium=rss)
- - [Why would anyone make a website in 2023? Squarespace CEO Anthony Casalena has some ideas](https://www.theverge.com/23795154/squarespace-ai-seo-web-social-algorithms-anthony-casalena)
- - [A stress test by EU officials finds that TikTok isn&#39;t fully compliant with the EU&#39;s Digital Services Act ahead of the August 25, 2023 compliance deadline &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230718/p37#a230718p37)<!-- TECH:END -->
+ - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
+ - [Sources: Google is internally piloting an opt-in program where some employees will be restricted to internet-free PCs to reduce the risk of cyberattacks &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230718/p38#a230718p38)
+ - [Microsoft 365 Copilot AI Tool Will Cost $30 Per Month     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-365-copilot-ai-tool-will-cost-30-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
