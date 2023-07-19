@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To build words you first have to craft each letter in this clever factory puzzle game](https://www.pcgamer.com/to-build-words-you-first-have-to-craft-each-letter-in-this-clever-factory-puzzle-game)
- - [Witcher season 3 was building up to one thing, and fans can watch it early](https://www.polygon.com/23800889/witcher-season-3-part-2-release-date-premiere-first-episode)
- - [Fantastic New Horror Game Mixes Sesame Street With Resident Evil](https://kotaku.com/my-friendly-neighborhood-game-steam-download-horror-pc-1850657349)<!-- GAME:END -->
+ - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)
+ - [Riot cracks down on Valorant app that gives players a significant advantage before the match even begins: &#39;It&#39;s hard to describe how disappointed I am&#39;](https://www.pcgamer.com/riot-cracks-down-on-valorant-app-that-gives-players-a-significant-advantage-before-the-match-even-begins-its-hard-to-describe-how-disappointed-i-am)
+ - [OK, who&#39;s not on Steam at this point?](https://www.pcgamer.com/games-not-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
