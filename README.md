@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UN Security Council held its first meeting on AI, as UN Secretary General Antonio Guterres endorsed creating a new IAEA-like UN agency to deal with AI risks &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/230718/p40#a230718p40)
  - [Apple reveals US tax holiday rules for six states](https://appleinsider.com/articles/23/07/19/apple-reveals-us-tax-holiday-rules-for-six-states?utm_medium=rss)
- - [Roblox announces tools that will let developers offer subscriptions and to sell real-world goods within their experiences, but doesn&#39;t offer a release timeline &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230718/p39#a230718p39)
- - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox announces tools that will let developers offer subscriptions and to sell real-world goods within their experiences, but doesn&#39;t offer a release timeline &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230718/p39#a230718p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
