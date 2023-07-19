@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - ⏩ [Employee of the month](http://9gag.com/gag/aREDwb7)
- - 👉 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)<!-- MEMES:END -->
+ - 💣 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)
+ - ⏩ [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
+ - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
 
 ---
 
