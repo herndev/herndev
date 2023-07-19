@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Splash!](http://9gag.com/gag/aOxGyyD)
- - ⏩ [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
- - 👉 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)<!-- MEMES:END -->
+ - 💣 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - ⏩ [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 👉 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)<!-- MEMES:END -->
 
 ---
 
