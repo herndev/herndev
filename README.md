@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive rocks hitting cars](http://9gag.com/gag/aGEb9DX)
- - ⏩ [This is f**ked up](http://9gag.com/gag/amAR33v)
- - 👉 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)<!-- MEMES:END -->
+ - 💣 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
+ - ⏩ [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 
