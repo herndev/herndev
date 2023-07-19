@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is Blizzard&#39;s fastest-selling game of all time](https://www.pcgamer.com/diablo-4-is-blizzards-fastest-selling-game-of-all-time)
- - [All Strongholds map and locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23799408/all-strongholds-locations)
- - [Here&#39;s when Diablo 4 season 1 launches around the world](https://www.pcgamer.com/diablo-4-season-1-launch-date-unlock-time-preloading)<!-- GAME:END -->
+ - [To build words you first have to craft each letter in this clever factory puzzle game](https://www.pcgamer.com/to-build-words-you-first-have-to-craft-each-letter-in-this-clever-factory-puzzle-game)
+ - [Witcher season 3 was building up to one thing, and fans can watch it early](https://www.polygon.com/23800889/witcher-season-3-part-2-release-date-premiere-first-episode)
+ - [Fantastic New Horror Game Mixes Sesame Street With Resident Evil](https://kotaku.com/my-friendly-neighborhood-game-steam-download-horror-pc-1850657349)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
