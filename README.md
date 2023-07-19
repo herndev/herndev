@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Nearby Share for Windows, letting users transfer files between PCs and Android devices close to each other, after a beta started in March 2023 &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/230719/p34#a230719p34)
- - [Reddit is now inviting mods to participate in weekly ‘feedback sessions’](https://www.theverge.com/2023/7/19/23800607/reddit-invites-mods-admins-conversation-protests)
- - [Amazon says it’ll ditch plastic padded mailers](https://www.theverge.com/2023/7/19/23800435/amazon-plastic-padded-envelope-packaging-waste)<!-- TECH:END -->
+ - [Microsoft and Activision Set New Deadline for $69B Deal: What It Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/microsoft-and-activision-set-new-deadline-for-69b-deal-what-it-means-for-gamers/#ftag=CAD590a51e)
+ - [Tesla starts production of Dojo supercomputer to train driverless cars](https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production)
+ - [IBM reports Q2 revenue flat YoY at $15.48B vs. $15.58B est., net income up 13% YoY to $1.6B, and software revenue up 7% YoY to $6.6B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230719/p37#a230719p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
