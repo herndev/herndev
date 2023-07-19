@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France issues Societe Generale Forge the first license to offer crypto services under the country&#39;s new crypto rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230719/p29#a230719p29)
- - [Goldman Sachs continues to bleed cash from Apple Card operations](https://appleinsider.com/articles/23/07/19/goldman-sachs-continues-to-bleed-cash-from-apple-card-operations?utm_medium=rss)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [How Dell dodged a class action suit over Alienware Area-51m GPU upgrades](https://www.theverge.com/2023/7/19/22313742/alienware-area-51m-lawsuit-gpu-upgrade-arbitration-settlement)
+ - [Meta’s upcoming AR glasses are getting a few major downgrades](https://www.androidauthority.com/meta-ar-glasses-downgrade-3346541/)
+ - [DoorDash fired an employee for trying to organize a union, NLRB alleges](https://www.theverge.com/2023/7/19/23800149/nlrb-doordash-fired-employee-union-arizona)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
