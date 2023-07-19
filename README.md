@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel and Asus reach a deal that ensures the future of NUC mini-PCs, while opening up some intriguing gaming possibilities](https://www.pcgamer.com/intel-and-asus-reach-a-deal-that-ensures-the-future-of-nuc-mini-pcs-while-opening-up-some-intriguing-gaming-possibilities)
  - [Today&#39;s Wordle hint and answer #760: Wednesday, July 19](https://www.pcgamer.com/wordle-answer-today-hint-760-july-19)
- - [Intel&#39;s next-gen LGA1851 socket for 800-series motherboards detailed](https://www.pcgamer.com/intels-next-gen-lga1851-socket-for-800-series-motherboards-detailed)
- - [Creative Assembly is revealing the numbers behind Total War: Warhammer 3, praise to Mathal, Chaos God of algebra](https://www.pcgamer.com/creative-assembly-is-revealing-the-math-behind-total-war-warhammer-3-praise-to-mathal-chaos-god-of-algebra)<!-- GAME:END -->
+ - [Intel&#39;s next-gen LGA1851 socket for 800-series motherboards detailed](https://www.pcgamer.com/intels-next-gen-lga1851-socket-for-800-series-motherboards-detailed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
