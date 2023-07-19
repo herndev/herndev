@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel and Asus reach a deal that ensures the future of NUC mini-PCs, while opening up some intriguing gaming possibilities](https://www.pcgamer.com/intel-and-asus-reach-a-deal-that-ensures-the-future-of-nuc-mini-pcs-while-opening-up-some-intriguing-gaming-possibilities)
- - [Today&#39;s Wordle hint and answer #760: Wednesday, July 19](https://www.pcgamer.com/wordle-answer-today-hint-760-july-19)
- - [Intel&#39;s next-gen LGA1851 socket for 800-series motherboards detailed](https://www.pcgamer.com/intels-next-gen-lga1851-socket-for-800-series-motherboards-detailed)<!-- GAME:END -->
+ - [Samsung finalises the first GDDR7 memory for next-gen graphics cards](https://www.pcgamer.com/samsung-finalises-the-first-gddr7-memory-for-next-gen-graphics-cards)
+ - [Honkai: Star Rail codes and how to redeem](https://www.pcgamer.com/honkai-star-rail-codes)
+ - [It&#39;s been 10 years since Valve invented the battle pass and changed gaming forever](https://www.pcgamer.com/its-been-10-years-since-valve-invented-the-battle-pass-and-changed-gaming-forever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
