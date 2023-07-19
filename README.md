@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
- - ⏩ [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 👉 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)<!-- MEMES:END -->
+ - 💣 [Splash!](http://9gag.com/gag/aOxGyyD)
+ - ⏩ [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
+ - 👉 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)<!-- MEMES:END -->
 
 ---
 
