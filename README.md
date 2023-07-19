@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Music rolls out to more countries](https://www.theverge.com/2023/7/19/23800014/tiktok-music-beta-australia-mexico-singapore-streaming-service)
- - [Seoul-based fashion marketplace Musinsa raised a $190M Series C led by KKR, with participation from Wellington Management, source says at a ~$2.76B valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230719/p10#a230719p10)
- - [A look at &quot;non-playable character&quot; TikTok creators, like Pinkydoll, who livestream themselves doing robotic and repetitive actions for digital tips &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/230719/p9#a230719p9)<!-- TECH:END -->
+ - [Qualcomm and Meta will bring on-device AI to flagship phones in 2024](https://www.androidauthority.com/qualcomm-meta-on-device-ai-phones-2024-3346204/)
+ - [Judge scolds Apple&#39;s lawyers over appeals arguments](https://appleinsider.com/articles/23/07/19/judge-scolds-apples-lawyers-over-appeals-arguments?utm_medium=rss)
+ - [Android 14’s work profile change is bad for your battery and work-life balance](https://www.androidauthority.com/android-14-work-profile-change-3346414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
