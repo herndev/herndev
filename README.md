@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s New Patch Is Full Of Painful Changes That Affect Everyone](https://kotaku.com/diablo-4-news-iv-patch-season-druid-build-renown-nerf-1850656278)
- - [Wheel of Time season 2 is finally bringing out its coolest characters](https://www.polygon.com/23800540/wheel-of-time-season-2-trailer-release-date)
- - [Piccolo’s voice actor wants you to get out there and ‘be the Piccolo’ for someone](https://www.polygon.com/23799412/christopher-sabat-piccolo-interview-dragon-ball-super-hero)<!-- GAME:END -->
+ - [What’s new in Honkai: Star Rail patch 1.2?](https://www.polygon.com/honkai-star-rail-guides/23800281/hsr-patch-update-1-2-blade-kafka-story)
+ - [The Video Game Endings We&#39;ll Never Forget, For Better Or Worse](https://kotaku.com/best-worst-video-game-endings-mass-effect-3-last-of-us-1850656696)
+ - [During the strike, actors can still work on video games](https://www.polygon.com/23800505/actors-strike-video-games-mocap-sag-aftra-rules-faq)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
