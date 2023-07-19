@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts the industry’s first GDDR7 memory chips](https://www.theverge.com/2023/7/19/23800091/samsung-gddr7-graphics-memory-ram-dram-pam3)
- - [Review of $350 Beats Studio Pro headphones: nice transparency mode, lossless USB-C audio, native iOS and Android support, but subpar build quality for the price &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230719/p21#a230719p21)
- - [Apple TV+ getting new &#39;Born to be Wild&#39; &amp; &#39;Endangered Planet&#39; nature docuseries](https://appleinsider.com/articles/23/07/19/apple-tv-getting-new-born-to-be-wild-endangered-planet-nature-docuseries?utm_medium=rss)<!-- TECH:END -->
+ - [How to find an Apple Watch using an iPhone running iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-find-an-apple-watch-using-an-iphone-running-ios-17?utm_medium=rss)
+ - [Unstructured.io, which offers a service to extract and stage enterprise data in a way that LLMs can understand, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230719/p24#a230719p24)
+ - [Nasdaq says it&#39;s halting the launch of its digital-asset custodian business in the US and a license related to it, citing a shifting regulatory environment &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230719/p23#a230719p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
