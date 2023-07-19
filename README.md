@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - ⏩ [Woman moment](http://9gag.com/gag/awZv0yR)
- - 👉 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)<!-- MEMES:END -->
+ - 💣 [Describe this life.](http://9gag.com/gag/anzVYRE)
+ - ⏩ [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
+ - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---
 
