@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The `Perfect` Husband](http://9gag.com/gag/a4oV9Y1)
- - ⏩ [Stares in disbelief](http://9gag.com/gag/aoKDmng)
- - 👉 [I bet this won&#39;t implode](http://9gag.com/gag/adPbN4D)<!-- MEMES:END -->
+ - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - ⏩ [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
 
 ---
 
