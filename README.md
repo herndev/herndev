@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find an Apple Watch using an iPhone running iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-find-an-apple-watch-using-an-iphone-running-ios-17?utm_medium=rss)
- - [Unstructured.io, which offers a service to extract and stage enterprise data in a way that LLMs can understand, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230719/p24#a230719p24)
- - [Nasdaq says it&#39;s halting the launch of its digital-asset custodian business in the US and a license related to it, citing a shifting regulatory environment &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230719/p23#a230719p23)<!-- TECH:END -->
+ - [Deals: $300 off Apple Studio Display, $400 off 16&quot; MacBook Pro, $80 off iPad 9th Gen, 35% off Microsoft Surface Book](https://appleinsider.com/articles/23/07/19/deals-300-off-apple-studio-display-400-off-16-inch-macbook-pro-2023-80-off-ipad-9th-gen-35-off-microsoft-surface-book-more?utm_medium=rss)
+ - [Meta’s AR glasses reportedly won’t feature the high-end displays it planned](https://www.theverge.com/2023/7/19/23800228/meta-ar-glasses-artemis-lcos-displays-waveguide)
+ - [Apple has been working on its own ChatGPT AI tool for some time](https://appleinsider.com/articles/23/07/19/apple-has-been-working-on-its-own-chatgpt-ai-tool-for-some-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
