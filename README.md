@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s new in Honkai: Star Rail patch 1.2?](https://www.polygon.com/honkai-star-rail-guides/23800281/hsr-patch-update-1-2-blade-kafka-story)
- - [The Video Game Endings We&#39;ll Never Forget, For Better Or Worse](https://kotaku.com/best-worst-video-game-endings-mass-effect-3-last-of-us-1850656696)
- - [During the strike, actors can still work on video games](https://www.polygon.com/23800505/actors-strike-video-games-mocap-sag-aftra-rules-faq)<!-- GAME:END -->
+ - [Diablo 4 is Blizzard&#39;s fastest-selling game of all time](https://www.pcgamer.com/diablo-4-is-blizzards-fastest-selling-game-of-all-time)
+ - [All Strongholds map and locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23799408/all-strongholds-locations)
+ - [Here&#39;s when Diablo 4 season 1 launches around the world](https://www.pcgamer.com/diablo-4-season-1-launch-date-unlock-time-preloading)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
