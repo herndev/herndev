@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;ChatGPT&#39;s evil twin&#39; WormGPT is devoid of morals and just $60 a month on the darkweb](https://www.pcgamer.com/chatgpts-evil-twin-wormgpt-is-devoid-of-morals-and-just-dollar60-a-month-on-the-darkweb)
- - [Pikmin 4 Review Roundup: A Chill, Approachable RTS Game](https://kotaku.com/pikmin-4-review-roundup-nintendo-switch-oatchi-dog-1850655291)
- - [The best thriller of the year is a TV show about Idris Elba on an airplane](https://www.polygon.com/entertainment/23799521/hijack-apple-tv-plus-review-best-thriller-year-show-idris-elba)<!-- GAME:END -->
+ - [Diablo 4 Malignant Hearts guide: How they work](https://www.pcgamer.com/diablo-4-malignant-hearts)
+ - [Netflix kills its basic ad-free plan in the US and the UK](https://www.polygon.com/23800432/is-netflix-basic-plan-adding-ads-ad-free-removed-uk-us)
+ - [CD Projekt is back with yet another big fix for The Witcher 3&#39;s grass](https://www.pcgamer.com/cd-projekt-is-back-with-yet-another-big-fix-for-the-witcher-3s-grass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
