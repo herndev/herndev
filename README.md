@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: $300 off Apple Studio Display, $400 off 16&quot; MacBook Pro, $80 off iPad 9th Gen, 35% off Microsoft Surface Book](https://appleinsider.com/articles/23/07/19/deals-300-off-apple-studio-display-400-off-16-inch-macbook-pro-2023-80-off-ipad-9th-gen-35-off-microsoft-surface-book-more?utm_medium=rss)
- - [Meta’s AR glasses reportedly won’t feature the high-end displays it planned](https://www.theverge.com/2023/7/19/23800228/meta-ar-glasses-artemis-lcos-displays-waveguide)
- - [Apple has been working on its own ChatGPT AI tool for some time](https://appleinsider.com/articles/23/07/19/apple-has-been-working-on-its-own-chatgpt-ai-tool-for-some-time?utm_medium=rss)<!-- TECH:END -->
+ - [France issues Societe Generale Forge the first license to offer crypto services under the country&#39;s new crypto rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230719/p29#a230719p29)
+ - [Goldman Sachs continues to bleed cash from Apple Card operations](https://appleinsider.com/articles/23/07/19/goldman-sachs-continues-to-bleed-cash-from-apple-card-operations?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
