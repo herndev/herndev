@@ -116,11 +116,11 @@ Windows                  10 hrs 5 mins       ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3329](https://github.com/marcizhu/marcizhu/issues/3329) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. 🎉 Merged PR [#24](https://github.com/herndev/ReactJS-Portfolio/pull/24) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-3. ❌ Closed PR [#15](https://github.com/herndev/ReactJS-Portfolio/pull/15) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-4. ❌ Closed PR [#16](https://github.com/herndev/ReactJS-Portfolio/pull/16) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. ❌ Closed PR [#23](https://github.com/herndev/ReactJS-Portfolio/pull/23) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+1. ❗️ Opened issue [#3413](https://github.com/marcizhu/marcizhu/issues/3413) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. ❗️ Opened issue [#3329](https://github.com/marcizhu/marcizhu/issues/3329) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. 🎉 Merged PR [#24](https://github.com/herndev/ReactJS-Portfolio/pull/24) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+4. ❌ Closed PR [#15](https://github.com/herndev/ReactJS-Portfolio/pull/15) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+5. ❌ Closed PR [#16](https://github.com/herndev/ReactJS-Portfolio/pull/16) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
 <!--END_SECTION:activity-->
 
 ---
