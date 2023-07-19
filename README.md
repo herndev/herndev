@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Barbie is a feminist parable fighting to be great in spite of Mattel’s input](https://www.theverge.com/23799181/barbie-review-mattel-warner-bros-greta-gerwig)
- - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)
- - [Google is testing AI-generated Meet video backgrounds](https://www.theverge.com/2023/7/18/23799459/google-meet-ai-generated-videoconferencing-background-image)<!-- TECH:END -->
+ - [Apple&#39;s HomePod mini dips to $74.99 &lpar;$25 off&rpar;](https://appleinsider.com/articles/23/07/18/apples-homepod-mini-dips-to-7499-25-off?utm_medium=rss)
+ - [Why would anyone make a website in 2023? Squarespace CEO Anthony Casalena has some ideas](https://www.theverge.com/23795154/squarespace-ai-seo-web-social-algorithms-anthony-casalena)
+ - [A stress test by EU officials finds that TikTok isn&#39;t fully compliant with the EU&#39;s Digital Services Act ahead of the August 25, 2023 compliance deadline &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230718/p37#a230718p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
