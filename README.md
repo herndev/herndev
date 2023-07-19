@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s best Barbarian build has been killed by a bug fix](https://www.pcgamer.com/diablo-4s-best-barbarian-build-has-been-killed-by-a-bug-fix)
- - [Diablo 4 just got 6 new Uniques and 7 new Legendary Aspects: here&#39;s what they all are](https://www.pcgamer.com/diablo-4-110a-patch-new-items-aspects)
- - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)<!-- GAME:END -->
+ - [After attracting more players than ever, Crytek isn&#39;t done breaking Hunt: Showdown: &#39;If nobody says don&#39;t do that, then it&#39;s not actually good enough&#39;](https://www.pcgamer.com/after-attracting-more-players-than-ever-crytek-isnt-done-breaking-hunt-showdown-if-nobody-says-dont-do-that-then-its-not-actually-good-enough)
+ - [The Barbie movie finds all the fun in laughing at the men’s rights movement](https://www.polygon.com/reviews/23799502/barbie-movie-review-margot-robbie-ryan-gosling)
+ - [A Wordle-inspired game called Waffle has become more popular than actual waffles](https://www.pcgamer.com/a-wordle-inspired-game-called-waffle-has-become-more-popular-than-actual-waffles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
