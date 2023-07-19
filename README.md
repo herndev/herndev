@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - ⏩ [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - ⏩ [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)<!-- MEMES:END -->
 
 ---
 
