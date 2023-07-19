@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel grants Asus a non-exclusive license to its NUC designs; Asus will make and sell 10th to 13th gen NUC systems and can develop new system designs &lpar;Matthew Humphries/PCMag&rpar;](http://www.techmeme.com/230719/p19#a230719p19)
- - [RISC Zero, which is developing the Bonsai computing platform to let developers build zero-proof software, raised a $40M Series A led by Blockchain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p18#a230719p18)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-19-2023-3345801/)<!-- TECH:END -->
+ - [Samsung debuts the industry’s first GDDR7 memory chips](https://www.theverge.com/2023/7/19/23800091/samsung-gddr7-graphics-memory-ram-dram-pam3)
+ - [Review of $350 Beats Studio Pro headphones: nice transparency mode, lossless USB-C audio, native iOS and Android support, but subpar build quality for the price &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230719/p21#a230719p21)
+ - [Apple TV+ getting new &#39;Born to be Wild&#39; &amp; &#39;Endangered Planet&#39; nature docuseries](https://appleinsider.com/articles/23/07/19/apple-tv-getting-new-born-to-be-wild-endangered-planet-nature-docuseries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
