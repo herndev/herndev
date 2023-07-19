@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pikmin 4 will turn you into an obsessive collector](https://www.polygon.com/reviews/23792462/pikmin-4-review-coop-treasures-nintendo-switch)
- - [Microsoft and Activision Blizzard delay acquisition in push for UK approval](https://www.polygon.com/23798065/xbox-microsoft-activision-blizzard-acquisition-delay-deadline)
- - [Diablo 4&#39;s pre-season 1 patch is here and no one is happy about it](https://www.pcgamer.com/diablo-4s-pre-season-1-patch-is-here-and-no-one-is-happy-about-it)<!-- GAME:END -->
+ - [Anime helped make Teen Titans one of the 2000s most important shows](https://www.polygon.com/23795036/anime-teen-titans-anniversary-season-watch)
+ - [Here’s where to pre-order Baldur’s Gate 3](https://www.polygon.com/23799271/baldurs-gate-3-pre-order-buy-guide-pc-ps5-xbox)
+ - [Neopets Is About To Undergo A Reinvention After 23 Years](https://kotaku.com/neopets-netdragon-giant-omelette-faeries-species-nfts-1850652553)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
