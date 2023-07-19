@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
- - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
- - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
+ - [Unity launches game creator program for Vision Pro developers](https://appleinsider.com/articles/23/07/19/unity-launches-game-creator-program-for-vision-pro-developers?utm_medium=rss)
+ - [Netflix removes its $10 Basic tier, its most affordable ad-free tier, in the US and UK for new and rejoining members &lpar;Or Goren/Cord Busters&rpar;](http://www.techmeme.com/230719/p15#a230719p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
