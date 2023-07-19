@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)
- - [Diablo IV’s Latest Patch Seems To Make The Game Grindier, Fans Say](https://kotaku.com/diablo-4-news-iv-patch-season-malignant-renown-grind-1850655108)
- - [New Pokémon App Records Your Farts While You Sleep](https://kotaku.com/pokemon-sleep-records-farts-noises-release-date-us-1850655746)<!-- GAME:END -->
+ - [Diablo IV&#39;s New Patch Is Full Of Painful Changes That Affect Everyone](https://kotaku.com/diablo-4-news-iv-patch-season-druid-build-renown-nerf-1850656278)
+ - [Wheel of Time season 2 is finally bringing out its coolest characters](https://www.polygon.com/23800540/wheel-of-time-season-2-trailer-release-date)
+ - [Piccolo’s voice actor wants you to get out there and ‘be the Piccolo’ for someone](https://www.polygon.com/23799412/christopher-sabat-piccolo-interview-dragon-ball-super-hero)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
