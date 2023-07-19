@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - ⏩ [Well... Yes...](http://9gag.com/gag/axomX92)
- - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
+ - 💣 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)
+ - ⏩ [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 ---
 
