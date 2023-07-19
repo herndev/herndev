@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime helped make Teen Titans one of the 2000s most important shows](https://www.polygon.com/23795036/anime-teen-titans-anniversary-season-watch)
- - [Here’s where to pre-order Baldur’s Gate 3](https://www.polygon.com/23799271/baldurs-gate-3-pre-order-buy-guide-pc-ps5-xbox)
- - [Neopets Is About To Undergo A Reinvention After 23 Years](https://kotaku.com/neopets-netdragon-giant-omelette-faeries-species-nfts-1850652553)<!-- GAME:END -->
+ - [Ratings board leaks suggest another classic Nintendo JRPG series is getting freed from its console prison](https://www.pcgamer.com/ratings-board-leaks-suggest-another-classic-nintendo-jrpg-series-is-getting-freed-from-its-console-prison)
+ - [Diablo IV: Three Barbarian Builds To Rip And Tear Everything](https://kotaku.com/barbarian-diablo-iv-4-build-best-bleed-whirlwind-1850654778)
+ - [PlayStation’s summer sale is here, slashing prices through August](https://www.polygon.com/deals/23797855/playstation-summer-sale-ps5-ps4-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
