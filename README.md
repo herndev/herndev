@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)
- - ⏩ [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 💣 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
+ - ⏩ [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 👉 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)<!-- MEMES:END -->
 
 ---
 
