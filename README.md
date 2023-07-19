@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 💣 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
  - ⏩ [Employee of the month](http://9gag.com/gag/aREDwb7)
- - 👉 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)<!-- MEMES:END -->
+ - 👉 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)<!-- MEMES:END -->
 
 ---
 
