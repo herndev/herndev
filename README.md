@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung finalises the first GDDR7 memory for next-gen graphics cards](https://www.pcgamer.com/samsung-finalises-the-first-gddr7-memory-for-next-gen-graphics-cards)
- - [Honkai: Star Rail codes and how to redeem](https://www.pcgamer.com/honkai-star-rail-codes)
- - [It&#39;s been 10 years since Valve invented the battle pass and changed gaming forever](https://www.pcgamer.com/its-been-10-years-since-valve-invented-the-battle-pass-and-changed-gaming-forever)<!-- GAME:END -->
+ - [Pikmin 4 will turn you into an obsessive collector](https://www.polygon.com/reviews/23792462/pikmin-4-review-coop-treasures-nintendo-switch)
+ - [Microsoft and Activision Blizzard delay acquisition in push for UK approval](https://www.polygon.com/23798065/xbox-microsoft-activision-blizzard-acquisition-delay-deadline)
+ - [Diablo 4&#39;s pre-season 1 patch is here and no one is happy about it](https://www.pcgamer.com/diablo-4s-pre-season-1-patch-is-here-and-no-one-is-happy-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
