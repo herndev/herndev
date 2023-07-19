@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
- - ⏩ [Employee of the month](http://9gag.com/gag/aREDwb7)
- - 👉 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)<!-- MEMES:END -->
+ - 💣 [Massive rocks hitting cars](http://9gag.com/gag/aGEb9DX)
+ - ⏩ [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - 👉 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)<!-- MEMES:END -->
 
 ---
 
