@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [They made a movie of that nightmarish ‘Dear David’ Twitter thread, and yes, there’s a trailer](https://www.theverge.com/23800921/dear-david-twitter-thread-movie-trailer-release-date)
- - [Netflix increases its free cash flow estimate for 2023 from $3.5B to $5B, citing &quot;lower cash content spend&quot; due to the strikes and &quot;timing of production starts&quot; &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/230719/p38#a230719p38)
- - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [In an earnings call, Elon Musk says Tesla is open to licensing its FSD software and hardware to other carmakers and is &quot;already in discussions&quot; with a major OEM &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230719/p39#a230719p39)
+ - [Windows computer randomly restarts? Here’s how to fix it](https://www.androidauthority.com/computer-randomly-restarts-3346630/)
+ - [Tesla’s Cybertruck is less than 19 feet long so it can fit in your garage](https://www.theverge.com/2023/7/19/23799319/tesla-cybertruck-bed-specs-q2-production-deliveries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
