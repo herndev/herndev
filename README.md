@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creative Assembly is revealing the numbers behind Total War: Warhammer 3, praise to Mathal, Chaos God of algebra](https://www.pcgamer.com/creative-assembly-is-revealing-the-math-behind-total-war-warhammer-3-praise-to-mathal-chaos-god-of-algebra)
- - [After attracting more players than ever, Crytek isn&#39;t done breaking Hunt: Showdown: &#39;If nobody says don&#39;t do that, then it&#39;s not actually good enough&#39;](https://www.pcgamer.com/after-attracting-more-players-than-ever-crytek-isnt-done-breaking-hunt-showdown-if-nobody-says-dont-do-that-then-its-not-actually-good-enough)
- - [The Barbie movie finds all the fun in laughing at the men’s rights movement](https://www.polygon.com/reviews/23799502/barbie-movie-review-margot-robbie-ryan-gosling)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #760: Wednesday, July 19](https://www.pcgamer.com/wordle-answer-today-hint-760-july-19)
+ - [Intel&#39;s next-gen LGA1851 socket for 800-series motherboards detailed](https://www.pcgamer.com/intels-next-gen-lga1851-socket-for-800-series-motherboards-detailed)
+ - [Creative Assembly is revealing the numbers behind Total War: Warhammer 3, praise to Mathal, Chaos God of algebra](https://www.pcgamer.com/creative-assembly-is-revealing-the-math-behind-total-war-warhammer-3-praise-to-mathal-chaos-god-of-algebra)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
