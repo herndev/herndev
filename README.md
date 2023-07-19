@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - ⏩ [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - ⏩ [Employee of the month](http://9gag.com/gag/aREDwb7)
+ - 👉 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)<!-- MEMES:END -->
 
 ---
 
