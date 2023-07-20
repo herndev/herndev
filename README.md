@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [40K&#39;s edgelord assassins are coming to turn-based tactics game Chaos Gate – Daemonhunters](https://www.pcgamer.com/40ks-edgelord-assassins-are-coming-to-turn-based-tactics-game-chaos-gate-daemonhunters)
  - [&lpar;For Southeast Asia&rpar; New Firewall Ultra PvP gameplay revealed, launches August 24](https://blog.playstation.com/2023/07/19/20230719-firewallultra/)
- - [Aquaman 2 won’t have a Batman in it after all](https://www.polygon.com/23800877/aquaman-2-batman-cast-ben-affleck-michael-keaton)
- - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; New Firewall Ultra PvP gameplay revealed, launches August 24](https://blog.playstation.com/2023/07/19/20230719-firewallultra/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
