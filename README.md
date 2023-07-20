@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
- - ⏩ [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
- - 👉 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)<!-- MEMES:END -->
+ - 💣 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
+ - ⏩ [He is right, you know?](http://9gag.com/gag/ay2P8xX)
+ - 👉 [Art 101](http://9gag.com/gag/a8qzMWQ)<!-- MEMES:END -->
 
 ---
 
