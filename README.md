@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube increases the US price for YouTube Premium from $11.99 to $13.99 per month and for YouTube Music from $9.99 to $10.99 per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230720/p20#a230720p20)
- - [Pokémon Sleep is now available in the US on Android and iOS](https://www.theverge.com/2023/7/20/23801548/pokemon-sleep-launch-android-ios)
- - [New iPhone 15 Pro rumor backs Wi-Fi 6E making first appearance](https://appleinsider.com/articles/23/07/20/new-rumor-backs-wi-fi-6e-making-appearance-in-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
+ - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)
+ - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
