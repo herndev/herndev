@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - ⏩ [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 👉 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)<!-- MEMES:END -->
+ - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - ⏩ [Freedom of speech](http://9gag.com/gag/aEqEGKG)
+ - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
 
 ---
 
