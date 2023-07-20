@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA responds to fan criticism of women players in Ultimate Team by reminding them it&#39;s &#39;fantasy football&#39;](https://www.pcgamer.com/ea-responds-to-fan-criticism-of-women-players-in-ultimate-team-by-reminding-them-its-fantasy-football)
- - [PC Gamer UK September issue on sale now: Baldur&#39;s Gate III](https://www.pcgamer.com/pc-gamer-uk-september-issue-on-sale-now-baldurs-gate-iii)
- - [Today&#39;s Wordle hint and answer #761: Thursday, July 20](https://www.pcgamer.com/wordle-answer-today-hint-761-july-20)<!-- GAME:END -->
+ - [Diablo 4&#39;s sorcerers just can&#39;t catch a break—their new ultra-rare item rewards hours of grinding with motion sickness](https://www.pcgamer.com/diablo-4s-sorcerers-just-cant-catch-a-breaktheir-new-ultra-rare-item-rewards-hours-of-grinding-with-motion-sickness)
+ - [TSMC is delaying its Arizona foundry over a lack of skilled workers alongsde a $5.85B income slump](https://www.pcgamer.com/tsmc-is-delaying-its-arizona-foundry-over-a-lack-of-skilled-workers-alongsde-a-dollar585b-income-slump)
+ - [It&#39;s a Gundam shame: yet another live service game goes the way of the Dodo after barely a year](https://www.pcgamer.com/its-a-gundam-shame-yet-another-live-service-game-goes-the-way-of-the-dodo-after-barely-a-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
