@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - ⏩ [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 👉 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)<!-- MEMES:END -->
+ - 💣 [Congratulations!](http://9gag.com/gag/aXne992)
+ - ⏩ [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
 
 ---
 
