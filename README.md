@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - ⏩ [That escalated quickly.](http://9gag.com/gag/aqeAZ0p)
- - 👉 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)<!-- MEMES:END -->
+ - 💣 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
+ - ⏩ [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 👉 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
 
 ---
 
