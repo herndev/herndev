@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - ⏩ [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - ⏩ [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 
