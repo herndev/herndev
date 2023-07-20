@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
- - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)
- - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)<!-- TECH:END -->
+ - [Dallas-based o9 Solutions, which offers AI-powered tools for supply chain management, raised $116M at a $3.7B valuation, up from $2.7B in January 2022 &lpar;CSCMP&#39;s Supply Chain Quarterly&rpar;](http://www.techmeme.com/230720/p25#a230720p25)
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
