@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Look At These White-Hot PS5 And PS4 Sales Happening Right Now](https://kotaku.com/playstation-ps4-ps5-summer-sale-cheap-console-games-1850659634)
- - [Roblox data leak sees 4,000 developer profiles including identifying information made public](https://www.pcgamer.com/roblox-data-leak-sees-4000-developer-profiles-including-identifying-information-made-public)
- - [Cowboy Bebop creator, John Wick director team on a new action anime](https://www.polygon.com/23801004/lazarus-cowboy-bebop-creator-new-anime-shinichiro-watanabe-chad-stahelski)<!-- GAME:END -->
+ - [Humble Bundle&#39;s next payload features a bunch of lo-fi games to snuggle up to](https://www.pcgamer.com/humble-bundles-next-payload-features-a-bunch-of-lo-fi-games-to-snuggle-up-to)
+ - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
+ - [PC Gamer Chat Log Episode 21: How are MMOs lookin&#39; these days?](https://www.pcgamer.com/pc-gamer-chat-log-episode-21-how-are-mmos-lookin-these-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
