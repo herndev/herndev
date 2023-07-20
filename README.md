@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is letting some verified organizations post job listings directly on their profiles through a job listings feature &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230720/p30#a230720p30)
- - [Don’t pay your T-Mobile bill like this or you’ll be losing money](https://www.androidauthority.com/t-mobile-bill-in-store-3347088/)
- - [Netflix Games: These New Titles Are Arriving in July     - CNET](https://www.cnet.com/tech/gaming/netflix-games-these-new-titles-are-arriving-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
+ - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)
+ - [Google is starting to roll out its tools to replace cookies in Chrome 115](https://www.androidauthority.com/google-chrome-privacy-sandbox-3347084/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
