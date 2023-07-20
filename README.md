@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer UK September issue on sale now: Baldur&#39;s Gate III](https://www.pcgamer.com/pc-gamer-uk-september-issue-on-sale-now-baldurs-gate-iii)
  - [Today&#39;s Wordle hint and answer #761: Thursday, July 20](https://www.pcgamer.com/wordle-answer-today-hint-761-july-20)
- - [40K&#39;s edgelord assassins are coming to turn-based tactics game Chaos Gate – Daemonhunters](https://www.pcgamer.com/40ks-edgelord-assassins-are-coming-to-turn-based-tactics-game-chaos-gate-daemonhunters)
- - [&lpar;For Southeast Asia&rpar; New Firewall Ultra PvP gameplay revealed, launches August 24](https://blog.playstation.com/2023/07/19/20230719-firewallultra/)<!-- GAME:END -->
+ - [40K&#39;s edgelord assassins are coming to turn-based tactics game Chaos Gate – Daemonhunters](https://www.pcgamer.com/40ks-edgelord-assassins-are-coming-to-turn-based-tactics-game-chaos-gate-daemonhunters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
