@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
- - ⏩ [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
+ - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - ⏩ [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 👉 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)<!-- MEMES:END -->
 
 ---
 
