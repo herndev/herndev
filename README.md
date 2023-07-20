@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games Store’s summer sale is live, and you’ll earn 10% back on purchases](https://www.polygon.com/deals/23800725/epic-games-stores-summer-sale-rewards-deals)
- - [Despite Nintendo And Valve, Emulator Dev Isn&#39;t Worried About Legal Danger](https://kotaku.com/nintendo-valve-pc-dolphin-emulator-piracy-copyright-1850658946)
- - [I am beyond excited to infest Baldur&#39;s Gate 3 with an army of mushroom zombies straight out of The Last of Us](https://www.pcgamer.com/i-am-beyond-excited-to-infest-baldurs-gate-3-with-an-army-of-mushroom-zombies-straight-out-of-the-last-of-us)<!-- GAME:END -->
+ - [Look At These White-Hot PS5 And PS4 Sales Happening Right Now](https://kotaku.com/playstation-ps4-ps5-summer-sale-cheap-console-games-1850659634)
+ - [Roblox data leak sees 4,000 developer profiles including identifying information made public](https://www.pcgamer.com/roblox-data-leak-sees-4000-developer-profiles-including-identifying-information-made-public)
+ - [Cowboy Bebop creator, John Wick director team on a new action anime](https://www.polygon.com/23801004/lazarus-cowboy-bebop-creator-new-anime-shinichiro-watanabe-chad-stahelski)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
