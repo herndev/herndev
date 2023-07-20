@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
- - ⏩ [No surprises](http://9gag.com/gag/aqeANBZ)
- - 👉 [Splash!](http://9gag.com/gag/aOxGyyD)<!-- MEMES:END -->
+ - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - ⏩ [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
+ - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
 
 ---
 
