@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The developers behind open-source GameCube and Wii emulator Dolphin drop plans to release it on Steam citing &quot;Nintendo&#39;s long-held stance on emulation&quot; &lpar;Dolphin Emulator&rpar;](http://www.techmeme.com/230720/p27#a230720p27)
- - [OpenAI adds opt-in &quot;custom instructions&quot;, or details ChatGPT should remember about a user, in beta to ChatGPT Plus subscribers everywhere but the UK and EU &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230720/p26#a230720p26)
- - [Neopets is moving into a ‘new era’ — and leaving NFTs and the metaverse behind](https://www.theverge.com/2023/7/20/23801855/neopets-team-dominic-law-interview)<!-- TECH:END -->
+ - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)
+ - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
