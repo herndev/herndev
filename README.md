@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
- - ⏩ [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
+ - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - ⏩ [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 
