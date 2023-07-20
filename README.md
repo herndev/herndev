@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - ⏩ [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
+ - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - ⏩ [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
 
 ---
 
