@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Has The Most Depressing Visuals In Series History](https://kotaku.com/final-fantasy-16-xvi-graphics-ps5-ff7-ffx-1850657086)
- - [Sea of Thieves: The Legend of Monkey Island Begins with a Brand New Tall Tale](https://news.xbox.com/en-us/2023/07/20/sea-of-thieves-the-legend-of-monkey-island-begins/)
- - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)<!-- GAME:END -->
+ - [Epic Games Store’s summer sale is live, and you’ll earn 10% back on purchases](https://www.polygon.com/deals/23800725/epic-games-stores-summer-sale-rewards-deals)
+ - [Despite Nintendo And Valve, Emulator Dev Isn&#39;t Worried About Legal Danger](https://kotaku.com/nintendo-valve-pc-dolphin-emulator-piracy-copyright-1850658946)
+ - [I am beyond excited to infest Baldur&#39;s Gate 3 with an army of mushroom zombies straight out of The Last of Us](https://www.pcgamer.com/i-am-beyond-excited-to-infest-baldurs-gate-3-with-an-army-of-mushroom-zombies-straight-out-of-the-last-of-us)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
