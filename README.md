@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based o9 Solutions, which offers AI-powered tools for supply chain management, raised $116M at a $3.7B valuation, up from $2.7B in January 2022 &lpar;CSCMP&#39;s Supply Chain Quarterly&rpar;](http://www.techmeme.com/230720/p25#a230720p25)
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [The developers behind open-source GameCube and Wii emulator Dolphin drop plans to release it on Steam citing &quot;Nintendo&#39;s long-held stance on emulation&quot; &lpar;Dolphin Emulator&rpar;](http://www.techmeme.com/230720/p27#a230720p27)
+ - [OpenAI adds opt-in &quot;custom instructions&quot;, or details ChatGPT should remember about a user, in beta to ChatGPT Plus subscribers everywhere but the UK and EU &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230720/p26#a230720p26)
+ - [Neopets is moving into a ‘new era’ — and leaving NFTs and the metaverse behind](https://www.theverge.com/2023/7/20/23801855/neopets-team-dominic-law-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
