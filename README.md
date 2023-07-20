@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Joe Biden wanted Gigi Sohn to fix America’s internet — what went wrong?](https://www.theverge.com/2023/7/20/23800161/gigi-sohn-fcc-nomination-dark-money-campaign-net-neutrality-profile)
- - [Caroline Ellison&#39;s private Google Docs detail her thinking before FTX&#39;s collapse, including doubts over running Alameda and her breakup with Sam Bankman-Fried &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p12#a230720p12)
- - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)<!-- TECH:END -->
+ - [Kokopelli Chasm-Lite Stand-Up Paddleboard Review: Inflatable Summer Fun](https://www.wired.com/review/kokopelli-chasm-lite-stand-up-paddleboard/)
+ - [Google will switch on its cookie-replacing tools for Chrome developers next week](https://www.theverge.com/2023/7/20/23801435/google-chrome-privacy-sandbox-cookies-api-release-enabled)
+ - [Motorola Moto G Stylus 5G &lpar;2023&rpar; review: welcome to bloatware hell](https://www.theverge.com/23800535/motorola-g-stylus-5g-2023-review-battery-camera-bloatware-swish-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
