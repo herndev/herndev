@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s sorcerers just can&#39;t catch a break—their new ultra-rare item rewards hours of grinding with motion sickness](https://www.pcgamer.com/diablo-4s-sorcerers-just-cant-catch-a-breaktheir-new-ultra-rare-item-rewards-hours-of-grinding-with-motion-sickness)
- - [TSMC is delaying its Arizona foundry over a lack of skilled workers alongsde a $5.85B income slump](https://www.pcgamer.com/tsmc-is-delaying-its-arizona-foundry-over-a-lack-of-skilled-workers-alongsde-a-dollar585b-income-slump)
- - [It&#39;s a Gundam shame: yet another live service game goes the way of the Dodo after barely a year](https://www.pcgamer.com/its-a-gundam-shame-yet-another-live-service-game-goes-the-way-of-the-dodo-after-barely-a-year)<!-- GAME:END -->
+ - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)
+ - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)
+ - [Diablo 4’s first season is off to a rocky start before it even begins](https://www.polygon.com/23801426/diablo-4s-season-1-patch-1-1-nerfs-community-reaction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
