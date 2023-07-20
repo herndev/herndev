@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends dev boldly declares that &#39;queue times are too short,&#39; but let&#39;s hear them out](https://www.pcgamer.com/apex-legends-dev-boldly-declares-that-queue-times-are-too-short-but-lets-hear-them-out)
- - [Counter-Strike League Makes It Clear: Crocs Are Banned](https://kotaku.com/csgo-counterstrike-esl-crocs-banned-esports-rules-steam-1850661788)
- - [Cock Ring Ken is in the Barbie movie, so let’s talk about Cock Ring Ken](https://www.polygon.com/23802276/cock-ring-ken-earring-magic-barbie-movie)<!-- GAME:END -->
+ - [Marvel’s Spider-Man 2: New Story Trailer](https://blog.playstation.com/2023/07/20/marvels-spider-man-2-new-story-trailer/)
+ - [First Look: PS5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle](https://blog.playstation.com/2023/07/20/first-look-ps5-console-marvels-spider-man-2-limited-edition-bundle/)
+ - [Old School Runescape players were using a new bug to mass-murder each other and it got so bad the game had to be taken offline](https://www.pcgamer.com/old-school-runescape-players-were-using-a-new-bug-to-mass-murder-each-other-and-it-got-so-bad-the-game-had-to-be-taken-offline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
