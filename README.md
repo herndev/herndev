@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Students react to handsome teacher &lpar;1965.&rpar;](http://9gag.com/gag/aKEpgAN)
- - ⏩ [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
- - 👉 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)<!-- MEMES:END -->
+ - 💣 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
+ - ⏩ [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
+ - 👉 [No surprises](http://9gag.com/gag/aqeANBZ)<!-- MEMES:END -->
 
 ---
 
