@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - ⏩ [He is right, you know?](http://9gag.com/gag/ay2P8xX)
- - 👉 [Art 101](http://9gag.com/gag/a8qzMWQ)<!-- MEMES:END -->
+ - 💣 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
+ - ⏩ [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 
