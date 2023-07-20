@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
- - [Fionna and Cake gear up for their own multiversal Adventure Time romp](https://www.polygon.com/sdcc/23800720/fionna-cake-adventure-time-trailer-release-date)
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)<!-- GAME:END -->
+ - [New Last Of Us PC Mod Turns Game Into Intense FPS](https://kotaku.com/last-of-us-part-1-ps5-pc-fps-first-person-mod-brutal-1850661246)
+ - [Terminator creator James Cameron says AI isn&#39;t going to take over Hollywood but it might wipe out humanity: &#39;I warned you guys in 1984!&#39;](https://www.pcgamer.com/terminator-creator-james-cameron-says-ai-isnt-going-to-take-over-hollywood-but-it-might-wipe-out-humanity-i-warned-you-guys-in-1984)
+ - [Armored Core 6 &#39;story trailer&#39; implies Armored Core 6 needs a story beyond dope mechs doing dope shit](https://www.pcgamer.com/armored-core-6-story-trailer-implies-armored-core-6-needs-a-story-beyond-dope-mechs-doing-dope-shit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
