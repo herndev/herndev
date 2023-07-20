@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Watch 6 will be able to tell if your food is hot or not](https://www.androidauthority.com/samsung-galaxy-watch-6-temperature-measurement-thermo-check-app-3346801/)
- - [Google wants AI to write the news articles you read](https://www.androidauthority.com/google-news-writing-ai-3346754/)
- - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)<!-- TECH:END -->
+ - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)
+ - [Silicon Box, created by Marvell&#39;s co-founders and CEO BJ Han, plans to spend $2B to build a Singapore-based chip foundry for chiplets, creating 1,000+ jobs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/230720/p9#a230720p9)
+ - [The Most Efficient Solar Panels of July 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
