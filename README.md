@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Aquaman 2 won’t have a Batman in it after all](https://www.polygon.com/23800877/aquaman-2-batman-cast-ben-affleck-michael-keaton)
  - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)
- - [Riot cracks down on Valorant app that gives players a significant advantage before the match even begins: &#39;It&#39;s hard to describe how disappointed I am&#39;](https://www.pcgamer.com/riot-cracks-down-on-valorant-app-that-gives-players-a-significant-advantage-before-the-match-even-begins-its-hard-to-describe-how-disappointed-i-am)
- - [OK, who&#39;s not on Steam at this point?](https://www.pcgamer.com/games-not-on-steam)<!-- GAME:END -->
+ - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
