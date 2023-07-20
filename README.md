@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - ⏩ [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 💣 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
+ - ⏩ [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---
 
