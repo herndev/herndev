@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameCube and Wii emulator Dolphin won’t come to Steam after all](https://www.polygon.com/23801889/dolphin-wii-emulator-steam-gamecube-nintendo)
- - [NSFW SpongeBob Artwork By Show&#39;s Artists Surfaces After 20 Years](https://kotaku.com/spongebob-squarepants-behind-closed-doors-lost-media-ns-1850660518)
- - [YouTube’s New Trend Features Creepy Singing Toilet-Creatures](https://kotaku.com/youtube-skibidi-toilet-song-dafuqboom-tiktok-explained-1850660405)<!-- GAME:END -->
+ - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
+ - [Fionna and Cake gear up for their own multiversal Adventure Time romp](https://www.polygon.com/sdcc/23800720/fionna-cake-adventure-time-trailer-release-date)
+ - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
