@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
- - ⏩ [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
- - 👉 [No surprises](http://9gag.com/gag/aqeANBZ)<!-- MEMES:END -->
+ - ⏩ [No surprises](http://9gag.com/gag/aqeANBZ)
+ - 👉 [Splash!](http://9gag.com/gag/aOxGyyD)<!-- MEMES:END -->
 
 ---
 
