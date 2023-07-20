@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Learn languages with Rosetta Stone&#39;s lifetime subscription, now $159.97](https://appleinsider.com/articles/23/07/20/learn-languages-with-rosetta-stones-lifetime-subscription-now-15997?utm_medium=rss)
- - [Adobe releases an emergency ColdFusion security update which fixes a zero-day RCE flaw used in the wild, after its July 11 fix was marked incomplete by Rapid7 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230719/p43#a230719p43)
- - [Beijing-based ForwardX Robotics, which makes autonomous mobile robots for warehouses, raised an additional $30M on July 7, bringing its Series C total to $61M &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/230719/p42#a230719p42)<!-- TECH:END -->
+ - [Sources: Google is testing an AI-powered tool to produce news stories, pitching it to news orgs including NYT, WaPo, and News Corp as a helpmate for journalists &lpar;New York Times&rpar;](http://www.techmeme.com/230719/p44#a230719p44)
+ - [&#39;Pokemon Sleep&#39; launches in the US, but it&#39;s more game than sleep tracker](https://appleinsider.com/articles/23/07/20/pokemon-sleep-launches-in-the-us-but-its-more-game-than-sleep-tracker?utm_medium=rss)
+ - [Learn languages with Rosetta Stone&#39;s lifetime subscription, now $159.97](https://appleinsider.com/articles/23/07/20/learn-languages-with-rosetta-stones-lifetime-subscription-now-15997?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
