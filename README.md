@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP’s Spectre x360 13.5 is nearly perfect, except for one thing](https://www.theverge.com/23794381/hp-spectre-x360-13-vs-dell-xps-13-review)
- - [Apple gives metaphorical finger to surveillance bill, says it will not comply](https://www.androidauthority.com/apple-investigatory-powers-act-3346867/)
- - [Cerebras launches the first of three supercomputers for Abu Dhabi-based G42 as part of its Condor Galaxy network; G42 trained an Arabic GPT model in April 2023 &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230720/p18#a230720p18)<!-- TECH:END -->
+ - [YouTube increases the US price for YouTube Premium from $11.99 to $13.99 per month and for YouTube Music from $9.99 to $10.99 per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230720/p20#a230720p20)
+ - [Pokémon Sleep is now available in the US on Android and iOS](https://www.theverge.com/2023/7/20/23801548/pokemon-sleep-launch-android-ios)
+ - [New iPhone 15 Pro rumor backs Wi-Fi 6E making first appearance](https://appleinsider.com/articles/23/07/20/new-rumor-backs-wi-fi-6e-making-appearance-in-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
