@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; New Firewall Ultra PvP gameplay revealed, launches August 24](https://blog.playstation.com/2023/07/19/20230719-firewallultra/)
  - [Aquaman 2 won’t have a Batman in it after all](https://www.polygon.com/23800877/aquaman-2-batman-cast-ben-affleck-michael-keaton)
- - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)
  - [From prototypes to future tech: how PS VR2 was built](https://blog.playstation.com/2023/07/19/from-prototypes-to-future-tech-how-ps-vr2-was-built/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
