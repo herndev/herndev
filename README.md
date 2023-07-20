@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)
- - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)
- - [Diablo 4’s first season is off to a rocky start before it even begins](https://www.polygon.com/23801426/diablo-4s-season-1-patch-1-1-nerfs-community-reaction)<!-- GAME:END -->
+ - [Final Fantasy XVI Has The Most Depressing Visuals In Series History](https://kotaku.com/final-fantasy-16-xvi-graphics-ps5-ff7-ffx-1850657086)
+ - [Sea of Thieves: The Legend of Monkey Island Begins with a Brand New Tall Tale](https://news.xbox.com/en-us/2023/07/20/sea-of-thieves-the-legend-of-monkey-island-begins/)
+ - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
