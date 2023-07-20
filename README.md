@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kokopelli Chasm-Lite Stand-Up Paddleboard Review: Inflatable Summer Fun](https://www.wired.com/review/kokopelli-chasm-lite-stand-up-paddleboard/)
- - [Google will switch on its cookie-replacing tools for Chrome developers next week](https://www.theverge.com/2023/7/20/23801435/google-chrome-privacy-sandbox-cookies-api-release-enabled)
- - [Motorola Moto G Stylus 5G &lpar;2023&rpar; review: welcome to bloatware hell](https://www.theverge.com/23800535/motorola-g-stylus-5g-2023-review-battery-camera-bloatware-swish-apps)<!-- TECH:END -->
+ - [HP’s Spectre x360 13.5 is nearly perfect, except for one thing](https://www.theverge.com/23794381/hp-spectre-x360-13-vs-dell-xps-13-review)
+ - [Apple gives metaphorical finger to surveillance bill, says it will not comply](https://www.androidauthority.com/apple-investigatory-powers-act-3346867/)
+ - [Cerebras launches the first of three supercomputers for Abu Dhabi-based G42 as part of its Condor Galaxy network; G42 trained an Arabic GPT model in April 2023 &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230720/p18#a230720p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
