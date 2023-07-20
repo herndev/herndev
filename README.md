@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
- - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)
- - [Google is starting to roll out its tools to replace cookies in Chrome 115](https://www.androidauthority.com/google-chrome-privacy-sandbox-3347084/)<!-- TECH:END -->
+ - [AMC scraps plan to make the best movie theater seats more expensive](https://www.theverge.com/2023/7/20/23802244/amc-sightline-movie-theater-tiered-pricing-canceled)
+ - [AOC is going to stream on Twitch again](https://www.theverge.com/2023/7/20/23802389/aoc-twitch-stream-date-hasanabi)
+ - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
