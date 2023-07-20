@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
  - ⏩ [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
+ - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
 
 ---
 
