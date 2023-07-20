@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Samsung Galaxy Watch 6 will be able to tell if your food is hot or not](https://www.androidauthority.com/samsung-galaxy-watch-6-temperature-measurement-thermo-check-app-3346801/)
  - [Google wants AI to write the news articles you read](https://www.androidauthority.com/google-news-writing-ai-3346754/)
- - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)
- - [Ofcom survey: TikTok is the top news source for 12- to 15-year-olds in the UK, followed by YouTube and Instagram; 16- to 24-year-olds prefer Instagram for news &lpar;Hibaq Farah/The Guardian&rpar;](http://www.techmeme.com/230720/p6#a230720p6)<!-- TECH:END -->
+ - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
