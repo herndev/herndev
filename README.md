@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA responds to fan criticism of women players in Ultimate Team by reminding them it&#39;s &#39;fantasy football&#39;](https://www.pcgamer.com/ea-responds-to-fan-criticism-of-women-players-in-ultimate-team-by-reminding-them-its-fantasy-football)
  - [PC Gamer UK September issue on sale now: Baldur&#39;s Gate III](https://www.pcgamer.com/pc-gamer-uk-september-issue-on-sale-now-baldurs-gate-iii)
- - [Today&#39;s Wordle hint and answer #761: Thursday, July 20](https://www.pcgamer.com/wordle-answer-today-hint-761-july-20)
- - [40K&#39;s edgelord assassins are coming to turn-based tactics game Chaos Gate – Daemonhunters](https://www.pcgamer.com/40ks-edgelord-assassins-are-coming-to-turn-based-tactics-game-chaos-gate-daemonhunters)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #761: Thursday, July 20](https://www.pcgamer.com/wordle-answer-today-hint-761-july-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
