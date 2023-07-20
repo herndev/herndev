@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)
- - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
- - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)<!-- TECH:END -->
+ - [Apple Store Tice&#39;s Corner set to reopen on July 22, 2023](https://appleinsider.com/articles/23/07/20/apple-store-tices-corner-set-to-reopen-on-july-22-2023?utm_medium=rss)
+ - [The Borderlands movie comes out next year](https://www.theverge.com/2023/7/20/23802109/borderlands-movie-release-date)
+ - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
