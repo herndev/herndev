@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)
- - [Silicon Box, created by Marvell&#39;s co-founders and CEO BJ Han, plans to spend $2B to build a Singapore-based chip foundry for chiplets, creating 1,000+ jobs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/230720/p9#a230720p9)
- - [The Most Efficient Solar Panels of July 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [President Joe Biden wanted Gigi Sohn to fix America’s internet — what went wrong?](https://www.theverge.com/2023/7/20/23800161/gigi-sohn-fcc-nomination-dark-money-campaign-net-neutrality-profile)
+ - [Caroline Ellison&#39;s private Google Docs detail her thinking before FTX&#39;s collapse, including doubts over running Alameda and her breakup with Sam Bankman-Fried &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p12#a230720p12)
+ - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
