@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
- - ⏩ [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
+ - 💣 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
+ - ⏩ [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [Nokia is planning to re-release their Nostalgic 6600 phone with Android operating system and an awesome hardware!](http://9gag.com/gag/a8qzjjO)<!-- MEMES:END -->
 
 ---
 
