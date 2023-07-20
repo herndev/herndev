@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store Tice&#39;s Corner set to reopen on July 22, 2023](https://appleinsider.com/articles/23/07/20/apple-store-tices-corner-set-to-reopen-on-july-22-2023?utm_medium=rss)
- - [The Borderlands movie comes out next year](https://www.theverge.com/2023/7/20/23802109/borderlands-movie-release-date)
- - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)<!-- TECH:END -->
+ - [Twitter is letting some verified organizations post job listings directly on their profiles through a job listings feature &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230720/p30#a230720p30)
+ - [Don’t pay your T-Mobile bill like this or you’ll be losing money](https://www.androidauthority.com/t-mobile-bill-in-store-3347088/)
+ - [Netflix Games: These New Titles Are Arriving in July     - CNET](https://www.cnet.com/tech/gaming/netflix-games-these-new-titles-are-arriving-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
