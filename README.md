@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble Bundle&#39;s next payload features a bunch of lo-fi games to snuggle up to](https://www.pcgamer.com/humble-bundles-next-payload-features-a-bunch-of-lo-fi-games-to-snuggle-up-to)
- - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
- - [PC Gamer Chat Log Episode 21: How are MMOs lookin&#39; these days?](https://www.pcgamer.com/pc-gamer-chat-log-episode-21-how-are-mmos-lookin-these-days)<!-- GAME:END -->
+ - [GameCube and Wii emulator Dolphin won’t come to Steam after all](https://www.polygon.com/23801889/dolphin-wii-emulator-steam-gamecube-nintendo)
+ - [NSFW SpongeBob Artwork By Show&#39;s Artists Surfaces After 20 Years](https://kotaku.com/spongebob-squarepants-behind-closed-doors-lost-media-ns-1850660518)
+ - [YouTube’s New Trend Features Creepy Singing Toilet-Creatures](https://kotaku.com/youtube-skibidi-toilet-song-dafuqboom-tiktok-explained-1850660405)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
