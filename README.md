@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - ⏩ [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - ⏩ [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)<!-- MEMES:END -->
 
 ---
 
