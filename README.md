@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redditors Vent Their Rage At CEO In Funniest Way Possible](https://kotaku.com/reddit-spez-rplace-digital-pixel-art-protest-1850661319)
- - [2 years after shooting wrapped, Eli Roth&#39;s Borderlands movie is still over a year away](https://www.pcgamer.com/borderlands-movie-release-date)
- - [This Nintendo Franchise Doesn’t Sell, And Shigeru Miyamoto Has A Theory](https://kotaku.com/pikmin-4-sales-numbers-switch-shigeru-miyamoto-1850661407)<!-- GAME:END -->
+ - [Apex Legends dev boldly declares that &#39;queue times are too short,&#39; but let&#39;s hear them out](https://www.pcgamer.com/apex-legends-dev-boldly-declares-that-queue-times-are-too-short-but-lets-hear-them-out)
+ - [Counter-Strike League Makes It Clear: Crocs Are Banned](https://kotaku.com/csgo-counterstrike-esl-crocs-banned-esports-rules-steam-1850661788)
+ - [Cock Ring Ken is in the Barbie movie, so let’s talk about Cock Ring Ken](https://www.polygon.com/23802276/cock-ring-ken-earring-magic-barbie-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
