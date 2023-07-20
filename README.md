@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - ⏩ [Freedom of speech](http://9gag.com/gag/aEqEGKG)
- - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
+ - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - ⏩ [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
 
 ---
 
