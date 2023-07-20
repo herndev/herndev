@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Last Of Us PC Mod Turns Game Into Intense FPS](https://kotaku.com/last-of-us-part-1-ps5-pc-fps-first-person-mod-brutal-1850661246)
- - [Terminator creator James Cameron says AI isn&#39;t going to take over Hollywood but it might wipe out humanity: &#39;I warned you guys in 1984!&#39;](https://www.pcgamer.com/terminator-creator-james-cameron-says-ai-isnt-going-to-take-over-hollywood-but-it-might-wipe-out-humanity-i-warned-you-guys-in-1984)
- - [Armored Core 6 &#39;story trailer&#39; implies Armored Core 6 needs a story beyond dope mechs doing dope shit](https://www.pcgamer.com/armored-core-6-story-trailer-implies-armored-core-6-needs-a-story-beyond-dope-mechs-doing-dope-shit)<!-- GAME:END -->
+ - [Redditors Vent Their Rage At CEO In Funniest Way Possible](https://kotaku.com/reddit-spez-rplace-digital-pixel-art-protest-1850661319)
+ - [2 years after shooting wrapped, Eli Roth&#39;s Borderlands movie is still over a year away](https://www.pcgamer.com/borderlands-movie-release-date)
+ - [This Nintendo Franchise Doesn’t Sell, And Shigeru Miyamoto Has A Theory](https://kotaku.com/pikmin-4-sales-numbers-switch-shigeru-miyamoto-1850661407)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
