@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The bearded babies of this Mount and Blade 2 mod may mean I never sleep soundly again](https://www.pcgamer.com/the-bearded-babies-of-this-mount-and-blade-2-mod-may-mean-i-never-sleep-soundly-again)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Final Fantasy 14 tries to coax you out of your gaming chair with a workout vid based on its emotes](https://www.pcgamer.com/final-fantasy-14-tries-to-coax-you-out-of-your-gaming-chair-with-a-workout-vid-based-on-its-emotes)<!-- GAME:END -->
+ - [The best Pokémon gifts for fans](https://www.polygon.com/what-to-buy/23784328/pokemon-gifts-plushies-cards-toys-music-crocs-games)
+ - [Diablo IV: Three Grotesque, Exquisite Necromancer Builds](https://kotaku.com/diablo-4-iv-necromancer-build-summon-corpse-bone-spear-1850664117)
+ - [Logitech G Pro](https://www.pcgamer.com/logitech-g-pro)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
