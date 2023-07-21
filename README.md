@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Borderlands game is a massively multiplayer interactive streaming series](https://www.polygon.com/23802785/borderlands-echovision-live-interactive-series-announcement)
- - [DC’s new interactive streaming series will let viewers build their own Justice League](https://www.polygon.com/23780170/dc-heroes-united-streaming-series-sdcc-2023)
- - [The Massive Wikipedia War Over Barbenheimer, Explained](https://kotaku.com/barbenheimer-barbie-oppenheimer-meme-wikipedia-war-1850664668)<!-- GAME:END -->
+ - [Here’s Where Your Final Fantasy XVI Fave Falls On Barbenheimer](https://kotaku.com/final-fantasy-16-barbie-oppenheimer-clive-cid-benedikta-1850665248)
+ - [What does ‘Spider-Man 2’ even refer to anymore?](https://www.polygon.com/23803340/marvel-spider-man-2-sdcc-movie-game-ps5-trailer-mcu)
+ - [New Borderlands game is a massively multiplayer interactive streaming series](https://www.polygon.com/23802785/borderlands-echovision-live-interactive-series-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
