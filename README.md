@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2023 summer movie festival: The Meg](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [If you&#39;re sick of videogames, Game Pass Ultimate now comes with free anime](https://www.pcgamer.com/if-youre-sick-of-videogames-game-pass-ultimate-now-comes-with-free-anime)
- - [They Cloned Tyrone is one of Netflix’s biggest surprises](https://www.polygon.com/reviews/23802227/they-cloned-tyrone-netflix-movie-review)<!-- GAME:END -->
+ - [The bearded babies of this Mount and Blade 2 mod may mean I never sleep soundly again](https://www.pcgamer.com/the-bearded-babies-of-this-mount-and-blade-2-mod-may-mean-i-never-sleep-soundly-again)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Final Fantasy 14 tries to coax you out of your gaming chair with a workout vid based on its emotes](https://www.pcgamer.com/final-fantasy-14-tries-to-coax-you-out-of-your-gaming-chair-with-a-workout-vid-based-on-its-emotes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
