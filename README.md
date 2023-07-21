@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleGPT, killing an Apple TV, and praising Apple Maps on the AppleInsider podcast](https://appleinsider.com/articles/23/07/21/applegpt-killing-an-apple-tv-and-praising-apple-maps-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
- - [What is Reddit’s CEO Steve Huffman doing?](https://www.theverge.com/23802373/reddit-ipo-valuation-moderation-ceo)<!-- TECH:END -->
+ - [An influencer’s guide to the writers and actors strikes](https://www.theverge.com/23802895/sag-aftra-writers-guild-strikes-hollywood-influencer-rules)
+ - [Daily deals: $1,400 off M1 Max MacBook Pro, up to 48% off Beats, $60 off Apple Watch SE, more](https://appleinsider.com/articles/23/07/21/daily-deals-1400-off-m1-max-macbook-pro-up-to-48-off-beats-60-off-apple-watch-se-more?utm_medium=rss)
+ - [Troy Hunt: sensitive info of ~4,000 people who attended Roblox Developer Conference between 2017-2020 was leaked in 2021; Roblox disclosed the leak just now &lpar;Rich Stanton/PC Gamer&rpar;](http://www.techmeme.com/230721/p9#a230721p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
