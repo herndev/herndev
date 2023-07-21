@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel brings first three episodes of Disney Plus’ Secret Invasion to Hulu](https://www.theverge.com/2023/7/21/23802733/secret-invasion-hulu-disney-plus)
- - [Reddit removes the moderators of r/malefashionadvice, one of the biggest subreddits to close protesting Reddit&#39;s API changes, and takes charge of the subreddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230721/p4#a230721p4)
- - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)<!-- TECH:END -->
+ - [Google now hikes prices for YouTube Premium too](https://appleinsider.com/articles/23/07/21/google-now-hikes-prices-for-youtube-premium-too?utm_medium=rss)
+ - [Apple agrees to deal that will keep &#39;Tehran&#39; filming despite actors&#39; strike](https://appleinsider.com/articles/23/07/21/apple-agrees-deal-to-keep-tehran-filming-despite-actors-strike?utm_medium=rss)
+ - [YouTube Premium prices just went up! &lpar;Updated: Older accounts also affected&rpar;](https://www.androidauthority.com/youtube-premium-price-hike-3346739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
