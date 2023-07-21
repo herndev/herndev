@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - 💣 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
  - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 
