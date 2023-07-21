@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
- - ⏩ [Mom I found her](http://9gag.com/gag/a7qAZbz)
- - 👉 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)<!-- MEMES:END -->
+ - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 👉 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)<!-- MEMES:END -->
 
 ---
 
