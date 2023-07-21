@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)
- - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)
- - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)<!-- TECH:END -->
+ - [AppleGPT, killing an Apple TV, and praising Apple Maps on the AppleInsider podcast](https://appleinsider.com/articles/23/07/21/applegpt-killing-an-apple-tv-and-praising-apple-maps-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
+ - [What is Reddit’s CEO Steve Huffman doing?](https://www.theverge.com/23802373/reddit-ipo-valuation-moderation-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
