@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find N3 could come to America, sort of](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3347411/)
- - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
- - [Grab a GoPro Hero 11 Black Mini at Half-Price &lpar;Save $200&rpar;     - CNET](https://www.cnet.com/deals/grab-a-gopro-hero-11-black-mini-at-half-price-save-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analogue will start shipping more Pocket preorders in August](https://www.theverge.com/2023/7/21/23803298/analogue-pocket-preorder-shipping)
+ - [How to use iPad as a portable monitor for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
+ - [Disney’s new vision for ESPN might include part ownership by the NBA, NFL](https://www.theverge.com/2023/7/21/23803284/disney-espn-nba-nfl-streaming-sports-cable-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
