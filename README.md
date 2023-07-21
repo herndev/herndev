@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - ⏩ [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
+ - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - ⏩ [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 ---
 
