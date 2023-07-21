@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan work culture &lpar;source: Sora the Troll&rpar;](http://9gag.com/gag/a1PwdvG)
- - ⏩ [And we are the clowns](http://9gag.com/gag/a3Zn7Nm)
- - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
+ - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - ⏩ [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
+ - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
 
 ---
 
