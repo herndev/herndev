@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #762: Friday, July 21](https://www.pcgamer.com/wordle-answer-today-hint-762-july-21)
- - [The RTX 4060 Ti 16GB tests a little slower than the 8GB version](https://www.pcgamer.com/the-rtx-4060-ti-16gb-tests-a-little-slower-than-the-8gb-version)
- - [When will Oppenheimer come to streaming?](https://www.polygon.com/23802050/oppenheimer-watch-online-streaming-date)<!-- GAME:END -->
+ - [How to get the Blue Onion in Sun-Speckled Terrace in Pikmin 4](https://www.polygon.com/guides/23799182/pikmin-4-blue-onion-sun-speckled-terrace-how-to-get)
+ - [How to unlock the Purple Onion and White Onion in Pikmin 4](https://www.polygon.com/guides/23797680/pikmin-4-purple-white-onion-locations-cave)
+ - [Pikmin 4 all areas and objectives list](https://www.polygon.com/guides/23797540/pikmin-4-area-stage-objectives-levels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
