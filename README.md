@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: You think Reddit’s contributor program is a bad idea](https://www.androidauthority.com/reddit-contributor-program-poll-results-3347175/)
  - [Cowboy insists it’s not the next VanMoof as it raises prices to ‘stay healthy’](https://www.theverge.com/2023/7/21/23801720/cowboy-profit-next-vanmoof-bankrupt)
- - [Motorola Razr Plus breaks in the strangest way during durability test](https://www.androidauthority.com/motorola-razr-plus-durability-test-3347176/)
- - [The Open Championship 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-open-championship-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola Razr Plus breaks in the strangest way during durability test](https://www.androidauthority.com/motorola-razr-plus-durability-test-3347176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
