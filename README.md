@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google co-founder comes back to company to bolster its AI efforts](https://www.androidauthority.com/google-ai-sergey-brin-3347338/)
- - [Amazon settles with the US DOJ and the FTC for $25M over not complying with parents&#39; requests to delete their kids&#39; Alexa voice recordings and geolocation data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230721/p11#a230721p11)
- - [Unbelievable price crash on the WD 500GB My Passport SSD](https://www.androidauthority.com/wd-500gb-my-passport-ssd-deal-3347346/)<!-- TECH:END -->
+ - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
