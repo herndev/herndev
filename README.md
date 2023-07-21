@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 24 to 28](https://news.xbox.com/en-us/2023/07/21/next-week-on-xbox-new-games-for-july-24-to-28/)
- - [GPD&#39;s GPU dock lets you stuff desktop-ish graphics into your Steam Deck through the internal PCIe slot](https://www.pcgamer.com/gpds-gpu-dock-lets-you-stuff-desktop-ish-graphics-into-a-steam-deck)
- - [The Elder Scrolls Online is free on Epic](https://www.pcgamer.com/the-elder-scrolls-online-is-free-on-epic)<!-- GAME:END -->
+ - [Polygon’s 2023 summer movie festival: The Meg](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [If you&#39;re sick of videogames, Game Pass Ultimate now comes with free anime](https://www.pcgamer.com/if-youre-sick-of-videogames-game-pass-ultimate-now-comes-with-free-anime)
+ - [They Cloned Tyrone is one of Netflix’s biggest surprises](https://www.polygon.com/reviews/23802227/they-cloned-tyrone-netflix-movie-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
