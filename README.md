@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Now I Am Become Death, the Destroyer of Worlds.’ The Story of Oppenheimer’s Infamous Quote](https://www.wired.com/story/manhattan-project-robert-oppenheimer/)
- - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
- - [Sources: Amazon will require some remote corporate employees to relocate as part of a mandate requiring workers to be in the office three days a week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230721/p16#a230721p16)<!-- TECH:END -->
+ - [&#39;La Maison&#39; on Apple TV+ sets the stage for French high fashion](https://appleinsider.com/articles/23/07/21/la-maison-on-apple-tv-sets-the-stage-for-french-high-fashion?utm_medium=rss)
+ - [OpenAI plans to release the Android version of its ChatGPT app next week, after launching on iOS in May &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
+ - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
