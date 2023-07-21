@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - ⏩ [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
+ - 💣 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
+ - ⏩ [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
+ - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
 
 ---
 
