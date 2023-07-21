@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC withdraws its in-house challenge to Microsoft’s Activision-Blizzard deal](https://www.theverge.com/2023/7/20/23795591/ftc-microsoft-activision-administrative-challenge)
- - [Epic Games is taking 75 percent off select titles as part of its summer sale](https://www.theverge.com/2023/7/20/23802333/epic-games-store-summer-sale-alan-wake-remastered-system-shock-dead-space-deal)
- - [Spider-Man 2’s new story trailer and PS5 bundle are consumed by Venom](https://www.theverge.com/21517046/spider-man-2-limited-edition-ps5-story-trailer-venom)<!-- TECH:END -->
+ - [FTX sues Sam Bankman-Fried, Caroline Ellison, Gary Wang, and Nishad Singh for $1B+, alleging they misappropriated funds for &quot;pet projects&quot; before FTX bankruptcy &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230720/p33#a230720p33)
+ - [Reddit takes over one of the biggest protesting subreddits](https://www.theverge.com/2023/7/20/23802370/reddit-over-reopens-subreddit-protest-male-fashion-advice)
+ - [10 Heat-Fighting Amazon Products to Get This Summer     - CNET](https://www.cnet.com/health/10-heat-fighting-amazon-products-to-get-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
