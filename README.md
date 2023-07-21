@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - ⏩ [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - 👉 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)<!-- MEMES:END -->
+ - 💣 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
+ - ⏩ [Wtf](http://9gag.com/gag/a2KGPEd)
+ - 👉 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)<!-- MEMES:END -->
 
 ---
 
