@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cowboy insists it’s not the next VanMoof as it raises prices to ‘stay healthy’](https://www.theverge.com/2023/7/21/23801720/cowboy-profit-next-vanmoof-bankrupt)
  - [Motorola Razr Plus breaks in the strangest way during durability test](https://www.androidauthority.com/motorola-razr-plus-durability-test-3347176/)
- - [This laser machine magically fixes green lines on OLED phone displays](https://www.androidauthority.com/green-line-phone-display-repair-laser-machine-3347172/)
- - [A study based on open-source data estimates that 30K+ workers at European tech companies have moved to China in the past 20 years; China rejects the findings &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/230721/p1#a230721p1)<!-- TECH:END -->
+ - [The Open Championship 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-open-championship-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
