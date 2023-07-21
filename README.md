@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming indies from Team 17 – hands-on details](https://blog.playstation.com/2023/07/21/upcoming-indies-from-team-17-hands-on-details/)
- - [Upcoming indies from Team 17 – hands-on details](https://blog.playstation.com/2023/07/21/upcoming-indies-from-team-17-hands-on-details/)
- - [How to get the Blue Onion in Sun-Speckled Terrace in Pikmin 4](https://www.polygon.com/guides/23799182/pikmin-4-blue-onion-sun-speckled-terrace-how-to-get)<!-- GAME:END -->
+ - [How to complete Holding Back the Flood in Diablo 4](https://www.pcgamer.com/diablo-4-holding-back-the-flood)
+ - [Razer Blade 14 &lpar;2023&rpar;](https://www.pcgamer.com/razer-blade-14-2023-review-benchmarks-performance)
+ - [Leading AI companies promise the President they will behave, honest](https://www.pcgamer.com/leading-ai-companies-promise-the-president-they-will-behave-honest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
