@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue will start shipping more Pocket preorders in August](https://www.theverge.com/2023/7/21/23803298/analogue-pocket-preorder-shipping)
- - [How to use iPad as a portable monitor for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
- - [Disney’s new vision for ESPN might include part ownership by the NBA, NFL](https://www.theverge.com/2023/7/21/23803284/disney-espn-nba-nfl-streaming-sports-cable-tv)<!-- TECH:END -->
+ - [‘Now I Am Become Death, the Destroyer of Worlds.’ The Story of Oppenheimer’s Infamous Quote](https://www.wired.com/story/manhattan-project-robert-oppenheimer/)
+ - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
+ - [Sources: Amazon will require some remote corporate employees to relocate as part of a mandate requiring workers to be in the office three days a week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230721/p16#a230721p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
