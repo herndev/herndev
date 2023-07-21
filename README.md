@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
- - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
+ - 💣 [Japan work culture &lpar;source: Sora the Troll&rpar;](http://9gag.com/gag/a1PwdvG)
+ - ⏩ [And we are the clowns](http://9gag.com/gag/a3Zn7Nm)
+ - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
 
 ---
 
