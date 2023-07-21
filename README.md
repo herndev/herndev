@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly](https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety)
- - [A look at Samsung&#39;s and Texas Instruments&#39; chip fabs in Texas, as the state becomes a US chipmaking hub with six projects totaling $61B and creating 8K+ jobs &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230721/p2#a230721p2)
- - [We asked, you told us: You think Reddit’s contributor program is a bad idea](https://www.androidauthority.com/reddit-contributor-program-poll-results-3347175/)<!-- TECH:END -->
+ - [Marvel brings first three episodes of Disney Plus’ Secret Invasion to Hulu](https://www.theverge.com/2023/7/21/23802733/secret-invasion-hulu-disney-plus)
+ - [Reddit removes the moderators of r/malefashionadvice, one of the biggest subreddits to close protesting Reddit&#39;s API changes, and takes charge of the subreddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230721/p4#a230721p4)
+ - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
