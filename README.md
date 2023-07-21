@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - ⏩ [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
- - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
+ - 💣 [Best discussion ever](http://9gag.com/gag/aVbBedP)
+ - ⏩ [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
+ - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
 
 ---
 
