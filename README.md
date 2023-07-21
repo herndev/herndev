@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
- - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)<!-- TECH:END -->
+ - [OPPO Find N3 could come to America, sort of](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3347411/)
+ - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
+ - [Grab a GoPro Hero 11 Black Mini at Half-Price &lpar;Save $200&rpar;     - CNET](https://www.cnet.com/deals/grab-a-gopro-hero-11-black-mini-at-half-price-save-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
