@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
- - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
+ - 💣 [Story with a twist](http://9gag.com/gag/adPb7bB)
+ - ⏩ [Finally a solution!](http://9gag.com/gag/aVbBqAy)
+ - 👉 [Quick flashbang](http://9gag.com/gag/a2KGrzY)<!-- MEMES:END -->
 
 ---
 
