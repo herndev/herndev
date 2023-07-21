@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
- - ⏩ [Wtf](http://9gag.com/gag/a2KGPEd)
- - 👉 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)<!-- MEMES:END -->
+ - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - ⏩ [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
 
 ---
 
