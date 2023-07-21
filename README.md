@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 cellar locations guide](https://www.pcgamer.com/diablo-4-cellar-locations)
- - [Uncanny Stardew Valley AI mod replaces its lovely villagers with &#39;33 provided brains&#39;](https://www.pcgamer.com/uncanny-stardew-valley-ai-mod-replaces-its-lovely-villagers-with-33-provided-brains)
- - [WoW players spring trap on hapless AI article generators, tricking a site into writing about a hotly anticipated &lpar;and totally fake&rpar; &#39;Glorbo&#39; feature](https://www.pcgamer.com/wow-players-spring-trap-on-hapless-ai-article-generators-tricking-a-site-into-writing-about-a-hotly-anticipated-and-totally-fake-glorbo-feature)<!-- GAME:END -->
+ - [Exoprimal reveals its massive twist too late in the game](https://www.polygon.com/reviews/23802000/exoprimal-review-exosuits-dinosaurs-game-pass-ps5-pc-xbox)
+ - [Studio makes actual minigame compilation based on those shovelware mobile game ads you see everywhere](https://www.pcgamer.com/studio-makes-actual-minigame-compilation-based-on-those-shovelware-mobile-game-ads-you-see-everywhere)
+ - [Barbenheimer is a perfect double feature about crushing responsibility](https://www.polygon.com/23801761/barbenheimer-barbie-oppenheimer-double-feature-connections)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
