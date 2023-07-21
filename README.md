@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every fake mobile game ad is now real](https://www.polygon.com/23803104/ad-free-mobile-games-water-sort-puzzle-parking-jam-hero-wars)
- - [The best D&amp;D multiclass builds coming to Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-multiclass-builds)
- - [Pokémon Go Squirtle Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/7/8/23784788/squirtle-community-day-classic-shiny-times-bonuses-sunglasses)<!-- GAME:END -->
+ - [New Borderlands game is a massively multiplayer interactive streaming series](https://www.polygon.com/23802785/borderlands-echovision-live-interactive-series-announcement)
+ - [DC’s new interactive streaming series will let viewers build their own Justice League](https://www.polygon.com/23780170/dc-heroes-united-streaming-series-sdcc-2023)
+ - [The Massive Wikipedia War Over Barbenheimer, Explained](https://kotaku.com/barbenheimer-barbie-oppenheimer-meme-wikipedia-war-1850664668)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
