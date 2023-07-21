@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Story with a twist](http://9gag.com/gag/adPb7bB)
- - ⏩ [Finally a solution!](http://9gag.com/gag/aVbBqAy)
- - 👉 [Quick flashbang](http://9gag.com/gag/a2KGrzY)<!-- MEMES:END -->
+ - 💣 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - ⏩ [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
 
 ---
 
