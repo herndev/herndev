@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best discussion ever](http://9gag.com/gag/aVbBedP)
- - ⏩ [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
- - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
+ - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
+ - ⏩ [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 👉 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)<!-- MEMES:END -->
 
 ---
 
