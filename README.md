@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - ⏩ [Idiot](http://9gag.com/gag/ay2PLxV)
- - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
+ - 💣 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - ⏩ [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 👉 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)<!-- MEMES:END -->
 
 ---
 
