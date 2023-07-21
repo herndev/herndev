@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Oppenheimer&#39; Is Out, but You Can Stream More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-is-out-but-you-can-stream-more-christopher-nolan-movies/#ftag=CAD590a51e)
- - [Spider-Man 2 Limited Edition PS5 Swinging Into Stores in September     - CNET](https://www.cnet.com/tech/gaming/spider-man-2-limited-edition-ps5-swinging-into-stores-in-september/#ftag=CAD590a51e)
- - [Spotify Could Be Increasing Prices Next Week, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/spotify-could-be-increasing-prices-next-week-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden Invests $20 Million In Solar Panel Recycling     - CNET](https://www.cnet.com/news/biden-invests-20-million-in-solar-panel-recycling/#ftag=CAD590a51e)
+ - [Lionel Messi Debut: How to Watch, Stream Inter Miami CF vs. Cruz Azul on Apple TV Friday     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-debut-how-to-watch-stream-inter-miami-cf-vs-cruz-azul-on-apple-tv-on-friday/#ftag=CAD590a51e)
+ - [&#39;Oppenheimer&#39; Is Out, but You Can Stream More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-is-out-but-you-can-stream-more-christopher-nolan-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
