@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;La Maison&#39; on Apple TV+ sets the stage for French high fashion](https://appleinsider.com/articles/23/07/21/la-maison-on-apple-tv-sets-the-stage-for-french-high-fashion?utm_medium=rss)
- - [OpenAI plans to release the Android version of its ChatGPT app next week, after launching on iOS in May &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
- - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Oppenheimer&#39; Is Out, but You Can Stream More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-is-out-but-you-can-stream-more-christopher-nolan-movies/#ftag=CAD590a51e)
+ - [Spider-Man 2 Limited Edition PS5 Swinging Into Stores in September     - CNET](https://www.cnet.com/tech/gaming/spider-man-2-limited-edition-ps5-swinging-into-stores-in-september/#ftag=CAD590a51e)
+ - [Spotify Could Be Increasing Prices Next Week, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/spotify-could-be-increasing-prices-next-week-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
