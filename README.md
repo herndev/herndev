@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s Where Your Final Fantasy XVI Fave Falls On Barbenheimer](https://kotaku.com/final-fantasy-16-barbie-oppenheimer-clive-cid-benedikta-1850665248)
- - [What does ‘Spider-Man 2’ even refer to anymore?](https://www.polygon.com/23803340/marvel-spider-man-2-sdcc-movie-game-ps5-trailer-mcu)
- - [New Borderlands game is a massively multiplayer interactive streaming series](https://www.polygon.com/23802785/borderlands-echovision-live-interactive-series-announcement)<!-- GAME:END -->
+ - [Blizz On Diablo IV Uproar: Won&#39;t Do A Patch Like That &#39;Ever Again&#39;](https://kotaku.com/diablo-iv-4-nerf-patch-season-one-1-malignant-1850665519)
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [Nintendo Posts Yona, Sidon Simps Are Screaming, Crying, Throwing Up](https://kotaku.com/zelda-tears-of-the-kingdom-sidon-yona-link-nintendo-1850665524)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
