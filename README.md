@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)
- - [Jackery Explorer 2000 Plus Review: Dependable And Portable](https://www.wired.com/review/jackery-explorer-2000-plus/)
- - [Samsung Galaxy Unpacked: how to watch and what to expect](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)<!-- TECH:END -->
+ - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)
+ - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)
+ - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
