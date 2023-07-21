@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)
- - [Baldur’s Gate 3: Which Version Of The Mega RPG Should You Get?](https://kotaku.com/baldurs-gate-3-release-date-deluxe-collectors-edition-1850660199)
- - [Marvel’s Spider-Man 2: New Story Trailer](https://blog.playstation.com/2023/07/20/marvels-spider-man-2-new-story-trailer/)<!-- GAME:END -->
+ - [When will Oppenheimer come to streaming?](https://www.polygon.com/23802050/oppenheimer-watch-online-streaming-date)
+ - [&lpar;For Southeast Asia&rpar; First Look: PS5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle](https://blog.playstation.com/2023/07/20/20230720-spiderman2/)
+ - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
