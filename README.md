@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizz On Diablo IV Uproar: Won&#39;t Do A Patch Like That &#39;Ever Again&#39;](https://kotaku.com/diablo-iv-4-nerf-patch-season-one-1-malignant-1850665519)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
- - [Nintendo Posts Yona, Sidon Simps Are Screaming, Crying, Throwing Up](https://kotaku.com/zelda-tears-of-the-kingdom-sidon-yona-link-nintendo-1850665524)<!-- GAME:END -->
+ - [The studio behind Silent Hill: Ascension is also doing a Borderlands &#39;interactive streaming series&#39;](https://www.pcgamer.com/the-studio-behind-silent-hill-ascension-is-also-doing-a-borderlands-interactive-streaming-series)
+ - [Starfield skills guide: How to build the best character in space](https://www.pcgamer.com/starfield-skills-guide)
+ - [Relive Sony&#39;s Hilariously Awkward 2006 E3 Press Conference In HD](https://kotaku.com/sony-ps3-noclip-e3-2006-4k-ridge-racer-crab-kaz-hirai-1850665714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
