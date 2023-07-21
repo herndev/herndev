@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google now hikes prices for YouTube Premium too](https://appleinsider.com/articles/23/07/21/google-now-hikes-prices-for-youtube-premium-too?utm_medium=rss)
- - [Apple agrees to deal that will keep &#39;Tehran&#39; filming despite actors&#39; strike](https://appleinsider.com/articles/23/07/21/apple-agrees-deal-to-keep-tehran-filming-despite-actors-strike?utm_medium=rss)
- - [YouTube Premium prices just went up! &lpar;Updated: Older accounts also affected&rpar;](https://www.androidauthority.com/youtube-premium-price-hike-3346739/)<!-- TECH:END -->
+ - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)
+ - [Jackery Explorer 2000 Plus Review: Dependable And Portable](https://www.wired.com/review/jackery-explorer-2000-plus/)
+ - [Samsung Galaxy Unpacked: how to watch and what to expect](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
