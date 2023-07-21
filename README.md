@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exoprimal reveals its massive twist too late in the game](https://www.polygon.com/reviews/23802000/exoprimal-review-exosuits-dinosaurs-game-pass-ps5-pc-xbox)
- - [Studio makes actual minigame compilation based on those shovelware mobile game ads you see everywhere](https://www.pcgamer.com/studio-makes-actual-minigame-compilation-based-on-those-shovelware-mobile-game-ads-you-see-everywhere)
- - [Barbenheimer is a perfect double feature about crushing responsibility](https://www.polygon.com/23801761/barbenheimer-barbie-oppenheimer-double-feature-connections)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 24 to 28](https://news.xbox.com/en-us/2023/07/21/next-week-on-xbox-new-games-for-july-24-to-28/)
+ - [GPD&#39;s GPU dock lets you stuff desktop-ish graphics into your Steam Deck through the internal PCIe slot](https://www.pcgamer.com/gpds-gpu-dock-lets-you-stuff-desktop-ish-graphics-into-a-steam-deck)
+ - [The Elder Scrolls Online is free on Epic](https://www.pcgamer.com/the-elder-scrolls-online-is-free-on-epic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
