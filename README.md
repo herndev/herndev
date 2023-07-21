@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [Honest to god](http://9gag.com/gag/aeQWpAj)<!-- MEMES:END -->
+ - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - ⏩ [Idiot](http://9gag.com/gag/ay2PLxV)
+ - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
 
 ---
 
