@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The studio behind Silent Hill: Ascension is also doing a Borderlands &#39;interactive streaming series&#39;](https://www.pcgamer.com/the-studio-behind-silent-hill-ascension-is-also-doing-a-borderlands-interactive-streaming-series)
- - [Starfield skills guide: How to build the best character in space](https://www.pcgamer.com/starfield-skills-guide)
- - [Relive Sony&#39;s Hilariously Awkward 2006 E3 Press Conference In HD](https://kotaku.com/sony-ps3-noclip-e3-2006-4k-ridge-racer-crab-kaz-hirai-1850665714)<!-- GAME:END -->
+ - [Marvel Comics’ new Punisher series replaces Frank Castle with... a brand new character](https://www.polygon.com/sdcc/23801682/marvel-comics-new-punisher-who-is-joe-garrison)
+ - [‘What’s the correct viewing order for Barbenheimer?’ is the wrong question](https://www.polygon.com/23803644/barbenheimer-watch-order-advice-barbie-oppenheimer)
+ - [The Flash, Netflix’s They Cloned Tyrone, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/21/23797428/new-movies-watch-they-cloned-tyrone-netflix-the-flash-streaming-shin-kamen-rider-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
