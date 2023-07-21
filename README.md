@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Blue Onion in Sun-Speckled Terrace in Pikmin 4](https://www.polygon.com/guides/23799182/pikmin-4-blue-onion-sun-speckled-terrace-how-to-get)
- - [How to unlock the Purple Onion and White Onion in Pikmin 4](https://www.polygon.com/guides/23797680/pikmin-4-purple-white-onion-locations-cave)
- - [Pikmin 4 all areas and objectives list](https://www.polygon.com/guides/23797540/pikmin-4-area-stage-objectives-levels)<!-- GAME:END -->
+ - [Upcoming indies from Team 17 – hands-on details](https://blog.playstation.com/2023/07/21/upcoming-indies-from-team-17-hands-on-details/)
+ - [Upcoming indies from Team 17 – hands-on details](https://blog.playstation.com/2023/07/21/upcoming-indies-from-team-17-hands-on-details/)
+ - [How to get the Blue Onion in Sun-Speckled Terrace in Pikmin 4](https://www.polygon.com/guides/23799182/pikmin-4-blue-onion-sun-speckled-terrace-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
