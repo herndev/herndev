@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - ⏩ [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
+ - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - ⏩ [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
+ - 👉 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)<!-- MEMES:END -->
 
 ---
 
