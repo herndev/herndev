@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Spider-Man 2: New Story Trailer](https://blog.playstation.com/2023/07/20/marvels-spider-man-2-new-story-trailer/)
- - [First Look: PS5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle](https://blog.playstation.com/2023/07/20/first-look-ps5-console-marvels-spider-man-2-limited-edition-bundle/)
- - [Old School Runescape players were using a new bug to mass-murder each other and it got so bad the game had to be taken offline](https://www.pcgamer.com/old-school-runescape-players-were-using-a-new-bug-to-mass-murder-each-other-and-it-got-so-bad-the-game-had-to-be-taken-offline)<!-- GAME:END -->
+ - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)
+ - [Baldur’s Gate 3: Which Version Of The Mega RPG Should You Get?](https://kotaku.com/baldurs-gate-3-release-date-deluxe-collectors-edition-1850660199)
+ - [Marvel’s Spider-Man 2: New Story Trailer](https://blog.playstation.com/2023/07/20/marvels-spider-man-2-new-story-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
