@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - ⏩ [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 👉 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)<!-- MEMES:END -->
+ - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - ⏩ [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
 
 ---
 
