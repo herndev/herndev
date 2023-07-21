@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RTX 4060 Ti 16GB tests a little slower than the 8GB version](https://www.pcgamer.com/the-rtx-4060-ti-16gb-tests-a-little-slower-than-the-8gb-version)
  - [When will Oppenheimer come to streaming?](https://www.polygon.com/23802050/oppenheimer-watch-online-streaming-date)
- - [&lpar;For Southeast Asia&rpar; First Look: PS5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle](https://blog.playstation.com/2023/07/20/20230720-spiderman2/)
- - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; First Look: PS5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle](https://blog.playstation.com/2023/07/20/20230720-spiderman2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
