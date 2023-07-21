@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An influencer’s guide to the writers and actors strikes](https://www.theverge.com/23802895/sag-aftra-writers-guild-strikes-hollywood-influencer-rules)
- - [Daily deals: $1,400 off M1 Max MacBook Pro, up to 48% off Beats, $60 off Apple Watch SE, more](https://appleinsider.com/articles/23/07/21/daily-deals-1400-off-m1-max-macbook-pro-up-to-48-off-beats-60-off-apple-watch-se-more?utm_medium=rss)
- - [Troy Hunt: sensitive info of ~4,000 people who attended Roblox Developer Conference between 2017-2020 was leaked in 2021; Roblox disclosed the leak just now &lpar;Rich Stanton/PC Gamer&rpar;](http://www.techmeme.com/230721/p9#a230721p9)<!-- TECH:END -->
+ - [Google co-founder comes back to company to bolster its AI efforts](https://www.androidauthority.com/google-ai-sergey-brin-3347338/)
+ - [Amazon settles with the US DOJ and the FTC for $25M over not complying with parents&#39; requests to delete their kids&#39; Alexa voice recordings and geolocation data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230721/p11#a230721p11)
+ - [Unbelievable price crash on the WD 500GB My Passport SSD](https://www.androidauthority.com/wd-500gb-my-passport-ssd-deal-3347346/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
