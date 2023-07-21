@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - ⏩ [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 👉 [A shark chases a boat with a turtle in the mouth. Crew gets interested and allows the shark to approach. The shark is... practically delivering the turtle to them. The Turtle has a rope around its neck, suffocating. Did the shark deliver the turtle so it will be saved?](http://9gag.com/gag/aZDvBP0)<!-- MEMES:END -->
+ - 💣 [The purest of waters](http://9gag.com/gag/anzVNKV)
+ - ⏩ [A shark chases a boat with a turtle in the mouth. Crew gets interested and allows the shark to approach. The shark is... practically delivering the turtle to them. The Turtle has a rope around its neck, suffocating. Did the shark deliver the turtle so it will be saved?](http://9gag.com/gag/aZDvBP0)
+ - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
 
 ---
 
