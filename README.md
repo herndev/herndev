@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - ⏩ [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
- - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
+ - 💣 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
+ - ⏩ [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 👉 [How to stop crimes](http://9gag.com/gag/aMEyGYG)<!-- MEMES:END -->
 
 ---
 
