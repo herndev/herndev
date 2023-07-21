@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Pokémon gifts for fans](https://www.polygon.com/what-to-buy/23784328/pokemon-gifts-plushies-cards-toys-music-crocs-games)
- - [Diablo IV: Three Grotesque, Exquisite Necromancer Builds](https://kotaku.com/diablo-4-iv-necromancer-build-summon-corpse-bone-spear-1850664117)
- - [Logitech G Pro](https://www.pcgamer.com/logitech-g-pro)<!-- GAME:END -->
+ - [Every fake mobile game ad is now real](https://www.polygon.com/23803104/ad-free-mobile-games-water-sort-puzzle-parking-jam-hero-wars)
+ - [The best D&amp;D multiclass builds coming to Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-multiclass-builds)
+ - [Pokémon Go Squirtle Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/2023/7/8/23784788/squirtle-community-day-classic-shiny-times-bonuses-sunglasses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
