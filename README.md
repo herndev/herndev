@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom I found her](http://9gag.com/gag/a7qAZbz)
- - ⏩ [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 💣 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - ⏩ [Mom I found her](http://9gag.com/gag/a7qAZbz)
  - 👉 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)<!-- MEMES:END -->
 
 ---
