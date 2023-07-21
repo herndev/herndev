@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Holding Back the Flood in Diablo 4](https://www.pcgamer.com/diablo-4-holding-back-the-flood)
- - [Razer Blade 14 &lpar;2023&rpar;](https://www.pcgamer.com/razer-blade-14-2023-review-benchmarks-performance)
- - [Leading AI companies promise the President they will behave, honest](https://www.pcgamer.com/leading-ai-companies-promise-the-president-they-will-behave-honest)<!-- GAME:END -->
+ - [Diablo 4 cellar locations guide](https://www.pcgamer.com/diablo-4-cellar-locations)
+ - [Uncanny Stardew Valley AI mod replaces its lovely villagers with &#39;33 provided brains&#39;](https://www.pcgamer.com/uncanny-stardew-valley-ai-mod-replaces-its-lovely-villagers-with-33-provided-brains)
+ - [WoW players spring trap on hapless AI article generators, tricking a site into writing about a hotly anticipated &lpar;and totally fake&rpar; &#39;Glorbo&#39; feature](https://www.pcgamer.com/wow-players-spring-trap-on-hapless-ai-article-generators-tricking-a-site-into-writing-about-a-hotly-anticipated-and-totally-fake-glorbo-feature)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
