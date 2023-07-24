@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)
+ - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
  - ⏩ [This is a good title](http://9gag.com/gag/a5XD16E)
- - 👉 [The beautiful Sound of Pain...](http://9gag.com/gag/a8qzEAY)<!-- MEMES:END -->
+ - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
 
 ---
 
