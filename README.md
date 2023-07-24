@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m so relieved Baldur&#39;s Gate 3 doesn&#39;t have D&amp;D&#39;s alignment system](https://www.pcgamer.com/im-so-relieved-baldurs-gate-3-doesnt-have-dandds-alignment-system)
- - [Great moments in PC gaming: Finishing Skyrim with a party of fully voiced modded followers](https://www.pcgamer.com/great-moments-in-pc-gaming-finishing-skyrim-with-a-party-of-fully-voiced-modded-followers)
- - [Today&#39;s Wordle hint and answer #765: Monday, July 24](https://www.pcgamer.com/wordle-answer-today-hint-765-july-24)<!-- GAME:END -->
+ - [Reddit is still a mess with r/place begging users to &#39;never forget what was stolen from us&#39;](https://www.pcgamer.com/reddit-is-still-a-mess-with-rplace-begging-users-to-never-forget-what-was-stolen-from-us)
+ - [How to get a Wrathful Invoker in Diablo 4](https://www.pcgamer.com/diablo-4-wrathful-invoker)
+ - [JK Simmons will reprise his role as Omni-Man in Mortal Kombat 1, and Robert Kirkman could not be more pumped](https://www.pcgamer.com/jk-simmons-will-reprise-his-role-as-omni-man-in-mortal-kombat-1-and-robert-kirkman-could-not-be-more-pumped)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
