@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Man has once again crossed a line in creating these pizza-scented Ninja Turtle controllers](https://www.pcgamer.com/man-has-once-again-crossed-a-line-in-creating-these-pizza-scented-ninja-turtle-controllers)
- - [My favorite offbeat roguelike of the decade is free to keep on Steam](https://www.pcgamer.com/my-favorite-offbeat-roguelike-of-the-decade-is-free-to-keep-on-steam)
- - [This new Humble Bundle has all the Myst except Pyst for just $20](https://www.pcgamer.com/this-new-humble-bundle-has-all-the-myst-except-pyst-for-just-dollar20)<!-- GAME:END -->
+ - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
+ - [Cillian Murphy’s baseball doppelgänger also had a great Barbenheimer day](https://www.polygon.com/23806039/cillian-murphy-tyler-glasnow-lookalike-doppelganger-barbenheimer-for-everyone)
+ - [Govee’s TV backlights can give your TV a boost, and are up to 36% off](https://www.polygon.com/deals/2023/7/24/23803052/govee-tv-backlights-led-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
