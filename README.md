@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - ⏩ [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
 
 ---
 
