@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)
- - [Flipper releases an app store for its dolphin-themed digital multitool Flipper Zero, used to interact with wireless devices, helping users more easily find apps &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230724/p14#a230724p14)
- - [TUO Matter Button, ESR&#39;s 6-in1 MagSafe charger, &amp; more Matter on the AppleInsider podcast](https://appleinsider.com/articles/23/07/24/tuo-matter-button-esrs-6-in1-magsafe-charger-more-matter-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
+ - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
