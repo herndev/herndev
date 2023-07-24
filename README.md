@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)
- - [Sources: Adobe&#39;s $20B Figma deal faces an in-depth EU probe as Adobe won&#39;t offer remedies for potential competition concerns, after the UK began a similar probe &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230724/p20#a230724p20)
- - [Apple fixes two exploited vulnerabilities in iOS 16.6 security update](https://appleinsider.com/articles/23/07/24/apple-fixes-two-exploited-vulnerabilities-in-ios-166-security-update?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 display assembly problems reportedly resolved](https://appleinsider.com/articles/23/07/24/iphone-15-display-assembly-problems-reportedly-resolved?utm_medium=rss)
+ - [Looking back at the original Chromecast, which turned 10 years old today](https://www.theverge.com/23537741/google-chromecast-10-year-old-happy-birthday)
+ - [Does Google Fi Wireless support Wi-Fi calling?](https://www.androidauthority.com/google-fi-wifi-calling-support-3348137/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
