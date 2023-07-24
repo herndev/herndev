@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
- - ⏩ [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
+ - 💣 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - ⏩ [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)
+ - 👉 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)<!-- MEMES:END -->
 
 ---
 
