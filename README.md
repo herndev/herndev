@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)
- - ⏩ [Title goes here](http://9gag.com/gag/ap98G75)
- - 👉 [Yeah, ok](http://9gag.com/gag/aVbBYrP)<!-- MEMES:END -->
+ - 💣 [How dare they](http://9gag.com/gag/awZvzMD)
+ - ⏩ [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
+ - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
 
 ---
 
