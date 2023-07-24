@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggy](http://9gag.com/gag/a1PwQW2)
- - ⏩ [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 💣 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
+ - ⏩ [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
+ - 👉 [Title goes here](http://9gag.com/gag/ap98G75)<!-- MEMES:END -->
 
 ---
 
