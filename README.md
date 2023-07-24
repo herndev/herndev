@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
- - ⏩ [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 👉 [How to stop crimes](http://9gag.com/gag/aMEyGYG)<!-- MEMES:END -->
+ - 💣 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - ⏩ [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 
