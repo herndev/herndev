@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average ubisoft policy](http://9gag.com/gag/aPgn3BB)
- - ⏩ [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
- - 👉 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)<!-- MEMES:END -->
+ - 💣 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
+ - ⏩ [How long are you going to stay hidden for?](http://9gag.com/gag/a3ZnEE3)
+ - 👉 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)<!-- MEMES:END -->
 
 ---
 
