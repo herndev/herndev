@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m so relieved Baldur&#39;s Gate 3 doesn&#39;t have D&amp;D&#39;s alignment system](https://www.pcgamer.com/im-so-relieved-baldurs-gate-3-doesnt-have-dandds-alignment-system)
  - [Great moments in PC gaming: Finishing Skyrim with a party of fully voiced modded followers](https://www.pcgamer.com/great-moments-in-pc-gaming-finishing-skyrim-with-a-party-of-fully-voiced-modded-followers)
- - [Today&#39;s Wordle hint and answer #765: Monday, July 24](https://www.pcgamer.com/wordle-answer-today-hint-765-july-24)
- - [Star Wars Outlaws needed a speeder because of its &#39;fairly vast&#39; distances](https://www.pcgamer.com/star-wars-outlaws-needed-a-speeder-because-of-the-fairly-vast-distances)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #765: Monday, July 24](https://www.pcgamer.com/wordle-answer-today-hint-765-july-24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
