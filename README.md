@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)<!-- MEMES:END -->
+ - 💣 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - ⏩ [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 👉 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)<!-- MEMES:END -->
 
 ---
 
