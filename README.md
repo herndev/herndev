@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
- - ⏩ [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 💣 [Just Gimli things](http://9gag.com/gag/a1Pw1M8)
+ - ⏩ [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
  - 👉 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)<!-- MEMES:END -->
 
 ---
