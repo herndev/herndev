@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
- - [Straight Talk finally offers discounted family plans](https://www.androidauthority.com/straight-talk-family-plans-3347341/)
- - [7 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)<!-- TECH:END -->
+ - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)
+ - [Flipper releases an app store for its dolphin-themed digital multitool Flipper Zero, used to interact with wireless devices, helping users more easily find apps &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230724/p14#a230724p14)
+ - [TUO Matter Button, ESR&#39;s 6-in1 MagSafe charger, &amp; more Matter on the AppleInsider podcast](https://appleinsider.com/articles/23/07/24/tuo-matter-button-esrs-6-in1-magsafe-charger-more-matter-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
