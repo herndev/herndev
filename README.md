@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter wants you to pay to send more DMs](https://www.androidauthority.com/twitter-pay-to-send-more-direct-messages-3347707/)
- - [The Worldcoin Foundation rolls out its Worldcoin token, received after using an eye-scanning &quot;orb&quot;, in 35 cities; Worldcoin plans to retain 20% of its tokens &lpar;Financial Times&rpar;](http://www.techmeme.com/230724/p2#a230724p2)
- - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)<!-- TECH:END -->
+ - [Twitter has now rebranded as &#39;X&#39;](https://appleinsider.com/articles/23/07/24/twitter-has-now-rebranded-as-x?utm_medium=rss)
+ - [A profile of Moxie Marlinspike and Signal, from copying WhatsApp&#39;s UX to pioneering E2EE, and its aim to reach &quot;everyone on the planet&quot; while upholding privacy &lpar;Kai Ye/Wired&rpar;](http://www.techmeme.com/230724/p4#a230724p4)
+ - [Twitter rolls out its updated &quot;interim&quot; X logo, replacing the iconic bird, following Elon Musk&#39;s weekend announcement; X.com now redirects to twitter.com &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230724/p3#a230724p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
