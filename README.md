@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drop Paragon Series Deep Dive Keyboard review: An expensive wired keyboard](https://appleinsider.com/articles/23/07/24/drop-paragon-series-deep-dive-keyboard-review-an-expensive-wired-keyboard?utm_medium=rss)
- - [How France built a surveillance apparatus over two centuries that digital rights groups and UN experts are critiquing, ahead of the 2024 Paris Summer Olympics &lpar;Laura Kayali/Politico&rpar;](http://www.techmeme.com/230724/p5#a230724p5)
- - [Greta Gerwig’s Barbie blasts into the blockbuster record books with $155 million US opening](https://www.theverge.com/2023/7/24/23805370/barbie-greta-gerwig-oppenheimer-blockbuster-record-us-opening-weekend)<!-- TECH:END -->
+ - [Spotify Connect is the reason I won’t switch to another music platform](https://www.androidauthority.com/spotify-connect-switch-music-streaming-3346775/)
+ - [OneTrust, which offers enterprise privacy and data governance tools, raised $150M led by Al Gore&#39;s GIM at a $4.5B valuation, down 18% from its 2021 valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230724/p9#a230724p9)
+ - [Spotify confirms Premium price hike for a ton of markets &lpar;Update&rpar;](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
