@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: What’s Releasing Beyond Remnant II](https://kotaku.com/july-games-out-this-week-remnant-ii-hello-kitty-island-1850670361)
- - [Tencent claims another one, will become &#39;majority shareholder&#39; of Dying Light studio Techland](https://www.pcgamer.com/tencent-claims-another-one-will-become-majority-shareholder-of-dying-light-studio-techland)
- - [It Looks Like Armored Core VI Will Have Six-Player Multiplayer](https://kotaku.com/multiplayer-armored-core-6-release-date-ps5-trailer-1850670269)<!-- GAME:END -->
+ - [Star Wars Outlaws Will Feature Tatooine Because We’ll Never Escape That Place](https://kotaku.com/star-wars-outlaws-open-world-planets-ubisoft-tatooine-1850670892)
+ - [Every Big Anime Announcement At San Diego Comic-Con](https://kotaku.com/anime-one-piece-live-action-uzumaki-san-diego-comic-con-1850670834)
+ - [DMC and Metal Gear action director’s badass new crime thriller can’t get here soon enough](https://www.polygon.com/23805747/bad-city-action-movie-trailer-kensuke-sonomura-video-game-director)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
