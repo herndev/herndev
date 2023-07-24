@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
- - ⏩ [How long are you going to stay hidden for?](http://9gag.com/gag/a3ZnEE3)
- - 👉 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)<!-- MEMES:END -->
+ - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - ⏩ [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 👉 [Who chooses this profession?](http://9gag.com/gag/amAngjo)<!-- MEMES:END -->
 
 ---
 
