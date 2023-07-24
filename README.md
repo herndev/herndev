@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
- - ⏩ [This is a good title](http://9gag.com/gag/a5XD16E)
- - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
+ - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - ⏩ [Keep struggling :&#39;&rpar;](http://9gag.com/gag/awZvybD)
+ - 👉 [Lol](http://9gag.com/gag/a2KGvqY)<!-- MEMES:END -->
 
 ---
 
