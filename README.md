@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s new mobile tab could make it easier to find things to watch](https://www.theverge.com/2023/7/24/23805752/netflix-my-tab-ios-android-find-things-to-watch)
- - [Windows won&#39;t dominate enterprise in a decade, says outgoing Jamf CEO](https://appleinsider.com/articles/23/07/24/windows-wont-dominate-enterprise-in-a-decade-says-outgoing-jamf-ceo?utm_medium=rss)
- - [The maxed-out OnePlus 10T plunges to an all-time low price](https://www.androidauthority.com/oneplus-10t-deal-3348048/)<!-- TECH:END -->
+ - [The best cheap Android tablet gets a 26% price cut](https://www.androidauthority.com/samsung-galaxy-tab-a8-deal-3348091/)
+ - [MLS Season Pass deal a success with nearly a million subscribers](https://appleinsider.com/articles/23/07/24/mls-season-pass-deal-a-success-with-nearly-a-million-subscribers?utm_medium=rss)
+ - [The Boys spinoff Gen V looks like a bloody bacchanal in new trailer](https://www.theverge.com/2023/7/24/23805815/gen-v-trailer-amazon-the-boys)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
