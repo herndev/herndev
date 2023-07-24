@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Teenage Mutant Ninja Turtles: Mutant Mayhem Xbox Controller Smells Like Actual Pizza](https://kotaku.com/teenage-mutant-ninja-turtles-controller-xbox-pizza-tnmt-1850671077)
- - [Good Omens season 2, Henry Cavill’s Witcher farewell, Twisted Metal, and more](https://www.polygon.com/2023/7/24/23792832/henry-cavill-netflix-witcher-final-episodes-good-omens-season-2-new-tv)
- - [Star Wars Outlaws Will Feature Tatooine Because We’ll Never Escape That Place](https://kotaku.com/star-wars-outlaws-open-world-planets-ubisoft-tatooine-1850670892)<!-- GAME:END -->
+ - [Man has once again crossed a line in creating these pizza-scented Ninja Turtle controllers](https://www.pcgamer.com/man-has-once-again-crossed-a-line-in-creating-these-pizza-scented-ninja-turtle-controllers)
+ - [My favorite offbeat roguelike of the decade is free to keep on Steam](https://www.pcgamer.com/my-favorite-offbeat-roguelike-of-the-decade-is-free-to-keep-on-steam)
+ - [This new Humble Bundle has all the Myst except Pyst for just $20](https://www.pcgamer.com/this-new-humble-bundle-has-all-the-myst-except-pyst-for-just-dollar20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
