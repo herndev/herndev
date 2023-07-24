@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Connect is the reason I won’t switch to another music platform](https://www.androidauthority.com/spotify-connect-switch-music-streaming-3346775/)
- - [OneTrust, which offers enterprise privacy and data governance tools, raised $150M led by Al Gore&#39;s GIM at a $4.5B valuation, down 18% from its 2021 valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230724/p9#a230724p9)
- - [Spotify confirms Premium price hike for a ton of markets &lpar;Update&rpar;](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)<!-- TECH:END -->
+ - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
+ - [Straight Talk finally offers discounted family plans](https://www.androidauthority.com/straight-talk-family-plans-3347341/)
+ - [7 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
