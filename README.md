@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter has now rebranded as &#39;X&#39;](https://appleinsider.com/articles/23/07/24/twitter-has-now-rebranded-as-x?utm_medium=rss)
- - [A profile of Moxie Marlinspike and Signal, from copying WhatsApp&#39;s UX to pioneering E2EE, and its aim to reach &quot;everyone on the planet&quot; while upholding privacy &lpar;Kai Ye/Wired&rpar;](http://www.techmeme.com/230724/p4#a230724p4)
- - [Twitter rolls out its updated &quot;interim&quot; X logo, replacing the iconic bird, following Elon Musk&#39;s weekend announcement; X.com now redirects to twitter.com &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230724/p3#a230724p3)<!-- TECH:END -->
+ - [Drop Paragon Series Deep Dive Keyboard review: An expensive wired keyboard](https://appleinsider.com/articles/23/07/24/drop-paragon-series-deep-dive-keyboard-review-an-expensive-wired-keyboard?utm_medium=rss)
+ - [How France built a surveillance apparatus over two centuries that digital rights groups and UN experts are critiquing, ahead of the 2024 Paris Summer Olympics &lpar;Laura Kayali/Politico&rpar;](http://www.techmeme.com/230724/p5#a230724p5)
+ - [Greta Gerwig’s Barbie blasts into the blockbuster record books with $155 million US opening](https://www.theverge.com/2023/7/24/23805370/barbie-greta-gerwig-oppenheimer-blockbuster-record-us-opening-weekend)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
