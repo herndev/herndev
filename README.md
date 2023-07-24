@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggy](http://9gag.com/gag/a1PwQW2)
- - ⏩ [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)
- - 👉 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)<!-- MEMES:END -->
+ - 💣 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
+ - ⏩ [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 👉 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)<!-- MEMES:END -->
 
 ---
 
