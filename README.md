@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - ⏩ [Keep struggling :&#39;&rpar;](http://9gag.com/gag/awZvybD)
- - 👉 [Lol](http://9gag.com/gag/a2KGvqY)<!-- MEMES:END -->
+ - 💣 [After suggesting to explore our kinks](http://9gag.com/gag/a5XDEZG)
+ - ⏩ [Pakistan is a great destination for female solo traveling](http://9gag.com/gag/aKEpdY3)
+ - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 
 ---
 
