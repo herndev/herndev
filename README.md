@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4’s approach to body types lacks imagination](https://www.polygon.com/23803141/diablo-4-character-creator-druid-rogue-body-types)
- - [How to make a Hokey Pokey trap in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-hokey-pokey-trap)
- - [Barbie and Oppenheimer’s box office weekends were both massive winners](https://www.polygon.com/23803364/barbie-oppenheimer-box-office-total)<!-- GAME:END -->
+ - [The Week In Games: What’s Releasing Beyond Remnant II](https://kotaku.com/july-games-out-this-week-remnant-ii-hello-kitty-island-1850670361)
+ - [Tencent claims another one, will become &#39;majority shareholder&#39; of Dying Light studio Techland](https://www.pcgamer.com/tencent-claims-another-one-will-become-majority-shareholder-of-dying-light-studio-techland)
+ - [It Looks Like Armored Core VI Will Have Six-Player Multiplayer](https://kotaku.com/multiplayer-armored-core-6-release-date-ps5-trailer-1850670269)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
