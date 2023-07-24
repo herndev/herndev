@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - ⏩ [Just Stop Oil gets a taste of their own medicine. Counter activists tie rape alarms to balloons and let them go in a Just Stop Oil meeting.](http://9gag.com/gag/aGEby27)
- - 👉 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)<!-- MEMES:END -->
+ - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - ⏩ [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 👉 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)<!-- MEMES:END -->
 
 ---
 
