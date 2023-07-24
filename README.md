@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
- - ⏩ [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
- - 👉 [Title goes here](http://9gag.com/gag/ap98G75)<!-- MEMES:END -->
+ - 💣 [This guy!](http://9gag.com/gag/ay2PeVr)
+ - ⏩ [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 👉 [I&#39;m a normally a pascifist, but kicking a dog because you have a tiny PP and can&#39;t hold your liqueur .. get F&#39;d A-hole](http://9gag.com/gag/aoKDg5m)<!-- MEMES:END -->
 
 ---
 
