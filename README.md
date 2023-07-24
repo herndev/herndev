@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)
- - [Cillian Murphy’s baseball doppelgänger also had a great Barbenheimer day](https://www.polygon.com/23806039/cillian-murphy-tyler-glasnow-lookalike-doppelganger-barbenheimer-for-everyone)
- - [Govee’s TV backlights can give your TV a boost, and are up to 36% off](https://www.polygon.com/deals/2023/7/24/23803052/govee-tv-backlights-led-deal)<!-- GAME:END -->
+ - [Ubisoft’s new Star Wars game gives the galaxy its first Wind Planet](https://www.polygon.com/23806135/star-wars-outlaws-toshara-wind-planet)
+ - [Ubisoft clarifies it does not delete inactive accounts that have purchased games after its policy came under question](https://www.pcgamer.com/ubisoft-clarifies-it-does-not-delete-inactive-accounts-that-have-purchased-games-after-its-policy-came-under-question)
+ - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-naydra-farosh-dinraal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
