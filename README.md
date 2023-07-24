@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get abducted by space gnomes to tend their garden in this chill strategy sandbox](https://www.pcgamer.com/get-abducted-by-space-gnomes-to-tend-their-garden-in-this-chill-strategy-sandbox)
- - [You can turn off Steam&#39;s annoying achievement notification sound](https://www.pcgamer.com/you-can-turn-off-steams-annoying-achievement-notification-sound)
- - [How do you prepare for a mondo-huge game release?](https://www.pcgamer.com/how-do-you-prepare-for-a-mondo-huge-game-release)<!-- GAME:END -->
+ - [Star Wars Outlaws needed a speeder because of its &#39;fairly vast&#39; distances](https://www.pcgamer.com/star-wars-outlaws-needed-a-speeder-because-of-the-fairly-vast-distances)
+ - [Five new Steam games you probably missed &lpar;July 24, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-24-2023)
+ - [Get abducted by space gnomes to tend their garden in this chill strategy sandbox](https://www.pcgamer.com/get-abducted-by-space-gnomes-to-tend-their-garden-in-this-chill-strategy-sandbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
