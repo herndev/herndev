@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)<!-- TECH:END -->
+ - [Sony WF-1000XM5 are here: Price, features, specs, availability, and more](https://www.androidauthority.com/sony-wf-1000xm5-3235457/)
+ - [Sony WF-1000XM5 noise-canceling earbuds review: better in every way — for now](https://www.theverge.com/23803374/sony-wf-1000xm5-earbuds-review)
+ - [Tencent set to acquire Dying Light studio Techland](https://www.theverge.com/2023/7/24/23805592/tencent-buys-techland-dying-light)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
