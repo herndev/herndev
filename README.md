@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best cheap Android tablet gets a 26% price cut](https://www.androidauthority.com/samsung-galaxy-tab-a8-deal-3348091/)
- - [MLS Season Pass deal a success with nearly a million subscribers](https://appleinsider.com/articles/23/07/24/mls-season-pass-deal-a-success-with-nearly-a-million-subscribers?utm_medium=rss)
- - [The Boys spinoff Gen V looks like a bloody bacchanal in new trailer](https://www.theverge.com/2023/7/24/23805815/gen-v-trailer-amazon-the-boys)<!-- TECH:END -->
+ - [Apple Original musical &#39;Flora and Son&#39; arrives in theaters September 22](https://appleinsider.com/articles/23/07/24/apple-original-musical-flora-and-son-arrives-in-theaters-september-22?utm_medium=rss)
+ - [How to use Catch Up in Messages on iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-catch-up-in-messages-on-ios-17?utm_medium=rss)
+ - [Netflix adds new ‘My Netflix’ tab for quick access to saved shows and downloads](https://www.androidauthority.com/netflix-app-new-tab-3348085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
