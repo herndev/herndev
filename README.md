@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws needed a speeder because of its &#39;fairly vast&#39; distances](https://www.pcgamer.com/star-wars-outlaws-needed-a-speeder-because-of-the-fairly-vast-distances)
- - [Five new Steam games you probably missed &lpar;July 24, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-24-2023)
- - [Get abducted by space gnomes to tend their garden in this chill strategy sandbox](https://www.pcgamer.com/get-abducted-by-space-gnomes-to-tend-their-garden-in-this-chill-strategy-sandbox)<!-- GAME:END -->
+ - [Great moments in PC gaming: Finishing Skyrim with a party of fully voiced modded followers](https://www.pcgamer.com/great-moments-in-pc-gaming-finishing-skyrim-with-a-party-of-fully-voiced-modded-followers)
+ - [Today&#39;s Wordle hint and answer #765: Monday, July 24](https://www.pcgamer.com/wordle-answer-today-hint-765-july-24)
+ - [Star Wars Outlaws needed a speeder because of its &#39;fairly vast&#39; distances](https://www.pcgamer.com/star-wars-outlaws-needed-a-speeder-because-of-the-fairly-vast-distances)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
