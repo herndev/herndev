@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - ⏩ [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 👉 [Who chooses this profession?](http://9gag.com/gag/amAngjo)<!-- MEMES:END -->
+ - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - ⏩ [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 👉 [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)<!-- MEMES:END -->
 
 ---
 
