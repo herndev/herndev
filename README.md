@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisted Metal team is more than happy to make TV’s deranged underdog](https://www.polygon.com/23801721/twisted-metal-tv-show-anthony-mackie-release-date)
- - [Diablo IV Fixing Bad Menu After Fans Kept Accidentally Buying Battle Pass](https://kotaku.com/diablo-4-blizzard-premium-battle-pass-season-1-1850669711)
- - [Cowboy Bebop creator, John Wick director team for anime that looks slick as hell](https://www.polygon.com/23801004/lazarus-cowboy-bebop-creator-new-anime-shinichiro-watanabe-chad-stahelski)<!-- GAME:END -->
+ - [Diablo 4’s approach to body types lacks imagination](https://www.polygon.com/23803141/diablo-4-character-creator-druid-rogue-body-types)
+ - [How to make a Hokey Pokey trap in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-hokey-pokey-trap)
+ - [Barbie and Oppenheimer’s box office weekends were both massive winners](https://www.polygon.com/23803364/barbie-oppenheimer-box-office-total)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
