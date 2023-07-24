@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Comics’ new Punisher series replaces Frank Castle with... a brand new character](https://www.polygon.com/sdcc/23801682/marvel-comics-new-punisher-who-is-joe-garrison)
- - [‘What’s the correct viewing order for Barbenheimer?’ is the wrong question](https://www.polygon.com/23803644/barbenheimer-watch-order-advice-barbie-oppenheimer)
- - [The Flash, Netflix’s They Cloned Tyrone, and every new movie to watch at home this weekend](https://www.polygon.com/2023/7/21/23797428/new-movies-watch-they-cloned-tyrone-netflix-the-flash-streaming-shin-kamen-rider-prime-video)<!-- GAME:END -->
+ - [Get abducted by space gnomes to tend their garden in this chill strategy sandbox](https://www.pcgamer.com/get-abducted-by-space-gnomes-to-tend-their-garden-in-this-chill-strategy-sandbox)
+ - [You can turn off Steam&#39;s annoying achievement notification sound](https://www.pcgamer.com/you-can-turn-off-steams-annoying-achievement-notification-sound)
+ - [How do you prepare for a mondo-huge game release?](https://www.pcgamer.com/how-do-you-prepare-for-a-mondo-huge-game-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
