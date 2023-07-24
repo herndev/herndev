@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden Invests $20 Million In Solar Panel Recycling     - CNET](https://www.cnet.com/news/biden-invests-20-million-in-solar-panel-recycling/#ftag=CAD590a51e)
- - [Lionel Messi Debut: How to Watch, Stream Inter Miami CF vs. Cruz Azul on Apple TV Friday     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-debut-how-to-watch-stream-inter-miami-cf-vs-cruz-azul-on-apple-tv-on-friday/#ftag=CAD590a51e)
- - [&#39;Oppenheimer&#39; Is Out, but You Can Stream More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-is-out-but-you-can-stream-more-christopher-nolan-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to fix the Apple Music &#39;error -54&#39; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)
+ - [Hohem iSteady M6 Kit review: take your videos from dull to dazzling](https://appleinsider.com/articles/23/07/23/hohem-isteady-m6-kit-review-take-your-videos-from-dull-to-dazzling?utm_medium=rss)
+ - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
