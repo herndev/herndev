@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How dare they](http://9gag.com/gag/awZvzMD)
- - ⏩ [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
- - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
+ - 💣 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
+ - ⏩ [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
 
 ---
 
