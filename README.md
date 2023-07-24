@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reddit is still a mess with r/place begging users to &#39;never forget what was stolen from us&#39;](https://www.pcgamer.com/reddit-is-still-a-mess-with-rplace-begging-users-to-never-forget-what-was-stolen-from-us)
- - [How to get a Wrathful Invoker in Diablo 4](https://www.pcgamer.com/diablo-4-wrathful-invoker)
- - [JK Simmons will reprise his role as Omni-Man in Mortal Kombat 1, and Robert Kirkman could not be more pumped](https://www.pcgamer.com/jk-simmons-will-reprise-his-role-as-omni-man-in-mortal-kombat-1-and-robert-kirkman-could-not-be-more-pumped)<!-- GAME:END -->
+ - [First Ever Pizza-Scented Xbox and TMNT: Mutant Mayhem Controller](https://news.xbox.com/en-us/2023/07/24/pizza-scented-xbox-and-tmnt-mutant-mayhem-controller/)
+ - [Every Futurama finale was of its time](https://www.polygon.com/23803275/futurama-new-season-finale-episode)
+ - [Diablo 4&#39;s battle pass is such a mess that it doesn&#39;t even give you enough Platinum to buy a single item](https://www.pcgamer.com/diablo-4s-battle-pass-is-such-a-mess-that-it-doesnt-even-give-you-enough-platinum-to-buy-a-single-item)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
