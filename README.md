@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft’s new Star Wars game gives the galaxy its first Wind Planet](https://www.polygon.com/23806135/star-wars-outlaws-toshara-wind-planet)
- - [Ubisoft clarifies it does not delete inactive accounts that have purchased games after its policy came under question](https://www.pcgamer.com/ubisoft-clarifies-it-does-not-delete-inactive-accounts-that-have-purchased-games-after-its-policy-came-under-question)
- - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-naydra-farosh-dinraal)<!-- GAME:END -->
+ - [Steam&#39;s latest sale-fest is all about being sneaky](https://www.pcgamer.com/steams-latest-sale-fest-is-all-about-being-sneaky)
+ - [The ESRB wants to start using facial recognition to check people&#39;s ages](https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages)
+ - [Ubisoft’s new Star Wars game gives the galaxy its first Wind Planet](https://www.polygon.com/23806135/star-wars-outlaws-toshara-wind-planet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
