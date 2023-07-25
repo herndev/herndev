@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She did it!](http://9gag.com/gag/aKEpm56)
- - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
+ - ⏩ [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---
 
