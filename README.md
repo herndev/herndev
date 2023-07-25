@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s RX 7900 GRE is coming to China, but what&#39;s under the hood?](https://www.pcgamer.com/amds-rx-7900-gre-is-coming-to-china-but-whats-under-the-hood)
- - [Can Yungoos be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23805845/can-yungoos-be-shiny-gumshoos)
- - [9 things to know before starting Remnant 2](https://www.polygon.com/guides/23805841/remnant-2-beginners-guide-tips-tricks)<!-- GAME:END -->
+ - [After 200 hours and 44 pages of speculation, one Starfield fan thinks they&#39;ve found all there is to know about the game&#39;s abilities](https://www.pcgamer.com/after-200-hours-and-44-pages-of-speculation-one-starfield-fan-thinks-theyve-found-all-there-is-to-know-about-the-games-abilities)
+ - [You can vote to get this massive song made with Counter Strike gunshots into CS:GO](https://www.pcgamer.com/you-can-vote-to-get-this-massive-song-made-with-counter-strike-gunshots-into-csgo)
+ - [AMD&#39;s RX 7900 GRE is coming to China, but what&#39;s under the hood?](https://www.pcgamer.com/amds-rx-7900-gre-is-coming-to-china-but-whats-under-the-hood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
