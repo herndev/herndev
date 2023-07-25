@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Baldur&#39;s Gate 3 romance option: who you can pursue](https://www.pcgamer.com/baldurs-gate-3-romance-options-guide)
- - [Microsoft Flight Simulator Releases World Update XIV: Central Eastern Europe](https://news.xbox.com/en-us/2023/07/25/microsoft-flight-simulator-releases-world-update-xiv-central-eastern-europe/)
- - [Armored Core 6 has a 120 fps option, a FromSoftware first on PC](https://www.pcgamer.com/armored-core-6-has-a-120-fps-option-a-fromsoftware-first-on-pc)<!-- GAME:END -->
+ - [Pikachu does Christmas in new Squishmallow drop](https://www.polygon.com/23807310/pikachu-pokemon-squishmallow-target-santa)
+ - [Super Rare Arcade Machine Worth Thousands Saved From Dump](https://kotaku.com/discs-of-tron-rare-trash-arcade-disney-worth-1850674636)
+ - [The Sims 4 Glitch Is Making Horses Horrifying](https://kotaku.com/tiktok-the-sims-4-horse-ranch-glitch-ea-download-pc-1850674624)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
