@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - ⏩ [Until the last drop](http://9gag.com/gag/a7qAEwx)
- - 👉 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)<!-- MEMES:END -->
+ - 💣 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - ⏩ [I always try going at night hours so nobody sees me](http://9gag.com/gag/aYVmrYw)
+ - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
 
 ---
 
