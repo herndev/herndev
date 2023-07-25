@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She did it!](http://9gag.com/gag/aKEpm56)
- - ⏩ [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - ⏩ [She did it!](http://9gag.com/gag/aKEpm56)
  - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---
