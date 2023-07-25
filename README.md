@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMOLED is all it’d take for the Galaxy Tab S9 to win me over](https://www.androidauthority.com/galaxy-tab-s9-amoled-display-3349192/)
- - [How to switch users on the lock screen in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-users-on-the-lock-screen-in-macos-sonoma?utm_medium=rss)
- - [Strikes halting production on &#39;Silo&#39; and &#39;Foundation&#39;](https://appleinsider.com/articles/23/07/25/strikes-halting-production-on-silo-and-foundation?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian CEO: ‘There’s far too much greenwashing in the system’](https://www.theverge.com/23803541/rivian-solar-kentucky-ppa-ceo-scaringe-interview)
+ - [ChatGPT for Android is now available](https://www.theverge.com/2023/7/25/23807012/chatgpt-android-ai-chatbot-openai-llm)
+ - [GM is making a new Chevy Bolt EV with an Ultium battery](https://www.theverge.com/2023/7/25/23806863/chevy-bolt-ev-gm-ultium-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
