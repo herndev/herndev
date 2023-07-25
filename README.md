@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find, in a two-day test across top Mastodon instances, 600+ pieces of known or suspected CSAM and ~2,000 posts with the top 20 CSAM-related hashtags &lpar;Washington Post&rpar;](http://www.techmeme.com/230724/p22#a230724p22)
- - [Best Dollhouses of 2023     - CNET](https://www.cnet.com/culture/entertainment/best-dollhouses/#ftag=CAD590a51e)
- - [Move Over Threads, TikTok is Taking Its Spin on Text Posts     - CNET](https://www.cnet.com/tech/services-and-software/move-over-threads-tiktok-is-taking-its-spin-on-text-posts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google researcher finds a vulnerability in AMD&#39;s Zen 2 chips, giving access to secure information like encryption keys; AMD expects most patches to come in Q4 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230724/p23#a230724p23)
+ - [K-pop band NewJeans &#39;ETA&#39; music video Shot on iPhone in collaboration with Apple](https://appleinsider.com/articles/23/07/25/k-pop-band-newjeans-eta-music-video-shot-on-iphone-in-collaboration-with-apple?utm_medium=rss)
+ - [Social Media Has Run Out of Fresh Ideas](https://www.wired.com/story/social-media-has-run-out-of-fresh-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
