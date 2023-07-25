@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three new Starfield animated shorts offer more glimpses of Bethesda’s new universe](https://www.theverge.com/2023/7/25/23806975/starfield-the-settled-systems-animated-shorts)
- - [The Exorcist: Believer looks like a hellish double feature in first trailer](https://www.theverge.com/2023/7/25/23807004/the-exorcist-believer-trailer)
- - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
+ - [Apple seeds fourth macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/25/apple-seeds-fourth-macos-sonoma-developer-beta?utm_medium=rss)
+ - [Apple rolls out second developer beta for visionOS](https://appleinsider.com/articles/23/07/25/apple-rolls-out-second-developer-beta-for-visionos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
