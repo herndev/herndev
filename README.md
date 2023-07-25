@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Yungoos be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23805845/can-yungoos-be-shiny-gumshoos)
  - [9 things to know before starting Remnant 2](https://www.polygon.com/guides/23805841/remnant-2-beginners-guide-tips-tricks)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/24/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale-2/)
- - [Today&#39;s Wordle hint and answer #766: Tuesday, July 25](https://www.pcgamer.com/wordle-answer-today-hint-766-july-25)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/24/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
