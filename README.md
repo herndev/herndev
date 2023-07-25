@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Exorcist’s revival looks way too much like every other possession movie](https://www.polygon.com/23807462/exorcists-revival-trailer-release-date-cast-halloween)
- - [The best Barbarian builds and skills in Diablo 4](https://www.polygon.com/23654868/barbarian-best-build-skills)
- - [The best Druid builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)<!-- GAME:END -->
+ - [Our favorite spy-themed extraction shooter is having a free weekend to launch its second season](https://www.pcgamer.com/our-favorite-spy-themed-extraction-shooter-is-having-a-free-weekend-to-launch-its-second-season)
+ - [Starfield persuasion guide: Talking your way out of a space jam](https://www.pcgamer.com/starfield-dialogue-persuasion-guide)
+ - [The protagonist of this ultra-bleak horror game fights with sadness and gets upgrades by having an avoidant personality](https://www.pcgamer.com/unholy-game-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
