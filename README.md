@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
- - [FTC Chair Lina Khan defends the agency&#39;s court record, saying &quot;losing two is OK&quot; and acknowledging difficulties in the Microsoft case due to &quot;vertical mergers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p15#a230725p15)
- - [Future MacBook Pro could split at the hinge and be truly modular](https://appleinsider.com/articles/23/07/25/future-macbook-pro-could-split-at-the-hinge-and-be-truly-modular?utm_medium=rss)<!-- TECH:END -->
+ - [Drone are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)
+ - [Poll: Do you prefer Flip or Fold-style foldables?](https://www.androidauthority.com/flip-or-fold-style-foldable-phone-poll-3348393/)
+ - [Apple Silicon M2 vs M3 - looking at the future of the Mac](https://appleinsider.com/inside/apple-silicon/vs/apple-silicon-m2-vs-m3---looking-at-the-future-of-the-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
