@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the laser crystal in The Expanse](https://www.pcgamer.com/the-expanse-laser-crystal-location)
- - [Why does it seem like PC ports are getting worse?](https://www.pcgamer.com/why-pc-ports-seem-to-be-getting-worse)
- - [Call of Duty devs get cheeky after Modern Warfare 3 leaks via an energy drink promotion](https://www.pcgamer.com/call-of-duty-devs-get-cheeky-after-modern-warfare-3-leaks-via-an-energy-drink-promotion)<!-- GAME:END -->
+ - [Announcing “The Settled Systems,” a Starfield Animated Anthology](https://news.xbox.com/en-us/2023/07/25/announcing-the-settled-systems-a-starfield-animated-anthology/)
+ - [Charisma reigns supreme in D&amp;D—the golden child Paladin might just be the most popular class in Baldur&#39;s Gate 3](https://www.pcgamer.com/charisma-reigns-supreme-in-danddthe-golden-child-paladin-might-just-be-the-most-popular-class-in-baldurs-gate-3)
+ - [Fortnite’s Next Big Crossover Is With Futurama](https://kotaku.com/fortnite-futurama-crossover-when-hypnotoad-skins-teaser-1850674088)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
