@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - ⏩ [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
+ - 💣 [She did it!](http://9gag.com/gag/aKEpm56)
+ - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
 
 ---
 
