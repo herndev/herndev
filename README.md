@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #766: Tuesday, July 25](https://www.pcgamer.com/wordle-answer-today-hint-766-july-25)
  - [AMD 3D V-Cache CPUs are coming to laptops, and they&#39;ll contend for the gaming crown](https://www.pcgamer.com/amd-3d-v-cache-cpus-are-coming-to-laptops-and-theyll-contend-for-the-gaming-crown)
- - [One of Dave The Diver&#39;s boss monsters may return in a future update](https://www.pcgamer.com/one-of-dave-the-divers-boss-monsters-may-return-in-a-future-update)
- - [Barbie and Oppenheimer share a single clear theme](https://www.polygon.com/23801761/barbenheimer-barbie-oppenheimer-double-feature-theme-connections)<!-- GAME:END -->
+ - [One of Dave The Diver&#39;s boss monsters may return in a future update](https://www.pcgamer.com/one-of-dave-the-divers-boss-monsters-may-return-in-a-future-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
