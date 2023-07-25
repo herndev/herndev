@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Binance, CZ, and its former Chief Compliance Officer Samuel Lim plan to file for the dismissal of a CFTC lawsuit; the CFTC sued the three in March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p24#a230724p24)
  - [A Google researcher finds a vulnerability in AMD&#39;s Zen 2 chips, giving access to secure information like encryption keys; AMD expects most patches to come in Q4 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230724/p23#a230724p23)
- - [K-pop band NewJeans &#39;ETA&#39; music video Shot on iPhone in collaboration with Apple](https://appleinsider.com/articles/23/07/25/k-pop-band-newjeans-eta-music-video-shot-on-iphone-in-collaboration-with-apple?utm_medium=rss)
- - [Social Media Has Run Out of Fresh Ideas](https://www.wired.com/story/social-media-has-run-out-of-fresh-ideas/)<!-- TECH:END -->
+ - [K-pop band NewJeans &#39;ETA&#39; music video Shot on iPhone in collaboration with Apple](https://appleinsider.com/articles/23/07/25/k-pop-band-newjeans-eta-music-video-shot-on-iphone-in-collaboration-with-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
