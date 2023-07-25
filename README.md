@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - ⏩ [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 👉 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)<!-- MEMES:END -->
+ - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
 
 ---
 
