@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [R&amp;B Singer Ne-Yo Loves Street Fighter So Much He Takes His PS5 With Him On Tour](https://kotaku.com/street-fighter-6-ryu-ne-yo-playstation-5-ps5-tour-1850675738)
- - [ESRB says proposed age verification scan is misunderstood: It doesn&#39;t &#39;confirm the identity of users&#39; and is unrelated to videogame age ratings](https://www.pcgamer.com/esrb-says-proposed-age-verification-scan-is-misunderstood-it-doesnt-confirm-the-identity-of-users-and-is-unrelated-to-videogame-age-ratings)
- - [RPG Becomes First Game To Hit PS Plus, Game Pass Simultaneously](https://kotaku.com/sea-stars-playstation-ps-plus-xbox-game-pass-devolver-1850675692)<!-- GAME:END -->
+ - [The Exorcist’s revival looks way too much like every other possession movie](https://www.polygon.com/23807462/exorcists-revival-trailer-release-date-cast-halloween)
+ - [The best Barbarian builds and skills in Diablo 4](https://www.polygon.com/23654868/barbarian-best-build-skills)
+ - [The best Druid builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
