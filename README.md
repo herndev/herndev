@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drone are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)
- - [Poll: Do you prefer Flip or Fold-style foldables?](https://www.androidauthority.com/flip-or-fold-style-foldable-phone-poll-3348393/)
- - [Apple Silicon M2 vs M3 - looking at the future of the Mac](https://appleinsider.com/inside/apple-silicon/vs/apple-silicon-m2-vs-m3---looking-at-the-future-of-the-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Best 3D Printer Deals: 7 Printers Worth Your Time and Money     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [MagSafe may be expanding beyond Mac and iPhone to the iPad](https://appleinsider.com/articles/23/07/25/magsafe-may-be-expanding-beyond-mac-and-iphone-to-the-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
