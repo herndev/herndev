@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
  - [July heatwaves ‘virtually impossible’ without climate change](https://www.theverge.com/2023/7/25/23805969/july-heatwave-2023-climate-change-crisis)
- - [An in-depth look at mainframe computers, their 50+ year history, and the IBM mainframe, a business mainstay that represents most of the estimated 10,000 in use &lpar;Andrew Hudson/Ars Technica&rpar;](http://www.techmeme.com/230725/p1#a230725p1)
- - [The UK plans to force social media and ad platforms like Google Ads to stop scam ads including fake celebrity endorsements, pop-ups with malware, and more &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230724/p26#a230724p26)<!-- TECH:END -->
+ - [An in-depth look at mainframe computers, their 50+ year history, and the IBM mainframe, a business mainstay that represents most of the estimated 10,000 in use &lpar;Andrew Hudson/Ars Technica&rpar;](http://www.techmeme.com/230725/p1#a230725p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
