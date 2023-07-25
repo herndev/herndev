@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Dave The Diver&#39;s boss monsters may return in a future update](https://www.pcgamer.com/one-of-dave-the-divers-boss-monsters-may-return-in-a-future-update)
  - [Barbie and Oppenheimer share a single clear theme](https://www.polygon.com/23801761/barbenheimer-barbie-oppenheimer-double-feature-theme-connections)
- - [Steam&#39;s latest sale-fest is all about being sneaky](https://www.pcgamer.com/steams-latest-sale-fest-is-all-about-being-sneaky)
- - [The ESRB wants to start using facial recognition to check people&#39;s ages](https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages)<!-- GAME:END -->
+ - [Steam&#39;s latest sale-fest is all about being sneaky](https://www.pcgamer.com/steams-latest-sale-fest-is-all-about-being-sneaky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
