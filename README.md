@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2 review](https://www.pcgamer.com/remnant-2-review)
- - [Cableless GPUs are a new step in graphics card evolution](https://www.pcgamer.com/cableless-gpus-are-a-new-step-in-graphics-card-evolution)
- - [Your Diablo 4 stash is tiny because a bigger one would fry your PC: &#39;This isn&#39;t a storage concern, it&#39;s a performance concern&#39;](https://www.pcgamer.com/your-diablo-4-stash-is-tiny-because-a-bigger-one-would-fry-your-pc-this-isnt-a-storage-concern-its-a-performance-concern)<!-- GAME:END -->
+ - [Disney Lorcana’s greatest asset may be its most divisive quality](https://www.polygon.com/reviews/23805728/disney-lorcana-review-first-chapter-cards-starter-set)
+ - [DreamWorks’ new kart racer puts Shrek back in the driver’s seat](https://www.polygon.com/23805645/dreamworks-all-star-kart-racing-shrek-puss-in-boots-trolls)
+ - [Hands-On With Bandai Namco&#39;s Beautiful Anime MMORPG](https://kotaku.com/blue-protocol-release-date-global-hands-on-demo-1850557867)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
