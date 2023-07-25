@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - ⏩ [She did it!](http://9gag.com/gag/aKEpm56)
- - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
+ - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - ⏩ [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
 
 ---
 
