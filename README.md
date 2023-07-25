@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing “The Settled Systems,” a Starfield Animated Anthology](https://news.xbox.com/en-us/2023/07/25/announcing-the-settled-systems-a-starfield-animated-anthology/)
- - [Charisma reigns supreme in D&amp;D—the golden child Paladin might just be the most popular class in Baldur&#39;s Gate 3](https://www.pcgamer.com/charisma-reigns-supreme-in-danddthe-golden-child-paladin-might-just-be-the-most-popular-class-in-baldurs-gate-3)
- - [Fortnite’s Next Big Crossover Is With Futurama](https://kotaku.com/fortnite-futurama-crossover-when-hypnotoad-skins-teaser-1850674088)<!-- GAME:END -->
+ - [Diablo IV&#39;s Strongholds Are A Great Way To Level Up This Season](https://kotaku.com/diablo-4-iv-strongholds-season-malignant-witcher-3-1850671657)
+ - [Oppenheimer Is Cinema&#39;s Most &#39;AAA&#39; Gaming Moment Of 2023](https://kotaku.com/oppenheimer-christopher-nolan-70mm-sold-out-imax-1850674440)
+ - [This fan-made UE5 remake of The Simpsons: Hit &amp; Run looks incredible, and we&#39;ll never, ever get to play it](https://www.pcgamer.com/this-fan-made-ue5-remake-of-the-simpsons-hit-and-run-looks-incredible-and-well-never-ever-get-to-play-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
