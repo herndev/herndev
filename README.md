@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
+ - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - ⏩ [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
 
 ---
 
