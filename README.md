@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
- - ⏩ [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 👉 [She did it!](http://9gag.com/gag/aKEpm56)<!-- MEMES:END -->
+ - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 👉 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
 
 ---
 
