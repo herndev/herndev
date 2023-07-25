@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU passes law to blanket highways with fast EV chargers by 2025](https://www.theverge.com/23806690/eu-ev-fast-charger-60km-law-regulation-requirements)
- - [Xiaomi plans to focus on 5G phones and reduce its range in India, trying to claw back market share lost to Samsung and other rivals in its second biggest market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230725/p7#a230725p7)
- - [Instagram rolls out creator subscriptions in Australia, Brazil, Canada, France, Germany, Italy, Japan, Mexico, Spain, and the UK, expanding on support in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230725/p6#a230725p6)<!-- TECH:END -->
+ - [Driven by AI demand, TSMC plans to spend nearly $2.9B to build an advanced packaging facility in northern Taiwan and says current capacity is &quot;very tight&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230725/p11#a230725p11)
+ - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
+ - [Apple is considering making the iPhone 15 Pro more expensive](https://appleinsider.com/articles/23/07/24/apple-is-considering-making-the-iphone-15-pro-more-expensive?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
