@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Apple-Goldman Sachs relationship became an unhappy marriage](https://appleinsider.com/articles/23/07/25/how-the-apple-goldman-sachs-relationship-became-an-unhappy-marriage?utm_medium=rss)
- - [Micron launches Crucial X9 Pro and Crucial X10 Pro portable SSDs](https://appleinsider.com/articles/23/07/25/micron-launches-crucial-x9-pro-and-crucial-x10-pro-portable-ssds?utm_medium=rss)
- - [You can’t just leave Threads in the Following feed](https://www.theverge.com/2023/7/25/23807340/threads-following-feed-for-you-default-instagram-meta)<!-- TECH:END -->
+ - [Google’s CFO just got a promotion](https://www.theverge.com/2023/7/25/23807246/google-alphabet-earnings-q2-2023-ruth-porat-president-chief-investment-officer)
+ - [Apple issues new developer firmware for AirPods Pro 2](https://appleinsider.com/articles/23/07/25/apple-issues-new-developer-firmware-for-airpods-pro-2?utm_medium=rss)
+ - [YouTube&#39;s ad revenue increased 4.4% YoY to $7.67B in Q2, above expectations of $7.43B and a reversal after three consecutive quarters of declines &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p33#a230725p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
