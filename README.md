@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
- - ⏩ [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
- - 👉 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)<!-- MEMES:END -->
+ - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 👉 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)<!-- MEMES:END -->
 
 ---
 
