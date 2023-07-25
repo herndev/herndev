@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 3D Printer Deals: 7 Printers Worth Your Time and Money     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [MagSafe may be expanding beyond Mac and iPhone to the iPad](https://appleinsider.com/articles/23/07/25/magsafe-may-be-expanding-beyond-mac-and-iphone-to-the-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [AMOLED is all it’d take for the Galaxy Tab S9 to win me over](https://www.androidauthority.com/galaxy-tab-s9-amoled-display-3349192/)
+ - [How to switch users on the lock screen in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-users-on-the-lock-screen-in-macos-sonoma?utm_medium=rss)
+ - [Strikes halting production on &#39;Silo&#39; and &#39;Foundation&#39;](https://appleinsider.com/articles/23/07/25/strikes-halting-production-on-silo-and-foundation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
