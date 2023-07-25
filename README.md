@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [Until the last drop](http://9gag.com/gag/a7qAEwx)<!-- MEMES:END -->
+ - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - ⏩ [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
 
 ---
 
