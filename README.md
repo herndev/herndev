@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #766: Tuesday, July 25](https://www.pcgamer.com/wordle-answer-today-hint-766-july-25)
- - [AMD 3D V-Cache CPUs are coming to laptops, and they&#39;ll contend for the gaming crown](https://www.pcgamer.com/amd-3d-v-cache-cpus-are-coming-to-laptops-and-theyll-contend-for-the-gaming-crown)
- - [One of Dave The Diver&#39;s boss monsters may return in a future update](https://www.pcgamer.com/one-of-dave-the-divers-boss-monsters-may-return-in-a-future-update)<!-- GAME:END -->
+ - [9 things to know before starting Remnant 2](https://www.polygon.com/guides/23805841/remnant-2-beginners-guide-tips-tricks)
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Ultimate Game Sale](https://news.xbox.com/en-us/2023/07/24/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale-2/)
+ - [Today&#39;s Wordle hint and answer #766: Tuesday, July 25](https://www.pcgamer.com/wordle-answer-today-hint-766-july-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
