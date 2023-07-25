@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s greatest asset may be its most divisive quality](https://www.polygon.com/reviews/23805728/disney-lorcana-review-first-chapter-cards-starter-set)
- - [DreamWorks’ new kart racer puts Shrek back in the driver’s seat](https://www.polygon.com/23805645/dreamworks-all-star-kart-racing-shrek-puss-in-boots-trolls)
- - [Hands-On With Bandai Namco&#39;s Beautiful Anime MMORPG](https://kotaku.com/blue-protocol-release-date-global-hands-on-demo-1850557867)<!-- GAME:END -->
+ - [I Played The World’s Largest Donkey Kong Arcade Game And Lived](https://kotaku.com/best-donkey-kong-arcade-game-strong-retro-nintendo-1850673546)
+ - [Here’s where you can pre-order Starfield](https://www.polygon.com/deals/23752365/starfield-pre-order-guide-standard-premium-collectors-constellation-edition)
+ - [Max Payne 3 Mod Finally Restores His Original Face](https://kotaku.com/max-payne-3-pc-mod-sam-lake-nexus-alexsavvy-1850671945)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
