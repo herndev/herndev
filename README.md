@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played The World’s Largest Donkey Kong Arcade Game And Lived](https://kotaku.com/best-donkey-kong-arcade-game-strong-retro-nintendo-1850673546)
- - [Here’s where you can pre-order Starfield](https://www.polygon.com/deals/23752365/starfield-pre-order-guide-standard-premium-collectors-constellation-edition)
- - [Max Payne 3 Mod Finally Restores His Original Face](https://kotaku.com/max-payne-3-pc-mod-sam-lake-nexus-alexsavvy-1850671945)<!-- GAME:END -->
+ - [Where to find the laser crystal in The Expanse](https://www.pcgamer.com/the-expanse-laser-crystal-location)
+ - [Why does it seem like PC ports are getting worse?](https://www.pcgamer.com/why-pc-ports-seem-to-be-getting-worse)
+ - [Call of Duty devs get cheeky after Modern Warfare 3 leaks via an energy drink promotion](https://www.pcgamer.com/call-of-duty-devs-get-cheeky-after-modern-warfare-3-leaks-via-an-energy-drink-promotion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
