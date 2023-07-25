@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pikachu does Christmas in new Squishmallow drop](https://www.polygon.com/23807310/pikachu-pokemon-squishmallow-target-santa)
- - [Super Rare Arcade Machine Worth Thousands Saved From Dump](https://kotaku.com/discs-of-tron-rare-trash-arcade-disney-worth-1850674636)
- - [The Sims 4 Glitch Is Making Horses Horrifying](https://kotaku.com/tiktok-the-sims-4-horse-ranch-glitch-ea-download-pc-1850674624)<!-- GAME:END -->
+ - [The best thing about Diablo 4 is that it has stopped me from playing Destiny 2](https://www.pcgamer.com/the-best-thing-about-diablo-4-is-that-it-has-stopped-me-from-playing-destiny-2)
+ - [How to preorder the Pokémon TCG: Scarlet and Violet 151 sets](https://www.polygon.com/deals/23775462/pokemon-tcg-151-scarlet-violet-box-mew-ex-preorder-buy)
+ - [World of Warcraft and Mila Kunis team up with charity pets for Ukraine](https://www.polygon.com/23807350/world-of-warcraft-dragonflight-mila-kunis-ukraine-pet-bundle-charity-sunny-florky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
