@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s Strongholds Are A Great Way To Level Up This Season](https://kotaku.com/diablo-4-iv-strongholds-season-malignant-witcher-3-1850671657)
- - [Oppenheimer Is Cinema&#39;s Most &#39;AAA&#39; Gaming Moment Of 2023](https://kotaku.com/oppenheimer-christopher-nolan-70mm-sold-out-imax-1850674440)
- - [This fan-made UE5 remake of The Simpsons: Hit &amp; Run looks incredible, and we&#39;ll never, ever get to play it](https://www.pcgamer.com/this-fan-made-ue5-remake-of-the-simpsons-hit-and-run-looks-incredible-and-well-never-ever-get-to-play-it)<!-- GAME:END -->
+ - [Every Baldur&#39;s Gate 3 romance option: who you can pursue](https://www.pcgamer.com/baldurs-gate-3-romance-options-guide)
+ - [Microsoft Flight Simulator Releases World Update XIV: Central Eastern Europe](https://news.xbox.com/en-us/2023/07/25/microsoft-flight-simulator-releases-world-update-xiv-central-eastern-europe/)
+ - [Armored Core 6 has a 120 fps option, a FromSoftware first on PC](https://www.pcgamer.com/armored-core-6-has-a-120-fps-option-a-fromsoftware-first-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
