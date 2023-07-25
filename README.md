@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real-world Samsung Galaxy Z Flip 5 images appear to leak ahead reveal event](https://www.androidauthority.com/samsung-galaxy-z-flip-real-world-images-3349617/)
- - [The Browser Company launches Arc on macOS and iOS after a two-year waitlist; the browser helps users take notes, redesign webpages, organize tabs, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230725/p26#a230725p26)
- - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)<!-- TECH:END -->
+ - [How the Apple-Goldman Sachs relationship became an unhappy marriage](https://appleinsider.com/articles/23/07/25/how-the-apple-goldman-sachs-relationship-became-an-unhappy-marriage?utm_medium=rss)
+ - [Micron launches Crucial X9 Pro and Crucial X10 Pro portable SSDs](https://appleinsider.com/articles/23/07/25/micron-launches-crucial-x9-pro-and-crucial-x10-pro-portable-ssds?utm_medium=rss)
+ - [You can’t just leave Threads in the Following feed](https://www.theverge.com/2023/7/25/23807340/threads-following-feed-for-you-default-instagram-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
