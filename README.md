@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just Stop Oil gets a taste of their own medicine. Counter activists tie rape alarms to balloons and let them go in a Just Stop Oil meeting.](http://9gag.com/gag/aGEby27)
- - ⏩ [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - ⏩ [U wot m8 ?](http://9gag.com/gag/aeQW9O5)
  - 👉 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)<!-- MEMES:END -->
 
 ---
