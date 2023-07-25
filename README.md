@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
- - ⏩ [How to prank your friend.](http://9gag.com/gag/aVbB7vO)
- - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
+ - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - ⏩ [Until the last drop](http://9gag.com/gag/a7qAEwx)
+ - 👉 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)<!-- MEMES:END -->
 
 ---
 
