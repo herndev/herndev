@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
- - [Long Live the King: Chevrolet&#39;s Affordable Bolt EV Will Return     - CNET](https://www.cnet.com/roadshow/news/long-live-the-king-chevrolets-affordable-bolt-ev-will-return/#ftag=CAD590a51e)
- - [OpenAI can’t tell if something was written by AI after all](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)<!-- TECH:END -->
+ - [Sources: the FTC is finalizing its antitrust suit against Amazon and is likely to file its case in federal court rather than its own tribunal as soon as August &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230725/p37#a230725p37)
+ - [T-Mobile says its ultrafast 5G capable of up to 3.3Gbps is rolling out now](https://www.theverge.com/2023/7/25/23807252/t-mobile-5g-carrier-aggregation-samsung-galaxy-s23)
+ - [Samsung Galaxy Unpacked: how to watch and what to expect tomorrow morning](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
