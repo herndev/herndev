@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian CEO: ‘There’s far too much greenwashing in the system’](https://www.theverge.com/23803541/rivian-solar-kentucky-ppa-ceo-scaringe-interview)
- - [ChatGPT for Android is now available](https://www.theverge.com/2023/7/25/23807012/chatgpt-android-ai-chatbot-openai-llm)
- - [GM is making a new Chevy Bolt EV with an Ultium battery](https://www.theverge.com/2023/7/25/23806863/chevy-bolt-ev-gm-ultium-battery)<!-- TECH:END -->
+ - [Three new Starfield animated shorts offer more glimpses of Bethesda’s new universe](https://www.theverge.com/2023/7/25/23806975/starfield-the-settled-systems-animated-shorts)
+ - [The Exorcist: Believer looks like a hellish double feature in first trailer](https://www.theverge.com/2023/7/25/23807004/the-exorcist-believer-trailer)
+ - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
