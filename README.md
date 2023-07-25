@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s CFO just got a promotion](https://www.theverge.com/2023/7/25/23807246/google-alphabet-earnings-q2-2023-ruth-porat-president-chief-investment-officer)
- - [Apple issues new developer firmware for AirPods Pro 2](https://appleinsider.com/articles/23/07/25/apple-issues-new-developer-firmware-for-airpods-pro-2?utm_medium=rss)
- - [YouTube&#39;s ad revenue increased 4.4% YoY to $7.67B in Q2, above expectations of $7.43B and a reversal after three consecutive quarters of declines &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p33#a230725p33)<!-- TECH:END -->
+ - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
+ - [Long Live the King: Chevrolet&#39;s Affordable Bolt EV Will Return     - CNET](https://www.cnet.com/roadshow/news/long-live-the-king-chevrolets-affordable-bolt-ev-will-return/#ftag=CAD590a51e)
+ - [OpenAI can’t tell if something was written by AI after all](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
