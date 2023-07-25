@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - ⏩ [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
+ - 💣 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
+ - ⏩ [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
+ - 👉 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)<!-- MEMES:END -->
 
 ---
 
