@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a good title](http://9gag.com/gag/a5XD16E)
- - ⏩ [I always try going at night hours so nobody sees me](http://9gag.com/gag/aYVmrYw)
- - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
+ - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - ⏩ [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 👉 [Until the last drop](http://9gag.com/gag/a7qAEwx)<!-- MEMES:END -->
 
 ---
 
