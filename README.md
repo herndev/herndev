@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Driven by AI demand, TSMC plans to spend nearly $2.9B to build an advanced packaging facility in northern Taiwan and says current capacity is &quot;very tight&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230725/p11#a230725p11)
- - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
- - [Apple is considering making the iPhone 15 Pro more expensive](https://appleinsider.com/articles/23/07/24/apple-is-considering-making-the-iphone-15-pro-more-expensive?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
+ - [FTC Chair Lina Khan defends the agency&#39;s court record, saying &quot;losing two is OK&quot; and acknowledging difficulties in the Microsoft case due to &quot;vertical mergers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p15#a230725p15)
+ - [Future MacBook Pro could split at the hinge and be truly modular](https://appleinsider.com/articles/23/07/25/future-macbook-pro-could-split-at-the-hinge-and-be-truly-modular?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
