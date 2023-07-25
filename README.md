@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 200 hours and 44 pages of speculation, one Starfield fan thinks they&#39;ve found all there is to know about the game&#39;s abilities](https://www.pcgamer.com/after-200-hours-and-44-pages-of-speculation-one-starfield-fan-thinks-theyve-found-all-there-is-to-know-about-the-games-abilities)
- - [You can vote to get this massive song made with Counter Strike gunshots into CS:GO](https://www.pcgamer.com/you-can-vote-to-get-this-massive-song-made-with-counter-strike-gunshots-into-csgo)
- - [AMD&#39;s RX 7900 GRE is coming to China, but what&#39;s under the hood?](https://www.pcgamer.com/amds-rx-7900-gre-is-coming-to-china-but-whats-under-the-hood)<!-- GAME:END -->
+ - [Remnant 2 review](https://www.pcgamer.com/remnant-2-review)
+ - [Cableless GPUs are a new step in graphics card evolution](https://www.pcgamer.com/cableless-gpus-are-a-new-step-in-graphics-card-evolution)
+ - [Your Diablo 4 stash is tiny because a bigger one would fry your PC: &#39;This isn&#39;t a storage concern, it&#39;s a performance concern&#39;](https://www.pcgamer.com/your-diablo-4-stash-is-tiny-because-a-bigger-one-would-fry-your-pc-this-isnt-a-storage-concern-its-a-performance-concern)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
