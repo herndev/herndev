@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flashbots, whose service proposes blocks for validators running the Ethereum blockchain, raised a $60M Series B led by Paradigm at a $1B valuation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230725/p38#a230725p38)
- - [Sources: the FTC is finalizing its antitrust suit against Amazon and is likely to file its case in federal court rather than its own tribunal as soon as August &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230725/p37#a230725p37)
- - [T-Mobile says its ultrafast 5G capable of up to 3.3Gbps is rolling out now](https://www.theverge.com/2023/7/25/23807252/t-mobile-5g-carrier-aggregation-samsung-galaxy-s23)<!-- TECH:END -->
+ - [Apple&#39;s latest App Store expert sessions run through August 24](https://appleinsider.com/articles/23/07/26/apples-latest-app-store-expert-sessions-run-through-august-24?utm_medium=rss)
+ - [SK Hynix reports Q2 revenue down 47% YoY to ~$5.7B, beating an average projection of ~$4.7B, and a ~$2.3B operating loss, in line with expectations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p39#a230725p39)
+ - [Flashbots, whose service proposes blocks for validators running the Ethereum blockchain, raised a $60M Series B led by Paradigm at a $1B valuation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230725/p38#a230725p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
