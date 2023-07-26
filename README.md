@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
- - ⏩ [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - ⏩ [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 
