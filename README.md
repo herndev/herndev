@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)
- - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)
- - [Report: Google could reveal a foldable tablet at I/O 2024](https://www.androidauthority.com/google-foldable-tablet-report-2024-3350036/)<!-- TECH:END -->
+ - [Meta, Microsoft, and Amazon have launched their open-source mapping project](https://www.theverge.com/2023/7/26/23808274/meta-microsoft-amazon-overture-open-source-mapping)
+ - [How to preorder Samsung’s Galaxy Tab S9 tablets](https://www.theverge.com/23806287/samsungs-galaxy-tab-s9-buy-preorder-price-features)
+ - [Good Omens season 2 is a lovey-dovey shipper’s delight](https://www.theverge.com/23807387/good-omens-season-2-review-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
