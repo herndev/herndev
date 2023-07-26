@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Former employees detail how the Apple Card partnership between Apple and Goldman Sachs soured; a source says Apple Card had ~10M users as of earlier this year &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230725/p42#a230725p42)
- - [AI pioneer Yoshua Bengio, Anthropic CEO Dario Amodei, and Berkeley CS professor Stuart Russell warn Congress that AI could cause serious harms in a few years &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230725/p41#a230725p41)<!-- TECH:END -->
+ - [Google says 2B+ logged-in monthly users are watching YouTube Shorts, up from 1.5B+ in June 2022, and YouTube is reaching 150M people on their TVs in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p3#a230726p3)
+ - [Sources: Ant Group plans to exclude blockchain and other businesses from its financial-related unit that will be used for a Chinese financial holding license &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p2#a230726p2)
+ - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
