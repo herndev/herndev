@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the Samsung Galaxy Z Flip 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-crease-3349870/)
- - [The CISA warns US federal agencies to secure their systems against an Ivanti flaw that&#39;s been exploited as a zero-day to hack Norway&#39;s government systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230726/p42#a230726p42)
- - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)<!-- TECH:END -->
+ - [For Elon Musk, X equals everything](https://www.theverge.com/2023/7/26/23808796/elon-musks-x-everything-app-vision)
+ - [Sony brings head-tracking spatial audio to its 1000XM5 headphones](https://www.theverge.com/2023/7/26/23808899/sony-wh-1000xm5-update-head-tracking-multipoint-ldac)
+ - [US prosecutors ask a judge to detain Sam Bankman-Fried over witness tampering allegations, saying he leaked Caroline Ellison&#39;s personal writings to the NYT &lpar;CNN&rpar;](http://www.techmeme.com/230726/p44#a230726p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
