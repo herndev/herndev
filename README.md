@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Joseph Weizenbaum, who created the first chatbot in 1966 but turned against AI, believing the computer revolution constricted our humanity &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/230726/p8#a230726p8)
- - [Last-minute leak leaves almost nothing for Samsung to Unpack](https://www.androidauthority.com/last-minute-samsung-unpacked-leak-3349810/)
- - [GitHub and others call for more open-source support in EU AI law](https://www.theverge.com/2023/7/26/23807218/github-ai-open-source-creative-commons-hugging-face-eu-regulations)<!-- TECH:END -->
+ - [Twitter changes its handle from @twitter to @X, Twitter Blue to @XBlue, @TwitterSupport to @Support, and more; the previous @X owner now uses @x12345678998765 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p12#a230726p12)
+ - [GitHub, Hugging Face, Creative Commons, and others write a paper for EU policymakers encouraging support for open-source AI models ahead of the final EU AI Act &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230726/p11#a230726p11)
+ - [Alibaba plans to let business customers use Meta&#39;s Llama 2 to build apps, the first Chinese company to do so; companies with &lt;700M MAUs can use Llama for free &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230726/p10#a230726p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
