@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Tower of Fantasy releases on PS5 August 8 – what to expect in the open-world RPG](https://blog.playstation.com/2023/07/25/tower-of-fantasy-releases-on-ps5-august-8-what-to-expect-in-the-open-world-rpg/)
- - [Baldur&#39;s Gate 3 used intimacy coordinators for sex scenes: &#39;I never felt &#39;yuck&#39; in a recording session at all,&#39; says actor](https://www.pcgamer.com/baldurs-gate-3-used-intimacy-coordinators-for-sex-scenes-i-never-felt-yuck-in-a-recording-session-at-all-says-actor)
- - [Our favorite spy-themed extraction shooter is having a free weekend to launch its second season](https://www.pcgamer.com/our-favorite-spy-themed-extraction-shooter-is-having-a-free-weekend-to-launch-its-second-season)<!-- GAME:END -->
+ - [Tower of Fantasy releases on PS5 August 8 – what to expect in the open-world RPG](https://blog.playstation.com/2023/07/25/tower-of-fantasy-releases-on-ps5-august-8-what-to-expect-in-the-open-world-rpg/)
+ - [Baldur&#39;s Gate 3 used intimacy coordinators for sex scenes: &#39;I never felt &#39;yuck&#39; in a recording session at all,&#39; says actor](https://www.pcgamer.com/baldurs-gate-3-used-intimacy-coordinators-for-sex-scenes-i-never-felt-yuck-in-a-recording-session-at-all-says-actor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
