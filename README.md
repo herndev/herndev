@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
- - ⏩ [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
- - 👉 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)<!-- MEMES:END -->
+ - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - ⏩ [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
+ - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
 
 ---
 
