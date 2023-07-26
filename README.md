@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI pioneer Yoshua Bengio, Anthropic CEO Dario Amodei, and Berkeley CS professor Stuart Russell warn Congress that AI could cause serious harms in a few years &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230725/p41#a230725p41)
  - [Meta hasn&#39;t labeled propaganda accounts of state-backed media from Russia and other authoritarian governments on Threads, unlike on Facebook and Instagram &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p40#a230725p40)
- - [Apple&#39;s latest App Store expert sessions run through August 24](https://appleinsider.com/articles/23/07/26/apples-latest-app-store-expert-sessions-run-through-august-24?utm_medium=rss)
- - [SK Hynix reports Q2 revenue down 47% YoY to ~$5.7B, beating an average projection of ~$4.7B, and a ~$2.3B operating loss, in line with expectations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p39#a230725p39)<!-- TECH:END -->
+ - [Apple&#39;s latest App Store expert sessions run through August 24](https://appleinsider.com/articles/23/07/26/apples-latest-app-store-expert-sessions-run-through-august-24?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
