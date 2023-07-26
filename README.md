@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #767: Wednesday, July 26](https://www.pcgamer.com/wordle-answer-today-hint-767-july-26)
  - [Tower of Fantasy releases on PS5 August 8 – what to expect in the open-world RPG](https://blog.playstation.com/2023/07/25/tower-of-fantasy-releases-on-ps5-august-8-what-to-expect-in-the-open-world-rpg/)
- - [Tower of Fantasy releases on PS5 August 8 – what to expect in the open-world RPG](https://blog.playstation.com/2023/07/25/tower-of-fantasy-releases-on-ps5-august-8-what-to-expect-in-the-open-world-rpg/)
- - [Baldur&#39;s Gate 3 used intimacy coordinators for sex scenes: &#39;I never felt &#39;yuck&#39; in a recording session at all,&#39; says actor](https://www.pcgamer.com/baldurs-gate-3-used-intimacy-coordinators-for-sex-scenes-i-never-felt-yuck-in-a-recording-session-at-all-says-actor)<!-- GAME:END -->
+ - [Tower of Fantasy releases on PS5 August 8 – what to expect in the open-world RPG](https://blog.playstation.com/2023/07/25/tower-of-fantasy-releases-on-ps5-august-8-what-to-expect-in-the-open-world-rpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
