@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 used intimacy coordinators for sex scenes: &#39;I never felt &#39;yuck&#39; in a recording session at all,&#39; says actor](https://www.pcgamer.com/baldurs-gate-3-used-intimacy-coordinators-for-sex-scenes-i-never-felt-yuck-in-a-recording-session-at-all-says-actor)
  - [Our favorite spy-themed extraction shooter is having a free weekend to launch its second season](https://www.pcgamer.com/our-favorite-spy-themed-extraction-shooter-is-having-a-free-weekend-to-launch-its-second-season)
- - [Starfield persuasion guide: Talking your way out of a space jam](https://www.pcgamer.com/starfield-dialogue-persuasion-guide)
- - [The protagonist of this ultra-bleak horror game fights with sadness and gets upgrades by having an avoidant personality](https://www.pcgamer.com/unholy-game-impressions)<!-- GAME:END -->
+ - [Starfield persuasion guide: Talking your way out of a space jam](https://www.pcgamer.com/starfield-dialogue-persuasion-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
