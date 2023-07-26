@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - ⏩ [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - 💣 [Deleting chats before going back to the perfect relationship.](http://9gag.com/gag/a3Zn5OQ)
+ - ⏩ [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 👉 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)<!-- MEMES:END -->
 
 ---
 
