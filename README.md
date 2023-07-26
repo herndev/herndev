@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter changes its handle from @twitter to @X, Twitter Blue to @XBlue, @TwitterSupport to @Support, and more; the previous @X owner now uses @x12345678998765 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p12#a230726p12)
- - [GitHub, Hugging Face, Creative Commons, and others write a paper for EU policymakers encouraging support for open-source AI models ahead of the final EU AI Act &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230726/p11#a230726p11)
- - [Alibaba plans to let business customers use Meta&#39;s Llama 2 to build apps, the first Chinese company to do so; companies with &lt;700M MAUs can use Llama for free &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230726/p10#a230726p10)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Here’s why Samsung didn’t bring an S Pen slot to the Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-no-s-pen-slot-3346439/)
+ - [We have bad news if you wanted a Galaxy Z Flip 5 Bespoke edition](https://www.androidauthority.com/samsung-galaxy-z-flip-5-bespoke-3346596/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
