@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reddit’s 2023 r/Place turned into a battleground for dunking on the CEO](https://www.polygon.com/23808718/reddit-r-place-fuck-spez-ceo-protest-steve-huffman)
- - [Blizzard buzzkills fix Diablo 4&#39;s best bug](https://www.pcgamer.com/blizzard-buzzkills-fix-diablo-4s-best-bug)
- - [The Lore Behind There Is No Light, a Brutal Action-Adventure RPG](https://news.xbox.com/en-us/2023/07/26/the-lore-behind-there-is-no-light/)<!-- GAME:END -->
+ - [Death Stranding Players Discover Troy Baker Can Bite Your Freaking Ear Off](https://kotaku.com/death-stranding-boss-fight-higgs-sam-kojima-reedus-ps5-1850680086)
+ - [Riot&#39;s 2v2 fighting game Project L still doesn&#39;t have a proper title, but it&#39;ll be playable in August at Evo](https://www.pcgamer.com/riots-2v2-fighting-game-project-l-still-doesnt-have-a-proper-title-but-itll-be-playable-in-august-at-evo)
+ - [Riot shows off the League of Legends fighting game’s 4-player twist](https://www.polygon.com/23808892/riot-games-project-l-league-of-legends-fighting-game-duos-2v2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
