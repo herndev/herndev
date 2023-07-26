@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CD Projekt Red is laying off about 9 percent of its staff](https://www.theverge.com/2023/7/26/23808484/cd-projekt-red-cdpr-layoffs)
- - [This Convenient Dyson Stick Vacuum Is $150 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-convenient-dyson-stick-vacuum-is-150-off-for-today-only-at-best-buy/#ftag=CAD590a51e)
- - [Samsung Galaxy Tab S9 Preorder Deals: Up to $650 Off and a Free Storage Upgrade     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-preorder-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals: Samsung Fold 5 up to $1,000 off, $1,799 MacBook Pro 14, Apple Leather Wallet $28, $90 Thunderbolt 3 dock](https://appleinsider.com/articles/23/07/26/daily-deals-samsung-fold-5-up-to-1000-off-1799-macbook-pro-14-apple-leather-wallet-28-90-thunderbolt-3-dock?utm_medium=rss)
+ - [Sources: CrowdStrike is in advanced negotiations to acquire Bionic, a security posture management platform for cloud services, for between $200M and $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p37#a230726p37)
+ - [8 Best Snack Box Subscriptions, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
