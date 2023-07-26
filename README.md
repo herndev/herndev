@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven major automakers are teaming up on a North American EV charging network](https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network)
- - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
- - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)<!-- TECH:END -->
+ - [CD Projekt Red is laying off about 9 percent of its staff](https://www.theverge.com/2023/7/26/23808484/cd-projekt-red-cdpr-layoffs)
+ - [This Convenient Dyson Stick Vacuum Is $150 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-convenient-dyson-stick-vacuum-is-150-off-for-today-only-at-best-buy/#ftag=CAD590a51e)
+ - [Samsung Galaxy Tab S9 Preorder Deals: Up to $650 Off and a Free Storage Upgrade     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-preorder-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
