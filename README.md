@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mythforce and eight classic fantasy RPGs cost $30 at Humble](https://www.polygon.com/deals/23808524/humble-bundle-mythforce-pre-order-baldurs-gate-deal-sale)
- - [All Kehjistan Stronghold locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23806080/stronghold-locations-kehjistan-alcarnus-altar-ruin-omaths-redoubt)
- - [All Hawezar Stronghold locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23806036/stronghold-locations-hawezar-crusaders-monument-erimans-pyre-vyeresz)<!-- GAME:END -->
+ - [The 4K Blu-ray remaster of Batman: Mask of the Phantasm is now up for pre-order](https://www.polygon.com/deals/23808769/batman-mask-of-the-phantasm-4k-blu-ray-pre-order-digital-buy)
+ - [Secret Invasion’s politics can’t be trusted](https://www.polygon.com/23807492/secret-invasion-mcu-disney-plus)
+ - [New Xbox Dashboard Looks Great, Still Has Too Many Ads](https://kotaku.com/xbox-series-x-s-dashboard-update-game-pass-ui-1850679127)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
