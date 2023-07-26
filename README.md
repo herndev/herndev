@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)
- - [Why sucking CO2 out of the atmosphere can’t undo all the effects of climate change](https://www.theverge.com/2023/7/26/23807051/climate-change-carbon-removal-desert-drought-hadley-cell-research)
- - [Microsoft, Amazon, and Meta team up to challenge Google Maps and Apple Maps](https://www.androidauthority.com/google-maps-open-source-competitor-3350194/)<!-- TECH:END -->
+ - [Does the Samsung Galaxy Z Flip 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-crease-3349870/)
+ - [The CISA warns US federal agencies to secure their systems against an Ivanti flaw that&#39;s been exploited as a zero-day to hack Norway&#39;s government systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230726/p42#a230726p42)
+ - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
