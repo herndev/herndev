@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For Elon Musk, X equals everything](https://www.theverge.com/2023/7/26/23808796/elon-musks-x-everything-app-vision)
- - [Sony brings head-tracking spatial audio to its 1000XM5 headphones](https://www.theverge.com/2023/7/26/23808899/sony-wh-1000xm5-update-head-tracking-multipoint-ldac)
- - [US prosecutors ask a judge to detain Sam Bankman-Fried over witness tampering allegations, saying he leaked Caroline Ellison&#39;s personal writings to the NYT &lpar;CNN&rpar;](http://www.techmeme.com/230726/p44#a230726p44)<!-- TECH:END -->
+ - [Meta&#39;s Reality Labs reports Q2 $3.7B operating loss, vs. $3.5B est., and expects losses to &quot;increase meaningfully&quot; due to investments in VR/AR and its ecosystem &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)
+ - [Twitter Blue’s former lead talks about Elon Musk, X, and sleeping on the floor](https://www.theverge.com/2023/7/26/23809035/twitter-blue-x-esther-crawford-video-tweet-elon-musk)
+ - [eBay reports Q2 revenue up 5% YoY to $2.52B, vs. $2.51B est., gross merchandise volume down 2% YoY to $18.2B, and active buyers down 4% YoY to 132M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230726/p46#a230726p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
