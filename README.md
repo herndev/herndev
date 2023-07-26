@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Fortnite heads to the future with new Futurama crossover](https://www.polygon.com/23808280/fortnite-futurama-epic-games-bender-fry-leela-skins)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
+ - [2005 called, it&#39;s asking if you want another Neopets trading card game](https://www.pcgamer.com/2005-called-its-asking-if-you-want-another-neopets-trading-card-game)
+ - [Diablo IV: How To Pick Your New Character](https://kotaku.com/diablo-4-classes-best-guide-build-necromancer-sorcerer-1850675890)
+ - [Boo, Intel&#39;s faux 14th Gen isn&#39;t going to deliver the peak cheap gaming CPU we were teased with](https://www.pcgamer.com/boo-intels-faux-14th-gen-isnt-going-to-deliver-the-peak-cheap-gaming-cpu-we-were-teased-with)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
