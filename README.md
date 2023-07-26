@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 5 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Here’s why Samsung didn’t bring an S Pen slot to the Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-no-s-pen-slot-3346439/)
- - [We have bad news if you wanted a Galaxy Z Flip 5 Bespoke edition](https://www.androidauthority.com/samsung-galaxy-z-flip-5-bespoke-3346596/)<!-- TECH:END -->
+ - [Does the Samsung Galaxy Z Fold 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-crease-3349850/)
+ - [Galaxy Z Flip 5, Z Fold 5, Watch 6, Tab 9 launches at Samsung Unpacked event](https://appleinsider.com/articles/23/07/26/samsung-launches-new-phones-watches-and-tablets-at-samsung-unpacked?utm_medium=rss)
+ - [A Russian court convicts Group-IB co-founder and CEO Ilya Sachkov of treason and jails him for 14 years over allegations of passing information to spies &lpar;Reuters&rpar;](http://www.techmeme.com/230726/p27#a230726p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
