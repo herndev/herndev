@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2&#39;s upscaling settings are more necessity than nicety and players aren&#39;t happy about it](https://www.pcgamer.com/remnant-2s-upscaling-settings-are-more-necessity-than-nicety-and-players-arent-happy-about-it)
- - [Cyberpunk and Witcher developer announces it&#39;s cutting &#39;roughly 9%&#39; of its staff over the next 7 months](https://www.pcgamer.com/cyberpunk-and-witcher-developer-announces-its-cutting-roughly-9-of-its-staff-over-the-next-7-months)
- - [AMD&#39;s mini Zen 4c cores explained: They&#39;re nothing like Intel&#39;s Efficient cores](https://www.pcgamer.com/amds-mini-zen-4c-cores-explained-theyre-nothing-like-intels-efficient-cores)<!-- GAME:END -->
+ - [World of Warcraft Classic feels the scourge of the WoW token as a ring is traded for $13,000 worth of in-game gold](https://www.pcgamer.com/world-of-warcraft-classic-feels-the-scourge-of-the-wow-token-as-a-ring-is-traded-for-dollar13000-worth-of-in-game-gold)
+ - [Fan outcry pushes Pathfinder dev to delete new data-sucking tool and all its info one day after introducing it: &#39;The scale of the outburst surpassed worst expectations&#39;](https://www.pcgamer.com/fan-outcry-pushes-pathfinder-dev-to-delete-new-data-sucking-tool-and-all-its-info-one-day-after-introducing-it-the-scale-of-the-outburst-surpassed-worst-expectations)
+ - [Remnant 2&#39;s upscaling settings are more necessity than nicety and players aren&#39;t happy about it](https://www.pcgamer.com/remnant-2s-upscaling-settings-are-more-necessity-than-nicety-and-players-arent-happy-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
