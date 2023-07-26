@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
- - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
- - 👉 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - ⏩ [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
 
 ---
 
