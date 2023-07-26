@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TP-Link Archer AX6000](https://www.pcgamer.com/tp-link-archer-ax6000-wifi-6-router-review)
- - [Minisforum&#39;s new mini-ITX PC lets you mount a GPU on top of the case](https://www.pcgamer.com/minisforums-new-mini-itx-pc-lets-you-mount-a-gpu-on-top-of-the-case)
- - [Today&#39;s Wordle hint and answer #767: Wednesday, July 26](https://www.pcgamer.com/wordle-answer-today-hint-767-july-26)<!-- GAME:END -->
+ - [Remnant 2&#39;s upscaling settings are more necessity than nicety and players aren&#39;t happy about it](https://www.pcgamer.com/remnant-2s-upscaling-settings-are-more-necessity-than-nicety-and-players-arent-happy-about-it)
+ - [Cyberpunk and Witcher developer announces it&#39;s cutting &#39;roughly 9%&#39; of its staff over the next 7 months](https://www.pcgamer.com/cyberpunk-and-witcher-developer-announces-its-cutting-roughly-9-of-its-staff-over-the-next-7-months)
+ - [AMD&#39;s mini Zen 4c cores explained: They&#39;re nothing like Intel&#39;s Efficient cores](https://www.pcgamer.com/amds-mini-zen-4c-cores-explained-theyre-nothing-like-intels-efficient-cores)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
