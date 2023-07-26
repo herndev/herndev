@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - ⏩ [Kevin Spacey was acquitted of all sex offense charges, Kevin Spacey after court:](http://9gag.com/gag/aPgnQ4R)
- - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
+ - 💣 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - ⏩ [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
+ - 👉 [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)<!-- MEMES:END -->
 
 ---
 
