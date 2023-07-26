@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
- - ⏩ [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - ⏩ [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
  - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
 
 ---
