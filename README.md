@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 4K Blu-ray remaster of Batman: Mask of the Phantasm is now up for pre-order](https://www.polygon.com/deals/23808769/batman-mask-of-the-phantasm-4k-blu-ray-pre-order-digital-buy)
- - [Secret Invasion’s politics can’t be trusted](https://www.polygon.com/23807492/secret-invasion-mcu-disney-plus)
- - [New Xbox Dashboard Looks Great, Still Has Too Many Ads](https://kotaku.com/xbox-series-x-s-dashboard-update-game-pass-ui-1850679127)<!-- GAME:END -->
+ - [Reddit’s 2023 r/Place turned into a battleground for dunking on the CEO](https://www.polygon.com/23808718/reddit-r-place-fuck-spez-ceo-protest-steve-huffman)
+ - [Blizzard buzzkills fix Diablo 4&#39;s best bug](https://www.pcgamer.com/blizzard-buzzkills-fix-diablo-4s-best-bug)
+ - [The Lore Behind There Is No Light, a Brutal Action-Adventure RPG](https://news.xbox.com/en-us/2023/07/26/the-lore-behind-there-is-no-light/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
