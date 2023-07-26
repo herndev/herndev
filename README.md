@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 26 Best Steam Deck Games](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)
- - [This new 16-player &#39;100% cooperative&#39; survival game is inspired by Valheim, Terraria, and Minecraft](https://www.pcgamer.com/this-new-16-player-100-cooperative-survival-game-is-inspired-by-valheim-terraria-and-minecraft)
- - [Ratchet &amp; Clank: Rift Apart guides](https://www.polygon.com/ratchet-clank-rift-apart-guide/22458495/collectibles-gold-bolt-armor-pod-craiggerbear-spybot-craiggerbear-trophies)<!-- GAME:END -->
+ - [Unyielding Diablo 4 player proves Sorcerers aren’t as bad as you thought](https://www.pcgamer.com/unyielding-diablo-4-player-proves-sorcerers-arent-as-bad-as-you-thought)
+ - [Life By You, Paradox&#39;s open-world Sims-like game, is delayed to 2024](https://www.pcgamer.com/life-by-you-paradoxs-open-world-sims-like-game-is-delayed-to-2024)
+ - [It&#39;s Glorbin&#39; Time again! Now Destiny 2 players have tricked an AI site using the fake boss Glorbo](https://www.pcgamer.com/its-glorbin-time-again-now-destiny-2-players-have-tricked-an-ai-site-using-the-fake-boss-glorbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
