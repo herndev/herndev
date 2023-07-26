@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
- - ⏩ [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
- - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
+ - 💣 [Why are you rr\u00fcnning](http://9gag.com/gag/ay2P34M)
+ - ⏩ [Outsmarted by the 7-11 Girl](http://9gag.com/gag/aDYM8L9)
+ - 👉 [Welcome to Night City](http://9gag.com/gag/aWG97Ox)<!-- MEMES:END -->
 
 ---
 
