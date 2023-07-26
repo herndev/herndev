@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus offers Dreams, Death’s Door, and more in August](https://www.polygon.com/23808521/playstation-plus-august-2023-free-games)
- - [The 11 Best Futurama Episodes Of All Time](https://kotaku.com/futurama-best-top-10-episodes-ever-jurassic-bark-hulu-1850497808)
- - [Final Fantasy XVI Devs Are So Over The Trolls](https://kotaku.com/ff16-naoki-yoshida-troll-toxic-gamers-negative-comments-1850678166)<!-- GAME:END -->
+ - [The Little Big Adventure reboot has been cancelled because publishers just aren&#39;t interested](https://www.pcgamer.com/the-little-big-adventure-reboot-has-been-cancelled-because-publishers-just-arent-interested)
+ - [Baldur&#39;s Gate 3&#39;s narrator shares hilarious outtakes reel—&#39;If you fancy Astarion, you might want to consider therapy&#39;](https://www.pcgamer.com/baldurs-gate-3s-narrator-shares-hilarious-outtakes-reelif-you-fancy-astarion-you-might-want-to-consider-therapy)
+ - [Despite the intense action, FromSoftware wants Armored Core 6 to have a &#39;dark old sci-fi feel&#39; with a &#39;sense of loneliness and nostalgia&#39;](https://www.pcgamer.com/despite-the-intense-action-fromsoftware-wants-armored-core-6-to-have-a-dark-old-sci-fi-feel-with-a-sense-of-loneliness-and-nostalgia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
