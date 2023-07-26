@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the Samsung Galaxy Z Fold 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-crease-3349850/)
- - [Galaxy Z Flip 5, Z Fold 5, Watch 6, Tab 9 launches at Samsung Unpacked event](https://appleinsider.com/articles/23/07/26/samsung-launches-new-phones-watches-and-tablets-at-samsung-unpacked?utm_medium=rss)
- - [A Russian court convicts Group-IB co-founder and CEO Ilya Sachkov of treason and jails him for 14 years over allegations of passing information to spies &lpar;Reuters&rpar;](http://www.techmeme.com/230726/p27#a230726p27)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)
+ - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)
+ - [Report: Google could reveal a foldable tablet at I/O 2024](https://www.androidauthority.com/google-foldable-tablet-report-2024-3350036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
