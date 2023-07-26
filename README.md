@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Microsoft, and Amazon have launched their open-source mapping project](https://www.theverge.com/2023/7/26/23808274/meta-microsoft-amazon-overture-open-source-mapping)
- - [How to preorder Samsung’s Galaxy Tab S9 tablets](https://www.theverge.com/23806287/samsungs-galaxy-tab-s9-buy-preorder-price-features)
- - [Good Omens season 2 is a lovey-dovey shipper’s delight](https://www.theverge.com/23807387/good-omens-season-2-review-amazon-prime-video)<!-- TECH:END -->
+ - [Seven major automakers are teaming up on a North American EV charging network](https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network)
+ - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
+ - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
