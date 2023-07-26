@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - ⏩ [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
+ - 💣 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
+ - ⏩ [Welcome to Night City](http://9gag.com/gag/aWG97Ox)
+ - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
 
 ---
 
