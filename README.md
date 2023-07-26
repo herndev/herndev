@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Joseph Weizenbaum, who created the first chatbot in 1966 but turned against AI, believing the computer revolution constricted our humanity &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/230726/p8#a230726p8)
  - [Last-minute leak leaves almost nothing for Samsung to Unpack](https://www.androidauthority.com/last-minute-samsung-unpacked-leak-3349810/)
- - [GitHub and others call for more open-source support in EU AI law](https://www.theverge.com/2023/7/26/23807218/github-ai-open-source-creative-commons-hugging-face-eu-regulations)
- - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)<!-- TECH:END -->
+ - [GitHub and others call for more open-source support in EU AI law](https://www.theverge.com/2023/7/26/23807218/github-ai-open-source-creative-commons-hugging-face-eu-regulations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
