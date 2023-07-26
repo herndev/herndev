@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
- - ⏩ [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)
- - 👉 [Just thoughts](http://9gag.com/gag/aL1rGK5)<!-- MEMES:END -->
+ - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - ⏩ [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Happened a few days ago in a small town in Germany where I live and so far there has been no incident... they have spread everywhere. I&#39;m not a cameraman](http://9gag.com/gag/avQmyjO)<!-- MEMES:END -->
 
 ---
 
