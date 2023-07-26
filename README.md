@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - ⏩ [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
+ - 💣 [Happened a few days ago in a small town in Germany where I live and so far there has been no incident... they have spread everywhere. I&#39;m not a cameraman](http://9gag.com/gag/avQmyjO)
+ - ⏩ [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
 
 ---
 
