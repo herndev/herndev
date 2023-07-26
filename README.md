@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2005 called, it&#39;s asking if you want another Neopets trading card game](https://www.pcgamer.com/2005-called-its-asking-if-you-want-another-neopets-trading-card-game)
- - [Diablo IV: How To Pick Your New Character](https://kotaku.com/diablo-4-classes-best-guide-build-necromancer-sorcerer-1850675890)
- - [Boo, Intel&#39;s faux 14th Gen isn&#39;t going to deliver the peak cheap gaming CPU we were teased with](https://www.pcgamer.com/boo-intels-faux-14th-gen-isnt-going-to-deliver-the-peak-cheap-gaming-cpu-we-were-teased-with)<!-- GAME:END -->
+ - [PlayStation Plus offers Dreams, Death’s Door, and more in August](https://www.polygon.com/23808521/playstation-plus-august-2023-free-games)
+ - [The 11 Best Futurama Episodes Of All Time](https://kotaku.com/futurama-best-top-10-episodes-ever-jurassic-bark-hulu-1850497808)
+ - [Final Fantasy XVI Devs Are So Over The Trolls](https://kotaku.com/ff16-naoki-yoshida-troll-toxic-gamers-negative-comments-1850678166)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
