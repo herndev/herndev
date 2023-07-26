@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says 2B+ logged-in monthly users are watching YouTube Shorts, up from 1.5B+ in June 2022, and YouTube is reaching 150M people on their TVs in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p3#a230726p3)
- - [Sources: Ant Group plans to exclude blockchain and other businesses from its financial-related unit that will be used for a Chinese financial holding license &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p2#a230726p2)
- - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)<!-- TECH:END -->
+ - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)
+ - [A look at the origins of Worldcoin&#39;s eye-scanning orb, how the company is trying to safeguard user privacy, its tokenomics, policy challenges, and more &lpar;Jeff Wilser/CoinDesk&rpar;](http://www.techmeme.com/230726/p6#a230726p6)
+ - [UNESCO calls for a global ban on smartphones in schools, saying intensive technology use negatively impacts student performance and increases disruption &lpar;The Guardian&rpar;](http://www.techmeme.com/230726/p5#a230726p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
