@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Little Big Adventure reboot has been cancelled because publishers just aren&#39;t interested](https://www.pcgamer.com/the-little-big-adventure-reboot-has-been-cancelled-because-publishers-just-arent-interested)
- - [Baldur&#39;s Gate 3&#39;s narrator shares hilarious outtakes reel—&#39;If you fancy Astarion, you might want to consider therapy&#39;](https://www.pcgamer.com/baldurs-gate-3s-narrator-shares-hilarious-outtakes-reelif-you-fancy-astarion-you-might-want-to-consider-therapy)
- - [Despite the intense action, FromSoftware wants Armored Core 6 to have a &#39;dark old sci-fi feel&#39; with a &#39;sense of loneliness and nostalgia&#39;](https://www.pcgamer.com/despite-the-intense-action-fromsoftware-wants-armored-core-6-to-have-a-dark-old-sci-fi-feel-with-a-sense-of-loneliness-and-nostalgia)<!-- GAME:END -->
+ - [Mythforce and eight classic fantasy RPGs cost $30 at Humble](https://www.polygon.com/deals/23808524/humble-bundle-mythforce-pre-order-baldurs-gate-deal-sale)
+ - [All Kehjistan Stronghold locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23806080/stronghold-locations-kehjistan-alcarnus-altar-ruin-omaths-redoubt)
+ - [All Hawezar Stronghold locations in Diablo 4](https://www.polygon.com/diablo-4-guides/23806036/stronghold-locations-hawezar-crusaders-monument-erimans-pyre-vyeresz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
