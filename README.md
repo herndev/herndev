@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: Samsung Fold 5 up to $1,000 off, $1,799 MacBook Pro 14, Apple Leather Wallet $28, $90 Thunderbolt 3 dock](https://appleinsider.com/articles/23/07/26/daily-deals-samsung-fold-5-up-to-1000-off-1799-macbook-pro-14-apple-leather-wallet-28-90-thunderbolt-3-dock?utm_medium=rss)
- - [Sources: CrowdStrike is in advanced negotiations to acquire Bionic, a security posture management platform for cloud services, for between $200M and $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p37#a230726p37)
- - [8 Best Snack Box Subscriptions, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)
+ - [Why sucking CO2 out of the atmosphere can’t undo all the effects of climate change](https://www.theverge.com/2023/7/26/23807051/climate-change-carbon-removal-desert-drought-hadley-cell-research)
+ - [Microsoft, Amazon, and Meta team up to challenge Google Maps and Apple Maps](https://www.androidauthority.com/google-maps-open-source-competitor-3350194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
