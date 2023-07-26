@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding Players Discover Troy Baker Can Bite Your Freaking Ear Off](https://kotaku.com/death-stranding-boss-fight-higgs-sam-kojima-reedus-ps5-1850680086)
- - [Riot&#39;s 2v2 fighting game Project L still doesn&#39;t have a proper title, but it&#39;ll be playable in August at Evo](https://www.pcgamer.com/riots-2v2-fighting-game-project-l-still-doesnt-have-a-proper-title-but-itll-be-playable-in-august-at-evo)
- - [Riot shows off the League of Legends fighting game’s 4-player twist](https://www.polygon.com/23808892/riot-games-project-l-league-of-legends-fighting-game-duos-2v2)<!-- GAME:END -->
+ - [The 26 Best Steam Deck Games](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)
+ - [This new 16-player &#39;100% cooperative&#39; survival game is inspired by Valheim, Terraria, and Minecraft](https://www.pcgamer.com/this-new-16-player-100-cooperative-survival-game-is-inspired-by-valheim-terraria-and-minecraft)
+ - [Ratchet &amp; Clank: Rift Apart guides](https://www.polygon.com/ratchet-clank-rift-apart-guide/22458495/collectibles-gold-bolt-armor-pod-craiggerbear-spybot-craiggerbear-trophies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
