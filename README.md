@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New SEC rules put a time limit on reporting hacks and data breaches](https://www.theverge.com/2023/7/26/23808943/sec-cybersecurity-public-companies-hacks-data-breaches)
- - [AWS is ready to power AI agents that can handle busywork instead of just chatting](https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy)
- - [Your favorite Neopets Flash games are back](https://www.theverge.com/2023/7/26/23809037/neopets-games-restored-flash-emulator)<!-- TECH:END -->
+ - [Sources: the California AG is investigating Tesla, seeking information from customers and ex-employees about Autopilot safety issues and advertising complaints &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230726/p50#a230726p50)
+ - [How to turn off the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/how-to-turn-off-samsung-galaxy-z-flip-5-3350350/)
+ - [Former Director of Product Management Esther Crawford on Twitter&#39;s culture of fear, Elon Musk&#39;s strengths and weaknesses, the sleeping bag incident, and more &lpar;@esthercrawford&rpar;](http://www.techmeme.com/230726/p49#a230726p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
