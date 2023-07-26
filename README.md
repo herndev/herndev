@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft Classic feels the scourge of the WoW token as a ring is traded for $13,000 worth of in-game gold](https://www.pcgamer.com/world-of-warcraft-classic-feels-the-scourge-of-the-wow-token-as-a-ring-is-traded-for-dollar13000-worth-of-in-game-gold)
- - [Fan outcry pushes Pathfinder dev to delete new data-sucking tool and all its info one day after introducing it: &#39;The scale of the outburst surpassed worst expectations&#39;](https://www.pcgamer.com/fan-outcry-pushes-pathfinder-dev-to-delete-new-data-sucking-tool-and-all-its-info-one-day-after-introducing-it-the-scale-of-the-outburst-surpassed-worst-expectations)
- - [Remnant 2&#39;s upscaling settings are more necessity than nicety and players aren&#39;t happy about it](https://www.pcgamer.com/remnant-2s-upscaling-settings-are-more-necessity-than-nicety-and-players-arent-happy-about-it)<!-- GAME:END -->
+ - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Fortnite heads to the future with new Futurama crossover](https://www.polygon.com/23808280/fortnite-futurama-epic-games-bender-fry-leela-skins)
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
