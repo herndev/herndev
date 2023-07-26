@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - ⏩ [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)<!-- MEMES:END -->
+ - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - ⏩ [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
 
 ---
 
