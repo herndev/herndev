@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
- - ⏩ [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - ⏩ [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
  - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
