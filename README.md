@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - ⏩ [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
- - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
+ - ⏩ [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
 
 ---
 
