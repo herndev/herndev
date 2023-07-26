@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)
- - [A look at the origins of Worldcoin&#39;s eye-scanning orb, how the company is trying to safeguard user privacy, its tokenomics, policy challenges, and more &lpar;Jeff Wilser/CoinDesk&rpar;](http://www.techmeme.com/230726/p6#a230726p6)
- - [UNESCO calls for a global ban on smartphones in schools, saying intensive technology use negatively impacts student performance and increases disruption &lpar;The Guardian&rpar;](http://www.techmeme.com/230726/p5#a230726p5)<!-- TECH:END -->
+ - [Last-minute leak leaves almost nothing for Samsung to Unpack](https://www.androidauthority.com/last-minute-samsung-unpacked-leak-3349810/)
+ - [GitHub and others call for more open-source support in EU AI law](https://www.theverge.com/2023/7/26/23807218/github-ai-open-source-creative-commons-hugging-face-eu-regulations)
+ - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
