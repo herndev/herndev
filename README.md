@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - ⏩ [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
- - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
+ - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - ⏩ [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 
