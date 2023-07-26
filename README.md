@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - ⏩ [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - ⏩ [Kevin Spacey was acquitted of all sex offense charges, Kevin Spacey after court:](http://9gag.com/gag/aPgnQ4R)
+ - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
 
 ---
 
