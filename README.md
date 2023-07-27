@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is beyond science](http://9gag.com/gag/az2QZ0N)
- - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)<!-- MEMES:END -->
+ - 💣 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
+ - ⏩ [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 👉 [Evangelion](http://9gag.com/gag/ap98A99)<!-- MEMES:END -->
 
 ---
 
