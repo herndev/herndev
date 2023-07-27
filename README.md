@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - ⏩ [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)
- - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
+ - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - ⏩ [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
 
 ---
 
