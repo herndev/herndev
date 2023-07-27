@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Holy Grail’ Funko Pop Sells For Controversial $210K](https://kotaku.com/rare-funko-pop-willy-wonka-golden-ticket-holy-grail-1850683490)
- - [Larian boss says more Divinity games are coming after Baldur&#39;s Gate 3: &#39;We&#39;re definitely gonna get back there&#39;](https://www.pcgamer.com/larian-boss-says-more-divinity-games-are-coming-after-baldurs-gate-3-were-definitely-gonna-get-back-there)
- - [Full intel on Call of Duty: Modern Warfare II and Warzone Season 05, out August 2](https://blog.playstation.com/2023/07/27/full-intel-on-call-of-duty-modern-warfare-ii-and-warzone-season-05-out-august-2/)<!-- GAME:END -->
+ - [Exclusive: Blasphemous 2 Devs On The Sequel Being A &#39;More Pure Metroidvania&#39;](https://kotaku.com/blasphemous-2-dead-cells-metroidvania-soulslike-xbox-pc-1850683645)
+ - [When will Oppenheimer come to streaming?](https://www.polygon.com/23802050/oppenheimer-watch-online-streaming-date)
+ - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
