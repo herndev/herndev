@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Prop Hunt lets players get way into inanimate object role-play](https://www.polygon.com/23810475/overwatch-2-ow2-mischief-magic-prop-hunt-mode-season-5)
- - [Chaos Erupts As Team Fortress 2 Jacks Player Count Up To 100](https://kotaku.com/tf2-team-fortress-2-valve-100-players-servers-update-pc-1850684346)
- - [The other space game I&#39;m dying to play just got an August release date](https://www.pcgamer.com/the-other-space-game-im-dying-to-play-just-got-an-august-release-date)<!-- GAME:END -->
+ - [Remnant 2 is a hit, beating everything except CS:GO on Steam&#39;s weekly top sellers list](https://www.pcgamer.com/remnant-2-is-a-hit-beating-everything-except-csgo-on-steams-weekly-top-sellers-list)
+ - [Payday 3&#39;s technical playtest starts next week on Steam](https://www.pcgamer.com/payday-3s-technical-playtest-starts-next-week-on-steam)
+ - [Nicki Minaj is coming to Call of Duty](https://www.polygon.com/23810565/nicki-minaj-call-duty-warzone-modern-warfare-2-operator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
