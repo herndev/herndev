@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #768: Thursday, July 27](https://www.pcgamer.com/wordle-answer-today-hint-768-july-27)
  - [It&#39;s pretty wild that there are still over 400 unknown spells in Baldur&#39;s Gate 3](https://www.pcgamer.com/there-are-still-over-400-unknown-spells-in-baldurs-gate-3-which-is-kind-of-wild)
- - [Be a witch and design your own tarot in The Cosmic Wheel Sisterhood, out in August](https://www.pcgamer.com/be-a-witch-and-design-your-own-tarot-in-the-cosmic-wheel-sisterhood-out-in-august)
- - [Unyielding Diablo 4 player proves Sorcerers aren’t as bad as you thought](https://www.pcgamer.com/unyielding-diablo-4-player-proves-sorcerers-arent-as-bad-as-you-thought)<!-- GAME:END -->
+ - [Be a witch and design your own tarot in The Cosmic Wheel Sisterhood, out in August](https://www.pcgamer.com/be-a-witch-and-design-your-own-tarot-in-the-cosmic-wheel-sisterhood-out-in-august)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
