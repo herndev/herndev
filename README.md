@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
- - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
- - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
+ - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 👉 [You are welcome!](http://9gag.com/gag/aZDv8Q9)<!-- MEMES:END -->
 
 ---
 
