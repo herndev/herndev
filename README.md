@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
- - [More Battlefield AI Will Make the Fog of War More Deadly](https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/)
- - [WhatsApp introduces end-to-end encrypted 60 second instant video messages](https://www.androidauthority.com/whatsapp-instant-video-feature-3350674/)<!-- TECH:END -->
+ - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)
+ - [What is overclocking on a PC? Is it worth overclocking your computer?](https://www.androidauthority.com/what-is-overclocking-3346893/)
+ - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
