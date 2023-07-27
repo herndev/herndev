@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Linda Yaccarino pitched her vision for Twitter/X to talent agencies in LA and met with Disney, in a bid to bring stars and influencers to the platform &lpar;Financial Times&rpar;](http://www.techmeme.com/230726/p55#a230726p55)
- - [The best Samsung Galaxy Tab S9 Ultra cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-ultra-cases-3350383/)
- - [Samsung Electronics reports 95% profit drop for Q2 2023](https://appleinsider.com/articles/23/07/27/samsung-electronics-reports-95-profit-drop-for-q2-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix lists a $900K-a-year AI product manager job that points to the company&#39;s plans to use AI to &quot;create great content&quot;, as actors strike for AI protections &lpar;Ken Klippenstein/The Intercept&rpar;](http://www.techmeme.com/230726/p57#a230726p57)
+ - [London-based AutogenAI, which offers a generative AI tool for writing bids and pitches, raised $22.3M; source: the valuation was in the &quot;hundreds of millions&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p56#a230726p56)
+ - [Sources: Linda Yaccarino pitched her vision for Twitter/X to talent agencies in LA and met with Disney, in a bid to bring stars and influencers to the platform &lpar;Financial Times&rpar;](http://www.techmeme.com/230726/p55#a230726p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
