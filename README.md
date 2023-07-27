@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers need to measure their heads before they can receive an Apple Vision Pro dev kit](https://appleinsider.com/articles/23/07/27/developers-need-to-measure-their-heads-before-they-can-receive-an-apple-vision-pro-dev-kit?utm_medium=rss)
- - [Lionel Messi is already giving Apple’s MLS streaming service a boost](https://www.theverge.com/2023/7/27/23810301/lionel-messi-viewers-mls-apple-tv)
- - [Mark Zuckerberg isn’t being held in contempt of Congress after all](https://www.theverge.com/2023/7/27/23809960/facebook-meta-mark-zuckerbeg-contempt-jordan-white-house)<!-- TECH:END -->
+ - [Apple&#39;s Next iPhone Could Have an &#39;Action&#39; Button     - CNET](https://www.cnet.com/tech/services-and-software/apples-next-iphone-could-have-an-action-button/#ftag=CAD590a51e)
+ - [Roku reports Q2 revenue up 11% YoY to $847.2M, vs. $773.5M est., platform revenue up 11% YoY to $744M, and active accounts up 16% YoY to 73.5M; ROKU jumps 8%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230727/p31#a230727p31)
+ - [Galaxy S23 could get a taste of Android 14 as soon as next week](https://www.androidauthority.com/android-14-one-ui-6-galaxy-s23-3350787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
