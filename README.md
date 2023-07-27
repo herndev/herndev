@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - ⏩ [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
+ - 💣 [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 👉 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)<!-- MEMES:END -->
 
 ---
 
