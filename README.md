@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for August 2023](https://news.xbox.com/en-us/2023/07/27/games-with-gold-for-august-2023/)
- - [Baldur’s Gate 3 could be the next coming of the ‘BioWare RPG’](https://www.polygon.com/23808786/baldurs-gate-3-bioware-rpg-larian-studios-companions-romance)
- - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)<!-- GAME:END -->
+ - [Free Play Days – For Honor, Tropico 6, Disney Speedstorm, and Deceive Inc.](https://news.xbox.com/en-us/2023/07/27/free-play-days-for-honor-tropico-6-disney-speedstorm-and-deceive-inc/)
+ - [The Witcher season 3’s big twist was part Met Gala, part Red Wedding, and all details](https://www.polygon.com/23807861/witcher-season-3-henry-cavill-battle-episode)
+ - [Nickelodeon&#39;s Smash Bros-Like Gets Sequel With New Characters, Story Mode](https://kotaku.com/nickelodeon-all-star-brawl-2-new-characters-trailer-1850682210)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
