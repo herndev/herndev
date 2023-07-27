@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 3 changes Ciri’s book plot and takes away her best moment](https://www.polygon.com/23808779/witcher-season-3-ciri-book-story-changes-desert-falka)
- - [Payday 3’s closed beta is happening Aug. 2, and you can register to play now](https://www.polygon.com/23809994/payday-3-closed-beta-xbox-steam-dates)
- - [New Mickey Mouse Platformer Is A Great Metroidvania That Ditches Combat](https://kotaku.com/disney-illusion-island-mickey-mouse-platformer-switch-1850682828)<!-- GAME:END -->
+ - [New SEC regulations will force any public games company in the US to disclose &#39;material&#39; hacks within four days](https://www.pcgamer.com/new-sec-regulations-will-force-any-public-games-company-in-the-us-to-disclose-material-hacks-within-four-days)
+ - [Pikachu Happy Meals — and 15 new cards — are reportedly coming to McDonald’s soon](https://www.polygon.com/23810129/pokemon-cards-mcdonalds-collab-august-2023)
+ - [Twitch Star xQc Could Be Replaced By His Own AI](https://kotaku.com/twitch-streamer-felix-xqc-lengyel-ai-only-up-kick-1850683118)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
