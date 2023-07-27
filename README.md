@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - ⏩ [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
- - 👉 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)<!-- MEMES:END -->
+ - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
 
 ---
 
