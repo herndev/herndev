@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - ⏩ [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
+ - 💣 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
+ - ⏩ [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
 
 ---
 
