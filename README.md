@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - ⏩ [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 👉 [Evangelion](http://9gag.com/gag/ap98A99)<!-- MEMES:END -->
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - ⏩ [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 👉 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)<!-- MEMES:END -->
 
 ---
 
