@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Checked his phone](http://9gag.com/gag/aYVmOAO)
- - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)<!-- MEMES:END -->
+ - 💣 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - ⏩ [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
 
 ---
 
