@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)
- - [Cooler Master Motion 1 Review: Feel the Game](https://www.wired.com/review/cooler-master-motion-1-gaming-chair/)
- - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)<!-- TECH:END -->
+ - [Sony has sold over 40M PS5s since its launch in November 2020, up from 10M in July 2021, despite the &quot;unprecedented challenges of COVID&quot; and supply chain issues &lpar;The Verge&rpar;](http://www.techmeme.com/230727/p21#a230727p21)
+ - [Samsung Galaxy Tab S9 vs Google Pixel Tablet: Which tablet should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-vs-google-pixel-tablet-3350430/)
+ - [Apple holds strong as global smartphone market keeps shrinking](https://appleinsider.com/articles/23/07/27/apple-holds-strong-as-global-smartphone-market-keeps-shrinking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
