@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ludicrously large RTX 4090 Ti is reportedly no longer happening](https://www.pcgamer.com/the-ludicrously-large-rtx-4090-ti-is-reportedly-no-longer-happening)
- - [Homeworld 3 is still a while away, but remastered versions of the classics are now free-to-keep](https://www.pcgamer.com/homeworld-3-is-still-a-while-away-but-remastered-versions-of-the-classics-are-now-free-to-keep)
- - [European Union Council approves €43 billion Chips Act](https://www.pcgamer.com/european-union-council-approves-euro43-billion-chips-act)<!-- GAME:END -->
+ - [Mountain Makalu Max](https://www.pcgamer.com/mountain-makalu-max-review)
+ - [Niantic’s Monster Hunter game launches in September](https://www.polygon.com/23809670/monster-hunter-now-release-date-pre-registration)
+ - [It&#39;s mathematically impossible to beat Humble&#39;s latest bundle of legendary CRPGs before Baldur&#39;s Gate 3 comes out](https://www.pcgamer.com/its-mathematically-impossible-to-beat-humbles-latest-bundle-of-legendary-crpgs-before-baldurs-gate-3-comes-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
