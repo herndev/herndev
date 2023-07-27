@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen 145W Power Bank review: Portable powerhouse solution](https://appleinsider.com/articles/23/07/27/ugreen-145w-power-bank-review-portable-powerhouse-solution?utm_medium=rss)
- - [Indian political parties court big and small social media influencers ahead of the 2024 elections, offering to pay for political messages with no disclosures &lpar;Srishti Jaswal/Rest of World&rpar;](http://www.techmeme.com/230727/p12#a230727p12)
- - [Apple, Meta, Google appeal against casino app ruling that calls them &#39;bookies&#39;](https://appleinsider.com/articles/23/07/27/apple-meta-google-appeal-against-casino-app-ruling-that-calls-them-bookies?utm_medium=rss)<!-- TECH:END -->
+ - [Hollywood’s Strikes Will Disrupt Podcasts, Games, and TikTok Too](https://www.wired.com/story/gadget-lab-podcast-606/)
+ - [To Watermark AI, It Needs Its Own Alphabet](https://www.wired.com/story/to-watermark-ai-it-needs-its-own-alphabet/)
+ - [A Patient May Be Free of HIV, Thanks to This Drug](https://www.wired.com/story/a-patient-may-be-free-of-hiv-thanks-to-this-drug/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
