@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why James May doesn&#39;t like his Tesla](http://9gag.com/gag/aA0ZMR0)
- - ⏩ [Facts](http://9gag.com/gag/aEqEopn)
- - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
+ - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - ⏩ [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
+ - 👉 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)<!-- MEMES:END -->
 
 ---
 
