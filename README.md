@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 6 vs Galaxy Watch 3: Time for an upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-galaxy-watch-3-3350100/)
- - [WhatsApp adds a quicker way to send short videos to your friends](https://www.theverge.com/2023/7/27/23809857/whatsapp-video-messages-announced-meta)
- - [The ad-free Kindle Paperwhite Kids is $55 off](https://www.theverge.com/2023/7/27/23809058/kindle-paperwhite-kids-samsung-galaxy-z-flip-5-z-fold-5-sonos-arc-deal-sale)<!-- TECH:END -->
+ - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
+ - [More Battlefield AI Will Make the Fog of War More Deadly](https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/)
+ - [WhatsApp introduces end-to-end encrypted 60 second instant video messages](https://www.androidauthority.com/whatsapp-instant-video-feature-3350674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
