@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - ⏩ [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - ⏩ [Facts](http://9gag.com/gag/aEqEopn)
+ - 👉 [Why James May doesn&#39;t like his Tesla](http://9gag.com/gag/aA0ZMR0)<!-- MEMES:END -->
 
 ---
 
