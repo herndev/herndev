@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Homeworld 3 is still a while away, but remastered versions of the classics are now free-to-keep](https://www.pcgamer.com/homeworld-3-is-still-a-while-away-but-remastered-versions-of-the-classics-are-now-free-to-keep)
  - [European Union Council approves €43 billion Chips Act](https://www.pcgamer.com/european-union-council-approves-euro43-billion-chips-act)
- - [Today&#39;s Wordle hint and answer #768: Thursday, July 27](https://www.pcgamer.com/wordle-answer-today-hint-768-july-27)
- - [It&#39;s pretty wild that there are still over 400 unknown spells in Baldur&#39;s Gate 3](https://www.pcgamer.com/there-are-still-over-400-unknown-spells-in-baldurs-gate-3-which-is-kind-of-wild)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #768: Thursday, July 27](https://www.pcgamer.com/wordle-answer-today-hint-768-july-27)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
