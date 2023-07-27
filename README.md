@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve adds 100-player support to Team Fortress 2, immediately tells people not to use it](https://www.pcgamer.com/valve-adds-100-player-support-to-team-fortress-2-immediately-tells-people-not-to-use-it)
- - [Over a year after Elden Ring&#39;s launch, FromSoftware keeps tweaking it more than any Souls game ever](https://www.pcgamer.com/over-a-year-after-elden-rings-launch-fromsoftware-keeps-tweaking-it-more-than-any-souls-game-ever)
- - [Exclusive: Blasphemous 2 Devs On The Sequel Being A &#39;More Pure Metroidvania&#39;](https://kotaku.com/blasphemous-2-dead-cells-metroidvania-soulslike-xbox-pc-1850683645)<!-- GAME:END -->
+ - [Overwatch 2’s Prop Hunt lets players get way into inanimate object role-play](https://www.polygon.com/23810475/overwatch-2-ow2-mischief-magic-prop-hunt-mode-season-5)
+ - [Chaos Erupts As Team Fortress 2 Jacks Player Count Up To 100](https://kotaku.com/tf2-team-fortress-2-valve-100-players-servers-update-pc-1850684346)
+ - [The other space game I&#39;m dying to play just got an August release date](https://www.pcgamer.com/the-other-space-game-im-dying-to-play-just-got-an-august-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
