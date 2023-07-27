@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The ludicrously large RTX 4090 Ti is reportedly no longer happening](https://www.pcgamer.com/the-ludicrously-large-rtx-4090-ti-is-reportedly-no-longer-happening)
  - [Homeworld 3 is still a while away, but remastered versions of the classics are now free-to-keep](https://www.pcgamer.com/homeworld-3-is-still-a-while-away-but-remastered-versions-of-the-classics-are-now-free-to-keep)
- - [European Union Council approves €43 billion Chips Act](https://www.pcgamer.com/european-union-council-approves-euro43-billion-chips-act)
- - [Today&#39;s Wordle hint and answer #768: Thursday, July 27](https://www.pcgamer.com/wordle-answer-today-hint-768-july-27)<!-- GAME:END -->
+ - [European Union Council approves €43 billion Chips Act](https://www.pcgamer.com/european-union-council-approves-euro43-billion-chips-act)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
