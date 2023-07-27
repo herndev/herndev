@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
- - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [You are welcome!](http://9gag.com/gag/aZDv8Q9)<!-- MEMES:END -->
+ - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - ⏩ [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
 
 ---
 
