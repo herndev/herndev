@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A postmortem of Neeva, which tried to build a faster, simpler, and ad-free search engine, and how default search engine choices reinforce Google&#39;s dominance &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230727/p6#a230727p6)
  - [Xiaomi reveals first Mix Fold 3 details: Everything the Z Fold 5 isn’t?](https://www.androidauthority.com/xiaomi-mix-fold-3-details-3349820/)
- - [Download the Samsung Galaxy Z Flip 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-flip-5-wallpapers-3350497/)
- - [The best Galaxy Z Flip 5 chargers you can buy](https://www.androidauthority.com/best-galaxy-z-flip-5-chargers-3349489/)<!-- TECH:END -->
+ - [Download the Samsung Galaxy Z Flip 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-flip-5-wallpapers-3350497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
