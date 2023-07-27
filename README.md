@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exclusive: Blasphemous 2 Devs On The Sequel Being A &#39;More Pure Metroidvania&#39;](https://kotaku.com/blasphemous-2-dead-cells-metroidvania-soulslike-xbox-pc-1850683645)
- - [When will Oppenheimer come to streaming?](https://www.polygon.com/23802050/oppenheimer-watch-online-streaming-date)
- - [When and where Barbie will be streaming](https://www.polygon.com/23801705/barbie-watch-online-streaming-release-date-max)<!-- GAME:END -->
+ - [Valve adds 100-player support to Team Fortress 2, immediately tells people not to use it](https://www.pcgamer.com/valve-adds-100-player-support-to-team-fortress-2-immediately-tells-people-not-to-use-it)
+ - [Over a year after Elden Ring&#39;s launch, FromSoftware keeps tweaking it more than any Souls game ever](https://www.pcgamer.com/over-a-year-after-elden-rings-launch-fromsoftware-keeps-tweaking-it-more-than-any-souls-game-ever)
+ - [Exclusive: Blasphemous 2 Devs On The Sequel Being A &#39;More Pure Metroidvania&#39;](https://kotaku.com/blasphemous-2-dead-cells-metroidvania-soulslike-xbox-pc-1850683645)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
