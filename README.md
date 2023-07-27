@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New SEC regulations will force any public games company in the US to disclose &#39;material&#39; hacks within four days](https://www.pcgamer.com/new-sec-regulations-will-force-any-public-games-company-in-the-us-to-disclose-material-hacks-within-four-days)
- - [Pikachu Happy Meals — and 15 new cards — are reportedly coming to McDonald’s soon](https://www.polygon.com/23810129/pokemon-cards-mcdonalds-collab-august-2023)
- - [Twitch Star xQc Could Be Replaced By His Own AI](https://kotaku.com/twitch-streamer-felix-xqc-lengyel-ai-only-up-kick-1850683118)<!-- GAME:END -->
+ - [‘Holy Grail’ Funko Pop Sells For Controversial $210K](https://kotaku.com/rare-funko-pop-willy-wonka-golden-ticket-holy-grail-1850683490)
+ - [Larian boss says more Divinity games are coming after Baldur&#39;s Gate 3: &#39;We&#39;re definitely gonna get back there&#39;](https://www.pcgamer.com/larian-boss-says-more-divinity-games-are-coming-after-baldurs-gate-3-were-definitely-gonna-get-back-there)
+ - [Full intel on Call of Duty: Modern Warfare II and Warzone Season 05, out August 2](https://blog.playstation.com/2023/07/27/full-intel-on-call-of-duty-modern-warfare-ii-and-warzone-season-05-out-august-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
