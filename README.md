@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A postmortem of Neeva, which tried to build a faster, simpler, and ad-free search engine, and how default search engine choices reinforce Google&#39;s dominance &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230727/p6#a230727p6)
- - [Xiaomi reveals first Mix Fold 3 details: Everything the Z Fold 5 isn’t?](https://www.androidauthority.com/xiaomi-mix-fold-3-details-3349820/)
- - [Download the Samsung Galaxy Z Flip 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-flip-5-wallpapers-3350497/)<!-- TECH:END -->
+ - [AWS VP Swami Sivasubramanian says thousands of customers, including Sony and Ryanair, have tried its AI services suite Bedrock ahead of a wider roll out &quot;soon&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/230727/p8#a230727p8)
+ - [It’s not just you, Slack appears to be down](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)
+ - [England vs. Australia Livestream: How to Watch 5th Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/deals/england-vs-australia-livestream-how-to-watch-5th-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
