@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - ⏩ [Uhhh](http://9gag.com/gag/armzx7X)
- - 👉 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)<!-- MEMES:END -->
+ - 💣 [Checked his phone](http://9gag.com/gag/aYVmOAO)
+ - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 👉 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)<!-- MEMES:END -->
 
 ---
 
