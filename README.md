@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – For Honor, Tropico 6, Disney Speedstorm, and Deceive Inc.](https://news.xbox.com/en-us/2023/07/27/free-play-days-for-honor-tropico-6-disney-speedstorm-and-deceive-inc/)
- - [The Witcher season 3’s big twist was part Met Gala, part Red Wedding, and all details](https://www.polygon.com/23807861/witcher-season-3-henry-cavill-battle-episode)
- - [Nickelodeon&#39;s Smash Bros-Like Gets Sequel With New Characters, Story Mode](https://kotaku.com/nickelodeon-all-star-brawl-2-new-characters-trailer-1850682210)<!-- GAME:END -->
+ - [How to unlock the secret Engineer Archetype in Remnant 2](https://www.pcgamer.com/unlock-engineer-archetype-class-remnant-2)
+ - [Double Dragon Roguelite Is A Messy Blast From The Past](https://kotaku.com/double-dragon-gaiden-roguelite-arcade-hades-beat-em-up-1850682610)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
