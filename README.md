@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood’s Strikes Will Disrupt Podcasts, Games, and TikTok Too](https://www.wired.com/story/gadget-lab-podcast-606/)
- - [To Watermark AI, It Needs Its Own Alphabet](https://www.wired.com/story/to-watermark-ai-it-needs-its-own-alphabet/)
- - [A Patient May Be Free of HIV, Thanks to This Drug](https://www.wired.com/story/a-patient-may-be-free-of-hiv-thanks-to-this-drug/)<!-- TECH:END -->
+ - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)
+ - [Cooler Master Motion 1 Review: Feel the Game](https://www.wired.com/review/cooler-master-motion-1-gaming-chair/)
+ - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
