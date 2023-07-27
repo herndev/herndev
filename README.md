@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Spotlight: Enjoy Summer Vibes with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/07/27/summer-spotlight/)
- - [Blizzard issues dire permaban warning to Diablo 4 players using &#39;any game-modifying software&#39; and calls out one mod especially](https://www.pcgamer.com/blizzard-issues-dire-permaban-warning-to-diablo-4-players-using-any-game-modifying-software-and-calls-out-one-mod-especially)
- - [Over three years after release, some players are discovering this Death Stranding Easter egg for the first time](https://www.pcgamer.com/over-three-years-after-release-some-players-are-discovering-this-death-stranding-easter-egg-for-the-first-time)<!-- GAME:END -->
+ - [New Games with Gold for August 2023](https://news.xbox.com/en-us/2023/07/27/games-with-gold-for-august-2023/)
+ - [Baldur’s Gate 3 could be the next coming of the ‘BioWare RPG’](https://www.polygon.com/23808786/baldurs-gate-3-bioware-rpg-larian-studios-companions-romance)
+ - [The best anime of 2023 so far](https://www.polygon.com/what-to-watch/23593277/best-anime-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
