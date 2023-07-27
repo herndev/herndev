@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [General counsels are increasingly taking a frontline role in companies&#39; response to cyberattacks as the frequency and sophistication of security breaches grows &lpar;Kate Beioley/Financial Times&rpar;](http://www.techmeme.com/230727/p1#a230727p1)
- - [Samsung’s killer trade-in deal brings down Galaxy Z Flip 5 price to just $99](https://www.androidauthority.com/samsung-galaxy-z-flip-5-best-trade-in-deal-3350451/)
- - [Netflix lists a $900K-a-year AI product manager job that points to the company&#39;s plans to use AI to &quot;create great content&quot;, as actors strike for AI protections &lpar;Ken Klippenstein/The Intercept&rpar;](http://www.techmeme.com/230726/p57#a230726p57)<!-- TECH:END -->
+ - [The US DOJ informed a federal judge that Sam Bankman-Fried won&#39;t face the campaign finance charge, which wasn&#39;t part of an extradition document with The Bahamas &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230727/p4#a230727p4)
+ - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)
+ - [Sources: Netflix is reworking its tech deal with Microsoft for its ad tier to reduce the revenue guarantee and has discussed selling ads through other partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230727/p3#a230727p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
