@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - ⏩ [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
- - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
+ - 💣 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
+ - ⏩ [I recently made a very tasteless joke at an alopecia convention. Thankfully, it didn\u2019t raise any eyebrows.](http://9gag.com/gag/a6q82wq)
+ - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
 
 ---
 
