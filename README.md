@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mountain Makalu Max](https://www.pcgamer.com/mountain-makalu-max-review)
- - [Niantic’s Monster Hunter game launches in September](https://www.polygon.com/23809670/monster-hunter-now-release-date-pre-registration)
- - [It&#39;s mathematically impossible to beat Humble&#39;s latest bundle of legendary CRPGs before Baldur&#39;s Gate 3 comes out](https://www.pcgamer.com/its-mathematically-impossible-to-beat-humbles-latest-bundle-of-legendary-crpgs-before-baldurs-gate-3-comes-out)<!-- GAME:END -->
+ - [Summer Spotlight: Enjoy Summer Vibes with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/07/27/summer-spotlight/)
+ - [Blizzard issues dire permaban warning to Diablo 4 players using &#39;any game-modifying software&#39; and calls out one mod especially](https://www.pcgamer.com/blizzard-issues-dire-permaban-warning-to-diablo-4-players-using-any-game-modifying-software-and-calls-out-one-mod-especially)
+ - [Over three years after release, some players are discovering this Death Stranding Easter egg for the first time](https://www.pcgamer.com/over-three-years-after-release-some-players-are-discovering-this-death-stranding-easter-egg-for-the-first-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
