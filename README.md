@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
+ - ⏩ [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
  - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
 
 ---
