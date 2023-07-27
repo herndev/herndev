@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the secret Engineer Archetype in Remnant 2](https://www.pcgamer.com/unlock-engineer-archetype-class-remnant-2)
- - [Double Dragon Roguelite Is A Messy Blast From The Past](https://kotaku.com/double-dragon-gaiden-roguelite-arcade-hades-beat-em-up-1850682610)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
+ - [The Witcher season 3 changes Ciri’s book plot and takes away her best moment](https://www.polygon.com/23808779/witcher-season-3-ciri-book-story-changes-desert-falka)
+ - [Payday 3’s closed beta is happening Aug. 2, and you can register to play now](https://www.polygon.com/23809994/payday-3-closed-beta-xbox-steam-dates)
+ - [New Mickey Mouse Platformer Is A Great Metroidvania That Ditches Combat](https://kotaku.com/disney-illusion-island-mickey-mouse-platformer-switch-1850682828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
