@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [European Union Council approves €43 billion Chips Act](https://www.pcgamer.com/european-union-council-approves-euro43-billion-chips-act)
  - [Today&#39;s Wordle hint and answer #768: Thursday, July 27](https://www.pcgamer.com/wordle-answer-today-hint-768-july-27)
- - [It&#39;s pretty wild that there are still over 400 unknown spells in Baldur&#39;s Gate 3](https://www.pcgamer.com/there-are-still-over-400-unknown-spells-in-baldurs-gate-3-which-is-kind-of-wild)
- - [Be a witch and design your own tarot in The Cosmic Wheel Sisterhood, out in August](https://www.pcgamer.com/be-a-witch-and-design-your-own-tarot-in-the-cosmic-wheel-sisterhood-out-in-august)<!-- GAME:END -->
+ - [It&#39;s pretty wild that there are still over 400 unknown spells in Baldur&#39;s Gate 3](https://www.pcgamer.com/there-are-still-over-400-unknown-spells-in-baldurs-gate-3-which-is-kind-of-wild)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
