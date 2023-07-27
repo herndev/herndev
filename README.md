@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unyielding Diablo 4 player proves Sorcerers aren’t as bad as you thought](https://www.pcgamer.com/unyielding-diablo-4-player-proves-sorcerers-arent-as-bad-as-you-thought)
- - [Life By You, Paradox&#39;s open-world Sims-like game, is delayed to 2024](https://www.pcgamer.com/life-by-you-paradoxs-open-world-sims-like-game-is-delayed-to-2024)
- - [It&#39;s Glorbin&#39; Time again! Now Destiny 2 players have tricked an AI site using the fake boss Glorbo](https://www.pcgamer.com/its-glorbin-time-again-now-destiny-2-players-have-tricked-an-ai-site-using-the-fake-boss-glorbo)<!-- GAME:END -->
+ - [It&#39;s pretty wild that there are still over 400 unknown spells in Baldur&#39;s Gate 3](https://www.pcgamer.com/there-are-still-over-400-unknown-spells-in-baldurs-gate-3-which-is-kind-of-wild)
+ - [Be a witch and design your own tarot in The Cosmic Wheel Sisterhood, out in August](https://www.pcgamer.com/be-a-witch-and-design-your-own-tarot-in-the-cosmic-wheel-sisterhood-out-in-august)
+ - [Unyielding Diablo 4 player proves Sorcerers aren’t as bad as you thought](https://www.pcgamer.com/unyielding-diablo-4-player-proves-sorcerers-arent-as-bad-as-you-thought)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
