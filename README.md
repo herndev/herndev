@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ informed a federal judge that Sam Bankman-Fried won&#39;t face the campaign finance charge, which wasn&#39;t part of an extradition document with The Bahamas &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230727/p4#a230727p4)
- - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)
- - [Sources: Netflix is reworking its tech deal with Microsoft for its ad tier to reduce the revenue guarantee and has discussed selling ads through other partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230727/p3#a230727p3)<!-- TECH:END -->
+ - [The best Galaxy Z Flip 5 chargers you can buy](https://www.androidauthority.com/best-galaxy-z-flip-5-chargers-3349489/)
+ - [Download the Samsung Galaxy Z Fold 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-fold-5-wallpapers-3350463/)
+ - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
