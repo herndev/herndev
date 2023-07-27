@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In four new studies with collaboration from Meta, researchers find Facebook&#39;s algorithm is &quot;influential&quot; but doesn&#39;t necessarily change beliefs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p28#a230727p28)
- - [Google is rolling out an Android feature to prevent unwanted Bluetooth tracking](https://www.androidauthority.com/unknown-tracker-alerts-rollout-3350756/)
- - [LinkedIn seems to be working on an AI ‘coach’ for job applications](https://www.theverge.com/2023/7/27/23810141/linkedin-coach-ai-assistant-chatbot-leak)<!-- TECH:END -->
+ - [Developers need to measure their heads before they can receive an Apple Vision Pro dev kit](https://appleinsider.com/articles/23/07/27/developers-need-to-measure-their-heads-before-they-can-receive-an-apple-vision-pro-dev-kit?utm_medium=rss)
+ - [Lionel Messi is already giving Apple’s MLS streaming service a boost](https://www.theverge.com/2023/7/27/23810301/lionel-messi-viewers-mls-apple-tv)
+ - [Mark Zuckerberg isn’t being held in contempt of Congress after all](https://www.theverge.com/2023/7/27/23809960/facebook-meta-mark-zuckerbeg-contempt-jordan-white-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
