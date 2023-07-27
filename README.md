@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - ⏩ [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 👉 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)<!-- MEMES:END -->
+ - 💣 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
+ - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 👉 [You are welcome!](http://9gag.com/gag/aZDv8Q9)<!-- MEMES:END -->
 
 ---
 
