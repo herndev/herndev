@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)
- - [What is overclocking on a PC? Is it worth overclocking your computer?](https://www.androidauthority.com/what-is-overclocking-3346893/)
- - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Seattle-based Proprio, which offers a device with multiple cameras and a display that shows real-time 3D visualization of surgery, raised a $43M Series B &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230727/p27#a230727p27)
+ - [Elon Musk says Twitter will soon only offer dark mode because it’s “better in every way”](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)
+ - [Adobe adds Firefly-powered Generative Expand option to Photoshop beta](https://appleinsider.com/articles/23/07/27/adobe-adds-firefly-powered-generative-expand-option-to-photoshop-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
