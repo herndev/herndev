@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 👉 [You are welcome!](http://9gag.com/gag/aZDv8Q9)<!-- MEMES:END -->
+ - 💣 [*sigh* maybe in another life....](http://9gag.com/gag/ap98YqW)
+ - ⏩ [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
+ - 👉 [Rich people in submarines](http://9gag.com/gag/awZvYXB)<!-- MEMES:END -->
 
 ---
 
