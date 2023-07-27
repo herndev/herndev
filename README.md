@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*sigh* maybe in another life....](http://9gag.com/gag/ap98YqW)
- - ⏩ [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 👉 [Rich people in submarines](http://9gag.com/gag/awZvYXB)<!-- MEMES:END -->
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - ⏩ [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 
