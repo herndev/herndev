@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg thinks Threads could be Meta’s next social network with 1 billion users](https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users)
- - [Tesla under investigation in California over Autopilot safety issues and false advertising](https://www.theverge.com/2023/7/26/23809183/tesla-autopilot-investigation-false-advertising-california-attorney-general)
- - [Meta says Facebook surpassed 3B MAUs for the first time, increasing 3% YoY as of June 30, 2023, while family monthly active people grew 6% YoY to 3.88B &lpar;Scott Nover/Quartz&rpar;](http://www.techmeme.com/230726/p51#a230726p51)<!-- TECH:END -->
+ - [Samsung reports Q2 revenue of ~$47.21B, a 22% YoY drop and below analyst expectations of ~$47.7B, and operating profit of ~$525M, a 95% YoY drop &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230726/p53#a230726p53)
+ - [New Apple Vision Pro details emerge from visionOS beta 2](https://appleinsider.com/articles/23/07/27/new-apple-vision-pro-details-emerge-from-visionos-beta-2?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5 Hands-On: Bigger Display, More Personal Customizations     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-hands-on-bigger-display-more-personal-customizations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
