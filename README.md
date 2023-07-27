@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
- - ⏩ [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 👉 [Would](http://9gag.com/gag/aGEbBvK)<!-- MEMES:END -->
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - ⏩ [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
 
 ---
 
