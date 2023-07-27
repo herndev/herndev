@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - ⏩ [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
+ - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
+ - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
+ - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
 
