@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s The Big Overhaul Diablo IV&#39;s Getting After That Hated Patch](https://kotaku.com/diablo-4-news-1-1-1-patch-notes-barbarian-teleport-1850688032)
- - [Final Fantasy 14’s next expansion is a vacation for Warriors of Light](https://www.polygon.com/23811679/final-fantasy-14-dawntrail-expansion-2024-release-date-ff14)
- - [Diablo 4&#39;s next patch will finally give Sorcerers and Barbarians the buffs they need](https://www.pcgamer.com/diablo-4-patch-1-1-1-notes-buff-sorcerer-barbarian)<!-- GAME:END -->
+ - [Activision Sues Popular YouTube Music Critic After He Tried Charging For TikTok Clip](https://kotaku.com/activision-blizzard-anthony-needledrop-fantano-lawsuit-1850687909)
+ - [Final Fantasy XIV Is Adding Fall Guys-Inspired Mini-Games](https://kotaku.com/ff14-final-fantasy-xiv-fan-fest-fall-guys-crossover-pc-1850688107)
+ - [Diablo 4 players are using a trick from 1997 to kill The Butcher](https://www.pcgamer.com/diablo-4-players-are-using-a-trick-from-1997-to-kill-the-butcher)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
