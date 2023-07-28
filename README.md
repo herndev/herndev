@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2 is a hit, beating everything except CS:GO on Steam&#39;s weekly top sellers list](https://www.pcgamer.com/remnant-2-is-a-hit-beating-everything-except-csgo-on-steams-weekly-top-sellers-list)
- - [Payday 3&#39;s technical playtest starts next week on Steam](https://www.pcgamer.com/payday-3s-technical-playtest-starts-next-week-on-steam)
- - [Nicki Minaj is coming to Call of Duty](https://www.polygon.com/23810565/nicki-minaj-call-duty-warzone-modern-warfare-2-operator)<!-- GAME:END -->
+ - [Starfield crafting and research: How to DIY in Bethesda&#39;s space RPG](https://www.pcgamer.com/starfield-crafting-guide)
+ - [Starfield outposts guide: Making your ideal home in space](https://www.pcgamer.com/starfield-outposts-guide)
+ - [Remnant 2 is a hit, beating everything except CS:GO on Steam&#39;s weekly top sellers list](https://www.pcgamer.com/remnant-2-is-a-hit-beating-everything-except-csgo-on-steams-weekly-top-sellers-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
