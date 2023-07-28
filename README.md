@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attack from behind](http://9gag.com/gag/aDYMV09)
- - ⏩ [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
+ - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - ⏩ [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
 
 ---
 
