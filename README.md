@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - ⏩ [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 💣 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - ⏩ [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
 
 ---
 
