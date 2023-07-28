@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - ⏩ [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
- - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
+ - 💣 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - ⏩ [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
 
 ---
 
