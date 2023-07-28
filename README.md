@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield crafting and research: How to DIY in Bethesda&#39;s space RPG](https://www.pcgamer.com/starfield-crafting-guide)
- - [Starfield outposts guide: Making your ideal home in space](https://www.pcgamer.com/starfield-outposts-guide)
- - [Remnant 2 is a hit, beating everything except CS:GO on Steam&#39;s weekly top sellers list](https://www.pcgamer.com/remnant-2-is-a-hit-beating-everything-except-csgo-on-steams-weekly-top-sellers-list)<!-- GAME:END -->
+ - [AMD officially launches mobile X3D gaming chip exclusively in just one laptop &#39;for the foreseeable future&#39;](https://www.pcgamer.com/amd-officially-launches-mobile-x3d-gaming-chip-exclusively-in-just-one-laptop-for-the-foreseeable-future)
+ - [Witches in outer space: the &#39;magic spark&#39; that became tarot-crafting narrative game The Cosmic Wheel Sisterhood](https://www.pcgamer.com/witches-in-outer-space-the-magic-spark-that-became-tarot-crafting-narrative-game-the-cosmic-wheel-sisterhood)
+ - [Every Baldur&#39;s Gate 3 spell confirmed so far](https://www.pcgamer.com/baldurs-gate-3-spell-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
