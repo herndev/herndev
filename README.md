@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 31 to August 4](https://news.xbox.com/en-us/2023/07/28/next-week-on-xbox-new-games-for-july-31-to-august-04/)
- - [Final Fantasy 14 charity speedrun turns into a 23-hour marathon, as donators give $20 for the chance to lay down commands its players have to follow](https://www.pcgamer.com/final-fantasy-14-charity-speedrun-turns-into-a-23-hour-marathon-as-donators-give-dollar20-for-the-chance-to-lay-down-commands-its-players-have-to-follow)
- - [The 50% off sale on Criterion Collection Blu-rays and box sets ends today](https://www.polygon.com/deals/23802802/best-gaming-deals-entertainment-blu-ray-criterion-collection-sega-genesis-games)<!-- GAME:END -->
+ - [Hello Kitty Island Adventure is for Animal Crossing fans with wanderlust](https://www.polygon.com/reviews/23810505/hello-kitty-island-adventure-review-apple-arcade-animal-crossing)
+ - [Baldur&#39;s Gate 3&#39;s shapeshifting final villain is definitely going to murder and impersonate one of your party members at some point](https://www.pcgamer.com/baldurs-gate-3s-shapeshifting-final-villain-is-definitely-going-to-murder-and-impersonate-one-of-your-party-members-at-some-point)
+ - [19 Hilarious Tears Of The Kingdom Fails](https://kotaku.com/tears-of-the-kingdom-totk-zelda-fail-ultrahand-horse-1850684816)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
