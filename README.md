@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Romero&#39;s Doom Memoir Is Full of Fascinating Details](https://www.wired.com/2023/07/geeks-guide-john-romero/)
- - [Meta&#39;s metaverse VP Vishal Shah on a reboot of Horizon Worlds, starting with a Super Rumble game, a new mobile app, and a transition from VR only to VR first &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230728/p11#a230728p11)
- - [Samsung is working on dustproofing its foldables](https://www.theverge.com/2023/7/28/23811115/samsung-galaxy-z-fold-flip-dustproof-rating-tm-roh)<!-- TECH:END -->
+ - [Stop filming concerts](https://www.theverge.com/23811133/instagram-stories-iphone-concert-footage-sotp)
+ - [Google’s latest robot can offer you an energy drink](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai)
+ - [NASA Plus is the latest streaming competitor](https://www.theverge.com/2023/7/28/23811235/nasa-plus-streaming-service-announce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
