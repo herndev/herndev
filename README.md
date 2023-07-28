@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Glover and his brother, Stephen, are writing Disney Plus’ Lando series](https://www.theverge.com/2023/7/28/23811085/star-wars-lando-disney-plus-donald-glover-stephen)
- - [Sony’s new Spider-Man PlayStation 5 console and accessories can now be preordered](https://www.theverge.com/23811154/sony-spiderman-playstation-5-ps5-console-controller-limited-edition-preorder-availability)
- - [The 75th Emmy Awards face postponement due to Hollywood strikes](https://www.theverge.com/2023/7/28/23811069/emmy-awards-delay-hollywood-strikes)<!-- TECH:END -->
+ - [John Romero&#39;s Doom Memoir Is Full of Fascinating Details](https://www.wired.com/2023/07/geeks-guide-john-romero/)
+ - [Meta&#39;s metaverse VP Vishal Shah on a reboot of Horizon Worlds, starting with a Super Rumble game, a new mobile app, and a transition from VR only to VR first &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230728/p11#a230728p11)
+ - [Samsung is working on dustproofing its foldables](https://www.theverge.com/2023/7/28/23811115/samsung-galaxy-z-fold-flip-dustproof-rating-tm-roh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
