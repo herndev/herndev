@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel figures out how to make money again](https://www.pcgamer.com/intel-figures-out-how-to-make-money-again)
  - [Remnant 2&#39;s pricey respec costs are &#39;being looked into&#39;, says principal designer Ben Cureton](https://www.pcgamer.com/remnant-2s-pricey-respec-costs-are-being-looked-into-says-principal-designer-ben-cureton)
- - [Original Modern Warfare 2 servers yanked offline after players report self-replicating malware](https://www.pcgamer.com/original-modern-warfare-2-servers-yanked-offline-after-players-report-self-replicating-malware)
- - [All the Good Omens season 3 news we’ve heard so far](https://www.polygon.com/23810534/good-omens-season-3-release-cast-news-crowley-aziraphale-tennant-sheen)<!-- GAME:END -->
+ - [Original Modern Warfare 2 servers yanked offline after players report self-replicating malware](https://www.pcgamer.com/original-modern-warfare-2-servers-yanked-offline-after-players-report-self-replicating-malware)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
