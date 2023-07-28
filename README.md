@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 464: Clownin’ Around](https://blog.playstation.com/2023/07/28/official-playstation-podcast-episode-464-clownin-around/)
- - [Hello Kitty Life Sim Is This Summer’s Animal Crossing](https://kotaku.com/hello-kitty-island-adventure-review-animal-crossing-ios-1850687002)
- - [It took 24 years for one of the all-time best Chinese language RPGs to get an English translation, but not the one it deserves](https://www.pcgamer.com/it-took-24-years-for-one-of-the-all-time-best-chinese-language-rpgs-to-get-an-english-translation-but-not-the-one-it-deserves)<!-- GAME:END -->
+ - [Good Omens season 2’s shocking ending makes sense to David Tennant and Michael Sheen](https://www.polygon.com/23809970/good-omens-season-2-aziraphale-crowley-ending-explained)
+ - [Netflix&#39;s One Piece Live-Action Trailer Has A Treasure Trove Of Anime Easter Eggs](https://kotaku.com/one-piece-netflix-live-action-trailer-easter-eggs-1850687453)
+ - [Final Fantasy XIV Online is Coming to Xbox Series X|S in Spring 2024](https://news.xbox.com/en-us/2023/07/28/final-fantasy-14-online-coming-to-xbox-spring-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
