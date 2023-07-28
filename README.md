@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attack from behind](http://9gag.com/gag/aDYMV09)
- - ⏩ [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
 
 ---
 
