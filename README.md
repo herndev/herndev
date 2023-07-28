@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will understand..](http://9gag.com/gag/aOxGpGD)
- - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
- - 👉 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)<!-- MEMES:END -->
+ - 💣 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - ⏩ [Hello](http://9gag.com/gag/a9qBO6Z)
+ - 👉 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)<!-- MEMES:END -->
 
 ---
 
