@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Fenix 7S Pro review: too much of the same](https://www.theverge.com/23809801/garmin-fenix-7s-pro-review-smartwatch-wearables)
- - [Crypto.com says it has received approval from the Netherlands&#39; central bank to offer its services in the country, after a comprehensive review &lpar;Gareth Jenkinson/Cointelegraph&rpar;](http://www.techmeme.com/230728/p7#a230728p7)
- - [AMD plans to invest $400M and create 3,000 new engineering roles in India by 2028 and to build its largest design center in Bengaluru by the end of 2023 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230728/p6#a230728p6)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
+ - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)
+ - [14 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
