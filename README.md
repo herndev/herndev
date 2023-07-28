@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fine-tune your streaming with Elgato&#39;s Mic Arms and other accessories](https://www.pcgamer.com/fine-tune-your-streaming-with-elgatos-mic-arms-and-other-accessories)
  - [Today&#39;s Wordle hint and answer #769: Friday, July 28](https://www.pcgamer.com/wordle-answer-today-hint-769-july-28)
- - [Nvidia&#39;s next-gen flagship rumored to receive a huge bandwidth increase, thanks to a 512-bit memory bus](https://www.pcgamer.com/nvidias-next-gen-flagship-rumored-to-receive-a-huge-bandwidth-increase-thanks-to-a-512-bit-memory-bus)
- - [AMD officially launches mobile X3D gaming chip exclusively in just one laptop &#39;for the foreseeable future&#39;](https://www.pcgamer.com/amd-officially-launches-mobile-x3d-gaming-chip-exclusively-in-just-one-laptop-for-the-foreseeable-future)<!-- GAME:END -->
+ - [Nvidia&#39;s next-gen flagship rumored to receive a huge bandwidth increase, thanks to a 512-bit memory bus](https://www.pcgamer.com/nvidias-next-gen-flagship-rumored-to-receive-a-huge-bandwidth-increase-thanks-to-a-512-bit-memory-bus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
