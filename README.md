@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - ⏩ [This is beyond science](http://9gag.com/gag/az2QZ0N)
- - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
+ - 💣 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
+ - ⏩ [Hmmm. Just sugar?](http://9gag.com/gag/aDYMP9w)
+ - 👉 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)<!-- MEMES:END -->
 
 ---
 
