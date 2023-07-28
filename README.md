@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy XIV is finally headed to Xbox](https://www.theverge.com/2023/7/28/23811549/final-fantasy-xiv-xbox-square-enix)
- - [X officially rolls out its ads revenue sharing program for creators](https://www.theverge.com/2023/7/28/23811535/x-twitter-ads-revenue-sharing-program-creators)
- - [Tesla Rigged &#39;Rosy&#39; EV Ranges, Covered Up Complaints, Report Says     - CNET](https://www.cnet.com/roadshow/news/tesla-rigged-rosy-ev-ranges-covered-up-complaints-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s Horizon Worlds mobile app might actually be launching soon](https://www.theverge.com/2023/7/28/23811270/meta-horizon-worlds-mobile-app-super-rumble)
+ - [Today I learned they make delightfully retro cassette tape power banks](https://www.theverge.com/23811501/retro-cassette-tape-power-banks-battery-remax)
+ - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
