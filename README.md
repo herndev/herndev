@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Android’s earthquake alerts may have failed during deadly Turkey quake](https://www.androidauthority.com/android-earthquake-detection-system-fail-turkey-3350504/)
  - [Elon Musk capitulates: Twitter will default to dark mode, but still offer a light option](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)
- - [AMD announces Ryzen 9 7945HX3D, its first mobile CPU based on 3D V-cache packaging, with 16 Zen 4 CPU cores and a 2.3GHz base frequency, available on August 22 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230728/p2#a230728p2)<!-- TECH:END -->
+ - [England vs. Denmark: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-denmark-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
