@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
- - [Rare $120 price drop on the epic Sennheiser Momentum 4 headphones](https://www.androidauthority.com/sennheiser-momentum-4-deal-3351037/)
- - [How to set up Center Stage in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-up-center-stage-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Final Fantasy XIV is finally headed to Xbox](https://www.theverge.com/2023/7/28/23811549/final-fantasy-xiv-xbox-square-enix)
+ - [X officially rolls out its ads revenue sharing program for creators](https://www.theverge.com/2023/7/28/23811535/x-twitter-ads-revenue-sharing-program-creators)
+ - [Tesla Rigged &#39;Rosy&#39; EV Ranges, Covered Up Complaints, Report Says     - CNET](https://www.cnet.com/roadshow/news/tesla-rigged-rosy-ev-ranges-covered-up-complaints-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
