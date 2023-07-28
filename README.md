@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Up From the Ashes Once More, Remnant II is Here and the Head of Gunfire Games Answers All Of Our Questions](https://news.xbox.com/en-us/2023/07/28/gunfire-games-answers-all-our-remnant-ii-questions/)
- - [Notorious hacking forum&#39;s data up for sale after being hacked by other hackers](https://www.pcgamer.com/notorious-hacking-forums-data-up-for-sale-after-being-hacked-by-other-hackers)
- - [PS5 price drop in Europe points to US discount soon](https://www.polygon.com/23802839/ps5-sale-price-drop-sony-playstation)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Mortal Kombat 1 beta starts Aug. 18 — here’s how to get in](https://www.polygon.com/23811170/mortal-kombat-1-pre-order-beta-release-date)
+ - [Yes, For Honor is still running, and it&#39;s free to play for a week](https://www.pcgamer.com/yes-for-honor-is-still-running-and-its-free-to-play-for-a-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
