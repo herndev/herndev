@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
- - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)
- - [14 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
+ - [Google’s Reading Mode app for Android can save you from the worst of web design](https://www.theverge.com/23811032/google-reading-mode-android-how-to)
+ - [Sanrio brings Hello Kitty to Apple Arcade with &#39;Hello Kitty Island Adventure&#39;](https://appleinsider.com/articles/23/07/28/sanrio-brings-hello-kitty-to-apple-arcade-with-hello-kitty-island-adventure?utm_medium=rss)
+ - [Google was the only brand to grow in the US &lpar;but there’s an asterisk&rpar;](https://www.androidauthority.com/us-market-q2-2023-google-3350950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
