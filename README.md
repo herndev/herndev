@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says dust resistance on foldables isn’t easy, but it’s working on it](https://www.androidauthority.com/samsung-dust-resistance-foldables-3350898/)
- - [The SEC&#39;s Paul Munter warns that the accounting firms working with crypto companies could be held liable for misleading public statements made by their clients &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230728/p4#a230728p4)
- - [I Looked Into Sam Altman’s Orb and All I Got Was This Lousy Crypto](https://www.wired.com/story/sam-altman-orb-worldcoin-tools-for-humanity/)<!-- TECH:END -->
+ - [Garmin Fenix 7S Pro review: too much of the same](https://www.theverge.com/23809801/garmin-fenix-7s-pro-review-smartwatch-wearables)
+ - [Crypto.com says it has received approval from the Netherlands&#39; central bank to offer its services in the country, after a comprehensive review &lpar;Gareth Jenkinson/Cointelegraph&rpar;](http://www.techmeme.com/230728/p7#a230728p7)
+ - [AMD plans to invest $400M and create 3,000 new engineering roles in India by 2028 and to build its largest design center in Bengaluru by the end of 2023 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230728/p6#a230728p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
