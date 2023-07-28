@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop filming concerts](https://www.theverge.com/23811133/instagram-stories-iphone-concert-footage-sotp)
- - [Google’s latest robot can offer you an energy drink](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai)
- - [NASA Plus is the latest streaming competitor](https://www.theverge.com/2023/7/28/23811235/nasa-plus-streaming-service-announce)<!-- TECH:END -->
+ - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
+ - [Rare $120 price drop on the epic Sennheiser Momentum 4 headphones](https://www.androidauthority.com/sennheiser-momentum-4-deal-3351037/)
+ - [How to set up Center Stage in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-up-center-stage-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
