@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hello Kitty Island Adventure is for Animal Crossing fans with wanderlust](https://www.polygon.com/reviews/23810505/hello-kitty-island-adventure-review-apple-arcade-animal-crossing)
- - [Baldur&#39;s Gate 3&#39;s shapeshifting final villain is definitely going to murder and impersonate one of your party members at some point](https://www.pcgamer.com/baldurs-gate-3s-shapeshifting-final-villain-is-definitely-going-to-murder-and-impersonate-one-of-your-party-members-at-some-point)
- - [19 Hilarious Tears Of The Kingdom Fails](https://kotaku.com/tears-of-the-kingdom-totk-zelda-fail-ultrahand-horse-1850684816)<!-- GAME:END -->
+ - [Up From the Ashes Once More, Remnant II is Here and the Head of Gunfire Games Answers All Of Our Questions](https://news.xbox.com/en-us/2023/07/28/gunfire-games-answers-all-our-remnant-ii-questions/)
+ - [Notorious hacking forum&#39;s data up for sale after being hacked by other hackers](https://www.pcgamer.com/notorious-hacking-forums-data-up-for-sale-after-being-hacked-by-other-hackers)
+ - [PS5 price drop in Europe points to US discount soon](https://www.polygon.com/23802839/ps5-sale-price-drop-sony-playstation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
