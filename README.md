@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - ⏩ [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)<!-- MEMES:END -->
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - ⏩ [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
 
 ---
 
