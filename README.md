@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Final Fantasy XIV Online expansion, Dawntrail, coming to PS5 and PS4 in Summer 2024](https://blog.playstation.com/2023/07/28/new-final-fantasy-xiv-online-expansion-dawntrail-coming-to-ps5-and-ps4-in-summer-2024/)
- - [TIE Fighter: Total Conversion patch adds ray tracing, but honestly I&#39;m way more excited about the animated concourse menu](https://www.pcgamer.com/tie-fighter-total-conversion-patch-adds-ray-tracing-but-honestly-im-way-more-excited-about-the-animated-concourse-menu)
- - [The Witcher’s big villain reveal is so much better in the books](https://www.polygon.com/23775445/the-witcher-vilgefortz-villain-nilfgaard)<!-- GAME:END -->
+ - [Here&#39;s The Big Overhaul Diablo IV&#39;s Getting After That Hated Patch](https://kotaku.com/diablo-4-news-1-1-1-patch-notes-barbarian-teleport-1850688032)
+ - [Final Fantasy 14’s next expansion is a vacation for Warriors of Light](https://www.polygon.com/23811679/final-fantasy-14-dawntrail-expansion-2024-release-date-ff14)
+ - [Diablo 4&#39;s next patch will finally give Sorcerers and Barbarians the buffs they need](https://www.pcgamer.com/diablo-4-patch-1-1-1-notes-buff-sorcerer-barbarian)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
