@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
+ - 💣 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - ⏩ [For the village.](http://9gag.com/gag/aGEb2dG)
+ - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---
 
