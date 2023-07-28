@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - ⏩ [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
- - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 👉 [Evangelion](http://9gag.com/gag/ap98A99)<!-- MEMES:END -->
 
 ---
 
