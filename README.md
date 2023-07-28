@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #769: Friday, July 28](https://www.pcgamer.com/wordle-answer-today-hint-769-july-28)
  - [Nvidia&#39;s next-gen flagship rumored to receive a huge bandwidth increase, thanks to a 512-bit memory bus](https://www.pcgamer.com/nvidias-next-gen-flagship-rumored-to-receive-a-huge-bandwidth-increase-thanks-to-a-512-bit-memory-bus)
- - [AMD officially launches mobile X3D gaming chip exclusively in just one laptop &#39;for the foreseeable future&#39;](https://www.pcgamer.com/amd-officially-launches-mobile-x3d-gaming-chip-exclusively-in-just-one-laptop-for-the-foreseeable-future)
- - [Witches in outer space: the &#39;magic spark&#39; that became tarot-crafting narrative game The Cosmic Wheel Sisterhood](https://www.pcgamer.com/witches-in-outer-space-the-magic-spark-that-became-tarot-crafting-narrative-game-the-cosmic-wheel-sisterhood)<!-- GAME:END -->
+ - [AMD officially launches mobile X3D gaming chip exclusively in just one laptop &#39;for the foreseeable future&#39;](https://www.pcgamer.com/amd-officially-launches-mobile-x3d-gaming-chip-exclusively-in-just-one-laptop-for-the-foreseeable-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
