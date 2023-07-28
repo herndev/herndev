@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Sues Popular YouTube Music Critic After He Tried Charging For TikTok Clip](https://kotaku.com/activision-blizzard-anthony-needledrop-fantano-lawsuit-1850687909)
- - [Final Fantasy XIV Is Adding Fall Guys-Inspired Mini-Games](https://kotaku.com/ff14-final-fantasy-xiv-fan-fest-fall-guys-crossover-pc-1850688107)
- - [Diablo 4 players are using a trick from 1997 to kill The Butcher](https://www.pcgamer.com/diablo-4-players-are-using-a-trick-from-1997-to-kill-the-butcher)<!-- GAME:END -->
+ - [Amid Evil&#39;s expansion has magical spiked gauntlets that look absolutely bananas and I can&#39;t wait to punch somebody in the face with them](https://www.pcgamer.com/amid-evils-expansion-has-magical-spiked-gauntlets-that-look-absolutely-bananas-and-i-cant-wait-to-punch-somebody-in-the-face-with-them)
+ - [All Path of Exile 1 and 2 microtransactions will be usable in both games unless they&#39;re &#39;hyper-specific to the content of one of them&#39;](https://www.pcgamer.com/all-path-of-exile-1-and-2-microtransactions-will-be-usable-in-both-games-unless-theyre-hyper-specific-to-the-content-of-one-of-them)
+ - [Transformers: Rise of the Beasts, The Little Mermaid, and every other new movie to watch at home this weekend](https://www.polygon.com/2023/7/28/23805703/new-movies-watch-transformers-rise-beasts-little-mermaid-one-piece-movie-netflix-hidden-strike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
