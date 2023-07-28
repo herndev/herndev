@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel figures out how to make money again](https://www.pcgamer.com/intel-figures-out-how-to-make-money-again)
- - [Remnant 2&#39;s pricey respec costs are &#39;being looked into&#39;, says principal designer Ben Cureton](https://www.pcgamer.com/remnant-2s-pricey-respec-costs-are-being-looked-into-says-principal-designer-ben-cureton)
- - [Original Modern Warfare 2 servers yanked offline after players report self-replicating malware](https://www.pcgamer.com/original-modern-warfare-2-servers-yanked-offline-after-players-report-self-replicating-malware)<!-- GAME:END -->
+ - [PlayStation Stars campaigns and digital collectibles for August 2023](https://blog.playstation.com/2023/07/28/playstation-stars-campaigns-and-digital-collectibles-for-august-2023/)
+ - [Remnant 2’s depiction of mental illness surprised me](https://www.polygon.com/23810410/remnant-2-adventure-mode-losomn-slums-hospital)
+ - [Samsung Odyssey OLED G9](https://www.pcgamer.com/samsung-odyssey-oled-g9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
