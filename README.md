@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fine-tune your streaming with Elgato&#39;s Mic Arms and other accessories](https://www.pcgamer.com/fine-tune-your-streaming-with-elgatos-mic-arms-and-other-accessories)
- - [Today&#39;s Wordle hint and answer #769: Friday, July 28](https://www.pcgamer.com/wordle-answer-today-hint-769-july-28)
- - [Nvidia&#39;s next-gen flagship rumored to receive a huge bandwidth increase, thanks to a 512-bit memory bus](https://www.pcgamer.com/nvidias-next-gen-flagship-rumored-to-receive-a-huge-bandwidth-increase-thanks-to-a-512-bit-memory-bus)<!-- GAME:END -->
+ - [Remnant 2&#39;s pricey respec costs are &#39;being looked into&#39;, says principal designer Ben Cureton](https://www.pcgamer.com/remnant-2s-pricey-respec-costs-are-being-looked-into-says-principal-designer-ben-cureton)
+ - [Original Modern Warfare 2 servers yanked offline after players report self-replicating malware](https://www.pcgamer.com/original-modern-warfare-2-servers-yanked-offline-after-players-report-self-replicating-malware)
+ - [All the Good Omens season 3 news we’ve heard so far](https://www.polygon.com/23810534/good-omens-season-3-release-cast-news-crowley-aziraphale-tennant-sheen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
