@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s earthquake alerts may have failed during deadly Turkey quake](https://www.androidauthority.com/android-earthquake-detection-system-fail-turkey-3350504/)
- - [Elon Musk capitulates: Twitter will default to dark mode, but still offer a light option](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)
- - [England vs. Denmark: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-denmark-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Microsoft&#39;s M12 has sold shares of some of its portfolio companies at 30% to 70% discount on secondary exchanges; Microsoft says it sold &lt;10 companies &lpar;Insider&rpar;](http://www.techmeme.com/230728/p3#a230728p3)
+ - [You might have to wait a really long time for the Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-launch-window-3350882/)
+ - [Sony’s first PS5 sale brings steep price drops to UK, Germany, India, and beyond](https://www.theverge.com/2023/7/28/23810929/sony-ps5-sale-uk-ireland-india-germany-price-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
