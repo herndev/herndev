@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars campaigns and digital collectibles for August 2023](https://blog.playstation.com/2023/07/28/playstation-stars-campaigns-and-digital-collectibles-for-august-2023/)
- - [Remnant 2’s depiction of mental illness surprised me](https://www.polygon.com/23810410/remnant-2-adventure-mode-losomn-slums-hospital)
- - [Samsung Odyssey OLED G9](https://www.pcgamer.com/samsung-odyssey-oled-g9)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 31 to August 4](https://news.xbox.com/en-us/2023/07/28/next-week-on-xbox-new-games-for-july-31-to-august-04/)
+ - [Final Fantasy 14 charity speedrun turns into a 23-hour marathon, as donators give $20 for the chance to lay down commands its players have to follow](https://www.pcgamer.com/final-fantasy-14-charity-speedrun-turns-into-a-23-hour-marathon-as-donators-give-dollar20-for-the-chance-to-lay-down-commands-its-players-have-to-follow)
+ - [The 50% off sale on Criterion Collection Blu-rays and box sets ends today](https://www.polygon.com/deals/23802802/best-gaming-deals-entertainment-blu-ray-criterion-collection-sega-genesis-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
