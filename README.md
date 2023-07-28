@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - ⏩ [For the village.](http://9gag.com/gag/aGEb2dG)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
+ - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
 
 ---
 
