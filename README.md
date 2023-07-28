@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an internal town hall, Chris Cox said Meta is looking to add more &quot;retention-driving hooks&quot; to Threads, like showing Instagram users important Threads &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p38#a230727p38)
- - [Twitter/X reinstates the account of a right-wing influencer with over 500K followers who posted child sex abuse imagery that drew over 3M views and 8K retweets &lpar;Washington Post&rpar;](http://www.techmeme.com/230727/p37#a230727p37)
- - [Analyses: hackers infect players of an old Call of Duty game with a worm that spreads in online lobbies; Activision turns off multiplayer for the game on Steam &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230727/p36#a230727p36)<!-- TECH:END -->
+ - [To build a super app like those in Asia, Elon Musk will face issues such as cultural differences and regulatory scrutiny, like Meta, Snap, and Uber did before &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/230728/p1#a230728p1)
+ - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)
+ - [At an internal town hall, Chris Cox said Meta is looking to add more &quot;retention-driving hooks&quot; to Threads, like showing Instagram users important Threads &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p38#a230727p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
