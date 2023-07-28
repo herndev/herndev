@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Croissant, which integrates into merchants&#39; sites and uses AI to generate a guaranteed buyback value on listed items, launches with a $24M seed &lpar;Adriana Lee/WWD&rpar;](http://www.techmeme.com/230727/p35#a230727p35)
- - [AMD’s Ryzen 9 7945HX3D could be its slam-dunk gaming laptop chip](https://www.theverge.com/2023/7/27/23810241/amd-ryzen-9-7945hx3d-processor-asus-rog-strix-scar-17)
- - [T-Mobile Added 1.6 Million Net Customers as Faster 5G Network Grows     - CNET](https://www.cnet.com/tech/mobile/t-mobile-added-1-6-million-net-customers-as-faster-5-g-network-grows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter/X reinstates the account of a right-wing influencer with over 500K followers who posted child sex abuse imagery that drew over 3M views and 8K retweets &lpar;Washington Post&rpar;](http://www.techmeme.com/230727/p37#a230727p37)
+ - [Analyses: hackers infect players of an old Call of Duty game with a worm that spreads in online lobbies; Activision turns off multiplayer for the game on Steam &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230727/p36#a230727p36)
+ - [Croissant, which integrates into merchants&#39; sites and uses AI to generate a guaranteed buyback value on listed items, launches with a $24M seed &lpar;Adriana Lee/WWD&rpar;](http://www.techmeme.com/230727/p35#a230727p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
