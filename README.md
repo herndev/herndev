@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 💣 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - ⏩ [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
 
 ---
 
