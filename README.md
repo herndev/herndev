@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 👉 [Evangelion](http://9gag.com/gag/ap98A99)<!-- MEMES:END -->
+ - 💣 [Men will understand..](http://9gag.com/gag/aOxGpGD)
+ - ⏩ [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
+ - 👉 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)<!-- MEMES:END -->
 
 ---
 
