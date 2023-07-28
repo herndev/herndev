@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attack from behind](http://9gag.com/gag/aDYMV09)
- - ⏩ [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
+ - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - ⏩ [Rich people in submarines](http://9gag.com/gag/awZvYXB)
+ - 👉 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)<!-- MEMES:END -->
 
 ---
 
