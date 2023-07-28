@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - ⏩ [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
+ - 💣 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
+ - ⏩ [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
 
 ---
 
