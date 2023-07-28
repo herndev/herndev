@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - ⏩ [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 💣 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - ⏩ [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 👉 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)<!-- MEMES:END -->
 
 ---
 
