@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Croissant, which integrates into merchants&#39; sites and uses AI to generate a guaranteed buyback value on listed items, launches with a $24M seed &lpar;Adriana Lee/WWD&rpar;](http://www.techmeme.com/230727/p35#a230727p35)
  - [AMD’s Ryzen 9 7945HX3D could be its slam-dunk gaming laptop chip](https://www.theverge.com/2023/7/27/23810241/amd-ryzen-9-7945hx3d-processor-asus-rog-strix-scar-17)
- - [T-Mobile Added 1.6 Million Net Customers as Faster 5G Network Grows     - CNET](https://www.cnet.com/tech/mobile/t-mobile-added-1-6-million-net-customers-as-faster-5-g-network-grows/#ftag=CAD590a51e)
- - [Wiz researchers say two vulnerabilities in the OverlayFS filesystem module in Ubuntu may allow unprivileged local users to gain elevated privileges &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230727/p34#a230727p34)<!-- TECH:END -->
+ - [T-Mobile Added 1.6 Million Net Customers as Faster 5G Network Grows     - CNET](https://www.cnet.com/tech/mobile/t-mobile-added-1-6-million-net-customers-as-faster-5-g-network-grows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
