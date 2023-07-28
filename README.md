@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 5 battery and charging speeds: How long does it last?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-battery-life-charging-speeds-3350140/)
  - [To build a super app like those in Asia, Elon Musk will face issues such as cultural differences and regulatory scrutiny, like Meta, Snap, and Uber did before &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/230728/p1#a230728p1)
- - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)
- - [At an internal town hall, Chris Cox said Meta is looking to add more &quot;retention-driving hooks&quot; to Threads, like showing Instagram users important Threads &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p38#a230727p38)<!-- TECH:END -->
+ - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
