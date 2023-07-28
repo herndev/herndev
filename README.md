@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good Omens season 2’s shocking ending makes sense to David Tennant and Michael Sheen](https://www.polygon.com/23809970/good-omens-season-2-aziraphale-crowley-ending-explained)
- - [Netflix&#39;s One Piece Live-Action Trailer Has A Treasure Trove Of Anime Easter Eggs](https://kotaku.com/one-piece-netflix-live-action-trailer-easter-eggs-1850687453)
- - [Final Fantasy XIV Online is Coming to Xbox Series X|S in Spring 2024](https://news.xbox.com/en-us/2023/07/28/final-fantasy-14-online-coming-to-xbox-spring-2024/)<!-- GAME:END -->
+ - [New Final Fantasy XIV Online expansion, Dawntrail, coming to PS5 and PS4 in Summer 2024](https://blog.playstation.com/2023/07/28/new-final-fantasy-xiv-online-expansion-dawntrail-coming-to-ps5-and-ps4-in-summer-2024/)
+ - [TIE Fighter: Total Conversion patch adds ray tracing, but honestly I&#39;m way more excited about the animated concourse menu](https://www.pcgamer.com/tie-fighter-total-conversion-patch-adds-ray-tracing-but-honestly-im-way-more-excited-about-the-animated-concourse-menu)
+ - [The Witcher’s big villain reveal is so much better in the books](https://www.polygon.com/23775445/the-witcher-vilgefortz-villain-nilfgaard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
