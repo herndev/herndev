@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the village.](http://9gag.com/gag/aGEb2dG)
- - ⏩ [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 👉 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
+ - 💣 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - ⏩ [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
 
 ---
 
