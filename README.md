@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - ⏩ [Hello](http://9gag.com/gag/a9qBO6Z)
+ - ⏩ [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
  - 👉 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)<!-- MEMES:END -->
 
 ---
