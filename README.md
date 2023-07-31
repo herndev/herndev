@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - ⏩ [Hmmm who is actually doing fraud and being the criminal here?](http://9gag.com/gag/aEqEbKN)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 💣 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
+ - ⏩ [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
+ - 👉 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)<!-- MEMES:END -->
 
 ---
 
