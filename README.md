@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - ⏩ [They were so natural](http://9gag.com/gag/a1PwgnP)
+ - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - ⏩ [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
  - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
 
 ---
