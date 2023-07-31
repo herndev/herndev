@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 beta rolls out today with new accessibility and audio options, social features, and UI enhancements](https://blog.playstation.com/2023/07/31/ps5-beta-rolls-out-today-with-new-accessibility-and-audio-options-social-features-and-ui-enhancements/)
- - [PS5 beta rolls out today with new accessibility and audio options, social features, and UI enhancements](https://blog.playstation.com/2023/07/31/ps5-beta-rolls-out-today-with-new-accessibility-and-audio-options-social-features-and-ui-enhancements/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars Campaigns and Digital Collectibles for August 2023](https://blog.playstation.com/2023/07/31/20230731-psstars/)<!-- GAME:END -->
+ - [Pimax Crystal](https://www.pcgamer.com/pimax-crystal-vr-headset-review)
+ - [A bug in Remnant 2 is letting you literally dodge the game&#39;s respec cost](https://www.pcgamer.com/a-bug-in-remnant-2-is-letting-you-literally-dodge-the-games-respec-cost)
+ - [PS5 beta rolls out today with new accessibility and audio options, social features, and UI enhancements](https://blog.playstation.com/2023/07/31/ps5-beta-rolls-out-today-with-new-accessibility-and-audio-options-social-features-and-ui-enhancements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
