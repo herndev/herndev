@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Netflix anime, Heartstopper, thriller finales, and all the new TV this week](https://www.polygon.com/2023/7/31/23792834/netflix-new-tv-anime-heartstopper-season-2-thriller-finales)
- - [Hasbro says the problem with re-releasing old Transformers games is Activision&#39;s lost a bunch of them](https://www.pcgamer.com/hasbro-says-the-problem-with-re-releasing-old-transformers-games-is-activisions-lost-a-bunch-of-them)
- - [Diablo 4’s rebalancing work begins with Sorcerer and Barbarian buffs in next patch](https://www.polygon.com/23813964/diablo-4-patch-1-1-1-sorcerer-barbarian-buffs)<!-- GAME:END -->
+ - [Barbie and Oppenheimer’s box office weekends were both massive winners](https://www.polygon.com/23803364/barbie-oppenheimer-box-office-total)
+ - [I Wish I Loved This Final Fantasy Tactics-Inspired SRPG 7 Years In The Making](https://kotaku.com/final-fantasy-tactics-arcadian-atlas-srpg-steam-review-1850692803)
+ - [Hasbro Wants Old Transformers Games To Return, But Activision Lost Them](https://kotaku.com/transformers-war-cybertron-hasbro-activision-remaster-1850692571)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
