@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #772: Monday, July 31](https://www.pcgamer.com/wordle-answer-today-hint-772-july-31)
  - [Some of the Tekken 8 roster has leaked thanks to Cheat Engine](https://www.pcgamer.com/some-of-the-tekken-8-roster-has-leaked-thanks-to-cheat-engine)
- - [Five new Steam games you probably missed &lpar;July 31, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-31-2023)
- - [Ubisoft says Assassin&#39;s Creed Mirage is only 20–30 hours long](https://www.pcgamer.com/ubisoft-says-assassins-creed-mirage-is-only-2030-hours-long)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 31, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-31-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
