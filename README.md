@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 is getting a major new accessibility feature](https://www.polygon.com/23813816/ps5-system-software-update-assist-controller-atmos-8tb)
- - [New players could skip the bulk of Final Fantasy 14&#39;s story in the future, though Yoshi-P is hesitant to encourage it](https://www.pcgamer.com/new-players-could-skip-the-bulk-of-final-fantasy-14s-story-in-the-future-though-yoshi-p-is-hesitant-to-encourage-it)
- - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)<!-- GAME:END -->
+ - [The Next Assassin&#39;s Creed Is Smaller Because Past Games Got Way Too Big [Update]](https://kotaku.com/assassin-s-creed-mirage-valhalla-size-small-rpg-ubisoft-1849980777)
+ - [Don’t Go Playin’ Ratchet &amp; Clank: Rift Apart On PC Without An SSD](https://kotaku.com/ratchet-and-clank-rift-apart-pc-ssd-ps5-hdd-playable-1850691636)
+ - [Mortal Kombat 1’s black hole Fatality is already one of the series’ best](https://www.polygon.com/23813914/mortal-kombat-1-liu-kang-black-hole-fatality-geras)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
