@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for August: PGA Tour 2K23, Dreams Universe, Death’s Door](https://blog.playstation.com/2023/07/31/20230731-psplus/)
  - [One of Diablo 4&#39;s season blessings is actually more of a season curse](https://www.pcgamer.com/one-of-diablo-4-season-blessings-is-actually-more-of-a-season-curse)
- - [Today&#39;s Wordle hint and answer #772: Monday, July 31](https://www.pcgamer.com/wordle-answer-today-hint-772-july-31)
- - [Some of the Tekken 8 roster has leaked thanks to Cheat Engine](https://www.pcgamer.com/some-of-the-tekken-8-roster-has-leaked-thanks-to-cheat-engine)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #772: Monday, July 31](https://www.pcgamer.com/wordle-answer-today-hint-772-july-31)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
