@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars Campaigns and Digital Collectibles for August 2023](https://blog.playstation.com/2023/07/31/20230731-psstars/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for August: PGA Tour 2K23, Dreams Universe, Death’s Door](https://blog.playstation.com/2023/07/31/20230731-psplus/)
- - [One of Diablo 4&#39;s season blessings is actually more of a season curse](https://www.pcgamer.com/one-of-diablo-4-season-blessings-is-actually-more-of-a-season-curse)
- - [Today&#39;s Wordle hint and answer #772: Monday, July 31](https://www.pcgamer.com/wordle-answer-today-hint-772-july-31)<!-- GAME:END -->
+ - [One of Diablo 4&#39;s season blessings is actually more of a season curse](https://www.pcgamer.com/one-of-diablo-4-season-blessings-is-actually-more-of-a-season-curse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
