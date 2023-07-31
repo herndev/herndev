@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid Evil&#39;s expansion has magical spiked gauntlets that look absolutely bananas and I can&#39;t wait to punch somebody in the face with them](https://www.pcgamer.com/amid-evils-expansion-has-magical-spiked-gauntlets-that-look-absolutely-bananas-and-i-cant-wait-to-punch-somebody-in-the-face-with-them)
- - [All Path of Exile 1 and 2 microtransactions will be usable in both games unless they&#39;re &#39;hyper-specific to the content of one of them&#39;](https://www.pcgamer.com/all-path-of-exile-1-and-2-microtransactions-will-be-usable-in-both-games-unless-theyre-hyper-specific-to-the-content-of-one-of-them)
- - [Transformers: Rise of the Beasts, The Little Mermaid, and every other new movie to watch at home this weekend](https://www.polygon.com/2023/7/28/23805703/new-movies-watch-transformers-rise-beasts-little-mermaid-one-piece-movie-netflix-hidden-strike)<!-- GAME:END -->
+ - [Infection Free Zone will let you reclaim your own town after the zombie apocalypse](https://www.pcgamer.com/infection-free-zone-will-let-you-reclaim-your-own-town-after-the-zombie-apocalypse)
+ - [I&#39;m not sure what this action horror game is about but I love the creepy enemies](https://www.pcgamer.com/im-not-sure-what-this-action-horror-game-is-about-but-i-love-the-creepy-enemies)
+ - [Steven Soderbergh deconstructs back-to-back experiments: Full Circle and Command Z](https://www.polygon.com/23810112/steven-soderbergh-full-circle-command-z-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
