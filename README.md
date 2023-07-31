@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Many of you are sticking with Spotify due to Spotify Connect](https://www.androidauthority.com/spotify-connect-poll-results-3351218/)
- - [Sony’s latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage](https://www.theverge.com/2023/7/31/23813778/sony-playstation-5-dolby-atmos-support-8tb-m2-storage)
- - [Source: Shenzhen-based Luxshare has won favor and increased business with Apple by being prepared to test &quot;crazy&quot; ideas and is the sole maker of the Vision Pro &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230731/p3#a230731p3)<!-- TECH:END -->
+ - [Apple Watch emergency calls false positives slammed by UK police chiefs](https://appleinsider.com/articles/23/07/31/apple-watch-emergency-calls-false-positives-slammed-by-uk-police-chiefs?utm_medium=rss)
+ - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
+ - [Oregon driver saved by iPhone 14 crash detection](https://appleinsider.com/articles/23/07/31/oregon-driver-saved-by-iphone-14-crash-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
