@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress grills Tim Cook over App Store rules affecting NFTs and crypto](https://appleinsider.com/articles/23/07/31/congress-grills-tim-cook-over-app-store-rules-affecting-nfts-and-crypto?utm_medium=rss)
- - [Apple releases second public betas of iOS 17, iPadOS 17, macOS Sonoma](https://appleinsider.com/articles/23/07/31/apple-releases-second-public-betas-of-ios-17-ipados-17-macos-sonoma?utm_medium=rss)
- - [Apple releases revised macOS Sonoma developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s extravagant ‘X’ sign atop the former Twitter HQ has been dismantled](https://www.theverge.com/2023/7/31/23814476/twitter-x-sign-removed-san-francisco-bright-light-complaints)
+ - [Microsoft’s repairability push now extends to Xbox controllers, too](https://www.theverge.com/2023/7/31/23814642/microsoft-xbox-elite-controllers-repair-diy)
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
