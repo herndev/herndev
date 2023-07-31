@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pimax Crystal](https://www.pcgamer.com/pimax-crystal-vr-headset-review)
- - [A bug in Remnant 2 is letting you literally dodge the game&#39;s respec cost](https://www.pcgamer.com/a-bug-in-remnant-2-is-letting-you-literally-dodge-the-games-respec-cost)
- - [PS5 beta rolls out today with new accessibility and audio options, social features, and UI enhancements](https://blog.playstation.com/2023/07/31/ps5-beta-rolls-out-today-with-new-accessibility-and-audio-options-social-features-and-ui-enhancements/)<!-- GAME:END -->
+ - [Minecraft exploit makes it &#39;completely dangerous&#39; to play with unpatched mods right now](https://www.pcgamer.com/minecraft-exploit-makes-it-completely-dangerous-to-play-with-unpatched-mods-right-now)
+ - [Gaming&#39;s most generous free trial is about to get a whole lot better](https://www.pcgamer.com/gamings-most-generous-trial-is-about-to-get-a-whole-lot-better)
+ - [Asus TUF-AX4200](https://www.pcgamer.com/asus-tuf-ax4200-router-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
