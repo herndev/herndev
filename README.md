@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good job, Professor X, you just misplaced 99% of the X-Men in space](https://www.polygon.com/2023/7/31/23814049/x-men-hellfire-gala-2023)
- - [Here’s where to pre-order Avatar: Frontiers of Pandora](https://www.polygon.com/deals/23766992/avatar-frontiers-of-pandora-pre-order-buy-collectors-edition-ps5-pc-xbox)
- - [Where to pre-order Super Mario Bros. Wonder](https://www.polygon.com/deals/23768840/super-mario-wonder-pre-order-buy-nintendo-switch)<!-- GAME:END -->
+ - [Cult PSP Game Gets Spiritual Successor That’s Already Blowing Up Kickstarter](https://kotaku.com/patapon-ratatan-rhythm-rpg-kickstarter-psp-ps5-sequel-1850693658)
+ - [The Lord of the Rings: Gollum gets a big patch but it sounds like the developers are ready to wash their hands of the whole thing](https://www.pcgamer.com/the-lord-of-the-rings-gollum-gets-a-big-patch-but-it-sounds-like-the-developers-are-ready-to-wash-their-hands-of-the-whole-thing)
+ - [Hit Steam Game Includes Secret Designed Only For Dataminers To Discover](https://kotaku.com/remnant-2-hidden-class-archon-how-to-unlock-dataminers-1850693562)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
