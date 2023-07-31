@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 💣 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - ⏩ [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 👉 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)<!-- MEMES:END -->
 
 ---
 
