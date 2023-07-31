@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Single moms be like](http://9gag.com/gag/abvE82O)
- - ⏩ [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
- - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
+ - 💣 [I&#39;m sure there&#39;s a lesson in all of this.](http://9gag.com/gag/aA0ZzR2)
+ - ⏩ [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 
