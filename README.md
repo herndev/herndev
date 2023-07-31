@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wield powerful mindflayer powers in Baldur’s Gate 3 – skills explained](https://blog.playstation.com/2023/07/31/wield-powerful-mindflayer-powers-in-baldurs-gate-3-skills-explained/)
- - [The Twisted Metal TV show made sure it got one character exactly right — ol’ Evelyn](https://www.polygon.com/23808519/twisted-metal-tv-show-peacock-car-cast-subaru)
- - [Pokémon Go Spotlight Hour schedule for August 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
+ - [Classic Nintendo Systems Get Beautiful Mechanical Keyboard Tribute Dek](https://kotaku.com/nintendo-mechanical-keyboard-nes-8bitdo-retro-wireless-1850692228)
+ - [Student startup develops IRL closed caption glasses for the deaf](https://www.pcgamer.com/student-startup-develops-irl-closed-caption-glasses-for-the-deaf)
+ - [Microsoft is making Windows 11 greener for PC gaming&#39;s fancy monitors](https://www.pcgamer.com/microsoft-is-making-windows-11-greener-for-pc-gamings-fancy-monitors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
