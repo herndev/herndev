@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Smart Tag 2 redesign shown off in certification application](https://www.androidauthority.com/samsung-galaxy-tag-2-design-3351340/)
- - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)
- - [AirPods Pro vs Sony WF-1000XM5 -- compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-vs-sony-wf-1000xm5----compared?utm_medium=rss)<!-- TECH:END -->
+ - [How popular gaming platforms like Minecraft and Roblox are being used to promote Russia&#39;s war narrative, influencing some young and Russian-speaking audiences &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p18#a230731p18)
+ - [Uber driver in first-ever deadly self-driving crash pleads guilty](https://www.theverge.com/2023/7/31/23814474/uber-self-driving-fatal-crash-safety-driver-plead-guilty)
+ - [Congress grills Tim Cook over App Store rules affecting NFTs and crypto](https://appleinsider.com/articles/23/07/31/congress-grills-tim-cook-over-app-store-rules-affecting-nfts-and-crypto?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
