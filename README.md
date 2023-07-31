@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms a Screen Time bug, letting kids go over the time limits imposed by parents to use apps and games, but doesn&#39;t offer a timeline for a fix &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230731/p10#a230731p10)
- - [MagSafe travel chargers, iOS features that never arrived, and more smart home news on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/31/magsafe-travel-chargers-ios-features-that-never-arrived-and-more-smart-home-news-on-the-homekit-insider-podcast?utm_medium=rss)
- - [A consortium led by PE firms Francisco and TPG agrees to take observability software company New Relic private in an offer valuing the company at ~$6.5B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230731/p9#a230731p9)<!-- TECH:END -->
+ - [Some Indian broadcasters are using lifelike AI anchors to deliver news, weather reports, and more, raising job loss fears and questions about media credibility &lpar;Neeta Lal/Nikkei Asia&rpar;](http://www.techmeme.com/230731/p11#a230731p11)
+ - [10 years of Chromecast: From wow to meh](https://www.androidauthority.com/10-years-chromecast-3350985/)
+ - [Twitter gets special permission to be ‘X’ in the iOS App Store](https://www.theverge.com/2023/7/31/23813883/twitter-x-ios-app-store-iphone-apple-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
