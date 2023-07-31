@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - ⏩ [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [She found out](http://9gag.com/gag/ay2Pbzr)<!-- MEMES:END -->
+ - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
 
 ---
 
