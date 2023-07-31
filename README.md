@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yesterday the next president of South Africa called for the gen0cide of white people](http://9gag.com/gag/aeQWBMm)
- - ⏩ [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - ⏩ [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
 
 ---
 
