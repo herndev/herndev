@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Diablo 4&#39;s season blessings is actually more of a season curse](https://www.pcgamer.com/one-of-diablo-4-season-blessings-is-actually-more-of-a-season-curse)
  - [Today&#39;s Wordle hint and answer #772: Monday, July 31](https://www.pcgamer.com/wordle-answer-today-hint-772-july-31)
- - [Some of the Tekken 8 roster has leaked thanks to Cheat Engine](https://www.pcgamer.com/some-of-the-tekken-8-roster-has-leaked-thanks-to-cheat-engine)
- - [Five new Steam games you probably missed &lpar;July 31, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-31-2023)<!-- GAME:END -->
+ - [Some of the Tekken 8 roster has leaked thanks to Cheat Engine](https://www.pcgamer.com/some-of-the-tekken-8-roster-has-leaked-thanks-to-cheat-engine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
