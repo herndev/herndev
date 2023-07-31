@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that called Catfishing? I felt in Love With the Second Girl tbh..but Then... holy...No thx](http://9gag.com/gag/aXnezrz)
- - ⏩ [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - ⏩ [They were so natural](http://9gag.com/gag/a1PwgnP)
  - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
 
 ---
