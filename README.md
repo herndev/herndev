@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber&#39;s Fatal Self-Driving Car Crash Saga Ends With the Operator Avoiding Prison](https://www.wired.com/story/ubers-fatal-self-driving-car-crash-saga-over-operator-avoids-prison/)
- - [A look at smart guns, which can only be fired by an authorized user, as Colorado-based Biofire prepares to ship a $1,499 handgun in December, after raising $30M &lpar;Zusha Elinson/Wall Street Journal&rpar;](http://www.techmeme.com/230728/p14#a230728p14)
- - [iPhone 15 Could Have an Action Button     - CNET](https://www.cnet.com/tech/mobile/iphone-15-could-have-an-action-button/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: UK Home Office officials aim to lobby the ICO for expanded use of facial recognition in shops, in contrast to the EU&#39;s ban of the tech in public spaces &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230730/p9#a230730p9)
+ - [Is ChatGPT safe? Risks, data safety, and chatbot privacy explained](https://www.androidauthority.com/is-chatgpt-safe-risks-data-privacy-3351171/)
+ - [What analysts expect from Apples Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
