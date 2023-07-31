@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
+ - 💣 [She found out](http://9gag.com/gag/armzD0y)
  - ⏩ [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)<!-- MEMES:END -->
+ - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
 
 ---
 
