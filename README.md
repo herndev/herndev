@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s extravagant ‘X’ sign atop the former Twitter HQ has been dismantled](https://www.theverge.com/2023/7/31/23814476/twitter-x-sign-removed-san-francisco-bright-light-complaints)
- - [Microsoft’s repairability push now extends to Xbox controllers, too](https://www.theverge.com/2023/7/31/23814642/microsoft-xbox-elite-controllers-repair-diy)
- - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
+ - [A US judge denies Terraform Labs&#39; motion to dismiss an SEC lawsuit, saying the SEC made a &quot;plausible claim&quot; that UST and LUNA may have violated securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230731/p21#a230731p21)
+ - [Leaked Google memo shows it ‘deeply committed’ to Assistant, bringing LLM power](https://www.androidauthority.com/google-assistant-llm-3351414/)
+ - [Google will ‘supercharge’ Assistant with AI that’s more like ChatGPT and Bard](https://www.theverge.com/2023/7/31/23814702/google-assistant-ai-features-layoffs-bard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
