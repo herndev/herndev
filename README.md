@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft exploit makes it &#39;completely dangerous&#39; to play with unpatched mods right now](https://www.pcgamer.com/minecraft-exploit-makes-it-completely-dangerous-to-play-with-unpatched-mods-right-now)
- - [Gaming&#39;s most generous free trial is about to get a whole lot better](https://www.pcgamer.com/gamings-most-generous-trial-is-about-to-get-a-whole-lot-better)
- - [Asus TUF-AX4200](https://www.pcgamer.com/asus-tuf-ax4200-router-review)<!-- GAME:END -->
+ - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)
+ - [Baldur&#39;s Gate 3 Dev Says Their Other Mega RPG Series Is Still Alive](https://kotaku.com/baldurs-gate-3-pc-release-date-divinity-original-sin-2-1850688021)
+ - [Minecraft exploit makes it &#39;completely dangerous&#39; to play with unpatched mods right now](https://www.pcgamer.com/minecraft-exploit-makes-it-completely-dangerous-to-play-with-unpatched-mods-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
