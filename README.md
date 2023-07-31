@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult PSP Game Gets Spiritual Successor That’s Already Blowing Up Kickstarter](https://kotaku.com/patapon-ratatan-rhythm-rpg-kickstarter-psp-ps5-sequel-1850693658)
- - [The Lord of the Rings: Gollum gets a big patch but it sounds like the developers are ready to wash their hands of the whole thing](https://www.pcgamer.com/the-lord-of-the-rings-gollum-gets-a-big-patch-but-it-sounds-like-the-developers-are-ready-to-wash-their-hands-of-the-whole-thing)
- - [Hit Steam Game Includes Secret Designed Only For Dataminers To Discover](https://kotaku.com/remnant-2-hidden-class-archon-how-to-unlock-dataminers-1850693562)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is a 122GB download and you can&#39;t preload any of it](https://www.pcgamer.com/baldurs-gate-3-is-a-122gb-download-and-you-cant-preload-any-of-it)
+ - [One of the best stealth-horror games around has passed that &#39;early access threshold&#39;—it&#39;s definitely time to check out Gloomwood](https://www.pcgamer.com/one-of-the-best-stealth-horror-games-around-has-passed-that-early-access-thresholdits-definitely-time-to-check-out-gloomwood)
+ - [Cult PSP Game Gets Spiritual Successor That’s Already Blowing Up Kickstarter](https://kotaku.com/patapon-ratatan-rhythm-rpg-kickstarter-psp-ps5-sequel-1850693658)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
