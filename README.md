@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
- - ⏩ [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - ⏩ [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
+ - 👉 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)<!-- MEMES:END -->
 
 ---
 
