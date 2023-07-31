@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War: Warhammer 3&#39;s next DLC gives us our first look at the Jade Dragon](https://www.pcgamer.com/total-war-warhammer-3s-next-dlc-gives-us-our-first-look-at-the-jade-dragon)
  - [Infection Free Zone will let you reclaim your own town after the zombie apocalypse](https://www.pcgamer.com/infection-free-zone-will-let-you-reclaim-your-own-town-after-the-zombie-apocalypse)
- - [I&#39;m not sure what this action horror game is about but I love the creepy enemies](https://www.pcgamer.com/im-not-sure-what-this-action-horror-game-is-about-but-i-love-the-creepy-enemies)
- - [Steven Soderbergh deconstructs back-to-back experiments: Full Circle and Command Z](https://www.polygon.com/23810112/steven-soderbergh-full-circle-command-z-interview)<!-- GAME:END -->
+ - [I&#39;m not sure what this action horror game is about but I love the creepy enemies](https://www.pcgamer.com/im-not-sure-what-this-action-horror-game-is-about-but-i-love-the-creepy-enemies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
