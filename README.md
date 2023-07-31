@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 fans finally get the news we&#39;ve been waiting for: horse buffs](https://www.pcgamer.com/diablo-4-fans-finally-get-the-news-weve-been-waiting-for-horse-buffs)
- - [Baldur&#39;s Gate 3 has a &#39;hidden skill tree&#39; for Illithid powers](https://www.pcgamer.com/baldurs-gate-3-has-a-hidden-skill-tree-for-illithid-powers)
- - [Jazzy storybook tactics RPG Arcadian Atlas welds Hamlet to Final Fantasy Tactics](https://www.pcgamer.com/jazzy-storybook-tactics-rpg-arcadian-atlas-welds-hamlet-to-final-fantasy-tactics)<!-- GAME:END -->
+ - [Good job, Professor X, you just misplaced 99% of the X-Men in space](https://www.polygon.com/2023/7/31/23814049/x-men-hellfire-gala-2023)
+ - [Here’s where to pre-order Avatar: Frontiers of Pandora](https://www.polygon.com/deals/23766992/avatar-frontiers-of-pandora-pre-order-buy-collectors-edition-ps5-pc-xbox)
+ - [Where to pre-order Super Mario Bros. Wonder](https://www.polygon.com/deals/23768840/super-mario-wonder-pre-order-buy-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
