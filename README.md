@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - ⏩ [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
+ - 💣 [Hmmm who is actually doing fraud and being the criminal here?](http://9gag.com/gag/aEqEbKN)
+ - ⏩ [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
 
 ---
 
