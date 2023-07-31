@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - ⏩ [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)<!-- MEMES:END -->
+ - 💣 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - ⏩ [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 
