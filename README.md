@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X gets big exception from Apple with one-letter App Store listing](https://appleinsider.com/articles/23/07/31/x-gets-big-exception-from-apple-gets-one-letter-app-store-listing?utm_medium=rss)
- - [Pre-Apple check by Jobs and Woz up for auction](https://appleinsider.com/articles/23/07/31/pre-apple-check-by-jobs-and-woz-up-for-auction?utm_medium=rss)
- - [Nintendo could be preparing to launch its next-gen system in 2024](https://www.androidauthority.com/nintendo-switch-next-gen-console-3351271/)<!-- TECH:END -->
+ - [OnePlus’ debut mechanical keyboard is a Keychron with a twist](https://www.theverge.com/23814099/oneplus-keyboard-81-pro-typing-sound-test-hands-on-marble-mallow-summer-breeze)
+ - [Dell is all in on generative AI](https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon)
+ - [Here’s how to score an extra $50 off the Galaxy Z Fold 5 or Z Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-z-flip-5-deal-3351293/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
