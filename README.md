@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic Nintendo Systems Get Beautiful Mechanical Keyboard Tribute Dek](https://kotaku.com/nintendo-mechanical-keyboard-nes-8bitdo-retro-wireless-1850692228)
- - [Student startup develops IRL closed caption glasses for the deaf](https://www.pcgamer.com/student-startup-develops-irl-closed-caption-glasses-for-the-deaf)
- - [Microsoft is making Windows 11 greener for PC gaming&#39;s fancy monitors](https://www.pcgamer.com/microsoft-is-making-windows-11-greener-for-pc-gamings-fancy-monitors)<!-- GAME:END -->
+ - [A Netflix anime, Heartstopper, thriller finales, and all the new TV this week](https://www.polygon.com/2023/7/31/23792834/netflix-new-tv-anime-heartstopper-season-2-thriller-finales)
+ - [Hasbro says the problem with re-releasing old Transformers games is Activision&#39;s lost a bunch of them](https://www.pcgamer.com/hasbro-says-the-problem-with-re-releasing-old-transformers-games-is-activisions-lost-a-bunch-of-them)
+ - [Diablo 4’s rebalancing work begins with Sorcerer and Barbarian buffs in next patch](https://www.polygon.com/23813964/diablo-4-patch-1-1-1-sorcerer-barbarian-buffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
