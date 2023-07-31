@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)
- - [Here’s how long your Flip 5, Fold 5 screens will last in very cold weather](https://www.androidauthority.com/samsung-galaxy-flip-fold-5-cold-weather-folds-3351239/)
- - [Twitter/X threatens to sue Center for Countering Digital Hate, alleging the nonprofit made &quot;troubling and baseless claims&quot; to hurt Twitter and its ad business &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p7#a230731p7)<!-- TECH:END -->
+ - [Apple confirms a Screen Time bug, letting kids go over the time limits imposed by parents to use apps and games, but doesn&#39;t offer a timeline for a fix &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230731/p10#a230731p10)
+ - [MagSafe travel chargers, iOS features that never arrived, and more smart home news on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/31/magsafe-travel-chargers-ios-features-that-never-arrived-and-more-smart-home-news-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [A consortium led by PE firms Francisco and TPG agrees to take observability software company New Relic private in an offer valuing the company at ~$6.5B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230731/p9#a230731p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
