@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)
- - [Baldur&#39;s Gate 3 Dev Says Their Other Mega RPG Series Is Still Alive](https://kotaku.com/baldurs-gate-3-pc-release-date-divinity-original-sin-2-1850688021)
- - [Minecraft exploit makes it &#39;completely dangerous&#39; to play with unpatched mods right now](https://www.pcgamer.com/minecraft-exploit-makes-it-completely-dangerous-to-play-with-unpatched-mods-right-now)<!-- GAME:END -->
+ - [PS5 is getting a major new accessibility feature](https://www.polygon.com/23813816/ps5-system-software-update-assist-controller-atmos-8tb)
+ - [New players could skip the bulk of Final Fantasy 14&#39;s story in the future, though Yoshi-P is hesitant to encourage it](https://www.pcgamer.com/new-players-could-skip-the-bulk-of-final-fantasy-14s-story-in-the-future-though-yoshi-p-is-hesitant-to-encourage-it)
+ - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
