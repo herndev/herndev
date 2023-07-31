@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ debut mechanical keyboard is a Keychron with a twist](https://www.theverge.com/23814099/oneplus-keyboard-81-pro-typing-sound-test-hands-on-marble-mallow-summer-breeze)
- - [Dell is all in on generative AI](https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon)
- - [Here’s how to score an extra $50 off the Galaxy Z Fold 5 or Z Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-z-flip-5-deal-3351293/)<!-- TECH:END -->
+ - [Galaxy Smart Tag 2 redesign shown off in certification application](https://www.androidauthority.com/samsung-galaxy-tag-2-design-3351340/)
+ - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)
+ - [AirPods Pro vs Sony WF-1000XM5 -- compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-vs-sony-wf-1000xm5----compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
