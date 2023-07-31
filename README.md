@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Italy&#39;s AGCM says it accepted Google&#39;s proposed commitments to end a case over the company&#39;s alleged abuse of its position in the user data portability market &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/230731/p5#a230731p5)
- - [New Apple Watch Ultra could come in dark titanium](https://appleinsider.com/articles/23/07/31/new-apple-watch-ultra-could-come-in-dark-titanium?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)
+ - [Here’s how long your Flip 5, Fold 5 screens will last in very cold weather](https://www.androidauthority.com/samsung-galaxy-flip-fold-5-cold-weather-folds-3351239/)
+ - [Twitter/X threatens to sue Center for Countering Digital Hate, alleging the nonprofit made &quot;troubling and baseless claims&quot; to hurt Twitter and its ad business &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p7#a230731p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
