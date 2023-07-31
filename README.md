@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brian Armstrong says the SEC asked Coinbase to halt trading all crypto except bitcoin before it sued, and refused to explain its interpretation of the law &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230731/p1#a230731p1)
  - [Sources: Tiger Global has completed its exit from Flipkart, in a years-long selloff that led to gains totaling $3.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230730/p11#a230730p11)
- - [Curve, a stablecoin exchange on Ethereum, says bugs in Vyper, a programming language used by parts of Curve, are being exploited; ~$100M of crypto is at risk &lpar;CoinDesk&rpar;](http://www.techmeme.com/230730/p10#a230730p10)
- - [Source: UK Home Office officials aim to lobby the ICO for expanded use of facial recognition in shops, in contrast to the EU&#39;s ban of the tech in public spaces &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230730/p9#a230730p9)<!-- TECH:END -->
+ - [Curve, a stablecoin exchange on Ethereum, says bugs in Vyper, a programming language used by parts of Curve, are being exploited; ~$100M of crypto is at risk &lpar;CoinDesk&rpar;](http://www.techmeme.com/230730/p10#a230730p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
