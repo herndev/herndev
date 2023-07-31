@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Assassin&#39;s Creed Is Smaller Because Past Games Got Way Too Big [Update]](https://kotaku.com/assassin-s-creed-mirage-valhalla-size-small-rpg-ubisoft-1849980777)
- - [Don’t Go Playin’ Ratchet &amp; Clank: Rift Apart On PC Without An SSD](https://kotaku.com/ratchet-and-clank-rift-apart-pc-ssd-ps5-hdd-playable-1850691636)
- - [Mortal Kombat 1’s black hole Fatality is already one of the series’ best](https://www.polygon.com/23813914/mortal-kombat-1-liu-kang-black-hole-fatality-geras)<!-- GAME:END -->
+ - [Wield powerful mindflayer powers in Baldur’s Gate 3 – skills explained](https://blog.playstation.com/2023/07/31/wield-powerful-mindflayer-powers-in-baldurs-gate-3-skills-explained/)
+ - [The Twisted Metal TV show made sure it got one character exactly right — ol’ Evelyn](https://www.polygon.com/23808519/twisted-metal-tv-show-peacock-car-cast-subaru)
+ - [Pokémon Go Spotlight Hour schedule for August 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
