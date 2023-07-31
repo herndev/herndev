@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s next DLC gives us our first look at the Jade Dragon](https://www.pcgamer.com/total-war-warhammer-3s-next-dlc-gives-us-our-first-look-at-the-jade-dragon)
- - [Infection Free Zone will let you reclaim your own town after the zombie apocalypse](https://www.pcgamer.com/infection-free-zone-will-let-you-reclaim-your-own-town-after-the-zombie-apocalypse)
- - [I&#39;m not sure what this action horror game is about but I love the creepy enemies](https://www.pcgamer.com/im-not-sure-what-this-action-horror-game-is-about-but-i-love-the-creepy-enemies)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 31, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-31-2023)
+ - [Ubisoft says Assassin&#39;s Creed Mirage is only 20–30 hours long](https://www.pcgamer.com/ubisoft-says-assassins-creed-mirage-is-only-2030-hours-long)
+ - [Total War: Warhammer 3&#39;s next DLC gives us our first look at the Jade Dragon](https://www.pcgamer.com/total-war-warhammer-3s-next-dlc-gives-us-our-first-look-at-the-jade-dragon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
