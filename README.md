@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
- - ⏩ [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
- - 👉 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)<!-- MEMES:END -->
+ - 💣 [Single moms be like](http://9gag.com/gag/abvE82O)
+ - ⏩ [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
+ - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
 
 ---
 
