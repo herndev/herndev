@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - ⏩ [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - ⏩ [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 👉 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)<!-- MEMES:END -->
 
 ---
 
