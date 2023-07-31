@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess Im a world class masturbator](http://9gag.com/gag/aEqEmO9)
- - ⏩ [Up and Down!](http://9gag.com/gag/ay2PbLp)
- - 👉 [Kinda agree with her...](http://9gag.com/gag/aVbBpx2)<!-- MEMES:END -->
+ - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - ⏩ [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [She found out](http://9gag.com/gag/ay2Pbzr)<!-- MEMES:END -->
 
 ---
 
