@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch emergency calls false positives slammed by UK police chiefs](https://appleinsider.com/articles/23/07/31/apple-watch-emergency-calls-false-positives-slammed-by-uk-police-chiefs?utm_medium=rss)
  - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Oregon driver saved by iPhone 14 crash detection](https://appleinsider.com/articles/23/07/31/oregon-driver-saved-by-iphone-14-crash-detection?utm_medium=rss)<!-- TECH:END -->
+ - [Italy&#39;s AGCM says it accepted Google&#39;s proposed commitments to end a case over the company&#39;s alleged abuse of its position in the user data portability market &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/230731/p5#a230731p5)
+ - [New Apple Watch Ultra could come in dark titanium](https://appleinsider.com/articles/23/07/31/new-apple-watch-ultra-could-come-in-dark-titanium?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
