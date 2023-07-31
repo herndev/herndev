@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Indian broadcasters are using lifelike AI anchors to deliver news, weather reports, and more, raising job loss fears and questions about media credibility &lpar;Neeta Lal/Nikkei Asia&rpar;](http://www.techmeme.com/230731/p11#a230731p11)
- - [10 years of Chromecast: From wow to meh](https://www.androidauthority.com/10-years-chromecast-3350985/)
- - [Twitter gets special permission to be ‘X’ in the iOS App Store](https://www.theverge.com/2023/7/31/23813883/twitter-x-ios-app-store-iphone-apple-elon-musk)<!-- TECH:END -->
+ - [Airalo, which offers affordable eSIM roaming packages for travelers, raised a $60M Series B led by e&amp; Capital at a $250M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230731/p12#a230731p12)
+ - [Daily Deals July 31: 55% off 2018 Mac mini, 46% off 2021 M1 MacBook Pro, iPhone 14 Pro Max $920, more](https://appleinsider.com/articles/23/07/31/daily-deals-july-31-55-off-2018-mac-mini-46-off-2021-m1-macbook-pro-iphone-14-pro-max-920-more?utm_medium=rss)
+ - [New app lets you design your own Apple Store sales displays](https://appleinsider.com/articles/23/07/31/new-app-lets-you-design-your-own-apple-store-sales-displays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
