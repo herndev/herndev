@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - ⏩ [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 👉 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)<!-- MEMES:END -->
+ - 💣 [Guess Im a world class masturbator](http://9gag.com/gag/aEqEmO9)
+ - ⏩ [Up and Down!](http://9gag.com/gag/ay2PbLp)
+ - 👉 [Kinda agree with her...](http://9gag.com/gag/aVbBpx2)<!-- MEMES:END -->
 
 ---
 
