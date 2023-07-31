@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barbie and Oppenheimer’s box office weekends were both massive winners](https://www.polygon.com/23803364/barbie-oppenheimer-box-office-total)
- - [I Wish I Loved This Final Fantasy Tactics-Inspired SRPG 7 Years In The Making](https://kotaku.com/final-fantasy-tactics-arcadian-atlas-srpg-steam-review-1850692803)
- - [Hasbro Wants Old Transformers Games To Return, But Activision Lost Them](https://kotaku.com/transformers-war-cybertron-hasbro-activision-remaster-1850692571)<!-- GAME:END -->
+ - [Diablo 4 fans finally get the news we&#39;ve been waiting for: horse buffs](https://www.pcgamer.com/diablo-4-fans-finally-get-the-news-weve-been-waiting-for-horse-buffs)
+ - [Baldur&#39;s Gate 3 has a &#39;hidden skill tree&#39; for Illithid powers](https://www.pcgamer.com/baldurs-gate-3-has-a-hidden-skill-tree-for-illithid-powers)
+ - [Jazzy storybook tactics RPG Arcadian Atlas welds Hamlet to Final Fantasy Tactics](https://www.pcgamer.com/jazzy-storybook-tactics-rpg-arcadian-atlas-welds-hamlet-to-final-fantasy-tactics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
