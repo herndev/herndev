@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airalo, which offers affordable eSIM roaming packages for travelers, raised a $60M Series B led by e&amp; Capital at a $250M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230731/p12#a230731p12)
- - [Daily Deals July 31: 55% off 2018 Mac mini, 46% off 2021 M1 MacBook Pro, iPhone 14 Pro Max $920, more](https://appleinsider.com/articles/23/07/31/daily-deals-july-31-55-off-2018-mac-mini-46-off-2021-m1-macbook-pro-iphone-14-pro-max-920-more?utm_medium=rss)
- - [New app lets you design your own Apple Store sales displays](https://appleinsider.com/articles/23/07/31/new-app-lets-you-design-your-own-apple-store-sales-displays?utm_medium=rss)<!-- TECH:END -->
+ - [X gets big exception from Apple with one-letter App Store listing](https://appleinsider.com/articles/23/07/31/x-gets-big-exception-from-apple-gets-one-letter-app-store-listing?utm_medium=rss)
+ - [Pre-Apple check by Jobs and Woz up for auction](https://appleinsider.com/articles/23/07/31/pre-apple-check-by-jobs-and-woz-up-for-auction?utm_medium=rss)
+ - [Nintendo could be preparing to launch its next-gen system in 2024](https://www.androidauthority.com/nintendo-switch-next-gen-console-3351271/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
