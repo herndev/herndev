@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 series could gain an overdue ergonomic change](https://www.androidauthority.com/apple-iphone-15-edges-sharp-3350868/)
  - [Brian Armstrong says the SEC asked Coinbase to halt trading all crypto except bitcoin before it sued, and refused to explain its interpretation of the law &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230731/p1#a230731p1)
- - [Sources: Tiger Global has completed its exit from Flipkart, in a years-long selloff that led to gains totaling $3.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230730/p11#a230730p11)
- - [Curve, a stablecoin exchange on Ethereum, says bugs in Vyper, a programming language used by parts of Curve, are being exploited; ~$100M of crypto is at risk &lpar;CoinDesk&rpar;](http://www.techmeme.com/230730/p10#a230730p10)<!-- TECH:END -->
+ - [Sources: Tiger Global has completed its exit from Flipkart, in a years-long selloff that led to gains totaling $3.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230730/p11#a230730p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
