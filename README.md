@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
- - ⏩ [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 💣 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
+ - ⏩ [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
 
 ---
 
