@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denies Terraform Labs&#39; motion to dismiss an SEC lawsuit, saying the SEC made a &quot;plausible claim&quot; that UST and LUNA may have violated securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230731/p21#a230731p21)
- - [Leaked Google memo shows it ‘deeply committed’ to Assistant, bringing LLM power](https://www.androidauthority.com/google-assistant-llm-3351414/)
- - [Google will ‘supercharge’ Assistant with AI that’s more like ChatGPT and Bard](https://www.theverge.com/2023/7/31/23814702/google-assistant-ai-features-layoffs-bard)<!-- TECH:END -->
+ - [Sources: Nintendo plans to release a new console in H2 2024, with portable mode, an LCD screen, and a cartridge slot; key partners already have development kits &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230731/p25#a230731p25)
+ - [The California Privacy Protection Agency plans to review manufacturers&#39; treatment of data collected from vehicles, including locations and images from cameras &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230731/p24#a230731p24)
+ - [Apple releases revised macOS Sonoma, iOS 17 developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
