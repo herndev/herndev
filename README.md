@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Broforce Forever, Everspace 2, A Short Hike, and More](https://news.xbox.com/en-us/2023/08/01/game-pass-august-2023-wave-1-announce/)
- - [Sin: Reloaded &#39;isn&#39;t dead&#39; but sure sounds like it&#39;s on ice](https://www.pcgamer.com/sin-reloaded-isnt-dead-but-sure-sounds-like-its-on-ice)
- - [GuliKit Electromagnetic Joystick Module](https://www.pcgamer.com/gulikit-electromagnetic-joystick-module-for-steam-deck-review)<!-- GAME:END -->
+ - [Vaporize Your Competition with the Stormcloud Vapor Special Edition Controller](https://news.xbox.com/en-us/2023/08/01/stormcloud-vapor-special-edition-xbox-wireless-controller/)
+ - [We condensed years of D&amp;D storylines to get you ready for Baldur’s Gate 3](https://www.polygon.com/23814469/baldurs-gate-3-story-so-far-dungeons-dragons-dnd)
+ - [Asmodee’s Cobra Kai board game is now available at Walmart](https://www.polygon.com/deals/23814061/cobra-kai-board-game-asmodee-details-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
