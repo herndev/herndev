@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m so excited for Baldur&#39;s Gate 3 co-op, but scheduling a 100-hour D&amp;D campaign with 4 adults is truly chaotic evil](https://www.pcgamer.com/baldurs-gate-3-so-hard-to-play-as-busy-adults)
- - [Switch’s The Last Of Us Clone Has Vanished, And Sony Is Killing The Trailers](https://kotaku.com/last-of-us-clone-dead-zone-switch-worst-game-removed-1850696874)
- - [Diamond locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728377/diamond-locations-how-get)<!-- GAME:END -->
+ - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
+ - [Microsoft Now Sells Xbox Controller Replacement Parts](https://kotaku.com/xbox-controller-drift-repair-diy-fix-parts-elite-1850697349)
+ - [Baldur’s Gate 3 may not come to Xbox until 2024](https://www.polygon.com/23815906/baldurs-gate-3-xbox-release-date-series-s-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
