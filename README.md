@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sailor Moon-Inspired Cosplay Turns Lizzo Into Love And Justice Barbie](https://kotaku.com/lizzo-barbie-instagram-sailor-moon-cosplay-instagram-1850695427)
- - [Two iconic indies are joining Xbox Game Pass in August](https://www.polygon.com/23815461/xbox-game-pass-august-2023-celeste-a-short-hike)
- - [Starfield Will Support One Of Xbox’s Lowkey Best Features](https://kotaku.com/starfield-xbox-series-x-s-pc-play-anywhere-game-pass-1850695407)<!-- GAME:END -->
+ - [Play Through the History of Kemco Games with the Kemco: 50 RPGs Celebratory Bundle](https://news.xbox.com/en-us/2023/08/01/kemco-50-rpgs-celebratory-bundle/)
+ - [World of Warcraft role-players throw medieval tournament for a good cause](https://www.polygon.com/23814033/world-of-warcraft-role-players-epsilon-northeron-games-turkey-syria-earthquake-wow)
+ - [Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay](https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
