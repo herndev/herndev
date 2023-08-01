@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Language Learning Apps &lpar;2023&rpar;: Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)
- - [Sonnet&#39;s new dock lets M1 Mac owners have three 4K displays](https://appleinsider.com/articles/23/08/01/sonnets-new-dock-lets-m1-mac-owners-have-three-4k-displays?utm_medium=rss)
- - [Networking startup Nile, founded by ex-Cisco executives, raised a $175M Series C co-led by March Capital and Saudi Arabia&#39;s Sanabil, taking its funding to $300M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230801/p16#a230801p16)<!-- TECH:END -->
+ - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
+ - [Amazon rolls out Amazon Clinic to all 50 US states and DC, available via video visits; message-based chat is only available in 34 states &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p20#a230801p20)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on Uber for Teens and potential issues, rising prices, profitability, Lyft, DoorDash, driving for Uber, AI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230801/p19#a230801p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
