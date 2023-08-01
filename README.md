@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - ⏩ [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - 👉 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)<!-- MEMES:END -->
+ - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
 
 ---
 
