@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New ad campaign tells you to &#39;Pay the Apple Way&#39;](https://appleinsider.com/articles/23/08/01/new-ad-campaign-tells-you-to-pay-the-apple-way?utm_medium=rss)
- - [Tesla under investigation for Model 3 and Model Y steering wheels that freeze up](https://www.theverge.com/2023/8/1/23816037/tesla-model-3-y-steering-wheel-power-nhtsa-investigation)
- - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Match Group reports Q2 revenue up 4% YoY to $830M, vs. $811M est., payers down 5% YoY to 15.6M, and forecasts Q3 revenue above estimates; MTCH jumps 11%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230801/p33#a230801p33)
+ - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
+ - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
