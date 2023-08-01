@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hasbro Wants Old Transformers Games To Return, But Activision Lost Them [Update]](https://kotaku.com/transformers-war-cybertron-hasbro-activision-remaster-1850692571)
- - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
- - [Let the ear collecting begin: World of Warcraft Classic&#39;s Hardcore servers open soon](https://www.pcgamer.com/world-of-warcraft-classic-hardcore-release-date)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor Is Coming To PS4, Xbox One](https://kotaku.com/star-wars-jedi-survivor-ea-ps4-xbox-one-next-gen-ports-1850697840)
+ - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers [Update]](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)
+ - [Strange Diablo 4 glitch has players unplugging their internet to create a portal between realms](https://www.pcgamer.com/strange-diablo-4-glitch-has-players-unplugging-their-internet-to-create-a-portal-between-realms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
