@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food isn&#39;t the only problem](http://9gag.com/gag/ajVyed8)
- - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
+ - 💣 [Get out of the way](http://9gag.com/gag/armzwA7)
+ - ⏩ [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 👉 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)<!-- MEMES:END -->
 
 ---
 
