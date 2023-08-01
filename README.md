@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pearson plans to launch generative AI study tools for the upcoming academic year, including an &quot;On a Tight Schedule&quot; feature to summarize key learning points &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230801/p10#a230801p10)
- - [Your Google data and YouTube videos will be easier to migrate after GDPR challenge](https://www.theverge.com/2023/8/1/23815304/google-data-transfer-takeout-search-youtube-gdpr-agcm)
- - [The FBI says a contractor misled the agency and used NSO&#39;s Landmark to track people in Mexico without consent; the FBI terminated the contract in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/230801/p9#a230801p9)<!-- TECH:END -->
+ - [TD Cowen raises AAPL target to $220 as iPhone demand in China, India grows](https://appleinsider.com/articles/23/08/01/td-cowen-raises-aapl-target-to-220-as-iphone-demand-in-china-india-grows?utm_medium=rss)
+ - [Sources: under pressure from the EU, Meta offers to seek user consent in Europe for targeted ads based on users&#39; digital activity as soon as October 2023 &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p13#a230801p13)
+ - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
