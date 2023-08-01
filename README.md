@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looking for a capture card? Our guide has the top picks](https://www.polygon.com/what-to-buy/23808448/best-capture-card)
- - [Anita Sarkeesian Shutters Feminist Frequency, Operations To Cease In Early 2024](https://kotaku.com/anita-sarkeesian-feminist-frequency-closing-tropes-v-wo-1850696735)
- - [Give us a blooper version of Baldur’s Gate 3, you cowards](https://www.polygon.com/23815881/baldurs-gate-3-narrator-amelia-tyler-tiktok-bloopers)<!-- GAME:END -->
+ - [I&#39;m so excited for Baldur&#39;s Gate 3 co-op, but scheduling a 100-hour D&amp;D campaign with 4 adults is truly chaotic evil](https://www.pcgamer.com/baldurs-gate-3-so-hard-to-play-as-busy-adults)
+ - [Switch’s The Last Of Us Clone Has Vanished, And Sony Is Killing The Trailers](https://kotaku.com/last-of-us-clone-dead-zone-switch-worst-game-removed-1850696874)
+ - [Diamond locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728377/diamond-locations-how-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
