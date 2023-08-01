@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - ⏩ [One of the few interviewers to ask Michael Jackson the right questions](http://9gag.com/gag/ajVyoy0)
- - 👉 [The moment Chalino Sanchez reads a note from the cartel stating he will be killed after his performance](http://9gag.com/gag/aA0Z91o)<!-- MEMES:END -->
+ - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - ⏩ [Hold up](http://9gag.com/gag/a8qzP41)
+ - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
 
 ---
 
