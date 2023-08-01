@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vaporize Your Competition with the Stormcloud Vapor Special Edition Controller](https://news.xbox.com/en-us/2023/08/01/stormcloud-vapor-special-edition-xbox-wireless-controller/)
- - [We condensed years of D&amp;D storylines to get you ready for Baldur’s Gate 3](https://www.polygon.com/23814469/baldurs-gate-3-story-so-far-dungeons-dragons-dnd)
- - [Asmodee’s Cobra Kai board game is now available at Walmart](https://www.polygon.com/deals/23814061/cobra-kai-board-game-asmodee-details-buy)<!-- GAME:END -->
+ - [Sailor Moon-Inspired Cosplay Turns Lizzo Into Love And Justice Barbie](https://kotaku.com/lizzo-barbie-instagram-sailor-moon-cosplay-instagram-1850695427)
+ - [Two iconic indies are joining Xbox Game Pass in August](https://www.polygon.com/23815461/xbox-game-pass-august-2023-celeste-a-short-hike)
+ - [Starfield Will Support One Of Xbox’s Lowkey Best Features](https://kotaku.com/starfield-xbox-series-x-s-pc-play-anywhere-game-pass-1850695407)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
