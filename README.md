@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be preparing a new iPad mini 7 for the fall](https://appleinsider.com/articles/23/08/01/apple-may-be-preparing-a-new-ipad-mini-7-for-the-fall?utm_medium=rss)
- - [A new Russian law mandates that internet platforms verify new users&#39; identities via state-approved systems before granting access, starting in December 2023 &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230801/p23#a230801p23)
- - [Apple Watch Series 9 may gain new pink color](https://appleinsider.com/articles/23/08/01/apple-watch-series-9-may-gain-new-pink-color?utm_medium=rss)<!-- TECH:END -->
+ - [To challenge TikTok, YouTube releases new Shorts creation tools for remixing, adding effects, going live, as well as a new interactive Q&amp;A sticker and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230801/p26#a230801p26)
+ - [Chevy Blazer EV production starts with the AWD RS model up first](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)
+ - [A look at the nascent scene of AI chatbots trained for phishing and malware attacks, including WormGPT, DarkBERT, and FraudGPT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230801/p25#a230801p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
