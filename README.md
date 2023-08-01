@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)
- - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
+ - 💣 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
+ - ⏩ [Life hack](http://9gag.com/gag/aDYME17)
+ - 👉 [He has a point](http://9gag.com/gag/aREDqrq)<!-- MEMES:END -->
 
 ---
 
