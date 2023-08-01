@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To challenge TikTok, YouTube releases new Shorts creation tools for remixing, adding effects, going live, as well as a new interactive Q&amp;A sticker and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230801/p26#a230801p26)
- - [Chevy Blazer EV production starts with the AWD RS model up first](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)
- - [A look at the nascent scene of AI chatbots trained for phishing and malware attacks, including WormGPT, DarkBERT, and FraudGPT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230801/p25#a230801p25)<!-- TECH:END -->
+ - [Socket, which offers a scanning tool to detect vulnerabilities in open-source code, raised a $20M Series A led by a16z, taking its total funding to $24.6M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p27#a230801p27)
+ - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
+ - [Both the PlayStation 5 and Xbox Series X are $50 off right now](https://www.theverge.com/2023/8/1/23815770/sony-playstation-5-ps5-microsoft-xbox-series-x-xsx-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
