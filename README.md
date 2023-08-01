@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 👉 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)<!-- MEMES:END -->
+ - 💣 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)
+ - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
 
 ---
 
