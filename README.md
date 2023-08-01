@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Teenage Mutant Ninja Turtle DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2023/08/01/teenage-mutant-ninja-turtle-dlc-available-now-in-the-minecraft-marketplace/)
- - [Baldur&#39;s Gate 3 launch times and download size](https://www.pcgamer.com/baldurs-gate-3-launch-time-unlock-preload)
- - [Night Reverie, a Heartwarming Adventure Now Available on Xbox and Windows](https://news.xbox.com/en-us/2023/08/01/night-reverie-a-heartwarming-adventure-now-available-on-xbox-and-windows/)<!-- GAME:END -->
+ - [Looking for a capture card? Our guide has the top picks](https://www.polygon.com/what-to-buy/23808448/best-capture-card)
+ - [Anita Sarkeesian Shutters Feminist Frequency, Operations To Cease In Early 2024](https://kotaku.com/anita-sarkeesian-feminist-frequency-closing-tropes-v-wo-1850696735)
+ - [Give us a blooper version of Baldur’s Gate 3, you cowards](https://www.polygon.com/23815881/baldurs-gate-3-narrator-amelia-tyler-tiktok-bloopers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
