@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 4060 Ti vs RTX 3060 Ti and 7 of its biggest rival GPUs](https://www.pcgamer.com/nvidia-rtx-4060-ti-vs-rtx-3060-ti)
- - [PC Gamer is hiring a social media editor in the UK](https://www.pcgamer.com/pc-gamer-is-hiring-a-social-media-editor-in-the-uk)
- - [NES inspired mechanical keyboards with massive matching A and B buttons are a vibe](https://www.pcgamer.com/nes-inspired-mechanical-keyboards-with-massive-matching-a-and-b-buttons-are-a-vibe)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Broforce Forever, Everspace 2, A Short Hike, and More](https://news.xbox.com/en-us/2023/08/01/game-pass-august-2023-wave-1-announce/)
+ - [Sin: Reloaded &#39;isn&#39;t dead&#39; but sure sounds like it&#39;s on ice](https://www.pcgamer.com/sin-reloaded-isnt-dead-but-sure-sounds-like-its-on-ice)
+ - [GuliKit Electromagnetic Joystick Module](https://www.pcgamer.com/gulikit-electromagnetic-joystick-module-for-steam-deck-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
