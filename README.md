@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ cancels Uma Thurman thriller &#39;Suspicion&#39;](https://appleinsider.com/articles/23/08/01/apple-tv-cancels-uma-thurman-thriller-suspicion?utm_medium=rss)
- - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
- - [X sues the Center for Countering Digital Hate, alleging that researchers violated its terms of service and the CFAA while studying hate speech on the platform &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/230801/p21#a230801p21)<!-- TECH:END -->
+ - [Apple may be preparing a new iPad mini 7 for the fall](https://appleinsider.com/articles/23/08/01/apple-may-be-preparing-a-new-ipad-mini-7-for-the-fall?utm_medium=rss)
+ - [A new Russian law mandates that internet platforms verify new users&#39; identities via state-approved systems before granting access, starting in December 2023 &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230801/p23#a230801p23)
+ - [Apple Watch Series 9 may gain new pink color](https://appleinsider.com/articles/23/08/01/apple-watch-series-9-may-gain-new-pink-color?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
