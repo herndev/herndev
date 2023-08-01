@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ cancels Uma Thurman thriller &#39;Suspicion&#39;](https://appleinsider.com/articles/23/08/01/apple-tv-cancels-uma-thurman-thriller-suspicion?utm_medium=rss)
  - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
- - [Amazon rolls out Amazon Clinic to all 50 US states and DC, available via video visits; message-based chat is only available in 34 states &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p20#a230801p20)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on Uber for Teens and potential issues, rising prices, profitability, Lyft, DoorDash, driving for Uber, AI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230801/p19#a230801p19)<!-- TECH:END -->
+ - [X sues the Center for Countering Digital Hate, alleging that researchers violated its terms of service and the CFAA while studying hate speech on the platform &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/230801/p21#a230801p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
