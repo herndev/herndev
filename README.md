@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
- - [Microsoft Now Sells Xbox Controller Replacement Parts](https://kotaku.com/xbox-controller-drift-repair-diy-fix-parts-elite-1850697349)
- - [Baldur’s Gate 3 may not come to Xbox until 2024](https://www.polygon.com/23815906/baldurs-gate-3-xbox-release-date-series-s-x)<!-- GAME:END -->
+ - [Hasbro Wants Old Transformers Games To Return, But Activision Lost Them [Update]](https://kotaku.com/transformers-war-cybertron-hasbro-activision-remaster-1850692571)
+ - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
+ - [Let the ear collecting begin: World of Warcraft Classic&#39;s Hardcore servers open soon](https://www.pcgamer.com/world-of-warcraft-classic-hardcore-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
