@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group reports Q2 revenue up 4% YoY to $830M, vs. $811M est., payers down 5% YoY to 15.6M, and forecasts Q3 revenue above estimates; MTCH jumps 11%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230801/p33#a230801p33)
- - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
- - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)<!-- TECH:END -->
+ - [tvOS 17 &amp; watchOS 10 public beta 2 now available](https://appleinsider.com/articles/23/08/01/tvos-17-watchos-10-public-beta-2-now-available?utm_medium=rss)
+ - [Star Wars Jedi: Survivor is coming to PS4 and Xbox One](https://www.theverge.com/2023/8/1/23816311/star-wars-jedi-survivor-ps4-xbox-one)
+ - [JP Morgan gives Apple a price target of $235 for December 2024](https://appleinsider.com/articles/23/08/01/jp-morgan-gives-apple-a-price-target-of-235-for-december-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
