@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TD Cowen raises AAPL target to $220 as iPhone demand in China, India grows](https://appleinsider.com/articles/23/08/01/td-cowen-raises-aapl-target-to-220-as-iphone-demand-in-china-india-grows?utm_medium=rss)
- - [Sources: under pressure from the EU, Meta offers to seek user consent in Europe for targeted ads based on users&#39; digital activity as soon as October 2023 &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p13#a230801p13)
- - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Language Learning Apps &lpar;2023&rpar;: Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)
+ - [Sonnet&#39;s new dock lets M1 Mac owners have three 4K displays](https://appleinsider.com/articles/23/08/01/sonnets-new-dock-lets-m1-mac-owners-have-three-4k-displays?utm_medium=rss)
+ - [Networking startup Nile, founded by ex-Cisco executives, raised a $175M Series C co-led by March Capital and Saudi Arabia&#39;s Sanabil, taking its funding to $300M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230801/p16#a230801p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
