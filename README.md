@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
- - ⏩ [Hold up](http://9gag.com/gag/a8qzP41)
- - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
+ - 💣 [I volunteer](http://9gag.com/gag/avQm3pO)
+ - ⏩ [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)
+ - 👉 [Policeman using a park slide...](http://9gag.com/gag/aoKDr9g)<!-- MEMES:END -->
 
 ---
 
