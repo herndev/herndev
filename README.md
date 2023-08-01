@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA reopens its consultation on Microsoft&#39;s Activision deal, an unusual move that could lead to a reversal of the decision to block the deal &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230801/p6#a230801p6)
- - [Court filings: FTX Group details a draft plan to repay creditors, including settling claims in USD and wiping out FTT; seven classes of creditors can now vote &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230801/p5#a230801p5)
- - [Meta’s AI ‘personas’ might launch next month](https://www.theverge.com/2023/8/1/23815287/meta-ai-persona-generative-llama-instagram-facebook)<!-- TECH:END -->
+ - [Pearson plans to launch generative AI study tools for the upcoming academic year, including an &quot;On a Tight Schedule&quot; feature to summarize key learning points &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230801/p10#a230801p10)
+ - [Your Google data and YouTube videos will be easier to migrate after GDPR challenge](https://www.theverge.com/2023/8/1/23815304/google-data-transfer-takeout-search-youtube-gdpr-agcm)
+ - [The FBI says a contractor misled the agency and used NSO&#39;s Landmark to track people in Mexico without consent; the FBI terminated the contract in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/230801/p9#a230801p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
