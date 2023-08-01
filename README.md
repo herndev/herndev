@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - ⏩ [Social studies 101](http://9gag.com/gag/aBdopGD)
- - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
+ - 💣 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
+ - ⏩ [9gag deleted previous post but i&#39;ll try again, and again](http://9gag.com/gag/aqeAoEZ)
+ - 👉 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)<!-- MEMES:END -->
 
 ---
 
