@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
- - ⏩ [Life hack](http://9gag.com/gag/aDYME17)
- - 👉 [He has a point](http://9gag.com/gag/aREDqrq)<!-- MEMES:END -->
+ - 💣 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - ⏩ [One of the few interviewers to ask Michael Jackson the right questions](http://9gag.com/gag/ajVyoy0)
+ - 👉 [The moment Chalino Sanchez reads a note from the cartel stating he will be killed after his performance](http://9gag.com/gag/aA0Z91o)<!-- MEMES:END -->
 
 ---
 
