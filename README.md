@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
- - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
+ - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - ⏩ [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
 
 ---
 
