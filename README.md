@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - ⏩ [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
+ - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - ⏩ [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 👉 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)<!-- MEMES:END -->
 
 ---
 
