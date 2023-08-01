@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NASA has the mother of all network connectivity issues after aerial mishap 12.3 billion miles away](https://www.pcgamer.com/nasa-has-the-mother-of-all-network-connectivity-issues-after-aerial-mishap-123-billion-miles-away)
  - [Can Vulpix be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23814223/can-vulpix-be-shiny-ninetales)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/31/this-weeks-deals-with-gold-and-spotlight-sale-282/)
- - [Intel&#39;s next-next gen Lunar Lake architectural details surface](https://www.pcgamer.com/intels-next-next-gen-lunar-lake-architectural-details-surface)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/31/this-weeks-deals-with-gold-and-spotlight-sale-282/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
