@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 💣 [Important things are happening in rural Brazil](http://9gag.com/gag/agojzDK)
+ - ⏩ [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 
