@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Through the History of Kemco Games with the Kemco: 50 RPGs Celebratory Bundle](https://news.xbox.com/en-us/2023/08/01/kemco-50-rpgs-celebratory-bundle/)
- - [World of Warcraft role-players throw medieval tournament for a good cause](https://www.polygon.com/23814033/world-of-warcraft-role-players-epsilon-northeron-games-turkey-syria-earthquake-wow)
- - [Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay](https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161)<!-- GAME:END -->
+ - [Teenage Mutant Ninja Turtle DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2023/08/01/teenage-mutant-ninja-turtle-dlc-available-now-in-the-minecraft-marketplace/)
+ - [Baldur&#39;s Gate 3 launch times and download size](https://www.pcgamer.com/baldurs-gate-3-launch-time-unlock-preload)
+ - [Night Reverie, a Heartwarming Adventure Now Available on Xbox and Windows](https://news.xbox.com/en-us/2023/08/01/night-reverie-a-heartwarming-adventure-now-available-on-xbox-and-windows/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
