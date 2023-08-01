@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Vulpix be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23814223/can-vulpix-be-shiny-ninetales)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/31/this-weeks-deals-with-gold-and-spotlight-sale-282/)
- - [Intel&#39;s next-next gen Lunar Lake architectural details surface](https://www.pcgamer.com/intels-next-next-gen-lunar-lake-architectural-details-surface)
- - [Today&#39;s Wordle hint and answer #773: Tuesday, August 1](https://www.pcgamer.com/wordle-answer-today-hint-773-august-1)<!-- GAME:END -->
+ - [Intel&#39;s next-next gen Lunar Lake architectural details surface](https://www.pcgamer.com/intels-next-next-gen-lunar-lake-architectural-details-surface)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
