@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [tvOS 17 &amp; watchOS 10 public beta 2 now available](https://appleinsider.com/articles/23/08/01/tvos-17-watchos-10-public-beta-2-now-available?utm_medium=rss)
- - [Star Wars Jedi: Survivor is coming to PS4 and Xbox One](https://www.theverge.com/2023/8/1/23816311/star-wars-jedi-survivor-ps4-xbox-one)
- - [JP Morgan gives Apple a price target of $235 for December 2024](https://appleinsider.com/articles/23/08/01/jp-morgan-gives-apple-a-price-target-of-235-for-december-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
+ - [Inside Apple&#39;s efforts to grow its supply chain in India, catalyzed by protests at Foxconn in Zhengzhou, as the company seeks to build 20%+ of iPhones in India &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230801/p35#a230801p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
