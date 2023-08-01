@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)
- - [Baldur&#39;s Gate 3 is a 122GB download and you can&#39;t preload any of it](https://www.pcgamer.com/baldurs-gate-3-is-a-122gb-download-and-you-cant-preload-any-of-it)
- - [One of the best stealth-horror games around has passed that &#39;early access threshold&#39;—it&#39;s definitely time to check out Gloomwood](https://www.pcgamer.com/one-of-the-best-stealth-horror-games-around-has-passed-that-early-access-thresholdits-definitely-time-to-check-out-gloomwood)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/31/this-weeks-deals-with-gold-and-spotlight-sale-282/)
+ - [Intel&#39;s next-next gen Lunar Lake architectural details surface](https://www.pcgamer.com/intels-next-next-gen-lunar-lake-architectural-details-surface)
+ - [Today&#39;s Wordle hint and answer #773: Tuesday, August 1](https://www.pcgamer.com/wordle-answer-today-hint-773-august-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
