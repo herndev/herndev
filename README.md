@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - ⏩ [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 👉 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)<!-- MEMES:END -->
+ - 💣 [Food isn&#39;t the only problem](http://9gag.com/gag/ajVyed8)
+ - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 
