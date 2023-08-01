@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Socket, which offers a scanning tool to detect vulnerabilities in open-source code, raised a $20M Series A led by a16z, taking its total funding to $24.6M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p27#a230801p27)
- - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
- - [Both the PlayStation 5 and Xbox Series X are $50 off right now](https://www.theverge.com/2023/8/1/23815770/sony-playstation-5-ps5-microsoft-xbox-series-x-xsx-deal-sale)<!-- TECH:END -->
+ - [Reed Jobs&#39; Yosemite plans using venture capitalism to fight cancer](https://appleinsider.com/articles/23/08/01/reed-jobs-yosemite-plans-using-venture-capitalism-to-fight-cancer?utm_medium=rss)
+ - [Marvel cuts in-house podcast team in half amidst Disney layoffs](https://www.theverge.com/2023/8/1/23815914/marvel-podcast-layoffs-disney-abc-espn-national-geographic)
+ - [How illicit data brokers on apps like Telegram peddle internal Amazon market data and offer services like attacking rivals&#39; product listings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p30#a230801p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
