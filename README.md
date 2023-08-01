@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
- - ⏩ [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 👉 [I volunteer](http://9gag.com/gag/avQm3pO)<!-- MEMES:END -->
+ - 💣 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - ⏩ [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
 
 ---
 
