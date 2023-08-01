@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reed Jobs&#39; Yosemite plans using venture capitalism to fight cancer](https://appleinsider.com/articles/23/08/01/reed-jobs-yosemite-plans-using-venture-capitalism-to-fight-cancer?utm_medium=rss)
- - [Marvel cuts in-house podcast team in half amidst Disney layoffs](https://www.theverge.com/2023/8/1/23815914/marvel-podcast-layoffs-disney-abc-espn-national-geographic)
- - [How illicit data brokers on apps like Telegram peddle internal Amazon market data and offer services like attacking rivals&#39; product listings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p30#a230801p30)<!-- TECH:END -->
+ - [New ad campaign tells you to &#39;Pay the Apple Way&#39;](https://appleinsider.com/articles/23/08/01/new-ad-campaign-tells-you-to-pay-the-apple-way?utm_medium=rss)
+ - [Tesla under investigation for Model 3 and Model Y steering wheels that freeze up](https://www.theverge.com/2023/8/1/23816037/tesla-model-3-y-steering-wheel-power-nhtsa-investigation)
+ - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
