@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NASA has the mother of all network connectivity issues after aerial mishap 12.3 billion miles away](https://www.pcgamer.com/nasa-has-the-mother-of-all-network-connectivity-issues-after-aerial-mishap-123-billion-miles-away)
- - [Can Vulpix be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23814223/can-vulpix-be-shiny-ninetales)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/31/this-weeks-deals-with-gold-and-spotlight-sale-282/)<!-- GAME:END -->
+ - [Nvidia RTX 4060 Ti vs RTX 3060 Ti and 7 of its biggest rival GPUs](https://www.pcgamer.com/nvidia-rtx-4060-ti-vs-rtx-3060-ti)
+ - [PC Gamer is hiring a social media editor in the UK](https://www.pcgamer.com/pc-gamer-is-hiring-a-social-media-editor-in-the-uk)
+ - [NES inspired mechanical keyboards with massive matching A and B buttons are a vibe](https://www.pcgamer.com/nes-inspired-mechanical-keyboards-with-massive-matching-a-and-b-buttons-are-a-vibe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
