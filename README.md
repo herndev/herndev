@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 💣 [That&#39;s what pickpockets do in Italy, why don&#39;t they get arrested or got dealt with the old-fashioned way?](http://9gag.com/gag/a9qBxV1)
+ - ⏩ [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 👉 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)<!-- MEMES:END -->
 
 ---
 
