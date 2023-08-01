@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at South Korea&#39;s position in the tech &quot;cold war&quot;, as the country pivots away from China&#39;s economy and prepares to comply with the US-led China chip ban &lpar;Christian Davies/Financial Times&rpar;](http://www.techmeme.com/230801/p4#a230801p4)
  - [The Redmi 12 5G is the first phone with the Snapdragon 4 Gen 2](https://www.androidauthority.com/redmi-12-5g-launch-3351424/)
- - [The Z Flip 5 isn’t released yet, but it already supports CoverScreen OS](https://www.androidauthority.com/samsung-galaxy-z-flip-5-coverscreen-os-support-3351435/)
- - [China restricts civilian drone exports, citing Russia&#39;s war in Ukraine and concern about military use; DJI pulled out of Russia and Ukraine in April 2022 &lpar;Joe McDonald/Associated Press&rpar;](http://www.techmeme.com/230801/p3#a230801p3)<!-- TECH:END -->
+ - [The Z Flip 5 isn’t released yet, but it already supports CoverScreen OS](https://www.androidauthority.com/samsung-galaxy-z-flip-5-coverscreen-os-support-3351435/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
