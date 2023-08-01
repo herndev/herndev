@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - ⏩ [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)<!-- MEMES:END -->
+ - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - ⏩ [Still my favourite edit](http://9gag.com/gag/aMEyomP)
+ - 👉 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)<!-- MEMES:END -->
 
 ---
 
