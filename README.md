@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what pickpockets do in Italy, why don&#39;t they get arrested or got dealt with the old-fashioned way?](http://9gag.com/gag/a9qBxV1)
- - ⏩ [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
- - 👉 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)<!-- MEMES:END -->
+ - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - ⏩ [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 
