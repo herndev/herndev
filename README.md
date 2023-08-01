@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)
  - [Baldur&#39;s Gate 3 is a 122GB download and you can&#39;t preload any of it](https://www.pcgamer.com/baldurs-gate-3-is-a-122gb-download-and-you-cant-preload-any-of-it)
- - [One of the best stealth-horror games around has passed that &#39;early access threshold&#39;—it&#39;s definitely time to check out Gloomwood](https://www.pcgamer.com/one-of-the-best-stealth-horror-games-around-has-passed-that-early-access-thresholdits-definitely-time-to-check-out-gloomwood)
- - [Cult PSP Game Gets Spiritual Successor That’s Already Blowing Up Kickstarter](https://kotaku.com/patapon-ratatan-rhythm-rpg-kickstarter-psp-ps5-sequel-1850693658)<!-- GAME:END -->
+ - [One of the best stealth-horror games around has passed that &#39;early access threshold&#39;—it&#39;s definitely time to check out Gloomwood](https://www.pcgamer.com/one-of-the-best-stealth-horror-games-around-has-passed-that-early-access-thresholdits-definitely-time-to-check-out-gloomwood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
