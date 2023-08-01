@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get out of the way](http://9gag.com/gag/armzwA7)
- - ⏩ [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 👉 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)<!-- MEMES:END -->
+ - 💣 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
+ - ⏩ [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 
