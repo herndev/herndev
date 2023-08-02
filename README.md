@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
- - ⏩ [Hogwarts House Reveal Cookies!](http://9gag.com/gag/a04wAPX)
- - 👉 [Straight to jail](http://9gag.com/gag/a1Pwzww)<!-- MEMES:END -->
+ - ⏩ [Straight to jail](http://9gag.com/gag/a1Pwzww)
+ - 👉 [Satisfying soldering solution](http://9gag.com/gag/aA0Znno)<!-- MEMES:END -->
 
 ---
 
