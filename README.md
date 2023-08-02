@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good to know!](http://9gag.com/gag/ay2PgqX)
- - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 👉 [Straight to jail](http://9gag.com/gag/a1Pwzww)<!-- MEMES:END -->
+ - 💣 [They copy Italy.....but that&#39;s a positive turn....](http://9gag.com/gag/aA0Zo9E)
+ - ⏩ [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - 👉 [Lol](http://9gag.com/gag/ap98Ozp)<!-- MEMES:END -->
 
 ---
 
