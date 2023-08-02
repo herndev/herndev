@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #774: Wednesday, August 2](https://www.pcgamer.com/wordle-answer-today-hint-774-august-2)
- - [Fallout 4&#39;s best mod is coming to a dramatic conclusion](https://www.pcgamer.com/fallout-4s-best-mod-is-coming-to-a-dramatic-conclusion)
- - [I&#39;ll be a sweaty little D&amp;D powergamer in Baldur&#39;s Gate 3 and you can&#39;t stop me](https://www.pcgamer.com/ill-be-a-sweaty-little-dandd-powergamer-in-baldurs-gate-3-and-you-cant-stop-me)<!-- GAME:END -->
+ - [AMD confirms imminent launch of &#39;new enthusiast-class Radeon 7000-series cards&#39;](https://www.pcgamer.com/amd-confirms-imminent-launch-of-new-enthusiast-class-radeon-7000-series-cards)
+ - [Surviving the Cannibal curse: One  developer&#39;s fraught journey to create a videogame sequel to the most controversial movie ever made](https://www.pcgamer.com/surviving-the-cannibal-curse-one-developers-fraught-journey-to-create-a-videogame-sequel-to-the-most-controversial-movie-ever-made)
+ - [That 4K 32-inch OLED gaming monitor you&#39;ve been waiting for will finally arrive in summer 2024](https://www.pcgamer.com/that-4k-32-inch-oled-gaming-monitor-youve-been-waiting-for-will-finally-arrive-in-summer-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
