@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)
- - [Senegal blocks TikTok amid protests over arrest of its opposition leader, after restricting access to internet services on July 31 &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p25#a230802p25)
- - [Reddit is closing r/Place ‘until we meet again’](https://www.theverge.com/2023/8/2/23817292/reddit-r-place-closing)<!-- TECH:END -->
+ - [Google updates its generative AI-powered Search experience with supplementary multimedia, faster responses, and more context for links in its summary box &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230802/p27#a230802p27)
+ - [Philips Hue may dive into smart home security with four cameras and door sensors](https://www.theverge.com/2023/8/2/23817348/philips-hue-smart-home-security-cameras-signify-wiz)
+ - [The best Verizon deals of August 2023](https://www.androidauthority.com/best-verizon-deals-835801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
