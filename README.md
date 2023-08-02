@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
- - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
- - [Grab This 2-Quart Ninja Air Fryer While It&#39;s Half Price     - CNET](https://www.cnet.com/deals/grab-this-2-quart-ninja-air-fryer-while-its-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart shoppers will have more ads to check while they check out](https://www.theverge.com/2023/8/2/23817029/walmart-ads-in-store-self-checkout)
+ - [Microsoft now lets Xbox owners stream gameplay from the console to Discord users, rolling out to all Xbox users in the coming months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230802/p23#a230802p23)
+ - [Nintendo is bringing the Wii U versions of  Mario Kart 8 and Splatoon back online](https://www.theverge.com/2023/8/2/23817238/nintendo-mario-kart-8-splatoon-wii-u-online-multiplayer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
