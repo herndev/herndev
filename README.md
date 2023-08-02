@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol...](http://9gag.com/gag/aL1r7xA)
- - ⏩ [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
- - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [Hold up](http://9gag.com/gag/a8qzP41)<!-- MEMES:END -->
 
 ---
 
