@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
- - ⏩ [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
- - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - ⏩ [Strawberry](http://9gag.com/gag/aZDvA99)
+ - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
 
 ---
 
