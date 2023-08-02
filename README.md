@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - ⏩ [Maybe](http://9gag.com/gag/aREDxx2)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->
 
 ---
 
