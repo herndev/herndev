@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [Strawberry](http://9gag.com/gag/aZDvA99)
- - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
+ - 💣 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - ⏩ [Lol](http://9gag.com/gag/ap98Ozp)
+ - 👉 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)<!-- MEMES:END -->
 
 ---
 
