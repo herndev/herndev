@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD confirms imminent launch of &#39;new enthusiast-class Radeon 7000-series cards&#39;](https://www.pcgamer.com/amd-confirms-imminent-launch-of-new-enthusiast-class-radeon-7000-series-cards)
- - [Surviving the Cannibal curse: One  developer&#39;s fraught journey to create a videogame sequel to the most controversial movie ever made](https://www.pcgamer.com/surviving-the-cannibal-curse-one-developers-fraught-journey-to-create-a-videogame-sequel-to-the-most-controversial-movie-ever-made)
- - [That 4K 32-inch OLED gaming monitor you&#39;ve been waiting for will finally arrive in summer 2024](https://www.pcgamer.com/that-4k-32-inch-oled-gaming-monitor-youve-been-waiting-for-will-finally-arrive-in-summer-2024)<!-- GAME:END -->
+ - [Shredder isn’t the big bad of TMNT: Mutant Mayhem because he can’t relate to teens](https://www.polygon.com/23815667/teenage-mutant-ninja-turtles-mutant-mayhem-shredder-superfly-baxter-stockman-jeff-rowe-director)
+ - [RX 7900 XTX finally appears in new Steam hardware survey but AMD&#39;s overall market share is still horrible](https://www.pcgamer.com/rx-7900-xtx-finally-appears-in-new-steam-hardware-survey-but-amds-overall-market-share-is-still-horrible)
+ - [Post Malone succumbs to the lure of power, purchases one-of-a-kind Ring of Sauron Magic: The Gathering card valued at $2 million](https://www.pcgamer.com/post-malone-succumbs-to-the-lure-of-power-purchases-one-of-a-kind-ring-of-sauron-magic-the-gathering-card-valued-at-dollar2-million)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
