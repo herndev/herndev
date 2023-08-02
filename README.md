@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mobile Suit Gundam: The Witch from Mercury creators walk back queer representation](https://www.polygon.com/23815927/mobile-suit-gundam-witch-from-mercury-queer-representation-bandai-namco)
- - [When Is Baldur’s Gate III Coming To Xbox? It’s Complicated](https://kotaku.com/baldur-s-gate-3-xbox-series-ps5-game-pass-release-date-1850700359)
- - [Time Bandit is an anti-capitalist satirical work sim where all the drudgery takes real-life days and hours, and I can&#39;t wait for part 2](https://www.pcgamer.com/time-bandit-is-an-anti-capitalist-work-sim-satire-where-all-the-drudgery-takes-real-life-days-and-hours-and-i-cant-wait-for-part-2)<!-- GAME:END -->
+ - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
+ - [The Witcher producer blames Americans and impatient young people for the Netflix show&#39;s simplified plot](https://www.pcgamer.com/the-witcher-producer-blames-americans-and-impatient-young-people-for-the-netflix-shows-simplified-plot)
+ - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
