@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shredder isn’t the big bad of TMNT: Mutant Mayhem because he can’t relate to teens](https://www.polygon.com/23815667/teenage-mutant-ninja-turtles-mutant-mayhem-shredder-superfly-baxter-stockman-jeff-rowe-director)
- - [RX 7900 XTX finally appears in new Steam hardware survey but AMD&#39;s overall market share is still horrible](https://www.pcgamer.com/rx-7900-xtx-finally-appears-in-new-steam-hardware-survey-but-amds-overall-market-share-is-still-horrible)
- - [Post Malone succumbs to the lure of power, purchases one-of-a-kind Ring of Sauron Magic: The Gathering card valued at $2 million](https://www.pcgamer.com/post-malone-succumbs-to-the-lure-of-power-purchases-one-of-a-kind-ring-of-sauron-magic-the-gathering-card-valued-at-dollar2-million)<!-- GAME:END -->
+ - [We didn’t get Batgirl but at least you watch a luchadores-inspired Batwoman instead](https://www.polygon.com/23815433/mexican-horror-superhero-movies-streaming-mubi)
+ - [It looks like D&amp;D 5th edition&#39;s worst subclass will be saved by Baldur&#39;s Gate 3](https://www.pcgamer.com/it-looks-like-dandd-5th-editions-worst-subclass-will-be-saved-by-baldurs-gate-3)
+ - [Xbox at gamescom 2023](https://news.xbox.com/en-us/2023/08/02/xbox-at-gamescom-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
