@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Google Jigsaw engineer Lucy Vasserman on how OpenAI and others use Jigsaw&#39;s AI tool Perspective for flagging toxic speech to evaluate LLMs &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230802/p6#a230802p6)
- - [Twitter Blue subscribers can now hide their blue checks](https://www.theverge.com/2023/8/2/23816924/twitter-x-blue-subscribers-hide-blue-check-option)
- - [A look at Amazon Fresh&#39;s challenges, including lawsuits, layoffs, and halted projects; a former employee says staff were told 2023 could be &quot;make or break&quot; &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/230802/p5#a230802p5)<!-- TECH:END -->
+ - [Instagram is working on labels for AI generated content](https://www.theverge.com/2023/8/2/23816941/instagram-generative-ai-labels-misinformation)
+ - [X now lets XBlue subscribers hide their verified checkmarks, although &quot;the checkmark may still appear in some places&quot; and some features &quot;may not be available&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230802/p9#a230802p9)
+ - [X renames TweetDeck to XPro; the URL remains tweetdeck.twitter.com and much of the copy is unchanged, including the &quot;Tweet like a pro&quot; tagline &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230802/p8#a230802p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
