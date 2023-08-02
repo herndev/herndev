@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US DOJ officials are considering fraud charges against Binance, but worry that an indictment could cause a run on Binance like the one that befell FTX &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230802/p24#a230802p24)
- - [Roblox on Quest VR headsets has gotten ‘well over’ 1 million downloads](https://www.theverge.com/2023/8/2/23817317/roblox-quest-vr-headsets-ceo-1-million-downloads)
- - [Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life](https://www.theverge.com/2023/8/2/23817225/sonos-move-2-speaker-features-specs-price)<!-- TECH:END -->
+ - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)
+ - [Senegal blocks TikTok amid protests over arrest of its opposition leader, after restricting access to internet services on July 31 &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p25#a230802p25)
+ - [Reddit is closing r/Place ‘until we meet again’](https://www.theverge.com/2023/8/2/23817292/reddit-r-place-closing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
