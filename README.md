@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The daughter of the fallen Ukrainian soldier Yaroslav Zhuravl has grown up and is taking revenge on the Russian occupiers for her father](http://9gag.com/gag/aBdv9x2)
- - ⏩ [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
- - 👉 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)<!-- MEMES:END -->
+ - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - ⏩ [Maybe](http://9gag.com/gag/aREDxx2)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 
