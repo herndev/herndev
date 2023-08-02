@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;ll be a sweaty little D&amp;D powergamer in Baldur&#39;s Gate 3 and you can&#39;t stop me](https://www.pcgamer.com/ill-be-a-sweaty-little-dandd-powergamer-in-baldurs-gate-3-and-you-cant-stop-me)
  - [This intensely weird indie game can only be replayed once a year, and only if you beat a once-a-year challenge](https://www.pcgamer.com/this-intensely-weird-indie-game-can-only-be-replayed-once-a-year-and-only-if-you-beat-a-once-a-year-challenge)
- - [Star Wars Jedi: Survivor Is Coming To PS4, Xbox One](https://kotaku.com/star-wars-jedi-survivor-ea-ps4-xbox-one-next-gen-ports-1850697840)
- - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers [Update]](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor Is Coming To PS4, Xbox One](https://kotaku.com/star-wars-jedi-survivor-ea-ps4-xbox-one-next-gen-ports-1850697840)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
