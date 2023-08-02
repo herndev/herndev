@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart shoppers will have more ads to check while they check out](https://www.theverge.com/2023/8/2/23817029/walmart-ads-in-store-self-checkout)
- - [Microsoft now lets Xbox owners stream gameplay from the console to Discord users, rolling out to all Xbox users in the coming months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230802/p23#a230802p23)
- - [Nintendo is bringing the Wii U versions of  Mario Kart 8 and Splatoon back online](https://www.theverge.com/2023/8/2/23817238/nintendo-mario-kart-8-splatoon-wii-u-online-multiplayer)<!-- TECH:END -->
+ - [Sources: US DOJ officials are considering fraud charges against Binance, but worry that an indictment could cause a run on Binance like the one that befell FTX &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230802/p24#a230802p24)
+ - [Roblox on Quest VR headsets has gotten ‘well over’ 1 million downloads](https://www.theverge.com/2023/8/2/23817317/roblox-quest-vr-headsets-ceo-1-million-downloads)
+ - [Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life](https://www.theverge.com/2023/8/2/23817225/sonos-move-2-speaker-features-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
