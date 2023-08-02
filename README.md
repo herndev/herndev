@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #774: Wednesday, August 2](https://www.pcgamer.com/wordle-answer-today-hint-774-august-2)
  - [Fallout 4&#39;s best mod is coming to a dramatic conclusion](https://www.pcgamer.com/fallout-4s-best-mod-is-coming-to-a-dramatic-conclusion)
- - [I&#39;ll be a sweaty little D&amp;D powergamer in Baldur&#39;s Gate 3 and you can&#39;t stop me](https://www.pcgamer.com/ill-be-a-sweaty-little-dandd-powergamer-in-baldurs-gate-3-and-you-cant-stop-me)
- - [This intensely weird indie game can only be replayed once a year, and only if you beat a once-a-year challenge](https://www.pcgamer.com/this-intensely-weird-indie-game-can-only-be-replayed-once-a-year-and-only-if-you-beat-a-once-a-year-challenge)<!-- GAME:END -->
+ - [I&#39;ll be a sweaty little D&amp;D powergamer in Baldur&#39;s Gate 3 and you can&#39;t stop me](https://www.pcgamer.com/ill-be-a-sweaty-little-dandd-powergamer-in-baldurs-gate-3-and-you-cant-stop-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
