@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
- - 👉 [Strawberry](http://9gag.com/gag/aZDvA99)<!-- MEMES:END -->
+ - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - ⏩ [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
 
 ---
 
