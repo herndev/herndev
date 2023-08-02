@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is working on labels for AI generated content](https://www.theverge.com/2023/8/2/23816941/instagram-generative-ai-labels-misinformation)
- - [X now lets XBlue subscribers hide their verified checkmarks, although &quot;the checkmark may still appear in some places&quot; and some features &quot;may not be available&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230802/p9#a230802p9)
- - [X renames TweetDeck to XPro; the URL remains tweetdeck.twitter.com and much of the copy is unchanged, including the &quot;Tweet like a pro&quot; tagline &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230802/p8#a230802p8)<!-- TECH:END -->
+ - [Apple iPad Pro vs. Samsung Galaxy Tab S9 - compared](https://appleinsider.com/inside/ipad-pro/vs/apple-ipad-pro-vs-samsung-galaxy-tab-s9---compared?utm_medium=rss)
+ - [How to use Google Authenticator on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-google-authenticator-on-iphone-and-ipad?utm_medium=rss)
+ - [Analysts and executives say the UK risks becoming an also-ran in the race to roll out 5G, despite starting in 2019, due to limited investment and the Huawei ban &lpar;Financial Times&rpar;](http://www.techmeme.com/230802/p12#a230802p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
