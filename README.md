@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best SSDs for Xbox Series X](https://www.polygon.com/what-to-buy/23608423/best-ssd-xbox-series-x-s)
- - [The Witcher producer blames Americans and impatient young people for the Netflix show&#39;s simplified plot](https://www.pcgamer.com/the-witcher-producer-blames-americans-and-impatient-young-people-for-the-netflix-shows-simplified-plot)
- - [The best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)<!-- GAME:END -->
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
+ - [How to get the Archon archetype in Remnant 2](https://www.polygon.com/guides/23817217/archon-archetype-how-to-get)
+ - [The Next Big Wave Of Video Game Layoffs Is Here [Update]](https://kotaku.com/microsoft-ea-ubisoft-layoffs-game-dev-jobs-recession-1850467429)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
