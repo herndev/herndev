@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This intensely weird indie game can only be replayed once a year, and only if you beat a once-a-year challenge](https://www.pcgamer.com/this-intensely-weird-indie-game-can-only-be-replayed-once-a-year-and-only-if-you-beat-a-once-a-year-challenge)
  - [Star Wars Jedi: Survivor Is Coming To PS4, Xbox One](https://kotaku.com/star-wars-jedi-survivor-ea-ps4-xbox-one-next-gen-ports-1850697840)
- - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers [Update]](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)
- - [Strange Diablo 4 glitch has players unplugging their internet to create a portal between realms](https://www.pcgamer.com/strange-diablo-4-glitch-has-players-unplugging-their-internet-to-create-a-portal-between-realms)<!-- GAME:END -->
+ - [Mr. Beast Sues Food Company Over His ‘Revolting,’ ‘Inedible’ Burgers [Update]](https://kotaku.com/mr-beast-burgers-disgusting-lawsuit-virtual-dining-1850693967)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
