@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget...](http://9gag.com/gag/amAn4eX)
- - ⏩ [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
- - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
+ - 💣 [Good to know!](http://9gag.com/gag/ay2PgqX)
+ - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 👉 [Straight to jail](http://9gag.com/gag/a1Pwzww)<!-- MEMES:END -->
 
 ---
 
