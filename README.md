@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wheel of Time has a secret season 2 sneak preview hidden in an old episode](https://www.polygon.com/23817560/wheel-of-time-season-2-clip-trailer-first-episode-preview)
- - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
- - [The Witcher Season 3 Is Over—Now What?](https://kotaku.com/the-witcher-season-3-finale-recap-review-henry-cavill-1850701342)<!-- GAME:END -->
+ - [The NHL’s Seattle Kraken embraced horny BookTok and found controversy](https://www.polygon.com/23817621/booktok-seattle-kraken-controversy-harassment-alex-wennberg-explained)
+ - [Where to find Goddess Statues in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23709964/goddess-statue-locations-light-blessing)
+ - [Reddit is having a &#39;major outage&#39; on desktop, mobile, and native apps](https://www.pcgamer.com/reddit-down-august-2-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
