@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [15 Character Revelations We Learned In Street Fighter 6](https://kotaku.com/street-fighter-6-sf6-chun-li-cammy-ryu-ken-tournament-1850698103)
  - [We didn’t get Batgirl but at least you watch a luchadores-inspired Batwoman instead](https://www.polygon.com/23815433/mexican-horror-superhero-movies-streaming-mubi)
- - [It looks like D&amp;D 5th edition&#39;s worst subclass will be saved by Baldur&#39;s Gate 3](https://www.pcgamer.com/it-looks-like-dandd-5th-editions-worst-subclass-will-be-saved-by-baldurs-gate-3)
- - [Xbox at gamescom 2023](https://news.xbox.com/en-us/2023/08/02/xbox-at-gamescom-2023/)<!-- GAME:END -->
+ - [It looks like D&amp;D 5th edition&#39;s worst subclass will be saved by Baldur&#39;s Gate 3](https://www.pcgamer.com/it-looks-like-dandd-5th-editions-worst-subclass-will-be-saved-by-baldurs-gate-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
