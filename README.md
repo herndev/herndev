@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout 4&#39;s best mod is coming to a dramatic conclusion](https://www.pcgamer.com/fallout-4s-best-mod-is-coming-to-a-dramatic-conclusion)
  - [I&#39;ll be a sweaty little D&amp;D powergamer in Baldur&#39;s Gate 3 and you can&#39;t stop me](https://www.pcgamer.com/ill-be-a-sweaty-little-dandd-powergamer-in-baldurs-gate-3-and-you-cant-stop-me)
- - [This intensely weird indie game can only be replayed once a year, and only if you beat a once-a-year challenge](https://www.pcgamer.com/this-intensely-weird-indie-game-can-only-be-replayed-once-a-year-and-only-if-you-beat-a-once-a-year-challenge)
- - [Star Wars Jedi: Survivor Is Coming To PS4, Xbox One](https://kotaku.com/star-wars-jedi-survivor-ea-ps4-xbox-one-next-gen-ports-1850697840)<!-- GAME:END -->
+ - [This intensely weird indie game can only be replayed once a year, and only if you beat a once-a-year challenge](https://www.pcgamer.com/this-intensely-weird-indie-game-can-only-be-replayed-once-a-year-and-only-if-you-beat-a-once-a-year-challenge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
