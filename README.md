@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)
- - [How to get the Archon archetype in Remnant 2](https://www.polygon.com/guides/23817217/archon-archetype-how-to-get)
- - [The Next Big Wave Of Video Game Layoffs Is Here [Update]](https://kotaku.com/microsoft-ea-ubisoft-layoffs-game-dev-jobs-recession-1850467429)<!-- GAME:END -->
+ - [Wheel of Time has a secret season 2 sneak preview hidden in an old episode](https://www.polygon.com/23817560/wheel-of-time-season-2-clip-trailer-first-episode-preview)
+ - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
+ - [The Witcher Season 3 Is Over—Now What?](https://kotaku.com/the-witcher-season-3-finale-recap-review-henry-cavill-1850701342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
