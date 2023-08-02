@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 👉 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)<!-- MEMES:END -->
+ - 💣 [He has a point](http://9gag.com/gag/aREDqrq)
+ - ⏩ [Good to know!](http://9gag.com/gag/ay2PgqX)
+ - 👉 [Not sure this will stop the burnings](http://9gag.com/gag/awZvRwR)<!-- MEMES:END -->
 
 ---
 
