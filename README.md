@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Pro vs. Samsung Galaxy Tab S9 - compared](https://appleinsider.com/inside/ipad-pro/vs/apple-ipad-pro-vs-samsung-galaxy-tab-s9---compared?utm_medium=rss)
- - [How to use Google Authenticator on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-google-authenticator-on-iphone-and-ipad?utm_medium=rss)
- - [Analysts and executives say the UK risks becoming an also-ran in the race to roll out 5G, despite starting in 2019, due to limited investment and the Huawei ban &lpar;Financial Times&rpar;](http://www.techmeme.com/230802/p12#a230802p12)<!-- TECH:END -->
+ - [Hacker group Cult of the Dead Cow plans to detail P2P protocol Veilid, to encrypt social media and apps, at Def Con next week, its biggest release in 10 years &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230802/p14#a230802p14)
+ - [An early-stage study of 80,000 women in Sweden who underwent a mammogram in 2021 and 2022 finds AI-supported screening increased breast cancer detection by 20% &lpar;Jen Christensen/CNN&rpar;](http://www.techmeme.com/230802/p13#a230802p13)
+ - [One of Gaming’s Biggest YouTubers Wants to Replace Himself With AI](https://www.wired.com/story/kwebbelkop-youtube-ai-clone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
