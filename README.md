@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2023&#39;s Worst Game Just Got A Pretty Big Patch](https://kotaku.com/lord-of-the-rings-gollum-update-2-2-patch-notes-lotr-1850699438)
- - [Water Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708156/water-temple-walkthrough-dungeon-mucktorok-faucets-hydrants-fire-chests)
- - [Wind Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715584/wind-temple-walkthrough-dungeon-colgera-boss-fight-lock-locations)<!-- GAME:END -->
+ - [You can get $30 off almost any new video game at QVC](https://www.polygon.com/deals/23817083/gaming-deal-discount-zelda-street-fighter-diablo)
+ - [This completely submersible RTX 4090 PC is slightly silly but totally awesome](https://www.pcgamer.com/this-completely-submersible-rtyx-4090-pc-is-slightly-silly-but-totally-awesome)
+ - [Post Malone has bought Magic’s one-of-a-kind One Ring card](https://www.polygon.com/23817181/mtg-one-ring-card-post-malone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
