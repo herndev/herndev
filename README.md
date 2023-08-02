@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
- - ⏩ [Straight to jail](http://9gag.com/gag/a1Pwzww)
- - 👉 [Satisfying soldering solution](http://9gag.com/gag/aA0Znno)<!-- MEMES:END -->
+ - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)<!-- MEMES:END -->
 
 ---
 
