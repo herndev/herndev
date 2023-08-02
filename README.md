@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 👉 [Hold up](http://9gag.com/gag/a8qzP41)<!-- MEMES:END -->
+ - 💣 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
+ - ⏩ [Hogwarts House Reveal Cookies!](http://9gag.com/gag/a04wAPX)
+ - 👉 [Straight to jail](http://9gag.com/gag/a1Pwzww)<!-- MEMES:END -->
 
 ---
 
