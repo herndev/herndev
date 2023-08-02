@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palia is the perfect game for chill vibes, either alone or co-op](https://www.polygon.com/23814842/palia-singularity-six-cozy-mmorpg-impressions)
- - [MrBeast Burger says MrBeast&#39;s a no-good bully who&#39;s &#39;elevated greed over his word and the truth&#39;, and it&#39;ll see him in court](https://www.pcgamer.com/mrbeast-burger-says-mrbeasts-a-no-good-bully-whos-elevated-greed-over-his-word-and-the-truth-and-itll-see-him-in-court)
- - [Report: Malware Brings Original Modern Warfare 2 On Steam Offline [Update: It&#39;s Back]](https://kotaku.com/call-duty-modern-warfare-2-steam-hacker-xbox-malware-1850685788)<!-- GAME:END -->
+ - [Mobile Suit Gundam: The Witch from Mercury creators walk back queer representation](https://www.polygon.com/23815927/mobile-suit-gundam-witch-from-mercury-queer-representation-bandai-namco)
+ - [When Is Baldur’s Gate III Coming To Xbox? It’s Complicated](https://kotaku.com/baldur-s-gate-3-xbox-series-ps5-game-pass-release-date-1850700359)
+ - [Time Bandit is an anti-capitalist satirical work sim where all the drudgery takes real-life days and hours, and I can&#39;t wait for part 2](https://www.pcgamer.com/time-bandit-is-an-anti-capitalist-work-sim-satire-where-all-the-drudgery-takes-real-life-days-and-hours-and-i-cant-wait-for-part-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
