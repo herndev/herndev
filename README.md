@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal reports Q2 revenue up 7% to $7.3B, total payment volume up 11% YoY to $376.5B, and operating margin at 21.4%, below its 22% forecast; PYPL drops 7%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p33#a230802p33)
- - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)
- - [Shopify reports Q2 revenue up 31% YoY to $1.7B, vs. $1.62B est., and GMV up 17% YoY to $55B, vs. $53.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p32#a230802p32)<!-- TECH:END -->
+ - [Elon Musk says X will amend its creator payouts policy to take no cut until a payout exceeds $100K, and plans to talk to Tim Cook about lower App Store fees &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230802/p36#a230802p36)
+ - [The best Cricket Wireless deals of August 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [Elon Musk says he’s going to talk to Tim Cook about adjusting the Apple tax](https://www.theverge.com/2023/8/2/23817821/elon-musk-twitter-tim-cook-apple-tax)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
