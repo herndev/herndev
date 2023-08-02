@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Katie Haun&#39;s $1.5B crypto fund, launched in spring 2022 just before the crypto crash, which has now deployed ~30% of its cash to ~24 startups &lpar;Fortune&rpar;](http://www.techmeme.com/230802/p16#a230802p16)
- - [iPhone is never going to get an easy battery replacement door](https://appleinsider.com/articles/23/08/02/iphone-is-never-going-to-get-an-easy-battery-replacement-door?utm_medium=rss)
- - [After iTunes failed to save classical music, Apple Music Classical seems an oddly clumsy point of entry, offering some good features but falling short of rivals &lpar;Alex Ross/New Yorker&rpar;](http://www.techmeme.com/230802/p15#a230802p15)<!-- TECH:END -->
+ - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)
+ - [Harley Quinn season 4 would like to remind you who the fourth pillar of DC’s universe is](https://www.theverge.com/23815375/harley-quinn-season-4-dc)
+ - [Meta’s AI music generator could be the new synthesizer — or just muzak](https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
