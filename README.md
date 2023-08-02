@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can get $30 off almost any new video game at QVC](https://www.polygon.com/deals/23817083/gaming-deal-discount-zelda-street-fighter-diablo)
- - [This completely submersible RTX 4090 PC is slightly silly but totally awesome](https://www.pcgamer.com/this-completely-submersible-rtyx-4090-pc-is-slightly-silly-but-totally-awesome)
- - [Post Malone has bought Magic’s one-of-a-kind One Ring card](https://www.polygon.com/23817181/mtg-one-ring-card-post-malone)<!-- GAME:END -->
+ - [Palia is the perfect game for chill vibes, either alone or co-op](https://www.polygon.com/23814842/palia-singularity-six-cozy-mmorpg-impressions)
+ - [MrBeast Burger says MrBeast&#39;s a no-good bully who&#39;s &#39;elevated greed over his word and the truth&#39;, and it&#39;ll see him in court](https://www.pcgamer.com/mrbeast-burger-says-mrbeasts-a-no-good-bully-whos-elevated-greed-over-his-word-and-the-truth-and-itll-see-him-in-court)
+ - [Report: Malware Brings Original Modern Warfare 2 On Steam Offline [Update: It&#39;s Back]](https://kotaku.com/call-duty-modern-warfare-2-steam-hacker-xbox-malware-1850685788)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
