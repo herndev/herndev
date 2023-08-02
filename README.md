@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I volunteer](http://9gag.com/gag/avQm3pO)
- - ⏩ [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)
- - 👉 [Policeman using a park slide...](http://9gag.com/gag/aoKDr9g)<!-- MEMES:END -->
+ - 💣 [Never forget...](http://9gag.com/gag/amAn4eX)
+ - ⏩ [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 
