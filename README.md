@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
- - ⏩ [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
+ - 💣 [Victims?](http://9gag.com/gag/aYVdjVv)
+ - ⏩ [The daughter of the fallen Ukrainian soldier Yaroslav Zhuravl has grown up and is taking revenge on the Russian occupiers for her father](http://9gag.com/gag/aBdv9x2)
+ - 👉 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)<!-- MEMES:END -->
 
 ---
 
