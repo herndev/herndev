@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [White Castle will bring more AI to its drive-thrus](https://www.theverge.com/2023/8/2/23817406/white-castle-soundhound-ai-sliders)
- - [Apple says Apple Card&#39;s high-yield savings account offered by Goldman Sachs has topped over $10B in deposits since launching in April &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230802/p29#a230802p29)
- - [Viral &#39;Planet of the Bass&#39; full track coming to Apple Music soon](https://appleinsider.com/articles/23/08/02/viral-planet-of-the-bass-full-track-coming-to-apple-music-soon?utm_medium=rss)<!-- TECH:END -->
+ - [PayPal reports Q2 revenue up 7% to $7.3B, total payment volume up 11% YoY to $376.5B, and operating margin at 21.4%, below its 22% forecast; PYPL drops 7%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p33#a230802p33)
+ - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)
+ - [Shopify reports Q2 revenue up 31% YoY to $1.7B, vs. $1.62B est., and GMV up 17% YoY to $55B, vs. $53.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p32#a230802p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
