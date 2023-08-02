@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
- - [Inside Apple&#39;s efforts to grow its supply chain in India, catalyzed by protests at Foxconn in Zhengzhou, as the company seeks to build 20%+ of iPhones in India &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230801/p35#a230801p35)<!-- TECH:END -->
+ - [Sources: Changpeng Zhao tried to liquidate Binance.US earlier this year, before pivoting to attempting to sell the company, holding talks with Gemini and others &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/230801/p37#a230801p37)
+ - [The incandescent light bulb still isn’t dead — but ‘normal’ ones are now truly banned](https://www.theverge.com/2023/8/1/23816510/incandescent-light-bulb-2023-sale-ban-usa)
+ - [A lawyer for Voyager Digital says a breach exposing customer data may have occurred when Voyager started letting customers recover their funds in June &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/230801/p36#a230801p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
