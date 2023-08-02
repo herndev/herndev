@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - ⏩ [Lol](http://9gag.com/gag/ap98Ozp)
- - 👉 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - ⏩ [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 👉 [Strawberry](http://9gag.com/gag/aZDvA99)<!-- MEMES:END -->
 
 ---
 
