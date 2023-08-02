@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
- - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 👉 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)<!-- MEMES:END -->
+ - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - ⏩ [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
 
 ---
 
