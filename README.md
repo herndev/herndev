@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They copy Italy.....but that&#39;s a positive turn....](http://9gag.com/gag/aA0Zo9E)
- - ⏩ [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
- - 👉 [Lol](http://9gag.com/gag/ap98Ozp)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - ⏩ [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - 👉 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)<!-- MEMES:END -->
 
 ---
 
