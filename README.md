@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch Bans Promotion Of Counter-Strike Gambling](https://kotaku.com/twitch-bans-csgo-skin-gambling-sponsorships-promo-pc-1850701882)
  - [The NHL’s Seattle Kraken embraced horny BookTok and found controversy](https://www.polygon.com/23817621/booktok-seattle-kraken-controversy-harassment-alex-wennberg-explained)
- - [Where to find Goddess Statues in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23709964/goddess-statue-locations-light-blessing)
- - [Reddit is having a &#39;major outage&#39; on desktop, mobile, and native apps](https://www.pcgamer.com/reddit-down-august-2-2023)<!-- GAME:END -->
+ - [Where to find Goddess Statues in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23709964/goddess-statue-locations-light-blessing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
