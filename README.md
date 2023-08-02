@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol...](http://9gag.com/gag/aL1r7xA)
- - ⏩ [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 👉 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)<!-- MEMES:END -->
+ - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
 
 ---
 
