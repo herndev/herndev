@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)
- - [Harley Quinn season 4 would like to remind you who the fourth pillar of DC’s universe is](https://www.theverge.com/23815375/harley-quinn-season-4-dc)
- - [Meta’s AI music generator could be the new synthesizer — or just muzak](https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio)<!-- TECH:END -->
+ - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
+ - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
+ - [Grab This 2-Quart Ninja Air Fryer While It&#39;s Half Price     - CNET](https://www.cnet.com/deals/grab-this-2-quart-ninja-air-fryer-while-its-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
