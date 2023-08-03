@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop drops cryptocurrency wallet support due to the &#39;regulatory uncertainty of the crypto space&#39;](https://www.pcgamer.com/gamestop-drops-cryptocurrency-wallet-support-due-to-the-regulatory-uncertainty-of-the-crypto-space)
- - [Australian Senate committee warns TikTok and WeChat could be the country&#39;s biggest security risks](https://www.pcgamer.com/australian-senate-committee-warns-tiktok-and-wechat-could-be-the-countrys-biggest-security-risks)
- - [Today&#39;s Wordle hint and answer #775: Thursday, August 3](https://www.pcgamer.com/wordle-answer-today-hint-775-august-3)<!-- GAME:END -->
+ - [Potential Nickelodeon All-Star Brawl 2 leak shows Plankton piloting a giant mech Ratatouille-style and I&#39;m obsessed](https://www.pcgamer.com/potential-nickelodeon-all-star-brawl-2-leak-shows-plankton-piloting-a-giant-mech-ratatouille-style-and-im-obsessed)
+ - [Baldur&#39;s Gate 3 issues a 6-step pre-launch to-do list for early access players, and is once again strongly recommending you put it on an SSD](https://www.pcgamer.com/baldurs-gate-3-issues-a-6-step-pre-launch-to-do-list-for-early-access-players-and-is-once-again-strongly-recommending-you-put-it-on-an-ssd)
+ - [GameStop drops cryptocurrency wallet support due to the &#39;regulatory uncertainty of the crypto space&#39;](https://www.pcgamer.com/gamestop-drops-cryptocurrency-wallet-support-due-to-the-regulatory-uncertainty-of-the-crypto-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
