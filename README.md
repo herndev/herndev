@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meg 2: The Trench drowns in oversized shark-movie silliness](https://www.polygon.com/reviews/23818566/meg-2-trench-review)
- - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861)
- - [All The Big Changes Coming To Destiny 2 Later This Year](https://kotaku.com/destiny-2-lightfall-final-shape-season-22-exotics-ps5-1850704807)<!-- GAME:END -->
+ - [Destiny 2 Promises It Won’t Drip Feed Upcoming Expansion’s &#39;Climatic Conclusion&#39;](https://kotaku.com/destiny-2-the-final-shape-story-witness-traveler-ending-1850705113)
+ - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
+ - [Valve resets the rules on pro CS:GO tournaments: &#39;we’ve seen professional Counter-Strike drift away&#39; from its ideals](https://www.pcgamer.com/valve-resets-the-rules-on-pro-csgo-tournaments-weve-seen-professional-counter-strike-drift-away-from-its-ideals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
