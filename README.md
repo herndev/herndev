@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kasa launches two new Matter-enabled smart light switches](https://appleinsider.com/articles/23/08/03/kasa-launches-two-new-matter-enabled-smart-light-switches?utm_medium=rss)
- - [Three big Reddit communities are no longer focused on John Oliver](https://www.theverge.com/2023/8/3/23818673/reddit-communities-subreddits-john-oliver-remove-rules)
- - [The FODMAP Diet Can Help With Digestive Issues. Here&#39;s How It Works     - CNET](https://www.cnet.com/health/nutrition/what-is-the-fodmap-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A beginner’s guide to beginning Baldur’s Gate 3](https://www.theverge.com/23818692/baldurs-gate-3-starting-guide-tips-how-to)
+ - [Apple reports Q3 revenue for its Services segment, which includes Apple TV+ and Apple Music, grew 8.2% YoY to $21.2B, and it now has 1B+ paid subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230803/p35#a230803p35)
+ - [Apple paying out $0.24 per-share dividend on August 17](https://appleinsider.com/articles/23/08/03/apple-paying-out-024-per-share-dividend-on-august-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
