@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brave releases its own privacy-preserving image and video search](https://www.theverge.com/2023/8/3/23818388/brave-search-image-video-results-privacy-index)
- - [Patreon temporarily disables Payoneer payments after some creators were unable to access their earnings and some subscriber payments are flagged as fraudulent &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230803/p23#a230803p23)
- - [Mutant Mayhem is a grody and gorgeous reintroduction to the TMNT](https://www.theverge.com/23817296/teenage-mutant-ninja-turtles-movie-review)<!-- TECH:END -->
+ - [Google will warn you if personal info ends up in Search, give tools to remove it](https://www.androidauthority.com/google-results-about-you-3352149/)
+ - [Pornhub goes dark in Arkansas after age verification law kicks in](https://www.theverge.com/2023/8/3/23818865/pornhub-mindgeek-arkansas-age-verification-block-ban-porn)
+ - [Grab a Discounted Dollar Flight Club Membership for $100 and Find Travel Savings Year-Round     - CNET](https://www.cnet.com/deals/grab-a-discounted-dollar-flight-club-membership-for-100-and-find-travel-savings-year-round/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
