@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Potential Nickelodeon All-Star Brawl 2 leak shows Plankton piloting a giant mech Ratatouille-style and I&#39;m obsessed](https://www.pcgamer.com/potential-nickelodeon-all-star-brawl-2-leak-shows-plankton-piloting-a-giant-mech-ratatouille-style-and-im-obsessed)
- - [Baldur&#39;s Gate 3 issues a 6-step pre-launch to-do list for early access players, and is once again strongly recommending you put it on an SSD](https://www.pcgamer.com/baldurs-gate-3-issues-a-6-step-pre-launch-to-do-list-for-early-access-players-and-is-once-again-strongly-recommending-you-put-it-on-an-ssd)
- - [GameStop drops cryptocurrency wallet support due to the &#39;regulatory uncertainty of the crypto space&#39;](https://www.pcgamer.com/gamestop-drops-cryptocurrency-wallet-support-due-to-the-regulatory-uncertainty-of-the-crypto-space)<!-- GAME:END -->
+ - [Star Trek’s first-ever musical episode divided the Strange New Worlds cast](https://www.polygon.com/23817437/star-trek-musical-strange-new-worlds-episode-snw)
+ - [Eve Online gets an epic 4X board game, and the miniatures look incredible](https://www.polygon.com/23816020/eve-online-board-game-crowdfunding-titan-forge-miniatures-announcement-release-date-price)
+ - [Potential Nickelodeon All-Star Brawl 2 leak shows Plankton piloting a giant mech Ratatouille-style and I&#39;m obsessed](https://www.pcgamer.com/potential-nickelodeon-all-star-brawl-2-leak-shows-plankton-piloting-a-giant-mech-ratatouille-style-and-im-obsessed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
