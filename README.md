@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Inspiration Points in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23818639/inspiration-points-background-goals-how-to-get)
- - [Bungie&#39;s vast new State of the Game blog touches on every aspect of Destiny 2—but they had me at saving my favourite shaders](https://www.pcgamer.com/bungies-vast-new-state-of-the-game-blog-touches-on-every-aspect-of-destiny-2but-they-had-me-at-saving-shaders)
- - [After inflicting them with hallucinations, vanishing guns, and &#39;quicksand&#39;, Call of Duty will now name and shame banished cheaters mid-game](https://www.pcgamer.com/after-inflicting-them-with-hallucinations-vanishing-guns-and-quicksand-call-of-duty-will-now-name-and-shame-banished-cheaters-mid-game)<!-- GAME:END -->
+ - [All the Scream 7 news so far, including its new director](https://www.polygon.com/23639913/scream-7-release-date-cast-news)
+ - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [A Resident Evil Remake Is Now The Best-Selling Game In The Series](https://kotaku.com/re2-remake-resident-evil-4-best-selling-games-capcom-1850704221)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
