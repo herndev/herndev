@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstarter plans to require creators to disclose the use of AI tools in their projects or if the projects intend to develop AI tech starting August 29, 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230803/p2#a230803p2)
- - [Xiaomi to flex a powerful new flagship globally on September 1: Report](https://www.androidauthority.com/xiaomi-13t-pro-launch-specs-features-release-date-3352004/)
- - [As the UK reveals the National Semiconductor Strategy advisory panel, tech minister Paul Scully says the UK will focus on chip design over chipmaking subsidies &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230803/p1#a230803p1)<!-- TECH:END -->
+ - [An overview of AI policy ideas that US policymakers are considering, from new rules and government agencies to additional funding for AI research and education &lpar;Dylan Matthews/Vox&rpar;](http://www.techmeme.com/230803/p4#a230803p4)
+ - [Galaxy Z Flip 5 and Moto Razr Plus face-off in live hand-folding test on YouTube](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
+ - [As Meta starts blocking news links and sharing on Facebook and Instagram in Canada, a look at the harm that Bill C-18 will do to the country&#39;s media sector &lpar;Michael Geist&rpar;](http://www.techmeme.com/230803/p3#a230803p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
