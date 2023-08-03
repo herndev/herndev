@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
- - [I ordered Baldur&#39;s Gate 3&#39;s companions by how much their first dates would suck in real life](https://www.pcgamer.com/i-ordered-baldurs-gate-3s-companions-by-how-much-their-first-dates-would-suck-in-real-life)
- - [Stop what you&#39;re doing and revel in the heavy chiptune virtuosity that is Master Boot Record](https://www.pcgamer.com/stop-what-youre-doing-and-revel-in-the-heavy-chiptune-virtuosity-that-is-master-boot-record)<!-- GAME:END -->
+ - [How to get Inspiration Points in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23818639/inspiration-points-background-goals-how-to-get)
+ - [Bungie&#39;s vast new State of the Game blog touches on every aspect of Destiny 2—but they had me at saving my favourite shaders](https://www.pcgamer.com/bungies-vast-new-state-of-the-game-blog-touches-on-every-aspect-of-destiny-2but-they-had-me-at-saving-shaders)
+ - [After inflicting them with hallucinations, vanishing guns, and &#39;quicksand&#39;, Call of Duty will now name and shame banished cheaters mid-game](https://www.pcgamer.com/after-inflicting-them-with-hallucinations-vanishing-guns-and-quicksand-call-of-duty-will-now-name-and-shame-banished-cheaters-mid-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
