@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
- - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 💣 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
+ - ⏩ [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
  - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->
 
 ---
