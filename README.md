@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How big is Starfield, anyway?](https://www.pcgamer.com/starfield-size)
- - [Bungie warns Destiny 2 cheat makers: Your days of operating &#39;without fear of consequences are over&#39;](https://www.pcgamer.com/bungie-warns-destiny-2-cheat-makers-your-days-of-operating-without-fear-of-consequences-are-over)
- - [Twitch Bans Promotion Of Counter-Strike Gambling](https://kotaku.com/twitch-bans-csgo-skin-gambling-sponsorships-promo-pc-1850701882)<!-- GAME:END -->
+ - [Australian Senate committee warns TikTok and WeChat could be the country&#39;s biggest security risks](https://www.pcgamer.com/australian-senate-committee-warns-tiktok-and-wechat-could-be-the-countrys-biggest-security-risks)
+ - [Today&#39;s Wordle hint and answer #775: Thursday, August 3](https://www.pcgamer.com/wordle-answer-today-hint-775-august-3)
+ - [How big is Starfield, anyway?](https://www.pcgamer.com/starfield-size)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
