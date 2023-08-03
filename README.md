@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
- - ⏩ [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
  - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
