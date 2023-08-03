@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Kenya&#39;s interior ministry says it suspended the local activities of Worldcoin while government agencies assess potential risks to public safety &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p38#a230802p38)
- - [Reddit says it has recovered from some ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)
- - [The IRS says that, by 2025, taxpayers will be able to file every major tax form online, and all paper returns will be digitized &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230802/p37#a230802p37)<!-- TECH:END -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami CF vs. Orlando City on MLS Season Pass Tonight     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-cf-vs-orlando-city-on-mls-season-pass-tonight/#ftag=CAD590a51e)
+ - [Reddit says it has recovered from some ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
