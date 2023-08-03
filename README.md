@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
- - ⏩ [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
- - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->
+ - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
 
 ---
 
