@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)
- - [Endor Labs, which offers code and pipeline governance tools, raised a $70M Series A led by Lightspeed, just 10 months after launching &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230803/p14#a230803p14)
- - [Call of Duty now shows you when a cheater has been booted right in the kill feed](https://www.theverge.com/2023/8/3/23818380/call-of-duty-anti-cheat-kill-feed)<!-- TECH:END -->
+ - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
+ - [Samsung’s new ‘flagship’ repair centers will provide more types of phone fixes and faster](https://www.theverge.com/2023/8/3/23817603/samsung-asurion-ubreakifix-flagship-locations-galaxy-phone-repair)
+ - [An in-depth look at GPU supply and demand, particularly Nvidia H100s, how a reliance on TSMC causes bottlenecks, H100 clients, Nvidia&#39;s allocations, and more &lpar;GPU Utils&rpar;](http://www.techmeme.com/230803/p16#a230803p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
