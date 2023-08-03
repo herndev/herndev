@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A beginner’s guide to beginning Baldur’s Gate 3](https://www.theverge.com/23818692/baldurs-gate-3-starting-guide-tips-how-to)
- - [Apple reports Q3 revenue for its Services segment, which includes Apple TV+ and Apple Music, grew 8.2% YoY to $21.2B, and it now has 1B+ paid subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230803/p35#a230803p35)
- - [Apple paying out $0.24 per-share dividend on August 17](https://appleinsider.com/articles/23/08/03/apple-paying-out-024-per-share-dividend-on-august-17?utm_medium=rss)<!-- TECH:END -->
+ - [Not even the Galaxy S23 could prevent Qualcomm’s chip sales from falling by 25%](https://www.androidauthority.com/qualcomm-chip-sales-down-3352231/)
+ - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
+ - [Apple finally reaches one billion paid subscriptions milestone](https://appleinsider.com/articles/23/08/03/apple-finally-reaches-the-one-billion-paid-subscriptions-milestone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
