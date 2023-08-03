@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/ay2POgr)
- - ⏩ [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
- - 👉 [Strawberry](http://9gag.com/gag/aZDvA99)<!-- MEMES:END -->
+ - 💣 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - ⏩ [Juvenile toddlers](http://9gag.com/gag/aL1bR6V)
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 
