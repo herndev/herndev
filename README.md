@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - ⏩ [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)<!-- MEMES:END -->
+ - 💣 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - ⏩ [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 
