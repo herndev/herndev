@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 💣 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
  - ⏩ [I just want to give up](http://9gag.com/gag/aA0mY9o)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
 
 ---
 
