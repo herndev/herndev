@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s wrong with me](http://9gag.com/gag/amAdq6y)
- - ⏩ [Ahh yes, Banana of Luck.](http://9gag.com/gag/aXneBQg)
- - 👉 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - ⏩ [If you know you know](http://9gag.com/gag/ay2POgr)
+ - 👉 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)<!-- MEMES:END -->
 
 ---
 
