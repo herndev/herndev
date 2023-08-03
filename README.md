@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Bans Promotion Of Counter-Strike Gambling](https://kotaku.com/twitch-bans-csgo-skin-gambling-sponsorships-promo-pc-1850701882)
- - [The NHL’s Seattle Kraken embraced horny BookTok and found controversy](https://www.polygon.com/23817621/booktok-seattle-kraken-controversy-harassment-alex-wennberg-explained)
- - [Where to find Goddess Statues in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23709964/goddess-statue-locations-light-blessing)<!-- GAME:END -->
+ - [How big is Starfield, anyway?](https://www.pcgamer.com/starfield-size)
+ - [Bungie warns Destiny 2 cheat makers: Your days of operating &#39;without fear of consequences are over&#39;](https://www.pcgamer.com/bungie-warns-destiny-2-cheat-makers-your-days-of-operating-without-fear-of-consequences-are-over)
+ - [Twitch Bans Promotion Of Counter-Strike Gambling](https://kotaku.com/twitch-bans-csgo-skin-gambling-sponsorships-promo-pc-1850701882)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
