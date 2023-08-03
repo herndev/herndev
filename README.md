@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just want to give up](http://9gag.com/gag/aA0mY9o)
- - ⏩ [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
+ - 💣 [If you know, then you know.](http://9gag.com/gag/ap9do18)
+ - ⏩ [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
 
 ---
 
