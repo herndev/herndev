@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – WWE 2K23, Descenders, and Dragon Ball FighterZ](https://news.xbox.com/en-us/2023/08/03/free-play-days-wwe-2k23-descenders-and-dragon-ball-fighterz/)
- - [Feast your eyes and hearts on our Baldur’s Gate 3 characters](https://www.polygon.com/23817523/baldurs-gate-3-character-creator-classes-races-origins-subclasses)
- - [Baldur’s Gate 3’s opening gave me like 8 new phobias](https://www.polygon.com/23816087/baldurs-gate-3-opening-scene-warning-gross-mind-flayer-illithid-tadpole)<!-- GAME:END -->
+ - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
+ - [I ordered Baldur&#39;s Gate 3&#39;s companions by how much their first dates would suck in real life](https://www.pcgamer.com/i-ordered-baldurs-gate-3s-companions-by-how-much-their-first-dates-would-suck-in-real-life)
+ - [Stop what you&#39;re doing and revel in the heavy chiptune virtuosity that is Master Boot Record](https://www.pcgamer.com/stop-what-youre-doing-and-revel-in-the-heavy-chiptune-virtuosity-that-is-master-boot-record)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
