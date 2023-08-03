@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)
- - [India limits iPad and Mac imports in drive to boost local manufacturing](https://appleinsider.com/articles/23/08/03/india-limits-ipad-and-mac-imports-in-drive-to-boost-local-manufacturing?utm_medium=rss)
- - [How to add a security key to an Apple ID in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)
+ - [Endor Labs, which offers code and pipeline governance tools, raised a $70M Series A led by Lightspeed, just 10 months after launching &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230803/p14#a230803p14)
+ - [Call of Duty now shows you when a cheater has been booted right in the kill feed](https://www.theverge.com/2023/8/3/23818380/call-of-duty-anti-cheat-kill-feed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
