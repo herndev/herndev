@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly the Smart one don&#39;t get much coverage...](http://9gag.com/gag/a9qVjRD)
- - ⏩ [What&#39;s wrong with me](http://9gag.com/gag/amAdq6y)
- - 👉 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)<!-- MEMES:END -->
+ - 💣 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
+ - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->
 
 ---
 
