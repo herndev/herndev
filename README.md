@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - ⏩ [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
+ - ⏩ [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 
