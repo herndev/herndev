@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [If you&#39;re not on the Baldur&#39;s Gate 3 hype train, this new extraction shooter is having an open beta you can play instead](https://www.pcgamer.com/if-youre-not-on-the-baldurs-gate-3-hype-train-this-new-extraction-shooter-is-having-an-open-beta-you-can-play-instead)
- - [Steam&#39;s newest showcase event is all about games that make me feel like an absolute dummy](https://www.pcgamer.com/steams-newest-showcase-event-is-all-about-games-that-make-me-feel-like-a-total-dummy)<!-- GAME:END -->
+ - [5 things you really shouldn&#39;t miss in the first 5 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-missable-things)
+ - [The Weirdest Console, With The Worst Resident Evil 4 Port, Is Getting Emulated](https://kotaku.com/zeebo-worst-console-emulator-crash-resident-evil-brazil-1850705886)
+ - [A Hades player defies the gods, completes ‘impossible’ run](https://www.polygon.com/23818742/hades-player-impossible-speedrun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
