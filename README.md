@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [If you know you know](http://9gag.com/gag/ay2POgr)
- - 👉 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/ay2POgr)
+ - ⏩ [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
+ - 👉 [Strawberry](http://9gag.com/gag/aZDvA99)<!-- MEMES:END -->
 
 ---
 
