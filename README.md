@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands its privacy tools, including to alert users when their personal info appears in Search and to remove consensual explicit images from Search &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230803/p26#a230803p26)
- - [The Super Mario Bros. Movie starts streaming on Peacock today](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)
- - [Google will warn you if personal info ends up in Search, give tools to remove it](https://www.androidauthority.com/google-results-about-you-3352149/)<!-- TECH:END -->
+ - [Brave Search updates its image and video search to use Brave&#39;s own index rather than the ones from Bing or Google; some advanced search capabilities are absent &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230803/p28#a230803p28)
+ - [Samsung Galaxy Z Flip 5 review: Still the clamshell’s pearl?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-review-3350175/)
+ - [FCC fines a robocaller, which placed 5B+ calls pretending to sell auto warranties to collect personal information from people, a record $300M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230803/p27#a230803p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
