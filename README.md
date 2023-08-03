@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juvenile toddlers](http://9gag.com/gag/aL1bR6V)
+ - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
  - ⏩ [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [Much proud](http://9gag.com/gag/aDYMB1w)<!-- MEMES:END -->
+ - 👉 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)<!-- MEMES:END -->
 
 ---
 
