@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brave Search updates its image and video search to use Brave&#39;s own index rather than the ones from Bing or Google; some advanced search capabilities are absent &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230803/p28#a230803p28)
- - [Samsung Galaxy Z Flip 5 review: Still the clamshell’s pearl?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-review-3350175/)
- - [FCC fines a robocaller, which placed 5B+ calls pretending to sell auto warranties to collect personal information from people, a record $300M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230803/p27#a230803p27)<!-- TECH:END -->
+ - [Kasa launches two new Matter-enabled smart light switches](https://appleinsider.com/articles/23/08/03/kasa-launches-two-new-matter-enabled-smart-light-switches?utm_medium=rss)
+ - [Three big Reddit communities are no longer focused on John Oliver](https://www.theverge.com/2023/8/3/23818673/reddit-communities-subreddits-john-oliver-remove-rules)
+ - [The FODMAP Diet Can Help With Digestive Issues. Here&#39;s How It Works     - CNET](https://www.cnet.com/health/nutrition/what-is-the-fodmap-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
