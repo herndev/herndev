@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
- - ⏩ [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 👉 [POV : The driver took too much](http://9gag.com/gag/aZDveyX)<!-- MEMES:END -->
+ - 💣 [Sadly the Smart one don&#39;t get much coverage...](http://9gag.com/gag/a9qVjRD)
+ - ⏩ [What&#39;s wrong with me](http://9gag.com/gag/amAdq6y)
+ - 👉 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)<!-- MEMES:END -->
 
 ---
 
