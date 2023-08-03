@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know](http://9gag.com/gag/ay2POgr)
- - ⏩ [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
- - 👉 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)<!-- MEMES:END -->
+ - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - ⏩ [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
 
