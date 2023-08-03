@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
- - ⏩ [Juvenile toddlers](http://9gag.com/gag/aL1bR6V)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - ⏩ [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
+ - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->
 
 ---
 
