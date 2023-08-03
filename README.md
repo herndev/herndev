@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Scream 7 news so far, including its new director](https://www.polygon.com/23639913/scream-7-release-date-cast-news)
- - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [A Resident Evil Remake Is Now The Best-Selling Game In The Series](https://kotaku.com/re2-remake-resident-evil-4-best-selling-games-capcom-1850704221)<!-- GAME:END -->
+ - [Meg 2: The Trench drowns in oversized shark-movie silliness](https://www.polygon.com/reviews/23818566/meg-2-trench-review)
+ - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861)
+ - [All The Big Changes Coming To Destiny 2 Later This Year](https://kotaku.com/destiny-2-lightfall-final-shape-season-22-exotics-ps5-1850704807)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
