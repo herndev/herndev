@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Promises It Won’t Drip Feed Upcoming Expansion’s &#39;Climatic Conclusion&#39;](https://kotaku.com/destiny-2-the-final-shape-story-witness-traveler-ending-1850705113)
- - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
- - [Valve resets the rules on pro CS:GO tournaments: &#39;we’ve seen professional Counter-Strike drift away&#39; from its ideals](https://www.pcgamer.com/valve-resets-the-rules-on-pro-csgo-tournaments-weve-seen-professional-counter-strike-drift-away-from-its-ideals)<!-- GAME:END -->
+ - [Halo Infinite Is So Back, Baby](https://kotaku.com/halo-infinite-valhalla-squad-battle-firefight-forge-map-1850705404)
+ - [Bungie previews 18 changes coming soon to Destiny 2, including the death of bounties](https://www.polygon.com/23818825/destiny-2-state-of-the-game-2023-showcase-citadel-joe-blackburn)
+ - [12 things to know before starting Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guide-walkthrough/21502359/beginner-starter-tips-dungeons-dragons-stats-abilities-turn-based-combat-autosave)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
