@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek’s first-ever musical episode divided the Strange New Worlds cast](https://www.polygon.com/23817437/star-trek-musical-strange-new-worlds-episode-snw)
- - [Eve Online gets an epic 4X board game, and the miniatures look incredible](https://www.polygon.com/23816020/eve-online-board-game-crowdfunding-titan-forge-miniatures-announcement-release-date-price)
- - [Potential Nickelodeon All-Star Brawl 2 leak shows Plankton piloting a giant mech Ratatouille-style and I&#39;m obsessed](https://www.pcgamer.com/potential-nickelodeon-all-star-brawl-2-leak-shows-plankton-piloting-a-giant-mech-ratatouille-style-and-im-obsessed)<!-- GAME:END -->
+ - [Oink Games’ colorful collection of small-box board games wows at this year’s Gen Con](https://www.polygon.com/23811100/oink-games-japanese-board-games-nine-tiles-difference-whale-tiger-dragon-gen-con)
+ - [Gen Con 2023: All the best board games, RPGs, and card games from Indianapolis](https://www.polygon.com/2023/8/3/23818514/gen-con-2023-event-best-board-games-rpg-tcg-indianapolis)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
