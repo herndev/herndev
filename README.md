@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some people use &quot;date-me docs&quot;, online documents akin to newspaper personal ads, to look for more meaningful connections than those found in dating apps &lpar;New York Times&rpar;](http://www.techmeme.com/230803/p9#a230803p9)
- - [Twitch expands its ban on livestreams of gambling content to include online casinos Blaze and Gamdom; gambling viewership dropped ~75% after its bans in 2022 &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/230803/p8#a230803p8)
- - [India restricts the import of laptops, tablets, PCs, and servers with immediate effect; analysts say the move seems designed to boost local tech manufacturing &lpar;TechCrunch&rpar;](http://www.techmeme.com/230803/p7#a230803p7)<!-- TECH:END -->
+ - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)
+ - [India limits iPad and Mac imports in drive to boost local manufacturing](https://appleinsider.com/articles/23/08/03/india-limits-ipad-and-mac-imports-in-drive-to-boost-local-manufacturing?utm_medium=rss)
+ - [How to add a security key to an Apple ID in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
