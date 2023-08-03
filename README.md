@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oink Games’ colorful collection of small-box board games wows at this year’s Gen Con](https://www.polygon.com/23811100/oink-games-japanese-board-games-nine-tiles-difference-whale-tiger-dragon-gen-con)
- - [Gen Con 2023: All the best board games, RPGs, and card games from Indianapolis](https://www.polygon.com/2023/8/3/23818514/gen-con-2023-event-best-board-games-rpg-tcg-indianapolis)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Free Play Days – WWE 2K23, Descenders, and Dragon Ball FighterZ](https://news.xbox.com/en-us/2023/08/03/free-play-days-wwe-2k23-descenders-and-dragon-ball-fighterz/)
+ - [Feast your eyes and hearts on our Baldur’s Gate 3 characters](https://www.polygon.com/23817523/baldurs-gate-3-character-creator-classes-races-origins-subclasses)
+ - [Baldur’s Gate 3’s opening gave me like 8 new phobias](https://www.polygon.com/23816087/baldurs-gate-3-opening-scene-warning-gross-mind-flayer-illithid-tadpole)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
