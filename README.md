@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [90 percent of Ray-Ban Stories owners aren’t using Meta’s smart glasses](https://www.theverge.com/2023/8/3/23818462/meta-ray-ban-stories-smart-glasses-retention-reality-labs)
- - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_medium=rss)
- - [AMD announces the Radeon Pro W7600 for $599, $50 cheaper than its predecessor, and W7500 for $429, both based on the new Navi 33 GPU, available later in Q3 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230803/p19#a230803p19)<!-- TECH:END -->
+ - [The best gaming mice to buy right now](https://www.theverge.com/21252193/best-gaming-mouse)
+ - [Instagram is making it harder for people to spam you with DM requests](https://www.theverge.com/2023/8/3/23818552/instagram-dm-request-spam-limit)
+ - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
