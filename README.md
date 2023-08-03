@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Samsung’s new ‘flagship’ repair centers will provide more types of phone fixes and faster](https://www.theverge.com/2023/8/3/23817603/samsung-asurion-ubreakifix-flagship-locations-galaxy-phone-repair)
- - [An in-depth look at GPU supply and demand, particularly Nvidia H100s, how a reliance on TSMC causes bottlenecks, H100 clients, Nvidia&#39;s allocations, and more &lpar;GPU Utils&rpar;](http://www.techmeme.com/230803/p16#a230803p16)<!-- TECH:END -->
+ - [90 percent of Ray-Ban Stories owners aren’t using Meta’s smart glasses](https://www.theverge.com/2023/8/3/23818462/meta-ray-ban-stories-smart-glasses-retention-reality-labs)
+ - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_medium=rss)
+ - [AMD announces the Radeon Pro W7600 for $599, $50 cheaper than its predecessor, and W7500 for $429, both based on the new Navi 33 GPU, available later in Q3 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230803/p19#a230803p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
