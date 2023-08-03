@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Is So Back, Baby](https://kotaku.com/halo-infinite-valhalla-squad-battle-firefight-forge-map-1850705404)
- - [Bungie previews 18 changes coming soon to Destiny 2, including the death of bounties](https://www.polygon.com/23818825/destiny-2-state-of-the-game-2023-showcase-citadel-joe-blackburn)
- - [12 things to know before starting Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guide-walkthrough/21502359/beginner-starter-tips-dungeons-dragons-stats-abilities-turn-based-combat-autosave)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [If you&#39;re not on the Baldur&#39;s Gate 3 hype train, this new extraction shooter is having an open beta you can play instead](https://www.pcgamer.com/if-youre-not-on-the-baldurs-gate-3-hype-train-this-new-extraction-shooter-is-having-an-open-beta-you-can-play-instead)
+ - [Steam&#39;s newest showcase event is all about games that make me feel like an absolute dummy](https://www.pcgamer.com/steams-newest-showcase-event-is-all-about-games-that-make-me-feel-like-a-total-dummy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
