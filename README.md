@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming mice to buy right now](https://www.theverge.com/21252193/best-gaming-mouse)
- - [Instagram is making it harder for people to spam you with DM requests](https://www.theverge.com/2023/8/3/23818552/instagram-dm-request-spam-limit)
- - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)<!-- TECH:END -->
+ - [Brave releases its own privacy-preserving image and video search](https://www.theverge.com/2023/8/3/23818388/brave-search-image-video-results-privacy-index)
+ - [Patreon temporarily disables Payoneer payments after some creators were unable to access their earnings and some subscriber payments are flagged as fraudulent &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230803/p23#a230803p23)
+ - [Mutant Mayhem is a grody and gorgeous reintroduction to the TMNT](https://www.theverge.com/23817296/teenage-mutant-ninja-turtles-movie-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
