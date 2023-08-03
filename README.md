@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - ⏩ [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 💣 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
+ - ⏩ [Hold up](http://9gag.com/gag/a8qzP41)
+ - 👉 [Strawberry](http://9gag.com/gag/aZDvA99)<!-- MEMES:END -->
 
 ---
 
