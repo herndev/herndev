@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Same vibes](http://9gag.com/gag/aYVdpPw)
- - ⏩ [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
- - 👉 [If you know, then you know.](http://9gag.com/gag/ap9do18)<!-- MEMES:END -->
+ - 💣 [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - ⏩ [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
 
 ---
 
