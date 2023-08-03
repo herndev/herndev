@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
  - ⏩ [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 
