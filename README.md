@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Horticulture: How We Accidentally Made a Detective Game About Plants](https://news.xbox.com/en-us/2023/08/04/strange-horticulture-how-we-accidentally-made-a-detective-game-about-plants/)
- - [Destiny 2 Xur location, inventory for Aug. 4-8](https://www.polygon.com/destiny-2-guide-walkthrough/2023/8/4/23820326/destiny-2-xur-location-inventory-aug-4-8)
- - [Baldur&#39;s Gate 3 Mindflayer Parasite locations and how illithid powers work](https://www.pcgamer.com/baldurs-gate-3-mindflayer-parasite-locations-illithid-powers)<!-- GAME:END -->
+ - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
+ - [Hades’ ‘Impossible’ Setting Just Got Beaten For The First Time](https://kotaku.com/hades-impossible-run-haelian-64-heat-angel1c-youtube-1850708543)
+ - [‘Rescue the Gnome’ quest steps in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23820359/rescue-gnome-how-to-free-windmill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
