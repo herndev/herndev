@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - ⏩ [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 💣 [You were saying?](http://9gag.com/gag/aDYPmDx)
+ - ⏩ [Flip It](http://9gag.com/gag/aMEWbVA)
+ - 👉 [&#39;Gamifying&#39; trademills adds more fun to it, and also extends the exercise time](http://9gag.com/gag/a8qnYxe)<!-- MEMES:END -->
 
 ---
 
