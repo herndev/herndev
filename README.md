@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)
- - [Meta’s Quest 3 headset might be coming out sometime soon](https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc)
- - [Google’s $99 a night company hotel advertises ‘no commute’ as a perk](https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office)<!-- TECH:END -->
+ - [SEC sues Apple Car exec over securities rules at former employer](https://appleinsider.com/articles/23/08/04/sec-sues-apple-car-exec-over-securities-rules-at-former-employer?utm_medium=rss)
+ - [Let’s all play the Phone Challenge](https://www.theverge.com/23820251/phone-screen-time-log-off)
+ - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
