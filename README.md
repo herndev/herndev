@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The entire greek pantheon screaming at odin to just stop](http://9gag.com/gag/a5XxrPN)
- - ⏩ [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
+ - 💣 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - ⏩ [In life you can only count on your mom and spiderman](http://9gag.com/gag/aeQd6ZB)
+ - 👉 [Uff...](http://9gag.com/gag/a04xYGL)<!-- MEMES:END -->
 
 ---
 
