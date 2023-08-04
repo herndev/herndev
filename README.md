@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - ⏩ [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
+ - 💣 [Illusion lvl 100](http://9gag.com/gag/aDYP0yG)
+ - ⏩ [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
 
 ---
 
