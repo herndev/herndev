@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - ⏩ [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 💣 [The entire greek pantheon screaming at odin to just stop](http://9gag.com/gag/a5XxrPN)
+ - ⏩ [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
  - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
 
 ---
