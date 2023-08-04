@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)
- - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)
- - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)<!-- TECH:END -->
+ - [Smartphone shipments in India fell 10% YoY in H1 2023 to 64M; in Q2 2023, Apple and OnePlus grew 61% YoY each, Xiaomi fell 39% YoY, and Realme fell 30% YoY &lpar;IDC&rpar;](http://www.techmeme.com/230804/p21#a230804p21)
+ - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
+ - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
