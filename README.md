@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 7 to August 11](https://news.xbox.com/en-us/2023/08/04/next-week-on-xbox-new-games-for-august-7-to-august-11/)
- - [If you&#39;re done with Netflix&#39;s Witcher, Andrezj Sapkowski is writing a new book](https://www.pcgamer.com/if-youre-done-with-netflixs-witcher-andrezj-sapkowski-is-writing-a-new-book)
- - [Abilities, proficiency, and skills in Baldur&#39;s Gate 3 explained](https://www.pcgamer.com/baldurs-gate-3-abilities-proficiency-and-skills)<!-- GAME:END -->
+ - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)
+ - [Microsoft accused of &#39;negligent cybersecurity practices&#39; that &#39;enabled Chinese espionage against the US government&#39;](https://www.pcgamer.com/microsoft-accused-of-negligent-cybersecurity-practices-that-enabled-chinese-espionage-against-the-us-government)
+ - [Cult classic anime Mononoke returns with a new film next summer](https://www.polygon.com/2023/8/4/23819984/mononoke-movie-trailer-summer-2024-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
