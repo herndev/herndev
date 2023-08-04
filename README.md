@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.36 adds 4 new cars, three Extra Menus, and a Gran Turismo movie experience](https://blog.playstation.com/2023/08/04/gran-turismo-7-update-1-36-adds-4-new-cars-three-extra-menus-and-a-gran-turismo-movie-experience/)
- - [Paul Reubens and Pee-wee’s Playhouse made it okay for TV to be weird](https://www.polygon.com/23818938/paul-reubens-pee-wee-playhouse-tv-show-obituary)
- - [Baldur&#39;s Gate 3 guide: Everything you need to survive in the Forgotten Realms](https://www.pcgamer.com/baldurs-gate-3-guide)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 7 to August 11](https://news.xbox.com/en-us/2023/08/04/next-week-on-xbox-new-games-for-august-7-to-august-11/)
+ - [If you&#39;re done with Netflix&#39;s Witcher, Andrezj Sapkowski is writing a new book](https://www.pcgamer.com/if-youre-done-with-netflixs-witcher-andrezj-sapkowski-is-writing-a-new-book)
+ - [Abilities, proficiency, and skills in Baldur&#39;s Gate 3 explained](https://www.pcgamer.com/baldurs-gate-3-abilities-proficiency-and-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
