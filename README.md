@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does the Samsung Galaxy Z Flip 5 have eSIM?](https://www.androidauthority.com/does-the-samsung-galaxy-z-flip-5-have-esim-3350852/)
  - [Galaxy Z Flip 5 vs. Moto Razr Plus live hand-folding test: Moto in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
- - [A look at the digital-asset rules in Asian jurisdictions like Hong Kong and Japan as the region&#39;s regulators lead the US, which remains mired in a crypto fog &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230804/p1#a230804p1)
- - [It’s officially the end of the road for Cortana on Windows](https://www.androidauthority.com/microsoft-kill-cortana-windows-august-2023-3331248/)<!-- TECH:END -->
+ - [A look at efforts in Asian jurisdictions like Hong Kong and Japan to clarify crypto rules, in contrast to the US, which remains mired in regulatory uncertainty &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230804/p1#a230804p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
