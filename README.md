@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
- - ⏩ [Cool long story short](http://9gag.com/gag/a6qxmGb)
- - 👉 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)<!-- MEMES:END -->
+ - 💣 [50% off](http://9gag.com/gag/aMEWbZW)
+ - ⏩ [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
+ - 👉 [Water Pistol](http://9gag.com/gag/aKELgOQ)<!-- MEMES:END -->
 
 ---
 
