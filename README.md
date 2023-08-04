@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubious leaker claims AirTag 2 will launch in 2025](https://appleinsider.com/articles/23/08/04/dubious-leaker-claims-airtag-2-will-launch-in-2025?utm_medium=rss)
- - [The Google Pixel tablet gets its first price drop](https://www.androidauthority.com/google-pixel-tablet-deal-3352516/)
- - [Pony.Ai, which launched robotaxi services in Beijing and Guangzhou, launches a joint venture with Toyota and plans to spend $139M to mass produce robotaxis &lpar;Reuters&rpar;](http://www.techmeme.com/230804/p15#a230804p15)<!-- TECH:END -->
+ - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)
+ - [Meta’s Quest 3 headset might be coming out sometime soon](https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc)
+ - [Google’s $99 a night company hotel advertises ‘no commute’ as a perk](https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
