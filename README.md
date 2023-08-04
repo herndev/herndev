@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Difficulty spikes, failed stealth, and 6 other pitfalls to avoid in your first 10 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-beginner-tips)
- - [There&#39;s another Future Games Show this month, with &#39;8 world premieres&#39;](https://www.pcgamer.com/theres-another-future-games-show-this-month-with-8-world-premieres)
- - [5 things you really shouldn&#39;t miss in the first 5 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-missable-things)<!-- GAME:END -->
+ - [How to respec in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-respec-guide)
+ - [So we&#39;re all save scumming in Baldur&#39;s Gate 3, right?](https://www.pcgamer.com/baldurs-gate-3-save-scumming)
+ - [The top Baldur&#39;s Gate 3 Twitch clips are streamers discovering it features full nudity](https://www.pcgamer.com/the-top-baldurs-gate-3-twitch-clips-are-streamers-discovering-it-features-full-nudity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
