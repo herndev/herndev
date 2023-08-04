@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - ⏩ [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 👉 [Water Pistol](http://9gag.com/gag/aKELgOQ)<!-- MEMES:END -->
+ - 💣 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
+ - ⏩ [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
 
