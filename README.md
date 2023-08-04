@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase argues it doesn’t trade securities, so the SEC’s lawsuit should be dismissed](https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed)
- - [How the Kids Online Safety Act puts us all at risk](https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger)
- - [Google’s Pixel Watch and Pixel Buds Pro are $60 off for Verge readers](https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale)<!-- TECH:END -->
+ - [India delays import limitations on laptops, tablets, and servers, giving companies a &quot;transition period&quot; of at least one month to obtain licenses &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230804/p14#a230804p14)
+ - [Deal of the Day: Upgrade Your At-Home Workout With These $200 Adjustable Dumbbells &lpar;Save $200&rpar;     - CNET](https://www.cnet.com/deals/deal-of-the-day-upgrade-your-at-home-workout-with-these-200-adjustable-dumbbells-save-200/#ftag=CAD590a51e)
+ - [The Google Pixel Tablet is discounted for the very first time, saving you $60](https://www.theverge.com/2023/8/4/23819994/google-pixel-tablet-android-nest-hub-dock-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
