@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - ⏩ [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - ⏩ [50% off](http://9gag.com/gag/aMEWbZW)
+ - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
 
 ---
 
