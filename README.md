@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to respec in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-respec-guide)
- - [So we&#39;re all save scumming in Baldur&#39;s Gate 3, right?](https://www.pcgamer.com/baldurs-gate-3-save-scumming)
- - [The top Baldur&#39;s Gate 3 Twitch clips are streamers discovering it features full nudity](https://www.pcgamer.com/the-top-baldurs-gate-3-twitch-clips-are-streamers-discovering-it-features-full-nudity)<!-- GAME:END -->
+ - [Get free World of Tanks, World of Warships, and World of Warplanes DLC to celebrate Wargaming&#39;s 25th birthday](https://www.pcgamer.com/get-free-world-of-tanks-world-of-warships-and-world-of-warplanes-dlc-to-celebrate-wargamings-25th-birthday)
+ - [Today&#39;s Wordle hint and answer #776: Friday, August 4](https://www.pcgamer.com/wordle-answer-today-hint-776-august-4)
+ - [How to respec in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-respec-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
