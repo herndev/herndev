@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gojo and Geto broke up, press F to pay respects](https://www.polygon.com/23820179/jujutsu-kaisen-gojo-geto-satosugu-jjk-episode-5)
- - [How to move the scuffed rock in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23820458/scuffed-rock-move-how-to)
- - [The Witcher Book Series Is Getting A New Addition 10 Years Later](https://kotaku.com/the-witcher-writer-books-andrzej-sapkowski-cdpr-1850709175)<!-- GAME:END -->
+ - [It was FF14&#39;s housing updates, not Dawntrail&#39;s reveal, that I cheered loudest for at Fan Fest](https://www.pcgamer.com/it-was-ff14-housing-updates-not-dawntrails-reveal-that-i-cheered-loudest-for-at-fan-fest)
+ - [So what happens to Oppenheimer’s massive IMAX 70mm prints after it leaves theaters?](https://www.polygon.com/23820488/oppenheimer-imax-70mm-film-theaters-archive-nolan)
+ - [Twitch streamer Kai Cenat’s Union Square giveaway creates chaos in New York](https://www.polygon.com/23820598/kai-cenat-twitch-ps5-giveaway-union-square-new-york)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
