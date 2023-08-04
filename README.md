@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - ⏩ [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 💣 [Perfect reaction\u2019s doesn\u2019t exis\u2026..](http://9gag.com/gag/axoA2bD)
+ - ⏩ [Old but gold](http://9gag.com/gag/aDYPwXB)
+ - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
 
 ---
 
