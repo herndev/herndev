@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - ⏩ [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
- - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
+ - ⏩ [Part 2](http://9gag.com/gag/aXndpv6)
+ - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
 
