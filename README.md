@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s officially the end of the road for Cortana on Windows](https://www.androidauthority.com/microsoft-kill-cortana-windows-august-2023-3331248/)
  - [Microsoft dumps Cortana leaving Siri as one of the last smart assistants](https://appleinsider.com/articles/23/08/04/microsoft-dumps-cortana-leaving-siri-as-one-of-the-last-smart-assistants?utm_medium=rss)
- - [A look at Premier League soccer&#39;s fight against piracy as illegal live streams in the UK decline, with 600K+ blocked last season, and use of IPTV devices rises &lpar;Martyn Ziegler/The Times&rpar;](http://www.techmeme.com/230803/p41#a230803p41)
- - [Snag Huge Savings With Early Back-to-School Deals from Nike, Adidas, and More     - CNET](https://www.cnet.com/deals/snag-huge-savings-with-early-back-to-school-deals-from-nike-adidas-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Premier League soccer&#39;s fight against piracy as illegal live streams in the UK decline, with 600K+ blocked last season, and use of IPTV devices rises &lpar;Martyn Ziegler/The Times&rpar;](http://www.techmeme.com/230803/p41#a230803p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
