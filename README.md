@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
- - ⏩ [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
- - 👉 [The Boys, when the teacher leaves the classroom for 2 minutes](http://9gag.com/gag/aPgp4Xg)<!-- MEMES:END -->
+ - 💣 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - ⏩ [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
+ - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
 
 ---
 
