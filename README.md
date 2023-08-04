@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
- - [Apple&#39;s valuation will fall to less than $3 trillion for the worst reasons](https://appleinsider.com/articles/23/08/04/apples-valuation-will-fall-to-less-than-3-trillion-for-the-worst-reasons?utm_medium=rss)
- - [A profile of TSMC founder Morris Chang, who moved from the US to Taiwan in 1985 to build a chip industry behemoth that now sits at the center of a tech Cold War &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p10#a230804p10)<!-- TECH:END -->
+ - [The latest Nothing Phone 2 update brings a laundry list of improvements](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
+ - [TikTok’s algorithm will be optional in Europe](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)
+ - [Tel Aviv-based insurance marketplace Vesttoo considers removing its CEO and CFO amid an alleged multibillion-dollar fraud involving faked letters of credit &lpar;Jean Eaglesham/Wall Street Journal&rpar;](http://www.techmeme.com/230804/p11#a230804p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
