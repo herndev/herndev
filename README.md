@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50% off](http://9gag.com/gag/aMEWbZW)
- - ⏩ [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
- - 👉 [Water Pistol](http://9gag.com/gag/aKELgOQ)<!-- MEMES:END -->
+ - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - ⏩ [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
 
 ---
 
