@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - ⏩ [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
+ - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - ⏩ [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 
