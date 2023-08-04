@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft dumps Cortana leaving Siri as one of the last smart assistants](https://appleinsider.com/articles/23/08/04/microsoft-dumps-cortana-leaving-siri-as-one-of-the-last-smart-assistants?utm_medium=rss)
  - [A look at Premier League soccer&#39;s fight against piracy as illegal live streams in the UK decline, with 600K+ blocked last season, and use of IPTV devices rises &lpar;Martyn Ziegler/The Times&rpar;](http://www.techmeme.com/230803/p41#a230803p41)
- - [Snag Huge Savings With Early Back-to-School Deals from Nike, Adidas, and More     - CNET](https://www.cnet.com/deals/snag-huge-savings-with-early-back-to-school-deals-from-nike-adidas-and-more/#ftag=CAD590a51e)
- - [Best TV Deals: Save Big on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag Huge Savings With Early Back-to-School Deals from Nike, Adidas, and More     - CNET](https://www.cnet.com/deals/snag-huge-savings-with-early-back-to-school-deals-from-nike-adidas-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
