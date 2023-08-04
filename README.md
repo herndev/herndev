@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 4.0 livestream](https://www.pcgamer.com/genshin-impact-codes-4-0-livestream)
- - [Where to find the Scuffed Rock in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-scuffed-rock)
- - [Flush with the Baldur&#39;s Gate 3 vibes, Larian CEO tells acquisitive corporations to take a hike: &#39;I&#39;m getting older, but I&#39;m certainly not done yet&#39;](https://www.pcgamer.com/flush-with-the-baldurs-gate-3-vibes-larian-ceo-tells-acquisitive-corporations-to-take-a-hike-im-getting-older-but-im-certainly-not-done-yet)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.36 adds 4 new cars, three Extra Menus, and a Gran Turismo movie experience](https://blog.playstation.com/2023/08/04/gran-turismo-7-update-1-36-adds-4-new-cars-three-extra-menus-and-a-gran-turismo-movie-experience/)
+ - [Paul Reubens and Pee-wee’s Playhouse made it okay for TV to be weird](https://www.polygon.com/23818938/paul-reubens-pee-wee-playhouse-tv-show-obituary)
+ - [Baldur&#39;s Gate 3 guide: Everything you need to survive in the Forgotten Realms](https://www.pcgamer.com/baldurs-gate-3-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
