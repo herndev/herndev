@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerColor listing confirms the RX 7800 XT, complete with full specifications](https://www.pcgamer.com/powercolor-listing-confirms-the-rx-7800-xt-complete-with-full-specifications)
- - [Rise of the Triad hasn&#39;t aged well but you should still play it](https://www.pcgamer.com/rise-of-the-triad-hasnt-aged-well-but-you-should-still-play-it)
- - [Get free World of Tanks, World of Warships, and World of Warplanes DLC to celebrate Wargaming&#39;s 25th birthday](https://www.pcgamer.com/get-free-world-of-tanks-world-of-warships-and-world-of-warplanes-dlc-to-celebrate-wargamings-25th-birthday)<!-- GAME:END -->
+ - [Alienware&#39;s new Aurora R16 desktop PC is a deeply disappointing square box](https://www.pcgamer.com/alienwares-new-aurora-r16-desktop-pc-is-a-deeply-disappointing-square-box)
+ - [ASRock Z790 Taichi Lite](https://www.pcgamer.com/asrock-z790-taichi-lite-review-performance)
+ - [PowerColor listing confirms the RX 7800 XT, complete with full specifications](https://www.pcgamer.com/powercolor-listing-confirms-the-rx-7800-xt-complete-with-full-specifications)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
