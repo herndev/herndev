@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all archetypes in Remnant 2](https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes)
- - [Hades’ ‘Impossible’ Setting Just Got Beaten For The First Time](https://kotaku.com/hades-impossible-run-haelian-64-heat-angel1c-youtube-1850708543)
- - [‘Rescue the Gnome’ quest steps in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23820359/rescue-gnome-how-to-free-windmill)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s first hotfix addresses more than 150 issues including that nasty savegame bug](https://www.pcgamer.com/baldurs-gate-3-hotfix-1)
+ - [Evo 2023: The biggest news and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)
+ - [Let’s Get Really Nostalgic About The Early Days Of PlayStation](https://kotaku.com/playstation-ps2-gamestop-gran-turismo-crash-bandicoot-1850708684)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
