@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Vietnam became a gaming powerhouse a decade after Flappy Bird; data.ai: Vietnam was in the global top five in mobile game production by downloads in H1 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230804/p2#a230804p2)
  - [Poll: Have ultra-high-resolution cameras lived up to the hype?](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-3352373/)
- - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)
- - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)<!-- TECH:END -->
+ - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
