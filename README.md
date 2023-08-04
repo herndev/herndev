@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You were saying?](http://9gag.com/gag/aDYPmDx)
- - ⏩ [Flip It](http://9gag.com/gag/aMEWbVA)
- - 👉 [&#39;Gamifying&#39; trademills adds more fun to it, and also extends the exercise time](http://9gag.com/gag/a8qnYxe)<!-- MEMES:END -->
+ - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - ⏩ [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---
 
