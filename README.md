@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s first hotfix addresses more than 150 issues including that nasty savegame bug](https://www.pcgamer.com/baldurs-gate-3-hotfix-1)
- - [Evo 2023: The biggest news and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)
- - [Let’s Get Really Nostalgic About The Early Days Of PlayStation](https://kotaku.com/playstation-ps2-gamestop-gran-turismo-crash-bandicoot-1850708684)<!-- GAME:END -->
+ - [Gojo and Geto broke up, press F to pay respects](https://www.polygon.com/23820179/jujutsu-kaisen-gojo-geto-satosugu-jjk-episode-5)
+ - [How to move the scuffed rock in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23820458/scuffed-rock-move-how-to)
+ - [The Witcher Book Series Is Getting A New Addition 10 Years Later](https://kotaku.com/the-witcher-writer-books-andrzej-sapkowski-cdpr-1850709175)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
