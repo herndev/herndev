@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - ⏩ [50% off](http://9gag.com/gag/aMEWbZW)
- - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
+ - 💣 [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
+ - ⏩ [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
+ - 👉 [The Boys, when the teacher leaves the classroom for 2 minutes](http://9gag.com/gag/aPgp4Xg)<!-- MEMES:END -->
 
 ---
 
