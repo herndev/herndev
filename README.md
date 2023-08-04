@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok announces measures to comply with EU DSA, including making reporting illegal content easier for users and removing targeted ads for those aged 13 to 17 &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230804/p6#a230804p6)
- - [The Google Inbox email successor is finally ready for Android](https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release)
- - [Apple, Samsung, and others freeze imports of laptops and tablets to India; sources say India&#39;s sudden import license rules caught the industry by surprise &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230804/p5#a230804p5)<!-- TECH:END -->
+ - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
+ - [Apple&#39;s valuation will fall to less than $3 trillion for the worst reasons](https://appleinsider.com/articles/23/08/04/apples-valuation-will-fall-to-less-than-3-trillion-for-the-worst-reasons?utm_medium=rss)
+ - [A profile of TSMC founder Morris Chang, who moved from the US to Taiwan in 1985 to build a chip industry behemoth that now sits at the center of a tech Cold War &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p10#a230804p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
