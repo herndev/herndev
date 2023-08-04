@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)
- - [Urban Company Lured Women Into the Gig Economy—Then Pushed Them Out](https://www.wired.com/story/urban-company-women-gig-economy-pushed-them-out/)
- - [Does the Samsung Galaxy Z Flip 5 have eSIM?](https://www.androidauthority.com/does-the-samsung-galaxy-z-flip-5-have-esim-3350852/)<!-- TECH:END -->
+ - [Poll: Have ultra-high-resolution cameras lived up to the hype?](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-3352373/)
+ - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)
+ - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
