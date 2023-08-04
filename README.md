@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - ⏩ [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
+ - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
+ - ⏩ [50% off](http://9gag.com/gag/aMEWbZW)
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 
