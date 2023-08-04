@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m going to play the whole of Baldur&#39;s Gate 3 with a controller and you can&#39;t stop me](https://www.pcgamer.com/baldurs-gate-3-controller-playthrough)
- - [Genshin Impact’s Fontaine trailer arrives just in time to keep you from quitting](https://www.polygon.com/23820064/genshin-impact-special-program-fontaine)
- - [Streamer deals himself so much psychic damage grinding Jedi: Survivor&#39;s tutorial for hours in a no-death run that he later declares defeat without actually dying](https://www.pcgamer.com/streamer-deals-himself-so-much-psychic-damage-grinding-jedi-survivors-tutorial-for-hours-in-a-no-death-run-that-he-later-declares-defeat-without-actually-dying)<!-- GAME:END -->
+ - [Witcher Producer Says Writers Do Respect The Books, Misspells Character&#39;s Name](https://kotaku.com/the-witcher-season-3-finale-henry-cavill-discourse-1850708037)
+ - [Baldur&#39;s Gate 3 smashes 500,000 concurrent users on Steam](https://www.pcgamer.com/baldurs-gate-3-smashes-500000-concurrent-users-on-steam)
+ - [Where to find your Baldur&#39;s Gate 3 deluxe edition items](https://www.pcgamer.com/baldurs-gate-3-deluxe-edition-items)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
