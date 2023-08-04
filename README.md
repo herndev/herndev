@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)
- - [Microsoft accused of &#39;negligent cybersecurity practices&#39; that &#39;enabled Chinese espionage against the US government&#39;](https://www.pcgamer.com/microsoft-accused-of-negligent-cybersecurity-practices-that-enabled-chinese-espionage-against-the-us-government)
- - [Cult classic anime Mononoke returns with a new film next summer](https://www.polygon.com/2023/8/4/23819984/mononoke-movie-trailer-summer-2024-announcement)<!-- GAME:END -->
+ - [I&#39;m going to play the whole of Baldur&#39;s Gate 3 with a controller and you can&#39;t stop me](https://www.pcgamer.com/baldurs-gate-3-controller-playthrough)
+ - [Genshin Impact’s Fontaine trailer arrives just in time to keep you from quitting](https://www.polygon.com/23820064/genshin-impact-special-program-fontaine)
+ - [Streamer deals himself so much psychic damage grinding Jedi: Survivor&#39;s tutorial for hours in a no-death run that he later declares defeat without actually dying](https://www.pcgamer.com/streamer-deals-himself-so-much-psychic-damage-grinding-jedi-survivors-tutorial-for-hours-in-a-no-death-run-that-he-later-declares-defeat-without-actually-dying)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
