@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro iPhones will have to wait a year to get the iPhone 15&#39;s 48mp camera](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
- - [Galaxy Tab S9 FE series is real and Samsung just confirmed it!](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-series-confirmed-3352406/)
- - [South Korean circuit board maker Isu Petasys, which counts Alphabet, Nvidia, and Microsoft as clients, has seen a 487% stock surge in 2023 fueled by the AI boom &lpar;Yoojung Lee/Bloomberg&rpar;](http://www.techmeme.com/230804/p3#a230804p3)<!-- TECH:END -->
+ - [TikTok announces measures to comply with EU DSA, including making reporting illegal content easier for users and removing targeted ads for those aged 13 to 17 &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230804/p6#a230804p6)
+ - [The Google Inbox email successor is finally ready for Android](https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release)
+ - [Apple, Samsung, and others freeze imports of laptops and tablets to India; sources say India&#39;s sudden import license rules caught the industry by surprise &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230804/p5#a230804p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
