@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Nothing Phone 2 update brings a laundry list of improvements](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
- - [TikTok’s algorithm will be optional in Europe](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)
- - [Tel Aviv-based insurance marketplace Vesttoo considers removing its CEO and CFO amid an alleged multibillion-dollar fraud involving faked letters of credit &lpar;Jean Eaglesham/Wall Street Journal&rpar;](http://www.techmeme.com/230804/p11#a230804p11)<!-- TECH:END -->
+ - [Coinbase argues it doesn’t trade securities, so the SEC’s lawsuit should be dismissed](https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed)
+ - [How the Kids Online Safety Act puts us all at risk](https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger)
+ - [Google’s Pixel Watch and Pixel Buds Pro are $60 off for Verge readers](https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
