@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Vietnam became a gaming powerhouse a decade after Flappy Bird; data.ai: Vietnam was in the global top five in mobile game production by downloads in H1 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230804/p2#a230804p2)
- - [Poll: Have ultra-high-resolution cameras lived up to the hype?](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-3352373/)
- - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)<!-- TECH:END -->
+ - [Pro iPhones will have to wait a year to get the iPhone 15&#39;s 48mp camera](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
+ - [Galaxy Tab S9 FE series is real and Samsung just confirmed it!](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-series-confirmed-3352406/)
+ - [South Korean circuit board maker Isu Petasys, which counts Alphabet, Nvidia, and Microsoft as clients, has seen a 487% stock surge in 2023 fueled by the AI boom &lpar;Yoojung Lee/Bloomberg&rpar;](http://www.techmeme.com/230804/p3#a230804p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
