@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It was FF14&#39;s housing updates, not Dawntrail&#39;s reveal, that I cheered loudest for at Fan Fest](https://www.pcgamer.com/it-was-ff14-housing-updates-not-dawntrails-reveal-that-i-cheered-loudest-for-at-fan-fest)
- - [So what happens to Oppenheimer’s massive IMAX 70mm prints after it leaves theaters?](https://www.polygon.com/23820488/oppenheimer-imax-70mm-film-theaters-archive-nolan)
- - [Twitch streamer Kai Cenat’s Union Square giveaway creates chaos in New York](https://www.polygon.com/23820598/kai-cenat-twitch-ps5-giveaway-union-square-new-york)<!-- GAME:END -->
+ - [Pokémon Go ‘Glittering Garden’ event guide](https://www.polygon.com/pokemon-go-guide/2023/8/4/23820158/glittering-garden-shiny-petilil-timed-research)
+ - [Roblox’s new face tracking feature is for the memes](https://www.polygon.com/23820632/roblox-new-face-tracking-memes-update-tiktok)
+ - [Of course Baldur&#39;s Gate 3 lets you stack dozens of crates and stand on top of them so you can teleport over the wall of a keep](https://www.pcgamer.com/of-course-baldurs-gate-3-lets-you-stack-dozens-of-crates-and-stand-on-top-of-them-so-you-can-teleport-over-the-wall-of-a-keep)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
