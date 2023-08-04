@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher Producer Says Writers Do Respect The Books, Misspells Character&#39;s Name](https://kotaku.com/the-witcher-season-3-finale-henry-cavill-discourse-1850708037)
- - [Baldur&#39;s Gate 3 smashes 500,000 concurrent users on Steam](https://www.pcgamer.com/baldurs-gate-3-smashes-500000-concurrent-users-on-steam)
- - [Where to find your Baldur&#39;s Gate 3 deluxe edition items](https://www.pcgamer.com/baldurs-gate-3-deluxe-edition-items)<!-- GAME:END -->
+ - [Strange Horticulture: How We Accidentally Made a Detective Game About Plants](https://news.xbox.com/en-us/2023/08/04/strange-horticulture-how-we-accidentally-made-a-detective-game-about-plants/)
+ - [Destiny 2 Xur location, inventory for Aug. 4-8](https://www.polygon.com/destiny-2-guide-walkthrough/2023/8/4/23820326/destiny-2-xur-location-inventory-aug-4-8)
+ - [Baldur&#39;s Gate 3 Mindflayer Parasite locations and how illithid powers work](https://www.pcgamer.com/baldurs-gate-3-mindflayer-parasite-locations-illithid-powers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
