@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PowerColor listing confirms the RX 7800 XT, complete with full specifications](https://www.pcgamer.com/powercolor-listing-confirms-the-rx-7800-xt-complete-with-full-specifications)
  - [Rise of the Triad hasn&#39;t aged well but you should still play it](https://www.pcgamer.com/rise-of-the-triad-hasnt-aged-well-but-you-should-still-play-it)
- - [Get free World of Tanks, World of Warships, and World of Warplanes DLC to celebrate Wargaming&#39;s 25th birthday](https://www.pcgamer.com/get-free-world-of-tanks-world-of-warships-and-world-of-warplanes-dlc-to-celebrate-wargamings-25th-birthday)
- - [Today&#39;s Wordle hint and answer #776: Friday, August 4](https://www.pcgamer.com/wordle-answer-today-hint-776-august-4)<!-- GAME:END -->
+ - [Get free World of Tanks, World of Warships, and World of Warplanes DLC to celebrate Wargaming&#39;s 25th birthday](https://www.pcgamer.com/get-free-world-of-tanks-world-of-warships-and-world-of-warplanes-dlc-to-celebrate-wargamings-25th-birthday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
