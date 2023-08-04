@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will face a scaled-down antitrust lawsuit over search after a judge ruled that state AGs didn&#39;t show that Google&#39;s search results harmed rivals like Yelp &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230804/p18#a230804p18)
- - [Electric Bills Spike Nearly 30% for AEP Ohio Customers. How to Choose Your Energy Provider     - CNET](https://www.cnet.com/news/electric-bills-spike-nearly-30-percent-for-aep-ohio-customers-how-to-choose-your-energy-provider/#ftag=CAD590a51e)
- - [The Senate’s AI Future Is Haunted by the Ghost of Privacy Past](https://www.wired.com/story/ai-regulation-privacy-us-senate/)<!-- TECH:END -->
+ - [Overwatch 2’s newest cinematic is the next big step in the game’s journey](https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion)
+ - [AirPods 3 now available at a reduced price through official Apple refurbished store](https://appleinsider.com/articles/23/08/04/airpods-3-now-available-at-a-reduced-price-through-official-apple-refurbished-store?utm_medium=rss)
+ - [Best Internet Providers in Cheyenne, Wyoming     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
