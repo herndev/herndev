@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2’s newest cinematic is the next big step in the game’s journey](https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion)
- - [AirPods 3 now available at a reduced price through official Apple refurbished store](https://appleinsider.com/articles/23/08/04/airpods-3-now-available-at-a-reduced-price-through-official-apple-refurbished-store?utm_medium=rss)
- - [Best Internet Providers in Cheyenne, Wyoming     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to switch your AirPods to another device in iOS 17](https://appleinsider.com/inside/airpods/tips/how-to-switch-your-airpods-to-another-device-in-ios-17?utm_medium=rss)
+ - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
+ - [Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
