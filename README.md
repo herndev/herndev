@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 things you really shouldn&#39;t miss in the first 5 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-missable-things)
- - [The Weirdest Console, With The Worst Resident Evil 4 Port, Is Getting Emulated](https://kotaku.com/zeebo-worst-console-emulator-crash-resident-evil-brazil-1850705886)
- - [A Hades player defies the gods, completes ‘impossible’ run](https://www.polygon.com/23818742/hades-player-impossible-speedrun)<!-- GAME:END -->
+ - [Difficulty spikes, failed stealth, and 6 other pitfalls to avoid in your first 10 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-beginner-tips)
+ - [There&#39;s another Future Games Show this month, with &#39;8 world premieres&#39;](https://www.pcgamer.com/theres-another-future-games-show-this-month-with-8-world-premieres)
+ - [5 things you really shouldn&#39;t miss in the first 5 hours of Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-missable-things)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
