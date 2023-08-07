@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - ⏩ [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - ⏩ [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)
+ - 👉 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)<!-- MEMES:END -->
 
 ---
 
