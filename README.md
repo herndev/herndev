@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)
- - [Apple Music debuts new algorithmic Discovery Station radio](https://appleinsider.com/articles/23/08/07/apple-music-debuts-new-algorithmic-discovery-station-radio?utm_medium=rss)
- - [Mazda adds touchscreen support to CarPlay in 2024 CX-5](https://appleinsider.com/articles/23/08/07/mazda-adds-touchscreen-support-to-carplay-in-2024-cx-5?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Pay launches in Vietnam](https://appleinsider.com/articles/23/08/07/apple-pay-launches-in-vietnam?utm_medium=rss)
+ - [August 2023 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/august-2023-android-security-patch-3353092/)
+ - [Ikea actually got a decent grade for its sustainable shipping goals](https://www.theverge.com/2023/8/7/23823226/ikea-shipping-pollution-report-card)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
