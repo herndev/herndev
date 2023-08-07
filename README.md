@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Glittering Garden’ event guide](https://www.polygon.com/pokemon-go-guide/2023/8/4/23820158/glittering-garden-shiny-petilil-timed-research)
- - [Roblox’s new face tracking feature is for the memes](https://www.polygon.com/23820632/roblox-new-face-tracking-memes-update-tiktok)
- - [Of course Baldur&#39;s Gate 3 lets you stack dozens of crates and stand on top of them so you can teleport over the wall of a keep](https://www.pcgamer.com/of-course-baldurs-gate-3-lets-you-stack-dozens-of-crates-and-stand-on-top-of-them-so-you-can-teleport-over-the-wall-of-a-keep)<!-- GAME:END -->
+ - [Valve cracks down on &#39;wild west&#39; of 3rd party battle passes and other real-money transactions for custom Dota 2 game modes](https://www.pcgamer.com/valve-cracks-down-on-wild-west-of-3rd-party-battle-passes-and-other-real-money-transactions-for-custom-dota-2-game-modes)
+ - [Draft up an autobattling army in the roguelike Tales &amp; Tactics this week](https://www.pcgamer.com/draft-up-an-autobattling-army-in-the-roguelike-tales-and-tactics-this-week)
+ - [Tekken 8 welcomes Azucena and Raven](https://blog.playstation.com/2023/08/06/tekken-8-welcomes-azucena-and-raven/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
