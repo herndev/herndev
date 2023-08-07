@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Red Cross lifts its blood donor restrictions for men who have sex with men](https://www.theverge.com/2023/8/7/23823047/red-cross-blood-donors-gay-bisexual-men-lgbtq-fda)
- - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
- - [We just lost 3TB of data on a SanDisk Extreme SSD](https://www.theverge.com/22291828/sandisk-extreme-pro-portable-my-passport-failure-continued)<!-- TECH:END -->
+ - [Apple Music launches a Discovery Station to help you find new songs](https://www.theverge.com/2023/8/7/23823577/apple-music-discovery-station-find-new-songs)
+ - [The European Commission opens an in-depth probe into Adobe&#39;s $20B Figma deal, after a preliminary review triggered concerns that it may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230807/p28#a230807p28)
+ - [Palantir reports Q2 revenue up 13% YoY to $533.3M, vs. $532.4M est., adjusted operating income of $135M, vs. $121.5M est., and authorizes a $1B share buyback &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230807/p27#a230807p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
