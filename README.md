@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
+ - 💣 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
  - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [How is he still alive](http://9gag.com/gag/axoA7x1)<!-- MEMES:END -->
+ - 👉 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)<!-- MEMES:END -->
 
 ---
 
