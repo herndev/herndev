@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - ⏩ [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - ⏩ [When Lady has the balls of steel](http://9gag.com/gag/awZ8X68)
+ - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
 
 ---
 
