@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption&#39;s PS4 And Switch Ports Don&#39;t Seem Worth The $50 Price Tag](https://kotaku.com/red-dead-redemption-rdr-remaster-remake-ps4-switch-port-1850713461)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Watch the Good Omens bloopers to heal your broken heart](https://www.polygon.com/entertainment/23823003/good-omens-bloopers-season-2-watch-video)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s Combat Is Tough, Here Are 12 Tips To Help You Fight](https://kotaku.com/baldurs-gate-3-combat-tips-best-spells-abilities-builds-1850714440)
+ - [Dark and Darker will release in early access today, confirms developer](https://www.pcgamer.com/dark-and-darker-early-access-release)
+ - [Bayonetta 3 Creator Says ‘JRPG’ Is A Term Worth Celebrating](https://kotaku.com/jrpg-japanese-rpg-final-fantasy-xvi-yoshi-p-bayonetta-3-1850714278)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
