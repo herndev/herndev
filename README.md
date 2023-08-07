@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - ⏩ [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
+ - 💣 [Why women live longer...](http://9gag.com/gag/adPd9XQ)
+ - ⏩ [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
  - 👉 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)<!-- MEMES:END -->
 
 ---
