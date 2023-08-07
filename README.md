@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Kill List summer, baby](https://www.polygon.com/23820549/kill-list-movie-watch)
- - [Call of Duty: Modern Warfare 3 confirmed for November launch](https://www.polygon.com/23823023/call-of-duty-modern-warfare-3-release-date-reveal-teaser)
- - [The Next Pokémon Card Set Is Packed With Essential Charizards &lpar;And More!&rpar;](https://kotaku.com/pokemon-tcg-charizard-obsidian-flames-151-cards-value-1850713089)<!-- GAME:END -->
+ - [Red Dead Redemption&#39;s PS4 And Switch Ports Don&#39;t Seem Worth The $50 Price Tag](https://kotaku.com/red-dead-redemption-rdr-remaster-remake-ps4-switch-port-1850713461)
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
+ - [Watch the Good Omens bloopers to heal your broken heart](https://www.polygon.com/entertainment/23823003/good-omens-bloopers-season-2-watch-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
