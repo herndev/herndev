@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hundreds sign up to ponder OpenAI founder&#39;s eye-scanning crypto orb despite data concerns](https://www.pcgamer.com/hundreds-sign-up-to-ponder-openai-founders-eye-scanning-crypto-orb-despite-data-concerns)
- - [You can get some free Baldur&#39;s Gate 3-themed goodies on D&amp;D Beyond right now](https://www.pcgamer.com/you-can-get-some-free-baldurs-gate-3-themed-goodies-on-dandd-beyond-right-now)
- - [How to solve the Thorm Mausoleum puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-thorm-mausoleum-puzzle-murals)<!-- GAME:END -->
+ - [Where to find the Wilderness waypoints in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-waypoints-fast-travel)
+ - [Baldur&#39;s Gate 3 FSR 2.2 upgrade likely to drop &#39;closer to September 6&#39;](https://www.pcgamer.com/baldurs-gate-3-fsr-22-upgrade-likely-to-drop-closer-to-september-6)
+ - [Hundreds sign up to ponder OpenAI founder&#39;s eye-scanning crypto orb despite data concerns](https://www.pcgamer.com/hundreds-sign-up-to-ponder-openai-founders-eye-scanning-crypto-orb-despite-data-concerns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
