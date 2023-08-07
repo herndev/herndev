@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could raise iPhone 15 Pro storage to 2TB](https://appleinsider.com/articles/23/08/07/apple-could-raise-iphone-15-pro-storage-to-2tb?utm_medium=rss)
- - [How a false facial recognition match led to a Black woman being wrongfully arrested for carjacking and robbery in Detroit, the first such known case for a woman &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230807/p10#a230807p10)
- - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)
+ - [Hyper fields HyperDrive Next collection of a dock, SSD enclosure, and hubs](https://appleinsider.com/articles/23/08/07/hyper-fields-hyperdrive-next-collection-of-a-dock-ssd-enclosure-and-hubs?utm_medium=rss)
+ - [Researchers: North Korean hackers installed backdoors at Russian rocket design bureau NPO Mashinostroyeniya for five months in 2022 to read emails and more &lpar;Reuters&rpar;](http://www.techmeme.com/230807/p12#a230807p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
