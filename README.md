@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the f**k](http://9gag.com/gag/aQEr1xr)
- - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
+ - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - ⏩ [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
+ - 👉 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)<!-- MEMES:END -->
 
 ---
 
