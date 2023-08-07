@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)<!-- MEMES:END -->
+ - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - ⏩ [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
+ - 👉 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)<!-- MEMES:END -->
 
 ---
 
