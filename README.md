@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
- - ⏩ [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 👉 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)<!-- MEMES:END -->
+ - 💣 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - ⏩ [Would](http://9gag.com/gag/aBdv09P)
+ - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
 
 ---
 
