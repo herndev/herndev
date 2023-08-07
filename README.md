@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s &quot;Silicon Saxony&quot;, set to become the home of TSMC&#39;s European fab, may be undermined by a lack of local workers and rising anti-immigrant sentiment &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230807/p7#a230807p7)
- - [&#39;Ted Lasso&#39; VFX compositing supervisor talks crowd effects at event](https://appleinsider.com/articles/23/08/07/ted-lasso-vfx-compositing-supervisor-talks-crowd-effects-at-event?utm_medium=rss)
- - [This app turns your phone’s punch-hole cutout into a shortcut key](https://www.androidauthority.com/touch-the-notch-app-cutout-shortcut-key-3352835/)<!-- TECH:END -->
+ - [Apple could raise iPhone 15 Pro storage to 2TB](https://appleinsider.com/articles/23/08/07/apple-could-raise-iphone-15-pro-storage-to-2tb?utm_medium=rss)
+ - [How a false facial recognition match led to a Black woman being wrongfully arrested for carjacking and robbery in Detroit, the first such known case for a woman &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230807/p10#a230807p10)
+ - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
