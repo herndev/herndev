@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This AI can can steal your data by listening to your keystrokes with 95% accuracy](https://www.pcgamer.com/this-ai-can-can-steal-your-data-by-listening-to-your-keystrokes-with-95-accuracy)
  - [Today&#39;s Wordle hint and answer #779: Monday, August 7](https://www.pcgamer.com/wordle-answer-today-hint-779-august-7)
- - [AM5 motherboards are about to receive support for much faster memory](https://www.pcgamer.com/am5-motherboards-are-about-to-receive-support-for-much-faster-memory)
- - [Play the demo of this cyberpunk vampire RPG](https://www.pcgamer.com/play-the-demo-of-this-cyberpunk-vampire-rpg)<!-- GAME:END -->
+ - [AM5 motherboards are about to receive support for much faster memory](https://www.pcgamer.com/am5-motherboards-are-about-to-receive-support-for-much-faster-memory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
