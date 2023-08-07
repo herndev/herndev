@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers urged to block TSMC worker visas over Arizona plant construction](https://appleinsider.com/articles/23/08/07/lawmakers-urged-to-block-tsmc-worker-visas-over-arizona-plant-construction?utm_medium=rss)
- - [Pixel 8 series storage info leaked: Still stuck at 128GB for another year](https://www.androidauthority.com/google-pixel-8-series-storage-leaked-3352921/)
- - [Daily deals: $200 off 15&quot; MacBook Air, Apple Watch from $137, Office for Mac $40, more](https://appleinsider.com/articles/23/08/07/daily-deals-200-off-15-macbook-air-apple-watch-from-137-office-for-mac-40-more?utm_medium=rss)<!-- TECH:END -->
+ - [Many of Sony’s biggest PlayStation 5 games are up to $40 off through August 19th](https://www.theverge.com/2023/8/7/23822693/playstation-games-summer-sale-macbook-air-deal-sale)
+ - [Samsung accidentally posts One UI 6 beta program news, deletes it](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-beta-3352956/)
+ - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
