@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Wilderness waypoints in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-waypoints-fast-travel)
- - [Baldur&#39;s Gate 3 FSR 2.2 upgrade likely to drop &#39;closer to September 6&#39;](https://www.pcgamer.com/baldurs-gate-3-fsr-22-upgrade-likely-to-drop-closer-to-september-6)
- - [Hundreds sign up to ponder OpenAI founder&#39;s eye-scanning crypto orb despite data concerns](https://www.pcgamer.com/hundreds-sign-up-to-ponder-openai-founders-eye-scanning-crypto-orb-despite-data-concerns)<!-- GAME:END -->
+ - [Tekken boss confirms iconic fighter King’s strange origin](https://www.polygon.com/videos/23817667/tekken-king-motion-capture-actor)
+ - [How to solve the Silent Library puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-silent-library-puzzle)
+ - [Evo 2023: The big reveals and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
