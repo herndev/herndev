@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;August 7, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-7-2023)
- - [Evo 2023: The biggest reveals and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)
- - [Mortal Kombat 1’s Reptile reveal trailer is the game’s juiciest yet](https://www.polygon.com/23820049/mortal-kombat-1-reptile-evo-2023-ashrah-havik-sareena)<!-- GAME:END -->
+ - [AM5 motherboards are about to receive support for much faster memory](https://www.pcgamer.com/am5-motherboards-are-about-to-receive-support-for-much-faster-memory)
+ - [Play the demo of this cyberpunk vampire RPG](https://www.pcgamer.com/play-the-demo-of-this-cyberpunk-vampire-rpg)
+ - [Five new Steam games you probably missed &lpar;August 7, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-7-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
