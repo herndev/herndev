@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music launches a Discovery Station to help you find new songs](https://www.theverge.com/2023/8/7/23823577/apple-music-discovery-station-find-new-songs)
- - [The European Commission opens an in-depth probe into Adobe&#39;s $20B Figma deal, after a preliminary review triggered concerns that it may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230807/p28#a230807p28)
- - [Palantir reports Q2 revenue up 13% YoY to $533.3M, vs. $532.4M est., adjusted operating income of $135M, vs. $121.5M est., and authorizes a $1B share buyback &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230807/p27#a230807p27)<!-- TECH:END -->
+ - [Apple’s M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM](https://www.theverge.com/2023/8/7/23823716/apple-macbook-pro-m3-max-2024-specs-details)
+ - [How to use Spatial Audio when sharing audio in tvOS 17](https://appleinsider.com/inside/tvos-17/tips/how-to-use-spatial-audio-when-sharing-audio-in-tvos-17?utm_medium=rss)
+ - [M3 Max chips being tested for future MacBook Pro models](https://appleinsider.com/articles/23/08/07/m3-max-chips-being-tested-for-future-macbook-pro-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
