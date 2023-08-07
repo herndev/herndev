@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 classes and subclasses guide - how to choose a class](https://www.polygon.com/baldurs-gate-3-guides/23817654/best-class-choose-classes)
- - [The new Street Fighter 6 character is really into nail art](https://www.pcgamer.com/the-new-street-fighter-6-character-is-really-into-nail-art)
- - [Blizzard bans Diablo 4 exploiters for intentionally unplugging their internet](https://www.pcgamer.com/blizzard-bans-diablo-4-exploiters-for-intentionally-unplugging-their-internet)<!-- GAME:END -->
+ - [Marvel VFX workers want to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)
+ - [How to romance companions and earn approval in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23823017/bg3-romance-companions-approval)
+ - [Larian&#39;s boss worried Baldur&#39;s Gate 3 had peaked in early access, so its massive 800K concurrent player launch was &#39;way, way beyond&#39; expectations](https://www.pcgamer.com/larians-boss-worried-baldurs-gate-3-had-peaked-in-early-access-so-its-massive-800k-concurrent-player-launch-was-way-way-beyond-expectations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
