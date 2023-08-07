@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve cracks down on &#39;wild west&#39; of 3rd party battle passes and other real-money transactions for custom Dota 2 game modes](https://www.pcgamer.com/valve-cracks-down-on-wild-west-of-3rd-party-battle-passes-and-other-real-money-transactions-for-custom-dota-2-game-modes)
- - [Draft up an autobattling army in the roguelike Tales &amp; Tactics this week](https://www.pcgamer.com/draft-up-an-autobattling-army-in-the-roguelike-tales-and-tactics-this-week)
- - [Tekken 8 welcomes Azucena and Raven](https://blog.playstation.com/2023/08/06/tekken-8-welcomes-azucena-and-raven/)<!-- GAME:END -->
+ - [Evo 2023: The biggest reveals and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)
+ - [Mortal Kombat 1’s Reptile reveal trailer is the game’s juiciest yet](https://www.polygon.com/23820049/mortal-kombat-1-reptile-evo-2023-ashrah-havik-sareena)
+ - [Valve cracks down on &#39;wild west&#39; of 3rd party battle passes and other real-money transactions for custom Dota 2 game modes](https://www.pcgamer.com/valve-cracks-down-on-wild-west-of-3rd-party-battle-passes-and-other-real-money-transactions-for-custom-dota-2-game-modes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
