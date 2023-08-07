@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI Red Team Has Already Made the Case for Itself](https://www.wired.com/story/microsoft-ai-red-team/)
- - [TikTok is launching a livestream music competition](https://www.theverge.com/2023/8/7/23822775/tiktok-music-competition-gimme-the-mic-live-stream)
- - [Back-to-school Apple deals shave up to $250 off the latest gear at Amazon](https://appleinsider.com/articles/23/08/07/back-to-school-apple-deals-shave-up-to-250-off-the-latest-gear-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)
+ - [Apple Music debuts new algorithmic Discovery Station radio](https://appleinsider.com/articles/23/08/07/apple-music-debuts-new-algorithmic-discovery-station-radio?utm_medium=rss)
+ - [Mazda adds touchscreen support to CarPlay in 2024 CX-5](https://appleinsider.com/articles/23/08/07/mazda-adds-touchscreen-support-to-carplay-in-2024-cx-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
