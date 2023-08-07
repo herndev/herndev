@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
- - [Sweeping Google deals drop the Pixel 7 price to just $449](https://www.androidauthority.com/google-pixel-7-deal-3352984/)
- - [Apple TV+ releases September schedule for MLB &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/08/07/apple-tv-releases-september-schedule-for-mlb-friday-night-baseball?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s AI Red Team Has Already Made the Case for Itself](https://www.wired.com/story/microsoft-ai-red-team/)
+ - [TikTok is launching a livestream music competition](https://www.theverge.com/2023/8/7/23822775/tiktok-music-competition-gimme-the-mic-live-stream)
+ - [Back-to-school Apple deals shave up to $250 off the latest gear at Amazon](https://appleinsider.com/articles/23/08/07/back-to-school-apple-deals-shave-up-to-250-off-the-latest-gear-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
