@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass-today/#ftag=CAD590a51e)
  - [Shoddy self-published guidebooks, which appear to be compiled with the help of generative AI and promoted via deceptive reviews, are proliferating on Amazon &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p6#a230806p6)
- - [The PlayStation 5 is on sale for $50 off this weekend](https://www.theverge.com/2023/8/6/23820082/sony-playstation-5-disc-edition-dualsense-wireless-controller-deal-sale)
- - [Mark Zuckerberg is ‘not holding my breath’ for August 26th fight date with Elon Musk](https://www.theverge.com/2023/8/6/23822230/mark-zuckerberg-elon-musk-cage-match-august-26-meta-twitter-x)<!-- TECH:END -->
+ - [The PlayStation 5 is on sale for $50 off this weekend](https://www.theverge.com/2023/8/6/23820082/sony-playstation-5-disc-edition-dualsense-wireless-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
