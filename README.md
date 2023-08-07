@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - ⏩ [When Lady has the balls of steel](http://9gag.com/gag/awZ8X68)
- - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
+ - 💣 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - ⏩ [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 
