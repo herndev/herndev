@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)
- - [Hyper fields HyperDrive Next collection of a dock, SSD enclosure, and hubs](https://appleinsider.com/articles/23/08/07/hyper-fields-hyperdrive-next-collection-of-a-dock-ssd-enclosure-and-hubs?utm_medium=rss)
- - [Researchers: North Korean hackers installed backdoors at Russian rocket design bureau NPO Mashinostroyeniya for five months in 2022 to read emails and more &lpar;Reuters&rpar;](http://www.techmeme.com/230807/p12#a230807p12)<!-- TECH:END -->
+ - [Profits are still down but Foxconn expects bump from iPhone 15](https://appleinsider.com/articles/23/08/07/profits-are-still-down-but-foxconn-expects-bump-from-iphone-15?utm_medium=rss)
+ - [A look at Senator Chuck Schumer&#39;s efforts to boost US chip manufacturing, including marshalling the CHIPS Act, leading to substantial funds flowing to New York &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230807/p15#a230807p15)
+ - [Samsung Galaxy Z Flip 5 review: useful cover screen and widgets, IPX8, and five years of patches, but so-so battery, tricky cover apps, and unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230807/p14#a230807p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
