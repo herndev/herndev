@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - ⏩ [Would](http://9gag.com/gag/aBdv09P)
- - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
+ - 💣 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - ⏩ [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - 👉 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)<!-- MEMES:END -->
 
 ---
 
