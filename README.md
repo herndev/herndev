@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - ⏩ [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 💣 [O Fortuna](http://9gag.com/gag/aNwqpLA)
+ - ⏩ [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
+ - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
 
 ---
 
