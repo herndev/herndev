@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone shipments in India fell 10% YoY in H1 2023 to 64M; in Q2 2023, Apple and OnePlus grew 61% YoY each, Xiaomi fell 39% YoY, and Realme fell 30% YoY &lpar;IDC&rpar;](http://www.techmeme.com/230804/p21#a230804p21)
- - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
- - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)<!-- TECH:END -->
+ - [Shoddy self-published guidebooks, which appear to be compiled with the help of generative AI and promoted via deceptive reviews, are proliferating on Amazon &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p6#a230806p6)
+ - [The PlayStation 5 is on sale for $50 off this weekend](https://www.theverge.com/2023/8/6/23820082/sony-playstation-5-disc-edition-dualsense-wireless-controller-deal-sale)
+ - [Mark Zuckerberg is ‘not holding my breath’ for August 26th fight date with Elon Musk](https://www.theverge.com/2023/8/6/23822230/mark-zuckerberg-elon-musk-cage-match-august-26-meta-twitter-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
