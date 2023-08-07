@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
- - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)<!-- MEMES:END -->
+ - 💣 [When everyone&#39;s screaming for their lives but this is where the fun begins for you.](http://9gag.com/gag/axoA95W)
+ - ⏩ [The dad be like: If you can\u2019t beat \u2018em, join \u2018em](http://9gag.com/gag/aeQdDRb)
+ - 👉 [Title](http://9gag.com/gag/aBdv2BD)<!-- MEMES:END -->
 
 ---
 
