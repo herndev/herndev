@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - ⏩ [In life you can only count on your mom and spiderman](http://9gag.com/gag/aeQd6ZB)
- - 👉 [Uff...](http://9gag.com/gag/a04xYGL)<!-- MEMES:END -->
+ - 💣 [A phenomenon known as ball lightning](http://9gag.com/gag/aVbdMwv)
+ - ⏩ [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 
