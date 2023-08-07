@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
+ - 💣 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 
