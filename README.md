@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I broke Baldur&#39;s Gate 3 by playing as a party of bears](https://www.pcgamer.com/i-broke-baldurs-gate-3-by-playing-as-a-party-of-bears)
  - [Marvel VFX workers want to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)
- - [How to romance companions and earn approval in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23823017/bg3-romance-companions-approval)
- - [Larian&#39;s boss worried Baldur&#39;s Gate 3 had peaked in early access, so its massive 800K concurrent player launch was &#39;way, way beyond&#39; expectations](https://www.pcgamer.com/larians-boss-worried-baldurs-gate-3-had-peaked-in-early-access-so-its-massive-800k-concurrent-player-launch-was-way-way-beyond-expectations)<!-- GAME:END -->
+ - [How to romance companions and earn approval in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23823017/bg3-romance-companions-approval)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
