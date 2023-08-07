@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profits are still down but Foxconn expects bump from iPhone 15](https://appleinsider.com/articles/23/08/07/profits-are-still-down-but-foxconn-expects-bump-from-iphone-15?utm_medium=rss)
- - [A look at Senator Chuck Schumer&#39;s efforts to boost US chip manufacturing, including marshalling the CHIPS Act, leading to substantial funds flowing to New York &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230807/p15#a230807p15)
- - [Samsung Galaxy Z Flip 5 review: useful cover screen and widgets, IPX8, and five years of patches, but so-so battery, tricky cover apps, and unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230807/p14#a230807p14)<!-- TECH:END -->
+ - [Lawmakers urged to block TSMC worker visas over Arizona plant construction](https://appleinsider.com/articles/23/08/07/lawmakers-urged-to-block-tsmc-worker-visas-over-arizona-plant-construction?utm_medium=rss)
+ - [Pixel 8 series storage info leaked: Still stuck at 128GB for another year](https://www.androidauthority.com/google-pixel-8-series-storage-leaked-3352921/)
+ - [Daily deals: $200 off 15&quot; MacBook Air, Apple Watch from $137, Office for Mac $40, more](https://appleinsider.com/articles/23/08/07/daily-deals-200-off-15-macbook-air-apple-watch-from-137-office-for-mac-40-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
