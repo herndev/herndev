@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - ⏩ [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)
- - 👉 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)<!-- MEMES:END -->
+ - 💣 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - ⏩ [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 👉 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)<!-- MEMES:END -->
 
 ---
 
