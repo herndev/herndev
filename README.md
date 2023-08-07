@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Blood of Lathander mace in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-blood-of-lathander-puzzle)
- - [Rockstar snubs PC with baffling Red Dead Redemption 1 port that&#39;s only coming to Switch and PS4](https://www.pcgamer.com/rockstar-snubs-pc-with-baffling-red-dead-redemption-1-port-thats-only-coming-to-switch-and-ps4)
- - [How to save Gandrel in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-save-gandrel)<!-- GAME:END -->
+ - [It’s Kill List summer, baby](https://www.polygon.com/23820549/kill-list-movie-watch)
+ - [Call of Duty: Modern Warfare 3 confirmed for November launch](https://www.polygon.com/23823023/call-of-duty-modern-warfare-3-release-date-reveal-teaser)
+ - [The Next Pokémon Card Set Is Packed With Essential Charizards &lpar;And More!&rpar;](https://kotaku.com/pokemon-tcg-charizard-obsidian-flames-151-cards-value-1850713089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
