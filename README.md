@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many of Sony’s biggest PlayStation 5 games are up to $40 off through August 19th](https://www.theverge.com/2023/8/7/23822693/playstation-games-summer-sale-macbook-air-deal-sale)
- - [Samsung accidentally posts One UI 6 beta program news, deletes it](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-beta-3352956/)
- - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
+ - [Sweeping Google deals drop the Pixel 7 price to just $449](https://www.androidauthority.com/google-pixel-7-deal-3352984/)
+ - [Apple TV+ releases September schedule for MLB &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/08/07/apple-tv-releases-september-schedule-for-mlb-friday-night-baseball?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
