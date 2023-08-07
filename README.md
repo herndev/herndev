@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nailed it!](http://9gag.com/gag/aKELjyb)
- - ⏩ [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 👉 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)<!-- MEMES:END -->
+ - 💣 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
+ - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)<!-- MEMES:END -->
 
 ---
 
