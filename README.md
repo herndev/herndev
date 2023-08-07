@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s Combat Is Tough, Here Are 12 Tips To Help You Fight](https://kotaku.com/baldurs-gate-3-combat-tips-best-spells-abilities-builds-1850714440)
- - [Dark and Darker will release in early access today, confirms developer](https://www.pcgamer.com/dark-and-darker-early-access-release)
- - [Bayonetta 3 Creator Says ‘JRPG’ Is A Term Worth Celebrating](https://kotaku.com/jrpg-japanese-rpg-final-fantasy-xvi-yoshi-p-bayonetta-3-1850714278)<!-- GAME:END -->
+ - [Nobody did car chases like the late William Friedkin](https://www.polygon.com/23823309/william-friedkin-death-french-connection)
+ - [Modern Warfare 3 coming just a year after Modern Warfare 2 has me worried it&#39;s gonna be an awkward year for Call of Duty](https://www.pcgamer.com/modern-warfare-3-coming-just-a-year-after-modern-warfare-2-has-me-worried-its-gonna-be-an-awkward-year-for-call-of-duty)
+ - [Baldur&#39;s Gate 3&#39;s Combat Is Tough, Here Are 12 Tips To Help You Fight](https://kotaku.com/baldurs-gate-3-combat-tips-best-spells-abilities-builds-1850714440)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
