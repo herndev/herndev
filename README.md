@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When everyone&#39;s screaming for their lives but this is where the fun begins for you.](http://9gag.com/gag/axoA95W)
- - ⏩ [The dad be like: If you can\u2019t beat \u2018em, join \u2018em](http://9gag.com/gag/aeQdDRb)
- - 👉 [Title](http://9gag.com/gag/aBdv2BD)<!-- MEMES:END -->
+ - 💣 [How is he still alive](http://9gag.com/gag/axoA7x1)
+ - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
 
 ---
 
