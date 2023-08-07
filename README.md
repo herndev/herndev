@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody did car chases like the late William Friedkin](https://www.polygon.com/23823309/william-friedkin-death-french-connection)
- - [Modern Warfare 3 coming just a year after Modern Warfare 2 has me worried it&#39;s gonna be an awkward year for Call of Duty](https://www.pcgamer.com/modern-warfare-3-coming-just-a-year-after-modern-warfare-2-has-me-worried-its-gonna-be-an-awkward-year-for-call-of-duty)
- - [Baldur&#39;s Gate 3&#39;s Combat Is Tough, Here Are 12 Tips To Help You Fight](https://kotaku.com/baldurs-gate-3-combat-tips-best-spells-abilities-builds-1850714440)<!-- GAME:END -->
+ - [Baldur’s Gate 3 classes and subclasses guide - how to choose a class](https://www.polygon.com/baldurs-gate-3-guides/23817654/best-class-choose-classes)
+ - [The new Street Fighter 6 character is really into nail art](https://www.pcgamer.com/the-new-street-fighter-6-character-is-really-into-nail-art)
+ - [Blizzard bans Diablo 4 exploiters for intentionally unplugging their internet](https://www.pcgamer.com/blizzard-bans-diablo-4-exploiters-for-intentionally-unplugging-their-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
