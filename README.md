@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even 7 seasons in, Outlander’s core love story is still setting the bar for romance](https://www.polygon.com/23819477/outlander-season-7-romance-tv)
- - [Don’t Rely On Quick Saves In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-quick-save-delete-wipe-f5-load-game-1850712679)
- - [Red Dead Redemption Comes To Switch And PS4, Remaster Is MIA](https://kotaku.com/red-dead-redemption-remaster-switch-remake-gta-6-ps5-1850712562)<!-- GAME:END -->
+ - [How to get the Blood of Lathander mace in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-blood-of-lathander-puzzle)
+ - [Rockstar snubs PC with baffling Red Dead Redemption 1 port that&#39;s only coming to Switch and PS4](https://www.pcgamer.com/rockstar-snubs-pc-with-baffling-red-dead-redemption-1-port-thats-only-coming-to-switch-and-ps4)
+ - [How to save Gandrel in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-save-gandrel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
