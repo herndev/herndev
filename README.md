@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why women live longer...](http://9gag.com/gag/adPd9XQ)
- - ⏩ [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 👉 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)<!-- MEMES:END -->
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
 
 ---
 
