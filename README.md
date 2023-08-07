@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - ⏩ [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
- - 👉 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)<!-- MEMES:END -->
+ - 💣 [Nailed it!](http://9gag.com/gag/aKELjyb)
+ - ⏩ [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - 👉 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)<!-- MEMES:END -->
 
 ---
 
