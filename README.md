@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASUS is apparently killing the ability to root present and future Zenfones](https://www.androidauthority.com/asus-unlock-bootloader-tool-removed-3352783/)
  - [China&#39;s Hua Hong Semiconductor raises $2.96B in its Shanghai listing, the largest in the Asia Pacific region this year; the firm is already listed in Hong Kong &lpar;Filipe Pacheco/Bloomberg&rpar;](http://www.techmeme.com/230806/p7#a230806p7)
- - [Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass-today/#ftag=CAD590a51e)
- - [Shoddy self-published guidebooks, which appear to be compiled with the help of generative AI and promoted via deceptive reviews, are proliferating on Amazon &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p6#a230806p6)<!-- TECH:END -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
