@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken boss confirms iconic fighter King’s strange origin](https://www.polygon.com/videos/23817667/tekken-king-motion-capture-actor)
- - [How to solve the Silent Library puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-silent-library-puzzle)
- - [Evo 2023: The big reveals and announcements](https://www.polygon.com/23817761/evo-2023-announcements-mortal-kombat-street-fighter-tekken)<!-- GAME:END -->
+ - [Even 7 seasons in, Outlander’s core love story is still setting the bar for romance](https://www.polygon.com/23819477/outlander-season-7-romance-tv)
+ - [Don’t Rely On Quick Saves In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-quick-save-delete-wipe-f5-load-game-1850712679)
+ - [Red Dead Redemption Comes To Switch And PS4, Remaster Is MIA](https://kotaku.com/red-dead-redemption-remaster-switch-remake-gta-6-ps5-1850712562)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
