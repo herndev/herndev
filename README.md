@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Tekken 8 character confirmed so far](https://www.pcgamer.com/tekken-8-character-list)
- - [Tekken 8&#39;s EVO trailers confirm entire roster leak is actually real](https://www.pcgamer.com/tekken-8s-evo-trailers-confirm-entire-roster-leak-is-actually-real)
- - [Baldur’s Gate 3 is already one of Steam’s biggest games ever](https://www.polygon.com/23822603/baldurs-gate-3-steam-charts)<!-- GAME:END -->
+ - [Hundreds sign up to ponder OpenAI founder&#39;s eye-scanning crypto orb despite data concerns](https://www.pcgamer.com/hundreds-sign-up-to-ponder-openai-founders-eye-scanning-crypto-orb-despite-data-concerns)
+ - [You can get some free Baldur&#39;s Gate 3-themed goodies on D&amp;D Beyond right now](https://www.pcgamer.com/you-can-get-some-free-baldurs-gate-3-themed-goodies-on-dandd-beyond-right-now)
+ - [How to solve the Thorm Mausoleum puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-thorm-mausoleum-puzzle-murals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
