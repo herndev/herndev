@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia&#39;s PIF reports a $15.6B loss in 2022 after its Vision Fund and tech investments cratered; assets under management reached $595.5B due to Aramco &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/230807/p4#a230807p4)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Researchers show how ChatGPT 3.5 performs better than ChatGPT 4.0 in several tasks, often math related, highlighting the issue of &quot;drift&quot; in improving AI models &lpar;Josh Zumbrun/Wall Street Journal&rpar;](http://www.techmeme.com/230807/p3#a230807p3)<!-- TECH:END -->
+ - [Germany&#39;s &quot;Silicon Saxony&quot;, set to become the home of TSMC&#39;s European fab, may be undermined by a lack of local workers and rising anti-immigrant sentiment &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230807/p7#a230807p7)
+ - [&#39;Ted Lasso&#39; VFX compositing supervisor talks crowd effects at event](https://appleinsider.com/articles/23/08/07/ted-lasso-vfx-compositing-supervisor-talks-crowd-effects-at-event?utm_medium=rss)
+ - [This app turns your phone’s punch-hole cutout into a shortcut key](https://www.androidauthority.com/touch-the-notch-app-cutout-shortcut-key-3352835/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
