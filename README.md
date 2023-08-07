@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay launches in Vietnam](https://appleinsider.com/articles/23/08/07/apple-pay-launches-in-vietnam?utm_medium=rss)
- - [August 2023 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/august-2023-android-security-patch-3353092/)
- - [Ikea actually got a decent grade for its sustainable shipping goals](https://www.theverge.com/2023/8/7/23823226/ikea-shipping-pollution-report-card)<!-- TECH:END -->
+ - [The Red Cross lifts its blood donor restrictions for men who have sex with men](https://www.theverge.com/2023/8/7/23823047/red-cross-blood-donors-gay-bisexual-men-lgbtq-fda)
+ - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
+ - [We just lost 3TB of data on a SanDisk Extreme SSD](https://www.theverge.com/22291828/sandisk-extreme-pro-portable-my-passport-failure-continued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
