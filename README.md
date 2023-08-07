@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - ⏩ [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
+ - 💣 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
+ - ⏩ [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 👉 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)<!-- MEMES:END -->
 
 ---
 
