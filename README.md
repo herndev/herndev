@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
- - ⏩ [Boys being boys](http://9gag.com/gag/a9qV16j)
+ - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - ⏩ [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
  - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
