@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
+ - 💣 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - ⏩ [Fastest writer in the world](http://9gag.com/gag/aMEWxBX)
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 
