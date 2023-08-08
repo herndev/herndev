@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - ⏩ [Fastest writer in the world](http://9gag.com/gag/aMEWxBX)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - ⏩ [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
 
 ---
 
