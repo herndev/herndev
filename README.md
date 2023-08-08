@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How would you manage the situation?](http://9gag.com/gag/aREyXVM)
- - ⏩ [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 👉 [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)<!-- MEMES:END -->
+ - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - ⏩ [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 👉 [Predicted this would happen sooner or later](http://9gag.com/gag/anzdg90)<!-- MEMES:END -->
 
 ---
 
