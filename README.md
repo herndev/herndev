@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)
- - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)
- - [Baldur’s Gate 3 patch fixes indecent exposure bug](https://www.theverge.com/2023/8/8/23824769/baldurs-gate-3-hotfix-penis-clip-bug)<!-- TECH:END -->
+ - [Netflix launches a game controller app on the App Store to let users play Netflix games on their TV; the app description says the feature is &quot;coming soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230808/p39#a230808p39)
+ - [Banks fined $549 million for hiding messages in iMessage and Signal](https://www.theverge.com/2023/8/8/23824521/wells-fargo-bnp-imessage-signal-whatsapp-messages-sec-fine)
+ - [YouTube will stop showing users recommended videos in some places, including the homepage, when watch history is turned off entirely &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230808/p38#a230808p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
