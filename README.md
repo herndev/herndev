@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption fans turn their ire against Rockstar after bewildering PS4 port choice: &#39;Rockstar is Dutch and we&#39;ve all become Arthur&#39;](https://www.pcgamer.com/red-dead-redemption-fans-turn-their-ire-against-rockstar-after-bewildering-ps4-port-choice-rockstar-is-dutch-and-weve-all-become-arthur)
- - [Valve lets slip plan to sell refurbished Steam Decks](https://www.pcgamer.com/valve-lets-slip-plan-to-sell-refurbished-steam-decks)
- - [With 11 races, 12 classes, 46 subclasses, and 100+ hours of content ahead of me, I can&#39;t stop second guessing my character choices in Baldur&#39;s Gate 3](https://www.pcgamer.com/with-11-races-12-classes-46-subclasses-and-100-hours-of-content-ahead-of-me-i-cant-stop-second-guessing-my-character-choices-in-baldurs-gate-3)<!-- GAME:END -->
+ - [The Gran Turismo movie veers into full-on gamer cringe](https://www.polygon.com/reviews/23823600/gran-turismo-movie-review)
+ - [How to get yourself a hot tiefling girlfriend in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-karlach-romance-guide)
+ - [How to get the owlbear cub in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-owlbear-cub-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
