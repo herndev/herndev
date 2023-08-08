@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 zips up pesky penis problem in second hotfix](https://www.polygon.com/23824816/baldurs-gate-3-hotfix-patch-2-genital-clipping-gnome-sorcerors)
- - [Fallout Deathclaw Creator &#39;Impressed,&#39; &#39;Horrified&#39; By All The Porn](https://kotaku.com/fallout-3-4-deathclaw-porn-nsfw-artist-creator-reacts-1850718181)
- - [45 Hours With Baldur’s Gate 3: The Best Non-Spoiler Moments &lpar;So Far&rpar;](https://kotaku.com/baldurs-gate-3-romance-sex-scene-guardian-polyamory-1850718324)<!-- GAME:END -->
+ - [Everything We Know About Grand Theft Auto 6](https://kotaku.com/gta-6-grand-theft-auto-rumor-leak-release-date-rockstar-1850718620)
+ - [&#39;Dad, people are sending me pictures of bears&#39;: Baldur&#39;s Gate 3 boss Swen Vincke &#39;wasn&#39;t ready&#39; for the bear sex scene to go so viral](https://www.pcgamer.com/dad-people-are-sending-me-pictures-of-bears-baldurs-gate-3-boss-swen-vincke-wasnt-ready-for-the-bear-sex-scene-to-go-so-viral)
+ - [Overwatch 2&#39;s new healer has a giant railgun powered by the sun](https://www.pcgamer.com/overwatch-2s-new-healer-has-a-giant-railgun-powered-by-the-sun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
