@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC agrees to build a &amp;euro;10B plant in Germany&#39;s Dresden, owning 70% of the facility with Infineon, NXP, and Bosch each holding 10% stake, set to open in 2027 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230808/p12#a230808p12)
- - [Source: Apple, Samsung, Nvidia, and Intel plan to invest in Arm&#39;s US IPO as soon as shares are listed in September; SoftBank owns 75% of Arm and Vision Fund 25% &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230808/p11#a230808p11)
- - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
+ - [ChargePoint is spending millions to boost station reliability to ‘nearly 100 percent’](https://www.theverge.com/2023/8/8/23824069/chargepoint-electric-car-charger-reliability-network-operations-center)
+ - [Q&amp;A with Grimes on her &quot;c&quot; persona, letting people use her voice in their music, AI, social media, Elon Musk, NFTs, a stronger sense of ethics in tech, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230808/p14#a230808p14)
+ - [After the countless times Elon Musk has walked back announcements, the business media must rethink its coverage of X, Musk, and the fight with Mark Zuckerberg &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230808/p13#a230808p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
