@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gizmodo author sues Apple over &#39;Tetris&#39; movie](https://appleinsider.com/articles/23/08/08/gizmodo-author-sues-apple-over-tetris-movie?utm_medium=rss)
- - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)
- - [Today&#39;s Hacker interest in macOS ten times that of 2019](https://appleinsider.com/articles/23/08/08/todays-hacker-interest-in-macos-ten-times-that-of-2019?utm_medium=rss)<!-- TECH:END -->
+ - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)
+ - [Roper Technologies, which makes engineering products for niche markets, acquires Syntellis, an enterprise performance management software company, for $1.25B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p34#a230808p34)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
