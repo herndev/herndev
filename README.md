@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - ⏩ [My man](http://9gag.com/gag/aKELmzO)
- - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
+ - ⏩ [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - 👉 [The Disney Effect](http://9gag.com/gag/a7qGWNq)<!-- MEMES:END -->
 
 ---
 
