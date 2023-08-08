@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - ⏩ [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)
- - 👉 [The Disney Effect](http://9gag.com/gag/a7qGWNq)<!-- MEMES:END -->
+ - 💣 [We have to go back!](http://9gag.com/gag/a6qxNem)
+ - ⏩ [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
 
 ---
 
