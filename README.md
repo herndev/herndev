@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Before the delivery boy steals his cut](http://9gag.com/gag/aGEoEZ0)
- - ⏩ [We have to go back!](http://9gag.com/gag/a6qxNem)
- - 👉 [That would be a sh*tty way to go](http://9gag.com/gag/az2B20Z)<!-- MEMES:END -->
+ - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
 
 ---
 
