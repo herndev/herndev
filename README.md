@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For this startup, Nvidia GPUs are currency](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)
- - [The Mystery Genes That Are Keeping You Alive](https://www.wired.com/story/unknome-proteins-human-genome/)
- - [Google debuts Project IDX, an AI-enabled browser-based dev environment that uses Visual Studio Code Open Source and integrates with Google&#39;s PaLM 2-based Codey &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230808/p30#a230808p30)<!-- TECH:END -->
+ - [Gizmodo author sues Apple over &#39;Tetris&#39; movie](https://appleinsider.com/articles/23/08/08/gizmodo-author-sues-apple-over-tetris-movie?utm_medium=rss)
+ - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)
+ - [Today&#39;s Hacker interest in macOS ten times that of 2019](https://appleinsider.com/articles/23/08/08/todays-hacker-interest-in-macos-ten-times-that-of-2019?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
