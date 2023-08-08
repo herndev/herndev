@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Colorful is set to launch the cutest little RTX 4060 Ti 16GB](https://www.pcgamer.com/colorful-is-set-to-launch-the-cutest-little-rtx-4060-ti-16gb)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/07/this-weeks-deals-with-gold-and-spotlight-sale-283/)
- - [Today&#39;s Wordle hint and answer #780: Tuesday, August 8](https://www.pcgamer.com/wordle-answer-today-hint-780-august-8)<!-- GAME:END -->
+ - [Red Dead Redemption fans turn their ire against Rockstar after bewildering PS4 port choice: &#39;Rockstar is Dutch and we&#39;ve all become Arthur&#39;](https://www.pcgamer.com/red-dead-redemption-fans-turn-their-ire-against-rockstar-after-bewildering-ps4-port-choice-rockstar-is-dutch-and-weve-all-become-arthur)
+ - [Valve lets slip plan to sell refurbished Steam Decks](https://www.pcgamer.com/valve-lets-slip-plan-to-sell-refurbished-steam-decks)
+ - [With 11 races, 12 classes, 46 subclasses, and 100+ hours of content ahead of me, I can&#39;t stop second guessing my character choices in Baldur&#39;s Gate 3](https://www.pcgamer.com/with-11-races-12-classes-46-subclasses-and-100-hours-of-content-ahead-of-me-i-cant-stop-second-guessing-my-character-choices-in-baldurs-gate-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
