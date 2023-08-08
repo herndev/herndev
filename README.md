@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - ⏩ [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - ⏩ [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)
  - 👉 [The Disney Effect](http://9gag.com/gag/a7qGWNq)<!-- MEMES:END -->
 
 ---
