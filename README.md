@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to use AR to guide you to your ride-sharing Apple Car](https://appleinsider.com/articles/23/08/08/apple-wants-to-use-ar-to-guide-you-to-your-ride-sharing-apple-car?utm_medium=rss)
- - [Pokémon Scarlet and Violet’s DLC has a release date and a bunch of new monsters](https://www.theverge.com/2023/8/8/23824253/pokemon-scarlet-violet-the-teal-mask-release-date-dipplin-archaludon)
- - [Apple’s first trailer for The Changeling teases a haunting tale about parenthood](https://www.theverge.com/23824304/the-changeling-apple-tv-plus-trailer)<!-- TECH:END -->
+ - [Data management company Rubrik acquires Laminar, which helps companies manage public cloud data security, sources say for around $200M to $250M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230808/p24#a230808p24)
+ - [Pre-order numbers prove Samsung has a long way to go with its foldable dreams](https://www.androidauthority.com/samsung-galaxy-z-flip-5-pre-order-numbers-3353304/)
+ - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
