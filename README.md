@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Wiz co-founder and CEO Assaf Rappaport, who sold Adallom to Microsoft for $320M in 2015 before building the $10B Israeli cloud security startup &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230808/p21#a230808p21)
- - [Simon Data, which uses ML to help leverage customer data for marketing, raised a $54M Series D led by Macquarie Capital, taking its total funding to $113M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230808/p20#a230808p20)
- - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Apple wants to use AR to guide you to your ride-sharing Apple Car](https://appleinsider.com/articles/23/08/08/apple-wants-to-use-ar-to-guide-you-to-your-ride-sharing-apple-car?utm_medium=rss)
+ - [Pokémon Scarlet and Violet’s DLC has a release date and a bunch of new monsters](https://www.theverge.com/2023/8/8/23824253/pokemon-scarlet-violet-the-teal-mask-release-date-dipplin-archaludon)
+ - [Apple’s first trailer for The Changeling teases a haunting tale about parenthood](https://www.theverge.com/23824304/the-changeling-apple-tv-plus-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
