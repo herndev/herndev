@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Grand Theft Auto 6](https://kotaku.com/gta-6-grand-theft-auto-rumor-leak-release-date-rockstar-1850718620)
- - [&#39;Dad, people are sending me pictures of bears&#39;: Baldur&#39;s Gate 3 boss Swen Vincke &#39;wasn&#39;t ready&#39; for the bear sex scene to go so viral](https://www.pcgamer.com/dad-people-are-sending-me-pictures-of-bears-baldurs-gate-3-boss-swen-vincke-wasnt-ready-for-the-bear-sex-scene-to-go-so-viral)
- - [Overwatch 2&#39;s new healer has a giant railgun powered by the sun](https://www.pcgamer.com/overwatch-2s-new-healer-has-a-giant-railgun-powered-by-the-sun)<!-- GAME:END -->
+ - [Gran Turismo Movie Review Roundup: The Critics Are Split](https://kotaku.com/gran-turismo-movie-review-roundup-sony-playstation-1850718992)
+ - [Refurbished Steam Decks are now available for 20% less than new](https://www.polygon.com/deals/23824522/gamestop-steam-deck-refurbished-valve-price)
+ - [Valve releases Dota 2 patch notes written entirely in emojis](https://www.pcgamer.com/valve-releases-dota-2-patch-notes-written-entirely-in-emojis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
