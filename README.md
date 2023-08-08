@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChargePoint is spending millions to boost station reliability to ‘nearly 100 percent’](https://www.theverge.com/2023/8/8/23824069/chargepoint-electric-car-charger-reliability-network-operations-center)
- - [Q&amp;A with Grimes on her &quot;c&quot; persona, letting people use her voice in their music, AI, social media, Elon Musk, NFTs, a stronger sense of ethics in tech, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230808/p14#a230808p14)
- - [After the countless times Elon Musk has walked back announcements, the business media must rethink its coverage of X, Musk, and the fight with Mark Zuckerberg &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230808/p13#a230808p13)<!-- TECH:END -->
+ - [Dough is standing up a 32-inch 240Hz 4K OLED monitor for 2024](https://www.theverge.com/2023/8/8/23823844/dough-32-inch-4k-oled-monitor-spectrum-black)
+ - [GM says all of its EVs will be able to power your home by 2026](https://www.theverge.com/2023/8/8/23823166/gm-ev-bidirectional-charging-vehicle-to-home)
+ - [How to set up a Matter-over-Thread device in your smart home](https://www.theverge.com/23823041/matter-thread-device-setup-smart-home-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
