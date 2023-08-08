@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify&#39;s AI DJ expands to 50 countries around the world](https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world?utm_medium=rss)
- - [Apple Pay officially launches in Chile](https://appleinsider.com/articles/23/08/08/apple-pay-officially-launches-in-chile?utm_medium=rss)
- - [Valve is seemingly gearing up to sell refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824529/valve-steam-deck-refurbished-listings)<!-- TECH:END -->
+ - [For this startup, Nvidia GPUs are currency](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)
+ - [The Mystery Genes That Are Keeping You Alive](https://www.wired.com/story/unknome-proteins-human-genome/)
+ - [Google debuts Project IDX, an AI-enabled browser-based dev environment that uses Visual Studio Code Open Source and integrates with Google&#39;s PaLM 2-based Codey &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230808/p30#a230808p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
