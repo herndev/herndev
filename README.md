@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix launches a game controller app on the App Store to let users play Netflix games on their TV; the app description says the feature is &quot;coming soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230808/p39#a230808p39)
- - [Banks fined $549 million for hiding messages in iMessage and Signal](https://www.theverge.com/2023/8/8/23824521/wells-fargo-bnp-imessage-signal-whatsapp-messages-sec-fine)
- - [YouTube will stop showing users recommended videos in some places, including the homepage, when watch history is turned off entirely &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230808/p38#a230808p38)<!-- TECH:END -->
+ - [Encrypted iMessage chats lead to record-breaking SEC fines for Wells Fargo, Wall Street](https://appleinsider.com/articles/23/08/08/encrypted-imessage-chats-lead-to-record-breaking-sec-fines-for-wells-fargo-wall-street?utm_medium=rss)
+ - [Verizon will shut down BlueJeans, a business-focused video conferencing app it acquired in 2020, on August 31, 2023, due to &quot;the changing market landscape&quot; &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230808/p42#a230808p42)
+ - [The US Federal Reserve launches a program for overseeing banks&#39; crypto activity and clarifies its pre-approval process for engaging with stablecoins &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230808/p41#a230808p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
