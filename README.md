@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Gran Turismo movie veers into full-on gamer cringe](https://www.polygon.com/reviews/23823600/gran-turismo-movie-review)
- - [How to get yourself a hot tiefling girlfriend in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-karlach-romance-guide)
- - [How to get the owlbear cub in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-owlbear-cub-location)<!-- GAME:END -->
+ - [Gran Turismo creator Kazunori Yamauchi has a surprising cameo in the movie](https://www.polygon.com/23823391/gran-turismo-movie-kazunori-yamauchi-cameo)
+ - [Pokémon Scarlet And Violet Is Giving Away A Mew](https://kotaku.com/pokemon-scarlet-violet-mew-code-event-mewtwo-how-to-get-1850716762)
+ - [Where to find Dammon in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-find-dammon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
