@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - ⏩ [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
- - 👉 [Predicted this would happen sooner or later](http://9gag.com/gag/anzdg90)<!-- MEMES:END -->
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - ⏩ [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
+ - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
 
 ---
 
