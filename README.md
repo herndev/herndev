@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dough is standing up a 32-inch 240Hz 4K OLED monitor for 2024](https://www.theverge.com/2023/8/8/23823844/dough-32-inch-4k-oled-monitor-spectrum-black)
- - [GM says all of its EVs will be able to power your home by 2026](https://www.theverge.com/2023/8/8/23823166/gm-ev-bidirectional-charging-vehicle-to-home)
- - [How to set up a Matter-over-Thread device in your smart home](https://www.theverge.com/23823041/matter-thread-device-setup-smart-home-how-to)<!-- TECH:END -->
+ - [A profile of Wiz co-founder and CEO Assaf Rappaport, who sold Adallom to Microsoft for $320M in 2015 before building the $10B Israeli cloud security startup &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230808/p21#a230808p21)
+ - [Simon Data, which uses ML to help leverage customer data for marketing, raised a $54M Series D led by Macquarie Capital, taking its total funding to $113M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230808/p20#a230808p20)
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
