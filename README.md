@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Take-Two CEO: $50 For Red Dead Redemption On Switch, PS4 Is ‘Great Value’](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-50-value-ceo-1850719244)
  - [There are no Baldur&#39;s Gate 3 console commands &lpar;yet&rpar; but here are mods that can help you cheat a little](https://www.pcgamer.com/baldurs-gate-3-cheats-console-commands)
- - [Baldur&#39;s Gate 3 May Not Get DLC Due To D&amp;D&#39;s OP Leveling](https://kotaku.com/baldur-s-gate-3-dnd-dlc-expansion-plans-high-level-1850719039)
- - [Gran Turismo Movie Review Roundup: The Critics Are Split](https://kotaku.com/gran-turismo-movie-review-roundup-sony-playstation-1850718992)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 May Not Get DLC Due To D&amp;D&#39;s OP Leveling](https://kotaku.com/baldur-s-gate-3-dnd-dlc-expansion-plans-high-level-1850719039)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
