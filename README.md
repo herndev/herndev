@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet Mew Mystery Gift code](https://www.polygon.com/pokemon-scarlet-violet-guide/2023/8/8/23824343/mew-mystery-gift-code-event)
- - [The price of graphics cards really hammers home my biggest issue with transhumanism](https://www.pcgamer.com/the-price-of-graphics-cards-really-hammers-home-my-biggest-issue-with-transhumanism)
- - [WrestleQuest launch delayed two weeks at the last minute](https://www.polygon.com/23824239/wrestlequest-delayed-release-date-game-save-glitch)<!-- GAME:END -->
+ - [All The Announcements Packed In Pokémon&#39;s Big Event](https://kotaku.com/pokemon-presents-scarlet-violet-dlc-anime-go-horizons-1850717032)
+ - [Baldur’s Gate 3 pro tip: Play with a gamepad at least once](https://www.polygon.com/23824297/play-baldurs-gate-3-with-a-gamepad)
+ - [I am desperate for a makeover in Baldur&#39;s Gate 3](https://www.pcgamer.com/i-am-desperate-for-a-makeover-in-baldurs-gate-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
