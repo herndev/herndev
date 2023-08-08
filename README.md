@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - ⏩ [Anyone know a good animal exorcist](http://9gag.com/gag/aNwqprr)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 💣 [How would you manage the situation?](http://9gag.com/gag/aREyXVM)
+ - ⏩ [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 👉 [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)<!-- MEMES:END -->
 
 ---
 
