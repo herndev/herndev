@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NASA discovers giant question mark where universe failed to render correctly](https://www.pcgamer.com/nasa-discovers-giant-question-mark-where-universe-failed-to-render-correctly)
- - [I was kinda hoping it&#39;d take Baldur&#39;s Gate 3 longer to ruin my life](https://www.pcgamer.com/i-was-kinda-hoping-itd-take-baldurs-gate-3-longer-to-ruin-my-life)
- - [Dead By Daylight Is Getting The Ultimate Sci-Fi Horror Collab](https://kotaku.com/dead-by-daylight-alien-update-dbd-xenomorph-ripley-1850717918)<!-- GAME:END -->
+ - [Baldur’s Gate 3 zips up pesky penis problem in second hotfix](https://www.polygon.com/23824816/baldurs-gate-3-hotfix-patch-2-genital-clipping-gnome-sorcerors)
+ - [Fallout Deathclaw Creator &#39;Impressed,&#39; &#39;Horrified&#39; By All The Porn](https://kotaku.com/fallout-3-4-deathclaw-porn-nsfw-artist-creator-reacts-1850718181)
+ - [45 Hours With Baldur’s Gate 3: The Best Non-Spoiler Moments &lpar;So Far&rpar;](https://kotaku.com/baldurs-gate-3-romance-sex-scene-guardian-polyamory-1850718324)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
