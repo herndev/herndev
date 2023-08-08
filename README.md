@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Colorful is set to launch the cutest little RTX 4060 Ti 16GB](https://www.pcgamer.com/colorful-is-set-to-launch-the-cutest-little-rtx-4060-ti-16gb)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/07/this-weeks-deals-with-gold-and-spotlight-sale-283/)
- - [Today&#39;s Wordle hint and answer #780: Tuesday, August 8](https://www.pcgamer.com/wordle-answer-today-hint-780-august-8)
- - [Baldur&#39;s Gate 3&#39;s first big penis mod makes you the &#39;pride of the orcs&#39;](https://www.pcgamer.com/baldurs-gate-3s-first-big-penis-mod-makes-you-the-pride-of-the-orcs)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #780: Tuesday, August 8](https://www.pcgamer.com/wordle-answer-today-hint-780-august-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
