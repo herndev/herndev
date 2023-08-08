@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - ⏩ [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
+ - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - ⏩ [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
 
 ---
 
