@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)
- - [Roper Technologies, which makes engineering products for niche markets, acquires Syntellis, an enterprise performance management software company, for $1.25B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p34#a230808p34)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)
+ - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)
+ - [Baldur’s Gate 3 patch fixes indecent exposure bug](https://www.theverge.com/2023/8/8/23824769/baldurs-gate-3-hotfix-penis-clip-bug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
