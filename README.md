@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That would be a sh*tty way to go](http://9gag.com/gag/az2B20Z)
- - ⏩ [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 💣 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
  - 👉 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)<!-- MEMES:END -->
 
 ---
