@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - ⏩ [How is he still alive](http://9gag.com/gag/axoA7x1)
- - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - ⏩ [Anyone know a good animal exorcist](http://9gag.com/gag/aNwqprr)
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 
