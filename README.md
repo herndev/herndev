@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joke all you want, but this is a life saving tip](http://9gag.com/gag/a8qn5Yp)
- - ⏩ [Every single time](http://9gag.com/gag/a9qV1rD)
- - 👉 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)<!-- MEMES:END -->
+ - 💣 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
+ - ⏩ [Boys being boys](http://9gag.com/gag/a9qV16j)
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 
