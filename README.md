@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - ⏩ [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
+ - 💣 [Before the delivery boy steals his cut](http://9gag.com/gag/aGEoEZ0)
+ - ⏩ [We have to go back!](http://9gag.com/gag/a6qxNem)
+ - 👉 [That would be a sh*tty way to go](http://9gag.com/gag/az2B20Z)<!-- MEMES:END -->
 
 ---
 
