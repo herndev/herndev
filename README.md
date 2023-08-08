@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - ⏩ [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
+ - 💣 [Kneeling sheep](http://9gag.com/gag/agodgmg)
+ - ⏩ [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
  - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
 
 ---
