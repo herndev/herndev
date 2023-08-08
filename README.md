@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kneeling sheep](http://9gag.com/gag/agodgmg)
- - ⏩ [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - ⏩ [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 👉 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)<!-- MEMES:END -->
 
 ---
 
