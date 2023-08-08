@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo Movie Review Roundup: The Critics Are Split](https://kotaku.com/gran-turismo-movie-review-roundup-sony-playstation-1850718992)
- - [Refurbished Steam Decks are now available for 20% less than new](https://www.polygon.com/deals/23824522/gamestop-steam-deck-refurbished-valve-price)
- - [Valve releases Dota 2 patch notes written entirely in emojis](https://www.pcgamer.com/valve-releases-dota-2-patch-notes-written-entirely-in-emojis)<!-- GAME:END -->
+ - [There are no Baldur&#39;s Gate 3 console commands &lpar;yet&rpar; but here are mods that can help you cheat a little](https://www.pcgamer.com/baldurs-gate-3-cheats-console-commands)
+ - [Baldur&#39;s Gate 3 May Not Get DLC Due To D&amp;D&#39;s OP Leveling](https://kotaku.com/baldur-s-gate-3-dnd-dlc-expansion-plans-high-level-1850719039)
+ - [Gran Turismo Movie Review Roundup: The Critics Are Split](https://kotaku.com/gran-turismo-movie-review-roundup-sony-playstation-1850718992)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
