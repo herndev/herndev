@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data management company Rubrik acquires Laminar, which helps companies manage public cloud data security, sources say for around $200M to $250M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230808/p24#a230808p24)
- - [Pre-order numbers prove Samsung has a long way to go with its foldable dreams](https://www.androidauthority.com/samsung-galaxy-z-flip-5-pre-order-numbers-3353304/)
- - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)<!-- TECH:END -->
+ - [Spotify&#39;s AI DJ expands to 50 countries around the world](https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world?utm_medium=rss)
+ - [Apple Pay officially launches in Chile](https://appleinsider.com/articles/23/08/08/apple-pay-officially-launches-in-chile?utm_medium=rss)
+ - [Valve is seemingly gearing up to sell refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824529/valve-steam-deck-refurbished-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
