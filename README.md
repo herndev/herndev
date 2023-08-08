@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman&#39;s first elusive target in two years lets you drop the beat on an IRL DJ](https://www.pcgamer.com/hitmans-first-elusive-target-in-two-years-lets-you-drop-the-beat-on-an-irl-dj)
- - [Twitch King xQc Does The Worm In The Middle Of Copyright Debate](https://kotaku.com/xqc-ethan-debate-h3h3-productions-youtube-twitch-1850717631)
- - [Many great games are buy 1, get 1 free at GameStop](https://www.polygon.com/deals/2023/8/8/23824495/gaming-deal-gamestop-buy-one-get-free-switch-ps5-xbox-games)<!-- GAME:END -->
+ - [NASA discovers giant question mark where universe failed to render correctly](https://www.pcgamer.com/nasa-discovers-giant-question-mark-where-universe-failed-to-render-correctly)
+ - [I was kinda hoping it&#39;d take Baldur&#39;s Gate 3 longer to ruin my life](https://www.pcgamer.com/i-was-kinda-hoping-itd-take-baldurs-gate-3-longer-to-ruin-my-life)
+ - [Dead By Daylight Is Getting The Ultimate Sci-Fi Horror Collab](https://kotaku.com/dead-by-daylight-alien-update-dbd-xenomorph-ripley-1850717918)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
