@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [O Fortuna](http://9gag.com/gag/aNwqpLA)
- - ⏩ [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
- - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
+ - 💣 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - ⏩ [How is he still alive](http://9gag.com/gag/axoA7x1)
+ - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
 
 ---
 
