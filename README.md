@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3&#39;s first big penis mod makes you the &#39;pride of the orcs&#39;](https://www.pcgamer.com/baldurs-gate-3s-first-big-penis-mod-makes-you-the-pride-of-the-orcs)
  - [I broke Baldur&#39;s Gate 3 by playing as a party of bears](https://www.pcgamer.com/i-broke-baldurs-gate-3-by-playing-as-a-party-of-bears)
- - [Marvel VFX workers want to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)
- - [How to romance companions and earn approval in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23823017/bg3-romance-companions-approval)<!-- GAME:END -->
+ - [Marvel VFX workers want to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
