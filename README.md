@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #780: Tuesday, August 8](https://www.pcgamer.com/wordle-answer-today-hint-780-august-8)
  - [Baldur&#39;s Gate 3&#39;s first big penis mod makes you the &#39;pride of the orcs&#39;](https://www.pcgamer.com/baldurs-gate-3s-first-big-penis-mod-makes-you-the-pride-of-the-orcs)
- - [I broke Baldur&#39;s Gate 3 by playing as a party of bears](https://www.pcgamer.com/i-broke-baldurs-gate-3-by-playing-as-a-party-of-bears)
- - [Marvel VFX workers want to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)<!-- GAME:END -->
+ - [I broke Baldur&#39;s Gate 3 by playing as a party of bears](https://www.pcgamer.com/i-broke-baldurs-gate-3-by-playing-as-a-party-of-bears)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
