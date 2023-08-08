@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo creator Kazunori Yamauchi has a surprising cameo in the movie](https://www.polygon.com/23823391/gran-turismo-movie-kazunori-yamauchi-cameo)
- - [Pokémon Scarlet And Violet Is Giving Away A Mew](https://kotaku.com/pokemon-scarlet-violet-mew-code-event-mewtwo-how-to-get-1850716762)
- - [Where to find Dammon in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-find-dammon)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet Mew Mystery Gift code](https://www.polygon.com/pokemon-scarlet-violet-guide/2023/8/8/23824343/mew-mystery-gift-code-event)
+ - [The price of graphics cards really hammers home my biggest issue with transhumanism](https://www.pcgamer.com/the-price-of-graphics-cards-really-hammers-home-my-biggest-issue-with-transhumanism)
+ - [WrestleQuest launch delayed two weeks at the last minute](https://www.polygon.com/23824239/wrestlequest-delayed-release-date-game-save-glitch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
