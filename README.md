@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is a 2 in 1 laptop? Pros, cons, and recommendations](https://www.androidauthority.com/what-is-2-in-1-laptop-3353168/)
- - [EU joins threat to Adobe’s $20 Billion Figma acquisition with new probe](https://www.theverge.com/2023/8/8/23810981/eu-probe-investigation-adobe-figma-20-billion-merger-acquisition)
- - [Apple’s M3 Max MacBook Pro could be a performance beast](https://www.androidauthority.com/apple-m3-max-macbook-pro-leak-3353186/)<!-- TECH:END -->
+ - [SoftBank reports ~$426M profit for Vision Fund in Q1, up from a ~$16.4B loss in Q1 2022 and ~$30B in FY2022; Vision Fund invested $1.6B in Q1; Arm lost ~$66.4M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p7#a230808p7)
+ - [Matter&#39;s biggest problem is that companies can&#39;t agree on how to support Thread, a protocol Matter picked, especially for border routers joining mesh networks &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230808/p6#a230808p6)
+ - [Fortnite’s new Jujutsu Kaisen anime collab adds themed outfits and quests](https://www.theverge.com/2023/8/8/23823380/fortnite-jujutsu-kaisen-anime-crossover-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
