@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok unveils Gimme the Mic, a music competition hosted on livestreams where the US winner receives 50K Diamonds, the USD conversion rate for which is unclear &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230808/p9#a230808p9)
- - [An author finds multiple &quot;garbage books&quot; uploaded to Amazon under her name, most likely AI-generated, and on Goodreads, which removed them after her complaint &lpar;Jane Friedman&rpar;](http://www.techmeme.com/230808/p8#a230808p8)
- - [SoftBank reports ~$426M profit for Vision Fund in Q1, up from a ~$16.4B loss in Q1 2022 and ~$30B in FY2022; Vision Fund invested $1.6B in Q1; Arm lost ~$66.4M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p7#a230808p7)<!-- TECH:END -->
+ - [TSMC agrees to build a &amp;euro;10B plant in Germany&#39;s Dresden, owning 70% of the facility with Infineon, NXP, and Bosch each holding 10% stake, set to open in 2027 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230808/p12#a230808p12)
+ - [Source: Apple, Samsung, Nvidia, and Intel plan to invest in Arm&#39;s US IPO as soon as shares are listed in September; SoftBank owns 75% of Arm and Vision Fund 25% &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230808/p11#a230808p11)
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
