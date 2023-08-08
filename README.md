@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have to go back!](http://9gag.com/gag/a6qxNem)
- - ⏩ [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
- - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
+ - 💣 [Joke all you want, but this is a life saving tip](http://9gag.com/gag/a8qn5Yp)
+ - ⏩ [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 👉 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)<!-- MEMES:END -->
 
 ---
 
