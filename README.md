@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
- - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)
- - [Boston-based cybersecurity company Rapid7 lays off 18% of its workforce, or around 470 people, and reports Q2 revenue rose 14% YoY to $190M and a $67M net loss &lpar;Aaron Pressman/The Boston Globe&rpar;](http://www.techmeme.com/230809/p22#a230809p22)<!-- TECH:END -->
+ - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)
+ - [OnePlus will now offer lifetime screen warranty to address green line issue](https://www.androidauthority.com/oneplus-green-line-display-lifetime-warranty-3353701/)
+ - [Anker&#39;s Ultrafast M5 3D Printer Is $240 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/this-3d-printer-is-insanely-fast-and-has-a-huge-discount-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
