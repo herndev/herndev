@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s upper parliament passes the Digital Personal Data Protection Bill, including up to $30M fines and child wellbeing rules; the president must now approve &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230809/p24#a230809p24)
- - [Sony’s DualSense controllers for the PS5 are still on sale for just $49](https://www.theverge.com/2023/8/9/23824399/sony-dualsense-controller-samsung-galaxy-s23-plus-sennheiser-earbuds-deal-sale)
- - [Apple Watch may gain a new fabric band](https://appleinsider.com/articles/23/08/09/apple-watch-may-gain-a-new-fabric-band?utm_medium=rss)<!-- TECH:END -->
+ - [Cadillac’s Escalade IQ makes all other EVs look small](https://www.theverge.com/2023/8/9/23822742/cadillac-escalade-iq-ev-reveal)
+ - [Copyright laws shouldn&#39;t apply to AI training, proposes Google](https://appleinsider.com/articles/23/08/09/copyright-laws-shouldnt-apply-to-ai-training-proposes-google?utm_medium=rss)
+ - [Save up to $1,600 on MacBook Pro, plus deep discounts on MacBook Air &amp; Mac mini at B&amp;H](https://appleinsider.com/articles/23/08/09/save-up-to-1600-on-macbook-pro-plus-deep-discounts-on-macbook-air-mac-mini-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
