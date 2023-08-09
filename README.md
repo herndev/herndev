@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All of Christopher Nolan’s movies are about exploring what scares him most](https://www.polygon.com/23824919/oppenheimer-explained-christopher-nolan-movies-linked-tenet-interstellar-memento)
- - [Men Simply Walk Away With $300,000 Of Stolen Magic: The Gathering Cards](https://kotaku.com/magic-gathering-mtg-gen-con-theft-disney-cards-lorcana-1850720974)
- - [Cyberpunk 2077&#39;s Phantom Liberty DLC Probably Won’t Change V’s Fate](https://kotaku.com/cyberpunk-2077-phantom-liberty-cd-projekt-red-fallout-3-1850694080)<!-- GAME:END -->
+ - [7 PC Games You Need To Play During Steam’s Latest Fest](https://kotaku.com/steam-visual-novel-fest-2023-recs-free-pc-games-1850721654)
+ - [Author of Tetris book sues Apple and the Tetris Company for allegedly ripping off his work to make the Tetris movie](https://www.pcgamer.com/author-of-tetris-book-sues-apple-and-the-tetris-company-for-allegedly-ripping-off-his-work-to-make-the-tetris-movie)
+ - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
