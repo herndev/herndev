@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The musical RPG Stray Gods needed more rehearsal time](https://www.polygon.com/reviews/23825018/stray-gods-review-musical-rpg-dragon-age-kotor)
- - [Archie Comics’ first trans character makes her solo debut](https://www.polygon.com/23824779/archie-comics-danni-malloy-trans-representation)
- - [Harada says Tekken 8 won’t have Denuvo, tells whining fans to &#39;stop your tedious allergic reactions to every single thing and sit quietly&#39;](https://www.pcgamer.com/harada-says-tekken-8-wont-have-denuvo-tells-whining-fans-to-stop-your-tedious-allergic-reactions-to-every-single-thing-and-sit-quietly)<!-- GAME:END -->
+ - [Star Trek is finally treating Spock like a human being](https://www.polygon.com/23824684/star-trek-spock-strange-new-worlds-actors)
+ - [Honkai: Star Rail codes for August 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Players’ Choice: Vote for July’s best new game](https://blog.playstation.com/2023/08/09/players-choice-vote-for-julys-best-new-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
