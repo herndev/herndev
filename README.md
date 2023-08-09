@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - ⏩ [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - ⏩ [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 👉 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)<!-- MEMES:END -->
 
 ---
 
