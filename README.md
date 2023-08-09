@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For the first time in Call of Duty history, everything you unlocked in last year&#39;s game will carry over to Modern Warfare 3](https://www.pcgamer.com/for-the-first-time-in-call-of-duty-history-everything-you-unlocked-in-last-years-game-will-carry-over-to-modern-warfare-3)
- - [Star Wars: Unlimited TCG feels quick and punchy, like a great Star Wars video game](https://www.polygon.com/23826374/star-wars-unlimited-rules-preview-tcg-release-date-price)
- - [All Mould locations in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23826284/mould-locations-bg3)<!-- GAME:END -->
+ - [It&#39;s taken more than 30 years, but Flashback 2 finally has a release date](https://www.pcgamer.com/its-taken-more-than-30-years-but-flashback-2-finally-has-a-release-date)
+ - [In the face of player backlash, Dark and Darker developers say they may stop selling character classes](https://www.pcgamer.com/in-the-face-of-player-backlash-dark-and-darker-developers-say-they-may-stop-selling-character-classes)
+ - [Disney raising prices on Disney Plus and Hulu ahead of account-sharing crackdown](https://www.polygon.com/23826505/disney-plus-hulu-price-increase-new-bundle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
