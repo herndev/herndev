@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek is finally treating Spock like a human being](https://www.polygon.com/23824684/star-trek-spock-strange-new-worlds-actors)
- - [Honkai: Star Rail codes for August 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Players’ Choice: Vote for July’s best new game](https://blog.playstation.com/2023/08/09/players-choice-vote-for-julys-best-new-game/)<!-- GAME:END -->
+ - [How to save Mayrina in the Ancient Abode in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825850/save-mayrina-ancient-abode-auntie-ethel-bg3)
+ - [Pokémon Sleep: The Kotaku Review](https://kotaku.com/pokemon-sleep-review-go-plus-premium-pass-1850721030)
+ - [How to get past the Gnarled Door in Auntie Ethel’s in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825756/bg3-tree-door-auntie-ethel-overgrown-tunnel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
