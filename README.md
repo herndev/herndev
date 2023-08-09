@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Afterparty’s erotic thriller parody is one of the funniest TV episodes of the year](https://www.polygon.com/23824996/afterparty-apple-tv-erotic-thriller-episode-danners-fire-michael-ealy-incredible)
- - [Local retailer had $300,000 worth of Magic: The Gathering cards stolen at Gen Con](https://www.polygon.com/23823431/magic-the-gathering-card-heist-gen-con)
- - [How to help Pandirna in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-help-pandirna)<!-- GAME:END -->
+ - [The musical RPG Stray Gods needed more rehearsal time](https://www.polygon.com/reviews/23825018/stray-gods-review-musical-rpg-dragon-age-kotor)
+ - [Archie Comics’ first trans character makes her solo debut](https://www.polygon.com/23824779/archie-comics-danni-malloy-trans-representation)
+ - [Harada says Tekken 8 won’t have Denuvo, tells whining fans to &#39;stop your tedious allergic reactions to every single thing and sit quietly&#39;](https://www.pcgamer.com/harada-says-tekken-8-wont-have-denuvo-tells-whining-fans-to-stop-your-tedious-allergic-reactions-to-every-single-thing-and-sit-quietly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
