@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2022 iPad Air is even more tempting at a $499.99 deal price](https://www.androidauthority.com/apple-ipad-air-2022-deal-3353795/)
- - [Supreme Court says Apple can keep its App Store payment rules for now](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
- - [Apple TV+ announces new &#39;Still Up&#39; comedy for September](https://appleinsider.com/articles/23/08/09/apple-tv-announces-new-still-up-comedy-for-september?utm_medium=rss)<!-- TECH:END -->
+ - [The US launches a DARPA-led contest to build AI systems that can spot and fix software vulnerabilities, with help from Anthropic, Google, Microsoft, and OpenAI &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230809/p28#a230809p28)
+ - [Leaker claims to have A17 specifications ahead of iPhone 15 Pro release](https://appleinsider.com/articles/23/08/09/leaker-claims-to-have-a17-specifications-ahead-of-iphone-15-pro-release?utm_medium=rss)
+ - [The Continental is at capacity in new trailer for Peacock’s John Wick prequel series](https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
