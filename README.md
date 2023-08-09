@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
  - ⏩ [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 👉 [My man](http://9gag.com/gag/aKELmzO)<!-- MEMES:END -->
+ - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
 
 ---
 
