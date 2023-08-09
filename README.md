@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
  - ⏩ [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
  - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
