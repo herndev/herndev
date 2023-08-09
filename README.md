@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My man](http://9gag.com/gag/aKELmzO)
- - ⏩ [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 💣 [Josh??](http://9gag.com/gag/aPgpgYP)
+ - ⏩ [Thoughts?](http://9gag.com/gag/anzdRzE)
+ - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
 
 ---
 
