@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to save Mayrina in the Ancient Abode in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825850/save-mayrina-ancient-abode-auntie-ethel-bg3)
- - [Pokémon Sleep: The Kotaku Review](https://kotaku.com/pokemon-sleep-review-go-plus-premium-pass-1850721030)
- - [How to get past the Gnarled Door in Auntie Ethel’s in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825756/bg3-tree-door-auntie-ethel-overgrown-tunnel)<!-- GAME:END -->
+ - [All of Christopher Nolan’s movies are about exploring what scares him most](https://www.polygon.com/23824919/oppenheimer-explained-christopher-nolan-movies-linked-tenet-interstellar-memento)
+ - [Men Simply Walk Away With $300,000 Of Stolen Magic: The Gathering Cards](https://kotaku.com/magic-gathering-mtg-gen-con-theft-disney-cards-lorcana-1850720974)
+ - [Cyberpunk 2077&#39;s Phantom Liberty DLC Probably Won’t Change V’s Fate](https://kotaku.com/cyberpunk-2077-phantom-liberty-cd-projekt-red-fallout-3-1850694080)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
