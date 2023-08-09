@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - ⏩ [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 👉 [Its just a prank bro](http://9gag.com/gag/amAdo8y)<!-- MEMES:END -->
 
 ---
 
