@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
+ - 💣 [When your game of tetris gets wrong...](http://9gag.com/gag/a4oxE6v)
+ - ⏩ [Guys lets repost a post from the past.](http://9gag.com/gag/aVbdbEO)
+ - 👉 [My man](http://9gag.com/gag/aKELmzO)<!-- MEMES:END -->
 
 ---
 
