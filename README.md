@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 👉 [Its just a prank bro](http://9gag.com/gag/amAdo8y)<!-- MEMES:END -->
+ - 💣 [Every f**king time](http://9gag.com/gag/ap9dRGp)
+ - ⏩ [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
+ - 👉 [Robin chwaaan](http://9gag.com/gag/amAdAgj)<!-- MEMES:END -->
 
 ---
 
