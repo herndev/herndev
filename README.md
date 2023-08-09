@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - ⏩ [This one doesn\u2019t spark joy](http://9gag.com/gag/adPdPQ9)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - ⏩ [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
 
 ---
 
