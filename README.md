@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Josh??](http://9gag.com/gag/aPgpgYP)
- - ⏩ [Thoughts?](http://9gag.com/gag/anzdRzE)
- - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
+ - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - ⏩ [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 
