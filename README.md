@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - ⏩ [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
+ - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - ⏩ [This one doesn\u2019t spark joy](http://9gag.com/gag/adPdPQ9)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 
