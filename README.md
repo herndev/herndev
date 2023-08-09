@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War Warhammer 3&#39;s Changeling campaign sounds like a game-changer](https://www.pcgamer.com/total-war-warhammer-3s-changeling-campaign-sounds-like-a-game-changer)
  - [My new favorite Baldur&#39;s Gate 3 item is a greatclub that&#39;s even greater if you&#39;re drunk](https://www.pcgamer.com/baldurs-gate-3-punch-drunk-bastard-waning-moon)
- - [Don&#39;t expect a Red Dead Redemption movie anytime soon: Take-Two boss says the film industry is &#39;a really hard business&#39; and he&#39;s not looking to rush into it](https://www.pcgamer.com/dont-expect-a-red-dead-redemption-movie-anytime-soon-take-two-boss-says-the-film-industry-is-a-really-hard-business-and-hes-not-looking-to-rush-into-it)
- - [Take-Two CEO: $50 For Red Dead Redemption On Switch, PS4 Is ‘Great Value’](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-50-value-ceo-1850719244)<!-- GAME:END -->
+ - [Don&#39;t expect a Red Dead Redemption movie anytime soon: Take-Two boss says the film industry is &#39;a really hard business&#39; and he&#39;s not looking to rush into it](https://www.pcgamer.com/dont-expect-a-red-dead-redemption-movie-anytime-soon-take-two-boss-says-the-film-industry-is-a-really-hard-business-and-hes-not-looking-to-rush-into-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
