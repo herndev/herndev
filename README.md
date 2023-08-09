@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Kenya, the most active African country on TikTok, creators make money with protest livestreams, which protesters say help them stay safe from police violence &lpar;Martin K.N Siele/Rest of World&rpar;](http://www.techmeme.com/230809/p9#a230809p9)
- - [Xiaomi’s Galaxy Z Fold 5 rival with ‘no shortcomings’ launches next week](https://www.androidauthority.com/xiaomi-mix-fold-3-launch-date-3353603/)
- - [Coupang reports Q2 revenue up 21% YoY to $5.6B, a $145M net income, up from a $75.4M loss in Q2 2022, and plans to expand in Taiwan after a year of profits &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230809/p8#a230809p8)<!-- TECH:END -->
+ - [Sex workers who relied on crypto for storing wealth and accepting payment, bypassing the banking system entirely, are finding the limits of crypto&#39;s utility &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230809/p12#a230809p12)
+ - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
+ - [China plans to require app developers to file business details with the government or face sanctions from March 2024, likely creating headaches for developers &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230809/p11#a230809p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
