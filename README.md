@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Gigabyte RTX 4060 card is half the height but all the fun](https://www.pcgamer.com/new-gigabyte-rtx-4060-card-is-half-the-height-but-all-the-fun)
  - [ASRock RX 7700 XT confirmed via EEC listing](https://www.pcgamer.com/asrock-rx-7700-xt-confirmed-via-eec-listing)
- - [Today&#39;s Wordle hint and answer #781: Wednesday, August 9](https://www.pcgamer.com/wordle-answer-today-hint-781-august-9)
- - [Total War Warhammer 3&#39;s Changeling campaign sounds like a game-changer](https://www.pcgamer.com/total-war-warhammer-3s-changeling-campaign-sounds-like-a-game-changer)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #781: Wednesday, August 9](https://www.pcgamer.com/wordle-answer-today-hint-781-august-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
