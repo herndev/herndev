@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Plus Titles For August Include Destiny 2’s Best Campaign Ever](https://kotaku.com/playstation-plus-august-destiny-witch-queen-yakuza-1850722218)
- - [Final Fantasy 14 Dawntrail: Everything we know about the new jobs, story, and graphical overhaul](https://www.pcgamer.com/final-fantasy-14-dawntrail-expansion-details-release-classes-jobs)
- - [The latest Humble bundle includes 11 Resident Evil games for $35](https://www.polygon.com/deals/23826222/resident-evil-village-7-humble-bundle-deal-price)<!-- GAME:END -->
+ - [MrBeast’s ‘inedible’ burgers create huge legal drama](https://www.polygon.com/23825995/mrbeast-burger-lawsuit-virtual-dining-concept)
+ - [Halo Infinite Now Lets You Mute Your Chatty AI](https://kotaku.com/halo-infinite-update-ai-mute-silence-announcer-map-1850722604)
+ - [Where to find explosive powder in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825977/grymforge-explosive-powder-smokepowder-satchel-true-soul-nere-bg3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
