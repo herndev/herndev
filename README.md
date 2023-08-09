@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - ⏩ [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 👉 [This is for you](http://9gag.com/gag/aWGdgb3)<!-- MEMES:END -->
+ - ⏩ [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 👉 [My man](http://9gag.com/gag/aKELmzO)<!-- MEMES:END -->
 
 ---
 
