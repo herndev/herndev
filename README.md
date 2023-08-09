@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US launches a DARPA-led contest to build AI systems that can spot and fix software vulnerabilities, with help from Anthropic, Google, Microsoft, and OpenAI &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230809/p28#a230809p28)
- - [Leaker claims to have A17 specifications ahead of iPhone 15 Pro release](https://appleinsider.com/articles/23/08/09/leaker-claims-to-have-a17-specifications-ahead-of-iphone-15-pro-release?utm_medium=rss)
- - [The Continental is at capacity in new trailer for Peacock’s John Wick prequel series](https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer)<!-- TECH:END -->
+ - [Roblox is aiming for Westworld-like ease of design with generative AI tools](https://www.theverge.com/2023/8/9/23826070/roblox-generative-ai-westworld-playstation-switch)
+ - [Beats Studio Pro now available in 24 additional countries worldwide](https://appleinsider.com/articles/23/08/09/beats-studio-pro-now-available-in-24-additional-countries-worldwide?utm_medium=rss)
+ - [Ming-Chi Kuo says Apple&#39;s &#39;sweetheart deal&#39; with TSMC is no such thing](https://appleinsider.com/articles/23/08/09/ming-chi-kuo-says-apples-sweetheart-deal-with-tsmc-is-no-such-thing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
