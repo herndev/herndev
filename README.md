@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - ⏩ [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
+ - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - ⏩ [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 👉 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)<!-- MEMES:END -->
 
 ---
 
