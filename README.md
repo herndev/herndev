@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every f**king time](http://9gag.com/gag/ap9dRGp)
- - ⏩ [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
- - 👉 [Robin chwaaan](http://9gag.com/gag/amAdAgj)<!-- MEMES:END -->
+ - 💣 [Self-sacrifice](http://9gag.com/gag/aoKdy22)
+ - ⏩ [Its just a prank bro](http://9gag.com/gag/amAdo8y)
+ - 👉 [This is for you](http://9gag.com/gag/aWGdgb3)<!-- MEMES:END -->
 
 ---
 
