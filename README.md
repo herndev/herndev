@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self-sacrifice](http://9gag.com/gag/aoKdy22)
- - ⏩ [Its just a prank bro](http://9gag.com/gag/amAdo8y)
- - 👉 [This is for you](http://9gag.com/gag/aWGdgb3)<!-- MEMES:END -->
+ - 💣 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - ⏩ [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 
