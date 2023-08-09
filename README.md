@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quizlet’s AI study tools think I’m a bad student](https://www.theverge.com/2023/8/9/23826191/quizlet-generative-ai-chatgpt-education)
- - [Sources: Baidu, ByteDance, Tencent, and Alibaba made orders worth $5B to acquire Nvidia chips, amid concerns that the US will soon clamp down on their export &lpar;Financial Times&rpar;](http://www.techmeme.com/230809/p31#a230809p31)
- - [Whitney Wolfe Herd is coming to the Code Conference](https://www.theverge.com/2023/8/9/23826211/bumble-ceo-whitney-wolfe-herd-code-conference-2023)<!-- TECH:END -->
+ - [Disney+, Hulu, and ESPN are all getting another price hike](https://appleinsider.com/articles/23/08/09/disney-hulu-and-espn-are-all-getting-another-price-hike?utm_medium=rss)
+ - [Disney Plus and Hulu are about to get even more expensive](https://www.theverge.com/2023/8/9/23826500/disney-plus-hulu-no-ads-plan-price-increases)
+ - [Bob Iger says Disney is &quot;actively exploring ways&quot; to crack down on password sharing and &quot;will roll out tactics to drive monetization sometime in 2024&quot; &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/230809/p33#a230809p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
