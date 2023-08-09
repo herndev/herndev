@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 PC Games You Need To Play During Steam’s Latest Fest](https://kotaku.com/steam-visual-novel-fest-2023-recs-free-pc-games-1850721654)
- - [Author of Tetris book sues Apple and the Tetris Company for allegedly ripping off his work to make the Tetris movie](https://www.pcgamer.com/author-of-tetris-book-sues-apple-and-the-tetris-company-for-allegedly-ripping-off-his-work-to-make-the-tetris-movie)
- - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)<!-- GAME:END -->
+ - [The latest Humble bundle includes 11 Resident Evil games for $35](https://www.polygon.com/deals/23826222/resident-evil-village-7-humble-bundle-deal-price)
+ - [Where to pre-order Detective Pikachu Returns](https://www.polygon.com/deals/23824986/pre-order-detective-pikachu-returns-nintendo-switch-pokemon-where-to-buy)
+ - [Larian blames localization studio for missing Baldur&#39;s Gate 3 credits, says they&#39;ll be added in the next hotfix](https://www.pcgamer.com/larian-blames-localization-studio-for-missing-baldurs-gate-3-credits-says-theyll-be-added-in-the-next-hotfix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
