@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gizmodo EIC Dan Ackerman sues Apple, the Tetris Company, and others, claiming they adapted his book about Tetris into a feature film without his permission &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230809/p13#a230809p13)
- - [How Mixtapes Remixed Music History—and Its Future](https://www.wired.com/story/history-of-mixtapes-future/)
- - [The All-American Myth of the TikTok Spy](https://www.wired.com/story/china-espionage-tiktok-spying-national-security/)<!-- TECH:END -->
+ - [X begins making ad revenue payouts to smaller creators, after releasing payments to thousands of select accounts; how payouts are calculated remains unclear &lpar;Elizabeth de Luna/Mashable&rpar;](http://www.techmeme.com/230809/p17#a230809p17)
+ - [In its Q1 report, Sony, the world&#39;s largest camera sensor supplier, pushes back expectations for a smartphone market recovery to 2024 at the earliest &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230809/p16#a230809p16)
+ - [CCDH: ChatGPT, Bard, My AI, DreamStudio, Dall-E, and Midjourney generated &quot;pro-anorexia&quot; content 41% of the time when asked about common eating disorder topics &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230809/p15#a230809p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
