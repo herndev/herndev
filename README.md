@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast’s ‘inedible’ burgers create huge legal drama](https://www.polygon.com/23825995/mrbeast-burger-lawsuit-virtual-dining-concept)
- - [Halo Infinite Now Lets You Mute Your Chatty AI](https://kotaku.com/halo-infinite-update-ai-mute-silence-announcer-map-1850722604)
- - [Where to find explosive powder in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23825977/grymforge-explosive-powder-smokepowder-satchel-true-soul-nere-bg3)<!-- GAME:END -->
+ - [For the first time in Call of Duty history, everything you unlocked in last year&#39;s game will carry over to Modern Warfare 3](https://www.pcgamer.com/for-the-first-time-in-call-of-duty-history-everything-you-unlocked-in-last-years-game-will-carry-over-to-modern-warfare-3)
+ - [Star Wars: Unlimited TCG feels quick and punchy, like a great Star Wars video game](https://www.polygon.com/23826374/star-wars-unlimited-rules-preview-tcg-release-date-price)
+ - [All Mould locations in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23826284/mould-locations-bg3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
