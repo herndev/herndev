@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO: $50 For Red Dead Redemption On Switch, PS4 Is ‘Great Value’](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-50-value-ceo-1850719244)
- - [There are no Baldur&#39;s Gate 3 console commands &lpar;yet&rpar; but here are mods that can help you cheat a little](https://www.pcgamer.com/baldurs-gate-3-cheats-console-commands)
- - [Baldur&#39;s Gate 3 May Not Get DLC Due To D&amp;D&#39;s OP Leveling](https://kotaku.com/baldur-s-gate-3-dnd-dlc-expansion-plans-high-level-1850719039)<!-- GAME:END -->
+ - [My new favorite Baldur&#39;s Gate 3 item is a greatclub that&#39;s even greater if you&#39;re drunk](https://www.pcgamer.com/baldurs-gate-3-punch-drunk-bastard-waning-moon)
+ - [Don&#39;t expect a Red Dead Redemption movie anytime soon: Take-Two boss says the film industry is &#39;a really hard business&#39; and he&#39;s not looking to rush into it](https://www.pcgamer.com/dont-expect-a-red-dead-redemption-movie-anytime-soon-take-two-boss-says-the-film-industry-is-a-really-hard-business-and-hes-not-looking-to-rush-into-it)
+ - [Take-Two CEO: $50 For Red Dead Redemption On Switch, PS4 Is ‘Great Value’](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-50-value-ceo-1850719244)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
