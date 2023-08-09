@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Humble bundle includes 11 Resident Evil games for $35](https://www.polygon.com/deals/23826222/resident-evil-village-7-humble-bundle-deal-price)
- - [Where to pre-order Detective Pikachu Returns](https://www.polygon.com/deals/23824986/pre-order-detective-pikachu-returns-nintendo-switch-pokemon-where-to-buy)
- - [Larian blames localization studio for missing Baldur&#39;s Gate 3 credits, says they&#39;ll be added in the next hotfix](https://www.pcgamer.com/larian-blames-localization-studio-for-missing-baldurs-gate-3-credits-says-theyll-be-added-in-the-next-hotfix)<!-- GAME:END -->
+ - [PS Plus Titles For August Include Destiny 2’s Best Campaign Ever](https://kotaku.com/playstation-plus-august-destiny-witch-queen-yakuza-1850722218)
+ - [Final Fantasy 14 Dawntrail: Everything we know about the new jobs, story, and graphical overhaul](https://www.pcgamer.com/final-fantasy-14-dawntrail-expansion-details-release-classes-jobs)
+ - [The latest Humble bundle includes 11 Resident Evil games for $35](https://www.polygon.com/deals/23826222/resident-evil-village-7-humble-bundle-deal-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
