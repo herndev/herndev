@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker jumps on iPhone 15 thin bezel bandwagon with questionable images](https://appleinsider.com/articles/23/08/09/leaker-jumps-on-iphone-15-thin-bezel-bandwagon-with-questionable-images?utm_medium=rss)
- - [Unity is releasing some of W&amp;#275;t&amp;amacr; FX&#39;s 2D and 3D tools, including Wig 1.0 for simulating hair and fur, into public beta under its new Unity W&amp;#275;t&amp;amacr; Tools division &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230808/p47#a230808p47)
- - [Singapore-based Endowus, which operates a digital wealth management platform, raised $35M from Citi Ventures, MUFG, and others, taking its total funding to $95M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230808/p46#a230808p46)<!-- TECH:END -->
+ - [India-based Credgenics, which provides an online service to help banks collect on debt, raised $50M led by Accel and Westbridge Capital at a $340M valuation &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230808/p50#a230808p50)
+ - [Ethernet not working? Here’s how to fix it](https://www.androidauthority.com/ethernet-not-working-3353204/)
+ - [A look at Def Con&#39;s White House-backed Generative Red Team Challenge, where contestants try to make AI chatbots go rogue; the results will be sealed for months &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230808/p49#a230808p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
