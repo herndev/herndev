@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your game of tetris gets wrong...](http://9gag.com/gag/a4oxE6v)
- - ⏩ [Guys lets repost a post from the past.](http://9gag.com/gag/aVbdbEO)
- - 👉 [My man](http://9gag.com/gag/aKELmzO)<!-- MEMES:END -->
+ - 💣 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - ⏩ [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 
