@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S24 Ultra could see a big upgrade to its telephoto camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-telephoto-camera-upgrade-leak-3353581/)
  - [Samsung’s Galaxy Enhance-X app: What is it and how to use it?](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-3352491/)
- - [A look at the Indian Institutes of Technology, established in the 1950s and 1960s to emulate MIT and now comprising 23 schools offering a path to tech success &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/230809/p6#a230809p6)
- - [Q&amp;A with AWS CEO Adam Selipsky on cloud competitors, layoffs, AI, Nvidia, the Trainium and Inferentia chips, the Amazon Bedrock library of AI models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230809/p5#a230809p5)<!-- TECH:END -->
+ - [A look at the Indian Institutes of Technology, established in the 1950s and 1960s to emulate MIT and now comprising 23 schools offering a path to tech success &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/230809/p6#a230809p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
