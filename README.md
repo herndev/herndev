@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - ⏩ [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - ⏩ [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
 
 ---
 
