@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Gigabyte RTX 4060 card is half the height but all the fun](https://www.pcgamer.com/new-gigabyte-rtx-4060-card-is-half-the-height-but-all-the-fun)
- - [ASRock RX 7700 XT confirmed via EEC listing](https://www.pcgamer.com/asrock-rx-7700-xt-confirmed-via-eec-listing)
- - [Today&#39;s Wordle hint and answer #781: Wednesday, August 9](https://www.pcgamer.com/wordle-answer-today-hint-781-august-9)<!-- GAME:END -->
+ - [AMD&#39;s upcoming Zen 5 CPUs predicted to be the biggest upgrade since the original Zen chips](https://www.pcgamer.com/amds-upcoming-zen-5-cpus-predicted-to-be-the-biggest-upgrade-since-the-original-zen-chips)
+ - [Take-Two CEO says the $50 price tag on the multiplayer-free PS4 and Switch port of Red Dead Redemption 1 is &#39;commercially accurate&#39; actually](https://www.pcgamer.com/take-two-ceo-says-the-dollar50-price-tag-on-the-multiplayer-free-ps4-and-switch-port-of-red-dead-redemption-1-is-commercially-accurate-actually)
+ - [New Gigabyte RTX 4060 card is half the height but all the fun](https://www.pcgamer.com/new-gigabyte-rtx-4060-card-is-half-the-height-but-all-the-fun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
