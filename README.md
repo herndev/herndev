@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadillac’s Escalade IQ makes all other EVs look small](https://www.theverge.com/2023/8/9/23822742/cadillac-escalade-iq-ev-reveal)
- - [Copyright laws shouldn&#39;t apply to AI training, proposes Google](https://appleinsider.com/articles/23/08/09/copyright-laws-shouldnt-apply-to-ai-training-proposes-google?utm_medium=rss)
- - [Save up to $1,600 on MacBook Pro, plus deep discounts on MacBook Air &amp; Mac mini at B&amp;H](https://appleinsider.com/articles/23/08/09/save-up-to-1600-on-macbook-pro-plus-deep-discounts-on-macbook-air-mac-mini-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [The 2022 iPad Air is even more tempting at a $499.99 deal price](https://www.androidauthority.com/apple-ipad-air-2022-deal-3353795/)
+ - [Supreme Court says Apple can keep its App Store payment rules for now](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
+ - [Apple TV+ announces new &#39;Still Up&#39; comedy for September](https://appleinsider.com/articles/23/08/09/apple-tv-announces-new-still-up-comedy-for-september?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
