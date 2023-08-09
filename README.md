@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - ⏩ [The Disney Effect](http://9gag.com/gag/a7qGWNq)
- - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
+ - ⏩ [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 
