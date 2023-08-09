@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the side of planet Earth we aren&#39;t used to see](http://9gag.com/gag/aMEW4ZG)
- - ⏩ [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - ⏩ [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
  - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
 
 ---
