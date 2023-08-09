@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Endowus, which operates a digital wealth management platform, raised $35M from Citi Ventures, MUFG, and others, taking its total funding to $95M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230808/p46#a230808p46)
  - [Apple still doesn&#39;t need RCS, but the latest update brings it closer to being suitable for iPhone](https://appleinsider.com/articles/23/08/09/apple-still-doesnt-need-rcs-but-the-latest-update-brings-it-closer-to-being-suitable-for-iphone?utm_medium=rss)
- - [Google changes the name of one of its advertising video formats from &quot;in-stream ads&quot; to &quot;skippable ads&quot;, after a report accused YouTube of misleading buyers &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/230808/p45#a230808p45)
- - [tvOS 17 beta 5 references iPhone models that don&#39;t exist](https://appleinsider.com/articles/23/08/09/tvos-17-beta-5-references-iphone-models-that-dont-exist?utm_medium=rss)<!-- TECH:END -->
+ - [Google changes the name of one of its advertising video formats from &quot;in-stream ads&quot; to &quot;skippable ads&quot;, after a report accused YouTube of misleading buyers &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/230808/p45#a230808p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
