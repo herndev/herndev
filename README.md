@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X begins making ad revenue payouts to smaller creators, after releasing payments to thousands of select accounts; how payouts are calculated remains unclear &lpar;Elizabeth de Luna/Mashable&rpar;](http://www.techmeme.com/230809/p17#a230809p17)
- - [In its Q1 report, Sony, the world&#39;s largest camera sensor supplier, pushes back expectations for a smartphone market recovery to 2024 at the earliest &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230809/p16#a230809p16)
- - [CCDH: ChatGPT, Bard, My AI, DreamStudio, Dall-E, and Midjourney generated &quot;pro-anorexia&quot; content 41% of the time when asked about common eating disorder topics &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230809/p15#a230809p15)<!-- TECH:END -->
+ - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
+ - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)
+ - [Boston-based cybersecurity company Rapid7 lays off 18% of its workforce, or around 470 people, and reports Q2 revenue rose 14% YoY to $190M and a $67M net loss &lpar;Aaron Pressman/The Boston Globe&rpar;](http://www.techmeme.com/230809/p22#a230809p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
