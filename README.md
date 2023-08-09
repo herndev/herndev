@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s upcoming Zen 5 CPUs predicted to be the biggest upgrade since the original Zen chips](https://www.pcgamer.com/amds-upcoming-zen-5-cpus-predicted-to-be-the-biggest-upgrade-since-the-original-zen-chips)
- - [Take-Two CEO says the $50 price tag on the multiplayer-free PS4 and Switch port of Red Dead Redemption 1 is &#39;commercially accurate&#39; actually](https://www.pcgamer.com/take-two-ceo-says-the-dollar50-price-tag-on-the-multiplayer-free-ps4-and-switch-port-of-red-dead-redemption-1-is-commercially-accurate-actually)
- - [New Gigabyte RTX 4060 card is half the height but all the fun](https://www.pcgamer.com/new-gigabyte-rtx-4060-card-is-half-the-height-but-all-the-fun)<!-- GAME:END -->
+ - [The Afterparty’s erotic thriller parody is one of the funniest TV episodes of the year](https://www.polygon.com/23824996/afterparty-apple-tv-erotic-thriller-episode-danners-fire-michael-ealy-incredible)
+ - [Local retailer had $300,000 worth of Magic: The Gathering cards stolen at Gen Con](https://www.polygon.com/23823431/magic-the-gathering-card-heist-gen-con)
+ - [How to help Pandirna in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-help-pandirna)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
