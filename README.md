@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance&#39;s revenue in China grew 25% YoY in 2022 to $69B, vs. 68% in 2021; overseas revenue grew from $6.5B in 2021 to $16B in 2022, thanks to TikTok &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/230810/p30#a230810p30)
- - [FEC could limit AI in political ads ahead of 2024](https://www.theverge.com/2023/8/10/23827399/ai-artificial-intelligence-political-ads-fec-desantis-rnc)
- - [Quake II is getting the remaster treatment](https://www.theverge.com/2023/8/10/23827253/quake-ii-remaster-price-release-date-features)<!-- TECH:END -->
+ - [Substack wants to make itself a better place for readers, not just writers](https://www.theverge.com/2023/8/10/23827490/substack-better-readers-writers-newsletters)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [&#39;Final Fantasy VII Ever Crisis&#39; releases on iOS on September 7](https://appleinsider.com/articles/23/08/10/final-fantasy-vii-ever-crisis-releases-on-ios-on-september-7?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
