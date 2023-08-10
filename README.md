@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - ⏩ [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
+ - 💣 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)
+ - ⏩ [Would.](http://9gag.com/gag/a4oxzy6)
+ - 👉 [Why?](http://9gag.com/gag/ay2z43b)<!-- MEMES:END -->
 
 ---
 
