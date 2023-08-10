@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The funniest Baldur&#39;s Gate 3 moments and memes so far](https://www.pcgamer.com/the-funniest-baldurs-gate-3-moments-and-memes-so-far)
- - [Larian founder responds to debate over Baldur&#39;s Gate 3 &#39;raising the bar&#39; for RPGs: &#39;this is videogames, standards just die every day&#39;](https://www.pcgamer.com/baldurs-gate-3-RPG-standards-swen-vincke-interview)
- - [Electronic Arts is closing the servers for even more old games, including Dead Space 2, Crysis 3, and Mirror&#39;s Edge Catalyst](https://www.pcgamer.com/electronic-arts-is-closing-the-servers-for-even-more-old-games-including-dead-space-2-crysis-3-and-mirrors-edge-catalyst)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #782: Thursday, August 10](https://www.pcgamer.com/wordle-answer-today-hint-782-august-10)
+ - [‘Austrian’ versions of Jujutsu Kaisen characters live rent-free in my brain](https://www.polygon.com/23824993/jujutsu-kaisen-in-austria-tiktok-meme-yuji-megumi-nobara)
+ - [The funniest Baldur&#39;s Gate 3 moments and memes so far](https://www.pcgamer.com/the-funniest-baldurs-gate-3-moments-and-memes-so-far)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
