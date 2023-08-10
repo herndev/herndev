@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - ⏩ [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 💣 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - ⏩ [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 👉 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)<!-- MEMES:END -->
 
 ---
 
