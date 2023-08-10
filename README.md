@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Deepset, which helps companies build &quot;complex LLM applications&quot; and add NLP to apps, raised $30M led by Balderton, taking its total funding to $46M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230809/p35#a230809p35)
- - [Panasonic Warns That IoT Malware Attack Cycles Are Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
- - [Filing: the US SEC plans to appeal a court ruling in July that Ripple&#39;s programmatic sales of XRP to retail investors on exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230809/p34#a230809p34)<!-- TECH:END -->
+ - [Meta rolls out the ability to let users verify their Threads profile on other social media platforms, like Mastodon, using &quot;rel=me&quot; links &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230809/p36#a230809p36)
+ - [A Canadian woman says she has gotten over 50 Amazon packages she didn’t order](https://www.theverge.com/2023/8/9/23826501/amazon-unsolicited-shipments-canada-customs-fees)
+ - [This Costco membership deal delivers a free $30 gift card with Gold Star access](https://appleinsider.com/articles/23/08/09/this-costco-membership-deal-delivers-a-free-30-gift-card-with-gold-star-access?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
