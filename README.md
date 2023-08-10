@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
- - ⏩ [He was such a chad](http://9gag.com/gag/amAdmr6)
- - 👉 [Just steal from twitter trad](http://9gag.com/gag/aL1b4pv)<!-- MEMES:END -->
+ - 💣 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
+ - ⏩ [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 
