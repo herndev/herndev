@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Star Wars Stagnates, Star Trek Is Flourishing](https://kotaku.com/star-wars-vs-star-trek-musical-ahsoka-shows-movies-1850723080)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [Remnant 2&#39;s about to make it way easier to unlock its sneakily hidden archetypes on your alts](https://www.pcgamer.com/remnant-2s-about-to-make-it-way-easier-to-unlock-its-sneakily-hidden-archetypes-on-your-alts)<!-- GAME:END -->
+ - [Free Play Days – Assassin’s Creed IV Black Flag, Valhalla, The Ezio Collection, and The Elder Scrolls Online](https://news.xbox.com/en-us/2023/08/10/free-play-days-assassins-creed-valhalla-the-ezio-collection-black-flag-and-the-elder-scrolls-online/)
+ - [Animal Crossing Fans Find Secret &lpar;But Easy&rpar; Way To Double Money Years Later](https://kotaku.com/animal-crossing-new-horizons-donation-box-bells-hack-1850724575)
+ - [Twitch Star Kai Cenat Breaks Silence On Chaotic PS5 Giveaway](https://kotaku.com/kai-cenat-twitch-riot-ps5-giveaway-youtube-nyc-1850724543)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
