@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch Fans Worried Reaper Is Getting Deleted After Hoax](https://kotaku.com/overwatch-2-is-reaper-being-removed-a-farewell-tiktok-1850725688)
- - [Does Stray have secret or multiple endings?](https://www.polygon.com/guides/23272687/stray-ending-multiple-secret-how-does-it-end)
- - [Does the cat die in Stray?](https://www.polygon.com/guides/23269001/stray-cat-die-injury-fate)<!-- GAME:END -->
+ - [VTubers, explained](https://www.polygon.com/videos/2023/8/10/23827568/what-are-vtubers-explained)
+ - [Overwatch 2&#39;s New Content Drop Is Its &#39;Broadest&#39; Ever, Blizz Says](https://kotaku.com/overwatch-2-invasion-patch-notes-bundle-blizzard-1850725134)
+ - [We have some questions about this Wiglett plush](https://www.polygon.com/pokemon/23827459/wiglett-polygon-pokemon-plush-toys-gen-9-scarlet-violet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
