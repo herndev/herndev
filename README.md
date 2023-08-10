@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s link spam situation is so bad that Shorts is banning links](https://www.theverge.com/2023/8/10/23827231/youtube-shorts-comments-clickable-link-ban-spam-scams-phishing)
- - [US government pushes to fix the security flaws Lapsus$ hackers used to leak GTA VI](https://www.theverge.com/2023/8/10/23827143/lapsus-sim-swapping-mfa-cisa-rockstar-games-microsoft-nvidia-breach)
- - [OpenAI expands custom instructions, the details that ChatGPT needs to remember, to all users, after launching them in July 2023 in beta &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230810/p25#a230810p25)<!-- TECH:END -->
+ - [Sources: the Kremlin&#39;s fear of a serious tech brain drain is the main factor stopping a nationalization of Nasdaq-listed Yandex, which has over 20K employees &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p29#a230810p29)
+ - [Decoder merch has landed](https://www.theverge.com/23827313/decoder-merch-has-landed)
+ - [Would you spend $130,000 on a car without Android Auto?](https://www.androidauthority.com/car-without-android-auto-3354164/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
