@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you lose to a girl](http://9gag.com/gag/abvd4M8)
- - ⏩ [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
- - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
+ - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - ⏩ [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 👉 [Double standards rule the world](http://9gag.com/gag/adPdv79)<!-- MEMES:END -->
 
 ---
 
