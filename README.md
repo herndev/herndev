@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Symphony Technology Group agrees to acquire media editing software maker Avid for ~$1.4B, with the transaction expected to close in Q4 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230809/p37#a230809p37)
  - [Meta rolls out the ability to let users verify their Threads profile on other social media platforms, like Mastodon, using &quot;rel=me&quot; links &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230809/p36#a230809p36)
- - [A Canadian woman says she has gotten over 50 Amazon packages she didn’t order](https://www.theverge.com/2023/8/9/23826501/amazon-unsolicited-shipments-canada-customs-fees)
- - [This Costco membership deal delivers a free $30 gift card with Gold Star access](https://appleinsider.com/articles/23/08/09/this-costco-membership-deal-delivers-a-free-30-gift-card-with-gold-star-access?utm_medium=rss)<!-- TECH:END -->
+ - [A Canadian woman says she has gotten over 50 Amazon packages she didn’t order](https://www.theverge.com/2023/8/9/23826501/amazon-unsolicited-shipments-canada-customs-fees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
