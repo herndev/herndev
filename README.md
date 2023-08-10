@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [VTubers, explained](https://www.polygon.com/videos/2023/8/10/23827568/what-are-vtubers-explained)
- - [Overwatch 2&#39;s New Content Drop Is Its &#39;Broadest&#39; Ever, Blizz Says](https://kotaku.com/overwatch-2-invasion-patch-notes-bundle-blizzard-1850725134)
- - [We have some questions about this Wiglett plush](https://www.polygon.com/pokemon/23827459/wiglett-polygon-pokemon-plush-toys-gen-9-scarlet-violet)<!-- GAME:END -->
+ - [If you&#39;re playing Baldur&#39;s Gate 3 multiplayer, Larian&#39;s boss has advice on what to do with companions: ignore them](https://www.pcgamer.com/if-youre-playing-baldurs-gate-3-multiplayer-larians-boss-has-advice-on-what-to-do-with-companions-ignore-them)
+ - [After battling server issues, cozy MMO Palia enters open beta today](https://www.pcgamer.com/after-battling-server-issues-cozy-mmo-palia-enters-open-beta-today)
+ - [The 26-year-old Quake 2 just got the remaster of my dreams, plus a big expansion](https://www.pcgamer.com/quake-2-remaster-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
