@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows XP made to run on Vision Pro](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
- - [Alibaba reports Q1 revenue up 14% YoY to ~$32.2B, beating analyst estimates of ~$31.1B, and a ~$4.7B net income, as its core e-commerce arm returned to growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230810/p10#a230810p10)
- - [Yandex co-founder Arkady Volozh, who quit as CEO in June 2022, denounces Russia&#39;s Ukraine war as &quot;barbaric&quot;, as Yandex plans to spin off from its Dutch parent &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/230810/p9#a230810p9)<!-- TECH:END -->
+ - [Researchers: since 2014, Belarus-linked hackers, dubbed MoustachedBouncer, have targeted foreign diplomats in the country by intercepting ISP connections &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230810/p14#a230810p14)
+ - [Researchers at Black Hat detail a months-long investigation into Deckmate, the most widely used casino shuffling machine, finding a flaw to give &quot;full control&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230810/p13#a230810p13)
+ - [Lyft begins serving in-app ads to riders as they wait for rides, when they match with a driver, and during their trips, and plans to add video ads by year-end &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p12#a230810p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
