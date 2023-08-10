@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Gods’ superstar cast helped shape its soundtrack](https://www.polygon.com/gaming/23826289/stray-gods-the-roleplaying-musical-cast-critical-role-laura-bailey)
- - [Destiny 2 Taps Keith David As Zavala To Replace The Late Lance Reddick](https://kotaku.com/destiny-2-lance-reddick-keith-david-zavala-final-shape-1850725305)
- - [New Wiglett Pokémon Plush Looks A Lot Like Something Else](https://kotaku.com/pokemon-scarlet-violet-wiglett-plush-official-1850725214)<!-- GAME:END -->
+ - [Overwatch Fans Worried Reaper Is Getting Deleted After Hoax](https://kotaku.com/overwatch-2-is-reaper-being-removed-a-farewell-tiktok-1850725688)
+ - [Does Stray have secret or multiple endings?](https://www.polygon.com/guides/23272687/stray-ending-multiple-secret-how-does-it-end)
+ - [Does the cat die in Stray?](https://www.polygon.com/guides/23269001/stray-cat-die-injury-fate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
