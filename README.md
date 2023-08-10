@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)
- - [Lords of the Fallen sure is a Soulslike video game](https://www.polygon.com/23825971/lords-of-the-fallen-2023-classes-preview-upcoming-souls-like)
- - [God help us: The Pope suits up to go to war on AI](https://www.pcgamer.com/god-help-us-the-pope-suits-up-to-go-to-war-on-ai)<!-- GAME:END -->
+ - [As Star Wars Stagnates, Star Trek Is Flourishing](https://kotaku.com/star-wars-vs-star-trek-musical-ahsoka-shows-movies-1850723080)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [Remnant 2&#39;s about to make it way easier to unlock its sneakily hidden archetypes on your alts](https://www.pcgamer.com/remnant-2s-about-to-make-it-way-easier-to-unlock-its-sneakily-hidden-archetypes-on-your-alts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
