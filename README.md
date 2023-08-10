@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re playing Baldur&#39;s Gate 3 multiplayer, Larian&#39;s boss has advice on what to do with companions: ignore them](https://www.pcgamer.com/if-youre-playing-baldurs-gate-3-multiplayer-larians-boss-has-advice-on-what-to-do-with-companions-ignore-them)
- - [After battling server issues, cozy MMO Palia enters open beta today](https://www.pcgamer.com/after-battling-server-issues-cozy-mmo-palia-enters-open-beta-today)
- - [The 26-year-old Quake 2 just got the remaster of my dreams, plus a big expansion](https://www.pcgamer.com/quake-2-remaster-release)<!-- GAME:END -->
+ - [Baldur’s Gate 3&#39;s Narrator Outtakes Are A Critical Hit](https://kotaku.com/baldurs-gate-3-b3-dnd-narrator-outtakes-blooper-1850726724)
+ - [Kai Cenat finally addresses New York City giveaway riot: &#39;I&#39;m being hit with multiple charges&#39;](https://www.pcgamer.com/kai-cenat-finally-addresses-new-york-city-giveaway-riot-im-being-hit-with-multiple-charges)
+ - [Apple books exclusive access to TSMC&#39;s 3nm chipmaking capacity for a whole year](https://www.pcgamer.com/apple-books-exclusive-access-to-tsmcs-3nm-chipmaking-capacity-for-a-whole-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
