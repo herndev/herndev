@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Strange New Worlds’ season 2 finale would make ’90s Star Trek proud](https://www.polygon.com/23826278/star-trek-strange-new-worlds-season-3-finale-cliffhanger)
  - [Huge respect to the creator of the EVO 2023 fightstick so unwieldy they had to carry it around on their back](https://www.pcgamer.com/huge-respect-to-the-creator-of-the-evo-2023-fightstick-so-unwieldy-he-had-to-carry-it-around-on-his-back)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Sea of Stars, Moving Out 2, Destiny 2: The Witch Queen](https://blog.playstation.com/2023/08/10/20230810-ps-plus/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Sea of Stars, Moving Out 2, Destiny 2: The Witch Queen](https://blog.playstation.com/2023/08/10/20230810-ps-plus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
