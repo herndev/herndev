@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - ⏩ [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
- - 👉 [Busy being a weeb](http://9gag.com/gag/aZDdQZ9)<!-- MEMES:END -->
+ - 💣 [That&#39;s a true friend right there.](http://9gag.com/gag/a6qxD2R)
+ - ⏩ [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 👉 [Video recorded an hour before this two girls were killed at this same stop yesterday by Russian missile strike at the center of Zaporizhzha.](http://9gag.com/gag/aGEoM45)<!-- MEMES:END -->
 
 ---
 
