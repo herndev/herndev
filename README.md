@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Assassin’s Creed IV Black Flag, Valhalla, The Ezio Collection, and The Elder Scrolls Online](https://news.xbox.com/en-us/2023/08/10/free-play-days-assassins-creed-valhalla-the-ezio-collection-black-flag-and-the-elder-scrolls-online/)
- - [Animal Crossing Fans Find Secret &lpar;But Easy&rpar; Way To Double Money Years Later](https://kotaku.com/animal-crossing-new-horizons-donation-box-bells-hack-1850724575)
- - [Twitch Star Kai Cenat Breaks Silence On Chaotic PS5 Giveaway](https://kotaku.com/kai-cenat-twitch-riot-ps5-giveaway-youtube-nyc-1850724543)<!-- GAME:END -->
+ - [Twitch Streamer Quits Lewd Content To Protect Mental Health](https://kotaku.com/twitch-streamer-stpeach-onlyfans-health-amouranth-1850724922)
+ - [Fortnite Chapter 4 Season 3 character locations](https://www.polygon.com/fortnite-guide/23770138/chapter-4-season-3-character-npc-locations-map)
+ - [How to solve the Baldur&#39;s Gate 3 brain puzzle](https://www.pcgamer.com/baldurs-gate-3-brain-puzzle-solution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
