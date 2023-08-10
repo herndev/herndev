@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NuPhy Field75 Wireless Mechanical Gaming Keyboard review: Not your ordinary mechanical keyboard](https://appleinsider.com/articles/23/08/10/nuphy-field75-wireless-mechanical-gaming-keyboard-review-not-your-ordinary-mechanical-keyboard?utm_medium=rss)
- - [Samsung Galaxy Z Fold 5 review: powerful multitasking, new hinge folds flat, and good support, but still pricey, heavy, and clunky, with unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230810/p21#a230810p21)
- - [GM confirms $130,000 Cadillac Escalade IQ won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)<!-- TECH:END -->
+ - [Wacom’s new drawing tablets offer creative flexibility on a budget](https://www.theverge.com/2023/8/10/23825962/wacom-one-drawing-graphics-tablet-pen-display)
+ - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)
+ - [Keep Your Desk Organized With Over 50% Off This 13-in-1 Anker USB Hub     - CNET](https://www.cnet.com/deals/keep-your-desk-organized-with-over-50-off-this-13-in-1-anker-usb-hub/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
