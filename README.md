@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - ⏩ [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 👉 [Double standards rule the world](http://9gag.com/gag/adPdv79)<!-- MEMES:END -->
+ - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - ⏩ [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
 
 ---
 
