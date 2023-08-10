@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wacom’s new drawing tablets offer creative flexibility on a budget](https://www.theverge.com/2023/8/10/23825962/wacom-one-drawing-graphics-tablet-pen-display)
- - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)
- - [Keep Your Desk Organized With Over 50% Off This 13-in-1 Anker USB Hub     - CNET](https://www.cnet.com/deals/keep-your-desk-organized-with-over-50-off-this-13-in-1-anker-usb-hub/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s link spam situation is so bad that Shorts is banning links](https://www.theverge.com/2023/8/10/23827231/youtube-shorts-comments-clickable-link-ban-spam-scams-phishing)
+ - [US government pushes to fix the security flaws Lapsus$ hackers used to leak GTA VI](https://www.theverge.com/2023/8/10/23827143/lapsus-sim-swapping-mfa-cisa-rockstar-games-microsoft-nvidia-breach)
+ - [OpenAI expands custom instructions, the details that ChatGPT needs to remember, to all users, after launching them in July 2023 in beta &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230810/p25#a230810p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
