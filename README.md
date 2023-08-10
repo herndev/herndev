@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s taken more than 30 years, but Flashback 2 finally has a release date](https://www.pcgamer.com/its-taken-more-than-30-years-but-flashback-2-finally-has-a-release-date)
- - [In the face of player backlash, Dark and Darker developers say they may stop selling character classes](https://www.pcgamer.com/in-the-face-of-player-backlash-dark-and-darker-developers-say-they-may-stop-selling-character-classes)
- - [Disney raising prices on Disney Plus and Hulu ahead of account-sharing crackdown](https://www.polygon.com/23826505/disney-plus-hulu-price-increase-new-bundle)<!-- GAME:END -->
+ - [Larian founder responds to debate over Baldur&#39;s Gate 3 &#39;raising the bar&#39; for RPGs: &#39;this is videogames, standards just die every day&#39;](https://www.pcgamer.com/baldurs-gate-3-RPG-standards-swen-vincke-interview)
+ - [Electronic Arts is closing the servers for even more old games, including Dead Space 2, Crysis 3, and Mirror&#39;s Edge Catalyst](https://www.pcgamer.com/electronic-arts-is-closing-the-servers-for-even-more-old-games-including-dead-space-2-crysis-3-and-mirrors-edge-catalyst)
+ - [Baldur&#39;s Gate 3 wizard accidentally breaks the game by learning too many spells](https://www.pcgamer.com/baldurs-gate-3-wizard-accidentally-breaks-the-game-by-learning-too-many-spells)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
