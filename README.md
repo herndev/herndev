@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads plans to add several features this week: share posts to Instagram DMs, a mention button, and a way to add custom alt-text for media &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230810/p8#a230810p8)
- - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
- - [Google Docs and Drive are getting support for eSignatures](https://www.theverge.com/2023/8/10/23826970/google-docs-drive-esignature-support-beta)<!-- TECH:END -->
+ - [Windows XP made to run on Vision Pro](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
+ - [Alibaba reports Q1 revenue up 14% YoY to ~$32.2B, beating analyst estimates of ~$31.1B, and a ~$4.7B net income, as its core e-commerce arm returned to growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230810/p10#a230810p10)
+ - [Yandex co-founder Arkady Volozh, who quit as CEO in June 2022, denounces Russia&#39;s Ukraine war as &quot;barbaric&quot;, as Yandex plans to spin off from its Dutch parent &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/230810/p9#a230810p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
