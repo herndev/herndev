@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Android phone will now tell you if someone has planted an AirTag on you](https://www.androidauthority.com/android-unknown-tracker-alerts-rollout-3350756/)
  - [Some TikTok content creators are using AI to recreate the likeness of deceased or missing children, giving them &quot;voices&quot; to narrate what happened to them &lpar;Jennifer Hassan/Washington Post&rpar;](http://www.techmeme.com/230810/p6#a230810p6)
- - [X unveils Sensitivity Settings and Enhanced Blocklist to boost brand safety and control for advertisers, rolling out over the next few weeks in the Ads Manager &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/230810/p5#a230810p5)
- - [A profile of James Manyika, Google&#39;s first SVP of Technology and Society, who signed a statement warning AI poses a &quot;risk of extinction&quot; to humanity &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230810/p4#a230810p4)<!-- TECH:END -->
+ - [X unveils Sensitivity Settings and Enhanced Blocklist to boost brand safety and control for advertisers, rolling out over the next few weeks in the Ads Manager &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/230810/p5#a230810p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
