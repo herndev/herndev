@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - ⏩ [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
- - 👉 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)<!-- MEMES:END -->
+ - 💣 [It&#39;s comment section time !](http://9gag.com/gag/aQErvjd)
+ - ⏩ [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
+ - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
 
 ---
 
