@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s comment section time !](http://9gag.com/gag/aQErvjd)
- - ⏩ [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
- - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
+ - 💣 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - ⏩ [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)
+ - 👉 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)<!-- MEMES:END -->
 
 ---
 
