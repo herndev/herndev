@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Quits Lewd Content To Protect Mental Health](https://kotaku.com/twitch-streamer-stpeach-onlyfans-health-amouranth-1850724922)
- - [Fortnite Chapter 4 Season 3 character locations](https://www.polygon.com/fortnite-guide/23770138/chapter-4-season-3-character-npc-locations-map)
- - [How to solve the Baldur&#39;s Gate 3 brain puzzle](https://www.pcgamer.com/baldurs-gate-3-brain-puzzle-solution)<!-- GAME:END -->
+ - [Stray Gods’ superstar cast helped shape its soundtrack](https://www.polygon.com/gaming/23826289/stray-gods-the-roleplaying-musical-cast-critical-role-laura-bailey)
+ - [Destiny 2 Taps Keith David As Zavala To Replace The Late Lance Reddick](https://kotaku.com/destiny-2-lance-reddick-keith-david-zavala-final-shape-1850725305)
+ - [New Wiglett Pokémon Plush Looks A Lot Like Something Else](https://kotaku.com/pokemon-scarlet-violet-wiglett-plush-official-1850725214)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
