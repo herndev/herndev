@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The funniest Baldur&#39;s Gate 3 moments and memes so far](https://www.pcgamer.com/the-funniest-baldurs-gate-3-moments-and-memes-so-far)
  - [Larian founder responds to debate over Baldur&#39;s Gate 3 &#39;raising the bar&#39; for RPGs: &#39;this is videogames, standards just die every day&#39;](https://www.pcgamer.com/baldurs-gate-3-RPG-standards-swen-vincke-interview)
- - [Electronic Arts is closing the servers for even more old games, including Dead Space 2, Crysis 3, and Mirror&#39;s Edge Catalyst](https://www.pcgamer.com/electronic-arts-is-closing-the-servers-for-even-more-old-games-including-dead-space-2-crysis-3-and-mirrors-edge-catalyst)
- - [Baldur&#39;s Gate 3 wizard accidentally breaks the game by learning too many spells](https://www.pcgamer.com/baldurs-gate-3-wizard-accidentally-breaks-the-game-by-learning-too-many-spells)<!-- GAME:END -->
+ - [Electronic Arts is closing the servers for even more old games, including Dead Space 2, Crysis 3, and Mirror&#39;s Edge Catalyst](https://www.pcgamer.com/electronic-arts-is-closing-the-servers-for-even-more-old-games-including-dead-space-2-crysis-3-and-mirrors-edge-catalyst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
