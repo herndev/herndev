@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: since 2014, Belarus-linked hackers, dubbed MoustachedBouncer, have targeted foreign diplomats in the country by intercepting ISP connections &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230810/p14#a230810p14)
- - [Researchers at Black Hat detail a months-long investigation into Deckmate, the most widely used casino shuffling machine, finding a flaw to give &quot;full control&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230810/p13#a230810p13)
- - [Lyft begins serving in-app ads to riders as they wait for rides, when they match with a driver, and during their trips, and plans to add video ads by year-end &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p12#a230810p12)<!-- TECH:END -->
+ - [The Emmy Awards are officially delayed because of the writers and actors strikes](https://www.theverge.com/2023/8/10/23827049/emmy-awards-delay-writers-actors-strikes-date)
+ - [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)
+ - [Samsung Galaxy Z Fold 5 review: a little better is just good enough](https://www.theverge.com/23826325/samsung-galaxy-z-fold-5-review-screen-hinge-battery-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
