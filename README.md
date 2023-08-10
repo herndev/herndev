@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - ⏩ [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
+ - 💣 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
+ - ⏩ [President of South Africa is asked what he is going to do stop the killing of white farmers in his country](http://9gag.com/gag/avQDWwq)
+ - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
 
 ---
 
