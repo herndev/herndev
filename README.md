@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3&#39;s Narrator Outtakes Are A Critical Hit](https://kotaku.com/baldurs-gate-3-b3-dnd-narrator-outtakes-blooper-1850726724)
- - [Kai Cenat finally addresses New York City giveaway riot: &#39;I&#39;m being hit with multiple charges&#39;](https://www.pcgamer.com/kai-cenat-finally-addresses-new-york-city-giveaway-riot-im-being-hit-with-multiple-charges)
- - [Apple books exclusive access to TSMC&#39;s 3nm chipmaking capacity for a whole year](https://www.pcgamer.com/apple-books-exclusive-access-to-tsmcs-3nm-chipmaking-capacity-for-a-whole-year)<!-- GAME:END -->
+ - [Blizzard just dumped buckets of demons on Diablo 4 to make the endgame grind way less miserable](https://www.pcgamer.com/blizzard-just-dumped-buckets-of-demons-on-diablo-4-to-make-the-endgame-grind-way-less-miserable)
+ - [Quake II Remaster Out Now, Supports 8-Player &lpar;!&rpar; Splitscreen On Xbox/PC](https://kotaku.com/quake-2-remaster-steam-switch-quakecon-64-release-date-1850727131)
+ - [Richard Siken has always been a fanfic enthusiast](https://www.polygon.com/23827834/richard-siken-johnlock-fanfic-fandom-destiel-tumblr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
