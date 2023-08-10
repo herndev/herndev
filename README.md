@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Emmy Awards are officially delayed because of the writers and actors strikes](https://www.theverge.com/2023/8/10/23827049/emmy-awards-delay-writers-actors-strikes-date)
- - [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)
- - [Samsung Galaxy Z Fold 5 review: a little better is just good enough](https://www.theverge.com/23826325/samsung-galaxy-z-fold-5-review-screen-hinge-battery-camera)<!-- TECH:END -->
+ - [NuPhy Field75 Wireless Mechanical Gaming Keyboard review: Not your ordinary mechanical keyboard](https://appleinsider.com/articles/23/08/10/nuphy-field75-wireless-mechanical-gaming-keyboard-review-not-your-ordinary-mechanical-keyboard?utm_medium=rss)
+ - [Samsung Galaxy Z Fold 5 review: powerful multitasking, new hinge folds flat, and good support, but still pricey, heavy, and clunky, with unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230810/p21#a230810p21)
+ - [GM confirms $130,000 Cadillac Escalade IQ won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
