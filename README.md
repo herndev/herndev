@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard just dumped buckets of demons on Diablo 4 to make the endgame grind way less miserable](https://www.pcgamer.com/blizzard-just-dumped-buckets-of-demons-on-diablo-4-to-make-the-endgame-grind-way-less-miserable)
- - [Quake II Remaster Out Now, Supports 8-Player &lpar;!&rpar; Splitscreen On Xbox/PC](https://kotaku.com/quake-2-remaster-steam-switch-quakecon-64-release-date-1850727131)
- - [Richard Siken has always been a fanfic enthusiast](https://www.polygon.com/23827834/richard-siken-johnlock-fanfic-fandom-destiel-tumblr)<!-- GAME:END -->
+ - [Destiny 2 Taps Keith David As Zavala To Replace The Late Lance Reddick](https://kotaku.com/destiny-2-lance-reddick-keith-david-zavala-final-shape-1850725305)
+ - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison for criticizing Russia&#39;s invasion of Ukraine](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine)
+ - [Baldur&#39;s Gate 3 transmog mod won&#39;t make you choose between armor and drip](https://www.pcgamer.com/baldurs-gate-3-transmog-mod-wont-make-you-choose-between-armor-and-drip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
