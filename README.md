@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which offered YouTube ripping software, but continues to appeal a court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)
- - [The WGA’s labor contract negotiations with the AMPTP will resume this Friday](https://www.theverge.com/2023/8/10/23827633/wga-strike-amptp-negotiations-august-2023)
- - [How to turn off and delete your YouTube watch history](https://www.theverge.com/23827108/youtube-watch-history-google-how-to)<!-- TECH:END -->
+ - [The next Final Fantasy VII mobile game launches next month](https://www.theverge.com/2023/8/10/23827846/final-fantasy-vii-ever-crisis-mobile-game-ios-android-release-date)
+ - [Filing: Bittrex agrees to pay $24M to settle US SEC claims that the crypto exchange failed to register with the agency; Bittrex doesn&#39;t admit to the allegations &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p34#a230810p34)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
