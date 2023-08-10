@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)
- - ⏩ [Would.](http://9gag.com/gag/a4oxzy6)
- - 👉 [Why?](http://9gag.com/gag/ay2z43b)<!-- MEMES:END -->
+ - 💣 [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - ⏩ [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 👉 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)<!-- MEMES:END -->
 
 ---
 
