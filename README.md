@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Sea of Stars, Moving Out 2, Destiny 2: The Witch Queen](https://blog.playstation.com/2023/08/10/20230810-ps-plus/)
- - [A quarterly uptick in CPU shipments provides a spark of optimism for the PC market](https://www.pcgamer.com/a-quarterly-uptick-in-cpu-shipments-provides-a-spark-of-optimism-for-the-pc-market)
- - [Today&#39;s Wordle hint and answer #782: Thursday, August 10](https://www.pcgamer.com/wordle-answer-today-hint-782-august-10)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Sea of Stars, Moving Out 2, Destiny 2: The Witch Queen](https://blog.playstation.com/2023/08/10/20230810-ps-plus/)
+ - [A quarterly uptick in CPU shipments provides a spark of optimism for the PC market](https://www.pcgamer.com/a-quarterly-uptick-in-cpu-shipments-provides-a-spark-of-optimism-for-the-pc-market)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
