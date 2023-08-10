@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - ⏩ [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
- - 👉 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)<!-- MEMES:END -->
+ - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - ⏩ [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
+ - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
 
 ---
 
