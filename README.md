@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - ⏩ [Thoughts?](http://9gag.com/gag/anzdRzE)
- - 👉 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)<!-- MEMES:END -->
+ - 💣 [When you lose to a girl](http://9gag.com/gag/abvd4M8)
+ - ⏩ [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - 👉 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)<!-- MEMES:END -->
 
 ---
 
