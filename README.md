@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange New Worlds’ season 2 finale would make ’90s Star Trek proud](https://www.polygon.com/23826278/star-trek-strange-new-worlds-season-3-finale-cliffhanger)
- - [Huge respect to the creator of the EVO 2023 fightstick so unwieldy they had to carry it around on their back](https://www.pcgamer.com/huge-respect-to-the-creator-of-the-evo-2023-fightstick-so-unwieldy-he-had-to-carry-it-around-on-his-back)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Sea of Stars, Moving Out 2, Destiny 2: The Witch Queen](https://blog.playstation.com/2023/08/10/20230810-ps-plus/)<!-- GAME:END -->
+ - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)
+ - [Lords of the Fallen sure is a Soulslike video game](https://www.polygon.com/23825971/lords-of-the-fallen-2023-classes-preview-upcoming-souls-like)
+ - [God help us: The Pope suits up to go to war on AI](https://www.pcgamer.com/god-help-us-the-pope-suits-up-to-go-to-war-on-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
