@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - ⏩ [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 👉 [Double standards rule the world](http://9gag.com/gag/adPdv79)<!-- MEMES:END -->
+ - 💣 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
+ - ⏩ [He was such a chad](http://9gag.com/gag/amAdmr6)
+ - 👉 [Just steal from twitter trad](http://9gag.com/gag/aL1b4pv)<!-- MEMES:END -->
 
 ---
 
