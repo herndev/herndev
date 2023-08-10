@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack wants to make itself a better place for readers, not just writers](https://www.theverge.com/2023/8/10/23827490/substack-better-readers-writers-newsletters)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [&#39;Final Fantasy VII Ever Crisis&#39; releases on iOS on September 7](https://appleinsider.com/articles/23/08/10/final-fantasy-vii-ever-crisis-releases-on-ios-on-september-7?utm_medium=rss)<!-- TECH:END -->
+ - [Latest Intel and AMD vulnerabilities a gentle reminder to switch to Apple silicon](https://appleinsider.com/articles/23/08/10/latest-intel-and-amd-vulnerabilities-a-gentle-reminder-to-switch-to-apple-silicon?utm_medium=rss)
+ - [NFL Ups Price of NFL Plus, Adds RedZone Channel to Premium Plan     - CNET](https://www.cnet.com/tech/services-and-software/nfl-ups-price-of-nfl-plus-adds-redzone-channel-to-premium-plan/#ftag=CAD590a51e)
+ - [Get as Many Cats to Sleep as You Can in This Apple Arcade Game     - CNET](https://www.cnet.com/tech/gaming/get-as-many-cats-to-sleep-as-you-can-in-this-apple-arcade-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
