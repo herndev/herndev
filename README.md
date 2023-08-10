@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Kremlin&#39;s fear of a serious tech brain drain is the main factor stopping a nationalization of Nasdaq-listed Yandex, which has over 20K employees &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p29#a230810p29)
- - [Decoder merch has landed](https://www.theverge.com/23827313/decoder-merch-has-landed)
- - [Would you spend $130,000 on a car without Android Auto?](https://www.androidauthority.com/car-without-android-auto-3354164/)<!-- TECH:END -->
+ - [Sources: ByteDance&#39;s revenue in China grew 25% YoY in 2022 to $69B, vs. 68% in 2021; overseas revenue grew from $6.5B in 2021 to $16B in 2022, thanks to TikTok &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/230810/p30#a230810p30)
+ - [FEC could limit AI in political ads ahead of 2024](https://www.theverge.com/2023/8/10/23827399/ai-artificial-intelligence-political-ads-fec-desantis-rnc)
+ - [Quake II is getting the remaster treatment](https://www.theverge.com/2023/8/10/23827253/quake-ii-remaster-price-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
