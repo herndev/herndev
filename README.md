@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a true friend right there.](http://9gag.com/gag/a6qxD2R)
- - ⏩ [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 👉 [Video recorded an hour before this two girls were killed at this same stop yesterday by Russian missile strike at the center of Zaporizhzha.](http://9gag.com/gag/aGEoM45)<!-- MEMES:END -->
+ - 💣 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
+ - ⏩ [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
+ - 👉 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)<!-- MEMES:END -->
 
 ---
 
