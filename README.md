@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - ⏩ [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - 👉 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)<!-- MEMES:END -->
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aeQdVyb)
+ - ⏩ [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
+ - 👉 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)<!-- MEMES:END -->
 
 ---
 
