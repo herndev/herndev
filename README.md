@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
- - ⏩ [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
- - 👉 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)<!-- MEMES:END -->
+ - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - ⏩ [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
+ - 👉 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)<!-- MEMES:END -->
 
 ---
 
