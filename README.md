@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - ⏩ [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
- - 👉 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)<!-- MEMES:END -->
+ - 💣 [Assuming there is power](http://9gag.com/gag/aPgpQMB)
+ - ⏩ [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
+ - 👉 [Go woke go broke](http://9gag.com/gag/aDYPZgK)<!-- MEMES:END -->
 
 ---
 
