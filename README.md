@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
- - ⏩ [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)
- - 👉 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)<!-- MEMES:END -->
+ - 💣 [The whale was not happy to be called out](http://9gag.com/gag/a1PxVXP)
+ - ⏩ [Something to make your day](http://9gag.com/gag/aPgpQRV)
+ - 👉 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)<!-- MEMES:END -->
 
 ---
 
