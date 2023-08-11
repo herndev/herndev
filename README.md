@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Watch 6 Classic bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-classic-bands-3354332/)
- - [Smell Your Way Out of the Uncanny Valley](https://www.wired.com/story/scentient-smell-virtual-reality/)
- - [WhatsApp is getting the ability to schedule group calls](https://www.androidauthority.com/whatsapp-schedule-calls-3354392/)<!-- TECH:END -->
+ - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
+ - [Xiaomi’s next phone has double the RAM and storage of the best Pixel 7 Pro](https://www.androidauthority.com/xiaomi-redmi-k60-extreme-edition-launch-3354016/)
+ - [Google could soon offer Apple-style cross-device integration](https://www.androidauthority.com/google-link-android-devices-together-leak-3354408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
