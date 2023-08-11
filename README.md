@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
- - [Rockstar officially teams up with GTA V roleplay server developer](https://www.theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server)
- - [Why fire is a growing risk in Hawaii](https://www.theverge.com/23828560/maui-hawaii-fire-risk-adaptation-expert-q-a)<!-- TECH:END -->
+ - [Flash deal: Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
+ - [GitHub’s Hardcore Plan to Roll Out Two-Factor Authentication &lpar;2FA&rpar;](https://www.wired.com/story/github-two-factor-authentication/)
+ - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
