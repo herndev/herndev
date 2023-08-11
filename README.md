@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
- - ⏩ [New Snow White Movie](http://9gag.com/gag/axoAPjY)
- - 👉 [Judgement day](http://9gag.com/gag/aGEoAgn)<!-- MEMES:END -->
+ - 💣 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)
+ - ⏩ [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 👉 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)<!-- MEMES:END -->
 
 ---
 
