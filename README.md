@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 is the co-op RPG I’ve been waiting for](https://www.polygon.com/23827417/baldurs-gate-3-co-op-campaign-tabletop-rpg)
- - [Overwatch 2 Steam launch flooded with negative user reviews](https://www.polygon.com/23828688/overwatch-2-steam-reviews-player-count-user)
- - [How to solve the Rosymorn Monastery puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-rosymorn-monastery-puzzle)<!-- GAME:END -->
+ - [Report: Jeopardy! Players Turn Down Rare Opportunity To Return, With Good Reason](https://kotaku.com/jeopardy-wga-strike-picket-line-crossing-season-40-1850729606)
+ - [How to get past the Githyanki Barrier in the Captain’s Quarters](https://www.polygon.com/baldurs-gate-3-guides/23828549/githyanki-barrier-shard-captains-quarters-creche-bg3)
+ - [How to find the Blood of Lathander in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23827556/find-blood-lathander-rosymorn-monastery-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
