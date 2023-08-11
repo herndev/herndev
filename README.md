@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Slides is getting native support for annotations](https://www.theverge.com/2023/8/11/23828306/google-slides-annotations-feature)
- - [DCG and Barry Silbert file a motion to dismiss Gemini&#39;s fraud lawsuit, claiming Gemini fails to properly claim fraud and engages in &quot;character assassination&quot; &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230811/p2#a230811p2)
- - [Here’s why Twitter’s new leadership changed its name to X](https://www.androidauthority.com/twitter-x-name-change-reason-3354432/)<!-- TECH:END -->
+ - [Sources and docs detail Worldcoin&#39;s struggle to define its purpose, the orb not scanning Asian people, a flaw allowing multiple signups per person, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230811/p4#a230811p4)
+ - [Microsoft shuts down Cortana app on Windows 11](https://www.theverge.com/2023/8/11/23828311/microsoft-shuts-down-cortana-windows-11)
+ - [Google could make these hardware requirements mandatory for foldables](https://www.androidauthority.com/google-foldable-phone-requirements-standards-3354437/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
