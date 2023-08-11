@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to connect 127 USB devices to your PC. Kinda...](https://www.pcgamer.com/how-to-connect-127-usb-devices-to-your-pc-kinda)
- - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)
- - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 14 to August 18](https://news.xbox.com/en-us/2023/08/11/next-week-on-xbox-new-games-for-august-14-to-august-18/)
+ - [Rockstar just made a big investment in the Grand Theft Auto role-playing scene](https://www.polygon.com/23828445/gta-5-mods-roleplay-red-dead-rockstar-fivem-redm)
+ - [Samsung’s 512 GB microSD card is a sweet deal at $34.99](https://www.polygon.com/deals/2023/8/11/23828443/512-gb-microsd-card-switch-steam-deck-asus-rog-ally-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
