@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If A PS5 Slim Is Coming, This Is Probably What It Looks Like](https://kotaku.com/ps5-slim-pro-leaks-disk-drive-images-video-sony-1850731008)
- - [Roblox Will Soon Start To Interview Some Job Seekers In-Game](https://kotaku.com/roblox-interviews-job-employees-metaverse-career-center-1850730848)
- - [A new South Park game is coming in 2024 and this time it&#39;s not an RPG](https://www.pcgamer.com/a-new-south-park-game-is-coming-in-2024-and-this-time-its-not-an-rpg)<!-- GAME:END -->
+ - [Across the Spider-Verse, Asteroid City, and every new movie to watch at home this weekend](https://www.polygon.com/2023/8/11/23822772/new-movies-watch-across-spider-verse-netflix-heart-of-stone)
+ - [After 25 years this strategy city builder series is finally getting official mod support](https://www.pcgamer.com/after-25-years-this-strategy-city-builder-series-is-finally-getting-official-mod-support)
+ - [If A PS5 Slim Is Coming, This Is Probably What It Looks Like](https://kotaku.com/ps5-slim-pro-leaks-disk-drive-images-video-sony-1850731008)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
