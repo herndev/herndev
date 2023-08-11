@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The whale was not happy to be called out](http://9gag.com/gag/a1PxVXP)
- - ⏩ [Something to make your day](http://9gag.com/gag/aPgpQRV)
- - 👉 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)<!-- MEMES:END -->
+ - 💣 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
+ - ⏩ [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
+ - 👉 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)<!-- MEMES:END -->
 
 ---
 
