@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - ⏩ [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 👉 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)<!-- MEMES:END -->
+ - 💣 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
+ - ⏩ [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 👉 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)<!-- MEMES:END -->
 
 ---
 
