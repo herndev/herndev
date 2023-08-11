@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2&#39;s Steam release means players can finally review it, and it&#39;s not going so well](https://www.pcgamer.com/overwatch-2s-steam-release-means-players-can-finally-review-it-and-its-not-going-so-well)
  - [Papers, Please celebrates 10th anniversary with a retro LCD demake, merch, and a big donation](https://www.pcgamer.com/papers-please-celebrates-10th-anniversary-with-retro-lcd-version-merch-and-a-big-donation)
- - [Destiny 2 Taps Keith David As Zavala To Replace The Late Lance Reddick](https://kotaku.com/destiny-2-lance-reddick-keith-david-zavala-final-shape-1850725305)
- - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison for criticizing Russia&#39;s invasion of Ukraine](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine)<!-- GAME:END -->
+ - [Destiny 2 Taps Keith David As Zavala To Replace The Late Lance Reddick](https://kotaku.com/destiny-2-lance-reddick-keith-david-zavala-final-shape-1850725305)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
