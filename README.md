@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We brought a third into our marriage and it’s Astarion](https://www.polygon.com/23827294/baldurs-gate-3-couples-game)
- - [AMD rolls out limited edition Starfield 7800X3D CPUs and 7900 XTX GPUs but you can&#39;t buy one](https://www.pcgamer.com/amd-rolls-out-limited-edition-starfield-7800x3d-cpus-and-7900-xtx-gpus-but-you-cant-buy-one)
- - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)<!-- GAME:END -->
+ - [Crash Team Rumble is Available to Try for Free](https://news.xbox.com/en-us/2023/08/11/crash-team-rumble-free-trial/)
+ - [Overwatch 2 Steam Reviews Are Predictably Brutal, Say Porn Is The Best Part](https://kotaku.com/steam-overwatch-2-patch-notes-season-6-battle-pass-1850729064)
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
