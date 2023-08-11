@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)
- - ⏩ [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
- - 👉 [What is love?](http://9gag.com/gag/aZDdEr6)<!-- MEMES:END -->
+ - 💣 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
+ - ⏩ [Meme material](http://9gag.com/gag/armdAL0)
+ - 👉 [Go woke go broke](http://9gag.com/gag/aDYPZgK)<!-- MEMES:END -->
 
 ---
 
