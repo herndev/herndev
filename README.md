@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
- - ⏩ [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
- - 👉 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)<!-- MEMES:END -->
+ - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
+ - ⏩ [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
 
 ---
 
