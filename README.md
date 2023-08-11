@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers deployed exposed Windows servers as honeypots for hackers, recording 190M events and 100 hours of video of their actions, like installing malware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230810/p38#a230810p38)
  - [Cruise and Waymo Robotaxis Can Now Work the Streets of San Francisco 24/7](https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/)
- - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)
- - [Oracle, SUSE, and CIQ launch the Open Enterprise Linux Association to foster RHEL-based distributions development, after Red Hat limited RHEL source code access &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230810/p36#a230810p36)<!-- TECH:END -->
+ - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
