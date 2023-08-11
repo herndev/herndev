@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - ⏩ [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
- - 👉 [Wood](http://9gag.com/gag/aGEo2dX)<!-- MEMES:END -->
+ - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
+ - ⏩ [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 👉 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)<!-- MEMES:END -->
 
 ---
 
