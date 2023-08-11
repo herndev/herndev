@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-1/)
- - [Apple’s 14-inch MacBook Pro with M2 Pro is up to $300 off right now](https://www.theverge.com/2023/8/11/23391418/apple-macbook-pro-m2-playstation-gift-card-resident-evil-bundle-deal-sale)
- - [Bose’s next flagship headphones could add premium flair to the QuietComfort formula](https://www.theverge.com/2023/8/11/23828437/bose-quietcomfort-ultra-headphones-earbuds-leak)<!-- TECH:END -->
+ - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
+ - [Rockstar officially teams up with GTA V roleplay server developer](https://www.theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server)
+ - [Why fire is a growing risk in Hawaii](https://www.theverge.com/23828560/maui-hawaii-fire-risk-adaptation-expert-q-a)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
