@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
- - ⏩ [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 👉 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)<!-- MEMES:END -->
+ - 💣 [I&#39;m sorry for the new normal world](http://9gag.com/gag/avQDv0q)
+ - ⏩ [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
+ - 👉 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)<!-- MEMES:END -->
 
 ---
 
