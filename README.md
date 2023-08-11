@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)
- - [Fitbit Versa 5: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-versa-5-3353901/)
- - [Here’s how US carriers are helping customers after Maui fires](https://www.androidauthority.com/us-carriers-maui-wildfires-3354463/)<!-- TECH:END -->
+ - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
+ - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)
+ - [iPhone 15 Pro &amp; A17 details, Maui family saved, and an iPhone repair debacle on the AppleInsider podcast](https://appleinsider.com/articles/23/08/11/iphone-15-pro-a17-details-maui-family-saved-and-an-iphone-repair-debacle-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
