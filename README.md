@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like Android is getting a Continuity-like device-linking feature](https://www.theverge.com/2023/8/11/23828307/google-android-device-link-apple-continuity-call-sharing)
- - [Sources and docs detail Worldcoin&#39;s struggle to define its purpose, the orb not scanning Asian people, a flaw allowing multiple signups per person, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230811/p4#a230811p4)
- - [Microsoft shuts down Cortana app on Windows 11](https://www.theverge.com/2023/8/11/23828311/microsoft-shuts-down-cortana-windows-11)<!-- TECH:END -->
+ - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)
+ - [Fitbit Versa 5: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-versa-5-3353901/)
+ - [Here’s how US carriers are helping customers after Maui fires](https://www.androidauthority.com/us-carriers-maui-wildfires-3354463/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
