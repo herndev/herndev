@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian&#39;s had to patch Baldur&#39;s Gate 3&#39;s save files to be infinite size, &#39;to account for the sheer amount of things you’re all doing on your journeys&#39;](https://www.pcgamer.com/larians-had-to-patch-baldurs-gate-3s-save-files-to-be-infinite-size-to-account-for-the-sheer-amount-of-things-youre-all-doing-on-your-journeys)
- - [Grab Nvidia&#39;s new Baldur&#39;s Gate 3 driver for your GeForce GPU](https://www.pcgamer.com/grab-nvidias-new-baldurs-gate-3-driver-for-your-geforce-gpu)
- - [Seagate FireCuda 540 review](https://www.pcgamer.com/seagate-firecuda-540-pcie-5-ssd-review)<!-- GAME:END -->
+ - [Roblox wants you to interview inside Roblox to work at Roblox](https://www.pcgamer.com/roblox-wants-you-to-interview-inside-roblox-to-work-at-roblox)
+ - [Wonder Woman 3 isn’t happening, even though Gal Gadot thinks it is](https://www.polygon.com/23828340/wonder-woman-3-gal-gadot-dcu)
+ - [Asus ROG Strix Scope II 96 Wireless review](https://www.pcgamer.com/asus-rog-strix-scope-ii-96-wireless-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
