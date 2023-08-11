@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the Bose QuietComfort Ultra headphones — now with spatial audio](https://www.theverge.com/2023/8/11/23828738/bose-quietcomfort-ultra-headphones-photos-features)
- - [Nearly 400 sickos have beaten Baldur’s Gate 3 already](https://www.theverge.com/2023/8/11/23828635/baldurs-gate-3-player-stats-larian-studios)
- - [Zoom updates its terms of service and a recent blog post to explicitly say that &quot;communications-like customer content&quot; won&#39;t be used to train AI models &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230811/p10#a230811p10)<!-- TECH:END -->
+ - [What cash discounts tell us about payment defaults](https://www.theverge.com/2023/8/11/23828662/cash-atm-credit-cards-defaults-discount)
+ - [Field workers can tap their phones and access AI.](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers)
+ - [Apple is winding down its classic iTunes Movie Trailers app](https://www.theverge.com/2023/8/11/23828718/apple-classic-itunes-movie-trailers-app-winding-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
