@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Jeopardy! Players Turn Down Rare Opportunity To Return, With Good Reason](https://kotaku.com/jeopardy-wga-strike-picket-line-crossing-season-40-1850729606)
- - [How to get past the Githyanki Barrier in the Captain’s Quarters](https://www.polygon.com/baldurs-gate-3-guides/23828549/githyanki-barrier-shard-captains-quarters-creche-bg3)
- - [How to find the Blood of Lathander in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23827556/find-blood-lathander-rosymorn-monastery-walkthrough)<!-- GAME:END -->
+ - [Ridiculous Fishing EX is a perfect arcade remix](https://www.polygon.com/sub-gems/23827314/ridiculous-fishing-ex-apple-arcade)
+ - [Pokémon Tourney Cracks Down On Hacked Monsters, Disqualifies Tons Of Players](https://kotaku.com/pokemon-scarlet-violet-world-championship-hack-cheat-1850729929)
+ - [Rockstar buys the makers of the GTA Online FiveM mod it banned 8 years ago](https://www.pcgamer.com/rockstar-buys-the-makers-of-the-gta-online-fivem-mod-it-banned-8-years-ago)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
