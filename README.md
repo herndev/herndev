@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - ⏩ [Meme material](http://9gag.com/gag/armdAL0)
+ - 💣 [7 days &gt; 1 night](http://9gag.com/gag/aPgpQnn)
+ - ⏩ [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
  - 👉 [Go woke go broke](http://9gag.com/gag/aDYPZgK)<!-- MEMES:END -->
 
 ---
