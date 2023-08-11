@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
- - [Xiaomi’s next phone has double the RAM and storage of the best Pixel 7 Pro](https://www.androidauthority.com/xiaomi-redmi-k60-extreme-edition-launch-3354016/)
- - [Google could soon offer Apple-style cross-device integration](https://www.androidauthority.com/google-link-android-devices-together-leak-3354408/)<!-- TECH:END -->
+ - [Google Slides is getting native support for annotations](https://www.theverge.com/2023/8/11/23828306/google-slides-annotations-feature)
+ - [DCG and Barry Silbert file a motion to dismiss Gemini&#39;s fraud lawsuit, claiming Gemini fails to properly claim fraud and engages in &quot;character assassination&quot; &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230811/p2#a230811p2)
+ - [Here’s why Twitter’s new leadership changed its name to X](https://www.androidauthority.com/twitter-x-name-change-reason-3354432/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
