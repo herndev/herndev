@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
- - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)
- - [iPhone 15 Pro &amp; A17 details, Maui family saved, and an iPhone repair debacle on the AppleInsider podcast](https://appleinsider.com/articles/23/08/11/iphone-15-pro-a17-details-maui-family-saved-and-an-iphone-repair-debacle-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [X lowers eligibility threshold for ads revenue sharing from 15M to 5M impressions within the past 3 months; Musk says only views from &quot;verified handles&quot; count &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230811/p7#a230811p7)
+ - [Daily deals Aug. 11: Mac Studio $1,299, AirPods Max $370, $1,500 off MacBook Pro, $99 Apple Magic Keyboard, more](https://appleinsider.com/articles/23/08/11/daily-deals-aug-11-mac-studio-1299-airpods-max-370-1500-off-macbook-pro-99-apple-magic-keyboard-more?utm_medium=rss)
+ - [Best Soundbar Deals: Up to $258 Off Models From Big Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
