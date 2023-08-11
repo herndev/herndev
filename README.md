@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
- - ⏩ [Straight to jail](http://9gag.com/gag/abvd2xO)
- - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
+ - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
+ - ⏩ [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
+ - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
 
 ---
 
