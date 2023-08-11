@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aeQdVyb)
- - ⏩ [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
- - 👉 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)<!-- MEMES:END -->
+ - 💣 [From the director who saw John Wick](http://9gag.com/gag/a2Kxb7p)
+ - ⏩ [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
+ - 👉 [Judgement day](http://9gag.com/gag/aGEoAgn)<!-- MEMES:END -->
 
 ---
 
