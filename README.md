@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami vs. Charlotte on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-charlotte-on-mls-season-pass-today/#ftag=CAD590a51e)
  - [PS5 Slim appears to leak in video, and it’s not very slim](https://www.androidauthority.com/sony-ps5-slim-leaked-video-3354601/)
- - [SEC filing: Better.com plans to go public via a SPAC merger, raising $750M, after initially planning a $6B SPAC in May 2021 &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)
- - [Is this the PS5 Slim?](https://www.theverge.com/2023/8/11/23829084/sony-playstation-5-ps5-slim-model-leak-rumors)<!-- TECH:END -->
+ - [SEC filing: NYC-based digital lender Better.com plans to go public via a SPAC merger, raising $750M, after announcing plans in May 2021 for a $7.7B SPAC merger &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
