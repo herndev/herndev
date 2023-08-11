@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ridiculous Fishing EX is a perfect arcade remix](https://www.polygon.com/sub-gems/23827314/ridiculous-fishing-ex-apple-arcade)
- - [Pokémon Tourney Cracks Down On Hacked Monsters, Disqualifies Tons Of Players](https://kotaku.com/pokemon-scarlet-violet-world-championship-hack-cheat-1850729929)
- - [Rockstar buys the makers of the GTA Online FiveM mod it banned 8 years ago](https://www.pcgamer.com/rockstar-buys-the-makers-of-the-gta-online-fivem-mod-it-banned-8-years-ago)<!-- GAME:END -->
+ - [I can&#39;t believe 35% of Baldur&#39;s Gate 3 players already took the evil route](https://www.pcgamer.com/i-cant-believe-35-of-baldurs-gate-3-players-already-took-the-evil-route)
+ - [Baldur&#39;s Gate 3&#39;s biggest hotfix yet addresses more than 200 issues and makes your dog a better digger](https://www.pcgamer.com/baldurs-gate-3s-biggest-hotfix-yet-addresses-more-than-200-issues-and-makes-your-dog-a-better-digger)
+ - [Lords Of The Fallen Reboot Is Sounding Like A Solid Soulslike](https://kotaku.com/lords-fallen-preview-fromsoftware-dark-souls-elden-ring-1850730419)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
