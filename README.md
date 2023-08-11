@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X lowers eligibility threshold for ads revenue sharing from 15M to 5M impressions within the past 3 months; Musk says only views from &quot;verified handles&quot; count &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230811/p7#a230811p7)
- - [Daily deals Aug. 11: Mac Studio $1,299, AirPods Max $370, $1,500 off MacBook Pro, $99 Apple Magic Keyboard, more](https://appleinsider.com/articles/23/08/11/daily-deals-aug-11-mac-studio-1299-airpods-max-370-1500-off-macbook-pro-99-apple-magic-keyboard-more?utm_medium=rss)
- - [Best Soundbar Deals: Up to $258 Off Models From Big Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-1/)
+ - [Apple’s 14-inch MacBook Pro with M2 Pro is up to $300 off right now](https://www.theverge.com/2023/8/11/23391418/apple-macbook-pro-m2-playstation-gift-card-resident-evil-bundle-deal-sale)
+ - [Bose’s next flagship headphones could add premium flair to the QuietComfort formula](https://www.theverge.com/2023/8/11/23828437/bose-quietcomfort-ultra-headphones-earbuds-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
