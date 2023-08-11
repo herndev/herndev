@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What cash discounts tell us about payment defaults](https://www.theverge.com/2023/8/11/23828662/cash-atm-credit-cards-defaults-discount)
- - [Field workers can tap their phones and access AI.](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers)
- - [Apple is winding down its classic iTunes Movie Trailers app](https://www.theverge.com/2023/8/11/23828718/apple-classic-itunes-movie-trailers-app-winding-down)<!-- TECH:END -->
+ - [Real-world photos of the Bose QuietComfort Ultra leak with new details](https://www.androidauthority.com/bose-quietcomfort-ultra-headphone-photos-3354573/)
+ - [A US judge revokes SBF&#39;s bail after the DOJ accused him of tampering with witnesses, such as by sharing former Alameda CEO Caroline Ellison&#39;s diary with the NYT &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230811/p11#a230811p11)
+ - [ASUS ROG Phone 8: Release date, price, specs, rumors, and what we hope to see](https://www.androidauthority.com/asus-rog-phone-8-3353396/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
