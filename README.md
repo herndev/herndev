@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 14 to August 18](https://news.xbox.com/en-us/2023/08/11/next-week-on-xbox-new-games-for-august-14-to-august-18/)
- - [Rockstar just made a big investment in the Grand Theft Auto role-playing scene](https://www.polygon.com/23828445/gta-5-mods-roleplay-red-dead-rockstar-fivem-redm)
- - [Samsung’s 512 GB microSD card is a sweet deal at $34.99](https://www.polygon.com/deals/2023/8/11/23828443/512-gb-microsd-card-switch-steam-deck-asus-rog-ally-deal)<!-- GAME:END -->
+ - [We brought a third into our marriage and it’s Astarion](https://www.polygon.com/23827294/baldurs-gate-3-couples-game)
+ - [AMD rolls out limited edition Starfield 7800X3D CPUs and 7900 XTX GPUs but you can&#39;t buy one](https://www.pcgamer.com/amd-rolls-out-limited-edition-starfield-7800x3d-cpus-and-7900-xtx-gpus-but-you-cant-buy-one)
+ - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
