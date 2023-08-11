@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crash Team Rumble is Available to Try for Free](https://news.xbox.com/en-us/2023/08/11/crash-team-rumble-free-trial/)
- - [Overwatch 2 Steam Reviews Are Predictably Brutal, Say Porn Is The Best Part](https://kotaku.com/steam-overwatch-2-patch-notes-season-6-battle-pass-1850729064)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)<!-- GAME:END -->
+ - [Baldur’s Gate 3 is the co-op RPG I’ve been waiting for](https://www.polygon.com/23827417/baldurs-gate-3-co-op-campaign-tabletop-rpg)
+ - [Overwatch 2 Steam launch flooded with negative user reviews](https://www.polygon.com/23828688/overwatch-2-steam-reviews-player-count-user)
+ - [How to solve the Rosymorn Monastery puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-rosymorn-monastery-puzzle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
