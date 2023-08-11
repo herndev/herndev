@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t believe 35% of Baldur&#39;s Gate 3 players already took the evil route](https://www.pcgamer.com/i-cant-believe-35-of-baldurs-gate-3-players-already-took-the-evil-route)
- - [Baldur&#39;s Gate 3&#39;s biggest hotfix yet addresses more than 200 issues and makes your dog a better digger](https://www.pcgamer.com/baldurs-gate-3s-biggest-hotfix-yet-addresses-more-than-200-issues-and-makes-your-dog-a-better-digger)
- - [Lords Of The Fallen Reboot Is Sounding Like A Solid Soulslike](https://kotaku.com/lords-fallen-preview-fromsoftware-dark-souls-elden-ring-1850730419)<!-- GAME:END -->
+ - [Activision Sues Popular YouTube Music Critic After He Tried Charging For TikTok Clip [Update: The Suit&#39;s Been Dropped]](https://kotaku.com/activision-blizzard-anthony-needledrop-fantano-lawsuit-1850687909)
+ - [Nintendo Is Trying To Patent Some Really Broad Tears Of The Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
+ - [Only a few hundred people finished Baldur&#39;s Gate 3 in its first weekend](https://www.pcgamer.com/only-a-few-hundred-people-finished-baldurs-gate-3-in-its-first-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
