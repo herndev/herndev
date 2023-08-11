@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox wants you to interview inside Roblox to work at Roblox](https://www.pcgamer.com/roblox-wants-you-to-interview-inside-roblox-to-work-at-roblox)
- - [Wonder Woman 3 isn’t happening, even though Gal Gadot thinks it is](https://www.polygon.com/23828340/wonder-woman-3-gal-gadot-dcu)
- - [Asus ROG Strix Scope II 96 Wireless review](https://www.pcgamer.com/asus-rog-strix-scope-ii-96-wireless-review)<!-- GAME:END -->
+ - [How to connect 127 USB devices to your PC. Kinda...](https://www.pcgamer.com/how-to-connect-127-usb-devices-to-your-pc-kinda)
+ - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)
+ - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
