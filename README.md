@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - ⏩ [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
- - 👉 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)<!-- MEMES:END -->
+ - 💣 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
+ - ⏩ [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)
+ - 👉 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)<!-- MEMES:END -->
 
 ---
 
