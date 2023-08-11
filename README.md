@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PCIe 5.0 SSDs with 14GB/s speeds are coming, and more importantly, with lower power consumption too](https://www.pcgamer.com/pcie-50-ssds-with-14gbs-speeds-are-coming-and-more-importantly-with-lower-power-consumption-too)
- - [Today&#39;s Wordle hint and answer #783: Friday, August 11](https://www.pcgamer.com/wordle-answer-today-hint-783-august-11)
- - [Overwatch 2&#39;s Steam release means players can finally review it, and it&#39;s not going so well](https://www.pcgamer.com/overwatch-2s-steam-release-means-players-can-finally-review-it-and-its-not-going-so-well)<!-- GAME:END -->
+ - [Seagate FireCuda 540 review](https://www.pcgamer.com/seagate-firecuda-540-pcie-5-ssd-review)
+ - [Now&#39;s the time to remind everyone there&#39;s a Baldur&#39;s Gate board game and no I&#39;m not talking about D&amp;D](https://www.pcgamer.com/nows-the-time-to-remind-everyone-theres-a-baldurs-gate-board-game-and-no-im-not-talking-about-dandd)
+ - [PCIe 5.0 SSDs with 14GB/s speeds are coming, and more importantly, with lower power consumption too](https://www.pcgamer.com/pcie-50-ssds-with-14gbs-speeds-are-coming-and-more-importantly-with-lower-power-consumption-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
