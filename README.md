@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Sues Popular YouTube Music Critic After He Tried Charging For TikTok Clip [Update: The Suit&#39;s Been Dropped]](https://kotaku.com/activision-blizzard-anthony-needledrop-fantano-lawsuit-1850687909)
- - [Nintendo Is Trying To Patent Some Really Broad Tears Of The Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
- - [Only a few hundred people finished Baldur&#39;s Gate 3 in its first weekend](https://www.pcgamer.com/only-a-few-hundred-people-finished-baldurs-gate-3-in-its-first-weekend)<!-- GAME:END -->
+ - [If A PS5 Slim Is Coming, This Is Probably What It Looks Like](https://kotaku.com/ps5-slim-pro-leaks-disk-drive-images-video-sony-1850731008)
+ - [Roblox Will Soon Start To Interview Some Job Seekers In-Game](https://kotaku.com/roblox-interviews-job-employees-metaverse-career-center-1850730848)
+ - [A new South Park game is coming in 2024 and this time it&#39;s not an RPG](https://www.pcgamer.com/a-new-south-park-game-is-coming-in-2024-and-this-time-its-not-an-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
