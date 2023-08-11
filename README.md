@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
- - ⏩ [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - ⏩ [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
  - 👉 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)<!-- MEMES:END -->
 
 ---
