@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers deployed exposed Windows servers as honeypots for hackers, recording 190M events and 100 hours of video of their actions, like installing malware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230810/p38#a230810p38)
- - [Cruise and Waymo Robotaxis Can Now Work the Streets of San Francisco 24/7](https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/)
- - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)<!-- TECH:END -->
+ - [Teens replicated a 2008 hack of Boston&#39;s subway fare system and were invited to present their work, a contrast to the transit authority&#39;s response 15 years ago &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230811/p1#a230811p1)
+ - [Elon Musk’s new round of X Ads Revenue Sharing payments arrived, eventually](https://www.theverge.com/2023/8/11/23824612/x-twitter-blue-ad-revenue-sharing-payment-delay)
+ - [Olivia Rodrigo just released a new song — and a new Instagram feature](https://www.theverge.com/2023/8/11/23827690/olivia-rodrigo-instagram-music-carousel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
