@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [7 days &gt; 1 night](http://9gag.com/gag/aPgpQnn)
+ - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
  - ⏩ [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 👉 [Go woke go broke](http://9gag.com/gag/aDYPZgK)<!-- MEMES:END -->
+ - 👉 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)<!-- MEMES:END -->
 
 ---
 
