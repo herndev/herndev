@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Seagate FireCuda 540 review](https://www.pcgamer.com/seagate-firecuda-540-pcie-5-ssd-review)
- - [Now&#39;s the time to remind everyone there&#39;s a Baldur&#39;s Gate board game and no I&#39;m not talking about D&amp;D](https://www.pcgamer.com/nows-the-time-to-remind-everyone-theres-a-baldurs-gate-board-game-and-no-im-not-talking-about-dandd)
- - [PCIe 5.0 SSDs with 14GB/s speeds are coming, and more importantly, with lower power consumption too](https://www.pcgamer.com/pcie-50-ssds-with-14gbs-speeds-are-coming-and-more-importantly-with-lower-power-consumption-too)<!-- GAME:END -->
+ - [Larian&#39;s had to patch Baldur&#39;s Gate 3&#39;s save files to be infinite size, &#39;to account for the sheer amount of things you’re all doing on your journeys&#39;](https://www.pcgamer.com/larians-had-to-patch-baldurs-gate-3s-save-files-to-be-infinite-size-to-account-for-the-sheer-amount-of-things-youre-all-doing-on-your-journeys)
+ - [Grab Nvidia&#39;s new Baldur&#39;s Gate 3 driver for your GeForce GPU](https://www.pcgamer.com/grab-nvidias-new-baldurs-gate-3-driver-for-your-geforce-gpu)
+ - [Seagate FireCuda 540 review](https://www.pcgamer.com/seagate-firecuda-540-pcie-5-ssd-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
