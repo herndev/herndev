@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PCIe 5.0 SSDs with 14GB/s speeds are coming, and more importantly, with lower power consumption too](https://www.pcgamer.com/pcie-50-ssds-with-14gbs-speeds-are-coming-and-more-importantly-with-lower-power-consumption-too)
  - [Today&#39;s Wordle hint and answer #783: Friday, August 11](https://www.pcgamer.com/wordle-answer-today-hint-783-august-11)
- - [Overwatch 2&#39;s Steam release means players can finally review it, and it&#39;s not going so well](https://www.pcgamer.com/overwatch-2s-steam-release-means-players-can-finally-review-it-and-its-not-going-so-well)
- - [Papers, Please celebrates 10th anniversary with a retro LCD demake, merch, and a big donation](https://www.pcgamer.com/papers-please-celebrates-10th-anniversary-with-retro-lcd-version-merch-and-a-big-donation)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Steam release means players can finally review it, and it&#39;s not going so well](https://www.pcgamer.com/overwatch-2s-steam-release-means-players-can-finally-review-it-and-its-not-going-so-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
