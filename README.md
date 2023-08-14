@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next gen Intel LGA1851 desktop CPU pictured](https://www.pcgamer.com/next-gen-intel-lga1851-desktop-cpu-pictured)
- - [Rainbow Six Siege is getting a new operator](https://www.pcgamer.com/rainbow-six-siege-is-getting-a-new-operator)
- - [Today&#39;s Wordle hint and answer #786: Monday, August 14](https://www.pcgamer.com/wordle-answer-today-hint-786-august-14)<!-- GAME:END -->
+ - [How to get to the House of Hope in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-house-of-hope)
+ - [Hamilton Simulator in Roblox lets you sing enemies to death with characters from the musical](https://www.pcgamer.com/hamilton-simulator-in-roblox-lets-you-sing-enemies-to-death-with-characters-from-the-musical)
+ - [Divining the Nvidia Blackwell RTX 50-series GPUs from some alpha-numeric runes](https://www.pcgamer.com/nvidia-blackwell-rtx-50-series-rumours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
