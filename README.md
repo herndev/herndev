@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
- - ⏩ [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
+ - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - ⏩ [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
 
 ---
 
