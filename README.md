@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s next-gen CPUs could deliver a 75% increase in L2 cache, which would be big news for gamers](https://www.pcgamer.com/intel-arrow-lake-cpu-l2-cache-increase)
- - [Game-Themed Anime to Watch on Crunchyroll After Redeeming the Game Pass Ultimate Perk](https://news.xbox.com/en-us/2023/08/14/crunchyroll-xbox-game-pass-anime/)
- - [Baldur’s Gate 3: How Does It Run On Steam Deck?](https://kotaku.com/baldurs-gate-bg3-steam-deck-settings-ally-1850730942)<!-- GAME:END -->
+ - [Why the ‘industrial revolution’ never came to Zelda: Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23828823/totk-ultrahand-reddit-engineers-calculator)
+ - [Baldur&#39;s Gate 3 has a new Gale-centric speedrun category that lets you &#39;beat&#39; the game in 10 minutes by blowing yourself up](https://www.pcgamer.com/baldurs-gate-3-has-a-new-gale-centric-speedrun-category-that-lets-you-beat-the-game-in-10-minutes-by-blowing-yourself-up)
+ - [All The Starters Are Coming To Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-squirtle-bulbasaur-starters-dlc-1850734724)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
