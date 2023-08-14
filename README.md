@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon rolls out generative AI summaries of product reviews to a subset of US mobile users across a &quot;broad&quot; range of products after testing earlier in 2023 &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/230814/p9#a230814p9)
- - [Redmi K60 Extreme Edition launched: Redmi goes water-resistant](https://www.androidauthority.com/redmi-k60-extreme-edition-3354837/)
- - [Daily deals August 14: $249 iPad 9th Generation, $150 off 15&quot; MacBook Air, 49% off Microsoft Surface Book 3, more](https://appleinsider.com/articles/23/08/14/daily-deals-august-14-249-ipad-9th-generation-150-off-15-macbook-air-49-off-microsoft-surface-book-3-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV Plus is getting a new series about Lionel Messi in Miami](https://www.theverge.com/2023/8/14/23831469/apple-tv-plus-lionel-messi-miami-docuseries)
+ - [Source: CoinDesk lays off 20 people, or 45%, of its editorial team as its parent company, Digital Currency Group, pursues the outlet&#39;s sale &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230814/p11#a230814p11)
+ - [Samsung’s Galaxy A54 phone with a lovely 120Hz display is $100 off](https://www.theverge.com/2023/8/14/23831173/samsung-galaxy-a54-alienware-qdoled-apple-iphone-gift-card-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
