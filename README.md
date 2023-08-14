@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Assassin’s Creed Mirage is coming out a week early](https://www.theverge.com/2023/8/14/23831569/assassins-creed-mirage-new-release-date)
- - [Verizon says it’s weeks away from a major upgrade to rural 5G](https://www.theverge.com/2023/8/14/23831269/verizon-rural-5g-c-band-spectrum-200mhz)
- - [Apple TV+ plans to milk all it can out of Lionel Messi](https://appleinsider.com/articles/23/08/14/apple-tv-plans-to-milk-all-it-can-out-of-lionel-messi?utm_medium=rss)<!-- TECH:END -->
+ - [Young people who sued their state over climate change notch their first victory](https://www.theverge.com/2023/8/14/23831679/youth-climate-change-trial-victory-held-v-montana)
+ - [OnePlus’ new screen knows where you’re touching it, even when it’s wet](https://www.theverge.com/2023/8/14/23831651/oneplus-ace-2-pro-touchscreen-wet-hands-oppo)
+ - [Remember Apple’s ‘batterygate’ lawsuit? Your payout is coming soon.](https://www.androidauthority.com/batterygate-payout-3354937/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
