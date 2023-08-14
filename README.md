@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Deals From Roborock&#39;s Robot Vacuum Sale](https://www.wired.com/story/roborock-robot-vacuum-deals-august-2023/)
- - [The Biden administration urges the Supreme Court to take up content moderation cases](https://www.theverge.com/2023/8/14/23831989/biden-supreme-court-content-moderation-section-230)
- - [AI companies must prove their AI is safe, says nonprofit group](https://www.theverge.com/2023/8/14/23831819/ai-companies-regulation-rules-shield-laws)<!-- TECH:END -->
+ - [Sources: Saudi Arabia bought 3,000+ of Nvidia&#39;s H100 GPUs, and the UAE purchased thousands of Nvidia chips; Nvidia will ship ~550K of H100 GPUs globally in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230814/p15#a230814p15)
+ - [Want a $4,000 smart door? The Home Depot has you covered](https://www.theverge.com/2023/8/14/23832011/masonite-smart-door-home-depot-m-pwr-available)
+ - [Apple’s iPhone ‘batterygate’ settlement payments should start going out soon](https://www.theverge.com/2023/8/14/23831939/apple-iphone-batterygate-iphone-6-7-se-battery-performance-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
