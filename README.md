@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft&#39;s exciting Assassin&#39;s Creed throwback game is launching a week early at just $50](https://www.pcgamer.com/assassins-creed-mirage-is-launching-a-week-early-at-just-dollar50)
- - [Get essential D&amp;D books for their lowest prices ever](https://www.polygon.com/deals/2023/8/14/23831430/dungeons-dragons-rulebooks-manual-tabletop-ttrpg-deal-sale)
- - [Solar Opposites, The Summer I Turned Pretty season 2 finale, and more new TV this week](https://www.polygon.com/2023/8/14/23818833/new-tv-watch-netflix-mask-girl-solar-opposites-summer-i-turned-pretty-finale)<!-- GAME:END -->
+ - [Armored Core VI&#39;s PC Requirements Are Less Demanding Than Elden Ring’s](https://kotaku.com/armored-core-6-vi-pc-minimum-requirements-elden-ring-1850736435)
+ - [Fortnite Has An FFXIV-Style Raid Boss, And It Looks Pretty Wild](https://kotaku.com/fortnite-raid-boss-doomsday-ffxiv-map-creator-1850736333)
+ - [Professor X’s depression beard makes him look like Steve Jobs](https://www.polygon.com/2023/8/14/23831283/marvel-comics-professor-x-men-beard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
