@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;August 14, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-14-2023)
  - [PSA: You can trade with lots of Baldur&#39;s Gate 3 NPCs who aren&#39;t traders](https://www.pcgamer.com/psa-you-can-trade-with-lots-of-baldurs-gate-3-npcs-who-arent-traders)
- - [Here&#39;s a free shooter for fans of Vampire Survivors and Brotato](https://www.pcgamer.com/heres-a-free-shooter-for-fans-of-vampire-survivors-and-brotato)
- - [There are remasters of the Strong Bad games from 2008 and you can play them now](https://www.pcgamer.com/there-are-remasters-of-the-strong-bad-games-from-2008-and-you-can-play-them-now)<!-- GAME:END -->
+ - [Here&#39;s a free shooter for fans of Vampire Survivors and Brotato](https://www.pcgamer.com/heres-a-free-shooter-for-fans-of-vampire-survivors-and-brotato)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
