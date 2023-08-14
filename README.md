@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely](http://9gag.com/gag/a3ZxD8m)
- - ⏩ [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 👉 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)<!-- MEMES:END -->
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 
