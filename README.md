@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Embracer&#39;s $2 Billion Deal That Blew Up Was With Saudi Arabia](https://kotaku.com/embracer-saudi-arabia-dead-island-2-borderlands-deal-1850475619)
- - [How to use the Mirror of Loss in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-mirror-of-loss-solution)
- - [Diablo IV Dungeon Can Take You To Level 40 In Just Two Hours](https://kotaku.com/diablo-4-fast-level-up-domhainne-tunnels-dungeon-xp-1850735596)<!-- GAME:END -->
+ - [Ubisoft&#39;s exciting Assassin&#39;s Creed throwback game is launching a week early at just $50](https://www.pcgamer.com/assassins-creed-mirage-is-launching-a-week-early-at-just-dollar50)
+ - [Get essential D&amp;D books for their lowest prices ever](https://www.polygon.com/deals/2023/8/14/23831430/dungeons-dragons-rulebooks-manual-tabletop-ttrpg-deal-sale)
+ - [Solar Opposites, The Summer I Turned Pretty season 2 finale, and more new TV this week](https://www.polygon.com/2023/8/14/23818833/new-tv-watch-netflix-mask-girl-solar-opposites-summer-i-turned-pretty-finale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
