@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
- - [A look at publishers&#39; legal fight against the Internet Archive&#39;s book lending program; the parties reached a deal Friday to remove some books from the archive &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/230813/p12#a230813p12)
+ - [A look at publishers&#39; legal fight against the Internet Archive&#39;s book lending program; the Internet Archive agreed to drop the publishers&#39; &quot;full book catalogs&quot; &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/230813/p12#a230813p12)
  - [Lowest price ever: M1 MacBook Pro 14-inch with 32GB RAM drops to $1,799](https://appleinsider.com/articles/23/08/10/lowest-price-ever-m1-macbook-pro-14-inch-with-32gb-ram-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
