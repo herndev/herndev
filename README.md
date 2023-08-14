@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Money](http://9gag.com/gag/aqedVqQ)
- - ⏩ [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 👉 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)<!-- MEMES:END -->
+ - 💣 [Lovely](http://9gag.com/gag/a3ZxD8m)
+ - ⏩ [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 👉 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)<!-- MEMES:END -->
 
 ---
 
