@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - ⏩ [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 👉 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)<!-- MEMES:END -->
 
 ---
 
