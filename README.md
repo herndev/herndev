@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 2 swings by FCC, revealing strap choices](https://www.androidauthority.com/pixel-watch-2-fcc-certification-3354806/)
- - [Yet another leaked image of USB-C iPhone 15 components surfaces](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
- - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)<!-- TECH:END -->
+ - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)
+ - [Bugs in macOS Background Task Manager keeps apps hidden](https://appleinsider.com/articles/23/08/14/bugs-in-macos-background-task-manager-keeps-apps-hidden?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
