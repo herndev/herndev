@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everspace 2: “Everyone Gets a Better Game Because of Xbox Game Pass”](https://news.xbox.com/en-us/2023/08/14/everspace-2-console-launch/)
- - [Should you help He Who Was or Madeline in Baldur&#39;s Gate 3?](https://www.pcgamer.com/baldurs-gate-3-he-who-was-madeline-choice)
- - [The voice of Baldur&#39;s Gate 3&#39;s Astarion talks TTRPGs, storytelling, and the glamourous &#39;fury and the wrath&#39; of playing vampires](https://www.pcgamer.com/the-voice-of-baldurs-gate-3s-astarion-talks-ttrpgs-storytelling-and-the-glamourous-fury-and-the-wrath-of-playing-vampires)<!-- GAME:END -->
+ - [Somehow Sword Dancer pulled off combining a JRPG and a fighting game on a Japanese PC built for visual novels](https://www.pcgamer.com/somehow-sword-dancer-pulled-off-combining-a-jrpg-and-a-fighting-game-on-a-japanese-pc-built-for-visual-novels)
+ - [Thank God, Baldur&#39;s Gate 3 will eventually let you change your character&#39;s looks](https://www.pcgamer.com/thank-god-baldurs-gate-3-will-eventually-let-you-change-your-characters-looks)
+ - [Designing Moving Out 2 to be more fun, diverse and inclusive](https://blog.playstation.com/2023/08/14/designing-moving-out-2-to-be-more-fun-diverse-and-inclusive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
