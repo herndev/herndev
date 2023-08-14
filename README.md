@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Money](http://9gag.com/gag/aqedVqQ)
- - ⏩ [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
+ - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - ⏩ [Money](http://9gag.com/gag/aqedVqQ)
+ - 👉 [When you go on a date but she brings her friends and they get drunk .](http://9gag.com/gag/a8qnNpZ)<!-- MEMES:END -->
 
 ---
 
