@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Austin powers](http://9gag.com/gag/amAdygo)
- - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)<!-- MEMES:END -->
+ - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - ⏩ [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
+ - 👉 [Money](http://9gag.com/gag/aqedVqQ)<!-- MEMES:END -->
 
 ---
 
