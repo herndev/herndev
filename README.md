@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - ⏩ [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [When you go on a date but she brings her friends and they get drunk .](http://9gag.com/gag/a8qnNpZ)<!-- MEMES:END -->
+ - 💣 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)
+ - ⏩ [Parents gathered in the streets of Melbourne, Australia and sang \u201cLeave those kids alone\u201d in response to radical LGBT education in schools \ud83c\udff3\ufe0f\ud83c\udf08 We need to see more of this \ud83d\udc4f](http://9gag.com/gag/a5XxvgO)
+ - 👉 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)<!-- MEMES:END -->
 
 ---
 
