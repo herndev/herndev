@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit happens](http://9gag.com/gag/a8qnvXd)
- - ⏩ [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - ⏩ [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
 
 ---
 
