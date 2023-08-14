@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic raised $100M from South Korea-based SK Telecom, which also invested in Anthropic in May 2023, as the two aim to build a telco-focused multilingual LLM &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/230814/p1#a230814p1)
  - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
- - [A look at publishers&#39; legal fight against the Internet Archive&#39;s book lending program; the Internet Archive agreed to drop the publishers&#39; &quot;full book catalogs&quot; &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/230813/p12#a230813p12)
- - [Lowest price ever: M1 MacBook Pro 14-inch with 32GB RAM drops to $1,799](https://appleinsider.com/articles/23/08/10/lowest-price-ever-m1-macbook-pro-14-inch-with-32gb-ram-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [A look at publishers&#39; legal fight against the Internet Archive&#39;s book lending program; the Internet Archive agreed to drop the publishers&#39; &quot;full book catalogs&quot; &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/230813/p12#a230813p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
