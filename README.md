@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane will share more about its mysterious ‘Ai Pin’ the same day as October’s eclipse](https://www.theverge.com/2023/8/14/23831756/humane-ai-pin-october-solar-eclipse)
- - [Controversial carbon removal technology just got $1.2 billion from the Biden administration](https://www.theverge.com/2023/8/14/23831268/carbon-removal-climate-change-biden-funding-energy-department)
- - [YouTube is testing a new anti-adblocker that has a countdown clock](https://www.androidauthority.com/youtube-anti-adblocking-feature-3354930/)<!-- TECH:END -->
+ - [The Biden administration urges the Supreme Court to take up content moderation cases](https://www.theverge.com/2023/8/14/23831989/biden-supreme-court-content-moderation-section-230)
+ - [AI companies must prove their AI is safe, says nonprofit group](https://www.theverge.com/2023/8/14/23831819/ai-companies-regulation-rules-shield-laws)
+ - [The Elon Musk versus Mark Zuckerberg beef has reached a new level of absurdity](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
