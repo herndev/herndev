@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
- - ⏩ [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
- - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - ⏩ [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
 
 ---
 
