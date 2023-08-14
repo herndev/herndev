@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus is getting a new series about Lionel Messi in Miami](https://www.theverge.com/2023/8/14/23831469/apple-tv-plus-lionel-messi-miami-docuseries)
- - [Source: CoinDesk lays off 20 people, or 45%, of its editorial team as its parent company, Digital Currency Group, pursues the outlet&#39;s sale &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230814/p11#a230814p11)
- - [Samsung’s Galaxy A54 phone with a lovely 120Hz display is $100 off](https://www.theverge.com/2023/8/14/23831173/samsung-galaxy-a54-alienware-qdoled-apple-iphone-gift-card-sale)<!-- TECH:END -->
+ - [Assassin’s Creed Mirage is coming out a week early](https://www.theverge.com/2023/8/14/23831569/assassins-creed-mirage-new-release-date)
+ - [Verizon says it’s weeks away from a major upgrade to rural 5G](https://www.theverge.com/2023/8/14/23831269/verizon-rural-5g-c-band-spectrum-200mhz)
+ - [Apple TV+ plans to milk all it can out of Lionel Messi](https://appleinsider.com/articles/23/08/14/apple-tv-plans-to-milk-all-it-can-out-of-lionel-messi?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
