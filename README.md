@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
  - ⏩ [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
 
