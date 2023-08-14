@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely](http://9gag.com/gag/a3ZxD8m)
- - ⏩ [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
+ - 💣 [Austin powers](http://9gag.com/gag/amAdygo)
+ - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)<!-- MEMES:END -->
 
 ---
 
