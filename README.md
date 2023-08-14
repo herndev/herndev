@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the ‘industrial revolution’ never came to Zelda: Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23828823/totk-ultrahand-reddit-engineers-calculator)
- - [Baldur&#39;s Gate 3 has a new Gale-centric speedrun category that lets you &#39;beat&#39; the game in 10 minutes by blowing yourself up](https://www.pcgamer.com/baldurs-gate-3-has-a-new-gale-centric-speedrun-category-that-lets-you-beat-the-game-in-10-minutes-by-blowing-yourself-up)
- - [All The Starters Are Coming To Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-squirtle-bulbasaur-starters-dlc-1850734724)<!-- GAME:END -->
+ - [Everspace 2: “Everyone Gets a Better Game Because of Xbox Game Pass”](https://news.xbox.com/en-us/2023/08/14/everspace-2-console-launch/)
+ - [Should you help He Who Was or Madeline in Baldur&#39;s Gate 3?](https://www.pcgamer.com/baldurs-gate-3-he-who-was-madeline-choice)
+ - [The voice of Baldur&#39;s Gate 3&#39;s Astarion talks TTRPGs, storytelling, and the glamourous &#39;fury and the wrath&#39; of playing vampires](https://www.pcgamer.com/the-voice-of-baldurs-gate-3s-astarion-talks-ttrpgs-storytelling-and-the-glamourous-fury-and-the-wrath-of-playing-vampires)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
