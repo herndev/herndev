@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 💣 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
  - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
