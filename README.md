@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow Sword Dancer pulled off combining a JRPG and a fighting game on a Japanese PC built for visual novels](https://www.pcgamer.com/somehow-sword-dancer-pulled-off-combining-a-jrpg-and-a-fighting-game-on-a-japanese-pc-built-for-visual-novels)
- - [Thank God, Baldur&#39;s Gate 3 will eventually let you change your character&#39;s looks](https://www.pcgamer.com/thank-god-baldurs-gate-3-will-eventually-let-you-change-your-characters-looks)
- - [Designing Moving Out 2 to be more fun, diverse and inclusive](https://blog.playstation.com/2023/08/14/designing-moving-out-2-to-be-more-fun-diverse-and-inclusive/)<!-- GAME:END -->
+ - [Report: Embracer&#39;s $2 Billion Deal That Blew Up Was With Saudi Arabia](https://kotaku.com/embracer-saudi-arabia-dead-island-2-borderlands-deal-1850475619)
+ - [How to use the Mirror of Loss in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-mirror-of-loss-solution)
+ - [Diablo IV Dungeon Can Take You To Level 40 In Just Two Hours](https://kotaku.com/diablo-4-fast-level-up-domhainne-tunnels-dungeon-xp-1850735596)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
