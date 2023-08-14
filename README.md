@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford hires former Apple VP of Services Peter Stern to lead its customer software team and improve the user experience, part of the Ford+ plan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230814/p8#a230814p8)
- - [PayPal appoints Intuit SVP Alex Chriss as CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
- - [Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service)<!-- TECH:END -->
+ - [Amazon rolls out generative AI summaries of product reviews to a subset of US mobile users across a &quot;broad&quot; range of products after testing earlier in 2023 &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/230814/p9#a230814p9)
+ - [Redmi K60 Extreme Edition launched: Redmi goes water-resistant](https://www.androidauthority.com/redmi-k60-extreme-edition-3354837/)
+ - [Daily deals August 14: $249 iPad 9th Generation, $150 off 15&quot; MacBook Air, 49% off Microsoft Surface Book 3, more](https://appleinsider.com/articles/23/08/14/daily-deals-august-14-249-ipad-9th-generation-150-off-15-macbook-air-49-off-microsoft-surface-book-3-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
