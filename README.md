@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI&#39;s PC Requirements Are Less Demanding Than Elden Ring’s](https://kotaku.com/armored-core-6-vi-pc-minimum-requirements-elden-ring-1850736435)
- - [Fortnite Has An FFXIV-Style Raid Boss, And It Looks Pretty Wild](https://kotaku.com/fortnite-raid-boss-doomsday-ffxiv-map-creator-1850736333)
- - [Professor X’s depression beard makes him look like Steve Jobs](https://www.polygon.com/2023/8/14/23831283/marvel-comics-professor-x-men-beard)<!-- GAME:END -->
+ - [The Pokémon Battle Gimmicks, Ranked From Worst To Best](https://kotaku.com/pokemon-battle-best-gimmicks-mega-evolution-tera-types-1850736746)
+ - [TikTok has invented a fake ’80s horror movie named Zepotha](https://www.polygon.com/23831416/zepotha-opening-scene-tiktok-fake-80s-horror-movie-goncharov)
+ - [Surprise: Next Assassin’s Creed Game Launching A Week Early](https://kotaku.com/ac-assassin-s-creed-mirage-release-date-early-october-1850736466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
