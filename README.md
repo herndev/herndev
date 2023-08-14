@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - ⏩ [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 
