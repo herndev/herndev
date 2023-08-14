@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some 2024 flagship phones might stick with Snapdragon 8 Gen 2 instead](https://www.androidauthority.com/2024-flagship-phones-snapdragon-8-gen-2-3354737/)
  - [Anthropic raised $100M from South Korea-based SK Telecom, which also invested in Anthropic in May 2023, as the two aim to build a telco-focused multilingual LLM &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/230814/p1#a230814p1)
- - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
- - [A look at publishers&#39; legal fight against the Internet Archive&#39;s book lending program; the Internet Archive agreed to drop the publishers&#39; &quot;full book catalogs&quot; &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/230813/p12#a230813p12)<!-- TECH:END -->
+ - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
