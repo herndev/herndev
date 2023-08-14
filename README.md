@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find N3 Flip leaked renders showcase last minute design-switch](https://www.androidauthority.com/oppo-find-n3-flip-leaked-renders-3354778/)
- - [Foxconn predicts decline in iPhone demand](https://appleinsider.com/articles/23/08/14/foxconn-predicts-decline-in-iphone-demand?utm_medium=rss)
- - [The New York Times prohibits using its content to train AI models](https://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service)<!-- TECH:END -->
+ - [Pixel Watch 2 swings by FCC, revealing strap choices](https://www.androidauthority.com/pixel-watch-2-fcc-certification-3354806/)
+ - [Yet another leaked image of USB-C iPhone 15 components surfaces](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
+ - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
