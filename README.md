@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funni mem](http://9gag.com/gag/aMEWN7A)
+ - 💣 [Shit happens](http://9gag.com/gag/a8qnvXd)
  - ⏩ [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
  - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
 
