@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people who sued their state over climate change notch their first victory](https://www.theverge.com/2023/8/14/23831679/youth-climate-change-trial-victory-held-v-montana)
- - [OnePlus’ new screen knows where you’re touching it, even when it’s wet](https://www.theverge.com/2023/8/14/23831651/oneplus-ace-2-pro-touchscreen-wet-hands-oppo)
- - [Remember Apple’s ‘batterygate’ lawsuit? Your payout is coming soon.](https://www.androidauthority.com/batterygate-payout-3354937/)<!-- TECH:END -->
+ - [Controversial carbon removal technology just got $1.2 billion from the Biden administration](https://www.theverge.com/2023/8/14/23831268/carbon-removal-climate-change-biden-funding-energy-department)
+ - [YouTube is testing a new anti-adblocker that has a countdown clock](https://www.androidauthority.com/youtube-anti-adblocking-feature-3354930/)
+ - [Netflix starts testing games service for smart TVs](https://appleinsider.com/articles/23/08/14/netflix-starts-testing-games-service-for-smart-tvs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
