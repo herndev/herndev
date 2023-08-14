@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)
- - [Bugs in macOS Background Task Manager keeps apps hidden](https://appleinsider.com/articles/23/08/14/bugs-in-macos-background-task-manager-keeps-apps-hidden?utm_medium=rss)<!-- TECH:END -->
+ - [Ford hires former Apple VP of Services Peter Stern to lead its customer software team and improve the user experience, part of the Ford+ plan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230814/p8#a230814p8)
+ - [PayPal appoints Intuit SVP Alex Chriss as CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
+ - [Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
