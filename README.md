@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the years of warnings about AI from researchers, including several women of color, who say we need to take the problems and risks seriously today &lpar;Lorena O&#39;Neil/Rolling Stone&rpar;](http://www.techmeme.com/230814/p3#a230814p3)
- - [Firefox’s Android app is getting proper support for extensions once again](https://www.theverge.com/2023/8/14/23831094/firefox-android-open-extension-support)
- - [How Unilever, Siemens, Maersk, and other big companies are using AI to negotiate contracts, find new suppliers, and navigate other complex supply chain issues &lpar;Financial Times&rpar;](http://www.techmeme.com/230814/p2#a230814p2)<!-- TECH:END -->
+ - [OPPO Find N3 Flip leaked renders showcase last minute design-switch](https://www.androidauthority.com/oppo-find-n3-flip-leaked-renders-3354778/)
+ - [Foxconn predicts decline in iPhone demand](https://appleinsider.com/articles/23/08/14/foxconn-predicts-decline-in-iphone-demand?utm_medium=rss)
+ - [The New York Times prohibits using its content to train AI models](https://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
