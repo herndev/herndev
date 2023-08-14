@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Battle Gimmicks, Ranked From Worst To Best](https://kotaku.com/pokemon-battle-best-gimmicks-mega-evolution-tera-types-1850736746)
- - [TikTok has invented a fake ’80s horror movie named Zepotha](https://www.polygon.com/23831416/zepotha-opening-scene-tiktok-fake-80s-horror-movie-goncharov)
- - [Surprise: Next Assassin’s Creed Game Launching A Week Early](https://kotaku.com/ac-assassin-s-creed-mirage-release-date-early-october-1850736466)<!-- GAME:END -->
+ - [The Week In Games: What’s Coming Out Beyond Madden NFL 24](https://kotaku.com/august-games-out-this-week-madden-bomb-rush-cyberfunk-1850736611)
+ - [Baldur&#39;s Gate 3 modder haphazardly adds lone wolf mode inspired by Divinity 2: &#39;I have not playtested this mod for more than an hour&#39;](https://www.pcgamer.com/baldurs-gate-3-modder-haphazardly-adds-lone-wolf-mode-inspired-by-divinity-2-i-have-not-playtested-this-mod-for-more-than-an-hour)
+ - [In defense of Baldur&#39;s Gate 3&#39;s Wyll, my new favorite &#39;human nice guy&#39; RPG companion](https://www.pcgamer.com/in-defense-of-baldurs-gate-3s-wyll-my-new-favorite-human-nice-guy-rpg-companion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
