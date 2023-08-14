@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lionel Messi: How to Watch, Stream Inter Miami vs. Charlotte on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-charlotte-on-mls-season-pass-today/#ftag=CAD590a51e)
- - [PS5 Slim appears to leak in video, and it’s not very slim](https://www.androidauthority.com/sony-ps5-slim-leaked-video-3354601/)
- - [SEC filing: NYC-based digital lender Better.com plans to go public via a SPAC merger, raising $750M, after announcing plans in May 2021 for a $7.7B SPAC merger &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)<!-- TECH:END -->
+ - [Lowest price ever: M1 MacBook Pro 14-inch with 32GB RAM drops to $1,799](https://appleinsider.com/articles/23/08/10/lowest-price-ever-m1-macbook-pro-14-inch-with-32gb-ram-drops-to-1799?utm_medium=rss)
+ - [Generative AI could be a dud, so we shouldn&#39;t build around the premise that the tech is world-changing, which in hindsight may turn out to have been unrealistic &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230813/p11#a230813p11)
+ - [Oleap Pilot review: Upgrading a traditional headset experience](https://appleinsider.com/articles/23/08/13/oleap-pilot-review-upgrading-a-traditional-headset-experience?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
