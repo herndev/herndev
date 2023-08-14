@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - ⏩ [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 👉 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)<!-- MEMES:END -->
+ - 💣 [Do you remember what happened in this room?](http://9gag.com/gag/ay2zm5y)
+ - ⏩ [Money](http://9gag.com/gag/aqedVqQ)
+ - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
 
 ---
 
