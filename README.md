@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best Deals From Roborock&#39;s Robot Vacuum Sale](https://www.wired.com/story/roborock-robot-vacuum-deals-august-2023/)
  - [The Biden administration urges the Supreme Court to take up content moderation cases](https://www.theverge.com/2023/8/14/23831989/biden-supreme-court-content-moderation-section-230)
- - [AI companies must prove their AI is safe, says nonprofit group](https://www.theverge.com/2023/8/14/23831819/ai-companies-regulation-rules-shield-laws)
- - [The Elon Musk versus Mark Zuckerberg beef has reached a new level of absurdity](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity)<!-- TECH:END -->
+ - [AI companies must prove their AI is safe, says nonprofit group](https://www.theverge.com/2023/8/14/23831819/ai-companies-regulation-rules-shield-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
