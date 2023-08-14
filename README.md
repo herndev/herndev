@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you remember what happened in this room?](http://9gag.com/gag/ay2zm5y)
- - ⏩ [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
+ - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - ⏩ [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
 
 ---
 
