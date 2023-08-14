@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to the House of Hope in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-house-of-hope)
- - [Hamilton Simulator in Roblox lets you sing enemies to death with characters from the musical](https://www.pcgamer.com/hamilton-simulator-in-roblox-lets-you-sing-enemies-to-death-with-characters-from-the-musical)
- - [Divining the Nvidia Blackwell RTX 50-series GPUs from some alpha-numeric runes](https://www.pcgamer.com/nvidia-blackwell-rtx-50-series-rumours)<!-- GAME:END -->
+ - [Intel&#39;s next-gen CPUs could deliver a 75% increase in L2 cache, which would be big news for gamers](https://www.pcgamer.com/intel-arrow-lake-cpu-l2-cache-increase)
+ - [Game-Themed Anime to Watch on Crunchyroll After Redeeming the Game Pass Ultimate Perk](https://news.xbox.com/en-us/2023/08/14/crunchyroll-xbox-game-pass-anime/)
+ - [Baldur’s Gate 3: How Does It Run On Steam Deck?](https://kotaku.com/baldurs-gate-bg3-steam-deck-settings-ally-1850730942)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
