@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - ⏩ [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 💣 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
+ - ⏩ [Insert title here](http://9gag.com/gag/a7qGGNz)
  - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
 
 ---
