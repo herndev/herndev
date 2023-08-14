@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wondering where your C: drive space is going? Check your Baldur&#39;s Gate 3 save folder](https://www.pcgamer.com/baldurs-gate-3-save-filesize)
  - [The Week In Games: What’s Coming Out Beyond Madden NFL 24](https://kotaku.com/august-games-out-this-week-madden-bomb-rush-cyberfunk-1850736611)
- - [Baldur&#39;s Gate 3 modder haphazardly adds lone wolf mode inspired by Divinity 2: &#39;I have not playtested this mod for more than an hour&#39;](https://www.pcgamer.com/baldurs-gate-3-modder-haphazardly-adds-lone-wolf-mode-inspired-by-divinity-2-i-have-not-playtested-this-mod-for-more-than-an-hour)
- - [In defense of Baldur&#39;s Gate 3&#39;s Wyll, my new favorite &#39;human nice guy&#39; RPG companion](https://www.pcgamer.com/in-defense-of-baldurs-gate-3s-wyll-my-new-favorite-human-nice-guy-rpg-companion)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 modder haphazardly adds lone wolf mode inspired by Divinity 2: &#39;I have not playtested this mod for more than an hour&#39;](https://www.pcgamer.com/baldurs-gate-3-modder-haphazardly-adds-lone-wolf-mode-inspired-by-divinity-2-i-have-not-playtested-this-mod-for-more-than-an-hour)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
