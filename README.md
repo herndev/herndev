@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)
- - ⏩ [Parents gathered in the streets of Melbourne, Australia and sang \u201cLeave those kids alone\u201d in response to radical LGBT education in schools \ud83c\udff3\ufe0f\ud83c\udf08 We need to see more of this \ud83d\udc4f](http://9gag.com/gag/a5XxvgO)
- - 👉 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)<!-- MEMES:END -->
+ - 💣 [Money](http://9gag.com/gag/aqedVqQ)
+ - ⏩ [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 👉 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)<!-- MEMES:END -->
 
 ---
 
