@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Writer of the best Saints Row games is now IP director of Far Cry](https://www.pcgamer.com/writer-of-the-best-saints-row-games-is-now-ip-director-of-far-cry)
- - [Intel &#39;Downfall&#39; CPU vulnerability exposes sensitive data](https://www.pcgamer.com/intel-downfall-cpu-vulnerability-exposes-sensitive-data)
- - [The latest Windows 11 update kills Cortana](https://www.pcgamer.com/the-latest-windows-11-update-kills-cortana)<!-- GAME:END -->
+ - [Rainbow Six Siege is getting a new operator](https://www.pcgamer.com/rainbow-six-siege-is-getting-a-new-operator)
+ - [Today&#39;s Wordle hint and answer #786: Monday, August 14](https://www.pcgamer.com/wordle-answer-today-hint-786-august-14)
+ - [Writer of the best Saints Row games is now IP director of Far Cry](https://www.pcgamer.com/writer-of-the-best-saints-row-games-is-now-ip-director-of-far-cry)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
