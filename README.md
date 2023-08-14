@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Windows 11 update kills Cortana](https://www.pcgamer.com/the-latest-windows-11-update-kills-cortana)
- - [Five new Steam games you probably missed &lpar;August 14, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-14-2023)
- - [PSA: You can trade with lots of Baldur&#39;s Gate 3 NPCs who aren&#39;t traders](https://www.pcgamer.com/psa-you-can-trade-with-lots-of-baldurs-gate-3-npcs-who-arent-traders)<!-- GAME:END -->
+ - [Writer of the best Saints Row games is now IP director of Far Cry](https://www.pcgamer.com/writer-of-the-best-saints-row-games-is-now-ip-director-of-far-cry)
+ - [Intel &#39;Downfall&#39; CPU vulnerability exposes sensitive data](https://www.pcgamer.com/intel-downfall-cpu-vulnerability-exposes-sensitive-data)
+ - [The latest Windows 11 update kills Cortana](https://www.pcgamer.com/the-latest-windows-11-update-kills-cortana)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
