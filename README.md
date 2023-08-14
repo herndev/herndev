@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - ⏩ [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 💣 [Money](http://9gag.com/gag/aqedVqQ)
+ - ⏩ [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
  - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
 
 ---
