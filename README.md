@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
- - [The official Planet of the Bass music video is here](https://www.theverge.com/2023/8/15/23833092/planet-of-the-bass-music-video-official-dj-crazy-times-ms-biljana-electronica)
- - [YouTube adds Samples, a music discovery feed featuring vertically cropped, 30-second clips uploaded directly by artists, on iOS and Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230815/p17#a230815p17)<!-- TECH:END -->
+ - [AMD CEO Lisa Su is coming to the Code Conference](https://www.theverge.com/2023/8/15/23831464/lisa-su-code-conference-amd-ai)
+ - [Google’s AI will now summarize lengthy articles into key points](https://www.androidauthority.com/google-ai-summarizes-articles-3355265/)
+ - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
