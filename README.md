@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - ⏩ [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 💣 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 
