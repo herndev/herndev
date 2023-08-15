@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wondering where your C: drive space is going? Check your Baldur&#39;s Gate 3 save folder](https://www.pcgamer.com/baldurs-gate-3-save-filesize)
- - [The Week In Games: What’s Coming Out Beyond Madden NFL 24](https://kotaku.com/august-games-out-this-week-madden-bomb-rush-cyberfunk-1850736611)
- - [Baldur&#39;s Gate 3 modder haphazardly adds lone wolf mode inspired by Divinity 2: &#39;I have not playtested this mod for more than an hour&#39;](https://www.pcgamer.com/baldurs-gate-3-modder-haphazardly-adds-lone-wolf-mode-inspired-by-divinity-2-i-have-not-playtested-this-mod-for-more-than-an-hour)<!-- GAME:END -->
+ - [I spent some time with the Path of Exile 2 demo and it&#39;s absolutely cooking](https://www.pcgamer.com/path-of-exile-2-hands-on-preview)
+ - [Wondering where your drive space is going? Check your Baldur&#39;s Gate 3 save folder](https://www.pcgamer.com/baldurs-gate-3-save-filesize)
+ - [The Week In Games: What’s Coming Out Beyond Madden NFL 24](https://kotaku.com/august-games-out-this-week-madden-bomb-rush-cyberfunk-1850736611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
