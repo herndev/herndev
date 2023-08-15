@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
- - ⏩ [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)
- - 👉 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)<!-- MEMES:END -->
+ - 💣 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
+ - ⏩ [I see red](http://9gag.com/gag/ay2zZG8)
+ - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
 
 ---
 
