@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
+ - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - ⏩ [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
 
 ---
 
