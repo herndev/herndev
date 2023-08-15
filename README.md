@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I spent some time with the Path of Exile 2 demo and it&#39;s absolutely cooking](https://www.pcgamer.com/path-of-exile-2-hands-on-preview)
- - [Wondering where your drive space is going? Check your Baldur&#39;s Gate 3 save folder](https://www.pcgamer.com/baldurs-gate-3-save-filesize)
- - [The Week In Games: What’s Coming Out Beyond Madden NFL 24](https://kotaku.com/august-games-out-this-week-madden-bomb-rush-cyberfunk-1850736611)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/14/this-weeks-deals-with-gold-and-spotlight-sale-284/)
+ - [Today&#39;s Wordle hint and answer #787: Tuesday, August 15](https://www.pcgamer.com/wordle-answer-today-hint-787-august-15)
+ - [I spent some time with the Path of Exile 2 demo and it&#39;s absolutely cooking](https://www.pcgamer.com/path-of-exile-2-hands-on-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
