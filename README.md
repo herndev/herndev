@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Biljana Electronica returns for the full ‘Planet of the Bass’ music video](https://www.polygon.com/23833059/planet-of-the-bass-dj-crazy-times-full-song-ms-biljana)
- - [Netflix is moving — very gently — into cloud gaming](https://www.polygon.com/23832797/netflix-cloud-gaming-tv-pc-streaming-beta)
- - [Horror Game Of The Summer Is Day One On Game Pass](https://kotaku.com/best-horror-games-2023-texas-chainsaw-game-pass-august-1850739477)<!-- GAME:END -->
+ - [Suit Up for Madden NFL 24 Early with EA Play](https://news.xbox.com/en-us/2023/08/15/madden-nfl-24-early-access-with-ea-play/)
+ - [Armored Core 6 system requirements are pretty much the same as the Elden Ring system requirements](https://www.pcgamer.com/armored-core-6-pc-system-requirements)
+ - [Gris, Firewatch, and Texas Chainsaw Massacre coming to Game Pass](https://www.polygon.com/23833126/xbox-game-pass-august-2023-gris-firewatch-texas-chainsaw-massacre)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
