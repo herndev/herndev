@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - ⏩ [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
+ - 💣 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - ⏩ [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 
