@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Aug. 15: $70 off Apple Watch Series 8, AirPods 3 $139, $300 off 16&quot; M2 MacBook Pro, more](https://appleinsider.com/articles/23/08/15/daily-deals-aug-15-70-off-apple-watch-series-8-airpods-3-139-300-off-16-m2-macbook-pro-more?utm_medium=rss)
- - [The note-taking Kindle Scribe is seeing its biggest discount since Prime Day](https://www.theverge.com/2023/8/15/23831614/amazon-kindle-scribe-anker-soundcore-sport-x10-earbuds-apple-ipad-deal-sale)
- - [Kneron to release AI chip this year](https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu)<!-- TECH:END -->
+ - [Get 20TB of cloud storage for just $99 with this lifetime deal](https://appleinsider.com/articles/23/08/15/get-20tb-of-cloud-storage-for-just-99-with-this-lifetime-deal?utm_medium=rss)
+ - [Setapp, known for its Mac and iOS app subscription service, plans to launch an alternative app store for iOS and iPadOS next year in the EU, thanks to the DMA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/230815/p14#a230815p14)
+ - [Fisker’s going for the Tesla connector as well](https://www.theverge.com/2023/8/15/23832744/fisker-tesla-nacs-connector-standard-supercharger-adapter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
