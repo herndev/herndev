@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 15-Inch MacBook Air Is Superb for Pro Photographers     - CNET](https://www.cnet.com/tech/computing/apples-15-inch-macbook-air-is-superb-for-pro-photography-work/#ftag=CAD590a51e)
  - [Crypto custody service Prime Trust and some of its affiliates file for Chapter 11 bankruptcy, listing liabilities between $100M-$500M and assets $50M-$100M &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230814/p19#a230814p19)
- - [Coinbase launches the Stand with Crypto Alliance, a US advocacy organization meant to mobilize the crypto community before Congress votes on key legislation &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230814/p18#a230814p18)
- - [In an amended indictment, the US DOJ alleges SBF used money he stole from FTX customers to make $100M+ in political campaign donations before the 2022 midterms &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230814/p17#a230814p17)<!-- TECH:END -->
+ - [Coinbase launches the Stand with Crypto Alliance, a US advocacy organization meant to mobilize the crypto community before Congress votes on key legislation &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230814/p18#a230814p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
