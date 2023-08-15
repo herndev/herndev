@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AI chatbots and LLM models are little more than &#39;glorified tape recorders&#39;](https://www.pcgamer.com/ai-chatbots-and-llm-models-are-little-more-than-glorified-tape-recorders)
  - [Intel retakes some CPU market share from AMD as CPU shipments tick upwards](https://www.pcgamer.com/intel-retakes-some-cpu-market-share-from-amd-as-cpu-shipments-tick-upwards)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/14/this-weeks-deals-with-gold-and-spotlight-sale-284/)
- - [Today&#39;s Wordle hint and answer #787: Tuesday, August 15](https://www.pcgamer.com/wordle-answer-today-hint-787-august-15)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/14/this-weeks-deals-with-gold-and-spotlight-sale-284/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
