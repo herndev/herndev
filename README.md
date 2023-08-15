@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 15-Inch MacBook Air Is Superb for Pro Photographers     - CNET](https://www.cnet.com/tech/computing/apples-15-inch-macbook-air-is-superb-for-pro-photography-work/#ftag=CAD590a51e)
- - [Crypto custody service Prime Trust and some of its affiliates file for Chapter 11 bankruptcy, listing liabilities between $100M-$500M and assets $50M-$100M &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230814/p19#a230814p19)
- - [Coinbase launches the Stand with Crypto Alliance, a US advocacy organization meant to mobilize the crypto community before Congress votes on key legislation &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230814/p18#a230814p18)<!-- TECH:END -->
+ - [The Galaxy S24 Ultra’s new 3x camera could address a key Ultra weakness](https://www.androidauthority.com/samsung-galaxy-s24-ultra-3x-camera-weakness-3354739/)
+ - [Spain vs. Sweden: How to Watch FIFA Women&#39;s World Cup 2023 Semifinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/#ftag=CAD590a51e)
+ - [Apple&#39;s 15-Inch MacBook Air Is Superb for Pro Photographers     - CNET](https://www.cnet.com/tech/computing/apples-15-inch-macbook-air-is-superb-for-pro-photography-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
