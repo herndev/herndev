@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can change the look of your Baldur&#39;s Gate 3 dice with an easy-to-miss setting](https://www.pcgamer.com/you-can-change-the-look-of-your-baldurs-gate-3-dice-with-an-easy-to-miss-setting)
  - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
- - [Baldur’s Gate 3 Will Soon Let You Re-Customize Your Character](https://kotaku.com/baldurs-gate-3-midge-character-customization-larian-1850740225)
- - [Xbox Says ‘8 Strikes And You’re Out’ To Toxic Gamers](https://kotaku.com/xbox-enforcement-strike-system-toxic-voice-chat-ban-1850740195)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Will Soon Let You Re-Customize Your Character](https://kotaku.com/baldurs-gate-3-midge-character-customization-larian-1850740225)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
