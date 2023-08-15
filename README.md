@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - ⏩ [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
- - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
+ - 💣 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - ⏩ [Animation of the destruction of the human body in the Titan bathyscaphe](http://9gag.com/gag/ajVdvOG)
+ - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
 
 ---
 
