@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
- - ⏩ [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 👉 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)<!-- MEMES:END -->
+ - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - ⏩ [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
 
 ---
 
