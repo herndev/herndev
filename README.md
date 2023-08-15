@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suit Up for Madden NFL 24 Early with EA Play](https://news.xbox.com/en-us/2023/08/15/madden-nfl-24-early-access-with-ea-play/)
- - [Armored Core 6 system requirements are pretty much the same as the Elden Ring system requirements](https://www.pcgamer.com/armored-core-6-pc-system-requirements)
- - [Gris, Firewatch, and Texas Chainsaw Massacre coming to Game Pass](https://www.polygon.com/23833126/xbox-game-pass-august-2023-gris-firewatch-texas-chainsaw-massacre)<!-- GAME:END -->
+ - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
+ - [Baldur’s Gate 3 Will Soon Let You Re-Customize Your Character](https://kotaku.com/baldurs-gate-3-midge-character-customization-larian-1850740225)
+ - [Xbox Says ‘8 Strikes And You’re Out’ To Toxic Gamers](https://kotaku.com/xbox-enforcement-strike-system-toxic-voice-chat-ban-1850740195)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
