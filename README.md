@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get 20TB of cloud storage for just $99 with this lifetime deal](https://appleinsider.com/articles/23/08/15/get-20tb-of-cloud-storage-for-just-99-with-this-lifetime-deal?utm_medium=rss)
- - [Setapp, known for its Mac and iOS app subscription service, plans to launch an alternative app store for iOS and iPadOS next year in the EU, thanks to the DMA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/230815/p14#a230815p14)
- - [Fisker’s going for the Tesla connector as well](https://www.theverge.com/2023/8/15/23832744/fisker-tesla-nacs-connector-standard-supercharger-adapter)<!-- TECH:END -->
+ - [YouTube Music has a TikTok-like ‘Samples’ tab to help you find new music](https://www.theverge.com/2023/8/15/23832245/youtube-music-samples-tab-discovery)
+ - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)
+ - [Aqara launches new multi-zone light strip with HomeKit &amp; Adaptive Lighting](https://appleinsider.com/articles/23/08/15/aqara-launches-new-multi-zone-light-strip-with-homekit-adaptive-lighting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
