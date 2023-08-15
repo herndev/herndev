@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - ⏩ [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
+ - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
 
 ---
 
