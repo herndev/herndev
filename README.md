@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The recent criticism of Linus Tech Tips, explained](https://www.pcgamer.com/the-recent-criticism-of-linus-tech-tips-explained)
- - [Short Baldur’s Gate 3 Players Can’t Properly Kiss Their Loves](https://kotaku.com/baldurs-gate-3-short-people-problems-karlach-gnome-kiss-1850740931)
- - [LG just went ahead and put an entire smart TV in a briefcase, effectively ruining all of my future family vacations](https://www.pcgamer.com/lg-just-went-ahead-and-put-an-entire-smart-tv-in-a-briefcase-effectively-ruining-all-of-my-future-family-vacations)<!-- GAME:END -->
+ - [Barbie takes the perfect path through its complicated fantasy elements](https://www.polygon.com/23811446/barbie-barbieland-fan-theory-margot-robbie-ryan-gosling)
+ - [4 ways to clean your bloody, muddy, disgusting face in Baldur&#39;s Gate 3 without long resting](https://www.pcgamer.com/baldurs-gate-3-clean-bloody-face-muddy)
+ - [How to free True Soul Nere from the cave-in in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-free-true-soul-nere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
