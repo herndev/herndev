@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Can Stufful be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831726/can-stufful-be-shiny-bewear)
- - [AI chatbots and LLM models are little more than &#39;glorified tape recorders&#39;](https://www.pcgamer.com/ai-chatbots-and-llm-models-are-little-more-than-glorified-tape-recorders)
- - [Intel retakes some CPU market share from AMD as CPU shipments tick upwards](https://www.pcgamer.com/intel-retakes-some-cpu-market-share-from-amd-as-cpu-shipments-tick-upwards)<!-- GAME:END -->
+ - [Gear up for back to school with the cutting edge at huge discounts](https://www.pcgamer.com/gear-up-for-back-to-school-with-the-cutting-edge-at-huge-discounts)
+ - [AI chatbots and large language models are little more than &#39;glorified tape recorders&#39;](https://www.pcgamer.com/ai-chatbots-and-llm-models-are-little-more-than-glorified-tape-recorders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
