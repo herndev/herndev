@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - ⏩ [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 💣 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
+ - ⏩ [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)
+ - 👉 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)<!-- MEMES:END -->
 
 ---
 
