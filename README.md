@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD CEO Lisa Su is coming to the Code Conference](https://www.theverge.com/2023/8/15/23831464/lisa-su-code-conference-amd-ai)
- - [Google’s AI will now summarize lengthy articles into key points](https://www.androidauthority.com/google-ai-summarizes-articles-3355265/)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [It’s time to rethink our relationships with streaming services](https://www.theverge.com/23831904/streaming-wars-price-hikes-disney-plus-hbo-max-hulu)
+ - [Lamborghini teases first fully electric supercar ahead of official reveal August 18th](https://www.theverge.com/2023/8/15/23833279/lamborghini-ev-concept-image-reveal-monterey)
+ - [Blizzard is previewing a Diablo III single-player mode — 11 years after the game launched](https://www.theverge.com/2023/8/15/23833117/diablo-3-single-player-solo-self-found-season-29-visions-of-enmity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
