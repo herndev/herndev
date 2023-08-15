@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - ⏩ [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [Money](http://9gag.com/gag/aqedVqQ)<!-- MEMES:END -->
+ - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - ⏩ [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
 
 ---
 
