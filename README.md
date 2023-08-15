@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Down A Retro Action Rabbit Hole With Every Mega Man Ever For Just $30](https://kotaku.com/mega-man-x-zero-zx-legacy-collection-cheap-sale-switch-1850739165)
- - [Why Across The Spider-Verse&#39;s Home Release Isn&#39;t Like The Theatrical Cuts](https://kotaku.com/spider-man-across-the-spiderverse-changes-scenes-1850739223)
- - [Baldur&#39;s Gate 3 modders have added WASD controls, letting you jog around the Sword Coast like it&#39;s an MMO](https://www.pcgamer.com/baldurs-gate-3-modders-have-added-wasd-controls-letting-you-jog-around-the-sword-coast-like-its-an-mmo)<!-- GAME:END -->
+ - [Ms. Biljana Electronica returns for the full ‘Planet of the Bass’ music video](https://www.polygon.com/23833059/planet-of-the-bass-dj-crazy-times-full-song-ms-biljana)
+ - [Netflix is moving — very gently — into cloud gaming](https://www.polygon.com/23832797/netflix-cloud-gaming-tv-pc-streaming-beta)
+ - [Horror Game Of The Summer Is Day One On Game Pass](https://kotaku.com/best-horror-games-2023-texas-chainsaw-game-pass-august-1850739477)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
