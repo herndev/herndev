@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can change the look of your Baldur&#39;s Gate 3 dice with an easy-to-miss setting](https://www.pcgamer.com/you-can-change-the-look-of-your-baldurs-gate-3-dice-with-an-easy-to-miss-setting)
- - [Should you side with He Who Was or Madeline in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23832181/he-who-was-madeline-bg3-forgive-punish-ledger-wicked)
- - [Baldur’s Gate 3 Will Soon Let You Re-Customize Your Character](https://kotaku.com/baldurs-gate-3-midge-character-customization-larian-1850740225)<!-- GAME:END -->
+ - [Destiny 2 game director finally gives hope to PvP fans in new video](https://www.polygon.com/23833469/destiny-2-final-shape-pvp-game-director-video)
+ - [Diablo 3&#39;s final season adds a solo play mode that fans have wanted for years](https://www.pcgamer.com/diablo-3s-final-season-adds-a-solo-play-mode-fans-have-wanted-for-years)
+ - [This Baldur&#39;s Gate 3 cheat mod delivers every weapon and armor in the game right to your camp](https://www.pcgamer.com/this-baldurs-gate-3-cheat-mod-delivers-every-weapon-and-armor-in-the-game-right-to-your-camp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
