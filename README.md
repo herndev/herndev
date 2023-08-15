@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sky launches MacBook purchase plan for UK customers](https://appleinsider.com/articles/23/08/15/sky-launches-macbook-purchase-plan-for-uk-customers?utm_medium=rss)
- - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
- - [Apple planning Face ID for MacBook Pro and iMac](https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch?utm_medium=rss)<!-- TECH:END -->
+ - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)
+ - [Comcast’s latest Wi-Fi 6 device aims to keep you online during a storm](https://www.theverge.com/2023/8/15/23832610/comcast-xfinity-storm-ready-wi-fi-6-extender-hurricane-price-release)
+ - [How the iMac saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
