@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They did it mentally](http://9gag.com/gag/armd0V0)
- - ⏩ [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 💣 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - ⏩ [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - 👉 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)<!-- MEMES:END -->
 
 ---
 
