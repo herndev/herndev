@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube starts mass takedowns of videos promoting ‘harmful or ineffective’ cancer cures](https://www.theverge.com/2023/8/15/23832603/youtube-cancer-treatment-misinformation-policy-medical)
- - [Substack now lets users follow individual writers without subscribing to their newsletter, a further expansion into social networking after Notes &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230815/p3#a230815p3)
- - [Filing: BAM Trading, which runs Binance.US, seeks a protective order against the SEC due to &quot;conducting a fishing expedition&quot;; the SEC seeks four depositions &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230815/p2#a230815p2)<!-- TECH:END -->
+ - [You can turn any Android or Windows device into a Chromecast with this app](https://www.androidauthority.com/castreceiver-app-turn-android-windows-into-chromecast-3355087/)
+ - [Email: X no longer lets advertisers promote their accounts within the platform&#39;s timeline to gain followers; a source says such ads generate $100M annually &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230815/p5#a230815p5)
+ - [A look at China&#39;s sweeping AI rules, taking effect on August 15 and governed by seven agencies, which soften an earlier draft and follow European regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p4#a230815p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
