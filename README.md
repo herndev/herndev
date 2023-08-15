@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helium Mobile’s suspiciously cheap phone plan is only for the bravest among us](https://www.theverge.com/2023/8/15/23833308/helium-network-mobile-miami-5)
- - [At a White House roundtable, the US Consumer Financial Protection Bureau touts Fair Credit Reporting Act rules to crack down on harmful data broker practices &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/230815/p25#a230815p25)
- - [Bing, Bard, and ChatGPT: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Save up to $1,579 on Apple products this week during B&amp;H&#39;s latest sale](https://appleinsider.com/articles/23/08/15/save-up-to-1579-on-apple-products-this-week-during-bhs-latest-sale?utm_medium=rss)
+ - [TweetDeck is officially becoming a paid service](https://www.theverge.com/2023/8/15/23833707/tweetdeck-xpro-paid-service-x-premium-twitter)
+ - [Amazon hikes the price of Music Unlimited for Prime subscribers, up $1/month to $9.99 for individual plans and family plans up $1/month to $16.99 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230815/p27#a230815p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
