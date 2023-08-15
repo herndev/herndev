@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - ⏩ [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
- - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
+ - 💣 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - ⏩ [They did it mentally](http://9gag.com/gag/armd0V0)
+ - 👉 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)<!-- MEMES:END -->
 
 ---
 
