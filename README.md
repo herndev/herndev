@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)
- - [Comcast’s latest Wi-Fi 6 device aims to keep you online during a storm](https://www.theverge.com/2023/8/15/23832610/comcast-xfinity-storm-ready-wi-fi-6-extender-hurricane-price-release)
- - [How the iMac saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)<!-- TECH:END -->
+ - [Daily deals Aug. 15: $70 off Apple Watch Series 8, AirPods 3 $139, $300 off 16&quot; M2 MacBook Pro, more](https://appleinsider.com/articles/23/08/15/daily-deals-aug-15-70-off-apple-watch-series-8-airpods-3-139-300-off-16-m2-macbook-pro-more?utm_medium=rss)
+ - [The note-taking Kindle Scribe is seeing its biggest discount since Prime Day](https://www.theverge.com/2023/8/15/23831614/amazon-kindle-scribe-anker-soundcore-sport-x10-earbuds-apple-ipad-deal-sale)
+ - [Kneron to release AI chip this year](https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
