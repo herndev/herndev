@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience Dynamic Aerial Ship Battles in Black Skylands](https://news.xbox.com/en-us/2023/08/15/black-sklylands-now-available/)
- - [Action MMO Wayfinder still makes room for cozy Stardew vibes](https://www.polygon.com/23832052/wayfinder-mmo-early-access-housing-systems-developer-plans)
- - [Modern Warfare III Reverses One Of Call Of Duty’s Most Controversial Changes](https://kotaku.com/modern-warfare-3-2023-release-date-mw3-red-dot-minimap-1850738931)<!-- GAME:END -->
+ - [Fall Down A Retro Action Rabbit Hole With Every Mega Man Ever For Just $30](https://kotaku.com/mega-man-x-zero-zx-legacy-collection-cheap-sale-switch-1850739165)
+ - [Why Across The Spider-Verse&#39;s Home Release Isn&#39;t Like The Theatrical Cuts](https://kotaku.com/spider-man-across-the-spiderverse-changes-scenes-1850739223)
+ - [Baldur&#39;s Gate 3 modders have added WASD controls, letting you jog around the Sword Coast like it&#39;s an MMO](https://www.pcgamer.com/baldurs-gate-3-modders-have-added-wasd-controls-letting-you-jog-around-the-sword-coast-like-its-an-mmo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
