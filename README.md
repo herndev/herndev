@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 game director finally gives hope to PvP fans in new video](https://www.polygon.com/23833469/destiny-2-final-shape-pvp-game-director-video)
- - [Diablo 3&#39;s final season adds a solo play mode that fans have wanted for years](https://www.pcgamer.com/diablo-3s-final-season-adds-a-solo-play-mode-fans-have-wanted-for-years)
- - [This Baldur&#39;s Gate 3 cheat mod delivers every weapon and armor in the game right to your camp](https://www.pcgamer.com/this-baldurs-gate-3-cheat-mod-delivers-every-weapon-and-armor-in-the-game-right-to-your-camp)<!-- GAME:END -->
+ - [The recent criticism of Linus Tech Tips, explained](https://www.pcgamer.com/the-recent-criticism-of-linus-tech-tips-explained)
+ - [Short Baldur’s Gate 3 Players Can’t Properly Kiss Their Loves](https://kotaku.com/baldurs-gate-3-short-people-problems-karlach-gnome-kiss-1850740931)
+ - [LG just went ahead and put an entire smart TV in a briefcase, effectively ruining all of my future family vacations](https://www.pcgamer.com/lg-just-went-ahead-and-put-an-entire-smart-tv-in-a-briefcase-effectively-ruining-all-of-my-future-family-vacations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
