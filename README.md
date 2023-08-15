@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man robbing an uber in the wrong way](http://9gag.com/gag/a3ZxXRr)
- - ⏩ [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 💣 [The Disappointment on her face.](http://9gag.com/gag/abvdnMv)
+ - ⏩ [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
 
 ---
 
