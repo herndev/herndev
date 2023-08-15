@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music has a TikTok-like ‘Samples’ tab to help you find new music](https://www.theverge.com/2023/8/15/23832245/youtube-music-samples-tab-discovery)
- - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)
- - [Aqara launches new multi-zone light strip with HomeKit &amp; Adaptive Lighting](https://appleinsider.com/articles/23/08/15/aqara-launches-new-multi-zone-light-strip-with-homekit-adaptive-lighting?utm_medium=rss)<!-- TECH:END -->
+ - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
+ - [The official Planet of the Bass music video is here](https://www.theverge.com/2023/8/15/23833092/planet-of-the-bass-music-video-official-dj-crazy-times-ms-biljana-electronica)
+ - [YouTube adds Samples, a music discovery feed featuring vertically cropped, 30-second clips uploaded directly by artists, on iOS and Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230815/p17#a230815p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
