@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - ⏩ [Animation of the destruction of the human body in the Titan bathyscaphe](http://9gag.com/gag/ajVdvOG)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - ⏩ [There is still hope](http://9gag.com/gag/avQDjzO)
+ - 👉 [Already invested..](http://9gag.com/gag/awZ8p8D)<!-- MEMES:END -->
 
 ---
 
