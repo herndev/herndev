@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - ⏩ [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
+ - 💣 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - ⏩ [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
 
 ---
 
