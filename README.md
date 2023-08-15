@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This debuff in Remnant 2 keeps catching players off guard by making them rip out their friends&#39; throats](https://www.pcgamer.com/this-debuff-in-remnant-2-keeps-catching-players-off-guard-by-making-them-rip-out-their-friends-throats)
- - [Logitech Pro X 2 Lightspeed review](https://www.pcgamer.com/logitech-g-pro-x-2-lightspeed-gaming-headset-review)
- - [Australian Senate committee warns TikTok and WeChat could be the country&#39;s biggest security risks](https://www.pcgamer.com/australian-senate-committee-warns-tiktok-and-wechat-could-be-the-countrys-biggest-security-risks)<!-- GAME:END -->
+ - [Nvidia&#39;s allegedly cutting desktop GPU supply in favor of gaming laptop chips](https://www.pcgamer.com/nvidias-allegedly-cutting-desktop-gpu-supply-in-favor-of-gaming-laptop-chips)
+ - [Sorry Shadowheart, but Lae&#39;zel is somehow my cleric&#39;s &#39;hot githyanki girlfriend&#39; in Baldur&#39;s Gate 3, and it&#39;s exhilarating](https://www.pcgamer.com/sorry-shadowheart-but-laezel-is-somehow-my-clerics-hot-githyanki-girlfriend-in-baldurs-gate-3-and-its-exhilarating)
+ - [Diablo 4&#39;s trading system is suspended indefinitely while Blizzard tries to stop dupers exploiting it to clone ill-gotten fortunes](https://www.pcgamer.com/diablo-4s-trading-system-is-suspended-indefinitely-while-blizzard-tries-to-stop-dupers-exploiting-it-to-clone-ill-gotten-fortunes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
