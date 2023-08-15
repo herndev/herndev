@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Stufful be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831726/can-stufful-be-shiny-bewear)
  - [AI chatbots and LLM models are little more than &#39;glorified tape recorders&#39;](https://www.pcgamer.com/ai-chatbots-and-llm-models-are-little-more-than-glorified-tape-recorders)
- - [Intel retakes some CPU market share from AMD as CPU shipments tick upwards](https://www.pcgamer.com/intel-retakes-some-cpu-market-share-from-amd-as-cpu-shipments-tick-upwards)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/14/this-weeks-deals-with-gold-and-spotlight-sale-284/)<!-- GAME:END -->
+ - [Intel retakes some CPU market share from AMD as CPU shipments tick upwards](https://www.pcgamer.com/intel-retakes-some-cpu-market-share-from-amd-as-cpu-shipments-tick-upwards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
