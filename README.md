@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daggerheart, the Critical Role publisher’s answer to D&amp;D, feels indistinct](https://www.polygon.com/23831824/daggerheart-critical-role-rpg-preview)
- - [Nvidia&#39;s allegedly cutting desktop GPU supply in favor of gaming laptop chips](https://www.pcgamer.com/nvidias-allegedly-cutting-desktop-gpu-supply-in-favor-of-gaming-laptop-chips)
- - [Sorry Shadowheart, but Lae&#39;zel is somehow my cleric&#39;s &#39;hot githyanki girlfriend&#39; in Baldur&#39;s Gate 3, and it&#39;s exhilarating](https://www.pcgamer.com/sorry-shadowheart-but-laezel-is-somehow-my-clerics-hot-githyanki-girlfriend-in-baldurs-gate-3-and-its-exhilarating)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Is Trying To Compete With My Actual D&amp;D Hobby—And It’s Losing](https://kotaku.com/baldur-s-gate-3-bg3-ttrpg-pathfinder-dnd-1850738638)
+ - [Diablo IV Freezes Trading After Dupe Trick And Gold Exploit Crash The Market](https://kotaku.com/diablo-iv-freezes-trading-after-dupe-trick-and-gold-exp-1850738634)
+ - [Baldur’s Gate 3 Is One Of 2023&#39;s Best Games, Don&#39;t Turn It Into A Weapon](https://kotaku.com/baldurs-gate-3-reviews-development-larian-studios-1850737062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
