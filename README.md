@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They did it mentally](http://9gag.com/gag/armd0V0)
- - ⏩ [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 💣 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - ⏩ [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
 
 ---
 
