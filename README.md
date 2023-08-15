@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Stufful be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831726/can-stufful-be-shiny-bewear)
- - [Gear up for back to school with the cutting edge at huge discounts](https://www.pcgamer.com/gear-up-for-back-to-school-with-the-cutting-edge-at-huge-discounts)
- - [AI chatbots and large language models are little more than &#39;glorified tape recorders&#39;](https://www.pcgamer.com/ai-chatbots-and-llm-models-are-little-more-than-glorified-tape-recorders)<!-- GAME:END -->
+ - [This debuff in Remnant 2 keeps catching players off guard by making them rip out their friends&#39; throats](https://www.pcgamer.com/this-debuff-in-remnant-2-keeps-catching-players-off-guard-by-making-them-rip-out-their-friends-throats)
+ - [Logitech Pro X 2 Lightspeed review](https://www.pcgamer.com/logitech-g-pro-x-2-lightspeed-gaming-headset-review)
+ - [Australian Senate committee warns TikTok and WeChat could be the country&#39;s biggest security risks](https://www.pcgamer.com/australian-senate-committee-warns-tiktok-and-wechat-could-be-the-countrys-biggest-security-risks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
