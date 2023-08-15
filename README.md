@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel retakes some CPU market share from AMD as CPU shipments tick upwards](https://www.pcgamer.com/intel-retakes-some-cpu-market-share-from-amd-as-cpu-shipments-tick-upwards)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/14/this-weeks-deals-with-gold-and-spotlight-sale-284/)
- - [Today&#39;s Wordle hint and answer #787: Tuesday, August 15](https://www.pcgamer.com/wordle-answer-today-hint-787-august-15)
- - [I spent some time with the Path of Exile 2 demo and it&#39;s absolutely cooking](https://www.pcgamer.com/path-of-exile-2-hands-on-preview)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #787: Tuesday, August 15](https://www.pcgamer.com/wordle-answer-today-hint-787-august-15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
