@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - ⏩ [They did it mentally](http://9gag.com/gag/armd0V0)
- - 👉 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)<!-- MEMES:END -->
+ - 💣 [Man robbing an uber in the wrong way](http://9gag.com/gag/a3ZxXRr)
+ - ⏩ [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 
