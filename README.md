@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can turn any Android or Windows device into a Chromecast with this app](https://www.androidauthority.com/castreceiver-app-turn-android-windows-into-chromecast-3355087/)
- - [Email: X no longer lets advertisers promote their accounts within the platform&#39;s timeline to gain followers; a source says such ads generate $100M annually &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230815/p5#a230815p5)
- - [A look at China&#39;s sweeping AI rules, taking effect on August 15 and governed by seven agencies, which soften an earlier draft and follow European regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p4#a230815p4)<!-- TECH:END -->
+ - [Sky launches MacBook purchase plan for UK customers](https://appleinsider.com/articles/23/08/15/sky-launches-macbook-purchase-plan-for-uk-customers?utm_medium=rss)
+ - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
+ - [Apple planning Face ID for MacBook Pro and iMac](https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
