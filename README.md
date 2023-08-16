@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)
- - [Apple TV+ reveals &#39;The Buccaneers&#39; to stream from November](https://appleinsider.com/articles/23/08/16/apple-tv-reveals-the-buccaneers-to-stream-from-november?utm_medium=rss)
- - [Authors call on FTC to investigate Amazon’s alleged monopoly in the bookselling industry](https://www.theverge.com/2023/8/16/23834223/amazon-authors-booksellers-monopoly-publishing-industry)<!-- TECH:END -->
+ - [Moment debuts 8 new iPhone lenses as part of T-Series overhaul](https://appleinsider.com/articles/23/08/16/moment-debuts-8-new-iphone-lenses-as-part-of-t-series-overhaul?utm_medium=rss)
+ - [Moment is upgrading its entire line of lenses for the latest phone cameras](https://www.theverge.com/2023/8/16/23833436/moment-smartphone-camera-t-series-lenses-iphone-android)
+ - [Daily deals Aug. 16: 14&quot; MacBook Pro $1,599, $749 MacBook Air, 25% off Magic Keyboard, more](https://appleinsider.com/articles/23/08/16/daily-deals-aug-16-14-macbook-pro-1499-749-macbook-air-25-off-magic-keyboard-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
