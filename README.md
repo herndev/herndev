@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Wyrmway in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-wyrmway-chamber-solutions)
- - [Stray Gods: The Roleplaying Musical review](https://www.pcgamer.com/stray-gods-the-roleplaying-musical-review)
- - [Intel&#39;s next-gen Battlemage GPU could take the fight to Nvidia&#39;s RTX 4080 after all](https://www.pcgamer.com/intels-next-gen-battlemage-gpu-could-take-the-fight-to-nvidias-rtx-4080-after-all)<!-- GAME:END -->
+ - [The best action movies to watch at home right now](https://www.polygon.com/what-to-watch/23445652/best-action-movies-netflix-streaming-watch)
+ - [Baki Hanma Has The Most Exciting, Ridiculous Battles In Anime](https://kotaku.com/baki-hanma-netflix-yujiro-obama-che-guevara-anime-1850741340)
+ - [Dell walloped with $6.5 million fine for fake monitor discounts](https://www.pcgamer.com/dell-walloped-with-dollar65-million-fine-for-fake-monitor-discounts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
