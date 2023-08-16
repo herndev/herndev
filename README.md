@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three iPhone 15 models rumored to get Thunderbolt/USB4 connector](https://appleinsider.com/articles/23/08/16/three-iphone-15-models-rumored-to-get-thunderboltusb4-connector?utm_medium=rss)
- - [Dell’s new monitor can transform into a touch display](https://www.theverge.com/2023/8/16/23834096/dell-24-touch-usb-c-hub-monitor-graphics-tablet-touchscreen)
- - [By the end of August, the EU DSA will force online platforms with 45M+ EU users to prove that they are ensuring that their products are not harming children &lpar;Politico&rpar;](http://www.techmeme.com/230816/p7#a230816p7)<!-- TECH:END -->
+ - [Apple gives in on the End Call button position in latest iOS 17 beta](https://appleinsider.com/articles/23/08/16/apple-gives-in-on-the-end-call-button-position?utm_medium=rss)
+ - [Tencent reports Q2 revenue up 11% YoY to ~$20.5B, below ~$20.8B est., and operating profit up 37% YoY to ~$6.9B, as cost-cutting helps boost its core units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230816/p8#a230816p8)
+ - [OnePlus Ace 2 Pro launched: A OnePlus 11T, if ever there were one](https://www.androidauthority.com/oneplus-ace-2-pro-3355474/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
