@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get genuine Pixel 7A parts at iFixit now](https://www.theverge.com/2023/8/16/23834937/google-pixel-7a-ifixit-genuine-parts-right-to-repair)
- - [Chrome will soon tell you why an extension disappeared](https://www.theverge.com/2023/8/16/23834980/google-chrome-extension-disappeared-safety-https)
- - [What is Ting Mobile? Ting Mobile plans, prices, and more](https://www.androidauthority.com/what-is-ting-ting-mobile-plans-3355190/)<!-- TECH:END -->
+ - [Memo: the White House told US agencies to shore up their cybersecurity after many &quot;failed to fully comply&quot; with practices prescribed by a 2021 executive order &lpar;CNN&rpar;](http://www.techmeme.com/230816/p30#a230816p30)
+ - [Apple Podcasts removes &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)
+ - [You can get genuine Pixel 7A parts at iFixit now](https://www.theverge.com/2023/8/16/23834937/google-pixel-7a-ifixit-genuine-parts-right-to-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
