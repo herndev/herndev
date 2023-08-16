@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best space games to play on PC Game Pass ahead of Starfield&#39;s arrival](https://www.pcgamer.com/the-best-space-games-to-play-on-pc-game-pass-ahead-of-starfields-arrival)
- - [It’s time to accept save scumming as the best way to play RPGs](https://www.polygon.com/23834646/baldurs-gate-3-save-scum-f5-disco-elysium-skyrim)
- - [Here&#39;s Our First Look At The Scott Pilgrim Anime](https://kotaku.com/scott-pilgrim-netflix-trailer-release-date-anime-cera-1850744608)<!-- GAME:END -->
+ - [Cop Arrested And Fired For Allegedly Stealing Pokémon Cards](https://kotaku.com/cop-arrested-stole-pokemon-cards-alabama-cop-1850745121)
+ - [Popular YouTube Channel Linus Tech Tips Taking Break Following Massive Controversy [Update]](https://kotaku.com/linus-tech-tips-gamers-break-nexus-youtube-pc-gaming-1850743611)
+ - [The best space games to play on PC Game Pass ahead of Starfield&#39;s arrival](https://www.pcgamer.com/the-best-space-games-to-play-on-pc-game-pass-ahead-of-starfields-arrival)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
