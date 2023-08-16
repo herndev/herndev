@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
- - ⏩ [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 👉 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)<!-- MEMES:END -->
+ - 💣 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - ⏩ [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 👉 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)<!-- MEMES:END -->
 
 ---
 
