@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aKELRO3)
- - ⏩ [Abrupt chaos](http://9gag.com/gag/aREyYQB)
- - 👉 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)<!-- MEMES:END -->
+ - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - ⏩ [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
 
 ---
 
