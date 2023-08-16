@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s new online rules give cheaters and trolls 7 second chances before banning them for a year](https://www.pcgamer.com/microsofts-new-online-rules-give-cheaters-and-trolls-7-second-chances-before-banning-them-for-a-year)
- - [A mod has fixed Baldur&#39;s Gate 3&#39;s most annoying quirk—NPCs running away in fear from your pets](https://www.pcgamer.com/a-mod-has-fixed-baldurs-gate-3s-most-annoying-quirknpcs-running-away-in-fear-from-your-pets)
- - [Baldur&#39;s Gate 3 endings and what you can choose](https://www.pcgamer.com/baldurs-gate-3-endings)<!-- GAME:END -->
+ - [How to complete the Wyrmway in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-wyrmway-chamber-solutions)
+ - [Stray Gods: The Roleplaying Musical review](https://www.pcgamer.com/stray-gods-the-roleplaying-musical-review)
+ - [Intel&#39;s next-gen Battlemage GPU could take the fight to Nvidia&#39;s RTX 4080 after all](https://www.pcgamer.com/intels-next-gen-battlemage-gpu-could-take-the-fight-to-nvidias-rtx-4080-after-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
