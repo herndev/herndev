@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)
- - ⏩ [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
+ - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - ⏩ [Abrupt chaos](http://9gag.com/gag/aREyYQB)
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 
