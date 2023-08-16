@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NHL 24’s big changes include a ‘complete revamp’ of gameplay — and a battle pass](https://www.polygon.com/23833547/nhl-24-trailer-release-date-gameplay-modes-cover)
- - [Baldur&#39;s Gate 3 review](https://www.pcgamer.com/baldurs-gate-3-review)
- - [Squidward’s Nickelodeon All-Star Brawl 2 Moveset Includes His Iconic Dance](https://kotaku.com/nickelodeon-all-star-brawl-2-squidward-dance-handsome-1850742986)<!-- GAME:END -->
+ - [Steam&#39;s cheapest games are getting pricier outside the US](https://www.pcgamer.com/steams-cheapest-games-are-getting-pricier-outside-the-us)
+ - [How illithid powers work in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-illithid-powers)
+ - [Steam Remote Play Is Getting Prettier With 4K Streaming](https://kotaku.com/steam-remote-play-streaming-4k-beta-update-1850743229)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
