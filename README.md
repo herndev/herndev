@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 endings and what you can choose](https://www.pcgamer.com/baldurs-gate-3-endings)
  - [The new 3DMark benchmark lets you test the ray tracing performance of your Android phone](https://www.pcgamer.com/the-new-3dmark-benchmark-lets-you-test-the-ray-tracing-performance-of-your-android-phone)
- - [Pochita and Chainsaw Man get wild new accessories, courtesy of Casetify](https://www.polygon.com/deals/2023/8/16/23833228/pochita-chainsaw-man-casetify-airpods-accessories-iphone-samsung-google)
- - [Today&#39;s Wordle hint and answer #788: Wednesday, August 16](https://www.pcgamer.com/wordle-answer-today-hint-788-august-16)<!-- GAME:END -->
+ - [Pochita and Chainsaw Man get wild new accessories, courtesy of Casetify](https://www.polygon.com/deals/2023/8/16/23833228/pochita-chainsaw-man-casetify-airpods-accessories-iphone-samsung-google)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
