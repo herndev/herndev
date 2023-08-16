@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gives in on the End Call button position in latest iOS 17 beta](https://appleinsider.com/articles/23/08/16/apple-gives-in-on-the-end-call-button-position?utm_medium=rss)
- - [Tencent reports Q2 revenue up 11% YoY to ~$20.5B, below ~$20.8B est., and operating profit up 37% YoY to ~$6.9B, as cost-cutting helps boost its core units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230816/p8#a230816p8)
- - [OnePlus Ace 2 Pro launched: A OnePlus 11T, if ever there were one](https://www.androidauthority.com/oneplus-ace-2-pro-3355474/)<!-- TECH:END -->
+ - [Microsoft 365 Copilot: Release date, feature and pricing](https://www.androidauthority.com/microsoft-365-copilot-release-date-3355464/)
+ - [JD.com reports Q2 revenue up 7.6% YoY to ~$39.7B, beating ~$38.27B est., as retail sales rose just 2.5% YoY, below analyst estimates of 4.5% YoY; JD drops 4.5%+ &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230816/p12#a230816p12)
+ - [Crash Detection guides help to critically-injured driver](https://appleinsider.com/articles/23/08/16/crash-detection-guides-help-to-critically-injured-driver?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
