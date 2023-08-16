@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Makes It Impossible To Know If I’m Making The Right Choices, And I Love It](https://kotaku.com/baldurs-gate-3-larian-rpg-pc-steam-story-choices-dnd-1850743459)
- - [Popular YouTube Channel Linus Tech Tips Taking Break Following Massive Controversy](https://kotaku.com/linus-tech-tips-gamers-break-nexus-youtube-pc-gaming-1850743611)
- - [It’s Now Even Easier To Check How A Game Runs On Steam Deck](https://kotaku.com/steam-deck-verified-status-remnant-2-proton-1850743584)<!-- GAME:END -->
+ - [The Best Place For Video Game Tips Is Pornhub’s Comment Section](https://kotaku.com/pornhub-video-game-tips-comment-help-minecraft-fortnite-1850743870)
+ - [The wireless N64 Controller is back in stock](https://www.polygon.com/deals/2023/8/16/23834606/nintendo-n64-controller-restock-wireless-switch)
+ - [You Can Preload Starfield On PC, Xbox Starting This Month](https://kotaku.com/bethesda-starfield-gold-preload-xbox-series-s-x-pc-1850743800)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
