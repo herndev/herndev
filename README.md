@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know you guys hate single moms, but what do you think about this?](http://9gag.com/gag/ajVdeXq)
- - ⏩ [There is still hope](http://9gag.com/gag/avQDjzO)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - ⏩ [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 👉 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)<!-- MEMES:END -->
 
 ---
 
