@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
+ - 💣 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
+ - ⏩ [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
+ - 👉 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)<!-- MEMES:END -->
 
 ---
 
