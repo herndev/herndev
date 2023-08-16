@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best action movies to watch at home right now](https://www.polygon.com/what-to-watch/23445652/best-action-movies-netflix-streaming-watch)
- - [Baki Hanma Has The Most Exciting, Ridiculous Battles In Anime](https://kotaku.com/baki-hanma-netflix-yujiro-obama-che-guevara-anime-1850741340)
- - [Dell walloped with $6.5 million fine for fake monitor discounts](https://www.pcgamer.com/dell-walloped-with-dollar65-million-fine-for-fake-monitor-discounts)<!-- GAME:END -->
+ - [NHL 24’s big changes include a ‘complete revamp’ of gameplay — and a battle pass](https://www.polygon.com/23833547/nhl-24-trailer-release-date-gameplay-modes-cover)
+ - [Baldur&#39;s Gate 3 review](https://www.pcgamer.com/baldurs-gate-3-review)
+ - [Squidward’s Nickelodeon All-Star Brawl 2 Moveset Includes His Iconic Dance](https://kotaku.com/nickelodeon-all-star-brawl-2-squidward-dance-handsome-1850742986)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
