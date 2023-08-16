@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Commerce Department has built a team of people from Goldman Sachs, Blackstone, KKR, and other Wall Street firms to help allocate $39B in chip subsidies &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/230815/p30#a230815p30)
  - [Hollywood, Florida-based ClassWallet, which offers a digital wallet-based purchasing and reimbursement service for public funds, raised $95M led by Guidepost &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230815/p29#a230815p29)
- - [Apple moved the end call button again in iOS 17](https://www.theverge.com/2023/8/15/23833689/apple-ios-17-end-call-button-moved-again-beta)
- - [Amazon Music Unlimited is getting more expensive for Prime subscribers](https://www.theverge.com/2023/8/15/23833756/amazon-music-unlimited-price-prime-subscribers)<!-- TECH:END -->
+ - [Apple moved the end call button again in iOS 17](https://www.theverge.com/2023/8/15/23833689/apple-ios-17-end-call-button-moved-again-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
