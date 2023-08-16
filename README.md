@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - ⏩ [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 👉 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)<!-- MEMES:END -->
+ - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
+ - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 
