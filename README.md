@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - ⏩ [It&#39;s like a magic ward](http://9gag.com/gag/ajVdoZp)
- - 👉 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)<!-- MEMES:END -->
+ - ⏩ [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
+ - 👉 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)<!-- MEMES:END -->
 
 ---
 
