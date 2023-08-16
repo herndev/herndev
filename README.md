@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice dogs](http://9gag.com/gag/adPdD8j)
- - ⏩ [Already invested..](http://9gag.com/gag/awZ8p8D)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 💣 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
+ - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 👉 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)<!-- MEMES:END -->
 
 ---
 
