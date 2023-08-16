@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
- - ⏩ [Based](http://9gag.com/gag/aKELRO3)
- - 👉 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)<!-- MEMES:END -->
+ - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - ⏩ [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 
