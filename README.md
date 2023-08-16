@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cop Arrested And Fired For Allegedly Stealing Pokémon Cards](https://kotaku.com/cop-arrested-stole-pokemon-cards-alabama-cop-1850745121)
- - [Popular YouTube Channel Linus Tech Tips Taking Break Following Massive Controversy [Update]](https://kotaku.com/linus-tech-tips-gamers-break-nexus-youtube-pc-gaming-1850743611)
- - [The best space games to play on PC Game Pass ahead of Starfield&#39;s arrival](https://www.pcgamer.com/the-best-space-games-to-play-on-pc-game-pass-ahead-of-starfields-arrival)<!-- GAME:END -->
+ - [Genshin Impact Fontaine weapon blueprint locations](https://www.polygon.com/23834514/fontaine-weapon-blueprint-locations-bulle-fruit-tidalga-marcotte-condessence-crystal-pluie-lotus)
+ - [Starfield has gone gold, preloads are coming](https://www.pcgamer.com/starfield-has-gone-gold-preloads-are-coming)
+ - [Activision pushes back on rumors that Modern Warfare 3 is a glorified expansion: &#39;Our vision to deliver back-to-back Modern Warfare games has been years in the making&#39;](https://www.pcgamer.com/activision-pushes-back-on-rumors-that-modern-warfare-3-is-a-glorified-expansion-our-vision-to-deliver-back-to-back-modern-warfare-games-has-been-years-in-the-making)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
