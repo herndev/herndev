@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department has built a team of people from Goldman Sachs, Blackstone, KKR, and other Wall Street firms to help allocate $39B in chip subsidies &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/230815/p30#a230815p30)
- - [Hollywood, Florida-based ClassWallet, which offers a digital wallet-based purchasing and reimbursement service for public funds, raised $95M led by Guidepost &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230815/p29#a230815p29)
- - [Apple moved the end call button again in iOS 17](https://www.theverge.com/2023/8/15/23833689/apple-ios-17-end-call-button-moved-again-beta)<!-- TECH:END -->
+ - [New price drops: save up to $1,400 on M1 Pro &amp; M1 Max MacBooks, plus AppleCare deals](https://appleinsider.com/articles/23/08/16/new-price-drops-save-up-to-1400-on-m1-pro-m1-max-macbooks-plus-applecare-deals?utm_medium=rss)
+ - [Sources: Intel is expected to call off its planned $5.4B Tower acquisition, which had an August 15 deadline, as time to win Chinese regulatory approval runs out &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p31#a230815p31)
+ - [The US Commerce Department has built a team of people from Goldman Sachs, Blackstone, KKR, and other Wall Street firms to help allocate $39B in chip subsidies &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/230815/p30#a230815p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
