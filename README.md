@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - ⏩ [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 👉 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)<!-- MEMES:END -->
+ - 💣 [Nice dogs](http://9gag.com/gag/adPdD8j)
+ - ⏩ [Already invested..](http://9gag.com/gag/awZ8p8D)
+ - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
 
 ---
 
