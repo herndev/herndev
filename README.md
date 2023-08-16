@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moment debuts 8 new iPhone lenses as part of T-Series overhaul](https://appleinsider.com/articles/23/08/16/moment-debuts-8-new-iphone-lenses-as-part-of-t-series-overhaul?utm_medium=rss)
- - [Moment is upgrading its entire line of lenses for the latest phone cameras](https://www.theverge.com/2023/8/16/23833436/moment-smartphone-camera-t-series-lenses-iphone-android)
- - [Daily deals Aug. 16: 14&quot; MacBook Pro $1,599, $749 MacBook Air, 25% off Magic Keyboard, more](https://appleinsider.com/articles/23/08/16/daily-deals-aug-16-14-macbook-pro-1499-749-macbook-air-25-off-magic-keyboard-more?utm_medium=rss)<!-- TECH:END -->
+ - [Blue Beetle is the kitschy sort of superhero throwback DC should have been making years ago](https://www.theverge.com/23833475/blue-beetle-movie-review)
+ - [CrossOver update brings EA and DirectX 12 game support to Mac](https://appleinsider.com/articles/23/08/16/crossover-update-brings-ea-and-directx-12-game-support-to-mac?utm_medium=rss)
+ - [Microsoft Teams is now part of the Xbox Game Bar so you can stream gameplay to friends](https://www.theverge.com/2023/8/16/23834413/microsoft-teams-xbox-game-bar-live-stream-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
