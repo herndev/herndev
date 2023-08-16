@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A cheap Bluetooth transmitter can spoof some iPhone notifications](https://appleinsider.com/articles/23/08/16/a-cheap-bluetooth-transmitter-can-spoof-some-iphone-notifications?utm_medium=rss)
- - [Cisco reports Q4 revenue up 16% YoY to $15.2B, vs. $15.05B est., net income up 41% YoY to $4B, and forecasts FY 2024 revenue below estimates &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230816/p29#a230816p29)
- - [Conservative radio host Glenn Beck says all podcast episodes of The Glenn Beck Program &quot;have been removed from Apple/iTunes with no explanation&quot; &lpar;Candice Ortiz/Mediaite&rpar;](http://www.techmeme.com/230816/p28#a230816p28)<!-- TECH:END -->
+ - [You can get genuine Pixel 7A parts at iFixit now](https://www.theverge.com/2023/8/16/23834937/google-pixel-7a-ifixit-genuine-parts-right-to-repair)
+ - [Chrome will soon tell you why an extension disappeared](https://www.theverge.com/2023/8/16/23834980/google-chrome-extension-disappeared-safety-https)
+ - [What is Ting Mobile? Ting Mobile plans, prices, and more](https://www.androidauthority.com/what-is-ting-ting-mobile-plans-3355190/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
