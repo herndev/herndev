@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
+ - 💣 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
+ - ⏩ [Based](http://9gag.com/gag/aKELRO3)
+ - 👉 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)<!-- MEMES:END -->
 
 ---
 
