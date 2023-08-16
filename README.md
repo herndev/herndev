@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Venba’ Takes Me Back to My Roots Through Food and Family](https://www.wired.com/story/venba-food-family-india-impressions/)
- - [Urbanista Malibu Solar Speaker: Battery Life, Specs, Price, Release Date](https://www.wired.com/story/urbanista-malibu-solar-speaker/)
- - [15 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)
+ - [Sony’s open-style LinkBuds earbuds have returned to their all-time low](https://www.theverge.com/2023/8/16/23832830/sony-linkbuds-earbuds-samsung-galaxy-z-fold-flip-5-jbl-flip-6-deal-sale)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-16-2023-3354944/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
