@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How beta tests shaped Warcraft Rumble, Blizzard’s next mobile game](https://www.polygon.com/23834667/warcraft-rumble-beta-design-heroes-armies-campaign-pvp)
- - [Boxville: How a Team of New Developers Created their First Game During Wartime](https://news.xbox.com/en-us/2023/08/16/how-new-developers-created-boxville/)
- - [Aaron Rodgers’ Hard Knocks debut cements his status as football’s biggest weirdo](https://www.polygon.com/23834676/hard-knocks-aaron-rodgers-jets-nfl-episodes-season)<!-- GAME:END -->
+ - [The best space games to play on PC Game Pass ahead of Starfield&#39;s arrival](https://www.pcgamer.com/the-best-space-games-to-play-on-pc-game-pass-ahead-of-starfields-arrival)
+ - [It’s time to accept save scumming as the best way to play RPGs](https://www.polygon.com/23834646/baldurs-gate-3-save-scum-f5-disco-elysium-skyrim)
+ - [Here&#39;s Our First Look At The Scott Pilgrim Anime](https://kotaku.com/scott-pilgrim-netflix-trailer-release-date-anime-cera-1850744608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
