@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - ⏩ [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
+ - ⏩ [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 
