@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
+ - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
  - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 👉 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)<!-- MEMES:END -->
+ - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
 
 ---
 
