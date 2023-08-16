@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)
- - [Sony’s open-style LinkBuds earbuds have returned to their all-time low](https://www.theverge.com/2023/8/16/23832830/sony-linkbuds-earbuds-samsung-galaxy-z-fold-flip-5-jbl-flip-6-deal-sale)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-16-2023-3354944/)<!-- TECH:END -->
+ - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)
+ - [Apple TV+ reveals &#39;The Buccaneers&#39; to stream from November](https://appleinsider.com/articles/23/08/16/apple-tv-reveals-the-buccaneers-to-stream-from-november?utm_medium=rss)
+ - [Authors call on FTC to investigate Amazon’s alleged monopoly in the bookselling industry](https://www.theverge.com/2023/8/16/23834223/amazon-authors-booksellers-monopoly-publishing-industry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
