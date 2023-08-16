@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Beetle is the kitschy sort of superhero throwback DC should have been making years ago](https://www.theverge.com/23833475/blue-beetle-movie-review)
- - [CrossOver update brings EA and DirectX 12 game support to Mac](https://appleinsider.com/articles/23/08/16/crossover-update-brings-ea-and-directx-12-game-support-to-mac?utm_medium=rss)
- - [Microsoft Teams is now part of the Xbox Game Bar so you can stream gameplay to friends](https://www.theverge.com/2023/8/16/23834413/microsoft-teams-xbox-game-bar-live-stream-feature)<!-- TECH:END -->
+ - [New York City bans TikTok from city-owned devices and requires agencies to remove the app within the next 30 days, after a review by the NYC Cyber Command &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230816/p26#a230816p26)
+ - [Special counsel obtained ‘some volume’ of DMs from Donald Trump’s Twitter account](https://www.theverge.com/2023/8/16/23834394/special-counsel-donald-trump-twitter-january-6-2020-election-indictment)
+ - [OpenAI bought the makers of a Minecraft clone](https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
