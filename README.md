@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - ⏩ [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
+ - 💣 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
+ - ⏩ [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
+ - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---
 
