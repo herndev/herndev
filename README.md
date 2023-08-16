@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel terminates its $5.4B deal to acquire Israeli company Tower Semiconductor after failing to win regulatory approval; the deal was announced in February 2022 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230816/p6#a230816p6)
- - [Ampere: in 2023, console video game players will spend $21B on in-game items and subscriptions, as &quot;live service games&quot; make the market more akin to mobile &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230816/p5#a230816p5)
- - [Nokia G310 hits US: A repairable phone with 3.5mm port, microSD slot](https://www.androidauthority.com/nokia-g310-3355445/)<!-- TECH:END -->
+ - [Three iPhone 15 models rumored to get Thunderbolt/USB4 connector](https://appleinsider.com/articles/23/08/16/three-iphone-15-models-rumored-to-get-thunderboltusb4-connector?utm_medium=rss)
+ - [Dell’s new monitor can transform into a touch display](https://www.theverge.com/2023/8/16/23834096/dell-24-touch-usb-c-hub-monitor-graphics-tablet-touchscreen)
+ - [By the end of August, the EU DSA will force online platforms with 45M+ EU users to prove that they are ensuring that their products are not harming children &lpar;Politico&rpar;](http://www.techmeme.com/230816/p7#a230816p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
