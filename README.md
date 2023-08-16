@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - ⏩ [Abrupt chaos](http://9gag.com/gag/aREyYQB)
+ - 💣 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
+ - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
  - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
