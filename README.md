@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pochita and Chainsaw Man get wild new accessories, courtesy of Casetify](https://www.polygon.com/deals/2023/8/16/23833228/pochita-chainsaw-man-casetify-airpods-accessories-iphone-samsung-google)
  - [Today&#39;s Wordle hint and answer #788: Wednesday, August 16](https://www.pcgamer.com/wordle-answer-today-hint-788-august-16)
- - [Sex% is now an official Baldur&#39;s Gate 3 speedrun category and someone already did it in under 8 minutes](https://www.pcgamer.com/sex-is-now-an-official-baldurs-gate-3-speedrun-category-and-someone-already-did-it-in-under-8-minutes)
- - [What&#39;s next for Baldur&#39;s Gate 3: over 1,000 &#39;fixes and tweaks,&#39; official mod tools, requested features](https://www.pcgamer.com/whats-next-for-baldurs-gate-3-over-1000-fixes-and-tweaks-official-mod-tools-requested-features)<!-- GAME:END -->
+ - [Sex% is now an official Baldur&#39;s Gate 3 speedrun category and someone already did it in under 8 minutes](https://www.pcgamer.com/sex-is-now-an-official-baldurs-gate-3-speedrun-category-and-someone-already-did-it-in-under-8-minutes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
