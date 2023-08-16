@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linus Tech Tips pauses production as controversy swirls](https://www.theverge.com/2023/8/16/23834190/linus-tech-tips-gamersnexus-madison-reeves-controversy)
- - [Android’s Nearby Share may actually become a worthy AirDrop competitor](https://www.androidauthority.com/new-android-nearby-share-feature-3355603/)
- - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai)<!-- TECH:END -->
+ - [Roblox is about to let users sell custom-made avatar bodies and heads](https://www.theverge.com/2023/8/16/23834790/roblox-ugc-sell-avatar-bodies-heads)
+ - [Apple TV+ romantic sci-fi film &#39;Fingernails&#39; sets premiere date](https://appleinsider.com/articles/23/08/16/apple-tv-romantic-sci-fi-film-fingernails-sets-premiere-date?utm_medium=rss)
+ - [3D printer nightmare fuel: Bambu X1C and P1P started printing while owners were asleep](https://www.theverge.com/2023/8/16/23064592/bambu-print-asleep-cloud-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
