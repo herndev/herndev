@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - ⏩ [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
- - 👉 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)<!-- MEMES:END -->
+ - 💣 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)
+ - ⏩ [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 
