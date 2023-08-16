@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - ⏩ [There is still hope](http://9gag.com/gag/avQDjzO)
- - 👉 [Already invested..](http://9gag.com/gag/awZ8p8D)<!-- MEMES:END -->
+ - 💣 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - ⏩ [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)
+ - 👉 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)<!-- MEMES:END -->
 
 ---
 
