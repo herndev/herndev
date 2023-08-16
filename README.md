@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s cheapest games are getting pricier outside the US](https://www.pcgamer.com/steams-cheapest-games-are-getting-pricier-outside-the-us)
- - [How illithid powers work in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-illithid-powers)
- - [Steam Remote Play Is Getting Prettier With 4K Streaming](https://kotaku.com/steam-remote-play-streaming-4k-beta-update-1850743229)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Makes It Impossible To Know If I’m Making The Right Choices, And I Love It](https://kotaku.com/baldurs-gate-3-larian-rpg-pc-steam-story-choices-dnd-1850743459)
+ - [Popular YouTube Channel Linus Tech Tips Taking Break Following Massive Controversy](https://kotaku.com/linus-tech-tips-gamers-break-nexus-youtube-pc-gaming-1850743611)
+ - [It’s Now Even Easier To Check How A Game Runs On Steam Deck](https://kotaku.com/steam-deck-verified-status-remnant-2-proton-1850743584)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
