@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Place For Video Game Tips Is Pornhub’s Comment Section](https://kotaku.com/pornhub-video-game-tips-comment-help-minecraft-fortnite-1850743870)
- - [The wireless N64 Controller is back in stock](https://www.polygon.com/deals/2023/8/16/23834606/nintendo-n64-controller-restock-wireless-switch)
- - [You Can Preload Starfield On PC, Xbox Starting This Month](https://kotaku.com/bethesda-starfield-gold-preload-xbox-series-s-x-pc-1850743800)<!-- GAME:END -->
+ - [How beta tests shaped Warcraft Rumble, Blizzard’s next mobile game](https://www.polygon.com/23834667/warcraft-rumble-beta-design-heroes-armies-campaign-pvp)
+ - [Boxville: How a Team of New Developers Created their First Game During Wartime](https://news.xbox.com/en-us/2023/08/16/how-new-developers-created-boxville/)
+ - [Aaron Rodgers’ Hard Knocks debut cements his status as football’s biggest weirdo](https://www.polygon.com/23834676/hard-knocks-aaron-rodgers-jets-nfl-episodes-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
