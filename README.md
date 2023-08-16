@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City bans TikTok from city-owned devices and requires agencies to remove the app within the next 30 days, after a review by the NYC Cyber Command &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230816/p26#a230816p26)
- - [Special counsel obtained ‘some volume’ of DMs from Donald Trump’s Twitter account](https://www.theverge.com/2023/8/16/23834394/special-counsel-donald-trump-twitter-january-6-2020-election-indictment)
- - [OpenAI bought the makers of a Minecraft clone](https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt)<!-- TECH:END -->
+ - [Linus Tech Tips pauses production as controversy swirls](https://www.theverge.com/2023/8/16/23834190/linus-tech-tips-gamersnexus-madison-reeves-controversy)
+ - [Android’s Nearby Share may actually become a worthy AirDrop competitor](https://www.androidauthority.com/new-android-nearby-share-feature-3355603/)
+ - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
