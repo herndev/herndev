@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - ⏩ [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - ⏩ [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 👉 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)<!-- MEMES:END -->
 
 ---
 
