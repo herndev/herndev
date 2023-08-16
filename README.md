@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Music Unlimited is getting more expensive for Prime subscribers](https://www.theverge.com/2023/8/15/23833756/amazon-music-unlimited-price-prime-subscribers)
- - [Comcast&#39;s New Router Stays Connected During Power Outages     - CNET](https://www.cnet.com/home/internet/comcasts-new-router-stays-connected-during-power-outages/#ftag=CAD590a51e)
- - [One UI 5.1.1 and One UI 5 Watch rolling out to even more Galaxy devices](https://www.androidauthority.com/latest-one-ui-update-arrives-on-galaxy-devices-3355302/)<!-- TECH:END -->
+ - [Hollywood, Florida-based ClassWallet, which offers a digital wallet-based purchasing and reimbursement service for public funds, raised $95M led by Guidepost &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230815/p29#a230815p29)
+ - [Apple moved the end call button again in iOS 17](https://www.theverge.com/2023/8/15/23833689/apple-ios-17-end-call-button-moved-again-beta)
+ - [Amazon Music Unlimited is getting more expensive for Prime subscribers](https://www.theverge.com/2023/8/15/23833756/amazon-music-unlimited-price-prime-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
