@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft 365 Copilot: Release date, feature and pricing](https://www.androidauthority.com/microsoft-365-copilot-release-date-3355464/)
- - [JD.com reports Q2 revenue up 7.6% YoY to ~$39.7B, beating ~$38.27B est., as retail sales rose just 2.5% YoY, below analyst estimates of 4.5% YoY; JD drops 4.5%+ &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230816/p12#a230816p12)
- - [Crash Detection guides help to critically-injured driver](https://appleinsider.com/articles/23/08/16/crash-detection-guides-help-to-critically-injured-driver?utm_medium=rss)<!-- TECH:END -->
+ - [‘Venba’ Takes Me Back to My Roots Through Food and Family](https://www.wired.com/story/venba-food-family-india-impressions/)
+ - [Urbanista Malibu Solar Speaker: Battery Life, Specs, Price, Release Date](https://www.wired.com/story/urbanista-malibu-solar-speaker/)
+ - [15 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
