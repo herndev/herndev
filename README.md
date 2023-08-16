@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Fontaine weapon blueprint locations](https://www.polygon.com/23834514/fontaine-weapon-blueprint-locations-bulle-fruit-tidalga-marcotte-condessence-crystal-pluie-lotus)
- - [Starfield has gone gold, preloads are coming](https://www.pcgamer.com/starfield-has-gone-gold-preloads-are-coming)
- - [Activision pushes back on rumors that Modern Warfare 3 is a glorified expansion: &#39;Our vision to deliver back-to-back Modern Warfare games has been years in the making&#39;](https://www.pcgamer.com/activision-pushes-back-on-rumors-that-modern-warfare-3-is-a-glorified-expansion-our-vision-to-deliver-back-to-back-modern-warfare-games-has-been-years-in-the-making)<!-- GAME:END -->
+ - [Stardew Valley is getting a cookbook co-authored by creator Eric Barone](https://www.pcgamer.com/stardew-valley-is-getting-a-cookbook-co-authored-by-creator-eric-barone)
+ - [Minecraft Legends: A Major Update and a New Lost Legend](https://news.xbox.com/en-us/2023/08/16/minecraft-legends-major-update-and-new-lost-legend/)
+ - [Diablo 4 player casually dropped 30 billion gold for a crossbow before Blizzard disabled trading](https://www.pcgamer.com/diablo-4-player-casually-dropped-30-billion-gold-for-a-crossbow-before-blizzard-disabled-trading)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
