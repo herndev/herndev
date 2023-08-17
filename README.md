@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact covers up the booties of its boy toys](https://www.polygon.com/23836179/genshin-impact-fontaine-4-0-bubble-ass-censor)
- - [Red Dead Redemption Looks Surprisingly Good On PS5, But Not $50 Good](https://kotaku.com/red-dead-redemption-ps5-remaster-remake-60fps-4k-1850748252)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)<!-- GAME:END -->
+ - [This free Vampire Survivors clone has one thing nobody knew it needed: Vtubers](https://www.pcgamer.com/this-free-vampire-survivors-clone-has-one-thing-nobody-knew-it-needed-vtubers)
+ - [You&#39;ll finally have a chance to try Sega&#39;s extraction shooter Hyenas for yourself at the end of August](https://www.pcgamer.com/youll-finally-have-a-chance-to-try-segas-extraction-shooter-hyenas-for-yourself-at-the-end-of-august)
+ - [&#39;I don&#39;t think players expect this&#39;: Warhammer 40K: Darktide is adding RPG-style skill trees full of new abilities to its 4 classes](https://www.pcgamer.com/i-dont-think-players-expect-this-warhammer-40k-darktide-is-adding-rpg-style-skill-trees-full-of-new-abilities-to-its-4-classes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
