@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So I posted this yesterday and got deleted. Let&#39;s fight for freedom of speech on this platform. Bl*ack market in Africa](http://9gag.com/gag/a04x2bd)
- - ⏩ [This didn&#39;t age well...](http://9gag.com/gag/a7q6vv2)
- - 👉 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)<!-- MEMES:END -->
+ - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - ⏩ [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
+ - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---
 
