@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Knight Witch, Forza Horizon 5, Let’s Build a Zoo, and Blasphemous](https://news.xbox.com/en-us/2023/08/17/free-play-days-the-knight-witch-forza-horizon-5-lets-build-a-zoo-and-blasphemous/)
- - [A Disney Lorcana guide for absolute beginners](https://www.polygon.com/23832801/disney-lorcana-how-to-play-guide)
- - [Baldur&#39;s Gate 3&#39;s Astarion, Neil Newbon, on acting the truth of trauma as a survivor: &#39;There&#39;s a lot of stuff that came very close to home&#39;](https://www.pcgamer.com/baldurs-gate-3s-astarion-neil-newbon-on-acting-the-truth-of-trauma-as-a-survivor-theres-a-lot-of-stuff-that-came-very-close-to-home)<!-- GAME:END -->
+ - [Get Ready To Clear Your Disk Space For Starfield](https://kotaku.com/starfield-xbox-pc-preload-size-hdd-ssd-1850747520)
+ - [How to save the Iron Throne prisoners in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-iron-throne-prisoners-duke-ravengard)
+ - [The Xbox 360 store won’t live to see its 20th birthday](https://www.polygon.com/23835645/xbox-360-store-offline-shut-down-july-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
