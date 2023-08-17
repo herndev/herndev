@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ballers is on Netflix, it is time for you to become one with Ballers](https://www.polygon.com/23833595/ballers-netflix-tv-comedy-watch-new-rock-dwayne-johnson)
- - [This free, PS1-style Twin Peaks demake absolutely nails the dreamy vibes of the show](https://www.pcgamer.com/this-free-ps1-style-twin-peaks-demake-absolutely-nails-the-dreamy-vibes-of-the-show)
- - [The Scott Pilgrim Netflix Show Could Redeem The Movie’s Greatest Sin](https://kotaku.com/scott-pilgrim-anime-netflix-stephen-stills-joseph-gay-1850744023)<!-- GAME:END -->
+ - [Free Play Days – The Knight Witch, Forza Horizon 5, Let’s Build a Zoo, and Blasphemous](https://news.xbox.com/en-us/2023/08/17/free-play-days-the-knight-witch-forza-horizon-5-lets-build-a-zoo-and-blasphemous/)
+ - [A Disney Lorcana guide for absolute beginners](https://www.polygon.com/23832801/disney-lorcana-how-to-play-guide)
+ - [Baldur&#39;s Gate 3&#39;s Astarion, Neil Newbon, on acting the truth of trauma as a survivor: &#39;There&#39;s a lot of stuff that came very close to home&#39;](https://www.pcgamer.com/baldurs-gate-3s-astarion-neil-newbon-on-acting-the-truth-of-trauma-as-a-survivor-theres-a-lot-of-stuff-that-came-very-close-to-home)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
