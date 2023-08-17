@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - ⏩ [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
+ - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - ⏩ [We always know](http://9gag.com/gag/aA0mj19)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 
