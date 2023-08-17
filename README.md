@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - ⏩ [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - ⏩ [Oh Karen\u2026 you\u2019ll never learn](http://9gag.com/gag/a8qnP2Z)
  - 👉 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)<!-- MEMES:END -->
 
 ---
