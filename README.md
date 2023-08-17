@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into X&#39;s Community Notes, including how the algorithm works, whether the feature actually fights polarization, and its use in high-stakes situations &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230817/p9#a230817p9)
- - [Court filings: Tesla engineers admit that the company did nothing to address Autopilot&#39;s inability to recognize crossing traffic following a fatal crash in 2016 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230817/p8#a230817p8)
- - [Lenovo reports Q1 revenue down 24% YoY to $12.9B, and a net income attributable to shareholders down 66% YoY to $177M, amid a prolonged slump in demand for PCs &lpar;Reuters&rpar;](http://www.techmeme.com/230817/p7#a230817p7)<!-- TECH:END -->
+ - [We asked, you told us: 128GB of storage definitely isn’t enough for flagships](https://www.androidauthority.com/128gb-storage-flagship-phone-poll-results-3355703/)
+ - [You can now self-repair your Pixel 7a](https://www.androidauthority.com/google-pixel-7a-self-repair-3355704/)
+ - [A deep dive into X&#39;s Community Notes, including how the algorithm works, whether the feature actually fights polarization, and its use in high-stakes situations &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230817/p9#a230817p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
