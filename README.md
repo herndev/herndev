@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Undead Nightmare, Now Out On Switch/PS4, Is Still One Of The Best Zombie Games](https://kotaku.com/undead-nightmare-2-switch-ps4-fps-port-zombies-review-1850736914)
- - [Red Dead Redemption On Switch Is Good, But The Price Is Still A Problem](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-review-60fps-1850736040)
- - [Magic: The Gathering returns to fairytales for Wilds of Eldraine](https://www.pcgamer.com/magic-the-gathering-returns-to-fairytales-for-wilds-of-eldraine)<!-- GAME:END -->
+ - [Where to find Lumidouce Bells in Genshin Impact 4.0](https://www.pcgamer.com/genshin-impact-lumidouce-bell-locations)
+ - [Baldur&#39;s Gate 3: How to get into Wyrm&#39;s Rock and the Lower City](https://www.pcgamer.com/baldurs-gate-3-lower-city-wyrms-rock-entrance)
+ - [&lpar;For Southeast Asia&rpar; August Savings come to PlayStation Store](https://blog.playstation.com/2023/08/17/20230817-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
