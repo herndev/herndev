@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cofense discovers a phishing campaign that uses QR codes to target a notable US energy company, the first known use of QR codes for phishing at scale &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230817/p19#a230817p19)
- - [Apple&#39;s market share grows as global smartphone sales hit new low](https://appleinsider.com/articles/23/08/17/apples-market-share-grows-as-global-smartphone-sales-hit-new-low?utm_medium=rss)
- - [The Z Flip 5 just launched but a big Z Flip 6 camera leak is already here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-camera-leak-3355754/)<!-- TECH:END -->
+ - [Apple shows off a first look at its Godzilla series Monarch: Legacy of Monsters](https://www.theverge.com/2023/8/17/23834897/monarch-legacy-of-monsters-godzilla-apple-tv-plus)
+ - [You can already save $10 on a Starfield preorder for either PC or Xbox](https://www.theverge.com/2023/8/17/23834195/starfield-preorder-xbox-pc-anker-soundcore-earbuds-logitech-litra-deal-sale)
+ - [Apple won&#39;t release leather iPhone 15 cases, claims leaker](https://appleinsider.com/articles/23/08/17/apple-wont-release-leather-iphone-15-cases-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
