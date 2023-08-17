@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Scarred for life](http://9gag.com/gag/aQErLV2)
- - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
+ - ⏩ [Nice](http://9gag.com/gag/a2KxBn1)
+ - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
 
 ---
 
