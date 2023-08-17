@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to discontinue Azure Kinect Developer Kit, a depth-sensing camera it released in 2019, in October 2023 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/230817/p29#a230817p29)
- - [Microsoft could announce new Surface devices next month](https://www.androidauthority.com/microsoft-surface-special-event-3355861/)
- - [Elon Musk is killing ‘Environmental Twitter’](https://www.theverge.com/2023/8/17/23835629/elon-musk-environmental-twitter-abandons-x)<!-- TECH:END -->
+ - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Amazon tests new star ratings that are even harder to read](https://www.theverge.com/2023/8/17/23836062/amazon-new-five-star-ratings-system-hard-to-read)
+ - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
