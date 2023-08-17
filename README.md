@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/aGEo3z6)
- - ⏩ [Must&#39;ve drove her nuts!](http://9gag.com/gag/aoKdXq0)
- - 👉 [But... I want to.](http://9gag.com/gag/ay2zggM)<!-- MEMES:END -->
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
 
 ---
 
