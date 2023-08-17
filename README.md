@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
- - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - ⏩ [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 👉 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)<!-- MEMES:END -->
 
 ---
 
