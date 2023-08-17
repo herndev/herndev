@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww-ducational](http://9gag.com/gag/aBdvqNP)
- - ⏩ [The two sides of the same coin.](http://9gag.com/gag/aL1bq3A)
- - 👉 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/aGEo3z6)
+ - ⏩ [Must&#39;ve drove her nuts!](http://9gag.com/gag/aoKdXq0)
+ - 👉 [But... I want to.](http://9gag.com/gag/ay2zggM)<!-- MEMES:END -->
 
 ---
 
