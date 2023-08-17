@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
- - [WhatsApp users can now send HD photos to friends, HD videos to follow](https://www.androidauthority.com/whatsapp-hd-photos-3355796/)
- - [Google launches a new Transparency Center to let users report harmful content, make appeals across Google&#39;s services, read its transparency reports, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230817/p25#a230817p25)<!-- TECH:END -->
+ - [Microsoft to hold ‘special event’ in New York City on September 21st](https://www.theverge.com/2023/8/17/23835992/microsoft-surface-special-event-new-york-city-september-21st)
+ - [This fantastic OnePlus 11 deal ends tonight](https://www.androidauthority.com/oneplus-11-16gb-deal-3355842/)
+ - [Sources: Databricks had a total loss of ~$900M in its last two fiscal years, including $380M in the year ending in January 2023, and is close to break even &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230817/p27#a230817p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
