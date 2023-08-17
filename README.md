@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All recent AMD CPUs are affected by the &#39;Inception&#39; vulnerability](https://www.pcgamer.com/all-recent-amd-cpus-are-affected-by-the-inception-cpu-vulnerability)
  - [AMD to announce its new graphics cards at Gamescom](https://www.pcgamer.com/amd-to-announce-its-new-graphics-cards-at-gamescom)
- - [Today&#39;s Wordle hint and answer #789: Thursday, August 17](https://www.pcgamer.com/wordle-answer-today-hint-789-august-17)
- - [Linus Tech Tips temporarily halts production, releases apology video: &#39;Linus made a clear and egregious judgment error&#39;](https://www.pcgamer.com/linus-tech-tips-temporarily-halts-operations-puts-out-apology-video-linus-made-a-clear-and-egregious-judgment-error)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #789: Thursday, August 17](https://www.pcgamer.com/wordle-answer-today-hint-789-august-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
