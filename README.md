@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - ⏩ [We always know](http://9gag.com/gag/aA0mj19)
+ - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - ⏩ [Scarred for life](http://9gag.com/gag/aQErLV2)
  - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
 
 ---
