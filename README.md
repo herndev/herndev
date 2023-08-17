@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley is getting a cookbook co-authored by creator Eric Barone](https://www.pcgamer.com/stardew-valley-is-getting-a-cookbook-co-authored-by-creator-eric-barone)
- - [Minecraft Legends: A Major Update and a New Lost Legend](https://news.xbox.com/en-us/2023/08/16/minecraft-legends-major-update-and-new-lost-legend/)
- - [Diablo 4 player casually dropped 30 billion gold for a crossbow before Blizzard disabled trading](https://www.pcgamer.com/diablo-4-player-casually-dropped-30-billion-gold-for-a-crossbow-before-blizzard-disabled-trading)<!-- GAME:END -->
+ - [Don&#39;t miss the window to get these wildly overpowered Baldur&#39;s Gate 3 gloves in Act 2](https://www.pcgamer.com/baldurs-gate-3-gloves-of-the-automaton)
+ - [Baldur&#39;s Gate 3 hotfix rolled back due to surprise bug, some saves may be temporarily unavailable](https://www.pcgamer.com/baldurs-gate-3-hotfix-rolled-back-due-to-a-surprise-bug-some-saves-may-be-temporarily-unavailable)
+ - [Stardew Valley is getting a cookbook co-authored by creator Eric Barone](https://www.pcgamer.com/stardew-valley-is-getting-a-cookbook-co-authored-by-creator-eric-barone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
