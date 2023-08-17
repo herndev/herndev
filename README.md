@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [. . .](http://9gag.com/gag/az2B6Gp)
- - ⏩ [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
- - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
+ - 💣 [We always know](http://9gag.com/gag/aA0mj19)
+ - ⏩ [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
+ - 👉 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)<!-- MEMES:END -->
 
 ---
 
