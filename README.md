@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Linus Tech Tips temporarily halts production, releases apology video: &#39;Linus made a clear and egregious judgment error&#39;](https://www.pcgamer.com/linus-tech-tips-temporarily-halts-operations-puts-out-apology-video-linus-made-a-clear-and-egregious-judgment-error)
- - [Starfield won&#39;t support full pacifist runs, but &#39;there are some good non-lethal options,&#39; says quest designer](https://www.pcgamer.com/starfield-wont-support-full-pacifist-runs-but-there-are-some-good-non-lethal-options-says-quest-designer)
- - [Don&#39;t miss the window to get these wildly overpowered Baldur&#39;s Gate 3 gloves in Act 2](https://www.pcgamer.com/baldurs-gate-3-gloves-of-the-automaton)<!-- GAME:END -->
+ - [AMD to announce its new graphics cards at Gamescom](https://www.pcgamer.com/amd-to-announce-its-new-graphics-cards-at-gamescom)
+ - [Today&#39;s Wordle hint and answer #789: Thursday, August 17](https://www.pcgamer.com/wordle-answer-today-hint-789-august-17)
+ - [Linus Tech Tips temporarily halts production, releases apology video: &#39;Linus made a clear and egregious judgment error&#39;](https://www.pcgamer.com/linus-tech-tips-temporarily-halts-operations-puts-out-apology-video-linus-made-a-clear-and-egregious-judgment-error)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
