@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Believe it or not, Ubisoft is doing another Skull and Bones closed beta later this month](https://www.pcgamer.com/believe-it-or-not-ubisoft-is-doing-another-skull-and-bones-closed-beta-later-this-month)
- - [Don’t Feel Guilty Over Save Scumming In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-bg3-save-scum-scumming-dnd-1850748727)
- - [This adorable Bluetooth controller could be just the thing for people with itty bitty baby hands](https://www.pcgamer.com/this-adorable-bluetooth-controller-could-be-just-the-thing-for-people-with-itty-bitty-baby-hands)<!-- GAME:END -->
+ - [How to complete the Gauntlet of Shar in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23834599/gauntlet-of-shar-walkthrough-bg3-thorm-mausoleum)
+ - [How to reach the Umbral Gem in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23831512/umbral-gem-gauntlet-of-shar-bg3-thorm-mausoleum-walkthrough)
+ - [Genshin Impact ‘Strange Part’ usage and location guide](https://www.polygon.com/genshin-impact-guides/23836267/strange-part-locations-where-parts-quests-uses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
