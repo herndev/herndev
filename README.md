@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solidus Labs: between mid-July and August, developers deployed 500+ scam tokens on Coinbase&#39;s Base blockchain; around 300 let the creators mint unlimited tokens &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230817/p14#a230817p14)
- - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
- - [Apple Podcasts removed &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s what Lenovo’s Steam Deck rival could look like](https://www.androidauthority.com/lenovo-legion-go-leaked-images-3355736/)
+ - [Jefferies and TrueUp: tech companies have laid off 342,671 employees so far in 2023, well above the 243,075 job cuts across all of 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/230817/p16#a230817p16)
+ - [Microsoft will let you uninstall more built-in Windows 11 apps soon for less bloat](https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
