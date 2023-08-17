@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So I posted this yesterday and got deleted. Let&#39;s fight for freedom of speech on this platform. Bl*ack market in Africa](http://9gag.com/gag/a04x2bd)
- - ⏩ [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
- - 👉 [Face your fears!](http://9gag.com/gag/aBdNRQQ)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/az2B6Gp)
+ - ⏩ [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 
