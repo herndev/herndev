@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sign me up for Starfield&#39;s snake worshipping death cult, which communes to its god via cool low-grav jumps](https://www.pcgamer.com/sign-me-up-for-starfields-snake-worshipping-death-cult-which-communes-to-its-god-via-cool-low-grav-jumps)
- - [Starfield will tantalise you with a bunch of mechs you can&#39;t use](https://www.pcgamer.com/starfield-will-tantalise-you-with-a-bunch-of-mechs-you-cant-use)
- - [Where to find Lumidouce Bells in Genshin Impact 4.0](https://www.pcgamer.com/genshin-impact-lumidouce-bell-locations)<!-- GAME:END -->
+ - [The Xbox 360 Store Will Close July 2024, But You Can Keep Playing Your Favorite Games](https://news.xbox.com/en-us/2023/08/17/xbox-360-store-will-close-july-2024/)
+ - [Two-thirds of Metroidvania Blasphemous 2 are excellent](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date)
+ - [Megadeth Is The Perfect Heavy Metal Addition to World of Tanks and World of Warships – Here’s How It Happened](https://news.xbox.com/en-us/2023/08/17/wargaming-megadeth-metal-fest-event/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
