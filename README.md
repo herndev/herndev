@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - ⏩ [Oh Karen\u2026 you\u2019ll never learn](http://9gag.com/gag/a8qnP2Z)
- - 👉 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)<!-- MEMES:END -->
+ - 💣 [We always know](http://9gag.com/gag/aA0mj19)
+ - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 👉 [He got him hard.](http://9gag.com/gag/aeQdvBv)<!-- MEMES:END -->
 
 ---
 
