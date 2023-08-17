@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares more details about live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
- - [Daily Deals Aug. 17:  $100 off iPad Pro, Apple Pencil $89, Samsung smartphones from $149, more](https://appleinsider.com/articles/23/08/17/daily-deals-aug-17-100-off-ipad-pro-apple-pencil-89-samsung-smartphones-from-149-more?utm_medium=rss)
- - [WhatsApp will let users send ‘HD’ photos](https://www.theverge.com/2023/8/17/23835641/whatsapp-hd-photo-video-compression)<!-- TECH:END -->
+ - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
+ - [WhatsApp users can now send HD photos to friends, HD videos to follow](https://www.androidauthority.com/whatsapp-hd-photos-3355796/)
+ - [Google launches a new Transparency Center to let users report harmful content, make appeals across Google&#39;s services, read its transparency reports, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230817/p25#a230817p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
