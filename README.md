@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open: Release date, price, specs, rumors, and more &lpar;Updated: Aug. 17&rpar;](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [OnePlus Open may be delayed because of Nokia-OPPO patent battle](https://www.androidauthority.com/oneplus-open-delay-launch-3355679/)
- - [Crypto hardware wallet maker Ledger partners with PayPal to let US users buy BTC, ETH, BCH, and LTC in its Ledger Live app through their PayPal accounts &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230817/p2#a230817p2)<!-- TECH:END -->
+ - [Inside Def Con AI Village 2023, which attracted 2,200 people competing in a White House-backed challenge to find vulnerabilities in popular generative AI models &lpar;New York Times&rpar;](http://www.techmeme.com/230817/p5#a230817p5)
+ - [Your brand new Samsung Galaxy Z Fold 5 is getting an update!](https://www.androidauthority.com/samsung-galaxy-z-fold-5-updates-3355692/)
+ - [Internal presentation: Alphabet&#39;s Verily is planning more cost cuts after posting wider than expected operating losses on $280M revenue through June in 2023 &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p4#a230817p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
