@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox 360 Store Will Close July 2024, But You Can Keep Playing Your Favorite Games](https://news.xbox.com/en-us/2023/08/17/xbox-360-store-will-close-july-2024/)
- - [Two-thirds of Metroidvania Blasphemous 2 are excellent](https://www.polygon.com/reviews/23834535/blasphemous-2-review-metroidvania-weapons-release-date)
- - [Megadeth Is The Perfect Heavy Metal Addition to World of Tanks and World of Warships – Here’s How It Happened](https://news.xbox.com/en-us/2023/08/17/wargaming-megadeth-metal-fest-event/)<!-- GAME:END -->
+ - [Ballers is on Netflix, it is time for you to become one with Ballers](https://www.polygon.com/23833595/ballers-netflix-tv-comedy-watch-new-rock-dwayne-johnson)
+ - [This free, PS1-style Twin Peaks demake absolutely nails the dreamy vibes of the show](https://www.pcgamer.com/this-free-ps1-style-twin-peaks-demake-absolutely-nails-the-dreamy-vibes-of-the-show)
+ - [The Scott Pilgrim Netflix Show Could Redeem The Movie’s Greatest Sin](https://kotaku.com/scott-pilgrim-anime-netflix-stephen-stills-joseph-gay-1850744023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
