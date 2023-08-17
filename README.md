@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Amazon tests new star ratings that are even harder to read](https://www.theverge.com/2023/8/17/23836062/amazon-new-five-star-ratings-system-hard-to-read)
- - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)<!-- TECH:END -->
+ - [Google creates ‘Transparency Center’ hub for its product policies](https://www.androidauthority.com/google-policies-transparency-center-3355904/)
+ - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)
+ - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
