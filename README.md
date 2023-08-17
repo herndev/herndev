@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
- - ⏩ [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
- - 👉 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)<!-- MEMES:END -->
+ - 💣 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
+ - ⏩ [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
 
 ---
 
