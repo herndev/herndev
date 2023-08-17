@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman&#39;s latest update frees a whole bonus campaign from PS4 purgatory after 7 years and intentionally restores an old exploit](https://www.pcgamer.com/hitmans-latest-patch-frees-a-whole-bonus-campaign-from-ps4-purgatory-after-7-years-and-intentionally-restores-an-old-exploit)
- - [Modder accuses Take-Two of hypocrisy after lawyers obliterate all trace of their GTA 5 AI mod: &#39;Rather than chasing small mods, perhaps they should focus on creating proper remakes with better pricing&#39;](https://www.pcgamer.com/modder-accuses-take-two-of-hypocrisy-after-lawyers-obliterate-all-trace-of-their-gta-5-ai-mod-rather-than-chasing-small-mods-perhaps-they-should-focus-on-creating-proper-remakes-with-better-pricing)
- - [The Thing That Makes This Musical RPG Special Is Also Its Worst Aspect](https://kotaku.com/stray-gods-review-musical-songs-grace-laura-bailey-1850747942)<!-- GAME:END -->
+ - [The Cosmic Wheel Sisterhood offers a magical new take on deck building](https://www.polygon.com/reviews/23835911/cosmic-wheel-sisterhood-review)
+ - [When do you actually get to Baldur’s Gate in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/23835680/city-location-act-3-start-time)
+ - [Baldur’s Gate 3 Collector’s Editions Are Reselling For Nearly $2,000](https://kotaku.com/baldurs-gate-3-bg3-collectors-edition-price-ebay-pc-rpg-1850748262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
