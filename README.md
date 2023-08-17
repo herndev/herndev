@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google creates ‘Transparency Center’ hub for its product policies](https://www.androidauthority.com/google-policies-transparency-center-3355904/)
- - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)
- - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [What is an APU processor and how does it differ vs. a CPU?](https://www.androidauthority.com/what-is-an-apu-3355930/)
+ - [Match Group will no longer offer background checks on Tinder and other dating apps](https://www.theverge.com/2023/8/17/23836215/match-group-tinder-background-checks-garbo-partnership-end)
+ - [Microsoft’s AI recommends the Ottawa Food Bank as a tourist destination](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
