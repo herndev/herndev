@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Gauntlet of Shar in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23834599/gauntlet-of-shar-walkthrough-bg3-thorm-mausoleum)
- - [How to reach the Umbral Gem in Baldur’s Gate 3](https://www.polygon.com/baldurs-gate-3-guides/23831512/umbral-gem-gauntlet-of-shar-bg3-thorm-mausoleum-walkthrough)
- - [Genshin Impact ‘Strange Part’ usage and location guide](https://www.polygon.com/genshin-impact-guides/23836267/strange-part-locations-where-parts-quests-uses)<!-- GAME:END -->
+ - [Genshin Impact covers up the booties of its boy toys](https://www.polygon.com/23836179/genshin-impact-fontaine-4-0-bubble-ass-censor)
+ - [Red Dead Redemption Looks Surprisingly Good On PS5, But Not $50 Good](https://kotaku.com/red-dead-redemption-ps5-remaster-remake-60fps-4k-1850748252)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
