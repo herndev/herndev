@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
- - ⏩ [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
+ - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - ⏩ [We always know](http://9gag.com/gag/aA0mj19)
+ - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
 
 ---
 
