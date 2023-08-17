@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A group of crypto investors and developers loses its Coinbase-funded lawsuit arguing that the US Treasury overstepped its authority in sanctioning Tornado Cash &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230817/p33#a230817p33)
- - [Microsoft pulls AI-written article telling tourists to visit the Ottawa Food Bank](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
- - [Spotify reportedly has a $38 million white noise problem](https://www.theverge.com/2023/8/17/23836403/spotify-podcasts-white-noise-algorithmproblem)<!-- TECH:END -->
+ - [One surviving Reddit app plans to charge based on how much you use it](https://www.theverge.com/2023/8/17/23836528/reddit-relay-android-app-subscriptions-potential-price)
+ - [Razer’s new BlackWidow V4 75 could be a great starter mechanical keyboard](https://www.theverge.com/2023/8/17/23836326/razer-blackwidow-v4-75-mechanical-keyboard-hot-swappable-switches)
+ - [Filing: NYC-based AI startup Elemental Cognition raised nearly $60M; AI researcher David Ferrucci, who led the team behind IBM Watson, founded Elemental in 2015 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230817/p34#a230817p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
