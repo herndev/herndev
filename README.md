@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We always know](http://9gag.com/gag/aA0mj19)
- - ⏩ [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
+ - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - ⏩ [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
 
