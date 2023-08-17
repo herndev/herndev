@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
+ - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - ⏩ [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
 
