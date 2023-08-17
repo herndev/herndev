@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready To Clear Your Disk Space For Starfield](https://kotaku.com/starfield-xbox-pc-preload-size-hdd-ssd-1850747520)
- - [How to save the Iron Throne prisoners in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-iron-throne-prisoners-duke-ravengard)
- - [The Xbox 360 store won’t live to see its 20th birthday](https://www.polygon.com/23835645/xbox-360-store-offline-shut-down-july-2024)<!-- GAME:END -->
+ - [Hitman&#39;s latest update frees a whole bonus campaign from PS4 purgatory after 7 years and intentionally restores an old exploit](https://www.pcgamer.com/hitmans-latest-patch-frees-a-whole-bonus-campaign-from-ps4-purgatory-after-7-years-and-intentionally-restores-an-old-exploit)
+ - [Modder accuses Take-Two of hypocrisy after lawyers obliterate all trace of their GTA 5 AI mod: &#39;Rather than chasing small mods, perhaps they should focus on creating proper remakes with better pricing&#39;](https://www.pcgamer.com/modder-accuses-take-two-of-hypocrisy-after-lawyers-obliterate-all-trace-of-their-gta-5-ai-mod-rather-than-chasing-small-mods-perhaps-they-should-focus-on-creating-proper-remakes-with-better-pricing)
+ - [The Thing That Makes This Musical RPG Special Is Also Its Worst Aspect](https://kotaku.com/stray-gods-review-musical-songs-grace-laura-bailey-1850747942)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
