@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - ⏩ [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
+ - 💣 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
+ - ⏩ [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
+ - 👉 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)<!-- MEMES:END -->
 
 ---
 
