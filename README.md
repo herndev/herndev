@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Lumidouce Bells in Genshin Impact 4.0](https://www.pcgamer.com/genshin-impact-lumidouce-bell-locations)
- - [Baldur&#39;s Gate 3: How to get into Wyrm&#39;s Rock and the Lower City](https://www.pcgamer.com/baldurs-gate-3-lower-city-wyrms-rock-entrance)
- - [&lpar;For Southeast Asia&rpar; August Savings come to PlayStation Store](https://blog.playstation.com/2023/08/17/20230817-psstore/)<!-- GAME:END -->
+ - [Sign me up for Starfield&#39;s snake worshipping death cult, which communes to its god via cool low-grav jumps](https://www.pcgamer.com/sign-me-up-for-starfields-snake-worshipping-death-cult-which-communes-to-its-god-via-cool-low-grav-jumps)
+ - [Starfield will tantalise you with a bunch of mechs you can&#39;t use](https://www.pcgamer.com/starfield-will-tantalise-you-with-a-bunch-of-mechs-you-cant-use)
+ - [Where to find Lumidouce Bells in Genshin Impact 4.0](https://www.pcgamer.com/genshin-impact-lumidouce-bell-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
