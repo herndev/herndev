@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is an APU processor and how does it differ vs. a CPU?](https://www.androidauthority.com/what-is-an-apu-3355930/)
- - [Match Group will no longer offer background checks on Tinder and other dating apps](https://www.theverge.com/2023/8/17/23836215/match-group-tinder-background-checks-garbo-partnership-end)
- - [Microsoft’s AI recommends the Ottawa Food Bank as a tourist destination](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)<!-- TECH:END -->
+ - [A group of crypto investors and developers loses its Coinbase-funded lawsuit arguing that the US Treasury overstepped its authority in sanctioning Tornado Cash &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230817/p33#a230817p33)
+ - [Microsoft pulls AI-written article telling tourists to visit the Ottawa Food Bank](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
+ - [Spotify reportedly has a $38 million white noise problem](https://www.theverge.com/2023/8/17/23836403/spotify-podcasts-white-noise-algorithmproblem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
