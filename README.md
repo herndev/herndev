@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shows off a first look at its Godzilla series Monarch: Legacy of Monsters](https://www.theverge.com/2023/8/17/23834897/monarch-legacy-of-monsters-godzilla-apple-tv-plus)
- - [You can already save $10 on a Starfield preorder for either PC or Xbox](https://www.theverge.com/2023/8/17/23834195/starfield-preorder-xbox-pc-anker-soundcore-earbuds-logitech-litra-deal-sale)
- - [Apple won&#39;t release leather iPhone 15 cases, claims leaker](https://appleinsider.com/articles/23/08/17/apple-wont-release-leather-iphone-15-cases-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Apple shares more details about live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
+ - [Daily Deals Aug. 17:  $100 off iPad Pro, Apple Pencil $89, Samsung smartphones from $149, more](https://appleinsider.com/articles/23/08/17/daily-deals-aug-17-100-off-ipad-pro-apple-pencil-89-samsung-smartphones-from-149-more?utm_medium=rss)
+ - [WhatsApp will let users send ‘HD’ photos](https://www.theverge.com/2023/8/17/23835641/whatsapp-hd-photo-video-compression)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
