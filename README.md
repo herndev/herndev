@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Cosmic Wheel Sisterhood offers a magical new take on deck building](https://www.polygon.com/reviews/23835911/cosmic-wheel-sisterhood-review)
- - [When do you actually get to Baldur’s Gate in Baldur’s Gate 3?](https://www.polygon.com/baldurs-gate-3-guides/23835680/city-location-act-3-start-time)
- - [Baldur’s Gate 3 Collector’s Editions Are Reselling For Nearly $2,000](https://kotaku.com/baldurs-gate-3-bg3-collectors-edition-price-ebay-pc-rpg-1850748262)<!-- GAME:END -->
+ - [FIFA 23 ‘Revenge Game’ Trend Sees Fans Rewriting The Women’s World Cup](https://kotaku.com/fifa-23-tiktok-womens-world-cup-uswnt-australia-1850748891)
+ - [Call of Duty: Modern Warfare 3 is all in on Modern Warfare 2 nostalgia](https://www.polygon.com/23835892/call-of-duty-modern-warfare-3-reveal-multiplayer-zombies)
+ - [Call of Duty: Modern Warfare III gameplay details revealed](https://blog.playstation.com/2023/08/17/call-of-duty-modern-warfare-iii-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
