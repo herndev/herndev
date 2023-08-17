@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to hold ‘special event’ in New York City on September 21st](https://www.theverge.com/2023/8/17/23835992/microsoft-surface-special-event-new-york-city-september-21st)
- - [This fantastic OnePlus 11 deal ends tonight](https://www.androidauthority.com/oneplus-11-16gb-deal-3355842/)
- - [Sources: Databricks had a total loss of ~$900M in its last two fiscal years, including $380M in the year ending in January 2023, and is close to break even &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230817/p27#a230817p27)<!-- TECH:END -->
+ - [Microsoft plans to discontinue Azure Kinect Developer Kit, a depth-sensing camera it released in 2019, in October 2023 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/230817/p29#a230817p29)
+ - [Microsoft could announce new Surface devices next month](https://www.androidauthority.com/microsoft-surface-special-event-3355861/)
+ - [Elon Musk is killing ‘Environmental Twitter’](https://www.theverge.com/2023/8/17/23835629/elon-musk-environmental-twitter-abandons-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
