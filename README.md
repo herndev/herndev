@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the White House told US agencies to shore up their cybersecurity after many &quot;failed to fully comply&quot; with practices prescribed by a 2021 executive order &lpar;CNN&rpar;](http://www.techmeme.com/230816/p30#a230816p30)
- - [Apple Podcasts removes &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)
- - [You can get genuine Pixel 7A parts at iFixit now](https://www.theverge.com/2023/8/16/23834937/google-pixel-7a-ifixit-genuine-parts-right-to-repair)<!-- TECH:END -->
+ - [NYC-based Highlight, which helps brands automate, track, and scale physical product testing, raised an $18M Series A led by Acre Venture Partners and HearstLab &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230816/p31#a230816p31)
+ - [21 Harry Potter Gifts Perfect for Back to Hogwarts Day     - CNET](https://www.cnet.com/culture/entertainment/21-harry-potter-gifts-perfect-for-back-to-hogwarts-day/#ftag=CAD590a51e)
+ - [Memo: the White House told US agencies to shore up their cybersecurity after many &quot;failed to fully comply&quot; with practices prescribed by a 2021 executive order &lpar;CNN&rpar;](http://www.techmeme.com/230816/p30#a230816p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
