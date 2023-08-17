@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scarred for life](http://9gag.com/gag/aQErLV2)
- - ⏩ [Nice](http://9gag.com/gag/a2KxBn1)
- - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
+ - 💣 [Aww-ducational](http://9gag.com/gag/aBdvqNP)
+ - ⏩ [The two sides of the same coin.](http://9gag.com/gag/aL1bq3A)
+ - 👉 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)<!-- MEMES:END -->
 
 ---
 
