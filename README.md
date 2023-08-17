@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - ⏩ [Scarred for life](http://9gag.com/gag/aQErLV2)
- - 👉 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
+ - 💣 [Scarred for life](http://9gag.com/gag/aQErLV2)
+ - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
 
 ---
 
