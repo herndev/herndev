@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Lenovo’s Steam Deck rival could look like](https://www.androidauthority.com/lenovo-legion-go-leaked-images-3355736/)
- - [Jefferies and TrueUp: tech companies have laid off 342,671 employees so far in 2023, well above the 243,075 job cuts across all of 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/230817/p16#a230817p16)
- - [Microsoft will let you uninstall more built-in Windows 11 apps soon for less bloat](https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps)<!-- TECH:END -->
+ - [Cofense discovers a phishing campaign that uses QR codes to target a notable US energy company, the first known use of QR codes for phishing at scale &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230817/p19#a230817p19)
+ - [Apple&#39;s market share grows as global smartphone sales hit new low](https://appleinsider.com/articles/23/08/17/apples-market-share-grows-as-global-smartphone-sales-hit-new-low?utm_medium=rss)
+ - [The Z Flip 5 just launched but a big Z Flip 6 camera leak is already here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-camera-leak-3355754/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
