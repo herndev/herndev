@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA 23 ‘Revenge Game’ Trend Sees Fans Rewriting The Women’s World Cup](https://kotaku.com/fifa-23-tiktok-womens-world-cup-uswnt-australia-1850748891)
- - [Call of Duty: Modern Warfare 3 is all in on Modern Warfare 2 nostalgia](https://www.polygon.com/23835892/call-of-duty-modern-warfare-3-reveal-multiplayer-zombies)
- - [Call of Duty: Modern Warfare III gameplay details revealed](https://blog.playstation.com/2023/08/17/call-of-duty-modern-warfare-iii-gameplay-details-revealed/)<!-- GAME:END -->
+ - [Believe it or not, Ubisoft is doing another Skull and Bones closed beta later this month](https://www.pcgamer.com/believe-it-or-not-ubisoft-is-doing-another-skull-and-bones-closed-beta-later-this-month)
+ - [Don’t Feel Guilty Over Save Scumming In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-bg3-save-scum-scumming-dnd-1850748727)
+ - [This adorable Bluetooth controller could be just the thing for people with itty bitty baby hands](https://www.pcgamer.com/this-adorable-bluetooth-controller-could-be-just-the-thing-for-people-with-itty-bitty-baby-hands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
