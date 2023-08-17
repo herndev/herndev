@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - ⏩ [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - ⏩ [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
