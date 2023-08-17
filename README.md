@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We always know](http://9gag.com/gag/aA0mj19)
- - ⏩ [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 👉 [He got him hard.](http://9gag.com/gag/aeQdvBv)<!-- MEMES:END -->
+ - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - ⏩ [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 
