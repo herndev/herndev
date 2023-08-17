@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese regulators met with Walmart, PayPal, and other foreign companies to help navigate China&#39;s new data security rules, hoping to ease some fears &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230817/p12#a230817p12)
- - [Upcoming flagship phones could be costlier than ever](https://www.androidauthority.com/upcoming-flagships-more-expensive-3355705/)
- - [HMD’s repairable Nokia phone initiative lands stateside](https://www.theverge.com/2023/8/17/23835512/hmd-nokia-g310-price-release-date-specs-feature)<!-- TECH:END -->
+ - [Solidus Labs: between mid-July and August, developers deployed 500+ scam tokens on Coinbase&#39;s Base blockchain; around 300 let the creators mint unlimited tokens &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230817/p14#a230817p14)
+ - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
+ - [Apple Podcasts removed &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
