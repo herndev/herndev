@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering returns to fairytales for Wilds of Eldraine](https://www.pcgamer.com/magic-the-gathering-returns-to-fairytales-for-wilds-of-eldraine)
- - [All recent AMD CPUs are affected by the &#39;Inception&#39; vulnerability](https://www.pcgamer.com/all-recent-amd-cpus-are-affected-by-the-inception-cpu-vulnerability)
- - [AMD to announce its new graphics cards at Gamescom](https://www.pcgamer.com/amd-to-announce-its-new-graphics-cards-at-gamescom)<!-- GAME:END -->
+ - [Undead Nightmare, Now Out On Switch/PS4, Is Still One Of The Best Zombie Games](https://kotaku.com/undead-nightmare-2-switch-ps4-fps-port-zombies-review-1850736914)
+ - [Red Dead Redemption On Switch Is Good, But The Price Is Still A Problem](https://kotaku.com/rdr-red-dead-redemption-switch-ps4-port-review-60fps-1850736040)
+ - [Magic: The Gathering returns to fairytales for Wilds of Eldraine](https://www.pcgamer.com/magic-the-gathering-returns-to-fairytales-for-wilds-of-eldraine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
