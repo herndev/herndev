@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)
- - [Samsung could lose to Apple for the first time ever in annual phone shipments](https://www.androidauthority.com/samsung-lose-apple-global-annual-smartphone-shipments-3356119/)
- - [Apple says it removed Glenn Beck podcast over trademark dispute](https://appleinsider.com/articles/23/08/18/apple-says-it-removed-glenn-beck-podcast-over-trademark-dispute?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with Apple Vision Pro in the wild](https://appleinsider.com/articles/23/08/18/hands-on-with-apple-vision-pro-in-the-wild?utm_medium=rss)
+ - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
+ - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
