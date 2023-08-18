@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
- - 👉 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)<!-- MEMES:END -->
+ - 💣 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
+ - ⏩ [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
+ - 👉 [Face your fears!](http://9gag.com/gag/aBdNRQQ)<!-- MEMES:END -->
 
 ---
 
