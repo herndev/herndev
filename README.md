@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ASRock confirms key Intel 14th Gen Raptor Lake refresh details and gives some performance info too](https://www.pcgamer.com/asrock-confirms-key-intel-14th-gen-raptor-lake-refresh-details-and-gives-some-performance-info-too)
  - [Today&#39;s Wordle hint and answer #790: Friday, August 18](https://www.pcgamer.com/wordle-answer-today-hint-790-august-18)
- - [The Lamplighters League takes a shot at approachable turn-based tactics that won&#39;t bury you in percentage symbols](https://www.pcgamer.com/the-lamplighters-league-hands-on)
- - [This free Vampire Survivors clone has one thing nobody knew it needed: Vtubers](https://www.pcgamer.com/this-free-vampire-survivors-clone-has-one-thing-nobody-knew-it-needed-vtubers)<!-- GAME:END -->
+ - [The Lamplighters League takes a shot at approachable turn-based tactics that won&#39;t bury you in percentage symbols](https://www.pcgamer.com/the-lamplighters-league-hands-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
