@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Call of Duty&#39;s best-known developers has left Treyarch after nearly 20 years](https://www.pcgamer.com/one-of-call-of-dutys-best-known-developers-has-left-treyarch-after-nearly-20-years)
- - [Baldur&#39;s Gate 3&#39;s lead writer on romances: &#39;sex is not the goal, it&#39;s just sex&#39;](https://www.pcgamer.com/baldurs-gate-3s-lead-writer-on-romances-sex-is-not-the-goal-its-just-sex)
- - [The Texas Chain Saw Massacre Game Isn’t Scary, Unfortunately](https://kotaku.com/the-texas-chainsaw-massacre-game-review-crossplay-ps5-1850752842)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Co-Op Is The Game’s Chaotic Potential Realized](https://kotaku.com/baldurs-gate-3-co-op-multiplayer-campaign-rpg-larian-1850753243)
+ - [Blizzard Responds To Overwatch 2 Review Bombing](https://kotaku.com/overwatch-2-steam-review-bombing-negative-respond-1850753119)
+ - [Declutter your Baldur&#39;s Gate 3 inventory with either of these wonderful autosort bag mods](https://www.pcgamer.com/declutter-your-baldurs-gate-3-inventory-with-either-of-these-wonderful-autosort-bag-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
