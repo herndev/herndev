@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My D&amp;D Game Fell Apart, But Baldur’s Gate 3 Saved The Day](https://kotaku.com/baldurs-gate-3-bg3-dungeons-dragons-dnd-ttrpg-1850753337)
- - [Baldur’s Gate 3 Co-Op Is The Game’s Chaotic Potential Realized](https://kotaku.com/baldurs-gate-3-co-op-multiplayer-campaign-rpg-larian-1850753243)
- - [Blizzard Responds To Overwatch 2 Review Bombing](https://kotaku.com/overwatch-2-steam-review-bombing-negative-respond-1850753119)<!-- GAME:END -->
+ - [Overwatch 2 director opens up about having the worst-reviewed game on Steam: &#39;Being review-bombed isn&#39;t a fun experience&#39;](https://www.pcgamer.com/overwatch-2-director-opens-up-about-having-the-worst-reviewed-game-on-steam-being-review-bombed-isnt-a-fun-experience)
+ - [Watch this Diablo 4 Barbarian deal 7 billion damage to Uber Lilith while she&#39;s already down](https://www.pcgamer.com/watch-this-diablo-4-barbarian-deal-7-billion-damage-to-uber-lilith-while-shes-already-down)
+ - [The Pope’s Exorcist, Elemental, and every new movie to watch at home this weekend](https://www.polygon.com/2023/8/18/23831318/new-movies-watch-popes-exorcist-netflix-elemental-no-hard-feelings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
