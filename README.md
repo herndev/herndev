@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 might have faster charging speeds](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage)
- - [Meta updates Threads with a Repost tab on users&#39; profile pages and adds reposts to the reverse-chronological &quot;Following&quot; feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230818/p1#a230818p1)
- - [Apple could discontinue its iconic leather case starting with the iPhone 15](https://www.androidauthority.com/apple-leather-case-discontinue-3356081/)<!-- TECH:END -->
+ - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
+ - [What is an SSD’s TBW rating and why does it matter?](https://www.androidauthority.com/what-is-ssd-tbw-rating-meaning-3355987/)
+ - [Twitch will let streamers ban users from watching their streams](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
