@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A scene cut from Scream VI gave Gale more of the dignity she deserves](https://www.polygon.com/23837310/scream-vi-deleted-scene-original-script-gale-weathers-courteney-cox)
- - [18-Year Call of Duty Veteran Announces He’s Leaving Activision](https://kotaku.com/call-of-duty-black-ops-modern-warfare-david-vonderhaar-1850752781)
- - [Tencent is bringing back Delta Force as a &#39;large-scale multiplayer PvP&#39; shooter with a singleplayer campaign based on Black Hawk Down](https://www.pcgamer.com/tencent-is-bringing-back-delta-force-as-a-large-scale-multiplayer-pvp-shooter-with-a-singleplayer-campaign-based-on-black-hawk-down)<!-- GAME:END -->
+ - [One of Call of Duty&#39;s best-known developers has left Treyarch after nearly 20 years](https://www.pcgamer.com/one-of-call-of-dutys-best-known-developers-has-left-treyarch-after-nearly-20-years)
+ - [Baldur&#39;s Gate 3&#39;s lead writer on romances: &#39;sex is not the goal, it&#39;s just sex&#39;](https://www.pcgamer.com/baldurs-gate-3s-lead-writer-on-romances-sex-is-not-the-goal-its-just-sex)
+ - [The Texas Chain Saw Massacre Game Isn’t Scary, Unfortunately](https://kotaku.com/the-texas-chainsaw-massacre-game-review-crossplay-ps5-1850752842)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
