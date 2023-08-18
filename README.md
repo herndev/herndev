@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #790: Friday, August 18](https://www.pcgamer.com/wordle-answer-today-hint-790-august-18)
  - [The Lamplighters League takes a shot at approachable turn-based tactics that won&#39;t bury you in percentage symbols](https://www.pcgamer.com/the-lamplighters-league-hands-on)
- - [This free Vampire Survivors clone has one thing nobody knew it needed: Vtubers](https://www.pcgamer.com/this-free-vampire-survivors-clone-has-one-thing-nobody-knew-it-needed-vtubers)
- - [You&#39;ll finally have a chance to try Sega&#39;s extraction shooter Hyenas for yourself at the end of August](https://www.pcgamer.com/youll-finally-have-a-chance-to-try-segas-extraction-shooter-hyenas-for-yourself-at-the-end-of-august)<!-- GAME:END -->
+ - [This free Vampire Survivors clone has one thing nobody knew it needed: Vtubers](https://www.pcgamer.com/this-free-vampire-survivors-clone-has-one-thing-nobody-knew-it-needed-vtubers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
