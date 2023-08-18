@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Venba is so short — and confidently so](https://www.polygon.com/gaming/23835632/venba-length-how-long)
- - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
- - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)<!-- GAME:END -->
+ - [I have questions about Lae’zel’s underwear](https://www.polygon.com/gaming/23835810/baldurs-gate-3-companion-underwear-descriptions-laezel)
+ - [How to make the Radio Alarm Trap in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-radio-alarm-trap)
+ - [ULTRARAM&#39;s inventor tells us why the revolutionary RAM replacement could slay dumb memory DIMMs](https://www.pcgamer.com/ultrarams-inventor-tells-us-why-the-revolutionary-ram-replacement-could-slay-dumb-memory-dimms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
