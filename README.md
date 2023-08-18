@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - ⏩ [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 👉 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)<!-- MEMES:END -->
+ - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - ⏩ [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 👉 [. . .](http://9gag.com/gag/az2B6Gp)<!-- MEMES:END -->
 
 ---
 
