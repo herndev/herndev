@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
- - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
- - [Big companies use AI-generated ads because they’re cheap](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)<!-- TECH:END -->
+ - [Sources: SoftBank has acquired a 25% stake in Arm from its Vision Fund unit at a $64B valuation and will make the chip designer&#39;s IPO filing public on Monday &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/230818/p12#a230818p12)
+ - [PSA: Your smartwatch band may have dangerous bacteria on it](https://www.androidauthority.com/smartwatch-band-bacteria-3356261/)
+ - [Lamborghini Lanzador: Price, Specs, Release Date](https://www.wired.com/story/lamborghini-lanzador-all-electric-most-powerful-car-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
