@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ProjectDiscovery, a free vulnerability scanning platform to monitor for exploits in websites, apps, APIs, and cloud services, raised a $25M Series A led by CRV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230817/p37#a230817p37)
  - [OpenSea plans to make creator fees optional for new collections from August 31, and enforce creator fees on certain existing collections through February 2024 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/230817/p36#a230817p36)
- - [X Users Now Have to Pay for TweetDeck     - CNET](https://www.cnet.com/tech/services-and-software/x-users-now-have-to-pay-for-tweetdeck/#ftag=CAD590a51e)
- - [Google Launches New One-Stop Shop for Reporting Problems, Filing Appeals     - CNET](https://www.cnet.com/tech/google-launches-new-one-stop-shop-for-reporting-problems-filing-appeals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X Users Now Have to Pay for TweetDeck     - CNET](https://www.cnet.com/tech/services-and-software/x-users-now-have-to-pay-for-tweetdeck/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
