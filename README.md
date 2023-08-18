@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - ⏩ [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
- - 👉 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/az2B6Gp)
+ - ⏩ [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 
