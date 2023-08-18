@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Corporate greed has ruined the modern world](http://9gag.com/gag/aGENK76)
- - ⏩ [Who would&#39;ve thought](http://9gag.com/gag/aZDVq7p)
- - 👉 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)<!-- MEMES:END -->
+ - 💣 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)
+ - ⏩ [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 
