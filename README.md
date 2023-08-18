@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
- - 👉 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)<!-- MEMES:END -->
+ - 💣 [Anon has a baby](http://9gag.com/gag/aKELrAZ)
+ - ⏩ [. . .](http://9gag.com/gag/az2B6Gp)
+ - 👉 [Nice](http://9gag.com/gag/a2KxBn1)<!-- MEMES:END -->
 
 ---
 
