@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
- - ⏩ [If you know, you know](http://9gag.com/gag/aDYPEDd)
- - 👉 [. . .](http://9gag.com/gag/az2B6Gp)<!-- MEMES:END -->
+ - 💣 [Corporate greed has ruined the modern world](http://9gag.com/gag/aGENK76)
+ - ⏩ [Who would&#39;ve thought](http://9gag.com/gag/aZDVq7p)
+ - 👉 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)<!-- MEMES:END -->
 
 ---
 
