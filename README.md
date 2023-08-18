@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile’s first Revvl tablet dukes it out with Amazon and Samsung’s cheap tabs](https://www.androidauthority.com/t-mobile-revvl-tab-5g-3355037/)
  - [Samsung Galaxy S23 series August update lands in the US with new camera features](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Google Messages preparing to add support for emergency SOS over satellite](https://www.androidauthority.com/google-messages-emergency-sos-via-satellite-3356040/)
- - [Mandiant: the use of AI to conduct politically-motivated online influence campaigns has grown in recent years, but the impact of such campaigns has been limited &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230817/p38#a230817p38)<!-- TECH:END -->
+ - [Google Messages preparing to add support for emergency SOS over satellite](https://www.androidauthority.com/google-messages-emergency-sos-via-satellite-3356040/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
