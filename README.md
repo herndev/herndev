@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
- - ⏩ [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
- - 👉 [Face your fears!](http://9gag.com/gag/aBdNRQQ)<!-- MEMES:END -->
+ - ⏩ [Face your fears!](http://9gag.com/gag/aBdNRQQ)
+ - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
 
 ---
 
