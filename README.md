@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We always know](http://9gag.com/gag/aA0mj19)
- - ⏩ [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
- - 👉 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)<!-- MEMES:END -->
+ - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
+ - ⏩ [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
 
 ---
 
