@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who would&#39;ve thought](http://9gag.com/gag/aZDVq7p)
- - ⏩ [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)
- - 👉 [Emotional damage](http://9gag.com/gag/aRENw8j)<!-- MEMES:END -->
+ - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - ⏩ [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 
