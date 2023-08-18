@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
- - ⏩ [Shhh...](http://9gag.com/gag/aYVnN1V)
- - 👉 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)<!-- MEMES:END -->
+ - 💣 [Me neither](http://9gag.com/gag/aBdvqPZ)
+ - ⏩ [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
 
 ---
 
