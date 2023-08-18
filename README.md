@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viome, which sells supplements to customers based on AI-based assessments of their microbiomes, raised an $86.5M Series C, bringing its total funding to $175M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230818/p10#a230818p10)
- - [Pixel Watch 2’s design leaks along with some new details](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
- - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
+ - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
+ - [Big companies use AI-generated ads because they’re cheap](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
