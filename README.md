@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
- - ⏩ [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
+ - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - ⏩ [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 
