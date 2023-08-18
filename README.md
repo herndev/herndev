@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anon has a baby](http://9gag.com/gag/aKELrAZ)
- - ⏩ [. . .](http://9gag.com/gag/az2B6Gp)
- - 👉 [Nice](http://9gag.com/gag/a2KxBn1)<!-- MEMES:END -->
+ - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
+ - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 👉 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)<!-- MEMES:END -->
 
 ---
 
