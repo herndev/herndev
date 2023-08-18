@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)
- - [Low interest rates and loneliness: the origins of the pandemic crypto boom](https://www.theverge.com/2023/8/18/23836104/this-is-not-financial-advice-easy-money-ben-mckenzie-review)
- - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)<!-- TECH:END -->
+ - [The fandomization of news](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
+ - [Daily Deals Aug. 18: $600 off M2 Max MacBook Pro, $250 off Apple Studio Display, Insignia 4K Fire TV $159, more](https://appleinsider.com/articles/23/08/18/daily-deals-aug-18-600-off-m2-max-macbook-pro-250-off-apple-studio-display-insignia-4k-fire-tv-159-more?utm_medium=rss)
+ - [Tiffany Haddish on her new movie’s bleak vision of our streaming future](https://www.theverge.com/23835785/tiffany-haddish-interview-landscape-with-invisible-hand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
