@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Apple Vision Pro in the wild](https://appleinsider.com/articles/23/08/18/hands-on-with-apple-vision-pro-in-the-wild?utm_medium=rss)
- - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
- - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)<!-- TECH:END -->
+ - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)
+ - [Low interest rates and loneliness: the origins of the pandemic crypto boom](https://www.theverge.com/2023/8/18/23836104/this-is-not-financial-advice-easy-money-ben-mckenzie-review)
+ - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
