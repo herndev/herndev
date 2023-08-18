@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer UK October issue on sale now: Starfield &amp; Top 100 PC Games 2023](https://www.pcgamer.com/pc-gamer-uk-october-issue-on-sale-now-starfield-and-top-100-pc-games-2023)
  - [The AI hype means Nvidia is making shiploads of cash](https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash)
- - [ASRock confirms key Intel 14th Gen Raptor Lake refresh details and gives some performance info too](https://www.pcgamer.com/asrock-confirms-key-intel-14th-gen-raptor-lake-refresh-details-and-gives-some-performance-info-too)
- - [Today&#39;s Wordle hint and answer #790: Friday, August 18](https://www.pcgamer.com/wordle-answer-today-hint-790-august-18)<!-- GAME:END -->
+ - [ASRock confirms key Intel 14th Gen Raptor Lake refresh details and gives some performance info too](https://www.pcgamer.com/asrock-confirms-key-intel-14th-gen-raptor-lake-refresh-details-and-gives-some-performance-info-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
