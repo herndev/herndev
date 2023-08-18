@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is preparing to release a free open-source code-generating AI model dubbed Code Llama as soon as next week &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230817/p35#a230817p35)
- - [Threads gets retweets — sorry, reposts — in the reverse-chronological feed](https://www.theverge.com/2023/8/17/23836588/threads-reposts-following-chronological-retweets)
- - [One surviving Reddit app plans to charge based on how much you use it](https://www.theverge.com/2023/8/17/23836528/reddit-relay-android-app-subscriptions-potential-price)<!-- TECH:END -->
+ - [OpenSea plans to make creator fees optional for new collections from August 31, and enforce creator fees on certain existing collections through February 2024 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/230817/p36#a230817p36)
+ - [X Users Now Have to Pay for TweetDeck     - CNET](https://www.cnet.com/tech/services-and-software/x-users-now-have-to-pay-for-tweetdeck/#ftag=CAD590a51e)
+ - [Google Launches New One-Stop Shop for Reporting Problems, Filing Appeals     - CNET](https://www.cnet.com/tech/google-launches-new-one-stop-shop-for-reporting-problems-filing-appeals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
