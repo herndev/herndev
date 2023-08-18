@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Android 14 beta 5.1 is here to kill last-minute bugs before the stable launch](https://www.androidauthority.com/android-14-beta-5-1-3356312/)
- - [Draft IPO filing: Arm&#39;s revenue fell 1% YoY to $2.68B in its fiscal year ended on March 31, 2023; sources: Arm plans to sell ~10% of its shares in its listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)<!-- TECH:END -->
+ - [Chromebooks could be getting ultra-wideband &lpar;UWB&rpar; in the future](https://www.androidauthority.com/chromebooks-could-get-uwb-3356318/)
+ - [The everything app: Here’s what we know about Musk’s plans for X](https://www.androidauthority.com/the-everything-app-x-3356006/)
+ - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
