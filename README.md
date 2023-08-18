@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - ⏩ [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - ⏩ [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 👉 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)<!-- MEMES:END -->
 
 ---
 
