@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why Venba is so short — and confidently so](https://www.polygon.com/gaming/23835632/venba-length-how-long)
  - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
- - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)
- - [Daredevil Elden Ring challenge run ends in tragicomedy as player spends days farming 10 million runes &#39;for no specific reason&#39; before losing them to cruel gravity](https://www.pcgamer.com/daredevil-elden-ring-challenge-run-ends-in-tragicomedy-as-player-spends-days-farming-10-million-runes-for-no-specific-reason-before-losing-them-to-cruel-gravity)<!-- GAME:END -->
+ - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
