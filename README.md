@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK October issue on sale now: Starfield &amp; Top 100 PC Games 2023](https://www.pcgamer.com/pc-gamer-uk-october-issue-on-sale-now-starfield-and-top-100-pc-games-2023)
- - [The AI hype means Nvidia is making shiploads of cash](https://www.pcgamer.com/the-ai-hype-means-nvidia-is-making-shiploads-of-cash)
- - [ASRock confirms key Intel 14th Gen Raptor Lake refresh details and gives some performance info too](https://www.pcgamer.com/asrock-confirms-key-intel-14th-gen-raptor-lake-refresh-details-and-gives-some-performance-info-too)<!-- GAME:END -->
+ - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
+ - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)
+ - [Daredevil Elden Ring challenge run ends in tragicomedy as player spends days farming 10 million runes &#39;for no specific reason&#39; before losing them to cruel gravity](https://www.pcgamer.com/daredevil-elden-ring-challenge-run-ends-in-tragicomedy-as-player-spends-days-farming-10-million-runes-for-no-specific-reason-before-losing-them-to-cruel-gravity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
