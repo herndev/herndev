@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
- - ⏩ [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)<!-- MEMES:END -->
+ - 💣 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
+ - ⏩ [Shhh...](http://9gag.com/gag/aYVnN1V)
+ - 👉 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)<!-- MEMES:END -->
 
 ---
 
