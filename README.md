@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - ⏩ [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
+ - 👉 [Anon has a baby](http://9gag.com/gag/aKELrAZ)<!-- MEMES:END -->
 
 ---
 
