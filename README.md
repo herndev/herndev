@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ride 5 Uses Math To Create The Most Authentic Motorcycle Experience Ever](https://news.xbox.com/en-us/2023/08/18/ride-5-launch/)
- - [Baldur&#39;s Gate 3 Collector&#39;s Editions are so in demand resale prices are now exceeding $2,000](https://www.pcgamer.com/baldurs-gate-3-collectors-editions-are-so-in-demand-resale-prices-are-now-exceeding-dollar2000)
- - [Disney Lorcana comes to your local games store tomorrow](https://www.polygon.com/deals/2023/8/18/23837080/disney-lorcana-tcg-pre-order-launch-release-where-to-buy)<!-- GAME:END -->
+ - [Superfan rebuilds several fully-functioning slices of Destiny 2 in Minecraft—complete with two working Strike missions](https://www.pcgamer.com/superfan-rebuilds-several-fully-functioning-slices-of-destiny-2-in-minecraftcomplete-with-two-working-strike-missions)
+ - [Fatal Guilty Gear Strive Exploit Persists Seven Months Later](https://kotaku.com/guilty-gear-strive-hackerman-fatal-r-code-exploit-1850751754)
+ - [When is The Flash coming to Max?](https://www.polygon.com/23762555/flash-max-streaming-release-date-where-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
