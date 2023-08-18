@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I have questions about Lae’zel’s underwear](https://www.polygon.com/gaming/23835810/baldurs-gate-3-companion-underwear-descriptions-laezel)
- - [How to make the Radio Alarm Trap in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-radio-alarm-trap)
- - [ULTRARAM&#39;s inventor tells us why the revolutionary RAM replacement could slay dumb memory DIMMs](https://www.pcgamer.com/ultrarams-inventor-tells-us-why-the-revolutionary-ram-replacement-could-slay-dumb-memory-dimms)<!-- GAME:END -->
+ - [How Ride 5 Uses Math To Create The Most Authentic Motorcycle Experience Ever](https://news.xbox.com/en-us/2023/08/18/ride-5-launch/)
+ - [Baldur&#39;s Gate 3 Collector&#39;s Editions are so in demand resale prices are now exceeding $2,000](https://www.pcgamer.com/baldurs-gate-3-collectors-editions-are-so-in-demand-resale-prices-are-now-exceeding-dollar2000)
+ - [Disney Lorcana comes to your local games store tomorrow](https://www.polygon.com/deals/2023/8/18/23837080/disney-lorcana-tcg-pre-order-launch-release-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
