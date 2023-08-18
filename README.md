@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - ⏩ [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
+ - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
 
 ---
 
