@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me neither](http://9gag.com/gag/aBdvqPZ)
- - ⏩ [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
+ - 💣 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
+ - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
+ - 👉 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)<!-- MEMES:END -->
 
 ---
 
