@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
- - ⏩ [. . .](http://9gag.com/gag/az2B6Gp)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 💣 [Who would&#39;ve thought](http://9gag.com/gag/aZDVq7p)
+ - ⏩ [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)
+ - 👉 [Emotional damage](http://9gag.com/gag/aRENw8j)<!-- MEMES:END -->
 
 ---
 
