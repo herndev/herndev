@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Glorious Model I 2 Wireless](https://www.pcgamer.com/Glorious-Model-I-2-Wireless-gaming-mouse)
- - [New Yakuza spinoff features Japan’s infamous porn pool](https://www.polygon.com/23837185/like-a-dragon-gaiden-man-who-erased-his-name-preview)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
+ - [A scene cut from Scream VI gave Gale more of the dignity she deserves](https://www.polygon.com/23837310/scream-vi-deleted-scene-original-script-gale-weathers-courteney-cox)
+ - [18-Year Call of Duty Veteran Announces He’s Leaving Activision](https://kotaku.com/call-of-duty-black-ops-modern-warfare-david-vonderhaar-1850752781)
+ - [Tencent is bringing back Delta Force as a &#39;large-scale multiplayer PvP&#39; shooter with a singleplayer campaign based on Black Hawk Down](https://www.pcgamer.com/tencent-is-bringing-back-delta-force-as-a-large-scale-multiplayer-pvp-shooter-with-a-singleplayer-campaign-based-on-black-hawk-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
