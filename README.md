@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Beats Studio Buds Plus are already $40 off](https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale)
- - [In a post on X, Elon Musk says &quot;Block is going to be deleted as a &#39;feature&#39;, except for DMs&quot; as it &quot;makes no sense&quot;, without giving further details &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230818/p13#a230818p13)
- - [Sources: SoftBank acquired a 25% stake in Arm from its Vision Fund unit at a $64B valuation and plans to make the chip designer&#39;s IPO filing public on August 21 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/230818/p12#a230818p12)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Android 14 beta 5.1 is here to kill last-minute bugs before the stable launch](https://www.androidauthority.com/android-14-beta-5-1-3356312/)
+ - [Draft IPO filing: Arm&#39;s revenue fell 1% YoY to $2.68B in its fiscal year ended on March 31, 2023; sources: Arm plans to sell ~10% of its shares in its listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
