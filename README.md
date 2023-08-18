@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [My D&amp;D Game Fell Apart, But Baldur’s Gate 3 Saved The Day](https://kotaku.com/baldurs-gate-3-bg3-dungeons-dragons-dnd-ttrpg-1850753337)
  - [Baldur’s Gate 3 Co-Op Is The Game’s Chaotic Potential Realized](https://kotaku.com/baldurs-gate-3-co-op-multiplayer-campaign-rpg-larian-1850753243)
- - [Blizzard Responds To Overwatch 2 Review Bombing](https://kotaku.com/overwatch-2-steam-review-bombing-negative-respond-1850753119)
- - [Declutter your Baldur&#39;s Gate 3 inventory with either of these wonderful autosort bag mods](https://www.pcgamer.com/declutter-your-baldurs-gate-3-inventory-with-either-of-these-wonderful-autosort-bag-mods)<!-- GAME:END -->
+ - [Blizzard Responds To Overwatch 2 Review Bombing](https://kotaku.com/overwatch-2-steam-review-bombing-negative-respond-1850753119)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
