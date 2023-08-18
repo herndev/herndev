@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Lamplighters League takes a shot at approachable turn-based tactics that won&#39;t bury you in percentage symbols](https://www.pcgamer.com/the-lamplighters-league-hands-on)
  - [This free Vampire Survivors clone has one thing nobody knew it needed: Vtubers](https://www.pcgamer.com/this-free-vampire-survivors-clone-has-one-thing-nobody-knew-it-needed-vtubers)
- - [You&#39;ll finally have a chance to try Sega&#39;s extraction shooter Hyenas for yourself at the end of August](https://www.pcgamer.com/youll-finally-have-a-chance-to-try-segas-extraction-shooter-hyenas-for-yourself-at-the-end-of-august)
- - [&#39;I don&#39;t think players expect this&#39;: Warhammer 40K: Darktide is adding RPG-style skill trees full of new abilities to its 4 classes](https://www.pcgamer.com/i-dont-think-players-expect-this-warhammer-40k-darktide-is-adding-rpg-style-skill-trees-full-of-new-abilities-to-its-4-classes)<!-- GAME:END -->
+ - [You&#39;ll finally have a chance to try Sega&#39;s extraction shooter Hyenas for yourself at the end of August](https://www.pcgamer.com/youll-finally-have-a-chance-to-try-segas-extraction-shooter-hyenas-for-yourself-at-the-end-of-august)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
