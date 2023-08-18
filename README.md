@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superfan rebuilds several fully-functioning slices of Destiny 2 in Minecraft—complete with two working Strike missions](https://www.pcgamer.com/superfan-rebuilds-several-fully-functioning-slices-of-destiny-2-in-minecraftcomplete-with-two-working-strike-missions)
- - [Fatal Guilty Gear Strive Exploit Persists Seven Months Later](https://kotaku.com/guilty-gear-strive-hackerman-fatal-r-code-exploit-1850751754)
- - [When is The Flash coming to Max?](https://www.polygon.com/23762555/flash-max-streaming-release-date-where-to-watch)<!-- GAME:END -->
+ - [New Like A Dragon Trailer Turns Kiryu Into A Stylish Super-Spy](https://kotaku.com/yakuza-like-a-dragon-man-erased-name-kiryu-trailer-1850752205)
+ - [The makers of Hardspace Shipbreaker are trying to crack a new take on the roguelike deckbuilder](https://www.pcgamer.com/the-makers-of-hardspace-shipbreaker-are-trying-to-crack-a-new-take-on-the-roguelike-deckbuilder)
+ - [The Most Sought After Elden Ring Sword Has A Storied History](https://kotaku.com/fromsoftware-elden-ring-kings-field-sword-of-moonlight-1850749163)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
