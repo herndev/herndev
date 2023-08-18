@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)
+ - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
  - ⏩ [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 
