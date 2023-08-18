@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
- - ⏩ [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
- - 👉 [Anon has a baby](http://9gag.com/gag/aKELrAZ)<!-- MEMES:END -->
+ - 💣 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - ⏩ [Save the Children](http://9gag.com/gag/avQX20X)
+ - 👉 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)<!-- MEMES:END -->
 
 ---
 
