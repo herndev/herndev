@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Like A Dragon Trailer Turns Kiryu Into A Stylish Super-Spy](https://kotaku.com/yakuza-like-a-dragon-man-erased-name-kiryu-trailer-1850752205)
- - [The makers of Hardspace Shipbreaker are trying to crack a new take on the roguelike deckbuilder](https://www.pcgamer.com/the-makers-of-hardspace-shipbreaker-are-trying-to-crack-a-new-take-on-the-roguelike-deckbuilder)
- - [The Most Sought After Elden Ring Sword Has A Storied History](https://kotaku.com/fromsoftware-elden-ring-kings-field-sword-of-moonlight-1850749163)<!-- GAME:END -->
+ - [Glorious Model I 2 Wireless](https://www.pcgamer.com/Glorious-Model-I-2-Wireless-gaming-mouse)
+ - [New Yakuza spinoff features Japan’s infamous porn pool](https://www.polygon.com/23837185/like-a-dragon-gaiden-man-who-erased-his-name-preview)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
