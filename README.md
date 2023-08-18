@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings Body Smart review: a flawed but thoughtful approach to weight](https://www.theverge.com/23828694/withings-body-smart-review-smart-scales-body-composition)
- - [London-based credit card processor Checkout.com abruptly terminates its contract with Binance citing reports of regulatory actions and money laundering concerns &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230818/p9#a230818p9)
- - [Florida’s War With Invasive Pythons Has a New Twist](https://www.wired.com/story/floridas-war-with-invasive-pythons-has-a-new-twist/)<!-- TECH:END -->
+ - [Viome, which sells supplements to customers based on AI-based assessments of their microbiomes, raised an $86.5M Series C, bringing its total funding to $175M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230818/p10#a230818p10)
+ - [Pixel Watch 2’s design leaks along with some new details](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
+ - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
