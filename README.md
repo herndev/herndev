@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks could be getting ultra-wideband &lpar;UWB&rpar; in the future](https://www.androidauthority.com/chromebooks-could-get-uwb-3356318/)
- - [The everything app: Here’s what we know about Musk’s plans for X](https://www.androidauthority.com/the-everything-app-x-3356006/)
- - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)<!-- TECH:END -->
+ - [App Store terms probably won&#39;t stop X from turning off the block feature](https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature?utm_medium=rss)
+ - [California is letting a lot more people get a digital ID](https://www.theverge.com/2023/8/18/23837596/california-digital-ids-program-mdl-expansion)
+ - [Senators want YouTube investigated over showing targeted ads to kids, again](https://www.theverge.com/2023/8/18/23837530/youtube-ads-child-safety-tracking-coppa-senator-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
