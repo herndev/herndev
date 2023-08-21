@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - ⏩ [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 👉 [How the Turntables](http://9gag.com/gag/awZGnrD)<!-- MEMES:END -->
+ - 💣 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - ⏩ [Fun has no limits](http://9gag.com/gag/aqep13Q)
+ - 👉 [You can never be too careful.](http://9gag.com/gag/aoKqN6A)<!-- MEMES:END -->
 
 ---
 
