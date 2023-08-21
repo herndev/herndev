@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - ⏩ [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
+ - 💣 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - ⏩ [Didn\u2019t know PR already started](http://9gag.com/gag/aeQPpgq)
+ - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
 
 ---
 
