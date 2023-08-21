@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friend.tech, which lets people buy &quot;shares&quot; of X accounts with crypto, hits 100K+ users, according to a database that lists wallets and raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)
- - [Should California expect more tropical storms like Hurricane Hilary?](https://www.theverge.com/2023/8/21/23839976/california-tropical-storms-hurricane-hilary-climate-change)
- - [Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and plans to expand to Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)<!-- TECH:END -->
+ - [The best phone deals of August 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Sources: cybersecurity company SentinelOne, whose shares dropped ~80% in the last two years, has been exploring options including a sale; stock jumps 15%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230821/p19#a230821p19)
+ - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
