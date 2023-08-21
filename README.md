@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
- - ⏩ [Nice](http://9gag.com/gag/a2KxBn1)
- - 👉 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)<!-- MEMES:END -->
+ - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - ⏩ [The stance](http://9gag.com/gag/az2DrBj)
+ - 👉 [Cat vs Onion](http://9gag.com/gag/armrbnK)<!-- MEMES:END -->
 
 ---
 
