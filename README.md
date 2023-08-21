@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - ⏩ [Taylor Stepaniuk](http://9gag.com/gag/aBdN1mQ)
- - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
+ - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - ⏩ [Bored?](http://9gag.com/gag/aNw21L0)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 
