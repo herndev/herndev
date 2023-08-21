@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - ⏩ [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 👉 [How did he...](http://9gag.com/gag/aL1N9RV)<!-- MEMES:END -->
+ - ⏩ [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 👉 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)<!-- MEMES:END -->
 
 ---
 
