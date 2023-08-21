@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Game Porting Toolkit is easier to set up using a new installer](https://appleinsider.com/articles/23/08/21/apple-game-porting-toolkit-is-easier-to-set-up-using-a-new-installer?utm_medium=rss)
- - [AirTag again exposes lies told by airlines about lost luggage](https://appleinsider.com/articles/23/08/21/airtag-again-exposes-lies-told-by-airlines-about-lost-luggage?utm_medium=rss)
- - [You told us: You think the Mix Fold 3 is hot, so where’s the global launch?](https://www.androidauthority.com/xiaomi-mix-fold-3-hot-not-poll-results-3356553/)<!-- TECH:END -->
+ - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)
+ - [One UI 6 brings official Chromecast support to Samsung Galaxy phones](https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/)
+ - [iPhone 15 could get braided &amp; color-matched USB-C cables](https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
