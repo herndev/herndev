@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - ⏩ [Fun has no limits](http://9gag.com/gag/aqep13Q)
- - 👉 [You can never be too careful.](http://9gag.com/gag/aoKqN6A)<!-- MEMES:END -->
+ - 💣 [The biggest mistake](http://9gag.com/gag/aA0NwP0)
+ - ⏩ [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 👉 [How the Turntables](http://9gag.com/gag/awZGnrD)<!-- MEMES:END -->
 
 ---
 
