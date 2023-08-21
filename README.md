@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - ⏩ [The stance](http://9gag.com/gag/az2DrBj)
- - 👉 [Cat vs Onion](http://9gag.com/gag/armrbnK)<!-- MEMES:END -->
+ - 💣 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - ⏩ [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
 
 ---
 
