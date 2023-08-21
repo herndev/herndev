@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Canceled Ubisoft Sequel Was Inspired By Wind Waker, Elden Ring](https://kotaku.com/immortals-fenyx-rising-sequel-botw-elden-ring-ubisoft-1850759590)
- - [Why people are talking about Starfield&#39;s start screen: Gaming&#39;s latest Twitter dust-up, explained](https://www.pcgamer.com/why-people-are-talking-about-starfields-start-screen-gamings-latest-twitter-dust-up-explained)
- - [Lollipop Chainsaw Re-review: Grindhouse For The Girls](https://kotaku.com/lollipop-chainsaw-remake-xbox-review-suda51-james-gunn-1850759293)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 modder enchants Gale&#39;s underwear with one of the most devastating spells in Dungeons &amp; Dragons](https://www.pcgamer.com/baldurs-gate-3-modder-enchants-gales-underwear-with-one-of-the-most-devastating-spells-in-dungeons-and-dragons)
+ - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)
+ - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
