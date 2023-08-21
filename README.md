@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - ⏩ [Why?](http://9gag.com/gag/ajVMDz1)
- - 👉 [Remember what they took from you](http://9gag.com/gag/axonDnY)<!-- MEMES:END -->
+ - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
+ - ⏩ [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
 
 ---
 
