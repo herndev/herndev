@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)
- - [X says it’s fixed the bug that broke links and images in pre-December 2014 tweets](https://www.theverge.com/2023/8/21/23840640/twitter-x-2014-image-link-tweet-t-co-shortener)
- - [Coinbase takes a &quot;small&quot; equity stake in Circle as the companies shutter the Centre Consortium, which previously governed the USDC stablecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230821/p24#a230821p24)<!-- TECH:END -->
+ - [How to watch Serie A in the USA](https://www.androidauthority.com/how-to-watch-serie-a-in-usa-3356798/)
+ - [Newest XLoader threat targets work environments](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
+ - [The New York Times blocks OpenAI’s web crawler](https://www.theverge.com/2023/8/21/23840705/new-york-times-openai-web-crawler-ai-gpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
