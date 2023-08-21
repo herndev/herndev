@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USDA announces $667 million in rural broadband funding](https://www.theverge.com/2023/8/21/23837593/biden-broadband-usda-reconnect-internet-rural-farms)
- - [A look at Music: Not Impossible&#39;s haptic suit, consisting of a backpack and ankle and wrist bands, which lets people feel music as vibrations on their bodies &lpar;New York Times&rpar;](http://www.techmeme.com/230821/p1#a230821p1)
- - [Specs and pricing for Xiaomi’s Pixel 7 rival have leaked](https://www.androidauthority.com/xiaomi-13t-series-specs-price-leak-3356520/)<!-- TECH:END -->
+ - [Apple Game Porting Toolkit is easier to set up using a new installer](https://appleinsider.com/articles/23/08/21/apple-game-porting-toolkit-is-easier-to-set-up-using-a-new-installer?utm_medium=rss)
+ - [AirTag again exposes lies told by airlines about lost luggage](https://appleinsider.com/articles/23/08/21/airtag-again-exposes-lies-told-by-airlines-about-lost-luggage?utm_medium=rss)
+ - [You told us: You think the Mix Fold 3 is hot, so where’s the global launch?](https://www.androidauthority.com/xiaomi-mix-fold-3-hot-not-poll-results-3356553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
