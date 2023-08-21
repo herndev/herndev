@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - 💣 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
  - ⏩ [Bored?](http://9gag.com/gag/aNw21L0)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 ---
 
