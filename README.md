@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
- - ⏩ [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 👉 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)<!-- MEMES:END -->
+ - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - ⏩ [How the Turntables](http://9gag.com/gag/awZGnrD)
+ - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
 
 ---
 
