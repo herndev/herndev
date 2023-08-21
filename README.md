@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Metal Gear Solid collection is coming to PS4, too](https://www.theverge.com/2023/8/21/23840181/the-new-metal-gear-solid-collection-is-coming-to-ps4-too)
- - [All the Pixel Watch 2 really needs is good battery life](https://www.theverge.com/23836353/pixel-watch-2-battery-life-wear-os-4)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Friend.tech, which lets people buy &quot;shares&quot; of X accounts with crypto, hits 100K+ users, according to a database that lists wallets and raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)
+ - [Should California expect more tropical storms like Hurricane Hilary?](https://www.theverge.com/2023/8/21/23839976/california-tropical-storms-hurricane-hilary-climate-change)
+ - [Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and plans to expand to Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
