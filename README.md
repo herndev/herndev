@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [August games you might have missed](https://www.polygon.com/deals/23824947/august-games-indie-gord-sea-of-stars-bomb-rush-cyberfunk-blasphemous-2)
- - [Fans Think Mario’s Voice Sounds Weird In The New Game [Update: Charles Martinet Wasn&#39;t Involved]](https://kotaku.com/super-mario-bros-wonder-warioware-charles-martinet-1850561907)
- - [Witcher Director Praises Henry Cavill, Says Show ‘Demanding’ To Make](https://kotaku.com/witcher-season-3-4-cast-henry-cavill-hemsworth-geralt-1850758113)<!-- GAME:END -->
+ - [Competitive Pokémon Is Full Of Cheating, According To New Data](https://kotaku.com/pokemon-scarlet-violet-dlc-cheating-hacked-genned-pkhex-1850758535)
+ - [Pokémon Go Fest 2023 Is A Reminder The Game Is Meant For A Big City](https://kotaku.com/pokemon-go-fest-new-york-city-nyc-2023-global-event-1850758289)
+ - [Cult of the Lamb and Don’t Starve Together Join Forces for an Unholy Communion](https://news.xbox.com/en-us/2023/08/21/cult-of-the-lamb-and-dont-starve-together-join-forces/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
