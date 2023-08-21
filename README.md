@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xbox Console Wraps – Experience the Power of Series X in Style](https://news.xbox.com/en-us/2023/08/21/xbox-series-x-console-wraps-starfield-camo/)
- - [This John Wick-inspired Killer Bean Game Looks Pretty Cool, Ridiculous](https://kotaku.com/killer-bean-game-90s-just-cause-max-payne-roguelike-gta-1850757817)
- - [Leaked Logitech G Pro X Superlight 2 sheds even more weight](https://www.pcgamer.com/leaked-logitech-g-pro-x-superlight-2-sheds-even-more-weight)<!-- GAME:END -->
+ - [August games you might have missed](https://www.polygon.com/deals/23824947/august-games-indie-gord-sea-of-stars-bomb-rush-cyberfunk-blasphemous-2)
+ - [Fans Think Mario’s Voice Sounds Weird In The New Game [Update: Charles Martinet Wasn&#39;t Involved]](https://kotaku.com/super-mario-bros-wonder-warioware-charles-martinet-1850561907)
+ - [Witcher Director Praises Henry Cavill, Says Show ‘Demanding’ To Make](https://kotaku.com/witcher-season-3-4-cast-henry-cavill-hemsworth-geralt-1850758113)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
