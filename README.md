@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #793: Monday, August 21](https://www.pcgamer.com/wordle-answer-today-hint-793-august-21)
- - [Five new Steam games you probably missed &lpar;August 21, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-21-2023)
- - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)<!-- GAME:END -->
+ - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)
+ - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)
+ - [Today&#39;s Wordle hint and answer #793: Monday, August 21](https://www.pcgamer.com/wordle-answer-today-hint-793-august-21)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
