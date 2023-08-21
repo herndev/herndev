@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - ⏩ [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 👉 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)<!-- MEMES:END -->
+ - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - ⏩ [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
 
 ---
 
