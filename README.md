@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bored Ape Yacht Club creator to block OpenSea in fight over payments](https://www.theverge.com/2023/8/18/23837677/bayc-opensea-drops-support-creator-royalty-fees)
- - [Canadian Heritage Minister Pascale St-Onge demands that Meta lift its &quot;reckless&quot; news ban on Facebook and Instagram for the safety of people fleeing wildfires &lpar;David Ljunggren/Reuters&rpar;](http://www.techmeme.com/230818/p17#a230818p17)
- - [App Store terms probably won&#39;t stop X from turning off the block feature](https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Some clinicians think unrealistic depictions of dissociative identity disorder on TikTok are influencing young people to self-diagnose or imitate the disorder &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/230820/p9#a230820p9)
+ - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
+ - [A look at the potential impact of the EU&#39;s DSA and DMA on Big Tech, as some say the effect may be as severe as Great Depression-era laws that reined in US banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p8#a230820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
