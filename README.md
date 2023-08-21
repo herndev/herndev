@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - ⏩ [Didn\u2019t know PR already started](http://9gag.com/gag/aeQPpgq)
- - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
+ - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - ⏩ [Why?](http://9gag.com/gag/ajVMDz1)
+ - 👉 [Remember what they took from you](http://9gag.com/gag/axonDnY)<!-- MEMES:END -->
 
 ---
 
