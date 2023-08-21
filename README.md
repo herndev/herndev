@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 director opens up about having the worst-reviewed game on Steam: &#39;Being review-bombed isn&#39;t a fun experience&#39;](https://www.pcgamer.com/overwatch-2-director-opens-up-about-having-the-worst-reviewed-game-on-steam-being-review-bombed-isnt-a-fun-experience)
- - [Watch this Diablo 4 Barbarian deal 7 billion damage to Uber Lilith while she&#39;s already down](https://www.pcgamer.com/watch-this-diablo-4-barbarian-deal-7-billion-damage-to-uber-lilith-while-shes-already-down)
- - [The Pope’s Exorcist, Elemental, and every new movie to watch at home this weekend](https://www.polygon.com/2023/8/18/23831318/new-movies-watch-popes-exorcist-netflix-elemental-no-hard-feelings)<!-- GAME:END -->
+ - [Wayfinder devs apologize as server woes lead to a poor launch reception](https://www.pcgamer.com/wayfinder-devs-apologize-as-server-woes-lead-to-a-poor-launch-reception)
+ - [Baldur&#39;s Gate 3 is a great RPG, but also a victory for the immersive sim](https://www.pcgamer.com/baldurs-gate-3-is-a-great-rpg-but-its-also-a-victory-for-the-immersive-sim)
+ - [Another King of Dragon Pass successor, Six Ages 2, plunges its world into chaos](https://www.pcgamer.com/another-king-of-dragon-pass-successor-six-ages-2-plunges-its-world-into-chaos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
