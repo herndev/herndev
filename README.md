@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Complete the Barbenheimer challenge for just $8 this Sunday.](https://www.polygon.com/deals/23840044/movie-tickets-fandango-national-cinema-day-weekend-deals-barbie-oppenheimer)
- - [Your Essential Ahsoka Refresher Before The New Star Wars Series](https://kotaku.com/ahsoka-tano-series-start-date-episode-count-thrawn-1850758650)
- - [The Week In Games: What’s Coming Out Beyond Armored Core VI](https://kotaku.com/august-games-out-this-week-armored-core-6-blasphemous-2-1850758717)<!-- GAME:END -->
+ - [Microsoft’s official Series X wrap is a console koozie](https://www.polygon.com/deals/23840320/xbox-series-x-console-wrap-starfield-pre-order-buy)
+ - [Microsoft’s New Xbox Skins Look Pretty Nice, Actually](https://kotaku.com/xbox-series-x-skin-360-one-starfield-game-customize-1850759121)
+ - [A game-breaking Hitman exploit is back by popular demand](https://www.polygon.com/23840055/hitman-3-patch-freelancer-alt-f4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
