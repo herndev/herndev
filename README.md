@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using Generative AI to Resurrect the Dead Will Create a Burden for the Living](https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/)
- - [YouTube is working with Universal Music Group to explore the use of music in AI programs and ways to pay artists whose work is used to make AI-generated content &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230821/p10#a230821p10)
- - [Eve Cam 2 leaks, Aqara&#39;s T1 light strip, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/21/eve-cam-2-leaks-aqaras-t1-light-strip-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s sci-fi drama Invasion ramps up the tension in season 2](https://www.theverge.com/23833132/invasion-season-2-review-apple-tv-plus)
+ - [Apple is unsurprisingly already working on A19 and M5 chips](https://appleinsider.com/articles/23/08/21/apple-is-unsurprisingly-already-working-on-a19-and-m5-chips?utm_medium=rss)
+ - [Amazon’s Fire TV Channels adds a sidebar and more free streaming content](https://www.theverge.com/2023/8/21/23839875/amazon-fire-tv-channels-sidebar-free-streaming-content-fast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
