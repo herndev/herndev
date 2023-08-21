@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Competitive Pokémon Is Full Of Cheating, According To New Data](https://kotaku.com/pokemon-scarlet-violet-dlc-cheating-hacked-genned-pkhex-1850758535)
- - [Pokémon Go Fest 2023 Is A Reminder The Game Is Meant For A Big City](https://kotaku.com/pokemon-go-fest-new-york-city-nyc-2023-global-event-1850758289)
- - [Cult of the Lamb and Don’t Starve Together Join Forces for an Unholy Communion](https://news.xbox.com/en-us/2023/08/21/cult-of-the-lamb-and-dont-starve-together-join-forces/)<!-- GAME:END -->
+ - [Complete the Barbenheimer challenge for just $8 this Sunday.](https://www.polygon.com/deals/23840044/movie-tickets-fandango-national-cinema-day-weekend-deals-barbie-oppenheimer)
+ - [Your Essential Ahsoka Refresher Before The New Star Wars Series](https://kotaku.com/ahsoka-tano-series-start-date-episode-count-thrawn-1850758650)
+ - [The Week In Games: What’s Coming Out Beyond Armored Core VI](https://kotaku.com/august-games-out-this-week-armored-core-6-blasphemous-2-1850758717)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
