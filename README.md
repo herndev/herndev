@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - ⏩ [How the Turntables](http://9gag.com/gag/awZGnrD)
- - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
+ - 💣 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - ⏩ [Taylor Stepaniuk](http://9gag.com/gag/aBdN1mQ)
+ - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
 
 ---
 
