@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - ⏩ [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
- - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
+ - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - ⏩ [The stance](http://9gag.com/gag/az2DrBj)
+ - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
 
 ---
 
