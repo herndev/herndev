@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s sci-fi drama Invasion ramps up the tension in season 2](https://www.theverge.com/23833132/invasion-season-2-review-apple-tv-plus)
- - [Apple is unsurprisingly already working on A19 and M5 chips](https://appleinsider.com/articles/23/08/21/apple-is-unsurprisingly-already-working-on-a19-and-m5-chips?utm_medium=rss)
- - [Amazon’s Fire TV Channels adds a sidebar and more free streaming content](https://www.theverge.com/2023/8/21/23839875/amazon-fire-tv-channels-sidebar-free-streaming-content-fast)<!-- TECH:END -->
+ - [Apple Podcasts now shows creators who’s really paying for their shows](https://www.theverge.com/2023/8/21/23839961/apple-podcasts-subscription-analytics-linkfire-partnership)
+ - [Stitching together an archive of an endangered Palestinian art](https://www.theverge.com/23833322/palestinian-embroidery-digital-archive-tatreez-wafa-ghnaim-tirazain)
+ - [The Mandalorian, Loki, and WandaVision are headed to Blu-ray](https://www.theverge.com/2023/8/21/23839994/disney-plus-mandalorian-loki-wandavision-blu-ray)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
