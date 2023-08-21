@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - ⏩ [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - 👉 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)<!-- MEMES:END -->
+ - 💣 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)
+ - ⏩ [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 👉 [How the Turntables](http://9gag.com/gag/awZGnrD)<!-- MEMES:END -->
 
 ---
 
