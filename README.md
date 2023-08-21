@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone deals of August 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Sources: cybersecurity company SentinelOne, whose shares dropped ~80% in the last two years, has been exploring options including a sale; stock jumps 15%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230821/p19#a230821p19)
- - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)<!-- TECH:END -->
+ - [FCC filing hints at a new Fitbit tracker — but which one?](https://www.theverge.com/2023/8/21/23840308/fitbit-ace-4-luxe-google-fcc-filing-fitness-tracker)
+ - [Filing: SoftBank&#39;s Arm files to list on Nasdaq and reports $524M in net income on $2.68B in revenue in its fiscal 2023, with sales slightly down from 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230821/p23#a230821p23)
+ - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
