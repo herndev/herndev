@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How new NBA 2K24 gameplay features improve newcomer experience – out Sep 8 on PS5 and PS4](https://blog.playstation.com/2023/08/21/how-new-nba-2k24-gameplay-features-improve-newcomer-experience-out-sep-8-on-ps5-and-ps4/)
- - [WrestleQuest Wrestlifies RPGs](https://news.xbox.com/en-us/2023/08/21/wrestlequest-wrestlifies-rpgs/)
- - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
+ - [New Xbox Console Wraps – Experience the Power of Series X in Style](https://news.xbox.com/en-us/2023/08/21/xbox-series-x-console-wraps-starfield-camo/)
+ - [This John Wick-inspired Killer Bean Game Looks Pretty Cool, Ridiculous](https://kotaku.com/killer-bean-game-90s-just-cause-max-payne-roguelike-gta-1850757817)
+ - [Leaked Logitech G Pro X Superlight 2 sheds even more weight](https://www.pcgamer.com/leaked-logitech-g-pro-x-superlight-2-sheds-even-more-weight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
