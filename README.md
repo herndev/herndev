@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The biggest mistake](http://9gag.com/gag/aA0NwP0)
- - ⏩ [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 👉 [How the Turntables](http://9gag.com/gag/awZGnrD)<!-- MEMES:END -->
+ - 💣 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - ⏩ [How the Turntables](http://9gag.com/gag/awZGnrD)
+ - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
 
 ---
 
