@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)
- - ⏩ [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 👉 [How the Turntables](http://9gag.com/gag/awZGnrD)<!-- MEMES:END -->
+ - 💣 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - ⏩ [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
+ - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
 
 ---
 
