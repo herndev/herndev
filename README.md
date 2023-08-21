@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - ⏩ [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 👉 [Equality](http://9gag.com/gag/aL1N8Mv)<!-- MEMES:END -->
+ - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
+ - ⏩ [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 👉 [How did he...](http://9gag.com/gag/aL1N9RV)<!-- MEMES:END -->
 
 ---
 
