@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones now support RCS messages for the first time thanks to this app!](https://www.androidauthority.com/iphone-rcs-support-beeper-3356511/)
  - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)
- - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)
- - [Sources: Meta plans to launch a web version of Threads early this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p10#a230820p10)<!-- TECH:END -->
+ - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
