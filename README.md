@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)
- - [One UI 6 brings official Chromecast support to Samsung Galaxy phones](https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/)
- - [iPhone 15 could get braided &amp; color-matched USB-C cables](https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s the first outdoor smart plug to work with Matter](https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug)
+ - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)
+ - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
