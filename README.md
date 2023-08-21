@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Specs and pricing for Xiaomi’s Pixel 7 rival have leaked](https://www.androidauthority.com/xiaomi-13t-series-specs-price-leak-3356520/)
  - [iPhones now support RCS messages for the first time thanks to this app!](https://www.androidauthority.com/iphone-rcs-support-beeper-3356511/)
- - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)
- - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)<!-- TECH:END -->
+ - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
