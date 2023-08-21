@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD preps RTX 4060-slaying 6750 GRE graphics card for $299 according to report](https://www.pcgamer.com/amd-preps-rtx-4060-slaying-6750-gre-graphics-card-for-dollar299-according-to-report)
  - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)
- - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)
- - [Today&#39;s Wordle hint and answer #793: Monday, August 21](https://www.pcgamer.com/wordle-answer-today-hint-793-august-21)<!-- GAME:END -->
+ - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
