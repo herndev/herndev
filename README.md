@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - ⏩ [How the Turntables](http://9gag.com/gag/awZGnrD)
- - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
+ - 💣 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - ⏩ [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
+ - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 ---
 
