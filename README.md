@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab a 1 TB Xbox Series X expansion card for 15% off at Amazon](https://www.polygon.com/deals/2023/8/21/23839904/1-tb-expansion-card-xbox-series-x-deal-amazon)
- - [Elon Musk says blocking, a feature both Apple and Google require on social apps, &#39;makes no sense&#39;](https://www.pcgamer.com/elon-musk-says-blocking-a-feature-both-apple-and-google-require-on-social-apps-makes-no-sense)
- - [Fresh off a fantastic Quake 2 remaster, Nightdive would once again like Tim Sweeney to know it&#39;s ready and eager to do the same to Unreal](https://www.pcgamer.com/fresh-off-a-fantastic-quake-2-remaster-nightdive-would-once-again-like-tim-sweeney-to-know-its-ready-and-eager-to-do-the-same-to-unreal)<!-- GAME:END -->
+ - [How new NBA 2K24 gameplay features improve newcomer experience – out Sep 8 on PS5 and PS4](https://blog.playstation.com/2023/08/21/how-new-nba-2k24-gameplay-features-improve-newcomer-experience-out-sep-8-on-ps5-and-ps4/)
+ - [WrestleQuest Wrestlifies RPGs](https://news.xbox.com/en-us/2023/08/21/wrestlequest-wrestlifies-rpgs/)
+ - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
