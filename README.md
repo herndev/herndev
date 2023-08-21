@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft’s official Series X wrap is a console koozie](https://www.polygon.com/deals/23840320/xbox-series-x-console-wrap-starfield-pre-order-buy)
- - [Microsoft’s New Xbox Skins Look Pretty Nice, Actually](https://kotaku.com/xbox-series-x-skin-360-one-starfield-game-customize-1850759121)
- - [A game-breaking Hitman exploit is back by popular demand](https://www.polygon.com/23840055/hitman-3-patch-freelancer-alt-f4)<!-- GAME:END -->
+ - [Why people are talking about Starfield&#39;s start screen: Gaming&#39;s latest Twitter dust-up, explained](https://www.pcgamer.com/why-people-are-talking-about-starfields-start-screen-gamings-latest-twitter-dust-up-explained)
+ - [Lollipop Chainsaw Re-review: Grindhouse For The Girls](https://kotaku.com/lollipop-chainsaw-remake-xbox-review-suda51-james-gunn-1850759293)
+ - [Forget movie night, Samsung is making the first portable projector with built-in cloud gaming](https://www.pcgamer.com/forget-movie-night-samsung-is-making-the-first-portable-projector-with-built-in-cloud-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
