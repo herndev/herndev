@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla points to ‘insider wrongdoing’ as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
- - [Apple Podcasts rolls out new data analytics dashboard for content creators](https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators?utm_medium=rss)
- - [T-Mobile’s new Go5G plan gets even more expensive and offers faster phone upgrades](https://www.theverge.com/2023/8/21/23839982/t-mobile-go5g-next-annual-upgrade-iphone-samsung-galaxy-google-pixel)<!-- TECH:END -->
+ - [The new Metal Gear Solid collection is coming to PS4, too](https://www.theverge.com/2023/8/21/23840181/the-new-metal-gear-solid-collection-is-coming-to-ps4-too)
+ - [All the Pixel Watch 2 really needs is good battery life](https://www.theverge.com/23836353/pixel-watch-2-battery-life-wear-os-4)
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
