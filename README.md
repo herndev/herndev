@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD preps RTX 4060-slaying 6750 GRE graphics card for $299 according to report](https://www.pcgamer.com/amd-preps-rtx-4060-slaying-6750-gre-graphics-card-for-dollar299-according-to-report)
- - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)
- - [Hands-on report: Metal Gear Solid: Master Collection Vol.1, Super Crazy Rhythm Castle, and more](https://blog.playstation.com/2023/08/21/hands-on-report-metal-gear-solid-master-collection-vol-1super-crazy-rhythm-castle-and-more/)<!-- GAME:END -->
+ - [How to solve the Sarin skeleton puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-sarin-skeleton-solution)
+ - [By Tymora, it&#39;s time we recognised Baldur&#39;s Gate 3 is one of the greatest video game events ever](https://www.pcgamer.com/by-tymora-its-time-we-recognised-baldurs-gate-3-is-one-of-the-greatest-video-game-events-ever)
+ - [Astarion&#39;s voice actor directed Baldur&#39;s Gate 3&#39;s infamous bear scene: &#39;I did not know they were gonna use Astarion as the model&#39;](https://www.pcgamer.com/astarions-voice-actor-directed-baldurs-gate-3s-infamous-bear-scene-i-did-not-know-they-were-gonna-use-astarion-as-the-model)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
