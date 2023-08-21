@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Podcasts now shows creators who’s really paying for their shows](https://www.theverge.com/2023/8/21/23839961/apple-podcasts-subscription-analytics-linkfire-partnership)
- - [Stitching together an archive of an endangered Palestinian art](https://www.theverge.com/23833322/palestinian-embroidery-digital-archive-tatreez-wafa-ghnaim-tirazain)
- - [The Mandalorian, Loki, and WandaVision are headed to Blu-ray](https://www.theverge.com/2023/8/21/23839994/disney-plus-mandalorian-loki-wandavision-blu-ray)<!-- TECH:END -->
+ - [Tesla points to ‘insider wrongdoing’ as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
+ - [Apple Podcasts rolls out new data analytics dashboard for content creators](https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators?utm_medium=rss)
+ - [T-Mobile’s new Go5G plan gets even more expensive and offers faster phone upgrades](https://www.theverge.com/2023/8/21/23839982/t-mobile-go5g-next-annual-upgrade-iphone-samsung-galaxy-google-pixel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
