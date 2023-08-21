@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sling cards to save the planet in this free ecological strategy game](https://www.pcgamer.com/sling-cards-to-save-the-planet-in-this-free-ecological-strategy-game)
  - [Wayfinder devs apologize as server woes lead to a poor launch reception](https://www.pcgamer.com/wayfinder-devs-apologize-as-server-woes-lead-to-a-poor-launch-reception)
- - [Baldur&#39;s Gate 3 is a great RPG, but also a victory for the immersive sim](https://www.pcgamer.com/baldurs-gate-3-is-a-great-rpg-but-its-also-a-victory-for-the-immersive-sim)
- - [Another King of Dragon Pass successor, Six Ages 2, plunges its world into chaos](https://www.pcgamer.com/another-king-of-dragon-pass-successor-six-ages-2-plunges-its-world-into-chaos)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is a great RPG, but also a victory for the immersive sim](https://www.pcgamer.com/baldurs-gate-3-is-a-great-rpg-but-its-also-a-victory-for-the-immersive-sim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
