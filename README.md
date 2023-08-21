@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the first outdoor smart plug to work with Matter](https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug)
- - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)
- - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)<!-- TECH:END -->
+ - [Using Generative AI to Resurrect the Dead Will Create a Burden for the Living](https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/)
+ - [YouTube is working with Universal Music Group to explore the use of music in AI programs and ways to pay artists whose work is used to make AI-generated content &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230821/p10#a230821p10)
+ - [Eve Cam 2 leaks, Aqara&#39;s T1 light strip, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/21/eve-cam-2-leaks-aqaras-t1-light-strip-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
