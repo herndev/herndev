@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Canceled Ubisoft Sequel Was Inspired By Wind Waker, Elden Ring](https://kotaku.com/immortals-fenyx-rising-sequel-botw-elden-ring-ubisoft-1850759590)
  - [Why people are talking about Starfield&#39;s start screen: Gaming&#39;s latest Twitter dust-up, explained](https://www.pcgamer.com/why-people-are-talking-about-starfields-start-screen-gamings-latest-twitter-dust-up-explained)
- - [Lollipop Chainsaw Re-review: Grindhouse For The Girls](https://kotaku.com/lollipop-chainsaw-remake-xbox-review-suda51-james-gunn-1850759293)
- - [Forget movie night, Samsung is making the first portable projector with built-in cloud gaming](https://www.pcgamer.com/forget-movie-night-samsung-is-making-the-first-portable-projector-with-built-in-cloud-gaming)<!-- GAME:END -->
+ - [Lollipop Chainsaw Re-review: Grindhouse For The Girls](https://kotaku.com/lollipop-chainsaw-remake-xbox-review-suda51-james-gunn-1850759293)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
