@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We were lied to](http://9gag.com/gag/avQXoOE)
- - ⏩ [Title](http://9gag.com/gag/ay2VX1b)
- - 👉 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)<!-- MEMES:END -->
+ - 💣 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
+ - ⏩ [Ah yes the Swiss man](http://9gag.com/gag/a1PqW08)
+ - 👉 [Classic prank](http://9gag.com/gag/aYVnyWV)<!-- MEMES:END -->
 
 ---
 
