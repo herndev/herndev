@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 modder enchants Gale&#39;s underwear with one of the most devastating spells in Dungeons &amp; Dragons](https://www.pcgamer.com/baldurs-gate-3-modder-enchants-gales-underwear-with-one-of-the-most-devastating-spells-in-dungeons-and-dragons)
  - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)
- - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)<!-- GAME:END -->
+ - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)
+ - [Canceled Ubisoft Sequel Was Inspired By Wind Waker, Elden Ring](https://kotaku.com/immortals-fenyx-rising-sequel-botw-elden-ring-ubisoft-1850759590)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
