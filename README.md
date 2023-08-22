@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)
- - [China&#39;s metaverse proposals at the UN&#39;s ITU include a digital identity system, akin to the country&#39;s social credit system, that experts say invades user privacy &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/230822/p1#a230822p1)
- - [&#39;Immortals of Aveum&#39; Is a Shooter That Swaps Gunfire for Spell-Casting](https://www.wired.com/story/immortals-of-aveum-review-magic-shooter/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 6 tips and tricks: Get more from your device](https://www.androidauthority.com/samsung-galaxy-watch-6-tips-and-tricks-3356432/)
+ - [This phone will let you easily adjust the CPU clock speed, no root needed](https://www.androidauthority.com/realme-gt5-cpu-clock-speed-3356916/)
+ - [Bill Simmons, Ben Shapiro, Kara Swisher, and other podcast hosts, executives, and agents on how the industry has changed, not reaching &quot;peak podcast&quot;, and more &lpar;Lacey Rose/The Hollywood Reporter&rpar;](http://www.techmeme.com/230822/p3#a230822p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
