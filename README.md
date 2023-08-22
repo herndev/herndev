@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Earn Patriotic Rewards as Fallout 76 Celebrates a New Season](https://news.xbox.com/en-us/2023/08/22/fallout-76-celebrates-a-new-season/)
- - [Konami confuses things further, now says Metal Gear Solid collection will run at 1080p and 60FPS](https://www.pcgamer.com/konami-confuses-things-further-now-says-metal-gear-solid-collection-will-run-at-1080p-and-60fps)
- - [Destiny 2: The Final Shape and Season of the Witch full details revealed](https://blog.playstation.com/2023/08/22/destiny-2-the-final-shape-and-season-of-the-witch-full-details-revealed/)<!-- GAME:END -->
+ - [I Didn’t Play Final Fantasy XVI ‘Right,’ And That’s OK](https://kotaku.com/final-fantasy-16-ffxvi-combat-jrpg-rpg-square-enix-1850753328)
+ - [Experience visceral PS VR2 combat when Bulletstorm VR launches December 14](https://blog.playstation.com/2023/08/22/experience-visceral-ps-vr2-combat-when-bulletstorm-vr-launches-december-14/)
+ - [Destiny 2 is scrapping its current seasonal model in favour of three &#39;episodes&#39; per year](https://www.pcgamer.com/destiny-2-is-scrapping-its-current-seasonal-model-in-favour-of-three-episodes-per-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
