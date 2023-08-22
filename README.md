@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting Through Baldur’s Gate 3’s Shadow-Cursed Land Is Simpler Than It Seems](https://kotaku.com/baldurs-gate-3-shadow-cursed-lands-lantern-light-curse-1850761905)
- - [Here’s what Kim Kardashian’s American Horror Story season is all about](https://www.polygon.com/23841428/ahs-12-trailer-kim-kardashian-emma-roberts-american-horror-story-delicate-plot)
- - [This New Pokémon From Scarlet And Violet’s DLC Has A Messed-Up Backstory](https://kotaku.com/pokemon-scarlet-violet-teal-mask-poltchageist-dlc-new-1850761666)<!-- GAME:END -->
+ - [Earn Patriotic Rewards as Fallout 76 Celebrates a New Season](https://news.xbox.com/en-us/2023/08/22/fallout-76-celebrates-a-new-season/)
+ - [Konami confuses things further, now says Metal Gear Solid collection will run at 1080p and 60FPS](https://www.pcgamer.com/konami-confuses-things-further-now-says-metal-gear-solid-collection-will-run-at-1080p-and-60fps)
+ - [Destiny 2: The Final Shape and Season of the Witch full details revealed](https://blog.playstation.com/2023/08/22/destiny-2-the-final-shape-and-season-of-the-witch-full-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
