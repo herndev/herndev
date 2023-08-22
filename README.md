@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport at gamescom: Introducing Nürburgring GP, Steam Pre-Orders and PC Specs](https://news.xbox.com/en-us/2023/08/22/forza-motorsport-gamescom-pc-preorder/)
- - [Microsoft Selling Activision Blizzard Cloud Gaming Rights To Ubisoft In Last-Ditch Effort To Get Merger Approved](https://kotaku.com/call-duty-microsoft-activision-blizzard-ubisoft-cma-uk-1850761011)
- - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)<!-- GAME:END -->
+ - [Microsoft rejigs $69bn Activision Blizzard deal to placate UK regulators, offers all cloud gaming rights to Ubisoft for 15 years](https://www.pcgamer.com/microsoft-rejigs-dollar69bn-activision-blizzard-deal-to-placate-uk-regulators-offers-all-cloud-gaming-rights-to-ubisoft-for-15-years)
+ - [Some New Metal Gear Solid Collection Games Are Barely HD [Update]](https://kotaku.com/metal-gear-solid-master-collection-switch-ps4-ps5-30fps-1850757390)
+ - [WoW&#39;s UI arms race rages on as Blizzard says they&#39;ll crack down on sparkly new combat overlays](https://www.pcgamer.com/wows-ui-arms-race-rages-on-as-blizzard-says-theyll-crack-down-on-sparkly-new-combat-overlays)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
