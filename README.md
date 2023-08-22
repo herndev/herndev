@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forza Motorsport on PC includes DLSS, FSR 2, and DirectStorage support](https://www.theverge.com/23841330/forza-motorsport-pc-spec-requirements-microsoft)
- - [Nothing sends big camera update to Phone 2 to fix issues from previous update](https://www.androidauthority.com/nothing-phone-2-update-august-2023-3357069/)
- - [Here’s our first look at the new Philips Hue security cameras](https://www.theverge.com/2023/8/22/23841296/philips-hue-smarthome-security-cameras-first-look-images)<!-- TECH:END -->
+ - [Ahsoka brings mystery back to Star Wars](https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus)
+ - [A deep dive on CivitAI, a site for sharing AI models that generate pornographic images mostly trained on material taken without consent from across the internet &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/230822/p18#a230822p18)
+ - [Netflix is going to let DVD.com subscribers keep any unreturned discs](https://www.theverge.com/2023/8/22/23841540/netflix-dvd-com-subscribers-keep-unreturned-discs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
