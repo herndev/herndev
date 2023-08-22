@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/ay2VX1b)
- - ⏩ [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 💣 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
+ - ⏩ [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
  - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
