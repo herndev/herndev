@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch the Future Games Show at Gamescom livestream](https://www.pcgamer.com/how-to-watch-the-future-games-show-at-gamescom-livestream)
  - [Forza Motorsport&#39;s &#39;ideal&#39; system requirements demand an RTX 4080 and an NvME SSD](https://www.pcgamer.com/forza-motorsport-pc-system-requirements)
- - [Modern Warfare 3&#39;s gameplay reveal was dull, but it also teased something legitimately exciting](https://www.pcgamer.com/modern-warfare-3s-gameplay-reveal-was-dull-but-it-also-teased-something-legitimately-exciting)
- - [Gamescom Opening Night Live roundup: every PC game trailer and announcement](https://www.pcgamer.com/gamescom-opening-night-live-announcements-2023)<!-- GAME:END -->
+ - [Modern Warfare 3&#39;s gameplay reveal was dull, but it also teased something legitimately exciting](https://www.pcgamer.com/modern-warfare-3s-gameplay-reveal-was-dull-but-it-also-teased-something-legitimately-exciting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
