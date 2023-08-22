@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: X is internally testing removing headlines and other text from shared news articles so that posts with links display only the article&#39;s image and URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)
- - [Demand has been very strong for Nvidia&#39;s A800 and H800 hobbled chips, designed for the Chinese market to meet US export rules, as they still outperform rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p27#a230821p27)
- - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s AI-powered Search Generative Experience and Bard listed favorable arguments when asked about &quot;benefits&quot; of slavery, genocide, fascism, and colonization &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230821/p30#a230821p30)
+ - [A look at Google executives like CFO Ruth Porat who have either shifted roles or left the company in recent months, as the company searches for its own identity &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230821/p29#a230821p29)
+ - [Source: X is internally testing removing headlines and other text from shared news articles, so that posts with article links display only the image and the URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
