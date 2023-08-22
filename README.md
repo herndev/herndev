@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Venonat be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831767/can-venonat-be-shiny-venomoth)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/21/this-weeks-deals-with-gold-and-spotlight-sale-285/)
- - [Immortals of Aveum fades into the AAA scenery](https://www.polygon.com/reviews/23840401/immortals-of-aveum-review-call-of-duty-magic)
- - [Today&#39;s Wordle hint and answer #794: Tuesday, August 22](https://www.pcgamer.com/wordle-answer-today-hint-794-august-22)<!-- GAME:END -->
+ - [Immortals of Aveum fades into the AAA scenery](https://www.polygon.com/reviews/23840401/immortals-of-aveum-review-call-of-duty-magic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
