@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salesforce is leading a ~$200M funding round in Hugging Face at a $4B+ valuation, more than doubling its share price and private valuation &lpar;The Information&rpar;](http://www.techmeme.com/230822/p27#a230822p27)
- - [How to watch the German Bundesliga in the USA](https://www.androidauthority.com/how-to-watch-bundesliga-in-usa-3357188/)
- - [Linux for Apple Silicon adds first conformant M1 GPU driver](https://appleinsider.com/articles/23/08/22/linux-for-apple-silicon-adds-first-conformant-m1-gpu-driver?utm_medium=rss)<!-- TECH:END -->
+ - [3D printer maker Bambu Lab blames a cloud outage for an issue that caused some of its customers&#39; devices to start printing without their consent &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230822/p30#a230822p30)
+ - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)
+ - [OpenAI opens GPT-3.5 Turbo up for custom tuning](https://www.theverge.com/2023/8/22/23842042/openai-gpt-3-5-turbo-fine-tuning-enterprise-business-custom-chatbot-ai-artificial-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
