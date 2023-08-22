@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)
- - [Apple releases fifth public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/22/apple-releases-fifth-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
- - [Meta says it remains committed to rolling out default E2EE for Messenger, which has opt-in E2EE, by the end of 2023, and shortly afterwards for Instagram DMs &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230822/p24#a230822p24)<!-- TECH:END -->
+ - [Sources: Salesforce is leading a ~$200M funding round in Hugging Face at a $4B+ valuation, more than doubling its share price and private valuation &lpar;The Information&rpar;](http://www.techmeme.com/230822/p27#a230822p27)
+ - [How to watch the German Bundesliga in the USA](https://www.androidauthority.com/how-to-watch-bundesliga-in-usa-3357188/)
+ - [Linux for Apple Silicon adds first conformant M1 GPU driver](https://appleinsider.com/articles/23/08/22/linux-for-apple-silicon-adds-first-conformant-m1-gpu-driver?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
