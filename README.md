@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)
- - [ASUS Zenfone 10 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
- - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Did you notice YouTube’s new corners?](https://www.theverge.com/2023/8/22/23841737/youtube-rounded-corners-desktop)
+ - [Apple issues first beta for macOS 13.6 Ventura](https://appleinsider.com/articles/23/08/22/apple-issues-first-beta-for-macos-136-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
