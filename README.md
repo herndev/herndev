@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open will likely come in only two colors OnePlus cares about anymore](https://www.androidauthority.com/oneplus-open-colors-3357097/)
- - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)
- - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)<!-- TECH:END -->
+ - [Meta refreshes promise to roll out default end-to-end encryption in Messenger this year](https://www.theverge.com/2023/8/22/23841490/meta-facebook-messenger-instagram-encryption-default)
+ - [Microsoft Paint could soon get AI-enhanced features on Windows 11](https://www.theverge.com/2023/8/22/23841824/microsoft-paint-ai-features-windows-11)
+ - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
