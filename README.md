@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 👉 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)<!-- MEMES:END -->
+ - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - ⏩ [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 
