@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The big games, announcements, and trailers from Gamescom Opening Night Live 2023](https://www.polygon.com/2023/8/22/23841795/gamescom-announcements-trailers-onl-2023)
- - [Crimson Desert looks like every RPG crammed into one](https://www.polygon.com/23842006/crimson-desert-gamescom-2023-trailer-combat-exploration-magic)
- - [Diablo 4&#39;s Next Season Looks Pretty Gruesome In New Trailer](https://kotaku.com/diablo-4-gamescom-season-of-blood-october-halloween-1850763740)<!-- GAME:END -->
+ - [Forza Motorsport&#39;s &#39;ideal&#39; system requirements demand an RTX 4080 and an NvME SSD](https://www.pcgamer.com/forza-motorsport-pc-system-requirements)
+ - [Modern Warfare 3&#39;s gameplay reveal was dull, but it also teased something legitimately exciting](https://www.pcgamer.com/modern-warfare-3s-gameplay-reveal-was-dull-but-it-also-teased-something-legitimately-exciting)
+ - [Gamescom Opening Night Live roundup: every PC game trailer and announcement](https://www.pcgamer.com/gamescom-opening-night-live-announcements-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
