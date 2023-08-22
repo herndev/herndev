@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Ultra &lpar;or Pro Max, maybe&rpar; deliveries could see delays due to camera](https://www.androidauthority.com/iphone-15-ultra-delay-3357051/)
- - [Meta releases SeamlessM4T, an AI model that can translate and transcribe nearly 100 languages across text and speech, and SeamlessAlign, a translation data set &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p16#a230822p16)
- - [Microsoft announces a public preview of Python in Excel, which will run calculations in Microsoft&#39;s Cloud, first on Windows and then other platforms &quot;later&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230822/p15#a230822p15)<!-- TECH:END -->
+ - [Forza Motorsport on PC includes DLSS, FSR 2, and DirectStorage support](https://www.theverge.com/23841330/forza-motorsport-pc-spec-requirements-microsoft)
+ - [Nothing sends big camera update to Phone 2 to fix issues from previous update](https://www.androidauthority.com/nothing-phone-2-update-august-2023-3357069/)
+ - [Here’s our first look at the new Philips Hue security cameras](https://www.theverge.com/2023/8/22/23841296/philips-hue-smarthome-security-cameras-first-look-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
