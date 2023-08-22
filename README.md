@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)
- - [How to escape the Djinni Lamp in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-djinni-lamp-escape)
- - [It&#39;s-a not me: Voice actor of Mario retires after 27 years](https://www.pcgamer.com/its-a-not-me-voice-actor-of-mario-retires-after-27-years)<!-- GAME:END -->
+ - [Forza Motorsport at gamescom: Introducing Nürburgring GP, Steam Pre-Orders and PC Specs](https://news.xbox.com/en-us/2023/08/22/forza-motorsport-gamescom-pc-preorder/)
+ - [Microsoft Selling Activision Blizzard Cloud Gaming Rights To Ubisoft In Last-Ditch Effort To Get Merger Approved](https://kotaku.com/call-duty-microsoft-activision-blizzard-ubisoft-cma-uk-1850761011)
+ - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
