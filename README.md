@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old Mac malware lurches back to life, hiding in productivity software](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
- - [OnePlus Open: Release date, price, specs, rumors, and more &lpar;Updated: Aug. 22&rpar;](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Arm spent 3,500+ words in its 330-page IPO prospectus explaining the risks in China, a critical market that accounted for ~24% of its sales in the year to March &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p6#a230822p6)<!-- TECH:END -->
+ - [New Parallels Desktop 19 arrives with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)
+ - [Apple Watch racial bias lawsuit dismissed with prejudice](https://appleinsider.com/articles/23/08/22/apple-watch-racial-bias-lawsuit-dismissed-with-prejudice?utm_medium=rss)
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
