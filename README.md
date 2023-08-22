@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - ⏩ [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 
