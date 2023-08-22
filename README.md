@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #794: Tuesday, August 22](https://www.pcgamer.com/wordle-answer-today-hint-794-august-22)
- - [Baldur&#39;s Gate 3 modder enchants Gale&#39;s underwear with one of the most devastating spells in Dungeons &amp; Dragons](https://www.pcgamer.com/baldurs-gate-3-modder-enchants-gales-underwear-with-one-of-the-most-devastating-spells-in-dungeons-and-dragons)
- - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/21/this-weeks-deals-with-gold-and-spotlight-sale-285/)
+ - [Immortals of Aveum fades into the AAA scenery](https://www.polygon.com/reviews/23840401/immortals-of-aveum-review-call-of-duty-magic)
+ - [Today&#39;s Wordle hint and answer #794: Tuesday, August 22](https://www.pcgamer.com/wordle-answer-today-hint-794-august-22)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
