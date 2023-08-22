@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
- - ⏩ [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 💣 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 👉 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)<!-- MEMES:END -->
 
 ---
 
