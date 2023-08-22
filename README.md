@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - ⏩ [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 
