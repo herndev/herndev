@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Parallels Desktop 19 arrives with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)
- - [Apple Watch racial bias lawsuit dismissed with prejudice](https://appleinsider.com/articles/23/08/22/apple-watch-racial-bias-lawsuit-dismissed-with-prejudice?utm_medium=rss)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Xiaomi matches Samsung’s industry-leading Android updates policy](https://www.androidauthority.com/xiaomi-android-update-promise-3356992/)
+ - [Baidu reports Q2 revenue up 15% YoY to ~$4.7B, beating ~$4.6B est., and net income up 43% YoY to ~$714M, as China boosts its private sector; BIDU rises 4%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230822/p9#a230822p9)
+ - [Ivanti warns of a critical Sentry API authentication bypass flaw that is being exploited in the wild, after another zero-day compromised Norway&#39;s government &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230822/p8#a230822p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
