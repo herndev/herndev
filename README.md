@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta refreshes promise to roll out default end-to-end encryption in Messenger this year](https://www.theverge.com/2023/8/22/23841490/meta-facebook-messenger-instagram-encryption-default)
- - [Microsoft Paint could soon get AI-enhanced features on Windows 11](https://www.theverge.com/2023/8/22/23841824/microsoft-paint-ai-features-windows-11)
- - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)
+ - [Apple releases fifth public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/22/apple-releases-fifth-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
+ - [Meta says it remains committed to rolling out default E2EE for Messenger, which has opt-in E2EE, by the end of 2023, and shortly afterwards for Instagram DMs &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230822/p24#a230822p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
