@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)
- - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
- - [Microsoft’s PC Game Pass arrives on Nvidia’s GeForce Now service this week](https://www.theverge.com/2023/8/22/23841163/microsoft-xbox-pc-game-pass-nvidia-geforce-now)<!-- TECH:END -->
+ - [iPhone 15 Ultra &lpar;or Pro Max, maybe&rpar; deliveries could see delays due to camera](https://www.androidauthority.com/iphone-15-ultra-delay-3357051/)
+ - [Meta releases SeamlessM4T, an AI model that can translate and transcribe nearly 100 languages across text and speech, and SeamlessAlign, a translation data set &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p16#a230822p16)
+ - [Microsoft announces a public preview of Python in Excel, which will run calculations in Microsoft&#39;s Cloud, first on Windows and then other platforms &quot;later&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230822/p15#a230822p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
