@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Frozen sequel is actually a climate change podcast](https://www.polygon.com/podcasts/23841832/frozen-sequel-podcast-anniversary)
- - [Destiny 2&#39;s The Final Shape expansion will add new Arc, Solar and Void supers](https://www.pcgamer.com/destiny-2s-the-final-shape-expansion-will-add-new-arc-solar-and-void-supers)
- - [Every announcement from Destiny 2: The Final Shape’s reveal showcase](https://www.polygon.com/23841367/destiny-2-showcase-2023-final-shape-announcement-trailer-summary)<!-- GAME:END -->
+ - [Age of Empires IV: Anniversary Edition on Console Gets a Surprise Release – and We’ve Played It](https://news.xbox.com/en-us/2023/08/22/age-of-empires-iv-console-edition/)
+ - [Black Desert Devs&#39; Next Game Looks Dope, Features Horse Drift](https://kotaku.com/crimson-desert-pearl-abyss-horse-drift-black-desert-onl-1850763397)
+ - [Making Baldur’s Gate 3 Characters In This Figure Creation Tool Is My New Obsession](https://kotaku.com/baldurs-gate-3-figure-miniature-hero-forge-tabletop-bg3-1850763362)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
