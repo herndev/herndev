@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - ⏩ [We were lied to](http://9gag.com/gag/avQXoOE)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 
