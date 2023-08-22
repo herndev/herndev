@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Didn’t Play Final Fantasy XVI ‘Right,’ And That’s OK](https://kotaku.com/final-fantasy-16-ffxvi-combat-jrpg-rpg-square-enix-1850753328)
- - [Experience visceral PS VR2 combat when Bulletstorm VR launches December 14](https://blog.playstation.com/2023/08/22/experience-visceral-ps-vr2-combat-when-bulletstorm-vr-launches-december-14/)
- - [Destiny 2 is scrapping its current seasonal model in favour of three &#39;episodes&#39; per year](https://www.pcgamer.com/destiny-2-is-scrapping-its-current-seasonal-model-in-favour-of-three-episodes-per-year)<!-- GAME:END -->
+ - [The next Frozen sequel is actually a climate change podcast](https://www.polygon.com/podcasts/23841832/frozen-sequel-podcast-anniversary)
+ - [Destiny 2&#39;s The Final Shape expansion will add new Arc, Solar and Void supers](https://www.pcgamer.com/destiny-2s-the-final-shape-expansion-will-add-new-arc-solar-and-void-supers)
+ - [Every announcement from Destiny 2: The Final Shape’s reveal showcase](https://www.polygon.com/23841367/destiny-2-showcase-2023-final-shape-announcement-trailer-summary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
