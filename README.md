@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quest for Balance is the Lego Star Wars of Avatar: The Last Airbender](https://www.polygon.com/23840515/avatar-last-airbender-quest-for-balance-gameplay)
- - [Immortals Of Aveum Runs Poorly On Even The Best PC](https://kotaku.com/immortals-of-aveum-performance-reviews-pc-fps-ps5-1850761516)
- - [Half-Life 2 is getting an RTX &#39;remix&#39; and it looks incredible](https://www.pcgamer.com/half-life-2-is-getting-an-rtx-remix-and-it-looks-incredible)<!-- GAME:END -->
+ - [Getting Through Baldur’s Gate 3’s Shadow-Cursed Land Is Simpler Than It Seems](https://kotaku.com/baldurs-gate-3-shadow-cursed-lands-lantern-light-curse-1850761905)
+ - [Here’s what Kim Kardashian’s American Horror Story season is all about](https://www.polygon.com/23841428/ahs-12-trailer-kim-kardashian-emma-roberts-american-horror-story-delicate-plot)
+ - [This New Pokémon From Scarlet And Violet’s DLC Has A Messed-Up Backstory](https://kotaku.com/pokemon-scarlet-violet-teal-mask-poltchageist-dlc-new-1850761666)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
