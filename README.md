@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi matches Samsung’s industry-leading Android updates policy](https://www.androidauthority.com/xiaomi-android-update-promise-3356992/)
- - [Baidu reports Q2 revenue up 15% YoY to ~$4.7B, beating ~$4.6B est., and net income up 43% YoY to ~$714M, as China boosts its private sector; BIDU rises 4%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230822/p9#a230822p9)
- - [Ivanti warns of a critical Sentry API authentication bypass flaw that is being exploited in the wild, after another zero-day compromised Norway&#39;s government &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230822/p8#a230822p8)<!-- TECH:END -->
+ - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)
+ - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
+ - [Microsoft’s PC Game Pass arrives on Nvidia’s GeForce Now service this week](https://www.theverge.com/2023/8/22/23841163/microsoft-xbox-pc-game-pass-nvidia-geforce-now)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
