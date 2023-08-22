@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires IV: Anniversary Edition on Console Gets a Surprise Release – and We’ve Played It](https://news.xbox.com/en-us/2023/08/22/age-of-empires-iv-console-edition/)
- - [Black Desert Devs&#39; Next Game Looks Dope, Features Horse Drift](https://kotaku.com/crimson-desert-pearl-abyss-horse-drift-black-desert-onl-1850763397)
- - [Making Baldur’s Gate 3 Characters In This Figure Creation Tool Is My New Obsession](https://kotaku.com/baldurs-gate-3-figure-miniature-hero-forge-tabletop-bg3-1850763362)<!-- GAME:END -->
+ - [The big games, announcements, and trailers from Gamescom Opening Night Live 2023](https://www.polygon.com/2023/8/22/23841795/gamescom-announcements-trailers-onl-2023)
+ - [Crimson Desert looks like every RPG crammed into one](https://www.polygon.com/23842006/crimson-desert-gamescom-2023-trailer-combat-exploration-magic)
+ - [Diablo 4&#39;s Next Season Looks Pretty Gruesome In New Trailer](https://kotaku.com/diablo-4-gamescom-season-of-blood-october-halloween-1850763740)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
