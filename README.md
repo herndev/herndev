@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahsoka brings mystery back to Star Wars](https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus)
- - [A deep dive on CivitAI, a site for sharing AI models that generate pornographic images mostly trained on material taken without consent from across the internet &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/230822/p18#a230822p18)
- - [Netflix is going to let DVD.com subscribers keep any unreturned discs](https://www.theverge.com/2023/8/22/23841540/netflix-dvd-com-subscribers-keep-unreturned-discs)<!-- TECH:END -->
+ - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)
+ - [ASUS Zenfone 10 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
+ - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
