@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shirtless halfling legend blows up Baldur&#39;s Gate 3&#39;s entire goblin camp with hundreds of explosive barrels to classical music](https://www.pcgamer.com/shirtless-halfling-legend-blows-up-baldurs-gate-3s-entire-goblin-camp-with-hundreds-of-explosive-barrels-to-classical-music)
- - [How to watch Gamescom Opening Night Live 2023](https://www.pcgamer.com/gamescom-opening-night-live-2023-how-to-watch)
- - [Can Venonat be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831767/can-venonat-be-shiny-venomoth)<!-- GAME:END -->
+ - [D&amp;D&#39;s clunky exhaustion rules are in Baldur&#39;s Gate 3, but they only apply to one unlucky &lpar;and very tired&rpar; bird](https://www.pcgamer.com/dandds-clunky-exhaustion-rules-are-in-baldurs-gate-3-but-they-only-apply-to-one-unlucky-and-very-tired-bird)
+ - [How to escape the Djinni Lamp in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-djinni-lamp-escape)
+ - [It&#39;s-a not me: Voice actor of Mario retires after 27 years](https://www.pcgamer.com/its-a-not-me-voice-actor-of-mario-retires-after-27-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
