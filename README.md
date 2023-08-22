@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Did you notice YouTube’s new corners?](https://www.theverge.com/2023/8/22/23841737/youtube-rounded-corners-desktop)
- - [Apple issues first beta for macOS 13.6 Ventura](https://appleinsider.com/articles/23/08/22/apple-issues-first-beta-for-macos-136-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus Open will likely come in only two colors OnePlus cares about anymore](https://www.androidauthority.com/oneplus-open-colors-3357097/)
+ - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)
+ - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
