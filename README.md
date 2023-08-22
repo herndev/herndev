@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
- - ⏩ [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 💣 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
+ - ⏩ [We were lied to](http://9gag.com/gag/avQXoOE)
  - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
