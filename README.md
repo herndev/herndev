@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft rejigs $69bn Activision Blizzard deal to placate UK regulators, offers all cloud gaming rights to Ubisoft for 15 years](https://www.pcgamer.com/microsoft-rejigs-dollar69bn-activision-blizzard-deal-to-placate-uk-regulators-offers-all-cloud-gaming-rights-to-ubisoft-for-15-years)
- - [Some New Metal Gear Solid Collection Games Are Barely HD [Update]](https://kotaku.com/metal-gear-solid-master-collection-switch-ps4-ps5-30fps-1850757390)
- - [WoW&#39;s UI arms race rages on as Blizzard says they&#39;ll crack down on sparkly new combat overlays](https://www.pcgamer.com/wows-ui-arms-race-rages-on-as-blizzard-says-theyll-crack-down-on-sparkly-new-combat-overlays)<!-- GAME:END -->
+ - [Quest for Balance is the Lego Star Wars of Avatar: The Last Airbender](https://www.polygon.com/23840515/avatar-last-airbender-quest-for-balance-gameplay)
+ - [Immortals Of Aveum Runs Poorly On Even The Best PC](https://kotaku.com/immortals-of-aveum-performance-reviews-pc-fps-ps5-1850761516)
+ - [Half-Life 2 is getting an RTX &#39;remix&#39; and it looks incredible](https://www.pcgamer.com/half-life-2-is-getting-an-rtx-remix-and-it-looks-incredible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
