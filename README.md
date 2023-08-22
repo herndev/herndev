@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 12 could come with more RAM than most of us need on a phone](https://www.androidauthority.com/oneplus-12-24gb-ram-leak-3356959/)
- - [Apple Watch X: Rumors, specs, release date, price, and more](https://www.androidauthority.com/apple-watch-x-rumors-specs-release-date-price-3356876/)
- - [AlphaSense: ~40% of companies in the S&amp;P 500 mentioned AI or related terms in their latest earnings calls, but only 16% mentioned AI in their regulatory filings &lpar;Financial Times&rpar;](http://www.techmeme.com/230822/p5#a230822p5)<!-- TECH:END -->
+ - [Old Mac malware lurches back to life, hiding in productivity software](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
+ - [OnePlus Open: Release date, price, specs, rumors, and more &lpar;Updated: Aug. 22&rpar;](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
+ - [Arm spent 3,500+ words in its 330-page IPO prospectus explaining the risks in China, a critical market that accounted for ~24% of its sales in the year to March &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p6#a230822p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
