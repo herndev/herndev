@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - ⏩ [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
+ - ⏩ [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 
