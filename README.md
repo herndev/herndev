@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - ⏩ [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 💣 [Well, don&#39;t buy a new one!](http://9gag.com/gag/aQENdZz)
+ - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [A true classic](http://9gag.com/gag/aNw2p33)<!-- MEMES:END -->
 
 ---
 
