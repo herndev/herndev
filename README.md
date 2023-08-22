@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [We were lied to](http://9gag.com/gag/avQXoOE)
- - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 👉 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)<!-- MEMES:END -->
+ - ⏩ [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 
