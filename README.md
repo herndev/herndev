@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #794: Tuesday, August 22](https://www.pcgamer.com/wordle-answer-today-hint-794-august-22)
  - [Baldur&#39;s Gate 3 modder enchants Gale&#39;s underwear with one of the most devastating spells in Dungeons &amp; Dragons](https://www.pcgamer.com/baldurs-gate-3-modder-enchants-gales-underwear-with-one-of-the-most-devastating-spells-in-dungeons-and-dragons)
- - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)
  - [Interview with the creators of Armored Core VI Fires of Rubicon](https://blog.playstation.com/2023/08/21/interview-with-the-creators-of-armored-core-vi-fires-of-rubicon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
