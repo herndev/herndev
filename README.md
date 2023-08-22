@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your thoughts?](http://9gag.com/gag/aqepgyY)
- - ⏩ [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - ⏩ [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 👉 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)<!-- MEMES:END -->
 
 ---
 
