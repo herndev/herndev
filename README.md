@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
- - ⏩ [Ah yes the Swiss man](http://9gag.com/gag/a1PqW08)
- - 👉 [Classic prank](http://9gag.com/gag/aYVnyWV)<!-- MEMES:END -->
+ - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - ⏩ [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 
