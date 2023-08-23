@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Future Games Show at Gamescom livestream](https://www.pcgamer.com/how-to-watch-the-future-games-show-at-gamescom-livestream)
- - [Forza Motorsport&#39;s &#39;ideal&#39; system requirements demand an RTX 4080 and an NvME SSD](https://www.pcgamer.com/forza-motorsport-pc-system-requirements)
- - [Modern Warfare 3&#39;s gameplay reveal was dull, but it also teased something legitimately exciting](https://www.pcgamer.com/modern-warfare-3s-gameplay-reveal-was-dull-but-it-also-teased-something-legitimately-exciting)<!-- GAME:END -->
+ - [Cyberpunk 2077 &#39;Update 2.0&#39; looks so big that you should probably just start a new game](https://www.pcgamer.com/cyberpunk-2077-update-20-looks-so-big-that-you-should-probably-just-start-a-new-game)
+ - [Medieval skydiving is not even the weirdest thing Crimson Desert crammed into this exhaustive new trailer](https://www.pcgamer.com/medieval-skydiving-is-not-even-the-weirdest-thing-crimson-desert-crammed-into-this-exhaustive-new-trailer)
+ - [How to watch the Future Games Show at Gamescom livestream](https://www.pcgamer.com/how-to-watch-the-future-games-show-at-gamescom-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
