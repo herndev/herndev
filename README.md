@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: SpaceX is working with Cloudflare to increase Starlink&#39;s terrestrial network of mini data centers, which could help the service deliver faster speeds &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230823/p27#a230823p27)
- - [A Right-to-Repair Car Law Makes a Surprising U-Turn in Massachusetts](https://www.wired.com/story/nhtsa-massachusetts-right-to-repair-letter/)
- - [Brilliant launches plug-in Smart Home Control with Siri support](https://appleinsider.com/articles/23/08/23/brilliant-launches-plug-in-smart-home-control-with-siri-support?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says it supports California&#39;s Right to Repair Act, which passed a Senate vote in May and is awaiting approval before going to a full assembly vote &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230823/p29#a230823p29)
+ - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Two years after Safari, Chrome plans to let you move the address bar to the bottom](https://www.theverge.com/2023/8/23/23843255/google-chrome-address-bar-bottom-safari)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
