@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI: The Kotaku Review](https://kotaku.com/armored-core-6-review-elden-ring-souls-rpg-fromsoftware-1850765780)
- - [You Should Let The Baldur’s Gate 3 Bard Poke Your Eye Out, Actually](https://kotaku.com/baldurs-gate-3-volo-bard-eye-see-invisible-enemies-1850765862)
- - [Cult of the Lamb gets a cool crossover with one of our favourite survival games](https://www.pcgamer.com/cult-of-the-lamb-turns-into-a-survival-game-as-part-of-a-crossover-with-dont-starve-together)<!-- GAME:END -->
+ - [Classic adventure series Broken Sword to return with sixth game and remaster](https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date)
+ - [Place your order for Samsung&#39;s absurdly awesome dual-4K $2,000 mega-monitor](https://www.pcgamer.com/place-your-order-for-samsungs-absurdly-awesome-dual-4k-dollar2000-mega-monitor)
+ - [Space Marine 2’s combat is a rip-roaring gore fest](https://www.polygon.com/23840359/space-marine-2-gamescom-demo-combat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
