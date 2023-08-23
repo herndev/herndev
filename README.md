@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)
- - ⏩ [Do you?](http://9gag.com/gag/aWGNjpq)
- - 👉 [L is beautiful](http://9gag.com/gag/aYVnr4q)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
+ - ⏩ [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 👉 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)<!-- MEMES:END -->
 
 ---
 
