@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - ⏩ [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 💣 [At the END he says : we gonna kill ourself](http://9gag.com/gag/aDYNdBZ)
+ - ⏩ [Help me](http://9gag.com/gag/a8qXG2p)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 
