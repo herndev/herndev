@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL Sunday Ticket has arrived on the Google TV homescreen](https://www.theverge.com/2023/8/23/23842853/nfl-sunday-ticket-google-tv-homescreen-free-channels)
- - [T-Mobile’s new Go5G Next plan hides a nasty surprise](https://www.androidauthority.com/t-mobile-go5g-next-extra-charge-3357506/)
- - [NCC Group saw a record 502 ransomware attacks in July, up from 198 in July 2022; the Cl0p ransomware-as-a-service gang was tied to 171 of the July 2023 attacks &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/230823/p20#a230823p20)<!-- TECH:END -->
+ - [Save $200 on a like-new unlocked iPhone 14 Pro Max](https://www.androidauthority.com/iphone-14-pro-max-deal-3357512/)
+ - [PlayStation Gets Dedicated Wireless Earbuds Starting at $200     - CNET](https://www.cnet.com/tech/gaming/playstation-gets-dedicated-wireless-earbuds-starting-at-200/#ftag=CAD590a51e)
+ - [Glowforge Is Taking On the Crafting World With Its New Aura Laser Cutter     - CNET](https://www.cnet.com/tech/computing/glowforge-is-taking-on-the-crafting-world-with-its-new-aura-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
