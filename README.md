@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - ⏩ [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
- - 👉 [Be proud of who you are](http://9gag.com/gag/aWGNjjd)<!-- MEMES:END -->
+ - 💣 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)<!-- MEMES:END -->
 
 ---
 
