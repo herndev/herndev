@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds seize $400,000 worth of counterfeit Apple devices](https://appleinsider.com/articles/23/08/23/feds-seize-400000-worth-of-counterfeit-apple-devices?utm_medium=rss)
- - [Looking for a song on YouTube? Google will let you hum for it.](https://www.androidauthority.com/google-hum-a-song-search-youtube-3357372/)
- - [Investigation: despite scaling back in Russia in 2022, Binance continues to handle substantial ruble trading, helping clients evade sanctions via intermediaries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230823/p10#a230823p10)<!-- TECH:END -->
+ - [The false promises of Tesla’s Full Self-Driving](https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants)
+ - [Corsair’s first standing desk is designed for gaming, streaming, and more](https://www.theverge.com/2023/8/23/23842681/corsair-platform-6-gaming-desk-height-adjust-cable-management-release-date-monitor-arm)
+ - [Repair experts weigh in on AirPods Max condensation complaints](https://appleinsider.com/articles/23/08/23/repair-experts-weigh-in-on-airpods-max-condensation-complaints?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
