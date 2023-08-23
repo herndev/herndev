@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Online medieval slasher Warhaven is almost upon us](https://www.pcgamer.com/online-medieval-slasher-warhaven-is-almost-upon-us)
  - [Hands-On: Like A Dragon Gaiden Brings Super Spy Silliness To The Yakuza Formula](https://kotaku.com/like-a-dragon-gaiden-preview-agent-style-yakuza-rgg-1850759282)
- - [Hands-On: Persona 5’s Tactics Spin-off Changes Everything, And It Rules](https://kotaku.com/persona-5-tactica-preview-tactics-rpg-release-date-1850751763)
- - [I’m worried about the Persona 3 remake](https://www.polygon.com/23841928/persona-3-reload-remake-hands-on)<!-- GAME:END -->
+ - [Hands-On: Persona 5’s Tactics Spin-off Changes Everything, And It Rules](https://kotaku.com/persona-5-tactica-preview-tactics-rpg-release-date-1850751763)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
