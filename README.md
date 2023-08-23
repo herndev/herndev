@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fort Solis: The Kotaku Review](https://kotaku.com/fort-solis-review-release-ps5-steam-xbox-pc-gameplay-1850767619?utm_source=regular)
- - [Stop Trying To Reach The Shar Temple From The Grymforge In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-shar-temple-shadowheart-grymforge-guide-1850767607?utm_source=regular)
- - [When Will Final Fantasy VII Remake And XVI Come To Xbox? Phil Spencer Can’t Say Yet](https://kotaku.com/final-fantasy-7-remake-16-xbox-series-x-s-pc-exclusive-1850767452?utm_source=regular)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s voice cast is jumping in on all those game memes](https://www.polygon.com/23843345/baldurs-gate-3-memes-social-media-cast-cameo-tiktok-twitter)
+ - [All the Rebel Moon news we’ve heard so far](https://www.polygon.com/23841899/rebel-moon-netflix-release-date-cast-news-sequel-part-2)
+ - [Troubled Warhammer 40K: Darktide Is Getting A Major RPG Overhaul [Update: And Coming To Xbox In October]](https://kotaku.com/warhammer-40k-darktide-scifi-fantasy-rpg-game-pass-1850751391?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
