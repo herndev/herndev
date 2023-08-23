@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ace of the Belfry: How Stoic is Developing Towerborne to be an Epic Action-RPG with a Focus on Fun](https://news.xbox.com/en-us/2023/08/23/towerborne-an-epic-action-rpg-with-a-focus-on-fun/)
  - [Starfield at gamescom: Todd Howard and Phil Spencer Introduce Never-Before-Seen Gameplay](https://news.xbox.com/en-us/2023/08/23/starfield-gamescom-todd-howard-phil-spencer-introduce-new-gameplay/)
- - [Destiny 2: How to complete the Unveiled quest](https://www.pcgamer.com/destiny-2-unveiled-osiris-data-crawler)
- - [Stunning 240Hz 32-inch 4K OLED monitor is star of Asus&#39;s Gamescom product splurge](https://www.pcgamer.com/stunning-240hz-32-inch-4k-oled-monitor-is-star-of-asuss-gamescom-product-splurge)<!-- GAME:END -->
+ - [Destiny 2: How to complete the Unveiled quest](https://www.pcgamer.com/destiny-2-unveiled-osiris-data-crawler)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
