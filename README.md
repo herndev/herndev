@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #795: Wednesday, August 23](https://www.pcgamer.com/wordle-answer-today-hint-795-august-23)
  - [Ahsoka’s Jedi apprentice isn’t like any we’ve seen before](https://www.polygon.com/star-wars/23841682/ahsoka-sabine-apprentice-force-sensitive-jedi)
- - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)
- - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)<!-- GAME:END -->
+ - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
