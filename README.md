@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)
  - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)
- - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)
- - [Hands-on report – Granblue Fantasy: Relink hits PS5 &amp; PS4 Feb 1](https://blog.playstation.com/2023/08/22/hands-on-report-granblue-fantasy-relink-hits-ps5-ps4-feb-1/)<!-- GAME:END -->
+ - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
