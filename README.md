@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The false promises of Tesla’s Full Self-Driving](https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants)
- - [Corsair’s first standing desk is designed for gaming, streaming, and more](https://www.theverge.com/2023/8/23/23842681/corsair-platform-6-gaming-desk-height-adjust-cable-management-release-date-monitor-arm)
- - [Repair experts weigh in on AirPods Max condensation complaints](https://appleinsider.com/articles/23/08/23/repair-experts-weigh-in-on-airpods-max-condensation-complaints?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
+ - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
+ - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
