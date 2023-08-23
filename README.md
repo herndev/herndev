@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Baldur’s Gate 3 Mods To Help You On Your Quest](https://kotaku.com/baldurs-gate-3-nexus-mods-wasd-transmog-bags-inventory-1850766753)
- - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
- - [Atari’s New Replica 2600 Console Can Play Classic Cartridges](https://kotaku.com/atari-2600-plus-console-7800-release-date-price-best-1850766677)<!-- GAME:END -->
+ - [Fort Solis: The Kotaku Review](https://kotaku.com/fort-solis-review-release-ps5-steam-xbox-pc-gameplay-1850767619?utm_source=regular)
+ - [Stop Trying To Reach The Shar Temple From The Grymforge In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-shar-temple-shadowheart-grymforge-guide-1850767607?utm_source=regular)
+ - [When Will Final Fantasy VII Remake And XVI Come To Xbox? Phil Spencer Can’t Say Yet](https://kotaku.com/final-fantasy-7-remake-16-xbox-series-x-s-pc-exclusive-1850767452?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
