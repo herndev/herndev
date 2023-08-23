@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it supports California&#39;s Right to Repair Act, which passed a Senate vote in May and is awaiting approval before going to a full assembly vote &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230823/p29#a230823p29)
- - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Two years after Safari, Chrome plans to let you move the address bar to the bottom](https://www.theverge.com/2023/8/23/23843255/google-chrome-address-bar-bottom-safari)<!-- TECH:END -->
+ - [Old Glasses Can Hurt Your Eyes. Here&#39;s When to Buy a New Pair     - CNET](https://www.cnet.com/health/personal-care/old-glasses-can-hurt-your-eyes-heres-when-to-buy-a-new-pair/#ftag=CAD590a51e)
+ - [Google announces new security features for Workspace, including zero-trust, data loss prevention, and digital sovereignty controls, rolling out in 2023 and 2024 &lpar;David Gewirtz/ZDNet&rpar;](http://www.techmeme.com/230823/p31#a230823p31)
+ - [Refurbished Apple M2 MacBook Air dips to $749](https://appleinsider.com/articles/23/08/23/refurbished-apple-m2-macbook-air-dips-to-749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
