@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 💣 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - ⏩ [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 👉 [Be proud of who you are](http://9gag.com/gag/aWGNjjd)<!-- MEMES:END -->
 
 ---
 
