@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s voice cast is jumping in on all those game memes](https://www.polygon.com/23843345/baldurs-gate-3-memes-social-media-cast-cameo-tiktok-twitter)
- - [All the Rebel Moon news we’ve heard so far](https://www.polygon.com/23841899/rebel-moon-netflix-release-date-cast-news-sequel-part-2)
- - [Troubled Warhammer 40K: Darktide Is Getting A Major RPG Overhaul [Update: And Coming To Xbox In October]](https://kotaku.com/warhammer-40k-darktide-scifi-fantasy-rpg-game-pass-1850751391?utm_source=regular)<!-- GAME:END -->
+ - [Souls players and mecha newbies: Here&#39;s what you need to know about Armored Core](https://www.pcgamer.com/armored-core-on-pc-dark-souls-comparison-overview)
+ - [BioWare lays off roughly 50 employees: &#39;We must shift towards a more agile and more focused studio&#39;](https://www.pcgamer.com/bioware-lays-off-roughly-50-employees-we-must-shift-towards-a-more-agile-and-more-focused-studio)
+ - [The best ‘class’ in Baldur’s Gate 3 is ‘barrelmancer’](https://www.polygon.com/23841958/baldurs-gate-3-best-fake-class-barrelmancer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
