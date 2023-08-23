@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ahsoka’s Jedi apprentice isn’t like any we’ve seen before](https://www.polygon.com/star-wars/23841682/ahsoka-sabine-apprentice-force-sensitive-jedi)
  - [Ahsoka’s place in the Star Wars timeline is immediately confusing](https://www.polygon.com/star-wars/23841485/when-does-ahsoka-take-place-star-wars-rebels)
- - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)
- - [Ahsoka is promising the return of one of Star Wars’ best villains](https://www.polygon.com/star-wars/2020/11/27/21722488/the-mandalorian-admiral-thrawn-explained-star-wars-ezra-bridger)<!-- GAME:END -->
+ - [Who are Star Wars’ Witches of Dathomir?](https://www.polygon.com/star-wars/23840577/star-wars-ahsoka-witches-of-dathomir-clone-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
