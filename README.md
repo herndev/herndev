@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - ⏩ [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
+ - 💣 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - ⏩ [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 👉 [Use cash.](http://9gag.com/gag/axonMGL)<!-- MEMES:END -->
 
 ---
 
