@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 could automatically add a URL to your shared screenshot](https://www.androidauthority.com/android-14-automatically-add-url-screenshot-3357276/)
- - [Experts warn that Meta, and possibly Google, blocking trusted news outlets in Canada will worsen misinformation as the world nears a &quot;precipice&quot; of AI content &lpar;Kevin Jiang/Toronto Star&rpar;](http://www.techmeme.com/230823/p2#a230823p2)
- - [Binance.US teams up with MoonPay to let users use their debit or credit cards, Apple Pay or Google Pay to buy Tether, which can then be used to buy other tokens &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230823/p1#a230823p1)<!-- TECH:END -->
+ - [Hyperkin’s new Xbox controller has drift-free sticks in a PlayStation-style layout](https://www.theverge.com/2023/8/23/23841614/hyperkin-competition-xbox-controller-hall-effect-drift-free-sticks-playstation-announcement-specs)
+ - [The wait is almost over: Here’s when Nothing Phone 1 will get Nothing OS 2.0](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-launch-date-3357286/)
+ - [LinkedIn is benefiting from recent social media upheavals with a jump in sharing, leveraging its position as a place where old-school self-promotion still works &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230823/p5#a230823p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
