@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based ticketing company Dice raised $65M from MUSIC and others to expand in Europe and the US; the app will serve 55K+ artists and 10K+ venues in 2023 &lpar;Glenn Peoples/Billboard&rpar;](http://www.techmeme.com/230823/p7#a230823p7)
- - [Poll: Do you mute your group chats in messaging apps?](https://www.androidauthority.com/mute-group-chats-messaging-apps-poll-3357356/)
- - [AirPods Max can malfunction or suddenly stop working because of users&#39; sweat or condensation inside of earcups, an issue Apple has not publicly acknowledged &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230823/p6#a230823p6)<!-- TECH:END -->
+ - [Samsung’s 57-inch ‘Dual UHD’ gaming monitor gets a price and release date](https://www.theverge.com/2023/8/23/23842638/samsung-57-inch-odyssey-neo-g9-dual-uhd-4k-monitor-price-release-date-specs-features)
+ - [Sources: Nvidia plans to at least triple the production of the H100 in 2024, predicting shipments of between 1.5M to 2M units, up from 500K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230823/p9#a230823p9)
+ - [Tired of setting up hotspots for your other devices? Android will soon fix that](https://www.androidauthority.com/android-automatic-hotspot-leak-3357368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
