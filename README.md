@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Fallout TV show is set in Los Angeles, which is suspiciously close to New Vegas](https://www.polygon.com/23843006/fallout-tv-show-los-angeles-new-vegas)
- - [Dungeons of Hinterberg, A Social-Sim/Adventure That Feels Like a Vacation](https://news.xbox.com/en-us/2023/08/23/dungeons-of-hinterberg-demo/)
- - [How to complete the Stop the Presses quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-stop-the-presses)<!-- GAME:END -->
+ - [14 Baldur’s Gate 3 Mods To Help You On Your Quest](https://kotaku.com/baldurs-gate-3-nexus-mods-wasd-transmog-bags-inventory-1850766753)
+ - [Dragon Age And Mass Effect Studio Lays Off 50 Devs, Claims Games Are Unaffected](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850766754)
+ - [Atari’s New Replica 2600 Console Can Play Classic Cartridges](https://kotaku.com/atari-2600-plus-console-7800-release-date-price-best-1850766677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
