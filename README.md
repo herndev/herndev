@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At the END he says : we gonna kill ourself](http://9gag.com/gag/aDYNdBZ)
- - ⏩ [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 💣 [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)
+ - ⏩ [Do you?](http://9gag.com/gag/aWGNjpq)
+ - 👉 [L is beautiful](http://9gag.com/gag/aYVnr4q)<!-- MEMES:END -->
 
 ---
 
