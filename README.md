@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Grip Security, which helps companies reduce their SaaS identity risk, raised a $41M Series B led by Third Point, taking its total funding to $66M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230822/p36#a230822p36)
  - [A US judge orders ex-OpenSea product head Nate Chastain to three months in prison for making ~$50K through insider trades, in the first NFT insider trading case &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/230822/p35#a230822p35)
- - [Mendaera, which is developing a collaborative robotic system for healthcare providers that uses real-time imaging and AI, raised a $24M Series A led by Lux &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230822/p34#a230822p34)
- - [SIA: Huawei is building secret chip fabrication facilities across China that would let the company skirt US sanctions and is receiving ~$30B in state funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p33#a230822p33)<!-- TECH:END -->
+ - [Mendaera, which is developing a collaborative robotic system for healthcare providers that uses real-time imaging and AI, raised a $24M Series A led by Lux &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230822/p34#a230822p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
