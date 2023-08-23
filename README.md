@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on a like-new unlocked iPhone 14 Pro Max](https://www.androidauthority.com/iphone-14-pro-max-deal-3357512/)
- - [PlayStation Gets Dedicated Wireless Earbuds Starting at $200     - CNET](https://www.cnet.com/tech/gaming/playstation-gets-dedicated-wireless-earbuds-starting-at-200/#ftag=CAD590a51e)
- - [Glowforge Is Taking On the Crafting World With Its New Aura Laser Cutter     - CNET](https://www.cnet.com/tech/computing/glowforge-is-taking-on-the-crafting-world-with-its-new-aura-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)
+ - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
+ - [Epic’s new program lets developers keep their revenue in exchange for exclusivity](https://www.theverge.com/2023/8/23/23843018/epic-games-store-first-run-developers-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
