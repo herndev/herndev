@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20’s Mentopolis is a dark, dystopian take on Inside Out](https://www.polygon.com/23841444/dimension-20-mentopolis-interview-brennan-lee-mulligan)
- - [Polygon’s 2023 Fall Preview](https://www.polygon.com/23842067/fall-2023-new-movie-video-game-releases-tv-premieres)
- - [Sony’s PS5 Remote Play Gaming Handheld Is Just $200](https://kotaku.com/playstation-portal-project-q-ps5-remote-play-1850765642)<!-- GAME:END -->
+ - [Armored Core VI: The Kotaku Review](https://kotaku.com/armored-core-6-review-elden-ring-souls-rpg-fromsoftware-1850765780)
+ - [You Should Let The Baldur’s Gate 3 Bard Poke Your Eye Out, Actually](https://kotaku.com/baldurs-gate-3-volo-bard-eye-see-invisible-enemies-1850765862)
+ - [Cult of the Lamb gets a cool crossover with one of our favourite survival games](https://www.pcgamer.com/cult-of-the-lamb-turns-into-a-survival-game-as-part-of-a-crossover-with-dont-starve-together)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
