@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - ⏩ [Help me](http://9gag.com/gag/a8qXG2p)
+ - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
  - 👉 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)<!-- MEMES:END -->
 
 ---
