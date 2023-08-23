@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic adventure series Broken Sword to return with sixth game and remaster](https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date)
- - [Place your order for Samsung&#39;s absurdly awesome dual-4K $2,000 mega-monitor](https://www.pcgamer.com/place-your-order-for-samsungs-absurdly-awesome-dual-4k-dollar2000-mega-monitor)
- - [Space Marine 2’s combat is a rip-roaring gore fest](https://www.polygon.com/23840359/space-marine-2-gamescom-demo-combat)<!-- GAME:END -->
+ - [Amazon’s Fallout TV show is set in Los Angeles, which is suspiciously close to New Vegas](https://www.polygon.com/23843006/fallout-tv-show-los-angeles-new-vegas)
+ - [Dungeons of Hinterberg, A Social-Sim/Adventure That Feels Like a Vacation](https://news.xbox.com/en-us/2023/08/23/dungeons-of-hinterberg-demo/)
+ - [How to complete the Stop the Presses quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-stop-the-presses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
