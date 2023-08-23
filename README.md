@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A visit to the one-man computer factory](https://www.theverge.com/23841276/mythic-computer-keegan-mcnamara-pc-builder)
- - [This batarang houses Qualcomm’s next big bet on gaming](https://www.theverge.com/2023/8/23/23840895/qualcomm-g3x-snapdragon-gen-2-g2-g1-gaming-handheld-chips)
- - [Dark Brandon haunts the Fox News website on GOP debate day](https://www.theverge.com/2023/8/23/23842792/dark-brandon-joe-biden-fox-news-gop-debate-meme)<!-- TECH:END -->
+ - [The Remote Play handheld from Sony is PlayStation Portal — Here’s all the info!](https://www.androidauthority.com/sony-playstation-portal-3357470/)
+ - [Antenna: Netflix had ~2.6M signups in the US in July, more than any other paid streaming service but down 26% from June 2023; 23% were for Netflix&#39;s ad tier &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230823/p19#a230823p19)
+ - [WhatsApp will let you set up group chats without having to come up with a name](https://www.theverge.com/2023/8/23/23842834/whatsapp-group-chat-name-unnamed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
