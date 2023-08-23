@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
  - ⏩ [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 👉 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)<!-- MEMES:END -->
+ - 👉 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)<!-- MEMES:END -->
 
 ---
 
