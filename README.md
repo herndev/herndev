@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ace of the Belfry: How Stoic is Developing Towerborne to be an Epic Action-RPG with a Focus on Fun](https://news.xbox.com/en-us/2023/08/23/towerborne-an-epic-action-rpg-with-a-focus-on-fun/)
- - [Starfield at gamescom: Todd Howard and Phil Spencer Introduce Never-Before-Seen Gameplay](https://news.xbox.com/en-us/2023/08/23/starfield-gamescom-todd-howard-phil-spencer-introduce-new-gameplay/)
- - [Destiny 2: How to complete the Unveiled quest](https://www.pcgamer.com/destiny-2-unveiled-osiris-data-crawler)<!-- GAME:END -->
+ - [Monitor start-up Dough promises full and fast refunds](https://www.pcgamer.com/monitor-start-up-dough-promises-full-and-fast-refunds)
+ - [Typical Valve: Left 4 Dead 2 gets a &#39;minor update&#39; with notes as long as your arm, and names an alligator](https://www.pcgamer.com/typical-valve-left-4-dead-2-gets-a-minor-update-with-notes-as-long-as-your-arm-and-names-an-alligator)
+ - [Lone wolf destroys Baldur&#39;s Gate 3&#39;s toughest boss in two turns with nothing but a bow, a bag of busted magic items, and D&amp;D&#39;s least flashy class](https://www.pcgamer.com/lone-wolf-destroys-baldurs-gate-3s-toughest-boss-in-two-turns-with-nothing-but-a-bow-a-bag-of-busted-magic-items-and-dandds-least-flashy-class)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
