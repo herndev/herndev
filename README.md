@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Souls players and mecha newbies: Here&#39;s what you need to know about Armored Core](https://www.pcgamer.com/armored-core-on-pc-dark-souls-comparison-overview)
- - [BioWare lays off roughly 50 employees: &#39;We must shift towards a more agile and more focused studio&#39;](https://www.pcgamer.com/bioware-lays-off-roughly-50-employees-we-must-shift-towards-a-more-agile-and-more-focused-studio)
- - [The best ‘class’ in Baldur’s Gate 3 is ‘barrelmancer’](https://www.polygon.com/23841958/baldurs-gate-3-best-fake-class-barrelmancer)<!-- GAME:END -->
+ - [The Lord of the Rings game we&#39;re actually excited to play is coming in October](https://www.pcgamer.com/the-lord-of-the-rings-game-were-actually-excited-to-play-is-coming-in-october)
+ - [My favorite plane of all time is now in Microsoft Flight Simulator and oh I think I&#39;ve got something in my eye](https://www.pcgamer.com/my-favorite-plane-of-all-time-is-now-in-microsoft-flight-simulator-and-oh-i-think-ive-got-something-in-my-eye)
+ - [Bethesda exec&#39;s &#39;one piece of advice&#39; for Starfield players: don&#39;t skip &#39;amazing stuff&#39; because it doesn&#39;t seem like a real quest](https://www.pcgamer.com/starfield-activities-advice-gamescom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
