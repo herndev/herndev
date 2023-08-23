@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic &#39;90s shooter Star Wars: Dark Forces is getting the Nightdive remaster treatment](https://www.pcgamer.com/classic-90s-shooter-star-wars-dark-forces-is-getting-the-nightdive-remaster-treatment)
- - [Today&#39;s Wordle hint and answer #795: Wednesday, August 23](https://www.pcgamer.com/wordle-answer-today-hint-795-august-23)
- - [Ahsoka’s Jedi apprentice isn’t like any we’ve seen before](https://www.polygon.com/star-wars/23841682/ahsoka-sabine-apprentice-force-sensitive-jedi)<!-- GAME:END -->
+ - [Hands-On: Like A Dragon Gaiden Brings Super Spy Silliness To The Yakuza Formula](https://kotaku.com/like-a-dragon-gaiden-preview-agent-style-yakuza-rgg-1850759282)
+ - [Hands-On: Persona 5’s Tactics Spin-off Changes Everything, And It Rules](https://kotaku.com/persona-5-tactica-preview-tactics-rpg-release-date-1850751763)
+ - [I’m worried about the Persona 3 remake](https://www.polygon.com/23841928/persona-3-reload-remake-hands-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
