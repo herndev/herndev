@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Online medieval slasher Warhaven is almost upon us](https://www.pcgamer.com/online-medieval-slasher-warhaven-is-almost-upon-us)
- - [Hands-On: Like A Dragon Gaiden Brings Super Spy Silliness To The Yakuza Formula](https://kotaku.com/like-a-dragon-gaiden-preview-agent-style-yakuza-rgg-1850759282)
- - [Hands-On: Persona 5’s Tactics Spin-off Changes Everything, And It Rules](https://kotaku.com/persona-5-tactica-preview-tactics-rpg-release-date-1850751763)<!-- GAME:END -->
+ - [Starfield at gamescom: Todd Howard and Phil Spencer Introduce Never-Before-Seen Gameplay](https://news.xbox.com/en-us/2023/08/23/starfield-gamescom-todd-howard-phil-spencer-introduce-new-gameplay/)
+ - [Destiny 2: How to complete the Unveiled quest](https://www.pcgamer.com/destiny-2-unveiled-osiris-data-crawler)
+ - [Stunning 240Hz 32-inch 4K OLED monitor is star of Asus&#39;s Gamescom product splurge](https://www.pcgamer.com/stunning-240hz-32-inch-4k-oled-monitor-is-star-of-asuss-gamescom-product-splurge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
