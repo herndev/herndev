@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - ⏩ [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
+ - 💣 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
+ - ⏩ [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 👉 [Use cash.](http://9gag.com/gag/axonMGL)<!-- MEMES:END -->
 
 ---
 
