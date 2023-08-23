@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, don&#39;t buy a new one!](http://9gag.com/gag/aQENdZz)
+ - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
  - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 👉 [A true classic](http://9gag.com/gag/aNw2p33)<!-- MEMES:END -->
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 
