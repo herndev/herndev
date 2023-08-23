@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/ay2VX1b)
- - ⏩ [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 👉 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)<!-- MEMES:END -->
+ - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - ⏩ [Sweet revenge](http://9gag.com/gag/aVb10oP)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 
