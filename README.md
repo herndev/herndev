@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - ⏩ [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [Marion, Kansas police raid of 98-year-old newspaper publisher\u2019s home; she passed the next day and the warrant was rescinded for lacking evidence](http://9gag.com/gag/amAbvD6)<!-- MEMES:END -->
+ - 💣 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - ⏩ [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)
+ - 👉 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)<!-- MEMES:END -->
 
 ---
 
