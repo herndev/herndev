@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Epic’s new program lets developers keep their revenue in exchange for exclusivity](https://www.theverge.com/2023/8/23/23843018/epic-games-store-first-run-developers-revenue)<!-- TECH:END -->
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+ - [The best Chromebook deals of August 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
