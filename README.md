@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
- - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
- - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
+ - [A visit to the one-man computer factory](https://www.theverge.com/23841276/mythic-computer-keegan-mcnamara-pc-builder)
+ - [This batarang houses Qualcomm’s next big bet on gaming](https://www.theverge.com/2023/8/23/23840895/qualcomm-g3x-snapdragon-gen-2-g2-g1-gaming-handheld-chips)
+ - [Dark Brandon haunts the Fox News website on GOP debate day](https://www.theverge.com/2023/8/23/23842792/dark-brandon-joe-biden-fox-news-gop-debate-meme)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
