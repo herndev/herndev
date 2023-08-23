@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is experimenting with new AI capabilities in Windows 11 apps, including generating a canvas from text in Paint and OCR in Snipping Tool &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230823/p25#a230823p25)
- - [Developers evangelize Apple Vision Pro labs in latest update](https://appleinsider.com/articles/23/08/23/developers-evangelize-apple-vision-pro-labs-in-latest-update?utm_medium=rss)
- - [Reddit comments might not load for you right now](https://www.theverge.com/2023/8/23/23843352/reddit-down-comments-not-loading-server-error)<!-- TECH:END -->
+ - [Source: SpaceX is working with Cloudflare to increase Starlink&#39;s terrestrial network of mini data centers, which could help the service deliver faster speeds &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230823/p27#a230823p27)
+ - [A Right-to-Repair Car Law Makes a Surprising U-Turn in Massachusetts](https://www.wired.com/story/nhtsa-massachusetts-right-to-repair-letter/)
+ - [Brilliant launches plug-in Smart Home Control with Siri support](https://appleinsider.com/articles/23/08/23/brilliant-launches-plug-in-smart-home-control-with-siri-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
