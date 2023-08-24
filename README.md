@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
- - ⏩ [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 💣 [They just went for it](http://9gag.com/gag/a9qN6OW)
+ - ⏩ [Careful he&#39;s a Hero!](http://9gag.com/gag/aqepe0j)
+ - 👉 [The apprentice never had a chance to overcome the master of box flipping](http://9gag.com/gag/a5Xy6oL)<!-- MEMES:END -->
 
 ---
 
