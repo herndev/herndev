@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah Science !](http://9gag.com/gag/armr3o6)
- - ⏩ [Thanks Dad](http://9gag.com/gag/aL1Nvog)
- - 👉 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)<!-- MEMES:END -->
+ - 💣 [AfD isn&#39;t a good choice, but it might be the only choice.](http://9gag.com/gag/anzWR8E)
+ - ⏩ [If your not first your last](http://9gag.com/gag/a3ZpZAv)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
 
 ---
 
