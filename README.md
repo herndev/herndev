@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Fortnite’s next season has heists, Ahsoka, and a beefy fish](https://www.theverge.com/2023/8/24/23844367/fortnite-chapter-4-season-4-trailer-heists-ahsoka-beefy-fish)
- - [Threads on the web is here](https://www.theverge.com/2023/8/22/23840441/meta-threads-web-app)<!-- TECH:END -->
+ - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
+ - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)
+ - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
