@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pete Hines can&#39;t even put a number on how long Starfield takes to complete: &#39;I&#39;m at 150-160 hours on my current playthrough and I haven&#39;t even come close&#39;](https://www.pcgamer.com/pete-hines-cant-even-put-a-number-on-how-long-starfield-takes-to-complete-im-at-150-160-hours-on-my-current-playthrough-and-i-havent-even-come-close)
- - [New WarioWare-Like Game Features 56 Minigames From Hell](https://kotaku.com/warioware-clone-super-56-minigames-hell-one-button-demo-1850771314?utm_source=regular)
- - [13 Things I Wish I Knew Before Starting Armored Core VI](https://kotaku.com/armored-core-6-tips-guide-assembly-boss-fights-ps5-1850771299?utm_source=regular)<!-- GAME:END -->
+ - [Dark and Darker makes a deal with PUBG publisher Krafton for a mobile release](https://www.pcgamer.com/dark-and-darker-makes-a-deal-with-pubg-publisher-krafton-for-a-mobile-release)
+ - [The Baldur’s Gate 3 Sex Scenes, Ranked From Worst To Best](https://kotaku.com/baldurs-gate-3-romance-sex-scene-bear-shadowheart-gale-1850771533?utm_source=regular)
+ - [Find Answers to Ancient Mysteries with the Free Echoes Update for No Man’s Sky](https://news.xbox.com/en-us/2023/08/24/free-echoes-update-for-no-mans-sky/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
