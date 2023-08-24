@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shein acquires ~33% of Forever 21 parent Sparc, and Sparc takes a minority stake in Shein, allowing Shein to sell Forever 21 items and operate inside its stores &lpar;Suzanne Kapner/Wall Street Journal&rpar;](http://www.techmeme.com/230824/p26#a230824p26)
- - [T-Mobile keeps doing the thing it said it wouldn’t do](https://www.androidauthority.com/t-mobile-layoffs-2023-3357846/)
- - [Astropad&#39;s new Rock Paper Pencil iPad screen protector mimics the pen-on-paper experience](https://appleinsider.com/articles/23/08/24/astropads-new-rock-paper-pencil-ipad-screen-protector-mimics-the-pen-on-paper-experience?utm_medium=rss)<!-- TECH:END -->
+ - [Windows 11 will soon get a settings homepage that puts your most-used controls in one place](https://www.theverge.com/2023/8/24/23844610/windows-11-insider-settings-homepage-update)
+ - [What Wi-Fi 6E in the iPhone 15 Pro means for you](https://appleinsider.com/articles/23/08/24/what-wi-fi-6e-in-the-iphone-15-pro-means-for-you?utm_medium=rss)
+ - [Galaxy Z Flip 4 is now getting One UI 5.1.1 with August 2023 patch](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
