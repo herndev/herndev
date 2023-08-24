@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s matte black F-150 Lightning looks ready to chase the Joker](https://www.theverge.com/2023/8/24/23842907/ford-f-150-lightning-platinum-black)
- - [Max will launch a 24/7 CNN stream for all subscribers next month](https://www.theverge.com/2023/8/24/23844121/cnn-max-warnerbros-discovery-news)
- - [Study: in May 2023, ~150K nonconsensual porn deepfakes, with 3.8B total views, appeared on 30 sites, up 9x since 2019, aided by services from big tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p14#a230824p14)<!-- TECH:END -->
+ - [Filing: T-Mobile plans to cut ~7% of its global staff, or ~5,000 jobs, mostly in corporate and tech; AT&amp;T has cut 74,130 jobs, or 32% of its staff, since 2021 &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/230824/p17#a230824p17)
+ - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)
+ - [Meta releases Code Llama, a tool built on top of Llama 2 to generate new code and debug human-written work, under the same community license as Llama 2 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230824/p16#a230824p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
