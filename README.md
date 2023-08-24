@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old Glasses Can Hurt Your Eyes. Here&#39;s When to Buy a New Pair     - CNET](https://www.cnet.com/health/personal-care/old-glasses-can-hurt-your-eyes-heres-when-to-buy-a-new-pair/#ftag=CAD590a51e)
- - [Google announces new security features for Workspace, including zero-trust, data loss prevention, and digital sovereignty controls, rolling out in 2023 and 2024 &lpar;David Gewirtz/ZDNet&rpar;](http://www.techmeme.com/230823/p31#a230823p31)
- - [Refurbished Apple M2 MacBook Air dips to $749](https://appleinsider.com/articles/23/08/23/refurbished-apple-m2-macbook-air-dips-to-749?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch La Liga in the USA](https://www.androidauthority.com/how-to-watch-la-liga-in-usa-3357563/)
+ - [Gmail may ask for verification to add a forwarding address or edit filters](https://www.theverge.com/2023/8/23/23843682/gmail-verification-forwarding-address-edit-filters-protection)
+ - [Old Glasses Can Hurt Your Eyes. Here&#39;s When to Buy a New Pair     - CNET](https://www.cnet.com/health/personal-care/old-glasses-can-hurt-your-eyes-heres-when-to-buy-a-new-pair/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
