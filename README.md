@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange Bitstamp says it is ending its Ethereum staking service for US customers from September 25, citing &quot;current regulatory dynamics in the US&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230824/p1#a230824p1)
  - [Sources and documents: China quietly revived its initiative to recruit top foreign-trained scientists, which was stopped in 2018, to boost its tech proficiency &lpar;Reuters&rpar;](http://www.techmeme.com/230823/p35#a230823p35)
- - [Research teams from the University of California, San Francisco and Stanford University use AI and electrodes to turn thoughts into speech via a lifelike avatar &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230823/p34#a230823p34)
- - [Naver unveils its generative AI product HyperCLOVA X, including chatbot app CLOVA X available in beta, and AI search service Cue, launching in beta in September &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/230823/p33#a230823p33)<!-- TECH:END -->
+ - [Research teams from the University of California, San Francisco and Stanford University use AI and electrodes to turn thoughts into speech via a lifelike avatar &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230823/p34#a230823p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
