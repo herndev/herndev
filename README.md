@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - ⏩ [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
- - 👉 [Bro was like wait wait WAIT](http://9gag.com/gag/aNw2g10)<!-- MEMES:END -->
+ - 💣 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
+ - ⏩ [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 👉 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)<!-- MEMES:END -->
 
 ---
 
