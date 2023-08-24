@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s record-breaking profits are unsurprising but still outrageous](https://www.pcgamer.com/nvidias-record-breaking-profits-are-unsurprising-but-still-outrageous)
  - [&lpar;For Southeast Asia&rpar; Get Ready To Go On an Exciting, High-Speed Adventure with Your Friends in Sonic Superstars!](https://blog.playstation.com/2023/08/24/20230824-sonic/)
- - [Here&#39;s when Armored Core 6 unlocks in your time zone](https://www.pcgamer.com/armored-core-6-release-time-date-pc-console)
- - [Today&#39;s Wordle hint and answer #796: Thursday, August 24](https://www.pcgamer.com/wordle-answer-today-hint-796-august-24)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Get Ready To Go On an Exciting, High-Speed Adventure with Your Friends in Sonic Superstars!](https://blog.playstation.com/2023/08/24/20230824-sonic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
