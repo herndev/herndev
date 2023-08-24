@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He thought he was home alone and got caught red pawed](http://9gag.com/gag/aQENQP7)
- - ⏩ [Darryl&#39;s contribution](http://9gag.com/gag/a6q39Dm)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
+ - ⏩ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
 
 ---
 
