@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m busy enough cleaning up after her...](http://9gag.com/gag/aZDV120)
- - ⏩ [After turning 30](http://9gag.com/gag/aREN42G)
- - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
+ - 💣 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
+ - ⏩ [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 
