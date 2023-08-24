@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
- - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)
- - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)<!-- TECH:END -->
+ - [Astropad&#39;s new Rock Paper Pencil iPad screen protector mimics the pen-on-paper experience](https://appleinsider.com/articles/23/08/24/astropads-new-rock-paper-pencil-ipad-screen-protector-mimics-the-pen-on-paper-experience?utm_medium=rss)
+ - [Dropbox ends its unlimited option, capping its highest tier &quot;all the space you need&quot; storage plan to 5TB, after some abused it to resell the storage and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230824/p25#a230824p25)
+ - [For Native Hawaiian advocates, tech billionaires’ donations don’t go far enough](https://www.theverge.com/23844156/mauii-hawaii-fire-tech-billionaires)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
