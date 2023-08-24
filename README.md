@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me](http://9gag.com/gag/a8qXG2p)
- - ⏩ [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
+ - 💣 [Yeah Science !](http://9gag.com/gag/armr3o6)
+ - ⏩ [Thanks Dad](http://9gag.com/gag/aL1Nvog)
+ - 👉 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)<!-- MEMES:END -->
 
 ---
 
