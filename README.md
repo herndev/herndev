@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This has me laughing](http://9gag.com/gag/aNw29m4)
- - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 💣 [I&#39;m busy enough cleaning up after her...](http://9gag.com/gag/aZDV120)
+ - ⏩ [After turning 30](http://9gag.com/gag/aREN42G)
+ - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
 
 ---
 
