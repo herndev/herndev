@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Nerfs Illari Into The Sun](https://kotaku.com/overwatch-2-patch-notes-ilari-nerf-ultiamte-season-6-1850771932?utm_source=regular)
- - [Everything the creator of Our Flag Means Death has said about season 2](https://www.polygon.com/23030665/our-flag-means-death-season-2)
- - [Nicki Minaj is now stepping on Call of Duty players](https://www.polygon.com/23844644/call-of-duty-nicki-minaj-warzone-modern-warfare-2)<!-- GAME:END -->
+ - [The Cat Person trailer turns a viral sensation into a heated thriller](https://www.polygon.com/23844879/cat-person-trailer-new-yorker-short-story-adaptation-kristen-roupenian)
+ - [Todd Howard kinda wishes he hadn&#39;t announced The Elder Scrolls 6 the way he did](https://www.pcgamer.com/todd-howard-kinda-wishes-he-hadnt-announced-the-elder-scrolls-6-the-way-he-did)
+ - [You can launch Starfield as early as August 31, its global release times confirm](https://www.pcgamer.com/you-can-launch-starfield-as-early-as-august-31-its-global-release-times-confirm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
