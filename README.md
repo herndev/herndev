@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - ⏩ [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
+ - 💣 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - ⏩ [Ummm](http://9gag.com/gag/a9qN1q0)
+ - 👉 [This has me laughing](http://9gag.com/gag/aNw29m4)<!-- MEMES:END -->
 
 ---
 
