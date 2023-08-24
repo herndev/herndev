@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - ⏩ [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
+ - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 👉 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)<!-- MEMES:END -->
 
 ---
 
