@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bixby’s voice cloning feature is getting a wider rollout](https://www.androidauthority.com/bixby-voice-cloning-rollout-3357654/)
- - [Filings: FTX wants to begin selling, staking, and hedging its crypto holdings, valued at over $3B, and seeks to hire Mike Novogratz&#39;s Galaxy as an advisor &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230824/p9#a230824p9)
- - [Pixel 8 could gain these new AI camera features as per Google survey](https://www.androidauthority.com/google-pixel-8-ai-camera-features-3357643/)<!-- TECH:END -->
+ - [Apple Car may help find your lost iPhone under the seat](https://appleinsider.com/articles/21/05/11/apple-car-may-help-find-your-lost-iphone-under-the-seat?utm_medium=rss)
+ - [Intel’s 14th Gen processors leak out thanks to MSI](https://www.theverge.com/2023/8/24/23844095/intel-14th-gen-processors-performance-msi-leak)
+ - [A vessel should repair the West Africa Cable System, which runs ~10K miles from Europe to Africa, by September, after disruption to all South African networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p11#a230824p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
