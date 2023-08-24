@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
- - ⏩ [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 👉 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)<!-- MEMES:END -->
+ - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - ⏩ [Help me](http://9gag.com/gag/a8qXG2p)
+ - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
 
 ---
 
