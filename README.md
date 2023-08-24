@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - ⏩ [Realistic](http://9gag.com/gag/ay2V9XV)
- - 👉 [Hold your horses](http://9gag.com/gag/a4oroM1)<!-- MEMES:END -->
+ - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - ⏩ [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - 👉 [Bro was like wait wait WAIT](http://9gag.com/gag/aNw2g10)<!-- MEMES:END -->
 
 ---
 
