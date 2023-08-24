@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - ⏩ [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 👉 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)<!-- MEMES:END -->
+ - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - ⏩ [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
+ - 👉 [Sweet revenge](http://9gag.com/gag/aVb10oP)<!-- MEMES:END -->
 
 ---
 
