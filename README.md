@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Cat Person trailer turns a viral sensation into a heated thriller](https://www.polygon.com/23844879/cat-person-trailer-new-yorker-short-story-adaptation-kristen-roupenian)
- - [Todd Howard kinda wishes he hadn&#39;t announced The Elder Scrolls 6 the way he did](https://www.pcgamer.com/todd-howard-kinda-wishes-he-hadnt-announced-the-elder-scrolls-6-the-way-he-did)
- - [You can launch Starfield as early as August 31, its global release times confirm](https://www.pcgamer.com/you-can-launch-starfield-as-early-as-august-31-its-global-release-times-confirm)<!-- GAME:END -->
+ - [Dune: Part Two has been pushed back to 2024](https://www.polygon.com/23845035/dune-2-release-date-delay-part-two-2024)
+ - [The Legend of Zelda looks perfectly campy in fan-made ’80s dark fantasy trailer](https://www.polygon.com/zelda/23845006/legend-of-zelda-fan-film-trailer-80s-dark-fantasy)
+ - [I Can’t Stop Playing This Titanfall-F.E.A.R.-Killzone-Doom-Like](https://kotaku.com/i-can-t-stop-playing-this-titanfall-f-e-a-r-killzone-d-1850772277?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
