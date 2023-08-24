@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
- - ⏩ [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
- - 👉 [Sweet revenge](http://9gag.com/gag/aVb10oP)<!-- MEMES:END -->
+ - 💣 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - ⏩ [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 👉 [Hold your horses](http://9gag.com/gag/a4oroM1)<!-- MEMES:END -->
 
 ---
 
