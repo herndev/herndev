@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Party Animals’ gamescom Demo Proves There’s More Here Than Just Adorable Anarchy](https://news.xbox.com/en-us/2023/08/24/party-animals-hands-on-gamescom/)
- - [The Hades and Bastion soundtracks on vinyl are available now from iam8Bit](https://www.polygon.com/deals/2023/8/24/23843331/hades-bastion-vinyl-lp-record-soundtrack-restock)
- - [Starfield&#39;s starter ship has been tested in Kerbal Space Program, and the poor thing won&#39;t stop exploding](https://www.pcgamer.com/starfields-starter-ship-has-been-tested-in-kerbal-space-program-and-the-poor-thing-wont-stop-exploding)<!-- GAME:END -->
+ - [How Citizen Sleeper 2: Starward Vector Builds on an Indie Game Pass Hit](https://news.xbox.com/en-us/2023/08/24/how-citizen-sleeper-2-starward-vector-builds-on-an-indie-game-pass-hit/)
+ - [Dragon Age And Mass Effect Fans Are Worried About BioWare&#39;s Future](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850770527?utm_source=regular)
+ - [How to get Opaque Cards in Destiny 2&#39;s Season of the Witch](https://www.pcgamer.com/destiny-2-opaque-card-locations-deck-of-whispers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
