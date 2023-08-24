@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; Get Ready To Go On an Exciting, High-Speed Adventure with Your Friends in Sonic Superstars!](https://blog.playstation.com/2023/08/24/20230824-sonic/)
  - [Here&#39;s when Armored Core 6 unlocks in your time zone](https://www.pcgamer.com/armored-core-6-release-time-date-pc-console)
- - [Today&#39;s Wordle hint and answer #796: Thursday, August 24](https://www.pcgamer.com/wordle-answer-today-hint-796-august-24)
- - [Alan Wake 2 feels like Remedy&#39;s attempt to combine the best games it&#39;s ever made](https://www.pcgamer.com/alan-wake-2--hands-on-gamescom)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #796: Thursday, August 24](https://www.pcgamer.com/wordle-answer-today-hint-796-august-24)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
