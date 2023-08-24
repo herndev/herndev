@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They just went for it](http://9gag.com/gag/a9qN6OW)
- - ⏩ [Careful he&#39;s a Hero!](http://9gag.com/gag/aqepe0j)
- - 👉 [The apprentice never had a chance to overcome the master of box flipping](http://9gag.com/gag/a5Xy6oL)<!-- MEMES:END -->
+ - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - ⏩ [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
 
 ---
 
