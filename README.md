@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Naruto to Boruto Shinobi Striker, Destiny 2: The Witch Queen, Warhammer: Vermintide 2, and Need for Speed Unbound](https://news.xbox.com/en-us/2023/08/24/free-play-days-naruto-to-boruto-shinobi-striker-destiny-2-the-witch-queen-warhammer-vermintide-2-and-need-for-speed-unbound/)
- - [When does Fortnite Chapter 4 Season 4 launch?](https://www.polygon.com/fortnite-guide/2023/8/23/23842646/chapter-4-season-4-release-time-launch-new-season)
- - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)<!-- GAME:END -->
+ - [Party Animals’ gamescom Demo Proves There’s More Here Than Just Adorable Anarchy](https://news.xbox.com/en-us/2023/08/24/party-animals-hands-on-gamescom/)
+ - [The Hades and Bastion soundtracks on vinyl are available now from iam8Bit](https://www.polygon.com/deals/2023/8/24/23843331/hades-bastion-vinyl-lp-record-soundtrack-restock)
+ - [Starfield&#39;s starter ship has been tested in Kerbal Space Program, and the poor thing won&#39;t stop exploding](https://www.pcgamer.com/starfields-starter-ship-has-been-tested-in-kerbal-space-program-and-the-poor-thing-wont-stop-exploding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
