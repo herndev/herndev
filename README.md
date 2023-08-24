@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 👉 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)<!-- MEMES:END -->
+ - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - ⏩ [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 👉 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)<!-- MEMES:END -->
 
 ---
 
