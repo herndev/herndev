@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark and Darker makes a deal with PUBG publisher Krafton for a mobile release](https://www.pcgamer.com/dark-and-darker-makes-a-deal-with-pubg-publisher-krafton-for-a-mobile-release)
- - [The Baldur’s Gate 3 Sex Scenes, Ranked From Worst To Best](https://kotaku.com/baldurs-gate-3-romance-sex-scene-bear-shadowheart-gale-1850771533?utm_source=regular)
- - [Find Answers to Ancient Mysteries with the Free Echoes Update for No Man’s Sky](https://news.xbox.com/en-us/2023/08/24/free-echoes-update-for-no-mans-sky/)<!-- GAME:END -->
+ - [Overwatch 2 Nerfs Illari Into The Sun](https://kotaku.com/overwatch-2-patch-notes-ilari-nerf-ultiamte-season-6-1850771932?utm_source=regular)
+ - [Everything the creator of Our Flag Means Death has said about season 2](https://www.polygon.com/23030665/our-flag-means-death-season-2)
+ - [Nicki Minaj is now stepping on Call of Duty players](https://www.polygon.com/23844644/call-of-duty-nicki-minaj-warzone-modern-warfare-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
