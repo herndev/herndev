@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Amazon Luna on LG smart TVs released between 2021 and 2023 and running webOS 6.0 or later, after debuting Luna on Samsung TVs in August 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230824/p7#a230824p7)
- - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)
- - [Microsoft investigating Windows 11 BSOD ‘unsupported processor’ update errors](https://www.theverge.com/2023/8/24/23844054/microsoft-windows-11-bsod-kb5029351-msi-motherboard-bios-update)<!-- TECH:END -->
+ - [Bixby’s voice cloning feature is getting a wider rollout](https://www.androidauthority.com/bixby-voice-cloning-rollout-3357654/)
+ - [Filings: FTX wants to begin selling, staking, and hedging its crypto holdings, valued at over $3B, and seeks to hire Mike Novogratz&#39;s Galaxy as an advisor &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230824/p9#a230824p9)
+ - [Pixel 8 could gain these new AI camera features as per Google survey](https://www.androidauthority.com/google-pixel-8-ai-camera-features-3357643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
