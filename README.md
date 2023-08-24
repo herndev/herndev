@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Tablet’s stylus capabilities are about to get a whole lot better](https://www.androidauthority.com/pixel-tablet-stylus-settings-3357632/)
  - [We are at the tail end of the first wave of LLM-based AI, which performs better than the average human in some tasks but is not enough and is expensive to train &lpar;Irregular Ideas&rpar;](http://www.techmeme.com/230824/p5#a230824p5)
- - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)
- - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)<!-- TECH:END -->
+ - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
