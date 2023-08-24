@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s record-breaking profits are unsurprising but still outrageous](https://www.pcgamer.com/nvidias-record-breaking-profits-are-unsurprising-but-still-outrageous)
- - [&lpar;For Southeast Asia&rpar; Get Ready To Go On an Exciting, High-Speed Adventure with Your Friends in Sonic Superstars!](https://blog.playstation.com/2023/08/24/20230824-sonic/)
- - [&lpar;For Southeast Asia&rpar; Get Ready To Go On an Exciting, High-Speed Adventure with Your Friends in Sonic Superstars!](https://blog.playstation.com/2023/08/24/20230824-sonic/)<!-- GAME:END -->
+ - [Select PC Game Pass Titles Now Available on NVIDIA GeForce NOW](https://news.xbox.com/en-us/2023/08/24/select-pc-game-pass-titles-now-available-on-nvidia-geforce-now/)
+ - [Warhammer 40K: Rogue Trader’s devs want to capitalize on 2023’s CRPG obsession](https://www.polygon.com/23843275/warhammer-40k-rogue-trader-companions-drukhari-marazhai-preview)
+ - [Qualcomm&#39;s new gaming handheld chip has Steam Deck and AMD in its sights](https://www.pcgamer.com/qualcomms-new-gaming-handheld-chip-has-steam-deck-and-amd-in-its-sights)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
