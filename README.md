@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [Atari announces the $130 Atari 2600+, with HDMI and a slot for Atari 2600 and 7800 cartridges, the $25 CX40+ joystick, and a $40 CX30+ paddle controller bundle &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230823/p32#a230823p32)
- - [Razer Kishi V2 Pro Mobile Game Controller Vibrates HyperSensically     - CNET](https://www.cnet.com/tech/gaming/razer-kishi-v2-pro-mobile-game-controller-vibrates-hypersensically/#ftag=CAD590a51e)
+ - [Razer Kishi V2 Pro Mobile Game Controller Sends Out Strange Vibrations     - CNET](https://www.cnet.com/tech/gaming/razer-kishi-v2-pro-mobile-game-controller-vibrates-hypersensically/#ftag=CAD590a51e)
  - [How to watch La Liga in the USA](https://www.androidauthority.com/how-to-watch-la-liga-in-usa-3357563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
