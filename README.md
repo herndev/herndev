@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - ⏩ [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 👉 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)<!-- MEMES:END -->
+ - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 👉 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)<!-- MEMES:END -->
 
 ---
 
