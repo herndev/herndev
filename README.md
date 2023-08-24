@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a 2TB iPad Pro 12.9-inch for just $1,299 &lpar;$900 off retail&rpar;](https://appleinsider.com/articles/23/08/24/get-a-2tb-ipad-pro-129-inch-for-just-1299-900-off-retail?utm_medium=rss)
- - [T-Mobile Go5G Next vs Magenta: Finally a plan worth switching to?](https://www.androidauthority.com/t-mobile-go5g-next-vs-magenta-3357138/)
- - [Windows 11 will soon get a settings homepage that puts your most-used controls in one place](https://www.theverge.com/2023/8/24/23844610/windows-11-insider-settings-homepage-update)<!-- TECH:END -->
+ - [Affirm reports Q4 revenue up 22% YoY to $446M, vs. $406M est., net loss up 11% YoY to $206M, and GMV up 25% YoY to $5.5B, vs. $5.3B est.; AFRM jumps 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230824/p28#a230824p28)
+ - [14 Best Early Labor Day Deals &lpar;2023&rpar;: Firepits, Grills, and Couches](https://www.wired.com/story/best-labor-day-deals-2023-1/)
+ - [Get a 2TB iPad Pro 12.9-inch for just $1,299 &lpar;$900 off retail&rpar;](https://appleinsider.com/articles/23/08/24/get-a-2tb-ipad-pro-129-inch-for-just-1299-900-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
