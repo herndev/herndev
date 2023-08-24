@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Select PC Game Pass Titles Now Available on NVIDIA GeForce NOW](https://news.xbox.com/en-us/2023/08/24/select-pc-game-pass-titles-now-available-on-nvidia-geforce-now/)
- - [Warhammer 40K: Rogue Trader’s devs want to capitalize on 2023’s CRPG obsession](https://www.polygon.com/23843275/warhammer-40k-rogue-trader-companions-drukhari-marazhai-preview)
- - [Qualcomm&#39;s new gaming handheld chip has Steam Deck and AMD in its sights](https://www.pcgamer.com/qualcomms-new-gaming-handheld-chip-has-steam-deck-and-amd-in-its-sights)<!-- GAME:END -->
+ - [Stalker 2 looks great but, thanks to the situation in Ukraine, is delayed into early next year](https://www.pcgamer.com/stalker-2-looks-great-but-thanks-to-the-situation-in-ukraine-is-delayed-into-early-next-year)
+ - [Is this the new must-have direct drive wheel? MOZA’s $399 PC &amp; Xbox compatible R3 bundle is incoming](https://www.pcgamer.com/is-this-the-new-must-have-direct-drive-wheel-mozas-dollar399-pc-and-xbox-compatible-r3-bundle-is-incoming)
+ - [JoJo&#39;s Bizarre Adventure Anime Heroes, Ranked From Worst To Best](https://kotaku.com/jojo-s-bizarre-adventure-jjba-jotaro-kujo-golden-wind-1850767973?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
