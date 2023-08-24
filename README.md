@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
- - ⏩ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
+ - 💣 [A little plothole](http://9gag.com/gag/armrX16)
+ - ⏩ [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
+ - 👉 [A tittle](http://9gag.com/gag/aPgdmgB)<!-- MEMES:END -->
 
 ---
 
