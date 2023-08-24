@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Citizen Sleeper 2: Starward Vector Builds on an Indie Game Pass Hit](https://news.xbox.com/en-us/2023/08/24/how-citizen-sleeper-2-starward-vector-builds-on-an-indie-game-pass-hit/)
- - [Dragon Age And Mass Effect Fans Are Worried About BioWare&#39;s Future](https://kotaku.com/dragon-age-dreadwolf-mass-effect-4-bioware-layoffs-1850770527?utm_source=regular)
- - [How to get Opaque Cards in Destiny 2&#39;s Season of the Witch](https://www.pcgamer.com/destiny-2-opaque-card-locations-deck-of-whispers)<!-- GAME:END -->
+ - [As Xbox 360 Store Nears End, Microsoft Swears Game Preservation Is ‘Front And Center’](https://kotaku.com/xbox-360-store-shut-down-preservation-resident-evil-0-1850771000?utm_source=regular)
+ - [ID@Xbox at 10: Chris Charla’s Decade in Indie, and Some of the Games That Made It](https://news.xbox.com/en-us/2023/08/24/id-xbox-10-years-chris-charla-interview/)
+ - [Watch the stop-motion sci-fi odyssey Junk Head, a masterpiece over 7 years in the making](https://www.polygon.com/23843043/junk-head-stop-motion-sci-fi-movie-amazon-vudu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
