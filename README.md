@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 looks great but, thanks to the situation in Ukraine, is delayed into early next year](https://www.pcgamer.com/stalker-2-looks-great-but-thanks-to-the-situation-in-ukraine-is-delayed-into-early-next-year)
- - [Is this the new must-have direct drive wheel? MOZA’s $399 PC &amp; Xbox compatible R3 bundle is incoming](https://www.pcgamer.com/is-this-the-new-must-have-direct-drive-wheel-mozas-dollar399-pc-and-xbox-compatible-r3-bundle-is-incoming)
- - [JoJo&#39;s Bizarre Adventure Anime Heroes, Ranked From Worst To Best](https://kotaku.com/jojo-s-bizarre-adventure-jjba-jotaro-kujo-golden-wind-1850767973?utm_source=regular)<!-- GAME:END -->
+ - [Free Play Days – Naruto to Boruto Shinobi Striker, Destiny 2: The Witch Queen, Warhammer: Vermintide 2, and Need for Speed Unbound](https://news.xbox.com/en-us/2023/08/24/free-play-days-naruto-to-boruto-shinobi-striker-destiny-2-the-witch-queen-warhammer-vermintide-2-and-need-for-speed-unbound/)
+ - [When does Fortnite Chapter 4 Season 4 launch?](https://www.polygon.com/fortnite-guide/2023/8/23/23842646/chapter-4-season-4-release-time-launch-new-season)
+ - [Pokémon Go 2023 Community Day schedule](https://www.polygon.com/pokemon-go-guide/23537301/2023-community-day-schedule-calendar-dates-special-moves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
