@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm reports Q4 revenue up 22% YoY to $446M, vs. $406M est., net loss up 11% YoY to $206M, and GMV up 25% YoY to $5.5B, vs. $5.3B est.; AFRM jumps 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230824/p28#a230824p28)
- - [14 Best Early Labor Day Deals &lpar;2023&rpar;: Firepits, Grills, and Couches](https://www.wired.com/story/best-labor-day-deals-2023-1/)
- - [Get a 2TB iPad Pro 12.9-inch for just $1,299 &lpar;$900 off retail&rpar;](https://appleinsider.com/articles/23/08/24/get-a-2tb-ipad-pro-129-inch-for-just-1299-900-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Dune: Part Two has been delayed](https://www.theverge.com/2023/8/24/23845060/dune-part-two-delay-godzilla-x-kong-lord-of-the-rings-war-of-the-rohirrim)
+ - [Sources: Amazon has had early talks with Disney about working on a streaming version of ESPN, perhaps helping with distribution and taking a minority stake &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230824/p30#a230824p30)
+ - [Alphabet’s Wing partners with Walmart for drone deliveries in Dallas](https://www.theverge.com/2023/8/24/23844975/alphabet-wing-walmart-drone-deliveries-dallas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
