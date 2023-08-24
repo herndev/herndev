@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car may help find your lost iPhone under the seat](https://appleinsider.com/articles/21/05/11/apple-car-may-help-find-your-lost-iphone-under-the-seat?utm_medium=rss)
- - [Intel’s 14th Gen processors leak out thanks to MSI](https://www.theverge.com/2023/8/24/23844095/intel-14th-gen-processors-performance-msi-leak)
- - [A vessel should repair the West Africa Cable System, which runs ~10K miles from Europe to Africa, by September, after disruption to all South African networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p11#a230824p11)<!-- TECH:END -->
+ - [Ford’s matte black F-150 Lightning looks ready to chase the Joker](https://www.theverge.com/2023/8/24/23842907/ford-f-150-lightning-platinum-black)
+ - [Max will launch a 24/7 CNN stream for all subscribers next month](https://www.theverge.com/2023/8/24/23844121/cnn-max-warnerbros-discovery-news)
+ - [Study: in May 2023, ~150K nonconsensual porn deepfakes, with 3.8B total views, appeared on 30 sites, up 9x since 2019, aided by services from big tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p14#a230824p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
