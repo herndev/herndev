@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Xbox 360 Store Nears End, Microsoft Swears Game Preservation Is ‘Front And Center’](https://kotaku.com/xbox-360-store-shut-down-preservation-resident-evil-0-1850771000?utm_source=regular)
- - [ID@Xbox at 10: Chris Charla’s Decade in Indie, and Some of the Games That Made It](https://news.xbox.com/en-us/2023/08/24/id-xbox-10-years-chris-charla-interview/)
- - [Watch the stop-motion sci-fi odyssey Junk Head, a masterpiece over 7 years in the making](https://www.polygon.com/23843043/junk-head-stop-motion-sci-fi-movie-amazon-vudu)<!-- GAME:END -->
+ - [Pete Hines can&#39;t even put a number on how long Starfield takes to complete: &#39;I&#39;m at 150-160 hours on my current playthrough and I haven&#39;t even come close&#39;](https://www.pcgamer.com/pete-hines-cant-even-put-a-number-on-how-long-starfield-takes-to-complete-im-at-150-160-hours-on-my-current-playthrough-and-i-havent-even-come-close)
+ - [New WarioWare-Like Game Features 56 Minigames From Hell](https://kotaku.com/warioware-clone-super-56-minigames-hell-one-button-demo-1850771314?utm_source=regular)
+ - [13 Things I Wish I Knew Before Starting Armored Core VI](https://kotaku.com/armored-core-6-tips-guide-assembly-boss-fights-ps5-1850771299?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
