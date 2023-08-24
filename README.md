@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AfD isn&#39;t a good choice, but it might be the only choice.](http://9gag.com/gag/anzWR8E)
- - ⏩ [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
+ - 💣 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - ⏩ [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 
