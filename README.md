@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alan Wake 2 feels like Remedy&#39;s attempt to combine the best games it&#39;s ever made](https://www.pcgamer.com/alan-wake-2--hands-on-gamescom)
  - [The Lord of the Rings game we&#39;re actually excited to play is coming in October](https://www.pcgamer.com/the-lord-of-the-rings-game-were-actually-excited-to-play-is-coming-in-october)
- - [My favorite plane of all time is now in Microsoft Flight Simulator and oh I think I&#39;ve got something in my eye](https://www.pcgamer.com/my-favorite-plane-of-all-time-is-now-in-microsoft-flight-simulator-and-oh-i-think-ive-got-something-in-my-eye)
- - [Bethesda exec&#39;s &#39;one piece of advice&#39; for Starfield players: don&#39;t skip &#39;amazing stuff&#39; because it doesn&#39;t seem like a real quest](https://www.pcgamer.com/starfield-activities-advice-gamescom)<!-- GAME:END -->
+ - [My favorite plane of all time is now in Microsoft Flight Simulator and oh I think I&#39;ve got something in my eye](https://www.pcgamer.com/my-favorite-plane-of-all-time-is-now-in-microsoft-flight-simulator-and-oh-i-think-ive-got-something-in-my-eye)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
