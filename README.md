@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
- - ⏩ [Ummm](http://9gag.com/gag/a9qN1q0)
- - 👉 [This has me laughing](http://9gag.com/gag/aNw29m4)<!-- MEMES:END -->
+ - 💣 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
+ - ⏩ [Thanks Dad](http://9gag.com/gag/aL1Nvog)
+ - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
 
 ---
 
