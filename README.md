@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Beat Armored Core VI’s Super-Hard Chapter One Boss Fight](https://kotaku.com/armored-core-6-chapter-one-balteus-boss-fight-tips-1850774281?utm_source=regular)
- - [7 years after launch, No Man&#39;s Sky adds its first new race in its biggest update of the year](https://www.pcgamer.com/7-years-after-launch-no-mans-sky-adds-its-first-new-race-in-its-biggest-update-of-the-year)
- - [Armored Core 6 PCA Enforcement Squad guide: How to beat the &#39;Steal the Survey Data&#39; mission](https://www.pcgamer.com/armored-core-6-how-to-beat-pca-enforcement-squad-steal-the-survey-mission-best-build)<!-- GAME:END -->
+ - [The Pokémon Company Finally Gives Us What We Want: Penny&#39;s Eevee Backpack](https://kotaku.com/pokemon-scarlet-violet-penny-eevee-backpack-bag-buy-1850775631?utm_source=regular)
+ - [Kotaku’s Weekend Guide: 6 Games To Close Out August](https://kotaku.com/games-to-play-diablo-baldurs-gate-3-sprawl-rdr2-1850775483?utm_source=regular)
+ - [The Barbz Are Taking Over Call Of Duty: Warzone](https://kotaku.com/nicki-minaj-barbie-call-of-duty-skin-price-how-much-1850775467?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
