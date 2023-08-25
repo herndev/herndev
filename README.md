@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - ⏩ [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - 👉 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)<!-- MEMES:END -->
+ - 💣 [I would...](http://9gag.com/gag/abvmWBX)
+ - ⏩ [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 
