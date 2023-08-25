@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is no cure for them...they are lost...](http://9gag.com/gag/aqepynQ)
- - ⏩ [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
+ - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
+ - ⏩ [Title](http://9gag.com/gag/aoKqRMn)
+ - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
 
 ---
 
