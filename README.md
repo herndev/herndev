@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - ⏩ [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)<!-- MEMES:END -->
+ - 💣 [No more serious relationship](http://9gag.com/gag/amAbx8y)
+ - ⏩ [Title](http://9gag.com/gag/aoKqRMn)
+ - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
 
 ---
 
