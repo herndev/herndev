@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot’s new robot vacuum mop is the closest thing yet to a sci-fi cleaning robot](https://www.theverge.com/23845579/switchbot-s10-robot-vacuum-mop-launch-ifa)
- - [AMD claims there’s nothing stopping Starfield from adding Nvidia DLSS](https://www.theverge.com/2023/8/25/22372077/amd-starfield-dlss-fsr-exclusive-frank-azor)
- - [AMD announces Radeon RX 7800 XT and 7700 XT, starting at $449](https://www.theverge.com/22327528/amd-radeon-rx-7800-7700-xt-gpu-price-release-date)<!-- TECH:END -->
+ - [The EU’s Digital Services Act goes into effect today: here’s what that means](https://www.theverge.com/23845672/eu-digital-services-act-explained)
+ - [The EU&#39;s DSA goes into effect, forcing platforms like Facebook, Instagram, YouTube, and TikTok to let users opt out of profiling-based content recommendations &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230825/p13#a230825p13)
+ - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
