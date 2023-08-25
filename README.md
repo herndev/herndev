@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would...](http://9gag.com/gag/abvmWBX)
- - ⏩ [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 💣 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - ⏩ [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)<!-- MEMES:END -->
 
 ---
 
