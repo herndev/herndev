@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Young Super Smash Bros. Melee Player Takes Selfie Mid-Match, Owns](https://kotaku.com/super-smash-bros-melee-con-og-kid-dj-dodd-jigglypuff-1850776102?utm_source=regular)
- - [Warhammer 40K: Space Marine is a rare throwback to the Xbox 360-era shooter, but it&#39;s missing some of what made those games great](https://www.pcgamer.com/warhammer-40k-space-marine-is-a-rare-throwback-to-the-xbox-360-era-shooter-but-its-missing-some-of-what-made-those-games-great)
- - [Someone Has Already Modded GTA’s CJ Into Armored Core VI](https://kotaku.com/armored-core-6-acvi-fromsoft-gta-san-andreas-cj-mod-pc-1850776143?utm_source=regular)<!-- GAME:END -->
+ - [Killing Floor 3&#39;s gruesome art was inspired in part by a Thanksgiving dinner: &#39;My wife was like, please just cook the turkey already&#39;](https://www.pcgamer.com/killing-floor-3s-gruesome-art-was-inspired-in-part-by-a-thanksgiving-dinner-my-wife-was-like-please-just-cook-the-turkey-already)
+ - [Path of Exile&#39;s latest League stuffs a full-on autobattler into the long-running ARPG](https://www.pcgamer.com/path-of-exiles-latest-league-stuffs-a-full-on-autobattler-into-the-long-running-arpg)
+ - [This Wordle-like game makes you catch and guess Stardew Valley&#39;s fish](https://www.pcgamer.com/this-wordle-like-game-makes-you-catch-and-guess-stardew-valleys-fish)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
