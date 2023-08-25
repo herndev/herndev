@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
- - ⏩ [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 👉 [Must be high on meth](http://9gag.com/gag/adP4O2j)<!-- MEMES:END -->
+ - 💣 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
+ - ⏩ [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
 
 ---
 
