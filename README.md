@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: Worldcoin&#39;s WLD fell 9.1% in the past 24 hours to ~$1.33, down 43.6% since its launch a month ago, after scrutiny over data collection and privacy &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230825/p5#a230825p5)
- - [Source: Tencent Music, Cloud Music, and more scrap their virtual lucky draws and other features at a hefty cost, as China cracks down on online gambling &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230825/p4#a230825p4)
- - [Apple&#39;s Beats signs 15 college athletes to endorsement deals](https://appleinsider.com/articles/23/08/25/apples-beats-signs-15-college-athletes-to-endorsement-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm is laying the foundation for a proper Steam Deck rival](https://www.androidauthority.com/qualcomm-steam-deck-rival-gaming-handheld-3358030/)
+ - [Citizen suspends sales of its $350 CZ Smart smartwatch, launched on May 1; review units had extensive issues, including freezing and inaccurate tracking data &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/230825/p6#a230825p6)
+ - [Snapdragon 8 Gen 3 spotted in alleged benchmark listing, more details revealed](https://www.androidauthority.com/snapdragon-8-gen-3-alleged-benchmark-listing-3358037/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
