@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core 6 chest locations: Where to find hidden mech parts](https://www.pcgamer.com/armored-core-6-part-locations-where-to-find-chest-parts)
- - [Here’s where you can pre-order the Super Mario RPG](https://www.polygon.com/deals/23769911/super-mario-rpg-pre-order-buy-nintendo-switch)
- - [Star Wars was never better than when the Old Republic was canon](https://www.polygon.com/23845775/star-wars-old-republic-hella-tight)<!-- GAME:END -->
+ - [Young Super Smash Bros. Melee Player Takes Selfie Mid-Match, Owns](https://kotaku.com/super-smash-bros-melee-con-og-kid-dj-dodd-jigglypuff-1850776102?utm_source=regular)
+ - [Warhammer 40K: Space Marine is a rare throwback to the Xbox 360-era shooter, but it&#39;s missing some of what made those games great](https://www.pcgamer.com/warhammer-40k-space-marine-is-a-rare-throwback-to-the-xbox-360-era-shooter-but-its-missing-some-of-what-made-those-games-great)
+ - [Someone Has Already Modded GTA’s CJ Into Armored Core VI](https://kotaku.com/armored-core-6-acvi-fromsoft-gta-san-andreas-cj-mod-pc-1850776143?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
