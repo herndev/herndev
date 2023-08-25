@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Baldur&#39;s Gate Gazetteer lets you continue your Baldur&#39;s Gate 3 adventures in tabletop D&amp;D—and you can grab it for free right now](https://www.pcgamer.com/the-baldurs-gate-gazetteer-lets-you-continue-your-baldurs-gate-3-adventures-in-tabletop-danddand-you-can-grab-it-for-free-right-now)
  - [WoW Classic&#39;s hardcore servers have launched, giving Blizzard fans a whole new way to punish themselves](https://www.pcgamer.com/wow-classics-hardcore-servers-have-launched-giving-blizzard-fans-a-whole-new-way-to-punish-themselves)
- - [MSI accidentally releases next-gen Intel Raptor Lake CPU specs and performance](https://www.pcgamer.com/msi-accidentally-releases-next-gen-intel-raptor-lake-cpu-specs)
- - [Phil Spencer Interview: Returning to gamescom, Our Commitment to New Games, and the Special Feeling of Showing STALKER 2](https://news.xbox.com/en-us/2023/08/25/phil-spencer-interview-gamescom-stalker/)<!-- GAME:END -->
+ - [MSI accidentally releases next-gen Intel Raptor Lake CPU specs and performance](https://www.pcgamer.com/msi-accidentally-releases-next-gen-intel-raptor-lake-cpu-specs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
