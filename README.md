@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Five Takeaways About Its Climactic Future](https://news.xbox.com/en-us/2023/08/25/destiny-2-five-takeaways-about-its-climactic-future/)
- - [Armored Core 6: How to beat the Sea Spider boss](https://www.pcgamer.com/armored-core-sea-spider-how-to-beat-best-build)
- - [Armored Core 6’s Balteus is the Margit, the Fell Omen of the mech world](https://www.polygon.com/23844776/armored-core-6-balteus-boss-margit-elden-ring)<!-- GAME:END -->
+ - [How To Beat Armored Core VI’s Super-Hard Chapter One Boss Fight](https://kotaku.com/armored-core-6-chapter-one-balteus-boss-fight-tips-1850774281?utm_source=regular)
+ - [7 years after launch, No Man&#39;s Sky adds its first new race in its biggest update of the year](https://www.pcgamer.com/7-years-after-launch-no-mans-sky-adds-its-first-new-race-in-its-biggest-update-of-the-year)
+ - [Armored Core 6 PCA Enforcement Squad guide: How to beat the &#39;Steal the Survey Data&#39; mission](https://www.pcgamer.com/armored-core-6-how-to-beat-pca-enforcement-squad-steal-the-survey-mission-best-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
