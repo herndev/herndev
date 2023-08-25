@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Google squeaks in one more Android 14 beta update, this time to 5.2](https://www.androidauthority.com/android-14-beta-5-2-3358201/)
- - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Office Pro for just $34.97 is the ultimate back-to-school deal](https://www.androidauthority.com/microsoft-office-pro-deal-3358204/)
+ - [Instacart files for a US IPO, reports 2022 revenue up 39% YoY to $2.55B, $428M net income, up from a $73M loss in 2021, and H1 2023 revenue up 31% YoY to $1.48B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
+ - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
