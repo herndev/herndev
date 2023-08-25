@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emsisoft: the MOVEit Transfer breach has so far impacted 1,000+ known victim organizations, of which 83.9% are based in the US, and 60M+ individuals &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230825/p16#a230825p16)
- - [Early Labor Day deals knock up to $1,600 off Macs, Apple Studio Display at B&amp;H Photo](https://appleinsider.com/articles/23/08/25/early-labor-day-deals-knock-up-to-1600-off-macs-apple-studio-display-at-bh-photo?utm_medium=rss)
- - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Sources: a company spending $800M+ to buy thousands of acres to build a new Bay Area city is backed by Michael Moritz, Reid Hoffman, Marc Andreessen, and others &lpar;New York Times&rpar;](http://www.techmeme.com/230825/p18#a230825p18)
+ - [E-commerce marketing company Klaviyo files for a US IPO and reports H1 2023 revenue of ~$321M, vs. ~$208M YoY, and $15.2M net income, vs. a $24.6M net loss YoY &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230825/p17#a230825p17)
+ - [Licenses to Microsoft Office 2021 for Windows or Mac Are Back Down to $35 Right Now     - CNET](https://www.cnet.com/deals/licenses-to-microsoft-office-2021-for-windows-or-mac-are-back-down-to-35-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
