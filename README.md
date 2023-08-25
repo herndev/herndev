@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
- - [Arm’s IPO will tell us how much AI hype matters](https://www.theverge.com/2023/8/25/23844713/arm-ipo-softbank-china-mobile)
- - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [How to change your Mac wallpaper](https://www.theverge.com/23844592/macos-mac-wallpaper-how-to-change-desktop)
+ - [Dropbox blames crypto miners and resellers for ending its unlimited cloud storage plan](https://www.theverge.com/2023/8/25/23845554/dropbox-ending-unlimited-storage-advanced-plan)
+ - [28 Best REI Labor Day Deals &lpar;2023&rpar;: Tents, Sleeping Bags, and Outdoor Gear](https://www.wired.com/story/best-rei-labor-day-deals-outdoor-gear-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
