@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Company Finally Gives Us What We Want: Penny&#39;s Eevee Backpack](https://kotaku.com/pokemon-scarlet-violet-penny-eevee-backpack-bag-buy-1850775631?utm_source=regular)
- - [Kotaku’s Weekend Guide: 6 Games To Close Out August](https://kotaku.com/games-to-play-diablo-baldurs-gate-3-sprawl-rdr2-1850775483?utm_source=regular)
- - [The Barbz Are Taking Over Call Of Duty: Warzone](https://kotaku.com/nicki-minaj-barbie-call-of-duty-skin-price-how-much-1850775467?utm_source=regular)<!-- GAME:END -->
+ - [Armored Core 6 chest locations: Where to find hidden mech parts](https://www.pcgamer.com/armored-core-6-part-locations-where-to-find-chest-parts)
+ - [Here’s where you can pre-order the Super Mario RPG](https://www.polygon.com/deals/23769911/super-mario-rpg-pre-order-buy-nintendo-switch)
+ - [Star Wars was never better than when the Old Republic was canon](https://www.polygon.com/23845775/star-wars-old-republic-hella-tight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
