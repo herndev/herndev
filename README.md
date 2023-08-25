@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Ideogram raised a $16.5M seed led by a16z and Index Ventures and launches a public beta of its generative AI-based text-to-image product &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230824/p32#a230824p32)
- - [Trump&#39;s Prosecution Is America&#39;s Last Hope](https://www.wired.com/story/donald-trump-georgia-indictment-arrest/)
- - [Meta is pulling the plug on Messenger Lite on Android](https://www.theverge.com/2023/8/24/23845179/meta-messenger-lite-android-google-play-shutting-down)<!-- TECH:END -->
+ - [Reddit launches the &quot;Mod Helper Program&quot;, a tiered system that rewards moderators with trophies and flairs for helping other moderators in r/ModSupport &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230824/p33#a230824p33)
+ - [Donald Trump returns to X / Twitter to post his mug shot](https://www.theverge.com/2023/8/24/23468581/donald-trump-twitter-x-return-mug-shot)
+ - [Toronto-based Ideogram raised a $16.5M seed led by a16z and Index Ventures and launches a public beta of its generative AI-based text-to-image product &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230824/p32#a230824p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
