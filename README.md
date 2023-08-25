@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Killing Floor 3&#39;s gruesome art was inspired in part by a Thanksgiving dinner: &#39;My wife was like, please just cook the turkey already&#39;](https://www.pcgamer.com/killing-floor-3s-gruesome-art-was-inspired-in-part-by-a-thanksgiving-dinner-my-wife-was-like-please-just-cook-the-turkey-already)
- - [Path of Exile&#39;s latest League stuffs a full-on autobattler into the long-running ARPG](https://www.pcgamer.com/path-of-exiles-latest-league-stuffs-a-full-on-autobattler-into-the-long-running-arpg)
- - [This Wordle-like game makes you catch and guess Stardew Valley&#39;s fish](https://www.pcgamer.com/this-wordle-like-game-makes-you-catch-and-guess-stardew-valleys-fish)<!-- GAME:END -->
+ - [Now here&#39;s a Gamescom trailer no one will accuse of looking like other Gamescom trailers](https://www.pcgamer.com/dome-king-cabbage-gamescom-trailer)
+ - [Retro FPS Amid Evil borrowed a famous anime attack to create one of the most satisfying videogame punches ever](https://www.pcgamer.com/retro-fps-amid-evil-borrowed-a-famous-anime-attack-to-create-one-of-the-most-satisfying-videogame-punches-ever)
+ - [The Flash, Meg 2, Past Lives, and every new movie to watch at home this weekend](https://www.polygon.com/2023/8/25/23839877/new-movies-watch-the-flash-netflix-you-are-so-not-invited-to-my-bat-mitzvah-past-lives-meg-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
