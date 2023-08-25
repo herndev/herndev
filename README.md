@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - ⏩ [Holup](http://9gag.com/gag/aGENEW5)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - ⏩ [Title](http://9gag.com/gag/aoKqRMn)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 
