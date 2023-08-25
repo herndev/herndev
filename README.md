@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holup](http://9gag.com/gag/aGENEW5)
- - ⏩ [This has me laughing](http://9gag.com/gag/aNw29m4)
- - 👉 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)<!-- MEMES:END -->
+ - 💣 [There is no cure for them...they are lost...](http://9gag.com/gag/aqepynQ)
+ - ⏩ [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
+ - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
 
 ---
 
