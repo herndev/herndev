@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is expanding its ads transparency center to comply with EU rules](https://www.theverge.com/2023/8/24/23845117/google-expanding-ads-transparency-center-comply-eu-dsa)
- - [Mastercard and Binance plan to end their card partnership in Latin America and Middle East on September 22; Visa stopped issuing Binance cards in Europe in July &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230824/p31#a230824p31)
- - [Dune: Part Two has been delayed](https://www.theverge.com/2023/8/24/23845060/dune-part-two-delay-godzilla-x-kong-lord-of-the-rings-war-of-the-rohirrim)<!-- TECH:END -->
+ - [Toronto-based Ideogram raised a $16.5M seed led by a16z and Index Ventures and launches a public beta of its generative AI-based text-to-image product &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230824/p32#a230824p32)
+ - [Trump&#39;s Prosecution Is America&#39;s Last Hope](https://www.wired.com/story/donald-trump-georgia-indictment-arrest/)
+ - [Meta is pulling the plug on Messenger Lite on Android](https://www.theverge.com/2023/8/24/23845179/meta-messenger-lite-android-google-play-shutting-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
