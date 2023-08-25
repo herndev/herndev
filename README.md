@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14&#39;s first shapeshifting mount will let you blow yourself up, and it&#39;s free until October](https://www.pcgamer.com/final-fantasy-14s-first-shapeshifting-mount-will-let-you-blow-yourself-up-and-its-free-until-october)
- - [PDP put dioramas in its new Switch and Xbox controllers](https://www.polygon.com/deals/23844575/pdp-realmz-xbox-nintendo-switch-controller-sonic-pikmin-pre-order-buy)
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
+ - [Destiny 2: Five Takeaways About Its Climactic Future](https://news.xbox.com/en-us/2023/08/25/destiny-2-five-takeaways-about-its-climactic-future/)
+ - [Armored Core 6: How to beat the Sea Spider boss](https://www.pcgamer.com/armored-core-sea-spider-how-to-beat-best-build)
+ - [Armored Core 6’s Balteus is the Margit, the Fell Omen of the mech world](https://www.polygon.com/23844776/armored-core-6-balteus-boss-margit-elden-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
