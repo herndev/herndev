@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They Cloned Tyrone director Juel Taylor says watch these movies next](https://www.polygon.com/what-to-watch/23840326/they-cloned-tyrone-movie-netflix-inspirations-movies-like-it)
- - [Aurora’s One Piece song nods to anime tradition and pays off big in the Netflix show](https://www.polygon.com/23845202/one-piece-song-aurora-my-sails-are-set-netflix)
- - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)<!-- GAME:END -->
+ - [The best Animal Crossing gifts for fans](https://www.polygon.com/23827578/animal-crossing-gifts-best-music-clothes-games-books)
+ - [Polygon’s 2023 summer movie festival finale: Ernest &amp; Celestine](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Baldur’s Gate 3’s First Big Patch Covers ‘Over 1000’ Problems](https://kotaku.com/baldurs-gate-3-steam-patch-romance-bg3-ps5-release-date-1850774169?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
