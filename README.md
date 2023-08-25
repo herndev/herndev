@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13T unboxing video reveals almost all ahead of launch](https://www.androidauthority.com/xiaomi-13t-unboxing-video-3357981/)
- - [New iPhone 15 Pro colors to replace Gold and Purple options](https://www.androidauthority.com/apple-iphone-15-pro-new-colors-3357988/)
- - [Samsung is changing how storage is shown in One UI 6](https://www.androidauthority.com/samsung-one-ui-6-storage-change-3357984/)<!-- TECH:END -->
+ - [Sony Xperia 5 V: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/sony-xperia-5-v-3351427/)
+ - [Sony will launch the Xperia 5 V on this date come September](https://www.androidauthority.com/sony-xperia-5-v-launch-date-3358018/)
+ - [Indian instant grocery delivery startup Zepto raised a $200M Series E led by StepStone Group at a $1.4B valuation, bringing its total funding to $560M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230825/p3#a230825p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
