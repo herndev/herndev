@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - ⏩ [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
+ - 💣 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - ⏩ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
 
 ---
 
