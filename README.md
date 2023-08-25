@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU’s Digital Services Act goes into effect today: here’s what that means](https://www.theverge.com/23845672/eu-digital-services-act-explained)
- - [The EU&#39;s DSA goes into effect, forcing platforms like Facebook, Instagram, YouTube, and TikTok to let users opt out of profiling-based content recommendations &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230825/p13#a230825p13)
- - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Google squeaks in one more Android 14 beta update, this time to 5.2](https://www.androidauthority.com/android-14-beta-5-2-3358201/)
+ - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
