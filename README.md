@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
- - ⏩ [Title](http://9gag.com/gag/aoKqRMn)
- - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
+ - 💣 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - ⏩ [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
 
 ---
 
