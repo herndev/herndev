@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Baldur&#39;s Gate Gazetteer lets you continue your Baldur&#39;s Gate 3 adventures in tabletop D&amp;D—and you can grab it for free right now](https://www.pcgamer.com/the-baldurs-gate-gazetteer-lets-you-continue-your-baldurs-gate-3-adventures-in-tabletop-danddand-you-can-grab-it-for-free-right-now)
- - [WoW Classic&#39;s hardcore servers have launched, giving Blizzard fans a whole new way to punish themselves](https://www.pcgamer.com/wow-classics-hardcore-servers-have-launched-giving-blizzard-fans-a-whole-new-way-to-punish-themselves)
- - [MSI accidentally releases next-gen Intel Raptor Lake CPU specs and performance](https://www.pcgamer.com/msi-accidentally-releases-next-gen-intel-raptor-lake-cpu-specs)<!-- GAME:END -->
+ - [Citizen Sleeper 2: Starward Vector is coming to Game Pass on day one, and will be inspired by Cowboy Bebop and Firefly](https://www.pcgamer.com/citizen-sleeper-2-starward-vector-is-coming-to-game-pass-on-day-one-and-will-be-inspired-by-cowboy-bebop-and-firefly)
+ - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
+ - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
