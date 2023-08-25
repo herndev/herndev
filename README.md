@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi 13T unboxing video reveals almost all ahead of launch](https://www.androidauthority.com/xiaomi-13t-unboxing-video-3357981/)
  - [New iPhone 15 Pro colors to replace Gold and Purple options](https://www.androidauthority.com/apple-iphone-15-pro-new-colors-3357988/)
- - [Samsung is changing how storage is shown in One UI 6](https://www.androidauthority.com/samsung-one-ui-6-storage-change-3357984/)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Samsung is changing how storage is shown in One UI 6](https://www.androidauthority.com/samsung-one-ui-6-storage-change-3357984/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
