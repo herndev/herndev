@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #797: Friday, August 25](https://www.pcgamer.com/wordle-answer-today-hint-797-august-25)
  - [Gigabyte&#39;s new Z790 X motherboards are all about speed](https://www.pcgamer.com/gigabytes-new-z790-x-motherboards-are-all-about-speed)
- - [Armored Core 6 Smart Cleaner boss: How to beat the lava-spewing Chapter 2 monster](https://www.pcgamer.com/armored-core-6-cleaner-boss-how-to-beat-best-build)
- - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
+ - [Armored Core 6 Smart Cleaner boss: How to beat the lava-spewing Chapter 2 monster](https://www.pcgamer.com/armored-core-6-cleaner-boss-how-to-beat-best-build)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
