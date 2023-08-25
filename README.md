@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm is laying the foundation for a proper Steam Deck rival](https://www.androidauthority.com/qualcomm-steam-deck-rival-gaming-handheld-3358030/)
- - [Citizen suspends sales of its $350 CZ Smart smartwatch, launched on May 1; review units had extensive issues, including freezing and inaccurate tracking data &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/230825/p6#a230825p6)
- - [Snapdragon 8 Gen 3 spotted in alleged benchmark listing, more details revealed](https://www.androidauthority.com/snapdragon-8-gen-3-alleged-benchmark-listing-3358037/)<!-- TECH:END -->
+ - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
+ - [Arm’s IPO will tell us how much AI hype matters](https://www.theverge.com/2023/8/25/23844713/arm-ipo-softbank-china-mobile)
+ - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
