@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Part Two has been pushed back to 2024](https://www.polygon.com/23845035/dune-2-release-date-delay-part-two-2024)
- - [The Legend of Zelda looks perfectly campy in fan-made ’80s dark fantasy trailer](https://www.polygon.com/zelda/23845006/legend-of-zelda-fan-film-trailer-80s-dark-fantasy)
- - [I Can’t Stop Playing This Titanfall-F.E.A.R.-Killzone-Doom-Like](https://kotaku.com/i-can-t-stop-playing-this-titanfall-f-e-a-r-killzone-d-1850772277?utm_source=regular)<!-- GAME:END -->
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
+ - [Amazon&#39;s First Official Fallout TV Show Artwork Is An AI-Looking Eyesore](https://kotaku.com/fallout-tv-amazon-ai-art-bethesda-strike-release-date-1850772308?utm_source=regular)
+ - [All the Dune: Part Two news that’s been revealed so far](https://www.polygon.com/23709799/dune-2-release-date-cast-news-characters-story-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
