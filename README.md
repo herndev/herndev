@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Cricket now offers the ability to pay for multiple months and earn big discounts](https://www.androidauthority.com/cricket-wireless-pay-in-advance-3358140/)
- - [Sources: Swiggy, which was valued at $10.7B in 2022, is considering an IPO in 2024, after putting the plans on hold earlier due to market conditions &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230825/p11#a230825p11)<!-- TECH:END -->
+ - [SwitchBot’s new robot vacuum mop is the closest thing yet to a sci-fi cleaning robot](https://www.theverge.com/23845579/switchbot-s10-robot-vacuum-mop-launch-ifa)
+ - [AMD claims there’s nothing stopping Starfield from adding Nvidia DLSS](https://www.theverge.com/2023/8/25/22372077/amd-starfield-dlss-fsr-exclusive-frank-azor)
+ - [AMD announces Radeon RX 7800 XT and 7700 XT, starting at $449](https://www.theverge.com/22327528/amd-radeon-rx-7800-7700-xt-gpu-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
