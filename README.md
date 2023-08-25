@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office Pro for just $34.97 is the ultimate back-to-school deal](https://www.androidauthority.com/microsoft-office-pro-deal-3358204/)
- - [Instacart files for a US IPO, reports 2022 revenue up 39% YoY to $2.55B, $428M net income, up from a $73M loss in 2021, and H1 2023 revenue up 31% YoY to $1.48B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
- - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)<!-- TECH:END -->
+ - [Emsisoft: the MOVEit Transfer breach has so far impacted 1,000+ known victim organizations, of which 83.9% are based in the US, and 60M+ individuals &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230825/p16#a230825p16)
+ - [Early Labor Day deals knock up to $1,600 off Macs, Apple Studio Display at B&amp;H Photo](https://appleinsider.com/articles/23/08/25/early-labor-day-deals-knock-up-to-1600-off-macs-apple-studio-display-at-bh-photo?utm_medium=rss)
+ - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
