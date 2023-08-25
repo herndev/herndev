@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
- - ⏩ [I heard some men there too](http://9gag.com/gag/aDYN8jx)
- - 👉 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)<!-- MEMES:END -->
+ - 💣 [I heard some men there too](http://9gag.com/gag/aDYN8jx)
+ - ⏩ [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
+ - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
 
 ---
 
