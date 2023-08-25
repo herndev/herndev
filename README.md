@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Title](http://9gag.com/gag/aoKqRMn)
- - ⏩ [I would...](http://9gag.com/gag/abvmWBX)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - ⏩ [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 
