@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A tittle](http://9gag.com/gag/aPgdmgB)
- - ⏩ [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
+ - 💣 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
+ - ⏩ [I heard some men there too](http://9gag.com/gag/aDYN8jx)
  - 👉 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)<!-- MEMES:END -->
 
 ---
