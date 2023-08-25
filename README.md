@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Animal Crossing gifts for fans](https://www.polygon.com/23827578/animal-crossing-gifts-best-music-clothes-games-books)
- - [Polygon’s 2023 summer movie festival finale: Ernest &amp; Celestine](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Baldur’s Gate 3’s First Big Patch Covers ‘Over 1000’ Problems](https://kotaku.com/baldurs-gate-3-steam-patch-romance-bg3-ps5-release-date-1850774169?utm_source=regular)<!-- GAME:END -->
+ - [Final Fantasy 14&#39;s first shapeshifting mount will let you blow yourself up, and it&#39;s free until October](https://www.pcgamer.com/final-fantasy-14s-first-shapeshifting-mount-will-let-you-blow-yourself-up-and-its-free-until-october)
+ - [PDP put dioramas in its new Switch and Xbox controllers](https://www.polygon.com/deals/23844575/pdp-realmz-xbox-nintendo-switch-controller-sonic-pikmin-pre-order-buy)
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
