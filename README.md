@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - ⏩ [Title](http://9gag.com/gag/aoKqRMn)
- - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
+ - 💣 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - ⏩ [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [I would...](http://9gag.com/gag/abvmWBX)<!-- MEMES:END -->
 
 ---
 
