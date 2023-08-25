@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
- - [Amazon&#39;s First Official Fallout TV Show Artwork Is An AI-Looking Eyesore](https://kotaku.com/fallout-tv-amazon-ai-art-bethesda-strike-release-date-1850772308?utm_source=regular)
- - [All the Dune: Part Two news that’s been revealed so far](https://www.polygon.com/23709799/dune-2-release-date-cast-news-characters-story-trailer)<!-- GAME:END -->
+ - [Gigabyte&#39;s new Z790 X motherboards are all about speed](https://www.pcgamer.com/gigabytes-new-z790-x-motherboards-are-all-about-speed)
+ - [Armored Core 6 Smart Cleaner boss: How to beat the lava-spewing Chapter 2 monster](https://www.pcgamer.com/armored-core-6-cleaner-boss-how-to-beat-best-build)
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
