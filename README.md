@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper 2: Starward Vector is coming to Game Pass on day one, and will be inspired by Cowboy Bebop and Firefly](https://www.pcgamer.com/citizen-sleeper-2-starward-vector-is-coming-to-game-pass-on-day-one-and-will-be-inspired-by-cowboy-bebop-and-firefly)
- - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
- - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
+ - [They Cloned Tyrone director Juel Taylor says watch these movies next](https://www.polygon.com/what-to-watch/23840326/they-cloned-tyrone-movie-netflix-inspirations-movies-like-it)
+ - [Aurora’s One Piece song nods to anime tradition and pays off big in the Netflix show](https://www.polygon.com/23845202/one-piece-song-aurora-my-sails-are-set-netflix)
+ - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
