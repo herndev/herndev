@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s CMF smartwatch, earbuds, and more leak, could launch next month](https://www.androidauthority.com/nothing-smartwatch-earbuds-cmf-3358681/)
- - [This might be the iPhone 15’s USB-C port](https://www.theverge.com/2023/8/28/23849103/iphone-15-usb-c-port-leather-alternative-woven-case-apple-rumor-leak)
- - [Sources: Intenseye, a workplace safety AI startup, is raising a $65M Series B led by Lightspeed at a ~$300M valuation, up from a ~$100M valuation in 2021 &lpar;Forbes&rpar;](http://www.techmeme.com/230828/p9#a230828p9)<!-- TECH:END -->
+ - [How Crew-7 astronauts will study the effects of spaceflight on the human body](https://www.theverge.com/2023/8/28/23849293/crew-7-astronauts-study-effects-spaceflight-human-body)
+ - [Document: Lenovo plans to unveil on September 1 a &amp;euro;799 Legion Go gaming handheld, with an 8.8&quot; 144Hz 2560&amp;times;1600 display and 16GB RAM, and &amp;euro;499 Legion AR glasses &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230828/p11#a230828p11)
+ - [The US SEC charges Impact Theory, which sold NFTs, with offering unregistered securities, in a first; the LA-based entertainment firm agreed to pay a $6.1M fine &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230828/p10#a230828p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
