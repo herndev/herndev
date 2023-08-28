@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;August 28, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-28-2023)
  - [Diablo 4&#39;s toning down monsters&#39; power to slow, stun, chill and otherwise cramp your style](https://www.pcgamer.com/diablo-4s-toning-down-monsters-power-to-slow-stun-chill-and-otherwise-cramp-your-style)
- - [The mod that saves one of the best RPGs ever made quietly added a mini-campaign where you play as the &#39;good guys&#39;](https://www.pcgamer.com/the-mod-that-saves-one-of-the-best-rpgs-ever-made-quietly-added-a-mini-campaign-where-you-play-as-the-good-guys)
- - [Soulframe&#39;s shaping up to be a slower-paced, more grounded fantasy from Warframe studio Digital Extremes](https://www.pcgamer.com/soulframes-shaping-up-to-be-a-slower-paced-more-grounded-fantasy-from-warframe-studio-digital-extremes)<!-- GAME:END -->
+ - [The mod that saves one of the best RPGs ever made quietly added a mini-campaign where you play as the &#39;good guys&#39;](https://www.pcgamer.com/the-mod-that-saves-one-of-the-best-rpgs-ever-made-quietly-added-a-mini-campaign-where-you-play-as-the-good-guys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
