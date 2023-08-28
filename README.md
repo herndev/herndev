@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aoKqRMn)
- - ⏩ [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
- - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
+ - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - ⏩ [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
 
 ---
 
