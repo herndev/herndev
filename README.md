@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
- - ⏩ [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 💣 [Nobody cares, but I&#39;m f**king proud.](http://9gag.com/gag/a8qXnxY)
+ - ⏩ [Weren&#39;t expecting that, were you?](http://9gag.com/gag/adP4rPj)
+ - 👉 [Silence](http://9gag.com/gag/aWGNPP2)<!-- MEMES:END -->
 
 ---
 
