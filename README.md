@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody cares, but I&#39;m f**king proud.](http://9gag.com/gag/a8qXnxY)
- - ⏩ [Weren&#39;t expecting that, were you?](http://9gag.com/gag/adP4rPj)
- - 👉 [Silence](http://9gag.com/gag/aWGNPP2)<!-- MEMES:END -->
+ - 💣 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - ⏩ [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 
