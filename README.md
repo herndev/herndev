@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samba de Amigo just isn’t quite the same without maracas controllers](https://www.theverge.com/23848754/samba-de-amigo-party-central-review-nintendo-switch)
- - [The end of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
- - [Samsung&#39;s ViewFinity S9 is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Analogue is making a ‘highly limited’ Pocket that glows in the dark](https://www.theverge.com/2023/8/28/23848739/analogue-pocket-glow-in-the-dark-preorders)
+ - [Tech leaders have spent $800 million trying to build a new city beside San Francisco](https://www.theverge.com/2023/8/28/23848833/flannery-associates-tech-investor-city-san-fracisco)
+ - [Daily deals Aug. 28: $1,500 off M1 Max MacBook Pro, Apple Watch Series 7 from $223, MacBooks from $470, more](https://appleinsider.com/articles/23/08/28/daily-deals-aug-28-1500-off-m1-max-macbook-pro-apple-watch-series-7-from-223-macbooks-from-470-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
