@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - ⏩ [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 👉 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)<!-- MEMES:END -->
+ - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
+ - ⏩ [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 👉 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)<!-- MEMES:END -->
 
 ---
 
