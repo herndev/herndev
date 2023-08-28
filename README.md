@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now here&#39;s a Gamescom trailer no one will accuse of looking like other Gamescom trailers](https://www.pcgamer.com/dome-king-cabbage-gamescom-trailer)
- - [Retro FPS Amid Evil borrowed a famous anime attack to create one of the most satisfying videogame punches ever](https://www.pcgamer.com/retro-fps-amid-evil-borrowed-a-famous-anime-attack-to-create-one-of-the-most-satisfying-videogame-punches-ever)
- - [The Flash, Meg 2, Past Lives, and every new movie to watch at home this weekend](https://www.polygon.com/2023/8/25/23839877/new-movies-watch-the-flash-netflix-you-are-so-not-invited-to-my-bat-mitzvah-past-lives-meg-2)<!-- GAME:END -->
+ - [Diablo 4&#39;s toning down monsters&#39; power to slow, stun, chill and otherwise cramp your style](https://www.pcgamer.com/diablo-4s-toning-down-monsters-power-to-slow-stun-chill-and-otherwise-cramp-your-style)
+ - [The mod that saves one of the best RPGs ever made quietly added a mini-campaign where you play as the &#39;good guys&#39;](https://www.pcgamer.com/the-mod-that-saves-one-of-the-best-rpgs-ever-made-quietly-added-a-mini-campaign-where-you-play-as-the-good-guys)
+ - [Soulframe&#39;s shaping up to be a slower-paced, more grounded fantasy from Warframe studio Digital Extremes](https://www.pcgamer.com/soulframes-shaping-up-to-be-a-slower-paced-more-grounded-fantasy-from-warframe-studio-digital-extremes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
