@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Leaker Booked On Felony Charge After Allegedly Trying To Sell Stolen Copies](https://kotaku.com/starfield-leak-felony-constellation-edition-play-early-1850773855?utm_source=regular)
- - [Someone At The Pokémon Company Hates Regigigas, And It&#39;s Actually Hilarious](https://kotaku.com/pokemon-regigigas-slow-start-ability-legends-arceus-go-1850774664?utm_source=regular)
- - [How Banana Fish and Attack on Titan fandoms created a star](https://www.polygon.com/23843148/ricky-montgomery-tiktok-anime-edits-mr-loverman-boy-toy)<!-- GAME:END -->
+ - [Everything you need to know about One Piece before watching the Netflix show](https://www.polygon.com/entertainment/23845804/one-piece-explained-anime-manga-netflix-live-action)
+ - [Deep sea deception game Underlab is Among Us but with flamethrowers](https://www.pcgamer.com/deep-sea-deception-game-underlab-is-among-us-but-with-flamethrowers)
+ - [Starfield leaker faces felony charges for stealing 67 copies of unreleased game](https://www.polygon.com/23848817/starfield-leak-felony-theft-arrested)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
