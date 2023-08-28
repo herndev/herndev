@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk Booed At Valorant Tournament](https://kotaku.com/elon-musk-valorant-champions-2023-vct-final-prx-eg-boo-1850780528?utm_source=regular)
- - [Robocop: Rogue City is part man, part machine, and delayed until November](https://www.pcgamer.com/robocop-rogue-city-is-part-man-part-machine-and-delayed-until-november)
- - [This New Game Is A Great Tribute To Early Online Gaming Communities](https://kotaku.com/videoverse-game-review-online-gaming-forums-vn-kinmoku-1850780173?utm_source=regular)<!-- GAME:END -->
+ - [Struggling with Armored Core 6? Do the coolest thing possible](https://www.polygon.com/23849203/armored-core-6-best-boss-fight-strategy)
+ - [Yet Another Rockstar Games Veteran Has Left The Company](https://kotaku.com/rockstar-games-gta-6-unsworth-vp-senior-writer-left-1850780928?utm_source=regular)
+ - [This Queer, Witchy Deck Builder Is The Perfect Cozy Fall Game](https://kotaku.com/cosmic-wheel-sisterhood-switch-cozy-games-steam-romance-1850780918?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
