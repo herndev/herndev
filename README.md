@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Game Is A Great Tribute To Early Online Gaming Communities](https://kotaku.com/videoverse-game-review-online-gaming-forums-vn-kinmoku-1850780173?utm_source=regular)
- - [Maybe Don’t Bring Astarion On His Personal Quest In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-astarion-cazador-szarr-boss-fight-quest-1850780342?utm_source=regular)
- - [Starfield Fans Are Melting Down Over ‘Invisible Walls’ And The Possible Limits Of Exploration](https://kotaku.com/starfield-scifi-open-world-rpg-exploration-planets-leak-1850780248?utm_source=regular)<!-- GAME:END -->
+ - [Elon Musk Booed At Valorant Tournament](https://kotaku.com/elon-musk-valorant-champions-2023-vct-final-prx-eg-boo-1850780528?utm_source=regular)
+ - [Robocop: Rogue City is part man, part machine, and delayed until November](https://www.pcgamer.com/robocop-rogue-city-is-part-man-part-machine-and-delayed-until-november)
+ - [This New Game Is A Great Tribute To Early Online Gaming Communities](https://kotaku.com/videoverse-game-review-online-gaming-forums-vn-kinmoku-1850780173?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
