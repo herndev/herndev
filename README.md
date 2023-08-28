@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about One Piece before watching the Netflix show](https://www.polygon.com/entertainment/23845804/one-piece-explained-anime-manga-netflix-live-action)
- - [Deep sea deception game Underlab is Among Us but with flamethrowers](https://www.pcgamer.com/deep-sea-deception-game-underlab-is-among-us-but-with-flamethrowers)
- - [Starfield leaker faces felony charges for stealing 67 copies of unreleased game](https://www.polygon.com/23848817/starfield-leak-felony-theft-arrested)<!-- GAME:END -->
+ - [This New Game Is A Great Tribute To Early Online Gaming Communities](https://kotaku.com/videoverse-game-review-online-gaming-forums-vn-kinmoku-1850780173?utm_source=regular)
+ - [Maybe Don’t Bring Astarion On His Personal Quest In Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-astarion-cazador-szarr-boss-fight-quest-1850780342?utm_source=regular)
+ - [Starfield Fans Are Melting Down Over ‘Invisible Walls’ And The Possible Limits Of Exploration](https://kotaku.com/starfield-scifi-open-world-rpg-exploration-planets-leak-1850780248?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
