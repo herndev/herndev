@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - ⏩ [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
+ - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 👉 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)<!-- MEMES:END -->
 
 ---
 
