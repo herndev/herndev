@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme GT 5 launched: This phone has a Burning Mode](https://www.androidauthority.com/realme-gt-5-3356514/)
- - [Apple could really spruce up the next iPad Pro: M3 chip, OLED, and more expected](https://www.androidauthority.com/apple-ipad-pro-m3-chip-3358502/)
- - [Google Messages could bring satellite texting to 150+ countries at launch](https://www.androidauthority.com/google-messages-satellite-messaging-garmin-3358491/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra could get a brighter display, but ditch the curves](https://www.androidauthority.com/samsung-galaxy-s24-ultra-brighter-flat-display-leak-3358516/)
+ - [A look at the US Air Force&#39;s efforts to build an AI-based air combat system, including drones for as little as $3M apiece that serve pilots as a &quot;loyal wingman&quot; &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/230828/p1#a230828p1)
+ - [Realme GT 5 launched: This phone has a Burning Mode](https://www.androidauthority.com/realme-gt-5-3356514/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
