@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
+ - 💣 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)
+ - ⏩ [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 👉 [Any captain ?](http://9gag.com/gag/aQENVR8)<!-- MEMES:END -->
 
 ---
 
