@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)
- - ⏩ [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - 👉 [Any captain ?](http://9gag.com/gag/aQENVR8)<!-- MEMES:END -->
+ - 💣 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
 
 ---
 
