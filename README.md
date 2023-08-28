@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump&#39;s Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
- - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)
- - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)<!-- TECH:END -->
+ - [In a bid to build buzz, a whole lot of AMC shows are coming to Max ad-free](https://www.theverge.com/2023/8/28/23849509/amc-plus-max-ad-free-demo-the-walking-dead-streaming)
+ - [Sources: Elon Musk, Mark Zuckerberg, Sundar Pichai, Sam Altman, Jensen Huang, and others are expected to attend Sen. Schumer&#39;s closed-door AI forum on Sept. 13 &lpar;Axios&rpar;](http://www.techmeme.com/230828/p13#a230828p13)
+ - [Donald Trumpbests Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
