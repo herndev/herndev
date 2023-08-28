@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
- - ⏩ [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 👉 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)<!-- MEMES:END -->
+ - 💣 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
+ - ⏩ [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
+ - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 ---
 
