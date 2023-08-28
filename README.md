@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - ⏩ [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 👉 [The stare...](http://9gag.com/gag/aqepAZ7)<!-- MEMES:END -->
+ - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - ⏩ [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
 
 ---
 
