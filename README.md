@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 💣 [First photo from India&#39;s moon landing](https://www.reddit.com/r/funny/comments/163k3sx/first_photo_from_indias_moon_landing/)
  - ⏩ [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
+ - 👉 [Goofing around](http://9gag.com/gag/aA0NO3g)<!-- MEMES:END -->
 
 ---
 
