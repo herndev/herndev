@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Google and Meta are the best-paying Big Tech companies for engineers](https://www.theverge.com/2023/8/28/23849005/google-meta-best-paying-big-tech-engineers-blind-survey)
- - [First chance to score savings on the new OnePlus Pad](https://www.androidauthority.com/oneplus-pad-deal-3358669/)<!-- TECH:END -->
+ - [Nothing’s CMF smartwatch, earbuds, and more leak, could launch next month](https://www.androidauthority.com/nothing-smartwatch-earbuds-cmf-3358681/)
+ - [This might be the iPhone 15’s USB-C port](https://www.theverge.com/2023/8/28/23849103/iphone-15-usb-c-port-leather-alternative-woven-case-apple-rumor-leak)
+ - [Sources: Intenseye, a workplace safety AI startup, is raising a $65M Series B led by Lightspeed at a ~$300M valuation, up from a ~$100M valuation in 2021 &lpar;Forbes&rpar;](http://www.techmeme.com/230828/p9#a230828p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
