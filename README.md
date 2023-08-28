@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
  - ⏩ [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
+ - 👉 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)<!-- MEMES:END -->
 
 ---
 
