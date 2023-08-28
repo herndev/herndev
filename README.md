@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Gran Turismo Movie Is Part Cringey Playstation Commercial, Part Endearing Underdog Story](https://kotaku.com/gran-turismo-movie-review-playstation-harbour-polyphony-1850781739?utm_source=regular)
- - [How to beat Balteus in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23848937/armored-core-6-balteus-how-to-beat)
- - [Dark Souls’ Moonlight Greatsword Returns In Armored Core VI](https://kotaku.com/armored-core-6-elden-ring-souls-moonlight-greatsword-1850781734?utm_source=regular)<!-- GAME:END -->
+ - [Diablo 4 will boost XP and gold gains this weekend, which is your chance to change things up](https://www.pcgamer.com/diablo-4-will-boost-xp-and-gold-gains-this-weekend-which-is-your-chance-to-change-things-up)
+ - [$1 Game Pass deal vanishes ahead of Starfield launch](https://www.pcgamer.com/starfield-game-pass-day-one)
+ - [Here’s When You Can Actually Start Playing Starfield](https://kotaku.com/starfield-release-date-early-access-game-pass-premium-1850781812?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
