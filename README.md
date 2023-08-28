@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
- - [iRobot’s two newest Roombas bring more mopping](https://www.theverge.com/2023/8/28/23845899/irobot-roomba-combo-j5-plus-robot-vacuum-mop-price)
- - [UK&#39;s National Air Traffic Services is experiencing network-wide computer failure, as hundreds of flights in and out of the country have been delayed &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/230828/p4#a230828p4)<!-- TECH:END -->
+ - [Samba de Amigo just isn’t quite the same without maracas controllers](https://www.theverge.com/23848754/samba-de-amigo-party-central-review-nintendo-switch)
+ - [The end of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
+ - [Samsung&#39;s ViewFinity S9 is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
