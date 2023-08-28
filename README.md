@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Strategy Fest has kicked off, with discounts of up to 90% off](https://www.polygon.com/deals/23849190/steam-strategy-fest-games-deal-sale)
- - [Arleen Sorkin, the original voice and inspiration for DC’s Harley Quinn, dies at 67](https://www.polygon.com/23849427/arleen-sorkin-harley-quinn-batman-the-animated-series-obituary)
- - [Valorant fans troll Elon Musk, chant ‘Bring back Twitter’ at tournament](https://www.polygon.com/gaming/23849085/elon-musk-valorant-champions-tournament-boos)<!-- GAME:END -->
+ - [The Gran Turismo Movie Is Part Cringey Playstation Commercial, Part Endearing Underdog Story](https://kotaku.com/gran-turismo-movie-review-playstation-harbour-polyphony-1850781739?utm_source=regular)
+ - [How to beat Balteus in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23848937/armored-core-6-balteus-how-to-beat)
+ - [Dark Souls’ Moonlight Greatsword Returns In Armored Core VI](https://kotaku.com/armored-core-6-elden-ring-souls-moonlight-greatsword-1850781734?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
