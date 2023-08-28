@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 💣 [In 1939](http://9gag.com/gag/axon4pD)
+ - ⏩ [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
  - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
