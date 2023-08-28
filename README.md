@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf 4D Kit Review &lpar;2023&rpar;: Fantastic Colors](https://www.wired.com/review/nanoleaf-4d-kit/)
- - [Best Bike Accessories &lpar;2023&rpar;: Helmets, Locks, Pumps, Rain Gear, and More](https://www.wired.com/story/best-bike-accessories/)
- - [Foxconn founder Terry Gou plans to run in Taiwan&#39;s 2024 presidential election as an independent candidate, after an unsuccessful bid in 2019 &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/230828/p2#a230828p2)<!-- TECH:END -->
+ - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
+ - [iRobot’s two newest Roombas bring more mopping](https://www.theverge.com/2023/8/28/23845899/irobot-roomba-combo-j5-plus-robot-vacuum-mop-price)
+ - [UK&#39;s National Air Traffic Services is experiencing network-wide computer failure, as hundreds of flights in and out of the country have been delayed &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/230828/p4#a230828p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
