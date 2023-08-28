@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EvolutionaryScale, founded by members of Meta AI&#39;s recently axed protein-folding team to build biological LLMs, raised a $40M seed at a $200M valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230825/p19#a230825p19)
- - [Your Smartwatch Band Might Be Covered in Harmful Bacteria. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/mobile/your-smartwatch-band-is-probably-covered-in-harmful-bacteria-heres-how-to-clean-it/#ftag=CAD590a51e)
- - [Save Big on Contact Lenses From Warby Parker, ContactsDirect and More     - CNET](https://www.cnet.com/deals/save-big-on-contact-lenses-from-warby-parker-contactsdirect-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How LLMs are transforming computational humor, an AI subfield that uses computers to create jokes, as some artists begin using AI chatbots for improv comedy &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230827/p6#a230827p6)
+ - [NASA’s Crew-7 mission launched four astronauts to the ISS](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
+ - [How to install Apple&#39;s Game Porting Toolkit via a third-party installer](https://appleinsider.com/inside/macos-sonoma/tips/how-to-install-apples-game-porting-toolkit-via-a-third-party-installer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
