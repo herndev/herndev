@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel 14th Gen CPUs are set to receive a price hike](https://www.pcgamer.com/intel-14th-gen-cpus-are-set-to-receive-a-price-hike)
  - [You can run Linux on a Commodore 64 if you really want to](https://www.pcgamer.com/you-can-run-linux-on-a-commodore-64-if-you-really-want-to)
- - [Today&#39;s Wordle hint and answer #800: Monday, August 28](https://www.pcgamer.com/wordle-answer-today-hint-800-august-28)
- - [Five new Steam games you probably missed &lpar;August 28, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-28-2023)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #800: Monday, August 28](https://www.pcgamer.com/wordle-answer-today-hint-800-august-28)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
