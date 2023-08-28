@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 💣 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
  - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)<!-- MEMES:END -->
+ - 👉 [Next level cheating](http://9gag.com/gag/az2DQ6z)<!-- MEMES:END -->
 
 ---
 
