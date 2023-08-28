@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon raises free shipping minimum to $35 for some users](https://www.theverge.com/2023/8/28/23849452/amazon-prime-free-shipping-minimum-order-price-increase)
- - [Lifetime access to Windows 11 Pro is on sale for $32.97 &lpar;83% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Nothing OS 2.0 is starting to rollout to the Nothing Phone 1](https://www.androidauthority.com/nothing-os-2-comes-to-phone-1-3358709/)<!-- TECH:END -->
+ - [Donald Trump&#39;s Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
+ - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)
+ - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
