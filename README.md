@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Struggling with Armored Core 6? Do the coolest thing possible](https://www.polygon.com/23849203/armored-core-6-best-boss-fight-strategy)
- - [Yet Another Rockstar Games Veteran Has Left The Company](https://kotaku.com/rockstar-games-gta-6-unsworth-vp-senior-writer-left-1850780928?utm_source=regular)
- - [This Queer, Witchy Deck Builder Is The Perfect Cozy Fall Game](https://kotaku.com/cosmic-wheel-sisterhood-switch-cozy-games-steam-romance-1850780918?utm_source=regular)<!-- GAME:END -->
+ - [Valorant fans troll Elon Musk, chant ‘Bring back Twitter’ at tournament](https://www.polygon.com/gaming/23849085/elon-musk-valorant-champions-tournament-boos)
+ - [Disney gave Nightmare Before Christmas an incredible upgrade](https://www.polygon.com/23849120/nightmare-before-christmas-4k-bluray-review)
+ - [Armored Core Is So Back And It&#39;s Awesome](https://kotaku.com/armored-core-6-balteus-elden-ring-ps5-steam-reviews-1850781108?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
