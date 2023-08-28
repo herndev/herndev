@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue is making a ‘highly limited’ Pocket that glows in the dark](https://www.theverge.com/2023/8/28/23848739/analogue-pocket-glow-in-the-dark-preorders)
- - [Tech leaders have spent $800 million trying to build a new city beside San Francisco](https://www.theverge.com/2023/8/28/23848833/flannery-associates-tech-investor-city-san-fracisco)
- - [Daily deals Aug. 28: $1,500 off M1 Max MacBook Pro, Apple Watch Series 7 from $223, MacBooks from $470, more](https://appleinsider.com/articles/23/08/28/daily-deals-aug-28-1500-off-m1-max-macbook-pro-apple-watch-series-7-from-223-macbooks-from-470-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Store launches slow down as focus moves to refurbishment](https://appleinsider.com/articles/23/08/28/apple-store-launches-slow-down-as-focus-moves-to-refurbishment?utm_medium=rss)
+ - [Yahoo Mail isn’t dead and adds AI capabilities](https://www.theverge.com/2023/8/28/23848784/yahoo-mail-ai-capabilities-shopping-gift-cards)
+ - [Galaxy S23 FE has been sitting at the FCC since May and just gained approval](https://www.androidauthority.com/galaxy-s23-fe-fcc-3358651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
