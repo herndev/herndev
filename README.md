@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - ⏩ [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
- - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
+ - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
+ - ⏩ [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 
