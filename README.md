@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - ⏩ [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [Next level cheating](http://9gag.com/gag/az2DQ6z)<!-- MEMES:END -->
+ - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - ⏩ [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
 
 ---
 
