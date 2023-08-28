@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Some of you have filthy wearables](https://www.androidauthority.com/clean-wearable-after-workout-poll-results-3358565/)
- - [Apple security chief must face bribery charges over firearms permits](https://appleinsider.com/articles/23/08/28/apple-security-chief-must-face-bribery-charges-over-firearms-permits?utm_medium=rss)
- - [Sexy AI Chatbots Are Creating Thorny Issues for Fandom](https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/)<!-- TECH:END -->
+ - [Nanoleaf 4D Kit Review &lpar;2023&rpar;: Fantastic Colors](https://www.wired.com/review/nanoleaf-4d-kit/)
+ - [Best Bike Accessories &lpar;2023&rpar;: Helmets, Locks, Pumps, Rain Gear, and More](https://www.wired.com/story/best-bike-accessories/)
+ - [Foxconn founder Terry Gou plans to run in Taiwan&#39;s 2024 presidential election as an independent candidate, after an unsuccessful bid in 2019 &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/230828/p2#a230828p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
