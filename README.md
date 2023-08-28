@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - ⏩ [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - ⏩ [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
 
 ---
 
