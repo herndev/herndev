@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
- - ⏩ [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
+ - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - ⏩ [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 👉 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)<!-- MEMES:END -->
 
 ---
 
