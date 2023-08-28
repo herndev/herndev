@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store launches slow down as focus moves to refurbishment](https://appleinsider.com/articles/23/08/28/apple-store-launches-slow-down-as-focus-moves-to-refurbishment?utm_medium=rss)
- - [Yahoo Mail isn’t dead and adds AI capabilities](https://www.theverge.com/2023/8/28/23848784/yahoo-mail-ai-capabilities-shopping-gift-cards)
- - [Galaxy S23 FE has been sitting at the FCC since May and just gained approval](https://www.androidauthority.com/galaxy-s23-fe-fcc-3358651/)<!-- TECH:END -->
+ - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [Google and Meta are the best-paying Big Tech companies for engineers](https://www.theverge.com/2023/8/28/23849005/google-meta-best-paying-big-tech-engineers-blind-survey)
+ - [First chance to score savings on the new OnePlus Pad](https://www.androidauthority.com/oneplus-pad-deal-3358669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
