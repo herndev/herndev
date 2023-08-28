@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
- - ⏩ [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 👉 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)<!-- MEMES:END -->
+ - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - ⏩ [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 👉 [The stare...](http://9gag.com/gag/aqepAZ7)<!-- MEMES:END -->
 
 ---
 
