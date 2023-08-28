@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can run Linux on a Commodore 64 if you really want to](https://www.pcgamer.com/you-can-run-linux-on-a-commodore-64-if-you-really-want-to)
  - [Today&#39;s Wordle hint and answer #800: Monday, August 28](https://www.pcgamer.com/wordle-answer-today-hint-800-august-28)
- - [Five new Steam games you probably missed &lpar;August 28, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-28-2023)
- - [Diablo 4&#39;s toning down monsters&#39; power to slow, stun, chill and otherwise cramp your style](https://www.pcgamer.com/diablo-4s-toning-down-monsters-power-to-slow-stun-chill-and-otherwise-cramp-your-style)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 28, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-28-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
