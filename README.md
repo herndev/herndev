@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant fans troll Elon Musk, chant ‘Bring back Twitter’ at tournament](https://www.polygon.com/gaming/23849085/elon-musk-valorant-champions-tournament-boos)
- - [Disney gave Nightmare Before Christmas an incredible upgrade](https://www.polygon.com/23849120/nightmare-before-christmas-4k-bluray-review)
- - [Armored Core Is So Back And It&#39;s Awesome](https://kotaku.com/armored-core-6-balteus-elden-ring-ps5-steam-reviews-1850781108?utm_source=regular)<!-- GAME:END -->
+ - [Steam’s Strategy Fest has kicked off, with discounts of up to 90% off](https://www.polygon.com/deals/23849190/steam-strategy-fest-games-deal-sale)
+ - [Arleen Sorkin, the original voice and inspiration for DC’s Harley Quinn, dies at 67](https://www.polygon.com/23849427/arleen-sorkin-harley-quinn-batman-the-animated-series-obituary)
+ - [Valorant fans troll Elon Musk, chant ‘Bring back Twitter’ at tournament](https://www.polygon.com/gaming/23849085/elon-musk-valorant-champions-tournament-boos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
