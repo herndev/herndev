@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy hell, Diablo 4 is 20% off through Labor Day](https://www.polygon.com/deals/2023/8/29/23850927/diablo-4-deluxe-ultimate-edition-discount-deal-labor-day-sale)
- - [Astronaut Training at Space Camp: Starfield Edition](https://news.xbox.com/en-us/2023/08/29/astronaut-training-at-space-camp-starfield-edition/)
- - [Armored Core 6 player surveys its incredible arsenal of guns, bazookas, missiles, and swords, says &#39;nah&#39; and beats it with punches instead](https://www.pcgamer.com/armored-core-6-player-surveys-its-incredible-arsenal-of-guns-bazookas-missiles-and-swords-says-nah-and-beats-it-with-punches-instead)<!-- GAME:END -->
+ - [Here’s where you can pre-order Tekken 8](https://www.polygon.com/deals/23849520/tekken-8-pre-order-guide-standard-deluxe-ultimate-collectors-edition)
+ - [This Narrative Adventure About Doomed Teenage Dinosaurs Feels Too Real](https://kotaku.com/goodbye-volcano-high-indie-ko_op-impressions-pc-ps4-ps5-1850784312?utm_source=regular)
+ - [Sonic Superstars Works Surprisingly Well In Co-Op](https://kotaku.com/sonic-superstars-co-op-four-players-amy-tails-knuckles-1850784596?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
