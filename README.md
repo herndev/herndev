@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Kick, a Twitch rival launched in 2022 that is gaining traction among creators for its looser moderation policies and a 95/5 revenue split &lpar;Olivia Balsamo/NBC News&rpar;](http://www.techmeme.com/230829/p6#a230829p6)
- - [Oppo’s new rival to Samsung’s Galaxy Z Flip to launch globally ‘soon’](https://www.theverge.com/2023/8/29/23850190/oppo-find-n3-flip-release-date-alert-slider-hasselblad-cameras)
- - [HUAWEI Mate 60 Pro launched: This phone can make satellite calls](https://www.androidauthority.com/huawei-mate-60-pro-3358902/)<!-- TECH:END -->
+ - [Apple opens up Back to School offers to university students](https://appleinsider.com/articles/23/08/29/apple-opens-up-back-to-school-offers-to-university-students?utm_medium=rss)
+ - [Vision Pro may use sensors to react to wearer&#39;s stress or attention span](https://appleinsider.com/articles/20/07/23/apple-glass-may-use-sensors-to-react-to-wearers-stress-or-attention-span?utm_medium=rss)
+ - [A look at Disney&#39;s shifting India strategy, after the unit reported a $41.5M loss on $390M revenue in the year to March 2022, including free cricket on mobile &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p8#a230829p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
