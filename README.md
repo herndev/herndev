@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - ⏩ [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - ⏩ [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
  - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
