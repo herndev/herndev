@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - ⏩ [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
+ - 💣 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - ⏩ [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 👉 [Next level cheating](http://9gag.com/gag/az2DQ6z)<!-- MEMES:END -->
 
 ---
 
