@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)
  - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
- - [Intel details next-gen Xeon processors Sierra Forest and Granite Rapids, launching in 2024, claiming Sierra Forest has 2.4x performance per watt than last gen &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)
- - [Internal docs: Google plans to sell mapping APIs to companies making products that use solar and air quality data, targeting ~$100M in revenue in the first year &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)<!-- TECH:END -->
+ - [Intel details its Xeon chips Sierra Forest and Granite Rapids set for 2024, claiming Sierra Forest has a 2.4x higher performance per watt than fourth-gen Xeons &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
