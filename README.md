@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 💣 [Then and now](http://9gag.com/gag/a8qXX8d)
+ - ⏩ [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
  - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
