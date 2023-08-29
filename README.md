@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW Classic&#39;s hardcore mode was only out for a few days before this frost gnome hit max level](https://www.pcgamer.com/wow-classics-hardcore-mode-was-only-out-for-a-few-days-before-this-frost-gnome-hit-max-level)
- - [Baldur&#39;s Gate 3 lead writer says Act 2 is deliberately lighter on exploration for pacing&#39;s sake](https://www.pcgamer.com/baldurs-gate-3-lead-writer-says-act-2-is-deliberately-lighter-on-exploration-for-pacings-sake)
- - [I Wish These 5 Dominion Cards Existed](https://kotaku.com/dominion-alchemy-deck-building-expansion-nocturne-1850781813?utm_source=regular)<!-- GAME:END -->
+ - [Diablo IV’s First Bonus XP Weekend Overlaps With Starfield Release](https://kotaku.com/diablo-4-mothers-blessing-release-date-starfield-xbox-1850783533?utm_source=regular)
+ - [Wipeout&#39;s now remastered and playable in a browser, coder tells Sony to &#39;either let it be, or get a real remaster going&#39;](https://www.pcgamer.com/wipeouts-now-remastered-and-playable-in-a-browser-coder-tells-sony-to-either-let-it-be-or-get-a-real-remaster-going)
+ - [Today’s The Day Bill And Frank Got Married In HBO&#39;s The Last Of Us](https://kotaku.com/the-last-of-us-show-bill-frank-hbo-date-married-death-1850783504?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
