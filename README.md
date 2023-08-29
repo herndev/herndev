@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - ⏩ [Any captain ?](http://9gag.com/gag/aQENVR8)
- - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
+ - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - ⏩ [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 👉 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)<!-- MEMES:END -->
 
 ---
 
