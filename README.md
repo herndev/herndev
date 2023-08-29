@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)
- - [Some of Steam&#39;s best strategy games are on sale right now](https://www.pcgamer.com/some-of-steams-best-strategy-games-are-on-sale-now)
- - [GOG starts its Autumn Sale with a free game about rescuing your sister from bloodthirsty pirates](https://www.pcgamer.com/gog-starts-its-autumn-sale-with-a-free-game-about-rescuing-your-sister-from-bloodthirsty-pirates)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/28/this-weeks-deals-with-gold-and-spotlight-sale-286/)
+ - [Today&#39;s Wordle hint and answer #801: Tuesday, August 29](https://www.pcgamer.com/wordle-answer-today-hint-801-august-29)
+ - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
