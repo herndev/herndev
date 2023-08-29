@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE reports Q3 revenue up 1% YoY to $7B, HPC &amp; AI revenue up 1% YoY to $836M, Intelligent Edge revenue up 50% YoY to $1.4B, and bumps its FY 2023 profit outlook &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230829/p36#a230829p36)
- - [In a letter, the UFC, NBA, and NFL tell the USPTO the DMCA needs updating to ensure that live content is removed &quot;instantaneously or near-instantaneously&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230829/p35#a230829p35)
- - [GM details its AI collaboration with Google Cloud, including using chatbots to handle simple OnStar calls, freeing up operators to address more complex queries &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230829/p34#a230829p34)<!-- TECH:END -->
+ - [FBI brings down massive botnet that infected more than 700,000 computers](https://www.theverge.com/2023/8/29/23851227/fbi-doj-qakbot-botnet-malware)
+ - [Google previews AlloyDB AI, an integrated set of capabilities built into AlloyDB for PostgreSQL to help developers build generative AI apps using their own data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230829/p38#a230829p38)
+ - [Sixth public betas for iOS 17 and others now available](https://appleinsider.com/articles/23/08/29/sixth-public-betas-for-ios-17-and-others-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
