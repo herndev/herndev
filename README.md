@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1939](http://9gag.com/gag/axon4pD)
- - ⏩ [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 💣 [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - ⏩ [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 👉 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)<!-- MEMES:END -->
 
 ---
 
