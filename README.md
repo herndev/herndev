@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
- - ⏩ [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 
