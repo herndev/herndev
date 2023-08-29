@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)
- - [Similarweb and Data.ai: Meta blocking news in Canada has had almost no impact on Canadians&#39; Facebook usage, supporting Meta&#39;s claim that news holds little value &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p18#a230829p18)
- - [Get up to $650 off Roborock robot vacuum and mop solutions with Anniversary Sale discounts](https://appleinsider.com/articles/23/08/29/get-up-to-650-off-roborock-robot-vacuum-and-mop-solutions-with-anniversary-sale-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [Vision Pro display delays may get solved by China suppliers](https://appleinsider.com/articles/23/08/29/vision-pro-display-delays-may-get-solved-by-china-suppliers?utm_medium=rss)
+ - [iPhone 14 Pro Max was the best-selling smartphone for first half of 2023](https://appleinsider.com/articles/23/08/29/iphone-14-pro-max-was-the-best-selling-smartphone-for-first-half-of-2023?utm_medium=rss)
+ - [The Galaxy S24 Plus could get a long-awaited display upgrade](https://www.androidauthority.com/samsung-galaxy-s24-plus-display-upgrade-3359033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
