@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - ⏩ [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
- - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
+ - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
+ - ⏩ [Dumping A Huge Tub Of Soapy Water Down A Stairwell](http://9gag.com/gag/a9qNem0)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 
