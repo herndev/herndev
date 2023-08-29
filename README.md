@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - ⏩ [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - ⏩ [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 
