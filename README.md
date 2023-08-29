@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ends its phone subscription bundle, Pixel Pass, for new customers after launching it in 2021 alongside the Pixel 6 series in the US &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230829/p31#a230829p31)
- - [Google quietly ends Pixel Pass right before the Pixel 8 launch](https://www.androidauthority.com/google-pixel-pass-discontinued-3359146/)
- - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)<!-- TECH:END -->
+ - [Google Cloud unveils improvements to Vertex AI to better compete with Azure AI studio and Amazon Bedrock; Nvidia announces PaxML, built on top of Google&#39;s JAX &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
+ - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
+ - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
