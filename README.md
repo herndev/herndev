@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [To Ms. Marvel actor Iman Vellani, joining the X-Men is a lot like joining the MCU](https://www.polygon.com/23843432/ms-marvel-actor-iman-vellani-x-men-comic-interview)
  - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
- - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)
- - [How to enter Burrow Holes in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-burrow-hole-rocky-crevice)<!-- GAME:END -->
+ - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
