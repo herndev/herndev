@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Moonlight sword in Armored Core 6](https://www.polygon.com/guides/23850541/armored-core-6-moonlight-sword-location-how-to-get)
- - [Asus Vivobook Pro 16X review](https://www.pcgamer.com/asus-vivobook-pro-16x-review-performance)
- - [Joe Blackburn on Destiny 2 conspiracy theories, what happened to the PvP team, and The Witness being able to 1v1 anyone in the universe](https://www.pcgamer.com/joe-blackburn-on-destiny-2-conspiracy-theories-what-happened-to-the-pvp-team-and-the-witness-being-able-to-1v1-anyone-in-the-universe)<!-- GAME:END -->
+ - [How Digital Eclipse Set the Standard for Preserving Video Game Classics with Their First Gold Master Series Title – The Making of Karateka](https://news.xbox.com/en-us/2023/08/29/gold-master-series-the-making-of-karateka/)
+ - [Baldur&#39;s Gate 3 Is Even Better When You Speak With Animals](https://kotaku.com/baldurs-gate-3-speak-with-animals-scratch-rats-druid-1850784308?utm_source=regular)
+ - [GeForce Now is shutting down in Russia](https://www.pcgamer.com/geforce-now-is-shutting-down-in-russia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
