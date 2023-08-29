@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any captain ?](http://9gag.com/gag/aQENVR8)
- - ⏩ [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 👉 [I&#39;m sad but I guess it&#39;s time for her to get tf out of my life.](http://9gag.com/gag/avQXBXE)<!-- MEMES:END -->
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - ⏩ [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 ---
 
