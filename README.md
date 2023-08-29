@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - ⏩ [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 👉 [Truth or lie?](http://9gag.com/gag/aL1N3ng)<!-- MEMES:END -->
+ - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - ⏩ [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
 
 ---
 
