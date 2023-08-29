@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal meeting: Andy Jassy told employees who refuse to comply with Amazon&#39;s return-to-office mandate that &quot;it&#39;s probably not going to work out for you&quot; &lpar;Eugene Kim/Insider&rpar;](http://www.techmeme.com/230828/p16#a230828p16)
- - [OpenAI Wants Its New ChatGPT to Be Your &#39;AI Assistant for Work&#39;     - CNET](https://www.cnet.com/tech/computing/openai-wants-its-new-chatgpt-to-be-your-ai-assistant-for-work/#ftag=CAD590a51e)
- - [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)<!-- TECH:END -->
+ - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
+ - [Intel details next-gen Xeon processors Sierra Forest and Granite Rapids, launching in 2024, claiming Sierra Forest has 2.4x performance per watt than last gen &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)
+ - [Internal docs: Google plans to sell mapping APIs to companies making products that use solar and air quality data, targeting ~$100M in revenue in the first year &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
