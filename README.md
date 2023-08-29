@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Duet AI is now available in Gmail, Docs, and more](https://www.theverge.com/2023/8/29/23849457/google-duet-ai-docs-slides-gmail)
- - [GM is using Google’s AI chatbot to handle simple OnStar calls](https://www.theverge.com/2023/8/29/23849390/gm-google-cloud-ai-chat-bot-onstar)
- - [Google made a watermark for AI images that you can’t edit out](https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector)<!-- TECH:END -->
+ - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)
+ - [Similarweb and Data.ai: Meta blocking news in Canada has had almost no impact on Canadians&#39; Facebook usage, supporting Meta&#39;s claim that news holds little value &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p18#a230829p18)
+ - [Get up to $650 off Roborock robot vacuum and mop solutions with Anniversary Sale discounts](https://appleinsider.com/articles/23/08/29/get-up-to-650-off-roborock-robot-vacuum-and-mop-solutions-with-anniversary-sale-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
