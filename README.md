@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vision Pro display delays may get solved by China suppliers](https://appleinsider.com/articles/23/08/29/vision-pro-display-delays-may-get-solved-by-china-suppliers?utm_medium=rss)
- - [iPhone 14 Pro Max was the best-selling smartphone for first half of 2023](https://appleinsider.com/articles/23/08/29/iphone-14-pro-max-was-the-best-selling-smartphone-for-first-half-of-2023?utm_medium=rss)
- - [The Galaxy S24 Plus could get a long-awaited display upgrade](https://www.androidauthority.com/samsung-galaxy-s24-plus-display-upgrade-3359033/)<!-- TECH:END -->
+ - [Jackery Solar Generator 2000 Plus review: go off-grid with 100 pounds of portable battery](https://appleinsider.com/articles/23/08/29/jackery-solar-generator-2000-plus-review-go-off-grid-with-100-pounds-of-portable-battery?utm_medium=rss)
+ - [Samsung makes it possible for far more Galaxy Buds to connect to its TVs](https://www.theverge.com/2023/8/29/23850363/samsung-auracast-bluetooth-le-audio-galaxy-buds-2-pro-neo-qled-8k-microled)
+ - [Facebook cracks down on global disinformation campaign linked to law enforcement in China](https://www.theverge.com/2023/8/29/23850341/facebook-china-disinformation-campaign-transparency-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
