@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)
- - [The FBI led an effort to dismantle the Qakbot botnet, which ransomware gangs used as an infection vector for years, on August 25 after infiltrating its network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230829/p27#a230829p27)
- - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Google ends its phone subscription bundle, Pixel Pass, for new customers after launching it in 2021 alongside the Pixel 6 series in the US &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230829/p31#a230829p31)
+ - [Google quietly ends Pixel Pass right before the Pixel 8 launch](https://www.androidauthority.com/google-pixel-pass-discontinued-3359146/)
+ - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
