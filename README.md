@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core 6 players are making amazing Gundam, Evangelion, and Kirby mechs](https://www.polygon.com/23849534/armored-core-6-players-custom-mechs-decals-paints)
- - [League of Legends is ditching Mythic items and players are happy to see them go: &#39;The only sad part was that it took 3 years of asking&#39;](https://www.pcgamer.com/league-of-legends-is-ditching-mythic-items-and-players-are-happy-to-see-them-go-the-only-sad-part-was-that-it-took-3-years-of-asking)
- - [Travel back to 1990 with this glorious SNES-inspired dock for the Steam Deck](https://www.pcgamer.com/travel-back-to-1990-with-this-glorious-snes-inspired-dock-for-the-steam-deck)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Is Altering Its Ending, Starting With Karlach](https://kotaku.com/baldurs-gate-3-karlach-ending-epilogue-update-patch-2-1850785373?utm_source=regular)
+ - [Bungie Completely Debunks Destiny 2 Conspiracy Theory](https://kotaku.com/destiny-2-bungie-fan-theory-strand-witch-queen-dlc-1850785242?utm_source=regular)
+ - [Armored Core 6 players are making amazing Gundam, Evangelion, and Kirby mechs](https://www.polygon.com/23849534/armored-core-6-players-custom-mechs-decals-paints)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
