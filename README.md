@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI brings down massive botnet that infected more than 700,000 computers](https://www.theverge.com/2023/8/29/23851227/fbi-doj-qakbot-botnet-malware)
- - [Google previews AlloyDB AI, an integrated set of capabilities built into AlloyDB for PostgreSQL to help developers build generative AI apps using their own data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230829/p38#a230829p38)
- - [Sixth public betas for iOS 17 and others now available](https://appleinsider.com/articles/23/08/29/sixth-public-betas-for-ios-17-and-others-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Tether has added Britannia Bank &amp; Trust, a privately held bank operating in the Bahamas, to process dollar transfers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230829/p39#a230829p39)
+ - [Hurricane Idalia Is About to Slam Florida With a Wall of Water](https://www.wired.com/story/hurricane-idalia-is-about-to-slam-florida-with-a-wall-of-water/)
+ - [SiriusXM’s Adam Sachs on why podcasts are showing up on the radio](https://www.theverge.com/2023/8/29/23851442/siriusxm-adam-sachs-podcasts-radio-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
