@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG starts its Autumn Sale with a free game about rescuing your sister from bloodthirsty pirates](https://www.pcgamer.com/gog-starts-its-autumn-sale-with-a-free-game-about-rescuing-your-sister-from-bloodthirsty-pirates)
- - [Starfield&#39;s Main Character Is Silent So The World Can Be Huge](https://kotaku.com/starfield-silent-character-protag-fallout-4-bethesda-1850781992?utm_source=regular)
- - [Diablo 4 will boost XP and gold gains this weekend, which is your chance to change things up](https://www.pcgamer.com/diablo-4-will-boost-xp-and-gold-gains-this-weekend-which-is-your-chance-to-change-things-up)<!-- GAME:END -->
+ - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)
+ - [Some of Steam&#39;s best strategy games are on sale right now](https://www.pcgamer.com/some-of-steams-best-strategy-games-are-on-sale-now)
+ - [GOG starts its Autumn Sale with a free game about rescuing your sister from bloodthirsty pirates](https://www.pcgamer.com/gog-starts-its-autumn-sale-with-a-free-game-about-rescuing-your-sister-from-bloodthirsty-pirates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
