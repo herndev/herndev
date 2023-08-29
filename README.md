@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - ⏩ [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - ⏩ [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 
