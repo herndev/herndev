@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - ⏩ [The stare...](http://9gag.com/gag/aqepAZ7)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 💣 [Edgy qoutes.](http://9gag.com/gag/awZG9zQ)
+ - ⏩ [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 👉 [Priorities set right](http://9gag.com/gag/a5Xy91o)<!-- MEMES:END -->
 
 ---
 
