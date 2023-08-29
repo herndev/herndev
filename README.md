@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Edgy qoutes.](http://9gag.com/gag/awZG9zQ)
- - ⏩ [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 👉 [Priorities set right](http://9gag.com/gag/a5Xy91o)<!-- MEMES:END -->
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - ⏩ [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 👉 [Truth or lie?](http://9gag.com/gag/aL1N3ng)<!-- MEMES:END -->
 
 ---
 
