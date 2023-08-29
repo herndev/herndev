@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage](http://9gag.com/gag/a6q3e4A)
- - ⏩ [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 💣 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
+ - ⏩ [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 ---
 
