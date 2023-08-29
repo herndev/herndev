@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
  - ⏩ [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
+ - 👉 [How can you be this dense](http://9gag.com/gag/awZGP88)<!-- MEMES:END -->
 
 ---
 
