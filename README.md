@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
- - [MoonSwatch Mission to Neptune 2023: Price, Details, Release Date](https://www.wired.com/story/moonswatch-mission-to-neptune-speedmaster-moonwatch/)
- - [The 2023 flagship Motorola phones are all on sale this week](https://www.androidauthority.com/motorola-labor-day-sale-3359099/)<!-- TECH:END -->
+ - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)
+ - [The FBI led an effort to dismantle the Qakbot botnet, which ransomware gangs used as an infection vector for years, on August 25 after infiltrating its network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230829/p27#a230829p27)
+ - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
