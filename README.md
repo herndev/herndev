@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/28/this-weeks-deals-with-gold-and-spotlight-sale-286/)
- - [Today&#39;s Wordle hint and answer #801: Tuesday, August 29](https://www.pcgamer.com/wordle-answer-today-hint-801-august-29)
- - [All of my friends are playing Baldur&#39;s Gate 3 completely wrong, but I love that it lets them](https://www.pcgamer.com/all-of-my-friends-are-playing-baldurs-gate-3-completely-wrong-but-i-love-that-it-lets-them)<!-- GAME:END -->
+ - [Sonic Superstars puts a glossy spin on old Sonic the Hedgehog gameplay](https://www.polygon.com/23848934/sonic-superstars-release-date-preview-sega)
+ - [Can Tentacool be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831791/can-tentacool-be-shiny-tentacruel)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/28/this-weeks-deals-with-gold-and-spotlight-sale-286/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
