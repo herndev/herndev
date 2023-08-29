@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Digital Eclipse Set the Standard for Preserving Video Game Classics with Their First Gold Master Series Title – The Making of Karateka](https://news.xbox.com/en-us/2023/08/29/gold-master-series-the-making-of-karateka/)
- - [Baldur&#39;s Gate 3 Is Even Better When You Speak With Animals](https://kotaku.com/baldurs-gate-3-speak-with-animals-scratch-rats-druid-1850784308?utm_source=regular)
- - [GeForce Now is shutting down in Russia](https://www.pcgamer.com/geforce-now-is-shutting-down-in-russia)<!-- GAME:END -->
+ - [Holy hell, Diablo 4 is 20% off through Labor Day](https://www.polygon.com/deals/2023/8/29/23850927/diablo-4-deluxe-ultimate-edition-discount-deal-labor-day-sale)
+ - [Astronaut Training at Space Camp: Starfield Edition](https://news.xbox.com/en-us/2023/08/29/astronaut-training-at-space-camp-starfield-edition/)
+ - [Armored Core 6 player surveys its incredible arsenal of guns, bazookas, missiles, and swords, says &#39;nah&#39; and beats it with punches instead](https://www.pcgamer.com/armored-core-6-player-surveys-its-incredible-arsenal-of-guns-bazookas-missiles-and-swords-says-nah-and-beats-it-with-punches-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
