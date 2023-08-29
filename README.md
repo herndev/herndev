@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - ⏩ [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 👉 [Next level cheating](http://9gag.com/gag/az2DQ6z)<!-- MEMES:END -->
+ - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - ⏩ [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 
