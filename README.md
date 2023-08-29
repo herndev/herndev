@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens up Back to School offers to university students](https://appleinsider.com/articles/23/08/29/apple-opens-up-back-to-school-offers-to-university-students?utm_medium=rss)
- - [Vision Pro may use sensors to react to wearer&#39;s stress or attention span](https://appleinsider.com/articles/20/07/23/apple-glass-may-use-sensors-to-react-to-wearers-stress-or-attention-span?utm_medium=rss)
- - [A look at Disney&#39;s shifting India strategy, after the unit reported a $41.5M loss on $390M revenue in the year to March 2022, including free cricket on mobile &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p8#a230829p8)<!-- TECH:END -->
+ - [Google’s Duet AI is now available in Gmail, Docs, and more](https://www.theverge.com/2023/8/29/23849457/google-duet-ai-docs-slides-gmail)
+ - [GM is using Google’s AI chatbot to handle simple OnStar calls](https://www.theverge.com/2023/8/29/23849390/gm-google-cloud-ai-chat-bot-onstar)
+ - [Google made a watermark for AI images that you can’t edit out](https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
