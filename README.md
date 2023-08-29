@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV’s First Bonus XP Weekend Overlaps With Starfield Release](https://kotaku.com/diablo-4-mothers-blessing-release-date-starfield-xbox-1850783533?utm_source=regular)
- - [Wipeout&#39;s now remastered and playable in a browser, coder tells Sony to &#39;either let it be, or get a real remaster going&#39;](https://www.pcgamer.com/wipeouts-now-remastered-and-playable-in-a-browser-coder-tells-sony-to-either-let-it-be-or-get-a-real-remaster-going)
- - [Today’s The Day Bill And Frank Got Married In HBO&#39;s The Last Of Us](https://kotaku.com/the-last-of-us-show-bill-frank-hbo-date-married-death-1850783504?utm_source=regular)<!-- GAME:END -->
+ - [Dead by Daylight’s Alien Chapter Reimagines The Iconic Nostromo](https://news.xbox.com/en-us/2023/08/29/dead-by-daylight-alien-nostromo-map/)
+ - [Cheaters tricked Genshin Impact fans into thinking there was a game-breaking glitch](https://www.polygon.com/23849461/genshin-impact-developers-game-breaking-bug-plugin)
+ - [Armored Core VI Player Beats Every Boss With Just His Fists](https://kotaku.com/armored-core-6-boss-punch-balteus-cel-240-sea-spider-1850783750?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
