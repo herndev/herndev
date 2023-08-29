@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s throw some favorite gifs in the comments](http://9gag.com/gag/aDYNqod)
- - ⏩ [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 💣 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - ⏩ [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 
