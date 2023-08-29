@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To Ms. Marvel actor Iman Vellani, joining the X-Men is a lot like joining the MCU](https://www.polygon.com/23843432/ms-marvel-actor-iman-vellani-x-men-comic-interview)
- - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
- - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)<!-- GAME:END -->
+ - [WoW Classic&#39;s hardcore mode was only out for a few days before this frost gnome hit max level](https://www.pcgamer.com/wow-classics-hardcore-mode-was-only-out-for-a-few-days-before-this-frost-gnome-hit-max-level)
+ - [Baldur&#39;s Gate 3 lead writer says Act 2 is deliberately lighter on exploration for pacing&#39;s sake](https://www.pcgamer.com/baldurs-gate-3-lead-writer-says-act-2-is-deliberately-lighter-on-exploration-for-pacings-sake)
+ - [I Wish These 5 Dominion Cards Existed](https://kotaku.com/dominion-alchemy-deck-building-expansion-nocturne-1850781813?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
