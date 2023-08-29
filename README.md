@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Superstars puts a glossy spin on old Sonic the Hedgehog gameplay](https://www.polygon.com/23848934/sonic-superstars-release-date-preview-sega)
- - [Can Tentacool be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23831791/can-tentacool-be-shiny-tentacruel)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/08/28/this-weeks-deals-with-gold-and-spotlight-sale-286/)<!-- GAME:END -->
+ - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
+ - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)
+ - [How to enter Burrow Holes in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-burrow-hole-rocky-crevice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
