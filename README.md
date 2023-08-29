@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biometrics? Bring it on: why Okta’s Jameeka Green Aaron wants passwords to go away](https://www.theverge.com/23850354/biometrics-breaches-okta-jameeka-green-aaron-passwords-passkeys-security)
- - [WhatsApp launches a new native macOS app, available via its website; users can participate in video calls with up to eight people and audio with 32 people &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230829/p24#a230829p24)
- - [Apple iPad Air 6: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/apple-ipad-air-6-3357074/)<!-- TECH:END -->
+ - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
+ - [MoonSwatch Mission to Neptune 2023: Price, Details, Release Date](https://www.wired.com/story/moonswatch-mission-to-neptune-speedmaster-moonwatch/)
+ - [The 2023 flagship Motorola phones are all on sale this week](https://www.androidauthority.com/motorola-labor-day-sale-3359099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
