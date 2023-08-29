@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OPPO Find N3 Flip takes aim at Galaxy Z Flip 5 with borrowed OnePlus features](https://www.androidauthority.com/oppo-find-n3-flip-3358524/)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Court filing: DCG reaches an in-principle deal with Genesis creditors to resolve the bankruptcy claims, estimates recoveries of 70%-90% for unsecured creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230829/p3#a230829p3)
- - [There’s great news and bad news for Galaxy S24 Ultra storage](https://www.androidauthority.com/samsung-galaxy-s24-ultra-2tb-3358871/)<!-- TECH:END -->
+ - [Court filing: DCG reaches an in-principle deal with Genesis creditors to resolve the bankruptcy claims, estimates recoveries of 70%-90% for unsecured creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230829/p3#a230829p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
