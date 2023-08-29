@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackery Solar Generator 2000 Plus review: go off-grid with 100 pounds of portable battery](https://appleinsider.com/articles/23/08/29/jackery-solar-generator-2000-plus-review-go-off-grid-with-100-pounds-of-portable-battery?utm_medium=rss)
- - [Samsung makes it possible for far more Galaxy Buds to connect to its TVs](https://www.theverge.com/2023/8/29/23850363/samsung-auracast-bluetooth-le-audio-galaxy-buds-2-pro-neo-qled-8k-microled)
- - [Facebook cracks down on global disinformation campaign linked to law enforcement in China](https://www.theverge.com/2023/8/29/23850341/facebook-china-disinformation-campaign-transparency-report)<!-- TECH:END -->
+ - [Biometrics? Bring it on: why Okta’s Jameeka Green Aaron wants passwords to go away](https://www.theverge.com/23850354/biometrics-breaches-okta-jameeka-green-aaron-passwords-passkeys-security)
+ - [WhatsApp launches a new native macOS app, available via its website; users can participate in video calls with up to eight people and audio with 32 people &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230829/p24#a230829p24)
+ - [Apple iPad Air 6: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/apple-ipad-air-6-3357074/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
