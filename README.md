@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - ⏩ [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [How can you be this dense](http://9gag.com/gag/awZGP88)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/a6q3e4A)
+ - ⏩ [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 ---
 
