@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight’s Alien Chapter Reimagines The Iconic Nostromo](https://news.xbox.com/en-us/2023/08/29/dead-by-daylight-alien-nostromo-map/)
- - [Cheaters tricked Genshin Impact fans into thinking there was a game-breaking glitch](https://www.polygon.com/23849461/genshin-impact-developers-game-breaking-bug-plugin)
- - [Armored Core VI Player Beats Every Boss With Just His Fists](https://kotaku.com/armored-core-6-boss-punch-balteus-cel-240-sea-spider-1850783750?utm_source=regular)<!-- GAME:END -->
+ - [How to get the Moonlight sword in Armored Core 6](https://www.polygon.com/guides/23850541/armored-core-6-moonlight-sword-location-how-to-get)
+ - [Asus Vivobook Pro 16X review](https://www.pcgamer.com/asus-vivobook-pro-16x-review-performance)
+ - [Joe Blackburn on Destiny 2 conspiracy theories, what happened to the PvP team, and The Witness being able to 1v1 anyone in the universe](https://www.pcgamer.com/joe-blackburn-on-destiny-2-conspiracy-theories-what-happened-to-the-pvp-team-and-the-witness-being-able-to-1v1-anyone-in-the-universe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
