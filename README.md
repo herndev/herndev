@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud unveils improvements to Vertex AI to better compete with Azure AI studio and Amazon Bedrock; Nvidia announces PaxML, built on top of Google&#39;s JAX &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
- - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
- - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)<!-- TECH:END -->
+ - [HPE reports Q3 revenue up 1% YoY to $7B, HPC &amp; AI revenue up 1% YoY to $836M, Intelligent Edge revenue up 50% YoY to $1.4B, and bumps its FY 2023 profit outlook &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230829/p36#a230829p36)
+ - [In a letter, the UFC, NBA, and NFL tell the USPTO the DMCA needs updating to ensure that live content is removed &quot;instantaneously or near-instantaneously&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230829/p35#a230829p35)
+ - [GM details its AI collaboration with Google Cloud, including using chatbots to handle simple OnStar calls, freeing up operators to address more complex queries &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230829/p34#a230829p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
