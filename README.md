@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
- - ⏩ [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
+ - 💣 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - ⏩ [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
  - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
