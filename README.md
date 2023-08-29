@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Any captain ?](http://9gag.com/gag/aQENVR8)
- - ⏩ [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 👉 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)<!-- MEMES:END -->
+ - ⏩ [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 👉 [I&#39;m sad but I guess it&#39;s time for her to get tf out of my life.](http://9gag.com/gag/avQXBXE)<!-- MEMES:END -->
 
 ---
 
