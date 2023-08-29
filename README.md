@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Is Altering Its Ending, Starting With Karlach](https://kotaku.com/baldurs-gate-3-karlach-ending-epilogue-update-patch-2-1850785373?utm_source=regular)
- - [Bungie Completely Debunks Destiny 2 Conspiracy Theory](https://kotaku.com/destiny-2-bungie-fan-theory-strand-witch-queen-dlc-1850785242?utm_source=regular)
- - [Armored Core 6 players are making amazing Gundam, Evangelion, and Kirby mechs](https://www.polygon.com/23849534/armored-core-6-players-custom-mechs-decals-paints)<!-- GAME:END -->
+ - [In the run-up to the official Grand Theft Auto 6 reveal, Rockstar may have lost one of its most senior writers](https://www.pcgamer.com/in-the-run-up-to-the-official-grand-theft-auto-6-reveal-rockstar-may-have-lost-one-of-its-most-senior-writers)
+ - [Baldur&#39;s Gate 1 and 2 are on sale for just $5 each right now](https://www.pcgamer.com/baldurs-gate-1-and-2-are-on-sale-for-just-dollar5-each-right-now)
+ - [Ben Affleck said he wasn&#39;t happy about recent Jett nerfs at the 2023 Valorant Champions event, and I think he&#39;s serious](https://www.pcgamer.com/ben-affleck-said-he-wasnt-happy-about-recent-jett-nerfs-at-the-2023-valorant-champions-event-and-i-think-hes-serious)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
