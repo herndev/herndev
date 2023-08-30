@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - ⏩ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
+ - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
+ - ⏩ [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 ---
 
