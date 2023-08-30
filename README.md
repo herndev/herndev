@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleep well Princess](http://9gag.com/gag/aoKq620)
- - ⏩ [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
- - 👉 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)<!-- MEMES:END -->
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 
