@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 mecha anime to watch if you love Armored Core 6](https://www.polygon.com/what-to-watch/23832689/mecha-anime-to-watch-like-armored-core-6-mobile-suit-gundam-patlabor)
- - [DPVR E4 review](https://www.pcgamer.com/dpvr-e4-vr-headset-review)
- - [Baldur’s Gate 3’s next patch will improve performance, begin expanding epilogue](https://www.polygon.com/23852047/baldurs-gate-3-patch-2-epilogue-karlach-ending)<!-- GAME:END -->
+ - [Playing Persona 5 Tactica: Style and Substance](https://news.xbox.com/en-us/2023/08/30/playing-persona-5-tactica-style-and-substance/)
+ - [Street Fighter 2: The Animated Movie is getting the 4K Blu-ray treatment it deserves](https://www.polygon.com/deals/23852136/street-fighter-2-the-animated-movie-4k-blu-ray-pre-order-special-features)
+ - [The Justified spinoff reminds us how great Justified really was](https://www.polygon.com/23850804/justified-city-primeval-review-episodes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
