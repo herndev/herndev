@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - ⏩ [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 💣 [Choose wisely](http://9gag.com/gag/a7q6mQm)
+ - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [That took a turn](http://9gag.com/gag/a4or0Gd)<!-- MEMES:END -->
 
 ---
 
