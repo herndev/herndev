@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
- - [Motorola Edge 40 Neo leaked specs and renders show off three colorways](https://www.androidauthority.com/motorola-edge-40-neo-render-spec-leak-3359293/)
- - [Fairphone 5 launched: Up to 10 years &lpar;!&rpar; of software support](https://www.androidauthority.com/fairphone-5-launched-3358597/)<!-- TECH:END -->
+ - [15 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)
+ - [The Garmin Venu 3 series will finally give you credit for naps](https://www.theverge.com/2023/8/30/23851025/garmin-venu-3-nap-detection-wheelchair-mode-smartwatch)
+ - [Bumble, Match, Hinge, and Grindr explore more expensive subscriptions for users seeking a curated experience; Bumble says $40 to $50 feels &quot;low&quot; to some users &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/230830/p11#a230830p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
