@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Robinhood, whose entry into crypto was powered by Jump Trading, split ways with the firm in early July, as Jump reportedly backs away from the US market &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230829/p43#a230829p43)
- - [The Ayaneo Kun nearly doubles the Steam Deck’s battery for nearly twice the price](https://www.theverge.com/2023/8/29/23732435/ayaneo-kun-announcement-price-battery-life)
- - [Meta&#39;s Oversight Board took 234 days to get a ruling in an incitement to violence case involving Hun Sen, revealing a problem with the board&#39;s glacial pace &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230829/p42#a230829p42)<!-- TECH:END -->
+ - [Chicago-based Mediafly, which provides a revenue enablement service to Adobe, TransUnion, Nestle, and other large companies, raised $80M led by BIP Ventures &lpar;Alex Zorn/Chicago Business Journal&rpar;](http://www.techmeme.com/230829/p44#a230829p44)
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Apple AirPods with USB-C could join the iPhone 15 series on Sep. 12](https://www.androidauthority.com/apple-airpods-usb-c-3359230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
