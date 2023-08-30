@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 player one-shots Act 2&#39;s final boss by smuggling 15,000 gold into his pocket](https://www.pcgamer.com/baldurs-gate-3-player-one-shots-act-2s-final-boss-by-smuggling-15000-gold-into-his-pocket)
- - [Obsidian&#39;s RPG design expert reckons he knows why no one&#39;s maining Cleric in Baldur&#39;s Gate 3, and it&#39;s the same reason no one plays them in his games either](https://www.pcgamer.com/obsidians-rpg-design-expert-reckons-he-knows-why-no-ones-maining-cleric-in-baldurs-gate-3-and-its-the-same-reason-no-one-plays-them-in-his-games-either)
- - [How to get the Moonlight Sword in Armored Core 6](https://www.pcgamer.com/armored-core-6-moonlight-sword-location)<!-- GAME:END -->
+ - [Baldur’s Gate 3 is changing the way people play D&amp;D for the better](https://www.polygon.com/23851111/baldurs-gate-3-dungeons-dragons-dnd-ttrpg-spell-slots)
+ - [Cooling gel ear pads are the cheap gaming headset upgrade I never knew I needed](https://www.pcgamer.com/cooling-gel-ear-pads-are-the-cheap-gaming-headset-upgrade-i-never-knew-i-needed)
+ - [Remnant 2 player loses hardcore character to the game&#39;s most annoying ledge, which is becoming condemned territory for permadeath runs](https://www.pcgamer.com/remnant-2-player-loses-hardcore-character-to-the-games-most-annoying-ledge-which-is-becoming-condemned-territory-for-permadeath-runs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
