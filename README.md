@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple invites researchers to apply to the 2024 iPhone Security Research Device Program](https://appleinsider.com/articles/23/08/30/apple-invites-researchers-to-apply-to-the-2024-iphone-security-research-device-program?utm_medium=rss)
- - [Instagram is internally testing letting users create Reels up to 10 minutes long, after TikTok increased its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
- - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)<!-- TECH:END -->
+ - [Google Pixel 8 spotted at FCC after Pixel hardware event announcement](https://www.androidauthority.com/pixel-8-fcc-listing-3359518/)
+ - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)
+ - [The key ingredient to millions of EVs is buried under a former volcano — but there’s still a lot we don’t know](https://www.theverge.com/2023/8/30/23849619/lithium-ev-battery-thacker-pass-mine-mcdermitt-caldera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
