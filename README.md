@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is raising PlayStation Plus prices up to $40 per year](https://www.theverge.com/2023/8/30/23852353/playstation-plus-prices-increase-essential-extra-premium)
- - [Microsoft plans to address an &quot;unintended behavior&quot; that has caused malware-like notification pop-ups in Windows 11 for months that promote Bing over Chrome &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230830/p20#a230830p20)
- - [India says at least 32 international electronics makers, including HP, Dell, Asus, Acer, and Lenovo, applied to its incentive program as part of &quot;Make in India&quot; &lpar;Blassy Boben/Reuters&rpar;](http://www.techmeme.com/230830/p19#a230830p19)<!-- TECH:END -->
+ - [Google announces date for its upcoming Pixel 8 series event](https://www.androidauthority.com/google-pixel-8-event-announcement-3359445/)
+ - [Sources: China will approve the first batch of generative AI services for public rollout as soon as this week, with Baidu among the first to win approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230830/p22#a230830p22)
+ - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
