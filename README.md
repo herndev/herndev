@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republican AGs from 16 states write to the SEC over concerns about Shein filing for a US IPO and urge the agency to order an investigation on using forced labor &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/230830/p14#a230830p14)
- - [Samsung launches Food, a &quot;personalized&quot; AI-based food and recipe app in eight languages and 104 countries, drawing on a 160K+ recipes from Whisk, bought in 2019 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230830/p13#a230830p13)
- - [Roku Ultra vs Roku Ultra LT: Which streaming box should you prefer?](https://www.androidauthority.com/roku-ultra-vs-roku-ultra-lt-3358129/)<!-- TECH:END -->
+ - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
+ - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
+ - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
