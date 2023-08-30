@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces date for its upcoming Pixel 8 series event](https://www.androidauthority.com/google-pixel-8-event-announcement-3359445/)
- - [Sources: China will approve the first batch of generative AI services for public rollout as soon as this week, with Baidu among the first to win approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230830/p22#a230830p22)
- - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)<!-- TECH:END -->
+ - [Trailer for Apple TV+ John le Carre documentary &#39;The Pigeon Tunnel&#39; arrives](https://appleinsider.com/articles/23/08/30/trailer-for-apple-tv-john-le-carre-documentary-the-pigeon-tunnel-arrives?utm_medium=rss)
+ - [Apple seeds second release candidates for macOS Ventura 13.6 &amp; Monterey 12.7](https://appleinsider.com/articles/23/08/30/apple-seeds-second-release-candidates-for-macos-ventura-136-monterey-127?utm_medium=rss)
+ - [Unmasking Trickbot, One of the World’s Top Cybercrime Gangs](https://www.wired.com/story/trickbot-trickleaks-bentley/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
