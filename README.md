@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trailer for Apple TV+ John le Carre documentary &#39;The Pigeon Tunnel&#39; arrives](https://appleinsider.com/articles/23/08/30/trailer-for-apple-tv-john-le-carre-documentary-the-pigeon-tunnel-arrives?utm_medium=rss)
- - [Apple seeds second release candidates for macOS Ventura 13.6 &amp; Monterey 12.7](https://appleinsider.com/articles/23/08/30/apple-seeds-second-release-candidates-for-macos-ventura-136-monterey-127?utm_medium=rss)
- - [Unmasking Trickbot, One of the World’s Top Cybercrime Gangs](https://www.wired.com/story/trickbot-trickleaks-bentley/)<!-- TECH:END -->
+ - [Apple invites researchers to apply to the 2024 iPhone Security Research Device Program](https://appleinsider.com/articles/23/08/30/apple-invites-researchers-to-apply-to-the-2024-iphone-security-research-device-program?utm_medium=rss)
+ - [Instagram is internally testing letting users create Reels up to 10 minutes long, after TikTok increased its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
+ - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
