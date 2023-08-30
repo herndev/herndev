@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA: Starfield preloads are now live on Steam](https://www.pcgamer.com/psa-starfield-preloads-are-now-live-on-steam)
  - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
- - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
