@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - ⏩ [Manual therapy](http://9gag.com/gag/aEqN5RK)
- - 👉 [Awww](http://9gag.com/gag/a1PqnKG)<!-- MEMES:END -->
+ - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - ⏩ [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
+ - 👉 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)<!-- MEMES:END -->
 
 ---
 
