@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing Persona 5 Tactica: Style and Substance](https://news.xbox.com/en-us/2023/08/30/playing-persona-5-tactica-style-and-substance/)
- - [Street Fighter 2: The Animated Movie is getting the 4K Blu-ray treatment it deserves](https://www.polygon.com/deals/23852136/street-fighter-2-the-animated-movie-4k-blu-ray-pre-order-special-features)
- - [The Justified spinoff reminds us how great Justified really was](https://www.polygon.com/23850804/justified-city-primeval-review-episodes)<!-- GAME:END -->
+ - [Oops they did it again: War Thunder player posts NATO restricted military manual for what feels like the hundredth time](https://www.pcgamer.com/oops-they-did-it-again-war-thunder-player-posts-nato-restricted-military-manual-for-what-feels-like-the-hundredth-time)
+ - [Baldur’s Gate 3’s Dark Urge Is Great For Your Second Run](https://kotaku.com/baldurs-gate-3-dark-urge-origin-character-differences-1850787231?utm_source=regular)
+ - [Asus ROG Raikiri Pro review](https://www.pcgamer.com/asus-rog-raikiri-pro-wireless-controller-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
