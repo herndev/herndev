@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - ⏩ [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 💣 [Too clean to be paris](http://9gag.com/gag/aYVn54w)
+ - ⏩ [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
+ - 👉 [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)<!-- MEMES:END -->
 
 ---
 
