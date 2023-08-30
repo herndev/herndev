@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - ⏩ [Awww](http://9gag.com/gag/a1PqnKG)
- - 👉 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)<!-- MEMES:END -->
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - ⏩ [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 
