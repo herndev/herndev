@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
- - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
- - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)<!-- TECH:END -->
+ - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
+ - [Lotus will reveal its electric Emeya hypercar September 7th](https://www.theverge.com/2023/8/30/23852023/lotus-emeya-electric-hypercar-reveal-date)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 30&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-30-2023-3358228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
