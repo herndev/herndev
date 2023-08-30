@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - ⏩ [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
+ - 💣 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
+ - ⏩ [What are the chances?](http://9gag.com/gag/a4orgjZ)
  - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
