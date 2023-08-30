@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 spotted at FCC after Pixel hardware event announcement](https://www.androidauthority.com/pixel-8-fcc-listing-3359518/)
- - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)
- - [The key ingredient to millions of EVs is buried under a former volcano — but there’s still a lot we don’t know](https://www.theverge.com/2023/8/30/23849619/lithium-ev-battery-thacker-pass-mine-mcdermitt-caldera)<!-- TECH:END -->
+ - [CrowdStrike reports Q2 revenue up 37% YoY to $731.6M, vs. $724.2M est., ARR up 37% YoY to $2.93B, and forecasts Q3 and FY 2024 revenue above expectations &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230830/p31#a230830p31)
+ - [Starz is lowering the price of its annual subscription, unlike everyone else](https://www.theverge.com/2023/8/30/23852647/starz-disney-plus-hulu-paramount-plus-streaming-service)
+ - [Salesforce reports Q2 revenue up 11% YoY to $8.6B, vs. $8.53B est., and forecasts Q3 and FY 2024 revenue above expectations; CRM jumps 5%+ &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/230830/p30#a230830p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
