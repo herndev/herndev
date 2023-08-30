@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
- - [Lotus will reveal its electric Emeya hypercar September 7th](https://www.theverge.com/2023/8/30/23852023/lotus-emeya-electric-hypercar-reveal-date)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 30&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-30-2023-3358228/)<!-- TECH:END -->
+ - [Alexa and Google Assistant are together at last on new JBL speakers](https://www.theverge.com/2023/8/30/23850185/amazon-google-jbl-authentics-smart-speaker-simultaneous-voice-assistants-ifa)
+ - [JBL’s new true wireless earbuds have an open design and detachable neckband](https://www.theverge.com/2023/8/30/23848666/jbl-soundgear-sense-wireless-earbuds-partybox-ultimate-live-770nc-670nc-price-release-date)
+ - [Daily deals Aug. 30: $90 off iPad mini, $70 off Apple Mighty Mouse, 35% off iRobot Roomba, more](https://appleinsider.com/articles/23/08/30/daily-deals-aug-30-90-off-ipad-mini-70-off-apple-mighty-mouse-35-off-irobot-roomba-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
