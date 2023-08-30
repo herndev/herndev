@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
- - ⏩ [Dumping A Huge Tub Of Soapy Water Down A Stairwell](http://9gag.com/gag/a9qNem0)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 💣 [Environment activists tried to block road in Germany, didn&#39;t go as well as in UK and France](http://9gag.com/gag/aGENqDn)
+ - ⏩ [A simple reminder](http://9gag.com/gag/a7q6BDq)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 ---
 
