@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too clean to be paris](http://9gag.com/gag/aYVn54w)
- - ⏩ [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
- - 👉 [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)<!-- MEMES:END -->
+ - 💣 [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)
+ - ⏩ [Shit happen](http://9gag.com/gag/aMENLg6)
+ - 👉 [They&#39;re sleeping now](http://9gag.com/gag/anzWo85)<!-- MEMES:END -->
 
 ---
 
