@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - ⏩ [Awww](http://9gag.com/gag/a1PqnKG)
- - 👉 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
+ - 💣 [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - ⏩ [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
 
 ---
 
