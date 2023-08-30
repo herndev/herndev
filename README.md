@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa and Google Assistant are together at last on new JBL speakers](https://www.theverge.com/2023/8/30/23850185/amazon-google-jbl-authentics-smart-speaker-simultaneous-voice-assistants-ifa)
- - [JBL’s new true wireless earbuds have an open design and detachable neckband](https://www.theverge.com/2023/8/30/23848666/jbl-soundgear-sense-wireless-earbuds-partybox-ultimate-live-770nc-670nc-price-release-date)
- - [Daily deals Aug. 30: $90 off iPad mini, $70 off Apple Mighty Mouse, 35% off iRobot Roomba, more](https://appleinsider.com/articles/23/08/30/daily-deals-aug-30-90-off-ipad-mini-70-off-apple-mighty-mouse-35-off-irobot-roomba-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sony is raising PlayStation Plus prices up to $40 per year](https://www.theverge.com/2023/8/30/23852353/playstation-plus-prices-increase-essential-extra-premium)
+ - [Microsoft plans to address an &quot;unintended behavior&quot; that has caused malware-like notification pop-ups in Windows 11 for months that promote Bing over Chrome &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230830/p20#a230830p20)
+ - [India says at least 32 international electronics makers, including HP, Dell, Asus, Acer, and Lenovo, applied to its incentive program as part of &quot;Make in India&quot; &lpar;Blassy Boben/Reuters&rpar;](http://www.techmeme.com/230830/p19#a230830p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
