@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores close as Hurricane Idalia approaches landfall in Florida](https://appleinsider.com/articles/23/08/29/apple-stores-close-as-hurricane-idalia-approaches-landfall-in-florida?utm_medium=rss)
- - [Source: OpenAI is on pace to generate more than $1B in revenue over the next 12 months from the sale of AI software and the computing capacity that powers it &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230829/p40#a230829p40)
- - [Apple will give &#39;Killers of the Flower Moon&#39; a global release on October 20](https://appleinsider.com/articles/23/08/29/apple-will-give-killers-of-the-flower-moon-a-global-release-on-october-20?utm_medium=rss)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board took 234 days to get a ruling in an incitement to violence case involving Hun Sen, revealing a problem with the board&#39;s glacial pace &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230829/p42#a230829p42)
+ - [Xiaomi reports Q2 revenue down 4% YoY to ~$9.25B and a net profit of ~$504M, vs. ~$440.9M est., more than doubling from a year earlier &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/230829/p41#a230829p41)
+ - [Apple Stores close as Hurricane Idalia approaches landfall in Florida](https://appleinsider.com/articles/23/08/29/apple-stores-close-as-hurricane-idalia-approaches-landfall-in-florida?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
