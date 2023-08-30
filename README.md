@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - ⏩ [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
+ - ⏩ [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 
