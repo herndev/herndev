@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Starfield preloads are now live on Steam](https://www.pcgamer.com/psa-starfield-preloads-are-now-live-on-steam)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)<!-- GAME:END -->
+ - [Farewell AMD RX 6600-series. AMD pulls the plug on Navi 32 chip production.](https://www.pcgamer.com/farewell-amd-rx-6600-series-amd-pulls-the-plug-on-navi-32-chip-production)
+ - [Today&#39;s Wordle hint and answer #802: Wednesday, August 30](https://www.pcgamer.com/wordle-answer-today-hint-802-august-30)
+ - [PSA: Starfield preloads are now live on Steam](https://www.pcgamer.com/psa-starfield-preloads-are-now-live-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
