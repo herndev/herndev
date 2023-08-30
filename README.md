@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty enlists AI to eavesdrop on voice chat and help ban toxic players starting today](https://www.pcgamer.com/call-of-duty-enlists-ai-to-eavesdrop-on-voice-chat-and-help-ban-toxic-players-starting-today)
- - [Bethesda commissioned an official Starfield song from Imagine Dragons and if you guessed that it rhymes &#39;high&#39; with &#39;sky,&#39; you are correct](https://www.pcgamer.com/bethesda-commissioned-an-official-starfield-song-from-imagine-dragons-and-if-you-guessed-that-it-rhymes-high-with-sky-you-are-correct)
- - [The 10 Best Call Of Duty Maps Of All Time](https://kotaku.com/call-of-duty-best-maps-ranked-games-modern-warfare-3-1850788381?utm_source=regular)<!-- GAME:END -->
+ - [Starfield Fan Banned From Subreddit For Narcing On Leaker To Cops](https://kotaku.com/starfield-leak-cops-gamingleaksandrumours-reddit-ban-1850789139?utm_source=regular)
+ - [Palia&#39;s first seasonal event adds exactly the kind of communal minigame I was hoping for](https://www.pcgamer.com/palias-first-seasonal-event-adds-exactly-the-kind-of-communal-minigame-i-was-hoping-for)
+ - [Call of Duty enlists AI to eavesdrop on voice chat and help ban toxic players starting today](https://www.pcgamer.com/call-of-duty-enlists-ai-to-eavesdrop-on-voice-chat-and-help-ban-toxic-players-starting-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
