@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oops they did it again: War Thunder player posts NATO restricted military manual for what feels like the hundredth time](https://www.pcgamer.com/oops-they-did-it-again-war-thunder-player-posts-nato-restricted-military-manual-for-what-feels-like-the-hundredth-time)
- - [Baldur’s Gate 3’s Dark Urge Is Great For Your Second Run](https://kotaku.com/baldurs-gate-3-dark-urge-origin-character-differences-1850787231?utm_source=regular)
- - [Asus ROG Raikiri Pro review](https://www.pcgamer.com/asus-rog-raikiri-pro-wireless-controller-review)<!-- GAME:END -->
+ - [You Should Give This Armored Core-Like Switch Game Another Look](https://kotaku.com/daemon-x-machina-nintendo-switch-armored-core-mech-1850787557?utm_source=regular)
+ - [Honkai: Star Rail codes for August 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [X-Men and Star Wars turned sci-fi into Simon Kinberg’s career — and there’s more to come](https://www.polygon.com/23846994/invasion-season-2-simon-kinberg-interview-x-men-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
