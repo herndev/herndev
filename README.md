@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 is changing the way people play D&amp;D for the better](https://www.polygon.com/23851111/baldurs-gate-3-dungeons-dragons-dnd-ttrpg-spell-slots)
- - [Cooling gel ear pads are the cheap gaming headset upgrade I never knew I needed](https://www.pcgamer.com/cooling-gel-ear-pads-are-the-cheap-gaming-headset-upgrade-i-never-knew-i-needed)
- - [Remnant 2 player loses hardcore character to the game&#39;s most annoying ledge, which is becoming condemned territory for permadeath runs](https://www.pcgamer.com/remnant-2-player-loses-hardcore-character-to-the-games-most-annoying-ledge-which-is-becoming-condemned-territory-for-permadeath-runs)<!-- GAME:END -->
+ - [6 mecha anime to watch if you love Armored Core 6](https://www.polygon.com/what-to-watch/23832689/mecha-anime-to-watch-like-armored-core-6-mobile-suit-gundam-patlabor)
+ - [DPVR E4 review](https://www.pcgamer.com/dpvr-e4-vr-headset-review)
+ - [Baldur’s Gate 3’s next patch will improve performance, begin expanding epilogue](https://www.polygon.com/23852047/baldurs-gate-3-patch-2-epilogue-karlach-ending)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
