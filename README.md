@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI, As Told By Steam Reviews](https://kotaku.com/armored-core-6-steam-reviews-dark-souls-elden-ring-pc-1850788240?utm_source=regular)
- - [Dwight from the Office advertising Armored Core 6 is the future mech fans dreamed of](https://www.pcgamer.com/dwight-from-the-office-advertising-armored-core-6-is-the-future-mech-fans-dreamed-of)
- - [Baldur’s Gate 3’s Easiest Lockpicking Tool Is An Axe Or Bomb](https://kotaku.com/baldurs-gate-3-lockpicking-thieves-tool-toughness-loot-1850787949?utm_source=regular)<!-- GAME:END -->
+ - [Star Wars: Ahsoka Is Quietly Showing That Anyone Can Be A Jedi](https://kotaku.com/star-wars-ahsoka-episode-three-series-tano-release-date-1850788375?utm_source=regular)
+ - [The Space Marine 2 trailer goes so much harder than you’d expect to capture Warhammer 40K’s massive scale](https://www.polygon.com/23852627/space-marine-2-warhammer-40k-setting-extended-gameplay-teaser)
+ - [The Best Star Wars Easter Eggs In The Ahsoka TV Series](https://kotaku.com/star-wars-ahsoka-easter-eggs-cast-release-date-show-1850766489?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
