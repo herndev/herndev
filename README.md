@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose wisely](http://9gag.com/gag/a7q6mQm)
- - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [That took a turn](http://9gag.com/gag/a4or0Gd)<!-- MEMES:END -->
+ - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - ⏩ [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 
