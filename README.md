@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)
- - ⏩ [Shit happen](http://9gag.com/gag/aMENLg6)
- - 👉 [They&#39;re sleeping now](http://9gag.com/gag/anzWo85)<!-- MEMES:END -->
+ - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - ⏩ [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
 
 ---
 
