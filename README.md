@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
- - [Larian responds to Baldur&#39;s Gate 3&#39;s &#39;cut content&#39; theories, says next patch will give Karlach &#39;the ending she deserves&#39;](https://www.pcgamer.com/baldurs-gate-3-karlach-endings-cut-content)
- - [In the run-up to the official Grand Theft Auto 6 reveal, Rockstar may have lost one of its most senior writers](https://www.pcgamer.com/in-the-run-up-to-the-official-grand-theft-auto-6-reveal-rockstar-may-have-lost-one-of-its-most-senior-writers)<!-- GAME:END -->
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/29/playstation-plus-double-discounts-promotion-comes-to-playstation-store-5/)
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
