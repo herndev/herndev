@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Epix 2 Pro vs Fenix 7 Pro: Which should you choose?](https://www.androidauthority.com/garmin-epix-2-pro-vs-fenix-7-pro-3358834/)
- - [Poll: Do you miss small Android tablets?](https://www.androidauthority.com/miss-small-android-tablets-poll-3359287/)
- - [Critics say India&#39;s new privacy safeguards do little to prevent mass government surveillance via tracking equipment installed at subsea cable landing stations &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p8#a230830p8)<!-- TECH:END -->
+ - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
+ - [Motorola Edge 40 Neo leaked specs and renders show off three colorways](https://www.androidauthority.com/motorola-edge-40-neo-render-spec-leak-3359293/)
+ - [Fairphone 5 launched: Up to 10 years &lpar;!&rpar; of software support](https://www.androidauthority.com/fairphone-5-launched-3358597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
