@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - ⏩ [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - ⏩ [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - 👉 [Awww](http://9gag.com/gag/a1PqnKG)<!-- MEMES:END -->
 
 ---
 
