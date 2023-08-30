@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Fan Banned From Subreddit For Narcing On Leaker To Cops](https://kotaku.com/starfield-leak-cops-gamingleaksandrumours-reddit-ban-1850789139?utm_source=regular)
- - [Palia&#39;s first seasonal event adds exactly the kind of communal minigame I was hoping for](https://www.pcgamer.com/palias-first-seasonal-event-adds-exactly-the-kind-of-communal-minigame-i-was-hoping-for)
- - [Call of Duty enlists AI to eavesdrop on voice chat and help ban toxic players starting today](https://www.pcgamer.com/call-of-duty-enlists-ai-to-eavesdrop-on-voice-chat-and-help-ban-toxic-players-starting-today)<!-- GAME:END -->
+ - [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://kotaku.com/cyberpunk-2077-phantom-liberty-expansion-unreal-engine-1850789686?utm_source=regular)
+ - [Ron Swanson Visits Half-Life 2’s Europe, Hates Every Minute Of It](https://kotaku.com/ron-swanson-half-life-2-europe-parks-and-rec-mash-up-1850789491?utm_source=regular)
+ - [Flesh and Blood, Tolarian Community College team up for new multiplayer boxed set](https://www.polygon.com/23852158/fab-tcg-tolarian-community-college-round-the-table-announcement-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
