@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://kotaku.com/cyberpunk-2077-phantom-liberty-expansion-unreal-engine-1850789686?utm_source=regular)
- - [Ron Swanson Visits Half-Life 2’s Europe, Hates Every Minute Of It](https://kotaku.com/ron-swanson-half-life-2-europe-parks-and-rec-mash-up-1850789491?utm_source=regular)
- - [Flesh and Blood, Tolarian Community College team up for new multiplayer boxed set](https://www.polygon.com/23852158/fab-tcg-tolarian-community-college-round-the-table-announcement-release-date-price)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s movie trailer finally introduces the gang: Freddy, Foxy, Bonnie, Chica, and Mr Cupcake, who eats a guy&#39;s face](https://www.pcgamer.com/five-nights-at-freddys-movie-trailer-finally-introduces-the-gang-freddy-foxy-bonnie-chica-and-mr-cupcake-who-eats-a-guys-face)
+ - [Space Marine 2 extended gameplay trailer showcases huge environments and hordes of enemies, but somehow it&#39;s not as violent as I expected](https://www.pcgamer.com/space-marine-2-extended-gameplay-trailer-showcases-huge-environments-and-hordes-of-enemies-but-somehow-its-not-as-violent-as-i-expected)
+ - [We scientifically ranked Baldur&#39;s Gate 3&#39;s party members on hotness, toughness, and meme-ability](https://www.pcgamer.com/we-scientifically-ranked-baldurs-gate-3s-party-members-on-hotness-toughness-and-meme-ability)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
