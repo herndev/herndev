@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
- - ⏩ [Predict this B!](http://9gag.com/gag/abvm8rB)
- - 👉 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)<!-- MEMES:END -->
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - ⏩ [Awww](http://9gag.com/gag/a1PqnKG)
+ - 👉 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
 
 ---
 
