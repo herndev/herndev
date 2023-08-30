@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese sextortion scammers have flooded X, harassing political dissidents and influential figures since the platform added paid verification checks in April &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230830/p7#a230830p7)
- - [NHTSA ordered Tesla in late July to provide data on &quot;Elon mode&quot; Autopilot configuration that eliminates prompts to drivers to keep hands on the steering wheel &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230830/p6#a230830p6)
- - [An image with the alt text &quot;A person takes a call on a Pixel 8 Pro phone in Porcelain&quot; popped up on a Google Store page displaying the as-yet-unannounced device &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230830/p5#a230830p5)<!-- TECH:END -->
+ - [What is Google Voice and how to set it up](https://www.androidauthority.com/what-is-google-voice-3359246/)
+ - [The Galaxy S24 Ultra could stick with Snapdragon after all](https://www.androidauthority.com/samsung-galaxy-s24-ultra-snapdragon-regions-3358500/)
+ - [Chinese sextortion scammers have flooded X, harassing political dissidents and influential figures since the platform added paid verification checks in April &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230830/p7#a230830p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
