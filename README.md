@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In the run-up to the official Grand Theft Auto 6 reveal, Rockstar may have lost one of its most senior writers](https://www.pcgamer.com/in-the-run-up-to-the-official-grand-theft-auto-6-reveal-rockstar-may-have-lost-one-of-its-most-senior-writers)
- - [Baldur&#39;s Gate 1 and 2 are on sale for just $5 each right now](https://www.pcgamer.com/baldurs-gate-1-and-2-are-on-sale-for-just-dollar5-each-right-now)
- - [Ben Affleck said he wasn&#39;t happy about recent Jett nerfs at the 2023 Valorant Champions event, and I think he&#39;s serious](https://www.pcgamer.com/ben-affleck-said-he-wasnt-happy-about-recent-jett-nerfs-at-the-2023-valorant-champions-event-and-i-think-hes-serious)<!-- GAME:END -->
+ - [All Combat Log enemy locations in Armored Core 6: Fires of Rubicon](https://www.polygon.com/guides/23844949/armored-core-6-combat-logs-enemies-loghunts-locations)
+ - [Larian responds to Baldur&#39;s Gate 3&#39;s &#39;cut content&#39; theories, says next patch will give Karlach &#39;the ending she deserves&#39;](https://www.pcgamer.com/baldurs-gate-3-karlach-endings-cut-content)
+ - [In the run-up to the official Grand Theft Auto 6 reveal, Rockstar may have lost one of its most senior writers](https://www.pcgamer.com/in-the-run-up-to-the-official-grand-theft-auto-6-reveal-rockstar-may-have-lost-one-of-its-most-senior-writers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
