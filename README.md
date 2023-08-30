@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
- - ⏩ [What are the chances?](http://9gag.com/gag/a4orgjZ)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 💣 [That wagging tail](http://9gag.com/gag/a3ZpO1v)
+ - ⏩ [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 👉 [Awww](http://9gag.com/gag/a1PqnKG)<!-- MEMES:END -->
 
 ---
 
