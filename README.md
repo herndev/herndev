@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - ⏩ [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 👉 [Awww](http://9gag.com/gag/a1PqnKG)<!-- MEMES:END -->
+ - 💣 [Average 9gag bartender](http://9gag.com/gag/abvm8qO)
+ - ⏩ [What should i do](http://9gag.com/gag/aKENn9N)
+ - 👉 [Sandwich maker!](http://9gag.com/gag/aQENBqW)<!-- MEMES:END -->
 
 ---
 
