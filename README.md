@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q2 revenue up 37% YoY to $731.6M, vs. $724.2M est., ARR up 37% YoY to $2.93B, and forecasts Q3 and FY 2024 revenue above expectations &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230830/p31#a230830p31)
- - [Starz is lowering the price of its annual subscription, unlike everyone else](https://www.theverge.com/2023/8/30/23852647/starz-disney-plus-hulu-paramount-plus-streaming-service)
- - [Salesforce reports Q2 revenue up 11% YoY to $8.6B, vs. $8.53B est., and forecasts Q3 and FY 2024 revenue above expectations; CRM jumps 5%+ &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/230830/p30#a230830p30)<!-- TECH:END -->
+ - [Sennheiser’s latest soundbar is half the size and almost half the price](https://www.theverge.com/2023/8/30/23840008/sennheiser-ambeo-soundbar-mini-price-release-date-specs-features-atmos)
+ - [31 Best REI Labor Day Deals &lpar;2023&rpar;: Tents, Sleeping Bags, and Outdoor Gear](https://www.wired.com/story/best-rei-labor-day-deals-outdoor-gear-2023-1/)
+ - [Tel Aviv-based AI21 Labs, which develops generative AI tools for text use cases, raised a $155M Series C at a $1.4B valuation, taking its total funding to $283M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p32#a230830p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
