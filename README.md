@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Should Give This Armored Core-Like Switch Game Another Look](https://kotaku.com/daemon-x-machina-nintendo-switch-armored-core-mech-1850787557?utm_source=regular)
- - [Honkai: Star Rail codes for August 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [X-Men and Star Wars turned sci-fi into Simon Kinberg’s career — and there’s more to come](https://www.polygon.com/23846994/invasion-season-2-simon-kinberg-interview-x-men-star-wars)<!-- GAME:END -->
+ - [Armored Core VI, As Told By Steam Reviews](https://kotaku.com/armored-core-6-steam-reviews-dark-souls-elden-ring-pc-1850788240?utm_source=regular)
+ - [Dwight from the Office advertising Armored Core 6 is the future mech fans dreamed of](https://www.pcgamer.com/dwight-from-the-office-advertising-armored-core-6-is-the-future-mech-fans-dreamed-of)
+ - [Baldur’s Gate 3’s Easiest Lockpicking Tool Is An Axe Or Bomb](https://kotaku.com/baldurs-gate-3-lockpicking-thieves-tool-toughness-loot-1850787949?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
