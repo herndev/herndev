@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Environment activists tried to block road in Germany, didn&#39;t go as well as in UK and France](http://9gag.com/gag/aGENqDn)
- - ⏩ [A simple reminder](http://9gag.com/gag/a7q6BDq)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - ⏩ [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 
