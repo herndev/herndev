@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Ahsoka Is Quietly Showing That Anyone Can Be A Jedi](https://kotaku.com/star-wars-ahsoka-episode-three-series-tano-release-date-1850788375?utm_source=regular)
- - [The Space Marine 2 trailer goes so much harder than you’d expect to capture Warhammer 40K’s massive scale](https://www.polygon.com/23852627/space-marine-2-warhammer-40k-setting-extended-gameplay-teaser)
- - [The Best Star Wars Easter Eggs In The Ahsoka TV Series](https://kotaku.com/star-wars-ahsoka-easter-eggs-cast-release-date-show-1850766489?utm_source=regular)<!-- GAME:END -->
+ - [Call of Duty enlists AI to eavesdrop on voice chat and help ban toxic players starting today](https://www.pcgamer.com/call-of-duty-enlists-ai-to-eavesdrop-on-voice-chat-and-help-ban-toxic-players-starting-today)
+ - [Bethesda commissioned an official Starfield song from Imagine Dragons and if you guessed that it rhymes &#39;high&#39; with &#39;sky,&#39; you are correct](https://www.pcgamer.com/bethesda-commissioned-an-official-starfield-song-from-imagine-dragons-and-if-you-guessed-that-it-rhymes-high-with-sky-you-are-correct)
+ - [The 10 Best Call Of Duty Maps Of All Time](https://kotaku.com/call-of-duty-best-maps-ranked-games-modern-warfare-3-1850788381?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
