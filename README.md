@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Farewell AMD RX 6600-series. AMD pulls the plug on Navi 32 chip production.](https://www.pcgamer.com/farewell-amd-rx-6600-series-amd-pulls-the-plug-on-navi-32-chip-production)
- - [Today&#39;s Wordle hint and answer #802: Wednesday, August 30](https://www.pcgamer.com/wordle-answer-today-hint-802-august-30)
- - [PSA: Starfield preloads are now live on Steam](https://www.pcgamer.com/psa-starfield-preloads-are-now-live-on-steam)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 player one-shots Act 2&#39;s final boss by smuggling 15,000 gold into his pocket](https://www.pcgamer.com/baldurs-gate-3-player-one-shots-act-2s-final-boss-by-smuggling-15000-gold-into-his-pocket)
+ - [Obsidian&#39;s RPG design expert reckons he knows why no one&#39;s maining Cleric in Baldur&#39;s Gate 3, and it&#39;s the same reason no one plays them in his games either](https://www.pcgamer.com/obsidians-rpg-design-expert-reckons-he-knows-why-no-ones-maining-cleric-in-baldurs-gate-3-and-its-the-same-reason-no-one-plays-them-in-his-games-either)
+ - [How to get the Moonlight Sword in Armored Core 6](https://www.pcgamer.com/armored-core-6-moonlight-sword-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
