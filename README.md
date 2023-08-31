@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good &amp; Evil Remaster Spotted, While Sequel Remains A Ghost](https://kotaku.com/beyond-good-and-evil-2-remaster-ubisoft-1850792070?utm_source=regular)
- - [Street Fighter 6’s New Character Looks Like A Slithering Nightmare](https://kotaku.com/street-fighter-6-aki-dlc-fighter-snake-kung-fu-slither-1850791945?utm_source=regular)
- - [Sea of Thieves: The Legend of Monkey Island Continues With ‘The Quest for Guybrush’](https://news.xbox.com/en-us/2023/08/31/sea-of-thieves-monkey-island-quest-for-guybrush/)<!-- GAME:END -->
+ - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
