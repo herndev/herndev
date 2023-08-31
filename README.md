@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Manual therapy](http://9gag.com/gag/aEqN5RK)
- - ⏩ [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 👉 [Microsoft](http://9gag.com/gag/axonqmp)<!-- MEMES:END -->
+ - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - ⏩ [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
 
 ---
 
