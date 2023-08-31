@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - ⏩ [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 👉 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
+ - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
+ - ⏩ [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
 
 ---
 
