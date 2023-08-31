@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)
- - [Philips Hue adds security cameras and announces Matter support](https://appleinsider.com/articles/23/08/31/philips-hue-adds-security-cameras-and-announces-matter-support?utm_medium=rss)
- - [Binance plans to &quot;gradually&quot; end support for its BUSD stablecoin by February 2024, citing Paxos ceasing to mint new BUSD after an NYDFS order in February 2023 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230831/p18#a230831p18)<!-- TECH:END -->
+ - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
+ - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
+ - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
