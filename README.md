@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X wants permission to start collecting your biometric data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
- - [Apple TV+ drops seven-day free trial in UK, South Africa](https://appleinsider.com/articles/23/08/31/apple-tv-drops-seven-day-free-trial-in-uk-south-africa?utm_medium=rss)
- - [A US judge dismisses a lawsuit against Uniswap, founder Hayden Adams, a16z, and others over scam token sales as software cannot be held accountable for losses &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230831/p23#a230831p23)<!-- TECH:END -->
+ - [Super Mario Bros. Wonder looks trippy as hell in new gameplay trailer](https://www.theverge.com/23853685/super-mario-bros-wonder-gameplay-trailer-nintendo-direct)
+ - [Threads will soon let you search through posts](https://www.theverge.com/2023/8/31/23853782/threads-search-posts-feature-test-meta)
+ - [Cybersecurity giant Malwarebytes laid off 100+ employees as it prepares for a major restructuring to separate its consumer and corporate-facing business units &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230831/p25#a230831p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
