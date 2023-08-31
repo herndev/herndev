@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - ⏩ [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
+ - 💣 [Microsoft](http://9gag.com/gag/axonqmp)
+ - ⏩ [Shit happen](http://9gag.com/gag/aMENLg6)
+ - 👉 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)<!-- MEMES:END -->
 
 ---
 
