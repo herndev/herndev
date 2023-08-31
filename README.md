@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - ⏩ [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 👉 [I wonder why?](http://9gag.com/gag/ap9jOAB)<!-- MEMES:END -->
+ - 💣 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
+ - ⏩ [Microsoft](http://9gag.com/gag/axonqmp)
+ - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
 
 ---
 
