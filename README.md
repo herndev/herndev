@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker unveils new Qi2 charging accessories ahead of iPhone 15 launch](https://appleinsider.com/articles/23/08/31/anker-unveils-new-qi2-charging-accessories-ahead-of-iphone-15-launch?utm_medium=rss)
- - [Sony’s portable PlayStation Portal launches on November 15th for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)
- - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)<!-- TECH:END -->
+ - [AirTag helps police track down another car thief](https://appleinsider.com/articles/23/08/31/airtag-helps-police-track-down-another-car-thief?utm_medium=rss)
+ - [A US District judge grants a preliminary injunction temporarily blocking the enforcement of a Texas law that requires age verification to access porn sites &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230831/p40#a230831p40)
+ - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
