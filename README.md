@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Starfield, a game by Microsoft&#39;s Bethesda with 1,000 explorable planets, set for September 6 after a 10-month delay, as Microsoft needs an Xbox hit &lpar;New York Times&rpar;](http://www.techmeme.com/230831/p33#a230831p33)
- - [Belkin launches Qi2 wireless charging pad, 4-port USB-C charger and more](https://appleinsider.com/articles/23/08/31/belkin-launches-qi2-wireless-charging-pad-4-port-usb-c-charger-and-more?utm_medium=rss)
- - [The US Commerce Department says the government &quot;has not blocked chip sales to the Middle East&quot;, after Nvidia and AMD received new US export licensing rules &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230831/p32#a230831p32)<!-- TECH:END -->
+ - [Nvidia and AMD say they face new restrictions on AI chip sales](https://www.theverge.com/2023/8/31/23854012/nvidia-amd-chip-restrictions-middle-east)
+ - [Withings updates its ScanWatch lineup with ScanWatch 2, ScanWatch Light](https://appleinsider.com/articles/23/08/31/withings-updates-its-scanwatch-lineup-with-scanwatch-2-scanwatch-light?utm_medium=rss)
+ - [Meta is showing a &quot;For you on Threads&quot; carousel on the Instagram app for some users, with a button to open the Threads app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p35#a230831p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
