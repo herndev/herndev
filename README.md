@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otto, formerly TeleVet, which makes software for veterinary clinics, raised a $43M Series B led by Mercury Fund, following a $5M Series A in December 2022, &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230831/p29#a230831p29)
- - [Taylor Swift’s Eras Tour is coming to theaters for the ‘theatrical event of the millennium’](https://www.theverge.com/2023/8/31/23853812/taylor-swifts-eras-tour-amc-theatrical-release-price)
- - [ASML says the company has licenses to ship restricted chipmaking machines to China until end of 2023, even as Dutch export control rules kick in on September 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p28#a230831p28)<!-- TECH:END -->
+ - [A look at Starfield, a game by Microsoft&#39;s Bethesda with 1,000 explorable planets, set for September 6 after a 10-month delay, as Microsoft needs an Xbox hit &lpar;New York Times&rpar;](http://www.techmeme.com/230831/p33#a230831p33)
+ - [Belkin launches Qi2 wireless charging pad, 4-port USB-C charger and more](https://appleinsider.com/articles/23/08/31/belkin-launches-qi2-wireless-charging-pad-4-port-usb-c-charger-and-more?utm_medium=rss)
+ - [The US Commerce Department says the government &quot;has not blocked chip sales to the Middle East&quot;, after Nvidia and AMD received new US export licensing rules &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230831/p32#a230831p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
