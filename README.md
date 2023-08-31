@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Tom Clancy’s Rainbow Six Siege, LEGO 2K Drive, and Dead by Daylight](https://news.xbox.com/en-us/2023/08/31/free-play-days-tom-clancys-rainbow-six-siege-lego-2k-drive-and-dead-by-daylight/)
- - [D&amp;D’s latest campaign book feels specially made for fans of Baldur’s Gate 3](https://www.polygon.com/23852415/dnd-dungeons-dragons-phandelver-and-below-review-bg3)
- - [Super Mario Bros. Wonder Gets Its Very Own, Very Plain Nintendo Switch OLED](https://kotaku.com/nintendo-switch-oled-super-mario-bros-wonder-red-zelda-1850791794?utm_source=regular)<!-- GAME:END -->
+ - [Beyond Good &amp; Evil Remaster Spotted, While Sequel Remains A Ghost](https://kotaku.com/beyond-good-and-evil-2-remaster-ubisoft-1850792070?utm_source=regular)
+ - [Street Fighter 6’s New Character Looks Like A Slithering Nightmare](https://kotaku.com/street-fighter-6-aki-dlc-fighter-snake-kung-fu-slither-1850791945?utm_source=regular)
+ - [Sea of Thieves: The Legend of Monkey Island Continues With ‘The Quest for Guybrush’](https://news.xbox.com/en-us/2023/08/31/sea-of-thieves-monkey-island-quest-for-guybrush/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
