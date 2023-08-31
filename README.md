@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt casually mentions that, after Phantom Liberty, it&#39;s done with Cyberpunk 2077](https://www.pcgamer.com/cd-projekt-casually-mentions-that-after-phantom-liberty-its-done-with-cyberpunk-2077)
- - [Borderlands Collection Includes 6 Games For Cheap, With Borderlands 3 Coming To Switch](https://kotaku.com/borderlands-collection-switch-tiny-tina-wonderlands-ps5-1850791515?utm_source=regular)
- - [The Suikoden 1 and 2 remasters have been delayed with no new release date given](https://www.pcgamer.com/the-suikoden-1-and-2-remasters-have-been-delayed-with-no-new-release-date-given)<!-- GAME:END -->
+ - [Free Play Days – Tom Clancy’s Rainbow Six Siege, LEGO 2K Drive, and Dead by Daylight](https://news.xbox.com/en-us/2023/08/31/free-play-days-tom-clancys-rainbow-six-siege-lego-2k-drive-and-dead-by-daylight/)
+ - [D&amp;D’s latest campaign book feels specially made for fans of Baldur’s Gate 3](https://www.polygon.com/23852415/dnd-dungeons-dragons-phandelver-and-below-review-bg3)
+ - [Super Mario Bros. Wonder Gets Its Very Own, Very Plain Nintendo Switch OLED](https://kotaku.com/nintendo-switch-oled-super-mario-bros-wonder-red-zelda-1850791794?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
