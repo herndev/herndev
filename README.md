@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cardboard VS 2nd strongest army in the world.](http://9gag.com/gag/a7q64Om)
+ - 💣 [Fart guitar](http://9gag.com/gag/aREN5ZA)
  - ⏩ [It was made with love](http://9gag.com/gag/aZDVG6V)
  - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
