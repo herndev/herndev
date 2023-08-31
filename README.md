@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ozark](http://9gag.com/gag/aoKqXrw)
- - ⏩ [Nice](http://9gag.com/gag/aBdNA5O)
- - 👉 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)<!-- MEMES:END -->
+ - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - ⏩ [There is no God](http://9gag.com/gag/aKENQpO)
+ - 👉 [Barbara Palvin](http://9gag.com/gag/awZGWvr)<!-- MEMES:END -->
 
 ---
 
