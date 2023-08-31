@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 years after announcing the sequel, Ubisoft is gonna try to remember how to release a Beyond Good and Evil game with a new edition of the first one](https://www.pcgamer.com/15-years-after-announcing-the-sequel-ubisoft-is-gonna-try-to-remember-how-to-release-a-beyond-good-and-evil-game-with-a-new-edition-of-the-first-one)
- - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)
- - [Succession writer says she&#39;s considering a return to games because they&#39;re ‘genuinely, massively exciting in a way that other forms aren&#39;t&#39;](https://www.pcgamer.com/succession-writer-says-shes-considering-a-return-to-games-because-theyre-genuinely-massively-exciting-in-a-way-that-other-forms-arent)<!-- GAME:END -->
+ - [CD Projekt casually mentions that, after Phantom Liberty, it&#39;s done with Cyberpunk 2077](https://www.pcgamer.com/cd-projekt-casually-mentions-that-after-phantom-liberty-its-done-with-cyberpunk-2077)
+ - [Borderlands Collection Includes 6 Games For Cheap, With Borderlands 3 Coming To Switch](https://kotaku.com/borderlands-collection-switch-tiny-tina-wonderlands-ps5-1850791515?utm_source=regular)
+ - [The Suikoden 1 and 2 remasters have been delayed with no new release date given](https://www.pcgamer.com/the-suikoden-1-and-2-remasters-have-been-delayed-with-no-new-release-date-given)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
