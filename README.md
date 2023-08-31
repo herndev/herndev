@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - ⏩ [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - ⏩ [Netflix being babysitted as they should be](http://9gag.com/gag/avQXMAO)
  - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
 
 ---
