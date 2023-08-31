@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - ⏩ [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 💣 [Ozark](http://9gag.com/gag/aoKqXrw)
+ - ⏩ [Nice](http://9gag.com/gag/aBdNA5O)
+ - 👉 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)<!-- MEMES:END -->
 
 ---
 
