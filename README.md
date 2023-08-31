@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet DLC leaks reveal new forms, yet again](https://www.polygon.com/23854440/pokemon-scarlet-violet-dlc-leak-teal-mask)
- - [Critics are mostly positive on Starfield, but not unanimous: From 10/10s to &#39;cold, lifeless, and uninspired&#39;](https://www.pcgamer.com/starfield-scores-critic-roundup)
- - [Miley Cyrus opens up about her grueling work schedule as a kid actor](https://www.polygon.com/23854339/miley-cyrus-disney-kid-actor-jenna-ortega-nickelodeon-jennette-mccurdy)<!-- GAME:END -->
+ - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
+ - [Netflix’s Who is Erin Carter tees up a season 2 Evin Ahmad  &lpar;mostly&rpar; likes](https://www.polygon.com/23854487/who-is-erin-carter-end-explained)
+ - [Hours before Starfield officially launches, it&#39;s already the top game on Twitch with 350K viewers](https://www.pcgamer.com/hours-before-starfield-officially-launches-its-already-the-top-game-on-twitch-with-350k-viewers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
