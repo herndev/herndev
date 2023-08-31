@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Microsoft](http://9gag.com/gag/axonqmp)
- - ⏩ [Shit happen](http://9gag.com/gag/aMENLg6)
- - 👉 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)<!-- MEMES:END -->
+ - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
+ - ⏩ [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 👉 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
 
 ---
 
