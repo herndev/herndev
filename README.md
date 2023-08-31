@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)
- - [Starfield’s Shipbuilding Seems Like A Frustrating Experience](https://kotaku.com/review-starfield-release-early-access-spaceship-combat-1850793154?utm_source=regular)
- - [Nier Automata&#39;s Latest Video Game Crossover Is Its Horniest One Yet](https://kotaku.com/nier-automata-collab-goddess-victory-nikke-2b-a2-1850793126?utm_source=regular)<!-- GAME:END -->
+ - [Starfield console commands: Cheats for becoming the invincible master of space](https://www.pcgamer.com/starfield-console-commands-cheats)
+ - [Here’s what’s going on with One Piece’s mysterious Mr. 7, and the organization he works for](https://www.polygon.com/23854265/one-piece-mr-7-baroque-works-netflix-explained)
+ - [Star Citizen studio denies reports of layoffs as crowdfunding campaign sails past $600M](https://www.pcgamer.com/star-citizen-studio-denies-reports-of-layoffs-as-crowdfunding-campaign-sails-past-dollar600m)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
