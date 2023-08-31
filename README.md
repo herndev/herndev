@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
- - ⏩ [They get stiches](http://9gag.com/gag/az2DWgK)
- - 👉 [Manual therapy](http://9gag.com/gag/aEqN5RK)<!-- MEMES:END -->
+ - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
+ - ⏩ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 👉 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)<!-- MEMES:END -->
 
 ---
 
