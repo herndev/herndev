@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)
- - [A monthslong investigation exposes the secrets of Russian ransomware gang Trickbot, which thrived despite global disruption efforts, and a key member&#39;s identity &lpar;Wired&rpar;](http://www.techmeme.com/230831/p10#a230831p10)
- - [Alexa and Google Assistant play together nicely, but not perfectly, on JBL’s new speakers](https://www.theverge.com/2023/8/31/23853487/jbl-authentics-200-300-500-hands-on-alexa-google-assistant-smart-speaker)<!-- TECH:END -->
+ - [She Sacrificed Her Youth to Get the Tech Bros to Grow Up](https://www.wired.com/story/patricia-moore-sacrificed-youth-to-get-tech-bros-to-grow-up/)
+ - [Preferring Biological Children Is Immoral](https://www.wired.com/story/ethics-children-parenting-family-biology/)
+ - [This USB button helps Jeopardy! contestants get their buzz on](https://www.theverge.com/23852814/jeopardy-signaling-device-delcom-practice-buzzer-button-of-the-month)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
