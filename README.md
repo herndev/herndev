@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #803: Thursday, August 31](https://www.pcgamer.com/wordle-answer-today-hint-803-august-31)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)<!-- GAME:END -->
+ - [Netflix’s One Piece grinds down the greatest manga ever until it’s just content](https://www.polygon.com/reviews/23852766/one-piece-live-action-review-netflix-season-1)
+ - [Netflix’s One Piece Live-Action Series Delivers More Than It Disappoints](https://kotaku.com/one-piece-netflix-live-action-oda-luffy-review-anime-1850788857?utm_source=regular)
+ - [Today&#39;s Wordle hint and answer #803: Thursday, August 31](https://www.pcgamer.com/wordle-answer-today-hint-803-august-31)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
