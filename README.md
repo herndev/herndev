@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble updates its community guidelines to crack down on bots, spam, ghosting, and doxxing, and says it has blocked 8.2M+ accounts this year, mostly using AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p37#a230831p37)
- - [Watch India’s lunar rover take a spin on the Moon](https://www.theverge.com/2023/8/31/23854071/india-lunar-moon-mission-chandrayaan-3-rover-video)
- - [Fairphone 5 hands-on: Feels like the best phone for a small group of people](https://www.androidauthority.com/fairphone-5-hands-on-3359027/)<!-- TECH:END -->
+ - [New Chrome feature makes it easier to grab full-resolution frames from videos](https://www.theverge.com/2023/8/31/23854302/google-chrome-copy-video-frame-chromium)
+ - [A Baldur’s Gate 3 companion bug is ruining my game](https://www.theverge.com/2023/8/31/23852398/baldurs-gate-3-bug-patch-2-jaheira)
+ - [University of Z&amp;uuml;rich and Intel researchers show autonomous drones that use deep reinforcement learning to beat human champions in first-person view drone racing &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230831/p38#a230831p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
