@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia and AMD say they face new restrictions on AI chip sales](https://www.theverge.com/2023/8/31/23854012/nvidia-amd-chip-restrictions-middle-east)
- - [Withings updates its ScanWatch lineup with ScanWatch 2, ScanWatch Light](https://appleinsider.com/articles/23/08/31/withings-updates-its-scanwatch-lineup-with-scanwatch-2-scanwatch-light?utm_medium=rss)
- - [Meta is showing a &quot;For you on Threads&quot; carousel on the Instagram app for some users, with a button to open the Threads app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p35#a230831p35)<!-- TECH:END -->
+ - [Bumble updates its community guidelines to crack down on bots, spam, ghosting, and doxxing, and says it has blocked 8.2M+ accounts this year, mostly using AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p37#a230831p37)
+ - [Watch India’s lunar rover take a spin on the Moon](https://www.theverge.com/2023/8/31/23854071/india-lunar-moon-mission-chandrayaan-3-rover-video)
+ - [Fairphone 5 hands-on: Feels like the best phone for a small group of people](https://www.androidauthority.com/fairphone-5-hands-on-3359027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
