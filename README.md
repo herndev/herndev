@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
- - ⏩ [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - ⏩ [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 👉 [I wonder why?](http://9gag.com/gag/ap9jOAB)<!-- MEMES:END -->
 
 ---
 
