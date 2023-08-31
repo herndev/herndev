@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
- - ⏩ [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
+ - ⏩ [They get stiches](http://9gag.com/gag/az2DWgK)
+ - 👉 [Manual therapy](http://9gag.com/gag/aEqN5RK)<!-- MEMES:END -->
 
 ---
 
