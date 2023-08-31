@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - ⏩ [Ozark](http://9gag.com/gag/aoKqXrw)
+ - ⏩ [Barbara Palvin](http://9gag.com/gag/awZGWvr)
  - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
