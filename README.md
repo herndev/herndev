@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
- - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
- - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)<!-- TECH:END -->
+ - [X wants permission to start collecting your biometric data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
+ - [Apple TV+ drops seven-day free trial in UK, South Africa](https://appleinsider.com/articles/23/08/31/apple-tv-drops-seven-day-free-trial-in-uk-south-africa?utm_medium=rss)
+ - [A US judge dismisses a lawsuit against Uniswap, founder Hayden Adams, a16z, and others over scam token sales as software cannot be held accountable for losses &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230831/p23#a230831p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
