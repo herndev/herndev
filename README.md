@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood Wallet adds support for bitcoin and dogecoin six months after public launch, and is rolling out in-app Ethereum swaps to all users in the coming weeks &lpar;Ben Strack/Blockworks&rpar;](http://www.techmeme.com/230830/p33#a230830p33)
- - [Xbox clips will soon automatically upload to OneDrive cloud storage](https://www.theverge.com/2023/8/30/23853101/microsoft-xbox-clips-screenshots-onedrive-automatic-uploads-feature)
- - [Apple may stop offering customer support on social media](https://www.theverge.com/2023/8/30/23852867/apple-x-twitter-youtube-netflix-sony)<!-- TECH:END -->
+ - [Google launches its Search Generative Experience in India and Japan via Search Labs opt-in, following the US launch of the AI search feature in May 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p35#a230830p35)
+ - [Google finally launches AI-powered Search outside US](https://www.androidauthority.com/google-sge-launch-outside-us-3359338/)
+ - [Google kills Pixel Pass without ever upgrading subscriber’s phones](https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
