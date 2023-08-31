@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media heralds Huawei&#39;s new Mate 60 Pro, which apparently includes a Huawei-made Kirin 5G chip, as a repudiation of US efforts to contain China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p15#a230831p15)
- - [Lessons from the rapid grocery delivery boom: $10B+ of VC money, used for ads and promos, created the market from nothing, app downloads have cratered, and more &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230831/p14#a230831p14)
- - [Stockholm-based Klarna reports H1 2023 revenue up 15% YoY to ~$963M and a ~$185M adjusted loss, down from a ~$570M loss in H1 2022, as the company cuts costs &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230831/p13#a230831p13)<!-- TECH:END -->
+ - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)
+ - [Philips Hue adds security cameras and announces Matter support](https://appleinsider.com/articles/23/08/31/philips-hue-adds-security-cameras-and-announces-matter-support?utm_medium=rss)
+ - [Binance plans to &quot;gradually&quot; end support for its BUSD stablecoin by February 2024, citing Paxos ceasing to mint new BUSD after an NYDFS order in February 2023 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230831/p18#a230831p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
