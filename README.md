@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
- - ⏩ [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
+ - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
+ - ⏩ [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 👉 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
 
 ---
 
