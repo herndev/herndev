@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Mario Bros. Wonder looks trippy as hell in new gameplay trailer](https://www.theverge.com/23853685/super-mario-bros-wonder-gameplay-trailer-nintendo-direct)
- - [Threads will soon let you search through posts](https://www.theverge.com/2023/8/31/23853782/threads-search-posts-feature-test-meta)
- - [Cybersecurity giant Malwarebytes laid off 100+ employees as it prepares for a major restructuring to separate its consumer and corporate-facing business units &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230831/p25#a230831p25)<!-- TECH:END -->
+ - [Otto, formerly TeleVet, which makes software for veterinary clinics, raised a $43M Series B led by Mercury Fund, following a $5M Series A in December 2022, &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230831/p29#a230831p29)
+ - [Taylor Swift’s Eras Tour is coming to theaters for the ‘theatrical event of the millennium’](https://www.theverge.com/2023/8/31/23853812/taylor-swifts-eras-tour-amc-theatrical-release-price)
+ - [ASML says the company has licenses to ship restricted chipmaking machines to China until end of 2023, even as Dutch export control rules kick in on September 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p28#a230831p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
