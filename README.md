@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)<!-- GAME:END -->
+ - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
+ - [3500 people had a massive firefight in EVE Online out of &#39;boredom&#39; &lpar;and because they had dreadnoughts&rpar;](https://www.pcgamer.com/about-3500-people-had-a-massive-firefight-in-eve-online-out-of-boredom-and-because-they-had-dreadnoughts)
+ - [Starfield Seems Like A &lpar;Mostly&rpar; Bug-Free Journey Through Space](https://kotaku.com/starfield-release-review-bug-free-cyberpunk-2077-skyrim-1850792816?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
