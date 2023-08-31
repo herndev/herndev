@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - ⏩ [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
+ - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
+ - ⏩ [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
  - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
