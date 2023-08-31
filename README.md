@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - ⏩ [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
+ - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - ⏩ [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
 
 ---
 
