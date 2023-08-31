@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara put a notification light in its new Matter ceiling light](https://www.theverge.com/2023/8/31/23852845/aqara-matter-enabled-ceiling-light)
- - [How open-source software transformed automated insulin delivery systems, as many advocates say the tech promises more personalization than proprietary software &lpar;Liam Drew/Nature&rpar;](http://www.techmeme.com/230831/p6#a230831p6)
- - [A look at cybercrime writing contests, which Russian-language cybercrime forums have hosted for over a decade, that offer the winners up to $80K in prize money &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230831/p5#a230831p5)<!-- TECH:END -->
+ - [Sea-owned Garena plans to relaunch its popular mobile game Free Fire in India on September 5, around 18 months after the app was banned over security concerns &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230831/p7#a230831p7)
+ - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
+ - [Philips Hue updates existing lights with Matter, launches new security cameras](https://www.androidauthority.com/philips-hue-matter-update-security-cameras-3359494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
