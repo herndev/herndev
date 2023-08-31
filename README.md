@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [$300,000 worth of TCG cards returned as August&#39;s Gen Con heist nears conclusion, detectives &#39;in communication&#39; with suspect attorneys](https://www.pcgamer.com/thieves-strolled-out-with-dollar300000-worth-of-tcg-cards-in-gen-con-heist)
  - [Intel shows off a maths defying 8-core chip with 528 threads and optical interconnects](https://www.pcgamer.com/intel-shows-off-a-maths-defying-8-core-chip-with-528-threads-and-optical-interconnects)
- - [Starfield release time: when you can launch the next big RPG](https://www.pcgamer.com/starfield-release-time-date-unlock)
- - [Netflix’s One Piece grinds down the greatest manga ever until it’s just content](https://www.polygon.com/reviews/23852766/one-piece-live-action-review-netflix-season-1)<!-- GAME:END -->
+ - [Starfield release time: when you can launch the next big RPG](https://www.pcgamer.com/starfield-release-time-date-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
