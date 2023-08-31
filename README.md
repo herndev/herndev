@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
- - [Netflix’s Who is Erin Carter tees up a season 2 Evin Ahmad  &lpar;mostly&rpar; likes](https://www.polygon.com/23854487/who-is-erin-carter-end-explained)
- - [Hours before Starfield officially launches, it&#39;s already the top game on Twitch with 350K viewers](https://www.pcgamer.com/hours-before-starfield-officially-launches-its-already-the-top-game-on-twitch-with-350k-viewers)<!-- GAME:END -->
+ - [Miyamoto Was Like ‘That’s Not How Elephants Work’](https://kotaku.com/elephant-super-mario-bros-wonder-miyamoto-nintendo-1850794505?utm_source=regular)
+ - [Medieval MMO Gloria Victis and its developer are shutting down because of financial pressure and burnout](https://www.pcgamer.com/medieval-mmo-gloria-victis-and-its-developer-are-shutting-down-because-of-financial-pressure-and-burnout)
+ - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
