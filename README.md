@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to eliminate social media support adviser roles across X, YouTube, and the Apple Support Community website starting later this year &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230830/p36#a230830p36)
  - [Google launches its Search Generative Experience in India and Japan via Search Labs opt-in, following the US launch of the AI search feature in May 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p35#a230830p35)
- - [Google finally launches AI-powered Search outside US](https://www.androidauthority.com/google-sge-launch-outside-us-3359338/)
- - [Google kills Pixel Pass without ever upgrading subscriber’s phones](https://www.theverge.com/2023/8/30/23851107/google-graveyard-pixel-pass-subscription-phone-upgrades)<!-- TECH:END -->
+ - [Google finally launches AI-powered Search outside US](https://www.androidauthority.com/google-sge-launch-outside-us-3359338/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
