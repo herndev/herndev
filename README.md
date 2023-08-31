@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - ⏩ [Microsoft](http://9gag.com/gag/axonqmp)
- - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
+ - 💣 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - ⏩ [Ozark](http://9gag.com/gag/aoKqXrw)
+ - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
 
