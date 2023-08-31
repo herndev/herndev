@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield console commands: Cheats for becoming the invincible master of space](https://www.pcgamer.com/starfield-console-commands-cheats)
- - [Here’s what’s going on with One Piece’s mysterious Mr. 7, and the organization he works for](https://www.polygon.com/23854265/one-piece-mr-7-baroque-works-netflix-explained)
- - [Star Citizen studio denies reports of layoffs as crowdfunding campaign sails past $600M](https://www.pcgamer.com/star-citizen-studio-denies-reports-of-layoffs-as-crowdfunding-campaign-sails-past-dollar600m)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet DLC leaks reveal new forms, yet again](https://www.polygon.com/23854440/pokemon-scarlet-violet-dlc-leak-teal-mask)
+ - [Critics are mostly positive on Starfield, but not unanimous: From 10/10s to &#39;cold, lifeless, and uninspired&#39;](https://www.pcgamer.com/starfield-scores-critic-roundup)
+ - [Miley Cyrus opens up about her grueling work schedule as a kid actor](https://www.polygon.com/23854339/miley-cyrus-disney-kid-actor-jenna-ortega-nickelodeon-jennette-mccurdy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
