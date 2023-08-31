@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sea-owned Garena plans to relaunch its popular mobile game Free Fire in India on September 5, around 18 months after the app was banned over security concerns &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230831/p7#a230831p7)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Philips Hue updates existing lights with Matter, launches new security cameras](https://www.androidauthority.com/philips-hue-matter-update-security-cameras-3359494/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)
+ - [A monthslong investigation exposes the secrets of Russian ransomware gang Trickbot, which thrived despite global disruption efforts, and a key member&#39;s identity &lpar;Wired&rpar;](http://www.techmeme.com/230831/p10#a230831p10)
+ - [Alexa and Google Assistant play together nicely, but not perfectly, on JBL’s new speakers](https://www.theverge.com/2023/8/31/23853487/jbl-authentics-200-300-500-hands-on-alexa-google-assistant-smart-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
