@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)
- - [Mark Zuckerberg&#39;s Avatar Legs Saga Ends With A Whimper, Not A Bang](https://kotaku.com/meta-horizon-worlds-mark-zuckerberg-avatar-legs-quest-1850789924?utm_source=regular)
- - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/08/30/20230830-psstore/)
+ - [Mark Zuckerberg&#39;s Avatar Legs Saga Ends With A Whimper, Not A Bang](https://kotaku.com/meta-horizon-worlds-mark-zuckerberg-avatar-legs-quest-1850789924?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
