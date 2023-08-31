@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - ⏩ [Netflix being babysitted as they should be](http://9gag.com/gag/avQXMAO)
- - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
+ - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
+ - ⏩ [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
+ - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
 
