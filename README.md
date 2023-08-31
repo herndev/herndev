@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
- - ⏩ [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 👉 [Only 93](http://9gag.com/gag/aYVnX4v)<!-- MEMES:END -->
+ - 💣 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
+ - ⏩ [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
 
