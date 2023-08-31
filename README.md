@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - ⏩ [There is no God](http://9gag.com/gag/aKENQpO)
- - 👉 [Barbara Palvin](http://9gag.com/gag/awZGWvr)<!-- MEMES:END -->
+ - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - ⏩ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
 
 ---
 
