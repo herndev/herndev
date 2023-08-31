@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy&#39;s movie trailer finally introduces the gang: Freddy, Foxy, Bonnie, Chica, and Mr Cupcake, who eats a guy&#39;s face](https://www.pcgamer.com/five-nights-at-freddys-movie-trailer-finally-introduces-the-gang-freddy-foxy-bonnie-chica-and-mr-cupcake-who-eats-a-guys-face)
- - [Space Marine 2 extended gameplay trailer showcases huge environments and hordes of enemies, but somehow it&#39;s not as violent as I expected](https://www.pcgamer.com/space-marine-2-extended-gameplay-trailer-showcases-huge-environments-and-hordes-of-enemies-but-somehow-its-not-as-violent-as-i-expected)
- - [We scientifically ranked Baldur&#39;s Gate 3&#39;s party members on hotness, toughness, and meme-ability](https://www.pcgamer.com/we-scientifically-ranked-baldurs-gate-3s-party-members-on-hotness-toughness-and-meme-ability)<!-- GAME:END -->
+ - [Mark Zuckerberg&#39;s Avatar Legs Saga Ends With A Whimper, Not A Bang](https://kotaku.com/meta-horizon-worlds-mark-zuckerberg-avatar-legs-quest-1850789924?utm_source=regular)
+ - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)
+ - [A.K.I. slithers into Street Fighter 6 on September 27 – full gameplay details revealed](https://blog.playstation.com/2023/08/30/a-k-i-slithers-into-street-fighter-6-on-september-27-full-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
