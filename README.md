@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
- - [3500 people had a massive firefight in EVE Online out of &#39;boredom&#39; &lpar;and because they had dreadnoughts&rpar;](https://www.pcgamer.com/about-3500-people-had-a-massive-firefight-in-eve-online-out-of-boredom-and-because-they-had-dreadnoughts)
- - [Starfield Seems Like A &lpar;Mostly&rpar; Bug-Free Journey Through Space](https://kotaku.com/starfield-release-review-bug-free-cyberpunk-2077-skyrim-1850792816?utm_source=regular)<!-- GAME:END -->
+ - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)
+ - [Starfield’s Shipbuilding Seems Like A Frustrating Experience](https://kotaku.com/review-starfield-release-early-access-spaceship-combat-1850793154?utm_source=regular)
+ - [Nier Automata&#39;s Latest Video Game Crossover Is Its Horniest One Yet](https://kotaku.com/nier-automata-collab-goddess-victory-nikke-2b-a2-1850793126?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
