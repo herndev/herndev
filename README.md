@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - ⏩ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 💣 [Cardboard VS 2nd strongest army in the world.](http://9gag.com/gag/a7q64Om)
+ - ⏩ [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
 ---
 
