@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple provides detailed reasoning behind abandoning iPhone CSAM detection](https://appleinsider.com/articles/23/08/31/apple-provides-detailed-reasoning-behind-abandoning-iphone-csam-detection?utm_medium=rss)
- - [Can Samsung Food usher in a new era for the smart kitchen?](https://www.theverge.com/2023/8/31/23853978/samsung-food-app-smart-kitchen-ifa-2023)
- - [New York subway system disables feature that could let stalkers track your trips](https://www.theverge.com/2023/8/31/23854372/new-york-subway-system-mta-omny-disabled)<!-- TECH:END -->
+ - [Anker unveils new Qi2 charging accessories ahead of iPhone 15 launch](https://appleinsider.com/articles/23/08/31/anker-unveils-new-qi2-charging-accessories-ahead-of-iphone-15-launch?utm_medium=rss)
+ - [Sony’s portable PlayStation Portal launches on November 15th for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)
+ - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
