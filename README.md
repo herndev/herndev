@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
- - ⏩ [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 👉 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)<!-- MEMES:END -->
+ - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - ⏩ [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 👉 [African mosquito burger](http://9gag.com/gag/a4orgmZ)<!-- MEMES:END -->
 
 ---
 
