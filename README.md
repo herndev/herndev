@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$300,000 worth of TCG cards returned as August&#39;s Gen Con heist nears conclusion, detectives &#39;in communication&#39; with suspect attorneys](https://www.pcgamer.com/thieves-strolled-out-with-dollar300000-worth-of-tcg-cards-in-gen-con-heist)
- - [Intel shows off a maths defying 8-core chip with 528 threads and optical interconnects](https://www.pcgamer.com/intel-shows-off-a-maths-defying-8-core-chip-with-528-threads-and-optical-interconnects)
- - [Starfield release time: when you can launch the next big RPG](https://www.pcgamer.com/starfield-release-time-date-unlock)<!-- GAME:END -->
+ - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)
+ - [Succession writer says she&#39;s considering a return to games because they&#39;re ‘genuinely, massively exciting in a way that other forms aren&#39;t&#39;](https://www.pcgamer.com/succession-writer-says-shes-considering-a-return-to-games-because-theyre-genuinely-massively-exciting-in-a-way-that-other-forms-arent)
+ - [This 24 karat gold Razer gaming mouse is giving off major Scrooge McDuck vibes](https://www.pcgamer.com/this-24-karat-gold-razer-gaming-mouse-is-giving-off-major-scrooge-mcduck-vibes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
