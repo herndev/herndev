@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - ⏩ [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 👉 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
+ - 💣 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
+ - ⏩ [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 👉 [Only 93](http://9gag.com/gag/aYVnX4v)<!-- MEMES:END -->
 
 ---
 
