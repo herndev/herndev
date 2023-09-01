@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece, Our Flags, and the modern pirate media revolution](https://www.polygon.com/entertainment/23853756/one-piece-pirate-stories-movies-tv-our-flag-means-death)
- - [Starfield&#39;s Controversial Missing PC Feature Already Modded Into The Game](https://kotaku.com/starfield-pc-nvidia-dlss-amd-fsr2-support-exclusive-mod-1850796636?utm_source=regular)
- - [Armored Core 6 fans are making gorgeous art of the characters we never see](https://www.polygon.com/23854444/armored-core-6-ayre-621-fan-art-rusty)<!-- GAME:END -->
+ - [Starfield’s Companions Are A Blessing And A Curse](https://kotaku.com/starfield-companions-vasco-sarah-space-bethesda-game-1850796968?utm_source=regular)
+ - [IFA 2023: Lenovo Reveals Its First Windows 11 Gaming Handheld and New 3D Monitor for Business](https://news.xbox.com/en-us/2023/09/01/ifa-2023-lenovo-gaming-handheld/)
+ - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
