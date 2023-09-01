@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - ⏩ [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 👉 [Lord of the simps](http://9gag.com/gag/avQXY2n)<!-- MEMES:END -->
+ - 💣 [Asking the real questions](http://9gag.com/gag/aYVn21O)
+ - ⏩ [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)<!-- MEMES:END -->
 
 ---
 
