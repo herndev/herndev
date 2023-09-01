@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the Year of the Big Game, and that’s a good thing](https://www.theverge.com/2023/9/1/23846264/starfield-baldurs-gate-legend-of-zelda-year-video-game-2023)
- - [Xiaomi 14 Ultra: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/xiaomi-14-ultra-release-date-price-specs-3357551/)
- - [Donald Trump’s trial in Georgia will be livestreamed on YouTube](https://www.theverge.com/2023/9/1/23855299/donald-trump-election-interference-georgia-livestream-youtube)<!-- TECH:END -->
+ - [Taylor Swift’s Eras Tour movie broke presale records in less than three hours](https://www.theverge.com/2023/9/1/23855524/taylor-swift-eras-tour-movie-presale-records-amc)
+ - [New York-based Benitago, an Amazon e-commerce business acquirer that has raised $380M in equity and debt in the past two years, files for bankruptcy &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230901/p13#a230901p13)
+ - [Paris becomes the first European capital to outlaw rented electric scooters, following a vote in April; e-scooter rental companies shift focus to electric bikes &lpar;Juliette Gu&amp;eacute;ron-Gabrielle/New York Times&rpar;](http://www.techmeme.com/230901/p12#a230901p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
