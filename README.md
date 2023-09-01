@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYPD will police Labor Day parties with surveillance drones](https://www.theverge.com/2023/8/31/23318832/nypd-drones-parties-jouvert-west-indian-labor-day-weekend)
- - [&#39;Reservation Dogs&#39; Is a Vision of Hollywood’s New Normal](https://www.wired.com/story/reservation-dogs-future-of-tv/)
- - [AirTag helps police track down another car thief](https://appleinsider.com/articles/23/08/31/airtag-helps-police-track-down-another-car-thief?utm_medium=rss)<!-- TECH:END -->
+ - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)
+ - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)
+ - [Amazon&#39;s Buy With Prime Now Offered in Shopify Stores     - CNET](https://www.cnet.com/tech/amazons-buy-with-prime-now-offered-in-shopify-stores/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
