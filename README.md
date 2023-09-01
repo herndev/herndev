@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - ⏩ [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 💣 [I wanted to share that with you guys . I\u2019m sad as f**k . He fought a year without complaining once . And he was like us a degenerate that I\u2019ll remember all my life .](http://9gag.com/gag/aBdN7EA)
+ - ⏩ [Once a internet meme always a internet meme](http://9gag.com/gag/aA0Nom0)
+ - 👉 [Nobody cares but I am proud anyway - Learned from zero how to build this deck!](http://9gag.com/gag/aQENwBq)<!-- MEMES:END -->
 
 ---
 
