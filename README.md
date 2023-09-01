@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo’s Legion Go is a handheld PC with Switch-like tricks](https://www.polygon.com/23852815/lenovo-legion-go-portable-pc-switch-features-specs-price)
- - [Today&#39;s Wordle hint and answer #804: Friday, September 1](https://www.pcgamer.com/wordle-answer-today-hint-804-september-1)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for September: Saints Row, Black Desert – Traveler Edition, Generation Zero](https://blog.playstation.com/2023/08/31/20230831-psplus/)<!-- GAME:END -->
+ - [There&#39;s already a Starfield mod that swaps FSR for DLSS](https://www.pcgamer.com/theres-already-a-starfield-mod-that-swaps-fsr-for-dlss)
+ - [The Lenovo Legion Go can turn one of its controllers into a gaming mouse. Wait, what?](https://www.pcgamer.com/lenovo-legion-go-hands-on)
+ - [Lenovo’s Legion Go is a handheld PC with Switch-like tricks](https://www.polygon.com/23852815/lenovo-legion-go-portable-pc-switch-features-specs-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
