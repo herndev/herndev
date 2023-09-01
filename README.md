@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of a child safety group&#39;s campaign, Apple details why it&#39;s dropping iCloud CSAM scanning, saying it could be a &quot;slippery slope of unintended consequences&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230831/p45#a230831p45)
- - [SentinelOne CEO Tomer Weingarten says the cybersecurity company is not for sale, following an August report claiming the company was looking to sell &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230831/p44#a230831p44)
- - [Apple Vision Pro Optical Inserts pairing process and other details revealed](https://appleinsider.com/articles/23/09/01/apple-vision-pro-optical-inserts-pairing-process-and-other-details-revealed?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)
+ - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)
+ - [Lenovo Legion Go is here: A massive, super-powered Windows gaming handheld](https://www.androidauthority.com/lenovo-legion-go-launched-3359556/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
