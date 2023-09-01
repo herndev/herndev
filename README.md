@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018?utm_source=regular)
- - [What’s Included &lpar;And What’s Not&rpar; In Cyberpunk 2077’s Free 2.0 Update](https://kotaku.com/cyberpunk-2077-phantom-liberty-update-2-0-free-patch-1850797911?utm_source=regular)
- - [Help! I’m Trapped In Starfield’s Menus And Can’t Get Out](https://kotaku.com/starfield-release-menu-ui-starmap-inventory-xbox-review-1850797661?utm_source=regular)<!-- GAME:END -->
+ - [PowerWash Simulator is going Back to the Future in its latest weird crossover](https://www.pcgamer.com/powerwash-simulator-is-going-back-to-the-future-in-its-latest-weird-crossover)
+ - [Surprising no one, Starfield players are already filling their ships with junk](https://www.pcgamer.com/surprising-no-one-starfield-players-are-already-filling-their-ships-with-junk)
+ - [Tragic: Skyrim&#39;s ultra-sneaky bucket trick doesn&#39;t work in Starfield](https://www.pcgamer.com/tragic-skyrims-ultra-sneaky-bucket-trick-doesnt-work-in-starfield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
