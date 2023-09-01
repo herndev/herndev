@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Miyamoto Was Like ‘That’s Not How Elephants Work’](https://kotaku.com/elephant-super-mario-bros-wonder-miyamoto-nintendo-1850794505?utm_source=regular)
- - [Medieval MMO Gloria Victis and its developer are shutting down because of financial pressure and burnout](https://www.pcgamer.com/medieval-mmo-gloria-victis-and-its-developer-are-shutting-down-because-of-financial-pressure-and-burnout)
- - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)<!-- GAME:END -->
+ - [Your biggest Starfield questions, answered](https://www.polygon.com/starfield-guide/23843244/biggest-questions-answered-faq)
+ - [The best early skills in Starfield](https://www.polygon.com/starfield-guide/23842153/best-skills-advanced-expert-master)
+ - [Starfield Starters: Customizing Your Perfect Captain](https://news.xbox.com/en-us/2023/08/31/starfield-starters-customizing-perfect-captain/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
