@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe](http://9gag.com/gag/a04W2Qq)
- - ⏩ [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 👉 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)<!-- MEMES:END -->
+ - 💣 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - ⏩ [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
 
 ---
 
