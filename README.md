@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard reflects on Starfield&#39;s development, says there were times he thought &#39;we had certainly bitten off far more than we could chew&#39;](https://www.pcgamer.com/todd-howard-reflects-on-starfields-development-says-there-were-times-when-he-thought-we-had-certainly-bitten-off-far-more-than-we-could-chew)
- - [The artwork for this Japanese-inspired TTRPG gives me shivers](https://www.pcgamer.com/the-artwork-for-this-japanese-inspired-ttrpg-gives-me-shivers)
- - [The next game from the Battle Brothers devs keeps its spirit and transplants it into an XCOM-like](https://www.pcgamer.com/the-next-game-from-the-battle-brothers-devs-keeps-its-spirit-and-transplants-it-into-an-xcom-like)<!-- GAME:END -->
+ - [Radeon RX 7700 XT and 7800 XT pricing &#39;super aggressive&#39; according to AMD](https://www.pcgamer.com/radeon-rx-7700-xt-and-7800-xt-pricing-super-aggressive-according-to-amd)
+ - [Pete Hines on Starfield: &#39;We could make a safer, less buggy, less risky game if we wanted to&#39;](https://www.pcgamer.com/pete-hines-on-starfield-we-could-make-a-safer-less-buggy-less-risky-game-if-we-wanted-to)
+ - [How to Boost Kick in Armored Core 6](https://www.pcgamer.com/armored-core-6-how-to-kick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
