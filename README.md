@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)
  - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)
- - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)
- - [Amazon&#39;s Buy With Prime Now Offered in Shopify Stores     - CNET](https://www.cnet.com/tech/amazons-buy-with-prime-now-offered-in-shopify-stores/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
