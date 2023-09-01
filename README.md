@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield and Series S 1TB Kick Off an Incredible September](https://news.xbox.com/en-us/2023/09/01/starfield-and-series-s-1tb-kick-off-an-incredible-september/)
- - [The Wheel of Time is in its Two Towers era](https://www.polygon.com/23854425/the-wheel-of-time-season-2-impressions)
- - [The indie game&#39;s indie game is free on Epic](https://www.pcgamer.com/the-indie-games-indie-game-is-free-on-epic)<!-- GAME:END -->
+ - [One Piece, Our Flags, and the modern pirate media revolution](https://www.polygon.com/entertainment/23853756/one-piece-pirate-stories-movies-tv-our-flag-means-death)
+ - [Starfield&#39;s Controversial Missing PC Feature Already Modded Into The Game](https://kotaku.com/starfield-pc-nvidia-dlss-amd-fsr2-support-exclusive-mod-1850796636?utm_source=regular)
+ - [Armored Core 6 fans are making gorgeous art of the characters we never see](https://www.polygon.com/23854444/armored-core-6-ayre-621-fan-art-rusty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
