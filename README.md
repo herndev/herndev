@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Having issues with Starfield&#39;s FOV? Well you&#39;re not alone, but luckily there&#39;s already a fix](https://www.pcgamer.com/having-issues-with-starfields-fov-well-youre-not-alone-but-luckily-theres-already-a-fix)
- - [Final Fantasy 14 player loves their Warrior of Light so much that they built a life-sized bronze statue to immortalise them](https://www.pcgamer.com/final-fantasy-14-player-loves-their-warrior-of-light-so-much-that-they-built-a-life-sized-bronze-statue-to-immortalise-them)
- - [A PC parts company is dumping golden tickets across the UK from space in a bizarre competition to celebrate Starfield](https://www.pcgamer.com/a-pc-parts-company-is-dumping-golden-tickets-across-the-uk-from-space-in-a-bizarre-competition-to-celebrate-starfield)<!-- GAME:END -->
+ - [The first of what will one day be thousands of character presets to hit Starfield&#39;s Nexus Mods page is, naturally, George Costanza](https://www.pcgamer.com/the-first-of-what-will-one-day-be-thousands-of-character-presets-to-hit-starfields-nexus-mods-page-is-naturally-george-costanza)
+ - [September Is A Stellar Month For Some Video Gaming](https://kotaku.com/september-2023-games-starfield-baldur-s-gate-cyberpunk-1850796070?utm_source=regular)
+ - [Starfield High Price to Pay guide: Should you stay at the Lodge or go to The Eye?](https://www.pcgamer.com/starfield-high-price-to-pay-choices)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
