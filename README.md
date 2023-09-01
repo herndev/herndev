@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wanted to share that with you guys . I\u2019m sad as f**k . He fought a year without complaining once . And he was like us a degenerate that I\u2019ll remember all my life .](http://9gag.com/gag/aBdN7EA)
- - ⏩ [Once a internet meme always a internet meme](http://9gag.com/gag/aA0Nom0)
- - 👉 [Nobody cares but I am proud anyway - Learned from zero how to build this deck!](http://9gag.com/gag/aQENwBq)<!-- MEMES:END -->
+ - 💣 [Wanted to laugh but end up feelipines](http://9gag.com/gag/aDYNKBd)
+ - ⏩ [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 👉 [Play of the century](http://9gag.com/gag/armrPq6)<!-- MEMES:END -->
 
 ---
 
