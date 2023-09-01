@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s already a Starfield mod that swaps FSR for DLSS](https://www.pcgamer.com/theres-already-a-starfield-mod-that-swaps-fsr-for-dlss)
- - [The Lenovo Legion Go can turn one of its controllers into a gaming mouse. Wait, what?](https://www.pcgamer.com/lenovo-legion-go-hands-on)
- - [Lenovo’s Legion Go is a handheld PC with Switch-like tricks](https://www.polygon.com/23852815/lenovo-legion-go-portable-pc-switch-features-specs-price)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour schedule for September 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in September 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Pokémon Go Giovanni counters, team line-up in September 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
