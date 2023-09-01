@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
- - ⏩ [How? s1](http://9gag.com/gag/a6q4rKR)
+ - 💣 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
+ - ⏩ [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
  - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
