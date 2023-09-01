@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)
- - [Gizmodo’s owner shuts down Spanish language site in favor of AI translations](https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations)
- - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)<!-- TECH:END -->
+ - [Airline fears around 5G may finally be over](https://www.theverge.com/2023/9/1/23856099/delta-updates-airplanes-5g-interference)
+ - [Sources: Arm looks to target its IPO at a $50B-$55B valuation, well below the $64B valuation implied by SoftBank&#39;s recent acquisition of a 25% stake in Arm &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230901/p21#a230901p21)
+ - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
