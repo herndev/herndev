@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of a child safety group&#39;s campaign, Apple details why it&#39;s dropping iCloud CSAM scanning, saying it could be a &quot;slippery slope of unintended consequences&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230831/p45#a230831p45)
  - [SentinelOne CEO Tomer Weingarten says the cybersecurity company is not for sale, following an August report claiming the company was looking to sell &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230831/p44#a230831p44)
- - [Apple Vision Pro Optical Inserts pairing process and other details revealed](https://appleinsider.com/articles/23/09/01/apple-vision-pro-optical-inserts-pairing-process-and-other-details-revealed?utm_medium=rss)
- - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)<!-- TECH:END -->
+ - [Apple Vision Pro Optical Inserts pairing process and other details revealed](https://appleinsider.com/articles/23/09/01/apple-vision-pro-optical-inserts-pairing-process-and-other-details-revealed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
