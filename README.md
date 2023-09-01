@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, USPTO settle lawsuit over &#39;Smart Keyboard&#39; trademark](https://appleinsider.com/articles/23/09/01/apple-uspto-settle-lawsuit-over-smart-keyboard-trademark?utm_medium=rss)
- - [Apple considers micro lens technology to make iPhone 16 screens brighter](https://appleinsider.com/articles/23/09/01/apple-considers-micro-lens-technology-to-make-iphone-16-screens-brighter?utm_medium=rss)
- - [Honor’s V Purse is a fashion-inspired foldable concept phone](https://www.theverge.com/2023/9/1/23855191/honor-v-purse-concept-foldable-fashion-v2-international-launch)<!-- TECH:END -->
+ - [Hands on with Windows-powered $699 Lenovo Legion Go, with an 8.8&quot; QHD+ screen, AMD Ryzen Z1 Extreme processor, and detachable controllers, available in October &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230901/p3#a230901p3)
+ - [Apple Watch saves distracted driver&#39;s life with Crash Detection](https://appleinsider.com/articles/23/09/01/apple-watch-saves-distracted-drivers-life-with-crash-detection?utm_medium=rss)
+ - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
