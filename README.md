@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - ⏩ [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
+ - 💣 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - ⏩ [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 👉 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)<!-- MEMES:END -->
 
 ---
 
