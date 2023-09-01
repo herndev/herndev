@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your biggest Starfield questions, answered](https://www.polygon.com/starfield-guide/23843244/biggest-questions-answered-faq)
- - [The best early skills in Starfield](https://www.polygon.com/starfield-guide/23842153/best-skills-advanced-expert-master)
- - [Starfield Starters: Customizing Your Perfect Captain](https://news.xbox.com/en-us/2023/08/31/starfield-starters-customizing-perfect-captain/)<!-- GAME:END -->
+ - [Watch the Starfield Official Live Action Trailer](https://news.xbox.com/en-us/2023/08/31/watch-the-starfield-live-action-trailer/)
+ - [Play Starfield Now with Early Access](https://news.xbox.com/en-us/2023/08/31/play-starfield-now-with-early-access/)
+ - [Starfield ‘Revelation’ quest walkthrough, and how to defeat the Starborn Guardians](https://www.polygon.com/starfield-guide/23851833/revelation-quest-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
