@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Radeon RX 7700 XT and 7800 XT pricing &#39;super aggressive&#39; according to AMD](https://www.pcgamer.com/radeon-rx-7700-xt-and-7800-xt-pricing-super-aggressive-according-to-amd)
- - [Pete Hines on Starfield: &#39;We could make a safer, less buggy, less risky game if we wanted to&#39;](https://www.pcgamer.com/pete-hines-on-starfield-we-could-make-a-safer-less-buggy-less-risky-game-if-we-wanted-to)
- - [How to Boost Kick in Armored Core 6](https://www.pcgamer.com/armored-core-6-how-to-kick)<!-- GAME:END -->
+ - [Having issues with Starfield&#39;s FOV? Well you&#39;re not alone, but luckily there&#39;s already a fix](https://www.pcgamer.com/having-issues-with-starfields-fov-well-youre-not-alone-but-luckily-theres-already-a-fix)
+ - [Final Fantasy 14 player loves their Warrior of Light so much that they built a life-sized bronze statue to immortalise them](https://www.pcgamer.com/final-fantasy-14-player-loves-their-warrior-of-light-so-much-that-they-built-a-life-sized-bronze-statue-to-immortalise-them)
+ - [A PC parts company is dumping golden tickets across the UK from space in a bizarre competition to celebrate Starfield](https://www.pcgamer.com/a-pc-parts-company-is-dumping-golden-tickets-across-the-uk-from-space-in-a-bizarre-competition-to-celebrate-starfield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
