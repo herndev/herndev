@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - ⏩ [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
+ - 💣 [Wheelchair stunt-ing](http://9gag.com/gag/a8qXBj1)
+ - ⏩ [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
 
