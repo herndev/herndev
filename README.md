@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - ⏩ [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 👉 [Land of the free?](http://9gag.com/gag/a6q3Ag9)<!-- MEMES:END -->
+ - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - ⏩ [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 👉 [Ozark](http://9gag.com/gag/aoKqXrw)<!-- MEMES:END -->
 
 ---
 
