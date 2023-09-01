@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Chat: Our First Few Hours With Bethesda’s Space Epic](https://kotaku.com/starfield-release-gameplay-impressions-opening-xbox-1850796928?utm_source=regular)
- - [Why is Babylon Berlin’s season 4 U.S. release date such a mystery?](https://www.polygon.com/23852870/babylon-berlin-season-4-netflix-release-date-when-us)
- - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)<!-- GAME:END -->
+ - [This Week on Xbox: Starfield Early Access is Here! Plus, Fortnite Updates, and More](https://news.xbox.com/en-us/2023/09/01/this-week-on-xbox-starfield-early-access-is-here-plus-fortnite-updates-and-more/)
+ - [Help! I’m Trapped In Starfield’s Menus And Can’t Get Out](https://kotaku.com/help-i-m-trapped-in-starfield-s-menus-and-can-t-get-ou-1850797661?utm_source=regular)
+ - [September is the biggest gaming month of 2023](https://www.pcgamer.com/pc-release-calendar-september-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
