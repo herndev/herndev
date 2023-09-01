@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Nest Aware subscriptions are getting more expensive](https://www.androidauthority.com/google-nest-aware-price-increase-3360507/)
- - [The best Cricket Wireless deals of September 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [What goes into designing a solar-powered Bluetooth speaker](https://www.theverge.com/2023/9/1/23855819/urbanista-malibu-solar-powered-bluetooth-speaker-hands-on-ifa-2023)<!-- TECH:END -->
+ - [Sources: cloud data management startup Rubrik, valued at ~$4B in 2021, is planning an IPO in 2023, raising $500M to $700M; PitchBook: Rubrik has raised $1B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p18#a230901p18)
+ - [Globalstar taps SpaceX to launch Apple&#39;s Emergency SOS satellites](https://appleinsider.com/articles/23/09/01/globalstar-taps-spacex-to-launch-apples-emergency-sos-satellites?utm_medium=rss)
+ - [The 48 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
