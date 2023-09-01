@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fart guitar](http://9gag.com/gag/aREN5ZA)
- - ⏩ [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - ⏩ [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 👉 [Lord of the simps](http://9gag.com/gag/avQXY2n)<!-- MEMES:END -->
 
 ---
 
