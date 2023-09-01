@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s Companions Are A Blessing And A Curse](https://kotaku.com/starfield-companions-vasco-sarah-space-bethesda-game-1850796968?utm_source=regular)
- - [IFA 2023: Lenovo Reveals Its First Windows 11 Gaming Handheld and New 3D Monitor for Business](https://news.xbox.com/en-us/2023/09/01/ifa-2023-lenovo-gaming-handheld/)
- - [Early Starfield Reviews Are Generally Positive, From Mild Disappointment To Glowing Praise](https://kotaku.com/starfield-reviews-metacritic-score-xbox-bethesda-rpg-1850792392?utm_source=regular)<!-- GAME:END -->
+ - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)
+ - [Turns out your abyssal tattoos in Baldur&#39;s Gate 3 are the D&amp;D equivalent of accidentally getting &#39;egg drop soup&#39; inscribed in Chinese characters](https://www.pcgamer.com/turns-out-your-abyssal-tattoos-in-baldurs-gate-3-are-the-dandd-equivalent-of-accidentally-getting-egg-drop-soup-inscribed-in-chinese-characters)
+ - [How to win space battles in Starfield](https://www.pcgamer.com/starfield-ship-combat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
