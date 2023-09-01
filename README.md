@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
- - [Google removes controversial live streaming app Chamet, which let users video call hosts, from the Play Store for violating its user-generated content policy &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230901/p9#a230901p9)
- - [Zoom adds collaborative notes you can edit while on a video call](https://www.theverge.com/2023/9/1/23855356/zoom-notes-collaborative-documents-video-calls)<!-- TECH:END -->
+ - [It’s the Year of the Big Game, and that’s a good thing](https://www.theverge.com/2023/9/1/23846264/starfield-baldurs-gate-legend-of-zelda-year-video-game-2023)
+ - [Xiaomi 14 Ultra: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/xiaomi-14-ultra-release-date-price-specs-3357551/)
+ - [Donald Trump’s trial in Georgia will be livestreamed on YouTube](https://www.theverge.com/2023/9/1/23855299/donald-trump-election-interference-georgia-livestream-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
