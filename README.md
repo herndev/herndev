@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wheelchair stunt-ing](http://9gag.com/gag/a8qXBj1)
- - ⏩ [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 💣 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
+ - ⏩ [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
  - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
