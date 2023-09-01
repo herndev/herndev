@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift’s Eras Tour movie broke presale records in less than three hours](https://www.theverge.com/2023/9/1/23855524/taylor-swift-eras-tour-movie-presale-records-amc)
- - [New York-based Benitago, an Amazon e-commerce business acquirer that has raised $380M in equity and debt in the past two years, files for bankruptcy &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230901/p13#a230901p13)
- - [Paris becomes the first European capital to outlaw rented electric scooters, following a vote in April; e-scooter rental companies shift focus to electric bikes &lpar;Juliette Gu&amp;eacute;ron-Gabrielle/New York Times&rpar;](http://www.techmeme.com/230901/p12#a230901p12)<!-- TECH:END -->
+ - [Both iPhone 15 Pro Max and iPhone 15 Ultra are coming, claims sketchy rumor](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor?utm_medium=rss)
+ - [Anker’s new 6-in-1 Charging Station solves your power problems](https://www.androidauthority.com/anker-6-in-1-charging-station-deal-3360434/)
+ - [Sources: Meta is considering paid, ad-free versions of Facebook and Instagram for users in the EU, to fend off privacy concerns and scrutiny from EU regulators &lpar;New York Times&rpar;](http://www.techmeme.com/230901/p14#a230901p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
