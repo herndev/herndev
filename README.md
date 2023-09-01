@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
- - ⏩ [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
+ - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - ⏩ [How? s1](http://9gag.com/gag/a6q4rKR)
  - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
