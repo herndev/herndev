@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first of what will one day be thousands of character presets to hit Starfield&#39;s Nexus Mods page is, naturally, George Costanza](https://www.pcgamer.com/the-first-of-what-will-one-day-be-thousands-of-character-presets-to-hit-starfields-nexus-mods-page-is-naturally-george-costanza)
- - [September Is A Stellar Month For Some Video Gaming](https://kotaku.com/september-2023-games-starfield-baldur-s-gate-cyberpunk-1850796070?utm_source=regular)
- - [Starfield High Price to Pay guide: Should you stay at the Lodge or go to The Eye?](https://www.pcgamer.com/starfield-high-price-to-pay-choices)<!-- GAME:END -->
+ - [Starfield and Series S 1TB Kick Off an Incredible September](https://news.xbox.com/en-us/2023/09/01/starfield-and-series-s-1tb-kick-off-an-incredible-september/)
+ - [The Wheel of Time is in its Two Towers era](https://www.polygon.com/23854425/the-wheel-of-time-season-2-impressions)
+ - [The indie game&#39;s indie game is free on Epic](https://www.pcgamer.com/the-indie-games-indie-game-is-free-on-epic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
