@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - ⏩ [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 👉 [Always be careful guys.](http://9gag.com/gag/armrjZp)<!-- MEMES:END -->
+ - ⏩ [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 👉 [Land of the free?](http://9gag.com/gag/a6q3Ag9)<!-- MEMES:END -->
 
 ---
 
