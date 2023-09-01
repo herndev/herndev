@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Globalstar signed a $64M deal with SpaceX to launch satellites for Apple&#39;s Emergency SOS iPhone feature in 2025 &lpar;Robert Stewart/NOLA.com&rpar;](http://www.techmeme.com/230901/p19#a230901p19)
- - [Suddenly Lose ESPN and ABC? Here&#39;s What Going on Between Disney and Spectrum     - CNET](https://www.cnet.com/tech/home-entertainment/suddenly-lose-espn-and-abc-heres-what-going-on-between-disney-and-spectrum/#ftag=CAD590a51e)
- - [Sources: cloud data management startup Rubrik, valued at ~$4B in 2021, is planning an IPO in 2023, raising $500M to $700M; PitchBook: Rubrik has raised $1B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p18#a230901p18)<!-- TECH:END -->
+ - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)
+ - [Gizmodo’s owner shuts down Spanish language site in favor of AI translations](https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations)
+ - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
