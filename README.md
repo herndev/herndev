@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada tries to address C-18 bill concerns, saying Google would pay ~$126.6M and Meta would pay ~$44M a year to publishers; Meta says it will keep blocking news &lpar;Reuters&rpar;](http://www.techmeme.com/230901/p17#a230901p17)
- - [A person managing the .ai TLD for British territory Anguilla says the island will bring in ~$30M from domain registration fees in 2023, up from $7.4M in 2021 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230901/p16#a230901p16)
- - [The OnePlus Pad Go could be the company’s next tablet](https://www.androidauthority.com/oneplus-pad-go-tablet-leak-3360407/)<!-- TECH:END -->
+ - [Google’s Nest Aware subscriptions are getting more expensive](https://www.androidauthority.com/google-nest-aware-price-increase-3360507/)
+ - [The best Cricket Wireless deals of September 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [What goes into designing a solar-powered Bluetooth speaker](https://www.theverge.com/2023/9/1/23855819/urbanista-malibu-solar-powered-bluetooth-speaker-hands-on-ifa-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
