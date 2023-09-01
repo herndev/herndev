@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: cloud data management startup Rubrik, valued at ~$4B in 2021, is planning an IPO in 2023, raising $500M to $700M; PitchBook: Rubrik has raised $1B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p18#a230901p18)
- - [Globalstar taps SpaceX to launch Apple&#39;s Emergency SOS satellites](https://appleinsider.com/articles/23/09/01/globalstar-taps-spacex-to-launch-apples-emergency-sos-satellites?utm_medium=rss)
- - [The 48 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Filing: Globalstar signed a $64M deal with SpaceX to launch satellites for Apple&#39;s Emergency SOS iPhone feature in 2025 &lpar;Robert Stewart/NOLA.com&rpar;](http://www.techmeme.com/230901/p19#a230901p19)
+ - [Suddenly Lose ESPN and ABC? Here&#39;s What Going on Between Disney and Spectrum     - CNET](https://www.cnet.com/tech/home-entertainment/suddenly-lose-espn-and-abc-heres-what-going-on-between-disney-and-spectrum/#ftag=CAD590a51e)
+ - [Sources: cloud data management startup Rubrik, valued at ~$4B in 2021, is planning an IPO in 2023, raising $500M to $700M; PitchBook: Rubrik has raised $1B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p18#a230901p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
