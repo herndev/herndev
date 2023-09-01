@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator is going Back to the Future in its latest weird crossover](https://www.pcgamer.com/powerwash-simulator-is-going-back-to-the-future-in-its-latest-weird-crossover)
- - [Surprising no one, Starfield players are already filling their ships with junk](https://www.pcgamer.com/surprising-no-one-starfield-players-are-already-filling-their-ships-with-junk)
- - [Tragic: Skyrim&#39;s ultra-sneaky bucket trick doesn&#39;t work in Starfield](https://www.pcgamer.com/tragic-skyrims-ultra-sneaky-bucket-trick-doesnt-work-in-starfield)<!-- GAME:END -->
+ - [Barely a day after launch, Starfield already has over 100 mods](https://www.pcgamer.com/best-starfield-mods)
+ - [Teenage Mutant Ninja Turtles: Mutant Mayhem, Indiana Jones 5, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/1/23849008/new-movies-watch-teenage-mutant-ninja-turtles-mutant-mayhem-netflix-love-again)
+ - [PowerWash Simulator is going Back to the Future in its latest weird crossover](https://www.pcgamer.com/powerwash-simulator-is-going-back-to-the-future-in-its-latest-weird-crossover)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
