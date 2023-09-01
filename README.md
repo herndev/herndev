@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
- - ⏩ [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 💣 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - ⏩ [Play of the century](http://9gag.com/gag/armrPq6)
+ - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
 
 ---
 
