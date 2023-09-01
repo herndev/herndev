@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)
- - [Turns out your abyssal tattoos in Baldur&#39;s Gate 3 are the D&amp;D equivalent of accidentally getting &#39;egg drop soup&#39; inscribed in Chinese characters](https://www.pcgamer.com/turns-out-your-abyssal-tattoos-in-baldurs-gate-3-are-the-dandd-equivalent-of-accidentally-getting-egg-drop-soup-inscribed-in-chinese-characters)
- - [How to win space battles in Starfield](https://www.pcgamer.com/starfield-ship-combat)<!-- GAME:END -->
+ - [Starfield Chat: Our First Few Hours With Bethesda’s Space Epic](https://kotaku.com/starfield-release-gameplay-impressions-opening-xbox-1850796928?utm_source=regular)
+ - [Why is Babylon Berlin’s season 4 U.S. release date such a mystery?](https://www.polygon.com/23852870/babylon-berlin-season-4-netflix-release-date-when-us)
+ - [7 Horny Fantasy Games To Play After Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-nsfw-romance-bg3-pc-ps5-god-of-war-1850797112?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
