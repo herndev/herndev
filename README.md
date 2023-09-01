@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour schedule for September 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in September 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Pokémon Go Giovanni counters, team line-up in September 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [Todd Howard reflects on Starfield&#39;s development, says there were times he thought &#39;we had certainly bitten off far more than we could chew&#39;](https://www.pcgamer.com/todd-howard-reflects-on-starfields-development-says-there-were-times-when-he-thought-we-had-certainly-bitten-off-far-more-than-we-could-chew)
+ - [The artwork for this Japanese-inspired TTRPG gives me shivers](https://www.pcgamer.com/the-artwork-for-this-japanese-inspired-ttrpg-gives-me-shivers)
+ - [The next game from the Battle Brothers devs keeps its spirit and transplants it into an XCOM-like](https://www.pcgamer.com/the-next-game-from-the-battle-brothers-devs-keeps-its-spirit-and-transplants-it-into-an-xcom-like)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
