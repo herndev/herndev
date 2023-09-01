@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - ⏩ [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)
- - 👉 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)<!-- MEMES:END -->
+ - 💣 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - ⏩ [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
 
 ---
 
