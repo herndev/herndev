@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
- - [Meta Isn&#39;t Enforcing Its Own Political Ads Policy, While the 2024 US Election Looms](https://www.wired.com/story/meta-prageru-advertising/)
- - [The Creator of &#39;Andor&#39; Is Fired Up About the Streaming Wars](https://www.wired.com/story/andor-tony-gilroy-hollywood-streaming-strike/)<!-- TECH:END -->
+ - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
+ - [Google removes controversial live streaming app Chamet, which let users video call hosts, from the Play Store for violating its user-generated content policy &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230901/p9#a230901p9)
+ - [Zoom adds collaborative notes you can edit while on a video call](https://www.theverge.com/2023/9/1/23855356/zoom-notes-collaborative-documents-video-calls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
