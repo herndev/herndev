@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Starfield Early Access is Here! Plus, Fortnite Updates, and More](https://news.xbox.com/en-us/2023/09/01/this-week-on-xbox-starfield-early-access-is-here-plus-fortnite-updates-and-more/)
- - [Help! I’m Trapped In Starfield’s Menus And Can’t Get Out](https://kotaku.com/help-i-m-trapped-in-starfield-s-menus-and-can-t-get-ou-1850797661?utm_source=regular)
- - [September is the biggest gaming month of 2023](https://www.pcgamer.com/pc-release-calendar-september-2023)<!-- GAME:END -->
+ - [17 Things I Wish I Knew Before I Started Playing Starfield](https://kotaku.com/starfield-tips-guide-xbox-money-fast-travel-map-traits-1850798018?utm_source=regular)
+ - [What’s Included &lpar;And What’s Not&rpar; In Cyberpunk 2077’s Free 2.0 Update](https://kotaku.com/cyberpunk-2077-phantom-liberty-update-2-0-free-patch-1850797911?utm_source=regular)
+ - [Help! I’m Trapped In Starfield’s Menus And Can’t Get Out](https://kotaku.com/starfield-release-menu-ui-starmap-inventory-xbox-review-1850797661?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
