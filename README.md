@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a same](http://9gag.com/gag/aeQyKeB)
- - ⏩ [Where climate activists??](http://9gag.com/gag/armrPEp)
- - 👉 [`Nazi Germany invaded Poland on Sept. 1st, 1939. 2 weeks later, the communist USSR attacked Poland in the back &lpar;...&rpar; In February 2022, ruSSia - the successor of the USSR launched it&#39;s invasion of Ukraine. Poland was first to come to Ukraine&#39;s aid`](http://9gag.com/gag/ay2ZE9p)<!-- MEMES:END -->
+ - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - ⏩ [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 👉 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)<!-- MEMES:END -->
 
 ---
 
