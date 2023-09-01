@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - ⏩ [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 👉 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)<!-- MEMES:END -->
+ - 💣 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - ⏩ [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)
+ - 👉 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)<!-- MEMES:END -->
 
 ---
 
