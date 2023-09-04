@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)
- - [How LLMs like GPT-4 can be an equalizing technology in some cases, boosting less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
+ - [How LLMs like GPT-4 can have an equalizing effect in some cases, boosting the less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
  - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
