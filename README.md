@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - ⏩ [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 👉 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)<!-- MEMES:END -->
+ - 💣 [Just a heads-up](http://9gag.com/gag/aBdjreP)
+ - ⏩ [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 👉 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)<!-- MEMES:END -->
 
 ---
 
