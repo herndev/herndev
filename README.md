@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
- - ⏩ [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
- - 👉 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)<!-- MEMES:END -->
+ - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - ⏩ [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
 
 ---
 
