@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prepare for unexpected power outages with these essential safety tips from Bluetti](https://appleinsider.com/articles/23/09/04/prepare-for-unexpected-power-outages-with-these-essential-safety-tips-from-bluetti?utm_medium=rss)
- - [Apple could bring spatial photos to &#39;iPhone Ultra&#39; after Vision Pro release](https://appleinsider.com/articles/23/09/04/apple-could-bring-spatial-photos-to-iphone-ultra-after-vision-pro-release?utm_medium=rss)
- - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)<!-- TECH:END -->
+ - [How to set up recurring Apple Pay Cash payments in iOS 17](https://appleinsider.com/articles/23/09/04/how-to-set-up-recurring-apple-pay-cash-payments-in-ios-17?utm_medium=rss)
+ - [Google has an uphill battle with the Pixel 8, if these leaked prices are correct](https://www.androidauthority.com/pixel-8-price-increase-3360895/)
+ - [China&#39;s app rule changes applied everywhere but the App Store](https://appleinsider.com/articles/23/09/04/chinas-app-rule-changes-applied-everywhere-but-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
