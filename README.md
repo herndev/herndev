@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
- - ⏩ [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
- - 👉 [9gagers on the way to Donbas to drop SUVs for paramedics](http://9gag.com/gag/aA0qwz2)<!-- MEMES:END -->
+ - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 ---
 
