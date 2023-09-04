@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s an invincibility exploit in Diablo 4&#39;s PvP zones](https://www.pcgamer.com/theres-an-invincibility-exploit-in-diablo-4s-pvp-zones)
  - [Drunk with power, modders have started putting Armored Cores in Elden Ring](https://www.pcgamer.com/drunk-with-power-modders-have-started-putting-armored-cores-in-elden-ring)
- - [New Star Trek, Daryl’s Walking Dead spinoff, and more TV to watch this week](https://www.polygon.com/2023/9/4/23843393/new-tv-schedule-netflix-reality-walking-dead-daryl-dixon-star-trek)
- - [Starfield gets the mod of mods, the granddaddy of them all: script extender](https://www.pcgamer.com/starfield-gets-the-mod-of-mods-the-granddaddy-of-them-all-script-extender)<!-- GAME:END -->
+ - [New Star Trek, Daryl’s Walking Dead spinoff, and more TV to watch this week](https://www.polygon.com/2023/9/4/23843393/new-tv-schedule-netflix-reality-walking-dead-daryl-dixon-star-trek)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
