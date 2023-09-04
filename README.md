@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
- - ⏩ [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 👉 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)<!-- MEMES:END -->
+ - 💣 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - ⏩ [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 👉 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)<!-- MEMES:END -->
 
 ---
 
