@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Contra-like is a celebration of spread guns and gnarly flesh](https://www.pcgamer.com/this-contra-like-is-a-celebration-of-spread-guns-and-gnarly-flesh)
  - [Check out the demo for this slimy survival horror and its reckless disregard for the rules of game point-of-view](https://www.pcgamer.com/check-out-the-demo-for-this-slimy-survival-horror-and-its-reckless-disregard-for-the-rules-of-game-point-of-view)
- - [Item description reveals Starfield as a dark future without Labrador retrievers](https://www.pcgamer.com/item-description-reveals-starfield-as-a-dark-future-without-labrador-retrievers)
- - [The Last Exterminator calls on the obvious person to fight an alien cockroach invasion](https://www.pcgamer.com/the-last-exterminator-calls-on-the-obvious-person-to-fight-an-alien-cockroach-invasion)<!-- GAME:END -->
+ - [Item description reveals Starfield as a dark future without Labrador retrievers](https://www.pcgamer.com/item-description-reveals-starfield-as-a-dark-future-without-labrador-retrievers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
