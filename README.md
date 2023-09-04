@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - ⏩ [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 💣 [Anything for them clicks](http://9gag.com/gag/az2ojBp)
+ - ⏩ [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
+ - 👉 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)<!-- MEMES:END -->
 
 ---
 
