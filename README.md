@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - ⏩ [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - ⏩ [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
+ - 👉 [Nobody reads this](http://9gag.com/gag/a6q4LDR)<!-- MEMES:END -->
 
 ---
 
