@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple and Microsoft have argued that iMessage and Bing are insufficiently popular to be designated &quot;gatekeepers&quot; to be regulated under EU&#39;s DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230904/p13#a230904p13)
- - [Apple allegedly arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)
- - [Email: Spotify raises the listener threshold for creators in Ambassador Ads from 100 to 1,000 over 60 days, and plans to cut ad support for white noise podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230904/p12#a230904p12)<!-- TECH:END -->
+ - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)
+ - [Apple and Microsoft reportedly want iMessage and Bing off the EU’s tech ‘gatekeeper’ list](https://www.theverge.com/2023/9/4/23858948/eu-microsoft-apple-bing-imessage-dma-gatekeepers-list-dispute)
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2023     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
