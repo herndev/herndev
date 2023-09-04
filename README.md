@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 💣 [Just a heads-up](http://9gag.com/gag/aBdjreP)
+ - ⏩ [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
 
 ---
 
