@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [China&#39;s gaming restrictions are an &#39;ineffective policy&#39; that hasn&#39;t cut playtime](https://www.pcgamer.com/chinas-gaming-restrictions-are-an-ineffective-policy-that-hasnt-cut-playtime)
- - [Turns out Baldur&#39;s Gate 3&#39;s companions weren&#39;t supposed to be such horndogs: &quot;It was a bug&quot;](https://www.pcgamer.com/turns-out-baldurs-gate-3s-companions-werent-supposed-to-be-such-horndogs-it-was-a-bug)
- - [Tell us your thoughts on handheld PCs, hardware, and gaming for a shot at winning a $300 Amazon voucher](https://www.pcgamer.com/tell-us-your-thoughts-on-handheld-pcs-hardware-and-gaming-for-a-shot-at-winning-a-dollar300-amazon-voucher)<!-- GAME:END -->
+ - [Starfield Starters: Space Combat 101](https://news.xbox.com/en-us/2023/09/04/starfield-starters-space-combat-101/)
+ - [Where to find Neon’s location in Starfield](https://www.polygon.com/starfield-guide/23858345/neon-location-where-how-volii-aurora)
+ - [How to smuggle and sell contraband in Starfield](https://www.pcgamer.com/starfield-contraband)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
