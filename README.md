@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - ⏩ [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 👉 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)<!-- MEMES:END -->
+ - 💣 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - ⏩ [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 ---
 
