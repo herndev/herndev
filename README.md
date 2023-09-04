@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core 6&#39;s talented fan artists keep reimagining its faceless characters as hot dating sim options, distracting me from mecha ultraviolence](https://www.pcgamer.com/armored-core-6s-talented-fan-artists-keep-reimagining-its-faceless-characters-as-hot-dating-sim-options-distracting-me-from-mecha-ultraviolence)
- - [So, guess I&#39;m building my next gaming PC from Colorful&#39;s new MEOW range then](https://www.pcgamer.com/so-guess-im-building-my-next-gaming-pc-from-colorfuls-new-meow-range-then)
- - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)<!-- GAME:END -->
+ - [China&#39;s gaming restrictions are an &#39;ineffective policy&#39; that hasn&#39;t cut playtime](https://www.pcgamer.com/chinas-gaming-restrictions-are-an-ineffective-policy-that-hasnt-cut-playtime)
+ - [Turns out Baldur&#39;s Gate 3&#39;s companions weren&#39;t supposed to be such horndogs: &quot;It was a bug&quot;](https://www.pcgamer.com/turns-out-baldurs-gate-3s-companions-werent-supposed-to-be-such-horndogs-it-was-a-bug)
+ - [Tell us your thoughts on handheld PCs, hardware, and gaming for a shot at winning a $300 Amazon voucher](https://www.pcgamer.com/tell-us-your-thoughts-on-handheld-pcs-hardware-and-gaming-for-a-shot-at-winning-a-dollar300-amazon-voucher)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
