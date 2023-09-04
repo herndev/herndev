@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
- - ⏩ [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
+ - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - ⏩ [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 👉 [Oh no](http://9gag.com/gag/abvKy6b)<!-- MEMES:END -->
 
 ---
 
