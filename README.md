@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
  - ⏩ [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [Title](http://9gag.com/gag/aDYr0eK)<!-- MEMES:END -->
+ - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
 
 ---
 
