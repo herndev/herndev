@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - ⏩ [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
+ - 💣 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - ⏩ [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 👉 [Title](http://9gag.com/gag/aDYr0eK)<!-- MEMES:END -->
 
 ---
 
