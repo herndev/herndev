@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the trailer for Godzilla Minus One, a return to the kaiju’s terrifying past](https://www.polygon.com/23855460/godzilla-minus-one-trailer-release-date)
- - [Today&#39;s Wordle hint and answer #807: Monday, September 4](https://www.pcgamer.com/wordle-answer-today-hint-807-september-4)
- - [NYT Connections puzzle hint and answer for Monday, September 4 &lpar;#85&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-monday-september-4-84)<!-- GAME:END -->
+ - [How to enter Candulhallow&#39;s Tombstones in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-candulhallows-tombstones)
+ - [Streamer sets sail for the surface of Pluto in Starfield—and spends 7 hours to reach a cursed orb she can just fly through](https://www.pcgamer.com/streamer-sets-sail-for-the-surface-of-pluto-in-starfieldand-spends-7-hours-to-reach-a-cursed-orb-she-can-just-fly-through)
+ - [Watch the trailer for Godzilla Minus One, a return to the kaiju’s terrifying past](https://www.polygon.com/23855460/godzilla-minus-one-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
