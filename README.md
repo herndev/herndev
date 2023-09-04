@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)
  - [After 28 years of service, Microsoft is killing WordPad](https://www.pcgamer.com/after-28-years-microsoft-is-killing-wordpad)
- - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)
- - [How Starfield’s Dream Home trait works, and is it worth it?](https://www.polygon.com/starfield-guide/23857647/dream-home-trait-location-nesoi-payment)<!-- GAME:END -->
+ - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
