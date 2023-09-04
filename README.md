@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Labor Day sales happening now](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
- - [All the smart home news from a bumper IFA Berlin trade show on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/04/all-the-smart-home-news-from-a-bumper-ifa-berlin-trade-show-on-the-appleinsider-podcast?utm_medium=rss)
- - [Score a free Samsung Galaxy Tab S9 storage upgrade for Labor Day](https://www.androidauthority.com/samsung-galaxy-tab-s9-deal-3360944/)<!-- TECH:END -->
+ - [Razer&#39;s Compact BlackWidow V3 Mechanical Keyboard Is 45% Off at Amazon     - CNET](https://www.cnet.com/deals/razers-compact-blackwidow-v3-mechanical-keyboard-is-45-off-at-amazon/#ftag=CAD590a51e)
+ - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
+ - [Climate Change Has Finally Come For Burning Man](https://www.wired.com/story/climate-change-has-finally-come-for-burning-man/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
