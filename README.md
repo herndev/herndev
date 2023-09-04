@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entering Harvard is really like buying a lottery ticket](http://9gag.com/gag/aRE9ewB)
- - ⏩ [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)
- - 👉 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)<!-- MEMES:END -->
+ - 💣 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - ⏩ [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 👉 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)<!-- MEMES:END -->
 
 ---
 
