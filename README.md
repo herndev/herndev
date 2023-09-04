@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Starters: Space Combat 101](https://news.xbox.com/en-us/2023/09/04/starfield-starters-space-combat-101/)
- - [Where to find Neon’s location in Starfield](https://www.polygon.com/starfield-guide/23858345/neon-location-where-how-volii-aurora)
- - [How to smuggle and sell contraband in Starfield](https://www.pcgamer.com/starfield-contraband)<!-- GAME:END -->
+ - [New Star Trek, Daryl’s Walking Dead spinoff, and more TV to watch this week](https://www.polygon.com/2023/9/4/23843393/new-tv-schedule-netflix-reality-walking-dead-daryl-dixon-star-trek)
+ - [Starfield gets the mod of mods, the granddaddy of them all: script extender](https://www.pcgamer.com/starfield-gets-the-mod-of-mods-the-granddaddy-of-them-all-script-extender)
+ - [Neglect Gale for too long in Baldur&#39;s Gate 3, and you&#39;ll receive gaming&#39;s saddest resignation letter](https://www.pcgamer.com/neglect-gale-for-too-long-in-baldurs-gate-3-and-youll-receive-gamings-saddest-resignation-letter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
