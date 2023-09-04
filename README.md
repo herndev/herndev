@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
- - ⏩ [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
+ - 💣 [Entering Harvard is really like buying a lottery ticket](http://9gag.com/gag/aRE9ewB)
+ - ⏩ [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)
+ - 👉 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)<!-- MEMES:END -->
 
 ---
 
