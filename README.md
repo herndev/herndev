@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Watch the trailer for Godzilla Minus One, a return to the kaiju’s terrifying past](https://www.polygon.com/23855460/godzilla-minus-one-trailer-release-date)
  - [Today&#39;s Wordle hint and answer #807: Monday, September 4](https://www.pcgamer.com/wordle-answer-today-hint-807-september-4)
- - [NYT Connections puzzle hint and answer for Monday, September 4 &lpar;#85&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-monday-september-4-84)
- - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)<!-- GAME:END -->
+ - [NYT Connections puzzle hint and answer for Monday, September 4 &lpar;#85&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-monday-september-4-84)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
