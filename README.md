@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A first look at the 1TB black Xbox Series S](https://www.theverge.com/2023/9/4/23858230/microsoft-xbox-series-s-black-1tb-storage-model-hands-on)
- - [An interview with Apple executives Susan Prescott and Steve Sinclair on building apps for the Vision Pro and how Apple is trying to lure developers to make apps &lpar;Alex Blake/Digital Trends&rpar;](http://www.techmeme.com/230904/p5#a230904p5)
- - [The Battle Over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)<!-- TECH:END -->
+ - [How long do iPhones last? How long should you use your iPhone for?](https://www.androidauthority.com/how-long-do-iphones-last-3359069/)
+ - [Hands-on with the Withings ScanWatch 2: A new hybrid hero emerges](https://www.androidauthority.com/withings-scanwatch-2-hands-on-3360663/)
+ - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
