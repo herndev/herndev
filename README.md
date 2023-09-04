@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)
- - [Starfield Literally Saved A Couple From Death](https://kotaku.com/starfield-saved-lives-apartment-fire-bethesda-1850801606?utm_source=regular)
- - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)<!-- GAME:END -->
+ - [Armored Core 6&#39;s talented fan artists keep reimagining its faceless characters as hot dating sim options, distracting me from mecha ultraviolence](https://www.pcgamer.com/armored-core-6s-talented-fan-artists-keep-reimagining-its-faceless-characters-as-hot-dating-sim-options-distracting-me-from-mecha-ultraviolence)
+ - [So, guess I&#39;m building my next gaming PC from Colorful&#39;s new MEOW range then](https://www.pcgamer.com/so-guess-im-building-my-next-gaming-pc-from-colorfuls-new-meow-range-then)
+ - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
