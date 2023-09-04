@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - ⏩ [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
- - 👉 [Nobody reads this](http://9gag.com/gag/a6q4LDR)<!-- MEMES:END -->
+ - 💣 [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
+ - ⏩ [Cute dress](http://9gag.com/gag/aVb4epO)
+ - 👉 [Is this fair?](http://9gag.com/gag/az2oj6K)<!-- MEMES:END -->
 
 ---
 
