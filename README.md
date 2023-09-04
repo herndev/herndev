@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - ⏩ [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
- - 👉 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)<!-- MEMES:END -->
+ - 💣 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
+ - ⏩ [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 👉 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)<!-- MEMES:END -->
 
 ---
 
