@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)
- - [Spotify is reportedly limiting ad payouts for white noise podcasters](https://www.theverge.com/2023/9/4/23858268/spotify-ambient-white-noise-podcasts-ad-revenue-crackdown)
- - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)<!-- TECH:END -->
+ - [Prepare for unexpected power outages with these essential safety tips from Bluetti](https://appleinsider.com/articles/23/09/04/prepare-for-unexpected-power-outages-with-these-essential-safety-tips-from-bluetti?utm_medium=rss)
+ - [Apple could bring spatial photos to &#39;iPhone Ultra&#39; after Vision Pro release](https://appleinsider.com/articles/23/09/04/apple-could-bring-spatial-photos-to-iphone-ultra-after-vision-pro-release?utm_medium=rss)
+ - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
