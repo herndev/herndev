@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up recurring Apple Pay Cash payments in iOS 17](https://appleinsider.com/articles/23/09/04/how-to-set-up-recurring-apple-pay-cash-payments-in-ios-17?utm_medium=rss)
- - [Google has an uphill battle with the Pixel 8, if these leaked prices are correct](https://www.androidauthority.com/pixel-8-price-increase-3360895/)
- - [China&#39;s app rule changes applied everywhere but the App Store](https://appleinsider.com/articles/23/09/04/chinas-app-rule-changes-applied-everywhere-but-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [All the smart home news from a bumper IFA Berlin trade show on the AppleInsider podcast](https://appleinsider.com/articles/23/09/04/all-the-smart-home-news-from-a-bumper-ifa-berlin-trade-show-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Filing: Paytm founder Vijay Shekhar Sharma became the biggest investor in the company, with a 19.42% stake, after he acquired shares from China&#39;s Ant Group &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230904/p10#a230904p10)
+ - [Labor Day deals: MacBook Air $582, Eve Weather Station $57, Samsung M8 monitor $339, more](https://appleinsider.com/articles/23/09/04/labor-day-deals-macbook-air-582-eve-weather-station-57-samsung-m8-monitor-339-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
