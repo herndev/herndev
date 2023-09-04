@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)
- - [After 28 years of service, Microsoft is killing WordPad](https://www.pcgamer.com/after-28-years-microsoft-is-killing-wordpad)
- - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #807: Monday, September 4](https://www.pcgamer.com/wordle-answer-today-hint-807-september-4)
+ - [NYT Connections puzzle hint and answer for Monday, September 4 &lpar;#85&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-monday-september-4-84)
+ - [Five new Steam games you probably missed &lpar;September 4, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-4-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
