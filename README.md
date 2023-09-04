@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How long do iPhones last? How long should you use your iPhone for?](https://www.androidauthority.com/how-long-do-iphones-last-3359069/)
- - [Hands-on with the Withings ScanWatch 2: A new hybrid hero emerges](https://www.androidauthority.com/withings-scanwatch-2-hands-on-3360663/)
- - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)
+ - [Spotify is reportedly limiting ad payouts for white noise podcasters](https://www.theverge.com/2023/9/4/23858268/spotify-ambient-white-noise-podcasts-ad-revenue-crackdown)
+ - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
