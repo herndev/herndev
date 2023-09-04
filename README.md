@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Spotify raises the listener threshold for creators in Ambassador Ads from 100 to 1,000 over 60 days, and plans to cut ad support for white noise podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230904/p12#a230904p12)
- - [Best Smart Soundbar of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
- - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)<!-- TECH:END -->
+ - [Sources: Apple and Microsoft have argued that iMessage and Bing are insufficiently popular to be designated &quot;gatekeepers&quot; to be regulated under EU&#39;s DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230904/p13#a230904p13)
+ - [Apple allegedly arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)
+ - [Email: Spotify raises the listener threshold for creators in Ambassador Ads from 100 to 1,000 over 60 days, and plans to cut ad support for white noise podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230904/p12#a230904p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
