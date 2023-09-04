@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Barely a day after launch, Starfield already has over 100 mods](https://www.pcgamer.com/best-starfield-mods)
- - [Teenage Mutant Ninja Turtles: Mutant Mayhem, Indiana Jones 5, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/1/23849008/new-movies-watch-teenage-mutant-ninja-turtles-mutant-mayhem-netflix-love-again)
- - [PowerWash Simulator is going Back to the Future in its latest weird crossover](https://www.pcgamer.com/powerwash-simulator-is-going-back-to-the-future-in-its-latest-weird-crossover)<!-- GAME:END -->
+ - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)
+ - [How Starfield’s Dream Home trait works, and is it worth it?](https://www.polygon.com/starfield-guide/23857647/dream-home-trait-location-nesoi-payment)
+ - [Baldur&#39;s Gate 3 speedrun brought under 5 minutes thanks to &#39;Shadowboxing,&#39; a trick where you kill Shadowheart and stuff her in a box to skip Act 2](https://www.pcgamer.com/baldurs-gate-speedrun-brought-under-5-minutes-thanks-to-shadowboxing-a-trick-where-you-kill-shadowheart-and-stuff-her-in-a-box-to-skip-act-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
