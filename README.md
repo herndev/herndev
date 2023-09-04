@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - ⏩ [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
+ - 💣 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
+ - ⏩ [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
+ - 👉 [9gagers on the way to Donbas to drop SUVs for paramedics](http://9gag.com/gag/aA0qwz2)<!-- MEMES:END -->
 
 ---
 
