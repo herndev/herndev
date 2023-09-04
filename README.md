@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Drunk with power, modders have started putting Armored Cores in Elden Ring](https://www.pcgamer.com/drunk-with-power-modders-have-started-putting-armored-cores-in-elden-ring)
  - [New Star Trek, Daryl’s Walking Dead spinoff, and more TV to watch this week](https://www.polygon.com/2023/9/4/23843393/new-tv-schedule-netflix-reality-walking-dead-daryl-dixon-star-trek)
- - [Starfield gets the mod of mods, the granddaddy of them all: script extender](https://www.pcgamer.com/starfield-gets-the-mod-of-mods-the-granddaddy-of-them-all-script-extender)
- - [Neglect Gale for too long in Baldur&#39;s Gate 3, and you&#39;ll receive gaming&#39;s saddest resignation letter](https://www.pcgamer.com/neglect-gale-for-too-long-in-baldurs-gate-3-and-youll-receive-gamings-saddest-resignation-letter)<!-- GAME:END -->
+ - [Starfield gets the mod of mods, the granddaddy of them all: script extender](https://www.pcgamer.com/starfield-gets-the-mod-of-mods-the-granddaddy-of-them-all-script-extender)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
