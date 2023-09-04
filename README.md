@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airline fears around 5G may finally be over](https://www.theverge.com/2023/9/1/23856099/delta-updates-airplanes-5g-interference)
- - [Sources: Arm looks to target its IPO at a $50B-$55B valuation, well below the $64B valuation implied by SoftBank&#39;s recent acquisition of a 25% stake in Arm &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230901/p21#a230901p21)
- - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)<!-- TECH:END -->
+ - [After ADL&#39;s CEO noted talking to X CEO Yaccarino last week, anti-Semitic X posts surged and #BanTheADL trended as Elon Musk replied to and liked far-right posts &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230903/p9#a230903p9)
+ - [‘California Forever’ website touts the city tech billionaires are trying to build](https://www.theverge.com/2023/9/3/23857664/california-forever-tech-billionaire-secret-city)
+ - [A look at the endless battle being waged by a group of internet sleuths, trans engineers, and activists to banish stalking forum Kiwi Farms from the internet &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230903/p8#a230903p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
