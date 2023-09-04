@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to enter Candulhallow&#39;s Tombstones in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-candulhallows-tombstones)
- - [Streamer sets sail for the surface of Pluto in Starfield—and spends 7 hours to reach a cursed orb she can just fly through](https://www.pcgamer.com/streamer-sets-sail-for-the-surface-of-pluto-in-starfieldand-spends-7-hours-to-reach-a-cursed-orb-she-can-just-fly-through)
- - [Watch the trailer for Godzilla Minus One, a return to the kaiju’s terrifying past](https://www.polygon.com/23855460/godzilla-minus-one-trailer-release-date)<!-- GAME:END -->
+ - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)
+ - [Starfield Literally Saved A Couple From Death](https://kotaku.com/starfield-saved-lives-apartment-fire-bethesda-1850801606?utm_source=regular)
+ - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
