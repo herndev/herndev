@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
- - ⏩ [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)
- - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
+ - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
+ - ⏩ [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 
