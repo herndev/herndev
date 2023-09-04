@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 28 years of service, Microsoft is killing WordPad](https://www.pcgamer.com/after-28-years-microsoft-is-killing-wordpad)
  - [Starfield fans are already recreating some classic sci-fi ships](https://www.pcgamer.com/starfield-fans-classic-ships)
- - [How Starfield’s Dream Home trait works, and is it worth it?](https://www.polygon.com/starfield-guide/23857647/dream-home-trait-location-nesoi-payment)
- - [Baldur&#39;s Gate 3 speedrun brought under 5 minutes thanks to &#39;Shadowboxing,&#39; a trick where you kill Shadowheart and stuff her in a box to skip Act 2](https://www.pcgamer.com/baldurs-gate-speedrun-brought-under-5-minutes-thanks-to-shadowboxing-a-trick-where-you-kill-shadowheart-and-stuff-her-in-a-box-to-skip-act-2)<!-- GAME:END -->
+ - [How Starfield’s Dream Home trait works, and is it worth it?](https://www.polygon.com/starfield-guide/23857647/dream-home-trait-location-nesoi-payment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
