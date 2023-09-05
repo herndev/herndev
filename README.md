@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Lechonk’s Adventure’ rewards, evolution, and shiny preview](https://www.polygon.com/pokemon-go-guide/23859386/lechonk-adventure-evolution-shiny)
- - [Pokémon Go ‘A Paldean Adventure’ event, choose a path quest: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
- - [Starfield bug means you can just stroll up and take one of the best spacesuits right at the start of the game with no skill or repercussions](https://www.pcgamer.com/starfield-bug-means-you-can-just-stroll-up-and-take-one-of-the-best-spacesuits-right-at-the-start-of-the-game-with-no-skill-or-repercussions)<!-- GAME:END -->
+ - [How to complete the Free the Artist quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-free-the-artist-portrait)
+ - [Massive Baldur&#39;s Gate 3 mod adds playable kobolds, minotaurs, FF14 races, and D&amp;D&#39;s rage-inducing kenders](https://www.pcgamer.com/massive-baldurs-gate-3-mod-adds-playable-kobolds-minotaurs-ff14-races-and-dandds-rage-inducing-kenders)
+ - [Bethesda says most of Starfield&#39;s 1000+ planets are dull on purpose because &#39;When the astronauts went to the moon, there was nothing there&#39; but &#39;they certainly weren&#39;t bored&#39;](https://www.pcgamer.com/bethesda-says-most-of-starfields-1000-planets-are-dull-on-purpose-because-when-the-astronauts-went-to-the-moon-there-was-nothing-there-but-they-certainly-werent-bored)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
