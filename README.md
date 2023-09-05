@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Starfield, Solar Ash, and Lies of P](https://news.xbox.com/en-us/2023/09/05/game-pass-september-2023-wave-1-announce/)
- - [Starfield’s New Atlantis is an Epcot-core vision of a bygone future](https://www.polygon.com/23854280/starfield-new-atlantis-epcot-visual-inspiration)
- - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)<!-- GAME:END -->
+ - [True to FromSoftware&#39;s creative vision, Armored Core 6 now has a mech that&#39;s CJ riding Thomas the Tank Engine](https://www.pcgamer.com/true-to-fromsoftwares-creative-vision-armored-core-6-now-has-a-mech-thats-cj-riding-thomas-the-tank-engine)
+ - [It shouldn’t be this hard to play old Armored Core games](https://www.polygon.com/23852413/armored-core-6-verdict-day-ps3-xbox360-emulation)
+ - [Five Riveting Gaming &amp; Anime YouTubers You Should Check Out](https://kotaku.com/best-video-game-anime-wrestling-politics-youtube-essay-1850798278?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
