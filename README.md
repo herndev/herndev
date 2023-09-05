@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/09/04/this-weeks-deals-with-gold-and-spotlight-sale-287/)
- - [Today&#39;s Wordle hint and answer #808: Tuesday, September 5](https://www.pcgamer.com/wordle-answer-today-hint-808-september-5)
- - [NYT Connections puzzle hint and answer for Tuesday, September 5 &lpar;#86&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-tuesday-september-5-86)<!-- GAME:END -->
+ - [Pokémon Go ‘Lechonk’s Adventure’ rewards, evolution, and shiny preview](https://www.polygon.com/pokemon-go-guide/23859386/lechonk-adventure-evolution-shiny)
+ - [Pokémon Go ‘A Paldean Adventure’ event, choose a path quest: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
+ - [Starfield bug means you can just stroll up and take one of the best spacesuits right at the start of the game with no skill or repercussions](https://www.pcgamer.com/starfield-bug-means-you-can-just-stroll-up-and-take-one-of-the-best-spacesuits-right-at-the-start-of-the-game-with-no-skill-or-repercussions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
