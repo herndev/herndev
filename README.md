@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
- - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
+ - 💣 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - ⏩ [Pain.](http://9gag.com/gag/aA0qwzg)
+ - 👉 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)<!-- MEMES:END -->
 
 ---
 
