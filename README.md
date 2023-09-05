@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit hastily replacing some of its long-time mods raises questions about the company prioritizing reopening protesting subreddits over finding the best people &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230905/p4#a230905p4)
  - [Copyright activists are working to wipe Books3 from the internet, which may only benefit the big companies that have already been using the AI training dataset &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230905/p3#a230905p3)
- - [Apple says iMessage isn’t popular enough to play nice with other apps](https://www.androidauthority.com/apple-imessage-popular-gatekeeper-eu-3361088/)
- - [Logitech’s latest Pro-branded gaming keyboard is wireless, RGB, and $199](https://www.theverge.com/2023/9/5/23858523/logitech-pro-x-tkl-lightspeed-mechanical-gaming-keyboard-price-release-date-specs-features)<!-- TECH:END -->
+ - [Apple says iMessage isn’t popular enough to play nice with other apps](https://www.androidauthority.com/apple-imessage-popular-gatekeeper-eu-3361088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
