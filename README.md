@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - ⏩ [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
+ - 💣 [Long showers have meaning](http://9gag.com/gag/aQEBMv2)
+ - ⏩ [After raping a 12 year old girl while he was in college, Karl Malone went on to avoid punishment and play in the NBA](http://9gag.com/gag/aVb4eN2)
+ - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
 
 ---
 
