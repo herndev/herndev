@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
- - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
+ - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - ⏩ [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
 ---
 
