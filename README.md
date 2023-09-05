@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple prepares for the end of leather Apple Watch bands with staff discounts](https://appleinsider.com/articles/23/09/05/apple-prepares-for-end-of-leather-apple-watch-bands-with-staff-discounts?utm_medium=rss)
- - [Action button shown in new iPhone 15 Pro case leak](https://appleinsider.com/articles/23/09/05/action-button-shown-in-new-iphone-15-pro-case-leak?utm_medium=rss)
- - [Sources detail a tumultuous 12 months for Sequoia: spinning off its highly profitable Chinese arm, its FTX and Twitter bets souring, and Michael Moritz leaving &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230905/p7#a230905p7)<!-- TECH:END -->
+ - [macOS Sonoma could be locked down with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
+ - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
+ - [TikTok hires UK cybersecurity company NCC to audit its data controls and protections, and provide independent verification, as part of Project Clover &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230905/p11#a230905p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
