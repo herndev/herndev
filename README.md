@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - ⏩ [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
+ - 💣 [Billionaires asking money is disgusting. Oprah and The Rock hire private firemen.](http://9gag.com/gag/aEqyBPo)
+ - ⏩ [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
+ - 👉 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)<!-- MEMES:END -->
 
 ---
 
