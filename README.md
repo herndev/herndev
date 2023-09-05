@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma could be locked down with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
- - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
- - [TikTok hires UK cybersecurity company NCC to audit its data controls and protections, and provide independent verification, as part of Project Clover &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230905/p11#a230905p11)<!-- TECH:END -->
+ - [Intel and Tower Semiconductor say the Israeli contract chipmaker will invest $300M in Intel&#39;s New Mexico factory, after their $5.4B merger collapsed in August &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230905/p14#a230905p14)
+ - [Apple Music acquires famed classical label BIS](https://appleinsider.com/articles/23/09/05/apple-music-acquires-famed-classical-label-bis?utm_medium=rss)
+ - [Israel-based Upwind, which helps detect and counter cloud infrastructure threats, raised $50M led by Greylock at a $300M valuation, taking its funding to $80M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230905/p13#a230905p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
