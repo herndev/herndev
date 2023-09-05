@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senator Marsha Blackburn, the Kids Online Safety Act&#39;s lead sponsor, says the US legislation would be used to &quot;protect minor children&quot; from transgender people &lpar;Erin Reed/Erin In The Morning&rpar;](http://www.techmeme.com/230904/p16#a230904p16)
  - [Elon Musk threatens to file a defamation suit against the ADL for &quot;falsely accusing&quot; X and him of being antisemitic, and blames the ADL for X&#39;s US ad sales drop &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230904/p15#a230904p15)
- - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta also plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)
- - [Apple and Microsoft reportedly want iMessage and Bing off the EU’s tech ‘gatekeeper’ list](https://www.theverge.com/2023/9/4/23858948/eu-microsoft-apple-bing-imessage-dma-gatekeepers-list-dispute)<!-- TECH:END -->
+ - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta also plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
