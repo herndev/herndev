@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Strange Afterlife of Wagner’s Yevgeny Prigozhin](https://www.wired.com/story/prigozhin-wagner-dead-news-disinformation/)
- - [Niantic’s new AR experiment is a ho-hum Pikmin mobile browser game](https://www.theverge.com/2023/9/5/23859540/pikmin-finder-niantic-nintendo-ar-browser-game)
- - [Mujin, which develops AI software for industrial automation, raised a $85M Series C led by SBI Investment, bringing its total funding to $150M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230905/p20#a230905p20)<!-- TECH:END -->
+ - [Final Fantasy XVI just received a free content update and is now $20 off](https://www.theverge.com/2023/9/5/23859223/final-fantasy-xvi-amazfit-band-7-samsung-galaxy-z-fold-5-deal-sale)
+ - [Volkswagen’s electric GTI concept teases the future of hot hatches](https://www.theverge.com/2023/9/5/23859546/volkswagen-electric-gti-concept-photos-specs-hot-hatch)
+ - [The multiplayer in Baldur’s Gate 3 sorely needs a dungeon master](https://www.theverge.com/23853139/baldurs-gate-3-multiplayer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
