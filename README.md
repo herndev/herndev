@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Contra-like is a celebration of spread guns and gnarly flesh](https://www.pcgamer.com/this-contra-like-is-a-celebration-of-spread-guns-and-gnarly-flesh)
- - [Check out the demo for this slimy survival horror and its reckless disregard for the rules of game point-of-view](https://www.pcgamer.com/check-out-the-demo-for-this-slimy-survival-horror-and-its-reckless-disregard-for-the-rules-of-game-point-of-view)
- - [Item description reveals Starfield as a dark future without Labrador retrievers](https://www.pcgamer.com/item-description-reveals-starfield-as-a-dark-future-without-labrador-retrievers)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #808: Tuesday, September 5](https://www.pcgamer.com/wordle-answer-today-hint-808-september-5)
+ - [NYT Connections puzzle hint and answer for Tuesday, September 5 &lpar;#86&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-tuesday-september-5-86)
+ - [This Contra-like is a celebration of spread guns and gnarly flesh](https://www.pcgamer.com/this-contra-like-is-a-celebration-of-spread-guns-and-gnarly-flesh)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
