@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - ⏩ [They are still in 1800s ....](http://9gag.com/gag/aGE60A5)
- - 👉 [Pain.](http://9gag.com/gag/aA0qwzg)<!-- MEMES:END -->
+ - 💣 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
+ - ⏩ [Who are you??](http://9gag.com/gag/aMED876)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 
