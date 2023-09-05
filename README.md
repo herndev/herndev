@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray, That Cute Cat Game From Last Year, Is Getting An Animated Movie](https://kotaku.com/stray-cat-game-ps5-animated-film-indie-annapurna-1850804655?utm_source=regular)
- - [Starfield walkthrough and guides](https://www.polygon.com/starfield-guide/23841889/walkthrough-guides)
- - [Starfield romance options and how relationships work](https://www.polygon.com/starfield-guide/23859792/romance-options-andreja-sarah-sam-barrett-multiple)<!-- GAME:END -->
+ - [Nintendo Announces Mario Kart, Animal Crossing Switch Bundles](https://kotaku.com/nintendo-switch-online-mario-kart-8-animal-crossing-1850805043?utm_source=regular)
+ - [Netflix’s Chicken Run sequel is really pushing to be a Mission: Impossible movie](https://www.polygon.com/23859926/chicken-run-dawn-of-the-nugget-trailer-netflix-animated-movie)
+ - [How to complete First Contact in Starfield](https://www.pcgamer.com/starfield-first-contact)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
