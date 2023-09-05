@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
- - ⏩ [Who are you??](http://9gag.com/gag/aMED876)
- - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
+ - 💣 [They are still in 1800s ....](http://9gag.com/gag/aGE60A5)
+ - ⏩ [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 👉 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)<!-- MEMES:END -->
 
 ---
 
