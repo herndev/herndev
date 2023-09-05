@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the FTC plans to file an antitrust lawsuit against Amazon later this month, after Amazon offered no concessions in an August meeting with FTC officials &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p31#a230905p31)
- - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)
- - [Elon Musk paid for our attention, but the price to keep it is getting higher](https://www.theverge.com/2023/9/5/23860377/elon-musk-lawsuit-adl-twitter-x)<!-- TECH:END -->
+ - [Overnight updates to physical Apple Stores could hint at fast post-event product availability](https://appleinsider.com/articles/23/09/05/overnight-updates-to-physical-apple-stores-could-hint-at-fast-post-event-product-availability?utm_medium=rss)
+ - [Apple Watch Ultra back on sale, MacBooks from $749 &amp; more from Amazon this week](https://appleinsider.com/articles/23/09/05/apple-watch-ultra-back-on-sale-macbooks-from-749-more-from-amazon-this-week?utm_medium=rss)
+ - [SEC filing: Coinbase has created a new crypto lending service in the US for institutional clients and has raised $57M for the program &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/230905/p32#a230905p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
