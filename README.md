@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
  - ⏩ [This tattoo removal](http://9gag.com/gag/aDYrj7w)
  - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
