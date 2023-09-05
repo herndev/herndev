@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
- - ⏩ [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)<!-- MEMES:END -->
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 👉 [Pain.](http://9gag.com/gag/aA0qwzg)<!-- MEMES:END -->
 
 ---
 
