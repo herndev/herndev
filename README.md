@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone and iPad apps will be available in the Vision Pro App Store by default](https://www.theverge.com/2023/9/5/23860335/apple-iphone-ipad-apps-vision-pro-app-store-default)
- - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)
- - [TikTok appears to be gearing up for a big push into messaging](https://www.theverge.com/2023/9/5/23860247/tiktok-social-messaging-job-listings)<!-- TECH:END -->
+ - [Source: the FTC plans to file an antitrust lawsuit against Amazon later this month, after Amazon offered no concessions in an August meeting with FTC officials &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p31#a230905p31)
+ - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)
+ - [Elon Musk paid for our attention, but the price to keep it is getting higher](https://www.theverge.com/2023/9/5/23860377/elon-musk-lawsuit-adl-twitter-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
