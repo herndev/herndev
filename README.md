@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are still in 1800s ....](http://9gag.com/gag/aGE60A5)
- - ⏩ [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 👉 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)<!-- MEMES:END -->
+ - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - ⏩ [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
 
 ---
 
