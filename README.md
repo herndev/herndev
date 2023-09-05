@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mysterious Power of the Platform, the Internet’s Building Block](https://www.wired.com/story/glossary-platform-linguistics-philosophy/)
- - [What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
- - [The End of Airbnb in New York](https://www.wired.com/story/airbnb-ban-new-york-city/)<!-- TECH:END -->
+ - [Apple prepares for the end of leather Apple Watch bands with staff discounts](https://appleinsider.com/articles/23/09/05/apple-prepares-for-end-of-leather-apple-watch-bands-with-staff-discounts?utm_medium=rss)
+ - [Action button shown in new iPhone 15 Pro case leak](https://appleinsider.com/articles/23/09/05/action-button-shown-in-new-iphone-15-pro-case-leak?utm_medium=rss)
+ - [Sources detail a tumultuous 12 months for Sequoia: spinning off its highly profitable Chinese arm, its FTX and Twitter bets souring, and Michael Moritz leaving &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230905/p7#a230905p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
