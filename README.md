@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [True to FromSoftware&#39;s creative vision, Armored Core 6 now has a mech that&#39;s CJ riding Thomas the Tank Engine](https://www.pcgamer.com/true-to-fromsoftwares-creative-vision-armored-core-6-now-has-a-mech-thats-cj-riding-thomas-the-tank-engine)
- - [It shouldn’t be this hard to play old Armored Core games](https://www.polygon.com/23852413/armored-core-6-verdict-day-ps3-xbox360-emulation)
- - [Five Riveting Gaming &amp; Anime YouTubers You Should Check Out](https://kotaku.com/best-video-game-anime-wrestling-politics-youtube-essay-1850798278?utm_source=regular)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3: How to get Loviatar&#39;s blessing from Abdirak](https://www.pcgamer.com/baldurs-gate-3-abdirak-loviatars-love)
+ - [Charles Martinet, former voice of Mario, isn&#39;t quite sure what being Mario Ambassador actually means: &#39;we’ll all learn exactly what that is&#39;](https://www.pcgamer.com/charles-martinet-former-voice-of-mario-isnt-quite-sure-what-being-mario-ambassador-actually-means-well-all-learn-exactly-what-that-is)
+ - [Star Wars Jedi: Survivor update brings PS5 and Xbox versions to ‘solid 60 fps’](https://www.polygon.com/23859569/star-wars-jedi-survivor-patch-update-bugs-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
