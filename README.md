@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix knew it had to change One Piece’s world for live action](https://www.polygon.com/23854303/one-piece-live-action-netflix-tv-show-interview)
- - [Overcrowded October forces another big-name game delay all the way into 2024](https://www.pcgamer.com/overcrowded-october-forces-another-big-name-game-delay-all-the-way-into-2024)
- - [Starfield’s Most Popular Mod Sparks Paywall Controversy, Immediately Gets Pirated](https://kotaku.com/starfield-dlss3-fsr2-pc-mod-nvidia-amd-intel-piracy-1850804328?utm_source=regular)<!-- GAME:END -->
+ - [Stray, That Cute Cat Game From Last Year, Is Getting An Animated Movie](https://kotaku.com/stray-cat-game-ps5-animated-film-indie-annapurna-1850804655?utm_source=regular)
+ - [Starfield walkthrough and guides](https://www.polygon.com/starfield-guide/23841889/walkthrough-guides)
+ - [Starfield romance options and how relationships work](https://www.polygon.com/starfield-guide/23859792/romance-options-andreja-sarah-sam-barrett-multiple)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
