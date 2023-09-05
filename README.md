@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Billionaires asking money is disgusting. Oprah and The Rock hire private firemen.](http://9gag.com/gag/aEqyBPo)
- - ⏩ [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
- - 👉 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)<!-- MEMES:END -->
+ - 💣 [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
+ - ⏩ [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
 
 ---
 
