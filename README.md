@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antenna: MLS Season Pass had 110K US signups on July 21, the day of Messi&#39;s first MLS match, up from 6,143 on July 20; July was TV+&#39;s best signup month in 2023 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p19#a230905p19)
- - [In a bid to please regulators, TikTok opens its first EU data center](https://www.theverge.com/2023/9/5/23859499/tiktok-first-eu-data-center-ireland-launch)
- - [Apple Arcade adds four games with 40 set for September updates](https://appleinsider.com/articles/23/09/05/apple-arcade-adds-four-games-with-40-set-for-september-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Two OLED iPad Pro models rumored to arrive in 2024](https://appleinsider.com/articles/23/09/05/two-oled-ipad-pro-models-rumored-to-arrive-in-2024?utm_medium=rss)
+ - [Daily deals Sept. 5: $499 M2 Mac mini, Apple Watch SE $129, Mac security software up to 65% off, more](https://appleinsider.com/articles/23/09/05/daily-deals-sept-5-499-m2-mac-mini-apple-watch-se-129-mac-security-software-up-to-65-off-more?utm_medium=rss)
+ - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
