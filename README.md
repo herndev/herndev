@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield errors like &#39;you&#39;re too early&#39; expected at launch, Microsoft says &#39;please be patient&#39;](https://www.pcgamer.com/starfield-error-youre-too-early-launch)
- - [Stray is being made into an animated film that Annapurna hopes will be &#39;the first and greatest hopepunk movie that&#39;s ever been made&#39;](https://www.pcgamer.com/stray-is-being-made-into-an-animated-film-that-annapurna-hopes-will-be-the-first-and-greatest-hopepunk-movie-thats-ever-been-made)
- - [All Of Our Starfield Tips, Guides, News, And Reviews](https://kotaku.com/starfield-release-date-xbox-game-pass-metacritic-steam-1850805020?utm_source=regular)<!-- GAME:END -->
+ - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)
+ - [Starfield player stuffs thousands of potatoes into a room to marvel at how much better Bethesda&#39;s physics have gotten](https://www.pcgamer.com/starfield-player-stuffs-thousands-of-potatoes-into-a-room-to-marvel-at-how-much-better-bethesdas-physics-have-gotten)
+ - [Starfield&#39;s randomization, explained: what will be the same for every player, and what won&#39;t](https://www.pcgamer.com/starfields-randomization-explained-what-will-be-the-same-for-every-player-and-what-wont)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
