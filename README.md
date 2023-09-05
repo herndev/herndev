@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Three men arrested for stealing thousands of dollars by hacking into ATMs with a Raspberry Pi device](https://www.pcgamer.com/three-men-arrested-for-stealing-thousands-of-dollars-by-hacking-into-atms-with-a-raspberry-pi-device)
- - [The new Baldur&#39;s Gate 3 hotfix brings proper romance to the game&#39;s most evil companion](https://www.pcgamer.com/the-new-baldurs-gate-3-hotfix-brings-proper-romance-to-the-games-most-evil-companion)
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704?utm_source=regular)<!-- GAME:END -->
+ - [The best traits to start with in Starfield](https://www.polygon.com/starfield-guide/23843037/best-traits-explained-list)
+ - [How to choose the best background in Starfield for you](https://www.polygon.com/23842901/best-background-list)
+ - [Kairosoft Has Come to Xbox with Five Games Including Game Dev Story](https://news.xbox.com/en-us/2023/09/05/kairosoft-has-come-to-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
