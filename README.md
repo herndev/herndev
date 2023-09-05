@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Free the Artist quest in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-free-the-artist-portrait)
- - [Massive Baldur&#39;s Gate 3 mod adds playable kobolds, minotaurs, FF14 races, and D&amp;D&#39;s rage-inducing kenders](https://www.pcgamer.com/massive-baldurs-gate-3-mod-adds-playable-kobolds-minotaurs-ff14-races-and-dandds-rage-inducing-kenders)
- - [Bethesda says most of Starfield&#39;s 1000+ planets are dull on purpose because &#39;When the astronauts went to the moon, there was nothing there&#39; but &#39;they certainly weren&#39;t bored&#39;](https://www.pcgamer.com/bethesda-says-most-of-starfields-1000-planets-are-dull-on-purpose-because-when-the-astronauts-went-to-the-moon-there-was-nothing-there-but-they-certainly-werent-bored)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Starfield, Solar Ash, and Lies of P](https://news.xbox.com/en-us/2023/09/05/game-pass-september-2023-wave-1-announce/)
+ - [Starfield’s New Atlantis is an Epcot-core vision of a bygone future](https://www.polygon.com/23854280/starfield-new-atlantis-epcot-visual-inspiration)
+ - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
