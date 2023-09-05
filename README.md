@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Even Charles Martinet Knows What A ‘Mario Ambassador’ Is](https://kotaku.com/mario-ambassador-voice-actor-charles-martinet-nintendo-1850805915?utm_source=regular)
- - [Starfield Factions: How To Join And What They’re All About](https://kotaku.com/starfield-faction-best-quests-crimson-fleet-reward-join-1850805835?utm_source=regular)
- - [Here’s When You Can Actually Start Playing Starfield](https://kotaku.com/starfield-release-date-early-access-game-pass-premium-1850781812?utm_source=regular)<!-- GAME:END -->
+ - [Starfield errors like &#39;you&#39;re too early&#39; expected at launch, Microsoft says &#39;please be patient&#39;](https://www.pcgamer.com/starfield-error-youre-too-early-launch)
+ - [Stray is being made into an animated film that Annapurna hopes will be &#39;the first and greatest hopepunk movie that&#39;s ever been made&#39;](https://www.pcgamer.com/stray-is-being-made-into-an-animated-film-that-annapurna-hopes-will-be-the-first-and-greatest-hopepunk-movie-thats-ever-been-made)
+ - [All Of Our Starfield Tips, Guides, News, And Reviews](https://kotaku.com/starfield-release-date-xbox-game-pass-metacritic-steam-1850805020?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
