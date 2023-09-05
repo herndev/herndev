@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best traits to start with in Starfield](https://www.polygon.com/starfield-guide/23843037/best-traits-explained-list)
- - [How to choose the best background in Starfield for you](https://www.polygon.com/23842901/best-background-list)
- - [Kairosoft Has Come to Xbox with Five Games Including Game Dev Story](https://news.xbox.com/en-us/2023/09/05/kairosoft-has-come-to-xbox/)<!-- GAME:END -->
+ - [Not Even Charles Martinet Knows What A ‘Mario Ambassador’ Is](https://kotaku.com/mario-ambassador-voice-actor-charles-martinet-nintendo-1850805915?utm_source=regular)
+ - [Starfield Factions: How To Join And What They’re All About](https://kotaku.com/starfield-faction-best-quests-crimson-fleet-reward-join-1850805835?utm_source=regular)
+ - [Here’s When You Can Actually Start Playing Starfield](https://kotaku.com/starfield-release-date-early-access-game-pass-premium-1850781812?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
