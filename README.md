@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3: How to get Loviatar&#39;s blessing from Abdirak](https://www.pcgamer.com/baldurs-gate-3-abdirak-loviatars-love)
- - [Charles Martinet, former voice of Mario, isn&#39;t quite sure what being Mario Ambassador actually means: &#39;we’ll all learn exactly what that is&#39;](https://www.pcgamer.com/charles-martinet-former-voice-of-mario-isnt-quite-sure-what-being-mario-ambassador-actually-means-well-all-learn-exactly-what-that-is)
- - [Star Wars Jedi: Survivor update brings PS5 and Xbox versions to ‘solid 60 fps’](https://www.polygon.com/23859569/star-wars-jedi-survivor-patch-update-bugs-performance)<!-- GAME:END -->
+ - [Netflix knew it had to change One Piece’s world for live action](https://www.polygon.com/23854303/one-piece-live-action-netflix-tv-show-interview)
+ - [Overcrowded October forces another big-name game delay all the way into 2024](https://www.pcgamer.com/overcrowded-october-forces-another-big-name-game-delay-all-the-way-into-2024)
+ - [Starfield’s Most Popular Mod Sparks Paywall Controversy, Immediately Gets Pirated](https://kotaku.com/starfield-dlss3-fsr2-pc-mod-nvidia-amd-intel-piracy-1850804328?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
