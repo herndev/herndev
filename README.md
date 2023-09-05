@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy XVI just received a free content update and is now $20 off](https://www.theverge.com/2023/9/5/23859223/final-fantasy-xvi-amazfit-band-7-samsung-galaxy-z-fold-5-deal-sale)
- - [Volkswagen’s electric GTI concept teases the future of hot hatches](https://www.theverge.com/2023/9/5/23859546/volkswagen-electric-gti-concept-photos-specs-hot-hatch)
- - [The multiplayer in Baldur’s Gate 3 sorely needs a dungeon master](https://www.theverge.com/23853139/baldurs-gate-3-multiplayer)<!-- TECH:END -->
+ - [Ninth tvOS 17 beta build now available for developer testing](https://appleinsider.com/articles/23/09/05/ninth-tvos-17-beta-build-now-available-for-developer-testing?utm_medium=rss)
+ - [United Airlines pauses all flights nationwide, citing ‘systemwide technology issue’](https://www.theverge.com/2023/9/5/23860056/united-airlines-ground-stop-order-faa-technology)
+ - [This SanDisk 512GB flash drive is a steal at 64% off](https://www.androidauthority.com/sandisk-512gb-flash-drive-deal-3361273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
