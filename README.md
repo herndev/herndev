@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two OLED iPad Pro models rumored to arrive in 2024](https://appleinsider.com/articles/23/09/05/two-oled-ipad-pro-models-rumored-to-arrive-in-2024?utm_medium=rss)
- - [Daily deals Sept. 5: $499 M2 Mac mini, Apple Watch SE $129, Mac security software up to 65% off, more](https://appleinsider.com/articles/23/09/05/daily-deals-sept-5-499-m2-mac-mini-apple-watch-se-129-mac-security-software-up-to-65-off-more?utm_medium=rss)
- - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)<!-- TECH:END -->
+ - [The Strange Afterlife of Wagner’s Yevgeny Prigozhin](https://www.wired.com/story/prigozhin-wagner-dead-news-disinformation/)
+ - [Niantic’s new AR experiment is a ho-hum Pikmin mobile browser game](https://www.theverge.com/2023/9/5/23859540/pikmin-finder-niantic-nintendo-ar-browser-game)
+ - [Mujin, which develops AI software for industrial automation, raised a $85M Series C led by SBI Investment, bringing its total funding to $150M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230905/p20#a230905p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
