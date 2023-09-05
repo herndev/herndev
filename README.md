@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Announces Mario Kart, Animal Crossing Switch Bundles](https://kotaku.com/nintendo-switch-online-mario-kart-8-animal-crossing-1850805043?utm_source=regular)
- - [Netflix’s Chicken Run sequel is really pushing to be a Mission: Impossible movie](https://www.polygon.com/23859926/chicken-run-dawn-of-the-nugget-trailer-netflix-animated-movie)
- - [How to complete First Contact in Starfield](https://www.pcgamer.com/starfield-first-contact)<!-- GAME:END -->
+ - [Three men arrested for stealing thousands of dollars by hacking into ATMs with a Raspberry Pi device](https://www.pcgamer.com/three-men-arrested-for-stealing-thousands-of-dollars-by-hacking-into-atms-with-a-raspberry-pi-device)
+ - [The new Baldur&#39;s Gate 3 hotfix brings proper romance to the game&#39;s most evil companion](https://www.pcgamer.com/the-new-baldurs-gate-3-hotfix-brings-proper-romance-to-the-games-most-evil-companion)
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
