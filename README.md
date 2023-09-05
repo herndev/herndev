@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long showers have meaning](http://9gag.com/gag/aQEBMv2)
- - ⏩ [After raping a 12 year old girl while he was in college, Karl Malone went on to avoid punishment and play in the NBA](http://9gag.com/gag/aVb4eN2)
- - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
+ - 💣 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - ⏩ [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 👉 [Lois had no chill](http://9gag.com/gag/a2K94xe)<!-- MEMES:END -->
 
 ---
 
