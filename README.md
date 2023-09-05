@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate hunting for new apps and games on the Play Store? Google has a new solution](https://www.androidauthority.com/google-play-store-videos-3361323/)
- - [Star Trek is getting five new ‘very Short Treks’](https://www.theverge.com/2023/9/5/23860154/star-trek-very-short-treks-too-many-cooks)
- - [The best Labor Day deals you can still grab at Amazon and elsewhere](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)<!-- TECH:END -->
+ - [iPhone and iPad apps will be available in the Vision Pro App Store by default](https://www.theverge.com/2023/9/5/23860335/apple-iphone-ipad-apps-vision-pro-app-store-default)
+ - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)
+ - [TikTok appears to be gearing up for a big push into messaging](https://www.theverge.com/2023/9/5/23860247/tiktok-social-messaging-job-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
