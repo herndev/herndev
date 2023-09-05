@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel and Tower Semiconductor say the Israeli contract chipmaker will invest $300M in Intel&#39;s New Mexico factory, after their $5.4B merger collapsed in August &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230905/p14#a230905p14)
- - [Apple Music acquires famed classical label BIS](https://appleinsider.com/articles/23/09/05/apple-music-acquires-famed-classical-label-bis?utm_medium=rss)
- - [Israel-based Upwind, which helps detect and counter cloud infrastructure threats, raised $50M led by Greylock at a $300M valuation, taking its funding to $80M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230905/p13#a230905p13)<!-- TECH:END -->
+ - [Antenna: MLS Season Pass had 110K US signups on July 21, the day of Messi&#39;s first MLS match, up from 6,143 on July 20; July was TV+&#39;s best signup month in 2023 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p19#a230905p19)
+ - [In a bid to please regulators, TikTok opens its first EU data center](https://www.theverge.com/2023/9/5/23859499/tiktok-first-eu-data-center-ireland-launch)
+ - [Apple Arcade adds four games with 40 set for September updates](https://appleinsider.com/articles/23/09/05/apple-arcade-adds-four-games-with-40-set-for-september-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
