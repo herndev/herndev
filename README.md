@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/09/04/this-weeks-deals-with-gold-and-spotlight-sale-287/)
  - [Today&#39;s Wordle hint and answer #808: Tuesday, September 5](https://www.pcgamer.com/wordle-answer-today-hint-808-september-5)
- - [NYT Connections puzzle hint and answer for Tuesday, September 5 &lpar;#86&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-tuesday-september-5-86)
- - [This Contra-like is a celebration of spread guns and gnarly flesh](https://www.pcgamer.com/this-contra-like-is-a-celebration-of-spread-guns-and-gnarly-flesh)<!-- GAME:END -->
+ - [NYT Connections puzzle hint and answer for Tuesday, September 5 &lpar;#86&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-tuesday-september-5-86)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
