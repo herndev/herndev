@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 4 starts getting Wear OS 4-based One UI 5 Watch update](https://www.androidauthority.com/samsung-galaxy-watch-4-wear-os-4-one-ui-5-watch-update-3361083/)
- - [Will there be a Garmin Vivoactive 5? Release date, price, and specs rumors](https://www.androidauthority.com/garmin-vivoactive-5-3360623/)
- - [Senator Marsha Blackburn, the Kids Online Safety Act&#39;s lead sponsor, says the US legislation would be used to &quot;protect minor children&quot; from transgender people &lpar;Erin Reed/Erin In The Morning&rpar;](http://www.techmeme.com/230904/p16#a230904p16)<!-- TECH:END -->
+ - [Malaysia says it is in discussions with Google, Meta and others over a regulatory framework to compensate news outlets for their content on online platforms &lpar;Reuters&rpar;](http://www.techmeme.com/230905/p2#a230905p2)
+ - [Milton Keynes, UK-based Envisics, which is building in-car AR heads-up display tech, raised $50M in a second Series C tranche, closing the $100M round in total &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230905/p1#a230905p1)
+ - [Samsung Galaxy Watch 4 starts getting Wear OS 4-based One UI 5 Watch update](https://www.androidauthority.com/samsung-galaxy-watch-4-wear-os-4-one-ui-5-watch-update-3361083/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
