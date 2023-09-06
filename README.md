@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
- - [UK comes to its senses, will not push iMessage and WhatsApp to exit country](https://www.androidauthority.com/investigatory-powers-act-fail-3361630/)
- - [Here’s where you can preorder Sonos’ new Move 2 speaker](https://www.theverge.com/2023/9/6/23854738/sonos-move-2-preorder-buy-price-availability-release-date)<!-- TECH:END -->
+ - [AMD’s RX 7800 XT is the antidote to GPU inflation](https://www.theverge.com/2023/9/6/23861603/amd-radeon-rx-7800-xt-editorial-gpu-prices)
+ - [Max will reportedly start offering free sports later this year](https://www.theverge.com/2023/9/6/23861581/max-free-sports-streaming-warner-bros-discovery)
+ - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
