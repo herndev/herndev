@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars’ World Between Worlds is the answer to Ahsoka’s latest cliffhanger](https://www.polygon.com/star-wars/23860779/ahsoka-world-between-worlds-anakin-hayden-christensen)
- - [What do the names of bestselling Steam games have in common? Words like Manager, Tycoon, Remastered, and HD](https://www.pcgamer.com/what-do-the-names-of-bestselling-steam-games-have-in-common-words-like-manager-tycoon-remastered-and-hd)
- - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #809: Wednesday, September 6](https://www.pcgamer.com/wordle-answer-today-hint-809-september-6)
+ - [NYT Connections puzzle hint and answer for Wednesday, September 6 &lpar;#87&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-wednesday-september-6-87)
+ - [Star Wars’ World Between Worlds is the answer to Ahsoka’s latest cliffhanger](https://www.polygon.com/star-wars/23860779/ahsoka-world-between-worlds-anakin-hayden-christensen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
