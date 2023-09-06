@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - ⏩ [When you find out your fianc\u00e9 is an international h03 in front of the whole world](http://9gag.com/gag/ago6nmw)
- - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
+ - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - ⏩ [I like the live action\u2026\u2026..but oof](http://9gag.com/gag/aeQybzm)
+ - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
 
 ---
 
