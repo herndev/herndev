@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That TMNT Movie Was So Successful It’s Getting A Video Game Sequel](https://kotaku.com/tmnt-mutant-mayhem-video-game-ninja-turtles-movie-date-1850810080?utm_source=regular)
- - [Nintendo’s Genius Plan To Sell More Switches Depends On Kids Fighting](https://kotaku.com/nintendo-switch-lite-animal-crossing-mario-kart-bundle-1850810061?utm_source=regular)
- - [Starfield snow globe locations: How to find New York, London, the Apollo moon landing site, and more](https://www.pcgamer.com/starfield-snowglobe-locations)<!-- GAME:END -->
+ - [Fae Farm: The Kotaku Review](https://kotaku.com/review-fae-farm-switch-release-date-cozy-game-romance-1850810406?utm_source=regular)
+ - [Baldur&#39;s Gate 3 crossplay is on the way, but Larian says &#39;we don&#39;t want to put a date on it until we&#39;re sure&#39;](https://www.pcgamer.com/baldurs-gate-3-crossplay-is-on-the-way-but-larian-says-we-dont-want-to-put-a-date-on-it-until-were-sure)
+ - [ThinkGeek vets have made a new version of the beloved Bag of Holding](https://www.polygon.com/deals/2023/9/6/23861296/thinkgeek-rollacrit-bag-of-holding-kickstarter-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
