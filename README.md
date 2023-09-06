@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Size does matter](http://9gag.com/gag/aOxABgy)
- - ⏩ [She looks familiar](http://9gag.com/gag/aRE97gM)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - ⏩ [Women](http://9gag.com/gag/avQ4O8O)
+ - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
 
 ---
 
