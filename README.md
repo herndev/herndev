@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
- - ⏩ [Who are you??](http://9gag.com/gag/aMED876)
- - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
+ - 💣 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
+ - ⏩ [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 👉 [Lois had no chill](http://9gag.com/gag/a2K94xe)<!-- MEMES:END -->
 
 ---
 
