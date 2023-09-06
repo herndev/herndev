@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher’s new comic pits Geralt against militant vegans](https://www.polygon.com/23859622/witcher-wild-animals-comic-preview-geralt)
- - [Getting Laid In Starfield Is Actually A Good Strategy](https://kotaku.com/starfield-tip-have-more-sex-experience-xp-boost-1850808901?utm_source=regular)
- - [American Horror Story: Delicate is basically Rosemary’s Baby but with Kim Kardashian](https://www.polygon.com/23861537/american-horror-story-ahs-delicate-trailer-kim-kardashian)<!-- GAME:END -->
+ - [How to get Gimmighoul and Gholdengo with Coin Bags and gold PokéStops in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23616714/gimmighoul-coins-coin-bag-gholdengo-golden-lure)
+ - [Ahsoka Series Episode 4 Review: You’re Exactly The Way I Remember You](https://kotaku.com/ahsoka-tano-series-show-episode-4-review-recap-reaction-1850809070?utm_source=regular)
+ - [Baldur’s Gate 3 just made the future of Xbox Series S a bit more uncertain](https://www.polygon.com/23861365/baldurs-gate-3-xbox-series-s-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
