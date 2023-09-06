@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: data analytics software company Alteryx has been working with an investment bank to explore a sale after attracting takeover interest; AYX jumps 13%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230906/p35#a230906p35)
- - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)
- - [California Gov. Newsom signs an EO on AI risks, instructing state agencies to examine AI threats and authorizing state employees to experiment with AI tools &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230906/p34#a230906p34)<!-- TECH:END -->
+ - [Clubhouse updates its iOS and Android apps to include asynchronous voice-only group chats, in an attempt to be &quot;more like a messaging app&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230906/p38#a230906p38)
+ - [Flexport CEO Dave Clark resigns after one year at the company, which he joined from Amazon; sources: Clark is considering a potential run for governor of Texas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p37#a230906p37)
+ - [WhatsApp now supports HD photos and video](https://www.theverge.com/2023/9/6/23862044/whatsapp-hd-photo-video-messaging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
