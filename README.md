@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars’ World Between Worlds is the answer to Ahsoka’s latest cliffhanger](https://www.polygon.com/star-wars/23860779/ahsoka-world-between-worlds-anakin-hayden-christensen)
  - [What do the names of bestselling Steam games have in common? Words like Manager, Tycoon, Remastered, and HD](https://www.pcgamer.com/what-do-the-names-of-bestselling-steam-games-have-in-common-words-like-manager-tycoon-remastered-and-hd)
- - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)
- - [Starfield player stuffs thousands of potatoes into a room to marvel at how much better Bethesda&#39;s physics have gotten](https://www.pcgamer.com/starfield-player-stuffs-thousands-of-potatoes-into-a-room-to-marvel-at-how-much-better-bethesdas-physics-have-gotten)<!-- GAME:END -->
+ - [How to assign crew to ships and outposts in Starfield](https://www.polygon.com/starfield-guide/23860449/how-to-assign-crew-members-ships-outposts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
