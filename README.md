@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield players are using its character creator to fulfil mankind&#39;s historic dream of sending Tony Soprano to space](https://www.pcgamer.com/starfield-players-are-using-its-character-creator-to-fulfil-mankinds-historic-dream-of-sending-tony-soprano-to-space)
- - [Baldur&#39;s Gate 3 devs tried to make D&amp;D&#39;s Dispel Magic work for a long time, but they had to can it: &#39;it would&#39;ve doubled the size of the game&#39;](https://www.pcgamer.com/baldurs-gate-3-devs-tried-to-make-dandds-dispel-magic-work-for-a-long-time-but-they-had-to-can-it-it-wouldve-doubled-the-size-of-the-game)
- - [Logitech G Pro X Superlight 2 wireless mouse upgrades include better sensor and USB-C](https://www.pcgamer.com/logitech-g-pro-x-superlight-2-wireless-mouse-upgrades-include-better-sensor-and-usb-c)<!-- GAME:END -->
+ - [Behind the Scenes of Starfield](https://news.xbox.com/en-us/2023/09/06/starfield-behind-the-scenes/)
+ - [Remnant 2 will get a &#39;potato mode&#39; soon, alongside other quality of life improvements](https://www.pcgamer.com/remnant-2-will-get-a-potato-mode-soon-alongside-other-quality-of-life-improvements)
+ - [Blizzard bigwig seems to offhandedly confirm Diablo 4 is adopting Destiny&#39;s expansion model](https://www.pcgamer.com/blizzard-bigwig-seems-to-offhandedly-confirm-diablo-4-is-adopting-destinys-expansion-model)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
