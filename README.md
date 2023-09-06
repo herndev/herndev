@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who are you??](http://9gag.com/gag/aMED876)
- - ⏩ [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
- - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
+ - 💣 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
+ - ⏩ [When you find out your fianc\u00e9 is an international h03 in front of the whole world](http://9gag.com/gag/ago6nmw)
+ - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
 
 ---
 
