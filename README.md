@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard: Starfield’s Xbox Exclusivity Made It ‘Better’](https://kotaku.com/starfield-xbox-series-x-s-ps5-performance-todd-howard-1850809414?utm_source=regular)
- - [Bethesda Keeps Making The Same Game, For Better Or For Worse](https://kotaku.com/bethesda-rpg-fallout-starfield-skyrim-elder-scrolls-1850809428?utm_source=regular)
- - [How to pay off a bounty if you commit a crime in Starfield](https://www.polygon.com/starfield-guide/23848847/crime-bounties-jail-bribe-pickpocketing-security-neon)<!-- GAME:END -->
+ - [That TMNT Movie Was So Successful It’s Getting A Video Game Sequel](https://kotaku.com/tmnt-mutant-mayhem-video-game-ninja-turtles-movie-date-1850810080?utm_source=regular)
+ - [Nintendo’s Genius Plan To Sell More Switches Depends On Kids Fighting](https://kotaku.com/nintendo-switch-lite-animal-crossing-mario-kart-bundle-1850810061?utm_source=regular)
+ - [Starfield snow globe locations: How to find New York, London, the Apollo moon landing site, and more](https://www.pcgamer.com/starfield-snowglobe-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
