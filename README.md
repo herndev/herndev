@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 will get a new expansion every year](https://www.polygon.com/23861011/diablo-4-dlc-expansion-every-year)
- - [Corsair HS80 Max Wireless review](https://www.pcgamer.com/corsair-hs80-max-wireless-review)
- - [How to unlock the Star Eagle ship in Starfield](https://www.pcgamer.com/starfield-unlock-star-eagle)<!-- GAME:END -->
+ - [Starfield players are using its character creator to fulfil mankind&#39;s historic dream of sending Tony Soprano to space](https://www.pcgamer.com/starfield-players-are-using-its-character-creator-to-fulfil-mankinds-historic-dream-of-sending-tony-soprano-to-space)
+ - [Baldur&#39;s Gate 3 devs tried to make D&amp;D&#39;s Dispel Magic work for a long time, but they had to can it: &#39;it would&#39;ve doubled the size of the game&#39;](https://www.pcgamer.com/baldurs-gate-3-devs-tried-to-make-dandds-dispel-magic-work-for-a-long-time-but-they-had-to-can-it-it-wouldve-doubled-the-size-of-the-game)
+ - [Logitech G Pro X Superlight 2 wireless mouse upgrades include better sensor and USB-C](https://www.pcgamer.com/logitech-g-pro-x-superlight-2-wireless-mouse-upgrades-include-better-sensor-and-usb-c)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
