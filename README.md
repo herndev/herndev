@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How long does a MacBook battery last?](https://www.androidauthority.com/how-long-does-a-macbook-battery-last-3361447/)
- - [Sources: China orders officials at central government agencies not to use iPhones and other foreign-branded devices for work or bring them into the office &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230906/p8#a230906p8)
- - [Mozilla finds that 25 of the major car brands it examined fail to adhere to the most basic privacy and security standards in their new internet-connected models &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230906/p7#a230906p7)<!-- TECH:END -->
+ - [Phone brands need to be stopped: 32GB of RAM could soon be a thing](https://www.androidauthority.com/32gb-ram-smartphones-3361445/)
+ - [The new UE Epicboom is a beefy $350 Bluetooth speaker](https://www.theverge.com/2023/9/6/23860991/ue-epicboom-speaker-announced-features-price)
+ - [The Galaxy Watch 6 could literally fall off your wrist, thanks to the new strap](https://www.androidauthority.com/samsung-galaxy-watch-6-strap-design-fault-3361454/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
