@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google leaks Pixel 8 Pro again with a 360-degree preview](https://www.theverge.com/2023/9/5/23860807/pixel-8-pro-leak-colors-google-simulator-360)
  - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
- - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
- - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)<!-- TECH:END -->
+ - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
