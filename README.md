@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone brands need to be stopped: 32GB of RAM could soon be a thing](https://www.androidauthority.com/32gb-ram-smartphones-3361445/)
- - [The new UE Epicboom is a beefy $350 Bluetooth speaker](https://www.theverge.com/2023/9/6/23860991/ue-epicboom-speaker-announced-features-price)
- - [The Galaxy Watch 6 could literally fall off your wrist, thanks to the new strap](https://www.androidauthority.com/samsung-galaxy-watch-6-strap-design-fault-3361454/)<!-- TECH:END -->
+ - [GoPro is back at making 360-degree cameras](https://www.theverge.com/2023/9/6/23860476/gopro-max-360-video-new-model)
+ - [Google Search, Whatsapp, and TikTok on list of 22 services targeted by EU’s tough new DMA](https://www.theverge.com/2023/9/6/23859570/european-union-commission-digital-markets-act-gatekeepers-apple-google-meta-microsoft)
+ - [OPPO Find X7 Pro: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
