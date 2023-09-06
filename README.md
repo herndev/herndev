@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)
- - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)
- - [Dictionary.com adds a bunch of AI-related words](https://www.theverge.com/2023/9/6/23861136/chatgpt-dictionary-generative-ai-nepo-baby)<!-- TECH:END -->
+ - [UK backs down from nonsensical law after threats from Apple, WhatsApp](https://appleinsider.com/articles/23/09/06/uk-backs-down-from-nonsensical-law-after-threats-from-apple-whatsapp?utm_medium=rss)
+ - [The Spectrum / Disney blackout led a US Open player to pirate the US Open](https://www.theverge.com/2023/9/6/23861267/disney-charter-spectrum-us-open-pirate-daniil-medvedev)
+ - [Samsung’s new Galaxy Z Flip 5 and Z Fold 5 are $200 off](https://www.theverge.com/2023/9/6/23860340/samsung-galaxy-z-flip-5-fold-apple-mac-studio-hades-nintendo-switch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
