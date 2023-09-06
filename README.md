@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fae Farm: The Kotaku Review](https://kotaku.com/review-fae-farm-switch-release-date-cozy-game-romance-1850810406?utm_source=regular)
- - [Baldur&#39;s Gate 3 crossplay is on the way, but Larian says &#39;we don&#39;t want to put a date on it until we&#39;re sure&#39;](https://www.pcgamer.com/baldurs-gate-3-crossplay-is-on-the-way-but-larian-says-we-dont-want-to-put-a-date-on-it-until-were-sure)
- - [ThinkGeek vets have made a new version of the beloved Bag of Holding](https://www.polygon.com/deals/2023/9/6/23861296/thinkgeek-rollacrit-bag-of-holding-kickstarter-sale)<!-- GAME:END -->
+ - [Starfield lets you be a total faction flip-flopper, so don&#39;t worry about pissing anyone off](https://www.pcgamer.com/starfield-lets-you-be-a-total-faction-flip-flopper-so-dont-worry-about-pissing-anyone-off)
+ - [AITA: My Starfield wife wants a divorce and all I did was chuck one grenade into a crowd of bystanders](https://www.pcgamer.com/aita-my-starfield-wife-wants-a-divorce-and-all-i-did-was-chuck-one-grenade-into-a-crowd-of-bystanders)
+ - [The best planets for your first outpost in Starfield](https://www.polygon.com/starfield-guide/23861566/best-planets-for-outpost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
