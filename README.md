@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield lets you be a total faction flip-flopper, so don&#39;t worry about pissing anyone off](https://www.pcgamer.com/starfield-lets-you-be-a-total-faction-flip-flopper-so-dont-worry-about-pissing-anyone-off)
- - [AITA: My Starfield wife wants a divorce and all I did was chuck one grenade into a crowd of bystanders](https://www.pcgamer.com/aita-my-starfield-wife-wants-a-divorce-and-all-i-did-was-chuck-one-grenade-into-a-crowd-of-bystanders)
- - [The best planets for your first outpost in Starfield](https://www.polygon.com/starfield-guide/23861566/best-planets-for-outpost)<!-- GAME:END -->
+ - [The most interesting game I&#39;ve played this week is an indie puzzle-adventure about a giant tower filled with people I can&#39;t understand](https://www.pcgamer.com/the-most-interesting-game-ive-played-this-week-is-an-indie-puzzle-adventure-about-a-giant-tower-filled-with-people-i-cant-understand)
+ - [Starfield doesn&#39;t have multiplayer, but modders could one day change that](https://www.pcgamer.com/starfield-multiplayer-co-op)
+ - [Starfield ship bug launches player into space without most of their ship](https://www.pcgamer.com/starfield-ship-bug-launches-player-into-space-without-most-of-their-ship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
