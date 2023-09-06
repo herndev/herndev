@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Gimmighoul and Gholdengo with Coin Bags and gold PokéStops in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23616714/gimmighoul-coins-coin-bag-gholdengo-golden-lure)
- - [Ahsoka Series Episode 4 Review: You’re Exactly The Way I Remember You](https://kotaku.com/ahsoka-tano-series-show-episode-4-review-recap-reaction-1850809070?utm_source=regular)
- - [Baldur’s Gate 3 just made the future of Xbox Series S a bit more uncertain](https://www.polygon.com/23861365/baldurs-gate-3-xbox-series-s-analysis)<!-- GAME:END -->
+ - [Todd Howard: Starfield’s Xbox Exclusivity Made It ‘Better’](https://kotaku.com/starfield-xbox-series-x-s-ps5-performance-todd-howard-1850809414?utm_source=regular)
+ - [Bethesda Keeps Making The Same Game, For Better Or For Worse](https://kotaku.com/bethesda-rpg-fallout-starfield-skyrim-elder-scrolls-1850809428?utm_source=regular)
+ - [How to pay off a bounty if you commit a crime in Starfield](https://www.polygon.com/starfield-guide/23848847/crime-bounties-jail-bribe-pickpocketing-security-neon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
