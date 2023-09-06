@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Connect five](http://9gag.com/gag/aYVZ4P2)
- - ⏩ [Pain.](http://9gag.com/gag/aA0qwzg)
- - 👉 [Lois had no chill](http://9gag.com/gag/a2K94xe)<!-- MEMES:END -->
+ - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
+ - ⏩ [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - 👉 [Connect five](http://9gag.com/gag/aYVZ4P2)<!-- MEMES:END -->
 
 ---
 
