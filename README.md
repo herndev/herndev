@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Apple is pouring money into Siri improvements with generative AI](https://appleinsider.com/articles/23/09/06/apple-is-pouring-money-into-siri-improvements-with-generative-ai?utm_medium=rss)
- - [Wow, we have yet another new beta for Android 14, this time beta 5.3](https://www.androidauthority.com/android-14-beta-5-3-3361699/)<!-- TECH:END -->
+ - [Grindr’s Return to Office Ultimatum Has Gutted a Uniquely Queer Space in Tech](https://www.wired.com/story/grindrs-return-to-office-ultimatum-gutted-a-uniquely-queer-space-in-tech/)
+ - [Clubhouse reinvents itself as an audio messaging app](https://www.theverge.com/2023/9/6/23861862/clubhouse-reinvents-itself-audio-messaging-app)
+ - [X’s Community Notes feature will now include videos](https://www.theverge.com/2023/9/6/23861669/x-twitter-community-notes-video-fact-checking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
