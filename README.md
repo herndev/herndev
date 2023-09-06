@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
- - ⏩ [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - ⏩ [Who are you??](http://9gag.com/gag/aMED876)
  - 👉 [Connect five](http://9gag.com/gag/aYVZ4P2)<!-- MEMES:END -->
 
 ---
