@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grindr’s Return to Office Ultimatum Has Gutted a Uniquely Queer Space in Tech](https://www.wired.com/story/grindrs-return-to-office-ultimatum-gutted-a-uniquely-queer-space-in-tech/)
- - [Clubhouse reinvents itself as an audio messaging app](https://www.theverge.com/2023/9/6/23861862/clubhouse-reinvents-itself-audio-messaging-app)
- - [X’s Community Notes feature will now include videos](https://www.theverge.com/2023/9/6/23861669/x-twitter-community-notes-video-fact-checking)<!-- TECH:END -->
+ - [Sources: data analytics software company Alteryx has been working with an investment bank to explore a sale after attracting takeover interest; AYX jumps 13%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230906/p35#a230906p35)
+ - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)
+ - [California Gov. Newsom signs an EO on AI risks, instructing state agencies to examine AI threats and authorizing state employees to experiment with AI tools &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230906/p34#a230906p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
