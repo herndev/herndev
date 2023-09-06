@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the Star Eagle ship in Starfield](https://www.pcgamer.com/starfield-unlock-star-eagle)
- - [Starfield ‘Top of the List’ quest, how to survey a habitable planet explained](https://www.polygon.com/starfield-guide/23861010/top-of-the-list-survey-habitable-planet-l-i-s-t)
- - [Starfield Is Out Now](https://news.xbox.com/en-us/2023/09/06/starfield-out-now/)<!-- GAME:END -->
+ - [Diablo 4 will get a new expansion every year](https://www.polygon.com/23861011/diablo-4-dlc-expansion-every-year)
+ - [Corsair HS80 Max Wireless review](https://www.pcgamer.com/corsair-hs80-max-wireless-review)
+ - [How to unlock the Star Eagle ship in Starfield](https://www.pcgamer.com/starfield-unlock-star-eagle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
