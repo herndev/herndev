@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD’s RX 7800 XT is the antidote to GPU inflation](https://www.theverge.com/2023/9/6/23861603/amd-radeon-rx-7800-xt-editorial-gpu-prices)
- - [Max will reportedly start offering free sports later this year](https://www.theverge.com/2023/9/6/23861581/max-free-sports-streaming-warner-bros-discovery)
- - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Apple is pouring money into Siri improvements with generative AI](https://appleinsider.com/articles/23/09/06/apple-is-pouring-money-into-siri-improvements-with-generative-ai?utm_medium=rss)
+ - [Wow, we have yet another new beta for Android 14, this time beta 5.3](https://www.androidauthority.com/android-14-beta-5-3-3361699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
