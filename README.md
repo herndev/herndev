@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rejoice: there&#39;s already a Starfield interface overhaul called StarUI](https://www.pcgamer.com/rejoice-theres-already-a-starfield-interface-overhaul-called-starui)
- - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861?utm_source=regular)
- - [Armored Core VI’s New Game Plus Mode Is A Must-Play](https://kotaku.com/armored-core-6-fromsoftware-new-game-plus-endings-1850806125?utm_source=regular)<!-- GAME:END -->
+ - [Baldur’s Gate 3: PC And Console Cross-Play Is In The Works](https://kotaku.com/baldurs-gate-3-rpg-co-op-split-screen-crossplay-ps5-pc-1850808515?utm_source=regular)
+ - [Armored Core 6 PvP evolves into its true form as players drop their weapons and fistfight to the Metal Gear Rising: Revengeance soundtrack](https://www.pcgamer.com/armored-core-6-pvp-evolves-into-its-true-form-as-players-drop-their-weapons-and-fistfight-to-the-metal-gear-rising-revengeance-soundtrack)
+ - [Baldur’s Gate 3 on PS5 is a great excuse to restart Baldur’s Gate 3](https://www.polygon.com/23860401/baldurs-gate-3-ps5-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
