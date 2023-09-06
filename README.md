@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - ⏩ [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)
- - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
+ - 💣 [Good parenting](http://9gag.com/gag/axoQ9qL)
+ - ⏩ [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)
+ - 👉 [Title](http://9gag.com/gag/a8qQEGV)<!-- MEMES:END -->
 
 ---
 
