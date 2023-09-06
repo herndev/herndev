@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU will force these platforms to open up to rivals, and here’s when](https://www.androidauthority.com/eu-digital-markets-act-gatekeeper-platforms-list-3361518/)
- - [A US judge denies Apple&#39;s efforts to block Eddy Cue and two executives testifying in a DOJ case over Google&#39;s market dominance, set to begin on September 12 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230906/p14#a230906p14)
- - [Apple&#39;s iMessage gets a reprieve from EU law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)<!-- TECH:END -->
+ - [Google has been rolling out Chrome&#39;s &quot;Enhanced Ad Privacy&quot; via a popup, part of its Topics API; some say the &quot;Got It&quot; button is misleading as tracking is active &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230906/p17#a230906p17)
+ - [EcoFlow Delta 2 Max portable power station review: improving on excellence](https://appleinsider.com/articles/23/09/06/ecoflow-delta-2-max-portable-power-station-review-improving-on-excellence?utm_medium=rss)
+ - [Samsung’s upcoming Galaxy Buds FE could look a lot like the original Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-3361522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
