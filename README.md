@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Is Poised to Force a Bad Law on the Internet](https://www.wired.com/story/the-uk-is-poised-to-force-a-bad-law-on-the-internet/)
- - [Story Protocol, a blockchain-based IP ownership network that aims to address creatives&#39; concerns over AI, raised over $54M led by Andreessen Horowitz &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/230906/p4#a230906p4)
- - [Tokyo-based Josys, a SaaS startup that helps companies automate corporate IT operations, raised a $93M Series B led by Global Brain and Globis Capital Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230906/p3#a230906p3)<!-- TECH:END -->
+ - [Sources: China orders officials at central government agencies not to use iPhones and other foreign-branded devices for work or bring them into the office &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p8#a230906p8)
+ - [Mozilla finds that 25 of the major car brands it examined fail to adhere to the most basic privacy and security standards in their new internet-connected models &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230906/p7#a230906p7)
+ - [UMG and Deezer strike a deal to give more weight to professional artists, who generate at least 1,000 listens a month, when calculating streaming royalties &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230906/p6#a230906p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
