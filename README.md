@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)
- - [Filing: Apple signed a new deal with Arm for chip technology that &quot;extends beyond 2040&quot; &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230905/p35#a230905p35)
- - [MetaMask says its customers in the US, UK, and parts of Europe can now convert ether for traditional fiat currency with a new sell function &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230905/p34#a230905p34)<!-- TECH:END -->
+ - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
+ - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
+ - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
