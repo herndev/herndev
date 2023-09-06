@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
- - ⏩ [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - 👉 [&lpar;* \uffe3\ufe3f\uffe3&rpar;](http://9gag.com/gag/aqeBbRv)<!-- MEMES:END -->
+ - 💣 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
+ - ⏩ [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
+ - 👉 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)<!-- MEMES:END -->
 
 ---
 
