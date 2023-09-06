@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
- - ⏩ [Who are you??](http://9gag.com/gag/aMED876)
- - 👉 [Lois had no chill](http://9gag.com/gag/a2K94xe)<!-- MEMES:END -->
+ - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
+ - ⏩ [&lpar;* \uffe3\ufe3f\uffe3&rpar;](http://9gag.com/gag/aqeBbRv)
+ - 👉 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
 
 ---
 
