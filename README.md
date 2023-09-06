@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Size does matter](http://9gag.com/gag/aOxABgy)
+ - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
  - ⏩ [Women](http://9gag.com/gag/avQ4O8O)
  - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
 
