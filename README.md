@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
- - ⏩ [Connect five](http://9gag.com/gag/aYVZ4P2)
- - 👉 [Lois had no chill](http://9gag.com/gag/a2K94xe)<!-- MEMES:END -->
+ - 💣 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
+ - ⏩ [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
+ - 👉 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)<!-- MEMES:END -->
 
 ---
 
