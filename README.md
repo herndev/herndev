@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - ⏩ [I like the live action\u2026\u2026..but oof](http://9gag.com/gag/aeQybzm)
- - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
+ - 💣 [Size does matter](http://9gag.com/gag/aOxABgy)
+ - ⏩ [She looks familiar](http://9gag.com/gag/aRE97gM)
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 
