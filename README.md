@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK backs down from nonsensical law after threats from Apple, WhatsApp](https://appleinsider.com/articles/23/09/06/uk-backs-down-from-nonsensical-law-after-threats-from-apple-whatsapp?utm_medium=rss)
- - [The Spectrum / Disney blackout led a US Open player to pirate the US Open](https://www.theverge.com/2023/9/6/23861267/disney-charter-spectrum-us-open-pirate-daniil-medvedev)
- - [Samsung’s new Galaxy Z Flip 5 and Z Fold 5 are $200 off](https://www.theverge.com/2023/9/6/23860340/samsung-galaxy-z-flip-5-fold-apple-mac-studio-hades-nintendo-switch-deal-sale)<!-- TECH:END -->
+ - [YouTube is experimenting with longer but less frequent ad breaks on TV](https://www.theverge.com/2023/9/6/23859965/youtube-fewer-ad-breaks-longer-length)
+ - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
+ - [This 27-inch ASUS monitor protects your eyes and is now just $109](https://www.androidauthority.com/asus-27-inch-eye-care-monitor-deal-3361581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
