@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3: PC And Console Cross-Play Is In The Works](https://kotaku.com/baldurs-gate-3-rpg-co-op-split-screen-crossplay-ps5-pc-1850808515?utm_source=regular)
- - [Armored Core 6 PvP evolves into its true form as players drop their weapons and fistfight to the Metal Gear Rising: Revengeance soundtrack](https://www.pcgamer.com/armored-core-6-pvp-evolves-into-its-true-form-as-players-drop-their-weapons-and-fistfight-to-the-metal-gear-rising-revengeance-soundtrack)
- - [Baldur’s Gate 3 on PS5 is a great excuse to restart Baldur’s Gate 3](https://www.polygon.com/23860401/baldurs-gate-3-ps5-impressions)<!-- GAME:END -->
+ - [The Witcher’s new comic pits Geralt against militant vegans](https://www.polygon.com/23859622/witcher-wild-animals-comic-preview-geralt)
+ - [Getting Laid In Starfield Is Actually A Good Strategy](https://kotaku.com/starfield-tip-have-more-sex-experience-xp-boost-1850808901?utm_source=regular)
+ - [American Horror Story: Delicate is basically Rosemary’s Baby but with Kim Kardashian](https://www.polygon.com/23861537/american-horror-story-ahs-delicate-trailer-kim-kardashian)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
