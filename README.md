@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - ⏩ [Women](http://9gag.com/gag/avQ4O8O)
- - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
+ - 💣 [So delusional](http://9gag.com/gag/a9qZnrZ)
+ - ⏩ [Good parenting](http://9gag.com/gag/axoQ9qL)
+ - 👉 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)<!-- MEMES:END -->
 
 ---
 
