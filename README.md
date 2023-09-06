@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
- - [AMD Radeon RX 7800 XT and 7700 XT review: a nudge into the 1440p era](https://www.theverge.com/23860970/amd-radeon-rx-7800-xt-7700-xt-review)
- - [You can get three months of Disney Plus for about $6 right now](https://www.theverge.com/2023/9/6/23860220/disney-plus-ahsoka-loki-the-little-mermaid-deal-sale)<!-- TECH:END -->
+ - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)
+ - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)
+ - [Dictionary.com adds a bunch of AI-related words](https://www.theverge.com/2023/9/6/23861136/chatgpt-dictionary-generative-ai-nepo-baby)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
