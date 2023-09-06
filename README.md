@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So delusional](http://9gag.com/gag/a9qZnrZ)
- - ⏩ [Good parenting](http://9gag.com/gag/axoQ9qL)
- - 👉 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)<!-- MEMES:END -->
+ - 💣 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - ⏩ [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)
+ - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
 
 ---
 
