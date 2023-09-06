@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is experimenting with longer but less frequent ad breaks on TV](https://www.theverge.com/2023/9/6/23859965/youtube-fewer-ad-breaks-longer-length)
- - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
- - [This 27-inch ASUS monitor protects your eyes and is now just $109](https://www.androidauthority.com/asus-27-inch-eye-care-monitor-deal-3361581/)<!-- TECH:END -->
+ - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
+ - [UK comes to its senses, will not push iMessage and WhatsApp to exit country](https://www.androidauthority.com/investigatory-powers-act-fail-3361630/)
+ - [Here’s where you can preorder Sonos’ new Move 2 speaker](https://www.theverge.com/2023/9/6/23854738/sonos-move-2-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
