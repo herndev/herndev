@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has been rolling out Chrome&#39;s &quot;Enhanced Ad Privacy&quot; via a popup, part of its Topics API; some say the &quot;Got It&quot; button is misleading as tracking is active &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230906/p17#a230906p17)
- - [EcoFlow Delta 2 Max portable power station review: improving on excellence](https://appleinsider.com/articles/23/09/06/ecoflow-delta-2-max-portable-power-station-review-improving-on-excellence?utm_medium=rss)
- - [Samsung’s upcoming Galaxy Buds FE could look a lot like the original Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-3361522/)<!-- TECH:END -->
+ - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
+ - [AMD Radeon RX 7800 XT and 7700 XT review: a nudge into the 1440p era](https://www.theverge.com/23860970/amd-radeon-rx-7800-xt-7700-xt-review)
+ - [You can get three months of Disney Plus for about $6 right now](https://www.theverge.com/2023/9/6/23860220/disney-plus-ahsoka-loki-the-little-mermaid-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
