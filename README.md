@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the Scenes of Starfield](https://news.xbox.com/en-us/2023/09/06/starfield-behind-the-scenes/)
- - [Remnant 2 will get a &#39;potato mode&#39; soon, alongside other quality of life improvements](https://www.pcgamer.com/remnant-2-will-get-a-potato-mode-soon-alongside-other-quality-of-life-improvements)
- - [Blizzard bigwig seems to offhandedly confirm Diablo 4 is adopting Destiny&#39;s expansion model](https://www.pcgamer.com/blizzard-bigwig-seems-to-offhandedly-confirm-diablo-4-is-adopting-destinys-expansion-model)<!-- GAME:END -->
+ - [Rejoice: there&#39;s already a Starfield interface overhaul called StarUI](https://www.pcgamer.com/rejoice-theres-already-a-starfield-interface-overhaul-called-starui)
+ - [14 Things To Know Before Starting Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-tips-save-file-abilities-builds-party-1850704861?utm_source=regular)
+ - [Armored Core VI’s New Game Plus Mode Is A Must-Play](https://kotaku.com/armored-core-6-fromsoftware-new-game-plus-endings-1850806125?utm_source=regular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
