@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most interesting game I&#39;ve played this week is an indie puzzle-adventure about a giant tower filled with people I can&#39;t understand](https://www.pcgamer.com/the-most-interesting-game-ive-played-this-week-is-an-indie-puzzle-adventure-about-a-giant-tower-filled-with-people-i-cant-understand)
- - [Starfield doesn&#39;t have multiplayer, but modders could one day change that](https://www.pcgamer.com/starfield-multiplayer-co-op)
- - [Starfield ship bug launches player into space without most of their ship](https://www.pcgamer.com/starfield-ship-bug-launches-player-into-space-without-most-of-their-ship)<!-- GAME:END -->
+ - [Boundary broken: Starfield sleuths bypass invisible walls, prove planet tiles are connected like No Man&#39;s Sky](https://www.pcgamer.com/boundary-broken-starfield-sleuths-bypass-invisible-walls-prove-planet-tiles-are-connected-like-no-mans-sky)
+ - [The best ships in Starfield](https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy)
+ - [How to assign a weapon to a group in Starfield](https://www.polygon.com/starfield-guide/23862105/weapon-assignment-groups-error-how-to-assign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
