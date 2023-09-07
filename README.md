@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gaming with the boys](http://9gag.com/gag/a6q415b)
- - ⏩ [Upvote for financial prosperity](http://9gag.com/gag/aeQy9KW)
- - 👉 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)<!-- MEMES:END -->
+ - 💣 [What kind of ass simulator is this?](http://9gag.com/gag/ago6Bvr)
+ - ⏩ [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 
