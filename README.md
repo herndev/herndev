@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 💣 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
  - ⏩ [Nice soundtrack](http://9gag.com/gag/az2o15Z)
  - 👉 [Good to know](http://9gag.com/gag/aWGP1Xn)<!-- MEMES:END -->
 
