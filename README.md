@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Go 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-go-4-3360520/)
- - [Elyana Thierry, X&#39;s head of brand safety, has left per her LinkedIn page, months after being elevated to the role after the previous head resigned in summer &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230907/p38#a230907p38)
- - [FTX exec Ryan Salame pleads guilty to criminal charges](https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges)<!-- TECH:END -->
+ - [The Lotus Emeya is the latest electric hypercar to join the ‘under 3 second’ club](https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
