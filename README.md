@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 has ruined Starfield for me](https://www.pcgamer.com/baldurs-gate-3-has-ruined-starfield-for-me)
- - [Meet Astarion and Lae&#39;zel at the Insomnia Gaming Festival this weekend](https://www.pcgamer.com/meet-astarion-and-laezel-at-the-insomnia-gaming-festival-this-weekend)
- - [Today&#39;s Wordle hint and answer #810: Thursday, September 7](https://www.pcgamer.com/wordle-answer-today-hint-810-september-7)<!-- GAME:END -->
+ - [Sapphire Pulse RX 7700 XT Review](https://www.pcgamer.com/amd-radeon-rx-7700-xt-review-performance-benchmarks)
+ - [Intel follows Apple&#39;s lead with Meteor Lake chip with on-package memory](https://www.pcgamer.com/intel-follows-apples-lead-with-meteor-lake-chip-with-on-package-memory)
+ - [Gen Con&#39;s card heist suspects have been charged and could face a $10,000 fine with prison time, after their $300,000 haul likely sold for just $4,000](https://www.pcgamer.com/thieves-strolled-out-with-dollar300000-worth-of-tcg-cards-in-gen-con-heist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
