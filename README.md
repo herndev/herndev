@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wingspan publisher Stonemaier Games’ next board game is full of bees](https://www.polygon.com/tabletop-games/23862849/apiary-next-game-from-wingspan-publisher-stonemaier-games-announcement-release-date-price)
- - [The Switch OLED is $40 off at Walmart](https://www.polygon.com/deals/2023/9/7/23862934/nintendo-switch-oled-deals-walmart-sale)
- - [Shigeru Miyamoto Reveals Former Mario Voice Actor Called Him &#39;Papa&#39;](https://kotaku.com/nintendo-mario-ambassador-charles-martinet-voice-wonder-1850812889)<!-- GAME:END -->
+ - [The Top 10 Most-Played Games On Steam Deck: August 2023 Edition](https://kotaku.com/steam-deck-valve-august-2023-elden-ring-baldurs-gate-3-1850810556)
+ - [Castlevania: Nocturne’s New Trailer Drips With Action, Incredible Animation](https://kotaku.com/castlevania-nocturne-s-new-trailer-drips-with-action-1850813827)
+ - [How to use the boost pack in Starfield](https://www.polygon.com/starfield-guide/23841791/boostpack-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
