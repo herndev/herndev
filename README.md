@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Puppy barks on his own hiccups](http://9gag.com/gag/arm9mRy)
- - ⏩ [Gaming with the boys](http://9gag.com/gag/a6q415b)
+ - 💣 [Gaming with the boys](http://9gag.com/gag/a6q415b)
+ - ⏩ [Upvote for financial prosperity](http://9gag.com/gag/aeQy9KW)
  - 👉 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)<!-- MEMES:END -->
 
 ---
