@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does the Payday 3 open beta start, and how do you access it?](https://www.polygon.com/payday-3-guides/2023/9/7/23862643/beta-open-start-time-xbox-pc-access)
- - [Mortal Kombat Brings Nitara Back As Megan Fox](https://kotaku.com/nitara-megan-fox-trailer-mortal-kombat-1-release-date-1850812647)
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
+ - [Wingspan publisher Stonemaier Games’ next board game is full of bees](https://www.polygon.com/tabletop-games/23862849/apiary-next-game-from-wingspan-publisher-stonemaier-games-announcement-release-date-price)
+ - [The Switch OLED is $40 off at Walmart](https://www.polygon.com/deals/2023/9/7/23862934/nintendo-switch-oled-deals-walmart-sale)
+ - [Shigeru Miyamoto Reveals Former Mario Voice Actor Called Him &#39;Papa&#39;](https://kotaku.com/nintendo-mario-ambassador-charles-martinet-voice-wonder-1850812889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
