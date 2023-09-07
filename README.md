@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports UFC 5 – It’s &lpar;Almost&rpar; Time for the Premier Mixed Martial Arts Game in all of Combat Sports](https://news.xbox.com/en-us/2023/09/07/ea-sports-ufc-5-pre-order-and-release-date-announcement/)
- - [Thousands of real bugs and Family Feud combined for Righteous Gemstones’ chaotic finale](https://www.polygon.com/23861291/righteous-gemstones-finale-locusts-bible-bonkers-family-feud-hbo-max)
- - [ICYMI: The Wolfenstein board game is available at Amazon](https://www.polygon.com/deals/2023/9/7/23863232/wolfenstein-board-game-amazon-tabletop-miniatures)<!-- GAME:END -->
+ - [Starfield, As Told By Steam Reviews](https://kotaku.com/starfield-steam-reviews-xbox-bethesda-fallout-skyrim-pc-1850814541)
+ - [The OA team is back with whodunit A Murder at the End of the World](https://www.polygon.com/23863445/murder-end-world-hulu-new-trailer-oa)
+ - [Adam Savage is probably having more fun with Starfield than you are](https://www.polygon.com/23863380/starfield-adam-savage-model-miniature-starship-build-videos-playlist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
