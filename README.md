@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - ⏩ [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 💣 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
+ - ⏩ [What a lovely man](http://9gag.com/gag/aDYrgOO)
  - 👉 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)<!-- MEMES:END -->
 
 ---
