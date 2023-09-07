@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix opens an investigation into the Huawei Mate 60 Pro using its LPDDR5 and NAND flash memory, some of the few materials in 60 Pro sourced outside China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p12#a230907p12)
- - [Molly Holzschlag, aka &quot;mollydotcom&quot;, a longtime advocate for the open web and accessible, inclusive online design standards, died at 60 on September 5 &lpar;Dylan Smith/TucsonSentinel.com&rpar;](http://www.techmeme.com/230907/p11#a230907p11)
- - [Nevermind 2024, we just got official details about a 2025 flagship chip](https://www.androidauthority.com/mediatek-dimensity-9400-2025-chip-3361901/)<!-- TECH:END -->
+ - [Experts link LastPass security breach to a string of crypto heists](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)
+ - [Bankrupt cryptocurrency lender Genesis sues its parent DCG, seeking to recover ~$620M in cash and bitcoin in outstanding loans despite ongoing settlement talks &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230907/p14#a230907p14)
+ - [Apple launched AirPods seven years ago, and changed the world again](https://appleinsider.com/articles/23/09/07/apple-launched-airpods-seven-years-ago-and-changed-the-world-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
