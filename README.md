@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wheel of Time season 2 is just getting started](https://www.polygon.com/23860119/wheel-time-season-2-preview-tease-new-episodes)
- - [Where to sell all your space junk in Starfield](https://www.pcgamer.com/starfield-where-to-sell-items-best-vendors)
- - [If you&#39;ve ever wanted Megan Fox to literally kick your skeleton out of your body, then boy does Mortal Kombat 1 have a fighter for you](https://www.pcgamer.com/if-youve-ever-wanted-megan-fox-to-literally-kick-your-skeleton-out-of-your-body-then-boy-does-mortal-kombat-1-have-a-fighter-for-you)<!-- GAME:END -->
+ - [Free Play Days – Madden NFL 24, Control, and Crime Boss: Rockay City](https://news.xbox.com/en-us/2023/09/07/free-play-days-madden-nfl-24-control-and-crime-boss-rockay-city/)
+ - [Mortal Kombat 1’s new mode is Mario Party with fatalities](https://www.polygon.com/23861714/mortal-kombat-1-new-mode-mario-party-preview)
+ - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
