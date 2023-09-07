@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
- - ⏩ [I will die.](http://9gag.com/gag/aGE6ZVw)
+ - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - ⏩ [Good to know](http://9gag.com/gag/aWGP1Xn)
  - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
 
 ---
