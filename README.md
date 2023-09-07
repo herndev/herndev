@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)
- - ⏩ [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
+ - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - ⏩ [Women](http://9gag.com/gag/avQ4O8O)
+ - 👉 [Good to know](http://9gag.com/gag/aWGP1Xn)<!-- MEMES:END -->
 
 ---
 
