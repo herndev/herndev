@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [They found him: Bethesda&#39;s most prolific voice actor returns in Starfield](https://www.pcgamer.com/they-found-him-bethesdas-most-prolific-voice-actor-returns-in-starfield)
  - [Boundary broken: Starfield sleuths bypass invisible walls, prove planet tiles are connected like No Man&#39;s Sky](https://www.pcgamer.com/boundary-broken-starfield-sleuths-bypass-invisible-walls-prove-planet-tiles-are-connected-like-no-mans-sky)
- - [The best ships in Starfield](https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy)
- - [How to assign a weapon to a group in Starfield](https://www.polygon.com/starfield-guide/23862105/weapon-assignment-groups-error-how-to-assign)<!-- GAME:END -->
+ - [The best ships in Starfield](https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
