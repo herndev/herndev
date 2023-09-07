@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Madden NFL 24, Control, and Crime Boss: Rockay City](https://news.xbox.com/en-us/2023/09/07/free-play-days-madden-nfl-24-control-and-crime-boss-rockay-city/)
- - [Mortal Kombat 1’s new mode is Mario Party with fatalities](https://www.polygon.com/23861714/mortal-kombat-1-new-mode-mario-party-preview)
- - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)<!-- GAME:END -->
+ - [What time does the Payday 3 open beta start, and how do you access it?](https://www.polygon.com/payday-3-guides/2023/9/7/23862643/beta-open-start-time-xbox-pc-access)
+ - [Mortal Kombat Brings Nitara Back As Megan Fox](https://kotaku.com/nitara-megan-fox-trailer-mortal-kombat-1-release-date-1850812647)
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
