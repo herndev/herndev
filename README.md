@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK tries to claim it hasn&#39;t backed down on encryption &#39;at all&#39;](https://appleinsider.com/articles/23/09/07/uk-tries-to-claim-it-hasnt-backed-down-on-encryption-at-all?utm_medium=rss)
- - [YouTube is testing fewer ad breaks on TV, but there’s bad news](https://www.androidauthority.com/youtube-testing-fewer-grouped-tv-ads-3361958/)
- - [Norway&#39;s $1.4T oil fund, which owns ~1.5% of all listed companies, details its three concerns over AI: board responsibility, transparency, and risk management &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230907/p16#a230907p16)<!-- TECH:END -->
+ - [Chrome is about to look a bit different](https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store)
+ - [The Toronto International Film Festival 2023 is on](https://www.theverge.com/2023/9/7/23860165/tiff-2023-news-trailers-reviews)
+ - [Nintendo is closer to launching a Switch 2 than you think](https://www.androidauthority.com/nintendo-switch-2-demo-gamescom-3361964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
