@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From battery to titanium design, Galaxy S24 Ultra leak reveals key specs](https://www.androidauthority.com/samsung-galaxy-s24-ultra-specs-leak-3361427/)
  - [How Rotten Tomatoes&#39; Tomatometer, an important metric in entertainment, became erratic and reductive as some PR firms hack its score by paying obscure &quot;critics&quot; &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230907/p7#a230907p7)
- - [An excerpt from the new Elon Musk biography details an argument with Larry Page in 2013 over the dangers of AI, how he founded OpenAI and xAI, and more &lpar;Walter Isaacson/TIME&rpar;](http://www.techmeme.com/230907/p6#a230907p6)
- - [Caplight: secondary market shares of USDC stablecoin developer Circle were trading at a ~$4.8B valuation in August 2023; Circle was valued at $8B in April 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230907/p5#a230907p5)<!-- TECH:END -->
+ - [An excerpt from the new Elon Musk biography details an argument with Larry Page in 2013 over the dangers of AI, how he founded OpenAI and xAI, and more &lpar;Walter Isaacson/TIME&rpar;](http://www.techmeme.com/230907/p6#a230907p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
