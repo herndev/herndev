@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s One Piece Season 2 Could Air Next Year, Says Producer](https://kotaku.com/one-piece-netflix-live-action-season-2-luffy-script-1850815516)
- - [The best weapons in Starfield](https://www.polygon.com/starfield-guide/23862845/best-weapons-guns-eternitys-gate)
- - [Inspired by Starfield food physics, I have run my own tests to determine that cuboid foods rule](https://www.pcgamer.com/inspired-by-starfield-food-physics-i-have-run-my-own-tests-to-determine-that-cuboid-foods-rule)<!-- GAME:END -->
+ - [Starfield mod turns space travel into an actual series of loading screens by getting rid of all the ship landing and take-off scenes](https://www.pcgamer.com/starfield-mod-turns-space-travel-into-an-actual-series-of-loading-screens-by-getting-rid-of-all-the-ship-landing-and-take-off-scenes)
+ - [How To Avoid Carrying Too Much Crap In Starfield](https://kotaku.com/starfield-overencumbered-contraband-ship-parts-how-to-1850815667)
+ - [I&#39;ve played the Star Trek game of my dreams, and it&#39;s a grand strategy game](https://www.pcgamer.com/ive-played-the-star-trek-game-of-my-dreams-and-its-a-grand-strategy-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
