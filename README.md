@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Top 10 Most-Played Games On Steam Deck: August 2023 Edition](https://kotaku.com/steam-deck-valve-august-2023-elden-ring-baldurs-gate-3-1850810556)
- - [Castlevania: Nocturne’s New Trailer Drips With Action, Incredible Animation](https://kotaku.com/castlevania-nocturne-s-new-trailer-drips-with-action-1850813827)
- - [How to use the boost pack in Starfield](https://www.polygon.com/starfield-guide/23841791/boostpack-how-to-get)<!-- GAME:END -->
+ - [Company of Heroes 3: How Relic Brought a Strategy Game to Console for the First Time](https://news.xbox.com/en-us/2023/09/07/company-of-heroes-3-console-interview/)
+ - [RuneScape developer firefights desperately as new battle pass leads to player revolt and review bombing: &#39;They&#39;ve gone too far down the rabbit hole&#39;](https://www.pcgamer.com/runescape-developer-firefights-desperately-as-new-battle-pass-leads-to-open-revolt-and-review-bombing-theyve-gone-too-far-down-the-rabbit-hole)
+ - [Starfield players are already building up cool outposts](https://www.polygon.com/23863039/starfield-outposts-best-planets-locations-views)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
