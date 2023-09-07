@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - ⏩ [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
- - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
+ - 💣 [Took me a bit of time](http://9gag.com/gag/abvKrmr)
+ - ⏩ [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 👉 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)<!-- MEMES:END -->
 
 ---
 
