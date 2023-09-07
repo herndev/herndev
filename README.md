@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
- - ⏩ [Good parenting](http://9gag.com/gag/axoQ9qL)
- - 👉 [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)<!-- MEMES:END -->
+ - 💣 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)
+ - ⏩ [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
 
 ---
 
