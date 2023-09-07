@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter’s creepiest viral thread now has its own horror movie](https://www.polygon.com/23863477/dear-david-trailer-twitter-thread-movie-cast-release-date)
- - [Starfield ‘Tapping the Grid’ quest walkthrough](https://www.polygon.com/starfield-guide/23851593/tapping-grid-quest-walkthrough-junction-box-locations)
- - [Starfield ‘Alternating Currents’ quest walkthrough](https://www.polygon.com/starfield-guide/23863263/alternating-currents-walkthrough-zoe-louisa-choice)<!-- GAME:END -->
+ - [Netflix’s One Piece Season 2 Could Air Next Year, Says Producer](https://kotaku.com/one-piece-netflix-live-action-season-2-luffy-script-1850815516)
+ - [The best weapons in Starfield](https://www.polygon.com/starfield-guide/23862845/best-weapons-guns-eternitys-gate)
+ - [Inspired by Starfield food physics, I have run my own tests to determine that cuboid foods rule](https://www.pcgamer.com/inspired-by-starfield-food-physics-i-have-run-my-own-tests-to-determine-that-cuboid-foods-rule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
