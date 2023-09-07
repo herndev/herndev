@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - ⏩ [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
+ - 💣 [Puppy barks on his own hiccups](http://9gag.com/gag/arm9mRy)
+ - ⏩ [Gaming with the boys](http://9gag.com/gag/a6q415b)
+ - 👉 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)<!-- MEMES:END -->
 
 ---
 
