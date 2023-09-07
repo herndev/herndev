@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Ibex Medical Analytics, which uses AI for cancer diagnostics, raised a $55M Series C led by 83North, bringing its total funding to $100M+ &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230906/p42#a230906p42)
  - [iPhone 15 dummy models provide real life look at new, muted colors](https://appleinsider.com/articles/23/09/07/iphone-15-dummy-models-provide-real-life-look-at-new-muted-colors?utm_medium=rss)
- - [The CWA files charges with the US NLRB against Grindr, alleging the company laid off 82 workers, or 46% of its staff, for rejecting a return-to-office mandate &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230906/p41#a230906p41)
- - [Save $1,500 on Apple&#39;s loaded M1 Max MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/23/09/07/save-1500-on-apples-loaded-m1-max-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)<!-- TECH:END -->
+ - [The CWA files charges with the US NLRB against Grindr, alleging the company laid off 82 workers, or 46% of its staff, for rejecting a return-to-office mandate &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230906/p41#a230906p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
