@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/a1PB158)
- - ⏩ [Mama cheetah introduces a photographer to her little cubs](http://9gag.com/gag/abvKgbb)
- - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
+ - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - ⏩ [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 👉 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)<!-- MEMES:END -->
 
 ---
 
