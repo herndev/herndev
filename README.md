@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - ⏩ [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 👉 [Good to know](http://9gag.com/gag/aWGP1Xn)<!-- MEMES:END -->
+ - 💣 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - ⏩ [I will die.](http://9gag.com/gag/aGE6ZVw)
+ - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
 
 ---
 
