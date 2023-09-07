@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fixes exploited security flaws with iPadOS &amp; iOS 16.6.1, watchOS 9.6.2, macOS Ventura 13.5.2 updates](https://appleinsider.com/articles/23/09/07/apple-rolls-out-surprise-ios-1661-watchos-962-macos-ventura-1352-updates?utm_medium=rss)
- - [eBay rolls out an AI tool for marketplace sellers that can generate a product listing including price from a single photo, starting with its iOS app &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230907/p33#a230907p33)
- - [This Is the True Scale of New York’s Airbnb Apocalypse](https://www.wired.com/story/airbnb-ban-new-york-numbers/)<!-- TECH:END -->
+ - [The End of Burning Man Is Also Its Future](https://www.wired.com/story/the-end-of-burning-man-is-also-its-future/)
+ - [Apple&#39;s Entrepreneur Camp application window is now open](https://appleinsider.com/articles/23/09/07/apples-entrepreneur-camp-application-window-is-now-open?utm_medium=rss)
+ - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
