@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 VI: Release date, specs, rumors, price, and feature wishlist](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
- - [Threads will now let you search for posts](https://www.theverge.com/2023/9/7/23863088/threads-rolling-out-support-search-posts)
- - [Snapchat adds minor safety features, including making it harder for strangers to contact teens and cracking down on accounts marketing inappropriate content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230907/p30#a230907p30)<!-- TECH:END -->
+ - [Apple fixes exploited security flaws with iPadOS &amp; iOS 16.6.1, watchOS 9.6.2, macOS Ventura 13.5.2 updates](https://appleinsider.com/articles/23/09/07/apple-rolls-out-surprise-ios-1661-watchos-962-macos-ventura-1352-updates?utm_medium=rss)
+ - [eBay rolls out an AI tool for marketplace sellers that can generate a product listing including price from a single photo, starting with its iOS app &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230907/p33#a230907p33)
+ - [This Is the True Scale of New York’s Airbnb Apocalypse](https://www.wired.com/story/airbnb-ban-new-york-numbers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
