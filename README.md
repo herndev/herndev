@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield, As Told By Steam Reviews](https://kotaku.com/starfield-steam-reviews-xbox-bethesda-fallout-skyrim-pc-1850814541)
- - [The OA team is back with whodunit A Murder at the End of the World](https://www.polygon.com/23863445/murder-end-world-hulu-new-trailer-oa)
- - [Adam Savage is probably having more fun with Starfield than you are](https://www.polygon.com/23863380/starfield-adam-savage-model-miniature-starship-build-videos-playlist)<!-- GAME:END -->
+ - [Twitter’s creepiest viral thread now has its own horror movie](https://www.polygon.com/23863477/dear-david-trailer-twitter-thread-movie-cast-release-date)
+ - [Starfield ‘Tapping the Grid’ quest walkthrough](https://www.polygon.com/starfield-guide/23851593/tapping-grid-quest-walkthrough-junction-box-locations)
+ - [Starfield ‘Alternating Currents’ quest walkthrough](https://www.polygon.com/starfield-guide/23863263/alternating-currents-walkthrough-zoe-louisa-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
