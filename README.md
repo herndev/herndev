@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
- - [Google Chrome gets redesign and new features for 15th anniversary](https://www.androidauthority.com/google-chrome-15th-anniversary-3361991/)
- - [Why connected fitness feels adrift: a tale of two rowers](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)<!-- TECH:END -->
+ - [Sony Xperia 1 VI: Release date, specs, rumors, price, and feature wishlist](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
+ - [Threads will now let you search for posts](https://www.theverge.com/2023/9/7/23863088/threads-rolling-out-support-search-posts)
+ - [Snapchat adds minor safety features, including making it harder for strangers to contact teens and cracking down on accounts marketing inappropriate content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230907/p30#a230907p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
