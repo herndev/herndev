@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of ass simulator is this?](http://9gag.com/gag/ago6Bvr)
- - ⏩ [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 💣 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - ⏩ [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 👉 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)<!-- MEMES:END -->
 
 ---
 
