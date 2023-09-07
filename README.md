@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts link LastPass security breach to a string of crypto heists](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)
- - [Bankrupt cryptocurrency lender Genesis sues its parent DCG, seeking to recover ~$620M in cash and bitcoin in outstanding loans despite ongoing settlement talks &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230907/p14#a230907p14)
- - [Apple launched AirPods seven years ago, and changed the world again](https://appleinsider.com/articles/23/09/07/apple-launched-airpods-seven-years-ago-and-changed-the-world-again?utm_medium=rss)<!-- TECH:END -->
+ - [UK tries to claim it hasn&#39;t backed down on encryption &#39;at all&#39;](https://appleinsider.com/articles/23/09/07/uk-tries-to-claim-it-hasnt-backed-down-on-encryption-at-all?utm_medium=rss)
+ - [YouTube is testing fewer ad breaks on TV, but there’s bad news](https://www.androidauthority.com/youtube-testing-fewer-grouped-tv-ads-3361958/)
+ - [Norway&#39;s $1.4T oil fund, which owns ~1.5% of all listed companies, details its three concerns over AI: board responsibility, transparency, and risk management &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230907/p16#a230907p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
