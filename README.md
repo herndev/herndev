@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghostwriter, the anonymous creator who used AI to mimic Drake and The Weeknd, has met with record labels, Grammy organizers, and more, and releases a new song &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/230907/p9#a230907p9)
- - [The Galaxy Z Fold 5 Thom Browne Edition is a bold new look for the foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-5-thom-browne-edition-3361873/)
- - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)<!-- TECH:END -->
+ - [SK Hynix opens an investigation into the Huawei Mate 60 Pro using its LPDDR5 and NAND flash memory, some of the few materials in 60 Pro sourced outside China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p12#a230907p12)
+ - [Molly Holzschlag, aka &quot;mollydotcom&quot;, a longtime advocate for the open web and accessible, inclusive online design standards, died at 60 on September 5 &lpar;Dylan Smith/TucsonSentinel.com&rpar;](http://www.techmeme.com/230907/p11#a230907p11)
+ - [Nevermind 2024, we just got official details about a 2025 flagship chip](https://www.androidauthority.com/mediatek-dimensity-9400-2025-chip-3361901/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
