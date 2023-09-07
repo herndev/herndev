@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - ⏩ [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 👉 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)<!-- MEMES:END -->
+ - 💣 [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
+ - ⏩ [Took me a bit of time](http://9gag.com/gag/abvKrmr)
+ - 👉 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)<!-- MEMES:END -->
 
 ---
 
