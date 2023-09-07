@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sapphire Pulse RX 7700 XT Review](https://www.pcgamer.com/amd-radeon-rx-7700-xt-review-performance-benchmarks)
- - [Intel follows Apple&#39;s lead with Meteor Lake chip with on-package memory](https://www.pcgamer.com/intel-follows-apples-lead-with-meteor-lake-chip-with-on-package-memory)
- - [Gen Con&#39;s card heist suspects have been charged and could face a $10,000 fine with prison time, after their $300,000 haul likely sold for just $4,000](https://www.pcgamer.com/thieves-strolled-out-with-dollar300000-worth-of-tcg-cards-in-gen-con-heist)<!-- GAME:END -->
+ - [Where to sell all your space junk in Starfield](https://www.pcgamer.com/starfield-where-to-sell-items-best-vendors)
+ - [If you&#39;ve ever wanted Megan Fox to literally kick your skeleton out of your body, then boy does Mortal Kombat 1 have a fighter for you](https://www.pcgamer.com/if-youve-ever-wanted-megan-fox-to-literally-kick-your-skeleton-out-of-your-body-then-boy-does-mortal-kombat-1-have-a-fighter-for-you)
+ - [Todd Howard asked on-air why Bethesda didn&#39;t optimise Starfield for PC: &#39;We did [...] you may need to upgrade your PC&#39;](https://www.pcgamer.com/todd-howard-asked-on-air-why-bethesda-didnt-optimise-starfield-for-pc-we-did-you-may-need-to-upgrade-your-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
