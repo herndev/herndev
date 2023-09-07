@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon is adding a Discord-like chat feature for creators and fans](https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile)
- - [Anthropic’s Claude AI chatbot gets a paid plan for heavy users](https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google)
- - [Apple TV+ unveils its first German-language show](https://appleinsider.com/articles/23/09/07/apple-tv-unveils-its-first-german-language-show?utm_medium=rss)<!-- TECH:END -->
+ - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
+ - [Google Chrome gets redesign and new features for 15th anniversary](https://www.androidauthority.com/google-chrome-15th-anniversary-3361991/)
+ - [Why connected fitness feels adrift: a tale of two rowers](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
