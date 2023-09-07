@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Company of Heroes 3: How Relic Brought a Strategy Game to Console for the First Time](https://news.xbox.com/en-us/2023/09/07/company-of-heroes-3-console-interview/)
- - [RuneScape developer firefights desperately as new battle pass leads to player revolt and review bombing: &#39;They&#39;ve gone too far down the rabbit hole&#39;](https://www.pcgamer.com/runescape-developer-firefights-desperately-as-new-battle-pass-leads-to-open-revolt-and-review-bombing-theyve-gone-too-far-down-the-rabbit-hole)
- - [Starfield players are already building up cool outposts](https://www.polygon.com/23863039/starfield-outposts-best-planets-locations-views)<!-- GAME:END -->
+ - [EA Sports UFC 5 – It’s &lpar;Almost&rpar; Time for the Premier Mixed Martial Arts Game in all of Combat Sports](https://news.xbox.com/en-us/2023/09/07/ea-sports-ufc-5-pre-order-and-release-date-announcement/)
+ - [Thousands of real bugs and Family Feud combined for Righteous Gemstones’ chaotic finale](https://www.polygon.com/23861291/righteous-gemstones-finale-locusts-bible-bonkers-family-feud-hbo-max)
+ - [ICYMI: The Wolfenstein board game is available at Amazon](https://www.polygon.com/deals/2023/9/7/23863232/wolfenstein-board-game-amazon-tabletop-miniatures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
