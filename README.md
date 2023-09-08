@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to recruit Starfield&#39;s strangest companion](https://www.pcgamer.com/starfield-how-to-recruit-amelia-earhart)
- - [Got a weird PC project in mind? Framework uncovered a horde of old mainboards in an old factory and is selling them off cheap](https://www.pcgamer.com/got-a-weird-pc-project-in-mind-framework-uncovered-a-horde-of-old-mainboards-in-an-old-factory-and-is-selling-them-off-cheap)
- - [Starfield player uses laundry basket to pull off the casino heist of the century](https://www.pcgamer.com/starfield-player-uses-laundry-basket-to-pull-off-the-casino-heist-of-the-century)<!-- GAME:END -->
+ - [The best movies and TV like Starfield to watch after exploring the Settled Systems](https://www.polygon.com/what-to-watch/23859906/movies-like-starfield-best-sci-fi-watch-interstellar-ad-astra-firefly)
+ - [2008&#39;s Prince of Persia was one of Ubisoft&#39;s strangest experiments—but it&#39;s hardly aged a day in 15 years](https://www.pcgamer.com/2008s-prince-of-persia-was-one-of-ubisofts-strangest-experimentsbut-its-hardly-aged-a-day-in-15-years)
+ - [Become Geralt, the property tycoon of Rivia, in Monopoly: The Witcher](https://www.polygon.com/deals/2023/9/8/23863482/monopoly-the-witcher-board-game-tabletop-details-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
