@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield mod turns space travel into an actual series of loading screens by getting rid of all the ship landing and take-off scenes](https://www.pcgamer.com/starfield-mod-turns-space-travel-into-an-actual-series-of-loading-screens-by-getting-rid-of-all-the-ship-landing-and-take-off-scenes)
- - [How To Avoid Carrying Too Much Crap In Starfield](https://kotaku.com/starfield-overencumbered-contraband-ship-parts-how-to-1850815667)
- - [I&#39;ve played the Star Trek game of my dreams, and it&#39;s a grand strategy game](https://www.pcgamer.com/ive-played-the-star-trek-game-of-my-dreams-and-its-a-grand-strategy-game)<!-- GAME:END -->
+ - [Asked about Starfield ground vehicles, Todd Howard points out that there are spaceships and jetpacks in the game](https://www.pcgamer.com/starfield-ground-vehicles)
+ - [Starfield NPCs keep getting bodied mid-sentence and it never isn&#39;t funny to me](https://www.pcgamer.com/starfield-attack-npc-dialogue)
+ - [Starfield mod turns space travel into an actual series of loading screens by getting rid of all the ship landing and take-off scenes](https://www.pcgamer.com/starfield-mod-turns-space-travel-into-an-actual-series-of-loading-screens-by-getting-rid-of-all-the-ship-landing-and-take-off-scenes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
