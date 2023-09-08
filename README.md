@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Turkey-based grocery delivery startup Getir raises $500M from Mubadala, Michael Moritz, and others at a $2.5B valuation, down from $11.8B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230908/p4#a230908p4)
- - [Similarweb: ChatGPT&#39;s desktop and mobile website visits fell 3.2% MoM to 1.43B in August, following 10% drops from each of the previous two months &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230908/p3#a230908p3)
- - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)<!-- TECH:END -->
+ - [Exploit that delivered Pegasus spyware patched in iOS 16.6.1 update](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)
+ - [Ant Group launches ZAN, a new blockchain service aimed at institutional and individual clients in overseas markets, including Hong Kong and Singapore &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230908/p5#a230908p5)
+ - [You really should hold off on updating your Xiaomi Mi Box S](https://www.androidauthority.com/first-generation-xiaomi-mi-box-s-update-bugs-3362333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
