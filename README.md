@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crypto baron behind $2.5B rug-pull declares &#39;I am smart enough to lead any institution on Earth&#39; as court sentences him to 11,196 years in jail](https://www.pcgamer.com/crypto-baron-behind-dollar25b-rug-pull-declares-i-am-smart-enough-to-lead-any-institution-on-earth-as-court-sentences-him-to-11196-years-in-jail)
- - [How to hit the Almagest jackpot in Starfield](https://www.polygon.com/starfield-guide/23864508/almagest-jackpot-code-backend-location)
- - [Men of War 2 will now deliver men and war too in 2024](https://www.pcgamer.com/men-of-war-2-will-now-deliver-men-and-war-too-in-2024)<!-- GAME:END -->
+ - [How to make your Armored Core 6 mech look like absolute shit](https://www.polygon.com/23864629/armored-core-6-damage-decals-busted)
+ - [Official PlayStation Podcast Episode 467: Lucky in Love](https://blog.playstation.com/2023/09/08/official-playstation-podcast-episode-467-lucky-in-love/)
+ - [One Piece’s best live-action arc isn’t as good as the manga, but it’s for a great reason](https://www.polygon.com/23860273/one-piece-live-action-sanji-best-arc-baratie-manga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
