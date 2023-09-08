@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NBA 2K24: Challenge Rival Teams and Bosses at the Streetball Courts in The City](https://news.xbox.com/en-us/2023/09/08/nba-2k24-streetball-courts-in-the-city/)
- - [What was the best movie you watched this summer?](https://www.polygon.com/2023/9/8/23863068/best-movies-summer-2023-watch-streaming)
- - [AMD rumoured to favour future AI chip production over GPUs but it&#39;s probably no reason to panic](https://www.pcgamer.com/amd-rumoured-to-favour-future-ai-chip-production-over-gpus-but-its-probably-no-reason-to-panic)<!-- GAME:END -->
+ - [Cities: Skylines II – Building the Metropolis of Your Dreams Has Never Been Simpler](https://news.xbox.com/en-us/2023/09/08/cities-skylines-ii-building-the-metropolis-of-your-dreams/)
+ - [Of course, Dbrand made its own Spider-Man-esque PS5 console covers](https://www.polygon.com/2023/9/8/23863273/dbrand-spider-man-2-ps5-console-covers-arachnoplates)
+ - [The Aristotle and Dante movie sands the important edges off a queer love story](https://www.polygon.com/23863315/aristotle-and-dante-discover-the-secrets-of-the-universe-movie-review-queer-romance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
