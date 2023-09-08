@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [. . .](http://9gag.com/gag/aQEBEAd)
- - ⏩ [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
- - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
+ - 💣 [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
+ - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
 
 ---
 
