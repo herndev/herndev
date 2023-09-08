@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines II – Building the Metropolis of Your Dreams Has Never Been Simpler](https://news.xbox.com/en-us/2023/09/08/cities-skylines-ii-building-the-metropolis-of-your-dreams/)
- - [Of course, Dbrand made its own Spider-Man-esque PS5 console covers](https://www.polygon.com/2023/9/8/23863273/dbrand-spider-man-2-ps5-console-covers-arachnoplates)
- - [The Aristotle and Dante movie sands the important edges off a queer love story](https://www.polygon.com/23863315/aristotle-and-dante-discover-the-secrets-of-the-universe-movie-review-queer-romance)<!-- GAME:END -->
+ - [Crypto baron behind $2.5B rug-pull declares &#39;I am smart enough to lead any institution on Earth&#39; as court sentences him to 11,196 years in jail](https://www.pcgamer.com/crypto-baron-behind-dollar25b-rug-pull-declares-i-am-smart-enough-to-lead-any-institution-on-earth-as-court-sentences-him-to-11196-years-in-jail)
+ - [How to hit the Almagest jackpot in Starfield](https://www.polygon.com/starfield-guide/23864508/almagest-jackpot-code-backend-location)
+ - [Men of War 2 will now deliver men and war too in 2024](https://www.pcgamer.com/men-of-war-2-will-now-deliver-men-and-war-too-in-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
