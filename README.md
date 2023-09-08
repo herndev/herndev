@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - ⏩ [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 👉 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)<!-- MEMES:END -->
+ - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---
 
