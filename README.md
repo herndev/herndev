@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Procreate’s latest iPad app aims to make animation easier for everyone](https://www.theverge.com/2023/9/8/23864374/procreate-dreams-animation-app-ipad-release-date-announcement-price)
- - [AI Drake song ‘not eligible’ for a Grammy, Academy CEO says](https://www.theverge.com/2023/9/8/23864379/ghostwriter-ai-drake-song-grammy-not-eligible)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)
+ - [15 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
+ - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
