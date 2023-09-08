@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make your Armored Core 6 mech look like absolute shit](https://www.polygon.com/23864629/armored-core-6-damage-decals-busted)
- - [Official PlayStation Podcast Episode 467: Lucky in Love](https://blog.playstation.com/2023/09/08/official-playstation-podcast-episode-467-lucky-in-love/)
- - [One Piece’s best live-action arc isn’t as good as the manga, but it’s for a great reason](https://www.polygon.com/23860273/one-piece-live-action-sanji-best-arc-baratie-manga)<!-- GAME:END -->
+ - [The maker of The Witcher 3 and Cyberpunk 2077 HD Reworked mods is now working on one for Starfield](https://www.pcgamer.com/the-maker-of-the-witcher-3-and-cyberpunk-2077-hd-reworked-mods-is-now-working-on-one-for-starfield)
+ - [Starfield Isn’t The Future Of Video Games, And That’s Okay](https://kotaku.com/starfield-game-bethesda-xbox-pc-metacritic-reddit-hype-1850819494)
+ - [Here&#39;s why Venus is the best place to chill out in Starfield](https://www.pcgamer.com/heres-why-venus-is-the-best-place-to-chill-out-in-starfield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
