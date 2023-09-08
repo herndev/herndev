@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
- - ⏩ [Took me a bit of time](http://9gag.com/gag/abvKrmr)
- - 👉 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)<!-- MEMES:END -->
+ - 💣 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - ⏩ [. . .](http://9gag.com/gag/aQEBEAd)
+ - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
 
 ---
 
