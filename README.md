@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The RØDE Streamer X is the ultimate all-in-one streaming platform](https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)<!-- GAME:END -->
+ - [New Intel driver gives Starfield its eyebrows back](https://www.pcgamer.com/new-intel-driver-gives-starfield-its-eyebrows-back)
+ - [Worried about missing companion chats in Baldur&#39;s Gate 3? This mod aims to fix that](https://www.pcgamer.com/worried-about-missing-companion-chats-in-baldurs-gate-3-this-mod-aims-to-fix-that)
+ - [Early numbers indicate AMD&#39;s 7800 XT GPU is a hit. The 7700 XT not so much](https://www.pcgamer.com/early-numbers-indicate-amds-7800-xt-gpu-is-a-hit-the-7700-xt-not-so-much)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
