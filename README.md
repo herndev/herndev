@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak claims to have all details of the iPhone 15 range](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [Tesla’s $25,000 ‘next-generation car’ will have a Cybertruck design](https://www.theverge.com/2023/9/8/23864172/tesla-next-generation-car-cybertruck-design-price)
- - [The world’s largest mini-LED TV can be yours, if you’re swimming in cash](https://www.androidauthority.com/hisense-u8k-tv-3362388/)<!-- TECH:END -->
+ - [Square says it has resolved a day-long outage that has left some small business owners unable to access accounts or process credit card payments &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230908/p10#a230908p10)
+ - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
+ - [AirPods Pro charging case will move to USB-C](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
