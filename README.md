@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple officially endorses California&#39;s Climate Corporate Data Accountability Act](https://appleinsider.com/articles/23/09/08/apple-officially-endorses-californias-climate-corporate-data-accountability-act?utm_medium=rss)
- - [Apple’s M3 MacBooks might not arrive this year](https://www.theverge.com/2023/9/8/23864712/apples-m3-macbooks-release-kuo-2024)
- - [Donald Mustard, head of Fortnite’s story, is leaving Epic and retiring](https://www.theverge.com/23864706/donald-mustard-leave-epic-games-retire-fortnite)<!-- TECH:END -->
+ - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
+ - [X is showing some ads in users&#39; Following feeds without an &quot;Ad&quot; label, indicated only by clicking on the three-dot menu, which could attract the FTC&#39;s attention &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230908/p22#a230908p22)
+ - [Surprise: Studio Ghibli’s Hayao Miyazaki has failed to retire a fourth time](https://www.theverge.com/2023/9/8/23864856/studio-ghibli-hayao-miyazaki-retirement-postponed-yet-again)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
