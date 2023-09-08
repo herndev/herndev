@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)
- - ⏩ [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - 👉 [You&#39;ve gotta be kidding me](http://9gag.com/gag/a9qZE8m)<!-- MEMES:END -->
+ - 💣 [\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a](http://9gag.com/gag/adPrveD)
+ - ⏩ [The hero we need](http://9gag.com/gag/axoQoBp)
+ - 👉 [Tja](http://9gag.com/gag/axoQyeM)<!-- MEMES:END -->
 
 ---
 
