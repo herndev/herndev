@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 👉 [Things that are](http://9gag.com/gag/a4omEqZ)<!-- MEMES:END -->
+ - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
 
 ---
 
