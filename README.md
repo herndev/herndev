@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT doesn’t want to write your Stucky fanfic](https://www.theverge.com/2023/9/8/23863304/chatgpt-banned-fandom-shipping-terms)
- - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Apple officially endorses California&#39;s Climate Corporate Data Accountability Act](https://appleinsider.com/articles/23/09/08/apple-officially-endorses-californias-climate-corporate-data-accountability-act?utm_medium=rss)
+ - [Apple’s M3 MacBooks might not arrive this year](https://www.theverge.com/2023/9/8/23864712/apples-m3-macbooks-release-kuo-2024)
+ - [Donald Mustard, head of Fortnite’s story, is leaving Epic and retiring](https://www.theverge.com/23864706/donald-mustard-leave-epic-games-retire-fortnite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
