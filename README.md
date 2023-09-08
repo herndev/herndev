@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple staff will unsurprisingly tell iPhone 15 customers that Lightning won&#39;t work](https://appleinsider.com/articles/23/09/08/apple-staff-will-unsurprisingly-tell-iphone-15-customers-that-lightning-wont-work?utm_medium=rss)
- - [Google’s next Chromecast remote might have more buttons](https://www.theverge.com/2023/9/8/23864231/chromecast-google-tv-remote-android-14-star-button-leak)
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [If you got &#39;free money&#39; from Apple Pay and CashApp, you should check your balances](https://appleinsider.com/articles/23/09/08/if-you-got-free-money-from-apple-pay-and-cashapp-you-should-check-your-balances?utm_medium=rss)
+ - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
