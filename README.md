@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
+ - 💣 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
  - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
+ - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
 
 ---
 
