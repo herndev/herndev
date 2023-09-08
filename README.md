@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Pokémon Squishmallows are Teddiursa and Clefairy](https://www.polygon.com/deals/2023/9/8/23863329/pokemon-squishmallows-teddiursa-clefairy-announced)
- - [I’m in love with this 1,342-piece Xbox 360 replica set coming out in Oct.](https://www.polygon.com/deals/2023/9/8/23864322/xbox-360-halo-3-mega-replica-building-set)
- - [D&amp;D&#39;s latest beta rules tinker with its classes and give Fighters the power to clobber fools real good with a chair](https://www.pcgamer.com/dandds-latest-beta-rules-tinker-with-its-classes-and-give-fighters-the-power-to-clobber-fools-real-good-with-a-chair)<!-- GAME:END -->
+ - [NBA 2K24: Challenge Rival Teams and Bosses at the Streetball Courts in The City](https://news.xbox.com/en-us/2023/09/08/nba-2k24-streetball-courts-in-the-city/)
+ - [What was the best movie you watched this summer?](https://www.polygon.com/2023/9/8/23863068/best-movies-summer-2023-watch-streaming)
+ - [AMD rumoured to favour future AI chip production over GPUs but it&#39;s probably no reason to panic](https://www.pcgamer.com/amd-rumoured-to-favour-future-ai-chip-production-over-gpus-but-its-probably-no-reason-to-panic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
