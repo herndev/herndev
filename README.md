@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10,000 milk cartons descend on Starfield&#39;s biggest city in newest physics benchmark](https://www.pcgamer.com/10000-milk-cartons-descend-on-starfields-biggest-city-in-newest-physics-benchmark)
- - [How to register your ship and sell a starship in Starfield](https://www.polygon.com/starfield-guide/23864346/register-ship-sell-stolen-starship)
- - [How to rename ships and change your Home Ship in Starfield](https://www.polygon.com/starfield-guide/23864341/change-home-ship-rename-starship)<!-- GAME:END -->
+ - [Runescape community claims &#39;supreme victory&#39; as developer apologizes and cuts pay-to-win features from hated battle pass](https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass)
+ - [I&#39;m finally enjoying Starfield&#39;s combat after giving guns a giant buff](https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff)
+ - [Fortnite creative boss Donald Mustard retires](https://www.pcgamer.com/fortnite-creative-boss-donald-mustard-retires)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
