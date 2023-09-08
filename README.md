@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tokyo Game Show 2023: Xbox Digital Broadcast Returns](https://news.xbox.com/en-us/2023/09/07/xbox-tokyo-game-show-2023/)
- - [Nobody asked, but this Starfield modder delivered—here&#39;s the most innocent companion as Thomas the Tank Engine](https://www.pcgamer.com/nobody-asked-but-this-starfield-modder-deliveredheres-the-most-innocent-companion-as-thomas-the-tank-engine)
- - [Watch the animated adventures of Baldur&#39;s Gate 3 continue as they travel from the land of &#39;Earlay Axes&#39; to the region of &#39;L&#39;awnch&#39;](https://www.pcgamer.com/watch-the-animated-adventures-of-baldurs-gate-3-continue-as-they-travel-from-the-land-of-earlay-axes-to-the-region-of-lawnch)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #811: Friday, September 8](https://www.pcgamer.com/wordle-answer-today-hint-811-september-8)
+ - [NYT Connections puzzle hint and answer for Friday, September 8 &lpar;#89&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-friday-september-8-89)
+ - [Tokyo Game Show 2023: Xbox Digital Broadcast Returns](https://news.xbox.com/en-us/2023/09/07/xbox-tokyo-game-show-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
