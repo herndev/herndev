@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Things that are](http://9gag.com/gag/a4omEqZ)
- - ⏩ [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
- - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
+ - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 👉 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)<!-- MEMES:END -->
 
 ---
 
