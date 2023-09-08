@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 👉 [No words were necessary](http://9gag.com/gag/a9qZzjL)<!-- MEMES:END -->
+ - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - ⏩ [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
 
 ---
 
