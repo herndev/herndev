@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
- - ⏩ [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
- - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
+ - 💣 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
+ - ⏩ [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
 
 ---
 
