@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [If you got &#39;free money&#39; from Apple Pay and CashApp, you should check your balances](https://appleinsider.com/articles/23/09/08/if-you-got-free-money-from-apple-pay-and-cashapp-you-should-check-your-balances?utm_medium=rss)
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [Procreate’s latest iPad app aims to make animation easier for everyone](https://www.theverge.com/2023/9/8/23864374/procreate-dreams-animation-app-ipad-release-date-announcement-price)
+ - [AI Drake song ‘not eligible’ for a Grammy, Academy CEO says](https://www.theverge.com/2023/9/8/23864379/ghostwriter-ai-drake-song-grammy-not-eligible)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
