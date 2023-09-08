@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
+ - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 👉 [No words were necessary](http://9gag.com/gag/a9qZzjL)<!-- MEMES:END -->
 
 ---
 
