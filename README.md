@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
- - ⏩ [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
+ - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
 
 ---
 
