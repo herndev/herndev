@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple&#39;s iPhone 15 announcement event](https://appleinsider.com/inside/iphone-15/tips/how-to-watch-apples-iphone-15-announcement-event?utm_medium=rss)
- - [Q&amp;A with Threads engineers Jesse Chen and Zahan Malkani on building the app with Instagram&#39;s tech stack, handling Threads&#39; unexpectedly intense launch, and more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/230908/p6#a230908p6)
- - [China&#39;s largest wireless carrier denies rumor that it will skip iPhone 15 sales](https://appleinsider.com/articles/23/09/08/chinas-largest-wireless-carrier-denies-rumor-that-it-will-skip-iphone-15-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Leak claims to have all details of the iPhone 15 range](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
+ - [Tesla’s $25,000 ‘next-generation car’ will have a Cybertruck design](https://www.theverge.com/2023/9/8/23864172/tesla-next-generation-car-cybertruck-design-price)
+ - [The world’s largest mini-LED TV can be yours, if you’re swimming in cash](https://www.androidauthority.com/hisense-u8k-tv-3362388/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
