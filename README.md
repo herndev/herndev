@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This summer&#39;s hottest streamer game appears to be gone for good](https://www.pcgamer.com/this-summers-hottest-streamer-game-appears-to-be-gone-for-good)
- - [D&amp;D&#39;s new playtest canonises a subclass rename from Baldur&#39;s Gate 3, lead rules designer &#39;worked with Larian&#39;](https://www.pcgamer.com/dandds-new-playtest-canonises-a-subclass-rename-from-baldurs-gate-3-lead-rules-designer-worked-with-larian)
- - [Final Fantasy 14 won&#39;t be going free-to-play anytime soon](https://www.pcgamer.com/final-fantasy-14-wont-be-going-free-to-play-anytime-soon)<!-- GAME:END -->
+ - [How to recruit Starfield&#39;s strangest companion](https://www.pcgamer.com/starfield-how-to-recruit-amelia-earhart)
+ - [Got a weird PC project in mind? Framework uncovered a horde of old mainboards in an old factory and is selling them off cheap](https://www.pcgamer.com/got-a-weird-pc-project-in-mind-framework-uncovered-a-horde-of-old-mainboards-in-an-old-factory-and-is-selling-them-off-cheap)
+ - [Starfield player uses laundry basket to pull off the casino heist of the century](https://www.pcgamer.com/starfield-player-uses-laundry-basket-to-pull-off-the-casino-heist-of-the-century)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
