@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things that are](http://9gag.com/gag/a4omEqZ)
- - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 👉 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)<!-- MEMES:END -->
+ - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
+ - ⏩ [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---
 
