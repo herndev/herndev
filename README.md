@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
- - [Toyota factories grind to a halt after its servers ran out of disk space](https://www.pcgamer.com/toyota-factories-grind-to-a-halt-after-its-servers-ran-out-of-disk-space)
- - [Today&#39;s Wordle hint and answer #811: Friday, September 8](https://www.pcgamer.com/wordle-answer-today-hint-811-september-8)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
+ - [Toyota factories grind to a halt after its servers run out of disk space](https://www.pcgamer.com/toyota-factories-grind-to-a-halt-after-its-servers-ran-out-of-disk-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
