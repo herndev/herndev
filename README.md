@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Heroes’ Official Ages Sound Extremely Made Up](https://kotaku.com/overwatch-2-hero-canon-age-birthday-kiriko-pharah-mercy-1850819900)
- - [Don’t Skip Starfield’s Star Trek-Esque Quest](https://kotaku.com/starfield-first-contact-walkthrough-choice-best-1850819716)
- - [Bethesda commissioned the internet&#39;s rotoscope jokester to get goofy with Starfield](https://www.pcgamer.com/bethesda-commissioned-the-internets-rotoscope-jokester-to-get-goofy-with-starfield)<!-- GAME:END -->
+ - [10,000 milk cartons descend on Starfield&#39;s biggest city in newest physics benchmark](https://www.pcgamer.com/10000-milk-cartons-descend-on-starfields-biggest-city-in-newest-physics-benchmark)
+ - [How to register your ship and sell a starship in Starfield](https://www.polygon.com/starfield-guide/23864346/register-ship-sell-stolen-starship)
+ - [How to rename ships and change your Home Ship in Starfield](https://www.polygon.com/starfield-guide/23864341/change-home-ship-rename-starship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
