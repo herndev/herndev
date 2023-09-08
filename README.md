@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - ⏩ [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
+ - 💣 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - ⏩ [Jim Carrey makes fun of Margot Robbie.](http://9gag.com/gag/a8qQAMe)
+ - 👉 [. . .](http://9gag.com/gag/aQEBEAd)<!-- MEMES:END -->
 
 ---
 
