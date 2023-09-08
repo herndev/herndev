@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
- - ⏩ [. . .](http://9gag.com/gag/aQEBEAd)
- - 👉 [What a lovely man](http://9gag.com/gag/aDYrgOO)<!-- MEMES:END -->
+ - ⏩ [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
+ - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
 
 ---
 
