@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a](http://9gag.com/gag/adPrveD)
- - ⏩ [The hero we need](http://9gag.com/gag/axoQoBp)
- - 👉 [Tja](http://9gag.com/gag/axoQyeM)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/aQEBEAd)
+ - ⏩ [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
+ - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
 
 ---
 
