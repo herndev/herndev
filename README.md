@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - ⏩ [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
- - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
+ - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - ⏩ [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 👉 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)<!-- MEMES:END -->
 
 ---
 
