@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)
- - [15 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT doesn’t want to write your Stucky fanfic](https://www.theverge.com/2023/9/8/23863304/chatgpt-banned-fandom-shipping-terms)
+ - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
