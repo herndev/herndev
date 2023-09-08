@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square says it has resolved a day-long outage that has left some small business owners unable to access accounts or process credit card payments &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230908/p10#a230908p10)
- - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [AirPods Pro charging case will move to USB-C](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [Apple staff will unsurprisingly tell iPhone 15 customers that Lightning won&#39;t work](https://appleinsider.com/articles/23/09/08/apple-staff-will-unsurprisingly-tell-iphone-15-customers-that-lightning-wont-work?utm_medium=rss)
+ - [Google’s next Chromecast remote might have more buttons](https://www.theverge.com/2023/9/8/23864231/chromecast-google-tv-remote-android-14-star-button-leak)
+ - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
