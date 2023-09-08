@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Intel driver gives Starfield its eyebrows back](https://www.pcgamer.com/new-intel-driver-gives-starfield-its-eyebrows-back)
- - [Worried about missing companion chats in Baldur&#39;s Gate 3? This mod aims to fix that](https://www.pcgamer.com/worried-about-missing-companion-chats-in-baldurs-gate-3-this-mod-aims-to-fix-that)
- - [Early numbers indicate AMD&#39;s 7800 XT GPU is a hit. The 7700 XT not so much](https://www.pcgamer.com/early-numbers-indicate-amds-7800-xt-gpu-is-a-hit-the-7700-xt-not-so-much)<!-- GAME:END -->
+ - [This summer&#39;s hottest streamer game appears to be gone for good](https://www.pcgamer.com/this-summers-hottest-streamer-game-appears-to-be-gone-for-good)
+ - [D&amp;D&#39;s new playtest canonises a subclass rename from Baldur&#39;s Gate 3, lead rules designer &#39;worked with Larian&#39;](https://www.pcgamer.com/dandds-new-playtest-canonises-a-subclass-rename-from-baldurs-gate-3-lead-rules-designer-worked-with-larian)
+ - [Final Fantasy 14 won&#39;t be going free-to-play anytime soon](https://www.pcgamer.com/final-fantasy-14-wont-be-going-free-to-play-anytime-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
