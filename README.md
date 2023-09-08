@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RØDE Streamer X is the ultimate all-in-one streaming platform](https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform)
  - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)
- - [Toyota factories grind to a halt after its servers run out of disk space](https://www.pcgamer.com/toyota-factories-grind-to-a-halt-after-its-servers-ran-out-of-disk-space)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Stars campaigns and digital collectibles for September 2023](https://blog.playstation.com/2023/09/07/20230907-psstars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
