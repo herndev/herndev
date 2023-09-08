@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Microsoft&#39;s device-agnostic game streaming model; sources say Microsoft prototyped a cloud-focused Xbox handheld, but work on cloud gaming has slowed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230908/p2#a230908p2)
  - [SAP acquires Germany-based startup LeanIX, which offers tools to help companies map their IT architecture, sources say for around $1.2B &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230908/p1#a230908p1)
- - [Garmin Forerunner 65: Release date, price, and specs rumors](https://www.androidauthority.com/garmin-forerunner-65-3361913/)
- - [Brand Engagement Network, which offers AI-powered chatbots and conversational AI tech to companies, agrees to go public via a SPAC merger at a $358M valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230907/p46#a230907p46)<!-- TECH:END -->
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
