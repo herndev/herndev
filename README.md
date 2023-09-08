@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - ⏩ [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
+ - 💣 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - ⏩ [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 👉 [. . .](http://9gag.com/gag/aQEBEAd)<!-- MEMES:END -->
 
 ---
 
