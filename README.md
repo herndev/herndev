@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP acquires Germany-based startup LeanIX, which offers tools to help companies map their IT architecture, sources say for around $1.2B &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230908/p1#a230908p1)
  - [Garmin Forerunner 65: Release date, price, and specs rumors](https://www.androidauthority.com/garmin-forerunner-65-3361913/)
- - [Brand Engagement Network, which offers AI-powered chatbots and conversational AI tech to companies, agrees to go public via a SPAC merger at a $358M valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230907/p46#a230907p46)
- - [The US Commerce Department begins an official probe to &quot;obtain more information&quot; on a &quot;purported&quot; 7nm chip made by SMIC in China used in Huawei&#39;s Mate 60 Pro &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/230907/p45#a230907p45)<!-- TECH:END -->
+ - [Brand Engagement Network, which offers AI-powered chatbots and conversational AI tech to companies, agrees to go public via a SPAC merger at a $358M valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230907/p46#a230907p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
