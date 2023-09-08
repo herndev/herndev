@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
- - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
+ - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - ⏩ [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 👉 [Things that are](http://9gag.com/gag/a4omEqZ)<!-- MEMES:END -->
 
 ---
 
