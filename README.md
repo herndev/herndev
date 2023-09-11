@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At just $16.99, the Anker Nano 3 30W charger is ideal for the iPhone 15](https://www.androidauthority.com/anker-nano-3-30w-charger-deal-3363140/)
- - [Apple issues updates for iOS 15.7.9, iPadOS 15.7.9, macOS Monterey 12.6.9, Big Sur 11.7.10](https://appleinsider.com/articles/23/09/11/apple-issues-updates-for-ios-1579-ipados-1579-macos-monterey-1269-big-sur-11710?utm_medium=rss)
- - [Survey: 22% of US workers worry that tech will replace their job, up from 15% in 2021, 17% in 2019, and 13% in 2017, a jump driven by college-educated workers &lpar;Lydia Saad/Gallup&rpar;](http://www.techmeme.com/230911/p22#a230911p22)<!-- TECH:END -->
+ - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)
+ - [Tests show Threads&#39; new search function blocks terms like &quot;sex&quot;, &quot;gore&quot;, and &quot;vaccines&quot;; Meta admits &quot;covid&quot; is a blocked term but declines to disclose others &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230911/p25#a230911p25)
+ - [Meta is adding new customization options to its avatar creator](https://www.theverge.com/2023/9/11/23868560/meta-avatar-customization-quest-v57-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
