@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to join the Crimson Fleet in Starfield](https://www.pcgamer.com/starfield-how-to-join-the-crimson-fleet)
  - [Todd Howard mentions that the official Starfield mod tools are coming in 2024, with the DLC&#39;s release still TBA](https://www.pcgamer.com/todd-howard-mentions-that-the-official-starfield-mod-tools-are-coming-in-2024-with-the-dlcs-release-still-tba)
- - [Payday 3 reveals two new characters and a year of post-launch DLC](https://www.pcgamer.com/payday-3-reveals-two-new-characters-and-a-year-of-post-launch-dlc)
- - [Baldur&#39;s Gate 3 is the first game that met me halfway in roleplaying a they/them causing mayhem, and that feels like the future of RPGs](https://www.pcgamer.com/baldurs-gate-3-is-the-first-game-that-met-me-halfway-in-roleplaying-a-theythem-causing-mayhem-and-that-feels-like-the-future-of-rpgs)<!-- GAME:END -->
+ - [Payday 3 reveals two new characters and a year of post-launch DLC](https://www.pcgamer.com/payday-3-reveals-two-new-characters-and-a-year-of-post-launch-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
