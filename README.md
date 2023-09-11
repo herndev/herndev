@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, There’s a New Covid Variant. No, You Shouldn’t Panic](https://www.wired.com/story/pirola-covid-variant/)
- - [Investigation finds Barstool Sports apparently controls 40+ sockpuppet X accounts to launder viral copyright-protected videos for Barstool&#39;s legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
- - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)<!-- TECH:END -->
+ - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
+ - [iPhone 15 USB-C will fix some problems, but create issues for most](https://appleinsider.com/articles/23/09/11/iphone-15-usb-c-will-fix-some-problems-but-create-issues-for-most?utm_medium=rss)
+ - [Oracle Q1: revenue up 9% YoY to $12.45B, vs. $12.47B est., cloud services and license support revenue up 13% YoY to $9.5B, net income up 56% YoY; ORCL drops 5%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230911/p27#a230911p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
