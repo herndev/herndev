@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit can now translate posts](https://www.theverge.com/2023/9/8/23865149/reddit-translate-posts-coins)
- - [The Uber for tasks might just be Uber](https://www.theverge.com/2023/9/8/23865081/uber-app-hire-workers-chores)
- - [Save Big on TVs With These Limited-Time Samsung Deals     - CNET](https://www.cnet.com/deals/save-big-on-tvs-with-these-samsung-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta sets GPT-4 as the bar for its next AI model, says a new report](https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple)
+ - [Sources: Meta plans to begin training an LLM in Q1 2024 on its own infrastructure that it hopes will be roughly as capable as OpenAI&#39;s GPT-4 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p9#a230910p9)
+ - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
