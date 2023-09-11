@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - ⏩ [Peak German engineering](http://9gag.com/gag/aVb4VxP)
- - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
+ - 💣 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
+ - ⏩ [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
 
 ---
 
