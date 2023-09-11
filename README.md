@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;September 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-11-2023)
- - [How to join the Crimson Fleet in Starfield](https://www.pcgamer.com/starfield-how-to-join-the-crimson-fleet)
- - [Todd Howard mentions that the official Starfield mod tools are coming in 2024, with the DLC&#39;s release still TBA](https://www.pcgamer.com/todd-howard-mentions-that-the-official-starfield-mod-tools-are-coming-in-2024-with-the-dlcs-release-still-tba)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #814: Monday, September 11](https://www.pcgamer.com/wordle-answer-today-hint-814-september-11)
+ - [NYT Connections puzzle hint and answers for Monday, September 11 &lpar;#92&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-monday-september-11-92)
+ - [Five new Steam games you probably missed &lpar;September 11, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-11-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
