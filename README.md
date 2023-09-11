@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexico](http://9gag.com/gag/aBdjOnx)
- - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [We need a woman who has their end of world priorities in check like this](http://9gag.com/gag/aGE6Ob6)<!-- MEMES:END -->
+ - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - ⏩ [Peak German engineering](http://9gag.com/gag/aVb4VxP)
+ - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
 
 ---
 
