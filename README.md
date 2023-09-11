@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘A Paldean Adventure’ choose a path quest steps: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
- - [Microsoft Paint is getting updated with one of Photoshop&#39;s most commonly used tools](https://www.pcgamer.com/microsoft-paint-is-getting-updated-with-one-of-photoshops-most-commonly-used-tools)
- - [Starfield Starters: Xbox Wire’s Guide to the Galaxy](https://news.xbox.com/en-us/2023/09/11/starfield-starters/)<!-- GAME:END -->
+ - [Asus Radeon RX 7800 XT TUF Gaming OC Edition review](https://www.pcgamer.com/asus-radeon-rx-7800-xt-tuf-gaming-oc-edition-review)
+ - [This Act 3 Speak with Dead scene in Baldur&#39;s Gate 3 has worrying implications, given the spell&#39;s D&amp;D roots](https://www.pcgamer.com/this-act-3-speak-with-dead-scene-in-baldurs-gate-3-has-worrying-implications-given-the-spells-dandd-roots)
+ - [Pokémon Go ‘A Paldean Adventure’ choose a path quest steps: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
