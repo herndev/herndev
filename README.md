@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?](https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/)
- - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
- - [iPadOS 17: Release date, features, and compatability](https://www.androidauthority.com/ipados-17-3362101/)<!-- TECH:END -->
+ - [Filing: Instacart aims to raise up to $616M in its IPO at an up to $7.73B valuation and prices shares at $26 to $28; the listing is expected later this month &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p6#a230911p6)
+ - [What to expect from Apple&#39;s &#39;Wonderlust&#39; iPhone 15 event tomorrow](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
+ - [Hermes pulls all Apple Watch bands from online store](https://appleinsider.com/articles/23/09/11/hermes-pulls-all-apple-watch-bands-from-online-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
