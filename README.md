@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Lightning connector was the first great port — and USB-C might be the last](https://www.theverge.com/23864263/iphone-usb-c-lightning-wireless-charging-apple)
- - [Bluetti&#39;s Power Week offers unbeatable prices on portable power stations for every scenario](https://appleinsider.com/articles/23/09/11/bluettis-power-week-offers-unbeatable-prices-on-portable-power-stations-for-every-scenario?utm_medium=rss)
- - [Microsoft ends software support for the original Surface Duo, three years after its launch; the Android smartphone received only two major OS updates &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230911/p10#a230911p10)<!-- TECH:END -->
+ - [Nintendo and DeNA tell Mario Kart Tour users that the mobile game will not be updated after October 4, signaling Nintendo&#39;s lessening focus on mobile titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230911/p12#a230911p12)
+ - [Apple will keep using Qualcomm 5G modems until 2026](https://appleinsider.com/articles/23/09/11/apple-will-keep-using-qualcomm-5g-modems-until-2026?utm_medium=rss)
+ - [Buy an iPhone 13 mini now because it&#39;s going away tomorrow](https://appleinsider.com/articles/23/09/11/buy-an-iphone-13-mini-now-because-its-going-away-tomorrow?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
