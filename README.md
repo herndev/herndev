@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
- - [iPhone 15 USB-C will fix some problems, but create issues for most](https://appleinsider.com/articles/23/09/11/iphone-15-usb-c-will-fix-some-problems-but-create-issues-for-most?utm_medium=rss)
- - [Oracle Q1: revenue up 9% YoY to $12.45B, vs. $12.47B est., cloud services and license support revenue up 13% YoY to $9.5B, net income up 56% YoY; ORCL drops 5%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230911/p27#a230911p27)<!-- TECH:END -->
+ - [TikTok accidentally blocked Hollywood writers strike videos while casting a QAnon net](https://www.theverge.com/2023/9/11/23868930/tiktok-wga-writers-guild-strike-blocked-qanon-conspiracy)
+ - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
+ - [Internet Archive appeals loss in library ebook lawsuit](https://www.theverge.com/2023/9/11/23868870/internet-archive-hachette-open-library-copyright-lawsuit-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
