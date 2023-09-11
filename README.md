@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)
- - [ESPN’s standalone streaming channel is included in Charter and Disney’s new deal](https://www.theverge.com/2023/9/11/23868117/disney-charter-carriage-dispute-espn-standalone-streaming)
- - [US Copyright Office denies protection for an AI-made image that won a fine arts competition, despite many prompt revisions and it being altered with Photoshop &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)<!-- TECH:END -->
+ - [Nothing Phone 2 update adds a new app for the phone’s coolest feature](https://www.androidauthority.com/nothing-phone-2-new-features-3363112/)
+ - [macOS Sonoma: Release date, features, and compatability](https://www.androidauthority.com/macos-sonoma-3362507/)
+ - [The new TicWatch Pro 5 is a bargain at under $300](https://www.androidauthority.com/mobvoi-ticwatch-pro-5-deal-3363118/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
