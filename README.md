@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - ⏩ [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 👉 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)<!-- MEMES:END -->
+ - 💣 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - ⏩ [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - 👉 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)<!-- MEMES:END -->
 
 ---
 
