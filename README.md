@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: Essential Skills To Snag &lpar;And How To Raise Them&rpar;](https://kotaku.com/starfield-skills-perks-challenges-best-starter-1850820087)
- - [Epos Gaming to &#39;wind down&#39; but all employees have already lost their jobs](https://www.pcgamer.com/epos-gaming-to-wind-down-but-all-employees-have-already-lost-their-jobs)
- - [Where to get the Narwhal spaceship in Starfield](https://www.pcgamer.com/starfield-narwhal-location)<!-- GAME:END -->
+ - [Official mod support for Starfield is coming next year](https://www.polygon.com/23867916/starfield-mod-support-creation-kit-2024)
+ - [The Week In Games: What’s Coming Out Beyond Eternights](https://kotaku.com/september-games-out-this-week-eternights-gunbrella-1850818806)
+ - [Borderlands developer Gearbox reportedly up for potential sale](https://www.polygon.com/23868049/borderlands-developer-gearbox-potential-sale-embracer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
