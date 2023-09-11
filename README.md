@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s Free On Game Pass But Still Topping Sales Charts](https://kotaku.com/starfield-xbox-game-pass-steam-sales-pc-skyrim-1850826280)
- - [A Hulu thriller, Netflix wrestlers, Foundation finale, and all the new TV to watch this week](https://www.polygon.com/2023/9/11/23843392/new-tv-september-thriller-netflix-mcelhenney-reynolds-wrexham-hulu-premieres-foundation-finale)
- - [Gearbox rumored to be up for sale as Embracer continues to try to bounce back from a failed $2B deal](https://www.pcgamer.com/gearbox-rumored-to-be-up-for-sale-as-embracer-continues-to-try-to-bounce-back-from-a-failed-dollar2b-deal)<!-- GAME:END -->
+ - [Starfield Daddy Sam Coe On Bisexuality, Console Wars, And Cowboy Hats](https://kotaku.com/starfield-sam-coe-voice-actor-romance-elias-toufexis-1850826699)
+ - [What happens to your old ship when you get a new one in Starfield](https://www.polygon.com/starfield-guide/23868349/old-ship-new-ships-fleet)
+ - [Starfield Settings For A More Immersive Experience](https://kotaku.com/starfield-mods-settings-xbox-pc-game-immersive-hud-cros-1850826381)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
