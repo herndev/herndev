@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)
- - [Tests show Threads&#39; new search function blocks terms like &quot;sex&quot;, &quot;gore&quot;, and &quot;vaccines&quot;; Meta admits &quot;covid&quot; is a blocked term but declines to disclose others &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230911/p25#a230911p25)
- - [Meta is adding new customization options to its avatar creator](https://www.theverge.com/2023/9/11/23868560/meta-avatar-customization-quest-v57-update)<!-- TECH:END -->
+ - [Yes, There’s a New Covid Variant. No, You Shouldn’t Panic](https://www.wired.com/story/pirola-covid-variant/)
+ - [Investigation finds Barstool Sports apparently controls 40+ sockpuppet X accounts to launder viral copyright-protected videos for Barstool&#39;s legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
+ - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
