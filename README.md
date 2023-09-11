@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
- - ⏩ [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 👉 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)<!-- MEMES:END -->
+ - 💣 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
+ - ⏩ [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
 
 ---
 
