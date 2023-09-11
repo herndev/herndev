@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s upcoming hybrid APU smiles for the camera](https://www.pcgamer.com/amds-upcoming-hybrid-apu-smiles-for-the-camera)
- - [Today&#39;s Wordle hint and answer #814: Monday, September 11](https://www.pcgamer.com/wordle-answer-today-hint-814-september-11)
- - [NYT Connections puzzle hint and answers for Monday, September 11 &lpar;#92&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-monday-september-11-92)<!-- GAME:END -->
+ - [Microsoft Paint is getting updated with one of Photoshop&#39;s most commonly used tools](https://www.pcgamer.com/microsoft-paint-is-getting-updated-with-one-of-photoshops-most-commonly-used-tools)
+ - [Starfield Starters: Xbox Wire’s Guide to the Galaxy](https://news.xbox.com/en-us/2023/09/11/starfield-starters/)
+ - [AMD&#39;s upcoming hybrid APU smiles for the camera](https://www.pcgamer.com/amds-upcoming-hybrid-apu-smiles-for-the-camera)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
