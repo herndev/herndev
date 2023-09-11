@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How LLMs are taught to reason, the downsides of &quot;chain of thought&quot;, how models might solve problems without reasoning, and evaluating LLMs for general reasoning &lpar;Melanie Mitchell/AI: A Guide ...&rpar;](http://www.techmeme.com/230911/p19#a230911p19)
- - [Our favorite Anker wireless power bank for MagSafe iPhones is now $30 off](https://www.theverge.com/2023/9/11/23867693/anker-maggo-magsafe-battery-lego-mario-question-macbook-pro-16-deal-sale)
- - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Borderlands developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)<!-- TECH:END -->
+ - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)
+ - [ESPN’s standalone streaming channel is included in Charter and Disney’s new deal](https://www.theverge.com/2023/9/11/23868117/disney-charter-carriage-dispute-espn-standalone-streaming)
+ - [US Copyright Office denies protection for an AI-made image that won a fine arts competition, despite many prompt revisions and it being altered with Photoshop &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
