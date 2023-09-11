@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Champions, Ranked From Worst To Best](https://kotaku.com/pokemon-champions-best-worst-lance-cynthia-geeta-leon-1850826890)
- - [Starfield blasts past Skyrim&#39;s peak player count on Steam, but it&#39;s still well behind Fallout 4](https://www.pcgamer.com/starfield-blasts-past-skyrims-peak-player-count-on-steam-but-its-still-well-behind-fallout-4)
- - [Where to buy resources in Starfield](https://www.polygon.com/starfield-guide/23868302/where-to-buy-resources-shop-locations)<!-- GAME:END -->
+ - [Demon Slayer Is Going All ‘Mario Party’ On Switch](https://kotaku.com/demon-slayer-mario-party-nintendo-switch-release-date-1850827351)
+ - [Cheating out of my ship to do a spacewalk in Starfield left me wishing there was something to do out here](https://www.pcgamer.com/cheating-out-of-my-ship-to-do-a-spacewalk-in-starfield-left-me-wishing-there-was-something-to-do-out-here)
+ - [The Pokémon Champions, Ranked From Worst To Best](https://kotaku.com/pokemon-champions-best-worst-lance-cynthia-geeta-leon-1850826890)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
