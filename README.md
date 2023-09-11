@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart Tour Will No Longer Get New Updates](https://kotaku.com/mario-kart-tour-new-content-end-mobile-racer-spinoff-1850825190)
- - [How to complete the Sabotage quest in Starfield](https://www.pcgamer.com/starfield-sabotage-quest)
- - [The Resident Evil 4 remake just got its biggest discount yet](https://www.polygon.com/deals/2023/9/11/23868101/resident-evil-4-remake-best-buy-xbox-playstation-deal-sale)<!-- GAME:END -->
+ - [Super Mario 64 Lego Set gets its best discount yet](https://www.polygon.com/deals/2023/9/11/23868366/super-mario-64-lego-set-question-mark-block-deal-sale)
+ - [How to get adhesive in Starfield](https://www.polygon.com/starfield-guide/23864820/adhesive-item-id-sweetwater-cactus)
+ - [Xbox Has Made A Gamer Credit Card](https://kotaku.com/xbox-credit-card-mastercard-microsoft-store-game-pass-1850825597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
