@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Runescape community claims &#39;supreme victory&#39; as developer apologizes and cuts pay-to-win features from hated battle pass](https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass)
- - [I&#39;m finally enjoying Starfield&#39;s combat after giving guns a giant buff](https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff)
- - [Fortnite creative boss Donald Mustard retires](https://www.pcgamer.com/fortnite-creative-boss-donald-mustard-retires)<!-- GAME:END -->
+ - [Todd Howard mentions that the official Starfield mod tools are coming in 2024, with the DLC&#39;s release still TBA](https://www.pcgamer.com/todd-howard-mentions-that-the-official-starfield-mod-tools-are-coming-in-2024-with-the-dlcs-release-still-tba)
+ - [Payday 3 reveals two new characters and a year of post-launch DLC](https://www.pcgamer.com/payday-3-reveals-two-new-characters-and-a-year-of-post-launch-dlc)
+ - [Baldur&#39;s Gate 3 is the first game that met me halfway in roleplaying a they/them causing mayhem, and that feels like the future of RPGs](https://www.pcgamer.com/baldurs-gate-3-is-the-first-game-that-met-me-halfway-in-roleplaying-a-theythem-causing-mayhem-and-that-feels-like-the-future-of-rpgs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
