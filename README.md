@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario 64 Lego Set gets its best discount yet](https://www.polygon.com/deals/2023/9/11/23868366/super-mario-64-lego-set-question-mark-block-deal-sale)
- - [How to get adhesive in Starfield](https://www.polygon.com/starfield-guide/23864820/adhesive-item-id-sweetwater-cactus)
- - [Xbox Has Made A Gamer Credit Card](https://kotaku.com/xbox-credit-card-mastercard-microsoft-store-game-pass-1850825597)<!-- GAME:END -->
+ - [Gearbox rumored to be up for sale as Embracer continues to try to bounce back from a failed $2B deal](https://www.pcgamer.com/gearbox-rumored-to-be-up-for-sale-as-embracer-continues-to-try-to-bounce-back-from-a-failed-dollar2b-deal)
+ - [Why Starfield’s Planets Are Covered In Thousands Of Dead Creatures](https://kotaku.com/does-starfield-have-aliens-animals-planets-dead-why-1850825728)
+ - [Where to pre-order Super Mario Bros. Wonder](https://www.polygon.com/deals/23768840/super-mario-wonder-pre-order-buy-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
