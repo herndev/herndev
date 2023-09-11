@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
+ - 💣 [Mexico](http://9gag.com/gag/aBdjOnx)
  - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
+ - 👉 [We need a woman who has their end of world priorities in check like this](http://9gag.com/gag/aGE6Ob6)<!-- MEMES:END -->
 
 ---
 
