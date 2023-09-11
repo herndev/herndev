@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official mod support for Starfield is coming next year](https://www.polygon.com/23867916/starfield-mod-support-creation-kit-2024)
- - [The Week In Games: What’s Coming Out Beyond Eternights](https://kotaku.com/september-games-out-this-week-eternights-gunbrella-1850818806)
- - [Borderlands developer Gearbox reportedly up for potential sale](https://www.polygon.com/23868049/borderlands-developer-gearbox-potential-sale-embracer)<!-- GAME:END -->
+ - [Mario Kart Tour Will No Longer Get New Updates](https://kotaku.com/mario-kart-tour-new-content-end-mobile-racer-spinoff-1850825190)
+ - [How to complete the Sabotage quest in Starfield](https://www.pcgamer.com/starfield-sabotage-quest)
+ - [The Resident Evil 4 remake just got its biggest discount yet](https://www.polygon.com/deals/2023/9/11/23868101/resident-evil-4-remake-best-buy-xbox-playstation-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
