@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
+ - 💣 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
+ - ⏩ [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
+ - 👉 [When the director failed physics](http://9gag.com/gag/axoQbOn)<!-- MEMES:END -->
 
 ---
 
