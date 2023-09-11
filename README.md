@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
- - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 💣 [Wtf](http://9gag.com/gag/a1PBx88)
+ - ⏩ [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
  - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
