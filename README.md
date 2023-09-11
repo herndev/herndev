@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - ⏩ [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 👉 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)<!-- MEMES:END -->
+ - 💣 [A garden sprinkler that launches](http://9gag.com/gag/aBdjO11)
+ - ⏩ [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
+ - 👉 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)<!-- MEMES:END -->
 
 ---
 
