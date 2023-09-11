@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘A Paldean Adventure’ choose a path quest steps: Who should you adventure with?](https://www.polygon.com/pokemon-go-guide/23859369/a-paldean-adventure-quest-choose-a-path-which-fuecoco-sprigatito-quaxly-special-research)
  - [Microsoft Paint is getting updated with one of Photoshop&#39;s most commonly used tools](https://www.pcgamer.com/microsoft-paint-is-getting-updated-with-one-of-photoshops-most-commonly-used-tools)
- - [Starfield Starters: Xbox Wire’s Guide to the Galaxy](https://news.xbox.com/en-us/2023/09/11/starfield-starters/)
- - [AMD&#39;s upcoming hybrid APU smiles for the camera](https://www.pcgamer.com/amds-upcoming-hybrid-apu-smiles-for-the-camera)<!-- GAME:END -->
+ - [Starfield Starters: Xbox Wire’s Guide to the Galaxy](https://news.xbox.com/en-us/2023/09/11/starfield-starters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
