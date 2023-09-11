@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - ⏩ [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
+ - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - ⏩ [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
+ - 👉 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)<!-- MEMES:END -->
 
 ---
 
