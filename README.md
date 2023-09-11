@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer Is Going All ‘Mario Party’ On Switch](https://kotaku.com/demon-slayer-mario-party-nintendo-switch-release-date-1850827351)
- - [Cheating out of my ship to do a spacewalk in Starfield left me wishing there was something to do out here](https://www.pcgamer.com/cheating-out-of-my-ship-to-do-a-spacewalk-in-starfield-left-me-wishing-there-was-something-to-do-out-here)
- - [The Pokémon Champions, Ranked From Worst To Best](https://kotaku.com/pokemon-champions-best-worst-lance-cynthia-geeta-leon-1850826890)<!-- GAME:END -->
+ - [How to get tungsten in Starfield](https://www.polygon.com/starfield-guide/23868474/tungsten-location-item-id)
+ - [Pinocchio-meets-Dark Souls game Lies of P cut &#39;ACAB&#39; reference to avoid controversy: &#39;We respect everyone who might want to play this game&#39;](https://www.pcgamer.com/pinocchio-meets-dark-souls-game-lies-of-p-cut-acab-reference-to-avoid-controversy-we-respect-everyone-who-might-want-to-play-this-game)
+ - [Starfield NPCs have those uncanny smiles because they&#39;re not using every face muscle](https://www.pcgamer.com/starfield-npcs-have-those-uncanny-smiles-because-theyre-not-using-every-face-muscle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
