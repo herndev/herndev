@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Epix Pro &lpar;Gen 2&rpar; review: big, beautiful screen, tough, durable, and incredible satellite support, but no solar charging, pricey, and kind of embarrassing &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/230911/p16#a230911p16)
- - [TSMC&#39;s Arizona factory won&#39;t break Apple&#39;s overseas chip reliance](https://appleinsider.com/articles/23/09/11/tsmcs-arizona-factory-wont-break-apples-overseas-chip-reliance?utm_medium=rss)
- - [AI voices are taking over the internet](https://www.theverge.com/23864878/ai-voice-clones-podcastle-elevenlabs-personal-voice)<!-- TECH:END -->
+ - [How LLMs are taught to reason, the downsides of &quot;chain of thought&quot;, how models might solve problems without reasoning, and evaluating LLMs for general reasoning &lpar;Melanie Mitchell/AI: A Guide ...&rpar;](http://www.techmeme.com/230911/p19#a230911p19)
+ - [Our favorite Anker wireless power bank for MagSafe iPhones is now $30 off](https://www.theverge.com/2023/9/11/23867693/anker-maggo-magsafe-battery-lego-mario-question-macbook-pro-16-deal-sale)
+ - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Borderlands developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
