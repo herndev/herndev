@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
- - ⏩ [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
- - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
+ - 💣 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
+ - ⏩ [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
+ - 👉 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)<!-- MEMES:END -->
 
 ---
 
