@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - ⏩ [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
- - 👉 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)<!-- MEMES:END -->
+ - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
 
 ---
 
