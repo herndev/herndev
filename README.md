@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
- - ⏩ [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 👉 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)<!-- MEMES:END -->
+ - 💣 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
+ - ⏩ [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
+ - 👉 [Diversity](http://9gag.com/gag/avQ49YE)<!-- MEMES:END -->
 
 ---
 
