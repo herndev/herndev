@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
- - ⏩ [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - 👉 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)<!-- MEMES:END -->
+ - 💣 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)
+ - ⏩ [Hammer time!](http://9gag.com/gag/a8qQVXd)
+ - 👉 [Rate my Stick](http://9gag.com/gag/aL1VWyV)<!-- MEMES:END -->
 
 ---
 
