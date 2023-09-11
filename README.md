@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
- - ⏩ [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
- - 👉 [Diversity](http://9gag.com/gag/avQ49YE)<!-- MEMES:END -->
+ - 💣 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - ⏩ [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 
