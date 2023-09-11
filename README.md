@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok accidentally blocked Hollywood writers strike videos while casting a QAnon net](https://www.theverge.com/2023/9/11/23868930/tiktok-wga-writers-guild-strike-blocked-qanon-conspiracy)
- - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
- - [Internet Archive appeals loss in library ebook lawsuit](https://www.theverge.com/2023/9/11/23868870/internet-archive-hachette-open-library-copyright-lawsuit-appeal)<!-- TECH:END -->
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
+ - [Another group of writers is suing OpenAI over copyright claims](https://www.theverge.com/2023/9/11/23869145/writers-sue-openai-chatgpt-copyright-claims)
+ - [Heybike Ranger S e-bike review: stable, foldable fat tire fun](https://appleinsider.com/articles/23/09/11/heybike-ranger-s-e-bike-review-stable-foldable-fat-tire-fun?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
