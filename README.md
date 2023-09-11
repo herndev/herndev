@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 gets even better when you make a new character](https://www.polygon.com/gaming/23864958/baldurs-gate-3-roll-a-new-character-its-fun)
- - [FromSoftware mercifully spares Armored Core 6&#39;s most busted shotgun in latest balance patch, despite community memes](https://www.pcgamer.com/fromsoftware-mercifully-spares-armored-core-6s-most-busted-shotgun-in-latest-balance-patch-despite-community-memes)
- - [This Persona-Inspired Dating Sim&#39;s Ending Is Worth The Bumpy Ride](https://kotaku.com/eternights-review-romance-options-dating-sim-studio-sai-1850818205)<!-- GAME:END -->
+ - [Starfield: Essential Skills To Snag &lpar;And How To Raise Them&rpar;](https://kotaku.com/starfield-skills-perks-challenges-best-starter-1850820087)
+ - [Epos Gaming to &#39;wind down&#39; but all employees have already lost their jobs](https://www.pcgamer.com/epos-gaming-to-wind-down-but-all-employees-have-already-lost-their-jobs)
+ - [Where to get the Narwhal spaceship in Starfield](https://www.pcgamer.com/starfield-narwhal-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
