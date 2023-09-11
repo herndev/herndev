@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
- - ⏩ [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 👉 [Back to where you started](http://9gag.com/gag/aRE9D15)<!-- MEMES:END -->
+ - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 
