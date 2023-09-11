@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - ⏩ [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
+ - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - ⏩ [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
+ - 👉 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)<!-- MEMES:END -->
 
 ---
 
