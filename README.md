@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)
- - ⏩ [Hammer time!](http://9gag.com/gag/a8qQVXd)
- - 👉 [Rate my Stick](http://9gag.com/gag/aL1VWyV)<!-- MEMES:END -->
+ - 💣 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
+ - ⏩ [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 👉 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)<!-- MEMES:END -->
 
 ---
 
