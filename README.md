@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - ⏩ [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
+ - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
 
 ---
 
