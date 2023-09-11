@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - ⏩ [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
+ - 💣 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - ⏩ [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 👉 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)<!-- MEMES:END -->
 
 ---
 
