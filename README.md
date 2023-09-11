@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Daddy Sam Coe On Bisexuality, Console Wars, And Cowboy Hats](https://kotaku.com/starfield-sam-coe-voice-actor-romance-elias-toufexis-1850826699)
- - [What happens to your old ship when you get a new one in Starfield](https://www.polygon.com/starfield-guide/23868349/old-ship-new-ships-fleet)
- - [Starfield Settings For A More Immersive Experience](https://kotaku.com/starfield-mods-settings-xbox-pc-game-immersive-hud-cros-1850826381)<!-- GAME:END -->
+ - [The Pokémon Champions, Ranked From Worst To Best](https://kotaku.com/pokemon-champions-best-worst-lance-cynthia-geeta-leon-1850826890)
+ - [Starfield blasts past Skyrim&#39;s peak player count on Steam, but it&#39;s still well behind Fallout 4](https://www.pcgamer.com/starfield-blasts-past-skyrims-peak-player-count-on-steam-but-its-still-well-behind-fallout-4)
+ - [Where to buy resources in Starfield](https://www.polygon.com/starfield-guide/23868302/where-to-buy-resources-shop-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
