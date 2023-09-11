@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo and DeNA tell Mario Kart Tour users that the mobile game will not be updated after October 4, signaling Nintendo&#39;s lessening focus on mobile titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230911/p12#a230911p12)
- - [Apple will keep using Qualcomm 5G modems until 2026](https://appleinsider.com/articles/23/09/11/apple-will-keep-using-qualcomm-5g-modems-until-2026?utm_medium=rss)
- - [Buy an iPhone 13 mini now because it&#39;s going away tomorrow](https://appleinsider.com/articles/23/09/11/buy-an-iphone-13-mini-now-because-its-going-away-tomorrow?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin Epix Pro &lpar;Gen 2&rpar; review: big, beautiful screen, tough, durable, and incredible satellite support, but no solar charging, pricey, and kind of embarrassing &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/230911/p16#a230911p16)
+ - [TSMC&#39;s Arizona factory won&#39;t break Apple&#39;s overseas chip reliance](https://appleinsider.com/articles/23/09/11/tsmcs-arizona-factory-wont-break-apples-overseas-chip-reliance?utm_medium=rss)
+ - [AI voices are taking over the internet](https://www.theverge.com/23864878/ai-voice-clones-podcastle-elevenlabs-personal-voice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
