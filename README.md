@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)
- - [Nokia phone maker HMD is launching its own smartphone brand](https://www.theverge.com/2023/9/12/23869656/nokia-hmd-smartphone-brand-announcement-foxconn)
- - [Advocates urge Chuck Schumer to tackle AI’s climate impact](https://www.theverge.com/2023/9/12/23868620/ai-climate-change-pollution-disclosure-legislation-chuck-schumer)<!-- TECH:END -->
+ - [A profile of Thierry Breton, as the EU prepares to enforce the DSA and DMA, giving the bloc unprecedented regulatory power over big American tech companies &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230912/p11#a230912p11)
+ - [How to use the new camera actions in Shortcuts for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-camera-actions-in-shortcuts-for-ios-17?utm_medium=rss)
+ - [The White House says eight more companies, including Salesforce, Nvidia, Palantir, IBM, and Stability, are signing its voluntary AI pledge, for 15 in total &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p10#a230912p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
