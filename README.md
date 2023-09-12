@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
- - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)
- - [US accuses Google of &#39;knowingly&#39; breaking antitrust laws](https://appleinsider.com/articles/23/09/12/us-accuses-google-of-knowingly-breaking-antitrust-laws?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s livestream of the &quot;Wonderlust&quot; event at Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230912/p29#a230912p29)
+ - [A live blog of Apple&#39;s &quot;Wonderlust&quot; event, where four iPhone 15 models with USB-C, the Apple Watch Series 9, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p28#a230912p28)
+ - [The next Sims will be free and won’t replace The Sims 4](https://www.theverge.com/2023/9/12/23870172/project-rene-next-gen-sims-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
