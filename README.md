@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Thierry Breton, as the EU prepares to enforce the DSA and DMA, giving the bloc unprecedented regulatory power over big American tech companies &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230912/p11#a230912p11)
- - [How to use the new camera actions in Shortcuts for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-camera-actions-in-shortcuts-for-ios-17?utm_medium=rss)
- - [The White House says eight more companies, including Salesforce, Nvidia, Palantir, IBM, and Stability, are signing its voluntary AI pledge, for 15 in total &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p10#a230912p10)<!-- TECH:END -->
+ - [A history of Apple making us buy new cables](https://www.theverge.com/2023/9/12/23859659/apple-cable-history-iphone-15-usb-c-lightning-mac-thunderbolt)
+ - [An in-depth look at how Google&#39;s Transformer model, developed by eight researchers in 2017, radically sped up and augmented how computers understand language &lpar;Financial Times&rpar;](http://www.techmeme.com/230912/p15#a230912p15)
+ - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
