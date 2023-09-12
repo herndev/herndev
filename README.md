@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Map Creators, Build Your Next Masterpiece with EventLab 2.0](https://news.xbox.com/en-us/2023/09/12/forza-horizon-5-event-lab-2/)
- - [Starfield&#39;s space shanties are sung by the viral sea shanty man](https://www.pcgamer.com/starfields-space-shanties-are-sung-by-the-viral-sea-shanty-man)
- - [What time does Mortal Kombat 1 release in early access?](https://www.polygon.com/mortal-kombat-1-guides/2023/9/12/23869874/mk1-release-time-date-early-access)<!-- GAME:END -->
+ - [The next Sims game will be free to play &#39;without a subscription...or energy mechanics,&#39; EA confirms](https://www.pcgamer.com/the-next-sims-game-will-be-free-to-play-without-a-subscriptionor-energy-mechanics-ea-confirms)
+ - [Apple finally put USB-C in the new iPhone, but it&#39;s inexplicably limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds)
+ - [You can mine ore twice as fast in Starfield just by holding one button, and yes I just realized this 40 hours in](https://www.pcgamer.com/you-can-mine-ore-twice-as-fast-in-starfield-just-by-holding-one-button-and-yes-i-just-realized-this-40-hours-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
