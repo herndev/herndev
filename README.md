@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
- - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
- - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
+ - [Thunderbolt 5 launches with twice the speed of Thunderbolt 4](https://appleinsider.com/articles/23/09/12/thunderbolt-5-launches-with-twice-the-speed-of-thunderbolt-4?utm_medium=rss)
+ - [The TikTok Shop rolls out in the US](https://www.theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon)
+ - [Sources describe Apollo&#39;s Yahoo turnaround efforts, including layoffs, asset sales, and new partnerships; Yahoo is on pace to generate $7B in 2023 gross revenue &lpar;Rachel Graf/The Information&rpar;](http://www.techmeme.com/230912/p24#a230912p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
