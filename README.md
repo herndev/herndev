@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max lands with 5x optical zoom, faster USB-C](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-lands-with-5x-optical-zoom-faster-usb-c?utm_medium=rss)
- - [iPhone 15 Pro to get ‘console versions’ of Resident Evil, Assassin’s Creed, more](https://www.androidauthority.com/iphone-15-pro-resident-evil-assassins-creed-3363662/)
- - [iPhone 15 event: all the news on Apple’s new phones](https://www.theverge.com/2023/9/12/23862837/iphone-15-event-apple-watch-ultra-airpods-usb-c)<!-- TECH:END -->
+ - [This new button lets you twist your smart home into submission](https://www.theverge.com/2023/9/12/23870169/flic-twist-smart-home-button-launch-matter-apple-homekit)
+ - [Apple started killing Lightning accessories minutes after iPhone 15 USB-C introduction](https://appleinsider.com/articles/23/09/12/apple-started-killing-lightning-accessories-minutes-after-iphone-15-usb-c-introduction?utm_medium=rss)
+ - [Apple plans to release macOS Sonoma on September 26 and iOS 17, iPadOS 17, tvOS 17, and watchOS 10 on September 18 &lpar;Michael Stroup/AppleInsider&rpar;](http://www.techmeme.com/230912/p45#a230912p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
