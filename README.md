@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thunderbolt 5 launches with twice the speed of Thunderbolt 4](https://appleinsider.com/articles/23/09/12/thunderbolt-5-launches-with-twice-the-speed-of-thunderbolt-4?utm_medium=rss)
- - [The TikTok Shop rolls out in the US](https://www.theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon)
- - [Sources describe Apollo&#39;s Yahoo turnaround efforts, including layoffs, asset sales, and new partnerships; Yahoo is on pace to generate $7B in 2023 gross revenue &lpar;Rachel Graf/The Information&rpar;](http://www.techmeme.com/230912/p24#a230912p24)<!-- TECH:END -->
+ - [Drop’s own-brand keyboards are getting a customizability upgrade](https://www.theverge.com/2023/9/12/23860998/drop-ctrl-shift-alt-v2-mechanical-keyboards-price-release-date-features)
+ - [Supply Chain by Amazon sounds like Amazon Prime for manufacturers](https://www.theverge.com/2023/9/12/23869795/supply-chain-by-amazon-prime-for-manufacturers)
+ - [Report: Galaxy S23 series outselling S22 series, and S24 series could go bigger](https://www.androidauthority.com/samsung-galaxy-s23-sales-3363482/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
