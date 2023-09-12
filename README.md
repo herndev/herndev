@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 series could keep its cool thanks to a new Tensor G3 improvement](https://www.androidauthority.com/google-pixel-8-tensor-g3-heat-management-3363337/)
- - [Q&amp;A with Sundar Pichai on 25 years of Google, competition in AI, ChatGPT in Bing, DeepMind and Google Brain, AI chips, staff&#39;s bureaucracy complaints, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230912/p5#a230912p5)
- - [Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More     - CNET](https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)
+ - [Nokia phone maker HMD is launching its own smartphone brand](https://www.theverge.com/2023/9/12/23869656/nokia-hmd-smartphone-brand-announcement-foxconn)
+ - [Advocates urge Chuck Schumer to tackle AI’s climate impact](https://www.theverge.com/2023/9/12/23868620/ai-climate-change-pollution-disclosure-legislation-chuck-schumer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
