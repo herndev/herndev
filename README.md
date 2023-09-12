@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - ⏩ [Wtf](http://9gag.com/gag/a1PBx88)
- - 👉 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)<!-- MEMES:END -->
+ - 💣 [The raise in price\u2026..](http://9gag.com/gag/aNw8Gr3)
+ - ⏩ [No idea when this became a place about sticks but here&#39;s a picture of my wood](http://9gag.com/gag/anz8dYq)
+ - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
 
 ---
 
