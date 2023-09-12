@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro and Pro Max are the first smartphones with Thread](https://www.theverge.com/2023/9/12/23870522/iphone-15-pro-max-thread-smartphones)
- - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)
- - [Roadside Assistance via Satellite provides more help for iPhone users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s $60 iCloud Service Is the Future of Apple](https://www.wired.com/story/apple-60-dollar-icloud-storage-tier-is-the-future/)
+ - [The iPhone 15 is the first phone to &lpar;almost&rpar; support Qi2 charging](https://www.theverge.com/2023/9/12/23870494/qi2-certification-iphone-15-magnetic-charging)
+ - [A recap of the first day of US et al v. Google, as the DOJ argues that the company illegally protected its internet search monopoly via smartphone maker deals &lpar;New York Times&rpar;](http://www.techmeme.com/230912/p51#a230912p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
