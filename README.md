@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wtf](http://9gag.com/gag/a1PBx88)
- - ⏩ [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
- - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
+ - ⏩ [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
+ - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
 
 ---
 
