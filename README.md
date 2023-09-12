@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can the Harry Potter fandom carry on while ignoring J.K. Rowling?](https://www.polygon.com/23836351/harry-potter-fandom-j-k-rowling-marauders-wolfstar-jegulus-tiktok)
- - [If you find Starfield&#39;s NPC walking speed as infuriating as I do, try these mods](https://www.pcgamer.com/if-you-find-starfields-npc-walking-speed-as-infuriating-as-i-do-try-these-mods)
- - [Starfield: How to save everyone in the Juno&#39;s Gambit quest](https://www.pcgamer.com/starfield-juno-gambit-quest)<!-- GAME:END -->
+ - [Show Off Your Prestige with the New Xbox Wireless Controller – Astral Purple](https://news.xbox.com/en-us/2023/09/12/xbox-wireless-controller-astral-purple/)
+ - [Ubisoft&#39;s sweatier Call of Duty-like has been pushed to an uncertain date after failing console certification: &#39;Like a lot of things with this game, we have not chosen the typical route&#39;](https://www.pcgamer.com/ubisofts-sweatier-call-of-duty-like-has-been-pushed-to-an-uncertain-date-after-failing-console-certification-like-a-lot-of-things-with-this-game-we-have-not-chosen-the-typical-route)
+ - [Starfield&#39;s space map has a handy UI element it never tells you about for unknowable reasons](https://www.pcgamer.com/starfields-space-map-has-a-handy-ui-element-it-never-tells-you-about-for-unknowable-reasons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
