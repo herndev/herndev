@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crash Team Rumble: Breaking Down All the New Activities in Season 2’s Party Mode](https://news.xbox.com/en-us/2023/09/12/crash-team-rumble-party-mode/)
- - [WD&#39;s tiny 2TB SSD looks like the drive to buy for a handheld PC storage upgrade](https://www.pcgamer.com/wds-tiny-2tb-ssd-looks-like-the-drive-to-buy-for-a-handheld-pc-storage-upgrade)
- - [Todd Howard blames the pandemic for Starfield delays: Working from home was &#39;very, very slow&#39;](https://www.pcgamer.com/todd-howard-blames-the-pandemic-for-starfield-delays-working-from-home-was-very-very-slow)<!-- GAME:END -->
+ - [Forza Horizon 5 Map Creators, Build Your Next Masterpiece with EventLab 2.0](https://news.xbox.com/en-us/2023/09/12/forza-horizon-5-event-lab-2/)
+ - [Starfield&#39;s space shanties are sung by the viral sea shanty man](https://www.pcgamer.com/starfields-space-shanties-are-sung-by-the-viral-sea-shanty-man)
+ - [What time does Mortal Kombat 1 release in early access?](https://www.polygon.com/mortal-kombat-1-guides/2023/9/12/23869874/mk1-release-time-date-early-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
