@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After years of &#39;good enough&#39; PC ports, Armored Core 6 is the first game in FromSoftware&#39;s history truly born for mouse and keyboard](https://www.pcgamer.com/after-years-of-good-enough-pc-ports-armored-core-6-is-the-first-game-in-fromsoftwares-history-truly-born-for-mouse-and-keyboard)
- - [Starfield: This Creepy Derelict Spaceship Goes All Dead Space](https://kotaku.com/starfield-easter-egg-colander-walkthrough-dead-space-al-1850831737)
- - [Cyberpunk 2077 Dev Suggests Testing Your PC’s Stability Before Phantom Liberty Drops](https://kotaku.com/cyberpunk-2077-2-0-update-phantom-liberty-dlc-pc-cool-1850831358)<!-- GAME:END -->
+ - [I&#39;m digging Abriss, a physics puzzle game like Besiege set in a brutalist sci-fi dimension with rockets and lasers](https://www.pcgamer.com/im-digging-abriss-a-physics-puzzle-game-like-besiege-set-in-a-brutalist-sci-fi-dimension-with-rockets-and-lasers)
+ - [Following Skyrim tradition, Starfield already has an alternate start mod that lets you skip the intro and begin in cooler parts of space](https://www.pcgamer.com/following-skyrim-tradition-starfield-already-has-an-alternate-start-mod-that-lets-you-skip-the-intro-and-begin-in-cooler-parts-of-space)
+ - [After years of &#39;good enough&#39; PC ports, Armored Core 6 is the first game in FromSoftware&#39;s history truly born for mouse and keyboard](https://www.pcgamer.com/after-years-of-good-enough-pc-ports-armored-core-6-is-the-first-game-in-fromsoftwares-history-truly-born-for-mouse-and-keyboard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
