@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BenQ Zowie EC3-CW](https://www.pcgamer.com/benq-zowie-ec3-cw)
- - [Pizza chef stopped playing Starfield on his day off to turn his breakfast into cubes](https://www.pcgamer.com/pizza-chef-stopped-playing-starfield-on-his-day-off-to-turn-his-breakfast-into-cubes)
- - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #815: Tuesday, September 12](https://www.pcgamer.com/wordle-answer-today-hint-815-september-12)
+ - [NYT Connections puzzle hint and answers for Tuesday, September 12 &lpar;#93&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-tuesday-september-12-93)
+ - [BenQ Zowie EC3-CW](https://www.pcgamer.com/benq-zowie-ec3-cw)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
