@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get Stick. Stick very good!](http://9gag.com/gag/aRE9yEy)
- - ⏩ [Relentlessly left](http://9gag.com/gag/aPgzr8g)
- - 👉 [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)<!-- MEMES:END -->
+ - 💣 [-What did you say, b*tch?](http://9gag.com/gag/a8qQnXV)
+ - ⏩ [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
+ - 👉 [Relentlessly left](http://9gag.com/gag/aPgzr8g)<!-- MEMES:END -->
 
 ---
 
