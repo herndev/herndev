@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
- - ⏩ [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 👉 [Typical western family](http://9gag.com/gag/a9qZZqZ)<!-- MEMES:END -->
+ - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - ⏩ [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
+ - 👉 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)<!-- MEMES:END -->
 
 ---
 
