@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - ⏩ [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 💣 [Still Wood](http://9gag.com/gag/aA0qvQo)
+ - ⏩ [I&#39;m just gonna left it here..](http://9gag.com/gag/avQ4vzM)
  - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
