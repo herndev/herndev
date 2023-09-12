@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 💣 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
  - ⏩ [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
  - 👉 [Typical western family](http://9gag.com/gag/a9qZZqZ)<!-- MEMES:END -->
 
