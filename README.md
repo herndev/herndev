@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Start saving, because Intel&#39;s 14th Gen CPUs are reportedly launching in just a few weeks](https://www.pcgamer.com/start-saving-because-intels-14th-gen-cpus-are-reportedly-launching-in-just-a-few-weeks)
  - [Nvidia owners can get a big FPS boost in Starfield with this tweak](https://www.pcgamer.com/nvidia-owners-can-get-a-big-fps-boost-in-starfield-with-this-tweak)
- - [Today&#39;s Wordle hint and answer #815: Tuesday, September 12](https://www.pcgamer.com/wordle-answer-today-hint-815-september-12)
- - [NYT Connections puzzle hint and answers for Tuesday, September 12 &lpar;#93&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-tuesday-september-12-93)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #815: Tuesday, September 12](https://www.pcgamer.com/wordle-answer-today-hint-815-september-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
