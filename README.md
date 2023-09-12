@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-What did you say, b*tch?](http://9gag.com/gag/a8qQnXV)
- - ⏩ [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
- - 👉 [Relentlessly left](http://9gag.com/gag/aPgzr8g)<!-- MEMES:END -->
+ - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
 
 ---
 
