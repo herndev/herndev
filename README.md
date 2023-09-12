@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - ⏩ [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
+ - ⏩ [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 
