@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer scores clutch kills in Overwatch 2, Valorant, and Halo using mind control](https://www.pcgamer.com/twitch-streamer-scores-clutch-kills-in-overwatch-2-valorant-and-halo-using-mind-control)
- - [Disney Lorcana’s second set of cards will include Pinocchio, Zootopia, and more](https://www.polygon.com/23868634/disney-lorcana-rise-of-the-floodborn-set-release-date-price-availability)
- - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)<!-- GAME:END -->
+ - [Assassin’s Creed Mirage: Arabic Language Support Makes This the Most Immersive Chapter Yet](https://news.xbox.com/en-us/2023/09/12/assassins-creed-mirage-arabic-language-preview/)
+ - [Assassin’s Creed Mirage feels like more of a throwback than it should](https://www.polygon.com/23868776/assassins-creed-mirage-preview-release-date-baghdad)
+ - [Canadian police find drugs, firearms, and the dread blade of the Lich King in raid—which they underwhelmingly describe as &#39;a sword&#39;](https://www.pcgamer.com/canadian-police-find-drugs-firearms-and-the-dread-blade-of-the-lich-king-in-raidwhich-they-underwhelmingly-describe-as-a-sword)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
