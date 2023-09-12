@@ -126,5 +126,7 @@ Windows                  9 hrs 12 mins       ███████████�
 </details>
 
 <br />
-![gitartwork](gitartwork.svg)
+<div align="center">
+	<img src="gitartwork.svg" alt="gitartwork">
+</div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
