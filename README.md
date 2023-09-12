@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The largest video store in the US will now let you rent from anywhere in the country](https://www.polygon.com/23870135/scarecrow-rare-movie-rental-mail-united-states-netflix)
- - [Baldur’s Gate 3: The Best Spells To Teach Your Team](https://kotaku.com/baldurs-gate-3-best-spells-cantrips-learn-feat-classes-1850830988)
+ - [Cyberpunk 2077 Dev Suggests Testing Your PC’s Stability Before Phantom Liberty Drops](https://kotaku.com/cyberpunk-2077-2-0-update-phantom-liberty-dlc-pc-cool-1850831358)
+ - [Speed up Starfield&#39;s annoyingly slow sitting and climbing animations with a quick mod](https://www.pcgamer.com/speed-up-starfields-annoyingly-slow-sitting-and-climbing-animations-with-a-quick-mod)
  - [Game devs say Unity’s big change puts studios at risk](https://www.polygon.com/23870247/unity-engine-pricing-model-install-fee)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
