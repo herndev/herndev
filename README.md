@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France threatens total recall of iPhone 12 over RF power concerns](https://appleinsider.com/articles/23/09/12/france-threatens-total-recall-of-iphone-12-over-rf-power-concerns?utm_medium=rss)
- - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
- - [Apple discontinues its Mini phone, proves that people don’t want small phones](https://www.androidauthority.com/apple-iphone-mini-discontinued-3363739/)<!-- TECH:END -->
+ - [The iPhone 15 Pro and Pro Max are the first smartphones with Thread](https://www.theverge.com/2023/9/12/23870522/iphone-15-pro-max-thread-smartphones)
+ - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)
+ - [Roadside Assistance via Satellite provides more help for iPhone users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
