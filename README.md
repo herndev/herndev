@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still Wood](http://9gag.com/gag/aA0qvQo)
- - ⏩ [I&#39;m just gonna left it here..](http://9gag.com/gag/avQ4vzM)
- - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
+ - 💣 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
+ - ⏩ [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 👉 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)<!-- MEMES:END -->
 
 ---
 
