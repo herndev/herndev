@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - ⏩ [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 👉 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)<!-- MEMES:END -->
+ - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - ⏩ [If this is true, then not all heroes wear capes.](http://9gag.com/gag/ajVGdd0)
+ - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
 
 ---
 
