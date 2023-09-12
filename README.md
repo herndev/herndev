@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Sims game will be free to play &#39;without a subscription...or energy mechanics,&#39; EA confirms](https://www.pcgamer.com/the-next-sims-game-will-be-free-to-play-without-a-subscriptionor-energy-mechanics-ea-confirms)
- - [Apple finally put USB-C in the new iPhone, but it&#39;s inexplicably limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds)
- - [You can mine ore twice as fast in Starfield just by holding one button, and yes I just realized this 40 hours in](https://www.pcgamer.com/you-can-mine-ore-twice-as-fast-in-starfield-just-by-holding-one-button-and-yes-i-just-realized-this-40-hours-in)<!-- GAME:END -->
+ - [The largest video store in the US will now let you rent from anywhere in the country](https://www.polygon.com/23870135/scarecrow-rare-movie-rental-mail-united-states-netflix)
+ - [Baldur’s Gate 3: The Best Spells To Teach Your Team](https://kotaku.com/baldurs-gate-3-best-spells-cantrips-learn-feat-classes-1850830988)
+ - [Game devs say Unity’s big change puts studios at risk](https://www.polygon.com/23870247/unity-engine-pricing-model-install-fee)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
