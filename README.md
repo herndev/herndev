@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A history of Apple making us buy new cables](https://www.theverge.com/2023/9/12/23859659/apple-cable-history-iphone-15-usb-c-lightning-mac-thunderbolt)
- - [An in-depth look at how Google&#39;s Transformer model, developed by eight researchers in 2017, radically sped up and augmented how computers understand language &lpar;Financial Times&rpar;](http://www.techmeme.com/230912/p15#a230912p15)
- - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
+ - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
+ - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
