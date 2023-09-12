@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [BenQ Zowie EC3-CW](https://www.pcgamer.com/benq-zowie-ec3-cw)
  - [Pizza chef stopped playing Starfield on his day off to turn his breakfast into cubes](https://www.pcgamer.com/pizza-chef-stopped-playing-starfield-on-his-day-off-to-turn-his-breakfast-into-cubes)
- - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)
- - [Can&#39;t shoot in Starfield? Cure this bug with some plastic surgery](https://www.pcgamer.com/starfield-cant-shoot-bug-fix)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
