@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
- - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 👉 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)<!-- MEMES:END -->
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - ⏩ [Wtf](http://9gag.com/gag/a1PBx88)
+ - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
 
 ---
 
