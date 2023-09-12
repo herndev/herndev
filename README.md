@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get tungsten in Starfield](https://www.polygon.com/starfield-guide/23868474/tungsten-location-item-id)
- - [Pinocchio-meets-Dark Souls game Lies of P cut &#39;ACAB&#39; reference to avoid controversy: &#39;We respect everyone who might want to play this game&#39;](https://www.pcgamer.com/pinocchio-meets-dark-souls-game-lies-of-p-cut-acab-reference-to-avoid-controversy-we-respect-everyone-who-might-want-to-play-this-game)
- - [Starfield NPCs have those uncanny smiles because they&#39;re not using every face muscle](https://www.pcgamer.com/starfield-npcs-have-those-uncanny-smiles-because-theyre-not-using-every-face-muscle)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 has a secret, brutal game over scene for players who somehow overcome every safeguard to permanently lose a critical item](https://www.pcgamer.com/baldurs-gate-3-has-a-secret-brutal-game-over-scene-for-players-who-somehow-overcome-every-safeguard-to-permanently-lose-a-critical-item)
+ - [Can&#39;t shoot in Starfield? Cure this bug with some plastic surgery](https://www.pcgamer.com/starfield-cant-shoot-bug-fix)
+ - [How to get tungsten in Starfield](https://www.polygon.com/starfield-guide/23868474/tungsten-location-item-id)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
