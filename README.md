@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)
- - [Start saving, because Intel&#39;s 14th Gen CPUs are reportedly launching in just a few weeks](https://www.pcgamer.com/start-saving-because-intels-14th-gen-cpus-are-reportedly-launching-in-just-a-few-weeks)
- - [Nvidia owners can get a big FPS boost in Starfield with this tweak](https://www.pcgamer.com/nvidia-owners-can-get-a-big-fps-boost-in-starfield-with-this-tweak)<!-- GAME:END -->
+ - [Twitch Streamer scores clutch kills in Overwatch 2, Valorant, and Halo using mind control](https://www.pcgamer.com/twitch-streamer-scores-clutch-kills-in-overwatch-2-valorant-and-halo-using-mind-control)
+ - [Disney Lorcana’s second set of cards will include Pinocchio, Zootopia, and more](https://www.polygon.com/23868634/disney-lorcana-rise-of-the-floodborn-set-release-date-price-availability)
+ - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
