@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Waste All Your Baldur&#39;s Gate 3 Scrolls In Battle, Do This Instead](https://kotaku.com/baldurs-gate-3-scrolls-how-to-learn-spell-gale-wizard-1850829427)
- - [EPOS S6 review](https://www.pcgamer.com/epos-s6-4k-webcam-review)
- - [Best gaming PC builds: budget, mid-range and high-end recommendations](https://www.pcgamer.com/gaming-pc-build-guide)<!-- GAME:END -->
+ - [Crash Team Rumble: Breaking Down All the New Activities in Season 2’s Party Mode](https://news.xbox.com/en-us/2023/09/12/crash-team-rumble-party-mode/)
+ - [WD&#39;s tiny 2TB SSD looks like the drive to buy for a handheld PC storage upgrade](https://www.pcgamer.com/wds-tiny-2tb-ssd-looks-like-the-drive-to-buy-for-a-handheld-pc-storage-upgrade)
+ - [Todd Howard blames the pandemic for Starfield delays: Working from home was &#39;very, very slow&#39;](https://www.pcgamer.com/todd-howard-blames-the-pandemic-for-starfield-delays-working-from-home-was-very-very-slow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
