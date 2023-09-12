@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
- - ⏩ [Ideas for my New Mexico Amigos](http://9gag.com/gag/awZPGwR)
- - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
+ - 💣 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - ⏩ [Frontlines](http://9gag.com/gag/anz8W05)
+ - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
 
 ---
 
