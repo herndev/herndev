@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drop’s own-brand keyboards are getting a customizability upgrade](https://www.theverge.com/2023/9/12/23860998/drop-ctrl-shift-alt-v2-mechanical-keyboards-price-release-date-features)
- - [Supply Chain by Amazon sounds like Amazon Prime for manufacturers](https://www.theverge.com/2023/9/12/23869795/supply-chain-by-amazon-prime-for-manufacturers)
- - [Report: Galaxy S23 series outselling S22 series, and S24 series could go bigger](https://www.androidauthority.com/samsung-galaxy-s23-sales-3363482/)<!-- TECH:END -->
+ - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
+ - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)
+ - [US accuses Google of &#39;knowingly&#39; breaking antitrust laws](https://appleinsider.com/articles/23/09/12/us-accuses-google-of-knowingly-breaking-antitrust-laws?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
