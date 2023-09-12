@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - ⏩ [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
+ - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - ⏩ [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
+ - 👉 [Typical western family](http://9gag.com/gag/a9qZZqZ)<!-- MEMES:END -->
 
 ---
 
