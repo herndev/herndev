@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Dev Suggests Testing Your PC’s Stability Before Phantom Liberty Drops](https://kotaku.com/cyberpunk-2077-2-0-update-phantom-liberty-dlc-pc-cool-1850831358)
- - [Speed up Starfield&#39;s annoyingly slow sitting and climbing animations with a quick mod](https://www.pcgamer.com/speed-up-starfields-annoyingly-slow-sitting-and-climbing-animations-with-a-quick-mod)
- - [Game devs say Unity’s big change puts studios at risk](https://www.polygon.com/23870247/unity-engine-pricing-model-install-fee)<!-- GAME:END -->
+ - [After years of &#39;good enough&#39; PC ports, Armored Core 6 is the first game in FromSoftware&#39;s history truly born for mouse and keyboard](https://www.pcgamer.com/after-years-of-good-enough-pc-ports-armored-core-6-is-the-first-game-in-fromsoftwares-history-truly-born-for-mouse-and-keyboard)
+ - [Starfield: This Creepy Derelict Spaceship Goes All Dead Space](https://kotaku.com/starfield-easter-egg-colander-walkthrough-dead-space-al-1850831737)
+ - [Cyberpunk 2077 Dev Suggests Testing Your PC’s Stability Before Phantom Liberty Drops](https://kotaku.com/cyberpunk-2077-2-0-update-phantom-liberty-dlc-pc-cool-1850831358)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
