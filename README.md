@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - ⏩ [Wtf](http://9gag.com/gag/a1PBx88)
+ - 💣 [Wtf](http://9gag.com/gag/a1PBx88)
+ - ⏩ [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
  - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
 
 ---
