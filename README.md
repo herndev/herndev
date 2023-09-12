@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Mirage: Arabic Language Support Makes This the Most Immersive Chapter Yet](https://news.xbox.com/en-us/2023/09/12/assassins-creed-mirage-arabic-language-preview/)
- - [Assassin’s Creed Mirage feels like more of a throwback than it should](https://www.polygon.com/23868776/assassins-creed-mirage-preview-release-date-baghdad)
- - [Canadian police find drugs, firearms, and the dread blade of the Lich King in raid—which they underwhelmingly describe as &#39;a sword&#39;](https://www.pcgamer.com/canadian-police-find-drugs-firearms-and-the-dread-blade-of-the-lich-king-in-raidwhich-they-underwhelmingly-describe-as-a-sword)<!-- GAME:END -->
+ - [Can the Harry Potter fandom carry on while ignoring J.K. Rowling?](https://www.polygon.com/23836351/harry-potter-fandom-j-k-rowling-marauders-wolfstar-jegulus-tiktok)
+ - [If you find Starfield&#39;s NPC walking speed as infuriating as I do, try these mods](https://www.pcgamer.com/if-you-find-starfields-npc-walking-speed-as-infuriating-as-i-do-try-these-mods)
+ - [Starfield: How to save everyone in the Juno&#39;s Gambit quest](https://www.pcgamer.com/starfield-juno-gambit-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
