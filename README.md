@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new button lets you twist your smart home into submission](https://www.theverge.com/2023/9/12/23870169/flic-twist-smart-home-button-launch-matter-apple-homekit)
- - [Apple started killing Lightning accessories minutes after iPhone 15 USB-C introduction](https://appleinsider.com/articles/23/09/12/apple-started-killing-lightning-accessories-minutes-after-iphone-15-usb-c-introduction?utm_medium=rss)
- - [Apple plans to release macOS Sonoma on September 26 and iOS 17, iPadOS 17, tvOS 17, and watchOS 10 on September 18 &lpar;Michael Stroup/AppleInsider&rpar;](http://www.techmeme.com/230912/p45#a230912p45)<!-- TECH:END -->
+ - [France threatens total recall of iPhone 12 over RF power concerns](https://appleinsider.com/articles/23/09/12/france-threatens-total-recall-of-iphone-12-over-rf-power-concerns?utm_medium=rss)
+ - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
+ - [Apple discontinues its Mini phone, proves that people don’t want small phones](https://www.androidauthority.com/apple-iphone-mini-discontinued-3363739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
