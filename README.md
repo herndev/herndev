@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spigen cheekily confirms iPhone 15 action button hours before launch](https://www.androidauthority.com/spigen-confirms-iphone-15-action-button-3363338/)
  - [Lime says its gross bookings grew 45% YoY to $250M in H1 2023 and the adjusted EBITDA reached $27M, as CEO Wayne Ting hints at an IPO &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230912/p4#a230912p4)
- - [Google Messages preparing WhatsApp-like multi-device support](https://www.androidauthority.com/google-messages-multi-device-support-3363315/)
- - [California Senate passes a bill that requires the presence of a human safety operator in self-driving trucks on public roads; bill requires governor&#39;s approval &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230912/p3#a230912p3)<!-- TECH:END -->
+ - [Google Messages preparing WhatsApp-like multi-device support](https://www.androidauthority.com/google-messages-multi-device-support-3363315/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
