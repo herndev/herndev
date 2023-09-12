@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
- - ⏩ [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
- - 👉 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)<!-- MEMES:END -->
+ - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
+ - ⏩ [Wtf](http://9gag.com/gag/a1PBx88)
+ - 👉 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)<!-- MEMES:END -->
 
 ---
 
