@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s livestream of the &quot;Wonderlust&quot; event at Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230912/p29#a230912p29)
- - [A live blog of Apple&#39;s &quot;Wonderlust&quot; event, where four iPhone 15 models with USB-C, the Apple Watch Series 9, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p28#a230912p28)
- - [The next Sims will be free and won’t replace The Sims 4](https://www.theverge.com/2023/9/12/23870172/project-rene-next-gen-sims-free)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
+ - [Apple iPhone 15 Pro and Pro Max announced with titanium bodies and ultra-thin bezels](https://www.theverge.com/2023/9/12/23859756/iphone-15-pro-max-price-features-release-date-apple)
+ - [Apple&#39;s iPhone 15 features USB-C, the A16 chip from the iPhone 14 Pro, and a second-gen UWB chip; the 6.1&quot; iPhone 15 starts at $799 and 6.7&quot; 15 Plus at $899 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230912/p34#a230912p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
