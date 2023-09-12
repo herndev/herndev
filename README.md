@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - ⏩ [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - 👉 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)<!-- MEMES:END -->
+ - 💣 [Ideas for my New Mexico Amigos](http://9gag.com/gag/awZPGwR)
+ - ⏩ [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 
