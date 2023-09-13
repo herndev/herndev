@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
- - ⏩ [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
- - 👉 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)<!-- MEMES:END -->
+ - 💣 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
+ - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
 
 ---
 
