@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fae Farm has magically solved all my little gripes with cozy farm sims](https://www.pcgamer.com/fae-farm-has-magically-solved-all-my-little-gripes-with-cozy-farm-sims)
- - [PS Plus September Games Are A Rad Grab Bag Of RPGs, Shooters](https://kotaku.com/playstation-plus-september-nier-replicant-13-sentinels-1850835468)
- - [Pokémon Scarlet and Violet Ogerpon and mask guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23872193/catch-ogerpon-masks-type-the-teal-mask)<!-- GAME:END -->
+ - [Stardew Valley creator ConcernedApe has gotten better at drawing beds](https://www.polygon.com/gaming/23872393/stardew-valley-haunted-chocolatier-concernedape-eric-barone-bed-meme)
+ - [The best planets for your first outpost in Starfield](https://www.polygon.com/starfield-guide/23861566/best-planets-for-outpost)
+ - [Sony has a new State of Play coming Thursday](https://www.polygon.com/23872460/playstation-state-of-play-september-2023-ps5-psvr2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
