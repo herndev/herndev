@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ahsoka’s Jacen Syndulla is a Star Wars Easter egg on multiple levels](https://www.polygon.com/star-wars/23852199/jacen-syndulla-ahsoka-actor-hera-father-star-wars-easter-egg)
  - [Australia&#39;s answer to Fallout, Broken Roads has a release date](https://www.pcgamer.com/australias-answer-to-fallout-broken-roads-has-a-release-date)
- - [Nvidia driver update should improve Starfield performance for many](https://www.pcgamer.com/nvidia-driver-update-should-improve-starfield-performance-for-many)
- - [Big Games Big deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/12/big-games-big-deals-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
+ - [Nvidia driver update should improve Starfield performance for many](https://www.pcgamer.com/nvidia-driver-update-should-improve-starfield-performance-for-many)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
