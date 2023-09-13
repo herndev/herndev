@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Devs React To Unity&#39;s Newly Announced Fee For Game Installs: ‘Not To Be Trusted’ [UPDATE]](https://kotaku.com/unity-engine-subscription-cost-unreal-godot-indie-dev-1850831032)
- - [Ahsoka’s Jacen Syndulla is a Star Wars Easter egg on multiple levels](https://www.polygon.com/star-wars/23852199/jacen-syndulla-ahsoka-actor-hera-father-star-wars-easter-egg)
- - [Australia&#39;s answer to Fallout, Broken Roads has a release date](https://www.pcgamer.com/australias-answer-to-fallout-broken-roads-has-a-release-date)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)
+ - [NYT Connections puzzle hint and answers for Wednesday, September 13 &lpar;#94&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-wednesday-september-13-94)
+ - [Devs React To Unity&#39;s Newly Announced Fee For Game Installs: ‘Not To Be Trusted’ [UPDATE]](https://kotaku.com/unity-engine-subscription-cost-unreal-godot-indie-dev-1850831032)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
