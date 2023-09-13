@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tune in to Minecraft Live 2023 on October 15!](https://news.xbox.com/en-us/2023/09/13/tune-in-to-minecraft-live-2023-on-october-15/)
- - [Lies of P carves a singular space out of the Soulsborne genre](https://www.polygon.com/reviews/23871592/lies-of-p-review-soulsborne-game-pass-pinocchio)
- - [Xbox Game Pass Core Reveals All 36 Games Ahead Of Launch](https://kotaku.com/xbox-game-pass-core-games-forza-halo-among-us-stardew-1850833793)<!-- GAME:END -->
+ - [Ugly: How Indie Hardship Created Something Beautiful](https://news.xbox.com/en-us/2023/09/13/ugly-making-of/)
+ - [Apple Wants Its New iPhone To Be Your Next Gaming Device](https://kotaku.com/apple-iphone-15-resident-evil-death-stranding-mirage-1850834197)
+ - [Marvel VFX workers vote ‘yes’ to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
