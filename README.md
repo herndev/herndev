@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California lawmaker proposes regulation of AI models](https://www.theverge.com/2023/9/13/23871866/california-lawmaker-ai-regulation-transparency)
- - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
- - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)<!-- TECH:END -->
+ - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)
+ - [Mila Kunis and Ashton Kutcher’s Stoner Cats NFTs must sober up, SEC orders](https://www.theverge.com/2023/9/13/23872048/stoner-cats-nft-sec-mila-kunis-ashton-kutcher)
+ - [How the new iPhone 15 models differ from one another &lpar;and the iPhone 14&rpar;](https://www.theverge.com/23860594/iphone-15-vs-14-plus-pro-max-comparison-specs-price-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
