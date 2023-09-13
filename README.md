@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google antitrust trial already getting formal protests from Apple](https://appleinsider.com/articles/23/09/13/google-antitrust-trial-already-getting-formal-protests-from-apple?utm_medium=rss)
- - [Amazon announces generative AI tools to help sellers write &quot;captivating product descriptions, titles, and listing details&quot; and add to existing descriptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p39#a230913p39)
- - [The full version of Baldur’s Gate 3 is coming to Mac soon](https://www.theverge.com/2023/9/13/23872350/baldurs-gate-3-bg3-mac-full-release-date)<!-- TECH:END -->
+ - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
+ - [US Senate&#39;s AI Insight Forum: Musk warns of AI risks, Zuckerberg defends open source, all guests agree the US needs to play a role in regulating AI, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230913/p43#a230913p43)
+ - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
