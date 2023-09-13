@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
- - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
+ - 💣 [We go to hell together](http://9gag.com/gag/a8qQvYp)
+ - ⏩ [Download before it disappears again](http://9gag.com/gag/awZPPVr)
+ - 👉 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)<!-- MEMES:END -->
 
 ---
 
