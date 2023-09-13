@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fright Krewe looks like the delightfully spooky animated adventure of my dreams](https://www.polygon.com/23871867/fright-krewe-trailer-release-date-horror-kids)
- - [Destiny 2: The Final Shape pre-order guide](https://www.polygon.com/deals/23863424/destiny-2-the-final-shape-pre-order-buy-guide-annual-pass-collectors-edition)
- - [The Saw franchise just won the Nicole Kidman AMC parody wars](https://www.polygon.com/2023/9/13/23872140/saw-x-nicole-kidman-amc-parody)<!-- GAME:END -->
+ - [Ahsoka Series Episode 5 Review: The Ghost Of Anakin Skywalker](https://kotaku.com/ahsoka-tano-series-show-episode-5-review-recap-reaction-1850835116)
+ - [Valve celebrates two decades of Steam with memes](https://www.polygon.com/gaming/2023/9/13/23871744/steam-20th-anniversary-art-valve-memes)
+ - [Starfield Contains A Magic Mud Puddle That Will Make You Rich](https://kotaku.com/starfield-credits-exploit-puddle-chest-akila-city-bug-1850835189)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
