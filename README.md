@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to earn credits in Starfield is laughably simple: here&#39;s the ultimate way to get space-rich](https://www.pcgamer.com/starfield-how-to-make-money)
- - [Devs React To Unity&#39;s Newly Announced Fee For Game Installs: ‘Not To Be Trusted’ [UPDATE]](https://kotaku.com/unity-engine-subscription-cost-unreal-godot-indie-dev-1850831032)
- - [&#39;An astonishing scumbag move&#39;: Indie developers react to surprise Unity engine pricing changes](https://www.pcgamer.com/an-astonishing-scumbag-move-indie-developers-react-to-surprise-unity-engine-pricing-changes)<!-- GAME:END -->
+ - [Australia&#39;s answer to Fallout, Broken Roads has a release date](https://www.pcgamer.com/australias-answer-to-fallout-broken-roads-has-a-release-date)
+ - [Nvidia driver update should improve Starfield performance for many](https://www.pcgamer.com/nvidia-driver-update-should-improve-starfield-performance-for-many)
+ - [Big Games Big deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/09/12/big-games-big-deals-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
