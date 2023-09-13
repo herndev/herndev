@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why every game developer is mad right now, explained](https://www.pcgamer.com/why-every-game-developer-is-mad-right-now-explained)
- - [Mortal Kombat 1 is massive](https://www.polygon.com/23872510/mortal-kombat-1-impressions-story-invasions-towers)
- - [All Starfield factions you can join](https://www.polygon.com/starfield-guide/23856681/all-factions-list-best-faction-how-to-join)<!-- GAME:END -->
+ - [The best weapons in Starfield](https://www.polygon.com/starfield-guide/23862845/best-weapons-guns-eternitys-gate)
+ - [Islands of Insight is a shared-world puzzle game that&#39;s like The Talos Principle crossed with Myst, and I&#39;m having a great time with it](https://www.pcgamer.com/islands-of-insight-is-a-shared-world-puzzle-game-thats-like-the-talos-principle-crossed-with-myst-and-im-having-a-great-time-with-it)
+ - [Why every game developer is mad right now, explained](https://www.pcgamer.com/why-every-game-developer-is-mad-right-now-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
