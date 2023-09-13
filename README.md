@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [News sharing app Artifact adds Links, a new section where users can post any link and discover links through a Following page or an algorithmic For You page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230913/p34#a230913p34)
- - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
- - [Chromecast with Google TV can now stream PS5 games via PS Remote Play](https://www.androidauthority.com/chromecast-ps-remote-play-3364010/)<!-- TECH:END -->
+ - [California lawmaker proposes regulation of AI models](https://www.theverge.com/2023/9/13/23871866/california-lawmaker-ai-regulation-transparency)
+ - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
+ - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
