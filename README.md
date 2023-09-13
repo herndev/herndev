@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX confirms Starlink ‘network outage’](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
- - [Apple’s smart home app can now tell you when you’re using clean energy](https://www.theverge.com/2023/9/12/23871008/grid-forecast-apple-home-ios17)
- - [Binance.US CEO Brian Shroder departs, replaced on an interim basis by Chief Legal Officer Norman Reed, as the company cuts 100+ jobs, a third of its workforce &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230912/p53#a230912p53)<!-- TECH:END -->
+ - [SpaceX says Starlink ‘network issue’ has been resolved](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
+ - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
+ - [Sources: TSMC is frustrated with its Arizona plant and has growing confidence in Japan, where its $8.6B fab is on track to produce mature-tech chips in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230912/p54#a230912p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
