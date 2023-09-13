@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
- - [Google’s Pixel 7 Pro is matching its best price yet](https://www.theverge.com/2023/9/13/23869901/google-pixel-7-pro-eufy-security-smarttrack-card-apple-watch-series-8-deal-sale)
- - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
+ - [News sharing app Artifact adds Links, a new section where users can post any link and discover links through a Following page or an algorithmic For You page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230913/p34#a230913p34)
+ - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
+ - [Chromecast with Google TV can now stream PS5 games via PS Remote Play](https://www.androidauthority.com/chromecast-ps-remote-play-3364010/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
