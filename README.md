@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m digging Abriss, a physics puzzle game like Besiege set in a brutalist sci-fi dimension with rockets and lasers](https://www.pcgamer.com/im-digging-abriss-a-physics-puzzle-game-like-besiege-set-in-a-brutalist-sci-fi-dimension-with-rockets-and-lasers)
- - [Following Skyrim tradition, Starfield already has an alternate start mod that lets you skip the intro and begin in cooler parts of space](https://www.pcgamer.com/following-skyrim-tradition-starfield-already-has-an-alternate-start-mod-that-lets-you-skip-the-intro-and-begin-in-cooler-parts-of-space)
- - [After years of &#39;good enough&#39; PC ports, Armored Core 6 is the first game in FromSoftware&#39;s history truly born for mouse and keyboard](https://www.pcgamer.com/after-years-of-good-enough-pc-ports-armored-core-6-is-the-first-game-in-fromsoftwares-history-truly-born-for-mouse-and-keyboard)<!-- GAME:END -->
+ - [The best way to earn credits in Starfield is laughably simple: here&#39;s the ultimate way to get space-rich](https://www.pcgamer.com/starfield-how-to-make-money)
+ - [Devs React To Unity&#39;s Newly Announced Fee For Game Installs: ‘Not To Be Trusted’ [UPDATE]](https://kotaku.com/unity-engine-subscription-cost-unreal-godot-indie-dev-1850831032)
+ - [&#39;An astonishing scumbag move&#39;: Indie developers react to surprise Unity engine pricing changes](https://www.pcgamer.com/an-astonishing-scumbag-move-indie-developers-react-to-surprise-unity-engine-pricing-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
