@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ugly: How Indie Hardship Created Something Beautiful](https://news.xbox.com/en-us/2023/09/13/ugly-making-of/)
- - [Apple Wants Its New iPhone To Be Your Next Gaming Device](https://kotaku.com/apple-iphone-15-resident-evil-death-stranding-mirage-1850834197)
- - [Marvel VFX workers vote ‘yes’ to unionize](https://www.polygon.com/23823602/marvel-vfx-union-election-nlrb)<!-- GAME:END -->
+ - [Star Trek’s hysterical retro shorts need to become a real show](https://www.polygon.com/23871756/star-trek-animated-shorts-casper-kelly)
+ - [Unity Bosses Sold Stock Ahead Of Scummy Dev Fees Announcement](https://kotaku.com/unity-developer-fee-installs-john-riccitiello-sold-stoc-1850834439)
+ - [Pokémon Scarlet And Violet DLC Fixes Its Terrible Photo Mode&#39;s Biggest Flaw](https://kotaku.com/pokemon-scarlet-violet-photo-mode-selfie-roto-stick-1850834335)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
