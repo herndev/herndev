@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
- - ⏩ [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
- - 👉 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)<!-- MEMES:END -->
+ - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - ⏩ [Frontlines](http://9gag.com/gag/anz8W05)
+ - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
 
 ---
 
