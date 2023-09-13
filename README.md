@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley creator ConcernedApe has gotten better at drawing beds](https://www.polygon.com/gaming/23872393/stardew-valley-haunted-chocolatier-concernedape-eric-barone-bed-meme)
- - [The best planets for your first outpost in Starfield](https://www.polygon.com/starfield-guide/23861566/best-planets-for-outpost)
- - [Sony has a new State of Play coming Thursday](https://www.polygon.com/23872460/playstation-state-of-play-september-2023-ps5-psvr2)<!-- GAME:END -->
+ - [Why every game developer is mad right now, explained](https://www.pcgamer.com/why-every-game-developer-is-mad-right-now-explained)
+ - [Mortal Kombat 1 is massive](https://www.polygon.com/23872510/mortal-kombat-1-impressions-story-invasions-towers)
+ - [All Starfield factions you can join](https://www.polygon.com/starfield-guide/23856681/all-factions-list-best-faction-how-to-join)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
