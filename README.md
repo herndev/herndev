@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - ⏩ [Frontlines](http://9gag.com/gag/anz8W05)
- - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
+ - 💣 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
+ - ⏩ [The one and only](http://9gag.com/gag/ay2Zm18)
+ - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
 
 ---
 
