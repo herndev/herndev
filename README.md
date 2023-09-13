@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new PS5 update includes Dolby Atmos and the ability to mute the startup beep](https://www.theverge.com/2023/9/13/23871477/sony-ps5-update-dolby-atmos-beep-mute-second-controller-download-now)
- - [There is no official iPhone 15 sales ban in China, regulator confirms](https://appleinsider.com/articles/23/09/13/there-is-no-official-iphone-15-sales-ban-in-china-regulator-confirms?utm_medium=rss)
- - [Apple hikes the prices of the iPhone 15 range in China, Japan, India, and other markets, keeps prices flat in the US, and cuts prices in the UK by &amp;pound;50 to &amp;pound;100 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230913/p17#a230913p17)<!-- TECH:END -->
+ - [T-Mobile plans to acquire more 5G airwaves from Comcast, which is selling 600MHz spectrum licenses that the company is &quot;unlikely&quot; to need, for up to $3.3B &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p22#a230913p22)
+ - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
+ - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
