@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: the US DOJ claims Elon Musk repeatedly made decisions that likely ran afoul of a 2022 FTC order restricting Twitter&#39;s data security practices &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p57#a230912p57)
- - [Alibaba opens its AI model Tongyi Qianwen to the public and plans to make an open source version available for free commercial use &quot;by the whole society&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230912/p56#a230912p56)
- - [iPhone 15 Pro and Pro Max Hands-On: Titanium Frame, 5x Zoom Camera and Spatial Video     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-and-pro-max-hands-on-titanium-frame-5x-zoom-camera-and-spatial-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NGO Save the Children confirms a data breach after cybercrime group BianLian bragged that it had hit &quot;the world&#39;s leading nonprofit&quot; and stolen 6.8TB of data &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230913/p4#a230913p4)
+ - [The A17 Pro in iPhone 15 Pro and iPhone 15 Pro Max offers hardware-accelerated ray tracing; Qualcomm and Samsung have released ray tracing-capable mobile chips &lpar;Peter Cohen/AppleInsider&rpar;](http://www.techmeme.com/230913/p3#a230913p3)
+ - [Apple’s iPhone 15 Pro bests all Android phones in future smart home preparedness](https://www.androidauthority.com/apple-iphone-15-pro-thread-support-3363846/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
