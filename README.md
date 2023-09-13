@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
- - ⏩ [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
- - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
+ - 💣 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
+ - ⏩ [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - 👉 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)<!-- MEMES:END -->
 
 ---
 
