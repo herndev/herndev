@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile plans to acquire more 5G airwaves from Comcast, which is selling 600MHz spectrum licenses that the company is &quot;unlikely&quot; to need, for up to $3.3B &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p22#a230913p22)
- - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp is widely rolling out its Telegram-like Channels feature](https://www.theverge.com/2023/9/13/23871553/whatsapp-telegram-channels-feature-global-rollout)
+ - [iPhone users, welcome to the beautiful USB-C shit show](https://www.androidauthority.com/iphone-usb-c-pros-cons-3360323/)
+ - [New iOS 17 feature will help users rely more on renewable energy](https://appleinsider.com/articles/23/09/13/new-ios-17-feature-will-help-users-rely-more-on-renewable-energy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
