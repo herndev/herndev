@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple&#39;s new iPhone chip has us worried about TSMC&#39;s 3nm silicon and next-gen GPUs](https://www.pcgamer.com/apples-new-iphone-chip-has-us-worried-about-tsmcs-3nm-silicon-and-next-gen-gpus)
- - [New iPhone 15 Pro goes full Nvidia with ray tracing and upscaling](https://www.pcgamer.com/new-iphone-15-pro-goes-full-nvidia-with-ray-tracing-and-upscaling)
- - [&lpar;For Southeast Asia&rpar; Tokyo Game Show Sale comes to PlayStation Store](https://blog.playstation.com/2023/09/13/20230913-psstore/)<!-- GAME:END -->
+ - [Starfield: How to find the Almagest and win the jackpot](https://www.pcgamer.com/starfield-casino-location-almagest-jackpot)
+ - [Old School RuneScape punishes innovation, prevents player from using their own severed toe to skirt anti-botting rules](https://www.pcgamer.com/old-school-runescape-punishes-innovation-prevents-player-from-using-their-own-severed-toe-to-skirt-anti-botting-rules)
+ - [Mortal Kombat 1 won&#39;t have crossplay at launch, and it&#39;s unclear whether it&#39;ll eventually come to PC at all](https://www.pcgamer.com/mortal-kombat-1-wont-have-crossplay-at-launch-and-its-unclear-whether-itll-eventually-come-to-pc-at-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
