@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek’s hysterical retro shorts need to become a real show](https://www.polygon.com/23871756/star-trek-animated-shorts-casper-kelly)
- - [Unity Bosses Sold Stock Ahead Of Scummy Dev Fees Announcement](https://kotaku.com/unity-developer-fee-installs-john-riccitiello-sold-stoc-1850834439)
- - [Pokémon Scarlet And Violet DLC Fixes Its Terrible Photo Mode&#39;s Biggest Flaw](https://kotaku.com/pokemon-scarlet-violet-photo-mode-selfie-roto-stick-1850834335)<!-- GAME:END -->
+ - [Fright Krewe looks like the delightfully spooky animated adventure of my dreams](https://www.polygon.com/23871867/fright-krewe-trailer-release-date-horror-kids)
+ - [Destiny 2: The Final Shape pre-order guide](https://www.polygon.com/deals/23863424/destiny-2-the-final-shape-pre-order-buy-guide-annual-pass-collectors-edition)
+ - [The Saw franchise just won the Nicole Kidman AMC parody wars](https://www.polygon.com/2023/9/13/23872140/saw-x-nicole-kidman-amc-parody)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
