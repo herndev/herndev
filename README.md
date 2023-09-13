@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [We thought AMD&#39;s RX 7000-series was complete, but now the RX 7600 XT has broken cover](https://www.pcgamer.com/we-thought-amds-rx-7000-series-was-complete-but-now-the-rx-7600-xt-has-broken-cover)
  - [PAX Australia&#39;s turning 10, and putting on a big birthday show for the occasion](https://www.pcgamer.com/pax-australias-turning-10-and-putting-on-a-big-birthday-show-for-the-occasion)
- - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)
- - [NYT Connections puzzle hint and answers for Wednesday, September 13 &lpar;#94&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-wednesday-september-13-94)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
