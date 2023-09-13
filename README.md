@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla unveils Powerwall 3, this time with a built-in solar inverter](https://www.theverge.com/2023/9/13/23871576/tesla-powerwall-3-battery-solar-inverter-introduced)
- - [The US Army says Microsoft&#39;s improved HoloLens-based combat goggles passed their first round of intensive testing by soldiers, ahead of a key 2025 evaluation &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230913/p30#a230913p30)
- - [Xbox Game Pass Core is launching with 36 games this week](https://www.theverge.com/2023/9/13/23871737/xbox-game-pass-core-36-games-release-date)<!-- TECH:END -->
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
+ - [Google’s Pixel 7 Pro is matching its best price yet](https://www.theverge.com/2023/9/13/23869901/google-pixel-7-pro-eufy-security-smarttrack-card-apple-watch-series-8-deal-sale)
+ - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
