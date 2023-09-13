@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What To Expect on Day One with Xbox Game Pass Core](https://news.xbox.com/en-us/2023/09/13/game-pass-core-full-list/)
- - [STALKER 2 is a merciless trip down memory lane](https://www.polygon.com/23868686/stalker-2-heart-of-chornobyl-gameplay-demo-gamescom-2023)
- - [Diablo 4 stats boffin grinds over 400 Nightmare dungeons in 18 days for science, proves higher tiers mostly aren&#39;t worth the headache](https://www.pcgamer.com/diablo-4-stats-boffin-grinds-over-400-nightmare-dungeons-in-18-days-for-science-proves-higher-tiers-mostly-arent-worth-the-headache)<!-- GAME:END -->
+ - [You’re not gonna believe this, but The Morning Show went to space](https://www.polygon.com/23870629/the-morning-show-season-3-premiere-review-space-spaaaaace)
+ - [Where to find the Paradiso resort in Starfield](https://www.pcgamer.com/starfield-paradiso-location)
+ - [Starfield’s Fast Travel Cheapens Space’s Impact](https://kotaku.com/starfield-fast-travel-spaceship-explore-loading-screens-1850830701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
