@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
- - [US Senate&#39;s AI Insight Forum: Musk warns of AI risks, Zuckerberg defends open source, all guests agree the US needs to play a role in regulating AI, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230913/p43#a230913p43)
- - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)<!-- TECH:END -->
+ - [Arm prices its 95.5M shares at $51 a piece, raising $4.87B in 2023&#39;s largest IPO so far and giving the company a fully diluted valuation of ~$54.5B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230913/p44#a230913p44)
+ - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
+ - [Apple iPhone 15 vs. iPhone 15 Pro: Every Difference Between the New Phones     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-15-vs-iphone-15-pro-every-difference-between-the-new-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
