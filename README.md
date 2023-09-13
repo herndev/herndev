@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You’re not gonna believe this, but The Morning Show went to space](https://www.polygon.com/23870629/the-morning-show-season-3-premiere-review-space-spaaaaace)
- - [Where to find the Paradiso resort in Starfield](https://www.pcgamer.com/starfield-paradiso-location)
- - [Starfield’s Fast Travel Cheapens Space’s Impact](https://kotaku.com/starfield-fast-travel-spaceship-explore-loading-screens-1850830701)<!-- GAME:END -->
+ - [Tune in to Minecraft Live 2023 on October 15!](https://news.xbox.com/en-us/2023/09/13/tune-in-to-minecraft-live-2023-on-october-15/)
+ - [Lies of P carves a singular space out of the Soulsborne genre](https://www.polygon.com/reviews/23871592/lies-of-p-review-soulsborne-game-pass-pinocchio)
+ - [Xbox Game Pass Core Reveals All 36 Games Ahead Of Launch](https://kotaku.com/xbox-game-pass-core-games-forza-halo-among-us-stardew-1850833793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
