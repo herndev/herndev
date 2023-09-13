@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Poltchageist into Sinistcha in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23870167/poltchageist-sinistcha-forms-evolve-location-find)
- - [How to evolve Applin into Dipplin in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23868856/evolve-applin-dipplin-teal-mask)
- - [PS5 update rolls out globally with new accessibility, audio, and social feature enhancements](https://blog.playstation.com/2023/09/13/ps5-update-rolls-out-globally-with-new-accessibility-audio-and-social-feature-enhancements/)<!-- GAME:END -->
+ - [Apple&#39;s new iPhone chip has us worried about TSMC&#39;s 3nm silicon and next-gen GPUs](https://www.pcgamer.com/apples-new-iphone-chip-has-us-worried-about-tsmcs-3nm-silicon-and-next-gen-gpus)
+ - [New iPhone 15 Pro goes full Nvidia with ray tracing and upscaling](https://www.pcgamer.com/new-iphone-15-pro-goes-full-nvidia-with-ray-tracing-and-upscaling)
+ - [&lpar;For Southeast Asia&rpar; Tokyo Game Show Sale comes to PlayStation Store](https://blog.playstation.com/2023/09/13/20230913-psstore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
