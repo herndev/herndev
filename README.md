@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
- - ⏩ [The one and only](http://9gag.com/gag/ay2Zm18)
- - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
+ - 💣 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - ⏩ [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 
