@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - ⏩ [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
- - 👉 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)<!-- MEMES:END -->
+ - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
 
 ---
 
