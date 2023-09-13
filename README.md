@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ahsoka Series Episode 5 Review: The Ghost Of Anakin Skywalker](https://kotaku.com/ahsoka-tano-series-show-episode-5-review-recap-reaction-1850835116)
- - [Valve celebrates two decades of Steam with memes](https://www.polygon.com/gaming/2023/9/13/23871744/steam-20th-anniversary-art-valve-memes)
- - [Starfield Contains A Magic Mud Puddle That Will Make You Rich](https://kotaku.com/starfield-credits-exploit-puddle-chest-akila-city-bug-1850835189)<!-- GAME:END -->
+ - [Fae Farm has magically solved all my little gripes with cozy farm sims](https://www.pcgamer.com/fae-farm-has-magically-solved-all-my-little-gripes-with-cozy-farm-sims)
+ - [PS Plus September Games Are A Rad Grab Bag Of RPGs, Shooters](https://kotaku.com/playstation-plus-september-nier-replicant-13-sentinels-1850835468)
+ - [Pokémon Scarlet and Violet Ogerpon and mask guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23872193/catch-ogerpon-masks-type-the-teal-mask)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
