@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)
- - [Mila Kunis and Ashton Kutcher’s Stoner Cats NFTs must sober up, SEC orders](https://www.theverge.com/2023/9/13/23872048/stoner-cats-nft-sec-mila-kunis-ashton-kutcher)
- - [How the new iPhone 15 models differ from one another &lpar;and the iPhone 14&rpar;](https://www.theverge.com/23860594/iphone-15-vs-14-plus-pro-max-comparison-specs-price-apple)<!-- TECH:END -->
+ - [Google antitrust trial already getting formal protests from Apple](https://appleinsider.com/articles/23/09/13/google-antitrust-trial-already-getting-formal-protests-from-apple?utm_medium=rss)
+ - [Amazon announces generative AI tools to help sellers write &quot;captivating product descriptions, titles, and listing details&quot; and add to existing descriptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p39#a230913p39)
+ - [The full version of Baldur’s Gate 3 is coming to Mac soon](https://www.theverge.com/2023/9/13/23872350/baldurs-gate-3-bg3-mac-full-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
