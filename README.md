@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram plans to add the Open Network-based crypto wallet TON Space in November 2023 for all users outside the US, after rolling out to Wallet users now &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230913/p13#a230913p13)
- - [Huawei signs a global patent cross-licensing deal with Xiaomi, covering 5G and other communication tech; Chinese media reported in March that Huawei sued Xiaomi &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p12#a230913p12)
- - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Sony’s new PS5 update includes Dolby Atmos and the ability to mute the startup beep](https://www.theverge.com/2023/9/13/23871477/sony-ps5-update-dolby-atmos-beep-mute-second-controller-download-now)
+ - [There is no official iPhone 15 sales ban in China, regulator confirms](https://appleinsider.com/articles/23/09/13/there-is-no-official-iphone-15-sales-ban-in-china-regulator-confirms?utm_medium=rss)
+ - [Apple hikes the prices of the iPhone 15 range in China, Japan, India, and other markets, keeps prices flat in the US, and cuts prices in the UK by &amp;pound;50 to &amp;pound;100 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230913/p17#a230913p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
