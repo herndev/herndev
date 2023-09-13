@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s $60 iCloud Service Is the Future of Apple](https://www.wired.com/story/apple-60-dollar-icloud-storage-tier-is-the-future/)
- - [The iPhone 15 is the first phone to &lpar;almost&rpar; support Qi2 charging](https://www.theverge.com/2023/9/12/23870494/qi2-certification-iphone-15-magnetic-charging)
- - [A recap of the first day of US et al v. Google, as the DOJ argues that the company illegally protected its internet search monopoly via smartphone maker deals &lpar;New York Times&rpar;](http://www.techmeme.com/230912/p51#a230912p51)<!-- TECH:END -->
+ - [Apple releases detailed PDFs of iOS 17 and macOS Sonoma features](https://appleinsider.com/articles/23/09/12/apple-releases-detailed-pdfs-of-ios-17-and-macos-sonoma-features?utm_medium=rss)
+ - [IPhone 15 and USB-C: Expect a Cable Mess, but It Might Not Bug You     - CNET](https://www.cnet.com/tech/mobile/iphone-15-and-usb-c-expect-a-cable-mess-but-it-might-not-bug-you/#ftag=CAD590a51e)
+ - [Lyft now lets drivers prioritize matches with women and nonbinary riders](https://www.theverge.com/2023/9/12/23869996/lyft-women-plus-connect-women-nonbinary-drivers-riders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
