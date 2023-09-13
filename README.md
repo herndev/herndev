@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We thought AMD&#39;s RX 7000-series was complete, but now the RX 7600 XT has broken cover](https://www.pcgamer.com/we-thought-amds-rx-7000-series-was-complete-but-now-the-rx-7600-xt-has-broken-cover)
- - [PAX Australia&#39;s turning 10, and putting on a big birthday show for the occasion](https://www.pcgamer.com/pax-australias-turning-10-and-putting-on-a-big-birthday-show-for-the-occasion)
- - [Today&#39;s Wordle hint and answer #816: Wednesday, September 13](https://www.pcgamer.com/wordle-answer-today-hint-816-september-13)<!-- GAME:END -->
+ - [How to evolve Poltchageist into Sinistcha in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23870167/poltchageist-sinistcha-forms-evolve-location-find)
+ - [How to evolve Applin into Dipplin in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23868856/evolve-applin-dipplin-teal-mask)
+ - [PS5 update rolls out globally with new accessibility, audio, and social feature enhancements](https://blog.playstation.com/2023/09/13/ps5-update-rolls-out-globally-with-new-accessibility-audio-and-social-feature-enhancements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
