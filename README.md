@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So how can you measure it without doing weird stuff?](http://9gag.com/gag/aOxAA36)
- - ⏩ [Mission update: 9gaggers reached Baxmut region in donbass, handed over SUVs to combat paramedics and back to safety. Potato for everyone! P.s. This post has been blocked numerous times by 9gag, its my last attempt to post.](http://9gag.com/gag/amAKyzX)
- - 👉 [We go to hell together](http://9gag.com/gag/a8qQvYp)<!-- MEMES:END -->
+ - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - ⏩ [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
 
 ---
 
