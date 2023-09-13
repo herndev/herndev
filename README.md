@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/a1PBx88)
- - ⏩ [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
- - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
+ - 💣 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
+ - ⏩ [We go to hell together](http://9gag.com/gag/a8qQvYp)
+ - 👉 [Mission update: 9gaggers reached Baxmut region in donbass, handed over SUVs to combat paramedics and back to safety. Potato for everyone! P.s. This post has been blocked numerous times by 9gag, its my last attempt to post.](http://9gag.com/gag/amAKyzX)<!-- MEMES:END -->
 
 ---
 
