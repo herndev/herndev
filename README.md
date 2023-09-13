@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is widely rolling out its Telegram-like Channels feature](https://www.theverge.com/2023/9/13/23871553/whatsapp-telegram-channels-feature-global-rollout)
- - [iPhone users, welcome to the beautiful USB-C shit show](https://www.androidauthority.com/iphone-usb-c-pros-cons-3360323/)
- - [New iOS 17 feature will help users rely more on renewable energy](https://appleinsider.com/articles/23/09/13/new-ios-17-feature-will-help-users-rely-more-on-renewable-energy?utm_medium=rss)<!-- TECH:END -->
+ - [Nine wild details from the new Elon Musk biography](https://www.theverge.com/23871530/elon-musk-biography-twitter-acquisition)
+ - [Woman swallowed her AirPod after mistaking it for a vitamin](https://appleinsider.com/articles/23/09/13/woman-swallowed-her-airpod-after-mistaking-it-for-a-vitamin?utm_medium=rss)
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
