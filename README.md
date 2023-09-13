@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: How to find the Almagest and win the jackpot](https://www.pcgamer.com/starfield-casino-location-almagest-jackpot)
- - [Old School RuneScape punishes innovation, prevents player from using their own severed toe to skirt anti-botting rules](https://www.pcgamer.com/old-school-runescape-punishes-innovation-prevents-player-from-using-their-own-severed-toe-to-skirt-anti-botting-rules)
- - [Mortal Kombat 1 won&#39;t have crossplay at launch, and it&#39;s unclear whether it&#39;ll eventually come to PC at all](https://www.pcgamer.com/mortal-kombat-1-wont-have-crossplay-at-launch-and-its-unclear-whether-itll-eventually-come-to-pc-at-all)<!-- GAME:END -->
+ - [What To Expect on Day One with Xbox Game Pass Core](https://news.xbox.com/en-us/2023/09/13/game-pass-core-full-list/)
+ - [STALKER 2 is a merciless trip down memory lane](https://www.polygon.com/23868686/stalker-2-heart-of-chornobyl-gameplay-demo-gamescom-2023)
+ - [Diablo 4 stats boffin grinds over 400 Nightmare dungeons in 18 days for science, proves higher tiers mostly aren&#39;t worth the headache](https://www.pcgamer.com/diablo-4-stats-boffin-grinds-over-400-nightmare-dungeons-in-18-days-for-science-proves-higher-tiers-mostly-arent-worth-the-headache)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
