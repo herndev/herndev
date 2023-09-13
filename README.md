@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We go to hell together](http://9gag.com/gag/a8qQvYp)
- - ⏩ [Download before it disappears again](http://9gag.com/gag/awZPPVr)
- - 👉 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)<!-- MEMES:END -->
+ - 💣 [Crystal Ball](http://9gag.com/gag/a4omg8y)
+ - ⏩ [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
+ - 👉 [Smart answer to woke virtue signalling check.](http://9gag.com/gag/aQEBKq2)<!-- MEMES:END -->
 
 ---
 
