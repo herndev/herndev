@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Gurdurr into Conkeldurr in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873817/evolve-gurdurr-conkeldurr-teal-mask-trade-code)
- - [Pokémon Scarlet and Violet trade link codes make for easy trading](https://www.polygon.com/pokemon-scarlet-violet-guide/23475301/how-to-trade-link-codes-version-exclusives)
- - [Unity closes offices due to ‘credible death threat’](https://www.polygon.com/23873727/unity-credible-death-threat-offices-closed-pricing-change)<!-- GAME:END -->
+ - [Idris Elba Interview – How Cyberpunk 2077: Phantom Liberty Attracted Another Hollywood Superstar](https://news.xbox.com/en-us/2023/09/14/cyberpunk-2077-phantom-liberty-dlc-idris-elba-interview/)
+ - [Nintendo Is Doubling Down On Mario Games After The Super Mario Movie](https://kotaku.com/super-mario-bros-game-movie-paper-nintendo-switch-ds-1850839427)
+ - [Pokémon Scarlet &amp; Violet - The Teal Mask: The Kotaku Review](https://kotaku.com/pokemon-scarlet-violet-teal-mask-dlc-review-ogerpon-1850839564)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
