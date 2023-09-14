@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Dreamcast rail shooter from 2000 that never released in the west is coming to PC](https://www.pcgamer.com/a-dreamcast-rail-shooter-from-2000-that-never-released-in-the-west-is-coming-to-pc)
- - [AMD&#39;s next gen Threadripper Pro 7000-series chips come with up to 96 cores, and I long for consumer versions](https://www.pcgamer.com/amds-next-gen-threadripper-pro-7000-series-chips-come-with-up-to-96-cores-and-i-long-for-consumer-versions)
- - [Today&#39;s Wordle hint and answer #817: Thursday, September 14](https://www.pcgamer.com/wordle-answer-today-hint-817-september-14)<!-- GAME:END -->
+ - [NeueChair review](https://www.pcgamer.com/neuechair-office-gaming-chair-review)
+ - [Sapphire Nitro+ RX 7800 XT Review](https://www.pcgamer.com/sapphire-nitro-rx-7800-xt-review-performance)
+ - [A Dreamcast rail shooter from 2000 that never released in the west is coming to PC](https://www.pcgamer.com/a-dreamcast-rail-shooter-from-2000-that-never-released-in-the-west-is-coming-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
