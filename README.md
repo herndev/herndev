@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Instacart CEO Fidji Simo helped find new ways for the company to make money, including via expanding its ads and software, which made $406M in 2023 revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230914/p9#a230914p9)
- - [Apple&#39;s new &#39;pro&#39; Thunderbolt 4 and six-foot USB-C cables are bad, and you shouldn&#39;t buy them](https://appleinsider.com/articles/23/09/14/apples-new-pro-thunderbolt-4-and-six-foot-usb-c-cables-are-bad-and-you-shouldnt-buy-them?utm_medium=rss)
- - [iPhone 15 &amp; iPhone 15 Pro can connect to an external 4K display without dongles](https://appleinsider.com/articles/23/09/14/iphone-15-iphone-15-pro-can-connect-to-an-external-4k-display-without-dongles?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Microsoft&#39;s proposal to split Teams off into a standalone app did not satisfy EU regulators, who are readying a formal complaint against Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p12#a230914p12)
+ - [How Arm, bolstered by success in architecture, licensing, and ecosystem, is looking to maintain a sustainable model by raising prices, not chasing market share &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230914/p11#a230914p11)
+ - [Lenders allege that Indian edtech giant Byju&#39;s hid $533M in an obscure three-year-old hedge fund that once said it was based out of an IHOP restaurant in Miami &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p10#a230914p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
