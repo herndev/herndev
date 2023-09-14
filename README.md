@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 releases a paid cosmetic you can recreate for free in-game, and oh boy are people unhappy about it](https://www.pcgamer.com/ff14-releases-a-paid-cosmetic-you-can-recreate-for-free-in-game-and-oh-boy-are-people-unhappy-about-it)
- - [Phanteks denies it copied Lian Li in PC fan row set to go to California court](https://www.pcgamer.com/phanteks-denies-it-copied-lian-li-in-pc-fan-row-set-to-go-to-california-court)
- - [NeueChair review](https://www.pcgamer.com/neuechair-office-gaming-chair-review)<!-- GAME:END -->
+ - [Starfield relishes in Bethesda’s legacy of item hoarding](https://www.polygon.com/23871601/starfield-bethesda-history-of-hoarding)
+ - [How to watch today’s Nintendo Direct](https://www.polygon.com/23860361/nintendo-direct-september-2023-time-date-where-to-watch)
+ - [A Starfield fan has created Chunks&#39; baked beans, and I don&#39;t want to go to space anymore](https://www.pcgamer.com/a-starfield-fan-has-created-chunks-baked-beans-and-i-dont-want-to-go-to-space-anymore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
