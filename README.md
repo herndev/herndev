@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare 3 is a total nostalgia play, but dammit, it&#39;s working](https://www.pcgamer.com/call-of-duty-modern-warfare-3-is-a-total-nostalgia-play-but-dammit-its-working)
- - [Starfield ending: Should you side with the Hunter or Emissary?](https://www.pcgamer.com/starfield-hunter-emissary)
- - [Starfield&#39;s best free ships and where to find them](https://www.pcgamer.com/starfield-free-ships)<!-- GAME:END -->
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
