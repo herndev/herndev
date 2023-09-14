@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - ⏩ [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 👉 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)<!-- MEMES:END -->
+ - 💣 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - ⏩ [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 👉 [Worst people on earth](http://9gag.com/gag/aL1VZy5)<!-- MEMES:END -->
 
 ---
 
