@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FF14 releases a paid cosmetic you can recreate for free in-game, and oh boy are people unhappy about it](https://www.pcgamer.com/ff14-releases-a-paid-cosmetic-you-can-recreate-for-free-in-game-and-oh-boy-are-people-unhappy-about-it)
  - [Phanteks denies it copied Lian Li in PC fan row set to go to California court](https://www.pcgamer.com/phanteks-denies-it-copied-lian-li-in-pc-fan-row-set-to-go-to-california-court)
- - [NeueChair review](https://www.pcgamer.com/neuechair-office-gaming-chair-review)
- - [Sapphire Nitro+ RX 7800 XT Review](https://www.pcgamer.com/sapphire-nitro-rx-7800-xt-review-performance)<!-- GAME:END -->
+ - [NeueChair review](https://www.pcgamer.com/neuechair-office-gaming-chair-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
