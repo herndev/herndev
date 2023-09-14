@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #817: Thursday, September 14](https://www.pcgamer.com/wordle-answer-today-hint-817-september-14)
+ - [NYT Connections puzzle hint and answers for Thursday, September 14 &lpar;#95&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-thursday-september-14-95)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
