@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Sims 4 Cats and Dogs Bundle and Tiny Tina’s Wonderlands](https://news.xbox.com/en-us/2023/09/14/free-play-days-the-sims-4-cats-and-dogs-bundle-and-tiny-tinas-wonderlands/)
- - [Classic Nintendo Racer F-Zero Returns As A...Battle Royale](https://kotaku.com/nintendo-switch-direct-f-zero-99-battle-royale-racer-1850838042)
- - [Baldur&#39;s Gate 3&#39;s third patch has a release date, will bring the RPG to PC gaming&#39;s black sheep—the humble Mac](https://www.pcgamer.com/baldurs-gate-3s-third-patch-has-a-release-date-will-bring-the-rpg-to-pc-gamings-black-sheepthe-humble-mac)<!-- GAME:END -->
+ - [Get Sneak Peek at The First Descendant’s Compelling Heroes Ahead of its Open Beta Event on Xbox](https://news.xbox.com/en-us/2023/09/14/sneak-peek-at-the-first-descendants/)
+ - [Dogs biting staff, obscene sums spent on rappers, and eye-popping losses: How FaZe Clan was &#39;building a mythology&#39; bro](https://www.pcgamer.com/dogs-biting-staff-obscene-sums-spent-on-parties-and-no-revenue-how-faze-clan-was-building-a-mythology-bro)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
