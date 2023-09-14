@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity acknowledges the &quot;confusion and frustration&quot; about its planned install fees but argues that &quot;more than 90% of our customers will not be affected&quot; &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/230913/p45#a230913p45)
- - [Apple&#39;s iPhone 15 Pro vs. iPhone 14 Pro: What&#39;s New for 2023     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-15-pro-vs-iphone-14-pro-whats-new-for-2023/#ftag=CAD590a51e)
- - [iPhone 15 Pro, 15 Pro Max Specs vs. Galaxy S23 Ultra, Pixel 7 Pro, OnePlus 11     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-15-pro-max-specs-vs-galaxy-s23-ultra-pixel-7-pro-oneplus-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)
+ - [Monster Hunter Now strips the MonHun experience down to its very basics](https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android)
+ - [Sources: Caesars Entertainment paid tens of millions of dollars to hackers who breached the company&#39;s systems in recent weeks and threatened to release the data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/230913/p47#a230913p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
