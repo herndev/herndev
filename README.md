@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - ⏩ [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
+ - 💣 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
+ - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 👉 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)<!-- MEMES:END -->
 
 ---
 
