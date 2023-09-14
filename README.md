@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Fashion`](http://9gag.com/gag/abvK8E8)
- - ⏩ [It\u2019s happening](http://9gag.com/gag/a3ZeOLv)
- - 👉 [I&#39;m offended](http://9gag.com/gag/aA0q5q2)<!-- MEMES:END -->
+ - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 👉 [R.I.P.](http://9gag.com/gag/a7qPx9r)<!-- MEMES:END -->
 
 ---
 
