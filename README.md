@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 👉 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)<!-- MEMES:END -->
+ - 💣 [Work b*tch](http://9gag.com/gag/a1PB34Y)
+ - ⏩ [No body cares](http://9gag.com/gag/a6q4Rz2)
+ - 👉 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)<!-- MEMES:END -->
 
 ---
 
