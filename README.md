@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - ⏩ [When they told me to trust nobody, I should have listened\u2026](http://9gag.com/gag/amAK474)
- - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
+ - 💣 [I never knew... wtf is that sht ??](http://9gag.com/gag/aqeBoOP)
+ - ⏩ [Are your sons so much like you?](http://9gag.com/gag/aVb4y1y)
+ - 👉 [Another stick post](http://9gag.com/gag/a5Xv0xy)<!-- MEMES:END -->
 
 ---
 
