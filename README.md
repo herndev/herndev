@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Behind EA&#39;s Magical FPS Game Lays Off Half Its Staff After Low Sales](https://kotaku.com/ea-lay-offs-magic-fps-immortals-of-aveum-ascendant-1850839969)
- - [How to evolve Gligar into Gliscor in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873843/evolve-gligar-gliscor-trade-codes-razor-fang-location)
- - [Netflix’s One Piece live-action series is coming back for season 2](https://www.polygon.com/23873910/one-piece-live-action-netflix-series-season-2)<!-- GAME:END -->
+ - [The 2023 Starter Kit for Magic: The Gathering is now available](https://www.polygon.com/deals/2023/9/14/23874053/2023-magic-the-gathering-mtg-starter-kit-where-to-buy)
+ - [All the biggest announcements from PlayStation’s new State of Play](https://www.polygon.com/23874130/playstation-state-of-play-showcase-september-2023-all-games-summary-recap)
+ - [Final Fantasy VII Rebirth&#39;s New Trailer Gives Us A Peek At Vincent Valentine](https://kotaku.com/final-fantasy-vii-rebirth-vincent-valentine-release-dat-1850840156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
