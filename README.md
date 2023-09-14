@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - ⏩ [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 👉 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)<!-- MEMES:END -->
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - ⏩ [R.I.P.](http://9gag.com/gag/a7qPx9r)
+ - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
 
 ---
 
