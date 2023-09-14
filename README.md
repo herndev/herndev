@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Lays Off Half The Staff Behind Magical FPS Game After Low Sales](https://kotaku.com/ea-lay-offs-magic-fps-immortals-of-aveum-ascendant-1850839969)
- - [Unity temporarily closes offices and cancels CEO meeting after receiving &#39;potential threat&#39;](https://www.pcgamer.com/unity-temporarily-closes-offices-and-cancels-ceo-meeting-after-receiving-potential-threat)
- - [Idris Elba Interview – How Cyberpunk 2077: Phantom Liberty Attracted Another Hollywood Superstar](https://news.xbox.com/en-us/2023/09/14/cyberpunk-2077-phantom-liberty-dlc-idris-elba-interview/)<!-- GAME:END -->
+ - [Studio Behind EA&#39;s Magical FPS Game Lays Off Half Its Staff After Low Sales](https://kotaku.com/ea-lay-offs-magic-fps-immortals-of-aveum-ascendant-1850839969)
+ - [How to evolve Gligar into Gliscor in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873843/evolve-gligar-gliscor-trade-codes-razor-fang-location)
+ - [Netflix’s One Piece live-action series is coming back for season 2](https://www.polygon.com/23873910/one-piece-live-action-netflix-series-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
