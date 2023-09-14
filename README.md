@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best weapons in Starfield](https://www.polygon.com/starfield-guide/23862845/best-weapons-guns-eternitys-gate)
- - [Islands of Insight is a shared-world puzzle game that&#39;s like The Talos Principle crossed with Myst, and I&#39;m having a great time with it](https://www.pcgamer.com/islands-of-insight-is-a-shared-world-puzzle-game-thats-like-the-talos-principle-crossed-with-myst-and-im-having-a-great-time-with-it)
- - [Why every game developer is mad right now, explained](https://www.pcgamer.com/why-every-game-developer-is-mad-right-now-explained)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare 3 is a total nostalgia play, but dammit, it&#39;s working](https://www.pcgamer.com/call-of-duty-modern-warfare-3-is-a-total-nostalgia-play-but-dammit-its-working)
+ - [Starfield ending: Should you side with the Hunter or Emissary?](https://www.pcgamer.com/starfield-hunter-emissary)
+ - [Starfield&#39;s best free ships and where to find them](https://www.pcgamer.com/starfield-free-ships)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
