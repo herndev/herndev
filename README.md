@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe reports Q3 revenue up 10% YoY to $4.89B, vs. $4.87B est., Digital Media revenue up 11% YoY to $3.59B, and Digital Experience revenue up 10% YoY to $1.23B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230914/p36#a230914p36)
- - [Here’s a look at the expanded New York City in Marvel’s Spider-Man 2](https://www.theverge.com/23874289/marvels-spider-man-2-playstation-state-of-play-trailer-nyc-map)
- - [Netflix’s live-action One Piece to set sail with even more episodes](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement)<!-- TECH:END -->
+ - [DoorDash plans to transfer its listing from the New York Stock Exchange to the Nasdaq and begin trading on September 27, 2023, under the same symbol DASH &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230914/p37#a230914p37)
+ - [Bose announces new Ultra line of headphones with spatial audio](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-launch-3364519/)
+ - [Disney reportedly held talks about selling ABC](https://www.theverge.com/2023/9/14/23874313/disney-sell-abc-nexstar-local-media-group)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
