@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai Kona Electric 2024 Review: Price, Specs, Release Date](https://www.wired.com/review/review-hyundai-kona-electric-2024/)
- - [Tesla’s new car-building process could be a huge industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
- - [Meta’s Horizon Worlds social platform is finally coming to mobile and the web](https://www.theverge.com/2023/9/14/23873820/meta-horizon-worlds-mobile-web-vr-early-access-release)<!-- TECH:END -->
+ - [Hulu’s new top 15 row might make it easier to find something to watch](https://www.theverge.com/2023/9/14/23873905/hulu-top-15-row-popular-shows-movies)
+ - [Developers respond to Unity’s new pricing scheme](https://www.theverge.com/2023/9/14/23872330/unity-developers-react-new-pricing-model)
+ - [The Biden administration asks SCOTUS to pause a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230914/p29#a230914p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
