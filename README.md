@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu’s new top 15 row might make it easier to find something to watch](https://www.theverge.com/2023/9/14/23873905/hulu-top-15-row-popular-shows-movies)
- - [Developers respond to Unity’s new pricing scheme](https://www.theverge.com/2023/9/14/23872330/unity-developers-react-new-pricing-model)
- - [The Biden administration asks SCOTUS to pause a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230914/p29#a230914p29)<!-- TECH:END -->
+ - [X CEO Linda Yaccarino starts bringing in her executive team](https://www.theverge.com/2023/9/14/23874008/x-ceo-linda-yaccarino-executive-team-memo)
+ - [Nothing confirms when it will launch its first smartwatch](https://www.androidauthority.com/nothing-smartwatch-launch-3364491/)
+ - [Apple Watch glucose tracker gets Apple Silicon executive as project lead](https://appleinsider.com/articles/23/09/14/apple-watch-glucose-tracker-gets-apple-silicon-executive-as-project-lead?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
