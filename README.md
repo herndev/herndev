@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fossil Gen 6 smartwatch hits its 2nd lowest price ever at just $173](https://www.androidauthority.com/fossil-gen-6-smartwatch-deal-3364403/)
- - [Google plans to offer Chromebook software updates for up to 10 years, starting in 2024, so no current device expires within the next two years, to help schools &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p22#a230914p22)
- - [Apple TV+ expands kids slate with spooky &#39;Curses!&#39; and more](https://appleinsider.com/articles/23/09/14/apple-tv-expands-kids-slate-with-spooky-curses-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Greater Manchester Police confirm a ransomware attack on its ID supplier, potentially exposing officer identities, one month after a breach in Northern Ireland &lpar;BBC&rpar;](http://www.techmeme.com/230914/p26#a230914p26)
+ - [MGM was likely hacked by &quot;Scattered Spider&quot;, an English-speaking group that previously used help desk phone calls to get passwords and planned to hack the slots &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230914/p25#a230914p25)
+ - [Hades II will launch in early access in 2024](https://www.theverge.com/2023/9/14/23873654/hades-ii-early-access-launch-q2-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
