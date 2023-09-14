@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X CEO Linda Yaccarino starts bringing in her executive team](https://www.theverge.com/2023/9/14/23874008/x-ceo-linda-yaccarino-executive-team-memo)
- - [Nothing confirms when it will launch its first smartwatch](https://www.androidauthority.com/nothing-smartwatch-launch-3364491/)
- - [Apple Watch glucose tracker gets Apple Silicon executive as project lead](https://appleinsider.com/articles/23/09/14/apple-watch-glucose-tracker-gets-apple-silicon-executive-as-project-lead?utm_medium=rss)<!-- TECH:END -->
+ - [Why everyone in the podcast world is mad at Kast Media](https://www.theverge.com/2023/9/14/23874141/podcast-kast-media-colin-thomson-whitney-cummings-theo-von-one)
+ - [Surface Laptop Studio 2 leak: Intel 13th Gen, RTX 4060, and a microSD slot](https://www.theverge.com/2023/9/14/23874096/microsoft-surface-laptop-studio-2-leak-specs)
+ - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
