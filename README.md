@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft&#39;s proposal to split Teams off into a standalone app did not satisfy EU regulators, who are readying a formal complaint against Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p12#a230914p12)
- - [How Arm, bolstered by success in architecture, licensing, and ecosystem, is looking to maintain a sustainable model by raising prices, not chasing market share &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230914/p11#a230914p11)
- - [Lenders allege that Indian edtech giant Byju&#39;s hid $533M in an obscure three-year-old hedge fund that once said it was based out of an IHOP restaurant in Miami &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p10#a230914p10)<!-- TECH:END -->
+ - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
+ - [Twelve South’s new HiRise 3 Deluxe is for StandBy Mode and charging all your Apple stuff](https://www.theverge.com/2023/9/14/23872638/twelve-south-hirise-3-deluxe-iphone-charging-stand)
+ - [Honda’s Motocompacto scooter will satisfy your secret desire to ride an electric suitcase to work](https://www.theverge.com/2023/9/14/23872334/honda-motocompacto-electric-scooter-photo-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
