@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Greater Manchester Police confirm a ransomware attack on its ID supplier, potentially exposing officer identities, one month after a breach in Northern Ireland &lpar;BBC&rpar;](http://www.techmeme.com/230914/p26#a230914p26)
- - [MGM was likely hacked by &quot;Scattered Spider&quot;, an English-speaking group that previously used help desk phone calls to get passwords and planned to hack the slots &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230914/p25#a230914p25)
- - [Hades II will launch in early access in 2024](https://www.theverge.com/2023/9/14/23873654/hades-ii-early-access-launch-q2-2024)<!-- TECH:END -->
+ - [Hyundai Kona Electric 2024 Review: Price, Specs, Release Date](https://www.wired.com/review/review-hyundai-kona-electric-2024/)
+ - [Tesla’s new car-building process could be a huge industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
+ - [Meta’s Horizon Worlds social platform is finally coming to mobile and the web](https://www.theverge.com/2023/9/14/23873820/meta-horizon-worlds-mobile-web-vr-early-access-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
