@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
- - [Twelve South’s new HiRise 3 Deluxe is for StandBy Mode and charging all your Apple stuff](https://www.theverge.com/2023/9/14/23872638/twelve-south-hirise-3-deluxe-iphone-charging-stand)
- - [Honda’s Motocompacto scooter will satisfy your secret desire to ride an electric suitcase to work](https://www.theverge.com/2023/9/14/23872334/honda-motocompacto-electric-scooter-photo-specs-price)<!-- TECH:END -->
+ - [HiRise 3 Deluxe review: A luxurious, Apple-blessed MagSafe charger](https://appleinsider.com/articles/23/09/14/hirise-3-deluxe-review-a-luxurious-apple-blessed-magsafe-charger?utm_medium=rss)
+ - [No, This Is Not an Alien. Here’s Why](https://www.wired.com/story/mexico-congress-aliens-fake/)
+ - [Samsung’s new Tab S9 tablet comes with a free storage upgrade and $100 Amazon gift card](https://www.theverge.com/2023/9/14/23872036/samsung-galaxy-tab-s9-google-pixel-6a-android-xbox-elite-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
