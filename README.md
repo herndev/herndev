@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
- - ⏩ [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
- - 👉 [Worst people on earth](http://9gag.com/gag/aL1VZy5)<!-- MEMES:END -->
+ - ⏩ [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 
