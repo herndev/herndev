@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - ⏩ [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 💣 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
+ - ⏩ [When they told me to trust nobody, I should have listened\u2026](http://9gag.com/gag/amAK474)
+ - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
 
 ---
 
