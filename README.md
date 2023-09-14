@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Idris Elba Interview – How Cyberpunk 2077: Phantom Liberty Attracted Another Hollywood Superstar](https://news.xbox.com/en-us/2023/09/14/cyberpunk-2077-phantom-liberty-dlc-idris-elba-interview/)
- - [Nintendo Is Doubling Down On Mario Games After The Super Mario Movie](https://kotaku.com/super-mario-bros-game-movie-paper-nintendo-switch-ds-1850839427)
- - [Pokémon Scarlet &amp; Violet - The Teal Mask: The Kotaku Review](https://kotaku.com/pokemon-scarlet-violet-teal-mask-dlc-review-ogerpon-1850839564)<!-- GAME:END -->
+ - [EA Lays Off Half The Staff Behind Magical FPS Game After Low Sales](https://kotaku.com/ea-lay-offs-magic-fps-immortals-of-aveum-ascendant-1850839969)
+ - [Unity temporarily closes offices and cancels CEO meeting after receiving &#39;potential threat&#39;](https://www.pcgamer.com/unity-temporarily-closes-offices-and-cancels-ceo-meeting-after-receiving-potential-threat)
+ - [Idris Elba Interview – How Cyberpunk 2077: Phantom Liberty Attracted Another Hollywood Superstar](https://news.xbox.com/en-us/2023/09/14/cyberpunk-2077-phantom-liberty-dlc-idris-elba-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
