@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Phanteks denies it copied Lian Li in PC fan row set to go to California court](https://www.pcgamer.com/phanteks-denies-it-copied-lian-li-in-pc-fan-row-set-to-go-to-california-court)
  - [NeueChair review](https://www.pcgamer.com/neuechair-office-gaming-chair-review)
- - [Sapphire Nitro+ RX 7800 XT Review](https://www.pcgamer.com/sapphire-nitro-rx-7800-xt-review-performance)
- - [A Dreamcast rail shooter from 2000 that never released in the west is coming to PC](https://www.pcgamer.com/a-dreamcast-rail-shooter-from-2000-that-never-released-in-the-west-is-coming-to-pc)<!-- GAME:END -->
+ - [Sapphire Nitro+ RX 7800 XT Review](https://www.pcgamer.com/sapphire-nitro-rx-7800-xt-review-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
