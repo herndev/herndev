@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HiRise 3 Deluxe review: A luxurious, Apple-blessed MagSafe charger](https://appleinsider.com/articles/23/09/14/hirise-3-deluxe-review-a-luxurious-apple-blessed-magsafe-charger?utm_medium=rss)
- - [No, This Is Not an Alien. Here’s Why](https://www.wired.com/story/mexico-congress-aliens-fake/)
- - [Samsung’s new Tab S9 tablet comes with a free storage upgrade and $100 Amazon gift card](https://www.theverge.com/2023/9/14/23872036/samsung-galaxy-tab-s9-google-pixel-6a-android-xbox-elite-deal-sale)<!-- TECH:END -->
+ - [League of Legends’ Song of Nunu spinoff gets a release date](https://www.theverge.com/2023/9/14/23873249/league-of-legends-song-of-nunu-spinoff-release-date-price)
+ - [The Nintendo Museum will be finished by March](https://www.theverge.com/2023/9/14/23873357/nintendo-museum-2024-gallery-history-uji-kyoto)
+ - [The coolest smart home gadgets I saw in Berlin](https://www.theverge.com/23863589/favorite-smart-home-gadgets-ifa-2023-tech-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
