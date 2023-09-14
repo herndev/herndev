@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Plan B: After the failed Nvidia sale, Arm goes public for $54.5B](https://www.pcgamer.com/plan-b-after-the-failed-nvidia-sale-arm-goes-public-for-dollar545b)
- - [Cyberpunk 2077 2.0 update goes live on September 21, five days ahead of Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-20-update-goes-live-on-september-21-five-days-ahead-of-phantom-liberty)
- - [How to evolve Basculin into Basculegion in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873547/evolve-basculin-basculegion-teal-mask-location)<!-- GAME:END -->
+ - [How to evolve Gurdurr into Conkeldurr in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873817/evolve-gurdurr-conkeldurr-teal-mask-trade-code)
+ - [Pokémon Scarlet and Violet trade link codes make for easy trading](https://www.polygon.com/pokemon-scarlet-violet-guide/23475301/how-to-trade-link-codes-version-exclusives)
+ - [Unity closes offices due to ‘credible death threat’](https://www.polygon.com/23873727/unity-credible-death-threat-offices-closed-pricing-change)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
