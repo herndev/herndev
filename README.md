@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - ⏩ [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - ⏩ [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
 
 ---
 
