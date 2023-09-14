@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)
- - [Monster Hunter Now strips the MonHun experience down to its very basics](https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android)
- - [Sources: Caesars Entertainment paid tens of millions of dollars to hackers who breached the company&#39;s systems in recent weeks and threatened to release the data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/230913/p47#a230913p47)<!-- TECH:END -->
+ - [Tallinn-based digital forensics and incident response tools provider Binalyze raised a $19M Series A led by Molten Ventures, taking its total funding to ~$30M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230913/p48#a230913p48)
+ - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
+ - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
