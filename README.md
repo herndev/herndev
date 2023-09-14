@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I never knew... wtf is that sht ??](http://9gag.com/gag/aqeBoOP)
- - ⏩ [Are your sons so much like you?](http://9gag.com/gag/aVb4y1y)
- - 👉 [Another stick post](http://9gag.com/gag/a5Xv0xy)<!-- MEMES:END -->
+ - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - ⏩ [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
+ - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
 
 ---
 
