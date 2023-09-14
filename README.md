@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Sneak Peek at The First Descendant’s Compelling Heroes Ahead of its Open Beta Event on Xbox](https://news.xbox.com/en-us/2023/09/14/sneak-peek-at-the-first-descendants/)
- - [Dogs biting staff, obscene sums spent on rappers, and eye-popping losses: How FaZe Clan was &#39;building a mythology&#39; bro](https://www.pcgamer.com/dogs-biting-staff-obscene-sums-spent-on-parties-and-no-revenue-how-faze-clan-was-building-a-mythology-bro)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Plan B: After the failed Nvidia sale, Arm goes public for $54.5B](https://www.pcgamer.com/plan-b-after-the-failed-nvidia-sale-arm-goes-public-for-dollar545b)
+ - [Cyberpunk 2077 2.0 update goes live on September 21, five days ahead of Phantom Liberty](https://www.pcgamer.com/cyberpunk-2077-20-update-goes-live-on-september-21-five-days-ahead-of-phantom-liberty)
+ - [How to evolve Basculin into Basculegion in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23873547/evolve-basculin-basculegion-teal-mask-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
