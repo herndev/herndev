@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - 💣 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
  - ⏩ [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 👉 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)<!-- MEMES:END -->
 
 ---
 
