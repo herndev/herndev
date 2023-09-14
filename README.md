@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield relishes in Bethesda’s legacy of item hoarding](https://www.polygon.com/23871601/starfield-bethesda-history-of-hoarding)
- - [How to watch today’s Nintendo Direct](https://www.polygon.com/23860361/nintendo-direct-september-2023-time-date-where-to-watch)
- - [A Starfield fan has created Chunks&#39; baked beans, and I don&#39;t want to go to space anymore](https://www.pcgamer.com/a-starfield-fan-has-created-chunks-baked-beans-and-i-dont-want-to-go-to-space-anymore)<!-- GAME:END -->
+ - [Game devs say Unity’s big change puts studios at risk](https://www.polygon.com/23870247/unity-engine-pricing-model-install-fee)
+ - [Valve said Counter-Strike 2 would be out this summer, now says it &#39;launches soon&#39;](https://www.pcgamer.com/valve-said-counter-strike-2-would-be-out-this-summer-now-says-it-launches-soon)
+ - [The best Starfield quests, from corporate espionage to Alien-inspired horror](https://www.pcgamer.com/the-best-starfield-quests-from-corporate-espionage-to-alien-inspired-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
