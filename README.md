@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game devs say Unity’s big change puts studios at risk](https://www.polygon.com/23870247/unity-engine-pricing-model-install-fee)
- - [Valve said Counter-Strike 2 would be out this summer, now says it &#39;launches soon&#39;](https://www.pcgamer.com/valve-said-counter-strike-2-would-be-out-this-summer-now-says-it-launches-soon)
- - [The best Starfield quests, from corporate espionage to Alien-inspired horror](https://www.pcgamer.com/the-best-starfield-quests-from-corporate-espionage-to-alien-inspired-horror)<!-- GAME:END -->
+ - [Free Play Days – The Sims 4 Cats and Dogs Bundle and Tiny Tina’s Wonderlands](https://news.xbox.com/en-us/2023/09/14/free-play-days-the-sims-4-cats-and-dogs-bundle-and-tiny-tinas-wonderlands/)
+ - [Classic Nintendo Racer F-Zero Returns As A...Battle Royale](https://kotaku.com/nintendo-switch-direct-f-zero-99-battle-royale-racer-1850838042)
+ - [Baldur&#39;s Gate 3&#39;s third patch has a release date, will bring the RPG to PC gaming&#39;s black sheep—the humble Mac](https://www.pcgamer.com/baldurs-gate-3s-third-patch-has-a-release-date-will-bring-the-rpg-to-pc-gamings-black-sheepthe-humble-mac)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
