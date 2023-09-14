@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why everyone in the podcast world is mad at Kast Media](https://www.theverge.com/2023/9/14/23874141/podcast-kast-media-colin-thomson-whitney-cummings-theo-von-one)
- - [Surface Laptop Studio 2 leak: Intel 13th Gen, RTX 4060, and a microSD slot](https://www.theverge.com/2023/9/14/23874096/microsoft-surface-laptop-studio-2-leak-specs)
- - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)<!-- TECH:END -->
+ - [Adobe reports Q3 revenue up 10% YoY to $4.89B, vs. $4.87B est., Digital Media revenue up 11% YoY to $3.59B, and Digital Experience revenue up 10% YoY to $1.23B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230914/p36#a230914p36)
+ - [Here’s a look at the expanded New York City in Marvel’s Spider-Man 2](https://www.theverge.com/23874289/marvels-spider-man-2-playstation-state-of-play-trailer-nyc-map)
+ - [Netflix’s live-action One Piece to set sail with even more episodes](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
