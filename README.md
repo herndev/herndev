@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - ⏩ [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - ⏩ [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 
