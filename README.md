@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2023 Starter Kit for Magic: The Gathering is now available](https://www.polygon.com/deals/2023/9/14/23874053/2023-magic-the-gathering-mtg-starter-kit-where-to-buy)
- - [All the biggest announcements from PlayStation’s new State of Play](https://www.polygon.com/23874130/playstation-state-of-play-showcase-september-2023-all-games-summary-recap)
- - [Final Fantasy VII Rebirth&#39;s New Trailer Gives Us A Peek At Vincent Valentine](https://kotaku.com/final-fantasy-vii-rebirth-vincent-valentine-release-dat-1850840156)<!-- GAME:END -->
+ - [Final Fantasy 7: Rebirth is &#39;nearly 100 hours&#39; long, says director](https://www.pcgamer.com/final-fantasy-7-rebirth-is-nearly-100-hours-long-says-director)
+ - [State of Play September 2023: All trailers and complete recap](https://blog.playstation.com/2023/09/14/state-of-play-september-2023-all-trailers-and-complete-recap/)
+ - [Hades 2 launches in early access in 2024, will aim to repeat what made the first game a surprise hit](https://www.pcgamer.com/hades-2-hits-early-access-in-2024-will-aim-to-repeat-what-made-the-first-game-a-surprise-hit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
