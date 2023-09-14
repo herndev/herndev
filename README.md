@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
- - ⏩ [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 👉 [Rekt](http://9gag.com/gag/aBdjbrP)<!-- MEMES:END -->
+ - 💣 [`Fashion`](http://9gag.com/gag/abvK8E8)
+ - ⏩ [It\u2019s happening](http://9gag.com/gag/a3ZeOLv)
+ - 👉 [I&#39;m offended](http://9gag.com/gag/aA0q5q2)<!-- MEMES:END -->
 
 ---
 
