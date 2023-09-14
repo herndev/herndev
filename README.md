@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s next gen Threadripper Pro 7000-series chips come with up to 96 cores, and I long for consumer versions](https://www.pcgamer.com/amds-next-gen-threadripper-pro-7000-series-chips-come-with-up-to-96-cores-and-i-long-for-consumer-versions)
  - [Today&#39;s Wordle hint and answer #817: Thursday, September 14](https://www.pcgamer.com/wordle-answer-today-hint-817-september-14)
- - [NYT Connections puzzle hint and answers for Thursday, September 14 &lpar;#95&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-thursday-september-14-95)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)<!-- GAME:END -->
+ - [NYT Connections puzzle hint and answers for Thursday, September 14 &lpar;#95&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-thursday-september-14-95)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
