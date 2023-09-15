@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next League spinoff is a farming sim from the Graveyard Keeper devs](https://www.pcgamer.com/the-next-league-spinoff-is-a-farming-sim-from-the-graveyard-keeper-devs)
- - [This Week on Xbox: Mortal Kombat 1 Early Access, Game Pass Core, and More](https://news.xbox.com/en-us/2023/09/15/this-week-on-xbox-mortal-kombat-1-early-access-game-pass-core-and-more/)
- - [The Best Final Fantasy VII Character Is Returning In Rebirth &lpar;And It’s Not Vincent&rpar;](https://kotaku.com/final-fantasy-7-rebirth-andrea-rhodea-honeybee-inn-1850843934)<!-- GAME:END -->
+ - [8 Lies Of P Tips To Help You Survive This Brutal New Soulslike](https://kotaku.com/lies-of-p-beginners-tips-bloodborne-health-dodge-outfit-1850844401)
+ - [Spider-Man 2 Will Have Ray Tracing Across All Visual Modes](https://kotaku.com/spider-man-2-ray-tracing-framerate-modes-playstation-5-1850844400)
+ - [Kotaku’s Weekend Guide: 5 Games To Kick Back With](https://kotaku.com/games-to-play-starfield-pokemon-the-crew-castlevania-1850843943)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
