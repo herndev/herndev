@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 listing reveals how much battery the phone really has](https://www.androidauthority.com/apple-iphone-15-battery-3364825/)
- - [Tim Cook picks an iPhone color, manages to praise them all](https://appleinsider.com/articles/23/09/15/tim-cook-picks-an-iphone-color-manages-to-praise-them-all?utm_medium=rss)
- - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)<!-- TECH:END -->
+ - [Forget the iPhone; get 50% off the ROG Phone 6 Batman Edition today](https://www.androidauthority.com/asus-rog-phone-6-batman-edition-deal-3364840/)
+ - [The Pixel Tablet is the best Android tablet. Here’s why.](https://www.androidauthority.com/pixel-tablet-best-android-tablet-3364638/)
+ - [X changes its crowdsourced fact-checking Community Notes feature to show contributors other note proposals and see other viewpoints before they submit a rating &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230915/p14#a230915p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
