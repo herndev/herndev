@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 7 Rebirth PC version might release within months of the PS5 version](https://www.pcgamer.com/final-fantasy-7-rebirth-is-nearly-100-hours-long-says-director)
  - [Every Starfield player should use these 3 essential mods](https://www.pcgamer.com/every-starfield-player-should-use-these-3-mods)
- - [The best armor in Starfield](https://www.polygon.com/starfield-guide/23874405/best-armor-spacesuits)
- - [Final Fantasy VII Rebirth Collector’s Edition Costs An Astounding $350](https://kotaku.com/ff7-final-fantasy-vii-rebirth-collector-s-edition-350-1850840877)<!-- GAME:END -->
+ - [The best armor in Starfield](https://www.polygon.com/starfield-guide/23874405/best-armor-spacesuits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
