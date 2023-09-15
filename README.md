@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
- - ⏩ [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
+ - 💣 [The AI sound for dialogue on Prime is a bit better but everywhere else....](http://9gag.com/gag/abvKPL8)
+ - ⏩ [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 👉 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)<!-- MEMES:END -->
 
 ---
 
