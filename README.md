@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Wear OS smartwatch could launch with MIUI, Snapdragon W5 Plus Gen 1](https://www.androidauthority.com/xiaomi-watch-2-pro-render-specs-pricing-leak-3364710/)
- - [Playtika agrees to acquire Innplay Labs, a mobile game studio in Israel, for an upfront fee of $80M and as much as $300M in total &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230915/p7#a230915p7)
- - [Apple to issue iPhone 12 software update in France to address radiation concerns](https://www.theverge.com/2023/9/15/23874803/apple-iphone-12-france-radiation-update)<!-- TECH:END -->
+ - [Here’s all the carriers that get you an iPhone 15 for free](https://www.androidauthority.com/heres-all-the-carriers-that-get-you-an-iphone-15-for-free-3364747/)
+ - [The most popular Google Doodle games](https://www.androidauthority.com/popular-google-doodle-games-3364681/)
+ - [Apple will issue iOS update to appease France over RF exposure row](https://appleinsider.com/articles/23/09/15/apple-will-issue-ios-update-to-appease-france-over-rf-exposure-row?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
