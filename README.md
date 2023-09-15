@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
- - [Today&#39;s Wordle hint and answer #818: Friday, September 15](https://www.pcgamer.com/wordle-answer-today-hint-818-september-15)
- - [Honkai: Star Rail hits PS5 on October 11 — new story and combat details revealed](https://blog.playstation.com/2023/09/14/honkai-star-rail-hits-ps5-on-october-11-new-story-and-combat-details-revealed/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
+ - [Today&#39;s Wordle hint and answer #818: Friday, September 15](https://www.pcgamer.com/wordle-answer-today-hint-818-september-15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
