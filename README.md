@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hit the Pitch Early in EA Sports FC 24 With EA Play](https://news.xbox.com/en-us/2023/09/15/ea-play-member-rewards-for-september/)
- - [Hey Young People, The OG Tomb Raider Games Are Getting Remastered](https://kotaku.com/tomb-raider-remastered-lara-croft-ps5-xbox-series-x-pc-1850843058)
- - [Official PlayStation Podcast Episode 468: Gaming Gigablast](https://blog.playstation.com/2023/09/15/official-playstation-podcast-episode-468-gaming-gigablast/)<!-- GAME:END -->
+ - [Band of Brothers, now on Netflix, is still a tremendous entry into WWII history](https://www.polygon.com/what-to-watch/23870105/band-of-brothers-netflix-recommendations-wwii-movies-books)
+ - [Nexus Mods Fine With Bigots Leaving Over Removed Starfield ‘Pronoun’ Mod](https://kotaku.com/nexus-mods-starfield-pronouns-removal-deleted-why-woke-1850843599)
+ - [This Intense Cyberpunk 2077 Trailer Is Also A Great Phantom Liberty Primer](https://kotaku.com/cyberpunk-2077-phantom-liberty-cinematic-idris-elba-1850843432)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
