@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why black men dont date black women](http://9gag.com/gag/aGE63v7)
- - ⏩ [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
+ - 💣 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
+ - ⏩ [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
+ - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
 
 ---
 
