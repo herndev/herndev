@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Crew Motorfest Is A Wackier, More Frustrating Forza Horizon](https://kotaku.com/the-crew-motorfest-cars-planes-review-forza-horizon-1850840298)
- - [Genshin Impact version 4.1: To the Stars Shining in the Depths out September 27](https://blog.playstation.com/2023/09/15/genshin-impact-version-4-1-to-the-stars-shining-in-the-depths-out-september-27/)
- - [The new Zelda and ‘hot’ Ganondorf amiibo are available for pre-order](https://www.polygon.com/deals/23874232/princess-zelda-ganondorf-amiibo-pre-order-buy)<!-- GAME:END -->
+ - [The unbelievable true story behind the pretty good horror movie The Possession](https://www.polygon.com/23874066/possession-movie-dybbuk-box-real-curses-slender-man)
+ - [Donald Glover’s Lando Star Wars show thankfully rejiggered to be Donald Glover’s Lando Star Wars movie](https://www.polygon.com/star-wars/23874957/lando-star-wars-movie-donald-glover)
+ - [Digital Eclipse is remaking the original Wizardry, and you can play it right now](https://www.pcgamer.com/digital-eclipse-is-remaking-the-original-wizardry-and-you-can-play-it-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
