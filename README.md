@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dixit’s Disney Edition is now available at Barnes &amp; Noble](https://www.polygon.com/deals/23872573/dixit-disney-edition-barnes-noble-where-to-buy)
- - [Amnesia: The Bunker&#39;s Halloween update plans to make this year&#39;s scariest game even more terrifying](https://www.pcgamer.com/amnesia-the-bunkers-halloween-update-plans-to-make-this-years-scariest-game-even-more-terrifying)
- - [All Genshin Impact codes from the version 4.1 livestream](https://www.pcgamer.com/genshin-impact-codes-4-1-livestream)<!-- GAME:END -->
+ - [The Crew Motorfest Is A Wackier, More Frustrating Forza Horizon](https://kotaku.com/the-crew-motorfest-cars-planes-review-forza-horizon-1850840298)
+ - [Genshin Impact version 4.1: To the Stars Shining in the Depths out September 27](https://blog.playstation.com/2023/09/15/genshin-impact-version-4-1-to-the-stars-shining-in-the-depths-out-september-27/)
+ - [The new Zelda and ‘hot’ Ganondorf amiibo are available for pre-order](https://www.polygon.com/deals/23874232/princess-zelda-ganondorf-amiibo-pre-order-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
