@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
- - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)
- - [The next emoji coming to your phone include head shakes and a phoenix](https://www.theverge.com/2023/9/14/23874429/emoji-15-1-head-shakes-phoenix-lime)<!-- TECH:END -->
+ - [Google agrees to pay California $93M to settle a lawsuit accusing the company of tracking users&#39; location for commercial gain even after they opted out &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230914/p41#a230914p41)
+ - [The US Senate Armed Services Committee is probing national security issues raised by Elon Musk&#39;s denial to extend Starlink to aid a Ukrainian attack on Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p40#a230914p40)
+ - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
