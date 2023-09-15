@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 👉 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)<!-- MEMES:END -->
+ - 💣 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - ⏩ [Sick wheelie](http://9gag.com/gag/aeQynqq)
+ - 👉 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)<!-- MEMES:END -->
 
 ---
 
