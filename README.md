@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - ⏩ [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 👉 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)<!-- MEMES:END -->
+ - 💣 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
+ - ⏩ [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
 
 ---
 
