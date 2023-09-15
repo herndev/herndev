@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’ve got all the best AT&amp;T iPhone 15 deals rounded up for you here](https://www.androidauthority.com/att-iphone-15-deals-3364888/)
- - [Google to pay California $93 million over location-tracking claims](https://www.theverge.com/2023/9/15/23875137/google-location-tracking-settlement-93-million-california)
- - [Apple&#39;s new iCloud+ tiers are too much for consumers, too little for professionals](https://appleinsider.com/articles/23/09/15/apples-new-icloud-tiers-are-too-much-for-consumers-too-little-for-professionals?utm_medium=rss)<!-- TECH:END -->
+ - [X continues to throttle links to competitors](https://www.theverge.com/2023/9/15/23875251/x-twitter-links-throttling-facebook-instagram-threads)
+ - [Valve is taking up to 20 percent off the Steam Deck to celebrate Steam’s 20th anniversary](https://www.theverge.com/2023/9/15/23873858/steam-deck-docking-station-google-pixel-watch-apple-gift-card-deal-sale)
+ - [How some Chinese data labeling companies hired by Baidu, Alibaba, and JD.com to train AI are exploiting vocational school students via data labeling internships &lpar;Rest of World&rpar;](http://www.techmeme.com/230915/p15#a230915p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
