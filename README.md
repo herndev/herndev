@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - ⏩ [What she is trying?](http://9gag.com/gag/a4omO8w)
- - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
+ - 💣 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - ⏩ [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 👉 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)<!-- MEMES:END -->
 
 ---
 
