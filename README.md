@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - ⏩ [Sick wheelie](http://9gag.com/gag/aeQynqq)
- - 👉 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)<!-- MEMES:END -->
+ - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - ⏩ [Currucuuu! Currucuuu!](http://9gag.com/gag/aQEBWr8)
+ - 👉 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)<!-- MEMES:END -->
 
 ---
 
