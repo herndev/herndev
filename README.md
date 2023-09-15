@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is exploring whether to show ads in WhatsApp and charge a subscription fee to use the app without ads; WhatsApp denies working on such a feature &lpar;Financial Times&rpar;](http://www.techmeme.com/230915/p1#a230915p1)
- - [Sources: Google has given a small group of companies access to an early version of its Gemini AI model, as the company nears a launch of the GPT-4 rival &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230914/p43#a230914p43)
- - [Apple attempts to control the message around France&#39;s iPhone 12 RF radiation debacle](https://appleinsider.com/articles/23/09/15/apple-attempts-to-control-the-message-around-frances-iphone-12-rf-radiation-debacle?utm_medium=rss)<!-- TECH:END -->
+ - [Teardown reveals Pixel Tablet wastes so much space on the inside](https://www.androidauthority.com/google-pixel-tablet-teardown-3364651/)
+ - [OnePlus could be working on a new smartwatch with Snapdragon W5 Gen 1](https://www.androidauthority.com/oneplus-watch-snapdragon-w5-gen-1-leak-3364647/)
+ - [Microsoft&#39;s Start news website published a garbled, seemingly AI-generated obit for former NBA player Brandon Hunter, headlined, &quot;Brandon Hunter useless at 42&quot; &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/230915/p2#a230915p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
