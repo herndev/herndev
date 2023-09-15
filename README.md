@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage camera and mic permissions on your desktop](https://www.theverge.com/23873983/camera-microphone-permissions-fix-how-to)
- - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
- - [Protect Your New iPhone 15 With 30% Off Moment Cases and Bundles     - CNET](https://www.cnet.com/deals/protect-your-new-iphone-15-with-30-off-moment-cases-and-bundles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 listing reveals how much battery the phone really has](https://www.androidauthority.com/apple-iphone-15-battery-3364825/)
+ - [Tim Cook picks an iPhone color, manages to praise them all](https://appleinsider.com/articles/23/09/15/tim-cook-picks-an-iphone-color-manages-to-praise-them-all?utm_medium=rss)
+ - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
