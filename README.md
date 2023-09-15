@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 15 vs. iPhone 13 series: Which one should you buy?](https://www.androidauthority.com/apple-iphone-15-vs-iphone-13-3364231/)
- - [Chinese regulator reveals iPhone 15 battery capacities have improved](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
- - [Sources: ByteDance and the US restart their negotiations over TikTok&#39;s operations, as calls to ban the wildly popular app have faded ahead of the 2024 election &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230915/p11#a230915p11)<!-- TECH:END -->
+ - [iPhone 15 Pro, Apple Watch S9 chip upgrade, iOS 17 feature list on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/15/iphone-15-pro-apple-watch-s9-chip-upgrade-ios-17-feature-list-on-the-appleinsider-podcast?utm_medium=rss)
+ - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
+ - [X can now ask users for government IDs to verify their paid accounts](https://www.theverge.com/2023/9/15/23874854/x-twitter-verification-government-id-paid-account-benefits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
