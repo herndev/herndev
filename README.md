@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Honor of Hispanic Heritage Month, Minecraft Education and Hispanic Heritage Foundation Join Forces in LatinExplorers 2](https://news.xbox.com/en-us/2023/09/15/hispanic-heritage-month-2023/)
- - [Dune: Spice Wars is a diamond in the rough](https://www.polygon.com/23868512/dune-spice-wars-review-impressions-rts-4x)
- - [That Gothic Pinocchio Soulslike Has A Pretty Neat Weapon Durability Mechanic](https://kotaku.com/lies-of-p-pinocchio-soulslike-weapon-durability-totk-1850842493)<!-- GAME:END -->
+ - [Jedi: Survivor Runs Much Better After Latest Patch, But At A Cost](https://kotaku.com/star-wars-jedi-survivor-fallen-order-patch-7-60fps-mode-1850842945)
+ - [How to evolve Lampent into Chandelure in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23875244/evolve-lampent-chandelure-teal-mask-dusk-stone)
+ - [Lies of P&#39;s deluxe edition early access release hit a Steam hiccup, but it&#39;s live now](https://www.pcgamer.com/lies-of-ps-deluxe-edition-early-access-release-hit-a-steam-hiccup-but-its-live-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
