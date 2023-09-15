@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail hits PS5 on October 11 — new story and combat details revealed](https://blog.playstation.com/2023/09/14/honkai-star-rail-hits-ps5-on-october-11-new-story-and-combat-details-revealed/)
- - [Final Fantasy 7 Rebirth PC version might release within months of the PS5 version](https://www.pcgamer.com/final-fantasy-7-rebirth-is-nearly-100-hours-long-says-director)
- - [Every Starfield player should use these 3 essential mods](https://www.pcgamer.com/every-starfield-player-should-use-these-3-mods)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
+ - [Today&#39;s Wordle hint and answer #818: Friday, September 15](https://www.pcgamer.com/wordle-answer-today-hint-818-september-15)
+ - [Honkai: Star Rail hits PS5 on October 11 — new story and combat details revealed](https://blog.playstation.com/2023/09/14/honkai-star-rail-hits-ps5-on-october-11-new-story-and-combat-details-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
