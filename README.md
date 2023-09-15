@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - ⏩ [What she is trying?](http://9gag.com/gag/a4omO8w)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - ⏩ [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
 
 ---
 
