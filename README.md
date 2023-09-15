@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - ⏩ [What she is trying?](http://9gag.com/gag/a4omO8w)
  - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
 
 ---
