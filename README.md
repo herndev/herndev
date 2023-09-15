@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget the iPhone; get 50% off the ROG Phone 6 Batman Edition today](https://www.androidauthority.com/asus-rog-phone-6-batman-edition-deal-3364840/)
- - [The Pixel Tablet is the best Android tablet. Here’s why.](https://www.androidauthority.com/pixel-tablet-best-android-tablet-3364638/)
- - [X changes its crowdsourced fact-checking Community Notes feature to show contributors other note proposals and see other viewpoints before they submit a rating &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230915/p14#a230915p14)<!-- TECH:END -->
+ - [We’ve got all the best AT&amp;T iPhone 15 deals rounded up for you here](https://www.androidauthority.com/att-iphone-15-deals-3364888/)
+ - [Google to pay California $93 million over location-tracking claims](https://www.theverge.com/2023/9/15/23875137/google-location-tracking-settlement-93-million-california)
+ - [Apple&#39;s new iCloud+ tiers are too much for consumers, too little for professionals](https://appleinsider.com/articles/23/09/15/apples-new-icloud-tiers-are-too-much-for-consumers-too-little-for-professionals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
