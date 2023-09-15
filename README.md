@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Band of Brothers, now on Netflix, is still a tremendous entry into WWII history](https://www.polygon.com/what-to-watch/23870105/band-of-brothers-netflix-recommendations-wwii-movies-books)
- - [Nexus Mods Fine With Bigots Leaving Over Removed Starfield ‘Pronoun’ Mod](https://kotaku.com/nexus-mods-starfield-pronouns-removal-deleted-why-woke-1850843599)
- - [This Intense Cyberpunk 2077 Trailer Is Also A Great Phantom Liberty Primer](https://kotaku.com/cyberpunk-2077-phantom-liberty-cinematic-idris-elba-1850843432)<!-- GAME:END -->
+ - [The Best Final Fantasy VII Character Is Returning In Rebirth &lpar;And It’s Not Vincent&rpar;](https://kotaku.com/final-fantasy-7-rebirth-andrea-rhodea-honeybee-inn-1850843934)
+ - [One Of Mortal Kombat 1&#39;s Stranger New Modes Is Like A Board Game](https://kotaku.com/mortal-kombat-1-release-mk1-reviews-invasion-mode-ps5-1850843881)
+ - [Iconic mechs return as Mechwarrior 5: Clans invites you to be the bad guys](https://www.pcgamer.com/iconic-mechs-return-as-mechwarrior-5-clans-invites-you-to-be-the-bad-guys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
