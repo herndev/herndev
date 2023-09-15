@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The unbelievable true story behind the pretty good horror movie The Possession](https://www.polygon.com/23874066/possession-movie-dybbuk-box-real-curses-slender-man)
- - [Donald Glover’s Lando Star Wars show thankfully rejiggered to be Donald Glover’s Lando Star Wars movie](https://www.polygon.com/star-wars/23874957/lando-star-wars-movie-donald-glover)
- - [Digital Eclipse is remaking the original Wizardry, and you can play it right now](https://www.pcgamer.com/digital-eclipse-is-remaking-the-original-wizardry-and-you-can-play-it-right-now)<!-- GAME:END -->
+ - [In Honor of Hispanic Heritage Month, Minecraft Education and Hispanic Heritage Foundation Join Forces in LatinExplorers 2](https://news.xbox.com/en-us/2023/09/15/hispanic-heritage-month-2023/)
+ - [Dune: Spice Wars is a diamond in the rough](https://www.polygon.com/23868512/dune-spice-wars-review-impressions-rts-4x)
+ - [That Gothic Pinocchio Soulslike Has A Pretty Neat Weapon Durability Mechanic](https://kotaku.com/lies-of-p-pinocchio-soulslike-weapon-durability-totk-1850842493)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
