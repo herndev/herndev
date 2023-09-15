@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - ⏩ [Currucuuu! Currucuuu!](http://9gag.com/gag/aQEBWr8)
- - 👉 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)<!-- MEMES:END -->
+ - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
 
 ---
 
