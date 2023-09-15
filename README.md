@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This JRPG with the Persona devs backing it was the coolest Nintendo Direct announcement that could actually come to PC](https://www.pcgamer.com/this-jrpg-was-the-coolest-nintendo-direct-announcement-and-could-come-to-pc-with-the-persona-devs-backing-it)
- - [NYT Connections today: hint and answers for September 15 &lpar;#96&rpar;](https://www.pcgamer.com/nyt-connections-today-hint-and-answers-for-september-15-96)
- - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)<!-- GAME:END -->
+ - [Stig Asmussen, director of Star Wars Jedi: Survivor, is leaving Respawn Entertainment](https://www.pcgamer.com/stig-asmussen-director-of-star-wars-jedi-survivor-is-leaving-respawn-entertainment)
+ - [20 years on, Jedi Knight 2 still has the most exciting lightsaber duels in videogames](https://www.pcgamer.com/20-years-on-jedi-knight-2-still-has-the-most-exciting-lightsaber-duels-in-videogames)
+ - [This JRPG with the Persona devs backing it was the coolest Nintendo Direct announcement that could actually come to PC](https://www.pcgamer.com/this-jrpg-was-the-coolest-nintendo-direct-announcement-and-could-come-to-pc-with-the-persona-devs-backing-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
