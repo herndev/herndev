@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans a software update for iPhone 12 in France to address radiation concerns, says &quot;this is related to a specific testing protocol&quot; used by the regulator &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230915/p3#a230915p3)
- - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)
- - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)<!-- TECH:END -->
+ - [This Wear OS smartwatch could launch with MIUI, Snapdragon W5 Plus Gen 1](https://www.androidauthority.com/xiaomi-watch-2-pro-render-specs-pricing-leak-3364710/)
+ - [Playtika agrees to acquire Innplay Labs, a mobile game studio in Israel, for an upfront fee of $80M and as much as $300M in total &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230915/p7#a230915p7)
+ - [Apple to issue iPhone 12 software update in France to address radiation concerns](https://www.theverge.com/2023/9/15/23874803/apple-iphone-12-france-radiation-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
