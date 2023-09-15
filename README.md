@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
+ - 💣 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
+ - ⏩ [Freedom !](http://9gag.com/gag/aGE6X8w)
+ - 👉 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)<!-- MEMES:END -->
 
 ---
 
