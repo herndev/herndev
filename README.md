@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - ⏩ [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - ⏩ [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
+ - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
 
 ---
 
