@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s all the carriers that get you an iPhone 15 for free](https://www.androidauthority.com/heres-all-the-carriers-that-get-you-an-iphone-15-for-free-3364747/)
- - [The most popular Google Doodle games](https://www.androidauthority.com/popular-google-doodle-games-3364681/)
- - [Apple will issue iOS update to appease France over RF exposure row](https://appleinsider.com/articles/23/09/15/apple-will-issue-ios-update-to-appease-france-over-rf-exposure-row?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iPhone 15 vs. iPhone 13 series: Which one should you buy?](https://www.androidauthority.com/apple-iphone-15-vs-iphone-13-3364231/)
+ - [Chinese regulator reveals iPhone 15 battery capacities have improved](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
+ - [Sources: ByteDance and the US restart their negotiations over TikTok&#39;s operations, as calls to ban the wildly popular app have faded ahead of the 2024 election &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230915/p11#a230915p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
