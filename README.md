@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NYT Connections today: hint and answers for September 15 &lpar;#96&rpar;](https://www.pcgamer.com/nyt-connections-today-hint-and-answers-for-september-15-96)
  - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
- - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)
- - [Today&#39;s Wordle hint and answer #818: Friday, September 15](https://www.pcgamer.com/wordle-answer-today-hint-818-september-15)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Introducing the Deep Earth Collection, a new metallic colorway for PS5 accessories available starting later this year](https://blog.playstation.com/2023/09/14/20230914-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
