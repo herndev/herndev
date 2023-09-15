@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats with all the mind-games](http://9gag.com/gag/awZPqVx)
- - ⏩ [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
- - 👉 [Quadrakill](http://9gag.com/gag/a9qZQb6)<!-- MEMES:END -->
+ - 💣 [Why black men dont date black women](http://9gag.com/gag/aGE63v7)
+ - ⏩ [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
 
 ---
 
