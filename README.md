@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Final Fantasy VII Character Is Returning In Rebirth &lpar;And It’s Not Vincent&rpar;](https://kotaku.com/final-fantasy-7-rebirth-andrea-rhodea-honeybee-inn-1850843934)
- - [One Of Mortal Kombat 1&#39;s Stranger New Modes Is Like A Board Game](https://kotaku.com/mortal-kombat-1-release-mk1-reviews-invasion-mode-ps5-1850843881)
- - [Iconic mechs return as Mechwarrior 5: Clans invites you to be the bad guys](https://www.pcgamer.com/iconic-mechs-return-as-mechwarrior-5-clans-invites-you-to-be-the-bad-guys)<!-- GAME:END -->
+ - [The next League spinoff is a farming sim from the Graveyard Keeper devs](https://www.pcgamer.com/the-next-league-spinoff-is-a-farming-sim-from-the-graveyard-keeper-devs)
+ - [This Week on Xbox: Mortal Kombat 1 Early Access, Game Pass Core, and More](https://news.xbox.com/en-us/2023/09/15/this-week-on-xbox-mortal-kombat-1-early-access-game-pass-core-and-more/)
+ - [The Best Final Fantasy VII Character Is Returning In Rebirth &lpar;And It’s Not Vincent&rpar;](https://kotaku.com/final-fantasy-7-rebirth-andrea-rhodea-honeybee-inn-1850843934)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
