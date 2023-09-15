@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
- - ⏩ [Freedom !](http://9gag.com/gag/aGE6X8w)
- - 👉 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)<!-- MEMES:END -->
+ - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
 
 ---
 
