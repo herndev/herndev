@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
- - ⏩ [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
+ - 💣 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - ⏩ [Grab your corn and watch it pop in real time](http://9gag.com/gag/adPrGbZ)
+ - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
 
 ---
 
