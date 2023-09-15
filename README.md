@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases report on geofence warrants and data requests](https://appleinsider.com/articles/23/09/15/apple-releases-report-on-geofence-warrants-and-data-requests?utm_medium=rss)
- - [How to use Philips Hue’s new smart security system](https://www.theverge.com/23875192/philips-hue-secure-smart-security-system-lights-camera-how-to)
- - [Google’s Fitbit Charge 6 will finally bring the physical button back](https://www.theverge.com/2023/9/15/23875542/fitbit-charge-6-physical-button-google-maps-youtube-music)<!-- TECH:END -->
+ - [Galaxy Buds FE could cost as much as the Pixel Buds A](https://www.androidauthority.com/samsung-galaxy-buds-fe-price-3364962/)
+ - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)
+ - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
