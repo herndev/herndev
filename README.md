@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Ring’s release date and name revealed in new leak](https://www.androidauthority.com/samsung-galaxy-ring-release-window-3364928/)
- - [How to use back-to-back commands with Siri in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-back-to-back-commands-with-siri-in-ios-17?utm_medium=rss)
- - [In the Google antitrust trial, defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)<!-- TECH:END -->
+ - [Apple releases report on geofence warrants and data requests](https://appleinsider.com/articles/23/09/15/apple-releases-report-on-geofence-warrants-and-data-requests?utm_medium=rss)
+ - [How to use Philips Hue’s new smart security system](https://www.theverge.com/23875192/philips-hue-secure-smart-security-system-lights-camera-how-to)
+ - [Google’s Fitbit Charge 6 will finally bring the physical button back](https://www.theverge.com/2023/9/15/23875542/fitbit-charge-6-physical-button-google-maps-youtube-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
