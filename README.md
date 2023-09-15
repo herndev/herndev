@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro, Apple Watch S9 chip upgrade, iOS 17 feature list on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/15/iphone-15-pro-apple-watch-s9-chip-upgrade-ios-17-feature-list-on-the-appleinsider-podcast?utm_medium=rss)
- - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
- - [X can now ask users for government IDs to verify their paid accounts](https://www.theverge.com/2023/9/15/23874854/x-twitter-verification-government-id-paid-account-benefits)<!-- TECH:END -->
+ - [How to manage camera and mic permissions on your desktop](https://www.theverge.com/23873983/camera-microphone-permissions-fix-how-to)
+ - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
+ - [Protect Your New iPhone 15 With 30% Off Moment Cases and Bundles     - CNET](https://www.cnet.com/deals/protect-your-new-iphone-15-with-30-off-moment-cases-and-bundles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
