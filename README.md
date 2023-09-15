@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grab your corn and watch it pop in real time](http://9gag.com/gag/adPrGbZ)
- - ⏩ [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
- - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - ⏩ [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 👉 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)<!-- MEMES:END -->
 
 ---
 
