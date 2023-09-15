@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - ⏩ [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 👉 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)<!-- MEMES:END -->
+ - 💣 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - ⏩ [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
 
 ---
 
