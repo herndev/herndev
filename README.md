@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7: Rebirth is &#39;nearly 100 hours&#39; long, says director](https://www.pcgamer.com/final-fantasy-7-rebirth-is-nearly-100-hours-long-says-director)
- - [State of Play September 2023: All trailers and complete recap](https://blog.playstation.com/2023/09/14/state-of-play-september-2023-all-trailers-and-complete-recap/)
- - [Hades 2 launches in early access in 2024, will aim to repeat what made the first game a surprise hit](https://www.pcgamer.com/hades-2-hits-early-access-in-2024-will-aim-to-repeat-what-made-the-first-game-a-surprise-hit)<!-- GAME:END -->
+ - [Every Starfield player should use these 3 essential mods](https://www.pcgamer.com/every-starfield-player-should-use-these-3-mods)
+ - [The best armor in Starfield](https://www.polygon.com/starfield-guide/23874405/best-armor-spacesuits)
+ - [Final Fantasy VII Rebirth Collector’s Edition Costs An Astounding $350](https://kotaku.com/ff7-final-fantasy-vii-rebirth-collector-s-edition-350-1850840877)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
