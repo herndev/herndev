@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Lies Of P Tips To Help You Survive This Brutal New Soulslike](https://kotaku.com/lies-of-p-beginners-tips-bloodborne-health-dodge-outfit-1850844401)
- - [Spider-Man 2 Will Have Ray Tracing Across All Visual Modes](https://kotaku.com/spider-man-2-ray-tracing-framerate-modes-playstation-5-1850844400)
- - [Kotaku’s Weekend Guide: 5 Games To Kick Back With](https://kotaku.com/games-to-play-starfield-pokemon-the-crew-castlevania-1850843943)<!-- GAME:END -->
+ - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)
+ - [Barbie, John Wick 4, Netflix’s El Conde, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/15/23868067/new-movies-watch-barbie-netflix-el-conde-john-wick-4-talk-to-me)
+ - [Payday 3 developer drops Denuvo from the game before it&#39;s even out](https://www.pcgamer.com/payday-3-developer-drops-denuvo-from-the-game-before-its-even-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
