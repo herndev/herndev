@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 4.1 livestream](https://www.pcgamer.com/genshin-impact-codes-4-1-livestream)
- - [Baldur&#39;s Gate 3 lead character artist reassures amateurs it&#39;s &#39;in the artists&#39; nature to doubt ourselves&#39;](https://www.pcgamer.com/baldurs-gate-3-lead-character-artist-reassures-amateurs-its-in-the-artists-nature-to-doubt-ourselves)
- - [Ctrl+Shift+Alt+Win+L is the most cursed Windows 11 shortcut combo](https://www.pcgamer.com/ctrlshiftaltwinl-is-the-most-cursed-windows-11-shortcut-combo)<!-- GAME:END -->
+ - [Dixit’s Disney Edition is now available at Barnes &amp; Noble](https://www.polygon.com/deals/23872573/dixit-disney-edition-barnes-noble-where-to-buy)
+ - [Amnesia: The Bunker&#39;s Halloween update plans to make this year&#39;s scariest game even more terrifying](https://www.pcgamer.com/amnesia-the-bunkers-halloween-update-plans-to-make-this-years-scariest-game-even-more-terrifying)
+ - [All Genshin Impact codes from the version 4.1 livestream](https://www.pcgamer.com/genshin-impact-codes-4-1-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
