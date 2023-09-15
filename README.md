@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jedi: Survivor Runs Much Better After Latest Patch, But At A Cost](https://kotaku.com/star-wars-jedi-survivor-fallen-order-patch-7-60fps-mode-1850842945)
- - [How to evolve Lampent into Chandelure in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23875244/evolve-lampent-chandelure-teal-mask-dusk-stone)
- - [Lies of P&#39;s deluxe edition early access release hit a Steam hiccup, but it&#39;s live now](https://www.pcgamer.com/lies-of-ps-deluxe-edition-early-access-release-hit-a-steam-hiccup-but-its-live-now)<!-- GAME:END -->
+ - [Hit the Pitch Early in EA Sports FC 24 With EA Play](https://news.xbox.com/en-us/2023/09/15/ea-play-member-rewards-for-september/)
+ - [Hey Young People, The OG Tomb Raider Games Are Getting Remastered](https://kotaku.com/tomb-raider-remastered-lara-croft-ps5-xbox-series-x-pc-1850843058)
+ - [Official PlayStation Podcast Episode 468: Gaming Gigablast](https://blog.playstation.com/2023/09/15/official-playstation-podcast-episode-468-gaming-gigablast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
