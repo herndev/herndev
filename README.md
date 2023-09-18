@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity vows to change controversial new pricing policy](https://www.polygon.com/23878521/unity-install-fee-pricing-change)
- - [Fast X has absolutely no chill](https://www.polygon.com/23875191/fast-x-funniest-lines-worst-moments-list)
- - [The cheaper Asus ROG Ally is now available from Best Buy](https://www.polygon.com/deals/2023/9/18/23878610/asus-rog-ally-z1-best-buy-gaming-handheld-where-to-buy)<!-- GAME:END -->
+ - [A John Wick spinoff, American Horror Story, and more new TV this week](https://www.polygon.com/23864649/new-tv-netflix-john-wick-spinoff-ahs-delicate-love-is-blind)
+ - [The Elder Scrolls VI Definitely Isn’t Coming To PlayStation](https://kotaku.com/elder-scrolls-6-xbox-playstation-exclusive-release-date-1850850016)
+ - [Nexus Mods boots Starfield mod that removed pronoun options](https://www.polygon.com/23878798/starfield-mod-pronoun-rant-nexus-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
