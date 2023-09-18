@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A John Wick spinoff, American Horror Story, and more new TV this week](https://www.polygon.com/23864649/new-tv-netflix-john-wick-spinoff-ahs-delicate-love-is-blind)
- - [The Elder Scrolls VI Definitely Isn’t Coming To PlayStation](https://kotaku.com/elder-scrolls-6-xbox-playstation-exclusive-release-date-1850850016)
- - [Nexus Mods boots Starfield mod that removed pronoun options](https://www.polygon.com/23878798/starfield-mod-pronoun-rant-nexus-mods)<!-- GAME:END -->
+ - [Watch the Baldur’s Gate 3 cast play tabletop D&amp;D in character on Twitch](https://www.polygon.com/23879237/baldurs-gate-voice-cast-high-roller-dnd-stream)
+ - [Activision Says Switch 2&#39;s Power Is Akin To PS4, Xbox One](https://kotaku.com/nintendo-switch-2-console-power-playstation-4-xbox-one-1850850348)
+ - [A John Wick spinoff, American Horror Story, and more new TV this week](https://www.polygon.com/23864649/new-tv-netflix-john-wick-spinoff-ahs-delicate-love-is-blind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
