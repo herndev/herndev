@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - ⏩ [Hard fall](http://9gag.com/gag/a1P8eMw)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - ⏩ [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 👉 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)<!-- MEMES:END -->
 
 ---
 
