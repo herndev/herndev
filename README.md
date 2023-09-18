@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel&#39;s Avengers goes on sale one last time before being delisted forever](https://www.pcgamer.com/marvels-avengers-goes-on-sale-one-last-time-before-being-delisted-forever)
  - [NYT Connections hint and answers today: September 18 &lpar;#99&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-18-99)
- - [Unity apologizes for controversial new pricing scheme, &#39;will be making changes to the policy&#39;](https://www.pcgamer.com/unity-apologizes-for-controversial-new-pricing-scheme-will-be-making-changes-to-the-policy)
- - [Today&#39;s Wordle hint and answer #821: Monday, September 18](https://www.pcgamer.com/wordle-answer-today-hint-821-september-18)<!-- GAME:END -->
+ - [Unity apologizes for controversial new pricing scheme, &#39;will be making changes to the policy&#39;](https://www.pcgamer.com/unity-apologizes-for-controversial-new-pricing-scheme-will-be-making-changes-to-the-policy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
