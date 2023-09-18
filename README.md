@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;September 18, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-18-2023)
  - [Brazen Blaze is a VR Smash Bros. where you can punch people into space](https://www.pcgamer.com/brazen-blaze-is-a-vr-smash-bros-where-you-can-punch-people-into-space)
- - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)
- - [Armored Core 6&#39;s biggest boss is so huge, it&#39;d be its own landmark on Elden Ring&#39;s world map](https://www.pcgamer.com/armored-core-6s-biggest-boss-is-so-huge-itd-be-its-own-landmark-on-elden-rings-world-map)<!-- GAME:END -->
+ - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
