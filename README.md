@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
- - ⏩ [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)<!-- MEMES:END -->
+ - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - ⏩ [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 👉 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)<!-- MEMES:END -->
 
 ---
 
