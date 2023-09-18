@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 DLC brings back the remake’s glaring omissions](https://www.polygon.com/23878857/resident-evil-4-separate-ways-dlc-ada-wong-laser-room)
- - [Lies Of P’s Dodge Roll Shouldn’t Be This Bad At The Start](https://kotaku.com/lies-of-p-pinocchio-soulslike-dodge-roll-upgrade-tip-1850849212)
- - [This Scarlet and Violet DLC side quest nets you 2 rare Pokémon](https://www.polygon.com/pokemon/23878700/bloodmoon-ursaluna-pokemon-scarlet-violet-teal-mask-side-quest-psa)<!-- GAME:END -->
+ - [Unity vows to change controversial new pricing policy](https://www.polygon.com/23878521/unity-install-fee-pricing-change)
+ - [Fast X has absolutely no chill](https://www.polygon.com/23875191/fast-x-funniest-lines-worst-moments-list)
+ - [The cheaper Asus ROG Ally is now available from Best Buy](https://www.polygon.com/deals/2023/9/18/23878610/asus-rog-ally-z1-best-buy-gaming-handheld-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
