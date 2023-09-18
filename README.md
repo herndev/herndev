@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 has a cool new gameplay trailer, but it&#39;s delayed to 2024](https://www.pcgamer.com/helldivers-2-has-a-cool-new-gameplay-trailer-but-its-delayed-to-2024)
- - [Barbie, John Wick 4, Netflix’s El Conde, and every new movie to watch at home this weekend](https://www.polygon.com/2023/9/15/23868067/new-movies-watch-barbie-netflix-el-conde-john-wick-4-talk-to-me)
- - [Payday 3 developer drops Denuvo from the game before it&#39;s even out](https://www.pcgamer.com/payday-3-developer-drops-denuvo-from-the-game-before-its-even-out)<!-- GAME:END -->
+ - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)
+ - [Armored Core 6&#39;s biggest boss is so huge, it&#39;d be its own landmark on Elden Ring&#39;s world map](https://www.pcgamer.com/armored-core-6s-biggest-boss-is-so-huge-itd-be-its-own-landmark-on-elden-rings-world-map)
+ - [I am mesmerized by the impeccable vibes of this trippy twin-stick shooter](https://www.pcgamer.com/i-am-mesmerized-by-the-impeccable-vibes-of-this-trippy-twin-stick-shooter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
