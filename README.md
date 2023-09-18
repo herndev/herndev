@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity vows to change controversial new pricing policy](https://www.polygon.com/23878521/unity-install-fee-pricing-change)
- - [It’s Time To Start Killing Your Subscriptions](https://kotaku.com/game-pass-ps-plus-disney-netflix-spotify-price-cancel-1850848468)
- - [Premier League superstar &#39;shocked&#39; about how poorly EA Sports FC rates his abilities](https://www.pcgamer.com/premier-league-superstar-shocked-about-how-poorly-ea-sports-fc-rates-his-abilities)<!-- GAME:END -->
+ - [Preview the new My Little Pony cards for Magic: The Gathering](https://www.polygon.com/23878563/magic-the-gathering-my-little-pony-secret-lair-drop-extra-life-galloping)
+ - [Starfield Fans Have Discovered A Halo Easter Egg](https://kotaku.com/starfield-halo-easter-egg-reach-eridani-ii-1850848745)
+ - [The Crew Motorfest review](https://www.pcgamer.com/the-crew-motorfest-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
