@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - ⏩ [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - ⏩ [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
 
 ---
 
