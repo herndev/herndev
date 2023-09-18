@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - ⏩ [Holy grail](http://9gag.com/gag/aoKGEYA)
- - 👉 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)<!-- MEMES:END -->
+ - 💣 [FEMINIST vs JORDAN PETERSON](http://9gag.com/gag/aDYqojN)
+ - ⏩ [Wifu Material](http://9gag.com/gag/anz0Kbq)
+ - 👉 [Trippy](http://9gag.com/gag/aYVvey2)<!-- MEMES:END -->
 
 ---
 
