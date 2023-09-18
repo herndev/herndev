@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK November issue on sale now: MechWarrior 5: Clans](https://www.pcgamer.com/pc-gamer-uk-november-issue-on-sale-now-mechwarrior-5-clans)
- - [Mjolnir, bi-planes, and a big gun: Starfield players keep building anything other than spaceships](https://www.pcgamer.com/mjolnir-bi-planes-and-a-big-gun-starfield-players-keep-building-anything-other-than-spaceships)
- - [Man vs Malware: Diary of a 2006 PC disaster](https://www.pcgamer.com/man-vs-malware-diary-of-a-2006-pc-disaster)<!-- GAME:END -->
+ - [The ultimate way to watch the Marvel movies](https://www.polygon.com/2020/3/20/21187206/how-to-watch-marvel-movies-order-timeline-disney-plus-marathon)
+ - [Intel is making progress on a handy new material for building even bigger computer chips: glass](https://www.pcgamer.com/intel-glass-substrates)
+ - [Game that raised over $1.5 million on Kickstarter defends its use of AI art: &#39;It&#39;s certainly going to hurt people [but] I don’t think this is going to go back in the bag&#39;](https://www.pcgamer.com/game-that-raised-over-dollar15-million-on-kickstarter-defends-its-use-of-ai-art-its-certainly-going-to-hurt-people-but-i-dont-think-this-is-going-to-go-back-in-the-bag)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
