@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
- - ⏩ [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 💣 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
+ - ⏩ [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
 
 ---
 
