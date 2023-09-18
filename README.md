@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with DeepMind co-founder Mustafa Suleyman on maintaining AI optimism, how &quot;interactive&quot; AI will follow the generative AI wave, AI regulation, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230917/p5#a230917p5)
  - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
- - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)
- - [iPhone 15 Pro Max in high demand, but production challenges remain](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
