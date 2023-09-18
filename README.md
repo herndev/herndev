@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - ⏩ [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - ⏩ [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 👉 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)<!-- MEMES:END -->
 
 ---
 
