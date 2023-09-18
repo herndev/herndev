@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;September 18, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-18-2023)
- - [Brazen Blaze is a VR Smash Bros. where you can punch people into space](https://www.pcgamer.com/brazen-blaze-is-a-vr-smash-bros-where-you-can-punch-people-into-space)
- - [Enjoy minimalist stealth-action, Splinter Cell and MGS style, in No Sun to Worship](https://www.pcgamer.com/enjoy-minimalist-stealth-action-splinter-cell-and-mgs-style-in-no-sun-to-worship)<!-- GAME:END -->
+ - [Unity apologizes for controversial new pricing scheme, &#39;will be making changes to the policy&#39;](https://www.pcgamer.com/unity-apologizes-for-controversial-new-pricing-scheme-will-be-making-changes-to-the-policy)
+ - [Today&#39;s Wordle hint and answer #821: Monday, September 18](https://www.pcgamer.com/wordle-answer-today-hint-821-september-18)
+ - [Five new Steam games you probably missed &lpar;September 18, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-18-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
