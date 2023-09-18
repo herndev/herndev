@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to tag pets in Photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-tag-your-pets-in-the-photos-app-in-ios-17?utm_medium=rss)
- - [Netflix and South Korean ISP SK Broadband end lawsuits over streaming services paying for network usage due to surging traffic, and agree to form a partnership &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/230918/p25#a230918p25)
- - [How to install watchOS 10](https://www.theverge.com/23879092/watchos-10-install-how-to)<!-- TECH:END -->
+ - [Amazon Prime Big Deal Days starts October 10-11, shop early deals on Apple now](https://appleinsider.com/articles/23/09/18/amazon-prime-big-deal-days-starts-october-10-11-shop-early-deals-on-apple-now?utm_medium=rss)
+ - [A look around MGM&#39;s Vegas properties, where a September 10 cyberattack has led to broken slot machines and payment kiosks, strained employees, and long waits &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230918/p26#a230918p26)
+ - [Meta is shutting down three Oculus games without explanation](https://www.theverge.com/2023/9/18/23879252/meta-shut-down-dead-buried-bogo-oculus-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
