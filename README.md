@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steve Jobs Archive is helping nine people follow in the man’s footsteps](https://www.theverge.com/2023/9/18/23878397/steve-jobs-archive-fellowship-apple-financial-assistance-program)
- - [Crypto custody startup Bastion, co-founded by two ex-a16z executives, raised a $25M seed led by a16z crypto to expand its tools for traditional companies &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/230918/p17#a230918p17)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
+ - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
+ - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
