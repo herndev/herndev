@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple promises to fix iPhone 12 radiation levels with software update](https://www.androidauthority.com/apple-iphone-12-france-radiation-software-update-3365191/)
  - [Bigger iPhones, redesigned watches, new Macs — Apple’s 2024 plans revealed](https://www.androidauthority.com/apple-2024-iphone-16-apple-watch-x-m3-macbook-3365178/)
- - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct until June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)
- - [Best Small Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
