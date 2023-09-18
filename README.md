@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prosus and Naspers CEO Bob van Dijk steps down, will remain as a consultant to the companies for a year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230918/p2#a230918p2)
- - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)
- - [Best Small Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The BBC, ITV, Channel 4, and other UK broadcasters announce Freely, offering linear TV channels via the internet, available on new smart TVs starting in 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230918/p4#a230918p4)
+ - [Poll results: You won’t buy the Pixel 8 if these price hikes are true](https://www.androidauthority.com/google-pixel-8-series-price-hike-leak-poll-results-3365227/)
+ - [A look at Amazon&#39;s bets across industries, including health care, as some analysts and investors question the company&#39;s scattershot efforts and its poor returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230918/p3#a230918p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
