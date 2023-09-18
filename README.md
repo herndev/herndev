@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
  - ⏩ [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
 
 ---
 
