@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
- - ⏩ [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - ⏩ [Shawty restless](http://9gag.com/gag/aeQq0rO)
+ - 👉 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)<!-- MEMES:END -->
 
 ---
 
