@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate way to watch the Marvel movies](https://www.polygon.com/2020/3/20/21187206/how-to-watch-marvel-movies-order-timeline-disney-plus-marathon)
- - [Intel is making progress on a handy new material for building even bigger computer chips: glass](https://www.pcgamer.com/intel-glass-substrates)
- - [Game that raised over $1.5 million on Kickstarter defends its use of AI art: &#39;It&#39;s certainly going to hurt people [but] I don’t think this is going to go back in the bag&#39;](https://www.pcgamer.com/game-that-raised-over-dollar15-million-on-kickstarter-defends-its-use-of-ai-art-its-certainly-going-to-hurt-people-but-i-dont-think-this-is-going-to-go-back-in-the-bag)<!-- GAME:END -->
+ - [Unity vows to change controversial new pricing policy](https://www.polygon.com/23878521/unity-install-fee-pricing-change)
+ - [It’s Time To Start Killing Your Subscriptions](https://kotaku.com/game-pass-ps-plus-disney-netflix-spotify-price-cancel-1850848468)
+ - [Premier League superstar &#39;shocked&#39; about how poorly EA Sports FC rates his abilities](https://www.pcgamer.com/premier-league-superstar-shocked-about-how-poorly-ea-sports-fc-rates-his-abilities)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
