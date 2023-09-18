@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nitro Deck is for people who are sick of buying more Joy-Cons](https://www.polygon.com/reviews/23870523/nitro-deck-nintendo-switch-review)
- - [Just in case you murder everyone, Baldur&#39;s Gate 3 has back-up NPCs—and even back-ups for its back-ups](https://www.pcgamer.com/just-in-case-you-murder-everyone-baldurs-gate-3-has-back-up-npcsand-even-back-ups-for-its-back-ups)
- - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)<!-- GAME:END -->
+ - [Resident Evil 4 DLC brings back the remake’s glaring omissions](https://www.polygon.com/23878857/resident-evil-4-separate-ways-dlc-ada-wong-laser-room)
+ - [Lies Of P’s Dodge Roll Shouldn’t Be This Bad At The Start](https://kotaku.com/lies-of-p-pinocchio-soulslike-dodge-roll-upgrade-tip-1850849212)
+ - [This Scarlet and Violet DLC side quest nets you 2 rare Pokémon](https://www.polygon.com/pokemon/23878700/bloodmoon-ursaluna-pokemon-scarlet-violet-teal-mask-side-quest-psa)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
