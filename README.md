@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - ⏩ [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 👉 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)<!-- MEMES:END -->
+ - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - ⏩ [Holy grail](http://9gag.com/gag/aoKGEYA)
+ - 👉 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)<!-- MEMES:END -->
 
 ---
 
