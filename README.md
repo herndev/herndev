@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Move 2 Review: Powerful and Punchy Portable Speaker](https://www.wired.com/review/review-sonos-move-2/)
- - [You can get $500 in credit when you preorder Samsung’s 57-inch Odyssey Neo G9 gaming monitor](https://www.theverge.com/2023/9/18/23878636/samsung-57-inch-odyssey-neo-g9-gaming-monitor-preorder-buy-price-release-date)
- - [Garmin vivoactive 5 could have this big improvement over last generation](https://www.androidauthority.com/garmin-vivoactive-5-specs-leak-3365344/)<!-- TECH:END -->
+ - [Sources: external code contributions to the Android Open Source Project will need at least two Google reviewers&#39; approval starting next month &lpar;Patreon&rpar;](http://www.techmeme.com/230918/p22#a230918p22)
+ - [Explore the Ancient Aztec Capital in This Lifelike 3D Rendering](https://www.wired.com/story/explore-tenochtitlan-ancient-aztec-capital-3d-render-thomas-kole/)
+ - [At an all-hands, Unity discusses potential changes to its new controversial fees, like capping fees to 4% of a game&#39;s revenue for customers with $1M+ revenue &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230918/p21#a230918p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
