@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)
- - [Unity caves, is reconsidering new fee structure after developer revolt](https://appleinsider.com/articles/23/09/18/unity-caves-is-reconsidering-new-fee-structure-after-developer-revolt?utm_medium=rss)
- - [iPhone 15 Pro won&#39;t charge faster than iPhone 14 Pro, claims report](https://appleinsider.com/articles/23/09/18/iphone-15-pro-wont-charge-faster-than-iphone-14-pro-claims-report?utm_medium=rss)<!-- TECH:END -->
+ - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
+ - [iPhone 15 ships soon, iOS 17, MagSafe accessories on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/18/iphone-15-ships-soon-ios-17-magsafe-accessories-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Analysis: Arm&#39;s $5B IPO generated $84M in fees for services firms including Deloitte, the most a company spent on fees since Axa in 2018 and over 7x the average &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230918/p10#a230918p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
