@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - ⏩ [Shawty restless](http://9gag.com/gag/aeQq0rO)
- - 👉 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)<!-- MEMES:END -->
+ - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
+ - ⏩ [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
 
 ---
 
