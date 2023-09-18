@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
- - [iPhone 15 ships soon, iOS 17, MagSafe accessories on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/18/iphone-15-ships-soon-ios-17-magsafe-accessories-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Analysis: Arm&#39;s $5B IPO generated $84M in fees for services firms including Deloitte, the most a company spent on fees since Axa in 2018 and over 7x the average &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230918/p10#a230918p10)<!-- TECH:END -->
+ - [Carrot will report the weather in your own voice on iOS 17](https://www.theverge.com/2023/9/18/23878349/carrot-weather-app-ios-17-watchos-10-personal-voice)
+ - [Intel details its work on glass core substrates, a longterm project to replace organic substrates in chips, and plans a launch in the second half of the decade &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230918/p12#a230918p12)
+ - [Google’s Nest Hub Max is dropping support for Google Meet and Zoom](https://www.theverge.com/2023/9/18/23878449/google-nest-hub-max-end-support-meet-zoom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
