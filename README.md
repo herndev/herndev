@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - ⏩ [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 💣 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - ⏩ [\u201cDon\u2019t tell me the reasons\u201d feminism in 1 sentence](http://9gag.com/gag/amAO0w6)
+ - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---
 
