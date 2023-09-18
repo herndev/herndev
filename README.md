@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: external code contributions to the Android Open Source Project will need at least two Google reviewers&#39; approval starting next month &lpar;Patreon&rpar;](http://www.techmeme.com/230918/p22#a230918p22)
- - [Explore the Ancient Aztec Capital in This Lifelike 3D Rendering](https://www.wired.com/story/explore-tenochtitlan-ancient-aztec-capital-3d-render-thomas-kole/)
- - [At an all-hands, Unity discusses potential changes to its new controversial fees, like capping fees to 4% of a game&#39;s revenue for customers with $1M+ revenue &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230918/p21#a230918p21)<!-- TECH:END -->
+ - [How to tag pets in Photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-tag-your-pets-in-the-photos-app-in-ios-17?utm_medium=rss)
+ - [Netflix and South Korean ISP SK Broadband end lawsuits over streaming services paying for network usage due to surging traffic, and agree to form a partnership &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/230918/p25#a230918p25)
+ - [How to install watchOS 10](https://www.theverge.com/23879092/watchos-10-install-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
