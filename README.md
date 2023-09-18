@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carrot will report the weather in your own voice on iOS 17](https://www.theverge.com/2023/9/18/23878349/carrot-weather-app-ios-17-watchos-10-personal-voice)
- - [Intel details its work on glass core substrates, a longterm project to replace organic substrates in chips, and plans a launch in the second half of the decade &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230918/p12#a230918p12)
- - [Google’s Nest Hub Max is dropping support for Google Meet and Zoom](https://www.theverge.com/2023/9/18/23878449/google-nest-hub-max-end-support-meet-zoom)<!-- TECH:END -->
+ - [The Steve Jobs Archive is helping nine people follow in the man’s footsteps](https://www.theverge.com/2023/9/18/23878397/steve-jobs-archive-fellowship-apple-financial-assistance-program)
+ - [Crypto custody startup Bastion, co-founded by two ex-a16z executives, raised a $25M seed led by a16z crypto to expand its tools for traditional companies &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/230918/p17#a230918p17)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
