@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Hong Kong IPOs, AI startup and US Entity List member Beijing Fourth Paradigm aims to raise $144M and cloud hospital firm Neusoft Xikang aims for $81M-$101M &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/230918/p5#a230918p5)
- - [How to run an Apple I on your Mac with OpenEmulator](https://appleinsider.com/inside/macos/tips/how-to-run-an-apple-i-on-your-mac-with-openemulator?utm_medium=rss)
- - [You might want to avoid the cheaper ASUS ROG Ally](https://www.androidauthority.com/cheap-asus-rog-ally-z1-performance-3365244/)<!-- TECH:END -->
+ - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)
+ - [Unity caves, is reconsidering new fee structure after developer revolt](https://appleinsider.com/articles/23/09/18/unity-caves-is-reconsidering-new-fee-structure-after-developer-revolt?utm_medium=rss)
+ - [iPhone 15 Pro won&#39;t charge faster than iPhone 14 Pro, claims report](https://appleinsider.com/articles/23/09/18/iphone-15-pro-wont-charge-faster-than-iphone-14-pro-claims-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
