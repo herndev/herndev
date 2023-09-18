@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Just Had One Of Its Wildest Weekends Ever](https://kotaku.com/destiny-2-crafting-glitch-exploit-disable-bungie-1850850802)
- - [I want this prototype modular handheld gaming PC so badly](https://www.pcgamer.com/i-want-this-prototype-modular-handheld-gaming-pc-so-badly)
- - [Disney World Partially Closed After Wild Bear Sneaks Inside](https://kotaku.com/wild-black-bear-caught-inside-disney-world-closed-ride-1850850549)<!-- GAME:END -->
+ - [They just won&#39;t stop: War Thunder has deleted yet another military manual from its forums](https://www.pcgamer.com/war-thunder-12th-military-leak-f-177)
+ - [No, Cult of the Lamb isn’t getting deleted over Unity fees](https://www.polygon.com/23879525/cult-of-the-lamb-deleted-no-actually)
+ - [Former BioWare manager wishes Dragon Age had kept a &#39;PC-centric&#39; and &#39;modding-driven&#39; identity like Neverwinter Nights](https://www.pcgamer.com/former-bioware-manager-wishes-dragon-age-had-kept-a-pc-centric-and-modding-driven-identity-like-neverwinter-nights)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
