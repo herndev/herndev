@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
  - ⏩ [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 👉 [Wifu Material](http://9gag.com/gag/anz0Kbq)<!-- MEMES:END -->
+ - 👉 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)<!-- MEMES:END -->
 
 ---
 
