@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - ⏩ [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 👉 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)<!-- MEMES:END -->
+ - 💣 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
+ - ⏩ [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 👉 [WTF?!](http://9gag.com/gag/ap9nL1n)<!-- MEMES:END -->
 
 ---
 
