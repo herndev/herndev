@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to evolve Feebas into Milotic in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23878953/how-to-evolve-feebas-milotic-prism-scale-location-trade-codes)
  - [They just won&#39;t stop: War Thunder has deleted yet another military manual from its forums](https://www.pcgamer.com/war-thunder-12th-military-leak-f-177)
- - [No, Cult of the Lamb isn’t getting deleted over Unity fees](https://www.polygon.com/23879525/cult-of-the-lamb-deleted-no-actually)
- - [Former BioWare manager wishes Dragon Age had kept a &#39;PC-centric&#39; and &#39;modding-driven&#39; identity like Neverwinter Nights](https://www.pcgamer.com/former-bioware-manager-wishes-dragon-age-had-kept-a-pc-centric-and-modding-driven-identity-like-neverwinter-nights)<!-- GAME:END -->
+ - [No, Cult of the Lamb isn’t getting deleted over Unity fees](https://www.polygon.com/23879525/cult-of-the-lamb-deleted-no-actually)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
