@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro’s 5G modem reportedly boosts speeds by up to 24 percent](https://www.theverge.com/2023/9/15/23875787/iphone-15-pro-better-5g-connectivity)
- - [Sources: Goldman Sachs recently made changes to how it handles Apple Savings transactions to resolve problems some customers had when making withdrawals &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230915/p18#a230915p18)
- - [Best USB-C Car Charger for Your iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/best-usb-car-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
+ - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)
+ - [iPhone 15 Pro Max in high demand, but production challenges remain](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
