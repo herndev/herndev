@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
- - ⏩ [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
- - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
+ - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - ⏩ [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 
