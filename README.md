@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - ⏩ [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - ⏩ [Hard fall](http://9gag.com/gag/a1P8eMw)
  - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
