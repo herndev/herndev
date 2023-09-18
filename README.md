@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Big Deal Days starts October 10-11, shop early deals on Apple now](https://appleinsider.com/articles/23/09/18/amazon-prime-big-deal-days-starts-october-10-11-shop-early-deals-on-apple-now?utm_medium=rss)
- - [A look around MGM&#39;s Vegas properties, where a September 10 cyberattack has led to broken slot machines and payment kiosks, strained employees, and long waits &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230918/p26#a230918p26)
- - [Meta is shutting down three Oculus games without explanation](https://www.theverge.com/2023/9/18/23879252/meta-shut-down-dead-buried-bogo-oculus-games)<!-- TECH:END -->
+ - [New iPhone camera features and limitations detailed by Apple executives](https://appleinsider.com/articles/23/09/18/new-iphone-camera-features-and-limitations-detailed-by-apple-executives?utm_medium=rss)
+ - [Agility Robotics is opening a Salem, Oregon factory to mass produce up to 10K humanoid Digit robots per year, designed to be warehouse and factory &quot;co-workers&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p28#a230918p28)
+ - [The cast of Baldur’s Gate 3 is doing a D&amp;D one-shot as their in-game characters](https://www.theverge.com/2023/9/18/23879408/baldurs-gate-3-cast-dnd-high-rollers-one-shot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
