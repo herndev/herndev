@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Baldur’s Gate 3 cast play tabletop D&amp;D in character on Twitch](https://www.polygon.com/23879237/baldurs-gate-voice-cast-high-roller-dnd-stream)
- - [Activision Says Switch 2&#39;s Power Is Akin To PS4, Xbox One](https://kotaku.com/nintendo-switch-2-console-power-playstation-4-xbox-one-1850850348)
- - [A John Wick spinoff, American Horror Story, and more new TV this week](https://www.polygon.com/23864649/new-tv-netflix-john-wick-spinoff-ahs-delicate-love-is-blind)<!-- GAME:END -->
+ - [Destiny 2 Just Had One Of Its Wildest Weekends Ever](https://kotaku.com/destiny-2-crafting-glitch-exploit-disable-bungie-1850850802)
+ - [I want this prototype modular handheld gaming PC so badly](https://www.pcgamer.com/i-want-this-prototype-modular-handheld-gaming-pc-so-badly)
+ - [Disney World Partially Closed After Wild Bear Sneaks Inside](https://kotaku.com/wild-black-bear-caught-inside-disney-world-closed-ride-1850850549)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
