@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - ⏩ [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 👉 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)<!-- MEMES:END -->
+ - 💣 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - ⏩ [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 👉 [Wifu Material](http://9gag.com/gag/anz0Kbq)<!-- MEMES:END -->
 
 ---
 
