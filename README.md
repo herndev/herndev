@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Man vs Malware: Diary of a 2006 PC disaster](https://www.pcgamer.com/man-vs-malware-diary-of-a-2006-pc-disaster)
- - [Marvel&#39;s Avengers goes on sale one last time before being delisted forever](https://www.pcgamer.com/marvels-avengers-goes-on-sale-one-last-time-before-being-delisted-forever)
- - [NYT Connections hint and answers today: September 18 &lpar;#99&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-18-99)<!-- GAME:END -->
+ - [PC Gamer UK November issue on sale now: MechWarrior 5: Clans](https://www.pcgamer.com/pc-gamer-uk-november-issue-on-sale-now-mechwarrior-5-clans)
+ - [Mjolnir, bi-planes, and a big gun: Starfield players keep building anything other than spaceships](https://www.pcgamer.com/mjolnir-bi-planes-and-a-big-gun-starfield-players-keep-building-anything-other-than-spaceships)
+ - [Man vs Malware: Diary of a 2006 PC disaster](https://www.pcgamer.com/man-vs-malware-diary-of-a-2006-pc-disaster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
