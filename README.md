@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Preview the new My Little Pony cards for Magic: The Gathering](https://www.polygon.com/23878563/magic-the-gathering-my-little-pony-secret-lair-drop-extra-life-galloping)
- - [Starfield Fans Have Discovered A Halo Easter Egg](https://kotaku.com/starfield-halo-easter-egg-reach-eridani-ii-1850848745)
- - [The Crew Motorfest review](https://www.pcgamer.com/the-crew-motorfest-review)<!-- GAME:END -->
+ - [The Nitro Deck is for people who are sick of buying more Joy-Cons](https://www.polygon.com/reviews/23870523/nitro-deck-nintendo-switch-review)
+ - [Just in case you murder everyone, Baldur&#39;s Gate 3 has back-up NPCs—and even back-ups for its back-ups](https://www.pcgamer.com/just-in-case-you-murder-everyone-baldurs-gate-3-has-back-up-npcsand-even-back-ups-for-its-back-ups)
+ - [Monster Hunter Now Hunter Rank rewards and unlocks list](https://www.polygon.com/monster-hunter-now-guides/23871598/hunter-rank-rewards-unlocks-list-hrp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
