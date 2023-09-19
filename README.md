@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - ⏩ [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
- - 👉 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)<!-- MEMES:END -->
+ - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - ⏩ [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
+ - 👉 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)<!-- MEMES:END -->
 
 ---
 
