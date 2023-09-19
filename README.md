@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me](http://9gag.com/gag/a8qvjK6)
- - ⏩ [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 👉 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)<!-- MEMES:END -->
+ - 💣 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
+ - ⏩ [You know what\u2026?](http://9gag.com/gag/aL1ODeg)
+ - 👉 [Strong women getting offended by silly jokes is hilarious](http://9gag.com/gag/aOxnz8r)<!-- MEMES:END -->
 
 ---
 
