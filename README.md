@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - ⏩ [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
+ - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - ⏩ [Help me](http://9gag.com/gag/a8qvjK6)
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 
