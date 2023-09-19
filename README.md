@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung thinks 200MP tele cameras are the next big thing, and we can’t wait](https://www.androidauthority.com/samsung-200mp-telephoto-cameras-3365799/)
- - [Apple brings Dynamic Island, 48MP camera, and pink to the iPhone 15](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)
- - [Crowdstrike confirms acquiring Bionic, which analyzes a company&#39;s tech and IT to find vulnerabilities, sources say for $350M; Bionic has raised $82M in total &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230919/p29#a230919p29)<!-- TECH:END -->
+ - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)
+ - [How to get Double Tap on your existing Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-get-double-tap-on-your-existing-apple-watch?utm_medium=rss)
+ - [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
