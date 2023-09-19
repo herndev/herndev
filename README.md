@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Earth landmarks: How to find New York, London, Hong Kong, and more](https://www.pcgamer.com/starfield-snowglobe-locations)
- - [Payday 3 is all about embracing the unexpected](https://www.polygon.com/23879567/payday-3-preview-heists-skill-trees-loot)
- - [The tiny time-travel movie Aporia answers Oppenheimer’s big questions, badly](https://www.polygon.com/23879446/aporia-time-travel-oppenheimer-comparison)<!-- GAME:END -->
+ - [Ogre Clan member locations in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23880490/ogre-clan-member-locations-map-rewards-teams-party)
+ - [I spawned hundreds of Starfield NPCs and made them fight each other, and the winner was a guy named Bill](https://www.pcgamer.com/i-spawned-hundreds-of-starfield-npcs-and-made-them-fight-each-other-and-the-winner-was-a-guy-named-bill)
+ - [California court says Microsoft leak was Microsoft’s fault](https://www.polygon.com/23880760/microsoft-xbox-leak-court-documents-oops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
