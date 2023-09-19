@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)
  - [Intel quietly launches its speedy Wi-Fi 7 chipsets](https://www.pcgamer.com/intel-quietly-launches-its-speedy-wi-fi-7-chipsets)
- - [NYT Connections hint and answers today: September 19 &lpar;#100&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-19-100)
- - [The Baldur&#39;s Gate 3 cast will play their characters in a D&amp;D livestream this week](https://www.pcgamer.com/baldurs-gate-3-dnd-livestream-sep)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 19 &lpar;#100&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-19-100)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
