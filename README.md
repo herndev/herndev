@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m excited about these Oblivion and Fallout 3 remasters, but what we really need is a return to New Vegas](https://www.pcgamer.com/im-excited-about-these-oblivion-and-fallout-3-remasters-but-what-we-really-need-is-a-return-to-new-vegas)
- - [Xbox Expected A Red Dead Redemption 2 Next-Gen Update, Wanted It On Game Pass](https://kotaku.com/xbox-game-pass-leak-rdr-2-next-gen-red-dead-rockstar-1850852925)
- - [Elon Musk Brought A Gun To A Cyberpunk 2077 Recording Session](https://kotaku.com/elon-musk-biography-grimes-cyberpunk-2077-walter-isaac-1850852900)<!-- GAME:END -->
+ - [Starfield Earth landmarks: How to find New York, London, Hong Kong, and more](https://www.pcgamer.com/starfield-snowglobe-locations)
+ - [Payday 3 is all about embracing the unexpected](https://www.polygon.com/23879567/payday-3-preview-heists-skill-trees-loot)
+ - [The tiny time-travel movie Aporia answers Oppenheimer’s big questions, badly](https://www.polygon.com/23879446/aporia-time-travel-oppenheimer-comparison)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
