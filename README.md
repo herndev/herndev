@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
- - ⏩ [You know what\u2026?](http://9gag.com/gag/aL1ODeg)
- - 👉 [Strong women getting offended by silly jokes is hilarious](http://9gag.com/gag/aOxnz8r)<!-- MEMES:END -->
+ - 💣 [Justice Served..](http://9gag.com/gag/ay2m8YY)
+ - ⏩ [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 ---
 
