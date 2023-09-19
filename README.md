@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - ⏩ [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
+ - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 ---
 
