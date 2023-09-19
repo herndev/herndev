@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)
- - [Tabular, which provides an independent storage platform based on Apache Iceberg, raised $26M led by Altimeter Capital, bringing its total funding to $37M &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230919/p43#a230919p43)
- - [Everything We Know About Neuralink&#39;s Brain Implant Trial](https://www.wired.com/story/everything-we-know-about-neuralinks-brain-implant-trial/)<!-- TECH:END -->
+ - [Fitbit teases what could be a Fitbit Charge 6 announcement date](https://www.androidauthority.com/fitbit-charge-6-teaser-3365987/)
+ - [An interview with Instacart founder and former CEO Apoorva Mehta on Instacart&#39;s beginnings, his decision to exit the board, a reluctance to go public, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230919/p45#a230919p45)
+ - [Resident Evil Village on the iPhone 15 Pro actually looks pretty good](https://www.theverge.com/2023/9/19/23880782/iphone-15-pro-resident-evil-village-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
