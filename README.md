@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricket Wireless launches new Android phone under its brand](https://www.androidauthority.com/cricket-wireless-android-phone-3365921/)
- - [Max will start offering a live sports tier in October](https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-date-price)
- - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)<!-- TECH:END -->
+ - [WhatsApp appears to be about to launch its long-overdue iPad app](https://www.theverge.com/2023/9/19/23880855/whatsapp-ipad-app-beta)
+ - [Mandiant details UNC53, a China-backed group that hacked 29+ global orgs since 2022 by tricking staff into using malware-infected USB drives, mostly in Africa &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230919/p42#a230919p42)
+ - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
