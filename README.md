@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Square CEO Alyssa Henry plans to step down on October 2, after working at the company for over nine years; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)
- - [Instacart prices its 22M shares at $30 a piece, giving the company a fully diluted valuation of ~$10B; Instacart was valued at $39B in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230918/p32#a230918p32)
- - [The best Apple Watch Series 9 bands](https://www.androidauthority.com/apple-watch-series-9-bands-3364397/)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Browns vs. Steelers, Saints vs. Panthers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-browns-vs-steelers-saints-vs-panthers-tonight-without-cable/#ftag=CAD590a51e)
+ - [Filing: CEO of Block&#39;s Square unit Alyssa Henry plans to step down on October 2 after nine years at the company; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)
+ - [Instacart prices its 22M shares at $30 a piece, giving the company a fully diluted valuation of ~$10B; Instacart was valued at $39B in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230918/p32#a230918p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
