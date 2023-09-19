@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alcion, which offers &quot;backup-as-a-service&quot; tools to enterprise, raised a $21M Series A led by Insight Partners-owned IT company Veeam, for $29M in total funding &lpar;Justin Warren/Forbes&rpar;](http://www.techmeme.com/230919/p24#a230919p24)
- - [Tel Aviv-based Cato Networks, which offers tools to protect remote workforces, raised $238M led by Lightspeed at a $3B+ valuation, for $770M in total funding &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230919/p23#a230919p23)
- - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung thinks 200MP tele cameras are the next big thing, and we can’t wait](https://www.androidauthority.com/samsung-200mp-telephoto-cameras-3365799/)
+ - [Apple brings Dynamic Island, 48MP camera, and pink to the iPhone 15](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)
+ - [Crowdstrike confirms acquiring Bionic, which analyzes a company&#39;s tech and IT to find vulnerabilities, sources say for $350M; Bionic has raised $82M in total &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230919/p29#a230919p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
