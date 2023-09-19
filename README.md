@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech delivers a new array of streaming accessories](https://www.polygon.com/gaming/2023/9/19/23879294/logitech-microphone-streaming-accessories-announcement)
- - [Microsoft Casually Discussed Buying Nintendo Or Valve In Leaked Email](https://kotaku.com/microsoft-buy-nintendo-net-worth-valve-steam-email-1850852461)
- - [Microsoft completely misjudged Baldur’s Gate 3](https://www.polygon.com/23880311/microsoft-baldurs-gate-xbox-series-x-version)<!-- GAME:END -->
+ - [September games you might have missed](https://www.polygon.com/deals/23869017/september-games-chants-of-sennaar-cocoon-party-animals-gunbrella-paleo-pines)
+ - [All Mortal Kombat 11 Fatalities and how to perform them](https://www.polygon.com/mortal-kombat-1-guides/23878868/fatalities-all-inputs-unlock-list)
+ - [Elon Musk potentially eyes locking Twitter behind a paywall to combat &#39;vast armies of bots&#39;](https://www.pcgamer.com/elon-musk-potentially-eyes-locking-twitter-behind-a-paywall-to-combat-vast-armies-of-bots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
