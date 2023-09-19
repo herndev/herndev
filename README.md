@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nest devices get major downgrade as part of legal challenge](https://www.androidauthority.com/google-nest-multiple-speaker-groups-3365632/)
- - [Governor Katie Hobbs says TSMC and Arizona authorities are talking about adding advanced chip packaging capacity to the chipmaker&#39;s plants in the state &lpar;Bloomberg&rpar;](http://www.techmeme.com/230919/p6#a230919p6)
- - [Universal Music Declares War on Streaming Noise](https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise/)<!-- TECH:END -->
+ - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)
+ - [FTC v. Microsoft: new documents detail an Xbox Series X refresh in 2024, codenamed Brooklin, including a new controller and cylindrical, disc-less design &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p7#a230919p7)
+ - [Phil Spencer says acquiring Nintendo would be ‘a career moment’](https://www.theverge.com/2023/9/19/23880146/phil-spencer-microsoft-xbox-acquiring-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
