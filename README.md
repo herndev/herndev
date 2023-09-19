@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - ⏩ [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
+ - 💣 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - ⏩ [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
 
 ---
 
