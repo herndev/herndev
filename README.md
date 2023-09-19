@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare III Zombie Trailer Brings New, But Familiar, Faces To Iconic Mode](https://kotaku.com/call-of-duty-modern-warfare-3-zombies-mode-new-trailer-1850854195)
- - [Behold The Pulsating Human Blob That Awaits You In The Crew Motorfest](https://kotaku.com/the-crew-motorfest-weird-blob-ubisoft-racing-game-1850854167)
- - [Starfield hero adds New Atlantis map to New Atlantis](https://www.pcgamer.com/starfield-hero-adds-a-new-atlantis-map-to-new-atlantis)<!-- GAME:END -->
+ - [Microsoft would buy Valve &#39;if opportunity arises,&#39; said Phil Spencer in leaked email](https://www.pcgamer.com/microsoft-would-buy-valve-if-opportunity-arises-said-phil-spencer-in-leaked-email)
+ - [Your September-October Xbox Game Pass Offerings Await](https://kotaku.com/xbox-game-pass-free-lies-of-p-gotham-knights-payday-3-1850854434)
+ - [Who Was Responsible For The Biggest Xbox Leak Ever? Court Blames Microsoft [Update]](https://kotaku.com/xbox-leak-microsoft-ftc-phil-spencer-game-pass-1850853514)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
