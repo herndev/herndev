@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now apply for a refund from Epic Games’ Fortnite FTC settlement](https://www.theverge.com/2023/9/19/23880687/fortnite-ftc-settlement-epic-games-apply)
- - [Epomaker’s TH80 Pro mechanical keyboard is down to just $71.99](https://www.theverge.com/2023/9/19/23878968/epomaker-th80-pro-mechanical-keyboard-8bitdo-ultimate-bluetooth-controller-deal-sale)
- - [Intel says its fifth-gen Emerald Rapids Xeon will arrive on December 14, and announces a Sierra Forest Xeon processor with 288 E-cores launching in 2024 &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230919/p39#a230919p39)<!-- TECH:END -->
+ - [Cricket Wireless launches new Android phone under its brand](https://www.androidauthority.com/cricket-wireless-android-phone-3365921/)
+ - [Max will start offering a live sports tier in October](https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-date-price)
+ - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
