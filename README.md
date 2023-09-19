@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Starfield tribute to Metal Gear Solid&#39;s awfully long ladder scene would keep even the most determined space pirate away from your loot](https://www.pcgamer.com/this-starfield-tribute-to-metal-gear-solids-awfully-long-ladder-scene-would-keep-even-the-most-determined-space-pirate-away-from-your-loot)
  - [Oops, Microsoft left 38TB of sensitive data exposed for 3 years including internal Teams chats](https://www.pcgamer.com/oops-microsoft-left-38tb-of-sensitive-data-exposed-for-3-years-including-internal-teams-chats)
- - [UK market authority lays down guidance for principled use of AI](https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai)
- - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)<!-- GAME:END -->
+ - [UK market authority lays down guidance for principled use of AI](https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
