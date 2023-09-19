@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [September games you might have missed](https://www.polygon.com/deals/23869017/september-games-chants-of-sennaar-cocoon-party-animals-gunbrella-paleo-pines)
- - [All Mortal Kombat 11 Fatalities and how to perform them](https://www.polygon.com/mortal-kombat-1-guides/23878868/fatalities-all-inputs-unlock-list)
- - [Elon Musk potentially eyes locking Twitter behind a paywall to combat &#39;vast armies of bots&#39;](https://www.pcgamer.com/elon-musk-potentially-eyes-locking-twitter-behind-a-paywall-to-combat-vast-armies-of-bots)<!-- GAME:END -->
+ - [I&#39;m excited about these Oblivion and Fallout 3 remasters, but what we really need is a return to New Vegas](https://www.pcgamer.com/im-excited-about-these-oblivion-and-fallout-3-remasters-but-what-we-really-need-is-a-return-to-new-vegas)
+ - [Xbox Expected A Red Dead Redemption 2 Next-Gen Update, Wanted It On Game Pass](https://kotaku.com/xbox-game-pass-leak-rdr-2-next-gen-red-dead-rockstar-1850852925)
+ - [Elon Musk Brought A Gun To A Cyberpunk 2077 Recording Session](https://kotaku.com/elon-musk-biography-grimes-cyberpunk-2077-walter-isaac-1850852900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
