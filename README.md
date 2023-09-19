@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
  - ⏩ [WTF?!](http://9gag.com/gag/ap9nL1n)
  - 👉 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)<!-- MEMES:END -->
 
