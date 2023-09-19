@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dough doesn’t pass the smell test](https://www.theverge.com/23872874/dough-eve-spectrum-monitor-refunds-v-tablet-follow-up)
- - [After Hong Kong police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Zen Soo/Associated Press&rpar;](http://www.techmeme.com/230919/p11#a230919p11)
- - [FTC v. Microsoft: docs show Microsoft&#39;s gaming plans for 2028, aiming for &quot;full convergence&quot; of its cloud platform and hardware to deliver &quot;cloud hybrid games&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p10#a230919p10)<!-- TECH:END -->
+ - [Apple revamps iOS 17 App Store with more personalized recommendations](https://appleinsider.com/articles/23/09/19/apple-revamps-ios-17-app-store-with-more-personalized-recommendations?utm_medium=rss)
+ - [TikTok launches a tool to let creators label AI-generated content and plans to test other ways of labeling such content automatically &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230919/p15#a230919p15)
+ - [Google updates Bard to use data from Gmail, Docs, and Drive, not just the web, to help find and summarize emails, highlight points in a document, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230919/p14#a230919p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
