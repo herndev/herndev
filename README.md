@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit teases what could be a Fitbit Charge 6 announcement date](https://www.androidauthority.com/fitbit-charge-6-teaser-3365987/)
- - [An interview with Instacart founder and former CEO Apoorva Mehta on Instacart&#39;s beginnings, his decision to exit the board, a reluctance to go public, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230919/p45#a230919p45)
- - [Resident Evil Village on the iPhone 15 Pro actually looks pretty good](https://www.theverge.com/2023/9/19/23880782/iphone-15-pro-resident-evil-village-gaming)<!-- TECH:END -->
+ - [Justice Department and Google spar over public access to antitrust trial files](https://www.theverge.com/2023/9/19/23881283/google-justice-department-antitrust-search-trial-online-document-access)
+ - [Signal announces PQXDH, a new cryptographic specification meant as a first step to advance quantum resistance for the Signal Protocol &lpar;Ehren Kret/Signal&rpar;](http://www.techmeme.com/230919/p46#a230919p46)
+ - [Roblox is rolling out in-experience subscriptions, but you can’t buy them yet](https://www.theverge.com/2023/9/19/23881336/roblox-in-experience-subscriptions-developers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
