@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 continues to walk back changes from its fiendishly unpopular 1.1 patch, boosting XP gain on World Tiers 3 and 4](https://www.pcgamer.com/diablo-4-continues-to-walk-back-changes-from-its-fiendishly-unpopular-11-patch-boosting-xp-gain-on-world-tiers-3-and-4)
- - [Stadia&#39;s death spiral, according to the Google employee in charge of mopping up after its murder](https://www.pcgamer.com/stadias-death-spiral-according-to-the-google-employee-in-charge-of-mopping-up-after-its-murder)
- - [One of the best Lovecraftian tabletop RPGs ever is ridiculously cheap right now](https://www.pcgamer.com/one-of-the-best-lovecraftian-tabletop-rpgs-ever-is-ridiculously-cheap-right-now)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Party Animals, Gotham Knights, Payday 3 , and More](https://news.xbox.com/en-us/2023/09/19/game-pass-september-2023-wave-2-announce/)
+ - [Logitech finally assimilates Blue Microphones with a new lineup of Yeti mics under its own name](https://www.pcgamer.com/logitech-finally-assimilates-blue-microphones-with-a-new-lineup-of-yeti-mics-under-its-own-name)
+ - [How to beat the Puppet of the Future in Lies of P](https://www.pcgamer.com/lies-of-p-puppet-of-the-future-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
