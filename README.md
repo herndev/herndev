@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lamb looks great](http://9gag.com/gag/avQBPKW)
- - ⏩ [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
+ - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - ⏩ [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 👉 [One of the best scenes](http://9gag.com/gag/a04DbYO)<!-- MEMES:END -->
 
 ---
 
