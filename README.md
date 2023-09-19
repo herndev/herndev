@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)
- - [Intel quietly launches its speedy Wi-Fi 7 chipsets](https://www.pcgamer.com/intel-quietly-launches-its-speedy-wi-fi-7-chipsets)
- - [NYT Connections hint and answers today: September 19 &lpar;#100&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-19-100)<!-- GAME:END -->
+ - [Oops, Microsoft left 38TB of sensitive data exposed for 3 years including internal Teams chats](https://www.pcgamer.com/oops-microsoft-left-38tb-of-sensitive-data-exposed-for-3-years-including-internal-teams-chats)
+ - [UK market authority lays down guidance for principled use of AI](https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai)
+ - [Can Girafarig be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23878739/can-girafarig-be-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
