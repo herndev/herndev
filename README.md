@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind details its new AlphaMissense AI, which predicts if mutations in human genes are likely to be harmful, an example of AI accelerating diagnosis &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230919/p34#a230919p34)
- - [After 10 years covering startups, former TechCrunch editor-in-chief Matthew Panzarino tells us what’s next](https://www.theverge.com/23880330/matthew-panzarino-techcrunch-eic-digital-media-ai-google-disrupt-decoder)
- - [Intel announces Meteor Lake, its first chips to use its new chiplet architecture, offering CPUs using the Intel 4 process node, ahead of a December 14 &quot;launch&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p33#a230919p33)<!-- TECH:END -->
+ - [UK&#39;s parliament passes the Online Safety Bill, paving the way for Royal Assent and the bill becoming law in the coming days &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230919/p37#a230919p37)
+ - [Fitbit app redesign is rolling out now to all users](https://www.androidauthority.com/fitbit-app-redesign-2023-3365874/)
+ - [Amazon plans to hire 250,000 US staff to help manage the holidays, up from 150,000 in 2022, and bumps the average hourly pay for warehouse and delivery workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230919/p36#a230919p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
