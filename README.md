@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft would buy Valve &#39;if opportunity arises,&#39; said Phil Spencer in leaked email](https://www.pcgamer.com/microsoft-would-buy-valve-if-opportunity-arises-said-phil-spencer-in-leaked-email)
- - [Your September-October Xbox Game Pass Offerings Await](https://kotaku.com/xbox-game-pass-free-lies-of-p-gotham-knights-payday-3-1850854434)
- - [Who Was Responsible For The Biggest Xbox Leak Ever? Court Blames Microsoft [Update]](https://kotaku.com/xbox-leak-microsoft-ftc-phil-spencer-game-pass-1850853514)<!-- GAME:END -->
+ - [Microsoft dismissed Baldur&#39;s Gate 3 as a &#39;second-run Stadia PC RPG&#39; before it released—Larian doesn&#39;t blame them](https://www.pcgamer.com/microsoft-dismissed-baldurs-gate-3-as-a-second-run-stadia-pc-rpg-before-it-releasedlarian-doesnt-blame-them)
+ - [Cyberpunk 2077 2.0&#39;s revamped police force is finally good enough](https://www.pcgamer.com/cyberpunk-2077-20s-revamped-police-force-is-finally-good-enough)
+ - [Microsoft would buy Valve &#39;if opportunity arises,&#39; said Phil Spencer in leaked email](https://www.pcgamer.com/microsoft-would-buy-valve-if-opportunity-arises-said-phil-spencer-in-leaked-email)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
