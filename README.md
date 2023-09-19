@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple revamps iOS 17 App Store with more personalized recommendations](https://appleinsider.com/articles/23/09/19/apple-revamps-ios-17-app-store-with-more-personalized-recommendations?utm_medium=rss)
- - [TikTok launches a tool to let creators label AI-generated content and plans to test other ways of labeling such content automatically &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230919/p15#a230919p15)
- - [Google updates Bard to use data from Gmail, Docs, and Drive, not just the web, to help find and summarize emails, highlight points in a document, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230919/p14#a230919p14)<!-- TECH:END -->
+ - [Byron Allen is coming to the Code Conference](https://www.theverge.com/2023/9/19/23874986/byron-allen-code-conference-2023-disney)
+ - [The best MagSafe battery pack alternatives with USB-C for iPhone 15](https://appleinsider.com/inside/iphone-15/best/the-best-magsafe-battery-pack-alternatives-with-usb-c-for-iphone-15?utm_medium=rss)
+ - [Electrify Video Partners, which acquires 50% to 100% of a YouTube creator&#39;s business, raised $85M from Capital D and says the company is profitable &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/230919/p19#a230919p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
