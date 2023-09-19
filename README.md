@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ogre Clan member locations in Pokémon Scarlet and Violet: The Teal Mask](https://www.polygon.com/pokemon-scarlet-violet-guide/23880490/ogre-clan-member-locations-map-rewards-teams-party)
- - [I spawned hundreds of Starfield NPCs and made them fight each other, and the winner was a guy named Bill](https://www.pcgamer.com/i-spawned-hundreds-of-starfield-npcs-and-made-them-fight-each-other-and-the-winner-was-a-guy-named-bill)
- - [California court says Microsoft leak was Microsoft’s fault](https://www.polygon.com/23880760/microsoft-xbox-leak-court-documents-oops)<!-- GAME:END -->
+ - [Modern Warfare III Zombie Trailer Brings New, But Familiar, Faces To Iconic Mode](https://kotaku.com/call-of-duty-modern-warfare-3-zombies-mode-new-trailer-1850854195)
+ - [Behold The Pulsating Human Blob That Awaits You In The Crew Motorfest](https://kotaku.com/the-crew-motorfest-weird-blob-ubisoft-racing-game-1850854167)
+ - [Starfield hero adds New Atlantis map to New Atlantis](https://www.pcgamer.com/starfield-hero-adds-a-new-atlantis-map-to-new-atlantis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
