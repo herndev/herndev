@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)
- - [How to get Double Tap on your existing Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-get-double-tap-on-your-existing-apple-watch?utm_medium=rss)
- - [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)<!-- TECH:END -->
+ - [Google DeepMind details its new AlphaMissense AI, which predicts if mutations in human genes are likely to be harmful, an example of AI accelerating diagnosis &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230919/p34#a230919p34)
+ - [After 10 years covering startups, former TechCrunch editor-in-chief Matthew Panzarino tells us what’s next](https://www.theverge.com/23880330/matthew-panzarino-techcrunch-eic-digital-media-ai-google-disrupt-decoder)
+ - [Intel announces Meteor Lake, its first chips to use its new chiplet architecture, offering CPUs using the Intel 4 process node, ahead of a December 14 &quot;launch&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p33#a230919p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
