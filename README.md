@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - ⏩ [Help me](http://9gag.com/gag/a8qvjK6)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - ⏩ [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
+ - 👉 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)<!-- MEMES:END -->
 
 ---
 
