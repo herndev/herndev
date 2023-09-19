@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - ⏩ [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
+ - 💣 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - ⏩ [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 👉 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)<!-- MEMES:END -->
 
 ---
 
