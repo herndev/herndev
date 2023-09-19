@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - ⏩ [The lamb looks great](http://9gag.com/gag/avQBPKW)
- - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
+ - 💣 [The lamb looks great](http://9gag.com/gag/avQBPKW)
+ - ⏩ [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 ---
 
