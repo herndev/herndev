@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Starfield tribute to Metal Gear Solid&#39;s awfully long ladder scene would keep even the most determined space pirate away from your loot](https://www.pcgamer.com/this-starfield-tribute-to-metal-gear-solids-awfully-long-ladder-scene-would-keep-even-the-most-determined-space-pirate-away-from-your-loot)
- - [Oops, Microsoft left 38TB of sensitive data exposed for 3 years including internal Teams chats](https://www.pcgamer.com/oops-microsoft-left-38tb-of-sensitive-data-exposed-for-3-years-including-internal-teams-chats)
- - [UK market authority lays down guidance for principled use of AI](https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai)<!-- GAME:END -->
+ - [Diablo 4 continues to walk back changes from its fiendishly unpopular 1.1 patch, boosting XP gain on World Tiers 3 and 4](https://www.pcgamer.com/diablo-4-continues-to-walk-back-changes-from-its-fiendishly-unpopular-11-patch-boosting-xp-gain-on-world-tiers-3-and-4)
+ - [Stadia&#39;s death spiral, according to the Google employee in charge of mopping up after its murder](https://www.pcgamer.com/stadias-death-spiral-according-to-the-google-employee-in-charge-of-mopping-up-after-its-murder)
+ - [One of the best Lovecraftian tabletop RPGs ever is ridiculously cheap right now](https://www.pcgamer.com/one-of-the-best-lovecraftian-tabletop-rpgs-ever-is-ridiculously-cheap-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
