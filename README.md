@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helicopter incoming...](http://9gag.com/gag/ay2mLLY)
- - ⏩ [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
- - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
+ - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - ⏩ [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 
