@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - ⏩ [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - ⏩ [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
 
 ---
 
