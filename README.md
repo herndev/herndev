@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Party Animals, Gotham Knights, Payday 3 , and More](https://news.xbox.com/en-us/2023/09/19/game-pass-september-2023-wave-2-announce/)
- - [Logitech finally assimilates Blue Microphones with a new lineup of Yeti mics under its own name](https://www.pcgamer.com/logitech-finally-assimilates-blue-microphones-with-a-new-lineup-of-yeti-mics-under-its-own-name)
- - [How to beat the Puppet of the Future in Lies of P](https://www.pcgamer.com/lies-of-p-puppet-of-the-future-how-to-beat)<!-- GAME:END -->
+ - [Xbox Series X/S Redesign And New Controller Coming In 2024, According To Leaked Plans](https://kotaku.com/xbox-series-x-s-upgrade-slim-controller-ps5-pro-leak-1850852160)
+ - [Oblivion remaster, Dishonored 3 listed in leaked Bethesda release schedule](https://www.polygon.com/23880264/bethesda-oblivion-dishonored-3-fallout-3-leaked-documents)
+ - [Resident Evil 4 Remake’s Ada Wong DLC Brings Back The Infamous Laser Room](https://kotaku.com/re4-resident-evil-4-separate-ways-dlc-price-laser-room-1850850961)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
