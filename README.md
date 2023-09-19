@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - ⏩ [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
+ - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - ⏩ [The lamb looks great](http://9gag.com/gag/avQBPKW)
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 
