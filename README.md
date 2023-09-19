@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - ⏩ [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 👉 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)<!-- MEMES:END -->
+ - 💣 [Helicopter incoming...](http://9gag.com/gag/ay2mLLY)
+ - ⏩ [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 
