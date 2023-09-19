@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - ⏩ [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
+ - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - ⏩ [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---
 
