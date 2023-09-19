@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byron Allen is coming to the Code Conference](https://www.theverge.com/2023/9/19/23874986/byron-allen-code-conference-2023-disney)
- - [The best MagSafe battery pack alternatives with USB-C for iPhone 15](https://appleinsider.com/inside/iphone-15/best/the-best-magsafe-battery-pack-alternatives-with-usb-c-for-iphone-15?utm_medium=rss)
- - [Electrify Video Partners, which acquires 50% to 100% of a YouTube creator&#39;s business, raised $85M from Capital D and says the company is profitable &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/230919/p19#a230919p19)<!-- TECH:END -->
+ - [Alcion, which offers &quot;backup-as-a-service&quot; tools to enterprise, raised a $21M Series A led by Insight Partners-owned IT company Veeam, for $29M in total funding &lpar;Justin Warren/Forbes&rpar;](http://www.techmeme.com/230919/p24#a230919p24)
+ - [Tel Aviv-based Cato Networks, which offers tools to protect remote workforces, raised $238M led by Lightspeed at a $3B+ valuation, for $770M in total funding &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230919/p23#a230919p23)
+ - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
