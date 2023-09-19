@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s parliament passes the Online Safety Bill, paving the way for Royal Assent and the bill becoming law in the coming days &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230919/p37#a230919p37)
- - [Fitbit app redesign is rolling out now to all users](https://www.androidauthority.com/fitbit-app-redesign-2023-3365874/)
- - [Amazon plans to hire 250,000 US staff to help manage the holidays, up from 150,000 in 2022, and bumps the average hourly pay for warehouse and delivery workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230919/p36#a230919p36)<!-- TECH:END -->
+ - [You can now apply for a refund from Epic Games’ Fortnite FTC settlement](https://www.theverge.com/2023/9/19/23880687/fortnite-ftc-settlement-epic-games-apply)
+ - [Epomaker’s TH80 Pro mechanical keyboard is down to just $71.99](https://www.theverge.com/2023/9/19/23878968/epomaker-th80-pro-mechanical-keyboard-8bitdo-ultimate-bluetooth-controller-deal-sale)
+ - [Intel says its fifth-gen Emerald Rapids Xeon will arrive on December 14, and announces a Sierra Forest Xeon processor with 288 E-cores launching in 2024 &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230919/p39#a230919p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
