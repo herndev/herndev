@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X/S Redesign And New Controller Coming In 2024, According To Leaked Plans](https://kotaku.com/xbox-series-x-s-upgrade-slim-controller-ps5-pro-leak-1850852160)
- - [Oblivion remaster, Dishonored 3 listed in leaked Bethesda release schedule](https://www.polygon.com/23880264/bethesda-oblivion-dishonored-3-fallout-3-leaked-documents)
- - [Resident Evil 4 Remake’s Ada Wong DLC Brings Back The Infamous Laser Room](https://kotaku.com/re4-resident-evil-4-separate-ways-dlc-price-laser-room-1850850961)<!-- GAME:END -->
+ - [Logitech delivers a new array of streaming accessories](https://www.polygon.com/gaming/2023/9/19/23879294/logitech-microphone-streaming-accessories-announcement)
+ - [Microsoft Casually Discussed Buying Nintendo Or Valve In Leaked Email](https://kotaku.com/microsoft-buy-nintendo-net-worth-valve-steam-email-1850852461)
+ - [Microsoft completely misjudged Baldur’s Gate 3](https://www.polygon.com/23880311/microsoft-baldurs-gate-xbox-series-x-version)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
