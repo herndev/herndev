@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - ⏩ [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
- - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
+ - 💣 [That moment when the heebie-jeebies consumes you](http://9gag.com/gag/a8qvo63)
+ - ⏩ [Justice Served..](http://9gag.com/gag/ay2m8YY)
+ - 👉 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)<!-- MEMES:END -->
 
 ---
 
