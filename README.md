@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Tab S9 FE and S9 FE Plus leak reveals prices, colors, and versions](https://www.androidauthority.com/galaxy-tab-s9-fe-price-leak-3366300/)
- - [What an AI-Generated Medieval Village Means for the Future of Art](https://www.wired.com/story/artificial-intelligence-medieval-village/)
- - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)<!-- TECH:END -->
+ - [In its Prime lawsuit, the FTC alleges three Amazon executives played key roles in enrolling customers unwittingly and making it hard to cancel subscriptions &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230920/p33#a230920p33)
+ - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
+ - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
