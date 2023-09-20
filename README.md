@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - ⏩ [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
+ - 💣 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
+ - ⏩ [What a trick shot](http://9gag.com/gag/aME08VR)
+ - 👉 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)<!-- MEMES:END -->
 
 ---
 
