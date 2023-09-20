@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Garmin vivoactive 5 makes fitness tracking accessible to all](https://www.androidauthority.com/garmin-vivoactive-5-3360623/)
- - [Code leak says WhatsApp is finally coming to iPad](https://appleinsider.com/articles/23/09/20/code-leak-says-whatsapp-is-finally-coming-to-ipad?utm_medium=rss)
- - [After Meta criticizes potential UK encryption rules, the UK says Meta &quot;failed to provide assurances&quot; over keeping its platforms &quot;safe from sickening abusers&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230920/p12#a230920p12)<!-- TECH:END -->
+ - [Latin America-focused rapid grocery startup JOKR raised a $50M Series D led by Convivialit&amp;eacute; at an $800M valuation, down from a $1.3B valuation in February 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230920/p16#a230920p16)
+ - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)
+ - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
