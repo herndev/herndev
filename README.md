@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [Lies Of P’s Weapon Customization Sure Is Something Special](https://kotaku.com/lies-of-p-weapon-customization-blade-handle-crank-1850854588)
- - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)<!-- GAME:END -->
+ - [CD Projekt recommends starting a new game when Cyberpunk 2077 Update 2.0 drops: &#39;starting fresh will enhance your overall gameplay experience&#39;](https://www.pcgamer.com/cd-projekt-recommends-starting-a-new-game-when-cyberpunk-2077-update-20-drops-starting-fresh-will-enhance-your-overall-gameplay-experience)
+ - [Fortnite Players Can Now Get A Refund From Historic FTC Settlement](https://kotaku.com/fortnite-settlement-ftc-epic-games-apply-refund-1850856499)
+ - [A friendly reminder: you have until Thursday to get a Steam Deck for 20% off](https://www.polygon.com/deals/2023/9/20/23882013/steam-deck-deal-20-percent-off-anniversary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
