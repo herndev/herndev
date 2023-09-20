@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Trailer for disastrous Mortal Kombat 1 Switch release contains a Steam achievement popup](https://www.pcgamer.com/trailer-for-disastrous-mortal-kombat-1-switch-release-contains-a-steam-achievement-popup)
  - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)
- - [Jujutsu Kaisen fans are in an uproar over its latest plot twist](https://www.polygon.com/23882712/jujutsu-kaisen-chapter-236-leak-gojo-satoru)
- - [Ahsoka’s Baylan Skoll could have been Star Wars’ Ned Stark if he wasn’t such a mess](https://www.polygon.com/star-wars/23882536/ahsoka-baylan-skoll-thrawn-ned-stark-bad-guy-star-wars)<!-- GAME:END -->
+ - [Jujutsu Kaisen fans are in an uproar over its latest plot twist](https://www.polygon.com/23882712/jujutsu-kaisen-chapter-236-leak-gojo-satoru)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
