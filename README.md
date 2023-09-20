@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Assassin&#39;s Creed Mirage has very reasonable system requirements, thank god](https://www.pcgamer.com/assassins-creed-mirage-has-very-reasonable-system-requirements-thank-god)
  - [The Silly Story Behind The Weirdest Xbox Exclusive](https://kotaku.com/yakuza-like-a-dragon-ps5-xbox-series-x-s-exclusive-why-1850854888)
- - [Lofi girl has a new form: Lego hip hop girl](https://www.polygon.com/23881211/lofi-hip-hop-girl-lego-stream-youtube)
- - [Microsoft dismissed Baldur&#39;s Gate 3 as a &#39;second-run Stadia PC RPG&#39; before it released—Larian doesn&#39;t blame them](https://www.pcgamer.com/microsoft-dismissed-baldurs-gate-3-as-a-second-run-stadia-pc-rpg-before-it-releasedlarian-doesnt-blame-them)<!-- GAME:END -->
+ - [Lofi girl has a new form: Lego hip hop girl](https://www.polygon.com/23881211/lofi-hip-hop-girl-lego-stream-youtube)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
