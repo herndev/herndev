@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is expanding its paid verification badge to business accounts](https://www.theverge.com/2023/9/20/23880510/meta-verified-blue-check-businesses-instagram-facebook-whatsapp)
- - [An Uber executive warns the EU&#39;s Platform Work Directive designating gig workers as employees will result in Uber closing in hundreds of cities and price hikes &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230920/p3#a230920p3)
- - [Sources: Huawei&#39;s HiSilicon is shipping new Chinese-made chips for surveillance cameras, a fresh sign that the company is finding ways around US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/230920/p2#a230920p2)<!-- TECH:END -->
+ - [Galaxy S24 Ultra might not be the zoom king in 2024 thanks to this downgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-drop-10x-camera-5x-camera-3365193/)
+ - [A profile of Jeff Yass, whose Susquehanna International Group has a ~15% stake in ByteDance, and is working to prevent a US TikTok ban by donating to lawmakers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p7#a230920p7)
+ - [It’s time to turn in your Pixel 4a as Google ends software support](https://www.androidauthority.com/google-pixel-4a-end-of-life-3366088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
