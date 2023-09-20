@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Release Notes – Delta &lpar;2309.230918-2000&rpar;](https://news.xbox.com/en-us/2023/09/20/xbox-insider-release-notes-delta-2309-230918-2000/)
- - [Xbox Insider Release Notes – Beta &lpar;2309.230918-2000&rpar;](https://news.xbox.com/en-us/2023/09/20/xbox-insider-release-notes-beta-2309-230918-2000/)
- - [Adorable PSA takes on the classroom menace of... chess?](https://www.polygon.com/23882620/teens-love-chess-psa-classroom-distraction-youtube)<!-- GAME:END -->
+ - [QVC Deal Will Let You Buy Mortal Kombat 1, Diablo IV, And Other New Games For $40](https://kotaku.com/qvc-deal-40-30-20-games-mortal-kombat-diablo-zelda-1850858483)
+ - [How to solve the ‘Destroy the World’ Klue in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882613/destroy-the-world-klue-solution-invasion-fengjian-village)
+ - [How to solve the ‘Flipping Out’ Klue in Mortal Kombat 1](https://www.polygon.com/mortal-kombat-1-guides/23882257/flipping-out-klue-solution-invasion-tarkatan-colony)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
