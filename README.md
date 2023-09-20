@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - ⏩ [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 👉 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)<!-- MEMES:END -->
+ - 💣 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - ⏩ [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
+ - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
 
 ---
 
