@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latin America-focused rapid grocery startup JOKR raised a $50M Series D led by Convivialit&amp;eacute; at an $800M valuation, down from a $1.3B valuation in February 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230920/p16#a230920p16)
- - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)
- - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)
+ - [This $459 Bambu A1 Mini is almost the ‘easy button’ of 3D printers](https://www.theverge.com/2023/9/20/23881523/bambu-a1-mini-ams-lite-3d-printer-price-release-hands-on)
+ - [Substack’s redesign makes it feel like a more traditional social media app](https://www.theverge.com/2023/9/20/23881455/substack-app-redesign-home-tab-posts-notes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
