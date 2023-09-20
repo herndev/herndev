@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 probably releases next week](https://www.pcgamer.com/counter-strike-2-probably-releases-next-week)
- - [Everything about Sega’s new Yakuza game looks bonkers](https://www.polygon.com/23882006/like-a-dragon-infinite-wealth-release-date-sega-yakuza)
- - [Mortal Kombat 1 does the funniest thing possible with its timeline shenanigans](https://www.polygon.com/23879205/mortal-kombat-1-timeline-ending-armageddon)<!-- GAME:END -->
+ - [Your iPad can now serve as a gaming monitor](https://www.polygon.com/23882885/ipad-orion-gaming-monitor-app-usb-c-hdmi)
+ - [Jujutsu Kaisen fans are in an uproar over its latest plot twist](https://www.polygon.com/23882712/jujutsu-kaisen-chapter-236-leak-gojo-satoru)
+ - [Ahsoka’s Baylan Skoll could have been Star Wars’ Ned Stark if he wasn’t such a mess](https://www.polygon.com/star-wars/23882536/ahsoka-baylan-skoll-thrawn-ned-stark-bad-guy-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
