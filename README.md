@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox kills physical media with its new Series X — for real this time](https://www.polygon.com/23881253/xbox-series-x-all-digital-no-disc-analysis)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for September: NieR Replicant ver.1.22474487139…, 13 Sentinels: Aegis Rim, Sid Meier’s Civilization VI](https://blog.playstation.com/2023/09/20/20230920-psplus/)
- - [PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/playstation-5-console-ea-sports-fc-24-bundle-coming-september-29/)
- - [PlayStation 5 Console – EA Sports FC 24 Bundle coming September 29](https://blog.playstation.com/2023/09/20/playstation-5-console-ea-sports-fc-24-bundle-coming-september-29/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for September: NieR Replicant ver.1.22474487139…, 13 Sentinels: Aegis Rim, Sid Meier’s Civilization VI](https://blog.playstation.com/2023/09/20/20230920-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
