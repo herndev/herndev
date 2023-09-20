@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon makes Alexa more conversational with generative AI](https://www.androidauthority.com/amazon-alexa-ai-improvements-3366260/)
- - [Commute in style with this tempting Razor C45 electric scooter deal](https://www.androidauthority.com/razor-c45-electric-scooter-deal-3366256/)
- - [Amazon unveils the $180 Echo Hub, a wall-mountable smart home controller with an 8&quot; touchscreen, and Map View, a new interface that shows a home&#39;s floor plan &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230920/p29#a230920p29)<!-- TECH:END -->
+ - [Latest Galaxy Buds FE leak give us our best look yet at Samsung’s earbuds](https://www.androidauthority.com/galaxy-buds-fe-new-images-3366278/)
+ - [The new FineWoven iPhone cases are very bad](https://www.theverge.com/2023/9/20/23882255/apple-iphone-15-finewoven-case-wallet-bad)
+ - [EA taps Burnout studio Criterion to work on ‘new era’ of Battlefield](https://www.theverge.com/2023/9/20/23882537/ea-criterion-battlefield)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
